@@ -3,8 +3,8 @@ import React from 'react';
 const capabilities = [
   {
     title: 'PRIVATE EQUITY',
-    subtitle: 'Principal Investment',
-    description: 'Control buyouts and strategic add-ons in the European mid-market. Focus on founder-led industrial and service sector consolidation.',
+    subtitle: 'PRINCIPAL INVESTMENT',
+    description: 'Control buyouts in regulated sectors and founder-led enterprises. Focus on scalable platforms within Financial Services and the European Mid-Market.',
     icon: (
       <svg className="w-8 h-8 text-oldgold" fill="none" viewBox="0 0 24 24" stroke="currentColor">
         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1} d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6" />
@@ -13,7 +13,7 @@ const capabilities = [
   },
   {
     title: 'PRIVATE CREDIT',
-    subtitle: 'Special Situations & Liquidity',
+    subtitle: 'SPECIAL SITUATIONS & LIQUIDITY',
     description: 'Asset-backed credit structuring for complex liquidity needs. Non-recourse facilities against digital and traditional collateral classes.',
     icon: (
       <svg className="w-8 h-8 text-oldgold" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -23,8 +23,8 @@ const capabilities = [
   },
   {
     title: 'INFRASTRUCTURE',
-    subtitle: 'Energy & Digital Assets',
-    description: 'Direct investment in system-critical infrastructure. From North American energy reserves to emerging market digital connectivity.',
+    subtitle: 'ENERGY & DIGITAL INFRASTRUCTURE',
+    description: 'Direct investment in system-critical assets. From North American energy reserves to sovereign-level TMT and 5G infrastructure in emerging markets.',
     icon: (
       <svg className="w-8 h-8 text-oldgold" fill="none" viewBox="0 0 24 24" stroke="currentColor">
         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1} d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9" />
