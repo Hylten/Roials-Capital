@@ -7,11 +7,6 @@ interface TeamProps {
 
 const leadershipMembers: TeamMember[] = [
   {
-    name: 'Jonas Hyltén',
-    role: 'Founder & Managing Partner',
-    bio: 'Founder & Managing Partner at Roials Capital. Leads capital execution mandates in Private Equity. Bridge between institutional investors and high-performance strategies with a background in M&A. Drives institutional-grade fundraising and LP alignment through proprietary execution systems, accelerating capital velocity for principals.'
-  },
-  {
     name: 'Dr. Vincent deFilippo',
     role: 'Senior Advisor (Principal, Vienna Capital Partners)',
     bio: 'Principal at Vienna Capital Partners with 30+ years’ experience raising billions in equity and real estate across Asia, Europe, and the US. Ex-CEO of deFilippo Capitale (APAC), led landmark $6B Amaya exit. Expert in equity lending, energy PE, and global capital markets. Proven track record in IPOs, structured finance, and investor relations.'
@@ -25,6 +20,11 @@ const leadershipMembers: TeamMember[] = [
     name: 'Anthony Minissale',
     role: 'Senior Advisor (Structuring & Capital Markets)',
     bio: '30+ years in global derivatives and financial services. Founder of AJM Partners; expert in quantitative asset models and risk platforms. Leads structuring of $100M+ funds for institutional LPs. Spearheads capital raises and M&A, aligning complex execution with Roials Capital’s mandate-driven, institutional-grade deployment strategy.'
+  },
+  {
+    name: 'Jonas Hyltén',
+    role: 'Founder & Managing Partner',
+    bio: 'Founder & Managing Partner at Roials Capital. Leads capital execution mandates in Private Equity. Bridge between institutional investors and high-performance strategies with a background in M&A. Drives institutional-grade fundraising and LP alignment through proprietary execution systems, accelerating capital velocity for principals.'
   },
   {
     name: 'Richard Murbeck',
@@ -46,27 +46,7 @@ const globalPartners: TeamMember[] = [
   {
     name: 'Henrik Kinell',
     role: 'Partner (Nordics)',
-    bio: 'Nordics Partner, over twenty years of elite institutional sales grit, now quietly building LP pipelines while structuring discreet crypto-backed and share-collateral loans for UHNWIs.'
-  },
-  {
-    name: 'Milos Djokovic',
-    role: 'Partner (Dubai)',
-    bio: 'Raised over $200 million across mandates leveraging Dubai family-office networks in real assets to drive institutional fundraising.'
-  },
-  {
-    name: 'Frank J. Braider III',
-    role: 'Partner (US)',
-    bio: 'Structures US capital partnerships in real assets and infrastructure. Decades of private-markets expertise.'
-  },
-  {
-    name: 'Evans Lubwama',
-    role: 'Partner (Marbella)',
-    bio: 'Ex-GKFX & Saxo Bank broker managing nine-figure AUM. Advises HNWIs and family offices on capital strategies.'
-  },
-  {
-    name: 'James Rae',
-    role: 'Partner (Digital Assets)',
-    bio: 'Leads $20M+ raises in digital assets/infrastructure (Layer 1, DeFi). Builds global investor networks. Ex-CMO Web3 platforms.'
+    bio: 'Nordic Partner leveraging 20+ years of institutional origination. Structures complex collateralized lending and private capital solutions for UHNWIs, securing deep LP pipelines.'
   },
   {
     name: 'Stefan Ahlén',
@@ -74,9 +54,29 @@ const globalPartners: TeamMember[] = [
     bio: 'Stockholm-based Partner with 25+ years sales leadership and founder of Credence Invest, driving Nordic LP pipelines and institutional sales mandates.'
   },
   {
+    name: 'Milos Djokovic',
+    role: 'Partner (Dubai)',
+    bio: 'Raised over $200 million across mandates leveraging Dubai family-office networks in real assets to drive institutional fundraising.'
+  },
+  {
     name: 'Omar Zidan',
     role: 'Partner (UK)',
-    bio: 'Omar leads Roials Capital’s AI platforms. Delivers scalable investor infrastructure.'
+    bio: 'Partner leading Digital Infrastructure. Architects scalable, AI-driven deal sourcing and investor management systems to support global execution.'
+  },
+  {
+    name: 'James Rae',
+    role: 'Partner (Digital Assets)',
+    bio: 'Partner (Digital Assets). Structures institutional capital formation for Layer 1 protocols and DeFi infrastructure. Bridges traditional finance networks with Web3 ecosystems.'
+  },
+  {
+    name: 'Evans Lubwama',
+    role: 'Partner (Marbella)',
+    bio: 'Partner overseeing Multi-Asset Strategy. Former Saxo Bank & GKFX executive. Advises Family Offices on capital allocation and liquidity strategies across global markets.'
+  },
+  {
+    name: 'Frank J. Braider III',
+    role: 'Partner (US)',
+    bio: 'Structures US capital partnerships in real assets and infrastructure. Decades of private-markets expertise.'
   },
   {
     name: 'Aiswarya Madhav',
@@ -141,7 +141,7 @@ export const Team: React.FC<TeamProps> = ({ onThesisClick }) => {
             {globalPartners.map((member, index) => (
               <div key={index} className="group flex flex-col h-full border-l border-white/5 pl-6 hover:border-oldgold/50 transition-colors duration-500">
                 <h3 className="font-serif text-xl text-platinum mb-2 leading-snug group-hover:text-white transition-colors">{member.name}</h3>
-                <p className="font-sans text-[10px] uppercase tracking-widest text-gray-400 mb-4 font-bold group-hover:text-oldgold transition-colors">
+                <p className="font-sans text-[10px] uppercase tracking-widest text-oldgold mb-4 font-bold">
                   {member.role}
                 </p>
                 <p className="font-sans text-sm text-gray-400 leading-relaxed font-light">

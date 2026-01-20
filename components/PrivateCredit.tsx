@@ -64,16 +64,6 @@ export const PrivateCredit: React.FC<PrivateCreditProps> = ({ onInquireClick }) 
                     <p className="font-sans text-sm text-gray-400">Unrestricted use of funds. Deploy capital for business expansion, real estate, or lifestyle.</p>
                 </div>
             </div>
-
-             <div className="pt-4">
-               <button 
-                onClick={onInquireClick}
-                className="group flex items-center gap-4 text-xs uppercase tracking-[0.2em] text-platinum hover:text-oldgold transition-colors"
-               >
-                 <span className="border-b border-platinum/30 group-hover:border-oldgold pb-1 transition-all">Request Aggregated Terms</span>
-                 <span>&rarr;</span>
-               </button>
-            </div>
           </div>
 
           {/* Right Column: The Matrix */}
@@ -99,7 +89,7 @@ export const PrivateCredit: React.FC<PrivateCreditProps> = ({ onInquireClick }) 
 
                   <div className="group">
                     <p className="font-sans text-[10px] uppercase tracking-widest text-gray-500 mb-2 font-bold">Annual Interest</p>
-                    <p className="font-mono text-3xl md:text-4xl text-platinum group-hover:text-oldgold transition-colors">Fixed from 2.00%</p>
+                    <p className="font-mono text-3xl md:text-4xl text-platinum group-hover:text-oldgold transition-colors">Fixed from 2.00%*</p>
                     <p className="font-mono text-xs text-gray-500 mt-2">*Securities & Crypto</p>
                   </div>
 
@@ -115,7 +105,7 @@ export const PrivateCredit: React.FC<PrivateCreditProps> = ({ onInquireClick }) 
                     onClick={onInquireClick}
                     className="w-full bg-oldgold hover:bg-white text-obsidian px-8 py-4 font-sans text-xs uppercase tracking-[0.2em] font-bold transition-colors duration-300"
                   >
-                    Request Aggregated Terms
+                    Inquire
                   </button>
                 </div>
 
@@ -159,17 +149,17 @@ export const PrivateCredit: React.FC<PrivateCreditProps> = ({ onInquireClick }) 
                     </div>
                 </div>
 
-                 {/* Luxury & Real Assets */}
+                 {/* Real Assets & Specie */}
                  <div className="bg-white/[0.02] border border-white/5 p-8 hover:bg-white/[0.04] transition-colors duration-500 group">
                     <div className="mb-6">
                         <span className="font-mono text-oldgold text-2xl">03</span>
                     </div>
-                    <h4 className="font-serif text-xl text-platinum mb-4 group-hover:text-white">Luxury & Real Assets</h4>
+                    <h4 className="font-serif text-xl text-platinum mb-4 group-hover:text-white">Real Assets & Specie</h4>
                     <p className="font-sans text-sm text-gray-400 leading-relaxed mb-4">
-                        Investment-Grade Art, GIA Certified Gemstones, Gold Bullion.
+                        Gold Bullion (Allocated), Investment-Grade Art, IG Corporate Bonds.
                     </p>
                      <div className="flex flex-wrap gap-2">
-                        <span className="text-[10px] uppercase border border-white/10 px-2 py-1 text-gray-500">High-Yield Trade Integration</span>
+                        <span className="text-[10px] uppercase border border-white/10 px-2 py-1 text-gray-500">Bespoke Valuation & Structure</span>
                     </div>
                 </div>
             </div>

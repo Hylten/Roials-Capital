@@ -6,6 +6,7 @@ interface FooterProps {
   onThesisClick?: () => void;
   onPrivateCreditClick?: () => void;
   onMandatesClick?: () => void;
+  onTeamClick?: () => void;
   onInquireClick?: () => void;
   onTermsClick?: () => void;
   onPrivacyClick?: () => void;
@@ -18,6 +19,7 @@ export const Footer: React.FC<FooterProps> = ({
   onThesisClick, 
   onPrivateCreditClick, 
   onMandatesClick,
+  onTeamClick,
   onInquireClick,
   onTermsClick,
   onPrivacyClick,
@@ -29,8 +31,11 @@ export const Footer: React.FC<FooterProps> = ({
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 mb-20">
           
           <div className="col-span-1 md:col-span-2">
-            <h3 className="font-display font-medium text-3xl text-platinum tracking-[0.1em] mb-8">
-              ROIALS <span className="text-oldgold">CAPITAL</span>
+            <h3 
+              onClick={onHomeClick}
+              className="font-display font-medium text-3xl text-platinum tracking-[0.1em] mb-8 cursor-pointer group"
+            >
+              ROIALS <span className="text-oldgold group-hover:text-white transition-colors">CAPITAL</span>
             </h3>
             <p className="font-sans text-gray-400 text-lg max-w-sm mb-8 font-light">
               Stockholm · London · Dubai
@@ -50,7 +55,7 @@ export const Footer: React.FC<FooterProps> = ({
              <ul className="space-y-5">
                 <li 
                   onClick={onMandatesClick}
-                  className="text-gray-300 text-base hover:text-white cursor-pointer transition-colors font-light"
+                  className="text-gray-300 text-base hover:text-oldgold cursor-pointer transition-colors font-light"
                 >
                   Private Equity
                 </li>
@@ -72,10 +77,15 @@ export const Footer: React.FC<FooterProps> = ({
                 >
                   Home
                 </li>
-                <li className="text-gray-300 text-base hover:text-white cursor-pointer transition-colors font-light">Team</li>
+                <li 
+                  onClick={onTeamClick}
+                  className="text-gray-300 text-base hover:text-white cursor-pointer transition-colors font-light"
+                >
+                  Partners
+                </li>
                 <li 
                   onClick={onInquireClick}
-                  className="text-gray-300 text-base hover:text-oldgold cursor-pointer transition-colors font-light"
+                  className="text-gray-300 text-base hover:text-oldgold cursor-pointer transition-colors font-light font-medium"
                 >
                   Inquire
                 </li>
@@ -105,8 +115,8 @@ export const Footer: React.FC<FooterProps> = ({
               &copy; 2026 Roials Capital. All rights reserved.
             </p>
             <div className="flex gap-6">
-              <button onClick={onPrivacyClick} className="font-sans text-xs text-gray-600 hover:text-gray-400 transition-colors">Privacy Policy</button>
               <button onClick={onTermsClick} className="font-sans text-xs text-gray-600 hover:text-gray-400 transition-colors">Terms & Conditions</button>
+              <button onClick={onPrivacyClick} className="font-sans text-xs text-gray-600 hover:text-gray-400 transition-colors">Privacy Policy</button>
               <button onClick={onCookiesClick} className="font-sans text-xs text-gray-600 hover:text-gray-400 transition-colors">Cookie Policy</button>
             </div>
           </div>

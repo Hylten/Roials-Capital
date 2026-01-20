@@ -18,6 +18,7 @@ export const Header: React.FC<HeaderProps> = ({
   onInquireClick 
 }) => {
   const [isScrolled, setIsScrolled] = useState(false);
+  const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
   useEffect(() => {
     const handleScroll = () => {
@@ -28,74 +29,128 @@ export const Header: React.FC<HeaderProps> = ({
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
-  const navLinks = [
-    { name: 'Firm', action: onTeamClick },
-    { name: 'Equity', action: onMandatesClick },
-    { name: 'Credit', action: onCreditClick },
-  ];
+  // Lock scroll when mobile menu is open
+  useEffect(() => {
+    if (isMobileMenuOpen) {
+      document.body.style.overflow = 'hidden';
+      document.documentElement.style.overflow = 'hidden';
+    } else {
+      document.body.style.overflow = 'auto';
+      document.documentElement.style.overflow = 'auto';
+    }
+    
+    return () => {
+      document.body.style.overflow = 'auto';
+      document.documentElement.style.overflow = 'auto';
+    };
+  }, [isMobileMenuOpen]);
+
+  const handleNavAction = (action?: () => void) => {
+    // 1. Immediately close the menu
+    setIsMobileMenuOpen(false);
+    
+    // 2. Trigger the navigation action
+    if (action) action();
+    
+    // 3. Ensure we are at the top of the page for the new view
+    window.scrollTo({ top: 0, behavior: 'instant' });
+  };
 
   return (
-    <header 
-      className={`fixed top-0 left-0 w-full z-50 transition-all duration-500 border-b ${
-        isScrolled 
-          ? 'bg-obsidian/95 backdrop-blur-md border-oldgold/10 py-4' 
-          : 'bg-transparent border-transparent py-8'
-      }`}
-    >
-      <div className="max-w-7xl mx-auto px-6 md:px-12 flex justify-between items-center">
-        {/* Logo */}
-        <div className="flex items-center">
-          <a 
-            href="#" 
-            onClick={(e) => {
-              e.preventDefault();
-              if (onHomeClick) onHomeClick();
-              window.scrollTo({ top: 0, behavior: 'smooth' });
-            }}
-            className="group flex items-center gap-4"
-          >
-            {/* Golden Lion Image (Transparent) */}
-            <img 
-              src="https://i.postimg.cc/rFZDjGDT/Lion-King-ROIALS-Chat-GPT-Image-Mar-26-2025-09-42-11-AM-removebg-preview.png" 
-              alt="Roials Capital Lion" 
-              className="h-12 w-auto object-contain opacity-90 group-hover:opacity-100 transition-opacity duration-300"
-            />
-            
-            {/* Wordmark */}
-            <span className="font-display text-lg md:text-xl tracking-[0.15em] text-oldgold hover:text-white transition-colors duration-500 font-medium">
-              ROIALS CAPITAL
-            </span>
-          </a>
-        </div>
-
-        {/* Desktop Nav */}
-        <nav className="hidden md:flex gap-12">
-          {navLinks.map((link) => (
-            <button 
-              key={link.name} 
-              onClick={() => {
-                  if (link.action) {
-                      link.action();
-                      window.scrollTo({ top: 0, behavior: 'smooth' });
-                  }
+    <>
+      <header 
+        className={`fixed top-0 left-0 w-full z-[10000] transition-all duration-500 border-b ${
+          isScrolled 
+            ? 'bg-obsidian/95 backdrop-blur-md border-oldgold/10 py-4' 
+            : 'bg-transparent border-transparent py-8'
+        }`}
+      >
+        <div className="max-w-7xl mx-auto px-6 md:px-12 flex justify-between items-center">
+          {/* Logo */}
+          <div className="flex items-center">
+            <a 
+              href="#" 
+              onClick={(e) => {
+                e.preventDefault();
+                handleNavAction(onHomeClick);
               }}
-              className="font-sans text-xs uppercase tracking-[0.15em] transition-colors duration-300 font-medium cursor-pointer text-gray-400 hover:text-oldgold"
+              className="group flex items-center gap-4"
             >
-              {link.name}
-            </button>
-          ))}
-        </nav>
+              <img 
+                src="https://i.postimg.cc/rFZDjGDT/Lion-King-ROIALS-Chat-GPT-Image-Mar-26-2025-09-42-11-AM-removebg-preview.png" 
+                alt="Roials Capital Lion" 
+                className="h-10 md:h-12 w-auto object-contain opacity-90 group-hover:opacity-100 transition-opacity duration-300"
+              />
+              <span className="font-display text-base md:text-xl tracking-[0.2em] text-oldgold group-hover:text-white transition-colors duration-500 font-medium">
+                ROIALS CAPITAL
+              </span>
+            </a>
+          </div>
 
-        {/* Mobile Menu Icon */}
-        <button 
-          className="md:hidden text-oldgold"
-          onClick={onInquireClick} 
-        >
-          <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1} d="M4 6h16M4 12h16M4 18h16" />
-          </svg>
-        </button>
+          {/* Hamburger Menu Icon (Always Visible) */}
+          <button 
+            className="text-oldgold p-2 hover:text-white transition-colors duration-300 focus:outline-none relative z-[10001]"
+            onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
+            aria-label="Toggle Menu"
+          >
+            {isMobileMenuOpen ? (
+              <svg xmlns="http://www.w3.org/2000/svg" className="h-8 w-8 md:h-10 md:w-10" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1} d="M6 18L18 6M6 6l12 12" />
+              </svg>
+            ) : (
+              <svg xmlns="http://www.w3.org/2000/svg" className="h-8 w-8 md:h-10 md:w-10" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1} d="M4 8h16M4 16h10" />
+              </svg>
+            )}
+          </button>
+        </div>
+      </header>
+
+      {/* Full-Screen Menu Overlay */}
+      <div 
+        className={`fixed inset-0 z-[9999] bg-[#050505] transition-all duration-700 flex flex-col items-center justify-center ${
+          isMobileMenuOpen ? 'opacity-100 visible translate-y-0' : 'opacity-0 invisible -translate-y-full'
+        }`}
+      >
+        <nav className="flex flex-col items-center gap-8 md:gap-12">
+          <button 
+            onClick={() => handleNavAction(onHomeClick)}
+            className="font-display text-2xl md:text-4xl tracking-[0.25em] text-platinum hover:text-oldgold transition-all duration-500 hover:scale-105 uppercase"
+          >
+            HOME
+          </button>
+          <button 
+            onClick={() => handleNavAction(onMandatesClick)}
+            className="font-display text-2xl md:text-4xl tracking-[0.25em] text-platinum hover:text-oldgold transition-all duration-500 hover:scale-105 uppercase"
+          >
+            EQUITY
+          </button>
+          <button 
+            onClick={() => handleNavAction(onCreditClick)}
+            className="font-display text-2xl md:text-4xl tracking-[0.25em] text-platinum hover:text-oldgold transition-all duration-500 hover:scale-105 uppercase"
+          >
+            CREDIT
+          </button>
+          <button 
+            onClick={() => handleNavAction(onTeamClick)}
+            className="font-display text-2xl md:text-4xl tracking-[0.25em] text-platinum hover:text-oldgold transition-all duration-500 hover:scale-105 uppercase"
+          >
+            FIRM
+          </button>
+          
+          <div className="w-12 h-[1px] bg-white/10 my-4"></div>
+          
+          <button 
+            onClick={() => handleNavAction(onInquireClick)}
+            className="font-display text-2xl md:text-4xl tracking-[0.25em] text-oldgold border-2 border-oldgold/30 px-10 md:px-16 py-4 md:py-6 hover:bg-oldgold hover:text-obsidian hover:border-oldgold transition-all duration-500 uppercase"
+          >
+            INQUIRE
+          </button>
+        </nav>
+        
+        {/* Abstract Background Element for High-End Feel */}
+        <div className="absolute top-0 right-0 w-1/4 h-full bg-white/[0.02] -skew-x-12 transform origin-top-right pointer-events-none"></div>
       </div>
-    </header>
+    </>
   );
 };

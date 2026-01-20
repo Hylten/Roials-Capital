@@ -17,4 +17,5 @@ export interface TeamMember {
 export interface Stat {
   label: string;
   value: string;
+  subtitle?: string;
 }

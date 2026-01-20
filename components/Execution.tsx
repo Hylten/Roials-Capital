@@ -2,7 +2,11 @@ import React from 'react';
 import { Stat } from '../types';
 
 const stats: Stat[] = [
-  { label: 'Deployed (via Partners)', value: '$6B+' },
+  { 
+    label: 'Track Record', 
+    value: '$6B+',
+    subtitle: '150+ Years Combined Experience. PE, M&A, Derivatives & Credit.' 
+  },
   { label: 'Global Reach', value: 'NY · LDN · DXB · STHLM' },
   { label: 'Structure', value: 'Principal-Led' },
 ];
@@ -26,8 +30,7 @@ export const Execution: React.FC = () => {
                 Every mandate begins with rigorous structuring, governance alignment, and institutional preparation. 
               </p>
               <p className="font-sans text-xl md:text-2xl text-gray-200 leading-loose font-light">
-                We accept a <span className="text-oldgold italic">limited number</span> of engagements annually to ensure principal-led execution. 
-                Our approach requires deep integration, moving beyond placement to true equity participation and strategic alignment.
+                Capped at <span className="text-[#d4af37] italic">~5 mandates</span> annually to ensure rigorous, principal-led execution. Our approach requires deep integration, moving beyond placement to true equity participation and strategic alignment.
               </p>
             </div>
           </div>
@@ -41,6 +44,9 @@ export const Execution: React.FC = () => {
                   <div key={idx} className="border-l-2 border-oldgold pl-8 py-2">
                     <div className="font-display text-4xl md:text-5xl text-platinum mb-3">{stat.value}</div>
                     <div className="font-sans text-sm uppercase tracking-[0.2em] text-gray-400 font-medium">{stat.label}</div>
+                    {stat.subtitle && (
+                      <p className="font-sans text-sm text-gray-500 mt-4 leading-relaxed max-w-xs font-light">{stat.subtitle}</p>
+                    )}
                   </div>
                 ))}
              </div>

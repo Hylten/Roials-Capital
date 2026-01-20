@@ -8,15 +8,21 @@ import { Thesis } from './components/Thesis';
 import { PrivateCredit } from './components/PrivateCredit';
 import { Mandates } from './components/Mandates';
 import { Team } from './components/Team';
+import { Inquire } from './components/Inquire';
 import { Terms } from './components/legal/Terms';
 import { Privacy } from './components/legal/Privacy';
 import { Cookies } from './components/legal/Cookies';
 
-type View = 'home' | 'login' | 'thesis' | 'private-credit' | 'mandates' | 'team' | 'terms' | 'privacy' | 'cookies';
+type View = 'home' | 'login' | 'thesis' | 'private-credit' | 'mandates' | 'team' | 'inquire' | 'terms' | 'privacy' | 'cookies';
 
 const App: React.FC = () => {
   const [currentView, setCurrentView] = useState<View>('home');
   const [isContactModalOpen, setIsContactModalOpen] = useState(false);
+
+  // Scroll to top on every view change (backup for state changes)
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [currentView]);
 
   // Failsafe: Ensure scrolling is enabled on initial load
   useEffect(() => {
@@ -29,13 +35,12 @@ const App: React.FC = () => {
     };
   }, []);
 
-  const scrollToTop = () => {
-    window.scrollTo({ top: 0, behavior: 'smooth' });
-  };
-
   const handleViewChange = (view: View) => {
-    scrollToTop();
+    // Set the state
     setCurrentView(view);
+    
+    // Immediate scroll to top to handle cases where the user is already on the view (e.g., clicking 'Partners' in footer while on Firm page)
+    window.scrollTo({ top: 0, behavior: 'instant' });
   };
 
   if (currentView === 'login') {
@@ -43,36 +48,39 @@ const App: React.FC = () => {
   }
 
   return (
-    <div className="bg-obsidian min-h-screen text-platinum selection:bg-oldgold selection:text-obsidian">
+    <div className="bg-obsidian min-h-screen text-platinum selection:bg-oldgold selection:text-obsidian flex flex-col">
       <Header 
         onHomeClick={() => handleViewChange('home')} 
         onThesisClick={() => handleViewChange('thesis')}
         onCreditClick={() => handleViewChange('private-credit')}
         onMandatesClick={() => handleViewChange('mandates')}
         onTeamClick={() => handleViewChange('team')}
-        onInquireClick={() => setIsContactModalOpen(true)}
+        onInquireClick={() => handleViewChange('inquire')}
       />
-      <main>
+      <main className="flex-grow">
         {currentView === 'home' && (
           <Home 
-            onInquireClick={() => setIsContactModalOpen(true)} 
+            onInquireClick={() => handleViewChange('inquire')} 
             onTeamClick={() => handleViewChange('team')}
           />
         )}
         {currentView === 'thesis' && (
-           <Thesis onInquireClick={() => setIsContactModalOpen(true)} />
+           <Thesis onInquireClick={() => handleViewChange('inquire')} />
         )}
         {currentView === 'private-credit' && (
-           <PrivateCredit onInquireClick={() => setIsContactModalOpen(true)} />
+           <PrivateCredit onInquireClick={() => handleViewChange('inquire')} />
         )}
         {currentView === 'mandates' && (
             <Mandates 
-              onInquireClick={() => setIsContactModalOpen(true)} 
+              onInquireClick={() => handleViewChange('inquire')} 
               onThesisClick={() => handleViewChange('thesis')}
             />
         )}
         {currentView === 'team' && (
             <Team onThesisClick={() => handleViewChange('thesis')} />
+        )}
+        {currentView === 'inquire' && (
+            <Inquire />
         )}
         {currentView === 'terms' && (
             <Terms 
@@ -99,7 +107,8 @@ const App: React.FC = () => {
         onThesisClick={() => handleViewChange('thesis')}
         onPrivateCreditClick={() => handleViewChange('private-credit')}
         onMandatesClick={() => handleViewChange('mandates')}
-        onInquireClick={() => setIsContactModalOpen(true)}
+        onTeamClick={() => handleViewChange('team')}
+        onInquireClick={() => handleViewChange('inquire')}
         onTermsClick={() => handleViewChange('terms')}
         onPrivacyClick={() => handleViewChange('privacy')}
         onCookiesClick={() => handleViewChange('cookies')}

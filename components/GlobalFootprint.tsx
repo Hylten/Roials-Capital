@@ -5,7 +5,7 @@ export const GlobalFootprint: React.FC = () => {
     <section className="relative w-full bg-obsidian border-t border-white/10">
       
       {/* Image Grid */}
-      <div className="grid grid-cols-1 md:grid-cols-3 h-[600px] relative">
+      <div className="grid grid-cols-1 md:grid-cols-3 h-[150vh] md:h-[600px] relative">
         
         {/* Left Panel: London */}
         <div className="relative h-full overflow-hidden group border-b md:border-b-0 md:border-r border-white/5">
