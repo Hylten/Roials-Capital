@@ -46,13 +46,8 @@ export const Header: React.FC<HeaderProps> = ({
   }, [isMobileMenuOpen]);
 
   const handleNavAction = (action?: () => void) => {
-    // 1. Immediately close the menu
     setIsMobileMenuOpen(false);
-    
-    // 2. Trigger the navigation action
     if (action) action();
-    
-    // 3. Ensure we are at the top of the page for the new view
     window.scrollTo({ top: 0, behavior: 'instant' });
   };
 
@@ -87,53 +82,81 @@ export const Header: React.FC<HeaderProps> = ({
             </a>
           </div>
 
-          {/* Hamburger Menu Icon (Always Visible) */}
+          {/* Desktop Navigation - Visible only on md and up */}
+          <nav className="hidden lg:flex items-center gap-10">
+            <button 
+              onClick={() => handleNavAction(onMandatesClick)}
+              className="font-sans text-[10px] tracking-[0.2em] text-platinum hover:text-oldgold transition-colors font-bold uppercase"
+            >
+              Equity
+            </button>
+            <button 
+              onClick={() => handleNavAction(onCreditClick)}
+              className="font-sans text-[10px] tracking-[0.2em] text-platinum hover:text-oldgold transition-colors font-bold uppercase"
+            >
+              Credit
+            </button>
+            <button 
+              onClick={() => handleNavAction(onTeamClick)}
+              className="font-sans text-[10px] tracking-[0.2em] text-platinum hover:text-oldgold transition-colors font-bold uppercase"
+            >
+              Firm
+            </button>
+            <button 
+              onClick={() => handleNavAction(onInquireClick)}
+              className="font-sans text-[10px] tracking-[0.2em] text-oldgold border border-oldgold/30 px-6 py-2 hover:bg-oldgold hover:text-obsidian transition-all font-bold uppercase"
+            >
+              Inquire
+            </button>
+          </nav>
+
+          {/* Mobile Hamburger Toggle - Visible only on smaller screens */}
           <button 
-            className="text-oldgold p-2 hover:text-white transition-colors duration-300 focus:outline-none relative z-[10001]"
+            className="lg:hidden text-oldgold p-2 hover:text-white transition-colors duration-300 focus:outline-none relative z-[10001]"
             onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
             aria-label="Toggle Menu"
           >
             {isMobileMenuOpen ? (
-              <svg xmlns="http://www.w3.org/2000/svg" className="h-8 w-8 md:h-10 md:w-10" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1} d="M6 18L18 6M6 6l12 12" />
+              <svg xmlns="http://www.w3.org/2000/svg" className="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M6 18L18 6M6 6l12 12" />
               </svg>
             ) : (
-              <svg xmlns="http://www.w3.org/2000/svg" className="h-8 w-8 md:h-10 md:w-10" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1} d="M4 8h16M4 16h10" />
+              <svg xmlns="http://www.w3.org/2000/svg" className="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M4 8h16M4 16h10" />
               </svg>
             )}
           </button>
         </div>
       </header>
 
-      {/* Full-Screen Menu Overlay */}
+      {/* Full-Screen Mobile Menu Overlay */}
       <div 
-        className={`fixed inset-0 z-[9999] bg-[#050505] transition-all duration-700 flex flex-col items-center justify-center ${
+        className={`fixed inset-0 z-[9999] bg-[#050505] transition-all duration-700 flex flex-col items-center justify-center lg:hidden ${
           isMobileMenuOpen ? 'opacity-100 visible translate-y-0' : 'opacity-0 invisible -translate-y-full'
         }`}
       >
-        <nav className="flex flex-col items-center gap-8 md:gap-12">
+        <nav className="flex flex-col items-center gap-8">
           <button 
             onClick={() => handleNavAction(onHomeClick)}
-            className="font-display text-2xl md:text-4xl tracking-[0.25em] text-platinum hover:text-oldgold transition-all duration-500 hover:scale-105 uppercase"
+            className="font-display text-2xl tracking-[0.25em] text-platinum hover:text-oldgold transition-all duration-500 uppercase"
           >
             HOME
           </button>
           <button 
             onClick={() => handleNavAction(onMandatesClick)}
-            className="font-display text-2xl md:text-4xl tracking-[0.25em] text-platinum hover:text-oldgold transition-all duration-500 hover:scale-105 uppercase"
+            className="font-display text-2xl tracking-[0.25em] text-platinum hover:text-oldgold transition-all duration-500 uppercase"
           >
             EQUITY
           </button>
           <button 
             onClick={() => handleNavAction(onCreditClick)}
-            className="font-display text-2xl md:text-4xl tracking-[0.25em] text-platinum hover:text-oldgold transition-all duration-500 hover:scale-105 uppercase"
+            className="font-display text-2xl tracking-[0.25em] text-platinum hover:text-oldgold transition-all duration-500 uppercase"
           >
             CREDIT
           </button>
           <button 
             onClick={() => handleNavAction(onTeamClick)}
-            className="font-display text-2xl md:text-4xl tracking-[0.25em] text-platinum hover:text-oldgold transition-all duration-500 hover:scale-105 uppercase"
+            className="font-display text-2xl tracking-[0.25em] text-platinum hover:text-oldgold transition-all duration-500 uppercase"
           >
             FIRM
           </button>
@@ -142,13 +165,13 @@ export const Header: React.FC<HeaderProps> = ({
           
           <button 
             onClick={() => handleNavAction(onInquireClick)}
-            className="font-display text-2xl md:text-4xl tracking-[0.25em] text-oldgold border-2 border-oldgold/30 px-10 md:px-16 py-4 md:py-6 hover:bg-oldgold hover:text-obsidian hover:border-oldgold transition-all duration-500 uppercase"
+            className="font-display text-2xl tracking-[0.25em] text-oldgold border-2 border-oldgold/30 px-10 py-4 hover:bg-oldgold hover:text-obsidian transition-all duration-500 uppercase"
           >
             INQUIRE
           </button>
         </nav>
         
-        {/* Abstract Background Element for High-End Feel */}
+        {/* Abstract Background Element */}
         <div className="absolute top-0 right-0 w-1/4 h-full bg-white/[0.02] -skew-x-12 transform origin-top-right pointer-events-none"></div>
       </div>
     </>
