@@ -14,23 +14,17 @@ const mandateDetails: Record<string, MandateDetail> = {
     line2: 'Fragmentation arbitrage and operational professionalization of founder-led enterprises.',
     line3: 'Asset optimization through moderate leverage and cross-border expansion.',
   },
-  energy: {
-    header: 'ENERGY | NORTH AMERICAN RESERVES',
-    line1: 'Acquisition and optimization of proven oil, gas, and NGL assets in Permian & Alberta basins.',
-    line2: 'Value-add extraction via advanced recompletion techniques and infrastructure leverage.',
-    line3: 'Low-cost aggregation of producing assets with immediate cash flow catalysts.',
-  },
   tmt: {
     header: 'TMT | DIGITAL INFRASTRUCTURE',
     line1: 'Strategic consolidation of sovereign telecom operators and 5G broadcasting infrastructure.',
     line2: 'Operational restructuring of neutral NetCo assets and rollout of 1,500+ network sites.',
     line3: 'Cross-border listed group formation and national-scale connectivity modernization.',
   },
-  lendinghub: {
-    header: 'PRIVATE CREDIT | YIELD ARCHITECTURE',
-    line1: 'Proprietary origination channel for collateralized digital asset lending.',
-    line2: 'Focus on over-collateralized (70% LTV) arbitrage with zero counterparty risk.',
-    line3: 'Structure: Segregated custodial accounts with automated liquidation protocols.',
+  liquidity: {
+    header: 'INSTITUTIONAL LIQUIDITY | PRIVATE CREDIT',
+    line1: 'Non-recourse liquidity facilities against Tier-1 public and digital assets.',
+    line2: '70% LTV architecture with fixed rates starting at 2.00% p.a.',
+    line3: 'Structured debt capital via a proprietary network of 1,100+ institutional lenders.',
   }
 };
 
@@ -51,8 +45,8 @@ export const Mandates: React.FC<MandatesProps> = ({ onInquireClick, onThesisClic
         {/* Section Header */}
         <div className="mb-24 text-center md:text-left flex flex-col md:flex-row justify-between items-end">
           <div>
-            <h2 className="font-display font-medium text-4xl md:text-5xl text-platinum mb-3 tracking-wide">
-              STRATEGIC MANDATES
+            <h2 className="font-display font-medium text-4xl md:text-5xl text-platinum mb-3 tracking-wide uppercase">
+              Current Mandates & Strategic Partnerships
             </h2>
             <p className="font-sans text-xs tracking-[0.2em] text-gray-400 uppercase mb-8 font-bold">
               DIRECT INVESTMENT STRATEGIES & PRIVATE CREDIT STRUCTURES
@@ -64,7 +58,7 @@ export const Mandates: React.FC<MandatesProps> = ({ onInquireClick, onThesisClic
           </div>
         </div>
 
-        {/* Criteria Grid */}
+        {/* Criteria Grid - Metrics bar exactly as is */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12 mb-24 border border-white/10 p-12 bg-white/[0.01]">
           <div className="text-center md:text-left">
              <span className="block text-oldgold text-sm font-bold uppercase tracking-[0.2em] mb-4">Primary Focus</span>
@@ -80,16 +74,16 @@ export const Mandates: React.FC<MandatesProps> = ({ onInquireClick, onThesisClic
           </div>
         </div>
 
-        {/* Deal Cards */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+        {/* Reconfigured Deal Cards - 3 Column Layout */}
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           
-          {/* Card 1: Continental */}
-          <div className="relative p-10 border border-oldgold/40 bg-gradient-to-b from-white/[0.03] to-transparent hover:border-oldgold/70 transition-all duration-500 group min-h-[440px] flex flex-col justify-between">
+          {/* LEFT CARD (Buy-Side): Continental */}
+          <div className="relative p-10 border border-oldgold/40 bg-gradient-to-b from-white/[0.03] to-transparent hover:border-oldgold/70 transition-all duration-500 group min-h-[460px] flex flex-col justify-between">
             <div className="absolute top-0 left-0 w-full h-[3px] bg-oldgold"></div>
             <div>
               <div className="mb-8 pt-2">
                 <span className="inline-block px-4 py-1.5 bg-oldgold text-obsidian text-xs font-bold uppercase tracking-widest">
-                  Active Buy-Side
+                  ACTIVE BUY-SIDE
                 </span>
               </div>
               <h3 className="font-serif text-2xl text-white mb-6 leading-tight group-hover:text-oldgold transition-colors">
@@ -97,7 +91,7 @@ export const Mandates: React.FC<MandatesProps> = ({ onInquireClick, onThesisClic
               </h3>
               <div className="mb-4 border-l-2 border-white/20 pl-5">
                 <p className="font-sans text-xs text-gray-400 uppercase tracking-widest mb-2 font-medium">Target Profile</p>
-                <p className="font-sans text-base text-gray-200 leading-relaxed">EU Investment Firms, MiFID II, Revenue ≤ €50M</p>
+                <p className="font-sans text-base text-gray-200 leading-relaxed">EU Investment Firms, MiFID II, Rev ≤ $50M</p>
               </div>
             </div>
             <div className="pt-6 border-t border-white/10 mt-6 flex flex-col gap-4">
@@ -111,47 +105,20 @@ export const Mandates: React.FC<MandatesProps> = ({ onInquireClick, onThesisClic
             </div>
           </div>
 
-          {/* Card 2: Energy */}
-          <div className="relative p-10 border border-white/10 bg-transparent hover:bg-white/[0.01] transition-all duration-500 min-h-[440px] flex flex-col justify-between group">
+          {/* MIDDLE CARD (Growth): Emerging Market TMT */}
+          <div className="relative p-10 border border-white/10 bg-transparent hover:bg-white/[0.01] transition-all duration-500 min-h-[460px] flex flex-col justify-between group">
             <div>
               <div className="mb-8 pt-2">
                 <span className="inline-block px-4 py-1.5 border border-white/30 text-gray-300 text-xs font-bold uppercase tracking-widest group-hover:border-white/50 transition-colors">
-                  Retained Partner
-                </span>
-              </div>
-              <h3 className="font-serif text-2xl text-gray-200 mb-6 leading-tight group-hover:text-platinum transition-colors">
-                North American Energy Assets
-              </h3>
-              <div className="mb-4 border-l-2 border-white/20 pl-5 opacity-80 group-hover:opacity-100 transition-opacity">
-                <p className="font-sans text-xs text-gray-400 uppercase tracking-widest mb-2 font-medium">Scope</p>
-                <p className="font-sans text-base text-gray-300 leading-relaxed">North American Upstream Assets & Energy Infrastructure</p>
-              </div>
-            </div>
-            <div className="pt-6 border-t border-white/10 mt-6 flex flex-col gap-4">
-              <p className="font-sans text-sm text-gray-400 group-hover:text-gray-200 tracking-wide">Strategic Partner (NAEOC)</p>
-              <button 
-                onClick={() => setSelectedMandate('energy')}
-                className="text-[10px] uppercase tracking-widest font-bold text-gray-500 hover:text-white transition-colors text-left"
-              >
-                Explore Mandate &rarr;
-              </button>
-            </div>
-          </div>
-
-          {/* Card 3: TMT */}
-          <div className="relative p-10 border border-white/10 bg-transparent hover:bg-white/[0.01] transition-all duration-500 min-h-[440px] flex flex-col justify-between group">
-            <div>
-              <div className="mb-8 pt-2">
-                <span className="inline-block px-4 py-1.5 border border-white/30 text-gray-300 text-xs font-bold uppercase tracking-widest group-hover:border-white/50 transition-colors">
-                  Retained Partner
+                  RETAINED PARTNER
                 </span>
               </div>
               <h3 className="font-serif text-2xl text-gray-200 mb-6 leading-tight group-hover:text-platinum transition-colors">
                 Emerging Market TMT
               </h3>
               <div className="mb-4 border-l-2 border-white/20 pl-5 opacity-80 group-hover:opacity-100 transition-opacity">
-                <p className="font-sans text-xs text-gray-400 uppercase tracking-widest mb-2 font-medium">Scope</p>
-                <p className="font-sans text-base text-gray-300 leading-relaxed">Emerging Market Digital Infrastructure & Telecom</p>
+                <p className="font-sans text-xs text-gray-400 uppercase tracking-widest mb-2 font-medium">Sector</p>
+                <p className="font-sans text-base text-gray-300 leading-relaxed">Telecom & Digital Infrastructure</p>
               </div>
             </div>
             <div className="pt-6 border-t border-white/10 mt-6 flex flex-col gap-4">
@@ -165,26 +132,26 @@ export const Mandates: React.FC<MandatesProps> = ({ onInquireClick, onThesisClic
             </div>
           </div>
 
-          {/* Card 4: LendingHub (Refocused for Investors) */}
-          <div className="relative p-10 border border-white/10 bg-transparent hover:bg-white/[0.01] transition-all duration-500 min-h-[440px] flex flex-col justify-between group">
+          {/* RIGHT CARD (Liquidity): Institutional Liquidity */}
+          <div className="relative p-10 border border-white/10 bg-transparent hover:bg-white/[0.01] transition-all duration-500 min-h-[460px] flex flex-col justify-between group">
             <div>
               <div className="mb-8 pt-2">
                 <span className="inline-block px-4 py-1.5 border border-white/30 text-gray-300 text-xs font-bold uppercase tracking-widest group-hover:border-white/50 transition-colors">
-                  Exclusive Partner
+                  EXCLUSIVE PARTNER
                 </span>
               </div>
               <h3 className="font-serif text-2xl text-gray-200 mb-6 leading-tight group-hover:text-platinum transition-colors">
-                Private Credit Structure
+                Institutional Liquidity
               </h3>
               <div className="mb-4 border-l-2 border-white/20 pl-5 opacity-80 group-hover:opacity-100 transition-opacity">
-                <p className="font-sans text-xs text-gray-400 uppercase tracking-widest mb-2 font-medium">Scope</p>
-                <p className="font-sans text-base text-gray-300 leading-relaxed">Asset-Backed Yield Architecture</p>
+                <p className="font-sans text-xs text-gray-400 uppercase tracking-widest mb-2 font-medium">Focus</p>
+                <p className="font-sans text-base text-gray-300 leading-relaxed">Non-Recourse Stock Loans & Private Credit</p>
               </div>
             </div>
             <div className="pt-6 border-t border-white/10 mt-6 flex flex-col gap-4">
               <p className="font-sans text-sm text-gray-400 group-hover:text-gray-200 tracking-wide">Strategic Partner (LendingHub)</p>
               <button 
-                onClick={() => setSelectedMandate('lendinghub')}
+                onClick={() => setSelectedMandate('liquidity')}
                 className="text-[10px] uppercase tracking-widest font-bold text-gray-500 hover:text-white transition-colors text-left"
               >
                 Explore Mandate &rarr;
