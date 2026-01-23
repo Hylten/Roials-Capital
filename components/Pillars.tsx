@@ -139,14 +139,7 @@ export const Pillars: React.FC = () => {
                     <p className="border-l border-oldgold/30 pl-4">{mandateDetails[pillar.id].line3}</p>
                   </div>
 
-                  <div className="mt-10">
-                    <button 
-                      onClick={() => setActiveMandate(null)}
-                      className="text-[10px] text-gray-600 hover:text-gray-400 transition-colors uppercase tracking-widest"
-                    >
-                      Close View
-                    </button>
-                  </div>
+                  {/* Removed Close Button from bottom for minimalism */}
                 </div>
               )}
             </div>

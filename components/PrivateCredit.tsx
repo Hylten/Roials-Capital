@@ -25,10 +25,10 @@ export const PrivateCredit: React.FC<PrivateCreditProps> = ({ onInquireClick }) 
             <span className="font-mono text-xs text-oldgold uppercase tracking-[0.2em]">The Liquidity Aggregator</span>
           </div>
           <h1 className="font-display font-medium text-4xl md:text-6xl lg:text-7xl text-platinum tracking-wide mb-6 leading-tight">
-            GLOBAL LIQUIDITY <br/> AGGREGATION
+            GLOBAL CREDIT <br/> ARCHITECTURE
           </h1>
-          <p className="font-sans text-gray-300 text-lg md:text-xl font-light tracking-wide max-w-3xl mx-auto">
-            Strategic access to 1,100+ Institutional Lenders, Debt Funds, and Private Banks worldwide.
+          <p className="font-sans text-gray-300 text-lg md:text-xl font-medium tracking-[0.15em] uppercase max-w-3xl mx-auto">
+            1,100+ INSTITUTIONAL SOURCES.
           </p>
         </div>
       </section>
@@ -46,22 +46,22 @@ export const PrivateCredit: React.FC<PrivateCreditProps> = ({ onInquireClick }) 
                 </h2>
                 <div className="w-12 h-[1px] bg-oldgold mb-8"></div>
                 <p className="font-sans text-gray-400 text-lg leading-relaxed font-light mb-6">
-                We bridge the gap between asset holders and sovereign-grade liquidity. By aggregating capital from over a thousand global sources, we engineer terms that single-balance-sheet institutions cannot match.
+                  We do not rely on single-bank balance sheets. We engineer competition among global lenders to force term compression, delivering liquidity structures that traditional private banks cannot match.
                 </p>
             </div>
 
-            <div className="space-y-6">
+            <div className="space-y-8">
                 <div className="border-l-2 border-white/10 pl-6 hover:border-oldgold transition-colors duration-300">
-                    <h3 className="font-display text-lg text-platinum mb-2">No Short Selling</h3>
-                    <p className="font-sans text-sm text-gray-400">Contractually prohibited price manipulation strategies. Your asset integrity is paramount.</p>
+                    <h3 className="font-display text-lg text-platinum mb-1 uppercase tracking-wide">Non-Recourse</h3>
+                    <p className="font-sans text-sm text-gray-400 leading-relaxed">No personal guarantees. Liability limited strictly to collateral.</p>
                 </div>
                 <div className="border-l-2 border-white/10 pl-6 hover:border-oldgold transition-colors duration-300">
-                    <h3 className="font-display text-lg text-platinum mb-2">Non-Recourse</h3>
-                    <p className="font-sans text-sm text-gray-400">Liability limited strictly to the collateral. No personal guarantees required.</p>
+                    <h3 className="font-display text-lg text-platinum mb-1 uppercase tracking-wide">Non-Purpose</h3>
+                    <p className="font-sans text-sm text-gray-400 leading-relaxed">Unrestricted liquidity. Deploy for yield, real estate, or lifestyle.</p>
                 </div>
                  <div className="border-l-2 border-white/10 pl-6 hover:border-oldgold transition-colors duration-300">
-                    <h3 className="font-display text-lg text-platinum mb-2">Non-Purpose</h3>
-                    <p className="font-sans text-sm text-gray-400">Unrestricted use of funds. Deploy capital for business expansion, real estate, or lifestyle.</p>
+                    <h3 className="font-display text-lg text-platinum mb-1 uppercase tracking-wide">Non-Shorting</h3>
+                    <p className="font-sans text-sm text-gray-400 leading-relaxed">Contractually enforced asset protection.</p>
                 </div>
             </div>
           </div>
@@ -103,9 +103,9 @@ export const PrivateCredit: React.FC<PrivateCreditProps> = ({ onInquireClick }) 
                 <div className="mt-16 pt-8 border-t border-white/10">
                   <button 
                     onClick={onInquireClick}
-                    className="w-full bg-oldgold hover:bg-white text-obsidian px-8 py-4 font-sans text-xs uppercase tracking-[0.2em] font-bold transition-colors duration-300"
+                    className="w-full bg-oldgold hover:bg-white text-obsidian px-8 py-5 font-sans text-xs uppercase tracking-[0.25em] font-bold transition-all duration-300 shadow-[0_0_20px_rgba(197,160,89,0.2)] hover:shadow-[0_0_30px_rgba(255,255,255,0.3)] border border-transparent hover:border-gray-200"
                   >
-                    Inquire
+                    INQUIRE
                   </button>
                 </div>
 

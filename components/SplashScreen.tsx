@@ -127,7 +127,7 @@ export const SplashScreen: React.FC<SplashScreenProps> = ({ onComplete }) => {
             filter: brightness(0.8);
           }
           to { 
-            transform: scale(2.0); 
+            transform: scale(1.8); 
             filter: brightness(1.1);
           }
         }

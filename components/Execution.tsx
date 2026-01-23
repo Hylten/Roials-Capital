@@ -19,18 +19,17 @@ export const Execution: React.FC = () => {
           
           {/* Left Column: Manifesto */}
           <div className="lg:col-span-7">
-            <h2 className="font-serif font-medium text-4xl md:text-5xl lg:text-6xl text-platinum leading-tight mb-14">
-              Engineering Value. <br />
-              <span className="text-gray-400">Not Just Finding It.</span>
+            <h2 className="font-serif font-medium text-4xl md:text-5xl lg:text-6xl text-platinum leading-tight mb-14 uppercase tracking-wide">
+              THE ARCHITECTURAL <br />
+              <span className="text-gray-400">MANDATE.</span>
             </h2>
             
             <div className="prose prose-invert max-w-none">
               <p className="font-sans text-xl md:text-2xl text-gray-200 leading-loose mb-10 font-light">
-                We do not act as brokers. We operate as <span className="text-white font-medium">Architects</span>. 
-                Every mandate begins with rigorous structuring, governance alignment, and institutional preparation. 
+                Structuring precedes placement. Capital is not found; it is engineered.
               </p>
               <p className="font-sans text-xl md:text-2xl text-gray-200 leading-loose font-light">
-                Capped at <span className="text-[#d4af37] italic">~5 mandates</span> annually to ensure rigorous, principal-led execution. Our approach requires deep integration, moving beyond placement to true equity participation and strategic alignment.
+                Strictly Capped: <span className="text-[#d4af37] italic">~5 mandates</span> annually for absolute alignment.
               </p>
             </div>
           </div>

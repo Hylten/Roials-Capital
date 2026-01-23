@@ -108,6 +108,8 @@ const App: React.FC = () => {
             <Home 
               onInquireClick={() => handleViewChange('inquire')} 
               onTeamClick={() => handleViewChange('team')}
+              onEquityClick={() => handleViewChange('mandates')}
+              onCreditClick={() => handleViewChange('private-credit')}
             />
           )}
           {currentView === 'thesis' && (

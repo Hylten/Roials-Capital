@@ -84,56 +84,53 @@ export const Header: React.FC<HeaderProps> = ({
             </a>
           </div>
 
-          {/* Desktop Navigation - Visible only on md and up */}
-          <nav className="hidden lg:flex items-center gap-10">
-            <button 
-              onClick={() => handleNavAction(onMandatesClick)}
-              className="font-sans text-[10px] tracking-[0.2em] text-platinum hover:text-oldgold transition-colors font-bold uppercase"
-            >
-              Equity
-            </button>
-            <button 
-              onClick={() => handleNavAction(onCreditClick)}
-              className="font-sans text-[10px] tracking-[0.2em] text-platinum hover:text-oldgold transition-colors font-bold uppercase"
-            >
-              Credit
-            </button>
-            <button 
-              onClick={() => handleNavAction(onTeamClick)}
-              className="font-sans text-[10px] tracking-[0.2em] text-platinum hover:text-oldgold transition-colors font-bold uppercase"
-            >
-              Firm
-            </button>
-            <button 
-              onClick={() => handleNavAction(onInquireClick)}
-              className="font-sans text-[10px] tracking-[0.2em] text-oldgold border border-oldgold/30 px-6 py-2 hover:bg-oldgold hover:text-obsidian transition-all font-bold uppercase"
-            >
-              Inquire
-            </button>
-          </nav>
+          {/* Right Side Navigation & Menu */}
+          <div className="flex items-center gap-8">
+            {/* Desktop Navigation - Visible only on md and up */}
+            <nav className="hidden lg:flex items-center gap-10">
+              <button 
+                onClick={() => handleNavAction(onMandatesClick)}
+                className="font-sans text-[10px] tracking-[0.2em] text-platinum hover:text-oldgold transition-colors font-bold uppercase"
+              >
+                Equity
+              </button>
+              <button 
+                onClick={() => handleNavAction(onCreditClick)}
+                className="font-sans text-[10px] tracking-[0.2em] text-platinum hover:text-oldgold transition-colors font-bold uppercase"
+              >
+                Credit
+              </button>
+              <button 
+                onClick={() => handleNavAction(onTeamClick)}
+                className="font-sans text-[10px] tracking-[0.2em] text-platinum hover:text-oldgold transition-colors font-bold uppercase"
+              >
+                Firm
+              </button>
+            </nav>
 
-          {/* Mobile Hamburger Toggle - Visible only on smaller screens */}
-          <button 
-            className="lg:hidden text-oldgold p-2 hover:text-white transition-colors duration-300 focus:outline-none relative z-[10001]"
-            onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
-            aria-label="Toggle Menu"
-          >
-            {isMobileMenuOpen ? (
-              <svg xmlns="http://www.w3.org/2000/svg" className="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M6 18L18 6M6 6l12 12" />
-              </svg>
-            ) : (
-              <svg xmlns="http://www.w3.org/2000/svg" className="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M4 8h16M4 16h10" />
-              </svg>
-            )}
-          </button>
+            {/* Hamburger Toggle - Visible on all screens */}
+            <button 
+              className={`${isMobileMenuOpen ? 'text-platinum' : 'text-oldgold'} p-2 hover:text-white transition-colors duration-300 focus:outline-none relative z-[10001]`}
+              onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
+              aria-label="Toggle Menu"
+            >
+              {isMobileMenuOpen ? (
+                <svg xmlns="http://www.w3.org/2000/svg" className="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M6 18L18 6M6 6l12 12" />
+                </svg>
+              ) : (
+                <svg xmlns="http://www.w3.org/2000/svg" className="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M4 8h16M4 16h10" />
+                </svg>
+              )}
+            </button>
+          </div>
         </div>
       </header>
 
-      {/* Full-Screen Mobile Menu Overlay */}
+      {/* Full-Screen Menu Overlay */}
       <div 
-        className={`fixed inset-0 z-[9999] bg-[#050505] transition-all duration-700 flex flex-col items-center justify-center lg:hidden ${
+        className={`fixed inset-0 z-[9999] bg-[#050505] transition-all duration-700 flex flex-col items-center justify-center ${
           isMobileMenuOpen ? 'opacity-100 visible translate-y-0' : 'opacity-0 invisible -translate-y-full'
         }`}
       >
