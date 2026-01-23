@@ -27,15 +27,14 @@ export const Hero: React.FC<HeroProps> = ({ onInquireClick }) => {
 
       <div className="relative z-10 max-w-6xl mx-auto px-6 text-center">
         <h1 className="font-serif font-medium text-5xl md:text-7xl lg:text-8xl text-platinum leading-tight tracking-tight mb-10 drop-shadow-2xl">
-          The Modern Standard <br />
-          <span className="italic text-gray-300 font-light">in</span> Capital Execution.
+          The Modern <span className="italic text-gray-300 font-light">Standard</span> <br />
+          in Capital Execution.
         </h1>
         
         <div className="w-24 h-[1px] bg-oldgold mx-auto mb-12 shadow-[0_0_15px_rgba(197,160,89,0.6)]"></div>
         
-        <p className="font-sans text-gray-200 text-lg md:text-xl lg:text-2xl max-w-4xl mx-auto leading-loose tracking-wide mb-14 font-light drop-shadow-lg text-shadow-sm">
-          Institutional Capital Strategies for Mid-Market Buyouts & Add-ons. 
-          Bridging the gap between Principal vision and Global Capital Markets.
+        <p className="font-sans text-platinum text-sm md:text-lg lg:text-xl tracking-[0.5em] uppercase font-medium mb-14 drop-shadow-lg">
+          LIQUIDITY. ENGINEERED.
         </p>
       </div>
 

@@ -60,21 +60,13 @@ export const Thesis: React.FC<ThesisProps> = ({ onInquireClick }) => {
 
         </div>
 
-        {/* Minimalist CTA Section */}
-        <div className="mt-32 pt-16 border-t border-white/5 text-center">
-            <p className="font-sans text-[10px] text-gray-600 mb-8 uppercase tracking-[0.4em] font-bold">
-               Capped at ~5 mandates annually.
-            </p>
+        {/* Minimalist CTA Section - Interactive Scarcity Text */}
+        <div className="mt-32 pt-4 border-t border-white/5 text-center">
             <button 
                 onClick={onInquireClick}
-                className="group inline-flex items-center gap-3 text-oldgold hover:text-white transition-colors duration-700"
+                className="font-sans text-[10px] text-gray-600 hover:text-oldgold uppercase tracking-[0.4em] font-bold transition-colors duration-700 cursor-pointer p-20 focus:outline-none"
             >
-                <span className="font-sans text-[10px] uppercase tracking-[0.5em] font-bold">
-                    INQUIRE MANDATE
-                </span>
-                <span className="text-xl transform group-hover:translate-x-1 transition-transform duration-500">
-                    &rarr;
-                </span>
+               Capped at ~5 mandates annually.
             </button>
         </div>
 
