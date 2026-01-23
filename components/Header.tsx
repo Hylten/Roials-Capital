@@ -7,6 +7,7 @@ interface HeaderProps {
   onMandatesClick?: () => void;
   onTeamClick?: () => void;
   onInquireClick: () => void;
+  onLoginClick?: () => void;
 }
 
 export const Header: React.FC<HeaderProps> = ({ 
@@ -15,7 +16,8 @@ export const Header: React.FC<HeaderProps> = ({
   onCreditClick, 
   onMandatesClick,
   onTeamClick,
-  onInquireClick 
+  onInquireClick,
+  onLoginClick
 }) => {
   const [isScrolled, setIsScrolled] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
@@ -161,13 +163,15 @@ export const Header: React.FC<HeaderProps> = ({
             FIRM
           </button>
           
-          <div className="w-12 h-[1px] bg-white/10 my-4"></div>
-          
           <button 
-            onClick={() => handleNavAction(onInquireClick)}
-            className="font-display text-2xl tracking-[0.25em] text-oldgold border-2 border-oldgold/30 px-10 py-4 hover:bg-oldgold hover:text-obsidian transition-all duration-500 uppercase"
+            onClick={() => handleNavAction(onLoginClick)}
+            className="font-display text-2xl tracking-[0.25em] text-platinum hover:text-oldgold transition-all duration-500 uppercase flex items-center gap-3"
           >
-            INQUIRE
+            LP ACCESS
+            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="opacity-70">
+              <rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect>
+              <path d="M7 11V7a5 5 0 0 1 10 0v4"></path>
+            </svg>
           </button>
         </nav>
         

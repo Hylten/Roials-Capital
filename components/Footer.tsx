@@ -11,6 +11,7 @@ interface FooterProps {
   onTermsClick?: () => void;
   onPrivacyClick?: () => void;
   onCookiesClick?: () => void;
+  onReplayIntroClick?: () => void;
 }
 
 export const Footer: React.FC<FooterProps> = ({ 
@@ -23,7 +24,8 @@ export const Footer: React.FC<FooterProps> = ({
   onInquireClick,
   onTermsClick,
   onPrivacyClick,
-  onCookiesClick
+  onCookiesClick,
+  onReplayIntroClick
 }) => {
   return (
     <footer id="contact" className="bg-charcoal pt-24 pb-12 border-t border-white/5">
@@ -85,7 +87,7 @@ export const Footer: React.FC<FooterProps> = ({
                 </li>
                 <li 
                   onClick={onInquireClick}
-                  className="text-gray-300 text-base hover:text-oldgold cursor-pointer transition-colors font-light font-medium"
+                  className="text-gray-300 text-base hover:text-oldgold cursor-pointer transition-colors font-light"
                 >
                   Inquire
                 </li>
@@ -93,7 +95,17 @@ export const Footer: React.FC<FooterProps> = ({
                   onClick={onLoginClick}
                   className="text-gray-300 text-base hover:text-oldgold cursor-pointer transition-colors flex items-center gap-2 font-light"
                 >
-                  Login (LP Portal) <span className="text-xs opacity-50">🔒</span>
+                  LP Access 
+                  <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="opacity-70">
+                    <rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect>
+                    <path d="M7 11V7a5 5 0 0 1 10 0v4"></path>
+                  </svg>
+                </li>
+                <li 
+                  onClick={onReplayIntroClick}
+                  className="text-gray-500 text-xs uppercase tracking-widest hover:text-oldgold cursor-pointer transition-colors pt-4"
+                >
+                  Replay Intro
                 </li>
              </ul>
           </div>

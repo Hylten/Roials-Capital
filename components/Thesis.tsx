@@ -9,71 +9,70 @@ export const Thesis: React.FC<ThesisProps> = ({ onInquireClick }) => {
     <div className="bg-obsidian min-h-screen pt-40 pb-32 px-6 animate-fade-in">
       <div className="max-w-3xl mx-auto">
         
-        {/* Main Title */}
+        {/* Main Title - High Status Single Word */}
         <div className="text-center mb-24">
-          <h1 className="font-display font-medium text-5xl md:text-6xl text-platinum tracking-wide mb-8">
-            THE MODERN THESIS
+          <h1 className="font-display font-medium text-5xl md:text-7xl text-platinum tracking-[0.3em] mb-8 uppercase">
+            THESIS
           </h1>
           <div className="w-16 h-[1px] bg-oldgold mx-auto shadow-[0_0_15px_rgba(197,160,89,0.5)]"></div>
         </div>
 
-        <div className="space-y-24">
+        <div className="space-y-32">
             
-            {/* Section 1 */}
+            {/* Section 1: The Paradigm */}
             <section>
-                <div className="flex flex-col md:flex-row items-baseline gap-4 mb-6 border-b border-white/5 pb-2">
-                    <span className="font-sans text-xs font-bold text-gray-500 uppercase tracking-[0.2em]">01. The Paradigm Shift</span>
+                <div className="flex flex-col md:flex-row items-baseline gap-4 mb-8 border-b border-white/10 pb-4">
+                    <span className="font-sans text-xs font-bold text-oldgold uppercase tracking-[0.3em]">01. THE PARADIGM</span>
                 </div>
-                <h2 className="font-serif text-3xl md:text-4xl text-oldgold mb-8 leading-tight">
+                <h2 className="font-serif text-2xl md:text-3xl text-platinum mb-6 leading-tight uppercase tracking-wide">
                     CAPITAL HAS EVOLVED. THE METHOD HASN’T.
                 </h2>
-                <p className="font-sans text-lg md:text-xl text-gray-300 font-light leading-loose">
+                <p className="font-sans text-lg md:text-xl text-gray-400 font-light leading-relaxed">
                     In an era defined by quantitative tightening and algorithmic market dynamics, traditional capital advisory relies on outdated analog networks. The old model of passive brokerage is obsolete. Today, liquidity is not found; it is engineered through precision narrative and data-driven infrastructure.
                 </p>
             </section>
 
-            {/* Section 2 */}
+            {/* Section 2: The Architecture */}
             <section>
-                <div className="flex flex-col md:flex-row items-baseline gap-4 mb-6 border-b border-white/5 pb-2">
-                    <span className="font-sans text-xs font-bold text-gray-500 uppercase tracking-[0.2em]">02. The Solution</span>
+                <div className="flex flex-col md:flex-row items-baseline gap-4 mb-8 border-b border-white/10 pb-4">
+                    <span className="font-sans text-xs font-bold text-oldgold uppercase tracking-[0.3em]">02. THE ARCHITECTURE</span>
                 </div>
-                <h2 className="font-serif text-3xl md:text-4xl text-oldgold mb-8 leading-tight">
+                <h2 className="font-serif text-2xl md:text-3xl text-platinum mb-6 leading-tight uppercase tracking-wide">
                     ASSET ARCHITECTURE.
                 </h2>
-                <p className="font-sans text-lg md:text-xl text-gray-300 font-light leading-loose">
+                <p className="font-sans text-lg md:text-xl text-gray-400 font-light leading-relaxed">
                     We do not view capital raising solely as a sales function, but as a structural discipline. By treating investment opportunities as architectural products, we bridge the gap between Principal vision and Institutional mandates. We integrate sovereign-grade financial structuring with the precision of modern digital distribution.
                 </p>
             </section>
 
-            {/* Section 3 */}
+            {/* Section 3: The Execution */}
             <section>
-                <div className="flex flex-col md:flex-row items-baseline gap-4 mb-6 border-b border-white/5 pb-2">
-                    <span className="font-sans text-xs font-bold text-gray-500 uppercase tracking-[0.2em]">03. The Execution</span>
+                <div className="flex flex-col md:flex-row items-baseline gap-4 mb-8 border-b border-white/10 pb-4">
+                    <span className="font-sans text-xs font-bold text-oldgold uppercase tracking-[0.3em]">03. THE EXECUTION</span>
                 </div>
-                <h2 className="font-serif text-3xl md:text-4xl text-oldgold mb-8 leading-tight">
+                <h2 className="font-serif text-2xl md:text-3xl text-platinum mb-6 leading-tight uppercase tracking-wide">
                     PRINCIPAL-LED ALIGNMENT.
                 </h2>
-                <p className="font-sans text-lg md:text-xl text-gray-300 font-light leading-loose mb-16">
+                <p className="font-sans text-lg md:text-xl text-gray-400 font-light leading-relaxed mb-16">
                     We operate where others advise. As an independent sponsor and strategic partner, our interests are tethered to the outcome. We replace 'best efforts' with 'retained execution,' ensuring that every mandate is positioned not just to compete, but to dominate the allocation queue of global LPs.
                 </p>
             </section>
 
         </div>
 
-        {/* CTA */}
-        <div className="mt-20 pt-12 border-t border-white/10 text-center">
-            <div className="w-16 h-[1px] bg-oldgold mx-auto mb-8"></div>
-            <p className="font-sans text-gray-400 text-sm mb-12 font-light max-w-xl mx-auto">
-               Capped at ~5 mandates annually to ensure rigorous, principal-led execution.
+        {/* Minimalist CTA Section */}
+        <div className="mt-32 pt-16 border-t border-white/5 text-center">
+            <p className="font-sans text-[10px] text-gray-600 mb-8 uppercase tracking-[0.4em] font-bold">
+               Capped at ~5 mandates annually.
             </p>
             <button 
                 onClick={onInquireClick}
-                className="group relative inline-flex items-center gap-3 px-8 py-4 overflow-hidden border border-platinum/20 hover:border-oldgold transition-colors duration-500"
+                className="group inline-flex items-center gap-3 text-oldgold hover:text-white transition-colors duration-700"
             >
-                <span className="font-sans text-xs uppercase tracking-[0.25em] text-platinum group-hover:text-oldgold transition-colors">
-                    Learn More
+                <span className="font-sans text-[10px] uppercase tracking-[0.5em] font-bold">
+                    INQUIRE MANDATE
                 </span>
-                <span className="text-oldgold opacity-70 group-hover:translate-x-1 transition-transform duration-300">
+                <span className="text-xl transform group-hover:translate-x-1 transition-transform duration-500">
                     &rarr;
                 </span>
             </button>

@@ -12,20 +12,37 @@ import { Inquire } from './components/Inquire';
 import { Terms } from './components/legal/Terms';
 import { Privacy } from './components/legal/Privacy';
 import { Cookies } from './components/legal/Cookies';
+import { SplashScreen } from './components/SplashScreen';
 
 type View = 'home' | 'login' | 'thesis' | 'private-credit' | 'mandates' | 'team' | 'inquire' | 'terms' | 'privacy' | 'cookies';
 
 const App: React.FC = () => {
   const [currentView, setCurrentView] = useState<View>('home');
   const [isContactModalOpen, setIsContactModalOpen] = useState(false);
+  const [showSplash, setShowSplash] = useState(false);
+  const [isRevealed, setIsRevealed] = useState(false);
+  const [animationComplete, setAnimationComplete] = useState(false);
 
-  // Scroll to top on every view change (backup for state changes)
+  // Initial Logic
   useEffect(() => {
+    // Check session storage to see if we should show splash
+    const hasSeenSplash = sessionStorage.getItem('roials_splash_seen');
+    
+    if (!hasSeenSplash) {
+      setShowSplash(true);
+      // Main content starts hidden/pushed down slightly
+      setIsRevealed(false); 
+      setAnimationComplete(false);
+      // Mark as seen
+      sessionStorage.setItem('roials_splash_seen', 'true');
+    } else {
+      // If seen, immediately show content and skip animation
+      setIsRevealed(true);
+      setAnimationComplete(true);
+    }
+
+    // Scroll handling
     window.scrollTo(0, 0);
-  }, [currentView]);
-
-  // Failsafe: Ensure scrolling is enabled on initial load
-  useEffect(() => {
     document.body.style.overflow = 'auto';
     document.documentElement.style.overflow = 'auto';
     
@@ -35,12 +52,24 @@ const App: React.FC = () => {
     };
   }, []);
 
+  const handleSplashComplete = () => {
+    setIsRevealed(true);
+    // Allow the splash component time to exit its animation before unmounting logic internally
+    // Also remove the transform classes from the main content to restore proper fixed positioning context
+    setTimeout(() => {
+        setAnimationComplete(true);
+    }, 1600);
+    setTimeout(() => setShowSplash(false), 2000);
+  };
+
   const handleViewChange = (view: View) => {
-    // Set the state
     setCurrentView(view);
-    
-    // Immediate scroll to top to handle cases where the user is already on the view (e.g., clicking 'Partners' in footer while on Firm page)
     window.scrollTo({ top: 0, behavior: 'instant' });
+  };
+
+  const handleReplayIntro = () => {
+    sessionStorage.removeItem('roials_splash_seen');
+    window.location.reload();
   };
 
   if (currentView === 'login') {
@@ -48,7 +77,10 @@ const App: React.FC = () => {
   }
 
   return (
-    <div className="bg-obsidian min-h-screen text-platinum selection:bg-oldgold selection:text-obsidian flex flex-col">
+    <>
+      {showSplash && <SplashScreen onComplete={handleSplashComplete} />}
+
+      {/* Header positioned outside the transformed container to ensure sticky/fixed positioning works correctly */}
       <Header 
         onHomeClick={() => handleViewChange('home')} 
         onThesisClick={() => handleViewChange('thesis')}
@@ -56,68 +88,86 @@ const App: React.FC = () => {
         onMandatesClick={() => handleViewChange('mandates')}
         onTeamClick={() => handleViewChange('team')}
         onInquireClick={() => handleViewChange('inquire')}
-      />
-      <main className="flex-grow">
-        {currentView === 'home' && (
-          <Home 
-            onInquireClick={() => handleViewChange('inquire')} 
-            onTeamClick={() => handleViewChange('team')}
-          />
-        )}
-        {currentView === 'thesis' && (
-           <Thesis onInquireClick={() => handleViewChange('inquire')} />
-        )}
-        {currentView === 'private-credit' && (
-           <PrivateCredit onInquireClick={() => handleViewChange('inquire')} />
-        )}
-        {currentView === 'mandates' && (
-            <Mandates 
-              onInquireClick={() => handleViewChange('inquire')} 
-              onThesisClick={() => handleViewChange('thesis')}
-            />
-        )}
-        {currentView === 'team' && (
-            <Team onThesisClick={() => handleViewChange('thesis')} />
-        )}
-        {currentView === 'inquire' && (
-            <Inquire />
-        )}
-        {currentView === 'terms' && (
-            <Terms 
-              onPrivacyClick={() => handleViewChange('privacy')}
-              onCookiesClick={() => handleViewChange('cookies')}
-            />
-        )}
-        {currentView === 'privacy' && (
-            <Privacy 
-              onTermsClick={() => handleViewChange('terms')}
-              onCookiesClick={() => handleViewChange('cookies')}
-            />
-        )}
-        {currentView === 'cookies' && (
-            <Cookies 
-              onTermsClick={() => handleViewChange('terms')}
-              onPrivacyClick={() => handleViewChange('privacy')}
-            />
-        )}
-      </main>
-      <Footer 
-        onHomeClick={() => handleViewChange('home')}
         onLoginClick={() => handleViewChange('login')}
-        onThesisClick={() => handleViewChange('thesis')}
-        onPrivateCreditClick={() => handleViewChange('private-credit')}
-        onMandatesClick={() => handleViewChange('mandates')}
-        onTeamClick={() => handleViewChange('team')}
-        onInquireClick={() => handleViewChange('inquire')}
-        onTermsClick={() => handleViewChange('terms')}
-        onPrivacyClick={() => handleViewChange('privacy')}
-        onCookiesClick={() => handleViewChange('cookies')}
       />
+
+      {/* Main Content Wrapper */}
+      <div 
+        className={`bg-obsidian min-h-screen text-platinum selection:bg-oldgold selection:text-obsidian flex flex-col ${
+            animationComplete 
+            ? '' // Remove transforms after animation to fix fixed-positioning contexts (popups, etc)
+            : `transition-all duration-[1500ms] ease-out will-change-transform ${
+                isRevealed 
+                    ? 'opacity-100 scale-100 translate-y-0' 
+                    : 'opacity-0 scale-[0.98] translate-y-12' // Subtle depth effect while waiting for splash
+                }`
+        }`}
+      >
+        <main className="flex-grow">
+          {currentView === 'home' && (
+            <Home 
+              onInquireClick={() => handleViewChange('inquire')} 
+              onTeamClick={() => handleViewChange('team')}
+            />
+          )}
+          {currentView === 'thesis' && (
+             <Thesis onInquireClick={() => handleViewChange('inquire')} />
+          )}
+          {currentView === 'private-credit' && (
+             <PrivateCredit onInquireClick={() => handleViewChange('inquire')} />
+          )}
+          {currentView === 'mandates' && (
+              <Mandates 
+                onInquireClick={() => handleViewChange('inquire')} 
+                onThesisClick={() => handleViewChange('thesis')}
+              />
+          )}
+          {currentView === 'team' && (
+              <Team onThesisClick={() => handleViewChange('thesis')} />
+          )}
+          {currentView === 'inquire' && (
+              <Inquire />
+          )}
+          {currentView === 'terms' && (
+              <Terms 
+                onPrivacyClick={() => handleViewChange('privacy')}
+                onCookiesClick={() => handleViewChange('cookies')}
+              />
+          )}
+          {currentView === 'privacy' && (
+              <Privacy 
+                onTermsClick={() => handleViewChange('terms')}
+                onCookiesClick={() => handleViewChange('cookies')}
+              />
+          )}
+          {currentView === 'cookies' && (
+              <Cookies 
+                onTermsClick={() => handleViewChange('terms')}
+                onPrivacyClick={() => handleViewChange('privacy')}
+              />
+          )}
+        </main>
+        <Footer 
+          onHomeClick={() => handleViewChange('home')}
+          onLoginClick={() => handleViewChange('login')}
+          onThesisClick={() => handleViewChange('thesis')}
+          onPrivateCreditClick={() => handleViewChange('private-credit')}
+          onMandatesClick={() => handleViewChange('mandates')}
+          onTeamClick={() => handleViewChange('team')}
+          onInquireClick={() => handleViewChange('inquire')}
+          onTermsClick={() => handleViewChange('terms')}
+          onPrivacyClick={() => handleViewChange('privacy')}
+          onCookiesClick={() => handleViewChange('cookies')}
+          onReplayIntroClick={handleReplayIntro}
+        />
+      </div>
+
+      {/* Modal outside content wrapper */}
       <ContactModal 
         isOpen={isContactModalOpen} 
         onClose={() => setIsContactModalOpen(false)} 
       />
-    </div>
+    </>
   );
 };
 

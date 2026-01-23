@@ -160,6 +160,25 @@ export const Mandates: React.FC<MandatesProps> = ({ onInquireClick, onThesisClic
           </div>
         </div>
 
+        {/* --- THESIS NAVIGATION BLOCK --- */}
+        <div className="mt-24 pt-12 border-t border-white/5 text-center">
+            <p className="font-sans text-xs text-gray-500 mb-6 tracking-[0.2em] uppercase font-bold">Driven by Conviction.</p>
+            <button 
+            onClick={() => {
+                onThesisClick();
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            }}
+            className="group relative inline-flex items-center gap-2 text-oldgold hover:text-white transition-colors duration-500"
+            >
+            <span className="font-serif text-xl border-b border-oldgold/30 pb-2 group-hover:border-white transition-all duration-500">
+                THESIS
+            </span>
+            <span className="text-xl transform group-hover:translate-x-1 transition-transform duration-500">
+                &rarr;
+            </span>
+            </button>
+        </div>
+
       </div>
 
       {/* Quick View Popover Overlay */}
