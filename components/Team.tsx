@@ -32,7 +32,7 @@ const leadershipMembers: TeamMember[] = [
     bio: 'Serial entrepreneur and Senior Advisor with 20+ years scaling global tech. Co-founder of Seavus (scaled to 1,500 consultants in 15 countries) and Eferio. Expert in digital transformation and telecom infrastructure. Supports PE firms in capital raising and portfolio expansion aligned with Roials Capital’s LP engagement strategy.',
     link: {
       text: 'Watch interview',
-      url: 'https://youtu.be/lGVxvdE8MGY?si=6sqasvJp6YmicU6C'
+      url: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ' // Placeholder URL for the interview
     }
   },
   {
@@ -44,9 +44,9 @@ const leadershipMembers: TeamMember[] = [
 
 const globalPartners: TeamMember[] = [
   {
-    name: 'Henrik Kinell',
-    role: 'Partner (Nordics)',
-    bio: 'Nordic Partner leveraging 20+ years of institutional origination. Structures complex collateralized lending and private capital solutions for UHNWIs, securing deep LP pipelines.'
+    name: 'Aiswarya Madhav',
+    role: 'Head of Quantitative Analytics',
+    bio: 'Head of Quantitative Analytics. Ex-BNP Paribas. Leads financial modeling and enforces institutional-grade reporting standards and risk protocols across all execution mandates.'
   },
   {
     name: 'Stefan Ahlén',
@@ -60,13 +60,8 @@ const globalPartners: TeamMember[] = [
   },
   {
     name: 'Omar Zidan',
-    role: 'Partner (UK)',
-    bio: 'Partner leading Digital Infrastructure. Architects scalable, AI-driven deal sourcing and investor management systems to support global execution.'
-  },
-  {
-    name: 'James Rae',
-    role: 'Partner (Digital Assets)',
-    bio: 'Partner (Digital Assets). Structures institutional capital formation for Layer 1 protocols and DeFi infrastructure. Bridges traditional finance networks with Web3 ecosystems.'
+    role: 'Partner (Head of Digital Deal Architecture)',
+    bio: 'Partner leading Digital Deal Architecture. Architects proprietary AI-driven origination systems to algorithmically match global liquidity with off-market assets for accelerated execution.'
   },
   {
     name: 'Evans Lubwama',
@@ -77,11 +72,6 @@ const globalPartners: TeamMember[] = [
     name: 'Frank J. Braider III',
     role: 'Partner (US)',
     bio: 'Structures US capital partnerships in real assets and infrastructure. Decades of private-markets expertise.'
-  },
-  {
-    name: 'Aiswarya Madhav',
-    role: 'Analyst (Ex-BNP Paribas, BNY Mellon)',
-    bio: '5+ years in global banks. Strengthens PE mandates with advanced data analysis and institutional investor support.'
   }
 ];
 
@@ -137,7 +127,7 @@ export const Team: React.FC<TeamProps> = ({ onThesisClick }) => {
             <p className="font-sans text-gray-400 text-sm uppercase tracking-[0.2em]">Regional & Sector Specialists</p>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-x-8 gap-y-16">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-8 gap-y-16">
             {globalPartners.map((member, index) => (
               <div key={index} className="group flex flex-col h-full border-l border-white/5 pl-6 hover:border-oldgold/50 transition-colors duration-500">
                 <h3 className="font-serif text-xl text-platinum mb-2 leading-snug group-hover:text-white transition-colors">{member.name}</h3>
