@@ -46,7 +46,7 @@ export const Mandates: React.FC<MandatesProps> = ({ onInquireClick, onThesisClic
         <div className="mb-24 text-center md:text-left flex flex-col md:flex-row justify-between items-end">
           <div>
             <h2 className="font-display font-medium text-4xl md:text-5xl text-platinum mb-3 tracking-wide uppercase">
-              Current Mandates
+              Selected Mandates
             </h2>
             <div className="w-24 h-[1px] bg-oldgold mb-8 md:mx-0 mx-auto"></div>
             <p className="font-sans text-gray-200 text-xl md:text-2xl max-w-3xl leading-relaxed font-light">

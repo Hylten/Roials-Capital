@@ -2,9 +2,10 @@ import React, { useState } from 'react';
 
 interface LoginProps {
   onBack: () => void;
+  onReplayIntro: () => void;
 }
 
-export const Login: React.FC<LoginProps> = ({ onBack }) => {
+export const Login: React.FC<LoginProps> = ({ onBack, onReplayIntro }) => {
   const [notification, setNotification] = useState<string | null>(null);
   const [isLoading, setIsLoading] = useState(false);
 
@@ -109,6 +110,14 @@ export const Login: React.FC<LoginProps> = ({ onBack }) => {
 
         </div>
       </div>
+
+      {/* Discreet Replay Button (Bottom Right) */}
+      <button 
+        onClick={onReplayIntro}
+        className="absolute bottom-6 right-6 text-[9px] text-gray-700 hover:text-oldgold uppercase tracking-[0.2em] transition-colors z-20 cursor-pointer font-medium opacity-60 hover:opacity-100"
+      >
+        Replay Intro
+      </button>
 
       {/* Toast Notification */}
       {notification && (

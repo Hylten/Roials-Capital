@@ -26,10 +26,10 @@ export const Execution: React.FC = () => {
             
             <div className="prose prose-invert max-w-none">
               <p className="font-sans text-xl md:text-2xl text-gray-200 leading-loose mb-10 font-light">
-                Structuring precedes placement. Capital is not found; it is engineered.
+                We combine the mindset of Entrepreneurs with the discipline of Institutional Principals.
               </p>
               <p className="font-sans text-xl md:text-2xl text-gray-200 leading-loose font-light">
-                Strictly Capped: <span className="text-[#d4af37] italic">~5 mandates</span> annually for absolute alignment.
+                Structuring precedes placement. Capital is not found; it is engineered.
               </p>
             </div>
           </div>

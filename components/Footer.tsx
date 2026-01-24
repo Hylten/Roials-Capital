@@ -11,7 +11,6 @@ interface FooterProps {
   onTermsClick?: () => void;
   onPrivacyClick?: () => void;
   onCookiesClick?: () => void;
-  onReplayIntroClick?: () => void;
 }
 
 export const Footer: React.FC<FooterProps> = ({ 
@@ -24,8 +23,7 @@ export const Footer: React.FC<FooterProps> = ({
   onInquireClick,
   onTermsClick,
   onPrivacyClick,
-  onCookiesClick,
-  onReplayIntroClick
+  onCookiesClick
 }) => {
   return (
     <footer id="contact" className="bg-charcoal pt-24 pb-12 border-t border-white/5">
@@ -100,12 +98,6 @@ export const Footer: React.FC<FooterProps> = ({
                     <rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect>
                     <path d="M7 11V7a5 5 0 0 1 10 0v4"></path>
                   </svg>
-                </li>
-                <li 
-                  onClick={onReplayIntroClick}
-                  className="text-gray-500 text-xs uppercase tracking-widest hover:text-oldgold cursor-pointer transition-colors pt-4"
-                >
-                  Replay Intro
                 </li>
              </ul>
           </div>

@@ -54,12 +54,11 @@ const App: React.FC = () => {
 
   const handleSplashComplete = () => {
     setIsRevealed(true);
-    // Allow the splash component time to exit its animation before unmounting logic internally
-    // Also remove the transform classes from the main content to restore proper fixed positioning context
+    // Faster reveal timings to match 3s splash
     setTimeout(() => {
         setAnimationComplete(true);
-    }, 1600);
-    setTimeout(() => setShowSplash(false), 2000);
+    }, 800);
+    setTimeout(() => setShowSplash(false), 1000);
   };
 
   const handleViewChange = (view: View) => {
@@ -73,7 +72,7 @@ const App: React.FC = () => {
   };
 
   if (currentView === 'login') {
-    return <Login onBack={() => handleViewChange('home')} />;
+    return <Login onBack={() => handleViewChange('home')} onReplayIntro={handleReplayIntro} />;
   }
 
   return (
@@ -96,7 +95,7 @@ const App: React.FC = () => {
         className={`bg-obsidian min-h-screen text-platinum selection:bg-oldgold selection:text-obsidian flex flex-col ${
             animationComplete 
             ? '' // Remove transforms after animation to fix fixed-positioning contexts (popups, etc)
-            : `transition-all duration-[1500ms] ease-out will-change-transform ${
+            : `transition-all duration-[1000ms] ease-out will-change-transform ${
                 isRevealed 
                     ? 'opacity-100 scale-100 translate-y-0' 
                     : 'opacity-0 scale-[0.98] translate-y-12' // Subtle depth effect while waiting for splash
@@ -160,7 +159,6 @@ const App: React.FC = () => {
           onTermsClick={() => handleViewChange('terms')}
           onPrivacyClick={() => handleViewChange('privacy')}
           onCookiesClick={() => handleViewChange('cookies')}
-          onReplayIntroClick={handleReplayIntro}
         />
       </div>
 
