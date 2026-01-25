@@ -9,6 +9,7 @@ interface HeaderProps {
   onInquireClick: () => void;
   onLoginClick?: () => void;
   onDataRoomClick?: () => void;
+  showLogo?: boolean;
 }
 
 export const Header: React.FC<HeaderProps> = ({
@@ -19,7 +20,8 @@ export const Header: React.FC<HeaderProps> = ({
   onTeamClick,
   onInquireClick,
   onLoginClick,
-  onDataRoomClick
+  onDataRoomClick,
+  showLogo = true
 }) => {
   const [isScrolled, setIsScrolled] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
@@ -65,7 +67,7 @@ export const Header: React.FC<HeaderProps> = ({
       >
         <div className="max-w-7xl mx-auto px-6 md:px-12 flex justify-between items-center">
           {/* Logo */}
-          <div className="flex items-center">
+          <div className={`flex items-center transition-opacity duration-500 ${showLogo ? 'opacity-100' : 'opacity-0 pointer-events-none'}`}>
             <a
               href="#"
               onClick={(e) => {
@@ -163,11 +165,11 @@ export const Header: React.FC<HeaderProps> = ({
             onClick={() => handleNavAction(onDataRoomClick)}
             className="font-display text-2xl tracking-[0.25em] text-oldgold hover:text-white transition-all duration-500 uppercase flex items-center gap-3"
           >
+            DATAROOM
             <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="opacity-70">
               <rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect>
               <path d="M7 11V7a5 5 0 0 1 10 0v4"></path>
             </svg>
-            DATAROOM
           </button>
 
           <button

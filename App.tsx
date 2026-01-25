@@ -107,6 +107,7 @@ const App: React.FC = () => {
         onInquireClick={() => handleViewChange('inquire')}
         onLoginClick={() => handleViewChange('login')}
         onDataRoomClick={() => handleViewChange('dataroom')}
+        showLogo={currentView !== 'login' && !(currentView === 'dataroom' && !isAuthenticated)}
       />
 
       {/* Main Content Wrapper */}
