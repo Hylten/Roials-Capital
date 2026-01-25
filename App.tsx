@@ -13,8 +13,9 @@ import { Terms } from './components/legal/Terms';
 import { Privacy } from './components/legal/Privacy';
 import { Cookies } from './components/legal/Cookies';
 import { SplashScreen } from './components/SplashScreen';
+import { DataRoom } from './components/DataRoom';
 
-type View = 'home' | 'login' | 'thesis' | 'private-credit' | 'mandates' | 'team' | 'inquire' | 'terms' | 'privacy' | 'cookies';
+type View = 'home' | 'login' | 'thesis' | 'private-credit' | 'mandates' | 'team' | 'inquire' | 'terms' | 'privacy' | 'cookies' | 'dataroom';
 
 const App: React.FC = () => {
   const [currentView, setCurrentView] = useState<View>('home');
@@ -27,11 +28,11 @@ const App: React.FC = () => {
   useEffect(() => {
     // Check session storage to see if we should show splash
     const hasSeenSplash = sessionStorage.getItem('roials_splash_seen');
-    
+
     if (!hasSeenSplash) {
       setShowSplash(true);
       // Main content starts hidden/pushed down slightly
-      setIsRevealed(false); 
+      setIsRevealed(false);
       setAnimationComplete(false);
       // Mark as seen
       sessionStorage.setItem('roials_splash_seen', 'true');
@@ -45,7 +46,7 @@ const App: React.FC = () => {
     window.scrollTo(0, 0);
     document.body.style.overflow = 'auto';
     document.documentElement.style.overflow = 'auto';
-    
+
     return () => {
       document.body.style.overflow = '';
       document.documentElement.style.overflow = '';
@@ -56,7 +57,7 @@ const App: React.FC = () => {
     setIsRevealed(true);
     // Faster reveal timings to match 3s splash
     setTimeout(() => {
-        setAnimationComplete(true);
+      setAnimationComplete(true);
     }, 800);
     setTimeout(() => setShowSplash(false), 1000);
   };
@@ -80,75 +81,77 @@ const App: React.FC = () => {
       {showSplash && <SplashScreen onComplete={handleSplashComplete} />}
 
       {/* Header positioned outside the transformed container to ensure sticky/fixed positioning works correctly */}
-      <Header 
-        onHomeClick={() => handleViewChange('home')} 
+      <Header
+        onHomeClick={() => handleViewChange('home')}
         onThesisClick={() => handleViewChange('thesis')}
         onCreditClick={() => handleViewChange('private-credit')}
         onMandatesClick={() => handleViewChange('mandates')}
         onTeamClick={() => handleViewChange('team')}
         onInquireClick={() => handleViewChange('inquire')}
         onLoginClick={() => handleViewChange('login')}
+        onDataRoomClick={() => handleViewChange('dataroom')}
       />
 
       {/* Main Content Wrapper */}
-      <div 
-        className={`bg-obsidian min-h-screen text-platinum selection:bg-oldgold selection:text-obsidian flex flex-col ${
-            animationComplete 
+      <div
+        className={`bg-obsidian min-h-screen text-platinum selection:bg-oldgold selection:text-obsidian flex flex-col ${animationComplete
             ? '' // Remove transforms after animation to fix fixed-positioning contexts (popups, etc)
-            : `transition-all duration-[1000ms] ease-out will-change-transform ${
-                isRevealed 
-                    ? 'opacity-100 scale-100 translate-y-0' 
-                    : 'opacity-0 scale-[0.98] translate-y-12' // Subtle depth effect while waiting for splash
-                }`
-        }`}
+            : `transition-all duration-[1000ms] ease-out will-change-transform ${isRevealed
+              ? 'opacity-100 scale-100 translate-y-0'
+              : 'opacity-0 scale-[0.98] translate-y-12' // Subtle depth effect while waiting for splash
+            }`
+          }`}
       >
         <main className="flex-grow">
+          {currentView === 'dataroom' && (
+            <DataRoom />
+          )}
           {currentView === 'home' && (
-            <Home 
-              onInquireClick={() => handleViewChange('inquire')} 
+            <Home
+              onInquireClick={() => handleViewChange('inquire')}
               onTeamClick={() => handleViewChange('team')}
               onEquityClick={() => handleViewChange('mandates')}
               onCreditClick={() => handleViewChange('private-credit')}
             />
           )}
           {currentView === 'thesis' && (
-             <Thesis onInquireClick={() => handleViewChange('inquire')} />
+            <Thesis onInquireClick={() => handleViewChange('inquire')} />
           )}
           {currentView === 'private-credit' && (
-             <PrivateCredit onInquireClick={() => handleViewChange('inquire')} />
+            <PrivateCredit onInquireClick={() => handleViewChange('inquire')} />
           )}
           {currentView === 'mandates' && (
-              <Mandates 
-                onInquireClick={() => handleViewChange('inquire')} 
-                onThesisClick={() => handleViewChange('thesis')}
-              />
+            <Mandates
+              onInquireClick={() => handleViewChange('inquire')}
+              onThesisClick={() => handleViewChange('thesis')}
+            />
           )}
           {currentView === 'team' && (
-              <Team onThesisClick={() => handleViewChange('thesis')} />
+            <Team onThesisClick={() => handleViewChange('thesis')} />
           )}
           {currentView === 'inquire' && (
-              <Inquire />
+            <Inquire />
           )}
           {currentView === 'terms' && (
-              <Terms 
-                onPrivacyClick={() => handleViewChange('privacy')}
-                onCookiesClick={() => handleViewChange('cookies')}
-              />
+            <Terms
+              onPrivacyClick={() => handleViewChange('privacy')}
+              onCookiesClick={() => handleViewChange('cookies')}
+            />
           )}
           {currentView === 'privacy' && (
-              <Privacy 
-                onTermsClick={() => handleViewChange('terms')}
-                onCookiesClick={() => handleViewChange('cookies')}
-              />
+            <Privacy
+              onTermsClick={() => handleViewChange('terms')}
+              onCookiesClick={() => handleViewChange('cookies')}
+            />
           )}
           {currentView === 'cookies' && (
-              <Cookies 
-                onTermsClick={() => handleViewChange('terms')}
-                onPrivacyClick={() => handleViewChange('privacy')}
-              />
+            <Cookies
+              onTermsClick={() => handleViewChange('terms')}
+              onPrivacyClick={() => handleViewChange('privacy')}
+            />
           )}
         </main>
-        <Footer 
+        <Footer
           onHomeClick={() => handleViewChange('home')}
           onLoginClick={() => handleViewChange('login')}
           onThesisClick={() => handleViewChange('thesis')}
@@ -163,9 +166,9 @@ const App: React.FC = () => {
       </div>
 
       {/* Modal outside content wrapper */}
-      <ContactModal 
-        isOpen={isContactModalOpen} 
-        onClose={() => setIsContactModalOpen(false)} 
+      <ContactModal
+        isOpen={isContactModalOpen}
+        onClose={() => setIsContactModalOpen(false)}
       />
     </>
   );
