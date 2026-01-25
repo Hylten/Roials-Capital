@@ -179,6 +179,7 @@ const App: React.FC = () => {
           onTermsClick={() => handleViewChange('terms')}
           onPrivacyClick={() => handleViewChange('privacy')}
           onCookiesClick={() => handleViewChange('cookies')}
+          onDataRoomClick={() => handleViewChange('dataroom')}
         />
       </div>
 

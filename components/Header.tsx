@@ -59,8 +59,8 @@ export const Header: React.FC<HeaderProps> = ({
     <>
       <header
         className={`fixed top-0 left-0 w-full z-[10000] transition-all duration-500 border-b ${isScrolled
-            ? 'bg-obsidian/95 backdrop-blur-md border-oldgold/10 py-4'
-            : 'bg-transparent border-transparent py-8'
+          ? 'bg-obsidian/95 backdrop-blur-md border-oldgold/10 py-4'
+          : 'bg-transparent border-transparent py-8'
           }`}
       >
         <div className="max-w-7xl mx-auto px-6 md:px-12 flex justify-between items-center">
@@ -106,12 +106,6 @@ export const Header: React.FC<HeaderProps> = ({
                 className="font-sans text-[10px] tracking-[0.2em] text-platinum hover:text-oldgold transition-colors font-bold uppercase"
               >
                 Firm
-              </button>
-              <button
-                onClick={() => handleNavAction(onDataRoomClick)}
-                className="font-sans text-[10px] tracking-[0.2em] text-oldgold hover:text-white transition-colors font-bold uppercase border border-oldgold/30 px-3 py-1 rounded"
-              >
-                Data Room
               </button>
             </nav>
 
@@ -169,7 +163,7 @@ export const Header: React.FC<HeaderProps> = ({
             onClick={() => handleNavAction(onDataRoomClick)}
             className="font-display text-2xl tracking-[0.25em] text-oldgold hover:text-white transition-all duration-500 uppercase"
           >
-            DATA ROOM
+            INSTITUTIONAL VAULT
           </button>
 
           <button

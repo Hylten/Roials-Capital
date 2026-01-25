@@ -11,27 +11,29 @@ interface FooterProps {
   onTermsClick?: () => void;
   onPrivacyClick?: () => void;
   onCookiesClick?: () => void;
+  onDataRoomClick?: () => void;
 }
 
-export const Footer: React.FC<FooterProps> = ({ 
+export const Footer: React.FC<FooterProps> = ({
   onHomeClick,
-  onLoginClick, 
-  onThesisClick, 
-  onPrivateCreditClick, 
+  onLoginClick,
+  onThesisClick,
+  onPrivateCreditClick,
   onMandatesClick,
   onTeamClick,
   onInquireClick,
   onTermsClick,
   onPrivacyClick,
-  onCookiesClick
+  onCookiesClick,
+  onDataRoomClick
 }) => {
   return (
     <footer id="contact" className="bg-charcoal pt-24 pb-12 border-t border-white/5">
       <div className="max-w-7xl mx-auto px-6 md:px-12">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 mb-20">
-          
+
           <div className="col-span-1 md:col-span-2">
-            <h3 
+            <h3
               onClick={onHomeClick}
               className="font-display font-medium text-3xl text-platinum tracking-[0.1em] mb-8 cursor-pointer group"
             >
@@ -40,10 +42,10 @@ export const Footer: React.FC<FooterProps> = ({
             <p className="font-sans text-gray-400 text-lg max-w-sm mb-8 font-light">
               Stockholm · London · Dubai
             </p>
-            <a 
-              href="https://www.linkedin.com/company/roials/" 
-              target="_blank" 
-              rel="noopener noreferrer" 
+            <a
+              href="https://www.linkedin.com/company/roials/"
+              target="_blank"
+              rel="noopener noreferrer"
               className="font-sans text-base text-oldgold border-b border-oldgold/30 pb-1 hover:text-white hover:border-white transition-colors"
             >
               LinkedIn
@@ -51,61 +53,70 @@ export const Footer: React.FC<FooterProps> = ({
           </div>
 
           <div>
-             <h4 className="font-sans text-xs uppercase tracking-widest text-gray-400 mb-8 font-bold">Strategies</h4>
-             <ul className="space-y-5">
-                <li 
-                  onClick={onMandatesClick}
-                  className="text-gray-300 text-base hover:text-oldgold cursor-pointer transition-colors font-light"
-                >
-                  Private Equity
-                </li>
-                <li 
-                  onClick={onPrivateCreditClick}
-                  className="text-gray-300 text-base hover:text-oldgold cursor-pointer transition-colors font-light"
-                >
-                  Private Credit
-                </li>
-             </ul>
+            <h4 className="font-sans text-xs uppercase tracking-widest text-gray-400 mb-8 font-bold">Strategies</h4>
+            <ul className="space-y-5">
+              <li
+                onClick={onMandatesClick}
+                className="text-gray-300 text-base hover:text-oldgold cursor-pointer transition-colors font-light"
+              >
+                Private Equity
+              </li>
+              <li
+                onClick={onPrivateCreditClick}
+                className="text-gray-300 text-base hover:text-oldgold cursor-pointer transition-colors font-light"
+              >
+                Private Credit
+              </li>
+            </ul>
           </div>
 
           <div>
-             <h4 className="font-sans text-xs uppercase tracking-widest text-gray-400 mb-8 font-bold">Firm</h4>
-             <ul className="space-y-5">
-                <li 
-                  onClick={onHomeClick}
-                  className="text-gray-300 text-base hover:text-white cursor-pointer transition-colors font-light"
-                >
-                  Home
-                </li>
-                <li 
-                  onClick={onTeamClick}
-                  className="text-gray-300 text-base hover:text-white cursor-pointer transition-colors font-light"
-                >
-                  Partners
-                </li>
-                <li 
-                  onClick={onInquireClick}
-                  className="text-gray-300 text-base hover:text-oldgold cursor-pointer transition-colors font-light"
-                >
-                  Inquire
-                </li>
-                <li 
-                  onClick={onLoginClick}
-                  className="text-gray-300 text-base hover:text-oldgold cursor-pointer transition-colors flex items-center gap-2 font-light"
-                >
-                  LP Access 
-                  <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="opacity-70">
-                    <rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect>
-                    <path d="M7 11V7a5 5 0 0 1 10 0v4"></path>
-                  </svg>
-                </li>
-             </ul>
+            <h4 className="font-sans text-xs uppercase tracking-widest text-gray-400 mb-8 font-bold">Firm</h4>
+            <ul className="space-y-5">
+              <li
+                onClick={onHomeClick}
+                className="text-gray-300 text-base hover:text-white cursor-pointer transition-colors font-light"
+              >
+                Home
+              </li>
+              <li
+                onClick={onTeamClick}
+                className="text-gray-300 text-base hover:text-white cursor-pointer transition-colors font-light"
+              >
+                Partners
+              </li>
+              <li
+                onClick={onInquireClick}
+                className="text-gray-300 text-base hover:text-oldgold cursor-pointer transition-colors font-light"
+              >
+                Inquire
+              </li>
+              <li
+                onClick={onLoginClick}
+                className="text-gray-300 text-base hover:text-oldgold cursor-pointer transition-colors flex items-center gap-2 font-light"
+              >
+                LP Access
+                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="opacity-70">
+                  <rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect>
+                  <path d="M7 11V7a5 5 0 0 1 10 0v4"></path>
+                </svg>
+              </li>
+              <li
+                onClick={onDataRoomClick}
+                className="text-gray-300 text-base hover:text-oldgold cursor-pointer transition-colors flex items-center gap-2 font-light italic"
+              >
+                Institutional Vault
+                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="opacity-50">
+                  <path d="M12 15V17M6 21H18C19.1046 21 20 20.1046 20 19V9C20 7.89543 19.1046 7 18 7H17V5C17 2.23858 14.7614 0 12 0C9.23858 0 7 2.23858 7 5V7H6C4.89543 7 4 7.89543 4 9V19C4 20.1046 4.89543 21 6 21ZM9 5C9 3.34315 10.3431 2 12 2C13.6569 2 15 3.34315 15 5V7H9V5Z" fill="currentColor" />
+                </svg>
+              </li>
+            </ul>
           </div>
         </div>
 
         {/* Bottom Section */}
         <div className="border-t border-white/5 pt-12">
-          
+
           {/* Formal Disclaimer */}
           <div className="mb-12">
             <p className="font-sans text-[10px] text-gray-600 text-center leading-relaxed max-w-5xl mx-auto">
