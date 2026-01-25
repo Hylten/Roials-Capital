@@ -103,11 +103,12 @@ export const Footer: React.FC<FooterProps> = ({
               </li>
               <li
                 onClick={onDataRoomClick}
-                className="text-gray-300 text-base hover:text-oldgold cursor-pointer transition-colors flex items-center gap-2 font-light italic"
+                className="text-gray-300 text-base hover:text-oldgold cursor-pointer transition-colors flex items-center gap-2 font-light"
               >
-                Institutional Vault
-                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="opacity-50">
-                  <path d="M12 15V17M6 21H18C19.1046 21 20 20.1046 20 19V9C20 7.89543 19.1046 7 18 7H17V5C17 2.23858 14.7614 0 12 0C9.23858 0 7 2.23858 7 5V7H6C4.89543 7 4 7.89543 4 9V19C4 20.1046 4.89543 21 6 21ZM9 5C9 3.34315 10.3431 2 12 2C13.6569 2 15 3.34315 15 5V7H9V5Z" fill="currentColor" />
+                Dataroom
+                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="opacity-70">
+                  <rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect>
+                  <path d="M7 11V7a5 5 0 0 1 10 0v4"></path>
                 </svg>
               </li>
             </ul>

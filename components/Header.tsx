@@ -163,7 +163,7 @@ export const Header: React.FC<HeaderProps> = ({
             onClick={() => handleNavAction(onDataRoomClick)}
             className="font-display text-2xl tracking-[0.25em] text-oldgold hover:text-white transition-all duration-500 uppercase"
           >
-            INSTITUTIONAL VAULT
+            DATAROOM
           </button>
 
           <button
