@@ -19,6 +19,7 @@ type View = 'home' | 'login' | 'thesis' | 'private-credit' | 'mandates' | 'team'
 
 const App: React.FC = () => {
   const [currentView, setCurrentView] = useState<View>('home');
+  const [isAuthenticated, setIsAuthenticated] = useState(false);
   const [isContactModalOpen, setIsContactModalOpen] = useState(false);
   const [showSplash, setShowSplash] = useState(false);
   const [isRevealed, setIsRevealed] = useState(false);
@@ -28,6 +29,11 @@ const App: React.FC = () => {
   useEffect(() => {
     // Check session storage to see if we should show splash
     const hasSeenSplash = sessionStorage.getItem('roials_splash_seen');
+    const authStatus = sessionStorage.getItem('roials_dataroom_auth');
+
+    if (authStatus === 'true') {
+      setIsAuthenticated(true);
+    }
 
     if (!hasSeenSplash) {
       setShowSplash(true);
@@ -63,8 +69,19 @@ const App: React.FC = () => {
   };
 
   const handleViewChange = (view: View) => {
+    // If trying to access dataroom, but not authenticated, go to login
+    if (view === 'dataroom' && !isAuthenticated) {
+      setCurrentView('login');
+      return;
+    }
     setCurrentView(view);
     window.scrollTo({ top: 0, behavior: 'instant' });
+  };
+
+  const handleLoginSuccess = () => {
+    setIsAuthenticated(true);
+    sessionStorage.setItem('roials_dataroom_auth', 'true');
+    setCurrentView('dataroom');
   };
 
   const handleReplayIntro = () => {
@@ -73,7 +90,7 @@ const App: React.FC = () => {
   };
 
   if (currentView === 'login') {
-    return <Login onBack={() => handleViewChange('home')} onReplayIntro={handleReplayIntro} />;
+    return <Login onBack={() => handleViewChange('home')} onReplayIntro={handleReplayIntro} onLoginSuccess={handleLoginSuccess} />;
   }
 
   return (
@@ -95,16 +112,16 @@ const App: React.FC = () => {
       {/* Main Content Wrapper */}
       <div
         className={`bg-obsidian min-h-screen text-platinum selection:bg-oldgold selection:text-obsidian flex flex-col ${animationComplete
-            ? '' // Remove transforms after animation to fix fixed-positioning contexts (popups, etc)
-            : `transition-all duration-[1000ms] ease-out will-change-transform ${isRevealed
-              ? 'opacity-100 scale-100 translate-y-0'
-              : 'opacity-0 scale-[0.98] translate-y-12' // Subtle depth effect while waiting for splash
-            }`
+          ? '' // Remove transforms after animation to fix fixed-positioning contexts (popups, etc)
+          : `transition-all duration-[1000ms] ease-out will-change-transform ${isRevealed
+            ? 'opacity-100 scale-100 translate-y-0'
+            : 'opacity-0 scale-[0.98] translate-y-12' // Subtle depth effect while waiting for splash
+          }`
           }`}
       >
         <main className="flex-grow">
           {currentView === 'dataroom' && (
-            <DataRoom />
+            isAuthenticated ? <DataRoom /> : <Login onBack={() => handleViewChange('home')} onReplayIntro={handleReplayIntro} onLoginSuccess={handleLoginSuccess} />
           )}
           {currentView === 'home' && (
             <Home
