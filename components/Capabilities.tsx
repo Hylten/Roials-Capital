@@ -9,7 +9,7 @@ const capabilities = [
   {
     title: 'PRIVATE EQUITY',
     subtitle: 'PRINCIPAL INVESTMENT',
-    description: 'Control buyouts in regulated sectors. European Mid-Market & Financial Services.',
+    description: 'Buy-side mandates for continental platform consolidation. European Mid-Market & Financial Services.',
     icon: (
       <svg className="w-8 h-8 text-oldgold" fill="none" viewBox="0 0 24 24" stroke="currentColor">
         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1} d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6" />
@@ -29,7 +29,7 @@ const capabilities = [
   {
     title: 'INFRASTRUCTURE',
     subtitle: 'ENERGY & DIGITAL INFRASTRUCTURE',
-    description: 'System-critical real assets. North American Energy & Sovereign Digital Infrastructure.',
+    description: 'Sovereign digital migration and energy transition. System-critical real assets.',
     icon: (
       <svg className="w-8 h-8 text-oldgold" fill="none" viewBox="0 0 24 24" stroke="currentColor">
         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1} d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9" />
@@ -57,17 +57,16 @@ export const Capabilities: React.FC<CapabilitiesProps> = ({ onEquityClick, onCre
             const handleClick = idx === 1 ? onCreditClick : onEquityClick;
 
             return (
-              <div 
-                key={idx} 
+              <div
+                key={idx}
                 onClick={handleClick}
-                className={`p-12 md:p-16 flex flex-col min-h-[420px] transition-all duration-500 hover:bg-white/[0.02] border-white/10 cursor-pointer group ${
-                  idx !== capabilities.length - 1 ? 'lg:border-r border-b lg:border-b-0' : 'border-b lg:border-b-0'
-                }`}
+                className={`p-12 md:p-16 flex flex-col min-h-[420px] transition-all duration-500 hover:bg-white/[0.02] border-white/10 cursor-pointer group ${idx !== capabilities.length - 1 ? 'lg:border-r border-b lg:border-b-0' : 'border-b lg:border-b-0'
+                  }`}
               >
                 <div className="mb-12 opacity-80 group-hover:opacity-100 transition-opacity">
                   {item.icon}
                 </div>
-                
+
                 <div className="flex-grow">
                   <div className="flex items-center justify-between mb-2">
                     <h3 className="font-display text-platinum text-2xl tracking-[0.1em] uppercase group-hover:text-oldgold transition-colors">
