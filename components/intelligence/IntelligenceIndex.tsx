@@ -4,12 +4,12 @@ import matter from 'gray-matter';
 // Helper to parse the raw markdown files imported by Vite
 const getPosts = () => {
   const postsGlob = import.meta.glob('../../../content/intelligence/*.md', { query: '?raw', eager: true });
-  
+
   const posts = Object.entries(postsGlob).map(([filepath, content]) => {
     // The content is returned as an object { default: "raw markdown string" } by Vite's ?raw query
     const rawMarkdown = (content as any).default;
     const { data } = matter(rawMarkdown);
-    
+
     return {
       slug: data.slug || filepath.split('/').pop()?.replace('.md', ''),
       title: data.title || 'Untitled',
@@ -28,7 +28,7 @@ export const IntelligenceIndex: React.FC = () => {
 
   useEffect(() => {
     setPosts(getPosts());
-    
+
     // Update SEO tags for the index page
     document.title = 'Intelligence | Roials Capital';
     const metaDescription = document.querySelector('meta[name="description"]');
@@ -45,14 +45,14 @@ export const IntelligenceIndex: React.FC = () => {
         </h1>
         <div className="w-24 h-1 bg-oldgold mb-8"></div>
         <p className="font-sans text-lg text-platinum/70 font-light leading-relaxed max-w-2xl">
-          Analytical perspectives and proprietary insights on private credit, structured finance, and middle-market macroeconomics.
+          Proprietary intelligence on asset hardening, institutional migration, and the structural mechanics of Fund III+ expansions.
         </p>
       </div>
 
       <div className="space-y-12">
         {posts.map((post) => (
-          <article 
-            key={post.slug} 
+          <article
+            key={post.slug}
             className="group border-b border-white/10 pb-12 hover:border-oldgold/50 transition-colors duration-500"
           >
             <a href={`/intelligence/${post.slug}`} className="block">
@@ -65,15 +65,15 @@ export const IntelligenceIndex: React.FC = () => {
                   {post.author}
                 </span>
               </div>
-              
+
               <h2 className="font-display text-2xl md:text-3xl text-platinum group-hover:text-oldgold transition-colors duration-300 mb-4 leading-tight">
                 {post.title}
               </h2>
-              
+
               <p className="font-sans text-platinum/70 leading-relaxed font-light mb-6 line-clamp-3">
                 {post.description}
               </p>
-              
+
               <div className="inline-flex items-center gap-2 text-oldgold font-sans text-xs tracking-[0.2em] uppercase font-bold group-hover:translate-x-2 transition-transform duration-300">
                 Read Analysis
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
@@ -84,10 +84,10 @@ export const IntelligenceIndex: React.FC = () => {
             </a>
           </article>
         ))}
-        
+
         {posts.length === 0 && (
           <div className="text-center py-24 border border-white/5 bg-white/[0.02]">
-            <p className="text-platinum/50 font-sans tracking-wide">No intelligence reports currently available.</p>
+            <p className="text-platinum/50 font-sans tracking-wide">Intelligence access is restricted to mandated partners. Public briefings are released periodically.</p>
           </div>
         )}
       </div>
