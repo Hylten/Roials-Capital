@@ -4,9 +4,10 @@ interface LoginProps {
   onBack: () => void;
   onReplayIntro: () => void;
   onLoginSuccess: () => void;
+  accessType?: 'lp-access' | 'dataroom'; // Ny prop för att specificera åtkomsttyp
 }
 
-export const Login: React.FC<LoginProps> = ({ onBack, onReplayIntro, onLoginSuccess }) => {
+export const Login: React.FC<LoginProps> = ({ onBack, onReplayIntro, onLoginSuccess, accessType = 'lp-access' }) => {
   const [notification, setNotification] = useState<string | null>(null);
   const [isLoading, setIsLoading] = useState(false);
   const [email, setEmail] = useState('');
@@ -59,7 +60,9 @@ export const Login: React.FC<LoginProps> = ({ onBack, onReplayIntro, onLoginSucc
               ROIALS <span className="text-oldgold">CAPITAL</span>
             </h1>
             <div className="h-[1px] w-12 bg-oldgold/30 mx-auto my-8"></div>
-            <p className="font-serif text-gray-300 italic text-xl">Limited Partner Access</p>
+            <p className="font-serif text-gray-300 italic text-xl">
+              {accessType === 'dataroom' ? 'CONFIDENTIAL DATA ROOM' : 'LIMITED PARTNER ACCESS'}
+            </p>
           </div>
 
           {/* Form */}

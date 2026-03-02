@@ -15,6 +15,10 @@ interface Folder {
     files: FileItem[];
 }
 
+interface DataRoomProps {
+    onBack: () => void;
+}
+
 const dataRoomFolders: Folder[] = [
     {
         id: '01',
@@ -75,15 +79,23 @@ const dataRoomFolders: Folder[] = [
     }
 ];
 
-export const DataRoom: React.FC = () => {
+export const DataRoom: React.FC<DataRoomProps> = ({ onBack }) => {
     const [selectedFolder, setSelectedFolder] = useState<Folder | null>(null);
 
     return (
         <section className="pt-32 pb-20 px-4 sm:px-6 lg:px-8">
+            <div className="absolute top-8 left-8 z-20">
+                <button
+                    onClick={onBack}
+                    className="text-gray-400 text-xs uppercase tracking-[0.2em] hover:text-oldgold transition-colors flex items-center gap-2 font-medium"
+                >
+                    <span className="text-lg">&larr;</span> Logga ut
+                </button>
+            </div>
             <div className="max-w-7xl mx-auto">
                 <div className="mb-12">
                     <h1 className="text-4xl md:text-5xl font-light text-platinum mb-4 tracking-tight">
-                        Institutional <span className="text-oldgold font-medium italic">Data Room</span>
+                        CONFIDENTIAL <span className="text-oldgold font-medium italic">DATA ROOM</span>
                     </h1>
                     <p className="text-platinum/60 max-w-2xl text-lg font-light">
                         Secure investor portal for Roials Capital. Standardized 2026 ODD compliance and ILPA-grade artifact management.

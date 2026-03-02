@@ -14,19 +14,36 @@ import { Privacy } from './components/legal/Privacy';
 import { Cookies } from './components/legal/Cookies';
 import { SplashScreen } from './components/SplashScreen';
 import { DataRoom } from './components/DataRoom';
+import { IntelligenceIndex } from './components/intelligence/IntelligenceIndex';
+import { IntelligenceArticle } from './components/intelligence/IntelligenceArticle';
 
 type View = 'home' | 'login' | 'thesis' | 'private-credit' | 'mandates' | 'team' | 'inquire' | 'terms' | 'privacy' | 'cookies' | 'dataroom';
 
 const App: React.FC = () => {
   const [currentView, setCurrentView] = useState<View>('home');
+  const [intelligenceSlug, setIntelligenceSlug] = useState<string | null>(null);
   const [isAuthenticated, setIsAuthenticated] = useState(false);
   const [isContactModalOpen, setIsContactModalOpen] = useState(false);
   const [showSplash, setShowSplash] = useState(false);
   const [isRevealed, setIsRevealed] = useState(false);
   const [animationComplete, setAnimationComplete] = useState(false);
+  const [accessType, setAccessType] = useState<'lp-access' | 'dataroom'>('lp-access'); // Nytt state för att spara åtkomsttyp
 
   // Initial Logic
   useEffect(() => {
+    // Check for SEO Intelligence URLs
+    const path = window.location.pathname;
+    if (path.startsWith('/intelligence')) {
+      const slug = path.replace('/intelligence', '').replace('/', '');
+      if (slug) {
+        setIntelligenceSlug(slug);
+      }
+      setCurrentView('home'); // We'll override rendering down below
+      setAnimationComplete(true);
+      setIsRevealed(true);
+      return; // Skip standard splash logic for SEO routes
+    }
+
     // Check session storage to see if we should show splash
     const hasSeenSplash = sessionStorage.getItem('roials_splash_seen');
     const authStatus = sessionStorage.getItem('roials_dataroom_auth');
@@ -72,7 +89,11 @@ const App: React.FC = () => {
     // If trying to access dataroom, but not authenticated, go to login
     if (view === 'dataroom' && !isAuthenticated) {
       setCurrentView('login');
+      setAccessType('dataroom'); // Spara att vi försökte nå dataroom
       return;
+    }
+    if (view === 'login') {
+      setAccessType('lp-access'); // Spara att vi försökte nå lp-access
     }
     setCurrentView(view);
     window.scrollTo({ top: 0, behavior: 'instant' });
@@ -89,8 +110,46 @@ const App: React.FC = () => {
     window.location.reload();
   };
 
-  if (currentView === 'login') {
-    return <Login onBack={() => handleViewChange('home')} onReplayIntro={handleReplayIntro} onLoginSuccess={handleLoginSuccess} />;
+  if (currentView === 'login' && !window.location.pathname.startsWith('/intelligence')) {
+    return <Login onBack={() => handleViewChange('home')} onReplayIntro={handleReplayIntro} onLoginSuccess={handleLoginSuccess} accessType={accessType} />;
+  }
+
+  // SEO Route Hijack
+  if (window.location.pathname.startsWith('/intelligence')) {
+    return (
+      <div className="bg-obsidian min-h-screen text-platinum selection:bg-oldgold selection:text-obsidian flex flex-col">
+        <Header
+          onHomeClick={() => { window.location.href = '/'; }}
+          onThesisClick={() => { window.location.href = '/?view=thesis'; }}
+          onCreditClick={() => { window.location.href = '/?view=private-credit'; }}
+          onMandatesClick={() => { window.location.href = '/?view=mandates'; }}
+          onTeamClick={() => { window.location.href = '/?view=team'; }}
+          onInquireClick={() => { window.location.href = '/'; }}
+          onLoginClick={() => { window.location.href = '/?view=login'; }}
+          onDataRoomClick={() => { window.location.href = '/?view=dataroom'; }}
+        />
+        <main className="flex-grow">
+          {intelligenceSlug ? (
+            <IntelligenceArticle slug={intelligenceSlug} />
+          ) : (
+            <IntelligenceIndex />
+          )}
+        </main>
+        <Footer
+          onHomeClick={() => { window.location.href = '/'; }}
+          onLoginClick={() => { window.location.href = '/?view=login'; }}
+          onThesisClick={() => { window.location.href = '/?view=thesis'; }}
+          onPrivateCreditClick={() => { window.location.href = '/?view=private-credit'; }}
+          onMandatesClick={() => { window.location.href = '/?view=mandates'; }}
+          onTeamClick={() => { window.location.href = '/?view=team'; }}
+          onInquireClick={() => { window.location.href = '/'; }}
+          onTermsClick={() => { window.location.href = '/?view=terms'; }}
+          onPrivacyClick={() => { window.location.href = '/?view=privacy'; }}
+          onCookiesClick={() => { window.location.href = '/?view=cookies'; }}
+          onDataRoomClick={() => { window.location.href = '/?view=dataroom'; }}
+        />
+      </div>
+    );
   }
 
   return (
@@ -122,7 +181,7 @@ const App: React.FC = () => {
       >
         <main className="flex-grow">
           {currentView === 'dataroom' && (
-            isAuthenticated ? <DataRoom /> : <Login onBack={() => handleViewChange('home')} onReplayIntro={handleReplayIntro} onLoginSuccess={handleLoginSuccess} />
+            isAuthenticated ? <DataRoom onBack={() => handleViewChange('home')} /> : <Login onBack={() => handleViewChange('home')} onReplayIntro={handleReplayIntro} onLoginSuccess={handleLoginSuccess} accessType={'dataroom'} />
           )}
           {currentView === 'home' && (
             <Home

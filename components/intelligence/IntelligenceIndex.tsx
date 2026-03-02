@@ -1,0 +1,96 @@
+import React, { useState, useEffect } from 'react';
+import matter from 'gray-matter';
+
+// Helper to parse the raw markdown files imported by Vite
+const getPosts = () => {
+  const postsGlob = import.meta.glob('../../../content/intelligence/*.md', { query: '?raw', eager: true });
+  
+  const posts = Object.entries(postsGlob).map(([filepath, content]) => {
+    // The content is returned as an object { default: "raw markdown string" } by Vite's ?raw query
+    const rawMarkdown = (content as any).default;
+    const { data } = matter(rawMarkdown);
+    
+    return {
+      slug: data.slug || filepath.split('/').pop()?.replace('.md', ''),
+      title: data.title || 'Untitled',
+      description: data.description || '',
+      date: data.date || '',
+      author: data.author || 'Roials Capital',
+    };
+  });
+
+  // Sort by date descending
+  return posts.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+};
+
+export const IntelligenceIndex: React.FC = () => {
+  const [posts, setPosts] = useState<ReturnType<typeof getPosts>>([]);
+
+  useEffect(() => {
+    setPosts(getPosts());
+    
+    // Update SEO tags for the index page
+    document.title = 'Intelligence | Roials Capital';
+    const metaDescription = document.querySelector('meta[name="description"]');
+    if (metaDescription) {
+      metaDescription.setAttribute('content', 'Insights and perspectives on private credit, middle-market lending, and macroeconomics from Roials Capital.');
+    }
+  }, []);
+
+  return (
+    <div className="pt-32 pb-24 px-6 md:px-12 max-w-4xl mx-auto min-h-screen">
+      <div className="mb-16">
+        <h1 className="font-display text-4xl md:text-6xl text-platinum mb-6 uppercase tracking-wider">
+          Intelligence
+        </h1>
+        <div className="w-24 h-1 bg-oldgold mb-8"></div>
+        <p className="font-sans text-lg text-platinum/70 font-light leading-relaxed max-w-2xl">
+          Analytical perspectives and proprietary insights on private credit, structured finance, and middle-market macroeconomics.
+        </p>
+      </div>
+
+      <div className="space-y-12">
+        {posts.map((post) => (
+          <article 
+            key={post.slug} 
+            className="group border-b border-white/10 pb-12 hover:border-oldgold/50 transition-colors duration-500"
+          >
+            <a href={`/intelligence/${post.slug}`} className="block">
+              <div className="flex flex-col md:flex-row md:items-baseline gap-4 mb-4">
+                <time className="font-sans text-sm text-oldgold uppercase tracking-widest font-bold">
+                  {new Date(post.date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+                </time>
+                <span className="hidden md:inline text-white/20 px-2">•</span>
+                <span className="font-sans text-sm text-platinum/50 uppercase tracking-wider">
+                  {post.author}
+                </span>
+              </div>
+              
+              <h2 className="font-display text-2xl md:text-3xl text-platinum group-hover:text-oldgold transition-colors duration-300 mb-4 leading-tight">
+                {post.title}
+              </h2>
+              
+              <p className="font-sans text-platinum/70 leading-relaxed font-light mb-6 line-clamp-3">
+                {post.description}
+              </p>
+              
+              <div className="inline-flex items-center gap-2 text-oldgold font-sans text-xs tracking-[0.2em] uppercase font-bold group-hover:translate-x-2 transition-transform duration-300">
+                Read Analysis
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                  <path d="M5 12h14"></path>
+                  <path d="m12 5 7 7-7 7"></path>
+                </svg>
+              </div>
+            </a>
+          </article>
+        ))}
+        
+        {posts.length === 0 && (
+          <div className="text-center py-24 border border-white/5 bg-white/[0.02]">
+            <p className="text-platinum/50 font-sans tracking-wide">No intelligence reports currently available.</p>
+          </div>
+        )}
+      </div>
+    </div>
+  );
+};
