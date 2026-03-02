@@ -38,10 +38,24 @@ const App: React.FC = () => {
       if (slug) {
         setIntelligenceSlug(slug);
       }
-      setCurrentView('home'); // We'll override rendering down below
+      setCurrentView('home'); // Override rendering down below
       setAnimationComplete(true);
       setIsRevealed(true);
       return; // Skip standard splash logic for SEO routes
+    }
+
+    // Check for explicit View URLs from Intelligence pages redirecting back
+    const urlParams = new URLSearchParams(window.location.search);
+    const viewParam = urlParams.get('view') as View | null;
+
+    if (viewParam) {
+      setCurrentView(viewParam);
+      setAnimationComplete(true);
+      setIsRevealed(true);
+      setShowSplash(false);
+      // Clean up URL without triggering a reload
+      window.history.replaceState({}, '', '/');
+      return;
     }
 
     // Check session storage to see if we should show splash
