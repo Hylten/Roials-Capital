@@ -86,8 +86,10 @@ export const IntelligenceIndex: React.FC = () => {
         ))}
 
         {posts.length === 0 && (
-          <div className="text-center py-24 border border-white/5 bg-white/[0.02] flex flex-col items-center">
-            <p className="text-platinum/50 font-sans tracking-wide mb-8">Intelligence access is restricted to mandated partners. Public briefings are released periodically.</p>
+          <div className="flex flex-col items-center gap-8">
+            <div className="w-full text-center py-24 border border-white/5 bg-white/[0.02]">
+              <p className="text-platinum/50 font-sans tracking-wide">Intelligence access is restricted to mandated partners. Public briefings are released periodically.</p>
+            </div>
             <a
               href="/"
               className="inline-flex items-center gap-2 px-8 py-4 border border-oldgold/30 hover:bg-oldgold/10 hover:border-oldgold text-oldgold font-sans text-xs tracking-[0.2em] font-bold uppercase transition-all duration-300"
