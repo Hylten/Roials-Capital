@@ -14,33 +14,33 @@ const INTELLIGENCE_DIST_DIR = path.join(DIST_DIR, 'intelligence');
 
 // Helper to ensure directory exists
 const ensureDir = (dirPath) => {
-    if (!fs.existsSync(dirPath)) {
-        fs.mkdirSync(dirPath, { recursive: true });
-    }
+  if (!fs.existsSync(dirPath)) {
+    fs.mkdirSync(dirPath, { recursive: true });
+  }
 };
 
 async function generateSEO() {
-    console.log('Generating SEO Static HTML for Intelligence Blog...');
+  console.log('Generating SEO Static HTML for Intelligence Blog...');
 
-    // Wait until Vite has finished building the dist folder
-    if (!fs.existsSync(DIST_DIR)) {
-        console.error('dist directory not found. Please run npm run build first.');
-        process.exit(1);
-    }
+  // Wait until Vite has finished building the dist folder
+  if (!fs.existsSync(DIST_DIR)) {
+    console.error('dist directory not found. Please run npm run build first.');
+    process.exit(1);
+  }
 
-    const indexHtmlPath = path.join(DIST_DIR, 'index.html');
-    if (!fs.existsSync(indexHtmlPath)) {
-        console.error('dist/index.html not found. Please run npm run build first.');
-        process.exit(1);
-    }
+  const indexHtmlPath = path.join(DIST_DIR, 'index.html');
+  if (!fs.existsSync(indexHtmlPath)) {
+    console.error('dist/index.html not found. Please run npm run build first.');
+    process.exit(1);
+  }
 
-    const baseHtml = fs.readFileSync(indexHtmlPath, 'utf8');
+  const baseHtml = fs.readFileSync(indexHtmlPath, 'utf8');
 
-    // Ensure intelligence directory exists inside dist
-    ensureDir(INTELLIGENCE_DIST_DIR);
+  // Ensure intelligence directory exists inside dist
+  ensureDir(INTELLIGENCE_DIST_DIR);
 
-    const sharedButtons = `
-        <div style="position: fixed; bottom: 40px; left: 50%; transform: translateX(-50%); z-index: 10000;">
+  const sharedButtons = `
+        <div style="display: flex; justify-content: center; margin-top: 100px; padding-bottom: 60px; width: 100%;">
           <a href="/" style="padding: 10px 24px; background: rgba(10,10,10,0.8); backdrop-filter: blur(8px); border: 1px solid rgba(255,255,255,0.1); color: #C5A059; text-decoration: none; font-size: 10px; letter-spacing: 3px; text-transform: uppercase; box-shadow: 0 10px 30px rgba(0,0,0,0.5); font-family: sans-serif; font-weight: 500;">
             Return Home
           </a>
@@ -52,49 +52,49 @@ async function generateSEO() {
         </a>
     `;
 
-    // 1. Generate Index Page (/intelligence/index.html)
-    const indexHtml = baseHtml
-        .replace(/<title>.*?<\/title>/, '<title>Intelligence | Roials Capital</title>')
-        .replace(/<meta name="description" content=".*?">/, '<meta name="description" content="Insights and perspectives on private credit, middle-market lending, and macroeconomics from Roials Capital.">')
-        .replace('<div id="root"></div>', `<div id="root">${sharedButtons}</div>`);
+  // 1. Generate Index Page (/intelligence/index.html)
+  const indexHtml = baseHtml
+    .replace(/<title>.*?<\/title>/, '<title>Intelligence | Roials Capital</title>')
+    .replace(/<meta name="description" content=".*?">/, '<meta name="description" content="Insights and perspectives on private credit, middle-market lending, and macroeconomics from Roials Capital.">')
+    .replace('<div id="root"></div>', `<div id="root">${sharedButtons}</div>`);
 
-    fs.writeFileSync(path.join(INTELLIGENCE_DIST_DIR, 'index.html'), indexHtml);
-    console.log('✅ Generated /dist/intelligence/index.html');
+  fs.writeFileSync(path.join(INTELLIGENCE_DIST_DIR, 'index.html'), indexHtml);
+  console.log('✅ Generated /dist/intelligence/index.html');
 
-    // 2. Generate Article Pages
-    if (!fs.existsSync(CONTENT_DIR)) {
-        console.log('No content directory found. Skipping articles.');
-        return;
-    }
+  // 2. Generate Article Pages
+  if (!fs.existsSync(CONTENT_DIR)) {
+    console.log('No content directory found. Skipping articles.');
+    return;
+  }
 
-    const files = fs.readdirSync(CONTENT_DIR).filter(file => file.endsWith('.md'));
+  const files = fs.readdirSync(CONTENT_DIR).filter(file => file.endsWith('.md'));
 
-    for (const file of files) {
-        const filePath = path.join(CONTENT_DIR, file);
-        const rawContent = fs.readFileSync(filePath, 'utf8');
-        const { data } = matter(rawContent);
+  for (const file of files) {
+    const filePath = path.join(CONTENT_DIR, file);
+    const rawContent = fs.readFileSync(filePath, 'utf8');
+    const { data } = matter(rawContent);
 
-        const slug = data.slug || file.replace('.md', '');
-        const title = data.title || 'Intelligence Article';
-        const description = data.description || '';
+    const slug = data.slug || file.replace('.md', '');
+    const title = data.title || 'Intelligence Article';
+    const description = data.description || '';
 
-        const articleDir = path.join(INTELLIGENCE_DIST_DIR, slug);
-        ensureDir(articleDir);
+    const articleDir = path.join(INTELLIGENCE_DIST_DIR, slug);
+    ensureDir(articleDir);
 
-        const articleHtml = baseHtml
-            .replace(/<title>.*?<\/title>/, `<title>${title} | Roials Capital</title>`)
-            .replace(/<meta name="description" content=".*?">/, `<meta name="description" content="${description}">`)
-            .replace('<div id="root"></div>', `<div id="root">${sharedButtons}</div>`);
+    const articleHtml = baseHtml
+      .replace(/<title>.*?<\/title>/, `<title>${title} | Roials Capital</title>`)
+      .replace(/<meta name="description" content=".*?">/, `<meta name="description" content="${description}">`)
+      .replace('<div id="root"></div>', `<div id="root">${sharedButtons}</div>`);
 
-        fs.writeFileSync(path.join(articleDir, 'index.html'), articleHtml);
-        console.log(`✅ Generated /dist/intelligence/${slug}/index.html`);
-    }
+    fs.writeFileSync(path.join(articleDir, 'index.html'), articleHtml);
+    console.log(`✅ Generated /dist/intelligence/${slug}/index.html`);
+  }
 
-    // 3. Generate sitemap.xml
-    const SITE_URL = 'https://roialscapital.com';
-    const today = new Date().toISOString().split('T')[0];
+  // 3. Generate sitemap.xml
+  const SITE_URL = 'https://roialscapital.com';
+  const today = new Date().toISOString().split('T')[0];
 
-    let sitemapUrls = `  <url>
+  let sitemapUrls = `  <url>
     <loc>${SITE_URL}/</loc>
     <lastmod>${today}</lastmod>
     <priority>1.0</priority>
@@ -105,39 +105,39 @@ async function generateSEO() {
     <priority>0.9</priority>
   </url>`;
 
-    for (const file of files) {
-        const filePath = path.join(CONTENT_DIR, file);
-        const rawContent = fs.readFileSync(filePath, 'utf8');
-        const { data } = matter(rawContent);
-        const slug = data.slug || file.replace('.md', '');
-        const date = data.date || today;
+  for (const file of files) {
+    const filePath = path.join(CONTENT_DIR, file);
+    const rawContent = fs.readFileSync(filePath, 'utf8');
+    const { data } = matter(rawContent);
+    const slug = data.slug || file.replace('.md', '');
+    const date = data.date || today;
 
-        sitemapUrls += `
+    sitemapUrls += `
   <url>
     <loc>${SITE_URL}/intelligence/${slug}/</loc>
     <lastmod>${date}</lastmod>
     <priority>0.8</priority>
   </url>`;
-    }
+  }
 
-    const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
+  const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 ${sitemapUrls}
 </urlset>`;
 
-    fs.writeFileSync(path.join(DIST_DIR, 'sitemap.xml'), sitemap);
-    console.log('✅ Generated /dist/sitemap.xml');
+  fs.writeFileSync(path.join(DIST_DIR, 'sitemap.xml'), sitemap);
+  console.log('✅ Generated /dist/sitemap.xml');
 
-    // 4. Generate robots.txt
-    const robots = `User-agent: *
+  // 4. Generate robots.txt
+  const robots = `User-agent: *
 Allow: /
 
 Sitemap: ${SITE_URL}/sitemap.xml`;
 
-    fs.writeFileSync(path.join(DIST_DIR, 'robots.txt'), robots);
-    console.log('✅ Generated /dist/robots.txt');
+  fs.writeFileSync(path.join(DIST_DIR, 'robots.txt'), robots);
+  console.log('✅ Generated /dist/robots.txt');
 
-    console.log('SEO Generation Complete!');
+  console.log('SEO Generation Complete!');
 }
 
 generateSEO().catch(console.error);
