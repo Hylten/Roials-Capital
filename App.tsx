@@ -151,7 +151,7 @@ const App: React.FC = () => {
         </main>
 
         {/* Home Button Center Bottom */}
-        <div className="fixed bottom-10 left-1/2 -translate-x-1/2 z-[10000]">
+        <div style={{ position: 'fixed', bottom: '40px', left: '50%', transform: 'translateX(-50%)', zIndex: 10000 }}>
           <a
             href="/"
             className="px-6 py-2 bg-obsidian/80 backdrop-blur-md border border-white/10 text-oldgold text-[10px] tracking-[0.3em] uppercase hover:bg-oldgold hover:text-obsidian transition-all duration-300 shadow-lg"
