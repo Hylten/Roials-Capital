@@ -17,8 +17,8 @@ git commit -m "Auto-publish: Capital Intelligence Update [$TIMESTAMP]"
 echo "📦 Pushing to GitHub..."
 git push origin main
 
-# 5. Ping Search Engines
-echo "🔍 Notifying search engines..."
+# 5. Sitemap Status
+echo "🔍 Checking sitemap status..."
 node scripts/ping-google.js
 
 echo "✅ Capital Publish complete!"
