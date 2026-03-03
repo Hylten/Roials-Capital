@@ -1,14 +1,36 @@
 import React, { useState, useEffect } from 'react';
-import matter from 'gray-matter';
+
+// Browser-safe frontmatter parser (no gray-matter / no Buffer needed)
+function parseFrontmatter(raw: string) {
+  const match = raw.match(/^---\s*\n([\s\S]*?)\n---\s*\n([\s\S]*)$/);
+  if (!match) return { data: {} as Record<string, string>, content: raw };
+
+  const frontmatter = match[1];
+  const content = match[2];
+  const data: Record<string, string> = {};
+
+  for (const line of frontmatter.split('\n')) {
+    const colonIdx = line.indexOf(':');
+    if (colonIdx === -1) continue;
+    const key = line.slice(0, colonIdx).trim();
+    let value = line.slice(colonIdx + 1).trim();
+    // Remove surrounding quotes
+    if ((value.startsWith('"') && value.endsWith('"')) || (value.startsWith("'") && value.endsWith("'"))) {
+      value = value.slice(1, -1);
+    }
+    data[key] = value;
+  }
+
+  return { data, content };
+}
 
 // Helper to parse the raw markdown files imported by Vite
 const getPosts = () => {
   const postsGlob = import.meta.glob('../../content/intelligence/*.md', { query: '?raw', eager: true });
 
   const posts = Object.entries(postsGlob).map(([filepath, content]) => {
-    // The content is returned as an object { default: "raw markdown string" } by Vite's ?raw query
     const rawMarkdown = (content as any).default;
-    const { data } = matter(rawMarkdown);
+    const { data } = parseFrontmatter(rawMarkdown);
 
     return {
       slug: data.slug || filepath.split('/').pop()?.replace('.md', ''),

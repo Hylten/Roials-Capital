@@ -1,7 +1,29 @@
 import React, { useState, useEffect } from 'react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
-import matter from 'gray-matter';
+
+// Browser-safe frontmatter parser (no gray-matter / no Buffer needed)
+function parseFrontmatter(raw: string) {
+    const match = raw.match(/^---\s*\n([\s\S]*?)\n---\s*\n([\s\S]*)$/);
+    if (!match) return { data: {} as Record<string, string>, content: raw };
+
+    const frontmatter = match[1];
+    const content = match[2];
+    const data: Record<string, string> = {};
+
+    for (const line of frontmatter.split('\n')) {
+        const colonIdx = line.indexOf(':');
+        if (colonIdx === -1) continue;
+        const key = line.slice(0, colonIdx).trim();
+        let value = line.slice(colonIdx + 1).trim();
+        if ((value.startsWith('"') && value.endsWith('"')) || (value.startsWith("'") && value.endsWith("'"))) {
+            value = value.slice(1, -1);
+        }
+        data[key] = value;
+    }
+
+    return { data, content };
+}
 
 interface IntelligenceArticleProps {
     slug: string;
@@ -15,16 +37,13 @@ export const IntelligenceArticle: React.FC<IntelligenceArticleProps> = ({ slug }
     useEffect(() => {
         const loadContent = async () => {
             try {
-                // Vite's import.meta.glob is statically analyzable and resolves at build time.
-                // We load all raw markdown files and find the one matching the current slug.
                 const postsGlob = import.meta.glob('../../content/intelligence/*.md', { query: '?raw', eager: true });
 
                 let foundPost = null;
 
-                // Find the matched file by checking its frontmatter slug or filename
                 for (const [filepath, fileContent] of Object.entries(postsGlob)) {
                     const rawMarkdown = (fileContent as any).default;
-                    const { data, content: markdownBody } = matter(rawMarkdown);
+                    const { data, content: markdownBody } = parseFrontmatter(rawMarkdown);
 
                     const fileSlug = data.slug || filepath.split('/').pop()?.replace('.md', '');
 
@@ -38,7 +57,6 @@ export const IntelligenceArticle: React.FC<IntelligenceArticleProps> = ({ slug }
                     setContent(foundPost.body);
                     setMeta(foundPost.meta);
 
-                    // Update SEO dynamically
                     if (foundPost.meta.title) {
                         document.title = `${foundPost.meta.title} | Roials Capital Intelligence`;
                     }
@@ -73,7 +91,7 @@ export const IntelligenceArticle: React.FC<IntelligenceArticleProps> = ({ slug }
     }
 
     if (!content) {
-        return <div className="min-h-screen bg-obsidian"></div>; // Loading state
+        return <div className="min-h-screen bg-obsidian"></div>;
     }
 
     return (
