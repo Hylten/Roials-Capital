@@ -1,13 +1,13 @@
 ---
-title: "The Hardening Process: Asset Hardening for Fund III"
+title: "The Institutional Asset Hardening Playbook: How to Pass a $5B Board Review"
 description: "An in-depth guide for GPs on transforming asset structures to meet the institutional standards required for Fund III expansions. Learn the sovereign tactics for capital migration and LP alignment."
 date: "2026-03-03"
 author: "Roials Capital"
-slug: "asset-hardening-fund-iii"
+slug: "institutional-asset-hardening-playbook"
 keywords: "Asset Hardening, Fund III, Institutional Capital, Principal-led Execution, LP Alignment, GP Strategy"
 ---
 
-# The Hardening Process: Asset Hardening for Fund III
+# The Institutional Asset Hardening Playbook: How to Pass a $5B Board Review
 
 ## Introduction
 
