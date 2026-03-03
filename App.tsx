@@ -34,7 +34,7 @@ const App: React.FC = () => {
     // Check for SEO Intelligence URLs
     const path = window.location.pathname;
     if (path.startsWith('/intelligence')) {
-      const slug = path.replace('/intelligence', '').replace('/', '');
+      const slug = path.replace('/intelligence', '').replace(/^\/|\/$/g, '');
       if (slug) {
         setIntelligenceSlug(slug);
       }
