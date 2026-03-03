@@ -21,4 +21,5 @@ git push origin main
 echo "🔍 Checking sitemap status..."
 node scripts/ping-google.js
 
+echo ""
 echo "✅ Capital Publish complete!"
