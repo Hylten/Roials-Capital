@@ -61,24 +61,24 @@ export const IntelligenceIndex: React.FC = () => {
 
   return (
     <div className="pt-32 pb-24 px-6 md:px-12 max-w-4xl mx-auto min-h-screen">
-      <div className="mb-16">
-        <h1 className="font-display text-4xl md:text-6xl text-platinum mb-6 uppercase tracking-wider">
+      <div className="mb-24">
+        <h1 className="font-display text-4xl md:text-6xl text-platinum mb-8 uppercase tracking-wider">
           Intelligence
         </h1>
-        <div className="w-24 h-1 bg-oldgold mb-8"></div>
+        <div className="w-24 h-1 bg-oldgold mb-12"></div>
         <p className="font-sans text-lg text-platinum/70 font-light leading-relaxed max-w-2xl">
           Proprietary intelligence on asset hardening, institutional migration, and the structural mechanics of Fund III+ expansions.
         </p>
       </div>
 
-      <div className="space-y-12">
+      <div className="space-y-24">
         {posts.map((post) => (
           <article
             key={post.slug}
-            className="group border-b border-white/10 pb-12 hover:border-oldgold/50 transition-colors duration-500"
+            className="group border-b border-white/10 pb-20 hover:border-oldgold/50 transition-colors duration-500"
           >
             <a href={`/intelligence/${post.slug}`} className="block">
-              <div className="flex flex-col md:flex-row md:items-baseline gap-4 mb-4">
+              <div className="flex flex-col md:flex-row md:items-baseline gap-4 mb-8">
                 <time className="font-sans text-sm text-oldgold uppercase tracking-widest font-bold">
                   {new Date(post.date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
                 </time>
@@ -88,11 +88,11 @@ export const IntelligenceIndex: React.FC = () => {
                 </span>
               </div>
 
-              <h2 className="font-display text-2xl md:text-3xl text-platinum group-hover:text-oldgold transition-colors duration-300 mb-4 leading-tight">
+              <h2 className="font-display text-2xl md:text-3xl text-platinum group-hover:text-oldgold transition-colors duration-300 mb-8 leading-tight">
                 {post.title}
               </h2>
 
-              <p className="font-sans text-platinum/70 leading-relaxed font-light mb-6 line-clamp-3">
+              <p className="font-sans text-platinum/70 text-lg leading-relaxed font-light mb-10 line-clamp-3">
                 {post.description}
               </p>
 
