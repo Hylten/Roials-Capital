@@ -17,7 +17,7 @@ export const IntelligenceArticle: React.FC<IntelligenceArticleProps> = ({ slug }
             try {
                 // Vite's import.meta.glob is statically analyzable and resolves at build time.
                 // We load all raw markdown files and find the one matching the current slug.
-                const postsGlob = import.meta.glob('../../../content/intelligence/*.md', { query: '?raw', eager: true });
+                const postsGlob = import.meta.glob('../../content/intelligence/*.md', { query: '?raw', eager: true });
 
                 let foundPost = null;
 

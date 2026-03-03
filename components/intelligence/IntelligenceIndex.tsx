@@ -3,7 +3,7 @@ import matter from 'gray-matter';
 
 // Helper to parse the raw markdown files imported by Vite
 const getPosts = () => {
-  const postsGlob = import.meta.glob('../../../content/intelligence/*.md', { query: '?raw', eager: true });
+  const postsGlob = import.meta.glob('../../content/intelligence/*.md', { query: '?raw', eager: true });
 
   const posts = Object.entries(postsGlob).map(([filepath, content]) => {
     // The content is returned as an object { default: "raw markdown string" } by Vite's ?raw query
