@@ -129,11 +129,23 @@ export const IntelligenceArticle: React.FC<IntelligenceArticleProps> = ({ slug }
                 )}
             </header>
 
-            <div className="prose prose-invert max-w-none prose-p:font-sans prose-p:font-light prose-p:leading-relaxed prose-p:text-lg prose-p:text-platinum/80 prose-p:mb-12 prose-headings:font-display prose-headings:font-normal prose-headings:text-platinum prose-h2:text-4xl prose-h2:mt-24 prose-h2:mb-12 prose-h3:text-2xl prose-h3:mt-16 prose-h3:mb-8 prose-a:text-oldgold prose-strong:font-bold prose-strong:text-white prose-ol:text-platinum/80 prose-ul:text-platinum/80 border-b border-white/10 pb-20">
+            <div className="article-content" style={{ color: 'rgba(229, 231, 235, 0.8)', fontSize: '1.15rem', fontWeight: 300 }}>
                 <ReactMarkdown remarkPlugins={[remarkGfm]}>
                     {content}
                 </ReactMarkdown>
             </div>
+
+            <style>{`
+                .article-content { line-height: 2.1; }
+                .article-content p { margin-bottom: 3.5rem; }
+                .article-content h2 { font-family: "Cinzel", serif; font-size: 2.5rem; margin-top: 6rem; margin-bottom: 3rem; color: #fff; line-height: 1.3; }
+                .article-content h3 { font-family: "Cinzel", serif; font-size: 1.8rem; margin-top: 4.5rem; margin-bottom: 2.5rem; color: #fff; }
+                .article-content ul, .article-content ol { margin-bottom: 3.5rem; padding-left: 2rem; }
+                .article-content li { margin-bottom: 1.5rem; }
+                .article-content hr { border: 0; border-top: 1px solid rgba(255,255,255,0.1); margin: 6rem 0; }
+                .article-content strong { color: #fff; font-weight: 600; }
+                .article-content a { color: #C5A059; text-decoration: underline; }
+            `}</style>
 
             <footer className="mt-16 text-center">
                 <p className="font-sans text-sm text-platinum/40 tracking-wider">
