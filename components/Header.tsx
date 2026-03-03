@@ -92,6 +92,12 @@ export const Header: React.FC<HeaderProps> = ({
             {/* Desktop Navigation - Visible only on md and up */}
             <nav className="hidden lg:flex items-center gap-10">
               <button
+                onClick={() => handleNavAction(onHomeClick)}
+                className="font-sans text-[10px] tracking-[0.2em] text-oldgold hover:text-white transition-colors font-bold uppercase"
+              >
+                Home
+              </button>
+              <button
                 onClick={() => handleNavAction(onMandatesClick)}
                 className="font-sans text-[10px] tracking-[0.2em] text-platinum hover:text-oldgold transition-colors font-bold uppercase"
               >
