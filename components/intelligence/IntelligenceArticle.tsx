@@ -129,7 +129,7 @@ export const IntelligenceArticle: React.FC<IntelligenceArticleProps> = ({ slug }
                 )}
             </header>
 
-            <div className="prose prose-invert prose-p:font-sans prose-p:font-light prose-p:leading-relaxed prose-p:text-platinum/80 prose-headings:font-display prose-headings:font-normal prose-headings:text-platinum prose-h1:text-4xl prose-h2:text-3xl prose-h2:mt-12 prose-h3:text-2xl prose-h3:mt-8 prose-a:text-oldgold prose-strong:font-bold prose-strong:text-white prose-ol:text-platinum/80 prose-ul:text-platinum/80 border-b border-white/10 pb-16">
+            <div className="prose prose-invert max-w-none prose-p:font-sans prose-p:font-light prose-p:leading-relaxed prose-p:text-lg prose-p:text-platinum/80 prose-p:mb-12 prose-headings:font-display prose-headings:font-normal prose-headings:text-platinum prose-h2:text-4xl prose-h2:mt-24 prose-h2:mb-12 prose-h3:text-2xl prose-h3:mt-16 prose-h3:mb-8 prose-a:text-oldgold prose-strong:font-bold prose-strong:text-white prose-ol:text-platinum/80 prose-ul:text-platinum/80 border-b border-white/10 pb-20">
                 <ReactMarkdown remarkPlugins={[remarkGfm]}>
                     {content}
                 </ReactMarkdown>
