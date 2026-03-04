@@ -2,7 +2,7 @@
 title: "The Power of Institutional Backing in Private Credit"
 description: "A surgical exploration of institutional liquidity mechanics and asset based lending frameworks designed for HNWI and UHNW clients."
 date: "2026-03-09"
-author: "Roials Architect"
+author: "Jonas Hyltén"
 slug: "the-power-of-institutional-backing-in-private-cred"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
 ---

@@ -2,7 +2,7 @@
 title: "The Mechanics of Multi-Asset Liquidity for Institutional-Grade Portfolios"
 description: "A surgical exploration of liquidity architecture across private credit, ABL, and high-threshold digital and public market collateral."
 date: "2026-03-06"
-author: "Roials Architect"
+author: "Jonas Hyltén"
 slug: "the-mechanics-of-multi-asset-liquidity"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
 ---

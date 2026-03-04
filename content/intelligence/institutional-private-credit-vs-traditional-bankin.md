@@ -2,7 +2,7 @@
 title: "Institutional Private Credit vs Traditional Banking: The Architecture of Modern Liquidity"
 description: "A high-level examination of institutional private credit and asset-based lending structures, focused on liquidity access for HNWI and UHNW portfolios."
 date: "2026-02-17"
-author: "Roials Architect"
+author: "Jonas Hyltén"
 slug: "institutional-private-credit-vs-traditional-bankin"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
 ---

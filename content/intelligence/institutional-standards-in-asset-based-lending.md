@@ -2,7 +2,7 @@
 title: "Institutional Standards in Asset-Based Lending for the Private Capital Elite"
 description: "Explore the institutional frameworks shaping modern asset-based lending and private credit liquidity for HNWI and UHNW portfolios."
 date: "2026-02-18"
-author: "Roials Architect"
+author: "Jonas Hyltén"
 slug: "institutional-standards-in-asset-based-lending"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
 ---

@@ -2,7 +2,7 @@
 title: "The New Liquidity Standard: Institutional Lending Against Public Shares for $5M+ Holders"
 description: "A high‑authority analysis of the emerging liquidity standard, focusing on private credit, ABL frameworks, and public share lending for HNWI and UHNW clients seeking structural liquidity."
 date: "2026-03-09"
-author: "Roials Architect"
+author: "Jonas Hyltén"
 slug: "the-new-liquidity-standard:-lending-against-public"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
 ---

@@ -2,7 +2,7 @@
 title: "Strategic Capital Migration for Global UHNWIs"
 description: "Institutional overview of strategic liquidity architecture, private credit, and asset based lending frameworks for global UHNW capital migration."
 date: "2026-02-27"
-author: "Roials Architect"
+author: "Jonas Hyltén"
 slug: "strategic-capital-migration-for-global-uhnwis"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
 ---

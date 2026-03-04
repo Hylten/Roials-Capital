@@ -2,7 +2,7 @@
 title: "Sovereign Debt Strategies for Family Offices: Structural Liquidity Architectures for 2026"
 description: "Institutional guide to sovereign debt strategies, liquidity optimization, and asset based lending frameworks for HNWI and UHNW family offices."
 date: "2026-02-25"
-author: "Roials Architect"
+author: "Jonas Hyltén"
 slug: "sovereign-debt-strategies-for-family-offices"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
 ---

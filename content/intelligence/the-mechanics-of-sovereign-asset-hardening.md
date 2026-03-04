@@ -2,7 +2,7 @@
 title: "The Mechanics of Sovereign Asset Hardening"
 description: "An institutional analysis of liquidity structuring through private credit and asset based lending frameworks for HNWI and UHNW portfolios."
 date: "2026-03-07"
-author: "Roials Architect"
+author: "Jonas Hyltén"
 slug: "the-mechanics-of-sovereign-asset-hardening"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
 ---

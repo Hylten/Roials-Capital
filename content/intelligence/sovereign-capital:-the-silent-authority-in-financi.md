@@ -2,7 +2,7 @@
 title: "Sovereign Capital: The Silent Authority in Modern Financing"
 description: "A high-clarity analysis of liquidity architecture, private credit, and asset-based lending for HNWI and UHNW principals seeking institutional-grade capital precision."
 date: "2026-02-25"
-author: "Roials Architect"
+author: "Jonas Hyltén"
 slug: "sovereign-capital-the-silent-authority-in-financing"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
 ---

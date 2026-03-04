@@ -2,7 +2,7 @@
 title: "The Future of Private Credit and Sovereign Wealth"
 description: "A high-authority analysis of private credit, asset based lending, and liquidity engineering for HNWI and UHNW portfolios."
 date: "2026-03-03"
-author: "Roials Architect"
+author: "Jonas Hyltén"
 slug: "the-future-of-private-credit-and-sovereign-wealth"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
 ---

@@ -2,7 +2,7 @@
 title: "Institutional Liquidity Architecture for Real Estate Sovereigns"
 description: "A high-authority examination of institutional liquidity mechanics for real estate sovereigns, with emphasis on private credit and asset based lending frameworks."
 date: "2026-02-17"
-author: "Roials Architect"
+author: "Jonas Hyltén"
 slug: "institutional-liquidity-for-real-estate-sovereigns"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
 ---

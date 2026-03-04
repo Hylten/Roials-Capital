@@ -2,7 +2,7 @@
 title: "The Strategic Role of Yield in True Asset Hardening"
 description: "A deep institutional analysis of how yield transforms private credit and ABL structures into durable liquidity engines for HNWI and UHNW capital."
 date: "2026-03-11"
-author: "Roials Architect"
+author: "Jonas Hyltén"
 slug: "the-role-of-yield-in-asset-hardening"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
 ---

@@ -2,7 +2,7 @@
 title: "Institutional Standards for Private Lending Agreements: The Roials Capital Framework"
 description: "A high-authority analysis of institutional protocols for private credit and asset based lending, focused on liquidity, collateral integrity, and high net worth execution."
 date: "2026-02-18"
-author: "Roials Architect"
+author: "Jonas Hyltén"
 slug: "institutional-standards-for-private-lending-agreem"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
 ---

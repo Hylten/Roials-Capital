@@ -2,7 +2,7 @@
 title: "Strategic Liquidity Architecture for Sovereign and Ultra-High Net Worth Portfolios"
 description: "A high‑level analysis of liquidity structuring using private credit and asset based lending solutions for sovereign, HNWI, and UHNW portfolios."
 date: "2026-03-01"
-author: "Roials Architect"
+author: "Jonas Hyltén"
 slug: "strategic-liquidity-for-sovereign-portfolios"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
 ---
