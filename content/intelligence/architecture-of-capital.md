@@ -94,7 +94,7 @@ To achieve sovereignty, capital must adhere to a discipline of principles that g
   
   
   
-### H2: Principle One: Separation of Identity and Capital
+### Principle One: Separation of Identity and Capital
 
 Human identity creates noise.  
 
@@ -106,7 +106,7 @@ This separation prevents emotional decision cycles, opportunistic drift, and rea
   
   
   
-### H2: Principle Two: Internal Liquidity First
+### Principle Two: Internal Liquidity First
 
 No external opportunity matters until internal liquidity is secured.  
 
@@ -119,7 +119,7 @@ An entity without it is governed by external forces.
   
   
   
-### H2: Principle Three: Allocation Determines Fate
+### Principle Three: Allocation Determines Fate
 
 Performance is a byproduct of design.  
 Design is expressed through allocation.  
@@ -140,7 +140,7 @@ Allocation is the architecture’s expression of purpose.
   
   
   
-### H2: Principle Four: Governance Above Intuition
+### Principle Four: Governance Above Intuition
 
 Capital entities collapse when rules bend.  
 
@@ -162,7 +162,7 @@ Governance creates predictability. Predictability compounds into sovereignty.
   
   
   
-## H1: The Mechanics of Capital Engineering
+## The Mechanics of Capital Engineering
 
 Operating capital without engineered mechanics is equivalent to operating a building without load calculations.  
 The structure may stand today, but not under stress.
@@ -172,7 +172,7 @@ Capital architecture requires mechanical discipline.
   
   
   
-### H2: The Capital Engine
+### The Capital Engine
 
 The capital engine is the integrated system of:
 
@@ -192,7 +192,7 @@ It replaces chaotic decisions with structural outcomes.
   
   
   
-### H2: The Role of Time Geometry
+### The Role of Time Geometry
 
 Time is the hidden variable in all capital outcomes.  
 
@@ -210,7 +210,7 @@ Time geometry determines what becomes inevitable and what becomes impossible.
   
   
   
-### H2: Multi Layer Risk Containment
+### Multi Layer Risk Containment
 
 Risk is never eliminated.  
 Risk is contained.  
@@ -239,7 +239,7 @@ The hierarchy clarifies where precision matters most.
   
   
   
-## H1: Designing Anti Fragile Capital
+## Designing Anti Fragile Capital
 
 Fragility is when a system breaks under volatility.  
 Robustness is when a system endures volatility.  
@@ -250,7 +250,7 @@ Capital architecture aims for anti fragility.
   
   
   
-### H2: Optionality as a Design Element
+### Optionality as a Design Element
 
 Optionality is strategic freedom.  
 It is the ability to act when the environment creates asymmetry.  
@@ -271,7 +271,7 @@ It absorbs opportunity.
   
   
   
-### H2: Controlled Asymmetry
+### Controlled Asymmetry
 
 Asymmetry is the core of compounding.  
 
@@ -289,7 +289,7 @@ Controlled asymmetry is engineered through design, not speculation.
   
   
   
-### H2: Redundancy and Continuity
+### Redundancy and Continuity
 
 Redundancy is not inefficiency.  
 Redundancy is survival.  
@@ -309,7 +309,7 @@ It is never assumed.
   
   
   
-## H1: The Institutional Posture
+## The Institutional Posture
 
 Capital architecture is not only structural.  
 It is behavioral.  
@@ -320,7 +320,7 @@ Posture determines how capital interfaces with the external world.
   
   
   
-### H2: Principle of Stillness
+### Principle of Stillness
 
 Stillness is the refusal to react.  
 
@@ -333,7 +333,7 @@ Stillness reinforces sovereignty.
   
   
   
-### H2: Principle of Controlled Transparency
+### Principle of Controlled Transparency
 
 Capital must be visible enough to operate and invisible enough to remain unmanipulated.  
 
@@ -352,7 +352,7 @@ This is part of the architecture.
   
   
   
-### H2: Principle of Long Horizon Discipline
+### Principle of Long Horizon Discipline
 
 Capital expands over decades, not quarters.  
 
@@ -371,7 +371,7 @@ It is the posture Roials Capital instills.
   
   
   
-## H1: Architecting Capital in a Fragmented World
+## Architecting Capital in a Fragmented World
 
 Today’s capital environment is fractured.  
 Markets are increasingly volatile.  
@@ -384,7 +384,7 @@ Architecture is the stabilizing force.
   
   
   
-### H2: Jurisdictional Intelligence
+### Jurisdictional Intelligence
 
 Capital must exist across multiple legal, regulatory, and monetary frameworks.  
 Jurisdictional intelligence ensures resiliency.  
@@ -403,7 +403,7 @@ Jurisdictional diversity is strategic armor.
   
   
   
-### H2: Monetary Regime Adaptation
+### Monetary Regime Adaptation
 
 Capital architecture cannot assume monetary stability.  
 
@@ -423,7 +423,7 @@ Systems built for adaptation will expand.
   
   
   
-### H2: Digitization and Structural Velocity
+### Digitization and Structural Velocity
 
 Digital rails have increased the velocity of capital.  
 Architecture must adapt to that velocity without losing governance stability.
@@ -444,7 +444,7 @@ Architecture reconciles the two.
   
   
   
-## H1: The Role of Roials Capital in Capital Architecture
+## The Role of Roials Capital in Capital Architecture
 
 Roials Capital operates as an architect, not a broker.  
 
@@ -458,7 +458,7 @@ Our work is surgical.
   
   
   
-### H2: Structural Design
+### Structural Design
 
 We design constitutions that govern capital with precision.  
 We build entities that function independently of the founder's emotional or operational noise.  
@@ -467,7 +467,7 @@ We create systems that preserve optionality across cycles.
   
   
   
-### H2: Operational Engineering
+### Operational Engineering
 
 We construct capital engines that transform information into structured action.  
 We embed risk hierarchies that prevent catastrophic drift.  
@@ -476,7 +476,7 @@ We install reporting and governance mechanisms that sustain long horizon integri
   
   
   
-### H2: Strategic Stewardship
+### Strategic Stewardship
 
 We guide capital through environments, not moments.  
 We shape posture, not reaction.  
