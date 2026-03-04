@@ -1,7 +1,7 @@
 ---
 title: "Institutional Liquidity Architecture for Real Estate Sovereigns"
 description: "A high-authority examination of institutional liquidity mechanics for real estate sovereigns, with emphasis on private credit and asset based lending frameworks."
-date: "2026-03-04"
+date: "2026-02-17"
 author: "Roials Architect"
 slug: "institutional-liquidity-for-real-estate-sovereigns"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
@@ -133,5 +133,4 @@ We maintain the silent authority behind the structure.
 We deliver liquidity that reinforces sovereignty.  
 
 For HNWI and UHNW operators, this is the requirement.  
-For sovereigns, this is the standard.  
-
+For sovereigns, this is the standard.

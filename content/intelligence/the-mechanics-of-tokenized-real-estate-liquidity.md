@@ -1,7 +1,7 @@
 ---
 title: "The Mechanics of Tokenized Real Estate Liquidity"
 description: "A surgical examination of how tokenized real estate interfaces with liquidity architecture, private credit, and asset based lending frameworks."
-date: "2026-03-04"
+date: "2026-03-08"
 author: "Roials Architect"
 slug: "the-mechanics-of-tokenized-real-estate-liquidity"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
@@ -223,5 +223,4 @@ Roials-Capital provides that advantage through a disciplined architecture of pri
 
 We maintain thresholds that ensure institutional coherence.  
 We maintain frameworks that ensure settlement integrity.  
-We maintain silent authority that ensures trust without noise.  
-
+We maintain silent authority that ensures trust without noise.

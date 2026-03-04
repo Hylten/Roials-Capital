@@ -1,7 +1,7 @@
 ---
 title: "The Mechanics of Portfolio‑Backed Liquidity for Modern Private Capital"
 description: "A technical exploration of portfolio‑backed liquidity structures, focusing on private credit and ABL solutions for HNWI and UHNW capital holders."
-date: "2026-03-04"
+date: "2026-03-06"
 author: "Roials Architect"
 slug: "the-mechanics-of-portfolio-backed-liquidity"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
@@ -85,4 +85,3 @@ It must be engineered, not improvised.
 Portfolio backed solutions offer the most stable and strategically aligned approach for clients who operate at institutional scale.
 
 Roials Capital provides the infrastructure, the discipline, and the silent authority required to execute these frameworks with precision.
-

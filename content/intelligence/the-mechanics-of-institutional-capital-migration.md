@@ -1,7 +1,7 @@
 ---
 title: "The Mechanics of Institutional Capital Migration"
 description: "A high‑trust analysis of how liquidity flows through private credit and asset based lending frameworks for HNWI and UHNW portfolios."
-date: "2026-03-04"
+date: "2026-03-05"
 author: "Roials Architect"
 slug: "the-mechanics-of-institutional-capital-migration"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
@@ -51,5 +51,4 @@ HNWI and UHNW individuals who understand this logic do not wait for conditions t
 
 They build the architecture that enables movement on their terms.  
 
-Roials-Capital provides that architecture.  
-
+Roials-Capital provides that architecture.

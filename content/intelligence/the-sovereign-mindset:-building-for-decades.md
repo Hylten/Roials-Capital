@@ -1,7 +1,7 @@
 ---
 title: "The Sovereign Mindset: Building for Decades With Structural Liquidity"
 description: "A high‑trust analysis of liquidity architecture and asset based lending for HNWI and UHNW individuals seeking multi‑decade capital durability."
-date: "2026-03-04"
+date: "2026-03-13"
 author: "Roials Architect"
 slug: "the-sovereign-mindset:-building-for-decades"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"

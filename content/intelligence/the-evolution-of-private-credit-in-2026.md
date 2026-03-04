@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of Private Credit in 2026: The New Architecture of Institutional Liquidity"
 description: "A surgical examination of private credit and asset based lending in 2026, with emphasis on liquidity pathways for HNWI and UHNW portfolios through ABL structures."
-date: "2026-03-04"
+date: "2026-03-03"
 author: "Roials Architect"
 slug: "the-evolution-of-private-credit-in-2026"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
@@ -58,4 +58,3 @@ The world now rewards investors who understand liquidity architecture. Those who
 Roials-Capital stands in the quiet zone between complexity and execution. We provide the frameworks that allow high net worth and ultra high net worth individuals to unlock liquidity without noise.
 
 We do not chase markets. We design the structures they eventually adopt.
-

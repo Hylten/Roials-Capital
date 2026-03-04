@@ -1,7 +1,7 @@
 ---
 title: "Institutional Standards for Private Lending Agreements: The Roials Capital Framework"
 description: "A high-authority analysis of institutional protocols for private credit and asset based lending, focused on liquidity, collateral integrity, and high net worth execution."
-date: "2026-03-04"
+date: "2026-02-18"
 author: "Roials Architect"
 slug: "institutional-standards-for-private-lending-agreem"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
@@ -268,5 +268,4 @@ We do not predict the future.
 We architect for it.  
 
 ## Request Your Confidential Audit  
-For clients who require liquidity engineered at institutional precision, Roials Capital provides a confidential structural audit of collateral and lending capacity.  
-
+For clients who require liquidity engineered at institutional precision, Roials Capital provides a confidential structural audit of collateral and lending capacity.

@@ -1,7 +1,7 @@
 ---
 title: "The Mechanics of Sovereign Asset Hardening"
 description: "An institutional analysis of liquidity structuring through private credit and asset based lending frameworks for HNWI and UHNW portfolios."
-date: "2026-03-04"
+date: "2026-03-07"
 author: "Roials Architect"
 slug: "the-mechanics-of-sovereign-asset-hardening"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
@@ -155,4 +155,3 @@ The architecture remains invisible.
 ## Request Confidential Audit
 
 For clients requiring structural liquidity without exposure, disruption, or signaling, Roials‑Capital provides the institutional mechanics.
-

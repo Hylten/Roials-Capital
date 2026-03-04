@@ -1,7 +1,7 @@
 ---
 title: "Strategic Asset Allocation for Long-Term Liquidity: The Architecture of Durable Capital"
 description: "A high-level liquidity framework for HNWI and UHNW investors using private credit and asset-based lending to engineer long-term optionality."
-date: "2026-03-04"
+date: "2026-02-27"
 author: "Roials Architect"
 slug: "strategic-asset-allocation-for-long-term-liquidity"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
@@ -118,6 +118,4 @@ They maintain control during stress.
 They accelerate during opportunity.  
    
    
-If your objective is durable, long-term liquidity supported by disciplined collateral structures, Roials-Capital provides the architecture.  
-   
-   
+If your objective is durable, long-term liquidity supported by disciplined collateral structures, Roials-Capital provides the architecture.

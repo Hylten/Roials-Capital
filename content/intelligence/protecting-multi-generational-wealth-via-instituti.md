@@ -1,7 +1,7 @@
 ---
 title: "The Institutional Architecture of Protecting Multi‑Generational Wealth Through Crypto Custody"
 description: "A high trust analysis on institutional crypto custody, liquidity engineering, private credit, and asset based lending for HNWI and UHNW families."
-date: "2026-03-04"
+date: "2026-02-23"
 author: "Roials Architect"
 slug: "protecting-multi-generational-wealth-via-instituti"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
@@ -210,5 +210,3 @@ Roials Capital builds this vault for families that operate across decades. Our r
 The outcome is simple. Assets remain protected. Liquidity remains available. Governance remains stable. The family retains sovereignty.
 
 This is the future of multi generational wealth protection. It is engineered, not improvised.
-
-  

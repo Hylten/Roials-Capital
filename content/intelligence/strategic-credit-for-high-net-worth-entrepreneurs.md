@@ -1,7 +1,7 @@
 ---
 title: "Strategic Credit Architecture for High‑Net‑Worth Entrepreneurs"
 description: "A deep institutional analysis of liquidity structuring, private credit, and asset based lending solutions for high net worth entrepreneurs seeking silent, controlled leverage."
-date: "2026-03-04"
+date: "2026-02-28"
 author: "Roials Architect"
 slug: "strategic-credit-for-high-net-worth-entrepreneurs"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
@@ -148,5 +148,4 @@ If your liquidity needs require structure rather than negotiation.
 
 If you understand that credit is not a product, but a form of design.  
 
-Roials‑Capital will provide the architecture.  
-
+Roials‑Capital will provide the architecture.

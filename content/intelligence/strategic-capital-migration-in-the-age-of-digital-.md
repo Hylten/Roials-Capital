@@ -1,7 +1,7 @@
 ---
 title: "Strategic Capital Migration in the Age of Digital Sovereignty"
 description: "An institutional-grade analysis of liquidity engineering through private credit and asset based lending for global HNWI and UHNW capital structures."
-date: "2026-03-04"
+date: "2026-02-28"
 author: "Roials Architect"
 slug: "strategic-capital-migration-in-the-age-of-digital-"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
@@ -345,6 +345,3 @@ Roials-Capital provides the mechanics.
 The architecture.  
 
 The silent authority that supports sovereign capital movement in an era defined by digital and structural complexity.
-
-  
-

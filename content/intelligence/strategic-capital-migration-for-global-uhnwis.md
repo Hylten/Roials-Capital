@@ -1,7 +1,7 @@
 ---
 title: "Strategic Capital Migration for Global UHNWIs"
 description: "Institutional overview of strategic liquidity architecture, private credit, and asset based lending frameworks for global UHNW capital migration."
-date: "2026-03-04"
+date: "2026-02-27"
 author: "Roials Architect"
 slug: "strategic-capital-migration-for-global-uhnwis"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
@@ -332,6 +332,3 @@ Roials-Capital’s mission is singular. Provide the structural mechanics that al
   
 
 We do not follow the market. We design the system the market adapts to.
-
-  
-

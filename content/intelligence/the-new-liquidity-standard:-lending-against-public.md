@@ -1,7 +1,7 @@
 ---
 title: "The New Liquidity Standard: Institutional Lending Against Public Shares for $5M+ Holders"
 description: "A high‑authority analysis of the emerging liquidity standard, focusing on private credit, ABL frameworks, and public share lending for HNWI and UHNW clients seeking structural liquidity."
-date: "2026-03-04"
+date: "2026-03-09"
 author: "Roials Architect"
 slug: "the-new-liquidity-standard:-lending-against-public"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
@@ -108,7 +108,4 @@ Public share lending at the $5M threshold is the most accurate representation of
 
 It reflects the sophistication of modern wealth architecture and the need for a framework that does not compromise on control or clarity.  
 
-Roials Capital stands at the front of this structural evolution.  
-
-  
-
+Roials Capital stands at the front of this structural evolution.

@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Middle Market Credit Gap with Structural Precision"
 description: "A surgical examination of liquidity architecture, private credit, and asset based lending solutions for HNWI and UHNW investors facing the middle market credit gap."
-date: "2026-03-04"
+date: "2026-02-21"
 author: "Roials Architect"
 slug: "navigating-the-middle-market-credit-gap"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"

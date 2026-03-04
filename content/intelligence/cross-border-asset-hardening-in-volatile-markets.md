@@ -1,7 +1,7 @@
 ---
 title: "Cross-Border Asset Hardening in Volatile Markets"
 description: "A high-trust institutional analysis of cross-border liquidity structuring, private credit, and asset based lending for HNWI and UHNW portfolios."
-date: "2026-03-04"
+date: "2026-02-12"
 author: "Roials Architect"
 slug: "cross-border-asset-hardening-in-volatile-markets"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
@@ -291,4 +291,3 @@ Roials-Capital serves as the architect of that system.
 Quietly.  
 Precisely.  
 With institutional integrity.
-

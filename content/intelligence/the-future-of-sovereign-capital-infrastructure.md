@@ -187,5 +187,4 @@ They are structural tools for the sovereign individual.
 
 At Roials-Capital, we do not predict the future of capital.  
 
-We build it.  
-
+We build it.

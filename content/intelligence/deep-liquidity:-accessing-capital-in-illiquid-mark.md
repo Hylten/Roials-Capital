@@ -1,7 +1,7 @@
 ---
 title: "Deep Liquidity Architecture: Accessing Capital in Illiquid Markets"
 description: "Institutional analysis of deep liquidity mechanics and asset based lending strategies for HNWI and UHNW clients navigating illiquid markets."
-date: "2026-03-04"
+date: "2026-02-13"
 author: "Roials Architect"
 slug: "deep-liquidity:-accessing-capital-in-illiquid-mark"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"

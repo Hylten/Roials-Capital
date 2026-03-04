@@ -1,7 +1,7 @@
 ---
 title: "Legacy Hardening: The Structural Advantage"
 description: "An institutional exploration of liquidity architecture through private credit and asset based lending for HNWI and UHNW portfolios."
-date: "2026-03-04"
+date: "2026-02-19"
 author: "Roials Architect"
 slug: "legacy-hardening:-the-structural-advantage"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"

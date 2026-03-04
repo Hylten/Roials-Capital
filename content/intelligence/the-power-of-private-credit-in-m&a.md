@@ -1,7 +1,7 @@
 ---
 title: "The Power of Private Credit in Modern M&A Architecture"
 description: "A strategic examination of liquidity engineering and asset based lending in contemporary M&A environments, designed for HNWI and UHNW decision‑makers."
-date: "2026-03-04"
+date: "2026-03-10"
 author: "Roials Architect"
 slug: "the-power-of-private-credit-in-m&a"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
@@ -247,5 +247,4 @@ For principals operating at the highest tiers, liquidity must be engineered, con
 
 This is where Roials‑Capital functions.  
 
-We provide institutional grade structure with private market velocity.  
-
+We provide institutional grade structure with private market velocity.

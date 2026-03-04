@@ -1,7 +1,7 @@
 ---
 title: "The Future of Private Credit and Sovereign Wealth"
 description: "A high-authority analysis of private credit, asset based lending, and liquidity engineering for HNWI and UHNW portfolios."
-date: "2026-03-04"
+date: "2026-03-03"
 author: "Roials Architect"
 slug: "the-future-of-private-credit-and-sovereign-wealth"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
@@ -238,5 +238,4 @@ Private credit will continue to expand.
 Sovereign wealth will continue to dominate.  
 Asset based lending will remain the liquidity mechanism of choice for serious capital.  
 
-Roials-Capital stands as a structural partner for those who require institutional clarity with sovereign‑level discretion.  
-
+Roials-Capital stands as a structural partner for those who require institutional clarity with sovereign‑level discretion.

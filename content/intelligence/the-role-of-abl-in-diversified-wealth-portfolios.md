@@ -1,7 +1,7 @@
 ---
 title: "The Structural Role of ABL in Modern Diversified Wealth Portfolios"
 description: "An institutional analysis of how Asset Based Lending enhances liquidity, stability, and controlled optionality for HNWI and UHNW portfolios."
-date: "2026-03-04"
+date: "2026-03-11"
 author: "Roials Architect"
 slug: "the-role-of-abl-in-diversified-wealth-portfolios"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
@@ -214,6 +214,3 @@ For HNWI and UHNW investors, it preserves optionality, prevents forced liquidati
   
 
 Roials Capital provides ABL against private credit, crypto holdings at a minimum of 2,000,000, and public shares at a minimum of 5,000,000. This is not retail lending. It is precision engineered liquidity for advanced portfolios.
-
-  
-

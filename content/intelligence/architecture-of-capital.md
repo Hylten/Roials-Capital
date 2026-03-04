@@ -1,7 +1,7 @@
 ---
 title: "Architecture of Capital: Engineered Sovereignty"
 description: "Insights into the foundational principles of capital architecture and the operational systems that support institutional wealth stewardship."
-date: "2026-03-04"
+date: "2026-02-10"
 author: "Roials Architect"
 slug: "architecture-of-capital"
 keywords: "capital architecture, institutional stewardship, Roials Capital"

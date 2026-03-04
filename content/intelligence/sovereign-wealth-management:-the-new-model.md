@@ -1,7 +1,7 @@
 ---
 title: "Sovereign Wealth Management: The New Institutional Model for Private Capital"
 description: "A surgical examination of modern liquidity architecture, private credit, and asset based lending for HNWI and UHNW portfolios."
-date: "2026-03-04"
+date: "2026-02-26"
 author: "Roials Architect"
 slug: "sovereign-wealth-management:-the-new-model"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
@@ -335,5 +335,4 @@ It is structural.
 
 It is disciplined.  
 
-It is built for those who treat capital as architecture, not speculation.  
-
+It is built for those who treat capital as architecture, not speculation.

@@ -1,7 +1,7 @@
 ---
 title: "The Mechanics of Collateralized Liquidity: Structural Intelligence for Private Credit and ABL"
 description: "A deep institutional analysis of collateralized liquidity frameworks with emphasis on Private Credit, Asset Based Lending, and high-threshold lending structures for HNWI and UHNW clients."
-date: "2026-03-04"
+date: "2026-03-05"
 author: "Roials Architect"
 slug: "the-mechanics-of-collateralized-liquidity"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
@@ -52,4 +52,3 @@ It is fundamental.
 Roials-Capital provides the architecture.
 
 You operate the strategy.
-

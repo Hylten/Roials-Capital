@@ -1,7 +1,7 @@
 ---
 title: "Private Credit and Liquidity: The Modern Foundation"
 description: "An analysis of the structural shift in private credit and its role as a foundational pillar for institutional liquidity."
-date: "2026-03-04"
+date: "2026-02-22"
 author: "Roials Architect"
 slug: "private-credit-and-liquidity"
 keywords: "private credit, liquidity, institutional finance, Roials Capital"

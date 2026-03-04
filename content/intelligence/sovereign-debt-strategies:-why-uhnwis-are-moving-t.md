@@ -1,7 +1,7 @@
 ---
 title: "Sovereign Debt Strategies and the Flight to Crypto-Backed ABL: The New Architecture for UHNW Liquidity"
 description: "Why sovereign debt fragility is pushing UHNW individuals toward crypto-backed asset based lending, and how Roials-Capital structures institutional liquidity pathways."
-date: "2026-03-04"
+date: "2026-02-26"
 author: "Roials Architect"
 slug: "sovereign-debt-strategies:-why-uhnwis-are-moving-t"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
@@ -242,4 +242,3 @@ UHNWIs are moving toward crypto backed ABL because it provides non correlated co
 Roials-Capital stands inside this shift as a silent authority, providing institutional grade lending mechanisms built on private credit, asset based lending, and high threshold crypto and public equity collateral structures.
 
 If liquidity is the architecture that supports your next strategic move, our role is to design it with precision.
-
