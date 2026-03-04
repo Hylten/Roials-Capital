@@ -1,6 +1,6 @@
 ---
 title: "Architecture of Capital: Engineered Sovereignty"
-description: "Institutional briefing on the structural capital vacuum in North American energy, the Alberta technical regime shift, and the strategic alignment required for allocators navigating Fund III buyouts, liquidity engineering, and special mandates."
+description: "Institutional briefing on the structural capital vacuum in North American energy, the Alberta technical regime shift, and the strategic alignment required for allocators navigating Fund-III buyouts, liquidity engineering, and special mandates."
 date: "2026-03-04"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "architecture-of-capital-engineered-sovereignty"
@@ -73,7 +73,7 @@ Energy assets are not financial abstractions. They are physical systems responsi
 This filter distinguishes operators who merely hold reserves from operators capable of converting reserves into predictable cash flow streams. NAEO operates within this stewardship paradigm, which is why Roials Capital identifies them as a credible alignment partner for institutional allocators.
 
 PHASE 5: DECISION MAKING LENS FOR ALLOCATORS  
-Institutional allocators reviewing Fund III buyouts, liquidity engineering mandates, or special energy allocations benefit from a structural framework rather than thematic narratives. The following matrix provides that framework.
+Institutional allocators reviewing Fund-III buyouts, liquidity engineering mandates, or special energy allocations benefit from a structural framework rather than thematic narratives. The following matrix provides that framework.
 
 • Capital Access Profile: Does the asset class suffer from a capital drought despite technical maturity.  
 • Operational Predictability: Are the decline curves, cycle mechanics, and reservoir dynamics known with multi-cycle confidence.  

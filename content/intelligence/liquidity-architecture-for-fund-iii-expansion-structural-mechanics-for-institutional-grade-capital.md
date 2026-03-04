@@ -1,18 +1,18 @@
 ---
-title: "Liquidity Architecture for Fund III Expansion: Structural Mechanics for Institutional-Grade Capital"
+title: "Liquidity Architecture for Fund-III Expansion: Structural Mechanics for Institutional-Grade Capital"
 description: "An institutional analysis of liquidity architecture, private credit, and asset based liquidity engineering designed for HNWI and UHNW capital expansion."
 date: "2026-01-23"
 author: "Jonas Hyltén"
-slug: "liquidity-architecture-for-fund-iii-expansion-structural-mechanics-for-institutional-grade-capital"
+slug: "liquidity-architecture-for-Fund-III-expansion-structural-mechanics-for-institutional-grade-capital"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
 ---
 
-# Liquidity Architecture for Fund III Expansion
+# Liquidity Architecture for Fund-III Expansion
 
 Roials Capital operates in a domain where liquidity is not a convenience.  
 Liquidity is the instrument that sets the rhythm for capital velocity, credit formation, and controlled expansion.  
 
-Fund III was designed with a singular purpose.  
+Fund-III was designed with a singular purpose.  
 To build a liquidity architecture that absorbs volatility, allocates precision, and strengthens the balance sheet of high conviction participants.  
 
 This paper outlines the structural mechanics that guide our liquidity engineering framework across private credit, asset based liquidity engineering, public share liquidity engineering, and institutional crypto credit.  
@@ -20,10 +20,10 @@ This paper outlines the structural mechanics that guide our liquidity engineerin
 It is not a pitch.  
 It is an architectural brief.
 
-## The Structural Premise of Fund III
+## The Structural Premise of Fund-III
 
 Every fund reflects a worldview.  
-Fund III is built on the assumption that liquidity scarcity will define the next cycle more than the pursuit of yield.  
+Fund-III is built on the assumption that liquidity scarcity will define the next cycle more than the pursuit of yield.  
 
 When liquidity becomes a premium asset, the entities capable of manufacturing it, stabilizing it, and deploying it conservatively will dictate the terms of market participation.  
 
@@ -33,7 +33,7 @@ Private credit has entered a maturation phase.
 Asset based liquidity engineering has moved from a specialist tool into a core allocation.  
 And the HNWI and UHNW segment demands capital solutions that mirror institutional precision rather than retail flexibility.  
 
-The architecture of Fund III mirrors these conditions.  
+The architecture of Fund-III mirrors these conditions.  
 We lend against real positions, real collateral, and real credit events.  
 
 ## Liquidity Architecture Defined
@@ -54,7 +54,7 @@ Our framework exists to institutionalize that coherence.
 
 ## Private Credit as the Anchor Asset
 
-Private credit serves as the anchor within Fund III because it provides stability without sacrificing acceleration.  
+Private credit serves as the anchor within Fund-III because it provides stability without sacrificing acceleration.  
 
 The underlying logic is simple.  
 Credit that is backed by real assets or predictable cash flow compresses uncertainty.  
@@ -103,7 +103,7 @@ It allows us to maintain institutional level underwriting while avoiding the vol
 The objective is not speculative leverage.  
 The objective is controlled liquidity extraction from digital collateral that behaves predictably under professional custody.  
 
-Fund III integrates crypto liquidity engineering only where the digital asset functions like an institutional asset.  
+Fund-III integrates crypto liquidity engineering only where the digital asset functions like an institutional asset.  
 Liquidity is manufactured through conservative liquidity facility to value, multi-tier collateral monitoring, and limited duration structures that protect the fund.  
 
 Crypto is not the frontier.  
@@ -111,7 +111,7 @@ Crypto is simply another collateral class when treated with correct architectura
 
 ## Public Share liquidity engineering and the 5,000,000 Threshold
 
-Public share liquidity engineering in Fund III begins at 5,000,000.  
+Public share liquidity engineering in Fund-III begins at 5,000,000.  
 This threshold is not arbitrary.  
 It is the point where the quality of equity holdings aligns with our liquidity architecture.  
 
@@ -138,7 +138,7 @@ Our mandate is to provide that predictability.
 Not through marketing language.  
 Through structural mechanics that have zero tolerance for instability.  
 
-The liquidity architecture of Fund III is engineered around the psychology of the sophisticated participant.  
+The liquidity architecture of Fund-III is engineered around the psychology of the sophisticated participant.  
 
 Characteristics include:  
 • Aversion to administrative friction.  
@@ -160,7 +160,7 @@ Participants interact with the structure, not with noise.
 The structure reflects calm confidence.  
 Calm confidence signals institutional control.  
 
-Fund III follows this logic in every component.  
+Fund-III follows this logic in every component.  
 
 From underwriting.  
 To collateral modeling.  
@@ -176,7 +176,7 @@ Liquidity with over engineered risk protocols becomes friction.
 
 Roials Capital positions itself between these extremes.  
 
-Risk engineering in Fund III operates with three pillars.  
+Risk engineering in Fund-III operates with three pillars.  
 
 1. Structural integrity of collateral classes.  
 2. Behavioral modeling of asset volatility under stress.  
@@ -192,7 +192,7 @@ This is the institutional standard expected at the upper tier of private credit 
 Velocity is only beneficial when it does not degrade collateral.  
 Acceleration without erosion is the core challenge of modern liquidity structuring.  
 
-Fund III addresses this through a controlled velocity model.  
+Fund-III addresses this through a controlled velocity model.  
 
 We do not maximize liquidity facility to value.  
 We maximize sustainability of liquidity extraction.  
@@ -204,7 +204,7 @@ Our architecture prevents that misalignment before the liquidity facility is eve
 
 ## Multi Layer Liquidity Construction
 
-Fund III’s architecture uses a multi layer approach to create stability.  
+Fund-III’s architecture uses a multi layer approach to create stability.  
 
 Layer One is collateral structure.  
 Layer Two is duration matching.  
@@ -216,12 +216,12 @@ The result is a liquidity engine that operates with institutional reliability.
 This creates a rare environment where liquidity is not reactive but proactive.  
 Participants can move knowing the architecture anticipates what the market does not.  
 
-## The Expansion Logic of Fund III
+## The Expansion Logic of Fund-III
 
 Expansion does not occur by increasing risk.  
 Expansion occurs by increasing precision.  
 
-Fund III’s expansion is built on the cumulative effect of disciplined liquidity engineering across private credit, ABL, crypto liquidity engineering, and public share liquidity engineering.  
+Fund-III’s expansion is built on the cumulative effect of disciplined liquidity engineering across private credit, ABL, crypto liquidity engineering, and public share liquidity engineering.  
 
 Each vertical strengthens the fund.  
 Each reinforces the liquidity framework.  
@@ -235,7 +235,7 @@ It is engineered.
 Most credit failures are design failures.  
 Most liquidity crises begin with structure rather than market events.  
 
-Fund III avoids these pitfalls through architectural rigor.  
+Fund-III avoids these pitfalls through architectural rigor.  
 This rigor is evident in threshold sizing.  
 It is evident in collateral selection.  
 It is evident in the stability-first logic that guides every underwriting decision.  
@@ -243,14 +243,14 @@ It is evident in the stability-first logic that guides every underwriting decisi
 The architecture is the defense.  
 The architecture is also the advantage.  
 
-It is the reason Fund III can expand without diluting quality.  
+It is the reason Fund-III can expand without diluting quality.  
 
 ## Conclusion
 
 Liquidity is not simply provided at Roials Capital.  
 It is constructed with institutional discipline.  
 
-Fund III represents the next evolution of that discipline.  
+Fund-III represents the next evolution of that discipline.  
 A liquidity architecture built for HNWI and UHNW participants who require stability, precision, and structural authority.  
 
 If your capital framework requires institutional liquidity with architectural clarity, request confidential audit.

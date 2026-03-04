@@ -8,9 +8,9 @@ keywords: "private credit, ABL, liquidity"
 ---
 
 # The Sovereign Balance Sheet  
-Engineering for Fund III Dynamics
+Engineering for Fund-III Dynamics
 
-The principal mandate for any institution preparing to enter Fund III terrain is simple.
+The principal mandate for any institution preparing to enter Fund-III terrain is simple.
 
 Engineer a balance sheet that commands respect before negotiation begins.
 
@@ -35,11 +35,11 @@ They accelerate cycles when markets slow.
 
 HNWI and UHNW families who understand this doctrine shift from reactive positions to principal positions.
 
-This shift is the foundation of Fund III readiness.
+This shift is the foundation of Fund-III readiness.
 
 ## Structural Alignment: The First Gate
 
-Fund III capital does not tolerate disorder.
+Fund-III capital does not tolerate disorder.
 
 The structure must be legible.
 
@@ -118,7 +118,7 @@ Risk must be quantified without sentiment.
 
 The institution must never transfer authority to counterparties unnecessarily.
 
-Fund III environments demand governance that does not bend under turbulence.
+Fund-III environments demand governance that does not bend under turbulence.
 
 This is stewardship.
 
@@ -154,21 +154,21 @@ Participants wait.
 
 Principals move.
 
-## Fund III Dynamics
+## Fund-III Dynamics
 
-Fund III operates under different physics than Fund I or Fund II.
+Fund-III operates under different physics than Fund I or Fund II.
 
 Fund I requires demonstration.
 
 Fund II requires validation.
 
-Fund III requires authority.
+Fund-III requires authority.
 
 This authority is not declared verbally.
 
 It is declared structurally.
 
-Fund III entities have:
+Fund-III entities have:
 
 - Cross collateral frameworks  
 - Multi vehicle liquidity routing  
@@ -180,7 +180,7 @@ This is not over engineering.
 
 This is protection.
 
-Fund III dynamics punish fragility.
+Fund-III dynamics punish fragility.
 
 They reward engineered sovereignty.
 
@@ -212,7 +212,7 @@ This is observed behavior.
 
 The Roials framework is built on three pillars.
 
-Each pillar supports Fund III scale.
+Each pillar supports Fund-III scale.
 
 Each pillar removes fragility.
 
@@ -265,7 +265,7 @@ Wealth without structure is chaos.
 
 Wealth with structure becomes enterprise.
 
-Fund III is the point where families cross into enterprise territory.
+Fund-III is the point where families cross into enterprise territory.
 
 The distinction is not cosmetic.
 
@@ -307,7 +307,7 @@ Liquidity is an instrument.
 
 When deployed with precision it becomes the force multiplier that accelerates asset cycles.
 
-Fund III dynamics require liquidity in three states:
+Fund-III dynamics require liquidity in three states:
 
 Operational  
 Countercyclical  
@@ -335,11 +335,11 @@ This is the baseline.
 
 Not the advanced tier.
 
-Fund III entities internalize this state permanently.
+Fund-III entities internalize this state permanently.
 
 ## Multi Cycle Governance
 
-Fund III is not a single cycle strategy.
+Fund-III is not a single cycle strategy.
 
 It is a perpetual machine.
 
@@ -376,7 +376,7 @@ This is operational truth.
 
 ## A Sovereign Balance Sheet Is Not Optional
 
-Fund III is unforgiving.
+Fund-III is unforgiving.
 
 It does not entertain structural fragility.  
 It does not reward speed without clarity.  
@@ -400,7 +400,7 @@ It is the structural alignment that creates authority in negotiation.
 It is the asset hardening discipline that protects families for generations.  
 It is the execution velocity that captures opportunities others never see.  
 
-Fund III is not granted.
+Fund-III is not granted.
 
 It is earned through structure.
 

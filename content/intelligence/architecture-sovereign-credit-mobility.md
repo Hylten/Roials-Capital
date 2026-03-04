@@ -1,6 +1,6 @@
 ---
 title: "The Architecture Of Sovereign Credit Mobility"
-description: "A technical institutional briefing on the structural mechanics of sovereign credit mobility, capital stack engineering, and the functional alignment between buyout regimes, liquidity engineering, and cross border regulatory frameworks shaping Fund III+ capital formation."
+description: "A technical institutional briefing on the structural mechanics of sovereign credit mobility, capital stack engineering, and the functional alignment between buyout regimes, liquidity engineering, and cross border regulatory frameworks shaping Fund-III+ capital formation."
 date: "2026-03-04"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "architecture-sovereign-credit-mobility"
@@ -43,7 +43,7 @@ Sovereign liquidity becomes productive only when it enters capital stacks engine
 - Liquidity engineering instruments that allow capital rotation without impairment.  
 - Intercreditor agreements that stabilize the entire structure.
 
-Transmission efficiency is the determinant of mobility velocity. Institutions allocate more aggressively when the path from sovereign liquidity to private asset exposure is engineered with clarity. Capital stacks for Fund III+ buyout platforms must therefore incorporate explicit pathways for injection, rotation, refinancing, and exit under multiple macro regimes. This avoids dependency on narrow exit windows and creates continuity for allocators.
+Transmission efficiency is the determinant of mobility velocity. Institutions allocate more aggressively when the path from sovereign liquidity to private asset exposure is engineered with clarity. Capital stacks for Fund-III+ buyout platforms must therefore incorporate explicit pathways for injection, rotation, refinancing, and exit under multiple macro regimes. This avoids dependency on narrow exit windows and creates continuity for allocators.
 
 PHASE 3: THE PARTNERSHIP MODEL
 
@@ -51,7 +51,7 @@ Roials Capital operates within the institutional archetype of strategic navigati
 
 The model functions across three channels.
 
-1. Kapitalanskaffning for Fund III+.  
+1. Kapitalanskaffning for Fund-III+.  
 This is the principal focus at 80 percent weighting. Sovereign credit mobility becomes the enabling mechanism for buyout platforms and add on strategies where operational performance, margin expansion, and cross border scalability align with institutional mandates. Roials Capital structures the introduction pathways, calibrates the capital stack architecture, and ensures regulatory conformity across MiFID II and AIFMD II perimeters where required.
 
 2. Liquidity Engineering and Asset Based Lending.  
@@ -92,6 +92,6 @@ The key evaluations include:
 - Sovereign credit transmission viability.  
 - Stewardship alignment with long horizon mandates.
 
-Roials Capital functions as the strategic partner that structures these pathways, designs the mobility architecture, and facilitates alignment between sovereign anchored liquidity and institutional grade real asset exposure. For allocators navigating buyouts, add ons, or hard asset environments through Fund III+, the next step is a confidential portfolio calibration to understand how sovereign credit mobility can be engineered across your capital map.
+Roials Capital functions as the strategic partner that structures these pathways, designs the mobility architecture, and facilitates alignment between sovereign anchored liquidity and institutional grade real asset exposure. For allocators navigating buyouts, add ons, or hard asset environments through Fund-III+, the next step is a confidential portfolio calibration to understand how sovereign credit mobility can be engineered across your capital map.
 
 [END OF BRIEFING]

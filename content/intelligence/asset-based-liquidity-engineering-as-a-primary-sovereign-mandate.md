@@ -189,7 +189,7 @@ The sovereign principal grows most when markets contract.
 
 ## The Mandate for Fund Managers
 
-Fund III+ managers face three critical pressures.
+Fund-III+ managers face three critical pressures.
 
 1. Institutional reporting.
 2. Redemption cycles.

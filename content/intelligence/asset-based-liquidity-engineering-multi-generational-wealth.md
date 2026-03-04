@@ -50,7 +50,7 @@ Roials Capital functions as a strategic navigator within this ecosystem. The fir
 
 In North American energy, this takes form through the partnership with NAEO, a fully integrated heavy oil operator with demonstrated thermal recovery stability across SAGD, CSS, and blended extraction environments. NAEO’s operational integrity and predictable extraction physics create a collateral base suited for institutional liquidity systems. Roials Capital’s role is limited to strategic alignment, data framing, and stakeholder navigation.
 
-Across buyout platforms, the firm focuses on capital raising for Fund III and beyond, where asset heavy add ons require coordinated liquidity engineering to increase platform resilience. The firm’s Kapitalanskaffning discipline structures institutional capital flows in a manner that minimizes reliance on external leverage during expansion cycles.
+Across buyout platforms, the firm focuses on capital raising for Fund-III and beyond, where asset heavy add ons require coordinated liquidity engineering to increase platform resilience. The firm’s Kapitalanskaffning discipline structures institutional capital flows in a manner that minimizes reliance on external leverage during expansion cycles.
 
 For special mandates, including NAEOC’s 50M - 250M acquisition perimeter and European MiFID II regulated asset consolidations, Roials Capital maintains introducer neutrality. The objective is to create clarity in structural design, allowing the allocator to engage on a fully informed basis.
 

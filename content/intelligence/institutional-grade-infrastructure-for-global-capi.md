@@ -37,7 +37,7 @@ These are survival requirements for global allocators that carry multi generatio
 The allocator is not chasing outcomes.  
 The allocator is neutralizing threats.  
 
-Fund III and higher operate on one doctrine.  
+Fund-III and higher operate on one doctrine.  
 Assets must be hardened before capital enters.  
 Infrastructure must be proven before leverage is issued.  
 Execution must show covenant stewardship before scale is granted.
@@ -239,7 +239,7 @@ The firm is positioned within a narrow strategic band:
 
 Institutional asset hardening for global private credit and liquidity orchestration.
 
-Our protocols are designed for HNWI, UHNW, and Fund III plus allocators that require:
+Our protocols are designed for HNWI, UHNW, and Fund-III plus allocators that require:
 
 • Clean counterparty structures  
 • Hardened collateral  
