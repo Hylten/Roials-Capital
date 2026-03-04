@@ -22,7 +22,6 @@ const ensureDir = (dirPath) => {
 async function generateSEO() {
   console.log('Generating SEO Static HTML for Intelligence Blog...');
 
-  // Wait until Vite has finished building the dist folder
   if (!fs.existsSync(DIST_DIR)) {
     console.error('dist directory not found. Please run npm run build first.');
     process.exit(1);
@@ -35,13 +34,11 @@ async function generateSEO() {
   }
 
   const baseHtml = fs.readFileSync(indexHtmlPath, 'utf8');
-
-  // Ensure intelligence directory exists inside dist
   ensureDir(INTELLIGENCE_DIST_DIR);
 
   const sharedButtons = `
-        <div style="display: flex; justify-content: center; margin-top: 100px; padding-bottom: 60px; width: 100%;">
-          <a href="/" style="padding: 10px 24px; background: rgba(10,10,10,0.8); backdrop-filter: blur(8px); border: 1px solid rgba(255,255,255,0.1); color: #C5A059; text-decoration: none; font-size: 10px; letter-spacing: 3px; text-transform: uppercase; box-shadow: 0 10px 30px rgba(0,0,0,0.5); font-family: sans-serif; font-weight: 500;">
+        <div style="display: flex; justify-content: center; margin-top: 100px; padding-bottom: 150px; width: 100%; background: transparent;">
+          <a href="/" style="padding: 16px 36px; background: rgba(10,10,10,0.8); backdrop-filter: blur(8px); border: 1px solid rgba(255,255,255,0.1); color: #C5A059 !important; text-decoration: none !important; font-size: 12px; letter-spacing: 4px; text-transform: uppercase; font-family: sans-serif; font-weight: 600; display: inline-block; border-radius: 2px;">
             Return Home
           </a>
         </div>
@@ -52,16 +49,6 @@ async function generateSEO() {
         </a>
     `;
 
-  // 1. Generate Index Page (/intelligence/index.html)
-  const indexHtml = baseHtml
-    .replace(/<title>.*?<\/title>/, '<title>Intelligence | Roials Capital</title>')
-    .replace(/<meta name="description" content=".*?">/, '<meta name="description" content="Insights and perspectives on private credit, middle-market lending, and macroeconomics from Roials Capital.">')
-    .replace('<div id="root"></div>', `<div id="root">${sharedButtons}</div>`);
-
-  fs.writeFileSync(path.join(INTELLIGENCE_DIST_DIR, 'index.html'), indexHtml);
-  console.log('✅ Generated /dist/intelligence/index.html');
-
-  // 2. Generate Article Pages
   if (!fs.existsSync(CONTENT_DIR)) {
     console.log('No content directory found. Skipping articles.');
     return;
@@ -69,22 +56,72 @@ async function generateSEO() {
 
   const files = fs.readdirSync(CONTENT_DIR).filter(file => file.endsWith('.md'));
 
+  // 1. Generate Index Page (/intelligence/index.html)
+  let listHtml = '<style>.arch-item a { transition: opacity 0.3s; } .arch-item a:hover { opacity: 0.7; }</style>';
+  listHtml += '<div style="background: #000000 !important; min-height: 100vh; padding: 180px 24px; color: #E5E7EB; display: flex; flex-direction: column; align-items: center; overflow-x: hidden;">';
+  listHtml += '<h1 style="font-size: clamp(3.5rem, 10vw, 8rem); color: #C5A059 !important; margin-bottom: 80px; font-weight: 400; font-family: serif; letter-spacing: -0.05em; line-height: 1; text-align: center;">Intelligence <span style="font-style: italic; color: #444; font-weight: 300;">Archive</span></h1>';
+
   for (const file of files) {
     const filePath = path.join(CONTENT_DIR, file);
     const rawContent = fs.readFileSync(filePath, 'utf8');
     const { data } = matter(rawContent);
+    const slug = data.slug || file.replace('.md', '');
+    const title = data.title || 'Intelligence Report';
+    const description = data.description || '';
+    const date = data.date ? new Date(data.date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }) : '';
+
+    listHtml += `
+        <article class="arch-item" style="margin-bottom: 400px; width: 100%; max-width: 1000px; display: flex; flex-direction: column; align-items: center; text-align: center;">
+            <div style="font-size: 14px; color: #666; text-transform: uppercase; letter-spacing: 5px; margin-bottom: 60px; font-weight: 700;">${date}</div>
+            <a href="/intelligence/${slug}/" style="text-decoration: none !important; color: #E5E7EB !important; display: block; width: 100%;">
+                <h2 style="font-size: clamp(2.5rem, 6vw, 5rem); color: #C5A059 !important; margin-bottom: 60px; font-weight: 400; font-family: serif; line-height: 1.1; text-align: center;">${title}</h2>
+                <p style="font-size: 1.5rem; color: #9CA3AF !important; line-height: 1.8; font-weight: 300; margin-bottom: 80px; max-width: 700px; margin-left: auto; margin-right: auto; text-align: center;">${description}</p>
+                <div style="display: flex; flex-direction: column; align-items: center; gap: 48px;">
+                    <span style="color: #C5A059; font-size: 12px; text-transform: uppercase; letter-spacing: 6px; font-weight: 700;">Read Analysis</span>
+                    <div style="width: 48px; height: 1px; background: #C5A059;"></div>
+                </div>
+            </a>
+        </article>`;
+  }
+  listHtml += '</div>';
+
+  const indexHtml = baseHtml
+    .replace(/<title>.*?<\/title>/, '<title>Intelligence | Roials Capital</title>')
+    .replace(/<meta name="description" content=".*?">/, '<meta name="description" content="Insights and perspectives on private credit, middle-market lending, and macroeconomics from Roials Capital.">')
+    .replace('<div id="root"></div>', `<div id="root">${listHtml}${sharedButtons}</div>`);
+
+  fs.writeFileSync(path.join(INTELLIGENCE_DIST_DIR, 'index.html'), indexHtml);
+  console.log('✅ Generated /dist/intelligence/index.html');
+
+  // 2. Generate Article Pages
+  for (const file of files) {
+    const filePath = path.join(CONTENT_DIR, file);
+    const rawContent = fs.readFileSync(filePath, 'utf8');
+    const { data, content } = matter(rawContent);
 
     const slug = data.slug || file.replace('.md', '');
     const title = data.title || 'Intelligence Article';
     const description = data.description || '';
+    const date = data.date ? new Date(data.date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }) : '';
 
     const articleDir = path.join(INTELLIGENCE_DIST_DIR, slug);
     ensureDir(articleDir);
 
+    const contentHtml = `<div style="background: #000000; min-height: 100vh; padding: 220px 20px; color: #E5E7EB; font-family: sans-serif;">
+        <div style="max-width: 800px; margin: 0 auto; display: flex; flex-direction: column; align-items: center;">
+            <div style="font-size: 14px; color: #666; text-transform: uppercase; letter-spacing: 6px; margin-bottom: 32px; font-weight: 800;">Intelligence Report</div>
+            <h1 style="font-family: serif; font-size: clamp(2.5rem, 6vw, 4.5rem); color: #C5A059; margin-bottom: 60px; line-height: 1.1; text-align: center;">${title}</h1>
+            <div style="font-size: 14px; color: #666; text-transform: uppercase; letter-spacing: 3px; margin-bottom: 80px; border-bottom: 1px solid #1a1a1a; padding-bottom: 48px; width: 100%; text-align: center;">Published ${date} • Roials Capital Strategy</div>
+            <div style="line-height: 2.1; font-size: 1.35rem; color: #9CA3AF !important; font-weight: 300; width: 100%; text-align: left;">
+                ${content.split('\n').map(p => p.trim() ? `<p style="margin-bottom: 48px;">${p}</p>` : '').join('')}
+            </div>
+        </div>
+    </div>`;
+
     const articleHtml = baseHtml
       .replace(/<title>.*?<\/title>/, `<title>${title} | Roials Capital</title>`)
       .replace(/<meta name="description" content=".*?">/, `<meta name="description" content="${description}">`)
-      .replace('<div id="root"></div>', `<div id="root">${sharedButtons}</div>`);
+      .replace('<div id="root"></div>', `<div id="root">${contentHtml}${sharedButtons}</div>`);
 
     fs.writeFileSync(path.join(articleDir, 'index.html'), articleHtml);
     console.log(`✅ Generated /dist/intelligence/${slug}/index.html`);

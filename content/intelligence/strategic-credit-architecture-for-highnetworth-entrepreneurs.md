@@ -1,7 +1,7 @@
 ---
 title: "Strategic Credit Architecture for High‑Net‑Worth Entrepreneurs"
 description: "A deep institutional analysis of liquidity structuring, private credit, and asset based liquidity engineering solutions for high net worth entrepreneurs seeking silent, controlled leverage."
-date: "2026-01-30"
+date: "2026-01-29"
 author: "Jonas Hyltén"
 slug: "strategic-credit-architecture-for-highnetworth-entrepreneurs"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
