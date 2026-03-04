@@ -27,8 +27,6 @@ We provide public share lending with a minimum threshold of 5,000,000.
 
 We operate quietly, with silent authority. We design the architecture that governs the movement of capital for HNWI and UHNW individuals who require precision and discretion.  
 
-
-
 ## The Sovereign Balance Sheet: Why It Matters
 
 A sovereign balance sheet is the private equivalent of a national financial structure.  
@@ -47,8 +45,6 @@ It ensures that the client is never forced to liquidate an appreciating asset to
 
 It ensures that credit markets become tools instead of hazards.  
 
-
-
 ## The Three-Pillar Framework: Structure, Liquidity, Continuity
 
 We apply a three pillar framework to every sovereign balance sheet we design.
@@ -60,8 +56,6 @@ The second pillar is Liquidity.
 The third pillar is Continuity.  
 
 This framework allows us to treat wealth as a dynamic machine instead of a static inventory.  
-
-
 
 ### Pillar One: Structure
 
@@ -82,8 +76,6 @@ Crypto lending allows us to mobilize digital wealth without forcing conversion e
 Public share lending allows us to create liquidity while maintaining exposure to market movements.  
 
 Each instrument behaves differently on a balance sheet. Our work is to determine the exact configuration that preserves autonomy while expanding liquidity.  
-
-
 
 ### Pillar Two: Liquidity
 
@@ -115,8 +107,6 @@ Liquidity allows the client to capitalize on dislocations.
 
 Liquidity allows the client to move like an institution instead of reacting like a retail participant.  
 
-
-
 ### Pillar Three: Continuity
 
 Continuity is the long arc of control. It ensures that the balance sheet behaves predictably across market cycles.  
@@ -132,8 +122,6 @@ Continuity is also succession.
 A sovereign balance sheet does not depend on a single operator. It must behave autonomously. It must function as a self-governing system that maintains control, liquidity, and optionality even as personal circumstances evolve.  
 
 The architecture is designed to be intergenerational.  
-
-
 
 ## Asset Based Lending as Architectural Foundation
 
@@ -152,8 +140,6 @@ ABL is the foundation because it creates predictability.
 ABL is secured by real assets, not sentiment. It provides stability during volatile cycles.  
 
 For clients operating at HNWI and UHNW scale, stability is sovereignty.  
-
-
 
 ## Private Credit as the Yield Layer
 
@@ -175,8 +161,6 @@ Liquidity becomes opportunity.
 
 Opportunity becomes structural advantage.  
 
-
-
 ## Crypto Lending for Digital Sovereigns
 
 Crypto has become a large component of modern UHNW portfolios. The challenge is volatility, custody, and extraction.  
@@ -191,8 +175,6 @@ This threshold allows us to provide institutional counterparties and stable coll
 
 Crypto becomes a component of the balance sheet like any other asset. Not exotic. Not fragile. Controlled.  
 
-
-
 ## Public Share Lending for Scale
 
 Public share lending provides the same flexibility institutions have used for decades to maintain exposure while extracting liquidity.  
@@ -204,8 +186,6 @@ This ensures that the structure is treated as an institutional facility.
 Public share lending prevents unnecessary liquidation and allows capital to be redeployed with surgical precision.  
 
 It is a quiet instrument. It moves in the background. It preserves market exposure while expanding operational capability.  
-
-
 
 ## The Balance Sheet as a Strategic Weapon
 
@@ -227,8 +207,6 @@ It allows clients to:
 
 A portfolio creates wealth. A sovereign balance sheet governs it.  
 
-
-
 ## Sovereign Design Workflow
 
 We follow a defined sequence when engineering a sovereign balance sheet.
@@ -245,8 +223,6 @@ Then we finalize the covenant design and operational triggers.
 
 Each phase is engineered with silence, precision, and sovereign intent.  
 
-
-
 ## Silent Authority: The Roials Capital Position
 
 We do not market. We do not chase.  
@@ -262,8 +238,6 @@ The structures we create are designed for individuals who operate at scale. They
 Our lending capabilities against private credit, asset based collateral, crypto, and public shares are expressions of that architecture.  
 
 Not products. Not services. Structural mechanics.  
-
-
 
 ## Designing the Balance Sheet of a Private Sovereign
 
@@ -294,8 +268,6 @@ We treat assets as tools.
 We treat credit as architecture.  
 
 We treat the client’s capital as a sovereign system that must be respected, protected, and optimized.  
-
-
 
 ## The Next Step
 

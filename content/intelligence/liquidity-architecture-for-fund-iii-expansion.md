@@ -20,8 +20,6 @@ This paper outlines the structural mechanics that guide our lending framework ac
 It is not a pitch.  
 It is an architectural brief.
 
-
-
 ## The Structural Premise of Fund III
 
 Every fund reflects a worldview.  
@@ -38,8 +36,6 @@ And the HNWI and UHNW segment demands capital solutions that mirror institutiona
 The architecture of Fund III mirrors these conditions.  
 We lend against real positions, real collateral, and real credit events.  
 
-
-
 ## Liquidity Architecture Defined
 
 Liquidity architecture is the discipline of creating predictable liquidity outcomes from inherently unpredictable markets.  
@@ -55,8 +51,6 @@ The architecture of liquidity at Roials Capital is shaped by three principles.
 
 Markets reward structures that remain coherent under stress.  
 Our framework exists to institutionalize that coherence.  
-
-
 
 ## Private Credit as the Anchor Asset
 
@@ -76,8 +70,6 @@ Our lending against private credit positions focuses on:
 This allows us to structure liquidity in a manner that remains uncorrelated with retail credit cycles.  
 
 It also ensures that the participant, the asset, and the fund remain aligned under all macro conditions.  
-
-
 
 ## Asset Based Lending as a Precision Instrument
 
@@ -100,8 +92,6 @@ What matters is the asset’s precision under valuation stress.
 
 This is the institutional threshold that defines our approach.  
 
-
-
 ## Crypto Lending at Institutional Scale
 
 Crypto lending is not a retail activity at Roials Capital.  
@@ -118,8 +108,6 @@ Liquidity is manufactured through conservative loan to value, multi-tier collate
 
 Crypto is not the frontier.  
 Crypto is simply another collateral class when treated with correct architectural discipline.  
-
-
 
 ## Public Share Lending and the 5,000,000 Threshold
 
@@ -141,8 +129,6 @@ The loan can be shaped with surgical clarity.
 
 This allows us to maintain the silent authority that defines the Roials Capital risk posture.  
 
-
-
 ## The HNWI and UHNW Liquidity Mandate
 
 HNWI and UHNW participants require more than access to liquidity.  
@@ -162,8 +148,6 @@ Characteristics include:
 
 The result is a lending environment where the participant does not negotiate with the architecture.  
 The architecture is already optimized for their conditions.  
-
-
 
 ## Silent Authority and the F Status Delta
 
@@ -185,8 +169,6 @@ To liquidity distribution.
 The architecture communicates the authority.  
 Nothing else needs to.  
 
-
-
 ## Risk Engineering as a Foundation
 
 Liquidity without risk engineering is disorder.  
@@ -205,8 +187,6 @@ The participant experiences stability even when the underlying market does not.
 
 This is the institutional standard expected at the upper tier of private credit and ABL.  
 
-
-
 ## Designing Velocity Without Compromise
 
 Velocity is only beneficial when it does not degrade collateral.  
@@ -222,8 +202,6 @@ It also requires an understanding that most liquidity failures occur when veloci
 
 Our architecture prevents that misalignment before the loan is ever issued.  
 
-
-
 ## Multi Layer Liquidity Construction
 
 Fund III’s architecture uses a multi layer approach to create stability.  
@@ -237,8 +215,6 @@ The result is a liquidity engine that operates with institutional reliability.
 
 This creates a rare environment where liquidity is not reactive but proactive.  
 Participants can move knowing the architecture anticipates what the market does not.  
-
-
 
 ## The Expansion Logic of Fund III
 
@@ -254,8 +230,6 @@ Each enhances the silent authority that defines our position in the market.
 This expansion is not marketed.  
 It is engineered.  
 
-
-
 ## Why Architecture Determines Outcomes
 
 Most credit failures are design failures.  
@@ -270,8 +244,6 @@ The architecture is the defense.
 The architecture is also the advantage.  
 
 It is the reason Fund III can expand without diluting quality.  
-
-
 
 ## Conclusion
 

@@ -23,7 +23,6 @@ We do not speculate.
 We do not sell.  
 We design liquidity.
 
-
   
 ## The Reorientation of Global Capital
 
@@ -44,7 +43,6 @@ HNWI and UHNW individuals are increasingly structuring themselves to mirror thes
 
 The objective is not aggressive growth.  
 The objective is controlled liquidity.
-
 
   
 ## Why Private Credit Became the Institutional Standard
@@ -70,7 +68,6 @@ For HNWI and UHNW decision-makers, private credit supports three outcomes:
 
 Roials-Capital aligns with these outcomes by lending against private credit positions themselves, as well as broader classes of asset‑based collateral.
 
-
   
 ## The Rise of Asset Based Lending as a Liquidity Engine
 
@@ -95,7 +92,6 @@ There is no mass‑market language.
 
 The framework is engineered for individuals who operate at scale.
 
-
   
 ## Sovereign Wealth as the Prototype for Modern Private Capital
 
@@ -118,7 +114,6 @@ This architecture is increasingly replicated by UHNW individuals, who understand
 
 The future belongs to the entities that design capital, not the entities that store it.
 
-
   
 ## The New Liquidity Sovereignty
 
@@ -137,7 +132,6 @@ We design lending frameworks that align with how sovereign funds deploy, secure,
 
 The aim is to eliminate friction and preserve strategic optionality.
 
-
   
 ## The Structural Shift in Wealth Architecture
 
@@ -153,7 +147,6 @@ Asset based lending transforms idle positions into functional liquidity.
 Sovereign wealth strategies provide the long horizon.  
 
 This triad forms the foundation of modern high‑net‑worth capital.
-
 
   
 ## Collateral as a Strategic Asset
@@ -176,7 +169,6 @@ They are strategic filters.
 
 Only portfolios with meaningful weight create the leverage efficiency required for sovereign‑grade liquidity.  
 
-
   
 ## Why the Next Era Belongs to Silent Institutions
 
@@ -194,7 +186,6 @@ We design the systems.
 We supply the collateral logic.  
 We maintain silent authority.  
 
-
   
 ## The Strategic Implications for HNWI and UHNW Individuals
 
@@ -209,7 +200,6 @@ Sovereign wealth models are not unique to nations.
 They are replicable at the private level when engineered correctly.  
 
 Roials‑Capital provides the mechanics for this engineering.  
-
 
   
 ## Building a Future‑Proof Liquidity Program
@@ -226,7 +216,6 @@ Sovereign wealth methodologies will serve as the blueprint.
 
 Roials‑Capital provides the architecture.  
 
-
   
 ## The Road Ahead
 
@@ -242,7 +231,6 @@ Not public.
 Not speculative.  
 Built for those who manage real weight.  
 
-
   
 ## Conclusion
 
@@ -252,4 +240,3 @@ Asset based lending will remain the liquidity mechanism of choice for serious ca
 
 Roials-Capital stands as a structural partner for those who require institutional clarity with sovereign‑level discretion.  
 
-Request confidential audit.

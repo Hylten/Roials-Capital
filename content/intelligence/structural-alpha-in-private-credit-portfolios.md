@@ -17,8 +17,6 @@ It is the product of design, governance, and liquidity architecture that is exec
 
 At Roials-Capital, structural alpha emerges from the way collateral is framed, the way risk paths are sealed, and the way private credit exposures are transformed into predictable liquidity engines for HNWI and UHNW clients.
 
-
-
 ## The Shift Toward Engineered Returns
 
 Private credit has matured into a core allocation for sophisticated capital.  
@@ -33,8 +31,6 @@ In public markets, alpha is hunted.
 
 In private credit, alpha is designed.  
 
-
-
 ## Structural Alpha Defined
 
 Structural alpha is the incremental return generated through architecture, not speculation.  
@@ -44,8 +40,6 @@ It arises from how capital is sequenced, how collateral is governed, how covenan
 It is not dependent on market movements.  
 
 It is dependent on structural mechanics.
-
-
 
 ## The Roials-Capital Framework
 
@@ -66,8 +60,6 @@ We define the structural environment.
 
 The client receives clean liquidity.  
 
-
-
 ## Why Structural Alpha Is Now a Priority
 
 The modern wealth environment is defined by three forces.  
@@ -81,8 +73,6 @@ Three, the evolution of digital and nontraditional collateral.
 In this landscape, passive allocation is insufficient.  
 
 HNWI and UHNW portfolios require architecture that can withstand volatility, regulatory adjustments, and liquidity shocks.  
-
-
 
 ## Private Credit as a Structural Domain
 
@@ -104,8 +94,6 @@ Two, covenant enforcement.
 
 Three, liquidity buffers that preserve the client’s optionality.  
 
-
-
 ## Asset Based Lending as a Liquidity Engine
 
 Asset based lending is not simply secured lending.  
@@ -122,8 +110,6 @@ Our ABL framework focuses on high conviction assets where liquidity is constrain
 
 This includes private credit holdings, crypto positions, and public share blocks that are not immediately tradeable without market impact.  
 
-
-
 ## The Mechanics of Structural Alpha
 
 Structural alpha emerges when four conditions are met.  
@@ -139,8 +125,6 @@ The borrower receives liquidity that is insulated from their asset’s market cy
 
 Both sides operate with clarity.  
 
-
-
 ## How Private Credit Responds to Market Stress
 
 During market stress, public markets transmit volatility instantly.  
@@ -150,8 +134,6 @@ Private credit transmits volatility structurally, which creates a lag that can b
 When architecture is sound, this lag becomes a source of alpha.  
 
 It allows lenders to enforce protective terms, negotiate from strength, and maintain yield continuity when other asset classes are resetting.  
-
-
 
 ## The Role of Overcollateralization
 
@@ -167,8 +149,6 @@ At Roials-Capital, overcollateralization is not a defensive mechanism.
 
 It is a design principle that transforms risk exposure into predictable yield.  
 
-
-
 ## Crypto Lending for Institutional-Level Capital
 
 Crypto markets are fast, fragmented, and structurally inefficient.  
@@ -180,8 +160,6 @@ At that level, collateral monitoring, risk isolation, and execution quality beco
 The structural alpha in crypto lending arises from the combination of high quality collateral and conservative LTV architecture.  
 
 We create liquidity without exposing the client to forced unwinds or unnecessary liquidation risk.  
-
-
 
 ## Public Share Lending for High Conviction Positions
 
@@ -196,8 +174,6 @@ The alpha is generated through risk segmentation.
 We isolate the liquidity event from the underlying equity performance.  
 
 This allows the client to preserve market exposure while unlocking functional capital.  
-
-
 
 ## Structural Alpha vs Market Alpha
 
@@ -215,8 +191,6 @@ Structural alpha is architectural.
 
 This distinction matters for HNWI and UHNW portfolios that are increasingly weighted toward illiquid assets but still require mobility and liquidity precision.  
 
-
-
 ## Liquidity as a Strategic Asset
 
 In private credit, liquidity is often the most powerful return driver.  
@@ -230,8 +204,6 @@ The liquidity.
 When liquidity is engineered with control, it becomes a strategic asset that compounds opportunity.  
 
 Clients who can create liquidity at will operate from a stronger position than those who wait for natural asset cycles.  
-
-
 
 ## The Roials-Capital Liquidity Architecture
 
@@ -249,8 +221,6 @@ This is structural alpha.
 
 It is designed, not discovered.  
 
-
-
 ## Governance as Alpha
 
 Structural alpha is reinforced through governance.  
@@ -266,8 +236,6 @@ For the client, this means clarity.
 For the lender, this means protection.  
 
 For the portfolio, this means stability.  
-
-
 
 ## Execution Precision
 
@@ -285,8 +253,6 @@ At Roials-Capital, execution is not an operational function.
 
 It is a structural discipline.  
 
-
-
 ## Why HNWI and UHNW Investors Prioritize Architecture
 
 Wealth at scale is not vulnerable to market volatility.  
@@ -300,8 +266,6 @@ This is why institutional-level architecture is essential.
 Not to chase performance.  
 
 To enforce stability and control.  
-
-
 
 ## The Future of Structural Alpha
 
@@ -319,8 +283,6 @@ Architecture will become the differentiator.
 
 And controlled liquidity will become the primary currency of wealth mobility.  
 
-
-
 ## The Roials-Capital Position
 
 Roials-Capital stands at the intersection of private credit, asset based lending, and modern collateral.  
@@ -336,7 +298,5 @@ We preserve the integrity of our clients’ capital strategies.
 Structural alpha is the product.  
 
 Architecture is the method.  
-
-
 
 # Request confidential audit

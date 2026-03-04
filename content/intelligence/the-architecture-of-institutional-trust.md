@@ -15,8 +15,6 @@ It is built the same way a load bearing foundation is built, through decisions t
 
 At Roials Capital, trust is neither a promise nor a posture. It is the byproduct of architecture. It emerges from structural clarity, calibrated leverage, and a consistent respect for risk physics.  
 
-
-
   
 ## The Function of Trust in High Fragility Environments
 
@@ -30,8 +28,6 @@ Institutions build trust not by being loud, but by being predictable. They desig
 
 This architecture of predictability is the foundation on which Roials Capital stands.  
 
-
-
   
 ## Private Credit as Structural Reinforcement
 
@@ -44,8 +40,6 @@ Roials Capital lends into these environments with institutional discipline.
 We finance against assets that carry intrinsic structure. We assess durability. We respect cash flow pathways. And most importantly, we treat credit as architecture, not as a transaction.  
 
 Private credit at the institutional level is quiet, precise, and designed to hold.  
-
-
 
   
 ## The Role of Asset Based Lending
@@ -63,8 +57,6 @@ Create liquidity without eroding the integrity of the underlying asset.
 
 HNWI and UHNW clients require liquidity that does not compromise position. ABL becomes the mechanism that allows them to retain control, maintain optionality, and protect strategic timing.  
 
-
-
   
 ## Crypto Lending as an Institutional Discipline
 
@@ -80,8 +72,6 @@ We do not participate in speculative lending. We operate only where collateral d
 
 Crypto lending, when architected correctly, is not a deviation from institutional finance. It is a natural extension of it.  
 
-
-
   
 ## Public Share Lending at High Thresholds
 
@@ -95,8 +85,6 @@ We work with clients whose positions are significant enough to require instituti
 
 We treat public share collateral with a surgeon’s precision. Not a trader’s mentality.  
 
-
-
   
 ## The Silent Authority of Structural Capital
 
@@ -109,8 +97,6 @@ Clients in the HNWI and UHNW strata do not require persuasion. They require clar
 Roials Capital provides the structure.  
 The client retains the power.  
 This is the correct distribution of authority.  
-
-
 
   
 ## Why Rules Create Trust
@@ -133,8 +119,6 @@ Roials Capital does not move these pillars to accommodate market emotion. They a
 
 This is the architecture of trust.  
 
-
-
   
 ## Strategic Liquidity for HNWI and UHNW Portfolios
 
@@ -154,8 +138,6 @@ We provide the capital necessary to maintain position integrity, to capture oppo
 Liquidity is not the goal.  
 Control is the goal.  
 
-
-
   
 ## The Institutional View of Risk
 
@@ -173,8 +155,6 @@ We consider potential asymmetry.
 The result is capital that behaves predictably even when markets do not.  
 
 This is why our structures attract clients who value stability over spectacle.  
-
-
 
   
 ## Multi Layered Liquidity Architecture
@@ -197,8 +177,6 @@ Each layer increases control.
 
 This multi layer system is the hallmark of institutional capital engineering.  
 
-
-
   
 ## The Importance of Frictionless Execution
 
@@ -215,8 +193,6 @@ Roials Capital maintains execution protocols that minimize noise and prevent avo
 Efficiency is a form of respect.  
 Institutions understand this.  
 
-
-
   
 ## Serving the Upper Strata Without Visibility Theater
 
@@ -229,8 +205,6 @@ They require partners who understand the value of silence.
 Roials Capital serves the upper strata quietly. We maintain confidentiality as a baseline. We protect identity as part of the system, not as an optional courtesy.  
 
 Silence is not the absence of communication. It is the presence of control.  
-
-
 
   
 ## Why Architecture Outperforms Opportunism
@@ -249,8 +223,6 @@ It all exists to create predictability and reduce fragility.
 
 Our clients rely on that predictability.  
 Our systems enforce it.  
-
-
 
   
 ## Conclusion: Trust as a Structural Outcome

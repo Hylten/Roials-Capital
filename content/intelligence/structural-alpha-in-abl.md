@@ -10,8 +10,6 @@ keywords: "ABL, Structural Alpha, Asset Based Lending, Roials Capital"
 # Structural Alpha in Asset Based Lending  
 Roials Capital Research Division
 
-
-
 ## Introduction
 
 Institutional credit markets evolve in cycles, yet the core mechanics of secured lending remain constant.  
@@ -27,8 +25,6 @@ These constraints create reliability.
 Reliability creates predictive cash flow.  
 Predictive cash flow creates the conditions for Structural Alpha.  
 
-
-
 ## Defining Structural Alpha in ABL
 
 Structural Alpha is the return produced by structural asymmetry.  
@@ -40,8 +36,6 @@ Second, borrower behaviour responds to covenant geometry.
 Third, the facility structure determines the lender’s rights under stress scenarios.  
 
 When these principles align, the facility produces returns that exceed the borrower’s credit profile, yet avoid the volatility associated with unsecured credit.  
-
-
 
 ## The Architecture of ABL Risk
 
@@ -59,8 +53,6 @@ The role of the institutional architect is to compress these vectors into contro
 When compression is successful, the facility becomes a machine.  
 A machine that converts collateral into yield with surgical precision.  
 
-
-
 ## Collateral as a Yield Engine
 
 In conventional credit, collateral is an afterthought.  
@@ -77,8 +69,6 @@ When advance rates sit within liquidation tolerances, loss probability collapses
 
 This is the foundation of Structural Alpha:  
 Return is generated from the asset’s liquidity, while protection is derived from its margin of safety.  
-
-
 
 ## Information Discipline
 
@@ -103,8 +93,6 @@ Availability locks tighten as liquidity compresses.
 Information becomes the mechanism that removes ambiguity.  
 Ambiguity is where losses are born.  
 
-
-
 ## Borrower Behaviour and Structural Influence
 
 Borrowers respond to structure.  
@@ -123,8 +111,6 @@ For example:
 
 The system shapes the borrower, not the reverse.  
 This asymmetry is central to Structural Alpha.  
-
-
 
 ## Stress Scenarios and Enforcement Geometry
 
@@ -146,8 +132,6 @@ Every outcome is probabilistic rather than speculative.
 
 This eliminates chaos during distress.  
 Chaos is the enemy of alpha.  
-
-
 
 ## Designing Structural Alpha
 
@@ -172,8 +156,6 @@ Clear enforcement pathways ensure the structure remains intact without negotiati
 ### Step 5: Yield Extraction  
 The resulting stability supports competitive yet elevated returns, sourced from structural efficiency rather than risk tolerance.  
 
-
-
 ## Where Structural Alpha Emerges
 
 Structural Alpha is generated at specific points inside the facility.  
@@ -196,8 +178,6 @@ Predefined enforcement mechanics avoid negotiation delay.
 Delay is where unsecured losses materialize.  
 ABL avoids this phase entirely.  
 
-
-
 ## The Institutional Edge
 
 Institutional ABL differs from middle-market ABL in one fundamental respect.  
@@ -211,8 +191,6 @@ This difference creates three competitive edges.
 
 These edges compound.  
 Compounding produces alpha that is structural, not cyclical.  
-
-
 
 ## Why Structural Alpha Matters Now
 
@@ -229,8 +207,6 @@ In an environment where unsecured credit experiences margin compression and risi
 ABL becomes the rational frontier.  
 Within that frontier, Structural Alpha is the differentiator.  
 
-
-
 ## Roials Capital’s Position
 
 Roials Capital functions as a structural architect.  
@@ -244,8 +220,6 @@ Our frameworks prioritize:
 
 These priorities drive resilience.  
 Resilience is the source of confidence for institutional partners and borrowers alike.  
-
-
 
 ## Conclusion
 
