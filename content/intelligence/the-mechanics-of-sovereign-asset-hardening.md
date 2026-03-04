@@ -1,10 +1,10 @@
 ---
 title: "The Mechanics of Sovereign Asset Hardening"
-description: "An institutional analysis of liquidity structuring through private credit and asset based lending frameworks for HNWI and UHNW portfolios."
+description: "An institutional analysis of liquidity structuring through private credit and asset based liquidity engineering frameworks for HNWI and UHNW portfolios."
 date: "2026-03-25"
 author: "Jonas Hyltén"
 slug: "the-mechanics-of-sovereign-asset-hardening"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
 ---
 
 # The Mechanics of Sovereign Asset Hardening
@@ -23,7 +23,7 @@ Precision, liquidity reliability, and systemic durability are.
   
 
 At Roials‑Capital, we operate inside that narrow bandwidth where capital is not managed, it is engineered.  
-We provide private credit and asset based lending structures that treat liquidity as a controllable variable.  
+We provide private credit and asset based liquidity engineering structures that treat liquidity as a controllable variable.  
 Not a dependency.  
 
   
@@ -143,7 +143,7 @@ We maintain that silence.
 
   
 
-When we lend against private credit, or structure ABL, or engineer crypto and public share lending, the objective is singular.  
+When we lend against private credit, or structure ABL, or engineer crypto and public share liquidity engineering, the objective is singular.  
 Sovereignty.
 
   

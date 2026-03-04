@@ -11,7 +11,7 @@ keywords: "private credit, ABL, liquidity"
 
 Sovereign credit mobility is the discipline of transforming static wealth positions into directional force.
 
-It is not lending. It is not leverage.
+It is not liquidity engineering. It is not leverage.
 
 It is structural authority over liquidity flows.
 

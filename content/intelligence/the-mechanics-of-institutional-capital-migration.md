@@ -1,10 +1,10 @@
 ---
 title: "The Mechanics of Institutional Capital Migration"
-description: "A high‑trust analysis of how liquidity flows through private credit and asset based lending frameworks for HNWI and UHNW portfolios."
+description: "A high‑trust analysis of how liquidity flows through private credit and asset based liquidity engineering frameworks for HNWI and UHNW portfolios."
 date: "2026-03-23"
 author: "Jonas Hyltén"
 slug: "the-mechanics-of-institutional-capital-migration"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
 ---
 
 # The Mechanics of Institutional Capital Migration
@@ -19,18 +19,18 @@ At Roials-Capital we operate at the layer where capital is engineered rather tha
 
 This is the strata where liquidity is created, secured, reallocated, and shielded.  
 
-It is the level at which private credit and asset based lending act as precision tools for High Net Worth and Ultra High Net Worth individuals who need liquidity without liquidation.  
+It is the level at which private credit and asset based liquidity engineering act as precision tools for High Net Worth and Ultra High Net Worth individuals who need liquidity without liquidation.  
 
-The goal of this article is to articulate, clearly and surgically, how institutional capital migration works and how our lending architecture supports that movement.  
+The goal of this article is to articulate, clearly and surgically, how institutional capital migration works and how our liquidity engineering architecture supports that movement.  
 
 ## The Architectural Advantage of Roials-Capital
 
 Roials-Capital provides:  
 
-- Lending against private credit  
-- Asset based lending  
-- Crypto lending with a two million minimum  
-- Public share lending with a five million minimum  
+- liquidity engineering against private credit  
+- Asset based liquidity engineering  
+- Crypto liquidity engineering with a two million minimum  
+- Public share liquidity engineering with a five million minimum  
 - Institutional-grade structuring for HNWI and UHNW portfolios  
 
 Our architecture supports capital migration without compromising control or exposure.  

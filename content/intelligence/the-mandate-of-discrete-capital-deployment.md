@@ -44,10 +44,10 @@ It is not traded.
 It is controlled.  
 It is engineered.
 
-Roials-Capital maintains lending thresholds aligned with institutional discipline:
+Roials-Capital maintains liquidity engineering thresholds aligned with institutional discipline:
 
-- Crypto backed lending begins at two million USD.  
-- Public shares lending begins at five million USD.
+- Crypto backed liquidity engineering begins at two million USD.  
+- Public shares liquidity engineering begins at five million USD.
 
 These thresholds are not restrictive.  
 They are strategic filters.
@@ -222,7 +222,7 @@ Discrete capital dictates.
 Public capital performs in cycles.  
 Discrete capital performs in structures.
 
-This is why principals concentrate in private credit and strategic lending.  
+This is why principals concentrate in private credit and strategic liquidity engineering.  
 It is the environment where authority remains with the owner.  
 Not the market.
 

@@ -1,10 +1,10 @@
 ---
 title: "Precision Financing for Institutional Projects"
-description: "High-trust liquidity solutions through private credit and asset based lending for institutional-scale projects and UHNW mandates."
+description: "High-trust liquidity solutions through private credit and asset based liquidity engineering for institutional-scale projects and UHNW mandates."
 date: "2026-03-09"
 author: "Jonas Hyltén"
 slug: "precision-financing-for-institutional-projects"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
 ---
 
 # Precision Financing for Institutional Projects
@@ -15,7 +15,7 @@ They rely on capital structures that hold under scrutiny, withstand friction, an
 
 Roials‑Capital operates inside this exact corridor.
 
-We work where private credit and asset based lending converge with structural clarity.
+We work where private credit and asset based liquidity engineering converge with structural clarity.
 
 We serve clients who measure risk in basis points and view liquidity as an instrument, not an event.
 
@@ -29,7 +29,7 @@ We hold it.
 
 ## The Architecture Is Yours. The Engineering Is Ours.
 
-Roials‑Capital builds lending structures that give clients the freedom to execute.
+Roials‑Capital builds liquidity engineering structures that give clients the freedom to execute.
 
 Your assets remain in position.  
 Your strategy remains intact.  

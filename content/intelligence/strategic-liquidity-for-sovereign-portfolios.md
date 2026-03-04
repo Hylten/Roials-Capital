@@ -1,10 +1,10 @@
 ---
 title: "Strategic Liquidity Architecture for Sovereign and Ultra-High Net Worth Portfolios"
-description: "A high‑level analysis of liquidity structuring using private credit and asset based lending solutions for sovereign, HNWI, and UHNW portfolios."
+description: "A high‑level analysis of liquidity structuring using private credit and asset based liquidity engineering solutions for sovereign, HNWI, and UHNW portfolios."
 date: "2026-03-16"
 author: "Jonas Hyltén"
 slug: "strategic-liquidity-for-sovereign-portfolios"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
 ---
 
 # Strategic Liquidity for Sovereign Portfolios
@@ -49,11 +49,11 @@ It is the layer that sovereign and UHNW portfolios require.
 
 Our thresholds are deliberate.  
 Two million minimum for crypto.  
-Five million minimum for public share lending.  
+Five million minimum for public share liquidity engineering.  
 
 These thresholds protect the integrity of the architecture.  
 
-We lend against private credit and asset based lending because these instruments sit at the structural core of sovereign portfolios.  
+We lend against private credit and asset based liquidity engineering because these instruments sit at the structural core of sovereign portfolios.  
 
 We operate for HNWI and UHNW individuals because they understand that liquidity is a system, not an event.  
 

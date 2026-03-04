@@ -4,7 +4,7 @@ description: "A deep institutional analysis of the Sovereign Capital Architectur
 date: "2026-03-30"
 author: "Jonas Hyltén"
 slug: "the-sovereign-capital-architecture:-building-multi"
-keywords: "private credit, asset based lending, Roials-Capital"
+keywords: "private credit, asset based liquidity engineering, Roials-Capital"
 ---
 
 # The Sovereign Capital Architecture: Building Multi Generational Liquidity
@@ -142,10 +142,10 @@ This is the most underestimated advantage of institutional capital.
 Sovereign credit is built through:
 
   
-• asset backed lending  
+• asset backed liquidity engineering  
 • structured private credit  
 • collateral governed credit lines  
-• covenant optimized borrowing bases  
+• covenant optimized balance sheet optimization bases  
 • credit instruments that self amortize  
 
   
@@ -302,9 +302,9 @@ Time is the rarest asset in finance.
 
 Control time, and you control outcomes.
 
-## Asset Based Lending as an Architecture Tool
+## Asset Based liquidity engineering as an Architecture Tool
 
-Asset based lending is not a loan structure.  
+Asset based liquidity engineering is not a liquidity facility structure.  
 It is an architectural tool.
 
 It allows the institution to convert asset stability into liquidity.

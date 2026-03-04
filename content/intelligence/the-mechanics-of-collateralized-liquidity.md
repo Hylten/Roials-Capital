@@ -1,10 +1,10 @@
 ---
 title: "The Mechanics of Collateralized Liquidity: Structural Intelligence for Private Credit and ABL"
-description: "A deep institutional analysis of collateralized liquidity frameworks with emphasis on Private Credit, Asset Based Lending, and high-threshold lending structures for HNWI and UHNW clients."
+description: "A deep institutional analysis of collateralized liquidity frameworks with emphasis on Private Credit, Asset Based liquidity engineering, and high-threshold liquidity engineering structures for HNWI and UHNW clients."
 date: "2026-03-23"
 author: "Jonas Hyltén"
 slug: "the-mechanics-of-collateralized-liquidity"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
 ---
 
 # The Mechanics of Collateralized Liquidity
@@ -17,7 +17,7 @@ At Roials-Capital, the architecture is designed for individuals who operate at s
 
 This article provides a detailed examination of the mechanics that shape collateralized liquidity in an institutional context.
 
-It applies to private credit, asset based lending, crypto lending with a minimum threshold of 2,000,000, and public share lending with a minimum threshold of 5,000,000.
+It applies to private credit, asset based liquidity engineering, crypto liquidity engineering with a minimum threshold of 2,000,000, and public share liquidity engineering with a minimum threshold of 5,000,000.
 
 It is written for High Net Worth and Ultra High Net Worth individuals who require liquidity without compromising control of core assets.
 

@@ -1,10 +1,10 @@
 ---
 title: "Strategic Credit Architecture for High‑Net‑Worth Entrepreneurs"
-description: "A deep institutional analysis of liquidity structuring, private credit, and asset based lending solutions for high net worth entrepreneurs seeking silent, controlled leverage."
+description: "A deep institutional analysis of liquidity structuring, private credit, and asset based liquidity engineering solutions for high net worth entrepreneurs seeking silent, controlled leverage."
 date: "2026-03-16"
 author: "Jonas Hyltén"
 slug: "strategic-credit-for-high-net-worth-entrepreneurs"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
 ---
 
 # Strategic Credit for High‑Net‑Worth Entrepreneurs
@@ -62,9 +62,9 @@ Liquidity that is unlocked, but not exposed, becomes a competitive advantage. It
 
 Our credit architecture is engineered specifically for this mode of operation.  
 
-## Why HNWI and UHNW Entrepreneurs Require Different Lending Rules
+## Why HNWI and UHNW Entrepreneurs Require Different liquidity engineering Rules
 
-Conventional lending systems treat borrowers homogeneously.  
+Conventional liquidity engineering systems treat borrowers homogeneously.  
 
 High‑net‑worth individuals are not homogeneous.  
 
@@ -95,9 +95,9 @@ Visibility is a cost.
 
 High‑net‑worth entrepreneurs understand this intuitively. Whenever liquidity requires public movement, a data trail forms. That trail becomes actionable intelligence for competitors, brokers, and observers.  
 
-Our lending mechanics preserve opacity.  
+Our liquidity engineering mechanics preserve opacity.  
 
-Private credit, ABL systems, crypto lending, and public share lending are structured to avoid unnecessary market exposure.  
+Private credit, ABL systems, crypto liquidity engineering, and public share liquidity engineering are structured to avoid unnecessary market exposure.  
 
 The client moves.  
 The market does not notice.  

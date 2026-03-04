@@ -1,10 +1,10 @@
 ---
 title: "Decentralized Private Credit: The Institutional Frontier for Controlled Liquidity"
-description: "A high-authority analysis of decentralized private credit and asset based lending, built for HNWI and UHNW investors seeking institutional liquidity structures."
+description: "A high-authority analysis of decentralized private credit and asset based liquidity engineering, built for HNWI and UHNW investors seeking institutional liquidity structures."
 date: "2026-02-27"
 author: "Jonas Hyltén"
 slug: "decentralized-private-credit:-the-institutional-fr"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
 ---
 
 # Decentralized Private Credit: The Institutional Frontier
@@ -67,9 +67,9 @@ It is the emergence of a second rail.
 
 A rail optimized for capital efficiency and temporal precision.  
 
-## Asset Based Lending, Reconstructed
+## Asset Based liquidity engineering, Reconstructed
 
-Asset Based Lending (ABL) is one of the most structurally compatible categories for decentralized environments.  
+Asset Based liquidity engineering (ABL) is one of the most structurally compatible categories for decentralized environments.  
 
 The reason is simple.  
 
@@ -99,9 +99,9 @@ These thresholds are non-negotiable.
 
 They are structural.  
 
-Crypto lending minimum: 2,000,000 USD.  
+Crypto liquidity engineering minimum: 2,000,000 USD.  
 
-Public share lending minimum: 5,000,000 USD.  
+Public share liquidity engineering minimum: 5,000,000 USD.  
 
 These are not marketing anchors.  
 
@@ -189,7 +189,7 @@ Not a starting point.
 
 For HNWI and UHNW clients, this hierarchy matters.  
 
-It ensures that borrowing costs, collateral parameters, and loan conditions remain institutionally consistent.  
+It ensures that balance sheet optimization costs, collateral parameters, and liquidity facility conditions remain institutionally consistent.  
 
 ## Why Decentralized Private Credit Appeals to Advanced Capital
 
@@ -199,7 +199,7 @@ First: Control over collateral.
 Clients retain a direct, transparent relationship with the assets that secure their liquidity.  
 
 Second: Temporal efficiency.  
-Borrowing windows compress, and capital is deployed without bureaucratic bottlenecks.  
+balance sheet optimization windows compress, and capital is deployed without bureaucratic bottlenecks.  
 
 Third: Neutral execution.  
 There is no discretionary decision maker interpreting the deal through internal politics or subjective risk weighting.  
@@ -210,7 +210,7 @@ It creates a liquidity environment that operates at the speed and precision requ
 
 ## ABL as a Stabilizer for High Net Worth Capital
 
-Asset Based Lending has historically served as a stabilizer for large private balance sheets.  
+Asset Based liquidity engineering has historically served as a stabilizer for large private balance sheets.  
 
 When executed with decentralized logic, ABL becomes even more robust.  
 
@@ -232,7 +232,7 @@ The future of underwriting is data structured, not analyst interpreted.
 
 Decentralized private credit enables this transformation.  
 
-Loan-to-value thresholds become consistent.  
+liquidity facility-to-value thresholds become consistent.  
 
 Liquidation frameworks become predictable.  
 
@@ -260,7 +260,7 @@ The primary risks shift toward:
 • Liquidity depth in secondary markets  
 • Smart contract reliability  
 
-Roials-Capital incorporates these variables into its structural models, ensuring that borrowing frameworks remain stable even as market conditions evolve.  
+Roials-Capital incorporates these variables into its structural models, ensuring that balance sheet optimization frameworks remain stable even as market conditions evolve.  
 
 The objective is not to chase risk.  
 
@@ -320,7 +320,7 @@ The growth of decentralized private credit is not a trend.
 
 It is a structural evolution.  
 
-Roials-Capital stands at the institutional frontier of this evolution, offering lending against private credit assets, high-grade ABL collateral, and multi-million dollar positions across crypto and public markets.  
+Roials-Capital stands at the institutional frontier of this evolution, offering liquidity engineering against private credit assets, high-grade ABL collateral, and multi-million dollar positions across crypto and public markets.  
 
 Our frameworks are engineered for clarity, autonomy, and liquidity without friction.  
 

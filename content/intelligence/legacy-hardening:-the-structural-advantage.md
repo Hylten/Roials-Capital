@@ -1,10 +1,10 @@
 ---
 title: "Legacy Hardening: The Structural Advantage"
-description: "An institutional exploration of liquidity architecture through private credit and asset based lending for HNWI and UHNW portfolios."
+description: "An institutional exploration of liquidity architecture through private credit and asset based liquidity engineering for HNWI and UHNW portfolios."
 date: "2026-03-06"
 author: "Jonas Hyltén"
 slug: "legacy-hardening:-the-structural-advantage"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
 ---
 
 # Legacy Hardening: The Structural Advantage
@@ -19,7 +19,7 @@ They fail from misaligned liquidity vectors and structural fragility.
 At Roials-Capital, we operate within a different frame.  
 We do not speculate.  
 We do not chase yield.  
-We engineer durable access to institutional liquidity through private credit and asset based lending.  
+We engineer durable access to institutional liquidity through private credit and asset based liquidity engineering.  
 
 This is legacy hardening.  
 This is structural advantage.  

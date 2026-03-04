@@ -1,10 +1,10 @@
 ---
 title: "Institutional Alignment in Modern Private Credit Markets"
-description: "Strategic analysis of liquidity, private credit, and asset based lending for HNWI and UHNW capital structures."
+description: "Strategic analysis of liquidity, private credit, and asset based liquidity engineering for HNWI and UHNW capital structures."
 date: "2026-03-01"
 author: "Jonas Hyltén"
 slug: "institutional-alignment-in-private-credit-markets"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
 ---
 
 # Institutional Alignment in Private Credit Markets
@@ -42,9 +42,9 @@ For HNWI and UHNW clients, entering private credit markets means stepping into t
 
   
 
-## The Logic of Asset Based Lending
+## The Logic of Asset Based liquidity engineering
 
-Asset based lending is the cleanest expression of institutional alignment.  
+Asset based liquidity engineering is the cleanest expression of institutional alignment.  
 Collateral is the anchor.  
 Valuation is empirical.  
 Liquidity is engineered.
@@ -156,14 +156,14 @@ Private credit and ABL structures require stability. Collateral thresholds reinf
 
   
 
-For crypto lending, our minimum threshold is 2,000,000.  
+For crypto liquidity engineering, our minimum threshold is 2,000,000.  
 This threshold filters for maturity.  
 It ensures the conversation stays institutional.  
 It removes the volatility of retail behavior.
 
   
 
-For public share lending, our minimum threshold is 5,000,000.  
+For public share liquidity engineering, our minimum threshold is 5,000,000.  
 This preserves liquidity integrity.  
 It ensures that the asset class functions as collateral rather than speculation.  
 It aligns with the size, ranking, and stability that institutions require.
@@ -219,7 +219,7 @@ This is why institutions rely on process rather than emotion.
   
 
 Private credit markets reward disciplined underwriting.  
-Asset based lending rewards empirical collateral evaluation.  
+Asset based liquidity engineering rewards empirical collateral evaluation.  
 High net worth borrowers benefit from predictable frameworks that execute regardless of market noise.
 
   
@@ -300,7 +300,7 @@ It is an institutional framework accessible to individuals who understand its va
 
 ## The Path Forward for Private Credit Markets
 
-Private credit continues to gain relevance as traditional lending becomes more restrictive and market cycles become more compressed.  
+Private credit continues to gain relevance as traditional liquidity engineering becomes more restrictive and market cycles become more compressed.  
 Institutions see it as a predictable yield engine that operates independently from public market volatility.
 
   

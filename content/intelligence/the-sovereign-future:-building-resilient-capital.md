@@ -1,10 +1,10 @@
 ---
 title: "The Sovereign Future: Building Resilient Capital"
-description: "An institutional exploration of liquidity strategy through private credit and asset based lending for HNWI and UHNW portfolios."
+description: "An institutional exploration of liquidity strategy through private credit and asset based liquidity engineering for HNWI and UHNW portfolios."
 date: "2026-03-31"
 author: "Jonas Hyltén"
 slug: "the-sovereign-future:-building-resilient-capital"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
 ---
 
 # The Sovereign Future: Building Resilient Capital
@@ -33,8 +33,8 @@ We establish capital frameworks that persist independently.
 
 This article deconstructs the architecture of resilient capital.  
 It examines the structural choices that define long horizon wealth.  
-It outlines why private credit, asset based lending, and institution grade collateralization strategies now sit at the center of modern sovereign wealth design.  
-And it details the operating philosophy that Roials-Capital uses when lending against private credit, asset pools, crypto holdings above two million dollars, and public equities above five million dollars.  
+It outlines why private credit, asset based liquidity engineering, and institution grade collateralization strategies now sit at the center of modern sovereign wealth design.  
+And it details the operating philosophy that Roials-Capital uses when liquidity engineering against private credit, asset pools, crypto holdings above two million dollars, and public equities above five million dollars.  
 
   
 

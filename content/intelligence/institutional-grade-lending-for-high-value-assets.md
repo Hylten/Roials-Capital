@@ -1,13 +1,13 @@
 ---
-title: "Institutional Grade Lending for High-Value Assets: The Architecture of Modern Liquidity"
-description: "Institutional liquidity engineering through private credit and asset based lending for HNWI and UHNW clients seeking precision, control, and structural efficiency."
+title: "Institutional Grade liquidity engineering for High-Value Assets: The Architecture of Modern Liquidity"
+description: "Institutional liquidity engineering through private credit and asset based liquidity engineering for HNWI and UHNW clients seeking precision, control, and structural efficiency."
 date: "2026-03-03"
 author: "Jonas Hyltén"
-slug: "institutional-grade-lending-for-high-value-assets"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
+slug: "institutional-grade-liquidity engineering-for-high-value-assets"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
 ---
 
-# Institutional Grade Lending for High-Value Assets
+# Institutional Grade liquidity engineering for High-Value Assets
 
 Institutional liquidity has historically been gated.  
 
@@ -35,7 +35,7 @@ The client receives a clear structural outline without operational noise.
 
 This balance between transparency and discretion is a core part of our architecture.  
 
-## A Lending Partner, Not a Counterparty
+## A liquidity engineering Partner, Not a Counterparty
 
 The majority of lenders operate as transactional entities.  
 
@@ -73,7 +73,7 @@ Digital assets, private credit, and global equities will coexist in more complex
 
 Liquidity will become more essential, not less.  
 
-The institutions that will succeed in this environment are those that treat lending not as a product, but as an engineering discipline.  
+The institutions that will succeed in this environment are those that treat liquidity engineering not as a product, but as an engineering discipline.  
 
 Roials Capital was built for that future.  
 
@@ -83,9 +83,9 @@ We operate today with the structures required for the next decade.
 
 High-value assets demand institutional engineering.  
 
-HNWI and UHNW clients require lending solutions that are clean, fast, and structurally correct.  
+HNWI and UHNW clients require liquidity engineering solutions that are clean, fast, and structurally correct.  
 
-Roials Capital delivers this through private credit lending, asset based lending, crypto-backed financing, and public share lending.  
+Roials Capital delivers this through private credit liquidity engineering, asset based liquidity engineering, crypto-backed financing, and public share liquidity engineering.  
 
 With minimum thresholds of 2,000,000 USD for crypto and 5,000,000 USD for public equities, we maintain the structural clarity our ecosystem requires.  
 

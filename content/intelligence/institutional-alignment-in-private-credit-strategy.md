@@ -1,10 +1,10 @@
 ---
 title: "Institutional Alignment in Modern Private Credit Architecture"
-description: "A high‑authority analysis of liquidity, private credit, and asset based lending frameworks for HNWI and UHNW portfolios."
+description: "A high‑authority analysis of liquidity, private credit, and asset based liquidity engineering frameworks for HNWI and UHNW portfolios."
 date: "2026-03-01"
 author: "Jonas Hyltén"
 slug: "institutional-alignment-in-private-credit-strategy"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
 ---
 
 # Institutional Alignment in Private Credit Strategy
@@ -13,7 +13,7 @@ Institutional alignment in private credit is not a matter of preference. It is a
 
   
 
-HNWI and UHNW participants operate within architectures that require precision. The capital stack must behave predictably. The lending counterpart must function with absolute clarity. The framework must withstand macro‑level stress without distortion.
+HNWI and UHNW participants operate within architectures that require precision. The capital stack must behave predictably. The liquidity engineering counterpart must function with absolute clarity. The framework must withstand macro‑level stress without distortion.
 
   
 

@@ -39,7 +39,7 @@ Private debt origination therefore becomes a covenant activity. Not a transactio
 
 The Roials thesis embeds three stewardship pillars.
 
-1. Precision responsibility. Every loan is a moral act.
+1. Precision responsibility. Every liquidity facility is a moral act.
 2. Order over aggression. Growth never outruns governance.
 3. Duty to the allocator. Every dollar must remain safeguarded by design.
 
@@ -47,7 +47,7 @@ This is why institutional partners favor platforms with moral hierarchy and disc
 
 ## Structural Architecture of Institutional-Grade Origination
 
-Institutional origination is not defined by loan size. It is defined by structural readiness.
+Institutional origination is not defined by liquidity facility size. It is defined by structural readiness.
 
 A hardened platform displays seven signals.
 
@@ -155,12 +155,12 @@ The Roials framework aligns with this evaluation pattern.
 
 The result is a capital environment where the allocator experiences sovereignty, not uncertainty.
 
-## Minimum Lending Thresholds and Institutional Readiness
+## Minimum liquidity engineering Thresholds and Institutional Readiness
 
 Institutional readiness is reinforced through mandated thresholds.
 
-Crypto lending. $2M minimum.  
-Public shares lending. $5M minimum.
+Crypto liquidity engineering. $2M minimum.  
+Public shares liquidity engineering. $5M minimum.
 
 Thresholds are not barriers. They are filters.
 

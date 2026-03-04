@@ -83,9 +83,9 @@ Separate control from exposure.
 
 Document every linkage.
 
-Prepare the asset for lending thresholds.
+Prepare the asset for liquidity engineering thresholds.
 
-Crypto lending requires a $2M floor for institutional posture.  
+Crypto liquidity engineering requires a $2M floor for institutional posture.  
 Public shares require a $5M floor for structural interaction.
 
 Below these levels, institutions do not engage with seriousness.
@@ -144,7 +144,7 @@ Institutional velocity is created through three pillars:
 
 - Pre engineered documents  
 - Pre validated collateral  
-- Pre cleared lending channels  
+- Pre cleared liquidity engineering channels  
 
 These create a state where liquidity can be unlocked or redirected within hours instead of months.
 
@@ -193,7 +193,7 @@ Liquidity only belongs to those who can command it.
 The last cycles have shown clear displacement patterns:
 
 - Private credit has overtaken traditional credit in velocity.  
-- Asset based lending has surpassed conventional loan structures in flexibility.  
+- Asset based liquidity engineering has surpassed conventional liquidity facility structures in flexibility.  
 - Institutional family capital has become more agile than mid scale fund capital.  
 - Crypto collateralization has matured into enterprise governance layers.  
 - Public share portfolios have reemerged as formal liquidity conduits.  

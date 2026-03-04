@@ -4,7 +4,7 @@ description: "A surgical exploration of liquidity architecture across private cr
 date: "2026-03-24"
 author: "Jonas Hyltén"
 slug: "the-mechanics-of-multi-asset-liquidity"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
 ---
 
 # The Mechanics of Multi-Asset Liquidity
@@ -44,7 +44,7 @@ Yet it carries stable yield profiles, predictable cash flows, and contractual pr
 
 When treated with the correct governance, private credit positions can serve as deep collateral pools.
 
-Roials Capital structures lending facilities against private credit with institutional methodology.  
+Roials Capital structures liquidity engineering facilities against private credit with institutional methodology.  
 
 The core mechanics include:
 
@@ -57,11 +57,11 @@ This gives private credit a liquidity function that most investors do not access
 
 In multi asset architectures, private credit becomes the anchor layer, because it is insulated from public market volatility and crypto market asymmetry.  
 
-It creates dependable borrowing power without exposing the portfolio to unnecessary mark to market risk.
+It creates dependable balance sheet optimization power without exposing the portfolio to unnecessary mark to market risk.
 
-## Asset Based Lending as Structural Extension
+## Asset Based liquidity engineering as Structural Extension
 
-Asset based lending, ABL, provides the second layer of liquidity architecture.  
+Asset based liquidity engineering, ABL, provides the second layer of liquidity architecture.  
 
 ABL operates on tangible or semi tangible exposures.  
 It converts private assets into leveraged instruments without forcing divestment.
@@ -81,7 +81,7 @@ It allows an investor to retain ownership, preserve long term appreciation, and 
 For multi asset liquidity systems, ABL provides the scalability.  
 It expands the collateral base without destabilizing the portfolio.
 
-## Public Share Lending at a Minimum Threshold of 5 Million USD
+## Public Share liquidity engineering at a Minimum Threshold of 5 Million USD
 
 Public market equity is liquid, but liquidity is not the same as accessibility.  
 Most investors access liquidity through selling.  
@@ -103,20 +103,20 @@ The objective is silent stability.
 Clients retain ownership and directional exposure.  
 We provide the liquidity without forcing participation in market noise.
 
-Public share lending becomes the fluid layer inside the multi asset architecture.  
+Public share liquidity engineering becomes the fluid layer inside the multi asset architecture.  
 It is the component that can respond fastest without compromising the deeper structural layers of private credit and ABL.
 
-## Crypto Lending at a Minimum Threshold of 2 Million USD
+## Crypto liquidity engineering at a Minimum Threshold of 2 Million USD
 
 Digital assets introduce a different liquidity logic.  
 They are inherently fluid but operationally volatile.  
-This volatility creates opportunity, but unstructured lending against crypto can destabilize an entire portfolio if handled without precision.
+This volatility creates opportunity, but unstructured liquidity engineering against crypto can destabilize an entire portfolio if handled without precision.
 
 Roials Capital lends against crypto at a minimum threshold of 2 million USD.  
 Below this level, volatility noise masks the signal.  
 Above this level, institutional liquidity strategies become viable.
 
-Our crypto lending mechanics include:
+Our crypto liquidity engineering mechanics include:
 
 • Real time collateral surveillance  
 • Volatility clustering models  
@@ -127,7 +127,7 @@ The purpose is simple.
 To give investors liquidity without forcing liquidation.  
 To provide institutional stability inside an asset class that operates at non institutional velocity.
 
-Crypto lending is the tactical layer inside a multi asset strategy.  
+Crypto liquidity engineering is the tactical layer inside a multi asset strategy.  
 It provides rapid liquidity, but is anchored by the deeper stability of private credit, ABL, and public share exposures.
 
 ## The Hierarchy of Liquidity Layers
@@ -138,9 +138,9 @@ Without hierarchy, liquidity becomes noise instead of structure.
 Roials Capital applies an institutional hierarchy across all collateral types:
 
 1. Foundation Layer: Private Credit  
-2. Structural Layer: Asset Based Lending  
-3. Fluid Layer: Public Share Lending  
-4. Tactical Layer: Crypto Lending  
+2. Structural Layer: Asset Based liquidity engineering  
+3. Fluid Layer: Public Share liquidity engineering  
+4. Tactical Layer: Crypto liquidity engineering  
 
 This hierarchy protects the investor.  
 It ensures that liquidity extraction does not destabilize the portfolio.  
@@ -198,7 +198,7 @@ Precision leverage introduces opportunity with control.
 
 Our approach focuses on:
 
-• Sustainable loan to value ratios  
+• Sustainable liquidity facility to value ratios  
 • Portfolio wide collateral mapping  
 • Liquidity stress simulations  
 • Exit strategy design before entry strategy execution  

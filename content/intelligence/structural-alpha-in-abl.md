@@ -1,19 +1,19 @@
 ---
-title: "Structural Alpha in Asset Based Lending: Engineered Reliability"
+title: "Structural Alpha in Asset Based liquidity engineering: Engineered Reliability"
 description: "How Roials Capital generates surplus returns through precise structural design and engineered constraints in ABL."
 date: "2026-03-17"
 author: "Jonas Hyltén"
 slug: "structural-alpha-in-abl"
-keywords: "ABL, Structural Alpha, Asset Based Lending, Roials Capital"
+keywords: "ABL, Structural Alpha, Asset Based liquidity engineering, Roials Capital"
 ---
 
-# Structural Alpha in Asset Based Lending  
+# Structural Alpha in Asset Based liquidity engineering  
 Roials Capital Research Division
 
 ## Introduction
 
-Institutional credit markets evolve in cycles, yet the core mechanics of secured lending remain constant.  
-Asset Based Lending sits at the intersection of collateral integrity, liquidity behaviour, and credit discipline.  
+Institutional credit markets evolve in cycles, yet the core mechanics of secured liquidity engineering remain constant.  
+Asset Based liquidity engineering sits at the intersection of collateral integrity, liquidity behaviour, and credit discipline.  
 Within this intersection, Structural Alpha emerges.  
 
 Structural Alpha is not a marketing phrase.  
@@ -105,7 +105,7 @@ The facility therefore reduces the requirement for subjective judgment.
 Instead, behaviour is shaped by engineered defaults.  
 For example:  
 
-- Borrowing base shortfalls trigger automatic reductions.  
+- balance sheet optimization base shortfalls trigger automatic reductions.  
 - Collateral ineligibles isolate contamination.  
 - Availability reserves self-activate when sales or collections deviate.  
 
@@ -115,7 +115,7 @@ This asymmetry is central to Structural Alpha.
 ## Stress Scenarios and Enforcement Geometry
 
 Institutional ABL is defined by its behaviour under stress.  
-Stress reveals whether a facility is an engineered system, or a simple loan with a collateral schedule.  
+Stress reveals whether a facility is an engineered system, or a simple liquidity facility with a collateral schedule.  
 
 Enforcement geometry governs the lender’s strategic posture.  
 
@@ -148,7 +148,7 @@ Each class of collateral is modelled for liquidation physics, conversion frictio
 Advance rates, reserves, and covenants compress risk into statistically predictable bands.  
 
 ### Step 3: Behavioural Engineering  
-Reporting intervals, lockboxes, and borrowing base mechanics shape borrower actions.  
+Reporting intervals, lockboxes, and balance sheet optimization base mechanics shape borrower actions.  
 
 ### Step 4: Execution Readiness  
 Clear enforcement pathways ensure the structure remains intact without negotiation.  
@@ -181,7 +181,7 @@ ABL avoids this phase entirely.
 ## The Institutional Edge
 
 Institutional ABL differs from middle-market ABL in one fundamental respect.  
-Institutions treat ABL as a systems-engineering problem, not a relationship-lending product.  
+Institutions treat ABL as a systems-engineering problem, not a relationship-liquidity engineering product.  
 
 This difference creates three competitive edges.  
 
@@ -194,7 +194,7 @@ Compounding produces alpha that is structural, not cyclical.
 
 ## Why Structural Alpha Matters Now
 
-Credit markets are shifting toward collateralized lending.  
+Credit markets are shifting toward collateralized liquidity engineering.  
 Borrowers with stable working capital cycles prefer financing that aligns with operational reality.  
 Investors seek yield that resists market volatility.  
 

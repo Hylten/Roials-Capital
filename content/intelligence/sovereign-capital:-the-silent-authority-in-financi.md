@@ -1,10 +1,10 @@
 ---
 title: "Sovereign Capital: The Silent Authority in Modern Financing"
-description: "A high-clarity analysis of liquidity architecture, private credit, and asset-based lending for HNWI and UHNW principals seeking institutional-grade capital precision."
+description: "A high-clarity analysis of liquidity architecture, private credit, and asset-based liquidity engineering for HNWI and UHNW principals seeking institutional-grade capital precision."
 date: "2026-03-12"
 author: "Jonas Hyltén"
 slug: "sovereign-capital-the-silent-authority-in-financing"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
 ---
 
 # Sovereign Capital: The Silent Authority in Financing
@@ -83,14 +83,14 @@ We do not chase opportunity.
 We structure opportunity.  
 
   
-Every lending instrument we offer follows this hierarchy:
+Every liquidity engineering instrument we offer follows this hierarchy:
 
 • Precision over volume  
 • Structure over story  
 • Collateral over conjecture  
 • Sovereignty over sentiment  
 
-Our lending models, whether private credit, ABL, crypto collateral, or public shares, exist within a consolidated framework that prioritizes continuity, discretion, and control.
+Our liquidity engineering models, whether private credit, ABL, crypto collateral, or public shares, exist within a consolidated framework that prioritizes continuity, discretion, and control.
 
 ## Why HNWI and UHNW Principals Prefer Sovereign Structures
 
@@ -147,7 +147,7 @@ Sovereign capital is not active. It is architectural.
 
 It does not seek attention. It provides infrastructure.
 
-Roials-Capital functions within this framework, offering private credit lending, ABL solutions, crypto lending from 2,000,000, and public share lending from 5,000,000 for HNWI and UHNW clients who require silent authority rather than overt motion.
+Roials-Capital functions within this framework, offering private credit liquidity engineering, ABL solutions, crypto liquidity engineering from 2,000,000, and public share liquidity engineering from 5,000,000 for HNWI and UHNW clients who require silent authority rather than overt motion.
 
 If liquidity is the question, structure is the answer.  
 

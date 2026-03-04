@@ -1,10 +1,10 @@
 ---
 title: "Capital Efficiency for the Modern Balance Sheet: Leveraging Core Holdings with Silent Authority"
-description: "Strategic capital efficiency through private credit and asset based lending. Enhance liquidity while preserving core holdings with institutional precision."
+description: "Strategic capital efficiency through private credit and asset based liquidity engineering. Enhance liquidity while preserving core holdings with institutional precision."
 date: "2026-02-25"
 author: "Jonas Hyltén"
 slug: "capital-efficiency:-leveraging-core-holdings"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
 ---
 
 # Capital Efficiency: Leveraging Core Holdings
@@ -21,15 +21,15 @@ Roials-Capital operates inside that space. The objective is simple. Extract liqu
 
   
 
-Private credit. Asset based lending. Crypto lending with a threshold of two million dollars. Public share lending with a threshold of five million dollars. Each product is a tool. The architecture is what matters.
+Private credit. Asset based liquidity engineering. Crypto liquidity engineering with a threshold of two million dollars. Public share liquidity engineering with a threshold of five million dollars. Each product is a tool. The architecture is what matters.
 
   
 
-This article maps the foundation of capital efficiency at the UHNW scale. It shows how core holdings become liquidity engines when paired with the correct lending architecture and precision underwriting.
+This article maps the foundation of capital efficiency at the UHNW scale. It shows how core holdings become liquidity engines when paired with the correct liquidity engineering architecture and precision underwriting.
 
 ## Toward a Structural Liquidity Ecosystem
 
-When private credit, ABL frameworks, crypto-backed facilities, and public share lending are unified under a single architecture, the portfolio transitions into a new state.
+When private credit, ABL frameworks, crypto-backed facilities, and public share liquidity engineering are unified under a single architecture, the portfolio transitions into a new state.
 
   
 
@@ -66,9 +66,9 @@ Roials-Capital provides the structural mechanics that transform core holdings in
   
 
 Private credit based facilities.  
-Asset based lending architecture.  
-Crypto collateral lending with a two million dollar threshold.  
-Public share lending with a five million dollar threshold.
+Asset based liquidity engineering architecture.  
+Crypto collateral liquidity engineering with a two million dollar threshold.  
+Public share liquidity engineering with a five million dollar threshold.
 
   
 

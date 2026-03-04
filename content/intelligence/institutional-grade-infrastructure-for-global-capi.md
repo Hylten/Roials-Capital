@@ -156,7 +156,7 @@ It is measured by five non negotiables.
 Not liquidity potential.  
 Certainty.
 
-Access to lending lines begins at:
+Access to liquidity engineering lines begins at:
 
 • Crypto collateral: 2M minimum  
 • Public shares: 5M minimum  
@@ -332,7 +332,7 @@ Private credit is absorbing the overflow.
 This creates underwriting opportunity for prepared Principals.
 
 ### Zone 2. Collateral Based Liquidity  
-Lending against crypto and public shares provides leverage without equity loss.  
+liquidity engineering against crypto and public shares provides leverage without equity loss.  
 Institutional visibility increases.  
 Dilution risk decreases.
 

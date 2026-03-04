@@ -1,10 +1,10 @@
 ---
 title: "Strategic Capital Migration for Global UHNWIs"
-description: "Institutional overview of strategic liquidity architecture, private credit, and asset based lending frameworks for global UHNW capital migration."
+description: "Institutional overview of strategic liquidity architecture, private credit, and asset based liquidity engineering frameworks for global UHNW capital migration."
 date: "2026-03-15"
 author: "Jonas Hyltén"
 slug: "strategic-capital-migration-for-global-uhnwis"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
 ---
 
 # Strategic Capital Migration for Global UHNWIs
@@ -25,7 +25,7 @@ This is the domain of strategic capital migration.
 
   
 
-Roials-Capital provides structural mechanics that enable cross-jurisdictional liquidity through private credit, asset based lending, public share lending, and institutional crypto lending. We do not sell products. We construct liquidity pathways that withstand scrutiny and volatility.
+Roials-Capital provides structural mechanics that enable cross-jurisdictional liquidity through private credit, asset based liquidity engineering, public share liquidity engineering, and institutional crypto liquidity engineering. We do not sell products. We construct liquidity pathways that withstand scrutiny and volatility.
 
   
 
@@ -51,7 +51,7 @@ Three conditions created this environment:
 
 • Accelerated regulatory tightening across traditional financial institutions  
 • Fragmentation between monetary policy zones  
-• Rapid growth in private markets and non bank lending channels  
+• Rapid growth in private markets and non bank liquidity engineering channels  
 
   
 
@@ -81,7 +81,7 @@ For our clients, private credit serves three core functions.
 
 ### 1. Liquidity Without Disposition
 
-Selling assets introduces tax events and erodes long term compounding. Borrowing against assets maintains ownership, preserves tax efficiency, and provides immediate movement capacity.
+Selling assets introduces tax events and erodes long term compounding. balance sheet optimization against assets maintains ownership, preserves tax efficiency, and provides immediate movement capacity.
 
   
 
@@ -103,9 +103,9 @@ Roials-Capital provides private credit solutions that are built for the top 0.1 
 
 ---
 
-## Asset Based Lending: The Structural Core
+## Asset Based liquidity engineering: The Structural Core
 
-Asset based lending is where capital migration becomes mechanical. ABL converts traditionally immobilized wealth into high velocity liquidity while maintaining full asset integrity and privacy.
+Asset based liquidity engineering is where capital migration becomes mechanical. ABL converts traditionally immobilized wealth into high velocity liquidity while maintaining full asset integrity and privacy.
 
   
 
@@ -135,17 +135,17 @@ Roials-Capital executes ABL with institutional governance and silent authority. 
 
 ---
 
-## Public Share Lending: High Velocity Liquidity at Scale
+## Public Share liquidity engineering: High Velocity Liquidity at Scale
 
 Public equity positions remain one of the most consistently underutilized forms of leverage in private wealth. Public shares carry liquidity but rarely deliver leverage at institutional terms unless engineered correctly.
 
   
 
-Roials-Capital provides public share lending for clients who meet the minimum threshold of 5,000,000 dollars in publicly listed securities. This threshold is intentional. It aligns with structures designed for principal investors, family offices, and sophisticated operators who require precision, not generic brokerage level margin.
+Roials-Capital provides public share liquidity engineering for clients who meet the minimum threshold of 5,000,000 dollars in publicly listed securities. This threshold is intentional. It aligns with structures designed for principal investors, family offices, and sophisticated operators who require precision, not generic brokerage level margin.
 
   
 
-Public share lending serves three purposes in strategic capital migration:
+Public share liquidity engineering serves three purposes in strategic capital migration:
 
   
 
@@ -161,19 +161,19 @@ When liquidity becomes architecture rather than reaction, public shares become a
 
 ---
 
-## Crypto Lending for the Institutional Tier
+## Crypto liquidity engineering for the Institutional Tier
 
-Crypto is now a recognized asset class for leverage at the UHNW level. However, crypto lending for retail markets bears no resemblance to institutional crypto lending. Roials-Capital operates exclusively at the institutional tier.
+Crypto is now a recognized asset class for leverage at the UHNW level. However, crypto liquidity engineering for retail markets bears no resemblance to institutional crypto liquidity engineering. Roials-Capital operates exclusively at the institutional tier.
 
   
 
-The minimum threshold for crypto lending is 2,000,000 dollars.  
+The minimum threshold for crypto liquidity engineering is 2,000,000 dollars.  
 
 This minimum ensures that we operate only in the domain where capital behaves structurally, not speculatively.
 
   
 
-UHNW crypto lending is built on three pillars:
+UHNW crypto liquidity engineering is built on three pillars:
 
   
 
@@ -187,7 +187,7 @@ Crypto, when treated as a structural asset rather than a speculative one, become
 
   
 
-Roials-Capital positions crypto lending within a disciplined institutional framework that removes noise and reinforces security.
+Roials-Capital positions crypto liquidity engineering within a disciplined institutional framework that removes noise and reinforces security.
 
   
 
@@ -301,7 +301,7 @@ This stack includes:
 
   
 
-• Immediate liquidity via share lending or crypto lending  
+• Immediate liquidity via share liquidity engineering or crypto liquidity engineering  
 • Mid term liquidity via ABL  
 • Long horizon liquidity via private credit structures  
 

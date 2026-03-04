@@ -4,7 +4,7 @@ description: "A deep institutional analysis of how yield transforms private cred
 date: "2026-03-29"
 author: "Jonas Hyltén"
 slug: "the-role-of-yield-in-asset-hardening"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
 ---
 
 # The Role of Yield in Asset Hardening
@@ -15,7 +15,7 @@ It is not a marketing label and not a product category.
 
 It is an operational principle that determines whether a balance sheet becomes a static reservoir or a compounding engine.  
 
-In private credit and asset based lending, yield is the frame that binds structure to purpose.  
+In private credit and asset based liquidity engineering, yield is the frame that binds structure to purpose.  
 
 When engineered correctly, yield converts risk-bearing assets into liquidity instruments.  
 
@@ -43,7 +43,7 @@ Our architecture is designed for HNWI and UHNW individuals who require:
 
 Yield integrates these components.  
 
-It converts disparate asset classes into a harmonized lending ecosystem.  
+It converts disparate asset classes into a harmonized liquidity engineering ecosystem.  
 
 It ensures durability.  
 
@@ -83,7 +83,7 @@ Without it, assets remain static.
 
 With it, assets become strategic instruments.  
 
-Roials-Capital structures private credit, asset based lending, crypto lending, and public share lending with silent institutional authority.  
+Roials-Capital structures private credit, asset based liquidity engineering, crypto liquidity engineering, and public share liquidity engineering with silent institutional authority.  
 
 The result is predictable liquidity.  
 

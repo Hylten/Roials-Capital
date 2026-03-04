@@ -23,7 +23,7 @@ This is the calculus.
 
 ### The Discipline of Preemption
 
-By the time a loan deteriorates on paper, it has already deteriorated operationally.
+By the time a liquidity facility deteriorates on paper, it has already deteriorated operationally.
 
 Execution velocity demands preemption.
 
@@ -55,13 +55,13 @@ Risk is revealed during turbulence.
 
 ## Institutional Thresholds for Private Credit
 
-Institutional lending is defined by thresholds.  
+Institutional liquidity engineering is defined by thresholds.  
 Below these thresholds, the risk calculus becomes distorted.
 
 Roials Capital maintains strict minimums:
 
-- Crypto lending: 2M minimum exposure.  
-- Public shares lending: 5M minimum exposure.
+- Crypto liquidity engineering: 2M minimum exposure.  
+- Public shares liquidity engineering: 5M minimum exposure.
 
 Below these levels, structural alignment collapses.  
 Above them, the borrower’s sophistication aligns with institutional governance standards.
@@ -151,7 +151,7 @@ We engage only when:
 - The collateral can bear institutional scrutiny under stress.  
 - The structure can withstand multi-quarter turbulence.  
 - The leadership is aligned with biblical stewardship.  
-- The loan advances dominion, order, and growth.
+- The liquidity facility advances dominion, order, and growth.
 
 ## The Geometry of Downside Control
 
@@ -188,7 +188,7 @@ The principal lens asks a single question:
 
 If everything breaks, do we still prevail.
 
-If the answer is no, the loan is rejected.  
+If the answer is no, the liquidity facility is rejected.  
 If the answer is yes, terms are quantified.  
 If the answer is absolute, capital deploys.
 

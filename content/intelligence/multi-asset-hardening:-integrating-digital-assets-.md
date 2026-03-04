@@ -1,14 +1,14 @@
 ---
-title: "Multi‑Asset Hardening for Fund III: Integrating Digital Assets Into Institutional Lending Architecture"
-description: "Institutional overview of liquidity engineering and asset based lending, with a focus on digital asset integration for HNWI and UHNW clients."
+title: "Multi‑Asset Hardening for Fund III: Integrating Digital Assets Into Institutional liquidity engineering Architecture"
+description: "Institutional overview of liquidity engineering and asset based liquidity engineering, with a focus on digital asset integration for HNWI and UHNW clients."
 date: "2026-03-08"
 author: "Jonas Hyltén"
 slug: "multi-asset-hardening:-integrating-digital-assets-"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
 ---
 
 # Multi Asset Hardening for Fund III  
-Integrating Digital Assets Into Institutional Lending Architecture
+Integrating Digital Assets Into Institutional liquidity engineering Architecture
 
 Multi asset hardening has become a defining requirement for HNWI and UHNW allocators who manage cross class exposure in an environment of rising structural fragility.
 
@@ -24,9 +24,9 @@ We lend against private credit and asset based structures, and we extend collate
 
 The thresholds are explicit.  
 
-Crypto lending begins at two million dollars.  
+Crypto liquidity engineering begins at two million dollars.  
 
-Public share lending begins at five million dollars.
+Public share liquidity engineering begins at five million dollars.
 
   
 
@@ -66,7 +66,7 @@ Cross regime performance stability.
 
   
 
-If any of the three weaken, the entire structure becomes reactive rather than directive. At Roials Capital, the lending programs exist to ensure that portfolio liquidity is not at the mercy of market timing.
+If any of the three weaken, the entire structure becomes reactive rather than directive. At Roials Capital, the liquidity engineering programs exist to ensure that portfolio liquidity is not at the mercy of market timing.
 
   
 
@@ -103,7 +103,7 @@ Roials Capital uses digital assets only when the position meets or exceeds the t
 The architecture is rules based. It does not chase performance.  
 It captures collateral efficiency.
 
-## Public Share Lending  
+## Public Share liquidity engineering  
 A Counterweight to Market Friction
 
 Public equities provide a different type of collateral elasticity.  
@@ -113,15 +113,15 @@ They carry market visibility.
 
   
 
-Visibility matters because it allows Roials Capital to construct lending environments that can model liquidation curves with high precision.  
+Visibility matters because it allows Roials Capital to construct liquidity engineering environments that can model liquidation curves with high precision.  
 
 This is why the threshold is set at five million dollars.  
 
-At this level, the share blocks possess institutional weight and avoid fragmentation that would undermine loan integrity.
+At this level, the share blocks possess institutional weight and avoid fragmentation that would undermine liquidity facility integrity.
 
   
 
-Public share lending becomes a stabilizer for Fund III.  
+Public share liquidity engineering becomes a stabilizer for Fund III.  
 It introduces a predictable and transparent collateral dimension that aligns with the structural needs of multi asset hardening.
 
 ## Private Credit and ABL  
@@ -256,7 +256,7 @@ They want controlled leverage that preserves long term exposure while creating s
 
   
 
-Roials Capital structures lending so that collateral remains intact.  
+Roials Capital structures liquidity engineering so that collateral remains intact.  
 The positions continue to compound.  
 The liquidity unlocked can be directed toward new opportunities or strategic obligations.
 

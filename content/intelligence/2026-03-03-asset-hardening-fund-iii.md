@@ -11,4 +11,4 @@ keywords: "Asset Hardening, Fund III, Institutional Capital, Principal-led Execu
 
 ## High-Barrier CTA: Request an Architectural Audit
 
-Ready to lead at the sovereign level? Request a confidential **Architectural Audit for Fund III Migration**—because standard is not enough when the stakes are elite.
+Ready to lead at the sovereign level? Request a confidential **Architectural Audit for Fund III Migration**-because standard is not enough when the stakes are elite.

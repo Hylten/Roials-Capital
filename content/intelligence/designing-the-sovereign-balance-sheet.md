@@ -1,10 +1,10 @@
 ---
 title: "Designing the Sovereign Balance Sheet: A Structural Blueprint for Private Liquidity Architecture"
-description: "A high-authority guide to liquidity engineering, private credit, and asset based lending for HNWI and UHNW individuals seeking institutional grade balance sheet design."
+description: "A high-authority guide to liquidity engineering, private credit, and asset based liquidity engineering for HNWI and UHNW individuals seeking institutional grade balance sheet design."
 date: "2026-02-28"
 author: "Jonas Hyltén"
 slug: "designing-the-sovereign-balance-sheet"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
 ---
 
 # Designing the Sovereign Balance Sheet
@@ -19,11 +19,11 @@ At Roials Capital we operate inside that hierarchy.
 
 We treat every client as a sovereign entity, not a participant. Our work is not advisory. It is structural engineering for private capital.  
 
-We lend against private credit and asset based lending.  
+We lend against private credit and asset based liquidity engineering.  
 
 We provide institutional scale liquidity against crypto positions with a minimum threshold of 2,000,000.  
 
-We provide public share lending with a minimum threshold of 5,000,000.  
+We provide public share liquidity engineering with a minimum threshold of 5,000,000.  
 
 We operate quietly, with silent authority. We design the architecture that governs the movement of capital for HNWI and UHNW individuals who require precision and discretion.  
 
@@ -65,15 +65,15 @@ Clients often enter with a familiar pattern. A concentration of assets in busine
 
 Our role is to architect an arrangement that extracts liquidity without destabilizing the client’s control.  
 
-This is where asset based lending becomes central.  
+This is where asset based liquidity engineering becomes central.  
 
 ABL allows us to convert dormant value into active capital.  
 
 Private credit allows us to capture yield inside a controlled contractual environment.  
 
-Crypto lending allows us to mobilize digital wealth without forcing conversion events.  
+Crypto liquidity engineering allows us to mobilize digital wealth without forcing conversion events.  
 
-Public share lending allows us to create liquidity while maintaining exposure to market movements.  
+Public share liquidity engineering allows us to create liquidity while maintaining exposure to market movements.  
 
 Each instrument behaves differently on a balance sheet. Our work is to determine the exact configuration that preserves autonomy while expanding liquidity.  
 
@@ -97,7 +97,7 @@ It is why we lend against asset based collateral.
 
 It is why we provide liquidity against crypto positions with a minimum threshold of 2,000,000.  
 
-It is why we structure public share lending for positions above 5,000,000.  
+It is why we structure public share liquidity engineering for positions above 5,000,000.  
 
 These mechanisms do not exist to increase leverage. They exist to maintain sovereignty.  
 
@@ -123,9 +123,9 @@ A sovereign balance sheet does not depend on a single operator. It must behave a
 
 The architecture is designed to be intergenerational.  
 
-## Asset Based Lending as Architectural Foundation
+## Asset Based liquidity engineering as Architectural Foundation
 
-Asset based lending is not a borrowing event. It is a structural tool.  
+Asset based liquidity engineering is not a balance sheet optimization event. It is a structural tool.  
 
 It allows us to mobilize value without dismantling the core asset.  
 
@@ -133,7 +133,7 @@ Real estate becomes a liquidity engine instead of a static holding.
 
 Private equity shares become capital sources instead of locked assets.  
 
-Inventory, machinery, royalty streams, and specialized assets can be placed inside lending structures that maintain the client’s control while generating deployable liquidity.  
+Inventory, machinery, royalty streams, and specialized assets can be placed inside liquidity engineering structures that maintain the client’s control while generating deployable liquidity.  
 
 ABL is the foundation because it creates predictability.  
 
@@ -161,29 +161,29 @@ Liquidity becomes opportunity.
 
 Opportunity becomes structural advantage.  
 
-## Crypto Lending for Digital Sovereigns
+## Crypto liquidity engineering for Digital Sovereigns
 
 Crypto has become a large component of modern UHNW portfolios. The challenge is volatility, custody, and extraction.  
 
 Liquidating a crypto position often disrupts long term strategy. It creates tax events. It destroys compounding potential.  
 
-Institutional grade crypto lending solves this.  
+Institutional grade crypto liquidity engineering solves this.  
 
-Our crypto lending minimum threshold is 2,000,000.  
+Our crypto liquidity engineering minimum threshold is 2,000,000.  
 
 This threshold allows us to provide institutional counterparties and stable collateral procedures. It removes retail risk and maintains the sovereign framework.  
 
 Crypto becomes a component of the balance sheet like any other asset. Not exotic. Not fragile. Controlled.  
 
-## Public Share Lending for Scale
+## Public Share liquidity engineering for Scale
 
-Public share lending provides the same flexibility institutions have used for decades to maintain exposure while extracting liquidity.  
+Public share liquidity engineering provides the same flexibility institutions have used for decades to maintain exposure while extracting liquidity.  
 
 Our minimum threshold is 5,000,000.  
 
 This ensures that the structure is treated as an institutional facility.  
 
-Public share lending prevents unnecessary liquidation and allows capital to be redeployed with surgical precision.  
+Public share liquidity engineering prevents unnecessary liquidation and allows capital to be redeployed with surgical precision.  
 
 It is a quiet instrument. It moves in the background. It preserves market exposure while expanding operational capability.  
 
@@ -235,7 +235,7 @@ Our clients enter that framework. They do not shop for it.
 
 The structures we create are designed for individuals who operate at scale. They require discretion, stability, and engineered power.  
 
-Our lending capabilities against private credit, asset based collateral, crypto, and public shares are expressions of that architecture.  
+Our liquidity engineering capabilities against private credit, asset based collateral, crypto, and public shares are expressions of that architecture.  
 
 Not products. Not services. Structural mechanics.  
 

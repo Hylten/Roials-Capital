@@ -1,10 +1,10 @@
 ---
 title: "Strategic Asset Allocation for Long-Term Liquidity: The Architecture of Durable Capital"
-description: "A high-level liquidity framework for HNWI and UHNW investors using private credit and asset-based lending to engineer long-term optionality."
+description: "A high-level liquidity framework for HNWI and UHNW investors using private credit and asset-based liquidity engineering to engineer long-term optionality."
 date: "2026-03-14"
 author: "Jonas Hyltén"
 slug: "strategic-asset-allocation-for-long-term-liquidity"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
 ---
 
 # Strategic Asset Allocation for Long-Term Liquidity  
@@ -17,7 +17,7 @@ It has become an operational necessity, a structural discipline, and a defining 
    
 At Roials-Capital, liquidity is not treated as a momentary buffer.  
    
-It is engineered as an asset class, shaped through private credit, asset‑based structures, and collateralized lending frameworks that allow capital to remain functional without compromising ownership of core positions.  
+It is engineered as an asset class, shaped through private credit, asset‑based structures, and collateralized liquidity engineering frameworks that allow capital to remain functional without compromising ownership of core positions.  
    
    
 This article outlines the architecture of strategic asset allocation designed for High Net Worth and Ultra High Net Worth individuals.  
@@ -47,9 +47,9 @@ It is durable, predictable, and structurally stable.
    
 Our thresholds are deliberate.  
    
-Crypto lending begins at 2 million dollars.  
+Crypto liquidity engineering begins at 2 million dollars.  
    
-Public share lending begins at 5 million dollars.  
+Public share liquidity engineering begins at 5 million dollars.  
    
 Private credit collateralization functions at scale.  
    
@@ -89,7 +89,7 @@ And capital remains functional across cycles, regardless of external volatility.
    
 This is the architecture that Roials-Capital builds.  
    
-Not reactive lending.  
+Not reactive liquidity engineering.  
    
 Not episodic liquidity.  
    
@@ -109,7 +109,7 @@ A structural advantage.
 A competitive edge.  
    
    
-HNWI and UHNW investors who integrate asset-based lending, private credit collateralization, and multi‑layer liquidity frameworks gain access to mobility that compounds across decades.  
+HNWI and UHNW investors who integrate asset-based liquidity engineering, private credit collateralization, and multi‑layer liquidity frameworks gain access to mobility that compounds across decades.  
    
 They operate with institutional precision.  
    

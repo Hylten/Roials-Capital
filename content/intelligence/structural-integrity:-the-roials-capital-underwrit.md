@@ -42,7 +42,7 @@ If a principal embodies all three, the relationship accelerates.
 # Pillar One  
 ## Asset Hardening
 
-Institutional-grade lending requires assets that withstand force.  
+Institutional-grade liquidity engineering requires assets that withstand force.  
 Force from markets.  
 Force from regulators.  
 Force from liquidity cycles.
@@ -220,12 +220,12 @@ We test for:
 
 When a structure passes all sequences, it qualifies for Roials credit mechanisms.
 
-# Lending Thresholds
+# liquidity engineering Thresholds
 
 Roials Capital adheres to minimum thresholds to maintain institutional discipline.
 
-Crypto secured lending. Minimum 2M.  
-Public shares secured lending. Minimum 5M.  
+Crypto secured liquidity engineering. Minimum 2M.  
+Public shares secured liquidity engineering. Minimum 5M.  
 Private credit engagements scale materially beyond these baselines.
 
 # Structural Integrity as a Competitive Advantage
@@ -353,7 +353,7 @@ Only Tier One and refined Tier Two principals proceed.
 Capital is a trust.  
 It is not an entitlement.
 
-We view lending through a Christian conservative lens.  
+We view liquidity engineering through a Christian conservative lens.  
 This means:
 
 - honoring commitments  

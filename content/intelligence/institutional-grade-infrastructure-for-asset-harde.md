@@ -1,10 +1,10 @@
 ---
 title: "Institutional Grade Infrastructure for Asset Hardening"
-description: "Institutional liquidity architecture for HNWI and UHNW investors, focused on private credit and asset based lending frameworks."
+description: "Institutional liquidity architecture for HNWI and UHNW investors, focused on private credit and asset based liquidity engineering frameworks."
 date: "2026-03-02"
 author: "Jonas Hyltén"
 slug: "institutional-grade-infrastructure-for-asset-harde"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
 ---
 
 # Institutional Grade Infrastructure for Asset Hardening
@@ -13,7 +13,7 @@ Asset hardening is no longer a defensive strategy.
 It is architecture.  
 It is intentional design for capital that must remain functional under stress.  
 
-Roials-Capital positions itself at the intersection of private credit, asset based lending, and structural liquidity engineering.  
+Roials-Capital positions itself at the intersection of private credit, asset based liquidity engineering, and structural liquidity engineering.  
 The mandate is simple.  
 Protect the underlying asset, preserve mobility of capital, and maintain silent authority over the financial mechanics that govern multi jurisdictional wealth.  
 
@@ -90,7 +90,7 @@ Every element is designed to withstand scrutiny and pressure.
 The systems are predictable.  
 The outcomes are engineered.  
 
-Roials-Capital applies this discipline to private credit, asset based lending, and collateralized structures for high stakes portfolios.  
+Roials-Capital applies this discipline to private credit, asset based liquidity engineering, and collateralized structures for high stakes portfolios.  
 
 ## End State: Hardened Wealth, Liquid Capability
 

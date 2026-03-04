@@ -1,15 +1,15 @@
 ---
-title: "Asset Based Lending As A Primary Sovereign Mandate"
-description: "Asset Based Lending As A Primary Sovereign Mandate"
+title: "Asset Based liquidity engineering As A Primary Sovereign Mandate"
+description: "Asset Based liquidity engineering As A Primary Sovereign Mandate"
 date: "2026-02-24"
 author: "Jonas Hyltén"
-slug: "asset-based-lending-as-a-primary-sovereign-mandate"
+slug: "asset-based-liquidity engineering-as-a-primary-sovereign-mandate"
 keywords: "private credit, ABL, liquidity"
 ---
 
-# Asset Based Lending as a Primary Sovereign Mandate
+# Asset Based liquidity engineering as a Primary Sovereign Mandate
 
-Asset based lending has shifted from a tactical financing instrument into a sovereign mandate for capital principals.
+Asset based liquidity engineering has shifted from a tactical financing instrument into a sovereign mandate for capital principals.
 
 This is no longer a peripheral liquidity function.
 
@@ -36,7 +36,7 @@ Frameworks that maintain:
 - Clear incentives.
 - Risk discipline.
 
-Asset based lending aligns capital to structure, not mood.
+Asset based liquidity engineering aligns capital to structure, not mood.
 
 This is what makes it sovereign.
 
@@ -46,10 +46,10 @@ It is influenced only by covenant integrity.
 
 ## The Two Thresholds
 
-Roials Capital maintains two non-negotiable lending floors.
+Roials Capital maintains two non-negotiable liquidity engineering floors.
 
-- Crypto lending at a minimum of two million dollars.
-- Public shares lending at a minimum of five million dollars.
+- Crypto liquidity engineering at a minimum of two million dollars.
+- Public shares liquidity engineering at a minimum of five million dollars.
 
 These thresholds force discipline.
 
@@ -71,7 +71,7 @@ Liquidity is the lever.
 
 Control of liquidity is the strategic weapon.
 
-Asset based lending allows principals to:
+Asset based liquidity engineering allows principals to:
 
 - Expand without dilution.
 - Acquire without political dependencies.
@@ -79,7 +79,7 @@ Asset based lending allows principals to:
 - Consolidate without noise.
 - Scale while retaining sovereignty.
 
-Every lending cycle becomes an expansion of authority.
+Every liquidity engineering cycle becomes an expansion of authority.
 
 The principal who masters private credit becomes immune to market stagnation.
 
@@ -103,7 +103,7 @@ It produces predictable flows.
 
 And most critically, it aligns incentives between borrower and lender in a way that rhetoric cannot counterfeit.
 
-Collateral backed lending is the only financing method where both sides are forced into integrity.
+Collateral backed liquidity engineering is the only financing method where both sides are forced into integrity.
 
 ## Execution Velocity
 
@@ -117,7 +117,7 @@ Markets reward velocity.
 
 Institutional mandates demand velocity.
 
-Asset based lending enhances velocity because assets carry more signal than projections.
+Asset based liquidity engineering enhances velocity because assets carry more signal than projections.
 
 Collateral eliminates narrative drag.
 
@@ -131,7 +131,7 @@ Velocity is a mark of authority.
 
 Equity dilution is a form of sovereignty loss.
 
-Asset based lending provides liquidity without surrendering ownership.
+Asset based liquidity engineering provides liquidity without surrendering ownership.
 
 This preserves:
 
@@ -163,17 +163,17 @@ The principal is not inside the market.
 
 The principal stands above it.
 
-Asset based lending provides that elevation.
+Asset based liquidity engineering provides that elevation.
 
 ## How HNWI and UHNW Stewards Weaponize the Mandate
 
-The most sophisticated families use asset based lending as a cycle stabilizer.
+The most sophisticated families use asset based liquidity engineering as a cycle stabilizer.
 
 They do not time markets.
 
 They dominate cycles.
 
-They maintain lending lines against:
+They maintain liquidity engineering lines against:
 
 - Equity blocks.
 - Private shares.
@@ -195,7 +195,7 @@ Fund III+ managers face three critical pressures.
 2. Redemption cycles.
 3. Allocation scrutiny.
 
-Asset based lending solves all three.
+Asset based liquidity engineering solves all three.
 
 With the right structures, it creates:
 
@@ -224,7 +224,7 @@ Every transaction is governed by covenant integrity.
 
 ## Closing Position
 
-Asset based lending is not a tactic.
+Asset based liquidity engineering is not a tactic.
 
 It is a sovereign mandate.
 

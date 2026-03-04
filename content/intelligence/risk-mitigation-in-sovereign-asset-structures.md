@@ -1,10 +1,10 @@
 ---
 title: "Risk Mitigation in Sovereign Asset Structures: Architecting Stability for Institutional Capital"
-description: "An institutional examination of risk mitigation mechanics within sovereign asset structures, with emphasis on liquidity, private credit, and asset based lending frameworks."
+description: "An institutional examination of risk mitigation mechanics within sovereign asset structures, with emphasis on liquidity, private credit, and asset based liquidity engineering frameworks."
 date: "2026-03-11"
 author: "Jonas Hyltén"
 slug: "risk-mitigation-in-sovereign-asset-structures"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
 ---
 
 # Risk Mitigation in Sovereign Asset Structures
@@ -52,7 +52,7 @@ Within this matrix, sovereign assets act as stabilizing fields. They ensure dura
 
   
 
-Roials-Capital integrates this logic when lending against private credit structures or asset based lending frameworks. Our goal is to ensure that no capital event disrupts the hierarchy of control.
+Roials-Capital integrates this logic when liquidity engineering against private credit structures or asset based liquidity engineering frameworks. Our goal is to ensure that no capital event disrupts the hierarchy of control.
 
   
 
@@ -104,9 +104,9 @@ In practice, this strengthens the sovereign architecture. Private credit becomes
 
   
 
-## Asset Based Lending Within Sovereign Structures
+## Asset Based liquidity engineering Within Sovereign Structures
 
-Asset based lending, when placed inside a sovereign architecture, must adhere to stricter design parameters.
+Asset based liquidity engineering, when placed inside a sovereign architecture, must adhere to stricter design parameters.
 
   
 
@@ -116,7 +116,7 @@ The realization path must be predictable.
 
   
 
-ABL at Roials-Capital is not treated as a transactional lending activity. It is treated as a structural component of the broader sovereign asset system.
+ABL at Roials-Capital is not treated as a transactional liquidity engineering activity. It is treated as a structural component of the broader sovereign asset system.
 
   
 
@@ -164,12 +164,12 @@ We treat liquidity not as an event but as an engineered output.
 
   
 
-This is why minimum thresholds are required for advanced lending products.
+This is why minimum thresholds are required for advanced liquidity engineering products.
 
   
 
-Crypto lending begins at two million dollars.  
-Public share lending begins at five million dollars.  
+Crypto liquidity engineering begins at two million dollars.  
+Public share liquidity engineering begins at five million dollars.  
 
 These thresholds ensure that liquidity extraction does not destabilize asset behavior. The size itself creates the structural discipline needed for proper oversight.
 
@@ -287,7 +287,7 @@ This threshold is intentional. It filters out the volatility-driven tier and pro
 
   
 
-Crypto lending is treated as a hybrid asset class.  
+Crypto liquidity engineering is treated as a hybrid asset class.  
 It requires:
 
   
@@ -309,7 +309,7 @@ Only when these conditions are met can digital assets be harmonized into a sover
 
   
 
-## Public Share Lending at Scale
+## Public Share liquidity engineering at Scale
 
 Public shares behave as dynamic collateral.  
 Their value fluctuates. Their liquidity fluctuates.  
@@ -413,7 +413,7 @@ The structures must evolve with it.
   
 
 Private credit.  
-Asset based lending.  
+Asset based liquidity engineering.  
 Digital asset collateral.  
 Public market positions.  
 

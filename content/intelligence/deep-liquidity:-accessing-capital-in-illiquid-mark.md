@@ -1,10 +1,10 @@
 ---
 title: "Deep Liquidity Architecture: Accessing Capital in Illiquid Markets"
-description: "Institutional analysis of deep liquidity mechanics and asset based lending strategies for HNWI and UHNW clients navigating illiquid markets."
+description: "Institutional analysis of deep liquidity mechanics and asset based liquidity engineering strategies for HNWI and UHNW clients navigating illiquid markets."
 date: "2026-02-27"
 author: "Jonas Hyltén"
 slug: "deep-liquidity:-accessing-capital-in-illiquid-mark"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
 ---
 
 # Deep Liquidity: Accessing Capital in Illiquid Markets
@@ -17,7 +17,7 @@ A smaller cohort, the structurally advantaged cohort, leverages liquidity engine
 
 Roials-Capital occupies that structural layer.  
 
-We provide private credit and asset based lending solutions that unlock liquidity where the traditional system defaults to friction. 
+We provide private credit and asset based liquidity engineering solutions that unlock liquidity where the traditional system defaults to friction. 
 
 ## Risk Discipline: The Invisible Backbone of Liquidity
 
@@ -29,7 +29,7 @@ We apply risk modeling that respects the underlying asset rather than the market
 This includes:  
 
 • Conservative collateral valuation.  
-• Controlled loan to value structures.  
+• Controlled liquidity facility to value structures.  
 • Stress tested withdrawal mechanics.  
 • Clear margin logic without predatory triggers.  
 • Custodial integrity across complex asset classes.  
@@ -45,7 +45,7 @@ When volatility increases, access decreases.
 
 Non market dependent liquidity inverts that reality.  
 
-Our private credit and asset based lending structures remain functional in:  
+Our private credit and asset based liquidity engineering structures remain functional in:  
 
 • Low volume markets.  
 • High volatility environments.  

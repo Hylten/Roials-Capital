@@ -1,10 +1,10 @@
 ---
 title: "Institutional Liquidity Architecture for Real Estate Sovereigns"
-description: "A high-authority examination of institutional liquidity mechanics for real estate sovereigns, with emphasis on private credit and asset based lending frameworks."
+description: "A high-authority examination of institutional liquidity mechanics for real estate sovereigns, with emphasis on private credit and asset based liquidity engineering frameworks."
 date: "2026-03-04"
 author: "Jonas Hyltén"
 slug: "institutional-liquidity-for-real-estate-sovereigns"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
 ---
 
 # Institutional Liquidity for Real Estate Sovereigns
@@ -55,7 +55,7 @@ Liquidity is no longer a resource.
 It is an architectural decision.  
 
 Private credit.  
-Asset Based Lending.  
+Asset Based liquidity engineering.  
 Crypto positions.  
 Public equity.  
 

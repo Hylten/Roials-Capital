@@ -244,17 +244,17 @@ This involves:
 If any actor can modify asset behavior through discretion, the structure is insecure.
 
   
-## Hardening Frameworks for Institutional Lending
+## Hardening Frameworks for Institutional liquidity engineering
 
-Roials operates with specific lending thresholds:
+Roials operates with specific liquidity engineering thresholds:
 
-- Crypto backed lending begins at 2M  
-- Public share backed lending begins at 5M  
+- Crypto backed liquidity engineering begins at 2M  
+- Public share backed liquidity engineering begins at 5M  
 
 Below these thresholds, structural alignment is optional.  
 At or above these thresholds, alignment is mandatory.
 
-Institutional lending depends on three factors:
+Institutional liquidity engineering depends on three factors:
 
 - Hard collateral  
 - Transparent jurisdictional posture  

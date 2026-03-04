@@ -4,7 +4,7 @@ description: "A technical exploration of portfolio‑backed liquidity structures
 date: "2026-03-24"
 author: "Jonas Hyltén"
 slug: "the-mechanics-of-portfolio-backed-liquidity"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
 ---
 
 # The Mechanics of Portfolio‑Backed Liquidity
@@ -64,7 +64,7 @@ This maintains the integrity of the portfolio while providing immediate access t
 
 As private capital becomes more sophisticated, liquidity requirements will evolve.  
 
-The next decade will see a shift from transactional lending toward architectural liquidity.  
+The next decade will see a shift from transactional liquidity engineering toward architectural liquidity.  
 
 This means that the structure itself becomes part of the portfolio’s design.
 

@@ -1,10 +1,10 @@
 ---
 title: "Architecting Asset Hardening for Executive Portfolios"
-description: "An institutional exploration of liquidity engineering, private credit, and asset based lending frameworks for HNWI and UHNW portfolios."
+description: "An institutional exploration of liquidity engineering, private credit, and asset based liquidity engineering frameworks for HNWI and UHNW portfolios."
 date: "2026-02-25"
 author: "Jonas Hyltén"
 slug: "asset-hardening-for-executive-portfolios"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
 ---
 
 # Asset Hardening for Executive Portfolios
@@ -18,7 +18,7 @@ It is architectural.
   
 Executives who operate at the top tiers of capital flow require systems that insulate, simplify, and extend their financial power. Roials Capital exists within that structural domain. Our role is to provide institutional grade mechanics, liquidity access, and the type of quiet infrastructure that ensures a portfolio becomes more resilient as it grows.
 
-This article outlines how asset hardening functions for HNWI and UHNW individuals, and how private credit, asset based lending, and threshold oriented lending protocols create a controlled environment for long term capital authority.
+This article outlines how asset hardening functions for HNWI and UHNW individuals, and how private credit, asset based liquidity engineering, and threshold oriented liquidity engineering protocols create a controlled environment for long term capital authority.
 
 ## Engineering Liquidity Without Erosion
 
@@ -44,7 +44,7 @@ A portfolio that can withstand volatility, adjust without disruption, and genera
 This is not short term optimization. It is generational engineering.
 
   
-Through private credit lending, ABL systems, crypto collateral structures, and public share lending at institutional thresholds, executives build a capital environment that outperforms market cycles and maintains stability even in unpredictable conditions.
+Through private credit liquidity engineering, ABL systems, crypto collateral structures, and public share liquidity engineering at institutional thresholds, executives build a capital environment that outperforms market cycles and maintains stability even in unpredictable conditions.
 
 It is engineered strength. Quiet. Controlled. Scalable.
 

@@ -1,10 +1,10 @@
 ---
 title: "Wealth Mobility and Borderless Crypto Collateral for Institutional-Grade M&A"
-description: "Institutional analysis of liquidity engineering using private credit and asset based lending structures for global M&A. Includes crypto collateralization pathways for HNWI and UHNW liquidity events."
+description: "Institutional analysis of liquidity engineering using private credit and asset based liquidity engineering structures for global M&A. Includes crypto collateralization pathways for HNWI and UHNW liquidity events."
 date: "2026-04-02"
 author: "Jonas Hyltén"
 slug: "wealth-mobility-using-borderless-crypto-collateral"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
 ---
 
 # Wealth Mobility: Using Borderless Crypto Collateral for Traditional M&A
@@ -36,7 +36,7 @@ In this landscape, crypto collateral serves as a strategic enabler.
 
 It accelerates acquisition timelines.  
 It protects digital exposure.  
-It reduces dependency on traditional borrowing.  
+It reduces dependency on traditional balance sheet optimization.  
 It aligns with the cross border reality of modern capital flows.  
 
 The future of M&A is not decentralized.  

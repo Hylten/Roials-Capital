@@ -1,10 +1,10 @@
 ---
 title: "Liquidity Architecture for Fund III Expansion: Structural Mechanics for Institutional-Grade Capital"
-description: "An institutional analysis of liquidity architecture, private credit, and asset based lending designed for HNWI and UHNW capital expansion."
+description: "An institutional analysis of liquidity architecture, private credit, and asset based liquidity engineering designed for HNWI and UHNW capital expansion."
 date: "2026-03-07"
 author: "Jonas Hyltén"
 slug: "liquidity-architecture-for-fund-iii-expansion"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
 ---
 
 # Liquidity Architecture for Fund III Expansion
@@ -15,7 +15,7 @@ Liquidity is the instrument that sets the rhythm for capital velocity, credit fo
 Fund III was designed with a singular purpose.  
 To build a liquidity architecture that absorbs volatility, allocates precision, and strengthens the balance sheet of high conviction participants.  
 
-This paper outlines the structural mechanics that guide our lending framework across private credit, asset based lending, public share lending, and institutional crypto credit.  
+This paper outlines the structural mechanics that guide our liquidity engineering framework across private credit, asset based liquidity engineering, public share liquidity engineering, and institutional crypto credit.  
 
 It is not a pitch.  
 It is an architectural brief.
@@ -30,7 +30,7 @@ When liquidity becomes a premium asset, the entities capable of manufacturing it
 Roials Capital was built to operate in that upper tier.  
 
 Private credit has entered a maturation phase.  
-Asset based lending has moved from a specialist tool into a core allocation.  
+Asset based liquidity engineering has moved from a specialist tool into a core allocation.  
 And the HNWI and UHNW segment demands capital solutions that mirror institutional precision rather than retail flexibility.  
 
 The architecture of Fund III mirrors these conditions.  
@@ -46,7 +46,7 @@ It is about structure.
 The architecture of liquidity at Roials Capital is shaped by three principles.  
 
 1. Collateral integrity across cycles.  
-2. Velocity control through measured loan to value.  
+2. Velocity control through measured liquidity facility to value.  
 3. A foundation built on silent authority, not promotional noise.  
 
 Markets reward structures that remain coherent under stress.  
@@ -62,24 +62,24 @@ When uncertainty compresses, liquidity becomes cheaper to create.
 
 HNWI and UHNW participants require credit that behaves like an operating system, not a speculative trade.  
 
-Our lending against private credit positions focuses on:  
+Our liquidity engineering against private credit positions focuses on:  
 • Quality of seniority.  
 • Recoverability under liquidation scenarios.  
-• Temporal matching of loan duration with asset behavior.  
+• Temporal matching of liquidity facility duration with asset behavior.  
 
 This allows us to structure liquidity in a manner that remains uncorrelated with retail credit cycles.  
 
 It also ensures that the participant, the asset, and the fund remain aligned under all macro conditions.  
 
-## Asset Based Lending as a Precision Instrument
+## Asset Based liquidity engineering as a Precision Instrument
 
-Asset based lending is sometimes framed as a defensive tool.  
+Asset based liquidity engineering is sometimes framed as a defensive tool.  
 At Roials Capital it functions as a precision instrument that supports calculated expansion.  
 
 Collateral is not viewed as security.  
 Collateral is viewed as geometry.  
 
-The geometry of the asset dictates the geometry of the loan.  
+The geometry of the asset dictates the geometry of the liquidity facility.  
 Liquidity is shaped around the collateral, not the other way around.  
 
 Our ABL framework supports:  
@@ -92,9 +92,9 @@ What matters is the asset’s precision under valuation stress.
 
 This is the institutional threshold that defines our approach.  
 
-## Crypto Lending at Institutional Scale
+## Crypto liquidity engineering at Institutional Scale
 
-Crypto lending is not a retail activity at Roials Capital.  
+Crypto liquidity engineering is not a retail activity at Roials Capital.  
 Our minimum threshold is 2,000,000.  
 
 This preserves structural integrity.  
@@ -103,20 +103,20 @@ It allows us to maintain institutional level underwriting while avoiding the vol
 The objective is not speculative leverage.  
 The objective is controlled liquidity extraction from digital collateral that behaves predictably under professional custody.  
 
-Fund III integrates crypto lending only where the digital asset functions like an institutional asset.  
-Liquidity is manufactured through conservative loan to value, multi-tier collateral monitoring, and limited duration structures that protect the fund.  
+Fund III integrates crypto liquidity engineering only where the digital asset functions like an institutional asset.  
+Liquidity is manufactured through conservative liquidity facility to value, multi-tier collateral monitoring, and limited duration structures that protect the fund.  
 
 Crypto is not the frontier.  
 Crypto is simply another collateral class when treated with correct architectural discipline.  
 
-## Public Share Lending and the 5,000,000 Threshold
+## Public Share liquidity engineering and the 5,000,000 Threshold
 
-Public share lending in Fund III begins at 5,000,000.  
+Public share liquidity engineering in Fund III begins at 5,000,000.  
 This threshold is not arbitrary.  
 It is the point where the quality of equity holdings aligns with our liquidity architecture.  
 
 Participants at this level possess concentrated or high quality positions.  
-These positions create stable borrowing capacity when structured with discipline.  
+These positions create stable balance sheet optimization capacity when structured with discipline.  
 
 Our focus is on:  
 • Liquid equities with institutional float.  
@@ -125,7 +125,7 @@ Our focus is on:
 
 When public equity is used as collateral, the result is one of the cleanest forms of liquidity creation.  
 The asset produces daily price discovery.  
-The loan can be shaped with surgical clarity.  
+The liquidity facility can be shaped with surgical clarity.  
 
 This allows us to maintain the silent authority that defines the Roials Capital risk posture.  
 
@@ -146,7 +146,7 @@ Characteristics include:
 • Expectation of institutional grade collateral analysis.  
 • Requirement for rapid execution when conditions call for it.  
 
-The result is a lending environment where the participant does not negotiate with the architecture.  
+The result is a liquidity engineering environment where the participant does not negotiate with the architecture.  
 The architecture is already optimized for their conditions.  
 
 ## Silent Authority and the F Status Delta
@@ -194,13 +194,13 @@ Acceleration without erosion is the core challenge of modern liquidity structuri
 
 Fund III addresses this through a controlled velocity model.  
 
-We do not maximize loan to value.  
+We do not maximize liquidity facility to value.  
 We maximize sustainability of liquidity extraction.  
 
 This requires discipline.  
 It also requires an understanding that most liquidity failures occur when velocity outruns collateral precision.  
 
-Our architecture prevents that misalignment before the loan is ever issued.  
+Our architecture prevents that misalignment before the liquidity facility is ever issued.  
 
 ## Multi Layer Liquidity Construction
 
@@ -221,7 +221,7 @@ Participants can move knowing the architecture anticipates what the market does 
 Expansion does not occur by increasing risk.  
 Expansion occurs by increasing precision.  
 
-Fund III’s expansion is built on the cumulative effect of disciplined lending across private credit, ABL, crypto lending, and public share lending.  
+Fund III’s expansion is built on the cumulative effect of disciplined liquidity engineering across private credit, ABL, crypto liquidity engineering, and public share liquidity engineering.  
 
 Each vertical strengthens the fund.  
 Each reinforces the liquidity framework.  

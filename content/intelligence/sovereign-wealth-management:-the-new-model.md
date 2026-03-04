@@ -1,10 +1,10 @@
 ---
 title: "Sovereign Wealth Management: The New Institutional Model for Private Capital"
-description: "A surgical examination of modern liquidity architecture, private credit, and asset based lending for HNWI and UHNW portfolios."
+description: "A surgical examination of modern liquidity architecture, private credit, and asset based liquidity engineering for HNWI and UHNW portfolios."
 date: "2026-03-14"
 author: "Jonas Hyltén"
 slug: "sovereign-wealth-management:-the-new-model"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
 ---
 
 # Sovereign Wealth Management: The New Model
@@ -35,7 +35,7 @@ We architect the mechanics that replace them.
 
 ## The Modern Liquidity Problem
 
-High net worth portfolios have evolved faster than the lending infrastructure built to support them.  
+High net worth portfolios have evolved faster than the liquidity engineering infrastructure built to support them.  
 
 Assets that are valuable, verifiable, and productive often sit in illiquid form.  
 
@@ -99,7 +99,7 @@ Roials Capital provides the structural mechanics for these pillars.
 
 Not through traditional wealth management.  
 
-But through institutional grade lending frameworks that operate under private governance.  
+But through institutional grade liquidity engineering frameworks that operate under private governance.  
 
 Our architecture focuses on what institutions value.  
 
@@ -133,9 +133,9 @@ Traditional lenders rarely assign collateral value to private credit paper.
 
 This is an inefficiency.  
 
-Roials Capital resolves this inefficiency through structured lending against private credit positions, generating liquidity without forcing a disposition.  
+Roials Capital resolves this inefficiency through structured liquidity engineering against private credit positions, generating liquidity without forcing a disposition.  
 
-This model is not derived from consumer lending.  
+This model is not derived from consumer liquidity engineering.  
 
 It follows institutional logic, applied to private ownership.  
 
@@ -147,9 +147,9 @@ A client can access liquidity.
 
 A client can expand their capital base without selling productive assets.  
 
-## Asset Based Lending for Sophisticated Portfolios
+## Asset Based liquidity engineering for Sophisticated Portfolios
 
-Asset based lending has become the quiet backbone of private institutional finance.  
+Asset based liquidity engineering has become the quiet backbone of private institutional finance.  
 
 It is clean.  
 
@@ -173,7 +173,7 @@ We do not apply generic models.
 
 We create architecture tailored to the structural geometry of the client’s assets.  
 
-## Crypto Lending for Institutional Grade Holders
+## Crypto liquidity engineering for Institutional Grade Holders
 
 Digital assets have transitioned from speculative instruments to recognized institutional collateral.  
 
@@ -185,7 +185,7 @@ Institutional desks apply restrictive frameworks and narrow collateral acceptanc
 
 Roials Capital functions at the intersection.  
 
-We provide crypto backed lending with institutional grade thresholds.  
+We provide crypto backed liquidity engineering with institutional grade thresholds.  
 
 The minimum threshold is 2,000,000 dollars.  
 
@@ -203,15 +203,15 @@ Liquidity becomes available without forced liquidation.
 
 The portfolio remains structurally intact, unaffected by short term volatility.  
 
-## Public Share Lending for Advanced Equity Holders
+## Public Share liquidity engineering for Advanced Equity Holders
 
 Public equity remains one of the cleanest collateral classes.  
 
 Yet it is often underutilized by private clients due to lender restrictions, regulatory overlays, and risk modeling constraints.  
 
-Roials Capital provides lending against public equities with a minimum threshold of 5,000,000 dollars.  
+Roials Capital provides liquidity engineering against public equities with a minimum threshold of 5,000,000 dollars.  
 
-This is not margin lending.  
+This is not margin liquidity engineering.  
 
 It is not retail leverage.  
 
@@ -271,7 +271,7 @@ They do not wait for markets to normalize.
 
 They do not depend on banks to interpret collateral value.  
 
-They do not rely on generic lending products designed for mass markets.  
+They do not rely on generic liquidity engineering products designed for mass markets.  
 
 They operate with institutional mechanics.  
 
@@ -319,7 +319,7 @@ Roials Capital is not a lender in the classical sense.
 
 We operate as architects of liquidity.  
 
-We integrate private credit, ABL, crypto lending, and public equity lending into a unified structural framework.  
+We integrate private credit, ABL, crypto liquidity engineering, and public equity liquidity engineering into a unified structural framework.  
 
 This structure allows clients to operate above the market.  
 

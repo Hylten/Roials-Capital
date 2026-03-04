@@ -1,13 +1,13 @@
 ---
-title: "The New Liquidity Standard: Institutional Lending Against Public Shares for $5M+ Holders"
-description: "A high‑authority analysis of the emerging liquidity standard, focusing on private credit, ABL frameworks, and public share lending for HNWI and UHNW clients seeking structural liquidity."
+title: "The New Liquidity Standard: Institutional liquidity engineering Against Public Shares for $5M+ Holders"
+description: "A high‑authority analysis of the emerging liquidity standard, focusing on private credit, ABL frameworks, and public share liquidity engineering for HNWI and UHNW clients seeking structural liquidity."
 date: "2026-03-27"
 author: "Jonas Hyltén"
-slug: "the-new-liquidity-standard:-lending-against-public"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
+slug: "the-new-liquidity-standard:-liquidity engineering-against-public"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
 ---
 
-# The New Liquidity Standard: Lending Against Public Shares for the $5M+ Class
+# The New Liquidity Standard: liquidity engineering Against Public Shares for the $5M+ Class
 
 Liquidity architecture is shifting.  
 
@@ -23,7 +23,7 @@ This is the frontier Roials Capital operates within.
 
   
 
-## Crypto Lending for the $2M+ Holder
+## Crypto liquidity engineering for the $2M+ Holder
 
 Crypto positions, when properly structured, can also serve as collateral.  
 
@@ -82,11 +82,11 @@ We allow the client to operate inside a liquidity environment engineered for lon
 
 ## The Future of Liquidity for HNWI and UHNW Clients
 
-Public share lending at the $5M minimum is no longer optional for sophisticated holders.  
+Public share liquidity engineering at the $5M minimum is no longer optional for sophisticated holders.  
 
 It will become a baseline requirement for those managing concentrated assets in unpredictable markets.  
 
-Private credit and asset‑based lending will continue to displace retail financial systems.  
+Private credit and asset‑based liquidity engineering will continue to displace retail financial systems.  
 
 Crypto collateralization will mature and integrate into multi‑asset liquidity frameworks.  
 
@@ -104,7 +104,7 @@ Collateral is now strategic.
 
 And capital access is now governed by institutional mechanics rather than legacy banking systems.  
 
-Public share lending at the $5M threshold is the most accurate representation of this shift.  
+Public share liquidity engineering at the $5M threshold is the most accurate representation of this shift.  
 
 It reflects the sophistication of modern wealth architecture and the need for a framework that does not compromise on control or clarity.  
 

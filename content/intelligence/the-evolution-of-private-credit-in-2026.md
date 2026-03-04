@@ -1,10 +1,10 @@
 ---
 title: "The Evolution of Private Credit in 2026: The New Architecture of Institutional Liquidity"
-description: "A surgical examination of private credit and asset based lending in 2026, with emphasis on liquidity pathways for HNWI and UHNW portfolios through ABL structures."
+description: "A surgical examination of private credit and asset based liquidity engineering in 2026, with emphasis on liquidity pathways for HNWI and UHNW portfolios through ABL structures."
 date: "2026-03-20"
 author: "Jonas Hyltén"
 slug: "the-evolution-of-private-credit-in-2026"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
 ---
 
 # The Evolution of Private Credit in 2026
@@ -17,17 +17,17 @@ The incentives have shifted.
 
 The architecture has shifted.
 
-Institutional capital now moves with an expectation of precision. It seeks collateral structures that behave consistently under pressure, and it seeks lending mechanics that can be executed without reputational noise.
+Institutional capital now moves with an expectation of precision. It seeks collateral structures that behave consistently under pressure, and it seeks liquidity engineering mechanics that can be executed without reputational noise.
 
 This is the landscape Roials-Capital was engineered for.
 
 We operate where liquidity, structure, and discretion intersect.  
 
-We lend against private credit positions and broad asset based lending portfolios.  
+We lend against private credit positions and broad asset based liquidity engineering portfolios.  
 
 We work only with high net worth and ultra high net worth individuals.  
 
-Our minimum thresholds signal the layer of the ecosystem we inhabit. For crypto lending, the entry point is 2,000,000 dollars. For public share lending, the minimum is 5,000,000 dollars.
+Our minimum thresholds signal the layer of the ecosystem we inhabit. For crypto liquidity engineering, the entry point is 2,000,000 dollars. For public share liquidity engineering, the minimum is 5,000,000 dollars.
 
 The rules are architectural.  
 
@@ -41,10 +41,10 @@ Looking forward, private credit will continue to expand, but the beneficiaries w
 
 Investors who navigate the space without structural understanding will experience liquidity constraints. The ones who operate through engineered frameworks will command greater optionality.
 
-Asset based lending will continue to rise because it sits at the intersection of security and liquidity. It preserves capital ownership while enabling mobility of funds.
+Asset based liquidity engineering will continue to rise because it sits at the intersection of security and liquidity. It preserves capital ownership while enabling mobility of funds.
 
 Crypto will integrate further with institutional systems.  
-Public share lending will require even more discretion.  
+Public share liquidity engineering will require even more discretion.  
 Private credit will become a default liquidity mechanism rather than a niche solution.  
 
 And Roials-Capital will continue to define the mechanics that support these transitions.

@@ -1,10 +1,10 @@
 ---
 title: "Structural Alpha in Private Credit Portfolios: The Architecture of Controlled Liquidity"
-description: "An institutional examination of structural alpha within private credit and asset based lending frameworks, engineered for HNWI and UHNW liquidity optimization."
+description: "An institutional examination of structural alpha within private credit and asset based liquidity engineering frameworks, engineered for HNWI and UHNW liquidity optimization."
 date: "2026-03-18"
 author: "Jonas Hyltén"
 slug: "structural-alpha-in-private-credit-portfolios"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
 ---
 
 # Structural Alpha in Private Credit Portfolios
@@ -43,12 +43,12 @@ It is dependent on structural mechanics.
 
 ## The Roials-Capital Framework
 
-Roials-Capital operates within private credit and asset based lending, creating liquidity against positions that traditional lenders either misunderstand or refuse to underwrite.  
+Roials-Capital operates within private credit and asset based liquidity engineering, creating liquidity against positions that traditional lenders either misunderstand or refuse to underwrite.  
 
 We issue credit against:  
 
 • Private credit positions.  
-• Asset Based Lending structures.  
+• Asset Based liquidity engineering structures.  
 • Crypto holdings, with a minimum threshold of 2 million dollars.  
 • Public share portfolios, with a minimum threshold of 5 million dollars.  
 
@@ -94,9 +94,9 @@ Two, covenant enforcement.
 
 Three, liquidity buffers that preserve the client’s optionality.  
 
-## Asset Based Lending as a Liquidity Engine
+## Asset Based liquidity engineering as a Liquidity Engine
 
-Asset based lending is not simply secured lending.  
+Asset based liquidity engineering is not simply secured liquidity engineering.  
 
 It is the conversion of dormant assets into active liquidity without forcing a sale.  
 
@@ -116,7 +116,7 @@ Structural alpha emerges when four conditions are met.
 
 One, the collateral is stable.  
 Two, the valuation is transparent.  
-Three, the lending structure is senior and protected.  
+Three, the liquidity engineering structure is senior and protected.  
 Four, the liquidity terms are asymmetrically favorable.  
 
 When these conditions coexist, the lender creates a predictable return stream.  
@@ -149,21 +149,21 @@ At Roials-Capital, overcollateralization is not a defensive mechanism.
 
 It is a design principle that transforms risk exposure into predictable yield.  
 
-## Crypto Lending for Institutional-Level Capital
+## Crypto liquidity engineering for Institutional-Level Capital
 
 Crypto markets are fast, fragmented, and structurally inefficient.  
 
-This creates both opportunity and risk, which is why our crypto lending framework requires a minimum threshold of 2 million dollars.  
+This creates both opportunity and risk, which is why our crypto liquidity engineering framework requires a minimum threshold of 2 million dollars.  
 
 At that level, collateral monitoring, risk isolation, and execution quality become institutionally viable.  
 
-The structural alpha in crypto lending arises from the combination of high quality collateral and conservative LTV architecture.  
+The structural alpha in crypto liquidity engineering arises from the combination of high quality collateral and conservative LTV architecture.  
 
 We create liquidity without exposing the client to forced unwinds or unnecessary liquidation risk.  
 
-## Public Share Lending for High Conviction Positions
+## Public Share liquidity engineering for High Conviction Positions
 
-Public share lending requires both delicacy and authority.  
+Public share liquidity engineering requires both delicacy and authority.  
 
 Large equity blocks carry liquidity constraints, reputational considerations, and regulatory implications.  
 
@@ -285,7 +285,7 @@ And controlled liquidity will become the primary currency of wealth mobility.
 
 ## The Roials-Capital Position
 
-Roials-Capital stands at the intersection of private credit, asset based lending, and modern collateral.  
+Roials-Capital stands at the intersection of private credit, asset based liquidity engineering, and modern collateral.  
 
 We operate with silent authority.  
 

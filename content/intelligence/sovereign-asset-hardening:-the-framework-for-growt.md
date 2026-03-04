@@ -1,10 +1,10 @@
 ---
 title: "Sovereign Asset Hardening: The Framework for Growth"
-description: "A high‑authority exploration of liquidity architecture, private credit, and asset based lending for HNWI and UHNW portfolios seeking structural resilience."
+description: "A high‑authority exploration of liquidity architecture, private credit, and asset based liquidity engineering for HNWI and UHNW portfolios seeking structural resilience."
 date: "2026-03-11"
 author: "Jonas Hyltén"
 slug: "sovereign-asset-hardening:-the-framework-for-growt"
-keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
 ---
 
 # Sovereign Asset Hardening: The Framework for Growth
@@ -33,7 +33,7 @@ Our role is not advisory.
 
 It is architectural.  
 
-We provide the lending mechanics that institutional balance sheets take for granted.  
+We provide the liquidity engineering mechanics that institutional balance sheets take for granted.  
 
 We stabilize and capitalize assets so they become tools of expansion rather than static stores of value.  
 
@@ -41,7 +41,7 @@ We stabilize and capitalize assets so they become tools of expansion rather than
 
 This is the framework.  
 
-### Public Share Lending: 5 Million Minimum for Structural Stability
+### Public Share liquidity engineering: 5 Million Minimum for Structural Stability
 
 Public equities require a different architecture.  
 
@@ -55,7 +55,7 @@ The risk is visible.
 
 This visibility means the threshold must be higher.  
 
-Roials‑Capital sets the minimum at 5 million dollars because public share lending requires structural scale for stability.  
+Roials‑Capital sets the minimum at 5 million dollars because public share liquidity engineering requires structural scale for stability.  
 
   
 
@@ -65,7 +65,7 @@ It allows us to engineer liquidity without disrupting voting rights, tax posture
 
   
 
-Public share lending is often used by clients who seek liquidity for acquisitions, structured deals, or cross‑border investment cycles.  
+Public share liquidity engineering is often used by clients who seek liquidity for acquisitions, structured deals, or cross‑border investment cycles.  
 
 It is one of the most critical tools for sovereign asset movement.  
 
@@ -144,7 +144,7 @@ We architect.
 
   
 
-Our lending structures are not transactional.  
+Our liquidity engineering structures are not transactional.  
 
 They are infrastructural.  
 
