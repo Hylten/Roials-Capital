@@ -1,4 +1,4 @@
-```yaml
+---
 title: "Strategic Asset Allocation for Long-Term Liquidity: The Architecture of Durable Capital"
 description: "A high-level liquidity framework for HNWI and UHNW investors using private credit and asset-based lending to engineer long-term optionality."
 date: "2026-03-04"
@@ -6,7 +6,6 @@ author: "Roials Architect"
 slug: "strategic-asset-allocation-for-long-term-liquidity"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
 ---
-```
 
 # Strategic Asset Allocation for Long-Term Liquidity  
    
