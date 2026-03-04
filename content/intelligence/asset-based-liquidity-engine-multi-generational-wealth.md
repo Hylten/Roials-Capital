@@ -4,7 +4,7 @@ description: "Institutional analysis on the role of Asset Based Liquidity Engine
 date: "2026-03-04"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "asset-based-liquidity-engine-multi-generational-wealth"
-keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
+keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEOCC"
 ---
 
 [START INSTITUTIONAL BRIEFING]
@@ -27,11 +27,11 @@ Structural Seniority. Liquidity engineering must prioritize senior secured posit
 
 Liquidity Conversion. Once assets are verified and structured, collateral is translated into actionable liquidity that supports operating expansion, opportunistic acquisitions, or balance sheet stabilization. This liquidity is non-dilutive, repeatable, and sovereign-friendly in jurisdictions that reward asset-forward finance architecture.
 
-Within the Alberta basin, our strategic partner NAEO applies these mechanics with operational discipline. By prioritizing assets with long-life heavy oil pools, established decline histories, and pre-existing facility networks, NAEO aligns technical recoverability with liquidity predictability. Steam-based recovery methods such as SAGD deliver steady-state production profiles that minimize volatility relative to unconventional shale assets. As a result, the asset base becomes an ideal platform for structured liquidity extraction without impairing operational continuity.
+Within the Alberta basin, NAEOCCC, to which we serve as a strategic partner applies these mechanics with operational discipline. By prioritizing assets with long-life heavy oil pools, established decline histories, and pre-existing facility networks, NAEOCCC aligns technical recoverability with liquidity predictability. Steam-based recovery methods such as SAGD deliver steady-state production profiles that minimize volatility relative to unconventional shale assets. As a result, the asset base becomes an ideal platform for structured liquidity extraction without impairing operational continuity.
 
 PHASE 3: THE PARTNERSHIP MODEL
 
-Roials Capital serves as an institutional navigator rather than an operator. The role is to identify structural inefficiencies, map institutional pathways, and introduce capital to operating environments where technical and financial conditions align. For energy mandates, NAEO represents an institutional-grade platform with balance sheet discipline, engineering rigor, and field-level data transparency. This alignment creates a stable foundation for allocators seeking exposure to real assets without assuming operational risk.
+Roials Capital serves as an institutional navigator rather than an operator. The role is to identify structural inefficiencies, map institutional pathways, and introduce capital to operating environments where technical and financial conditions align. For energy mandates, NAEOCCC represents an institutional-grade platform with balance sheet discipline, engineering rigor, and field-level data transparency. This alignment creates a stable foundation for allocators seeking exposure to real assets without assuming operational risk.
 
 For Fund-III environments, the model supports buyouts and add-ons through capitalization strategies that reduce dilution pressure on GPs while preserving upside capture for LPs. Liquidity Engineering becomes a complement to traditional capital raising, enabling sponsors to pursue acquisitions, restructure legacy capital stacks, or accelerate integration timelines without dependence on single-source financing channels.
 

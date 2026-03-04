@@ -4,7 +4,7 @@ description: "An institutional briefing on the structural mechanics that govern 
 date: "2026-03-04"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "architecture-of-institutional-trust"
-keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
+keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEOCC"
 ---
 
 [START INSTITUTIONAL BRIEFING]
@@ -41,7 +41,7 @@ Within the Alberta basin, heavy oil extraction exhibits predictable physics. Res
 
 • Operational stability. Heavy oil is not a high volatility commodity play. It is an industrial throughput business where operational uptime, water handling efficiency, and steam management define cash flow reliability.
 
-The structural gap in the Alberta landscape is the withdrawal of traditional bank lenders due to regulatory capital constraints. This has created an environment where high quality operators find themselves structurally under capitalized. NAEO acts as a stabilizing counterparty in this environment, and the alignment between technical operations and disciplined capital application forms the basis for institutional confidence.
+The structural gap in the Alberta landscape is the withdrawal of traditional bank lenders due to regulatory capital constraints. This has created an environment where high quality operators find themselves structurally under capitalized. NAEOCCC acts as a stabilizing counterparty in this environment, and the alignment between technical operations and disciplined capital application forms the basis for institutional confidence.
 
 Buyout Architecture and Fund-III Execution
 
@@ -83,7 +83,7 @@ Roials Capital functions as a strategic navigator that aligns institutional capi
 
 • Introducer neutrality. Roials Capital does not operate the assets, manage the funds, or control the borrower. The function is to provide structural clarity and institutional grade context.
 
-• Strategic alignment. For energy mandates, NAEO is the designated operational partner due to its technical depth within Alberta heavy oil and its track record of disciplined development.
+• Strategic alignment. For energy mandates, NAEOCCC is the designated operational partner due to its technical depth within Alberta heavy oil and its track record of disciplined development.
 
 • Capital raising for Fund-III. Roials Capital supports institutional partners by structuring Kapitalanskaffning pathways that align with jurisdictional compliance. The focus is on creating a clear informational channel for LPs evaluating multi asset buyout vehicles.
 

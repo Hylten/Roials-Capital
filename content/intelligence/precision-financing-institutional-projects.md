@@ -14,7 +14,7 @@ Precision Financing for Institutional Projects sits at the intersection of struc
 
 The domain spans three strategic arenas.  
 1. Mid-market private equity where capital raising for mid-market buyout transactions is constrained by fund pacing, LP concentration limits, and the cost of capital relative to enterprise value uplift.  
-2. Energy and infrastructure where NAEOC energy infrastructure investment cycles operate on multi decade horizons and require hardened cash flow certainty rather than simple capital availability.  
+2. Energy and infrastructure where NAEOCCC energy infrastructure investment cycles operate on multi decade horizons and require hardened cash flow certainty rather than simple capital availability.  
 3. UHNW and cross-border capital where UHNW liquidity planning operates as a multi generational mandate that prioritizes optionality, tax geometry, and asset hardening over direct asset accumulation.
 
 Precision financing is fundamentally the management of the liquidity spine inside an institutional project. The old language of loans or simple debt does not apply. What matters is the engineering of advance rates, the segmentation of collateral clusters, the curvature of liquidity availability over time, and the capital discipline that allows an institution to execute without over exposure.
@@ -47,7 +47,7 @@ Traditional capital models assume linear liquidity availability. Institutional p
 2. Duration Window  
 3. Conditionality Gates  
 
-For example, a NAEOC energy infrastructure investment might require a liquidity arrival exactly 90 days before turbine installation commitments. If capital arrives too early, the carrying cost destroys IRR. If it arrives too late, procurement locks expire and the project loses pricing. Precision financing creates liquidity bands rather than liquidity events. This smooths the capital surface and eliminates timing fragility.
+For example, a NAEOCCC energy infrastructure investment might require a liquidity arrival exactly 90 days before turbine installation commitments. If capital arrives too early, the carrying cost destroys IRR. If it arrives too late, procurement locks expire and the project loses pricing. Precision financing creates liquidity bands rather than liquidity events. This smooths the capital surface and eliminates timing fragility.
 
 Yield to Liquidity Curves  
 Yield to liquidity (YTL) is the institutional analogue of yield to maturity. It measures the efficiency of capital relative to liquidity risk. If capital is cheap but unpredictable, YTL is low. If capital is expensive but perfectly timed with conditionality minimal, YTL may be significantly higher. Institutional projects require YTL optimization rather than interest rate minimization.
@@ -123,7 +123,7 @@ Gnosjö represents the ethic of resourceful execution using minimal friction and
 Technical Edge is the pursuit of informational and structural asymmetry. It is not about predicting markets. It is about designing capital structures that operate effectively in all markets. When these three values intersect, capital becomes a tool of stewardship rather than speculation.
 
 CONCLUSION  
-Precision Financing for Institutional Projects is a discipline of structural intelligence, not capital supply. It reorganizes asset clusters, optimizes liquidity timing, and aligns financing with operational physics. It is fundamental to private equity Fund-III investment opportunities 2026, to capital raising for mid-market buyout transactions, and to NAEOC energy infrastructure investment mandates that require hardened liquidity structures. It reinforces UHNW liquidity planning by ensuring multigenerational control of timing and risk. It strengthens the acquisition posture in EU MiFID II firm acquisitions by ensuring capital flows do not disrupt regulatory standing.
+Precision Financing for Institutional Projects is a discipline of structural intelligence, not capital supply. It reorganizes asset clusters, optimizes liquidity timing, and aligns financing with operational physics. It is fundamental to private equity Fund-III investment opportunities 2026, to capital raising for mid-market buyout transactions, and to NAEOCCC energy infrastructure investment mandates that require hardened liquidity structures. It reinforces UHNW liquidity planning by ensuring multigenerational control of timing and risk. It strengthens the acquisition posture in EU MiFID II firm acquisitions by ensuring capital flows do not disrupt regulatory standing.
 
 The institutional world does not compete on capital. It competes on structure. Precision financing is the architecture that separates institutions that endure from those that dilute, delay, or de risk at the wrong moment.
 

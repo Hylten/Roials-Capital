@@ -17,7 +17,7 @@ Institutional capital migration is the coordinated repositioning of balance shee
 2. High asset hardening potential.  
 3. Capacity for liquidity extraction at multiple points in the asset lifecycle.  
 
-The epochal driver is the inversion of nominal yield curves across the US and Europe, forcing allocators to reformat exposures around capital efficiency instead of nominal return targeting alone. Pension funds, sovereign entities, and UHNW liquidity planning structures now require real-economy anchors. These anchors increasingly sit inside the middle delta of private markets including NAEOC energy infrastructure investment platforms, mid-market industrial carve-outs, and asset backed financing for businesses that can generate predictable extraction schedules.
+The epochal driver is the inversion of nominal yield curves across the US and Europe, forcing allocators to reformat exposures around capital efficiency instead of nominal return targeting alone. Pension funds, sovereign entities, and UHNW liquidity planning structures now require real-economy anchors. These anchors increasingly sit inside the middle delta of private markets including NAEOCCC energy infrastructure investment platforms, mid-market industrial carve-outs, and asset backed financing for businesses that can generate predictable extraction schedules.
 
 The principal reality is simple. Institutional capital no longer chases strategy narratives. It chases liquidity architecture. The migration map for 2026 reflects this shift with allocators demanding clarity on:  
 - The yield-to-liquidity curve of each transaction.  
@@ -44,7 +44,7 @@ Cross-border capital transfer is now a high-friction environment. EU MiFID II fi
 This is one reason why sovereign and UHNW capital continues to prioritize operators with disciplined stewardship cultures. They reduce regulatory drag through governance predictability.
 
 4. Collateral Architecture and Asset Hardening  
-Asset backed financing for businesses in the current environment is no longer a secondary instrument. It is now the primary liquidity engineering channel. Capital migrates toward assets capable of being hardened. Asset hardening is the conversion of operational value into securitizable collateral clusters. In NAEOC energy infrastructure investment platforms, asset hardening is achieved through structured offtake contracts, predictable maintenance cycles, and regulatory frameworks that stabilize cash visibility.
+Asset backed financing for businesses in the current environment is no longer a secondary instrument. It is now the primary liquidity engineering channel. Capital migrates toward assets capable of being hardened. Asset hardening is the conversion of operational value into securitizable collateral clusters. In NAEOCCC energy infrastructure investment platforms, asset hardening is achieved through structured offtake contracts, predictable maintenance cycles, and regulatory frameworks that stabilize cash visibility.
 
 This collateral-first orientation rewrites the capital migration logic. Institutional capital now follows collateral instead of narratives.  
 
@@ -53,7 +53,7 @@ Allocators benchmark fund managers on their ability to drive mid-cycle recapital
 
 CASE ANALYSIS  
 Simulated Case: 240M Capital Migration Event into a Mixed-Asset Private Equity Fund-III, Strategy Year 2026  
-The scenario involves a private equity platform launching its Fund-III with an explicit focus on NAEOC energy infrastructure investment and mid-market industrial consolidation.
+The scenario involves a private equity platform launching its Fund-III with an explicit focus on NAEOCCC energy infrastructure investment and mid-market industrial consolidation.
 
 Phase 1: The Injection Vector  
 Three institutional blocs initiate capital migration.  
@@ -88,7 +88,7 @@ At month 36, the fund executes a partial recapitalization.
 - Duration risk reduced by 40 percent.  
 - New capital available for follow-on acquisitions that further harden the asset base.  
 
-The recap acts as a signal. Institutions interpret it not as liquidity distribution but as evidence of structural competence. The pension fund increases its commitment ceiling for the next vintage. The UHNW vehicles initiate a 25M co-investment mandate. The sovereign entity requires the fund to structure additional sidecar vehicles for NAEOC energy infrastructure investment across adjacent geographies.
+The recap acts as a signal. Institutions interpret it not as liquidity distribution but as evidence of structural competence. The pension fund increases its commitment ceiling for the next vintage. The UHNW vehicles initiate a 25M co-investment mandate. The sovereign entity requires the fund to structure additional sidecar vehicles for NAEOCCC energy infrastructure investment across adjacent geographies.
 
 This migration case illustrates the central law. Institutional capital follows liquidity architecture, not sector thesis. When collateral hardening, yield visibility, and regulatory compatibility are present, capital migrates in large volumes and stabilizes the fund's long-term trajectory.
 

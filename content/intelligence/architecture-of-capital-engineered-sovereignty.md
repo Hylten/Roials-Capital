@@ -4,7 +4,7 @@ description: "Institutional briefing on the structural capital vacuum in North A
 date: "2026-03-04"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "architecture-of-capital-engineered-sovereignty"
-keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
+keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEOCC"
 ---
 
 [START INSTITUTIONAL BRIEFING]
@@ -39,7 +39,7 @@ The Alberta landscape therefore offers predictable flow profiles, modular expans
 PHASE 3: THE PARTNERSHIP MODEL  
 Roials Capital functions as a strategic navigator for institutional allocators entering this structurally misaligned terrain. The mandate is not to present product. The mandate is to curate intelligence, filter counterparties, and structure introductions aligned with the allocator’s institutional archetype.
 
-North American Energy Opportunities (NAEO), our strategic partner, operates within the subset of heavy oil assets that meet three institutional criteria:
+North American Energy Opportunities Corporation (NAEOCCC), to which we serve as a strategic partner, operates within the subset of heavy oil assets that meet three institutional criteria:
 
 • Proven operational lineage with multiyear data curves.  
 • Balance sheet structures optimized for acquisition and consolidation, not speculative drilling.  
@@ -54,7 +54,7 @@ Roials Capital identifies arbitrage pockets created by capital scarcity, not ass
 Roials Capital undertakes institutional-grade diligence on operators, technical teams, reservoir engineers, and governance structures. Allocators are shielded from the noise of sub-institutional operators that dominate early-stage Alberta deal flow.
 
 3. Strategic Introduction  
-After alignment with the allocator’s risk profile, mandate criteria, and liquidity horizon, Roials Capital executes a structured introduction to the appropriate operating partner such as NAEO. The introduction is framed around technical, operational, and capital architecture rather than promotional positioning.
+After alignment with the allocator’s risk profile, mandate criteria, and liquidity horizon, Roials Capital executes a structured introduction to the appropriate operating partner such as NAEOCCC. The introduction is framed around technical, operational, and capital architecture rather than promotional positioning.
 
 PHASE 4: THE STEWARDSHIP FILTER  
 Stewardship is the discipline that governs how resources are managed, not merely how they are extracted. Alberta’s heavy oil environment rewards disciplined stewardship due to the importance of reservoir pressure balance, steam cycle timing, and thermal efficiency optimization.
@@ -70,7 +70,7 @@ Thermal projects degrade when steam cycles are interrupted. Continuity is the op
 3. Alignment Between Capital and Reservoir Physics  
 Energy assets are not financial abstractions. They are physical systems responsive to pressure, temperature, and flow dynamics. Misalignment between capital cadence and reservoir thermodynamics destroys value. Stewardship aligns capital behavior with reservoir behavior.
 
-This filter distinguishes operators who merely hold reserves from operators capable of converting reserves into predictable cash flow streams. NAEO operates within this stewardship paradigm, which is why Roials Capital identifies them as a credible alignment partner for institutional allocators.
+This filter distinguishes operators who merely hold reserves from operators capable of converting reserves into predictable cash flow streams. NAEOCCC operates within this stewardship paradigm, which is why Roials Capital identifies them as a credible alignment partner for institutional allocators.
 
 PHASE 5: DECISION MAKING LENS FOR ALLOCATORS  
 Institutional allocators reviewing Fund-III buyouts, liquidity engineering mandates, or special energy allocations benefit from a structural framework rather than thematic narratives. The following matrix provides that framework.
@@ -83,6 +83,6 @@ Institutional allocators reviewing Fund-III buyouts, liquidity engineering manda
 
 Roials Capital engages at the intersection of these criteria. The role is to provide clarity, reduce noise, and align institutional capital with structures that reflect engineered sovereignty rather than opportunistic speculation.
 
-A confidential strategy audit allows allocators to calibrate exposure, evaluate basin-specific intelligence, and assess alignment with strategic partners such as NAEO. The objective is not transaction execution. The objective is architectural clarity so allocators can determine whether the Alberta energy matrix fits within their institutional blueprint for the next cycle.
+A confidential strategy audit allows allocators to calibrate exposure, evaluate basin-specific intelligence, and assess alignment with strategic partners such as NAEOCCC. The objective is not transaction execution. The objective is architectural clarity so allocators can determine whether the Alberta energy matrix fits within their institutional blueprint for the next cycle.
 
 [END OF BRIEFING]

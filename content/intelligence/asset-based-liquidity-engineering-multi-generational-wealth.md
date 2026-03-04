@@ -1,10 +1,10 @@
 ---
 title: "Asset Based Liquidity Engineering as the Structural Engine for Multi Generational Wealth"
-description: "Institutional briefing on balance sheet optimization, ABL structures, North American energy arbitrage, and the role of liquidity engineering as the foundation for multi generational capital regimes. Focused on UHNWIs, institutional LPs, and allocators evaluating Fund-III buyouts, special mandates, and Alberta-based energy opportunities through NAEO."
+description: "Institutional briefing on balance sheet optimization, ABL structures, North American energy arbitrage, and the role of liquidity engineering as the foundation for multi generational capital regimes. Focused on UHNWIs, institutional LPs, and allocators evaluating Fund-III buyouts, special mandates, and Alberta-based energy opportunities through NAEOCCC."
 date: "2026-03-04"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "asset-based-liquidity-engineering-multi-generational-wealth"
-keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
+keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEOCC"
 ---
 
 [START INSTITUTIONAL BRIEFING]
@@ -49,7 +49,7 @@ Energy mechanics: Alberta case context
 
 The Alberta heavy oil environment exemplifies the asymmetry available to institutional allocators when asset based liquidity is applied with precision. Steam Assisted Gravity Drainage (SAGD) and Cyclic Steam Stimulation (CSS) operations exhibit predictable recovery patterns. Once a reservoir enters stabilized production, decline rates become measurable with high confidence. The physics of the basin produce a mechanical predictability that is uncommon in other energy assets.
 
-NAEO, our strategic partner in the region, operates exclusively in mature heavy oil fields. These assets are characterized by:
+NAEOCCC, to which we serve as a strategic partner in the region, operates exclusively in mature heavy oil fields. These assets are characterized by:
 
 • Established permeability profiles.  
 • Long term reservoir behavior data.  
@@ -73,7 +73,7 @@ Most allocators underestimate the velocity advantages produced when buyout strat
 This includes energy, industrial assets, logistics infrastructure, and selected categories of real estate. The focus is on creating durable senior liquidity that supports expansion, generational transition, or corporate restructuring. The objective is not yield. It is structural stability.
 
 3. Special mandates with defined operator profiles  
-North American energy mandates of 50M to 250M remain a core segment. These mandates require operator specificity, geological stability, and disciplined technical execution. NAEO is the strategic partner for this corridor due to their operational visibility and stewardship orientation in the Alberta basin.
+North American energy mandates of 50M to 250M remain a core segment. These mandates require operator specificity, geological stability, and disciplined technical execution. NAEOCCC is the strategic partner for this corridor due to their operational visibility and stewardship orientation in the Alberta basin.
 
 Roials Capital does not intermediate assets. The role is institutional introduction, structural advisory, and calibration of the capital architecture to the operational realities of the asset. This ensures alignment between allocator frameworks and real world asset behavior.
 
@@ -112,4 +112,4 @@ Does the structure create a capital regime that can be preserved, expanded, and 
 
 Institutions that integrate asset based liquidity engineering into their acquisition strategy, their family office mandates, or their Fund-III expansion cycles establish a durable platform for multi generational capital continuity. This approach does not depend on market cycles. It depends on structural intelligence.
 
-A Confidential Strategy Audit is recommended for allocators requiring calibration of existing portfolios, analysis of acquisition opportunities, or assessment of North American energy mandates through NAEO. The objective is to align balance sheet architecture with long term capital objectives in an environment where liquidity engineering has become the central engine for generational wealth systems.
+A Confidential Strategy Audit is recommended for allocators requiring calibration of existing portfolios, analysis of acquisition opportunities, or assessment of North American energy mandates through NAEOCCC. The objective is to align balance sheet architecture with long term capital objectives in an environment where liquidity engineering has become the central engine for generational wealth systems.

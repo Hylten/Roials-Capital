@@ -26,7 +26,7 @@ In this environment, capital preservation is not about protecting capital from l
 This doctrine is the foundation for a 2026 allocator class that prioritizes:
 
 - Long duration real asset platforms tied to energy, utilities, logistics, and regulated infrastructure.  
-- NAEOC energy infrastructure investment flows that generate predictable distributions independent of index behavior.  
+- NAEOCCC energy infrastructure investment flows that generate predictable distributions independent of index behavior.  
 - Asset hardening strategies for mid market operators to support capital raising for mid market buyout structures.
 
 The mandate is simple. Preserve mobility. Preserve optionality. Preserve the ability to buy distressed assets when others are forced into liquidation. Everything else is a derivative of these principles.
@@ -44,7 +44,7 @@ Core mechanics include:
 - Forward contracted revenue streams attached to real assets.  
 - Inventory conversion waterfalls for industrial operators.  
 - Revenue cycle management compression for healthcare platforms.  
-- Commodity hedging intervals that stabilize cash flow in NAEOC energy infrastructure investment assets.  
+- Commodity hedging intervals that stabilize cash flow in NAEOCCC energy infrastructure investment assets.  
 - Third party receivable participation structures that create liquidity without altering enterprise leverage.
 
 These mechanics ensure that liquidity is manufactured at the asset level rather than extracted from equity.
@@ -98,7 +98,7 @@ Scenario: A UHNW family office and a private equity sponsor co develop a 180 mil
 
 The capital stack is structured as follows:
 
-65 million into NAEOC energy infrastructure investment assets.  
+65 million into NAEOCCC energy infrastructure investment assets.  
 55 million into industrial equipment platforms with contracted utilization.  
 40 million into private equity Fund-III investment opportunities 2026 focused on carve outs.  
 20 million held as strategic dry powder for opportunistic acquisition.

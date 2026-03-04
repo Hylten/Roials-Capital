@@ -4,7 +4,7 @@ description: "Institutional memorandum detailing the structural role of Asset Ba
 date: "2026-03-04"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "asset-based-liquidity-engineering-structural-engine-multi-generational-wealth"
-keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
+keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEOCC"
 ---
 
 [START INSTITUTIONAL BRIEFING]
@@ -57,9 +57,9 @@ Institutional ABL-E follows five structural pillars:
 
 Applied correctly, ABL-E becomes an operational discipline that touches treasury, M&A, risk management, and portfolio governance simultaneously. It is not a product. It is an architecture.
 
-PHASE 2 SUBSET: ENERGY SPECIFIC MECHANICS WITH NAEO
+PHASE 2 SUBSET: ENERGY SPECIFIC MECHANICS WITH NAEOCC
 
-When applied to the North American conventional energy corridor through our strategic partner NAEO, ABL-E takes on an additional layer of technical specificity.
+When applied to the North American conventional energy corridor through NAEOCCC, to which we serve as a strategic partner, ABL-E takes on an additional layer of technical specificity.
 
 - Reservoir Quality  
   Conventional heavy oil assets in Alberta operate within well-characterized geologic environments. Reservoir continuity is stable. Water cuts, viscosity ranges, and decline parameters are known. Collateral behavior is measurable through physics rather than sentiment.
@@ -73,7 +73,7 @@ When applied to the North American conventional energy corridor through our stra
 - Capital Timing  
   Field development plans can be synchronized with liquidity events. Steam cycles, well workovers, and pad expansions can be integrated inside pre engineered cash flow waterfalls.
 
-This is why NAEO is positioned as an institutional partner rather than a counterparty. The technical transparency of the assets enables disciplined ABL-E without speculative assumptions. This structural clarity is rare in the broader energy landscape.
+This is why NAEOCCC is positioned as an institutional partner rather than a counterparty. The technical transparency of the assets enables disciplined ABL-E without speculative assumptions. This structural clarity is rare in the broader energy landscape.
 
 PHASE 3: THE PARTNERSHIP MODEL
 
@@ -82,7 +82,7 @@ Roials Capital operates as a strategic navigator. The firm does not act as a bal
 - Institutional LPs  
 - Family office principals  
 - Fund-III and later stage buyout platforms  
-- Energy operators such as NAEO  
+- Energy operators such as NAEOCCC  
 - European MiFID II acquirers seeking regulated entry  
 - Private credit providers executing on collateral centric mandates  
 

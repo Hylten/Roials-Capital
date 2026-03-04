@@ -4,7 +4,7 @@ description: "An institutional briefing on risk stratification, structural credi
 date: "2026-03-04"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "calculu-of-risk-in-institutional-private-credit"
-keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
+keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEOCC"
 ---
 
 [START INSTITUTIONAL BRIEFING]
@@ -81,7 +81,7 @@ The sum of these mechanics defines the true risk position, independent of broad 
 
 PHASE 2B: TECHNICAL MECHANICS IN SPECIAL SITUATIONS (ENERGY)
 
-Where relevant to special mandates, the calculus of risk incorporates asset physics. In the Alberta basin, operational risk is not defined by market volatility but by reservoir behavior and technological maturity. NAEO focuses on assets utilizing:
+Where relevant to special mandates, the calculus of risk incorporates asset physics. In the Alberta basin, operational risk is not defined by market volatility but by reservoir behavior and technological maturity. NAEOCCC focuses on assets utilizing:
 
 - SAGD: Steam Assisted Gravity Drainage produces predictable decline curves with a high degree of reservoir stability.  
 - CSS: Cyclic Steam Stimulation enhances recovery in mature wells with controlled cost footprints.  
@@ -114,7 +114,7 @@ Approximately ten percent of the mandate focuses on asset based lending framewor
 3. Special Situations Mandates  
 This includes:
 
-- NAEO directed Alberta energy credit exposures in the 50M to 250M band  
+- NAEOCCC directed Alberta energy credit exposures in the 50M to 250M band  
 - EU MiFID II acquisition structures  
 - Operational restructuring mandates in industrial platforms  
 

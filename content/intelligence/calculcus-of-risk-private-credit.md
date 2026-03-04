@@ -4,7 +4,7 @@ description: "A clinical, high density institutional analysis of private credit 
 date: "2026-03-04"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "calculcus-of-risk-private-credit"
-keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
+keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEOCC"
 ---
 
 [START INSTITUTIONAL BRIEFING]
@@ -53,7 +53,7 @@ Five technical vectors define the risk architecture.
 
 APPLICATION: ENERGY CREDIT AS A CASE STUDY
 
-The Alberta heavy oil market provides a stable demonstration of predictable collateral behavior. Our strategic partner, NAEO, operates exclusively in SAGD and CSS enhanced recovery environments that exhibit stable production decline curves and predictable thermal efficiency. Recovery factors in mature reservoirs offer minimal volatility, which directly translates to credit stability.
+The Alberta heavy oil market provides a stable demonstration of predictable collateral behavior. Our strategic partner, NAEOCCC, operates exclusively in SAGD and CSS enhanced recovery environments that exhibit stable production decline curves and predictable thermal efficiency. Recovery factors in mature reservoirs offer minimal volatility, which directly translates to credit stability.
 
 Reservoirs benefiting from SAGD maintain steam chambers that stabilize output. This allows for high accuracy in production forecasting. CSS wells cycle steam injection and flowback phases, providing consistent cash flow sequencing that aligns naturally with structured credit payments. In both methods, the physics of thermal extraction constrain volatility. This produces a credit environment with high predictability, low operational variance, and hard asset backing.
 
@@ -72,7 +72,7 @@ Three domains define the partnership model.
    Asset backed lending environments require precision in collateral audits, covenant calibration, and risk mapping. Roials Capital supports sponsors and lenders by providing technical intelligence that aligns liquidity structures with operational realities.
 
 3. Special mandates.  
-   This includes the energy acquisition mandates ranging from fifty million USD to two hundred fifty million USD through NAEO, and European MiFID II regulated acquisition pathways that require structured capital introductions.
+   This includes the energy acquisition mandates ranging from fifty million USD to two hundred fifty million USD through NAEOCCC, and European MiFID II regulated acquisition pathways that require structured capital introductions.
 
 Across each mandate, Roials Capital operates on a neutrality axis. This neutrality allows institutional decision makers to receive technical intelligence that is not influenced by allocation bias or issuer incentives.
 

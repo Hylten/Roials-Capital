@@ -4,7 +4,7 @@ description: "Institutional analysis of the structural mechanics influencing sov
 date: "2026-03-04"  
 author: "ROIALS CAPITAL (Institutional Briefing)"  
 slug: "architecture-sovereign-credit-mobility"  
-keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"  
+keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEOCC"  
 ---
 
 [START INSTITUTIONAL BRIEFING]
@@ -90,8 +90,8 @@ The role of Roials Capital is to map the allocator landscape, identify capital w
 Private credit calibration  
 Private credit transactions require precision in seniority, collateral treatment, and waterfall architecture. Roials Capital provides institutional intelligence on the structural implications of each layer within the credit stack. This ensures both the borrower and credit provider align expectations within the sovereign mobility framework.
 
-Energy mandates through NAEO  
-For mandates within the North American energy corridor, Roials Capital introduces allocators to NAEO, the firm’s strategic partner with operational depth in Alberta’s conventional heavy oil region. NAEO brings verified reserve diagnostics, technical recovery assessment, and operational cost curve analysis that align with institutional collateral standards.
+Energy mandates through NAEOCCC  
+For mandates within the North American energy corridor, Roials Capital introduces allocators to NAEOCCC, to which we serve as a strategic partner with operational depth in Alberta’s conventional heavy oil region. NAEOCCC brings verified reserve diagnostics, technical recovery assessment, and operational cost curve analysis that align with institutional collateral standards.
 
 This is not product distribution. It is institutional alignment.
 

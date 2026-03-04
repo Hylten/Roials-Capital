@@ -4,7 +4,7 @@ description: "Institutional-grade analysis of asset rooted liquidity frameworks,
 date: "2026-03-04"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "asset-based-liquidity-engineering-sovereign-mandate"
-keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
+keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEOCC"
 ---
 
 [START INSTITUTIONAL BRIEFING]
@@ -77,18 +77,18 @@ Alberta’s true stability arises from the integration of thermal and non therma
 
 PHASE 3: THE PARTNERSHIP MODEL
 
-Roials Capital functions as a strategic navigator. The objective is not to manage assets but to identify institutional grade operators with demonstrably superior technical and financial governance. One of the most significant partners in this landscape is North American Energy Opportunities (NAEO).
+Roials Capital functions as a strategic navigator. The objective is not to manage assets but to identify institutional grade operators with demonstrably superior technical and financial governance. One of the most significant partners in this landscape is North American Energy Opportunities Corporation (NAEOCCC).
 
 The partnership model follows four institutional criteria.
 
 1. Technical Steadiness  
-Operators must demonstrate thermal efficiency, steam to oil ratio discipline, and reservoir management sophistication. NAEO’s operational intelligence reflects this through stable SO ratios, optimized steam chambers, and continuous subsurface monitoring.
+Operators must demonstrate thermal efficiency, steam to oil ratio discipline, and reservoir management sophistication. NAEOCCC’s operational intelligence reflects this through stable SO ratios, optimized steam chambers, and continuous subsurface monitoring.
 
 2. Balance Sheet Optimization  
-The Alberta landscape rewards disciplined leverage, structured facility management, and liquidity buffers. NAEO maintains a balance sheet architecture specifically engineered for operational resilience. Roials Capital acts as an institutional introducer, clarifying the financial operating system rather than promoting the investment.
+The Alberta landscape rewards disciplined leverage, structured facility management, and liquidity buffers. NAEOCCC maintains a balance sheet architecture specifically engineered for operational resilience. Roials Capital acts as an institutional introducer, clarifying the financial operating system rather than promoting the investment.
 
 3. Regulatory Compliance  
-Operators must have frictionless alignment with Alberta Energy Regulator protocols. NAEO maintains robust compliance systems, minimizing regulatory intervention risk.
+Operators must have frictionless alignment with Alberta Energy Regulator protocols. NAEOCCC maintains robust compliance systems, minimizing regulatory intervention risk.
 
 4. Stewardship Alignment  
 Roials Capital only aligns with operators who demonstrate responsible extraction, non wasteful capital allocation, and environmental accountability consistent with biblical stewardship principles such as Proverbs 13:22. Stewardship is not a narrative device. It is a filter that removes operators lacking discipline.
