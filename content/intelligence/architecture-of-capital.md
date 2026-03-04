@@ -1,3 +1,12 @@
+---
+title: "Architecture of Capital: Engineered Sovereignty"
+description: "Insights into the foundational principles of capital architecture and the operational systems that support institutional wealth stewardship."
+date: "2026-03-04"
+author: "Roials Architect"
+slug: "architecture-of-capital"
+keywords: "capital architecture, institutional stewardship, Roials Capital"
+---
+
 # Architecture of Capital  
 Roials‑Capital
 
@@ -19,7 +28,7 @@ This article outlines the foundational principles of capital architecture, the o
   
   
   
-## H1: The Structural Premise of Capital
+## The Structural Premise of Capital
 
 Capital behaves according to architecture, not emotion.  
 
@@ -30,7 +39,7 @@ When architecture is precise, capital becomes sovereign.
   
   
   
-### H2: Capital as a Structural System
+### Capital as a Structural System
 
 Capital is not a static reservoir. It is a flow environment. It responds to incentives, constraints, and the shape of the container it occupies.  
 
@@ -49,7 +58,7 @@ The architecture determines the outcomes more than individual decisions ever wil
   
   
   
-### H2: The Three Layers of Capital Architecture
+### The Three Layers of Capital Architecture
 
 Every sustainable capital entity, from sovereign funds to private offices, is built on three layers:
 
@@ -76,7 +85,7 @@ In capital architecture, visible assets are the result of invisible design.
   
   
   
-## H1: Principles of Capital Sovereignty
+## Principles of Capital Sovereignty
 
 A sovereign capital system is one that controls its own conditions. It is independent, anti fragile, and insulated from destabilizing forces.
 

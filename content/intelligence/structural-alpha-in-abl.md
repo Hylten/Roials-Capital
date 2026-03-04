@@ -1,3 +1,12 @@
+---
+title: "Structural Alpha in Asset Based Lending: Engineered Reliability"
+description: "How Roials Capital generates surplus returns through precise structural design and engineered constraints in ABL."
+date: "2026-03-04"
+author: "Roials Architect"
+slug: "structural-alpha-in-abl"
+keywords: "ABL, Structural Alpha, Asset Based Lending, Roials Capital"
+---
+
 # Structural Alpha in Asset Based Lending  
 Roials Capital Research Division
 
