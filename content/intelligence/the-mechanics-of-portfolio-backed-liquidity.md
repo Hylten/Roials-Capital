@@ -1,7 +1,7 @@
 ---
 title: "The Mechanics of Portfolio‑Backed Liquidity for Modern Private Capital"
 description: "A technical exploration of portfolio‑backed liquidity structures, focusing on private credit and ABL solutions for HNWI and UHNW capital holders."
-date: "2026-03-06"
+date: "2026-03-24"
 author: "Jonas Hyltén"
 slug: "the-mechanics-of-portfolio-backed-liquidity"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"

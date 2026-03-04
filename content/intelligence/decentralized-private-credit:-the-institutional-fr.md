@@ -1,7 +1,7 @@
 ---
 title: "Decentralized Private Credit: The Institutional Frontier for Controlled Liquidity"
 description: "A high-authority analysis of decentralized private credit and asset based lending, built for HNWI and UHNW investors seeking institutional liquidity structures."
-date: "2026-02-13"
+date: "2026-02-27"
 author: "Jonas Hyltén"
 slug: "decentralized-private-credit:-the-institutional-fr"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"

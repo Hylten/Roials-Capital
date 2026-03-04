@@ -1,7 +1,7 @@
 ---
 title: "The Sovereign Capital Architecture: Building Multi‑Generational Liquidity"
 description: "A deep institutional analysis of the Sovereign Capital Architecture and how Roials‑Capital engineers multi generational liquidity through structured private credit, asset backed design, and sovereign level financial governance."
-date: "2026-03-12"
+date: "2026-03-30"
 author: "Jonas Hyltén"
 slug: "the-sovereign-capital-architecture:-building-multi"
 keywords: "private credit, asset based lending, Roials-Capital"

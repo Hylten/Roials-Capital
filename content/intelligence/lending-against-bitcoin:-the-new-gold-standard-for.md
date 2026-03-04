@@ -1,7 +1,7 @@
 ---
 title: "Lending Against Bitcoin: The New Gold Standard for Family Offices"
 description: "Institutional liquidity through private credit and asset based lending, anchored by Bitcoin as a collateral class engineered for HNWI and UHNW capital environments."
-date: "2026-02-19"
+date: "2026-03-06"
 author: "Jonas Hyltén"
 slug: "lending-against-bitcoin:-the-new-gold-standard-for"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"

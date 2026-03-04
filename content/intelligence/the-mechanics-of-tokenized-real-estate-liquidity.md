@@ -1,7 +1,7 @@
 ---
 title: "The Mechanics of Tokenized Real Estate Liquidity"
 description: "A surgical examination of how tokenized real estate interfaces with liquidity architecture, private credit, and asset based lending frameworks."
-date: "2026-03-08"
+date: "2026-03-26"
 author: "Jonas Hyltén"
 slug: "the-mechanics-of-tokenized-real-estate-liquidity"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"

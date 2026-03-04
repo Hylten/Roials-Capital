@@ -1,7 +1,7 @@
 ---
 title: "Asset Based Lending as the Structural Engine for Multi Generational Wealth"
 description: "Institutional level asset based lending insights for HNWI and UHNW investors seeking liquidity, stability, and multi generational capital architecture."
-date: "2026-02-10"
+date: "2026-02-24"
 author: "Jonas Hyltén"
 slug: "asset-based-lending-for-multi-generational-wealth"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"

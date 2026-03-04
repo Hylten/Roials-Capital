@@ -1,7 +1,7 @@
 ---
 title: "The Strategic Tax Advantage of Lending Against Crypto Portfolios"
 description: "Explore how HNWI and UHNW investors unlock liquidity and reduce tax load through institutional-grade asset based lending against crypto portfolios."
-date: "2026-03-14"
+date: "2026-04-01"
 author: "Jonas Hyltén"
 slug: "the-tax-advantage-of-lending-against-crypto-portfo"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"

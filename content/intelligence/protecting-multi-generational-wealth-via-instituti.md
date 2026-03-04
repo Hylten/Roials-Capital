@@ -1,7 +1,7 @@
 ---
 title: "The Institutional Architecture of Protecting Multi‑Generational Wealth Through Crypto Custody"
 description: "A high trust analysis on institutional crypto custody, liquidity engineering, private credit, and asset based lending for HNWI and UHNW families."
-date: "2026-02-23"
+date: "2026-03-10"
 author: "Jonas Hyltén"
 slug: "protecting-multi-generational-wealth-via-instituti"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"

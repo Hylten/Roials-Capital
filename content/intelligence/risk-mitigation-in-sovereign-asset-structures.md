@@ -1,7 +1,7 @@
 ---
 title: "Risk Mitigation in Sovereign Asset Structures: Architecting Stability for Institutional Capital"
 description: "An institutional examination of risk mitigation mechanics within sovereign asset structures, with emphasis on liquidity, private credit, and asset based lending frameworks."
-date: "2026-02-23"
+date: "2026-03-11"
 author: "Jonas Hyltén"
 slug: "risk-mitigation-in-sovereign-asset-structures"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"

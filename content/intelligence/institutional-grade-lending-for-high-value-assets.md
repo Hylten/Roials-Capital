@@ -1,7 +1,7 @@
 ---
 title: "Institutional Grade Lending for High-Value Assets: The Architecture of Modern Liquidity"
 description: "Institutional liquidity engineering through private credit and asset based lending for HNWI and UHNW clients seeking precision, control, and structural efficiency."
-date: "2026-02-16"
+date: "2026-03-03"
 author: "Jonas Hyltén"
 slug: "institutional-grade-lending-for-high-value-assets"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"

@@ -1,7 +1,7 @@
 ---
 title: "Liquidity Architecture for Fund III Expansion: Structural Mechanics for Institutional-Grade Capital"
 description: "An institutional analysis of liquidity architecture, private credit, and asset based lending designed for HNWI and UHNW capital expansion."
-date: "2026-02-20"
+date: "2026-03-07"
 author: "Jonas Hyltén"
 slug: "liquidity-architecture-for-fund-iii-expansion"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"

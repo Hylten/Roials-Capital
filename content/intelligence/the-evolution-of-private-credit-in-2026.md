@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of Private Credit in 2026: The New Architecture of Institutional Liquidity"
 description: "A surgical examination of private credit and asset based lending in 2026, with emphasis on liquidity pathways for HNWI and UHNW portfolios through ABL structures."
-date: "2026-03-03"
+date: "2026-03-20"
 author: "Jonas Hyltén"
 slug: "the-evolution-of-private-credit-in-2026"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"

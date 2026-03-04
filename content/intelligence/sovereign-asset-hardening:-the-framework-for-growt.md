@@ -1,7 +1,7 @@
 ---
 title: "Sovereign Asset Hardening: The Framework for Growth"
 description: "A high‑authority exploration of liquidity architecture, private credit, and asset based lending for HNWI and UHNW portfolios seeking structural resilience."
-date: "2026-02-24"
+date: "2026-03-11"
 author: "Jonas Hyltén"
 slug: "sovereign-asset-hardening:-the-framework-for-growt"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"

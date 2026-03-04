@@ -1,7 +1,7 @@
 ---
 title: "The Mechanics of Sovereign Loan Structuring: A Precision Framework for Institutional Liquidity"
 description: "An institutional-level breakdown of sovereign loan structuring, private credit, and asset based lending mechanics for high net worth liquidity execution."
-date: "2026-03-07"
+date: "2026-03-25"
 author: "Jonas Hyltén"
 slug: "the-mechanics-of-sovereign-loan-structuring"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"

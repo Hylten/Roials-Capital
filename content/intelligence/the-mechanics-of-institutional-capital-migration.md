@@ -1,7 +1,7 @@
 ---
 title: "The Mechanics of Institutional Capital Migration"
 description: "A high‑trust analysis of how liquidity flows through private credit and asset based lending frameworks for HNWI and UHNW portfolios."
-date: "2026-03-05"
+date: "2026-03-23"
 author: "Jonas Hyltén"
 slug: "the-mechanics-of-institutional-capital-migration"
 keywords: "private credit, asset based lending, liquidity, HNWI, UHNW, Roials-Capital"
