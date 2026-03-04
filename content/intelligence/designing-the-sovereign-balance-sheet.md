@@ -1,7 +1,7 @@
 ---
 title: "Designing the Sovereign Balance Sheet: A Structural Blueprint for Private Liquidity Architecture"
 description: "A high-authority guide to liquidity engineering, private credit, and asset based liquidity engineering for HNWI and UHNW individuals seeking institutional grade balance sheet design."
-date: "2026-02-28"
+date: "2026-01-19"
 author: "Jonas Hyltén"
 slug: "designing-the-sovereign-balance-sheet"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"

@@ -1,7 +1,7 @@
 ---
 title: "The Future of Sovereign Capital Infrastructure"
 description: "A deep examination of liquidity architecture, private credit, and asset based liquidity engineering for institutional, HNWI, and UHNW capital structures."
-date: "2026-03-04"
+date: "2026-02-02"
 author: "Jonas Hyltén"
 slug: "the-future-of-sovereign-capital-infrastructure"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"

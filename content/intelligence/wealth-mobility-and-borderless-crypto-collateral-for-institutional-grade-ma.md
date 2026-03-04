@@ -1,9 +1,9 @@
 ---
 title: "Wealth Mobility and Borderless Crypto Collateral for Institutional-Grade M&A"
 description: "Institutional analysis of liquidity engineering using private credit and asset based liquidity engineering structures for global M&A. Includes crypto collateralization pathways for HNWI and UHNW liquidity events."
-date: "2026-03-04"
+date: "2026-02-10"
 author: "Jonas Hyltén"
-slug: "wealth-mobility-using-borderless-crypto-collateral"
+slug: "wealth-mobility-and-borderless-crypto-collateral-for-institutional-grade-ma"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
 ---
 

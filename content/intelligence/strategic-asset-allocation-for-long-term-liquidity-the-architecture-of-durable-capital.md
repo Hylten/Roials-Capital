@@ -1,9 +1,9 @@
 ---
 title: "Strategic Asset Allocation for Long-Term Liquidity: The Architecture of Durable Capital"
 description: "A high-level liquidity framework for HNWI and UHNW investors using private credit and asset-based liquidity engineering to engineer long-term optionality."
-date: "2026-03-04"
+date: "2026-01-29"
 author: "Jonas Hyltén"
-slug: "strategic-asset-allocation-for-long-term-liquidity"
+slug: "strategic-asset-allocation-for-long-term-liquidity-the-architecture-of-durable-capital"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
 ---
 

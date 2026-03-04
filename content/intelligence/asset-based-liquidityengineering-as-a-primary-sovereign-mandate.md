@@ -1,7 +1,7 @@
 ---
 title: "Asset Based liquidity engineering As A Primary Sovereign Mandate"
 description: "Asset Based liquidity engineering As A Primary Sovereign Mandate"
-date: "2026-02-24"
+date: "2026-01-16"
 author: "Jonas Hyltén"
 slug: "asset-based-liquidityengineering-as-a-primary-sovereign-mandate"
 keywords: "private credit, ABL, liquidity"
