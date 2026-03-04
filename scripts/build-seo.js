@@ -142,7 +142,14 @@ async function generateSEO() {
             <h1 style="font-family: serif; font-size: clamp(2.5rem, 6vw, 4.5rem); color: #C5A059; margin-bottom: 60px; line-height: 1.1; text-align: center;">${title}</h1>
             <div style="font-size: 14px; color: #666; text-transform: uppercase; letter-spacing: 3px; margin-bottom: 80px; border-bottom: 1px solid #1a1a1a; padding-bottom: 48px; width: 100%; text-align: center;">Published ${date} • Roials Capital Strategy</div>
             <div style="line-height: 2.1; font-size: 1.35rem; color: #9CA3AF !important; font-weight: 300; width: 100%; text-align: left;">
-                ${content.split('\n').map(p => p.trim() ? `<p style="margin-bottom: 48px;">${p}</p>` : '').join('')}
+                ${content.split('\n').map(p => {
+      p = p.trim();
+      if (!p) return '';
+      if (p.startsWith('### ')) return `<h3 style="font-size: 1.5rem; color: #C5A059; margin-top: 40px; margin-bottom: 20px; font-weight: 500; font-family: serif;">${p.replace('### ', '')}</h3>`;
+      if (p.startsWith('## ')) return `<h2 style="font-size: 2rem; color: #C5A059; margin-top: 60px; margin-bottom: 30px; font-weight: 500; font-family: serif;">${p.replace('## ', '')}</h2>`;
+      p = p.replace(/\*\*(.*?)\*\*/g, '<strong style="color: #E5E7EB; font-weight: 600;">$1</strong>');
+      return `<p style="margin-bottom: 48px;">${p}</p>`;
+    }).join('')}
             </div>
         </div>
     </div>`;
