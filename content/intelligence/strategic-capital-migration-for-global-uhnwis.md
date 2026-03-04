@@ -97,7 +97,7 @@ Private credit operates on underwriting logic that is divorced from public marke
 
   
 
-Roials-Capital provides private credit solutions that are built for the top 0.1 percent. Quiet structures. Global reach. Institutional rigor. Every term engineered with precision.
+Roials-Capital provides private credit solutions that are built for the top 0:1 percent. Quiet structures. Global reach. Institutional rigor. Every term engineered with precision.
 
   
 
