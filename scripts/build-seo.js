@@ -88,7 +88,8 @@ async function generateSEO() {
   // 1. Generate Index Page (/intelligence/index.html)
   let listHtml = '<style>.arch-item a { transition: opacity 0.3s; } .arch-item a:hover { opacity: 0.7; }</style>';
   listHtml += '<div style="background: #000000 !important; min-height: 100vh; padding: 180px 24px; color: #E5E7EB; display: flex; flex-direction: column; align-items: center; overflow-x: hidden;">';
-  listHtml += '<h1 style="font-size: clamp(3.5rem, 10vw, 8rem); color: #C5A059 !important; margin-bottom: 80px; font-weight: 400; font-family: serif; letter-spacing: -0.05em; line-height: 1; text-align: center;">Intelligence <span style="font-style: italic; color: #444; font-weight: 300;">Archive</span></h1>';
+  listHtml += '<h1 style="font-size: clamp(3.5rem, 10vw, 8rem); color: #C5A059 !important; margin-bottom: 60px; font-weight: 400; font-family: serif; letter-spacing: -0.05em; line-height: 1; text-align: center;">Intelligence <span style="font-style: italic; color: #333; font-weight: 300;">Archive</span></h1>';
+  listHtml += '<p style="font-size: 1.25rem; color: #9CA3AF; max-width: 700px; margin: 0 auto 200px; line-height: 1.6; font-weight: 300; text-align: center;">Institutional briefings on North American energy assets, structural liquidity engineering, and generational stewardship frameworks.</p>';
 
   for (const file of files) {
     const filePath = path.join(CONTENT_DIR, file);
