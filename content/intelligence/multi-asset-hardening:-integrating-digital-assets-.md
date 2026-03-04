@@ -1,7 +1,7 @@
 ---
 title: "Multi‑Asset Hardening for Fund III: Integrating Digital Assets Into Institutional liquidity engineering Architecture"
 description: "Institutional overview of liquidity engineering and asset based liquidity engineering, with a focus on digital asset integration for HNWI and UHNW clients."
-date: "2026-03-08"
+date: "2026-01-24"
 author: "Jonas Hyltén"
 slug: "multi-asset-hardening:-integrating-digital-assets-"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"

@@ -1,7 +1,7 @@
 ---
 title: "The Architecture of Institutional Trust"
 description: "An institutional exploration of liquidity, private credit, and asset based liquidity engineering structures for HNWI and UHNW clients seeking disciplined capital architecture."
-date: "2026-03-19"
+date: "2026-02-01"
 author: "Jonas Hyltén"
 slug: "the-architecture-of-institutional-trust"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"

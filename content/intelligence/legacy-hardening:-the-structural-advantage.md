@@ -1,7 +1,7 @@
 ---
 title: "Legacy Hardening: The Structural Advantage"
 description: "An institutional exploration of liquidity architecture through private credit and asset based liquidity engineering for HNWI and UHNW portfolios."
-date: "2026-03-06"
+date: "2026-01-23"
 author: "Jonas Hyltén"
 slug: "legacy-hardening:-the-structural-advantage"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"

@@ -1,7 +1,7 @@
 ---
 title: "The Architecture Of Sovereign Credit Mobility"
 description: "The Architecture Of Sovereign Credit Mobility"
-date: "2026-03-19"
+date: "2026-02-01"
 author: "Jonas Hyltén"
 slug: "the-architecture-of-sovereign-credit-mobility"
 keywords: "private credit, ABL, liquidity"

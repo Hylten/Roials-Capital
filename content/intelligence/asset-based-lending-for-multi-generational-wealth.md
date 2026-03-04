@@ -1,7 +1,7 @@
 ---
 title: "Asset Based liquidity engineering as the Structural Engine for Multi Generational Wealth"
 description: "Institutional level asset based liquidity engineering insights for HNWI and UHNW investors seeking liquidity, stability, and multi generational capital architecture."
-date: "2026-02-24"
+date: "2026-01-17"
 author: "Jonas Hyltén"
 slug: "asset-based-liquidity engineering-for-multi-generational-wealth"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"

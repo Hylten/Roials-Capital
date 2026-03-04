@@ -1,7 +1,7 @@
 ---
 title: "Institutional Standards for Private liquidity engineering Agreements: The Roials Capital Framework"
 description: "A high-authority analysis of institutional protocols for private credit and asset based liquidity engineering, focused on liquidity, collateral integrity, and high net worth execution."
-date: "2026-03-05"
+date: "2026-01-22"
 author: "Jonas Hyltén"
 slug: "institutional-standards-for-private-liquidity engineering-agreem"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"

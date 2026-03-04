@@ -1,7 +1,7 @@
 ---
 title: "Institutional Grade Infrastructure for Asset Hardening"
 description: "Institutional liquidity architecture for HNWI and UHNW investors, focused on private credit and asset based liquidity engineering frameworks."
-date: "2026-03-02"
+date: "2026-01-21"
 author: "Jonas Hyltén"
 slug: "institutional-grade-infrastructure-for-asset-harde"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"

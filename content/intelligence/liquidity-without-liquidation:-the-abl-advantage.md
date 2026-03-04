@@ -1,7 +1,7 @@
 ---
 title: "Liquidity Without Liquidation: The ABL Advantage for Private Wealth Architecture"
 description: "Explore how Roials-Capital structures liquidity through Asset-Based liquidity engineering without forced liquidation, designed for HNWI and UHNW portfolios."
-date: "2026-03-07"
+date: "2026-01-24"
 author: "Jonas Hyltén"
 slug: "liquidity-without-liquidation:-the-abl-advantage"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
