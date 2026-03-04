@@ -1,9 +1,9 @@
 ---
 title: "The Sovereign Balance Sheet: Engineering For Fund "
 description: "The Sovereign Balance Sheet: Engineering For Fund "
-date: "2026-02-08"
+date: "2026-03-04"
 author: "Jonas Hyltén"
-slug: "the-sovereign-balance-sheet:-engineering-for-fund-"
+slug: "the-sovereign-balance-sheet-engineering-for-fund-"
 keywords: "private credit, ABL, liquidity"
 ---
 

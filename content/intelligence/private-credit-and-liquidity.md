@@ -1,7 +1,7 @@
 ---
 title: "Private Credit and Liquidity: The Modern Foundation"
 description: "An analysis of the structural shift in private credit and its role as a foundational pillar for institutional liquidity."
-date: "2026-01-26"
+date: "2026-03-04"
 author: "Jonas Hyltén"
 slug: "private-credit-and-liquidity"
 keywords: "private credit, liquidity, institutional finance, Roials Capital"

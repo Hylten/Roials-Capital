@@ -1,9 +1,9 @@
 ---
 title: "Crypto Liquidity Architecture for Sovereign and Ultra-Capital Entities"
 description: "Institutional-grade crypto liquidity solutions backed by private credit and ABL. Minimum deployment $2M. Structural mechanics for HNWI and UHNW capital."
-date: "2026-01-18"
+date: "2026-02-26"
 author: "Jonas Hyltén"
-slug: "crypto-liquidity-for-sovereign-entities-($2m-min)"
+slug: "crypto-liquidity-for-sovereign-entities-2m-min"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
 ---
 

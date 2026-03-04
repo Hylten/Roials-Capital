@@ -1,9 +1,9 @@
 ---
 title: "The Power of Private Credit in Modern M&A Architecture"
 description: "A strategic examination of liquidity engineering and asset based liquidity engineering in contemporary M&A environments, designed for HNWI and UHNW decision‑makers."
-date: "2026-02-07"
+date: "2026-03-04"
 author: "Jonas Hyltén"
-slug: "the-power-of-private-credit-in-m&a"
+slug: "the-power-of-private-credit-in-ma"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
 ---
 

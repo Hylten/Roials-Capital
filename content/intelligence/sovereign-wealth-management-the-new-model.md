@@ -1,9 +1,9 @@
 ---
 title: "Sovereign Wealth Management: The New Institutional Model for Private Capital"
 description: "A surgical examination of modern liquidity architecture, private credit, and asset based liquidity engineering for HNWI and UHNW portfolios."
-date: "2026-01-28"
+date: "2026-03-04"
 author: "Jonas Hyltén"
-slug: "sovereign-wealth-management:-the-new-model"
+slug: "sovereign-wealth-management-the-new-model"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Institutional Grade Infrastructure For Global Capi"
 description: "Institutional Grade Infrastructure For Global Capi"
-date: "2026-01-21"
+date: "2026-03-03"
 author: "Jonas Hyltén"
 slug: "institutional-grade-infrastructure-for-global-capi"
 keywords: "private credit, ABL, liquidity"

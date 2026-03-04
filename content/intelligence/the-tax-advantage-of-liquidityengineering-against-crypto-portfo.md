@@ -1,9 +1,9 @@
 ---
 title: "The Strategic Tax Advantage of liquidity engineering Against Crypto Portfolios"
 description: "Explore how HNWI and UHNW investors unlock liquidity and reduce tax load through institutional-grade asset based liquidity engineering against crypto portfolios."
-date: "2026-02-10"
+date: "2026-03-04"
 author: "Jonas Hyltén"
-slug: "the-tax-advantage-of-liquidity engineering-against-crypto-portfo"
+slug: "the-tax-advantage-of-liquidityengineering-against-crypto-portfo"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
 ---
 

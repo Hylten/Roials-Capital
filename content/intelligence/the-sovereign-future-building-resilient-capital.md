@@ -1,9 +1,9 @@
 ---
 title: "The Sovereign Future: Building Resilient Capital"
 description: "An institutional exploration of liquidity strategy through private credit and asset based liquidity engineering for HNWI and UHNW portfolios."
-date: "2026-02-09"
+date: "2026-03-04"
 author: "Jonas Hyltén"
-slug: "the-sovereign-future:-building-resilient-capital"
+slug: "the-sovereign-future-building-resilient-capital"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
 ---
 

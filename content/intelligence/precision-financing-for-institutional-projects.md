@@ -1,7 +1,7 @@
 ---
 title: "Precision Financing for Institutional Projects"
 description: "High-trust liquidity solutions through private credit and asset based liquidity engineering for institutional-scale projects and UHNW mandates."
-date: "2026-01-25"
+date: "2026-03-04"
 author: "Jonas Hyltén"
 slug: "precision-financing-for-institutional-projects"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
