@@ -1,6 +1,6 @@
 ---
 title: "The Sovereign Crypto Bank Regime and the Liquidity Mandate of Fund-III"
-description: "Institutional brief on sovereign-grade digital banking architectures, Fund-III liquidity structuring, private credit capital formation, and multi‑jurisdictional acquisition lanes across MiFID II, ABL, and energy-transition mandates."
+description: "Institutional brief on sovereign-grade digital banking architectures, Fund-III liquidity structuring, private credit capital formation, and multi‑jurisdictional acquisition lanes across MiFID II, Asset-Based Lending, and energy-transition mandates."
 date: "2024-03-28"
 author: "Roials-Capital"
 slug: "sovereign-crypto-bank-regime-liquidity-mandate-Fund-III"
@@ -51,7 +51,7 @@ Fund‑III is buyout‑driven. Add‑on friendly. Asset-hardened. Designed for h
 • Fragmentation of LP liquidity windows 
 • Repricing of mid-market acquisition premiums 
 
-Under these conditions, standard capital calls become brittle. NAV financing becomes expensive. ABL becomes slow. And equity-only acquisition strategies destroy IRRs.
+Under these conditions, standard capital calls become brittle. NAV financing becomes expensive. Asset-Based Lending becomes slow. And equity-only acquisition strategies destroy IRRs.
 
 Fund‑III needs engineered liquidity.
 
@@ -60,7 +60,7 @@ It needs a bank capable of:
 • Building capital formation funnels 
 • Pre-positioning dry-powder buffers 
 • Sequencing tranches for multi-stage buyouts 
-• Tokenizing ABL structures for rapid redeployment 
+• Tokenizing Asset-Based Lending structures for rapid redeployment 
 • Offering cross-jurisdiction settlement that stays inside regulatory boundaries 
 
 Kapitalanskaffning is 80% of the mandate. Without upstream formation, downstream execution collapses.
@@ -95,9 +95,9 @@ LPs invest in certainty. The sovereign crypto bank regime manufactures certainty
 
 ---
 
-ABL AND Institutional Liquidity Paths (10% MANDATE)
+Asset-Based Lending AND Institutional Liquidity Paths (10% MANDATE)
 
-ABL is not a loan product. It is a Strategic Collateralization discipline. It converts dormant operational assets into capital velocity. Fund‑III requires ABL structures that operate across both classical and digital frameworks:
+Asset-Based Lending is not a loan product. It is a Strategic Collateralization discipline. It converts dormant operational assets into capital velocity. Fund‑III requires Asset-Based Lending structures that operate across both classical and digital frameworks:
 
 • Inventory-backed liquidity 
 • Receivables tokenization 
@@ -105,9 +105,9 @@ ABL is not a loan product. It is a Strategic Collateralization discipline. It co
 • Digitally-verified collateral cycles 
 • Automated borrowing base audits 
 
-ABL is the silent partner of every buyout. When engineered properly, it reduces cash burn, extends runway, and shifts risk from equity to structured credit. The sovereign crypto bank integrates ABL into its balance sheet mechanics, creating a seamless loop between operational assets and deal liquidity.
+Asset-Based Lending is the silent partner of every buyout. When engineered properly, it reduces cash burn, extends runway, and shifts risk from equity to structured credit. The sovereign crypto bank integrates Asset-Based Lending into its balance sheet mechanics, creating a seamless loop between operational assets and deal liquidity.
 
-ABL becomes the shock absorber for Fund‑III execution.
+Asset-Based Lending becomes the shock absorber for Fund‑III execution.
 
 ---
 
@@ -137,7 +137,7 @@ A sovereign crypto bank functions like an institutional citadel:
 • Settlement engines as velocity drivers 
 • Compliance automation as shielding 
 • Capital formation funnels as lifeblood 
-• ABL as the stabilizer 
+• Asset-Based Lending as the stabilizer 
 • Buyout mandates as the deployment target 
 
 This is structural finance, not speculative finance. Hard architecture, not hype. The bank becomes a liquidity sovereign because it can see everything, document everything, and move capital under regulatory clarity.

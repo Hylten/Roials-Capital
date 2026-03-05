@@ -40,7 +40,7 @@ Preservation begins with the curve itself. We operate with a simple doctrine: th
 A waterfall is not a distribution diagram. It is a risk architecture. The first rule is non-negotiable: cash pays down fragility before it pays out return. Senior amortization exceeds baseline by 11 to 18 percent in stressed scenarios. Working capital buffers are mandated. Break triggers are automated. This is stewardship expressed in numbers.
 
 3. Recovery Factors 
-In downturn mathematics, recovery is destiny. Asset-heavy operations with low obsolescence carry materially higher recoveries. Fund-III prioritizes these categories: industrial services, energy operations, specialized manufacturing, durable logistics, and high-friction B2B platforms. The recovery equation is strengthened further through ABL overlays, collateral segmentation, and covenant-linked appraisal cadence.
+In downturn mathematics, recovery is destiny. Asset-heavy operations with low obsolescence carry materially higher recoveries. Fund-III prioritizes these categories: industrial services, energy operations, specialized manufacturing, durable logistics, and high-friction B2B platforms. The recovery equation is strengthened further through Asset-Based Lending overlays, collateral segmentation, and covenant-linked appraisal cadence.
 
 When these mechanics align, capital becomes self-defending. The structure protects itself even when the macro environment does not.
 
@@ -49,7 +49,7 @@ The partnership architecture is the operating engine. Preservation is institutio
 
 The mandate is 80 percent capital raising for Fund-III across buyouts and add-ons. The capital stack is conservative by design. We raise from LPs who understand the theology of restraint. They value patience over velocity. They value precision over spectacle.
 
-Our 10 percent ABL mandate is not an opportunistic strategy. It is a Monetization Architecture function integrated into the buyout machine. ABL is not there for yield. It is there for control. It flattens volatility. It stabilizes borrowing bases. It turns operational chaos into definable metrics.
+Our 10 percent Asset-Based Lending mandate is not an opportunistic strategy. It is a Monetization Architecture function integrated into the buyout machine. Asset-Based Lending is not there for yield. It is there for control. It flattens volatility. It stabilizes borrowing bases. It turns operational chaos into definable metrics.
 
 The remaining 10 percent sits in special mandates: NAEOC energy deployments, MiFID II regulated acquisitions, and targeted private credit structures between 50 and 250 million. These mandates serve one purpose: preserve optionality. Optionality is power. Power is preservation.
 

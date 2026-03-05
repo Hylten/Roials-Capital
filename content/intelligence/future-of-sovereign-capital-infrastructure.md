@@ -30,7 +30,7 @@ The macro regime shift is therefore marked by dislocation: capital seeking produ
 
 PHASE 2: TECHNICAL MECHANICS
 
-The future of sovereign capital infrastructure is shaped by mechanical structures rather than thematic narratives. For global allocators engaged in Fund-III buyouts, add-ons, ABL structures, or North American energy mandates, the operative mechanics determine the effectiveness of capital more than top level asset selection.
+The future of sovereign capital infrastructure is shaped by mechanical structures rather than thematic narratives. For global allocators engaged in Fund-III buyouts, add-ons, Asset-Based Lending structures, or North American energy mandates, the operative mechanics determine the effectiveness of capital more than top level asset selection.
 
 Energy Mechanics: Alberta Basin Physics and NAEO Operational Intelligence
 
@@ -68,18 +68,18 @@ For allocators evaluating Fund-III strategies, the technical frameworks have shi
 4. Cross border balance sheet optimization
  European MiFID II constraints, combined with US capital efficiency requirements, create a dual environment where sovereign allocators require partners capable of engineering regulatory compliant balance sheet structures. The objective is frictionless mobility within regulated limits, not circumvention.
 
-Strategic Collateralization: ABL as Strategic Infrastructure
+Strategic Collateralization: Asset-Based Lending as Strategic Infrastructure
 
-ABL structures now function as sovereign tools for operational continuity. Strategic Collateralization has moved from episodic financing to a permanent feature of institutional capital architecture. Three mechanics matter most:
+Asset-Based Lending structures now function as sovereign tools for operational continuity. Strategic Collateralization has moved from episodic financing to a permanent feature of institutional capital architecture. Three mechanics matter most:
 
 1. Asset hardening
- The transformation of soft assets into collateral eligible instruments is a primary function of sovereign capital stability. ABL hardens working capital, inventory, and predictable receivables into agile liquidity.
+ The transformation of soft assets into collateral eligible instruments is a primary function of sovereign capital stability. Asset-Based Lending hardens working capital, inventory, and predictable receivables into agile liquidity.
 
 2. Borrowing base elasticity
  Sovereign frameworks demand elasticity in borrowing bases that calibrate to production cycles, commodity movements, or procurement demands. The discussion is engineering based, not promotional.
 
 3. Compliance centric flexibility
- ABL structures positioned inside sovereign capital infrastructure must maintain regulatory transparency while retaining operational adaptability. The structure must serve as a financial stabilizer rather than a leveraged amplifier.
+ Asset-Based Lending structures positioned inside sovereign capital infrastructure must maintain regulatory transparency while retaining operational adaptability. The structure must serve as a financial stabilizer rather than a leveraged amplifier.
 
 PHASE 3: THE PARTNERSHIP MODEL
 
@@ -89,7 +89,7 @@ In the North American energy domain, NAEO functions as the institutional grade o
 
 In Fund-III capital formation, Roials Capital provides macro structural calibration that allows global GPs to articulate their mandates with institutional clarity. The emphasis is on productive acquisition regimes, disciplined add-on structures, and multi jurisdictional capital stack optimization. The approach is analytical rather than promotional.
 
-In ABL mandates, Roials Capital aligns Asset-Backed Frameworks with balance sheet stabilization and asset hardening principles. The objective is not transaction volume but long horizon operational continuity.
+In Asset-Based Lending mandates, Roials Capital aligns Asset-Backed Frameworks with balance sheet stabilization and asset hardening principles. The objective is not transaction volume but long horizon operational continuity.
 
 PHASE 4: THE STEWARDSHIP FILTER
 
@@ -101,7 +101,7 @@ Proverbs 13:22 states that a good person leaves an inheritance for future genera
  Deployment must prioritize productive systems over speculative environments. Alberta heavy oil, logistics corridors, and advanced infrastructure meet this standard due to physical productivity.
 
 2. Balance sheet stewardship
- Structures must prevent erosion of institutional resilience. ABL, disciplined leverage, and operational liquidity contribute to stability.
+ Structures must prevent erosion of institutional resilience. Asset-Based Lending, disciplined leverage, and operational liquidity contribute to stability.
 
 3. Sovereign stewardship
  Sovereign allocators require capital pathways that reinforce state level productivity and long term supply chain security. Sovereign capital infrastructure is therefore inherently intergenerational.

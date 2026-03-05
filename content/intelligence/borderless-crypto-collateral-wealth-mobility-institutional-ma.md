@@ -41,7 +41,7 @@ Crypto collateral can be inserted into an M&A capital stack through three primar
 - Synthetic liquidity tranches for deposit-anchored deal deposits.
 - Cross-custodial security agreements that unlock jurisdictional flexibility.
 
-The LTV curve behaves differently than traditional ABL. It does not track depreciation. It tracks volatility clustering. This changes the required spread on the senior facility. Crypto LTV is not governed by asset decay. It is governed by behavioral liquidity. That means shock windows are predictable, not random.
+The LTV curve behaves differently than traditional Asset-Based Lending. It does not track depreciation. It tracks volatility clustering. This changes the required spread on the senior facility. Crypto LTV is not governed by asset decay. It is governed by behavioral liquidity. That means shock windows are predictable, not random.
 
 Cash flow waterfalls also behave differently when anchored to mobile collateral. Instead of amortization schedules that match operational revenue cycles, crypto-backed tranches can be structured around volatility windows. Senior claims retain priority. But the collateral coverage ratio remains dynamic. That reduces risk at the facility level, not increases it.
 
@@ -71,7 +71,7 @@ Crypto collateral frees cash that would otherwise be locked in equity. That cash
 
 This architecture creates a predictable engine for:
 - Kapitalanskaffning for Fund-III buyouts.
-- ABL for liquidity expansion.
+- Asset-Based Lending for liquidity expansion.
 - Special mandates including NAEOC 50M to 250M energy portfolios and EU acquisition pipelines.
 
 The strategic advantage is structural. The market has not yet priced it. That is the window.

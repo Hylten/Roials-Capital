@@ -1,10 +1,10 @@
 ---
 title: "Structural Alpha in Asset Based liquidity engineering: Engineered Reliability"
-description: "How Roials Capital generates surplus returns through precise structural design and engineered constraints in ABL."
+description: "How Roials Capital generates surplus returns through precise structural design and engineered constraints in Asset-Based Lending."
 date: "2024-08-11"
 author: "Jonas Hyltén"
 slug: "structural-alpha-in-asset-based-liquidity-engineering-engineered-reliability"
-keywords: "ABL, Structural Alpha, Asset Based Asset-Backed Frameworks, Roials Capital"
+keywords: "Asset-Based Lending, Structural Alpha, Asset Based Asset-Backed Frameworks, Roials Capital"
 ---
 
 # Structural Alpha in Asset Based Capital Structuring 
@@ -20,12 +20,12 @@ Structural Alpha is not a marketing phrase.
 It is the measurable surplus return generated through structural design, not risk escalation. 
 It is earned through architecture, not optimism. 
 
-Roials Capital approaches ABL as a system of engineered constraints. 
+Roials Capital approaches Asset-Based Lending as a system of engineered constraints. 
 These constraints create reliability. 
 Reliability creates predictive cash flow. 
 Predictive cash flow creates the conditions for Structural Alpha. 
 
-## Defining Structural Alpha in ABL
+## Defining Structural Alpha in Asset-Based Lending
 
 Structural Alpha is the return produced by structural asymmetry. 
 The lender is positioned to absorb predictable risk while capturing disproportionate reward. 
@@ -37,13 +37,13 @@ Third, the facility structure determines the lender’s rights under stress scen
 
 When these principles align, the facility produces returns that exceed the borrower’s credit profile, yet avoid the volatility associated with unsecured credit. 
 
-## The Architecture of ABL Risk
+## The Architecture of Asset-Based Lending Risk
 
-ABL is often described as senior-secured credit. 
+Asset-Based Lending is often described as senior-secured credit. 
 This definition is technically correct, yet operationally incomplete. 
 The true risk resides not in seniority, but in structure. 
 
-Risk concentration in ABL comes from three vectors. 
+Risk concentration in Asset-Based Lending comes from three vectors. 
 
 1. Collateral volatility 
 2. Information asymmetry 
@@ -56,7 +56,7 @@ A machine that converts collateral into yield with surgical precision.
 ## Collateral as a Yield Engine
 
 In conventional credit, collateral is an afterthought. 
-In ABL, collateral is the engine of the facility. 
+In Asset-Based Lending, collateral is the engine of the facility. 
 
 Working assets such as receivables and inventory exhibit consistent liquidity cycles. 
 These cycles can be modelled with industrial accuracy. 
@@ -72,7 +72,7 @@ Return is generated from the asset’s liquidity, while protection is derived fr
 
 ## Information Discipline
 
-ABL requires information density. 
+Asset-Based Lending requires information density. 
 Information is the oxygen that keeps the structure risk-sterile. 
 
 Borrowers deliver weekly or monthly collateral reports. 
@@ -83,7 +83,7 @@ The lender receives a continuous feed of:
 - Inventory movements 
 - Adjustments and dilutions 
 
-Institutional ABL frameworks use this flow to enforce dynamic controls. 
+Institutional Asset-Based Lending frameworks use this flow to enforce dynamic controls. 
 The controls are not reactive. 
 They are pre-programmed. 
 
@@ -114,7 +114,7 @@ This asymmetry is central to Structural Alpha.
 
 ## Stress Scenarios and Enforcement Geometry
 
-Institutional ABL is defined by its behaviour under stress. 
+Institutional Asset-Based Lending is defined by its behaviour under stress. 
 Stress reveals whether a facility is an engineered system, or a simple liquidity facility with a collateral schedule. 
 
 Enforcement geometry governs the lender’s strategic posture. 
@@ -162,7 +162,7 @@ Structural Alpha is generated at specific points inside the facility.
 These points are engineered, not incidental. 
 
 ### Alpha from Liquidity Privilege 
-The ABL lender sits closest to the operating cash cycle. 
+The Asset-Based Lending lender sits closest to the operating cash cycle. 
 This position gives the lender privileged visibility, which converts into stability. 
 
 ### Alpha from Advance Rate Precision 
@@ -176,12 +176,12 @@ Time compression mitigates loss severity.
 ### Alpha from Predictive Enforcement 
 Predefined enforcement mechanics avoid negotiation delay. 
 Delay is where unsecured losses materialize. 
-ABL avoids this phase entirely. 
+Asset-Based Lending avoids this phase entirely. 
 
 ## The Institutional Edge
 
-Institutional ABL differs from middle-market ABL in one fundamental respect. 
-Institutions treat ABL as a systems-engineering problem, not a relationship-Institutional Liquidity Paths product. 
+Institutional Asset-Based Lending differs from middle-market Asset-Based Lending in one fundamental respect. 
+Institutions treat Asset-Based Lending as a systems-engineering problem, not a relationship-Institutional Liquidity Paths product. 
 
 This difference creates three competitive edges. 
 
@@ -204,7 +204,7 @@ It allows lenders to serve operating companies without absorbing excess credit r
 It allows capital providers to capture returns that outperform risk-adjusted benchmarks. 
 
 In an environment where unsecured credit experiences margin compression and rising defaults, 
-ABL becomes the rational frontier. 
+Asset-Based Lending becomes the rational frontier. 
 Within that frontier, Structural Alpha is the differentiator. 
 
 ## Roials Capital’s Position
@@ -223,7 +223,7 @@ Resilience is the source of confidence for institutional partners and borrowers 
 
 ## Conclusion
 
-Structural Alpha in ABL is not an abstraction. 
+Structural Alpha in Asset-Based Lending is not an abstraction. 
 It is the measurable premium created when facility architecture governs behaviour, liquidity, and enforcement with surgical clarity. 
 
 It is the outcome of engineered asymmetry. 

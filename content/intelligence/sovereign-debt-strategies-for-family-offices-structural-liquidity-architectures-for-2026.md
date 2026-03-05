@@ -208,7 +208,7 @@ With the anchor, the portfolio becomes a controlled matrix.
 
 ## Integrating Sovereign Debt into Asset Based Institutional Liquidity Paths Structures
 
-Roials Capital operates primarily in private credit and ABL Monetization Architecture. 
+Roials Capital operates primarily in private credit and Asset-Based Lending Monetization Architecture. 
 This gives us a unique vantage point.
 
 Family offices often hold private assets that produce yield but lack immediate liquidity. 
@@ -222,7 +222,7 @@ This integration offers:
 • Increased leverage capacity 
 • Predictable liquidity cycles 
 
-ABL strategies benefit from sovereign exposure because it creates a disciplined funding schedule. 
+Asset-Based Lending strategies benefit from sovereign exposure because it creates a disciplined funding schedule. 
 Private credit benefits because sovereign signals reduce pricing uncertainty.
 
 ## The Real Objective: Liquidity Without Distortion

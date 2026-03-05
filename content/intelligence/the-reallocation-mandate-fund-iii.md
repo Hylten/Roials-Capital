@@ -42,7 +42,7 @@ The capital stack becomes predictable. Build thick. Build directional. Build irr
 The Reallocation Mandate requires that every institutional dollar entering the Roials-Capital orbit undergoes three tests:
 
 • Can it accelerate Fund-III buyout momentum? 
-• Can it provide measurable liquidity relief for GP or LP participants through ABL engineering? 
+• Can it provide measurable liquidity relief for GP or LP participants through Asset-Based Lending engineering? 
 • Can it enable corridor entry for external special mandates, notably NAEOC energy acquisitions and MiFID II cross-border license expansions? 
 
 If not, re-route. If yes, harden. Speed matters. Precision wins.
@@ -59,7 +59,7 @@ Europe remains constrained by regulatory friction under MiFID II, but this frict
 
 Every move creates delta. Delta creates altitude.
 
-Capital Structuring remains the silent weapon. Activated only when required. Ten percent of our mandate. No more. No less. ABL operations stabilize GP structures, portfolio companies, and LP liquidity windows. We use receivable acceleration. We use inventory hardening. We use collateral sequencing. We use private credit overlays. Tools. Not theories.
+Capital Structuring remains the silent weapon. Activated only when required. Ten percent of our mandate. No more. No less. Asset-Based Lending operations stabilize GP structures, portfolio companies, and LP liquidity windows. We use receivable acceleration. We use inventory hardening. We use collateral sequencing. We use private credit overlays. Tools. Not theories.
 
 Liquidity is oxygen. Oxygen buys time. Time buys control. Control builds Fund-III dominance.
 

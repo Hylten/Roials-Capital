@@ -67,7 +67,7 @@ Every allocator exhibits a distinct risk profile. A sovereign entity prioritizes
 
 Cross functional integration
 
-Digital custody does not operate in isolation. It interacts with private credit structures, ABL lines, cross border tax architecture, and trust frameworks. Roials Capital supports alignment across these disciplines to prevent structural conflicts and maintain operational continuity.
+Digital custody does not operate in isolation. It interacts with private credit structures, Asset-Based Lending lines, cross border tax architecture, and trust frameworks. Roials Capital supports alignment across these disciplines to prevent structural conflicts and maintain operational continuity.
 
 PHASE 4: THE STEWARDSHIP FILTER
 

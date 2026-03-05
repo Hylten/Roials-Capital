@@ -4,7 +4,7 @@ description: "Structural Integrity: The Roials Capital Underwrit"
 date: "2025-08-07"
 author: "Jonas Hyltén"
 slug: "structural-integrity-the-roials-capital-underwrit"
-keywords: "private credit, ABL, liquidity"
+keywords: "private credit, Asset-Based Lending, liquidity"
 ---
 
 # Structural Integrity 

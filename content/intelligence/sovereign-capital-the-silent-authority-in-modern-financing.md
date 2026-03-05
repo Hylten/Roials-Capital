@@ -90,7 +90,7 @@ Every Capital Structuring instrument we offer follows this hierarchy:
 • Collateral over conjecture 
 • Sovereignty over sentiment 
 
-Our Strategic Collateralization models, whether private credit, ABL, crypto collateral, or public shares, exist within a consolidated framework that prioritizes continuity, discretion, and control.
+Our Strategic Collateralization models, whether private credit, Asset-Based Lending, crypto collateral, or public shares, exist within a consolidated framework that prioritizes continuity, discretion, and control.
 
 ## Why HNWI and UHNW Principals Prefer Sovereign Structures
 
@@ -147,7 +147,7 @@ Sovereign capital is not active. It is architectural.
 
 It does not seek attention. It provides infrastructure.
 
-Roials-Capital functions within this framework, offering private credit Strategic Collateralization, ABL solutions, crypto Asset-Backed Frameworks from 2,000,000, and public share Asset-Backed Frameworks from 5,000,000 for HNWI and UHNW clients who require silent authority rather than overt motion.
+Roials-Capital functions within this framework, offering private credit Strategic Collateralization, Asset-Based Lending solutions, crypto Asset-Backed Frameworks from 2,000,000, and public share Asset-Backed Frameworks from 5,000,000 for HNWI and UHNW clients who require silent authority rather than overt motion.
 
 If liquidity is the question, structure is the answer. 
 

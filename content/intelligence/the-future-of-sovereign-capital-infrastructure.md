@@ -109,7 +109,7 @@ Predictability is an architecture.
 
 The lenders and structurers of the future will be those who can maintain consistent liquidity supply regardless of macro conditions. 
 
-This is why private credit and ABL are accelerating in importance. 
+This is why private credit and Asset-Based Lending are accelerating in importance. 
 
 They are insulated. 
 

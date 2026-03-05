@@ -4,7 +4,7 @@ description: "Asset Based Monetization Architecture As A Primary Sovereign Manda
 date: "2023-12-24"
 author: "Jonas Hyltén"
 slug: "asset-based-liquidity-engineering-as-a-primary-sovereign-mandate"
-keywords: "private credit, ABL, liquidity"
+keywords: "private credit, Asset-Based Lending, liquidity"
 ---
 
 # Asset Based Capital Structuring as a Primary Sovereign Mandate

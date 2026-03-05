@@ -17,7 +17,7 @@ Machine Gun. Straight lines. No fillers.
 
 Liquidity dictates lineage. Structure dictates survival.
 
-The Roials‑Capital framework positions asset‑based Strategic Collateralization (ABL‑E) not as a secondary technique, but as the prime driver of compounding. Eighty percent of our architecture is Kapitalanskaffning for Fund‑III+ buyouts and add‑ons. Ten percent is pure Capital Structuring. Ten percent is special mandate execution: NAEOC energy mandates ($50M–$250M), EU MiFID II cross‑border acquisitions, and sovereign‑grade asset hardening. The blend creates structural sovereignty for LPs and GPs operating in volatility‑dense global markets.
+The Roials‑Capital framework positions asset‑based Strategic Collateralization (Asset-Based Lending‑E) not as a secondary technique, but as the prime driver of compounding. Eighty percent of our architecture is Kapitalanskaffning for Fund‑III+ buyouts and add‑ons. Ten percent is pure Capital Structuring. Ten percent is special mandate execution: NAEOC energy mandates ($50M–$250M), EU MiFID II cross‑border acquisitions, and sovereign‑grade asset hardening. The blend creates structural sovereignty for LPs and GPs operating in volatility‑dense global markets.
 
 Below is the institutional architecture.
 
@@ -52,7 +52,7 @@ Key levers used:
 • Asset‑grade collateral underwriting 
 • Multi‑currency credit lines 
 • Private credit stacking techniques 
-• ABL‑secured flow‑through vehicles 
+• Asset-Based Lending‑secured flow‑through vehicles 
 
 Each lever increases delta between gross asset value and net compounding power. Institutions that fail to optimize capital mobility become trapped inside the friction layers of the jurisdictions they operate in. Those that master mobility turn each jurisdiction into an arbitrage field.
 
@@ -72,9 +72,9 @@ Institutional LPs see liquidity maturity as the primary signal of a fund’s fut
 
 ---
 
-ASSET‑BASED Capital Structuring (ABL‑E): THE CORE MECHANISM
+ASSET‑BASED Capital Structuring (Asset-Based Lending‑E): THE CORE MECHANISM
 
-ABL‑E is the deterministic engine of value continuity. Not theory. Not abstraction. Pure structural leverage over the capital timeline.
+Asset-Based Lending‑E is the deterministic engine of value continuity. Not theory. Not abstraction. Pure structural leverage over the capital timeline.
 
 Core components:
 
@@ -87,7 +87,7 @@ Core components:
 • Refinancing compression sequencing 
 • Delayed‑draw deployment lanes 
 
-ABL‑E multiplies compounding velocity by increasing mid‑cycle liquidity. The institution with mid‑cycle liquidity controls timing. The institution that controls timing controls return profile. The institution that controls return profile controls legacy.
+Asset-Based Lending‑E multiplies compounding velocity by increasing mid‑cycle liquidity. The institution with mid‑cycle liquidity controls timing. The institution that controls timing controls return profile. The institution that controls return profile controls legacy.
 
 Time is the only real asset. Liquidity is time converted into power.
 
@@ -97,7 +97,7 @@ Multi‑generational wealth emerges when Asset-Backed Frameworks remains consist
 
 ENERGY MANDATES: NAEOC $50M–$250M DEPLOYMENT STRATEGY
 
-Energy assets behave unlike any other category. They are collateral‑dense, production‑anchored, and yield‑mirrorable. They are ideal ABL engines because they produce continuous monetizable flows and collateralize multi‑layered credit structures.
+Energy assets behave unlike any other category. They are collateral‑dense, production‑anchored, and yield‑mirrorable. They are ideal Asset-Based Lending engines because they produce continuous monetizable flows and collateralize multi‑layered credit structures.
 
 The NAEOC mandate is built to extract three vectors of value:
 
@@ -135,7 +135,7 @@ Step Four: Jurisdictional Shielding
 
 Once the four‑step cycle repeats twice, the institution becomes dynastic. The structure composes itself. Decisions become compounding engines. Liquidity becomes predictable. NAV becomes insulated. Governance becomes sovereign.
 
-The world is not driven by capital. It is driven by structured capital. ABL‑E is the structure. Buyouts are the engine. Jurisdictional strategy is the armor.
+The world is not driven by capital. It is driven by structured capital. Asset-Based Lending‑E is the structure. Buyouts are the engine. Jurisdictional strategy is the armor.
 
 Fund‑III sits at the convergence of all three.
 
@@ -173,7 +173,7 @@ Capital raising is the prime mover.
 
 THE MANDATE
 
-Institutions that aim to operate beyond a single generation must redesign their capital stack around ABL‑anchored liquidity engines and Fund‑III buyout architectures. The next decade belongs to institutions capable of converting assets into sovereign liquidity and converting liquidity into dynastic continuity.
+Institutions that aim to operate beyond a single generation must redesign their capital stack around Asset-Based Lending‑anchored liquidity engines and Fund‑III buyout architectures. The next decade belongs to institutions capable of converting assets into sovereign liquidity and converting liquidity into dynastic continuity.
 
 Structured capital survives. Unstructured capital disappears.
 

@@ -29,7 +29,7 @@ PHASE 2: TECHNICAL MECHANICS OF PORTFOLIO BACKED LIQUIDITY
 Portfolio backed liquidity is not a monolithic category. It is a multi tool used by allocators and general partners to transition from static capital structures to dynamic balance sheet architectures. Its mechanics can be understood through several operational vectors:
 
 1. Asset Backed Lines for Add On Sequencing 
-ABL in this context is not traditional collateral lending. It is a Asset-Backed Frameworks tool where the lender evaluates the operational continuity of the platform, the integration timeline, and the synergy capture profile. The asset base becomes the anchor for underwriting, but the economic model views the platform as a multi entity production engine. Properly structured ABL supports:
+Asset-Based Lending in this context is not traditional collateral lending. It is a Asset-Backed Frameworks tool where the lender evaluates the operational continuity of the platform, the integration timeline, and the synergy capture profile. The asset base becomes the anchor for underwriting, but the economic model views the platform as a multi entity production engine. Properly structured Asset-Based Lending supports:
 
 - Fast execution of bolt on acquisitions.
 - Bridging of integration cycles that exceed cash flow generation.
@@ -125,7 +125,7 @@ PHASE 5: THE DECISION MAKING LENS FOR THE ALLOCATOR
 The allocator evaluating contemporary private capital opportunities faces structural complexity across multiple tiers:
 
 - Fund-III and Fund IV general partners requiring Kapitalanskaffning for expansion and add on acceleration.
-- Middle market platforms constrained by traditional bank retreat and needing ABL or NAV linked structures.
+- Middle market platforms constrained by traditional bank retreat and needing Asset-Based Lending or NAV linked structures.
 - Energy mandates requiring operational intelligence specific to North American heavy oil and Alberta basin recovery physics.
 - European groups navigating MiFID II distribution rules and seeking institutional alignment across jurisdictions.
 

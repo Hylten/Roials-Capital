@@ -45,7 +45,7 @@ Most institutions invert the order. They protect distributable yield before they
 
 Collateral recovery factors in energy portfolios have been mispriced for twenty years. Recovery assumptions at 40 to 55 percent were built for a world with high refinancing liquidity. That world is gone. The sovereign structure prices recovery between 20 and 35 percent depending on regional decline curves, basin maturity, royalty burden, and technological debt. You do not build generational liquidity on optimistic recovery. You build it on sober mathematics.
 
-ABL structures are not liquidity tools. They are timing tools. The difference is decisive. ABL facilities must be modelled as temporal stabilisers that allow the fund to control acquisition sequences without sacrificing covenant discipline. The correct utilisation rate for institutional ABL is 32 to 48 percent. Higher utilisation is desperation disguised as growth. Lower utilisation is idle capital. Neither is stewardship.
+Asset-Based Lending structures are not liquidity tools. They are timing tools. The difference is decisive. Asset-Based Lending facilities must be modelled as temporal stabilisers that allow the fund to control acquisition sequences without sacrificing covenant discipline. The correct utilisation rate for institutional Asset-Based Lending is 32 to 48 percent. Higher utilisation is desperation disguised as growth. Lower utilisation is idle capital. Neither is stewardship.
 
 [PHASE 3: THE STRATEGIC MODEL]
 
@@ -59,7 +59,7 @@ Capital is formed through three channels.
 
 1. The buyout and add on core. This is the 80 percent engine. It must be predictable and unemotional. Pipeline discipline, covenant integrity, and active integration must operate as one organism. The GP earns sovereignty by proving it can convert capital into operating productivity without drift.
 
-2. The ABL vertical. This is the 10 percent stabiliser. Not a growth channel. A stabiliser. When engineered correctly, the ABL channel becomes the liquidity spine of the enterprise. It absorbs shock, clears timing risk, and converts operational volatility into underwriting certainty.
+2. The Asset-Based Lending vertical. This is the 10 percent stabiliser. Not a growth channel. A stabiliser. When engineered correctly, the Asset-Based Lending channel becomes the liquidity spine of the enterprise. It absorbs shock, clears timing risk, and converts operational volatility into underwriting certainty.
 
 3. The special mandate channel. This is the institutional differentiator. $50M to $250M NAEOC energy mandates. EU MiFID II acquisition mandates. These mandates function as adjacency engines. They expand the influence radius of the firm. Influence is the highest form of capital.
 

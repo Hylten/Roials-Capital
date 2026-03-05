@@ -65,7 +65,7 @@ Monetization Architecture forms the counterweight. Without engineered liquidity,
 
 Capital Structuring uses:
 
-• ABL structures 
+• Asset-Based Lending structures 
 • Revenue‑linked credit 
 • Short‑duration private credit rails 
 • Bridge‑to‑buyout financing 
@@ -81,7 +81,7 @@ Allocation must respect time. Long‑axis compounding thrives only when short‑
 
 Time segmentation requires:
 
-• Short-term liquidity (0-3 years): private credit, ABL, structured notes 
+• Short-term liquidity (0-3 years): private credit, Asset-Based Lending, structured notes 
 • Mid-term liquidity (3-7 years): buyouts with rollable debt schedules 
 • Long-term liquidity (7-18 years): energy, infrastructure, industrial platforms 
 

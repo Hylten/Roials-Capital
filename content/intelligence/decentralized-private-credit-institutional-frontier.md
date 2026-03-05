@@ -1,6 +1,6 @@
 ---
 title: "Decentralized Private Credit: The Institutional Frontier for Controlled Liquidity"
-description: "Institutional blueprint for Fund-III capital formation, decentralized credit structures, and systemic liquidity engineering across buyouts, ABL, and energy mandates."
+description: "Institutional blueprint for Fund-III capital formation, decentralized credit structures, and systemic liquidity engineering across buyouts, Asset-Based Lending, and energy mandates."
 date: "2023-12-13"
 author: "Roials-Capital"
 slug: "decentralized-private-credit-institutional-frontier"
@@ -21,7 +21,7 @@ The institutions building Fund-III+ need more than capital. They need control. C
 
 THE CAPITAL REGIME SHIFT
 
-Demand has pivoted. LPs now prioritize real collateral, hard assets, and yield structures engineered to survive regulatory shifts. Not chase alpha. Command stability. Private credit is no longer a niche hedge; it is the institutional spine for acquisitions, add-ons, and ABL-backed Institutional Liquidity Paths.
+Demand has pivoted. LPs now prioritize real collateral, hard assets, and yield structures engineered to survive regulatory shifts. Not chase alpha. Command stability. Private credit is no longer a niche hedge; it is the institutional spine for acquisitions, add-ons, and Asset-Based Lending-backed Institutional Liquidity Paths.
 
 Key forces driving the shift:
 
@@ -47,7 +47,7 @@ Key functions:
 • Controlled Liquidity Rails: predictable windows with predictable seniority. 
 • Hybrid Collateralization: combining resource assets, receivables, cashflow rights, and land energy rights.
 
-This is not theoretical. Energy operators under NAEOC ($50M-$250M range) now prefer decentralized private credit because the enforcement stack moves faster than traditional asset-backed lending. ABL remains essential but incomplete. Strategic Collateralization completes the stack.
+This is not theoretical. Energy operators under NAEOC ($50M-$250M range) now prefer decentralized private credit because the enforcement stack moves faster than traditional asset-backed lending. Asset-Based Lending remains essential but incomplete. Strategic Collateralization completes the stack.
 
 ---
 
@@ -88,11 +88,11 @@ Institutions that master controlled liquidity can run higher acquisition velocit
 
 ---
 
-ABL AND Monetization Architecture: THE 10% THAT MOVES THE 80%
+Asset-Based Lending AND Monetization Architecture: THE 10% THAT MOVES THE 80%
 
-ABL is misunderstood. Institutions treat it as a financing tool. In decentralized private credit, ABL becomes an architectural tool. It is the foundation that allows Fund-III to control liquidity cycles without relying on traditional lenders.
+Asset-Based Lending is misunderstood. Institutions treat it as a financing tool. In decentralized private credit, Asset-Based Lending becomes an architectural tool. It is the foundation that allows Fund-III to control liquidity cycles without relying on traditional lenders.
 
-ABL becomes:
+Asset-Based Lending becomes:
 
 • A pre-emptive liquidity buffer. 
 • A covenant accelerator. 
@@ -100,7 +100,7 @@ ABL becomes:
 • A jurisdictional anchor. 
 • A facilitator of energy and industrial mandates. 
 
-Strategic Collateralization transforms ABL from a reactive tool into a proactive power lever. It stabilizes Fund-III at every stage: acquisitions, integrations, refinancing, and exit prep.
+Strategic Collateralization transforms Asset-Based Lending from a reactive tool into a proactive power lever. It stabilizes Fund-III at every stage: acquisitions, integrations, refinancing, and exit prep.
 
 ---
 
@@ -182,7 +182,7 @@ Advantages:
 
 • Faster underwriting 
 • Structure-first diligence 
-• Embedded ABL rails 
+• Embedded Asset-Based Lending rails 
 • Predictable call windows 
 • Enforceable integration covenants 
 

@@ -61,7 +61,7 @@ Harden the asset. In week one. In month one. You deliver alpha by accelerating i
 
 The fourth pillar is Monetization Architecture. Liquidity is not an outcome. Liquidity is a design element. Most managers think of liquidity late. Too late. By the time a liquidity event becomes urgent, its valuation premium disappears. Liquidity must be engineered at structure, not at exit.
 
-ABL frameworks solve this. Asset‑backed liquidity is the true sovereign instrument. It provides five advantages:
+Asset-Based Lending frameworks solve this. Asset‑backed liquidity is the true sovereign instrument. It provides five advantages:
 
 • Predictable covenant architecture 
 • Non‑dilutive equity protection 
@@ -195,7 +195,7 @@ For MiFID II acquisition regimes, the priority becomes regulatory synchronizatio
 
 For private credit, the platform must support both senior secured structures and unitranche exposures. Credit is a blunt instrument unless engineered with covenant intelligence. But with proper engineering, private credit becomes a liquidity stabilizer. It also becomes an acquisition accelerant for add‑ons. In Fund-III cycles, credit is less an asset class and more an operating tool.
 
-For ABL, the manager must think like a liquidity architect. ABL is a pressure‑release system. When equity needs air, ABL delivers it. When acquisitions require silent capital, ABL supplies it. When markets compress, ABL stabilizes. When valuations drop, ABL protects.
+For Asset-Based Lending, the manager must think like a liquidity architect. Asset-Based Lending is a pressure‑release system. When equity needs air, Asset-Based Lending delivers it. When acquisitions require silent capital, Asset-Based Lending supplies it. When markets compress, Asset-Based Lending stabilizes. When valuations drop, Asset-Based Lending protects.
 
 A manager who controls liquidity controls destiny.
 

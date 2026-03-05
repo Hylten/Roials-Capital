@@ -71,15 +71,15 @@ Asset Based Asset-Backed Frameworks is often perceived as a tactical tool.
 
 In reality, it functions as strategic infrastructure when applied at scale. 
 
-ABL transforms existing assets into operational liquidity. 
+Asset-Based Lending transforms existing assets into operational liquidity. 
 
 It allows buyers to leverage equity they already possess rather than distributing capital across inefficient divestments. 
 
-For high tier buyers, ABL is the quiet engine behind accelerated deal flow. 
+For high tier buyers, Asset-Based Lending is the quiet engine behind accelerated deal flow. 
 
 Roials‑Capital takes this principle further. 
 
-We apply ABL structures to contemporary asset classes where traditional lenders have no framework. 
+We apply Asset-Based Lending structures to contemporary asset classes where traditional lenders have no framework. 
 
 ## Liquidity Structures for HNWI and UHNW Transactions
 

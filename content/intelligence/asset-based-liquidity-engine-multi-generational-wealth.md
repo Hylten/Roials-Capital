@@ -23,7 +23,7 @@ Asset Based Capital Structuring is the conversion of hard asset value into opera
 
 Asset Verification. The foundation is technical validation of the asset class. In energy contexts, the physics of reservoir behavior provide predictable production profiles. SAGD and CSS fields present recovery factors that are materially more stable than market narratives often assume. Water cut evolution, steam-oil ratios, and facility throughput constraints can be modeled with high-fidelity data. In industrial or real estate portfolios, replacement cost analysis and liquidation curves determine recoverable value with similar precision.
 
-Structural Seniority. Monetization Architecture must prioritize senior secured positions that sit at the top of the cash-flow waterfall. This is where LTV curves, asset hardening assessments, and cross-collateralization frameworks create structural durability. Properly designed ABL structures target collateral coverage that remains resilient under stress scenarios, not merely base-case performance.
+Structural Seniority. Monetization Architecture must prioritize senior secured positions that sit at the top of the cash-flow waterfall. This is where LTV curves, asset hardening assessments, and cross-collateralization frameworks create structural durability. Properly designed Asset-Based Lending structures target collateral coverage that remains resilient under stress scenarios, not merely base-case performance.
 
 Liquidity Conversion. Once assets are verified and structured, collateral is translated into actionable liquidity that supports operating expansion, opportunistic acquisitions, or balance sheet stabilization. This liquidity is non-dilutive, repeatable, and sovereign-friendly in jurisdictions that reward asset-forward finance architecture.
 
@@ -47,7 +47,7 @@ PHASE 5: PORTFOLIO CALIBRATION LENS FOR THE ALLOCATOR
 
 Allocators evaluating long horizon strategies should focus on three calibration metrics.
 
-Balance Sheet Optionality. Liquidity capacity should scale with asset value without tightening control over operating entities. Properly engineered ABL structures enhance optionality rather than restrict it.
+Balance Sheet Optionality. Liquidity capacity should scale with asset value without tightening control over operating entities. Properly engineered Asset-Based Lending structures enhance optionality rather than restrict it.
 
 Opportunity Velocity. High quality opportunities appear during dislocations. Without liquidity, they are inaccessible. Engineered liquidity allows sponsors to capture accretive acquisitions without destabilizing core cash flows.
 

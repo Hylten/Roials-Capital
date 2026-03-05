@@ -20,7 +20,7 @@ Next: asset-class hardening. Private credit and buyout ecosystems require reconf
 – Tangible cash-flow engines across FEED-to-EPC energy corridors. 
 – Productive mid-market platforms with bolt-on velocity. 
 – Brownfield industrials with embedded switching costs. 
-– ABL-ready collateral stacks engineered for compression cycles. 
+– Asset-Based Lending-ready collateral stacks engineered for compression cycles. 
 – Digital operational systems that survive FX disruptions. 
 
 Hardening is not conservative. Hardening is expansionary. Hardened assets attract liquidity. Liquidity accelerates acquisition cycles. Acquisition cycles feed Fund-III momentum.
@@ -46,7 +46,7 @@ Maintain at least two operational jurisdictions, two financing jurisdictions, an
 Never rely on single-bank liquidity. Build tri-bank corridors. One for operational flows. One for credit lines. One for custody. Failure of any node should not impact deployment.
 
 3. Collateral mobility 
-ABL Monetization Architecture requires assets to be lien-ready, repo-ready, and convertible across states. Standardize documentation. Pre-clear audits. Use digital collateral registries.
+Asset-Based Lending Monetization Architecture requires assets to be lien-ready, repo-ready, and convertible across states. Standardize documentation. Pre-clear audits. Use digital collateral registries.
 
 4. Transactional anonymity 
 Institutional discretion is a stability mechanism. Use SPVs, nominee signatories, and layered directorship models to reduce political surface area.
@@ -72,7 +72,7 @@ Add-ons accelerate value capture. Build pre-approved bolt-on pathways. Maintain 
 
 Principal perspective: expansion is a decision, not a forecast. Cross-border hardening removes delays. The world is fracturing. Capital must not.
 
-Capital Structuring matters. ABL is not emergency financing. ABL is discretionary acceleration. Identify assets. Pre-lien. Pre-value. Pre-bind lenders. When acquisition windows open, liquidity is already wired. No hesitation. No waiting. No fragility.
+Capital Structuring matters. Asset-Based Lending is not emergency financing. Asset-Based Lending is discretionary acceleration. Identify assets. Pre-lien. Pre-value. Pre-bind lenders. When acquisition windows open, liquidity is already wired. No hesitation. No waiting. No fragility.
 
 For special mandates-NAEOC energy corridors-construct vertically integrated blocks: mineral rights, processing agreements, local participation contracts, and midstream offtake. Hardening locks revenue streams. Hardening protects against government reshuffles. Hardening enforces operational continuity. Energy assets thrive when their rights are immune to storms.
 

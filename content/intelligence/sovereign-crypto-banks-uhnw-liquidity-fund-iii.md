@@ -37,7 +37,7 @@ A sovereign crypto bank operates through four mechanical layers that matter for 
 Cold storage vaults, quantum-resistant multi-signature racks, and distributed node governance. This core is non-negotiable. It unifies collateral, eliminating the need for interbank reconciliation. A crypto bank that does not own this layer is not a sovereign entity. It is a fintech façade.
 
 2. The Liquidity Spine 
-This is where UHNWIs and private credit funds gain asymmetric advantage. The liquidity spine consists of instantaneous credit lines, tokenized treasury instruments, yield-based liquidity buckets, and real-time risk scoring. No traditional bank can match the response time. The spine is the mechanical heart of ABL for high net worth families. It also enables Fund-III to draw acquisition liquidity in minutes rather than weeks.
+This is where UHNWIs and private credit funds gain asymmetric advantage. The liquidity spine consists of instantaneous credit lines, tokenized treasury instruments, yield-based liquidity buckets, and real-time risk scoring. No traditional bank can match the response time. The spine is the mechanical heart of Asset-Based Lending for high net worth families. It also enables Fund-III to draw acquisition liquidity in minutes rather than weeks.
 
 3. The Programmatic Lending Engine 
 This engine converts collateral into structured credit using LTV curves generated from real-time market conditions. No human committee delays the process. A cryptographic loan decision is not an approval. It is an execution.
@@ -64,7 +64,7 @@ The strategic model is simple.
 1. Capital Raising Alignment 
 Fund-III requires a higher velocity capital raising model. UHNW investors will not commit unless liquidity optionality exists. Sovereign crypto banks enable immediate subscription credit lines, instant capital calls, and multi-currency participation from complex family structures. This eliminates friction for LP onboarding.
 
-2. ABL Integration 
+2. Asset-Based Lending Integration 
 For operating companies inside the Fund-III portfolio, sovereign crypto banks function as liquidity engineers. They collateralize inventory, contracts, receivables, and tokenized physical assets at a velocity no regional bank can match. The result is a working capital stack that accelerates add-ons and smooths integration.
 
 3. Special Mandates 

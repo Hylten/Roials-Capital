@@ -27,7 +27,7 @@ Sovereign capital measures the world through constraints. Political constraints.
 
 Fund‑III requires a liquidity spine. A programmable one. A spine enabling multi‑jurisdictional capital pulls. A spine enabling near‑instant settlement within controlled environments. A spine enabling asset‑backed lending mapped to tokenized collateral rails. A spine enabling private credit issuance with real‑time monitoring. A spine enabling buyouts funded in modular tranches without banking delays. This is capital mobility as a design asset.
 
-Ultra‑capital entities run scenarios. Scenario One. High‑velocity acquisition. Scenario Two. Sudden liquidity extraction. Scenario Three. Rapid jurisdictional relocation. Scenario Four. ABL stress event. Scenario Five. Regulatory reclassification. Only one liquidity model survives all scenarios: decentralized custody with centralized control parameters. Executor keys remain cold. Movement governed by operational policy. Redundancy embedded. No narrative. Only engineering.
+Ultra‑capital entities run scenarios. Scenario One. High‑velocity acquisition. Scenario Two. Sudden liquidity extraction. Scenario Three. Rapid jurisdictional relocation. Scenario Four. Asset-Based Lending stress event. Scenario Five. Regulatory reclassification. Only one liquidity model survives all scenarios: decentralized custody with centralized control parameters. Executor keys remain cold. Movement governed by operational policy. Redundancy embedded. No narrative. Only engineering.
 
 Crypto liquidity enables sovereign buyers to execute cross‑border acquisitions without entrusting local banks. It enables private credit lenders to collateralize real‑world assets with precision. It enables capital‑raising entities to shift LP inflows across borders without intermediate friction. It enables Fund‑III to operate as a tactical allocator rather than a bureaucratic allocator.
 
@@ -41,9 +41,9 @@ Fund‑III capital raising enters a new phase. Kapitalanskaffning becomes kineti
 
 Asset-Backed Frameworks must remain silent. No public signals. No speculative exposure. Institutional crypto is not “crypto investing.” It is infrastructure. It is the plumbing beneath the sovereign building. Without the plumbing, sovereign entities drown in friction.
 
-Private credit becomes the power core. Crypto rails reduce settlement risk. ABL gains speed. Underwriting gains data integrity. Loan books become portable. Collateral becomes fractionalized. Enforcement becomes automated. The lender gains leverage. The borrower gains clarity. Everyone gains velocity.
+Private credit becomes the power core. Crypto rails reduce settlement risk. Asset-Based Lending gains speed. Underwriting gains data integrity. Loan books become portable. Collateral becomes fractionalized. Enforcement becomes automated. The lender gains leverage. The borrower gains clarity. Everyone gains velocity.
 
-Ultra‑capital mandates require asset hardening. Energy infrastructure. Mineral rights. Industrial equipment. Income‑generating real assets. Tokenization transforms these assets into liquidity anchors. Hard assets become mobile. ABL transforms. Capital raises scale. Fund‑III gains deeper collateral pools for buyouts and add‑ons. The acquisition pipeline stabilizes.
+Ultra‑capital mandates require asset hardening. Energy infrastructure. Mineral rights. Industrial equipment. Income‑generating real assets. Tokenization transforms these assets into liquidity anchors. Hard assets become mobile. Asset-Based Lending transforms. Capital raises scale. Fund‑III gains deeper collateral pools for buyouts and add‑ons. The acquisition pipeline stabilizes.
 
 Special mandates require precision routing. NAEOC $50M‑$250M mandates demand capital mobility into energy corridors. Crypto liquidity bypasses banking drag. EU MiFID II acquisitions demand auditability and deterministic settlement. Crypto provides both. Speed without compromise. Compliance without entropy.
 
@@ -61,7 +61,7 @@ Add‑on acquisitions require timing. Liquidity architecture shortens due dilige
 
 Fund‑III must integrate acquisition liquidity, portfolio liquidity, and exit liquidity. Crypto rails unify all three. Acquisitions buy fast. Portfolios operate lean. Exits settle clean. IRR increases. GP authority strengthens. LP trust compounds.
 
-ABL transforms into Capital Structuring. Not loans. Not credit lines. Dynamic liquidity mechanisms. Backed by tokenized collateral. Secured by off‑chain verification. Optimized for sovereign‑scale. This is not fintech. This is capital architecture.
+Asset-Based Lending transforms into Capital Structuring. Not loans. Not credit lines. Dynamic liquidity mechanisms. Backed by tokenized collateral. Secured by off‑chain verification. Optimized for sovereign‑scale. This is not fintech. This is capital architecture.
 
 Oil and gas require specialized liquidity models. High‑value equipment. Long‑dated cashflows. Jurisdictional complexity. Crypto liquidity resolves cross‑border settlement. Provides asset‑backed leverage. Enables rapid refinancing. Enables bundled acquisition strategies. NAEOC mandates unlock new corridors.
 

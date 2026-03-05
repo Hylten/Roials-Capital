@@ -57,11 +57,11 @@ For allocators reviewing Fund-III structures, trust is engineered through struct
 
 • Opportunity velocity. Institutions evaluate not only the number of deals available but the speed with which high quality transactions can be digested without operational degradation.
 
-Strategic Collateralization and ABL Structures
+Strategic Collateralization and Asset-Based Lending Structures
 
 Trust in private credit is grounded in verifiable collateral.
 
-• Borrowing base calibration. ABL structures must be backed by validated receivables, inventory pools, or equipment assets with independently confirmed liquidation values.
+• Borrowing base calibration. Asset-Based Lending structures must be backed by validated receivables, inventory pools, or equipment assets with independently confirmed liquidation values.
 
 • Asset hardening. Institutions require clarity on maintenance capital expenditures, depreciation schedules, and residual value trajectories. Hardened assets form a credible security perimeter.
 
@@ -87,7 +87,7 @@ Roials Capital functions as a strategic navigator that aligns institutional capi
 
 • Capital raising for Fund-III. Roials Capital supports institutional partners by structuring Kapitalanskaffning pathways that align with jurisdictional compliance. The focus is on creating a clear informational channel for LPs evaluating multi asset buyout vehicles.
 
-• Asset-Backed Frameworks. Where private credit or ABL mandates are under consideration, Roials Capital contextualizes the borrower environment and clarifies collateral stacks, security packages, and cash flow reliability.
+• Asset-Backed Frameworks. Where private credit or Asset-Based Lending mandates are under consideration, Roials Capital contextualizes the borrower environment and clarifies collateral stacks, security packages, and cash flow reliability.
 
 • Special mandates. For EU MiFID II investors seeking exposure to North American assets, Roials Capital ensures that all engagement remains within a non promotional informational architecture.
 

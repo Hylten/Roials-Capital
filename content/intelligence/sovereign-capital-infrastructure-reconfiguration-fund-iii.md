@@ -88,9 +88,9 @@ This is not diversification. It is operational sovereignty.
 Energy is the backbone of sovereign capital. Oil. Gas. Midstream. Terminals. Storage. Renewables only as infrastructure multipliers, not as ideology. Our NAEOC energy mandate ($50M-$250M) positions Fund-III as a structural partner to energy allocators who need high‑velocity M&A and low‑friction stabilization.
 
 3. Liquidity Alignment 
-ABL (Asset‑Based Lending) is no longer a niche product. It is Institutional Liquidity Paths. ABL provides velocity without dilution. ABL provides safety without softness. ABL lets sovereign capital convert hard collateral into structured circulation.
+Asset-Based Lending (Asset‑Based Lending) is no longer a niche product. It is Institutional Liquidity Paths. Asset-Based Lending provides velocity without dilution. Asset-Based Lending provides safety without softness. Asset-Based Lending lets sovereign capital convert hard collateral into structured circulation.
 
-Our 10% ABL sleeve is not yield hunting. It is engine tuning. It strengthens the entire Fund‑III ecosystem.
+Our 10% Asset-Based Lending sleeve is not yield hunting. It is engine tuning. It strengthens the entire Fund‑III ecosystem.
 
 ---
 
@@ -129,7 +129,7 @@ Institutional LPs demand portfolios that behave like engineered systems, not col
 • Stability anchor. 
 • Integration node.
 
-Fund-III’s architecture follows this principle. Every deal. Every add-on. Every ABL component. Every NAEOC energy buildout. The entire system is a synchronized capital machine.
+Fund-III’s architecture follows this principle. Every deal. Every add-on. Every Asset-Based Lending component. Every NAEOC energy buildout. The entire system is a synchronized capital machine.
 
 ---
 
@@ -156,7 +156,7 @@ Eleven points:
 4. Sovereign alignment. 
 5. Energy adjacency. 
 6. Industrial stability. 
-7. ABL precision. 
+7. Asset-Based Lending precision. 
 8. Jurisdictional breadth. 
 9. Asset-Backed Frameworks. 
 10. Regime compatibility. 
@@ -189,8 +189,8 @@ Energy is the new gold standard of capital sovereignty. We anchor there.
 
 ---
 
-ABL AS A STRATEGIC INSTRUMENT 
-ABL is not lending. It is control. It gives Fund‑III the ability to:
+Asset-Based Lending AS A STRATEGIC INSTRUMENT 
+Asset-Based Lending is not lending. It is control. It gives Fund‑III the ability to:
 
 • Enter transactions quickly. 
 • Stabilize distressed nodes. 
@@ -198,7 +198,7 @@ ABL is not lending. It is control. It gives Fund‑III the ability to:
 • Extend liquidity in controlled volumes. 
 • Extract premium yield with real collateral.
 
-Sovereign LPs want this. They want safety. But they want return. ABL gives both. Fund‑III uses it as a precision tool.
+Sovereign LPs want this. They want safety. But they want return. Asset-Based Lending gives both. Fund‑III uses it as a precision tool.
 
 ---
 
@@ -216,7 +216,7 @@ A sovereign-aligned capital machine with:
 
 • Buyout center. 
 • Add-on accelerators. 
-• ABL liquidity layer. 
+• Asset-Based Lending liquidity layer. 
 • Energy corridor. 
 • EU acquisition channel. 
 • GCC partnership lanes. 

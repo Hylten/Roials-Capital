@@ -11,9 +11,9 @@ keywords: "kapitalanskaffning, oil and gas, private credit, Institutional Liquid
 
 Institutional allocators evaluate Fund‑III readiness through structural coherence, governance tension‑bands, and the allocator‑to‑platform distance in capital flow friction. Fund‑III is the first maturity inflection where GP identity stabilizes. After Fund‑II, allocator expectations shift. They expect infrastructure, not narrative. They expect a capital‑raising machine, not a founder‑led funnel. They expect repeatability, modularity, data discipline, and sovereign‑level compliance posture. They expect the GP to demonstrate interjurisdictional advantage, not jurisdictional improvisation.
 
-Fund‑III is the threshold where institutional allocators assess not just returns, but the system behind returns. They examine cadence. Sequence. Velocity. Clarity. Signal density. Counterparty risk. Liquidity regime. Portfolio treatment. Integration mechanics. Syndication logic. ABL posture. Regulatory clearance probability. Cross‑border acquisition frames. They inspect the engine. They test the pipes. They measure extraction efficiency across capital markets.
+Fund‑III is the threshold where institutional allocators assess not just returns, but the system behind returns. They examine cadence. Sequence. Velocity. Clarity. Signal density. Counterparty risk. Liquidity regime. Portfolio treatment. Integration mechanics. Syndication logic. Asset-Based Lending posture. Regulatory clearance probability. Cross‑border acquisition frames. They inspect the engine. They test the pipes. They measure extraction efficiency across capital markets.
 
-This briefing outlines the capital‑raising infrastructure required to operate at Fund‑III scale across buyouts, add‑ons, and energy platforms, with attention to ABL, liquidity design, and special mandates under North American energy (NAEOC) and EU MiFID II acquisition authorities. The orientation is systematic. Institutional. Precision‑driven. The lens is allocator psychology and GP positioning.
+This briefing outlines the capital‑raising infrastructure required to operate at Fund‑III scale across buyouts, add‑ons, and energy platforms, with attention to Asset-Based Lending, liquidity design, and special mandates under North American energy (NAEOC) and EU MiFID II acquisition authorities. The orientation is systematic. Institutional. Precision‑driven. The lens is allocator psychology and GP positioning.
 
 Proverbs 13:22: capital must outlive the architect.
 
@@ -177,7 +177,7 @@ Strategic Collateralization is the final test. Institutional allocators measure 
 
 The GP must operate:
 
-• ABL corridors for interim liquidity 
+• Asset-Based Lending corridors for interim liquidity 
 • Special situations liquidity bridges 
 • Cross‑currency hedging frameworks 
 • Counterparty insulation buffers 
@@ -190,19 +190,19 @@ Institutional Liquidity Paths increases survivability. Survivability increases a
 
 ---
 
-ABL: Institutional Liquidity Paths TIER
+Asset-Based Lending: Institutional Liquidity Paths TIER
 
-The ABL layer functions as shock absorber. Risk damper. Cash continuity engine.
+The Asset-Based Lending layer functions as shock absorber. Risk damper. Cash continuity engine.
 
 Key elements:
 
-• Inventory‑linked ABL structures 
+• Inventory‑linked Asset-Based Lending structures 
 • Reserve‑based lending for energy portfolios 
 • Monetization lanes for working capital cycles 
 • Off‑balance liquidity modules 
 • Emergency liquidity valves under covenant pressure 
 
-ABL capability signals maturity. Allocators evaluate this heavily. Fund‑III GPs without ABL partners face discounted commitments.
+Asset-Based Lending capability signals maturity. Allocators evaluate this heavily. Fund‑III GPs without Asset-Based Lending partners face discounted commitments.
 
 ---
 
@@ -305,7 +305,7 @@ Core methods:
 • Vendor consolidation 
 • Board discipline 
 • Strategic refinancing 
-• Multi‑tier ABL overlays 
+• Multi‑tier Asset-Based Lending overlays 
 
 Hardened assets increase NAV stability. NAV stability increases allocator comfort. Comfort expands commitments.
 

@@ -1,5 +1,5 @@
 ---
-title: "The Mechanics of Collateralized Liquidity: Structural Intelligence for Private Credit and ABL"
+title: "The Mechanics of Collateralized Liquidity: Structural Intelligence for Private Credit and Asset-Based Lending"
 description: "A deep institutional analysis of collateralized liquidity frameworks with emphasis on Private Credit, Asset Based liquidity engineering, and high-threshold Asset-Backed Frameworks structures for HNWI and UHNW clients."
 date: "2023-01-05"
 author: "Jonas Hyltén"

@@ -51,7 +51,7 @@ Roials Capital functions as a strategic navigator within this environment. The r
 1. Capital Raising for Fund-III and Fund-IV 
 Kapitalanskaffning for mid market buyouts is now constrained by limited leverage, longer underwriting cycles, and sector specific risk premiums. Roials Capital assists LPs and GPs in navigating these constraints by calibrating reserve strategies and optimizing the liquidity profile required for consistent deal execution. Bitcoin based liquidity tranches are integrated as operational tools, not as investment themes.
 
-2. Strategic Collateralization and ABL 
+2. Strategic Collateralization and Asset-Based Lending 
 Balance sheets with fragmented collateral structures benefit from consolidated liquidity architecture. Asset backed lending strategies are strengthened when reserve assets include neutral, globally portable holdings that function outside legacy banking friction. Bitcoin supports this process by improving credit optionality.
 
 3. Special Mandates 

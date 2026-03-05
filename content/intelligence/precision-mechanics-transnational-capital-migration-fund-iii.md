@@ -22,13 +22,13 @@ Capital density creates capital attraction. Institutions place with weight, not 
 • Signal of Control. 
 • Signal of Competence.
 
-Continuity demands multi‑cycle visibility. A Fund‑III vehicle must present three embedded time horizons: present‑cycle buyout readiness, mid‑cycle ABL capacity, and long‑cycle energy optionality. Institutions buy continuity because continuity lowers underwriting friction.
+Continuity demands multi‑cycle visibility. A Fund‑III vehicle must present three embedded time horizons: present‑cycle buyout readiness, mid‑cycle Asset-Based Lending capacity, and long‑cycle energy optionality. Institutions buy continuity because continuity lowers underwriting friction.
 
 Control is jurisdictional. Multi‑sovereign alignment-US, EU, GCC-is not positioning. It's strategy. Fund‑III must demonstrate regulatory triangulation: MiFID II firming in the EU, 506(c) penetration in the US, and concessions-based alignment for energy mandates across Africa and the Middle East. Cross‑jurisdictional framing deters single-regime fragility.
 
-Competence is portfolio speed. Speed in acquisition. Speed in integration. Speed in liquidity shaping. Institutional appetites reward funds that construct predictable velocity patterns. If Fund‑III operates as a high-velocity buyout engine with disciplined ABL scaffolding, capital flow increases automatically.
+Competence is portfolio speed. Speed in acquisition. Speed in integration. Speed in liquidity shaping. Institutional appetites reward funds that construct predictable velocity patterns. If Fund‑III operates as a high-velocity buyout engine with disciplined Asset-Based Lending scaffolding, capital flow increases automatically.
 
-Buyout mechanics reward timing. ABL rewards structure. Energy mandates reward jurisdictional savvy. Fund‑III must integrate all three as one operational organism.
+Buyout mechanics reward timing. Asset-Based Lending rewards structure. Energy mandates reward jurisdictional savvy. Fund‑III must integrate all three as one operational organism.
 
 THE TRANSNATIONAL MIGRATION ENGINE 
 Capital moves under four pressures. Sovereign risk. Currency stress. Regulatory tightening. Yield compression. Fund‑III succeeds when it exploits the deltas between these pressures.
@@ -46,15 +46,15 @@ Yield Compression Mechanics
 When yields compress in public markets, private buyout funds capture spillover demand. Capital migrates from bonds into private credit. From equity indices into private equity. From low-yield sovereigns into high-yield infrastructure energy. Fund‑III must position its strategy to catch every spillover class.
 
 Strategic Collateralization FOR FUND‑III 
-ABL is not an afterthought. It's the hydraulic system powering buyout acceleration. ABL creates oxygen. Creates runway. Creates optionality. Liquidity engineered correctly turns asset bases into deployable capital without diluting equity or over-leveraging early.
+Asset-Based Lending is not an afterthought. It's the hydraulic system powering buyout acceleration. Asset-Based Lending creates oxygen. Creates runway. Creates optionality. Liquidity engineered correctly turns asset bases into deployable capital without diluting equity or over-leveraging early.
 
-Mechanics of ABL Elevation 
+Mechanics of Asset-Based Lending Elevation 
 • Inventory-backed lines for manufacturing add-ons. 
 • Receivables rotation for cross-border logistics assets. 
 • Equipment-backed revolvers for industrial energy acquisitions. 
 • Contractual revenue securitization for NAEOC-aligned energy portfolios.
 
-ABL becomes a stabilizer and a weapon simultaneously. Used properly, it enables Fund‑III to strike earlier and integrate faster.
+Asset-Based Lending becomes a stabilizer and a weapon simultaneously. Used properly, it enables Fund‑III to strike earlier and integrate faster.
 
 CAPITAL RAISING AS A PRECISION SYSTEM (KAPITALANSKAFFNING) 
 Kapitalanskaffning is not fundraising. It's capital engineering. Fund‑III requires a multi-tiered structure: anchor LPs, strategic LPs, hybrid allocators, private credit co-investors, and sovereign institutional feeders.
@@ -98,7 +98,7 @@ Asset hardening is not cosmetic. It is survival. Fund‑III must assume that eve
 
 Mechanisms: 
 • Currency hedging aligned with revenue concentration. 
-• Debt stack optimization (senior, mezz, ABL hybrid). 
+• Debt stack optimization (senior, mezz, Asset-Based Lending hybrid). 
 • Contract hardening across procurement and supply chain. 
 • ESG alignment to institutional thresholds. 
 • Technology modernization for operational leverage.
@@ -108,14 +108,14 @@ Hardening turns fragile companies into scalable platforms. Add-on integration be
 INTEGRATION OF BUYOUTS + ADD-ONS 
 Core mechanic: reduce integration half-life. The shorter the half-life, the higher the velocity of value extraction.
 
-Buyout without fast add-on integration creates stranded value. Integration without ABL creates liquidity traps. ABL without jurisdictional alignment creates regulatory choke points.
+Buyout without fast add-on integration creates stranded value. Integration without Asset-Based Lending creates liquidity traps. Asset-Based Lending without jurisdictional alignment creates regulatory choke points.
 
 Fund‑III must run all three in unison.
 
 Transnational Integration Rules: 
 • Standardize governance immediately. 
 • Harmonize financial reporting in week one. 
-• Deploy ABL within 45 days. 
+• Deploy Asset-Based Lending within 45 days. 
 • Execute first add-on within 180 days. 
 • Begin cross-border optimization within 12 months.
 
@@ -139,7 +139,7 @@ THE ROIALS-CAPITAL POSITIONING
 Roials-Capital functions as a sovereign-adjacent architecture. Precision. Density. Control. Cross-border mastery. No noise. No drift. Only mechanics.
 
 Velocity from buyouts. 
-Stability from ABL. 
+Stability from Asset-Based Lending. 
 Scale from energy. 
 Legitimacy from MiFID II. 
 Predictability from governance. 

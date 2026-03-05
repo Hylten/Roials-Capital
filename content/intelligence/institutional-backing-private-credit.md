@@ -62,7 +62,7 @@ Institutional private credit allocates senior in the capital stack. The security
 - Priority claim over cash flow producing assets
 
 5. Institutional Liquidity Paths
-ABL facilities are increasingly used to manage seasonal or operational liquidity gaps. These structures allow borrowers to convert dormant assets into liquidity events without destabilizing core operations. Institutions value ABL structures because they are self liquidating and secured by real assets with definable valuations.
+Asset-Based Lending facilities are increasingly used to manage seasonal or operational liquidity gaps. These structures allow borrowers to convert dormant assets into liquidity events without destabilizing core operations. Institutions value Asset-Based Lending structures because they are self liquidating and secured by real assets with definable valuations.
 
 6. BUYOUT AND ADD ON FINANCING
 Fund-III+ environments rely on certainty of execution. Institutional private credit platforms can provide:

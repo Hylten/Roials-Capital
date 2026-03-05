@@ -27,7 +27,7 @@ Third, wealth mobility depends on the perimeter of enforceability. The wider the
 
 The mobility of wealth is also a moral architecture. Institutions do not articulate this publicly, but they act on it consistently. Wealth that stagnates decays. Wealth that circulates compounds. Intergenerational capital transfer is not a domestic process-it is a cross-border process. Proverbs 13:22. This is blueprint, not scripture. The righteous are the structurally prepared. The sinner is the structurally exposed. Wealth flows accordingly.
 
-Roials-Capital applies this doctrine in three domains: Fund-III+ kapitalanskaffning, Asset-Backed Frameworks (ABL), and special mandates.
+Roials-Capital applies this doctrine in three domains: Fund-III+ kapitalanskaffning, Asset-Backed Frameworks (Asset-Based Lending), and special mandates.
 
 Fund-III kapitalanskaffning is the core. Eighty percent of current demand from LPs concerns the ability to accelerate buyout cycles while reducing exposure to static collateral regimes. They want mobility. They want durability. They want yield with sovereign-like security. The GP who cannot demonstrate this architecture will fail in the next capital cycle. The GP who can demonstrate it will absorb weaker players. Fund-III is not a fundraising exercise. It is a systems credibility test.
 
@@ -37,9 +37,9 @@ Fund-III performance is not determined by IRR. It is determined by structural mo
 
 Roials-Capital focuses on designing Fund-III systems with institutional-grade mobility. Multi-entity formation. Cross-border SPV orchestration. Offshore-onshore dual‑domicile rights. Embedded liquidity pathways. Regulatory arbitrage. Tax‑neutral migration routes. This is not creativity. This is precision engineering.
 
-Next: Asset-Backed Frameworks via ABL. Ten percent focus. Yet critical. Asset-based lending provides the bottom-layer liquidity essential to execute rapid M&A sequences. But ABL only functions at scale when collateral can be re‑pledged across borders without reclassification risk. The mistake most operators make is treating ABL as static. They see it as the basement. In reality, it is the elevator. ABL provides vertical movement across the capital stack. But only if mobile.
+Next: Asset-Backed Frameworks via Asset-Based Lending. Ten percent focus. Yet critical. Asset-based lending provides the bottom-layer liquidity essential to execute rapid M&A sequences. But Asset-Based Lending only functions at scale when collateral can be re‑pledged across borders without reclassification risk. The mistake most operators make is treating Asset-Based Lending as static. They see it as the basement. In reality, it is the elevator. Asset-Based Lending provides vertical movement across the capital stack. But only if mobile.
 
-ABL must be engineered with tri‑party control, cross-border recognition, movable perfection rights, and multi-jurisdictional custodial arrangements. Without this, the lender prices friction into the facility. That drag reduces buyout velocity. Reduced velocity kills Fund-III performance. This is why mobility is the core principle. Everything else is derivative.
+Asset-Based Lending must be engineered with tri‑party control, cross-border recognition, movable perfection rights, and multi-jurisdictional custodial arrangements. Without this, the lender prices friction into the facility. That drag reduces buyout velocity. Reduced velocity kills Fund-III performance. This is why mobility is the core principle. Everything else is derivative.
 
 The final domain: special mandates. Ten percent allocation. Yet disproportionately influential. NAEOC energy transactions between $50M and $250M demand collateral structures capable of migrating across U.S. federal, state, tribal, and private jurisdictions with clean title paths. The complexity is not legal. The complexity is kinetic-energy assets move. Rights shift. Royalties split. Easements rotate. Ownership chains mutate. Borderless collateral engineering stabilizes this dynamic. It freezes chaos into structure.
 

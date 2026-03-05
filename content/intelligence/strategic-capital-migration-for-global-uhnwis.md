@@ -105,7 +105,7 @@ Roials-Capital provides private credit solutions that are built for the top 0:1 
 
 ## Asset Based Institutional Liquidity Paths: The Structural Core
 
-Asset based Monetization Architecture is where capital migration becomes mechanical. ABL converts traditionally immobilized wealth into high velocity liquidity while maintaining full asset integrity and privacy.
+Asset based Monetization Architecture is where capital migration becomes mechanical. Asset-Based Lending converts traditionally immobilized wealth into high velocity liquidity while maintaining full asset integrity and privacy.
 
  
 
@@ -125,11 +125,11 @@ Typical eligible collateral includes:
 
  
 
-The global UHNW segment increasingly uses ABL not as a financing tool, but as an architectural tool. ABL is the skeleton that supports tax strategy, jurisdictional flexibility, investment deployment, and family continuity.
+The global UHNW segment increasingly uses Asset-Based Lending not as a financing tool, but as an architectural tool. Asset-Based Lending is the skeleton that supports tax strategy, jurisdictional flexibility, investment deployment, and family continuity.
 
  
 
-Roials-Capital executes ABL with institutional governance and silent authority. The structure, not the institution, becomes the power.
+Roials-Capital executes Asset-Based Lending with institutional governance and silent authority. The structure, not the institution, becomes the power.
 
  
 
@@ -281,7 +281,7 @@ Sanctions, capital controls, and legal shifts can immobilize entire asset classe
 
 ### 4. Liquidity Fragmentation
 
-Liquidity is no longer universal. It must be engineered. ABL and private credit become the tools that restore continuity.
+Liquidity is no longer universal. It must be engineered. Asset-Based Lending and private credit become the tools that restore continuity.
 
  
 
@@ -302,7 +302,7 @@ This stack includes:
  
 
 • Immediate liquidity via share Strategic Collateralization or crypto Capital Structuring 
-• Mid term liquidity via ABL 
+• Mid term liquidity via Asset-Based Lending 
 • Long horizon liquidity via private credit structures 
 
  

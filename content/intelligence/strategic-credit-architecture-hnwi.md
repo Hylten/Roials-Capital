@@ -65,13 +65,13 @@ Fund-III capital formation sits at the center. The objective is to create an acq
 - Scenario‑based leverage grids 
 LPs do not fund promises. They fund systems. Fund-III capital arrives when the system exists before the pitch.
 
-2. **Monetization Architecture Corridor: 10 percent Mandate (ABL)** 
-ABL is the tactical layer. It solves short-term liquidity constraints so that entrepreneurs avoid dilutive equity. ABL converts assets into controlled liquidity. It uses: 
+2. **Monetization Architecture Corridor: 10 percent Mandate (Asset-Based Lending)** 
+Asset-Based Lending is the tactical layer. It solves short-term liquidity constraints so that entrepreneurs avoid dilutive equity. Asset-Based Lending converts assets into controlled liquidity. It uses: 
 - Inventory lines 
 - Equipment schedules 
 - Receivable aging controls 
 - Real-asset valuation grids at 90‑day liquidation marks 
-ABL is the entrepreneur’s oxygen mask. It prevents distress, stabilizes acquisition cycles, and signals institutional readiness.
+Asset-Based Lending is the entrepreneur’s oxygen mask. It prevents distress, stabilizes acquisition cycles, and signals institutional readiness.
 
 3. **Special Mandate Corridor: 10 percent Mandate** 
 The institutional ecosystem demands sector specialization. Two domains hold disproportionate weight. 

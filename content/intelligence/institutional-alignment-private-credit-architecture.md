@@ -45,7 +45,7 @@ Recovery factors sit at the center of this. Recovery math is where most LPs over
 
 Energy recovery follows a different rule: reservoir decline curves distort recovery estimates unless the underwriting model includes a geological decay factor. Too many private credit funds ignore this. They treat O&G as if it were simply heavy industrial credit. It is not. The decline curve is the hidden covenant. If you do not price it correctly, you are not investing. You are speculating.
 
-ABL mechanics play a stabilizing role. Proper ABL structuring acts as a shock absorber for liquidity decay. Incorrect ABL structuring becomes a liquidity amplifier that magnifies distress. Asset-backed lines require a risk taxonomy that is updated monthly, not quarterly. Quarterly reporting belongs to an era when information moved slowly. That era is gone.
+Asset-Based Lending mechanics play a stabilizing role. Proper Asset-Based Lending structuring acts as a shock absorber for liquidity decay. Incorrect Asset-Based Lending structuring becomes a liquidity amplifier that magnifies distress. Asset-backed lines require a risk taxonomy that is updated monthly, not quarterly. Quarterly reporting belongs to an era when information moved slowly. That era is gone.
 
 The final mechanical component is governance velocity. The faster a fund can detect deviation from expected cash-flow behavior, the more aligned the system remains. The slower the detection, the more misalignment compounds. Most default events originate 6 to 12 months before managers identify them. That delay is not technical. It is cultural. A disciplined fund eliminates that delay.
 
@@ -57,7 +57,7 @@ The model must coordinate three capital channels.
 
 The first is the primary mandate. Eighty percent of capital should be directed to acquisition financing and add-ons. These deals define the fund's identity. They also define its risk culture. A fund that cannot impose discipline at the acquisition level will never impose discipline in special situations.
 
-The second is the Institutional Liquidity Paths channel. Ten percent allocated to ABL is not a niche. It is the balancing mechanism that stabilizes portfolio health. ABL is the hydraulic system of private credit. It regulates pressure. When ABL is correctly implemented, the entire portfolio behaves with mechanical precision.
+The second is the Institutional Liquidity Paths channel. Ten percent allocated to Asset-Based Lending is not a niche. It is the balancing mechanism that stabilizes portfolio health. Asset-Based Lending is the hydraulic system of private credit. It regulates pressure. When Asset-Based Lending is correctly implemented, the entire portfolio behaves with mechanical precision.
 
 The third channel consists of special mandates. Energy financing from 50M to 250M USD. MiFID II cross-border acquisitions. These mandates require a level of structural rigor that most mid-market GPs cannot maintain. That is why alignment becomes a competitive advantage. When the architecture is correct, special mandates do not introduce complexity. They introduce optionality.
 

@@ -1,6 +1,6 @@
 ---
 title: "The Structural Advantage of Institutional Backing in Modern Private Credit"
-description: "A technical briefing on regime-shift dynamics in private credit, institutional balance sheet consolidation, and capital stack optimization across Fund-III buyouts, ABL liquidity engineering, and cross-border special mandates."
+description: "A technical briefing on regime-shift dynamics in private credit, institutional balance sheet consolidation, and capital stack optimization across Fund-III buyouts, Asset-Based Lending liquidity engineering, and cross-border special mandates."
 date: "2025-01-18"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-backing-private-credit-structural-advantage"
@@ -72,7 +72,7 @@ This operational intelligence reduces volatility and makes the credit more resil
 
 PHASE 3: THE PARTNERSHIP MODEL AND ROIALS CAPITAL'S POSITIONING
 
-Roials Capital operates as a strategic navigator, introducer, and institutional alignment partner. The firm provides clarity across three core domains relevant to allocators: Fund-III capital raising, ABL Strategic Collateralization, and international special mandates.
+Roials Capital operates as a strategic navigator, introducer, and institutional alignment partner. The firm provides clarity across three core domains relevant to allocators: Fund-III capital raising, Asset-Based Lending Strategic Collateralization, and international special mandates.
 
 1. Fund-III capital strategy 
 The dominant demand from European and North American GPs involves Fund-III level capitalization with a focus on buyout platform reinforcement, add-on financing, and consolidation strategies. Roials Capital provides institutional introductions to balance sheets capable of:
@@ -84,8 +84,8 @@ The dominant demand from European and North American GPs involves Fund-III level
 
 This positioning creates strategic alignment between GP growth trajectories and institutional credit archetypes.
 
-2. ABL Strategic Collateralization 
-Across the mid-market, ABL structures remain under-optimized. Roials Capital facilitates access to institutional-grade ABL providers who can:
+2. Asset-Based Lending Strategic Collateralization 
+Across the mid-market, Asset-Based Lending structures remain under-optimized. Roials Capital facilitates access to institutional-grade Asset-Based Lending providers who can:
 
 - Consolidate multi-bank facilities
 - Unlock hidden working capital

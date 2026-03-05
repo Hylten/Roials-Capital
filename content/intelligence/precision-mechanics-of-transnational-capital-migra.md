@@ -4,7 +4,7 @@ description: "Precision Mechanics Of Transnational Capital Migra"
 date: "2024-11-15"
 author: "Jonas Hyltén"
 slug: "precision-mechanics-of-transnational-capital-migra"
-keywords: "private credit, ABL, liquidity"
+keywords: "private credit, Asset-Based Lending, liquidity"
 ---
 
 # Precision Mechanics of Transnational Capital Migration

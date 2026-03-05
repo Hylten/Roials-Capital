@@ -25,7 +25,7 @@ Three forces define the new order:
 For twenty years, sovereigns relied on tax-base projections, demographic inflows, and financialized GDP assumptions. Those projections are now collapsing. Hard collateral is returning to center stage. Energy reserves. Infrastructure cash flows. Mineral rights. Production-linked royalties. This is the first re-hardening of sovereign balance sheets since the early 1970s.
 
 2. The liquidity bifurcation.
-Private credit has fractured into two non-overlapping regimes: institutional ABL liquidity and relationship-driven covenant structures. Sovereigns are unprepared. Ministries still operate on annual budgets. Markets operate on intraday repricing. The gap widens each quarter.
+Private credit has fractured into two non-overlapping regimes: institutional Asset-Based Lending liquidity and relationship-driven covenant structures. Sovereigns are unprepared. Ministries still operate on annual budgets. Markets operate on intraday repricing. The gap widens each quarter.
 
 3. The capital migration toward long-term private stewardship.
 UHNW families, energy operators, royalty funds, and private credit boutiques are out-competing sovereigns for strategic assets. They move faster. They close cleaner. They enforce discipline.
@@ -61,8 +61,8 @@ The structure divides into three pillars.
 Pillar 1: Kapitalanskaffning for Fund-III and Fund-IV adjacency.
 Eighty percent of the mandate is directed toward capital formation for buyouts and add-ons. The target classes are operators with defensible cash flows and hard-asset moats. Sovereign capital retrenchment creates acquisition windows in energy, transport logistics, industrial processing, and mineral-linked assets. LPs want predictable governance. GPs want cleaner execution. Sovereigns want influence without responsibility. We serve the first two, not the third.
 
-Pillar 2: Asset-Backed Frameworks through institutional ABL.
-Ten percent of the mandate is structured around asset-based lending for operators with temporary liquidity mismatches. This is the most misunderstood part of sovereign capital infrastructure. Capital Structuring is not rescue lending. It is governance enforcement. ABL disallows drift. It forces precision. When used inside sovereign-linked ecosystems, it creates a parallel system of discipline that outperforms public credit channels.
+Pillar 2: Asset-Backed Frameworks through institutional Asset-Based Lending.
+Ten percent of the mandate is structured around asset-based lending for operators with temporary liquidity mismatches. This is the most misunderstood part of sovereign capital infrastructure. Capital Structuring is not rescue lending. It is governance enforcement. Asset-Based Lending disallows drift. It forces precision. When used inside sovereign-linked ecosystems, it creates a parallel system of discipline that outperforms public credit channels.
 
 Pillar 3: Special mandates in energy and regulated acquisitions.
 Ten percent of the mandate focuses on mandates in:

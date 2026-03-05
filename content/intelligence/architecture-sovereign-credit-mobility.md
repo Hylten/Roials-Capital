@@ -56,7 +56,7 @@ Roials-Capital builds credit systems engineered to withstand sovereignty thresho
 Now to the engine room.
 
 LTV Curves 
-Roials-Capital models LTV using five-point convexity. LTV is never flat. It shifts with jurisdictional enforcement velocity, asset class hardening, and regulatory harmonization. Fund-III targets 42 to 63 percent hard-asset collateralization in ABL structures, with lower convexity spread in MiFID II regions and higher convexity spread in NAEOC corridors due to geological fixed asset durability.
+Roials-Capital models LTV using five-point convexity. LTV is never flat. It shifts with jurisdictional enforcement velocity, asset class hardening, and regulatory harmonization. Fund-III targets 42 to 63 percent hard-asset collateralization in Asset-Based Lending structures, with lower convexity spread in MiFID II regions and higher convexity spread in NAEOC corridors due to geological fixed asset durability.
 
 Cash-Flow Waterfalls 
 We use zero-ambiguity waterfalls. Each waterfall must isolate operational revenues, energy-linked cash flows, and sovereign-sensitive streams. Senior tranches receive insulated paths. Mezzanine tranches receive timed dynamic ratchets. Covenant packages are triggered by deviation in mobility, not EBITDA fluctuations. This protects sovereign-linked assets from becoming political byproducts.
@@ -80,8 +80,8 @@ Our model uses three strategic layers.
  Channel two: Institutional LPs seeking predictable deployment velocity. 
  Fund-III uses rolling closings calibrated to regulatory windows, not calendar optics.
 
-2. ABL Institutional Liquidity Paths 
- ABL is a liquidity instrument. Not a loan. Not an advance. ABL is engineered mobility. It converts idle collateral into cross-border leverage without violating sovereign constraints. For Fund-III portfolio companies, we use ABL to stabilize acquisition velocity and to accelerate integration of add-ons.
+2. Asset-Based Lending Institutional Liquidity Paths 
+ Asset-Based Lending is a liquidity instrument. Not a loan. Not an advance. Asset-Based Lending is engineered mobility. It converts idle collateral into cross-border leverage without violating sovereign constraints. For Fund-III portfolio companies, we use Asset-Based Lending to stabilize acquisition velocity and to accelerate integration of add-ons.
 
 3. Special Mandates 
  NAEOC mandates between 50M and 250M require sovereign sensitivity. Energy concessions need structured credit. Drilling infrastructure needs migration modeling. Midstream equipment needs asset hardening. 

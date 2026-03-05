@@ -44,7 +44,7 @@ The engineering process:
 1. Assessment of reserve assets: Bitcoin holdings. Custodial frameworks. Jurisdictional structuring. 
 2. Determine target liquidity: working capital, acquisitions, operational runway, co-invest commitments. 
 3. Design collateral envelope: blend of Bitcoin, private shares, and hard assets. 
-4. Construct credit spine: private credit, ABL, term facilities, or hybrid structures. 
+4. Construct credit spine: private credit, Asset-Based Lending, term facilities, or hybrid structures. 
 5. Embed institutional protections: multi-sig governance, insolvency isolation, jurisdictional fail-safes. 
 6. Deploy. Adjust. Re-collateralize. Expand.
 
@@ -89,11 +89,11 @@ Capital raising circles back. When families possess engineered liquidity, their 
 
 This is structural compounding. Architecture becomes advantage.
 
-ABL WITH BITCOIN COLLATERAL ENVELOPES
+Asset-Based Lending WITH BITCOIN COLLATERAL ENVELOPES
 
 Asset-based lending typically anchors on receivables, inventory, equipment, and real property. Bitcoin adds a fifth category: digital reserve collateral. It behaves differently. It is liquid. Transparent. Real-time verifiable. Zero counterparty risk. Faster to monetize. Faster to rehypothecate. Banks dislike it. Private lenders accept it. Family offices embrace it.
 
-Capital Structuring with Bitcoin inside an ABL framework looks like this:
+Capital Structuring with Bitcoin inside an Asset-Based Lending framework looks like this:
 
 • Bitcoin reserve as top-layer collateral. 
 • Operating assets as mid-layer collateral. 
@@ -102,7 +102,7 @@ Capital Structuring with Bitcoin inside an ABL framework looks like this:
 
 The structure becomes an accordion. Expand. Contract. Rebalance. Keep the company leveraged efficiently. Protect covenant strength. Preserve equity.
 
-Bitcoin reduces friction. That is the core. ABL becomes cleaner. Faster. More precise.
+Bitcoin reduces friction. That is the core. Asset-Based Lending becomes cleaner. Faster. More precise.
 
 SPECIAL ENERGY MANDATES & BITCOIN RESERVES
 

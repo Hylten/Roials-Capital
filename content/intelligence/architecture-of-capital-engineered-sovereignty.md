@@ -86,8 +86,8 @@ Demand is structural. Supply is controlled. Flow is deliberate.
 
 ---
 
-Capital Structuring (ABL / PRIVATE CREDIT) (10%) 
-Liquidity is not cash. Liquidity is optionality. ABL lines, asset-backed revolvers, structured liquidity tools-these form the internal oxygen line. They allow Fund‑III to expand without tapping dry powder too early.
+Capital Structuring (Asset-Based Lending / PRIVATE CREDIT) (10%) 
+Liquidity is not cash. Liquidity is optionality. Asset-Based Lending lines, asset-backed revolvers, structured liquidity tools-these form the internal oxygen line. They allow Fund‑III to expand without tapping dry powder too early.
 
 Monetization Architecture achieves three institutional outcomes:
 
@@ -95,7 +95,7 @@ Monetization Architecture achieves three institutional outcomes:
 • Expanding acquisition readiness 
 • Sustaining operational transition phases 
 
-We structure ABL as an internal metabolic system. Precision. No noise. Facility terms must support acquisition arcs, not trap them. Monetization Architecture eliminates timing risk, the most corrosive risk of all.
+We structure Asset-Based Lending as an internal metabolic system. Precision. No noise. Facility terms must support acquisition arcs, not trap them. Monetization Architecture eliminates timing risk, the most corrosive risk of all.
 
 ---
 

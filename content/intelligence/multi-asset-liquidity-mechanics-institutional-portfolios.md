@@ -31,7 +31,7 @@ Jurisdictional liquidity defines the map. Every acquisition jurisdiction imposes
 
 Asset‑class liquidity defines the engine. Oil and gas reserves. Midstream infrastructure. Letters of credit. Receivables. Earn‑outs. Equipment. Real estate. Private credit instruments. These are not static items on a balance sheet. They are components in a liquidity engine. Each can be activated, pledged, cross‑collateralized, moved, borrowed against, or converted. The more asset classes in the portfolio, the more gears exist in the engine. The more gears, the more torque. Torque drives acquisition power. Acquisition power drives Fund-III credibility. Credibility drives kapitalanskaffning.
 
-Multi‑asset liquidity demands mastery of conversion pathways. Convert reserves into borrowing bases. Convert inventory into ABL revolvers. Convert contracts into forward cashflow instruments. Convert infrastructure into securitized yield strips. Convert equipment into collateral tranches. Convert private credit exposures into refinancing leverage. Convert jurisdictional advantages into capital stack efficiency. Each conversion adds a layer. Each layer adds resilience. Each layer multiplies options.
+Multi‑asset liquidity demands mastery of conversion pathways. Convert reserves into borrowing bases. Convert inventory into Asset-Based Lending revolvers. Convert contracts into forward cashflow instruments. Convert infrastructure into securitized yield strips. Convert equipment into collateral tranches. Convert private credit exposures into refinancing leverage. Convert jurisdictional advantages into capital stack efficiency. Each conversion adds a layer. Each layer adds resilience. Each layer multiplies options.
 
 Institutional Liquidity Paths is the architecture of those options.
 
@@ -51,7 +51,7 @@ Each serves a distinct function. Together they create an institutional‑grade l
 
 The Liquidity Intelligence Layer tracks the real‑time state of every asset's convertibility. Not static valuations. Convertibility mappings. The question is always: How fast can we move this asset? At what cost? Under what leverage? Across which borders? With which instruments? Without this layer, liquidity is reactive.
 
-The Capital Conversion Layer is the heart. This is where assets transform into deployable capital. It includes ABL structures, reserve-based lending, private credit facilities, mezzanine compression, synthetic liquidity lines, and acquisition hardening. Liquidity here is manufactured, not discovered. Precision drives advantage. Machine gun sentences here. Move capital. Shift weight. Harden assets. Increase torque.
+The Capital Conversion Layer is the heart. This is where assets transform into deployable capital. It includes Asset-Based Lending structures, reserve-based lending, private credit facilities, mezzanine compression, synthetic liquidity lines, and acquisition hardening. Liquidity here is manufactured, not discovered. Precision drives advantage. Machine gun sentences here. Move capital. Shift weight. Harden assets. Increase torque.
 
 The Collateral Multiplex Layer expands the asset's utility. A single asset should support multiple liquidity pathways. Equipment can be pledged once. Or structured into a multi‑pledge cascade. Receivables can be sold. Or packaged. Or tranched. Or wrapped. Or insured. Institutions choose the cascade. Cascades create optionality. Optionality multiplies acquisition readiness.
 
@@ -83,7 +83,7 @@ Liquidity begins with inventory. Real inventory. Not accounting categories. Each
 
 Cross‑asset correlation must be measured. Not for risk avoidance. For liquidity sequencing. When one asset compresses, another expands. Sequence determines outcome. Sequence dictates leverage thresholds. Sequence enables opportunistic buyouts in stressed markets. Multi‑asset sequencing is how GPs purchase high‑value assets at compressed multiples while competitors are immobilized.
 
-Asset-Backed Frameworks amplifies sequencing through leverage. Not reckless leverage. Structured leverage. Protective leverage. Leverage that increases mobility, not fragility. ABL lines. Factoring corridors. Revolver grids. Private credit anchors. These tools form the liquidity lattice. The lattice sustains the portfolio through rate shocks and macro dislocations.
+Asset-Backed Frameworks amplifies sequencing through leverage. Not reckless leverage. Structured leverage. Protective leverage. Leverage that increases mobility, not fragility. Asset-Based Lending lines. Factoring corridors. Revolver grids. Private credit anchors. These tools form the liquidity lattice. The lattice sustains the portfolio through rate shocks and macro dislocations.
 
 Energy portfolios require additional liquidity layers. Reserve‑based facilities. Hedging corridors. Production‑backed credit lines. Off‑take securitizations. Liquefaction financing structures. Each is a unique gear. Combined, they produce massive torque. Torque wins auctions. Torque accelerates scale. Torque strengthens Fund-III positioning.
 

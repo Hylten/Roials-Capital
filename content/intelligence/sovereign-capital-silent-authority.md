@@ -52,7 +52,7 @@ Sovereign LPs ask three questions only:
 • Can the GP integrate add-ons at institutional cadence? 
 • Can the GP absorb shocks without liquidity panic? 
 
-The third question is the gatekeeper. Sovereign capital allocates only to managers who understand Institutional Liquidity Paths as a strategic weapon, not an emergency lever. ABL frameworks and private credit overlays become critical not for operating companies but for GP-level risk insulation.
+The third question is the gatekeeper. Sovereign capital allocates only to managers who understand Institutional Liquidity Paths as a strategic weapon, not an emergency lever. Asset-Based Lending frameworks and private credit overlays become critical not for operating companies but for GP-level risk insulation.
 
 In Fund-III, operational alpha matters less than platform stability. Sovereign allocators want certainty of deployment rate, certainty of add-on integration, certainty of cash-flow quality, and certainty of governance controls. The GP must operate like a micro-sovereign entity. Calm. Rigid. Predictable.
 
@@ -90,7 +90,7 @@ Sovereign capital prefers simplicity in the stack. Complexity signals weakness. 
 A sovereign-grade capital stack looks like this:
 
 • Senior secured debt (where necessary) 
-• Structural ABL or liquidity line (standing, not reactive) 
+• Structural Asset-Based Lending or liquidity line (standing, not reactive) 
 • Institutional equity (clean, non-fragmented) 
 • Sovereign sidecar (optional, strategic, demand-driven) 
 
@@ -120,12 +120,12 @@ In Fund-III, the GP must demonstrate a pattern. A cadence. A signature integrati
 
 ---
 
-SECTION 6: Capital Structuring (ABL 10%) 
+SECTION 6: Capital Structuring (Asset-Based Lending 10%) 
 Liquidity is the sovereign obsession. Not for returns. For control. Liquidity is a political asset. It allows sovereign allocators to navigate sanctions, currency shifts, and global instability.
 
-ABL frameworks serve one purpose: ensure operational autonomy.
+Asset-Based Lending frameworks serve one purpose: ensure operational autonomy.
 
-A well-architected ABL system:
+A well-architected Asset-Based Lending system:
 
 • Protects against credit freezes 
 • Stabilizes working capital 
@@ -133,9 +133,9 @@ A well-architected ABL system:
 • Reduces dependency on external shocks 
 • Increases GP credibility at institutional scale 
 
-ABL is discipline. 
-ABL is order. 
-ABL is sovereignty inside the balance sheet.
+Asset-Based Lending is discipline. 
+Asset-Based Lending is order. 
+Asset-Based Lending is sovereignty inside the balance sheet.
 
 Fund-III GPs who institutionalize Monetization Architecture attract allocators who think in 20-year arcs, not quarterly cycles.
 

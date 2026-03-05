@@ -27,7 +27,7 @@ Strategic Collateralization has emerged as a neutral, non promotional strategy f
 
 PHASE 2: TECHNICAL MECHANICS OF PRIVATE Capital Structuring
 
-Institutional grade Strategic Collateralization differs from traditional ABL or cash flow lending because the governing mechanics prioritize structural clarity and cash flow choreography over rate maximization. The emphasis is on operational truth rather than yield.
+Institutional grade Strategic Collateralization differs from traditional Asset-Based Lending or cash flow lending because the governing mechanics prioritize structural clarity and cash flow choreography over rate maximization. The emphasis is on operational truth rather than yield.
 
 Core mechanics inside the Roials Capital Framework include:
 
@@ -76,7 +76,7 @@ Three channels define the mandate distribution:
 1. Kapitalanskaffning: 80 percent 
 This includes equity capital raising for buyouts, add ons, and fund level expansion for established GPs. The objective is to maintain neutrality while ensuring institutional readiness. Capital Structuring instruments often support these transactions by stabilizing portfolio company operations before or after acquisition.
 
-2. ABL and Capital Structuring: 10 percent 
+2. Asset-Based Lending and Capital Structuring: 10 percent 
 This includes direct collaboration with institutional partners who deploy structured credit inside clean collateral profiles. Roials Capital serves as the architect of the agreement parameters. Execution is handled by the institutional partner.
 
 3. Special Mandates: 10 percent 

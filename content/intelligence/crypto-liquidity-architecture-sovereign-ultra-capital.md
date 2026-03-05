@@ -80,7 +80,7 @@ GPs gain access to a sovereign-grade liquidity tunnel that improves acquisition 
 Trade cycles compress. Deal execution accelerates. Covenant risk declines. 
 This is the practical advantage. When liquidity moves instantly, acquisition windows widen.
 
-ABL operations form the secondary pillar. Ten percent of this mandate focuses on Asset-Backed Frameworks for asset backed lines. Crypto collateral is integrated as a supplementary liquidity sleeve. Asset backed lending becomes a multi-collateral pipeline instead of a single-asset bottleneck.
+Asset-Based Lending operations form the secondary pillar. Ten percent of this mandate focuses on Asset-Backed Frameworks for asset backed lines. Crypto collateral is integrated as a supplementary liquidity sleeve. Asset backed lending becomes a multi-collateral pipeline instead of a single-asset bottleneck.
 
 Special mandates complete the structure. 
 NAEOC 50 million to 250 million energy mandates benefit from crypto settlement rails because they eliminate cross-border payment delays. 

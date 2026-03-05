@@ -1,6 +1,6 @@
 ---
 title: "Institutional Grade Infrastructure for Asset Hardening"
-description: "High conviction framework for capital hardening mechanics, ABL liquidity engineering, and private market acquisition readiness for Fund-III scale structures"
+description: "High conviction framework for capital hardening mechanics, Asset-Based Lending liquidity engineering, and private market acquisition readiness for Fund-III scale structures"
 date: "2024-05-03"
 author: "Roials-Capital"
 slug: "institutional-grade-asset-hardening"
@@ -35,7 +35,7 @@ We anchor everything in three determinative mechanics:
 Short sentences hold authority. LTV is not a static ratio. It is a decay curve. Every asset class possesses a unique degradation pattern. For buyouts at Fund-III scale, the LTV curve cannot drift more than 12 to 17 percent without triggering a capital-call or covenant break. Energy acquisitions inside NAEOC mandates require an even tighter curve. Drift beyond 9 percent signals operational negligence. Asset hardening is the act of controlling the LTV slope. Not merely the ratio.
 
 2. Cash-Flow Waterfalls
-The waterfall is the enforcement engine. Priority of payments dictates survivability. First you enforce senior cash sweep protocols. Then you lock reserve accounts. Then you run ABL revolvers only against verified receivables with recovery cycles below 38 days. Waterfalls are not administrative instruments. They are survival architecture.
+The waterfall is the enforcement engine. Priority of payments dictates survivability. First you enforce senior cash sweep protocols. Then you lock reserve accounts. Then you run Asset-Based Lending revolvers only against verified receivables with recovery cycles below 38 days. Waterfalls are not administrative instruments. They are survival architecture.
 
 3. Recovery Factors
 The recovery factor is not a metric. It is a verdict. Low recovery signals structural weakness. High recovery signals control. When underwriting energy assets inside a 50M to 250M NAEOC envelope, anything below 62 percent recovery under conservative impairment is a rejection. Private credit allocators respond to one thing. Predictability of enforcement. Not brand. Not story. Recovery.
@@ -67,8 +67,8 @@ Eighty percent of our mandate. Capital raising is not marketing. It is precision
 
 GPs that lack these elements are not denied capital. They are denied scale.
 
-2. ABL Capital Structuring
-Ten percent of our mandate. ABL is not working capital. It is a liquidity exoskeleton. We design structures that prevent operational suffocation. Properly engineered ABL lines lower volatility, accelerate value creation, and eliminate the liquidity traps that destroy mid-market buyouts. The objective is simple: liquidity without fragility.
+2. Asset-Based Lending Capital Structuring
+Ten percent of our mandate. Asset-Based Lending is not working capital. It is a liquidity exoskeleton. We design structures that prevent operational suffocation. Properly engineered Asset-Based Lending lines lower volatility, accelerate value creation, and eliminate the liquidity traps that destroy mid-market buyouts. The objective is simple: liquidity without fragility.
 
 3. Special Mandates: NAEOC and EU MiFID II Acquisition Infrastructure
 Ten percent of our mandate. These mandates require military discipline. Not optimism. NAEOC demands engineering-level competence for natural asset acquisitions between 50M and 250M. MiFID II acquisitions demand compliance sequencing that eliminates regulatory drift. Drift is expensive. Drift kills deals. Our architecture eliminates it.

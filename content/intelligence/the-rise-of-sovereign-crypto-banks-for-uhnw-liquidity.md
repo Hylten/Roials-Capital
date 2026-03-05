@@ -72,7 +72,7 @@ Sovereign crypto banks solve these constraints.
 They operate through multi jurisdictional infrastructure, distributed custody, and underwriting models designed around high value assets that traditional banks cannot price or do not understand. 
 
  
-This includes private credit paper, structured notes, ABL portfolios, and digital asset holdings. 
+This includes private credit paper, structured notes, Asset-Based Lending portfolios, and digital asset holdings. 
 
  
 The result is a liquidity environment in which capital flows around the client rather than forcing the client into predefined channels. 
@@ -80,7 +80,7 @@ The result is a liquidity environment in which capital flows around the client r
  
 This is the foundation of modern UHNW sovereignty. 
 
-## Private Credit and ABL as Core Collateral Classes
+## Private Credit and Asset-Based Lending as Core Collateral Classes
 
 Roials Capital maintains a structural advantage because we lend against collateral classes that most institutions consider too bespoke or too opaque. 
 
@@ -94,7 +94,7 @@ However, private credit positions are traditionally illiquid.
 Roials Capital transforms these positions into borrowable equity without forcing exit or dilution. 
 
  
-Asset Based Institutional Liquidity Paths creates a similar dynamic. ABL portfolios, when engineered correctly, become continuous liquidity engines. 
+Asset Based Institutional Liquidity Paths creates a similar dynamic. Asset-Based Lending portfolios, when engineered correctly, become continuous liquidity engines. 
 
  
 This includes: 
@@ -237,7 +237,7 @@ Our architecture is defined by:
 • High discretion underwriting 
 • Institutional grade risk frameworks 
 • Multi jurisdictional infrastructure 
-• Collateral expertise across private credit, ABL, crypto, and public equity 
+• Collateral expertise across private credit, Asset-Based Lending, crypto, and public equity 
 • Minimum thresholds aligned with UHNW environments 
 
  

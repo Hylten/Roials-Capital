@@ -23,7 +23,7 @@ Three structural gaps define the current regime.
 
 First. The private credit market has transitioned from a rate environment to a covenant environment. Lenders are no longer pricing risk. They are enforcing discipline. Every manager who fails to integrate covenant intelligence into the underwriting engine will surrender control of their own capital stack.
 
-Second. ABL has re-emerged as the only rational bridge between slow institutional allocations and real operational need. It is not a financing tactic. It is a liquidity discipline. Managers who view ABL as opportunistic fail. Managers who use ABL as a buffer and pre-commitment stabiliser build predictable momentum.
+Second. Asset-Based Lending has re-emerged as the only rational bridge between slow institutional allocations and real operational need. It is not a financing tactic. It is a liquidity discipline. Managers who view Asset-Based Lending as opportunistic fail. Managers who use Asset-Based Lending as a buffer and pre-commitment stabiliser build predictable momentum.
 
 Third. Special mandates have overtaken standard buyouts in institutional priority. Energy portfolios, MiFID II regulated expansion, and NAEOC qualified assets have become the new benchmark for institutional seriousness. LPs are no longer asking what you buy. They are asking what sovereign function your capital serves. Those who build assets that anchor national or regional stability will outperform for twenty years.
 
@@ -51,9 +51,9 @@ Recovery factors.
 
 Energy acquisitions under NAEOC rules exhibit recovery factors between 0.71 and 0.83, depending on basin and surface infrastructure. This is why they function as sovereign assets. Their resilience does not depend on market speculation. It depends on physical extraction behaviour. When an asset’s value is tied to geological obedience rather than political optimism, capital becomes harder, cleaner, and more obedient.
 
-ABL mechanics.
+Asset-Based Lending mechanics.
 
-ABL is only efficient when three rules are followed.
+Asset-Based Lending is only efficient when three rules are followed.
 
 • Inventory must be valued on liquidation, not replacement 
 • Receivables must clear inside 32 days 

@@ -1,6 +1,6 @@
 ---
 title: "The Mechanics of Multi-Asset Liquidity for Institutional-Grade Portfolios"
-description: "A surgical exploration of liquidity architecture across private credit, ABL, and high-threshold digital and public market collateral."
+description: "A surgical exploration of liquidity architecture across private credit, Asset-Based Lending, and high-threshold digital and public market collateral."
 date: "2024-07-18"
 author: "Jonas Hyltén"
 slug: "the-mechanics-of-multi-asset-liquidity-for-institutional-grade-portfolios"
@@ -61,12 +61,12 @@ It creates dependable balance sheet optimization power without exposing the port
 
 ## Asset Based Asset-Backed Frameworks as Structural Extension
 
-Asset based Asset-Backed Frameworks, ABL, provides the second layer of liquidity architecture. 
+Asset based Asset-Backed Frameworks, Asset-Based Lending, provides the second layer of liquidity architecture. 
 
-ABL operates on tangible or semi tangible exposures. 
+Asset-Based Lending operates on tangible or semi tangible exposures. 
 It converts private assets into leveraged instruments without forcing divestment.
 
-Roials Capital uses ABL mechanics as a structural extension of private credit liquidity. 
+Roials Capital uses Asset-Based Lending mechanics as a structural extension of private credit liquidity. 
 
 The protocol includes:
 
@@ -75,10 +75,10 @@ The protocol includes:
 • Encumbrance mapping to prevent over collateralization 
 • Structural thresholds that preserve the asset’s future optionality 
 
-ABL is a tool of quiet leverage. 
+Asset-Based Lending is a tool of quiet leverage. 
 It allows an investor to retain ownership, preserve long term appreciation, and still extract present day liquidity.
 
-For multi asset liquidity systems, ABL provides the scalability. 
+For multi asset liquidity systems, Asset-Based Lending provides the scalability. 
 It expands the collateral base without destabilizing the portfolio.
 
 ## Public Share Strategic Collateralization at a Minimum Threshold of 5 Million USD
@@ -104,7 +104,7 @@ Clients retain ownership and directional exposure.
 We provide the liquidity without forcing participation in market noise.
 
 Public share Asset-Backed Frameworks becomes the fluid layer inside the multi asset architecture. 
-It is the component that can respond fastest without compromising the deeper structural layers of private credit and ABL.
+It is the component that can respond fastest without compromising the deeper structural layers of private credit and Asset-Based Lending.
 
 ## Crypto Asset-Backed Frameworks at a Minimum Threshold of 2 Million USD
 
@@ -128,7 +128,7 @@ To give investors liquidity without forcing liquidation.
 To provide institutional stability inside an asset class that operates at non institutional velocity.
 
 Crypto Asset-Backed Frameworks is the tactical layer inside a multi asset strategy. 
-It provides rapid liquidity, but is anchored by the deeper stability of private credit, ABL, and public share exposures.
+It provides rapid liquidity, but is anchored by the deeper stability of private credit, Asset-Based Lending, and public share exposures.
 
 ## The Hierarchy of Liquidity Layers
 

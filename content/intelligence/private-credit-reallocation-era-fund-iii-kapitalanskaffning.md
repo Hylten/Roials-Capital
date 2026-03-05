@@ -1,6 +1,6 @@
 ---
 title: "The Reallocation Mandate: Private Credit’s Institutional Pathways in a Post-Rate Regime"
-description: "A principal-level analysis of private credit’s structural reset, middle-market absorption capacity, and Fund-III capital formation dynamics across buyouts, ABL liquidity engineering, and cross‑border mandate arbitrage."
+description: "A principal-level analysis of private credit’s structural reset, middle-market absorption capacity, and Fund-III capital formation dynamics across buyouts, Asset-Based Lending liquidity engineering, and cross‑border mandate arbitrage."
 date: "2025-01-29"
 author: "Roials-Capital"
 slug: "private-credit-reallocation-era-Fund-III-kapitalanskaffning"
@@ -64,10 +64,10 @@ Five drivers define the recap wave:
 
 The winners will not be lenders. They will be architects. Those who structure, not follow. Those who design liquidity, not provide it.
 
-This is where ABL and Monetization Architecture become crucial.
+This is where Asset-Based Lending and Monetization Architecture become crucial.
 
-ABL AS Capital Structuring 
-Asset‑based lending is no longer a secondary solution. It is a liquidity engine. Fast. Precise. Collateral‑anchored. In a world where earnings volatility destabilizes leverage models, ABL reintroduces stability. It transforms fixed assets into strategic mobility.
+Asset-Based Lending AS Capital Structuring 
+Asset‑based lending is no longer a secondary solution. It is a liquidity engine. Fast. Precise. Collateral‑anchored. In a world where earnings volatility destabilizes leverage models, Asset-Based Lending reintroduces stability. It transforms fixed assets into strategic mobility.
 
 Our positioning is deliberate:
 
@@ -77,7 +77,7 @@ Our positioning is deliberate:
 • Speed over spread 
 • Collateral verification over narrative 
 
-ABL is the circulatory system for operational resets. Middle-market CFOs know this. Boards know this. Sponsors are learning it again.
+Asset-Based Lending is the circulatory system for operational resets. Middle-market CFOs know this. Boards know this. Sponsors are learning it again.
 
 SPECIAL MANDATES: THE JURISDICTIONAL FRONTIER 
 The reallocation era opens windows that did not exist five years ago. Energy mandates. Cross-border licenses. Regulatory cracks. This is where institutional capital gains its advantage.
@@ -139,14 +139,14 @@ The private credit landscape will formalize around five pillars:
 
 The GPs who institutionalize all five will dominate the next ten years. Everyone else will become rate‑beta providers. Replaceable. Interchangeable. Irrelevant.
 
-The reallocation era rewards builders. Not passive allocators. Builders who structure capital stacks. Builders who integrate ABL with buyouts. Builders who acquire under MiFID II when others hesitate. Builders who unlock NAEOC corridors. Builders who raise Fund‑III with conviction.
+The reallocation era rewards builders. Not passive allocators. Builders who structure capital stacks. Builders who integrate Asset-Based Lending with buyouts. Builders who acquire under MiFID II when others hesitate. Builders who unlock NAEOC corridors. Builders who raise Fund‑III with conviction.
 
 This is principal architecture. Not fund management.
 
 CAPITAL FORMATION: THE IMPERATIVE 
 80% of our institutional bandwidth is directed toward kapitalanskaffning for Fund‑III buyouts and add‑ons. Precision positioning. Sectoral clarity. Acquisition speed. This is where compounding occurs.
 
-10% operates in ABL engineering for liquidity resets. 
+10% operates in Asset-Based Lending engineering for liquidity resets. 
 10% in special mandates where barriers create alpha.
 
 We raise with intention. Deploy with clarity. Operate with sovereignty.

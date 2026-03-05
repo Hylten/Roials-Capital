@@ -46,7 +46,7 @@ These processes increase reserve certainty. In private credit, asset hardening a
 
 Capital Vector 4: Asset-Backed Frameworks 
 Migration accelerates when liquidity corridors are engineered up front. Allocators avoid assets dependent on refinancing and favor structures with internal amortization or collateral coverage that self-corrects. 
-ABL lines remain attractive because liquidity rotates off inventory, receivables, or contracted revenue. For operating mandates in Alberta, NAEO applies a similar framework: wells generate predictable cash flow, and each cycle of reinvestment increases productive capacity without expanding balance sheet risk.
+Asset-Based Lending lines remain attractive because liquidity rotates off inventory, receivables, or contracted revenue. For operating mandates in Alberta, NAEO applies a similar framework: wells generate predictable cash flow, and each cycle of reinvestment increases productive capacity without expanding balance sheet risk.
 
 Capital Vector 5: Operational Intelligence 
 Migration stabilizes when allocators gain non-promotional, technical clarity. Institutions do not follow yield. They follow certainty. The entities that command capital inflows are those capable of translating operational mechanics into compliance-friendly frameworks. 
@@ -66,7 +66,7 @@ In private equity and private credit, Roials structures capital stacks that sati
 Institutional migration often requires multi-jurisdictional structuring involving EU MiFID II, North American securities rules, and GCC institutional frameworks. Roials ensures each pathway is compliant, de-risked, and technically aligned with the allocator’s internal compliance architecture.
 
 4. Opportunity Velocity 
-The velocity of high-certainty opportunities is low unless an intermediary continuously audits the landscape. Roials maintains a proprietary pipeline across buyout platforms, ABL structures, and North American energy operators. This operational intelligence reduces discovery costs for allocators.
+The velocity of high-certainty opportunities is low unless an intermediary continuously audits the landscape. Roials maintains a proprietary pipeline across buyout platforms, Asset-Based Lending structures, and North American energy operators. This operational intelligence reduces discovery costs for allocators.
 
 PHASE 4: THE STEWARDSHIP FILTER 
 Stewardship is treated not as philanthropy but as a discipline of non-wasteful resource management. For institutions with multi-generational mandates, capital stewardship aligns with the scriptural principle in Proverbs 13:22, emphasizing longevity, prudence, and structured allocation. 
@@ -85,7 +85,7 @@ The present cycle rewards institutions that operate with clarity, jurisdictional
 Allocators seeking higher visibility into: 
 - North American energy operating precision 
 - Buyout and add-on platform calibration for Fund-III+ 
-- Capital Structuring via ABL and asset-based structures 
+- Capital Structuring via Asset-Based Lending and asset-based structures 
 - Cross-border MiFID II or GCC-aligned mandates 
 will benefit from a confidential portfolio calibration dialogue. 
 

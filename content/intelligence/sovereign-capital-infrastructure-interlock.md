@@ -33,13 +33,13 @@ Sovereign allocators are not looking for margin stories. They are looking for in
 
 Start with LTV curves. States do not optimize for private equity IRR. They optimize for sovereign durability. That means LTV targets between 20 and 43 percent on energy and industrial assets. They want overcollateralization designed into the operational model. Asset hardening is the real product. Value-add is noise unless it improves downside math.
 
-Next are cash-flow waterfalls. A sovereign allocator expects a clean priority sequence. They expect real cash, not synthetic accruals. Fund-III operators must present waterfalls that operate more like ABL structures than traditional buyouts. Paydown velocity signals discipline. Discipline signals trustworthiness. Trustworthiness signals deployability.
+Next are cash-flow waterfalls. A sovereign allocator expects a clean priority sequence. They expect real cash, not synthetic accruals. Fund-III operators must present waterfalls that operate more like Asset-Based Lending structures than traditional buyouts. Paydown velocity signals discipline. Discipline signals trustworthiness. Trustworthiness signals deployability.
 
 Recovery factors drive sovereign confidence. In energy, recovery depends on three mechanics. Reservoir productivity. Midstream access. Counterparty quality. We design acquisition stacks to ensure that even stressed recovery events cover primary capital. The sovereign allocator reads this as stability. Stability has immense yield value.
 
-ABL integration provides liquidity control. ABL is often misunderstood as a secondary liquidity tool. In sovereign capital infrastructure, it is the primary mechanism for enforcing cash discipline. We engineer ABL lines to trigger automated liquidity extraction. When operating companies generate excess receivables, capital must move upward immediately. Sitting cash is dead weight. Dead weight invites governance slippage.
+Asset-Based Lending integration provides liquidity control. Asset-Based Lending is often misunderstood as a secondary liquidity tool. In sovereign capital infrastructure, it is the primary mechanism for enforcing cash discipline. We engineer Asset-Based Lending lines to trigger automated liquidity extraction. When operating companies generate excess receivables, capital must move upward immediately. Sitting cash is dead weight. Dead weight invites governance slippage.
 
-Our ABL methodology uses collateral pools structured around four reliability screens. Asset convertibility. Counterparty stability. Receivable aging patterns. Market volatility factors. If the pool passes, liquidity flows. If it fails, the system clamps. This is how we enforce institutional integrity across multiple operating entities under a Fund-III expansion model.
+Our Asset-Based Lending methodology uses collateral pools structured around four reliability screens. Asset convertibility. Counterparty stability. Receivable aging patterns. Market volatility factors. If the pool passes, liquidity flows. If it fails, the system clamps. This is how we enforce institutional integrity across multiple operating entities under a Fund-III expansion model.
 
 Special mandates operate differently. A NAEOC 50M to 250M energy extraction mandate is treated as a high-intensity deployment framework. You design the mechanics as if the allocator will never tolerate drift. Breach the operational tempo and the mandate collapses. EU MiFID II acquisition mandates operate on precision compliance. The friction tolerance is near zero. Reporting cadence becomes a strategic weapon. The firm that reports cleanest earns the redeployment.
 
@@ -53,7 +53,7 @@ The Fund-III structure is the command vehicle. The architecture supports three p
 
 1. Core buyouts with add-ons. These provide the sovereign allocator with controlled scale. We target assets where operational control and vertical integration create hard-math value. Not marketing value. Not narrative value. Real cash conversion.
 
-2. ABL driven Asset-Backed Frameworks. This is the capital accelerator. It transforms operating entities into disciplined liquidity engines. Sovereign allocators treat this as a national cash-flow utility. It stabilizes broader investment ecosystems.
+2. Asset-Based Lending driven Asset-Backed Frameworks. This is the capital accelerator. It transforms operating entities into disciplined liquidity engines. Sovereign allocators treat this as a national cash-flow utility. It stabilizes broader investment ecosystems.
 
 3. Special mandates as national priority alignments. NAEOC mandates create extraction capacity. MiFID II mandates create regulatory precision assets. These mandates do not behave like portfolios. They behave like national instruments. You do not improvise with national instruments.
 
@@ -61,7 +61,7 @@ The GP structure must be hardened for this. Governance cadence. Deployment playb
 
 We treat add-on acquisitions as sovereign infrastructure reinforcement. Not growth stories. Every add-on either strengthens the strategic position or it is rejected. We impose three filters. Cash accretive within 90 days. Operationally integrable with zero culture friction. Jurisdictionally aligned with sovereign risk parameters. Anything that fails a filter is noise.
 
-Sovereign partnerships demand transparency. We use real time reporting architecture. Operational telemetry across all portfolio entities. Liquidity telemetry on ABL performance. Deployment telemetry on mandate execution. There is no fog. Fog is where trust dies.
+Sovereign partnerships demand transparency. We use real time reporting architecture. Operational telemetry across all portfolio entities. Liquidity telemetry on Asset-Based Lending performance. Deployment telemetry on mandate execution. There is no fog. Fog is where trust dies.
 
 This strategic model scales because it eliminates internal drift. Drift destroys sovereign confidence. Focus earns scale commitments. Scale commitments accelerate everything.
 

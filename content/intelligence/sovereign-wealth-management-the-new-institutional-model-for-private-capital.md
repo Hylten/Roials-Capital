@@ -39,7 +39,7 @@ High net worth portfolios have evolved faster than the Monetization Architecture
 
 Assets that are valuable, verifiable, and productive often sit in illiquid form. 
 
-This includes private credit positions, off market equity, alternative yield instruments, digital assets, and blended ABL structures. 
+This includes private credit positions, off market equity, alternative yield instruments, digital assets, and blended Asset-Based Lending structures. 
 
 Banks do not service these assets at depth. 
 
@@ -157,7 +157,7 @@ It is objective.
 
 It is insulated from narrative driven markets. 
 
-For HNWI and UHNW clients, ABL serves a strategic purpose. 
+For HNWI and UHNW clients, Asset-Based Lending serves a strategic purpose. 
 
 It transforms dormant value into active leverage. 
 
@@ -165,7 +165,7 @@ It converts static assets into capital instruments.
 
 It allows the portfolio to behave like a fund, but without dilution or external governance. 
 
-Roials Capital specializes in ABL structures designed for high complexity portfolios. 
+Roials Capital specializes in Asset-Based Lending structures designed for high complexity portfolios. 
 
 This includes blended collateral, cross asset structures, and multi jurisdictional holdings. 
 
@@ -319,7 +319,7 @@ Roials Capital is not a lender in the classical sense.
 
 We operate as architects of liquidity. 
 
-We integrate private credit, ABL, crypto Strategic Collateralization, and public equity Institutional Liquidity Paths into a unified structural framework. 
+We integrate private credit, Asset-Based Lending, crypto Strategic Collateralization, and public equity Institutional Liquidity Paths into a unified structural framework. 
 
 This structure allows clients to operate above the market. 
 

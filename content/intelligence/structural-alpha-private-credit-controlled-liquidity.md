@@ -21,7 +21,7 @@ The architecture begins with three pillars.
 • Jurisdictional Arbitrage 
 • Institutional Hierarchical Dynamics 
 
-Each pillar reinforces the others. Each creates thickness in return bands. Each holds distinct value across buyouts, add‑ons, ABL stacks, and special mandates spanning NAEOC energy portfolios and EU MiFID II acquisition corridors. Fund‑III uses these pillars not as philosophical references but as operational infrastructure.
+Each pillar reinforces the others. Each creates thickness in return bands. Each holds distinct value across buyouts, add‑ons, Asset-Based Lending stacks, and special mandates spanning NAEOC energy portfolios and EU MiFID II acquisition corridors. Fund‑III uses these pillars not as philosophical references but as operational infrastructure.
 
 Liquidity Boundaries 
 Liquidity is not a property. Liquidity is a permission. It must be earned through structure. This is the central flaw in legacy banking assumptions: liquidity is presumed systemic. But private credit is not systemic. It is personal. Agreed. Contracted. Defined. Enforceable. Liquidity boundaries create probability zones. They constrain entropy. They prevent drift. Drift kills. Boundaries save.
@@ -30,7 +30,7 @@ Machine gun logic. Steel rules. No drift. No bleed. No noise.
 
 When liquidity boundaries are precise, cash‑flow becomes a programmable asset. Covenant systems are not barriers; they are navigation instruments. LTV thresholds are not constraints; they are predictive tools. Step‑ups are not penalties; they are behavioral levers. Locked boxes anchor expectations. Hard triggers force action. Soft triggers pre‑empt risk. Every boundary increases certainty. Every certainty increases velocity. Every increase in velocity hardens the asset.
 
-In buyouts and add‑ons, controlled‑liquidity adds mechanical advantage to equity. In ABL architecture, it becomes leverage on leverage-stack stability, not stack fragility. In energy mandates, where commodity curves distort perception, liquidity boundaries create the only stable point in a rotating system.
+In buyouts and add‑ons, controlled‑liquidity adds mechanical advantage to equity. In Asset-Based Lending architecture, it becomes leverage on leverage-stack stability, not stack fragility. In energy mandates, where commodity curves distort perception, liquidity boundaries create the only stable point in a rotating system.
 
 Jurisdictional Arbitrage 
 Jurisdictions are not geographies. Jurisdictions are systems. Systems carry incentives, constraints, reporting artifacts, regulatory pressures, and capital‑cost deltas. Arbitrage is not avoidance. Arbitrage is alignment. The objective is to locate the path of lowest friction for the highest enforceability.
@@ -73,16 +73,16 @@ Key mechanics:
 
 Each mechanic improves the sponsor‑lender relationship without weakening lender priority. Fund‑III positions itself as the structural spine of the acquisition stack. Sponsor speed increases. Operational runway stabilizes. Exit timing widens. IRRs stiffen.
 
-ABL: Asset-Backed Frameworks Over Collateral Abundance 
-ABL is a mechanical discipline. Not a commodity. Not a rate game. ABL becomes alpha when collateral becomes a living map-constantly updated, constantly verified, constantly repriced. Capital Structuring is the discipline of converting collateral certainty into cash‑flow predictability.
+Asset-Based Lending: Asset-Backed Frameworks Over Collateral Abundance 
+Asset-Based Lending is a mechanical discipline. Not a commodity. Not a rate game. Asset-Based Lending becomes alpha when collateral becomes a living map-constantly updated, constantly verified, constantly repriced. Capital Structuring is the discipline of converting collateral certainty into cash‑flow predictability.
 
-Three imperatives drive ABL excellence:
+Three imperatives drive Asset-Based Lending excellence:
 
 • Over‑monitoring without over‑burdening 
 • Cross‑collateral alignment 
 • Dynamic advance modeling 
 
-ABL works because physics wins. Hard assets behave predictably when data is fresh and oversight is disciplined. The architecture must be strict. The tools must be fast. The enforcement must be immediate. No drift. No slack. No lag.
+Asset-Based Lending works because physics wins. Hard assets behave predictably when data is fresh and oversight is disciplined. The architecture must be strict. The tools must be fast. The enforcement must be immediate. No drift. No slack. No lag.
 
 Special Mandates (NAEOC $50M‑$250M Energy + EU MiFID II) 
 Energy markets reward information asymmetry more than any other sector. Subsurface truth. Title hierarchy. Infrastructure access. Transport constraints. Reserve classification. These details create pricing windows. Windows create acquisition opportunities. Opportunities demand capital certainty.

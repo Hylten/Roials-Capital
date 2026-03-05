@@ -52,7 +52,7 @@ When volatility exceeds the band, liquidity dries up regardless of credit qualit
 2. Cash Flow Waterfalls 
 The institutional waterfall must prioritize senior liquidity creation over distribution acceleration. Many mid market firms invert this order. They pay too quickly and borrow too slowly. The engineering sequence is precise:
 - Level 1: Maintain a liquidity buffer equal to 1.8 times quarterly fixed charges.
-- Level 2: Allocate 12 to 20 percent of free cash flow to ABL-eligible asset hardening.
+- Level 2: Allocate 12 to 20 percent of free cash flow to Asset-Based Lending-eligible asset hardening.
 - Level 3: Route all remaining operational cash into acquisition reserves, not distributions.
 
 This sequencing expands runway by 38 to 62 percent across a five year hold period. Without it, Fund-III is vulnerable to a single refinancing failure.
@@ -76,13 +76,13 @@ Fund-III must be capitalized at velocity, but not at the expense of underwriting
 
 The GP that cannot produce a capital durability score for each LP fails the institutional test. This is where most firms collapse. They assume commitments repeat. Institutional capital does not repeat without structural validation.
 
-2. The 10 percent ABL Monetization Architecture Layer 
-ABL is no longer a niche product. It is the liquidity stabilizer of the entire portfolio. The objective is not leverage. The objective is precision. Asset backed liquidity provides three advantages:
+2. The 10 percent Asset-Based Lending Monetization Architecture Layer 
+Asset-Based Lending is no longer a niche product. It is the liquidity stabilizer of the entire portfolio. The objective is not leverage. The objective is precision. Asset backed liquidity provides three advantages:
 - Predictable borrowing bases.
 - Reduced volatility in cash availability.
 - Increased lender participation in stressed conditions.
 
-ABL is the quiet architecture that keeps Fund-III solvent in year seven. Without it, the GP is building a house with no foundation.
+Asset-Based Lending is the quiet architecture that keeps Fund-III solvent in year seven. Without it, the GP is building a house with no foundation.
 
 3. The 10 percent Special Mandate Corridor 
 Special mandates are not distractions. They are strategic leverage points. Energy assets in the NAEOC corridor deliver high recovery factors. MiFID II acquisition opportunities provide regulatory arbitrage. Both categories strengthen the institutional footprint of the GP.

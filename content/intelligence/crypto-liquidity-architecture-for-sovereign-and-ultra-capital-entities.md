@@ -1,6 +1,6 @@
 ---
 title: "Crypto Liquidity Architecture for Sovereign and Ultra-Capital Entities"
-description: "Institutional-grade crypto liquidity solutions backed by private credit and ABL. Minimum deployment. Structural mechanics for HNWI and UHNW capital."
+description: "Institutional-grade crypto liquidity solutions backed by private credit and Asset-Based Lending. Minimum deployment. Structural mechanics for HNWI and UHNW capital."
 date: "2023-12-07"
 author: "Jonas Hyltén"
 slug: "crypto-liquidity-architecture-for-sovereign-and-ultra-capital-entities"
@@ -128,13 +128,13 @@ This creates a high‑trust framework where digital assets become a gateway to l
 
  
 
-Clients receive liquidity backed by their private credit or ABL positions. The crypto element is simply a function of execution. The stability comes from institutional underwriting logic applied to a digital asset framework.
+Clients receive liquidity backed by their private credit or Asset-Based Lending positions. The crypto element is simply a function of execution. The stability comes from institutional underwriting logic applied to a digital asset framework.
 
 ## Asset‑Based Asset-Backed Frameworks as the Core Stabilizer
 
  
 
-ABL is the anchor of our credit infrastructure. It allows us to convert complex asset holdings into predictable balance sheet optimization power. For sovereign entities, this is critical, because many of their assets sit outside standard banking classification.
+Asset-Based Lending is the anchor of our credit infrastructure. It allows us to convert complex asset holdings into predictable balance sheet optimization power. For sovereign entities, this is critical, because many of their assets sit outside standard banking classification.
 
  
 
@@ -232,7 +232,7 @@ Many of our clients operate across three or more jurisdictions. This creates liq
 
  
 
-Crypto liquidity, when anchored by private credit and ABL, bypasses most of this friction. 
+Crypto liquidity, when anchored by private credit and Asset-Based Lending, bypasses most of this friction. 
 It provides a clean corridor for capital movement. 
 
 Roials‑Capital integrates this corridor with institutional safeguards so that the velocity does not compromise integrity.

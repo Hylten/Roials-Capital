@@ -1,6 +1,6 @@
 ---
 title: "Principal Architecture for Fund-III Kapitalanskaffning"
-description: "Institutional analysis of capital raising systems for Fund-III structures across buyout, ABL, and special mandate regimes. High conviction thesis for allocators seeking durable, repeatable institutional flows."
+description: "Institutional analysis of capital raising systems for Fund-III structures across buyout, Asset-Based Lending, and special mandate regimes. High conviction thesis for allocators seeking durable, repeatable institutional flows."
 date: "2023-01-27"
 author: "Roials-Capital"
 slug: "Fund-III-capital-raising-architecture"
@@ -23,7 +23,7 @@ Three fractures dominate the current environment.
 
 1. The first fracture is allocator abstraction. LPs manage more commitments across more strategies with thinner teams. They require clean signal. They punish noise. Any fund with unstructured data rooms, weak reporting cadence, or informal distribution logs is marked down before the first diligence call. The GP never sees the rejection. The LP simply does not proceed.
 
-2. The second fracture is ABL liquidity blindness. Most mid-market GPs still treat liquidity as a transaction instead of an engineered capability. They lose competitive bids because their credit architecture is reactive. Fund-III allocators now evaluate the GP on its liquidity infrastructure, not just its equity returns. Liquidity defines acquisition endurance. Endurance defines return asymmetry.
+2. The second fracture is Asset-Based Lending liquidity blindness. Most mid-market GPs still treat liquidity as a transaction instead of an engineered capability. They lose competitive bids because their credit architecture is reactive. Fund-III allocators now evaluate the GP on its liquidity infrastructure, not just its equity returns. Liquidity defines acquisition endurance. Endurance defines return asymmetry.
 
 3. The third fracture is absence of a capital raising operating system. Pitch decks are not systems. CIMs are not systems. Fundraising agents are not systems. A system is repeatable, measurable, and autonomous. Fund-III allocators measure the GP through this lens even when they do not verbalise it.
 
@@ -41,7 +41,7 @@ Cash flow waterfalls. Most GPs fail at this point. They present a static waterfa
 
 Recovery factors. Especially relevant for energy and industrial acquisitions. Fund-III allocators model recovery rates with surgical precision because recovery determines downside protection. The GP who uses generalized recovery assumptions appears unprepared. Asset hardening becomes the new default. Equipment, mineral rights, midstream logistics, receivable pledges, and off balance sheet guarantees redefine recovery certainty.
 
-ABL mechanics. For allocators focused on stability, the question is not whether the GP understands ABL. The question is whether the GP can operate ABL as a liquidity engine. Borrowing base recalibration. Advance rate variation. Real time collateral valuation. Covenant compression mapping. These mechanics determine whether the GP can execute add ons without sourcing new equity every quarter. LPs track this silently. If the GP does not articulate Capital Structuring, the allocator assumes the GP does not have it.
+Asset-Based Lending mechanics. For allocators focused on stability, the question is not whether the GP understands Asset-Based Lending. The question is whether the GP can operate Asset-Based Lending as a liquidity engine. Borrowing base recalibration. Advance rate variation. Real time collateral valuation. Covenant compression mapping. These mechanics determine whether the GP can execute add ons without sourcing new equity every quarter. LPs track this silently. If the GP does not articulate Capital Structuring, the allocator assumes the GP does not have it.
 
 Special mandates. NAEOC energy capital in the 50M to 250M band follows a different logic. These allocators want bespoke structuring capability. Not generic private credit. They expect volumetric production curves, PDP hedging integration, and midstream contract risk pricing. EU MiFID II acquisition allocators expect cross border compliance architecture, especially around reporting cadence, documentation chain of custody, and regulatory friction removal. If the GP cannot show cross border operational discipline, no allocation proceeds.
 
@@ -57,7 +57,7 @@ Fund-III requires a capital raising architecture with five non negotiable compon
 
 3. The Data Room Standard. LPs reject clutter. The data room must be clean, hierarchical, version controlled, and burden free. A messy data room is seen as a proxy for a messy fund. Fund-III allocators operate on inference. One sign of disorder produces a global deduction.
 
-4. The Liquidity Rail. The GP must demonstrate mastery of ABL as a strategic enhancer. Buyouts depend on execution speed. Speed depends on liquidity availability. When a GP can present an integrated liquidity rail, the LP sees durability.
+4. The Liquidity Rail. The GP must demonstrate mastery of Asset-Based Lending as a strategic enhancer. Buyouts depend on execution speed. Speed depends on liquidity availability. When a GP can present an integrated liquidity rail, the LP sees durability.
 
 5. The Stewardship Cadence. Institutional allocators allocate not only to financial performance but to operational stewardship. Precision, discipline, and allocation of attention. A GP who demonstrates stewardship attracts patient capital.
 

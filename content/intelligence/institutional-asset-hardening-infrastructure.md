@@ -116,11 +116,11 @@ Buyout. Lockdown. Integrate. Extract friction. Harden asset.
 
 ---
 
-AXIS FOUR: ABL AND Asset-Backed Frameworks (10 PERCENT)
+AXIS FOUR: Asset-Based Lending AND Asset-Backed Frameworks (10 PERCENT)
 
 Liquidity is optional until it becomes existential. Asset-backed lending provides oxygen. Not dependency. Oxygen.
 
-ABL architecture must be pre-engineered before drawdown events. Not during liquidity stress. We design:
+Asset-Based Lending architecture must be pre-engineered before drawdown events. Not during liquidity stress. We design:
 • Borrowing bases insulated from commodity volatility. 
 • Collateral pools that behave predictably under audit. 
 • Waterfall mechanics aligned with private credit partners. 
@@ -168,7 +168,7 @@ Hardening comprises five elements:
  Bulletproof contracts. Dispute insulation. Jurisdictional flight plans. Covenant buffers. Lender alignment.
 
 5. Liquidity Hardening 
- Revolvers. Standby lines. Mezz tranches. ABL shells. Private credit bridges. Optionality is power.
+ Revolvers. Standby lines. Mezz tranches. Asset-Based Lending shells. Private credit bridges. Optionality is power.
 
 Hardening makes the asset sovereign. A sovereign asset outperforms in all markets.
 

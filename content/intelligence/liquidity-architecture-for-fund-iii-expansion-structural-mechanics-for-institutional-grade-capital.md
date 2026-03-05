@@ -82,7 +82,7 @@ Collateral is viewed as geometry.
 The geometry of the asset dictates the geometry of the liquidity facility. 
 Liquidity is shaped around the collateral, not the other way around. 
 
-Our ABL framework supports: 
+Our Asset-Based Lending framework supports: 
 • Financial assets. 
 • Yield producing instruments. 
 • Select alternative collateral structures. 
@@ -185,7 +185,7 @@ Risk engineering in Fund-III operates with three pillars.
 These principles allow the fund to absorb liquidity shocks without constriction. 
 The participant experiences stability even when the underlying market does not. 
 
-This is the institutional standard expected at the upper tier of private credit and ABL. 
+This is the institutional standard expected at the upper tier of private credit and Asset-Based Lending. 
 
 ## Designing Velocity Without Compromise
 
@@ -221,7 +221,7 @@ Participants can move knowing the architecture anticipates what the market does 
 Expansion does not occur by increasing risk. 
 Expansion occurs by increasing precision. 
 
-Fund-III’s expansion is built on the cumulative effect of disciplined Institutional Liquidity Paths across private credit, ABL, crypto Asset-Backed Frameworks, and public share Institutional Liquidity Paths. 
+Fund-III’s expansion is built on the cumulative effect of disciplined Institutional Liquidity Paths across private credit, Asset-Based Lending, crypto Asset-Backed Frameworks, and public share Institutional Liquidity Paths. 
 
 Each vertical strengthens the fund. 
 Each reinforces the liquidity framework. 

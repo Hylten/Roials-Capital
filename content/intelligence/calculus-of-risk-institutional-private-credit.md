@@ -169,11 +169,11 @@ LPs want exposure to real assets. LPs want controlled downside. LPs want predict
 
 ---
 
-ABL and Monetization Architecture as Defensive Architecture
+Asset-Based Lending and Monetization Architecture as Defensive Architecture
 
-ABL is the immune system of the portfolio. Monetization Architecture functions as a shock-absorption layer. It stabilizes operating companies. It protects the credit structure. It creates covenant resilience.
+Asset-Based Lending is the immune system of the portfolio. Monetization Architecture functions as a shock-absorption layer. It stabilizes operating companies. It protects the credit structure. It creates covenant resilience.
 
-ABL as Capital Structuring is no longer a working capital tool. It is a capital velocity instrument. It converts static inventory into dynamic liquidity. It creates motion. Motion increases survivability.
+Asset-Based Lending as Capital Structuring is no longer a working capital tool. It is a capital velocity instrument. It converts static inventory into dynamic liquidity. It creates motion. Motion increases survivability.
 
 Machine gun lines:
 
@@ -181,7 +181,7 @@ Liquidity protects yield.
 Yield protects governance. 
 Governance protects seniority. 
 
-ABL must be embedded inside Fund-III acquisitions, not appended. Embedded liquidity multiplies predictability. Predictability multiplies commitments. Commitments scale the fund.
+Asset-Based Lending must be embedded inside Fund-III acquisitions, not appended. Embedded liquidity multiplies predictability. Predictability multiplies commitments. Commitments scale the fund.
 
 ---
 

@@ -122,7 +122,7 @@ Assets with stable fundamentals become liquidity surfaces.
 
 Assets with volatility become liquidity liabilities.
 
-Sovereign-grade ABL requires a structural lens.
+Sovereign-grade Asset-Based Lending requires a structural lens.
 
 We examine:
 
@@ -131,13 +131,13 @@ We examine:
 • Liquidity under forced conditions 
 • Operational transparency 
 
-ABL is not a transactional instrument. 
+Asset-Based Lending is not a transactional instrument. 
 
 It is an architectural design element.
 
 When aligned correctly it enables controlled leverage, strategic acquisitions, and silent liquidity expansion.
 
-HNWI and UHNW allocators increasingly lean on ABL frameworks to maintain velocity while guarding principal integrity.
+HNWI and UHNW allocators increasingly lean on Asset-Based Lending frameworks to maintain velocity while guarding principal integrity.
 
 ## Crypto Asset-Backed Frameworks at Sovereign Scale
 

@@ -36,7 +36,7 @@ This demands asset hardening across three verticals:
 
 • Operating assets with stable EBITDA friction. 
 • Midstream and logistics assets with volumetric safety. 
-• Real-asset adjacencies capable of underwriting ABL packages.
+• Real-asset adjacencies capable of underwriting Asset-Based Lending packages.
 
 These assets generate one output: predictable liquidity arcs. Not yield for its own sake. Liquidity arcs that a GP can weaponize for buyout tempo.
 
@@ -81,25 +81,25 @@ Institutional LPs do not chase returns. They chase certainty mechanisms. They ch
 
 ---
 
-Strategic Collateralization (10% FOCUS): THE ABL INFRASTRUCTURE
+Strategic Collateralization (10% FOCUS): THE Asset-Based Lending INFRASTRUCTURE
 
-ABL exists to compress time. 
-ABL exists to weaponize collateral. 
-ABL exists to convert illiquid assets into acquisition speed.
+Asset-Based Lending exists to compress time. 
+Asset-Based Lending exists to weaponize collateral. 
+Asset-Based Lending exists to convert illiquid assets into acquisition speed.
 
-Fund‑III requires a multi‑tiered ABL spine:
+Fund‑III requires a multi‑tiered Asset-Based Lending spine:
 
-Tier 1 - Real Asset ABL 
+Tier 1 - Real Asset Asset-Based Lending 
 Hard collateral. High‑visibility value curves. Energy assets. Midstream. Production equipment. Storage capacity. All convertible. All stable. All bankable across Basel III jurisdictions.
 
-Tier 2 - Contract‑Backed ABL 
+Tier 2 - Contract‑Backed Asset-Based Lending 
 Offtake agreements. Volume commitments. Service contracts. Pricing floors. These instruments function as synthetic collateral. They create cash‑flow certainty. They reduce lender hesitation. They deepen leverage options.
 
-Tier 3 - Portfolio‑Backed ABL 
+Tier 3 - Portfolio‑Backed Asset-Based Lending 
 Cross‑asset collateralization. Cash‑yield sweeps. Covenant‑light leverage. This tier must be engineered to support acceleration events-rapid buyouts, rollups, and bolt‑ons.
 
-ABL must not become a liquidity crutch. 
-ABL must function as a mobility amplifier. 
+Asset-Based Lending must not become a liquidity crutch. 
+Asset-Based Lending must function as a mobility amplifier. 
 Speed is the value. 
 Control is the objective.
 

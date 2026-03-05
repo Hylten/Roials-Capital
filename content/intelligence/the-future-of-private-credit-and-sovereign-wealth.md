@@ -73,7 +73,7 @@ Roials-Capital aligns with these outcomes by Capital Structuring against private
 
 Asset-Based Institutional Liquidity Paths is becoming the dominant method for the wealthy to unlock liquidity without creating tax events or compromising portfolio construction. 
 
-ABL is not merely a financing tactic. 
+Asset-Based Lending is not merely a financing tactic. 
 It is structural defense. 
 
 It preserves the integrity of long-term positions while enabling short‑term liquidity choreography. 
@@ -122,7 +122,7 @@ HNWI and UHNW individuals are no longer satisfied with liquidity that arrives sl
 They require sovereign-grade access. 
 
 Private credit enables that. 
-ABL structures enable that. 
+Asset-Based Lending structures enable that. 
 
 Roials-Capital enforces a simple structural discipline: 
 
@@ -157,7 +157,7 @@ Now it is a strategic instrument.
 Roials-Capital’s framework treats collateral as an operational toolset. 
 
 We lend against private credit. 
-We lend against ABL‑ready structures. 
+We lend against Asset-Based Lending‑ready structures. 
 
 We also support specialized Strategic Collateralization tiers: 
 
@@ -210,7 +210,7 @@ Systems that preserve liquidity.
 Systems that reduce correlation. 
 Systems that maintain strategic optionality. 
 
-Private credit and ABL will be the critical tools in this evolution. 
+Private credit and Asset-Based Lending will be the critical tools in this evolution. 
 
 Sovereign wealth methodologies will serve as the blueprint. 
 

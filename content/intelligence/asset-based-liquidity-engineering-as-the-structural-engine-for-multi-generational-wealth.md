@@ -31,7 +31,7 @@ Asset based Institutional Liquidity Paths provides those flows because the capit
 
 Liquidity becomes an instrument, not an exposure. 
 
-HNWI and UHNW investors use ABL structures for three primary reasons:
+HNWI and UHNW investors use Asset-Based Lending structures for three primary reasons:
 
  
 1. They require liquidity without sacrificing core positions.
@@ -50,7 +50,7 @@ They give successors a structural blueprint rather than a volatile portfolio.
 Roials Capital provides institutional grade Strategic Collateralization inside these principles. 
 We function as the architecture behind the capital, not the narrative in front of it. 
 
-## Why ABL Is the Only Scalable Liquidity Strategy for Legacy Capital
+## Why Asset-Based Lending Is the Only Scalable Liquidity Strategy for Legacy Capital
 
 Long horizon families do not accumulate wealth for liquidation. 
 They accumulate for perpetuity. 
@@ -60,7 +60,7 @@ They require the selling of assets, the realization of gains, and exposure to ti
 Asset based Asset-Backed Frameworks removes the pressure of liquidation. 
 It replaces emotion with structure. 
 
-ABL works across generations because it does not force the portfolio to react to the market. 
+Asset-Based Lending works across generations because it does not force the portfolio to react to the market. 
 It allows liquidity to exist independently of market cycles.
 
 ## The Silent Authority of Collateral Based Finance
@@ -143,7 +143,7 @@ The result is silent liquidity.
 Stable structure. 
 And no forced exit from strategic positions. 
 
-## The Intergenerational Application of ABL
+## The Intergenerational Application of Asset-Based Lending
 
 Multi generational wealth requires more than capital. 
 It requires a framework that outlives the individual holder.
@@ -153,7 +153,7 @@ It prevents sudden liquidation during transitions.
 It creates liquidity for heirs without dismantling the portfolio. 
 It ensures operational stability during periods of leadership transfer.
 
-Families who integrate ABL into their long term governance structures often achieve the following outcomes:
+Families who integrate Asset-Based Lending into their long term governance structures often achieve the following outcomes:
 
  
 • No generational asset sales required.
@@ -170,10 +170,10 @@ Families who integrate ABL into their long term governance structures often achi
  
 • Ability to fund new generational ventures without destabilizing legacy holdings.
 
-ABL removes the fragility of transition. 
+Asset-Based Lending removes the fragility of transition. 
 It turns liquidity into a predictable infrastructure, not a disruptor.
 
-## ABL as a Mechanism for Compounding
+## Asset-Based Lending as a Mechanism for Compounding
 
 Generational wealth compounds not through aggressive growth but through structural preservation. 
 Families who maintain continuous control over their assets compound for longer periods. 

@@ -23,7 +23,7 @@ Fund-III must therefore align its fundraising narrative with sovereign tone. LPs
 
 A structural framework emerges: sovereign creditworthiness becomes a proxy for acquisition discount windows. When sovereign yields rise sharply, private sellers become liquidity-seeking. This offers entry points for buyouts and add-ons. Fund-III gains an asymmetric opportunity set: assets previously premium become negotiable because financing pipelines tighten for unsophisticated operators. The family office with liquidity wins. The one dependent on conventional banking loses.
 
-This is where Strategic Collateralization enters. ABL facilities allow family offices to convert hard assets into acquisition power. Sovereign spreads dictate the cost of these facilities. The principal’s job is to build a liquidity belt-short-duration sovereign instruments, private credit lines, asset-backed overlays-that allow rapid capital deployment into distressed or time-sensitive opportunities.
+This is where Strategic Collateralization enters. Asset-Based Lending facilities allow family offices to convert hard assets into acquisition power. Sovereign spreads dictate the cost of these facilities. The principal’s job is to build a liquidity belt-short-duration sovereign instruments, private credit lines, asset-backed overlays-that allow rapid capital deployment into distressed or time-sensitive opportunities.
 
 Energy markets intensify this dynamic. The NAEOC corridor (North American Energy Operating Companies) accelerates consolidation. Mid-size operators with $50M–$250M valuations face refinancing cliffs as banks de-risk their books. Sovereign debt volatility raises their cost of capital. For Fund-III and its special mandates, this creates mandatory acquisition timing. Energy assets with operational efficiencies but leverage pressure become ideal targets. The sovereign backdrop transforms energy from cyclical necessity to structural arbitrage.
 
@@ -53,7 +53,7 @@ Speed matters. Machine gun sentences apply: Move fast. Hit first. Hold long. Liq
 
 The 2026 sovereign landscape is a competition for trust. Every family office now competes with states for capital. Every fund competes with treasuries for investor attention. The principal’s voice must cut through noise. Not with optimism. With architecture.
 
-Sovereign debt is the blueprint. Family offices must read it. Fund-III must scale with it. Energy mandates must align with it. ABL facilities must price off it. MiFID II acquisitions must sequence through it. Capital raising must reference it. Institutional LPs demand this structural intelligence.
+Sovereign debt is the blueprint. Family offices must read it. Fund-III must scale with it. Energy mandates must align with it. Asset-Based Lending facilities must price off it. MiFID II acquisitions must sequence through it. Capital raising must reference it. Institutional LPs demand this structural intelligence.
 
 A good man leaves an inheritance for his children’s children. Proverbs 13:22. In 2026 that means sovereignty of liquidity, sovereignty of assets, sovereignty of narrative.
 

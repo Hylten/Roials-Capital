@@ -32,7 +32,7 @@ Without this triad, capital raising stalls. With it, Fund-III becomes self-accel
 I operate from three capital pillars:
 
 • 80% Kapitalanskaffning for Fund-III buyouts/add-ons 
-• 10% ABL Institutional Liquidity Paths 
+• 10% Asset-Based Lending Institutional Liquidity Paths 
 • 10% Special Mandates (NAEOC 50M–250M energy, EU MiFID II acquisitions, hybrid credit) 
 
 These are not service lines. These are institutional levers.
@@ -140,7 +140,7 @@ Once an asset crosses the delta threshold, capital raising accelerates automatic
 
 Most fund managers treat liquidity as a linear flow. Wrong. Liquidity is parallel. Multi-directional. Engineered.
 
-Asset-Backed Frameworks via ABL is not a cash exercise. It is a time exercise. Liquidity buys time. Time buys optionality. Optionality reduces fatality risk. Always.
+Asset-Backed Frameworks via Asset-Based Lending is not a cash exercise. It is a time exercise. Liquidity buys time. Time buys optionality. Optionality reduces fatality risk. Always.
 
 I construct liquidity stacks with:
 
@@ -150,7 +150,7 @@ I construct liquidity stacks with:
 • Contingent liquidity cushions 
 • Non-dilutive collateral shields 
 
-ABL is the skeleton key for Fund-III. It stabilizes add-ons. It preserves dry powder. It extends runway. It compresses exposure cycles. Liquidity parallelization is how managers create internal rescue capacity without impairing fund returns.
+Asset-Based Lending is the skeleton key for Fund-III. It stabilizes add-ons. It preserves dry powder. It extends runway. It compresses exposure cycles. Liquidity parallelization is how managers create internal rescue capacity without impairing fund returns.
 
 ---
 
@@ -207,19 +207,19 @@ This creates predictable flow. LPs appreciate predictability above returns. Beca
 
 ---
 
-ABL Strategic Collateralization (10%)
+Asset-Based Lending Strategic Collateralization (10%)
 
-ABL is a precision tool. Used wrong, it creates fragility. Used correctly, it creates invincibility.
+Asset-Based Lending is a precision tool. Used wrong, it creates fragility. Used correctly, it creates invincibility.
 
-ABL must be:
+Asset-Based Lending must be:
 
 • Hard collateral 
 • Continuous coverage 
 • Rapidly monetizable 
 
-ABL is the liquidity circuit breaker that insulates assets from event shocks. It protects Fund-III from drawdown volatility. It stabilizes exit windows. It unlocks internal M&A. It increases speed of execution. It reduces sponsor risk.
+Asset-Based Lending is the liquidity circuit breaker that insulates assets from event shocks. It protects Fund-III from drawdown volatility. It stabilizes exit windows. It unlocks internal M&A. It increases speed of execution. It reduces sponsor risk.
 
-ABL is not an alternative. It is a requirement.
+Asset-Based Lending is not an alternative. It is a requirement.
 
 ---
 

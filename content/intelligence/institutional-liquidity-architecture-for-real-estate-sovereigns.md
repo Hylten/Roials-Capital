@@ -115,7 +115,7 @@ The emerging standard is not singular.
 It is layered. 
 
 Private credit forms the foundation. 
-ABL creates the movement layer. 
+Asset-Based Lending creates the movement layer. 
 Crypto and public equities form the auxiliary liquidity belt. 
 
 This is the future of institutional capital mobility. 

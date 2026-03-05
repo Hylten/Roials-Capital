@@ -61,7 +61,7 @@ Recovery is not an event. It is a precondition.
 4. LIQUIDITY BUCKETS 
 A sovereign balance sheet operates with layered liquidity. At Fund-III scale, these should be: 
 - Short-cycle liquidity: receivables, inventory with verified liquidation paths 
-- Mid-cycle liquidity: ABL-ready equipment and long-life operating assets 
+- Mid-cycle liquidity: Asset-Based Lending-ready equipment and long-life operating assets 
 - Long-cycle liquidity: energy reserves, mineral rights, durable infrastructure 
 
 This blend produces institutional trust. Institutional trust produces commitments.
@@ -84,7 +84,7 @@ Institutional partners do not invest in narrative. They invest in architecture. 
 The GP must speak with the authority of a sovereign treasurer managing national assets.
 
 2. THE Monetization Architecture MODEL 
-ABL is no longer a niche tool. It is a liquidity amplifier. At 10 percent of strategic focus, Monetization Architecture will create disproportionate resilience. The very existence of an ABL track record signals sovereign discipline. It proves the GP understands capital conversion cycles, not merely EBITDA manipulation.
+Asset-Based Lending is no longer a niche tool. It is a liquidity amplifier. At 10 percent of strategic focus, Monetization Architecture will create disproportionate resilience. The very existence of an Asset-Based Lending track record signals sovereign discipline. It proves the GP understands capital conversion cycles, not merely EBITDA manipulation.
 
 3. THE SPECIAL MANDATE MODEL 
 Special mandates are the sovereign lever. The 50M to 250M NAEOC energy mandates and MiFID II acquisition mandates grant the GP access to state-aligned capital. When a fund can execute national interest projects, its cost of capital falls. Permanently.

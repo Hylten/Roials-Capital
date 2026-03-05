@@ -11,7 +11,7 @@ keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineerin
 
 Structural arbitrage is no longer found in sector specialization. It is found in collateral mobility. The jurisdiction-free balance sheet now moves faster than regulatory consensus, and that velocity has fractured the old M&A regime. The firms that understand this gap will absorb market share. The firms that hesitate will become liquidity dependent. Order is not an option.
 
-The institutional market has not internalized the magnitude of this shift. Traditional credit underwriting still treats collateral as jurisdiction anchored. Yet UHNW holders of digital assets hold balance sheets that do not behave like real estate, operating companies, or hard commodities. They behave like sovereign wealth on chain. That single fact dislocates every assumption Private Credit has relied on for twenty years. We are now in the first cycle where borderless collateral outruns the ABL system built for static assets. The winners treat this as a structural inversion. The laggards call it noise.
+The institutional market has not internalized the magnitude of this shift. Traditional credit underwriting still treats collateral as jurisdiction anchored. Yet UHNW holders of digital assets hold balance sheets that do not behave like real estate, operating companies, or hard commodities. They behave like sovereign wealth on chain. That single fact dislocates every assumption Private Credit has relied on for twenty years. We are now in the first cycle where borderless collateral outruns the Asset-Based Lending system built for static assets. The winners treat this as a structural inversion. The laggards call it noise.
 
 PHASE 1: THE REGIME SHIFT
 
@@ -50,7 +50,7 @@ Recovery modeling shifts from asset seizure to immediate conversion mechanisms. 
 - Less than 30 seconds average execution in forced unwind scenarios.
 - No jurisdictional drag.
 
-This creates an underwriting environment that outperforms both private credit and commercial ABL structures under stress.
+This creates an underwriting environment that outperforms both private credit and commercial Asset-Based Lending structures under stress.
 
 The technical truth is simple. Digital asset collateral is not speculative. It is liquid sovereign money with perfect traceability. Private Credit has never had a collateral substrate this efficient.
 
@@ -63,7 +63,7 @@ The model contains three components.
 1. Capital formation architecture. 
 We raise capital across three channels:
 - 80 percent targeted to Fund-III commitments for buyouts and add-ons. 
-- 10 percent allocated to ABL structures for Monetization Architecture. 
+- 10 percent allocated to Asset-Based Lending structures for Monetization Architecture. 
 - 10 percent directed into special mandates including NAEOC energy mandates at 50M to 250M ticket sizing and EU MiFID II acquisition programs.
 
 Every mandate is structured to minimize friction. Capital does not move slowly. Humans move slowly. We remove the human element.

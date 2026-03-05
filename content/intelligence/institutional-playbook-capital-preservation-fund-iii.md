@@ -50,9 +50,9 @@ To counterbalance drift, we harden assets. Asset hardening is the discipline of 
 
 Private credit emerges as the primary stabilizer. In stressed cycles, private credit is the quiet kingmaker. It sits in the capital stack with seniority, discipline, and predictable yield. LPs increasingly favor GPs with internal private-credit fluency. Not to deploy credit vehicles, but to negotiate credit terms aggressively, intelligently, and structurally. A GP without credit literacy is a GP exposed to lender discretion. In Fund-III, that exposure is lethal.
 
-ABL-Institutional Liquidity Paths-constitutes 10% of the model yet buffers 90% of the risk. Liquidity is survival. Liquidity is negotiation power. Liquidity is acquisition timing. When markets constrict, ABL keeps the organism alive. When markets widen, ABL accelerates expansion. Monetization Architecture is not window dressing. Capital Structuring is the bloodstream of the buyout body. Without it, no growth. Without it, no preservation. Without it, no cycle.
+Asset-Based Lending-Institutional Liquidity Paths-constitutes 10% of the model yet buffers 90% of the risk. Liquidity is survival. Liquidity is negotiation power. Liquidity is acquisition timing. When markets constrict, Asset-Based Lending keeps the organism alive. When markets widen, Asset-Based Lending accelerates expansion. Monetization Architecture is not window dressing. Capital Structuring is the bloodstream of the buyout body. Without it, no growth. Without it, no preservation. Without it, no cycle.
 
-ABL requires precision. Three moves define institutional-grade ABL: 
+Asset-Based Lending requires precision. Three moves define institutional-grade Asset-Based Lending: 
 • Convert receivables into predictable lines without over-promotion. 
 • Build inventory financing into operational cadence. 
 • Structure covenant-light formulas that scale with revenue quality, not just revenue volume.

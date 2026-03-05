@@ -29,7 +29,7 @@ Core assumptions for Fund‑III:
 • Asset sellers panic. 
 • Buyers with hardened structures extract 25–40 percent valuation arbitrage. 
 • Cross-border energy assets shift into distressed territory with 12–18 month lag. 
-• Private credit funds struggle to refinance without ABL overlays. 
+• Private credit funds struggle to refinance without Asset-Based Lending overlays. 
 • LPs demand proof of durability before committing to new vintages.
 
 These assumptions are not forecasts. They are operational constants. Fund‑III must structure accordingly.
@@ -73,7 +73,7 @@ Fund‑III must enter this cycle with a multi‑vector volatility map. Three dom
 Each carries different hardening protocols.
 
 Currency Volatility:
-We harden through synthetic neutrality. Keep operational exposure in domestic currency. Shift balance-sheet exposure into USD or mixed baskets. Combine with multi‑jurisdictional banking rails. Use ABL to neutralize liquidity swings. Create pre-approved draw corridors for acquisition timing. Always pre-wire.
+We harden through synthetic neutrality. Keep operational exposure in domestic currency. Shift balance-sheet exposure into USD or mixed baskets. Combine with multi‑jurisdictional banking rails. Use Asset-Based Lending to neutralize liquidity swings. Create pre-approved draw corridors for acquisition timing. Always pre-wire.
 
 Regulatory Volatility:
 Use Luxembourg spine structures, GCC enforcement nodes, and Nordic governance veneers. Create regulatory triangulation. Three regulators. No single point of failure.
@@ -95,7 +95,7 @@ The capital raise depends on five commitments:
 
 Commitment One: hardened cross‑border buyout pipeline. 
 Commitment Two: sovereign‑grade liquidity structuring. 
-Commitment Three: predictable ABL access. 
+Commitment Three: predictable Asset-Based Lending access. 
 Commitment Four: special mandate compatibility. 
 Commitment Five: control mechanisms that eliminate downside leakage.
 
@@ -114,23 +114,23 @@ Kapitalanskaffning requires clarity:
 
 LPs interrogate optionality. GPs must respond with architecture, not narrative.
 
-Fund‑III must be positioned as a hard asset, cross‑border, enforcement‑dominant buyout vehicle with tactical ABL overlays.
+Fund‑III must be positioned as a hard asset, cross‑border, enforcement‑dominant buyout vehicle with tactical Asset-Based Lending overlays.
 
 This combination is rare. LPs reward rarity when it is engineered, not described.
 
 ---
 
-ABL and Capital Structuring (10 percent functional)
+Asset-Based Lending and Capital Structuring (10 percent functional)
 
-ABL is not liquidity. ABL is predictability. It is a timing weapon. A precision tool. ABL solves the temporal problem: acquisition windows are short, capital calls are slow. ABL fills the gap.
+Asset-Based Lending is not liquidity. Asset-Based Lending is predictability. It is a timing weapon. A precision tool. Asset-Based Lending solves the temporal problem: acquisition windows are short, capital calls are slow. Asset-Based Lending fills the gap.
 
 Use it to bridge. Use it to accelerate. Use it to harden. Use it to win speed wars.
 
 Hard rule: acquisitions die when timing dies.
 
-ABL maintains timing discipline. ABL unlocks execution velocity. Small portion of Fund‑III strategy, but critical for credibility. Asset-Backed Frameworks must include:
+Asset-Based Lending maintains timing discipline. Asset-Based Lending unlocks execution velocity. Small portion of Fund‑III strategy, but critical for credibility. Asset-Backed Frameworks must include:
 
-• Multi‑bank ABL corridors 
+• Multi‑bank Asset-Based Lending corridors 
 • Offshore and onshore lines 
 • Energy‑specific valuation tiers 
 • Enforcement priority mapping 
@@ -229,7 +229,7 @@ Kapitalanskaffning is gravitational. Strength creates pull. Weakness creates dis
 
 Energy Asset Hardening (NAEOC corridor)
 
-Energy assets require heavier enforcement. Heavier ABL. Heavier structuring. Why? Because energy volatility is not market-driven. It is political. Hardening neutralizes political force.
+Energy assets require heavier enforcement. Heavier Asset-Based Lending. Heavier structuring. Why? Because energy volatility is not market-driven. It is political. Hardening neutralizes political force.
 
 Protocol:
 
@@ -270,7 +270,7 @@ Use:
 • Senior-secured tools 
 • Covenant repair pathways 
 • Cross-border collateral capture 
-• Refinancing ABL corridors 
+• Refinancing Asset-Based Lending corridors 
 • Jurisdictional repositioning 
 
 Convert fragile debt into durable equity.

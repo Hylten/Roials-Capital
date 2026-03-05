@@ -68,7 +68,7 @@ Roials Capital functions as a strategic navigator and institutional introducer. 
 
 1. Kapitalanskaffning for Fund-III and forward strategies. The primary focus is assisting scale ready buyout managers in securing long horizon institutional capital. This includes the construction of fund level narratives, structural calibration, and alignment with LP governance criteria.
 
-2. Strategic Collateralization engagements. Roials Capital facilitates introductions between operators and institutional credit providers for senior ABL structures, working capital facilities, and liquidity optimization mandates.
+2. Strategic Collateralization engagements. Roials Capital facilitates introductions between operators and institutional credit providers for senior Asset-Based Lending structures, working capital facilities, and liquidity optimization mandates.
 
 3. Energy and MiFID II Special Mandates. This includes access to NAEO for North American Energy Operations and coordination of acquisition pathways under EU MiFID II frameworks.
 
@@ -98,7 +98,7 @@ The asset or operator must demonstrate the capacity to integrate with institutio
 The balance sheet must be calibrated such that senior obligations are protected, equity flexibility is maintained, and operational expansion is not constrained. Hardening requires a balance between protection and mobility.
 
 3. Asset Class Predictability
-Whether evaluating buyouts, ABL structures, or Alberta heavy oil, the common denominator is predictability. The allocator must be able to project cash flow trajectories, risk envelopes, and long term operational requirements.
+Whether evaluating buyouts, Asset-Based Lending structures, or Alberta heavy oil, the common denominator is predictability. The allocator must be able to project cash flow trajectories, risk envelopes, and long term operational requirements.
 
 Roials Capital provides confidential Strategy Audits and Portfolio Calibration engagements designed to map allocators into the structural landscape of Asset Hardening. The objective is to provide clarity on the operational regime and introduce the correct institutional partners where alignment exists.
 

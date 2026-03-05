@@ -4,7 +4,7 @@ description: "Structural Alignment In Multi Jurisdictional Asset"
 date: "2025-07-24"
 author: "Jonas Hyltén"
 slug: "structural-alignment-in-multi-jurisdictional-asset"
-keywords: "private credit, ABL, liquidity"
+keywords: "private credit, Asset-Based Lending, liquidity"
 ---
 
 # Structural Alignment in Multi Jurisdictional Asset Hardening

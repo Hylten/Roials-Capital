@@ -20,7 +20,7 @@ Traditional M&A structures have always relied on predictable collateral, predict
 Crypto collateral, when architected correctly, is none of those things on the surface. 
 Which makes it one of the most powerful mobility instruments in modern wealth design.
 
-Roials-Capital operates within the zone where private credit mechanics, ABL logic, and crypto collateral interact without friction. 
+Roials-Capital operates within the zone where private credit mechanics, Asset-Based Lending logic, and crypto collateral interact without friction. 
 
 This article defines that zone, frames the architecture, and establishes the rules for how borderless collateral transitions into traditional M&A firepower.
 
@@ -50,7 +50,7 @@ Our approach is concise:
 
 1. Validate digital or public share collateral. 
 2. Anchor valuation in institutional parameters. 
-3. Structure liquidity through private credit or ABL. 
+3. Structure liquidity through private credit or Asset-Based Lending. 
 4. Deliver capital for M&A execution. 
 5. Maintain structural integrity from acquisition to exit. 
 
@@ -72,7 +72,7 @@ It is borderless.
 It is liquid. 
 It is immediate. 
 
-Private credit and ABL are the structured channels that translate this mobility into traditional M&A capability. 
+Private credit and Asset-Based Lending are the structured channels that translate this mobility into traditional M&A capability. 
 
 Roials-Capital stands at this intersection. 
 Quietly. 

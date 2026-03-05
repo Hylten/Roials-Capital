@@ -61,7 +61,7 @@ Bitcoin, when paired with sophisticated asset based Asset-Backed Frameworks mech
 
 • Continuous market depth, which supports institutional scale collateralisation. 
 
-• Transparent valuation, which significantly reduces the interpretive risk common in traditional ABL. 
+• Transparent valuation, which significantly reduces the interpretive risk common in traditional Asset-Based Lending. 
 
 • Mobility, which allows rapid settlement without operational friction. 
 
@@ -97,7 +97,7 @@ It signals seriousness.
 
 Minimum threshold: 5,000,000 USD.
 
-Positions of this size create predictable velocity within an ABL structure.
+Positions of this size create predictable velocity within an Asset-Based Lending structure.
 
 It allows us to maintain the silent authority that stable private credit demands.
 
@@ -257,7 +257,7 @@ This pairing is quickly becoming the preferred model for forward thinking famili
 
 ## Asset Based Institutional Liquidity Paths: Precision Over Assumption
 
-Traditional ABL is hamstrung by valuation ambiguities.
+Traditional Asset-Based Lending is hamstrung by valuation ambiguities.
 
 Inventory. Machinery. Real estate. Each requires layers of interpretation before credit can be extended.
 
@@ -267,7 +267,7 @@ Its value is known.
 
 Its movement is immediate.
 
-This turns the ABL process from an exercise in negotiation into an exercise in engineering.
+This turns the Asset-Based Lending process from an exercise in negotiation into an exercise in engineering.
 
 Roials-Capital applies this engineering mindset across every stage, from collateral onboarding to settlement sequencing.
 
@@ -303,7 +303,7 @@ We do not chase narratives.
 
 We construct capital frameworks that allow HNWI and UHNW families to operate with quiet confidence.
 
-Bitcoin, when integrated into private credit and ABL, provides a foundation of liquidity that is insulated from the fragilities of traditional systems.
+Bitcoin, when integrated into private credit and Asset-Based Lending, provides a foundation of liquidity that is insulated from the fragilities of traditional systems.
 
 We set the terms.
 

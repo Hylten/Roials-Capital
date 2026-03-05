@@ -1,6 +1,6 @@
 ---
 title: "The Strategic Value of Asset Based Financing for Modern Private Wealth"
-description: "A surgical analysis of asset based liquidity engineering and Capital Structuring for HNWI and UHNW portfolios, with emphasis on private credit structures and institutional ABL mechanics."
+description: "A surgical analysis of asset based liquidity engineering and Capital Structuring for HNWI and UHNW portfolios, with emphasis on private credit structures and institutional Asset-Based Lending mechanics."
 date: "2025-02-01"
 author: "Jonas Hyltén"
 slug: "the-strategic-value-of-asset-based-financing-for-modern-private-wealth"

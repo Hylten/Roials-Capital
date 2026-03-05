@@ -27,7 +27,7 @@ Kapitalanskaffning for Fund‑III is therefore a structural process. Not marketi
 
 For Fund‑III buyouts and add‑ons, the hardened structure must integrate three time horizons:
 
-Short horizon: Capital Structuring. Availability, not speculation. Rotating availability via ABL, private credit, receivables optimization, and covenant‑engineered borrowing bases. Fund‑III platforms require liquidity that moves faster than market cycles. Capital Structuring is the circulatory system of hardened capital.
+Short horizon: Capital Structuring. Availability, not speculation. Rotating availability via Asset-Based Lending, private credit, receivables optimization, and covenant‑engineered borrowing bases. Fund‑III platforms require liquidity that moves faster than market cycles. Capital Structuring is the circulatory system of hardened capital.
 
 Medium horizon: Asset hardening. Convert operational volatility into predictable yield. Convert soft assets into collateralizable assets. Convert fragmented subsidiaries into a portfolio with leverageable coherence. Asset hardening increases the institution’s conversion optionality and decreases its dependence on timing.
 
@@ -39,7 +39,7 @@ MiFID II acquisition corridors elevate the threshold further. Europe is a rule�
 
 Private credit is a tactical amplifier. In a hardened structure, private credit becomes a precision instrument. Not a patch. Not an emergency valve. Precision. Clean covenants. Defensive terms. Rapid deployment. Market‑neutral yield. Hardened capital transforms private credit from a financing tool to a strategic weapon. Liquidity at will. Execution without hesitation. Buyouts that close when others stall.
 
-Within the hardened architecture, ABL plays a unique role. It is liquidity without noise. It is leverage without fragility. It is engineering, not borrowing. ABL allows Fund‑III platforms to front‑load strategic acceleration without increasing existential exposure. It locks liquidity into operational performance instead of market conditions. Hardened capital uses ABL as a stabilizer. As a control rod. As a pressure valve that ensures continuity under stress.
+Within the hardened architecture, Asset-Based Lending plays a unique role. It is liquidity without noise. It is leverage without fragility. It is engineering, not borrowing. Asset-Based Lending allows Fund‑III platforms to front‑load strategic acceleration without increasing existential exposure. It locks liquidity into operational performance instead of market conditions. Hardened capital uses Asset-Based Lending as a stabilizer. As a control rod. As a pressure valve that ensures continuity under stress.
 
 The architecture also addresses the human dimension. Institutions are built by patterns, not personalities. Hardened capital removes emotional volatility from the governance cycle. Decisions compress. Processes accelerate. Coordination becomes mechanical. Precision increases because ambiguity decreases. LPs recognize this instantly. Hardened capital signals leadership maturity. It communicates institutional adulthood. It says: We are a platform, not a project.
 

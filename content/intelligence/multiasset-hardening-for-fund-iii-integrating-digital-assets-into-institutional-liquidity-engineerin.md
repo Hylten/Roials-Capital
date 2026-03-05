@@ -72,7 +72,7 @@ If any of the three weaken, the entire structure becomes reactive rather than di
 
 Private credit provides predictable yield structures. 
 
-ABL provides collateral clarity. 
+Asset-Based Lending provides collateral clarity. 
 
 Digital assets, when properly structured, provide velocity without compromising institutional discipline.
 
@@ -124,15 +124,15 @@ At this level, the share blocks possess institutional weight and avoid fragmenta
 Public share Strategic Collateralization becomes a stabilizer for Fund-III. 
 It introduces a predictable and transparent collateral dimension that aligns with the structural needs of multi asset hardening.
 
-## Private Credit and ABL 
+## Private Credit and Asset-Based Lending 
 The Anchor Layer
 
-While digital assets and public equities provide velocity and optionality, private credit and ABL provide the anchor.
+While digital assets and public equities provide velocity and optionality, private credit and Asset-Based Lending provide the anchor.
 
  
 
 Private credit behaves with calendar discipline. It is contract driven rather than market driven. 
-ABL behaves with physicality. It is secured by identifiable assets that have quantifiable liquidation pathways.
+Asset-Based Lending behaves with physicality. It is secured by identifiable assets that have quantifiable liquidation pathways.
 
  
 
@@ -145,7 +145,7 @@ Velocity should never threaten stability. Stability should never restrict veloci
 
  
 
-Private credit and ABL define the stability. 
+Private credit and Asset-Based Lending define the stability. 
 Digital assets and public shares define the velocity. 
 The structure in between is the hardening layer.
 
@@ -171,7 +171,7 @@ The operational model functions through three channels.
 
 Digital assets enter through channel one, but they influence channel three. 
 Public shares behave similarly but with a slower feedback cycle. 
-Private credit and ABL dominate channels two and three.
+Private credit and Asset-Based Lending dominate channels two and three.
 
  
 
@@ -308,7 +308,7 @@ It is infrastructure.
  
 
 It allows Roials Capital to deliver liquidity to clients without compromising the integrity of their portfolios. 
-It brings digital assets into alignment with private credit and ABL. 
+It brings digital assets into alignment with private credit and Asset-Based Lending. 
 It creates a stable environment for high scale capital.
 
  

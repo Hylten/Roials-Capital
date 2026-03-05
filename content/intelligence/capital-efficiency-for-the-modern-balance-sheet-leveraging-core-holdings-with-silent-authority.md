@@ -29,7 +29,7 @@ This article maps the foundation of capital efficiency at the UHNW scale. It sho
 
 ## Toward a Structural Liquidity Ecosystem
 
-When private credit, ABL frameworks, crypto-backed facilities, and public share Capital Structuring are unified under a single architecture, the portfolio transitions into a new state.
+When private credit, Asset-Based Lending frameworks, crypto-backed facilities, and public share Capital Structuring are unified under a single architecture, the portfolio transitions into a new state.
 
  
 

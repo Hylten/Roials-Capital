@@ -1,6 +1,6 @@
 ---
 title: "Sovereign Pathways for Strategic Capital Migration"
-description: "Institutional brief on jurisdictional migration, capital hardening, and cross-border structuring for UHNW principals allocating into Fund-III buyouts, ABL liquidity frames, and energy-side special mandates."
+description: "Institutional brief on jurisdictional migration, capital hardening, and cross-border structuring for UHNW principals allocating into Fund-III buyouts, Asset-Based Lending liquidity frames, and energy-side special mandates."
 date: "2025-05-26"
 author: "Roials-Capital"
 slug: "sovereign-pathways-strategic-capital-migration"
@@ -29,7 +29,7 @@ Jurisdictional arbitrage signals foresight.
 
 Structural mobility signals institutional maturity.
 
-The brief that follows outlines the principal pathways for strategic capital migration optimized for Fund-III+ capital raising (80%), Monetization Architecture and ABL structuring (10%), and special mandates in North American energy and EU MiFID II acquisition corridors (10%). The lens is Roials-Capital. The tone is principal. The mandate is precision.
+The brief that follows outlines the principal pathways for strategic capital migration optimized for Fund-III+ capital raising (80%), Monetization Architecture and Asset-Based Lending structuring (10%), and special mandates in North American energy and EU MiFID II acquisition corridors (10%). The lens is Roials-Capital. The tone is principal. The mandate is precision.
 
 Capital moves first. Identity moves second. Institutions move last.
 
@@ -105,11 +105,11 @@ Mastery is recognized instantly in Fund-III negotiations. GPs talk among themsel
 
 Strategic capital migration eliminates friction.
 
-ABL pathways-asset-based liquidity-also depend on second-tier jurisdictional clarity. Banks are risk-averse. They demand collateral clarity. They reject ambiguous legal structures. When a principal presents a streamlined structure, banks extend credit more willingly. This is particularly relevant for Capital Structuring strategies connected to buyout participation.
+Asset-Based Lending pathways-asset-based liquidity-also depend on second-tier jurisdictional clarity. Banks are risk-averse. They demand collateral clarity. They reject ambiguous legal structures. When a principal presents a streamlined structure, banks extend credit more willingly. This is particularly relevant for Capital Structuring strategies connected to buyout participation.
 
 The principal with an optimized capital migration structure can raise liquidity faster. Deploy faster. Scale faster.
 
-ABL is a force multiplier, not a safety net.
+Asset-Based Lending is a force multiplier, not a safety net.
 
 Accelerated liquidity allows UHNW principals to capture distressed industrial assets. These assets then become platforms for add-ons. Add-ons drive Fund-III performance. Performance attracts institutional LPs. LPs deepen allocation trust.
 

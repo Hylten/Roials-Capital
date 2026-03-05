@@ -37,7 +37,7 @@ Credit asymmetry operates like gravitational pull. As banks retreat, borrowers d
 
 Asset hardening is the second pillar. Middle-market companies carry soft assets that break under stress. Cash conversion cycles destabilize. Working capital decays. Operating leverage spikes. To counter this, sponsors require collateral intelligence: asset tagging, revenue segmentation, multi‑jurisdictional filings, treasury centralization, receivables fortification, inventory compression, and covenant recalibration. Harden the asset. Reduce the lender’s uncertainty. Expand the borrower’s optionality. Predictable. Repeatable. Scalable.
 
-Asset-Backed Frameworks follows. Real liquidity. Not theoretical liquidity. Borrowers misprice timing. Lenders misprice volatility. Sponsors misprice sequencing. The geometry requires compression of all three. ABL lines become shock absorbers. Synthetic liquidity structures become accelerators. Multi‑facility stacks become deployment platforms. Liquidity is not an event. It is an engineered environment.
+Asset-Backed Frameworks follows. Real liquidity. Not theoretical liquidity. Borrowers misprice timing. Lenders misprice volatility. Sponsors misprice sequencing. The geometry requires compression of all three. Asset-Based Lending lines become shock absorbers. Synthetic liquidity structures become accelerators. Multi‑facility stacks become deployment platforms. Liquidity is not an event. It is an engineered environment.
 
 Cross‑border acquisition pathways complete the architecture. NAEOC energy mandates. EU MiFID II acquisition lanes. U.S. carve‑outs. Fed-adjacent infrastructure. The geometry demands jurisdictional arbitrage. Capital movement is not free. But it is predictable if structured. Sponsors who exploit regulatory dislocations outperform sponsors who wait for consensus.
 
@@ -76,7 +76,7 @@ The principal geometry includes an under-recognized dimension: institutional Hie
 
 The credit gap magnifies this. LPs observe sponsor-lender relationships. Coordination speed. Covenant sophistication. Downside plan B. They reward sponsors who engineer liquidity before crises. Not after. Monetization Architecture signals professionalism. Predictability. Institutional durability. Sponsors who rely on luck get crushed. Sponsors who engineer liquidity ascend.
 
-ABL structures matter. Not as emergency patches but as strategic instruments. ABL lines can convert working capital chaos into deployment rhythm. Strong borrowers weaponize ABL. Weak borrowers drown in it. The ABL must be engineered with foresight. Multi‑jurisdictional filings. Collateral appraisal regimes. Overflow triggers. Sponsor-level covenants. Liquidity floors. The architecture must be flawless.
+Asset-Based Lending structures matter. Not as emergency patches but as strategic instruments. Asset-Based Lending lines can convert working capital chaos into deployment rhythm. Strong borrowers weaponize Asset-Based Lending. Weak borrowers drown in it. The Asset-Based Lending must be engineered with foresight. Multi‑jurisdictional filings. Collateral appraisal regimes. Overflow triggers. Sponsor-level covenants. Liquidity floors. The architecture must be flawless.
 
 Energy mandates widen the credit gap. NAEOC capital requirements create a structural mismatch between smaller operators and institutional lenders. Middle-market energy borrowers require capital with operational intelligence. They must navigate regulatory risk, environmental compliance, and asset depletion curves. Private credit fills the void when banks retreat. But only if the lender has geological literacy and operational precision. Institutional capital flows only to those with discipline.
 
@@ -87,7 +87,7 @@ The middle-market credit gap is widening. Measurably. Persistently. Mathematical
 Roials-Capital operates on principal geometry. Not narrative. Not sentiment. The architecture is simple:
 
 • 80% kapitalanskaffning for Fund‑III+ buyouts and add‑ons. 
-• 10% ABL Institutional Liquidity Paths. 
+• 10% Asset-Based Lending Institutional Liquidity Paths. 
 • 10% special mandates (NAEOC $50M-$250M, EU MiFID II). 
 
 No drift. No dilution. No deviation.

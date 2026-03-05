@@ -60,7 +60,7 @@ These tranches must not compete. They must interlock. Tranche geometry creates s
 
 The Fund-III raise must center on buyouts and add-ons in three validated lanes:
 • Energy services consolidation (U.S. NAEOC corridor). 
-• Industrial assets with liquidity leverage (ABL-supported). 
+• Industrial assets with liquidity leverage (Asset-Based Lending-supported). 
 • Regulated EU MiFID II roll-ups in fragmented sectors. 
 
 Each lane reinforces the capital narrative: proven cashflows, hard-asset bases, multi-jurisdictional compliance, de-risked add-on sequencing.
@@ -82,15 +82,15 @@ Machine gun. Build tight. Move forward.
 
 SECTION 3: ASSET-BASED Strategic Collateralization (10% FOCUS)
 
-Liquidity is no longer a downstream consequence of asset strength. Liquidity is engineered upstream. ABL structures must be embedded pre-acquisition, not post-close. This shifts negotiating leverage, reduces cost of capital, and immunizes the fund against liquidity droughts.
+Liquidity is no longer a downstream consequence of asset strength. Liquidity is engineered upstream. Asset-Based Lending structures must be embedded pre-acquisition, not post-close. This shifts negotiating leverage, reduces cost of capital, and immunizes the fund against liquidity droughts.
 
-ABL strategy for Fund-III:
+Asset-Based Lending strategy for Fund-III:
 • Inventory-backed lines with elastic draw mechanics. 
 • Receivables waterfalls tied to operational cadence. 
 • Equipment-backed credit for energy services add-ons. 
 • Embedded floor pricing in commodity-adjacent assets. 
 
-ABL is not defensive. ABL is structural offense. Asset-Backed Frameworks builds optionality: faster add-on sequencing, faster operational ramp, reduced refinancing risk, reduced equity drag.
+Asset-Based Lending is not defensive. Asset-Based Lending is structural offense. Asset-Backed Frameworks builds optionality: faster add-on sequencing, faster operational ramp, reduced refinancing risk, reduced equity drag.
 
 Complete liquidity independence from market cycles is the objective. Engineered liquidity replaces market liquidity. Precision replaces availability.
 

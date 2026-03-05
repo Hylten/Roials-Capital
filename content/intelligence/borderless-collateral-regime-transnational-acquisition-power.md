@@ -1,6 +1,6 @@
 ---
 title: "The Borderless Collateral Regime and the Ascension of Transnational Acquisition Power"
-description: "Institutional brief on cross‑jurisdictional collateral mobility, Fund-III capital formation dynamics, and the emergence of sovereign-grade acquisition throughput for buyouts, ABL liquidity engineering, and energy-sector special mandates."
+description: "Institutional brief on cross‑jurisdictional collateral mobility, Fund-III capital formation dynamics, and the emergence of sovereign-grade acquisition throughput for buyouts, Asset-Based Lending liquidity engineering, and energy-sector special mandates."
 date: "2023-07-14"
 author: "Roials-Capital"
 slug: "borderless-collateral-regime-transnational-acquisition-power"
@@ -71,9 +71,9 @@ Add-ons are particularly advantaged. Because mobility compounds. Once the core p
 
 This is how borderless collateral converts into institutional-grade acquisition acceleration.
 
-Monetization Architecture occupies the next lane. ABL is no longer a last-mile liquidity tool. It is a structural tool for acquisition velocity. Liquidity is deployed not reactively, but architecturally. Inventory becomes credit. Receivables become acquisition fuel. Machinery becomes a leverage tier. Energy throughput becomes a monetizable vector. The balance sheet is not static. The balance sheet is a weapons platform.
+Monetization Architecture occupies the next lane. Asset-Based Lending is no longer a last-mile liquidity tool. It is a structural tool for acquisition velocity. Liquidity is deployed not reactively, but architecturally. Inventory becomes credit. Receivables become acquisition fuel. Machinery becomes a leverage tier. Energy throughput becomes a monetizable vector. The balance sheet is not static. The balance sheet is a weapons platform.
 
-This shifts the logic of private credit. Under the borderless regime, liquidity is engineered at origination, not at distress. It turns mid-cycle operations into acquisition engines. Fund-III allocators understand the significance. Traditional ABL remains domestic. Borderless ABL becomes multi-jurisdictional leverage strategy. The distinction produces yield asymmetry. It also produces acquisition readiness.
+This shifts the logic of private credit. Under the borderless regime, liquidity is engineered at origination, not at distress. It turns mid-cycle operations into acquisition engines. Fund-III allocators understand the significance. Traditional Asset-Based Lending remains domestic. Borderless Asset-Based Lending becomes multi-jurisdictional leverage strategy. The distinction produces yield asymmetry. It also produces acquisition readiness.
 
 Special mandates operate on a parallel track. Energy corridors under NAEOC ($50M–$250M) remain structurally mispriced. EU MiFID II acquisition shells remain underutilized by non-European sponsors. Both environments are capital-efficient for Fund-III structuring. Energy assets provide foundational cash flow. EU shells provide regulatory armor. Combined, they create transnational platforms with sovereign-grade durability.
 

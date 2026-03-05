@@ -42,7 +42,7 @@ The order is sacred. Break the order and you destroy compounding. Uphold it and 
 
 Recovery Factors. Families assume spiritual risk while believing they hold financial risk. Most of their capital is tied in assets with undiagnosed recovery factors. Forced sale recovery is not an acceptable metric for a generational stewardship strategy. Engineered recovery is. Institutional Liquidity Paths raises effective recoverability by pre structuring liquidation paths, secondary market bidders, and alternate-use scenarios. A machine with three potential buyers is fragile. A machine with twelve documented bidders is a treasury instrument.
 
-This is why we build ABL facilities not as credit. But as operating infrastructure.
+This is why we build Asset-Based Lending facilities not as credit. But as operating infrastructure.
 
 PHASE 3. THE STRATEGIC MODEL 
 Most private families attempt to manage liquidity internally. This is a category error. Liquidity is not an administrative function. It is a strategic function that requires institutional discipline and acquisition readiness.
@@ -52,8 +52,8 @@ Fund-III operates with a tripartite model.
 1. Kapitalanskaffning for Buyouts and Add-ons. 
 Eighty percent of our mandate focuses on securing expansion capital into operators that can hold an institutional discipline. We raise from LPs that understand velocity, not vanity. Our threshold is clear. We enter only where liquidity facilities accelerate margin expansion and acquisition cadence. When capital enters a stewarded structure, it scales without waste. When it enters an unstructured operator, it evaporates.
 
-2. Monetization Architecture for ABL Mandates. 
-Ten percent of our operation focuses on constructing ABL facilities that behave like liquidity engines. They stabilise the operator. They lower volatility. They reprice working capital risk. They convert trapped equity into acquisition capacity. ABL is not a loan. It is a release valve that transforms the balance sheet into a deployable weapon.
+2. Monetization Architecture for Asset-Based Lending Mandates. 
+Ten percent of our operation focuses on constructing Asset-Based Lending facilities that behave like liquidity engines. They stabilise the operator. They lower volatility. They reprice working capital risk. They convert trapped equity into acquisition capacity. Asset-Based Lending is not a loan. It is a release valve that transforms the balance sheet into a deployable weapon.
 
 3. Special Mandates in Energy and Regulated Jurisdictions. 
 Ten percent of the model supports large-ticket NAEOC energy structures in the fifty to two hundred fifty million range and MiFID II acquisitions within the EU. These mandates exist for one reason. Critical industries cannot rely on traditional capital pathways. Their volatility is an illusion. Their cash flow is consistent when governed by institutional constraints. Fund-III creates the constraint. The cash flow responds.

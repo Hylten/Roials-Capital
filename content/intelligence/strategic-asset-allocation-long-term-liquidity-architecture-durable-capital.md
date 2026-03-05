@@ -19,7 +19,7 @@ The answer begins with a three-tier model: Base Liquidity. Strategic Resilience.
 
 Begin with base liquidity. The foundation. The layer that must survive every cycle. For Fund‑III, this is where asset hardening intersects with disciplined private credit exposure. Not broad credit. Selective credit. Covenanted. Collateralized. Real-asset anchored. Liquidity must be predictable, not merely available. Fund‑III’s architecture requires structures that produce recurring cash yield with negligible behavioral variance.
 
-Use ABL structures sparingly but surgically-10% of the fund, as mandated. Institutional Liquidity Paths must not hijack the portfolio’s long-term compounding path. Its function is stabilizer, not star performer. Instrument-grade, not narrative-driven. Focus on sectors where liquidation value is not theoretical. Oilfield equipment. Midstream logistics. Energy service fleets with serial utilization data. Industrials with low obsolescence risk. Supply-chain nodes where real assets have real buyers at real prices.
+Use Asset-Based Lending structures sparingly but surgically-10% of the fund, as mandated. Institutional Liquidity Paths must not hijack the portfolio’s long-term compounding path. Its function is stabilizer, not star performer. Instrument-grade, not narrative-driven. Focus on sectors where liquidation value is not theoretical. Oilfield equipment. Midstream logistics. Energy service fleets with serial utilization data. Industrials with low obsolescence risk. Supply-chain nodes where real assets have real buyers at real prices.
 
 Move to the resilience tier. The strategic ballast. This is where Fund‑III differentiates itself. Private markets increasingly compensate sponsors who demonstrate early alignment with multi-jurisdictional compliance regimes. MiFID II in the EU. Basel III’s indirect force vectors. US regulatory posture around energy acquisition frameworks. Allocation for resilience is not an ESG exercise. It is a durability exercise. Design for acceptability. Design for compatibility. Capital that is allocable is more valuable than capital that is merely raised.
 
@@ -35,7 +35,7 @@ The task, then, is precision sequencing.
 
 Phase one: anchor commitments around the resilience spine. Show the cash-flow logic early. Present the collateral mechanics. Demonstrate the underwriting stability. LPs want the base case before they consider the upside.
 
-Phase two: reveal the Strategic Collateralization protocols. Not abstractions. Mechanisms. ABL corridors. Refinancing timetables. Revolver discretion. Cash-lockbox frameworks tied to operational KPIs. This is the layer that upgrades LP confidence from conditional to committed.
+Phase two: reveal the Strategic Collateralization protocols. Not abstractions. Mechanisms. Asset-Based Lending corridors. Refinancing timetables. Revolver discretion. Cash-lockbox frameworks tied to operational KPIs. This is the layer that upgrades LP confidence from conditional to committed.
 
 Phase three: deliver the optionality stack. In controlled doses. LPs do not want maximalism. They want controlled asymmetry. The ability to generate step-change returns without contaminating the base architecture.
 

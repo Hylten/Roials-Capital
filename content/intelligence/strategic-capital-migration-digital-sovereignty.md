@@ -83,7 +83,7 @@ Fund‑III is a buyout engine but also a sovereignty engine. Execution across ad
 
 Asset-Backed Frameworks complements the sovereign corridors. Asset-based lending structures migrate liquidity from friction-heavy jurisdictions to high‑velocity corridors. The liquidity becomes programmable. The collateral becomes sovereign anchored. The result is liquidity optionality: the ability to shift debt, adjust leverage, and recapture capital without cross-border friction.
 
-ABL becomes a kinetic tool. Short bursts. High precision. Direct outcomes.
+Asset-Based Lending becomes a kinetic tool. Short bursts. High precision. Direct outcomes.
 
 The mandate is simple: structure liquidity that moves. Not liquidity that waits. Not liquidity that negotiates. Liquidity that accelerates capital migration.
 

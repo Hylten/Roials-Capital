@@ -46,7 +46,7 @@ Institutional capital raising at this stage focuses on:
 
 2. Liquidity Engineering and Asset Based Structures
 
-Liquidity engineering is the ability to transform operational assets into strategic financial mobility. It is not a traditional ABL program. It is a form of calibrated balance sheet optimization built around:
+Liquidity engineering is the ability to transform operational assets into strategic financial mobility. It is not a traditional Asset-Based Lending program. It is a form of calibrated balance sheet optimization built around:
 
 - Hard asset valuation with replacement cost indexing.  
 - Working capital rotation cycles anchored to predictable receivable behavior.  

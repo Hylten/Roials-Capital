@@ -105,7 +105,7 @@ This lens includes:
 4. Assessing sponsor discipline and operational integration capacity. 
 5. Determining whether the asset class aligns with stewardship principles.
 
-Allocators seeking structured clarity on Fund-III capital formation, ABL Capital Structuring, or sector specific mandates including North American energy can initiate a confidential strategy audit through Roials Capital. The objective is alignment, not solicitation. The outcome is a calibrated understanding of how private credit can function as a stabilizing instrument within a multi decade capital strategy.
+Allocators seeking structured clarity on Fund-III capital formation, Asset-Based Lending Capital Structuring, or sector specific mandates including North American energy can initiate a confidential strategy audit through Roials Capital. The objective is alignment, not solicitation. The outcome is a calibrated understanding of how private credit can function as a stabilizing instrument within a multi decade capital strategy.
 
 [END OF BRIEFING]
 

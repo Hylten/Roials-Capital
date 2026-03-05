@@ -77,7 +77,7 @@ The GP receives clarity on optimal structure. The LP receives transparency on st
 3. Cross-Vertical Syndication Channels 
 The Brand supports the strategic channels across: 
 - 80 percent capital raising for Fund-III and Fund-IV buyouts and add-ons 
-- 10 percent Institutional Liquidity Paths and ABL structures 
+- 10 percent Institutional Liquidity Paths and Asset-Based Lending structures 
 - 10 percent special mandates including NAEOC 50M to 250M energy opportunities and EU MiFID II acquisition pathways 
 
 These verticals operate independently but are strategically integrated to support allocators requiring diversified exposure without operational fragmentation.

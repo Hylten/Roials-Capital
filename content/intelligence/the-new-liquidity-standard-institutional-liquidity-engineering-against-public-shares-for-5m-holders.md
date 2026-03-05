@@ -1,6 +1,6 @@
 ---
 title: "The New Liquidity Standard: Institutional liquidity engineering Against Public Shares for + Holders"
-description: "A high‑authority analysis of the emerging liquidity standard, focusing on private credit, ABL frameworks, and public share Asset-Backed Frameworks for HNWI and UHNW clients seeking structural liquidity."
+description: "A high‑authority analysis of the emerging liquidity standard, focusing on private credit, Asset-Based Lending frameworks, and public share Asset-Backed Frameworks for HNWI and UHNW clients seeking structural liquidity."
 date: "2023-07-25"
 author: "Jonas Hyltén"
 slug: "the-new-liquidity-standard-institutional-liquidity-engineering-against-public-shares-for-5m-holders"

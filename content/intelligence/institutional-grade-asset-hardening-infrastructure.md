@@ -46,7 +46,7 @@ Institutional LPs are increasingly evaluating GPs based on their ability to demo
 
 B. Institutional Liquidity Paths and Asset Based Lending Architecture
 
-In a rationed credit environment, liquidity is not a commodity. It is an engineering discipline. Roials Capital supports institutional partners through non bank ABL structures that are designed to harden the liquidity profile of portfolio companies. This approach uses:
+In a rationed credit environment, liquidity is not a commodity. It is an engineering discipline. Roials Capital supports institutional partners through non bank Asset-Based Lending structures that are designed to harden the liquidity profile of portfolio companies. This approach uses:
 
 1. Dynamic loan to value curves that adjust based on asset velocity rather than static appraisals.
 2. Cross collateral frameworks that create multi asset pools with diversified impairment profiles.

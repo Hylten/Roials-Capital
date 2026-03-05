@@ -103,7 +103,7 @@ The primary emphasis is on supporting buyout platforms and their add on programs
 - Balance sheet optimization analysis 
 - Structuring advisory focused on non dilutive frameworks 
 
-2. Institutional Liquidity Paths (ABL) 
+2. Institutional Liquidity Paths (Asset-Based Lending) 
 Approximately ten percent of the mandate focuses on asset based lending frameworks designed to improve working capital velocity. These structures support:
 
 - Inventory rotation 

@@ -311,7 +311,7 @@ It allows the institution to convert asset stability into liquidity.
 
  
 
-ABL within the sovereign architecture is governed by:
+Asset-Based Lending within the sovereign architecture is governed by:
 
  
 • strict collateral valuation models 

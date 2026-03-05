@@ -95,7 +95,7 @@ Eighty percent of the mandate centers on capital formation for vehicles entering
 
 Roials Capital positions itself as a calibrator, ensuring that GP communication aligns with the institutional archetype expected by sovereign allocators, pension systems, and concentrated family offices.
 
-2. Strategic Collateralization through ABL Structures
+2. Strategic Collateralization through Asset-Based Lending Structures
 
 Ten percent of allocations require customized asset backed lending facilities designed to stabilize operational liquidity, support acquisitions, or rebalance over levered corporate structures. These structures require:
 

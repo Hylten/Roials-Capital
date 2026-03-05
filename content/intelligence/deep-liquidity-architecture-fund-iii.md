@@ -28,13 +28,13 @@ Institutional allocators-sovereign, pension, wealth institutions, insurance mand
 • Add‑on Compression Velocity. 
 • Downward Dispersion Risk.
 
-Liquidity override capacity refers to a GP’s ability to synthesize liquidity during market contraction-through ABL structures, receivables rotation, private credit backstops, or asset hardening cycles. Balance sheet weaponization refers to the ability to convert leverage into cost‑neutral control without destabilizing NAV integrity. Add‑on compression velocity measures the speed at which the platform converts small and mid‑scale acquisitions into operational yield. Downward dispersion risk refers to the GP’s capacity to prevent valuation bleed across intertwined subsidiaries.
+Liquidity override capacity refers to a GP’s ability to synthesize liquidity during market contraction-through Asset-Based Lending structures, receivables rotation, private credit backstops, or asset hardening cycles. Balance sheet weaponization refers to the ability to convert leverage into cost‑neutral control without destabilizing NAV integrity. Add‑on compression velocity measures the speed at which the platform converts small and mid‑scale acquisitions into operational yield. Downward dispersion risk refers to the GP’s capacity to prevent valuation bleed across intertwined subsidiaries.
 
 Proverbs 13:22: “A good man leaves an inheritance to his children’s children: but the wealth of the sinner is laid up for the just.” In institutional architecture this translates to continuity. Continuity in mandate. Continuity in governance. Continuity in cash conversion cycles. Capital allocators seek inheritance pathways, not episodic wins.
 
 Fund‑III must demonstrate inheritance architecture at the balance-sheet level.
 
-Second pillar: ABL and Capital Structuring. Ten percent weight. Not because it is secondary. But because ABL is not the product-ABL is the pressure valve. Institutional Liquidity Paths for illiquid markets requires bypassing traditional banking cadence. Banks calculate risk using historical symmetry. Illiquid markets do not behave symmetrically. They spike. They freeze. They cluster. They punish delay.
+Second pillar: Asset-Based Lending and Capital Structuring. Ten percent weight. Not because it is secondary. But because Asset-Based Lending is not the product-Asset-Based Lending is the pressure valve. Institutional Liquidity Paths for illiquid markets requires bypassing traditional banking cadence. Banks calculate risk using historical symmetry. Illiquid markets do not behave symmetrically. They spike. They freeze. They cluster. They punish delay.
 
 A principal-grade liquidity system incorporates:
 
@@ -44,7 +44,7 @@ A principal-grade liquidity system incorporates:
 • Revenue‑from‑day‑one structuring. 
 • Cross‑border collateral routing for MiFID II compliance.
 
-The objective is not to borrow more. The objective is to borrow smarter. To borrow abstractly. To borrow against the system’s predictable behavior, not the asset’s transient value. ABL, executed properly, becomes a shield. It absorbs volatility. It stabilizes working capital. It converts counterparty uncertainty into solvency momentum.
+The objective is not to borrow more. The objective is to borrow smarter. To borrow abstractly. To borrow against the system’s predictable behavior, not the asset’s transient value. Asset-Based Lending, executed properly, becomes a shield. It absorbs volatility. It stabilizes working capital. It converts counterparty uncertainty into solvency momentum.
 
 Liquidity architecture for Fund‑III must generate optionality. Optionality determines exit integrity. Exit integrity determines LP confidence. LP confidence determines capital velocity. And capital velocity determines the platform’s ability to dominate markets that are otherwise inaccessible because of liquidity friction.
 
@@ -105,7 +105,7 @@ Jurisdictional arbitrage is the final multiplier. Illiquid markets are not unifo
 Jurisdictional arbitrage in the Fund‑III context includes:
 
 • Using US-based private credit to accelerate EU acquisition schedules. 
-• Deploying ABL in energy corridors where traditional credit is risk‑averse. 
+• Deploying Asset-Based Lending in energy corridors where traditional credit is risk‑averse. 
 • Layering MiFID II governance to attract EU insurance mandates. 
 • Routing cash-flow lending structures through low-volatility jurisdictions. 
 • Leveraging regulatory mismatch to acquire distressed or slow-moving assets.

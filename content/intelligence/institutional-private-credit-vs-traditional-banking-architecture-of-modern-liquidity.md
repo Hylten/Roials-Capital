@@ -48,7 +48,7 @@ Multi-asset operators often optimize their borrowing base by cross-linking colla
 Covenants in private credit function as calibration tools. They are designed for forward visibility, not punitive outcomes. Metrics such as fixed charge coverage, liquidity covenants, and borrowing base triggers ensure operational alignment between lender and operator.
 
 5. Monetization Architecture 
-In situations where operators require transitional capital, private credit funds deploy ABL lines, receivables financing, and inventory-backed structures. These solutions stabilize working capital positions in environments where banks cannot expand short-term lending facilities.
+In situations where operators require transitional capital, private credit funds deploy Asset-Based Lending lines, receivables financing, and inventory-backed structures. These solutions stabilize working capital positions in environments where banks cannot expand short-term lending facilities.
 
 6. Sector-Specific Examples 
 For energy, the most efficient operators utilize technical recovery data, decline curves, and steam-to-oil ratios to structure credit exposure. Our strategic partner, NAEO, exemplifies this discipline. They integrate SAGD and CSS operational metrics into lending frameworks, ensuring credit structures align with production physics. This creates clarity around reserves, recoverability, and cyclicity.
@@ -67,7 +67,7 @@ Three partnership modes structure this role.
 1. Capital Formation for Fund-III 
 Eighty percent of the Roials mandate centers on kapitalanskaffning for Fund-III strategies. This includes sponsor buyouts, roll-ups, and add-ons. The institutional ecosystem requires calibrated introductions that align LP expectations with GP execution capabilities. Roials ensures alignment between investor archetypes and fund strategy.
 
-2. Capital Structuring and ABL Structures 
+2. Capital Structuring and Asset-Based Lending Structures 
 Ten percent of the mandate supports asset-based lending frameworks. These credit lines stabilize balance sheets and increase opportunity velocity for operators transitioning between acquisition cycles. Roials facilitates introductions to institutional lenders capable of providing consistent liquidity.
 
 3. Special Mandates 
@@ -103,7 +103,7 @@ Fund-III managers that maintain underwriting velocity hold a competitive advanta
 Allocators must evaluate whether the GP demonstrates deep operational domain expertise. In energy, NAEO exemplifies the required alignment between technical operations and financial engineering.
 
 3. Liquidity architecture across the capital stack 
-Funds capable of integrating ABL, senior secured notes, and transitional credit into a unified framework provide stronger downside protection.
+Funds capable of integrating Asset-Based Lending, senior secured notes, and transitional credit into a unified framework provide stronger downside protection.
 
 4. Covenant frameworks that provide clarity rather than friction 
 High-quality private credit strategies use covenants to enforce alignment, not to penalize operators.

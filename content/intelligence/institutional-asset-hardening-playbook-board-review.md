@@ -68,7 +68,7 @@ Cross-border capital demands fluency in European AIFMD, Nordic governance prefer
 Competency 3: Execution Enablement 
 Execution is achieved through clearly articulated capital structures, validated counterparties, and governance frameworks that can move through institutional committees. This applies across all mandate types: 
 • Kapitalanskaffning for Buyouts and Add-ons, 
-• ABL Strategic Collateralization for operating companies requiring balance sheet modernization, 
+• Asset-Based Lending Strategic Collateralization for operating companies requiring balance sheet modernization, 
 • Special Mandates including NAEO’s 50M to 250M deployment lanes and MiFID II governed acquisitions. 
 
 PHASE 4: THE STEWARDSHIP FILTER

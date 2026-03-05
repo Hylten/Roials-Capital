@@ -27,7 +27,7 @@ Cash flow waterfalls reinforce this. Retail capital pools demand short-dated rep
 
 Recovery factors tell the real story. Small lenders suffer recovery rates between 28 and 41 percent when distressed because they negotiate from weakness. Institutional lenders average 62 to 78 percent recovery on identical collateral classes because they control workout advisors, valuation specialists, and replacement operators. They do not ask for outcomes. They impose them.
 
-Asset-Backed Frameworks extends this advantage. Asset based lending becomes a power tool when institutions stand behind it. ABL margins collapse from 14 to 11 percent when institutional capital validates collateral liquidity. Revolver frequency increases. Cash conversion cycles tighten. Borrowers gain stability. The fund gains durability. The system compounds strength.
+Asset-Backed Frameworks extends this advantage. Asset based lending becomes a power tool when institutions stand behind it. Asset-Based Lending margins collapse from 14 to 11 percent when institutional capital validates collateral liquidity. Revolver frequency increases. Cash conversion cycles tighten. Borrowers gain stability. The fund gains durability. The system compounds strength.
 
 In the energy mandates the mechanics shift again. NAEOC backed facilities allow 3 to 5 year production curves to be securitized with adjustable advance rates. Borrowers see clarity. LPs see predictability. The lender extracts duration without sacrificing velocity. Without institutional backing, these structures do not price.
 
@@ -37,7 +37,7 @@ The strategic model for Fund-III requires a different operating system. Roials-C
 
 First, capital raising at 80 percent allocation. Fund-III+ must run a capital acquisition engine, not a passive LP rotation. UHNW and institutional LPs gravitate to deterministic execution. They are not buying yield. They are buying regime alignment. Our institutional stance is simple. We do not chase capital. We credential it. LPs join a process that is already functioning. This reverses the negotiating leverage. This is how Fund-III scales.
 
-Second, Strategic Collateralization at 10 percent allocation. ABL is not a side strategy. It is structural scaffolding for buyout engines. Roials-Capital uses institutional-grade monitoring systems with high frequency collateral revaluation. It removes ambiguity. Borrowers stop improvising cash flow. LPs see measurable signal. Everything gains momentum.
+Second, Strategic Collateralization at 10 percent allocation. Asset-Based Lending is not a side strategy. It is structural scaffolding for buyout engines. Roials-Capital uses institutional-grade monitoring systems with high frequency collateral revaluation. It removes ambiguity. Borrowers stop improvising cash flow. LPs see measurable signal. Everything gains momentum.
 
 Third, special mandates at 10 percent allocation. When institutions back a private credit platform, the platform becomes eligible for structured mandates that smaller lenders cannot touch. NAEOC mandates at 50 to 250 million. MiFID II acquisition windows. Energy hard assets. Equipment backed exposures. These mandates expand the fund identity. They alter its gravitational mass. A Fund-III with special mandates is not a mid-market lender. It is a strategic capital instrument.
 

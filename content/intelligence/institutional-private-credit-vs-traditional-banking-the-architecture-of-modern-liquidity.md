@@ -133,17 +133,17 @@ They require liquidity architecture.
 
 ## Asset-Based Asset-Backed Frameworks as the Structural Spine
 
-Asset-Based Asset-Backed Frameworks, or ABL, forms the operational spine of institutional private credit.
+Asset-Based Asset-Backed Frameworks, or Asset-Based Lending, forms the operational spine of institutional private credit.
 
 It converts static or semi-static assets into strategic liquidity, without forcing divestment.
 
 The principle is simple, but the execution requires precision.
 
-ABL structures answer a core HNWI problem:
+Asset-Based Lending structures answer a core HNWI problem:
 
 How do I monetize assets without selling them, exposing them, or reducing my strategic optionality.
 
-Roials-Capital operates in this space with silent authority, providing ABL frameworks against sophisticated asset classes including private credit positions, crypto assets, and public equity holdings.
+Roials-Capital operates in this space with silent authority, providing Asset-Based Lending frameworks against sophisticated asset classes including private credit positions, crypto assets, and public equity holdings.
 
 The thresholds reflect the institutional nature of the architecture:
 

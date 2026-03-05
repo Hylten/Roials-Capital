@@ -61,8 +61,8 @@ This creates a structural arbitrage:
 
 Our strategic partner, NAEO, operates exclusively within this structural gap. Their strength is technical granularity and operational discipline. The allocator benefits not from promised returns, but from entering a basin where the primary variables are geological, not geopolitical.
 
-DOMAIN 3: ABL and Liquidity Engineering  
-Asset Based Lending has migrated from a liquidity stopgap to an institutional tool for balance sheet optimization. Transnational allocators use ABL as a tactical mechanism for:  
+DOMAIN 3: Asset-Based Lending and Liquidity Engineering  
+Asset Based Lending has migrated from a liquidity stopgap to an institutional tool for balance sheet optimization. Transnational allocators use Asset-Based Lending as a tactical mechanism for:  
 - Cross-collateralization across jurisdictions  
 - Short duration liquidity extraction  
 - Stabilization of portfolio-level leverage metrics  

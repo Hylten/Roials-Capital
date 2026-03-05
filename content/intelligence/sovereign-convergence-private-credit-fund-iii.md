@@ -85,15 +85,15 @@ Fund-III answers with:
 
 • A unified private credit + buyout chassis 
 • Sovereign-compatible reporting infrastructure 
-• A Strategic Collateralization desk (ABL, asset rotations, collateral compression) 
+• A Strategic Collateralization desk (Asset-Based Lending, asset rotations, collateral compression) 
 • Special mandates pre-structured for energy and MiFID II acquisition lanes 
 
 Capital raising becomes straightforward when the structure is sovereign-resilient. LPs prefer durability. Predictability. Clarity of mission. They reject managers who wander across themes.
 
 Fund-III stands immovable. Focused. Concentrated. Collision-proof.
 
-ABL AND Institutional Liquidity Paths 
-Asset-based lending re-enters the cycle with surgical relevance. Not the retail version. Not inventory loans for distressed shops. Institutional ABL performs a different function:
+Asset-Based Lending AND Institutional Liquidity Paths 
+Asset-based lending re-enters the cycle with surgical relevance. Not the retail version. Not inventory loans for distressed shops. Institutional Asset-Based Lending performs a different function:
 
 • Inventory-to-cash acceleration 
 • Receivable compression 
@@ -166,7 +166,7 @@ Fund-III’s velocity comes from:
 • Energy corridor dealflow 
 • MiFID II acquisition funnels 
 • Sovereign co-invest lanes 
-• Real-asset ABL structures ready for activation 
+• Real-asset Asset-Based Lending structures ready for activation 
 
 Speed wins. Discipline seals the win.
 

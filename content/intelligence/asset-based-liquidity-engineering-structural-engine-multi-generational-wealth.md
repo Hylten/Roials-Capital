@@ -22,7 +22,7 @@ Allocators operating from 2024 to 2026 are navigating the most complex capital c
 
 Collectively these dynamics have created a new capital regime where balance sheet rigidity becomes a liability. Static capital structures are structurally misaligned with market volatility, regulatory overhang, and extended refinancing cycles.
 
-This is the environment where Asset Based Strategic Collateralization (ABL-E) emerges as a structural solution rather than a financing tactic. ABL-E is not borrowing against an asset. It is the engineering of liquidity pathways that match the operational physics, cash flow timing, and collateral durability of the underlying asset class. The discipline operates at the intersection of private credit, operational underwriting, and long dated asset stewardship.
+This is the environment where Asset Based Strategic Collateralization (Asset-Based Lending-E) emerges as a structural solution rather than a financing tactic. Asset-Based Lending-E is not borrowing against an asset. It is the engineering of liquidity pathways that match the operational physics, cash flow timing, and collateral durability of the underlying asset class. The discipline operates at the intersection of private credit, operational underwriting, and long dated asset stewardship.
 
 The macro context has created an allocator priority shift. Portfolios previously constructed for growth must now be recalibrated for:
 
@@ -38,7 +38,7 @@ PHASE 2: TECHNICAL MECHANICS OF ASSET BASED Asset-Backed Frameworks
 
 Asset Based Strategic Collateralization relies on technical underwriting rather than speculative forecasts. It measures what an asset intrinsically is, not what markets may claim it to be.
 
-Institutional ABL-E follows five structural pillars:
+Institutional Asset-Based Lending-E follows five structural pillars:
 
 1. Collateral Physics 
  The starting point is the intrinsic nature of the asset. Industrial equipment, energy reserves, receivables, inventory, and regulated infrastructure all have different degradation curves and liquidity horizons. Institutional Liquidity Paths calibrates these curves with capital requirements and operational trajectories. For example, in the Alberta heavy oil corridor the physics of thermal recovery technologies such as SAGD and CSS create predictable extraction profiles. Decline curves are established. Reservoir pressure is understood. This makes the collateral base unusually transparent compared to sectors dependent on demand shock volatility.
@@ -47,19 +47,19 @@ Institutional ABL-E follows five structural pillars:
  Capital Structuring defines the hierarchy of claims in advance. Capital injections, amortization schedules, operational costs, reinvestment requirements, and reserve accounts are quantified. This transforms the balance sheet from linear to layered. Each layer is designed to absorb volatility without impairing the underlying strategic asset.
 
 3. Loan to Value Curve Structuring 
- Traditional LTV ratios assume static valuations. ABL-E curves adjust dynamically based on extraction schedules, receivable conversion days, or production cadence. In energy, this means aligning the LTV curve to the reservoir performance and field development plan rather than mark to market price swings. When collateral performance is measurable, liquidity access becomes continuous rather than episodic.
+ Traditional LTV ratios assume static valuations. Asset-Based Lending-E curves adjust dynamically based on extraction schedules, receivable conversion days, or production cadence. In energy, this means aligning the LTV curve to the reservoir performance and field development plan rather than mark to market price swings. When collateral performance is measurable, liquidity access becomes continuous rather than episodic.
 
 4. Cross Collateralization and Structural Seniority 
- ABL-E identifies where different assets can be pooled for stability without creating contagion risk. For Fund-III buyout ecosystems, cross collateralization can create a higher tier of structural seniority when multiple operating subsidiaries sit under the same platform. The objective is not higher leverage. The objective is higher liquidity reliability.
+ Asset-Based Lending-E identifies where different assets can be pooled for stability without creating contagion risk. For Fund-III buyout ecosystems, cross collateralization can create a higher tier of structural seniority when multiple operating subsidiaries sit under the same platform. The objective is not higher leverage. The objective is higher liquidity reliability.
 
 5. Opportunity Velocity 
  Families and institutions that engineer liquidity in advance can execute high velocity acquisitions when capital markets tighten. This is the structural mechanism through which multi generational wealth expands during downturns rather than contracts. Liquidity becomes the catalyst for compounding.
 
-Applied correctly, ABL-E becomes an operational discipline that touches treasury, M&A, risk management, and portfolio governance simultaneously. It is not a product. It is an architecture.
+Applied correctly, Asset-Based Lending-E becomes an operational discipline that touches treasury, M&A, risk management, and portfolio governance simultaneously. It is not a product. It is an architecture.
 
 PHASE 2 SUBSET: ENERGY SPECIFIC MECHANICS WITH NAEOCC
 
-When applied to the North American conventional energy corridor through NAEOCCC, to which we serve as a strategic partner, ABL-E takes on an additional layer of technical specificity.
+When applied to the North American conventional energy corridor through NAEOCCC, to which we serve as a strategic partner, Asset-Based Lending-E takes on an additional layer of technical specificity.
 
 - Reservoir Quality 
  Conventional heavy oil assets in Alberta operate within well-characterized geologic environments. Reservoir continuity is stable. Water cuts, viscosity ranges, and decline parameters are known. Collateral behavior is measurable through physics rather than sentiment.
@@ -73,7 +73,7 @@ When applied to the North American conventional energy corridor through NAEOCCC,
 - Capital Timing 
  Field development plans can be synchronized with liquidity events. Steam cycles, well workovers, and pad expansions can be integrated inside pre engineered cash flow waterfalls.
 
-This is why NAEOCCC is positioned as an institutional partner rather than a counterparty. The technical transparency of the assets enables disciplined ABL-E without speculative assumptions. This structural clarity is rare in the broader energy landscape.
+This is why NAEOCCC is positioned as an institutional partner rather than a counterparty. The technical transparency of the assets enables disciplined Asset-Based Lending-E without speculative assumptions. This structural clarity is rare in the broader energy landscape.
 
 PHASE 3: THE PARTNERSHIP MODEL
 
@@ -92,7 +92,7 @@ Within capital raising (kapitalanskaffning) environments for Fund-III and later 
 
 - Underwriting the operational validity of the platform 
 - Ensuring the capital architecture supports scale without compromising liquidity 
-- Identifying where ABL-E can protect the balance sheet 
+- Identifying where Asset-Based Lending-E can protect the balance sheet 
 - Structuring add on acquisitions around liquidity availability rather than opportunistic timing 
 - Aligning European, US, Swiss, and Gulf allocators with the appropriate regulatory chassis 
 

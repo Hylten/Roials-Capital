@@ -47,7 +47,7 @@ In the energy mandate, NAEOC allocations between 50M and 250M require structural
 
 In private credit, the sovereign mindset eliminates duration risk by collapsing amortization into operational velocity. The structure forces predictability. Predictability lowers capital cost. Lower cost increases acquisition coverage. Coverage accelerates platform maturity. That closed loop is the sovereign flywheel.
 
-ABL is not a niche strategy. It is Monetization Architecture under industrial discipline. Inventory, receivables, reserves, equipment. Hard assets are liquidity reservoirs. Sovereign allocators use ABL as a liquidity weapon. Not defensive. Offensive. Precision-calculated. When acquisition cycles tighten, ABL provides breathing room. When markets freeze, ABL becomes the silent highway. Quiet power. Silent leverage. Sovereign.
+Asset-Based Lending is not a niche strategy. It is Monetization Architecture under industrial discipline. Inventory, receivables, reserves, equipment. Hard assets are liquidity reservoirs. Sovereign allocators use Asset-Based Lending as a liquidity weapon. Not defensive. Offensive. Precision-calculated. When acquisition cycles tighten, Asset-Based Lending provides breathing room. When markets freeze, Asset-Based Lending becomes the silent highway. Quiet power. Silent leverage. Sovereign.
 
 Special mandates extend this logic into regulated corridors. MiFID II acquisitions require a specific architecture: compliant velocity. It is the only way to scale when regulatory friction increases. The sovereign mindset treats regulation as a design constraint, not a barrier. Sovereigns design within boundaries. Retail reacts to boundaries. Fund-III must operate at sovereign altitude. High. Clean. Cold.
 

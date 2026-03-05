@@ -1,6 +1,6 @@
 ---
 title: "The Strategic Role of Yield in True Asset Hardening"
-description: "A deep institutional analysis of how yield transforms private credit and ABL structures into durable liquidity engines for HNWI and UHNW capital."
+description: "A deep institutional analysis of how yield transforms private credit and Asset-Based Lending structures into durable liquidity engines for HNWI and UHNW capital."
 date: "2023-11-08"
 author: "Jonas Hyltén"
 slug: "the-strategic-role-of-yield-in-true-asset-hardening"
@@ -39,7 +39,7 @@ Our architecture is designed for HNWI and UHNW individuals who require:
 • Controlled leverage 
 • Yield reinforced collateral 
 • Institutional counterparty structures 
-• ABL frameworks with depth and continuity 
+• Asset-Based Lending frameworks with depth and continuity 
 
 Yield integrates these components. 
 

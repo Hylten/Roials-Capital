@@ -41,7 +41,7 @@ One change in the status of an asset-permitted, contracted, verified, appraised,
 A sovereign firm controls its own liquidity. Proverbs 13:22.
 
 Layer 4. Sovereign Output 
-ABL outputs are predictable when engineered correctly:
+Asset-Based Lending outputs are predictable when engineered correctly:
 
 • Liquidity corridors for buyout velocity 
 • Refinancing shields for leverage optimization 
@@ -83,7 +83,7 @@ Institutional LPs maintain a singular question: can the GP accelerate deployment
 
 Kapitalanskaffning becomes a sovereign function when underwritten by asset-driven liquidity architecture. LPs don’t fund ideas. They fund control systems. They fund Principals who eliminate friction. They fund Principal-Architects who convert assets into liquidity rails that multiply carry.
 
-Fund-III GPs leveraging ABL correctly achieve:
+Fund-III GPs leveraging Asset-Based Lending correctly achieve:
 
 • Faster close cycles 
 • Higher underwriting confidence 
@@ -94,16 +94,16 @@ Fund-III GPs leveraging ABL correctly achieve:
 
 LPs follow this energy. They move toward structure.
 
-ABL Asset-Backed Frameworks (10% Mandate)
+Asset-Based Lending Asset-Backed Frameworks (10% Mandate)
 
-ABL is not primary capital. It is capital shock absorption. It stabilizes the portfolio. It increases runway. It transforms illiquid positions into dynamic liquidity sources, especially inside energy, industrials, logistics, and heavy-asset verticals.
+Asset-Based Lending is not primary capital. It is capital shock absorption. It stabilizes the portfolio. It increases runway. It transforms illiquid positions into dynamic liquidity sources, especially inside energy, industrials, logistics, and heavy-asset verticals.
 
 The strategic mandate:
 
 • Monetize idle asset capacity 
 • Convert heavy equipment into institutional-grade collateral 
 • Deploy secondary liens without cross-contamination 
-• Consolidate energy assets into ABL-compatible clusters 
+• Consolidate energy assets into Asset-Based Lending-compatible clusters 
 • Engineer covenant-light liquidity corridors 
 • Create roll-forward financing for add-ons 
 
@@ -112,7 +112,7 @@ Hard assets create leverage. Smart covenants create liquidity. Status engineerin
 Special Mandates (10% Mandate)
 
 NAEOC Energy: 
-$50M–$250M energy positioning is ideal for Fund-III Principals. These assets have weight. Weight produces power. Power creates Sovereign liquidity. Energy assets can hold ABL structures without destabilizing LTV ratios, especially when combined with midstream or royalty overlays.
+$50M–$250M energy positioning is ideal for Fund-III Principals. These assets have weight. Weight produces power. Power creates Sovereign liquidity. Energy assets can hold Asset-Based Lending structures without destabilizing LTV ratios, especially when combined with midstream or royalty overlays.
 
 EU MiFID II Acquisition Mandates: 
 MiFID II platforms become fast-track institutional portals. Acquire one. Gain distribution rights. Gain cross-border passporting. Capital Structuring attaches instantly: regulatory status becomes a liquidity catalyst.

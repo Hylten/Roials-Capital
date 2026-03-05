@@ -1,6 +1,6 @@
 ---
 title: "Sovereign Stewardship and the New Mandate for Private Capital"
-description: "Institutional thesis on sovereign aligned private capital, Fund-III capital formation, liquidity engineering, ABL structures, and energy anchored acquisition frameworks for UHNWIs, LPs, and sovereign allocators"
+description: "Institutional thesis on sovereign aligned private capital, Fund-III capital formation, liquidity engineering, Asset-Based Lending structures, and energy anchored acquisition frameworks for UHNWIs, LPs, and sovereign allocators"
 date: "2024-02-26"
 author: "Jonas Hyltén"
 slug: "sovereign-wealth-management-private-capital-regime"
@@ -43,7 +43,7 @@ Five mechanics define the new sovereign-aligned GP:
 An LTV curve must compress risk exposure during years one to three. Sovereign allocators measure discipline by how quickly a fund eliminates unprotected exposure. A Fund-III that still tolerates wide spreads in early-year LTV is signalling an adolescent risk culture.
 
 2. Cash Flow Waterfalls 
-The waterfall must harden the senior position. ABL facilities cannot be treated as auxiliary funding. They are strategic instruments for sovereign velocity. Capital Structuring begins with asset segregation. The waterfall should produce predictable front-loaded recoverables. Predictable beats high. Always.
+The waterfall must harden the senior position. Asset-Based Lending facilities cannot be treated as auxiliary funding. They are strategic instruments for sovereign velocity. Capital Structuring begins with asset segregation. The waterfall should produce predictable front-loaded recoverables. Predictable beats high. Always.
 
 3. Recovery Factors 
 Recovery is not about asset quality. It is about operational choreography. The sovereigns track four variables: working capital inertia, maintenance capital absorption, receivable volatility, and energy exposure delta. If these numbers move unpredictably, the GP loses credibility.
@@ -65,8 +65,8 @@ This is the model:
 1. Kapitalanskaffning at 80 percent 
 Fund-III grows on the strength of disciplined capital formation. This is not capital raising. It is capital filtration. The GP accepts only LPs whose governance structure is compatible with sovereign-grade allocation. Sovereigns observe the alignment of the LP base before committing. If the LP base is unstable, sovereigns disengage.
 
-2. ABL and Strategic Collateralization at 10 percent 
-Every portfolio company becomes a liquidity instrument. The GP must demonstrate mastery of ABL sequencing. The ABL is not debt. It is structural liquidity. Good ABL design increases asset velocity. Poor ABL design traps working capital and destroys the acquisition thesis. Sovereigns track liquidity velocity long before they track EBITDA.
+2. Asset-Based Lending and Strategic Collateralization at 10 percent 
+Every portfolio company becomes a liquidity instrument. The GP must demonstrate mastery of Asset-Based Lending sequencing. The Asset-Based Lending is not debt. It is structural liquidity. Good Asset-Based Lending design increases asset velocity. Poor Asset-Based Lending design traps working capital and destroys the acquisition thesis. Sovereigns track liquidity velocity long before they track EBITDA.
 
 3. Special Mandates at 10 percent 
 These mandates determine institutional legitimacy. NAEOC 50M to 250M allocations require energy literacy, operational readiness, and geopolitical grounding. MiFID II acquisition pathways require compliance precision. Sovereigns do not tolerate improvisation. Special mandates are the proving ground.

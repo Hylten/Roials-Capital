@@ -1,6 +1,6 @@
 ---
 title: "The Evolution of Private Credit in 2026: The New Architecture of Institutional Liquidity"
-description: "A technical institutional briefing on the 2026 private credit regime shift, structural inefficiencies, capital stack reconfiguration, and the emerging role of liquidity engineering across Fund-III buyouts, ABL frameworks, and cross-border special mandates."
+description: "A technical institutional briefing on the 2026 private credit regime shift, structural inefficiencies, capital stack reconfiguration, and the emerging role of liquidity engineering across Fund-III buyouts, Asset-Based Lending frameworks, and cross-border special mandates."
 date: "2024-09-15"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "evolution-private-credit-2026-institutional-liquidity-architecture"
@@ -55,7 +55,7 @@ The strategic alignment framework is based on four operational pillars: market m
 
 Market Mapping
 
-Institutional counterparties require clarity on geographic strength zones, regulatory variance, and countercyclical asset pockets. Roials Capital organizes the landscape into definable clusters. These include: North American private credit exposures tied to industrial throughput, Alberta based heavy oil operators with measurable decline curves, EU regulated acquisition pathways for cross border consolidators, and US middle market operators requiring opportunistic bridge capital or ABL refinancing.
+Institutional counterparties require clarity on geographic strength zones, regulatory variance, and countercyclical asset pockets. Roials Capital organizes the landscape into definable clusters. These include: North American private credit exposures tied to industrial throughput, Alberta based heavy oil operators with measurable decline curves, EU regulated acquisition pathways for cross border consolidators, and US middle market operators requiring opportunistic bridge capital or Asset-Based Lending refinancing.
 
 Counterparty Verification
 
@@ -81,7 +81,7 @@ The Theology of Capital recognizes that liquidity is not merely a financial inst
 
 PHASE 5. THE PORTFOLIO CALIBRATION LENS
 
-In 2026, allocators require a recalibrated framework to assess private credit's role inside a multi sleeve institutional portfolio. The modern approach emphasizes: senior secured exposures with real collateral pathways, middle market buyout financing with cross collateral support, ABL lines that improve working capital efficiency, special mandates in Alberta heavy oil where decline curves support predictable underwriting, and EU MiFID II aligned acquisition finance with transparent governance protocols.
+In 2026, allocators require a recalibrated framework to assess private credit's role inside a multi sleeve institutional portfolio. The modern approach emphasizes: senior secured exposures with real collateral pathways, middle market buyout financing with cross collateral support, Asset-Based Lending lines that improve working capital efficiency, special mandates in Alberta heavy oil where decline curves support predictable underwriting, and EU MiFID II aligned acquisition finance with transparent governance protocols.
 
 The allocator’s decision point is not binary. It is architectural. The private credit sleeve functions as a stabilizing force that interacts with the broader portfolio by providing: balance sheet insulation, countercyclical return drivers, non correlated cash flows, and liquidity optionality for opportunistic event driven deployments.
 

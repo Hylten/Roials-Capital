@@ -1,6 +1,6 @@
 ---
 title: "Institutional Standards for Private Liquidity Engineering Agreements: The Roials Capital Framework"
-description: "A technical briefing on institutional-grade Monetization Architecture structures, balance sheet optimization protocols, and the Roials Capital alignment architecture for Fund-III environments, ABL mandates, and capital acquisition workflows across North America and Europe."
+description: "A technical briefing on institutional-grade Monetization Architecture structures, balance sheet optimization protocols, and the Roials Capital alignment architecture for Fund-III environments, Asset-Based Lending mandates, and capital acquisition workflows across North America and Europe."
 date: "2023-07-28"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-liquidity-engineering-standards-roials-capital-framework"
@@ -85,7 +85,7 @@ This is the dominant mandate. Roials Capital works with global LP bases, family 
 The result is a capital stack that supports acquisition velocity rather than constraining it.
 
 2. Institutional Liquidity Paths for Operational Precision 
-For acquisition groups requiring tactical liquidity, Roials Capital provides access to institutional private credit structures that respect regulatory frameworks and avoid the pitfalls of traditional ABL. These facilities are aligned with operational cadence and avoid borrower fatigue from constant covenant renegotiation.
+For acquisition groups requiring tactical liquidity, Roials Capital provides access to institutional private credit structures that respect regulatory frameworks and avoid the pitfalls of traditional Asset-Based Lending. These facilities are aligned with operational cadence and avoid borrower fatigue from constant covenant renegotiation.
 
 3. Special Mandates for Advanced Energy and EU M&A 
 For energy mandates between 50 million and 250 million, Roials Capital provides strategic introductions to NAEO, a technical operator in the Alberta energy basin with institutional grade governance. Engagement centers on:

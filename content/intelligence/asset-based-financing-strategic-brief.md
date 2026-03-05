@@ -82,7 +82,7 @@ This increases deal acceptance. It accelerates closing. It lowers negotiation re
 ***
 
 Institutional Liquidity Paths FOR PRIVATE WEALTH 
-ABL-Asset‑Based Lending-is only 10% of the brand focus, but its impact on private wealth is disproportionate. Private wealth does not fear illiquidity. It fears forced liquidation. ABF solves the problem permanently.
+Asset-Based Lending-Asset‑Based Lending-is only 10% of the brand focus, but its impact on private wealth is disproportionate. Private wealth does not fear illiquidity. It fears forced liquidation. ABF solves the problem permanently.
 
 Three core outcomes matter:
 

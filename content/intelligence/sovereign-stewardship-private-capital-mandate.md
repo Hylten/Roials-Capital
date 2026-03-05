@@ -27,7 +27,7 @@ Institutional capital now operates under three pressures: yield scarcity, energy
 
 The architecture begins with controlled concentration. The modern buyout strategy requires precision, not volume. Add-ons function as strategic hardeners. No drift. No thematic sprawl. Structure first. Geography second. Timing third. Sequence shapes return.
 
-Private credit continues its rise, but only those with operational teeth will survive the next correction cycle. Credit must integrate with acquisition logic. Strategic Collateralization must sit within the same command center. Asset-backed lending (ABL) is shifting from emergency-use to strategic-use. Capital becomes the stabilizer. Capital becomes the shield. Capital becomes the accelerant.
+Private credit continues its rise, but only those with operational teeth will survive the next correction cycle. Credit must integrate with acquisition logic. Strategic Collateralization must sit within the same command center. Asset-backed lending (Asset-Based Lending) is shifting from emergency-use to strategic-use. Capital becomes the stabilizer. Capital becomes the shield. Capital becomes the accelerant.
 
 Machine gun syntax. Clean lines. Sharp turns.
 
@@ -35,7 +35,7 @@ Markets move. We move faster.
 
 ---
 
-Sovereign LPs are adjusting to a geopolitical reality that demands asset sovereignty. Energy exposure once treated as cyclical is now structural. U.S. onshore production remains the anchor of supply security. Mid-market energy operators need consolidation. Professionalization. Capital discipline. They require a Fund-III model that pairs buyout authority with ABL precision and covenant-intelligent credit structuring.
+Sovereign LPs are adjusting to a geopolitical reality that demands asset sovereignty. Energy exposure once treated as cyclical is now structural. U.S. onshore production remains the anchor of supply security. Mid-market energy operators need consolidation. Professionalization. Capital discipline. They require a Fund-III model that pairs buyout authority with Asset-Based Lending precision and covenant-intelligent credit structuring.
 
 This is where the NAEOC mandate enters. Check sizes: $50M to $250M. North American energy, upstream-to-midstream. Operational uplift. Hard assets only. Tangible value. Physical resilience. No abstractions.
 
@@ -59,9 +59,9 @@ Sovereign LPs understand the compound effect of jurisdictional positioning. Capi
 
 Capital Structuring must now be institutional. Not reactive. Not discretionary. Structured. Forecastable. Repeatable. Institutions no longer accept liquidity risk as an operational byproduct. Liquidity must be architected with the same intentionality as ownership.
 
-ABL is the mechanism. Asset-backed precision. Covenant discipline. Collateral intelligence. ABL converts operational assets into strategic ammunition. Energy, industrials, logistics, specialized manufacturing-each operates on hard assets that can be transformed into liquidity reservoirs.
+Asset-Based Lending is the mechanism. Asset-backed precision. Covenant discipline. Collateral intelligence. Asset-Based Lending converts operational assets into strategic ammunition. Energy, industrials, logistics, specialized manufacturing-each operates on hard assets that can be transformed into liquidity reservoirs.
 
-ABL protects downside. Buyout multiples protect upside. Add-ons lock in scale. Asset-Backed Frameworks stitches the entire architecture together.
+Asset-Based Lending protects downside. Buyout multiples protect upside. Add-ons lock in scale. Asset-Backed Frameworks stitches the entire architecture together.
 
 Machine gun cadence.
 
@@ -105,7 +105,7 @@ Private capital must flow to what endures. Sovereign capital must flow to what s
 
 Fund-III is architected for a world where the most valuable asset is not capital itself, but capital with governance. Stewardship with authority. Ownership with clarity.
 
-Institutional LPs require frameworks that produce predictability in unpredictable environments. Fund-III offers that framework through buyout logic, add-on discipline, ABL structuring, and special-mandate execution in energy and regulated-financial acquisitions.
+Institutional LPs require frameworks that produce predictability in unpredictable environments. Fund-III offers that framework through buyout logic, add-on discipline, Asset-Based Lending structuring, and special-mandate execution in energy and regulated-financial acquisitions.
 
 Machine gun clarity.
 

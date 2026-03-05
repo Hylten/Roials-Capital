@@ -30,7 +30,7 @@ PHASE 2. TECHNICAL MECHANICS
 Institutional grade infrastructure is not a slogan. It is quantifiable. It lives in LTV curves, cash flow waterfalls, recovery factors, and covenant integrity. Every metric must operate with surgical clarity.
 
 LTV Curves:
-The modern private credit environment has compressed tolerance for loose collateral calibration. The LTV curve must be dynamic, not static. We design ABL and hybrid stacks that adjust borrowing bases using weighted degradation coefficients. Hard assets receive slow decay coefficients. Working capital receivables receive fast decay coefficients. The result is a self correcting borrowing base that protects both senior lenders and equity holders.
+The modern private credit environment has compressed tolerance for loose collateral calibration. The LTV curve must be dynamic, not static. We design Asset-Based Lending and hybrid stacks that adjust borrowing bases using weighted degradation coefficients. Hard assets receive slow decay coefficients. Working capital receivables receive fast decay coefficients. The result is a self correcting borrowing base that protects both senior lenders and equity holders.
 
 Waterfall Architecture:
 A proper waterfall is a governance system, not a payout chart. We implement priority of proceeds with embedded scenario stressors. The waterfall must incorporate distressed carve outs, snap back triggers for interest reserve rebuilds, and controlled paydown channels for hardening the equity cushion. When liquidity is constrained, the waterfall becomes the governor that prevents institutional breach.
@@ -53,7 +53,7 @@ Buyout and Add on Grid:
 Most integration failures come from chaos in mapping control rights. Our grid forces a three layer structure. Asset integrity layer. Cash flow control layer. Decision rights layer. Once these are established, add ons become accretive rather than destabilizing. The GP gains operational certainty. LPs gain visibility. The system enforces discipline.
 
 Institutional Liquidity Paths:
-ABL and structured credit are not liquidity tools. They are institutional stabilizers. We engineer liquidity so that the balance sheet becomes an offensive asset. Cash is created on command. This is the foundation that separates disciplined GPs from deal hobbyists.
+Asset-Based Lending and structured credit are not liquidity tools. They are institutional stabilizers. We engineer liquidity so that the balance sheet becomes an offensive asset. Cash is created on command. This is the foundation that separates disciplined GPs from deal hobbyists.
 
 Special Mandates:
 Energy allocations require non sentimental clarity. NAEOC mandates between 50M and 250M must be treated as operational sovereignty projects. EU MiFID II acquisitions require compliance gridlocks to be solved before capital deployment. Our team treats special mandates as mathematical problems, not political ones.

@@ -77,8 +77,8 @@ Fund-III capital formation rewards the disciplined allocator. The path to capita
 1. Capital Raising for Fund-III 
 Eighty percent of the mandate focuses on bringing fresh institutional capital into the acquisition engine. LPs reward predictability, but they invest in conviction. They want a manager who knows the difference between leverage and dependency. Capital is raised on a simple premise. Every dollar entering Fund-III multiplies because the balance sheet has been engineered to release existing trapped value. LPs do not invest only in assets. They invest in the refusal to waste them.
 
-2. ABL Asset-Backed Frameworks 
-Ten percent of the mandate is asset backed liquidity structures that do not disrupt control. ABL should be treated as a liquidity membrane. It provides flexibility without contaminating strategic direction. ABL is not about solving cash shortfalls. It is about maintaining positional advantage in acquisition cycles. Build the liquidity membrane correctly and the firm never needs to accelerate or delay deals based on liquidity timing. The institution stays in control.
+2. Asset-Based Lending Asset-Backed Frameworks 
+Ten percent of the mandate is asset backed liquidity structures that do not disrupt control. Asset-Based Lending should be treated as a liquidity membrane. It provides flexibility without contaminating strategic direction. Asset-Based Lending is not about solving cash shortfalls. It is about maintaining positional advantage in acquisition cycles. Build the liquidity membrane correctly and the firm never needs to accelerate or delay deals based on liquidity timing. The institution stays in control.
 
 3. Special Mandates 
 Another ten percent sits in mandates that extend authority beyond the core. Two areas dominate.

@@ -1,6 +1,6 @@
 ---
 title: "The Strategic Role of Yield in True Asset Hardening for Fund-III Mandates"
-description: "Institutional brief on yield mechanics, capital durability, and multi‑jurisdictional structuring for buyouts, ABL liquidity engineering, and energy mandates under Fund‑III architecture."
+description: "Institutional brief on yield mechanics, capital durability, and multi‑jurisdictional structuring for buyouts, Asset-Based Lending liquidity engineering, and energy mandates under Fund‑III architecture."
 date: "2025-06-27"
 author: "Roials-Capital"
 slug: "strategic-yield-in-asset-hardening"
@@ -29,7 +29,7 @@ Yield must be decomposed into three layers: operational yield, jurisdictional yi
 This is the classical layer. Cash flow yield. EBITDA-to-cash translation. Working capital velocity. Inventory momentum. AR discipline. AP sequencing. Most managers stop here. That is why they raise for Fund‑I and Fund‑II, then stall at Fund‑III. Fund‑III requires structural sophistication. Operational yield is necessary, but insufficient.
 
 2. Jurisdictional Yield 
-This is where outperformance begins. Jurisdictional yield is the differential created by regulatory altitude: MiFID II, PRIIPs, AIFMD corridors, Delaware vs. Luxembourg vs. UAE DIFC stack, statutory lien advantage, repo eligibility, off-balance liquidity access, ABL carve-out optimization. When capital sits inside a high-yield jurisdiction, its hardening curve accelerates without requiring incremental operational risk.
+This is where outperformance begins. Jurisdictional yield is the differential created by regulatory altitude: MiFID II, PRIIPs, AIFMD corridors, Delaware vs. Luxembourg vs. UAE DIFC stack, statutory lien advantage, repo eligibility, off-balance liquidity access, Asset-Based Lending carve-out optimization. When capital sits inside a high-yield jurisdiction, its hardening curve accelerates without requiring incremental operational risk.
 
 3. Sovereignty Yield 
 The final layer. Sovereignty yield is the degree to which the asset can self-finance through internal reserves, privileged seniority, or strategic control points. This yield is not paid out. It is retained as defense. It is the force that allows a portfolio company to negotiate debt terms rather than accept them. It is the power to expand in distress while competitors contract. Sovereignty yield is empire capital.
@@ -62,13 +62,13 @@ Yield is the lever that collapses these four vectors into one trajectory.
 
 ---
 
-THE ROLE OF YIELD IN ABL AND Capital Structuring (10% CAPITAL FOCUS)
+THE ROLE OF YIELD IN Asset-Based Lending AND Capital Structuring (10% CAPITAL FOCUS)
 
-ABL is where yield meets velocity. Monetization Architecture is where yield becomes optionality.
+Asset-Based Lending is where yield meets velocity. Monetization Architecture is where yield becomes optionality.
 
-ABL yield is not interest rate. ABL yield is collateral efficiency. The question is not “what is the borrowing base?”, but “how many basis points of yield are extracted from each collateral dollar while maintaining covenant airspace?”
+Asset-Based Lending yield is not interest rate. Asset-Based Lending yield is collateral efficiency. The question is not “what is the borrowing base?”, but “how many basis points of yield are extracted from each collateral dollar while maintaining covenant airspace?”
 
-Key ABL hardening levers:
+Key Asset-Based Lending hardening levers:
 
 - AR velocity: compress days sales outstanding; convert accounts into yield. 
 - Inventory liquidity: restructure SKUs; reclassify for higher advance rates. 
@@ -76,7 +76,7 @@ Key ABL hardening levers:
 - Senior-first stacking: position revolvers to capture preferential lien yield. 
 - Embedded redemptions: generate self-liquidating cycles that strengthen the asset’s spine. 
 
-ABL yield increases optionality yield. Optionality yield is the ability to choose timing under imperfect conditions. Timing is power. Power is hardening.
+Asset-Based Lending yield increases optionality yield. Optionality yield is the ability to choose timing under imperfect conditions. Timing is power. Power is hardening.
 
 ---
 
@@ -165,9 +165,9 @@ Hardening is not magic. It is engineering.
 
 ---
 
-THE STRATEGIC INTERPLAY BETWEEN BUYOUTS, ABL, AND ENERGY YIELD
+THE STRATEGIC INTERPLAY BETWEEN BUYOUTS, Asset-Based Lending, AND ENERGY YIELD
 
-Fund‑III is strongest when its yield system is integrated. Buyouts produce operational yield. ABL enhances liquidity yield. Energy mandates produce hard asset yield. Together, they create a multi-yield ecosystem capable of absorbing both credit tightening and geopolitical volatility.
+Fund‑III is strongest when its yield system is integrated. Buyouts produce operational yield. Asset-Based Lending enhances liquidity yield. Energy mandates produce hard asset yield. Together, they create a multi-yield ecosystem capable of absorbing both credit tightening and geopolitical volatility.
 
 A hardened portfolio is not a portfolio. It is an economic organism.
 

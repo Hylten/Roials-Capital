@@ -103,7 +103,7 @@ Roials-Capital standardizes:
 When governance is disciplined, capital becomes predictable.
 
 IV. Asset-Backed Frameworks – Principal Tier (10%) 
-This is Roials-Capital’s proprietary segment. Asset‑Based Liquidity (ABL) is used not as leverage but as a stabilizer. Liquidity is engineered, not borrowed.
+This is Roials-Capital’s proprietary segment. Asset‑Based Liquidity (Asset-Based Lending) is used not as leverage but as a stabilizer. Liquidity is engineered, not borrowed.
 
 Use cases include: 
 • Bridge liquidity for asset repositioning 
@@ -111,7 +111,7 @@ Use cases include:
 • Digital or financial hardening on operational assets 
 • Covenant reinforcement during acquisition cycles
 
-ABL is engineered across asset classes: 
+Asset-Based Lending is engineered across asset classes: 
 • Oil and gas (NAEOC) 
 • Energy infrastructure 
 • Industrials 

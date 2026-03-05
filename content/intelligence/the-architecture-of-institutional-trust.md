@@ -44,18 +44,18 @@ Private credit at the institutional level is quiet, precise, and designed to hol
  
 ## The Role of Asset Based Monetization Architecture
 
-Asset Based Monetization Architecture, ABL, is the defining mechanism that converts balance sheet strength into strategic liquidity. It shifts static value into active capital. 
+Asset Based Monetization Architecture, Asset-Based Lending, is the defining mechanism that converts balance sheet strength into strategic liquidity. It shifts static value into active capital. 
 
 The principle is simple. The execution is not. 
 
-True institutional ABL requires a deep understanding of asset behavior under stress conditions. Real value is revealed when markets contract. ABL must therefore evaluate both the present state of the asset and its performance under negative compression scenarios. 
+True institutional Asset-Based Lending requires a deep understanding of asset behavior under stress conditions. Real value is revealed when markets contract. Asset-Based Lending must therefore evaluate both the present state of the asset and its performance under negative compression scenarios. 
 
-At Roials Capital, ABL is engineered as a protective structure. We respect the physics of each asset class, from private holdings to specialized collateral. 
+At Roials Capital, Asset-Based Lending is engineered as a protective structure. We respect the physics of each asset class, from private holdings to specialized collateral. 
 
 The objective is always the same. 
 Create liquidity without eroding the integrity of the underlying asset. 
 
-HNWI and UHNW clients require liquidity that does not compromise position. ABL becomes the mechanism that allows them to retain control, maintain optionality, and protect strategic timing. 
+HNWI and UHNW clients require liquidity that does not compromise position. Asset-Based Lending becomes the mechanism that allows them to retain control, maintain optionality, and protect strategic timing. 
 
  
 ## Crypto Institutional Liquidity Paths as an Institutional Discipline
@@ -169,7 +169,7 @@ Strategic credit availability.
 
 The objective is not to maximize liquidity at all times. It is to ensure that liquidity emerges exactly where and when it is needed. 
 
-Roials Capital integrates private credit, ABL, crypto Asset-Backed Frameworks, and public share Monetization Architecture into a coherent liquidity architecture. 
+Roials Capital integrates private credit, Asset-Based Lending, crypto Asset-Backed Frameworks, and public share Monetization Architecture into a coherent liquidity architecture. 
 
 Each layer reinforces the others. 
 Each layer reduces friction. 

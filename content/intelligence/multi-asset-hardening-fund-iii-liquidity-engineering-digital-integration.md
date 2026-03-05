@@ -90,8 +90,8 @@ Roials Capital operates as a strategic navigator, not as a manager of digital as
 Primary: Buyouts, add ons, middle market platform consolidation. 
 The role of digital assets here is not directional positioning. They are used for liquidity bridging, underwriting velocity, and acquisitions under accelerated timelines.
 
-2. ABL and Capital Structuring 
-Institutional ABL facilities frequently fail due to inadequate collateral composition. Adding a liquid digital collateral layer reduces overcollateralization, increases certainty of close, and strengthens counterparty confidence.
+2. Asset-Based Lending and Capital Structuring 
+Institutional Asset-Based Lending facilities frequently fail due to inadequate collateral composition. Adding a liquid digital collateral layer reduces overcollateralization, increases certainty of close, and strengthens counterparty confidence.
 
 3. Special Mandates 
 NAEOC energy transactions between 50M and 250M remain structurally attractive due to Alberta's asset maturity and predictable production physics. 

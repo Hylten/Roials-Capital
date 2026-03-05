@@ -105,7 +105,7 @@ Fund-III requires four optionality channels:
 • Contract monetization 
 • Corporate restructuring arbitrage 
 
-ABL (Asset-Backed Frameworks) plays a critical role. Not as a cost center. As a precursor to institutional commitment. Lenders trust liquidity architecture. LPs trust lender behavior. Optionality creates alignment.
+Asset-Based Lending (Asset-Backed Frameworks) plays a critical role. Not as a cost center. As a precursor to institutional commitment. Lenders trust liquidity architecture. LPs trust lender behavior. Optionality creates alignment.
 
 This is the silent sequence that institutional investors now expect.
 
@@ -200,7 +200,7 @@ This distinction matters.
 
 ---
 
-Asset-Backed Frameworks is the hidden engine of modern private equity. ABL is no longer a distressed tool. It is a velocity amplifier. Institutions now demand:
+Asset-Backed Frameworks is the hidden engine of modern private equity. Asset-Based Lending is no longer a distressed tool. It is a velocity amplifier. Institutions now demand:
 
 • Borrowing base transparency 
 • Covenant flexibility 
@@ -208,9 +208,9 @@ Asset-Backed Frameworks is the hidden engine of modern private equity. ABL is no
 • Advance-rate realism 
 • Multi-draw capability 
 
-Silent authority in Institutional Liquidity Paths depends on control. Not price. Not terms. Control. The sponsor must have immediate liquidity windows that require no negotiation. Fund-III integrates ABL as a foundational layer, not a rescue mechanism.
+Silent authority in Institutional Liquidity Paths depends on control. Not price. Not terms. Control. The sponsor must have immediate liquidity windows that require no negotiation. Fund-III integrates Asset-Based Lending as a foundational layer, not a rescue mechanism.
 
-ABL is optional liquidity. Optional liquidity is silent authority.
+Asset-Based Lending is optional liquidity. Optional liquidity is silent authority.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "The Principal Architecture of Collateralized Liquidity"
-description: "Institutional analysis of liquidity engineering, collateralized flow mechanics, and capital hardening frameworks for Private Credit, ABL, and Fund-III buyout structures."
+description: "Institutional analysis of liquidity engineering, collateralized flow mechanics, and capital hardening frameworks for Private Credit, Asset-Based Lending, and Fund-III buyout structures."
 date: "2025-09-09"
 author: "Jonas Hyltén"
 slug: "collateralized-liquidity-architecture"
@@ -15,7 +15,7 @@ Order is not an option.
 
 I treat collateralized liquidity as a living architecture. Cash is the bloodstream. Collateral is the bone structure. Covenants are the connective tissue. When these three are not engineered as one unified organism, the facility decays, spreads inefficiency, and drags down the GP's capacity to deploy into higher velocity situations.
 
-This is the regime shift that is now reshaping private credit and ABL. Capital is expensive. Time is even more expensive. And inefficiency is unforgivable.
+This is the regime shift that is now reshaping private credit and Asset-Based Lending. Capital is expensive. Time is even more expensive. And inefficiency is unforgivable.
 
 PHASE 1: THE REGIME SHIFT
 
@@ -31,7 +31,7 @@ Delays in underwriting wipe out portfolio-level IRR more aggressively than rate 
 2. Declining quality of borrower collateral. 
 Receivables are diluted. Inventory is misclassified. Equipment is not revalued. Land is encumbered. Traditional banks still attempt to solve this with bureaucracy. Private credit funds that embrace collateral intelligence instead of documentation bloat are taking market share.
 
-This is why collateralized liquidity is no longer a defensive tactic. It is an offensive instrument. The GP who masters this architecture gains asymmetric advantage in buyouts, ABL, and energy-backed facilities. Fund-III strategies depend on it, because the LP base has matured. They do not reward theory. They reward precision.
+This is why collateralized liquidity is no longer a defensive tactic. It is an offensive instrument. The GP who masters this architecture gains asymmetric advantage in buyouts, Asset-Based Lending, and energy-backed facilities. Fund-III strategies depend on it, because the LP base has matured. They do not reward theory. They reward precision.
 
 PHASE 2: TECHNICAL MECHANICS
 
@@ -72,7 +72,7 @@ Collateralized liquidity becomes an art form when these mechanics converge. At t
 
 PHASE 3: THE STRATEGIC MODEL
 
-Fund-III requires a hybrid capital architecture. It must raise institutional capital for buyouts and add-ons. It must maintain ABL capability to unlock liquidity for operating companies. And it must execute special mandates with precision, particularly in energy.
+Fund-III requires a hybrid capital architecture. It must raise institutional capital for buyouts and add-ons. It must maintain Asset-Based Lending capability to unlock liquidity for operating companies. And it must execute special mandates with precision, particularly in energy.
 
 The structure we use is built on three operational cylinders.
 
@@ -86,10 +86,10 @@ Institutional LPs are not buying stories. They are buying governance. Fund-III c
 
 The message is simple. Fund-III does not chase yield. It manufactures yield through engineered liquidity.
 
-Cylinder 2: ABL as Monetization Architecture. 
-Asset based lending is often misunderstood as a low-margin product. That is inaccurate for an LP-caliber fund. ABL is the extraction of trapped liquidity without selling the underlying asset. It is leverage without expansion of risk. It is the operational engine that improves IRR at the fund level by accelerating cash conversion.
+Cylinder 2: Asset-Based Lending as Monetization Architecture. 
+Asset based lending is often misunderstood as a low-margin product. That is inaccurate for an LP-caliber fund. Asset-Based Lending is the extraction of trapped liquidity without selling the underlying asset. It is leverage without expansion of risk. It is the operational engine that improves IRR at the fund level by accelerating cash conversion.
 
-ABL is not lending. ABL is Capital Structuring.
+Asset-Based Lending is not lending. Asset-Based Lending is Capital Structuring.
 
 Cylinder 3: Special mandates. 
 NAEOC mandates in the 50M to 250M range require a collateral hardening approach that banks cannot match. Energy assets are volatile. But they are also predictable when collateral intelligence is applied. European MiFID II acquisition mandates depend on precision due diligence and regulatory clarity. None of this is speculative. It is structural intelligence. And structural intelligence requires a fund that treats collateral as the primary language of capital.

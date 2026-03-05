@@ -50,9 +50,9 @@ Cash-flow waterfalls require similar discipline. The optimal waterfall for cross
 - Divergent netting conventions.
 - Two-tier escrow requirements.
 
-ABL integration becomes the hardening accelerator. Properly engineered, ABL acts as a jurisdictional equaliser. Covenant sets are significantly more powerful in cross-border environments because they override weaker legal ecosystems. ABL is not the liquidity tool. It is the enforcement weapon.
+Asset-Based Lending integration becomes the hardening accelerator. Properly engineered, Asset-Based Lending acts as a jurisdictional equaliser. Covenant sets are significantly more powerful in cross-border environments because they override weaker legal ecosystems. Asset-Based Lending is not the liquidity tool. It is the enforcement weapon.
 
-The model for North American Energy Operating Companies (NAEOC) inside the 50M to 250M EBITDA corridor illustrates this. ABL facilities anchored to physical inventory with verified uplift factors provide enforceable seniority even under operational interruption. When paired with Fund-III buyout or add-on structures, Monetization Architecture reduces the cost of capital by producing predictable recovery ranges. Private credit becomes secondary. Control becomes primary.
+The model for North American Energy Operating Companies (NAEOC) inside the 50M to 250M EBITDA corridor illustrates this. Asset-Based Lending facilities anchored to physical inventory with verified uplift factors provide enforceable seniority even under operational interruption. When paired with Fund-III buyout or add-on structures, Monetization Architecture reduces the cost of capital by producing predictable recovery ranges. Private credit becomes secondary. Control becomes primary.
 
 Technical precision is stewardship.
 
@@ -67,7 +67,7 @@ Frame Two: Control-Dominant Structuring
 Minority protections are insufficient. Hardening requires actual control. Not the illusion of it. Each Fund-III acquisition or add-on follows a two-layer control schema. Operational control through board architecture. Cash-flow control through banking and escrow architecture. Control is the asset. The operating company is the instrument.
 
 Frame Three: Multi-Domain Liquidity Anchoring 
-Liquidity must not depend on market sentiment. It must be engineered. ABL facilities, structured credit tranches, and multi-currency forward coverage form a three-point stabilisation system. ABL provides immediacy. Structured credit provides depth. FX forward structures provide insulation. This prevents cash-flow collapse during geopolitical stress.
+Liquidity must not depend on market sentiment. It must be engineered. Asset-Based Lending facilities, structured credit tranches, and multi-currency forward coverage form a three-point stabilisation system. Asset-Based Lending provides immediacy. Structured credit provides depth. FX forward structures provide insulation. This prevents cash-flow collapse during geopolitical stress.
 
 Institutional LPs understand this language. They monitor recovery windows, not return brochures. They evaluate legal seniority, not slide decks. A Fund-III structure that respects their expectations commands capital velocity that weaker funds cannot emulate.
 

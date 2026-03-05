@@ -43,7 +43,7 @@ Some assets protect against volatility.
 
 Some assets anchor long term continuity.
 
-Private credit and ABL function as cross‑system infrastructure. They connect assets and liquidity in ways that remove vulnerability.
+Private credit and Asset-Based Lending function as cross‑system infrastructure. They connect assets and liquidity in ways that remove vulnerability.
 
 ## How Sovereign Thinkers Avoid Forced Decisions
 
@@ -133,7 +133,7 @@ This is where structural Institutional Liquidity Paths becomes not just a tool, 
 
 It begins with the decision to step out of reactive wealth patterns and into designed wealth ecosystems.
 
-It continues with the deliberate integration of private credit and ABL as strategic, not tactical, components.
+It continues with the deliberate integration of private credit and Asset-Based Lending as strategic, not tactical, components.
 
 It matures into a lifelong practice of engineering liquidity, protecting core assets, and maintaining uninterrupted ownership.
 

@@ -1,6 +1,6 @@
 ---
 title: "The Mechanics of Institutional Capital Migration Across Cycles and Regimes"
-description: "A high density institutional analysis of capital migration drivers, structural inefficiencies, and the strategic positioning required for allocators navigating Fund-III buyout environments, ABL liquidity engineering, and North American energy mandates."
+description: "A high density institutional analysis of capital migration drivers, structural inefficiencies, and the strategic positioning required for allocators navigating Fund-III buyout environments, Asset-Based Lending liquidity engineering, and North American energy mandates."
 date: "2023-02-28"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-capital-migration-mechanics"
@@ -45,7 +45,7 @@ Fund-III portfolios typically concentrate on acquisition engines with add on cap
 • Capital Requests Shift From Validation to Scaling 
 By Fund-III, the migration pattern shifts from validation to scaling. Capital no longer validates the strategy. Capital scales it. Allocators migrate toward Fund-III vehicles when they identify a dislocation between operational capability and available balance sheet firepower. This is a structural theme in kapitalanskaffning for managers positioned for inorganic expansion.
 
-PRIVATE CREDIT: ABL AND Capital Structuring 
+PRIVATE CREDIT: Asset-Based Lending AND Capital Structuring 
 Migration into private credit is a function of three mechanics:
 
 • LTV Curve Compression 
@@ -108,7 +108,7 @@ PHASE 5: DECISION MAKING LENS FOR THE ALLOCATOR
 Allocators operating in the current regime face three critical decisions:
 
 • Capital Concentration 
-Where are the structural vacuums that create mispriced durability. Current data indicates private buyouts in Fund-III environments, ABL facilities with quantifiable collateral bases, and Alberta heavy oil operated by technical teams like NAEO.
+Where are the structural vacuums that create mispriced durability. Current data indicates private buyouts in Fund-III environments, Asset-Based Lending facilities with quantifiable collateral bases, and Alberta heavy oil operated by technical teams like NAEO.
 
 • Structure Before Exposure 
 Allocators benefit from analyzing structure before analyzing return projections. Migration patterns follow structure, not output. Balance sheet optimization, cross collateralization, operational predictability, and transparent cash flow waterfalls remain the most reliable signals.

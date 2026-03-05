@@ -53,7 +53,7 @@ The GP must internalize the mechanics. Liquidity is an engineered artifact. Not 
 
 For Fund‑III, the facility is the institutional heart. The only point that cannot fail.
 
-Capital raising (kapitalanskaffning) absorbs 80 percent of the institutional bandwidth. ABL consumes 10 percent. Mandate-specific structuring consumes the rest. But liquidity sits silently underneath all three. It determines the credibility multiple.
+Capital raising (kapitalanskaffning) absorbs 80 percent of the institutional bandwidth. Asset-Based Lending consumes 10 percent. Mandate-specific structuring consumes the rest. But liquidity sits silently underneath all three. It determines the credibility multiple.
 
 When a GP shows a sovereign facility in the data room, the LP conversation changes tempo. It becomes a calibration exercise, not a persuasion exercise. Liquidity breeds confidence. Confidence breeds rapid allocation. Precision structure delivers both.
 
@@ -89,7 +89,7 @@ Energy mandates, especially NAEOC $50M–$250M, require structures that accommod
 
 One facility. Multiple tempos. Zero redesigns.
 
-This is where Facility Symmetry matters. When the same facility powers acquisitions, working capital, ABL overlays, and special mandates, the GP gains structural supremacy. The LP perceives an institutional chassis rather than tactical improvisation.
+This is where Facility Symmetry matters. When the same facility powers acquisitions, working capital, Asset-Based Lending overlays, and special mandates, the GP gains structural supremacy. The LP perceives an institutional chassis rather than tactical improvisation.
 
 Institutional chassis wins commitments.
 
@@ -105,9 +105,9 @@ Asset hardening becomes the derivative benefit. Not the objective. Hardening occ
 
 Precision liquidity protects value like architecture.
 
-ABL facilities play a supportive role. They must integrate into the sovereign perimeter without contaminating covenant hierarchy. They must obey the master facility. They must enhance operational cash, not redefine structural liquidity.
+Asset-Based Lending facilities play a supportive role. They must integrate into the sovereign perimeter without contaminating covenant hierarchy. They must obey the master facility. They must enhance operational cash, not redefine structural liquidity.
 
-The sovereign facility leads. ABL follows. Special mandates harmonize.
+The sovereign facility leads. Asset-Based Lending follows. Special mandates harmonize.
 
 The GP becomes system operator. Not borrower. Not petitioner. Operator. That shift changes the entire institutional calculus.
 

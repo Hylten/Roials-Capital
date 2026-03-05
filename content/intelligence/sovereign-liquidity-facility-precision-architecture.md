@@ -83,8 +83,8 @@ The strategic model contains three parallel tracks.
 Track 1: Capital Raising Infrastructure
 The credibility of Fund-III increases when the macro environment of our counterparties is stabilized. LPs allocate aggressively when they observe disciplined liquidity pathways at the sovereign level. Our narrative is simple. We do not speculate on environment. We engineer environment.
 
-Track 2: Asset-Backed Frameworks for ABL Channels
-Facility mechanics at the sovereign level translate directly into corporate ABL discipline. The same principles apply:
+Track 2: Asset-Backed Frameworks for Asset-Based Lending Channels
+Facility mechanics at the sovereign level translate directly into corporate Asset-Based Lending discipline. The same principles apply:
 - Hard collateral
 - Sequenced waterfalls
 - Predictable recovery

@@ -72,7 +72,7 @@ Roials-Capital structures asset based Asset-Backed Frameworks with surgical disc
 
 Tokenized real estate does not fundamentally alter our risk architecture, it simply creates more refined collateral inputs. 
 
-In traditional ABL, the collateral verification cycle is slow. Legal reaffirmation, valuation windows, title clarity, and other steps add latency. 
+In traditional Asset-Based Lending, the collateral verification cycle is slow. Legal reaffirmation, valuation windows, title clarity, and other steps add latency. 
 
 With tokenized real estate, the verification cycle condenses. The digital wrapper provides instant clarity on ownership, fractionalization, transfer history, and settlement integrity. 
 
@@ -190,7 +190,7 @@ In this future state:
 • Properties become liquidity reservoirs. 
 • Tokens become programmable conduits. 
 • Private credit becomes the distribution engine. 
-• ABL becomes the structural anchor. 
+• Asset-Based Lending becomes the structural anchor. 
 
 Roials-Capital positions itself in the structural layer, not the speculative surface. 
 
@@ -204,7 +204,7 @@ It is recognized.
 
 Roials-Capital operates with silent authority because our function is structural, not promotional. 
 
-Our Institutional Liquidity Paths framework against private credit and ABL assets is engineered for investors who do not need persuasion. 
+Our Institutional Liquidity Paths framework against private credit and Asset-Based Lending assets is engineered for investors who do not need persuasion. 
 They need clarity. 
 They need speed. 
 They need reliability. 

@@ -97,7 +97,7 @@ High‑net‑worth entrepreneurs understand this intuitively. Whenever liquidity
 
 Our Strategic Collateralization mechanics preserve opacity. 
 
-Private credit, ABL systems, crypto Capital Structuring, and public share Capital Structuring are structured to avoid unnecessary market exposure. 
+Private credit, Asset-Based Lending systems, crypto Capital Structuring, and public share Capital Structuring are structured to avoid unnecessary market exposure. 
 
 The client moves. 
 The market does not notice. 

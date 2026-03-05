@@ -71,7 +71,7 @@ Institutional allocators exhibit differentiated archetypes: return maximizers, d
 2. Capital Introduction Across Multi Mandate Channels 
 The capital introduction framework covers 
 - 80 percent Kapitalanskaffning for Fund-III and successor buyout platforms with real estate heavy balance sheets 
-- 10 percent ABL structures optimized for Asset-Backed Frameworks within sovereign portfolios 
+- 10 percent Asset-Based Lending structures optimized for Asset-Backed Frameworks within sovereign portfolios 
 - 10 percent special mandates for cross sector allocators, including NAEO for North American energy and EU MiFID II regulated entities 
 
 Roials Capital operates as an introducer, not a manager, and maintains the institutional separation required for multi jurisdictional compliance.

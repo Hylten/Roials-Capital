@@ -55,12 +55,12 @@ For UHNW families, the new liquidity standard produces strategic armor. Not leve
 The structural void in most UHNW portfolios is Strategic Collateralization. Wealth managers avoid it. Banks restrict it. Advisors fear it. Meanwhile, institutional sponsors treat Monetization Architecture as operational necessity. They build leverage tunnels around assets. They layer credit lines. They reinforce equity stacks. That is why they scale. That is why they compound.
 
 UHNW portfolios now require the same engineering. 
-Asset‑backed liquidity (ABL). 
+Asset‑backed liquidity (Asset-Based Lending). 
 Cross‑asset credit ladders. 
 Hard‑asset leverage windows. 
 Energy‑linked liquidity facilities for operators meeting NAEOC criteria. 
 
-ABL transforms immobilized net worth into strategic ammunition. Borrowers remain in control. Ownership stays unbroken. Liquidity becomes armor, not strain.
+Asset-Based Lending transforms immobilized net worth into strategic ammunition. Borrowers remain in control. Ownership stays unbroken. Liquidity becomes armor, not strain.
 
 Energy mandates under NAEOC create a new class of liquidity instrument. Not speculative. Not high‑volatility. Structured. Yield‑anchored. Asset‑backed. Production‑anchored. These mandates require capital between $50M and $250M, with velocity matched to drilling cycles, pipeline expansions, and carbon‑aligned compliance. The liquidity standard here is not optional. It is required. Without private credit windows, operations stall. With them, expansion accelerates.
 

@@ -43,7 +43,7 @@ Rule three: Cross-collateralization must be selectively applied. Over-collateral
 
 Strategic Collateralization has evolved into a specialized discipline. It sits at the intersection of treasury architecture, private credit structuring, and operational forecasting. It has three functions.
 
-First, stabilize the GP’s acquisition calendar. Capital timing gaps are the silent killers of mid-market buyout strategies. Institutional Liquidity Paths produces reliable execution windows through customized ABL lines, NAV-based facilities, and forward-drawn capital partners.
+First, stabilize the GP’s acquisition calendar. Capital timing gaps are the silent killers of mid-market buyout strategies. Institutional Liquidity Paths produces reliable execution windows through customized Asset-Based Lending lines, NAV-based facilities, and forward-drawn capital partners.
 
 Second, optimize the bottom quartile of the balance sheet. Underutilized assets - receivables, inventory, equipment, and rights - can be transformed into operational liquidity without jeopardizing equity control.
 
@@ -70,7 +70,7 @@ Roials Capital functions as a strategic navigator and institutional introducer a
 
 In private equity, we create clarity around capital stack optimization, cross-border readiness, and acquisition pacing. Fund-III allocators benefit from structural visibility across acquisition calendars, debt maturities, and LP alignment. Our role is to increase the probability of clean execution by aligning the GP’s strategy with institutional capital expectations.
 
-In Asset-Backed Frameworks, we calibrate the interplay between ABL structures, NAV facilities, and collateral pools. These structures support balance sheet resilience, reduce liquidity compression risk, and strengthen the GP’s acquisition capacity without unnecessary dilution.
+In Asset-Backed Frameworks, we calibrate the interplay between Asset-Based Lending structures, NAV facilities, and collateral pools. These structures support balance sheet resilience, reduce liquidity compression risk, and strengthen the GP’s acquisition capacity without unnecessary dilution.
 
 In North American energy, our role is purely that of a strategic introducer. NAEO operates the assets. NAEO executes the field strategy. NAEO manages the reservoirs. Roials Capital provides the institutional translation layer, helping allocators understand Alberta’s basin physics, operational regimes, and capital flow inefficiencies.
 

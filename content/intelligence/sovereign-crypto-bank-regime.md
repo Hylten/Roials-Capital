@@ -43,7 +43,7 @@ The partnership model uses three engines.
 
 Engine one is Kapitalanskaffning. Fund-III will consolidate buyout pipelines, add-on capacity, and real asset backed credit flows into a single institutional chassis. UHNW and family office allocators receive a structure that eliminates delays and provides a predictable deployment arc. Sovereign-grade liquidity reinforces institutional trust. You do not raise capital. You allocate authority.
 
-Engine two is ABL Strategic Collateralization. Asset backed lines are refined into two categories: operating liquidity for cash flow producing assets and acquisition liquidity for add-ons. Each line uses a programmable collateral schedule and a deterministic waterfall. The result is institutional-grade liquidity without the deficiencies of private banking. The UHNW operator moves without dependence on slow external credit committees.
+Engine two is Asset-Based Lending Strategic Collateralization. Asset backed lines are refined into two categories: operating liquidity for cash flow producing assets and acquisition liquidity for add-ons. Each line uses a programmable collateral schedule and a deterministic waterfall. The result is institutional-grade liquidity without the deficiencies of private banking. The UHNW operator moves without dependence on slow external credit committees.
 
 Engine three is the special mandates window. Energy mandates from 50M to 250M in the NAEOC region and MiFID II acquisition mandates within the EU become structured corridors for sovereign-grade settlement. Energy flows are collateral flows. Collateral flows are liquidity engines. Liquidity engines are capital multipliers. Fund-III does not chase deals. It builds corridors and lets capital flow through them.
 

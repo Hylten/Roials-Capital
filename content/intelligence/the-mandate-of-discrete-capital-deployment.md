@@ -4,7 +4,7 @@ description: "The Mandate Of Discrete Capital Deployment"
 date: "2023-09-07"
 author: "Jonas Hyltén"
 slug: "the-mandate-of-discrete-capital-deployment"
-keywords: "private credit, ABL, liquidity"
+keywords: "private credit, Asset-Based Lending, liquidity"
 ---
 
 # The Mandate of Discrete Capital Deployment

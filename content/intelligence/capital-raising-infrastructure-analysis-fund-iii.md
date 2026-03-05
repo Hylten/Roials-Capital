@@ -1,6 +1,6 @@
 ---
 title: "Capital Raising Infrastructure Analysis for Fund-III and Institutional-Grade Expansion Mandates"
-description: "Institutional briefing on capital raising architecture, liquidity engineering, operational intelligence, and structural advantages for Fund-III strategies, ABL frameworks, and NAEOC-aligned energy mandates."
+description: "Institutional briefing on capital raising architecture, liquidity engineering, operational intelligence, and structural advantages for Fund-III strategies, Asset-Based Lending frameworks, and NAEOC-aligned energy mandates."
 date: "2023-09-14"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "capital-raising-infrastructure-analysis-Fund-III"
@@ -42,7 +42,7 @@ Capital deployment at Fund-III scale requires predictable cash-flow waterfalls w
 The objective is to ensure that the GP’s operational tempo aligns with institutional risk controls.
 
 4. Balance Sheet Optimization and Monetization Architecture 
-ABL solutions represent the technical intersection between working capital predictability and sponsor-level acquisition velocity. An effective ABL structure must provide: 
+Asset-Based Lending solutions represent the technical intersection between working capital predictability and sponsor-level acquisition velocity. An effective Asset-Based Lending structure must provide: 
 - Transparent collateral audits 
 - Cross-collateralization frameworks 
 - Real-time data flow from receivables and inventory 
@@ -89,7 +89,7 @@ Strategic alignment between LPs and GPs requires integrity, operational clarity,
 
 PHASE 5. DECISION-MAKING LENS FOR ALLOCATORS
 
-The allocator navigating the 2026 landscape evaluates opportunities through a lens focused on operational certainty, structural advantage, and stewardship alignment. Fund-III strategies, ABL Monetization Architecture, and specialized energy mandates present differentiated opportunities for capital deployment when the counterparty ecosystem is validated.
+The allocator navigating the 2026 landscape evaluates opportunities through a lens focused on operational certainty, structural advantage, and stewardship alignment. Fund-III strategies, Asset-Based Lending Monetization Architecture, and specialized energy mandates present differentiated opportunities for capital deployment when the counterparty ecosystem is validated.
 
 Institutional allocators seeking to refine their positioning typically request a confidential strategy audit or portfolio calibration to assess alignment with: 
 - Acquisition engine precision 

@@ -47,8 +47,8 @@ Cash flow hardening increases the predictability of future inflows. The hardenin
 6. Opportunity Velocity Calibration 
 Opportunity velocity measures how rapidly an allocator can act on acquisitions or strategic initiatives once liquidity is secured. High value assets often suffer from extended decision cycles due to liquidity friction. A calibrated liquidity architecture increases the speed at which institutional allocators can deploy capital into accretive opportunities without sacrificing governance discipline.
 
-7. Institutional Grade ABL Structures 
-Asset based lending for institutional clients requires advanced valuation, regulatory compliance, and predictable collateral behavior. Modern ABL structures incorporate dynamic borrowing bases, optionality zones, and protective triggers that maintain liquidity even in volatile conditions.
+7. Institutional Grade Asset-Based Lending Structures 
+Asset based lending for institutional clients requires advanced valuation, regulatory compliance, and predictable collateral behavior. Modern Asset-Based Lending structures incorporate dynamic borrowing bases, optionality zones, and protective triggers that maintain liquidity even in volatile conditions.
 
 These mechanics collectively create a liquidity framework that increases capital efficiency while maintaining structural conservatism. For Fund-III+ managers operating in buyout and add on environments, the ability to secure liquidity rapidly and institutionally becomes a decisive strategic advantage.
 

@@ -87,9 +87,9 @@ Asset hardening then becomes a replicable formula, not a conceptual aspiration.
 
 --------- 
 
-Capital Structuring occupies the next strategic space. Asset hardening alone does not guarantee resilience. Cashflow must circulate. Working capital must remain elastic. ABL structures provide this elasticity. Treat ABL as a liquidity amplifier, not simply a credit instrument. Convert operational assets into liquidity‑bearing instruments. Compress liquidity bottlenecks. Turn inventory into leverageable value. Turn receivables into mobilizable credit. Turn assets into liquidity engines.
+Capital Structuring occupies the next strategic space. Asset hardening alone does not guarantee resilience. Cashflow must circulate. Working capital must remain elastic. Asset-Based Lending structures provide this elasticity. Treat Asset-Based Lending as a liquidity amplifier, not simply a credit instrument. Convert operational assets into liquidity‑bearing instruments. Compress liquidity bottlenecks. Turn inventory into leverageable value. Turn receivables into mobilizable credit. Turn assets into liquidity engines.
 
-ABL is the connective tissue between asset hardening and capital scaling. Use it to extend hold periods. Use it to absorb shocks. Use it to prepare for acquisition cycles. Build flexible revolvers. Build dynamic borrowing bases. Harden covenants. Harden visibility. Keep the liquidity engine running regardless of external volatility. If cashflow is blood, ABL is circulation.
+Asset-Based Lending is the connective tissue between asset hardening and capital scaling. Use it to extend hold periods. Use it to absorb shocks. Use it to prepare for acquisition cycles. Build flexible revolvers. Build dynamic borrowing bases. Harden covenants. Harden visibility. Keep the liquidity engine running regardless of external volatility. If cashflow is blood, Asset-Based Lending is circulation.
 
 Institutional Liquidity Paths also amplifies acquisition readiness. For add‑ons, speed is the competitive edge. Capital delays destroy compounding. Solve delays by maintaining permanent liquidity windows. Pre‑approved. Pre‑structured. Pre‑secured. Build an acquisition‑grade liquidity stack. Fund‑III needs to move faster than market cycles.
 

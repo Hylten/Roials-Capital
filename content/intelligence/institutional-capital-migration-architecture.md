@@ -1,6 +1,6 @@
 ---
 title: "The Mechanics of Institutional Capital Migration Across Cycles and Regimes"
-description: "A technical dissection of cross cycle capital mobility, regime dependent allocation behavior, structural frictions, and the liquidity engineering frameworks required for allocators navigating Fund‑III buyouts, ABL structures, and energy specific mandates in Alberta."
+description: "A technical dissection of cross cycle capital mobility, regime dependent allocation behavior, structural frictions, and the liquidity engineering frameworks required for allocators navigating Fund‑III buyouts, Asset-Based Lending structures, and energy specific mandates in Alberta."
 date: "2025-12-12"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-capital-migration-architecture"
@@ -54,7 +54,7 @@ Institutional LPs favor platforms where operational efficiency compounds. The re
 
 C. Monetization Architecture as a Mandatory Component of Capital Mobility
 
-ABL structures, receivable backed facilities, and inventory financing have evolved from specialty tools into central instruments for capital migration. They serve three strategic functions:
+Asset-Based Lending structures, receivable backed facilities, and inventory financing have evolved from specialty tools into central instruments for capital migration. They serve three strategic functions:
 
 1. Bridge financing for add on transactions. 
 2. Liquidity extraction from under optimized balance sheets. 
@@ -93,7 +93,7 @@ The priority is institutional alignment for sponsors focused on:
 
 The analysis delivered to LPs is technical, non promotional, and focused on structural fit within multi cycle allocation models.
 
-B. Monetization Architecture for ABL and Balance Sheet Optimization
+B. Monetization Architecture for Asset-Based Lending and Balance Sheet Optimization
 
 Roials Capital provides institutional navigation for:
 
@@ -136,7 +136,7 @@ Capital migration is no longer discretionary. It is structurally mandated. Alloc
 2. Which partners execute with precision, transparency, and predictable operational cadence 
 3. Which strategies enhance the allocator's overall capital architecture rather than introduce concentration or narrative exposure 
 
-For allocators requiring deeper visibility into Fund‑III readiness, ABL liquidity structures, or the Alberta heavy oil architecture, a confidential Strategy Calibration session is the appropriate mechanism. It ensures alignment between institutional objectives, operational dynamics, and the structural regime shift now defining capital migration.
+For allocators requiring deeper visibility into Fund‑III readiness, Asset-Based Lending liquidity structures, or the Alberta heavy oil architecture, a confidential Strategy Calibration session is the appropriate mechanism. It ensures alignment between institutional objectives, operational dynamics, and the structural regime shift now defining capital migration.
 
 [END OF BRIEFING]
 

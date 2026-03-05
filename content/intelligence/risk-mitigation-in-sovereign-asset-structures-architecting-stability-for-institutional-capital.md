@@ -116,7 +116,7 @@ The realization path must be predictable.
 
  
 
-ABL at Roials-Capital is not treated as a transactional Strategic Collateralization activity. It is treated as a structural component of the broader sovereign asset system.
+Asset-Based Lending at Roials-Capital is not treated as a transactional Strategic Collateralization activity. It is treated as a structural component of the broader sovereign asset system.
 
  
 
@@ -131,7 +131,7 @@ We focus on:
 
 • Structures that create insulation rather than amplification of risk. 
 
-By embedding ABL into sovereign architecture, we reduce exposure concentration and increase the liquidity diversification of the entire capital stack.
+By embedding Asset-Based Lending into sovereign architecture, we reduce exposure concentration and increase the liquidity diversification of the entire capital stack.
 
  
 
@@ -231,7 +231,7 @@ We design multi-jurisdictional frameworks that ensure:
 
 • Asset protection against domestic political shifts. 
 
-This framework forms a protective shell around sovereign assets, private credit, and ABL collateral. It provides a safety corridor through which capital can move regardless of geopolitical conditions.
+This framework forms a protective shell around sovereign assets, private credit, and Asset-Based Lending collateral. It provides a safety corridor through which capital can move regardless of geopolitical conditions.
 
  
 

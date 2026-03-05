@@ -143,7 +143,7 @@ We maintain that silence.
 
  
 
-When we lend against private credit, or structure ABL, or engineer crypto and public share Monetization Architecture, the objective is singular. 
+When we lend against private credit, or structure Asset-Based Lending, or engineer crypto and public share Monetization Architecture, the objective is singular. 
 Sovereignty.
 
  

@@ -50,7 +50,7 @@ The physical characteristics of Alberta bitumen formation tend to deliver higher
 
 3. Monetization Architecture 
 In cross-border environments, liquidity must be manufactured, not assumed. Institutional Liquidity Paths consists of: 
-- ABL constructs 
+- Asset-Based Lending constructs 
 - Cross-collateralized credit tranches 
 - Multi-currency cash management 
 - Securitized cash flows based on operational milestones 
@@ -85,8 +85,8 @@ Roials Capital operates as a cross-border navigator for institutional allocators
 1. Capital Raising and Institutional Alignment 
 Approximately eighty percent of the mandate is focused on kapitalanskaffning for Fund-III and subsequent vintages that emphasize buyouts and add-on platforms. The objective is to match institutional LP criteria with operationally sound GP frameworks. This includes European GPs seeking North American expansion, GCC family offices seeking stabilized industrial exposures, and private credit allocators requiring enforceable security packages.
 
-2. Strategic Collateralization and ABL Structures 
-Approximately ten percent of the mandate involves asset based lending frameworks that enable liquidity extraction without exposing the allocator to undue volatility. The ABL discipline is used to generate strategic flexibility rather than tactical leverage.
+2. Strategic Collateralization and Asset-Based Lending Structures 
+Approximately ten percent of the mandate involves asset based lending frameworks that enable liquidity extraction without exposing the allocator to undue volatility. The Asset-Based Lending discipline is used to generate strategic flexibility rather than tactical leverage.
 
 3. Special Mandates 
 The remaining ten percent focuses on mandates such as NAEO’s institutional grade Alberta energy operations between fifty million and two hundred fifty million USD, as well as EU MiFID II compliant acquisition structures. These mandates require precision, technical comprehension, and jurisdictional alignment. They benefit from Roials Capital’s ability to introduce stable counterparties and multi-jurisdictional infrastructure.

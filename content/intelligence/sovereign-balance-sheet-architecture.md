@@ -17,7 +17,7 @@ Proverbs 13:22 states: A good man leaves an inheritance to his children's childr
 
 This briefing defines how such a structure is engineered, hardened, capitalized, and leveraged across three dominant vectors: 
 • Kapitalanskaffning for Fund-III (80%) 
-• ABL / Strategic Collateralization (10%) 
+• Asset-Based Lending / Strategic Collateralization (10%) 
 • Special Mandates: NAEOC $50M–$250M Energy and EU MiFID II Acquisition Programs (10%)
 
 The architecture begins with jurisdiction. Jurisdiction defines enforceability. Enforceability defines credit. Credit defines liquidity. Liquidity defines longevity. Every LP knows this. Few GPs design for it.
@@ -67,13 +67,13 @@ Balance sheets express strength in three forms:
 Most GPs only focus on mass. They forget circulation. They never achieve regeneration. Regeneration builds permanence. Permanence builds sovereign posture. Sovereign posture reduces capital costs. Reduced capital costs amplify returns. Returns raise Fund-III faster.
 
 To achieve regeneration, a liquidity spine must be embedded: 
-• ABL lines locked to receivables or reserves. 
+• Asset-Based Lending lines locked to receivables or reserves. 
 • Revolvers keyed to EBITDA floors. 
 • Structure finance positioned as a secondary lung. 
 • Private credit in a callable formation. 
 • NAV facilities insulated from portfolio volatility.
 
-ABL remains underutilized in private equity. Strategic Collateralization through ABL is not for crisis but for flexibility. ABL creates the bridge between commitment cadence and deployment cadence. When structured correctly, ABL acts like a synthetic buffer, flattening timing mismatches. LPs see predictability. GP sees durability. Portfolio sees acceleration.
+Asset-Based Lending remains underutilized in private equity. Strategic Collateralization through Asset-Based Lending is not for crisis but for flexibility. Asset-Based Lending creates the bridge between commitment cadence and deployment cadence. When structured correctly, Asset-Based Lending acts like a synthetic buffer, flattening timing mismatches. LPs see predictability. GP sees durability. Portfolio sees acceleration.
 
 Energy mandates intensify these needs. The NAEOC $50M–$250M window demands operational rigor: reserve reports, rights-of-way audits, surface agreements, hedging architecture, and offtake commitments. These are not tasks; they are preconditions. Without them, capital stalls. With them, capital accelerates to institutional velocity.
 
@@ -147,7 +147,7 @@ Asset hardening transforms perceptions. A hard asset tells a lender: lend. A sof
 
 Dominance is not bravado. Dominance is the equilibrium state of well-designed systems. Dominance is the byproduct of structure meeting opportunity. The sovereign balance sheet is the structure. Fund-III is the opportunity.
 
-Energy mandates bring frontier leverage. Hydrocarbon reserves create intrinsic collateral. Intrinsic collateral enhances ABL utility. ABL expands buyout capability. Buyout capability raises fund velocity. Fund velocity increases competitive displacement. Displacement wins deals.
+Energy mandates bring frontier leverage. Hydrocarbon reserves create intrinsic collateral. Intrinsic collateral enhances Asset-Based Lending utility. Asset-Based Lending expands buyout capability. Buyout capability raises fund velocity. Fund velocity increases competitive displacement. Displacement wins deals.
 
 EU MiFID II paths demand precision. Licensing. Passporting. Reporting. MiFID II compliance increases institutional trust. Trust lowers perceived risk. Lower risk reduces spreads. Reduced spreads increase leverage efficiency. Efficiency compounds returns. Compounding attracts more capital. Capital expands the sovereign footprint.
 
@@ -164,7 +164,7 @@ The architecture must project three qualities:
 
 Permanence through liquidity. Precision through governance. Power through jurisdiction. These traits attract sovereign wealth funds, insurance balance sheets, pension systems, and long-cycle allocators. They do not chase returns. They chase reliability. Reliability backed by architecture becomes unstoppable.
 
-Fund-III becomes inevitable. Add-ons become routine. Buyouts become cleaner. NAV facilities expand. Revolvers relax. ABL becomes cheap. Energy partners commit faster. EU regulators accommodate faster. LPs accelerate commitments.
+Fund-III becomes inevitable. Add-ons become routine. Buyouts become cleaner. NAV facilities expand. Revolvers relax. Asset-Based Lending becomes cheap. Energy partners commit faster. EU regulators accommodate faster. LPs accelerate commitments.
 
 All outcomes converge into one principle: 
 Liquidity is a design choice, not a market condition.

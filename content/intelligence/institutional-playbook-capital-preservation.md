@@ -52,7 +52,7 @@ Risk containment relies on balance sheet optimization through:
 
 Fund-III has become the institutional archetype of capital preservation when constructed through structural, not narrative, logic. The objective is to compress downside volatility so that the portfolio remains intact regardless of macro oscillations.
 
-B. Asset-Backed Frameworks AND ABL STRUCTURES 
+B. Asset-Backed Frameworks AND Asset-Based Lending STRUCTURES 
 Monetization Architecture is the systematic deployment of short duration credit instruments to stabilize corporate ecosystems. Asset Based Lending remains the anchor, but its relevance comes from its ability to deliver capital preservation through collateral transparency.
 
 Key mechanics include:
@@ -60,7 +60,7 @@ Key mechanics include:
 - Hard asset collateralization frameworks that produce real time liquidity visibility. 
 - Borrowing base calibration tied to asset class depreciation physics. 
 - Cash dominion arrangements that eliminate operational drift. 
-- Multi tranche ABL facilities enabling opportunistic inventory or working capital acceleration.
+- Multi tranche Asset-Based Lending facilities enabling opportunistic inventory or working capital acceleration.
 
 For allocators, the defensive utility of Monetization Architecture lies in the asset hardening effect. Capital preserved at the operating level preserves value inside the fund architecture. It is a risk buffer that institutionalizes stability.
 
@@ -98,7 +98,7 @@ Roials Capital evaluates allocator objectives though institutional calibration. 
 The firm provides technical and structural mapping of cross border capital flows, identifying where regulatory asymmetries create opportunity or risk for LP capital.
 
 3. Institutional Introduction 
-Roials Capital introduces allocators to operating partners, including NAEO in North American energy, or specialized managers across Fund-III buyout strategies, ABL facilities, or special mandates. The outcome is access to institutional grade partners with transparent operational track records.
+Roials Capital introduces allocators to operating partners, including NAEO in North American energy, or specialized managers across Fund-III buyout strategies, Asset-Based Lending facilities, or special mandates. The outcome is access to institutional grade partners with transparent operational track records.
 
 4. Operational Intelligence 
 Allocators receive data driven intelligence on geological, financial, or operational risk factors so they can assess how capital behaves within the ecosystem. This is not advisory in the traditional sense. It is architectural guidance that preserves capital by eliminating informational blind spots.

@@ -105,7 +105,7 @@ Three use cases dominate the modern private capital ecosystem:
 1. Kapitalanskaffning for Buyouts and Add ons 
  European and North American mid market platforms rely on portfolio backed liquidity to execute acquisition strategies without raising dilution heavy equity at inappropriate valuations. Liquidity is engineered at the portfolio level rather than the company level. This stabilizes the acquisition timeline and increases opportunity velocity.
 
-2. ABL and Asset-Backed Frameworks 
+2. Asset-Based Lending and Asset-Backed Frameworks 
  Asset based lending is no longer limited to receivables and inventory. Modern structures include contracted cash flow, repetitive production, and forward sale agreements. Collateral transforms from static balance sheet items into dynamic cash flow engines.
 
 3. Special Mandates 

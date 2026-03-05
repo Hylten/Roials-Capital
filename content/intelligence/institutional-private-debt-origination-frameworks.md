@@ -28,7 +28,7 @@ Fund-III must be engineered as a capital allocator that thinks like an industria
 
 The structural landscape confirms this. 
 • Consolidation in lower middle market buyouts increases demand for structured credit. 
-• ABL mechanisms shift away from advance-rate modeling toward cash conversion discipline. 
+• Asset-Based Lending mechanisms shift away from advance-rate modeling toward cash conversion discipline. 
 • NAEOC energy assets require localized technical underwriting, not generic credit replication. 
 • MiFID II European acquisition pathways tighten, increasing regulatory friction for non-institutional operators. 
 
@@ -58,8 +58,8 @@ The market still models recovery as a linear function of collateral value. This 
 
 Institutional origination includes recovery engineering at the underwriting stage. The outcome is simple. Lower variance. Higher survival of capital. 
 
-ABL and Asset-Backed Frameworks 
-ABL today is not about asset advances. It is Strategic Collateralization. The focus is on shaping working capital velocity through operational constraints. You lend not against assets, but against the borrower’s ability to accelerate the cash cycle. 
+Asset-Based Lending and Asset-Backed Frameworks 
+Asset-Based Lending today is not about asset advances. It is Strategic Collateralization. The focus is on shaping working capital velocity through operational constraints. You lend not against assets, but against the borrower’s ability to accelerate the cash cycle. 
 
 This requires: 
 • Daily collateral reporting. 
@@ -93,7 +93,7 @@ Growth by acquisition is the new working capital. Sponsors require credit that b
 
 Fourth. Special Mandates 
 A modern private credit enterprise cannot remain monolithic. 
-• ABL for Monetization Architecture solves operational bottlenecks. 
+• Asset-Based Lending for Monetization Architecture solves operational bottlenecks. 
 • Energy mandates in the 50 to 250 million range require engineering literacy, not generic underwriting. 
 • EU MiFID II acquisition pathways require compliance infrastructure, not improvisation. 
 

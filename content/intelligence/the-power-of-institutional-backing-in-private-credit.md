@@ -110,10 +110,10 @@ This allows clients to borrow against private credit positions at scale and with
 
 ## Asset Based Strategic Collateralization as a Precision Instrument
 
-Asset Based Institutional Liquidity Paths ABL is often misunderstood. 
-For institutional caliber lenders, ABL is not a last resort. It is a precision instrument.
+Asset Based Institutional Liquidity Paths Asset-Based Lending is often misunderstood. 
+For institutional caliber lenders, Asset-Based Lending is not a last resort. It is a precision instrument.
 
-ABL provides:
+Asset-Based Lending provides:
 
 • Collateralized certainty 
 • Transparent liquidity facility to value ratios 
@@ -121,11 +121,11 @@ ABL provides:
 • Market independent execution timelines 
 • Immediate capital review protocols
 
-ABL is the mechanism through which institutional backing becomes tangible. 
+Asset-Based Lending is the mechanism through which institutional backing becomes tangible. 
 
 When Roials Capital lends against assets, the discussion is not theoretical value. It is enforceable value. It is liquidation pathing. It is volatility thresholds and collateral resilience.
 
-This clarity is why ABL remains a preferred tool among UHNW liquidity engineers and family office strategists.
+This clarity is why Asset-Based Lending remains a preferred tool among UHNW liquidity engineers and family office strategists.
 
 ## Crypto Institutional Liquidity Paths for Scale Driven Borrowers
 

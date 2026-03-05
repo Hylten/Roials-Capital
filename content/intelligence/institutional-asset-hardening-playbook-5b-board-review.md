@@ -51,7 +51,7 @@ Vector One: Supermajority Allocation Logic
 LPs escalate diligence when fund size increases. They test the repeatability of prior returns. They test operational leverage. They test the intelligence of capital deployment. They test if GP risk discipline scales.
 
 Vector Two: Monetization Architecture Confidence 
-Boards want exit certainty. LPs want interim liquidity. ABL programs provide both. Liquidity discipline signals institutional maturity. Not opportunism. Not desperation.
+Boards want exit certainty. LPs want interim liquidity. Asset-Based Lending programs provide both. Liquidity discipline signals institutional maturity. Not opportunism. Not desperation.
 
 Vector Three: Strategic Mandate Expansion 
 NAEOC energy allocations. EU MiFID II acquisition regimes. Emissions-linked credit windows. LPs evaluate expansion not by opportunity but by coherence. Expansion must follow trajectory, not appetite.
@@ -88,11 +88,11 @@ Harden the jurisdiction through:
 
 Buildings need foundations. Institutions need jurisdictions.
 
-ABL AS LIQUIDITY ARBITRAGE
+Asset-Based Lending AS LIQUIDITY ARBITRAGE
 
-ABL is a weapon. Liquidity under stress becomes strategy. Use ABL not as survival, but as acceleration. Boards respect GPs who can manufacture liquidity from idle assets.
+Asset-Based Lending is a weapon. Liquidity under stress becomes strategy. Use Asset-Based Lending not as survival, but as acceleration. Boards respect GPs who can manufacture liquidity from idle assets.
 
-ABL engineering is built on four components:
+Asset-Based Lending engineering is built on four components:
 
 - Inventory convertibility.
 - Receivable maturity confidence.
@@ -170,7 +170,7 @@ Exit architecture requires:
 - Buyer density mapping.
 - Strategic buyer pre-wiring.
 - Secondary sale pathways.
-- ABL-supported recap options.
+- Asset-Based Lending-supported recap options.
 
 Exit optionality increases enterprise value. Enterprise value increases fund velocity. Velocity accelerates capital raising.
 
@@ -191,7 +191,7 @@ Signal Four: Expansion Discipline
 Mandates evolve logically. Not emotionally.
 
 Signal Five: Liquidity Reliability 
-ABL, revolvers, stress capital pathways.
+Asset-Based Lending, revolvers, stress capital pathways.
 
 Signal Six: Downside Dominance 
 Catastrophic scenarios end in survival.

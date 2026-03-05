@@ -86,14 +86,14 @@ Our role is not to maximize balance sheet optimization. Our role is to construct
 
 Generational wealth is preserved when liquidity is available, but ownership remains intact.
 
-Institutional crypto custody, integrated with private credit and ABL, accomplishes this with surgical precision. It provides the capability to unlock liquidity without destabilizing long term economics.
+Institutional crypto custody, integrated with private credit and Asset-Based Lending, accomplishes this with surgical precision. It provides the capability to unlock liquidity without destabilizing long term economics.
 
  
-## Private Credit and ABL as Multi Generational Stabilizers
+## Private Credit and Asset-Based Lending as Multi Generational Stabilizers
 
 HNWI and UHNW families understand that traditional Institutional Liquidity Paths channels are reactive and cyclical. Banks lend when conditions are favorable, then contract when conditions shift. Liquidity should not depend on market mood.
 
-Private credit and ABL provide structural independence. They offer liquidity that is based on assets, not macro sentiment.
+Private credit and Asset-Based Lending provide structural independence. They offer liquidity that is based on assets, not macro sentiment.
 
 Roials Capital integrates private credit with institutional custody to create a consolidated ecosystem. Custodied digital assets, public shares, and real world assets can anchor credit facilities without public exposure.
 
@@ -205,7 +205,7 @@ The families that endure understand one principle. Wealth is not a moment. Wealt
 
 Institutional crypto custody is part of that structure. It is the vault that holds digital assets with institutional controls, institutional governance, and institutional resilience.
 
-Roials Capital builds this vault for families that operate across decades. Our role is to create the architecture that preserves digital assets, mobilizes liquidity, and integrates with private credit and ABL frameworks.
+Roials Capital builds this vault for families that operate across decades. Our role is to create the architecture that preserves digital assets, mobilizes liquidity, and integrates with private credit and Asset-Based Lending frameworks.
 
 The outcome is simple. Assets remain protected. Liquidity remains available. Governance remains stable. The family retains sovereignty.
 
