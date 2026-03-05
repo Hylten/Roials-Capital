@@ -1,6 +1,6 @@
 ---
-title: The Sovereign Mindset: Structural Liquidity as a Generational Asset
-description: Institutional brief on capital architecture, liquidity engineering, buyout scaling mechanics, and the structural sovereignty premium for Fund-III allocations.
+title: "The Sovereign Mindset: Structural Liquidity as a Generational Asset"
+description: "Institutional brief on capital architecture, liquidity engineering, buyout scaling mechanics, and the structural sovereignty premium for Fund-III allocations."
 date: 2026-03-04
 author: Jonas Roials
 slug: sovereign-mindset-structural-liquidity
