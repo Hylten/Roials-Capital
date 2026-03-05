@@ -1,7 +1,7 @@
 ---
 title: "Sovereign Stewardship and the New Mandate for Private Capital"
 description: "Institutional thesis on sovereign aligned private capital, Fund-III capital formation, liquidity engineering, ABL structures, and energy anchored acquisition frameworks for UHNWIs, LPs, and sovereign allocators"
-date: "2026-03-04"
+date: "2024-02-26"
 author: "Jonas Hyltén"
 slug: "sovereign-wealth-management-private-capital-regime"
 keywords: "kapitalanskaffning, oil and gas, private credit, Strategic Collateralization, asset hardening"

@@ -1,7 +1,7 @@
 ---
 title: "Institutional Frameworks For Private Debt Originat"
 description: "Institutional Frameworks For Private Debt Originat"
-date: "2026-01-20"
+date: "2023-02-01"
 author: "Jonas Hyltén"
 slug: "institutional-frameworks-for-private-debt-originat"
 keywords: "private credit, ABL, liquidity"

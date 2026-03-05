@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of Private Credit in 2026: The New Architecture of Institutional Liquidity"
 description: "A technical institutional briefing on the 2026 private credit regime shift, structural inefficiencies, capital stack reconfiguration, and the emerging role of liquidity engineering across Fund-III buyouts, ABL frameworks, and cross-border special mandates."
-date: "2026-03-04"
+date: "2024-09-15"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "evolution-private-credit-2026-institutional-liquidity-architecture"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Asset-Backed Frameworks, asset hardening, NAEO"

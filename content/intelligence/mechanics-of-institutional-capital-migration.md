@@ -1,7 +1,7 @@
 ---
 title: "The Mechanics of Institutional Capital Migration Across Cycles and Jurisdictions"
 description: "A clinical examination of allocator behavior, cross-cycle capital migration mechanics, and structural alignment models relevant to private credit, buyout platforms, and North American energy operating mandates."
-date: "2026-03-04"
+date: "2024-07-03"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "mechanics-of-institutional-capital-migration"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

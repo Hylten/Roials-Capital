@@ -1,7 +1,7 @@
 ---
 title: "Institutional Grade Liquidity Engineering for High Value Assets: The Architecture of Modern Liquidity"
 description: "An institutional analysis of Institutional Liquidity Paths, balance sheet optimization, and the structural mechanics defining modern capital formation for UHNWIs, private credit managers, and institutional LPs navigating Fund-III+ strategies."
-date: "2026-03-04"
+date: "2025-12-24"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-liquidity-engineering-architecture"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Strategic Collateralization, asset hardening, NAEO"

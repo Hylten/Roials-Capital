@@ -1,7 +1,7 @@
 ---
 title: "Sovereign Pathways for Strategic Capital Migration"
 description: "Institutional brief on jurisdictional migration, capital hardening, and cross-border structuring for UHNW principals allocating into Fund-III buyouts, ABL liquidity frames, and energy-side special mandates."
-date: "2026-03-04"
+date: "2025-05-26"
 author: "Roials-Capital"
 slug: "sovereign-pathways-strategic-capital-migration"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"

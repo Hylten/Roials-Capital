@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Middle Market Credit Gap with Structural Precision"
 description: "Institutional briefing on the capital vacuum across middle market credit, structural inefficiencies, and strategic alignment mechanisms for Fund-III allocations, balance sheet optimization, and cross-border acquisition mandates."
-date: "2026-03-04"
+date: "2024-02-10"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "middle-market-credit-gap-structural-precision"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

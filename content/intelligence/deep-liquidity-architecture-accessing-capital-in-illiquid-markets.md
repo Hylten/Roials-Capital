@@ -1,7 +1,7 @@
 ---
 title: "Deep Liquidity Architecture: Accessing Capital in Illiquid Markets"
 description: "Institutional analysis of deep liquidity mechanics and asset based liquidity engineering strategies for HNWI and UHNW clients navigating illiquid markets."
-date: "2026-01-18"
+date: "2023-06-07"
 author: "Jonas Hyltén"
 slug: "deep-liquidity-architecture-accessing-capital-in-illiquid-markets"
 keywords: "private credit, asset based Institutional Liquidity Paths, liquidity, HNWI, UHNW, Roials-Capital"

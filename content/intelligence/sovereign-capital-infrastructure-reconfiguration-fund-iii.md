@@ -1,7 +1,7 @@
 ---
 title: "Sovereign Capital Infrastructures: The Reconfiguration Mandate for Fund-III"
 description: "A high-density institutional analysis of sovereign capital architectures, multi‑jurisdictional alignment, and next‑generation allocation regimes driving Fund-III kapitalanskaffning, private credit expansion, and liquidity engineering mandates."
-date: "2026-03-04"
+date: "2025-07-05"
 author: "Roials-Capital | Principal Architect"
 slug: "sovereign-capital-infrastructure-reconfiguration-Fund-III"
 keywords: "kapitalanskaffning, oil and gas, private credit, Monetization Architecture, asset hardening"

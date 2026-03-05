@@ -1,7 +1,7 @@
 ---
 title: "The Institutional Playbook for Capital Preservation"
 description: "A high‑trust, institutional guide to liquidity creation through private credit and asset based liquidity engineering for HNWI and UHNW investors."
-date: "2026-02-03"
+date: "2024-11-09"
 author: "Jonas Hyltén"
 slug: "the-institutional-playbook-for-capital-preservation"
 keywords: "private credit, asset based Capital Structuring, liquidity, HNWI, UHNW, Roials-Capital"

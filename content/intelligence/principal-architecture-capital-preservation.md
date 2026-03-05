@@ -1,7 +1,7 @@
 ---
 title: "The Principal Architecture of Capital Preservation"
 description: "Institutional blueprint for capital raising, buyout discipline, liquidity engineering, and multi-cycle preservation mechanics across Fund-III mandates"
-date: "2026-03-04"
+date: "2024-03-09"
 author: "Jonas Hyltén"
 slug: "principal-architecture-capital-preservation"
 keywords: "kapitalanskaffning, oil and gas, private credit, Strategic Collateralization, asset hardening"

@@ -1,7 +1,7 @@
 ---
 title: "The Migration Path of Institutional Capital"
 description: "A principal-level analysis of structural capital reallocation, technical cash-flow regimes, and institutional stewardship filters governing Fund-III capital raising, ABL liquidity engineering, and special mandate deployment across UHNWI and private credit ecosystems."
-date: "2026-03-04"
+date: "2024-07-17"
 author: "Jonas Hylten"
 slug: "institutional-capital-migration"
 keywords: "kapitalanskaffning, oil and gas, private credit, Strategic Collateralization, asset hardening"

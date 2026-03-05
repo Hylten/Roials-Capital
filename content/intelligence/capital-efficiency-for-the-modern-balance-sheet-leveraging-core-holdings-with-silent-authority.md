@@ -1,7 +1,7 @@
 ---
 title: "Capital Efficiency for the Modern Balance Sheet: Leveraging Core Holdings with Silent Authority"
 description: "Strategic capital efficiency through private credit and asset based liquidity engineering. Enhance liquidity while preserving core holdings with institutional precision."
-date: "2026-01-17"
+date: "2025-08-05"
 author: "Jonas Hyltén"
 slug: "capital-efficiency-for-the-modern-balance-sheet-leveraging-core-holdings-with-silent-authority"
 keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, Roials-Capital"

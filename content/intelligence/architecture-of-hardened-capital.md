@@ -1,7 +1,7 @@
 ---
 title: "The Architecture of Hardened Capital for Fund‑III Mandates"
 description: "A principal-level institutional brief on hardened capital engineering, multi‑jurisdictional structuring, and sovereign-grade capitalization pathways for Fund‑III buyouts, add‑ons, and special mandates."
-date: "2026-03-04"
+date: "2025-03-31"
 author: "Roials-Capital"
 slug: "architecture-of-hardened-capital"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"

@@ -1,7 +1,7 @@
 ---
 title: "Capital Efficiency for the Modern Balance Sheet: Leveraging Core Holdings with Silent Authority"
 description: "Institutional briefing on capital efficiency, liquidity engineering, and structural balance sheet optimization for Fund-III buyouts, cross-border mandates, and North American energy introductions."
-date: "2026-03-04"
+date: "2023-07-02"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "capital-efficiency-modern-balance-sheet"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Monetization Architecture, asset hardening, NAEO"

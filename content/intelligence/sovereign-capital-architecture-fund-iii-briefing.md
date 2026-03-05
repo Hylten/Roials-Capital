@@ -1,7 +1,7 @@
 ---
 title: "Sovereign Capital Architecture for Fund-III Expansion Cycles"
 description: "An institutional briefing on capital raising, structural arbitrage, liquidity engineering, and multi‑jurisdictional acquisition architecture for Fund-III buyout platforms and special mandates."
-date: "2026-03-04"
+date: "2024-04-24"
 author: "Roials-Capital"
 slug: "sovereign-capital-architecture-Fund-III-briefing"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"

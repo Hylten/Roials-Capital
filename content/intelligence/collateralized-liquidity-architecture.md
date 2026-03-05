@@ -1,7 +1,7 @@
 ---
 title: "The Principal Architecture of Collateralized Liquidity"
 description: "Institutional analysis of liquidity engineering, collateralized flow mechanics, and capital hardening frameworks for Private Credit, ABL, and Fund-III buyout structures."
-date: "2026-03-04"
+date: "2025-09-09"
 author: "Jonas Hyltén"
 slug: "collateralized-liquidity-architecture"
 keywords: "kapitalanskaffning, oil and gas, private credit, Strategic Collateralization, asset hardening"

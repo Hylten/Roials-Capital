@@ -1,7 +1,7 @@
 ---
 title: "The Mandate Of Discrete Capital Deployment Across North American Energy And Institutional Buyout Frameworks"
 description: "Institutional briefing on the structural mandate for targeted capital deployment across North American energy, buyouts, liquidity engineering, and special cross jurisdictional mandates, with emphasis on Alberta heavy oil physics, capital gaps, and the Roials Capital introduction architecture."
-date: "2026-03-04"
+date: "2023-06-20"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "mandate-of-discrete-capital-deployment"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Capital Structuring, asset hardening, NAEO"

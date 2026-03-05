@@ -1,7 +1,7 @@
 ---
 title: "Decentralized Private Credit: The Institutional Frontier for Controlled Liquidity"
 description: "Institutional blueprint for Fund-III capital formation, decentralized credit structures, and systemic liquidity engineering across buyouts, ABL, and energy mandates."
-date: "2026-03-04"
+date: "2023-12-13"
 author: "Roials-Capital"
 slug: "decentralized-private-credit-institutional-frontier"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"

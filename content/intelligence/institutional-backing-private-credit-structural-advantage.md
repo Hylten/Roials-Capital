@@ -1,7 +1,7 @@
 ---
 title: "The Structural Advantage of Institutional Backing in Modern Private Credit"
 description: "A technical briefing on regime-shift dynamics in private credit, institutional balance sheet consolidation, and capital stack optimization across Fund-III buyouts, ABL liquidity engineering, and cross-border special mandates."
-date: "2026-03-04"
+date: "2025-01-18"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-backing-private-credit-structural-advantage"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Strategic Collateralization, asset hardening, NAEO"

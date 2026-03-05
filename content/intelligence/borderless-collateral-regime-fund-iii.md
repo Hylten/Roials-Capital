@@ -1,7 +1,7 @@
 ---
 title: "The Borderless Collateral Regime and the Rise of Transnational Acquisition Power"
 description: "Institutional briefing on crypto collateral mobility, cross-jurisdictional asset hardening, and the capital-raising architecture for Fund-III buyouts within the new M&A liquidity regime."
-date: "2026-03-04"
+date: "2025-02-09"
 author: "Roials-Capital"
 slug: "borderless-collateral-regime-Fund-III"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"

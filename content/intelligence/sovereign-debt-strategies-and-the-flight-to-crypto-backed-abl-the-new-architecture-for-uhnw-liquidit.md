@@ -1,7 +1,7 @@
 ---
 title: "Sovereign Debt Strategies and the Flight to Crypto-Backed ABL: The New Architecture for UHNW Liquidity"
 description: "Why sovereign debt fragility is pushing UHNW individuals toward crypto-backed asset based liquidity engineering, and how Roials-Capital structures institutional liquidity pathways."
-date: "2026-01-27"
+date: "2025-01-13"
 author: "Jonas Hyltén"
 slug: "sovereign-debt-strategies-and-the-flight-to-crypto-backed-abl-the-new-architecture-for-uhnw-liquidit"
 keywords: "private credit, asset based Institutional Liquidity Paths, liquidity, HNWI, UHNW, Roials-Capital"

@@ -1,7 +1,7 @@
 ---
 title: "Asset‑Based Liquidity Engineering as a Sovereign Capital Mandate for Fund‑III"
 description: "Institutional brief on sovereign‑grade liquidity architecture, ABL engineering, and Kapitalanskaffning frameworks optimized for Fund‑III buyouts, add‑ons, and multi‑jurisdictional capital formation."
-date: "2026-03-04"
+date: "2024-08-26"
 author: "Roials-Capital"
 slug: "asset-based-liquidity-engineering-sovereign-mandate"
 keywords: "kapitalanskaffning, oil and gas, private credit, Strategic Collateralization, asset hardening"

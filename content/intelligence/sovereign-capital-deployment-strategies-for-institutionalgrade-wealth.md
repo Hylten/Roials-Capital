@@ -1,7 +1,7 @@
 ---
 title: "Sovereign Capital Deployment Strategies for Institutional‑Grade Wealth"
 description: "An institutional analysis of liquidity architecture, private credit, and asset based liquidity engineering for sovereign-level capital deployment."
-date: "2026-01-27"
+date: "2023-10-09"
 author: "Jonas Hyltén"
 slug: "sovereign-capital-deployment-strategies-for-institutionalgrade-wealth"
 keywords: "private credit, asset based Institutional Liquidity Paths, liquidity, HNWI, UHNW, Roials-Capital"

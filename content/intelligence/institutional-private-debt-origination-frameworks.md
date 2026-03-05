@@ -1,7 +1,7 @@
 ---
 title: "Institutional Frameworks for Private Debt Origination in High-Constraint Regimes"
 description: "Technical architecture for Fund-III capital formation, private credit origination systems, liquidity engineering, and energy acquisition mandates under institutional governance."
-date: "2026-03-04"
+date: "2023-10-07"
 author: "Jonas Hyltén"
 slug: "institutional-private-debt-origination-frameworks"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"

@@ -1,7 +1,7 @@
 ---
 title: "The Calculus Of Risk In Institutional Private Cred"
 description: "The Calculus Of Risk In Institutional Private Cred"
-date: "2026-02-01"
+date: "2024-02-17"
 author: "Jonas Hyltén"
 slug: "the-calculus-of-risk-in-institutional-private-cred"
 keywords: "private credit, ABL, liquidity"

@@ -1,7 +1,7 @@
 ---
 title: "The Sovereign Crypto Bank Regime and the Liquidity Mandate of Fund-III"
 description: "Institutional brief on sovereign-grade digital banking architectures, Fund-III liquidity structuring, private credit capital formation, and multi‑jurisdictional acquisition lanes across MiFID II, ABL, and energy-transition mandates."
-date: "2026-03-04"
+date: "2024-03-28"
 author: "Roials-Capital"
 slug: "sovereign-crypto-bank-regime-liquidity-mandate-Fund-III"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"

@@ -1,7 +1,7 @@
 ---
 title: "The New Liquidity Standard for + Holders"
 description: "Institutional liquidity engineering for concentrated public equity positions. Private credit structuring, LTV discipline, and Fund-III capital architecture for UHNWIs and GPs."
-date: "2026-03-04"
+date: "2024-03-15"
 author: "Jonas Hyltén"
 slug: "new-liquidity-standard-institutional-liquidity-engineering"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"

@@ -1,7 +1,7 @@
 ---
 title: "Institutional Standards in Asset-Based liquidity engineering for the Private Capital Elite"
 description: "Explore the institutional frameworks shaping modern asset-based Asset-Backed Frameworks and private credit liquidity for HNWI and UHNW portfolios."
-date: "2026-01-23"
+date: "2023-03-11"
 author: "Jonas Hyltén"
 slug: "institutional-standards-in-asset-based-liquidity-engineering-for-the-private-capital-elite"
 keywords: "private credit, asset based Institutional Liquidity Paths, liquidity, HNWI, UHNW, Roials-Capital"

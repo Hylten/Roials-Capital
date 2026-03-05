@@ -1,7 +1,7 @@
 ---
 title: "Wealth Mobility Architecture and Borderless Crypto Collateral for Institutional Grade M and A"
 description: "A technical intelligence brief on sovereign grade wealth mobility systems, crypto collateral integration, and Liquidity Engineering for institutional M and A across private equity markets."
-date: "2026-03-04"
+date: "2023-04-03"
 author: "Jonas Hyltén"
 slug: "wealth-mobility-borderless-crypto-collateral"
 keywords: "kapitalanskaffning, private equity, Fund-III, Roials-Capital, 2026, Capital Structuring"

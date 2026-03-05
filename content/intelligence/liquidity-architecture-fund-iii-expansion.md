@@ -1,7 +1,7 @@
 ---
 title: "Liquidity Architecture for Fund-III Expansion"
 description: "Institutional brief on capital-raising mechanics, liquidity engineering, and structural optimization for Fund-III scale-up across buyouts, add-ons, and private credit frameworks."
-date: "2026-03-04"
+date: "2025-08-04"
 author: "Roials-Capital"
 slug: "liquidity-architecture-Fund-III-expansion"
 keywords: "kapitalanskaffning, oil and gas, private credit, Monetization Architecture, asset hardening"

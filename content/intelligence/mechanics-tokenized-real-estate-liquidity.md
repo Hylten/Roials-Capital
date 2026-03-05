@@ -1,7 +1,7 @@
 ---
 title: "The Mechanics of Tokenized Real Estate Liquidity"
 description: "Institutional-grade analysis of tokenized real estate liquidity structures, private credit interaction, ABL routing, and Fund-III capital scaling mechanics for UHNWIs and LPs."
-date: "2026-03-04"
+date: "2025-09-20"
 author: "Roials-Capital"
 slug: "mechanics-tokenized-real-estate-liquidity"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"

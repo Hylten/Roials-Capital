@@ -1,7 +1,7 @@
 ---
 title: "Institutional Frameworks for Private Debt Origination in a Fragmented Capital Regime"
 description: "A clinical institutional briefing on private debt origination mechanics, capital stack structuring, LTV discipline, and the role of Roials Capital as a strategic partner in Fund-III capital formation, ABL liquidity engineering, and special mandates across North America and the EU."
-date: "2026-03-04"
+date: "2024-12-09"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-frameworks-private-debt-origination"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Capital Structuring, asset hardening, NAEO"

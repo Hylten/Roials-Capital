@@ -1,7 +1,7 @@
 ---
 title: "Cross-Border Asset Hardening in Volatile Markets"
 description: "A high-trust institutional analysis of cross-border liquidity structuring, private credit, and asset based liquidity engineering for HNWI and UHNW portfolios."
-date: "2026-01-17"
+date: "2025-01-26"
 author: "Jonas Hyltén"
 slug: "cross-border-asset-hardening-in-volatile-markets"
 keywords: "private credit, asset based Monetization Architecture, liquidity, HNWI, UHNW, Roials-Capital"

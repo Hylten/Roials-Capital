@@ -1,7 +1,7 @@
 ---
 title: "Crypto Liquidity Architecture for Sovereign and Ultra-Capital Entities"
 description: "Institutional liquidity engineering framework for sovereign allocators, UHNW principal structures, and Fund-III GP mandates designing crypto-based settlement rails, reserve baskets, and cross-jurisdictional liquidity spines."
-date: "2026-03-04"
+date: "2025-04-26"
 author: "Roials-Capital"
 slug: "crypto-liquidity-architecture-sovereign-ultra-capital"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"

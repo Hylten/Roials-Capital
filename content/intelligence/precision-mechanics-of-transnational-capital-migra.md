@@ -1,7 +1,7 @@
 ---
 title: "Precision Mechanics Of Transnational Capital Migra"
 description: "Precision Mechanics Of Transnational Capital Migra"
-date: "2026-01-25"
+date: "2024-11-15"
 author: "Jonas Hyltén"
 slug: "precision-mechanics-of-transnational-capital-migra"
 keywords: "private credit, ABL, liquidity"

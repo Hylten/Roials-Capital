@@ -1,7 +1,7 @@
 ---
 title: "Precision Capital as Structural Governance"
 description: "Institutional doctrine on capital formation for Fund-III buyouts, liquidity engineering, and special-mandate energy acquisitions. High conviction. High velocity. Asset-first mechanics for UHNWIs and private credit allocators."
-date: "2026-03-04"
+date: "2025-10-08"
 author: "Jonas Hyltén"
 slug: "precision-financing-institutional-projects"
 keywords: "kapitalanskaffning, oil and gas, private credit, Strategic Collateralization, asset hardening"

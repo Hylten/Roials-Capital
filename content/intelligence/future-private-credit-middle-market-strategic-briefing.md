@@ -1,7 +1,7 @@
 ---
 title: "The Future of Private Credit: Institutional Pathways, Middle Market Demand, and the Reallocation Era"
 description: "Institutional briefing on the structural evolution of private credit, middle market financing gaps, and the capital reallocation cycle shaping Fund-III buyout execution, ABL liquidity engineering, and mandate-specific energy allocations through NAEOC."
-date: "2026-03-04"
+date: "2023-05-18"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "future-private-credit-middle-market-strategic-briefing"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Strategic Collateralization, asset hardening, NAEO"

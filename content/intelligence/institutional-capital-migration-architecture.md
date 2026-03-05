@@ -1,7 +1,7 @@
 ---
 title: "The Mechanics of Institutional Capital Migration Across Cycles and Regimes"
 description: "A technical dissection of cross cycle capital mobility, regime dependent allocation behavior, structural frictions, and the liquidity engineering frameworks required for allocators navigating Fund‑III buyouts, ABL structures, and energy specific mandates in Alberta."
-date: "2026-03-04"
+date: "2025-12-12"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-capital-migration-architecture"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Asset-Backed Frameworks, asset hardening, NAEO"

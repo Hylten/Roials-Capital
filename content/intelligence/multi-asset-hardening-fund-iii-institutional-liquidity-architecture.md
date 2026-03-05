@@ -1,7 +1,7 @@
 ---
 title: "Multi‑Asset Hardening Architecture for Fund‑III"
 description: "Institutional brief on capital hardening, digital‑asset integration, and liquidity engineering for Fund‑III with focus on capital raising, ABL structuring, and cross‑jurisdictional acquisition velocity."
-date: "2026-03-04"
+date: "2024-12-02"
 author: "Roials-Capital | Principal Architect"
 slug: "multi-asset-hardening-Fund-III-institutional-liquidity-architecture"
 keywords: "kapitalanskaffning, private credit, oil and gas, Asset-Backed Frameworks, asset hardening"

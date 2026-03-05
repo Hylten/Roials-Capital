@@ -1,7 +1,7 @@
 ---
 title: "Sovereign Debt Strategies for Family Offices: Structural Liquidity Architectures for 2026"
 description: "Institutional briefing on sovereign debt mechanics, liquidity engineering, private credit structuring, and capital-raising vectors for Fund-III buyouts amid 2026 macro-regime shifts."
-date: "2026-03-04"
+date: "2025-05-23"
 author: "Roials-Capital (Principal Architect)"
 slug: "sovereign-debt-strategies-family-offices-2026"
 keywords: "kapitalanskaffning, private credit, Asset-Backed Frameworks, asset hardening, oil and gas, sovereign debt, Fund-III"

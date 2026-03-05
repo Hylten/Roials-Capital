@@ -1,7 +1,7 @@
 ---
 title: "The Structural Role of ABL in Modern Diversified Wealth Portfolios"
 description: "An institutional analysis of how Asset Based liquidity engineering enhances liquidity, stability, and controlled optionality for HNWI and UHNW portfolios."
-date: "2026-02-09"
+date: "2024-11-28"
 author: "Jonas Hyltén"
 slug: "the-structural-role-of-abl-in-modern-diversified-wealth-portfolios"
 keywords: "private credit, asset based Capital Structuring, liquidity, HNWI, UHNW, Roials-Capital"

@@ -1,7 +1,7 @@
 ---
 title: "The Sovereign Convergence: Private Credit Ascendant and the Reconstitution of Wealth"
 description: "Institutional brief on the structural ascent of private credit, sovereign capital realignment, and Fund-III capital formation strategies across buyouts, liquidity engineering, and special mandates."
-date: "2026-03-04"
+date: "2024-11-24"
 author: "Roials-Capital"
 slug: "sovereign-convergence-private-credit-Fund-III"
 keywords: "kapitalanskaffning, oil and gas, private credit, Strategic Collateralization, asset hardening"

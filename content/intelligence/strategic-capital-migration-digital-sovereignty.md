@@ -1,7 +1,7 @@
 ---
 title: "Strategic Capital Migration in the Age of Digital Sovereignty"
 description: "Institutional brief on jurisdictional arbitrage, digital sovereignty, and capital migration strategies for Fund-III buyouts, liquidity engineering, and special energy mandates."
-date: "2026-03-04"
+date: "2024-03-14"
 author: "Roials-Capital"
 slug: "strategic-capital-migration-digital-sovereignty"
 keywords: "kapitalanskaffning, oil and gas, private credit, Capital Structuring, asset hardening"

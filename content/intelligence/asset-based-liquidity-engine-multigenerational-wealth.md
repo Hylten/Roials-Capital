@@ -1,7 +1,7 @@
 ---
 title: "Asset‑Based Liquidity Engineering as the Structural Engine of Multi‑Generational Wealth"
 description: "Institutional brief on capital formation strategy, ABL-driven Strategic Collateralization, and the architecture of multi‑generational asset hardening for Fund‑III and GP/LP mandates."
-date: "2026-03-04"
+date: "2023-02-24"
 author: "Roials-Capital"
 slug: "asset-based-liquidity-engine-multigenerational-wealth"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"

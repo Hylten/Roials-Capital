@@ -1,7 +1,7 @@
 ---
 title: "Liquidity Engineering Against Bitcoin: The Institutional Gold Standard for Family Offices"
 description: "A principal-level briefing on Capital Structuring, structured capital, and Fund-III readiness for family offices positioning Bitcoin as a collateralized reserve asset within multi-layered private markets architecture."
-date: "2026-03-04"
+date: "2024-10-28"
 author: "Roials-Capital"
 slug: "liquidity-engineering-bitcoin-gold-standard-family-offices"
 keywords: "kapitalanskaffning, oil and gas, private credit, Strategic Collateralization, asset hardening"

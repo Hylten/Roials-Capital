@@ -1,7 +1,7 @@
 ---
 title: "The Mechanics of Multi‑Asset Liquidity for Institutional‑Grade Portfolios"
 description: "Institutional brief on multi‑asset liquidity engineering, capital formation for Fund-III buyout mandates, and cross‑jurisdictional acquisition structuring under MiFID II, NAEOC, and private credit frameworks."
-date: "2026-03-04"
+date: "2023-03-18"
 author: "Roials-Capital | Principal Desk"
 slug: "multi-asset-liquidity-mechanics-institutional-portfolios"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"

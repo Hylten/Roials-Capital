@@ -1,7 +1,7 @@
 ---
 title: "Institutional Alignment and the Architecture of Private Credit Stewardship"
 description: "Technical briefing for UHNWIs and institutional LPs on alignment mechanics, LTV structuring, cash-flow governance, and Fund-III capital stewardship."
-date: "2026-03-04"
+date: "2023-06-23"
 author: "Jonas Hyltén"
 slug: "institutional-alignment-private-credit-architecture"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"

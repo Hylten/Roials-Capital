@@ -1,7 +1,7 @@
 ---
 title: "Asset‑Based Liquidity Engineering as the Structural Engine of Multi‑Generational Wealth"
 description: "Institutional brief for LP/GP allocators on how asset‑based Capital Structuring, jurisdictional structuring, and acquisition-grade capital architecture form the backbone of multi-generational wealth creation within Fund‑III buyout ecosystems."
-date: "2026-03-04"
+date: "2025-05-05"
 author: "Roials-Capital | Principal Investigator"
 slug: "asset-based-liquidity-engineering-multi-generational-wealth"
 keywords: "kapitalanskaffning, oil and gas, private credit, Monetization Architecture, asset hardening"

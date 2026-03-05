@@ -1,7 +1,7 @@
 ---
 title: "The Reallocation Mandate"
 description: "Institutional analysis of private credit's regime shift, mid-market absorption capacity, and Fund-III capital formation pathways across buyouts, ABL liquidity engineering, and special mandates."
-date: "2026-03-04"
+date: "2025-05-12"
 author: "Roials-Capital"
 slug: "reallocation-mandate-private-credit-Fund-III"
 keywords: "kapitalanskaffning, oil and gas, private credit, Strategic Collateralization, asset hardening"

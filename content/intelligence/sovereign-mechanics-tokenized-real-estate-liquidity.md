@@ -1,7 +1,7 @@
 ---
 title: "The Sovereign Mechanics of Tokenized Real Estate Liquidity for Fund-III Acceleration"
 description: "Institutional analysis of tokenized real-asset liquidity structures, capital-raising mechanics, and cross-jurisdictional pathways for Fund-III buyouts, ABL engineering, and special-mandate acquisition pipelines."
-date: 2026-03-04 
+date: 2025-05-11 
 author: Jonas Roials 
 slug: sovereign-mechanics-tokenized-real-estate-liquidity 
 keywords: kapitalanskaffning, private credit, liquidity engineering, asset hardening, oil and gas 

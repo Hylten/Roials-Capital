@@ -1,7 +1,7 @@
 ---
 title: "Institutional Private Credit vs Traditional Banking: The Architecture of Modern Liquidity"
 description: "A technical briefing on the regime shift from regulated banking credit to institutional private credit, with emphasis on capital formation mechanics, liquidity engineering architectures, and the operational structures behind Fund-III execution environments."
-date: "2026-03-04"
+date: "2025-10-23"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-private-credit-vs-traditional-banking-architecture-of-modern-liquidity"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Institutional Liquidity Paths, asset hardening, NAEO"

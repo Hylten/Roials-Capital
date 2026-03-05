@@ -1,7 +1,7 @@
 ---
 title: "The Institutional Playbook for Capital Preservation in Fund-III Regimes"
 description: "A principal-level framework for kapitalanskaffning, private credit structuring, liquidity engineering, and institutional-grade capital defense across buyout ecosystems."
-date: "2026-03-04"
+date: "2025-12-18"
 author: "Roials-Capital"
 slug: "institutional-playbook-capital-preservation-Fund-III"
 keywords: "kapitalanskaffning, oil and gas, private credit, Institutional Liquidity Paths, asset hardening"

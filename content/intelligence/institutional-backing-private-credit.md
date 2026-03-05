@@ -1,7 +1,7 @@
 ---
 title: "The Power of Institutional Backing in Private Credit"
 description: "A technical briefing on institutional alignment, capital stack stability, and strategic partner dynamics within the global private credit landscape, with applied relevance to Fund-III+ capital formation, liquidity engineering, and special mandate deployment."
-date: "2026-03-04"
+date: "2025-10-13"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-backing-private-credit"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Asset-Backed Frameworks, asset hardening, NAEO"

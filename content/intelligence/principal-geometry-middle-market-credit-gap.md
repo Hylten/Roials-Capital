@@ -1,7 +1,7 @@
 ---
 title: "The Principal Geometry of the Middle Market Credit Gap"
 description: "A high-density institutional analysis of the structural credit deficit shaping middle‑market buyouts, add‑ons, and energy acquisitions, with emphasis on kapitalanskaffning for Fund‑III architecture, liquidity engineering, and cross‑border mandates."
-date: "2026-03-04"
+date: "2025-01-06"
 author: "Roials-Capital"
 slug: "principal-geometry-middle-market-credit-gap"
 keywords: "kapitalanskaffning, oil and gas, private credit, Institutional Liquidity Paths, asset hardening"

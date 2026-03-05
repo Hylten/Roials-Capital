@@ -1,7 +1,7 @@
 ---
 title: "Precision Mechanics of Transnational Capital Migration"
 description: "Institutional analysis on cross-border capital flows, private buyout liquidity structures, and Fund-III capital formation mechanics"
-date: "2026-03-04"
+date: "2026-01-29"
 author: "Jonas Hyltén"
 slug: "precision-mechanics-transnational-capital-migration"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"

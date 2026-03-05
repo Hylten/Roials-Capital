@@ -1,7 +1,7 @@
 ---
 title: "The Sovereign Crypto Bank Regime and the Liquidity Mandate of Fund-III"
 description: "Institutional analysis of sovereign-grade crypto banking, UHNWI liquidity engineering, and the structural capital shift driving Fund-III acquisition velocity."
-date: "2026-03-04"
+date: "2024-06-13"
 author: "Jonas Hyltén"
 slug: "sovereign-crypto-banks-uhnw-liquidity-Fund-III"
 keywords: "kapitalanskaffning, oil and gas, private credit, Strategic Collateralization, asset hardening"

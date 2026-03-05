@@ -1,7 +1,7 @@
 ---
 title: "Strategic Asset Allocation for Long‑Term Liquidity: The Architecture of Durable Capital"
 description: "Institutional brief on capital durability, liquidity engineering, buyout structures, and multi‑jurisdictional asset design optimized for Fund-III capital raising and long‑horizon private markets."
-date: 2026-03-04
+date: 2023-03-01
 author: Roials-Capital
 slug: strategic-asset-allocation-long-term-liquidity
 keywords: kapitalanskaffning, oil and gas, private credit, Institutional Liquidity Paths, asset hardening

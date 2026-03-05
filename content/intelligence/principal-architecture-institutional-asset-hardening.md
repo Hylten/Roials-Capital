@@ -1,7 +1,7 @@
 ---
 title: "Principal Architecture for Institutional‑Grade Asset Hardening"
 description: "High‑density institutional briefing on capital raising (Fund‑III+), jurisdictional structuring, asset hardening mechanics, liquidity engineering, and acquisition‑grade risk architecture for LP/GP allocators."
-date: "2026-03-04"
+date: "2025-10-15"
 author: "Roials-Capital"
 slug: "principal-architecture-institutional-asset-hardening"
 keywords: "kapitalanskaffning, oil and gas, private credit, Capital Structuring, asset hardening"

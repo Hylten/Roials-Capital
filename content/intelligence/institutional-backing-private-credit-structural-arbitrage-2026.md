@@ -1,7 +1,7 @@
 ---
 title: "The Power of Institutional Backing in Private Credit: Structural Advantage, Capital Discipline, and Strategic Alignment in the 2026 Energy and Middle Market Credit Regime"
 description: "An institutional briefing on the structural arbitrage emerging from North American energy finance, middle market capital dislocation, and the operational intelligence required for allocators to navigate private credit with disciplined strategic alignment."
-date: "2026-03-04"
+date: "2025-07-19"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-backing-private-credit-structural-arbitrage-2026"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

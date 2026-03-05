@@ -1,7 +1,7 @@
 ---
 title: "Principal Architecture for Institutional Grade Asset Hardening"
 description: "Institutional blueprint for capital raising, buyout infrastructure, liquidity engineering, and jurisdictional asset hardening mechanics for Fund-III scale operators."
-date: "2026-03-04"
+date: "2025-04-07"
 author: "Roials-Capital"
 slug: "institutional-asset-hardening-architecture"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"

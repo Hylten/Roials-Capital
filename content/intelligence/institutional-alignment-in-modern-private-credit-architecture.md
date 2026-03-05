@@ -1,7 +1,7 @@
 ---
 title: "Institutional Alignment in Modern Private Credit Architecture"
 description: "A high‑authority analysis of liquidity, private credit, and asset based liquidity engineering frameworks for HNWI and UHNW portfolios."
-date: "2026-01-19"
+date: "2023-12-17"
 author: "Jonas Hyltén"
 slug: "institutional-alignment-in-modern-private-credit-architecture"
 keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, Roials-Capital"

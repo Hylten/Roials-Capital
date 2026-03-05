@@ -1,7 +1,7 @@
 ---
 title: "Architecting Asset Hardening for Executive Portfolios"
 description: "An institutional exploration of liquidity engineering, private credit, and asset based Monetization Architecture frameworks for HNWI and UHNW portfolios."
-date: "2026-01-17"
+date: "2025-11-11"
 author: "Jonas Hyltén"
 slug: "architecting-asset-hardening-for-executive-portfolios"
 keywords: "private credit, asset based Institutional Liquidity Paths, liquidity, HNWI, UHNW, Roials-Capital"

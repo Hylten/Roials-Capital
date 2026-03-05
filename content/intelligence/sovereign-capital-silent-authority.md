@@ -1,7 +1,7 @@
 ---
 title: "Sovereign Capital: The Silent Authority in Modern Financing"
 description: "Institutional analysis of sovereign capital flows, Fund-III buyout dynamics, liquidity engineering, and jurisdictional structuring for advanced GP/LP mandates."
-date: "2026-03-04"
+date: "2024-11-03"
 author: "Jonas Roials"
 slug: "sovereign-capital-silent-authority"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"

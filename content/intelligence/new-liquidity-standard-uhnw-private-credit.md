@@ -1,7 +1,7 @@
 ---
 title: "The New Liquidity Standard for UHNW Portfolios: Institutional Private Credit as Strategic Armor"
 description: "Institutional brief on private credit as liquidity infrastructure, engineered for UHNW, family offices, and GP/LP capital stacks; focused on Fund-III capital raising, asset hardening, and cross‑jurisdictional liquidity architecture."
-date: "2026-03-04"
+date: "2025-04-11"
 author: "Roials-Capital"
 slug: "new-liquidity-standard-uhnw-private-credit"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"

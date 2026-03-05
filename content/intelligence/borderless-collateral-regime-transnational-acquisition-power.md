@@ -1,7 +1,7 @@
 ---
 title: "The Borderless Collateral Regime and the Ascension of Transnational Acquisition Power"
 description: "Institutional brief on cross‑jurisdictional collateral mobility, Fund-III capital formation dynamics, and the emergence of sovereign-grade acquisition throughput for buyouts, ABL liquidity engineering, and energy-sector special mandates."
-date: "2026-03-04"
+date: "2023-07-14"
 author: "Roials-Capital"
 slug: "borderless-collateral-regime-transnational-acquisition-power"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"

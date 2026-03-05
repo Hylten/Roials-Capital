@@ -1,7 +1,7 @@
 ---
 title: "Silent Authority on the Modern Balance Sheet"
 description: "Institutional brief on capital formation for Fund-III, buyout-capable liquidity engineering, and mandate-driven acquisition structuring across US/EU regimes."
-date: "2026-03-04"
+date: "2025-12-26"
 author: "Roials-Capital"
 slug: "silent-authority-modern-balance-sheet"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"

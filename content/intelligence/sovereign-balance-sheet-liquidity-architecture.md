@@ -1,7 +1,7 @@
 ---
 title: "Designing the Sovereign Balance Sheet: The Architecture of Enduring Liquidity"
 description: "Institutional blueprint for private liquidity architecture, sovereign-grade balance sheet engineering, Fund-III capital formation, and cash-flow sovereignty mechanics."
-date: "2026-03-04"
+date: "2024-12-08"
 author: "Jonas Hyltén"
 slug: "sovereign-balance-sheet-liquidity-architecture"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"

@@ -1,7 +1,7 @@
 ---
 title: "The Sovereign Crypto Bank Regime"
 description: "Institutional thesis on sovereign-grade digital balance sheets, liquidity engineering, and the Fund-III capital formation horizon for UHNW allocators."
-date: "2026-03-04"
+date: "2024-12-23"
 author: "Jonas Hyltén"
 slug: "sovereign-crypto-bank-regime"
 keywords: "kapitalanskaffning, oil and gas, private credit, Strategic Collateralization, asset hardening"

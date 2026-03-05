@@ -1,7 +1,7 @@
 ---
 title: "The New Liquidity Standard for UHNW Portfolios: Institutional Private Credit as Strategic Armor"
 description: "Why liquidity has become the primary strategic constraint for ultra-high-net-worth families and how private credit provides structural armor."
-date: "2026-02-06"
+date: "2024-02-05"
 author: "Jonas Hyltén"
 slug: "the-new-liquidity-standard-for-uhnw-portfolios-institutional-private-credit-as-strategic-armor"
 keywords: "private credit, liquidity, UHNW, wealth stewardship, Roials Capital"

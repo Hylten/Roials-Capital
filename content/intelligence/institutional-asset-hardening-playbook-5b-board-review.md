@@ -1,7 +1,7 @@
 ---
 title: "The Institutional Asset Hardening Playbook: Passing a $5B Board Review"
 description: "A principal-grade framework for asset hardening, capital raising for Fund-III+, and cross-jurisdictional structuring engineered for institutional LP/GP scrutiny."
-date: "2026-03-04"
+date: "2023-05-05"
 author: "Roials-Capital"
 slug: "institutional-asset-hardening-playbook-5b-board-review"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"

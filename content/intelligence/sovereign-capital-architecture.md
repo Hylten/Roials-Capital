@@ -1,7 +1,7 @@
 ---
 title: "The Sovereign Capital Architecture"
 description: "Institutional framework for multi generational liquidity, capital raising for Fund-III, and the structural engineering of sovereign-grade cash flow systems for UHNWIs and institutional LPs."
-date: "2026-03-04"
+date: "2023-03-21"
 author: "Jonas Hyltén"
 slug: "sovereign-capital-architecture"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"

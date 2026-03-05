@@ -1,7 +1,7 @@
 ---
 title: "liquidity engineering Against Bitcoin: The New Gold Standard for Family Offices"
 description: "Institutional liquidity through private credit and asset based Strategic Collateralization, anchored by Bitcoin as a collateral class engineered for HNWI and UHNW capital environments."
-date: "2026-01-24"
+date: "2024-03-18"
 author: "Jonas Hyltén"
 slug: "liquidity-engineering-against-bitcoin-the-new-gold-standard-for-family-offices"
 keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, Roials-Capital"

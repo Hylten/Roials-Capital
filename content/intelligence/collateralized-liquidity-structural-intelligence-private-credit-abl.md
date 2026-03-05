@@ -1,7 +1,7 @@
 ---
 title: "The Mechanics of Collateralized Liquidity: Structural Intelligence for Private Credit and ABL"
 description: "Institutional briefing on collateralized liquidity architecture, LTV control systems, cash‑flow mechanics, and capital raising protocols for Fund-III buyouts and ABL structures."
-date: "2026-03-04"
+date: "2026-02-13"
 author: "Jonas Hyltén"
 slug: "collateralized-liquidity-structural-intelligence-private-credit-abl"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"

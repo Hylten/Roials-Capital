@@ -1,7 +1,7 @@
 ---
 title: "The Architecture of Institutional Trust in Modern Capital Formation"
 description: "An institutional briefing on the structural mechanics that govern allocator confidence, counterparty selection, and multi jurisdictional capital alignment across Buyout Fund-III pipelines, Liquidity Engineering mandates, and North American energy acquisition corridors."
-date: "2026-03-04"
+date: "2023-04-29"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "architecture-of-institutional-trust"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Capital Structuring, asset hardening, NAEOCC"

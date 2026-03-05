@@ -1,7 +1,7 @@
 ---
 title: "Sovereign Crypto Liquidity Architecture for Fund-III Capital Formation"
 description: "Institutional-grade framework for sovereign-scale crypto liquidity engineering, private credit structuring, and ultra‑capital acquisition pathways for Fund‑III buyouts and cross‑jurisdictional expansions."
-date: "2026-03-04"
+date: "2024-10-06"
 author: "Jonas Roials"
 slug: "sovereign-crypto-liquidity-architecture-Fund-III"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"

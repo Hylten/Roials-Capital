@@ -1,7 +1,7 @@
 ---
 title: "Institutional Grade Infrastructure for Asset Hardening"
 description: "High conviction framework for capital hardening mechanics, ABL liquidity engineering, and private market acquisition readiness for Fund-III scale structures"
-date: "2026-03-04"
+date: "2024-05-03"
 author: "Roials-Capital"
 slug: "institutional-grade-asset-hardening"
 keywords: "kapitalanskaffning, oil and gas, private credit, Strategic Collateralization, asset hardening"

@@ -1,7 +1,7 @@
 ---
 title: "Borderless Collateral and the Institutional Mobility of Wealth"
 description: "Institutional brief on cross‑jurisdictional collateral mobility, sovereign‑grade capital structuring, and Fund-III buyout acceleration under Roials-Capital mandates."
-date: "2026-03-04"
+date: "2025-09-23"
 author: "Roials-Capital"
 slug: "borderless-collateral-mobility-of-wealth"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"

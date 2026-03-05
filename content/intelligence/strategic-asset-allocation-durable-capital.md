@@ -1,7 +1,7 @@
 ---
 title: "Strategic Asset Allocation for Long Term Liquidity: The Architecture of Durable Capital"
 description: "Institutional analysis of liquidity engineering, capital durability, LTV structuring, and the Fund-III regime for private buyout operators seeking long term solvency and scalable AUM expansion."
-date: "2026-03-04"
+date: "2025-12-07"
 author: "Jonas Hyltén"
 slug: "strategic-asset-allocation-durable-capital"
 keywords: "kapitalanskaffning, oil and gas, private credit, Capital Structuring, asset hardening"

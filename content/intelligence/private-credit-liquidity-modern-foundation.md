@@ -1,7 +1,7 @@
 ---
 title: "Private Credit and Liquidity: The Modern Foundation for Fund‑III Expansion"
 description: "Institutional brief on private credit, liquidity engineering, and capital formation for Fund‑III buyouts and add‑ons, aligned with Roials‑Capital’s cross‑jurisdictional framework and LP/GP mandates."
-date: "2026-03-04"
+date: "2025-04-20"
 author: "Roials-Capital"
 slug: "private-credit-liquidity-modern-foundation"
 keywords: "kapitalanskaffning, oil and gas, private credit, Monetization Architecture, asset hardening"

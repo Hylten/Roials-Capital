@@ -1,7 +1,7 @@
 ---
 title: "Strategic Credit Architecture for High‑Net‑Worth Entrepreneurs"
 description: "Institutional-grade credit architecture for Fund-III capital formation, private buyouts, liquidity engineering, and energy mandates under MiFID II and NAEOC parameters."
-date: "2026-03-04"
+date: "2023-04-30"
 author: "Jonas Hyltén"
 slug: "strategic-credit-architecture-hnwi"
 keywords: "kapitalanskaffning, oil and gas, private credit, Capital Structuring, asset hardening"

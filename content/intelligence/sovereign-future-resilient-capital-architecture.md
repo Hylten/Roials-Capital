@@ -1,7 +1,7 @@
 ---
 title: "The Sovereign Future: Architecting Resilient Capital for Fund-III and Beyond"
 description: "Institutional brief on sovereign-capital construction, multi‑jurisdictional funding lanes, and hard-asset liquidity engineering for Fund-III buyouts, add‑ons, and special mandates in energy and regulated European markets."
-date: "2026-03-04"
+date: "2025-07-31"
 author: "Roials-Capital"
 slug: "sovereign-future-resilient-capital-architecture"
 keywords: "kapitalanskaffning, oil and gas, private credit, Monetization Architecture, asset hardening"

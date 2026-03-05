@@ -1,7 +1,7 @@
 ---
 title: "Asset Based Liquidity Engineering as the Structural Engine for Multi Generational Wealth"
 description: "Institutional memorandum detailing the structural role of Asset Based Capital Structuring within modern capital regimes, its function inside Fund-III buyout ecosystems, and its strategic alignment with North American energy arbitrage and balance sheet optimization."
-date: "2026-03-04"
+date: "2025-04-05"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "asset-based-liquidity-engineering-structural-engine-multi-generational-wealth"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Asset-Backed Frameworks, asset hardening, NAEOCC"

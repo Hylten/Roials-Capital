@@ -1,7 +1,7 @@
 ---
 title: "Cross-Border Asset Hardening in Volatile Markets: Institutional Frameworks for Capital Stability and Strategic Expansion"
 description: "Analyst-grade briefing on structural capital dislocations, cross-border asset hardening mechanics, and institutional navigation protocols relevant to UHNWIs, private credit funds, and international GPs operating in 2026 volatility regimes."
-date: "2026-03-04"
+date: "2025-03-13"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "cross-border-asset-hardening-2026"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Middle Market Credit Gap with Structural Precision"
 description: "A surgical examination of liquidity architecture, private credit, and asset based liquidity engineering solutions for HNWI and UHNW investors facing the middle market credit gap."
-date: "2026-01-25"
+date: "2023-10-17"
 author: "Jonas Hyltén"
 slug: "navigating-the-middle-market-credit-gap-with-structural-precision"
 keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, Roials-Capital"

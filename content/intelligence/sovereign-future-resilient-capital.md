@@ -1,7 +1,7 @@
 ---
 title: "The Sovereign Future: Building Resilient Capital"
 description: "Institutional thesis on sovereign-grade capital construction for Fund-III capital raising, liquidity engineering, and special mandate acquisition"
-date: "2026-03-04"
+date: "2023-03-23"
 author: "Jonas Hyltén"
 slug: "sovereign-future-resilient-capital"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"

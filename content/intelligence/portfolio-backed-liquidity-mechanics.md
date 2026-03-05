@@ -1,7 +1,7 @@
 ---
 title: "The Mechanics of Portfolio Backed Liquidity for Modern Private Capital"
 description: "An institutional briefing on structural liquidity engineering, balance sheet optimization, and portfolio backed capital architecture for contemporary private markets allocators operating under a post Basel III and AIFMD constrained environment."
-date: "2026-03-04"
+date: "2023-01-07"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "portfolio-backed-liquidity-mechanics"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Asset-Backed Frameworks, asset hardening, NAEO"

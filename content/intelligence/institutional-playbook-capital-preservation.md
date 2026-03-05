@@ -1,7 +1,7 @@
 ---
 title: "The Institutional Playbook for Capital Preservation in a Fragmented Capital Regime"
 description: "A clinical analysis for institutional allocators on capital preservation architecture across private markets, with emphasis on Fund-III buyout sequencing, Liquidity Engineering, and North American energy optionality through NAEO."
-date: "2026-03-04"
+date: "2024-11-10"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-playbook-capital-preservation"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Asset-Backed Frameworks, asset hardening, NAEO"

@@ -1,7 +1,7 @@
 ---
 title: "Structural Alpha in Private Credit Portfolios: The Architecture of Controlled Liquidity"
 description: "An institutional examination of structural alpha within private credit and asset based liquidity engineering frameworks, engineered for HNWI and UHNW liquidity optimization."
-date: "2026-01-31"
+date: "2023-11-25"
 author: "Jonas Hyltén"
 slug: "structural-alpha-in-private-credit-portfolios-the-architecture-of-controlled-liquidity"
 keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, Roials-Capital"

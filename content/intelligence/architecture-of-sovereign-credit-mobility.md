@@ -1,7 +1,7 @@
 ---
 title: "The Architecture of Sovereign Credit Mobility"
 description: "Institutional blueprint for Fund-III capital formation, cross-jurisdictional credit mobility, and liquidity engineering across sovereign, energy, and acquisition-driven mandates."
-date: "2026-03-04"
+date: "2023-09-23"
 author: "Roials-Capital"
 slug: "architecture-of-sovereign-credit-mobility"
 keywords: "kapitalanskaffning, oil and gas, private credit, Capital Structuring, asset hardening"

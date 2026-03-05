@@ -1,7 +1,7 @@
 ---
 title: "Strategic Capital Migration for Global UHNWIs"
 description: "Institutional overview of strategic liquidity architecture, private credit, and asset based liquidity engineering frameworks for global UHNW capital migration."
-date: "2026-01-29"
+date: "2023-10-31"
 author: "Jonas Hyltén"
 slug: "strategic-capital-migration-for-global-uhnwis"
 keywords: "private credit, asset based Capital Structuring, liquidity, HNWI, UHNW, Roials-Capital"

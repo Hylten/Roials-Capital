@@ -1,7 +1,7 @@
 ---
 title: "Crypto Liquidity Architecture for Sovereign and Ultra Allocators"
 description: "Institutional liquidity architecture for UHNW and sovereign allocators. Focus on Fund-III capital formation, private credit structuring, and cross-venue liquidity engineering."
-date: "2026-03-04"
+date: "2024-12-17"
 author: "Roials-Capital"
 slug: "crypto-liquidity-architecture-sovereign-ultra-allocators"
 keywords: "kapitalanskaffning, oil and gas, private credit, Monetization Architecture, asset hardening"

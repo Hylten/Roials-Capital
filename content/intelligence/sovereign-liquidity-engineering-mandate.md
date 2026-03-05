@@ -1,7 +1,7 @@
 ---
 title: "Sovereign Mandate Architecture for Asset‑Based Liquidity Engineering"
 description: "Institutional-grade deep briefing on Asset-Based Asset-Backed Frameworks as a sovereign mandate for Fund-III capital raising, jurisdictional arbitrage, and asset hardening frameworks."
-date: "2026-03-04"
+date: "2024-07-26"
 author: "Roials-Capital"
 slug: "sovereign-liquidity-engineering-mandate"
 keywords: "kapitalanskaffning, oil and gas, private credit, Capital Structuring, asset hardening"

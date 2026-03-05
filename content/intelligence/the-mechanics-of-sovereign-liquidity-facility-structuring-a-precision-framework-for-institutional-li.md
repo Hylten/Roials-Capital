@@ -1,7 +1,7 @@
 ---
 title: "The Mechanics of Sovereign liquidity facility Structuring: A Precision Framework for Institutional Liquidity"
 description: "An institutional-level breakdown of sovereign liquidity facility structuring, private credit, and asset based liquidity engineering mechanics for high net worth liquidity execution."
-date: "2026-02-05"
+date: "2023-11-16"
 author: "Jonas Hyltén"
 slug: "the-mechanics-of-sovereign-liquidity-facility-structuring-a-precision-framework-for-institutional-li"
 keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, Roials-Capital"

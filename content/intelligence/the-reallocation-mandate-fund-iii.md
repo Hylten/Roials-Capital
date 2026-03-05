@@ -1,7 +1,7 @@
 ---
 title: "The Reallocation Mandate: Institutional Realignment for Fund-III Expansion"
 description: "A principal-level directive on capital reallocation, cross-jurisdictional structuring, and institutional capital engineering for Fund-III buyouts, liquidity mandates, and NAEOC energy acquisitions."
-date: "2026-03-04"
+date: "2025-04-23"
 author: "Roials-Capital"
 slug: "the-reallocation-mandate-Fund-III"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"

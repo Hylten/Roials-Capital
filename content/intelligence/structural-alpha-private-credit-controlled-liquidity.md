@@ -1,7 +1,7 @@
 ---
 title: "Structural Alpha in Private Credit Portfolios: The Architecture of Controlled Liquidity"
 description: "Institutional brief on controlled‑liquidity architecture, structural alpha engineering, and Fund‑III capital formation mechanics across buyouts, add‑ons, and energy mandates."
-date: "2026-03-04"
+date: "2023-06-21"
 author: "Roials-Capital"
 slug: "structural-alpha-private-credit-controlled-liquidity"
 keywords: "kapitalanskaffning, private credit, liquidity engineering, asset hardening"

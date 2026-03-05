@@ -1,7 +1,7 @@
 ---
 title: "Structural Alpha in Asset Based liquidity engineering: Engineered Reliability"
 description: "How Roials Capital generates surplus returns through precise structural design and engineered constraints in ABL."
-date: "2026-01-30"
+date: "2024-08-11"
 author: "Jonas Hyltén"
 slug: "structural-alpha-in-asset-based-liquidity-engineering-engineered-reliability"
 keywords: "ABL, Structural Alpha, Asset Based Asset-Backed Frameworks, Roials Capital"

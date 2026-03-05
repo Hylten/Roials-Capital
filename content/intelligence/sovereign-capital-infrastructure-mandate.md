@@ -1,7 +1,7 @@
 ---
 title: "The Sovereign Infrastructure Mandate"
 description: "Institutional briefing on the regime shift in sovereign capital architecture, private credit hardening, Fund-III capital formation, and the structural redesign of national liquidity systems."
-date: "2026-03-04"
+date: "2024-03-06"
 author: "Jonas Hyltén"
 slug: "sovereign-capital-infrastructure-mandate"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"

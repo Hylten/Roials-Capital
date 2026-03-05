@@ -1,7 +1,7 @@
 ---
 title: "Institutional Backing as the Determinant Variable in Private Credit Regimes"
 description: "Technical briefing on capitalization dynamics, LP governed scale advantages, liquidity engineering, and the structural power of institutional alignment for Fund-III private credit vehicles."
-date: "2026-03-04"
+date: "2024-08-21"
 author: "Roials-Capital"
 slug: "institutional-backing-private-credit-power"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"

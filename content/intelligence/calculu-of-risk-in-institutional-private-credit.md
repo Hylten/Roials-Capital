@@ -1,7 +1,7 @@
 ---
 title: "The Calculus Of Risk In Institutional Private Credit"
 description: "An institutional briefing on risk stratification, structural credit mechanics, and capital formation dynamics shaping Fund-III+ buyouts, liquidity engineering mandates, and North American energy special situations."
-date: "2026-03-04"
+date: "2023-09-17"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "calculu-of-risk-in-institutional-private-credit"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Capital Structuring, asset hardening, NAEOCC"

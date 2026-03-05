@@ -1,7 +1,7 @@
 ---
 title: "Institutional‑Grade Liquidity Architecture for High‑Value Assets"
 description: "A principal‑level analytical brief on capital formation, asset‑backed liquidity engineering, and institutional liquidity frameworks for Fund‑III buyouts, add‑ons, and special mandate energy acquisitions."
-date: "2026-03-04"
+date: "2025-10-20"
 author: "Roials-Capital"
 slug: "institutional-liquidity-architecture-Fund-III"
 keywords: "kapitalanskaffning, oil and gas, private credit, Institutional Liquidity Paths, asset hardening"

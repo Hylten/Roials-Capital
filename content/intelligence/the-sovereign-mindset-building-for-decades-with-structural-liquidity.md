@@ -1,7 +1,7 @@
 ---
 title: "The Sovereign Mindset: Building for Decades With Structural Liquidity"
 description: "A high‑trust analysis of liquidity architecture and asset based liquidity engineering for HNWI and UHNW individuals seeking multi‑decade capital durability."
-date: "2026-02-09"
+date: "2024-03-08"
 author: "Jonas Hyltén"
 slug: "the-sovereign-mindset-building-for-decades-with-structural-liquidity"
 keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, Roials-Capital"

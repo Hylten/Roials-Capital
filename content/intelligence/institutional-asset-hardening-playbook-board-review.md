@@ -1,7 +1,7 @@
 ---
 title: "The Institutional Asset Hardening Playbook: How to Pass a 5B Board Review"
 description: "Institutional briefing on balance sheet optimization, capital stack hardening, and cross-border capital architecture for LPs and GPs navigating Fund-III+ expansions across North America and Europe."
-date: "2026-03-04"
+date: "2024-08-01"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-asset-hardening-playbook-board-review"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

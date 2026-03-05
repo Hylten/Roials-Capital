@@ -1,7 +1,7 @@
 ---
 title: "Strategic Capital Migration in the Age of Digital Sovereignty"
 description: "An institutional-grade analysis of liquidity engineering through private credit and asset based Capital Structuring for global HNWI and UHNW capital structures."
-date: "2026-01-29"
+date: "2023-03-20"
 author: "Jonas Hyltén"
 slug: "strategic-capital-migration-in-the-age-of-digital-sovereignty"
 keywords: "private credit, asset based Monetization Architecture, liquidity, HNWI, UHNW, Roials-Capital"

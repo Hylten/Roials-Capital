@@ -1,7 +1,7 @@
 ---
 title: "Sovereign-Grade Infrastructure for Institutional Asset Hardening"
 description: "Institutional architecture for Fund-III capital formation, cross-border acquisition scaffolding, and asset-hardening frameworks engineered for LP/GP governance, liquidity stabilization, and multi-jurisdictional buyout acceleration."
-date: "2026-03-04"
+date: "2024-08-24"
 author: "Roials-Capital"
 slug: "institutional-asset-hardening-infrastructure"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"

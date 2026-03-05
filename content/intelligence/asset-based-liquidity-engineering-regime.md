@@ -1,7 +1,7 @@
 ---
 title: "Asset Based Liquidity Engineering as the Structural Engine of Multi Generational Wealth"
 description: "Institutional treatise detailing Strategic Collateralization as a capital compounding regime, written for UHNWIs, LPs, and private credit allocators aligned with Fund-III buyout architecture."
-date: "2026-03-04"
+date: "2024-06-10"
 author: "Jonas Hyltén"
 slug: "asset-based-liquidity-engineering-regime"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"

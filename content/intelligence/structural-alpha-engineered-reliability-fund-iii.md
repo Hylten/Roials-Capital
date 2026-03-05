@@ -1,7 +1,7 @@
 ---
 title: "Structural Alpha Through Engineered Reliability: The Institutional Mandate for Fund-III Kapitalanskaffning"
 description: "Institutional brief on Asset-Based Liquidity Engineering, engineered reliability, and structural alpha generation for Fund-III+ buyouts, add-ons, and cross‑jurisdictional acquisition platforms."
-date: "2026-03-04"
+date: "2023-02-05"
 author: "Roials-Capital"
 slug: "structural-alpha-engineered-reliability-Fund-III"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"

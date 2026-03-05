@@ -1,7 +1,7 @@
 ---
 title: "The Middle Market Regime and the Credit Sovereignty Window"
 description: "Institutional briefing on middle-market private credit, liquidity engineering, and capital raising mechanics for Fund-III mandates targeting buyouts, add-ons, ABL structures, and sector specific special mandates."
-date: "2026-03-04"
+date: "2024-01-18"
 author: "Roials-Capital"
 slug: "middle-market-private-credit-regime"
 keywords: "kapitalanskaffning, private credit, middle market, Asset-Backed Frameworks, ABL, energy credit, MiFID II acquisition"

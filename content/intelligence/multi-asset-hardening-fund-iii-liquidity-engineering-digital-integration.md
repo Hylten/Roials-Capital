@@ -1,7 +1,7 @@
 ---
 title: "Multi Asset Hardening for Fund-III: Integrating Digital Assets Into Institutional Liquidity Engineering Architecture"
 description: "Institutional briefing on cross-asset hardening, Monetization Architecture, and the integration of digital asset primitives into Fund-III capital formation and balance sheet optimization mandates for UHNWIs, institutional LPs, and GP sponsors."
-date: "2026-03-04"
+date: "2024-01-14"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "multi-asset-hardening-Fund-III-liquidity-engineering-digital-integration"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Institutional Liquidity Paths, asset hardening, NAEO"

@@ -1,7 +1,7 @@
 ---
 title: "Asset-Based Financing as a Strategic Weapon for Modern Private Wealth"
 description: "Institutional brief on asset-based financing as a capital‑multiplying instrument for private wealth, Fund‑III buyouts, liquidity engineering, and jurisdictional asset hardening."
-date: "2026-03-04"
+date: "2024-01-27"
 author: "Roials-Capital"
 slug: "asset-based-financing-strategic-brief"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"

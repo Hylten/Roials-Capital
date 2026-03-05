@@ -1,7 +1,7 @@
 ---
 title: "Capital Raising Infrastructure Analysis for Institutional Allocators Across Fund‑III Architectures"
 description: "Institutional-grade analysis of capital raising infrastructures, Fund-III scaling dynamics, liquidity engineering channels, and cross-regime allocation mechanics for UHNWIs, Institutional LPs, and Private Credit GPs."
-date: "2026-03-04"
+date: "2023-03-30"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "capital-raising-infrastructure-analysis-Fund-III-lp-gp"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Capital Structuring, asset hardening, NAEOC"

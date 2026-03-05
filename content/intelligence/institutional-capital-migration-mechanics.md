@@ -1,7 +1,7 @@
 ---
 title: "The Mechanics of Institutional Capital Migration Across Cycles and Regimes"
 description: "A high density institutional analysis of capital migration drivers, structural inefficiencies, and the strategic positioning required for allocators navigating Fund-III buyout environments, ABL liquidity engineering, and North American energy mandates."
-date: "2026-03-04"
+date: "2023-02-28"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-capital-migration-mechanics"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Strategic Collateralization, asset hardening, NAEO"

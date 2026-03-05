@@ -1,7 +1,7 @@
 ---
 title: "The Rise of Sovereign Crypto Banks for UHNW Liquidity"
 description: "A strategic examination of how sovereign crypto banks redefine liquidity architecture for UHWI and HNWI through private credit and asset based liquidity engineering."
-date: "2026-02-07"
+date: "2023-10-21"
 author: "Jonas Hyltén"
 slug: "the-rise-of-sovereign-crypto-banks-for-uhnw-liquidity"
 keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, Roials-Capital"

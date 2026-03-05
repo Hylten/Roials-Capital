@@ -1,7 +1,7 @@
 ---
 title: "The Calculus of Risk in Institutional Private Credit"
 description: "A clinical, high density institutional analysis of private credit risk architecture, capital formation mechanics, and the structural role of Roials Capital as an introducer and strategic partner for Fund-III and acquisition mandates."
-date: "2026-03-04"
+date: "2023-02-17"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "calculcus-of-risk-private-credit"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEOCC"

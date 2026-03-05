@@ -1,7 +1,7 @@
 ---
 title: "Cross‑Border Asset Hardening for Fund-III Capital Velocity"
 description: "Institutional brief on sovereign-grade asset hardening, cross-border capital structuring, and Fund‑III buyout readiness across volatile multi-jurisdictional markets with liquidity engineering and special mandate pathways."
-date: "2026-03-04"
+date: "2024-05-29"
 author: "Jonas Roials"
 slug: "cross-border-asset-hardening-Fund-III-capital-velocity"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"

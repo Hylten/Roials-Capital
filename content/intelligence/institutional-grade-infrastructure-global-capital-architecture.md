@@ -1,7 +1,7 @@
 ---
 title: "Institutional Grade Infrastructure For Global Capital: Strategic Alignment, Liquidity Engineering, and Cross-Border Deployment Frameworks"
 description: "A clinical institutional briefing on the structural regime shift shaping global capital flows, emphasizing buyout infrastructure, Asset-Backed Frameworks, and energy deployment mechanics within a multi jurisdictional framework aligned with Fund-III mandates."
-date: "2026-03-04"
+date: "2025-07-22"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-grade-infrastructure-global-capital-architecture"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Capital Structuring, asset hardening, NAEO"
