@@ -4,7 +4,7 @@ description: "An institutional briefing on the structural mechanics that govern 
 date: "2026-03-04"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "architecture-of-institutional-trust"
-keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEOCC"
+keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Capital Structuring, asset hardening, NAEOCC"
 ---
 
 [START INSTITUTIONAL BRIEFING]
@@ -57,7 +57,7 @@ For allocators reviewing Fund-III structures, trust is engineered through struct
 
 • Opportunity velocity. Institutions evaluate not only the number of deals available but the speed with which high quality transactions can be digested without operational degradation.
 
-Liquidity Engineering and ABL Structures
+Strategic Collateralization and ABL Structures
 
 Trust in private credit is grounded in verifiable collateral.
 
@@ -87,7 +87,7 @@ Roials Capital functions as a strategic navigator that aligns institutional capi
 
 • Capital raising for Fund-III. Roials Capital supports institutional partners by structuring Kapitalanskaffning pathways that align with jurisdictional compliance. The focus is on creating a clear informational channel for LPs evaluating multi asset buyout vehicles.
 
-• Liquidity engineering. Where private credit or ABL mandates are under consideration, Roials Capital contextualizes the borrower environment and clarifies collateral stacks, security packages, and cash flow reliability.
+• Asset-Backed Frameworks. Where private credit or ABL mandates are under consideration, Roials Capital contextualizes the borrower environment and clarifies collateral stacks, security packages, and cash flow reliability.
 
 • Special mandates. For EU MiFID II investors seeking exposure to North American assets, Roials Capital ensures that all engagement remains within a non promotional informational architecture.
 
@@ -126,3 +126,6 @@ Allocators evaluating Buyout Fund-III pipelines, Alberta based energy acquisitio
 A confidential Strategy Audit provides allocators with a neutral diagnostic on cross border alignment, risk concentration, and capital structure coherence. It is not a solicitation. It is an institutional calibration mechanism designed to support disciplined capital deployment.
 
 [END OF BRIEFING]
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

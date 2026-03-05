@@ -27,7 +27,7 @@ Kapitalanskaffning for Fund‑III is therefore a structural process. Not marketi
 
 For Fund‑III buyouts and add‑ons, the hardened structure must integrate three time horizons:
 
-Short horizon: Liquidity engineering. Availability, not speculation. Rotating availability via ABL, private credit, receivables optimization, and covenant‑engineered borrowing bases. Fund‑III platforms require liquidity that moves faster than market cycles. Liquidity engineering is the circulatory system of hardened capital.
+Short horizon: Capital Structuring. Availability, not speculation. Rotating availability via ABL, private credit, receivables optimization, and covenant‑engineered borrowing bases. Fund‑III platforms require liquidity that moves faster than market cycles. Capital Structuring is the circulatory system of hardened capital.
 
 Medium horizon: Asset hardening. Convert operational volatility into predictable yield. Convert soft assets into collateralizable assets. Convert fragmented subsidiaries into a portfolio with leverageable coherence. Asset hardening increases the institution’s conversion optionality and decreases its dependence on timing.
 
@@ -65,17 +65,21 @@ This doctrine extends into special mandates. NAEOC. Energy corridors. Cross-bord
 
 Thus the blueprint for Fund‑III is clear:
 
-• Build the spine.  
-• Insulate the jurisdiction.  
-• Engineer conversion optionality.  
-• Harden liquidity.  
-• Harden governance.  
-• Harden acquisition pathways.  
-• Harden the institution itself.  
+• Build the spine. 
+• Insulate the jurisdiction. 
+• Engineer conversion optionality. 
+• Harden liquidity. 
+• Harden governance. 
+• Harden acquisition pathways. 
+• Harden the institution itself. 
 
 Then scale. Then accelerate. Then compound. In that order. Never reversed.
 
 Capital hardened is power realized. Capital unhardened is power imagined.
+
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.
 

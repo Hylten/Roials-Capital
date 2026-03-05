@@ -7,7 +7,7 @@ slug: "private-credit-and-liquidity-the-modern-foundation"
 keywords: "private credit, liquidity, institutional finance, Roials Capital"
 ---
 
-# Private Credit and Liquidity  
+# Private Credit and Liquidity 
 Roials-Capital
 
 ## The Structural Position of Private Credit
@@ -365,3 +365,6 @@ It creates structural resilience.
 It offers a level of control that traditional markets cannot match.
 
 Request confidential audit
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

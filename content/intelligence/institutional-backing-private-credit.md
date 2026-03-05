@@ -4,7 +4,7 @@ description: "A technical briefing on institutional alignment, capital stack sta
 date: "2026-03-04"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-backing-private-credit"
-keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
+keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Asset-Backed Frameworks, asset hardening, NAEO"
 ---
 
 [START INSTITUTIONAL BRIEFING]
@@ -61,7 +61,7 @@ Institutional private credit allocates senior in the capital stack. The security
 - Personal or corporate guarantees where applicable
 - Priority claim over cash flow producing assets
 
-5. LIQUIDITY ENGINEERING
+5. Institutional Liquidity Paths
 ABL facilities are increasingly used to manage seasonal or operational liquidity gaps. These structures allow borrowers to convert dormant assets into liquidity events without destabilizing core operations. Institutions value ABL structures because they are self liquidating and secured by real assets with definable valuations.
 
 6. BUYOUT AND ADD ON FINANCING
@@ -139,3 +139,6 @@ The lens includes:
 Roials Capital conducts confidential strategy audits for allocators seeking calibration of their private credit exposure, alignment with institutional partners, and intelligence on specialized mandates including North American energy and European capital formation.
 
 [END OF BRIEFING]
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

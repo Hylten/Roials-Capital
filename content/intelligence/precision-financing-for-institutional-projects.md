@@ -4,7 +4,7 @@ description: "High-trust liquidity solutions through private credit and asset ba
 date: "2026-01-25"
 author: "Jonas Hyltén"
 slug: "precision-financing-for-institutional-projects"
-keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, Roials-Capital"
 ---
 
 # Precision Financing for Institutional Projects
@@ -15,7 +15,7 @@ They rely on capital structures that hold under scrutiny, withstand friction, an
 
 Roials‑Capital operates inside this exact corridor.
 
-We work where private credit and asset based liquidity engineering converge with structural clarity.
+We work where private credit and asset based Institutional Liquidity Paths converge with structural clarity.
 
 We serve clients who measure risk in basis points and view liquidity as an instrument, not an event.
 
@@ -29,10 +29,10 @@ We hold it.
 
 ## The Architecture Is Yours. The Engineering Is Ours.
 
-Roials‑Capital builds liquidity engineering structures that give clients the freedom to execute.
+Roials‑Capital builds Strategic Collateralization structures that give clients the freedom to execute.
 
-Your assets remain in position.  
-Your strategy remains intact.  
+Your assets remain in position. 
+Your strategy remains intact. 
 Your institutional projects gain the liquidity they require.
 
 This is capital with intention.
@@ -40,3 +40,6 @@ This is capital with intention.
 This is precision financing.
 
 This is Roials‑Capital.
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

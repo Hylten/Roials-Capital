@@ -11,7 +11,7 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liqu
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion. This structural gap has created an environment where conventional heavy oil assets, supported by known decline curves and predictable pressure regimes, have become the most stable collateral architecture available to institutional allocators seeking real-asset durability and counter cyclical ballast.
 
-This briefing outlines how institutional grade asset hardening requires infrastructure far beyond balance sheet review. It requires engineered optionality, disciplined capitalization frameworks, and domain specific operational intelligence. In the current capital regime, allocators navigating Fund-III and later vehicles require a platform that can restructure middle market exposures, accelerate buy and build pathways, and deploy liquidity engineering tools that convert operational predictability into balance sheet resilience. The objective is not yield generation. The objective is predictability and sovereign level stability inside private markets.
+This briefing outlines how institutional grade asset hardening requires infrastructure far beyond balance sheet review. It requires engineered optionality, disciplined capitalization frameworks, and domain specific operational intelligence. In the current capital regime, allocators navigating Fund-III and later vehicles require a platform that can restructure middle market exposures, accelerate buy and build pathways, and deploy Institutional Liquidity Paths tools that convert operational predictability into balance sheet resilience. The objective is not yield generation. The objective is predictability and sovereign level stability inside private markets.
 
 PHASE 1: THE REGIME SHIFT
 
@@ -31,7 +31,7 @@ PHASE 2: TECHNICAL MECHANICS OF ASSET HARDENING
 
 Asset hardening is the institutional discipline of transforming operational consistency into capital structure resilience. The mechanics differ based on sector, but the underlying objective is uniform. Convert physical or operational reliability into superior seniority inside the capital stack.
 
-There are three operating verticals relevant to Fund-III and later allocators: Buyouts and add ons, Liquidity Engineering for portfolio companies, and Special Mandates including North American energy and EU MiFID II acquisitions.
+There are three operating verticals relevant to Fund-III and later allocators: Buyouts and add ons, Institutional Liquidity Paths for portfolio companies, and Special Mandates including North American energy and EU MiFID II acquisitions.
 
 A. Buyouts and Add Ons within Fund-III and Later Vehicles
 
@@ -44,7 +44,7 @@ Middle market industrial and services platforms rarely fail due to demand collap
 
 Institutional LPs are increasingly evaluating GPs based on their ability to demonstrate this sequencing. Asset hardening is not an afterthought. It is a pre underwriting requirement for any allocator that is adapting to the new risk regime.
 
-B. Liquidity Engineering and Asset Based Lending Architecture
+B. Institutional Liquidity Paths and Asset Based Lending Architecture
 
 In a rationed credit environment, liquidity is not a commodity. It is an engineering discipline. Roials Capital supports institutional partners through non bank ABL structures that are designed to harden the liquidity profile of portfolio companies. This approach uses:
 
@@ -116,3 +116,6 @@ For allocators navigating Fund-III and later mandates, the challenge is no longe
 Roials Capital’s role is to provide institutional LPs and GPs with a neutral, analytically rigorous pathway through these axes. For allocators requiring deeper visibility, a confidential strategy audit or portfolio calibration can map the assets, liabilities, and operational ranges that define their current posture.
 
 [END INSTITUTIONAL BRIEFING]
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

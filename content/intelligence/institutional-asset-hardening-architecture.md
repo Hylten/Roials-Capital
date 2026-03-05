@@ -4,7 +4,7 @@ description: "Institutional blueprint for capital raising, buyout infrastructure
 date: "2026-03-04"
 author: "Roials-Capital"
 slug: "institutional-asset-hardening-architecture"
-keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
+keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"
 ---
 
 A structural gap always reveals itself first in recovery math. When the asset base cannot carry the velocity of the mandate, the institution fractures. When the institution fractures, capital retreats. Most GPs misdiagnose this. They blame markets. They blame cycles. The truth is simpler. Their infrastructure was not built for institutional load.
@@ -52,7 +52,7 @@ We construct a capital stack that follows a 4 tier conversion ladder. Anchor LP 
 Buyout and Add on Grid:
 Most integration failures come from chaos in mapping control rights. Our grid forces a three layer structure. Asset integrity layer. Cash flow control layer. Decision rights layer. Once these are established, add ons become accretive rather than destabilizing. The GP gains operational certainty. LPs gain visibility. The system enforces discipline.
 
-Liquidity Engineering:
+Institutional Liquidity Paths:
 ABL and structured credit are not liquidity tools. They are institutional stabilizers. We engineer liquidity so that the balance sheet becomes an offensive asset. Cash is created on command. This is the foundation that separates disciplined GPs from deal hobbyists.
 
 Special Mandates:
@@ -75,5 +75,9 @@ Stewardship is the filter that keeps a GP aligned with institutional capital rat
 PHASE 5. EXIT
 
 We close with one controlling metric. Hardened infrastructure lowers loss severity by 32 to 47 percent across mid market control buyouts. LPs recognize this. They act on it.
+
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.

@@ -41,7 +41,7 @@ Cash flow waterfalls. Most GPs fail at this point. They present a static waterfa
 
 Recovery factors. Especially relevant for energy and industrial acquisitions. Fund-III allocators model recovery rates with surgical precision because recovery determines downside protection. The GP who uses generalized recovery assumptions appears unprepared. Asset hardening becomes the new default. Equipment, mineral rights, midstream logistics, receivable pledges, and off balance sheet guarantees redefine recovery certainty.
 
-ABL mechanics. For allocators focused on stability, the question is not whether the GP understands ABL. The question is whether the GP can operate ABL as a liquidity engine. Borrowing base recalibration. Advance rate variation. Real time collateral valuation. Covenant compression mapping. These mechanics determine whether the GP can execute add ons without sourcing new equity every quarter. LPs track this silently. If the GP does not articulate liquidity engineering, the allocator assumes the GP does not have it.
+ABL mechanics. For allocators focused on stability, the question is not whether the GP understands ABL. The question is whether the GP can operate ABL as a liquidity engine. Borrowing base recalibration. Advance rate variation. Real time collateral valuation. Covenant compression mapping. These mechanics determine whether the GP can execute add ons without sourcing new equity every quarter. LPs track this silently. If the GP does not articulate Capital Structuring, the allocator assumes the GP does not have it.
 
 Special mandates. NAEOC energy capital in the 50M to 250M band follows a different logic. These allocators want bespoke structuring capability. Not generic private credit. They expect volumetric production curves, PDP hedging integration, and midstream contract risk pricing. EU MiFID II acquisition allocators expect cross border compliance architecture, especially around reporting cadence, documentation chain of custody, and regulatory friction removal. If the GP cannot show cross border operational discipline, no allocation proceeds.
 
@@ -74,3 +74,6 @@ Stewardship eliminates noise. Noise destroys velocity. Velocity determines who d
 PHASE 5: EXIT
 
 Fund-III allocators measure one final metric. Commitment efficiency ratio. A clean system targets 4 to 7 qualified LPs per 1 committed LP. Anything above 10 indicates systemic failure. Request a confidential capital audit.
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

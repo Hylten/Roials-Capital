@@ -4,7 +4,7 @@ description: "High conviction framework for capital hardening mechanics, ABL liq
 date: "2026-03-04"
 author: "Roials-Capital"
 slug: "institutional-grade-asset-hardening"
-keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
+keywords: "kapitalanskaffning, oil and gas, private credit, Strategic Collateralization, asset hardening"
 ---
 
 Order does not appear by accident. It is engineered through constraints, enforced through governance, and preserved by capital structures that cannot fracture under volatility.
@@ -67,7 +67,7 @@ Eighty percent of our mandate. Capital raising is not marketing. It is precision
 
 GPs that lack these elements are not denied capital. They are denied scale.
 
-2. ABL Liquidity Engineering
+2. ABL Capital Structuring
 Ten percent of our mandate. ABL is not working capital. It is a liquidity exoskeleton. We design structures that prevent operational suffocation. Properly engineered ABL lines lower volatility, accelerate value creation, and eliminate the liquidity traps that destroy mid-market buyouts. The objective is simple: liquidity without fragility.
 
 3. Special Mandates: NAEOC and EU MiFID II Acquisition Infrastructure
@@ -99,5 +99,9 @@ Exit is not an event. It is an engineered inevitability. The technical metric th
 The hardened asset must hit a minimum 1.32 survival multiple under conservative impairment assumptions with senior coverage maintained at 1.08 or greater.
 
 This is the institutional threshold.
+
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.

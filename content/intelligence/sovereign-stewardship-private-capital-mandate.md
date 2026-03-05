@@ -27,7 +27,7 @@ Institutional capital now operates under three pressures: yield scarcity, energy
 
 The architecture begins with controlled concentration. The modern buyout strategy requires precision, not volume. Add-ons function as strategic hardeners. No drift. No thematic sprawl. Structure first. Geography second. Timing third. Sequence shapes return.
 
-Private credit continues its rise, but only those with operational teeth will survive the next correction cycle. Credit must integrate with acquisition logic. Liquidity engineering must sit within the same command center. Asset-backed lending (ABL) is shifting from emergency-use to strategic-use. Capital becomes the stabilizer. Capital becomes the shield. Capital becomes the accelerant.
+Private credit continues its rise, but only those with operational teeth will survive the next correction cycle. Credit must integrate with acquisition logic. Strategic Collateralization must sit within the same command center. Asset-backed lending (ABL) is shifting from emergency-use to strategic-use. Capital becomes the stabilizer. Capital becomes the shield. Capital becomes the accelerant.
 
 Machine gun syntax. Clean lines. Sharp turns.
 
@@ -57,11 +57,11 @@ Sovereign LPs understand the compound effect of jurisdictional positioning. Capi
 
 ---
 
-Liquidity engineering must now be institutional. Not reactive. Not discretionary. Structured. Forecastable. Repeatable. Institutions no longer accept liquidity risk as an operational byproduct. Liquidity must be architected with the same intentionality as ownership.
+Capital Structuring must now be institutional. Not reactive. Not discretionary. Structured. Forecastable. Repeatable. Institutions no longer accept liquidity risk as an operational byproduct. Liquidity must be architected with the same intentionality as ownership.
 
 ABL is the mechanism. Asset-backed precision. Covenant discipline. Collateral intelligence. ABL converts operational assets into strategic ammunition. Energy, industrials, logistics, specialized manufacturing-each operates on hard assets that can be transformed into liquidity reservoirs.
 
-ABL protects downside. Buyout multiples protect upside. Add-ons lock in scale. Liquidity engineering stitches the entire architecture together.
+ABL protects downside. Buyout multiples protect upside. Add-ons lock in scale. Asset-Backed Frameworks stitches the entire architecture together.
 
 Machine gun cadence.
 
@@ -71,8 +71,8 @@ Build. Secure. Expand.
 
 The capital-raising mandate-kapitalanskaffning-must anchor the ecosystem. Fund-III targets institutional LPs requiring clarity, discipline, and sovereign alignment. The capital stack is governed by three principles:
 
-• Durability over speed.  
-• Precision over mass.  
+• Durability over speed. 
+• Precision over mass. 
 • Stewardship over speculation.
 
 Institutional LPs demand evidence. GP stewardship is the evidence. Fund-III provides institutional architecture: governance clarity, reporting density, and layered risk controls. LPs are no longer seeking exposure; they are seeking conviction.
@@ -118,3 +118,6 @@ Proverbs 13:22 remains the sovereign principle: inheritance through stewardship.
 For institutional LP/GP partners prepared to anchor into this mandate, initiate a confidential capital audit to determine alignment bandwidth, deployment windows, and cross‑jurisdictional positioning.
 
 Technical mandate: 42% target hard‑asset coverage ratio.
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

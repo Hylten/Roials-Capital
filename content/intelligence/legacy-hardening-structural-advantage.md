@@ -29,7 +29,7 @@ CSS fields operate differently. They rely on cyclical pressure stimulation where
 
 Legacy hardening is achieved when a field transitions from growth capex to maintenance capex. At this stage, cash flow becomes primarily a function of operational efficiency rather than drilling velocity. Asset hardening occurs when the field is re capitalized with a stable capital partner and the operator deploys multi cycle optimization protocols to extend economic life.
 
-Liquidity engineering supports this transformation. Instead of relying on traditional reserve based lending, institutional private credit funds deploy structures centered on:
+Capital Structuring supports this transformation. Instead of relying on traditional reserve based lending, institutional private credit funds deploy structures centered on:
 
 - LTV curves calibrated to field specific decline trends.
 - Structural seniority with clear cash flow waterfalls.
@@ -55,7 +55,7 @@ PHASE 4: THE STEWARDSHIP FILTER
 
 Legacy hardening is a stewardship discipline. The theology of capital centers on non wasteful allocation and the preservation of long horizon value. Stewardship is not sentiment. It is an operational framework that prevents capital dissipation and compels disciplined decision making. Mature energy fields, industrial businesses, and hard asset platforms demand stewards, not speculators.
 
-Proverbs 13:22 positions resource transfer as an intergenerational principle. This aligns with allocator mandates focused on wealth preservation, institutional longevity, and multi cycle resilience. Asset hardening, liquidity engineering, and operational precision become expressions of stewardship. They convert volatility into durability.
+Proverbs 13:22 positions resource transfer as an intergenerational principle. This aligns with allocator mandates focused on wealth preservation, institutional longevity, and multi cycle resilience. Asset hardening, Monetization Architecture, and operational precision become expressions of stewardship. They convert volatility into durability.
 
 Stewardship integrates three filters:
 
@@ -77,3 +77,6 @@ A confidential strategy audit with Roials Capital focuses on:
 Legacy hardening is the advantage. Structural alignment is the execution. Institutional navigation is the differentiator.
 
 [END OF BRIEFING]
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

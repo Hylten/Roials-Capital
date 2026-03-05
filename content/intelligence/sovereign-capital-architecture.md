@@ -25,7 +25,7 @@ Fund-III generation vehicles that do not build multi cycle liquidity channels wi
 
 Energy markets provide the clearest signal. NAEOC tier portfolios require $50M to $250M of private credit injection, yet institutional lenders have moved into syndication at the exact moment single lender underwriting would have yielded strategic advantage. The delta between regulatory friction and operational necessity widens. This is the new regime.
 
-Liquidity engineering is no longer an auxiliary discipline. It is the determinant of institutional survival.
+Asset-Backed Frameworks is no longer an auxiliary discipline. It is the determinant of institutional survival.
 
 [PHASE 2: TECHNICAL MECHANICS]
 
@@ -91,5 +91,9 @@ The Biblical architecture of capital is not soft. It is absolute. It demands acc
 [PHASE 5: EXIT]
 
 The final metric is endurance. The sovereign fund must demonstrate a 28 to 34 percent lifetime liquidity conversion ratio across cycles.
+
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.

@@ -52,7 +52,7 @@ Cash-flow waterfalls require similar discipline. The optimal waterfall for cross
 
 ABL integration becomes the hardening accelerator. Properly engineered, ABL acts as a jurisdictional equaliser. Covenant sets are significantly more powerful in cross-border environments because they override weaker legal ecosystems. ABL is not the liquidity tool. It is the enforcement weapon.
 
-The model for North American Energy Operating Companies (NAEOC) inside the 50M to 250M EBITDA corridor illustrates this. ABL facilities anchored to physical inventory with verified uplift factors provide enforceable seniority even under operational interruption. When paired with Fund-III buyout or add-on structures, liquidity engineering reduces the cost of capital by producing predictable recovery ranges. Private credit becomes secondary. Control becomes primary.
+The model for North American Energy Operating Companies (NAEOC) inside the 50M to 250M EBITDA corridor illustrates this. ABL facilities anchored to physical inventory with verified uplift factors provide enforceable seniority even under operational interruption. When paired with Fund-III buyout or add-on structures, Monetization Architecture reduces the cost of capital by producing predictable recovery ranges. Private credit becomes secondary. Control becomes primary.
 
 Technical precision is stewardship.
 
@@ -60,13 +60,13 @@ Technical precision is stewardship.
 
 Cross-border hardening requires an architecture, not a patchwork. Fund-III follows a three-frame model that compresses execution risk at the GP level and visibility risk at the LP level.
 
-Frame One: Jurisdictional Triangulation  
+Frame One: Jurisdictional Triangulation 
 The first frame assigns each target asset to a three-jurisdiction grid. Home jurisdiction. Enforcement jurisdiction. Capital jurisdiction. When these jurisdictions collapse into one, strategic exposure increases. When they remain distinct, optionality remains intact. Triangulation absorbs regulatory shock without impairing operational continuity.
 
-Frame Two: Control-Dominant Structuring  
+Frame Two: Control-Dominant Structuring 
 Minority protections are insufficient. Hardening requires actual control. Not the illusion of it. Each Fund-III acquisition or add-on follows a two-layer control schema. Operational control through board architecture. Cash-flow control through banking and escrow architecture. Control is the asset. The operating company is the instrument.
 
-Frame Three: Multi-Domain Liquidity Anchoring  
+Frame Three: Multi-Domain Liquidity Anchoring 
 Liquidity must not depend on market sentiment. It must be engineered. ABL facilities, structured credit tranches, and multi-currency forward coverage form a three-point stabilisation system. ABL provides immediacy. Structured credit provides depth. FX forward structures provide insulation. This prevents cash-flow collapse during geopolitical stress.
 
 Institutional LPs understand this language. They monitor recovery windows, not return brochures. They evaluate legal seniority, not slide decks. A Fund-III structure that respects their expectations commands capital velocity that weaker funds cannot emulate.
@@ -97,3 +97,6 @@ Exit discipline requires measurable thresholds. Fund-III uses three:
 Request a confidential capital audit.
 
 [END]
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

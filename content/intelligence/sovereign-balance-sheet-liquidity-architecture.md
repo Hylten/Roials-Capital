@@ -38,31 +38,31 @@ PHASE 2: TECHNICAL MECHANICS
 
 A sovereign-grade balance sheet behaves predictably across shocks. Predictability is engineered through four mechanisms.
 
-1. LTV CURVES  
+1. LTV CURVES 
 Sovereign-grade underwriting begins with asset-specific LTV curves that tighten during acceleration and widen during stabilization. An engineered curve for Fund-III buyouts should sit between 28 and 42 percent on hard-asset supported targets, and between 40 and 55 percent on cash-flow stabilized platforms. LTV is not a ratio; it is a signal of discipline.
 
-2. CASH-FLOW WATERFALLS  
-A liquidity architecture without enforced priority is a liability. A functional waterfall has three rules.  
-- Rule 1: Senior obligations must remain senior under every stress scenario.  
-- Rule 2: Operating cash is insulated from GP discretion.  
+2. CASH-FLOW WATERFALLS 
+A liquidity architecture without enforced priority is a liability. A functional waterfall has three rules. 
+- Rule 1: Senior obligations must remain senior under every stress scenario. 
+- Rule 2: Operating cash is insulated from GP discretion. 
 - Rule 3: Free cash must be converted into asset-backed liquidity within 90 days.
 
 This is how sovereign treasuries operate. It is how private markets must operate.
 
-3. RECOVERY FACTORS  
-Every institutional investor is now reading recovery data with renewed severity. Recovery factors must be designed pre-acquisition, not post-default. A sovereign-grade recovery factor is built on:  
-- real-asset floor values  
-- forced-sale discount modeling  
-- multi-jurisdictional enforcement integrity  
-- extraction timelines under 120 days  
+3. RECOVERY FACTORS 
+Every institutional investor is now reading recovery data with renewed severity. Recovery factors must be designed pre-acquisition, not post-default. A sovereign-grade recovery factor is built on: 
+- real-asset floor values 
+- forced-sale discount modeling 
+- multi-jurisdictional enforcement integrity 
+- extraction timelines under 120 days 
 
 Recovery is not an event. It is a precondition.
 
-4. LIQUIDITY BUCKETS  
-A sovereign balance sheet operates with layered liquidity. At Fund-III scale, these should be:  
-- Short-cycle liquidity: receivables, inventory with verified liquidation paths  
-- Mid-cycle liquidity: ABL-ready equipment and long-life operating assets  
-- Long-cycle liquidity: energy reserves, mineral rights, durable infrastructure  
+4. LIQUIDITY BUCKETS 
+A sovereign balance sheet operates with layered liquidity. At Fund-III scale, these should be: 
+- Short-cycle liquidity: receivables, inventory with verified liquidation paths 
+- Mid-cycle liquidity: ABL-ready equipment and long-life operating assets 
+- Long-cycle liquidity: energy reserves, mineral rights, durable infrastructure 
 
 This blend produces institutional trust. Institutional trust produces commitments.
 
@@ -72,21 +72,21 @@ The sovereign balance sheet becomes operational when the GP adopts a strategic m
 
 The strategic model for Fund-III raises must therefore follow three structural rules.
 
-1. THE PARTNERSHIP MODEL  
-Institutional partners do not invest in narrative. They invest in architecture. The GP must present itself as an allocator of covenantal resources. Not a seeker of capital but a governor of it. LPs respond when the GP shows evidence of:  
-- controllable operational cycles  
-- predictable collateral values  
-- repeatable bolt-on execution  
-- secondary liquidity pathways  
-- cross-border compliance integrity  
-- data-driven governance  
+1. THE PARTNERSHIP MODEL 
+Institutional partners do not invest in narrative. They invest in architecture. The GP must present itself as an allocator of covenantal resources. Not a seeker of capital but a governor of it. LPs respond when the GP shows evidence of: 
+- controllable operational cycles 
+- predictable collateral values 
+- repeatable bolt-on execution 
+- secondary liquidity pathways 
+- cross-border compliance integrity 
+- data-driven governance 
 
 The GP must speak with the authority of a sovereign treasurer managing national assets.
 
-2. THE LIQUIDITY ENGINEERING MODEL  
-ABL is no longer a niche tool. It is a liquidity amplifier. At 10 percent of strategic focus, liquidity engineering will create disproportionate resilience. The very existence of an ABL track record signals sovereign discipline. It proves the GP understands capital conversion cycles, not merely EBITDA manipulation.
+2. THE Monetization Architecture MODEL 
+ABL is no longer a niche tool. It is a liquidity amplifier. At 10 percent of strategic focus, Monetization Architecture will create disproportionate resilience. The very existence of an ABL track record signals sovereign discipline. It proves the GP understands capital conversion cycles, not merely EBITDA manipulation.
 
-3. THE SPECIAL MANDATE MODEL  
+3. THE SPECIAL MANDATE MODEL 
 Special mandates are the sovereign lever. The 50M to 250M NAEOC energy mandates and MiFID II acquisition mandates grant the GP access to state-aligned capital. When a fund can execute national interest projects, its cost of capital falls. Permanently.
 
 A sovereign-aligned GP earns institutional credibility at a level that pure financial operators never match.
@@ -97,8 +97,8 @@ The stewardship filter is the boundary between disorder and order. Between waste
 
 A true sovereign balance sheet is not built on leverage. It is built on alignment with the original design of capital stewardship. Scripture is explicit about this order.
 
-Proverbs 13:22 - A good man leaves an inheritance to his children's children.  
-Luke 16:10 - He that is faithful in the least is faithful also in much.  
+Proverbs 13:22 - A good man leaves an inheritance to his children's children. 
+Luke 16:10 - He that is faithful in the least is faithful also in much. 
 Proverbs 21:5 - The plans of the diligent lead surely to abundance.
 
 The sovereign balance sheet does not chase returns. It builds institutions. It allocates capital toward assets that endure. It rejects consumption and rewards order. It punishes operational drift. It strengthens governance. It aligns with the Creator's structure for dominion without exploitation.
@@ -112,5 +112,9 @@ PHASE 5: EXIT
 Capital leaving the portfolio must exit with structural dignity. The final metric is single-variable.
 
 Time to cash conversion: 71 days.
+
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.

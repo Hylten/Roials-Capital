@@ -4,7 +4,7 @@ description: "Institutional briefing on middle-market private credit, liquidity 
 date: "2026-03-04"
 author: "Roials-Capital"
 slug: "middle-market-private-credit-regime"
-keywords: "kapitalanskaffning, private credit, middle market, liquidity engineering, ABL, energy credit, MiFID II acquisition"
+keywords: "kapitalanskaffning, private credit, middle market, Asset-Backed Frameworks, ABL, energy credit, MiFID II acquisition"
 ---
 
 [START INSTITUTIONAL BRIEFING]
@@ -38,7 +38,7 @@ Cash Flow Waterfalls:
 Waterfalls in the middle market primarily behave through free cash flow sweep mechanics and accelerated amortization windows. The engineering problem is not yield. It is control. A properly architected waterfall prioritizes amortization ahead of optional distributions, enforcing a deleveraging glide path that shortens the half-life of risk exposure. Predictability outranks aggressiveness.
 
 Recovery Factors:
-Middle-market recoveries are consistently stronger than large-cap recoveries because asset specificity is higher and operational engagement is more intimate. Median senior secured recoveries in our operative range run at 70 to 82 percent when ABL structures are embedded. Without ABL mechanics, recovery reverts closer to 55 to 65 percent. Liquidity engineering raises the floor. It is the difference between a stressful scenario and a contained equation.
+Middle-market recoveries are consistently stronger than large-cap recoveries because asset specificity is higher and operational engagement is more intimate. Median senior secured recoveries in our operative range run at 70 to 82 percent when ABL structures are embedded. Without ABL mechanics, recovery reverts closer to 55 to 65 percent. Capital Structuring raises the floor. It is the difference between a stressful scenario and a contained equation.
 
 ABL Integration:
 Asset Based Lending in this segment is not about liquidity for its own sake. It is about tactical compression of working capital cycles. The correct structure uses dynamic borrowing bases, quarterly redeterminations, and rapid-turn receivables. When deployed inside a private credit stack, ABL becomes a stabilizer that shifts volatility away from sponsor covenants and into predictable collateral metrics.
@@ -61,8 +61,8 @@ The mid-market buyout arena requires capital partners who can underwrite sub 45-
 Add-On Strategy:
 Buyouts are defined by the quality of the platform. Alpha is defined by the quality of the add-ons. The middle market manufactures value via bolt-on integration. Credit investors benefit from the compounding effect of scaling EBITDA while maintaining conservative leverage. We prefer structures where the add-on pipeline is pre-validated during underwriting. Uncertainty belongs to equity. Not to debt.
 
-Liquidity Engineering:
-Ten percent of our focus sits on liquidity engineering through ABL structures. This is not secondary. It is stabilizing. Working capital friction kills cash flow clarity. Liquidity engineering eliminates that friction. ABL exposure is not a concession. It is a reinforcement mechanism for the senior secured position.
+Monetization Architecture:
+Ten percent of our focus sits on Institutional Liquidity Paths through ABL structures. This is not secondary. It is stabilizing. Working capital friction kills cash flow clarity. Monetization Architecture eliminates that friction. ABL exposure is not a concession. It is a reinforcement mechanism for the senior secured position.
 
 Special Mandates:
 Another ten percent of our mandate centers on special opportunities. Two categories dominate:
@@ -96,3 +96,6 @@ Phase 5: Exit
 Yield without velocity is idle. Velocity without structure is reckless. We engineer both through a Fund-III architecture targeting a 1.5 to 1.8 times MOIC on senior-secured middle-market exposure with a 36 to 48 month duration band.
 
 Request a confidential capital audit to determine alignment with Fund-III deployment parameters.
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

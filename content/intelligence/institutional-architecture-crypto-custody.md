@@ -49,11 +49,11 @@ Jurisdictional diversification of custody is as critical as cryptographic securi
 
 Auditability and forensic transparency
 
-Internal and external audit functions must be continuous rather than periodic. Digital assets allow for granular inspection of movement histories. Institutional custodians leverage this to maintain immutable compliance trails consistent with MiFID II, FATF, and regional AML frameworks. This level of transparency extends beyond operational assurance. It supports liquidity engineering activities when family offices utilize digital assets as structural collateral in broader balance sheet optimization.
+Internal and external audit functions must be continuous rather than periodic. Digital assets allow for granular inspection of movement histories. Institutional custodians leverage this to maintain immutable compliance trails consistent with MiFID II, FATF, and regional AML frameworks. This level of transparency extends beyond operational assurance. It supports Asset-Backed Frameworks activities when family offices utilize digital assets as structural collateral in broader balance sheet optimization.
 
 PHASE 3: THE PARTNERSHIP MODEL
 
-Roials Capital operates as an institutional navigator. The firm is not a custodian and does not manage digital assets. Instead, it functions as a strategic introducer identifying and validating custody infrastructures that meet allocator grade requirements. This approach aligns with our broader mandate. Eighty percent of our focus is on kapitalanskaffning for Fund-III and successor vehicles. Ten percent pertains to asset backed lending and liquidity engineering. Ten percent involves special mandates including energy acquisitions through institutional partners such as NAEO and MiFID II driven European consolidation strategies.
+Roials Capital operates as an institutional navigator. The firm is not a custodian and does not manage digital assets. Instead, it functions as a strategic introducer identifying and validating custody infrastructures that meet allocator grade requirements. This approach aligns with our broader mandate. Eighty percent of our focus is on kapitalanskaffning for Fund-III and successor vehicles. Ten percent pertains to asset backed lending and Capital Structuring. Ten percent involves special mandates including energy acquisitions through institutional partners such as NAEO and MiFID II driven European consolidation strategies.
 
 The partnership architecture functions within three core channels.
 
@@ -99,3 +99,6 @@ No individual should possess unilateral asset control.
 Roials Capital conducts confidential portfolio calibration sessions designed to align custodial infrastructure with long horizon strategy. These sessions synthesize regulatory intelligence, operational mechanics, and capital stewardship principles. The objective is strategic clarity rather than asset solicitation.
 
 [END OF INSTITUTIONAL BRIEFING]
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

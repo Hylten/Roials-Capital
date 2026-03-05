@@ -4,7 +4,7 @@ description: "An institutional briefing on the regime shift in private credit, t
 date: "2026-03-04"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-alignment-modern-private-credit-architecture"
-keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
+keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Monetization Architecture, asset hardening, NAEO"
 ---
 
 [START INSTITUTIONAL BRIEFING]
@@ -95,7 +95,7 @@ Eighty percent of the mandate centers on capital formation for vehicles entering
 
 Roials Capital positions itself as a calibrator, ensuring that GP communication aligns with the institutional archetype expected by sovereign allocators, pension systems, and concentrated family offices.
 
-2. Liquidity Engineering through ABL Structures
+2. Strategic Collateralization through ABL Structures
 
 Ten percent of allocations require customized asset backed lending facilities designed to stabilize operational liquidity, support acquisitions, or rebalance over levered corporate structures. These structures require:
 
@@ -163,3 +163,6 @@ Has the LP been aligned with a vehicle or mandate that reflects genuine strategi
 The institutional progression from preliminary review to calibrated engagement often culminates in a confidential strategy audit. This process allows LPs to evaluate governance structures, credit mechanics, and operational discipline through a controlled and private assessment.
 
 [END INSTITUTIONAL BRIEFING]
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

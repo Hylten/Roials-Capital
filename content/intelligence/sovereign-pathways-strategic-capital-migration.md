@@ -21,15 +21,15 @@ Capital migration is the protector.
 
 Not flight. Not escape. Migration. Strategic. Sequenced. Engineered.
 
-UHNW principals who operate in energy, logistics, industrials, and upstream infrastructure face an additional constraint: institutional partners now treat immobile capital structures as risk amplifiers. Every GP, every banker, every syndication desk, evaluates the status delta between where a principal resides, where the capital resides, and where the assets reside.
+UHNW principals who operate in energy, logistics, industrials, and upstream infrastructure face an additional constraint: institutional partners now treat immobile capital structures as risk amplifiers. Every GP, every banker, every syndication desk, evaluates the Hierarchical Dynamics between where a principal resides, where the capital resides, and where the assets reside.
 
-Status delta signals competence.
+Hierarchical Dynamics signals competence.
 
 Jurisdictional arbitrage signals foresight.
 
 Structural mobility signals institutional maturity.
 
-The brief that follows outlines the principal pathways for strategic capital migration optimized for Fund-III+ capital raising (80%), liquidity engineering and ABL structuring (10%), and special mandates in North American energy and EU MiFID II acquisition corridors (10%). The lens is Roials-Capital. The tone is principal. The mandate is precision.
+The brief that follows outlines the principal pathways for strategic capital migration optimized for Fund-III+ capital raising (80%), Monetization Architecture and ABL structuring (10%), and special mandates in North American energy and EU MiFID II acquisition corridors (10%). The lens is Roials-Capital. The tone is principal. The mandate is precision.
 
 Capital moves first. Identity moves second. Institutions move last.
 
@@ -47,9 +47,9 @@ Capital migration provides the insulation.
 
 Three-tier architecture is the emerging standard:
 
-• Sovereign shield jurisdiction  
-• Operational allocation jurisdiction  
-• Asset-holding jurisdiction  
+• Sovereign shield jurisdiction 
+• Operational allocation jurisdiction 
+• Asset-holding jurisdiction 
 
 When correctly sequenced, these layers eliminate the drag that most UHNW principals carry without understanding the cost. When misaligned, these same layers become friction points, raising red flags to institutional partners and reducing strategic room in negotiations.
 
@@ -105,7 +105,7 @@ Mastery is recognized instantly in Fund-III negotiations. GPs talk among themsel
 
 Strategic capital migration eliminates friction.
 
-ABL pathways-asset-based liquidity-also depend on second-tier jurisdictional clarity. Banks are risk-averse. They demand collateral clarity. They reject ambiguous legal structures. When a principal presents a streamlined structure, banks extend credit more willingly. This is particularly relevant for liquidity engineering strategies connected to buyout participation.
+ABL pathways-asset-based liquidity-also depend on second-tier jurisdictional clarity. Banks are risk-averse. They demand collateral clarity. They reject ambiguous legal structures. When a principal presents a streamlined structure, banks extend credit more willingly. This is particularly relevant for Capital Structuring strategies connected to buyout participation.
 
 The principal with an optimized capital migration structure can raise liquidity faster. Deploy faster. Scale faster.
 
@@ -195,7 +195,7 @@ This is the missing layer for UHNW principals who generate wealth but fail to in
 
 ---
 
-Roials-Capital operates at the intersection of buyout capital raising, liquidity engineering, and sector-specific mandates. Our vantage point across LP/GP negotiations reveals the new meta-rule: principals with optimized capital migration structures receive preferential access to the best deals, best terms, and best partners.
+Roials-Capital operates at the intersection of buyout capital raising, Institutional Liquidity Paths, and sector-specific mandates. Our vantage point across LP/GP negotiations reveals the new meta-rule: principals with optimized capital migration structures receive preferential access to the best deals, best terms, and best partners.
 
 They become strategic. Predictable. Respectable.
 
@@ -212,5 +212,9 @@ This is the elite tier of capital.
 This is the architecture of longevity.
 
 This is the mandate.
+
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.

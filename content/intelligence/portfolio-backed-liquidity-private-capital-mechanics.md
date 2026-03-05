@@ -30,18 +30,18 @@ This is the modern regime. Private credit and portfolio backed liquidity have be
 
 PHASE 2: TECHNICAL MECHANICS OF RESOURCE EXTRACTION AND COLLATERAL QUALITY
 
-Understanding the liquidity engineering potential of portfolio backed structures requires clarity on the technical behavior of the underlying assets.
+Understanding the Strategic Collateralization potential of portfolio backed structures requires clarity on the technical behavior of the underlying assets.
 
 In Alberta, three extraction methodologies dominate the operating landscape:
 
-1. SAGD - Steam Assisted Gravity Drainage  
-   SAGD is a thermal production method used to mobilize bitumen in deep reservoirs. A pair of horizontal wells is drilled. The upper injector distributes high pressure steam that heats the formation. Mobilized bitumen drains to the lower horizontal producer. The decline curve on mature SAGD wells is unusually stable relative to conventional light oil wells. The thermal profile and viscosity mechanics create predictable volumetric depletion. This predictability is the foundation for long dated financing models because cash flow variance becomes operational rather than geological.
+1. SAGD - Steam Assisted Gravity Drainage 
+ SAGD is a thermal production method used to mobilize bitumen in deep reservoirs. A pair of horizontal wells is drilled. The upper injector distributes high pressure steam that heats the formation. Mobilized bitumen drains to the lower horizontal producer. The decline curve on mature SAGD wells is unusually stable relative to conventional light oil wells. The thermal profile and viscosity mechanics create predictable volumetric depletion. This predictability is the foundation for long dated financing models because cash flow variance becomes operational rather than geological.
 
-2. CSS - Cyclic Steam Stimulation  
-   CSS is a cycle driven process used in reservoirs where continuous steam injection is not optimal. A single well alternates between injection and production phases. Steam is injected to heat the formation, then shut in to allow thermal soaking. The well then moves into a production phase where pressure drops mobilize hydrocarbons. While CSS carries more variability than SAGD, the cyclic nature creates operational cadence that can be mapped with quarter over quarter accuracy. The technique is also valuable for smaller operators who require capex efficiency.
+2. CSS - Cyclic Steam Stimulation 
+ CSS is a cycle driven process used in reservoirs where continuous steam injection is not optimal. A single well alternates between injection and production phases. Steam is injected to heat the formation, then shut in to allow thermal soaking. The well then moves into a production phase where pressure drops mobilize hydrocarbons. While CSS carries more variability than SAGD, the cyclic nature creates operational cadence that can be mapped with quarter over quarter accuracy. The technique is also valuable for smaller operators who require capex efficiency.
 
-3. Horizontal fracturing and multi well pad optimization  
-   In shallow and intermediate reservoirs across Alberta and Saskatchewan, multi stage fractured horizontal wells remain the dominant production technology. The decline curves are sharper than thermal methods but remain measurable with enough data density. Pad drilling has created enhanced standardization, lower development timelines, and predictable capital recovery patterns. These wells support structured finance when combined into multi well portfolios with measured pressure management practices.
+3. Horizontal fracturing and multi well pad optimization 
+ In shallow and intermediate reservoirs across Alberta and Saskatchewan, multi stage fractured horizontal wells remain the dominant production technology. The decline curves are sharper than thermal methods but remain measurable with enough data density. Pad drilling has created enhanced standardization, lower development timelines, and predictable capital recovery patterns. These wells support structured finance when combined into multi well portfolios with measured pressure management practices.
 
 The critical insight is that all three extraction methods produce reservoir behavior that can be modeled with far greater confidence than equivalent energy assets in regions with variable geology. Alberta’s energy system is one of the highest data density environments in the world. Over five decades of core sampling, well logging, and pressure cycle analysis produce an engineering base that supports collateralization.
 
@@ -96,20 +96,20 @@ Portfolio backed liquidity is the functional replacement for bank lending. Its m
 
 1. Consolidation of multiple operating assets into a unified collateral base.
 2. Standardization of cash flow visibility across the asset cluster.
-3. Liquidity engineering to transform long dated asset performance into usable working capital.
+3. Asset-Backed Frameworks to transform long dated asset performance into usable working capital.
 4. Measured advance rates calibrated to geological and operational certainty.
 5. Multi tranche structuring that aligns operator pacing with investor liquidity preferences.
 
 Three use cases dominate the modern private capital ecosystem:
 
-1. Kapitalanskaffning for Buyouts and Add ons  
-   European and North American mid market platforms rely on portfolio backed liquidity to execute acquisition strategies without raising dilution heavy equity at inappropriate valuations. Liquidity is engineered at the portfolio level rather than the company level. This stabilizes the acquisition timeline and increases opportunity velocity.
+1. Kapitalanskaffning for Buyouts and Add ons 
+ European and North American mid market platforms rely on portfolio backed liquidity to execute acquisition strategies without raising dilution heavy equity at inappropriate valuations. Liquidity is engineered at the portfolio level rather than the company level. This stabilizes the acquisition timeline and increases opportunity velocity.
 
-2. ABL and Liquidity Engineering  
-   Asset based lending is no longer limited to receivables and inventory. Modern structures include contracted cash flow, repetitive production, and forward sale agreements. Collateral transforms from static balance sheet items into dynamic cash flow engines.
+2. ABL and Asset-Backed Frameworks 
+ Asset based lending is no longer limited to receivables and inventory. Modern structures include contracted cash flow, repetitive production, and forward sale agreements. Collateral transforms from static balance sheet items into dynamic cash flow engines.
 
-3. Special Mandates  
-   NAEO structures for 50 million to 250 million mandates rely on thermal and conventional heavy oil portfolios with predictable reservoir performance. European MiFID II acquisition mandates require cross border structuring fluency, regulatory compliance, and capital pacing designed for EU institutional allocators. These mandates function within a controlled governance perimeter that preserves institutional grade risk tolerances.
+3. Special Mandates 
+ NAEO structures for 50 million to 250 million mandates rely on thermal and conventional heavy oil portfolios with predictable reservoir performance. European MiFID II acquisition mandates require cross border structuring fluency, regulatory compliance, and capital pacing designed for EU institutional allocators. These mandates function within a controlled governance perimeter that preserves institutional grade risk tolerances.
 
 Portfolio backed liquidity is effective because it respects operational cadence. Traditional credit products often force artificial financial timelines onto assets that do not operate on monthly cycles. Portfolio backed models synchronize liquidity release with the natural production and revenue rhythms of the underlying asset.
 
@@ -119,15 +119,18 @@ PHASE 6: THE DECISION MAKING LENS FOR INSTITUTIONAL ALLOCATORS
 
 The allocator must anchor decisions in three categories:
 
-1. Structural position of the asset class.  
-   Private markets reward capitalization inefficiencies. Underfinanced sectors with high data density and low geological variance offer structural advantage. Alberta heavy oil is a prime example.
+1. Structural position of the asset class. 
+ Private markets reward capitalization inefficiencies. Underfinanced sectors with high data density and low geological variance offer structural advantage. Alberta heavy oil is a prime example.
 
-2. Operator archetype.  
-   Align with operators who demonstrate stewardship discipline, technical proficiency, and capital pacing control. NAEO represents this archetype.
+2. Operator archetype. 
+ Align with operators who demonstrate stewardship discipline, technical proficiency, and capital pacing control. NAEO represents this archetype.
 
-3. Intermediary intelligence.  
-   Navigating cross border structuring, regulatory systems, and partner verification requires institutional grade guidance. Roials Capital operates as a strategic navigator who translates complex environments into coherent allocation frameworks.
+3. Intermediary intelligence. 
+ Navigating cross border structuring, regulatory systems, and partner verification requires institutional grade guidance. Roials Capital operates as a strategic navigator who translates complex environments into coherent allocation frameworks.
 
 A confidential strategy audit or portfolio calibration session is typically the next step for allocators who require a precision assessment of their exposure architecture, jurisdictional alignment, and liquidity pacing across existing and prospective mandates.
 
 [END OF BRIEFING]
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

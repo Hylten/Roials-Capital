@@ -53,7 +53,7 @@ The Fund-III structure is the command vehicle. The architecture supports three p
 
 1. Core buyouts with add-ons. These provide the sovereign allocator with controlled scale. We target assets where operational control and vertical integration create hard-math value. Not marketing value. Not narrative value. Real cash conversion.
 
-2. ABL driven liquidity engineering. This is the capital accelerator. It transforms operating entities into disciplined liquidity engines. Sovereign allocators treat this as a national cash-flow utility. It stabilizes broader investment ecosystems.
+2. ABL driven Asset-Backed Frameworks. This is the capital accelerator. It transforms operating entities into disciplined liquidity engines. Sovereign allocators treat this as a national cash-flow utility. It stabilizes broader investment ecosystems.
 
 3. Special mandates as national priority alignments. NAEOC mandates create extraction capacity. MiFID II mandates create regulatory precision assets. These mandates do not behave like portfolios. They behave like national instruments. You do not improvise with national instruments.
 
@@ -80,5 +80,9 @@ The stewardship filter clarifies everything. It forces a GP to operate with inte
 PHASE 5. EXIT
 
 Target yield displacement threshold: 340 to 460 basis points above sovereign benchmark curves.
+
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.

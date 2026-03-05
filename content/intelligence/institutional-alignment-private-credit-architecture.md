@@ -57,7 +57,7 @@ The model must coordinate three capital channels.
 
 The first is the primary mandate. Eighty percent of capital should be directed to acquisition financing and add-ons. These deals define the fund's identity. They also define its risk culture. A fund that cannot impose discipline at the acquisition level will never impose discipline in special situations.
 
-The second is the liquidity engineering channel. Ten percent allocated to ABL is not a niche. It is the balancing mechanism that stabilizes portfolio health. ABL is the hydraulic system of private credit. It regulates pressure. When ABL is correctly implemented, the entire portfolio behaves with mechanical precision.
+The second is the Institutional Liquidity Paths channel. Ten percent allocated to ABL is not a niche. It is the balancing mechanism that stabilizes portfolio health. ABL is the hydraulic system of private credit. It regulates pressure. When ABL is correctly implemented, the entire portfolio behaves with mechanical precision.
 
 The third channel consists of special mandates. Energy financing from 50M to 250M USD. MiFID II cross-border acquisitions. These mandates require a level of structural rigor that most mid-market GPs cannot maintain. That is why alignment becomes a competitive advantage. When the architecture is correct, special mandates do not introduce complexity. They introduce optionality.
 
@@ -87,5 +87,9 @@ PHASE 5: EXIT
 Order is measured at exit. If the system produced discipline, the exits will be clean. If the system tolerated drift, the exits will be distorted.
 
 The final metric is the capital integrity ratio: the percentage of fund cash flows that behave according to their original underwriting assumptions. High performing funds operate at 92 percent or higher. Anything below 85 percent signals structural misalignment. Anything below 80 percent signals systemic failure.
+
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.

@@ -47,13 +47,13 @@ Fund-III is not tactical. Fund-III is reputational. The success of Fund-I and Fu
 
 For Fund-III+, capital raising must be engineered across three vectors:
 
-Vector One: Supermajority Allocation Logic  
+Vector One: Supermajority Allocation Logic 
 LPs escalate diligence when fund size increases. They test the repeatability of prior returns. They test operational leverage. They test the intelligence of capital deployment. They test if GP risk discipline scales.
 
-Vector Two: Liquidity Engineering Confidence  
+Vector Two: Monetization Architecture Confidence 
 Boards want exit certainty. LPs want interim liquidity. ABL programs provide both. Liquidity discipline signals institutional maturity. Not opportunism. Not desperation.
 
-Vector Three: Strategic Mandate Expansion  
+Vector Three: Strategic Mandate Expansion 
 NAEOC energy allocations. EU MiFID II acquisition regimes. Emissions-linked credit windows. LPs evaluate expansion not by opportunity but by coherence. Expansion must follow trajectory, not appetite.
 
 Consistency is credibility. Credibility raises capital. Capital hardens the institution.
@@ -64,10 +64,10 @@ Asset hardening is the transformation of raw business units into institutionally
 
 Hardening requires three layers: operational, financial, jurisdictional.
 
-Operational Hardening  
+Operational Hardening 
 Operational failure is board fear number one. Eliminate failure points. Deploy operating partners early, not after the board asks. Stress physical assets. Stress data systems. Stress leadership succession. Build toward predictability. Predictability is the currency of scale.
 
-Financial Hardening  
+Financial Hardening 
 Boards test valuation integrity. LPs test yield stability. Bankers test collateral sufficiency. Hardening must address all three.
 
 - Valuation integrity. Document the valuation logic that would survive litigation.
@@ -76,7 +76,7 @@ Boards test valuation integrity. LPs test yield stability. Bankers test collater
 
 Financial hardening creates durability. Durability compels capital.
 
-Jurisdictional Hardening  
+Jurisdictional Hardening 
 A $5B board review is 40 percent legal. 40 percent regulatory. 20 percent structural storytelling. If jurisdiction collapses under pressure, nothing else matters.
 
 Harden the jurisdiction through:
@@ -178,22 +178,22 @@ THE INSTITUTIONAL SIGNAL SET
 
 Hardening produces signals. Boards read signals. LPs decode signals. Signals must be clear. Universal. Audit-stable.
 
-Signal One: Control  
+Signal One: Control 
 Demonstrate governance sovereignty.
 
-Signal Two: Predictability  
+Signal Two: Predictability 
 Margins hold. Cashflow holds. Operations hold.
 
-Signal Three: Permanence  
+Signal Three: Permanence 
 Institutional frameworks outlive leadership cycles.
 
-Signal Four: Expansion Discipline  
+Signal Four: Expansion Discipline 
 Mandates evolve logically. Not emotionally.
 
-Signal Five: Liquidity Reliability  
+Signal Five: Liquidity Reliability 
 ABL, revolvers, stress capital pathways.
 
-Signal Six: Downside Dominance  
+Signal Six: Downside Dominance 
 Catastrophic scenarios end in survival.
 
 This signal set passes board review before the presentation begins.
@@ -228,7 +228,11 @@ Boards trust principals. LPs trust systems. Fund-III demands both.
 
 FINAL DIRECTIVE
 
-This briefing stands on one metric:  
+This briefing stands on one metric: 
 Institutional Survivability Index = 0.87 or higher.
+
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.

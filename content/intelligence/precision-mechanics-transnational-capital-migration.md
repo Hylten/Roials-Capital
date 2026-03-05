@@ -35,7 +35,7 @@ Liquidity waterfalls. This is where most managers introduce waste. A disciplined
 
 Recovery factors. In energy-linked mandates, the recovery rate of a producing well or associated midstream asset sets the effective leverage cap. A 45 percent recovery floor supports 1.8 to 2.3 turns of senior leverage without destabilizing the cash waterfall. In industrial add-ons, asset recovery is governed by equipment liquidation ratios, typically 25 to 60 percent depending on sector. The capital migrates to the higher predictability zone. Predictability is power.
 
-ABL mechanics. Asset based lending functions as a mobile shock absorber for portfolio volatility. In international structures, ABL acts as the equalizer that ensures liquidity does not become jurisdictionally siloed. When structured correctly, ABL offers the GP a floating reserve capable of absorbing procurement delays, FX timing gaps, and regulatory holdbacks without touching LP capital. Liquidity engineering is not a tactic. It is the control center of cross-border operations.
+ABL mechanics. Asset based lending functions as a mobile shock absorber for portfolio volatility. In international structures, ABL acts as the equalizer that ensures liquidity does not become jurisdictionally siloed. When structured correctly, ABL offers the GP a floating reserve capable of absorbing procurement delays, FX timing gaps, and regulatory holdbacks without touching LP capital. Asset-Backed Frameworks is not a tactic. It is the control center of cross-border operations.
 
 The migration pattern of capital follows the path of least friction. Therefore the GP’s role is not to chase allocation sources. The GP must remove friction in the system so the capital flows toward strength automatically.
 
@@ -66,5 +66,9 @@ This is why stewardship is the final filter through which every acquisition, eve
 PHASE 5: EXIT
 
 Capital migrates toward the highest information density. Fund-III allocators reward the manager who can convert that density into recurring distributable cash with a minimum cash-flow coverage ratio of 1.45x across all jurisdictions.
+
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.

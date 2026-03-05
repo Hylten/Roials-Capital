@@ -61,8 +61,8 @@ The structure divides into three pillars.
 Pillar 1: Kapitalanskaffning for Fund-III and Fund-IV adjacency.
 Eighty percent of the mandate is directed toward capital formation for buyouts and add-ons. The target classes are operators with defensible cash flows and hard-asset moats. Sovereign capital retrenchment creates acquisition windows in energy, transport logistics, industrial processing, and mineral-linked assets. LPs want predictable governance. GPs want cleaner execution. Sovereigns want influence without responsibility. We serve the first two, not the third.
 
-Pillar 2: Liquidity engineering through institutional ABL.
-Ten percent of the mandate is structured around asset-based lending for operators with temporary liquidity mismatches. This is the most misunderstood part of sovereign capital infrastructure. Liquidity engineering is not rescue lending. It is governance enforcement. ABL disallows drift. It forces precision. When used inside sovereign-linked ecosystems, it creates a parallel system of discipline that outperforms public credit channels.
+Pillar 2: Asset-Backed Frameworks through institutional ABL.
+Ten percent of the mandate is structured around asset-based lending for operators with temporary liquidity mismatches. This is the most misunderstood part of sovereign capital infrastructure. Capital Structuring is not rescue lending. It is governance enforcement. ABL disallows drift. It forces precision. When used inside sovereign-linked ecosystems, it creates a parallel system of discipline that outperforms public credit channels.
 
 Pillar 3: Special mandates in energy and regulated acquisitions.
 Ten percent of the mandate focuses on mandates in:
@@ -97,3 +97,6 @@ The future of sovereign capital infrastructure will be decided by one metric: re
 A sovereign survives on the precision of its collateral spine. A fund survives on the precision of its governance.
 
 For LPs, family offices, and institutional allocators requiring a confidential capital audit for Fund-III positioning, initiate contact under secure channel.
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

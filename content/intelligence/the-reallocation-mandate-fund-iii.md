@@ -21,13 +21,13 @@ The world tightens. So we sharpen.
 
 We begin with structural realignment.
 
-Capital is migrating. Quietly. Predictably. The drift is toward technical control zones: private credit, specialized energy, asset-heavy acquisitions, and collateral-based liquidity engineering. Fund-III is built for this migration. Not theory. Application.
+Capital is migrating. Quietly. Predictably. The drift is toward technical control zones: private credit, specialized energy, asset-heavy acquisitions, and collateral-based Capital Structuring. Fund-III is built for this migration. Not theory. Application.
 
 Institutional allocations must now operate across three planes simultaneously:
 
-• Plane 1: Buyout concentration for stabilized compounding  
-• Plane 2: Liquidity engineering for tactical survival  
-• Plane 3: Special mandates for energy acquisition corridors and MiFID II perimeter expansion  
+• Plane 1: Buyout concentration for stabilized compounding 
+• Plane 2: Institutional Liquidity Paths for tactical survival 
+• Plane 3: Special mandates for energy acquisition corridors and MiFID II perimeter expansion 
 
 The Reallocation Mandate holds each plane in tension. No waste. No signal drift. No capital idling in unproductive chambers. Every unit must produce yield, protection, or optionality.
 
@@ -41,9 +41,9 @@ The capital stack becomes predictable. Build thick. Build directional. Build irr
 
 The Reallocation Mandate requires that every institutional dollar entering the Roials-Capital orbit undergoes three tests:
 
-• Can it accelerate Fund-III buyout momentum?  
-• Can it provide measurable liquidity relief for GP or LP participants through ABL engineering?  
-• Can it enable corridor entry for external special mandates, notably NAEOC energy acquisitions and MiFID II cross-border license expansions?  
+• Can it accelerate Fund-III buyout momentum? 
+• Can it provide measurable liquidity relief for GP or LP participants through ABL engineering? 
+• Can it enable corridor entry for external special mandates, notably NAEOC energy acquisitions and MiFID II cross-border license expansions? 
 
 If not, re-route. If yes, harden. Speed matters. Precision wins.
 
@@ -59,7 +59,7 @@ Europe remains constrained by regulatory friction under MiFID II, but this frict
 
 Every move creates delta. Delta creates altitude.
 
-Liquidity engineering remains the silent weapon. Activated only when required. Ten percent of our mandate. No more. No less. ABL operations stabilize GP structures, portfolio companies, and LP liquidity windows. We use receivable acceleration. We use inventory hardening. We use collateral sequencing. We use private credit overlays. Tools. Not theories.
+Capital Structuring remains the silent weapon. Activated only when required. Ten percent of our mandate. No more. No less. ABL operations stabilize GP structures, portfolio companies, and LP liquidity windows. We use receivable acceleration. We use inventory hardening. We use collateral sequencing. We use private credit overlays. Tools. Not theories.
 
 Liquidity is oxygen. Oxygen buys time. Time buys control. Control builds Fund-III dominance.
 
@@ -67,11 +67,11 @@ The Reallocation Mandate takes a principal stance on capital vaccination: defens
 
 Kapitalanskaffning becomes the operational core. Eighty percent focus. Hard-coded. Non-negotiable. Fund-III must scale. Not linearly. Exponentially. Scaling through:
 
-• Institutional LP commitments  
-• Sovereign co-invest channels  
-• Family office anchor capital  
-• Insurance capital seeking secured yield  
-• Secondary markets seeking stabilized entry  
+• Institutional LP commitments 
+• Sovereign co-invest channels 
+• Family office anchor capital 
+• Insurance capital seeking secured yield 
+• Secondary markets seeking stabilized entry 
 
 Every channel must be opened. Every negotiation must be modeled. Every placement must be layered within cross-jurisdictional alignment.
 
@@ -125,11 +125,11 @@ Energy becomes the expansion frontier. Liquidity becomes the stabilizer. Fund-II
 
 Institutional capital requires evidence of stewardship. Evidence of execution. Evidence of resilience. The Reallocation Mandate delivers all three through:
 
-• Structurally advantaged acquisitions  
-• Collateral-first liquidity programs  
-• Multi-jurisdictional fund architecture  
-• Regulatory arbitrage corridors  
-• Interlinked buyout and add-on velocity strategies  
+• Structurally advantaged acquisitions 
+• Collateral-first liquidity programs 
+• Multi-jurisdictional fund architecture 
+• Regulatory arbitrage corridors 
+• Interlinked buyout and add-on velocity strategies 
 
 These components form the capital hardening matrix. Strength in layers. Control in sequences. Velocity in deployment.
 
@@ -146,3 +146,6 @@ Reallocate into Fund-III. Reinforce liquidity corridors. Execute NAEOC acquisiti
 Confidential capital audit required to initiate allocation bandwidth expansion.
 
 Target throughput ratio: 1.82x within 12 months.
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

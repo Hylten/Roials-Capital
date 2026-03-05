@@ -99,7 +99,7 @@ That transformation is the real asset.
 
 Fund‑III becomes a sovereign-aligned vehicle. Add‑on timelines compress. Buyout certainty rises. LPs reduce due-diligence loops. Capital formation accelerates.
 
-Liquidity engineering is the core operating discipline. It extends the GP’s control over time. Time is the ultimate asset. Liquidity is its multiplier.
+Strategic Collateralization is the core operating discipline. It extends the GP’s control over time. Time is the ultimate asset. Liquidity is its multiplier.
 
 Asset hardening becomes the derivative benefit. Not the objective. Hardening occurs when liquidity remains uninterrupted. The collateral is never forced into the market. Never liquidated under distress. Never repriced by volatility. Liquidity protects value like armor.
 
@@ -172,3 +172,6 @@ This is the architecture. This is the method. This is the perimeter that defines
 The sovereign facility is the ultimate institutional weapon.
 
 For principal review, initiate a confidential capital audit.
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

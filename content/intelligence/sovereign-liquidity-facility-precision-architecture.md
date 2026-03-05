@@ -83,7 +83,7 @@ The strategic model contains three parallel tracks.
 Track 1: Capital Raising Infrastructure
 The credibility of Fund-III increases when the macro environment of our counterparties is stabilized. LPs allocate aggressively when they observe disciplined liquidity pathways at the sovereign level. Our narrative is simple. We do not speculate on environment. We engineer environment.
 
-Track 2: Liquidity Engineering for ABL Channels
+Track 2: Asset-Backed Frameworks for ABL Channels
 Facility mechanics at the sovereign level translate directly into corporate ABL discipline. The same principles apply:
 - Hard collateral
 - Sequenced waterfalls
@@ -127,3 +127,6 @@ PHASE 5: EXIT
 Fund-III benefits when sovereign liquidity becomes a quantifiable asset. The final discipline is simple: a sovereign facility must maintain a minimum 1.38 liquidity coverage ratio under stress conditions.
 
 Request a confidential capital audit.
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

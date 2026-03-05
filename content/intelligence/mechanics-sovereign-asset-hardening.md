@@ -4,7 +4,7 @@ description: "Institutional briefing on capital regime transition, structural in
 date: "2026-03-04"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "mechanics-sovereign-asset-hardening"
-keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
+keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Institutional Liquidity Paths, asset hardening, NAEO"
 ---
 
 [START INSTITUTIONAL BRIEFING]
@@ -38,8 +38,8 @@ Critical mechanics include:
 - Institutional archetype filtering. Selection of platforms that can demonstrate repeatable procurement, pricing power, and operational efficiency under multi cycle volatility.
 - Contingent equity frameworks. Mechanisms for absorbing temporary drawdowns without diluting long term ownership or introducing destabilizing creditor interests.
 
-2. Liquidity Engineering and Asset Backed Lending
-This domain represents approximately 10 percent of the focus. Liquidity engineering is the use of structured credit to convert illiquid operational assets into predictable capital access channels. This is critical for allocators seeking capital stability and optionality in environments where traditional financing has contracted.
+2. Strategic Collateralization and Asset Backed Lending
+This domain represents approximately 10 percent of the focus. Strategic Collateralization is the use of structured credit to convert illiquid operational assets into predictable capital access channels. This is critical for allocators seeking capital stability and optionality in environments where traditional financing has contracted.
 
 Key mechanics:
 - Seniority purification. Ensuring that new credit facilities hold unambiguous priority over existing obligations.
@@ -68,7 +68,7 @@ Roials Capital functions as a strategic navigator and institutional introducer. 
 
 1. Kapitalanskaffning for Fund-III and forward strategies. The primary focus is assisting scale ready buyout managers in securing long horizon institutional capital. This includes the construction of fund level narratives, structural calibration, and alignment with LP governance criteria.
 
-2. Liquidity Engineering engagements. Roials Capital facilitates introductions between operators and institutional credit providers for senior ABL structures, working capital facilities, and liquidity optimization mandates.
+2. Strategic Collateralization engagements. Roials Capital facilitates introductions between operators and institutional credit providers for senior ABL structures, working capital facilities, and liquidity optimization mandates.
 
 3. Energy and MiFID II Special Mandates. This includes access to NAEO for North American Energy Operations and coordination of acquisition pathways under EU MiFID II frameworks.
 
@@ -103,3 +103,6 @@ Whether evaluating buyouts, ABL structures, or Alberta heavy oil, the common den
 Roials Capital provides confidential Strategy Audits and Portfolio Calibration engagements designed to map allocators into the structural landscape of Asset Hardening. The objective is to provide clarity on the operational regime and introduce the correct institutional partners where alignment exists.
 
 [END INSTITUTIONAL BRIEFING]
+
+### TECHNICAL MANDATE
+Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
