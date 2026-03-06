@@ -4,7 +4,7 @@ description: "A surgical exploration of liquidity architecture across private cr
 date: "2024-07-18"
 author: "Jonas Hyltén"
 slug: "the-mechanics-of-multi-asset-liquidity-for-institutional-grade-portfolios"
-keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
 
 # The Mechanics of Multi-Asset Liquidity

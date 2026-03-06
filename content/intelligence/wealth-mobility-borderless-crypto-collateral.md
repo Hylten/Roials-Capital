@@ -4,7 +4,7 @@ description: "A technical intelligence brief on sovereign grade wealth mobility 
 date: "2023-04-03"
 author: "Jonas Hyltén"
 slug: "wealth-mobility-borderless-crypto-collateral"
-keywords: "kapitalanskaffning, private equity, Fund-III, Roials-Capital, 2026, Capital Structuring"
+keywords: "kapitalanskaffning, private equity, Fund-III, ROIALS CAPITAL, 2026, Capital Structuring"
 ---
 
 [START INTELLIGENCE REPORT]

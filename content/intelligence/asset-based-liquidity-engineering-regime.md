@@ -72,7 +72,6 @@ Capital without discipline destroys heirs. Disciplined capital instructs them. A
 PHASE 5. EXIT 
 Our internal mandate is explicit. Every facility must move the operator toward a minimum DSCR of 1.42 within four quarters. Deviate from this and the compounding model breaks.
 
-
 ### TECHNICAL MANDATE
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 

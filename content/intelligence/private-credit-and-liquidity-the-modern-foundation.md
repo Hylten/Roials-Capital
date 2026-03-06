@@ -8,7 +8,7 @@ keywords: "private credit, liquidity, institutional finance, Roials Capital"
 ---
 
 # Private Credit and Liquidity 
-Roials-Capital
+ROIALS CAPITAL
 
 ## The Structural Position of Private Credit
 

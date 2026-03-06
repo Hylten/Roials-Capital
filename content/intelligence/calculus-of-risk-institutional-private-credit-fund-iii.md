@@ -2,7 +2,7 @@
 title: "The Calculus of Risk in Institutional Private Credit for Fund-III"
 description: "A principal-level framework on risk calculus, capital formation, liquidity engineering, and jurisdictional structuring for institutional LP/GP audiences advancing Fund-III buyouts, add‑ons, and energy mandates."
 date: "2023-01-14"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "calculus-of-risk-institutional-private-credit-Fund-III"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"
 ---

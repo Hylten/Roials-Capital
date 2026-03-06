@@ -2,7 +2,7 @@
 title: "Asset‑Based Liquidity Engineering as the Structural Engine of Multi‑Generational Wealth"
 description: "Institutional brief for LP/GP allocators on how asset‑based Capital Structuring, jurisdictional structuring, and acquisition-grade capital architecture form the backbone of multi-generational wealth creation within Fund‑III buyout ecosystems."
 date: "2025-05-05"
-author: "Roials-Capital | Principal Investigator"
+author: "ROIALS CAPITAL | Principal Investigator"
 slug: "asset-based-liquidity-engineering-multi-generational-wealth"
 keywords: "kapitalanskaffning, oil and gas, private credit, Monetization Architecture, asset hardening"
 ---
@@ -17,7 +17,7 @@ Machine Gun. Straight lines. No fillers.
 
 Liquidity dictates lineage. Structure dictates survival.
 
-The Roials‑Capital framework positions asset‑based Strategic Collateralization (Asset-Based Lending‑E) not as a secondary technique, but as the prime driver of compounding. Eighty percent of our architecture is Kapitalanskaffning for Fund‑III+ buyouts and add‑ons. Ten percent is pure Capital Structuring. Ten percent is special mandate execution: NAEOC energy mandates ($50M–$250M), EU MiFID II cross‑border acquisitions, and sovereign‑grade asset hardening. The blend creates structural sovereignty for LPs and GPs operating in volatility‑dense global markets.
+The ROIALS CAPITAL framework positions asset‑based Strategic Collateralization (Asset-Based Lending‑E) not as a secondary technique, but as the prime driver of compounding. Eighty percent of our architecture is Kapitalanskaffning for Fund‑III+ buyouts and add‑ons. Ten percent is pure Capital Structuring. Ten percent is special mandate execution: NAEOC energy mandates ($50M–$250M), EU MiFID II cross‑border acquisitions, and sovereign‑grade asset hardening. The blend creates structural sovereignty for LPs and GPs operating in volatility‑dense global markets.
 
 Below is the institutional architecture.
 
@@ -176,7 +176,6 @@ THE MANDATE
 Institutions that aim to operate beyond a single generation must redesign their capital stack around Asset-Based Lending‑anchored liquidity engines and Fund‑III buyout architectures. The next decade belongs to institutions capable of converting assets into sovereign liquidity and converting liquidity into dynastic continuity.
 
 Structured capital survives. Unstructured capital disappears.
-
 
 ### TECHNICAL MANDATE
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

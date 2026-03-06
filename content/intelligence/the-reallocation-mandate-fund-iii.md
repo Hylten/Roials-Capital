@@ -2,7 +2,7 @@
 title: "The Reallocation Mandate: Institutional Realignment for Fund-III Expansion"
 description: "A principal-level directive on capital reallocation, cross-jurisdictional structuring, and institutional capital engineering for Fund-III buyouts, liquidity mandates, and NAEOC energy acquisitions."
 date: "2025-04-23"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "the-reallocation-mandate-Fund-III"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
 ---
@@ -15,7 +15,7 @@ Proverbs 13:22 states: A good man leaves an inheritance to his children's childr
 
 The thesis is funded. The structure is ready. Fund-III becomes the central chassis for buyouts, add-ons, liquidity programs, and cross-border acquisition corridors. We drive capital from stasis to function. From diffuse to concentrated. From vulnerable to fortified. This brief outlines the reallocation mechanics, the expanded institutional perimeter, and the new capital choreography required to dominate a constrained global market.
 
-Institutional LPs require clarity on risk jurisdiction, liquidity corridors, and collateral hardening. GPs require acceleration, external ballast, and execution partners with sovereign maneuverability. Roials-Capital builds the spine. The mandate is realignment. Clean. Forceful. Proportional.
+Institutional LPs require clarity on risk jurisdiction, liquidity corridors, and collateral hardening. GPs require acceleration, external ballast, and execution partners with sovereign maneuverability. ROIALS CAPITAL builds the spine. The mandate is realignment. Clean. Forceful. Proportional.
 
 The world tightens. So we sharpen.
 
@@ -39,7 +39,7 @@ Fund-III stands as the hard container for majority of capital raising. Eighty pe
 
 The capital stack becomes predictable. Build thick. Build directional. Build irrevocable.
 
-The Reallocation Mandate requires that every institutional dollar entering the Roials-Capital orbit undergoes three tests:
+The Reallocation Mandate requires that every institutional dollar entering the ROIALS CAPITAL orbit undergoes three tests:
 
 • Can it accelerate Fund-III buyout momentum? 
 • Can it provide measurable liquidity relief for GP or LP participants through Asset-Based Lending engineering? 
@@ -97,7 +97,7 @@ The Reallocation Mandate states clearly: institutional capital must be repositio
 
 This is institutional architecture. Not advisory. Architecture.
 
-Roials-Capital operates through principal logic. Sparse language. High-density structure. No drift. No wasted motion. Machine gun sentences. Sharp. Compressed. Necessary.
+ROIALS CAPITAL operates through principal logic. Sparse language. High-density structure. No drift. No wasted motion. Machine gun sentences. Sharp. Compressed. Necessary.
 
 Institutional partners rely on accurate control messaging. Here is the message: Fund-III is the required reallocation destination for the next cycle. Markets will compress more. Credit will tighten further. Energy corridors will consolidate faster. LPs will concentrate exposures. GPs will require reinforced liquidity. Timing is narrow. Movement must be immediate.
 

@@ -2,7 +2,7 @@
 title: "Crypto Liquidity Architecture for Sovereign and Ultra-Capital Entities"
 description: "Institutional liquidity engineering framework for sovereign allocators, UHNW principal structures, and Fund-III GP mandates designing crypto-based settlement rails, reserve baskets, and cross-jurisdictional liquidity spines."
 date: "2025-04-26"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "crypto-liquidity-architecture-sovereign-ultra-capital"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"
 ---
@@ -38,7 +38,7 @@ At low-volatility bands and high liquidity density, LTV can expand to 55 percent
 In stress environments, the curve collapses to 15 to 25 percent. 
 This is predictable. Volatility bands are measurable, and liquidity corridors can be forecast with precision.
 
-Cash-flow waterfalls also require institutionalization. Crypto projects often have undisciplined flow structures. Roials-Capital applies private credit standards. 
+Cash-flow waterfalls also require institutionalization. Crypto projects often have undisciplined flow structures. ROIALS CAPITAL applies private credit standards. 
 First tier: on-chain revenue locks. 
 Second tier: off-chain legal agreements. 
 Third tier: collateral reallocation triggers tied to oracle-verified metrics. 
@@ -109,7 +109,6 @@ Stewardship creates this alignment. It systematically eliminates waste and enfor
 PHASE 5. EXIT
 
 The mandate is precise. Construct a liquidity architecture with a collateral efficiency ratio of 0.74 or higher and a 92 percent execution predictability across jurisdictions.
-
 
 ### TECHNICAL MANDATE
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

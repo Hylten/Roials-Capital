@@ -4,7 +4,7 @@ description: "An institutional exploration of liquidity engineering, private cre
 date: "2025-11-11"
 author: "Jonas Hyltén"
 slug: "architecting-asset-hardening-for-executive-portfolios"
-keywords: "private credit, asset based Institutional Liquidity Paths, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based Institutional Liquidity Paths, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
 
 # Asset Hardening for Executive Portfolios

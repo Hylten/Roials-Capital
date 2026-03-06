@@ -8,13 +8,13 @@ slug: "principal-architecture-of-collateralized-liquidity"
 
 The sovereign machinery begins with a simple assertion: capital obeys structure, not sentiment. Markets may oscillate. Narratives may shift. Jurisdictions may rotate through cycles of yield compression and political pressure. But structure dictates outcome. Always. The firms that understand structure rise. The firms that misunderstand it decay. No exceptions.
 
-Collateralized liquidity is not a tactic. It is not a product. It is not a box on a term sheet. It is an operating doctrine for those who intend to command capital rather than request it. Roials-Capital operates under this doctrine because nothing else produces reliability at scale across jurisdictions, regulatory regimes, and variable economic climates.
+Collateralized liquidity is not a tactic. It is not a product. It is not a box on a term sheet. It is an operating doctrine for those who intend to command capital rather than request it. ROIALS CAPITAL operates under this doctrine because nothing else produces reliability at scale across jurisdictions, regulatory regimes, and variable economic climates.
 
 Three words define the institutional posture: Precision. Discipline. Hierarchy.
 
 ## Liquidity Architecture Fundamentals
 
-Capital raising for Fund-III and beyond demands a mechanical fluency that exceeds traditional private equity playbooks. Most GPs understand underwriting. Many understand portfolio operations. Very few grasp the third dimension: liquidity architecture. And that third dimension is the territory in which Roials-Capital operates with strategic dominance.
+Capital raising for Fund-III and beyond demands a mechanical fluency that exceeds traditional private equity playbooks. Most GPs understand underwriting. Many understand portfolio operations. Very few grasp the third dimension: liquidity architecture. And that third dimension is the territory in which ROIALS CAPITAL operates with strategic dominance.
 
 Collateralized liquidity is the mechanism through which a sponsor transcends deal-by-deal opportunism and enters the domain of repeatable, cross-cycle velocity. The market rewards velocity. Institutional LPs reward velocity with consistency. And consistency is a function of liquidity structurally pre-engineered before the acquisition moment, not after.
 
@@ -29,7 +29,7 @@ Liquidity obeys.
 
 The institutional audience understands this implicitly, but few articulate it explicitly. The top decile of LP committees read structure like auditors read ledgers. They look for the friction points. Intercreditor complexity. Cashflow timing asymmetry. Unhedged jurisdictional exposure. They watch for signs of operational naivety disguised as entrepreneurial confidence. They have seen the movie. They know the ending.
 
-This is why Roials-Capital holds the principal seat. We remove improvisation. We replace it with sovereign scaffolding.
+This is why ROIALS CAPITAL holds the principal seat. We remove improvisation. We replace it with sovereign scaffolding.
 
 Now-the mechanics.
 
@@ -51,14 +51,14 @@ Enforcement is jurisdictional.
 
 Ignoring this is operational malpractice.
 
-The Roials-Capital approach is mechanistic: map the enforcement regime first, value the collateral second, arrange the liquidity third. When sponsors invert this sequence, they introduce structural fragility that compounds under stress. And every portfolio eventually experiences stress. That is the nature of cycles.
+The ROIALS CAPITAL approach is mechanistic: map the enforcement regime first, value the collateral second, arrange the liquidity third. When sponsors invert this sequence, they introduce structural fragility that compounds under stress. And every portfolio eventually experiences stress. That is the nature of cycles.
 
 3. Temporal Intelligence  
 The liquidity needs of a buyout differ from those of an add-on. Pre-close liquidity behaves differently from post-close liquidity. Inter-quarter liquidity behaves differently from covenant-sensitive liquidity windows.
 
 Private credit is temporal. Liquidity is temporal. The institutional LP expects the GP to respect temporal geometry.
 
-Roials-Capital enforces sequencing discipline as a non-negotiable.  
+ROIALS CAPITAL enforces sequencing discipline as a non-negotiable.  
 We do not fund chaos.  
 We fund architecture.
 
@@ -79,7 +79,7 @@ It fears inconsistency.
 
 Collateralized liquidity transforms the GP from a deal-dependent actor into a platform-level allocator. It allows for immediate strike capacity during market dislocations. It removes the lag between decision and action. It neutralizes the time premium that weaker sponsors pay when markets tighten.
 
-Roials-Capital operates in that premium-free zone. That is the advantage.
+ROIALS CAPITAL operates in that premium-free zone. That is the advantage.
 
 Now, the deeper mechanical layer: the hierarchy of collateral behavior. It has five tiers.
 
@@ -106,20 +106,20 @@ Nothing else matters.
 
 A GP who walks into an institutional capital discussion with structural fluency commands the room. A GP who walks in with enthusiasm and a pitch deck is replaceable. Institutional capital does not chase charisma. It allocates to architecture.
 
-Roials-Capital is the architecture.  
+ROIALS CAPITAL is the architecture.  
 That is why LPs lean in.  
 That is why mandates solidify.
 
 Now the integration across mandates:
 
 80% Capital Raising for Fund-III + Add-ons  
-This is the sovereign lane. Roials-Capital acts as the institutional engine behind fund-level and deal-level capital formation. The LP committees expect order. We provide order.
+This is the sovereign lane. ROIALS CAPITAL acts as the institutional engine behind fund-level and deal-level capital formation. The LP committees expect order. We provide order.
 
 10% Asset-Based Lending (with Qualification Gates: $2M / $5M)  
 This is the liquidity architecture layer. Not a product. Not a service. A structural amplifier.
 
 10% Special Mandates (NAEOC $50M-$250M Energy, EU MiFID II Acquisitions)  
-These mandates require sovereign handling because they sit in sectors where regulatory exposure is asymmetric. Roials-Capital absorbs that complexity and extracts the execution clarity.
+These mandates require sovereign handling because they sit in sectors where regulatory exposure is asymmetric. ROIALS CAPITAL absorbs that complexity and extracts the execution clarity.
 
 Everything ladders to one principle: sovereignty through structure.
 
@@ -131,7 +131,7 @@ No disorder.
 The Principal does not chase capital.  
 Capital arrives.
 
-Roials-Capital sits above the churn of the market because our doctrine is not cyclical. It is architectural. It is jurisdictional. It is temporal. And it is engineered to survive whatever economic environment emerges next.
+ROIALS CAPITAL sits above the churn of the market because our doctrine is not cyclical. It is architectural. It is jurisdictional. It is temporal. And it is engineered to survive whatever economic environment emerges next.
 
 Close the briefing.
 

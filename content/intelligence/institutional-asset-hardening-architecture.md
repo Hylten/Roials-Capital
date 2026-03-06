@@ -2,7 +2,7 @@
 title: "Principal Architecture for Institutional Grade Asset Hardening"
 description: "Institutional blueprint for capital raising, buyout infrastructure, liquidity engineering, and jurisdictional asset hardening mechanics for Fund-III scale operators."
 date: "2025-04-07"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "institutional-asset-hardening-architecture"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"
 ---
@@ -11,7 +11,7 @@ A structural gap always reveals itself first in recovery math. When the asset ba
 
 Order is not an option.
 
-Roials-Capital operates in a different regime. We treat architecture as a covenant. We treat capital as a sovereign asset. We harden the foundations before we scale the exposures. This briefing outlines the institutional framework required for Fund-III operators who intend to raise at velocity, execute at precision, and create liquidity on command.
+ROIALS CAPITAL operates in a different regime. We treat architecture as a covenant. We treat capital as a sovereign asset. We harden the foundations before we scale the exposures. This briefing outlines the institutional framework required for Fund-III operators who intend to raise at velocity, execute at precision, and create liquidity on command.
 
 PHASE 1. THE REGIME SHIFT
 
@@ -42,7 +42,7 @@ These mechanics are the minimum threshold for Fund-III level seriousness. Anythi
 
 PHASE 3. THE STRATEGIC MODEL
 
-The strategic model for asset hardening follows one principle. The GP must operate as an institutional machine, not a personality driven firm. Roials-Capital builds this machine.
+The strategic model for asset hardening follows one principle. The GP must operate as an institutional machine, not a personality driven firm. ROIALS CAPITAL builds this machine.
 
 Our architecture for Fund-III and Fund-IV managers includes the following components:
 
@@ -75,7 +75,6 @@ Stewardship is the filter that keeps a GP aligned with institutional capital rat
 PHASE 5. EXIT
 
 We close with one controlling metric. Hardened infrastructure lowers loss severity by 32 to 47 percent across mid market control buyouts. LPs recognize this. They act on it.
-
 
 ### TECHNICAL MANDATE
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

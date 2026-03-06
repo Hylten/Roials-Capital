@@ -4,7 +4,7 @@ description: "An institutional-level breakdown of sovereign liquidity facility s
 date: "2023-11-16"
 author: "Jonas Hyltén"
 slug: "the-mechanics-of-sovereign-liquidity-facility-structuring-a-precision-framework-for-institutional-li"
-keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
 
 # The Mechanics of Sovereign liquidity facility Structuring 

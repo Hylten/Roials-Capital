@@ -2,7 +2,7 @@
 title: "Principal Briefing on Institutional LP Appetite for Talent‑First Rollups"
 description: "Confidential Principal-level analysis on human‑capital‑dominant buyout construction, institutional LP posture, and Fund‑III capital formation signals across North America and Europe."
 date: "2026-03-05"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "institutional-lp-talent-first-rollups-briefing"
 ---
 
@@ -38,7 +38,7 @@ North America provides velocity.
 The Gulf provides capital optionality.  
 The Nordics provide governance discipline.
 
-Roials-Capital stands inside that intersection. Not beside it. Inside it. That positioning removes friction for LPs who seek cross‑border compounding without inheriting cross‑border exposure. This is the new frontier of talent-first private equity: global pathways for leadership, local grounding for operations, institutional-grade oversight embedded in the architecture.
+ROIALS CAPITAL stands inside that intersection. Not beside it. Inside it. That positioning removes friction for LPs who seek cross‑border compounding without inheriting cross‑border exposure. This is the new frontier of talent-first private equity: global pathways for leadership, local grounding for operations, institutional-grade oversight embedded in the architecture.
 
 Phase Three. The Human‑Capital Buyout Engine.
 
@@ -113,7 +113,7 @@ LPs are not guessing anymore. They know what a disciplined talent-first strategy
 
 Phase Eight. Moral Authority in Execution.
 
-Even though Roials-Capital does not speak in the moral register of Hylten-Invest, we still operate under a covenant: value creation without moral drift. The workforce inside a rollup is never an abstraction. It is the engine. Replace the cynicism common in traditional buyouts with stewardship, and the multiple expands. It is cold math disguised as principle.
+Even though ROIALS CAPITAL does not speak in the moral register of Hylten-Invest, we still operate under a covenant: value creation without moral drift. The workforce inside a rollup is never an abstraction. It is the engine. Replace the cynicism common in traditional buyouts with stewardship, and the multiple expands. It is cold math disguised as principle.
 
 Stewardship strengthens retention.  
 Retention strengthens training pathways.  
@@ -135,7 +135,7 @@ They understand that human-capital strategies scale quietly. They produce mid-te
 
 Phase Ten. Why Capital Flows Toward Us.
 
-The answer is not brand. It is not marketing. It is not positioning. It is structure. Roials-Capital executes with a precision few GPs can match:
+The answer is not brand. It is not marketing. It is not positioning. It is structure. ROIALS CAPITAL executes with a precision few GPs can match:
 
 We replace leadership before it becomes a problem.  
 We embed discipline before scale pressures arrive.  

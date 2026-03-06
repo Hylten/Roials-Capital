@@ -4,7 +4,7 @@ description: "An institutional examination of structural alpha within private cr
 date: "2023-11-25"
 author: "Jonas Hyltén"
 slug: "structural-alpha-in-private-credit-portfolios-the-architecture-of-controlled-liquidity"
-keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
 
 # Structural Alpha in Private Credit Portfolios
@@ -15,7 +15,7 @@ It is an engineering outcome.
 
 It is the product of design, governance, and liquidity architecture that is executed with precision rather than hoped for. 
 
-At Roials-Capital, structural alpha emerges from the way collateral is framed, the way risk paths are sealed, and the way private credit exposures are transformed into predictable liquidity engines for HNWI and UHNW clients.
+At ROIALS CAPITAL, structural alpha emerges from the way collateral is framed, the way risk paths are sealed, and the way private credit exposures are transformed into predictable liquidity engines for HNWI and UHNW clients.
 
 ## The Shift Toward Engineered Returns
 
@@ -41,9 +41,9 @@ It is not dependent on market movements.
 
 It is dependent on structural mechanics.
 
-## The Roials-Capital Framework
+## The ROIALS CAPITAL Framework
 
-Roials-Capital operates within private credit and asset based Institutional Liquidity Paths, creating liquidity against positions that traditional lenders either misunderstand or refuse to underwrite. 
+ROIALS CAPITAL operates within private credit and asset based Institutional Liquidity Paths, creating liquidity against positions that traditional lenders either misunderstand or refuse to underwrite. 
 
 We issue credit against: 
 
@@ -86,7 +86,7 @@ The lender controls the rules of engagement.
 
 Control is the foundation of structural alpha. 
 
-At Roials-Capital, control is engineered through three primary vectors. 
+At ROIALS CAPITAL, control is engineered through three primary vectors. 
 
 One, collateral integrity. 
 
@@ -145,7 +145,7 @@ It provides immediate optionality.
 
 It protects return continuity. 
 
-At Roials-Capital, overcollateralization is not a defensive mechanism. 
+At ROIALS CAPITAL, overcollateralization is not a defensive mechanism. 
 
 It is a design principle that transforms risk exposure into predictable yield. 
 
@@ -205,7 +205,7 @@ When liquidity is engineered with control, it becomes a strategic asset that com
 
 Clients who can create liquidity at will operate from a stronger position than those who wait for natural asset cycles. 
 
-## The Roials-Capital Liquidity Architecture
+## The ROIALS CAPITAL Liquidity Architecture
 
 Our liquidity architecture prioritizes three outcomes. 
 
@@ -249,7 +249,7 @@ Execution determines whether liquidity activates at the correct moment.
 
 Execution determines whether risk remains isolated. 
 
-At Roials-Capital, execution is not an operational function. 
+At ROIALS CAPITAL, execution is not an operational function. 
 
 It is a structural discipline. 
 
@@ -283,9 +283,9 @@ Architecture will become the differentiator.
 
 And controlled liquidity will become the primary currency of wealth mobility. 
 
-## The Roials-Capital Position
+## The ROIALS CAPITAL Position
 
-Roials-Capital stands at the intersection of private credit, asset based Asset-Backed Frameworks, and modern collateral. 
+ROIALS CAPITAL stands at the intersection of private credit, asset based Asset-Backed Frameworks, and modern collateral. 
 
 We operate with silent authority. 
 

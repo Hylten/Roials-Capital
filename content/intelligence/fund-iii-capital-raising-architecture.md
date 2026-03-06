@@ -2,7 +2,7 @@
 title: "Principal Architecture for Fund-III Kapitalanskaffning"
 description: "Institutional analysis of capital raising systems for Fund-III structures across buyout, Asset-Based Lending, and special mandate regimes. High conviction thesis for allocators seeking durable, repeatable institutional flows."
 date: "2023-01-27"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "Fund-III-capital-raising-architecture"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
 ---
@@ -65,7 +65,7 @@ For capital raising to operate at institutional scale, these five components mus
 
 PHASE 4: THE STEWARDSHIP FILTER
 
-Capital is a responsibility. Mismanagement of attention, time, or resources is waste. Waste is disqualifying. Roials-Capital operates under a simple conviction. Stewardship is not an ethical preference. Stewardship is a competitive weapon. The allocator senses this immediately.
+Capital is a responsibility. Mismanagement of attention, time, or resources is waste. Waste is disqualifying. ROIALS CAPITAL operates under a simple conviction. Stewardship is not an ethical preference. Stewardship is a competitive weapon. The allocator senses this immediately.
 
 Proverbs 13:22 states that a good man leaves an inheritance to his children's children. In institutional terms this means that capital must be allocated with intergenerational discipline. No false scale. No marketing theatrics. No cosmetic data rooms. Institutional allocators have no interest in stories. They fund order.
 

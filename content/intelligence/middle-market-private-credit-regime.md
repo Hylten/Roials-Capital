@@ -2,7 +2,7 @@
 title: "The Middle Market Regime and the Credit Sovereignty Window"
 description: "Institutional briefing on middle-market private credit, liquidity engineering, and capital raising mechanics for Fund-III mandates targeting buyouts, add-ons, Asset-Based Lending structures, and sector specific special mandates."
 date: "2024-01-18"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "middle-market-private-credit-regime"
 keywords: "kapitalanskaffning, private credit, middle market, Asset-Backed Frameworks, Asset-Based Lending, energy credit, MiFID II acquisition"
 ---
@@ -25,14 +25,14 @@ Order is not an option.
 
 Institutional LPs understand that private credit is no longer a niche carve-out. It is the new ballast of alternative portfolios. The large-cap segment is saturated. Everyone is there. The alpha is not. The middle market remains under-institutionalized, mispriced, and operationally opaque. That opacity is where disciplined firms extract permanent advantage.
 
-Roials-Capital states the position clearly: the middle market is the most asymmetric risk adjusted credit opportunity available today. We operate where complexity deters slower capital.
+ROIALS CAPITAL states the position clearly: the middle market is the most asymmetric risk adjusted credit opportunity available today. We operate where complexity deters slower capital.
 
 Phase 2: Technical Mechanics
 
 Middle-market private credit performance is determined by three mechanical elements: LTV discipline, cash flow visibility, and recovery velocity. When these triage points are engineered correctly, you remove noise and build mathematically predictable outcomes.
 
 Loan-to-Value Curves:
-The institutional threshold for stability in this segment is a 35 to 55 percent LTV corridor. Sponsors push for more leverage. Roials-Capital rejects it. Elevating LTV beyond that corridor removes the loss-absorbing buffer that makes middle-market credit structurally superior to large-cap. Discipline is not negotiable. It is the spine of the model.
+The institutional threshold for stability in this segment is a 35 to 55 percent LTV corridor. Sponsors push for more leverage. ROIALS CAPITAL rejects it. Elevating LTV beyond that corridor removes the loss-absorbing buffer that makes middle-market credit structurally superior to large-cap. Discipline is not negotiable. It is the spine of the model.
 
 Cash Flow Waterfalls:
 Waterfalls in the middle market primarily behave through free cash flow sweep mechanics and accelerated amortization windows. The engineering problem is not yield. It is control. A properly architected waterfall prioritizes amortization ahead of optional distributions, enforcing a deleveraging glide path that shortens the half-life of risk exposure. Predictability outranks aggressiveness.
@@ -51,7 +51,7 @@ Regulatory fragmentation suppresses transaction speed. This is not a disadvantag
 
 Phase 3: The Strategic Model
 
-Roials-Capital operates with a singular institutional objective: raise and deploy capital into Fund-III structures designed for mid-market buyouts, add-ons, and operating platform consolidation. The core of the model is velocity with precision.
+ROIALS CAPITAL operates with a singular institutional objective: raise and deploy capital into Fund-III structures designed for mid-market buyouts, add-ons, and operating platform consolidation. The core of the model is velocity with precision.
 
 Capital Raising Mechanics:
 Eighty percent of our activity is directed toward kapitalanskaffning for Fund-III mandates. We target allocators requiring predictable coupon delivery, structural seniority, and exposure to non-correlated corporate performance. Our architecture eliminates ambiguity. We speak in cash flows, not narratives.
@@ -70,7 +70,7 @@ Another ten percent of our mandate centers on special opportunities. Two categor
 1. NAEOC energy credit between 50M and 250M. Depletion-based assets with measurable cash flow profiles.
 2. MiFID II regulated acquisitions. European consolidations that require regulatory fluency and disciplined closing architecture.
 
-These segments reward firms that operate with institutional patience and technical comprehension. They punish firms that chase yield without structural mastery. Roials-Capital belongs to the first group.
+These segments reward firms that operate with institutional patience and technical comprehension. They punish firms that chase yield without structural mastery. ROIALS CAPITAL belongs to the first group.
 
 Phase 4: The Stewardship Filter
 

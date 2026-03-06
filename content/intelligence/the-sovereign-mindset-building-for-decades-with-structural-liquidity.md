@@ -4,7 +4,7 @@ description: "A high‑trust analysis of liquidity architecture and asset based 
 date: "2024-03-08"
 author: "Jonas Hyltén"
 slug: "the-sovereign-mindset-building-for-decades-with-structural-liquidity"
-keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
 
 # The Sovereign Mindset: Building for Decades
@@ -17,7 +17,7 @@ A way of thinking that privileges durability over excitement, structure over imp
 
 For High Net Worth and Ultra High Net Worth individuals, the priority is not yield in isolation. It is control. It is predictability. It is engineered liquidity that remains sovereign, regardless of cycles.
 
-Roials‑Capital operates within this strategic domain. We are not a retail lender. We are not a speculative vehicle. We are the structural layer, the silent authority behind capital formation, and the institution that stabilizes liquidity for individuals whose assets carry generational significance.
+ROIALS CAPITAL operates within this strategic domain. We are not a retail lender. We are not a speculative vehicle. We are the structural layer, the silent authority behind capital formation, and the institution that stabilizes liquidity for individuals whose assets carry generational significance.
 
 This article outlines the foundational logic behind the sovereign mindset, the architecture of multi‑decade wealth systems, and the role private credit and asset based Institutional Liquidity Paths can play in ensuring outcomes that exceed the volatility of markets.
 
@@ -79,7 +79,7 @@ Across generational transitions.
 
 Longevity is engineered.
 
-Roials‑Capital supports this engineering through a framework based on three principles:
+ROIALS CAPITAL supports this engineering through a framework based on three principles:
 
 Structural liquidity. Assets are never forced into liquidation.
 
@@ -113,11 +113,11 @@ Ensuring every Strategic Collateralization structure is institution grade and al
 
 This is not financial engineering for the sake of complexity. It is simplicity at a higher resolution.
 
-## Why Roials‑Capital Exists In This Ecosystem
+## Why ROIALS CAPITAL Exists In This Ecosystem
 
 Wealth at scale requires partners who can match the gravity of the assets involved.
 
-Roials‑Capital is built for this purpose.
+ROIALS CAPITAL is built for this purpose.
 
 We operate without noise. We maintain standards that remain above commercial pressure. We focus on structural outcomes, not transactional interactions.
 

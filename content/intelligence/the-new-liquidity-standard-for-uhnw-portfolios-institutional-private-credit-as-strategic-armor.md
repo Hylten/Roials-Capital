@@ -25,7 +25,7 @@ This shift has elevated institutional private credit from an alternative allocat
 
 Not because of yield, but because of liquidity characteristics that can be engineered with far more predictability than any public market instrument. 
 
-Roials‑Capital frames this as the new liquidity standard. 
+ROIALS CAPITAL frames this as the new liquidity standard. 
 
 A structural armor layer. 
 
@@ -77,7 +77,7 @@ It creates strategic independence.
 
 It transforms liquidity from a reactive function into a controllable system. 
 
-This is the structural armor layer Roials‑Capital builds for UHNW families and institutional allocators. 
+This is the structural armor layer ROIALS CAPITAL builds for UHNW families and institutional allocators. 
 
 A system that protects. 
 A system that performs. 

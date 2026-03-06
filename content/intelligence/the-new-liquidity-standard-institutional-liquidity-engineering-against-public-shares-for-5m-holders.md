@@ -4,7 +4,7 @@ description: "A high‑authority analysis of the emerging liquidity standard, fo
 date: "2023-07-25"
 author: "Jonas Hyltén"
 slug: "the-new-liquidity-standard-institutional-liquidity-engineering-against-public-shares-for-5m-holders"
-keywords: "private credit, asset based Capital Structuring, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based Capital Structuring, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
 
 # The New Liquidity Standard: Capital Structuring Against Public Shares for the + Class

@@ -18,8 +18,6 @@ Phase shifts are never declared. They are discovered.
 
 This is one of those years.
 
-Machine-gun clarity.
-
 Three truths.
 
 Markets mispriced risk.

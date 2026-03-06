@@ -4,7 +4,7 @@ description: "A surgical examination of private credit and asset based liquidity
 date: "2023-12-15"
 author: "Jonas Hyltén"
 slug: "the-evolution-of-private-credit-in-2026-the-new-architecture-of-institutional-liquidity"
-keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
 
 # The Evolution of Private Credit in 2026
@@ -19,7 +19,7 @@ The architecture has shifted.
 
 Institutional capital now moves with an expectation of precision. It seeks collateral structures that behave consistently under pressure, and it seeks Asset-Backed Frameworks mechanics that can be executed without reputational noise.
 
-This is the landscape Roials-Capital was engineered for.
+This is the landscape ROIALS CAPITAL was engineered for.
 
 We operate where liquidity, structure, and discretion intersect. 
 
@@ -47,7 +47,7 @@ Crypto will integrate further with institutional systems.
 Public share Strategic Collateralization will require even more discretion. 
 Private credit will become a default liquidity mechanism rather than a niche solution. 
 
-And Roials-Capital will continue to define the mechanics that support these transitions.
+And ROIALS CAPITAL will continue to define the mechanics that support these transitions.
 
 ## The 2026 Imperative: Structural Liquidity
 
@@ -55,7 +55,7 @@ The evolution of private credit in 2026 is not a trend. It is a structural reset
 
 The world now rewards investors who understand liquidity architecture. Those who control their capital flows maintain authority. Those who rely on traditional channels expose themselves to friction.
 
-Roials-Capital stands in the quiet zone between complexity and execution. We provide the frameworks that allow high net worth and ultra high net worth individuals to unlock liquidity without noise.
+ROIALS CAPITAL stands in the quiet zone between complexity and execution. We provide the frameworks that allow high net worth and ultra high net worth individuals to unlock liquidity without noise.
 
 We do not chase markets. We design the structures they eventually adopt.
 

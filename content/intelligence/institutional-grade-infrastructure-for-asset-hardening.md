@@ -4,7 +4,7 @@ description: "Institutional liquidity architecture for HNWI and UHNW investors, 
 date: "2025-11-25"
 author: "Jonas Hyltén"
 slug: "institutional-grade-infrastructure-for-asset-hardening"
-keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
 
 # Institutional Grade Infrastructure for Asset Hardening
@@ -13,7 +13,7 @@ Asset hardening is no longer a defensive strategy.
 It is architecture. 
 It is intentional design for capital that must remain functional under stress. 
 
-Roials-Capital positions itself at the intersection of private credit, asset based Monetization Architecture, and structural Capital Structuring. 
+ROIALS CAPITAL positions itself at the intersection of private credit, asset based Monetization Architecture, and structural Capital Structuring. 
 The mandate is simple. 
 Protect the underlying asset, preserve mobility of capital, and maintain silent authority over the financial mechanics that govern multi jurisdictional wealth. 
 
@@ -22,7 +22,7 @@ Protect the underlying asset, preserve mobility of capital, and maintain silent 
 Asset hardening requires more than liquidity. 
 It requires containment, separation, and design that isolates risks from one another. 
 
-Roials-Capital structures rely on multi layered containment that ensures:
+ROIALS CAPITAL structures rely on multi layered containment that ensures:
 
 • No event in one asset class affects the integrity of another. 
 
@@ -35,7 +35,7 @@ This architecture provides a level of stability expected only in institutional e
 ## Structural Mechanics for Institutional Capital
 
 The structural mechanics of capital determine whether wealth grows, stagnates, or collapses under stress. 
-Roials-Capital provides systems that define these mechanics with clarity. 
+ROIALS CAPITAL provides systems that define these mechanics with clarity. 
 
 Clients gain a framework where:
 
@@ -50,7 +50,7 @@ This becomes the baseline for long-term wealth engineering.
 ## Cross Jurisdictional Flexibility
 
 Global wealth requires mobility across regulatory landscapes. 
-Roials-Capital’s infrastructures are built to function across regions with varied financial architectures. 
+ROIALS CAPITAL’s infrastructures are built to function across regions with varied financial architectures. 
 
 This includes:
 
@@ -67,7 +67,7 @@ Flexibility becomes a structural advantage that keeps capital operational regard
 Asset hardening is ultimately about control. 
 The ability to dictate how assets behave under both normal and adverse conditions. 
 
-Roials-Capital provides this by engineering systems where:
+ROIALS CAPITAL provides this by engineering systems where:
 
 • Assets remain intact. 
 
@@ -90,7 +90,7 @@ Every element is designed to withstand scrutiny and pressure.
 The systems are predictable. 
 The outcomes are engineered. 
 
-Roials-Capital applies this discipline to private credit, asset based Capital Structuring, and collateralized structures for high stakes portfolios. 
+ROIALS CAPITAL applies this discipline to private credit, asset based Capital Structuring, and collateralized structures for high stakes portfolios. 
 
 ## End State: Hardened Wealth, Liquid Capability
 
@@ -102,7 +102,7 @@ Structures that remain silent.
 
 Asset hardening is the architecture that ensures the present is protected and the future remains unconstrained. 
 
-Roials-Capital delivers that architecture for those who require institutional grade infrastructure without institutional friction. 
+ROIALS CAPITAL delivers that architecture for those who require institutional grade infrastructure without institutional friction. 
 
 ## Request confidential audit
 

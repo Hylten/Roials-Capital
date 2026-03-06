@@ -2,7 +2,7 @@
 title: "Fund‑III Governance Architecture for Institutional Allocators"
 description: "Principal briefing on GP governance scaling, allocator‑grade reporting systems, and cross‑jurisdictional capital interfaces for Fund‑III buyout platforms."
 date: "2026-03-05"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "Fund-III-governance-architecture"
 ---
 

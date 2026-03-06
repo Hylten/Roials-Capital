@@ -4,7 +4,7 @@ description: "An institutional analysis of liquidity architecture, private credi
 date: "2025-02-27"
 author: "Jonas Hyltén"
 slug: "liquidity-architecture-for-Fund-III-expansion-structural-mechanics-for-institutional-grade-capital"
-keywords: "private credit, asset based Institutional Liquidity Paths, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based Institutional Liquidity Paths, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
 
 # Liquidity Architecture for Fund-III Expansion

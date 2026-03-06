@@ -2,7 +2,7 @@
 title: "Asset-Based Liquidity Engineering as the Structural Engine for Multi‑Generational Capital Sovereignty"
 description: "Institutional brief on Asset-Based Lending-driven liquidity architecture, Fund-III capitalization pathways, and cross-jurisdictional acquisition protocols for LP/GP allocators."
 date: "2026-02-05"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "abl-engine-for-multigenerational-wealth"
 keywords: "kapitalanskaffning, oil and gas, private credit, Capital Structuring, asset hardening"
 ---
@@ -48,7 +48,6 @@ Principal oversight demands an engineering mindset. Evaluate assets as liquidity
 Capital raising must be relentless. Institutions track deployment rhythms, collateral coverage, underwriting standards, and access to acceleration capital. GP discipline becomes visible in liquidity timing, asset conversion cycles, and acquisition strike windows. Fund‑III must show capacity to move first, not fastest; early, not recklessly; decisively, not loudly. Principal voice. Zero noise. Zero drift. Tight cycles. Hard signals. Fast execution. Machine gun sentences. Precision. No fillers.
 
 This briefing must operate as a sovereign declaration. Asset‑based Capital Structuring is not an optional capability. It is the structural engine for multi‑generational wealth. Families that fail to build liquidity architecture lose their compounding power within one generation. Institutions that fail to embed Asset-Based Lending into their fund infrastructure lose competitiveness within one cycle. Fund‑III cannot tolerate such failure. The architecture mandates durability. The market demands velocity. The mandate is clear.
-
 
 ### TECHNICAL MANDATE
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

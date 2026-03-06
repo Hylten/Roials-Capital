@@ -4,7 +4,7 @@ description: "An institutional analysis of liquidity structuring through private
 date: "2023-03-09"
 author: "Jonas Hyltén"
 slug: "the-mechanics-of-sovereign-asset-hardening"
-keywords: "private credit, asset based Monetization Architecture, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based Monetization Architecture, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
 
 # The Mechanics of Sovereign Asset Hardening
@@ -22,7 +22,7 @@ Precision, liquidity reliability, and systemic durability are.
 
  
 
-At Roials‑Capital, we operate inside that narrow bandwidth where capital is not managed, it is engineered. 
+At ROIALS CAPITAL, we operate inside that narrow bandwidth where capital is not managed, it is engineered. 
 We provide private credit and asset based Capital Structuring structures that treat liquidity as a controllable variable. 
 Not a dependency. 
 
@@ -53,7 +53,7 @@ It requires institutional rules, not improvisation.
 
  
 
-Roials‑Capital operates as the architect of these institutional rules. 
+ROIALS CAPITAL operates as the architect of these institutional rules. 
 Silent authority. 
 Structural clarity. 
 Capital engineered rather than managed.
@@ -129,7 +129,7 @@ Hardening creates systemic resilience.
 One asset class reinforces another. 
 The system behaves as a unified organism rather than isolated components.
 
-## The Roials‑Capital Position
+## The ROIALS CAPITAL Position
 
 We are not a retail lender. 
 We are not a generalized financial services firm. 
@@ -154,7 +154,7 @@ The architecture remains invisible.
 
 ## Request Confidential Audit
 
-For clients requiring structural liquidity without exposure, disruption, or signaling, Roials‑Capital provides the institutional mechanics.
+For clients requiring structural liquidity without exposure, disruption, or signaling, ROIALS CAPITAL provides the institutional mechanics.
 
 ### TECHNICAL MANDATE
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

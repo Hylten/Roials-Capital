@@ -4,7 +4,7 @@ description: "A surgical examination of liquidity architecture, private credit, 
 date: "2023-10-17"
 author: "Jonas Hyltén"
 slug: "navigating-the-middle-market-credit-gap-with-structural-precision"
-keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
 
 # Navigating the Middle Market Credit Gap
@@ -17,7 +17,7 @@ This gap is now structural. It is not cyclical.
 
 For HNWI and UHNW investors, this environment requires a different lens. The objective is no longer simply yield generation. It is about precision, control, and the ability to influence liquidity architecture when institutional channels delay or decline participation. 
 
-Roials-Capital operates within this structural void. 
+ROIALS CAPITAL operates within this structural void. 
 
 We approach the middle market credit gap not as a challenge but as a design opportunity. We create the mechanics, the frameworks, and the capital pathways that reintroduce functionality where incumbent systems have stalled. 
 
@@ -47,7 +47,7 @@ Its prominence is not the result of speculation. It is the result of institution
 
 Private credit fills operational gaps with speed and precision. 
 
-Roials-Capital structures this category for HNWI and UHNW clients who require institutional-grade execution without institutional friction. 
+ROIALS CAPITAL structures this category for HNWI and UHNW clients who require institutional-grade execution without institutional friction. 
 
 Our Capital Structuring architecture is governed by collateral logic, not bureaucracy. 
 
@@ -57,7 +57,7 @@ Asset Based Strategic Collateralization, Asset-Based Lending, remains one of the
 
 The principle is simple. Liquidity is created from balance sheet strength rather than traditional credit models. 
 
-At Roials-Capital, we lend against private credit portfolios and defined asset pools. 
+At ROIALS CAPITAL, we lend against private credit portfolios and defined asset pools. 
 
 This transforms static asset value into functional capital. It is efficient because it is grounded in verifiable collateral. It is predictable because the structure is governed by quantifiable exposure rather than subjective interpretation. 
 
@@ -75,7 +75,7 @@ In a market where institutions have reduced exposure, private actors with the ri
 
 The ability to synthesize liquidity based on collateral, market structure, and investment objectives is now a competitive advantage. 
 
-Roials-Capital’s framework is built on engineered liquidity. 
+ROIALS CAPITAL’s framework is built on engineered liquidity. 
 
 We do not position ourselves as lenders in the traditional sense. We operate as architects of capital efficiency. 
 
@@ -103,7 +103,7 @@ Digital asset holders face a unique contradiction.
 
 They possess high-value, highly liquid collateral. Yet traditional lenders do not participate at meaningful scale. 
 
-Roials-Capital engages where others retreat. 
+ROIALS CAPITAL engages where others retreat. 
 
 Our crypto Asset-Backed Frameworks threshold is two million dollars. 
 
@@ -119,7 +119,7 @@ Public equity portfolios are frequently underleveraged despite strong liquidity 
 
 HNWI and UHNW investors often carry multi-million dollar positions that remain idle because traditional banks impose rigid and conservative balance sheet optimization conditions. 
 
-Roials-Capital provides Strategic Collateralization against public share positions with a minimum threshold of five million dollars. 
+ROIALS CAPITAL provides Strategic Collateralization against public share positions with a minimum threshold of five million dollars. 
 
 The purpose is not leverage for its own sake. The purpose is liquidity alignment. 
 
@@ -147,7 +147,7 @@ Inefficiency creates opportunity.
 
 For sophisticated lenders, the divergence between perceived risk and actual collateral value is where structural advantage resides. 
 
-## The Roials-Capital Design Philosophy
+## The ROIALS CAPITAL Design Philosophy
 
 Our approach is governed by silent authority. 
 
@@ -190,7 +190,7 @@ Second, the ability to use private credit and Asset-Based Lending to maintain li
 
 Third, structural control over capital velocity, independent of traditional lenders. 
 
-Roials-Capital provides the architecture that supports these advantages. 
+ROIALS CAPITAL provides the architecture that supports these advantages. 
 
 Our focus is on structural integrity, not volume. 
 

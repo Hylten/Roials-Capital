@@ -4,7 +4,7 @@ description: "Institutional overview of Asset-Backed Frameworks and asset based 
 date: "2025-09-24"
 author: "Jonas Hyltén"
 slug: "multiasset-hardening-for-Fund-III-integrating-digital-assets-into-institutional-liquidity-engineerin"
-keywords: "private credit, asset based Capital Structuring, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based Capital Structuring, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
 
 # Multi Asset Hardening for Fund-III 

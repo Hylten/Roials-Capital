@@ -89,7 +89,6 @@ PHASE 5. EXIT
 
 The sole metric that matters: liquidity coverage ratio must stabilize above 1.62 within 90 days of transaction close.
 
-
 ### TECHNICAL MANDATE
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 

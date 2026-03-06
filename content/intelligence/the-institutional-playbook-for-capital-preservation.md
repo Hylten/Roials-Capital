@@ -4,7 +4,7 @@ description: "A high‑trust, institutional guide to liquidity creation through 
 date: "2024-11-09"
 author: "Jonas Hyltén"
 slug: "the-institutional-playbook-for-capital-preservation"
-keywords: "private credit, asset based Capital Structuring, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based Capital Structuring, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
 
 # The Institutional Playbook for Capital Preservation
@@ -23,7 +23,7 @@ This playbook exists for those few.
 For the High Net Worth and Ultra High Net Worth holders who understand that protection is the first function of capital. 
 And that preservation is the quiet superiority behind every enduring dynasty.
 
-Roials‑Capital operates inside that discipline. 
+ROIALS CAPITAL operates inside that discipline. 
 We create liquidity against assets that others ignore. 
 We structure credit where traditional systems hesitate. 
 We remain silent authority, not surface‑level noise.
@@ -41,7 +41,7 @@ Liquidity windows shrink.
 Preservation cannot rely on outdated banking logic. 
 It must rely on engineered financial architecture, on collateral optimization, on institutional credit practices that remain insulated from market turbulence.
 
-Roials‑Capital builds those structures quietly. 
+ROIALS CAPITAL builds those structures quietly. 
 Our clients operate within them confidently. 
 
 Preservation is not passive. 

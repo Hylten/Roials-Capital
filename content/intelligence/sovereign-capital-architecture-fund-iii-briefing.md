@@ -2,7 +2,7 @@
 title: "Sovereign Capital Architecture for Fund-III Expansion Cycles"
 description: "An institutional briefing on capital raising, structural arbitrage, liquidity engineering, and multi‑jurisdictional acquisition architecture for Fund-III buyout platforms and special mandates."
 date: "2024-04-24"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "sovereign-capital-architecture-Fund-III-briefing"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"
 ---
@@ -224,7 +224,6 @@ This is the Fund‑III expansion engine.
 This is the institutional blueprint.
 
 End mandate metric: Liquidity Coverage Ratio Target > 1.85.
-
 
 ### TECHNICAL MANDATE
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

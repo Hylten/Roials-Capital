@@ -178,7 +178,7 @@ Energy systems are being rebuilt for reasons of physics, not politics. That is t
 ---
 
 CAPITAL ARCHITECTURE  
-Roials‑Capital Position in the Cycle
+ROIALS CAPITAL Position in the Cycle
 
 You already know our tri‑vector:  
 Eighty percent capital raising for Fund‑III and add‑on execution.  
@@ -209,7 +209,7 @@ We build the harbor where the tide returns.
 ---
 
 ASSET‑BASED LENDING (QUALIFICATION GATES)  
-Strict Roials‑Capital Protocol
+Strict ROIALS CAPITAL Protocol
 
 If a manager or operating company requires working liquidity for acquisition execution, bridge positioning, or industrial stabilization, we open the Asset‑Based Lending corridor only at the formal Qualification Gates:
 

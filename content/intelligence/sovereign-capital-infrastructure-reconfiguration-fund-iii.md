@@ -2,7 +2,7 @@
 title: "Sovereign Capital Infrastructures: The Reconfiguration Mandate for Fund-III"
 description: "A high-density institutional analysis of sovereign capital architectures, multi‑jurisdictional alignment, and next‑generation allocation regimes driving Fund-III kapitalanskaffning, private credit expansion, and liquidity engineering mandates."
 date: "2025-07-05"
-author: "Roials-Capital | Principal Architect"
+author: "ROIALS CAPITAL | Principal Architect"
 slug: "sovereign-capital-infrastructure-reconfiguration-Fund-III"
 keywords: "kapitalanskaffning, oil and gas, private credit, Monetization Architecture, asset hardening"
 ---
@@ -280,7 +280,6 @@ The coming decades will be shaped by:
 Fund‑III positions itself inside all six. Not near them. Inside them.
 
 Institutional LPs know the truth: sovereignty is capital. Capital is sovereignty. Fund‑III is architecture built to serve both.
-
 
 ### TECHNICAL MANDATE
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

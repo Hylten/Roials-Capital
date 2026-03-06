@@ -4,7 +4,7 @@ description: "An institutional-grade analysis of liquidity engineering through p
 date: "2023-03-20"
 author: "Jonas Hyltén"
 slug: "strategic-capital-migration-in-the-age-of-digital-sovereignty"
-keywords: "private credit, asset based Monetization Architecture, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based Monetization Architecture, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
 
 # Strategic Capital Migration in the Age of Digital Sovereignty
@@ -31,7 +31,7 @@ The sovereignty of being able to deploy capital at temporal speed without distur
 
  
 
-Roials-Capital operates inside this new paradigm with silent authority. 
+ROIALS CAPITAL operates inside this new paradigm with silent authority. 
 
 We construct the structural mechanics that allow private credit, asset based Monetization Architecture, and digital liquidity instruments to function as a single integrated architecture.
 
@@ -67,7 +67,7 @@ They allow significant capital reserves to remain compounding, while liquidity i
 
  
 
-Within this shift, Roials-Capital does not sell liquidity. 
+Within this shift, ROIALS CAPITAL does not sell liquidity. 
 
 We engineer it. 
 
@@ -101,7 +101,7 @@ What matters is the **interoperability of assets**.
 
  
 
-Roials-Capital designs this interoperability.
+ROIALS CAPITAL designs this interoperability.
 
 ## Liquidity as a Structural Asset
 
@@ -151,7 +151,7 @@ They require the same structural leverage that banks and funds use internally, y
 
  
 
-Roials-Capital positions private credit not as an investment product but as a sovereignty mechanism. 
+ROIALS CAPITAL positions private credit not as an investment product but as a sovereignty mechanism. 
 
 It is a precision tool used to control liquidity sequencing.
 
@@ -188,7 +188,7 @@ Asset-Based Lending provides four strategic advantages:
 • Asymmetry: Clients operate with leverage that does not erode compounding. 
 
  
-Roials-Capital uses Asset-Based Lending as a structural skeleton. 
+ROIALS CAPITAL uses Asset-Based Lending as a structural skeleton. 
 
 It connects asset silos that traditionally do not speak the same financial language. 
 
@@ -278,7 +278,7 @@ Sovereignty is constructed, not inherited.
 
 ## The Silent Authority Framework
 
-Roials-Capital operates with F-Hierarchical Dynamics. 
+ROIALS CAPITAL operates with F-Hierarchical Dynamics. 
 
 This status is defined by silent authority and structural presence rather than overt signaling.
 
@@ -316,7 +316,7 @@ With the rise of digital sovereignty, private credit as a core asset class, and 
 
  
 
-Roials-Capital stands at the center of this shift. 
+ROIALS CAPITAL stands at the center of this shift. 
 
 Our structures allow clients to maintain control while accessing liquidity across all layers of their balance sheet.
 
@@ -340,7 +340,7 @@ Those who do not remain tied to outdated financial frameworks.
 
  
 
-Roials-Capital provides the mechanics. 
+ROIALS CAPITAL provides the mechanics. 
 
 The architecture. 
 

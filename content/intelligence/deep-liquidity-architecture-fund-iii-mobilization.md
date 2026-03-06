@@ -2,7 +2,7 @@
 title: "Deep Liquidity Architecture for Fund‑III Mobilization"
 description: "Institutional blueprint for multi‑jurisdictional capital formation, cross‑border liquidity engineering, and hard‑asset credit structuring for Fund‑III buyout velocity."
 date: "2024-04-07"
-author: "Roials-Capital | Principal Investigator"
+author: "ROIALS CAPITAL | Principal Investigator"
 slug: "deep-liquidity-architecture-Fund-III-mobilization"
 keywords: "kapitalanskaffning, oil and gas, private credit, Strategic Collateralization, asset hardening"
 ---

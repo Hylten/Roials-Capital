@@ -4,7 +4,7 @@ description: "Institutional liquidity through private credit and asset based Str
 date: "2024-03-18"
 author: "Jonas Hyltén"
 slug: "liquidity-engineering-against-bitcoin-the-new-gold-standard-for-family-offices"
-keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
 
 # Strategic Collateralization Against Bitcoin: The New Gold Standard for Family Offices
@@ -25,7 +25,7 @@ For HNWI and UHNW principals who measure time in decades rather than quarters, t
 
 A frontier that sits firmly within the domain of private credit and asset based Institutional Liquidity Paths.
 
-The domain where Roials-Capital builds the architecture.
+The domain where ROIALS CAPITAL builds the architecture.
 
 ## The Shift From Speculative Asset to Collateral Infrastructure
 
@@ -67,7 +67,7 @@ Bitcoin, when paired with sophisticated asset based Asset-Backed Frameworks mech
 
 • Independence from banking bottlenecks, granting more reliable liquidity windows during stressed markets. 
 
-Roials-Capital aligns these properties with disciplined private credit infrastructure.
+ROIALS CAPITAL aligns these properties with disciplined private credit infrastructure.
 
 We create a Strategic Collateralization environment that respects the asset's nature rather than forcing it into outdated models.
 
@@ -103,7 +103,7 @@ It allows us to maintain the silent authority that stable private credit demands
 
 It also ensures that counterparty quality remains high across the entire ecosystem.
 
-Roials-Capital is a partner only when the principal’s scale matches the architecture.
+ROIALS CAPITAL is a partner only when the principal’s scale matches the architecture.
 
 ## Bitcoin as the New Gold Standard
 
@@ -145,7 +145,7 @@ Family offices no longer ask whether Bitcoin is legitimate.
 
 They now ask how to optimise its leverage and liquidity potential.
 
-Roials-Capital provides that optimisation.
+ROIALS CAPITAL provides that optimisation.
 
 ## The Architecture of Strategic Collateralization Against Bitcoin
 
@@ -221,7 +221,7 @@ Collateral that moves smoothly yields better structural outcomes.
 
 ## The Family Office Use Case: Liquidity Without Sacrifice
 
-Roials-Capital has observed a consistent trend among multi generational wealth structures.
+ROIALS CAPITAL has observed a consistent trend among multi generational wealth structures.
 
 ### They want liquidity without liquidation.
 
@@ -269,7 +269,7 @@ Its movement is immediate.
 
 This turns the Asset-Based Lending process from an exercise in negotiation into an exercise in engineering.
 
-Roials-Capital applies this engineering mindset across every stage, from collateral onboarding to settlement sequencing.
+ROIALS CAPITAL applies this engineering mindset across every stage, from collateral onboarding to settlement sequencing.
 
 ## The New Gold Standard Is Not a Metaphor
 
@@ -295,7 +295,7 @@ Bitcoin shares these characteristics, and adds:
 
 Family offices that understand this shift strengthen their position for the next fifty years, not the next cycle.
 
-## The Roials-Capital Position
+## The ROIALS CAPITAL Position
 
 We do not speculate.
 
@@ -323,7 +323,7 @@ It is built on transparent, mobile, liquid collateral.
 
 Bitcoin is the model.
 
-Roials-Capital is the architecture.
+ROIALS CAPITAL is the architecture.
 
 ## Request confidential audit
 

@@ -2,7 +2,7 @@
 title: "Sovereign Mandate Architecture for Asset‑Based Liquidity Engineering"
 description: "Institutional-grade deep briefing on Asset-Based Asset-Backed Frameworks as a sovereign mandate for Fund-III capital raising, jurisdictional arbitrage, and asset hardening frameworks."
 date: "2024-07-26"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "sovereign-liquidity-engineering-mandate"
 keywords: "kapitalanskaffning, oil and gas, private credit, Capital Structuring, asset hardening"
 ---
@@ -53,9 +53,9 @@ Asset-Based Lending outputs are predictable when engineered correctly:
 
 This is the reason Fund-III GPs adopt the sovereign mandate. It restores independence. It elevates bargaining power. It eliminates reactionary capital behavior.
 
-Phase 2: Tone Protocol (Roials-Capital)
+Phase 2: Tone Protocol (ROIALS CAPITAL)
 
-Assertive. Red‑Yellow. High‑velocity. Institutional authority. Short bursts. Machine‑gun phrasing to signal conviction. Roials-Capital communicates from the apex. No hedging. No filler. Asset-Based Monetization Architecture is not a service line. It is the power center of Kapitalanskaffning for Fund-III and beyond.
+Assertive. Red‑Yellow. High‑velocity. Institutional authority. Short bursts. Machine‑gun phrasing to signal conviction. ROIALS CAPITAL communicates from the apex. No hedging. No filler. Asset-Based Monetization Architecture is not a service line. It is the power center of Kapitalanskaffning for Fund-III and beyond.
 
 Phase 3: BLADER Humanizer (Principal Edition)
 
@@ -132,7 +132,6 @@ A Firm that masterfully executes Asset-Based Asset-Backed Frameworks ceases to o
 Authority. Control. Sovereignty.
 
 This is the architecture that elevates Fund-III from successful to unstoppable.
-
 
 ### TECHNICAL MANDATE
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

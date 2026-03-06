@@ -2,7 +2,7 @@
 title: "Asset‑Based Liquidity Engineering as the Structural Engine of Multi‑Generational Wealth"
 description: "Institutional brief on capital formation strategy, Asset-Based Lending-driven Strategic Collateralization, and the architecture of multi‑generational asset hardening for Fund‑III and GP/LP mandates."
 date: "2023-02-24"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "asset-based-liquidity-engine-multigenerational-wealth"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"
 ---
@@ -90,7 +90,7 @@ The world rewards engineered strength. Always has.
 
 No ornament. No storytelling. Just structure.
 
-Roials‑Capital’s role as Principal is to deliver the institutional version of what families once built through land, mineral rights, and water access. Today, the same principle exists, but the execution is financial. Assets yield power only when leveraged through modern liquidity systems. Without that leverage, assets remain dormant. With it, they become capital engines.
+ROIALS CAPITAL’s role as Principal is to deliver the institutional version of what families once built through land, mineral rights, and water access. Today, the same principle exists, but the execution is financial. Assets yield power only when leveraged through modern liquidity systems. Without that leverage, assets remain dormant. With it, they become capital engines.
 
 Hard assets create psychological stability. Liquidity creates operational stability. Combined, they produce generational stability.
 

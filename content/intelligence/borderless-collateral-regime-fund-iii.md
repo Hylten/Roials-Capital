@@ -2,7 +2,7 @@
 title: "The Borderless Collateral Regime and the Rise of Transnational Acquisition Power"
 description: "Institutional briefing on crypto collateral mobility, cross-jurisdictional asset hardening, and the capital-raising architecture for Fund-III buyouts within the new M&A liquidity regime."
 date: "2025-02-09"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "borderless-collateral-regime-Fund-III"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
 ---
@@ -56,7 +56,7 @@ The technical truth is simple. Digital asset collateral is not speculative. It i
 
 PHASE 3: THE STRATEGIC MODEL
 
-Roials-Capital deploys a dual-platform model for Fund-III groups. The objective is not complexity. The objective is institutional readiness at velocity.
+ROIALS CAPITAL deploys a dual-platform model for Fund-III groups. The objective is not complexity. The objective is institutional readiness at velocity.
 
 The model contains three components.
 

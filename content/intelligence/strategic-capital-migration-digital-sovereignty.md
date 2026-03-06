@@ -2,7 +2,7 @@
 title: "Strategic Capital Migration in the Age of Digital Sovereignty"
 description: "Institutional brief on jurisdictional arbitrage, digital sovereignty, and capital migration strategies for Fund-III buyouts, liquidity engineering, and special energy mandates."
 date: "2024-03-14"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "strategic-capital-migration-digital-sovereignty"
 keywords: "kapitalanskaffning, oil and gas, private credit, Capital Structuring, asset hardening"
 ---
@@ -114,7 +114,6 @@ Fund‑III is the architecture of that legacy.
 Execute. Migrate. Anchor.
 
 Mandate: 4.82 cross-jurisdictional enforcement delta.
-
 
 ### TECHNICAL MANDATE
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

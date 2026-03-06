@@ -2,7 +2,7 @@
 title: "The Institutional Asset Hardening Playbook: Passing a $5B Board Review"
 description: "A principal-grade framework for asset hardening, capital raising for Fund-III+, and cross-jurisdictional structuring engineered for institutional LP/GP scrutiny."
 date: "2023-05-05"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "institutional-asset-hardening-playbook-5b-board-review"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
 ---
@@ -230,7 +230,6 @@ FINAL DIRECTIVE
 
 This briefing stands on one metric: 
 Institutional Survivability Index = 0.87 or higher.
-
 
 ### TECHNICAL MANDATE
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

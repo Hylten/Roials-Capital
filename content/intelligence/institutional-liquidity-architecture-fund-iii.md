@@ -2,7 +2,7 @@
 title: "Institutional‑Grade Liquidity Architecture for High‑Value Assets"
 description: "A principal‑level analytical brief on capital formation, asset‑backed liquidity engineering, and institutional liquidity frameworks for Fund‑III buyouts, add‑ons, and special mandate energy acquisitions."
 date: "2025-10-20"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "institutional-liquidity-architecture-Fund-III"
 keywords: "kapitalanskaffning, oil and gas, private credit, Institutional Liquidity Paths, asset hardening"
 ---
@@ -45,7 +45,7 @@ Liquidity must be mapped across the full acquisition lifecycle. Pre‑acquisitio
 
 Modern liquidity architecture operates as a machine. Assets enter. Liquidity exits. Value compounds. The machine requires precise design: legal architecture, financial structuring, operational discipline, and jurisdictional arbitrage. None can be ignored. All must be aligned. The GP must speak in structures. LPs listen for conviction. Capital flows to control. Fund‑III is measured on its ability to run the machine with consistency. Build the machine. Harden the machine. Align the machine to acquisition velocity and capital distribution targets.
 
-The mandate is institutional. The audience is sophisticated. The expectations are uncompromising. Capital wants architecture. Capital wants velocity. Capital wants engineered liquidity that remains stable under stress and expands under opportunity. Fund‑III must deliver institutional‑grade liquidity on every asset, every acquisition, every cycle. This is the standard. This is Roials‑Capital.
+The mandate is institutional. The audience is sophisticated. The expectations are uncompromising. Capital wants architecture. Capital wants velocity. Capital wants engineered liquidity that remains stable under stress and expands under opportunity. Fund‑III must deliver institutional‑grade liquidity on every asset, every acquisition, every cycle. This is the standard. This is ROIALS CAPITAL.
 
 Confidential capital audit required for alignment assessment. Ratio: 1.14x liquidity coverage minimum.
 

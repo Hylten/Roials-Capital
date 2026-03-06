@@ -4,7 +4,7 @@ description: "A high‑level analysis of liquidity structuring using private cre
 date: "2025-11-02"
 author: "Jonas Hyltén"
 slug: "strategic-liquidity-architecture-for-sovereign-and-ultra-high-net-worth-portfolios"
-keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
 
 # Strategic Liquidity for Sovereign Portfolios
@@ -19,7 +19,7 @@ The portfolios operated by sovereign funds, royal offices, and ultra concentrate
 Most capital allocation frameworks focus on asset selection. 
 The sovereign lens focuses on liquidity sequencing. 
 
-Roials‑Capital operates at this layer. 
+ROIALS CAPITAL operates at this layer. 
 The architecture layer. 
 
  
@@ -45,7 +45,7 @@ Decision makers gain:
 This is the architecture layer. 
 It is the layer that sovereign and UHNW portfolios require. 
 
-## Why Roials‑Capital Operates at This Level
+## Why ROIALS CAPITAL Operates at This Level
 
 Our thresholds are deliberate. 
 Two million minimum for crypto. 
@@ -68,7 +68,7 @@ It is the pursuit of control.
 Sovereign and UHNW portfolios achieve control through engineered liquidity. 
 That requires precision, structure, and an architecture mindset. 
 
-Roials‑Capital provides the mechanics that support these mandates. 
+ROIALS CAPITAL provides the mechanics that support these mandates. 
 Quietly. 
 Deliberately. 
 At scale.

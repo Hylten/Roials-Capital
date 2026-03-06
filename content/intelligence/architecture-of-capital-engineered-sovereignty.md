@@ -2,7 +2,7 @@
 title: "Architecture of Capital: Engineered Sovereignty"
 description: "Institutional brief on sovereign-grade capital architecture, Fund-III mobilization, liquidity engineering, and cross‑jurisdictional acquisition structuring for LP/GP mandates."
 date: "2025-04-29"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "architecture-of-capital-engineered-sovereignty"
 keywords: "kapitalanskaffning, oil and gas, private credit, Capital Structuring, asset hardening"
 ---

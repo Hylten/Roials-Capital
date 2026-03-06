@@ -2,7 +2,7 @@
 title: "Liquidity Engineering Against Bitcoin: The Institutional Gold Standard for Family Offices"
 description: "A principal-level briefing on Capital Structuring, structured capital, and Fund-III readiness for family offices positioning Bitcoin as a collateralized reserve asset within multi-layered private markets architecture."
 date: "2024-10-28"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "liquidity-engineering-bitcoin-gold-standard-family-offices"
 keywords: "kapitalanskaffning, oil and gas, private credit, Strategic Collateralization, asset hardening"
 ---
@@ -13,7 +13,7 @@ Bitcoin is now a balance-sheet force multiplier. Hard, borderless, uninflatable.
 
 Institutional gravity shifted. Quiet at first. Now pronounced. Basel-linked banks restrict velocity. Public markets wobble on policy and sentiment. Family offices seek hard optionality. Private markets deliver it. Bitcoin threads through the new architecture as collateral, indemnifier, and capital attractor. Liquidity against conviction. Liquidity without dilution. Liquidity without surrendering governance. This brief codifies the mechanics.
 
-Focus aligned: 80% capital raising for Fund-III buyouts and add-ons. 10% Asset-Backed Frameworks. 10% special mandates including NAEOC $50M–$250M energy positions and EU MiFID II acquisitions. The model remains Roials-Capital: principal-first. Quiet. Surgical. Mandate-driven. Execution heavy. No noise.
+Focus aligned: 80% capital raising for Fund-III buyouts and add-ons. 10% Asset-Backed Frameworks. 10% special mandates including NAEOC $50M–$250M energy positions and EU MiFID II acquisitions. The model remains ROIALS CAPITAL: principal-first. Quiet. Surgical. Mandate-driven. Execution heavy. No noise.
 
 STRUCTURAL DOCTRINE
 

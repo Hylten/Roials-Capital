@@ -2,7 +2,7 @@
 title: "Capital Efficiency for the Modern Balance Sheet: Silent Authority in Core Holdings"
 description: "Institutional blueprint for capital efficiency, balance‑sheet hardening, and capital raising strategy for Fund-III and associated mandates."
 date: "2025-05-03"
-author: "Roials-Capital | Principal"
+author: "ROIALS CAPITAL | Principal"
 slug: "capital-efficiency-modern-balance-sheet-silent-authority"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
 ---

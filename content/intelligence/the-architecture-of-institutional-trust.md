@@ -4,7 +4,7 @@ description: "An institutional exploration of liquidity, private credit, and ass
 date: "2023-05-29"
 author: "Jonas Hyltén"
 slug: "the-architecture-of-institutional-trust"
-keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
 
 # The Architecture of Institutional Trust

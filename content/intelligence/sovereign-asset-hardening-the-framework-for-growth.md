@@ -4,7 +4,7 @@ description: "A high‑authority exploration of liquidity architecture, private 
 date: "2025-09-11"
 author: "Jonas Hyltén"
 slug: "sovereign-asset-hardening-the-framework-for-growth"
-keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
 
 # Sovereign Asset Hardening: The Framework for Growth
@@ -25,7 +25,7 @@ Sovereign asset hardening is the structural discipline that transforms capital f
 
 It is the architecture that defends liquidity, amplifies leverage, and enables movement without friction. 
 
-Roials‑Capital operates at this level. 
+ROIALS CAPITAL operates at this level. 
 
  
 
@@ -55,7 +55,7 @@ The risk is visible.
 
 This visibility means the threshold must be higher. 
 
-Roials‑Capital sets the minimum at 5 million dollars because public share Capital Structuring requires structural scale for stability. 
+ROIALS CAPITAL sets the minimum at 5 million dollars because public share Capital Structuring requires structural scale for stability. 
 
  
 
@@ -101,7 +101,7 @@ There is no interruption to performance cycles.
  
 
 **4. Institutional strength without institutional friction** 
-Roials‑Capital provides the structural authority of institutional capital without the rigidity. 
+ROIALS CAPITAL provides the structural authority of institutional capital without the rigidity. 
 
 ## The Architecture of Expansion
 
@@ -128,11 +128,11 @@ This is how institutions grow.
 
 This is how sovereign capital behaves. 
 
-This is the framework behind Roials‑Capital. 
+This is the framework behind ROIALS CAPITAL. 
 
 ## Silent Authority: The F‑Hierarchical Dynamics
 
-Roials‑Capital operates through what we define as F Hierarchical Dynamics. 
+ROIALS CAPITAL operates through what we define as F Hierarchical Dynamics. 
 
 This is the posture of silent authority. 
 
@@ -174,7 +174,7 @@ It is now accessible for individuals whose asset scale requires the same discipl
 
  
 
-Roials‑Capital provides the architecture. 
+ROIALS CAPITAL provides the architecture. 
 
 The client retains the sovereignty. 
 

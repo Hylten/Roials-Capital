@@ -2,7 +2,7 @@
 title: "Principal Briefing on UHNW Expansion into Private Credit within PE Structures"
 description: "Institutional analysis on why ultra‑high‑net‑worth capital is migrating toward private credit embedded in PE architecture, with emphasis on Fund-III dynamics, control premiums, and multi-jurisdictional liquidity posture."
 date: "2026-03-05"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "uhnw-private-credit-inside-pe-structures"
 ---
 

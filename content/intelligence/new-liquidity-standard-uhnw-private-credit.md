@@ -2,7 +2,7 @@
 title: "The New Liquidity Standard for UHNW Portfolios: Institutional Private Credit as Strategic Armor"
 description: "Institutional brief on private credit as liquidity infrastructure, engineered for UHNW, family offices, and GP/LP capital stacks; focused on Fund-III capital raising, asset hardening, and cross‑jurisdictional liquidity architecture."
 date: "2025-04-11"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "new-liquidity-standard-uhnw-private-credit"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
 ---
@@ -91,7 +91,6 @@ Kapitalanskaffning becomes frictionless when liquidity is pre‑engineered. LPs 
 The new liquidity standard is not theoretical. It is operational. It is measurable. It is adopted now by the highest‑performing allocators. UHNW families who fail to adopt it face delayed growth, distorted risk spreads, and reduced acquisition optionality. Those who adopt it gain institutional status. They gain leverage discipline. They gain strategic armor.
 
 Private credit is not a product. It is infrastructure. Liquidity infrastructure. Portfolio armor. Acquisition engine. Sovereign tool. Principal tool. The standard for all serious operators.
-
 
 ### TECHNICAL MANDATE
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

@@ -2,7 +2,7 @@
 title: "Principal Architecture for NAEOC-Directed Energy Capital"
 description: "Private briefing on the $50M–$250M NAEOC corridor, multi-jurisdictional mandates, and Fund-III capital formation dynamics."
 date: "2026-03-05"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "naeoc-energy-transition-capital-architecture"
 ---
 

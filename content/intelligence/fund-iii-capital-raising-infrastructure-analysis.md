@@ -2,7 +2,7 @@
 title: "Sovereign Capital Infrastructure for Institutional Allocators: Fund‑III Architecture Analysis"
 description: "Institutional-grade analysis of capital‑raising infrastructure for Fund‑III buyout platforms, with emphasis on allocation mechanics, liquidity engineering, and cross‑jurisdictional structuring for GP‑led expansion."
 date: "2023-01-21"
-author: "Roials-Capital, Principal Investigator"
+author: "ROIALS CAPITAL, Principal Investigator"
 slug: "Fund-III-capital-raising-infrastructure-analysis"
 keywords: "kapitalanskaffning, oil and gas, private credit, Institutional Liquidity Paths, asset hardening"
 ---

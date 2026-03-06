@@ -4,7 +4,7 @@ description: "A surgical analysis of asset based liquidity engineering and Capit
 date: "2025-02-01"
 author: "Jonas Hyltén"
 slug: "the-strategic-value-of-asset-based-financing-for-modern-private-wealth"
-keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
 
 # The Strategic Value of Asset Based Financing

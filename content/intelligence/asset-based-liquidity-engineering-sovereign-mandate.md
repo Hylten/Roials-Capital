@@ -2,7 +2,7 @@
 title: "Asset‑Based Liquidity Engineering as a Sovereign Capital Mandate for Fund‑III"
 description: "Institutional brief on sovereign‑grade liquidity architecture, Asset-Based Lending engineering, and Kapitalanskaffning frameworks optimized for Fund‑III buyouts, add‑ons, and multi‑jurisdictional capital formation."
 date: "2024-08-26"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "asset-based-liquidity-engineering-sovereign-mandate"
 keywords: "kapitalanskaffning, oil and gas, private credit, Strategic Collateralization, asset hardening"
 ---
@@ -19,7 +19,7 @@ Capital Structuring begins with a single premise: assets are latent sovereign in
 
 The capital stack must be offense. Not defense. The default institutional error is to treat Asset-Based Lending as a safety function or credit backstop. This is provincial. Asset-Based Lending is an offensive sovereign capability when executed through engineered precision: multi‑asset segmentation, cross‑border enforceability, seniority calibration, covenant load balancing, and acceleration triggers tied to institutional-grade covenants. Capital requires velocity. Assets provide the rails.
 
-The Roials‑Capital framework executes this with simplicity and aggression. Hard assets are categorized across three strata: productive, inert, strategic. Productive assets generate yield or throughput. Inert assets store value. Strategic assets provide leverage, rights, or geopolitical utility. Fund‑III relies on this tri‑stratum mapping to determine liquidity routing. Routing determines leverage. Leverage determines acquisition sequencing. The mandate: keep Fund‑III acquisition capacity sharp, liquid, transferable, and sovereign‑aligned.
+The ROIALS CAPITAL framework executes this with simplicity and aggression. Hard assets are categorized across three strata: productive, inert, strategic. Productive assets generate yield or throughput. Inert assets store value. Strategic assets provide leverage, rights, or geopolitical utility. Fund‑III relies on this tri‑stratum mapping to determine liquidity routing. Routing determines leverage. Leverage determines acquisition sequencing. The mandate: keep Fund‑III acquisition capacity sharp, liquid, transferable, and sovereign‑aligned.
 
 Machine gun syntax. Precision. No drift.
 
@@ -59,7 +59,7 @@ Sovereign partners demand intergenerational durability. Their capital horizon is
 
 Asset‑based Institutional Liquidity Paths is a sovereign mandate because sovereign partners require instruments that survive volatility. Oil volatility. Credit volatility. Regulatory volatility. Currency volatility. Political volatility. The asset is the anchor. The liquidity protocol is the engine. Together they create permanence. Permanence is institutional power.
 
-Fund‑III must embrace the sovereign posture. Not reactive. Not narrative‑driven. Not deal‑hunting. Sovereign posture is structural. Intentional. Aggressive. It designs acquisition corridors before entering them. It designs liquidity routes before raising capital. It designs Asset-Based Lending frameworks before underwriting the target. This is the Roials‑Capital identity. Architecture before action. Structure before strategy. Liquidity before leverage.
+Fund‑III must embrace the sovereign posture. Not reactive. Not narrative‑driven. Not deal‑hunting. Sovereign posture is structural. Intentional. Aggressive. It designs acquisition corridors before entering them. It designs liquidity routes before raising capital. It designs Asset-Based Lending frameworks before underwriting the target. This is the ROIALS CAPITAL identity. Architecture before action. Structure before strategy. Liquidity before leverage.
 
 The GP who operates with sovereign architecture becomes the gravitational center of their capital ecosystem. LPs align. Lenders follow. Regulators cooperate. Targets negotiate. Because structure is the language of institutional power. And sovereign architecture speaks loudly.
 

@@ -2,7 +2,7 @@
 title: "The Borderless Collateral Regime and the Ascension of Transnational Acquisition Power"
 description: "Institutional brief on cross‑jurisdictional collateral mobility, Fund-III capital formation dynamics, and the emergence of sovereign-grade acquisition throughput for buyouts, Asset-Based Lending liquidity engineering, and energy-sector special mandates."
 date: "2023-07-14"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "borderless-collateral-regime-transnational-acquisition-power"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"
 ---
@@ -128,7 +128,6 @@ The mandate is clear.
 The path is defined. 
 The capital is ready. 
 The strategy is operational.
-
 
 ### TECHNICAL MANDATE
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

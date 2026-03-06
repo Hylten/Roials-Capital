@@ -18,9 +18,6 @@ This is where the weak fracture.
 
 ## The Return Recalibration
 
-PHASE 1  
-INTERNAL LOGIC - PRIVATE ARCHITECTURE BRIEFING
-
 The shift began years ago, but most GPs only noticed it when they saw the subtle tightening in LP diligence memos. Not louder. Sharper. Pension funds, sovereign pools, and insurance allocators have stopped rewarding “decorated leverage stories”. They want operational yield, not leverage‑inflated IRR. They want covenant‑aware execution, not market‑beta exposure wrapped in buyout packaging. They want durability.
 
 And the truth is simple: Fund‑III+ managers are expected to prove they can generate unlevered alpha, not just levered narratives.
@@ -149,7 +146,7 @@ The market rarely speaks this bluntly, but this is the private truth: if a GP ca
 
 ASSET-BASED LENDING (10%) - THE GATES CLOSE FOR THE UNPREPARED
 
-Roials‑Capital operates within strict boundaries.  
+ROIALS CAPITAL operates within strict boundaries.  
 When GPs request Asset-Based Lending to support working capital, acquisitions, or cross‑border liquidity, the institution demands controlled access.
 
 Qualification is mandatory.  

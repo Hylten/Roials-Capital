@@ -4,7 +4,7 @@ description: "A high‑authority analysis of liquidity, private credit, and asse
 date: "2023-12-17"
 author: "Jonas Hyltén"
 slug: "institutional-alignment-in-modern-private-credit-architecture"
-keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
 
 # Institutional Alignment in Private Credit Strategy
@@ -17,7 +17,7 @@ HNWI and UHNW participants operate within architectures that require precision. 
 
  
 
-Roials-Capital constructs this environment deliberately. The objective is not to chase markets. The objective is to create consistent liquidity through asset based mechanics. Private credit is the medium. Institutional alignment is the constraint that ensures continuity.
+ROIALS CAPITAL constructs this environment deliberately. The objective is not to chase markets. The objective is to create consistent liquidity through asset based mechanics. Private credit is the medium. Institutional alignment is the constraint that ensures continuity.
 
  
 
@@ -33,7 +33,7 @@ The final pillar of institutional alignment is governance. Governance determines
 
  
 
-Roials-Capital enforces strict governance across all credit lines. It is not an administrative layer. It is the mechanism that ensures stability. It dictates how collateral is assessed. It dictates how liquidity is issued. It dictates how the system adapts during volatility.
+ROIALS CAPITAL enforces strict governance across all credit lines. It is not an administrative layer. It is the mechanism that ensures stability. It dictates how collateral is assessed. It dictates how liquidity is issued. It dictates how the system adapts during volatility.
 
  
 
@@ -53,7 +53,7 @@ Private credit, supported by Asset-Based Lending architecture, becomes a structu
 
  
 
-Roials-Capital builds these systems deliberately. The thresholds are intentional. The rules are non negotiable. The architecture is engineered to deliver predictable liquidity for sophisticated capital holders.
+ROIALS CAPITAL builds these systems deliberately. The thresholds are intentional. The rules are non negotiable. The architecture is engineered to deliver predictable liquidity for sophisticated capital holders.
 
  
 

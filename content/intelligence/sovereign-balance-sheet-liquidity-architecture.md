@@ -113,7 +113,6 @@ Capital leaving the portfolio must exit with structural dignity. The final metri
 
 Time to cash conversion: 71 days.
 
-
 ### TECHNICAL MANDATE
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 

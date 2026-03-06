@@ -2,7 +2,7 @@
 title: "The Calculus of Institutional Risk in Private Credit for Fund-III Expansion"
 description: "A principal-level dissection of risk calculus, capital formation, and structural engineering across private credit mandates, focused on Fund-III scale institutional commitments and acquisition pipelines."
 date: "2023-05-22"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "calculus-of-risk-institutional-private-credit"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
 ---

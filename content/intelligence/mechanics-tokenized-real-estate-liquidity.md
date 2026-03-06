@@ -2,7 +2,7 @@
 title: "The Mechanics of Tokenized Real Estate Liquidity"
 description: "Institutional-grade analysis of tokenized real estate liquidity structures, private credit interaction, Asset-Based Lending routing, and Fund-III capital scaling mechanics for UHNWIs and LPs."
 date: "2025-09-20"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "mechanics-tokenized-real-estate-liquidity"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
 ---
@@ -73,7 +73,6 @@ Most importantly, stewardship rejects idle capital. Tokenized assets do not sit.
 
 PHASE 5: EXIT 
 Projected collateral clearance window inside tokenized structures: 4.7 hours.
-
 
 ### TECHNICAL MANDATE
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

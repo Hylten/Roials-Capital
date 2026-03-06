@@ -2,7 +2,7 @@
 title: "The Principal Geometry of the Middle Market Credit Gap"
 description: "A high-density institutional analysis of the structural credit deficit shaping middle‑market buyouts, add‑ons, and energy acquisitions, with emphasis on kapitalanskaffning for Fund‑III architecture, liquidity engineering, and cross‑border mandates."
 date: "2025-01-06"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "principal-geometry-middle-market-credit-gap"
 keywords: "kapitalanskaffning, oil and gas, private credit, Institutional Liquidity Paths, asset hardening"
 ---
@@ -84,7 +84,7 @@ EU MiFID II acquisitions create parallel distortions. Compliance stifles velocit
 
 The middle-market credit gap is widening. Measurably. Persistently. Mathematically. Supply contraction intersects with demand expansion. The geometry hardens. Only structurally competent sponsors thrive.
 
-Roials-Capital operates on principal geometry. Not narrative. Not sentiment. The architecture is simple:
+ROIALS CAPITAL operates on principal geometry. Not narrative. Not sentiment. The architecture is simple:
 
 • 80% kapitalanskaffning for Fund‑III+ buyouts and add‑ons. 
 • 10% Asset-Based Lending Institutional Liquidity Paths. 
@@ -97,7 +97,6 @@ Machine gun clarity. Hard lines. Tight logic. Institutional posture. No fillers.
 The middle-market credit gap is the greatest institutional arbitrage of the next decade. Only sponsors with hardened assets, engineered liquidity, cross‑border fluency, and Fund‑III discipline will capture the delta. Capital follows structure. Always. Proverbs 13:22 reinforces it. Structure inherits. Chaos evaporates.
 
 If you operate a Fund‑III or preparing to raise one, the mandate is simple: verify your geometry. Confirm your capital architecture. Validate your liquidity instruments. Upgrade your lender portfolio. Harden your assets. Accelerate your add‑on plan. Institutional LPs demand clarity. Not noise.
-
 
 ### TECHNICAL MANDATE
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

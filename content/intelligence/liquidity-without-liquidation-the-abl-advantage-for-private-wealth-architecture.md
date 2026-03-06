@@ -1,10 +1,10 @@
 ---
 title: "Liquidity Without Liquidation: The Asset-Based Lending Advantage for Private Wealth Architecture"
-description: "Explore how Roials-Capital structures liquidity through Asset-Based liquidity engineering without forced liquidation, designed for HNWI and UHNW portfolios."
+description: "Explore how ROIALS CAPITAL structures liquidity through Asset-Based liquidity engineering without forced liquidation, designed for HNWI and UHNW portfolios."
 date: "2025-01-11"
 author: "Jonas Hyltén"
 slug: "liquidity-without-liquidation-the-abl-advantage-for-private-wealth-architecture"
-keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
 
 # Liquidity Without Liquidation: The Asset-Based Lending Advantage
@@ -25,7 +25,7 @@ Asset-Based Lending is not an ancillary credit tool. It is a structural design p
 
  
 
-Roials‑Capital operates inside this framework. We lend against private credit, we lend against asset based structures, and we provide a liquidity ecosystem that functions at an institutional level while remaining surgically discreet.
+ROIALS CAPITAL operates inside this framework. We lend against private credit, we lend against asset based structures, and we provide a liquidity ecosystem that functions at an institutional level while remaining surgically discreet.
 
  
 
@@ -69,7 +69,7 @@ Asset Based Capital Structuring is often misunderstood as a fallback mechanism. 
 
  
 
-At Roials‑Capital, Asset-Based Lending is treated as a primary design instrument. The process is engineered with precision rather than offered as a responsive solution.
+At ROIALS CAPITAL, Asset-Based Lending is treated as a primary design instrument. The process is engineered with precision rather than offered as a responsive solution.
 
  
 
@@ -108,7 +108,7 @@ Private credit, public equities, and digital assets all become engines for liqui
 
  
 
-Roials‑Capital provides Strategic Collateralization thresholds specifically aligned to institutional stability:
+ROIALS CAPITAL provides Strategic Collateralization thresholds specifically aligned to institutional stability:
 
 - Crypto Capital Structuring: Minimum threshold 2,000,000 USD 
 - Public Share Institutional Liquidity Paths: Minimum threshold 5,000,000 USD 
@@ -127,7 +127,7 @@ HNWI and UHNW clients do not seek noise. They seek precision and silence.
 
  
 
-Roials‑Capital operates with what we call Silent Authority. 
+ROIALS CAPITAL operates with what we call Silent Authority. 
 We provide the mechanics, the structure, and the capital. We do not require visibility or theatrics.
 
  
@@ -152,7 +152,7 @@ Institutional Liquidity Paths against private credit requires more than valuatio
 
  
 
-Roials‑Capital structures Asset-Based Lending against private credit with institutional-grade scrutiny. The objective is to ensure liquidity without disturbing the integrity of the income stream.
+ROIALS CAPITAL structures Asset-Based Lending against private credit with institutional-grade scrutiny. The objective is to ensure liquidity without disturbing the integrity of the income stream.
 
  
 
@@ -209,7 +209,7 @@ By maintaining the asset, the architecture remains intact. Liquidity becomes add
 
 ## Designing Liquidity at Scale
 
-The scale at which Roials‑Capital operates requires structural predictability. 
+The scale at which ROIALS CAPITAL operates requires structural predictability. 
 This is why minimum thresholds are essential.
 
  
@@ -262,7 +262,7 @@ Asset-Based Lending integrates all layers into a coherent liquidity framework.
 
  
 
-## Roials‑Capital: The Architectural Perspective
+## ROIALS CAPITAL: The Architectural Perspective
 
 We do not operate as lenders in the conventional sense.
 
@@ -299,7 +299,7 @@ It should be available without dismantling the asset layer.
 
 This is the Asset-Based Lending advantage. 
 This is liquidity without liquidation. 
-This is the Roials‑Capital framework.
+This is the ROIALS CAPITAL framework.
 
  
 

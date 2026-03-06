@@ -2,7 +2,7 @@
 title: "The New Architecture of Institutional Liquidity: Private Credit’s Ascendancy and the Capital Mandate of Fund-III"
 description: "An institutional briefing on the structural evolution of private credit in 2026, focused on capital raising dynamics for Fund-III, liquidity engineering, and cross-jurisdictional acquisition finance under MiFID II and NAEOC energy mandates."
 date: "2023-01-10"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "institutional-liquidity-architecture-2026"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"
 ---
@@ -106,7 +106,6 @@ Now mandate.
 This briefing delivers the architecture. The future belongs to structured liquidity. Institutional permanence. Buyout velocity. Add-on consolidation. Energy acquisition cycles. Asset hardening. Jurisdictional intelligence. Fund-III sits at the center.
 
 The next phase requires capital alignment.
-
 
 ### TECHNICAL MANDATE
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

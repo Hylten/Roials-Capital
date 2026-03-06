@@ -4,7 +4,7 @@ description: "An institutional exploration of liquidity architecture through pri
 date: "2025-11-05"
 author: "Jonas Hyltén"
 slug: "legacy-hardening-the-structural-advantage"
-keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
 
 # Legacy Hardening: The Structural Advantage
@@ -16,7 +16,7 @@ It demands reinforcement, recalibration, and a disciplined understanding of liqu
 High net worth and ultra high net worth portfolios do not fail from lack of assets. 
 They fail from misaligned liquidity vectors and structural fragility. 
 
-At Roials-Capital, we operate within a different frame. 
+At ROIALS CAPITAL, we operate within a different frame. 
 We do not speculate. 
 We do not chase yield. 
 We engineer durable access to institutional liquidity through private credit and asset based Institutional Liquidity Paths. 
@@ -36,7 +36,7 @@ Control requires mechanisms that do not erode under stress.
 We design for scenarios 10, 20, 40 years ahead. 
 We treat legacy as architecture, not aspiration. 
 
-This is the Roials-Capital difference. 
+This is the ROIALS CAPITAL difference. 
 Precision. 
 Silence. 
 Durability. 
@@ -53,7 +53,7 @@ Structures must be engineered, not improvised.
 
 The future belongs to portfolios with durable leverage capacity, clean collateral structures, and institutionally aligned credit mechanics. 
 
-Roials-Capital builds that future today. 
+ROIALS CAPITAL builds that future today. 
 
 # Request confidential audit
 

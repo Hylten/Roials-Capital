@@ -4,7 +4,7 @@ description: "Strategic capital efficiency through private credit and asset base
 date: "2025-08-05"
 author: "Jonas Hyltén"
 slug: "capital-efficiency-for-the-modern-balance-sheet-leveraging-core-holdings-with-silent-authority"
-keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
 
 # Capital Efficiency: Leveraging Core Holdings
@@ -17,7 +17,7 @@ For individuals whose balance sheets are dominated by private credit allocations
 
  
 
-Roials-Capital operates inside that space. The objective is simple. Extract liquidity from core holdings with institutional discipline, minimal disturbance, and silent authority.
+ROIALS CAPITAL operates inside that space. The objective is simple. Extract liquidity from core holdings with institutional discipline, minimal disturbance, and silent authority.
 
  
 
@@ -59,9 +59,9 @@ A fully architected capital efficiency system generates measurable outcomes:
 These are the structural advantages previously reserved for institutional families. 
 Through disciplined architecture, they become accessible at the UHNW scale.
 
-## Roials-Capital: The Architecture Behind the Liquidity
+## ROIALS CAPITAL: The Architecture Behind the Liquidity
 
-Roials-Capital provides the structural mechanics that transform core holdings into precision liquidity channels.
+ROIALS CAPITAL provides the structural mechanics that transform core holdings into precision liquidity channels.
 
  
 

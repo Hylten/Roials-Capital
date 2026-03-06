@@ -2,7 +2,7 @@
 title: "Crypto Liquidity Architecture for Sovereign and Ultra Allocators"
 description: "Institutional liquidity architecture for UHNW and sovereign allocators. Focus on Fund-III capital formation, private credit structuring, and cross-venue liquidity engineering."
 date: "2024-12-17"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "crypto-liquidity-architecture-sovereign-ultra-allocators"
 keywords: "kapitalanskaffning, oil and gas, private credit, Monetization Architecture, asset hardening"
 ---
@@ -57,7 +57,6 @@ Stewardship also means resisting spectacle. Many digital assets exist as enterta
 
 PHASE 5: EXIT 
 Liquidity leadership is measured, not imagined. The target metric for Fund-III is simple. Execution certainty at 98 percent fill rate across all routed trades under volatility stress.
-
 
 ### TECHNICAL MANDATE
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

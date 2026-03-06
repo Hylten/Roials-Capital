@@ -4,7 +4,7 @@ description: "A deep institutional analysis of how yield transforms private cred
 date: "2023-11-08"
 author: "Jonas Hyltén"
 slug: "the-strategic-role-of-yield-in-true-asset-hardening"
-keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
 
 # The Role of Yield in Asset Hardening
@@ -25,7 +25,7 @@ This distinction is the defining line between institutional-grade financial mech
 
 ## Multi Asset Hardening: The Roials Architecture
 
-Roials-Capital operates as a silent authority in the background of complex portfolios. 
+ROIALS CAPITAL operates as a silent authority in the background of complex portfolios. 
 
 We do not advise on public strategy. 
 
@@ -83,7 +83,7 @@ Without it, assets remain static.
 
 With it, assets become strategic instruments. 
 
-Roials-Capital structures private credit, asset based Institutional Liquidity Paths, crypto Strategic Collateralization, and public share Capital Structuring with silent institutional authority. 
+ROIALS CAPITAL structures private credit, asset based Institutional Liquidity Paths, crypto Strategic Collateralization, and public share Capital Structuring with silent institutional authority. 
 
 The result is predictable liquidity. 
 

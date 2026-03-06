@@ -4,7 +4,7 @@ description: "A high-clarity analysis of liquidity architecture, private credit,
 date: "2023-04-09"
 author: "Jonas Hyltén"
 slug: "sovereign-capital-the-silent-authority-in-modern-financing"
-keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
 
 # Sovereign Capital: The Silent Authority in Financing
@@ -28,7 +28,7 @@ For High Net Worth and Ultra High Net Worth individuals, this form of capital re
 It is engineered leverage built on precision. 
 
  
-Roials-Capital operates inside this domain. 
+ROIALS CAPITAL operates inside this domain. 
 
  
 We do not distort its nature. We formalize it, articulate it, and deploy it with institutional rigidity.
@@ -48,7 +48,7 @@ It does not need public narrative.
  
 Its strength is derived from the security of collateral and the discipline of structure.
 
-Roials-Capital mirrors this approach. We do not position ourselves as a lender of last resort or a promotional entity. We are an infrastructural component in the ecosystem of high-net-worth Capital Structuring.
+ROIALS CAPITAL mirrors this approach. We do not position ourselves as a lender of last resort or a promotional entity. We are an infrastructural component in the ecosystem of high-net-worth Capital Structuring.
 
 Our clients do not require persuasion. They require precision. 
 
@@ -73,9 +73,9 @@ In practice, this means:
 
 This approach is not reactive. It is architectural.
 
-## The Roials-Capital Framework: Silent Authority in Action
+## The ROIALS CAPITAL Framework: Silent Authority in Action
 
-Roials-Capital stands in the F-Hierarchical Dynamics, the position of silent authority where capital architecture is designed rather than discussed.
+ROIALS CAPITAL stands in the F-Hierarchical Dynamics, the position of silent authority where capital architecture is designed rather than discussed.
 
 We do not chase opportunity. 
 
@@ -108,7 +108,7 @@ These objectives align with sovereign capital because sovereign capital is desig
 
 Traditional financing penalizes complexity. Sovereign financing rewards it.
 
-Roials-Capital operates at this intersection of complexity and clarity.
+ROIALS CAPITAL operates at this intersection of complexity and clarity.
 
 ## The Future of Institutional Liquidity
 
@@ -137,7 +137,7 @@ Structure is sovereignty.
 Control is sovereignty. 
 
  
-Roials-Capital offers the mechanics to maintain all three simultaneously.
+ROIALS CAPITAL offers the mechanics to maintain all three simultaneously.
 
 That is the essence of sovereign capital. It is the authority behind the transaction. The layer beneath the structure. The quiet foundation that allows power to remain uninterrupted.
 
@@ -147,7 +147,7 @@ Sovereign capital is not active. It is architectural.
 
 It does not seek attention. It provides infrastructure.
 
-Roials-Capital functions within this framework, offering private credit Strategic Collateralization, Asset-Based Lending solutions, crypto Asset-Backed Frameworks from 2,000,000, and public share Asset-Backed Frameworks from 5,000,000 for HNWI and UHNW clients who require silent authority rather than overt motion.
+ROIALS CAPITAL functions within this framework, offering private credit Strategic Collateralization, Asset-Based Lending solutions, crypto Asset-Backed Frameworks from 2,000,000, and public share Asset-Backed Frameworks from 5,000,000 for HNWI and UHNW clients who require silent authority rather than overt motion.
 
 If liquidity is the question, structure is the answer. 
 
@@ -155,7 +155,7 @@ If liquidity is the question, structure is the answer.
 If control is the objective, sovereignty is the method. 
 
  
-If you require institutional discipline without institutional noise, Roials-Capital operates at that level.
+If you require institutional discipline without institutional noise, ROIALS CAPITAL operates at that level.
 
 ### TECHNICAL MANDATE
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

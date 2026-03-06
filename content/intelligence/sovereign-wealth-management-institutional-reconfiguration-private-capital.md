@@ -84,8 +84,7 @@ Capital must be protected by enforceable legal systems, transparent royalty fram
 Operators must demonstrate technical mastery, cost discipline, and predictable cash flows. NAEO provides this structure in energy. Sector specialist sponsors provide it in buyouts. Experienced credit managers provide it in private credit.
 
 4. Evaluate alignment architecture.  
-Allocators require frameworks that align incentives, enforce governance, and maintain stability across cycles. This is the domain where Roials Capital functions as the strategic architect. The alignment process is confidential. It involves cross border mapping, risk segmentation, and structural calibration.
-
+Allocators require frameworks that align incentives, enforce governance, and maintain stability across cycles. This is the domain where Roials Capital functions as the strategic architect. The alignment process is 
 Professionals and institutions seeking to understand how sovereign wealth management reshapes private capital require a confidential strategy audit. The purpose is not solicitation. The purpose is clarity. Allocators benefit from a structured assessment of how their mandates intersect with sovereign archetypes, heavy oil resource opportunities, private credit structures, and cross border buyout platforms.
 
 [END OF BRIEFING]

@@ -2,7 +2,7 @@
 title: "The Strategic Role of Yield in True Asset Hardening for Fund-III Mandates"
 description: "Institutional brief on yield mechanics, capital durability, and multi‑jurisdictional structuring for buyouts, Asset-Based Lending liquidity engineering, and energy mandates under Fund‑III architecture."
 date: "2025-06-27"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "strategic-yield-in-asset-hardening"
 keywords: "kapitalanskaffning, oil and gas, private credit, Monetization Architecture, asset hardening"
 ---

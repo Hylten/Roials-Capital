@@ -4,7 +4,7 @@ description: "A high-authority examination of institutional liquidity mechanics 
 date: "2023-12-05"
 author: "Jonas Hyltén"
 slug: "institutional-liquidity-architecture-for-real-estate-sovereigns"
-keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
 
 # Institutional Liquidity for Real Estate Sovereigns

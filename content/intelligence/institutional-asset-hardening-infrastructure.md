@@ -2,7 +2,7 @@
 title: "Sovereign-Grade Infrastructure for Institutional Asset Hardening"
 description: "Institutional architecture for Fund-III capital formation, cross-border acquisition scaffolding, and asset-hardening frameworks engineered for LP/GP governance, liquidity stabilization, and multi-jurisdictional buyout acceleration."
 date: "2024-08-24"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "institutional-asset-hardening-infrastructure"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
 ---
@@ -17,7 +17,7 @@ I build this for the LP with mandate. The GP with pressure. The CIO with allocat
 
 Strategic frame first. Operational mechanics second. Execution rails third.
 
-Institutional investors demand asymmetry. Asymmetry comes from engineered dislocations. Dislocations form where law, capital, and industrial machinery collide. That collision is the domain of Roials-Capital.
+Institutional investors demand asymmetry. Asymmetry comes from engineered dislocations. Dislocations form where law, capital, and industrial machinery collide. That collision is the domain of ROIALS CAPITAL.
 
 I design the collision to produce yield.
 

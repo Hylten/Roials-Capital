@@ -2,7 +2,7 @@
 title: "The Principal Architecture of Hybrid Credit in Roll-Up Acceleration"
 description: "A vault-level briefing on Asset-Based Lending and mezzanine hybrids as liquidity engines for Fund-III buyouts, add-ons, and jurisdictional scaling mandates."
 date: "2026-03-05"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "principal-hybrid-credit-rollup-architecture"
 ---
 

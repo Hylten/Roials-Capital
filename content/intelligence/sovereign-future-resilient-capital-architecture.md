@@ -2,7 +2,7 @@
 title: "The Sovereign Future: Architecting Resilient Capital for Fund-III and Beyond"
 description: "Institutional brief on sovereign-capital construction, multi‑jurisdictional funding lanes, and hard-asset liquidity engineering for Fund-III buyouts, add‑ons, and special mandates in energy and regulated European markets."
 date: "2025-07-31"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "sovereign-future-resilient-capital-architecture"
 keywords: "kapitalanskaffning, oil and gas, private credit, Monetization Architecture, asset hardening"
 ---
@@ -169,7 +169,7 @@ Machine gun. No drift. Stay sharp.
 
 SECTION 6: OPERATIONAL HARDENING - THE CORE OF Fund-III
 
-Fund-III must be the most operationally hardened vehicle in the Roials-Capital family. Every portfolio company must be stress-tested across:
+Fund-III must be the most operationally hardened vehicle in the ROIALS CAPITAL family. Every portfolio company must be stress-tested across:
 
 • Working capital compression thresholds. 
 • Supply chain fragility points. 

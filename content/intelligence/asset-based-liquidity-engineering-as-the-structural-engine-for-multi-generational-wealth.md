@@ -4,7 +4,7 @@ description: "Institutional level asset based Asset-Backed Frameworks insights f
 date: "2023-09-04"
 author: "Jonas Hyltén"
 slug: "asset-based-liquidity-engineering-as-the-structural-engine-for-multi-generational-wealth"
-keywords: "private credit, asset based Capital Structuring, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based Capital Structuring, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
 
 # Asset Based Strategic Collateralization as the Structural Engine for Multi Generational Wealth

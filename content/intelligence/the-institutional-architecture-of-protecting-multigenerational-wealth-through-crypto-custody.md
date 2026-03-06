@@ -4,7 +4,7 @@ description: "A high trust analysis on institutional crypto custody, liquidity e
 date: "2023-12-31"
 author: "Jonas Hyltén"
 slug: "the-institutional-architecture-of-protecting-multigenerational-wealth-through-crypto-custody"
-keywords: "private credit, asset based Capital Structuring, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based Capital Structuring, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
 
 # Protecting Multi Generational Wealth Through Institutional Crypto Custody

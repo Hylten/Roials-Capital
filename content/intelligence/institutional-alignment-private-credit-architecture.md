@@ -88,7 +88,6 @@ Order is measured at exit. If the system produced discipline, the exits will be 
 
 The final metric is the capital integrity ratio: the percentage of fund cash flows that behave according to their original underwriting assumptions. High performing funds operate at 92 percent or higher. Anything below 85 percent signals structural misalignment. Anything below 80 percent signals systemic failure.
 
-
 ### TECHNICAL MANDATE
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 

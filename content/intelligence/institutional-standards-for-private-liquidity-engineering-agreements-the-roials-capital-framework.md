@@ -4,7 +4,7 @@ description: "A high-authority analysis of institutional protocols for private c
 date: "2024-05-23"
 author: "Jonas Hyltén"
 slug: "institutional-standards-for-private-liquidity-engineering-agreements-the-roials-capital-framework"
-keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
 
 # Institutional Standards for Private Capital Structuring Agreements 

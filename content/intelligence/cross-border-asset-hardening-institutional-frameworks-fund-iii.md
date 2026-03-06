@@ -2,7 +2,7 @@
 title: "Cross-Border Asset Hardening Protocols for Institutional Capital Stability and Fund-III Expansion"
 description: "Institutional architecture for capital fortification, liquidity engineering, and cross-border deployment in volatile macro regimes, optimized for Fund-III kapitalanskaffning and strategic acquisition pipelines."
 date: "2023-06-05"
-author: "Roials-Capital | Principal Architect"
+author: "ROIALS CAPITAL | Principal Architect"
 slug: "cross-border-asset-hardening-institutional-frameworks-Fund-III"
 keywords: "kapitalanskaffning, oil and gas, private credit, Monetization Architecture, asset hardening"
 ---

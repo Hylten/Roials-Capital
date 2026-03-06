@@ -17,7 +17,7 @@ Institutional behavior begins with Strategic Collateralization. Asset-backed lin
 
 Fund-III is built on this reality. The buyout environment rewards liquidity precision. Add-on cycles demand instant capacity. When sellers compress windows, the institutional buyer wins. That buyer is not defined by wealth level. It is defined by structural readiness. A $200M balance sheet without engineered liquidity loses to a holder with an Asset-Based Lending-latched deployment line. Precision beats scale. Architecture beats raw capital.
 
-Roials-Capital positions the new liquidity standard as a gating function. Not a product. Not a feature. A threshold. It determines who enters the Fund-III corridor. This corridor operates on predictable raises. Our 80% focus is capital raising for Fund-III+ and continuation vehicles. Not generic private credit. Not broad mandates. Focused raise lines. Targeted LP construction. Jurisdiction-by-jurisdiction optimization. Deployable capital must be pre-committed. Not theoretical. Not future-intent. Structured and ready.
+ROIALS CAPITAL positions the new liquidity standard as a gating function. Not a product. Not a feature. A threshold. It determines who enters the Fund-III corridor. This corridor operates on predictable raises. Our 80% focus is capital raising for Fund-III+ and continuation vehicles. Not generic private credit. Not broad mandates. Focused raise lines. Targeted LP construction. Jurisdiction-by-jurisdiction optimization. Deployable capital must be pre-committed. Not theoretical. Not future-intent. Structured and ready.
 
 The new liquidity standard defines the portfolio as a single organism. Cross-asset cohesion. Silo-free control. One liquidity spine. Every asset feeding the primary line. Every stake serving the core balance. Operating companies. Mineral positions. Real estate blocks. Private credit allocations. All integrated. All unified. All contributing to the institutional liquidity floor.
 
@@ -39,7 +39,7 @@ Institutional readiness includes the capacity for add-on sweeps. Add-ons are the
 
 The New Liquidity Standard also affects legacy portfolios. Older structures must be refitted. Assets must be audited. Inefficient entities must be collapsed or merged. Redundant jurisdictions must be neutralized. Only one objective governs: create a single liquidity spine. Capital unity beats capital pluralism.
 
-Roials-Capital handles Special Mandates at 10% bandwidth. Large energy mandates. Cross-border acquisitions. Regulatory restructuring. These mandates require holders already above the liquidity floor. Not candidates for evaluation. Participants. The New Liquidity Standard prepares candidates to become participants. Once the floor is met, we transition them into the active corridor.
+ROIALS CAPITAL handles Special Mandates at 10% bandwidth. Large energy mandates. Cross-border acquisitions. Regulatory restructuring. These mandates require holders already above the liquidity floor. Not candidates for evaluation. Participants. The New Liquidity Standard prepares candidates to become participants. Once the floor is met, we transition them into the active corridor.
 
 Fund-III buyouts and add-ons must be fed by continuous raise paths. Raise paths require institutional LPs. Institutional LPs require predictable liquidity. Predictability requires engineered structures. Engineered structures require sovereign posture. The chain is non-negotiable. Break one link, and the entire architecture collapses.
 
@@ -63,7 +63,6 @@ A good man leaves an inheritance to his children’s children. Institutional liq
 The new liquidity standard is more than a recommendation. It is a mandate. Holders who reject it lock themselves into illiquid timelines. Holders who accept it unlock institutional privilege.
 
 This brief stands as notice. The window is active. The corridor is open. The terms are fixed.
-
 
 ### TECHNICAL MANDATE
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

@@ -4,7 +4,7 @@ description: "A high-level liquidity framework for HNWI and UHNW investors using
 date: "2025-02-15"
 author: "Jonas Hyltén"
 slug: "strategic-asset-allocation-for-long-term-liquidity-the-architecture-of-durable-capital"
-keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
 
 # Strategic Asset Allocation for Long-Term Liquidity 
@@ -15,7 +15,7 @@ The pursuit of long-term liquidity is no longer an optional configuration for so
 It has become an operational necessity, a structural discipline, and a defining characteristic that separates passive wealth holders from capital architects who understand the mechanics behind institutional-grade allocation. 
  
  
-At Roials-Capital, liquidity is not treated as a momentary buffer. 
+At ROIALS CAPITAL, liquidity is not treated as a momentary buffer. 
  
 It is engineered as an asset class, shaped through private credit, asset‑based structures, and collateralized Strategic Collateralization frameworks that allow capital to remain functional without compromising ownership of core positions. 
  
@@ -43,7 +43,7 @@ Private credit collateralization builds this layer.
 It is durable, predictable, and structurally stable. 
  
  
-## Why Roials-Capital’s Framework Aligns With HNWI and UHNW Requirements 
+## Why ROIALS CAPITAL’s Framework Aligns With HNWI and UHNW Requirements 
  
 Our thresholds are deliberate. 
  
@@ -87,7 +87,7 @@ Opportunity windows do not close prematurely.
 And capital remains functional across cycles, regardless of external volatility. 
  
  
-This is the architecture that Roials-Capital builds. 
+This is the architecture that ROIALS CAPITAL builds. 
  
 Not reactive Asset-Backed Frameworks. 
  
@@ -118,7 +118,7 @@ They maintain control during stress.
 They accelerate during opportunity. 
  
  
-If your objective is durable, long-term liquidity supported by disciplined collateral structures, Roials-Capital provides the architecture.
+If your objective is durable, long-term liquidity supported by disciplined collateral structures, ROIALS CAPITAL provides the architecture.
 
 ### TECHNICAL MANDATE
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

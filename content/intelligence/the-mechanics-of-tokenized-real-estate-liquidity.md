@@ -4,7 +4,7 @@ description: "A surgical examination of how tokenized real estate interfaces wit
 date: "2023-11-06"
 author: "Jonas Hyltén"
 slug: "the-mechanics-of-tokenized-real-estate-liquidity"
-keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
 
 # The Mechanics of Tokenized Real Estate Liquidity
@@ -17,7 +17,7 @@ It is a new liquidity architecture.
 
 For High Net Worth and Ultra High Net Worth investors, liquidity is never a philosophical question. It is a precision requirement. 
 
-Roials-Capital operates inside this precision. We lend against private credit and asset based Monetization Architecture structures, and we do so with thresholds that fit institutional gravity. 
+ROIALS CAPITAL operates inside this precision. We lend against private credit and asset based Monetization Architecture structures, and we do so with thresholds that fit institutional gravity. 
 
 Minimum two million for crypto Strategic Collateralization. 
 
@@ -68,7 +68,7 @@ Liquidity is control.
 
 ## Asset Based Strategic Collateralization in the Tokenized Domain
 
-Roials-Capital structures asset based Asset-Backed Frameworks with surgical discipline. 
+ROIALS CAPITAL structures asset based Asset-Backed Frameworks with surgical discipline. 
 
 Tokenized real estate does not fundamentally alter our risk architecture, it simply creates more refined collateral inputs. 
 
@@ -102,7 +102,7 @@ Tokenized structures achieve this by minimizing:
 
 Private credit facilities then leverage these efficiencies to issue faster, structured liquidity. 
 
-At Roials-Capital, our private credit discipline is anchored in silent authority. 
+At ROIALS CAPITAL, our private credit discipline is anchored in silent authority. 
 We do not announce. 
 We architect. 
 
@@ -128,7 +128,7 @@ They are monitored for structural integrity, not retail volatility.
 They qualify for multi layer liquidity facilities with fewer downstream constraints. 
 
 This is the liquidity environment institutional capital expects. 
-It is also the environment Roials-Capital maintains. 
+It is also the environment ROIALS CAPITAL maintains. 
 
 ## Settlement Integrity and Liquidity Reliability
 
@@ -174,7 +174,7 @@ This is where regulatory geometry becomes important.
 
 The jurisdiction of the asset may differ from the jurisdiction of the token, and may differ again from the jurisdiction of the Asset-Backed Frameworks facility. 
 
-Roials-Capital maintains structural clarity in this geometry. 
+ROIALS CAPITAL maintains structural clarity in this geometry. 
 
 We evaluate regulatory alignment, collateral enforceability, and operational jurisdictional overlap before issuing any facility. 
 
@@ -192,7 +192,7 @@ In this future state:
 • Private credit becomes the distribution engine. 
 • Asset-Based Lending becomes the structural anchor. 
 
-Roials-Capital positions itself in the structural layer, not the speculative surface. 
+ROIALS CAPITAL positions itself in the structural layer, not the speculative surface. 
 
 We do not participate in hype cycles. 
 We architect the frameworks that allow institutional capital to move with predictable precision. 
@@ -202,7 +202,7 @@ We architect the frameworks that allow institutional capital to move with predic
 In high-trust capital environments, authority is not expressed. 
 It is recognized. 
 
-Roials-Capital operates with silent authority because our function is structural, not promotional. 
+ROIALS CAPITAL operates with silent authority because our function is structural, not promotional. 
 
 Our Institutional Liquidity Paths framework against private credit and Asset-Based Lending assets is engineered for investors who do not need persuasion. 
 They need clarity. 
@@ -219,7 +219,7 @@ The mechanics of tokenized real estate liquidity are not speculative abstraction
 
 For HNWI and UHNW investors, the ability to extract liquidity from real estate with minimal friction and maximum structural integrity is a decisive advantage. 
 
-Roials-Capital provides that advantage through a disciplined architecture of private credit and asset based Institutional Liquidity Paths. 
+ROIALS CAPITAL provides that advantage through a disciplined architecture of private credit and asset based Institutional Liquidity Paths. 
 
 We maintain thresholds that ensure institutional coherence. 
 We maintain frameworks that ensure settlement integrity. 

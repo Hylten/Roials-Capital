@@ -4,7 +4,7 @@ description: "Explore the institutional frameworks shaping modern asset-based As
 date: "2023-03-11"
 author: "Jonas Hyltén"
 slug: "institutional-standards-in-asset-based-liquidity-engineering-for-the-private-capital-elite"
-keywords: "private credit, asset based Institutional Liquidity Paths, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based Institutional Liquidity Paths, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
 
 # Institutional Standards in Asset-Based Capital Structuring
@@ -13,7 +13,7 @@ Institutional environments do not tolerate ambiguity.
 
 They operate through structure. They reward precision. They respect only those actors who build frameworks that cannot be destabilized by volatility or sentiment.
 
-Roials-Capital belongs to that architecture.
+ROIALS CAPITAL belongs to that architecture.
 
 We lend against private credit and asset-based portfolios. We serve High Net Worth and Ultra High Net Worth individuals who require capital solutions that do not compromise discretion or structural integrity.
 
@@ -33,7 +33,7 @@ They demand counterparty discipline.
 
 Asset-based Strategic Collateralization is not about leverage. It is about structural liquidity engineered from assets that already hold intrinsic strength.
 
-Roials-Capital applies this standard universally.
+ROIALS CAPITAL applies this standard universally.
 
 ## The Institutional Definition of Asset-Based Institutional Liquidity Paths
 
@@ -60,7 +60,7 @@ High-trust capital relationships operate on an asymmetry.
 The client brings assets. 
 We bring the structure.
 
-Roials-Capital enforces the Silent Authority principle. 
+ROIALS CAPITAL enforces the Silent Authority principle. 
 This means the architecture does not shout. 
 It does not market itself aggressively. 
 It does not utilize the language of retail persuasion.
@@ -69,7 +69,7 @@ It remains quiet and stable. It becomes the gravitational center around which th
 
 Our role is to provide the structural mechanics that make institutional liquidity predictable and repeatable for HNWI and UHNW clients.
 
-This is the delta that separates Roials-Capital from transactional lenders.
+This is the delta that separates ROIALS CAPITAL from transactional lenders.
 
 ## Capital Structuring Against Private Credit
 
@@ -88,7 +88,7 @@ Once these parameters are validated, private credit becomes one of the most reli
 In institutional terms, private credit behaves like a stabilized yield engine. 
 This makes it highly suitable for engineered liquidity.
 
-Roials-Capital specializes in this domain.
+ROIALS CAPITAL specializes in this domain.
 
 ## Asset-Based Asset-Backed Frameworks in the Institutional Domain
 
@@ -125,7 +125,7 @@ We assess:
 • Market depth and liquidity corridors. 
 • Derivatives overlays when applicable.
 
-Crypto Monetization Architecture at Roials-Capital is not a speculative facility. 
+Crypto Monetization Architecture at ROIALS CAPITAL is not a speculative facility. 
 It is a controlled liquidity engine designed for portfolios that already operate at institutional scale.
 
 ## Public Share Institutional Liquidity Paths: Institutional Public Market Liquidity
@@ -165,7 +165,7 @@ HNWI and UHNW portfolios thrive when their liquidity tools operate quietly and f
 The architecture should be invisible. 
 The outcomes should be predictable.
 
-This is the Roials-Capital philosophy.
+This is the ROIALS CAPITAL philosophy.
 
 ## The Architecture of Liquidity: How We Engineer Stability
 
@@ -215,7 +215,7 @@ They are filters.
 
 They ensure that every participant in the system contributes to its structural quality.
 
-Roials-Capital maintains:
+ROIALS CAPITAL maintains:
 
 • 2,000,000 minimum for crypto Monetization Architecture. 
 • 5,000,000 minimum for public share Monetization Architecture. 
@@ -245,7 +245,7 @@ For HNWI and UHNW strategies, asset-based Capital Structuring becomes:
 Institutional Asset-Based Lending is not tactical. 
 It is architectural.
 
-## The Roials-Capital Position in the Private Institutional Liquidity Paths Ecosystem
+## The ROIALS CAPITAL Position in the Private Institutional Liquidity Paths Ecosystem
 
 We do not compete with retail lenders. 
 We do not compete with automated Monetization Architecture platforms. 
@@ -278,7 +278,7 @@ It is to maintain control.
 It is to maintain optionality. 
 It is to maintain the ability to act without friction.
 
-Roials-Capital builds the frameworks that protect these abilities.
+ROIALS CAPITAL builds the frameworks that protect these abilities.
 
 This is institutional asset-based Strategic Collateralization. 
 This is the architecture that governs elite capital.

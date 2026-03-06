@@ -2,7 +2,7 @@
 title: "The Sovereign Convergence: Private Credit Ascendant and the Reconstitution of Wealth"
 description: "Institutional brief on the structural ascent of private credit, sovereign capital realignment, and Fund-III capital formation strategies across buyouts, liquidity engineering, and special mandates."
 date: "2024-11-24"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "sovereign-convergence-private-credit-Fund-III"
 keywords: "kapitalanskaffning, oil and gas, private credit, Strategic Collateralization, asset hardening"
 ---
@@ -179,7 +179,7 @@ The mandate is clear. Build real assets. Lend against real throughput. Acquire o
 
 The future belongs to disciplined architects with jurisdictional clarity and sovereign compatibility.
 
-For confidential capital audit: contact Roials-Capital.
+For confidential capital audit: contact ROIALS CAPITAL.
 
 Leverage Ratio Target: 1.85x.
 

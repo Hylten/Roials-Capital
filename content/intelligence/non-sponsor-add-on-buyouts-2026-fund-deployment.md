@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL"
 slug: "non-sponsor-add-on-buyouts-2026-fund-deployment"
 ---
 
-
 The market is fractured. Not broken. Fractured. That is where the opportunity sits.  
 Non‑sponsor sellers are flooding the lower‑mid and mid‑market, but the institutional machines built from 2015–2023 were engineered for sponsor‑to‑sponsor recycling, not for sovereign-style origination. This is the asymmetry. This is the opening. This is why the 2026 vintages-especially Fund‑III and higher-are pivoting decisively into non‑sponsor add‑on buyouts as their primary deployment mechanism.
 
@@ -222,4 +221,4 @@ The Principal is the force.
 ## REQUEST CONFIDENTIAL CAPITAL AUDIT  
 State your mandate.  
 We will determine alignment.  
-Roials‑Capital engages only where structural clarity and institutional intent converge.
+ROIALS CAPITAL engages only where structural clarity and institutional intent converge.

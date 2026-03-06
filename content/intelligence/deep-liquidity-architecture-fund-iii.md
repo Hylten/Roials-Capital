@@ -2,7 +2,7 @@
 title: "Deep Liquidity Architecture for Fund‑III Mobilization"
 description: "A principal-grade blueprint for raising institutional capital in illiquid markets, integrating liquidity engineering, private credit overlays, and cross‑jurisdictional acquisition structuring for Fund-III expansion."
 date: "2024-05-21"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "deep-liquidity-architecture-Fund-III"
 keywords: "kapitalanskaffning, oil and gas, private credit, Monetization Architecture, asset hardening"
 ---
@@ -123,7 +123,6 @@ Proverbs 13:22 hangs here with institutional weight. The GP must be the steward,
 The window for Fund‑III is open. Capital is mobile. Liquidity is thin. Asymmetry is high. This is the optimal environment for a principal-grade platform.
 
 Provide the mandate.
-
 
 ### TECHNICAL MANDATE
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

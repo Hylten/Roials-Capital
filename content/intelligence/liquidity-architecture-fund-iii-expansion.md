@@ -2,7 +2,7 @@
 title: "Liquidity Architecture for Fund-III Expansion"
 description: "Institutional brief on capital-raising mechanics, liquidity engineering, and structural optimization for Fund-III scale-up across buyouts, add-ons, and private credit frameworks."
 date: "2025-08-04"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "liquidity-architecture-Fund-III-expansion"
 keywords: "kapitalanskaffning, oil and gas, private credit, Monetization Architecture, asset hardening"
 ---
@@ -74,7 +74,6 @@ Three things attract institutional capital:
 Fund-III must deliver all three at industrial strength.
 
 Capital will respond. Capital always responds to structure.
-
 
 ### TECHNICAL MANDATE
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

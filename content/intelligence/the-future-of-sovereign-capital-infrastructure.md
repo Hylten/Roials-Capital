@@ -4,7 +4,7 @@ description: "A deep examination of liquidity architecture, private credit, and 
 date: "2026-01-24"
 author: "Jonas Hyltén"
 slug: "the-future-of-sovereign-capital-infrastructure"
-keywords: "private credit, asset based Institutional Liquidity Paths, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based Institutional Liquidity Paths, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
 
 # The Future of Sovereign Capital Infrastructure
@@ -27,7 +27,7 @@ But not all digital asset structures qualify.
 
 Institutional Strategic Collateralization requires scale, custody, and liquidity depth. 
 
-Roials-Capital operates in that frame. 
+ROIALS CAPITAL operates in that frame. 
 
 Crypto Monetization Architecture begins at a minimum threshold. 
 
@@ -49,7 +49,7 @@ The rules have changed.
 
 HNWI and UHNW clients now see public share Asset-Backed Frameworks as a mechanism to activate liquidity while preserving market exposure, voting rights, and long-term appreciation potential. 
 
-At Roials-Capital, the minimum threshold for Public Share Institutional Liquidity Paths is. 
+At ROIALS CAPITAL, the minimum threshold for Public Share Institutional Liquidity Paths is. 
 
 This maintains alignment with institutional-grade liquidity flows and prevents fragmentation of credit architecture. 
 
@@ -73,7 +73,7 @@ The distinction is the new competitive edge.
 
 ## Silent Authority as a Capital Principle
 
-Roials-Capital operates on a principle of Silent Authority. 
+ROIALS CAPITAL operates on a principle of Silent Authority. 
 
 This is not a marketing posture. 
 
@@ -137,7 +137,7 @@ The individuals who adopt this framework early will have structural advantages t
 
 Clients who operate at scale require a Monetization Architecture partner that acts not as a counterparty, but as an extension of their capital architecture. 
 
-This is the function of Roials-Capital. 
+This is the function of ROIALS CAPITAL. 
 
 We lend against Private Credit and Asset Based Monetization Architecture. 
 
@@ -185,7 +185,7 @@ These are not products.
 
 They are structural tools for the sovereign individual. 
 
-At Roials-Capital, we do not predict the future of capital. 
+At ROIALS CAPITAL, we do not predict the future of capital. 
 
 We build it.
 

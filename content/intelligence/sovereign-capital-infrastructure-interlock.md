@@ -2,7 +2,7 @@
 title: "The Sovereign Capital Interlock"
 description: "Institutional analysis of sovereign capital infrastructure, regime realignment, cash flow mechanics, and the capital-raising doctrine for Fund-III scale partnerships."
 date: "2025-10-02"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "sovereign-capital-infrastructure-interlock"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
 ---
@@ -25,7 +25,7 @@ We track this transition across three power vectors.
 
 3. Liquidity sovereignty. Countries that rely on foreign credit cycles expose themselves to liquidity droughts. They now create in-house credit capacity. That shift alone will rewrite private credit flows for the next decade.
 
-This regime shift creates one dominant conclusion. Sovereign capital will no longer wait for fund managers to be ready. The GP must already be architected for scale. The GP must be able to deploy capital across energy heavy assets, cash generative industrials, and jurisdictional buyouts. At Roials-Capital, we align with allocators who treat timing as a decisive factor of stewardship. Delay is waste. Waste is disqualifying.
+This regime shift creates one dominant conclusion. Sovereign capital will no longer wait for fund managers to be ready. The GP must already be architected for scale. The GP must be able to deploy capital across energy heavy assets, cash generative industrials, and jurisdictional buyouts. At ROIALS CAPITAL, we align with allocators who treat timing as a decisive factor of stewardship. Delay is waste. Waste is disqualifying.
 
 PHASE 2. TECHNICAL MECHANICS
 
@@ -47,7 +47,7 @@ These mechanics define what sovereign allocators will reward. Predictability. Ra
 
 PHASE 3. THE STRATEGIC MODEL
 
-Sovereign allocators want to partner with a GP that operates like a national institution. Not like a fund manager chasing its next raise. Our model at Roials-Capital is designed for sovereign partnership scale. Velocity with precision. Aggressive but controlled. Hard limits. No internal entropy.
+Sovereign allocators want to partner with a GP that operates like a national institution. Not like a fund manager chasing its next raise. Our model at ROIALS CAPITAL is designed for sovereign partnership scale. Velocity with precision. Aggressive but controlled. Hard limits. No internal entropy.
 
 The Fund-III structure is the command vehicle. The architecture supports three parallel deployment lanes.
 
@@ -80,7 +80,6 @@ The stewardship filter clarifies everything. It forces a GP to operate with inte
 PHASE 5. EXIT
 
 Target yield displacement threshold: 340 to 460 basis points above sovereign benchmark curves.
-
 
 ### TECHNICAL MANDATE
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

@@ -4,7 +4,7 @@ description: "A principal level intelligence report detailing structural capital
 date: "2024-10-13"
 author: "Jonas Hyltén"
 slug: "institutional-playbook-capital-preservation-2026"
-keywords: "kapitalanskaffning, private equity, Fund-III, Roials-Capital, 2026, liquidity engineering"
+keywords: "kapitalanskaffning, private equity, Fund-III, ROIALS CAPITAL, 2026, liquidity engineering"
 ---
 
 [START INTELLIGENCE REPORT]

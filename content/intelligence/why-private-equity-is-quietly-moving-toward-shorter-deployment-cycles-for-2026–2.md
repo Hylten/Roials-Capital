@@ -135,7 +135,7 @@ You attract capital because you eliminate uncertainty.
 ---
 
 THE PRIVATE CREDIT ENGINE (10% FOCUS)  
-When discussing Asset‑Based Lending, Roials‑Capital enforces the Qualification Gates:
+When discussing Asset‑Based Lending, ROIALS CAPITAL enforces the Qualification Gates:
 
 Minimum entry threshold: $2M  
 Preferred structural optimum: $5M+
@@ -211,7 +211,7 @@ This is the principal mandate.
 ---
 
 CONFIDENTIAL FOOTER  
-Roials‑Capital processes private audits only for principals acting within the Fund‑III+ architecture or institutional mandates.  
+ROIALS CAPITAL processes private audits only for principals acting within the Fund‑III+ architecture or institutional mandates.  
 Direct industrial lending inquiries must observe the Asset‑Based Lending Qualification Gates ($2M minimum / $5M optimal).  
 
 Request confidential capital audit below.

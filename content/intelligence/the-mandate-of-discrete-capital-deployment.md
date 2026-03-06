@@ -20,7 +20,7 @@ Preserve authority.
 Compound strength. 
 Avoid noise.
 
-This document outlines the structural architecture behind Roials-Capital’s deployment doctrine. 
+This document outlines the structural architecture behind ROIALS CAPITAL’s deployment doctrine. 
 It is designed for institutional readers who treat capital as stewardship, not spectacle.
 
 The frameworks presented adhere to conservative Christian governance. 
@@ -44,7 +44,7 @@ It is not traded.
 It is controlled. 
 It is engineered.
 
-Roials-Capital maintains liquidity engineering thresholds aligned with institutional discipline:
+ROIALS CAPITAL maintains liquidity engineering thresholds aligned with institutional discipline:
 
 - Crypto backed Monetization Architecture begins at two million USD. 
 - Public shares Monetization Architecture begins at five million USD.
@@ -95,7 +95,7 @@ Every risk removed increases authority.
 Institutional families reject ideological interference. 
 They require structural alignment.
 
-Roials-Capital deploys only into frameworks that prioritize:
+ROIALS CAPITAL deploys only into frameworks that prioritize:
 
 - Biblical stewardship ethics. 
 - Ownership clarity. 
@@ -124,7 +124,7 @@ The Gnosjö ethos produces:
 - Quiet coordination. 
 - Long-term loyalties.
 
-This ethos aligns seamlessly with Roials-Capital’s doctrine. 
+This ethos aligns seamlessly with ROIALS CAPITAL’s doctrine. 
 It rejects spectacle. 
 It elevates substance.
 
@@ -179,7 +179,7 @@ Deployment without intelligence is speculation.
 Principals do not speculate. 
 Principals govern through intelligence.
 
-Roials-Capital operates with intelligence systems that capture:
+ROIALS CAPITAL operates with intelligence systems that capture:
 
 - Counterparty behavior. 
 - Market gaps. 
@@ -198,7 +198,7 @@ Not reaction.
 
 Discrete deployment must be protected at multiple layers.
 
-Roials-Capital structures protection in four tiers.
+ROIALS CAPITAL structures protection in four tiers.
 
 1. Legal. 
 2. Collateral. 

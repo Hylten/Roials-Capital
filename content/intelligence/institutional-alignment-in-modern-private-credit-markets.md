@@ -4,7 +4,7 @@ description: "Strategic analysis of liquidity, private credit, and asset based l
 date: "2024-06-17"
 author: "Jonas Hyltén"
 slug: "institutional-alignment-in-modern-private-credit-markets"
-keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
 
 # Institutional Alignment in Private Credit Markets
@@ -17,7 +17,7 @@ For decades, private credit markets operated behind institutional gates. The fra
 
  
 
-Roials-Capital positions itself inside that institutional grammar. We do not expand it. We do not deviate from it. We refine it for high net worth balance sheets that require discretion and engineering rather than sales narratives.
+ROIALS CAPITAL positions itself inside that institutional grammar. We do not expand it. We do not deviate from it. We refine it for high net worth balance sheets that require discretion and engineering rather than sales narratives.
 
  
 
@@ -55,7 +55,7 @@ In Asset-Based Lending, the lender does not speculate on narratives. The lender 
 
  
 
-Roials-Capital lends against private credit and asset based positions. 
+ROIALS CAPITAL lends against private credit and asset based positions. 
 This means the conversation is not about promises. 
 It is about assets. 
 It is about structure. 
@@ -92,7 +92,7 @@ Institutional alignment requires that private credit not be treated as a specula
 
  
 
-When Roials-Capital assesses a private credit position, we look at:
+When ROIALS CAPITAL assesses a private credit position, we look at:
 
  
 
@@ -125,7 +125,7 @@ It keeps the system clean.
 
  
 
-Roials-Capital operates with the same posture. 
+ROIALS CAPITAL operates with the same posture. 
 Our function is structural, not promotional. 
 Our authority comes from engineering that works.
 
@@ -194,7 +194,7 @@ It is the ability to choose timing rather than be forced by it.
 
  
 
-When Roials-Capital extends liquidity against private credit or Asset-Based Lending positions, we reinforce that optionality. The borrower retains their asset, their income stream, and their strategic posture. The lender receives collateral that aligns with institutional rules.
+When ROIALS CAPITAL extends liquidity against private credit or Asset-Based Lending positions, we reinforce that optionality. The borrower retains their asset, their income stream, and their strategic posture. The lender receives collateral that aligns with institutional rules.
 
  
 
@@ -224,7 +224,7 @@ High net worth borrowers benefit from predictable frameworks that execute regard
 
  
 
-Roials-Capital operates with surgical clarity because structure must outperform emotion. 
+ROIALS CAPITAL operates with surgical clarity because structure must outperform emotion. 
 A borrower should know exactly how and when liquidity can be deployed. 
 A lender should know exactly how and when collateral can be recovered.
 
@@ -267,7 +267,7 @@ And it is why individuals who adopt their posture gain access to the same advant
 
  
 
-## The Role of Roials-Capital as Structural Architect
+## The Role of ROIALS CAPITAL as Structural Architect
 
 Our position is not to chase capital. 
 Our position is to maintain the structural environment in which capital functions.
@@ -293,7 +293,7 @@ It ensures the underwriting respects institutional boundaries.
 
  
 
-Roials-Capital is not a retail solution. 
+ROIALS CAPITAL is not a retail solution. 
 It is an institutional framework accessible to individuals who understand its value.
 
  
@@ -322,7 +322,7 @@ The system will remain governed by clarity because clarity is what maintains tru
 
  
 
-Roials-Capital continues to design within that clarity. 
+ROIALS CAPITAL continues to design within that clarity. 
 We do not deviate. 
 We do not dilute. 
 We operate with the same discipline that institutional markets expect and require.
@@ -337,7 +337,7 @@ They reward lenders who protect stability.
 
  
 
-Roials-Capital exists for HNWI and UHNW clients who want liquidity engineered through institutional mechanics. 
+ROIALS CAPITAL exists for HNWI and UHNW clients who want liquidity engineered through institutional mechanics. 
 Not explained. 
 Not negotiated. 
 Executed.

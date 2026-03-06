@@ -2,7 +2,7 @@
 title: "Principal Memo: The Quiet Expansion of Non‑Dilutive Capital in the Lower‑Mid Market"
 description: "Institutional brief on non‑dilutive capital flows supporting Fund‑III buyouts, add‑ons, and multi‑jurisdictional credit architecture across PE‑owned industrials."
 date: "2026-03-05"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "non-dilutive-capital-lmm-boom"
 ---
 

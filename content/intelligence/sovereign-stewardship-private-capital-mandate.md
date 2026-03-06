@@ -2,7 +2,7 @@
 title: "Sovereign Stewardship and the New Mandate for Private Capital"
 description: "Institutional brief on Fund-III capital formation, jurisdictional positioning, and sovereign-aligned private market architecture for buyouts, add-ons, and energy-transition mandates."
 date: "2023-07-12"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "sovereign-stewardship-private-capital-mandate"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
 ---

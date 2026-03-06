@@ -124,7 +124,6 @@ PHASE 5. EXIT
 
 The mandate is simple: transform trapped public value into redeployable private capital without triggering market decay. The technical threshold is 38 to 44 percent institutional LTV stability across a 180 day volatility band.
 
-
 ### TECHNICAL MANDATE
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 

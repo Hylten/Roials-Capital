@@ -2,7 +2,7 @@
 title: "The Architecture of Sovereign Credit Mobility"
 description: "Institutional thesis on sovereign credit mobility, buyout capital formation, regulatory velocity, and cross-jurisdictional liquidity engineering for Fund-III scale allocations."
 date: "2025-07-07"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "architecture-sovereign-credit-mobility"
 keywords: "kapitalanskaffning, private credit, sovereign credit, Capital Structuring, asset hardening, buyouts"
 ---
@@ -15,7 +15,7 @@ Order is not an option.
 
 Cross-jurisdictional credit architecture is now the prime vector of competitive advantage for LPs seeking Fund-III scale exposure. Not because sovereign credit is unstable. Because sovereign credit is rigid. Rigidity destroys return velocity. Mobility converts national constraints into institutional arbitrage.
 
-Roials-Capital operates inside that gap.
+ROIALS CAPITAL operates inside that gap.
 
 PHASE 1: THE REGIME SHIFT
 
@@ -51,12 +51,12 @@ Three components define the architecture.
 3. The Cash-Flow Sovereignty Threshold 
  Cash flows tied to sovereign-controlled revenue systems must pass a sovereignty threshold test. If national policy can redirect cash flow, mobility collapses. If revenue is insulated by contract, escrow, or offshore SPVs, mobility strengthens. This is where recovery factors rise or die. 
 
-Roials-Capital builds credit systems engineered to withstand sovereignty thresholds and exploit migration curves. This defines our underwriting architecture for Fund-III buyouts, add-ons, and special mandates. Our mechanics eliminate the false dichotomy between sovereign exposure and institutional discipline.
+ROIALS CAPITAL builds credit systems engineered to withstand sovereignty thresholds and exploit migration curves. This defines our underwriting architecture for Fund-III buyouts, add-ons, and special mandates. Our mechanics eliminate the false dichotomy between sovereign exposure and institutional discipline.
 
 Now to the engine room.
 
 LTV Curves 
-Roials-Capital models LTV using five-point convexity. LTV is never flat. It shifts with jurisdictional enforcement velocity, asset class hardening, and regulatory harmonization. Fund-III targets 42 to 63 percent hard-asset collateralization in Asset-Based Lending structures, with lower convexity spread in MiFID II regions and higher convexity spread in NAEOC corridors due to geological fixed asset durability.
+ROIALS CAPITAL models LTV using five-point convexity. LTV is never flat. It shifts with jurisdictional enforcement velocity, asset class hardening, and regulatory harmonization. Fund-III targets 42 to 63 percent hard-asset collateralization in Asset-Based Lending structures, with lower convexity spread in MiFID II regions and higher convexity spread in NAEOC corridors due to geological fixed asset durability.
 
 Cash-Flow Waterfalls 
 We use zero-ambiguity waterfalls. Each waterfall must isolate operational revenues, energy-linked cash flows, and sovereign-sensitive streams. Senior tranches receive insulated paths. Mezzanine tranches receive timed dynamic ratchets. Covenant packages are triggered by deviation in mobility, not EBITDA fluctuations. This protects sovereign-linked assets from becoming political byproducts.
@@ -68,7 +68,7 @@ This is how institutional discipline is restored.
 
 PHASE 3: THE STRATEGIC MODEL
 
-Roials-Capital executes with velocity. This is not a philosophy. It is an operational mandate.
+ROIALS CAPITAL executes with velocity. This is not a philosophy. It is an operational mandate.
 
 Fund-III capital raising focuses on buyouts and add-ons in energy, industrials, and real-asset-adjacent operating companies. Not because these sectors are fashionable. Because they are sovereign-resistant. They perform under multiple policy regimes. They maintain asset transferability. They scale through engineered liquidity rather than speculative valuation.
 
@@ -86,7 +86,7 @@ Our model uses three strategic layers.
 3. Special Mandates 
  NAEOC mandates between 50M and 250M require sovereign sensitivity. Energy concessions need structured credit. Drilling infrastructure needs migration modeling. Midstream equipment needs asset hardening. 
  MiFID II acquisitions require transparency pathways and documentation integrity. 
- Roials-Capital builds proprietary compliance stacks that reduce the cost and timeline of EU regulatory alignment by an average of 27 percent across mandates.
+ ROIALS CAPITAL builds proprietary compliance stacks that reduce the cost and timeline of EU regulatory alignment by an average of 27 percent across mandates.
 
 We do not optimize for convenience. We optimize for inevitability.
 
@@ -98,12 +98,11 @@ Every mandate we accept must meet the filter of non-wasteful deployment. Hard as
 
 Fund-III uses a theological protocol rooted in the principle of inheritance. Proverbs 13:22 defines it: the good transfers resources across generations. This is not sentiment. It is structural discipline. Intergenerational capital cannot rely on political concessions. It must rely on resilient credit systems that outperform sovereign volatility.
 
-Roials-Capital refuses any mandate that weakens capital integrity. We refuse any transaction that rewards entropy. The architecture of sovereign credit mobility is built so that capital can move when politics cannot. This is stewardship applied as institutional mechanics.
+ROIALS CAPITAL refuses any mandate that weakens capital integrity. We refuse any transaction that rewards entropy. The architecture of sovereign credit mobility is built so that capital can move when politics cannot. This is stewardship applied as institutional mechanics.
 
 PHASE 5: EXIT
 
 Fund-III targets mobility-adjusted IRR with a minimum cross-border collateral conversion velocity of 92 days.
-
 
 ### TECHNICAL MANDATE
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

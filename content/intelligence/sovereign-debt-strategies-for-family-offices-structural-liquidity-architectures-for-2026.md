@@ -4,7 +4,7 @@ description: "Institutional guide to sovereign debt strategies, liquidity optimi
 date: "2024-01-01"
 author: "Jonas Hyltén"
 slug: "sovereign-debt-strategies-for-family-offices-structural-liquidity-architectures-for-2026"
-keywords: "private credit, asset based Institutional Liquidity Paths, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based Institutional Liquidity Paths, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
 
 # Sovereign Debt Strategies for Family Offices

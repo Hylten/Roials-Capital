@@ -2,7 +2,7 @@
 title: "The Institutional Playbook for Capital Preservation in Fund-III Regimes"
 description: "A principal-level framework for kapitalanskaffning, private credit structuring, liquidity engineering, and institutional-grade capital defense across buyout ecosystems."
 date: "2025-12-18"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "institutional-playbook-capital-preservation-Fund-III"
 keywords: "kapitalanskaffning, oil and gas, private credit, Institutional Liquidity Paths, asset hardening"
 ---
@@ -38,7 +38,7 @@ Institutional LPs quietly benchmark GPs on jurisdiction before they benchmark re
 
 Kapitalanskaffning-80% of the mandate-demands narrative compression. LPs do not want the full story. They want the right story. A Fund-III raise is not a pitch. It is an audit in disguise. LPs probe for three fractures: valuation optimism, operational overreach, and macro blindness. If the GP is guilty of any two, the raise collapses. If guilty of all three, the GP loses the decade.
 
-Roials-Capital fixes this through compression modeling. The GP presents only what is defensible, measurable, and repeatable. No intellectual acrobatics. No vision drift. No founder passion theatre. Institutions are not looking for charisma. Institutions are looking for continuity. Quiet operators win cycles. Loud operators exit early.
+ROIALS CAPITAL fixes this through compression modeling. The GP presents only what is defensible, measurable, and repeatable. No intellectual acrobatics. No vision drift. No founder passion theatre. Institutions are not looking for charisma. Institutions are looking for continuity. Quiet operators win cycles. Loud operators exit early.
 
 Buyouts and add-ons require hardened sequencing. Preservation grows when fragmentation dies. The marketplace rewards scale, but scale is noise unless sequenced. The playbook enforces a strict rhythm: acquisition. stabilization. systemization. expansion. extraction. refinancing. Each with pre-set guardrails. Each with risk gates. Each with institutional pacing. No rushing. No emotional pivots. No thesis creep.
 
@@ -79,7 +79,7 @@ Fund-III introduces governance heat. Boards become stricter. Advisory committees
 
 Now the reason preservation is the root of expansion: surviving volatility is the only real competitive advantage left. Market cycles are collapsing. Macro regimes shifting faster. Liquidity windows narrowing. The GP who preserves capital for two cycles automatically outperforms the GP chasing alpha aggressively for one. The long game wins because the long game compounds. Compounding only happens when capital survives. Preservation is compounding’s bodyguard.
 
-Roials-Capital focuses Fund-III capital raising on institutional durability. The raise is structured as a signal. Lower frequency. Higher density. Cleaner channels. We do not spray the market. We do not pitch indiscriminately. We approach strategically, sequentially, and with controlled scarcity. Scarcity drives demand. Discipline enforces scarcity.
+ROIALS CAPITAL focuses Fund-III capital raising on institutional durability. The raise is structured as a signal. Lower frequency. Higher density. Cleaner channels. We do not spray the market. We do not pitch indiscriminately. We approach strategically, sequentially, and with controlled scarcity. Scarcity drives demand. Discipline enforces scarcity.
 
 Institutional LPs respond to one thing above all: inevitability. If the GP feels inevitable, the commitment is natural. If the GP feels optional, the commitment evaporates. Preservation makes the GP feel inevitable. The LP senses the stability. The LP senses the architecture. The LP senses the predictability. Capital flows.
 
@@ -90,7 +90,6 @@ Everything converges to one doctrine: defend the downside so the upside compound
 Proverbs 13:22 defines the ethos: inheritance cross-generational, wealth reallocated to the just, value moved from disorder to order. Institutions live by that scripture without speaking it. Preservation is moral. Preservation is structural. Preservation is strategic. Preservation is the inheritance mechanism for capital.
 
 This is the playbook. Built for Fund-III. Designed for permanence. Structured for institutional alignment. Execution is mandatory. Drift is unacceptable. Preservation is non-negotiable.
-
 
 ### TECHNICAL MANDATE
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

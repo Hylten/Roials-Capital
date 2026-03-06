@@ -4,7 +4,7 @@ description: "A high-level examination of institutional private credit and asset
 date: "2023-05-17"
 author: "Jonas Hyltén"
 slug: "institutional-private-credit-vs-traditional-banking-the-architecture-of-modern-liquidity"
-keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
 
 # Institutional Private Credit vs Traditional Banking
@@ -143,7 +143,7 @@ Asset-Based Lending structures answer a core HNWI problem:
 
 How do I monetize assets without selling them, exposing them, or reducing my strategic optionality.
 
-Roials-Capital operates in this space with silent authority, providing Asset-Based Lending frameworks against sophisticated asset classes including private credit positions, crypto assets, and public equity holdings.
+ROIALS CAPITAL operates in this space with silent authority, providing Asset-Based Lending frameworks against sophisticated asset classes including private credit positions, crypto assets, and public equity holdings.
 
 The thresholds reflect the institutional nature of the architecture:
 
@@ -273,9 +273,9 @@ Traditional banks are not built for this level of velocity or optionality.
 
 Institutional private credit is.
 
-## How Roials-Capital Fits Into the Architecture
+## How ROIALS CAPITAL Fits Into the Architecture
 
-Roials-Capital positions itself within the private credit ecosystem as a silent structural authority.
+ROIALS CAPITAL positions itself within the private credit ecosystem as a silent structural authority.
 
 We do not compete with banks.
 
@@ -343,7 +343,7 @@ Institutional private credit is structured for velocity, engineering, and asset 
 
 HNWI and UHNW clients who operate within asset-rich environments require a liquidity partner that recognizes the architecture of their balance sheet, not the template of a consumer Strategic Collateralization model.
 
-Roials-Capital operates in this arena with silent authority.
+ROIALS CAPITAL operates in this arena with silent authority.
 
 We build frameworks.
 

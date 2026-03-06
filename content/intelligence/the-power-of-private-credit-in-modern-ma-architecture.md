@@ -4,7 +4,7 @@ description: "A strategic examination of liquidity engineering and asset based I
 date: "2025-08-23"
 author: "Jonas Hyltén"
 slug: "the-power-of-private-credit-in-modern-ma-architecture"
-keywords: "private credit, asset based Institutional Liquidity Paths, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based Institutional Liquidity Paths, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
 
 # The Power of Private Credit in M&A
@@ -27,7 +27,7 @@ Not as a speculative alternative, rather as the new architecture for dependable 
 
 This shift is particularly decisive in the upper wealth brackets, where transaction velocity and discretion shape outcomes. 
 
-Roials‑Capital operates inside this new perimeter. 
+ROIALS CAPITAL operates inside this new perimeter. 
 
 We do not compete with banks. 
 
@@ -47,7 +47,7 @@ Cross‑border holdings.
 
 Most banks cannot accurately price or lend against these at velocity. 
 
-Roials‑Capital lends against private credit and asset based frameworks that understand the architecture of alternative assets. 
+ROIALS CAPITAL lends against private credit and asset based frameworks that understand the architecture of alternative assets. 
 
 We do not require assets to be simple. 
 
@@ -77,7 +77,7 @@ It allows buyers to leverage equity they already possess rather than distributin
 
 For high tier buyers, Asset-Based Lending is the quiet engine behind accelerated deal flow. 
 
-Roials‑Capital takes this principle further. 
+ROIALS CAPITAL takes this principle further. 
 
 We apply Asset-Based Lending structures to contemporary asset classes where traditional lenders have no framework. 
 
@@ -89,7 +89,7 @@ It is a posture.
 
 HNWI and UHNW individuals need liquidity that is controlled, silent, and architected around their total balance sheet. 
 
-Roials‑Capital’s models are designed precisely for this profile. 
+ROIALS CAPITAL’s models are designed precisely for this profile. 
 
 We operate at thresholds that are aligned with sophisticated investors. 
 
@@ -133,13 +133,13 @@ This creates a psychological and financial advantage.
 
 In M&A environments, silence is leverage. 
 
-Roials‑Capital operates without noise. 
+ROIALS CAPITAL operates without noise. 
 
 We provide structural mechanics, not spectacle. 
 
 Our role is to anchor liquidity without broadcasting it. 
 
-## The Mechanics of Roials‑Capital Private Credit
+## The Mechanics of ROIALS CAPITAL Private Credit
 
 Our approach is grounded in institutional clarity. 
 
@@ -187,7 +187,7 @@ Traditional lenders slow down under this weight.
 
 Private credit accelerates. 
 
-At Roials‑Capital, cross‑border Institutional Liquidity Paths is an engineered process. 
+At ROIALS CAPITAL, cross‑border Institutional Liquidity Paths is an engineered process. 
 
 We understand fragmented asset ecosystems and build bridges where institutional lenders construct walls. 
 
@@ -217,7 +217,7 @@ In high tier transactions, visibility is often a vulnerability.
 
 Private credit keeps liquidity confined to the principal and the counterparty. 
 
-Roials‑Capital extends this principle through silent authority frameworks that eliminate noise entirely. 
+ROIALS CAPITAL extends this principle through silent authority frameworks that eliminate noise entirely. 
 
 ## The Future of M&A Liquidity
 
@@ -231,7 +231,7 @@ Asset based Asset-Backed Frameworks will evolve into multi‑asset liquidity eng
 
 HNWI and UHNW investors will rely more on engineered capital and less on institutional gatekeeping. 
 
-Roials‑Capital is positioned at this intersection. 
+ROIALS CAPITAL is positioned at this intersection. 
 
 Not as an alternative lender. 
 
@@ -245,7 +245,7 @@ It comes from clarity, speed, and structural authority.
 
 For principals operating at the highest tiers, liquidity must be engineered, controlled, and silent. 
 
-This is where Roials‑Capital functions. 
+This is where ROIALS CAPITAL functions. 
 
 We provide institutional grade structure with private market velocity.
 

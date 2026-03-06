@@ -2,7 +2,7 @@
 title: "The Principal Doctrine of Operational Alpha in Add‑On Buyout Architecture"
 description: "A private Principal‑level briefing on why operational alpha now eclipses legacy financial engineering in Fund‑III+ add‑on environments, with direct implications for capital raising, GP signalling, and institutional allocations."
 date: "2026-03-05"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "operational-alpha-add-on-architecture"
 ---
 
@@ -58,7 +58,7 @@ Only one receives Fund‑III allocations without resistance.
 
 *
 
-Roials-Capital Position.  
+ROIALS CAPITAL Position.  
 We are the operational engine for capital formation. Not the marketing veneer. Not the middle layer. The engine. The place where institutional money tests structural integrity before committing to multi‑year exposure.
 
 Our task is not to flatter the GP. Our task is to elevate the GP, refine the strategy, and remove any ambiguity that could give an LP pause. Add‑on execution is now one of the primary determinants of perceived GP maturity.
@@ -129,7 +129,7 @@ Financial engineering is only the decoration.
 
 *
 
-The Role of Roials-Capital in this Environment.  
+The Role of ROIALS CAPITAL in this Environment.  
 We are the gatekeepers of institutional seriousness. We prepare the GP for scrutiny at the highest level. We refine the narrative, restructure the operational thesis, and elevate the architecture in a manner that withstands deep diligence.
 
 Our mandate:  
@@ -142,7 +142,7 @@ Strict note: When discussing Asset-Based Lending, qualification gates apply. Min
 
 We do not dilute standards. We enforce them. Because scarcity drives respect, and respect drives commitments.
 
-A GP aligned with Roials-Capital enters the room with institutional posture. The LP senses the distinction immediately.
+A GP aligned with ROIALS CAPITAL enters the room with institutional posture. The LP senses the distinction immediately.
 
 *
 

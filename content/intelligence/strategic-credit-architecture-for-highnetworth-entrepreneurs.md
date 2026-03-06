@@ -4,7 +4,7 @@ description: "A deep institutional analysis of liquidity structuring, private cr
 date: "2024-10-25"
 author: "Jonas Hyltén"
 slug: "strategic-credit-architecture-for-highnetworth-entrepreneurs"
-keywords: "private credit, asset based Monetization Architecture, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based Monetization Architecture, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
 
 # Strategic Credit for High‑Net‑Worth Entrepreneurs
@@ -15,19 +15,19 @@ They orchestrate it.
 
 They design liquidity as a structural advantage, not a reactive tool. 
 
-Roials‑Capital operates in this space with a singular mandate. We construct the credit architecture that allows substantial private wealth to function with institutional precision. 
+ROIALS CAPITAL operates in this space with a singular mandate. We construct the credit architecture that allows substantial private wealth to function with institutional precision. 
 
 We engage only with HNWI and UHNW leaders whose assets are already operating at scale. 
 
 Our role is simple. We build the silent mechanics behind their capital velocity. 
 
-## The Roials‑Capital Framework: Silent Authority
+## The ROIALS CAPITAL Framework: Silent Authority
 
 Our clients do not require persuasion. 
 
 They require structural clarity. 
 
-Roials‑Capital operates with silent authority, providing the mechanics that normally remain hidden within institutional credit systems. 
+ROIALS CAPITAL operates with silent authority, providing the mechanics that normally remain hidden within institutional credit systems. 
 
 We focus on: 
 
@@ -83,7 +83,7 @@ HNWI and UHNW clients require:
 - Institutional pricing 
 - Clear capital pathways 
 
-Roials‑Capital provides this by setting the rules rather than negotiating around them. 
+ROIALS CAPITAL provides this by setting the rules rather than negotiating around them. 
 
 Architects do not negotiate gravity. 
 
@@ -106,7 +106,7 @@ The market does not notice.
 
 HNWI and UHNW clients require the accuracy of an institution without inheriting the institutional drag. 
 
-Roials‑Capital builds that middle ground. 
+ROIALS CAPITAL builds that middle ground. 
 
 We apply institutional frameworks to underwriting, risk, legal, and collateralization. 
 
@@ -118,7 +118,7 @@ The result is a high‑trust, low‑visibility credit environment that functions
 
 Credit is most powerful when it stops behaving like debt and starts behaving like architecture. 
 
-This is the model we construct for Roials‑Capital clients. 
+This is the model we construct for ROIALS CAPITAL clients. 
 
 When liquidity can be summoned without asset liquidation, without strategic interruption, and without public displacement, it becomes a form of authority. 
 
@@ -128,7 +128,7 @@ A competitive instrument.
 
 A force multiplier for entrepreneurs who already operate at a rare level of sophistication. 
 
-## The Roials‑Capital Mandate
+## The ROIALS CAPITAL Mandate
 
 We are not a retail lender. 
 
@@ -148,7 +148,7 @@ If your liquidity needs require structure rather than negotiation.
 
 If you understand that credit is not a product, but a form of design. 
 
-Roials‑Capital will provide the architecture.
+ROIALS CAPITAL will provide the architecture.
 
 ### TECHNICAL MANDATE
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

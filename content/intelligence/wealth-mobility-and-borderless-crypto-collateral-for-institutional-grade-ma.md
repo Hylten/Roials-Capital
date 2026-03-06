@@ -4,7 +4,7 @@ description: "Institutional analysis of liquidity engineering using private cred
 date: "2024-03-23"
 author: "Jonas Hyltén"
 slug: "wealth-mobility-and-borderless-crypto-collateral-for-institutional-grade-ma"
-keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, Roials-Capital"
+keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
 
 # Wealth Mobility: Using Borderless Crypto Collateral for Traditional M&A
@@ -20,7 +20,7 @@ Traditional M&A structures have always relied on predictable collateral, predict
 Crypto collateral, when architected correctly, is none of those things on the surface. 
 Which makes it one of the most powerful mobility instruments in modern wealth design.
 
-Roials-Capital operates within the zone where private credit mechanics, Asset-Based Lending logic, and crypto collateral interact without friction. 
+ROIALS CAPITAL operates within the zone where private credit mechanics, Asset-Based Lending logic, and crypto collateral interact without friction. 
 
 This article defines that zone, frames the architecture, and establishes the rules for how borderless collateral transitions into traditional M&A firepower.
 
@@ -44,7 +44,7 @@ It is hybrid.
 It is engineered. 
 It is borderless in collateral and anchored in structure.
 
-## The Roials-Capital Framework for Execution
+## The ROIALS CAPITAL Framework for Execution
 
 Our approach is concise:
 
@@ -74,7 +74,7 @@ It is immediate.
 
 Private credit and Asset-Based Lending are the structured channels that translate this mobility into traditional M&A capability. 
 
-Roials-Capital stands at this intersection. 
+ROIALS CAPITAL stands at this intersection. 
 Quietly. 
 Precisely. 
 Institutionally.

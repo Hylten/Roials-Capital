@@ -119,7 +119,6 @@ PHASE 5. EXIT
 
 Target loss ratio: below 40 basis points across the cycle.
 
-
 ### TECHNICAL MANDATE
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 

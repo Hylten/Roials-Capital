@@ -2,7 +2,7 @@
 title: "Institutional Grade Infrastructure for Asset Hardening"
 description: "High conviction framework for capital hardening mechanics, Asset-Based Lending liquidity engineering, and private market acquisition readiness for Fund-III scale structures"
 date: "2024-05-03"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "institutional-grade-asset-hardening"
 keywords: "kapitalanskaffning, oil and gas, private credit, Strategic Collateralization, asset hardening"
 ---
@@ -54,7 +54,7 @@ PHASE 3. THE STRATEGIC MODEL
 
 Velocity is nothing without control. Control is nothing without structure.
 
-Roials-Capital operates under one structural assumption: institutional capital does not chase opportunity. It allocates into systems. Fund-III managers that cannot demonstrate system capacity are not considered viable partners for UHNWIs or institutional LPs.
+ROIALS CAPITAL operates under one structural assumption: institutional capital does not chase opportunity. It allocates into systems. Fund-III managers that cannot demonstrate system capacity are not considered viable partners for UHNWIs or institutional LPs.
 
 Our model operates across three verticals:
 
@@ -99,7 +99,6 @@ Exit is not an event. It is an engineered inevitability. The technical metric th
 The hardened asset must hit a minimum 1.32 survival multiple under conservative impairment assumptions with senior coverage maintained at 1.08 or greater.
 
 This is the institutional threshold.
-
 
 ### TECHNICAL MANDATE
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
