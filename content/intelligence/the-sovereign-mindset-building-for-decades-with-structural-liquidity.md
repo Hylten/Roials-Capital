@@ -53,11 +53,7 @@ They occur when:
 
 Liquidity is insufficient.
 
-Assets are locked.
-
-Timing is unfavorable.
-
-Markets decline.
+Assets are locked. Timing is unfavorable. Markets decline.
 
 Opportunities arise but cannot be captured.
 

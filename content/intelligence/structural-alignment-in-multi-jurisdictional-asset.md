@@ -65,8 +65,7 @@ The following alignment gaps appear in most multi jurisdictional portfolios:
 - Absence of unified collateral doctrine 
 
 These weaknesses destroy institutional appetite. 
-Not because the asset is weak. 
-Because the structure is unreadable.
+the structure is unreadable.
 
 Structural alignment restores readability.
 

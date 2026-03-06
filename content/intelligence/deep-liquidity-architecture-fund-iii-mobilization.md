@@ -44,10 +44,7 @@ Liquidity arcs power Fund‑III. They create velocity. They eliminate capital‑
 
 Fund‑III must not operate as a traditional buyout vehicle. It must operate as a liquidity‑driven acquisition engine.
 
-Machine gun cadence. 
-Hard assets. 
-Firm spine. 
-Irreversible stance.
+Machine gun cadence.  Hard assets. Firm spine. Irreversible stance.
 
 No softness.
 
@@ -189,21 +186,12 @@ Core Buyouts
 Cash‑yielding, low‑maintenance assets. 
 No stories. Only numbers.
 
-Add‑On Acquisitions 
-Precision rollups. 
-Operational synergy. 
-Margin capture.
+Add‑On Acquisitions  Precision rollups. Operational synergy. Margin capture.
 
-Platform Expansions 
-Strategic adjacency. 
-Geographic advantage. 
-Vertical consolidation.
+Platform Expansions  Strategic adjacency. Geographic advantage. Vertical consolidation.
 
 Fund‑III should maintain a 65/25/10 split across these categories, optimizing risk distribution while maximizing compounding. The GP must execute with brutal discipline. No drift. No narrative chase. No price intoxication.
-
-Velocity matters. 
-Cash matters. 
-Discipline decides.
+ Velocity matters. Cash matters. Discipline decides.
 
 ---
 
@@ -258,13 +246,7 @@ LPs allocate to authority.
 Authority flows from architecture.
 
 A deep‑liquidity architecture is the ultimate authority.
-
-Control design. 
-Control liquidity. 
-Control assets. 
-Control flow. 
-Control acquisition. 
-Control delta.
+ Control design. Control liquidity. Control assets.  Control flow. Control acquisition. Control delta.
 
 Fund‑III becomes inevitable.
 

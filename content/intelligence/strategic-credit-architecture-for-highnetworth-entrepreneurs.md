@@ -47,12 +47,7 @@ They stay because we deliver predictability.
 The modern investment landscape rewards timing more than raw capital. 
 
 A sophisticated entrepreneur with liquidity on command can enter situations where most capital players hesitate. 
-
-Private deals. 
-
-Distressed buys. 
-
-Strategic acquisitions. 
+ Private deals. Distressed buys. Strategic acquisitions. 
 
 Silent partnerships. 
 

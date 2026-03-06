@@ -3,7 +3,7 @@ title: "Institutional Standards for Private Liquidity Engineering Agreements: Th
 description: "A technical briefing on institutional-grade Monetization Architecture structures, balance sheet optimization protocols, and the Roials Capital alignment architecture for Fund-III environments, Asset-Based Lending mandates, and capital acquisition workflows across North America and Europe."
 date: "2023-07-28"
 author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "institutional-liquidity-engineering-standards-roials-capital-framework"
+slug: "institutional-liquidity-engineering-standards-ROIALS CAPITAL-framework"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Institutional Liquidity Paths, asset hardening, NAEO"
 ---
 

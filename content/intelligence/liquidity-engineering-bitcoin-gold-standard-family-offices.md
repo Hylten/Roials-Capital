@@ -48,10 +48,7 @@ The engineering process:
 5. Embed institutional protections: multi-sig governance, insolvency isolation, jurisdictional fail-safes. 
 6. Deploy. Adjust. Re-collateralize. Expand.
 
-Machine gun syntax: 
-Move fast. 
-Cut noise. 
-Build hard. 
+Machine gun syntax:  Move fast. Cut noise. Build hard. 
 Protect core. 
 Scale up.
 
@@ -144,10 +141,7 @@ Allocation flows:
 • Energy assets → Private credit → Add-ons 
 • EU targets → Structured acquisition facilities → Expansion arbitrage 
 
-Machine gun syntax: 
-Build scale. 
-Crush inefficiency. 
-Acquire strategically. 
+Machine gun syntax:  Build scale. Crush inefficiency. Acquire strategically. 
 Optimize relentlessly. 
 Exit only when ready.
 

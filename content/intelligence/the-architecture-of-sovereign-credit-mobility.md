@@ -83,8 +83,7 @@ Pre-negotiated corridors that activate on command.
 
 When all three layers align, the principal is sovereign.
 
-Not because of wealth. 
-Because of posture.
+of posture.
 
  
 ## 12. Multi-Generational Continuity

@@ -195,11 +195,7 @@ This distinction matters for HNWI and UHNW portfolios that are increasingly weig
 
 In private credit, liquidity is often the most powerful return driver. 
 
-Not the yield. 
-
-Not the collateral. 
-
-The liquidity. 
+Not the yield. Not the collateral. The liquidity. 
 
 When liquidity is engineered with control, it becomes a strategic asset that compounds opportunity. 
 

@@ -39,10 +39,7 @@ The deal machine has oxygen again.
 3. THE RETURN OF REAL EARNINGS POWER  
 The strongest operators have separated from the herd. The market can now differentiate signal from noise with brutal precision. When earnings clarity rises, transactions accelerate.
 
-Deal teams no longer spend nine months debating adjusted EBITDA definitions.  
-They see.  
-They price.  
-They move.
+Deal teams no longer spend nine months debating adjusted EBITDA definitions.   They see. They price. They move.
 
 4. INDUSTRIAL BUYOUTS HAVE BECOME CLOCKWORK  
 This is the hidden architecture no mainstream analyst has captured: European industrial families and North American owner‑operators have aligned their timelines. They prepare succession the same way. They document the same way. They negotiate the same way.
@@ -94,7 +91,7 @@ The future will require this.
 
 ---
 
-THE ROIALS-CAPITAL POSITION  
+THE ROIALS CAPITAL POSITION  
 We sit where institutional flows converge.  
 Capital raising.  
 Private credit structuring.  

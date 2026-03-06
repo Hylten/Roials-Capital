@@ -40,10 +40,7 @@ Fund-III solves the trap through transnational collateral engineering.
 Not theory. Execution.
 
 Machine gun syntax. Facts only.
-
-Collateral moves. 
-Capital follows. 
-Acquisitions compound. 
+ Collateral moves. Capital follows. Acquisitions compound. 
 Jurisdiction bends. 
 Value scales.
 

@@ -15,10 +15,7 @@ It is a covenant.
 A principal does not chase markets. 
 A principal governs them.
 
-The mandate is simple. 
-Preserve authority. 
-Compound strength. 
-Avoid noise.
+The mandate is simple.  Preserve authority. Compound strength. Avoid noise.
 
 This document outlines the structural architecture behind ROIALS CAPITAL’s deployment doctrine. 
 It is designed for institutional readers who treat capital as stewardship, not spectacle.
@@ -242,10 +239,7 @@ The mandate of discrete capital deployment is clear.
 This is how capital survives. 
 This is how capital strengthens. 
 This is how capital fulfills its purpose.
-
-No noise. 
-No dilution. 
-Only mandate.
+ No noise. No dilution. Only mandate.
 
 ---
 

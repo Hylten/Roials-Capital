@@ -200,10 +200,7 @@ The market responds to it.
 ## THE FUTURE: 2026 VINTAGE DOMINANCE  
 The funds that will define 2026–2031 are not chasing glamour.  
 They are building empires of absorption.
-
-Ten deals.  
-Twenty deals.  
-Forty deals.  
+ Ten deals. Twenty deals. Forty deals.  
 Add‑on after add‑on until the platform becomes a sovereign force with gravity strong enough to bend the industry around it.
 
 You do not compete at that level.  

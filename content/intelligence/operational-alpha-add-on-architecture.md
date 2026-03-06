@@ -99,9 +99,7 @@ This is the frontier.
 *
 
 Machine-gun series:  
-Build the backbone.  
-Strengthen the organism.  
-Clarify governance.  
+Build the backbone. Strengthen the organism. Clarify governance.  
 Enforce discipline.  
 Scale with intent.
 
@@ -138,7 +136,7 @@ Our mandate:
 • Selective use of Asset-Based Lending when necessary.  
 • Direct execution of special mandates in North American energy and EU MiFID II corridors.
 
-Strict note: When discussing Asset-Based Lending, qualification gates apply. Minimum facility exposure begins at $2M for direct structures and escalates to $5M for multi-asset or cross-border configurations.
+Strict When discussing Asset-Based Lending, qualification gates apply. Minimum facility exposure begins at $2M for direct structures and escalates to $5M for multi-asset or cross-border configurations.
 
 We do not dilute standards. We enforce them. Because scarcity drives respect, and respect drives commitments.
 

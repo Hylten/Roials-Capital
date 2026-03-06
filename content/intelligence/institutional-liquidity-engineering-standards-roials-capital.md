@@ -3,7 +3,7 @@ title: "Institutional Standards for Private Liquidity Engineering Agreements"
 description: "ROIALS CAPITAL’s sovereign-grade framework governing Institutional Liquidity Paths, Fund-III capital formation, private credit structuring, and cross‑jurisdictional institutional mandates."
 date: "2025-01-20"
 author: "ROIALS CAPITAL"
-slug: "institutional-liquidity-engineering-standards-roials-capital"
+slug: "institutional-liquidity-engineering-standards-ROIALS CAPITAL"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"
 ---
 
@@ -173,10 +173,7 @@ ROIALS CAPITAL treats every agreement through a sovereign lens. A sovereign lens
 • Strategic optionality 
 This lens converts Capital Structuring from a transactional tool into a continuity tool. It ensures the fund’s survival across cycles.
 
-Machine‑gun syntax. 
-Hard rules. 
-No drift. 
-No noise. 
+Machine‑gun syntax.  Hard rules. No drift. No noise. 
 Only architecture.
 
 IX. Narrative Control 

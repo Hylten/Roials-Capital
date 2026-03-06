@@ -190,12 +190,7 @@ Valuation delays.
 Jurisdictional friction. 
 
 ### Private equity
-
-Opaque valuation. 
-
-High volatility. 
-
-Minimal liquidity. 
+ Opaque valuation. High volatility. Minimal liquidity. 
 
 ### Public equities
 

@@ -167,7 +167,7 @@ This is the long-cycle advantage. Structural alpha persists across multiple vint
 
 ---
 
-THE ROIALS-CAPITAL SIGNAL
+THE ROIALS CAPITAL SIGNAL
 
 Signal strength matters. Institutional LPs respond to signal clarity, not noise. ROIALS CAPITAL transmits a triad:
 

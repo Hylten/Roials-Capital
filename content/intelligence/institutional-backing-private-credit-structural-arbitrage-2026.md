@@ -100,8 +100,7 @@ ALLOCATOR DECISION FRAMEWORK AND STRATEGIC CALIBRATION
 
 Private credit in 2026 is no longer defined by opportunistic yield. It is structured around capital stability, operational intelligence, and partnership credibility. Institutional backing is the differentiator because it replaces the volatility of short-cycle capital with the stability required for multi-year resource development.
 
-Allocators evaluating private credit opportunities across traditional middle market portfolios, energy-backed structures, asset-based lending, or special mandates must consider: 
-• Counterparty governance maturity 
+Allocators evaluating private credit opportunities across traditional middle market portfolios, energy-backed structures, asset-based lending, or special mandates must • Counterparty governance maturity 
 • Balance sheet optimization capabilities 
 • Asset Hardening potential 
 • Capital Structuring mechanisms 

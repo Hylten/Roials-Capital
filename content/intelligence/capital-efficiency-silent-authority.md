@@ -59,7 +59,7 @@ Most companies run waterfalls as if they were compliance tools. The disciplined 
 Efficiency is a function of pressure. Control the waterfall and you control velocity.
 
 Recovery Factors 
-Collateral quality is not moral. It is mathematical. Recovery factors dictate whether the institution can borrow silently without diluting governance. Functional recovery sits between 38 percent and 82 percent depending on asset class. Hard energy assets sit higher. Intangible positions sit lower. The goal is simple. Consolidate the recovery factor profile. Reduce variance. Increase borrowable mass.
+Collateral quality is not moral. Recovery factors dictate whether the institution can borrow silently without diluting governance. Functional recovery sits between 38 percent and 82 percent depending on asset class. Hard energy assets sit higher. Intangible positions sit lower. The goal is simple. Consolidate the recovery factor profile. Reduce variance. Increase borrowable mass.
 
 Silent Authority Mechanics 
 Silent authority is the unspoken leverage built through collateral that never appears in the operational arena. It enables:

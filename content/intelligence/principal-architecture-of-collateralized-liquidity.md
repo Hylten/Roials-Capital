@@ -22,10 +22,7 @@ This is why the majority of funds operate reactively. They search for liquidity 
 
 A Principal designs liquidity before the deal exists. A Principal designs the pressure-release valves, the cross-collateral options, the jurisdictional backstops, and the sequencing logic months before the asset enters LOI. This is what GPs consistently miss. The capital is not raised in the boardroom. The capital is raised in the architecture.
 
-Machine gun sentence.  
-Structure wins.  
-Design governs.  
-Liquidity obeys.
+Machine gun sentence.   Structure wins. Design governs. Liquidity obeys.
 
 The institutional audience understands this implicitly, but few articulate it explicitly. The top decile of LP committees read structure like auditors read ledgers. They look for the friction points. Intercreditor complexity. Cashflow timing asymmetry. Unhedged jurisdictional exposure. They watch for signs of operational naivety disguised as entrepreneurial confidence. They have seen the movie. They know the ending.
 
@@ -123,10 +120,7 @@ These mandates require sovereign handling because they sit in sectors where regu
 
 Everything ladders to one principle: sovereignty through structure.
 
-Machine gun again.  
-No chaos.  
-No improvisation.  
-No disorder.
+Machine gun again.   No chaos. No improvisation. No disorder.
 
 The Principal does not chase capital.  
 Capital arrives.

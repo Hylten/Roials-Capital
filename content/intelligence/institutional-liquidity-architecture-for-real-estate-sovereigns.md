@@ -35,10 +35,7 @@ They require:
 • Market independent liquidity options. 
 • Tiered capital velocity. 
 
-The objective is always the same. 
-Maintain sovereignty. 
-Maintain movement. 
-Maintain advantage. 
+The objective is always the same.  Maintain sovereignty. Maintain movement. Maintain advantage. 
 
 The challenge is always the same. 
 Traditional systems were not built for sovereign workloads. 

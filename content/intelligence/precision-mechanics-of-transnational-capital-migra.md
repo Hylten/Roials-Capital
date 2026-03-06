@@ -44,10 +44,7 @@ Every allocation must strengthen the house, not expose it.
 
 ## Closing Position
 
-Capital migration is precision. 
-Not sentiment. 
-Not trend. 
-Not commentary.
+Capital migration is precision.  Not sentiment. Not trend. Not commentary.
 
 The world is reordering. 
 Jurisdictions are revealing their true nature. 

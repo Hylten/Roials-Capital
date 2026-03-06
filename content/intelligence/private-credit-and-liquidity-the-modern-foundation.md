@@ -141,12 +141,7 @@ It is about controlling the calendar.
 At the institutional level, liquidity determines strategic freedom.
 
 Private credit allows institutions to deploy capital with long term conviction while maintaining predictable cash inflows.
-
-Interest payments.
-
-Contractual amortizations.
-
-Refinancing events.
+ Interest payments. Contractual amortizations. Refinancing events.
 
 These recurring inflows stabilize the broader balance sheet and allow allocators to expand into additional strategies without increasing systemic fragility.
 
@@ -285,12 +280,7 @@ It is a function of the lender's ability to move faster and with more precision 
 Private credit is not a niche strategy.
 
 It is a core allocation for institutions that require:
-
-Yield stability.
-
-Capital predictability.
-
-Structural liquidity.
+ Yield stability. Capital predictability. Structural liquidity.
 
 It offers return consistency that equities cannot match.
 

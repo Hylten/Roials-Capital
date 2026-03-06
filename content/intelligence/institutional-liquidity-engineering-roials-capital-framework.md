@@ -3,7 +3,7 @@ title: "Institutional Standards for Private Liquidity Engineering Agreements: Th
 description: "A technical analyst briefing for institutional allocators evaluating Institutional Liquidity Paths structures, capital stack optimization, and private credit alignment within the Roials Capital Framework."
 date: "2024-07-10"
 author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "institutional-liquidity-engineering-roials-capital-framework"
+slug: "institutional-liquidity-engineering-ROIALS CAPITAL-framework"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Strategic Collateralization, asset hardening, NAEO"
 ---
 

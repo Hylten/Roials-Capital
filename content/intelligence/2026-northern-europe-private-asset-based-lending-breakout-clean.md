@@ -14,8 +14,6 @@ Northern Europe just became the most strategically asymmetrical lending environm
 
 That is the heart of the matter.
 
-Phase shifts are never declared. They are discovered.
-
 This is one of those years.
 
 Three truths.
@@ -25,8 +23,6 @@ Markets mispriced risk.
 Banks misread cycles.
 
 Industry needs capital.
-
-The breakout begins there.
 
 ---
 
@@ -48,19 +44,9 @@ The result is predictable: a record number of mid-market operators across manufa
 
 This is why private Asset-Based Lending enters its breakout year.
 
-Not because of hype.
+of failure in the incumbent model.
 
-Because of failure in the incumbent model.
-
-Precision matters.
-
-Banks lend on policy.
-
-Principals lend on assets.
-
-Policy is slow.
-
-Assets are real.
+Precision matters: banks lend on policy, principals lend on assets. Policy is slow; assets are real.
 
 The gap is widening by the quarter.
 
@@ -100,13 +86,7 @@ These forces converge into the same conclusion: private lenders with institution
 
 Northern Europe has always produced disciplined operators but conservative financiers. That mismatch has suppressed deal velocity for a decade. Now the operators still stand, but the conservative financiers have stepped back. Precisely the inversion needed for private Asset-Based Lending to become the central engine of mid-market expansion.
 
-You will see stronger yields.
-
-You will see better collateral.
-
-You will see cleaner covenants.
-
-You will see less competition.
+You will see stronger yields, better collateral, cleaner covenants, and less competition.
 
 This is the moment.
 
@@ -174,8 +154,6 @@ The sponsors must execute.
 
 You now understand why 2026 becomes the breakout year.
 
-It is mathematical.
-
 ---
 
 ## Capital-Raising Implications for Fund-III
@@ -194,11 +172,11 @@ This attracts institutional LPs who want stable middle-market yield with robust 
 
 ## Qualification Architecture
 
-ROIALS CAPITAL maintains strict entry thresholds for private Asset-Based Lending partnerships. The structural requirement is non-negotiable.
+ROIALS CAPITAL maintains strict entry thresholds for private Asset-Based Lending partnerships. Structural requirements are foundational.
 
 Asset-Based Lending partnerships initiate at the $2M deployment threshold. Comprehensive cross-border structures require the $5M capital floor.
 
-Below these thresholds, the platform does not accept transactions. Exclusivity protects all participants. By maintaining structural gates, we ensure that only qualified operators and institutional-grade capital enter the mechanism.
+Below these thresholds, the platform does not accept transactions. Exclusivity structures protect all parties. By maintaining structural gates, we ensure that only qualified operators and institutional-grade capital enter the mechanism.
 
 ---
 

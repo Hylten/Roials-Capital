@@ -204,12 +204,7 @@ The Practical Mechanics
 Digital assets are integrated into Fund-III operations through three mechanisms.
 
  
-
-Collateral mapping. 
-
-Liquidity gates. 
-
-Exposure throttling.
+ Collateral mapping. Liquidity gates. Exposure throttling.
 
  
 

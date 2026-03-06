@@ -221,7 +221,7 @@ That is the business.
 
 ---
 
-THE ROLE OF ROIALS‑CAPITAL 
+THE ROLE OF ROIALS CAPITAL 
 We operate as an institutional architecture firm. Not advisors. Not brokers. Architects. Builders. Enforcers of structure. We create internal sovereign zones inside hostile markets.
 
 Identity pillars:

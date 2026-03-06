@@ -104,10 +104,7 @@ Across all special mandates: control, clarity, compression. If the structure is 
 --------- 
 
 Now the spine tightens. Machine‑gun precision. No fillers.
-
-Control first. 
-Cash second. 
-Jurisdiction third. 
+ Control first. Cash second. Jurisdiction third. 
 Scale fourth. 
 Irreversibility always.
 

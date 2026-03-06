@@ -95,9 +95,7 @@ ROIALS CAPITAL specializes in this domain.
 Asset-Based Lending at the elite level is not merely collateralization. 
 It is a full structural engineering exercise.
 
-We consider:
-
-• Asset volatility profiles. 
+We • Asset volatility profiles. 
 • Custodial environments. 
 • Liquidation pathways. 
 • Counterparty governance. 
@@ -263,10 +261,7 @@ Silent authority is not a marketing position.
 It is the operational reality.
 
 ## Strategic Liquidity for a Multi-Asset Future
-
-Markets evolve. 
-Assets diversify. 
-Volatility expands. 
+ Markets evolve. Assets diversify. Volatility expands. 
 Jurisdictions shift.
 
 Institutional Asset-Based Lending becomes the constant.

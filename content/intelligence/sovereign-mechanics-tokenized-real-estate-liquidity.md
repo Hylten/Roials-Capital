@@ -146,14 +146,7 @@ It is not a new asset class. It is a liquidity modality. An institutional instru
 The mechanic that matters most is not the token. It is the timestamp. When rights transfer. When claims settle. When capital clears. Faster timestamps equal higher IRR potential. Fund-III demands timestamp discipline. Tokenized structures deliver it.
 
 Machine gun sequence. Short lines. Hard frames.
-
-Value moves. 
-Jurisdiction binds. 
-Structure wins. 
-Tokens enable. 
-Liquidity emerges. 
-
-Not theory. Mechanics.
+ Value moves. Jurisdiction binds. Structure wins.  Tokens enable. Liquidity emerges. Not theory. Mechanics.
 
 ---
 

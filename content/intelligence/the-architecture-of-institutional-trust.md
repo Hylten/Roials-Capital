@@ -108,10 +108,7 @@ Rules define the shape of interaction. Boundaries define the speed and precision
 In institutional Strategic Collateralization, rules function as architecture. 
 
 Collateral thresholds. 
-Risk tolerance criteria. 
-Liquidity ratios. 
-Timing conventions. 
-Settlement discipline. 
+Risk tolerance criteria.  Liquidity ratios. Timing conventions. Settlement discipline. 
 
 These are not constraints. They are the load bearing pillars of institutional relationships. 
 
@@ -215,10 +212,7 @@ Wealth rewards those who respect the mechanics of capital.
 
 Opportunistic Capital Structuring may appear appealing, but it cannot form the backbone of institutional trust. Architecture can. 
 
-Roials Capital builds architecture. 
-Every rule. 
-Every threshold. 
-Every structure. 
+Roials Capital builds architecture.  Every rule. Every threshold. Every structure. 
 It all exists to create predictability and reduce fragility. 
 
 Our clients rely on that predictability. 

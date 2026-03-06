@@ -148,7 +148,7 @@ This is the paradox: yield creates stability, and stability accelerates return v
 
 ---
 
-HOW ROIALS-CAPITAL HARDENS YIELD IN FUND‑III SYSTEMS
+HOW ROIALS CAPITAL HARDENS YIELD IN FUND‑III SYSTEMS
 
 Our method is structural. Heavy. Intentional. No guesswork. No cosmetic reengineering. Every mandate begins with three moves:
 

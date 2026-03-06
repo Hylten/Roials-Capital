@@ -25,9 +25,7 @@ And the truth is simple: Fund‑III+ managers are expected to prove they can gen
 Three forces drive this.
 
 • The first is actuarial compression.  
-Long-horizon capital cannot meet its liabilities if it tolerates low unlevered footholds. The institution is not emotional. It is mathematical.
-
-• The second is a macro decoupling.  
+Long-horizon capital cannot meet its liabilities if it tolerates low unlevered footholds. The institution is not emotional. • The second is a macro decoupling.  
 Interest environments shifted. Liquidity cycles normalized. The “easy leverage era” is over. LPs know it. GPs know it. The models know it.
 
 • The third is a governance reform.  
@@ -62,8 +60,7 @@ They want sovereignty in the numbers.
 ---
 
 THE REASON THEY PUSH HARDER  
-Not because they overreach.  
-Because they finally understand the real separation.
+they finally understand the real separation.
 
 A GP capable of producing strong unlevered gains in Fund‑III+ is a GP capable of producing sovereign gains in perpetuity. It demonstrates mastery of the levers that endure across cycles: margin architecture, cost decoupling, operational reconfiguration, multi‑jurisdictional M&A, disciplined pricing power, non‑correlated value creation.
 

@@ -292,9 +292,7 @@ Nothing less.
 
 Decentralized private credit is becoming the new frontier for institutional liquidity. 
 
-Not because it disrupts traditional systems. 
-
-Because it completes them. 
+it completes them. 
 
 Banks provide scale. 
 

@@ -246,10 +246,7 @@ Family offices, state actors, and multi generational capital operate on one prin
 Loss aversion is not fear, it is discipline.
 
 Risk governance requires:
-
-Clear collateral. 
-Clear terms. 
-Clear horizon. 
+ Clear collateral. Clear terms. Clear horizon. 
 
 The objective is not to avoid risk. 
 The objective is to deploy risk with surgical clarity.

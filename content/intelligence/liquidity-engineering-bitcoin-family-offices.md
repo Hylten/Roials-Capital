@@ -72,9 +72,7 @@ PHASE 5: PORTFOLIO CALIBRATION LENS FOR THE ALLOCATOR
 
 Institutional allocators who operate across private markets now face a multi dimensional constraint set. Leverage costs are higher. Deal pacing is slower. Regulatory friction is expanding. Traditional collateral is static. Bitcoin functions as a dynamic reserve instrument that improves liquidity throughput, enhances credit optionality, and stabilizes balance sheet architecture during periods of macro compression.
 
-The allocator evaluating their next stage of capital deployment must consider:
-
-- Whether existing reserves are optimized for cross border settlement.
+The allocator evaluating their next stage of capital deployment must - Whether existing reserves are optimized for cross border settlement.
 - Whether Fund-III pacing can be maintained under current liquidity constraints.
 - Whether asset backed lending structures require reserve enhancement.
 - Whether digital reserve assets can neutralize liquidity timing risk.

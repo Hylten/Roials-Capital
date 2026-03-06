@@ -135,7 +135,7 @@ Capital Migration Drivers:
 
 The doctrine is simple. Capital flows to strength. Strength is engineered.
 
-THE ROIALS-CAPITAL POSITIONING 
+THE ROIALS CAPITAL POSITIONING 
 ROIALS CAPITAL functions as a sovereign-adjacent architecture. Precision. Density. Control. Cross-border mastery. No noise. No drift. Only mechanics.
 
 Velocity from buyouts. 

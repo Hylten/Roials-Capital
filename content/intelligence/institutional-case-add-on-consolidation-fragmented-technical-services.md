@@ -97,10 +97,7 @@ Clear. Final. No persuasion. Only architecture.
 You build a platform because the market will not build one for you. You consolidate because the industry refuses to organize itself. You acquire add‑ons because fragmentation is free alpha.
 
 If a GP hesitates, another GP takes the territory.
-
-Speed matters.  
-Discipline matters.  
-Sequence matters.
+ Speed matters. Discipline matters. Sequence matters.
 
 The buyout is the governance event.  
 The add‑on is the value event.

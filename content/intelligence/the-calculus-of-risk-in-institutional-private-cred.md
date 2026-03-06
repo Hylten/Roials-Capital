@@ -43,10 +43,7 @@ They escalate communication.
 They stabilize operations.
 
 Weak borrowers do the opposite.
-
-They delay. 
-They withhold. 
-They obscure.
+ They delay. They withhold. They obscure.
 
 This distinction determines who receives institutional capital in the future.
 
@@ -131,10 +128,7 @@ Not as a vendor.
 Not as a service provider.
 
 The mandate is simple.
-
-Preserve capital. 
-Strengthen collateral. 
-Accelerate execution.
+ Preserve capital. Strengthen collateral. Accelerate execution.
 
 The firm operates on Christian conservative stewardship principles.
 

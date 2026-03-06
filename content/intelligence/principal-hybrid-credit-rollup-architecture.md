@@ -18,10 +18,7 @@ Asset-Based Lending enters only for one purpose: convert operational assets into
 Mezzanine hybrids carry the acceleration mandate. Non-controlling. Covenant-light. Designed to sit in the interstice between bank rigidity and equity dilution. They do not compete with senior credit. They weaponize it.
 
 Machine gun logic.
-
-Separate stacks.  
-Fuse mandates.  
-Drive consolidation.
+ Separate stacks. Fuse mandates. Drive consolidation.
 
 Fund-III roll-ups require three corridors of liquidity.
 
@@ -41,9 +38,6 @@ No drift. No hesitation.
 
 Private Credit Structuring is the hidden engine of competitive advantage. When others file diligence memos, you close. When others wait for audited alignment, you consolidate the target. When their capital arrives, your thesis is already baked into EBITDA.
 
-Conviction point:  
-Speed wins.  
-Structure protects.  
-Principals capture.
+Conviction point:   Speed wins. Structure protects. Principals capture.
 
 Confidential capital audit ready on request.

@@ -69,18 +69,13 @@ Vector Three: Counterparty Time Decay
 Counterparties erode. Cash cycles slow. Decision-making stalls. This decay is structural. In private credit, performance decay is not always visible. It shows up in lags. Missed metrics. Deferred reporting. Slippage in operational cadence.
 
 Time decay is a function of three drivers:
-
-Information latency. 
-Management bandwidth. 
-Incentive drift.
+ Information latency. Management bandwidth. Incentive drift.
 
 As reporting slows, risk accelerates. Counterparty decay is the most dangerous form of risk because it masquerades as operational noise. Without detection algorithms and covenant-linked telemetry, Fund-III faces silent deterioration.
 
 Machine gun lines:
 
-Decay is silent. 
-Decay is systemic. 
-Decay compounds. 
+Decay is silent. Decay is systemic. Decay compounds. 
 Decay destroys certainty. 
 
 Institutional allocators expect counterparty decay modeling. Operators that fail to model decay lose pricing power and increase default probability.
@@ -94,10 +89,7 @@ Collateral is not static. Collateral is a dynamic system. Hardening occurs when 
 Collateral hardening multiplies recovery predictability. It converts uncertain assets into deterministic assets. This is the differentiator between commodity credit managers and institutional builders.
 
 Hardening requires:
-
-Asset telemetry. 
-Cycle analysis. 
-Maintenance linkage. 
+ Asset telemetry. Cycle analysis. Maintenance linkage. 
 Operational visibility. 
 Disposition strategy. 
 
@@ -127,10 +119,7 @@ Fund-III must demonstrate heightened predictability architecture. The gradient m
 The Risk Engine of Institutional Private Credit
 
 The calculus of risk is the architecture of the fund. The engine must show:
-
-Risk segmentation. 
-Risk compression. 
-Risk transfer. 
+ Risk segmentation. Risk compression. Risk transfer. 
 Risk monetization. 
 
 Risk segmentation identifies the torque points. Risk compression reduces exposure. Risk transfer moves unwanted stress. Risk monetization converts volatility into return.
@@ -146,10 +135,7 @@ The principal objective of Fund-III is to prove sovereignty of engine design.
 Capital Raising in the Fund-III Epoch
 
 Kapitalanskaffning for Fund-III requires precision alignment with three institutional expectations:
-
-Outcome dominance. 
-Process transparency. 
-Time discipline. 
+ Outcome dominance. Process transparency. Time discipline. 
 
 Outcome dominance shows the LP that results are engineered. Not probabilistic. Not dependent on weather cycles or policy drift.
 
