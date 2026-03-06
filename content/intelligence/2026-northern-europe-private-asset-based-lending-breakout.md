@@ -14,9 +14,11 @@ Northern Europe just became the most strategically asymmetrical lending environm
 
 Phase shifts are never declared. They are discovered. This is one of those years.
 
-Machine-gun clarity. Three truths.
+Three truths:
 
-Markets mispriced risk. Banks misread cycles. Industry needs capital.
+- Markets mispriced risk.
+- Banks misread cycles.
+- Industry needs capital.
 
 The breakout begins there.
 
