@@ -2,13 +2,11 @@
 title: "Principal Memorandum on Institutional Pull Toward Hybrid Buyout Architectures"
 description: "Institutional LP demand is shifting toward hybrid buyout constructs that fuse direct control, secured credit tranches, and additive yield layers within Fund‑III scale mandates."
 date: "2026-03-05"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "institutional-lp-demand-hybrid-buyout-structures"
 ---
 
-Internal logic first. Vault closed. No ornament.
-
-Higher‑for‑longer changed the cadence. LPs want shape, not stories. They want precision on control, clarity on downside, and a defined glidepath to cash generation. Hybrid buyout structures answer the demand. Hard edges. Clean math. Direct attribution.
+Higher-for-longer changed the cadence. LPs want shape, not stories. They want precision on control, clarity on downside, and a defined glidepath to cash generation. Hybrid buyout structures answer the demand. Hard edges. Clean math. Direct attribution.
 
 Three forces drive the pull.
 

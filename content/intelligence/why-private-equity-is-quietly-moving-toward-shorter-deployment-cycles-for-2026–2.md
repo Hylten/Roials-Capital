@@ -17,9 +17,7 @@ PE must adapt. And it is adapting.
 
 What follows is not speculation. It is architecture.
 
-PHASE 1: INTERNAL LOGIC  
-WHY DEPLOYMENT CYCLES ARE CONTRACTING  
-Confidential enumeration. Senior eyes only.
+## Why Deployment Cycles Are Contracting
 
 1. THE PRESSURE FROM MULTI-VINTAGE STACKING  
 The post‑COVID era created an artificial sequencing distortion. Too many vintages raised too quickly. Too many vehicles sitting on similar mandates. LPs tolerated it briefly. They do not tolerate it now.

@@ -2,7 +2,7 @@
 title: "The Principal’s Position on NAEOC‑Scale Energy Transition Buyouts"
 description: "A private capital briefing on why $50M–$250M energy-transition control deals are re‑magnetizing infrastructure LPs and re‑opening the mid‑market for Fund‑III capital formation."
 date: "2026-03-05"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "naeoc-energy-transition-private-equity-re-entry"
 ---
 
@@ -11,13 +11,9 @@ Quietly. Predictably. Inevitably.
 
 Infrastructure LPs are returning to the mid‑market energy transition arena because the NAEOC band-fifty to two hundred fifty million-has become the last scale where a GP can still control the physics of value creation with precision. Above it, competition distorts price. Below it, fragmentation erodes institutional certainty. In the NAEOC range, the market remains rational. That is the entire point.
 
-This is the confidential briefing.
-
 ---
 
-PHASE ONE  
-INTERNAL LOGIC  
-Vault-Level Observations for the Principal Bench
+## The Structural Reality
 
 1. The global energy transition has now crossed the early‑clarity threshold  
 Once a sector becomes politically declared rather than economically emergent, distortions appear. Subsidies bloat asset values. Speculators chase incentives. LPs recoil.

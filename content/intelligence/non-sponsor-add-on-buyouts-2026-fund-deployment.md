@@ -2,7 +2,7 @@
 title: "Non‑Sponsor Add‑On Buyouts: The 2026 Deployment Engine For Serious Capital"
 description: "Deep institutional briefing on why non‑sponsor add‑on buyouts now represent the most efficient, velocity‑aligned deployment vector for 2026 vintage private equity funds, with implications for Fund‑III scaling, multi‑jurisdictional capital cycles, and principal‑grade acquisition architecture."
 date: "2026-03-05"
-author: "Roials‑Capital"
+author: "ROIALS CAPITAL"
 slug: "non-sponsor-add-on-buyouts-2026-fund-deployment"
 ---
 
@@ -15,8 +15,7 @@ And the principals move before the capital.
 
 ---
 
-## INTERNAL LOGIC (PHASE 1)  
-Confidential. Vault briefing. Principal level.
+## Strategic Deployment Velocity
 
 The first truth: deployment velocity governs survival. Not returns. Not IRR mythology. Deployment. Put capital to work with intelligence, precision, and jurisdictional control, and the entire vertical stabilizes. Fail, and the fund decays before the first harvest is complete.
 

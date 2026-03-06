@@ -2,7 +2,7 @@
 title: "The Institutional Case for Add‑On Consolidation in Fragmented Technical Services"
 description: "A principal-level, closed‑room analysis on consolidation economics, jurisdictional positioning, and capital architecture for Fund‑III buyouts and technical‑services roll‑ups."
 date: "2026-03-05"
-author: "Roials‑Capital"
+author: "ROIALS CAPITAL"
 slug: "institutional-case-add-on-consolidation-fragmented-technical-services"
 ---
 
@@ -10,10 +10,9 @@ The center of gravity in technical services is shifting. Fragmented markets are 
 
 Control the perimeter. Control the outcome.
 
-I begin with the internal logic first. Not an explanation. A declaration.
+---
 
-PHASE 1. INTERNAL LOGIC  
-Confidential. Vault briefing. Closed door.
+## The Operational Architecture
 
 Most technical-services verticals-HVAC, industrial maintenance, fire & life safety, metering technologies, specialized testing, pipeline integrity, marine industrials, and heavy‑equipment field support-are structurally identical beneath the debris of local variance. Surface chaos. Underlying order. Predictable cash‑flow trajectories.
 

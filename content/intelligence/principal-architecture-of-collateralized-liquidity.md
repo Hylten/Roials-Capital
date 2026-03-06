@@ -2,7 +2,7 @@
 title: "The Principal Architecture of Collateralized Liquidity"
 description: "A private-capital briefing on the structural mechanics of collateralized liquidity, private credit intelligence, and Asset-Based Lending thresholds for institutional execution."
 date: "2026-03-05"
-author: "Roials-Capital"
+author: "ROIALS CAPITAL"
 slug: "principal-architecture-of-collateralized-liquidity"
 ---
 
@@ -10,9 +10,9 @@ The sovereign machinery begins with a simple assertion: capital obeys structure,
 
 Collateralized liquidity is not a tactic. It is not a product. It is not a box on a term sheet. It is an operating doctrine for those who intend to command capital rather than request it. Roials-Capital operates under this doctrine because nothing else produces reliability at scale across jurisdictions, regulatory regimes, and variable economic climates.
 
-Three words define the internal posture: Precision. Discipline. Hierarchy. We do not deviate.
+Three words define the institutional posture: Precision. Discipline. Hierarchy.
 
-Phase 1: Internal Logic. Confidential, principal-to-principal.
+## Liquidity Architecture Fundamentals
 
 Capital raising for Fund-III and beyond demands a mechanical fluency that exceeds traditional private equity playbooks. Most GPs understand underwriting. Many understand portfolio operations. Very few grasp the third dimension: liquidity architecture. And that third dimension is the territory in which Roials-Capital operates with strategic dominance.
 
