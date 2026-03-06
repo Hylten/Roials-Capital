@@ -1,4 +1,11 @@
 ---
+title: "Why Private Equity Is Quietly Moving Toward Shorter Deployment Cycles for 2026"
+description: "PE deployment cycles are compressing as inefficiencies collapse and multi-vintage stacking pressure intensifies."
+date: "2025-12-14"
+author: "ROIALS CAPITAL"
+slug: "why-pe-shorter-deployment-cycles-2026"
+---
+
 THE STRUCTURAL TRUTH  
 Cycles compress when inefficiencies die.  
 And many have died.  
@@ -9,8 +16,6 @@ Cheap liquidity: gone.
 PE must adapt. And it is adapting.
 
 What follows is not speculation. It is architecture.
-
----
 
 PHASE 1: INTERNAL LOGIC  
 WHY DEPLOYMENT CYCLES ARE CONTRACTING  

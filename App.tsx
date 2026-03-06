@@ -31,6 +31,25 @@ const App: React.FC = () => {
 
   // Initial Logic
   useEffect(() => {
+    // GitHub Pages SPA redirect handling
+    const redirect = sessionStorage.redirect;
+    if (redirect) {
+      delete sessionStorage.redirect;
+      const redirectedPath = new URL(redirect).pathname;
+      
+      if (redirectedPath.startsWith('/intelligence')) {
+        const slug = redirectedPath.replace('/intelligence', '').replace(/^\/|\/$/g, '');
+        if (slug) {
+          setIntelligenceSlug(slug);
+        }
+        setCurrentView('home');
+        setAnimationComplete(true);
+        setIsRevealed(true);
+        window.history.replaceState({}, '', redirectedPath);
+        return;
+      }
+    }
+
     // Check for SEO Intelligence URLs
     const path = window.location.pathname;
     if (path.startsWith('/intelligence')) {
