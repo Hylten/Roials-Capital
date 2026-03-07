@@ -60,7 +60,6 @@ Add‑ons are where the children’s children are protected.
 ---
 
 ## WHY 2026 VINTAGE FUNDS ARE MOVING NOW  
-Three forces.  
 Hard forces.  
 Non‑negotiable.
 

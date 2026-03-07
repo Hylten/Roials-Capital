@@ -13,7 +13,8 @@ The capital vacuum in North America's energy sector is a consequence of regulato
 
 Global allocators that operate across Sweden, Luxembourg, Switzerland, Canada, and the United States now face a structural imperative: alignment is no longer a legal exercise, but a liquidity engineering framework that integrates regulatory harmonization, asset hardening mechanics, and capital stack precision. This institutional briefing establishes the architecture required for allocators to evaluate Fund-III stage buyouts, add ons, energy mandates, and structured liquidity facilities with Roials Capital as the strategic navigator.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The post 2020 capital regime is characterized by fragmentation across three spheres. 
 - European prudential constraints under MiFID II that push institutions toward regulated vehicles, long tenor assets, and controlled valuation methodologies. 
@@ -30,7 +31,8 @@ The result is a capital market environment where long lived, technically underst
 
 This divergence between reality and perception is the central foundation for multi jurisdictional structural alignment. It allows a European governed capital stack to be deployed into a North American physical asset base through a U.S. institutional bridge, delivering a cross border model with superior regulatory, operational, and collateral clarity.
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 Energy mechanics
 
@@ -59,7 +61,8 @@ When integrating these principles into a multi jurisdictional platform, three al
 
 This is where Roials Capital operates as the institutional navigator. The firm is not the asset owner and does not promote yields. It acts as the translator between jurisdictions, ensuring that allocators understand the mechanics before engaging with operators such as NAEO.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 A multi jurisdictional structure requires a neutral introducer whose mandate is alignment rather than distribution. Roials Capital occupies this position. The objective is not to raise capital into a predetermined vehicle. The objective is to map the allocator's institutional archetype to the correct structural setting. Four archetypes dominate Fund-III and energy mandates.
 

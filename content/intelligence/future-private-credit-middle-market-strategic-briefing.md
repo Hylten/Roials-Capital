@@ -31,9 +31,7 @@ These forces reinforce a multiyear reallocation trend. Private credit is enterin
 
 PHASE 2. TECHNICAL MECHANICS OF THE ASSET CLASS
 
-Middle market private credit is not monolithic. It is a mosaic of structural approaches, each defined by risk seniority, collateral intensity, and cash flow behavior. Three allocation corridors dominate institutional interest in the 2026 cycle.
-
-1. Fund-III Buyout and Add On Financing
+Middle market private credit is not monolithic. It is a mosaic of structural approaches, each defined by risk seniority, collateral intensity, and cash flow behavior. 1. Fund-III Buyout and Add On Financing
 
 Fund-III mandates are calibrated for disciplined sponsor led acquisitions. These structures benefit from clear governance, audited histories, and defined operational roadmaps. Technical factors include:
 
@@ -68,9 +66,7 @@ Our strategic partner, NAEO, focuses on conventional heavy oil operations with d
 
 PHASE 3. THE PARTNERSHIP MODEL
 
-Roials Capital operates as a strategic navigator and institutional introducer. The focus is structural alignment, not transaction placement. The objective is to reconcile allocator requirements with verifiable execution capabilities. Three principles define the partnership model.
-
-1. Ecosystem Intelligence. Institutional allocators require visibility across capital stacks, regulatory landscapes, and sector specific risk profiles. Roials Capital synthesizes operational intelligence across North America, Europe, and the Middle East, translating complex conditions into allocator appropriate frameworks.
+Roials Capital operates as a strategic navigator and institutional introducer. The focus is structural alignment, not transaction placement. The objective is to reconcile allocator requirements with verifiable execution capabilities. 1. Ecosystem Intelligence. Institutional allocators require visibility across capital stacks, regulatory landscapes, and sector specific risk profiles. Roials Capital synthesizes operational intelligence across North America, Europe, and the Middle East, translating complex conditions into allocator appropriate frameworks.
 
 2. Introducer Neutrality. Engagements do not involve solicitation, performance projection, or product representation. The role is strategic alignment. The objective is to ensure that LPs, GPs, and family offices understand how a specific manager or operator fits into their broader mandate.
 

@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liqu
 
 The capital vacuum in North America’s middle market credit system is not a consequence of borrower deterioration. It is the direct outcome of regulatory drift that has removed traditional lenders from segments where the risk was historically well-priced and operationally predictable. As liquidity exits the $25M to $350M corporate tranche, the provisioning gap expands into a structural arbitrage zone. Allocators with disciplined underwriting frameworks now observe a market where pricing power has shifted decisively to non-bank institutions, yet underwriting standards remain anchored in conservative cash flow analysis.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The post-2021 monetary cycle initiated a multi-year recalibration in credit availability. Bank participation in middle market lending declined as compliance burdens, stress testing, and capital reserve requirements shifted internal risk models upward. The withdrawal did not coincide with a decline in borrower fundamentals, particularly in industries with tangible collateral bases. Instead, it produced a structural misalignment between capital supply and operational demand.
 
@@ -24,7 +25,8 @@ Several characteristics define the current regime.
 
 This regime shift has created a stable, multi-year opportunity zone for capital providers capable of navigating covenant architecture, protecting seniority through structural design, and interfacing with sponsors who understand the long-term nature of disciplined capital partnerships.
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 Middle market private credit operates most efficiently where capital structures are engineered with precision. The ability to harden collateral, improve covenant rigidity, and integrate multi-layered protections defines institutional-grade execution. The following mechanics shape current structures across Fund-III buyouts, add-ons, and specialized mandates.
 
@@ -51,7 +53,8 @@ The presence of NAEO as a strategic partner in the North American energy domain 
 
 For European allocators governed under MiFID II, acquisition structures across the EU demand compliance-centered design, cross-border legal harmonization, and clear operational oversight. These mandates require specialized capital stack construction calibrated to both regulatory frameworks and regional industrial strategy.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital operates as a strategic navigator within this environment. The role is not asset management, but institutional alignment, intelligence integration, and introducer neutrality. Execution is centered on refining allocator decision paths and increasing precision in capital deployment.
 

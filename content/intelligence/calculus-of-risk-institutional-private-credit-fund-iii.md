@@ -60,7 +60,7 @@ Fund‑III is where LPs test whether a manager becomes permanent or fades. It is
 LPs expect four proofs:
 
 1. Multiplicity of capital channels 
-One channel is fragility. Two channels is competence. Three channels is institutional credentials. GPs must demonstrate ability to run term credit, Asset-Based Lending, structured liquidity, and opportunistic mandates in parallel without cross-contamination.
+One channel is fragility. Two channels is competence. GPs must demonstrate ability to run term credit, Asset-Based Lending, structured liquidity, and opportunistic mandates in parallel without cross-contamination.
 
 2. Counterparty diversification 
 LPs look for evidence that no single sponsor, originator, or sector can impair fund performance. Concentration kills velocity.

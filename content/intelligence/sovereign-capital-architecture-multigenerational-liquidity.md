@@ -17,7 +17,8 @@ The content is constructed for institutional LPs, family offices, and GP steward
 
 ---
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The private market environment entered a structural regime shift in 2022 when global rate normalization broke legacy valuation heuristics. The following dynamics now define the allocator landscape:
 
@@ -41,7 +42,8 @@ This regime shift is not cyclical. It is structural.
 
 ---
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 The Sovereign Capital Architecture is rooted in technical precision. Allocators must understand the underlying mechanics of the asset classes they engage. The following sections outline both the energy mechanics relevant to NAEO mandates and the financial mechanics relevant to Fund-III buyouts and special-situation capital solutions.
 
@@ -108,7 +110,8 @@ The mechanics are not theoretical. They define allocator performance across enti
 
 ---
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital functions as a strategic navigator, not an asset sponsor. The institutional mandate is threefold:
 

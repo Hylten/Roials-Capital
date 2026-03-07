@@ -13,7 +13,8 @@ The capital vacuum in North American and European middle market environments is 
 
 The technical objective for the high net worth entrepreneur is not to locate capital but to engineer eligibility. Eligibility is built by designing a balance sheet that communicates clearly to institutional lenders. Liquidity Engineering, Asset Hardening, and calibrated capitalization frameworks form the critical path. The modern entrepreneur requires a credit architecture, not a transaction. This memo defines that architecture.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The financing environment for private operators has transitioned from relationship driven lending to structure driven underwriting. Several macro conditions define this shift.
 
@@ -27,7 +28,8 @@ The financing environment for private operators has transitioned from relationsh
 
 This regime shift defines a new operational reality. Entrepreneurs must navigate a world where capital selection depends on structural compatibility more than personal reputation. Strategic alignment replaces pure negotiation. Architecture replaces improvisation.
 
-PHASE 2: TECHNICAL MECHANICS OF STRATEGIC CREDIT ARCHITECTURE
+
+ TECHNICAL MECHANICS OF STRATEGIC CREDIT ARCHITECTURE
 
 The core elements of a modern entrepreneur's capital environment can be grouped into three domains. Kapitalanskaffning for Fund-III+ environments. Asset Based Liquidity Engineering. Special Mandates across energy and cross border acquisition structures.
 
@@ -86,7 +88,8 @@ EU MiFID II cross border acquisitions require structural sophistication.
 
 Entrepreneurs who navigate both North America and Europe require a credit architecture that translates seamlessly across regulatory boundaries. Special mandates enable this translation.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital functions as a strategic navigator rather than a capital provider. This distinction is essential. The firm designs architectures that enable entrepreneurs to interface with institutional capital. The value creation lies in alignment, not distribution.
 

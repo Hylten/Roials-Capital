@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Capi
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion. This singular fact illustrates the broader theme that governs institutional trust: allocators rely on structural clarity rather than narrative momentum. In an era defined by capital rationing, heightened regulatory friction, and cross border compliance burdens, trust is no longer a reputational attribute. Trust operates as a technical architecture that can be engineered, stress tested, and verified.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 Institutional allocators operate within a post liquidity regime where traditional diversification assumptions, public market signal reliability, and classical portfolio theory have become insufficient indicators of long term stability. Several shifts define this environment.
 
@@ -25,7 +26,8 @@ Institutional allocators operate within a post liquidity regime where traditiona
 
 The regime shift is therefore defined by a deficit of trusted channels rather than a deficit of opportunity. Allocators require navigators that can present domain specific transparency without triggering solicitation classifications or breaching institutional neutrality protocols.
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 Institutional trust crystallizes when technical mechanics are understood at a level that eliminates informational asymmetry. The asset classes supported by Roials Capital and its strategic partners demand precise articulation of operational, financial, and regulatory frameworks.
 
@@ -77,7 +79,8 @@ EU based family offices and sovereign entities entering North America require a 
 
 • Data integrity. Institutions require a consistent data vocabulary across geological reports, financial statements, operational logs, and ESG filings.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital functions as a strategic navigator that aligns institutional capital with operationally proven counterparties. This is not a distribution role. It is an architecture role.
 

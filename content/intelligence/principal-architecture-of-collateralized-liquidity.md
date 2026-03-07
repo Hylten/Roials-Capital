@@ -10,7 +10,7 @@ The sovereign machinery begins with a simple assertion: capital obeys structure,
 
 Collateralized liquidity is not a tactic. It is not a product. It is not a box on a term sheet. It is an operating doctrine for those who intend to command capital rather than request it. ROIALS CAPITAL operates under this doctrine because nothing else produces reliability at scale across jurisdictions, regulatory regimes, and variable economic climates.
 
-Three words define the institutional posture: Precision. Discipline. Hierarchy.
+Discipline. Hierarchy.
 
 ## Liquidity Architecture Fundamentals
 
@@ -67,7 +67,8 @@ Weak sponsors ask why the gates exist.
 Strong sponsors understand instantly.  
 Principals never ask the question.
 
-Phase 2: The Principal Tone. No explanations. Only declarations.
+
+ The Principal Tone. No explanations. Only declarations.
 
 Capital formation for Fund-III and later vintages cannot rely on narrative. It must be anchored in demonstrable execution infrastructure. LPs do not allocate to ambition. They allocate to systems.
 
@@ -95,7 +96,8 @@ HoldCo rights, cross-collateral pools, multi-jurisdictional pledges. These are p
 Tier Five: Temporal or Conditional Assets  
 Earnouts. Working capital adjustments. Deferred payment streams. These are liquidity-neutral until triggered, but they shape the collateral envelope in ways most GPs overlook.
 
-Phase 3: Bypass Mode. Syntax variation. Precision and force.
+
+ Bypass Mode. Syntax variation. Precision and force.
 
 Structure decides fate.  
 Nothing else speaks.  

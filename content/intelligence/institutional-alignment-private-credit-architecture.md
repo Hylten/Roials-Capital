@@ -15,7 +15,8 @@ As Principal Investigator, I observe the same failing in most modern credit stac
 
 Alignment is not philosophical. Alignment is mechanical. Correct alignment is the difference between a Fund-III that compounds authority and one that dissolves into administrative noise.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The current private credit regime is shaped by three pressures.
 
@@ -27,7 +28,8 @@ Third, the energy transition has created asymmetric credit demand. NAEOC mandate
 
 The result is a regime defined by misalignment. Not because participants lack competence. But because the architecture itself is insufficient. You cannot correct misalignment through sentiment. You correct it through structure.
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 Alignment is mathematically observable. When an investment committee cannot quantify alignment, they are not aligned. They are assuming it.
 
@@ -49,7 +51,8 @@ Asset-Based Lending mechanics play a stabilizing role. Proper Asset-Based Lendin
 
 The final mechanical component is governance velocity. The faster a fund can detect deviation from expected cash-flow behavior, the more aligned the system remains. The slower the detection, the more misalignment compounds. Most default events originate 6 to 12 months before managers identify them. That delay is not technical. It is cultural. A disciplined fund eliminates that delay.
 
-PHASE 3: THE STRATEGIC MODEL
+
+ THE STRATEGIC MODEL
 
 Institutional alignment is not a slogan. It is an operational mandate. A Fund-III structure must operate with a higher order of clarity. The strategic model follows a simple rule: velocity without clarity is chaos. Clarity without velocity is paralysis.
 

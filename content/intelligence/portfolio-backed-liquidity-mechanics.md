@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Asse
 
 The capital vacuum in North American private markets is not a function of asset scarcity. It is the cumulative result of regulatory tightening, balance sheet contraction, and a decade of institutional preference for duration that pushed liquidity formation to the margins. Modern private capital allocators face a structural gap. Liquidity has become a competitive differentiator rather than an assumed utility. The shift has created an environment where portfolio backed liquidity functions as a balance sheet technology rather than a transactional accessory.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The current environment is anchored by three macro forces. Each has reshaped the capital raising landscape for buyout funds, add on acquisition programs, and mid cycle credit users.
 
@@ -23,7 +24,8 @@ Third is the bifurcation of private markets into capital rich flagship platforms
 
 The outcome is a regime shift. Liquidity functions as an institutional asset rather than a cost center. Portfolio backed liquidity is the mechanism through which private equity platforms neutralize execution bottlenecks, stabilize cash flow timing, and increase opportunity velocity within a constrained funding environment.
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 Portfolio backed liquidity operates through a layered framework. The effectiveness of the structure is determined by precision in collateral mapping, debt seniority alignment, and the cash flow topography of the underlying assets.
 
@@ -39,7 +41,8 @@ The fifth layer is liquidity release logistics. Institutional grade structures a
 
 The final layer is portfolio behaviour under stress. Stress tested liquidity ecosystems maintain operational integrity even when single assets underperform. The most durable structures use asset hardening, hedging bands, and redundancy points within the borrowing base. Alberta heavy oil assets provide a useful model. Their decline curves are slow, their recovery rates are stable, and their production profiles create predictable cash flow arcs. The physics driven nature of these assets allows them to anchor borrowing bases with institutional reliability.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital functions as a strategic navigator rather than a balance sheet provider. The role is to deliver structural clarity, lender mapping, and institutional introductions that align each private equity platform with the liquidity architecture required to maintain momentum.
 

@@ -25,7 +25,6 @@ We engineer the architecture.
 
 The framework: balance-sheet excavation. Identify dormant pockets of value. Identify collateral pathways. Identify jurisdictional safe harbors. Combine them. Fuse them. Turn static reserves into dynamic capital.
 
-Three layers define the system:
 
 • Reserve Layer: Bitcoin. Gold. Pressure-tested energy assets. 
 • Operating Layer: Core private companies. Cash flow. Distribution channels. Asset-backed credit lines. 

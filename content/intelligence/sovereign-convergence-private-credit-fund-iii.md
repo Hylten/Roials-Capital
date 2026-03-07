@@ -34,7 +34,6 @@ Traditional managers can provide one or two. Fund-III provides all six.
 The capital stack transforms. Equity sits narrower. Credit sits wider. Control shifts to those who can deploy debt as a strategic implement, not merely financing. Private credit becomes the weaponization of certainty.
 
 STRUCTURAL DEMAND DRIVERS 
-Three macro drivers form the backbone of the surge:
 
 • Global refinancing wall of $2.1 trillion in maturing midmarket debt 
 • Post-Basel collateral mandates forcing banks to limit exposure to subscale borrowers 

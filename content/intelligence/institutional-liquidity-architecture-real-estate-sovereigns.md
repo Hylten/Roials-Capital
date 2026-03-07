@@ -11,11 +11,10 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Inst
 
 The capital vacuum affecting real estate sovereignties in 2026 is a product of liquidity migration and regulatory compression, not asset obsolescence. Sovereign-grade property portfolios remain structurally underleveraged, not because their income durability has weakened, but because their liquidity architecture has not evolved at the same velocity as market risk pricing. This creates an environment where the most stable property ecosystems appear distressed on paper while remaining fundamentally sound in cash generation and replacement cost positioning.
 
-PHASE 1: THE REGIME SHIFT
 
-Institutional allocators operating in real estate today face a materially different structural regime compared to the previous decade. Three systemic forces define the environment.
+ THE REGIME SHIFT
 
-1. Rate Regime Persistence 
+Institutional allocators operating in real estate today face a materially different structural regime compared to the previous decade. 1. Rate Regime Persistence 
 The expectation of rate normalization has proven incompatible with fiscal expansion dynamics. Sovereign debt loads in North America and Europe require a longer-duration elevated rate environment. This locks property owners into a persistent divergence between asset yield and liability cost, stressing capital stacks that were optimized for a sub 2.5 percent cost of capital.
 
 2. Credit Concentration and Regulatory Drift 
@@ -26,7 +25,8 @@ Construction costs have recalibrated upward with near permanence due to labor sh
 
 The intersection of these forces produces a paradoxical landscape: fundamentally resilient real estate sovereignties navigating an artificial liquidity deficit. This is the environment where Institutional Liquidity Paths, institutional capital introduction, and balance sheet optimization become decisive tools.
 
-PHASE 2: TECHNICAL MECHANICS OF REAL ESTATE Strategic Collateralization
+
+ TECHNICAL MECHANICS OF REAL ESTATE Strategic Collateralization
 
 Real estate sovereigns, defined as operators controlling multi jurisdictional portfolios with stabilized income and long duration ownership intentions, require liquidity architecture that aligns with institutional-grade financial physics rather than retail lending heuristics.
 
@@ -58,12 +58,11 @@ Liquidity velocity is now a critical determinant of institutional viability. Sov
 
 This creates a liquidity ecosystem where capital availability is engineered rather than negotiated under distress.
 
-PHASE 3: THE PARTNERSHIP MODEL 
+
+ THE PARTNERSHIP MODEL 
 THE ROIALS CAPITAL POSITION
 
 Roials Capital functions as a strategic navigator for real estate sovereigns and institutional LPs seeking calibrated exposure to stabilized property ecosystems without engaging in transactional risk accumulation. The partnership model is defined by neutrality, technical clarity, and capital architecture design rather than asset promotion.
-
-Three layers define the engagement.
 
 1. Strategic Alignment and Institutional Archetyping 
 Institutional allocators exhibit differentiated archetypes: return maximizers, duration stabilizers, risk neutralizers, or liquidity harvesters. Roials Capital aligns each archetype with the liquidity structure that matches their operational and governance constraints. The architecture dictates capital introduction is disciplined, regulatory consistent, and aligned with macro durability.

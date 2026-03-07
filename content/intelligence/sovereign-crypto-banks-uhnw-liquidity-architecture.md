@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, private credit, liquidity engineering, asset hard
 
 The capital vacuum emerging across global private markets is not a function of declining opportunities but the direct outcome of regulatory recalibration. Basel III Endgame, MiFID II operational tightening, and GCC regulatory modernization have created an environment where conventional private banks no longer dominate UHNW liquidity provisioning. A parallel system is forming, driven not by retail crypto enthusiasm but by sovereign level infrastructure. The functional rise of sovereign crypto banks reflects a structural response to stalled cross border liquidity and increasing constraints on dollar mobilization from traditional institutions.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The current decade is defined by a realignment of balance sheet sovereignty. The post 2010 global banking environment reduced risk appetite for non standardized collateral and created multi week liquidity friction for UHNW and institutional counterparties. European private banks increased their internal risk weighted asset thresholds. Asian booking centers are experiencing greater capital account supervision. The United States has tightened correspondent banking oversight.
 
@@ -27,7 +28,8 @@ The regime shift is defined by three persistent structural forces:
 
 This environment creates an alternative global liquidity spine operating parallel to conventional banking but fully compatible with institutional scale transactions.
 
-PHASE 2: TECHNICAL MECHANICS OF SOVEREIGN CRYPTO BANKING
+
+ TECHNICAL MECHANICS OF SOVEREIGN CRYPTO BANKING
 
 The operational mechanics of sovereign crypto banks do not resemble consumer crypto lending. The system relies on three core pillars: regulated custody, cryptographic collateral validation, and liquidity engineering through over collateralized lending structures.
 
@@ -57,7 +59,8 @@ For private equity GPs advancing Fund-III and Fund IV initiatives, sovereign cry
 
 These structures do not replace institutional LP capital. They accelerate operational readiness and reduce the timing mismatch between deal opportunity and traditional capital call cycles.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital operates not as a lender and not as an asset owner. The function is strategic navigation. The firm provides institutional alignment between UHNW principals, sovereign crypto banks, private credit platforms, and operational partners.
 

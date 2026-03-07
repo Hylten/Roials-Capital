@@ -13,14 +13,16 @@ The liquidity imbalance in North American and European corporate markets is not 
 
 Private credit has evolved from a mezzanine alternative into the central backbone of modern buyout architecture. Its relevance is tied directly to foundational changes in how transactions are sequenced, de risked, and operationalized across the capital stack. In the present environment, the power of private credit is not defined by coupon levels or yield dispersion. Its strength is defined by control of timing, structural seniority, covenant precision, and the ability to synchronize asset hardening with acquisitions that require predictable execution.
 
-PHASE 1: THE REGIME SHIFT  
+
+ THE REGIME SHIFT  
 The macro landscape is characterized by an institutional realignment affecting three domains: bank regulatory compression, acquisition pipeline fragmentation, and the rise of balance sheet scarcity across mid market corporates. These forces form a singular regime shift. Traditional lenders prioritize capital reserve optimization rather than market velocity. Private equity funds maintain dry powder but increasingly avoid concentration risk and prefer modular acquisition pathways. Operating companies require asset stabilization that cannot be delayed. This creates a capital vacuum in the most execution sensitive segment of the market.
 
 The structural dislocation is most pronounced in sectors with heavy operational dependencies. Industrials facing deferred maintenance cycles, energy operators managing reservoir decline curves, logistics companies integrating fragmented service lines, and technology roll ups absorbing legacy systems all exhibit the same requirement. They need liquidity instruments capable of supporting transitional phases that banks cannot underwrite and that equity sponsors prefer to avoid in early sequencing. Private credit becomes the neutral architecture that allows these systems to function.
 
 Two additional dynamics accelerate the need for private credit in M&A. First, acquisition timing is now shaped by seller psychology connected to rate expectations, not by operating fundamentals. Second, M&A valuations remain stable even as lenders reduce leverage tolerance. The gap between valuation stability and lender retrenchment is filled by private credit providers that accept operational complexity in exchange for priority positioning and covenant alignment.
 
-PHASE 2: TECHNICAL MECHANICS OF PRIVATE CREDIT IN M&A  
+
+ TECHNICAL MECHANICS OF PRIVATE CREDIT IN M&A  
 The architectural relevance of private credit depends on its precision. It provides structural advantages that cannot be replicated by traditional bank financing or pure equity deployment. These mechanics can be grouped into five technical domains.
 
 1. Capital Stack Engineering  
@@ -38,7 +40,8 @@ Modern buy and build strategies rely on predictable integration velocity. Cross 
 5. Liquidity Engineering and ABL Integration  
 Asset based lending remains a critical 10 percent component of the architecture because it stabilizes working capital cycles. Private credit providers integrate ABL structures with core term facilities to harmonize cash flow timing. This reduces operational volatility during integration windows. Liquidity engineering becomes the stabilizing mechanism that allows core credit structures to function without disruption.
 
-PHASE 3: THE PARTNERSHIP MODEL  
+
+ THE PARTNERSHIP MODEL  
 Roials Capital operates as a neutral strategic navigator in this environment. The role is not to function as a lender or asset originator. The discipline is to align capital providers, acquisition sponsors, and operating companies within one coherent institutional framework. The firm’s mandate covers three primary lanes.
 
 1. Kapitalanskaffning for Fund-III and Beyond  

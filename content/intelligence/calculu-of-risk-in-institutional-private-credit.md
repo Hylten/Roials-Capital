@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Capi
 
 The capital vacuum in North American private credit is the predictable outcome of regulatory fragmentation and institutional retrenchment rather than a deterioration in asset quality. The shift has triggered a reordering of risk, where the relative safety of an exposure is no longer defined by conventional ratings logic but by structural positioning, collateral physics, and the discipline of cash flow predictability. This is the environment in which institutional private credit has evolved into an allocation category governed less by sentiment and more by operational intelligence and balance sheet engineering.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 Institutional allocators moving into private credit in 2026 are navigating a landscape defined by four macro variables that have altered the calculus of risk:
 
@@ -29,7 +30,8 @@ Private credit funds are not constrained by the same liquidity transformation ru
 
 The consequence is a new equilibrium. Capital scarcity has elevated underwriting standards, improved structural protections, and expanded the role of lending managers as strategic partners rather than passive financiers.
 
-PHASE 2: TECHNICAL MECHANICS OF RISK
+
+ TECHNICAL MECHANICS OF RISK
 
 Institutional private credit is defined by its structural architecture. Risk is not a subjective interpretation but a grid of quantifiable mechanics. Allocators evaluating Fund-III+ structures must consider five core dimensions.
 
@@ -89,11 +91,11 @@ Where relevant to special mandates, the calculus of risk incorporates asset phys
 
 These mechanics reduce geological uncertainty and align well with structured private credit instruments backed by real asset output.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital functions as a strategic navigator rather than a capital allocator. The mandate is to supply institutional intelligence, ensure structural alignment, and facilitate introductions that allow LPs and GPs to match with the appropriate capital archetype.
 
-Three categories define the partnership model:
 
 1. Kapitalanskaffning for Fund-III+ 
 The primary emphasis is on supporting buyout platforms and their add on programs by ensuring access to institutional grade private credit aligned with their operational cadence. Roials Capital provides:

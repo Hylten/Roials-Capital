@@ -17,7 +17,8 @@ Institutional LPs track this delta. They see the firms that pull capital from th
 
 Capital flows to power. Power flows to structure.
 
-Phase 1: F‑Framework 2.0 (Logic Layer)
+
+ F‑Framework 2.0 (Logic Layer)
 
 Layer 1. Foundation Positioning 
 The Principal must define the *sovereign perimeter*. Asset pools. Jurisdictions. Institutional permissions. Deal stack sequencing. Nothing arbitrary. Every asset sits somewhere in the architecture. Every asset produces an output: liquidity, collateral performance, underwriting advantage, or regulatory status elevation. If an asset produces none-it becomes raw material for arbitrage.
@@ -53,11 +54,13 @@ Asset-Based Lending outputs are predictable when engineered correctly:
 
 This is the reason Fund-III GPs adopt the sovereign mandate. It restores independence. It elevates bargaining power. It eliminates reactionary capital behavior.
 
-Phase 2: Tone Protocol (ROIALS CAPITAL)
+
+ Tone Protocol (ROIALS CAPITAL)
 
 Assertive. Red‑Yellow. High‑velocity. Institutional authority. Short bursts. Machine‑gun phrasing to signal conviction. ROIALS CAPITAL communicates from the apex. No hedging. No filler. Asset-Based Monetization Architecture is not a service line. It is the power center of Kapitalanskaffning for Fund-III and beyond.
 
-Phase 3: BLADER Humanizer (Principal Edition)
+
+ BLADER Humanizer (Principal Edition)
 
 Sentence variance. Direct force fields of language.
 
@@ -120,8 +123,6 @@ MiFID II platforms become fast-track institutional portals. Acquire one. Gain di
 Sovereign Asset Hardening
 
 Asset hardening is not maintenance. It is an institutional transformation. Contracts. Permits. Appraisals. Compliance architecture. Environmental certifications. Tax shields. Insurance wrappers. ESG‑alignment protocols. These elements are not bureaucracy-they are liquidity multipliers.
-
-Three words: Status drives liquidity.
 
 Two words: Always sovereign.
 

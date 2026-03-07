@@ -195,8 +195,6 @@ The outcome is unified liquidity, executed cleanly and quietly.
 
 ## Why Private Credit Outperforms Traditional Leverage in M&A
 
-Three advantages stand out. 
-
 ### Precision Instead of Policy
 
 Banks operate through standardization. 

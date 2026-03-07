@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liqu
 
 The capital vacuum in North American asset markets is not a function of scarcity. It is the consequence of regulatory drift, institutional deleveraging cycles, and the withdrawal of traditional lenders from real economy credit. Within this environment, Asset Based Lending has re emerged as a stabilizing mechanism for allocators who require structured defensiveness, predictable collateral behavior, and precise liquidity pathways that operate independently of equity market sentiment. Modern diversified wealth portfolios increasingly rely on ABL not for yield, but for structural balance. It anchors the liquidity spine that enables efficient participation in buyout programs such as Fund-III, supports add on velocity, and creates a cross regime cushion in environments where allocators face compressed spreads, elongated exit cycles, and international allocation constraints.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 Institutional allocators now operate within a tri regime macro landscape. Each regime imposes distinct pressure points on portfolio construction.
 
@@ -26,7 +27,8 @@ Institutional allocators now operate within a tri regime macro landscape. Each r
 
 The essential observation: diversified wealth portfolios are moving toward a dual rail model where long duration capital deployment is supported by short duration balance sheet optimization. ABL is the instrument that bridges these rails without introducing correlation drag.
 
-PHASE 2: TECHNICAL MECHANICS OF ASSET BASED LENDING
+
+ TECHNICAL MECHANICS OF ASSET BASED LENDING
 
 Institutional grade ABL is defined by five core mechanics. When integrated into multi asset portfolios, these mechanics create operational resilience.
 
@@ -55,7 +57,8 @@ Institutional grade ABL is defined by five core mechanics. When integrated into 
 
 These mechanics position ABL as a structural tool rather than a return seeking instrument. Its function is stabilization, precision, and liquidity release. This is why it has become a central pillar in diversified wealth architectures.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital functions as a strategic navigator and institutional introducer. The role is not to syndicate credit or promote product. The role is to provide allocators with refined market navigation and to connect them with operationally credible platforms.
 

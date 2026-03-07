@@ -14,15 +14,7 @@ Northern Europe just became the most strategically asymmetrical lending environm
 
 That is the heart of the matter.
 
-This is one of those years.
-
-Three truths.
-
-Markets mispriced risk.
-
-Banks misread cycles.
-
-Industry needs capital.
+This is one of those years. Markets mispriced risk. Banks misread cycles. Industry needs capital.
 
 ---
 

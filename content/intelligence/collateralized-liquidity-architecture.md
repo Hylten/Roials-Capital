@@ -17,7 +17,8 @@ I treat collateralized liquidity as a living architecture. Cash is the bloodstre
 
 This is the regime shift that is now reshaping private credit and Asset-Based Lending. Capital is expensive. Time is even more expensive. And inefficiency is unforgivable.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The market has transitioned from a leverage cycle to a collateral cycle. The previous decade rewarded funds that maximized dry powder and deployed into growth narratives. The current regime rewards funds that demonstrate one capability: extraction of liquidity from imperfect collateral without impairing covenant integrity.
 
@@ -33,7 +34,8 @@ Receivables are diluted. Inventory is misclassified. Equipment is not revalued. 
 
 This is why collateralized liquidity is no longer a defensive tactic. It is an offensive instrument. The GP who masters this architecture gains asymmetric advantage in buyouts, Asset-Based Lending, and energy-backed facilities. Fund-III strategies depend on it, because the LP base has matured. They do not reward theory. They reward precision.
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 The mechanics of collateralized liquidity rest on three structural levers.
 
@@ -70,7 +72,8 @@ This is why we apply a recovery factor discount well beyond what traditional ban
 
 Collateralized liquidity becomes an art form when these mechanics converge. At that point, the fund can lend into complexity that other lenders avoid because they cannot see the internal liquidity geometry of the borrower.
 
-PHASE 3: THE STRATEGIC MODEL
+
+ THE STRATEGIC MODEL
 
 Fund-III requires a hybrid capital architecture. It must raise institutional capital for buyouts and add-ons. It must maintain Asset-Based Lending capability to unlock liquidity for operating companies. And it must execute special mandates with precision, particularly in energy.
 

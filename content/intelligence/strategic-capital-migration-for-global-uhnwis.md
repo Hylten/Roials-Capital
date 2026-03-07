@@ -257,9 +257,6 @@ Risk in capital migration is rarely about market movement. Market movement is pr
 
  
 
-Four risk vectors define modern UHNW capital migration:
-
- 
 
 ### 1. Regulatory Asymmetry
 

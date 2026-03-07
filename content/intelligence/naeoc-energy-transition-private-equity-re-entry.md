@@ -148,9 +148,12 @@ Their pipeline depends on your discipline.
 4. The cycle is entering the consolidation phase  
 Every industrial transition behaves the same:
 
-• Phase 1: Ideological exuberance  
-• Phase 2: Capital misallocation  
-• Phase 3: Asset fatigue  
+• 
+ Ideological exuberance  
+• 
+ Capital misallocation  
+• 
+ Asset fatigue  
 • Phase 4: Operational consolidation  
 • Phase 5: Institutional control
 

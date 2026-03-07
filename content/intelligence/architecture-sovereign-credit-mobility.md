@@ -17,7 +17,8 @@ Cross-jurisdictional credit architecture is now the prime vector of competitive 
 
 ROIALS CAPITAL operates inside that gap.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 Sovereigns are no longer the passive backdrop of institutional deployment. They have become active participants in the credit formation cycle. Capital controls, regulatory acceleration, energy security incentives, MiFID II scrutiny, and USD swap line asymmetries have created a structural deviation: capital formation is political, but capital mobility is technical.
 
@@ -36,11 +37,10 @@ The final category is shrinking. USD dominance covers many inefficiencies, but n
 
 Institutional capital raising now requires a multi-regime map. Fund-III requires mastery of it.
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 Sovereign Credit Mobility is the capacity to convert a jurisdiction’s legal, fiscal, and collateral infrastructure into a cross-border lending engine without degrading LTV, recovery, or time-to-cash metrics.
-
-Three components define the architecture.
 
 1. The Capital Translation Layer 
  This layer converts sovereign legal structures into institutional underwriting language. It evaluates asset security enforceability, lien transmission velocity, and recovery certainty. Slow enforceability reduces mobility. Fragmented registry systems reduce mobility. Tax friction erodes term efficiency.
@@ -66,7 +66,8 @@ We engineer recovery factors as a function of mobility, not liquidation. Soverei
 
 This is how institutional discipline is restored.
 
-PHASE 3: THE STRATEGIC MODEL
+
+ THE STRATEGIC MODEL
 
 ROIALS CAPITAL executes with velocity. This is not a philosophy. It is an operational mandate.
 

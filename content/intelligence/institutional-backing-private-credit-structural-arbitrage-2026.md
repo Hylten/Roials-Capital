@@ -35,8 +35,6 @@ TECHNICAL MECHANICS OF THE ALBERTA ENERGY REGIME
 
 The Alberta resource complex is one of the most misunderstood environments in the global energy matrix. The region is characterized by high thermal viscosity, predictable decline profiles, and long reserve life indices that consistently exceed 20 to 30 years once wells are brought into stabilized production. Low geological risk and high operational determinism have made it a focal point for institutional-grade operators who deploy capital with a multi-cycle time horizon.
 
-Three recovery methodologies define the environment.
-
 1. SAGD 
 Steam Assisted Gravity Drainage is the thermal recovery method where paired horizontal wells are deployed: an injector and a producer. Steam is injected into the upper well, reducing the viscosity of bitumen, which migrates downward under gravity to the producer well. SAGD is defined by high thermal efficiency, stable production once steam chambers mature, and a decline curve that operates with exceptional predictability. Operators with disciplined steam management can maintain plateau production for extended periods.
 

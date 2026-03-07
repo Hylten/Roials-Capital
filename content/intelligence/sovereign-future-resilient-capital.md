@@ -13,7 +13,8 @@ The capital vacuum in North America’s energy sector is a consequence of regula
 
 The sovereign future of capital formation is moving toward resilience anchored in real-asset intelligence, supply chain hardening, and non-speculative cash flow visibility. Modern allocators are less interested in thematic narratives and more aligned with three principles: downside calculability, operational determinism, and jurisdictional rule-of-law. These principles form the basis for capital stewardship and are driving renewed attention toward North American energy, asset based lending structures, and specialist buyout platforms where operational uplift is measurable rather than theoretical.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The current institutional environment is defined by three converging macro forces.
 
@@ -26,7 +27,8 @@ The underinvestment cycle that began in 2015 is now a permanent feature of the N
 3. Institutional Mandate Drift  
 Institutions are pursuing uncorrelated yield inside highly correlated asset classes. Equity risk is masked as credit. Credit risk is masked as infrastructure. The lack of domain discipline has accelerated demand for partners that can filter technical signals from structural noise. The allocator that adapts to this landscape reclaims strategic positioning. The allocator that ignores it is exposed to synthetic diversification without real downside governance.
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 North American energy assets are delivering the most predictable downside profile when supported by transparent reservoir data, established decline curves, and mature extraction methodologies. The Alberta basin exemplifies this profile.
 
@@ -45,7 +47,8 @@ Consistent with Alberta’s regulated and transparent royalty regime, the abilit
 5. Liquidity Engineering  
 In acquisition settings where conventional lending is limited, liquidity engineering becomes the operative skill. Structures including asset based lending, reserve based lending hybrids, and cross collateralized production streams provide operational breathing room for value extraction. This is increasingly relevant as allocators demand platforms that are not reliant on high cost equity for working capital needs.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital operates as a strategic navigator inside this environment. The objective is not capital deployment. The objective is allocator clarity. Institutions engage when they understand the structural map and can align their balance sheet mandates with counterparties that exhibit operational discipline.
 

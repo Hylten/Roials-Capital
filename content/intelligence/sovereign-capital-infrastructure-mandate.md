@@ -15,11 +15,11 @@ Order is not an option.
 
 As Principal Investigator, I treat sovereign capital infrastructure the same way I treat a distressed balance sheet. Identify the fracture. Reconstruct the transmission system. Install governance that cannot drift. The next decade will reward the actors who build systems that enforce consistency in a world defined by fiscal entropy.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 Sovereign capital is entering an austerity regime. Not the political version. The mechanical one. The ratio of unfunded liabilities to productive assets is widening across OECD states. Monetary authorities attempt to mask this by expanding duration mismatches inside the public debt stack. Private markets respond by withdrawing long-duration credit from anything that smells like policy risk. The cycle has already turned. Sovereigns will not get cheaper funding cycles again without rebuilding institutional trust.
 
-Three forces define the new order:
 
 1. The exhaustion of soft collateral.
 For twenty years, sovereigns relied on tax-base projections, demographic inflows, and financialized GDP assumptions. Those projections are now collapsing. Hard collateral is returning to center stage. Energy reserves. Infrastructure cash flows. Mineral rights. Production-linked royalties. This is the first re-hardening of sovereign balance sheets since the early 1970s.
@@ -34,7 +34,8 @@ Fund-III sits directly inside this regime shift. Buyouts and add-ons backed by h
 
 Sovereigns are losing the competition for strategic assets because their infrastructure no longer transmits capital with sufficient precision.
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 Sovereign capital infrastructure can be decomposed into four mechanics. When these mechanics weaken, the entire financial architecture becomes brittle.
 
@@ -52,7 +53,8 @@ Sovereign debt offices often extend duration artificially to reduce near-term re
 
 The result is predictable. Capital flows toward private systems that enforce accountability instead of public systems that obscure risk.
 
-PHASE 3: THE STRATEGIC MODEL
+
+ THE STRATEGIC MODEL
 
 Fund-III positions itself as an institutional alternative to sovereign drift. The model is straightforward. Build an architecture where capital moves with precision, assets are acquired with decisiveness, and stewardship is consistent.
 

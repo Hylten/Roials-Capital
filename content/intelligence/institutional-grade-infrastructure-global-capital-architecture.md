@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Capi
 
 The capital vacuum across global private markets is a function of structural dislocation rather than asset scarcity. In 2026, allocators are navigating a domain where traditional liquidity channels have decoupled from real asset productivity. The outcome is a multi year environment where institutional grade infrastructure is no longer defined by geography or sector but by the precision of cross border balance sheet engineering.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 Institutional allocators observe three concurrent forces. First is regulatory compression across European banks driven by Basel III endgame requirements that shrink credit availability to middle market companies. Second is a capital rotation in North America where private credit replaces syndicated lending while productivity enhancing assets still require long duration capital structures. Third is a valuation normalization cycle where buyout managers need access to strategic capital rather than passive LP inflows.
 
@@ -19,7 +20,8 @@ This regime shift has created a new institutional archetype. Capital seeks real 
 
 For global allocators, the implication is clear. The most stable opportunities are emerging in environments where capital inefficiency is highest. Alberta conventional heavy oil represents one such environment due to historical underinvestment and predictable basin physics. European lower mid market buyouts represent another due to valuation compression and succession driven ownership gaps. Both domains share the same structural pattern. Assets are sound. Capital structures are outdated. Global allocators require neutral partners who orchestrate the interfaces rather than promote product.
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 The institutional grade infrastructure relevant to Fund-III mandates consists of three pillars. Capital formation and deployment for buyouts and add ons at 80 percent focus. Strategic Collateralization through asset based structures at 10 percent. Special mandates for energy and MiFID II compliant acquisitions at 10 percent.
 
@@ -64,7 +66,8 @@ MiFID II acquisition infrastructure requires equal precision. Cross border trans
 - Transaction reporting standards. 
 - Marketing restrictions that require neutral descriptive positioning rather than performance promotion.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital acts as a strategic navigator for institutions rather than a promoter. The firm functions as a bridge between global allocators and operational ecosystems that require disciplined capital alignment. The model rests on four principles.
 

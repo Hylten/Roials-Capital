@@ -267,8 +267,6 @@ We expect the same from the principals we underwrite.
 Institutional capital does not evaluate charisma. 
 It evaluates predictability.
 
-Three principal behaviors determine institutional viability.
-
 ### 1. Precision 
 Ambiguity erodes structure. 
 Precision strengthens it.
@@ -336,9 +334,7 @@ Eligible for institutional velocity.
 The principal maintains solid assets but weaker operational discipline. 
 Structural refinement required.
 
-### Tier Three 
-The principal depends on narrative over structure. 
-High fragility. 
+### Tier High fragility. 
 Not eligible.
 
 ### Tier Four 

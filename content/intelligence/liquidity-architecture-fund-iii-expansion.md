@@ -15,9 +15,7 @@ Fund-III must operate as a liquidity organism. Multi-layered. Multi-triggered. N
 
 Core principle. Capital follows clocks. Not pitch decks. Not equity curves. Clocks. Fund-III must show synchronized time: cash conversion time, pledge time, collateral heating time, regulatory clearance time, and exit crystallization time. Reduce variance across clocks and LPs interpret the fund as systemic rather than opportunistic. Systemic funds scale. Opportunistic funds stall.
 
-The architecture begins with the spine: secured liquidity corridors. Three corridors must run in parallel.
-
-First corridor: Senior-secured private credit stacked on real assets. Energy, industrials, equipment-heavy rollups. These provide collateral mass. Mass converts into credibility. Credibility converts into coupon. Coupon converts into permanence. Institutional LPs trust mass. Always mass first. Always mass visible. Always mass audited.
+The architecture begins with the spine: secured liquidity corridors. First corridor: Senior-secured private credit stacked on real assets. Energy, industrials, equipment-heavy rollups. These provide collateral mass. Mass converts into credibility. Credibility converts into coupon. Coupon converts into permanence. Institutional LPs trust mass. Always mass first. Always mass visible. Always mass audited.
 
 Second corridor: Asset-Based Lending windows designed as breathing valves. Short-cycle, asset-tethered, covenant-light. Not bank-like. Not constrained by Basel bindings. Instead, engineered for velocity and forward-pledge portability. Each window must support cross-jurisdictional redeployment. Capital moves. Assets stay. Value compounds.
 

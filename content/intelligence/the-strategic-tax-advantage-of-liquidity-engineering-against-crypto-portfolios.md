@@ -291,9 +291,6 @@ They protect the architecture.
  
  
 
-Three points in the investor lifecycle generate the greatest tax advantage. 
- 
- 
 1. Liquidity Events 
  balance sheet optimization against a crypto portfolio allows the client to access liquidity for real estate, private investments, operating companies, and other opportunities, without triggering tax. 
  

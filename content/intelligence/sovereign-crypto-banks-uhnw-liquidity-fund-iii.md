@@ -15,7 +15,8 @@ Order is not an option.
 
 The traditional banking stack cannot support real-time collateralization, multi-jurisdictional lending, or programmable credit structures. Sovereign crypto banks can. This is the regime shift.
 
-PHASE 1: THE REGIME SHIFT 
+
+ THE REGIME SHIFT 
 The monetary world bifurcates when three forces converge: deteriorating trust in legacy clearing systems, capital flight from slow jurisdictions, and the institutionalization of digital collateral. All three now operate at full velocity.
 
 UHNWIs discovered that conventional private banks cannot deploy liquidity at the pace required to secure distressed opportunities or high velocity buyouts. Private credit funds followed. Sovereigns are following now. Friction compounds. Slowness destroys value.
@@ -30,7 +31,8 @@ For UHNW families, this is not ideology. This is survival.
 
 For Fund-III GPs, this is compounding.
 
-PHASE 2: TECHNICAL MECHANICS 
+
+ TECHNICAL MECHANICS 
 A sovereign crypto bank operates through four mechanical layers that matter for institutional allocators.
 
 1. The Custodial Core 
@@ -56,7 +58,8 @@ These mechanics eliminate the old world’s dependency on paperwork. They elimin
 
 Velocity is the new collateral.
 
-PHASE 3: THE STRATEGIC MODEL 
+
+ THE STRATEGIC MODEL 
 Sovereign crypto banks do not replace private credit funds. They augment them. They become the liquidity partner for funds scaling from Fund-II to Fund-III. They strengthen buyout execution, provide interim financing, and act as the synthetic treasury desk for acquisitive platforms.
 
 The strategic model is simple.

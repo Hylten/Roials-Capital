@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liqu
 
 The structural gap in North American private markets is a capital formation issue born from regulatory drift, institutional retrenchment, and the mispricing of middle market operating risk. Private issuers with strong asset bases operate inside a liquidity vacuum that is unrelated to asset quality or revenue resilience. This vacuum defines the modern regime for allocators who seek exposure to real operating cash flows without adopting unbounded venture style variance.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 Institutional allocators have witnessed a ten year evolution of market mechanics. The modern private capital landscape is defined by:
 
@@ -28,7 +29,8 @@ The Alberta energy landscape is a case study in this misalignment. Capital inflo
 
 This is the modern regime. Private credit and portfolio backed liquidity have become the functional replacement for the banks that once priced these markets with consistency.
 
-PHASE 2: TECHNICAL MECHANICS OF RESOURCE EXTRACTION AND COLLATERAL QUALITY
+
+ TECHNICAL MECHANICS OF RESOURCE EXTRACTION AND COLLATERAL QUALITY
 
 Understanding the Strategic Collateralization potential of portfolio backed structures requires clarity on the technical behavior of the underlying assets.
 
@@ -47,7 +49,8 @@ The critical insight is that all three extraction methods produce reservoir beha
 
 This is the foundation of asset hardening. When geological uncertainty approaches zero, the asset behaves closer to infrastructure than commodity speculation. This classification shift is the reason private credit allocators have begun reframing conventional heavy oil as a stability asset rather than a risk asset.
 
-PHASE 3: THE PARTNERSHIP MODEL AND ROIALS CAPITAL'S ROLE
+
+ THE PARTNERSHIP MODEL AND ROIALS CAPITAL'S ROLE
 
 Roials Capital operates as a strategic navigator within this regime. The purpose is not product distribution. It is the orchestration of institutional alignment between capital allocators and operational partners capable of deploying that capital responsibly.
 

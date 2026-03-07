@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liqu
 
 The capital vacuum in digitally native portfolios is not driven by weakness in blockchain infrastructure. It is the direct outcome of regulatory divergence, tax friction, and the absence of institutional liquidity structures capable of stabilizing balance sheet outcomes for crypto exposed allocators. The current environment has created a structural asymmetry. Experienced LPs and UHNWIs with crypto density observe nominal appreciation yet face impaired convertibility, dislocated taxable events, and a lack of strategic counterparts capable of converting volatile digital value into institutional-grade liquidity streams.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The regime shift began when digital asset valuations decoupled from traditional funding markets. Crypto portfolios exhibited accelerated nominal growth while simultaneously losing integration into established credit channels. Several macro forces define the current landscape:
 
@@ -24,7 +25,8 @@ The result is a capital environment where highly appreciated portfolios remain s
 
 Against this backdrop, liquidity engineering has emerged as a method of balance sheet stabilization rather than a method of yield generation. It enables the allocator to reconfigure the liquidity profile of their crypto exposure without triggering disposals.
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 Liquidity engineering is a discipline of converting non conventional collateral into structured liquidity without incurring immediate taxable events. For crypto dense portfolios, three mechanics define the institutional architecture:
 
@@ -60,7 +62,8 @@ These mechanisms allow private credit decision makers to evaluate the exposure t
 
 This matters for allocators entering Fund-III. Their strategic objective is to secure alignment with high conviction buyouts and sector specific acquisitions. Crypto values alone cannot support this. Liquidity engineering allows capital to exit volatility orbit and enter productive strategic deployments without incurring immediate tax penalties.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital operates as a strategic navigator rather than an originator of crypto structures. The role is to align allocators with institutional grade frameworks that convert non traditional wealth profiles into usable capital across global markets.
 

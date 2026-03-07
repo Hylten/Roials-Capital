@@ -19,8 +19,6 @@ PHASE 1. THE REGIME SHIFT
 
 The old private credit model relied on a stable LTV ceiling, abundant leverage, and predictable exit timing. The volatility regime change fractured that certainty. Today the mid-market is absorbing more capital than any other segment, yet most funds remain structured for a world that no longer exists. Yield compression is no longer the problem. Friction is.
 
-Three forces drive the new demand cycle.
-
 1. Sponsor concentration. Buyout sponsors are scaling add on strategies because organic growth is too slow to justify valuations. These add ons require fast credit lines and fast execution.
 
 2. Regulatory compression. As banks retreat from middle market exposure, private credit funds inherit the execution load. That load exceeds current institutional capacity.

@@ -70,8 +70,6 @@ Sovereign credit mobility is built for tight markets.
 Control is not ownership. 
 Control is the capacity to reposition assets without friction.
 
-Three layers create this control.
-
 ### Structural Control
 Entity architecture that establishes clear dominion.
 

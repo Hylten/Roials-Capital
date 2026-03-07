@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, private equity, oil and gas, alberta energy, priv
 
 The capital vacuum in North American energy and mid market private credit is the cumulative result of regulatory inertia, institutional over diversification, and an asset selection framework that has not been recalibrated since 2017. This distortion is not transient. It is structural. The allocators who adapt their strategic allocation models to these conditions achieve durability not through velocity, but through disciplined architecture of capital, cash flow, and liquidity.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The 2020 to 2026 transition period produced a material break in allocator behavior. The global allocator base shifted from expansionary models to risk neutral and capital preservation structures due to four systemic pressures.
 
@@ -29,7 +30,8 @@ The primary shift is the reprioritization of liquidity. Not immediate liquidity,
 
 This regime shift has established a new Institutional Archetype. The allocator is no longer volume driven or benchmark oriented. The allocator is durability oriented. Capital is being deployed into structures that reward long horizon patience and penalize valuation speculation. Fund-III strategies, North American energy operating companies, and private credit structures aligned with asset hardening now occupy the center of this allocation map.
 
-PHASE 2: TECHNICAL MECHANICS  
+
+ TECHNICAL MECHANICS  
 The architecture of durable capital is built through the integration of three technical engines: buyout sequencing, liquidity engineering, and real asset throughput. Each has its own recovery mechanics and structural conditions.
 
 A. Buyout mechanics for Fund-III  
@@ -66,7 +68,8 @@ Our strategic partner, NAEO, focuses on matching institutional capital with oper
 
 The Alberta basin physics are stable, not speculative. Allocators are responding to this stability as global volatility persists across metals, renewables manufacturing, and offshore supply chains.
 
-PHASE 3: THE PARTNERSHIP MODEL  
+
+ THE PARTNERSHIP MODEL  
 Roials Capital operates as a strategic navigator within this environment. The firm does not act as the asset manager or operator. Instead, it functions as:
 
 - An institutional introducer to Fund-III managers with clear operational roadmaps  

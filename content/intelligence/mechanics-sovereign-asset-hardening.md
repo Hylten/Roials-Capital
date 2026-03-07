@@ -13,7 +13,8 @@ The capital vacuum in North America is not a cyclical dislocation. It is a struc
 
 The lowest volatility opportunities are not found in emergent technologies but in undercapitalized assets with measurable physics, proven decline rates, and predictable operating envelopes. Heavy oil development in Alberta, classical buyout platforms in stable mid market segments, and senior asset backed liquidity structures anchor the current regime. The common thread is not sector specific. It is structural: the progression from unsecured optionality to hardened, collateral rich, covenant governed balance sheets.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The post 2020 capital landscape reflects a movement from speculative capital abundance to scarcity driven selectivity. Allocators with sovereign scale have observed three forces that now define the institutional operating regime.
 
@@ -25,7 +26,8 @@ The post 2020 capital landscape reflects a movement from speculative capital abu
 
 These dynamics define the demand for Sovereign Asset Hardening. The strategy is not centered on growth. It is centered on resilience, cross cycle continuity, and institutional portability. Allocators are increasingly securing exposure to real cash flow, collateral anchored balance sheets, and operating platforms that retain control under volatile funding conditions.
 
-PHASE 2: TECHNICAL MECHANICS OF SOVEREIGN ASSET HARDENING
+
+ TECHNICAL MECHANICS OF SOVEREIGN ASSET HARDENING
 
 Sovereign Asset Hardening is the conversion of otherwise cyclical or leverage sensitive assets into long horizon, institutional grade holdings. The core mechanics fall into three domains.
 
@@ -62,7 +64,8 @@ Key mechanics in the Alberta basin include:
 
 Alberta's structural advantage is grounded in geological predictability and regulatory consistency. The NAEO partnership model introduces operational intelligence, disciplined development sequencing, and reservoir management aligned with institutional expectations.
 
-PHASE 3: THE PARTNERSHIP MODEL AND ROIALS CAPITAL'S ROLE
+
+ THE PARTNERSHIP MODEL AND ROIALS CAPITAL'S ROLE
 
 Roials Capital functions as a strategic navigator and institutional introducer. The objective is not to present asset offerings but to provide allocators with structured intelligence, counterpart mapping, and operational clarity across capital channels. The mandate is divided across three pillars:
 

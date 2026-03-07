@@ -15,9 +15,7 @@ The convergence of capital scarcity, disciplined supply, and mature basin physic
 
 PHASE 1. THE REGIME SHIFT
 
-The global capital cycle has entered a structural transition. Three conditions define the current regime.
-
-1. Capital flight from hydrocarbons into ESG policy mandates has produced an undersupplied basin across North America.
+The global capital cycle has entered a structural transition. 1. Capital flight from hydrocarbons into ESG policy mandates has produced an undersupplied basin across North America.
 2. Sovereign and quasi sovereign allocators require stable cash-flow engines with predictable decline curves and multi-decade resource visibility.
 3. Regulatory deceleration and environmental overhang have reduced new project development velocity, creating premiums for existing wells with verified reserves.
 

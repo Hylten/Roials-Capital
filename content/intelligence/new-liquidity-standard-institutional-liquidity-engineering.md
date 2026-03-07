@@ -67,7 +67,7 @@ Public shares are volatile. Recovery modeling requires stress testing across six
 We calibrate recovery not on issuer fundamentals but on market structure behavior. Recovery is not theological. It is mechanical. A private lender prices recovery probability against liquidity speed, not corporate health. This is the hidden truth most institutions overlook.
 
 4. Covenant architecture.
-Four covenants define survival:
+
 - LTV band compliance
 - Liquidity reserve compliance
 - Information rights for monitoring issuer events

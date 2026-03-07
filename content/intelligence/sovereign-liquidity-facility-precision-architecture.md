@@ -15,11 +15,10 @@ Order is not an option.
 
 The regime governing sovereign liquidity is entering a strained environment. Lenders demand real collateral. Commodity backed structures outperform fiat backed promises. Cross border settlements shift toward energy indexed benchmarks. Fund-III must align with this new order because capital formation at scale requires an environment where liquidity is not episodic. It must be engineered.
 
-PHASE 1: THE REGIME SHIFT
 
-Sovereigns operate today inside a compressed bandwidth of liquidity autonomy. Three structural pressures define the regime.
+ THE REGIME SHIFT
 
-1. Fiscal saturation. Most sovereigns rely on short term refinancing cycles that expose them to rate volatility and political disorder. The cost of rollover debt grows faster than revenue. Liquidity becomes reactive instead of programmed.
+Sovereigns operate today inside a compressed bandwidth of liquidity autonomy. 1. Fiscal saturation. Most sovereigns rely on short term refinancing cycles that expose them to rate volatility and political disorder. The cost of rollover debt grows faster than revenue. Liquidity becomes reactive instead of programmed.
 
 2. Collateral deterioration. Intangible collateral is losing institutional appeal. LPs, credit committees, and rating agencies now prioritize hard reserves, trade receivables from energy or infrastructure, or secured cash-flow corridors. Soft collateral no longer satisfies covenant discipline.
 
@@ -27,7 +26,8 @@ Sovereigns operate today inside a compressed bandwidth of liquidity autonomy. Th
 
 Inside this regime the sovereign liquidity facility becomes a precision tool. It is not a rescue instrument. It is a sequencing instrument that determines national flow continuity.
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 A sovereign liquidity facility must not act like a budget extension. It must function as a structured cash-flow algorithm. Predictable. Hierarchical. Covenant enforced.
 
@@ -74,7 +74,8 @@ A sovereign must replenish. The facility must not be a drain. A weekly replenish
 
 This transforms sovereign liquidity from episodic to structural.
 
-PHASE 3: THE STRATEGIC MODEL
+
+ THE STRATEGIC MODEL
 
 Fund-III enters this domain with a defined objective. Capital must flow toward buyouts and add-ons. Sovereign facilities simply stabilize the macro perimeter. They are not the investment. They are the environment that allows investments to compound without disruption.
 

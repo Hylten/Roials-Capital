@@ -18,11 +18,11 @@ Private capital now competes directly with state-backed pools that move without 
 Fund-III becomes the inflection point. 
 Either it internalises sovereign discipline or it loses allocation rights for a decade.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 Sovereign wealth is no longer passive ballast for national balance sheets. It operates as a geopolitical instrument. Liquidity redeploys to energy corridors, digital infrastructure, critical minerals, and private credit platforms with explicit control mechanics. This is not a market cycle. It is an institutional repositioning.
 
-Three shifts define the new order:
 
 1. Sovereign allocators now require operational symmetry. They expect GP-level governance structures that mirror their own internal committees. 
 2. Sovereign allocators reject narrative-driven deployment. They respond only to engineered structures with measurable recovery vectors and clear downside choreography. 
@@ -33,11 +33,11 @@ This demands a new architecture for private funds. Sovereign alignment is not a 
 Weak funds chase valuation. 
 Sovereign-aligned funds chase control of the cash-flow spine.
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 The institutions that outperform in this regime follow a simple truth: recovery mechanics decide everything. Valuation is secondary. Multiples are noise if the cash-flow spine fractures under operational stress. Sovereign allocation committees move quickly because their models are built on first-loss certainty, not optimistic projections.
 
-Five mechanics define the new sovereign-aligned GP:
 
 1. The LTV Curve 
 An LTV curve must compress risk exposure during years one to three. Sovereign allocators measure discipline by how quickly a fund eliminates unprotected exposure. A Fund-III that still tolerates wide spreads in early-year LTV is signalling an adolescent risk culture.
@@ -56,7 +56,8 @@ Sovereigns map counterparties the way military strategists map supply lines. Eve
 
 These mechanics are not optional. They define whether a GP can be trusted with sovereign velocity.
 
-PHASE 3: THE STRATEGIC MODEL
+
+ THE STRATEGIC MODEL
 
 Sovereign alignment demands a new operational doctrine for Fund-III. The doctrine is simple. The execution is not.
 
@@ -98,7 +99,6 @@ Proverbs 13:22 defines the continuity logic of stewardship:
 A good man leaves an inheritance to his children's children. 
 Institutionalised, this means capital must outlive the individuals who deploy it. A sovereign allocator expects a GP to think beyond personal timeframes. Stewardship becomes intergenerational operational clarity. The GP must build systems that carry discipline beyond the founding partners.
 
-Three filters define the stewardship mindset:
 
 1. Non Wasteful Capital 
 Every dollar must be positioned inside a cash-flow that compounds operational sovereignty. Waste occurs when capital funds complexity instead of clarity.

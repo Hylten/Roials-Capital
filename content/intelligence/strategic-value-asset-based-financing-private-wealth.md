@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liqu
 
 The capital vacuum shaping North American and European private markets is the predictable outcome of duration mispricing, regulatory recalibration, and institutional retreat, not of declining asset quality. Asset Based Financing has emerged as a stabilizing mechanism within this regime shift, providing private wealth holders and institutional allocators a disciplined tool for liquidity engineering, portfolio recalibration, and acquisition sequencing. What was once a specialist instrument for working capital optimization has become a strategic anchor for modern UHNW balance sheets and for GP platforms scaling through Fund-III and beyond.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The current macro environment is defined by four simultaneous and reinforcing phenomena that shape the relevance of Asset Based Financing.
 
@@ -29,7 +30,8 @@ The withdrawal of traditional energy lenders from North America was not driven b
 
 These macro conditions define a regime where Asset Based Financing is not tactical. It is a structural necessity.
 
-PHASE 2: TECHNICAL MECHANICS OF ASSET BASED FINANCING
+
+ TECHNICAL MECHANICS OF ASSET BASED FINANCING
 
 Asset Based Financing operates on quantifiable collateral, not projected cash flows. This distinction makes it one of the most suitable tools for private wealth entities that aim to maintain operational dynamism without assuming balance sheet fragility. The mechanics can be understood through four institutional pillars.
 
@@ -80,7 +82,8 @@ For private wealth portfolios that include operating companies, real assets, and
 5. Integration with Energy Assets  
 In the energy sector, ABL takes on a technical dimension. Alberta heavy oil and thermal assets, especially SAGD or CSS oriented sites, can be collateralized when operated by a compliant and technically competent entity. NAEO is a strategic partner in this context because it maintains operational transparency, regulatory alignment, and field level reporting suitable for institutional capital. This allows asset based structures to be applied even in a regulatory constrained sector.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital operates not as a lender or asset custodian but as a strategic navigator. The role is to ensure alignment between UHNWIs, family offices, GP platforms, and specialized operators. The objective is not product distribution but capital architecture.
 

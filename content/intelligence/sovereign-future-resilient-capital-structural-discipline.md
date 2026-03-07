@@ -11,11 +11,10 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liqu
 
 The capital vacuum in North America’s energy sector is a consequence of regulatory drift, not resource depletion. This vacuum is now interacting with a global shift toward balance sheet hardening, reserve based recalibration, and institutionally enforced liquidity thresholds that shape allocator behavior more than nominal interest rates. The resulting architecture is a new strategic environment where sovereign oriented capital, private credit frameworks, and hard asset exposure converge into what can be defined as the Sovereign Future of capital stewardship. 
 
-PHASE 1: THE REGIME SHIFT
 
-The global capital system is no longer driven primarily by monetary cycles. It is shaped by institutional constraints and regulatory dictates that create structural scarcity in specific asset classes. Three drivers define the current regime.
+ THE REGIME SHIFT
 
-1. Capital Scarcity as a Structural Constant  
+The global capital system is no longer driven primarily by monetary cycles. It is shaped by institutional constraints and regulatory dictates that create structural scarcity in specific asset classes. 1. Capital Scarcity as a Structural Constant  
 Since mid 2023, global allocators have transitioned from duration focused positioning to resilience focused positioning. The priority is not yield layering but volatility insulation, collateral reliability, and jurisdictional stability. This shift has produced a counter intuitive hierarchy where North American hard energy assets with verified decline curves now present lower model risk than several categories of regulated renewables. Institutional liquidity committees increasingly classify conventional heavy oil with predictable viscosity behavior and long field life as a stabilizing anchor rather than a carbon liability.
 
 2. Regulatory Fragmentation Across Jurisdictions  
@@ -26,7 +25,8 @@ The maintenance of liquidity ratios across pension, foundation, and multi family
 
 This is the macro environment that frames the Sovereign Future. Capital discipline replaces capital abundance. Balance sheet optimization replaces portfolio expansion. Asset hardening replaces thematic speculation.
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 With the regime defined, the mechanics of the asset class become central to institutional clarity. Alberta heavy oil fields, particularly those calibrated for SAGD and CSS applications, operate within predictable physical parameters. These parameters create a form of operational math that reduces uncertainty in a manner uncommon for upstream energy.
 
@@ -49,11 +49,10 @@ Thermal control acts as a yield stabilizer. Since viscosity decreases predictabl
 
 These mechanics define the operational reliability of the Alberta heavy oil archetype. NAEO, our strategic partner, specializes in this reservoir class and maintains operational control frameworks designed to maximize thermal efficiency and minimize steam to oil ratios. The resulting operational intelligence forms the backbone of institutional confidence.
 
-PHASE 3: THE PARTNERSHIP MODEL
 
-Roials Capital functions as a strategic navigator, not an operator. The objective is to align institutional capital with verified operational partners who demonstrate high discipline in resource stewardship and who comply with Alberta Energy Regulator standards. Three strategic lanes define the partnership model.
+ THE PARTNERSHIP MODEL
 
-1. Capital Raising for Buyouts and Add ons  
+Roials Capital functions as a strategic navigator, not an operator. The objective is to align institutional capital with verified operational partners who demonstrate high discipline in resource stewardship and who comply with Alberta Energy Regulator standards. 1. Capital Raising for Buyouts and Add ons  
 Fund-III and successive structures emphasize disciplined kapitalanskaffning for private buyout transactions. The allocation focus centers on operationally mature targets, balance sheet optimization, and industry consolidation pathways. This is executed through a clinical evaluation of capital stacks, risk weighted cash flow patterns, and leverage tolerances aligned to institutional mandate constraints.
 
 2. Asset Backed Lending and Liquidity Engineering  

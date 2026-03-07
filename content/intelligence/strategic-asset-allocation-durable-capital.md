@@ -39,7 +39,6 @@ PHASE 2. TECHNICAL MECHANICS
 
 Durable capital begins with structural cash flow. Structural cash flow begins with predictable LTV behavior. Most GPs treat LTV as an underwriting footnote. It is the central gear of the system. The LTV curve dictates the survival horizon of every acquisition.
 
-Three mechanics drive the architecture:
 
 1. LTV Stability Curve 
 The LTV stability curve measures the deviation threshold between projected asset value and lender recoverability. A stable asset is not one that grows. A stable asset is one that does not deviate beyond a 9 percent volatility band. The most durable businesses in Fund-III portfolios demonstrate three traits:

@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liqu
 
 The capital vacuum in North America’s middle market is not the result of a shortage of assets. It is the consequence of sovereign capital ascending as the stabilizing authority within global financing. The shift has reordered priority, liquidity formation, and institutional behavior. After 2020, traditional credit creation mechanisms no longer determine opportunity velocity. Sovereign balance sheets determine it. Understanding this progression is no longer optional for allocators operating within buyout environments, private credit structures, or hard-asset energy positions.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 Sovereign capital is now the silent authority behind global liquidity flows. This authority is expressed not through market intervention but through balance sheet gravitational pull. The largest institutional allocators have repositioned their investment logic around three realities.
 
@@ -29,7 +30,8 @@ Within this environment, buyout sponsors navigating Fund-III and above encounter
 
 These pressures intensify the importance of jurisdictional capital alignments. The Nordic region, the GCC, the US Southwest, and selected European institutional corridors have become dominant anchor sources because their capital structures remain disciplined, long duration, and resistant to cyclical pressure. The allocator who understands the sovereign anchored environment does not chase yield. Instead, they identify balance sheet sovereignty as the foundational requirement before any operational diligence begins.
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 The mechanics of modern financing are increasingly defined by collateral quality, cash flow resilience, and the ability to create structural seniority through engineered liquidity. Across Roials Capital’s strategic corridors there are three domains in which this shift is most visible.
 
@@ -76,7 +78,8 @@ Key mechanics include:
 
 The Alberta heavy oil landscape benefits from a regulatory environment that prioritizes responsible development, surface reclamation, and long term operator accountability. For institutional allocators, the result is a jurisdiction with rule of law, predictable royalty structures, and technical transparency. The arbitrage exists because large capital pools have moved into energy transition strategies. This creates a supply vacuum in conventional heavy barrels despite their low technical volatility. It is within this vacuum that NAEO delivers measurable operational control and disciplined field development.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital functions as a strategic navigator within this sovereign anchored capital environment. The firm operates without custody of assets and without discretionary authority. Its mandate is institutional alignment across:
 

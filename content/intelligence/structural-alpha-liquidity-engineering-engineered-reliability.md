@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liqu
 
 The capital vacuum in North American energy is a consequence of regulatory drift, not resource depletion. This dislocation has triggered a secondary structural phenomenon: balance sheets with high quality collateral sets are unable to access liquidity proportional to their intrinsic asset reliability. It is within this gap that asset based liquidity engineering operates with repeatable precision. The institutional allocator evaluating Fund-III buyout mechanics, European MiFID II acquisition mandates, or North American energy operating companies is navigating the same structural tension. Capital constraints are no longer driven by asset weakness but by compliance throttling, underwriting rigidity, and the misalignment between real asset durability and legacy credit models.
 
-PHASE 1: THE REGIME SHIFT 
+
+ THE REGIME SHIFT 
 
 North American capital markets are in a regime defined by asymmetric constraint. Conventional hydrocarbons with established decline curves remain the lowest volatility cash flow engines in the energy complex, yet they are penalized under sustainability weighted mandates. Private credit funds with high grade real assets are experiencing a similar compression, as credit adjudication has shifted from collateral strength to thematic signaling. The result is a multi sector capital shortfall that is not driven by macro weakness, but by structural filtering.
 
@@ -23,7 +24,8 @@ In European M&A, MiFID II restrictions have increased diligence cycles and slowe
 
 The allocator is therefore selecting not between asset classes but between structural regimes. The highest reliability assets are operating within the tightest liquidity constraints. Structural alpha emerges when liquidity engineering realigns these conditions.
 
-PHASE 2: TECHNICAL MECHANICS OF ENGINEERED RELIABILITY
+
+ TECHNICAL MECHANICS OF ENGINEERED RELIABILITY
 
 Liquidity engineering is the institutional discipline of converting high reliability assets into sequenced capital access without distorting operational integrity. It is not leverage expansion. It is not yield maximization. It is the systematic alignment of collateral durability, cash flow predictability, and capital timing.
 
@@ -57,7 +59,8 @@ For mid market private equity sponsors advancing into Fund-III formations, liqui
 
 The engineered reliability component is expressed through the stabilization of post close integration. When portfolio companies can generate internally collateralized acquisition liquidity, Fund-III becomes structurally more powerful, not more leveraged.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital operates as a strategic navigator rather than a capital allocator. The institutional role is calibrated around three functions.
 

@@ -76,7 +76,7 @@ Currency Volatility:
 We harden through synthetic neutrality. Keep operational exposure in domestic currency. Shift balance-sheet exposure into USD or mixed baskets. Combine with multi‑jurisdictional banking rails. Use Asset-Based Lending to neutralize liquidity swings. Create pre-approved draw corridors for acquisition timing. Always pre-wire.
 
 Regulatory Volatility:
-Use Luxembourg spine structures, GCC enforcement nodes, and Nordic governance veneers. Create regulatory triangulation. Three regulators. No single point of failure.
+Use Luxembourg spine structures, GCC enforcement nodes, and Nordic governance veneers. Create regulatory triangulation. No single point of failure.
 
 Counterparty Volatility:
 Cross-border sellers panic. Offload assets at discounts. Fund‑III extracts value through collateral-first underwriting. Demand asset control before cash deployment. Tie release of funds to multi‑jurisdictional filings. This is how you win distressed cycles.

@@ -11,7 +11,8 @@ Order collapses when liquidity behaves like vapor instead of capital. That is th
 
 [START INSTITUTIONAL BRIEFING]
 
-PHASE 1: THE REGIME SHIFT 
+
+ THE REGIME SHIFT 
 Most allocators still treat digital liquidity as an exotic sleeve instead of infrastructure. That misconception allows inefficiency to metastasize inside portfolios. Crypto markets are not an asset class. They are settlement rails. They operate as a continuous global ledger with programmable liquidity. Once understood, the allocator sees the second-order truth. Control of liquidity is control of optionality. Control of optionality is control of returns.
 
 The old regime depended on custodial bottlenecks. Slow clearing. Fragmented venues. Delayed collateral release. Each layer created latency. Latency created drag. Drag created unnecessary drawdowns. The new regime removes intermediated friction through cryptographic finality and cross-venue liquidity routing. The allocator who aligns strategy with this regime extracts structural alpha before capital is even deployed.
@@ -20,7 +21,8 @@ The institutional gap emerges from asymmetry. Most sovereign vehicles and UHNW s
 
 Velocity allocators use a different calculus. They treat liquidity as a sovereign capability. They map flows. They map execution pathways. They architect systems instead of outsourcing them. The result is agency. The result is precision.
 
-PHASE 2: TECHNICAL MECHANICS 
+
+ TECHNICAL MECHANICS 
 Institutional Liquidity Paths follows principles, not narratives. The market offers several primitives. Spot markets. Perpetual markets. Basis markets. Funding curves. Collateral ratios. Exchange APIs. Oracle networks. Each primitive has predictable mechanics. When the allocator understands the curves, they extract deterministic yield inside a stochastic surface.
 
 Start with LTV curves. Crypto collateral behaves differently from real assets. Volatility sets the haircut. Systemically relevant assets stabilize around predictable intraday drawdown corridors. Bitcoin maintains its own liquidity gravity. Ethereum forms the secondary belt. Everything else orbits these masses. Sovereign allocators must build LTV corridors that reflect the gravitational map instead of relying on retail-grade collateral profiles. When properly calibrated, the system releases liquidity in predefined layers without triggering margin cascades.
@@ -33,7 +35,8 @@ Funding curves are where the architecture becomes profitable. Perpetual swap mar
 
 Collateral mobility is the final mechanic. Portability is the new advantage. Crypto collateral can be staked, lent, hedged, tokenized, or rehypothecated with near-zero settlement friction. The allocator who controls mobility unlocks synthetic liquidity without overextending leverage. The allocator who ignores mobility pays the opportunity cost of idle capital.
 
-PHASE 3: THE STRATEGIC MODEL 
+
+ THE STRATEGIC MODEL 
 The Firm builds institutional architecture for Fund-III capital formation. The mandate is simple. Extract velocity. Remove drag. Harden collateral. Increase certainty of execution for buyouts and add-ons.
 
 The strategic model operates through three pillars.

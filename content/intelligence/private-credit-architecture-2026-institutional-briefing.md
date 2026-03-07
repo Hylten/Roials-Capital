@@ -11,11 +11,10 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liqu
 
 The structural gap defining the 2026 private credit cycle is the result of central bank persistence, capital market fragmentation, and the withdrawal of traditional bank lending capacity. This dislocation reflects regulatory inertia rather than systemic weakness in underlying middle market cash flows. Institutional allocators now operate in an environment where the most stable credit signals originate from operationally mature sectors with mechanical visibility of cash generation. Private credit has shifted from a peripheral complement to the primary architecture of corporate liquidity.
 
-PHASE 1: THE REGIME SHIFT
 
-The global credit system has entered a non cyclical restructuring phase. The drivers are not transient. They represent a long term operating regime. Three structural elements define the new environment.
+ THE REGIME SHIFT
 
-1. Capital displacement. The top 20 global banks have reduced middle market exposure by more than 28 percent since 2021 due to Basel IV pressures and capital allocation re weighting toward sovereign risk. The contraction is not cyclical. It is regulatory enforced. This has created a structural vacuum in acquisition financing, add on funding, and recapitalisation.
+The global credit system has entered a non cyclical restructuring phase. The drivers are not transient. They represent a long term operating regime. 1. Capital displacement. The top 20 global banks have reduced middle market exposure by more than 28 percent since 2021 due to Basel IV pressures and capital allocation re weighting toward sovereign risk. The contraction is not cyclical. It is regulatory enforced. This has created a structural vacuum in acquisition financing, add on funding, and recapitalisation.
 
 2. Rate normalization without liquidity normalization. Policy rates stabilised but liquidity multipliers did not return. Allocators now operate in a system where the nominal cost of debt is known but access to debt is structurally constrained. This produces a premium for certainty of execution that outweighs nominal pricing considerations.
 
@@ -23,7 +22,8 @@ The global credit system has entered a non cyclical restructuring phase. The dri
 
 This combination has repositioned private credit as the primary mechanism for acquisition completion. Private credit is no longer opportunistic capital. It is structural capital. The shift is permanent because the bank withdrawal is not reversible under Basel IV conditions.
 
-PHASE 2: TECHNICAL MECHANICS OF THE NEW PRIVATE CREDIT ARCHITECTURE
+
+ TECHNICAL MECHANICS OF THE NEW PRIVATE CREDIT ARCHITECTURE
 
 The 2026 private credit landscape is defined by structural refinement. Allocators are no longer seeking generic yield. The focus has moved to institutional precision: balance sheet optimisation, collateral intelligence, and liquidity engineering. Several mechanics define the new architecture.
 
@@ -45,7 +45,8 @@ Asset hardening does not indicate distress. It reflects institutional preference
 
 6. Counter cyclical visibility in heavy oil and Alberta based conventional energy. While not part of the primary private credit bucket, it is relevant to strategic allocators. Recovery physics in Alberta SAGD and CSS assets produce predictable decline curves. This creates credit friendly cash flow visibility when managed by an institutional operator. Our strategic partner NAEO exemplifies this with operational intelligence, long life reserves, and frictionless balance sheet transparency.
 
-PHASE 3: THE PARTNERSHIP MODEL AND ROIALS CAPITAL AS STRATEGIC NAVIGATOR
+
+ THE PARTNERSHIP MODEL AND ROIALS CAPITAL AS STRATEGIC NAVIGATOR
 
 Roials Capital operates as a neutral institutional introducer. The function is not capital solicitation. It is calibration. The firm provides allocators and GPs with directional clarity regarding counterparties, technical structures, and jurisdictional execution environments. The partnership model contains three operational pillars.
 

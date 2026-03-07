@@ -13,7 +13,8 @@ The capital vacuum in North America's energy sector is a consequence of regulato
 
 Allocators that have historically constrained upstream exposure due to ESG risk weighting are now re calibrating toward asset classes where depletion curves are predictable, decline profiles are modeled over decades, and structural arbitrage remains driven by the gap between cost of capital and the operational discipline embedded within mature basins such as Alberta. The current environment favors those who treat each jurisdiction as a technical ecosystem rather than a geography, aligning capital deployment with the operational logic of the basin, the legal durability of the security package, and the sequencing of institutional governance across borders.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 Multi jurisdictional asset allocation is entering a regime defined by capital scarcity in operationally resilient sectors and capital oversupply in momentum driven domains. The North American energy complex is illustrative. The Alberta heavy oil segment, particularly long life cold flow assets and thermal recovery systems, demonstrates superior structural visibility relative to many contemporary renewable assets whose production variability introduces volatility into cash flow projections.  
 
@@ -23,7 +24,8 @@ At the same time, European and Nordic private equity funds are migrating toward 
 
 The confluence of these macro forces has produced a unique environment: institutional capital is abundant, but disciplined, while institutional grade opportunities are available, but require deep technical understanding. This misalignment produces opportunity for those who can serve as strategic navigators across North America, Europe, and emerging Middle Eastern hubs.
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 Energy assets in Alberta require operational intelligence that is rarely reflected in surface level financial reporting. Recovery systems such as SAGD, CSS, and cold flow heavy oil extraction generate different thermal efficiencies, steam oil ratios, and decline characteristics.  
 
@@ -48,7 +50,8 @@ In buyout platforms, particularly Fund-III and Fund IV strategies, multi jurisdi
 
 ABL facilities are being deployed to create Liquidity Engineering frameworks that stabilize portfolio companies without diluting equity. This is particularly effective when underlying asset bases include industrial equipment, contracted receivables, or energy royalties.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital operates as a strategic navigator whose mandate is to create visibility across jurisdictions and introduce institutional grade partners. Within the North American energy landscape, NAEO functions as the technical operator with domain expertise in Alberta heavy oil and thermal systems. Roials Capital maintains introducer neutrality and provides operational intelligence so that allocators understand:
 

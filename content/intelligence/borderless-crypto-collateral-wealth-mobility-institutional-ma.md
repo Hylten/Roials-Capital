@@ -15,7 +15,8 @@ Order is not an option.
 
 The legacy banking stack cannot keep pace with liquidity that refuses national anchoring. Institutional-grade M&A now requires instruments that move with the owner, not the domicile. UHNWIs have learned that mobility is a protection layer. Private credit has not caught up. That gap is where superior returns are found.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 A quiet bifurcation has taken place. On one side sits regulatory capital. Slow. Procedural. Anchored in Basel frameworks that penalize velocity. On the other side sits cryptographically secured wealth that can shift across borders without intermediaries. The old model assumed wealth was slow. It assumed custody was physical. It assumed friction.
 
@@ -32,7 +33,8 @@ The strategic party that controls these variables controls the buyout pipeline.
 
 Fund-III operators who treat crypto collateral as speculative miss the point. Its price volatility is a distraction. Its mobility is the asset. Mobility creates optionality. Optionality creates acquisition advantage. In a tightening-rate environment, advantage compounds faster than cost of capital.
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 Precision matters. Institutional mechanics decide institutional outcomes.
 
@@ -54,7 +56,8 @@ This alters GP risk exposure:
 
 The institutional opportunity is not speculation. It is the superior recovery factor. That is the foundation of institutional credit. That is why crypto collateral belongs in the M&A leverage stack.
 
-PHASE 3: THE STRATEGIC MODEL
+
+ THE STRATEGIC MODEL
 
 Fund-III requires a capital formation architecture anchored in mobile collateral pools, not regional lenders. Capital raising becomes a strategic function of demonstrating frictionless liquidity conversion. LPs want one assurance: execution dominance.
 

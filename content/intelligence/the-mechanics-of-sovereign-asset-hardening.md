@@ -108,10 +108,6 @@ It realigns the client’s entire economic environment.
 
  
 
-Three outcomes consistently emerge.
-
- 
-
 ### 1. Decoupling of Liquidity From Markets
 Market conditions become informational. 
 They no longer dictate liquidity timing. 

@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Inst
 
 The capital vacuum across North American and European credit markets is a structural consequence of regulatory compression, not a contraction in underlying economic productivity. Basel IV, regional banking consolidation, and supervisory tightening have created an environment where traditional lenders maintain balance sheet exposure but cannot transition sufficient capital into middle-market and asset-backed credit. The result is a dual-track financing regime: banks maintain settlement infrastructure while private credit funds deliver actual liquidity.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 Institutional allocators have observed that the most active parts of the credit ecosystem no longer reside inside the regulated banking sector. Traditional banks operate within mandatory risk-weighted frameworks that reduce their ability to engage in middle-market leverage, sponsor-backed buyouts, or high-velocity acquisition financing. The structural shift is driven by four macro forces.
 
@@ -29,7 +30,8 @@ Insurance companies, sovereign pools, and Nordic pension funds have migrated tow
 
 The modern liquidity regime operates on the principle that institutional capital can move where regulated balance sheets cannot. This is not a temporary anomaly. It is the structural architecture of the next decade.
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 Institutional private credit functions through engineered liquidity stacks that prioritize seniority, collateral recovery, and cash flow predictability. Unlike traditional lenders constrained by uniform underwriting matrices, private credit funds design capital structures based on asset-level intelligence and sector-specific operating data.
 
@@ -58,11 +60,10 @@ Fund-III strategies rely on rapid liquidity deployment. To maintain acquisition 
 
 This technical architecture is the core differentiator between institutional private credit and legacy commercial lending.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital operates as an institutional introducer and strategic navigator across the global private credit landscape. The objective is not to replace fund managers or act as direct capital managers. The role is to position allocators, general partners, and operators within the appropriate credit architecture for their mandate.
-
-Three partnership modes structure this role.
 
 1. Capital Formation for Fund-III 
 Eighty percent of the Roials mandate centers on kapitalanskaffning for Fund-III strategies. This includes sponsor buyouts, roll-ups, and add-ons. The institutional ecosystem requires calibrated introductions that align LP expectations with GP execution capabilities. Roials ensures alignment between investor archetypes and fund strategy.

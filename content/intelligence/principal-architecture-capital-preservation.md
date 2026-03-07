@@ -31,8 +31,6 @@ A private market ruled by scarcity rewards managers who commit to structural sim
 PHASE 2. TECHNICAL MECHANICS 
 Capital preservation is built inside the mathematics of control. Not theory. Not optimism. Cash-flow discipline makes or breaks a buyout engine.
 
-Three mechanics dominate the current cycle.
-
 1. LTV Curves 
 Preservation begins with the curve itself. We operate with a simple doctrine: the curve must bend downward through amortization velocity, asset hardening, and integration synergies that produce real cash rather than paper multiples. The midpoint target for Fund-III portfolio LTV is set at 32 to 47 percent within 18 months post-acquisition. Anything above that bandwidth erodes covenant freedom.
 

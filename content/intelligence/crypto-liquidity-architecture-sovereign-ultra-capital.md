@@ -21,8 +21,6 @@ The prevailing inefficiency is structural. Crypto liquidity scales horizontally,
 
 This is the gap. Institutions that align multi-tier capital with single-tier rails achieve asymmetric extraction. The architecture we impose is not based on yield chasing. It is based on flow control. When liquidity is fragmented, the allocator who controls the settlement standard controls the system.
 
-Three hard truths define the current regime.
-
 1. Regulatory fragmentation has created arbitrageable settlement windows. 
 2. Off-chain collateralization remains under-institutionalized. 
 3. Sovereign actors require liquidity sovereignty, not exposure.

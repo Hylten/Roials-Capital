@@ -19,10 +19,9 @@ The regime has already shifted. What was once acceptable liquidity posture is no
 
 Fund-III environments magnify this truth. Add-on buyouts demand speed. Carveouts demand certainty. LPs reward managers who operate without friction. The market no longer pays for potential. It pays for architecture.
 
-PHASE 1: THE REGIME SHIFT 
-The transition from low-rate elasticity to high-rate discipline has created a technical bifurcation. Managers who operated through spread arbitrage alone are now exposed. Their structures cannot defend against capital inertia. Balance sheets built on single-path liquidity strategies are brittle. They cannot stretch across acquisition cycles or meet the timing asymmetry between cash generation and capital deployment.
 
-Three structural gaps define the new regime.
+ THE REGIME SHIFT 
+The transition from low-rate elasticity to high-rate discipline has created a technical bifurcation. Managers who operated through spread arbitrage alone are now exposed. Their structures cannot defend against capital inertia. Balance sheets built on single-path liquidity strategies are brittle. They cannot stretch across acquisition cycles or meet the timing asymmetry between cash generation and capital deployment.
 
 1. The concentration gap 
 Too much equity trapped in non-cashflowing core holdings. These assets provide stability but absorb maneuverability. Under the previous rate environment, concentration was benign. Today, it imposes drag.
@@ -35,7 +34,8 @@ The absence of silent leverage. Institutions that rely solely on explicit fundin
 
 The firms that understand these gaps build balance sheets that do not react. They lead.
 
-PHASE 2: TECHNICAL MECHANICS 
+
+ TECHNICAL MECHANICS 
 Capital efficiency is not an abstract virtue. It is mechanical. It is measured through ratios that reveal discipline or expose disorder.
 
 The LTV Curve 
@@ -71,7 +71,8 @@ Silent authority is the unspoken leverage built through collateral that never ap
 
 Institutional power is the ability to act without signalling.
 
-PHASE 3: THE STRATEGIC MODEL 
+
+ THE STRATEGIC MODEL 
 Fund-III capital formation rewards the disciplined allocator. The path to capital authority requires a three-part architecture.
 
 1. Capital Raising for Fund-III 

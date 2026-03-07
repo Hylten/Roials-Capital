@@ -20,8 +20,6 @@ Engine Three. Mandates built for national‑scale balance sheets. NAEOC tickets 
 
 This is the boom no one markets. No noise. No theatrics. Capital is moving because sponsors finally recognize the cost of dilution exceeds the cost of engineering credit solutions. Industrial operators want speed without sacrifice. Lower‑mid portfolios want expansion without equity erosion.
 
-Three sentences to close this brief.
-
 Non‑dilutive capital now defines the competitive gap. Sponsors who master it win the buyout field. Sponsors who ignore it lose the next decade.
 
 Request confidential capital audit.

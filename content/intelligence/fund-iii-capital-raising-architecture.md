@@ -15,11 +15,10 @@ Velocity governs influence. Influence governs capital.
 
 Order is not an option.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The allocator landscape in 2026 has bifurcated into two regimes. The first regime is retail-disguised capital. High-touch. Slow. Dependent on a charismatic GP. This regime collapses when the GP stops speaking. The second regime is institutionalised capital flow. Predictable. Systematic. Independent of personality and anchored in process. Fund-III is the threshold where LPs demand this second regime. Anything short of it signals operational immaturity.
-
-Three fractures dominate the current environment.
 
 1. The first fracture is allocator abstraction. LPs manage more commitments across more strategies with thinner teams. They require clean signal. They punish noise. Any fund with unstructured data rooms, weak reporting cadence, or informal distribution logs is marked down before the first diligence call. The GP never sees the rejection. The LP simply does not proceed.
 
@@ -29,7 +28,8 @@ Three fractures dominate the current environment.
 
 The regime has shifted from narrative driven capital to institutionally architected capital. GPs who miss this shift lose cycles. Cycles are opportunity. Lost opportunity compounds into structural disadvantage. At Fund-III, disadvantage becomes terminal.
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 Institutional allocators think in curves, not stories. The LTV curve. The cash flow waterfall. The recovery delta under stress conditions. The GP who cannot articulate these mechanics with precision loses credibility within minutes. The LP moves on.
 
@@ -47,7 +47,8 @@ Special mandates. NAEOC energy capital in the 50M to 250M band follows a differe
 
 Institutional capital raises do not fail because of relationships. They fail because the GP cannot demonstrate mechanical mastery.
 
-PHASE 3: THE STRATEGIC MODEL
+
+ THE STRATEGIC MODEL
 
 Fund-III requires a capital raising architecture with five non negotiable components.
 

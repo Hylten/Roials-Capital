@@ -75,7 +75,6 @@ Institutional LPs respond to infrastructure, not pitch decks. They need to see b
 
 The sovereign crypto bank regime supplies exactly that.
 
-Four rails define the capital formation engine:
 
 1. Institutional Underwriting Rail 
  Deploy standardized risk frameworks for energy, industrials, and digital infrastructure assets. Reduce LP doubt. Deliver model-ready data. Hard numbers. No fluff.
@@ -87,7 +86,7 @@ Four rails define the capital formation engine:
  Commitments receive digital certificates. Allocations are pre‑sequenced. Calls can trigger instantly. Cash friction disappears.
 
 4. Sovereign Liquidity Rail 
- A blend of tokenized private credit, regulated stable settlement assets, and traditional FX corridors. Three rails. One engine. Always liquid.
+ A blend of tokenized private credit, regulated stable settlement assets, and traditional FX corridors. One engine. Always liquid.
 
 This is the fundraising machine for Fund‑III. Precision. Control. Speed.
 

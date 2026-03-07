@@ -13,7 +13,8 @@ Order is not an option.
 
 When an economy transitions from asset inflation to collateral scarcity, the entities that survive are the entities that built sovereign capital architectures long before their peers. This is the regime we have entered. The shallow investor seeks yield. The sovereign builder seeks permanence. Permanence is engineered.
 
-[PHASE 1: THE REGIME SHIFT]
+[
+ THE REGIME SHIFT]
 
 Private markets no longer reward opportunism. They reward structure. The shift is visible across three domains.
 
@@ -27,7 +28,8 @@ Energy markets provide the clearest signal. NAEOC tier portfolios require $50M t
 
 Asset-Backed Frameworks is no longer an auxiliary discipline. It is the determinant of institutional survival.
 
-[PHASE 2: TECHNICAL MECHANICS]
+[
+ TECHNICAL MECHANICS]
 
 Precision begins with capital flow design. The sovereign architecture is a cash flow machine built on measurable parameters.
 
@@ -47,7 +49,8 @@ Collateral recovery factors in energy portfolios have been mispriced for twenty 
 
 Asset-Based Lending structures are not liquidity tools. They are timing tools. The difference is decisive. Asset-Based Lending facilities must be modelled as temporal stabilisers that allow the fund to control acquisition sequences without sacrificing covenant discipline. The correct utilisation rate for institutional Asset-Based Lending is 32 to 48 percent. Higher utilisation is desperation disguised as growth. Lower utilisation is idle capital. Neither is stewardship.
 
-[PHASE 3: THE STRATEGIC MODEL]
+[
+ THE STRATEGIC MODEL]
 
 Sovereign architecture is not a structure. It is an operating philosophy. A multi generational house builds systems that no cycle can erode.
 

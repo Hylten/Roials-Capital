@@ -13,11 +13,10 @@ The capital vacuum in North American private markets reflects a multi-cycle regu
 
 Sovereign wealth management is now the anchor model for global private capital. The allocator landscape has reorganized into a hierarchy where sovereign institutions set the risk architecture and long term performance expectations, and private funds align through strategic coordination rather than transactional capital raising. Fund-III and Fund-IV mandates are the primary beneficiaries of this realignment. These vehicles provide the scale, governance maturity, and operational standardization required for sovereign onboarding.
 
-PHASE 1: THE REGIME SHIFT
 
-The global private capital regime has transitioned from a liquidity driven expansion cycle to an efficiency driven consolidation cycle. Three dynamics define the shift.
+ THE REGIME SHIFT
 
-1. Capital Concentration  
+The global private capital regime has transitioned from a liquidity driven expansion cycle to an efficiency driven consolidation cycle. 1. Capital Concentration  
 Sovereign allocators now command more than 40 percent of global private capital firepower. Their internal risk frameworks favor asset classes with measurable physics, repeatable recovery curves, and defensible jurisdictional rule sets. Alberta heavy oil, long life infrastructure, and mature mid market buyouts align with these requirements.
 
 2. Credit Rationalization  
@@ -28,7 +27,8 @@ MiFID II evolution in Europe and Basel III endgame provisions in North America h
 
 Within this domain, sovereign wealth entities have become the system stabilizers. Their presence defines acceptable risk architecture for the rest of the capital stack. Private equity funds entering Fund-III or Fund-IV cycles increasingly must position themselves within this sovereign-led hierarchy to achieve scale and continuity.
 
-PHASE 2: TECHNICAL MECHANICS OF THE NEW SOVEREIGN MODEL
+
+ TECHNICAL MECHANICS OF THE NEW SOVEREIGN MODEL
 
 Sovereign wealth management operates on principles fundamentally different from family offices, endowments, or traditional LP structures. The defining mechanics are outlined below with precision relevant for institutional sponsors preparing for Fund-III capital formation.
 
@@ -54,11 +54,10 @@ In the energy vertical, technical recovery mechanics create an unusual alignment
 
 These attributes reduce technical uncertainty. When paired with NAEO, our strategic partner specializing in North American energy operations, sovereign allocators can engage the sector through a structure that aligns with their duration and governance thresholds.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital operates as a strategic navigator and institutional introducer. The function is not to manage assets or assume operational control. The function is to align sovereign allocators, Fund-III managers, and sector specialists into coherent capital architectures.
-
-Three vectors define the model.
 
 1. Kapitalanskaffning for Fund-III and Fund-IV  
 Roials Capital structures introductions and strategic alignment frameworks for mid market buyout sponsors entering global LP markets. The focus is governance readiness, reporting calibration, and sovereign compatible fund architecture.

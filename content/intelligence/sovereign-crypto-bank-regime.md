@@ -13,9 +13,9 @@ A structural gap is widening beneath the feet of global allocators. Sovereigns a
 
 Order is not an option.
 
-### PHASE 1: THE REGIME SHIFT
+#
 
-The rise of sovereign crypto banks is not a trend. It is a migration of state authority into programmable balance sheets. Three conditions are driving it: fiscal compression, settlement friction, and the geopolitical need for optional payment corridors. The result is a new class of monetary actors operating outside the constraints of correspondent banking. Their systems run at block time. Their risk frameworks run on real collateral instead of Basel abstractions.
+The rise of sovereign crypto banks is not a trend. It is a migration of state authority into programmable balance sheets. The result is a new class of monetary actors operating outside the constraints of correspondent banking. Their systems run at block time. Their risk frameworks run on real collateral instead of Basel abstractions.
 
 UHNWIs feel this shift before institutions do. They face five frictions: trust, settlement, opacity, throughput, and political exposure. Each friction erodes operational sovereignty. When a sovereign can settle energy trades on its own digital balance sheet while a private buyer still waits three T+ cycles for confirmation, the asymmetry becomes intolerable.
 
@@ -23,7 +23,7 @@ Fund-III is entering precisely this macro window. Capital flows are splitting in
 
 Sovereign crypto banks are not competition. They are a template for institutional scale.
 
-### PHASE 2: TECHNICAL MECHANICS
+#
 
 Capital Structuring is mechanical. It rewards architects, not speculators. The sovereigns building crypto banks are using three tools: programmable ledgers, collateral indexed to real assets, and credit issuance models tied to state resource inventories. Private capital can use the same architecture without the political noise.
 
@@ -35,7 +35,7 @@ Recovery factors change the most. Traditional recovery is slow, adversarial, and
 
 The network effect is simple: whoever controls the fastest and most transparent recovery model becomes the preferred liquidity source for UHNW operators. They value certainty over rate. They value time over yield. They value sovereignty above everything.
 
-### PHASE 3: THE STRATEGIC MODEL
+#
 
 The strategic model for Fund-III defines the position: become the private-sector equivalent of a sovereign crypto bank without adopting sovereign risk. The objective is not technology. The objective is capital authority.
 

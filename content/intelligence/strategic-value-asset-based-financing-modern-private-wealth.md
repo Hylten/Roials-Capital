@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liqu
 
 The capital vacuum in North American private markets is no longer cyclical. It is structural. It is the outcome of regulatory compression, Basel III liquidity mandates, MiFID II distribution constraints, and the retreat of traditional lenders from balance-sheet intensive activities. Family offices and private GP platforms operating today face a landscape where conventional leverage channels have fragmented. Asset based financing has reemerged not as a niche product but as a primary architecture for liquidity engineering and balance sheet optimization. The rationale is not yield seeking. It is institutional durability.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The modern allocator operates within three converging pressures.
 
@@ -23,7 +24,8 @@ Third, UHNW families face structural constraints due to asset concentration. The
 
 The consequence is a new capital regime defined by operational resilience, reduced opportunity cost, and improved strategic optionality. Asset based financing is the mechanism that translates these conditions into functional liquidity.
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 Asset based financing is often misunderstood as a loan secured by collateral. At institutional scale this is inaccurate. Modern ABL frameworks operate as liquidity infrastructure built around four core mechanics.
 
@@ -58,7 +60,8 @@ Liquidity engineering is not a tactic but a structural discipline. It is the mec
 Energy Sector Technical Note  
 In the North American energy landscape, ABL interacts with asset quality in a unique manner. Heavy oil reserves with clear decline curves, established SAGD operations, or CSS facilities have quantifiable recovery factors. These predictable subsurface mechanics allow for precise reserve-based valuation and consistent ABL deployment. Our strategic partner, NAEO, builds these structures with operational specificity around reservoir physics and Alberta regulatory topology. This creates institutional-grade underwriting reliability.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital functions as an institutional navigator rather than a lender. The role is strategic rather than transactional. The firm introduces families, GPs, and private credit desks to the correct structure and the correct partners. The model has three components.
 

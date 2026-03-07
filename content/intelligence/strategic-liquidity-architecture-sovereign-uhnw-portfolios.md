@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liqu
 
 The capital vacuum in North America's energy sector is a function of regulatory drift and institutional withdrawal rather than any decline in underlying asset quality. The result is a multi year dislocation where balance sheet constrained operators control long lived conventional reserves while institutional lenders continue to restrict exposure due to policy conditioned risk perception. In parallel, sovereign allocators and ultra high net worth principals are navigating a global regime shift where liquidity premiums, structural seniority, and operational transparency hold more relevance than nominal yield targets. Strategic liquidity architecture has therefore evolved into a discipline of capital routing rather than capital deployment.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 Institutional allocators are recalibrating portfolios within a macro environment defined by four structural forces.
 
@@ -25,7 +26,8 @@ Institutional allocators are recalibrating portfolios within a macro environment
 
 These structural drivers form the backdrop against which liquidity engineering has become the central discipline for portfolio stability. Allocators are no longer optimizing for outperformance. They are optimizing for resilience, optionality, and regime neutral positioning.
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 The mechanics of liquidity engineering for sovereign and UHNW portfolios follow a disciplined architecture. The following components represent the operational foundation of current Fund-III capital formation mandates and strategic energy introductions.
 
@@ -67,7 +69,8 @@ Key mechanics include:
 
 The Alberta market is therefore not a yield seeking environment. It is a structural efficiency environment where liquidity discipline, operational intelligence, and technical evaluation of reservoir mechanics determine the value capture curve.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital operates as a neutral strategic navigator, not an asset originator. The primary function is to map allocators to institutional grade operators whose assets align with the allocator's sovereign, family office, or private credit mandates.
 

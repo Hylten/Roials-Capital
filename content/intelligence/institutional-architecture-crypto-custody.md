@@ -13,7 +13,8 @@ The capital vacuum within decentralized asset custody is a consequence of regula
 
 This briefing outlines the institutional architecture of protecting multi generational wealth through crypto custody. The objective is not to promote any specific vehicle. The objective is to clarify the structural mechanics so that allocators, family governance boards, and private office principals can navigate the next decade of digital asset oversight with discipline.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The regulatory environment governing digital assets exhibits the characteristics of an incomplete regime. In traditional capital markets, settlement, clearing, and asset servicing have decades of harmonization behind them. Digital assets evolved outside this harmonization. The asset class is now entering a consolidation phase driven by three macro forces.
 
@@ -25,7 +26,8 @@ Third, the liquidity profile of digital assets has stabilized relative to their 
 
 This shift mirrors other regime transitions. When the Alberta heavy oil market transitioned from speculative land plays to engineering driven SAGD and CSS technical operations, the capital that prevailed was the capital that understood operational physics rather than promotional narratives. A similar transformation is occurring in digital custody. Asset control is shifting from individual technical operators to regulated, operationally redundant institutional custodians.
 
-PHASE 2: TECHNICAL MECHANICS OF CRYPTO CUSTODY
+
+ TECHNICAL MECHANICS OF CRYPTO CUSTODY
 
 Institutional grade custody requires infrastructure design that aligns with the sensitivity and magnitude of the capital it protects. For multi generational wealth, security models must focus on failure mode elimination, not simply threat mitigation. The capital at stake requires engineering precision comparable to large scale infrastructure or energy extraction operations.
 
@@ -51,7 +53,8 @@ Auditability and forensic transparency
 
 Internal and external audit functions must be continuous rather than periodic. Digital assets allow for granular inspection of movement histories. Institutional custodians leverage this to maintain immutable compliance trails consistent with MiFID II, FATF, and regional AML frameworks. This level of transparency extends beyond operational assurance. It supports Asset-Backed Frameworks activities when family offices utilize digital assets as structural collateral in broader balance sheet optimization.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital operates as an institutional navigator. The firm is not a custodian and does not manage digital assets. Instead, it functions as a strategic introducer identifying and validating custody infrastructures that meet allocator grade requirements. This approach aligns with our broader mandate. Eighty percent of our focus is on kapitalanskaffning for Fund-III and successor vehicles. Ten percent pertains to asset backed lending and Capital Structuring. Ten percent involves special mandates including energy acquisitions through institutional partners such as NAEO and MiFID II driven European consolidation strategies.
 

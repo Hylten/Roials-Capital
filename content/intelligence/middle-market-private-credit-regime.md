@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, private credit, middle market, Asset-Backed Frame
 
 A structural gap appears when capital migrates faster than underwriting standards can adapt. The middle market sits precisely in that imbalance. Capital entered. Infrastructure did not. That is the opportunity.
 
-Phase 1: The Regime Shift
+
+ The Regime Shift
 
 The private credit landscape has moved into a regime defined by three non-negotiable forces.
 
@@ -27,7 +28,8 @@ Institutional LPs understand that private credit is no longer a niche carve-out.
 
 ROIALS CAPITAL states the position clearly: the middle market is the most asymmetric risk adjusted credit opportunity available today. We operate where complexity deters slower capital.
 
-Phase 2: Technical Mechanics
+
+ Technical Mechanics
 
 Middle-market private credit performance is determined by three mechanical elements: LTV discipline, cash flow visibility, and recovery velocity. When these triage points are engineered correctly, you remove noise and build mathematically predictable outcomes.
 
@@ -49,7 +51,8 @@ The NAEOC corridor of 50M to 250M is entering a multi-year capital scarcity phas
 MiFID II European Acquisitions:
 Regulatory fragmentation suppresses transaction speed. This is not a disadvantage. It is an entry barrier. Firms with internal compliance architecture can move faster and gain price leverage. The capacity to close where others cannot is itself a return driver.
 
-Phase 3: The Strategic Model
+
+ The Strategic Model
 
 ROIALS CAPITAL operates with a singular institutional objective: raise and deploy capital into Fund-III structures designed for mid-market buyouts, add-ons, and operating platform consolidation. The core of the model is velocity with precision.
 

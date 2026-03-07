@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Inst
 
 The capital vacuum in North American private markets is the predictable outcome of regulatory compression, institutional risk aversion, and the retreat of traditional lenders from structurally sound middle market transactions. This vacuum is not a signal of deteriorating asset quality. It reflects a misalignment between liquidity supply and operational demand across the Fund-III archetype, where acquisition velocity, platform integration, and balance sheet normalization require a form of liquidity that traditional credit channels cannot deliver with precision.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The current environment is defined by capital scarcity relative to operational needs, not capital scarcity relative to opportunity. Across United States and European private markets, allocators observe three convergent distortions.
 
@@ -23,7 +24,8 @@ The current environment is defined by capital scarcity relative to operational n
 
 The allocator is navigating a global market where opportunity velocity is high, yet liquidity precision is low. This is the environment in which Asset-Backed Frameworks transforms from a tactical tool to a strategic necessity.
 
-PHASE 2: TECHNICAL MECHANICS OF INSTITUTIONAL Capital Structuring
+
+ TECHNICAL MECHANICS OF INSTITUTIONAL Capital Structuring
 
 Monetization Architecture in institutional settings is the disciplined architecture of off balance sheet liquidity, structured seniority, collateral isolation, and cash flow predictability. Roials Capital applies a standardized protocol built around four core mechanics.
 
@@ -69,11 +71,10 @@ Institutional standards require collateral that can be validated, isolated, and 
 
 Asset hardening elevates collateral integrity to institutional grade and ensures that liquidity facilities support productive use rather than balance sheet fragility.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 The Roials Capital model is structurally different from traditional financing channels. The firm does not act as a lender or asset owner. The role is institutional introduction, strategic alignment, and transaction navigation.
-
-Three partnership channels define the engagement architecture.
 
 1. Capital Acquisition for Fund-III 
 This is the dominant mandate. Roials Capital works with global LP bases, family offices, sovereign institutions, and private allocators to expand capital access for Fund-III buyout platforms. The engagement focuses on:

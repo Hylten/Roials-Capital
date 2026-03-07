@@ -54,7 +54,6 @@ Fund‑III is when:
 Kapitalanskaffning at Fund‑III level becomes a capital‑allocation referendum. Institutions vote on who has operational sovereignty in their thesis. Raise or fail. Deploy or dilute. No third path.
 
 RECAPITALIZATION WAVE: 2025–2029 
-Five drivers define the recap wave:
 
 • Elevated refinancing costs 
 • Stranded portfolios from 2021–2022 acquisitions 

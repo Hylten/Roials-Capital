@@ -15,7 +15,8 @@ This briefing outlines the institutional playbook for capital preservation in a 
 
 ---
 
-PHASE 1: THE REGIME SHIFT 
+
+ THE REGIME SHIFT 
 The global capital environment has transitioned from an era of indiscriminate liquidity to one defined by balance sheet stratification. Post-pandemic monetary acceleration created three distortions that now define allocator decision making:
 
 1. The compression of real yields relative to capital risk. 
@@ -32,10 +33,9 @@ These realities define the regime shift: capital is not scarce in aggregate. It 
 
 ---
 
-PHASE 2: TECHNICAL MECHANICS 
-Capital preservation emerges from mechanics, not positioning. Three domains matter most: buyout architecture in Fund-III, Capital Structuring for mid-market borrowers, and the operational physics of North American energy.
 
-A. Fund-III BUYOUT MECHANICS 
+ TECHNICAL MECHANICS 
+Capital preservation emerges from mechanics, not positioning. A. Fund-III BUYOUT MECHANICS 
 The modern Fund-III architecture is no longer a replication of Fund I and Fund II strategies. Capital preservation under Fund-III requires:
 
 - Sequenced acquisition pacing aligned with interest rate inflection windows. 
@@ -86,10 +86,10 @@ This combination transforms heavy oil assets into predictable cash flow engines 
 
 ---
 
-PHASE 3: THE PARTNERSHIP MODEL 
+
+ THE PARTNERSHIP MODEL 
 Roials Capital does not occupy the role of fund manager. It functions as a strategic navigator and institutional introducer. For allocators seeking capital preservation, the partnership model aligns expertise, asset-class mechanics, and regulatory structuring without assuming discretionary management authority.
 
-Four vectors define this model:
 
 1. Strategic Alignment 
 Roials Capital evaluates allocator objectives though institutional calibration. The focus is on capital preservation, duration matching, and risk weighted exposure rather than product orientation.

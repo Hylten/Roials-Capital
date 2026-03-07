@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, private credit, M&A architecture, alberta energy,
 
 The capital vacuum shaping Western markets is the predictable consequence of regulatory compression, bank de-risking, and the declining risk appetite of traditional lenders. This vacuum is not a reflection of weaker assets. It is the structural outcome of shifts in Basel frameworks, European prudential governance, and North American reserve treatment. The modern gap is between what institutional buyers demand and what regulated lenders can underwrite. Private credit has become the dominant mechanism for resolving this misalignment.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The transition to a private-credit driven M&A environment started as a cyclical response but has matured into a structural regime. Three macro drivers define the current landscape:
 
@@ -23,7 +24,8 @@ The transition to a private-credit driven M&A environment started as a cyclical 
 
 In this regime, private credit is not opportunistic capital. It is systemic infrastructure. It provides certainty of execution, which has become more valuable than nominal pricing. For Fund-III environments, certainty of execution has become the dominant competitive variable because AUM expansion is constrained by two forces: slower LP commitments and increasingly complex regulatory disclosures.
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 Modern M&A architecture operates through four primary private-credit modalities. Each resolves a specific failure within the traditional banking ecosystem.
 
@@ -60,7 +62,8 @@ When private credit intersects with physical assets, particularly large scale he
 B. EU MiFID II Controlled Acquisitions
 European mid-market consolidators face a bank market shaped by ECB oversight and stringent transparency requirements. Private credit provides speed, confidentiality, and certainty. These characteristics matter when acquiring cross-border targets subject to divergent supervisory frameworks.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital does not operate as a lender or sponsor. It functions as a strategic navigator that aligns allocators, private credit platforms, and sector specialists. For energy mandates, this includes institutional introductions to NAEO, where technical due diligence, reservoir modeling, and Alberta basin physics converge into a coherent operational profile.
 

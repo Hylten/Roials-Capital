@@ -13,8 +13,6 @@ The winners move now.
 
 NAV credit is no longer measured by headline advance rates. The real leverage is temporal. GPs use consolidated portfolio NAV-seasoned assets, stabilized EBITDA, contracted cashflow-to pull forward add‑on execution by entire quarters. Deployment accelerates. LP pacing stabilizes. GP control tightens.
 
-Three dynamics matter.
-
 First. Consolidation pressure. Platform assets in the $40M–$150M enterprise value band trade faster when the GP can strike without waiting for capital calls. NAV lines give that strike capability. Clean. Coordinated. Pre-approved at fund level. The GP commands the clock, not the market.
 
 Second. Cross‑asset liquidity.  

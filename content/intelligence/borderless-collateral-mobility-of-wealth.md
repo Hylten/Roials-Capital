@@ -13,8 +13,6 @@ Fund-III environments intensify this requirement. Buyouts depend on conversion v
 
 Institutional LPs respond to one signal above all: mobility of security. If collateral cannot move, capital will not follow. If assets cannot be pledged under multiple jurisdictions without complete restructuring, the GP loses its ability to raise at scale. The ROIALS CAPITAL doctrine is straightforward-engineer collateral that behaves like sovereign wealth but moves like liquidity. Hard edges. Clean lines. Rapid transferability. Zero jurisdictional drag.
 
-Three forces drive this evolution.
-
 First: regulatory divergence. OECD jurisdictions are fragmenting. Reporting burdens increase. Banks retreat. MiFID II tightens. Basel IV constrains. This fragmentation creates arbitrage windows for private vehicles capable of moving collateral faster than public institutions can synchronize. Second: institutional risk migration. Pension funds, sovereign funds, and insurance balance sheets shift away from traditional fixed income, demanding asset‑backed private credit exposure with multi‑jurisdictional enforceability. Third: corporate consolidation pressure. Buyout ecosystems expand. Add‑on strategies depend on asset mobility to merge, recapitalize, or spin off without jurisdictional entanglement.
 
 These forces converge into one question: how do you design collateral that is both jurisdictionally anchored and operationally free? The answer lies in borderless collateral engineering-a set of structural mechanisms that allow assets, cashflows, and rights to exist simultaneously in multiple enforcement environments while remaining optimized for rapid redeployment.

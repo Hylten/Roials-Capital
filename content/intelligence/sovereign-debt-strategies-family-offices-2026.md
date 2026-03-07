@@ -13,7 +13,8 @@ The capital vacuum in the sovereign fixed income landscape is a function of frag
 
 This briefing outlines a clinical, institutional framework for how UHNW family offices are restructuring sovereign allocations to enhance liquidity architecture, reinforce duration discipline, and create a dynamic interface between sovereign debt and private market deployment, particularly ahead of Fund-III commitments, acquisition-oriented private credit, and European MiFID II governed mandates.
 
-PHASE 1: THE REGIME SHIFT  
+
+ THE REGIME SHIFT  
 
 2026 is characterized by three structural forces that influence sovereign debt behavior:  
 - The deceleration of global disinflation relative to policy rate persistence.  
@@ -30,7 +31,8 @@ The current regime reclassifies sovereign debt into functional categories:
 
 Family offices that navigate this regime shift with discipline avoid the historic error of treating sovereigns as a binary choice. Instead, they integrate sovereign exposure directly into their capital rotation model, creating fluidity between safe collateral and higher return private allocations without violating prudential boundaries.
 
-PHASE 2: TECHNICAL MECHANICS OF SOVEREIGN LIQUIDITY ARCHITECTURE  
+
+ TECHNICAL MECHANICS OF SOVEREIGN LIQUIDITY ARCHITECTURE  
 
 Sovereign debt strategies in 2026 require precision in duration alignment, collateral potential, and jurisdictional risk. The following mechanics define the institutional decision framework.
 
@@ -71,7 +73,8 @@ Institutional allocators apply cross jurisdictional techniques:
 
 This ensures sovereign debt remains a structural anchor rather than a speculative vehicle.
 
-PHASE 3: THE PARTNERSHIP MODEL  
+
+ THE PARTNERSHIP MODEL  
 
 Roials Capital operates strictly as a strategic navigator and institutional introducer. Our role is to align sovereign debt positioning with broader capital strategies including:
 

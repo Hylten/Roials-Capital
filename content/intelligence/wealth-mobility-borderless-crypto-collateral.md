@@ -84,7 +84,7 @@ Case Study: $180M Cross Border Crypto Collateral Enabled Acquisition of a Europe
 Context 
 A mid market private equity operator identifies a distressed but strategically valuable energy logistics platform in Southern Europe. Asset includes pipeline rights, storage facilities, and a modular processing station. Comparable to a hybrid of oilfield logistics and NAEOCCC energy infrastructure investment. Distress stems from a liquidity shortage and regulatory misalignment during a MiFID II reporting overhaul.
 
-A competitive auction is scheduled. Three bidders depend on bank financing timelines. The PE operator instead uses a borderless crypto collateral system to secure immediate negotiation leverage.
+A competitive auction is scheduled. The PE operator instead uses a borderless crypto collateral system to secure immediate negotiation leverage.
 
 Step 1. Collateral Inventory 
 The UHNW anchor investor holds:

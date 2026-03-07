@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Capi
 
 The capital vacuum in middle-market acquisition structures is not the result of deal scarcity. It is the direct product of regulatory drift that has compressed traditional bank participation and created a structural opening for non-bank institutional capital to price seniority across Fund-III and Fund-IV ecosystems. The allocators who understand this shift are not searching for incremental yield. They are architecting positions inside supply constrained capital stacks where technical underwriting and operational control determine the risk surface more than the coupon.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The global capital environment in 2026 is defined by three interacting forces that shape every GP and LP decision pathway:
 
@@ -26,7 +27,8 @@ Demand for structured capital solutions continues to accelerate, especially for 
 
 The result is a new capital regime. Allocators no longer evaluate funds solely based on past performance. They evaluate the strategic architecture of capital access, liquidity structuring, and cross-border compliance alignment.
 
-PHASE 2: TECHNICAL MECHANICS OF CAPITAL RAISING INFRASTRUCTURE FOR Fund-III STRATEGIES
+
+ TECHNICAL MECHANICS OF CAPITAL RAISING INFRASTRUCTURE FOR Fund-III STRATEGIES
 
 A Fund-III environment is fundamentally different from Fund-I or Fund-II. The requirements shift from opportunistic execution toward institutional systematization. Capital raising infrastructure becomes a decisive advantage.
 
@@ -61,11 +63,11 @@ Strategic Collateralization is not leverage. It is a timing mechanism that incre
 Successful capital raising infrastructures require jurisdictional alignment. The MiFID II acquisition channel in Europe, the Alberta-based NAEOC partnership channel in North America, and the Middle East private office ecosystem each operate under different rule sets. 
 A Fund-III GP must provide allocators with a compliance architecture that protects them across borders while preserving deal certainty.
 
-PHASE 3: THE STRATEGIC MODEL AND THE ROLE OF ROIALS CAPITAL
+
+ THE STRATEGIC MODEL AND THE ROLE OF ROIALS CAPITAL
 
 As a strategic navigator and introducer, ROIALS CAPITAL does not function as a fund manager. Its institutional role is to construct the architecture through which sophisticated LPs, GPs, and private credit funds align.
 
-Four core operational pillars define this model:
 
 1. Institutional Introduction Infrastructure 
 This includes the calibration of GP positioning, the mapping of LP mandates, and the creation of compatibility matrices that identify structural alignment across risk appetite, jurisdiction, and operational focus.

@@ -306,8 +306,6 @@ This is why covenant aligned enterprises outperform speculative entities in ever
 ## Operational White Space for Global Capital Allocation
 
 The capital market in 2026 contains structural white space. 
-Three zones carry disproportionate opportunity.
-
 ### Zone 1. Private Credit Elasticity 
 Traditional banking is contracting. 
 Private credit is absorbing the overflow. 

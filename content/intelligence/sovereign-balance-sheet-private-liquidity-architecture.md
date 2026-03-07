@@ -13,7 +13,8 @@ The capital vacuum in North America's energy sector is a structural consequence 
 
 The following briefing outlines the structural regime shift shaping institutional capital formation, the mechanics of Alberta’s high-certainty heavy oil systems, the partnership-model architecture applied by Roials Capital, and the stewardship framework that governs capital deployment. The objective is to equip allocators with a calibration tool for sovereign-grade balance sheet engineering, particularly for Fund-III+ buyouts, energy-backed mandates, and liquidity engineering structures anchored in real operational throughput.
 
-PHASE 1: THE REGIME SHIFT  
+
+ THE REGIME SHIFT  
 North American private markets have entered a bifurcated regime defined by a divergence between asset needs and capital availability. This divergence originates from three accelerants.
 
 • Regulatory overextension that restricts traditional lenders from financing carbon-intensive assets regardless of operational merit.  
@@ -26,7 +27,8 @@ Institutional balance sheet construction in 2026 requires integrating high-certa
 
 Capital formation in Europe and the GCC mirrors this same vacuum. Banks are capital constrained. Direct lenders avoid hydrocarbon exposure. Allocators seeking convexity must therefore pair private credit structures with operational assets that offer measurable deliverability. This creates the modern architecture for buyouts, ABL frameworks, and energy-secured mandates that can function inside an institutional-grade sovereign balance sheet.
 
-PHASE 2: TECHNICAL MECHANICS  
+
+ TECHNICAL MECHANICS  
 The Alberta energy landscape is a repository of high-predictability recovery systems that operate through thermal and horizontal extraction techniques. Understanding these systems is essential for any allocator calibrating risk, throughput, and collateral stability.
 
 SAGD, or Steam Assisted Gravity Drainage, is the backbone of Alberta’s thermal recovery ecosystem. It operates by injecting steam into an upper well to heat viscous heavy oil, reducing its viscosity and allowing it to drain by gravity into a parallel lower producer well. The mechanics create a stable production curve with low decline rates relative to conventional wells. Once the thermal chamber is established, volumetric predictability becomes one of SAGD’s defining characteristics. For allocators, this predictability translates into stable production-linked cash flow, which is critical for liquidity engineering and asset-based financing.
@@ -41,7 +43,8 @@ For allocators pursuing sovereign-grade balance sheet design, the relevant insig
 
 Operators such as North American Energy Opportunities, or NAEO, integrate SAGD, CSS, and horizontal systems into multi-asset portfolios. The integration is not theoretical. It is operational. NAEO’s field teams specialize in volumetric modeling, steam-to-oil ratios, and pad-level optimization. This creates a platform where production stability can serve as the backbone for institutional liquidity structures.
 
-PHASE 3: THE PARTNERSHIP MODEL  
+
+ THE PARTNERSHIP MODEL  
 Roials Capital operates as a strategic navigator inside the global private markets ecosystem. The role is not to manage assets, originate wells, or operate facilities. The role is to align institutional allocators with operational partners that meet specific thresholds of technical maturity, throughput reliability, governance integrity, and balance sheet resilience.
 
 The partnership model integrates three axes.

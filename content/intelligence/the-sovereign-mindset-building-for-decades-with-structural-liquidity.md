@@ -85,11 +85,7 @@ Institutional precision. Decisions follow architecture, not emotion.
 
 When applied correctly, these principles create wealth systems that remain stable for decades.
 
-## Building The Next Thirty Years Instead Of The Next Three
-
-The sovereign mindset is concerned with the next thirty years, not the next three.
-
-It rejects short term reactivity.
+## Building The Next Thirty Years Instead Of The Next It rejects short term reactivity.
 
 It emphasizes resilience.
 

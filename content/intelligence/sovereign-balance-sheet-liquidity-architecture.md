@@ -19,7 +19,8 @@ This creates one of the few predictable regimes for Fund-III operators who under
 
 I will outline the architecture.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 A structural shift in liquidity regimes has already occurred. The key markers are visible to any technical observer.
 
@@ -34,7 +35,8 @@ Fund-III managers who understand this climate can raise capital at scale by adop
 
 Sovereign balance sheet design is not theoretical. It is operational.
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 A sovereign-grade balance sheet behaves predictably across shocks. Predictability is engineered through four mechanisms.
 
@@ -66,7 +68,8 @@ A sovereign balance sheet operates with layered liquidity. At Fund-III scale, th
 
 This blend produces institutional trust. Institutional trust produces commitments.
 
-PHASE 3: THE STRATEGIC MODEL
+
+ THE STRATEGIC MODEL
 
 The sovereign balance sheet becomes operational when the GP adopts a strategic model rooted in the discipline of stewardship. Stewardship is not softness. It is the elimination of waste. It is the eradication of disorder. It is the belief that capital must be placed in the hands of those who treat it as covenant, not commodity.
 

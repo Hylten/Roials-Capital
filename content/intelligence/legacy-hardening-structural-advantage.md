@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liqu
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion. This single structural fact underpins the institutional rediscovery of hard-asset income strategies and is reshaping the opportunity velocity across private markets. Legacy hardening is not a branding phrase. It is a balance sheet discipline that converts mature, long curve assets into durable multi cycle anchors within an allocator's portfolio architecture.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The current regime shift can be defined by three convergent pressures: capital misallocation in energy transition cycles, the withdrawal of traditional credit intermediation, and the realignment of institutional hurdle rates toward harder collateral structures. The North American energy ecosystem has entered a multi year efficiency phase driven by underinvestment rather than overproduction. Since 2015, upstream and midstream operators have reduced capex intensity more than 40 percent while simultaneously extending productive life across legacy assets with stable decline curves.
 
@@ -21,7 +22,8 @@ In parallel, global credit markets have shifted into a fragmentation cycle. Regi
 
 This realignment is shaping Fund-III strategies. The allocator class is moving away from abstract yield and into balance sheet optimization anchored in operational intelligence. Legacy hardening becomes the filter through which mature assets, undercapitalized operators, and multi decade resource bases can be converted into institutional grade structures.
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 Legacy hardening in the energy domain is not a macro thesis. It is a set of technical mechanics that institutional capital can model with precision. Alberta's heavy oil fields operate within known basin physics. SAGD wells produce through a dual wellbore system where steam chamber uniformity controls recovery efficiency. The recovery factor in mature SAGD fields often stabilizes within a 35 to 45 percent range. Operators such as our strategic partner NAEO optimize this through calibrated steam oil ratios, controlled subcool parameters, and targeted infill drilling to maintain chamber continuity.
 
@@ -41,7 +43,8 @@ This is not opportunistic lending. It is balance sheet engineering applied to re
 
 Outside the energy vertical, the same logic applies to private M and A environments. Legacy hardening in a buyout context aligns with yield on cost discipline, replacement cost evaluations, and capital stack recalibration. Allocators are prioritizing structures where equity is insulated by senior secured positions and operational cash flows are stabilized through efficiency programs rather than expansion capex.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital operates as a strategic navigator and institutional introducer. The objective is not product placement. The objective is alignment between allocator mandates, jurisdictional frameworks, and operational partners capable of executing with institutional discipline.
 

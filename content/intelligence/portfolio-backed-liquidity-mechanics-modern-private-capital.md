@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liqu
 
 The capital vacuum in private markets did not emerge from declining opportunity sets. It emerged from structural congestion created by regulatory tightening, higher base rates, and the retreat of traditional lenders from middle market exposures. The resulting distortion has made portfolio backed liquidity one of the most important instruments for allocators seeking to preserve operational continuity, accelerate add on sequencing, and reinforce balance sheet resilience without diluting strategic control.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The post 2022 capital regime introduced a new pricing logic across North American and European private markets. The previous decade allowed general partners to rely on covenant light structures, cheap leverage, and undisciplined refinancing pathways. That environment has unwound. Multiple dynamics now define the allocator landscape:
 
@@ -24,7 +25,8 @@ Under these conditions, liquidity is no longer episodic. It is a permanent desig
 
 The regime shift has created an environment where middle market buyout platforms are capital constrained not because of deal scarcity but because of balance sheet friction. The absence of flexible liquidity has become a limiting factor on opportunity velocity, not origination capacity.
 
-PHASE 2: TECHNICAL MECHANICS OF PORTFOLIO BACKED LIQUIDITY
+
+ TECHNICAL MECHANICS OF PORTFOLIO BACKED LIQUIDITY
 
 Portfolio backed liquidity is not a monolithic category. It is a multi tool used by allocators and general partners to transition from static capital structures to dynamic balance sheet architectures. Its mechanics can be understood through several operational vectors:
 
@@ -82,7 +84,8 @@ Portfolio backed liquidity accelerates opportunity velocity by maintaining a con
 
 This converts liquidity from a defensive tool into an offensive capability.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital operates as a strategic navigator and institutional introducer across global private markets. In energy linked mandates, the organization aligns with NAEO, an operational partner with technical expertise in the Alberta basin. In private credit, buyout, and M&A cycles, Roials Capital focuses on balance sheet optimization and liquidity architecture.
 

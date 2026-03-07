@@ -45,8 +45,6 @@ PHASE 3. THE PARTNERSHIP MODEL
 
 Roials Capital operates as a strategic navigator within this realignment. The firm does not create credit. It curates collateral structures, counterparty architecture, and liquidity routes that match the institutional archetype of the allocator. The objective is clarity, not distribution.
 
-Three strategic mandates dominate the current environment.
-
 1. Kapitalanskaffning for Fund-III and forward. The core alignment remains private equity buyouts and operational add ons. These require liquidity precision. Crypto backed ABL functions as a bridge utility that allows allocators to maintain illiquid program integrity while freeing capital for expansion.
 
 2. Asset based liquidity engineering for UHNW balance sheets. Crypto collateral serves as an uncorrelated borrowing base. The structure is often used to facilitate cross border capital alignment, M&A preparation, or liquidity adjustments prior to major acquisition windows.
@@ -60,8 +58,6 @@ The partnership model focuses on structural navigation. Roials Capital provides 
 PHASE 4. THE STEWARDSHIP FILTER
 
 Stewardship is not sentiment. It is the discipline of aligning capital with purpose, durability, and non wasteful deployment. Allocators operating at UHNW scale increasingly apply stewardship as a screen for liquidity decisions.
-
-Three stewardship principles define current decision making.
 
 1. Preservation before acceleration. Liquidity is not pursued to increase leverage. It is pursued to maintain strategic optionality and avoid unnecessary asset liquidation. This reflects the principle in Proverbs 13:22 which highlights the enduring nature of multigenerational capital.
 

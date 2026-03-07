@@ -70,7 +70,7 @@ Kapitalanskaffning for Fund‑III is not about raising money. It is about provin
 
 If one collapses, the fund collapses.
 
-Private credit is the spine. Not an accessory. Not a supplement. The spine. Middle-market sponsors need predictable credit partners that price risk accurately and move decisively. Yet the majority of lenders miscalculate both. They either move too slow or too soft. High spread. Low conviction. Sponsors need high conviction. Structured execution. Compressed timelines. The geometry punishes hesitation. Machine gun decision cycles. Three to five seconds. Three to five days. Process acceleration becomes alpha.
+Private credit is the spine. Not an accessory. Not a supplement. The spine. Middle-market sponsors need predictable credit partners that price risk accurately and move decisively. Yet the majority of lenders miscalculate both. They either move too slow or too soft. High spread. Low conviction. Sponsors need high conviction. Structured execution. Compressed timelines. The geometry punishes hesitation. Machine gun decision cycles. Process acceleration becomes alpha.
 
 The principal geometry includes an under-recognized dimension: institutional Hierarchical Dynamics. LPs upgrade or downgrade a sponsor based on information density, decision clarity, and operational throughput. Fund‑III is the filter. If the sponsor demonstrates institutional posture, LPs increase exposure. If not, they withdraw quietly. No second chances.
 

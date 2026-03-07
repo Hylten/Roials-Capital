@@ -71,7 +71,8 @@ Moving fast is now the safer architecture.
 
 ---
 
-PHASE 2: PRINCIPAL VOICE  
+
+ PRINCIPAL VOICE  
 THE REAL REASON FOR THE SHIFT  
 The public narrative hides the truth. The truth is simpler.
 

@@ -23,8 +23,6 @@ The GP defines the frame.
 The reporting stack conforms to it.  
 Never invert the order.
 
-Three pillars.
-
 1. Governance Spine.  
 Board clarity.  
 Voting discipline.  

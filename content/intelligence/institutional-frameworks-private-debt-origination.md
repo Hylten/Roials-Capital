@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Capi
 
 The structural gap defining private debt origination in 2026 is the direct result of regulatory divergence and capital flight from traditional credit markets, not a deterioration in underlying asset performance. This shift has created a predictable regime where institutional allocators with disciplined underwriting frameworks can access opportunities characterized by quantifiable collateral physics, transparent decline curves in energy, and operationally anchored cash flow structures across middle market buyouts.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 The withdrawal of commercial lenders from the middle market is not cyclical. It is a regime-level realignment driven by liquidity coverage rules, Basel IV capital weights, and supervisory scrutiny on industry concentrations. The result is a capital vacuum in the sub USD 500M transaction layer. This vacuum is most visible in:
 
@@ -24,7 +25,8 @@ Institutional allocators now engage in private credit origination not as an oppo
 
 In this environment, Fund-III structures dedicated to buyouts and add-ons are experiencing a renewed demand curve, driven by the need for bespoke origination channels and repeatable underwriting methodologies. Allocators are no longer seeking exposure to generic private debt. They are seeking frameworks that can consistently penetrate the origination bottleneck and deliver institutional grade visibility on asset protection.
 
-PHASE 2: TECHNICAL MECHANICS OF PRIVATE DEBT ORIGINATION
+
+ TECHNICAL MECHANICS OF PRIVATE DEBT ORIGINATION
 
 Origination is not a pipeline function. It is an institutional architecture that manages four variables: collateral integrity, operational cash conversion, counterparty discipline, and structural seniority. Each variable must be quantifiable at underwriting.
 
@@ -77,7 +79,8 @@ Key mechanics include:
 
 Our strategic partner, NAEO, specializes in structuring operator level financing to match these technical realities. This creates a transparent underwriting environment where reservoir dynamics function as the foundation of credit analysis.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital operates as a strategic navigator and institutional introducer for allocators evaluating private debt platforms, Fund-III structures, and special mandates. The mandate is not to sell exposure or represent the underlying asset owners. The mandate is to:
 
@@ -118,8 +121,7 @@ Underwriting quality now outperforms market selection. The advantage lies in ori
 Principle Two 
 Asset-Backed Frameworks is a core institutional function. Asset-Based Lending, bridge structures, and operational credit lines allow GPs to stabilize portfolio companies during volatility rather than rely on delayed equity injections.
 
-Principle Three 
-Strategic alignment reduces risk. When operators, capital partners, and introducers operate within defined boundaries of responsibility, allocators benefit from transparency and predictable governance.
+Principle When operators, capital partners, and introducers operate within defined boundaries of responsibility, allocators benefit from transparency and predictable governance.
 
 Roials Capital provides the institutional mapping, operational intelligence, and strategic alignment necessary for allocators evaluating Fund-III strategies, Asset-Based Lending driven liquidity frameworks, or energy linked mandates requiring technical accuracy.
 

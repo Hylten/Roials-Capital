@@ -32,7 +32,7 @@ Layer One: Primary domicile aligned with institutional reporting comfort.
 Layer Two: Transactional jurisdiction optimized for speed, enforceability, and bankruptcy remoteness. 
 Layer Three: Asset-level jurisdiction aligned with operational realities, security interests, and liquidation priority.
 
-Three layers. One signal. Zero drift.
+One signal. Zero drift.
 
 Institutional LPs quietly benchmark GPs on jurisdiction before they benchmark returns. They never admit it, but the record shows it. Preservation is structure, not alpha. Alpha is a bonus. Preservation is the job.
 
@@ -59,7 +59,7 @@ Asset-Based Lending requires precision. Three moves define institutional-grade A
 
 Banks rarely understand the nuance. Private credit lenders often overprice the nuance. The GP who understands both worlds controls the middle. Control is preservation.
 
-Now, MiFID II acquisition mandates. The European regime is a labyrinth. Complex on paper. Simple in practice. Three rules: disclosure discipline, suitability architecture, and product governance. MiFID II does not destroy deals. MiFID II punishes sloppy structuring. Preservation in this context requires regulatory choreography. Step wrong, and the deal suffers time decay. Step properly, and the asset moves smoothly through the compliance corridor.
+Now, MiFID II acquisition mandates. The European regime is a labyrinth. Complex on paper. Simple in practice. MiFID II does not destroy deals. MiFID II punishes sloppy structuring. Preservation in this context requires regulatory choreography. Step wrong, and the deal suffers time decay. Step properly, and the asset moves smoothly through the compliance corridor.
 
 We run MiFID II as a pre-deal engineering function. Not after. Not adjacent. Front-loaded. Compressed. Aligned. Institutions appreciate speed only when it preserves compliance. Speed that violates compliance is not speed. It is negligence.
 

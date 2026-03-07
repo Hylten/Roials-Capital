@@ -17,7 +17,8 @@ Tokenization is not a technology trend. It is a settlement compression mechanism
 
 This is the regime shift.
 
-PHASE 1: THE REGIME SHIFT 
+
+ THE REGIME SHIFT 
 The private markets have fractured into two velocities. Slow assets. Fast capital. The disconnect grows every quarter as LPs demand intra-quarter optionality while property operators remain trapped in 1980s settlement logic. When yield compression meets slow execution, capital exits. When capital exits, valuations distort. When valuations distort, acquisition windows open for the firms that can clear within ten days while competitors wait ninety.
 
 The market is moving toward a unified expectation: if an asset cannot be mobilized as credit-ready collateral in less than twenty-four hours, it becomes an inefficient store of value. Tokenization responds by lifting the property into a digital wrapper that can be pledged, fractioned, or refinanced without disturbing the physical asset. This resolves the institutional bottleneck. It is not speculation. It is operational infrastructure.
@@ -26,7 +27,8 @@ The second regime shift emerges from regulatory compression. MiFID II in the EU 
 
 The third shift is geopolitical. Energy volatility and infrastructure buildouts require local credit deployment at speeds that traditional banks cannot match. Tokenized real estate becomes the anchor asset for local liquidity because it creates a stable base against which short duration credit can be drawn. It becomes the operational treasury of local economies. The firm positions Fund-III to exploit that velocity mismatch.
 
-PHASE 2: TECHNICAL MECHANICS 
+
+ TECHNICAL MECHANICS 
 Tokenization is a misused term. The firm treats it as a capital structure design problem, not a blockchain experiment.
 
 The mechanics operate along three axes:
@@ -46,7 +48,8 @@ In oil and gas mandates, tokenized mineral rights or infrastructure cash flows c
 
 Strategic Collateralization emerges as an institutional discipline rather than a technology experiment.
 
-PHASE 3: THE STRATEGIC MODEL 
+
+ THE STRATEGIC MODEL 
 The firm operates with one principle: velocity is a competitive advantage. Capital that does not move is capital that is lost. Tokenized real estate becomes an accelerant for Fund-III, but only when treated as part of a broader operational machine.
 
 The strategic model centers on three operating layers:

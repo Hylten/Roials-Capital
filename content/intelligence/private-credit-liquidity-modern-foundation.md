@@ -13,7 +13,8 @@ The capital vacuum in North American credit formation since 2018 is a regulatory
 
 This briefing outlines the structural mechanics behind that transition, the operational logic that drives modern private credit, and the framework Roials Capital uses to position Fund-III capital formation, ABL liquidity engineering, and North American energy special mandates. The objective is to provide a high density of technical intelligence for allocators, enabling them to evaluate where private credit sits within their strategic allocation, and how modern balance sheet optimization is executed at institutional scale.
 
-PHASE 1: THE REGIME SHIFT  
+
+ THE REGIME SHIFT  
 Private credit is now the spine of corporate liquidity provision across the United States, Canada, and the major European markets. This shift is the product of three macro factors:
 
 - Regulatory contraction within the banking sector that reduced the willingness of lenders to hold unconventional or asset intensive exposures on balance sheet.  
@@ -31,7 +32,8 @@ The rising institutional dependence on private credit is not driven by yield see
 
 Fund-III structures have followed this evolution. Capital is allocated into operating businesses with clear acquisition pathways, defined additive bolt-on opportunities, and collateral frameworks that allow the lender to influence future liquidity events. The core has shifted from return generation to corporate navigation.
 
-PHASE 2: TECHNICAL MECHANICS OF PRIVATE CREDIT AND LIQUIDITY ENGINEERING  
+
+ TECHNICAL MECHANICS OF PRIVATE CREDIT AND LIQUIDITY ENGINEERING  
 Institutional allocators evaluating private credit exposure in 2026 require precision at the technical level. The following mechanics define the operational intelligence underlying the modern model:
 
 Collateral Architecture  
@@ -90,7 +92,8 @@ Our strategic partner NAEO operates within this framework, aggregating and optim
 
 Allocators evaluating energy exposure benefit from the long duration asset profile and the real collateral characteristics that underpin the Alberta basin. This stability is often counter intuitive for those accustomed to volatility narratives in the commodity markets, yet the physics of the reservoir provide more predictability than most renewable asset classes. In 2026, the lowest volatility energy assets are conventional heavy oil with known reservoir behavior.
 
-PHASE 3: THE PARTNERSHIP MODEL  
+
+ THE PARTNERSHIP MODEL  
 Roials Capital operates as a strategic navigator within this ecosystem. The firm’s function is not fund promotion but institutional alignment. Three core mandates define this work:
 
 Fund-III Capital Formation  

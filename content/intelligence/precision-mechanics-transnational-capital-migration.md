@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liqu
 
 The current migration of institutional capital across North America, Europe, and the Gulf states is a structural consequence of regulatory divergence, not a shift in allocator risk appetite. Capital is not searching for higher returns. Capital is searching for operational intelligibility and jurisdictional stability. The vacuum forming in North American energy is a predictable byproduct of this divergence, and allocators that understand the mechanics of transnational flow routing are positioning their Fund-III and Fund-IV vehicles to intercept dislocated assets before the next consolidation cycle sets in.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 Since 2021, the global allocator map has fractured into three definable regulatory archetypes.  
 1. North America: Capital vacuums created by ESG mispricing and policy instability have slowed upstream investment and restricted credit to middle tier operators. The geology did not change. The policy perimeter did.  
@@ -26,7 +27,8 @@ Capital exits markets where political signaling overrides technical assessment. 
 
 This macro realignment extends beyond energy. In private credit, the migration pattern is similar. European lenders are tightening loan-to-value tolerances, US lenders are tightening covenant packages, and Gulf entities are prioritizing secured exposures with operational visibility. This triangulates demand for institutional grade Fund-III structures capable of absorbing and redeploying cross-border allocations with minimal regulatory friction.
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 The precision mechanics of this migration are observable across three operational domains.
 
@@ -71,7 +73,8 @@ Asset Based Lending has migrated from a liquidity stopgap to an institutional to
 
 Liquidity engineering is now a core requirement in any multi-jurisdictional strategy. It aligns with the rise of European regulatory tightening and the simultaneous demand for flexible credit structures in North America.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital operates as an Institutional Navigator, not an asset originator. The role is definitional.  
 - Introduce capital to institutional grade operators  

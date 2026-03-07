@@ -19,9 +19,7 @@ The acquisition mandate expands because the collateral universe expands. Real as
 
 This transforms the calculus for Fund-III capital formation. Kapitalanskaffning becomes a geopositioning exercise. LP alignment becomes a stability function. GP discretion becomes a currency. The borderless collateral regime rewards entities that understand structural deltas: the gap between the asset’s local value and its transnational leverage value. That delta is acquisition fuel. That delta is IRR ignition.
 
-Cross-border acquisition power emerges not from speed, but from structure. Three factors drive dominance.
-
-• Structural jurisdictional arbitrage. 
+Cross-border acquisition power emerges not from speed, but from structure. • Structural jurisdictional arbitrage. 
 • Capital stack plasticity. 
 • Institutional-grade collateral translation.
 

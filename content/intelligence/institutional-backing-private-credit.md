@@ -11,7 +11,8 @@ keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Asse
 
 The structural gap in private credit today is not driven by a shortage of opportunities. It is driven by the withdrawal of regulated lenders at the exact moment when lower middle market and mid market borrowers require stable, patient, institutionally governed capital. The capital vacuum has created a bifurcation between opportunistic lending and institutionally architected private credit platforms designed for duration reliability, underwriting visibility, and disciplined balance sheet optimization.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 Private credit has entered a regime where scale is no longer optional. Regulatory recalibration across the United States, Europe, and Canada has constrained bank underwriting velocity. The result is a persistent spread between capital demand and institutional supply, creating a stable corridor of opportunity for private lenders capable of absorbing complexity, structuring collateral, and operating with institutional-grade risk governance. 
 
@@ -29,7 +30,8 @@ Institutional allocators recognize that the asset class has matured beyond oppor
 
 This new regime favors platforms with institutional backers. Such platforms demonstrate the ability to pair sponsor discipline with defensive positioning, consistent loan servicing, and capital stack visibility. They operate not as yield chasers but as liquidity engineers capable of deploying capital into environments where traditional lenders cannot maintain velocity.
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 Institutional private credit platforms distinguish themselves through precision in structuring. The technical architecture includes several core mechanics.
 
@@ -83,7 +85,8 @@ Large mandates between 50M and 250M in the North American energy sector require 
 
 Institutional investors prize these attributes because they de risk underwriting assumptions and provide real asset stability.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital functions as a strategic introducer and institutional alignment architect. The objective is not to originate transactions but to ensure that global allocators, private equity sponsors, and institutional borrowers are matched with structures that preserve capital discipline and enhance portfolio integrity.
 

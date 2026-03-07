@@ -13,7 +13,8 @@ The capital vacuum in North America’s productive asset base is a function of r
 
 What follows is an institutional framework for understanding why capital moves, how the migration patterns concentrate, and where strategic partners such as Roials Capital create alignment rather than exposure. The purpose is not solicitation. The purpose is clarity for allocators calibrating exposures ahead of a multi year balance sheet recalibration cycle.
 
-PHASE 1: THE REGIME SHIFT 
+
+ THE REGIME SHIFT 
 Institutional allocators are operating in an era where legacy portfolio models underperform the real economy they were designed to mirror. The shift can be divided into four interacting forces:
 
 • Regulatory Divergence 
@@ -30,7 +31,8 @@ The past decade created capital starvation in hydrocarbons, light industrial cap
 
 The regime shift establishes the foundation for capital migration: institutions are prioritizing operational visibility over growth narratives. Migration follows transparency.
 
-PHASE 2: TECHNICAL MECHANICS OF CAPITAL MIGRATION 
+
+ TECHNICAL MECHANICS OF CAPITAL MIGRATION 
 Institutional capital migration does not occur randomly. It follows defined mechanical triggers inside allocator decision systems. Each major capital discipline has its own migration mechanics.
 
 PRIVATE EQUITY: Fund-III AND THE BUYOUT ARBITRAGE 
@@ -76,7 +78,8 @@ Institutional migration into heavy oil aligns with a shift toward physics driven
 
 This is why Roials Capital identifies NAEO as the technical partner for institutional grade exposure. NAEO matches these mechanics with operational discipline, enabling allocators to engage without operational burdens.
 
-PHASE 3: THE PARTNERSHIP MODEL 
+
+ THE PARTNERSHIP MODEL 
 Roials Capital operates as a strategic navigator rather than a manager of operating assets. The partnership role is defined through three lenses:
 
 • Strategic Alignment 

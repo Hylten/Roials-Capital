@@ -13,7 +13,8 @@ The capital vacuum across North America and Europe is a structural consequence o
 
 This briefing outlines the institutional playbook behind sovereign balance sheet engineering, and how global allocators are positioning themselves for Fund-III and Fund IV capital formation cycles. The analysis covers the regime shift, the technical machinery of buyout balance sheet construction, liquidity engineering, and the Alberta energy acquisition corridor where NAEO operates as a specialized partner for $50M to $250M mandates. The objective is not promotion but clarity. When allocators understand the architecture, the strategic alignment dialogue becomes data driven rather than relational.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 Private markets have entered an allocation environment defined by three forces.
 
@@ -28,7 +29,8 @@ Energy-transition timelines have been revised downward across multiple jurisdict
 
 These forces create a regulatory-driven scarcity of functional liquidity. The allocators that outperform in this regime are building balance sheets designed for sovereign-like durability. They engineer stability at the top of the stack so that acquisition velocity at the bottom of the stack can accelerate without increasing fragility.
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 The sovereign balance sheet archetype is defined by three structural principles: durability, modularity, and cross-cycle liquidity. These design attributes are the foundation for Fund-III and Fund IV capital formation.
 
@@ -109,7 +111,8 @@ European allocators operate under restrictive regulatory frameworks. MiFID II in
 North American Special Situations  
 US and Canadian allocators often engage through Special Mandates when asset timing or political windows require rapid execution. Again, transaction certainty is not produced through leverage but through balance sheet design and operative partners.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital functions not as a manager of the assets but as a Strategic Navigator. The firm operates as an Institutional Introducer that aligns allocators with the correct operational partner, mandate structure, and liquidity architecture. The role is structural, not promotional.
 
@@ -129,7 +132,6 @@ PHASE 4: THE STEWARDSHIP FILTER
 
 Stewardship is not a moral slogan. It is the discipline of non wasteful resource management. The Sovereign Balance Sheet Archetype is inherently a stewardship architecture.
 
-Three principles define the stewardship filter:
 
 1. Preservation of underlying productive capacity  
 Stewardship requires that capital structures not distort operational ecosystems. Balance sheets that force artificial growth trajectories degrade the long term productive base. Proper stewardship maintains the integrity of the asset.

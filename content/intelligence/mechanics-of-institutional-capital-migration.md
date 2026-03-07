@@ -13,7 +13,8 @@ The capital vacuum shaping North American hard-asset sectors is a direct functio
 
 Institutional migration is not an emotional phenomenon. It is a rules-based reallocation pattern governed by balance sheet pressure, portfolio calibration models, and regulatory capital weighting. The current regime demonstrates the same characteristics observable in 1986, 1999, 2009, and 2020, with allocators repositioning toward assets that offer durability, jurisdictional stability, and predictable operational mechanics. 
 
-PHASE 1: THE REGIME SHIFT 
+
+ THE REGIME SHIFT 
 Institutional allocators are reorienting portfolios to meet solvency requirements, sharpen liquidity corridors, and mitigate valuation compression in traditional equity benchmarks. Three structural forces define the present environment:
 
 1. A global repricing of risk tied to rate persistence. 
@@ -27,7 +28,8 @@ Hard-asset operators, particularly in Alberta’s conventional and thermal oil e
 
 Institutional capital migration in 2026 mirrors a logic long observable in commodity and industrial cycles: capital moves to where operational certainty exceeds perceived regulatory or reputational friction. The Alberta basin demonstrates this principle. Resource stability, reservoir predictability, and infrastructure density are structurally unchanged. What changed is the institutional perception of regulatory cost, which created a mispriced domain where intermediaries with technical intelligence generate clarity for global allocators.
 
-PHASE 2: TECHNICAL MECHANICS 
+
+ TECHNICAL MECHANICS 
 Migration patterns follow rules. They are driven by technical parameters rather than narratives. Across private credit, buyouts, and North American energy, these mechanics can be grouped into five structural vectors.
 
 Capital Vector 1: Duration Arbitrage 
@@ -52,7 +54,8 @@ Capital Vector 5: Operational Intelligence
 Migration stabilizes when allocators gain non-promotional, technical clarity. Institutions do not follow yield. They follow certainty. The entities that command capital inflows are those capable of translating operational mechanics into compliance-friendly frameworks. 
 This is the cornerstone of NAEO’s execution discipline in energy and of Roials Capital's role in cross-jurisdictional capital alignment.
 
-PHASE 3: THE PARTNERSHIP MODEL 
+
+ THE PARTNERSHIP MODEL 
 Institutional capital migration requires an intermediary entity capable of navigating regulatory boundaries, sector-specific operational complexity, and allocator risk frameworks. Roials Capital functions inside this migration as a strategic navigator and introducer. The role is not transactional. It is structural. It performs four key functions:
 
 1. Institutional Calibration 

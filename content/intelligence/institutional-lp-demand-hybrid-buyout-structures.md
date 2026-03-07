@@ -8,8 +8,6 @@ slug: "institutional-lp-demand-hybrid-buyout-structures"
 
 Higher-for-longer changed the cadence. LPs want shape, not stories. They want precision on control, clarity on downside, and a defined glidepath to cash generation. Hybrid buyout structures answer the demand. Hard edges. Clean math. Direct attribution.
 
-Three forces drive the pull.
-
 First. Rate discipline recalibrates the room. Equity alone becomes blunt. Senior credit alone becomes timid. The hybrid stack gives LPs something better: control economics wrapped around secured yield. They see certainty. They see covenant behavior. They see the spine of Fund‑III architecture holding firm.
 
 Second. Jurisdictional arbitrage matters again. North America gives speed. The Nordics give order. Continental Europe gives regulatory shape. LPs want the trust of multi‑region execution without fragmentation. A single command structure. One sponsor. One decision axis.

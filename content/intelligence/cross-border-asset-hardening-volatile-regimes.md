@@ -15,7 +15,7 @@ Order is not an option.
 
 The current regime is defined by cross-border fragility, politically induced price floors in energy, and a liquidity cycle shaped by central bank caution. The surface-level volatility distracts most operators. They fixate on currency swings or policy headlines. The deeper forces sit beneath them. Fragmented legal harmonisation. Delayed collateral enforceability. Divergent insolvency hierarchies. Weak registry systems. These frictions create the inefficiencies that Fund-III is engineered to harvest.
 
-### PHASE 1: THE REGIME SHIFT
+#
 
 Economic volatility is not the risk. Fragile governance is.
 
@@ -27,14 +27,14 @@ Energy markets reveal the divide. Offshore US basins now function under a quasi-
 
 This is why cross-border hardening is no longer a strategic elective. It is the minimum functional requirement for a Fund-III structure that intends to operate beyond a single political cycle.
 
-Three drivers form the regime shift:
+
 - Regulatory divergence between capital markets and operational permitting.
 - Cross-border insolvency fragmentation, especially in the EEA outer band.
 - Institutional capital’s reduced appetite for unsecured jurisdictional risk.
 
 We do not chase yield. We chase enforceability. That is the regime shift.
 
-### PHASE 2: TECHNICAL MECHANICS
+#
 
 Asset hardening is not branding. It is mechanics. It is the discipline of removing fragility from the ownership stack and its cash-flow dependencies.
 
@@ -56,7 +56,7 @@ The model for North American Energy Operating Companies (NAEOC) inside the 50M t
 
 Technical precision is stewardship.
 
-### PHASE 3: THE STRATEGIC MODEL
+#
 
 Cross-border hardening requires an architecture, not a patchwork. Fund-III follows a three-frame model that compresses execution risk at the GP level and visibility risk at the LP level.
 

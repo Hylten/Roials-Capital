@@ -22,8 +22,6 @@ The shift began years ago, but most GPs only noticed it when they saw the subtle
 
 And the truth is simple: Fund‑III+ managers are expected to prove they can generate unlevered alpha, not just levered narratives.
 
-Three forces drive this.
-
 • The first is actuarial compression.  
 Long-horizon capital cannot meet its liabilities if it tolerates low unlevered footholds. The institution is not emotional. • The second is a macro decoupling.  
 Interest environments shifted. Liquidity cycles normalized. The “easy leverage era” is over. LPs know it. GPs know it. The models know it.

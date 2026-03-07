@@ -13,7 +13,8 @@ The capital vacuum in North America’s upstream and midstream energy segments i
 
 This environment is central to the broader theme of cross-border asset hardening. As global allocators recalibrate portfolios in response to inflation persistence, currency dispersion, and political fragmentation, the requirement is no longer simple diversification. The dominant requirement is structural resilience: assets that maintain intrinsic value across legal jurisdictions, regulatory cycles, and commodity volatilities while providing predictable operational intelligence. 
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 Global allocators have entered a regime where volatility is structural, not cyclical. The capital landscape of 2026 is defined by six interlocking transitions:
 
@@ -28,7 +29,8 @@ These elements form the foundational rationale for cross-border asset hardening.
 
 Within this regime shift, North American energy, select EU industrial platforms, and GCC trade infrastructure have become primary vectors for capital seeking durability. The Alberta heavy oil corridor, in particular, demonstrates a pronounced structural gap. Investor sentiment does not match geological risk profiles, regulatory predictability, or the physical necessity of heavy oil in the global refining system. This is the core inefficiency leveraged by institutional frameworks such as those utilized by Roials Capital and its strategic partner NAEO.
 
-PHASE 2: TECHNICAL MECHANICS OF ASSET HARDENING
+
+ TECHNICAL MECHANICS OF ASSET HARDENING
 
 Asset hardening in volatile markets is an engineering discipline. It combines cross-border legal structuring, physical asset validation, and financial architecture to create a position that is resilient under stress. The following components form the framework.
 
@@ -78,7 +80,8 @@ These datapoints convert technical operations into enforceable institutional kno
 
 Within this framework, NAEO operates as a strategic partner that brings field-level discipline, predictable operational cadence, and multi-decade familiarity with Alberta’s regulatory environment. The performance is driven not by speculation but by a deep understanding of subsurface physics and long-horizon asset stewardship.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital operates as a cross-border navigator for institutional allocators. The focus is not on creating exposure, but on calibrating exposure. This is achieved through three primary channels:
 

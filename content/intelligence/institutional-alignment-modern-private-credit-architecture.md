@@ -15,8 +15,6 @@ PHASE 1. THE REGIME SHIFT
 
 The contemporary private credit environment operates under a regime where traditional banking structures have retreated into regulatory conservatism. Basel III, Basel IV, and regional interpretations of systemic risk controls have effectively removed mid-market corporate credit from the balance sheets of banks. This is not conjectural. The regulatory drift that began in the aftermath of 2008 matured into a structural exclusion of asset heavy, cyclical, or operationally complex sectors from the conventional lending universe.
 
-Three forces define the current regime shift.
-
 1. Capital Supply Restriction. Balance sheet constriction in the banking system resulted in a multi trillion dollar reduction in available corporate credit across North America and Europe. The resulting vacuum was not filled by shadow banking but by institutional private credit that adopted underwriting standards previously associated with commercial and industrial lending.
 
 2. Demand Intensification. Corporates, particularly in energy, industrials, logistics, and asset heavy verticals, require refinancing, capex support, acquisition financing, and operational liquidity. These demands did not contract alongside bank lending. Instead, they accumulated.

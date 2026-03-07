@@ -16,7 +16,6 @@ Control the perimeter. Control the outcome.
 
 Most technical-services verticals-HVAC, industrial maintenance, fire & life safety, metering technologies, specialized testing, pipeline integrity, marine industrials, and heavy‑equipment field support-are structurally identical beneath the debris of local variance. Surface chaos. Underlying order. Predictable cash‑flow trajectories.
 
-Three forces define the landscape:
 
 1. Fragmentation without strategic aggregation.  
 Thousands of subscale operators with 2–20 technicians, 30–50% owner-dependence, and no repeatable non-owner management layer. They are not businesses. They are crafts trapped in legal wrappers.

@@ -26,7 +26,6 @@ Discipline. Permanence. Asymmetry.
 
 Sovereign capital does not chase novelty. It acquires foundational assets. It seeks the hard edges of real economy sectors-industrials, energy infrastructure, asset-heavy operating platforms, and regulated environments where complexity reduces competition. The mandate is stability through scale.
 
-Three drivers shape sovereign allocations today:
 
 1. Risk neutralization through jurisdictional diversification 
 2. Strategic autonomy from Western banking volatility 
@@ -242,7 +241,6 @@ Capital raising becomes a function of:
 
 The GP must communicate not ambition but inevitability. Not excitement but inevitability. Not vision but inevitability.
 
-Three sentences. 
 Short. 
 Cold. 
 Absolute.

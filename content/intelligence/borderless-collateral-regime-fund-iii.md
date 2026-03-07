@@ -13,9 +13,8 @@ Structural arbitrage is no longer found in sector specialization. It is found in
 
 The institutional market has not internalized the magnitude of this shift. Traditional credit underwriting still treats collateral as jurisdiction anchored. Yet UHNW holders of digital assets hold balance sheets that do not behave like real estate, operating companies, or hard commodities. They behave like sovereign wealth on chain. That single fact dislocates every assumption Private Credit has relied on for twenty years. We are now in the first cycle where borderless collateral outruns the Asset-Based Lending system built for static assets. The winners treat this as a structural inversion. The laggards call it noise.
 
-PHASE 1: THE REGIME SHIFT
 
-Three forces drive the break.
+ THE REGIME SHIFT
 
 1. Global capital is no longer geographically obedient. Crypto native wealth moves from Geneva to Dubai to Singapore in under fifteen minutes. Banks cannot keep up. Regulators chase. Liquidity migrates.
 2. Mid-market M&A is trapped in a liquidity bottleneck. Rates are misaligned with deal velocity. Buyers have conviction yet lack flexible firepower. Sellers protect valuations. Private Credit steps in but applies 2008 underwriting logic to a 2026 balance sheet.
@@ -27,7 +26,8 @@ Fund-III managers who can weaponize this transformation will scale faster than t
 
 The inefficiency is staggering. Billions in pristine balance sheet strength sit idle because institutions still misread digital assets as speculative rather than liquid, mobile, and provable. The market will punish indecision.
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 The mechanics of borderless crypto collateral hinge on three operational dimensions.
 
@@ -54,7 +54,8 @@ This creates an underwriting environment that outperforms both private credit an
 
 The technical truth is simple. Digital asset collateral is not speculative. It is liquid sovereign money with perfect traceability. Private Credit has never had a collateral substrate this efficient.
 
-PHASE 3: THE STRATEGIC MODEL
+
+ THE STRATEGIC MODEL
 
 ROIALS CAPITAL deploys a dual-platform model for Fund-III groups. The objective is not complexity. The objective is institutional readiness at velocity.
 

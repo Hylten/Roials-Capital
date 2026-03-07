@@ -13,7 +13,8 @@ The capital vacuum in multi asset markets is not a function of volatility, but a
 
 The 2026 environment no longer rewards passive exposure. It rewards balance sheet versatility. Fund-III operates inside this structural inflection point where multi asset hardening is now a prerequisite for institutional durability. Traditional energy, middle market private credit, digital assets, and regulated tokenized collateral are no longer discrete silos. They form a single liquidity architecture that defines opportunity velocity, transaction certainty, and capital stack stability.
 
-PHASE 1: THE REGIME SHIFT
+
+ THE REGIME SHIFT
 
 Institutional allocators are navigating three converging forces.
 
@@ -28,7 +29,8 @@ Digital assets are not treated as speculative stores of value within global inst
 
 Fund-III therefore does not view digital assets as a vertical. They function as a liquidity layer that supports broader acquisition pipelines across buyouts, add ons, and sector consolidations.
 
-PHASE 2: TECHNICAL MECHANICS
+
+ TECHNICAL MECHANICS
 
 The integration of digital assets into Capital Structuring is driven by hard mechanics, not thematic narratives. The following frameworks define the structural logic applied within Fund-III.
 
@@ -82,7 +84,8 @@ Digital asset integration requires four pillars.
 4. Programmatic risk thresholds for automated deleveraging. 
 These mechanics ensure institutional grade control protocols with zero exposure to retail level operational risk.
 
-PHASE 3: THE PARTNERSHIP MODEL
+
+ THE PARTNERSHIP MODEL
 
 Roials Capital operates as a strategic navigator, not as a manager of digital asset pools. The objective is to align allocators with the correct structural frameworks rather than distribute product. Fund-III sits at the center of three core mandate clusters.
 

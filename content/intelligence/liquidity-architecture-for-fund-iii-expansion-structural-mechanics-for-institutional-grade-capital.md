@@ -208,9 +208,7 @@ Fund-III’s architecture uses a multi layer approach to create stability.
 
 Layer One is collateral structure. 
 Layer Two is duration matching. 
-Layer Three is volatility buffering. 
-
-Each layer reinforces the other. 
+Layer Each layer reinforces the other. 
 The result is a liquidity engine that operates with institutional reliability. 
 
 This creates a rare environment where liquidity is not reactive but proactive. 

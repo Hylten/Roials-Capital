@@ -11,17 +11,17 @@ keywords: "kapitalanskaffning, oil and gas, private credit, Capital Structuring,
 
 A mispriced covenant structure always reveals the fracture point of an ecosystem long before the market acknowledges it. The gap shows up in second-order effects: subdued recovery projections, muted sponsor participation, and credit files that hide operational decay behind cosmetic EBITDA bridges. Order is not an option. It is the prerequisite for stewardship.
 
-PHASE 1: THE REGIME SHIFT 
+
+ THE REGIME SHIFT 
 The private credit landscape has entered a structural divergence between traditional leverage practices and the new discipline demanded by high net worth operators. They face a market where commercial lenders retreat due to regulatory tightening and internal risk compression. The funding vacuum widens. Private credit managers attempt to fill it, but many still price risk with pre‑2020 assumptions while underwriting with fragmented diligence stacks.
 
 The environment shifts toward asset-level truth rather than narratives. The entrepreneur can no longer rely on personality-driven bank relationships. Balance sheets must carry weight. Cash-flow durability must be demonstrated, not implied. High‑net‑worth entrepreneurs who built wealth through operational mastery are now forced into institutional calibration because capital formation for Fund-III and beyond does not reward improvisation.
 
 The inefficiency is simple: too many borrowers attempt to raise institutional capital with retail structures and relational expectations. Too many lenders attempt to price entrepreneurial credit as if it behaves like middle market corporate debt. Both fail. The regime has already changed. Only those who construct deliberate credit architecture will capture the next decade of acquisitions.
 
-PHASE 2: TECHNICAL MECHANICS 
-The spine of the architecture is leverage discipline. Entrepreneurs often chase the maximum LTV the market will tolerate. They must pivot. Institutional lenders operate with silent metrics. True LTV is not loan size divided by asset value. It is the weighted interaction between liquidation velocity, jurisdictional enforceability, and cash‑flow observability.
 
-Three mechanics define the system.
+ TECHNICAL MECHANICS 
+The spine of the architecture is leverage discipline. Entrepreneurs often chase the maximum LTV the market will tolerate. They must pivot. Institutional lenders operate with silent metrics. True LTV is not loan size divided by asset value. It is the weighted interaction between liquidation velocity, jurisdictional enforceability, and cash‑flow observability.
 
 1. **LTV Curves** 
 The observable LTV ceiling for Fund-III buyouts rarely exceeds 52 to 58 percent under institutional tolerance. Sellers ignore this. Retail brokers ignore this. But private credit committees do not. They evaluate LTV under stress assumptions: 
@@ -51,7 +51,8 @@ Where recovery lacks certainty, capital cost multiplies. No charisma offsets mis
 
 The entrepreneur who demonstrates mastery of these mechanics enters the institutional credit market with authority. The one who ignores them becomes dependent on high-coupon lenders who thrive on borrower disorganization.
 
-PHASE 3: THE STRATEGIC MODEL 
+
+ THE STRATEGIC MODEL 
 Fund-III demands a new architecture. The entrepreneur must operate with institutional cadence. The model is simple: raise capital as if you are already a scaled platform. A single principle governs the strategy: liquidity is engineered, not discovered.
 
 Our architecture builds around three capital corridors.

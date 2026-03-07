@@ -8,8 +8,6 @@ slug: "mifid-buyers-under-levered-industrial-platforms"
 
 European MiFID II buyers have shifted posture. Not noise. Allocation gravity. They want platforms that hold shape under scrutiny. Under‑levered industrial operators stand tallest.
 
-Three forces drive it.
-
 1. Regulatory compression.  
 MiFID II forces clarity. Buyers must evidence discipline in balance‑sheet exposure, not performance theater. A clean industrial platform-minimal debt, real assets, recurring operational throughput-fits the compliance grid without friction.
 

@@ -12,8 +12,6 @@ The shift is simple: private credit inside private equity restores control of th
 
 Inside Fund‑III the calculus tightens. Buyouts demand disciplined leverage. Add‑ons demand immediate certainty of execution. Bank processes slow the engine. Direct credit from UHNW partners accelerates it. They see the spread. They see the governance. They see the premium inherent in stepping into a position normally reserved for institutions.
 
-Three drivers dominate.
-
 1. Yield Stability.  
 Predictable. Contractual. Non‑correlated to public markets. UHNW investors want consistent velocity, not narrative cycles.
 
