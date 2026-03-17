@@ -5,8 +5,7 @@ date: "2025-08-04"
 author: "ROIALS CAPITAL"
 slug: "reallocation-mandate-private-credit-Fund-III"
 keywords: "kapitalanskaffning, oil and gas, private credit, Strategic Collateralization, asset hardening"
----
-[START INSTITUTIONAL BRIEFING]
+--- 
 
 A structural gap has opened at the center of private credit. Banks are constrained by Basel IV capital weights. Mid-market borrowers keep scaling. Yet execution capacity among traditional lenders has fallen below their credit demand velocity. This is the spread in plain sight. Institutions that understand it will control the flow of returns for the next decade.
 
@@ -32,9 +31,21 @@ Order is not an option. It is the operating system.
 
 The mid-market private credit stack now revolves around four mechanics: LTV discipline, waterfall sequencing, coverage hardening, and recovery predictability.
 
-LTV curves. The acceptable LTV band has contracted to 38 to 52 percent for high velocity acquisition programs. Anything above that threshold introduces unacceptable shock risk. Funds that keep lending at 58 to 62 percent will inherit the cycle's first casualties. A Fund-III structure benefits from disciplined LTV segmentation: senior secured for core assets, unitranche for strategic acquisitions, and Asset-Based Lending lines for working capital elasticity. This tri segmentation limits volatility drag.
+LTV curves. The acceptable LTV band has contracted to 38 to 52 percent for high velocity acquisition programs.
 
-Cash flow waterfalls. A modern waterfall is not a simple priority of payments. It is a risk isolation architecture. You embed reserve buckets, maintenance triggers, and mandatory cash sweeps. Waterfall precision is where most mid tier lenders lose control. ROIALS CAPITAL treats the waterfall as a machine room. Every component is engineered for predictability. The cash sweep is the governor. The reserve is the shock absorber. The amortization schedule is the pace regulator. Sloppiness here destroys returns.
+Anything above that threshold introduces unacceptable shock risk.
+
+Funds that keep lending at 58 to 62 percent will inherit the cycle's first casualties. A Fund-III structure benefits from disciplined LTV segmentation: senior secured for core assets, unitranche for strategic acquisitions, and Asset-Based Lending lines for working capital elasticity.
+
+This tri segmentation limits volatility drag.
+
+Cash flow waterfalls. A modern waterfall is not a simple priority of payments. It is a risk isolation architecture. You embed reserve buckets, maintenance triggers, and mandatory cash sweeps.
+
+Waterfall precision is where most mid tier lenders lose control. ROIALS CAPITAL treats the waterfall as a machine room.
+
+Every component is engineered for predictability. The cash sweep is the governor. The reserve is the shock absorber. The amortization schedule is the pace regulator.
+
+Sloppiness here destroys returns.
 
 Recovery factors. Recovery rates are not random. They are engineered outcomes. Asset-Based Lending structures with collateral verification cycles produce recoveries in the high 80s. Sponsor backed senior secured structures land in the 60s to low 70s. Acquisition financing without strong collateral indexing falls to the 30s. This is why asset hardening is now non negotiable. Recovery is not a hope. Recovery must be designed.
 

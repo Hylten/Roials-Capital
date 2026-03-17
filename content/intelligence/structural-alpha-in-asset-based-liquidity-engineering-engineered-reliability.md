@@ -5,7 +5,8 @@ date: "2025-07-01"
 author: "Jonas Hyltén"
 slug: "structural-alpha-in-asset-based-liquidity-engineering-engineered-reliability"
 keywords: "Asset-Based Lending, Structural Alpha, Asset Based Asset-Backed Frameworks, Roials Capital"
----
+--- 
+
 # Structural Alpha in Asset Based Capital Structuring 
 Roials Capital Research Division
 

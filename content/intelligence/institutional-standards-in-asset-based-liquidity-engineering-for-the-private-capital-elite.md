@@ -5,7 +5,8 @@ date: "2025-09-22"
 author: "Jonas Hyltén"
 slug: "institutional-standards-in-asset-based-liquidity-engineering-for-the-private-capital-elite"
 keywords: "private credit, asset based Institutional Liquidity Paths, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # Institutional Standards in Asset-Based Capital Structuring
 
 Institutional environments do not tolerate ambiguity.

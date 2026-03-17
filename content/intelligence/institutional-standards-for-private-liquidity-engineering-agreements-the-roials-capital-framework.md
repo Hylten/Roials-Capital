@@ -5,7 +5,8 @@ date: "2025-09-05"
 author: "Jonas Hyltén"
 slug: "institutional-standards-for-private-liquidity-engineering-agreements-the-ROIALS CAPITAL-framework"
 keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # Institutional Standards for Private Capital Structuring Agreements 
 Roials Capital Architecture for High Net Worth Liquidity Protocols 
 

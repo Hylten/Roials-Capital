@@ -5,8 +5,7 @@ date: "2026-02-13"
 author: "Jonas Hyltén"
 slug: "sovereign-balance-sheet-liquidity-architecture"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
----
-[START INSTITUTIONAL BRIEFING]
+--- 
 
 A sovereign balance sheet fails not from lack of assets but from lack of hierarchy. Structural hierarchy is the first discipline of institutional durability. Without hierarchy, capital leaks. With hierarchy, capital compounds.
 
@@ -17,7 +16,6 @@ As principal, I speak plainly. The current private markets landscape is misalign
 This creates one of the few predictable regimes for Fund-III operators who understand the mechanics of sovereign liquidity design. A GP who can harden assets, engineer private liquidity channels, and produce sovereign-grade underwriting signals will raise capital at a pace that outcompetes both private credit and mid-market buyout peers. The world has shifted toward balance sheet sovereignty. The firms able to articulate and operationalize that sovereignty will be entrusted with disproportionate flows of institutional capital.
 
 I will outline the architecture.
-
 
  THE REGIME SHIFT
 
@@ -33,7 +31,6 @@ This is the new order: liquidity premia are rising, collateral verification has 
 Fund-III managers who understand this climate can raise capital at scale by adopting sovereign-level balance sheet thinking. They must build private liquidity architecture that behaves like a state treasury in miniature. They must adopt a stewardship mandate that proves they are not consumers of liquidity but creators of it.
 
 Sovereign balance sheet design is not theoretical. It is operational.
-
 
  TECHNICAL MECHANICS
 
@@ -66,7 +63,6 @@ A sovereign balance sheet operates with layered liquidity. At Fund-III scale, th
 - Long-cycle liquidity: energy reserves, mineral rights, durable infrastructure 
 
 This blend produces institutional trust. Institutional trust produces commitments.
-
 
  THE STRATEGIC MODEL
 

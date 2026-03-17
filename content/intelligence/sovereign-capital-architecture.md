@@ -5,7 +5,8 @@ date: "2026-01-28"
 author: "Jonas Hyltén"
 slug: "sovereign-capital-architecture"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
----
+--- 
+
 A liquidity system fails long before anyone notices it. The signal is not volatility. The signal is silent compression in collateral productivity.
 
 Order is not an option.

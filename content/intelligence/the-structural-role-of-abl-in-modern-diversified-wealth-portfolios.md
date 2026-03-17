@@ -5,7 +5,8 @@ date: "2025-11-29"
 author: "Jonas Hyltén"
 slug: "the-structural-role-of-abl-in-modern-diversified-wealth-portfolios"
 keywords: "private credit, asset based Capital Structuring, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # The Role of Asset-Based Lending in Diversified Wealth Portfolios
 
 Wealth architectures evolve as markets shift, and balance sheet rigidity becomes a liability rather than a safeguard.
@@ -14,9 +15,7 @@ Institutional capital has already adapted. Liquidity is no longer acquired throu
 
 For high net worth and ultra high net worth investors, asset based Asset-Backed Frameworks is not an accessory. It is a structural function inside a modern portfolio, a mechanism that expands the operational range of capital without disturbing the underlying asset thesis.
 
-Roials Capital operates inside this space with a silent authority, providing asset backed Strategic Collateralization across private credit, crypto holdings with a minimum threshold of 2,000,000, and public share positions with a minimum threshold of 5,000,000.
-
-Asset-Based Lending is often discussed superficially. Here, we treat it as architecture, not product.
+Roials Capital operates inside this space with a silent authority, providing asset backed Strategic Collateralization across private credit, crypto holdings with a minimum threshold of 2,000,000, and public share positions with a minimum threshold of 5,000,000. Asset-Based Lending is often discussed superficially. Here, we treat it as architecture, not product.
 
 Below, we examine the role of Asset-Based Lending in diversified wealth portfolios and the structural implications for those managing significant personal capital.
 

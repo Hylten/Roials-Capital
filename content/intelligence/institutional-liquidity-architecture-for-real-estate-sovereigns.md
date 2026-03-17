@@ -5,7 +5,8 @@ date: "2025-07-21"
 author: "Jonas Hyltén"
 slug: "institutional-liquidity-architecture-for-real-estate-sovereigns"
 keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # Institutional Liquidity for Real Estate Sovereigns
 
 Real estate at sovereign scale requires a liquidity framework that is not transactional.

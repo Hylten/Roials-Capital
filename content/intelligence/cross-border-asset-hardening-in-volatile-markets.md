@@ -5,7 +5,8 @@ date: "2025-12-01"
 author: "Jonas Hyltén"
 slug: "cross-border-asset-hardening-in-volatile-markets"
 keywords: "private credit, asset based Monetization Architecture, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # Cross-Border Asset Hardening in Volatile Markets
 
 Global portfolios are entering an era defined by structural volatility.

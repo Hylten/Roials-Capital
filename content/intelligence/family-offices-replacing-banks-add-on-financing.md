@@ -4,7 +4,8 @@ description: "Institutional briefing on the shift from regulated credit to priva
 date: "2025-10-06"
 author: "ROIALS CAPITAL"
 slug: "family-offices-replacing-banks-add-on-financing"
----
+--- 
+
 Banks hesitate.
 
 Family offices move.

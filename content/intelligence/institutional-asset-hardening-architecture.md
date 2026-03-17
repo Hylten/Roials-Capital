@@ -5,7 +5,8 @@ date: "2025-12-24"
 author: "ROIALS CAPITAL"
 slug: "institutional-asset-hardening-architecture"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"
----
+--- 
+
 A structural gap always reveals itself first in recovery math. When the asset base cannot carry the velocity of the mandate, the institution fractures. When the institution fractures, capital retreats. Most GPs misdiagnose this. They blame markets. They blame cycles. The truth is simpler. Their infrastructure was not built for institutional load.
 
 Order is not an option.

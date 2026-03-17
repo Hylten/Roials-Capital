@@ -5,7 +5,8 @@ date: "2026-03-12"
 author: "Jonas Hyltén"
 slug: "institutional-alignment-in-modern-private-credit-markets"
 keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # Institutional Alignment in Private Credit Markets
 
 Institutional alignment is the quiet architecture that defines who receives liquidity, how capital behaves, and which structures endure across cycles.
@@ -155,17 +156,13 @@ Collateral, Large Responsibility
 
 Private credit and Asset-Based Lending structures require stability. Collateral thresholds reinforce that stability.
 
-For crypto Institutional Liquidity Paths, our minimum threshold is 2,000,000.
-
-This threshold filters for maturity.
+For crypto Institutional Liquidity Paths, our minimum threshold is 2,000,000. This threshold filters for maturity.
 
 It ensures the conversation stays institutional.
 
 It removes the volatility of retail behavior.
 
-For public share Asset-Backed Frameworks, our minimum threshold is 5,000,000.
-
-This preserves liquidity integrity.
+For public share Asset-Backed Frameworks, our minimum threshold is 5,000,000. This preserves liquidity integrity.
 
 It ensures that the asset class functions as collateral rather than speculation.
 

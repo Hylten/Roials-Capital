@@ -5,7 +5,8 @@ date: "2025-10-30"
 author: "Jonas Hyltén"
 slug: "strategic-capital-migration-for-global-uhnwis"
 keywords: "private credit, asset based Capital Structuring, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # Strategic Capital Migration for Global UHNWIs
 
 Global wealth no longer responds to geography. It responds to structure.
@@ -60,25 +61,19 @@ For our clients, private credit serves three core functions.
 
  
 
-### 1.
-
-Liquidity Without Disposition
+### 1. Liquidity Without Disposition
 
 Selling assets introduces tax events and erodes long term compounding. balance sheet optimization against assets maintains ownership, preserves tax efficiency, and provides immediate movement capacity.
 
  
 
-### 2.
-
-Control Over Timing
+### 2. Control Over Timing
 
 Markets move. Jurisdictions shift. Opportunities surface when liquidity is scarce or mispriced. Clients who hold liquidity on demand dictate timing rather than react to it.
 
  
 
-### 3.
-
-Non Correlated Leverage
+### 3. Non Correlated Leverage
 
 Private credit operates on underwriting logic that is divorced from public market sentiment. Its stability becomes the foundation for predictable capital migration planning.
 
@@ -222,34 +217,25 @@ Risk in capital migration is rarely about market movement. Market movement is pr
 
  
 
-
-### 1.
-
-Regulatory Asymmetry
+### 1. Regulatory Asymmetry
 
 Regulations evolve faster than capital adjusts. Structures must anticipate change, not respond to it.
 
  
 
-### 2.
-
-Custodial Concentration
+### 2. Custodial Concentration
 
 Single custodian reliance increases exposure. Multi custodian frameworks reduce systemic risk.
 
  
 
-### 3.
-
-Jurisdictional Shock Events
+### 3. Jurisdictional Shock Events
 
 Sanctions, capital controls, and legal shifts can immobilize entire asset classes. Mobility structures must be built before they are needed.
 
  
 
-### 4.
-
-Liquidity Fragmentation
+### 4. Liquidity Fragmentation
 
 Liquidity is no longer universal. It must be engineered. Asset-Based Lending and private credit become the tools that restore continuity.
 

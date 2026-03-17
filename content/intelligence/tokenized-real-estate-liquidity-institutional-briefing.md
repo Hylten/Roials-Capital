@@ -5,8 +5,7 @@ date: "2026-02-19"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "tokenized-real-estate-liquidity-institutional-briefing"
 keywords: "kapitalanskaffning, private credit, real estate, liquidity engineering, Fund-III, asset hardening, tokenization"
----
-[START INSTITUTIONAL BRIEFING]
+--- 
 
 The liquidity asymmetry in global real estate today is a function of settlement inefficiency, not asset impairment. The inability of conventional structures to mobilize fractionalized ownership at institutional scale has created a systemic gap between underlying property value and monetizable liquidity. Tokenized real estate is not a speculative instrument. It is a structural evolution in the transmission mechanics of ownership, custody, and settlement.
 
@@ -107,9 +106,7 @@ Operational clarity reduces disputes and accelerates accountability.
 Tokenized structures enable partial liquidity extraction without forced sales, preserving long-term asset integrity.  
 
 - Multi-Year Sustainability  
-Improved liquidity supports multi-cycle planning, consistent with the stewardship mandate articulated in Proverbs 13:22.
-
-Stewardship is not a moral abstraction. It is a technical discipline that requires efficient deployment channels and transparent ownership structures. Tokenized liquidity provides the infrastructure for this discipline to manifest operationally.
+Improved liquidity supports multi-cycle planning, consistent with the stewardship mandate articulated in Proverbs 13:22. Stewardship is not a moral abstraction. It is a technical discipline that requires efficient deployment channels and transparent ownership structures. Tokenized liquidity provides the infrastructure for this discipline to manifest operationally.
 
 PHASE 5. ALLOCATOR LENS AND STRATEGIC POSITIONING
 

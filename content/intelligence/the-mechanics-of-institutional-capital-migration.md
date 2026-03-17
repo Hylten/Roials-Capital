@@ -5,7 +5,8 @@ date: "2025-09-27"
 author: "Jonas Hyltén"
 slug: "the-mechanics-of-institutional-capital-migration"
 keywords: "private credit, asset based Institutional Liquidity Paths, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # The Mechanics of Institutional Capital Migration
 
 Institutional capital does not move randomly.

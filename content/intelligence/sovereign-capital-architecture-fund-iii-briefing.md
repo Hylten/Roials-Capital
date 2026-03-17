@@ -5,8 +5,7 @@ date: "2025-11-06"
 author: "ROIALS CAPITAL"
 slug: "sovereign-capital-architecture-Fund-III-briefing"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"
----
-[START INSTITUTIONAL BRIEFING]
+--- 
 
 The sovereign capital architecture operates on a single premise: capital obeys structure before narrative, jurisdiction before valuation, and institutional confidence before execution. A buyout platform entering its Fund-III cycle no longer competes on pricing power. It competes on structural intelligence. Drift-resistant intelligence. Multi‑cycle intelligence. The type that allows an LP to read a term sheet and see equilibrium, not exposure.
 

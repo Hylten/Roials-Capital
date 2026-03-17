@@ -5,8 +5,7 @@ date: "2026-01-16"
 author: "Jonas Hyltén"
 slug: "strategic-asset-allocation-durable-capital"
 keywords: "kapitalanskaffning, oil and gas, private credit, Capital Structuring, asset hardening"
----
-[START INSTITUTIONAL BRIEFING]
+--- 
 
 A liquidity shortage always begins as a structural illusion. The market believes capital is available. It is not. The spread between perceived liquidity and actual callable liquidity has widened to its largest point in fourteen years. That gap is the hinge on which the next decade of private capital will turn.
 
@@ -14,9 +13,7 @@ Order is not an option.
 
 Institutional allocators are no longer rewarding velocity. They are rewarding durability. The naive GP still underwrites for return. The institutional GP underwrites for survival across four liquidity cycles. Durable capital is not an asset. It is an architecture. A system of controlled constraints that eliminates the randomness that destroys compounding.
 
-The liquidity regime has shifted. What worked in 2014 is a liability in 2026.
-
-PHASE 1. THE REGIME SHIFT
+The liquidity regime has shifted. What worked in 2014 is a liability in 2026. PHASE 1. THE REGIME SHIFT
 
 The first principle is simple. Liquidity is no longer cheap. The hidden truth is even sharper. Most mid market buyout firms are structurally miscalibrated for the new liquidity cost curve. The gap is not philosophical. It is mechanical.
 
@@ -37,7 +34,6 @@ The core inefficiency across mid market GP groups is simple. They allocate based
 PHASE 2. TECHNICAL MECHANICS
 
 Durable capital begins with structural cash flow. Structural cash flow begins with predictable LTV behavior. Most GPs treat LTV as an underwriting footnote. It is the central gear of the system. The LTV curve dictates the survival horizon of every acquisition.
-
 
 1. LTV Stability Curve 
 The LTV stability curve measures the deviation threshold between projected asset value and lender recoverability. A stable asset is not one that grows. A stable asset is one that does not deviate beyond a 9 percent volatility band. The most durable businesses in Fund-III portfolios demonstrate three traits:

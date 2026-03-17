@@ -5,7 +5,8 @@ date: "2025-11-11"
 author: "ROIALS CAPITAL"
 slug: "institutional-backing-private-credit-power"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"
----
+--- 
+
 A structural gap always reveals itself in the data before it becomes visible in the market. In private credit, the gap is simple. Institutions with disciplined capital architecture outperform not because they lend better, but because their backing reshapes the deal physics. Order is not an option.
 
 PHASE 1. THE REGIME SHIFT

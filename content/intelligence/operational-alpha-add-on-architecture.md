@@ -4,7 +4,8 @@ description: "A private Principal‑level briefing on why operational alpha now 
 date: "2025-12-15"
 author: "ROIALS CAPITAL"
 slug: "operational-alpha-add-on-architecture"
----
+--- 
+
 The pivot is not philosophical. It is structural. Add‑on strategies across Fund‑III and Fund‑IV vintages have entered a new jurisdiction of scrutiny-first by Limited Partners, then by regulators, then by the internal conscience of any competent GP who understands the state of the market. The age of easy compression, reflexive refinancing, or abstracted multiple expansion has ended. The world did not “shift”; it hardened. It clarified. It exposed the GPs who relied on arithmetic instead of architecture.
 
 Operational alpha is now the currency. Hard. Measurable. Non-negotiable.
@@ -51,7 +52,17 @@ Phase Three. Internal Bypass.
 
 The shift toward operational alpha is not a trend. It is the return to sanity after a decade of monetary distortion and exaggerated expectations. Every LP now carries the memory of soft diligence cycles, unrealistic underwriting, and mistaken assumptions disguised as insight. They want correction. They want courage. They want the GP who does not follow momentum but defines momentum.
 
-Deep analytical paragraph: Across North America and Northern Europe, the top-performing buyout firms in the last five years exhibit the same architecture. They build operational infrastructure early. They invest in the perimeter-data, forecasting, governance, procurement modeling, supply chain resilience, sectoral verticalization-before they attempt meaningful scale. They understand that every add‑on must slot into a predetermined operating lattice, not a theoretical consolidation strategy. They treat the integration plan as doctrine, not aspiration. The playbooks that win capital are not spreadsheets-they are operating constitutions.
+Deep analytical paragraph:
+
+Across North America and Northern Europe, the top-performing buyout firms in the last five years exhibit the same architecture.
+
+They build operational infrastructure early.
+
+They invest in the perimeter-data, forecasting, governance, procurement modeling, supply chain resilience, sectoral verticalization-before they attempt meaningful scale.
+
+They understand that every add‑on must slot into a predetermined operating lattice, not a theoretical consolidation strategy.
+
+They treat the integration plan as doctrine, not aspiration. The playbooks that win capital are not spreadsheets-they are operating constitutions.
 
 The institutional allocator sees two paths:
 

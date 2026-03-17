@@ -5,7 +5,8 @@ date: "2025-11-03"
 author: "Jonas Hyltén"
 slug: "precision-financing-for-institutional-projects"
 keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # Precision Financing for Institutional Projects
 
 Institutional projects require a level of accuracy that is non‑negotiable.

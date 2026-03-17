@@ -4,7 +4,8 @@ description: "General Partners shifting away from ESG-mandatory fund structures 
 date: "2026-02-02"
 author: "ROIALS CAPITAL"
 slug: "why-gps-launching-esg-optional-funds"
----
+--- 
+
 ### Why GPs
 
 Are Increasingly Launching ESG‑Optional Rather Than ESG‑Mandatory Funds

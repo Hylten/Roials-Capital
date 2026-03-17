@@ -4,7 +4,8 @@ description: "Principal briefing on how mid‑market GPs are engineering NAV-bas
 date: "2025-08-02"
 author: "ROIALS CAPITAL"
 slug: "nav-engineering-Fund-III-deployment"
----
+--- 
+
 Mid‑market GPs are no longer treating NAV facilities as a late‑cycle liquidity patch. They are building them as primary engines. Direct. Deliberate. Pre‑wired into Fund‑III architecture before the first dollar is deployed.
 
 The shift is structural.

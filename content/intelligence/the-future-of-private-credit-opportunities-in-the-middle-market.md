@@ -5,7 +5,8 @@ date: "2025-12-24"
 author: "Jonas Hyltén"
 slug: "the-future-of-private-credit-opportunities-in-the-middle-market"
 keywords: "Private Credit, Middle Market, Direct liquidity engineering, Roials Capital, Macroeconomics"
----
+--- 
+
 # The Future of Private Credit: Opportunities in the Middle Market
 
 The landscape of institutional investment has fundamentally shifted over the past decade. As traditional banks have retreated from middle-market Capital Structuring due to tightening regulatory frameworks, private credit has stepped in to fill the void, creating a structural shift rather than a cyclical trend.

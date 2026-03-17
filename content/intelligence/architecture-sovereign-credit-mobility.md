@@ -5,8 +5,7 @@ date: "2026-02-24"
 author: "ROIALS CAPITAL"
 slug: "architecture-sovereign-credit-mobility"
 keywords: "kapitalanskaffning, private credit, sovereign credit, Capital Structuring, asset hardening, buyouts"
----
-[START INSTITUTIONAL BRIEFING]
+--- 
 
 A sovereign balance sheet does not fail from lack of assets. It fails from lack of mobility.
 
@@ -15,7 +14,6 @@ Order is not an option.
 Cross-jurisdictional credit architecture is now the prime vector of competitive advantage for LPs seeking Fund-III scale exposure. Not because sovereign credit is unstable. Because sovereign credit is rigid. Rigidity destroys return velocity. Mobility converts national constraints into institutional arbitrage.
 
 ROIALS CAPITAL operates inside that gap.
-
 
  THE REGIME SHIFT
 
@@ -38,7 +36,6 @@ Sovereigns with liquidity privilege.
 The final category is shrinking. USD dominance covers many inefficiencies, but not the divergence in credit mobility. Europe’s MiFID II environment incentivizes precision. The US energy corridor incentivizes volume. The Gulf incentives prioritize permanence. Africa and LatAm prioritize conversion. None share the same mobility rules.
 
 Institutional capital raising now requires a multi-regime map. Fund-III requires mastery of it.
-
 
  TECHNICAL MECHANICS
 
@@ -67,7 +64,6 @@ Recovery Factors
 We engineer recovery factors as a function of mobility, not liquidation. Sovereign credit mobility lowers default severity by reducing collateral conversion time and enabling offshore realization. Recovery is procedural. Not reactive. The system is designed to avoid courtroom dependence.
 
 This is how institutional discipline is restored.
-
 
  THE STRATEGIC MODEL
 

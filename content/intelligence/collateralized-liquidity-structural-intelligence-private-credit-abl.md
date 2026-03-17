@@ -5,10 +5,9 @@ date: "2025-09-16"
 author: "Jonas Hyltén"
 slug: "collateralized-liquidity-structural-intelligence-private-credit-abl"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
----
-Order is not an option. It is the prerequisite for all solvency.
+--- 
 
-[START INSTITUTIONAL BRIEFING]
+Order is not an option. It is the prerequisite for all solvency.
 
 PHASE 1. THE REGIME SHIFT
 

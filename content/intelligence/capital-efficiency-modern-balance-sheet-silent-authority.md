@@ -5,8 +5,7 @@ date: "2026-01-10"
 author: "ROIALS CAPITAL | Principal"
 slug: "capital-efficiency-modern-balance-sheet-silent-authority"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
----
-[START INSTITUTIONAL BRIEFING]
+--- 
 
 Silent authority begins where visible leverage ends. Modern balance sheets do not respond to scale alone. They respond to precision. Placement. Jurisdictional friction removed. Ownership clarified. Optionality insulated. Capital efficiency is no longer a liquidity event. It is a posture. A structural stance. A sovereign orientation of assets, liabilities, and discretion.
 

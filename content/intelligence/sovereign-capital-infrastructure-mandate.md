@@ -5,8 +5,7 @@ date: "2026-02-07"
 author: "Jonas Hyltén"
 slug: "sovereign-capital-infrastructure-mandate"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
----
-[START INSTITUTIONAL BRIEFING]
+--- 
 
 A sovereign balance sheet collapses in silence long before it collapses in public. The structural gap always appears first inside the liquidity spine of the state: the infrastructure that aggregates collateral, transforms risk, and transmits credit into productive capacity. That is the counter-intuitive truth. Nations fail not due to lack of assets but due to lack of institutional architecture capable of marshaling them.
 
@@ -14,11 +13,15 @@ Order is not an option.
 
 As Principal Investigator, I treat sovereign capital infrastructure the same way I treat a distressed balance sheet. Identify the fracture. Reconstruct the transmission system. Install governance that cannot drift. The next decade will reward the actors who build systems that enforce consistency in a world defined by fiscal entropy.
 
-
  THE REGIME SHIFT
 
-Sovereign capital is entering an austerity regime. Not the political version. The mechanical one. The ratio of unfunded liabilities to productive assets is widening across OECD states. Monetary authorities attempt to mask this by expanding duration mismatches inside the public debt stack. Private markets respond by withdrawing long-duration credit from anything that smells like policy risk. The cycle has already turned. Sovereigns will not get cheaper funding cycles again without rebuilding institutional trust.
+Sovereign capital is entering an austerity regime. Not the political version. The mechanical one. The ratio of unfunded liabilities to productive assets is widening across OECD states.
 
+Monetary authorities attempt to mask this by expanding duration mismatches inside the public debt stack.
+
+Private markets respond by withdrawing long-duration credit from anything that smells like policy risk. The cycle has already turned.
+
+Sovereigns will not get cheaper funding cycles again without rebuilding institutional trust.
 
 1. The exhaustion of soft collateral.
 
@@ -35,7 +38,6 @@ UHNW families, energy operators, royalty funds, and private credit boutiques are
 Fund-III sits directly inside this regime shift. Buyouts and add-ons backed by hard-collateralized cash flows are the beneficiaries of sovereign retracement.
 
 Sovereigns are losing the competition for strategic assets because their infrastructure no longer transmits capital with sufficient precision.
-
 
  TECHNICAL MECHANICS
 
@@ -58,7 +60,6 @@ Sovereigns underestimate the speed at which private capital recalculates recover
 Sovereign debt offices often extend duration artificially to reduce near-term refinancing pressure. This is not discipline. It is drift. True duration discipline requires asset-backed alignment. A 30-year amortization schedule backed by a 12-year asset life is malpractice. Private markets would never tolerate it. Yet public markets accept it as standard.
 
 The result is predictable. Capital flows toward private systems that enforce accountability instead of public systems that obscure risk.
-
 
  THE STRATEGIC MODEL
 

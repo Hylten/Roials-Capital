@@ -5,7 +5,8 @@ date: "2025-08-12"
 author: "Jonas Hyltén"
 slug: "liquidity-architecture-for-Fund-III-expansion-structural-mechanics-for-institutional-grade-capital"
 keywords: "private credit, asset based Institutional Liquidity Paths, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # Liquidity Architecture for Fund-III Expansion
 
 Roials Capital operates in a domain where liquidity is not a convenience.
@@ -120,9 +121,7 @@ Institutional Liquidity Paths at Institutional Scale
 
 Crypto Institutional Liquidity Paths is not a retail activity at Roials Capital.
 
-Our minimum threshold is 2,000,000.
-
-This preserves structural integrity.
+Our minimum threshold is 2,000,000. This preserves structural integrity.
 
 It allows us to maintain institutional level underwriting while avoiding the volatility contamination that occurs in small sized crypto credit portfolios.
 
@@ -142,9 +141,7 @@ Crypto is simply another collateral class when treated with correct architectura
 
 Share Strategic Collateralization and the 5,000,000 Threshold
 
-Public share Strategic Collateralization in Fund-III begins at 5,000,000.
-
-This threshold is not arbitrary.
+Public share Strategic Collateralization in Fund-III begins at 5,000,000. This threshold is not arbitrary.
 
 It is the point where the quality of equity holdings aligns with our liquidity architecture.
 

@@ -5,7 +5,8 @@ date: "2025-07-04"
 author: "Jonas Hyltén"
 slug: "the-power-of-private-credit-in-modern-ma-architecture"
 keywords: "private credit, asset based Institutional Liquidity Paths, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # The Power of Private Credit in M&A
 
 Mergers and acquisitions have always been liquidity‑centric events.
@@ -32,9 +33,7 @@ We do not compete with banks.
 
 We define the liquidity frameworks they can no longer supply. 
 
-### 2.
-
-Asset Complexity Increased
+### 2. Asset Complexity Increased
 
 HNWI and UHNW individuals often maintain diversified asset ecosystems.
 
@@ -54,9 +53,7 @@ We do not require assets to be simple.
 
 We require them to be definable. 
 
-### 3.
-
-Deal Timelines Compressed
+### 3. Deal Timelines Compressed
 
 Competitive acquisitions now move on accelerated clocks.
 
@@ -170,9 +167,7 @@ We do not sell narratives.
 
 The architecture is simple. 
 
-### 1.
-
-Define the Asset
+### 1. Define the Asset
 
 Crypto position.
 
@@ -182,17 +177,13 @@ Private asset tranche.
 
 We determine the real Strategic Collateralization value inside institutional parameters. 
 
-### 2.
-
-Build the Liquidity Framework
+### 2. Build the Liquidity Framework
 
 This includes collateral mapping, risk displacement, and internal structuring.
 
 The goal is precision, not complexity. 
 
-### 3.
-
-Execute Without Noise
+### 3. Execute Without Noise
 
 Our operations are discreet.
 

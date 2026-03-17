@@ -5,7 +5,8 @@ date: "2025-06-22"
 author: "Jonas Hyltén"
 slug: "the-future-of-sovereign-capital-infrastructure"
 keywords: "private credit, asset based Institutional Liquidity Paths, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # The Future of Sovereign Capital Infrastructure
 
 Sovereign capital infrastructure is entering a structural realignment.

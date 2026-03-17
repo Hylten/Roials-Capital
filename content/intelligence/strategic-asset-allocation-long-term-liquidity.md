@@ -5,8 +5,7 @@ date: "2025-09-06"
 author: ROIALS CAPITAL
 slug: strategic-asset-allocation-long-term-liquidity
 keywords: kapitalanskaffning, oil and gas, private credit, Institutional Liquidity Paths, asset hardening
----
-[START INSTITUTIONAL BRIEFING]
+--- 
 
 Durable capital is not an idea. It is an operating stance. A structural position. A sovereignty layer. Markets pivot. Cycles compress. Rates oscillate under political heat. But durable capital holds its ground because its architecture is engineered, not assumed. Strategic asset allocation is the blueprint. Liquidity is the enforcement mechanism. The institution is the vector.
 

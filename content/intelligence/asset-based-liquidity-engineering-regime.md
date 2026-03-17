@@ -5,12 +5,11 @@ date: "2025-12-27"
 author: "Jonas Hyltén"
 slug: "asset-based-liquidity-engineering-regime"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"
----
+--- 
+
 A system collapses at its weakest constraint. Wealth collapses at its softest asset. Liquidity is the constraint most UHNW families misdiagnose.
 
 Order is not an option.
-
-[START INSTITUTIONAL BRIEFING]
 
 PHASE 1. THE REGIME SHIFT 
 Capital no longer rewards passive ownership. It rewards engineered liquidity cycles with institutional load-bearing capacity. The market moved. Most families did not.
@@ -39,7 +38,17 @@ Cash Flow Waterfall Logic. The waterfall is the contract that enforces stewardsh
 
 The order is sacred. Break the order and you destroy compounding. Uphold it and you create a measurable surplus that can be recycled into accretive add ons or low risk second lien facilities.
 
-Recovery Factors. Families assume spiritual risk while believing they hold financial risk. Most of their capital is tied in assets with undiagnosed recovery factors. Forced sale recovery is not an acceptable metric for a generational stewardship strategy. Engineered recovery is. Institutional Liquidity Paths raises effective recoverability by pre structuring liquidation paths, secondary market bidders, and alternate-use scenarios. A machine with three potential buyers is fragile. A machine with twelve documented bidders is a treasury instrument.
+Recovery Factors.
+
+Families assume spiritual risk while believing they hold financial risk.
+
+Most of their capital is tied in assets with undiagnosed recovery factors.
+
+Forced sale recovery is not an acceptable metric for a generational stewardship strategy.
+
+Engineered recovery is.
+
+Institutional Liquidity Paths raises effective recoverability by pre structuring liquidation paths, secondary market bidders, and alternate-use scenarios. A machine with three potential buyers is fragile. A machine with twelve documented bidders is a treasury instrument.
 
 This is why we build Asset-Based Lending facilities not as credit. But as operating infrastructure.
 

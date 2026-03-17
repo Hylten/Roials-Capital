@@ -5,7 +5,8 @@ date: "2025-12-08"
 author: "Jonas Hyltén"
 slug: "the-calculus-of-risk-in-institutional-private-cred"
 keywords: "private credit, Asset-Based Lending, liquidity"
----
+--- 
+
 # The Calculus of Risk in Institutional Private Credit
 
 Institutional private credit is entering a structural realignment phase.
@@ -119,9 +120,7 @@ The private credit market is transitioning into a new architecture.
 
 We are witnessing three macro-level shifts.
 
-### 1.
-
-Liquidity Consolidation
+### 1. Liquidity Consolidation
 
 Large pools of capital are concentrating into fewer lenders with higher verification discipline.
 
@@ -131,9 +130,7 @@ It is filtration.
 
 Only lenders with structural rigor survive periods of liquidity contraction.
 
-### 2.
-
-Premium Spreads for Covenant Strength
+### 2. Premium Spreads for Covenant Strength
 
 Borrowers will not secure premium spreads through negotiation.
 
@@ -141,9 +138,7 @@ They will secure them through behavior.
 
 Institutional capital rewards those who maintain covenant integrity without being monitored.
 
-### 3.
-
-The Rise of Intelligence-Driven Underwriting
+### 3. The Rise of Intelligence-Driven Underwriting
 
 Underwriting is being transformed by intelligence architecture.
 

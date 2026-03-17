@@ -5,7 +5,8 @@ date: "2026-01-12"
 author: "Jonas Hyltén"
 slug: "capital-efficiency-for-the-modern-balance-sheet-leveraging-core-holdings-with-silent-authority"
 keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # Capital Efficiency: Leveraging Core Holdings
 
 Capital efficiency is no longer a preference for high net worth and ultra high net worth individuals. It is structural infrastructure. It determines how liquidity behaves inside portfolios that are already capital dense.

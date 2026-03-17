@@ -5,7 +5,8 @@ date: "2025-11-27"
 author: "Jonas Hyltén"
 slug: "legacy-hardening-the-structural-advantage"
 keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # Legacy Hardening: The Structural Advantage
 
 Legacy is not a passive artifact.

@@ -5,7 +5,8 @@ date: "2025-07-18"
 author: "Jonas Hyltén"
 slug: "the-mandate-of-discrete-capital-deployment"
 keywords: "private credit, Asset-Based Lending, liquidity"
----
+--- 
+
 # The Mandate of Discrete Capital Deployment
 
 Discrete capital deployment is not a tactic.

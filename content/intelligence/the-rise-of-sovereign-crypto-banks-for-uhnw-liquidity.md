@@ -5,7 +5,8 @@ date: "2026-02-26"
 author: "Jonas Hyltén"
 slug: "the-rise-of-sovereign-crypto-banks-for-uhnw-liquidity"
 keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # The Rise of Sovereign Crypto Banks for UHNW Liquidity
 
 The global wealth architecture is entering an era defined by sovereignty, optionality, and jurisdictional neutrality.
@@ -104,9 +105,7 @@ Volatility is not the issue.
 
 The issue is the lack of institutional grade lenders with the ability to structure large positions without introducing custodial or rehypothecation risk.
 
-Roials Capital provides crypto backed Strategic Collateralization with a minimum threshold of 2,000,000.
-
-This threshold is intentional. It aligns with the risk profile, operational load, and capital structures designed for UHNW borrowers.
+Roials Capital provides crypto backed Strategic Collateralization with a minimum threshold of 2,000,000. This threshold is intentional. It aligns with the risk profile, operational load, and capital structures designed for UHNW borrowers.
 
 The objective is not speed. The objective is precision.
 
@@ -132,9 +131,7 @@ These include:
 - Settlement delay exposure 
 
  
-Roials Capital provides public share Asset-Backed Frameworks starting at a minimum of 5,000,000.
-
-This structure protects share ownership while allowing liquidity to be deployed into new opportunities or to fortify defensive positions.
+Roials Capital provides public share Asset-Backed Frameworks starting at a minimum of 5,000,000. This structure protects share ownership while allowing liquidity to be deployed into new opportunities or to fortify defensive positions.
 
 It is engineered for discretion.
 

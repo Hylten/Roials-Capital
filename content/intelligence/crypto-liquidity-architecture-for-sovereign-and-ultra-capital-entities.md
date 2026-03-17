@@ -5,7 +5,8 @@ date: "2025-12-06"
 author: "Jonas Hyltén"
 slug: "crypto-liquidity-architecture-for-sovereign-and-ultra-capital-entities"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # Crypto Liquidity for Sovereign Entities 
 A Structural Framework for Institutional Digital Capital
 

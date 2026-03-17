@@ -5,8 +5,7 @@ date: "2025-06-29"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "strategic-ceo-persona-hooks-institutional-capital"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEOC"
----
-[START INSTITUTIONAL BRIEFING]
+--- 
 
 The institutional allocator universe rarely responds to charisma. It responds to pattern integrity. The highest performance CEO personas in 2026 are engineered around structural credibility, operational literacy, and allocators' hunger for predictable decision-making architectures. The capital vacuum in middle market private equity is not an outcome of reduced appetite. It is the direct result of allocators demanding greater cognitive visibility into leadership models, especially as Fund-III strategies move into the post-zero-rate era.
 

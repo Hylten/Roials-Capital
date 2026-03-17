@@ -5,7 +5,8 @@ date: "2026-01-13"
 author: "Jonas Hyltén"
 slug: "precision-mechanics-of-transnational-capital-migra"
 keywords: "private credit, Asset-Based Lending, liquidity"
----
+--- 
+
 # Precision Mechanics of Transnational Capital Migration
 
 Transnational capital does not drift.

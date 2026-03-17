@@ -5,10 +5,9 @@ date: "2026-01-27"
 author: "ROIALS CAPITAL"
 slug: "institutional-grade-asset-hardening"
 keywords: "kapitalanskaffning, oil and gas, private credit, Strategic Collateralization, asset hardening"
----
-Order does not appear by accident. It is engineered through constraints, enforced through governance, and preserved by capital structures that cannot fracture under volatility.
+--- 
 
-[START INSTITUTIONAL BRIEFING]
+Order does not appear by accident. It is engineered through constraints, enforced through governance, and preserved by capital structures that cannot fracture under volatility.
 
 PHASE 1. THE REGIME SHIFT
 

@@ -5,14 +5,11 @@ date: "2025-11-29"
 author: "ROIALS CAPITAL"
 slug: "institutional-asset-hardening-playbook-5b-board-review"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
----
-[START INSTITUTIONAL BRIEFING]
+--- 
 
 A $5B board review does not reward improvisation. It rewards engineered inevitability. Cold structure. Clean logic. Zero noise. The architecture must survive hostile diligence, cross-border scrutiny, and political variance. Asset hardening is the conversion of operational chaos into institutional-grade permanence. Capital follows structure. Structure follows intent. Intent requires sovereignty.
 
-A principal does not defend assets. A principal fortifies them. Movable. Layered. Audit-proof. Board-ready. Proverbs 13:22.
-
-Begin with the first law: Nothing scales without a hardened balance sheet. LPs know this. GPs pretend to. Boards verify it. Fund-III depends on it.
+A principal does not defend assets. A principal fortifies them. Movable. Layered. Audit-proof. Board-ready. Proverbs 13:22. Begin with the first law: Nothing scales without a hardened balance sheet. LPs know this. GPs pretend to. Boards verify it. Fund-III depends on it.
 
 The playbook operates under three imperatives:
 

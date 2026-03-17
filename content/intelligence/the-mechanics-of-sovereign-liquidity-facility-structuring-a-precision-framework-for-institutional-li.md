@@ -5,7 +5,8 @@ date: "2025-09-11"
 author: "Jonas Hyltén"
 slug: "the-mechanics-of-sovereign-liquidity-facility-structuring-a-precision-framework-for-institutional-li"
 keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # The Mechanics of Sovereign liquidity facility Structuring 
 A Precision Architecture for Institutional Liquidity
 

@@ -5,7 +5,8 @@ date: "2025-07-12"
 author: "Jonas Hyltén"
 slug: "deep-liquidity-architecture-accessing-capital-in-illiquid-markets"
 keywords: "private credit, asset based Institutional Liquidity Paths, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # Deep Liquidity: Accessing Capital in Illiquid Markets
 
 Illiquid markets have always created separation in wealth outcomes.

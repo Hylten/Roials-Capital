@@ -5,8 +5,7 @@ date: "2026-01-30"
 author: "Jonas Roials"
 slug: "cross-border-asset-hardening-Fund-III-capital-velocity"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"
----
-[START INSTITUTIONAL BRIEFING]
+--- 
 
 A hard truth defines the current cycle. Volatility is not a market condition. It is the market. Regimes fracture. Jurisdictions diverge. Capital migrates to safety. Capital rewards structure. Capital punishes hesitation. The institutions that win are those that treat asset hardening as a sovereign discipline, not a compliance function. The institutions that lose are those that confuse liquidity with durability.
 
@@ -242,8 +241,6 @@ Protocol:
 When this is done correctly, energy becomes cashflow, not crisis.
 
 Fund‑III must present a hardened NAEOC pipeline. LPs will reward structural dominance.
-
-
 
 ## 
 EU Acquisition Protocol (MiFID II Cycle)

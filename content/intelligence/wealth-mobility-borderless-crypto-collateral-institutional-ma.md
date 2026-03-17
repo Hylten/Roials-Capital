@@ -5,8 +5,7 @@ date: "2026-03-16"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "wealth-mobility-borderless-crypto-collateral-institutional-ma"
 keywords: "kapitalanskaffning, private credit, M&A, liquidity engineering, crypto collateral, institutional structuring, asset hardening, NAEO"
----
-[START INSTITUTIONAL BRIEFING]
+--- 
 
 Structural displacement in global capital markets is no longer a cyclical pattern. It is a direct outcome of fragmented regulatory ecosystems that slow the movement of legitimate capital while accelerating the migration of private wealth into non-geographically anchored stores of value. The capital vacuum that emerges is not driven by scarcity of liquidity. It is driven by the inability of legacy infrastructure to translate cross-border wealth into institutional-grade collateral at the velocity required by modern M&A activity.
 
@@ -97,5 +96,3 @@ Three decision frames guide the allocator.
 For allocators navigating Fund-III buyouts, add-on acquisitions, ABL liquidity engineering, or strategic mandates in energy and MiFID II regions, the structural environment is fully formed. What is required is an institutional map of how to integrate globally mobile assets into compliant M&A execution.
 
 A confidential strategy audit or portfolio calibration with Roials Capital provides the framework for evaluating which structures align with existing mandates and which pathways create unnecessary friction. The objective is not to transact immediately. The objective is to understand the architecture of modern capital mobility so that decision making can be executed with institutional certainty.
-
-[END INSTITUTIONAL BRIEFING]

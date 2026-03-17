@@ -5,12 +5,15 @@ date: "2026-03-10"
 author: "Jonas Hyltén"
 slug: "institutional-playbook-capital-preservation-2026"
 keywords: "kapitalanskaffning, private equity, Fund-III, ROIALS CAPITAL, 2026, liquidity engineering"
----
+--- 
+
 [START INTELLIGENCE REPORT]
 
 1. THE MANDATE: DEFINING THE STRUCTURAL REALITY OF CAPITAL PRESERVATION
 
-Capital preservation at an institutional grade is not a defensive posture. It is a structural doctrine rooted in counter cyclical positioning, intelligent constraint, and systematic conversion of risk exposure into productive optionality. For private equity managers, UHNW principals, and regulated entities operating under regimes like EU MiFID II, the 2026 environment requires the abandonment of legacy assumptions that were born in a decade of artificial liquidity. Central bank divergence, increasingly fragmented regulatory blocs, and a global shift from narrative based investing to collateral based underwriting have created a new operating regime.
+Capital preservation at an institutional grade is not a defensive posture. It is a structural doctrine rooted in counter cyclical positioning, intelligent constraint, and systematic conversion of risk exposure into productive optionality. For private equity managers, UHNW principals, and regulated entities operating under regimes like EU MiFID II, the 2026 environment requires the abandonment of legacy assumptions that were born in a decade of artificial liquidity.
+
+Central bank divergence, increasingly fragmented regulatory blocs, and a global shift from narrative based investing to collateral based underwriting have created a new operating regime.
 
 The institutional playbook for capital preservation is therefore a system of three layers.
 

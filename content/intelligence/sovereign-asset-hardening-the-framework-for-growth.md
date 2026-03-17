@@ -5,7 +5,8 @@ date: "2025-07-10"
 author: "Jonas Hyltén"
 slug: "sovereign-asset-hardening-the-framework-for-growth"
 keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # Sovereign Asset Hardening: The Framework for Growth
 
 Sovereign wealth behavior is no longer limited to state actors.

@@ -5,7 +5,8 @@ date: "2026-02-11"
 author: "Jonas Hyltén"
 slug: "asset-based-liquidity-engineering-as-a-primary-sovereign-mandate"
 keywords: "private credit, Asset-Based Lending, liquidity"
----
+--- 
+
 # Asset Based Capital Structuring as a Primary Sovereign Mandate
 
 Asset based Asset-Backed Frameworks has shifted from a tactical financing instrument into a sovereign mandate for capital principals.

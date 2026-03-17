@@ -5,7 +5,8 @@ date: "2025-07-29"
 author: "Jonas Hyltén"
 slug: "private-credit-and-liquidity-the-modern-foundation"
 keywords: "private credit, liquidity, institutional finance, Roials Capital"
----
+--- 
+
 # Private Credit and Liquidity 
 ROIALS CAPITAL
 

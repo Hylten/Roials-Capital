@@ -5,8 +5,7 @@ date: "2025-12-28"
 author: "ROIALS CAPITAL"
 slug: "strategic-capital-migration-digital-sovereignty"
 keywords: "kapitalanskaffning, oil and gas, private credit, Capital Structuring, asset hardening"
----
-[START INSTITUTIONAL BRIEFING]
+--- 
 
 Digital sovereignty has replaced geographic borders as the primary determinant of capital velocity. Capital now behaves like signal traffic: compressed, encrypted, mobile, and intolerant of friction. Jurisdictions that fail to architect sovereign-grade digital infrastructure are already forfeiting their allocators. Those that succeed are capturing multi-cycle premium. The migration is silent. The implications are not.
 
@@ -52,7 +51,25 @@ Fund‑III requires a sovereign‑first capital architecture. That architecture 
 
 Jurisdictions are diverging on all five vectors. The divergence creates mispricing. Mispricing creates opportunity. Capital migration locks the spread.
 
-Institutional allocators have already begun shifting mandates toward sovereign‑aligned asset classes. Energy transitions. Hard-asset credit. Private liquidity networks. Carbon infrastructure. Industrial data estates. Each of these verticals benefits from sovereign-grade digital architecture because the data layer is now inseparable from the physical asset layer. Energy grids are digital systems. Supply chains are digital systems. Credit underwriting is a digital system. All value now moves through digital sovereignty.
+Institutional allocators have already begun shifting mandates toward sovereign‑aligned asset classes.
+
+Energy transitions.
+
+Hard-asset credit.
+
+Private liquidity networks.
+
+Carbon infrastructure.
+
+Industrial data estates.
+
+Each of these verticals benefits from sovereign-grade digital architecture because the data layer is now inseparable from the physical asset layer.
+
+Energy grids are digital systems.
+
+Supply chains are digital systems.
+
+Credit underwriting is a digital system. All value now moves through digital sovereignty.
 
 The GP unwilling to adapt becomes a liability. The GP who adapts becomes a magnet.
 

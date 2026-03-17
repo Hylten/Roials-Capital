@@ -5,7 +5,8 @@ date: "2026-01-22"
 author: "Jonas Hyltén"
 slug: "navigating-the-middle-market-credit-gap-with-structural-precision"
 keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # Navigating the Middle Market Credit Gap
 
 The middle market credit gap did not emerge overnight.

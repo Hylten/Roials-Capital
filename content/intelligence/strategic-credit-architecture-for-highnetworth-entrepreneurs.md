@@ -5,7 +5,8 @@ date: "2026-01-20"
 author: "Jonas Hyltén"
 slug: "strategic-credit-architecture-for-highnetworth-entrepreneurs"
 keywords: "private credit, asset based Monetization Architecture, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # Strategic Credit for High‑Net‑Worth Entrepreneurs
 
 High‑net‑worth entrepreneurs do not compete for capital.

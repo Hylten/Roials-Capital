@@ -5,8 +5,7 @@ date: "2025-10-08"
 author: "Jonas Hyltén"
 slug: "new-liquidity-standard-institutional-liquidity-engineering"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"
----
-[START INSTITUTIONAL BRIEFING]
+--- 
 
 A structural gap defines every capital era. In this one, the public markets created a liquidity myth. Investors believed mark to market equals mobility. It does not. A position is not liquid if it cannot be exited without destroying its own value. This is the gap. Concentrated shareholders holding five million dollars or more in a single public issuer are no longer managing capital. They are captives of it.
 

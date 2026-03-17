@@ -5,7 +5,8 @@ date: "2025-07-23"
 author: "Jonas Hyltén"
 slug: "institutional-alignment-in-modern-private-credit-architecture"
 keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # Institutional Alignment in Private Credit Strategy
 
 Institutional alignment in private credit is not a matter of preference. It is a matter of structural integrity.

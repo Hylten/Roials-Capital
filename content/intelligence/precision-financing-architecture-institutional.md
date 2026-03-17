@@ -5,10 +5,13 @@ date: "2025-09-14"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "precision-financing-architecture-institutional"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
----
-[START INSTITUTIONAL BRIEFING]
+--- 
 
-The capital vacuum in North American industrial and energy markets is a consequence of regulatory drift and balance sheet inertia, not a shortage of viable assets. Allocators with disciplined underwriting frameworks are discovering a structural truth that has remained constant through five macro cycles: the most stable institutional returns often originate from legacy asset classes with measurable decline profiles and repeatable operational physics. Precision financing architecture has therefore transitioned from a peripheral concept to a primary determinant of acquisition viability, debt seniority, and multi fund scalability.
+The capital vacuum in North American industrial and energy markets is a consequence of regulatory drift and balance sheet inertia, not a shortage of viable assets.
+
+Allocators with disciplined underwriting frameworks are discovering a structural truth that has remained constant through five macro cycles: the most stable institutional returns often originate from legacy asset classes with measurable decline profiles and repeatable operational physics.
+
+Precision financing architecture has therefore transitioned from a peripheral concept to a primary determinant of acquisition viability, debt seniority, and multi fund scalability.
 
 PHASE 1. THE REGIME SHIFT
 

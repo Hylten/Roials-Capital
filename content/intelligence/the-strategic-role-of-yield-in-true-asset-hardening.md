@@ -5,7 +5,8 @@ date: "2025-08-13"
 author: "Jonas Hyltén"
 slug: "the-strategic-role-of-yield-in-true-asset-hardening"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # The Role of Yield in Asset Hardening
 
 Asset hardening is the quiet architecture of capital durability.

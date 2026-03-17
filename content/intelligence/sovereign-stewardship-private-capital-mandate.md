@@ -5,8 +5,7 @@ date: "2025-08-13"
 author: "ROIALS CAPITAL"
 slug: "sovereign-stewardship-private-capital-mandate"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
----
-[START INSTITUTIONAL BRIEFING]
+--- 
 
 Sovereign stewardship begins where legacy capital retreats. The global allocation curve is bending again. Faster this time. Sharper this time. A compression cycle across credit, energy, and regulatory geographies is redrawing the hierarchy of private capital. The institutions that adapt now anchor the next decade of return asymmetry. Those that hesitate outsource their destiny to others.
 

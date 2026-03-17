@@ -5,7 +5,8 @@ date: "2025-12-22"
 author: "Jonas Hyltén"
 slug: "the-future-of-private-credit-and-sovereign-wealth"
 keywords: "private credit, asset based Capital Structuring, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # The Future of Private Credit and Sovereign Wealth
 
 The landscape of global wealth is shifting.

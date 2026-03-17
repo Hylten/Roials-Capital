@@ -5,7 +5,8 @@ date: "2025-07-10"
 author: "Jonas Hyltén"
 slug: "sovereign-wealth-management-the-new-institutional-model-for-private-capital"
 keywords: "private credit, asset based Institutional Liquidity Paths, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # Sovereign Wealth Management: The New Model
 
 The global capital environment has shifted.

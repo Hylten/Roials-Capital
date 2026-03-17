@@ -5,7 +5,8 @@ date: "2026-02-15"
 author: "Jonas Hyltén"
 slug: "sovereign-debt-strategies-and-the-flight-to-crypto-backed-abl-the-new-architecture-for-uhnw-liquidit"
 keywords: "private credit, asset based Institutional Liquidity Paths, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # Sovereign Debt Strategies: Why UHNWIs are Moving to Crypto-Backed Asset-Based Lending
 
 Global sovereign debt has reached a structural inflection point.

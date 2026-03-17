@@ -5,7 +5,8 @@ date: "2025-12-14"
 author: "Jonas Hyltén"
 slug: "sovereign-debt-strategies-for-family-offices-structural-liquidity-architectures-for-2026"
 keywords: "private credit, asset based Institutional Liquidity Paths, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # Sovereign Debt Strategies for Family Offices
 
 Family offices manage capital across generations.

@@ -5,10 +5,15 @@ date: "2025-09-21"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "strategic-role-of-yield-in-true-asset-hardening"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
----
-[START INSTITUTIONAL BRIEFING]
+--- 
 
-The capital vacuum in North American energy and lower mid market private credit is a structural consequence of regulatory drift and lender retrenchment, not an erosion of asset quality. Within this environment, stabilized yield has shifted from being a performance metric to functioning as a balance sheet instrument that governs the degree of asset hardening available to institutional allocators. Yield has become the primary variable that determines whether an asset operates as a liability absorber or a liquidity consumer. This is the operational definition of asset hardening in the current regime.
+The capital vacuum in North American energy and lower mid market private credit is a structural consequence of regulatory drift and lender retrenchment, not an erosion of asset quality.
+
+Within this environment, stabilized yield has shifted from being a performance metric to functioning as a balance sheet instrument that governs the degree of asset hardening available to institutional allocators.
+
+Yield has become the primary variable that determines whether an asset operates as a liability absorber or a liquidity consumer.
+
+This is the operational definition of asset hardening in the current regime.
 
 PHASE 1. THE REGIME SHIFT
 
@@ -123,5 +128,3 @@ The pathway forward involves:
 3. Engagement with partners capable of delivering unfiltered technical intelligence and institutional grade introductions.
 
 Roials Capital provides this navigational function. A confidential strategy audit or portfolio calibration session allows institutional LPs, GPs, and family offices to align capital deployment with durable yield architectures and structurally hardened asset profiles.
-
-[END INSTITUTIONAL BRIEFING]

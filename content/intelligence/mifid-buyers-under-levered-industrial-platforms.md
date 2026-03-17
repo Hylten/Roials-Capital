@@ -4,7 +4,8 @@ description: "Institutional briefing on EU buyer behavior, capital concentration
 date: "2025-12-09"
 author: "ROIALS CAPITAL"
 slug: "mifid-buyers-under-levered-industrial-platforms"
----
+--- 
+
 European MiFID II buyers have shifted posture. Not noise. Allocation gravity. They want platforms that hold shape under scrutiny. Under‑levered industrial operators stand tallest.
 
 1. Regulatory compression.

@@ -5,7 +5,8 @@ date: "2025-07-12"
 author: "Jonas Hyltén"
 slug: "the-sovereign-capital-architecture-building-multigenerational-liquidity"
 keywords: "private credit, asset based liquidity engineering, ROIALS CAPITAL"
----
+--- 
+
 # The Sovereign Capital Architecture: Building Multi Generational Liquidity
 
 The institutions that endure are not the institutions that move fast.

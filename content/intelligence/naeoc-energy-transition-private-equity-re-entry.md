@@ -4,7 +4,8 @@ description: "A private capital briefing on why $50M–$250M energy-transition c
 date: "2026-02-04"
 author: "ROIALS CAPITAL"
 slug: "naeoc-energy-transition-private-equity-re-entry"
----
+--- 
+
 The center of gravity is shifting.
 
 Quietly. Predictably. Inevitably.
@@ -79,8 +80,6 @@ Control at NAEOC scale is now economically meaningful again.
 
 Tape that to the wall.
 
-
-
 ## PHASE TWO  
 THE PRINCIPAL VOICE  
 A Declaration to the GP/LP Cohort
@@ -124,8 +123,6 @@ A small industrial energy asset in the fifty‑to‑two‑hundred‑fifty millio
 A ten‑billion‑dollar megaproject cannot be corrected. It can only be tolerated.
 
 That is why LPs are returning to you-not out of nostalgia, but out of necessity.
-
-
 
 ## PHASE THREE  
 THE INTERNAL BYPASS  
@@ -173,9 +170,7 @@ Every industrial transition behaves the same:
 - Phase 4: Operational consolidation  
 - Phase 5: Institutional control
 
-We are squarely in Phase 4.
-
-Consolidation demands GPs who can operate, contract, restructure, and optimize. Infrastructure LPs know this. They are reallocating capital toward the consolidators.
+We are squarely in Phase 4. Consolidation demands GPs who can operate, contract, restructure, and optimize. Infrastructure LPs know this. They are reallocating capital toward the consolidators.
 
 Fund‑III GPs should position accordingly.
 
@@ -196,8 +191,6 @@ None of these are ideological.
 All are structural.
 
 Energy systems are being rebuilt for reasons of physics, not politics. That is the ultimate anchor for institutional capital.
-
-
 
 ## CAPITAL ARCHITECTURE  
 ROIALS CAPITAL Position in the Cycle
@@ -240,8 +233,6 @@ We do not chase the tide.
 
 We build the harbor where the tide returns.
 
-
-
 ## ASSET‑BASED LENDING (QUALIFICATION GATES)
 
 Strict ROIALS CAPITAL Protocol
@@ -258,8 +249,6 @@ Above these levels, we move with velocity.
 That is the gate.
 
 It exists to protect the architecture.
-
-
 
 ## THE PRINCIPAL'S CLOSING POSITION
 

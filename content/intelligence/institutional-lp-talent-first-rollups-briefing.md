@@ -4,7 +4,8 @@ description: "Confidential Principal-level analysis on human‑capital‑dominan
 date: "2025-10-10"
 author: "ROIALS CAPITAL"
 slug: "institutional-lp-talent-first-rollups-briefing"
----
+--- 
+
 The shift is quiet. Intentional. Barely spoken above a whisper in the rooms where allocations are actually shaped. Institutional LPs have begun reclassifying human‑capital‑dominant rollups from “execution‑heavy” strategies to “durable compounding engines.” They no longer view talent risk as a liability. They view it as the final inefficiency left in private markets that can still be mastered through disciplined architecture.
 
 I will state this plainly. Talent-first rollups attract capital when the GP demonstrates two things: an ironhanded operating thesis and a repeatable covenant of leadership replacement. Nothing else moves the needle.

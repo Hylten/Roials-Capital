@@ -5,7 +5,8 @@ date: "2025-08-28"
 author: "Jonas Hyltén"
 slug: "the-strategic-value-of-asset-based-financing-for-modern-private-wealth"
 keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # The Strategic Value of Asset Based Financing
 
 Asset based financing has become the quiet architecture behind modern private wealth strategy.

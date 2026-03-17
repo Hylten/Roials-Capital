@@ -5,7 +5,8 @@ date: "2025-09-29"
 author: "Jonas Hyltén"
 slug: "the-architecture-of-institutional-trust"
 keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # The Architecture of Institutional Trust
 
 Institutional trust is not a sentiment. It is a structure.

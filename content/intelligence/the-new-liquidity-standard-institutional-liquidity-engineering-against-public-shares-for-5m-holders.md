@@ -5,7 +5,8 @@ date: "2025-11-25"
 author: "Jonas Hyltén"
 slug: "the-new-liquidity-standard-institutional-liquidity-engineering-against-public-shares-for-5m-holders"
 keywords: "private credit, asset based Capital Structuring, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # The New Liquidity Standard: Capital Structuring Against Public Shares for the + Class
 
 Liquidity architecture is shifting.

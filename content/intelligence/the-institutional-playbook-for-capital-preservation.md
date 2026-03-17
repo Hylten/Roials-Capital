@@ -5,7 +5,8 @@ date: "2025-07-13"
 author: "Jonas Hyltén"
 slug: "the-institutional-playbook-for-capital-preservation"
 keywords: "private credit, asset based Capital Structuring, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # The Institutional Playbook for Capital Preservation
 
 Capital preservation is not a defensive posture.

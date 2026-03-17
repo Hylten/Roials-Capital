@@ -5,7 +5,8 @@ date: "2025-07-07"
 author: "Jonas Hyltén"
 slug: "the-sovereign-balance-sheet-engineering-for-fund"
 keywords: "private credit, Asset-Based Lending, liquidity"
----
+--- 
+
 # The Sovereign Balance Sheet 
 Engineering for Fund-III Dynamics
 

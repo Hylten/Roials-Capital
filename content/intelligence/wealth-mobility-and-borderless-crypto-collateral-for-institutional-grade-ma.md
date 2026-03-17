@@ -5,7 +5,8 @@ date: "2025-08-19"
 author: "Jonas Hyltén"
 slug: "wealth-mobility-and-borderless-crypto-collateral-for-institutional-grade-ma"
 keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # Wealth Mobility: Using Borderless Crypto Collateral for Traditional M&A
 
 Wealth behaves differently when it is engineered rather than stored.

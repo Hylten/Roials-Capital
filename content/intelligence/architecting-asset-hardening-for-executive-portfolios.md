@@ -5,7 +5,8 @@ date: "2026-02-17"
 author: "Jonas Hyltén"
 slug: "architecting-asset-hardening-for-executive-portfolios"
 keywords: "private credit, asset based Institutional Liquidity Paths, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # Asset Hardening for Executive Portfolios
 
 Asset hardening is the discipline of transforming volatile or illiquid holdings into durable, strategically protected capital structures.

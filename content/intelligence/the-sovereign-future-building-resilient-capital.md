@@ -5,7 +5,8 @@ date: "2025-08-30"
 author: "Jonas Hyltén"
 slug: "the-sovereign-future-building-resilient-capital"
 keywords: "private credit, asset based Capital Structuring, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # The Sovereign Future: Building Resilient Capital
 
 Capital strength is not a function of scale.

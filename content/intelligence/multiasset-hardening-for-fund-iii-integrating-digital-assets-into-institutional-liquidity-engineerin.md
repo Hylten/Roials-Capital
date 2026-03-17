@@ -5,7 +5,8 @@ date: "2026-01-19"
 author: "Jonas Hyltén"
 slug: "multiasset-hardening-for-Fund-III-integrating-digital-assets-into-institutional-liquidity-engineerin"
 keywords: "private credit, asset based Capital Structuring, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # Multi Asset Hardening for Fund-III 
 Integrating Digital Assets Into Institutional Asset-Backed Frameworks Architecture
 

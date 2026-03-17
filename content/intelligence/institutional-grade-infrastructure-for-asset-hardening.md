@@ -5,7 +5,8 @@ date: "2025-11-13"
 author: "Jonas Hyltén"
 slug: "institutional-grade-infrastructure-for-asset-hardening"
 keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # Institutional Grade Infrastructure for Asset Hardening
 
 Asset hardening is no longer a defensive strategy.

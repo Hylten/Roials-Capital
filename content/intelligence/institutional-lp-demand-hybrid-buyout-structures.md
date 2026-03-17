@@ -4,7 +4,8 @@ description: "Institutional LP demand is shifting toward hybrid buyout construct
 date: "2025-12-02"
 author: "ROIALS CAPITAL"
 slug: "institutional-lp-demand-hybrid-buyout-structures"
----
+--- 
+
 Higher-for-longer changed the cadence. LPs want shape, not stories. They want precision on control, clarity on downside, and a defined glidepath to cash generation. Hybrid buyout structures answer the demand. Hard edges. Clean math. Direct attribution.
 
 First. Rate discipline recalibrates the room. Equity alone becomes blunt. Senior credit alone becomes timid. The hybrid stack gives LPs something better: control economics wrapped around secured yield. They see certainty. They see covenant behavior. They see the spine of Fund‑III architecture holding firm.

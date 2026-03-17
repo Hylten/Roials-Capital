@@ -5,7 +5,8 @@ date: "2026-01-07"
 author: "Jonas Hyltén"
 slug: "strategic-asset-allocation-for-long-term-liquidity-the-architecture-of-durable-capital"
 keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # Strategic Asset Allocation for Long-Term Liquidity 
  
  

@@ -5,7 +5,8 @@ date: "2025-09-16"
 author: "Jonas Hyltén"
 slug: "strategic-liquidity-architecture-for-sovereign-and-ultra-high-net-worth-portfolios"
 keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # Strategic Liquidity for Sovereign Portfolios
 
 Liquidity is not a convenience at the sovereign level.

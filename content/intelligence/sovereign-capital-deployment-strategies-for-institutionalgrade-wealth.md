@@ -5,7 +5,8 @@ date: "2025-06-26"
 author: "Jonas Hyltén"
 slug: "sovereign-capital-deployment-strategies-for-institutionalgrade-wealth"
 keywords: "private credit, asset based Institutional Liquidity Paths, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # Sovereign Capital Deployment Strategies
 
 Sovereign capital behaves differently from conventional wealth.

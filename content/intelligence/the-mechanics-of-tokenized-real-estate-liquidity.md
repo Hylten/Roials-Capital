@@ -5,7 +5,8 @@ date: "2026-03-11"
 author: "Jonas Hyltén"
 slug: "the-mechanics-of-tokenized-real-estate-liquidity"
 keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # The Mechanics of Tokenized Real Estate Liquidity
 
 Tokenized real estate is often discussed through the lens of accessibility and fractional ownership, yet these framings miss the institutional core.

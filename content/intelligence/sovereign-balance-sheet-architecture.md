@@ -5,8 +5,7 @@ date: "2026-03-09"
 author: "Jonas Roials"
 slug: "sovereign-balance-sheet-architecture"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
----
-[START INSTITUTIONAL BRIEFING]
+--- 
 
 A sovereign balance sheet is not a document. It is a jurisdictional organism. A living ledger. A conditioned arena where capital behaves according to rules written long before an asset is acquired or a fund is raised. Institutions that endure do not merely deploy capital; they sculpt the regulatory, fiscal, operational, and narrative frameworks that shape the capital itself. Architecture first. Capital second. Liquidity always.
 

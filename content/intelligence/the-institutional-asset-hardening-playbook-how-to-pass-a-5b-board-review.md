@@ -5,7 +5,8 @@ date: "2025-12-17"
 author: "Jonas Hyltén"
 slug: "the-institutional-asset-hardening-playbook-how-to-pass-a-5b-board-review"
 keywords: "Asset Hardening, Fund-III, Institutional Capital, Principal-led Execution, LP Alignment, GP Strategy"
----
+--- 
+
 # The Institutional Asset Hardening Playbook: How to Pass a $5B Board Review
 
 ## High-Barrier CTA:

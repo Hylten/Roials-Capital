@@ -5,7 +5,8 @@ date: "2025-10-21"
 author: "Jonas Hyltén"
 slug: "decentralized-private-credit-the-institutional-frontier-for-controlled-liquidity"
 keywords: "private credit, asset based Monetization Architecture, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # Decentralized Private Credit: The Institutional Frontier
 
 Decentralized private credit is no longer the periphery domain of experimental capital.

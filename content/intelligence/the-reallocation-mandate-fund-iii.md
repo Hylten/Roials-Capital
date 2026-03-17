@@ -5,8 +5,7 @@ date: "2025-07-31"
 author: "ROIALS CAPITAL"
 slug: "the-reallocation-mandate-Fund-III"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
----
-[START INSTITUTIONAL BRIEFING]
+--- 
 
 The Reallocation Mandate activates when structural pressures exceed historical comfort bands and when institutional capital requires repositioning toward asymmetric durability. Cycles tighten. Yield compresses. Demand spikes for engineered throughput. Movement is mandatory. Stillness is decay. The principal view is simple: reallocate or be reallocated.
 

@@ -5,7 +5,8 @@ date: "2025-10-12"
 author: "Jonas Hyltén"
 slug: "the-power-of-institutional-backing-in-private-credit"
 keywords: "private credit, asset based Institutional Liquidity Paths, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # The Power of Institutional Backing in Private Credit
 
 Institutional capital sits at the center of modern private credit.

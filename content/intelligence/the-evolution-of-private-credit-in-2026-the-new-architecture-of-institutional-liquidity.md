@@ -5,7 +5,8 @@ date: "2025-06-25"
 author: "Jonas Hyltén"
 slug: "the-evolution-of-private-credit-in-2026-the-new-architecture-of-institutional-liquidity"
 keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # The Evolution of Private Credit in 2026
 
 Private credit in 2026 is no longer a peripheral asset class. It has become a central liquidity engine for investors who operate in the upper layers of global wealth.

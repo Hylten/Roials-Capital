@@ -5,7 +5,8 @@ date: "2025-08-15"
 author: "Jonas Hyltén"
 slug: "the-strategic-tax-advantage-of-liquidity-engineering-against-crypto-portfolios"
 keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # The Tax Advantage of Capital Structuring Against Crypto Portfolios 
  
  

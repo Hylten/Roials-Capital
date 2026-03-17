@@ -5,14 +5,11 @@ date: "2025-08-13"
 author: "ROIALS CAPITAL"
 slug: "institutional-liquidity-engineering-standards-ROIALS CAPITAL"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"
----
-[START INSTITUTIONAL BRIEFING]
+--- 
 
 Institutional architecture begins with the presumption of asymmetry. Capital moves asymmetrically. Ownership moves asymmetrically. Liquidity, however, must be engineered. Not found. Not discovered. Built. Purposefully. Quietly. Precisely.
 
-ROIALS CAPITAL designs that precision. Fund‑III scale. Buyout logic. Add‑on velocity. Principal‑led. GP‑aligned. The framework below defines the institutional standards that govern every Asset-Backed Frameworks agreement we authorize, underwrite, or escalate. This is not a template. It is a jurisdictional blueprint for allocators who operate above retail noise and below sovereign glare. Proverbs 13:22.
-
-The architecture is divided into four operational pillars. 
+ROIALS CAPITAL designs that precision. Fund‑III scale. Buyout logic. Add‑on velocity. Principal‑led. GP‑aligned. The framework below defines the institutional standards that govern every Asset-Backed Frameworks agreement we authorize, underwrite, or escalate. This is not a template. It is a jurisdictional blueprint for allocators who operate above retail noise and below sovereign glare. Proverbs 13:22. The architecture is divided into four operational pillars. 
 - Capital Formation (80%) 
 - Institutional Liquidity Paths (10%) 
 - Special Mandates (10%) 

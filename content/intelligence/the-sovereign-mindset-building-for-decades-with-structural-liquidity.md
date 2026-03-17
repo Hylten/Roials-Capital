@@ -5,7 +5,8 @@ date: "2025-11-04"
 author: "Jonas Hyltén"
 slug: "the-sovereign-mindset-building-for-decades-with-structural-liquidity"
 keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # The Sovereign Mindset: Building for Decades
 
 The modern wealth landscape rewards agility, yet true longevity demands more than agility alone.

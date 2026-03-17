@@ -5,8 +5,7 @@ date: "2025-09-30"
 author: "ROIALS CAPITAL"
 slug: "new-liquidity-standard-uhnw-private-credit"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
----
-[START INSTITUTIONAL BRIEFING]
+--- 
 
 UHNW portfolios fail at one point: liquidity asymmetry. Not solvency. Not asset quality. Liquidity. Slow liquidity. Mispriced liquidity. Liquidity trapped inside structures that were never architected for cross‑cycle shocks. The past decade rewarded inertia. The next decade won’t. Institutional private credit now replaces traditional liquidity reserves. Not as a hedge. As armor. Structural armor. Strategic armor. Cycle‑proof armor.
 

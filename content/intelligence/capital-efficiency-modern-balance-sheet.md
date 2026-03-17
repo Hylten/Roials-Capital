@@ -5,10 +5,13 @@ date: "2025-10-17"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "capital-efficiency-modern-balance-sheet"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Monetization Architecture, asset hardening, NAEO"
----
-[START INSTITUTIONAL BRIEFING]
+--- 
 
-The capital vacuum in North America’s energy sector is a consequence of regulatory drift, not resource depletion. This structural gap has created a parallel reality. Surface narratives still revolve around decarbonization cycles, while subsurface economics continue to reward operators with established decline curves, hard production histories, and predictable reservoir behavior. The divergence is measurable. It has become one of the most powerful sources of balance sheet optimization available to institutional allocators navigating the 2026 landscape.
+The capital vacuum in North America’s energy sector is a consequence of regulatory drift, not resource depletion.
+
+This structural gap has created a parallel reality.
+
+Surface narratives still revolve around decarbonization cycles, while subsurface economics continue to reward operators with established decline curves, hard production histories, and predictable reservoir behavior. The divergence is measurable. It has become one of the most powerful sources of balance sheet optimization available to institutional allocators navigating the 2026 landscape.
 
 PHASE 1. THE REGIME SHIFT
 

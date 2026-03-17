@@ -5,7 +5,8 @@ date: "2026-02-05"
 author: "Jonas Hyltén"
 slug: "sovereign-capital-the-silent-authority-in-modern-financing"
 keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # Sovereign Capital: The Silent Authority in Financing
 
 Sovereign capital does not compete for visibility. It does not advertise. It does not react.

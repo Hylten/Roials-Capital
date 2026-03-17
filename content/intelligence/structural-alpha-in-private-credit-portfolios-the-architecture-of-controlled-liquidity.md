@@ -5,7 +5,8 @@ date: "2025-12-10"
 author: "Jonas Hyltén"
 slug: "structural-alpha-in-private-credit-portfolios-the-architecture-of-controlled-liquidity"
 keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # Structural Alpha in Private Credit Portfolios
 
 Structural alpha is not a market phenomenon.

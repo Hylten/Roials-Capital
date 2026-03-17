@@ -5,7 +5,8 @@ date: "2026-01-13"
 author: "Jonas Hyltén"
 slug: "the-mechanics-of-multi-asset-liquidity-for-institutional-grade-portfolios"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, ROIALS CAPITAL"
----
+--- 
+
 # The Mechanics of Multi-Asset Liquidity
 
 Liquidity is not a commodity.

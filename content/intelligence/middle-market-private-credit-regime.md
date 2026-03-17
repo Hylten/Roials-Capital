@@ -5,11 +5,9 @@ date: "2026-01-15"
 author: "ROIALS CAPITAL"
 slug: "middle-market-private-credit-regime"
 keywords: "kapitalanskaffning, private credit, middle market, Asset-Backed Frameworks, Asset-Based Lending, energy credit, MiFID II acquisition"
----
-[START INSTITUTIONAL BRIEFING]
+--- 
 
 A structural gap appears when capital migrates faster than underwriting standards can adapt. The middle market sits precisely in that imbalance. Capital entered. Infrastructure did not. That is the opportunity.
-
 
  The Regime Shift
 
@@ -26,7 +24,6 @@ Order is not an option.
 Institutional LPs understand that private credit is no longer a niche carve-out. It is the new ballast of alternative portfolios. The large-cap segment is saturated. Everyone is there. The alpha is not. The middle market remains under-institutionalized, mispriced, and operationally opaque. That opacity is where disciplined firms extract permanent advantage.
 
 ROIALS CAPITAL states the position clearly: the middle market is the most asymmetric risk adjusted credit opportunity available today. We operate where complexity deters slower capital.
-
 
  Technical Mechanics
 
@@ -55,7 +52,6 @@ The NAEOC corridor of 50M to 250M is entering a multi-year capital scarcity phas
 MiFID II European Acquisitions:
 
 Regulatory fragmentation suppresses transaction speed. This is not a disadvantage. It is an entry barrier. Firms with internal compliance architecture can move faster and gain price leverage. The capacity to close where others cannot is itself a return driver.
-
 
  The Strategic Model
 

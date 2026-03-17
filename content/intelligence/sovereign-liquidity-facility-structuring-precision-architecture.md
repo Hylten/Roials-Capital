@@ -5,8 +5,7 @@ date: "2026-03-02"
 author: "ROIALS CAPITAL"
 slug: "sovereign-liquidity-facility-structuring-precision-architecture"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
----
-[START INSTITUTIONAL BRIEFING]
+--- 
 
 Sovereign liquidity facilities are no longer emergency instruments. They are engineered balance‑sheet enhancers, velocity multipliers, and institutional shields. In Fund‑III environments, they become the power core. They compress risk cycles. They harden asset stacks. They turn bilateral capital into jurisdictional leverage. Precision is mandatory. Structure decides survivability.
 
@@ -156,9 +155,7 @@ When engineered correctly, the system extends the GP’s institutional lifespan.
 
 The facility becomes the GP’s inheritance.
 
-Proverbs 13:22.
-
-The sovereign liquidity facility is the modern institutional inheritance mechanism. Not inherited from ancestors. But inherited from structure. Those who build it inherit the future.
+Proverbs 13:22. The sovereign liquidity facility is the modern institutional inheritance mechanism. Not inherited from ancestors. But inherited from structure. Those who build it inherit the future.
 
 A GP without sovereign liquidity builds deals. A GP with sovereign liquidity builds empires.
 
