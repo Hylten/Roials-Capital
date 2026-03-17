@@ -4,7 +4,7 @@ description: "Principal briefing on GP governance scaling, allocator‑grade rep
 date: "2025-11-22"
 author: "ROIALS CAPITAL"
 slug: "Fund-III-governance-architecture"
---- 
+---
 
 Governance scales only when the spine is built early.
 
@@ -12,7 +12,9 @@ Late fixes break trust.
 
 Allocators see everything.
 
-Move first. Hold ground.
+Move first.
+
+Hold ground.
 
 Principal posture only.
 
@@ -32,7 +34,7 @@ The GP defines the frame.
 
 The reporting stack conforms to it.
 
-Never invert the order.
+Never invert the order. 
 
 1. Governance Spine.
 
@@ -42,11 +44,13 @@ Voting discipline.
 
 Decision rights mapped to the cap table with surgical precision.
 
-No noise. No drift.
+No noise.
+
+No drift.
 
 Committee charters drafted as if entering a sovereign registry.
 
-Because you are.
+Because you are. 
 
 2. Reporting Regime.
 
@@ -66,7 +70,11 @@ Machine gun execution.
 
 Five-word packets.
 
-Fast. Clean. Non‑negotiable.
+Fast.
+
+Clean.
+
+Non‑negotiable. 
 
 3. Multi-Jurisdictional Interfaces.
 
@@ -128,9 +136,7 @@ Asset-Based Lending sits at the edge.
 
 Use it only when precision liquidity is strategic, not reactive.
 
-If the borrower’s secured collateral supports the structure, enforce the Qualification Gates:  
-$2M entry.  
-$5M institutional tier.
+If the borrower’s secured collateral supports the structure, enforce the Qualification Gates: $2M entry. $5M institutional tier.
 
 Nothing below.
 

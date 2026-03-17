@@ -4,12 +4,9 @@ description: "An institutional exploration of liquidity architecture through pri
 date: "2025-11-27"
 author: "Jonas Hyltén"
 slug: "legacy-hardening-the-structural-advantage"
-keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, ROIALS CAPITAL"
---- 
+---
 
-# Legacy Hardening: The Structural Advantage
-
-Legacy is not a passive artifact.
+# Legacy Hardening: The Structural Advantage Legacy is not a passive artifact.
 
 It is a structure.
 
@@ -29,13 +26,7 @@ We engineer durable access to institutional liquidity through private credit and
 
 This is legacy hardening.
 
-This is structural advantage. 
-
-## The
-
-Architecture of Multi-Generational Control
-
-Legacy is not the transfer of wealth.
+This is structural advantage. ## The Architecture of Multi-Generational Control Legacy is not the transfer of wealth.
 
 It is the transfer of control.
 
@@ -55,13 +46,7 @@ Precision.
 
 Silence.
 
-Durability. 
-
-## The
-
-Future of Institutional Liquidity Paths
-
-We are moving into an era where liquidity will define competitive advantage more than yield.
+Durability. ## The Future of Institutional Liquidity Paths We are moving into an era where liquidity will define competitive advantage more than yield.
 
 The portfolios that win will not be the portfolios that chase performance.
 
@@ -75,10 +60,6 @@ Structures must be engineered, not improvised.
 
 The future belongs to portfolios with durable leverage capacity, clean collateral structures, and institutionally aligned credit mechanics.
 
-ROIALS CAPITAL builds that future today. 
+ROIALS CAPITAL builds that future today. # Request confidential audit # ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-# Request confidential audit
-
-### TECHNICAL MANDATE
-
-Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
