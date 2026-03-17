@@ -1,7 +1,7 @@
 ---
 title: "Principal Memorandum on Institutional Pull Toward Hybrid Buyout Architectures"
 description: "Institutional LP demand is shifting toward hybrid buyout constructs that fuse direct control, secured credit tranches, and additive yield layers within Fund‑III scale mandates."
-date: "2026-03-05"
+date: "2025-12-02"
 author: "ROIALS CAPITAL"
 slug: "institutional-lp-demand-hybrid-buyout-structures"
 ---

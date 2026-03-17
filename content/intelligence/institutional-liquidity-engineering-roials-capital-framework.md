@@ -1,7 +1,7 @@
 ---
 title: "Institutional Standards for Private Liquidity Engineering Agreements: The Roials Capital Framework"
 description: "A technical analyst briefing for institutional allocators evaluating Institutional Liquidity Paths structures, capital stack optimization, and private credit alignment within the Roials Capital Framework."
-date: "2024-07-10"
+date: "2026-01-31"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-liquidity-engineering-ROIALS CAPITAL-framework"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Strategic Collateralization, asset hardening, NAEO"
@@ -52,7 +52,8 @@ The objective is not risk dilution. The objective is risk containment.
 Conventional lending uses static loan to value ratios. Institutional Asset-Backed Frameworks uses dynamic LTV curves that adjust LTV as inventory, receivables, or contracted recurring revenue cycles move through their operational phases. This avoids forced refinancing or premature capital calls.
 
 4. Cash Flow Waterfall Precision 
-A Institutional Liquidity Paths agreement requires a pre negotiated waterfall to regulate operating cash flows. The waterfall is not punitive. It is a sequencing device. 
+A Institutional Liquidity Paths agreement requires a pre negotiated waterfall to regulate operating cash flows. The waterfall is not punitive. It is a sequencing device.
+
 Common waterfall tiers include: 
 - Tier 1: Core operations 
 - Tier 2: Liquidity agreement servicing 

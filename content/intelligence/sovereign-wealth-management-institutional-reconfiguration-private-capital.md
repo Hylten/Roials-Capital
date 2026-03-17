@@ -1,7 +1,7 @@
 ---
 title: "Sovereign Wealth Management and the Institutional Reconfiguration of Private Capital"
 description: "A clinical analysis of the regime shift reshaping global private capital flows, the rise of sovereign allocators, and the operational structures enabling Fund-III+ platforms to scale through disciplined kapitalanskaffning, liquidity engineering, and cross-border mandates."
-date: "2026-03-04"
+date: "2025-08-27"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "sovereign-wealth-management-institutional-reconfiguration-private-capital"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
@@ -74,16 +74,20 @@ PHASE 5. DECISION FRAMEWORK FOR THE ALLOCATOR
 
 The institutional allocator navigating this regime shift requires a structured lens.
 
-1. Evaluate sectoral durability.  
+1. Evaluate sectoral durability.
+
 Sovereign aligned capital rewards sectors with predictable physics, stable regulatory regimes, and low sensitivity to capital market volatility. Heavy oil, industrial buyouts, and senior secured private credit meet these criteria.
 
-2. Evaluate jurisdictional clarity.  
+2. Evaluate jurisdictional clarity.
+
 Capital must be protected by enforceable legal systems, transparent royalty frameworks, and multi decade stability. Alberta energy, US private credit jurisdictions, and EU MiFID II compliant acquisition structures provide these conditions.
 
-3. Evaluate operator discipline.  
+3. Evaluate operator discipline.
+
 Operators must demonstrate technical mastery, cost discipline, and predictable cash flows. NAEO provides this structure in energy. Sector specialist sponsors provide it in buyouts. Experienced credit managers provide it in private credit.
 
-4. Evaluate alignment architecture.  
+4. Evaluate alignment architecture.
+
 Allocators require frameworks that align incentives, enforce governance, and maintain stability across cycles. This is the domain where Roials Capital functions as the strategic architect. The alignment process is 
 Professionals and institutions seeking to understand how sovereign wealth management reshapes private capital require a confidential strategy audit. The purpose is not solicitation. The purpose is clarity. Allocators benefit from a structured assessment of how their mandates intersect with sovereign archetypes, heavy oil resource opportunities, private credit structures, and cross border buyout platforms.
 

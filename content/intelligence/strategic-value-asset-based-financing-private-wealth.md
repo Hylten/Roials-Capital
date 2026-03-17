@@ -1,7 +1,7 @@
 ---
 title: "The Strategic Value of Asset Based Financing for Modern Private Wealth"
 description: "Institutional briefing on the capital regime shift driving Asset Based Financing, its role in liquidity engineering, private equity acquisition velocity, and its integration into UHNW and institutional balance sheet optimization. Includes structural analysis of North American energy and the relevance of NAEO for specialized mandates."
-date: "2026-03-04"
+date: "2026-01-06"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "strategic-value-asset-based-financing-private-wealth"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

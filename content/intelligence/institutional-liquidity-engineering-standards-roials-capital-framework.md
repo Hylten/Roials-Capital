@@ -1,7 +1,7 @@
 ---
 title: "Institutional Standards for Private Liquidity Engineering Agreements: The Roials Capital Framework"
 description: "A technical briefing on institutional-grade Monetization Architecture structures, balance sheet optimization protocols, and the Roials Capital alignment architecture for Fund-III environments, Asset-Based Lending mandates, and capital acquisition workflows across North America and Europe."
-date: "2023-07-28"
+date: "2026-02-16"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-liquidity-engineering-standards-ROIALS CAPITAL-framework"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Institutional Liquidity Paths, asset hardening, NAEO"
@@ -120,7 +120,7 @@ PHASE 5: DECISION MAKING LENS FOR ALLOCATORS
 Institutional allocators evaluating private market liquidity approaches face three central questions behind the scenes of every mandate:
 - Is the liquidity structure synchronized with operational cadence? 
 - Does the collateral architecture withstand institutional due diligence? 
-- Are the incentives structured for long term value preservation rather than short term extraction? 
+- Are the incentives structured for long term value preservation rather than short term extraction?
 
 The Roials Capital framework provides the analytical infrastructure to answer these questions. The firm functions as a strategic partner, offering introductions to institutional grade operators and private credit partners while maintaining neutrality and compliance discipline.
 

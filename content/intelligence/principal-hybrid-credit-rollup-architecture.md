@@ -1,7 +1,7 @@
 ---
 title: "The Principal Architecture of Hybrid Credit in Roll-Up Acceleration"
 description: "A vault-level briefing on Asset-Based Lending and mezzanine hybrids as liquidity engines for Fund-III buyouts, add-ons, and jurisdictional scaling mandates."
-date: "2026-03-05"
+date: "2025-12-07"
 author: "ROIALS CAPITAL"
 slug: "principal-hybrid-credit-rollup-architecture"
 ---
@@ -10,7 +10,8 @@ A roll-up only works when liquidity is faster than fragmentation. That is the go
 
 Hybrid credit makes the tempo.
 
-Internal logic first.  
+Internal logic first.
+
 Secured Credit Architecture builds the floor. Mezzanine overlays build the height. The mix determines the velocity. No abstractions. Direct mechanics.
 
 Asset-Based Lending enters only for one purpose: convert operational assets into mobilizable credit. Minimum gates remain fixed. Two million for operating lines. Five million for acquisition lines. Below that, the structure lacks torque. Above it, the structure becomes a lever.

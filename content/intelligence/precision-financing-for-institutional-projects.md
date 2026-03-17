@@ -1,7 +1,7 @@
 ---
 title: "Precision Financing for Institutional Projects"
 description: "High-trust liquidity solutions through private credit and asset based liquidity engineering for institutional-scale projects and UHNW mandates."
-date: "2025-05-24"
+date: "2025-11-03"
 author: "Jonas Hyltén"
 slug: "precision-financing-for-institutional-projects"
 keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, ROIALS CAPITAL"
@@ -31,8 +31,10 @@ We hold it.
 
 ROIALS CAPITAL builds Strategic Collateralization structures that give clients the freedom to execute.
 
-Your assets remain in position. 
-Your strategy remains intact. 
+Your assets remain in position.
+
+Your strategy remains intact.
+
 Your institutional projects gain the liquidity they require.
 
 This is capital with intention.

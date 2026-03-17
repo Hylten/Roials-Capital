@@ -1,7 +1,7 @@
 ---
 title: "Precision Mechanics of Transnational Capital Migration in the 2026 Institutional Cycle"
 description: "Analyst-grade assessment of regulatory drift, capital displacement, and cross-jurisdictional allocation patterns shaping Fund-III capital formation, North American energy matching, and liquidity engineering mandates."
-date: "2026-03-04"
+date: "2025-08-11"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "precision-mechanics-transnational-capital-migration"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
@@ -54,7 +54,8 @@ The mechanics:
 - Decline curves are slow relative to shale, producing long-dated operational certainty.  
 - Asset hardening is achieved through incremental field optimization rather than capital intensive overhauls.
 
-In the current cycle, the capital vacuum in Alberta is not due to resource depletion. It is due to global capital misalignment.  
+In the current cycle, the capital vacuum in Alberta is not due to resource depletion. It is due to global capital misalignment.
+
 This creates a structural arbitrage:  
 - High technical visibility  
 - Impaired local credit availability  

@@ -1,7 +1,7 @@
 ---
 title: "The Sovereign Future: Building Resilient Capital Across Cycles"
 description: "Institutional briefing on structural capital inefficiencies, North American energy arbitrage, Liquidity Engineering, and the strategic alignment pathways for allocators navigating Fund-III buyout regimes."
-date: "2026-03-04"
+date: "2025-08-25"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "sovereign-future-resilient-capital"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

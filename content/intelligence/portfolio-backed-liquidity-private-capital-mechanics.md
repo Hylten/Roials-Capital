@@ -1,7 +1,7 @@
 ---
 title: "The Mechanics of Portfolio Backed Liquidity for Modern Private Capital"
 description: "An institutional analysis on the structural liquidity gap in private markets, the operational mechanics of portfolio backed financing, and the strategic alignment model used by Roials Capital to navigate capital inefficiencies across North America and Europe."
-date: "2025-02-11"
+date: "2025-08-10"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "portfolio-backed-liquidity-private-capital-mechanics"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

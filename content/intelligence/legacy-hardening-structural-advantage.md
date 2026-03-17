@@ -1,7 +1,7 @@
 ---
 title: "Legacy Hardening: The Structural Advantage in the 2026 Institutional Capital Regime"
 description: "A high density institutional analysis on the legacy hardening thesis, structural capital vacuums, and the regime shift reshaping North American energy and private markets for Fund-III allocators."
-date: "2025-05-25"
+date: "2025-07-21"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "legacy-hardening-structural-advantage"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

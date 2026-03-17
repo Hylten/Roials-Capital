@@ -1,7 +1,7 @@
 ---
 title: "Strategic Capital Migration in the Age of Digital Sovereignty"
 description: "Institutional brief on jurisdictional arbitrage, digital sovereignty, and capital migration strategies for Fund-III buyouts, liquidity engineering, and special energy mandates."
-date: "2024-03-14"
+date: "2025-12-28"
 author: "ROIALS CAPITAL"
 slug: "strategic-capital-migration-digital-sovereignty"
 keywords: "kapitalanskaffning, oil and gas, private credit, Capital Structuring, asset hardening"
@@ -19,9 +19,9 @@ I build the architecture. I design the migration paths. I structure the sovereig
 
 Digital sovereignty establishes three core conditions for institutional allocators:
 
-• Data retention autonomy 
-• Jurisdictional legal primacy 
-• Infrastructure-level governance control 
+- Data retention autonomy 
+- Jurisdictional legal primacy 
+- Infrastructure-level governance control 
 
 These conditions now price deals. They shape diligence. They re-rank risk stacks. They reorder LP behavior. Institutional capital no longer seeks geographic arbitrage. It seeks sovereignty arbitrage.
 
@@ -45,11 +45,11 @@ This is where institutional LPs are already moving: toward GPs who can rewire th
 
 Fund‑III requires a sovereign‑first capital architecture. That architecture must operate on five mandatory vectors:
 
-• Regulatory arbitrage without political risk 
-• Data-rights control without vendor dependency 
-• Cross-border enforceability without treaty fragility 
-• Funding velocity without correspondent choke points 
-• Asset hardening without operational drag 
+- Regulatory arbitrage without political risk 
+- Data-rights control without vendor dependency 
+- Cross-border enforceability without treaty fragility 
+- Funding velocity without correspondent choke points 
+- Asset hardening without operational drag 
 
 Jurisdictions are diverging on all five vectors. The divergence creates mispricing. Mispricing creates opportunity. Capital migration locks the spread.
 

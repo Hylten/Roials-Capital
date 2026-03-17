@@ -1,7 +1,7 @@
 ---
 title: "The Structural Role of ABL in Modern Diversified Wealth Portfolios"
 description: "Institutional briefing on asset based lending as a stabilizing function in multi regime portfolios, with emphasis on balance sheet optimization, cross collateral mechanics, and the role of ABL as a liquidity engineering tool supporting Fund-III buyout velocity and special mandates across energy and EU MiFID II platforms."
-date: "2026-03-04"
+date: "2025-07-09"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "structural-role-of-abl-in-modern-diversified-wealth-portfolios"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

@@ -1,7 +1,7 @@
 ---
 title: "Cross-Border Asset Hardening in Volatile Regimes"
 description: "Institutional briefing on cross-border asset hardening mechanics, Fund-III capital mobilisation, cash-flow durability engineering, and sovereign risk insulation."
-date: "2025-05-13"
+date: "2025-09-20"
 author: "Jonas Hyltén"
 slug: "cross-border-asset-hardening-volatile-regimes"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"

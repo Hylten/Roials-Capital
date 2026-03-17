@@ -1,7 +1,7 @@
 ---
 title: "The Sovereign Capital Architecture: Engineering Multi Generational Liquidity Through Institutional Energy Stewardship"
 description: "Institutional briefing on the structural capital vacuum in North American energy, Alberta thermal recovery mechanics, and the architecture of multi generational liquidity formation for UHNWIs, Family Offices, and Institutional LPs navigating Fund-III+ buyout cycles."
-date: "2026-03-04"
+date: "2025-11-02"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "sovereign-capital-architecture-multi-generational-liquidity"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

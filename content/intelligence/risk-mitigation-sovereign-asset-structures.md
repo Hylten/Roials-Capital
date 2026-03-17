@@ -1,7 +1,7 @@
 ---
 title: "Risk Mitigation in Sovereign Asset Structures: Architecting Stability for Institutional Capital"
 description: "Institutional briefing on macro regime shifts, sovereign asset mechanics, and risk architecture across Fund-III buyouts, liquidity engineering, and North American energy mandates for UHNWIs and institutional allocators."
-date: "2026-03-04"
+date: "2025-12-31"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "risk-mitigation-sovereign-asset-structures"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

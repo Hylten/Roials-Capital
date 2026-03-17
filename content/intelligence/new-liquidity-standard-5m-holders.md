@@ -1,7 +1,7 @@
 ---
 title: "The New Liquidity Standard for + Holders: Institutional Velocity, Cross-Border Capital Rights, and the Fund-III Liquidity Floor"
 description: "A principal-level brief on liquidity engineering, institutional capital raising, jurisdictional structuring, and the emergent liquidity floor for + holders entering Fund-III buyout cycles and add-on sweep strategies."
-date: "2026-01-30"
+date: "2025-09-23"
 author: "Jonas Roials"
 slug: "new-liquidity-standard-5m-holders"
 keywords: "kapitalanskaffning, oil and gas, private credit, Capital Structuring, asset hardening"
@@ -45,10 +45,10 @@ Fund-III buyouts and add-ons must be fed by continuous raise paths. Raise paths 
 
 The + holder must focus on four fronts:
 
-• Liquidity autonomy 
-• Structural sovereignty 
-• Jurisdictional alignment 
-• Institutional velocity 
+- Liquidity autonomy 
+- Structural sovereignty 
+- Jurisdictional alignment 
+- Institutional velocity 
 
 Autonomy ensures decision authority. Sovereignty ensures operational control. Alignment ensures regulatory compatibility. Velocity ensures market capture.
 

@@ -1,7 +1,7 @@
 ---
 title: "Wealth Mobility Architecture and Borderless Crypto Collateral for Institutional Grade M and A"
 description: "Institutional briefing on cross-jurisdictional wealth mobility systems, crypto collateral harmonization, and balance sheet optimization frameworks calibrated for Fund-III buyout activity, asset backed liquidity engineering, and multi region acquisition mandates."
-date: "2026-03-04"
+date: "2026-01-23"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "wealth-mobility-architecture-borderless-crypto-collateral-institutional-ma"
 keywords: "kapitalanskaffning, private credit, m and a, liquidity engineering, asset hardening, crypto collateral, institutional structuring, Fund-III, NAEO"
@@ -92,13 +92,16 @@ Stewardship is therefore framed as a methodology that integrates capital moralit
 PHASE 5: DECISION MAKING LENS FOR ALLOCATORS  
 Institutions evaluating cross border acquisitions under Fund-III frameworks must integrate three questions into their internal analysis:
 
-1. Does the current capital architecture allow liquidity to move at the same speed as opportunity?  
+1. Does the current capital architecture allow liquidity to move at the same speed as opportunity?
+
 If not, mobility gaps will erode competitive position.
 
-2. Does the balance sheet structure allow for collateral depth without compromising strategic control?  
+2. Does the balance sheet structure allow for collateral depth without compromising strategic control?
+
 If not, the acquisition will carry unnecessary dilution.
 
-3. Does the institution possess a calibrated pathway for cross border collateral deployment?  
+3. Does the institution possess a calibrated pathway for cross border collateral deployment?
+
 If not, transactions will remain constrained by domestic banking rails.
 
 These questions form the baseline for a Portfolio Calibration or Confidential Strategy Audit. Such an audit clarifies liquidity structure, cross jurisdictional readiness, and capital availability sequencing for upcoming M and A windows.

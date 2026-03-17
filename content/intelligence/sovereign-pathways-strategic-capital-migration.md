@@ -1,7 +1,7 @@
 ---
 title: "Sovereign Pathways for Strategic Capital Migration"
 description: "Institutional brief on jurisdictional migration, capital hardening, and cross-border structuring for UHNW principals allocating into Fund-III buyouts, Asset-Based Lending liquidity frames, and energy-side special mandates."
-date: "2025-05-26"
+date: "2025-07-14"
 author: "ROIALS CAPITAL"
 slug: "sovereign-pathways-strategic-capital-migration"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
@@ -47,9 +47,9 @@ Capital migration provides the insulation.
 
 Three-tier architecture is the emerging standard:
 
-• Sovereign shield jurisdiction 
-• Operational allocation jurisdiction 
-• Asset-holding jurisdiction 
+- Sovereign shield jurisdiction 
+- Operational allocation jurisdiction 
+- Asset-holding jurisdiction 
 
 When correctly sequenced, these layers eliminate the drag that most UHNW principals carry without understanding the cost. When misaligned, these same layers become friction points, raising red flags to institutional partners and reducing strategic room in negotiations.
 
@@ -193,9 +193,9 @@ Proverbs 13:22: A good man leaves an inheritance to his children’s children. N
 
 This is the missing layer for UHNW principals who generate wealth but fail to institutionalize it.
 
----
 
-ROIALS CAPITAL operates at the intersection of buyout capital raising, Institutional Liquidity Paths, and sector-specific mandates. Our vantage point across LP/GP negotiations reveals the new meta-rule: principals with optimized capital migration structures receive preferential access to the best deals, best terms, and best partners.
+
+## ROIALS CAPITAL operates at the intersection of buyout capital raising, Institutional Liquidity Paths, and sector-specific mandates. Our vantage point across LP/GP negotiations reveals the new meta-rule: principals with optimized capital migration structures receive preferential access to the best deals, best terms, and best partners.
 
 They become strategic. Predictable. Respectable.
 

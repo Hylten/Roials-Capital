@@ -1,7 +1,7 @@
 ---
 title: "Asset Based Liquidity Engineering as the Structural Engine of Multi Generational Wealth"
 description: "Institutional treatise detailing Strategic Collateralization as a capital compounding regime, written for UHNWIs, LPs, and private credit allocators aligned with Fund-III buyout architecture."
-date: "2024-06-10"
+date: "2025-12-27"
 author: "Jonas Hyltén"
 slug: "asset-based-liquidity-engineering-regime"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"
@@ -49,13 +49,16 @@ Most private families attempt to manage liquidity internally. This is a category
 
 Fund-III operates with a tripartite model.
 
-1. Kapitalanskaffning for Buyouts and Add-ons. 
+1. Kapitalanskaffning for Buyouts and Add-ons.
+
 Eighty percent of our mandate focuses on securing expansion capital into operators that can hold an institutional discipline. We raise from LPs that understand velocity, not vanity. Our threshold is clear. We enter only where liquidity facilities accelerate margin expansion and acquisition cadence. When capital enters a stewarded structure, it scales without waste. When it enters an unstructured operator, it evaporates.
 
-2. Monetization Architecture for Asset-Based Lending Mandates. 
+2. Monetization Architecture for Asset-Based Lending Mandates.
+
 Ten percent of our operation focuses on constructing Asset-Based Lending facilities that behave like liquidity engines. They stabilise the operator. They lower volatility. They reprice working capital risk. They convert trapped equity into acquisition capacity. Asset-Based Lending is not a loan. It is a release valve that transforms the balance sheet into a deployable weapon.
 
-3. Special Mandates in Energy and Regulated Jurisdictions. 
+3. Special Mandates in Energy and Regulated Jurisdictions.
+
 Ten percent of the model supports large-ticket NAEOC energy structures in the fifty to two hundred fifty million range and MiFID II acquisitions within the EU. These mandates exist for one reason. Critical industries cannot rely on traditional capital pathways. Their volatility is an illusion. Their cash flow is consistent when governed by institutional constraints. Fund-III creates the constraint. The cash flow responds.
 
 The strategy is cold. We identify assets with mispriced liquidity. We apply institutional architecture. We extract time-value. We recycle surplus into controlled compounding paths. Waste is eliminated.

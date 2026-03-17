@@ -1,7 +1,7 @@
 ---
 title: "Sovereign Debt Strategies for Family Offices: Structural Liquidity Architectures for 2026"
 description: "Institutional analysis on sovereign debt positioning for UHNW family offices, focused on liquidity engineering, duration governance, and capital stack optimization within 2026 macro regimes. Designed for allocators calibrating exposures ahead of Fund-III commitments, ABL mandates, and special-situation sovereign windows."
-date: "2026-03-04"
+date: "2025-11-12"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "sovereign-debt-strategies-family-offices-2026"
 keywords: "kapitalanskaffning, private credit, sovereign debt, liquidity engineering, asset hardening, NAEO, institutional strategy"
@@ -9,7 +9,7 @@ keywords: "kapitalanskaffning, private credit, sovereign debt, liquidity enginee
 
 [START INSTITUTIONAL BRIEFING]
 
-The capital vacuum in the sovereign fixed income landscape is a function of fragmentation across monetary jurisdictions rather than any structural deterioration in sovereign credit profiles. The 2026 regime presents a paradox: nominal yields signal normalization while balance sheet stress across Western sovereigns continues to accumulate. Family offices that traditionally treated sovereign exposure as a passive ballast are now encountering a fundamentally different risk geometry.  
+The capital vacuum in the sovereign fixed income landscape is a function of fragmentation across monetary jurisdictions rather than any structural deterioration in sovereign credit profiles. The 2026 regime presents a paradox: nominal yields signal normalization while balance sheet stress across Western sovereigns continues to accumulate. Family offices that traditionally treated sovereign exposure as a passive ballast are now encountering a fundamentally different risk geometry.
 
 This briefing outlines a clinical, institutional framework for how UHNW family offices are restructuring sovereign allocations to enhance liquidity architecture, reinforce duration discipline, and create a dynamic interface between sovereign debt and private market deployment, particularly ahead of Fund-III commitments, acquisition-oriented private credit, and European MiFID II governed mandates.
 

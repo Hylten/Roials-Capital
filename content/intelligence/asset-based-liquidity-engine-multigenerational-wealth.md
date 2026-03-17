@@ -1,7 +1,7 @@
 ---
 title: "Asset‑Based Liquidity Engineering as the Structural Engine of Multi‑Generational Wealth"
 description: "Institutional brief on capital formation strategy, Asset-Based Lending-driven Strategic Collateralization, and the architecture of multi‑generational asset hardening for Fund‑III and GP/LP mandates."
-date: "2023-02-24"
+date: "2025-09-04"
 author: "ROIALS CAPITAL"
 slug: "asset-based-liquidity-engine-multigenerational-wealth"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"
@@ -39,7 +39,7 @@ Fund‑III is built to raise aggressively, but professionally. Narratives are ba
 
 Trust is architecture, not emotion.
 
-The buyout and add‑on pipeline is calibrated to sectors where asset‑based engineering enhances value. The strongest fields remain energy (NAEOC corridor, $50M–$250M per mandate), industrial services, logistics nodes, and infrastructure adjacencies. Europe provides secondary access points through MiFID II‑regulated acquisitions, giving Fund‑III an arbitrage channel between U.S. private credit yields and EU asset discount windows. Policy mismatch creates pricing opportunity. We simply capture it.
+The buyout and add‑on pipeline is calibrated to sectors where asset‑based engineering enhances value. The strongest fields remain energy (NAEOC corridor, $50M-$250M per mandate), industrial services, logistics nodes, and infrastructure adjacencies. Europe provides secondary access points through MiFID II‑regulated acquisitions, giving Fund‑III an arbitrage channel between U.S. private credit yields and EU asset discount windows. Policy mismatch creates pricing opportunity. We simply capture it.
 
 Energy sits at the center because it provides the most durable asset classes. Producing wells. Midstream corridors. Water rights. Mineral bundling. Ancillary service fleets. Hard assets that produce liquid revenue. Lenders understand them. LPs respect them. The market rewards them with liquidity premiums.
 
@@ -49,7 +49,7 @@ Asset-Based Lending becomes the structural spine of buyout economics. It provide
 
 We do not hide the machinery. We show it. Confidence comes from clarity.
 
-Strategic Collateralization extends into special mandates. The $50M–$250M NAEOC energy corridor mandates are heavily asset‑driven. Subsurface collateral and midstream infrastructure create leverage channels unavailable in consumer sectors. These assets become liquidity engines, not just operational inputs. Cashflow predictability allows debt tranching at competitive spreads, enhancing equity returns without compromising safety.
+Strategic Collateralization extends into special mandates. The $50M-$250M NAEOC energy corridor mandates are heavily asset‑driven. Subsurface collateral and midstream infrastructure create leverage channels unavailable in consumer sectors. These assets become liquidity engines, not just operational inputs. Cashflow predictability allows debt tranching at competitive spreads, enhancing equity returns without compromising safety.
 
 In the EU zone, MiFID II acquisitions offer an additional arbitrage layer. Regulatory certification and licensing rights are assets. Structured correctly, they can anchor hybrid credit facilities that bypass the usual equity requirements. This becomes critical in cross‑border acquisitions where regulatory compliance is expensive and slow. Capital Structuring compresses the time frames and stabilizes the deal.
 
@@ -73,14 +73,14 @@ The Principal view is unsentimental. If it cannot be structured, it will not end
 
 Multi‑generational wealth is engineered through:
 
-• Asset classification 
-• Duration control 
-• Cashflow synchronization 
-• Covenant hierarchy 
-• Jurisdictional arbitrage 
-• Capital velocity engineering 
-• Non‑dilutive liquidity extraction 
-• Institutional insulation 
+- Asset classification 
+- Duration control 
+- Cashflow synchronization 
+- Covenant hierarchy 
+- Jurisdictional arbitrage 
+- Capital velocity engineering 
+- Non‑dilutive liquidity extraction 
+- Institutional insulation 
 
 This is the architecture. Not theory. Not aspiration. Architecture.
 
@@ -104,7 +104,8 @@ For institutional LPs, the advantage is early access to a capital engine that be
 
 Nothing else produces this effect at scale.
 
-Confidential capital audit available on request. 
+Confidential capital audit available on request.
+
 Mandate threshold: DSCR > 1.35x.
 
 ### TECHNICAL MANDATE

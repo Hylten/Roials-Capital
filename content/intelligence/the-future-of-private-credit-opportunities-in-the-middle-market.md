@@ -1,7 +1,7 @@
 ---
 title: "The Future of Private Credit: Opportunities in the Middle Market"
 description: "An in-depth analysis of why the middle market remains the most attractive segment for private credit investors in the current macroeconomic environment."
-date: "2023-12-08"
+date: "2025-12-24"
 author: "Jonas Hyltén"
 slug: "the-future-of-private-credit-opportunities-in-the-middle-market"
 keywords: "Private Credit, Middle Market, Direct liquidity engineering, Roials Capital, Macroeconomics"

@@ -1,7 +1,7 @@
 ---
 title: "The Principal Geometry of the Middle Market Credit Gap"
 description: "A high-density institutional analysis of the structural credit deficit shaping middle‑market buyouts, add‑ons, and energy acquisitions, with emphasis on kapitalanskaffning for Fund‑III architecture, liquidity engineering, and cross‑border mandates."
-date: "2025-01-06"
+date: "2025-12-27"
 author: "ROIALS CAPITAL"
 slug: "principal-geometry-middle-market-credit-gap"
 keywords: "kapitalanskaffning, oil and gas, private credit, Institutional Liquidity Paths, asset hardening"
@@ -19,13 +19,13 @@ Proverbs 13:22: The wealth of the sinner is laid up for the just. Interpretation
 
 The geometry of this credit gap is multidimensional:
 
-• Supply asymmetry. 
-• Cost of capital volatility. 
-• Time‑to‑close risk. 
-• Lender herd clustering. 
-• Regulatory friction (MiFID II, Basel III/IV, NA Energy oversight). 
-• Underwriting conservatism. 
-• Platform enlargement outpacing capital inflows. 
+- Supply asymmetry. 
+- Cost of capital volatility. 
+- Time‑to‑close risk. 
+- Lender herd clustering. 
+- Regulatory friction (MiFID II, Basel III/IV, NA Energy oversight). 
+- Underwriting conservatism. 
+- Platform enlargement outpacing capital inflows.
 
 This creates a predictable institutional arbitrage zone. A profitability corridor. A sponsor performance delta. Fund‑III managers see it first. Because Fund‑III is the inflection. Not a debut vehicle. Not legacy baggage. The third fund reveals operating rhythm, LP fidelity, add‑on capacity, and underwriting discipline. LPs classify Fund‑III managers as either ascending institutions or dissolving anecdotes.
 
@@ -48,7 +48,7 @@ Middle-market lenders operate under four distortions:
 1. Impaired underwriting memory. 
 2. Regulatory risk aversion. 
 3. Macro misreads. 
-4. Execution fatigue. 
+4. Execution fatigue.
 
 Borrowers fight five opposing constraints:
 
@@ -56,7 +56,7 @@ Borrowers fight five opposing constraints:
 2. Rising operating costs. 
 3. Incomplete management teams. 
 4. Add‑on urgency. 
-5. Limited liquidity instruments. 
+5. Limited liquidity instruments.
 
 Sponsors navigate both worlds. Their edge is structural asymmetry. They see what lenders cannot. They see what borrowers refuse to articulate. They occupy the geometry between capital supply and operational fragility.
 
@@ -64,9 +64,9 @@ Fund‑III sponsors experience a catalytic moment. Deployment speed increases. P
 
 Kapitalanskaffning for Fund‑III is not about raising money. It is about proving the geometry holds. Institutional LPs look for three signals:
 
-• Structural discipline. 
-• Regulatory fluency. 
-• Repeatable liquidity. 
+- Structural discipline. 
+- Regulatory fluency. 
+- Repeatable liquidity.
 
 If one collapses, the fund collapses.
 
@@ -86,9 +86,9 @@ The middle-market credit gap is widening. Measurably. Persistently. Mathematical
 
 ROIALS CAPITAL operates on principal geometry. Not narrative. Not sentiment. The architecture is simple:
 
-• 80% kapitalanskaffning for Fund‑III+ buyouts and add‑ons. 
-• 10% Asset-Based Lending Institutional Liquidity Paths. 
-• 10% special mandates (NAEOC $50M-$250M, EU MiFID II). 
+- 80% kapitalanskaffning for Fund‑III+ buyouts and add‑ons. 
+- 10% Asset-Based Lending Institutional Liquidity Paths. 
+- 10% special mandates (NAEOC $50M-$250M, EU MiFID II).
 
 No drift. No dilution. No deviation.
 

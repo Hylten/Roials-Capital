@@ -1,7 +1,7 @@
 ---
 title: "Institutional Alignment in Modern Private Credit Markets"
 description: "Technical memorandum on the structural evolution of private credit markets, alignment mechanics for institutional allocators, and the role of strategic partners in navigating Fund-III capital formation, Asset-Based Lending liquidity engineering, and special mandates including North American energy acquisition corridors."
-date: "2025-02-22"
+date: "2025-09-17"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-alignment-modern-private-credit-markets"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Monetization Architecture, asset hardening, NAEO"

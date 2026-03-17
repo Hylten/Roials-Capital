@@ -1,7 +1,7 @@
 ---
 title: "Capital Raising Infrastructure Analysis for Fund-III and Institutional-Grade Expansion Mandates"
 description: "Institutional briefing on capital raising architecture, liquidity engineering, operational intelligence, and structural advantages for Fund-III strategies, Asset-Based Lending frameworks, and NAEOC-aligned energy mandates."
-date: "2023-09-14"
+date: "2025-07-01"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "capital-raising-infrastructure-analysis-Fund-III"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Institutional Liquidity Paths, asset hardening, NAEOC"

@@ -1,7 +1,7 @@
 ---
 title: "The Architecture of Sovereign Credit Mobility"
 description: "Institutional thesis on sovereign credit mobility, buyout capital formation, regulatory velocity, and cross-jurisdictional liquidity engineering for Fund-III scale allocations."
-date: "2025-07-07"
+date: "2026-02-24"
 author: "ROIALS CAPITAL"
 slug: "architecture-sovereign-credit-mobility"
 keywords: "kapitalanskaffning, private credit, sovereign credit, Capital Structuring, asset hardening, buyouts"
@@ -28,9 +28,12 @@ The old model assumed that sovereign risk premia were static. That duration curv
 
 A new hierarchy has emerged.
 
-Sovereigns with hard-asset underlay. 
-Sovereigns with energy leverage. 
-Sovereigns with regulatory velocity. 
+Sovereigns with hard-asset underlay.
+
+Sovereigns with energy leverage.
+
+Sovereigns with regulatory velocity.
+
 Sovereigns with liquidity privilege.
 
 The final category is shrinking. USD dominance covers many inefficiencies, but not the divergence in credit mobility. Europe’s MiFID II environment incentivizes precision. The US energy corridor incentivizes volume. The Gulf incentives prioritize permanence. Africa and LatAm prioritize conversion. None share the same mobility rules.
@@ -49,7 +52,7 @@ Sovereign Credit Mobility is the capacity to convert a jurisdiction’s legal, f
  Collateral is not static. Its legal identity changes each time it crosses a border or changes seniority. The migration curve measures its value degradation under multi-jurisdictional transfer conditions. Oilfield machinery in Texas displays near-zero degradation. Renewable infrastructure in the EU exhibits medium degradation. Energy concessions in frontier markets exhibit high degradation unless backed by sovereign guarantees, export credit agencies, or enforceable offtakes.
 
 3. The Cash-Flow Sovereignty Threshold 
- Cash flows tied to sovereign-controlled revenue systems must pass a sovereignty threshold test. If national policy can redirect cash flow, mobility collapses. If revenue is insulated by contract, escrow, or offshore SPVs, mobility strengthens. This is where recovery factors rise or die. 
+ Cash flows tied to sovereign-controlled revenue systems must pass a sovereignty threshold test. If national policy can redirect cash flow, mobility collapses. If revenue is insulated by contract, escrow, or offshore SPVs, mobility strengthens. This is where recovery factors rise or die.
 
 ROIALS CAPITAL builds credit systems engineered to withstand sovereignty thresholds and exploit migration curves. This defines our underwriting architecture for Fund-III buyouts, add-ons, and special mandates. Our mechanics eliminate the false dichotomy between sovereign exposure and institutional discipline.
 

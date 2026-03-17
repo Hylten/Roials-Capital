@@ -1,7 +1,7 @@
 ---
 title: "Wealth Mobility Protocols and Borderless Crypto Collateral in Institutional-Grade M&A for Fund-III Continuity"
 description: "A strategic analyst memorandum detailing cross-jurisdictional capital mobility, crypto-collateral architecture, and institutional M&A structuring for Fund-III buyouts and add-ons, with a focus on liquidity engineering and regulatory harmonization across US, EU, CH, and UAE frameworks."
-date: "2026-03-04"
+date: "2025-12-29"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "wealth-mobility-borderless-crypto-collateral-institutional-m-and-a"
 keywords: "kapitalanskaffning, private credit, liquidity engineering, asset hardening, crypto collateral, cross border M&A, Fund-III, institutional-grade structuring"
@@ -47,7 +47,8 @@ Unlike retail wallets, institutional-grade custody exists inside a regulated fra
 2. Over Collateralization Requirements  
 Institutional lenders using digital collateral require over collateralization ratios ranging from 140 percent to 300 percent depending on the asset, volatility profile, and jurisdiction. This is materially different from legacy banking collateralization. Over collateralization is not a risk premium. It is a volatility buffer that maintains lender solvency regardless of market movement.
 
-Loan-to-Value (LTV) curves are structured using dynamic pricing or fixed triggers.  
+Loan-to-Value (LTV) curves are structured using dynamic pricing or fixed triggers.
+
 Dynamic curves adjust according to volatility metrics. Fixed curves maintain uniform LTV thresholds and liquidation triggers regardless of market behavior.
 
 3. Regulatory Harmonization  

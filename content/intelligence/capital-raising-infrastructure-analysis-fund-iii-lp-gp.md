@@ -1,7 +1,7 @@
 ---
 title: "Capital Raising Infrastructure Analysis for Institutional Allocators Across Fund‑III Architectures"
 description: "Institutional-grade analysis of capital raising infrastructures, Fund-III scaling dynamics, liquidity engineering channels, and cross-regime allocation mechanics for UHNWIs, Institutional LPs, and Private Credit GPs."
-date: "2023-03-30"
+date: "2026-01-22"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "capital-raising-infrastructure-analysis-Fund-III-lp-gp"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Capital Structuring, asset hardening, NAEOC"
@@ -60,7 +60,8 @@ Most Fund-III managers experience a constraint not at the acquisition stage, but
 Strategic Collateralization is not leverage. It is a timing mechanism that increases opportunity velocity and reduces the operational drag between signing and integration.
 
 4. Cross-Border Compliance Synchronization 
-Successful capital raising infrastructures require jurisdictional alignment. The MiFID II acquisition channel in Europe, the Alberta-based NAEOC partnership channel in North America, and the Middle East private office ecosystem each operate under different rule sets. 
+Successful capital raising infrastructures require jurisdictional alignment. The MiFID II acquisition channel in Europe, the Alberta-based NAEOC partnership channel in North America, and the Middle East private office ecosystem each operate under different rule sets.
+
 A Fund-III GP must provide allocators with a compliance architecture that protects them across borders while preserving deal certainty.
 
 
@@ -73,7 +74,8 @@ As a strategic navigator and introducer, ROIALS CAPITAL does not function as a f
 This includes the calibration of GP positioning, the mapping of LP mandates, and the creation of compatibility matrices that identify structural alignment across risk appetite, jurisdiction, and operational focus.
 
 2. Capital Stack Engineering 
-The function is to provide technical intelligence on capital stack formation. This covers seniority mapping, waterfall configuration, covenant calibration, and collateral verification. 
+The function is to provide technical intelligence on capital stack formation. This covers seniority mapping, waterfall configuration, covenant calibration, and collateral verification.
+
 The GP receives clarity on optimal structure. The LP receives transparency on structural risk mitigation.
 
 3. Cross-Vertical Syndication Channels 

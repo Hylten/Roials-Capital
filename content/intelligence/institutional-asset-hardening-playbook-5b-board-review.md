@@ -1,7 +1,7 @@
 ---
 title: "The Institutional Asset Hardening Playbook: Passing a $5B Board Review"
 description: "A principal-grade framework for asset hardening, capital raising for Fund-III+, and cross-jurisdictional structuring engineered for institutional LP/GP scrutiny."
-date: "2023-05-05"
+date: "2025-11-29"
 author: "ROIALS CAPITAL"
 slug: "institutional-asset-hardening-playbook-5b-board-review"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
@@ -105,7 +105,7 @@ SPECIAL MANDATES: WHY THEY MATTER
 
 Special mandates create board leverage. They expand optionality. They increase perceived strategic depth.
 
-NAEOC mandates (50M–250M) require geopolitical sensitivity, midstream literacy, and environmental compliance alignment. They reward precision. Boards evaluate geopolitical alignment before financial alignment.
+NAEOC mandates (50M.250M) require geopolitical sensitivity, midstream literacy, and environmental compliance alignment. They reward precision. Boards evaluate geopolitical alignment before financial alignment.
 
 EU MiFID II acquisition vectors require transparency architecture. Clean reporting. Harmonized disclosures. No interpretive chaos. Boards hate interpretive chaos more than regulatory fines.
 
@@ -228,7 +228,8 @@ Boards trust principals. LPs trust systems. Fund-III demands both.
 
 FINAL DIRECTIVE
 
-This briefing stands on one metric: 
+This briefing stands on one metric:
+
 Institutional Survivability Index = 0.87 or higher.
 
 ### TECHNICAL MANDATE

@@ -1,7 +1,7 @@
 ---
 title: "The New Liquidity Standard for + Holders"
 description: "Institutional liquidity engineering for concentrated public equity positions. Private credit structuring, LTV discipline, and Fund-III capital architecture for UHNWIs and GPs."
-date: "2024-03-15"
+date: "2025-10-08"
 author: "Jonas Hyltén"
 slug: "new-liquidity-standard-institutional-liquidity-engineering"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"
@@ -20,9 +20,11 @@ PHASE 1. THE REGIME SHIFT
 The liquidity regime shifted quietly. Two forces made it irreversible:
 
 1. Structural market depth collapse.
+
 Block liquidity narrowed across the mid-cap and lower mega-cap tiers. Depth of book thinned. Corporate buybacks replaced natural buyers. Execution risk became execution certainty. Any block over 1 percent of float distorts its own price.
 
 2. Regulatory hardening.
+
 Basel III requirements hardened dealer inventories. Market makers stopped being principals and became facilitators. They do not warehouse risk. They route it back to the investor who thought he was exiting. The exit door exists. It is narrow. It is crowded.
 
 A concentrated shareholder is no longer an investor. He is a systemic exposure. The market treats him accordingly. This shift is structural. It will not reverse. The investor with over five million dollars in a single public issuer carries a liquidity burden the market is unwilling to absorb.
@@ -40,6 +42,7 @@ PHASE 2. TECHNICAL MECHANICS
 Strategic Collateralization is not collateral lending. It is asset hardening. The asset is public. The structure is private. The result is institutional. The core variables:
 
 1. LTV curves.
+
 Static LTV is a retail concept. Institutional structures require dynamic LTV bands tied to three signals:
 - 30 day realized volatility
 - Average daily volume
@@ -48,6 +51,7 @@ Static LTV is a retail concept. Institutional structures require dynamic LTV ban
 If volatility rises or volume collapses, LTV bands compress automatically. The structure protects the borrower from forced liquidations and protects the lender from capital impairment. A 40 percent LTV instrument at inception may drift to 32 percent at the next monthly reset. That is discipline.
 
 2. Cash flow waterfalls.
+
 Every liquidity structure must resolve three flows:
 - Carry cost
 - Pledge maintenance
@@ -56,6 +60,7 @@ Every liquidity structure must resolve three flows:
 The waterfall cannot be linear. It must prioritize capital redeployment for buyout or add-on strategies once covenant health is secured. The structure exists not for liquidity itself but for reallocation into higher productivity capital.
 
 3. Recovery factors.
+
 Public shares are volatile. Recovery modeling requires stress testing across six scenarios:
 - 15 percent down shock
 - 30 percent down shock
@@ -76,6 +81,7 @@ We calibrate recovery not on issuer fundamentals but on market structure behavio
 A covenant is not a constraint. It is a survival protocol.
 
 5. Integration with Fund-III.
+
 Institutional Liquidity Paths serves one purpose. Capital extraction for productive deployment. Fund-III mandates require speed, precision, and certainty. Liquidity that cannot be timed is liquidity that cannot serve buyout velocity.
 
 The market cannot offer timing. Only structure can.
@@ -85,9 +91,11 @@ PHASE 3. THE STRATEGIC MODEL
 The strategic model for the New Liquidity Standard is a dual-track architecture. Two movements. One purpose.
 
 Movement One: Extraction.
+
 Structured liquidity removes capital from the public position without signaling exit. It converts market sensitive equity into covenant-bound private liquidity. The extraction must occur without triggering price impact. Block execution is eliminated. The public position remains intact. The principal receives liquidity independent of market conditions.
 
 Movement Two: Allocation.
+
 The extracted liquidity must enter productive operations. Fund-III requires capital for:
 - Buyout entries
 - Add-ons
@@ -110,12 +118,15 @@ A concentrated position is not disciplined. It is fragile. Stewardship requires 
 The stewardship filter evaluates the use of extracted liquidity:
 
 1. Does it enter productive systems or passive storage?
+
 Cash is not stewardship. It is entropy.
 
 2. Does the redeployment strengthen real assets, operating cash flows, and durable enterprise value?
+
 If not, it is speculation.
 
 3. Does the structure align with long-term responsibility rather than short-term optics?
+
 Optics destroy capital. Substance protects it.
 
 Stewardship is not conservative. It is forceful. It does not wait for markets to become rational. It structures around irrationality. The public markets no longer reward passive holding. The steward must act before volatility acts for him.

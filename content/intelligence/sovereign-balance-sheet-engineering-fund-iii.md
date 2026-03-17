@@ -1,7 +1,7 @@
 ---
 title: "The Sovereign Balance Sheet: Engineering for Fund-III and Institutional Expansion"
 description: "Institutional briefing on sovereign balance sheet engineering, capital formation architecture, and strategic alignment for Fund-III expansion across buyouts, liquidity engineering, and North American energy mandates."
-date: "2026-03-04"
+date: "2025-07-26"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "sovereign-balance-sheet-engineering-Fund-III"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

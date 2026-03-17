@@ -1,13 +1,13 @@
 ---
 title: "The Principal Architecture of Capital Preservation"
 description: "Institutional blueprint for capital raising, buyout discipline, liquidity engineering, and multi-cycle preservation mechanics across Fund-III mandates"
-date: "2024-03-09"
+date: "2025-07-22"
 author: "Jonas Hyltén"
 slug: "principal-architecture-capital-preservation"
 keywords: "kapitalanskaffning, oil and gas, private credit, Strategic Collateralization, asset hardening"
 ---
 
-A structural gap defines the current investment regime. Most managers still behave as if capital protection is a byproduct of portfolio growth. It is not. Preservation is engineered. It is built through covenant geometry, cash-flow sequencing, and a theology of capital that forbids waste. The institutions that ignore this gap weaken. The ones that internalize it compound. 
+A structural gap defines the current investment regime. Most managers still behave as if capital protection is a byproduct of portfolio growth. It is not. Preservation is engineered. It is built through covenant geometry, cash-flow sequencing, and a theology of capital that forbids waste. The institutions that ignore this gap weaken. The ones that internalize it compound.
 
 Order is not an option.
 
@@ -70,9 +70,11 @@ Preservation is an ethical command and an institutional requirement. It creates 
 Fund-III will not compromise this standard. LPs who partner with us do not receive a portfolio. They receive a covenant of stewardship.
 
 PHASE 5. EXIT 
-The final signal of discipline is a metric, not a statement. For every platform we build inside Fund-III, the mandatory target is simple: 
-Net unlevered MOIC 1.54 within 28 months. 
-Preservation begins at underwriting. It ends in realized mathematics. 
+The final signal of discipline is a metric, not a statement. For every platform we build inside Fund-III, the mandatory target is simple:
+
+Net unlevered MOIC 1.54 within 28 months.
+
+Preservation begins at underwriting. It ends in realized mathematics.
 
 Request a confidential capital audit.
 

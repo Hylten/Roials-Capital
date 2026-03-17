@@ -1,7 +1,7 @@
 ---
 title: "Strategic Credit Architecture for High Net Worth Entrepreneurs: Institutional Structures for Capital Raising, Liquidity Engineering, and Cross Border Expansion"
 description: "A clinical institutional briefing on modern credit architecture for entrepreneurs operating within a globalized capital regime, with emphasis on Fund-III+ buyout capital formation, asset backed liquidity frameworks, and special mandates across North American energy and EU MiFID II environments."
-date: "2026-03-04"
+date: "2025-10-04"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "strategic-credit-architecture-hnwi-global"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

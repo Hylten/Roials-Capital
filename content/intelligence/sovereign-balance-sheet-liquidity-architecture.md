@@ -1,7 +1,7 @@
 ---
 title: "Designing the Sovereign Balance Sheet: The Architecture of Enduring Liquidity"
 description: "Institutional blueprint for private liquidity architecture, sovereign-grade balance sheet engineering, Fund-III capital formation, and cash-flow sovereignty mechanics."
-date: "2024-12-08"
+date: "2026-02-13"
 author: "Jonas Hyltén"
 slug: "sovereign-balance-sheet-liquidity-architecture"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
@@ -100,8 +100,10 @@ The stewardship filter is the boundary between disorder and order. Between waste
 
 A true sovereign balance sheet is not built on leverage. It is built on alignment with the original design of capital stewardship. Scripture is explicit about this order.
 
-Proverbs 13:22 - A good man leaves an inheritance to his children's children. 
-Luke 16:10 - He that is faithful in the least is faithful also in much. 
+Proverbs 13:22 - A good man leaves an inheritance to his children's children.
+
+Luke 16:10 - He that is faithful in the least is faithful also in much.
+
 Proverbs 21:5 - The plans of the diligent lead surely to abundance.
 
 The sovereign balance sheet does not chase returns. It builds institutions. It allocates capital toward assets that endure. It rejects consumption and rewards order. It punishes operational drift. It strengthens governance. It aligns with the Creator's structure for dominion without exploitation.

@@ -1,7 +1,7 @@
 ---
 title: "The Sovereign Balance Sheet: Engineering For Fund-Grade Velocity In a Fragmented Capital Regime"
 description: "Institutional memo on sovereign-style balance sheet engineering, capital formation mechanics for Fund-III+, and the structural pathways allocators are using to harden portfolios across buyouts, add-ons, ABL liquidity engineering, and North American energy acquisition mandates."
-date: "2026-03-04"
+date: "2025-08-23"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "sovereign-balance-sheet-engineering-fund-grade-capital-formation"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

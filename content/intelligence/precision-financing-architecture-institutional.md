@@ -1,7 +1,7 @@
 ---
 title: "Precision Financing Architecture for Institutional Scale Projects"
 description: "Institutional briefing on capital formation mechanics, liquidity engineering structures, and strategic partner alignment for Fund-III and subsequent buyout platforms, including optionality in North American energy and European acquisition frameworks."
-date: "2026-03-04"
+date: "2025-09-14"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "precision-financing-architecture-institutional"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
@@ -33,8 +33,10 @@ Institutional grade capital formation requires a multi vector structure that int
 
 Fund-III dynamics differ from Fund I and II in three predictable ways.
 
-A. The GP requires capital formation tools that optimize Opportunity Velocity without increasing operational risk.  
-B. Cross border LP onboarding introduces time dependencies that require compliance ready documentation, harmonized reporting, and standardized information rights.  
+A. The GP requires capital formation tools that optimize Opportunity Velocity without increasing operational risk.
+
+B. Cross border LP onboarding introduces time dependencies that require compliance ready documentation, harmonized reporting, and standardized information rights.
+
 C. Multi asset accumulation during buyout or add on cycles requires debt architectures that do not dilute acquisition speed.
 
 Institutional capital raising at this stage focuses on:

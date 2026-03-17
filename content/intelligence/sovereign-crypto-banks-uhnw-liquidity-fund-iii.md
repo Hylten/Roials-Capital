@@ -1,7 +1,7 @@
 ---
 title: "The Sovereign Crypto Bank Regime and the Liquidity Mandate of Fund-III"
 description: "Institutional analysis of sovereign-grade crypto banking, UHNWI liquidity engineering, and the structural capital shift driving Fund-III acquisition velocity."
-date: "2024-06-13"
+date: "2025-12-17"
 author: "Jonas Hyltén"
 slug: "sovereign-crypto-banks-uhnw-liquidity-Fund-III"
 keywords: "kapitalanskaffning, oil and gas, private credit, Strategic Collateralization, asset hardening"
@@ -27,7 +27,7 @@ The shift is not cosmetic. It is architectural.
 
 A sovereign crypto bank functions as a cross between an SNB-style monetary authority, a private credit desk, a global custodian, and a digital asset vault. It eliminates the fragmentation inherent in the current system. It replaces reconciliation with verification. It replaces trust with cryptographic proof. It replaces waiting with execution.
 
-For UHNW families, this is not ideology. This is survival. 
+For UHNW families, this is not ideology. This is survival.
 
 For Fund-III GPs, this is compounding.
 
@@ -99,7 +99,7 @@ Stewardship is precision. It is architecture. It is obedience.
 Sovereign crypto banks simply provide the instrument set necessary to practice biblical stewardship at institutional scale.
 
 PHASE 5: EXIT 
-The future of UHNW liquidity is not digital. It is sovereign. The governing metric is simple: liquidity deployment time measured in minutes, not days. 
+The future of UHNW liquidity is not digital. It is sovereign. The governing metric is simple: liquidity deployment time measured in minutes, not days.
 
 Request a confidential capital audit.
 

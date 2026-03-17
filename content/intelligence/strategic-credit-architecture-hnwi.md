@@ -1,7 +1,7 @@
 ---
 title: "Strategic Credit Architecture for High‑Net‑Worth Entrepreneurs"
 description: "Institutional-grade credit architecture for Fund-III capital formation, private buyouts, liquidity engineering, and energy mandates under MiFID II and NAEOC parameters."
-date: "2023-04-30"
+date: "2025-07-30"
 author: "Jonas Hyltén"
 slug: "strategic-credit-architecture-hnwi"
 keywords: "kapitalanskaffning, oil and gas, private credit, Capital Structuring, asset hardening"
@@ -91,8 +91,10 @@ The stewardship filter removes waste. Waste appears in three forms:
 - Undisciplined acquisition velocity 
 A steward avoids all three.
 
-Excess leverage is not courage. It is negligence. 
-Unstructured liquidity is not growth. It is decay. 
+Excess leverage is not courage. It is negligence.
+
+Unstructured liquidity is not growth. It is decay.
+
 Undisciplined acquisition is not momentum. It is drift.
 
 The entrepreneur who treats capital as sacred constructs antifragile structures. They do not chase valuation. They chase durability. They avoid what destroys families and institutions: ungoverned risk, cosmetic reporting, and the illusion that capital is abundant.
@@ -101,7 +103,8 @@ Stewardship requires boundaries:
 - No capital deployment without covenant clarity. 
 - No acquisitions without asset‑level testing. 
 - No liquidity extraction without forward coverage. 
-- No strategic movement without cash‑flow realism. 
+- No strategic movement without cash‑flow realism.
+
 Theology of Capital demands truth in financial architecture. It demands operational transparency. It demands long-horizon thinking. It rejects shortcuts.
 
 PHASE 5: EXIT 

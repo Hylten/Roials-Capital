@@ -1,7 +1,7 @@
 ---
 title: "Precision Financing for Institutional Projects: Structural Alignment, Liquidity Engineering, and Capital Stewardship in the 2026 Allocator Regime"
 description: "Institutional briefing on precision financing mandates across Fund-III+ capital raises, acquisition financing, Asset-Based Lending structures, and special energy mandates, with a focus on structural arbitrage, balance sheet optimization, and allocator calibration."
-date: "2026-03-04"
+date: "2025-08-12"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "precision-financing-institutional-projects"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

@@ -1,7 +1,7 @@
 ---
 title: "Structural Alpha in Private Credit Portfolios: The Architecture of Controlled Liquidity"
 description: "Institutional briefing on controlled liquidity mechanics, structural alpha in private credit, balance sheet optimization, and the capital formation architecture supporting Fund-III buyouts, ABL liquidity engineering, and specialized energy mandates."
-date: "2026-03-04"
+date: "2026-01-29"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "structural-alpha-private-credit-controlled-liquidity"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
@@ -60,7 +60,7 @@ In North American energy, controlled liquidity requires additional technical dep
 The Alberta basin operates under well characterized physics:
 - In thermal reservoirs, mobility and pressure behavior are highly consistent.  
 - Decline rates remain stable under steady steam injection cycles.  
-- Reservoir response times are measurable with multi year accuracy.  
+- Reservoir response times are measurable with multi year accuracy.
 
 These characteristics create the rare combination of long duration visibility and operational controllability. For allocators, this presents a unique form of structural alpha rooted not in commodity speculation but in basin physics. When combined with well engineered private credit structures, these assets form a stable collateral base with minimal variance.
 

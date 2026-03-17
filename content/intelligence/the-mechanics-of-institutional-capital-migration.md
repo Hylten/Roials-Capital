@@ -1,7 +1,7 @@
 ---
 title: "The Mechanics of Institutional Capital Migration"
 description: "A high‑trust analysis of how liquidity flows through private credit and asset based liquidity engineering frameworks for HNWI and UHNW portfolios."
-date: "2024-06-22"
+date: "2025-09-27"
 author: "Jonas Hyltén"
 slug: "the-mechanics-of-institutional-capital-migration"
 keywords: "private credit, asset based Institutional Liquidity Paths, liquidity, HNWI, UHNW, ROIALS CAPITAL"
@@ -9,17 +9,17 @@ keywords: "private credit, asset based Institutional Liquidity Paths, liquidity,
 
 # The Mechanics of Institutional Capital Migration
 
-Institutional capital does not move randomly. 
+Institutional capital does not move randomly.
 
-It migrates, and the migration follows identifiable structural rules. 
+It migrates, and the migration follows identifiable structural rules.
 
-These rules are not visible to the retail market, and they are not designed for public interpretation. 
+These rules are not visible to the retail market, and they are not designed for public interpretation.
 
-At ROIALS CAPITAL we operate at the layer where capital is engineered rather than advertised. 
+At ROIALS CAPITAL we operate at the layer where capital is engineered rather than advertised.
 
-This is the strata where liquidity is created, secured, reallocated, and shielded. 
+This is the strata where liquidity is created, secured, reallocated, and shielded.
 
-It is the level at which private credit and asset based Monetization Architecture act as precision tools for High Net Worth and Ultra High Net Worth individuals who need liquidity without liquidation. 
+It is the level at which private credit and asset based Monetization Architecture act as precision tools for High Net Worth and Ultra High Net Worth individuals who need liquidity without liquidation.
 
 The goal of this article is to articulate, clearly and surgically, how institutional capital migration works and how our Institutional Liquidity Paths architecture supports that movement. 
 
@@ -33,23 +33,23 @@ ROIALS CAPITAL provides:
 - Public share Institutional Liquidity Paths with a five million minimum 
 - Institutional-grade structuring for HNWI and UHNW portfolios 
 
-Our architecture supports capital migration without compromising control or exposure. 
+Our architecture supports capital migration without compromising control or exposure.
 
-Our structures are designed for privacy, precision, and long-horizon alignment. 
+Our structures are designed for privacy, precision, and long-horizon alignment.
 
-Institutional capital migrates through systems that respect its scale. 
+Institutional capital migrates through systems that respect its scale.
 
 We are one of those systems. 
 
 ## Closing Position
 
-Capital migration is not a trend. 
+Capital migration is not a trend.
 
-It is the operating logic of modern wealth. 
+It is the operating logic of modern wealth.
 
-HNWI and UHNW individuals who understand this logic do not wait for conditions to force movement. 
+HNWI and UHNW individuals who understand this logic do not wait for conditions to force movement.
 
-They build the architecture that enables movement on their terms. 
+They build the architecture that enables movement on their terms.
 
 ROIALS CAPITAL provides that architecture.
 

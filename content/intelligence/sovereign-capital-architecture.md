@@ -1,7 +1,7 @@
 ---
 title: "The Sovereign Capital Architecture"
 description: "Institutional framework for multi generational liquidity, capital raising for Fund-III, and the structural engineering of sovereign-grade cash flow systems for UHNWIs and institutional LPs."
-date: "2023-03-21"
+date: "2026-01-28"
 author: "Jonas Hyltén"
 slug: "sovereign-capital-architecture"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
@@ -40,7 +40,9 @@ LTV curves must be non speculative. Energy asset underwriting must price decline
 Cash flow waterfalls determine the sovereignty of the GP. Not the capital structure. Not the exit. The waterfall does. A GP without control of its waterfall has no sovereignty. Priority must be maintained across three levels.
 
 First. Cash must protect covenant integrity.
+
 Second. Cash must preserve asset operability.
+
 Third. Cash must scale enterprise optionality.
 
 Most institutions invert the order. They protect distributable yield before they protect operating stability. This is the beginning of collapse.

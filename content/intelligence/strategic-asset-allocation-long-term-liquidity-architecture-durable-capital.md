@@ -1,7 +1,7 @@
 ---
 title: "Strategic Asset Allocation for Long-Term Liquidity: The Architecture of Durable Capital"
 description: "Institutional analysis on the structural shifts redefining capital durability, liquidity engineering, and cross-regime allocation frameworks for private markets allocators in 2026."
-date: "2026-03-04"
+date: "2025-08-26"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "strategic-asset-allocation-long-term-liquidity-architecture-durable-capital"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

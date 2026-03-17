@@ -1,7 +1,7 @@
 ---
 title: "The Sovereign Future: Building Resilient Capital Through Structural Discipline and Institutional Navigation"
 description: "An institutional analysis of the capital regime shift reshaping global allocation mandates, with emphasis on strategic capital formation, Alberta energy hard-asset mechanics, and multi-jurisdictional balance sheet optimization for allocators navigating 2026 capital scarcity cycles."
-date: "2026-03-04"
+date: "2025-12-10"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "sovereign-future-resilient-capital-structural-discipline"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
@@ -59,7 +59,8 @@ Fund-III and successive structures emphasize disciplined kapitalanskaffning for 
 ABL frameworks are designed around real asset collateral, recurring revenue profiles, and jurisdictionally stable registries. Liquidity engineering is executed through LTV curves, matched duration structures, and contractual cash flow mapping. These facilities support operational continuity without creating excessive risk layering.
 
 3. Special Mandates in Energy and European Acquisitions  
-NAEO serves as the institutional grade partner for North American energy opportunities in the 50 million to 250 million USD range. The partnership is grounded in operational transparency, technical measurement discipline, and infrastructure embeddedness.  
+NAEO serves as the institutional grade partner for North American energy opportunities in the 50 million to 250 million USD range. The partnership is grounded in operational transparency, technical measurement discipline, and infrastructure embeddedness.
+
 For European acquisitions under MiFID II, we serve as introducers and analysts, ensuring that institutional participants navigate regulatory constraints while maintaining alignment with stewardship objectives.
 
 Roials Capital's role is to translate complex operational domains into clear institutional decision paths. The partnership model is structured around neutrality, alignment, and technical clarity rather than product distribution.

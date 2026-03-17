@@ -1,20 +1,20 @@
 ---
 title: "Principal Architecture for NAEOC-Directed Energy Capital"
 description: "Private briefing on the $50M–$250M NAEOC corridor, multi-jurisdictional mandates, and Fund-III capital formation dynamics."
-date: "2026-03-05"
+date: "2026-02-16"
 author: "ROIALS CAPITAL"
 slug: "naeoc-energy-transition-capital-architecture"
 ---
 
-Capital shifts when mandates harden. The NAEOC block has moved from advisory posturing to direct allocation signals, and the $50M–$250M segment is now the pressure valve. Mid-market operators cannot absorb the regulatory velocity alone. The institutional stack must carry them. That creates our window.
+Capital shifts when mandates harden. The NAEOC block has moved from advisory posturing to direct allocation signals, and the $50M.$250M segment is now the pressure valve. Mid-market operators cannot absorb the regulatory velocity alone. The institutional stack must carry them. That creates our window.
 
 The mandate is simple: credible energy-transition assets must demonstrate industrial reality, not environmental theater. Cashflow integrity. Measurable process efficiency. Clear path to multi-region compliance. Funds outside this discipline will be locked out of the corridor entirely. Fund-III strategies benefit because disciplined buyouts and add-ons already build from operational proof, not policy narratives.
 
 Capital flows follow certainty. NAEOC’s structure provides it. A three-tier funnel is emerging:
 
-• Tier One: North American mid-market producers with clear emissions baselines and verifiable operational data.  
-• Tier Two: European integrators seeking transatlantic volume consolidation under MiFID II visibility.  
-• Tier Three: Asset-heavy logistics operators needing direct industrial lending or secured credit architecture to avoid stranded-capex traps.
+- Tier One: North American mid-market producers with clear emissions baselines and verifiable operational data.  
+- Tier Two: European integrators seeking transatlantic volume consolidation under MiFID II visibility.  
+- Tier Three: Asset-heavy logistics operators needing direct industrial lending or secured credit architecture to avoid stranded-capex traps.
 
 The institutions want cross-border clarity. They want jurisdictional coherence. They want a manager who can align regulatory cadence with capital cadence. That requirement elevates the GP who can orchestrate multi-jurisdictional execution without losing underwriting discipline.
 

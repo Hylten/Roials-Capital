@@ -1,7 +1,7 @@
 ---
 title: "Institutional Liquidity Architecture for Real Estate Sovereigns"
 description: "A high density institutional analysis on liquidity engineering, balance sheet optimization, and capital stack recalibration for real estate sovereigns operating under 2026 macro constraints, with strategic alignment for Fund-III mandates."
-date: "2023-06-17"
+date: "2026-02-09"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-liquidity-architecture-real-estate-sovereigns"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Institutional Liquidity Paths, asset hardening, NAEO"

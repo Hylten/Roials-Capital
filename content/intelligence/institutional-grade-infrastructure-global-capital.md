@@ -1,7 +1,7 @@
 ---
 title: "Institutional Grade Infrastructure for Global Capital"
 description: "Institutional-grade architecture for Fund-III capital formation, liquidity engineering, and energy-special mandate deployment across US and EU private markets."
-date: "2023-06-18"
+date: "2025-11-20"
 author: "ROIALS CAPITAL"
 slug: "institutional-grade-infrastructure-global-capital"
 keywords: "kapitalanskaffning, oil and gas, private credit, Capital Structuring, asset hardening"

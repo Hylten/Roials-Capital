@@ -1,7 +1,7 @@
 ---
 title: "The Reallocation Mandate: Institutional Realignment for Fund-III Expansion"
 description: "A principal-level directive on capital reallocation, cross-jurisdictional structuring, and institutional capital engineering for Fund-III buyouts, liquidity mandates, and NAEOC energy acquisitions."
-date: "2025-04-23"
+date: "2025-07-31"
 author: "ROIALS CAPITAL"
 slug: "the-reallocation-mandate-Fund-III"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
@@ -25,9 +25,9 @@ Capital is migrating. Quietly. Predictably. The drift is toward technical contro
 
 Institutional allocations must now operate across three planes simultaneously:
 
-• Plane 1: Buyout concentration for stabilized compounding 
-• Plane 2: Institutional Liquidity Paths for tactical survival 
-• Plane 3: Special mandates for energy acquisition corridors and MiFID II perimeter expansion 
+- Plane 1: Buyout concentration for stabilized compounding 
+- Plane 2: Institutional Liquidity Paths for tactical survival 
+- Plane 3: Special mandates for energy acquisition corridors and MiFID II perimeter expansion 
 
 The Reallocation Mandate holds each plane in tension. No waste. No signal drift. No capital idling in unproductive chambers. Every unit must produce yield, protection, or optionality.
 
@@ -41,9 +41,9 @@ The capital stack becomes predictable. Build thick. Build directional. Build irr
 
 The Reallocation Mandate requires that every institutional dollar entering the ROIALS CAPITAL orbit undergoes three tests:
 
-• Can it accelerate Fund-III buyout momentum? 
-• Can it provide measurable liquidity relief for GP or LP participants through Asset-Based Lending engineering? 
-• Can it enable corridor entry for external special mandates, notably NAEOC energy acquisitions and MiFID II cross-border license expansions? 
+- Can it accelerate Fund-III buyout momentum? 
+- Can it provide measurable liquidity relief for GP or LP participants through Asset-Based Lending engineering? 
+- Can it enable corridor entry for external special mandates, notably NAEOC energy acquisitions and MiFID II cross-border license expansions?
 
 If not, re-route. If yes, harden. Speed matters. Precision wins.
 
@@ -67,11 +67,11 @@ The Reallocation Mandate takes a principal stance on capital vaccination: defens
 
 Kapitalanskaffning becomes the operational core. Eighty percent focus. Hard-coded. Non-negotiable. Fund-III must scale. Not linearly. Exponentially. Scaling through:
 
-• Institutional LP commitments 
-• Sovereign co-invest channels 
-• Family office anchor capital 
-• Insurance capital seeking secured yield 
-• Secondary markets seeking stabilized entry 
+- Institutional LP commitments 
+- Sovereign co-invest channels 
+- Family office anchor capital 
+- Insurance capital seeking secured yield 
+- Secondary markets seeking stabilized entry 
 
 Every channel must be opened. Every negotiation must be modeled. Every placement must be layered within cross-jurisdictional alignment.
 
@@ -125,11 +125,11 @@ Energy becomes the expansion frontier. Liquidity becomes the stabilizer. Fund-II
 
 Institutional capital requires evidence of stewardship. Evidence of execution. Evidence of resilience. The Reallocation Mandate delivers all three through:
 
-• Structurally advantaged acquisitions 
-• Collateral-first liquidity programs 
-• Multi-jurisdictional fund architecture 
-• Regulatory arbitrage corridors 
-• Interlinked buyout and add-on velocity strategies 
+- Structurally advantaged acquisitions 
+- Collateral-first liquidity programs 
+- Multi-jurisdictional fund architecture 
+- Regulatory arbitrage corridors 
+- Interlinked buyout and add-on velocity strategies 
 
 These components form the capital hardening matrix. Strength in layers. Control in sequences. Velocity in deployment.
 

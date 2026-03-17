@@ -1,7 +1,7 @@
 ---
 title: "The New Architecture of Institutional Liquidity: Private Credit’s Ascendancy and the Capital Mandate of Fund-III"
 description: "An institutional briefing on the structural evolution of private credit in 2026, focused on capital raising dynamics for Fund-III, liquidity engineering, and cross-jurisdictional acquisition finance under MiFID II and NAEOC energy mandates."
-date: "2023-01-10"
+date: "2025-12-22"
 author: "ROIALS CAPITAL"
 slug: "institutional-liquidity-architecture-2026"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"

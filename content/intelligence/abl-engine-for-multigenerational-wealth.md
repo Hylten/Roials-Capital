@@ -1,7 +1,7 @@
 ---
 title: "Asset-Based Liquidity Engineering as the Structural Engine for Multi‑Generational Capital Sovereignty"
 description: "Institutional brief on Asset-Based Lending-driven liquidity architecture, Fund-III capitalization pathways, and cross-jurisdictional acquisition protocols for LP/GP allocators."
-date: "2026-02-05"
+date: "2025-11-03"
 author: "ROIALS CAPITAL"
 slug: "abl-engine-for-multigenerational-wealth"
 keywords: "kapitalanskaffning, oil and gas, private credit, Capital Structuring, asset hardening"

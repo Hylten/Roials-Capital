@@ -1,7 +1,7 @@
 ---
 title: "The Calculus of Risk in Institutional Private Credit"
 description: "A technical briefing on the structural mechanics, capital inefficiencies, and institutional risk architecture shaping Private Credit across North America and Europe, with emphasis on Fund-III buyout financing, Liquidity Engineering, and strategic mandates in energy."
-date: "2026-03-04"
+date: "2025-07-17"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "the-calculus-of-risk-in-institutional-private-credit"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
@@ -55,7 +55,7 @@ The most durable credit structures are built on operational covenants rather tha
 - Minimum liquidity buffers.  
 - Production volume floors (in energy mandates).  
 - EBITDA conversion thresholds.  
-- Reporting cadence mandates.  
+- Reporting cadence mandates.
 
 The objective is alignment, not restriction. Covenant architecture functions as a real time monitoring instrument that enhances information symmetry between lender, sponsor, and borrower.
 
@@ -66,7 +66,7 @@ Cash flows are assessed through stress case modeling where allocators evaluate:
 - Margin compression.  
 - Production variability.  
 - Customer concentration exposure.  
-- Regulatory or permitting friction.  
+- Regulatory or permitting friction.
 
 In energy backed facilities, durability is often anchored in engineered decline curves, steam to oil ratio variance, and wellbore productivity. Heavy oil assets with extensive production history and mature recovery techniques maintain high predictability which reduces volatility in cash flow projections.
 
@@ -74,7 +74,7 @@ In energy backed facilities, durability is often anchored in engineered decline 
 Institutions evaluate forced exit scenarios through two lenses:
 
 - Organic exit through refinancing or asset sale.  
-- Protective exit through enforcement and liquidation.  
+- Protective exit through enforcement and liquidation.
 
 The efficiency of the exit pathway determines ultimate loss severity. Jurisdictions such as Alberta, Texas, Scandinavia, and certain EU member states provide predictable legal frameworks which lower structural risk and improve capital recoverability.
 

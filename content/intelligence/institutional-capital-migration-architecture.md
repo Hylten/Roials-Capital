@@ -1,7 +1,7 @@
 ---
 title: "The Mechanics of Institutional Capital Migration Across Cycles and Regimes"
 description: "A technical dissection of cross cycle capital mobility, regime dependent allocation behavior, structural frictions, and the liquidity engineering frameworks required for allocators navigating Fund‑III buyouts, Asset-Based Lending structures, and energy specific mandates in Alberta."
-date: "2025-12-12"
+date: "2026-02-11"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-capital-migration-architecture"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Asset-Backed Frameworks, asset hardening, NAEO"
@@ -58,7 +58,7 @@ Asset-Based Lending structures, receivable backed facilities, and inventory fina
 
 1. Bridge financing for add on transactions. 
 2. Liquidity extraction from under optimized balance sheets. 
-3. Protection of cash flow visibility during operational transitions. 
+3. Protection of cash flow visibility during operational transitions.
 
 Efficiency in Monetization Architecture is now a key determinant of opportunity velocity. Sponsors unable to move quickly through this framework suffer competitive disadvantage.
 

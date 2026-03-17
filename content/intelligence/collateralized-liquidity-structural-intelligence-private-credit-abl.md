@@ -1,7 +1,7 @@
 ---
 title: "The Mechanics of Collateralized Liquidity: Structural Intelligence for Private Credit and Asset-Based Lending"
 description: "Institutional briefing on collateralized liquidity architecture, LTV control systems, cash‑flow mechanics, and capital raising protocols for Fund-III buyouts and Asset-Based Lending structures."
-date: "2026-02-13"
+date: "2025-09-16"
 author: "Jonas Hyltén"
 slug: "collateralized-liquidity-structural-intelligence-private-credit-abl"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
@@ -35,9 +35,9 @@ LTV curves become predictable only when liquidity buffers are endogenous. Asset-
 
 Cash flow waterfalls must be designed with the following mechanics:
 
-• Priority to liquidity reserves that activate without committee approval. 
-• Mandatory replenishment protocols so reserve exhaustion cannot occur silently. 
-• A pre-integrated enforcement architecture where the lender can move from monitoring to control without renegotiation.
+- Priority to liquidity reserves that activate without committee approval. 
+- Mandatory replenishment protocols so reserve exhaustion cannot occur silently. 
+- A pre-integrated enforcement architecture where the lender can move from monitoring to control without renegotiation.
 
 The market still treats recoveries as an afterthought. This is an error. Recovery strength is the only honest measure of underwriting quality. A 40 percent recovery is a failure of structure, not a failure of the borrower. With engineered liquidity, recovery should stabilize at 75 to 92 percent depending on asset class. Anything lower indicates an intelligence gap.
 
@@ -45,9 +45,9 @@ Asset-Based Lending structures fail when monitoring is periodic. Monitoring must
 
 The private credit ecosystem faces three technical obstacles.
 
-• Asset opacity. Most funds cannot see asset degradation early enough to intervene. 
-• Frictional enforcement. Enforcement depends on renegotiation rather than structural authority. 
-• Liquidity asymmetry. Borrowers can slow payment cycles faster than lenders can deploy enforcement. 
+- Asset opacity. Most funds cannot see asset degradation early enough to intervene. 
+- Frictional enforcement. Enforcement depends on renegotiation rather than structural authority. 
+- Liquidity asymmetry. Borrowers can slow payment cycles faster than lenders can deploy enforcement.
 
 Collateralized liquidity resolves all three. Data eliminates opacity. Structural covenant design eliminates renegotiation dependence. Liquidity reserves eliminate asymmetry.
 
@@ -61,7 +61,7 @@ The strategic model must operate through three commitments:
 
 1. Precision deployment. Capital enters only when collateral intelligence meets defined thresholds. 
 2. Velocity control. Disbursement speed is calibrated to cash flow adaptability. 
-3. Enforcement readiness. Structural authority activates without negotiation. 
+3. Enforcement readiness. Structural authority activates without negotiation.
 
 Buyouts and add-ons require a liquidity perimeter to prevent capital dilution. The institutional error in most buyouts is that liquidity management is retrospective. It should be pre-installed as an operational doctrine. Liquidity buffers must synchronize with working capital cycles. When integration friction occurs, liquidity reserves protect the acquisition thesis from being eroded by transitional inefficiencies.
 

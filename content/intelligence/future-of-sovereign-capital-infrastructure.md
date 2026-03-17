@@ -1,7 +1,7 @@
 ---
 title: "The Future of Sovereign Capital Infrastructure: Institutional Navigation, Structural Alignment, and the Reconfiguration of Global Allocation Regimes"
 description: "Technical briefing on the emerging architecture of sovereign-scale capital deployment, the North American energy arbitrage, the rise of Fund-III capital formation, and the operational mechanics shaping institutional decision frameworks."
-date: "2025-08-14"
+date: "2026-02-05"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "future-of-sovereign-capital-infrastructure"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

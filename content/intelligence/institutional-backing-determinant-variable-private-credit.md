@@ -1,7 +1,7 @@
 ---
 title: "Institutional Backing as the Determinant Variable in Private Credit Regimes"
 description: "Institutional brief on the capital-formation physics governing private credit regimes, with emphasis on Fund-III scale buyouts, liquidity engineering, and mandate-driven acquisition finance."
-date: "2023-10-16"
+date: "2026-02-01"
 author: "ROIALS CAPITAL"
 slug: "institutional-backing-determinant-variable-private-credit"
 keywords: "kapitalanskaffning, oil and gas, private credit, Monetization Architecture, asset hardening"

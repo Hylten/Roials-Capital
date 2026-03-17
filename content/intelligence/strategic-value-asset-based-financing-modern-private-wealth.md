@@ -1,7 +1,7 @@
 ---
 title: "The Strategic Value of Asset Based Financing for Modern Private Wealth"
 description: "An institutional briefing on the role of asset based financing as a balance sheet discipline that enhances liquidity engineering, capital optionality, and structural resilience for UHNW families, private offices, and GP platforms navigating the 2026 macro regime."
-date: "2026-03-04"
+date: "2025-08-28"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "strategic-value-asset-based-financing-modern-private-wealth"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
@@ -40,11 +40,13 @@ The spread between realizable value and strategic value defines the maximum effi
 2. LTV Curve Engineering  
 Loan to Value today is dynamic rather than static. It uses a curve that adjusts based on asset maturity, cash-flow durability, and operational risk.  
 - Operating assets with predictable cash flows sit at the top end of the curve.  
-- Early-stage real assets with entitlement or engineering uncertainty sit lower.  
+- Early-stage real assets with entitlement or engineering uncertainty sit lower.
+
 Proper curve engineering creates a stable capital envelope that functions across market conditions.
 
 3. Structural Seniority and Cash Flow Waterfalls  
-Institutional ABL assumes the top position in the capital stack. Cash flow waterfalls must reflect seniority, servicing priority, and contingency buffers.  
+Institutional ABL assumes the top position in the capital stack. Cash flow waterfalls must reflect seniority, servicing priority, and contingency buffers.
+
 Cross-collateralization across asset classes is used to reduce idiosyncratic risk, increasing stability of the debt profile.
 
 4. Liquidity Engineering  
@@ -72,7 +74,8 @@ Each principal or GP platform operates within an institutional archetype. Archet
 Roials Capital manages the complexity of multi-jurisdictional capital flows.  
 - Europe requires MiFID II compliant pathways.  
 - North America requires collateral architecture that respects state and provincial frameworks.  
-- Dubai and Switzerland require jurisdictional neutrality.  
+- Dubai and Switzerland require jurisdictional neutrality.
+
 The value is in the alignment of regulatory, financial, and operational ecosystems.
 
 3. Institutional Introduction  

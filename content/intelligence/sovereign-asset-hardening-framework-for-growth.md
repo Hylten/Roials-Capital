@@ -1,7 +1,7 @@
 ---
 title: "Sovereign Asset Hardening: The Framework for Growth"
 description: "Institutional briefing on sovereign grade asset hardening, capital stack calibration, liquidity engineering, and North American energy structural arbitrage for Fund-III+. Technical architecture for UHNWIs, institutional LPs, and GP partners seeking regime shift aligned deployment."
-date: "2026-03-04"
+date: "2025-09-03"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "sovereign-asset-hardening-framework-for-growth"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

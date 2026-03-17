@@ -1,7 +1,7 @@
 ---
 title: "The Sovereign Liquidity Codex: Designing Facilities That Do Not Break Under Pressure"
 description: "Institutional-grade framework detailing sovereign liquidity facility mechanics, priority-of-claim structuring, collateral sequencing, and macro regime interactions for Fund-III capital formation."
-date: "2025-07-12"
+date: "2025-12-14"
 author: "Jonas Hyltén"
 slug: "sovereign-liquidity-facility-precision-architecture"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"

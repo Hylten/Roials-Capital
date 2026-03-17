@@ -1,7 +1,7 @@
 ---
 title: "The Mechanics of Sovereign Asset Hardening"
 description: "Institutional briefing on capital regime transition, structural inefficiencies, and the sovereign mechanics that govern asset hardening across buyouts, liquidity engineering, and North American energy operations."
-date: "2023-12-04"
+date: "2025-09-24"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "mechanics-sovereign-asset-hardening"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Institutional Liquidity Paths, asset hardening, NAEO"

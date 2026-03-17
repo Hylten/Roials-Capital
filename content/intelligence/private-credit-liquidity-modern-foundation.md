@@ -1,7 +1,7 @@
 ---
 title: "Private Credit and Liquidity: The Modern Foundation for Institutional Balance Sheet Optimization"
 description: "Institutional briefing on the structural role of private credit, the modern liquidity regime, and Roials Capital's strategic architecture for Fund-III capital formation, liquidity engineering, and North American energy mandates."
-date: "2026-03-04"
+date: "2025-08-04"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "private-credit-liquidity-modern-foundation"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

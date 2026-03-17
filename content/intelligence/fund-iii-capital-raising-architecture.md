@@ -1,7 +1,7 @@
 ---
 title: "Principal Architecture for Fund-III Kapitalanskaffning"
 description: "Institutional analysis of capital raising systems for Fund-III structures across buyout, Asset-Based Lending, and special mandate regimes. High conviction thesis for allocators seeking durable, repeatable institutional flows."
-date: "2023-01-27"
+date: "2025-08-24"
 author: "ROIALS CAPITAL"
 slug: "Fund-III-capital-raising-architecture"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"

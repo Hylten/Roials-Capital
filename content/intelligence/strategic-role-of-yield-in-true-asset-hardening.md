@@ -1,7 +1,7 @@
 ---
 title: "The Strategic Role of Yield in True Asset Hardening"
 description: "Institutional analysis on the function of stabilized yield as a primary determinant of asset hardening across buyouts, private credit, and North American energy operations."
-date: "2026-03-04"
+date: "2025-09-21"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "strategic-role-of-yield-in-true-asset-hardening"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

@@ -1,7 +1,7 @@
 ---
 title: "Strategic Asset Allocation for Long Term Liquidity: The Architecture of Durable Capital"
 description: "Institutional briefing on long horizon capital construction, liquidity engineering, balance sheet optimization, and the structural mechanics shaping allocator behavior in 2026. Focus on Fund-III buyouts, North American energy, and institutional-grade capital structures."
-date: "2026-03-04"
+date: "2025-08-17"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "strategic-asset-allocation-durable-capital-architecture"
 keywords: "kapitalanskaffning, private equity, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
@@ -77,7 +77,7 @@ Roials Capital operates as a strategic navigator within this environment. The fi
 - A strategic alignment partner for allocators preparing long horizon capital programs  
 - A screening and structuring partner for NAEO in the North American energy corridor  
 
-The operational model prioritizes neutrality, precision, and alignment. Roials Capital evaluates the institutional requirements, calibrates the liquidity design, and provides introductions only where structural fit is clear. The objective is consistency, not volume. 
+The operational model prioritizes neutrality, precision, and alignment. Roials Capital evaluates the institutional requirements, calibrates the liquidity design, and provides introductions only where structural fit is clear. The objective is consistency, not volume.
 
 For energy, the engagement model is explicit. NAEO operates the assets. Roials Capital provides institutional navigation and capital alignment support. This preserves operational independence while elevating capital discipline.
 

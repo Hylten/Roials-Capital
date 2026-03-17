@@ -1,7 +1,7 @@
 ---
 title: "Borderless Collateral and the Institutional Mobility of Wealth"
 description: "Institutional brief on cross‑jurisdictional collateral mobility, sovereign‑grade capital structuring, and Fund-III buyout acceleration under ROIALS CAPITAL mandates."
-date: "2025-09-23"
+date: "2025-11-12"
 author: "ROIALS CAPITAL"
 slug: "borderless-collateral-mobility-of-wealth"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
@@ -59,7 +59,7 @@ The next decade will divide the market into two classes. Those who can mobilize 
 
 The mandate is simple. Audit. Mobilize. Scale.
 
-To proceed, request a confidential capital audit. 
+To proceed, request a confidential capital audit.
 
 Throughput expectation: 14.7 bps structural drift tolerance.
 

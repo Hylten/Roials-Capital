@@ -1,7 +1,7 @@
 ---
 title: "The Structural Role of Asset Based Lending in Modern Diversified Wealth Portfolios"
 description: "Institutional analysis of ABL as a stability anchor, liquidity engine, and cross-cycle optimizer for UHNW and institutional allocators navigating a multipolar capital regime. Focus on Kapitalanskaffning for Fund-III+, balance sheet liquidity engineering, and energy-driven special mandates."
-date: "2026-03-04"
+date: "2025-11-24"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "structural-role-of-asset-based-lending-modern-wealth-portfolios"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

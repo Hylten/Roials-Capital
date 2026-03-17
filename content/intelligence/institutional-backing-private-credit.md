@@ -1,7 +1,7 @@
 ---
 title: "The Power of Institutional Backing in Private Credit"
 description: "A technical briefing on institutional alignment, capital stack stability, and strategic partner dynamics within the global private credit landscape, with applied relevance to Fund-III+ capital formation, liquidity engineering, and special mandate deployment."
-date: "2025-10-13"
+date: "2025-11-28"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-backing-private-credit"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Asset-Backed Frameworks, asset hardening, NAEO"
@@ -14,7 +14,7 @@ The structural gap in private credit today is not driven by a shortage of opport
 
  THE REGIME SHIFT
 
-Private credit has entered a regime where scale is no longer optional. Regulatory recalibration across the United States, Europe, and Canada has constrained bank underwriting velocity. The result is a persistent spread between capital demand and institutional supply, creating a stable corridor of opportunity for private lenders capable of absorbing complexity, structuring collateral, and operating with institutional-grade risk governance. 
+Private credit has entered a regime where scale is no longer optional. Regulatory recalibration across the United States, Europe, and Canada has constrained bank underwriting velocity. The result is a persistent spread between capital demand and institutional supply, creating a stable corridor of opportunity for private lenders capable of absorbing complexity, structuring collateral, and operating with institutional-grade risk governance.
 
 Several macro factors are consolidating this regime.
 

@@ -1,7 +1,7 @@
 ---
 title: "The Sovereign Capital Interlock"
 description: "Institutional analysis of sovereign capital infrastructure, regime realignment, cash flow mechanics, and the capital-raising doctrine for Fund-III scale partnerships."
-date: "2025-10-02"
+date: "2025-07-02"
 author: "ROIALS CAPITAL"
 slug: "sovereign-capital-infrastructure-interlock"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"

@@ -1,7 +1,7 @@
 ---
 title: "The Architecture of Hardened Capital for Fund‑III Mandates"
 description: "A principal-level institutional brief on hardened capital engineering, multi‑jurisdictional structuring, and sovereign-grade capitalization pathways for Fund‑III buyouts, add‑ons, and special mandates."
-date: "2025-03-31"
+date: "2025-08-08"
 author: "ROIALS CAPITAL"
 slug: "architecture-of-hardened-capital"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
@@ -65,13 +65,13 @@ This doctrine extends into special mandates. NAEOC. Energy corridors. Cross-bord
 
 Thus the blueprint for Fund‑III is clear:
 
-• Build the spine. 
-• Insulate the jurisdiction. 
-• Engineer conversion optionality. 
-• Harden liquidity. 
-• Harden governance. 
-• Harden acquisition pathways. 
-• Harden the institution itself. 
+- Build the spine. 
+- Insulate the jurisdiction. 
+- Engineer conversion optionality. 
+- Harden liquidity. 
+- Harden governance. 
+- Harden acquisition pathways. 
+- Harden the institution itself.
 
 Then scale. Then accelerate. Then compound. In that order. Never reversed.
 

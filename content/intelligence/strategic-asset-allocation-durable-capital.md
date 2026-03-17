@@ -1,7 +1,7 @@
 ---
 title: "Strategic Asset Allocation for Long Term Liquidity: The Architecture of Durable Capital"
 description: "Institutional analysis of liquidity engineering, capital durability, LTV structuring, and the Fund-III regime for private buyout operators seeking long term solvency and scalable AUM expansion."
-date: "2025-12-07"
+date: "2026-01-16"
 author: "Jonas Hyltén"
 slug: "strategic-asset-allocation-durable-capital"
 keywords: "kapitalanskaffning, oil and gas, private credit, Capital Structuring, asset hardening"
@@ -99,20 +99,24 @@ Durable capital is a moral structure before it is a financial one. Stewardship i
 
 A Fund-III steward operates on three convictions:
 
-1. Capital is deployed only when survival probability exceeds 94 percent. 
+1. Capital is deployed only when survival probability exceeds 94 percent.
+
 This is not conservatism. It is obedience to structural design.
 
-2. Liquidity is preserved even when return temptations appear. 
+2. Liquidity is preserved even when return temptations appear.
+
 The disciplined steward refuses the false promise of high velocity returns. Liquidity preserved today is solvency secured tomorrow.
 
-3. Waste is eliminated. 
+3. Waste is eliminated.
+
 Waste in time, waste in capital, waste in operational drag, waste in ego driven transactions. Waste is the destroyer of institutional credibility. Once lost, credibility does not return.
 
 Stewardship is not passive. Stewardship is active resistance against entropy. Capital decays without governance. Liquidity evaporates when management relaxes discipline. Long term solvency requires conviction, not negotiation.
 
 PHASE 5. EXIT
 
-Fund-III durability is validated by one metric. 
+Fund-III durability is validated by one metric.
+
 Survival Horizon Ratio: 1.0 indicates fragility. 1.6 indicates institutional strength. Your ratio determines your capital future.
 
 Request a confidential capital audit.

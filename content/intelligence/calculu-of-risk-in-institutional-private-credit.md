@@ -1,7 +1,7 @@
 ---
 title: "The Calculus Of Risk In Institutional Private Credit"
 description: "An institutional briefing on risk stratification, structural credit mechanics, and capital formation dynamics shaping Fund-III+ buyouts, liquidity engineering mandates, and North American energy special situations."
-date: "2023-09-17"
+date: "2026-02-15"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "calculu-of-risk-in-institutional-private-credit"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Capital Structuring, asset hardening, NAEOCC"
@@ -87,7 +87,7 @@ Where relevant to special mandates, the calculus of risk incorporates asset phys
 
 - SAGD: Steam Assisted Gravity Drainage produces predictable decline curves with a high degree of reservoir stability. 
 - CSS: Cyclic Steam Stimulation enhances recovery in mature wells with controlled cost footprints. 
-- Recovery Factor Mapping: Mature reservoirs with established recovery curves offer lower uncertainty than early stage exploration plays. 
+- Recovery Factor Mapping: Mature reservoirs with established recovery curves offer lower uncertainty than early stage exploration plays.
 
 These mechanics reduce geological uncertainty and align well with structured private credit instruments backed by real asset output.
 
@@ -149,7 +149,7 @@ Allocators operating in this regime require a calibration lens built around four
 1. Is the structure aligned with the true risk curve of the asset rather than the market narrative surrounding it? 
 2. Does the capital stack prioritize predictability and seniority rather than yield maximization? 
 3. Are collateral and cash flow mechanics engineered to withstand multi scenario stress conditions? 
-4. Does the deployment strategy adhere to a stewardship framework emphasizing durability and resource discipline? 
+4. Does the deployment strategy adhere to a stewardship framework emphasizing durability and resource discipline?
 
 Allocators who align with these principles position themselves to navigate the complexities of private credit with institutional precision.
 

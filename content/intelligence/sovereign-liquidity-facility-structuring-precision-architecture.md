@@ -1,7 +1,7 @@
 ---
 title: "Sovereign Liquidity Facility Structuring: The Precision Architecture Behind Institutional Liquidity"
 description: "A high-density institutional analysis on sovereign liquidity mechanics, Fund-III capital formation, buyout liquidity architecture, and cross‑jurisdictional facility engineering for private equity and private credit."
-date: "2025-04-18"
+date: "2026-03-02"
 author: "ROIALS CAPITAL"
 slug: "sovereign-liquidity-facility-structuring-precision-architecture"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
@@ -85,7 +85,7 @@ The cross-border architecture must avoid regulatory entanglements. MiFID II intr
 
 Neutralization occurs in the framing stage. If the legal perimeter is built cleanly, no regulator interferes. If built poorly, regulators fill the vacuum. They become uninvited stakeholders. That kills velocity.
 
-Energy mandates, especially NAEOC $50M–$250M, require structures that accommodate upstream volatility but enforce downstream certainty. Buyouts require mid-cycle liquidity. Add-ons require micro-cycle liquidity. A sovereign facility must supply both without modification.
+Energy mandates, especially NAEOC $50M.$250M, require structures that accommodate upstream volatility but enforce downstream certainty. Buyouts require mid-cycle liquidity. Add-ons require micro-cycle liquidity. A sovereign facility must supply both without modification.
 
 One facility. Multiple tempos. Zero redesigns.
 

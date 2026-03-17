@@ -1,7 +1,7 @@
 ---
 title: "Liquidity Engineering Against Bitcoin: Institutional Calibration for Family Offices and Fund-III Allocators"
 description: "Institutional briefing on Institutional Liquidity Paths, Bitcoin as a reserve stabilizer, and strategic capital alignment for UHNWIs, Family Offices, and Fund-III GP teams operating in a tightening global credit regime."
-date: "2024-10-22"
+date: "2025-11-24"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "liquidity-engineering-bitcoin-family-offices"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Institutional Liquidity Paths, asset hardening, NAEO"

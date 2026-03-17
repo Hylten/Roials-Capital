@@ -1,7 +1,7 @@
 ---
 title: "Wealth Mobility Architecture and Borderless Crypto Collateral for Institutional Grade M and A"
 description: "Institutional briefing on cross jurisdictional wealth mobility, digital collateral frameworks, and the integration of crypto based balance sheet structures into Fund-III buyout environments, including liquidity engineering and asset hardening protocols for allocators operating under MiFID II and North American private credit regimes."
-date: "2026-03-04"
+date: "2025-07-16"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "wealth-mobility-architecture-borderless-crypto-collateral"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

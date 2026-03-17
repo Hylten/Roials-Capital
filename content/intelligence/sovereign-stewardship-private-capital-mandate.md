@@ -1,7 +1,7 @@
 ---
 title: "Sovereign Stewardship and the New Mandate for Private Capital"
 description: "Institutional brief on Fund-III capital formation, jurisdictional positioning, and sovereign-aligned private market architecture for buyouts, add-ons, and energy-transition mandates."
-date: "2023-07-12"
+date: "2025-08-13"
 author: "ROIALS CAPITAL"
 slug: "sovereign-stewardship-private-capital-mandate"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
@@ -11,7 +11,7 @@ keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineerin
 
 Sovereign stewardship begins where legacy capital retreats. The global allocation curve is bending again. Faster this time. Sharper this time. A compression cycle across credit, energy, and regulatory geographies is redrawing the hierarchy of private capital. The institutions that adapt now anchor the next decade of return asymmetry. Those that hesitate outsource their destiny to others.
 
-The private markets landscape no longer resembles the 2015–2020 rhythm. Execution windows shrink. Cost of capital bifurcates. Sovereign LPs shift from passive allocators to strategic governors. A new mandate emerges: capital must compound, defend, and reposition. Simultaneously. Without drift.
+The private markets landscape no longer resembles the 2015-2020 rhythm. Execution windows shrink. Cost of capital bifurcates. Sovereign LPs shift from passive allocators to strategic governors. A new mandate emerges: capital must compound, defend, and reposition. Simultaneously. Without drift.
 
 This brief establishes the institutional logic for Fund-III. Built for buyouts. Reinforced for add-ons. Designed for sovereignty-grade accountability. Every mechanism aligns with one objective: convert structural dislocation into durable ownership.
 
@@ -71,9 +71,9 @@ Build. Secure. Expand.
 
 The capital-raising mandate-kapitalanskaffning-must anchor the ecosystem. Fund-III targets institutional LPs requiring clarity, discipline, and sovereign alignment. The capital stack is governed by three principles:
 
-• Durability over speed. 
-• Precision over mass. 
-• Stewardship over speculation.
+- Durability over speed. 
+- Precision over mass. 
+- Stewardship over speculation.
 
 Institutional LPs demand evidence. GP stewardship is the evidence. Fund-III provides institutional architecture: governance clarity, reporting density, and layered risk controls. LPs are no longer seeking exposure; they are seeking conviction.
 

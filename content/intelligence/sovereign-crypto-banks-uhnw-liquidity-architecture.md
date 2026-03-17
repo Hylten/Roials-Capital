@@ -1,7 +1,7 @@
 ---
 title: "The Rise of Sovereign Crypto Banks and the Liquidity Architecture Reshaping Global UHNW Capital"
 description: "Institutional briefing on sovereign crypto banking, liquidity engineering, and the restructuring of global UHNW balance sheets across Europe, North America, and the GCC."
-date: "2026-03-04"
+date: "2025-09-26"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "sovereign-crypto-banks-uhnw-liquidity-architecture"
 keywords: "kapitalanskaffning, private credit, liquidity engineering, asset hardening, sovereign crypto banks, UHNW, institutional liquidity, NAEO"

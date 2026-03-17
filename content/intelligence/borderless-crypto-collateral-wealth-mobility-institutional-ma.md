@@ -1,7 +1,7 @@
 ---
 title: "Borderless Collateral and the Mobility of Wealth in the Institutional M&A Regime"
 description: "Institutional briefing on crypto collateral mechanics, cross-jurisdictional mobility, private credit LTV architecture, and Fund-III capital formation for UHNWIs and LPs."
-date: "2023-03-15"
+date: "2026-01-25"
 author: "Jonas Hyltén"
 slug: "borderless-crypto-collateral-wealth-mobility-institutional-ma"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"

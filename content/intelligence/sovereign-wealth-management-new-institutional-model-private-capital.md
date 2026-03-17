@@ -1,7 +1,7 @@
 ---
 title: "Sovereign Wealth Management: The New Institutional Model for Private Capital"
 description: "A technical briefing on the structural transformation in sovereign wealth governance, global private capital flows, and the emerging allocation models shaping Fund-III mandates, liquidity engineering, and North American energy reindustrialization."
-date: "2026-03-04"
+date: "2025-07-25"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "sovereign-wealth-management-new-institutional-model-private-capital"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
@@ -50,7 +50,7 @@ In the energy vertical, technical recovery mechanics create an unusual alignment
 * SAGD recovery factors in the Athabasca and Cold Lake regions provide predictable thermal response profiles.  
 * CSS cycles offer accelerated but controlled flow regimes for specific reservoir architectures.  
 * Decline curves are known, stable, and fully mapped.  
-* Reservoir physics are highly transparent relative to global analogs.  
+* Reservoir physics are highly transparent relative to global analogs.
 
 These attributes reduce technical uncertainty. When paired with NAEO, our strategic partner specializing in North American energy operations, sovereign allocators can engage the sector through a structure that aligns with their duration and governance thresholds.
 
@@ -83,7 +83,7 @@ The Theology of Capital reinforces this. Proverbs 13:22 notes that durable capit
 * Jurisdictional redundancy.  
 * Conservative leverage profiles.  
 * Preference for assets with measurable physical properties.  
-* Emphasis on national strategic alignment.  
+* Emphasis on national strategic alignment.
 
 This stewardship principle is increasingly mirrored by private sponsors preparing for Fund-III. Sponsors that internalize this framework attract sovereign alignment. Sponsors that operate on short cycle opportunistic logic are progressively screened out of major allocation programs.
 

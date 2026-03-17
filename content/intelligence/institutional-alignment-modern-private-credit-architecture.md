@@ -1,7 +1,7 @@
 ---
 title: "Institutional Alignment in Modern Private Credit Architecture"
 description: "An institutional briefing on the regime shift in private credit, the realignment of GP-LP objectives, and the operational mechanics guiding Fund-III capital formation, liquidity engineering, and sector-specific mandates across North America and Europe."
-date: "2024-02-20"
+date: "2025-12-27"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-alignment-modern-private-credit-architecture"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Monetization Architecture, asset hardening, NAEO"

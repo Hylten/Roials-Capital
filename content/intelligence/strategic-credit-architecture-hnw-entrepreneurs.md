@@ -1,7 +1,7 @@
 ---
 title: "Strategic Credit Architecture for High‑Net‑Worth Entrepreneurs: Institutional Frameworks for Capital Efficiency and Market Navigation"
 description: "Analyst‑grade briefing on credit engineering, capital formation protocols, and energy‑aligned mandates relevant to UHNW principals, private credit allocators, and institutional LPs navigating 2026 capital inefficiencies."
-date: "2026-03-04"
+date: "2025-07-20"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "strategic-credit-architecture-hnw-entrepreneurs"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

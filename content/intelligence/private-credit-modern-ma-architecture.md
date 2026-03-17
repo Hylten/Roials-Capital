@@ -1,7 +1,7 @@
 ---
 title: "The Power of Private Credit in Modern M&A Architecture"
 description: "Institutional briefing on the structural role of private credit in contemporary M&A architecture, focusing on capital stack dynamics, liquidity engineering, and strategic alignment for UHNWIs and institutional allocators."
-date: "2026-03-04"
+date: "2025-08-14"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "private-credit-modern-ma-architecture"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

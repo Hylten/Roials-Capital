@@ -1,7 +1,7 @@
 ---
 title: "The Mechanics of Multi‑Asset Liquidity for Institutional‑Grade Portfolios"
 description: "Institutional brief on multi‑asset liquidity engineering, capital formation for Fund-III buyout mandates, and cross‑jurisdictional acquisition structuring under MiFID II, NAEOC, and private credit frameworks."
-date: "2023-03-18"
+date: "2025-08-19"
 author: "ROIALS CAPITAL | Principal Desk"
 slug: "multi-asset-liquidity-mechanics-institutional-portfolios"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"
@@ -17,9 +17,9 @@ This briefing outlines the mechanics. Not theory. Mechanics. The kind that shift
 
 Institutional portfolios demand liquidity in three dimensions:
 
-• Temporal liquidity 
-• Jurisdictional liquidity 
-• Asset‑class liquidity 
+- Temporal liquidity 
+- Jurisdictional liquidity 
+- Asset‑class liquidity 
 
 Each dimension requires engineering. Each dimension supports Fund-III capital raising. Each dimension increases probability of closing NAEOC Class‑C energy acquisitions and MiFID II European control transactions. The multi‑asset portfolio that masters all three becomes sovereign-independent of single markets, single lenders, and single exit windows.
 
@@ -67,9 +67,9 @@ European acquisitions under MiFID II require transparency, layered controls, and
 
 Fund-III capital raising thrives on liquidity narratives. Not generic narratives. Structural narratives. LPs want clarity on three points:
 
-• Liquidity creation capability 
-• Liquidity resilience under stress 
-• Liquidity optionality under expansion 
+- Liquidity creation capability 
+- Liquidity resilience under stress 
+- Liquidity optionality under expansion 
 
 Each point enhances LP trust. Each point lowers perceived deployment risk. LPs back systems. LPs back architecture. LPs back predictable execution. Kapitalanskaffning is a consequence of structural assurance.
 
@@ -101,8 +101,10 @@ Liquidity underpins every GP decision. Hiring. Deal selection. Capital rotation.
 
 Fund-III success requires liquidity that operates globally. Liquidity that ignores noise. Liquidity that obeys architecture. Liquidity that scales with confidence.
 
-A good fund deploys capital. 
-A great fund manufactures capital. 
+A good fund deploys capital.
+
+A great fund manufactures capital.
+
 A sovereign fund engineers liquidity across all assets, all cycles, all jurisdictions.
 
 The institutional world rewards the sovereign.

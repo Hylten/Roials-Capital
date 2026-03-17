@@ -1,7 +1,7 @@
 ---
 title: "Strategic Liquidity Architecture for Sovereign and Ultra High Net Worth Portfolios"
 description: "A technical institutional briefing on capital inefficiencies, liquidity engineering, and structural alignment for Fund-III environments and energy mandates across North America and Europe."
-date: "2026-03-04"
+date: "2026-03-14"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "strategic-liquidity-architecture-sovereign-uhnw-portfolios"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"

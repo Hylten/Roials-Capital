@@ -1,7 +1,7 @@
 ---
 title: "Institutional Grade Infrastructure for Asset Hardening"
 description: "High conviction framework for capital hardening mechanics, Asset-Based Lending liquidity engineering, and private market acquisition readiness for Fund-III scale structures"
-date: "2024-05-03"
+date: "2026-01-27"
 author: "ROIALS CAPITAL"
 slug: "institutional-grade-asset-hardening"
 keywords: "kapitalanskaffning, oil and gas, private credit, Strategic Collateralization, asset hardening"
@@ -13,7 +13,7 @@ Order does not appear by accident. It is engineered through constraints, enforce
 
 PHASE 1. THE REGIME SHIFT
 
-The structural gap is silent but absolute. Large allocators are overexposed to duration risk inside legacy credit vehicles while simultaneously underexposed to real-asset backed cash-flow engines with controlled impairment windows. This is not a cyclical distortion. It is a regime shift. Funds with leverage light structures, verified underwriting discipline, and deterministic cash-flow arcs now outrun funds relying on synthetic yield fabrication. 
+The structural gap is silent but absolute. Large allocators are overexposed to duration risk inside legacy credit vehicles while simultaneously underexposed to real-asset backed cash-flow engines with controlled impairment windows. This is not a cyclical distortion. It is a regime shift. Funds with leverage light structures, verified underwriting discipline, and deterministic cash-flow arcs now outrun funds relying on synthetic yield fabrication.
 
 We track the shift across three fault lines:
 
