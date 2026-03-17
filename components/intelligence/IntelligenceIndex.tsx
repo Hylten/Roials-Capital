@@ -21,7 +21,14 @@ function parseFrontmatter(raw: string) {
     i++;
   }
 
-  const content = lines.slice(i + 1).join('\n');
+  const closingLine = lines[i] || '';
+  const remainder = closingLine.trim().slice(3).trim();
+  
+  let content = lines.slice(i + 1).join('\n');
+  if (remainder) {
+    content = remainder + '\n' + content;
+  }
+  
   return { data, content };
 }
 
