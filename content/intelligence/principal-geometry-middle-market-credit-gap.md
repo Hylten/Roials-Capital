@@ -78,7 +78,8 @@ Capital committee drift.
 
 Execution windows narrow.
 
-Sponsors running repeatable playbooks sense the same constraint: the spread between available credit and deployable credit is the new battleground. **Proverbs 13:22** : The wealth of the sinner is laid up for the just.
+Sponsors running repeatable playbooks sense the same constraint: the spread between available credit and deployable credit is the new battleground. **Proverbs 13:22*
+* : The wealth of the sinner is laid up for the just.
 
 Interpretation in market form: capital flows to structure.
 
@@ -469,7 +470,8 @@ Only sponsors with hardened assets, engineered liquidity, cross‑border fluency
 
 Capital follows structure.
 
-Always. **Proverbs 13:22** reinforces it.
+Always. **Proverbs 13:22*
+* reinforces it.
 
 Structure inherits.
 
@@ -497,7 +499,8 @@ Not noise. #
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Request confidential capital audit.
 

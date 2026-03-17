@@ -185,7 +185,8 @@ Disorder in financial systems begins with disorder in priorities.
 
 Sovereigns frequently operate out of sequence: consumption before consolidation, spending before stabilization, promises before liquidity.
 
-The theology of capital reverses this. **Proverbs 13:22** sets the principle.
+The theology of capital reverses this. **Proverbs 13:22*
+* sets the principle.
 
 A righteous steward builds structures that last across generations.
 
@@ -225,12 +226,14 @@ It is a structural imperative. ##
 
 ## EXIT Fund-III benefits when sovereign liquidity becomes a quantifiable asset.
 
-The final discipline is simple: a sovereign facility must maintain a minimum 1.38 liquidity coverage ratio under stress conditions.
+The final discipline is simple: a sovereign facility must maintain a minimum 1.3
+8 liquidity coverage ratio under stress conditions.
 
 Request a confidential capital audit. # 
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

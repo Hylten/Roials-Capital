@@ -249,7 +249,8 @@ Stewardship is the disciplined prevention of waste.
 
 Capital is a form of dominion entrusted by God.
 
-It must be governed with precision, because mismanaged capital invites destruction. **Proverbs 13:22** .
+It must be governed with precision, because mismanaged capital invites destruction. **Proverbs 13:22*
+* .
 
 A good man leaves an inheritance to his children’s children.
 
@@ -303,7 +304,8 @@ Our mandate is to lower it to zero. #
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Request confidential capital audit.
 

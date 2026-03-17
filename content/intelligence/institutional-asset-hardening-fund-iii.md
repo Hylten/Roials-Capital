@@ -32,7 +32,8 @@ Systems over stories.
 
 Infrastructure over instinct.
 
-Precision over velocity. **Proverbs 13:22** .
+Precision over velocity. **Proverbs 13:22*
+* .
 
 I build from jurisdictional logic first.
 
@@ -477,7 +478,8 @@ Structure signals permanence.
 
 Permanence signals security.
 
-Security signals compounding advantage. **Proverbs 13:22** .
+Security signals compounding advantage. **Proverbs 13:22*
+* .
 
 Asset hardening is the sovereign layer.
 
@@ -491,10 +493,12 @@ Harden the system.
 
 For a confidential capital audit, provide jurisdiction, mandate size, and asset category.
 
-Technical Metric: Structural Hardness Index v4.3 (SHI). # 
+Technical Metric: Structural Hardness Index v4.
+3 (SHI). # 
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

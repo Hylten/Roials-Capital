@@ -50,7 +50,8 @@ Third is the bifurcation of private markets into capital rich flagship platforms
 
 The largest GPs have engineered internal liquidity ecosystems.
 
-The remaining 90 percent of the market must operate within a fragmented environment that lacks integrated liquidity tools.
+The remaining 9
+0 percent of the market must operate within a fragmented environment that lacks integrated liquidity tools.
 
 This divergence is now a persistent structural reality.
 
@@ -86,7 +87,9 @@ Structural separation is the protection mechanism for allocators, especially whe
 
 The third layer is the LTV curve.
 
-Portfolio backed facilities rarely exceed 35 to 55 percent LTV depending on the cash flow hardness of the underlying assets.
+Portfolio backed facilities rarely exceed 3
+5 to 5
+5 percent LTV depending on the cash flow hardness of the underlying assets.
 
 Hard assets such as heavy oil production, stabilized industrial platforms, or contracted service businesses tend to support higher LTV profiles.
 
@@ -94,7 +97,9 @@ Cash flow centric platforms require lower leverage ceilings due to the cyclicali
 
 The fourth layer is maturity architecture.
 
-Execution grade programs operate with 12 to 48 month maturities.
+Execution grade programs operate with 1
+2 to 4
+8 month maturities.
 
 Shorter maturities allow rapid recycling.
 
@@ -172,7 +177,8 @@ Roials Capital functions strictly as the introducer and strategic coordinator. #
 
 ## THE STEWARDSHIP FILTER Stewardship operates as a capital discipline.
 
-It is the principle that capital must not be wasted, misallocated, or depreciated through operational negligence. **Proverbs 13:22** establishes the generational responsibility of resource management.
+It is the principle that capital must not be wasted, misallocated, or depreciated through operational negligence. **Proverbs 13:22*
+* establishes the generational responsibility of resource management.
 
 Within private capital, stewardship manifests through three domains.
 
@@ -234,6 +240,7 @@ The audit addresses the precision mechanics necessary to maintain institutional 
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

@@ -6,7 +6,8 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-frameworks-private-debt-origination"
 --- 
 
-The structural gap defining private debt origination in 2026 is the direct result of regulatory divergence and capital flight from traditional credit markets, not a deterioration in underlying asset performance.
+The structural gap defining private debt origination in 202
+6 is the direct result of regulatory divergence and capital flight from traditional credit markets, not a deterioration in underlying asset performance.
 
 This shift has created a predictable regime where institutional allocators with disciplined underwriting frameworks can access opportunities characterized by quantifiable collateral physics, transparent decline curves in energy, and operationally anchored cash flow structures across middle market buyouts. ## ## ## ## 
 
@@ -140,7 +141,8 @@ The objective is to align the GP’s operational capabilities with LP expectatio
 
 ## THE STEWARDSHIP FILTER Stewardship is the discipline of aligning capital with productive, non wasteful deployment.
 
-It is a theological and operational principle grounded in responsibility, asset protection, and the avoidance of speculation. **Proverbs 13:22** provides the foundational ethos: capital is not accumulated for personal gain but to enable multi generational stability.
+It is a theological and operational principle grounded in responsibility, asset protection, and the avoidance of speculation. **Proverbs 13:22*
+* provides the foundational ethos: capital is not accumulated for personal gain but to enable multi generational stability.
 
 Within private debt origination, stewardship manifests as: 
 -  Refusal to inflate leverage beyond intrinsic asset capacity. 
@@ -170,6 +172,7 @@ The objective is calibration: ensuring the portfolio reflects institutional grad
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

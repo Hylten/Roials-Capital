@@ -42,7 +42,8 @@ The enforceability bridge between chain and court.
 
 That is where institutional capital flows.
 
-That is where Fund-III gains delta. **Proverbs 13:22** states: A good man leaves an inheritance to his children’s children: and the wealth of the sinner is laid up for the just.
+That is where Fund-III gains delta. **Proverbs 13:22*
+* states: A good man leaves an inheritance to his children’s children: and the wealth of the sinner is laid up for the just.
 
 In institutional terms, inherited value is engineered value.
 
@@ -462,7 +463,8 @@ Traditional LCR averages: 0.12,
 
 0. 
 
-27. Tokenized structures average: 0.34 
+27. Tokenized structures average: 0.3
+4 
 -  
 
 0. 
@@ -477,7 +479,8 @@ Fund-III targets
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Request confidential capital audit.
 

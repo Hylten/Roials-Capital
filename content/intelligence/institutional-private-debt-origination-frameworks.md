@@ -98,7 +98,9 @@ LTV Curves Loan-to-value in buyout-centric credit is no longer linear.
 
 The curve bends around operating volatility and the sponsor's working capital discipline.
 
-Traditional 50 to 60 percent LTV frameworks fail when EBITDA normalization becomes fragile.
+Traditional 5
+0 to 6
+0 percent LTV frameworks fail when EBITDA normalization becomes fragile.
 
 True institutional design evaluates LTV as an adaptive corridor that responds to the cash conversion cycle.
 
@@ -113,8 +115,10 @@ Any distortion here weakens the entire organism.
 Best practice is never to rely on sponsor-provided waterfalls.
 
 Rebuild them internally with neutral assumptions, then stress-test under friction conditions. 
--  20 percent revenue shock. 
--  180 day accounts receivable drift. 
+-  2
+0 percent revenue shock. 
+-  18
+0 day accounts receivable drift. 
 -  Input cost shock linked to energy sensitivity. 
 -  Capex catch-up risk that sponsors prefer to ignore.
 
@@ -217,7 +221,9 @@ Fourth.
 
 Special Mandates A modern private credit enterprise cannot remain monolithic. 
 -  Asset-Based Lending for Monetization Architecture solves operational bottlenecks. 
--  Energy mandates in the 50 to 250 million range require engineering literacy, not generic underwriting. 
+-  Energy mandates in the 5
+0 to 25
+0 million range require engineering literacy, not generic underwriting. 
 -  EU MiFID II acquisition pathways require compliance infrastructure, not improvisation.
 
 Special mandates are not distractions.
@@ -237,13 +243,16 @@ Leverage is responsibility.
 Capital allocation is a moral discipline before it becomes a technical one.
 
 This is the lens. 
--  **Proverbs 13:22** .
+-  **Proverbs 13:22*
+* .
 
 A good man leaves an inheritance. 
--  **Luke 16:10** .
+-  **Luke 16:10*
+* .
 
 Faithfulness in little precedes faithfulness in much. 
--  **Ecclesiastes 11:2** .
+-  **Ecclesiastes 11:2*
+* .
 
 Diversify your portion because uncertainty is guaranteed.
 
@@ -258,11 +267,13 @@ Nothing else qualifies.
 
 ## PHASE 
 
-5. EXIT Target loss ratio: below 40 basis points across the cycle. # 
+5. EXIT Target loss ratio: below 4
+0 basis points across the cycle. # 
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Request confidential capital audit.
 

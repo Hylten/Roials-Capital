@@ -14,9 +14,11 @@ This memorandum outlines the mechanics behind that shift, the technical attribut
 
 ## THE REGIME SHIFT
 
- Modern private credit exists in a post-2020 environment defined by a sequence of structural breakpoints.
+ Modern private credit exists in a post-202
+0 environment defined by a sequence of structural breakpoints.
 
-Central bank balance sheet compression, regulatory capital recalibration, and cross border lending restrictions have generated a lending architecture that is significantly more differentiated than the pre-2019 cycle.
+Central bank balance sheet compression, regulatory capital recalibration, and cross border lending restrictions have generated a lending architecture that is significantly more differentiated than the pre-201
+9 cycle.
 
 The result is a supply side contraction that disproportionately affects the small to mid market segment, where sponsor demand outpaces available senior capital by a wide margin.
 
@@ -30,7 +32,9 @@ The vacuum that emerges is filled by private lenders with the ability to absorb 
 
 For allocators, this produces a predictable capital map.
 
-First, Fund-III managers require multi cycle capital because their portfolios include both scale acquisitions and add on integrations that require leverage stability across a 36 to 54 month horizon.
+First, Fund-III managers require multi cycle capital because their portfolios include both scale acquisitions and add on integrations that require leverage stability across a 3
+6 to 5
+4 month horizon.
 
 Second, asset based lending (Asset-Based Lending) facilities become strategic tools for Strategic Collateralization rather than pure working capital instruments.
 
@@ -86,7 +90,9 @@ This stability is why institutional allocators continue to allocate to conventio
 Assets in conventional formations maintain clear relationships between porosity, permeability, steam ratios, and recovery factors.
 
 Relevant technical metrics include: 
--  SAGD recovery factors in the 35 to 65 percent range depending on reservoir thickness and steam conformance. 
+-  SAGD recovery factors in the 3
+5 to 6
+5 percent range depending on reservoir thickness and steam conformance. 
 -  CSS recovery patterns suitable for thinner or heterogeneous reservoirs. 
 -  Primary heavy oil recovery in cold flow assets with water cut moderation. 
 -  Predictable decline curves tied to reservoir pressure and fluid dynamics.
@@ -136,7 +142,8 @@ The partnership model is built on three pillars:
 
 ## THE STEWARDSHIP FILTER Stewardship is a discipline of non wasteful resource management.
 
-It is a capital philosophy aligned with **Proverbs 13:22** and the ethics of intergenerational responsibility.
+It is a capital philosophy aligned with **Proverbs 13:22*
+* and the ethics of intergenerational responsibility.
 
 In private credit environments, stewardship manifests as: 
 -  Avoidance of excessive leverage. 
@@ -168,6 +175,7 @@ These are designed to clarify structural realities, align capital flows with spo
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

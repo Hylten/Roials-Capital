@@ -77,7 +77,8 @@ Institutional capital no longer seeks geographic arbitrage.
 
 It seeks sovereignty arbitrage.
 
-Fund‑III must move where sovereignty compounds, not where incentives dilute. **Proverbs 13:22** states: A good man leaves an inheritance to his children’s children: but the wealth of the sinner is stored up for the righteous.
+Fund‑III must move where sovereignty compounds, not where incentives dilute. **Proverbs 13:22*
+* states: A good man leaves an inheritance to his children’s children: but the wealth of the sinner is stored up for the righteous.
 
 The verse encodes a principle that institutional allocators quietly obey: capital migrates to stewardship, not inefficiency.
 
@@ -432,11 +433,13 @@ Migrate.
 
 Anchor.
 
-Mandate: 4.82 cross-jurisdictional enforcement delta. # 
+Mandate: 4.8
+2 cross-jurisdictional enforcement delta. # 
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Request confidential capital audit.
 

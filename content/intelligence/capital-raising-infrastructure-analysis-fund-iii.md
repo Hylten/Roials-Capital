@@ -18,7 +18,8 @@ The allocators who understand this structural gap are reallocating from generali
 
 ## THE REGIME SHIFT
 
- The 2026 capital landscape reflects the intersection of three dominant forces.
+ The 202
+6 capital landscape reflects the intersection of three dominant forces.
 
 The first is institutional demand for transparent cash-flow provenance and post-acquisition visibility, a response to global regulatory tightening and the enforcement acceleration within both the US and EU regimes.
 
@@ -160,7 +161,8 @@ Stewardship eliminates waste in three domains.
 
 1. Capital Stewardship Funds must deploy capital with precision.
 
-Operational waste, mispriced acquisitions, and unverified synergies undermine allocator confidence. **Proverbs 13:22** defines stewardship as intergenerational responsibility, which in institutional terms means sustainable balance sheet management and calibrated deployment cycles. 
+Operational waste, mispriced acquisitions, and unverified synergies undermine allocator confidence. **Proverbs 13:22*
+* defines stewardship as intergenerational responsibility, which in institutional terms means sustainable balance sheet management and calibrated deployment cycles. 
 
 2. Resource Stewardship Particularly relevant in the Alberta energy corridor, stewardship requires environmental compliance, reservoir discipline, and transparent production governance.
 
@@ -172,7 +174,8 @@ Stewardship in this context ensures systemic trust and eliminates relational fri
 
 ## PHASE 
 
-5. DECISION-MAKING LENS FOR ALLOCATORS The allocator navigating the 2026 landscape evaluates opportunities through a lens focused on operational certainty, structural advantage, and stewardship alignment.
+5. DECISION-MAKING LENS FOR ALLOCATORS The allocator navigating the 202
+6 landscape evaluates opportunities through a lens focused on operational certainty, structural advantage, and stewardship alignment.
 
 Fund-III strategies, Asset-Based Lending Monetization Architecture, and specialized energy mandates present differentiated opportunities for capital deployment when the counterparty ecosystem is validated.
 
@@ -187,6 +190,7 @@ The next step for most allocators is a confidential calibration session to map s
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

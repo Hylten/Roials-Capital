@@ -48,7 +48,8 @@ Mobility is leverage.
 
 Leverage is jurisdictional geometry.
 
-Geometry is power. **Proverbs 13:22** : A good man leaves an inheritance to his children’s children: but the wealth of the sinner is laid up for the just.
+Geometry is power. **Proverbs 13:22*
+* : A good man leaves an inheritance to his children’s children: but the wealth of the sinner is laid up for the just.
 
 Sovereign architecture begins there. 
 
@@ -65,7 +66,8 @@ Modern LP movement vectors are:
 -  Enforcement options 
 -  Downside padding 
 -  Asset-to-liability translation speed 
--  Operational grip in first 120 days post-close We treat capital as a protocol, not an invitation.
+-  Operational grip in first 12
+0 days post-close We treat capital as a protocol, not an invitation.
 
 The institutional buyer-allocator ecosystem rewards engineered clarity.
 
@@ -87,7 +89,8 @@ In practice this reduces to four levers:
 -  Capital mobility 
 -  Regulatory arbitrage 
 -  Counterparty diversification 
--  Enforcement architecture Capital mobility is the ability to move dry powder or converted assets across borders, sectors, and vehicles in under 14 days.
+-  Enforcement architecture Capital mobility is the ability to move dry powder or converted assets across borders, sectors, and vehicles in under 1
+4 days.
 
 Regulatory arbitrage is the calibrated use of MiFID II, AIFMD, Delaware shields, Channel Islands vaults, and Gulf‑zone carve‑outs for energy acquisitions.
 
@@ -404,10 +407,12 @@ Engineered sovereignty is
 
 ## REQUEST For LP/GP alignment, cross‑jurisdictional preparation, and mandate intake, initiate a confidential capital audit.
 
-Terminal Metric: Enforcement Latency Target = <72 hours. # 
+Terminal Metric: Enforcement Latency Target = <7
+2 hours. # 
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

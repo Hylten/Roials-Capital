@@ -15,7 +15,8 @@ Balance sheets do not reveal it.
 Ledgers do not model it.
 
 Yet every decisive movement in buyout markets, structured liquidity windows, and regulated acquisition corridors stems from its presence or its absence. 
--  **Proverbs 13:22** sets the trajectory: a good principal leaves an inheritance, but only the structurally fluent know how to convert that inheritance into scalable dominion.
+-  **Proverbs 13:22*
+* sets the trajectory: a good principal leaves an inheritance, but only the structurally fluent know how to convert that inheritance into scalable dominion.
 
 Institutional dominion is simply compounding expressed through governance, risk, and reach.
 
@@ -299,7 +300,8 @@ Invariant five.
 
 Asset hardening.
 
-Hard assets plus disciplined financing equal generational resilience. **Proverbs 13:22** applies.
+Hard assets plus disciplined financing equal generational resilience. **Proverbs 13:22*
+* applies.
 
 Institutional inheritance is not cash.
 
@@ -497,6 +499,7 @@ Terminal metric: 1.6x liquidity coverage ratio. #
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

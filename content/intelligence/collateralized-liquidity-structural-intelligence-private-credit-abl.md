@@ -115,9 +115,12 @@ This is an error.
 
 Recovery strength is the only honest measure of underwriting quality.
 
-A 40 percent recovery is a failure of structure, not a failure of the borrower.
+A 4
+0 percent recovery is a failure of structure, not a failure of the borrower.
 
-With engineered liquidity, recovery should stabilize at 75 to 92 percent depending on asset class.
+With engineered liquidity, recovery should stabilize at 7
+5 to 9
+2 percent depending on asset class.
 
 Anything lower indicates an intelligence gap.
 
@@ -214,7 +217,9 @@ Asset-Based Lending stabilizes the system while integration creates order.
 
 Special Mandates expand the model.
 
-NAEOC energy mandates between 50 and 250 million require collateral-hardening protocols specific to hydrocarbons.
+NAEOC energy mandates between 5
+0 and 25
+0 million require collateral-hardening protocols specific to hydrocarbons.
 
 Reservoir quality, transportation rights, offtake agreements, and midstream dependencies shape the liquidity architecture.
 
@@ -248,7 +253,8 @@ Private credit without stewardship becomes extraction.
 
 Extraction decays.
 
-Stewardship multiplies. **Proverbs 13:22** describes the principle with precision.
+Stewardship multiplies. **Proverbs 13:22*
+* describes the principle with precision.
 
 Wealth passes across generations only when order governs resource allocation.
 
@@ -302,11 +308,14 @@ Structure protects the future from the impulses of the present.
 
 ## PHASE 
 
-5. EXIT The sole metric that matters: liquidity coverage ratio must stabilize above 1.62 within 90 days of transaction close. # 
+5. EXIT The sole metric that matters: liquidity coverage ratio must stabilize above 1.6
+2 within 9
+0 days of transaction close. # 
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Request confidential capital audit.
 

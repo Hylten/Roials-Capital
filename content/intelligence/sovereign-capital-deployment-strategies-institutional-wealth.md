@@ -12,7 +12,8 @@ This vacuum is reshaping the institutional architecture of sovereign-scale capit
 
 Allocators operating at the sovereign and ultra institutional tier are increasingly repositioning toward sectors where structural inefficiencies can be converted into durable cash-flow visibility.
 
-The most counter intuitive development of 2026 is that the lowest volatility profiles are found not in over-financialized renewables, but in conventional heavy oil reservoirs supported by thirty year decline curves, predictable thermodynamic behavior, and underleveraged balance sheets.
+The most counter intuitive development of 202
+6 is that the lowest volatility profiles are found not in over-financialized renewables, but in conventional heavy oil reservoirs supported by thirty year decline curves, predictable thermodynamic behavior, and underleveraged balance sheets.
 
 The convergence of capital scarcity, disciplined supply, and mature basin physics has created an institutional regime shift in how long duration wealth is structured.
 
@@ -20,7 +21,9 @@ Sovereign allocators are recalibrating their frameworks around operational intel
 
 Roials Capital operates within this strategic realignment as an institutional navigator, introducing allocators to operators whose asset profiles exhibit disciplined production mechanics, audited reservoir performance, and institutional-grade governance.
 
-Within this landscape, NAEO has emerged as the leading technical partner in heavy oil acquisition and optimization in Alberta, particularly for mandates ranging from 50 million to 250 million. 
+Within this landscape, NAEO has emerged as the leading technical partner in heavy oil acquisition and optimization in Alberta, particularly for mandates ranging from 5
+0 million to 25
+0 million. 
 
 ## PHASE 
 
@@ -94,7 +97,9 @@ Decline curves are cyclic but stable over long durations, and re-steaming increa
 
 Recovery factors for conventional heavy oil are significantly higher than market assumptions.
 
-NAEO’s operational intelligence shows recovery factors in the 18 percent to 30 percent range depending on reservoir characteristics.
+NAEO’s operational intelligence shows recovery factors in the 1
+8 percent to 3
+0 percent range depending on reservoir characteristics.
 
 Reservoirs with compatible porosity, permeability, and viscosity demonstrate high repeatability and low technical variance.
 
@@ -178,7 +183,9 @@ With liquidity engineering mandates, Roials Capital introduces balance sheet opt
 
 Special mandates vary by region and asset class. 
 
-1. North American Energy Optimization Capital (NAEOC) mandates between 50 million and 250 million. 
+1. North American Energy Optimization Capital (NAEOC) mandates between 5
+0 million and 25
+0 million. 
 
 2. EU MiFID II compliant acquisition pathways for institutional consolidators. 
 
@@ -203,7 +210,8 @@ Deployed without discipline, it can destabilize operators, create misaligned inc
 Stewardship is not philanthropy.
 
 It is resource governance grounded in the principle articulated in 
--  **Proverbs 13:22** which states that a good person leaves an inheritance for their children's children.
+-  **Proverbs 13:22*
+* which states that a good person leaves an inheritance for their children's children.
 
 In institutional terms, this means allocating capital into structures that preserve optionality for future generations.
 

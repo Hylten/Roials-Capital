@@ -18,7 +18,8 @@ Movement is mandatory.
 
 Stillness is decay.
 
-The principal view is simple: reallocate or be reallocated. **Proverbs 13:22** states: A good man leaves an inheritance to his children's children: but the wealth of the sinner is laid up for the just.
+The principal view is simple: reallocate or be reallocated. **Proverbs 13:22*
+* states: A good man leaves an inheritance to his children's children: but the wealth of the sinner is laid up for the just.
 
 ## THE MANDATE
 
@@ -319,7 +320,8 @@ Scale is protection.
 
 Scale eliminates fragility.
 
-Every add-on enters through the Reallocation Mandate’s filter: does it increase enterprise throughput by minimum 18 percent within twelve months?
+Every add-on enters through the Reallocation Mandate’s filter: does it increase enterprise throughput by minimum 1
+8 percent within twelve months?
 
 If not, discard.
 
@@ -590,10 +592,12 @@ Sustain dominance.
 
 Confidential capital audit required to initiate allocation bandwidth expansion.
 
-Target throughput ratio: 1.82x within 12 months. # 
+Target throughput ratio: 1.82x within 1
+2 months. # 
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

@@ -67,7 +67,9 @@ They are industrial processes with decades of operational data.
 
 A dual well configuration that uses thermal injection to mobilize bitumen.
 
-Recovery factors generally range from 40 percent to 70 percent depending on reservoir permeability and steam oil ratio optimization. 
+Recovery factors generally range from 4
+0 percent to 7
+0 percent depending on reservoir permeability and steam oil ratio optimization. 
 -  CSS.
 
 A cyclical injection method where steam is applied intermittently to stimulate production.
@@ -187,7 +189,8 @@ It is not a philosophical overlay.
 It is an operational filter that determines whether a capital deployment framework can be trusted by sophisticated allocators. 
 -  Non wasteful governance.
 
-Stewardship requires that capital be treated as a finite resource. **Proverbs 13:22** establishes the principle of intergenerational responsibility.
+Stewardship requires that capital be treated as a finite resource. **Proverbs 13:22*
+* establishes the principle of intergenerational responsibility.
 
 This is not a religious claim.
 
@@ -236,6 +239,7 @@ It is an institutional calibration mechanism designed to support disciplined cap
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

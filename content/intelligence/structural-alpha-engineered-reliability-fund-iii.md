@@ -52,7 +52,8 @@ Tighter sequence control.
 
 Pipeline centered on buyouts, add-ons, and acquisition roll-ups across regulated and semi-regulated domains.
 
-The brief below clarifies the institutional design, the structural mechanisms, and the alpha-generation logic underpinning the next capital cycle. **Proverbs 13:22** applies: A good man leaves an inheritance to his children's children.
+The brief below clarifies the institutional design, the structural mechanisms, and the alpha-generation logic underpinning the next capital cycle. **Proverbs 13:22*
+* applies: A good man leaves an inheritance to his children's children.
 
 Hard assets.
 
@@ -326,7 +327,8 @@ The principal voice is simple: Hard assets.
 
 Hard systems.
 
-Hard returns. **Proverbs 13:22** confirms 
+Hard returns. **Proverbs 13:22*
+* confirms 
 
 ## THE MANDATE
 
@@ -358,6 +360,7 @@ Terminal Metric: LTV Hardening Ratio 1.47x across engineered collateral stacks. 
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

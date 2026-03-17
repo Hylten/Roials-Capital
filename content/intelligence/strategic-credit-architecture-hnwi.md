@@ -22,7 +22,8 @@ They face a market where commercial lenders retreat due to regulatory tightening
 
 The funding vacuum widens.
 
-Private credit managers attempt to fill it, but many still price risk with pre‑2020 assumptions while underwriting with fragmented diligence stacks.
+Private credit managers attempt to fill it, but many still price risk with pre‑202
+0 assumptions while underwriting with fragmented diligence stacks.
 
 The environment shifts toward asset-level truth rather than narratives.
 
@@ -58,7 +59,10 @@ True LTV is not loan size divided by asset value.
 
 It is the weighted interaction between liquidation velocity, jurisdictional enforceability, and cash‑flow observability. 
 
-1. **LTV Curves** The observable LTV ceiling for Fund-III buyouts rarely exceeds 52 to 58 percent under institutional tolerance.
+1. **LTV Curves*
+* The observable LTV ceiling for Fund-III buyouts rarely exceeds 5
+2 to 5
+8 percent under institutional tolerance.
 
 Sellers ignore this.
 
@@ -67,13 +71,21 @@ Retail brokers ignore this.
 But private credit committees do not.
 
 They evaluate LTV under stress assumptions: 
--  20 to 35 percent margin compression 
--  180 to 270 day working capital extension 
--  15 to 30 percent decline in liquidation values The real LTV is the stressed figure.
+-  2
+0 to 3
+5 percent margin compression 
+-  18
+0 to 27
+0 day working capital extension 
+-  1
+5 to 3
+0 percent decline in liquidation values The real LTV is the stressed figure.
 
-Anything above 60 percent becomes speculative credit, regardless of borrower sophistication. 
+Anything above 6
+0 percent becomes speculative credit, regardless of borrower sophistication. 
 
-2. **Cash‑Flow Waterfalls** Cash‑flow stability is a myth without controlled waterfalls.
+2. **Cash‑Flow Waterfalls*
+* Cash‑flow stability is a myth without controlled waterfalls.
 
 Entrepreneurs often present blended accounts.
 
@@ -89,7 +101,8 @@ The waterfall must be mechanical:
 
 If an entrepreneur hesitates, the credit file collapses in the eyes of institutional LPs. 
 
-3. **Recovery Factors** Recovery is the silent governor of pricing.
+3. **Recovery Factors*
+* Recovery is the silent governor of pricing.
 
 Private lenders tolerate lower originations when recovery certainty is high.
 
@@ -120,7 +133,9 @@ A single principle governs the strategy: liquidity is engineered, not discovered
 
 Our architecture builds around three capital corridors. 
 
-1. **Capital Raising Corridor: 80 percent Mandate** Fund-III capital formation sits at the center.
+1. **Capital Raising Corridor: 8
+0 percent Mandate*
+* Fund-III capital formation sits at the center.
 
 The objective is to create an acquisition engine that institutional LPs trust.
 
@@ -135,7 +150,9 @@ They fund systems.
 
 Fund-III capital arrives when the system exists before the pitch. 
 
-2. **Monetization Architecture Corridor: 10 percent Mandate (Asset-Based Lending)** Asset-Based Lending is the tactical layer.
+2. **Monetization Architecture Corridor: 1
+0 percent Mandate (Asset-Based Lending)*
+* Asset-Based Lending is the tactical layer.
 
 It solves short-term liquidity constraints so that entrepreneurs avoid dilutive equity.
 
@@ -149,7 +166,9 @@ It uses:
 
 It prevents distress, stabilizes acquisition cycles, and signals institutional readiness. 
 
-3. **Special Mandate Corridor: 10 percent Mandate** The institutional ecosystem demands sector specialization.
+3. **Special Mandate Corridor: 1
+0 percent Mandate*
+* The institutional ecosystem demands sector specialization.
 
 Two domains hold disproportionate weight. 
 -  NAEOC Energy Mandates 50M to 250M 
@@ -171,7 +190,8 @@ It is an operating regime. ## ## ## ##
 
 They are not merely optimizing risk.
 
-They are stewarding what has been entrusted to them. **Proverbs 13:22** frames 
+They are stewarding what has been entrusted to them. **Proverbs 13:22*
+* frames 
 
 ## THE MANDATE
 
@@ -226,6 +246,7 @@ Request a confidential capital audit. #
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

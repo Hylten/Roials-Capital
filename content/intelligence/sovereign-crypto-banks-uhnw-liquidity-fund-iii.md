@@ -103,9 +103,15 @@ A cryptographic loan decision is not an approval.
 It is an execution.
 
 Typical mechanics: 
--  45 to 65 percent LTV for tokenized hard assets 
--  60 to 85 percent LTV for sovereign-backed digital treasuries 
--  75 to 90 percent LTV for overcollateralized institutional pools Cash flow waterfalls reconfigure on event triggers rather than quarterly reviews.
+-  4
+5 to 6
+5 percent LTV for tokenized hard assets 
+-  6
+0 to 8
+5 percent LTV for sovereign-backed digital treasuries 
+-  7
+5 to 9
+0 percent LTV for overcollateralized institutional pools Cash flow waterfalls reconfigure on event triggers rather than quarterly reviews.
 
 Margin calls occur automatically, removing the emotional inefficiency that destroys portfolios. 
 
@@ -190,7 +196,8 @@ Velocity without virtue is chaos.
 
 Biblical stewardship is not sentimental.
 
-It is operational. **Proverbs 13:22** records a structural rule: wealth must be preserved across generations through disciplined governance.
+It is operational. **Proverbs 13:22*
+* records a structural rule: wealth must be preserved across generations through disciplined governance.
 
 Stewardship requires order.
 
@@ -229,6 +236,7 @@ Request a confidential capital audit. #
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

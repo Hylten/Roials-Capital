@@ -44,7 +44,8 @@ The banks have withdrawn due to ESG scoring regimes and reserve-based lending co
 
 This divergence has widened the spread between operating fundamentals and available capital.
 
-Institutional capital migration in 2026 mirrors a logic long observable in commodity and industrial cycles: capital moves to where operational certainty exceeds perceived regulatory or reputational friction.
+Institutional capital migration in 202
+6 mirrors a logic long observable in commodity and industrial cycles: capital moves to where operational certainty exceeds perceived regulatory or reputational friction.
 
 The Alberta basin demonstrates this principle.
 
@@ -133,7 +134,8 @@ This operational intelligence reduces discovery costs for allocators. ## ## ## #
 
 ## THE STEWARDSHIP FILTER Stewardship is treated not as philanthropy but as a discipline of non-wasteful resource management.
 
-For institutions with multi-generational mandates, capital stewardship aligns with the scriptural principle in **Proverbs 13:22** , emphasizing longevity, prudence, and structured allocation.
+For institutions with multi-generational mandates, capital stewardship aligns with the scriptural principle in **Proverbs 13:22*
+* , emphasizing longevity, prudence, and structured allocation.
 
 Stewardship in this context means: 
 -  capital is allocated into environments where operational waste is minimized 
@@ -165,6 +167,7 @@ It is a structural assessment designed to map institutional objectives to the cu
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

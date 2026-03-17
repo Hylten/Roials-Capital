@@ -50,11 +50,14 @@ Global allocators require neutral partners who orchestrate the interfaces rather
 
  The institutional grade infrastructure relevant to Fund-III mandates consists of three pillars.
 
-Capital formation and deployment for buyouts and add ons at 80 percent focus.
+Capital formation and deployment for buyouts and add ons at 8
+0 percent focus.
 
-Strategic Collateralization through asset based structures at 10 percent.
+Strategic Collateralization through asset based structures at 1
+0 percent.
 
-Special mandates for energy and MiFID II compliant acquisitions at 10 percent.
+Special mandates for energy and MiFID II compliant acquisitions at 1
+0 percent.
 
 BUYOUT INFRASTRUCTURE FOR Fund-III Buyout environments across the EU and North America now require precision calibration between acquisition multiple, EBITDA normalization, and capital stack composition.
 
@@ -87,7 +90,9 @@ Alberta heavy oil environments operate under physics governed performance profil
 Key mechanics include: 
 -  SAGD as a thermal recovery process where steam injection reduces viscosity to mobilize bitumen. 
 -  CSS as a cyclic thermal stimulation method that accelerates early cycle production in certain reservoirs. 
--  Recovery factors between 30 and 70 percent depending on formation, porosity, and reservoir continuity. 
+-  Recovery factors between 3
+0 and 7
+0 percent depending on formation, porosity, and reservoir continuity. 
 -  Decline curves that follow predictable patterns with low geological uncertainty compared to unconventional plays. 
 -  Production stability enhanced through pad optimization, water cut management, and steam oil ratio stabilization.
 
@@ -145,7 +150,8 @@ European industrial companies with stable cash conversion and succession gaps me
 
 Asset-Backed Frameworks through Asset-Based Lending supports stewardship by preventing operational underperformance driven by capital scarcity.
 
-The theological perspective aligns with **Proverbs 13:22** .
+The theological perspective aligns with **Proverbs 13:22*
+* .
 
 Durable assets transition across generations.
 
@@ -179,6 +185,7 @@ Roials Capital provides institutional LPs and GPs with a confidential strategy a
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

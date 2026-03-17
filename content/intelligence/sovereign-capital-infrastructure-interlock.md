@@ -144,7 +144,9 @@ States do not optimize for private equity IRR.
 
 They optimize for sovereign durability.
 
-That means LTV targets between 20 and 43 percent on energy and industrial assets.
+That means LTV targets between 2
+0 and 4
+3 percent on energy and industrial assets.
 
 They want overcollateralization designed into the operational model.
 
@@ -326,7 +328,8 @@ Every add-on either strengthens the strategic position or it is rejected.
 
 We impose three filters.
 
-Cash accretive within 90 days.
+Cash accretive within 9
+0 days.
 
 Operationally integrable with zero culture friction.
 
@@ -368,7 +371,8 @@ Scale commitments accelerate everything.
 
 We treat capital as covenantal.
 
-Not transactional. **Proverbs 13:22** defines the principle.
+Not transactional. **Proverbs 13:22*
+* defines the principle.
 
 A steward thinks generationally.
 
@@ -428,11 +432,14 @@ No opacity.
 
 ## PHASE 
 
-5. EXIT Target yield displacement threshold: 340 to 460 basis points above sovereign benchmark curves. # 
+5. EXIT Target yield displacement threshold: 34
+0 to 46
+0 basis points above sovereign benchmark curves. # 
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Request confidential capital audit.
 

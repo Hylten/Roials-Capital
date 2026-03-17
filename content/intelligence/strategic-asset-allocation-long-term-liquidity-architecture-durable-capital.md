@@ -6,7 +6,8 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "strategic-asset-allocation-long-term-liquidity-architecture-durable-capital"
 --- 
 
-The capital vacuum shaping North American and European private markets in 2026 is a function of regulatory overcorrection and balance sheet contraction.
+The capital vacuum shaping North American and European private markets in 202
+6 is a function of regulatory overcorrection and balance sheet contraction.
 
 It is not a reflection of asset scarcity or operational deterioration.
 
@@ -28,7 +29,8 @@ The focus is clinical: a map of ##
 
 ## THE REGIME SHIFT
 
- : THE INSTITUTIONAL REALIGNMENT OF DURABLE CAPITAL The post-2024 environment represents a structural inflection point in the institutional allocation landscape.
+ : THE INSTITUTIONAL REALIGNMENT OF DURABLE CAPITAL The post-202
+4 environment represents a structural inflection point in the institutional allocation landscape.
 
 The drivers can be summarized in four forces that now govern allocator behavior. 
 
@@ -178,13 +180,15 @@ Key principles:
 -  Resource preservation: Capital must be allocated where its productive capacity is maximized. 
 -  Accountability loops: Reporting and verification must be consistent with institutional oversight requirements.
 
-The moral dimension is recognized in operational frameworks such as **Proverbs 13:22** , emphasizing generational capital clarity and responsibility. 
+The moral dimension is recognized in operational frameworks such as **Proverbs 13:22*
+* , emphasizing generational capital clarity and responsibility. 
 
 ## PHASE 
 
 5. ## 
 
-## DECISION MAKING LENS FOR THE INSTITUTIONAL ALLOCATOR The allocator operating in 2026 must internalize a simple but structural principle: durable capital is engineered, not found.
+## DECISION MAKING LENS FOR THE INSTITUTIONAL ALLOCATOR The allocator operating in 202
+6 must internalize a simple but structural principle: durable capital is engineered, not found.
 
 The portfolio architecture that emerges from this briefing aligns with the following sequencing: 
 -  Core durability: Built through buyout platforms with measurable integration pathways and predictable operational synergies. 

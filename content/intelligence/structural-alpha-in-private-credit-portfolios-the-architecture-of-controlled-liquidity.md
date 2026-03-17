@@ -39,8 +39,10 @@ It is dependent on structural mechanics.
 We issue credit against: 
 -  Private credit positions. 
 -  Asset Based Monetization Architecture structures. 
--  Crypto holdings, with a minimum threshold of 2 million dollars. 
--  Public share portfolios, with a minimum threshold of 5 million dollars.
+-  Crypto holdings, with a minimum threshold of 
+2 million dollars. 
+-  Public share portfolios, with a minimum threshold of 
+5 million dollars.
 
 The client base is exclusively HNWI and UHNW.
 
@@ -132,7 +134,8 @@ It is a design principle that transforms risk exposure into predictable yield.
 
 ## Crypto Asset-Backed Frameworks for Institutional-Level Capital Crypto markets are fast, fragmented, and structurally inefficient.
 
-This creates both opportunity and risk, which is why our crypto Capital Structuring framework requires a minimum threshold of 2 million dollars.
+This creates both opportunity and risk, which is why our crypto Capital Structuring framework requires a minimum threshold of 
+2 million dollars.
 
 At that level, collateral monitoring, risk isolation, and execution quality become institutionally viable.
 
@@ -144,7 +147,8 @@ We create liquidity without exposing the client to forced unwinds or unnecessary
 
 Large equity blocks carry liquidity constraints, reputational considerations, and regulatory implications.
 
-We engineer credit lines against these positions with a minimum threshold of 5 million dollars, ensuring scale and structural integrity.
+We engineer credit lines against these positions with a minimum threshold of 
+5 million dollars, ensuring scale and structural integrity.
 
 The alpha is generated through risk segmentation.
 
@@ -264,6 +268,7 @@ Architecture is the method. # Request confidential audit #
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

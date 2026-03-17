@@ -16,7 +16,8 @@ Allocators with disciplined underwriting frameworks now observe a market where p
 
 ## THE REGIME SHIFT
 
- The post-2021 monetary cycle initiated a multi-year recalibration in credit availability.
+ The post-202
+1 monetary cycle initiated a multi-year recalibration in credit availability.
 
 Bank participation in middle market lending declined as compliance burdens, stress testing, and capital reserve requirements shifted internal risk models upward.
 
@@ -27,7 +28,9 @@ Instead, it produced a structural misalignment between capital supply and operat
 Several characteristics define the current regime. 
 -  Duration aversion among traditional lenders has created a short-tenor bias inconsistent with the growth trajectories of sponsor-backed middle market enterprises. 
 -  Credit committees at regulated institutions increasingly prioritize homogeneity, reducing exposure to asset-heavy borrowers requiring flexible capital structures. 
--  Refinancing walls from 2024 to 2028 generate elevated transaction velocity across sponsor-backed platforms.
+-  Refinancing walls from 202
+4 to 202
+8 generate elevated transaction velocity across sponsor-backed platforms.
 
 Borrowers seeking rational terms encounter dislocated pricing landscapes where non-bank entities can implement institutional discipline without competitive dilution. 
 -  The United States and Canada continue to exhibit asymmetric credit dispersion.
@@ -112,7 +115,8 @@ In other sectors, partnerships are aligned based on operational maturity, cross-
 
 ## THE STEWARDSHIP FILTER Stewardship governs the deployment of capital as a resource under responsibility.
 
-It aligns with the discipline articulated in **Proverbs 13:22** , where intergenerational impact is linked to prudent management.
+It aligns with the discipline articulated in **Proverbs 13:22*
+* , where intergenerational impact is linked to prudent management.
 
 In private credit, stewardship is expressed through: 
 -  disciplined underwriting that protects principal across cycles 
@@ -137,6 +141,7 @@ These sessions are designed to clarify structural pathways, pressure test assump
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

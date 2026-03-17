@@ -36,7 +36,8 @@ This is ##
 
 ## THE REGIME SHIFT
 
- that defines the 2026 institutional cycle.
+ that defines the 202
+6 institutional cycle.
 
 The allocator must navigate three separate regulatory languages while pursuing a unified mandate for durable cash flow.
 
@@ -162,7 +163,8 @@ It is a discipline.
 
 Stewardship is the management of capital, resources, and operational environments without waste.
 
-It aligns with **Proverbs 13:22** which identifies generational responsibility as the highest form of governance.
+It aligns with **Proverbs 13:22*
+* which identifies generational responsibility as the highest form of governance.
 
 For allocators, the Stewardship Filter is expressed through: 
 -  Preference for real assets with measurable decay rates 
@@ -172,7 +174,8 @@ For allocators, the Stewardship Filter is expressed through:
 
 Stewardship in this context is a demand for clear operational intelligence and disciplined capital governance. ## ## ## 
 
-## DECISION MAKING LENS FOR THE ALLOCATOR The 2026 allocator operates in a multi-axis environment. 
+## DECISION MAKING LENS FOR THE ALLOCATOR The 202
+6 allocator operates in a multi-axis environment. 
 -  Regulatory divergence between Europe, North America, and Gulf jurisdictions 
 -  Capital vacuums in technically secure basins 
 -  The rise of liquidity engineering as a core institutional tool 

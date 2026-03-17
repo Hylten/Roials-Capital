@@ -52,7 +52,8 @@ No politics.
 
 No drag.
 
-Precision architecture means 3 layers: jurisdictional shield, operational spine, covenant discipline.
+Precision architecture means 
+3 layers: jurisdictional shield, operational spine, covenant discipline.
 
 Remove one and the entire formation collapses under volatility.
 
@@ -62,7 +63,8 @@ Risk is not avoided.
 
 Risk is domesticated.
 
-The facility is the cage. **Proverbs 13:22** : capital flows to the prepared inheritor.
+The facility is the cage. **Proverbs 13:22*
+* : capital flows to the prepared inheritor.
 
 Institutional actors require clarity.
 
@@ -186,9 +188,11 @@ For Fund‑III, the facility is the institutional heart.
 
 The only point that cannot fail.
 
-Capital raising (kapitalanskaffning) absorbs 80 percent of the institutional bandwidth.
+Capital raising (kapitalanskaffning) absorbs 8
+0 percent of the institutional bandwidth.
 
-Asset-Based Lending consumes 10 percent.
+Asset-Based Lending consumes 1
+0 percent.
 
 Mandate-specific structuring consumes the rest.
 
@@ -530,7 +534,8 @@ It attracts sovereign wealth.
 
 It commands respect.
 
-The facility becomes the GP’s inheritance. **Proverbs 13:22** .
+The facility becomes the GP’s inheritance. **Proverbs 13:22*
+* .
 
 The sovereign liquidity facility is the modern institutional inheritance mechanism.
 
@@ -566,6 +571,7 @@ For principal review, initiate a confidential capital audit. #
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

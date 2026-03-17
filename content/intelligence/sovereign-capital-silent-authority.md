@@ -30,7 +30,9 @@ Structural.
 
 Sovereign allocators pursue one goal: permanence.
 
-Their capital is slow to deploy, slower to exit, and engineered for generational hold. *A good man leaveth an inheritance to his children's children* ( **Proverbs 13:22** ).
+Their capital is slow to deploy, slower to exit, and engineered for generational hold. *A good man leaveth an inheritance to his children's children
+* ( **Proverbs 13:22*
+* ).
 
 This principle is not moral.
 
@@ -459,6 +461,7 @@ End with a technical metric: Institutional Continuity Ratio:
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

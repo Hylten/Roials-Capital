@@ -90,7 +90,8 @@ Every asset class has a liquidity severity gradient.
 
 Hard assets with contractual revenue behave differently than asset light entities that rely on demand elasticity.
 
-Oilfield equipment, midstream infrastructure, transport, industrials, and critical service providers score above 0.68 on the liquidity severity scale.
+Oilfield equipment, midstream infrastructure, transport, industrials, and critical service providers score above 0.6
+8 on the liquidity severity scale.
 
 These assets, when placed under a controlled capital structure, generate predictable recoverability and therefore predictable loan-to-value corridors.
 
@@ -100,11 +101,16 @@ LTV is not a mixture of valuation optimism.
 
 It is a recovery expectation at liquidation minus operational decay.
 
-In our mandates, machinery and heavy equipment show verified liquidation recovery between 58 and 72 percent of forced sale value.
+In our mandates, machinery and heavy equipment show verified liquidation recovery between 5
+8 and 7
+2 percent of forced sale value.
 
-Receivables under long term service contracts recover near 90 percent.
+Receivables under long term service contracts recover near 9
+0 percent.
 
-Land-backed industrial facilities operate at 50 to 65 percent depending on zoning.
+Land-backed industrial facilities operate at 5
+0 to 6
+5 percent depending on zoning.
 
 Cash Flow Waterfall Logic.
 
@@ -227,7 +233,8 @@ Waste is eliminated.
 
 Stewardship is not generosity.
 
-It is governance. **Proverbs 13:22** states that a good man leaves an inheritance for his children's children.
+It is governance. **Proverbs 13:22*
+* states that a good man leaves an inheritance for his children's children.
 
 The verse does not reference gold or land.
 
@@ -271,13 +278,15 @@ Not how to spend.
 
 5. EXIT Our internal mandate is explicit.
 
-Every facility must move the operator toward a minimum DSCR of 1.42 within four quarters.
+Every facility must move the operator toward a minimum DSCR of 1.4
+2 within four quarters.
 
 Deviate from this and the compounding model breaks. # 
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Request confidential capital audit.
 

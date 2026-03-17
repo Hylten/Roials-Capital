@@ -74,7 +74,9 @@ We operate where complexity deters slower capital. ##
 
 When these triage points are engineered correctly, you remove noise and build mathematically predictable outcomes.
 
-Loan-to-Value Curves: The institutional threshold for stability in this segment is a 35 to 55 percent LTV corridor.
+Loan-to-Value Curves: The institutional threshold for stability in this segment is a 3
+5 to 5
+5 percent LTV corridor.
 
 Sponsors push for more leverage.
 
@@ -98,9 +100,13 @@ Predictability outranks aggressiveness.
 
 Recovery Factors: Middle-market recoveries are consistently stronger than large-cap recoveries because asset specificity is higher and operational engagement is more intimate.
 
-Median senior secured recoveries in our operative range run at 70 to 82 percent when Asset-Based Lending structures are embedded.
+Median senior secured recoveries in our operative range run at 7
+0 to 8
+2 percent when Asset-Based Lending structures are embedded.
 
-Without Asset-Based Lending mechanics, recovery reverts closer to 55 to 65 percent.
+Without Asset-Based Lending mechanics, recovery reverts closer to 5
+5 to 6
+5 percent.
 
 Capital Structuring raises the floor.
 
@@ -124,7 +130,8 @@ The assets are still needed.
 
 Structured credit fills the vacuum.
 
-Core recovery stems from PV10 validated reserve values, predictable decline curves, and disciplined hedging overlays.
+Core recovery stems from PV1
+0 validated reserve values, predictable decline curves, and disciplined hedging overlays.
 
 The segment is not speculative.
 
@@ -220,7 +227,8 @@ Disorder dilutes collateral integrity.
 
 Stewardship is not an ethical layer on top of strategy.
 
-It is strategy. **Proverbs 13:22** anchors the thesis: wealth passes through generations when stewardship is disciplined, not impulsive.
+It is strategy. **Proverbs 13:22*
+* anchors the thesis: wealth passes through generations when stewardship is disciplined, not impulsive.
 
 The stewardship filter operates through three commitments. 
 
@@ -262,12 +270,17 @@ Phase 5: Exit Yield without velocity is idle.
 
 Velocity without structure is reckless.
 
-We engineer both through a Fund-III architecture targeting a 1.5 to 1.8 times MOIC on senior-secured middle-market exposure with a 36 to 48 month duration band.
+We engineer both through a Fund-III architecture targeting a 1.
+5 to 1.
+8 times MOIC on senior-secured middle-market exposure with a 3
+6 to 4
+8 month duration band.
 
 Request a confidential capital audit to determine alignment with Fund-III deployment parameters. # 
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

@@ -34,7 +34,9 @@ Fast.
 
 Precise.
 
-Controlled. **Proverbs 13:22** : *A good man leaves an inheritance to his children's children: but the wealth of the sinner is laid up for the just.* 
+Controlled. **Proverbs 13:22*
+* : *A good man leaves an inheritance to his children's children: but the wealth of the sinner is laid up for the just.
+* 
 
 ## THE MANDATE
 
@@ -382,7 +384,8 @@ This is architecture.
 
 This is execution.
 
-This is inheritance. **Proverbs 13:22** . 
+This is inheritance. **Proverbs 13:22*
+* . 
 
 ## MANDATE ## ## ## ## 
 
@@ -398,7 +401,8 @@ Execution defines legacy. #
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Request confidential capital audit.
 

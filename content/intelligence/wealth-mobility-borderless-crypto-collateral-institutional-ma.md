@@ -14,7 +14,8 @@ The capital vacuum that emerges is not driven by scarcity of liquidity.
 
 It is driven by the inability of legacy infrastructure to translate cross-border wealth into institutional-grade collateral at the velocity required by modern M&A activity.
 
-The counter-intuitive reality is that in 2026 the most agile capital in global markets is not institutional cash.
+The counter-intuitive reality is that in 202
+6 the most agile capital in global markets is not institutional cash.
 
 It is crypto-denominated wealth that can be formalized into compliant collateral structures once proper custody, legal wrappers, and credit intermediation protocols are applied.
 
@@ -32,7 +33,8 @@ Sovereign regulators apply increasingly restrictive outbound capital frameworks.
 
 Banks operate under Basel-driven risk weightings that severely limit the treatment of non-traditional assets.
 
-Private credit has grown into a 2.1 trillion dollar sector not because it provides more aggressive risk, but because it supplies the speed and structural sophistication that banking systems can no longer offer.
+Private credit has grown into a 2.
+1 trillion dollar sector not because it provides more aggressive risk, but because it supplies the speed and structural sophistication that banking systems can no longer offer.
 
 Three forces define the current M&A regime: 
 -  Jurisdictional fragmentation.
@@ -149,7 +151,8 @@ Every layer in the capital stack must have a clear claim pathway.
 -  Measured velocity.
 
 Speed is valuable only when it reduces friction without increasing systemic fragility. 
--  Stability of collateral. **Proverbs 13:22** highlights the long horizon of responsible capital.
+-  Stability of collateral. **Proverbs 13:22*
+* highlights the long horizon of responsible capital.
 
 Stewardship avoids short-term extraction logic.
 

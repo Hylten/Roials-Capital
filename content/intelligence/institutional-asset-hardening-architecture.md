@@ -154,7 +154,8 @@ The GP must operate as an institutional machine, not a personality driven firm.
 
 ROIALS CAPITAL builds this machine.
 
-Our architecture for Fund-III and Fund-IV managers includes the following components: Capital Raising Engine: We construct a capital stack that follows a 4 tier conversion ladder.
+Our architecture for Fund-III and Fund-IV managers includes the following components: Capital Raising Engine: We construct a capital stack that follows a 
+4 tier conversion ladder.
 
 Anchor LP targeting.
 
@@ -222,7 +223,8 @@ It demands stewardship.
 
 Not softness.
 
-Stewardship as defined in Scripture is precise. **Proverbs 13:22** establishes a clear mandate.
+Stewardship as defined in Scripture is precise. **Proverbs 13:22*
+* establishes a clear mandate.
 
 A good man leaves an inheritance to his children, but the wealth of the sinner is laid up for the righteous.
 
@@ -264,7 +266,9 @@ Capital flows where stewardship is provable.
 
 5. EXIT We close with one controlling metric.
 
-Hardened infrastructure lowers loss severity by 32 to 47 percent across mid market control buyouts.
+Hardened infrastructure lowers loss severity by 3
+2 to 4
+7 percent across mid market control buyouts.
 
 LPs recognize this.
 
@@ -272,7 +276,8 @@ They act on it. #
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Request confidential capital audit.
 

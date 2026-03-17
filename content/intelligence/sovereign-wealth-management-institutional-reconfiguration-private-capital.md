@@ -91,7 +91,9 @@ SAGD processes rely on thermal efficiency, steam oil ratios, and reservoir conti
 
 CSS cycles depend on decline predictability and steam chest development.
 
-Recovery factors in conventional heavy oil reservoirs typically fall between 8 and 12 percent without enhanced recovery, with significant uplift potential under modern steam or polymer programs.
+Recovery factors in conventional heavy oil reservoirs typically fall between 
+8 and 1
+2 percent without enhanced recovery, with significant uplift potential under modern steam or polymer programs.
 
 These are not speculative reservoirs.
 
@@ -101,7 +103,9 @@ That structural transparency aligns with sovereign capital requirements.
 
 Private Credit In private credit the key mechanics are loan to value calibration, first lien seniority, and cash flow waterfalls.
 
-Sovereign aligned structures prefer lower LTV thresholds, often in the 35 to 55 percent range.
+Sovereign aligned structures prefer lower LTV thresholds, often in the 3
+5 to 5
+5 percent range.
 
 Waterfall design emphasizes rapid cash sweep mechanisms, priority amortization, and event driven acceleration rights.
 
@@ -153,7 +157,8 @@ It is the architect that organizes the institutional ecosystem around operators,
 
 ## THE STEWARDSHIP FILTER Stewardship is the discipline of resource management grounded in non wasteful capital deployment.
 
-It aligns with the theological principle in **Proverbs 13:22** which states that a good person leaves an inheritance for the next generation.
+It aligns with the theological principle in **Proverbs 13:22*
+* which states that a good person leaves an inheritance for the next generation.
 
 This is not rhetoric.
 

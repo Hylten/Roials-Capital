@@ -14,7 +14,8 @@ Surface narratives still revolve around decarbonization cycles, while subsurface
 
 The divergence is measurable.
 
-It has become one of the most powerful sources of balance sheet optimization available to institutional allocators navigating the 2026 landscape. 
+It has become one of the most powerful sources of balance sheet optimization available to institutional allocators navigating the 202
+6 landscape. 
 
 ## PHASE 
 
@@ -58,7 +59,8 @@ It is the governing principle of modern balance sheet design.
 
 ## TECHNICAL MECHANICS
 
- Capital efficiency in 2026 is measured through structural mechanics rather than headline yield.
+ Capital efficiency in 202
+6 is measured through structural mechanics rather than headline yield.
 
 The most resilient allocators recalibrate their balance sheets across three technical vectors: Core Holdings Leverage, Capital Structuring, and Hard Asset Introductions. 
 
@@ -128,7 +130,9 @@ For example:
 -  SAGD pairs horizontal wellbores to create controlled gravity drainage. 
 -  CSS employs cyclic steam pulses to remobilize heavy oil at predictable intervals. 
 -  Decline curves in these operations are governed by reservoir pressure differentials rather than pure depletion. 
--  Recovery factors are calculable within narrow ranges, often between 20 percent and 60 percent depending on reservoir structure and thermal performance.
+-  Recovery factors are calculable within narrow ranges, often between 2
+0 percent and 6
+0 percent depending on reservoir structure and thermal performance.
 
 This predictability creates balance sheet stability.
 
@@ -200,13 +204,15 @@ Stewardship requires clarity on cross collateralization, subordinated positions,
 
 Hard assets with measurable utility and predictable decline profiles create balance sheet durability.
 
-This is consistent with **Proverbs 13:22** , which anchors stewardship in generational capital behavior.
+This is consistent with **Proverbs 13:22*
+* , which anchors stewardship in generational capital behavior.
 
 Stewardship transforms the balance sheet from a transactional instrument into a long horizon strategic platform. 
 
 ## PHASE 
 
-5. DECISION-MAKING LENS FOR THE ALLOCATOR The allocator operating in 2026 faces an environment defined by volatility at the surface and stability in the subsurface.
+5. DECISION-MAKING LENS FOR THE ALLOCATOR The allocator operating in 202
+6 faces an environment defined by volatility at the surface and stability in the subsurface.
 
 Capital efficiency becomes the bridge between the two.
 
@@ -227,6 +233,7 @@ Roials Capital supports allocators seeking disciplined clarity, technical accura
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

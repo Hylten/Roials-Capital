@@ -86,7 +86,9 @@ In a tightening-rate environment, advantage compounds faster than cost of capita
 Institutional mechanics decide institutional outcomes.
 
 Crypto collateral can be inserted into an M&A capital stack through three primary structures: 
--  Overcollateralized credit lines at 40 to 65 percent LTV. 
+-  Overcollateralized credit lines at 4
+0 to 6
+5 percent LTV. 
 -  Synthetic liquidity tranches for deposit-anchored deal deposits. 
 -  Cross-custodial security agreements that unlock jurisdictional flexibility.
 
@@ -202,7 +204,8 @@ The mobile nature of crypto collateral must not tempt undisciplined leverage beh
 
 It must reinforce capital responsibility.
 
-The Biblical model is clear. **Proverbs 13:22** describes generational capital as a multi-epoch responsibility.
+The Biblical model is clear. **Proverbs 13:22*
+* describes generational capital as a multi-epoch responsibility.
 
 Stewardship rejects disorder.
 
@@ -223,12 +226,14 @@ Collateral mobility is merely the tool.
 
 Purpose determines its value. ## 
 
-## EXIT Fund-III institutional operations require a single invariant metric: maintain a collateral mobility ratio above 1.7 relative to jurisdiction-bound lender exposure.
+## EXIT Fund-III institutional operations require a single invariant metric: maintain a collateral mobility ratio above 1.
+7 relative to jurisdiction-bound lender exposure.
 
 Request a confidential capital audit. # 
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

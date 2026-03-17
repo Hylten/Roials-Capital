@@ -140,7 +140,8 @@ The execution is not.
 
 This is the model: 
 
-1. Kapitalanskaffning at 80 percent Fund-III grows on the strength of disciplined capital formation.
+1. Kapitalanskaffning at 8
+0 percent Fund-III grows on the strength of disciplined capital formation.
 
 This is not capital raising.
 
@@ -152,7 +153,8 @@ Sovereigns observe the alignment of the LP base before committing.
 
 If the LP base is unstable, sovereigns disengage. 
 
-2. Asset-Based Lending and Strategic Collateralization at 10 percent Every portfolio company becomes a liquidity instrument.
+2. Asset-Based Lending and Strategic Collateralization at 1
+0 percent Every portfolio company becomes a liquidity instrument.
 
 The GP must demonstrate mastery of Asset-Based Lending sequencing.
 
@@ -166,7 +168,8 @@ Poor Asset-Based Lending design traps working capital and destroys the acquisiti
 
 Sovereigns track liquidity velocity long before they track EBITDA. 
 
-3. Special Mandates at 10 percent These mandates determine institutional legitimacy.
+3. Special Mandates at 1
+0 percent These mandates determine institutional legitimacy.
 
 NAEOC 50M to 250M allocations require energy literacy, operational readiness, and geopolitical grounding.
 
@@ -203,7 +206,8 @@ Sovereign committees do not articulate this theology, but they operate inside it
 
 They reward GPs who demonstrate resource discipline.
 
-They withdraw from those who do not. **Proverbs 13:22** defines the continuity logic of stewardship: A good man leaves an inheritance to his children's children.
+They withdraw from those who do not. **Proverbs 13:22*
+* defines the continuity logic of stewardship: A good man leaves an inheritance to his children's children.
 
 Institutionalised, this means capital must outlive the individuals who deploy it.
 
@@ -243,12 +247,14 @@ Funds that embody it receive multi cycle commitments. ##
 
 ## EXIT Sovereign aligned funds measure success by exit symmetry, not headline IRR.
 
-The correct metric is recovery-to-velocity ratio: RVR 1.35 or better.
+The correct metric is recovery-to-velocity ratio: RVR 1.3
+5 or better.
 
 For sovereign-grade capital alignment, request a confidential capital audit. # 
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

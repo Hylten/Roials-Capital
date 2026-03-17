@@ -10,21 +10,25 @@ slug: "why-gps-launching-esg-optional-funds"
 
 ## Why GPs Are Increasingly Launching ESG‑Optional Rather Than ESG‑Mandatory Funds General Partners across US, EU, and GCC markets are shifting away from ESG‑mandatory fund structures for three primary reasons: 
 
-1. **LP Fragmentation** By 2024,2026, LPs no longer form a single ESG‑aligned bloc.
+1. **LP Fragmentation*
+* By 2024,2026, LPs no longer form a single ESG‑aligned bloc.
 • North American pensions and endowments want “ESG integration but not ESG enforcement.”
-• European sovereign funds may prefer Article 8/9, but even many of them now accept Article 6 vehicles for certain sectors.
+• European sovereign funds may prefer Article 8/9, but even many of them now accept Article 
+6 vehicles for certain sectors.
 • APAC and Middle Eastern pools prioritize returns, energy security, and industrial policy.
 
 A mandatory ESG fund automatically excludes several categories of allocators. 
 
-2. **Regulatory and Liability Risk** ESG definitions are drifting, not converging.
+2. **Regulatory and Liability Risk*
+* ESG definitions are drifting, not converging.
 • EU taxonomy, SFDR, and CSRD are evolving at different speeds.
 • US regulatory climate is inconsistent among states and federal bodies.
 • “Greenwashing litigation risk” has become a real price driver.
 
 A mandatory ESG fund imposes a regulatory regime that may become more expensive and less predictable over the fund’s life. 
 
-3. **Deal Flow Constraints for Buyouts and Add‑Ons** Mandatory ESG screens restrict the ability to pursue:
+3. **Deal Flow Constraints for Buyouts and Add‑Ons*
+* Mandatory ESG screens restrict the ability to pursue:
 • industrial turnarounds,
 • energy transition bridge assets,
 • brown‑to‑green upgrades, or
@@ -35,7 +39,8 @@ Optional frameworks allow the GP to execute operational value creation without d
 -  
 -  # 
 
-## Institutional Capital View (Fund-III+) LPs continuing to back emerging and established managers increasingly differentiate between **ESG as a reporting discipline** and **ESG as a binding fiduciary constraint**.
+## Institutional Capital View (Fund-III+) LPs continuing to back emerging and established managers increasingly differentiate between **ESG as a reporting discipline*
+* and **ESG as a binding fiduciary constraint**.
 
 LP sentiment today: 
 -  “We want transparency, not handcuffs.” 
@@ -60,12 +65,14 @@ This improves capital formation and increases the velocity of deployment, partic
 ## Asset‑Based Lending Note (General, No Persona Rules) In private credit markets, ESG‑mandatory requirements shrink the eligible borrower universe 
 -  especially in manufacturing, logistics, metals, and energy‑adjacent categories.
 
-An **ESG‑optional approach** broadens: 
+An **ESG‑optional approach*
+* broadens: 
 -  available collateral pools, 
 -  usable jurisdictions, 
 -  turnaround cases where operational improvements unlock value.
 
-If you would like, I can also prepare a clean section on **when ABL structures materially benefit buyout funds** (inventory‑heavy platforms, rollups, working‑capital stabilization, etc.). 
+If you would like, I can also prepare a clean section on **when ABL structures materially benefit buyout funds*
+* (inventory‑heavy platforms, rollups, working‑capital stabilization, etc.). 
 -  
 -  
 -  # 
@@ -88,11 +95,17 @@ Reason: It avoids disqualifying assets where transformation
 
 Just tell me: 
 
-1. Desired **tone** (neutral, institutional, investment‑bank style, etc.) 
+1. Desired **tone*
+* (neutral, institutional, investment‑bank style, etc.) 
 
-2. Desired **length** (600 words, 1200 words, 2000 words). 
+2. Desired **length*
+* (60
+0 words, 120
+0 words, 200
+0 words). 
 
-3. Whether you want references to **Fund-III**, **private credit**, **energy mandates**, or **MiFID II acquisitions** emphasized. 
+3. Whether you want references to **Fund-III**, **private credit**, **energy mandates**, or **MiFID II acquisitions*
+* emphasized. 
 -  
 -  
 -  If your aim is a **confidential capital audit**, tell me what you want assessed: 

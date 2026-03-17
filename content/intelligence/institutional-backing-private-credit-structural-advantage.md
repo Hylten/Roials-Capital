@@ -24,7 +24,9 @@ Balance sheet density is now assessed with greater severity, and the labor requi
 
 This diverts credit origination to alternative lenders who can structure without regulatory drag. 
 
-2. Maturity wall compression Refinancing windows for 2025 through 2028 have contracted.
+2. Maturity wall compression Refinancing windows for 202
+5 through 202
+8 have contracted.
 
 Borrowers with viable cash flows but insufficient collateral coverage under bank definitions require alternative structures capable of recognizing intangible value, recurring revenue, and collateral pools not reflected in traditional LTV frameworks. 
 
@@ -108,7 +110,8 @@ The firm provides allocators with scenario analysis, counterparty vetting, capit
 
 ## THE STEWARDSHIP FILTER Stewardship governs the disciplined allocation of capital, ensuring resources are placed in structures that maximize durability, efficiency, and long-term societal benefit.
 
-This discipline aligns with the biblical principle articulated in **Proverbs 13:22** , where the emphasis is on long-term inheritance and intergenerational responsibility.
+This discipline aligns with the biblical principle articulated in **Proverbs 13:22*
+* , where the emphasis is on long-term inheritance and intergenerational responsibility.
 
 Stewardship in private credit includes: 
 -  Non-wasteful structure design Combining operational intelligence with capital integrity to avoid inflated leverage or poorly defined covenants. 
@@ -132,6 +135,7 @@ Roials Capital facilitates these audits, providing allocators with the intellige
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

@@ -20,7 +20,9 @@ Strategic liquidity architecture has therefore evolved into a discipline of capi
 
 1. The compression of global risk free rates relative to real asset demand.
 
-The capital cycle in energy and industrial production was truncated throughout the 2015 to 2022 period due to underinvestment and political misalignment.
+The capital cycle in energy and industrial production was truncated throughout the 201
+5 to 202
+2 period due to underinvestment and political misalignment.
 
 The current supply constraints are structural and are not alleviated by incremental monetary easing. 
 
@@ -166,7 +168,8 @@ Key principles include:
 
 Capital must be allocated to operators who manage their reserves, teams, and infrastructure with restraint, discipline, and measurable efficiency.
 
-This aligns with the principles articulated in **Proverbs 13:22** , which emphasizes the intergenerational responsibilities of capital holders. 
+This aligns with the principles articulated in **Proverbs 13:22*
+* , which emphasizes the intergenerational responsibilities of capital holders. 
 -  Non extraction mindset.
 
 Stewardship prioritizes sustainability of operations, not maximization of short term output.

@@ -24,7 +24,8 @@ It is a structural evolution in the transmission mechanics of ownership, custody
 
 Real estate has carried the largest load of this shift because the asset class historically intermediated liquidity through paper-based claims, trustee layers, and jurisdictionally fragmented registries.
 
-The compression phase beginning in 2022 did not disrupt asset-level economics.
+The compression phase beginning in 202
+2 did not disrupt asset-level economics.
 
 It disrupted the settlement channels that move capital into and out of the properties.
 
@@ -139,7 +140,8 @@ Stewardship principles:
 -  Precision Allocation Capital is released only when required for acquisitions or balance sheet stabilization. 
 -  Traceable Ownership Operational clarity reduces disputes and accelerates accountability. 
 -  Minimization of Idle Value Tokenized structures enable partial liquidity extraction without forced sales, preserving long-term asset integrity. 
--  Multi-Year Sustainability Improved liquidity supports multi-cycle planning, consistent with the stewardship mandate articulated in **Proverbs 13:22** .
+-  Multi-Year Sustainability Improved liquidity supports multi-cycle planning, consistent with the stewardship mandate articulated in **Proverbs 13:22*
+* .
 
 Stewardship is not a moral abstraction.
 

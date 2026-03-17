@@ -14,7 +14,8 @@ The constraint is structural rather than monetary.
 
 Sovereign regulatory drift, the internal fragmentation of banking systems, and capital friction in legacy correspondent networks have created a new operating landscape.
 
-Allocators aligned with the 2026 regime shift are repositioning their strategies around mobility, verification, and the ability to unlock collateral outside traditional custody silos. ## ## ## ## 
+Allocators aligned with the 202
+6 regime shift are repositioning their strategies around mobility, verification, and the ability to unlock collateral outside traditional custody silos. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -30,7 +31,9 @@ Three structural changes define the current regime.
 
 The major global banks now price cross-border capital not on liquidity supply but on regulatory drag and internal risk weighting.
 
-This has slowed capital deployment in US and EU mid-market buyouts by close to 40 percent relative to 2021 activity levels. 
+This has slowed capital deployment in US and EU mid-market buyouts by close to 4
+0 percent relative to 202
+1 activity levels. 
 
 2. Sovereign capital controls and reporting obligations are widening.
 
@@ -73,13 +76,16 @@ It is a formalized collateral architecture structured so that it integrates with
 The mechanics are outlined below. 
 
 1. Custodial Integrity Layer Institutional-grade collateral must reside in a custodial environment with: 
--  SOC-2 compliance 
+-  SOC-
+2 compliance 
 -  Segregated account logic 
 -  Real-time proof-of-reserves 
 -  Non rehypothecation 
 -  Multi signature exit protocols Unlike retail wallets, institutional-grade custody exists inside a regulated framework where collateral certainty can be validated at audit standard. 
 
-2. Over Collateralization Requirements Institutional lenders using digital collateral require over collateralization ratios ranging from 140 percent to 300 percent depending on the asset, volatility profile, and jurisdiction.
+2. Over Collateralization Requirements Institutional lenders using digital collateral require over collateralization ratios ranging from 14
+0 percent to 30
+0 percent depending on the asset, volatility profile, and jurisdiction.
 
 This is materially different from legacy banking collateralization.
 
@@ -170,7 +176,8 @@ This briefing is focused on M&A and liquidity engineering, but the partnership m
 
 The allocator must view capital not as a commodity but as a responsibility.
 
-Wealth mobility frameworks must align with the Theology of Capital. **Proverbs 13:22** anchors the principle that capital is not for short term consumption but for long term structural continuity.
+Wealth mobility frameworks must align with the Theology of Capital. **Proverbs 13:22*
+* anchors the principle that capital is not for short term consumption but for long term structural continuity.
 
 Two stewardship disciplines govern this domain. 
 

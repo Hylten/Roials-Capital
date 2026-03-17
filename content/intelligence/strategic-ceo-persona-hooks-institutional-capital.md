@@ -10,7 +10,8 @@ The institutional allocator universe rarely responds to charisma.
 
 It responds to pattern integrity.
 
-The highest performance CEO personas in 2026 are engineered around structural credibility, operational literacy, and allocators' hunger for predictable decision-making architectures.
+The highest performance CEO personas in 202
+6 are engineered around structural credibility, operational literacy, and allocators' hunger for predictable decision-making architectures.
 
 The capital vacuum in middle market private equity is not an outcome of reduced appetite.
 
@@ -24,7 +25,8 @@ This briefing outlines a technical template for Strategic CEO Persona Hooks that
 
 ## THE REGIME SHIFT
 
- The allocator landscape has absorbed three structural shocks in the last 48 months. 
+ The allocator landscape has absorbed three structural shocks in the last 4
+8 months. 
 -  The shift from free capital to priced capital. 
 -  The transition from narrative-driven GPs to operationally verifiable GPs. 
 -  The elevation of governance architecture as a primary risk filter.
@@ -97,7 +99,8 @@ They want CEOs who understand:
 -  Cash flow hardening mechanisms. 
 -  Stress case liquidity behaviors. 
 -  Asset recovery vectors. 
--  How the strategic plan behaves under a 300 basis point shock to credit conditions.
+-  How the strategic plan behaves under a 30
+0 basis point shock to credit conditions.
 
 This framing is especially important for any CEO representing a Fund-III strategy where allocators expect reduced underwriting noise.
 
@@ -105,7 +108,8 @@ Filter 5: Stewardship Signaling Institutional allocators respond to CEOs who pos
 
 The highest performing CEOs frame stewardship as the minimization of loss, waste, and entropy in capital systems.
 
-This aligns with **Proverbs 13:22** which reinforces the idea of generational resource transfer and capital responsibility.
+This aligns with **Proverbs 13:22*
+* which reinforces the idea of generational resource transfer and capital responsibility.
 
 These five filters form the cognitive template that allocators use to assess CEO credibility.
 
@@ -176,7 +180,8 @@ They avoid overextension, unbounded diversification, and ego driven expansion.
 
 Their decisions reflect a multi cycle perspective.
 
-They operate with the logic of asset preservation before asset multiplication. **Proverbs 22:3** reinforces this by stating that prudence anticipates risk and adjusts accordingly.
+They operate with the logic of asset preservation before asset multiplication. **Proverbs 22:3*
+* reinforces this by stating that prudence anticipates risk and adjusts accordingly.
 
 Institutional allocators, especially UHNW family offices and foundations, look for stewardship signals as proof of fiduciary maturity.
 

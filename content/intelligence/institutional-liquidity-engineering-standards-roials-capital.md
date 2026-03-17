@@ -42,7 +42,8 @@ The framework below defines the institutional standards that govern every Asset-
 
 This is not a template.
 
-It is a jurisdictional blueprint for allocators who operate above retail noise and below sovereign glare. **Proverbs 13:22** .
+It is a jurisdictional blueprint for allocators who operate above retail noise and below sovereign glare. **Proverbs 13:22*
+* .
 
 The architecture is divided into four operational pillars. 
 -  Capital Formation (80%) 
@@ -180,7 +181,8 @@ Our targeting matrix prioritizes:
 -  U.S. family offices with programmatic exposure 
 -  Middle Eastern sovereign sub‑units (non‑headline mandates) Each profile receives a tailored capital narrative.
 
-Retargeting cycles are compressed to 14‑17 days. 
+Retargeting cycles are compressed to 14‑1
+7 days. 
 
 2. Buyout & Add‑On Capital Discipline Fund‑III must demonstrate precision acquisition behavior: 
 -  Fast underwriting 
@@ -423,6 +425,7 @@ Terminal Metric: Enforcement Coherence Index =
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

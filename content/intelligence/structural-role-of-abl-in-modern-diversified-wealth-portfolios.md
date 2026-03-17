@@ -62,7 +62,9 @@ The objective is to calculate real time collateral behavior rather than rely on 
 
 This intrinsic data orientation positions ABL as one of the most predictable credit structures for allocators operating in volatile macro conditions. 
 
-2. LTV Curve Dynamics Institutional ABL rarely exceeds a 55 to 65 percent LTV.
+2. LTV Curve Dynamics Institutional ABL rarely exceeds a 5
+5 to 6
+5 percent LTV.
 
 This creates two structural advantages. 
 -  It generates downside protection irrespective of macro conditions. 
@@ -125,7 +127,8 @@ The ABL function supports Fund-III by enabling:
 
 It is both an operational and moral framework.
 
-The allocator who applies a stewardship filter prioritizes capital structures that preserve value, prevent degradation, and reinforce the integrity of the underlying assets. **Proverbs 13:22** speaks to the generational logic of capital.
+The allocator who applies a stewardship filter prioritizes capital structures that preserve value, prevent degradation, and reinforce the integrity of the underlying assets. **Proverbs 13:22*
+* speaks to the generational logic of capital.
 
 Stewardship avoids overextension, prioritizes capital resilience, and aligns technical structures with long term stability.
 

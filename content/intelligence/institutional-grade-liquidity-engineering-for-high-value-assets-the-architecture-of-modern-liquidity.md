@@ -76,12 +76,15 @@ HNWI and UHNW clients require Capital Structuring solutions that are clean, fast
 
 Roials Capital delivers this through private credit Institutional Liquidity Paths, asset based Capital Structuring, crypto-backed financing, and public share Institutional Liquidity Paths.
 
-With minimum thresholds of 2,000,000 USD for crypto and 5,000,000 USD for public equities, we maintain the structural clarity our ecosystem requires.
+With minimum thresholds of 2,000,00
+0 USD for crypto and 5,000,00
+0 USD for public equities, we maintain the structural clarity our ecosystem requires.
 
 If your asset architecture warrants institutional grade liquidity, we provide the framework. # 
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

@@ -26,13 +26,16 @@ The compliance-driven capital stack forces banks to prioritize only the lowest-v
 
 As a result, mid-market operators experience a widening credit gap regardless of cash flow stability or asset quality. 
 
-2. Duration Mismatch Avoidance Banks have tightened their exposure to longer-duration private loans after the 2023 interest rate shocks.
+2. Duration Mismatch Avoidance Banks have tightened their exposure to longer-duration private loans after the 202
+3 interest rate shocks.
 
 They prefer short-reset instruments, leaving private credit funds to provide multi-year structures needed for buyouts and strategic add-ons. 
 
 3. Sponsor Demand Exceeding Bank Capacity Private equity sponsors require predictable execution velocity.
 
-Banks cannot commit to 60 to 90 day closings under stress-tested lending conditions.
+Banks cannot commit to 6
+0 to 9
+0 day closings under stress-tested lending conditions.
 
 Private credit funds therefore absorb the operational bandwidth and timeline expectations. 
 
@@ -122,7 +125,9 @@ Roials facilitates introductions to institutional lenders capable of providing c
 
 3. Special Mandates The remaining allocation focuses on large-ticket mandates.
 
-This includes the NAEOC energy tranche ranging from 50 million to 250 million USD, and regulated acquisition financing under EU MiFID II.
+This includes the NAEOC energy tranche ranging from 5
+0 million to 25
+0 million USD, and regulated acquisition financing under EU MiFID II.
 
 These mandates require specialized structuring expertise and operator alignment.
 
@@ -144,7 +149,8 @@ Capital is not used to compensate for structural inefficiencies.
 
 2. Balance sheet optimization Operators must demonstrate the ability to manage leverage without eroding asset stability.
 
-This aligns with the principle in **Proverbs 13:22** , where the preservation of generational value is linked to disciplined management. 
+This aligns with the principle in **Proverbs 13:22*
+* , where the preservation of generational value is linked to disciplined management. 
 
 3. Asset hardening Long-term assets should be fortified through technical investment, not exhausted for short-term gain.
 
@@ -182,6 +188,7 @@ The objective is to align institutional capital with the correct liquidity archi
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

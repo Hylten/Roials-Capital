@@ -12,7 +12,8 @@ Production reservoirs remain stable.
 
 Access to institutional capital does not.
 
-This mismatch between geological certainty and capital availability is the foundational inefficiency that continues to define the 2026 energy landscape.
+This mismatch between geological certainty and capital availability is the foundational inefficiency that continues to define the 202
+6 energy landscape.
 
 Allocators who understand this regime shift are not making directional price bets.
 
@@ -198,7 +199,8 @@ Proper stewardship extends productive life.
 
 This includes optimized drilling schedules, reduced surface disturbance, and intelligent thermal mapping.
 
-This aligns with the theological principle referenced in **Proverbs 13:22** which reflects the multi generational orientation of responsible asset management.
+This aligns with the theological principle referenced in **Proverbs 13:22*
+* which reflects the multi generational orientation of responsible asset management.
 
 The allocator is not speculating on price volatility.
 

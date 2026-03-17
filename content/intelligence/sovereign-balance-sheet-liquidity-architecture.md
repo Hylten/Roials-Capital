@@ -78,7 +78,11 @@ Predictability is engineered through four mechanisms.
 
 1. LTV CURVES Sovereign-grade underwriting begins with asset-specific LTV curves that tighten during acceleration and widen during stabilization.
 
-An engineered curve for Fund-III buyouts should sit between 28 and 42 percent on hard-asset supported targets, and between 40 and 55 percent on cash-flow stabilized platforms.
+An engineered curve for Fund-III buyouts should sit between 2
+8 and 4
+2 percent on hard-asset supported targets, and between 4
+0 and 5
+5 percent on cash-flow stabilized platforms.
 
 LTV is not a ratio; it is a signal of discipline. 
 
@@ -87,7 +91,8 @@ LTV is not a ratio; it is a signal of discipline.
 A functional waterfall has three rules. 
 -  Rule 1: Senior obligations must remain senior under every stress scenario. 
 -  Rule 2: Operating cash is insulated from GP discretion. 
--  Rule 3: Free cash must be converted into asset-backed liquidity within 90 days.
+-  Rule 3: Free cash must be converted into asset-backed liquidity within 9
+0 days.
 
 This is how sovereign treasuries operate.
 
@@ -101,7 +106,8 @@ A sovereign-grade recovery factor is built on:
 -  real-asset floor values 
 -  forced-sale discount modeling 
 -  multi-jurisdictional enforcement integrity 
--  extraction timelines under 120 days Recovery is not an event.
+-  extraction timelines under 12
+0 days Recovery is not an event.
 
 It is a precondition. 
 
@@ -158,7 +164,8 @@ LPs respond when the GP shows evidence of:
 
 It is a liquidity amplifier.
 
-At 10 percent of strategic focus, Monetization Architecture will create disproportionate resilience.
+At 1
+0 percent of strategic focus, Monetization Architecture will create disproportionate resilience.
 
 The very existence of an Asset-Based Lending track record signals sovereign discipline.
 
@@ -184,9 +191,12 @@ A true sovereign balance sheet is not built on leverage.
 
 It is built on alignment with the original design of capital stewardship.
 
-Scripture is explicit about this order. **Proverbs 13:22** 
--  A good man leaves an inheritance to his children's children. **Luke 16:10** 
--  He that is faithful in the least is faithful also in much. **Proverbs 21:5** 
+Scripture is explicit about this order. **Proverbs 13:22*
+* 
+-  A good man leaves an inheritance to his children's children. **Luke 16:10*
+* 
+-  He that is faithful in the least is faithful also in much. **Proverbs 21:5*
+* 
 -  The plans of the diligent lead surely to abundance.
 
 The sovereign balance sheet does not chase returns.
@@ -217,11 +227,13 @@ This is the voice that sovereign LPs trust. ##
 
 The final metric is single-variable.
 
-Time to cash conversion: 71 days. # 
+Time to cash conversion: 7
+1 days. # 
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Request confidential capital audit.
 

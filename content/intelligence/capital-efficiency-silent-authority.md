@@ -132,7 +132,9 @@ Recovery Factors Collateral quality is not moral.
 
 Recovery factors dictate whether the institution can borrow silently without diluting governance.
 
-Functional recovery sits between 38 percent and 82 percent depending on asset class.
+Functional recovery sits between 3
+8 percent and 8
+2 percent depending on asset class.
 
 Hard energy assets sit higher.
 
@@ -220,7 +222,8 @@ It is moral.
 
 Waste is sin.
 
-Misallocated capital is misused stewardship. **Proverbs 13:22** speaks of inheritance across generations.
+Misallocated capital is misused stewardship. **Proverbs 13:22*
+* speaks of inheritance across generations.
 
 It is not about wealth accumulation.
 
@@ -270,6 +273,7 @@ Conduct the confidential capital audit. #
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

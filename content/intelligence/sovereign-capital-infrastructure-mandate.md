@@ -104,17 +104,22 @@ They model political acceptability.
 
 That destroys credit efficiency.
 
-An oil and gas field with 32 percent natural decline rate and stabilized lifting costs does not care about electoral cycles.
+An oil and gas field with 3
+2 percent natural decline rate and stabilized lifting costs does not care about electoral cycles.
 
 It cares about reservoir performance and counterparty reliability.
 
-A sovereign that prices assets politically instead of technically forfeits 200 to 600 basis points of credit spread efficiency. 
+A sovereign that prices assets politically instead of technically forfeits 20
+0 to 60
+0 basis points of credit spread efficiency. 
 
 2. Cash flow waterfalls for public infrastructure.
 
 Most public infrastructure operates on linear budget flows instead of tiered priority stacks.
 
-If an airport, port, or energy corridor ran a private-style waterfall, recovery factors would rise 12 to 28 percent.
+If an airport, port, or energy corridor ran a private-style waterfall, recovery factors would rise 1
+2 to 2
+8 percent.
 
 Capital would re-enter the system.
 
@@ -226,7 +231,9 @@ The fiscal spine does not. ## ## ## ##
 
 Stewardship is operational constraint.
 
-The theology of capital is simple: resources mismanaged will be reallocated. **Proverbs 13:22** establishes the generational mandate. **Psalm 24:1** reminds us of the ownership hierarchy.
+The theology of capital is simple: resources mismanaged will be reallocated. **Proverbs 13:22*
+* establishes the generational mandate. **Psalm 24:1*
+* reminds us of the ownership hierarchy.
 
 We manage.
 
@@ -304,6 +311,7 @@ For LPs, family offices, and institutional allocators requiring a confidential c
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

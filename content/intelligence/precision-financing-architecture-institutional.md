@@ -30,7 +30,8 @@ In private equity buyouts, it emerges as structurally delayed underwriting cycle
 
 2. Balance sheet compression at regional North American banks has reduced appetite for complex credit exposures.
 
-The withdrawal is not driven by credit risk but by regulatory recalibration that prioritizes Tier 1 capital preservation over middle market growth exposure. 
+The withdrawal is not driven by credit risk but by regulatory recalibration that prioritizes Tier 
+1 capital preservation over middle market growth exposure. 
 
 3. Cost of capital divergence has reintroduced spread volatility between institutional lenders and traditional commercial banks.
 
@@ -156,7 +157,8 @@ It is the responsible governance of resource allocation.
 
 Across institutional mandates, stewardship takes four forms. 
 
-1. Non wasteful Resource Management Capital must be directed into projects where the operational output justifies the resource consumption. **Proverbs 13:22** outlines the generational obligation to steward assets responsibly. 
+1. Non wasteful Resource Management Capital must be directed into projects where the operational output justifies the resource consumption. **Proverbs 13:22*
+* outlines the generational obligation to steward assets responsibly. 
 
 2. Systemic Risk Reduction Structures must be engineered to prevent unnecessary exposure to liquidity shocks or counterparty dependencies. 
 

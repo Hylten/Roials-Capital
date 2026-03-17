@@ -145,7 +145,8 @@ In private capital this principle is often overlooked because liquidity is assum
 
 Stewardship applies three constraints. 
 
-1. Non wasteful resource deployment This principle aligns with **Proverbs 13:22** .
+1. Non wasteful resource deployment This principle aligns with **Proverbs 13:22*
+* .
 
 Capital held in non productive form diminishes operational influence.
 

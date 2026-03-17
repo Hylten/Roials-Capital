@@ -134,7 +134,8 @@ We elevate it to a full architectural system.
 
 ## Crypto Capital Structuring: Thresholds and Institutional Controls Crypto Capital Structuring is viable only when executed with institutional control.
 
-We enforce a minimum threshold of 2,000,000 dollars.
+We enforce a minimum threshold of 2,000,00
+0 dollars.
 
 This requirement is not arbitrary.
 
@@ -155,7 +156,8 @@ It is a controlled liquidity engine designed for portfolios that already operate
 
 Market liquidity is deep, but price behavior can be influenced by event cycles, macro shifts, or idiosyncratic catalysts.
 
-Our threshold is a minimum of 5,000,000 dollars in public equity positions.
+Our threshold is a minimum of 5,000,00
+0 dollars in public equity positions.
 
 This ensures the portfolio is sufficiently capitalized to support a stable Capital Structuring structure.
 
@@ -234,8 +236,10 @@ They are filters.
 They ensure that every participant in the system contributes to its structural quality.
 
 ROIALS CAPITAL maintains: 
--  2,000,000 minimum for crypto Monetization Architecture. 
--  5,000,000 minimum for public share Monetization Architecture. 
+-  2,000,00
+0 minimum for crypto Monetization Architecture. 
+-  5,000,00
+0 minimum for public share Monetization Architecture. 
 -  Private credit and Asset-Based Lending engagements calibrated at institutional scale.
 
 Thresholds define the ecosystem.
@@ -315,6 +319,7 @@ This is the architecture that governs elite capital.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

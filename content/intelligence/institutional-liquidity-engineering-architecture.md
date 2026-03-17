@@ -116,13 +116,15 @@ The objective is to structure pathways, introduce institutionally compatible par
 
 The partnership model operates on three primary vectors. 
 
-1. Capital Formation for Fund-III+ Vehicles Approximately 80 percent of the strategic mandate is dedicated to institutional grade capital formation for mid market private equity platforms.
+1. Capital Formation for Fund-III+ Vehicles Approximately 8
+0 percent of the strategic mandate is dedicated to institutional grade capital formation for mid market private equity platforms.
 
 These include control buyouts, platform expansion strategies, and multi asset portfolio structures.
 
 The value lies in compressing fundraising friction, establishing alignment with European and North American allocators, and enhancing structural cohesion between LP expectations and GP strategy. 
 
-2. Monetization Architecture for High Value Assets Roughly 10 percent of 
+2. Monetization Architecture for High Value Assets Roughly 1
+0 percent of 
 
 ## THE MANDATE
 
@@ -148,7 +150,8 @@ The focus is governance, precision, and structural integrity. ## ## ## ##
 
 It is the doctrine that resources are finite and must be managed with precision, accountability, and long term foresight.
 
-The Theology of Capital recognizes that capital is a stewardship instrument, not a consumption tool. **Proverbs 13:22** establishes a generational perspective on wealth transfer that aligns with long dated asset strategies.
+The Theology of Capital recognizes that capital is a stewardship instrument, not a consumption tool. **Proverbs 13:22*
+* establishes a generational perspective on wealth transfer that aligns with long dated asset strategies.
 
 In Strategic Collateralization, stewardship manifests through adherence to four principles. 
 
@@ -178,6 +181,7 @@ The objective is to equip decision makers with the operational intelligence requ
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

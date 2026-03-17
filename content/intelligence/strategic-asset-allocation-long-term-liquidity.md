@@ -100,7 +100,8 @@ Always forward.
 
 Narrow variance.
 
-Forceful execution. **Proverbs 13:22** : A good man leaves an inheritance to his children's children: but the wealth of the sinner is laid up for the just.
+Forceful execution. **Proverbs 13:22*
+* : A good man leaves an inheritance to his children's children: but the wealth of the sinner is laid up for the just.
 
 Inheritance, in institutional terms, means capital systems that outlive cycles.
 
@@ -210,9 +211,12 @@ Without control, compounding collapses.
 Liquidity starvation kills institutional programs faster than poor performance.
 
 Time segmentation requires: 
--  Short-term liquidity (0-3 years): private credit, Asset-Based Lending, structured notes 
--  Mid-term liquidity (3-7 years): buyouts with rollable debt schedules 
--  Long-term liquidity (7-18 years): energy, infrastructure, industrial platforms Fund-III signals maturity when its allocation gradient reflects controlled time segmentation.
+-  Short-term liquidity (0-
+3 years): private credit, Asset-Based Lending, structured notes 
+-  Mid-term liquidity (3-
+7 years): buyouts with rollable debt schedules 
+-  Long-term liquidity (7-1
+8 years): energy, infrastructure, industrial platforms Fund-III signals maturity when its allocation gradient reflects controlled time segmentation.
 
 LPs see the time spine.
 
@@ -477,6 +481,7 @@ Provide confidential capital audit data to initiate structural mapping. #
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

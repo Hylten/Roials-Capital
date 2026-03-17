@@ -118,8 +118,10 @@ Asset-Based Lending structures answer a core HNWI problem: How do I monetize ass
 ROIALS CAPITAL operates in this space with principal authority, providing Asset-Based Lending frameworks against sophisticated asset classes including private credit positions, crypto assets, and public equity holdings.
 
 The thresholds reflect the institutional nature of the architecture: 
--  Crypto Asset-Backed Frameworks: minimum threshold 2,000,000 
--  Public Share Asset-Backed Frameworks: minimum threshold 5,000,000 These floors preserve the integrity of institutional underwriting.
+-  Crypto Asset-Backed Frameworks: minimum threshold 2,000,00
+0 
+-  Public Share Asset-Backed Frameworks: minimum threshold 5,000,00
+0 These floors preserve the integrity of institutional underwriting.
 
 They also ensure that the structures remain aligned with the needs of high net worth and ultra high net worth portfolios. 
 
@@ -213,8 +215,10 @@ We operate in a separate lane: asset-backed private credit for sophisticated ass
 Our frameworks include: 
 -  asset-based Institutional Liquidity Paths across complex collateral classes 
 -  private credit structures for liquidity extraction 
--  dedicated crypto-backed Strategic Collateralization above 2,000,000 
--  public share Monetization Architecture above 5,000,000 
+-  dedicated crypto-backed Strategic Collateralization above 2,000,00
+0 
+-  public share Monetization Architecture above 5,000,00
+0 
 -  engineered liquidity architecture for HNWI and UHNW portfolios The focus is structural precision.
 
 The tone is institutional.
@@ -271,6 +275,7 @@ We engineer liquidity for portfolios that require institutional intelligence rat
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

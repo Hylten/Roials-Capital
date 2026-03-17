@@ -14,7 +14,8 @@ In the current regime, ABL functions not as a niche credit instrument but as an 
 
 ## THE REGIME SHIFT
 
- The post 2020 era initiated a structural divergence between credit availability and real asset productivity.
+ The post 202
+0 era initiated a structural divergence between credit availability and real asset productivity.
 
 Bank retrenchment followed Basel III reforms and their European equivalents, producing a systematic constraint on collateral based lending even in cases where asset productivity remained strong.
 
@@ -69,9 +70,15 @@ Common categories include:
 2. LTV curve optimization Loan to Value ratios are not static percentages but curves adjusted for asset type, industry volatility, and borrower discipline.
 
 Typical curves include: 
--  70 to 90 percent for diversified receivables 
--  40 to 60 percent for inventory with verified turnover 
--  50 to 75 percent for equipment with strong residual values Precision in LTV calibration produces predictable cash flow behavior across credit cycles. 
+-  7
+0 to 9
+0 percent for diversified receivables 
+-  4
+0 to 6
+0 percent for inventory with verified turnover 
+-  5
+0 to 7
+5 percent for equipment with strong residual values Precision in LTV calibration produces predictable cash flow behavior across credit cycles. 
 
 3. Controlled cash flow waterfalls ABL facilities rely on disciplined cash flow waterfalls that prioritize principal stability.
 
@@ -110,11 +117,14 @@ THE PARTNERSHIP MODEL ROIALS Capital operates as a strategic navigator and insti
 The role is not to originate or hold ABL assets but to provide allocators with operational intelligence, structural clarity, and curated access to counterparties aligned with institutional risk disciplines.
 
 In the broader capital raising framework, the allocation focus aligns as follows. 
--  80 percent: Kapitalanskaffning for Fund-III and successor buyout or add on environments.
+-  8
+0 percent: Kapitalanskaffning for Fund-III and successor buyout or add on environments.
 
 This includes institutional introductions and capital stack optimization for large scale acquisition agendas. 
--  10 percent: ABL as a Liquidity Engineering mechanism that stabilizes acquisition portfolios and supports operating company agility. 
--  10 percent: Special mandates including North American Energy Optimization Capital and MiFID II compliant European acquisition frameworks.
+-  1
+0 percent: ABL as a Liquidity Engineering mechanism that stabilizes acquisition portfolios and supports operating company agility. 
+-  1
+0 percent: Special mandates including North American Energy Optimization Capital and MiFID II compliant European acquisition frameworks.
 
 ABL is integrated as a functional liquidity layer, not a standalone product.
 
@@ -134,7 +144,8 @@ Stewardship aligns with a theology of capital in which capital is treated as a l
 
 ABL naturally supports this principle through its collateral anchored structure. 
 
-2. Moral clarity in resource management Stewardship integrates the principle articulated in **Proverbs 13:22** which frames intergenerational capital as both responsibility and inheritance.
+2. Moral clarity in resource management Stewardship integrates the principle articulated in **Proverbs 13:22*
+* which frames intergenerational capital as both responsibility and inheritance.
 
 In institutional terms, this translates to maintaining balance sheets that endure across cycles rather than pursuing short term gains. 
 

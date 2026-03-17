@@ -74,13 +74,15 @@ For multi asset liquidity systems, Asset-Based Lending provides the scalability.
 
 It expands the collateral base without destabilizing the portfolio. 
 
-## Public Share Strategic Collateralization at a Minimum Threshold of 5 Million USD Public market equity is liquid, but liquidity is not the same as accessibility.
+## Public Share Strategic Collateralization at a Minimum Threshold of 
+5 Million USD Public market equity is liquid, but liquidity is not the same as accessibility.
 
 Most investors access liquidity through selling.
 
 This is inefficient for tax planning, portfolio continuity, and long term compounding.
 
-Roials Capital lends against public shares at a minimum entry threshold of 5 million USD.
+Roials Capital lends against public shares at a minimum entry threshold of 
+5 million USD.
 
 The threshold is intentional.
 
@@ -100,13 +102,15 @@ Public share Asset-Backed Frameworks becomes the fluid layer inside the multi as
 
 It is the component that can respond fastest without compromising the deeper structural layers of private credit and Asset-Based Lending. 
 
-## Crypto Asset-Backed Frameworks at a Minimum Threshold of 2 Million USD Digital assets introduce a different liquidity logic.
+## Crypto Asset-Backed Frameworks at a Minimum Threshold of 
+2 Million USD Digital assets introduce a different liquidity logic.
 
 They are inherently fluid but operationally volatile.
 
 This volatility creates opportunity, but unstructured Strategic Collateralization against crypto can destabilize an entire portfolio if handled without precision.
 
-Roials Capital lends against crypto at a minimum threshold of 2 million USD.
+Roials Capital lends against crypto at a minimum threshold of 
+2 million USD.
 
 Below this level, volatility noise masks the signal.
 
@@ -245,6 +249,7 @@ Institutional.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

@@ -12,7 +12,8 @@ It is a structural consequence of policy inertia, institutional withdrawal, and 
 
 This vacuum has produced an environment where Sovereign Asset Hardening has shifted from a niche specialist discipline to a foundational requirement for allocators responsible for long duration capital.
 
-The allocator operating in 2026 is navigating an economic order shaped less by asset availability and more by capital access asymmetries and the velocity of regulatory recalibration.
+The allocator operating in 202
+6 is navigating an economic order shaped less by asset availability and more by capital access asymmetries and the velocity of regulatory recalibration.
 
 The lowest volatility opportunities are not found in emergent technologies but in undercapitalized assets with measurable physics, proven decline rates, and predictable operating envelopes.
 
@@ -24,7 +25,8 @@ It is structural: the progression from unsecured optionality to hardened, collat
 
 ## THE REGIME SHIFT
 
- The post 2020 capital landscape reflects a movement from speculative capital abundance to scarcity driven selectivity.
+ The post 202
+0 capital landscape reflects a movement from speculative capital abundance to scarcity driven selectivity.
 
 Allocators with sovereign scale have observed three forces that now define the institutional operating regime. 
 
@@ -64,7 +66,8 @@ Allocators are increasingly securing exposure to real cash flow, collateral anch
 
 The core mechanics fall into three domains. 
 
-1. Buyouts and Add on Accretive Platforms This domain represents approximately 80 percent of current allocator demand.
+1. Buyouts and Add on Accretive Platforms This domain represents approximately 8
+0 percent of current allocator demand.
 
 The focus is on middle market platforms with definable competitive moats and low reinvestment risk.
 
@@ -86,7 +89,8 @@ Selection of platforms that can demonstrate repeatable procurement, pricing powe
 
 Mechanisms for absorbing temporary drawdowns without diluting long term ownership or introducing destabilizing creditor interests. 
 
-2. Strategic Collateralization and Asset Backed Lending This domain represents approximately 10 percent of the focus.
+2. Strategic Collateralization and Asset Backed Lending This domain represents approximately 1
+0 percent of the focus.
 
 Strategic Collateralization is the use of structured credit to convert illiquid operational assets into predictable capital access channels.
 
@@ -109,7 +113,8 @@ Maintaining LTV ratios aligned with institutional expectations while retaining a
 
 The speed with which liquidity can be generated without degrading asset integrity. 
 
-3. North American Energy Asset Hardening This domain constitutes the remaining 10 percent and is executed through partnership with NAEO, a technical operator specializing in Canadian heavy oil, conventional production systems, and asset consolidation across Alberta.
+3. North American Energy Asset Hardening This domain constitutes the remaining 1
+0 percent and is executed through partnership with NAEO, a technical operator specializing in Canadian heavy oil, conventional production systems, and asset consolidation across Alberta.
 
 This is not a commodity speculation strategy.
 
@@ -168,7 +173,8 @@ The function is strategic alignment and counterpart calibration. ## ## ## ##
 
 Stewardship involves the disciplined management of capital, operational assets, and long term risk exposures.
 
-It draws on a principle embedded in **Proverbs 13:22** , which emphasizes continuity across generations.
+It draws on a principle embedded in **Proverbs 13:22*
+* , which emphasizes continuity across generations.
 
 The Stewardship Filter includes: 
 -  Non wasteful capital deployment.
@@ -215,6 +221,7 @@ The objective is to provide clarity on the operational regime and introduce the 
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

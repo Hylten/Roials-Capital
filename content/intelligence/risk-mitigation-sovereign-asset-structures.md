@@ -164,7 +164,8 @@ This partnership model creates risk transparency across the entire decision chai
 
 ## THE STEWARDSHIP FILTER Stewardship is a discipline that treats capital as a resource to be managed, not consumed.
 
-It is aligned with the principle found in **Proverbs 13:22** which emphasizes the intergenerational responsibility of resource allocation.
+It is aligned with the principle found in **Proverbs 13:22*
+* which emphasizes the intergenerational responsibility of resource allocation.
 
 For institutional allocators, stewardship manifests through: 
 

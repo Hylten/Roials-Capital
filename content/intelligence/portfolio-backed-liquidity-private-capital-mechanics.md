@@ -18,7 +18,8 @@ This vacuum defines the modern regime for allocators who seek exposure to real o
 
 The modern private capital landscape is defined by: 
 -  Basel III and IV constraints that have compressed bank balance sheet flexibility across commercial and industrial credit. 
--  A contraction in traditional amortizing debt issuance for operating companies under 500 million EBITDA. 
+-  A contraction in traditional amortizing debt issuance for operating companies under 50
+0 million EBITDA. 
 -  A structural mismatch between corporate liquidity needs and institutional capital pacing. 
 -  A transition toward private credit dominance in sectors once funded by commercial banks.
 
@@ -26,7 +27,9 @@ The consequence is a bifurcated capital system.
 
 Large private equity sponsors with multi billion platforms retain frictionless access to credit markets.
 
-Middle market operators with 20 to 300 million EBITDA face a scarcity environment that has little connection to actual operational resilience.
+Middle market operators with 2
+0 to 30
+0 million EBITDA face a scarcity environment that has little connection to actual operational resilience.
 
 This scarcity is magnified in North American energy.
 
@@ -36,7 +39,8 @@ Yet the operators with the most predictable decline curves and the most transpar
 
 The Alberta energy landscape is a case study in this misalignment.
 
-Capital inflows into traditional heavy oil assets collapsed after 2015 not because of resource risk but because global asset managers pivoted toward ESG scoring models that relied on optics rather than reservoir mechanics.
+Capital inflows into traditional heavy oil assets collapsed after 201
+5 not because of resource risk but because global asset managers pivoted toward ESG scoring models that relied on optics rather than reservoir mechanics.
 
 The result is a durable multi billion capital shortage across assets that carry the lowest technical uncertainty in the North American energy complex.
 
@@ -137,7 +141,8 @@ The Roials Capital model ensures that the operator's governance structure and te
 
 It is a discipline of capital preservation rooted in non wasteful resource management.
 
-The Theology of Capital frames stewardship as the pursuit of stability in systems that can degrade through mismanagement. **Proverbs 13:22** references the transgenerational nature of responsible capital deployment.
+The Theology of Capital frames stewardship as the pursuit of stability in systems that can degrade through mismanagement. **Proverbs 13:22*
+* references the transgenerational nature of responsible capital deployment.
 
 Stewardship in private markets is the practice of protecting assets from operational entropy.
 
@@ -151,7 +156,8 @@ For allocators, stewardship means:
 -  Prioritizing capital partners with transparent decline curve data. 
 -  Avoiding liquidity exposure to jurisdictions with political volatility. 
 -  Structuring pacing models that do not force premature exits. 
--  Ensuring governance systems are built for 20 year visibility, not quarterly cycles.
+-  Ensuring governance systems are built for 2
+0 year visibility, not quarterly cycles.
 
 Stewardship is the differentiator that separates responsible operators from opportunistic market participants.
 
@@ -187,7 +193,9 @@ Modern structures include contracted cash flow, repetitive production, and forwa
 
 Collateral transforms from static balance sheet items into dynamic cash flow engines. 
 
-3. Special Mandates NAEO structures for 50 million to 250 million mandates rely on thermal and conventional heavy oil portfolios with predictable reservoir performance.
+3. Special Mandates NAEO structures for 5
+0 million to 25
+0 million mandates rely on thermal and conventional heavy oil portfolios with predictable reservoir performance.
 
 European MiFID II acquisition mandates require cross border structuring fluency, regulatory compliance, and capital pacing designed for EU institutional allocators.
 
@@ -231,6 +239,7 @@ A confidential strategy audit or portfolio calibration session is typically the 
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

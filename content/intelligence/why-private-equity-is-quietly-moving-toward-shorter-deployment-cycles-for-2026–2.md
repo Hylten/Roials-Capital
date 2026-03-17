@@ -116,7 +116,8 @@ Deals close faster.
 
 Capital deploys earlier. 
 
-7. TIER‑1 GPs FACE A NEW EXPECTATION: CONTINUOUS MOTION A GP who pauses becomes a GP who weakens.
+7. TIER‑
+1 GPs FACE A NEW EXPECTATION: CONTINUOUS MOTION A GP who pauses becomes a GP who weakens.
 
 LPs require momentum because momentum reveals discipline.
 
@@ -179,7 +180,9 @@ It is strategic.
 It is advantageous for those who understand its mechanics.
 
 Our Fund‑III partners across North America and Europe have already begun: 
--  2026-2028 vintages running 18-30 month deployment windows. 
+-  2026-202
+8 vintages running 18-3
+0 month deployment windows. 
 -  Add‑on pipelines pre‑underwritten before fund close. 
 -  Direct industrial lending aligned to transaction tempo. 
 -  Cross‑border legal harmonization eliminating time waste.
@@ -206,7 +209,8 @@ We reinforce the GP’s architecture:
 
 5. Fully aligned private credit partners 
 
-6. Add‑on ecosystems mapped 18 months ahead Deployment speed becomes the strongest fundraising signal for Fund‑III and Fund‑IV entries.
+6. Add‑on ecosystems mapped 1
+8 months ahead Deployment speed becomes the strongest fundraising signal for Fund‑III and Fund‑IV entries.
 
 You raise because you are active.
 
@@ -240,7 +244,8 @@ The flywheel tightens.
 
 ## THE REALITY NO ONE STATES PUBLICLY Private equity is abandoning the five‑year deployment window because it no longer reflects how value is created.
 
-Modern operators produce observable performance improvements within 12,24 months.
+Modern operators produce observable performance improvements within 12,2
+4 months.
 
 Add‑ons accelerate the curve further.
 
@@ -250,7 +255,8 @@ What once required years now requires discipline.
 
 And discipline compresses time. 
 
-## THE 2026-2028 OUTLOOK The most important insight for principals: the compression trend is not cyclical.
+## THE 2026-202
+8 OUTLOOK The most important insight for principals: the compression trend is not cyclical.
 
 It is generational.
 

@@ -92,7 +92,9 @@ The mechanics operate along three axes:
 
 1. LTV CURVES Tokenized units allow LTV curves to be recalibrated in real time as new data flows in from property operations, insurance events, third party valuations, or covenant performance.
 
-A standard 55 percent LTV on stabilized multifamily can be pulled to 62 percent without increasing risk if the lender receives real time operational proof rather than quarterly reporting.
+A standard 5
+5 percent LTV on stabilized multifamily can be pulled to 6
+2 percent without increasing risk if the lender receives real time operational proof rather than quarterly reporting.
 
 The firm uses LTV as a precision instrument.
 
@@ -194,7 +196,8 @@ It is the disciplined avoidance of waste.
 
 Capital misallocated is capital violated.
 
-The firm applies a stewardship filter to every deployment decision. **Proverbs 13:22** sets the template.
+The firm applies a stewardship filter to every deployment decision. **Proverbs 13:22*
+* sets the template.
 
 Wealth passes across generations only when it is placed under structures that preserve integrity and order.
 
@@ -222,11 +225,13 @@ They amplify.
 
 They serve. ## 
 
-## EXIT Projected collateral clearance window inside tokenized structures: 4.7 hours. # 
+## EXIT Projected collateral clearance window inside tokenized structures: 4.
+7 hours. # 
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Request confidential capital audit.
 

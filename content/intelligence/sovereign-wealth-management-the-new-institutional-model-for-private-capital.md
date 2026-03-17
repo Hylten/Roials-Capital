@@ -172,7 +172,8 @@ Roials Capital functions at the intersection.
 
 We provide crypto backed Capital Structuring with institutional grade thresholds.
 
-The minimum threshold is 2,000,000 dollars.
+The minimum threshold is 2,000,00
+0 dollars.
 
 This threshold is deliberate.
 
@@ -192,7 +193,8 @@ The portfolio remains structurally intact, unaffected by short term volatility.
 
 Yet it is often underutilized by private clients due to lender restrictions, regulatory overlays, and risk modeling constraints.
 
-Roials Capital provides Strategic Collateralization against public equities with a minimum threshold of 5,000,000 dollars.
+Roials Capital provides Strategic Collateralization against public equities with a minimum threshold of 5,000,00
+0 dollars.
 
 This is not margin Strategic Collateralization.
 
@@ -314,6 +316,7 @@ It is built for those who treat capital as architecture, not speculation. #
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

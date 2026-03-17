@@ -15,7 +15,8 @@ Institutional capital reads structure first, narrative second, jurisdiction thir
 Momentum comes from alignment density, not GP enthusiasm.
 
 The expansion mandate requires a unified chassis: one spine, multiple liquidity doors, zero drag. 
--  **Proverbs 13:22** sets the generational frame: a good man leaves an inheritance: capital must outlive cycle, strategy, and operator.
+-  **Proverbs 13:22*
+* sets the generational frame: a good man leaves an inheritance: capital must outlive cycle, strategy, and operator.
 
 Legacy requires structure.
 
@@ -204,7 +205,8 @@ Acquisition criteria for expansion must be narrow, sharp, and testable.
 
 Operators with heavy equipment.
 
-Cash cycles shorter than 120 days.
+Cash cycles shorter than 12
+0 days.
 
 Collateral usable in multi-Asset-Based Lending syndicates.
 
@@ -366,7 +368,8 @@ Capital always responds to structure. #
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Request confidential capital audit.
 

@@ -24,7 +24,9 @@ The objective is predictability and sovereign level stability inside private mar
 
  Institutional allocators are operating inside a post abundant capital cycle where leverage is selectively available rather than universally accessible.
 
-The long duration liquidity that defined the 2010 to 2021 window has been replaced by a structurally rationed environment shaped by five forces. 
+The long duration liquidity that defined the 201
+0 to 202
+1 window has been replaced by a structurally rationed environment shaped by five forces. 
 
 1. Policy compression across the US, Canada, and the EU that has constrained the expansion of hydrocarbon production while simultaneously increasing energy consumption baselines. 
 
@@ -116,7 +118,9 @@ The Alberta basin presents distinctive physics.
 
 Reservoir pressure profiles, steam injection behavior, and temperature gradients inside SAGD and CSS environments create predictable recovery trajectories.
 
-The recovery factor for properly managed heavy oil reservoirs ranges between 30 and 70 percent depending on viscosity, permeability, formation thickness, and thermal conformance.
+The recovery factor for properly managed heavy oil reservoirs ranges between 3
+0 and 7
+0 percent depending on viscosity, permeability, formation thickness, and thermal conformance.
 
 These parameters create a level of operational visibility that is rarely available in typical mid market industrial assets.
 
@@ -180,7 +184,8 @@ This includes senior facility design, cash flow waterfall modeling, cross collat
 
 Institutional grade stewardship is the practice of deploying capital in ways that are aligned with long term productivity, ethical resource management, and multi generational utility.
 
-It follows the biblical principle in **Proverbs 13:22** which underscores the continuity of inheritance and the responsibility of resource transfer.
+It follows the biblical principle in **Proverbs 13:22*
+* which underscores the continuity of inheritance and the responsibility of resource transfer.
 
 In practice, this means avoiding waste through operational discipline, minimizing asset degradation, and aligning capital structures with the natural behavior of the asset class.
 
@@ -218,6 +223,7 @@ For allocators requiring deeper visibility, a confidential strategy audit or por
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

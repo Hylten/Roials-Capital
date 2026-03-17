@@ -22,7 +22,8 @@ The dominant requirement is structural resilience: assets that maintain intrinsi
 
  Global allocators have entered a regime where volatility is structural, not cyclical.
 
-The capital landscape of 2026 is defined by six interlocking transitions: 
+The capital landscape of 202
+6 is defined by six interlocking transitions: 
 
 1. Regulatory divergence between North American commodity realism and European decarbonization pacing. 
 
@@ -64,7 +65,8 @@ Capital is structured so that enforcement rights, collateral claims, and cash-fl
 
 For example: 
 -  Canadian subsurface rights supported by EU holding structures 
--  UCC-1 or PPSA filings complemented by Swiss intercreditor governance 
+-  UCC-
+1 or PPSA filings complemented by Swiss intercreditor governance 
 -  Operational assets in Alberta, strategic oversight in Stockholm, treasury architectures in Dubai and Zurich This redundancy transforms a local asset into an international institutional asset. 
 
 2. Collateral Physicality Institutional allocators increasingly require that collateral have measurable physical properties.
@@ -145,7 +147,8 @@ The objective is clarity, not solicitation. ## ## ## ##
 
 It is a theology of capital, not a marketing principle.
 
-Stewardship prioritizes durability, transparency, and long horizon responsibility. **Proverbs 13:22** references the generational responsibility inherent in resource management.
+Stewardship prioritizes durability, transparency, and long horizon responsibility. **Proverbs 13:22*
+* references the generational responsibility inherent in resource management.
 
 This applies directly to cross-border asset hardening.
 
@@ -181,6 +184,7 @@ The objective is alignment, clarity, and long horizon structural advantage. #
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

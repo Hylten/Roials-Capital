@@ -14,7 +14,8 @@ This is the environment in which institutional private credit has evolved into a
 
 ## THE REGIME SHIFT
 
- Institutional allocators moving into private credit in 2026 are navigating a landscape defined by four macro variables that have altered the calculus of risk: 
+ Institutional allocators moving into private credit in 202
+6 are navigating a landscape defined by four macro variables that have altered the calculus of risk: 
 
 1. Capital Supply Compression Bank lending continues to contract due to Basel III reform drift and jurisdictional supervisory tightening.
 
@@ -142,7 +143,8 @@ Roials Capital does not promote a specific fund but instead ensures institutiona
 
 Stewardship is defined as the responsible governance of capital and resources.
 
-It aligns with the principle in **Proverbs 13:22** which emphasizes intergenerational prudence and the ethical use of assets.
+It aligns with the principle in **Proverbs 13:22*
+* which emphasizes intergenerational prudence and the ethical use of assets.
 
 The stewardship filter requires that capital: 
 -  Avoid unnecessary risk transfer 
@@ -176,6 +178,7 @@ The objective is to ensure that institutions deploy capital with clarity, techni
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

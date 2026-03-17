@@ -20,7 +20,9 @@ Across United States and European private markets, allocators observe three conv
 
 1. Regulatory drag.
 
-Basel III revisions and lender risk weighting have materially reduced the availability of revolving credit structures for acquisition ecosystems operating between 20 million and 500 million enterprise value.
+Basel III revisions and lender risk weighting have materially reduced the availability of revolving credit structures for acquisition ecosystems operating between 2
+0 million and 50
+0 million enterprise value.
 
 These firms have cash flow stability, operational scale, and identifiable asset bases, yet they encounter credit rationing that has no correlation with default risk. 
 
@@ -120,7 +122,9 @@ The engagement focuses on:
 
 These facilities are aligned with operational cadence and avoid borrower fatigue from constant covenant renegotiation. 
 
-3. Special Mandates for Advanced Energy and EU M&A For energy mandates between 50 million and 250 million, Roials Capital provides strategic introductions to NAEO, a technical operator in the Alberta energy basin with institutional grade governance.
+3. Special Mandates for Advanced Energy and EU M&A For energy mandates between 5
+0 million and 25
+0 million, Roials Capital provides strategic introductions to NAEO, a technical operator in the Alberta energy basin with institutional grade governance.
 
 Engagement centers on: 
 -  Reservoir due diligence workflows 
@@ -134,7 +138,8 @@ It is not a virtue signal.
 
 It is a structural requirement for institutional scale.
 
-Stewardship in capital markets reflects the principle articulated in **Proverbs 13:22** , where long term resource preservation supersedes short term extraction.
+Stewardship in capital markets reflects the principle articulated in **Proverbs 13:22*
+* , where long term resource preservation supersedes short term extraction.
 
 The stewardship filter evaluates all mandates by four criteria: 
 
@@ -159,12 +164,14 @@ The Roials Capital framework provides the analytical infrastructure to answer th
 
 The firm functions as a strategic partner, offering introductions to institutional grade operators and private credit partners while maintaining neutrality and compliance discipline.
 
-Allocators seeking to calibrate their portfolios for the 2026 environment often benefit from a confidential Strategy Audit, where balance sheet positioning, acquisition timing, liquidity requirements, and asset class exposure are examined through the lens of institutional Asset-Backed Frameworks.
+Allocators seeking to calibrate their portfolios for the 202
+6 environment often benefit from a confidential Strategy Audit, where balance sheet positioning, acquisition timing, liquidity requirements, and asset class exposure are examined through the lens of institutional Asset-Backed Frameworks.
 
 Roials Capital operates as a navigator within this landscape, equipping decision makers with the structural intelligence required to operate in an era defined by capital scarcity, operational complexity, and opportunity velocity. # 
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

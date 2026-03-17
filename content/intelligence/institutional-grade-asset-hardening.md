@@ -81,11 +81,14 @@ It is a decay curve.
 
 Every asset class possesses a unique degradation pattern.
 
-For buyouts at Fund-III scale, the LTV curve cannot drift more than 12 to 17 percent without triggering a capital-call or covenant break.
+For buyouts at Fund-III scale, the LTV curve cannot drift more than 1
+2 to 1
+7 percent without triggering a capital-call or covenant break.
 
 Energy acquisitions inside NAEOC mandates require an even tighter curve.
 
-Drift beyond 9 percent signals operational negligence.
+Drift beyond 
+9 percent signals operational negligence.
 
 Asset hardening is the act of controlling the LTV slope.
 
@@ -99,7 +102,8 @@ First you enforce senior cash sweep protocols.
 
 Then you lock reserve accounts.
 
-Then you run Asset-Based Lending revolvers only against verified receivables with recovery cycles below 38 days.
+Then you run Asset-Based Lending revolvers only against verified receivables with recovery cycles below 3
+8 days.
 
 Waterfalls are not administrative instruments.
 
@@ -113,7 +117,8 @@ Low recovery signals structural weakness.
 
 High recovery signals control.
 
-When underwriting energy assets inside a 50M to 250M NAEOC envelope, anything below 62 percent recovery under conservative impairment is a rejection.
+When underwriting energy assets inside a 50M to 250M NAEOC envelope, anything below 6
+2 percent recovery under conservative impairment is a rejection.
 
 Private credit allocators respond to one thing.
 
@@ -138,7 +143,8 @@ The technical stack must include:
 -  Forward-lock contractual compliance schedules 
 -  Multi-lien collateral triangulation 
 -  Predictive impairment buffers 
--  Resilience-adjusted cash-flow timing If an asset cannot withstand a liquidity compression event while maintaining at least 0.8 coverage on senior instruments, it is not investable at Fund-III scale.
+-  Resilience-adjusted cash-flow timing If an asset cannot withstand a liquidity compression event while maintaining at least 0.
+8 coverage on senior instruments, it is not investable at Fund-III scale.
 
 Capital must never carry assets that cannot carry themselves. 
 
@@ -214,7 +220,8 @@ Across these mandates, we enforce a single governing law: capital must exit stro
 
 Stewardship is not moral decoration.
 
-It is operational necessity. **Proverbs 13:22** states that the righteous leave an inheritance to their children.
+It is operational necessity. **Proverbs 13:22*
+* states that the righteous leave an inheritance to their children.
 
 Not a burden.
 
@@ -262,13 +269,16 @@ The asset must survive liquidity contraction before it qualifies for expansion.
 
 It is an engineered inevitability.
 
-The technical metric that governs every structure we deploy is this: The hardened asset must hit a minimum 1.32 survival multiple under conservative impairment assumptions with senior coverage maintained at 1.08 or greater.
+The technical metric that governs every structure we deploy is this: The hardened asset must hit a minimum 1.3
+2 survival multiple under conservative impairment assumptions with senior coverage maintained at 1.0
+8 or greater.
 
 This is the institutional threshold. # 
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Request confidential capital audit.
 

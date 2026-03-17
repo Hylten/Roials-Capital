@@ -20,7 +20,9 @@ The result is a new Institutional Archetype: the sovereign-aligned private equit
 
 ## THE REGIME SHIFT
 
- The 2024 to 2026 transition period produced a recalibrated global investment architecture.
+ The 202
+4 to 202
+6 transition period produced a recalibrated global investment architecture.
 
 Sovereign allocators increased their preference for real-asset cash flows and balance sheet transparency.
 
@@ -98,7 +100,8 @@ Effective engineering requires:
 -  Time-gated liquidity nodes to enable synchronized capital calls 
 -  Preconstructed cash-flow waterfalls for both asset-level and HoldCo structures The result is a sovereign-style infrastructure: low entropy, high control, predictable flow, minimal waste.
 
-This aligns with **Proverbs 13:22** as a principle of intergenerational capital stewardship. 
+This aligns with **Proverbs 13:22*
+* as a principle of intergenerational capital stewardship. 
 
 ## PHASE 
 

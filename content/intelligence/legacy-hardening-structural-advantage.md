@@ -20,7 +20,8 @@ It is a balance sheet discipline that converts mature, long curve assets into du
 
 The North American energy ecosystem has entered a multi year efficiency phase driven by underinvestment rather than overproduction.
 
-Since 2015, upstream and midstream operators have reduced capex intensity more than 40 percent while simultaneously extending productive life across legacy assets with stable decline curves.
+Since 2015, upstream and midstream operators have reduced capex intensity more than 4
+0 percent while simultaneously extending productive life across legacy assets with stable decline curves.
 
 Supply dynamics are not keeping pace with demand normalization.
 
@@ -62,7 +63,9 @@ Alberta's heavy oil fields operate within known basin physics.
 
 SAGD wells produce through a dual wellbore system where steam chamber uniformity controls recovery efficiency.
 
-The recovery factor in mature SAGD fields often stabilizes within a 35 to 45 percent range.
+The recovery factor in mature SAGD fields often stabilizes within a 3
+5 to 4
+5 percent range.
 
 Operators such as our strategic partner NAEO optimize this through calibrated steam oil ratios, controlled subcool parameters, and targeted infill drilling to maintain chamber continuity.
 
@@ -133,7 +136,9 @@ For European and MiFID II regulated participants, Roials supports acquisition st
 
  across Canada, the US, and selected European jurisdictions.
 
-Special mandates between 50 million USD and 250 million USD in energy follow a defined due diligence sequence based on reservoir mapping, decline calibration, and cash flow hardening procedures. ## ## ## ## 
+Special mandates between 5
+0 million USD and 25
+0 million USD in energy follow a defined due diligence sequence based on reservoir mapping, decline calibration, and cash flow hardening procedures. ## ## ## ## 
 
 ## THE STEWARDSHIP FILTER Legacy hardening is a stewardship discipline.
 
@@ -143,7 +148,8 @@ Stewardship is not sentiment.
 
 It is an operational framework that prevents capital dissipation and compels disciplined decision making.
 
-Mature energy fields, industrial businesses, and hard asset platforms demand stewards, not speculators. **Proverbs 13:22** positions resource transfer as an intergenerational principle.
+Mature energy fields, industrial businesses, and hard asset platforms demand stewards, not speculators. **Proverbs 13:22*
+* positions resource transfer as an intergenerational principle.
 
 This aligns with allocator mandates focused on wealth preservation, institutional longevity, and multi cycle resilience.
 
@@ -172,7 +178,8 @@ A confidential strategy audit with Roials Capital focuses on:
 ## INTRODUCTION
 
  pathways to NAEO for operators requiring institutional partners. 
--  Portfolio calibration to align with 2026 macro constraints and opportunity velocity cycles.
+-  Portfolio calibration to align with 202
+6 macro constraints and opportunity velocity cycles.
 
 Legacy hardening is the advantage.
 
@@ -182,6 +189,7 @@ Institutional navigation is the differentiator. [END OF BRIEFING] #
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

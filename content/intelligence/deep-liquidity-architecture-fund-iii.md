@@ -96,7 +96,8 @@ Balance sheet weaponization refers to the ability to convert leverage into cost�
 
 Add‑on compression velocity measures the speed at which the platform converts small and mid‑scale acquisitions into operational yield.
 
-Downward dispersion risk refers to the GP’s capacity to prevent valuation bleed across intertwined subsidiaries. **Proverbs 13:22** : “A good man leaves an inheritance to his children’s children: but the wealth of the sinner is laid up for the just.” In institutional architecture this translates to continuity.
+Downward dispersion risk refers to the GP’s capacity to prevent valuation bleed across intertwined subsidiaries. **Proverbs 13:22*
+* : “A good man leaves an inheritance to his children’s children: but the wealth of the sinner is laid up for the just.” In institutional architecture this translates to continuity.
 
 Continuity in mandate.
 
@@ -319,7 +320,8 @@ Institution-building requires precision.
 
 The GP must maintain three time horizons simultaneously: 
 -  Horizon Zero: immediate liquidity absorption for acquisitions. 
--  Horizon One: 18-36 month operational hardening and yield acceleration. 
+-  Horizon One: 18-3
+6 month operational hardening and yield acceleration. 
 -  Horizon Two: exit architecture and valuation crystallization.
 
 Most GPs collapse these horizons.
@@ -397,7 +399,8 @@ They demand the capacity to manufacture liquidity inside illiquid environments.
 
 Deliver this, and capital accelerates.
 
-Fail, and capital retreats. **Proverbs 13:22** hangs here with institutional weight.
+Fail, and capital retreats. **Proverbs 13:22*
+* hangs here with institutional weight.
 
 The GP must be the steward, not the speculator.
 
@@ -423,7 +426,8 @@ Provide
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Request confidential capital audit.
 

@@ -18,7 +18,8 @@ The shift is defined by the migration from generalized capital raising to instit
 
 ## THE REGIME SHIFT
 
- Private markets entered a new operational regime in 2024 to 
+ Private markets entered a new operational regime in 202
+4 to 
 
 2026. The shift is characterized by four macro dislocations that institutional allocators cite as primary drivers of liquidity reallocation. 
 
@@ -42,7 +43,8 @@ North America continues to operate under a policy environment that restricts tra
 
 This divergence between political narrative and subsurface reality created one of the most predictable capital supply shortages in the sector.
 
-It is notable that the safest barrels in 2026 remain heavy oil barrels with established decline curves and known reservoir pressure dynamics. 
+It is notable that the safest barrels in 202
+6 remain heavy oil barrels with established decline curves and known reservoir pressure dynamics. 
 
 4. European Regulatory Consolidation.
 
@@ -182,7 +184,8 @@ Allocators require full visibility into cash flow waterfalls, capital stack seni
 
 4. Intergenerational Alignment.
 
-Capital must be managed with a long horizon orientation in accordance with **Proverbs 13:22** . 
+Capital must be managed with a long horizon orientation in accordance with **Proverbs 13:22*
+* . 
 
 5. Non Wasteful Execution.
 

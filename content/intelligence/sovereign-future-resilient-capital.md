@@ -8,7 +8,8 @@ slug: "sovereign-future-resilient-capital"
 
 The capital vacuum in North America’s energy sector is a consequence of regulatory drift, not resource depletion.
 
-Allocators operating in 2026 are confronting a structural misalignment between where institutional capital concentrates and where the most predictable, physics anchored cash flows remain Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
+Allocators operating in 202
+6 are confronting a structural misalignment between where institutional capital concentrates and where the most predictable, physics anchored cash flows remain Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
 This divergence is not cyclical.
 
@@ -24,7 +25,8 @@ These principles form the basis for capital stewardship and are driving renewed 
 
  The current institutional environment is defined by three converging macro forces. 
 
-1. Capital Inefficiency Across Sectors Post 2020 regulatory shifts and ESG capital migration created a multi trillion dollar displacement from conventional resource assets.
+1. Capital Inefficiency Across Sectors Post 202
+0 regulatory shifts and ESG capital migration created a multi trillion dollar displacement from conventional resource assets.
 
 This has generated a capital light operating environment for producers across Alberta’s heavy oil corridor, permitting acquisition entry pricing to remain structurally discounted relative to reserve life index and decline curve predictability.
 
@@ -32,7 +34,8 @@ While public markets continue to reward capital discipline, private operators fa
 
 The result is an environment where off balance sheet mispricings have widened beyond their historical ranges. 
 
-2. Supply Demand Compression The underinvestment cycle that began in 2015 is now a permanent feature of the North American energy system.
+2. Supply Demand Compression The underinvestment cycle that began in 201
+5 is now a permanent feature of the North American energy system.
 
 Real supply elasticity has collapsed.
 
@@ -70,7 +73,9 @@ Alberta assets are extraction constrained rather than geologically uncertain.
 
 The reservoir physics are well understood.
 
-Recovery factors often range from 35 to 60 percent, depending on reservoir quality and thermal efficiency.
+Recovery factors often range from 3
+5 to 6
+0 percent, depending on reservoir quality and thermal efficiency.
 
 The predictability of steam oil ratios and lift cost structures gives allocators measurable downside scenarios.
 
@@ -132,7 +137,8 @@ Roials Capital supports by ensuring that institutional governance, counterparty 
 
 ## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management.
 
-It is a framework, not a slogan. **Proverbs 13:22** articulates that intergenerational capital requires governance aligned with enduring principles.
+It is a framework, not a slogan. **Proverbs 13:22*
+* articulates that intergenerational capital requires governance aligned with enduring principles.
 
 Stewardship is incompatible with speculative risk behaviors.
 

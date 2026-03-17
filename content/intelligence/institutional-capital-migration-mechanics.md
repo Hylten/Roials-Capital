@@ -191,7 +191,8 @@ In private equity, this involves managers transitioning from Fund-II to Fund-III
 
 Allocators increasingly require a stewardship framework to validate exposures.
 
-Roials Capital uses a discipline drawn from **Proverbs 13:22** as the interpretive lens: capital should outlive the allocator and generate durability for the next generation.
+Roials Capital uses a discipline drawn from **Proverbs 13:22*
+* as the interpretive lens: capital should outlive the allocator and generate durability for the next generation.
 
 The Stewardship Filter evaluates exposures through: 
 -  Resource Integrity Does the asset create lasting productive value.
@@ -229,6 +230,7 @@ Strategic alignment clarifies where allocators should be positioned before liqui
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

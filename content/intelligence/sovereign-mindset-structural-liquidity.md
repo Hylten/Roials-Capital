@@ -12,7 +12,8 @@ Control is liquidity.
 
 Liquidity is time.
 
-Time is inheritance. **Proverbs 13:22** : A good man leaves an inheritance to his children’s children.
+Time is inheritance. **Proverbs 13:22*
+* : A good man leaves an inheritance to his children’s children.
 
 Institutional scale simply formalizes that logic across jurisdictions, balance sheet architectures, and capital queues.
 
@@ -338,7 +339,8 @@ They are buying time.
 
 Generational wealth is not wealth.
 
-It is the institutionalization of liquidity across generations. **Proverbs 13:22** : A good man leaves an inheritance to his children’s children.
+It is the institutionalization of liquidity across generations. **Proverbs 13:22*
+* : A good man leaves an inheritance to his children’s children.
 
 In institutional language, inheritance is liquidity architecture.
 
@@ -390,6 +392,7 @@ Metric: LTV curvature ratio
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

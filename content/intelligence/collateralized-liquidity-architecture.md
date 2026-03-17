@@ -239,7 +239,8 @@ It is administered.
 
 Stewardship is not theology placed on top of finance.
 
-Stewardship is the only framework that prevents waste. **Proverbs 13:22** anchors 
+Stewardship is the only framework that prevents waste. **Proverbs 13:22*
+* anchors 
 
 ## THE MANDATE
 
@@ -280,7 +281,8 @@ And when waste disappears, returns stabilize. ##
 
 ## EXIT Every collateralized liquidity strategy must be judged by one metric: recovery velocity.
 
-A facility that recovers within 47 days or less outperforms the entire private credit median.
+A facility that recovers within 4
+7 days or less outperforms the entire private credit median.
 
 That is the institutional threshold.
 
@@ -288,6 +290,7 @@ For a confidential capital audit, initiate contact. #
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

@@ -158,7 +158,8 @@ In the case of NAEO, the engagement emphasizes technical reservoir intelligence,
 
 ## THE STEWARDSHIP FILTER Institutional stewardship is the discipline of non wasteful capital deployment.
 
-It is rooted in a principle articulated in **Proverbs 13:22** : the preservation of assets across generations through prudence, not speculation.
+It is rooted in a principle articulated in **Proverbs 13:22*
+* : the preservation of assets across generations through prudence, not speculation.
 
 In multi asset Asset-Backed Frameworks, stewardship is expressed through five disciplines. 
 -  Alignment: Capital is matched to its optimal asset class. 
@@ -195,6 +196,7 @@ Roials Capital operates as a strategic partner for allocators who require an int
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

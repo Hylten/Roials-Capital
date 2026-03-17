@@ -82,9 +82,11 @@ ROIALS CAPITAL’s models are designed precisely for this profile.
 
 We operate at thresholds that are aligned with sophisticated investors.
 
-Crypto Capital Structuring begins at 2,000,000 USD.
+Crypto Capital Structuring begins at 2,000,00
+0 USD.
 
-Public share Strategic Collateralization begins at 5,000,000 USD.
+Public share Strategic Collateralization begins at 5,000,00
+0 USD.
 
 These thresholds are not barriers.
 
@@ -210,6 +212,7 @@ We provide institutional grade structure with private market velocity. #
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

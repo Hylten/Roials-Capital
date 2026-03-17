@@ -6,7 +6,8 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "private-credit-liquidity-modern-foundation"
 --- 
 
-The capital vacuum in North American credit formation since 2018 is a regulatory artifact, not a deterioration of real asset quality.
+The capital vacuum in North American credit formation since 201
+8 is a regulatory artifact, not a deterioration of real asset quality.
 
 Private credit has matured into the stabilizing core of institutional portfolios because traditional lenders have exited segments of the market that still maintain robust collateral value, predictable operating performance, and stable cash generation.
 
@@ -45,7 +46,8 @@ The core has shifted from return generation to corporate navigation. ## ## ## ##
 
 ## TECHNICAL MECHANICS
 
- OF PRIVATE CREDIT AND LIQUIDITY ENGINEERING Institutional allocators evaluating private credit exposure in 2026 require precision at the technical level.
+ OF PRIVATE CREDIT AND LIQUIDITY ENGINEERING Institutional allocators evaluating private credit exposure in 202
+6 require precision at the technical level.
 
 The following mechanics define the operational intelligence underlying the modern model: Collateral Architecture Collateral is no longer evaluated as a static asset.
 
@@ -121,7 +123,8 @@ Special Mandates The special mandate architecture includes:
 
 ## THE STEWARDSHIP FILTER Stewardship is treated as a discipline rather than a concept.
 
-It is the systemic avoidance of waste within capital systems. **Proverbs 13:22** defines this principle as intergenerational stewardship through resource continuity.
+It is the systemic avoidance of waste within capital systems. **Proverbs 13:22*
+* defines this principle as intergenerational stewardship through resource continuity.
 
 The Stewardship Filter applied by Roials Capital includes: 
 -  Capital deployed only where operational intelligence exceeds market volatility 

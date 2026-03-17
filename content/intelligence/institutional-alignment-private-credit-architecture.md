@@ -128,7 +128,8 @@ Recovery factors sit at the center of this.
 
 Recovery math is where most LPs overestimate their safety.
 
-A 60 percent expected recovery is only meaningful if the asset's liquidation timeline matches the fund's liquidity runway.
+A 6
+0 percent expected recovery is only meaningful if the asset's liquidation timeline matches the fund's liquidity runway.
 
 If not, your recovery percentage is irrelevant.
 
@@ -166,7 +167,9 @@ The faster a fund can detect deviation from expected cash-flow behavior, the mor
 
 The slower the detection, the more misalignment compounds.
 
-Most default events originate 6 to 12 months before managers identify them.
+Most default events originate 
+6 to 1
+2 months before managers identify them.
 
 That delay is not technical.
 
@@ -266,7 +269,8 @@ That is a predictable failure point. ## ## ## ##
 
 Private credit is not a game of yield.
 
-It is a theology of allocation. **Proverbs 13:22** defines 
+It is a theology of allocation. **Proverbs 13:22*
+* defines 
 
 ## THE MANDATE
 
@@ -334,15 +338,19 @@ If the system tolerated drift, the exits will be distorted.
 
 The final metric is the capital integrity ratio: the percentage of fund cash flows that behave according to their original underwriting assumptions.
 
-High performing funds operate at 92 percent or higher.
+High performing funds operate at 9
+2 percent or higher.
 
-Anything below 85 percent signals structural misalignment.
+Anything below 8
+5 percent signals structural misalignment.
 
-Anything below 80 percent signals systemic failure. # 
+Anything below 8
+0 percent signals systemic failure. # 
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Request confidential capital audit.
 

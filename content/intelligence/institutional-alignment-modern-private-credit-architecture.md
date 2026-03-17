@@ -12,7 +12,8 @@ It is a consequence of institutional recalibration after fifteen years of mispri
 
 The outcome is a market defined by a scarcity of disciplined capital rather than a scarcity of viable borrowers.
 
-This is the defining condition that informs all current discussions on alignment, portfolio construction, and the repositioning of private credit within institutional mandates for 2026 to 
+This is the defining condition that informs all current discussions on alignment, portfolio construction, and the repositioning of private credit within institutional mandates for 202
+6 to 
 
 2032. 
 
@@ -28,7 +29,8 @@ Basel III, Basel IV, and regional interpretations of systemic risk controls have
 
 This is not conjectural.
 
-The regulatory drift that began in the aftermath of 2008 matured into a structural exclusion of asset heavy, cyclical, or operationally complex sectors from the conventional lending universe. 
+The regulatory drift that began in the aftermath of 200
+8 matured into a structural exclusion of asset heavy, cyclical, or operationally complex sectors from the conventional lending universe. 
 
 1. Capital Supply Restriction.
 
@@ -72,7 +74,8 @@ Within the allocations that dominate institutional mandates, three technical pil
 -  Structural seniority anchored through first ranking liens, negative pledge control, and cross collateralization across operating subsidiaries. 
 -  Covenant architecture calibrated to operational inflection points rather than calendar timing.
 
-The institutional preference in 2026 focuses on lenders that build structural seniority through control of cash flow waterfalls.
+The institutional preference in 202
+6 focuses on lenders that build structural seniority through control of cash flow waterfalls.
 
 Priority is given to structures where receivables, inventory cycles, and hard asset value are synchronized within one surveillance framework. 
 
@@ -180,7 +183,8 @@ The objective is to support institutional decision making by delivering clarity,
 
 ## THE STEWARDSHIP FILTER Stewardship is the discipline of resource management anchored in restraint, governance, and accountability.
 
-In capital markets, stewardship requires a philosophy that mirrors the principles expressed in **Proverbs 13:22** where generational stability arises from disciplined management rather than opportunistic extraction.
+In capital markets, stewardship requires a philosophy that mirrors the principles expressed in **Proverbs 13:22*
+* where generational stability arises from disciplined management rather than opportunistic extraction.
 
 The stewardship filter is composed of five evaluative criteria: 
 
@@ -238,6 +242,7 @@ This process allows LPs to evaluate governance structures, credit mechanics, and
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

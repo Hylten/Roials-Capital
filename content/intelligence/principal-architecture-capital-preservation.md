@@ -66,13 +66,16 @@ Leverage now has a memory.
 
 Every error compounds faster than it did seven years ago.
 
-The inefficiency is obvious: middle-market GPs still attempt to run 2020 underwriting inside a 2026 credit architecture.
+The inefficiency is obvious: middle-market GPs still attempt to run 202
+0 underwriting inside a 202
+6 credit architecture.
 
 That mismatch destroys LP trust.
 
 It destroys asset durability.
 
-Most dangerous, it destroys the sovereign purpose of capital, which is to build and transmit long horizon value. **Proverbs 13:22** outlines this mandate without ambiguity.
+Most dangerous, it destroys the sovereign purpose of capital, which is to build and transmit long horizon value. **Proverbs 13:22*
+* outlines this mandate without ambiguity.
 
 Capital does not belong to the present moment.
 
@@ -112,7 +115,10 @@ Cash-flow discipline makes or breaks a buyout engine.
 
 We operate with a simple doctrine: the curve must bend downward through amortization velocity, asset hardening, and integration synergies that produce real cash rather than paper multiples.
 
-The midpoint target for Fund-III portfolio LTV is set at 32 to 47 percent within 18 months post-acquisition.
+The midpoint target for Fund-III portfolio LTV is set at 3
+2 to 4
+7 percent within 1
+8 months post-acquisition.
 
 Anything above that bandwidth erodes covenant freedom. 
 
@@ -122,7 +128,9 @@ It is a risk architecture.
 
 The first rule is non-negotiable: cash pays down fragility before it pays out return.
 
-Senior amortization exceeds baseline by 11 to 18 percent in stressed scenarios.
+Senior amortization exceeds baseline by 1
+1 to 1
+8 percent in stressed scenarios.
 
 Working capital buffers are mandated.
 
@@ -156,7 +164,8 @@ Preservation is institutional, not incidental.
 
 ## THE MANDATE
 
- is 80 percent capital raising for Fund-III across buyouts and add-ons.
+ is 8
+0 percent capital raising for Fund-III across buyouts and add-ons.
 
 The capital stack is conservative by design.
 
@@ -166,7 +175,8 @@ They value patience over velocity.
 
 They value precision over spectacle.
 
-Our 10 percent Asset-Based Lending mandate is not an opportunistic strategy.
+Our 1
+0 percent Asset-Based Lending mandate is not an opportunistic strategy.
 
 It is a Monetization Architecture function integrated into the buyout machine.
 
@@ -180,7 +190,10 @@ It stabilizes borrowing bases.
 
 It turns operational chaos into definable metrics.
 
-The remaining 10 percent sits in special mandates: NAEOC energy deployments, MiFID II regulated acquisitions, and targeted private credit structures between 50 and 250 million.
+The remaining 1
+0 percent sits in special mandates: NAEOC energy deployments, MiFID II regulated acquisitions, and targeted private credit structures between 5
+0 and 25
+0 million.
 
 These mandates serve one purpose: preserve optionality.
 
@@ -208,7 +221,9 @@ If it multiplies capital without violating discipline, it is accepted.
 
 The filter is theological.
 
-It is built on **Genesis 2:15** and **Proverbs 21:5** .
+It is built on **Genesis 2:15*
+* and **Proverbs 21:5*
+* .
 
 Stewardship is not a moral accessory.
 
@@ -228,7 +243,8 @@ Stewardship imposes structural clarity.
 
 2. No leverage structures that depend on macro benevolence. 
 
-3. No operational model that cannot survive a 22 percent revenue compression. 
+3. No operational model that cannot survive a 2
+2 percent revenue compression. 
 
 4. No valuation thesis dependent on multiple expansion rather than cash creation.
 
@@ -250,7 +266,9 @@ They receive a covenant of stewardship.
 
 5. EXIT The final signal of discipline is a metric, not a statement.
 
-For every platform we build inside Fund-III, the mandatory target is simple: Net unlevered MOIC 1.54 within 28 months.
+For every platform we build inside Fund-III, the mandatory target is simple: Net unlevered MOIC 1.5
+4 within 2
+8 months.
 
 Preservation begins at underwriting.
 
@@ -260,6 +278,7 @@ Request a confidential capital audit. #
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

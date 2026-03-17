@@ -216,7 +216,8 @@ This partnership model positions Roials Capital as a strategic interpreter betwe
 
 It is the discipline of non wasteful resource management.
 
-The entrepreneur who treats capital as a scarce and sacred instrument achieves structural credibility. **Proverbs 13:22** identifies the principle of multi generational responsibility.
+The entrepreneur who treats capital as a scarce and sacred instrument achieves structural credibility. **Proverbs 13:22*
+* identifies the principle of multi generational responsibility.
 
 A well constructed credit architecture aligns with this principle by prioritizing durability over acceleration, clarity over complexity, and transparency over opacity.
 

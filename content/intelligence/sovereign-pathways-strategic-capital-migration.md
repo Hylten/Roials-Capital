@@ -18,7 +18,8 @@ Capital must migrate.
 
 Structures must shift.
 
-Status must upgrade. **Proverbs 13:22** : A good man leaves an inheritance to his children’s children.
+Status must upgrade. **Proverbs 13:22*
+* : A good man leaves an inheritance to his children’s children.
 
 Inheritance demands durability.
 
@@ -496,7 +497,8 @@ They become institutional heirs, not dependent beneficiaries.
 
 Institutional heirs protect legacy.
 
-Legacy is the true mandate. **Proverbs 13:22** : A good man leaves an inheritance to his children’s children.
+Legacy is the true mandate. **Proverbs 13:22*
+* : A good man leaves an inheritance to his children’s children.
 
 Not merely wealth.
 
@@ -554,7 +556,8 @@ This is
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Request confidential capital audit.
 

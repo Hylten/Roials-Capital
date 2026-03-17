@@ -27,7 +27,9 @@ Crypto portfolios exhibited accelerated nominal growth while simultaneously losi
 Several macro forces define the current landscape: 
 -  Tax treatment in most Western jurisdictions treats crypto disposals as capital gains events.
 
-This introduces friction that can exceed 20 percent to 37 percent depending on jurisdiction. 
+This introduces friction that can exceed 2
+0 percent to 3
+7 percent depending on jurisdiction. 
 -  Regulatory oversight has created a mismatch between capital mobility and tax liability recognition.
 
 Many allocators experience mark to market volatility without corresponding liquidity flexibility. 
@@ -101,9 +103,12 @@ THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator rather th
 The role is to align allocators with institutional grade frameworks that convert non traditional wealth profiles into usable capital across global markets.
 
 The capital raising architecture is divided into: 
--  80 percent Fund-III and add on acquisition alignment 
--  10 percent Asset Backed Liquidity engineering for specialized allocators 
--  10 percent Special Mandates including NAEOC energy allocations and MiFID II compliant cross border acquisitions The role includes: 
+-  8
+0 percent Fund-III and add on acquisition alignment 
+-  1
+0 percent Asset Backed Liquidity engineering for specialized allocators 
+-  1
+0 percent Special Mandates including NAEOC energy allocations and MiFID II compliant cross border acquisitions The role includes: 
 -  Balancing liquidity needs with regulatory constraints 
 -  Identifying appropriate institutional partners for structured liquidity 
 -  Calibrating the capital stack for allocators entering buyout cycles 
@@ -129,7 +134,8 @@ Stewardship requires:
 -  Liquidity access without destruction of principal 
 -  Reallocation into productive capital programs 
 -  Governance frameworks that preserve intergenerational optionality 
--  Decision making that aligns with **Proverbs 13:22** and the broader theology of capital Liquidity engineering serves this function.
+-  Decision making that aligns with **Proverbs 13:22*
+* and the broader theology of capital Liquidity engineering serves this function.
 
 It converts unstable value into stable utility.
 

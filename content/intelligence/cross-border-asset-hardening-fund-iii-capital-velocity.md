@@ -46,7 +46,8 @@ The entire architecture must serve one mandate: convert cross‑border instabili
 
 Not defensive structuring.
 
-Offensive structuring. **Proverbs 13:22** : A good person leaves an inheritance to their children’s children.
+Offensive structuring. **Proverbs 13:22*
+* : A good person leaves an inheritance to their children’s children.
 
 The wealth of the sinner is stored up for the righteous.
 
@@ -60,12 +61,15 @@ This brief outlines the institutional architecture required to harden assets, ac
 -  
 -  
 -  Core assumptions for Fund‑III: 
--  Volatility persists for 36,60 months. 
+-  Volatility persists for 36,6
+0 months. 
 -  Compliance regimes tighten across EU and GCC simultaneously. 
 -  Dollar liquidity remains fragmented. 
 -  Asset sellers panic. 
--  Buyers with hardened structures extract 25.40 percent valuation arbitrage. 
--  Cross-border energy assets shift into distressed territory with 12-18 month lag. 
+-  Buyers with hardened structures extract 25.4
+0 percent valuation arbitrage. 
+-  Cross-border energy assets shift into distressed territory with 12-1
+8 month lag. 
 -  Private credit funds struggle to refinance without Asset-Based Lending overlays. 
 -  LPs demand proof of durability before committing to new vintages.
 
@@ -122,7 +126,8 @@ Structure rights.
 
 Structure enforcement.
 
-When rights can be enforced in three non-correlated jurisdictions, asset fragility drops by 70.85 percent.
+When rights can be enforced in three non-correlated jurisdictions, asset fragility drops by 70.8
+5 percent.
 
 LP confidence spikes.
 
@@ -184,7 +189,8 @@ Hard lesson: owners panic.
 Principals collect. 
 -  
 -  
--  Fund‑III Capital Raising Architecture (80 percent core) Fund‑III requires an institutional capital stance that signals one trait only: inevitability.
+-  Fund‑III Capital Raising Architecture (8
+0 percent core) Fund‑III requires an institutional capital stance that signals one trait only: inevitability.
 
 LPs back inevitability.
 
@@ -231,7 +237,8 @@ This combination is rare.
 LPs reward rarity when it is engineered, not described. 
 -  
 -  
--  Asset-Based Lending and Capital Structuring (10 percent functional) Asset-Based Lending is not liquidity.
+-  Asset-Based Lending and Capital Structuring (1
+0 percent functional) Asset-Based Lending is not liquidity.
 
 Asset-Based Lending is predictability.
 
@@ -267,7 +274,8 @@ Asset-Backed Frameworks must include:
 -  Pre‑close liquidity scaffolding The goal: never lose a deal due to capital drag. 
 -  
 -  
--  Special Mandates (10 percent institutional acceleration) Special mandates expand Fund‑III’s institutional gravity.
+-  Special Mandates (1
+0 percent institutional acceleration) Special mandates expand Fund‑III’s institutional gravity.
 
 Three lanes: NAEOC Energy Mandates ($50M.$250M): Energy is not a sector.
 
@@ -385,7 +393,8 @@ Three‑angle enforcement:
 
 Now Fund‑III holds a four‑angle enforcement geometry.
 
-Competitors cannot replicate without 24,36 months of restructuring.
+Competitors cannot replicate without 24,3
+6 months of restructuring.
 
 Advantage is temporal.
 
@@ -499,7 +508,8 @@ Expand the jurisdictional footprint.
 
 Harden the pipeline.
 
-Neutralize volatility. **Proverbs 13:22** sets the principle.
+Neutralize volatility. **Proverbs 13:22*
+* sets the principle.
 
 Institutions inherit what they structure.
 
@@ -515,7 +525,8 @@ Immutable. #
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Request confidential capital audit.
 

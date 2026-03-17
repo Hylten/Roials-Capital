@@ -32,7 +32,8 @@ European capital pools face prohibitive compliance friction for upstream entry, 
 
 The result is an arbitrage window where the highest certainty barrels in North America are discounted for regulatory reasons rather than operational ones.
 
-This pattern is a defining feature of the 2026 capital architecture. 
+This pattern is a defining feature of the 202
+6 capital architecture. 
 
 3. Institutional Liquidity Thresholds The maintenance of liquidity ratios across pension, foundation, and multi family office portfolios has created a bias toward collateral backed credit, stable cash flow infrastructure, and jurisdictionally robust commodity reserves.
 
@@ -70,13 +71,18 @@ CSS uses a cyclic process where steam is injected, the well soaks, and productio
 
 These strategies produce long duration curves with moderate decline, creating a consistent operational backdrop. 
 
-3. Decline Curve Dynamics Unlike light tight shale, where decline curves can drop between 50 percent and 70 percent within the first year, conventional heavy oil thermal assets exhibit decline curves often below 10 percent annually.
+3. Decline Curve Dynamics Unlike light tight shale, where decline curves can drop between 5
+0 percent and 7
+0 percent within the first year, conventional heavy oil thermal assets exhibit decline curves often below 1
+0 percent annually.
 
 This transforms the asset class from a depletion risk to an endurance asset. 
 
 4. Infrastructure Lock In The presence of processing batteries, pipelines, water handling facilities, and steam generation infrastructure creates a natural moat.
 
-Replacement cost inflation in Alberta has increased the strategic significance of existing infrastructure by 30 percent to 60 percent since 
+Replacement cost inflation in Alberta has increased the strategic significance of existing infrastructure by 3
+0 percent to 6
+0 percent since 
 
 2020. This infrastructure embeddedness is a primary driver of the asset hardening trend. 
 
@@ -108,7 +114,9 @@ Liquidity engineering is executed through LTV curves, matched duration structure
 
 These facilities support operational continuity without creating excessive risk layering. 
 
-3. Special Mandates in Energy and European Acquisitions NAEO serves as the institutional grade partner for North American energy opportunities in the 50 million to 250 million USD range.
+3. Special Mandates in Energy and European Acquisitions NAEO serves as the institutional grade partner for North American energy opportunities in the 5
+0 million to 25
+0 million USD range.
 
 The partnership is grounded in operational transparency, technical measurement discipline, and infrastructure embeddedness.
 
@@ -122,7 +130,8 @@ The partnership model is structured around neutrality, alignment, and technical 
 
 It is an operational principle rooted in strategic responsibility rather than moral abstraction.
 
-Within capital formation, stewardship functions as a filter for decision quality. **Proverbs 13:22** asserts that legacy is built through disciplined resource allocation.
+Within capital formation, stewardship functions as a filter for decision quality. **Proverbs 13:22*
+* asserts that legacy is built through disciplined resource allocation.
 
 In an institutional context, this translates to five measurable behaviors. 
 

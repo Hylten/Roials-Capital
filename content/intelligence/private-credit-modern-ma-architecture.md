@@ -96,7 +96,8 @@ This reduces the cost of capital, improves covenant stability, and accelerates a
 
 The lender holds security across all subsidiaries, reducing fragmentation risk and improving liquidity under consolidation scenarios. 
 
-5. Liquidity Engineering and ABL Integration Asset based lending remains a critical 10 percent component of the architecture because it stabilizes working capital cycles.
+5. Liquidity Engineering and ABL Integration Asset based lending remains a critical 1
+0 percent component of the architecture because it stabilizes working capital cycles.
 
 Private credit providers integrate ABL structures with core term facilities to harmonize cash flow timing.
 
@@ -112,7 +113,8 @@ The discipline is to align capital providers, acquisition sponsors, and operatin
 
 The firm’s mandate covers three primary lanes. 
 
-1. Kapitalanskaffning for Fund-III and Beyond Approximately 80 percent of Roials Capital’s architecture focuses on capital ## 
+1. Kapitalanskaffning for Fund-III and Beyond Approximately 8
+0 percent of Roials Capital’s architecture focuses on capital ## 
 
 ## INTRODUCTION
 
@@ -122,7 +124,8 @@ The objective is to ensure that funds maintain acquisition readiness throughout 
 
 Acquisition readiness is defined by having stable private credit channels, pre calibrated debt structures, and predictable capital sequencing. 
 
-2. Liquidity Engineering through ABL Approximately 10 percent of the architecture involves liquidity engineering mandates.
+2. Liquidity Engineering through ABL Approximately 1
+0 percent of the architecture involves liquidity engineering mandates.
 
 These assignments stabilize operating companies facing cash flow variability during acquisition months.
 
@@ -142,7 +145,8 @@ It ensures that capital providers enter environments where structural risk is un
 
 ## THE STEWARDSHIP FILTER Stewardship in capital architecture is defined as non wasteful resource management.
 
-The principle aligns with **Proverbs 13:22** and emphasizes longevity, resilience, and responsible deployment.
+The principle aligns with **Proverbs 13:22*
+* and emphasizes longevity, resilience, and responsible deployment.
 
 In private credit, stewardship is expressed through: 
 -  disciplined loan structuring 

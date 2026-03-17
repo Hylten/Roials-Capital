@@ -394,7 +394,9 @@ LPs want controlled downside.
 
 LPs want predictable performance.
 
-This is the macro shift post-2024 tightening and 2025 liquidity normalization. 
+This is the macro shift post-202
+4 tightening and 202
+5 liquidity normalization. 
 -  
 -  
 -  Asset-Based Lending and Monetization Architecture as Defensive Architecture Asset-Based Lending is the immune system of the portfolio.
@@ -492,7 +494,8 @@ Cost increases leverage capacity.
 Fund-III must present trust like an engineered product. 
 -  
 -  
--  The Ethical Mandate of Capital **Proverbs 13:22** : A good man leaves an inheritance to his children's children.
+-  The Ethical Mandate of Capital **Proverbs 13:22*
+* : A good man leaves an inheritance to his children's children.
 
 In institutional terms, this means stewardship.
 
@@ -549,6 +552,7 @@ Request a confidential capital audit to initiate allocation sizing. #
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

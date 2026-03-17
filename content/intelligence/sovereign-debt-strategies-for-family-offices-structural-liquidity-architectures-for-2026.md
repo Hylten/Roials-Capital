@@ -141,7 +141,9 @@ We do this with structural clarity.
 
 Two minimum thresholds apply.
 
-Crypto Capital Structuring minimum: 2,000,000 USD Public Share Institutional Liquidity Paths minimum: 5,000,000 USD Both categories require precision.
+Crypto Capital Structuring minimum: 2,000,00
+0 USD Public Share Institutional Liquidity Paths minimum: 5,000,00
+0 USD Both categories require precision.
 
 They require volatility management and liquidity orchestration.
 
@@ -313,6 +315,7 @@ We create Capital Structuring frameworks that respect sovereign signals and elev
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

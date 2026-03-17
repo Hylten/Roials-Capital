@@ -146,7 +146,8 @@ This neutral introducer role preserves compliance integrity while ensuring alloc
 
 ## THE STEWARDSHIP FILTER Stewardship is the discipline of managing capital without waste.
 
-It is an operational application of **Proverbs 13:22** .
+It is an operational application of **Proverbs 13:22*
+* .
 
 In private credit this becomes a framework for evaluating: 
 -  Resource allocation efficiency 
@@ -171,6 +172,7 @@ The lens includes:
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

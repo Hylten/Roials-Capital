@@ -35,7 +35,8 @@ Predictable cash‑flow trajectories.
 
 1. Fragmentation without strategic aggregation.
 
-Thousands of subscale operators with 2.20 technicians, 30,50% owner-dependence, and no repeatable non-owner management layer.
+Thousands of subscale operators with 2.2
+0 technicians, 30,50% owner-dependence, and no repeatable non-owner management layer.
 
 They are not businesses.
 
@@ -98,7 +99,8 @@ The client spends across the lifecycle.
 Consolidation captures the entire arc. 
 -  Building labor redundancy: A single firm with ten technicians lives in fragility.
 
-A firm with 150 technicians lives in optionality.
+A firm with 15
+0 technicians lives in optionality.
 
 Scheduling is no longer reactive; it becomes a portfolio optimization problem. 
 -  Normalizing margins across inherited chaos: Most add‑ons come in with inconsistent pricing, weak procurement, and owner benefits embedded as distortions.
@@ -215,7 +217,8 @@ A Fund‑III operator should focus on four architectural pillars: Pillar
 
 1. Platform Calibration You do not buy a platform because it is large.
 
-You buy a platform because it can absorb 5.12 add‑ons without structural fatigue.
+You buy a platform because it can absorb 5.1
+2 add‑ons without structural fatigue.
 
 Key indicators: 
 -  CEO with industrial temperament, not founder sentiment 

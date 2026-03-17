@@ -50,7 +50,8 @@ Today, risk is redistributed by legislative motion.
 
 That makes geographic concentration the new exposure.
 
-Enforcement timelines now vary by more than 600 percent across OECD adjacent markets.
+Enforcement timelines now vary by more than 60
+0 percent across OECD adjacent markets.
 
 Currency defence strategies diverge by ideological preference rather than macro fundamentals.
 
@@ -101,7 +102,9 @@ LTV curves.
 
 Cross-border LTV dynamics behave differently because recovery velocity becomes a more defining variable than asset class quality.
 
-A 52 percent LTV in a high recovery jurisdiction may outperform a 35 percent LTV in a slow enforcement jurisdiction.
+A 5
+2 percent LTV in a high recovery jurisdiction may outperform a 3
+5 percent LTV in a slow enforcement jurisdiction.
 
 That contradicts traditional conservatism.
 
@@ -121,7 +124,8 @@ This makes interim valuations largely irrelevant.
 
 Time to trigger and time to transfer are the only variables that matter.
 
-Our Fund-III underwriting model applies a penalty coefficient for any jurisdiction where the trigger timeline exceeds 90 days or where registry transparency includes manual filing.
+Our Fund-III underwriting model applies a penalty coefficient for any jurisdiction where the trigger timeline exceeds 9
+0 days or where registry transparency includes manual filing.
 
 Cash-flow waterfalls require similar discipline.
 
@@ -229,7 +233,8 @@ It is a command.
 
 Wealth requires governance because resources left ungoverned decay.
 
-Biblical stewardship elevates clarity above spectacle. **Proverbs 13:22** describes the continuity of ordered capital across generations.
+Biblical stewardship elevates clarity above spectacle. **Proverbs 13:22*
+* describes the continuity of ordered capital across generations.
 
 That is the standard.
 
@@ -272,6 +277,7 @@ Request a confidential capital audit. [END] #
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

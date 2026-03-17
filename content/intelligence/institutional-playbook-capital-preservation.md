@@ -8,7 +8,8 @@ slug: "institutional-playbook-capital-preservation"
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion.
 
-The allocator who interprets the current cycle through the lens of structural scarcity, rather than headline volatility, gains access to the only form of defensible capital preservation left in a post-2020 monetary environment: assets with predictable decline curves, hard collateral value, and countercyclical demand elasticity.
+The allocator who interprets the current cycle through the lens of structural scarcity, rather than headline volatility, gains access to the only form of defensible capital preservation left in a post-202
+0 monetary environment: assets with predictable decline curves, hard collateral value, and countercyclical demand elasticity.
 
 This briefing outlines the institutional playbook for capital preservation in a fragmented global capital regime.
 
@@ -52,7 +53,8 @@ Fund-III buyout managers face parallel dynamics.
 
 Middle-market acquisition targets exhibit strong cash conversion but weakened balance sheet resilience due to term loan contractions.
 
-Sellers maintain 2018 expectations.
+Sellers maintain 201
+8 expectations.
 
 Buyers must now combine operational value creation with capital structure mastery, not just price discipline.
 
@@ -171,7 +173,8 @@ It is a stewardship discipline.
 
 Stewardship is the systematic prevention of capital degradation, operational waste, and structural decay across assets and institutions.
 
-The theological foundation comes from **Proverbs 13:22** , where sustainability of resources across generations is treated as a moral obligation.
+The theological foundation comes from **Proverbs 13:22*
+* , where sustainability of resources across generations is treated as a moral obligation.
 
 Stewardship in an institutional context involves: 
 -  Avoiding leverage structures that prioritize optics over long term resilience. 
@@ -221,6 +224,7 @@ Allocators seeking confidential structural alignment review may initiate a Portf
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

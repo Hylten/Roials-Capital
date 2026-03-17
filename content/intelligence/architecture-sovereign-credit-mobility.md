@@ -120,7 +120,9 @@ LTV is never flat.
 
 It shifts with jurisdictional enforcement velocity, asset class hardening, and regulatory harmonization.
 
-Fund-III targets 42 to 63 percent hard-asset collateralization in Asset-Based Lending structures, with lower convexity spread in MiFID II regions and higher convexity spread in NAEOC corridors due to geological fixed asset durability.
+Fund-III targets 4
+2 to 6
+3 percent hard-asset collateralization in Asset-Based Lending structures, with lower convexity spread in MiFID II regions and higher convexity spread in NAEOC corridors due to geological fixed asset durability.
 
 Cash-Flow Waterfalls We use zero-ambiguity waterfalls.
 
@@ -200,7 +202,8 @@ Midstream equipment needs asset hardening.
 
 MiFID II acquisitions require transparency pathways and documentation integrity.
 
-ROIALS CAPITAL builds proprietary compliance stacks that reduce the cost and timeline of EU regulatory alignment by an average of 27 percent across mandates.
+ROIALS CAPITAL builds proprietary compliance stacks that reduce the cost and timeline of EU regulatory alignment by an average of 2
+7 percent across mandates.
 
 We do not optimize for convenience.
 
@@ -222,7 +225,8 @@ Companies that rely on regulatory subsidies are excluded.
 
 Structures that depend on political leniency are eliminated.
 
-Fund-III uses a theological protocol rooted in the principle of inheritance. **Proverbs 13:22** defines it: the good transfers resources across generations.
+Fund-III uses a theological protocol rooted in the principle of inheritance. **Proverbs 13:22*
+* defines it: the good transfers resources across generations.
 
 This is not sentiment.
 
@@ -240,11 +244,13 @@ The architecture of sovereign credit mobility is built so that capital can move 
 
 This is stewardship applied as institutional mechanics. ## 
 
-## EXIT Fund-III targets mobility-adjusted IRR with a minimum cross-border collateral conversion velocity of 92 days. # 
+## EXIT Fund-III targets mobility-adjusted IRR with a minimum cross-border collateral conversion velocity of 9
+2 days. # 
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Request confidential capital audit.
 

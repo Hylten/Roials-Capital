@@ -33,7 +33,8 @@ For allocators building sovereign-grade balance sheets, vacuums are not volatili
 
 They are structural entry points created by asymmetrical capital withdrawal rather than degradation of asset quality.
 
-Institutional balance sheet construction in 2026 requires integrating high-certainty, low-volatility real assets that maintain throughput independent of market narratives.
+Institutional balance sheet construction in 202
+6 requires integrating high-certainty, low-volatility real assets that maintain throughput independent of market narratives.
 
 Heavy oil production in Alberta, particularly thermal recovery systems, demonstrates this characteristic more consistently than many renewable, midstream, or conventional shale assets.
 
@@ -136,9 +137,12 @@ Allocators are not offered product.
 They are given architectural pathways that match their balance sheet objectives.
 
 These include: 
--  80 percent kapitalanskaffning for Fund-III+ buyouts and expansion strategies. 
--  10 percent liquidity engineering through ABL structures, receivables instruments, and hybrid facilities. 
--  10 percent special mandates including NAEO’s 50-250M energy capital requirements, MiFID II European acquisition strategies, and jurisdictional cross-border expansions.
+-  8
+0 percent kapitalanskaffning for Fund-III+ buyouts and expansion strategies. 
+-  1
+0 percent liquidity engineering through ABL structures, receivables instruments, and hybrid facilities. 
+-  1
+0 percent special mandates including NAEO’s 50-250M energy capital requirements, MiFID II European acquisition strategies, and jurisdictional cross-border expansions.
 
 Axis three is operational intelligence.
 
@@ -150,7 +154,8 @@ Through this model, Roials Capital supports allocators in constructing sovereign
 
 ## THE STEWARDSHIP FILTER Capital stewardship is not a branding concept.
 
-It is an operational discipline anchored in the biblical principle of **Proverbs 13:22** .
+It is an operational discipline anchored in the biblical principle of **Proverbs 13:22*
+* .
 
 The function of stewardship is non-wasteful, responsible oversight of scarce resources.
 

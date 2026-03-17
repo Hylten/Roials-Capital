@@ -16,7 +16,8 @@ Jurisdiction dictates velocity.
 
 Velocity hardens assets.
 
-Asset hardening preserves legacy. **Proverbs 13:22** .
+Asset hardening preserves legacy. **Proverbs 13:22*
+* .
 
 This brief establishes a sovereign-grade architecture for Fund-III capital formation and post-acquisition hardening under buyout and add-on conditions.
 
@@ -72,7 +73,8 @@ LPs want a system that behaves like a sovereign instrument but pays like a priva
 
 So we architect it.
 
-The target is simple: 80 percent allocation flow directed toward kapitalanskaffning for Fund-III expansion across mid-market buyouts and disciplined add-on platforms.
+The target is simple: 8
+0 percent allocation flow directed toward kapitalanskaffning for Fund-III expansion across mid-market buyouts and disciplined add-on platforms.
 
 Capital is agnostic to narrative.
 
@@ -141,7 +143,8 @@ Institutional-grade infrastructure has one test: if the asset were struck by a g
 
 Our architecture answers yes. 
 
-## AXIS TWO: CAPITAL RAISING (KAPITALANSKAFFNING) FOR Fund-III This is the 80 percent driver.
+## AXIS TWO: CAPITAL RAISING (KAPITALANSKAFFNING) FOR Fund-III This is the 8
+0 percent driver.
 
 The center of gravity.
 
@@ -290,7 +293,8 @@ Extract friction.
 
 Harden asset. 
 
-## AXIS FOUR: Asset-Based Lending AND Asset-Backed Frameworks (10 PERCENT) Liquidity is optional until it becomes existential.
+## AXIS FOUR: Asset-Based Lending AND Asset-Backed Frameworks (1
+0 PERCENT) Liquidity is optional until it becomes existential.
 
 Asset-backed lending provides oxygen.
 
@@ -314,7 +318,8 @@ If the GP has liquidity at the table, the GP controls the tempo.
 
 Tempo wins deals. 
 
-## AXIS FIVE: SPECIAL MANDATES (10 PERCENT) Special mandates demand institutional discipline.
+## AXIS FIVE: SPECIAL MANDATES (1
+0 PERCENT) Special mandates demand institutional discipline.
 
 Three categories: 
 
@@ -496,7 +501,8 @@ I design to elevate institutional position.
 
 I design to build legacy.
 
-A good man leaves an inheritance to his children’s children. **Proverbs 13:22** .
+A good man leaves an inheritance to his children’s children. **Proverbs 13:22*
+* .
 
 Architecture is inheritance.
 
@@ -567,6 +573,7 @@ End with directive: Initiate confidential capital audit. #
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

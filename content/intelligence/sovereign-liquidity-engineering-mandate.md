@@ -46,7 +46,8 @@ Capital flows to power.
 
 Power flows to structure.
 
-F‑Framework 2.0 (Logic Layer) Layer 
+F‑Framework 2.
+0 (Logic Layer) Layer 
 
 1. Foundation Positioning The Principal must define the *sovereign perimeter*.
 
@@ -132,7 +133,8 @@ This is the domain where Fund-III dominates.
 
 LPs understand the delta: engineering status produces non-dilutive capital without introducing risk contagion.
 
-A sovereign firm controls its own liquidity. **Proverbs 13:22** .
+A sovereign firm controls its own liquidity. **Proverbs 13:22*
+* .
 
 Layer 
 
@@ -313,7 +315,8 @@ This is the architecture that elevates Fund-III from successful to unstoppable. 
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Request confidential capital audit.
 

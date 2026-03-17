@@ -34,9 +34,11 @@ It is durable, predictable, and structurally stable.
 
 ## Why ROIALS CAPITAL’s Framework Aligns With HNWI and UHNW Requirements Our thresholds are deliberate.
 
-Crypto Strategic Collateralization begins at 2 million dollars.
+Crypto Strategic Collateralization begins at 
+2 million dollars.
 
-Public share Strategic Collateralization begins at 5 million dollars.
+Public share Strategic Collateralization begins at 
+5 million dollars.
 
 Private credit collateralization functions at scale.
 
@@ -98,6 +100,7 @@ If your objective is durable, long-term liquidity supported by disciplined colla
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

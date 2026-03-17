@@ -31,7 +31,8 @@ I build this under a clear axiom: volatility is not the threat.
 Volatility is the audit.
 
 Institutions either withstand or fail. 
--  **Proverbs 13:22** delivers the structural principle: a good man leaves an inheritance to his children’s children.
+-  **Proverbs 13:22*
+* delivers the structural principle: a good man leaves an inheritance to his children’s children.
 
 Long-horizon stewardship is not sentiment.
 
@@ -118,7 +119,8 @@ Avoid political capture.
 
 Avoid taxation traps.
 
-High-net industrial cycles in oil, gas, and critical infrastructure require shock-resistant structuring: UBO layers, SPV branching, Article-9 lien mobility, repo-ready contract stacks, and escrow bifurcation for acquisition sequencing.
+High-net industrial cycles in oil, gas, and critical infrastructure require shock-resistant structuring: UBO layers, SPV branching, Article-
+9 lien mobility, repo-ready contract stacks, and escrow bifurcation for acquisition sequencing.
 
 Mobility wins.
 
@@ -254,7 +256,8 @@ Use these for capital routing.
 
 The EU provides acquisition access under MiFID II if structured through passporting shields.
 
-The U.S. provides credit depth through Article-9 and Delaware-KS dual structuring.
+The U.S. provides credit depth through Article-
+9 and Delaware-KS dual structuring.
 
 Integrate all three.
 
@@ -350,10 +353,12 @@ No metaphors.
 
 Request a confidential capital audit.
 
-Technical mandate: cross-border hardening coefficient threshold = 0.82 minimum. # 
+Technical mandate: cross-border hardening coefficient threshold = 0.8
+2 minimum. # 
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

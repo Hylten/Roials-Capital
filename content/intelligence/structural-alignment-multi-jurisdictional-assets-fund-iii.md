@@ -18,7 +18,8 @@ This institutional briefing establishes the architecture required for allocators
 
 ## THE REGIME SHIFT
 
- The post 2020 capital regime is characterized by fragmentation across three spheres. 
+ The post 202
+0 capital regime is characterized by fragmentation across three spheres. 
 -  European prudential constraints under MiFID II that push institutions toward regulated vehicles, long tenor assets, and controlled valuation methodologies. 
 -  North American private credit expansion where non bank lenders now dominate the middle market collateral landscape. 
 -  Alberta energy restructuring where conventional heavy oil assets remain underpriced relative to their thermodynamic consistency and predictable decline curves.
@@ -49,7 +50,9 @@ NAEO operates exclusively in these environments.
 
 The technical signatures include: 
 -  Reservoir homogeneity that reduces operational noise and improves predictability. 
--  Recovery factors in the 30 percent to 70 percent band for SAGD pairs with established history. 
+-  Recovery factors in the 3
+0 percent to 7
+0 percent band for SAGD pairs with established history. 
 -  Decline rates that demonstrate low volatility due to thermal assisted mobility rather than primary depletion dynamics. 
 -  Steam to oil ratios that can be forecast with high confidence across multi year cycles when water handling and thermal efficiency are optimized.
 
@@ -112,7 +115,8 @@ It is not a moral gesture.
 
 It is a technical regime that prevents resource leakage across jurisdictions, balance sheets, and operational cycles.
 
-The foundation is the principle articulated in **Proverbs 13:22** which defines stewardship as multi generational asset transfer.
+The foundation is the principle articulated in **Proverbs 13:22*
+* which defines stewardship as multi generational asset transfer.
 
 In institutional practice, this translates into: 
 -  Capital conservation through collateral optimization. 

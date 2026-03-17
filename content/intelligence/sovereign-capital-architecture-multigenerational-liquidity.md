@@ -20,7 +20,8 @@ The content is constructed for institutional LPs, family offices, and GP steward
 
 ## THE REGIME SHIFT
 
- The private market environment entered a structural regime shift in 2022 when global rate normalization broke legacy valuation heuristics.
+ The private market environment entered a structural regime shift in 202
+2 when global rate normalization broke legacy valuation heuristics.
 
 The following dynamics now define the allocator landscape: 
 -  Declining suitability of growth equity due to rising cost of carry 
@@ -59,7 +60,9 @@ The following sections outline both the energy mechanics relevant to NAEO mandat
 
 ENERGY SYSTEM MECHANICS (NAEO MANDATE) The Alberta heavy oil domain operates on established physical principles. 
 -  SAGD, CSS, and waterflood systems provide predictable, physics-governed decline curves 
--  Recovery factors in conventional reservoirs often reach 12 percent to 18 percent with strong improvement potential when proper steam dynamics and reservoir management are applied 
+-  Recovery factors in conventional reservoirs often reach 1
+2 percent to 1
+8 percent with strong improvement potential when proper steam dynamics and reservoir management are applied 
 -  Vertical wellbores create a naturally constrained interference pattern, reducing variance and improving operational predictability 
 -  Heavy oil pricing is increasingly detached from legacy WCS discount logic due to logistics optimization and refinery configuration adjustments In these parameters, NAEO operates a closed model focused on: 
 -  Shallow conventional reservoirs with long production histories 
@@ -98,7 +101,8 @@ Capital structures must be designed with:
 
 2. ABL and Liquidity Engineering ABL is no longer a commodity product.
 
-Post-2023 regulatory shifts require: 
+Post-202
+3 regulatory shifts require: 
 -  Higher collateral quality 
 -  More robust audit trails 
 -  Stronger cash dominion structures 
@@ -145,7 +149,8 @@ This neutrality is what differentiates a capital partner from a capital seeker. 
 
 Stewardship is the discipline of non-wasteful resource management.
 
-It is rooted in the principle that capital must strengthen households, communities, and intergenerational stability. **Proverbs 13:22** establishes the template: A good person leaves an inheritance to their children's children.
+It is rooted in the principle that capital must strengthen households, communities, and intergenerational stability. **Proverbs 13:22*
+* establishes the template: A good person leaves an inheritance to their children's children.
 
 This is not a statement of sentiment.
 

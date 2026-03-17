@@ -16,7 +16,8 @@ They are architecting positions inside supply constrained capital stacks where t
 
 ## THE REGIME SHIFT
 
- The global capital environment in 2026 is defined by three interacting forces that shape every GP and LP decision pathway: 
+ The global capital environment in 202
+6 is defined by three interacting forces that shape every GP and LP decision pathway: 
 
 1. Regulatory Friction Bank capital adequacy requirements in the US, EU, and UK have reduced deployable credit availability.
 
@@ -105,9 +106,12 @@ The GP receives clarity on optimal structure.
 The LP receives transparency on structural risk mitigation. 
 
 3. Cross-Vertical Syndication Channels The Brand supports the strategic channels across: 
--  80 percent capital raising for Fund-III and Fund-IV buyouts and add-ons 
--  10 percent Institutional Liquidity Paths and Asset-Based Lending structures 
--  10 percent special mandates including NAEOC 50M to 250M energy opportunities and EU MiFID II acquisition pathways These verticals operate independently but are strategically integrated to support allocators requiring diversified exposure without operational fragmentation. 
+-  8
+0 percent capital raising for Fund-III and Fund-IV buyouts and add-ons 
+-  1
+0 percent Institutional Liquidity Paths and Asset-Based Lending structures 
+-  1
+0 percent special mandates including NAEOC 50M to 250M energy opportunities and EU MiFID II acquisition pathways These verticals operate independently but are strategically integrated to support allocators requiring diversified exposure without operational fragmentation. 
 
 4. Operational Intelligence The Brand monitors regulatory adjustments, liquidity cycles, and pricing dynamics across private credit, energy infrastructure, and cross-border acquisition landscapes.
 
@@ -127,7 +131,8 @@ Opportunity velocity is only valuable when discipline governs its use.
 
 2. Operational Accountability Allocators evaluate the capacity of a GP to translate capital into stabilized cash flow without unnecessary expansion or strategic drift. 
 
-3. Ethical Deployment A theology of capital grounded in **Proverbs 13:22** emphasizes multi-generational positioning.
+3. Ethical Deployment A theology of capital grounded in **Proverbs 13:22*
+* emphasizes multi-generational positioning.
 
 Allocators applying this framework expect capital structures that do not rely on unsustainable leverage or speculative valuation uplift. 
 
@@ -159,6 +164,7 @@ Allocators who evaluate through this lens strengthen their position within the e
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

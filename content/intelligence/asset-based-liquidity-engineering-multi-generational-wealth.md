@@ -9,7 +9,8 @@ slug: "asset-based-liquidity-engineering-multi-generational-wealth"
 Asset‑based Monetization Architecture operates as the structural engine behind durable dynastic capital.
 
 Not because liquidity is optional, but because liquidity-engineered, sequenced, collateralized, and jurisdictionally optimized-determines which families, institutions, and sovereign vehicles sustain wealth across cycles, and which vanish in compression events. 
--  **Proverbs 13:22** states: A good man leaves an inheritance to his children’s children.
+-  **Proverbs 13:22*
+* states: A good man leaves an inheritance to his children’s children.
 
 In institutional terms, inheritance is not sentiment.
 
@@ -176,7 +177,8 @@ It hardens the capital base against macro volatility.
 
 For multi‑generational planning, energy assets create inheritance in the institutional sense: continuous, collateralized, inflation‑resistant.
 
-Perfect alignment with **Proverbs 13:22** . 
+Perfect alignment with **Proverbs 13:22*
+* . 
 
 ## EUROPEAN ACQUISITIONS: MiFID II AS AN ARBITRAGE FIELD MiFID II is often misunderstood as compliance overhead.
 
@@ -220,7 +222,8 @@ Jurisdictional strategy is the armor.
 
 Fund‑III sits at the convergence of all three. 
 
-## INHERITANCE AS STRUCTURE: THE MULTI‑GENERATIONAL LOGIC We return to **Proverbs 13:22** because it encapsulates the institutional truth of capital.
+## INHERITANCE AS STRUCTURE: THE MULTI‑GENERATIONAL LOGIC We return to **Proverbs 13:22*
+* because it encapsulates the institutional truth of capital.
 
 Inheritance is not a noun.
 
@@ -278,7 +281,8 @@ Unstructured capital disappears. #
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Request confidential capital audit.
 

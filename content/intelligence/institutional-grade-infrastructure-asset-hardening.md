@@ -66,7 +66,8 @@ In the Alberta heavy oil region the mechanics are specific.
 
 SAGD and CSS systems create predictable thermal recovery curves.
 
-When evaluated across 10 year operating histories the recovery factors are stable, decline rates are shallow, and steam to oil ratios are relatively constant.
+When evaluated across 1
+0 year operating histories the recovery factors are stable, decline rates are shallow, and steam to oil ratios are relatively constant.
 
 This level of predictability provides institutional allocators with what can be described as a geological annuity.
 
@@ -147,7 +148,8 @@ The objective is to strengthen what already exists rather than to speculate on w
 Stewardship in the institutional context refers to the responsible management of capital, corporate structures, natural resources, and time.
 
 The theology of capital is based on 
--  **Proverbs 13:22** which states that responsible actors leave sustainable value for the next generation.
+-  **Proverbs 13:22*
+* which states that responsible actors leave sustainable value for the next generation.
 
 This principle applies directly to mature basin energy assets, middle market corporates, and cross border infrastructure.
 
@@ -191,6 +193,7 @@ For allocators seeking to calibrate portfolios toward structural durability and 
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

@@ -86,7 +86,8 @@ The absence of debt sponsors willing to provide flexible mid market leverage ele
 
 SECTION B: LIQUIDITY ENGINEERING AND ABL MECHANICS Asset based lending has evolved into a balance sheet optimization instrument rather than a transactional financing tool.
 
-Liquidity Engineering in 2026 centers on: 
+Liquidity Engineering in 202
+6 centers on: 
 -  Real time collateral valuation models. 
 -  Multi asset security pools capable of supporting cross jurisdiction lending. 
 -  Dynamic borrowing bases rather than static covenants. 
@@ -100,7 +101,8 @@ It shortens the time between acquisition mandate and execution, a requirement in
 
 SECTION C: NORTH AMERICAN ENERGY OPERATIONS The Alberta basin presents a structural arbitrage that remains under-analyzed by non specialist capital.
 
-The counter intuitive reality is that in 2026 the lowest volatility energy assets are conventional heavy oil assets with mature decline curves.
+The counter intuitive reality is that in 202
+6 the lowest volatility energy assets are conventional heavy oil assets with mature decline curves.
 
 Their risk profile is defined not by exploration variability but by technical recovery mechanics.
 
@@ -165,7 +167,8 @@ Capital is treated as a resource requiring accountability, transparency, and lon
 The allocator guided by stewardship does not chase opportunity velocity without environmental and structural alignment.
 
 Stewardship is the principle that underwrites sustainable capital deployment according to 
--  **Proverbs 13:22** which emphasizes the multigenerational nature of responsible asset management.
+-  **Proverbs 13:22*
+* which emphasizes the multigenerational nature of responsible asset management.
 
 In this context, stewardship requires: 
 -  Capital structures that do not create extraction pressure on portfolio companies. 

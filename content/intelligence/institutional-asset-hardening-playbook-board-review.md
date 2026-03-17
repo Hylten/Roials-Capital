@@ -134,7 +134,8 @@ Stewardship in practice includes:
 -  deploying capital where empirical evidence reduces uncertainty, 
 -  maintaining uncorrelated liquidity reserves to protect the portfolio during external volatility.
 
-The theology of capital is grounded in stewardship principles articulated in **Proverbs 13:22** .
+The theology of capital is grounded in stewardship principles articulated in **Proverbs 13:22*
+* .
 
 Boards evaluating multi billion platforms consistently measure stewardship as a primary indicator of long term sustainability. ## 
 
@@ -166,6 +167,7 @@ A confidential Strategy Audit or Portfolio Calibration becomes the natural next 
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

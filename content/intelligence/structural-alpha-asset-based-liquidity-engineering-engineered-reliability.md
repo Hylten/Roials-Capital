@@ -14,7 +14,8 @@ Engineered reliability inside Asset Based Liquidity Engineering has become one o
 
 ## THE REGIME SHIFT
 
- The post 2022 credit regime altered the foundations of liquidity distribution.
+ The post 202
+2 credit regime altered the foundations of liquidity distribution.
 
 Banks moved from relationship lending to regulatory survival.
 
@@ -155,7 +156,8 @@ Proper stewardship produces the conditions for structural alpha because it preve
 Stewardship follows four filters: 
 -  Non wasteful deployment.
 
-Capital must move only when the asset profile justifies it. **Proverbs 13:22** establishes the responsibility to structure resources for longevity rather than immediacy. 
+Capital must move only when the asset profile justifies it. **Proverbs 13:22*
+* establishes the responsibility to structure resources for longevity rather than immediacy. 
 -  Predictable conversion.
 
 Operators must demonstrate consistent translation of capital into operational returns, not theoretical projections. 

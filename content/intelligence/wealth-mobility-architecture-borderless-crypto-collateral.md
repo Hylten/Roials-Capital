@@ -46,7 +46,8 @@ The inability to mobilize cross border collateral in institutional form is now a
 
 The macro backdrop reinforces this.
 
-M and A pipelines in North America and Europe remain robust, but cross jurisdictional settlement has slowed by approximately 28 percent since 
+M and A pipelines in North America and Europe remain robust, but cross jurisdictional settlement has slowed by approximately 2
+8 percent since 
 
 2022. Meanwhile, private credit allocators recorded their highest cash positions in more than a decade.
 
@@ -82,9 +83,13 @@ This is critical for acquisition financing structures that integrate digital ass
 
 Loan to value discipline is determined by volatility adjusted risk curves rather than market enthusiasm.
 
-Institutional lenders typically deploy 20 to 40 percent LTV for digital assets.
+Institutional lenders typically deploy 2
+0 to 4
+0 percent LTV for digital assets.
 
-However, when the underlying acquisition has strong cash flow visibility and durable EBITDA, blended LTV can be engineered at 50 to 65 percent by combining digital collateral with traditional hard assets or recurring revenue streams.
+However, when the underlying acquisition has strong cash flow visibility and durable EBITDA, blended LTV can be engineered at 5
+0 to 6
+5 percent by combining digital collateral with traditional hard assets or recurring revenue streams.
 
 This creates an institutional bridge where the digital asset provides mobility and the operating company provides stability.
 
@@ -170,7 +175,8 @@ The stewardship lens prioritizes clarity of purpose over velocity of execution.
 
 Wealth mobility is a stewardship function.
 
-Capital that cannot move cannot serve. **Proverbs 13:22** outlines the principle that generational capital must be preserved and deployed with intentionality.
+Capital that cannot move cannot serve. **Proverbs 13:22*
+* outlines the principle that generational capital must be preserved and deployed with intentionality.
 
 Within cross border M and A environments, this means constructing collateral frameworks that do not expose capital to unnecessary risk or speculative leverage.
 

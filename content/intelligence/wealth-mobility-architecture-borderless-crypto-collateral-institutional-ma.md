@@ -102,7 +102,8 @@ This positioning ensures that allocators receive technical clarity without solic
 
 The internal mandate is divided proportionally: 
 
-1. 80 percent Kapitalanskaffning for Fund-III and larger Focus on buyouts, add ons, and control acquisitions.
+1. 8
+0 percent Kapitalanskaffning for Fund-III and larger Focus on buyouts, add ons, and control acquisitions.
 
 The priority is to optimize liquidity sequencing so that capital is deployed with precision at each phase of the value creation cycle.
 
@@ -112,11 +113,13 @@ The ##
 
  of crypto collateral is engineered to accelerate capital readiness rather than substitute traditional funding. 
 
-2. 10 percent Asset Backed Liquidity Engineering This includes structured credit facilities, bridge mechanics, and opportunistic capital activation.
+2. 1
+0 percent Asset Backed Liquidity Engineering This includes structured credit facilities, bridge mechanics, and opportunistic capital activation.
 
 The objective is balance sheet strengthening and capital flow synchronization. 
 
-3. 10 percent Special Mandates These include 
+3. 1
+0 percent Special Mandates These include 
 -  North American Energy Operations Consortium (NAEOC) with facility needs of 50M to 250M. 
 -  EU MiFID II aligned acquisition pathways. 
 -  Gulf and Swiss structured credit alliances.
@@ -139,7 +142,8 @@ In cross border M and A, stewardship requires:
 
 Stronger balance sheets enable better negotiation leverage and clearer risk management. 
 
-3. Intergenerational Positioning Stewardship honors capital continuity. **Proverbs 13:22** positions resource management as a multi generational mandate.
+3. Intergenerational Positioning Stewardship honors capital continuity. **Proverbs 13:22*
+* positions resource management as a multi generational mandate.
 
 Wealth mobility systems ensure that strategic assets remain deployable across jurisdictions and across family structures. 
 

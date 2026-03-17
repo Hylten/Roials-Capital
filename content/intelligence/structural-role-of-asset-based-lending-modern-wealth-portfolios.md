@@ -8,7 +8,8 @@ slug: "structural-role-of-asset-based-lending-modern-wealth-portfolios"
 
 The liquidity deficit across global private markets is the direct outcome of capital regime fragmentation rather than a shortage of collateralized enterprise value.
 
-From 2023 through 2026, Asset Based Lending has shifted from a niche credit instrument into a structural pillar for institutional allocators seeking controlled liquidity, insulated volatility, and predictable asset conversion.
+From 202
+3 through 2026, Asset Based Lending has shifted from a niche credit instrument into a structural pillar for institutional allocators seeking controlled liquidity, insulated volatility, and predictable asset conversion.
 
 In environments where duration risk, rate stickiness, and collateral valuation opacity challenge traditional underwriting, ABL has reemerged as the operational mechanism that converts hard collateral into strategic optionality. ## ## ## ## 
 
@@ -132,7 +133,8 @@ The institutional role of Roials Capital is to ensure that UHNWIs, family office
 
 This avoids overleveraging, prevents mismatched duration structures, and ensures liquidity is engineered with strategic intent. ## ## ## ## 
 
-## THE STEWARDSHIP FILTER Stewardship is the discipline of applying capital in a manner aligned with preservation, sustainability, and long term functional prosperity. **Proverbs 13:22** defines stewardship as multigenerational preparation.
+## THE STEWARDSHIP FILTER Stewardship is the discipline of applying capital in a manner aligned with preservation, sustainability, and long term functional prosperity. **Proverbs 13:22*
+* defines stewardship as multigenerational preparation.
 
 This orientation applies directly to ABL because the structure is inherently designed to preserve equity, protect operational continuity, and reinforce disciplined capital deployment.
 

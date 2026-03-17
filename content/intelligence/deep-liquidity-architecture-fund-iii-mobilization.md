@@ -43,7 +43,8 @@ This brief consolidates the architecture required for Fund‑III to convert late
 
 No abstractions.
 
-Only constructs. **Proverbs 13:22** : Capital follows stewardship.
+Only constructs. **Proverbs 13:22*
+* : Capital follows stewardship.
 
 Stewardship follows design.
 
@@ -106,7 +107,8 @@ Signal governance strength.
 
 Signal operational certainty.
 
-Fund‑III should execute a three‑gate capital funnel: Gate 1 
+Fund‑III should execute a three‑gate capital funnel: Gate 
+1 
 -  Mandated Capital Pension funds.
 
 Sovereign allocators.
@@ -119,7 +121,8 @@ They seek GP discipline above narrative.
 
 They commit when duration risk is neutralized.
 
-Gate 2 
+Gate 
+2 
 -  Opportunistic Institutions Family offices with cross‑sector mandates.
 
 Corporate treasury vehicles.
@@ -130,7 +133,8 @@ They pursue asymmetric returns.
 
 They commit when complexity is translated into convertibility.
 
-Gate 3 
+Gate 
+3 
 -  Strategic Industrials Operators requiring consolidation partners.
 
 Energy adjacencies.
@@ -170,7 +174,8 @@ Asset-Based Lending exists to weaponize collateral.
 
 Asset-Based Lending exists to convert illiquid assets into acquisition speed.
 
-Fund‑III requires a multi‑tiered Asset-Based Lending spine: Tier 1 
+Fund‑III requires a multi‑tiered Asset-Based Lending spine: Tier 
+1 
 -  Real Asset Asset-Based Lending Hard collateral.
 
 High‑visibility value curves.
@@ -189,7 +194,8 @@ All stable.
 
 All bankable across Basel III jurisdictions.
 
-Tier 2 
+Tier 
+2 
 -  Contract‑Backed Asset-Based Lending Offtake agreements.
 
 Volume commitments.
@@ -206,7 +212,8 @@ They reduce lender hesitation.
 
 They deepen leverage options.
 
-Tier 3 
+Tier 
+3 
 -  Portfolio‑Backed Asset-Based Lending Cross‑asset collateralization.
 
 Cash‑yield sweeps.
@@ -316,12 +323,14 @@ Not spontaneity.
 
 Institutional allocators measure not just performance, but the perceived permanence of the manager.
 
-Fund‑III must materially upgrade GP status across five axes: Axis 1 
+Fund‑III must materially upgrade GP status across five axes: Axis 
+1 
 -  Acquisition Authority LPs expect acquisition velocity with discipline.
 
 Fund‑III requires pre‑validated asset classes, pre‑vetted collateral pools, and pre‑underwritten leverage partners.
 
-Axis 2 
+Axis 
+2 
 -  Liquidity Precision LPs expect cash‑yield clarity.
 
 They must see the liquidity arcs.
@@ -330,7 +339,8 @@ They must trust the convertibility.
 
 They must see hard‑asset protection.
 
-Axis 3 
+Axis 
+3 
 -  Governance Density LPs evaluate compliance infrastructure.
 
 Fund‑III must present a governance matrix that leaves no ambiguity.
@@ -341,12 +351,14 @@ Certainty.
 
 Permanence.
 
-Axis 4 
+Axis 
+4 
 -  Cross‑Border Execution International allocators expect jurisdictional competence.
 
 Fund‑III must display fluency in U.S., EU, and Gulf transactional environments.
 
-Axis 5 
+Axis 
+5 
 -  Signal Dominance Narratives fail.
 
 Signals win.
@@ -385,7 +397,8 @@ Geographic advantage.
 
 Vertical consolidation.
 
-Fund‑III should maintain a 65/25/10 split across these categories, optimizing risk distribution while maximizing compounding.
+Fund‑III should maintain a 65/25/1
+0 split across these categories, optimizing risk distribution while maximizing compounding.
 
 The GP must execute with brutal discipline.
 
@@ -440,22 +453,26 @@ Collateral flows to energy, logistics, industrials, and infrastructure.
 
 Fund‑III must lean into this.
 
-Four principles govern private credit alignment: Principle 1 
+Four principles govern private credit alignment: Principle 
+1 
 -  Convertibility Assets must be easily levered.
 
 Hard collateral only.
 
-Principle 2 
+Principle 
+2 
 -  Predictability Credit partners require cash curves.
 
 Fund‑III must deliver.
 
-Principle 3 
+Principle 
+3 
 -  Protection Collateral must endure stress.
 
 Real assets do.
 
-Principle 4 
+Principle 
+4 
 -  Portability Collateral must travel across jurisdictions.
 
 Fund‑III architecture ensures it.
@@ -492,6 +509,7 @@ Technical Metric: Target 1.62x Net‑Liquidity Coverage Ratio across all Fund‑
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

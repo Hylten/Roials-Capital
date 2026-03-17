@@ -51,8 +51,12 @@ Cold flow operations in the Alberta Basin operate without thermal systems and re
 Institutional allocators evaluating these assets often underestimate the mechanical certainty embedded within mature reservoirs where the recovery factor is historically grounded in basin physics rather than speculative drilling.
 
 For instance: 
--  Cold flow assets often maintain 8 percent to 12 percent annual declines, enabling long term production modeling with minimal variance. 
--  SAGD recovery factors commonly range between 45 percent and 65 percent of original bitumen in place when reservoir design is optimized. 
+-  Cold flow assets often maintain 
+8 percent to 1
+2 percent annual declines, enabling long term production modeling with minimal variance. 
+-  SAGD recovery factors commonly range between 4
+5 percent and 6
+5 percent of original bitumen in place when reservoir design is optimized. 
 -  CSS deployment increases operational complexity but can substantially extend economic life where reservoir pressure characteristics support repeated cycles.
 
 These mechanics matter because they directly influence capital structure design, debt coverage ratios, and the durability of cross border collateralization.
@@ -101,7 +105,8 @@ This includes:
 
 In evaluating multi jurisdictional asset structures, stewardship translates into non wasteful capital deployment, precision in resource management, and governance that aligns authority with responsibility.
 
-It draws from the principle in **Proverbs 13:22** where long term value creation is connected to generational discipline.
+It draws from the principle in **Proverbs 13:22*
+* where long term value creation is connected to generational discipline.
 
 Within energy systems, stewardship means deploying capital where decline profiles, reservoir physics, and operational governance reduce the probability of waste.
 

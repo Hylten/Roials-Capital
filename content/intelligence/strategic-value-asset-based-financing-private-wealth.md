@@ -68,7 +68,9 @@ The mechanics can be understood through four institutional pillars.
 
 This creates resilience against market volatility because the underlying collateral does not fluctuate with sentiment cycles. 
 
-2. Loan to Value Dynamics Institutional ABL generally operates within LTV bands of 40 to 70 percent depending on asset class, jurisdiction, and operational performance.
+2. Loan to Value Dynamics Institutional ABL generally operates within LTV bands of 4
+0 to 7
+0 percent depending on asset class, jurisdiction, and operational performance.
 
 The advantage for private wealth is precision.
 
@@ -143,7 +145,8 @@ Asset Based Financing supports stewardship in four distinct ways.
 
 1. Controlled Leverage By tying liquidity to quantifiable collateral, ABL prevents the type of leverage drift common in covenant light cash flow lending.
 
-This aligns with **Proverbs 13:22** , which emphasizes responsible inheritance and long term sustainability. 
+This aligns with **Proverbs 13:22*
+* , which emphasizes responsible inheritance and long term sustainability. 
 
 2. Non Wasteful Capital Flows ABL enforces structured capital cycles.
 

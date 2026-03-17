@@ -32,9 +32,11 @@ Expand.
 
 Control liquidity.
 
-Most private investors attempt to scale the *expansion* function.
+Most private investors attempt to scale the *expansion
+* function.
 
-Institutional families and state-level allocators optimize *control* first.
+Institutional families and state-level allocators optimize *control
+* first.
 
 Control determines velocity, and velocity determines compounding power.
 
@@ -278,6 +280,7 @@ When deployed correctly these tools create a liquidity architecture that operate
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

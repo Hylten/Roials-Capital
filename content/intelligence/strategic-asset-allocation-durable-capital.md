@@ -34,7 +34,8 @@ A system of controlled constraints that eliminates the randomness that destroys 
 
 The liquidity regime has shifted.
 
-What worked in 2014 is a liability in 
+What worked in 201
+4 is a liability in 
 
 2026. 
 
@@ -60,7 +61,8 @@ Interest burden has doubled relative to EBITDA growth.
 
 Acquisition premiums have detached from cash flow certainty.
 
-Refinancing windows have compressed to an average of 22 months.
+Refinancing windows have compressed to an average of 2
+2 months.
 
 This is not a cyclical anomaly.
 
@@ -129,12 +131,16 @@ The LTV curve dictates the survival horizon of every acquisition.
 
 A stable asset is not one that grows.
 
-A stable asset is one that does not deviate beyond a 9 percent volatility band.
+A stable asset is one that does not deviate beyond a 
+9 percent volatility band.
 
 The most durable businesses in Fund-III portfolios demonstrate three traits: 
--  Cash conversion above 72 percent. 
--  Defensible receivables turnover within a 10 percent range. 
--  EBITDA reversion cycles shorter than 12 months.
+-  Cash conversion above 7
+2 percent. 
+-  Defensible receivables turnover within a 1
+0 percent range. 
+-  EBITDA reversion cycles shorter than 1
+2 months.
 
 When volatility exceeds the band, liquidity dries up regardless of credit quality.
 
@@ -147,11 +153,16 @@ Many mid market firms invert this order.
 They pay too quickly and borrow too slowly.
 
 The engineering sequence is precise: 
--  Level 1: Maintain a liquidity buffer equal to 1.8 times quarterly fixed charges. 
--  Level 2: Allocate 12 to 20 percent of free cash flow to Asset-Based Lending-eligible asset hardening. 
+-  Level 1: Maintain a liquidity buffer equal to 1.
+8 times quarterly fixed charges. 
+-  Level 2: Allocate 1
+2 to 2
+0 percent of free cash flow to Asset-Based Lending-eligible asset hardening. 
 -  Level 3: Route all remaining operational cash into acquisition reserves, not distributions.
 
-This sequencing expands runway by 38 to 62 percent across a five year hold period.
+This sequencing expands runway by 3
+8 to 6
+2 percent across a five year hold period.
 
 Without it, Fund-III is vulnerable to a single refinancing failure. 
 
@@ -163,9 +174,11 @@ Energy, industrials, and equipment backed businesses outperform soft service mod
 
 This is why UHNWIs and private credit firms are redirecting capital toward asset-backed strategies.
 
-A recovery factor above 54 percent behaves as insurance.
+A recovery factor above 5
+4 percent behaves as insurance.
 
-A recovery factor below 30 percent behaves as a liability.
+A recovery factor below 3
+0 percent behaves as a liability.
 
 Durable capital is always anchored to recoverability. 
 
@@ -189,7 +202,8 @@ The ##
 
  for durable capital rests on three pillars: 
 
-1. The 80 percent Kapitalanskaffning Engine Fund-III must be capitalized at velocity, but not at the expense of underwriting precision.
+1. The 8
+0 percent Kapitalanskaffning Engine Fund-III must be capitalized at velocity, but not at the expense of underwriting precision.
 
 LPs expect a disciplined capital raising architecture with: 
 -  Segmented LP profiles by liquidity type. 
@@ -204,7 +218,8 @@ They assume commitments repeat.
 
 Institutional capital does not repeat without structural validation. 
 
-2. The 10 percent Asset-Based Lending Monetization Architecture Layer Asset-Based Lending is no longer a niche product.
+2. The 1
+0 percent Asset-Based Lending Monetization Architecture Layer Asset-Based Lending is no longer a niche product.
 
 It is the liquidity stabilizer of the entire portfolio.
 
@@ -221,7 +236,8 @@ Asset-Based Lending is the quiet architecture that keeps Fund-III solvent in yea
 
 Without it, the GP is building a house with no foundation. 
 
-3. The 10 percent Special Mandate Corridor Special mandates are not distractions.
+3. The 1
+0 percent Special Mandate Corridor Special mandates are not distractions.
 
 They are strategic leverage points.
 
@@ -250,13 +266,15 @@ Stewardship is not moral sentimentalism.
 
 Stewardship is the discipline that prevents waste.
 
-Waste destroys compounding. **Proverbs 13:22** establishes the principle of intergenerational capital transfer.
+Waste destroys compounding. **Proverbs 13:22*
+* establishes the principle of intergenerational capital transfer.
 
 The modern GP translates that ancient mandate into operational architecture.
 
 A Fund-III steward operates on three convictions: 
 
-1. Capital is deployed only when survival probability exceeds 94 percent.
+1. Capital is deployed only when survival probability exceeds 9
+4 percent.
 
 This is not conservatism.
 
@@ -290,7 +308,9 @@ Long term solvency requires conviction, not negotiation.
 
 5. EXIT Fund-III durability is validated by one metric.
 
-Survival Horizon Ratio: 1.0 indicates fragility. 1.6 indicates institutional strength.
+Survival Horizon Ratio: 1.
+0 indicates fragility. 1.
+6 indicates institutional strength.
 
 Your ratio determines your capital future.
 
@@ -298,6 +318,7 @@ Request a confidential capital audit. #
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

@@ -32,7 +32,8 @@ Pressure creates truth.
 
 Yield reveals structure.
 
-Sovereign capital-true institutional capital-allocates accordingly. **Proverbs 13:22** : A good man leaves an inheritance to his children's children, but the wealth of the sinner is laid up for the righteous.
+Sovereign capital-true institutional capital-allocates accordingly. **Proverbs 13:22*
+* : A good man leaves an inheritance to his children's children, but the wealth of the sinner is laid up for the righteous.
 
 In institutional terms: durable capital prevails across cycles; transient capital transfers ownership when covenants tighten.
 
@@ -356,10 +357,12 @@ There is only one next step.
 
 Request a confidential capital audit.
 
-Technical metric: Target structural yield density ≥ 1.85 across all Fund‑III assets. # 
+Technical metric: Target structural yield density ≥ 1.8
+5 across all Fund‑III assets. # 
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

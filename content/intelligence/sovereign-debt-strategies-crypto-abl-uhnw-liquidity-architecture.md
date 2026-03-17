@@ -34,7 +34,9 @@ Major economies have extended sovereign balance sheets faster than domestic prod
 
 Debt rollover timelines are shortening while coupon loads are rising.
 
-This is the reverse of the 1990 to 2020 sovereign cycle.
+This is the reverse of the 199
+0 to 202
+0 sovereign cycle.
 
 The modern allocator is navigating a regime where liquidity preference is increasingly short term while sovereign issuance is structurally long term. 
 
@@ -204,7 +206,8 @@ Liquidity is not pursued to increase leverage.
 
 It is pursued to maintain strategic optionality and avoid unnecessary asset liquidation.
 
-This reflects the principle in **Proverbs 13:22** which highlights the enduring nature of multigenerational capital. 
+This reflects the principle in **Proverbs 13:22*
+* which highlights the enduring nature of multigenerational capital. 
 
 2. Asset hardening.
 

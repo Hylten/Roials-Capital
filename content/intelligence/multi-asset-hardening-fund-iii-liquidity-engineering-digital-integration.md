@@ -12,7 +12,8 @@ The shift is driven by Basel III endgame calibration, MiFID II reporting pressur
 
 The regime change is now forcing allocators to reconsider what qualifies as hard collateral and what can be engineered into working liquidity without compromising governance, seniority, or operational clarity.
 
-The 2026 environment no longer rewards passive exposure.
+The 202
+6 environment no longer rewards passive exposure.
 
 It rewards balance sheet versatility.
 
@@ -84,7 +85,13 @@ These are not retail models.
 
 They reflect intraday liquidity, historical volatility, custodial standards, and operational risk assessments.
 
-Common institutional LTV curves: Bitcoin: 20 percent to 40 percent Tokenized gold: 60 percent to 75 percent Stable asset pairs: 50 percent to 70 percent These curves are not derived from market exuberance.
+Common institutional LTV curves: Bitcoin: 2
+0 percent to 4
+0 percent Tokenized gold: 6
+0 percent to 7
+5 percent Stable asset pairs: 5
+0 percent to 7
+0 percent These curves are not derived from market exuberance.
 
 They arise from real time liquidation depth analysis, slippage modelling, and hedged redemption channels.
 
@@ -110,7 +117,9 @@ Order of operations:
 
 They do not interfere with seniority or the priority of proceeds.
 
-Cross Collateralization with Energy Assets Heavy oil assets in Alberta such as SAGD, CSS, and waterflood fields maintain documented decline patterns with recovery factors between 20 percent and 70 percent depending on formation physics.
+Cross Collateralization with Energy Assets Heavy oil assets in Alberta such as SAGD, CSS, and waterflood fields maintain documented decline patterns with recovery factors between 2
+0 percent and 7
+0 percent depending on formation physics.
 
 These characteristics create the perfect counterbalance to liquid digital assets.
 
@@ -174,7 +183,8 @@ It is a structural requirement.
 
 Poor capital governance introduces friction, waste, and systemic vulnerability.
 
-Multi asset hardening is therefore an expression of responsible resource management. **Proverbs 13:22** highlights the multigenerational vision that underpins long horizon capital discipline.
+Multi asset hardening is therefore an expression of responsible resource management. **Proverbs 13:22*
+* highlights the multigenerational vision that underpins long horizon capital discipline.
 
 Asset hardening ensures that capital is neither idle nor speculative.
 
@@ -214,6 +224,7 @@ The appropriate next step for allocators evaluating this landscape is a confiden
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

@@ -28,7 +28,8 @@ Order is not an option. ## ## ## ##
 
 ## THE REGIME SHIFT
 
- The allocator landscape in 2026 has bifurcated into two regimes.
+ The allocator landscape in 202
+6 has bifurcated into two regimes.
 
 The first regime is retail-disguised capital.
 
@@ -270,7 +271,8 @@ Stewardship is not an ethical preference.
 
 Stewardship is a competitive weapon.
 
-The allocator senses this immediately. **Proverbs 13:22** states that a good man leaves an inheritance to his children's children.
+The allocator senses this immediately. **Proverbs 13:22*
+* states that a good man leaves an inheritance to his children's children.
 
 In institutional terms this means that capital must be allocated with intergenerational discipline.
 
@@ -306,14 +308,19 @@ Not attention. ##
 
 Commitment efficiency ratio.
 
-A clean system targets 4 to 7 qualified LPs per 1 committed LP.
+A clean system targets 
+4 to 
+7 qualified LPs per 
+1 committed LP.
 
-Anything above 10 indicates systemic failure.
+Anything above 1
+0 indicates systemic failure.
 
 Request a confidential capital audit. # 
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

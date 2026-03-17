@@ -14,7 +14,8 @@ The resulting distortion has made portfolio backed liquidity one of the most imp
 
 ## THE REGIME SHIFT
 
- The post 2022 capital regime introduced a new pricing logic across North American and European private markets.
+ The post 202
+2 capital regime introduced a new pricing logic across North American and European private markets.
 
 The previous decade allowed general partners to rely on covenant light structures, cheap leverage, and undisciplined refinancing pathways.
 
@@ -23,7 +24,9 @@ That environment has unwound.
 Multiple dynamics now define the allocator landscape: 
 -  The withdrawal of regional banks from sponsor finance has widened the credit supply gap. 
 -  European MiFID II compliance cycles have raised the cost of distribution, shifting emphasis toward institutional intermediaries rather than direct general partner outreach. 
--  The 2024 to 2026 rate plateau has converted interest expense into a central operational risk for the average middle market platform. 
+-  The 202
+4 to 202
+6 rate plateau has converted interest expense into a central operational risk for the average middle market platform. 
 -  Private credit funds now operate with higher hurdle rates, wider margin requirements, and tighter cash sweep structures.
 
 Under these conditions, liquidity is no longer episodic.
@@ -162,7 +165,8 @@ In allocator terms, stewardship is expressed through:
 -  Prioritization of investments that create structural resilience rather than short term yield. 
 -  Recognition that balance sheet decisions produce second and third order consequences across the entire portfolio.
 
-The stewardship filter aligns with the principle of resource inheritance outlined in **Proverbs 13:22** .
+The stewardship filter aligns with the principle of resource inheritance outlined in **Proverbs 13:22*
+* .
 
 The allocator is not acting for a quarterly cycle.
 
@@ -215,6 +219,7 @@ The allocator who understands portfolio backed liquidity as a strategic instrume
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

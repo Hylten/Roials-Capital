@@ -101,7 +101,8 @@ Clients who hold liquidity on demand dictate timing rather than react to it. # #
 
 Its stability becomes the foundation for predictable capital migration planning.
 
-ROIALS CAPITAL provides private credit solutions that are built for the top 0:1 percent.
+ROIALS CAPITAL provides private credit solutions that are built for the top 0:
+1 percent.
 
 Quiet structures.
 
@@ -142,7 +143,8 @@ The structure, not the institution, becomes the power.
 
 Public shares carry liquidity but rarely deliver leverage at institutional terms unless engineered correctly.
 
-ROIALS CAPITAL provides public share Monetization Architecture for clients who meet the minimum threshold of 5,000,000 dollars in publicly listed securities.
+ROIALS CAPITAL provides public share Monetization Architecture for clients who meet the minimum threshold of 5,000,00
+0 dollars in publicly listed securities.
 
 This threshold is intentional.
 
@@ -162,7 +164,8 @@ However, crypto Capital Structuring for retail markets bears no resemblance to i
 
 ROIALS CAPITAL operates exclusively at the institutional tier.
 
-The minimum threshold for crypto Asset-Backed Frameworks is 2,000,000 dollars.
+The minimum threshold for crypto Asset-Backed Frameworks is 2,000,00
+0 dollars.
 
 This minimum ensures that we operate only in the domain where capital behaves structurally, not speculatively.
 
@@ -289,6 +292,7 @@ We design the system the market adapts to. #
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

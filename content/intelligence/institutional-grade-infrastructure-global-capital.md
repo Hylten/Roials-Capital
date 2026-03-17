@@ -88,7 +88,9 @@ LTV curves reveal operational truth.
 
 A non-optimized LTV curve exposes poor integration discipline, unstructured value creation, and unmanaged EBITDA drag.
 
-When the GP demonstrates a controlled LTV glide path over 36 to 48 months, the allocator observes a fund professionalized in its internal economics.
+When the GP demonstrates a controlled LTV glide path over 3
+6 to 4
+8 months, the allocator observes a fund professionalized in its internal economics.
 
 The GP who cannot produce this curve with clarity is signaling uncertainty in value capture.
 
@@ -120,7 +122,9 @@ Asset-Based Lending is no longer a defensive tool.
 
 It is a velocity weapon.
 
-When structured correctly, it compresses deal-to-deployment windows by 40 to 60 percent and stabilizes working capital curves across the operating group.
+When structured correctly, it compresses deal-to-deployment windows by 4
+0 to 6
+0 percent and stabilizes working capital curves across the operating group.
 
 Energy mandates require even tighter control.
 
@@ -194,7 +198,8 @@ Waste is a moral failure.
 
 Theology of capital is engineering of capital.
 
-Capital must be allocated with intentionality, discipline, and operational truth. **Proverbs 13:22** sets the standard: value must endure beyond the operator.
+Capital must be allocated with intentionality, discipline, and operational truth. **Proverbs 13:22*
+* sets the standard: value must endure beyond the operator.
 
 It must persist across generations, not cycles.
 
@@ -220,12 +225,15 @@ It is achieved through order.
 
 Order is an act of stewardship. ## 
 
-## EXIT Our mandate is simple: reduce capital friction by 87 percent across the fund structure and raise the throughput rate of institutional commitments by 3.4 times.
+## EXIT Our mandate is simple: reduce capital friction by 8
+7 percent across the fund structure and raise the throughput rate of institutional commitments by 3.
+4 times.
 
 For a confidential capital audit, initiate contact. # 
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

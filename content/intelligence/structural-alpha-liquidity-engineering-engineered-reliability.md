@@ -32,7 +32,8 @@ Recovery reliability is defined by basin physics and geomechanics.
 
 However, capital access is influenced more by headline exposure than by engineering certainty.
 
-From 2018 to 2025, the oil sands segment lost a significant proportion of its traditional capital stack as global institutions reweighted.
+From 201
+8 to 2025, the oil sands segment lost a significant proportion of its traditional capital stack as global institutions reweighted.
 
 This created a liquidity trap that high grade operators such as NAEO have navigated through operational discipline, modular expansion, and engineered decline management.
 
@@ -146,7 +147,8 @@ For private credit allocators, the firm identifies where asset hardening can tra
 
 ## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management.
 
-It is a capital theology shaped by **Proverbs 13:22** .
+It is a capital theology shaped by **Proverbs 13:22*
+* .
 
 Reliable assets require reliable governance.
 

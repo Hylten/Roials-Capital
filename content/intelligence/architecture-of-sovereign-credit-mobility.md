@@ -64,7 +64,8 @@ GPs ascend or decay based on their ability to move liquidity faster than market 
 
 The era of passive capital stewardship is dead.
 
-The era of Sovereign Credit Mobility defines the new hierarchy. **Proverbs 13:22** .
+The era of Sovereign Credit Mobility defines the new hierarchy. **Proverbs 13:22*
+* .
 
 The architecture begins with the perimeter.
 
@@ -124,7 +125,8 @@ Trigger thresholds.
 
 Enforcement vectors.
 
-GPs who master this language unlock institutional cost of capital that drops 40,120 bps on average across three deployment cycles.
+GPs who master this language unlock institutional cost of capital that drops 40,12
+0 bps on average across three deployment cycles.
 
 Fund-III environments demand triple-layer hardening.
 
@@ -299,7 +301,8 @@ Allocation scales Fund-III.
 Family offices now emulate sovereign strategies.
 
 They demand governance clarity, tax-efficient flows, and cross-border enforceability before committing to multi-cycle partnerships. 
--  **Proverbs 13:22** mandates generational transfer.
+-  **Proverbs 13:22*
+* mandates generational transfer.
 
 Generational capital avoids fragility.
 
@@ -373,6 +376,7 @@ Initiate confidential capital audit. #
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

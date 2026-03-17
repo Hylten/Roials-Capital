@@ -26,7 +26,8 @@ The analysis is clinically centered on three domains that dominate current alloc
 
 ## THE REGIME SHIFT
 
- 2026 is defined by a shift away from credit markets based on generic risk tranching.
+ 202
+6 is defined by a shift away from credit markets based on generic risk tranching.
 
 A decade of under underwriting in essential industries has created a misalignment between available capital and productive capital.
 
@@ -116,7 +117,8 @@ Roials Capital functions in a domain where institutional grade opportunity ident
 
 The model operates through three core tracks: Capital Formation.
 
-Approximately 80 percent of mandates center on Kapitalanskaffning for buyouts and add on sequences.
+Approximately 8
+0 percent of mandates center on Kapitalanskaffning for buyouts and add on sequences.
 
 This includes alignment with lower mid market sponsors, family backed operators, and independent sponsors who require institutional capital ## 
 
@@ -130,7 +132,8 @@ The purpose is to match strategy maturity with allocators whose mandates align w
 
 Liquidity Engineering.
 
-Roughly 10 percent of mandates involve asset based lending structures that address velocity rather than expansion.
+Roughly 1
+0 percent of mandates involve asset based lending structures that address velocity rather than expansion.
 
 These include inventory backed credit, receivables optimization, and hybrid facilities that integrate both asset and cash flow anchors.
 
@@ -140,7 +143,10 @@ It is a structural tool that prevents operational drag and allows strategic oppo
 
 Special Mandates.
 
-The remaining 10 percent is defined by high sensitivity mandates such as energy deployment through NAEO in the 50 to 250 million range, or MiFID II compliant acquisitions for European family offices.
+The remaining 1
+0 percent is defined by high sensitivity mandates such as energy deployment through NAEO in the 5
+0 to 25
+0 million range, or MiFID II compliant acquisitions for European family offices.
 
 These mandates require multidomain intelligence: regulatory coordination, asset hardening, jurisdictional matching, and operational validation.
 
@@ -158,7 +164,8 @@ THEOLOGY OF CAPITAL Stewardship is not a rhetorical device.
 
 It is a governance discipline.
 
-In capital architecture, stewardship is the commitment to avoid waste, misalignment, and opportunistic behaviors that degrade enterprise value over time. **Proverbs 13:22** provides the structural lens: capital must be organized so that its impact exceeds the decision maker’s lifespan.
+In capital architecture, stewardship is the commitment to avoid waste, misalignment, and opportunistic behaviors that degrade enterprise value over time. **Proverbs 13:22*
+* provides the structural lens: capital must be organized so that its impact exceeds the decision maker’s lifespan.
 
 This principle informs allocation, leverage calibration, and counterparty selection.
 
@@ -184,7 +191,8 @@ Institutions eliminate operators who treat governance as compliance rather than 
 
 Opportunity Velocity.
 
-Executing in 2026 requires the ability to move cleanly into opportunities when markets present structural dislocations.
+Executing in 202
+6 requires the ability to move cleanly into opportunities when markets present structural dislocations.
 
 The challenge is speed without recklessness.
 
@@ -196,7 +204,8 @@ The goal is disciplined velocity.
 
 5. ## 
 
-## DECISION MAKING LENS FOR ALLOCATORS Allocators in 2026 are navigating an environment defined by scarcity of high quality credits, geopolitical fragmentation, and a growing separation between productive and non productive capital.
+## DECISION MAKING LENS FOR ALLOCATORS Allocators in 202
+6 are navigating an environment defined by scarcity of high quality credits, geopolitical fragmentation, and a growing separation between productive and non productive capital.
 
 The strategic decision making lens for UHNW entrepreneurs and institutional LPs can be framed through three criteria: Alignment.
 

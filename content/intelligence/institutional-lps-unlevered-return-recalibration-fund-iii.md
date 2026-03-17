@@ -70,7 +70,8 @@ These forces reshape the GP’s posture.
 
 They introduce a new asymmetry: only the disciplined survive the recalibration. ## 
 
-## PHASE 2 PRINCIPAL VOICE 
+## PHASE 
+2 PRINCIPAL VOICE 
 -  DECLARATION, NOT JUSTIFICATION The ascent to Fund‑III is a sorting mechanism.
 
 It separates managers who created permanent value from those who orchestrated temporary multiples.
@@ -157,7 +158,8 @@ The track record is the architecture.
 
 The architecture is the truth. ## 
 
-## PHASE 3 THE CORE REASON: INSTITUTIONS NOW REWARD SOVEREIGN AUTONOMY IN VALUE CREATION The deeper motive is sovereignty.
+## PHASE 
+3 THE CORE REASON: INSTITUTIONS NOW REWARD SOVEREIGN AUTONOMY IN VALUE CREATION The deeper motive is sovereignty.
 
 Institutions want managers who can operate as sovereign engines of value creation.
 

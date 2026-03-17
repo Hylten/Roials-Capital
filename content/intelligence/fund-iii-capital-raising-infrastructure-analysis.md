@@ -62,7 +62,8 @@ Institutional.
 
 Precision‑driven.
 
-The lens is allocator psychology and GP positioning. **Proverbs 13:22** : capital must outlive the architect. 
+The lens is allocator psychology and GP positioning. **Proverbs 13:22*
+* : capital must outlive the architect. 
 
 ## INSTITUTIONAL LAYOUT Fund‑III allocators apply three governing filters: 
 -  Capital efficiency 
@@ -452,10 +453,12 @@ Increase commitment elasticity.
 
 For confidential capital audit, submit allocation parameters and jurisdictional exposure grid.
 
-Throughput Resilience Index: 0.92 # 
+Throughput Resilience Index: 0.9
+2 # 
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

@@ -20,7 +20,8 @@ This is the operational definition of asset hardening in the current regime.
 
 ## THE REGIME SHIFT
 
- Across 2024 to 2026, allocators have been forced into a capital architecture defined by three converging phenomena. 
+ Across 202
+4 to 2026, allocators have been forced into a capital architecture defined by three converging phenomena. 
 
 1. Incentive misalignment across commercial banks.
 
@@ -178,21 +179,26 @@ Instead, its role is to engineer alignment between allocators and the institutio
 
  distribution aligns with the demands of modern portfolio construction. 
 
-1. 80 percent Kapitalanskaffning for Fund-III and above.
+1. 8
+0 percent Kapitalanskaffning for Fund-III and above.
 
 These mandates focus on buyouts and platform roll ups that leverage yield as the anchor variable for operational scaling and enterprise value expansion.
 
 The focus is on sponsors with robust governance, proven integration capabilities, and transparent reporting cycles. 
 
-2. 10 percent ABL and Liquidity Engineering.
+2. 1
+0 percent ABL and Liquidity Engineering.
 
 Here the priority is the construction of balance sheet architectures where yield supports efficient leverage without creating fragility.
 
 The goal is structural clarity rather than maximum financial extraction. 
 
-3. 10 percent special mandates.
+3. 1
+0 percent special mandates.
 
-These include NAEO energy capitalizations between 50 million and 250 million dollars, and select EU MiFID II compliant acquisition pathways for institutions expanding their continental footprint.
+These include NAEO energy capitalizations between 5
+0 million and 25
+0 million dollars, and select EU MiFID II compliant acquisition pathways for institutions expanding their continental footprint.
 
 In each case, Roials Capital provides three forms of intelligence.
 
@@ -232,7 +238,8 @@ Roials Capital provides clarity, filters complexity, and maintains strategic ali
 
 It is a discipline within capital allocation that evaluates the degree to which capital is employed in a manner consistent with non wasteful resource management.
 
-This discipline aligns with the Biblical principle that a good person leaves an inheritance for future generations **Proverbs 13:22** .
+This discipline aligns with the Biblical principle that a good person leaves an inheritance for future generations **Proverbs 13:22*
+* .
 
 In institutional practice, stewardship requires that yield must not be extracted at the expense of asset durability.
 

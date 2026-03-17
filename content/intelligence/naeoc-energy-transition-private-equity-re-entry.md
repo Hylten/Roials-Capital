@@ -166,7 +166,9 @@ They are not chasing narratives.
 
 They are guardians of intergenerational obligations.
 
-They invest where cash flows compound predictably over 15 to 30 years.
+They invest where cash flows compound predictably over 1
+5 to 3
+0 years.
 
 The NAEOC band offers precisely this: assets that already earn, that can be improved, and that can be scaled without requiring national‑level political indulgence.
 

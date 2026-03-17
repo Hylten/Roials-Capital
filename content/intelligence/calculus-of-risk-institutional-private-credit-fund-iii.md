@@ -41,7 +41,8 @@ No drift.
 Only the architecture that governs which funds close, which collapse, and which ascend into multi‑fund permanency.
 
 A good man leaves an inheritance to his children’s children ( 
--  **Proverbs 13:22** ).
+-  **Proverbs 13:22*
+* ).
 
 Institutional capital behaves the same.
 
@@ -484,7 +485,8 @@ Inheritance requires structure.
 
 Capital requires structure.
 
-Success requires structure. **Proverbs 13:22** .
+Success requires structure. **Proverbs 13:22*
+* .
 
 For GPs ready to fortify Fund‑III, expand institutional velocity, and pressure-test structural design, initiate a confidential capital audit.
 
@@ -492,6 +494,7 @@ Terminal Metric: Required Liquidity Coverage Ratio (LCR) for Fund‑III institut
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

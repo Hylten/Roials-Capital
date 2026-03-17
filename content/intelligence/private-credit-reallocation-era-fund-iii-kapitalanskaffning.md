@@ -52,7 +52,8 @@ Defined.
 
 Exploitable.
 
-A good man leaves an inheritance to his children's children. **Proverbs 13:22** .
+A good man leaves an inheritance to his children's children. **Proverbs 13:22*
+* .
 
 I start with the structural map.
 
@@ -76,8 +77,10 @@ Capital migrates to whoever can underwrite with precision and deploy with speed.
 
 Three forces shape the terrain: 
 -  Regulatory drag in Europe and the US 
--  Yield scarcity for institutions bound by pre‑2020 return models 
--  Middle-market refinancing cliffs through 2027 This is the spine of the reallocation era.
+-  Yield scarcity for institutions bound by pre‑202
+0 return models 
+-  Middle-market refinancing cliffs through 202
+7 This is the spine of the reallocation era.
 
 Everything else is commentary.
 
@@ -134,9 +137,11 @@ Deploy or dilute.
 
 No third path.
 
-RECAPITALIZATION WAVE: 2025-2029 
+RECAPITALIZATION WAVE: 2025-202
+9 
 -  Elevated refinancing costs 
--  Stranded portfolios from 2021-2022 acquisitions 
+-  Stranded portfolios from 2021-202
+2 acquisitions 
 -  Sponsor fatigue 
 -  Asset-level supply chain changes 
 -  Cross-border acquisition arbitrage The winners will not be lenders.
@@ -243,8 +248,10 @@ THE RESTRUCTURING CLOCK The private credit cycle is not determined by interest r
 It is determined by refinancing windows and covenant decay.
 
 The market will bifurcate into two types of borrowers: 
--  Those who planned for 2026 
--  Those who will beg in 2027 Private credit becomes the triage system.
+-  Those who planned for 202
+6 
+-  Those who will beg in 202
+7 Private credit becomes the triage system.
 
 Capital to the prepared.
 
@@ -331,10 +338,12 @@ This is
 
 CONFIDENTIAL CAPITAL AUDIT REQUIRED.
 
-End metric: Deployment velocity target 94 days. # 
+End metric: Deployment velocity target 9
+4 days. # 
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

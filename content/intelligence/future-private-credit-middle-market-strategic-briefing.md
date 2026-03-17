@@ -30,7 +30,9 @@ Basel III endgame pressures, intensified loan-loss provisioning, and internal RW
 
 Traditional lenders have pivoted toward risk minimization, senior secured positions, and ultra-short duration corporate facilities.
 
-The middle market, defined operationally as enterprises with 10 million to 250 million EBITDA, sits outside current banking appetite.
+The middle market, defined operationally as enterprises with 1
+0 million to 25
+0 million EBITDA, sits outside current banking appetite.
 
 The demand side has not contracted.
 
@@ -92,7 +94,9 @@ Technical factors include:
 Lenders operate at the top of the capital stack, supported by first lien claims on cash generating assets. 
 -  LTV curves.
 
-Well constructed transactions target 35 percent to 55 percent LTV, ensuring substantial equity subordination. 
+Well constructed transactions target 3
+5 percent to 5
+5 percent LTV, ensuring substantial equity subordination. 
 -  Cash flow waterfalls.
 
 Priority payment structures direct free cash flow toward amortization before any equity realization. 
@@ -124,7 +128,9 @@ Borrowers access liquidity as needed, improving opportunity velocity without bal
 
 For manufacturing, distribution, and logistics platforms, Asset-Based Lending remains one of the most resilient forms of Monetization Architecture. 
 
-3. Special Mandates including NAEOC 50 million to 250 million Energy Allocations North American conventional energy remains a niche but structurally attractive corridor for allocators who understand basin physics, decline curve predictability, and long life heavy oil reservoirs.
+3. Special Mandates including NAEOC 5
+0 million to 25
+0 million Energy Allocations North American conventional energy remains a niche but structurally attractive corridor for allocators who understand basin physics, decline curve predictability, and long life heavy oil reservoirs.
 
 Alberta’s conventional assets exhibit technical advantages: 
 -  Established decline curves.
@@ -138,7 +144,8 @@ SAGD and CSS allow operators to engage in high recovery factor strategies with l
 The Western Canadian Sedimentary Basin provides long horizon production windows with minimal exploration risk. 
 -  Capital starvation.
 
-Since 2015, the sector has absorbed a 60 percent reduction in traditional capital flows, creating pricing dislocations uncorrelated with commodity cycles.
+Since 2015, the sector has absorbed a 6
+0 percent reduction in traditional capital flows, creating pricing dislocations uncorrelated with commodity cycles.
 
 Our strategic partner, NAEO, focuses on conventional heavy oil operations with disciplined technical stewardship.
 
@@ -186,7 +193,8 @@ They require precise articulation of how a strategy integrates with their capita
 
 In capital markets, stewardship is a form of integrity that governs allocation decisions, risk frameworks, and operational oversight.
 
-It is positioned as a theological and economic principle. **Proverbs 13:22** states that a good person leaves an inheritance for their grandchildren.
+It is positioned as a theological and economic principle. **Proverbs 13:22*
+* states that a good person leaves an inheritance for their grandchildren.
 
 In institutional capital, this translates to multi generational discipline, capital protection, and avoidance of speculative excess.
 
@@ -246,6 +254,7 @@ The outcome is clarity across capital structures and long term portfolio design.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

@@ -42,7 +42,8 @@ Industrial users, transport infrastructure, petrochemical baselines, and heating
 
 Heavy oil in particular retains strategic relevance because of its viscosity and blend compatibility for refineries built to process high metallurgical throughput. 
 
-3. Institutional Convergence Family offices, sovereign allocators, and private credit funds are converging toward the same thesis: the most durable opportunities in 2026 reside in assets whose physics create predictable cash flow profiles.
+3. Institutional Convergence Family offices, sovereign allocators, and private credit funds are converging toward the same thesis: the most durable opportunities in 202
+6 reside in assets whose physics create predictable cash flow profiles.
 
 This applies to energy decline curves, private credit amortization schedules, and real asset yield on cost models. ## 
 
@@ -210,7 +211,8 @@ Key pillars include:
 
 1. Non Wasteful Allocation Capital must be deployed into environments where operational outputs are measurable and long term.
 
-This is consistent with **Proverbs 13:22** and the multi generational ethos behind sovereign capital. 
+This is consistent with **Proverbs 13:22*
+* and the multi generational ethos behind sovereign capital. 
 
 2. Structural Oversight Stewardship demands that capital flows into systems that do not erode integrity.
 

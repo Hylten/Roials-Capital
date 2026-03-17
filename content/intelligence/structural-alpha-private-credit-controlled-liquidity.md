@@ -14,7 +14,8 @@ This asymmetry is creating a technical environment where controlled liquidity ar
 
 ## THE REGIME SHIFT
 
- The private credit market entered 2026 under a configuration defined by three reinforcing forces.
+ The private credit market entered 202
+6 under a configuration defined by three reinforcing forces.
 
 The first is balance sheet contraction across commercial banks driven by risk recalibration and slower regulatory approvals.
 
@@ -139,7 +140,8 @@ Roials Capital provides this framework, enabling allocators to assess structures
 
 ## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful capital management.
 
-It is rooted in the principle found in **Proverbs 13:22** , where generational capital is allocated through wisdom and prudence.
+It is rooted in the principle found in **Proverbs 13:22*
+* , where generational capital is allocated through wisdom and prudence.
 
 Stewardship in private credit is not moral abstraction but operational precision.
 
@@ -152,7 +154,8 @@ It is expressed through:
 
 In private credit, it manifests through disciplined underwriting, predictable amortization, and capital structures that protect both operator and allocator. ## 
 
-## ALLOCATOR LENS FOR PORTFOLIO DECISION MAKING Institutional allocators evaluating the 2026 private credit regime are identifying a consistent pattern.
+## ALLOCATOR LENS FOR PORTFOLIO DECISION MAKING Institutional allocators evaluating the 202
+6 private credit regime are identifying a consistent pattern.
 
 Structural alpha does not originate in spread differentials or opportunistic timing.
 

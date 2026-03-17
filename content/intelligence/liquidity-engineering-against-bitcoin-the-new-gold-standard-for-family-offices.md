@@ -70,7 +70,8 @@ Our structures require intentionality.
 
 Thresholds protect the environment, the client, and the architecture. # 
 
-## Crypto Monetization Architecture Minimum threshold: 2,000,000 USD.
+## Crypto Monetization Architecture Minimum threshold: 2,000,00
+0 USD.
 
 This floor ensures the capital structure functions as institutional credit rather than transactional speculation.
 
@@ -78,7 +79,8 @@ It signals a long horizon.
 
 It signals seriousness. # 
 
-## Public Share Asset-Backed Frameworks Minimum threshold: 5,000,000 USD.
+## Public Share Asset-Backed Frameworks Minimum threshold: 5,000,00
+0 USD.
 
 Positions of this size create predictable velocity within an Asset-Based Lending structure.
 
@@ -278,6 +280,7 @@ ROIALS CAPITAL is the architecture.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

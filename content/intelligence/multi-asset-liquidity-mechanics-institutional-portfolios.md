@@ -19,7 +19,8 @@ Asset managers who fail to internalize this shift weaken their negotiating lever
 Capital does not reward delay.
 
 It rewards readiness. 
--  **Proverbs 13:22** .
+-  **Proverbs 13:22*
+* .
 
 The institutional core understands this.
 
@@ -657,7 +658,8 @@ The institutional world rewards the sovereign. #
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Request confidential capital audit: ROIALS CAPITAL Liquidity Torque Ratio: 1.83x
 

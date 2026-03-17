@@ -65,14 +65,16 @@ Harden the structure and the LP commits.
 
 Harden the downside and the upside compounds.
 
-A good man leaves an inheritance to his children’s children ( **Proverbs 13:22** ).
+A good man leaves an inheritance to his children’s children ( **Proverbs 13:22*
+* ).
 
 In institutional form: durable capital is intergenerational capital.
 
 The mission is to build it. 
 -  
 -  
--  -
+-  
+-
 -  
 -  
 -  
@@ -232,7 +234,8 @@ Every geography must be a tool, not a constraint.
 This is the spine of institutional asset hardening. 
 -  
 -  
--  -
+-  
+-
 -  
 -  
 -  
@@ -311,7 +314,8 @@ LP confidence: maximized.
 Asset hardening then becomes a replicable formula, not a conceptual aspiration. 
 -  
 -  
--  -
+-  
+-
 -  
 -  
 -  
@@ -377,7 +381,8 @@ Build an acquisition‑grade liquidity stack.
 Fund‑III needs to move faster than market cycles. 
 -  
 -  
--  -
+-  
+-
 -  
 -  
 -  
@@ -415,7 +420,8 @@ If the structure is enforceable, capital flows.
 If the asset is hardened, capital compounds. 
 -  
 -  
--  -
+-  
+-
 -  
 -  
 -  
@@ -466,7 +472,8 @@ When capital commits, scale arrives.
 
 And scale is the multiplier.
 
-A good man leaves an inheritance to his children’s children ( **Proverbs 13:22** ).
+A good man leaves an inheritance to his children’s children ( **Proverbs 13:22*
+* ).
 
 In institutional finance: the principal leaves a structure that compounds beyond a generation.
 
@@ -474,7 +481,8 @@ Fund‑III is that structure. #
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Request confidential capital audit.
 

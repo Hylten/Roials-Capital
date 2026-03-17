@@ -46,7 +46,8 @@ They want operating blueprints, not leverage diagrams.
 
 They want a house that stands on stone, not scaffolding.
 
-The question is never “Can you close the next add‑on?” The question is “Can you build a sovereign architecture where the add‑on becomes unavoidable, inevitable, and economically ordained?” Operational alpha is the only acceptable answer. * To understand why the world has re-centered around it, you must begin with the simple reality: the add‑on strategy was historically misunderstood.
+The question is never “Can you close the next add‑on?” The question is “Can you build a sovereign architecture where the add‑on becomes unavoidable, inevitable, and economically ordained?” Operational alpha is the only acceptable answer. 
+* To understand why the world has re-centered around it, you must begin with the simple reality: the add‑on strategy was historically misunderstood.
 
 Most treated it as a financial exercise.
 
@@ -157,7 +158,8 @@ The institutional allocator sees two paths: The GP who accumulates companies.
 
 And the GP who constructs an industrial organism.
 
-Only one receives Fund‑III allocations without resistance. * ROIALS CAPITAL Position.
+Only one receives Fund‑III allocations without resistance. 
+* ROIALS CAPITAL Position.
 
 We are the operational engine for capital formation.
 
@@ -193,7 +195,8 @@ They want evidence that operations are not outsourced to consultants or assumed 
 
 They want to know the GP sees the company with clarity: structure, incentives, cadence, integration.
 
-Operational alpha is not optional because operational opacity is no longer tolerated. * Extended Analysis.
+Operational alpha is not optional because operational opacity is no longer tolerated. 
+* Extended Analysis.
 
 The world is witnessing the collision of three forces: 
 
@@ -237,7 +240,8 @@ Not optional.
 
 Even in consumer and healthcare, the same truth stands: The GP wins not through buying cheaper but through operating better.
 
-This is the frontier. * Machine-gun series: Build the backbone.
+This is the frontier. 
+* Machine-gun series: Build the backbone.
 
 Strengthen the organism.
 
@@ -255,7 +259,8 @@ They must allocate only to GPs who show moral authority in execution.
 
 Anything less is dereliction.
 
-Operational alpha is moral authority in motion. * Capital Raising Implications.
+Operational alpha is moral authority in motion. 
+* Capital Raising Implications.
 
 Once the GP embraces operational architecture as the center of value creation, capital raising becomes cleaner, stronger, and more predictable.
 
@@ -277,7 +282,8 @@ That is what moves LPs from exploratory interest to hard commitments.
 
 Operational excellence is the foundation of GP credibility.
 
-Financial engineering is only the decoration. * The Role of ROIALS CAPITAL in this Environment.
+Financial engineering is only the decoration. 
+* The Role of ROIALS CAPITAL in this Environment.
 
 We are the gatekeepers of institutional seriousness.
 
@@ -303,7 +309,8 @@ Because scarcity drives respect, and respect drives commitments.
 
 A GP aligned with ROIALS CAPITAL enters the room with institutional posture.
 
-The LP senses the distinction immediately. * Closing Doctrine.
+The LP senses the distinction immediately. 
+* Closing Doctrine.
 
 Operational alpha is not merely the preference of the moment.
 

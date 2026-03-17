@@ -149,7 +149,8 @@ Asset hardening eliminates it.
 
 Fund‑III treats hardening as an acquisition prerequisite.
 
-No asset enters the platform unless it can be hardened to sovereign-grade within 120 days.
+No asset enters the platform unless it can be hardened to sovereign-grade within 12
+0 days.
 
 This is a non‑negotiable rule.
 
@@ -302,7 +303,8 @@ Every competitor without a sovereign Asset-Based Lending engine becomes operatio
 -  
 -  
 
-## The Biblical Mandate: Inheritance and Hard Assets **Proverbs 13:22** states: A good man leaves an inheritance to his children’s children: wealth flows across generations through structured stewardship, not reactive management.
+## The Biblical Mandate: Inheritance and Hard Assets **Proverbs 13:22*
+* states: A good man leaves an inheritance to his children’s children: wealth flows across generations through structured stewardship, not reactive management.
 
 In the institutional domain, stewardship is defined through asset hardening, jurisdictional clarity, and liquidity sovereignty.
 
@@ -360,6 +362,7 @@ Mandate Reference: LQR‑Δ
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

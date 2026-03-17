@@ -51,7 +51,8 @@ Each resolves a specific failure within the traditional banking ecosystem.
 
 The mechanics are defined by: 
 -  LTV curves that account for sector specific cash-flow volatility rather than banking standard slotting. 
--  Amortization structures that track the operational improvements expected during the first 36 months of ownership. 
+-  Amortization structures that track the operational improvements expected during the first 3
+6 months of ownership. 
 -  Seniority that is preserved through covenants tied to EBITDA consistency, operational integration, and inventory turnover.
 
 Private credit here performs a balance sheet optimization function.
@@ -86,7 +87,9 @@ It amplifies senior debt.
 
 It is the liquidity counterpart to sponsor equity discipline.
 
-In a Fund-III context, ABL often releases between 10 percent and 18 percent of latent liquidity, reducing sponsor equity burn and preserving future acquisition capacity. 
+In a Fund-III context, ABL often releases between 1
+0 percent and 1
+8 percent of latent liquidity, reducing sponsor equity burn and preserving future acquisition capacity. 
 
 4. Special Mandates Two categories define this segment.
 
@@ -125,7 +128,8 @@ The architecture prioritizes:
 
 ## THE STEWARDSHIP FILTER Stewardship is not a branding exercise.
 
-It is a capital discipline. **Proverbs 13:22** frames the principle: multi generational planning built on asset stewardship, not extraction.
+It is a capital discipline. **Proverbs 13:22*
+* frames the principle: multi generational planning built on asset stewardship, not extraction.
 
 Stewardship within M&A architecture requires three non negotiable practices: 
 -  Non wasteful capital deployment where leverage levels match the durability of cash flows. 
@@ -138,7 +142,8 @@ In buyouts, it means disciplined acquisition pacing and cash flow centric integr
 
 In private credit, it means underwriting resilience over yield maximization. ## 
 
-## CALIBRATION FOR THE INSTITUTIONAL DECISION MAKER Allocators entering 2026 face a structural choice.
+## CALIBRATION FOR THE INSTITUTIONAL DECISION MAKER Allocators entering 202
+6 face a structural choice.
 
 Either navigate a capital market fractured by regulatory constraints or engage with a private credit ecosystem engineered for execution precision.
 

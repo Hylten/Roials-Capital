@@ -16,7 +16,9 @@ In this regime, Asset Based Strategic Collateralization operates as the primary 
 
 ## THE REGIME SHIFT
 
- Allocators operating from 2024 to 2026 are navigating the most complex capital cycle since the post Bretton Woods restructuring.
+ Allocators operating from 202
+4 to 202
+6 are navigating the most complex capital cycle since the post Bretton Woods restructuring.
 
 The present environment is defined by four converging pressures: 
 -  A global cost of capital reset that has structurally redefined hurdle rates and the viability of leverage across buyout ecosystems. 
@@ -111,7 +113,8 @@ It is not a product.
 
 It is an architecture. 
 
-## PHASE 2 SUBSET: ENERGY SPECIFIC MECHANICS WITH NAEOCC When applied to the North American conventional energy corridor through NAEOCCC, to which we serve as a strategic partner, Asset-Based Lending-E takes on an additional layer of technical specificity. 
+## PHASE 
+2 SUBSET: ENERGY SPECIFIC MECHANICS WITH NAEOCC When applied to the North American conventional energy corridor through NAEOCCC, to which we serve as a strategic partner, Asset-Based Lending-E takes on an additional layer of technical specificity. 
 -  Reservoir Quality Conventional heavy oil assets in Alberta operate within well-characterized geologic environments.
 
 Reservoir continuity is stable.
@@ -172,7 +175,8 @@ It is not philanthropy.
 
 It is not austerity.
 
-It is the deliberate management of capital in a manner that respects longevity, continuity, and intergenerational responsibility. **Proverbs 13:22** states that a good person leaves an inheritance for their grandchildren.
+It is the deliberate management of capital in a manner that respects longevity, continuity, and intergenerational responsibility. **Proverbs 13:22*
+* states that a good person leaves an inheritance for their grandchildren.
 
 The institutional application of this principle is clear: an inheritance requires durable assets, resilient liquidity systems, and disciplined governance.
 
@@ -208,6 +212,7 @@ The objective is to determine whether their current capital architecture support
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

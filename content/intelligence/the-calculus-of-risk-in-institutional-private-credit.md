@@ -153,7 +153,8 @@ This reduces the entropy within a portfolio and strengthens the allocator's abil
 
 Stewardship structures prioritize balance sheet optimization over short term yield.
 
-This reflects the principle of **Proverbs 13:22** which emphasizes intergenerational responsibility and prudent asset management. 
+This reflects the principle of **Proverbs 13:22*
+* which emphasizes intergenerational responsibility and prudent asset management. 
 
 3. Governance Anchoring Counterparties are assessed on governance behavior rather than marketing narratives.
 

@@ -39,7 +39,8 @@ Not about momentum.
 Not about allocation policy.
 
 It is about re‑sovereignization of capital stacks and the engineering of controlled asymmetry. 
--  **Proverbs 13:22** : A good man leaveth an inheritance to his children's children: and the wealth of the sinner is laid up for the just.
+-  **Proverbs 13:22*
+* : A good man leaveth an inheritance to his children's children: and the wealth of the sinner is laid up for the just.
 
 The verse is not morality.
 
@@ -75,7 +76,8 @@ The structural drift.
 
 The redirection of capital sovereignty.
 
-And the path of Fund-III as a hard asset, add‑on driven, energy‑aligned institution engineered for institutional LPs that demand durability, precision, and clarity across the next 12‑18 cycles.
+And the path of Fund-III as a hard asset, add‑on driven, energy‑aligned institution engineered for institutional LPs that demand durability, precision, and clarity across the next 12‑1
+8 cycles.
 
 I speak in short bursts.
 
@@ -261,7 +263,8 @@ We build them with four principles:
 
 3. Controlled leverage. 
 
-4. Add-on integration cycles below 12 months.
+4. Add-on integration cycles below 1
+2 months.
 
 This is why Fund-III is not chasing hypergrowth.
 
@@ -574,10 +577,12 @@ Fund‑III is architecture built to serve both. #
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Request confidential capital audit to determine your deployment compatibility and sovereign alignment delta.
 
-Terminal Metric: 0.72 Structural Integrity Coefficient.
+Terminal Metric: 0.7
+2 Structural Integrity Coefficient.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

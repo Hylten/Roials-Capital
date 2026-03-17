@@ -30,7 +30,9 @@ Signal is clear.
 
 Compression of regulatory latitude under Basel IV accelerates the migration.
 
-Regional lenders withdraw 12 to 23 percent of commercial underwriting capacity across the United States and the EU corridor.
+Regional lenders withdraw 1
+2 to 2
+3 percent of commercial underwriting capacity across the United States and the EU corridor.
 
 The void demands engineered liquidity, not rotating revolvers.
 
@@ -38,7 +40,8 @@ Structures built for resilience, not compliance.
 
 Sovereigns identify the inflection first.
 
-They always do. **Proverbs 13:22** .
+They always do. **Proverbs 13:22*
+* .
 
 A good man leaves an inheritance: to his children’s children.
 
@@ -125,7 +128,8 @@ Control shifts to those who can deploy debt as a strategic implement, not merely
 Private credit becomes the weaponization of certainty.
 
 STRUCTURAL DEMAND DRIVERS 
--  Global refinancing wall of $2.1 trillion in maturing midmarket debt 
+-  Global refinancing wall of $2.
+1 trillion in maturing midmarket debt 
 -  Post-Basel collateral mandates forcing banks to limit exposure to subscale borrowers 
 -  Sovereign demand for inflation-protected real-asset yield Fund-III’s positioning is intentional.
 
@@ -456,6 +460,7 @@ Leverage Ratio Target: 1.85x. #
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

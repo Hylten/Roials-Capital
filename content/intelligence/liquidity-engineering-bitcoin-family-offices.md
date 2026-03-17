@@ -116,7 +116,9 @@ It is a governance function.
 
 Monetization Architecture is a stewardship tool because it minimizes waste created by timing mismatches, collateral inefficiencies, and reserve fragmentation.
 
-Scripture speaks directly to this principle. **Proverbs 13:22** affirms that legacy is dependent on disciplined resource management. **Matthew 25:21** highlights the principle of faithfulness in small matters as a foundation for scale.
+Scripture speaks directly to this principle. **Proverbs 13:22*
+* affirms that legacy is dependent on disciplined resource management. **Matthew 25:21*
+* highlights the principle of faithfulness in small matters as a foundation for scale.
 
 These are not moral abstractions.
 
@@ -151,6 +153,7 @@ A Confidential Strategy Audit refines the liquidity stack, calibrates reserve ar
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

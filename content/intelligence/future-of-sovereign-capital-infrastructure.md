@@ -20,7 +20,8 @@ The result is a multi decade capital architecture reset where the allocator with
 
 It now represents the integrated ecosystem where sovereign allocators, institutional LPs, and global GPs construct parallel capital architectures designed to stabilize procurement, supply chain continuity, and long horizon productivity.
 
-The shift began in 2022 when rate normalization exposed the fragility of liquidity dependent structures.
+The shift began in 202
+2 when rate normalization exposed the fragility of liquidity dependent structures.
 
 By 2025, capital scarcity revealed which sectors had true productive capacity and which relied on perpetual refinancing. 
 
@@ -34,7 +35,8 @@ In other words, sovereignty prefers assets where operational physics governs ret
 
 2. The decline of unrestricted capital mobility Basel III, MiFID II tightening, US Basel endgame policies, and regional capital controls have created friction points that reduce the velocity of institutional deployment.
 
-Capital can no longer move through the global system with pre 2018 fluidity.
+Capital can no longer move through the global system with pre 201
+8 fluidity.
 
 Sovereign allocators must therefore build parallel channels of procurement and access.
 
@@ -76,7 +78,9 @@ Steam injection reduces viscosity, enabling gravity driven flow.
 
 The system is predictable because it follows thermal and fluid dynamics principles.
 
-Recovery factors generally range between 30 to 60 percent depending on reservoir continuity.
+Recovery factors generally range between 3
+0 to 6
+0 percent depending on reservoir continuity.
 
 For sovereign allocators, this introduces infrastructural stability through operational physics. 
 
@@ -104,7 +108,8 @@ This classification shift is driving new capital pathways which require technica
 
 Financial Mechanics: Fund-III Capital Formation and Cross Jurisdiction Structuring For allocators evaluating Fund-III strategies, the technical frameworks have shifted. 
 
-1. LTV curve stabilization Post-2024 lending markets reoriented toward collateral priority rather than liquidity preference.
+1. LTV curve stabilization Post-202
+4 lending markets reoriented toward collateral priority rather than liquidity preference.
 
 Sovereign allocators therefore evaluate Fund-III exposures through stabilized LTV curves where collateral hardening determines capital efficiency.
 
@@ -168,7 +173,8 @@ Stewardship is not thematic.
 
 It is the discipline of non wasteful resource allocation across time.
 
-This form of stewardship aligns with the theology of capital where resources are understood as entrusted rather than possessed. **Proverbs 13:22** states that a good person leaves an inheritance for future generations.
+This form of stewardship aligns with the theology of capital where resources are understood as entrusted rather than possessed. **Proverbs 13:22*
+* states that a good person leaves an inheritance for future generations.
 
 Within the institutional context, this means capital structures that endure beyond cycles and remain productive under stress.
 
@@ -206,6 +212,7 @@ The objective is not transactional deployment but long term structural alignment
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.

@@ -16,7 +16,8 @@ The result is a technical environment where risk is not elevated, but mispriced,
 
  Private credit has advanced from a peripheral asset class to a primary channel of institutional capital formation.
 
-As Basel III, IV, and the European CRR2 framework increased capital reserve burdens, bank lending became structurally constrained, particularly in sectors requiring asset intensive underwriting or operational remediation.
+As Basel III, IV, and the European CRR
+2 framework increased capital reserve burdens, bank lending became structurally constrained, particularly in sectors requiring asset intensive underwriting or operational remediation.
 
 The vacuum was filled by private credit funds, but the rate at which capital demand expanded eclipsed the rate at which institutional allocators recalibrated their portfolio construction models.
 
@@ -74,7 +75,9 @@ LTV is not a static ratio.
 
 It behaves as a curve that shifts as collateral hardening progresses.
 
-In acquisition finance, initial high nominal LTV ratios typically compress within 12 to 24 months as integration efficiencies are realized.
+In acquisition finance, initial high nominal LTV ratios typically compress within 1
+2 to 2
+4 months as integration efficiencies are realized.
 
 Sophisticated lenders model LTV decay trajectories rather than static values.
 
@@ -176,7 +179,8 @@ It is not merely a financial principle.
 
 It is a moral architecture grounded in the responsible management of resources.
 
-As **Proverbs 13:22** notes, the responsibility of leaving an inheritance requires both discipline and foresight.
+As **Proverbs 13:22*
+* notes, the responsibility of leaving an inheritance requires both discipline and foresight.
 
 The stewardship filter applies three tests. 
 
@@ -218,6 +222,7 @@ The outcome is a calibrated understanding of how private credit can function as 
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+0 for comprehensive structural execution.
 
 Access is restricted to approved mandates. Minimum target size: $5M+.
