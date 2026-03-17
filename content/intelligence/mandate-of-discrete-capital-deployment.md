@@ -264,7 +264,7 @@ E
 
 The tools are institutional introductions, strategic mapping, and situational deployment models that respect both the complexity of modern markets and the responsibilities of serious capital. [END OF BRIEFING]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+# TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

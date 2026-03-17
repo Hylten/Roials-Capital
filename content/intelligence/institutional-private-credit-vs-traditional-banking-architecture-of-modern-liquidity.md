@@ -242,7 +242,7 @@ Roials Capital supports allocators through confidential strategy audits and port
 
 The objective is to align institutional capital with the correct liquidity architecture, ensuring precise navigation across markets that demand technical intelligence rather than generalist assumptions. [END OF INSTITUTIONAL BRIEFING]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+# TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

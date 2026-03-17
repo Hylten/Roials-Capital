@@ -6,7 +6,7 @@ author: "ROIALS CAPITAL"
 slug: "why-gps-launching-esg-optional-funds"
 --- 
 
-## Why GPs Are Increasingly Launching ESG‑Optional Rather Than ESG‑Mandatory Funds General Partners across US, EU, and GCC markets are shifting away from ESG‑mandatory fund structures for three primary reasons:
+# Why GPs Are Increasingly Launching ESG‑Optional Rather Than ESG‑Mandatory Funds General Partners across US, EU, and GCC markets are shifting away from ESG‑mandatory fund structures for three primary reasons:
 
  
 
@@ -59,7 +59,9 @@ Optional frameworks allow the GP to execute operational value creation without d
 
 - 
 
-- ## Institutional Capital View (Fund-III+) LPs continuing to back emerging and established managers increasingly differentiate between **ESG as a reporting discipline
+- 
+
+# Institutional Capital View (Fund-III+) LPs continuing to back emerging and established managers increasingly differentiate between **ESG as a reporting discipline
 
 * 
 
@@ -79,7 +81,9 @@ Mandatory rules suppress them.” As a result, Fund‑III and Fund‑IV launches
 
 - 
 
-- ## Implications for Buyouts and Add‑Ons For platform builders, an ESG‑optional fund creates flexibility in three areas:
+- 
+
+# Implications for Buyouts and Add‑Ons For platform builders, an ESG‑optional fund creates flexibility in three areas:
 
 - Ability to buy non‑compliant assets and convert them during the holding period.
 
@@ -93,7 +97,9 @@ This improves capital formation and increases the velocity of deployment, partic
 
 - 
 
-- ## Asset‑Based Lending Note (General, No Persona Rules) In private credit markets, ESG‑mandatory requirements shrink the eligible borrower universe
+- 
+
+# Asset‑Based Lending Note (General, No Persona Rules) In private credit markets, ESG‑mandatory requirements shrink the eligible borrower universe
 
 - especially in manufacturing, logistics, metals, and energy‑adjacent categories.
 
@@ -119,7 +125,9 @@ If you would like, I can also prepare a clean section on **when ABL structures m
 
 - 
 
-- ## Special Mandates (Energy & MiFID II Deals) An ESG‑optional structure is increasingly preferred by allocators deploying into:
+- 
+
+# Special Mandates (Energy & MiFID II Deals) An ESG‑optional structure is increasingly preferred by allocators deploying into:
 
 - North American energy and infrastructure transitions ($50M.$250M tickets),
 
@@ -135,7 +143,9 @@ Reason: It avoids disqualifying assets where transformation
 
 - 
 
-- ## If you want a full publish‑ready article I can create:
+- 
+
+# If you want a full publish‑ready article I can create:
 
 - a long‑form research note,
 

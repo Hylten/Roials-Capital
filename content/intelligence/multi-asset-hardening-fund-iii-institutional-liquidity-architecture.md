@@ -6,7 +6,7 @@ author: "ROIALS CAPITAL | Principal Architect"
 slug: "multi-asset-hardening-Fund-III-institutional-liquidity-architecture"
 --- 
 
-## THE MANDAT
+# THE MANDAT
 
 E
 

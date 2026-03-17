@@ -372,7 +372,9 @@ Collateral structures calibrated for institutional thresholds.
 
 Liquidity independence from market conditions.
 
-Lockstep valuation models that remain stable under stress.
+Lock
+
+### Step V: aluation models that remain stable under stress.
 
 High-trust custody arrangements that resist regulatory interference.
 

@@ -49,7 +49,7 @@ Power flows to structure.
 F‑Framework 2.
 0 (Logic Layer)
 
-# Layer I: .
+### Layer I: .
 
 Foundation Positioning The Principal must define the *sovereign perimeter*.
 

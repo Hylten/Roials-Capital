@@ -54,7 +54,9 @@ Asset‑based engineering gives the fund that capability.
 
 - 
 
-- ## The Sovereign Logic of Liquidity Manufacture State actors do not wait for markets.
+- 
+
+# The Sovereign Logic of Liquidity Manufacture State actors do not wait for markets.
 
 They manufacture liquidity when required for resource acquisition, settlement, or balance‑sheet hardening.
 
@@ -90,7 +92,9 @@ This is why the Fund‑III architecture places Capital Structuring at the core, 
 
 - 
 
-- ## Kapitalanskaffning as an Institutional Weapon System Raising institutional capital at scale is not an administrative function.
+- 
+
+# Kapitalanskaffning as an Institutional Weapon System Raising institutional capital at scale is not an administrative function.
 
 It is a weapon system.
 
@@ -140,7 +144,9 @@ E
 
 - 
 
-- ## Asset Hardening as a Strategic Prerequisite Before any asset can support Monetization Architecture, it must be hardened.
+- 
+
+# Asset Hardening as a Strategic Prerequisite Before any asset can support Monetization Architecture, it must be hardened.
 
 Hardening is not cosmetic.
 
@@ -188,7 +194,9 @@ Soft assets absorb risk.
 
 - 
 
-- ## Strategic Collateralization as a Sovereign Mechanism Asset-Based Lending at the sovereign level is not borrowing.
+- 
+
+# Strategic Collateralization as a Sovereign Mechanism Asset-Based Lending at the sovereign level is not borrowing.
 
 It is controlled acceleration.
 
@@ -234,7 +242,9 @@ Asset-Based Lending engineering becomes the quiet engine that allows the fund to
 
 - 
 
-- ## The Role of Energy Assets in Asset-Based Lending Sovereignty The NAEOC corridor, with mandates from $50M to $250M, offers energy assets that behave like sovereign instruments.
+- 
+
+# The Role of Energy Assets in Asset-Based Lending Sovereignty The NAEOC corridor, with mandates from $50M to $250M, offers energy assets that behave like sovereign instruments.
 
 Hydrocarbon reserves, midstream infrastructure, and processing assets exhibit unique Asset-Based Lending characteristics:
 
@@ -264,7 +274,9 @@ LPs gain cross‑jurisdictional immunity.
 
 - 
 
-- ## MiFID II Acquisition Architecture European acquisitions require precision structuring.
+- 
+
+# MiFID II Acquisition Architecture European acquisitions require precision structuring.
 
 MiFID II imposes reporting, transparency, and control requirements that can slow acquisition cycles unless pre‑engineered.
 
@@ -292,7 +304,9 @@ The LP gains regulatory‑stable yield.
 
 - 
 
-- ## Institutional GP Posture A GP operating at sovereign bandwidth behaves differently.
+- 
+
+# Institutional GP Posture A GP operating at sovereign bandwidth behaves differently.
 
 It signals differently.
 
@@ -322,7 +336,9 @@ It is identity.
 
 - 
 
-- ## Buyout Architecture Under Hard Liquidity The buyout model changes under sovereign Asset-Based Lending conditions.
+- 
+
+# Buyout Architecture Under Hard Liquidity The buyout model changes under sovereign Asset-Based Lending conditions.
 
 Deals close faster.
 
@@ -360,7 +376,9 @@ Every competitor without a sovereign Asset-Based Lending engine becomes operatio
 
 - 
 
-- ## The Biblical Mandate: Inheritance and Hard Assets **Proverbs 13:22
+- 
+
+# The Biblical Mandate: Inheritance and Hard Assets **Proverbs 13:22
 
 * 
 
@@ -380,7 +398,9 @@ Asset-Based Lending becomes the modern translation of inheritance logic: assets 
 
 - 
 
-- ## The Sovereign Mandate of Fund‑III Fund‑III is engineered to function as a sovereign capital architecture.
+- 
+
+# The Sovereign Mandate of Fund‑III Fund‑III is engineered to function as a sovereign capital architecture.
 
 Not a traditional fund.
 
@@ -392,7 +412,7 @@ The hierarchy of priorities reflects that position:
 
 - 10% strategic and regulatory mandates (NAEOC + MiFID II acquisitions) 
 
-## THE MANDAT
+# THE MANDAT
 
 E
 
@@ -414,7 +434,9 @@ Capital should advance.
 
 - 
 
-- ## The Institutional Ask Institutions evaluating Fund‑III need a confidential capital audit to determine:
+- 
+
+# The Institutional Ask Institutions evaluating Fund‑III need a confidential capital audit to determine:
 
 - Liquidity absorption thresholds
 

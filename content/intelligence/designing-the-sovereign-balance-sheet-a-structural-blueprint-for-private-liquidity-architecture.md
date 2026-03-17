@@ -308,7 +308,9 @@ Then we finalize the covenant design and operational triggers.
 
 Each 
 
-### Phase I: s engineered with silence, precision, and sovereign intent
+### Phase I
+
+s engineered with silence, precision, and sovereign intent
 
 . principal authority: The Roials Capital Position We do not market
 

@@ -86,7 +86,9 @@ Covenant enforced.
 
 The facility requires five mechanical layers. 
 
-### Layer I: Eligibility Grid The eligible asset pool must be objective
+### Layer I
+
+Eligibility Grid The eligible asset pool must be objective
 
 .
 

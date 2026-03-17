@@ -230,7 +230,7 @@ Does the structure allow for dynamic capital deployment and balance sheet optimi
 
 Roials Capital provides institutional LPs and GPs with a confidential strategy audit to evaluate alignment across these four dimensions and calibrate portfolio posture accordingly. [END OF BRIEFING]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+# TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

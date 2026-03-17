@@ -252,7 +252,9 @@ The absence of emotive logic is a feature, not a limitation.
 
 Structural Immunity Through Covenant 
 
-### Layer I: nteroperability Covenants behave like layered permissions
+### Layer I
+
+nteroperability Covenants behave like layered permissions
 
 .
 

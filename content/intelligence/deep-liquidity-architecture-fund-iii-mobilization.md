@@ -332,7 +332,7 @@ This
 
 . 
 
-### Layer C
+# Layer C
 
 - Jurisdictional Operational Hubs Assets must sit in operational jurisdictions matched to their legal, tax, and cash‑flow requirements.
 
@@ -360,7 +360,7 @@ Institutional allocators measure not just performance, but the perceived permane
 
 Fund‑III must materially upgrade GP status across five axes: 
 
-# Axis I
+### Axis I
 
 - Acquisition Authority LPs expect acquisition velocity with discipline.
 
@@ -376,7 +376,9 @@ They must trust the convertibility.
 
 They must see hard‑asset protection. 
 
-### Axis III: - Governance Density LPs evaluate compliance infrastructure
+### Axis III
+
+- Governance Density LPs evaluate compliance infrastructure
 
 .
 

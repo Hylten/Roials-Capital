@@ -282,7 +282,7 @@ It is not a solicitation.
 
 It is an institutional calibration mechanism designed to support disciplined capital deployment. [END OF BRIEFING]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+# TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

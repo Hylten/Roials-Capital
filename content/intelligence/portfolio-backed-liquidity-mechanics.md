@@ -284,7 +284,7 @@ Allocators, GPs, and institutional partners seeking a detailed mapping of liquid
 
 The audit addresses the precision mechanics necessary to maintain institutional grade momentum across the full private capital cycle. [END OF BRIEFING]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+# TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

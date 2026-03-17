@@ -28,7 +28,7 @@ Permanence is engineered. [
 
  
 
-## THE REGIME SHIF
+# THE REGIME SHIF
 
 T
 
@@ -86,7 +86,7 @@ It is the determinant of institutional survival. [
 
  
 
-## TECHNICAL MECHANIC
+# TECHNICAL MECHANIC
 
 S
 
@@ -190,7 +190,7 @@ Neither is stewardship. [
 
  
 
-## THE
+# THE
 
  
 
@@ -280,7 +280,7 @@ A fund becomes inevitable when its capital architecture is stronger than the mar
 
  
 
-## THE STEWARDSHIP FILTER ] We do not build capital for a quarter
+# THE STEWARDSHIP FILTER ] We do not build capital for a quarter
 
 .
 

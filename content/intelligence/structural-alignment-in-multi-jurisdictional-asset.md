@@ -368,7 +368,7 @@ Structural Integrity Tests A portfolio is considered institution ready when it p
 
 :
 
-## Jurisdictional Symmetry Test If a covenant can be enforced in jurisdiction A but not B, the structure fails
+# Jurisdictional Symmetry Test If a covenant can be enforced in jurisdiction A but not B, the structure fails
 
 .
 

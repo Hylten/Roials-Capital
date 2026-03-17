@@ -270,7 +270,7 @@ Roials Capital provides confidential Strategy Audits and Portfolio Calibration s
 
 The objective is to determine whether their current capital architecture supports or constrains multi generational wealth. [END OF BRIEFING]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+# TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

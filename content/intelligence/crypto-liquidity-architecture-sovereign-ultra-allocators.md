@@ -48,7 +48,7 @@ Delayed collateral release.
 
 Each 
 
-### Layer C: reated latency
+# Layer C: reated latency
 
 .
 
@@ -158,7 +158,7 @@ Customer settlement accounts.
 
 Each 
 
-### Step D
+# Step D
 
 efines the routing logic for capital release and capital recall.
 

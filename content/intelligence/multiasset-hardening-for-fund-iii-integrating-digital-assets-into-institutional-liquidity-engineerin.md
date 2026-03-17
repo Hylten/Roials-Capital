@@ -14,7 +14,7 @@ The architecture that supports Fund-III operations must create stability across 
 
 At Roials Capital, 
 
-## THE MANDAT
+# THE MANDAT
 
 E
 

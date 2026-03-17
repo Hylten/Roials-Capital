@@ -44,7 +44,9 @@ Below is the strategic architecture that defines the next chapter of institution
 
 - 
 
-- ## The Era of Capital Mobility Redefined Wealth holders at the HNWI and UHNW tier once relied on local structures.
+- 
+
+# The Era of Capital Mobility Redefined Wealth holders at the HNWI and UHNW tier once relied on local structures.
 
 Local banks.
 
@@ -88,7 +90,9 @@ ROIALS CAPITAL functions as the architect of that advantage.
 
 - 
 
-- ## Private Credit as a Migration Engine Private credit has become the structural backbone of mobility for the global UHNW segment.
+- 
+
+# Private Credit as a Migration Engine Private credit has become the structural backbone of mobility for the global UHNW segment.
 
 It is uncorrelated to public volatility, operates in the shadows of banking regulation, and allows for sophisticated leverage against non traditional or illiquid assets.
 
@@ -126,7 +130,9 @@ Every term engineered with precision.
 
 - 
 
-- ## Asset Based Institutional Liquidity Paths: The Structural Core Asset based Monetization Architecture is where capital migration becomes mechanical.
+- 
+
+# Asset Based Institutional Liquidity Paths: The Structural Core Asset based Monetization Architecture is where capital migration becomes mechanical.
 
 Asset-Based Lending converts traditionally immobilized wealth into high velocity liquidity while maintaining full asset integrity and privacy.
 
@@ -156,7 +162,9 @@ The structure, not the institution, becomes the power.
 
 - 
 
-- ## Public Share Strategic Collateralization: High Velocity Liquidity at Scale Public equity positions remain one of the most consistently underutilized forms of leverage in private wealth.
+- 
+
+# Public Share Strategic Collateralization: High Velocity Liquidity at Scale Public equity positions remain one of the most consistently underutilized forms of leverage in private wealth.
 
 Public shares carry liquidity but rarely deliver leverage at institutional terms unless engineered correctly.
 
@@ -180,7 +188,9 @@ Public share Institutional Liquidity Paths serves three purposes in strategic ca
 
 - 
 
-- ## Crypto Strategic Collateralization for the Institutional Tier Crypto is now a recognized asset class for leverage at the UHNW level.
+- 
+
+# Crypto Strategic Collateralization for the Institutional Tier Crypto is now a recognized asset class for leverage at the UHNW level.
 
 However, crypto Capital Structuring for retail markets bears no resemblance to institutional crypto Strategic Collateralization.
 
@@ -208,7 +218,9 @@ ROIALS CAPITAL positions crypto Monetization Architecture within a disciplined i
 
 - 
 
-- ## Jurisdictional Strategy: The New Competitive Edge Capital migration is not simply the movement of liquidity.
+- 
+
+# Jurisdictional Strategy: The New Competitive Edge Capital migration is not simply the movement of liquidity.
 
 It is the movement of control.
 
@@ -234,7 +246,9 @@ The structure exerts principal authority.
 
 - 
 
-- ## The Architecture of principal authority We operate without noise.
+- 
+
+# The Architecture of principal authority We operate without noise.
 
 Our clients operate without friction.
 
@@ -262,7 +276,9 @@ Clients who require structural dominance find us.
 
 - 
 
-- ## Risk Frameworks for UHNW Capital Migration Risk in capital migration is rarely about market movement.
+- 
+
+# Risk Frameworks for UHNW Capital Migration Risk in capital migration is rarely about market movement.
 
 Market movement is predictable in the aggregate.
 
@@ -298,9 +314,11 @@ The architecture matters more than the yield.
 
 - 
 
-- ## Multi 
+- 
 
-### Layer L: I
+# Multi 
+
+# Layer L: I
 
 quidity: The Advanced UHNW Model The highest performing UHNW clients operate on a liquidity stack rather than a single liquidity line.
 
@@ -312,7 +330,7 @@ This stack includes:
 
 - Long horizon liquidity via private credit structures This multi 
 
-### Layer D
+# Layer D
 
 esign ensures that capital can move at three speeds simultaneously.
 
@@ -336,7 +354,9 @@ This is the architecture used by principal investors who intend to operate globa
 
 - 
 
-- ## The Future of UHNW Capital Migration Wealth in the next decade will not be defined by accumulation.
+- 
+
+# The Future of UHNW Capital Migration Wealth in the next decade will not be defined by accumulation.
 
 It will be defined by optionality and structure.
 

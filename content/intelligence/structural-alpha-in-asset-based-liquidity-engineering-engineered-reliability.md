@@ -200,7 +200,7 @@ Roials Capital employs a sequence-driven framework.
 
 Asset Behaviour Mapping Each class of collateral is modelled for liquidation physics, conversion friction, and volatility under stress.
 
-Step I: I
+### Step I: I
 
 Structural Compression Advance rates, reserves, and covenants compress risk into statistically predictable bands. 
 

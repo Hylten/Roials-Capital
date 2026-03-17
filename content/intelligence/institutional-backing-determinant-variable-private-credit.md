@@ -164,7 +164,7 @@ Both mandates default to one variable: does the sponsor possess enough instituti
 
 If yes, 
 
-## THE MANDAT
+# THE MANDAT
 
 E
 
@@ -172,7 +172,7 @@ E
 
 If no, 
 
-## THE MANDAT
+# THE MANDAT
 
 E
 

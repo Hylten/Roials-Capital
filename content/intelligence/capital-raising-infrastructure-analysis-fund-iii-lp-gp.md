@@ -226,7 +226,7 @@ Alignment Potential Is there a definable pathway for strategic alignment through
 
 Allocators who evaluate through this lens strengthen their position within the emerging capital regime and secure alignment with partners capable of navigating complex acquisition cycles. [END OF BRIEFING]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+# TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

@@ -26,7 +26,9 @@ Control the outcome.
 
 - 
 
-- ## The Operational Architecture Most technical-services verticals-HVAC, industrial maintenance, fire & life safety, metering technologies, specialized testing, pipeline integrity, marine industrials, and heavy‑equipment field support-are structurally identical beneath the debris of local variance.
+- 
+
+# The Operational Architecture Most technical-services verticals-HVAC, industrial maintenance, fire & life safety, metering technologies, specialized testing, pipeline integrity, marine industrials, and heavy‑equipment field support-are structurally identical beneath the debris of local variance.
 
 Surface chaos.
 
@@ -240,7 +242,7 @@ Consolidation meets that requirement.
 
 A Fund‑III operator should focus on four architectural pillars:
 
-# Pillar I: .
+### Pillar I: .
 
 Platform Calibration You do not buy a platform because it is large.
 

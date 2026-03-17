@@ -176,7 +176,7 @@ When engineered correctly, ABL functions like a sovereign liquidity buffer.
 
 10 percent Mandate Execution (NAEO, MiFID II, Special Acquisitions) 
 
-## THE MANDAT
+# THE MANDAT
 
 E 
 

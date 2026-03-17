@@ -84,7 +84,7 @@ Asset hardening is built on five structural pillars.
 
 - Failure containment Each 
 
-### Pillar C: onverts operational entropy into institutional clarity
+# Pillar C: onverts operational entropy into institutional clarity
 
 .
 

@@ -516,7 +516,7 @@ Chaos evaporates.
 
 If you operate a Fund‑III or preparing to raise one, 
 
-## THE MANDAT
+# THE MANDAT
 
 E
 

@@ -264,7 +264,7 @@ When alignment exists, the next
 
 This review allows LPs, GPs, and operators to evaluate whether a Monetization Architecture Agreement fits their balance sheet architecture and operational cadence. [END OF BRIEFING]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+# TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

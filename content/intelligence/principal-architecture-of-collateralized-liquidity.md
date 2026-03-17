@@ -114,7 +114,11 @@ We replace it with sovereign scaffolding.
 
 Now-the mechanics.
 
-Collateralized liquidity operates on a tri-axis intelligence stack: asset intelligence, jurisdictional intelligence, and temporal intelligence.
+Collateralized liquidity operates on a tri-
+
+### Axis I
+
+ntelligence stack: asset intelligence, jurisdictional intelligence, and temporal intelligence.
 
 Every deal exists somewhere on this three-dimensional grid.
 

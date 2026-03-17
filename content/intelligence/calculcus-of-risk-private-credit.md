@@ -269,7 +269,7 @@ The objective is alignment, not solicitation.
 
 The outcome is a calibrated understanding of how private credit can function as a stabilizing instrument within a multi decade capital strategy. [END OF BRIEFING]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+# TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

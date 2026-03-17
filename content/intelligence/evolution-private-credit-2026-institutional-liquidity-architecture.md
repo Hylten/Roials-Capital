@@ -206,7 +206,7 @@ This function does not involve solicitation.
 
 It is a technical navigation service for institutional decision makers operating in a transformed market. [END OF BRIEFING]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+# TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

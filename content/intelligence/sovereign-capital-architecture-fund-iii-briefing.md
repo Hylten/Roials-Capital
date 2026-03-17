@@ -80,7 +80,7 @@ Each layer protects the next.
 
 Each 
 
-### Layer M: ultiplies the capital‑raising surface area
+# Layer M: ultiplies the capital‑raising surface area
 
 .
 
@@ -448,7 +448,7 @@ Permanent capital shapes history.
 
 The engine has four modules: Module one: Structural Core Module two: Capital Expansion 
 
-### Layer M
+# Layer M
 
 odule three: Liquidity Shield Module four: Acquisition Compression Grid The structural core is multi‑domiciled.
 

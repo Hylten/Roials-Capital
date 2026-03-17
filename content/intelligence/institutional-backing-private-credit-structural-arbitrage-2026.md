@@ -24,7 +24,9 @@ This briefing delivers a technical, analyst-grade examination of
 
 It clarifies how Roials Capital functions as a strategic navigator, vetting counterparties and structuring pathways for allocators seeking resilient private credit exposure without promotional framing or implied forward guidance. 
 
-### Phase I: ## THE REGIME SHIF
+### Phase I: 
+
+# THE REGIME SHIF
 
 T
 
@@ -78,7 +80,9 @@ Strategic alignment has become the new premium.
 
 Capital is flowing toward counterparties that operate with clarity of mandate, verifiable governance, and multi-cycle operational readiness. 
 
-### Phase II: ## TECHNICAL MECHANIC
+### Phase II: 
+
+# TECHNICAL MECHANIC
 
 S
 

@@ -160,7 +160,7 @@ Each layer adds resilience.
 
 Each 
 
-### Layer M: ultiplies options
+# Layer M: ultiplies options
 
 .
 

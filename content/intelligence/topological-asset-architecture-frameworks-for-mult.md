@@ -20,7 +20,7 @@ Roials Capital applies The Sovereign Protocol technique to construct multi layer
 
 This article outlines the governing principles and operational framework for topological asset architecture using multi 
 
-### Layer L
+# Layer L
 
 ogic, stability surfaces, and protocol based supervisory controls.
 
@@ -46,7 +46,7 @@ Multi layer architecture segments the capital structure into independent yet con
 
 Each 
 
-### Layer C
+# Layer C
 
 arries a distinct function, risk geometry, and governance constraint.
 
@@ -66,7 +66,7 @@ The architecture typically includes:
 
 - Black surface protection layer Each 
 
-### Layer M: ust be independently stable and collectively coherent
+# Layer M: ust be independently stable and collectively coherent
 
 .
 
@@ -82,7 +82,7 @@ It is not a risk model.
 
 It is a control architecture for multi 
 
-### Layer C: apital systems
+# Layer C: apital systems
 
 .
 
@@ -102,7 +102,7 @@ Core principles include:
 
 Layer One: The Liquidity Base Geometry The first 
 
-### Layer D: efines the liquidity topology of the portfolio
+# Layer D: efines the liquidity topology of the portfolio
 
 .
 
@@ -118,7 +118,7 @@ The liquidity geometry creates a surface that all other layers reference.
 
 If this 
 
-### Layer L: oses coherence, every subsequent layer loses stability
+# Layer L: oses coherence, every subsequent layer loses stability
 
 .
 
@@ -140,7 +140,7 @@ Curvature refers to how the yield system behaves as rates, spreads, or volatilit
 
 In a topological model, curvature must be bounded so that the 
 
-### Layer D: oes not distort the structure above or below it
+# Layer D: oes not distort the structure above or below it
 
 .
 
@@ -192,7 +192,9 @@ Mechanisms include:
 
 - Low correlation hedging channels The volatility 
 
-### Layer I: s strictly governed to avoid synthetic correlation creation
+### Layer I
+
+s strictly governed to avoid synthetic correlation creation
 
 .
 
@@ -214,7 +216,7 @@ It is engineered to remain dormant until activation is required.
 
 Layer Six: Asymmetric Growth Logic The growth 
 
-### Layer C: aptures upside without destabilizing lower layers
+# Layer C: aptures upside without destabilizing lower layers
 
 .
 
@@ -260,7 +262,7 @@ It ensures the portfolio remains intact under extreme deformation.
 
 Inter 
 
-### Layer C
+# Layer C
 
 oherence Mapping A multi layer portfolio is not simply stacked.
 
@@ -268,7 +270,7 @@ It is integrated through coherence mapping.
 
 Coherence mapping defines how each 
 
-### Layer C: ommunicates with others without transmitting instability
+# Layer C: ommunicates with others without transmitting instability
 
 .
 
@@ -280,13 +282,13 @@ Three rules apply:
 
 - No cross 
 
-### Layer C
+# Layer C
 
 orrelation amplification The Sovereign Protocol uses invariants to enforce these rules.
 
 Every 
 
-### Layer C
+# Layer C
 
 ommunicates through controlled channels that are monitored for distortions.
 
@@ -330,7 +332,7 @@ The Sovereign Protocol focuses on smoothing these gradients so no single layer b
 
 Multi 
 
-### Layer C: apital Flow Dynamics Capital does not remain static
+# Layer C: apital Flow Dynamics Capital does not remain static
 
 .
 

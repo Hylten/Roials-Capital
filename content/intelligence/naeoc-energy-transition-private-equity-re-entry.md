@@ -28,7 +28,9 @@ That is the entire point.
 
 - 
 
-- ## The Structural Reality 
+- 
+
+# The Structural Reality 
 
 1.
 
@@ -266,13 +268,13 @@ The cycle is entering the consolidation phase Every industrial transition behave
 
 - 
 
-# Phase IV: Operational consolidatio
+### Phase IV: Operational consolidatio
 
 n
 
 - 
 
-# Phase V: Institutional control We are squarely in Phase 4
+### Phase V: Institutional control We are squarely in Phase 4
 
 .
 

@@ -140,7 +140,7 @@ Mechanisms include:
 
  
 
-## TECHNICAL MECHANIC
+# TECHNICAL MECHANIC
 
 S
 
@@ -268,7 +268,7 @@ Roials Capital provides confidential strategy audits and portfolio calibrations 
 
 The objective is to ensure that institutions deploy capital with clarity, technical precision, and structural advantage. [END OF BRIEFING]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+# TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

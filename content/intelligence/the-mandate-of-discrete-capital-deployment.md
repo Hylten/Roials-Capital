@@ -6,7 +6,7 @@ author: "Jonas Hyltén"
 slug: "the-mandate-of-discrete-capital-deployment"
 --- 
 
-## THE MANDAT
+# THE MANDAT
 
 E
 
@@ -56,7 +56,9 @@ Below is the intelligence.
 
 - 
 
-- ## Private Credit as the Engine of Discrete Deployment Private credit is the ideal mechanism for discrete deployment.
+- 
+
+# Private Credit as the Engine of Discrete Deployment Private credit is the ideal mechanism for discrete deployment.
 
 It is not traded.
 
@@ -98,7 +100,9 @@ It demands clarity.
 
 - 
 
-- ## The Discipline of Non-Signaling Capital Non-signaling capital is capital that moves without revealing intention.
+- 
+
+# The Discipline of Non-Signaling Capital Non-signaling capital is capital that moves without revealing intention.
 
 This is the highest form of discretion.
 
@@ -128,7 +132,9 @@ Every risk removed increases authority.
 
 - 
 
-- ## Structural Alignment Over Ideology Institutional families reject ideological interference.
+- 
+
+# Structural Alignment Over Ideology Institutional families reject ideological interference.
 
 They require structural alignment.
 
@@ -156,7 +162,9 @@ Not structures that dilute it.
 
 - 
 
-- ## Gnosjö Spirit Within Institutional Deployment The Spirit of Gnosjö emphasizes discipline, frugality, trust, and execution.
+- 
+
+# Gnosjö Spirit Within Institutional Deployment The Spirit of Gnosjö emphasizes discipline, frugality, trust, and execution.
 
 These are the same mechanics that govern institutional quiet capital deployment.
 
@@ -188,7 +196,9 @@ Wealth is responsibility.
 
 - 
 
-- ## Discrete Deployment Requires Internal Authority A principal cannot outsource judgment.
+- 
+
+# Discrete Deployment Requires Internal Authority A principal cannot outsource judgment.
 
 A principal cannot outsource conviction.
 
@@ -214,7 +224,9 @@ Not intermediaries.
 
 - 
 
-- ## Liquidity As a Strategic Weapon Liquidity is not comfort.
+- 
+
+# Liquidity As a Strategic Weapon Liquidity is not comfort.
 
 Liquidity is influence.
 
@@ -240,7 +252,9 @@ Quiet liquidity is superior.
 
 - 
 
-- ## Intelligence Driven Deployment Deployment without intelligence is speculation.
+- 
+
+# Intelligence Driven Deployment Deployment without intelligence is speculation.
 
 Principals do not speculate.
 
@@ -270,7 +284,9 @@ Not reaction.
 
 - 
 
-- ## Multi-Layered Protection Framework Discrete deployment must be protected at multiple layers.
+- 
+
+# Multi-Layered Protection Framework Discrete deployment must be protected at multiple layers.
 
 ROIALS CAPITAL structures protection in four tiers. 
 
@@ -300,7 +316,9 @@ This is stewardship in practice.
 
 - 
 
-- ## Why Discrete Capital Outperforms Public Capital Public capital is exposed.
+- 
+
+# Why Discrete Capital Outperforms Public Capital Public capital is exposed.
 
 Discrete capital is sovereign.
 
@@ -368,7 +386,9 @@ Only mandate.
 
 - 
 
-- ## Principal Directive If your capital requires discretion, structural alignment, and hardened deployment architecture, the next 
+- 
+
+# Principal Directive If your capital requires discretion, structural alignment, and hardened deployment architecture, the next 
 
 ### Step I: s obvious
 

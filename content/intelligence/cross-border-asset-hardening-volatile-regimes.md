@@ -304,7 +304,7 @@ Fund-III uses three:
 
 Request a confidential capital audit. [END]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+# TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

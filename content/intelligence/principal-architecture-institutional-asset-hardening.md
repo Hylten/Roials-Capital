@@ -58,7 +58,7 @@ Asset hardening operates on three pillars:
 
 - Jurisdictional Edge Each 
 
-### Pillar LI: nks to the next in an unbroken chain of institutional logic
+# Pillar LI: nks to the next in an unbroken chain of institutional logic
 
 .
 
@@ -516,7 +516,9 @@ Capital is never raised.
 
 Capital is attracted.
 
-It moves toward the most structurally dominant player in the field.
+It moves toward the most structurally dominant p
+
+### Layer I: n the field.
 
 LPs choose the architecture that protects them from uncertainty.
 

@@ -228,7 +228,7 @@ They build leverage tunnels around assets.
 
 They 
 
-### Layer C: redit lines
+# Layer C: redit lines
 
 .
 

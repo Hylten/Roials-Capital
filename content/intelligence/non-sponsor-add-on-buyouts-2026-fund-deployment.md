@@ -30,7 +30,9 @@ And the principals move before the capital.
 
 - 
 
-- ## Strategic Deployment Velocity The first truth: deployment velocity governs survival.
+- 
+
+# Strategic Deployment Velocity The first truth: deployment velocity governs survival.
 
 Not returns.
 
@@ -86,7 +88,9 @@ The difference is decisive.
 
 - 
 
-- ## THE HIERARCHICAL DYNAMIC Build platform.
+- 
+
+# THE HIERARCHICAL DYNAMIC Build platform.
 
 Extend perimeter.
 
@@ -136,7 +140,9 @@ Add‑ons are where the children’s children are protected.
 
 - 
 
-- ## WHY 2026 VINTAGE FUNDS ARE MOVING NOW Hard forces.
+- 
+
+# WHY 2026 VINTAGE FUNDS ARE MOVING NOW Hard forces.
 
 Non‑negotiable. 
 
@@ -186,7 +192,9 @@ Platforms absorb volatility and suffer under it.
 
 - 
 
-- ## THE NON‑SPONSOR DOMAIN: WHERE REAL VALUE IS FOUND This is the most important structural shift: The non‑sponsor market is not “unsophisticated.” It is simply un-defended.
+- 
+
+# THE NON‑SPONSOR DOMAIN: WHERE REAL VALUE IS FOUND This is the most important structural shift: The non‑sponsor market is not “unsophisticated.” It is simply un-defended.
 
 Un‑intermediated.
 
@@ -224,7 +232,9 @@ Velocity compounds enterprise value.
 
 - 
 
-- ## THE MULTI‑JURISDICTIONAL COMPONENT The 2026 landscape requires more than acquisition discipline-it requires jurisdictional intelligence.
+- 
+
+# THE MULTI‑JURISDICTIONAL COMPONENT The 2026 landscape requires more than acquisition discipline-it requires jurisdictional intelligence.
 
 Cross‑border expansion is no longer a luxury.
 
@@ -252,7 +262,9 @@ Funds that master it will dominate the decade.
 
 - 
 
-- ## PLATFORM VS.
+- 
+
+# PLATFORM VS.
 
 ADD‑ON: A PRINCIPAL’S CALCULUS A Principal evaluates not the theoretical “story” of a deal, but the structural value locked inside it.
 
@@ -292,7 +304,9 @@ Because architecture compounds.
 
 - 
 
-- ## THE DEPLOYMENT FLYWHEEL Non‑sponsor add‑ons create a self‑accelerating capital cycle: 
+- 
+
+# THE DEPLOYMENT FLYWHEEL Non‑sponsor add‑ons create a self‑accelerating capital cycle: 
 
 1.
 
@@ -326,7 +340,9 @@ Non‑sponsor add‑ons satisfy both sides of the covenant.
 
 - 
 
-- ## THE ROLE OF DIRECT LENDING AND STRUCTURAL CAPITAL A brief technical note, because it matters.
+- 
+
+# THE ROLE OF DIRECT LENDING AND STRUCTURAL CAPITAL A brief technical note, because it matters.
 
 Non‑sponsor add‑ons allow far more precision in:
 
@@ -352,7 +368,9 @@ The market responds to it.
 
 - 
 
-- ## THE FUTURE: 2026 VINTAGE DOMINANCE The funds that will define 2026,2031 are not chasing glamour.
+- 
+
+# THE FUTURE: 2026 VINTAGE DOMINANCE The funds that will define 2026,2031 are not chasing glamour.
 
 They are building empires of absorption.
 
@@ -382,7 +400,9 @@ The Principal is the force.
 
 - 
 
-- ## REQUEST CONFIDENTIAL CAPITAL AUDIT State your mandate.
+- 
+
+# REQUEST CONFIDENTIAL CAPITAL AUDIT State your mandate.
 
 We will determine alignment.
 

@@ -152,7 +152,11 @@ Liquidity: The New Competitive Variable For HNWI and UHNW individuals, liquidity
 
 It is about predictability.
 
-Traditional lenders often require multi-step verification, committee review, and timing that is incompatible with fast-moving private opportunities.
+Traditional lenders often require multi-
+
+### Step V
+
+erification, committee review, and timing that is incompatible with fast-moving private opportunities.
 
 A decentralized private credit framework compresses these steps into a single process.
 

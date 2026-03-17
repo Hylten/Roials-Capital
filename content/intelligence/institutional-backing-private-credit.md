@@ -248,7 +248,7 @@ The lens includes:
 
 - Alignment with internal liquidity mandates Roials Capital conducts confidential strategy audits for allocators seeking calibration of their private credit exposure, alignment with institutional partners, and intelligence on specialized mandates including North American energy and European capital formation. [END OF BRIEFING]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+# TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

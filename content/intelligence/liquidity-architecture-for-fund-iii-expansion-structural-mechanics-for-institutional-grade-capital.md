@@ -276,7 +276,7 @@ Our architecture prevents that misalignment before the liquidity facility is eve
 
 Multi 
 
-### Layer L: I
+# Layer L: I
 
 quidity Construction Fund-III’s architecture uses a multi layer approach to create stability.
 

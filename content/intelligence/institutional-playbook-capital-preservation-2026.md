@@ -342,7 +342,7 @@ This is the playbook.
 
 The principal must choose how to deploy it. [END INTELLIGENCE REPORT]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+# TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

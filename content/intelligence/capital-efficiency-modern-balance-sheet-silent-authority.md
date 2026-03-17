@@ -126,7 +126,7 @@ Capital efficiency requires three layers:
 
 - Sovereign layer Each 
 
-### Layer C: reates a different type of authority
+# Layer C: reates a different type of authority
 
 .
 

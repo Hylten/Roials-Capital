@@ -148,7 +148,7 @@ Cash flow waterfalls Waterfall clarity is now a sovereign preference.
 
 Structures with multi 
 
-### Step C
+# Step C
 
 ross collateralization, layered seniority, or variable hurdle logic are disfavored unless the operational productivity of underlying assets is resilient.
 
@@ -266,7 +266,7 @@ Reliance on partners capable of technical interpretation rather than distributio
 
 The objective is not transactional deployment but long term structural alignment. [END OF BRIEFING]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+# TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

@@ -84,7 +84,7 @@ S
 
 The Capital Translation Layer This 
 
-### Layer C
+# Layer C
 
 onverts sovereign legal structures into institutional underwriting language.
 

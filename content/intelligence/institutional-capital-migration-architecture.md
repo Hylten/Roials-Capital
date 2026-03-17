@@ -261,7 +261,7 @@ Which strategies enhance the allocator's overall capital architecture rather tha
 
 It ensures alignment between institutional objectives, operational dynamics, and the structural regime shift now defining capital migration. [END OF BRIEFING]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+# TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

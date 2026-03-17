@@ -22,7 +22,7 @@ T
 
 The North American energy ecosystem has entered a multi year efficiency 
 
-### Phase D: riven by underinvestment rather than overproduction
+# Phase D: riven by underinvestment rather than overproduction
 
 .
 
@@ -214,7 +214,7 @@ Structural alignment is the execution.
 
 Institutional navigation is the differentiator. [END OF BRIEFING]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+# TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

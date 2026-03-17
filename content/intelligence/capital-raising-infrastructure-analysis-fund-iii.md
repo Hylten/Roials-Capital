@@ -148,7 +148,7 @@ Institutional
 
  INTRODUCTION 
 
-### Layer C
+# Layer C
 
 onnects LPs with verified operators whose acquisition engines or energy assets have already been technically validated.
 
@@ -172,7 +172,7 @@ The operational intelligence layer standardizes these data flows.
 
 Structural Engineering Layer This 
 
-### Layer D: efines the capital structure, including
+# Layer D: efines the capital structure, including
 
 :
 
@@ -242,7 +242,7 @@ Institutional allocators seeking to refine their positioning typically request a
 
 The next step for most allocators is a confidential calibration session to map strategic alignment and validate counterparty suitability. [END OF BRIEFING]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+# TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

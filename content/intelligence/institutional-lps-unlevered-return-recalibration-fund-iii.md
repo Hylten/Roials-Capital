@@ -28,7 +28,9 @@ This is where the weak fracture.
 
 - 
 
-- ## The Return Recalibration The shift began years ago, but most GPs only noticed it when they saw the subtle tightening in LP diligence memos.
+- 
+
+# The Return Recalibration The shift began years ago, but most GPs only noticed it when they saw the subtle tightening in LP diligence memos.
 
 Not louder.
 

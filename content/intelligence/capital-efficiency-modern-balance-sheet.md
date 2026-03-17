@@ -256,7 +256,7 @@ It increases Opportunity Velocity without destabilizing the equity foundation.
 
 Roials Capital supports allocators seeking disciplined clarity, technical accuracy, and structural alignment across their Fund-III roadmap, liquidity frameworks, and energy introductions. [END OF BRIEFING]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+# TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

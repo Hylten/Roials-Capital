@@ -38,7 +38,7 @@ Digital assets evolved outside this harmonization.
 
 The asset class is now entering a consolidation 
 
-### Phase D: riven by three macro forces
+# Phase D: riven by three macro forces
 
 .
 
@@ -218,7 +218,7 @@ These sessions synthesize regulatory intelligence, operational mechanics, and ca
 
 The objective is strategic clarity rather than asset solicitation. [END OF INSTITUTIONAL BRIEFING]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+# TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

@@ -158,7 +158,7 @@ The middle market credit gap presents one of the most structurally coherent ecos
 
 These sessions are designed to clarify structural pathways, pressure test assumptions, and align capital with sectors and partners where risk and discipline converge. [END OF BRIEFING]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+# TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

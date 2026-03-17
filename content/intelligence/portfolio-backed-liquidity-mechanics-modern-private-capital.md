@@ -284,7 +284,7 @@ Modern private capital requires institutional partners capable of navigating tec
 
 The allocator who understands portfolio backed liquidity as a strategic instrument rather than a financing tool is positioned to operate with greater precision, higher opportunity readiness, and more stable long horizon outcomes. [END OF BRIEFING]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+# TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

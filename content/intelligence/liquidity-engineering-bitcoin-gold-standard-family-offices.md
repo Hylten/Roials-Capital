@@ -646,7 +646,9 @@ Protects Fund-III commitments.
 
 THE META
 
-- ## CONCLUSION
+- 
+
+# CONCLUSION
 
  (WITHOUT SUMMARIZING) Bitcoin is not optional.
 
@@ -682,7 +684,7 @@ For principal evaluation, submit a confidential capital audit.
 
 Terminal metric: LTV hard cap: 18.6%
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+# TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

@@ -302,7 +302,7 @@ Roials Capital operates as a strategic navigator who translates complex environm
 
 A confidential strategy audit or portfolio calibration session is typically the next step for allocators who require a precision assessment of their exposure architecture, jurisdictional alignment, and liquidity pacing across existing and prospective mandates. [END OF BRIEFING]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+# TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

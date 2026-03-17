@@ -40,7 +40,9 @@ Controlled. **Proverbs 13:22
 
 * : *A good man leaves an inheritance to his children's children: but the wealth of the sinner is laid up for the just.
 
-* ## THE MANDATE
+* 
+
+# THE MANDATE
 
  is simple.
 

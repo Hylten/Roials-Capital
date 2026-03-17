@@ -10,7 +10,7 @@ slug: "wealth-mobility-borderless-crypto-collateral"
 
  
 
-## THE MANDAT
+# THE MANDAT
 
 E
 
@@ -336,7 +336,7 @@ It is the current competitive frontier for institutional grade M and A.
 
 Firms that master this architecture will dominate high velocity deal environments from 2026 onward. [END INTELLIGENCE REPORT]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+# TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 
