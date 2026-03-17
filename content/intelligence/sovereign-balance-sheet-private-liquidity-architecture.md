@@ -23,11 +23,8 @@ The objective is to equip allocators with a calibration tool for sovereign-grade
  North American private markets have entered a bifurcated regime defined by a divergence between asset needs and capital availability.
 
 This divergence originates from three accelerants. 
-
 -  Regulatory overextension that restricts traditional lenders from financing carbon-intensive assets regardless of operational merit. 
-
 -  Institutional de-risking that migrated capital toward passive strategies at the very moment when real-asset scarcity became economically determinative. 
-
 -  Supply discipline across the upstream sector that eliminated the growth-first mentality and replaced it with cash-flow stewardship, debt compression, and return-normalization cycles.
 
 The effect is a capital vacuum in a sector where decline-curve visibility is at its highest, where land bases are derisked, and where operational efficiency has been internalized across mid-cap operators.
@@ -139,11 +136,8 @@ Allocators are not offered product.
 They are given architectural pathways that match their balance sheet objectives.
 
 These include: 
-
 -  80 percent kapitalanskaffning for Fund-III+ buyouts and expansion strategies. 
-
 -  10 percent liquidity engineering through ABL structures, receivables instruments, and hybrid facilities. 
-
 -  10 percent special mandates including NAEO’s 50-250M energy capital requirements, MiFID II European acquisition strategies, and jurisdictional cross-border expansions.
 
 Axis three is operational intelligence.
@@ -152,7 +146,9 @@ Roials Capital provides allocators with the contextual intelligence necessary to
 
 This includes decline-curve analysis, thermal efficiency metrics, reservoir mapping logic, and regulatory compliance frameworks across Alberta, Saskatchewan, and British Columbia.
 
-Through this model, Roials Capital supports allocators in constructing sovereign-grade liquidity architecture based on operational assets rather than narratives. ## ## ## ## ## THE STEWARDSHIP FILTER Capital stewardship is not a branding concept.
+Through this model, Roials Capital supports allocators in constructing sovereign-grade liquidity architecture based on operational assets rather than narratives. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Capital stewardship is not a branding concept.
 
 It is an operational discipline anchored in the biblical principle of **Proverbs 13:22** .
 
@@ -186,14 +182,12 @@ Allocators deploy capital with the objective of creating long-term, structurally
 
 Stewardship is therefore not a moral accessory.
 
-It is a risk-mitigation system that allocators integrate into their sovereign liquidity design. ## ## DECISION-MAKING LENS FOR THE ALLOCATOR The construction of a sovereign-grade balance sheet requires: 
+It is a risk-mitigation system that allocators integrate into their sovereign liquidity design. ## 
 
+## DECISION-MAKING LENS FOR THE ALLOCATOR The construction of a sovereign-grade balance sheet requires: 
 -  Asset classes that maintain deliverability regardless of macro narratives. 
-
 -  Operators with predictable production, responsible capital discipline, and proven thermal reservoir management. 
-
 -  Liquidity architectures that integrate buyouts, private credit, and energy collateral without correlation concentration. 
-
 -  Strategic partners who can navigate jurisdictions, align institutional partners, and translate operational intelligence into allocatable structures.
 
 The Alberta heavy oil ecosystem, particularly through technically mature operators such as NAEO, offers throughput stability and decline-curve predictability rarely seen in other subsectors.
@@ -201,3 +195,5 @@ The Alberta heavy oil ecosystem, particularly through technically mature operato
 When integrated into liquidity engineering or capital raising, these systems create a foundation for balance sheet durability.
 
 Roials Capital maintains an institutional mandate: to support allocators in strategy calibration through confidential consultations where balance sheet design, capital velocity, and operational intelligence converge. [END OF BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

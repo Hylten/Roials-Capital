@@ -369,13 +369,9 @@ The chain is non-negotiable.
 Break one link, and the entire architecture collapses.
 
 The + holder must focus on four fronts: 
-
 -  Liquidity autonomy 
-
 -  Structural sovereignty 
-
 -  Jurisdictional alignment 
-
 -  Institutional velocity Autonomy ensures decision authority.
 
 Sovereignty ensures operational control.
@@ -446,10 +442,14 @@ The window is active.
 
 The corridor is open.
 
-The terms are fixed. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+The terms are fixed. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.
 
 Metric: minimum liquidity spine requirement: 18.4% of NAV.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

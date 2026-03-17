@@ -186,7 +186,9 @@ Crypto collateral can be staked, lent, hedged, tokenized, or rehypothecated with
 
 The allocator who controls mobility unlocks synthetic liquidity without overextending leverage.
 
-The allocator who ignores mobility pays the opportunity cost of idle capital. ## ## ## THE ## 
+The allocator who ignores mobility pays the opportunity cost of idle capital. ## ## 
+
+## THE ## 
 
 ## STRATEGIC MODEL
 
@@ -274,7 +276,9 @@ Edge is not risk.
 
 Edge is engineered asymmetry.
 
-The Firm builds the asymmetry into the system itself. ## ## ## ## ## THE STEWARDSHIP FILTER Capital is not infinite.
+The Firm builds the asymmetry into the system itself. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Capital is not infinite.
 
 Waste is not tolerated.
 
@@ -332,12 +336,18 @@ The Book speaks to disciplined gates. **Proverbs 25:28** describes a city with b
 
 The allocator with no liquidity architecture is that broken city.
 
-The Firm rebuilds the walls. ## ## EXIT Liquidity leadership is measured, not imagined.
+The Firm rebuilds the walls. ## 
+
+## EXIT Liquidity leadership is measured, not imagined.
 
 The target metric for Fund-III is simple.
 
-Execution certainty at 98 percent fill rate across all routed trades under volatility stress. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+Execution certainty at 98 percent fill rate across all routed trades under volatility stress. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

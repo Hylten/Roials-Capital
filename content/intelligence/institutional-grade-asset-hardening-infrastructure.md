@@ -174,7 +174,9 @@ This includes senior facility design, cash flow waterfall modeling, cross collat
 
 ## THE MANDATE
 
- is to structure clarity. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is a discipline, not a sentiment.
+ is to structure clarity. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is a discipline, not a sentiment.
 
 Institutional grade stewardship is the practice of deploying capital in ways that are aligned with long term productivity, ethical resource management, and multi generational utility.
 
@@ -196,7 +198,9 @@ Stewardship requires:
 
 When these principles are applied across the capital stack, the allocator gains something that cannot be purchased in the open market.
 
-Predictability. ## ## ## ## DECISION MAKING LENS FOR THE ALLOCATOR For allocators navigating Fund-III and later mandates, the challenge is no longer capital distribution.
+Predictability. ## ## ## 
+
+## DECISION MAKING LENS FOR THE ALLOCATOR For allocators navigating Fund-III and later mandates, the challenge is no longer capital distribution.
 
 It is strategic calibration.
 
@@ -210,6 +214,10 @@ The new institutional paradigm requires a three axis evaluation framework.
 
 Roials Capital’s role is to provide institutional LPs and GPs with a neutral, analytically rigorous pathway through these axes.
 
-For allocators requiring deeper visibility, a confidential strategy audit or portfolio calibration can map the assets, liabilities, and operational ranges that define their current posture. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+For allocators requiring deeper visibility, a confidential strategy audit or portfolio calibration can map the assets, liabilities, and operational ranges that define their current posture. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

@@ -38,7 +38,9 @@ The rules are architectural.
 
 The tone is quiet authority.
 
-The outcome is structural clarity. ## The Future of Private Credit Post‑2026 Looking forward, private credit will continue to expand, but the beneficiaries will diverge.
+The outcome is structural clarity. 
+
+## The Future of Private Credit Post‑2026 Looking forward, private credit will continue to expand, but the beneficiaries will diverge.
 
 Investors who navigate the space without structural understanding will experience liquidity constraints.
 
@@ -54,7 +56,9 @@ Public share Strategic Collateralization will require even more discretion.
 
 Private credit will become a default liquidity mechanism rather than a niche solution.
 
-And ROIALS CAPITAL will continue to define the mechanics that support these transitions. ## The 2026 Imperative: Structural Liquidity The evolution of private credit in 2026 is not a trend.
+And ROIALS CAPITAL will continue to define the mechanics that support these transitions. 
+
+## The 2026 Imperative: Structural Liquidity The evolution of private credit in 2026 is not a trend.
 
 It is a structural reset.
 
@@ -70,6 +74,10 @@ We provide the frameworks that allow high net worth and ultra high net worth ind
 
 We do not chase markets.
 
-We design the structures they eventually adopt. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+We design the structures they eventually adopt. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

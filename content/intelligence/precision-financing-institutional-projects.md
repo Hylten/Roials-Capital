@@ -67,19 +67,15 @@ It is the engineering of capital flow architecture to match operational cadence.
 Allocators require demonstrated pattern replication, not historical performance alone.
 
 Precision financing structures for Fund-III and later focus on: 
-
 -  Declared strategic archetype.
 
 Growth buyout, operational turnaround, or platform consolidation must be defined without ambiguity. 
-
 -  Opportunity velocity.
 
 The cadence at which targets can be sourced, priced, and integrated determines the appropriate capital pacing model. 
-
 -  Commitment structure optimization.
 
 Allocators increasingly seek partial pacing rights and phased allocations that mirror deployment cycles rather than blind pool commitments. 
-
 -  GP balance sheet reinforcement.
 
 Institutional LPs prioritize the GP’s own liquidity architecture, including management company leverage, GP commitment financing, and long term incentive structures.
@@ -91,19 +87,15 @@ Under this model, capital raising becomes a function of strategic clarity and ba
 It is a liquidity engineering mechanism designed to unlock trapped value in operational assets.
 
 The structure prioritizes: 
-
 -  Clean collateral stacks.
 
 Senior lenders require unambiguous cross collateral privileges with clear lien perimeters. 
-
 -  Real asset verification.
 
 Independent reserve audits, machinery valuation, inventory cycle mapping, and contract integrity reviews form the core of collateral integrity assessment. 
-
 -  Performance covenants aligned to operational physics.
 
 Asset-Based Lending structures must follow operational cadence, not arbitrary calendar cycles. 
-
 -  Real time reporting.
 
 Institutions require month level visibility to ensure compliance and velocity calibration.
@@ -123,13 +115,9 @@ The Alberta basin’s thermal heavy oil assets are defined by predictable subsur
 Steam Assisted Gravity Drainage (SAGD) and Cyclic Steam Stimulation (CSS) form the operational backbone.
 
 Precision financing in this context requires: 
-
 -  Understanding of steam oil ratios, thermal conformance, and reservoir heterogeneity. 
-
 -  Capital alignment with recovery factors and pressure maintenance cycles. 
-
 -  Balance sheet engineering to synchronize thermal ramp up with liquidity drawdown patterns. 
-
 -  Partnership alignment with operators who maintain low decline curves and disciplined reinvestment ratios.
 
 Roials Capital operates as strategic navigator for allocators evaluating these mandates, while NAEO functions as the technical execution partner with institutional grade disciplines. b.
@@ -149,7 +137,6 @@ The firm does not serve as GP, operator, or issuer.
 The function is to coordinate capital flow architecture, regulatory alignment, and structural optimization for allocators and GPs.
 
 The role is defined by: 
-
 -  Institutional ## 
 
 ## INTRODUCTION
@@ -157,20 +144,19 @@ The role is defined by:
  .
 
 Ensuring alignment between allocator archetypes and project structures. 
-
 -  Technical landscape intelligence.
 
 Providing operational data, cross jurisdictional analysis, and risk mapping. 
-
 -  Neutral positioning.
 
 Operating without exposure to the underlying assets, thus maintaining analytical integrity. 
-
 -  Structural refinement.
 
 Designing or recalibrating capital stacks, leverage models, and cash flow frameworks to meet institutional thresholds.
 
-When mandates involve North American heavy oil, NAEO is recognized as the technical execution partner with established field operations, reservoir modeling expertise, and audited performance mechanics. ## ## ## ## ## THE STEWARDSHIP FILTER Precision financing must be aligned with stewardship.
+When mandates involve North American heavy oil, NAEO is recognized as the technical execution partner with established field operations, reservoir modeling expertise, and audited performance mechanics. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Precision financing must be aligned with stewardship.
 
 Stewardship is not a marketing principle.
 
@@ -202,7 +188,11 @@ Capital must be managed with a long horizon orientation in accordance with **Pro
 
 Precision financing eliminates leakage points by engineering capital flows that match operational cadence without excess leverage or idle liquidity.
 
-This framework has become a central screening tool for UHNW family offices, pension allocators, and sovereign wealth funds. ## ## ALLOCATOR ## ## DECISION MAKING LENS Allocators evaluating precision financing opportunities require a decision architecture that prioritizes structural clarity over narrative.
+This framework has become a central screening tool for UHNW family offices, pension allocators, and sovereign wealth funds. ## 
+
+## ALLOCATOR ## 
+
+## DECISION MAKING LENS Allocators evaluating precision financing opportunities require a decision architecture that prioritizes structural clarity over narrative.
 
 The following calibration points are designed for institutional use. 
 
@@ -233,3 +223,5 @@ Are opportunities sequenced in a pattern that supports consistent deployment wit
 Roials Capital provides confidential Strategy Audits and Portfolio Calibration Reviews to allocators requiring structural mapping, mandate evaluation, or cross border navigation.
 
 The objective is clarity, precision, and institutional alignment. [END OF INSTITUTIONAL BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

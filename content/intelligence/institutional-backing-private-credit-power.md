@@ -12,7 +12,9 @@ In private credit, the gap is simple.
 
 Institutions with disciplined capital architecture outperform not because they lend better, but because their backing reshapes the deal physics.
 
-Order is not an option. ## PHASE 
+Order is not an option. 
+
+## PHASE 
 
 1. ## ## ## ## 
 
@@ -62,7 +64,9 @@ Precision is
 
 ## THE MANDATE
 
-. ## PHASE 
+. 
+
+## PHASE 
 
 2. ## ## ## ## 
 
@@ -126,9 +130,13 @@ LPs see predictability.
 
 The lender extracts duration without sacrificing velocity.
 
-Without institutional backing, these structures do not price. ## PHASE 
+Without institutional backing, these structures do not price. 
 
-3. ## ## ## THE ## 
+## PHASE 
+
+3. ## ## 
+
+## THE ## 
 
 ## STRATEGIC MODEL
 
@@ -204,9 +212,13 @@ Borrowers align because they want stability and speed.
 
 LPs align because they want disciplined underwriting and asymmetric outcomes.
 
-ROIALS CAPITAL sits between them as the institutional operating spine. ## PHASE 
+ROIALS CAPITAL sits between them as the institutional operating spine. 
 
-4. ## ## THE STEWARDSHIP FILTER Resources carry responsibility.
+## PHASE 
+
+4. ## 
+
+## THE STEWARDSHIP FILTER Resources carry responsibility.
 
 Capital is not neutral. **Proverbs 13:22** establishes a simple pattern.
 
@@ -250,14 +262,20 @@ Capital is deployed with intent.
 
 Recovery is enforced with clarity.
 
-Yield is extracted with discipline. ## PHASE 
+Yield is extracted with discipline. 
+
+## PHASE 
 
 5. EXIT Institutional backing is not branding.
 
 It is a measurable upward shift in recovery rates, velocity, and covenant durability.
 
-Platforms that secure institutional alignment lift IRR by 180 to 260 basis points due to workflow compression alone. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+Platforms that secure institutional alignment lift IRR by 180 to 260 basis points due to workflow compression alone. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

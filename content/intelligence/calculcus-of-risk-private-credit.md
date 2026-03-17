@@ -168,7 +168,9 @@ This includes the energy acquisition mandates ranging from fifty million USD to 
 
 Across each mandate, Roials Capital operates on a neutrality axis.
 
-This neutrality allows institutional decision makers to receive technical intelligence that is not influenced by allocation bias or issuer incentives. ## ## ## ## ## THE STEWARDSHIP FILTER Institutional stewardship is the discipline of allocating capital without waste.
+This neutrality allows institutional decision makers to receive technical intelligence that is not influenced by allocation bias or issuer incentives. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Institutional stewardship is the discipline of allocating capital without waste.
 
 It is not merely a financial principle.
 
@@ -192,7 +194,9 @@ Capital should be allocated into structures that protect downside risk while all
 
 The allocator should have clear visibility into operational metrics, balance sheet integrity, and the governance of counterparties.
 
-Private credit satisfies these filters more consistently than most asset classes due to its contractual nature, structural seniority, and collateral alignment. ## ## ## ## DECISION MAKING LENS FOR THE ALLOCATOR Institutional capital allocators evaluating the private credit landscape must adopt a structured decision making lens that clarifies risk, determines alignment, and accelerates opportunity velocity.
+Private credit satisfies these filters more consistently than most asset classes due to its contractual nature, structural seniority, and collateral alignment. ## ## ## 
+
+## DECISION MAKING LENS FOR THE ALLOCATOR Institutional capital allocators evaluating the private credit landscape must adopt a structured decision making lens that clarifies risk, determines alignment, and accelerates opportunity velocity.
 
 This lens includes: 
 
@@ -210,6 +214,10 @@ Allocators seeking structured clarity on Fund-III capital formation, Asset-Based
 
 The objective is alignment, not solicitation.
 
-The outcome is a calibrated understanding of how private credit can function as a stabilizing instrument within a multi decade capital strategy. [END OF BRIEFING] # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+The outcome is a calibrated understanding of how private credit can function as a stabilizing instrument within a multi decade capital strategy. [END OF BRIEFING] # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

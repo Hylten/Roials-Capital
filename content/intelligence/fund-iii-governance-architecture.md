@@ -161,3 +161,5 @@ Allocators read that signature before the deck, before the model, before the ben
 Write it well.
 
 Request confidential capital audit.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

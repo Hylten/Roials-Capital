@@ -101,13 +101,11 @@ Combine them.
 Fuse them.
 
 Turn static reserves into dynamic capital. 
-
 -  Reserve Layer: Bitcoin.
 
 Gold.
 
 Pressure-tested energy assets. 
-
 -  Operating Layer: Core private companies.
 
 Cash flow.
@@ -115,7 +113,6 @@ Cash flow.
 Distribution channels.
 
 Asset-backed credit lines. 
-
 -  Expansion Layer: Fund-III commitments for buyouts, roll-ups, and add-ons.
 
 In this model Bitcoin sits in the reserve layer.
@@ -369,13 +366,9 @@ Private lenders accept it.
 Family offices embrace it.
 
 Capital Structuring with Bitcoin inside an Asset-Based Lending framework looks like this: 
-
 -  Bitcoin reserve as top-layer collateral. 
-
 -  Operating assets as mid-layer collateral. 
-
 -  Inventory or receivables as dynamic collateral. 
-
 -  Cross-collateralization only when strategically necessary.
 
 The structure becomes an accordion.
@@ -531,11 +524,8 @@ It converts liquidity into productive assets.
 Bitcoin provides the reserve, the backbone, the signal of discipline.
 
 Allocation flows: 
-
 -  Bitcoin → Capital Structuring → Fund-III commitments 
-
 -  Energy assets → Private credit → Add-ons 
-
 -  EU targets → Structured acquisition facilities → Expansion arbitrage Machine gun syntax: Build scale.
 
 Crush inefficiency.
@@ -563,13 +553,9 @@ Families diversify custody, governance, and operating entities.
 Bitcoin becomes a mobile reserve.
 
 We design reserve architectures across: 
-
 -  Luxembourg holding vehicles. 
-
 -  Cayman structures for reserve segregation. 
-
 -  UAE or Singapore for neutrality. 
-
 -  Delaware or Wyoming for operational spine.
 
 Jurisdictional arbitrage multiplies the effectiveness of Bitcoin-backed liquidity.
@@ -593,17 +579,11 @@ That is the core principle.
 Families who treat Bitcoin as collateral instead of a trading asset outperform.
 
 Risk management layers include: 
-
 -  Over-collateralization buffers. 
-
 -  Active LTV monitoring. 
-
 -  Multi-signature governance. 
-
 -  Jurisdictional segregation. 
-
 -  Hedging only when needed. 
-
 -  Re-collateralization during expansions, not contractions.
 
 This framework protects the reserve.
@@ -615,7 +595,6 @@ Protects the operating companies.
 Protects Fund-III commitments.
 
 THE META 
-
 -  ## ## ## ## 
 
 ## CONCLUSION
@@ -652,6 +631,10 @@ Aggressive execution.
 
 For principal evaluation, submit a confidential capital audit.
 
-Terminal metric: LTV hard cap: 18.6% # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+Terminal metric: LTV hard cap: 18.6% # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

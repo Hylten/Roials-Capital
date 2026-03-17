@@ -18,7 +18,9 @@ Bureaucracy loses.
 
 We see it clearly because we operate where timing penalties destroy entire mandates.
 
-Order is not an option. ## PHASE 
+Order is not an option. 
+
+## PHASE 
 
 1. ## ## ## ## 
 
@@ -116,7 +118,9 @@ At ROIALS CAPITAL, we align with allocators who treat timing as a decisive facto
 
 Delay is waste.
 
-Waste is disqualifying. ## PHASE 
+Waste is disqualifying. 
+
+## PHASE 
 
 2. ## ## ## ## 
 
@@ -238,9 +242,13 @@ Institutional self discipline.
 
 Nothing opaque.
 
-Nothing improvisational. ## PHASE 
+Nothing improvisational. 
 
-3. ## ## ## THE ## 
+## PHASE 
+
+3. ## ## 
+
+## THE ## 
 
 ## STRATEGIC MODEL
 
@@ -350,9 +358,13 @@ Drift destroys sovereign confidence.
 
 Focus earns scale commitments.
 
-Scale commitments accelerate everything. ## PHASE 
+Scale commitments accelerate everything. 
 
-4. ## ## THE STEWARDSHIP FILTER When national-level capital is entrusted to a GP, the stewardship burden intensifies.
+## PHASE 
+
+4. ## 
+
+## THE STEWARDSHIP FILTER When national-level capital is entrusted to a GP, the stewardship burden intensifies.
 
 We treat capital as covenantal.
 
@@ -412,10 +424,16 @@ No drift.
 
 No excuses.
 
-No opacity. ## PHASE 
+No opacity. 
 
-5. EXIT Target yield displacement threshold: 340 to 460 basis points above sovereign benchmark curves. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+## PHASE 
+
+5. EXIT Target yield displacement threshold: 340 to 460 basis points above sovereign benchmark curves. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

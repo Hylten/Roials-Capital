@@ -28,23 +28,22 @@ We convert dormant positioning into functional liquidity.
 
 This article outlines the mechanics, the posture, and the strategic thesis behind liquidity structuring for sovereign scale portfolios.
 
-It is written in an institutional tone because the audience is institutional. ## The Strategic Benefit to Sovereign Decision Makers When liquidity becomes predictable, strategy becomes clearer.
+It is written in an institutional tone because the audience is institutional. 
+
+## The Strategic Benefit to Sovereign Decision Makers When liquidity becomes predictable, strategy becomes clearer.
 
 When liquidity is architected, the timeline expands.
 
 Decision makers gain: 
-
 -  Optionality in geopolitical windows 
-
 -  Ability to pursue countercyclical investments 
-
 -  Strengthened negotiating leverage with global actors 
-
 -  Risk adjusted returns without destabilizing existing positions 
-
 -  Control over the pace of capital rotation This is the architecture layer.
 
-It is the layer that sovereign and UHNW portfolios require. ## Why ROIALS CAPITAL Operates at This Level Our thresholds are deliberate.
+It is the layer that sovereign and UHNW portfolios require. 
+
+## Why ROIALS CAPITAL Operates at This Level Our thresholds are deliberate.
 
 Two million minimum for crypto.
 
@@ -56,7 +55,7 @@ We lend against private credit and asset based Strategic Collateralization becau
 
 We operate for HNWI and UHNW individuals because they understand that liquidity is a system, not an event.
 
-We maintain silent authority because real capital does not require noise.
+We maintain principal authority because real capital does not require noise.
 
 It requires architecture. ## ## 
 
@@ -76,6 +75,10 @@ Quietly.
 
 Deliberately.
 
-At scale. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+At scale. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

@@ -16,7 +16,9 @@ At Roials Capital, trust is neither a promise nor a posture.
 
 It is the byproduct of architecture.
 
-It emerges from structural clarity, calibrated leverage, and a consistent respect for risk physics. ## The Function of Trust in High Fragility Environments Every HNWI and UHNW portfolio contains points of fragility.
+It emerges from structural clarity, calibrated leverage, and a consistent respect for risk physics. 
+
+## The Function of Trust in High Fragility Environments Every HNWI and UHNW portfolio contains points of fragility.
 
 Concentration.
 
@@ -36,7 +38,9 @@ They develop Asset-Backed Frameworks policies that do not rely on market sentime
 
 And they engineer liquidity layers that remain available even when external conditions become disorderly.
 
-This architecture of predictability is the foundation on which Roials Capital stands. ## Private Credit as Structural Reinforcement Private credit is not merely a funding source.
+This architecture of predictability is the foundation on which Roials Capital stands. 
+
+## Private Credit as Structural Reinforcement Private credit is not merely a funding source.
 
 It is a stabilizer.
 
@@ -56,7 +60,9 @@ We respect cash flow pathways.
 
 And most importantly, we treat credit as architecture, not as a transaction.
 
-Private credit at the institutional level is quiet, precise, and designed to hold. ## The Role of Asset Based Monetization Architecture Asset Based Monetization Architecture, Asset-Based Lending, is the defining mechanism that converts balance sheet strength into strategic liquidity.
+Private credit at the institutional level is quiet, precise, and designed to hold. 
+
+## The Role of Asset Based Monetization Architecture Asset Based Monetization Architecture, Asset-Based Lending, is the defining mechanism that converts balance sheet strength into strategic liquidity.
 
 It shifts static value into active capital.
 
@@ -80,7 +86,9 @@ Create liquidity without eroding the integrity of the underlying asset.
 
 HNWI and UHNW clients require liquidity that does not compromise position.
 
-Asset-Based Lending becomes the mechanism that allows them to retain control, maintain optionality, and protect strategic timing. ## Crypto Institutional Liquidity Paths as an Institutional Discipline Crypto markets were built on narratives of freedom.
+Asset-Based Lending becomes the mechanism that allows them to retain control, maintain optionality, and protect strategic timing. 
+
+## Crypto Institutional Liquidity Paths as an Institutional Discipline Crypto markets were built on narratives of freedom.
 
 They matured on volatility.
 
@@ -106,7 +114,9 @@ We operate only where collateral depth, liquidity, and execution integrity are m
 
 Crypto Asset-Backed Frameworks, when architected correctly, is not a deviation from institutional finance.
 
-It is a natural extension of it. ## Public Share Capital Structuring at High Thresholds Public equity carries visible volatility.
+It is a natural extension of it. 
+
+## Public Share Capital Structuring at High Thresholds Public equity carries visible volatility.
 
 It also carries deep structural liquidity.
 
@@ -126,11 +136,13 @@ Our structures protect against unintended liquidation, against market impact, an
 
 We treat public share collateral with a surgeon’s precision.
 
-Not a trader’s mentality. ## The Silent Authority of Structural Capital Roials Capital operates in what we identify as F Hierarchical Dynamics.
+Not a trader’s mentality. 
 
-This is the posture of silent authority.
+## The principal authority of Structural Capital Roials Capital operates in what we identify as F Hierarchical Dynamics.
 
-Silent authority is the opposite of noise.
+This is the posture of principal authority.
+
+principal authority is the opposite of noise.
 
 It is the opposite of sales pressure or performance theater.
 
@@ -148,7 +160,9 @@ Roials Capital provides the structure.
 
 The client retains the power.
 
-This is the correct distribution of authority. ## Why Rules Create Trust Trust is not created by flexibility.
+This is the correct distribution of authority. 
+
+## Why Rules Create Trust Trust is not created by flexibility.
 
 It is created by boundaries.
 
@@ -182,7 +196,9 @@ They create order.
 
 They allow for predictability.
 
-This is the architecture of trust. ## Strategic Liquidity for HNWI and UHNW Portfolios Liquidity is not always about need.
+This is the architecture of trust. 
+
+## Strategic Liquidity for HNWI and UHNW Portfolios Liquidity is not always about need.
 
 Sometimes it is about timing optimization.
 
@@ -204,7 +220,9 @@ We provide the capital necessary to maintain position integrity, to capture oppo
 
 Liquidity is not the goal.
 
-Control is the goal. ## The Institutional View of Risk Risk is often framed as a threat.
+Control is the goal. 
+
+## The Institutional View of Risk Risk is often framed as a threat.
 
 Institutions view it differently.
 
@@ -226,7 +244,9 @@ We consider potential asymmetry.
 
 The result is capital that behaves predictably even when markets do not.
 
-This is why our structures attract clients who value stability over spectacle. ## Multi Layered Liquidity Architecture The most resilient portfolios are built like multi layer fortifications.
+This is why our structures attract clients who value stability over spectacle. 
+
+## Multi Layered Liquidity Architecture The most resilient portfolios are built like multi layer fortifications.
 
 Each layer has its own function.
 
@@ -252,7 +272,9 @@ Each layer reduces friction.
 
 Each layer increases control.
 
-This multi layer system is the hallmark of institutional capital engineering. ## The Importance of Frictionless Execution HNWI and UHNW clients operate with different time sensitivities.
+This multi layer system is the hallmark of institutional capital engineering. 
+
+## The Importance of Frictionless Execution HNWI and UHNW clients operate with different time sensitivities.
 
 Opportunity windows open quickly and close quickly.
 
@@ -280,7 +302,9 @@ Communication is direct.
 
 Efficiency is a form of respect.
 
-Institutions understand this. ## Serving the Upper Strata Without Visibility Theater Institutional grade clients do not need external validation.
+Institutions understand this. 
+
+## Serving the Upper Strata Without Visibility Theater Institutional grade clients do not need external validation.
 
 They do not seek applause.
 
@@ -300,7 +324,9 @@ We protect identity as part of the system, not as an optional courtesy.
 
 Silence is not the absence of communication.
 
-It is the presence of control. ## Why Architecture Outperforms Opportunism Markets reward discipline over improvisation.
+It is the presence of control. 
+
+## Why Architecture Outperforms Opportunism Markets reward discipline over improvisation.
 
 Portfolios reward structure over excitement.
 
@@ -334,10 +360,14 @@ It is the cumulative effect of systems that hold their form, Monetization Archit
 
 Roials Capital exists to architect this form of trust.
 
-We operate with silent authority.
+We operate with principal authority.
 
 We build the structures that institutions and sophisticated clients require.
 
-To understand how your assets integrate into our institutional architecture, request confidential audit. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+To understand how your assets integrate into our institutional architecture, request confidential audit. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

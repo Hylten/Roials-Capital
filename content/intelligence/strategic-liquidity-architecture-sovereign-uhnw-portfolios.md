@@ -59,23 +59,19 @@ The following components represent the operational foundation of current Fund-II
 Capital raising in this environment requires clarity of asset class, consistency of underwriting logic, and precision in structural positioning.
 
 The primary mechanisms include: 
-
 -  LTV curve management.
 
 Loan to Value parameters are evaluated not as credit constraints but as balance sheet optimization tools.
 
 The allocators who control the LTV curve control the liquidity tempo of the portfolio. 
-
 -  Cash flow stacking and waterfall precision.
 
 The capital architecture of Fund-III must demonstrate clear sequencing between operating cash flows, debt amortization schedules, and distribution priorities.
 
 Allocators focus on predictability rather than targeting specific yield outcomes. 
-
 -  Add on acquisition sequencing.
 
 The most efficient Fund-III structures apply programmatic acquisition logic where each add on is evaluated through integration friction, asset hardening potential, and accretive consolidation mechanics rather than headline valuation multiples. 
-
 -  Seniority design.
 
 Allocators prioritize first dollar protection, enforceable collateralization, and liquidation clarity.
@@ -85,17 +81,14 @@ Structural seniority is increasingly priced as a liquidity premium rather than a
 2. Liquidity Engineering and ABL Structures Asset Based Lending has re-emerged as the most efficient risk controlled liquidity instrument for UHNW and sovereign allocators.
 
 The technical components that define attractive ABL architecture include: 
-
 -  Borrowing base optimization.
 
 Modern ABL facilities leverage real time operational data feeds, allowing collateral to be valued through velocity adjusted formulas rather than static appraisals. 
-
 -  Margin stability.
 
 Borrowers with predictable asset conversion cycles achieve higher stability scores which translate into tighter spreads and increased advance rates.
 
 Allocators value stability more than absolute return curves. 
-
 -  Cross collateralization matrices.
 
 Multi asset borrowers benefit from integrated collateral pools where working capital, machinery, receivables, and inventory flows are bound within a unified liquidity framework.
@@ -107,23 +100,19 @@ This increases covenant discipline and reduces credit stress volatility.
 The combination of long decline conventional reservoirs, provincially regulated production baselines, and predictable SAGD and CSS recovery mechanics delivers operational certainty not readily available in unconventional shale plays.
 
 Key mechanics include: 
-
 -  Reservoir continuity.
 
 Alberta thick zone heavy oil reservoirs demonstrate lateral continuity and predictable pressure regimes which stabilize recovery factors and reduce volatility in production curves. 
-
 -  Thermal lifting mechanisms.
 
 SAGD and CSS techniques allow for recovery predictability through controlled temperature, viscosity management, and controlled drawdown rates.
 
 This contrasts sharply with the rapid decline characteristics of shale wells. 
-
 -  Multi decade asset visibility.
 
 The conventional heavy oil assets managed by our strategic partner NAEO operate under physics constrained decline patterns that allow for high precision forecasting.
 
 This is critical for credit aligned allocators seeking operational transparency. 
-
 -  Capital friction.
 
 Due to sustained underinvestment, operators across the basin face liquidity strain that is structural and predictable.
@@ -139,7 +128,6 @@ THE PARTNERSHIP MODEL Roials Capital operates as a neutral strategic navigator, 
 The primary function is to map allocators to institutional grade operators whose assets align with the allocator's sovereign, family office, or private credit mandates.
 
 Core functions include: 
-
 -  Institutional ## 
 
 ## INTRODUCTION
@@ -147,7 +135,6 @@ Core functions include:
  .
 
 Allocators receive curated access to operators, lenders, and acquisition vehicles where governance, reporting, and counterparty alignment meet institutional thresholds. 
-
 -  Strategic alignment.
 
 The objective is to eliminate misalignment between capital needs and capital mandates.
@@ -159,46 +146,44 @@ The ##
 ## INTRODUCTION
 
  framework reconciles these priorities. 
-
 -  Global jurisdictional navigation.
 
 Allocators operating under MiFID II constraints, Middle Eastern sovereign frameworks, or Swiss regulatory norms require clarity on cross border capital pathways.
 
 Roials Capital provides the mapping, not the execution. 
-
 -  Partner specificity.
 
 In energy mandates, NAEO serves as the strategic partner whose operational discipline, reservoir transparency, and Alberta basin expertise meet institutional requirements.
 
-This partnership model is designed to eliminate informational asymmetry and reduce operator selection risk without engaging in solicitation or promotional behavior. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is treated as a capital discipline grounded in responsibility, accountability, and non wasteful resource management.
+This partnership model is designed to eliminate informational asymmetry and reduce operator selection risk without engaging in solicitation or promotional behavior. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is treated as a capital discipline grounded in responsibility, accountability, and non wasteful resource management.
 
 The allocator's role is to deploy liquidity with moral clarity and operational precision.
 
 Key principles include: 
-
 -  Resource accountability.
 
 Capital must be allocated to operators who manage their reserves, teams, and infrastructure with restraint, discipline, and measurable efficiency.
 
 This aligns with the principles articulated in **Proverbs 13:22** , which emphasizes the intergenerational responsibilities of capital holders. 
-
 -  Non extraction mindset.
 
 Stewardship prioritizes sustainability of operations, not maximization of short term output.
 
 In energy, this translates into controlled drawdown rates, responsible surface footprint management, and long horizon reservoir care. 
-
 -  Governance alignment.
 
 Capital is routed toward entities with transparent reporting, low political interference risk, and durable operational ethics. 
-
 -  Calibration rather than expansion.
 
 Sovereign and UHNW allocators apply the stewardship filter as a calibration mechanism.
 
 The objective is to optimize existing portfolio exposures through liquidity engineering and asset hardening instead of expanding into unfamiliar asset classes.
 
-This framework elevates capital deployment into a moral and operational discipline that transcends tactical return strategies. ## ## ## ## DECISION MAKING LENS FOR ALLOCATORS The strategic allocator evaluates opportunities through a tri layered lens. 
+This framework elevates capital deployment into a moral and operational discipline that transcends tactical return strategies. ## ## ## 
+
+## DECISION MAKING LENS FOR ALLOCATORS The strategic allocator evaluates opportunities through a tri layered lens. 
 
 1. Structural Conditions.
 
@@ -217,3 +202,5 @@ Operators and transactions are evaluated based on recovery factors, LTV curves, 
 Capital is routed only when counterparty alignment is verified through operational intelligence, jurisdictional mapping, and stewardship filters.
 
 For allocators seeking to understand how these dynamics affect portfolio stability, liquidity resilience, and jurisdictional capital routing, Roials Capital conducts a confidential Strategy Audit where the portfolio is assessed across structural, technical, and ethical dimensions. [END OF BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

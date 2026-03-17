@@ -388,10 +388,14 @@ Sovereign tool.
 
 Principal tool.
 
-The standard for all serious operators. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+The standard for all serious operators. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit to benchmark your current liquidity architecture against institutional standards.
 
 Capital readiness ratio target: 1.47x.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

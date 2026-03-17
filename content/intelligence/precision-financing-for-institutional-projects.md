@@ -18,11 +18,13 @@ We serve clients who measure risk in basis points and view liquidity as an instr
 
 Our environment is engineered for High Net Worth and Ultra High Net Worth individuals who require capital solutions that respond to institutional scale, institutional timing, and institutional pressure.
 
-Our framework is built on silent authority.
+Our framework is built on principal authority.
 
 We do not force attention.
 
-We hold it. ## The Architecture Is Yours.
+We hold it. 
+
+## The Architecture Is Yours.
 
 The Engineering Is Ours.
 
@@ -38,6 +40,10 @@ This is capital with intention.
 
 This is precision financing.
 
-This is ROIALS CAPITAL. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+This is ROIALS CAPITAL. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

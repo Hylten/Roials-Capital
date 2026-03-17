@@ -30,7 +30,9 @@ Institutional alignment is the constraint that ensures continuity.
 
 This article outlines how alignment is engineered.
 
-It also clarifies how private credit, Asset-Based Lending, and modern digital collateral strategies fit into an integrated liquidity matrix for sophisticated portfolios. ## Governance as the Ultimate Differentiator The final pillar of institutional alignment is governance.
+It also clarifies how private credit, Asset-Based Lending, and modern digital collateral strategies fit into an integrated liquidity matrix for sophisticated portfolios. 
+
+## Governance as the Ultimate Differentiator The final pillar of institutional alignment is governance.
 
 Governance determines how the entire architecture operates under pressure.
 
@@ -74,6 +76,10 @@ The architecture is engineered to deliver predictable liquidity for sophisticate
 
 For HNWI and UHNW individuals, alignment is not optional.
 
-It is the only way to ensure that credit functions as an asset rather than a liability. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+It is the only way to ensure that credit functions as an asset rather than a liability. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

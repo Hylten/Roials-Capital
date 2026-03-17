@@ -28,21 +28,21 @@ Who prices risk.
 
 Who survives risk.
 
-This is the calculus. # ## The Discipline of Preemption By the time a liquidity facility deteriorates on paper, it has already deteriorated operationally.
+This is the calculus. # 
+
+## The Discipline of Preemption By the time a liquidity facility deteriorates on paper, it has already deteriorated operationally.
 
 Execution velocity demands preemption. 
-
 -  You pull forward discussions early. 
-
 -  You impose perimeter tightening before drift. 
-
 -  You trigger resets before slippage. 
-
 -  You adjust seniority before degradation becomes visible.
 
 Institutional private credit rewards foresight.
 
-It penalizes reaction. # ## Counterparty Behavior Under Stress The strongest borrowers stand firm in stress conditions.
+It penalizes reaction. # 
+
+## Counterparty Behavior Under Stress The strongest borrowers stand firm in stress conditions.
 
 They increase transparency.
 
@@ -62,14 +62,14 @@ This distinction determines who receives institutional capital in the future.
 
 Risk is revealed not during origination.
 
-Risk is revealed during turbulence. ## Institutional Thresholds for Private Credit Institutional liquidity engineering is defined by thresholds.
+Risk is revealed during turbulence. 
+
+## Institutional Thresholds for Private Credit Institutional liquidity engineering is defined by thresholds.
 
 Below these thresholds, the risk calculus becomes distorted.
 
 Roials Capital maintains strict minimums: 
-
 -  Crypto Monetization Architecture: 2M minimum exposure. 
-
 -  Public shares Institutional Liquidity Paths: 5M minimum exposure.
 
 Below these levels, structural alignment collapses.
@@ -80,7 +80,9 @@ Large credit events rarely arise from large borrowers.
 
 They arise from misaligned borrowers.
 
-Thresholds prevent misalignment. ## The Fallacy of Yield Chasing Yield chasing destroys lenders.
+Thresholds prevent misalignment. 
+
+## The Fallacy of Yield Chasing Yield chasing destroys lenders.
 
 It always has.
 
@@ -102,7 +104,9 @@ Not the appearance of performance.
 
 Yield matters.
 
-But order matters more. ## The Institutional Shift: Market Signals for the Next Cycle The private credit market is transitioning into a new architecture.
+But order matters more. 
+
+## The Institutional Shift: Market Signals for the Next Cycle The private credit market is transitioning into a new architecture.
 
 We are witnessing three macro-level shifts. # ## 
 
@@ -121,20 +125,18 @@ They will secure them through behavior.
 Institutional capital rewards those who maintain covenant integrity without being monitored. # ## 
 
 3. The Rise of Intelligence-Driven Underwriting Underwriting is being transformed by intelligence architecture. 
-
 -  Better counterparty data. 
-
 -  More accurate liquidity projections. 
-
 -  Stronger collateral modeling. 
-
 -  Faster alignment detection.
 
 This is the future architecture of institutional private credit.
 
 It is not automation.
 
-It is discernment at scale. ## Roials Capital.
+It is discernment at scale. 
+
+## Roials Capital.
 
 The Principal Position.
 
@@ -167,29 +169,22 @@ The objective is enduring wealth.
 Not transient performance.
 
 We engage only when: 
-
 -  The borrower understands responsibility as covenant. 
-
 -  The collateral can bear institutional scrutiny under stress. 
-
 -  The structure can withstand multi-quarter turbulence. 
-
 -  The leadership is aligned with biblical stewardship. 
+-  The liquidity facility advances dominion, order, and growth. 
 
--  The liquidity facility advances dominion, order, and growth. ## The Geometry of Downside Control Risk calculus is geometric.
+## The Geometry of Downside Control Risk calculus is geometric.
 
 Not linear.
 
 One variable out of balance cascades across the entire structure.
 
 Institutional private credit demands control across four axes: 
-
 -  Collateral control. 
-
 -  Cash flow control. 
-
 -  Counterparty behavior control. 
-
 -  Downside recovery control.
 
 When all four are aligned, risk becomes quantifiable.
@@ -200,7 +195,9 @@ The lender with dominion over all four axes wins.
 
 This is how institutional lenders convert uncertainty into order.
 
-This is how they maintain position across cycles. ## Command of the Downside: The Institutional Edge Institutional private credit is not about predicting the upside.
+This is how they maintain position across cycles. 
+
+## Command of the Downside: The Institutional Edge Institutional private credit is not about predicting the upside.
 
 It is about commanding the downside.
 
@@ -223,13 +220,9 @@ If the answer is absolute, capital deploys. ## ##
  .
 
 The Institutional Mandate for the Next Decade The calculus of risk in institutional private credit is entering a new era. 
-
 -  Higher scrutiny. 
-
 -  Higher discipline. 
-
 -  Higher selectivity. 
-
 -  Higher thresholds.
 
 Lenders who master the triad of structural truth, collateral integrity, and execution velocity will dominate the next credit cycle.
@@ -250,6 +243,10 @@ Institutional private credit is not merely a market.
 
 It is a mandate to govern capital with precision.
 
-Request confidential audit. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+Request confidential audit. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

@@ -156,7 +156,9 @@ Higher utilisation is desperation disguised as growth.
 
 Lower utilisation is idle capital.
 
-Neither is stewardship. [ ## ## ## THE ## 
+Neither is stewardship. [ ## ## 
+
+## THE ## 
 
 ## STRATEGIC MODEL
 
@@ -228,7 +230,9 @@ LPs do not invest in performance.
 
 LPs invest in inevitability.
 
-A fund becomes inevitable when its capital architecture is stronger than the market it operates in. [ ## ## ## ## ## THE STEWARDSHIP FILTER ] We do not build capital for a quarter.
+A fund becomes inevitable when its capital architecture is stronger than the market it operates in. [ ## ## ## ## 
+
+## THE STEWARDSHIP FILTER ] We do not build capital for a quarter.
 
 We build capital for generations.
 
@@ -306,10 +310,16 @@ Matthew 25 instructs that talent must multiply.
 
 Multiplication without waste is the divine pattern.
 
-The sovereign capital architecture is simply the institutional expression of that pattern. [ ## ## EXIT] The final metric is endurance.
+The sovereign capital architecture is simply the institutional expression of that pattern. [ ## 
 
-The sovereign fund must demonstrate a 28 to 34 percent lifetime liquidity conversion ratio across cycles. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+## EXIT] The final metric is endurance.
+
+The sovereign fund must demonstrate a 28 to 34 percent lifetime liquidity conversion ratio across cycles. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

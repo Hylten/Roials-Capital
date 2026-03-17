@@ -126,7 +126,9 @@ Funds that depend on single-channel suppliers, regional labour pools, or concent
 
 These mechanics are not optional.
 
-They define whether a GP can be trusted with sovereign velocity. ## ## ## THE ## 
+They define whether a GP can be trusted with sovereign velocity. ## ## 
+
+## THE ## 
 
 ## STRATEGIC MODEL
 
@@ -175,20 +177,17 @@ Sovereigns do not tolerate improvisation.
 Special mandates are the proving ground. 
 
 4. The Sovereign Control Loop The GP must adopt an internal control loop that mirrors sovereign committee logic: 
-
 -  Pre underwriting severity tests 
-
 -  Liquidity stress curves 
-
 -  Counterparty mapping 
-
 -  Energy delta integration 
-
 -  Exit symmetry protocols When this loop is visible in the investment memos, sovereign committees accelerate approvals.
 
 A fund with internal chaos cannot steward sovereign capital.
 
-A fund with internal order becomes a strategic partner. ## ## ## ## ## THE STEWARDSHIP FILTER Sovereign capital respects stewardship.
+A fund with internal order becomes a strategic partner. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Sovereign capital respects stewardship.
 
 Not sentiment.
 
@@ -240,10 +239,16 @@ It is a strategic posture that defends the purpose of capital.
 
 Sovereigns recognise this posture instantly.
 
-Funds that embody it receive multi cycle commitments. ## ## EXIT Sovereign aligned funds measure success by exit symmetry, not headline IRR.
+Funds that embody it receive multi cycle commitments. ## 
+
+## EXIT Sovereign aligned funds measure success by exit symmetry, not headline IRR.
 
 The correct metric is recovery-to-velocity ratio: RVR 1.35 or better.
 
-For sovereign-grade capital alignment, request a confidential capital audit. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+For sovereign-grade capital alignment, request a confidential capital audit. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

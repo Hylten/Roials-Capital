@@ -25,12 +25,11 @@ This is why the 2026 vintages-especially Fund‑III and higher-are pivoting deci
 The capital understands the shift before the headlines do.
 
 And the principals move before the capital. 
-
+-  
+-  
 -  
 
--  
-
--  ## Strategic Deployment Velocity The first truth: deployment velocity governs survival.
+## Strategic Deployment Velocity The first truth: deployment velocity governs survival.
 
 Not returns.
 
@@ -73,12 +72,11 @@ Auction processes have become theatrical.
 Non‑sponsor engagements remain real.
 
 The difference is decisive. 
-
+-  
+-  
 -  
 
--  
-
--  ## THE HIERARCHICAL DYNAMIC Build platform.
+## THE HIERARCHICAL DYNAMIC Build platform.
 
 Extend perimeter.
 
@@ -121,12 +119,11 @@ A Principal understands human motivations.
 Especially in fragmented industries.
 
 Add‑ons are where the children’s children are protected. 
-
+-  
+-  
 -  
 
--  
-
--  ## WHY 2026 VINTAGE FUNDS ARE MOVING NOW Hard forces.
+## WHY 2026 VINTAGE FUNDS ARE MOVING NOW Hard forces.
 
 Non‑negotiable. 
 
@@ -143,13 +140,9 @@ These firms are ideal add‑on candidates: strong recurring revenue, constrained
 3. **LPs Have Evolved: They Now Reward Precision, Not Theater** The LP psychology in 2026 is different.
 
 They want: 
-
 -  Clear acquisition maps 
-
 -  Domain‑specific expansion logic 
-
 -  Demonstrable operational uplift within 180-270 days 
-
 -  Evidence of discipline and sovereignty in capital deployment Add‑ons deliver these elements with far greater consistency than platform hunting.
 
 The world has become more volatile, not less.
@@ -157,27 +150,21 @@ The world has become more volatile, not less.
 Add‑ons absorb volatility and channel it.
 
 Platforms absorb volatility and suffer under it. 
-
+-  
+-  
 -  
 
--  
-
--  ## THE NON‑SPONSOR DOMAIN: WHERE REAL VALUE IS FOUND This is the most important structural shift: The non‑sponsor market is not “unsophisticated.” It is simply un-defended.
+## THE NON‑SPONSOR DOMAIN: WHERE REAL VALUE IS FOUND This is the most important structural shift: The non‑sponsor market is not “unsophisticated.” It is simply un-defended.
 
 Un‑intermediated.
 
 Un‑corrupted by the sponsor‑to‑sponsor echo chamber.
 
 These owners carry: 
-
 -  Legacy systems 
-
 -  Founder pragmatism 
-
 -  Thin middle management 
-
 -  Strong customer concentration 
-
 -  High integrity: the most undervalued asset of all They are not dressing up numbers.
 
 They are running a company.
@@ -195,25 +182,20 @@ This clarity collapses process friction.
 And collapsing friction increases deployment velocity.
 
 Velocity compounds enterprise value. 
-
+-  
+-  
 -  
 
--  
-
--  ## THE MULTI‑JURISDICTIONAL COMPONENT The 2026 landscape requires more than acquisition discipline-it requires jurisdictional intelligence.
+## THE MULTI‑JURISDICTIONAL COMPONENT The 2026 landscape requires more than acquisition discipline-it requires jurisdictional intelligence.
 
 Cross‑border expansion is no longer a luxury.
 
 It is the engine of durability.
 
 Non‑sponsor add‑ons allow a fund to: 
-
 -  Absorb EU industrials under MiFID II governance 
-
 -  Tie North American operators into a consolidated supply chain 
-
 -  Expand into energy transition verticals aligned with NAEOC thresholds ($50M-$250M mandates) 
-
 -  Build nodes in markets where competitor capital has no reach Jurisdiction is not geography.
 
 Jurisdiction is leverage.
@@ -223,39 +205,26 @@ Control the jurisdiction, and you control the future cash flow envelope.
 Funds that underestimate this dynamic will lose cycles.
 
 Funds that master it will dominate the decade. 
-
+-  
+-  
 -  
 
--  
-
--  ## PLATFORM VS.
+## PLATFORM VS.
 
 ADD‑ON: A PRINCIPAL’S CALCULUS A Principal evaluates not the theoretical “story” of a deal, but the structural value locked inside it.
 
 Platform deals demand: 
-
 -  Heavy diligence 
-
 -  Cultural assimilation 
-
 -  Governance redesign 
-
 -  Customer dependency untangling 
-
 -  Management elevation 
-
 -  Unwinding of legacy debt habits 
-
 -  Multi‑system integration 
-
 -  Full operational restructuring Add‑ons demand: 
-
 -  Clean absorption 
-
 -  System alignment 
-
 -  Revenue mapping 
-
 -  Covenant discipline One is surgery.
 
 The other is architecture.
@@ -263,12 +232,11 @@ The other is architecture.
 Architecture wins.
 
 Because architecture compounds. 
-
+-  
+-  
 -  
 
--  
-
--  ## THE DEPLOYMENT FLYWHEEL Non‑sponsor add‑ons create a self‑accelerating capital cycle: 
+## THE DEPLOYMENT FLYWHEEL Non‑sponsor add‑ons create a self‑accelerating capital cycle: 
 
 1. Acquire the add‑on. 
 
@@ -287,21 +255,16 @@ Fund‑III LPs want predictability.
 Fund‑III GPs want velocity.
 
 Non‑sponsor add‑ons satisfy both sides of the covenant. 
-
+-  
+-  
 -  
 
--  
-
--  ## THE ROLE OF DIRECT LENDING AND STRUCTURAL CAPITAL A brief technical note, because it matters.
+## THE ROLE OF DIRECT LENDING AND STRUCTURAL CAPITAL A brief technical note, because it matters.
 
 Non‑sponsor add‑ons allow far more precision in: 
-
 -  Direct lending overlays 
-
 -  Multi‑jurisdictional liquidity triage 
-
 -  Cash‑flow ring‑fencing 
-
 -  On‑balance‑sheet covenant mapping These tools are hard to apply during platform formation but exceptionally potent during add‑on absorption.
 
 If Asset-Based Lending is integrated into the stack, institutional borrowers must meet the Qualification Gates at $2M and $5M.
@@ -313,12 +276,11 @@ A Principal sets such gates not as barriers, but as discipline‑preserving inst
 The capital respects discipline.
 
 The market responds to it. 
-
+-  
+-  
 -  
 
--  
-
--  ## THE FUTURE: 2026 VINTAGE DOMINANCE The funds that will define 2026,2031 are not chasing glamour.
+## THE FUTURE: 2026 VINTAGE DOMINANCE The funds that will define 2026,2031 are not chasing glamour.
 
 They are building empires of absorption.
 
@@ -343,13 +305,14 @@ Non‑sponsor add‑ons are the mechanism.
 Fund‑III is the architecture.
 
 The Principal is the force. 
-
+-  
+-  
 -  
 
--  
-
--  ## REQUEST CONFIDENTIAL CAPITAL AUDIT State your mandate.
+## REQUEST CONFIDENTIAL CAPITAL AUDIT State your mandate.
 
 We will determine alignment.
 
 ROIALS CAPITAL engages only where structural clarity and institutional intent converge.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

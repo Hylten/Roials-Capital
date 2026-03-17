@@ -83,3 +83,5 @@ Real capital, not abstraction.
 Send the data room.
 
 We’ll run the confidential capital audit and map which buyer clusters align with your platform’s leverage footprint.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

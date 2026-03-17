@@ -144,7 +144,9 @@ Not reactive.
 
 The system is designed to avoid courtroom dependence.
 
-This is how institutional discipline is restored. ## ## ## THE ## 
+This is how institutional discipline is restored. ## ## 
+
+## THE ## 
 
 ## STRATEGIC MODEL
 
@@ -202,7 +204,9 @@ ROIALS CAPITAL builds proprietary compliance stacks that reduce the cost and tim
 
 We do not optimize for convenience.
 
-We optimize for inevitability. ## ## ## ## ## THE STEWARDSHIP FILTER Capital is an assignment.
+We optimize for inevitability. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Capital is an assignment.
 
 Waste is rebellion.
 
@@ -234,8 +238,14 @@ We refuse any transaction that rewards entropy.
 
 The architecture of sovereign credit mobility is built so that capital can move when politics cannot.
 
-This is stewardship applied as institutional mechanics. ## ## EXIT Fund-III targets mobility-adjusted IRR with a minimum cross-border collateral conversion velocity of 92 days. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+This is stewardship applied as institutional mechanics. ## 
+
+## EXIT Fund-III targets mobility-adjusted IRR with a minimum cross-border collateral conversion velocity of 92 days. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

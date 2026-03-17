@@ -71,21 +71,17 @@ The focus is on middle market platforms with definable competitive moats and low
 The objective is to construct capital stacks where seniority, predictability, and asset backing collectively neutralize cyclicality.
 
 Critical mechanics include: 
-
 -  Consolidation velocity.
 
 The rate at which smaller operators can be integrated using disciplined add on acquisitions.
 
 This directly impacts enterprise value durability and exit optionality. 
-
 -  Balance sheet optimization.
 
 Structures that enable cash flow compression to support senior debt, while maintaining adequate reinvestment for operational continuity. 
-
 -  Institutional archetype filtering.
 
 Selection of platforms that can demonstrate repeatable procurement, pricing power, and operational efficiency under multi cycle volatility. 
-
 -  Contingent equity frameworks.
 
 Mechanisms for absorbing temporary drawdowns without diluting long term ownership or introducing destabilizing creditor interests. 
@@ -97,23 +93,18 @@ Strategic Collateralization is the use of structured credit to convert illiquid 
 This is critical for allocators seeking capital stability and optionality in environments where traditional financing has contracted.
 
 Key mechanics: 
-
 -  Seniority purification.
 
 Ensuring that new credit facilities hold unambiguous priority over existing obligations. 
-
 -  Cross collateralization.
 
 Aggregating multiple asset pools to create stability and broaden creditworthiness. 
-
 -  Cash flow waterfalls.
 
 Precise allocation of operational returns to guarantee senior tranche coverage before discretionary distributions. 
-
 -  Loan to value discipline.
 
 Maintaining LTV ratios aligned with institutional expectations while retaining adequate operational flexibility. 
-
 -  Redemption velocity.
 
 The speed with which liquidity can be generated without degrading asset integrity. 
@@ -125,23 +116,18 @@ This is not a commodity speculation strategy.
 It is a physics driven operational discipline centered on predictable decline rates, established recovery processes, and reservoir geometry.
 
 Key mechanics in the Alberta basin include: 
-
 -  SAGD recovery frameworks.
 
 Steam Assisted Gravity Drainage relies on gravitational separation of heated bitumen and water, creating highly predictable production curves once steam chambers mature. 
-
 -  CSS cycle optimization.
 
 Cyclic Steam Stimulation involves repeated injection and production cycles, which produce quantifiable recovery factors that can be calibrated to known reservoir heterogeneity. 
-
 -  Decline curve governance.
 
 Heavy oil assets benefit from shallow declines, providing allocators with stable long term production profiles. 
-
 -  Multi well pad consolidation.
 
 Combining operations across contiguous leases enhances operating efficiency and reduces per unit cost. 
-
 -  Asset life extension.
 
 Heavy oil reservoirs with established operating envelopes can be extended at minimal capital intensity compared to unconventional shale assets.
@@ -176,30 +162,27 @@ In all cases, Roials Capital maintains a neutral technical posture.
 
 The function is not distribution.
 
-The function is strategic alignment and counterpart calibration. ## ## ## ## ## THE STEWARDSHIP FILTER Institutional asset stewardship is increasingly interpreted through the lens of responsibility and resource governance.
+The function is strategic alignment and counterpart calibration. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Institutional asset stewardship is increasingly interpreted through the lens of responsibility and resource governance.
 
 Stewardship involves the disciplined management of capital, operational assets, and long term risk exposures.
 
 It draws on a principle embedded in **Proverbs 13:22** , which emphasizes continuity across generations.
 
 The Stewardship Filter includes: 
-
 -  Non wasteful capital deployment.
 
 Only allocating resources where hard asset conversion is demonstrable. 
-
 -  Operational durability.
 
 Ensuring that operators maintain functional integrity across cycles. 
-
 -  Governance density.
 
 Establishing decision frameworks that prevent dilution of institutional control. 
-
 -  Cross cycle resilience.
 
 Platforms should remain stable even under adverse market conditions. 
-
 -  Transparency and auditability.
 
 Ensuring institutional clarity across reporting, compliance, and operational oversight.
@@ -208,7 +191,11 @@ The intersection of stewardship and asset hardening defines the modern allocator
 
 Long duration capital has shifted from valuation capture to structural resilience.
 
-The objective is to reinforce the asset base, not speculate on forward pricing. ## ## THE ## ## DECISION MAKING LENS FOR ALLOCATORS Allocators evaluating Sovereign Asset Hardening strategies consistently operate within three analytical lenses. 
+The objective is to reinforce the asset base, not speculate on forward pricing. ## 
+
+## THE ## 
+
+## DECISION MAKING LENS FOR ALLOCATORS Allocators evaluating Sovereign Asset Hardening strategies consistently operate within three analytical lenses. 
 
 1. Institutional Transferability The asset or operator must demonstrate the capacity to integrate with institutional reporting rhythms, governance structures, and risk committees.
 
@@ -224,6 +211,10 @@ The allocator must be able to project cash flow trajectories, risk envelopes, an
 
 Roials Capital provides confidential Strategy Audits and Portfolio Calibration engagements designed to map allocators into the structural landscape of Asset Hardening.
 
-The objective is to provide clarity on the operational regime and introduce the correct institutional partners where alignment exists. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+The objective is to provide clarity on the operational regime and introduce the correct institutional partners where alignment exists. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

@@ -130,7 +130,9 @@ No allocator deploys into energy without operational evidence that the GP can qu
 
 Capital respects discipline.
 
-Energy capital demands it. ## ## ## THE ## 
+Energy capital demands it. ## ## 
+
+## THE ## 
 
 ## STRATEGIC MODEL
 
@@ -184,7 +186,9 @@ One friction point is enough to cost
 
 A GP who manages these three systems with precision becomes institution-ready.
 
-A GP who does not remains in the aspirational layer of private markets. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is an operating principle.
+A GP who does not remains in the aspirational layer of private markets. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is an operating principle.
 
 Waste is a moral failure.
 
@@ -214,8 +218,14 @@ Fund-III is not achieved through force.
 
 It is achieved through order.
 
-Order is an act of stewardship. ## ## EXIT Our mandate is simple: reduce capital friction by 87 percent across the fund structure and raise the throughput rate of institutional commitments by 3.4 times.
+Order is an act of stewardship. ## 
 
-For a confidential capital audit, initiate contact. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+## EXIT Our mandate is simple: reduce capital friction by 87 percent across the fund structure and raise the throughput rate of institutional commitments by 3.4 times.
+
+For a confidential capital audit, initiate contact. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

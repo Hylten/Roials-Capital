@@ -32,7 +32,9 @@ Capital now demands governance, hard collateral, and institutional discipline.
 
 The allocators who internalize this early will extract multi-cycle advantage.
 
-Those who hesitate will finance the advantage of others. ## PHASE 
+Those who hesitate will finance the advantage of others. 
+
+## PHASE 
 
 1. ## ## ## ## 
 
@@ -84,7 +86,9 @@ They view it as a filtration mechanism for character, competence, and covenant i
 
 The regime has already shifted.
 
-Those who do not architect around this shift will serve those who do. ## PHASE 
+Those who do not architect around this shift will serve those who do. 
+
+## PHASE 
 
 2. ## ## ## ## 
 
@@ -115,15 +119,10 @@ Institutional LPs no longer tolerate blended distribution models.
 They want hard sequencing with transparent order of operations.
 
 The modern waterfall looks like this: 
-
 -  Senior asset coverage. 
-
 -  Operational cash sweep. 
-
 -  Manager carry only after asset-level verification. 
-
 -  LP priority distribution seated above all contingent allocations. 
-
 -  No variable complexity without corresponding collateral hardening.
 
 If this structure is not present, institutional capital will not migrate.
@@ -164,9 +163,13 @@ Each is a duration lever.
 
 The mechanics are not negotiable.
 
-They are the architecture. ## PHASE 
+They are the architecture. 
 
-3. ## ## ## THE ## 
+## PHASE 
+
+3. ## ## 
+
+## THE ## 
 
 ## STRATEGIC MODEL
 
@@ -234,9 +237,13 @@ We remove ambiguity at the root.
 
 The model is not designed for speed.
 
-It is designed for sovereignty over outcomes. ## PHASE 
+It is designed for sovereignty over outcomes. 
 
-4. ## ## THE STEWARDSHIP FILTER Stewardship is not sentimental.
+## PHASE 
+
+4. ## 
+
+## THE STEWARDSHIP FILTER Stewardship is not sentimental.
 
 Stewardship is the disciplined prevention of waste.
 
@@ -284,14 +291,20 @@ It is not.
 
 It is operational theology.
 
-It is the practical expression of order. ## PHASE 
+It is the practical expression of order. 
+
+## PHASE 
 
 5. EXIT Capital migration ends with one metric.
 
 Cost of error.
 
-Our mandate is to lower it to zero. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+Our mandate is to lower it to zero. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

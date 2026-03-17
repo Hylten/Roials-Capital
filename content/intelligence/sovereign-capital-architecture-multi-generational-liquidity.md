@@ -73,7 +73,6 @@ Unlike unconventional shale, thermal heavy oil production follows engineered rec
 This technical maturity produces a degree of operational predictability that is increasingly valuable to institutional allocators. 
 
 1. SAGD 
-
 -  Steam Assisted Gravity Drainage.
 
 SAGD is a dual wellbore system where a steam injector sits above a production well.
@@ -87,7 +86,6 @@ This produces a long horizon production curve with engineered reliability, low d
 SAGD is capital intensive at the front end but demonstrates robust operational stability after steam chamber integrity is established. 
 
 2. CSS 
-
 -  Cyclic Steam Stimulation.
 
 CSS is a single well system where steam is injected, soaked, and then produced.
@@ -170,7 +168,9 @@ Liquidity engineering is the structured alignment of debt, equity, asset backed 
 
 The objective is operational coherence, not leverage expansion.
 
-The allocator benefits through reduced information asymmetry, elevated institutional counterparties, and infrastructure for calibrated decision making. ## ## ## ## ## THE STEWARDSHIP FILTER AND THE THEOLOGY OF CAPITAL Stewardship in energy is not a moral veneer.
+The allocator benefits through reduced information asymmetry, elevated institutional counterparties, and infrastructure for calibrated decision making. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER AND THE THEOLOGY OF CAPITAL Stewardship in energy is not a moral veneer.
 
 It is a technical discipline.
 
@@ -202,7 +202,9 @@ This aligns with the theological principle referenced in **Proverbs 13:22** whic
 
 The allocator is not speculating on price volatility.
 
-The allocator is stewarding long duration physical assets. ## ## SOVEREIGN CAPITAL ARCHITECTURE AND MULTI GENERATIONAL LIQUIDITY FORMATION Institutional allocators across Europe, the Middle East, the United States, and Asia are increasingly recalibrating their sovereign capital architecture.
+The allocator is stewarding long duration physical assets. ## 
+
+## SOVEREIGN CAPITAL ARCHITECTURE AND MULTI GENERATIONAL LIQUIDITY FORMATION Institutional allocators across Europe, the Middle East, the United States, and Asia are increasingly recalibrating their sovereign capital architecture.
 
 The objective is to create systems that sustain liquidity across generations without exposure to fragile macro narratives. 
 
@@ -243,3 +245,5 @@ The question is not which asset to select.
 The question is how to structure a capital system that can sustain multi generational continuity, sovereign independence, and institutional resilience.
 
 Roials Capital offers a confidential Strategy Audit to evaluate an allocator's current portfolio alignment, sector exposure, and long horizon liquidity architecture. [END OF BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

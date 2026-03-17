@@ -85,11 +85,8 @@ LTV is not a ratio; it is a signal of discipline.
 2. CASH-FLOW WATERFALLS A liquidity architecture without enforced priority is a liability.
 
 A functional waterfall has three rules. 
-
 -  Rule 1: Senior obligations must remain senior under every stress scenario. 
-
 -  Rule 2: Operating cash is insulated from GP discretion. 
-
 -  Rule 3: Free cash must be converted into asset-backed liquidity within 90 days.
 
 This is how sovereign treasuries operate.
@@ -101,13 +98,9 @@ It is how private markets must operate.
 Recovery factors must be designed pre-acquisition, not post-default.
 
 A sovereign-grade recovery factor is built on: 
-
 -  real-asset floor values 
-
 -  forced-sale discount modeling 
-
 -  multi-jurisdictional enforcement integrity 
-
 -  extraction timelines under 120 days Recovery is not an event.
 
 It is a precondition. 
@@ -115,14 +108,13 @@ It is a precondition.
 4. LIQUIDITY BUCKETS A sovereign balance sheet operates with layered liquidity.
 
 At Fund-III scale, these should be: 
-
 -  Short-cycle liquidity: receivables, inventory with verified liquidation paths 
-
 -  Mid-cycle liquidity: Asset-Based Lending-ready equipment and long-life operating assets 
-
 -  Long-cycle liquidity: energy reserves, mineral rights, durable infrastructure This blend produces institutional trust.
 
-Institutional trust produces commitments. ## ## ## THE ## 
+Institutional trust produces commitments. ## ## 
+
+## THE ## 
 
 ## STRATEGIC MODEL
 
@@ -155,17 +147,11 @@ The GP must present itself as an allocator of covenantal resources.
 Not a seeker of capital but a governor of it.
 
 LPs respond when the GP shows evidence of: 
-
 -  controllable operational cycles 
-
 -  predictable collateral values 
-
 -  repeatable bolt-on execution 
-
 -  secondary liquidity pathways 
-
 -  cross-border compliance integrity 
-
 -  data-driven governance The GP must speak with the authority of a sovereign treasurer managing national assets. 
 
 2. THE Monetization Architecture MODEL Asset-Based Lending is no longer a niche tool.
@@ -186,7 +172,9 @@ When a fund can execute national interest projects, its cost of capital falls.
 
 Permanently.
 
-A sovereign-aligned GP earns institutional credibility at a level that pure financial operators never match. ## ## ## ## ## THE STEWARDSHIP FILTER The stewardship filter is the boundary between disorder and order.
+A sovereign-aligned GP earns institutional credibility at a level that pure financial operators never match. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER The stewardship filter is the boundary between disorder and order.
 
 Between wasted capital and productive capital.
 
@@ -197,11 +185,8 @@ A true sovereign balance sheet is not built on leverage.
 It is built on alignment with the original design of capital stewardship.
 
 Scripture is explicit about this order. **Proverbs 13:22** 
-
 -  A good man leaves an inheritance to his children's children. **Luke 16:10** 
-
 -  He that is faithful in the least is faithful also in much. **Proverbs 21:5** 
-
 -  The plans of the diligent lead surely to abundance.
 
 The sovereign balance sheet does not chase returns.
@@ -226,12 +211,18 @@ They will structure differently.
 
 Their entire operating model will become a demonstration of what disciplined dominion looks like in the marketplace.
 
-This is the voice that sovereign LPs trust. ## ## EXIT Capital leaving the portfolio must exit with structural dignity.
+This is the voice that sovereign LPs trust. ## 
+
+## EXIT Capital leaving the portfolio must exit with structural dignity.
 
 The final metric is single-variable.
 
-Time to cash conversion: 71 days. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+Time to cash conversion: 71 days. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

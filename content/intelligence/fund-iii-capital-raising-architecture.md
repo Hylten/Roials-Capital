@@ -192,7 +192,9 @@ If the GP cannot show cross border operational discipline, no allocation proceed
 
 Institutional capital raises do not fail because of relationships.
 
-They fail because the GP cannot demonstrate mechanical mastery. ## ## ## THE ## 
+They fail because the GP cannot demonstrate mechanical mastery. ## ## 
+
+## THE ## 
 
 ## STRATEGIC MODEL
 
@@ -254,7 +256,9 @@ A GP who demonstrates stewardship attracts patient capital.
 
 For capital raising to operate at institutional scale, these five components must be fully integrated, frictionless, and measurable.
 
-The GP who still relies on narrative over structure falls behind the Fund-III standard. ## ## ## ## ## THE STEWARDSHIP FILTER Capital is a responsibility.
+The GP who still relies on narrative over structure falls behind the Fund-III standard. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Capital is a responsibility.
 
 Mismanagement of attention, time, or resources is waste.
 
@@ -296,7 +300,9 @@ Not time.
 
 Not capital.
 
-Not attention. ## ## EXIT Fund-III allocators measure one final metric.
+Not attention. ## 
+
+## EXIT Fund-III allocators measure one final metric.
 
 Commitment efficiency ratio.
 
@@ -304,6 +310,10 @@ A clean system targets 4 to 7 qualified LPs per 1 committed LP.
 
 Anything above 10 indicates systemic failure.
 
-Request a confidential capital audit. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+Request a confidential capital audit. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

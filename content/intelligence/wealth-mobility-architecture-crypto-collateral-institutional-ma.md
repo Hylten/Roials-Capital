@@ -100,7 +100,9 @@ The partnership model focuses on structural clarity instead of promotional langu
 
 Each engagement begins with a technical diagnostic of the target acquisition, the sponsor balance sheet, and the mobility profile of the available collateral.
 
-The objective is to engineer a collateral stack that maximizes transaction stability while preserving cross border agility. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship in capital architecture refers to the disciplined allocation of resources toward productive and durable outcomes.
+The objective is to engineer a collateral stack that maximizes transaction stability while preserving cross border agility. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship in capital architecture refers to the disciplined allocation of resources toward productive and durable outcomes.
 
 It is the opposite of speculative deployment.
 
@@ -127,3 +129,5 @@ These tools enhance liquidity precision, cross border portability, and structura
 Roials Capital provides institutional navigation, compliance oriented structuring, and access to credit partners capable of underwriting hybrid collateral stacks.
 
 For allocators evaluating acquisition pipelines, the next step is a confidential strategy audit focused on balance sheet calibration, collateral optimization, and deployment timing.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

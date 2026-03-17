@@ -46,7 +46,9 @@ Below is the playbook that governs our approach.
 
 It is not advisory.
 
-It is operational doctrine. ## PHASE 
+It is operational doctrine. 
+
+## PHASE 
 
 1. ## ## ## ## 
 
@@ -90,7 +92,9 @@ A private market ruled by scarcity rewards managers who commit to structural sim
 
 Few understand this.
 
-Even fewer execute it. ## PHASE 
+Even fewer execute it. 
+
+## PHASE 
 
 2. ## ## ## ## 
 
@@ -136,9 +140,13 @@ The recovery equation is strengthened further through Asset-Based Lending overla
 
 When these mechanics align, capital becomes self-defending.
 
-The structure protects itself even when the macro environment does not. ## PHASE 
+The structure protects itself even when the macro environment does not. 
 
-3. ## ## ## THE ## 
+## PHASE 
+
+3. ## ## 
+
+## THE ## 
 
 ## STRATEGIC MODEL
 
@@ -186,9 +194,13 @@ High conviction does not require noise.
 
 LPs do not invest in communication.
 
-They invest in structure. ## PHASE 
+They invest in structure. 
 
-4. ## ## THE STEWARDSHIP FILTER Every institutional decision passes through the stewardship filter.
+## PHASE 
+
+4. ## 
+
+## THE STEWARDSHIP FILTER Every institutional decision passes through the stewardship filter.
 
 If it wastes capital, it is rejected.
 
@@ -232,7 +244,9 @@ Fund-III will not compromise this standard.
 
 LPs who partner with us do not receive a portfolio.
 
-They receive a covenant of stewardship. ## PHASE 
+They receive a covenant of stewardship. 
+
+## PHASE 
 
 5. EXIT The final signal of discipline is a metric, not a statement.
 
@@ -242,6 +256,10 @@ Preservation begins at underwriting.
 
 It ends in realized mathematics.
 
-Request a confidential capital audit. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+Request a confidential capital audit. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

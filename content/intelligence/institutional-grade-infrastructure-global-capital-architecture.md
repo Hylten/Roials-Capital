@@ -59,13 +59,9 @@ Special mandates for energy and MiFID II compliant acquisitions at 10 percent.
 BUYOUT INFRASTRUCTURE FOR Fund-III Buyout environments across the EU and North America now require precision calibration between acquisition multiple, EBITDA normalization, and capital stack composition.
 
 The operational mechanics rely on: 
-
 -  Valuation corridors anchored on replacement cost and liquidation case analysis rather than forward projections. 
-
 -  Balance sheet optimization that replaces blanket leverage with structured seniority and targeted cash sweep triggers. 
-
 -  Integration frameworks where add on acquisitions are sequenced according to throughput contribution, not headline scale. 
-
 -  Institutional governance where reporting cadence matches LP control requirements rather than legacy private equity practice.
 
 In this regime, Fund-III portfolio companies require capital partners that introduce strategic pathways rather than pursue transactional allocation.
@@ -75,13 +71,9 @@ The infrastructure must support multi jurisdictional availability of capital, di
 Institutional Liquidity Paths THROUGH Asset-Based Lending Asset based lending functions as a stabilizing mechanism in environments where operational assets hold intrinsic productivity but lack balance sheet flexibility.
 
 Strategic Collateralization focuses on: 
-
 -  Determining appropriate advance rates against eligible receivables, inventory, machinery, or reserves. 
-
 -  Engineering cross collateralized borrowing bases that stabilize revolver availability as assets scale. 
-
 -  Replacing blanket loans with liquidity corridors that dynamically expand or contract according to operating cycle needs. 
-
 -  Increasing opportunity velocity by ensuring managers can execute transactions without waiting for traditional credit approvals.
 
 Asset-Based Lending infrastructure is no longer an emergency measure.
@@ -93,15 +85,10 @@ SPECIAL MANDATES: ENERGY AND MIFID II ACQUISITIONS Energy mandates in the 50M to
 Alberta heavy oil environments operate under physics governed performance profiles that differ significantly from shale dynamics.
 
 Key mechanics include: 
-
 -  SAGD as a thermal recovery process where steam injection reduces viscosity to mobilize bitumen. 
-
 -  CSS as a cyclic thermal stimulation method that accelerates early cycle production in certain reservoirs. 
-
 -  Recovery factors between 30 and 70 percent depending on formation, porosity, and reservoir continuity. 
-
 -  Decline curves that follow predictable patterns with low geological uncertainty compared to unconventional plays. 
-
 -  Production stability enhanced through pad optimization, water cut management, and steam oil ratio stabilization.
 
 NAEO operates as a strategic partner with institutional grade operational discipline.
@@ -113,13 +100,9 @@ It focuses exclusively on established reservoirs with known reservoir characteri
 MiFID II acquisition infrastructure requires equal precision.
 
 Cross border transactions must respect: 
-
 -  Suitability protocols. 
-
 -  Internal classifications of professional clients. 
-
 -  Transaction reporting standards. 
-
 -  Marketing restrictions that require neutral descriptive positioning rather than performance promotion.
 
 THE PARTNERSHIP MODEL Roials Capital acts as a strategic navigator for institutions rather than a promoter.
@@ -144,7 +127,9 @@ Within energy, Roials Capital relies on NAEO as the partner responsible for fiel
 
 Roials does not manage energy assets.
 
-It introduces institutional allocators to the Alberta landscape and supports strategic evaluation. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is a governance discipline.
+It introduces institutional allocators to the Alberta landscape and supports strategic evaluation. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is a governance discipline.
 
 For capital allocators, stewardship is the process of deploying resources in a manner that increases productive capacity while minimizing waste.
 
@@ -168,7 +153,11 @@ Productive capital compounds when stewarded correctly.
 
 Global allocators recognize this pattern intuitively.
 
-Institutional grade infrastructure exists to give them a channel for responsible deployment. ## ## THE ## ## DECISION MAKING LENS The allocator evaluating Fund-III, Asset-Based Lending structures, or special mandates can apply four filters. 
+Institutional grade infrastructure exists to give them a channel for responsible deployment. ## 
+
+## THE ## 
+
+## DECISION MAKING LENS The allocator evaluating Fund-III, Asset-Based Lending structures, or special mandates can apply four filters. 
 
 1. Structural relevance.
 
@@ -186,6 +175,10 @@ Does the ecosystem support institutional reporting, conflict management, and cro
 
 Does the structure allow for dynamic capital deployment and balance sheet optimization during unexpected cycles.
 
-Roials Capital provides institutional LPs and GPs with a confidential strategy audit to evaluate alignment across these four dimensions and calibrate portfolio posture accordingly. [END OF BRIEFING] # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+Roials Capital provides institutional LPs and GPs with a confidential strategy audit to evaluate alignment across these four dimensions and calibrate portfolio posture accordingly. [END OF BRIEFING] # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

@@ -357,21 +357,13 @@ Income evaporates.
 Wealth survives.
 
 Multi‑generational wealth is engineered through: 
-
 -  Asset classification 
-
 -  Duration control 
-
 -  Cashflow synchronization 
-
 -  Covenant hierarchy 
-
 -  Jurisdictional arbitrage 
-
 -  Capital velocity engineering 
-
 -  Non‑dilutive liquidity extraction 
-
 -  Institutional insulation This is the architecture.
 
 Not theory.
@@ -460,6 +452,10 @@ Nothing else produces this effect at scale.
 
 Confidential capital audit available on request.
 
-Mandate threshold: DSCR > 1.35x. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+Mandate threshold: DSCR > 1.35x. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

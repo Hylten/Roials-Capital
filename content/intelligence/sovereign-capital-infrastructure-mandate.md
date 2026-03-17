@@ -152,7 +152,9 @@ Yet public markets accept it as standard.
 
 The result is predictable.
 
-Capital flows toward private systems that enforce accountability instead of public systems that obscure risk. ## ## ## THE ## 
+Capital flows toward private systems that enforce accountability instead of public systems that obscure risk. ## ## 
+
+## THE ## 
 
 ## STRATEGIC MODEL
 
@@ -211,16 +213,16 @@ Ten percent of
 ## THE MANDATE
 
  focuses on mandates in: 
-
 -  North American Energy Operators Consortium (NAEOC) for 50M to 250M transactions. 
-
 -  EU MiFID II acquisition structures for regulated assets.
 
 These mandates exist because sovereign capital infrastructure can no longer process energy acquisitions or regulatory transfers efficiently.
 
 The regulatory spine remains intact.
 
-The fiscal spine does not. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is not philosophy.
+The fiscal spine does not. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is not philosophy.
 
 Stewardship is operational constraint.
 
@@ -286,7 +288,9 @@ Nor for the election cycle.
 
 The frame is generational.
 
-Private capital with generational discipline always outperforms sovereign capital with temporal incentives. ## ## EXIT The future of sovereign capital infrastructure will be decided by one metric: recovery integrity.
+Private capital with generational discipline always outperforms sovereign capital with temporal incentives. ## 
+
+## EXIT The future of sovereign capital infrastructure will be decided by one metric: recovery integrity.
 
 When recovery structures strengthen, capital flows return.
 
@@ -296,6 +300,10 @@ A sovereign survives on the precision of its collateral spine.
 
 A fund survives on the precision of its governance.
 
-For LPs, family offices, and institutional allocators requiring a confidential capital audit for Fund-III positioning, initiate contact under secure channel. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+For LPs, family offices, and institutional allocators requiring a confidential capital audit for Fund-III positioning, initiate contact under secure channel. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

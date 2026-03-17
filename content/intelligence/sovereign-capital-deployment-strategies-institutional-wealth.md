@@ -20,7 +20,9 @@ Sovereign allocators are recalibrating their frameworks around operational intel
 
 Roials Capital operates within this strategic realignment as an institutional navigator, introducing allocators to operators whose asset profiles exhibit disciplined production mechanics, audited reservoir performance, and institutional-grade governance.
 
-Within this landscape, NAEO has emerged as the leading technical partner in heavy oil acquisition and optimization in Alberta, particularly for mandates ranging from 50 million to 250 million. ## PHASE 
+Within this landscape, NAEO has emerged as the leading technical partner in heavy oil acquisition and optimization in Alberta, particularly for mandates ranging from 50 million to 250 million. 
+
+## PHASE 
 
 1. ## ## ## ## 
 
@@ -62,7 +64,9 @@ None of these assumptions hold.
 
 The result is a valuation gap between intrinsic reservoir value and financial market pricing.
 
-That gap defines the sovereign deployment opportunity. ## PHASE 
+That gap defines the sovereign deployment opportunity. 
+
+## PHASE 
 
 2. ## ## ## ## 
 
@@ -138,7 +142,9 @@ Institutional allocators increasingly demand transparent cash-flow waterfalls, u
 
 Roials Capital integrates these mechanics across its global partnerships to deliver frameworks that meet these criteria without engaging in performance solicitation.
 
-The value lies in structuring clarity, not promotional rhetoric. ## PHASE 
+The value lies in structuring clarity, not promotional rhetoric. 
+
+## PHASE 
 
 3. THE PARTNERSHIP MODEL Roials Capital operates not as an issuer but as an institutional introducer and strategic navigator.
 
@@ -182,9 +188,13 @@ The partnership model always remains neutral.
 
 Roials Capital does not issue securities.
 
-The value creation lies in operational intelligence, structural clarity, and technical mapping so that allocators can engage from a position of strategic strength. ## PHASE 
+The value creation lies in operational intelligence, structural clarity, and technical mapping so that allocators can engage from a position of strategic strength. 
 
-4. ## ## THE STEWARDSHIP FILTER Sovereign capital deployment requires a stewardship orientation.
+## PHASE 
+
+4. ## 
+
+## THE STEWARDSHIP FILTER Sovereign capital deployment requires a stewardship orientation.
 
 At scale, capital behaves like an ecosystem.
 
@@ -193,7 +203,6 @@ Deployed without discipline, it can destabilize operators, create misaligned inc
 Stewardship is not philanthropy.
 
 It is resource governance grounded in the principle articulated in 
-
 -  **Proverbs 13:22** which states that a good person leaves an inheritance for their children's children.
 
 In institutional terms, this means allocating capital into structures that preserve optionality for future generations.
@@ -216,7 +225,9 @@ Collateralized lending must be structured to avoid predatory leverage while supp
 
 Stewardship is embedded into the institutional archetype of capital.
 
-It ensures durability, stability, and intergenerational alignment. ## PHASE 
+It ensures durability, stability, and intergenerational alignment. 
+
+## PHASE 
 
 5. DECISION FRAMEWORK FOR THE ALLOCATOR Institutional allocators evaluating sovereign scale capital deployment opportunities face a landscape of volatility, regulatory friction, and shifting geopolitical vectors.
 
@@ -245,3 +256,5 @@ The objective is calibration.
 Allocators operating at sovereign scale require clarity, precision, and technical intelligence.
 
 The current regime shift in energy, private markets, and liquidity engineering favors those with the discipline to interpret the underlying mechanics.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

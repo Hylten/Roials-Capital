@@ -105,3 +105,5 @@ Domain to domain.
 Execution over ceremony.
 
 If you require a confidential capital audit, state the target jurisdiction and the acquisition timeline.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

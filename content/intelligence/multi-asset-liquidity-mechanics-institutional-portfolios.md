@@ -19,7 +19,6 @@ Asset managers who fail to internalize this shift weaken their negotiating lever
 Capital does not reward delay.
 
 It rewards readiness. 
-
 -  **Proverbs 13:22** .
 
 The institutional core understands this.
@@ -41,11 +40,8 @@ Mechanics.
 The kind that shift control from markets to managers; from counterparties to principal desks; from liquidity scarcity to liquidity optionality.
 
 Institutional portfolios demand liquidity in three dimensions: 
-
 -  Temporal liquidity 
-
 -  Jurisdictional liquidity 
-
 -  Asset‑class liquidity Each dimension requires engineering.
 
 Each dimension supports Fund-III capital raising.
@@ -389,11 +385,8 @@ Not generic narratives.
 Structural narratives.
 
 LPs want clarity on three points: 
-
 -  Liquidity creation capability 
-
 -  Liquidity resilience under stress 
-
 -  Liquidity optionality under expansion Each point enhances LP trust.
 
 Each point lowers perceived deployment risk.
@@ -660,8 +653,12 @@ A great fund manufactures capital.
 
 A sovereign fund engineers liquidity across all assets, all cycles, all jurisdictions.
 
-The institutional world rewards the sovereign. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+The institutional world rewards the sovereign. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit: ROIALS CAPITAL Liquidity Torque Ratio: 1.83x
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

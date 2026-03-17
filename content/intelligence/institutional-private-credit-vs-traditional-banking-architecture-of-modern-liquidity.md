@@ -130,7 +130,9 @@ In energy, NAEO provides the institutional-grade technical backbone.
 
 Roials Capital maintains neutrality.
 
-This ensures the architecture serves allocators rather than internal balance sheet incentives. ## ## ## ## ## THE STEWARDSHIP FILTER Every allocator with long-duration capital recognizes that stewardship is essential for sustaining multi-cycle performance.
+This ensures the architecture serves allocators rather than internal balance sheet incentives. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Every allocator with long-duration capital recognizes that stewardship is essential for sustaining multi-cycle performance.
 
 Stewardship is not a philosophical statement.
 
@@ -150,7 +152,9 @@ Whether in energy, manufacturing, or technology, durability enhances portfolio r
 
 Stewardship requires intentional architecture, not reactive behavior.
 
-Private credit provides this structure because its discipline is rooted in covenant-based governance and operational intelligence. ## ## DECISION-MAKING LENS FOR ALLOCATORS The strategic question for institutional allocators is no longer whether private credit will replace traditional lending.
+Private credit provides this structure because its discipline is rooted in covenant-based governance and operational intelligence. ## 
+
+## DECISION-MAKING LENS FOR ALLOCATORS The strategic question for institutional allocators is no longer whether private credit will replace traditional lending.
 
 It already has.
 
@@ -174,6 +178,10 @@ Strategies built on stewardship maintain durability across interest rate cycles.
 
 Roials Capital supports allocators through confidential strategy audits and portfolio calibration reviews.
 
-The objective is to align institutional capital with the correct liquidity architecture, ensuring precise navigation across markets that demand technical intelligence rather than generalist assumptions. [END OF INSTITUTIONAL BRIEFING] # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+The objective is to align institutional capital with the correct liquidity architecture, ensuring precise navigation across markets that demand technical intelligence rather than generalist assumptions. [END OF INSTITUTIONAL BRIEFING] # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

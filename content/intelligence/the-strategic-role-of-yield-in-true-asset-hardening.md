@@ -18,7 +18,9 @@ When engineered correctly, yield converts risk-bearing assets into liquidity ins
 
 When engineered poorly, it becomes noise, volatility, and deterioration.
 
-This distinction is the defining line between institutional-grade financial mechanics and ordinary yield seeking. ## Multi Asset Hardening: The Roials Architecture ROIALS CAPITAL operates as a silent authority in the background of complex portfolios.
+This distinction is the defining line between institutional-grade financial mechanics and ordinary yield seeking. 
+
+## Multi Asset Hardening: The Roials Architecture ROIALS CAPITAL operates as a principal authority in the background of complex portfolios.
 
 We do not advise on public strategy.
 
@@ -27,15 +29,10 @@ We do not enter client-facing narratives.
 We build the structural mechanics that allow large balance sheets to move quietly.
 
 Our architecture is designed for HNWI and UHNW individuals who require: 
-
 -  Non disruptive liquidity 
-
 -  Controlled leverage 
-
 -  Yield reinforced collateral 
-
 -  Institutional counterparty structures 
-
 -  Asset-Based Lending frameworks with depth and continuity Yield integrates these components.
 
 It converts disparate asset classes into a harmonized Strategic Collateralization ecosystem.
@@ -44,7 +41,9 @@ It ensures durability.
 
 It enables controlled expansion.
 
-It maintains the client’s sovereign posture over their capital. ## The Real Function of Yield: Control In institutional contexts, yield is not about return.
+It maintains the client’s sovereign posture over their capital. 
+
+## The Real Function of Yield: Control In institutional contexts, yield is not about return.
 
 Yield is about control.
 
@@ -82,6 +81,10 @@ Controlled leverage.
 
 And capital that remains sovereign.
 
-Request confidential audit # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+Request confidential audit # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

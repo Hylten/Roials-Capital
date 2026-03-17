@@ -36,7 +36,9 @@ The public markets no longer reward patience.
 
 They punish immobility.
 
-The New Liquidity Standard emerges because the legacy liquidity model failed its stewards. ## PHASE 
+The New Liquidity Standard emerges because the legacy liquidity model failed its stewards. 
+
+## PHASE 
 
 1. ## ## ## ## 
 
@@ -112,7 +114,9 @@ It is engineered liquidity calibrated to volatility, float structure, issuer cov
 
 The public market pretended to offer liquidity.
 
-The private market now delivers it. ## PHASE 
+The private market now delivers it. 
+
+## PHASE 
 
 2. ## ## ## ## 
 
@@ -135,11 +139,8 @@ The core variables:
 Static LTV is a retail concept.
 
 Institutional structures require dynamic LTV bands tied to three signals: 
-
 -  30 day realized volatility 
-
 -  Average daily volume 
-
 -  Market cap decay or accretion over a 180 day window If volatility rises or volume collapses, LTV bands compress automatically.
 
 The structure protects the borrower from forced liquidations and protects the lender from capital impairment.
@@ -151,11 +152,8 @@ That is discipline.
 2. Cash flow waterfalls.
 
 Every liquidity structure must resolve three flows: 
-
 -  Carry cost 
-
 -  Pledge maintenance 
-
 -  Free cash allocation for redeployment into Fund-III operations The waterfall cannot be linear.
 
 It must prioritize capital redeployment for buyout or add-on strategies once covenant health is secured.
@@ -167,17 +165,11 @@ The structure exists not for liquidity itself but for reallocation into higher p
 Public shares are volatile.
 
 Recovery modeling requires stress testing across six scenarios: 
-
 -  15 percent down shock 
-
 -  30 percent down shock 
-
 -  45 percent down shock 
-
 -  Three standard deviation volatility expansion 
-
 -  Four consecutive low volume weeks 
-
 -  Corporate action shocks, including dividend cut or guidance withdrawal We calibrate recovery not on issuer fundamentals but on market structure behavior.
 
 Recovery is not theological.
@@ -189,13 +181,9 @@ A private lender prices recovery probability against liquidity speed, not corpor
 This is the hidden truth most institutions overlook. 
 
 4. Covenant architecture. 
-
 -  LTV band compliance 
-
 -  Liquidity reserve compliance 
-
 -  Information rights for monitoring issuer events 
-
 -  Prohibition of secondary pledges A covenant is not a constraint.
 
 It is a survival protocol. 
@@ -212,9 +200,13 @@ Liquidity that cannot be timed is liquidity that cannot serve buyout velocity.
 
 The market cannot offer timing.
 
-Only structure can. ## PHASE 
+Only structure can. 
 
-3. ## ## ## THE ## 
+## PHASE 
+
+3. ## ## 
+
+## THE ## 
 
 ## STRATEGIC MODEL
 
@@ -247,15 +239,10 @@ Movement Two: Allocation.
 The extracted liquidity must enter productive operations.
 
 Fund-III requires capital for: 
-
 -  Buyout entries 
-
 -  Add-ons 
-
 -  Opportunistic distressed entries 
-
 -  Energy acquisition opportunities under NAEOC thresholds 
-
 -  MiFID II cross-border acquisitions Capital that remains idle decays.
 
 Capital that enters productive systems compounds.
@@ -276,9 +263,13 @@ This is a category error.
 
 The New Liquidity Standard integrates them.
 
-Extraction is only meaningful when paired with allocation velocity. ## PHASE 
+Extraction is only meaningful when paired with allocation velocity. 
 
-4. ## ## THE STEWARDSHIP FILTER Stewardship is not sentiment.
+## PHASE 
+
+4. ## 
+
+## THE STEWARDSHIP FILTER Stewardship is not sentiment.
 
 It is accountability.
 
@@ -330,7 +321,9 @@ It structures around irrationality.
 
 The public markets no longer reward passive holding.
 
-The steward must act before volatility acts for him. ## PHASE 
+The steward must act before volatility acts for him. 
+
+## PHASE 
 
 5. EXIT 
 
@@ -338,8 +331,12 @@ The steward must act before volatility acts for him. ## PHASE
 
  is simple: transform trapped public value into redeployable private capital without triggering market decay.
 
-The technical threshold is 38 to 44 percent institutional LTV stability across a 180 day volatility band. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+The technical threshold is 38 to 44 percent institutional LTV stability across a 180 day volatility band. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

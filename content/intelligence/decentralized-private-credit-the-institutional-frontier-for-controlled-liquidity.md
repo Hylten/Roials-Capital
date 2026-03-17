@@ -20,13 +20,15 @@ Mechanics that enable collateral to be evaluated in real time.
 
 Mechanics that remove intermediaries that add opacity but not value.
 
-ROIALS CAPITAL operates in this environment as a silent authority.
+ROIALS CAPITAL operates in this environment as a principal authority.
 
 We construct liquidity frameworks for High Net Worth and Ultra High Net Worth individuals who require precision, discretion, and predictable execution.
 
 Our mandate is not to market trends.
 
-Our mandate is to architect them. ## The Reallocation of Trust Institutional trust is migrating away from legacy financial structures.
+Our mandate is to architect them. 
+
+## The Reallocation of Trust Institutional trust is migrating away from legacy financial structures.
 
 The drivers are not emotional.
 
@@ -46,7 +48,9 @@ HNWI and UHNW investors are not looking for volatility.
 
 They are looking for autonomy.
 
-They are looking for liquidity systems that work at their speed, not the speed of legacy institutional queues. ## The Role of Private Credit in a Decentralized Framework Private credit has always been about information advantage, collateral clarity, and underwriting discipline.
+They are looking for liquidity systems that work at their speed, not the speed of legacy institutional queues. 
+
+## The Role of Private Credit in a Decentralized Framework Private credit has always been about information advantage, collateral clarity, and underwriting discipline.
 
 When moved into decentralized architecture, these principles remain, but the mechanics evolve.
 
@@ -60,7 +64,9 @@ The result is not a replacement of traditional credit.
 
 It is the emergence of a second rail.
 
-A rail optimized for capital efficiency and temporal precision. ## Asset Based Strategic Collateralization, Reconstructed Asset Based Institutional Liquidity Paths (Asset-Based Lending) is one of the most structurally compatible categories for decentralized environments.
+A rail optimized for capital efficiency and temporal precision. 
+
+## Asset Based Strategic Collateralization, Reconstructed Asset Based Institutional Liquidity Paths (Asset-Based Lending) is one of the most structurally compatible categories for decentralized environments.
 
 The reason is simple.
 
@@ -80,7 +86,9 @@ Every movement of collateral is visible.
 
 Every change in valuation state is measurable.
 
-For HNWI and UHNW borrowers, this creates a liquidity architecture that is predictable, neutral, and free from custodial delays. ## Institutional Clients Require Institutional Thresholds ROIALS CAPITAL operates with minimums that reflect the seriousness of our client base.
+For HNWI and UHNW borrowers, this creates a liquidity architecture that is predictable, neutral, and free from custodial delays. 
+
+## Institutional Clients Require Institutional Thresholds ROIALS CAPITAL operates with minimums that reflect the seriousness of our client base.
 
 These thresholds are non-negotiable.
 
@@ -96,7 +104,9 @@ They are designed to ensure that our liquidity structures remain aligned with in
 
 When liquidity is measured in eight figures, friction is not an inconvenience.
 
-It is a risk. ## The Evolution of Counterparty Structure In legacy markets, counterparties are defined by financial institution tiers.
+It is a risk. 
+
+## The Evolution of Counterparty Structure In legacy markets, counterparties are defined by financial institution tiers.
 
 In decentralized private credit, the counterparty is defined by collateral architecture.
 
@@ -114,7 +124,9 @@ With ROIALS CAPITAL, clients access a framework that is built for this new count
 
 We do not rely on manual interpretation of asset value.
 
-We rely on deterministic structure. ## Liquidity: The New Competitive Variable For HNWI and UHNW individuals, liquidity is no longer about access.
+We rely on deterministic structure. 
+
+## Liquidity: The New Competitive Variable For HNWI and UHNW individuals, liquidity is no longer about access.
 
 It is about predictability.
 
@@ -140,7 +152,9 @@ Institutional clients do not require infinite leverage.
 
 They require controlled leverage.
 
-They require a system where liquidity is engineered, not negotiated. ## Structural Integrity in an Expanding Market The decentralized credit landscape is expanding.
+They require a system where liquidity is engineered, not negotiated. 
+
+## Structural Integrity in an Expanding Market The decentralized credit landscape is expanding.
 
 Expansion increases opportunity.
 
@@ -164,7 +178,9 @@ Not a starting point.
 
 For HNWI and UHNW clients, this hierarchy matters.
 
-It ensures that balance sheet optimization costs, collateral parameters, and liquidity facility conditions remain institutionally consistent. ## Why Decentralized Private Credit Appeals to Advanced Capital There are three core reasons the most sophisticated borrowers are moving into decentralized private credit.
+It ensures that balance sheet optimization costs, collateral parameters, and liquidity facility conditions remain institutionally consistent. 
+
+## Why Decentralized Private Credit Appeals to Advanced Capital There are three core reasons the most sophisticated borrowers are moving into decentralized private credit.
 
 First: Control over collateral.
 
@@ -178,7 +194,9 @@ There is no discretionary decision maker interpreting the deal through internal 
 
 This triad is powerful.
 
-It creates a liquidity environment that operates at the speed and precision required by multi-million dollar capital stacks. ## Asset-Based Lending as a Stabilizer for High Net Worth Capital Asset Based Capital Structuring has historically served as a stabilizer for large private balance sheets.
+It creates a liquidity environment that operates at the speed and precision required by multi-million dollar capital stacks. 
+
+## Asset-Based Lending as a Stabilizer for High Net Worth Capital Asset Based Capital Structuring has historically served as a stabilizer for large private balance sheets.
 
 When executed with decentralized logic, Asset-Based Lending becomes even more robust.
 
@@ -192,7 +210,9 @@ For HNWI and UHNW individuals, this provides a rare combination of autonomy and 
 
 ROIALS CAPITAL does not compete with banks.
 
-We architect the parallel infrastructure that banks cannot provide. ## Underwriting Without Friction The future of underwriting is data structured, not analyst interpreted.
+We architect the parallel infrastructure that banks cannot provide. 
+
+## Underwriting Without Friction The future of underwriting is data structured, not analyst interpreted.
 
 Decentralized private credit enables this transformation. liquidity facility-to-value thresholds become consistent.
 
@@ -206,20 +226,18 @@ It is the architecture required by clients whose capital must remain operational
 
 ROIALS CAPITAL builds underwriting systems that do not fluctuate with sentiment.
 
-They are based on rules that remain constant regardless of market mood. ## Risk Management at the Institutional Frontier Risk management in decentralized private credit requires a different approach.
+They are based on rules that remain constant regardless of market mood. 
+
+## Risk Management at the Institutional Frontier Risk management in decentralized private credit requires a different approach.
 
 The absence of intermediaries does not eliminate risk.
 
 It reshapes it.
 
 The primary risks shift toward: 
-
 -  Collateral volatility 
-
 -  Liquidation timelines 
-
 -  Liquidity depth in secondary markets 
-
 -  Smart contract reliability ROIALS CAPITAL incorporates these variables into its structural models, ensuring that balance sheet optimization frameworks remain stable even as market conditions evolve.
 
 The objective is not to chase risk.
@@ -228,7 +246,9 @@ The objective is to neutralize it.
 
 HNWI and UHNW clients operate with capital loads that cannot absorb avoidable unpredictability.
 
-Therefore, every mechanism must be engineered for clarity. ## The Silent Authority Model ROIALS CAPITAL functions within what we call the Silent Authority model.
+Therefore, every mechanism must be engineered for clarity. 
+
+## The principal authority Model ROIALS CAPITAL functions within what we call the principal authority model.
 
 Silent, because we do not market noise or make public claims to influence perception.
 
@@ -242,7 +262,9 @@ Our role is to provide the liquidity frameworks that advanced capital requires.
 
 Nothing more.
 
-Nothing less. ## The Institutional Frontier Decentralized private credit is becoming the new frontier for institutional liquidity. it completes them.
+Nothing less. 
+
+## The Institutional Frontier Decentralized private credit is becoming the new frontier for institutional liquidity. it completes them.
 
 Banks provide scale.
 
@@ -274,6 +296,10 @@ Our frameworks are engineered for clarity, autonomy, and liquidity without frict
 
 Our function is not to follow the market.
 
-Our function is to define the mechanics the market will eventually adopt. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+Our function is to define the mechanics the market will eventually adopt. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

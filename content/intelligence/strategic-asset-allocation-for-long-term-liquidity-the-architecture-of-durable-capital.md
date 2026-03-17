@@ -22,13 +22,17 @@ Where traditional financial discourse presents liquidity as reactive, we design 
 
 Where legacy institutions impose rigid conditions, we create structural optionality.
 
-Where others see leverage, we see engineered mobility. # ## Long-Term Liquidity This is the strategic layer.
+Where others see leverage, we see engineered mobility. # 
+
+## Long-Term Liquidity This is the strategic layer.
 
 It ensures the investor never becomes trapped by their own success, their own illiquidity, or their own commitments.
 
 Private credit collateralization builds this layer.
 
-It is durable, predictable, and structurally stable. ## Why ROIALS CAPITAL’s Framework Aligns With HNWI and UHNW Requirements Our thresholds are deliberate.
+It is durable, predictable, and structurally stable. 
+
+## Why ROIALS CAPITAL’s Framework Aligns With HNWI and UHNW Requirements Our thresholds are deliberate.
 
 Crypto Strategic Collateralization begins at 2 million dollars.
 
@@ -44,7 +48,9 @@ We do not optimize for volume.
 
 We optimize for structural integrity.
 
-This is the silent authority that institutional clients expect. ## Long-Term Liquidity as Capital Sovereignty The highest form of wealth is not accumulation.
+This is the principal authority that institutional clients expect. 
+
+## Long-Term Liquidity as Capital Sovereignty The highest form of wealth is not accumulation.
 
 It is control.
 
@@ -68,7 +74,9 @@ Not reactive Asset-Backed Frameworks.
 
 Not episodic liquidity.
 
-But sovereign capital engineering. ## Closing Perspective Strategic asset allocation that fails to embed long-term liquidity is incomplete.
+But sovereign capital engineering. 
+
+## Closing Perspective Strategic asset allocation that fails to embed long-term liquidity is incomplete.
 
 For sophisticated investors, liquidity is not the absence of constraint.
 
@@ -86,6 +94,10 @@ They maintain control during stress.
 
 They accelerate during opportunity.
 
-If your objective is durable, long-term liquidity supported by disciplined collateral structures, ROIALS CAPITAL provides the architecture. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+If your objective is durable, long-term liquidity supported by disciplined collateral structures, ROIALS CAPITAL provides the architecture. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

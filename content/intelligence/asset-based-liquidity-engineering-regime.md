@@ -12,7 +12,9 @@ Wealth collapses at its softest asset.
 
 Liquidity is the constraint most UHNW families misdiagnose.
 
-Order is not an option. ## PHASE 
+Order is not an option. 
+
+## PHASE 
 
 1. ## ## ## ## 
 
@@ -64,7 +66,9 @@ Whoever controls the holding period controls the wealth trajectory.
 
 Fund-III sits inside that shift.
 
-Not beside it. ## PHASE 
+Not beside it. 
+
+## PHASE 
 
 2. ## ## ## ## 
 
@@ -109,15 +113,10 @@ The waterfall is the contract that enforces stewardship.
 Monetization Architecture depends on a hard priority stack.
 
 Operating cash flows feed: 
-
 -  Interest obligations 
-
 -  Maintenance capital 
-
 -  Asset hardening reserves 
-
 -  Acquisition surplus 
-
 -  Distribution rights The order is sacred.
 
 Break the order and you destroy compounding.
@@ -142,9 +141,13 @@ A machine with twelve documented bidders is a treasury instrument.
 
 This is why we build Asset-Based Lending facilities not as credit.
 
-But as operating infrastructure. ## PHASE 
+But as operating infrastructure. 
 
-3. ## ## ## THE ## 
+## PHASE 
+
+3. ## ## 
+
+## THE ## 
 
 ## STRATEGIC MODEL
 
@@ -214,9 +217,13 @@ We extract time-value.
 
 We recycle surplus into controlled compounding paths.
 
-Waste is eliminated. ## PHASE 
+Waste is eliminated. 
 
-4. ## ## THE STEWARDSHIP FILTER A system built without stewardship corrodes.
+## PHASE 
+
+4. ## 
+
+## THE STEWARDSHIP FILTER A system built without stewardship corrodes.
 
 Stewardship is not generosity.
 
@@ -258,14 +265,20 @@ Disciplined capital instructs them.
 
 A liquidity engineered system teaches the next generation how to govern.
 
-Not how to spend. ## PHASE 
+Not how to spend. 
+
+## PHASE 
 
 5. EXIT Our internal mandate is explicit.
 
 Every facility must move the operator toward a minimum DSCR of 1.42 within four quarters.
 
-Deviate from this and the compounding model breaks. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+Deviate from this and the compounding model breaks. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

@@ -12,7 +12,9 @@ It is the downstream result of regulatory recalibration, banking consolidation, 
 
 The outcome is a structurally persistent gap in credit formation that is material enough to redirect institutional allocation schedules for the next decade.
 
-Middle market private credit has therefore transitioned from a peripheral yield enhancer to an architectural pillar of institutional portfolios. ## PHASE 
+Middle market private credit has therefore transitioned from a peripheral yield enhancer to an architectural pillar of institutional portfolios. 
+
+## PHASE 
 
 1. ## ## ## ## 
 
@@ -68,7 +70,9 @@ Private credit is entering the same maturity arc that private equity navigated i
 
 Institutional allocators are no longer experimenting with the asset class.
 
-They are building long horizon exposure and integrating dedicated private credit sleeves into overall portfolio design. ## PHASE 
+They are building long horizon exposure and integrating dedicated private credit sleeves into overall portfolio design. 
+
+## PHASE 
 
 2. ## ## ## ## 
 
@@ -83,19 +87,15 @@ It is a mosaic of structural approaches, each defined by risk seniority, collate
 These structures benefit from clear governance, audited histories, and defined operational roadmaps.
 
 Technical factors include: 
-
 -  Senior secured positioning.
 
 Lenders operate at the top of the capital stack, supported by first lien claims on cash generating assets. 
-
 -  LTV curves.
 
 Well constructed transactions target 35 percent to 55 percent LTV, ensuring substantial equity subordination. 
-
 -  Cash flow waterfalls.
 
 Priority payment structures direct free cash flow toward amortization before any equity realization. 
-
 -  Platform consolidation.
 
 In add on cycles, the aggregation of smaller targets into a unified operator increases collateral density and stabilizes EBITDA visibility.
@@ -109,19 +109,15 @@ It is not a substitute for enterprise wide financing.
 It is an instrument for working capital stabilization, inventory monetization, and operational continuity.
 
 Core mechanics include: 
-
 -  Dynamic advance rates.
 
 Borrowing bases adjust according to real time receivable quality and inventory liquidation profiles. 
-
 -  Covenant simplicity.
 
 Asset-Based Lending structures rely on asset verification rather than EBITDA projections, reducing sensitivity to market swings. 
-
 -  Cross collateralization.
 
 Lenders may unify disparate asset pools to increase the predictability of recovery scenarios. 
-
 -  Revolving frameworks.
 
 Borrowers access liquidity as needed, improving opportunity velocity without balance sheet distortion.
@@ -131,26 +127,24 @@ For manufacturing, distribution, and logistics platforms, Asset-Based Lending re
 3. Special Mandates including NAEOC 50 million to 250 million Energy Allocations North American conventional energy remains a niche but structurally attractive corridor for allocators who understand basin physics, decline curve predictability, and long life heavy oil reservoirs.
 
 Alberta’s conventional assets exhibit technical advantages: 
-
 -  Established decline curves.
 
 Heavy oil wells in Alberta decline at slower, more predictable rates than unconventional shale. 
-
 -  Thermal and enhanced recovery compatibility.
 
 SAGD and CSS allow operators to engage in high recovery factor strategies with low geologic uncertainty. 
-
 -  Reservoir stability.
 
 The Western Canadian Sedimentary Basin provides long horizon production windows with minimal exploration risk. 
-
 -  Capital starvation.
 
 Since 2015, the sector has absorbed a 60 percent reduction in traditional capital flows, creating pricing dislocations uncorrelated with commodity cycles.
 
 Our strategic partner, NAEO, focuses on conventional heavy oil operations with disciplined technical stewardship.
 
-These assets avoid high capex blowout risk and offer operational visibility critical for institutional allocators who require stability rather than speculative exposure. ## PHASE 
+These assets avoid high capex blowout risk and offer operational visibility critical for institutional allocators who require stability rather than speculative exposure. 
+
+## PHASE 
 
 3. THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator and institutional introducer.
 
@@ -182,9 +176,13 @@ The partnership model emphasizes clarity.
 
 Allocators do not require persuasion.
 
-They require precise articulation of how a strategy integrates with their capital architecture. ## PHASE 
+They require precise articulation of how a strategy integrates with their capital architecture. 
 
-4. ## ## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource deployment.
+## PHASE 
+
+4. ## 
+
+## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource deployment.
 
 In capital markets, stewardship is a form of integrity that governs allocation decisions, risk frameworks, and operational oversight.
 
@@ -222,7 +220,9 @@ Stewardship becomes a filter through which private credit opportunities are eval
 
 It is not a moral abstraction.
 
-It is a practical requirement for sustainable allocation. ## PHASE 
+It is a practical requirement for sustainable allocation. 
+
+## PHASE 
 
 5. PORTFOLIO CALIBRATION FOR THE ALLOCATOR The current private credit cycle is defined by structural clarity.
 
@@ -233,19 +233,19 @@ Institutional allocators require predictable, senior oriented cash flows that pu
 Private credit sits at the intersection.
 
 The decision making lens for allocators incorporates: 
-
 -  Examination of collateral certainty rather than yield sensitivity. 
-
 -  Assessment of operator quality rather than transaction quantity. 
-
 -  Analysis of capital structure stability rather than pricing anomalies. 
-
 -  Verification of downside protection through hard asset frameworks, disciplined covenants, and long horizon operational visibility.
 
 Roials Capital facilitates confidential strategy audits for allocators who require a calibrated understanding of private credit corridors, middle market dynamics, and mandate specific opportunities including NAEOC’s conventional energy allocations.
 
 The objective is alignment.
 
-The outcome is clarity across capital structures and long term portfolio design. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+The outcome is clarity across capital structures and long term portfolio design. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

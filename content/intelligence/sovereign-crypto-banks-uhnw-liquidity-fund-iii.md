@@ -103,11 +103,8 @@ A cryptographic loan decision is not an approval.
 It is an execution.
 
 Typical mechanics: 
-
 -  45 to 65 percent LTV for tokenized hard assets 
-
 -  60 to 85 percent LTV for sovereign-backed digital treasuries 
-
 -  75 to 90 percent LTV for overcollateralized institutional pools Cash flow waterfalls reconfigure on event triggers rather than quarterly reviews.
 
 Margin calls occur automatically, removing the emotional inefficiency that destroys portfolios. 
@@ -128,7 +125,9 @@ They eliminate manual underwriting.
 
 They eliminate the bottlenecks created by compliance departments trapped in pre-digital governance.
 
-Velocity is the new collateral. ## ## ## THE ## 
+Velocity is the new collateral. ## ## 
+
+## THE ## 
 
 ## STRATEGIC MODEL
 
@@ -165,11 +164,8 @@ The result is a working capital stack that accelerates add-ons and smooths integ
 Their mandate overlaps with multiple strategic verticals.
 
 This creates partnership opportunities for: 
-
 -  NAEOC energy projects at 50M to 250M ticket sizes 
-
 -  EU MiFID II acquisitions to accelerate cross-border regulatory reach 
-
 -  Private credit vehicles seeking real-time underwriting capabilities A private equity GP that aligns with a sovereign-grade crypto bank has a structural advantage.
 
 It operates with a different liquidity regime than competitors.
@@ -180,7 +176,9 @@ It becomes a kinetic buyer.
 
 Fund-III is not an AUM milestone.
 
-It is a tactical transformation. ## ## ## ## ## THE STEWARDSHIP FILTER No institution survives without clarity of mission.
+It is a tactical transformation. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER No institution survives without clarity of mission.
 
 Capital is not neutral.
 
@@ -209,27 +207,28 @@ Waste is sin because it destroys the productivity of creation.
 Stewardship demands capital discipline.
 
 The Stewardship Filter for Fund-III includes: 
-
 -  Zero tolerance for idle liquidity 
-
 -  No capital allocated to slow decision paths 
-
 -  No exposure to opaque jurisdictions that treat wealth as a taxable hostage 
-
 -  No human bottlenecks inside approval lines 
-
 -  No moral abdication in energy, infrastructure, or resource extraction mandates Stewardship is precision.
 
 It is architecture.
 
 It is obedience.
 
-Sovereign crypto banks simply provide the instrument set necessary to practice biblical stewardship at institutional scale. ## ## EXIT The future of UHNW liquidity is not digital.
+Sovereign crypto banks simply provide the instrument set necessary to practice biblical stewardship at institutional scale. ## 
+
+## EXIT The future of UHNW liquidity is not digital.
 
 It is sovereign.
 
 The governing metric is simple: liquidity deployment time measured in minutes, not days.
 
-Request a confidential capital audit. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+Request a confidential capital audit. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

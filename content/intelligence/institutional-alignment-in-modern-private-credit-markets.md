@@ -36,7 +36,9 @@ It explains where Asset-Based Lending structures fit.
 
 It defines how large collateral positions are evaluated.
 
-And it sets the boundaries that maintain trust, stability, and long-term access to liquidity. ## The Institutional Vocabulary of Private Credit Institutional capital operates on a vocabulary built around clarity and enforcement.
+And it sets the boundaries that maintain trust, stability, and long-term access to liquidity. 
+
+## The Institutional Vocabulary of Private Credit Institutional capital operates on a vocabulary built around clarity and enforcement.
 
 Collateral is explicit.
 
@@ -60,7 +62,9 @@ The goal is not to recreate the system, but to align with it.
 
 Alignment does not require size alone.
 
-It requires structural behavior that institutions recognize. ## The Logic of Asset Based Strategic Collateralization Asset based Capital Structuring is the cleanest expression of institutional alignment.
+It requires structural behavior that institutions recognize. 
+
+## The Logic of Asset Based Strategic Collateralization Asset based Capital Structuring is the cleanest expression of institutional alignment.
 
 Collateral is the anchor.
 
@@ -90,7 +94,9 @@ UHNW borrowers benefit because they can optimize large portfolios without sacrif
 
 Institutions have long used Asset-Based Lending to maintain optionality.
 
-Individuals can use the same architecture when the lender is capable of operating at that scale with simplicity and discretion. ## The Role of Private Credit in Modern Portfolios Private credit has moved from a niche allocation to a central pillar of modern wealth strategies.
+Individuals can use the same architecture when the lender is capable of operating at that scale with simplicity and discretion. 
+
+## The Role of Private Credit in Modern Portfolios Private credit has moved from a niche allocation to a central pillar of modern wealth strategies.
 
 The reasons are structural.
 
@@ -107,22 +113,18 @@ Institutional alignment requires that private credit not be treated as a specula
 That discipline is what allows private credit to be used as collateral in the first place.
 
 When ROIALS CAPITAL assesses a private credit position, we look at: 
-
 -  quality of the underlying borrower 
-
 -  enforceability of covenants 
-
 -  seniority and ranking 
-
 -  duration and cash flow timing 
-
 -  jurisdictional clarity 
-
 -  historical performance of similar structures This assessment is not negotiable.
 
 It defines the boundaries of responsible leverage.
 
-It protects the borrower by grounding liquidity in stable underwriting. ## The Silent Architecture of Institutional Behavior Institutions are not loud.
+It protects the borrower by grounding liquidity in stable underwriting. 
+
+## The Silent Architecture of Institutional Behavior Institutions are not loud.
 
 They do not explain themselves.
 
@@ -143,22 +145,19 @@ Our function is structural, not promotional.
 Our authority comes from engineering that works.
 
 HNWI and UHNW individuals who align with institutional behavior benefit from: 
-
 -  faster decisioning 
-
 -  more predictable liquidity windows 
-
 -  deeper access to leverage 
-
 -  reduced friction during underwriting 
-
 -  more strategic use of portfolio assets The market rewards those who move like institutions.
 
 Not those who request exceptions.
 
 Not those who rely on narratives.
 
-Not those who present complexity without clarity. ## Large Collateral, Large Responsibility Private credit and Asset-Based Lending structures require stability.
+Not those who present complexity without clarity. 
+
+## Large Collateral, Large Responsibility Private credit and Asset-Based Lending structures require stability.
 
 Collateral thresholds reinforce that stability.
 
@@ -182,7 +181,9 @@ Thresholds are not barriers.
 
 They are signals.
 
-They define the scale at which careful engineering becomes both possible and valuable. ## Liquidity as a Strategic Instrument Liquidity is not simply access to cash.
+They define the scale at which careful engineering becomes both possible and valuable. 
+
+## Liquidity as a Strategic Instrument Liquidity is not simply access to cash.
 
 Liquidity is the capacity to maintain control over a portfolio regardless of market conditions.
 
@@ -208,7 +209,9 @@ Alignment maintains stability.
 
 Stability maintains optionality.
 
-Optionality maintains long-term control. ## Why Structure Outperforms Emotion Markets move.
+Optionality maintains long-term control. 
+
+## Why Structure Outperforms Emotion Markets move.
 
 Perception shifts.
 
@@ -234,7 +237,9 @@ This reciprocity keeps the system executable.
 
 It keeps both sides aligned.
 
-And it maintains trust without theatrics. ## Institutional Alignment as a Competitive Advantage For HNWI and UHNW clients, aligning with institutional rules provides a competitive edge.
+And it maintains trust without theatrics. 
+
+## Institutional Alignment as a Competitive Advantage For HNWI and UHNW clients, aligning with institutional rules provides a competitive edge.
 
 It accelerates approvals.
 
@@ -260,11 +265,13 @@ The market rewards structural maturity.
 
 This is why institutions dominate private credit markets.
 
-And it is why individuals who adopt their posture gain access to the same advantages. ## The Role of ROIALS CAPITAL as Structural Architect Our position is not to chase capital.
+And it is why individuals who adopt their posture gain access to the same advantages. 
+
+## The Role of ROIALS CAPITAL as Structural Architect Our position is not to chase capital.
 
 Our position is to maintain the structural environment in which capital functions.
 
-Silent authority is our operating principle.
+principal authority is our operating principle.
 
 We create the frameworks.
 
@@ -286,7 +293,9 @@ It ensures the underwriting respects institutional boundaries.
 
 ROIALS CAPITAL is not a retail solution.
 
-It is an institutional framework accessible to individuals who understand its value. ## The Path Forward for Private Credit Markets Private credit continues to gain relevance as traditional Institutional Liquidity Paths becomes more restrictive and market cycles become more compressed.
+It is an institutional framework accessible to individuals who understand its value. 
+
+## The Path Forward for Private Credit Markets Private credit continues to gain relevance as traditional Institutional Liquidity Paths becomes more restrictive and market cycles become more compressed.
 
 Institutions see it as a predictable yield engine that operates independently from public market volatility.
 
@@ -314,7 +323,9 @@ We do not deviate.
 
 We do not dilute.
 
-We operate with the same discipline that institutional markets expect and require. ## Closing Architecture Private credit markets reward those who think in structures, not stories.
+We operate with the same discipline that institutional markets expect and require. 
+
+## Closing Architecture Private credit markets reward those who think in structures, not stories.
 
 They reward borrowers who understand alignment.
 
@@ -328,6 +339,10 @@ Not negotiated.
 
 Executed.
 
-To evaluate how your assets align with institutional private credit rules, request confidential audit. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+To evaluate how your assets align with institutional private credit rules, request confidential audit. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

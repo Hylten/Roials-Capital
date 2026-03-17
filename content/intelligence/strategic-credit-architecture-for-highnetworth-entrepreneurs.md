@@ -20,27 +20,25 @@ We engage only with HNWI and UHNW leaders whose assets are already operating at 
 
 Our role is simple.
 
-We build the silent mechanics behind their capital velocity. ## The ROIALS CAPITAL Framework: Silent Authority Our clients do not require persuasion.
+We build the silent mechanics behind their capital velocity. 
+
+## The ROIALS CAPITAL Framework: principal authority Our clients do not require persuasion.
 
 They require structural clarity.
 
-ROIALS CAPITAL operates with silent authority, providing the mechanics that normally remain hidden within institutional credit systems.
+ROIALS CAPITAL operates with principal authority, providing the mechanics that normally remain hidden within institutional credit systems.
 
 We focus on: 
-
 -  Capital architecture 
-
 -  Asset integrity 
-
 -  Sovereign liquidity design 
-
 -  Private credit integration 
-
 -  Institutional sequencing 
-
 -  Regulatory precision Entrepreneurs come to us because they prefer discretion.
 
-They stay because we deliver predictability. ## Structural Liquidity as an Edge in High‑Velocity Markets The modern investment landscape rewards timing more than raw capital.
+They stay because we deliver predictability. 
+
+## Structural Liquidity as an Edge in High‑Velocity Markets The modern investment landscape rewards timing more than raw capital.
 
 A sophisticated entrepreneur with liquidity on command can enter situations where most capital players hesitate.
 
@@ -58,7 +56,9 @@ Liquidity that is unlocked, but not exposed, becomes a competitive advantage.
 
 It allows wealth to flow without disrupting the asset base that produced it.
 
-Our credit architecture is engineered specifically for this mode of operation. ## Why HNWI and UHNW Entrepreneurs Require Different Monetization Architecture Rules Conventional Strategic Collateralization systems treat borrowers homogeneously.
+Our credit architecture is engineered specifically for this mode of operation. 
+
+## Why HNWI and UHNW Entrepreneurs Require Different Monetization Architecture Rules Conventional Strategic Collateralization systems treat borrowers homogeneously.
 
 High‑net‑worth individuals are not homogeneous.
 
@@ -69,22 +69,18 @@ Their risk profiles differ.
 Their priorities are structural, not transactional.
 
 HNWI and UHNW clients require: 
-
 -  Uninterrupted ownership 
-
 -  Balance‑sheet stability 
-
 -  Rapid execution 
-
 -  Silent structuring 
-
 -  Institutional pricing 
-
 -  Clear capital pathways ROIALS CAPITAL provides this by setting the rules rather than negotiating around them.
 
 Architects do not negotiate gravity.
 
-They build within it. ## Liquidity Without Visibility Visibility is a cost.
+They build within it. 
+
+## Liquidity Without Visibility Visibility is a cost.
 
 High‑net‑worth entrepreneurs understand this intuitively.
 
@@ -98,7 +94,9 @@ Private credit, Asset-Based Lending systems, crypto Capital Structuring, and pub
 
 The client moves.
 
-The market does not notice. ## Institutional Precision Without Institutional Bureaucracy HNWI and UHNW clients require the accuracy of an institution without inheriting the institutional drag.
+The market does not notice. 
+
+## Institutional Precision Without Institutional Bureaucracy HNWI and UHNW clients require the accuracy of an institution without inheriting the institutional drag.
 
 ROIALS CAPITAL builds that middle ground.
 
@@ -106,7 +104,9 @@ We apply institutional frameworks to underwriting, risk, legal, and collateraliz
 
 We remove institutional friction from communication, execution timelines, and multi‑layer decision bottlenecks.
 
-The result is a high‑trust, low‑visibility credit environment that functions with technical discipline and strategic silence. ## When Credit Becomes Strategy Credit is most powerful when it stops behaving like debt and starts behaving like architecture.
+The result is a high‑trust, low‑visibility credit environment that functions with technical discipline and strategic silence. 
+
+## When Credit Becomes Strategy Credit is most powerful when it stops behaving like debt and starts behaving like architecture.
 
 This is the model we construct for ROIALS CAPITAL clients.
 
@@ -116,7 +116,9 @@ A structural extension of intent.
 
 A competitive instrument.
 
-A force multiplier for entrepreneurs who already operate at a rare level of sophistication. ## The ROIALS CAPITAL Mandate We are not a retail lender.
+A force multiplier for entrepreneurs who already operate at a rare level of sophistication. 
+
+## The ROIALS CAPITAL Mandate We are not a retail lender.
 
 We are not a traditional credit institution.
 
@@ -126,12 +128,18 @@ Our mandate is quiet.
 
 Our work is precise.
 
-Our results are structural. ## For Entrepreneurs Who Operate Above the Noise If your assets exceed the thresholds that define institutional class capital.
+Our results are structural. 
+
+## For Entrepreneurs Who Operate Above the Noise If your assets exceed the thresholds that define institutional class capital.
 
 If your liquidity needs require structure rather than negotiation.
 
 If you understand that credit is not a product, but a form of design.
 
-ROIALS CAPITAL will provide the architecture. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+ROIALS CAPITAL will provide the architecture. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

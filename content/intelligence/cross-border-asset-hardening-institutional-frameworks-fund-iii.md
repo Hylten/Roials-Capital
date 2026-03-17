@@ -31,7 +31,6 @@ I build this under a clear axiom: volatility is not the threat.
 Volatility is the audit.
 
 Institutions either withstand or fail. 
-
 -  **Proverbs 13:22** delivers the structural principle: a good man leaves an inheritance to his children’s children.
 
 Long-horizon stewardship is not sentiment.
@@ -85,7 +84,6 @@ Traditional hedging strategies collapse when liquidity evaporates.
 Hardening refocuses assets around structural resilience: .
 
 Tangible cash-flow engines across FEED-to-EPC energy corridors. 
-
 -  Productive mid-market platforms with bolt-on velocity. .
 
 Brownfield industrials with embedded switching costs. .
@@ -352,6 +350,10 @@ No metaphors.
 
 Request a confidential capital audit.
 
-Technical mandate: cross-border hardening coefficient threshold = 0.82 minimum. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+Technical mandate: cross-border hardening coefficient threshold = 0.82 minimum. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

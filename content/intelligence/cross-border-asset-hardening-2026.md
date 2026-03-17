@@ -63,21 +63,15 @@ The following components form the framework.
 Capital is structured so that enforcement rights, collateral claims, and cash-flow controls exist across more than one legal regime.
 
 For example: 
-
 -  Canadian subsurface rights supported by EU holding structures 
-
 -  UCC-1 or PPSA filings complemented by Swiss intercreditor governance 
-
 -  Operational assets in Alberta, strategic oversight in Stockholm, treasury architectures in Dubai and Zurich This redundancy transforms a local asset into an international institutional asset. 
 
 2. Collateral Physicality Institutional allocators increasingly require that collateral have measurable physical properties.
 
 Energy assets provide this due to verified reservoir engineering, deterministic decline curves, and quantifiable in-situ value. 
-
 -  In SAGD configurations, steam-assisted gravity drainage creates a predictable mobilization gradient that can be measured through steam-to-oil ratio stability. 
-
 -  In CSS cycles, cyclic steam stimulation generates recoverable barrels with defined operational variance. 
-
 -  Reservoir simulation and core sample analysis reduce geological ambiguity.
 
 The physical characteristics of Alberta bitumen formation tend to deliver higher predictability than many financial assets with purely market-driven volatility. 
@@ -85,25 +79,17 @@ The physical characteristics of Alberta bitumen formation tend to deliver higher
 3. Monetization Architecture In cross-border environments, liquidity must be manufactured, not assumed.
 
 Institutional Liquidity Paths consists of: 
-
 -  Asset-Based Lending constructs 
-
 -  Cross-collateralized credit tranches 
-
 -  Multi-currency cash management 
-
 -  Securitized cash flows based on operational milestones These mechanisms ensure that the allocator can extract liquidity during market stress without impairing the asset’s operational integrity. 
 
 4. Balance Sheet Optimization Balance sheet optimization converts operational volatility into strategic stability.
 
 Key levers include: 
-
 -  Priority liens on high-certainty reserves 
-
 -  Asset-level covenants to prevent over-leverage 
-
 -  Staggered maturity profiles to mitigate refinancing risk 
-
 -  Waterfall structures enforcing seniority for institutional participants This is not financial engineering for cosmetic enhancement.
 
 It is structural engineering for institutional durability. 
@@ -111,15 +97,10 @@ It is structural engineering for institutional durability.
 5. Operational Intelligence To harden an asset, the allocator must have transparent access to operational intelligence.
 
 This includes: 
-
 -  Thermal efficiency data in SAGD wells 
-
 -  Production cadence stability 
-
 -  Water handling metrics 
-
 -  Decline curve recalibrations based on real-time pressures 
-
 -  Field development sequencing to optimize capex velocity These datapoints convert technical operations into enforceable institutional knowledge.
 
 Within this framework, NAEO operates as a strategic partner that brings field-level discipline, predictable operational cadence, and multi-decade familiarity with Alberta’s regulatory environment.
@@ -158,7 +139,9 @@ They benefit from Roials Capital’s ability to introduce stable counterparties 
 
 Through this model, Roials Capital is not acting as a promoter but as a strategic translator between capital and operational realities.
 
-The objective is clarity, not solicitation. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is a capital discipline anchored in non wasteful resource management.
+The objective is clarity, not solicitation. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is a capital discipline anchored in non wasteful resource management.
 
 It is a theology of capital, not a marketing principle.
 
@@ -178,7 +161,9 @@ The objective is sustainability, not depletion.
 
 NAEO exemplifies this alignment in the Alberta energy corridor through its field discipline, regulatory respect, and engineering precision.
 
-This stewardship filter is essential for allocators seeking to build multi-decade cross-border durability. ## ## ## ## DECISION MAKING LENS FOR THE ALLOCATOR The allocator must now operate with an institutional lens grounded in three questions: 
+This stewardship filter is essential for allocators seeking to build multi-decade cross-border durability. ## ## ## 
+
+## DECISION MAKING LENS FOR THE ALLOCATOR The allocator must now operate with an institutional lens grounded in three questions: 
 
 1. Does the asset exhibit physical or structural qualities that retain value through multiple volatility cycles? 
 
@@ -192,6 +177,10 @@ This transition is the foundation for cross-border asset hardening and represent
 
 Roials Capital provides confidential strategy audits and portfolio calibration frameworks for allocators seeking to navigate this landscape with precision.
 
-The objective is alignment, clarity, and long horizon structural advantage. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+The objective is alignment, clarity, and long horizon structural advantage. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

@@ -91,13 +91,9 @@ Stability is purchased through discipline rather than discount.
 In 2026, asset hardening operates as a principal protective measure.
 
 Collateral packages increasingly integrate: 
-
 -  multi asset cross collateralisation 
-
 -  covenant based performance triggers 
-
 -  real time reporting protocols 
-
 -  step in operational rights Asset hardening does not indicate distress.
 
 It reflects institutional preference for operational transparency over market volatility exposure. 
@@ -153,30 +149,26 @@ The focus is institutional cohesion, not speed.
 2. Asset based lending and liquidity engineering.
 
 For operating companies and PE backed platforms, liquidity engineering now serves as the stabilising core that enables: 
-
 -  acquisition reliability 
-
 -  covenant compliance 
-
 -  optionality for operational resets 
-
 -  acceleration of strategic add ons Roials Capital analyses collateral integrity, operational variability, and working capital elasticity to identify lenders whose structural preferences align with the company profile. 
 
 3. Special mandates.
 
 Two verticals define the current mandate stream: 
-
 -  North American Energy Operations Corporation (NAEOC), focusing on institutional Alberta energy acquisitions in the 50M to 250M range.
 
 The alignment with NAEO provides allocators access to operational environments where physics, rather than market cycles, determine predictability. 
-
 -  EU MiFID II compliant acquisition frameworks requiring jurisdictional coherence, regulatory harmonisation, and controlled counterparty exposure.
 
 The partnership model functions without solicitation language.
 
 It is technical architecture design.
 
-Allocators engage because structural clarity reduces execution friction. ## ## ## ## ## THE STEWARDSHIP FILTER AND THE THEOLOGY OF CAPITAL Stewardship in institutional credit is not moral abstraction.
+Allocators engage because structural clarity reduces execution friction. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER AND THE THEOLOGY OF CAPITAL Stewardship in institutional credit is not moral abstraction.
 
 It is resource governance.
 
@@ -212,7 +204,11 @@ Private credit is uniquely suited to this discipline because cash flow predictab
 
 Stewardship strengthens institutional continuity.
 
-It aligns capital with durable systems rather than transient narratives. ## ## THE ## ## DECISION MAKING LENS FOR THE 2026 ALLOCATOR Allocators navigating the 2026 private credit regime must adopt a synthetical evaluation framework.
+It aligns capital with durable systems rather than transient narratives. ## 
+
+## THE ## 
+
+## DECISION MAKING LENS FOR THE 2026 ALLOCATOR Allocators navigating the 2026 private credit regime must adopt a synthetical evaluation framework.
 
 The decision is not yield based.
 
@@ -253,3 +249,5 @@ The objective is portfolio calibration under a unified institutional framework.
 A confidential strategy audit provides the allocator with a non promotional, technical mapping of capital pathways aligned to the current regime.
 
 It ensures that all decisions operate within the principles of stewardship, capital discipline, and structural coherence. [END OF INSTITUTIONAL BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

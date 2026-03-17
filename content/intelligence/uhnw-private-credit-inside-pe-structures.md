@@ -113,3 +113,5 @@ UHNW capital understands authority.
 It moves accordingly.
 
 Request confidential capital audit.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

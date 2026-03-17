@@ -18,7 +18,9 @@ The focus is not on product selection.
 
 The objective is to provide institutional level clarity on the mechanisms, filters, and partnership structures that govern modern capital formation, private buyout credit, and energy aligned deployment.
 
-The analysis is clinically centered on three domains that dominate current allocator attention: Kapitalanskaffning for Buyout and Add on execution, Liquidity Engineering through ABL and hybrid security structures, and Special Mandates that connect North American energy opportunities with European MiFID II compliant family capital. ## PHASE 
+The analysis is clinically centered on three domains that dominate current allocator attention: Kapitalanskaffning for Buyout and Add on execution, Liquidity Engineering through ABL and hybrid security structures, and Special Mandates that connect North American energy opportunities with European MiFID II compliant family capital. 
+
+## PHASE 
 
 1. ## ## ## ## 
 
@@ -46,7 +48,9 @@ The gap is not in bank risk appetite but in the mismatch between regulatory capi
 
 This created an environment where strategic private credit has become a core governance feature inside UHNW holding companies.
 
-The convergence of energy supply tightness, reduced public market capital access, and a global shift toward bilateral lending has elevated the relevance of specialized credit partners who can operate across jurisdictions, asset classes, and industrial cycles. ## PHASE 
+The convergence of energy supply tightness, reduced public market capital access, and a global shift toward bilateral lending has elevated the relevance of specialized credit partners who can operate across jurisdictions, asset classes, and industrial cycles. 
+
+## PHASE 
 
 2. ## ## ## ## 
 
@@ -98,7 +102,9 @@ Roials Capital’s strategic partner, North American Energy Opportunities (NAEO)
 
 Their discipline is not based on speculative drilling.
 
-It is based on engineered recovery, fluid mobility management, thermal efficiency, and multi year field development frameworks that align with institutional underwriting criteria. ## PHASE 
+It is based on engineered recovery, fluid mobility management, thermal efficiency, and multi year field development frameworks that align with institutional underwriting criteria. 
+
+## PHASE 
 
 3. THE PARTNERSHIP MODEL.
 
@@ -140,9 +146,13 @@ These mandates require multidomain intelligence: regulatory coordination, asset 
 
 The objective is alignment, not marketing.
 
-The role is to introduce, structure, and verify. ## PHASE 
+The role is to introduce, structure, and verify. 
 
-4. ## ## THE STEWARDSHIP FILTER .
+## PHASE 
+
+4. ## 
+
+## THE STEWARDSHIP FILTER .
 
 THEOLOGY OF CAPITAL Stewardship is not a rhetorical device.
 
@@ -180,9 +190,13 @@ The challenge is speed without recklessness.
 
 Stewardship calibrates this.
 
-The goal is disciplined velocity. ## PHASE 
+The goal is disciplined velocity. 
 
-5. ## ## DECISION MAKING LENS FOR ALLOCATORS Allocators in 2026 are navigating an environment defined by scarcity of high quality credits, geopolitical fragmentation, and a growing separation between productive and non productive capital.
+## PHASE 
+
+5. ## 
+
+## DECISION MAKING LENS FOR ALLOCATORS Allocators in 2026 are navigating an environment defined by scarcity of high quality credits, geopolitical fragmentation, and a growing separation between productive and non productive capital.
 
 The strategic decision making lens for UHNW entrepreneurs and institutional LPs can be framed through three criteria: Alignment.
 
@@ -225,3 +239,5 @@ They are structural assessments that align capital architecture with long term o
  is permanent.
 
 The operators who understand the mechanics of modern credit architecture will shape the next cycle of capital formation.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

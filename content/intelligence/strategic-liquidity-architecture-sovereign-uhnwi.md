@@ -18,7 +18,9 @@ The focus is not on promotion or yield language.
 
 The focus is structural.
 
-The objective is to provide the institutional reader with a framework for understanding market navigation, technical recovery mechanics, and the relevance of disciplined stewardship within sophisticated multi jurisdiction portfolios. ## PHASE 
+The objective is to provide the institutional reader with a framework for understanding market navigation, technical recovery mechanics, and the relevance of disciplined stewardship within sophisticated multi jurisdiction portfolios. 
+
+## PHASE 
 
 1. ## ## ## ## 
 
@@ -58,7 +60,9 @@ This divergence reduces the appetite of institutional lenders who must satisfy i
 
 The result is a vacuum.
 
-That vacuum is now being filled by mid market private operators who understand that engineering, not politics, determines the real productivity of a thermal reservoir. ## PHASE 
+That vacuum is now being filled by mid market private operators who understand that engineering, not politics, determines the real productivity of a thermal reservoir. 
+
+## PHASE 
 
 2. ## ## ## ## 
 
@@ -114,7 +118,9 @@ It is structured operational predictability.
 
 The combination of thermal heavy oil and mid-depth conventional zones creates a diversified production profile that behaves like a natural collateral base.
 
-It becomes ideal for private buyers who need commodity resilience but do not require speculative upside. ## PHASE 
+It becomes ideal for private buyers who need commodity resilience but do not require speculative upside. 
+
+## PHASE 
 
 3. THE PARTNERSHIP MODEL Roials Capital operates within this environment as a strategic navigator rather than as an owner or operator.
 
@@ -158,16 +164,19 @@ Each allocator operates under different reporting regimes, leverage constraints,
 
 Roials Capital supports this navigation by providing clarity on land tenure systems, abandonment liability rules, facility integrity standards, and forward curve implications for amortization schedules.
 
-The objective is to provide the allocator with a clear understanding of how these assets behave over time and how they integrate into a sophisticated liquidity architecture. ## PHASE 
+The objective is to provide the allocator with a clear understanding of how these assets behave over time and how they integrate into a sophisticated liquidity architecture. 
 
-4. ## ## THE STEWARDSHIP FILTER Strategic capital deployment in natural resources is not a simple function of rate of return.
+## PHASE 
+
+4. ## 
+
+## THE STEWARDSHIP FILTER Strategic capital deployment in natural resources is not a simple function of rate of return.
 
 It is a question of stewardship.
 
 Stewardship in this context refers to the disciplined management of non wasteful extraction, responsible reservoir development, and capital allocation principles that avoid speculative leverage.
 
 This principle has theological roots. 
-
 -  **Proverbs 13:22** establishes the obligation of intergenerational capital responsibility.
 
 Institutional allocators increasingly apply this lens in sectors where resource development intersects with long term societal obligations.
@@ -196,9 +205,13 @@ Strong stewardship reduces operational variance.
 
 Reduced variance increases credit confidence.
 
-Increased credit confidence raises opportunity velocity for subsequent acquisitions and infill development programs. ## PHASE 
+Increased credit confidence raises opportunity velocity for subsequent acquisitions and infill development programs. 
 
-5. A ## ## DECISION MAKING LENS FOR THE ALLOCATOR Sophisticated allocators in 2026 are navigating an environment where traditional public markets do not provide sufficient diversification, where private equity vintages are elongated, and where liquidity windows are asymmetrical.
+## PHASE 
+
+5. A ## 
+
+## DECISION MAKING LENS FOR THE ALLOCATOR Sophisticated allocators in 2026 are navigating an environment where traditional public markets do not provide sufficient diversification, where private equity vintages are elongated, and where liquidity windows are asymmetrical.
 
 Strategic Liquidity Architecture involves repositioning capital into structures that combine durability, operational transparency, and cross border optionality.
 
@@ -221,3 +234,5 @@ It is designed for allocators who require precision, durability, and operational
 The Alberta energy ecosystem rewards those who understand its technical reality and penalizes those who rely on models disconnected from field behavior.
 
 Roials Capital functions as a navigator across these domains, ensuring that the institutional allocator engages with the landscape through disciplined, compliant, and intelligence driven pathways. [END OF BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

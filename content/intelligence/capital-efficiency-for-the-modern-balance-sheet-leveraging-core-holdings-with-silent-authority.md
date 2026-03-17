@@ -20,7 +20,7 @@ ROIALS CAPITAL operates inside that space.
 
 The objective is simple.
 
-Extract liquidity from core holdings with institutional discipline, minimal disturbance, and silent authority.
+Extract liquidity from core holdings with institutional discipline, minimal disturbance, and principal authority.
 
 Private credit.
 
@@ -36,7 +36,9 @@ The architecture is what matters.
 
 This article maps the foundation of capital efficiency at the UHNW scale.
 
-It shows how core holdings become liquidity engines when paired with the correct Asset-Backed Frameworks architecture and precision underwriting. ## Toward a Structural Liquidity Ecosystem When private credit, Asset-Based Lending frameworks, crypto-backed facilities, and public share Capital Structuring are unified under a single architecture, the portfolio transitions into a new state.
+It shows how core holdings become liquidity engines when paired with the correct Asset-Backed Frameworks architecture and precision underwriting. 
+
+## Toward a Structural Liquidity Ecosystem When private credit, Asset-Based Lending frameworks, crypto-backed facilities, and public share Capital Structuring are unified under a single architecture, the portfolio transitions into a new state.
 
 It becomes a liquidity ecosystem.
 
@@ -50,21 +52,20 @@ This ecosystem is the future of UHNW capital behavior.
 
 Not built on leverage.
 
-Built on structural readiness and silent authority. ## Strategic Outcomes for HNWI and UHNW Clients A fully architected capital efficiency system generates measurable outcomes: 
+Built on structural readiness and principal authority. 
 
+## Strategic Outcomes for HNWI and UHNW Clients A fully architected capital efficiency system generates measurable outcomes: 
 -  Increased liquidity without dilution or disposal. 
-
 -  Preservation of yield and exposure across asset classes. 
-
 -  Faster deployment of capital into opportunities. 
-
 -  Increased defensive capability during volatility. 
-
 -  Discretion and stability across every liquidity event.
 
 These are the structural advantages previously reserved for institutional families.
 
-Through disciplined architecture, they become accessible at the UHNW scale. ## ROIALS CAPITAL: The Architecture Behind the Liquidity ROIALS CAPITAL provides the structural mechanics that transform core holdings into precision liquidity channels.
+Through disciplined architecture, they become accessible at the UHNW scale. 
+
+## ROIALS CAPITAL: The Architecture Behind the Liquidity ROIALS CAPITAL provides the structural mechanics that transform core holdings into precision liquidity channels.
 
 Private credit based facilities.
 
@@ -78,12 +79,18 @@ Each instrument is engineered, not marketed.
 
 Each facility is designed for durability.
 
-Each client interaction reinforces silent authority.
+Each client interaction reinforces principal authority.
 
 Capital efficiency is not a product.
 
 It is a framework.
 
-We build the framework. ## Soft CTA # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+We build the framework. 
+
+## Soft CTA # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

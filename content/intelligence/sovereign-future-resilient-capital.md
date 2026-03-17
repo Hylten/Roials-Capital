@@ -8,7 +8,7 @@ slug: "sovereign-future-resilient-capital"
 
 The capital vacuum in North America’s energy sector is a consequence of regulatory drift, not resource depletion.
 
-Allocators operating in 2026 are confronting a structural misalignment between where institutional capital concentrates and where the most predictable, physics anchored cash flows remain accessible.
+Allocators operating in 2026 are confronting a structural misalignment between where institutional capital concentrates and where the most predictable, physics anchored cash flows remain Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.
 
 This divergence is not cyclical.
 
@@ -128,7 +128,9 @@ They are targeted entries backed by geological determinism and reservoir predict
 
 In Europe, MiFID II aligned acquisition strategies require compliant structuring and tactical execution.
 
-Roials Capital supports by ensuring that institutional governance, counterparty quality, and regulatory alignment are maintained. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management.
+Roials Capital supports by ensuring that institutional governance, counterparty quality, and regulatory alignment are maintained. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management.
 
 It is a framework, not a slogan. **Proverbs 13:22** articulates that intergenerational capital requires governance aligned with enduring principles.
 
@@ -148,7 +150,9 @@ Operators that cannot articulate their operational levers rarely maintain long t
 
 It demands controlled velocity where every move is supported by technical understanding and measurable downside. 
 
-4. Jurisdictional Stability Stewardship prioritizes environments where legal clarity, regulatory transparency, and property rights are structurally protected. ## ## ## ## DECISION MAKING LENS FOR THE ALLOCATOR The sovereign future of capital will be defined by allocators who pursue resilience anchored in real asset intelligence and operational determinism.
+4. Jurisdictional Stability Stewardship prioritizes environments where legal clarity, regulatory transparency, and property rights are structurally protected. ## ## ## 
+
+## DECISION MAKING LENS FOR THE ALLOCATOR The sovereign future of capital will be defined by allocators who pursue resilience anchored in real asset intelligence and operational determinism.
 
 The rise of Fund-III platforms, cross border acquisition opportunities, and specialist energy strategies requires institutions to recalibrate their internal frameworks.
 
@@ -172,4 +176,4 @@ Allocators navigating this regime shift benefit from partners who operate withou
 
 The sovereign future of capital favors disciplined stewards, not momentum seekers.
 
-Roials Capital remains positioned as a strategic navigator for those requiring neutral operational intelligence and structured access to specialized opportunities.
+Roials Capital remains positioned as a strategic navigator for those requiring neutral operational intelligence and structured Access is restricted to approved mandates. Minimum mandate depth: $5M+ target size.

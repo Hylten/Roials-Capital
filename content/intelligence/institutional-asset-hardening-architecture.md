@@ -36,7 +36,9 @@ We treat capital as a sovereign asset.
 
 We harden the foundations before we scale the exposures.
 
-This briefing outlines the institutional framework required for Fund-III operators who intend to raise at velocity, execute at precision, and create liquidity on command. ## PHASE 
+This briefing outlines the institutional framework required for Fund-III operators who intend to raise at velocity, execute at precision, and create liquidity on command. 
+
+## PHASE 
 
 1. ## ## ## ## 
 
@@ -76,7 +78,9 @@ MiFID II and North American energy compliance require system level documentation
 
  is unforgiving.
 
-Capital follows the managers who build institutional machines, not the managers who improvise. ## PHASE 
+Capital follows the managers who build institutional machines, not the managers who improvise. 
+
+## PHASE 
 
 2. ## ## ## ## 
 
@@ -130,9 +134,13 @@ These mechanics are the minimum threshold for Fund-III level seriousness.
 
 Anything less signals amateurism.
 
-Capital sees amateurism immediately. ## PHASE 
+Capital sees amateurism immediately. 
 
-3. ## ## ## THE ## 
+## PHASE 
+
+3. ## ## 
+
+## THE ## 
 
 ## STRATEGIC MODEL
 
@@ -202,9 +210,13 @@ The ##
 
  is designed to create durability under institutional load.
 
-Nothing else matters. ## PHASE 
+Nothing else matters. 
 
-4. ## ## THE STEWARDSHIP FILTER Capital is never neutral.
+## PHASE 
+
+4. ## 
+
+## THE STEWARDSHIP FILTER Capital is never neutral.
 
 It demands stewardship.
 
@@ -246,7 +258,9 @@ Stewardship is the filter that keeps a GP aligned with institutional capital rat
 
 The LP community senses this immediately.
 
-Capital flows where stewardship is provable. ## PHASE 
+Capital flows where stewardship is provable. 
+
+## PHASE 
 
 5. EXIT We close with one controlling metric.
 
@@ -254,8 +268,12 @@ Hardened infrastructure lowers loss severity by 32 to 47 percent across mid mark
 
 LPs recognize this.
 
-They act on it. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+They act on it. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

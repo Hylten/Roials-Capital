@@ -223,7 +223,6 @@ Fourth pillar.
 Add-on acquisition cycles.
 
 Buyout velocity slowed in 2024 
-
 -  
 
 2025. But add-ons accelerated.
@@ -708,10 +707,14 @@ Jurisdictional intelligence.
 
 Fund-III sits at the center.
 
-The next phase requires capital alignment. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+The next phase requires capital alignment. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.
 
 Weighted liquidity modulus: 0.87.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

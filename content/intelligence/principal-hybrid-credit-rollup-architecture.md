@@ -125,3 +125,5 @@ Structure protects.
 Principals capture.
 
 Confidential capital audit ready on request.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

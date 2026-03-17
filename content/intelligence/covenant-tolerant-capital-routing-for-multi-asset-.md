@@ -271,3 +271,5 @@ The routing framework provides the motion.
 Together they produce structural precision at institutional scale.
 
 Request confidential audit
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

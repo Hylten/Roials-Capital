@@ -57,13 +57,9 @@ Core mechanics inside the Roials Capital Framework include:
 1. Asset Hardening Procedures Hardening is the process of translating operating assets into collateral units that can be measured, verified, and standardized.
 
 This typically includes: 
-
 -  Inventory conversion ratios 
-
 -  Machinery residual value indexing 
-
 -  Receivables aging stratification 
-
 -  Contracted revenue segmentation Hardening does not increase leverage.
 
 It increases measurement fidelity. 
@@ -73,11 +69,8 @@ It increases measurement fidelity.
 The geometry defines how liquidity interacts with senior, mezzanine, and equity layers.
 
 A Institutional Liquidity Paths agreement is structured to: 
-
 -  Sit in a senior or super senior position 
-
 -  Maintain predictable coverage ratios 
-
 -  Avoid any structural entanglement with enterprise value underwriting The objective is not risk dilution.
 
 The objective is risk containment. 
@@ -95,13 +88,9 @@ The waterfall is not punitive.
 It is a sequencing device.
 
 Common waterfall tiers include: 
-
 -  Tier 1: Core operations 
-
 -  Tier 2: Liquidity agreement servicing 
-
 -  Tier 3: Supplier stabilization 
-
 -  Tier 4: Expansion optionality This design eliminates ambiguity and improves institutional comfort. 
 
 5. Liquidity Corridor Calibration The corridor defines the allowable range of liquidity provided to the borrower.
@@ -150,7 +139,9 @@ The Roials Capital position is intentionally neutral.
 
 The firm is not an issuer and does not provide investment advice.
 
-It is a technical partner that maps operational truth to institutional capital frameworks. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is not a moral abstraction.
+It is a technical partner that maps operational truth to institutional capital frameworks. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is not a moral abstraction.
 
 It is a capital discipline defined by precision, non wasteful allocation, and long duration orientation.
 
@@ -172,7 +163,9 @@ Clarity is the stabilizer.
 
 Stewardship is the filter through which all agreements pass.
 
-It protects the allocator, the operator, and the institutional partners who deploy capital. ## ## ## ## DECISION MAKING LENS FOR THE ALLOCATOR Institutional allocators evaluate private credit exposures through five primary lenses: 
+It protects the allocator, the operator, and the institutional partners who deploy capital. ## ## ## 
+
+## DECISION MAKING LENS FOR THE ALLOCATOR Institutional allocators evaluate private credit exposures through five primary lenses: 
 
 1. Collateral integrity Does the collateral behave predictably through cycles. 
 
@@ -194,6 +187,10 @@ The objective is structural translation.
 
 When alignment exists, the next step is typically a Confidential Strategy Audit.
 
-This review allows LPs, GPs, and operators to evaluate whether a Monetization Architecture Agreement fits their balance sheet architecture and operational cadence. [END OF BRIEFING] # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+This review allows LPs, GPs, and operators to evaluate whether a Monetization Architecture Agreement fits their balance sheet architecture and operational cadence. [END OF BRIEFING] # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

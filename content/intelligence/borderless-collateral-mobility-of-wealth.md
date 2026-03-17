@@ -27,7 +27,6 @@ Wealth must move.
 Wealth must evade friction.
 
 Wealth must compound without state‑imposed drag coefficients. 
-
 -  **Proverbs 13:22** : a good person leaves an inheritance to their children’s children, yet the wealth of the sinner is stored for the righteous.
 
 In institutional terms, this is a doctrine of intergenerational capital architecture.
@@ -392,6 +391,10 @@ Scale.
 
 To proceed, request a confidential capital audit.
 
-Throughput expectation: 14.7 bps structural drift tolerance. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+Throughput expectation: 14.7 bps structural drift tolerance. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

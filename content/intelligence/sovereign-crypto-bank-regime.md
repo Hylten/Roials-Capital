@@ -144,7 +144,9 @@ It builds corridors and lets capital flow through them.
 
 This model positions Fund-III not as a fund.
 
-It becomes a sovereign-style balance sheet built on private discipline. # ## ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship defines the boundary between velocity and waste.
+It becomes a sovereign-style balance sheet built on private discipline. # ## ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship defines the boundary between velocity and waste.
 
 A sovereign crypto bank uses discipline because undisciplined issuance destroys national trust.
 
@@ -186,10 +188,16 @@ A steward multiplies.
 
 A steward rejects friction.
 
-When Fund-III integrates the sovereign crypto bank architecture with a stewardship doctrine, it becomes a fortress in a financial world defined by instability. # ## ## ## EXIT The institutional mandate is simple.
+When Fund-III integrates the sovereign crypto bank architecture with a stewardship doctrine, it becomes a fortress in a financial world defined by instability. # ## ## 
+
+## EXIT The institutional mandate is simple.
 
 Reduce liquidity latency to sub 180 seconds across the entire acquisition cycle.
 
-Request a confidential capital audit. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+Request a confidential capital audit. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

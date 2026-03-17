@@ -34,7 +34,9 @@ We operate inside the flow of transactions, not on the commentary layer.
 
 The regime that governed the past twelve years is finished.
 
-The next regime rewards precision, adaptability, and institutional architecture. ## PHASE 
+The next regime rewards precision, adaptability, and institutional architecture. 
+
+## PHASE 
 
 1. ## ## ## ## 
 
@@ -76,7 +78,9 @@ Capital allocators used to dictate terms.
 
 Now operators of efficient credit platforms dictate them.
 
-That shift is irreversible. ## PHASE 
+That shift is irreversible. 
+
+## PHASE 
 
 2. ## ## ## ## 
 
@@ -152,9 +156,13 @@ Technical discipline is the difference between survival and dominance.
 
 The market rewards those who build internal execution engines with less than 4 to 6 week credit cycle times.
 
-Anything slower is obsolete. ## PHASE 
+Anything slower is obsolete. 
 
-3. ## ## ## THE ## 
+## PHASE 
+
+3. ## ## 
+
+## THE ## 
 
 ## STRATEGIC MODEL
 
@@ -214,9 +222,13 @@ Execution certainty.
 
 They allocate to systems, not personalities.
 
-Fund-III must operate like an institutional machine. ## PHASE 
+Fund-III must operate like an institutional machine. 
 
-4. ## ## THE STEWARDSHIP FILTER The resources we manage are not arbitrary.
+## PHASE 
+
+4. ## 
+
+## THE STEWARDSHIP FILTER The resources we manage are not arbitrary.
 
 They carry responsibility.
 
@@ -260,7 +272,9 @@ The market rewards efficiency with scaled allocations.
 
 Growth follows clean mechanics.
 
-Never the opposite. ## PHASE 
+Never the opposite. 
+
+## PHASE 
 
 5. EXIT The exit layer is not optional.
 
@@ -276,8 +290,12 @@ The final metric: recovery predictability above 78 percent portfolio wide.
 
 Set the benchmark.
 
-Then surpass it. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+Then surpass it. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

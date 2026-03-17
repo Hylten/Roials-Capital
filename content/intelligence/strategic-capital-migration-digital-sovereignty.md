@@ -63,11 +63,8 @@ I design the migration paths.
 I structure the sovereign corridors.
 
 Digital sovereignty establishes three core conditions for institutional allocators: 
-
 -  Data retention autonomy 
-
 -  Jurisdictional legal primacy 
-
 -  Infrastructure-level governance control These conditions now price deals.
 
 They shape diligence.
@@ -151,15 +148,10 @@ They want structures that survive regulatory dislocation.
 Fund‑III requires a sovereign‑first capital architecture.
 
 That architecture must operate on five mandatory vectors: 
-
 -  Regulatory arbitrage without political risk 
-
 -  Data-rights control without vendor dependency 
-
 -  Cross-border enforceability without treaty fragility 
-
 -  Funding velocity without correspondent choke points 
-
 -  Asset hardening without operational drag Jurisdictions are diverging on all five vectors.
 
 The divergence creates mispricing.
@@ -440,8 +432,12 @@ Migrate.
 
 Anchor.
 
-Mandate: 4.82 cross-jurisdictional enforcement delta. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+Mandate: 4.82 cross-jurisdictional enforcement delta. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

@@ -95,3 +95,5 @@ The mid‑market recognizes competence when it sees it.
 Fund‑III rewards those who act before they are forced.
 
 Request confidential capital audit.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

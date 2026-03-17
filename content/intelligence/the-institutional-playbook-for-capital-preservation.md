@@ -30,11 +30,13 @@ We create liquidity against assets that others ignore.
 
 We structure credit where traditional systems hesitate.
 
-We remain silent authority, not surface‑level noise.
+We remain principal authority, not surface‑level noise.
 
 Below is a complete institutional framework.
 
-A blueprint for capital preservation at scale. ## Engineered Stability: The Future of Preservation Architecture The capital landscape is evolving.
+A blueprint for capital preservation at scale. 
+
+## Engineered Stability: The Future of Preservation Architecture The capital landscape is evolving.
 
 Regulation intensifies.
 
@@ -84,6 +86,10 @@ Precise.
 
 Institutional.
 
-Request confidential audit # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+Request confidential audit # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

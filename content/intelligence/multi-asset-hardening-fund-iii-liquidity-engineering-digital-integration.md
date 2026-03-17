@@ -166,7 +166,9 @@ The role is technical guidance, institutional ##
 
  , and structural alignment.
 
-Our strategic partner NAEO functions as the institutional anchor within the Alberta energy landscape, providing the heavy asset backbone that complements the liquid digital layer. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship in capital architecture is not an ethical accessory.
+Our strategic partner NAEO functions as the institutional anchor within the Alberta energy landscape, providing the heavy asset backbone that complements the liquid digital layer. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship in capital architecture is not an ethical accessory.
 
 It is a structural requirement.
 
@@ -188,7 +190,9 @@ Stewardship consists of four operational elements.
 
 4. Clarity Each asset must maintain transparent risk classification and auditability.
 
-Digital assets meet these criteria when placed under disciplined governance and integrated properly into real asset ecosystems. ## ## ## ## DECISION MAKING LENS FOR ALLOCATORS Institutional allocators evaluating Fund-III are not assessing exposure to digital assets.
+Digital assets meet these criteria when placed under disciplined governance and integrated properly into real asset ecosystems. ## ## ## 
+
+## DECISION MAKING LENS FOR ALLOCATORS Institutional allocators evaluating Fund-III are not assessing exposure to digital assets.
 
 They are assessing the architecture in which digital liquidity interacts with real assets, seniority structures, and acquisition velocity.
 
@@ -206,6 +210,10 @@ The framework functions as follows.
 
 This architecture positions Fund-III for accelerated close cycles, higher operational flexibility, and a structurally hardened balance sheet.
 
-The appropriate next step for allocators evaluating this landscape is a confidential Strategy Audit or Portfolio Calibration, where capital architecture can be mapped against regulatory constraints, liquidity targets, and long horizon objectives. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+The appropriate next step for allocators evaluating this landscape is a confidential Strategy Audit or Portfolio Calibration, where capital architecture can be mapped against regulatory constraints, liquidity targets, and long horizon objectives. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

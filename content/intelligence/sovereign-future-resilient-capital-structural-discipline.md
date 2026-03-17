@@ -116,7 +116,9 @@ For European acquisitions under MiFID II, we serve as introducers and analysts, 
 
 Roials Capital's role is to translate complex operational domains into clear institutional decision paths.
 
-The partnership model is structured around neutrality, alignment, and technical clarity rather than product distribution. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management.
+The partnership model is structured around neutrality, alignment, and technical clarity rather than product distribution. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management.
 
 It is an operational principle rooted in strategic responsibility rather than moral abstraction.
 
@@ -146,7 +148,9 @@ Thermal viscosity reduction confirms production.
 
 Capital formation and operational deployment must reflect both economic rationality and disciplined governance.
 
-This filter strengthens the allocator’s capacity to build resilient capital ecosystems. ## ## ## ## DECISION MAKING LENS FOR ALLOCATORS The Sovereign Future requires a new decision lens built on structural, operational, and jurisdictional clarity.
+This filter strengthens the allocator’s capacity to build resilient capital ecosystems. ## ## ## 
+
+## DECISION MAKING LENS FOR ALLOCATORS The Sovereign Future requires a new decision lens built on structural, operational, and jurisdictional clarity.
 
 Allocators face a landscape defined by scarcity, regulatory fragmentation, and the primacy of real assets.
 
@@ -163,3 +167,5 @@ Within this environment, four decision coordinates provide directional stability
 Roials Capital provides confidential strategy audits and portfolio calibration mapping for institutional allocators requiring clarity on energy integration, buyout capital formation, private credit exposure, and regulatory cross border alignment.
 
 The objective is strategic navigation, not product distribution. [END OF BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

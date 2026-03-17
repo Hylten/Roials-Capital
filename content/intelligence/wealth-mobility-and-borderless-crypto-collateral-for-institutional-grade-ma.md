@@ -22,7 +22,9 @@ Which makes it one of the most powerful mobility instruments in modern wealth de
 
 ROIALS CAPITAL operates within the zone where private credit mechanics, Asset-Based Lending logic, and crypto collateral interact without friction.
 
-This article defines that zone, frames the architecture, and establishes the rules for how borderless collateral transitions into traditional M&A firepower. ## The Convergence of Crypto Capital and M&A Strategy The global M&A environment is shifting.
+This article defines that zone, frames the architecture, and establishes the rules for how borderless collateral transitions into traditional M&A firepower. 
+
+## The Convergence of Crypto Capital and M&A Strategy The global M&A environment is shifting.
 
 Sellers are increasingly flexible.
 
@@ -46,7 +48,9 @@ It is hybrid.
 
 It is engineered.
 
-It is borderless in collateral and anchored in structure. ## The ROIALS CAPITAL Framework for Execution Our approach is concise: 
+It is borderless in collateral and anchored in structure. 
+
+## The ROIALS CAPITAL Framework for Execution Our approach is concise: 
 
 1. Validate digital or public share collateral. 
 
@@ -64,7 +68,9 @@ No public footprint.
 
 No retail posture.
 
-This is the architecture used by principals who require results, not explanations. ## Wealth Mobility Is Now an Institutional Discipline Mobility is the final form of wealth maturity.
+This is the architecture used by principals who require results, not explanations. 
+
+## Wealth Mobility Is Now an Institutional Discipline Mobility is the final form of wealth maturity.
 
 Assets that can move across borders, jurisdictions, and deal cycles without displacement are assets operating at their highest efficiency.
 
@@ -84,6 +90,10 @@ Quietly.
 
 Precisely.
 
-Institutionally. # Request confidential audit # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+Institutionally. # Request confidential audit # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

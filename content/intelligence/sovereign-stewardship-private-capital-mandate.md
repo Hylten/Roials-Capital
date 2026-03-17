@@ -59,11 +59,8 @@ Velocity matters.
 Structure matters more.
 
 Capital is choosing its new home. 
-
 -  
-
 -  
-
 -  Institutional capital now operates under three pressures: yield scarcity, energy realism, and regulatory divergence.
 
 These pressures do not merely influence portfolio construction; they dictate it.
@@ -119,11 +116,8 @@ Sharp turns.
 Markets move.
 
 We move faster. 
-
 -  
-
 -  
-
 -  Sovereign LPs are adjusting to a geopolitical reality that demands asset sovereignty.
 
 Energy exposure once treated as cyclical is now structural.
@@ -175,11 +169,8 @@ No drift.
 No excuses.
 
 No wasted quarters. 
-
 -  
-
 -  
-
 -  Jurisdictional arbitrage is now a requirement, not an advanced skill.
 
 Europe tightens.
@@ -219,11 +210,8 @@ Sovereign LPs understand the compound effect of jurisdictional positioning.
 Capital becomes the interpreter of regulatory terrain.
 
 Fund-III provides the translation layer. 
-
 -  
-
 -  
-
 -  Capital Structuring must now be institutional.
 
 Not reactive.
@@ -267,21 +255,15 @@ Build.
 Secure.
 
 Expand. 
-
 -  
-
 -  
-
 -  The capital-raising mandate-kapitalanskaffning-must anchor the ecosystem.
 
 Fund-III targets institutional LPs requiring clarity, discipline, and sovereign alignment.
 
 The capital stack is governed by three principles: 
-
 -  Durability over speed. 
-
 -  Precision over mass. 
-
 -  Stewardship over speculation.
 
 Institutional LPs demand evidence.
@@ -295,11 +277,8 @@ LPs are no longer seeking exposure; they are seeking conviction.
 Conviction flows to structure.
 
 Structure flows to returns. 
-
 -  
-
 -  
-
 -  Capital competition has intensified.
 
 The winners will not be those who shout loudest.
@@ -339,11 +318,8 @@ Identify.
 Acquire.
 
 Fortify. 
-
 -  
-
 -  
-
 -  Sovereign stewardship demands a new principle: asset hardening.
 
 The world is fragmenting.
@@ -383,11 +359,8 @@ Hard assets return capital.
 Private capital must flow to what endures.
 
 Sovereign capital must flow to what secures. 
-
 -  
-
 -  
-
 -  Fund-III is architected for a world where the most valuable asset is not capital itself, but capital with governance.
 
 Stewardship with authority.
@@ -416,6 +389,10 @@ Structure through disciplined capital.
 
 For institutional LP/GP partners prepared to anchor into this mandate, initiate a confidential capital audit to determine alignment bandwidth, deployment windows, and cross‑jurisdictional positioning.
 
-Technical mandate: 42% target hard‑asset coverage ratio. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+Technical mandate: 42% target hard‑asset coverage ratio. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

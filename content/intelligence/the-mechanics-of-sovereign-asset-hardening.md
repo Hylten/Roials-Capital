@@ -26,7 +26,9 @@ We provide private credit and asset based Capital Structuring structures that tr
 
 Not a dependency.
 
-Sovereign asset hardening is the architecture behind that control. ## Why Liquidity Infrastructure Determines Sovereignty True sovereignty for HNWI and UHNW individuals does not come from the asset base.
+Sovereign asset hardening is the architecture behind that control. 
+
+## Why Liquidity Infrastructure Determines Sovereignty True sovereignty for HNWI and UHNW individuals does not come from the asset base.
 
 It comes from the liquidity infrastructure that surrounds it.
 
@@ -46,11 +48,13 @@ It requires institutional rules, not improvisation.
 
 ROIALS CAPITAL operates as the architect of these institutional rules.
 
-Silent authority.
+principal authority.
 
 Structural clarity.
 
-Capital engineered rather than managed. ## The Institutional Framework Behind Hardening At scale, sovereign hardening depends on five pillars. # ## 
+Capital engineered rather than managed. 
+
+## The Institutional Framework Behind Hardening At scale, sovereign hardening depends on five pillars. # ## 
 
 1. Precision Valuation Collateral must be understood at institutional depth.
 
@@ -86,7 +90,9 @@ Clean.
 
 Repeatable.
 
-Controlled. ## Hardening as a Long‑Horizon Strategy Sovereign hardening has a long half‑life.
+Controlled. 
+
+## Hardening as a Long‑Horizon Strategy Sovereign hardening has a long half‑life.
 
 It is not a short‑term optimization tactic.
 
@@ -104,7 +110,9 @@ This is the essence of sovereign choice. # ##
 
 One asset class reinforces another.
 
-The system behaves as a unified organism rather than isolated components. ## The ROIALS CAPITAL Position We are not a retail lender.
+The system behaves as a unified organism rather than isolated components. 
+
+## The ROIALS CAPITAL Position We are not a retail lender.
 
 We are not a generalized financial services firm.
 
@@ -124,6 +132,12 @@ The principal remains in control.
 
 The capital remains in motion.
 
-The architecture remains invisible. ## Request Confidential Audit For clients requiring structural liquidity without exposure, disruption, or signaling, ROIALS CAPITAL provides the institutional mechanics. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+The architecture remains invisible. 
+
+## Request Confidential Audit For clients requiring structural liquidity without exposure, disruption, or signaling, ROIALS CAPITAL provides the institutional mechanics. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

@@ -23,7 +23,6 @@ This briefing establishes why institutional backing functions as the prime deter
 This is not theory.
 
 This is structural law. 
-
 -  **Proverbs 13:22** applies: A good man leaves an inheritance to his children’s children.
 
 In institutional finance, inheritance equals durability.
@@ -247,7 +246,6 @@ Competitors fear it.
 Gravity cannot be manufactured.
 
 It must be inherited. 
-
 -  **Proverbs 13:22** applies again.
 
 In finance, inheritance equals institutional memory.
@@ -330,10 +328,14 @@ Altitude determines authority.
 
 Authority determines who sets terms.
 
-Those who set terms win. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+Those who set terms win. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.
 
 Terminal Metric: Enforcement Delta Ratio 1.73.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

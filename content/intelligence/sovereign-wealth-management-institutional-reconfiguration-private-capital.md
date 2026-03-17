@@ -10,7 +10,9 @@ The capital vacuum in North American private markets is a consequence of regulat
 
 Sovereign allocators have moved into this gap with an operating philosophy that treats capital as a geopolitical instrument rather than a cyclical investment vehicle.
 
-Their presence is restructuring the opportunity map for private equity, private credit, and strategic resource ownership across North America and Europe. ## PHASE 
+Their presence is restructuring the opportunity map for private equity, private credit, and strategic resource ownership across North America and Europe. 
+
+## PHASE 
 
 1. ## ## ## ## 
 
@@ -29,18 +31,17 @@ Their objective is long horizon national resilience rather than quarterly perfor
 This shift has created a structural divide between capital that requires liquidity recycling and capital that seeks geopolitical anchoring.
 
 The effects are evident across North American buyouts, North American energy, and European strategic acquisitions. 
-
 -  Buyout platforms in Fund-III+ positions observe elongated fundraising cycles due to LP pacing rules. 
-
 -  Energy operators in Alberta, Saskatchewan, and the US Permian face exceptionally low competition for heavy oil assets despite predictable decline curves and fully delineated reservoirs. 
-
 -  European technology and infrastructure assets experience valuation dislocations driven by regulatory harmonization pressures under MiFID II and UK equivalence uncertainty.
 
 The consequence is an asymmetric opportunity set.
 
 Sovereign capital has moved into sectors that require long term stability of capital, especially energy, logistics, and industrial buyouts.
 
-Private credit funds, mid market buyout platforms, and sector specialist sponsors are now repositioning their capital raising strategies toward sovereign archetypes, because sovereign allocators value strategic alignment over benchmark relative performance. ## PHASE 
+Private credit funds, mid market buyout platforms, and sector specialist sponsors are now repositioning their capital raising strategies toward sovereign archetypes, because sovereign allocators value strategic alignment over benchmark relative performance. 
+
+## PHASE 
 
 2. ## ## ## ## 
 
@@ -114,7 +115,9 @@ Sovereign aligned capital raising requires redesigning the sponsor presentation 
 
 Add on acquisition pipelines must be articulated through operational synergies, cost of capital harmonization, and integration readiness.
 
-Sovereign allocators are less sensitive to vintage year dispersion and more focused on multi cycle stability. ## PHASE 
+Sovereign allocators are less sensitive to vintage year dispersion and more focused on multi cycle stability. 
+
+## PHASE 
 
 3. THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator and institutional introducer.
 
@@ -142,9 +145,13 @@ The model is neutral.
 
 Roials Capital is not the capital deployer.
 
-It is the architect that organizes the institutional ecosystem around operators, managers, and sovereign allocators. ## PHASE 
+It is the architect that organizes the institutional ecosystem around operators, managers, and sovereign allocators. 
 
-4. ## ## THE STEWARDSHIP FILTER Stewardship is the discipline of resource management grounded in non wasteful capital deployment.
+## PHASE 
+
+4. ## 
+
+## THE STEWARDSHIP FILTER Stewardship is the discipline of resource management grounded in non wasteful capital deployment.
 
 It aligns with the theological principle in **Proverbs 13:22** which states that a good person leaves an inheritance for the next generation.
 
@@ -174,7 +181,9 @@ Opportunity velocity is not speed.
 
 It is precision.
 
-It is the ability to convert a resource, acquisition, or credit situation into a hardened institutional structure. ## PHASE 
+It is the ability to convert a resource, acquisition, or credit situation into a hardened institutional structure. 
+
+## PHASE 
 
 5. DECISION FRAMEWORK FOR THE ALLOCATOR The institutional allocator navigating this regime shift requires a structured lens. 
 
@@ -213,3 +222,5 @@ The purpose is not solicitation.
 The purpose is clarity.
 
 Allocators benefit from a structured assessment of how their mandates intersect with sovereign archetypes, heavy oil resource opportunities, private credit structures, and cross border buyout platforms. [END OF BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

@@ -363,9 +363,7 @@ Architects.
 Principals who design regulatory transfer as a predictable sequence rather than a bureaucratic obstacle.
 
 In all three verticals 
-
 -  Fund‑III buyouts, Asset-Based Lending engineering, special mandates 
-
 -  the underlying determinant is sovereign‑grade capital architecture.
 
 Architecture is power.
@@ -484,6 +482,10 @@ Projected Liquidity Efficiency Index:
 
 0. 
 
-87. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+87. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

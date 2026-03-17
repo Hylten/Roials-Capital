@@ -148,7 +148,9 @@ In buyouts and ABL programs, Roials maintains neutrality and focuses exclusively
 
 The partnership model is designed to protect allocators from structural drift, operational noise, and compliance friction.
 
-The objective is clarity, not persuasion. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is not a moral slogan.
+The objective is clarity, not persuasion. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is not a moral slogan.
 
 It is the discipline of non wasteful resource management.
 
@@ -172,7 +174,9 @@ Capital that sits idle or capital that is deployed into structurally inefficient
 
 Balance sheets must convert capital into productive velocity, not speculative bets.
 
-The stewardship filter ensures that the allocator remains aligned with principles that produce structural endurance across multiple cycles. ## ## ## ## DECISION MAKING LENS FOR ALLOCATORS Allocators evaluating mandates, partners, or Fund-III capital formation opportunities are increasingly adopting a structural decision making lens.
+The stewardship filter ensures that the allocator remains aligned with principles that produce structural endurance across multiple cycles. ## ## ## 
+
+## DECISION MAKING LENS FOR ALLOCATORS Allocators evaluating mandates, partners, or Fund-III capital formation opportunities are increasingly adopting a structural decision making lens.
 
 The key evaluation questions are: * Does the balance sheet behave predictably under stress * Does the operational partner convert uncertainty into engineered clarity * Does the capital stack harden the portfolio rather than soften it * Is the liquidity architecture resilient across regulatory regimes * Can the platform operate with sovereign style optionality * Is the stewardship filter embedded in each structural element When allocators review these criteria, the next logical step is often a confidential strategy audit or a portfolio calibration dialogue.
 
@@ -187,3 +191,5 @@ It is an operational requirement in a fragmented and regulation heavy capital re
 Allocators with sovereign grade structures will dominate acquisition velocity over the next decade.
 
 Allocators without them will experience slippage, delay, and compression. [END OF BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

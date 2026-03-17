@@ -172,7 +172,9 @@ That delay is not technical.
 
 It is cultural.
 
-A disciplined fund eliminates that delay. ## ## ## THE ## 
+A disciplined fund eliminates that delay. ## ## 
+
+## THE ## 
 
 ## STRATEGIC MODEL
 
@@ -258,7 +260,9 @@ They collaborate with it.
 
 If they resist discipline at the term sheet, they will resist discipline at month eighteen.
 
-That is a predictable failure point. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is the governing ethic.
+That is a predictable failure point. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is the governing ethic.
 
 Private credit is not a game of yield.
 
@@ -320,7 +324,9 @@ The failure begins when managers ignore drift in borrower behavior.
 
 Drift is the early warning system.
 
-Drift reveals who treats capital as stewardship and who treats it as fuel. ## ## EXIT Order is measured at exit.
+Drift reveals who treats capital as stewardship and who treats it as fuel. ## 
+
+## EXIT Order is measured at exit.
 
 If the system produced discipline, the exits will be clean.
 
@@ -332,8 +338,12 @@ High performing funds operate at 92 percent or higher.
 
 Anything below 85 percent signals structural misalignment.
 
-Anything below 80 percent signals systemic failure. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+Anything below 80 percent signals systemic failure. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

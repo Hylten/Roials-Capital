@@ -264,6 +264,10 @@ Velocity without structure is reckless.
 
 We engineer both through a Fund-III architecture targeting a 1.5 to 1.8 times MOIC on senior-secured middle-market exposure with a 36 to 48 month duration band.
 
-Request a confidential capital audit to determine alignment with Fund-III deployment parameters. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+Request a confidential capital audit to determine alignment with Fund-III deployment parameters. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

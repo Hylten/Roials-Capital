@@ -18,23 +18,22 @@ This is the strata where liquidity is created, secured, reallocated, and shielde
 
 It is the level at which private credit and asset based Monetization Architecture act as precision tools for High Net Worth and Ultra High Net Worth individuals who need liquidity without liquidation.
 
-The goal of this article is to articulate, clearly and surgically, how institutional capital migration works and how our Institutional Liquidity Paths architecture supports that movement. ## The Architectural Advantage of ROIALS CAPITAL ROIALS CAPITAL provides: 
+The goal of this article is to articulate, clearly and surgically, how institutional capital migration works and how our Institutional Liquidity Paths architecture supports that movement. 
 
+## The Architectural Advantage of ROIALS CAPITAL ROIALS CAPITAL provides: 
 -  Capital Structuring against private credit 
-
 -  Asset based Strategic Collateralization 
-
 -  Crypto Capital Structuring with a two million minimum 
-
 -  Public share Institutional Liquidity Paths with a five million minimum 
-
 -  Institutional-grade structuring for HNWI and UHNW portfolios Our architecture supports capital migration without compromising control or exposure.
 
 Our structures are designed for privacy, precision, and long-horizon alignment.
 
 Institutional capital migrates through systems that respect its scale.
 
-We are one of those systems. ## Closing Position Capital migration is not a trend.
+We are one of those systems. 
+
+## Closing Position Capital migration is not a trend.
 
 It is the operating logic of modern wealth.
 
@@ -42,6 +41,10 @@ HNWI and UHNW individuals who understand this logic do not wait for conditions t
 
 They build the architecture that enables movement on their terms.
 
-ROIALS CAPITAL provides that architecture. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+ROIALS CAPITAL provides that architecture. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

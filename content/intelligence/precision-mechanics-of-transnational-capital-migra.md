@@ -24,20 +24,17 @@ Roials Capital builds on this mandate.
 
 The mechanics below outline the present structure of capital mobility across North America, the Middle East, and selected European corridors.
 
-This document is written for institutional allocators and private holders who operate outside consumer logic and require intelligence rather than commentary. ## The Principal’s Mandate A principal is not a passive investor.
+This document is written for institutional allocators and private holders who operate outside consumer logic and require intelligence rather than commentary. 
+
+## The Principal’s Mandate A principal is not a passive investor.
 
 A principal is a steward of dominion.
 
 Transnational capital migration must reflect: 
-
 -  Responsibility 
-
 -  Discipline 
-
 -  Long horizon thinking 
-
 -  Protection of enterprise and family line 
-
 -  Advancement of covenant aligned structures Roials Capital operates from this foundation.
 
 Every structure must stand.
@@ -48,7 +45,9 @@ Every corridor must serve
 
 .
 
-Every allocation must strengthen the house, not expose it. ## Closing Position Capital migration is precision.
+Every allocation must strengthen the house, not expose it. 
+
+## Closing Position Capital migration is precision.
 
 Not sentiment.
 
@@ -70,6 +69,10 @@ Roials Capital architects these pathways with the discipline expected from famil
 
 To evaluate current structures.
 
-Request confidential audit. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+Request confidential audit. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

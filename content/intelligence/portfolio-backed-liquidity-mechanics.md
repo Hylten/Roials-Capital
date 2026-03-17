@@ -168,7 +168,9 @@ It delivers operational intelligence on Alberta heavy oil physics, SAGD cycle dy
 
 NAEO is positioned for institutional allocators who require non speculative, technically mature energy exposure.
 
-Roials Capital functions strictly as the introducer and strategic coordinator. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship operates as a capital discipline.
+Roials Capital functions strictly as the introducer and strategic coordinator. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship operates as a capital discipline.
 
 It is the principle that capital must not be wasted, misallocated, or depreciated through operational negligence. **Proverbs 13:22** establishes the generational responsibility of resource management.
 
@@ -196,7 +198,9 @@ Liquidity is not a shortcut.
 
 It is a structural enhancement to ensure that long dated assets, such as heavy oil production or industrial platforms, are not prematurely impaired due to short term funding gaps.
 
-Capital must serve the operational timeline of the asset rather than force liquidation. ## ## ## ## DECISION MAKING LENS Institutional allocators assessing portfolio backed liquidity must evaluate three critical axes.
+Capital must serve the operational timeline of the asset rather than force liquidation. ## ## ## 
+
+## DECISION MAKING LENS Institutional allocators assessing portfolio backed liquidity must evaluate three critical axes.
 
 The first axis is structural resilience.
 
@@ -226,6 +230,10 @@ Roials Capital’s role is to ensure that the liquidity profile of the sponsor s
 
 Allocators, GPs, and institutional partners seeking a detailed mapping of liquidity structures, collateral engineering, and fund pacing alignment can request a confidential strategy audit focused on capital stack calibration and operational continuity planning.
 
-The audit addresses the precision mechanics necessary to maintain institutional grade momentum across the full private capital cycle. [END OF BRIEFING] # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+The audit addresses the precision mechanics necessary to maintain institutional grade momentum across the full private capital cycle. [END OF BRIEFING] # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

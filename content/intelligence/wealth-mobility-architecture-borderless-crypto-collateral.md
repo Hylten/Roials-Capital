@@ -10,7 +10,9 @@ The capital vacuum in cross border M and A is not driven by a shortage of liquid
 
 The constraint is the institutional difficulty of transforming wealth into mobility without diluting regulatory compliance, balance sheet integrity, or interbank settlement standards.
 
-A new regime has emerged where borderless digital collateral can be engineered to support institutional grade acquisitions without violating the disciplined principles that govern private credit, GP underwriting, or sovereign regulatory frameworks. ## PHASE 
+A new regime has emerged where borderless digital collateral can be engineered to support institutional grade acquisitions without violating the disciplined principles that govern private credit, GP underwriting, or sovereign regulatory frameworks. 
+
+## PHASE 
 
 1. ## ## ## ## 
 
@@ -52,7 +54,9 @@ The structural gap is no longer capital availability.
 
 It is capital mobility.
 
-This has elevated the strategic importance of crypto backed collateral systems that can be architected within institutional guardrails, without resorting to speculative leverage. ## PHASE 
+This has elevated the strategic importance of crypto backed collateral systems that can be architected within institutional guardrails, without resorting to speculative leverage. 
+
+## PHASE 
 
 2. ## ## ## ## 
 
@@ -120,7 +124,9 @@ European regulators prioritize transparency, risk classification, and asset labe
 
 To meet these standards, digital collateral structures must be documented with high resolution clarity on custody, valuation methodology, and liquidation protocol.
 
-When structured correctly, the asset behaves as a high mobility pledgeable instrument without introducing systemic risk into the acquisition. ## PHASE 
+When structured correctly, the asset behaves as a high mobility pledgeable instrument without introducing systemic risk into the acquisition. 
+
+## PHASE 
 
 3. THE PARTNERSHIP MODEL Roials Capital acts as a strategic navigator within this architecture.
 
@@ -150,9 +156,13 @@ Special mandates, such as the 50M to 250M North American energy consolidation in
 
 These assets carry physical, regulatory, and cashflow characteristics that differ significantly from technology or consumer roll ups.
 
-Roials Capital ensures technical alignment between digital collateral frameworks and the asset class specific underwriting used in Alberta basin acquisitions. ## PHASE 
+Roials Capital ensures technical alignment between digital collateral frameworks and the asset class specific underwriting used in Alberta basin acquisitions. 
 
-4. ## ## THE STEWARDSHIP FILTER Stewardship in capital architecture is the discipline of deploying resources without waste, distortion, or misalignment.
+## PHASE 
+
+4. ## 
+
+## THE STEWARDSHIP FILTER Stewardship in capital architecture is the discipline of deploying resources without waste, distortion, or misalignment.
 
 This applies to digital wealth as directly as it applies to physical assets.
 
@@ -176,7 +186,9 @@ When integrated correctly, digital collateral becomes a tool of stewardship.
 
 It reduces dependency on dilutionary financing structures, supports responsible expansion, and preserves control within the allocator.
 
-This is particularly relevant for UHNWIs who seek to support GP partners without compromising generational capital frameworks. ## PHASE 
+This is particularly relevant for UHNWIs who seek to support GP partners without compromising generational capital frameworks. 
+
+## PHASE 
 
 5. DECISION MAKING FRAMEWORK FOR THE ALLOCATOR Institutional allocators evaluating the role of borderless digital collateral in M and A should apply a five vector assessment. 
 
@@ -223,3 +235,5 @@ The objective for allocators is not speed.
 It is sovereignty.
 
 Structured correctly, crypto collateral enhances sovereignty by providing secure, compliant, and high velocity deployment capabilities that integrate smoothly with traditional private credit, energy, and industrial acquisition frameworks. [END OF BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

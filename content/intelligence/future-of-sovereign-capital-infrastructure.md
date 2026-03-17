@@ -160,7 +160,9 @@ The approach is analytical rather than promotional.
 
 In Asset-Based Lending mandates, Roials Capital aligns Asset-Backed Frameworks with balance sheet stabilization and asset hardening principles.
 
-The objective is not transaction volume but long horizon operational continuity. ## ## ## ## ## THE STEWARDSHIP FILTER The future of sovereign capital infrastructure requires conceptual clarity around stewardship.
+The objective is not transaction volume but long horizon operational continuity. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER The future of sovereign capital infrastructure requires conceptual clarity around stewardship.
 
 Stewardship is not thematic.
 
@@ -182,7 +184,9 @@ Asset-Based Lending, disciplined leverage, and operational liquidity contribute 
 
 3. Sovereign stewardship Sovereign allocators require capital pathways that reinforce state level productivity and long term supply chain security.
 
-Sovereign capital infrastructure is therefore inherently intergenerational. ## ## ## ## DECISION MAKING LENS FOR THE ALLOCATOR The allocator evaluating the future of sovereign capital infrastructure must navigate a technical environment governed by production physics, regulatory asymmetry, and multi jurisdictional compliance demands.
+Sovereign capital infrastructure is therefore inherently intergenerational. ## ## ## 
+
+## DECISION MAKING LENS FOR THE ALLOCATOR The allocator evaluating the future of sovereign capital infrastructure must navigate a technical environment governed by production physics, regulatory asymmetry, and multi jurisdictional compliance demands.
 
 This environment rewards operational intelligence over thematic conviction.
 
@@ -198,6 +202,10 @@ The decision lens involves five elements.
 
 5. Reliance on partners capable of technical interpretation rather than distribution Roials Capital supports allocators through confidential strategy audits and portfolio calibration sessions designed to map capital architectures to sovereign scale requirements.
 
-The objective is not transactional deployment but long term structural alignment. [END OF BRIEFING] # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+The objective is not transactional deployment but long term structural alignment. [END OF BRIEFING] # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

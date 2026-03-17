@@ -142,7 +142,9 @@ These assets provide predictable operational physics that align with institution
 
 Roials Capital positions itself as the strategist, not the asset owner.
 
-The focus is governance, precision, and structural integrity. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is the discipline of deploying capital without waste.
+The focus is governance, precision, and structural integrity. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is the discipline of deploying capital without waste.
 
 It is the doctrine that resources are finite and must be managed with precision, accountability, and long term foresight.
 
@@ -160,7 +162,9 @@ Stewardship requires maintaining seniority hierarchies, protecting cash flows, a
 
 Liquidity architecture should extend the operational horizon, not compress it. 
 
-4. Accountability in Structure Every liquidity instrument must align with ethical, regulatory, and operational standards consistent with institutional capital. ## ## ## ## DECISION MAKING LENS FOR THE ALLOCATOR Allocators must navigate a capital landscape where structural inefficiencies produce both friction and opportunity.
+4. Accountability in Structure Every liquidity instrument must align with ethical, regulatory, and operational standards consistent with institutional capital. ## ## ## 
+
+## DECISION MAKING LENS FOR THE ALLOCATOR Allocators must navigate a capital landscape where structural inefficiencies produce both friction and opportunity.
 
 The institutions that succeed in this environment will be those that internalize Capital Structuring as a strategic discipline rather than a transactional solution.
 
@@ -170,6 +174,10 @@ Institutions often discover that dormant value can be unlocked through structura
 
 Roials Capital provides confidential strategy audits for allocators analyzing Fund-III+ capital formation, high value asset liquidity pathways, or energy sector alignment through the NAEO technical framework.
 
-The objective is to equip decision makers with the operational intelligence required to navigate the current regime. [END BRIEFING] # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+The objective is to equip decision makers with the operational intelligence required to navigate the current regime. [END BRIEFING] # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

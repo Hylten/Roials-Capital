@@ -137,19 +137,12 @@ A sovereign firm controls its own liquidity. **Proverbs 13:22** .
 Layer 
 
 4. Sovereign Output Asset-Based Lending outputs are predictable when engineered correctly: 
-
 -  Liquidity corridors for buyout velocity 
-
 -  Refinancing shields for leverage optimization 
-
 -  Non-market-dependent capital sourcing 
-
 -  Asset hardening through covenant design 
-
 -  GP-level capital independence 
-
 -  Institutional-grade forward visibility for LPs 
-
 -  Add-on capacity expansion without equity erosion This is the reason Fund-III GPs adopt the sovereign mandate.
 
 It restores independence.
@@ -189,17 +182,11 @@ The Architecture of Sovereign Liquidity Asset-Based Asset-Backed Frameworks as a
 Liquidity is architected.
 
 Strategic Collateralization = 
-
 -  Asset sovereignty 
-
 -  Contractual predictability 
-
 -  Regulatory arbitrage 
-
 -  Status elevation 
-
 -  Temporal compression 
-
 -  Institutional shielding Fund-III wins where others drown: mid-market buyouts, add-on sequencing, and cross-jurisdictional NAEOC energy mandates sized $50M.$250M.
 
 These mandates require engineered liquidity, not traditional credit.
@@ -229,17 +216,11 @@ They fund Principals who eliminate friction.
 They fund Principal-Architects who convert assets into liquidity rails that multiply carry.
 
 Fund-III GPs leveraging Asset-Based Lending correctly achieve: 
-
 -  Faster close cycles 
-
 -  Higher underwriting confidence 
-
 -  Lower blended capital cost 
-
 -  Denser covenant protection 
-
 -  Superior reinvestment velocity 
-
 -  More credible operational mastery LPs follow this energy.
 
 They move toward structure.
@@ -255,17 +236,11 @@ It increases runway.
 It transforms illiquid positions into dynamic liquidity sources, especially inside energy, industrials, logistics, and heavy-asset verticals.
 
 The strategic mandate: 
-
 -  Monetize idle asset capacity 
-
 -  Convert heavy equipment into institutional-grade collateral 
-
 -  Deploy secondary liens without cross-contamination 
-
 -  Consolidate energy assets into Asset-Based Lending-compatible clusters 
-
 -  Engineer covenant-light liquidity corridors 
-
 -  Create roll-forward financing for add-ons Hard assets create leverage.
 
 Smart covenants create liquidity.
@@ -334,8 +309,12 @@ Control.
 
 Sovereignty.
 
-This is the architecture that elevates Fund-III from successful to unstoppable. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+This is the architecture that elevates Fund-III from successful to unstoppable. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

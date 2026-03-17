@@ -12,7 +12,9 @@ Within this environment, stabilized yield has shifted from being a performance m
 
 Yield has become the primary variable that determines whether an asset operates as a liability absorber or a liquidity consumer.
 
-This is the operational definition of asset hardening in the current regime. ## PHASE 
+This is the operational definition of asset hardening in the current regime. 
+
+## PHASE 
 
 1. ## ## ## ## 
 
@@ -48,7 +50,9 @@ The divergence is not cosmetic.
 
 It is the basis for institutional risk calibration.
 
-Yield is now functioning as the primary filter for determining which assets legitimately serve as capital anchors within a diversified institutional portfolio. ## PHASE 
+Yield is now functioning as the primary filter for determining which assets legitimately serve as capital anchors within a diversified institutional portfolio. 
+
+## PHASE 
 
 2. ## ## ## ## 
 
@@ -160,7 +164,9 @@ It is mechanically enforced by the physics of reservoir behavior, the operationa
 
 This is why the counter intuitive truth holds.
 
-In 2026, the lowest risk energy assets in North America are conventional heavy oil with established decline curves. ## PHASE 
+In 2026, the lowest risk energy assets in North America are conventional heavy oil with established decline curves. 
+
+## PHASE 
 
 3. THE PARTNERSHIP MODEL Roials Capital functions as an institutional navigator that introduces allocators to structurally coherent opportunities.
 
@@ -216,9 +222,13 @@ This partnership model maintains neutrality.
 
 The allocator retains full discretion.
 
-Roials Capital provides clarity, filters complexity, and maintains strategic alignment across all interactions. ## PHASE 
+Roials Capital provides clarity, filters complexity, and maintains strategic alignment across all interactions. 
 
-4. ## ## THE STEWARDSHIP FILTER Stewardship is not a marketing concept.
+## PHASE 
+
+4. ## 
+
+## THE STEWARDSHIP FILTER Stewardship is not a marketing concept.
 
 It is a discipline within capital allocation that evaluates the degree to which capital is employed in a manner consistent with non wasteful resource management.
 
@@ -254,9 +264,13 @@ Yield that sacrifices long term value violates stewardship principles.
 
 Under the Stewardship Filter, yield becomes a diagnostic tool that reveals whether an asset is structurally hardened or artificially inflated.
 
-It serves as a safeguard against capital dissipation and aligns institutional allocation with enduring value creation. ## PHASE 
+It serves as a safeguard against capital dissipation and aligns institutional allocation with enduring value creation. 
 
-5. THE ## ## DECISION MAKING LENS FOR ALLOCATORS Institutional allocators are navigating a capital environment where yield functions as the primary marker of asset resilience, balance sheet integrity, and liquidity optionality.
+## PHASE 
+
+5. THE ## 
+
+## DECISION MAKING LENS FOR ALLOCATORS Institutional allocators are navigating a capital environment where yield functions as the primary marker of asset resilience, balance sheet integrity, and liquidity optionality.
 
 True asset hardening emerges when yield is stable, repeatable, and grounded in operational mechanics rather than superficial metrics.
 
@@ -273,3 +287,5 @@ The pathway forward involves:
 Roials Capital provides this navigational function.
 
 A confidential strategy audit or portfolio calibration session allows institutional LPs, GPs, and family offices to align capital deployment with durable yield architectures and structurally hardened asset profiles.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

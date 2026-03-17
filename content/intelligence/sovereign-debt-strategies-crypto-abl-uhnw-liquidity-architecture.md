@@ -14,7 +14,9 @@ It signals the end of policy optionality.
 
 This structural gap has pushed UHNW allocators toward non sovereign liquidity pathways where collateral is transparent, liquidation mechanics are objective, and credit formation is insulated from governmental duration risk.
 
-The fastest growing of these mechanisms is crypto backed asset based lending, functioning not as speculative leverage but as an engineered liquidity rail for balance sheet expansion, capital stack optimization, and controlled exposure migration. ## PHASE 
+The fastest growing of these mechanisms is crypto backed asset based lending, functioning not as speculative leverage but as an engineered liquidity rail for balance sheet expansion, capital stack optimization, and controlled exposure migration. 
+
+## PHASE 
 
 1. ## ## ## ## 
 
@@ -64,7 +66,9 @@ The liquidation engine is transparent.
 
 The underwriting discipline is data deterministic.
 
-It offers a form of liquidity engineering that sovereign assets cannot replicate. ## PHASE 
+It offers a form of liquidity engineering that sovereign assets cannot replicate. 
+
+## PHASE 
 
 2. ## ## ## ## 
 
@@ -146,7 +150,9 @@ They are an operational efficiency story.
 
 UHNWIs are not pursuing crypto exposure.
 
-They are pursuing collateral mobility under regime constraints. ## PHASE 
+They are pursuing collateral mobility under regime constraints. 
+
+## PHASE 
 
 3. THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator within this realignment.
 
@@ -171,20 +177,22 @@ Crypto collateral serves as an uncorrelated borrowing base.
 The structure is often used to facilitate cross border capital alignment, M&A preparation, or liquidity adjustments prior to major acquisition windows. 
 
 3. Special mandates. 
-
 -  Energy: NAEO remains the institutional partner in Alberta for heavy oil and SAGD based acquisition strategies.
 
 Crypto backed ABL is occasionally used to unlock cash for energy entry while preserving core asset allocations. 
-
 -  EU MiFID II acquisitions: liquidity acceleration supports regulatory approvals and settlement windows without forcing asset disposals.
 
 The partnership model focuses on structural navigation.
 
 Roials Capital provides operational intelligence, lender mapping, risk tier allocation, and compliance alignment.
 
-The firm operates as the introducer and strategist, not the counterparty and not the capital source. ## PHASE 
+The firm operates as the introducer and strategist, not the counterparty and not the capital source. 
 
-4. ## ## THE STEWARDSHIP FILTER Stewardship is not sentiment.
+## PHASE 
+
+4. ## 
+
+## THE STEWARDSHIP FILTER Stewardship is not sentiment.
 
 It is the discipline of aligning capital with purpose, durability, and non wasteful deployment.
 
@@ -216,7 +224,9 @@ This is the primary advantage of programmatic collateral over conventional credi
 
 Stewardship is a filter that eliminates high friction liquidity solutions and elevates mechanized ones.
 
-It aligns with UHNW preference for structural integrity over tactical improvisation. ## PHASE 
+It aligns with UHNW preference for structural integrity over tactical improvisation. 
+
+## PHASE 
 
 5. ALLOCATOR LENS AND NEXT STEPS For UHNWIs, family offices, and institutional LPs calibrating their liquidity architecture, three questions define the current landscape. 
 
@@ -233,3 +243,5 @@ It is a liquidity rail engineered for the new debt regime where sovereign assets
 Roials Capital serves as the strategic partner for allocator calibration, lender alignment, and cross border liquidity engineering.
 
 A confidential Strategy Audit can map the optimal liquidity configuration for Fund-III commitments, balance sheet optimization, or pre acquisition positioning. [END OF BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

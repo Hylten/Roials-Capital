@@ -85,11 +85,8 @@ That delta is acquisition fuel.
 That delta is IRR ignition.
 
 Cross-border acquisition power emerges not from speed, but from structure. 
-
 •  Structural jurisdictional arbitrage. 
-
 -  Capital stack plasticity. 
-
 -  Institutional-grade collateral translation.
 
 Simplicity hides load-bearing complexity.
@@ -199,15 +196,10 @@ Collateral mobility is driven by enforceability layers.
 Each layer enhances or hinders its capacity to serve as acquisition-grade leverage.
 
 The strongest structures apply a stacked enforcement logic: 
-
 -  Local legal enforceability 
-
 -  Transnational recognition frameworks 
-
 -  Treaty-level protections 
-
 -  Private credit enforcement protocols 
-
 -  Insurance-wrapped downside insulation Together, they elevate the collateral from regional asset to acquisition-grade cross-border instrument.
 
 Fund-III designs its structures around this spectrum.
@@ -313,15 +305,10 @@ Operational.
 Precision-driven.
 
 The cross-border architecture enhances the IRR curve through five functions: 
-
 -  Lower capital drag 
-
 -  Accelerated deal velocity 
-
 -  Expanded lender participation 
-
 -  Higher add-on cadence 
-
 -  Stronger exit optionality The institutions that control collateral mobility become the institutions that control acquisition outcomes.
 
 The borderless collateral regime shifts how value is contested.
@@ -460,10 +447,14 @@ The path is defined.
 
 The capital is ready.
 
-The strategy is operational. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+The strategy is operational. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.
 
 Technical metric: Collateral Mobility Index (CMI) target > 0.82.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

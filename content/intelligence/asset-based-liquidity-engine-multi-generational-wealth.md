@@ -102,12 +102,13 @@ Monetization Architecture becomes a complement to traditional capital raising, e
 
 For special mandates, including MiFID II European acquisitions and North American energy consolidation in the 50M to 250M range, the framework provides neutrality.
 
-The objective is not to direct capital into predefined structures but to ensure allocators receive clarity on collateral integrity, strategic optionality, and operational feasibility before commitment. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is the discipline of managing finite resources with intentionality and humility.
+The objective is not to direct capital into predefined structures but to ensure allocators receive clarity on collateral integrity, strategic optionality, and operational feasibility before commitment. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is the discipline of managing finite resources with intentionality and humility.
 
 Multi generational wealth is not a matter of portfolio expansion.
 
 It is the outcome of sustained capital preservation, responsible leverage, and calibrated risk exposure. 
-
 -  **Proverbs 13:22** establishes stewardship as a multi generational responsibility rather than a tactical priority.
 
 The allocator who aligns liquidity with asset durability creates a capital architecture that is resistant to external shocks, policy cycles, and market volatility.
@@ -122,7 +123,9 @@ It creates financial breathing room that allows families, institutions, and sove
 
 In this sense, Capital Structuring is not a financing strategy.
 
-It is a preservation methodology. ## ## PORTFOLIO CALIBRATION LENS FOR THE ALLOCATOR Allocators evaluating long horizon strategies should focus on three calibration metrics.
+It is a preservation methodology. ## 
+
+## PORTFOLIO CALIBRATION LENS FOR THE ALLOCATOR Allocators evaluating long horizon strategies should focus on three calibration metrics.
 
 Balance Sheet Optionality.
 
@@ -148,6 +151,10 @@ Roials Capital engages allocators through confidential strategy audits and calib
 
 The objective is to refine alignment between asset structures, liquidity availability, and long-term mandates.
 
-In a market defined by structural scarcity and operational complexity, disciplined Strategic Collateralization is the engine that sustains momentum, preserves optionality, and strengthens intergenerational continuity. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+In a market defined by structural scarcity and operational complexity, disciplined Strategic Collateralization is the engine that sustains momentum, preserves optionality, and strengthens intergenerational continuity. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

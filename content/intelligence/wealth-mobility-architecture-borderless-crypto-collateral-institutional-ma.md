@@ -117,16 +117,15 @@ The ##
 The objective is balance sheet strengthening and capital flow synchronization. 
 
 3. 10 percent Special Mandates These include 
-
 -  North American Energy Operations Consortium (NAEOC) with facility needs of 50M to 250M. 
-
 -  EU MiFID II aligned acquisition pathways. 
-
 -  Gulf and Swiss structured credit alliances.
 
 Within Energy, NAEO serves as the institutional partner with operational expertise spanning SAGD, CSS, decline curve analysis, and Alberta basin mechanics.
 
-In non energy contexts, Roials Capital’s role remains focused on structural alignment and cross border transaction architecture. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is a discipline of capital integrity, not opportunism.
+In non energy contexts, Roials Capital’s role remains focused on structural alignment and cross border transaction architecture. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is a discipline of capital integrity, not opportunism.
 
 The mobility of capital is not pursued for speed alone.
 
@@ -148,7 +147,9 @@ Wealth mobility systems ensure that strategic assets remain deployable across ju
 
 Properly constructed wealth mobility architectures remove friction without removing prudence.
 
-Stewardship is therefore framed as a methodology that integrates capital morality with structural optimization. ## ## ## ## DECISION MAKING LENS FOR ALLOCATORS Institutions evaluating cross border acquisitions under Fund-III frameworks must integrate three questions into their internal analysis: 
+Stewardship is therefore framed as a methodology that integrates capital morality with structural optimization. ## ## ## 
+
+## DECISION MAKING LENS FOR ALLOCATORS Institutions evaluating cross border acquisitions under Fund-III frameworks must integrate three questions into their internal analysis: 
 
 1. Does the current capital architecture allow liquidity to move at the same speed as opportunity?
 
@@ -165,3 +166,5 @@ If not, transactions will remain constrained by domestic banking rails.
 These questions form the baseline for a Portfolio Calibration or Confidential Strategy Audit.
 
 Such an audit clarifies liquidity structure, cross jurisdictional readiness, and capital availability sequencing for upcoming M and A windows.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

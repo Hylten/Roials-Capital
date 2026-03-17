@@ -14,7 +14,9 @@ Surface narratives still revolve around decarbonization cycles, while subsurface
 
 The divergence is measurable.
 
-It has become one of the most powerful sources of balance sheet optimization available to institutional allocators navigating the 2026 landscape. ## PHASE 
+It has become one of the most powerful sources of balance sheet optimization available to institutional allocators navigating the 2026 landscape. 
+
+## PHASE 
 
 1. ## ## ## ## 
 
@@ -48,7 +50,9 @@ The arbitrage is highest in sectors where capital retreat has been ideological r
 
 This macro backdrop has driven a regime in which capital efficiency is no longer a secondary optimization.
 
-It is the governing principle of modern balance sheet design. ## PHASE 
+It is the governing principle of modern balance sheet design. 
+
+## PHASE 
 
 2. ## ## ## ## 
 
@@ -64,7 +68,7 @@ Core holdings are no longer static assets.
 
 They have become balance sheet instruments.
 
-When properly structured, they generate silent authority.
+When properly structured, they generate principal authority.
 
 They allow the allocator to maintain optionality across buyout windows, add-on acquisition timing, and cross-border mandates.
 
@@ -103,9 +107,7 @@ Institutional Liquidity Paths produces reliable execution windows through custom
 Second, optimize the bottom quartile of the balance sheet.
 
 Underutilized assets 
-
 -  receivables, inventory, equipment, and rights 
-
 -  can be transformed into operational liquidity without jeopardizing equity control.
 
 Third, create capital neutrality during transitional periods.
@@ -123,13 +125,9 @@ SAGD (Steam Assisted Gravity Drainage) and CSS (Cyclic Steam Stimulation) assets
 The thermal physics of these systems create steady-state operations.
 
 For example: 
-
 -  SAGD pairs horizontal wellbores to create controlled gravity drainage. 
-
 -  CSS employs cyclic steam pulses to remobilize heavy oil at predictable intervals. 
-
 -  Decline curves in these operations are governed by reservoir pressure differentials rather than pure depletion. 
-
 -  Recovery factors are calculable within narrow ranges, often between 20 percent and 60 percent depending on reservoir structure and thermal performance.
 
 This predictability creates balance sheet stability.
@@ -140,7 +138,9 @@ Our strategic partner, NAEO, operates within this environment.
 
 Their focus is on operators with established reservoir histories, measurable recovery factors, and predictable maintenance programs.
 
-These features allow institutional allocators to analyze operational integrity rather than speculative upside. ## PHASE 
+These features allow institutional allocators to analyze operational integrity rather than speculative upside. 
+
+## PHASE 
 
 3. THE PARTNERSHIP MODEL Roials Capital functions as a strategic navigator and institutional introducer across three domains: Fund-III capital raising, Strategic Collateralization, and special mandates in energy and cross-border acquisitions.
 
@@ -164,9 +164,13 @@ NAEO manages the reservoirs.
 
 Roials Capital provides the institutional translation layer, helping allocators understand Alberta’s basin physics, operational regimes, and capital flow inefficiencies.
 
-This partnership model allows allocators to navigate complex environments with technical clarity rather than promotional noise. ## PHASE 
+This partnership model allows allocators to navigate complex environments with technical clarity rather than promotional noise. 
 
-4. ## ## THE STEWARDSHIP FILTER Stewardship is an exercise in non wasteful capital management.
+## PHASE 
+
+4. ## 
+
+## THE STEWARDSHIP FILTER Stewardship is an exercise in non wasteful capital management.
 
 It aligns balance sheet behavior with long term institutional preservation.
 
@@ -198,30 +202,31 @@ Hard assets with measurable utility and predictable decline profiles create bala
 
 This is consistent with **Proverbs 13:22** , which anchors stewardship in generational capital behavior.
 
-Stewardship transforms the balance sheet from a transactional instrument into a long horizon strategic platform. ## PHASE 
+Stewardship transforms the balance sheet from a transactional instrument into a long horizon strategic platform. 
+
+## PHASE 
 
 5. DECISION-MAKING LENS FOR THE ALLOCATOR The allocator operating in 2026 faces an environment defined by volatility at the surface and stability in the subsurface.
 
 Capital efficiency becomes the bridge between the two.
 
 The path forward requires a disciplined calibration of: 
-
 -  Core asset leverage 
-
 -  Monetization Architecture 
-
 -  Institutional partnership structures 
-
 -  Hard asset introductions 
-
 -  Cross-border acquisition readiness Institutional allocators benefit from a confidential Strategy Audit to assess alignment between their balance sheet architecture, risk posture, and capital deployment timelines.
 
-This calibration produces silent authority.
+This calibration produces principal authority.
 
 It strengthens acquisition readiness.
 
 It increases Opportunity Velocity without destabilizing the equity foundation.
 
-Roials Capital supports allocators seeking disciplined clarity, technical accuracy, and structural alignment across their Fund-III roadmap, liquidity frameworks, and energy introductions. [END OF BRIEFING] # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+Roials Capital supports allocators seeking disciplined clarity, technical accuracy, and structural alignment across their Fund-III roadmap, liquidity frameworks, and energy introductions. [END OF BRIEFING] # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

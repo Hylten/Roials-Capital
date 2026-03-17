@@ -83,11 +83,8 @@ Dense logic.
 No drift.
 
 Sovereign mandates require it. 
-
 -  
-
 -  
-
 -  Sovereign capital measures the world through constraints.
 
 Political constraints.
@@ -350,7 +347,7 @@ Add‑ons execute without telegraphing intent.
 
 Competitors stay blind.
 
-Sovereign buyers maintain Silent Authority.
+Sovereign buyers maintain principal authority.
 
 Fund‑III requires absorption capacity.
 
@@ -582,6 +579,10 @@ Fund‑III must lead.
 
 Confidential capital audit recommended.
 
-Liquidity integrity target: 0.998 deterministic settlement ratio. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+Liquidity integrity target: 0.998 deterministic settlement ratio. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

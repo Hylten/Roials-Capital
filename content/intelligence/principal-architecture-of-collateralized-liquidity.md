@@ -36,7 +36,9 @@ ROIALS CAPITAL operates under this doctrine because nothing else produces reliab
 
 Discipline.
 
-Hierarchy. ## Liquidity Architecture Fundamentals Capital raising for Fund-III and beyond demands a mechanical fluency that exceeds traditional private equity playbooks.
+Hierarchy. 
+
+## Liquidity Architecture Fundamentals Capital raising for Fund-III and beyond demands a mechanical fluency that exceeds traditional private equity playbooks.
 
 Most GPs understand underwriting.
 
@@ -343,3 +345,5 @@ And it is engineered to survive whatever economic environment emerges next.
 Close the briefing.
 
 Request confidential capital audit.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

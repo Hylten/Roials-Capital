@@ -16,7 +16,9 @@ Risk mitigation is now a function of structural design, not sentiment management
 
 This briefing outlines the stability mechanics within sovereign and quasi sovereign asset structures.
 
-The intention is to provide institutional allocators, UHNW family offices, and GP level strategists with a clinical view of how risk is shaped, reduced, and redistributed in Fund-III buyout pathways, liquidity engineering mandates, and North American energy operating corridors through our strategic partner NAEO. ## PHASE 
+The intention is to provide institutional allocators, UHNW family offices, and GP level strategists with a clinical view of how risk is shaped, reduced, and redistributed in Fund-III buyout pathways, liquidity engineering mandates, and North American energy operating corridors through our strategic partner NAEO. 
+
+## PHASE 
 
 1. ## ## ## ## 
 
@@ -46,7 +48,9 @@ Fund-III capital programs are increasingly weighted toward buyouts and disciplin
 
 Replacement cost has risen faster than sale multiples in several jurisdictions, particularly across the Nordics, DACH, and select US secondary markets.
 
-This creates intrinsic downside protection when executed with balance sheet optimization and asset hardening principles. ## PHASE 
+This creates intrinsic downside protection when executed with balance sheet optimization and asset hardening principles. 
+
+## PHASE 
 
 2. ## ## ## ## 
 
@@ -124,7 +128,9 @@ Stability in the energy mandate is therefore engineered through technical recove
 
 This is why our strategic partner NAEO is positioned as an institutional grade operator for mandates between 50M and 250M.
 
-The relationship provides allocators with operational intelligence, not commodity exposure. ## PHASE 
+The relationship provides allocators with operational intelligence, not commodity exposure. 
+
+## PHASE 
 
 3. THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator and institutional ## 
 
@@ -150,9 +156,13 @@ NAEO provides the subsurface intelligence and field execution.
 
 Roials Capital provides the macro navigation and institutional match making.
 
-This partnership model creates risk transparency across the entire decision chain. ## PHASE 
+This partnership model creates risk transparency across the entire decision chain. 
 
-4. ## ## THE STEWARDSHIP FILTER Stewardship is a discipline that treats capital as a resource to be managed, not consumed.
+## PHASE 
+
+4. ## 
+
+## THE STEWARDSHIP FILTER Stewardship is a discipline that treats capital as a resource to be managed, not consumed.
 
 It is aligned with the principle found in **Proverbs 13:22** which emphasizes the intergenerational responsibility of resource allocation.
 
@@ -166,9 +176,13 @@ For institutional allocators, stewardship manifests through:
 
 4. Asset Hardening Real assets are strengthened against macro shocks through operational improvements, reserve policies, and technological enhancements.
 
-The stewardship filter functions as an internal audit mechanism that ensures all allocations have institutional durability rather than narrative fragility. ## PHASE 
+The stewardship filter functions as an internal audit mechanism that ensures all allocations have institutional durability rather than narrative fragility. 
 
-5. THE ## ## DECISION MAKING LENS Capital allocators require a structured lens to assess sovereign and sovereign adjacent assets without narrative distortion.
+## PHASE 
+
+5. THE ## 
+
+## DECISION MAKING LENS Capital allocators require a structured lens to assess sovereign and sovereign adjacent assets without narrative distortion.
 
 The following diagnostic framework is applied: 
 
@@ -183,3 +197,5 @@ The following diagnostic framework is applied:
 5. Governance Integrity Evaluate reporting standards, control mechanisms, and cross border compliance.
 
 Roials Capital positions itself as a partner to this process, offering institutional navigation and confidential strategy audits that align allocator objectives with structural opportunities across Fund-III buyouts, liquidity engineering, and North American energy mandates.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

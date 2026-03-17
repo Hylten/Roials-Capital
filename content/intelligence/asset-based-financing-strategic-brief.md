@@ -31,7 +31,6 @@ A multiplier.
 A defense line.
 
 A capital‑raising architecture supporting Fund‑III acquisition cycles, oil‑and‑gas energy mandates, MiFID II cross‑border expansion, and the compounding imperative expressed clearly in 
-
 -  **Proverbs 13:22** : A good man leaves an inheritance to his children’s children: wealth preserved through structure, not speculation.
 
 Modern private wealth operates under compression.
@@ -87,11 +86,8 @@ A base layer.
 A liquidity mechanism capable of powering acquisition cycles, recapitalization strategies, structured roll-ups, and opportunistic strike windows in distressed markets.
 
 We observe three core advantages that outperform traditional credit for modern private wealth: 
-
 -  Frictionless liquidity without equity erosion. 
-
 -  Lower cost of capital due to asset security. 
-
 -  Speed-to-deployment supporting buyout timing windows.
 
 The mechanics are simple.
@@ -139,11 +135,8 @@ Execution stability.
 Liquidity redundancy.
 
 LPs look for three things: 
-
 -  A diversified leverage stack. 
-
 -  Demonstrated internal liquidity. 
-
 -  Risk-buffer capacity independent of LP capital.
 
 Asset‑based financing allows the GP to internalize risk that would otherwise require LP exposure.
@@ -273,11 +266,8 @@ It fears forced liquidation.
 ABF solves the problem permanently.
 
 Three core outcomes matter: 
-
 -  Liquidity without distress. 
-
 -  Liquidity without taxation triggers. 
-
 -  Liquidity without title transfer.
 
 The wealth remains sovereign.
@@ -291,13 +281,9 @@ Private wealth increases its exposure to institutional deals without liquidating
 This fulfills the structural logic of **Proverbs 13:22** : preservational wealth, multi‑generational transmission, long‑term stewardship. *** ASSET HARDENING Asset hardening strengthens the portfolio through structural defense.
 
 ABF adds defensive layers: 
-
 -  Firewalls against market volatility. 
-
 -  Predictable liquidity buffers. 
-
 -  Risk compartmentalization for operational assets. 
-
 -  Enhancements to credit posture and institutional perception.
 
 Wealth becomes more resilient.
@@ -327,19 +313,12 @@ Control over outcomes.
 Control over the pace of acquisition, expansion, and exit.
 
 Asset‑based financing provides: 
-
 -  Lower friction capital. 
-
 -  Structural resilience. 
-
 -  Institutional-grade liquidity. 
-
 -  Defensive wealth architecture. 
-
 -  Accelerated acquisition velocity. 
-
 -  Multi‑jurisdiction alignment. 
-
 -  Strategic autonomy for GP/LP interactions.
 
 This is the new standard.
@@ -388,6 +367,10 @@ Everything becomes faster when capital moves on command.
 
 Proceed with confidential capital audit.
 
-Target metric: 11.7x liquidity‑velocity coefficient. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+Target metric: 11.7x liquidity‑velocity coefficient. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

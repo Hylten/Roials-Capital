@@ -106,7 +106,9 @@ The institutional relationship with NAEO is significant.
 
 NAEO provides operational intelligence and execution capability in the Alberta energy ecosystem.
 
-Roials Capital provides the allocators, the governance interface, and the capital architecture. ## ## ## ## ## THE STEWARDSHIP FILTER Sovereign wealth management at scale requires a stewardship discipline that transcends commercial capital.
+Roials Capital provides the allocators, the governance interface, and the capital architecture. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Sovereign wealth management at scale requires a stewardship discipline that transcends commercial capital.
 
 Stewardship is the ability to deploy resources without waste, distortion, or unnecessary risk.
 
@@ -126,7 +128,9 @@ Sponsors that operate on short cycle opportunistic logic are progressively scree
 
 Stewardship is not a moral construct.
 
-It is an operational requirement for institutional scale capital. ## ## ## ## DECISION MAKING LENS FOR THE ALLOCATOR The allocator evaluating private capital exposure in 2026 faces a bifurcated market.
+It is an operational requirement for institutional scale capital. ## ## ## 
+
+## DECISION MAKING LENS FOR THE ALLOCATOR The allocator evaluating private capital exposure in 2026 faces a bifurcated market.
 
 Capital that aligns with sovereign governance standards achieves scale.
 
@@ -139,3 +143,5 @@ Roials Capital provides a confidential Strategy Audit for sovereign allocators, 
 The objective is not to sell capital solutions.
 
 The objective is to calibrate strategic positioning within a rapidly consolidating institutional landscape. [END OF BRIEFING]
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

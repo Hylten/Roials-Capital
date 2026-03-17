@@ -101,11 +101,8 @@ Builders endure.
 Builders attract sovereign capital because sovereign capital knows the difference.
 
 A GP who operates at the level expected in Fund‑III and beyond must understand the hierarchy: 
-
 -  Financial engineering is transitory. 
-
 -  Operational mastery is enduring. 
-
 -  Culture of execution is immortal.
 
 The Principal does not glorify complexity.
@@ -289,13 +286,9 @@ We prepare the GP for scrutiny at the highest level.
 We refine the narrative, restructure the operational thesis, and elevate the architecture in a manner that withstands deep diligence.
 
 Our mandate: 
-
 -  Capital raising for Fund‑III and beyond. 
-
 -  Precision around buyouts and add‑ons. 
-
 -  Selective use of Asset-Based Lending when necessary. 
-
 -  Direct execution of special mandates in North American energy and EU MiFID II corridors.
 
 Strict When discussing Asset-Based Lending, qualification gates apply.
@@ -333,3 +326,5 @@ The GP who masters it becomes a sovereign institution.
 You know your category.
 
 If you seek a confidential capital audit, initiate the request.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

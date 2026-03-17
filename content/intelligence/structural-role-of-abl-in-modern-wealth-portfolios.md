@@ -61,23 +61,16 @@ Core components of institutional grade ABL mechanics include the following.
 1. Collateral stratification ABL structures segment collateral into discreet valuation buckets to maintain clarity around borrowing base composition.
 
 Common categories include: 
-
 -  Accounts receivable eligible vs ineligible 
-
 -  Inventory adjusted for obsolescence 
-
 -  Equipment with orderly liquidation value (OLV) 
-
 -  Real assets at net appraisal value This stratification gives lenders and allocators transparency into the composition of risk. 
 
 2. LTV curve optimization Loan to Value ratios are not static percentages but curves adjusted for asset type, industry volatility, and borrower discipline.
 
 Typical curves include: 
-
 -  70 to 90 percent for diversified receivables 
-
 -  40 to 60 percent for inventory with verified turnover 
-
 -  50 to 75 percent for equipment with strong residual values Precision in LTV calibration produces predictable cash flow behavior across credit cycles. 
 
 3. Controlled cash flow waterfalls ABL facilities rely on disciplined cash flow waterfalls that prioritize principal stability.
@@ -101,13 +94,9 @@ Seniority shields allocators from cash flow volatility.
 Even in stressed operating environments, recovery outcomes are anchored in asset liquidation values rather than enterprise value projections. 
 
 6. Integration with acquisitions In buyout or Fund-III contexts, ABL functions as the operational liquidity lever used to support: 
-
 -  Working capital normalization 
-
 -  Vendor payment smoothing 
-
 -  Inventory expansion 
-
 -  Integration expenditures This ensures that equity is preserved for strategic initiatives rather than absorbed by short term liquidity demands.
 
 ABL therefore becomes a structural pillar for both borrowers and allocators.
@@ -121,13 +110,10 @@ THE PARTNERSHIP MODEL ROIALS Capital operates as a strategic navigator and insti
 The role is not to originate or hold ABL assets but to provide allocators with operational intelligence, structural clarity, and curated access to counterparties aligned with institutional risk disciplines.
 
 In the broader capital raising framework, the allocation focus aligns as follows. 
-
 -  80 percent: Kapitalanskaffning for Fund-III and successor buyout or add on environments.
 
 This includes institutional introductions and capital stack optimization for large scale acquisition agendas. 
-
 -  10 percent: ABL as a Liquidity Engineering mechanism that stabilizes acquisition portfolios and supports operating company agility. 
-
 -  10 percent: Special mandates including North American Energy Optimization Capital and MiFID II compliant European acquisition frameworks.
 
 ABL is integrated as a functional liquidity layer, not a standalone product.
@@ -138,7 +124,9 @@ When energy mandates arise, the relationship with NAEO provides clarity on Alber
 
 The Alberta energy landscape contains heavy oil assets with predictable decline curves, measurable recovery factors, and operational regimes based on SAGD and CSS methodologies.
 
-Although ABL is distinct from energy financing, the principles of liquidity discipline and asset fidelity remain consistent across both domains. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship in capital environments refers to disciplined resource management rather than opportunistic extraction.
+Although ABL is distinct from energy financing, the principles of liquidity discipline and asset fidelity remain consistent across both domains. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship in capital environments refers to disciplined resource management rather than opportunistic extraction.
 
 Stewardship aligns with a theology of capital in which capital is treated as a long horizon resource requiring non wasteful allocation. 
 
@@ -156,7 +144,9 @@ It emphasizes real assets, verifiable value, and tangible productivity.
 
 ABL aligns with this because its underwriting is grounded in identifiable inventories, receivables, and equipment rather than speculative valuation narratives.
 
-The stewardship filter elevates ABL from a financial instrument to a discipline of capital management. ## ## PORTFOLIO CALIBRATION FOR DECISION MAKERS Institutional allocators navigating the current regime benefit from repositioning ABL as a structural rather than tactical portfolio component.
+The stewardship filter elevates ABL from a financial instrument to a discipline of capital management. ## 
+
+## PORTFOLIO CALIBRATION FOR DECISION MAKERS Institutional allocators navigating the current regime benefit from repositioning ABL as a structural rather than tactical portfolio component.
 
 The allocator lens focuses on three strategic outcomes. 
 
@@ -169,11 +159,8 @@ It enhances Opportunity Velocity because liquid credit returns recycle more rapi
 This produces cleaner capital stacks, sharper integration timelines, and optimized balance sheet behavior. 
 
 3. Alignment with institutional archetypes Different allocator archetypes use ABL differently: 
-
 -  UHNW families: As a stabilizer to balance equity heavy exposures. 
-
 -  Institutional LPs: As a liquidity anchor that complements longer duration strategies. 
-
 -  Private credit managers: As a structural senior component that supports portfolio risk management.
 
 This alignment produces a coherent portfolio architecture where liquidity, duration, and seniority are harmonized.
@@ -181,3 +168,5 @@ This alignment produces a coherent portfolio architecture where liquidity, durat
 Allocators who seek deeper structural clarity typically proceed to a confidential Strategy Audit or Portfolio Calibration engagement.
 
 This allows ROIALS Capital to map the liquidity, seniority, and acquisition dynamics of the allocator's existing structure and identify where ABL functions as an enhancement rather than a replacement.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

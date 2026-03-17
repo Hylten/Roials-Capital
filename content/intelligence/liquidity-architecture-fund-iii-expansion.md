@@ -15,7 +15,6 @@ Institutional capital reads structure first, narrative second, jurisdiction thir
 Momentum comes from alignment density, not GP enthusiasm.
 
 The expansion mandate requires a unified chassis: one spine, multiple liquidity doors, zero drag. 
-
 -  **Proverbs 13:22** sets the generational frame: a good man leaves an inheritance: capital must outlive cycle, strategy, and operator.
 
 Legacy requires structure.
@@ -153,7 +152,6 @@ They care about clocks.
 Capital-raising mechanics require frictionless segmentation.
 
 Three LP groups matter: 
-
 -  Conservative institutions: pensions, insurers, foundations.
 
 Need mass.
@@ -163,13 +161,11 @@ Need predictability.
 Need collateral.
 
 They buy senior-secured credit and energy-backed structures. 
-
 -  Dynamic allocators: family offices, hybrid endowments, sovereign subs.
 
 They seek alpha with guardrails.
 
 They buy structured buyouts with liquidity sidecars. 
-
 -  Strategic mandates: energy alliances, regional development blocs, infrastructure programs.
 
 They need scale and policy alignment.
@@ -255,15 +251,10 @@ Fund-III must deliver certainty by engineering a liquidity matrix that cannot co
 This requires asset hardening.
 
 Every major asset must be hardened by: 
-
 -  Mechanical utility 
-
 -  Resale mobility 
-
 -  Multi-jurisdictional enforceability 
-
 -  Asset-Based Lending reusability 
-
 -  Insurance-backed downside captures When assets are hardened, liquidity becomes a commodity, not a negotiation.
 
 Capital-raising for Fund-III is fundamentally a credibility auction.
@@ -365,19 +356,20 @@ Enthusiasm is noise.
 Sharpness is signal.
 
 Three things attract institutional capital: 
-
 -  Predictable liquidity 
-
 -  Hardened assets 
-
 -  Sovereign structure Fund-III must deliver all three at industrial strength.
 
 Capital will respond.
 
-Capital always responds to structure. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+Capital always responds to structure. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.
 
 End metric: Asset-Based Lending-readiness index 0.92.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

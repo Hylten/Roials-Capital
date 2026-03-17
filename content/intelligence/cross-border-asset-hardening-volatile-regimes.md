@@ -71,11 +71,8 @@ Meanwhile, North African and Eastern Corridor assets offer high-grade reservoir 
 This is why cross-border hardening is no longer a strategic elective.
 
 It is the minimum functional requirement for a Fund-III structure that intends to operate beyond a single political cycle. 
-
 -  Regulatory divergence between capital markets and operational permitting. 
-
 -  Cross-border insolvency fragmentation, especially in the EEA outer band. 
-
 -  Institutional capital’s reduced appetite for unsecured jurisdictional risk.
 
 We do not chase yield.
@@ -137,13 +134,9 @@ You do not defend an asset through return mechanics.
 You defend it through procedural mechanics.
 
 A waterfall must assume: 
-
 -  Delayed proceeds recognition across borders. 
-
 -  Asynchronous tax treatments. 
-
 -  Divergent netting conventions. 
-
 -  Two-tier escrow requirements.
 
 Asset-Based Lending integration becomes the hardening accelerator.
@@ -228,7 +221,9 @@ It is the opposite of opportunism.
 
 Opportunism is brittle.
 
-Architecture is durable. # ## ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is not an analogy.
+Architecture is durable. # ## ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is not an analogy.
 
 It is a command.
 
@@ -241,13 +236,9 @@ That is the standard.
 Not the mythology of high-risk speculation.
 
 Stewardship filters every decision in the Fund-III mandate: 
-
 -  Assets must harden under pressure, not cosmetically appreciate. 
-
 -  Ownership structures must avoid legislative exposure. 
-
 -  Debt instruments must improve moral solvency, not mask operational gaps. 
-
 -  Cash-flow must be actual, not performative.
 
 Theology and finance intersect at responsibility.
@@ -268,16 +259,19 @@ A steward understands that capital is not a possession.
 
 It is a trust.
 
-The cross-border hardening model is simply the institutional expression of that trust. # ## ## ## EXIT Exit discipline requires measurable thresholds.
+The cross-border hardening model is simply the institutional expression of that trust. # ## ## 
+
+## EXIT Exit discipline requires measurable thresholds.
 
 Fund-III uses three: 
-
 -  Hardening Delta measured as the reduction in enforcement timeline variance. 
-
 -  Cash-Flow Continuity Index anchored to operational uptime across jurisdictions. 
-
 -  Recovery Certainty Ratio calibrated to the lowest performing jurisdiction.
 
-Request a confidential capital audit. [END] # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+Request a confidential capital audit. [END] # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

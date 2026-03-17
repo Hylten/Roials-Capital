@@ -18,7 +18,9 @@ This paper outlines the structural mechanics that guide our Strategic Collateral
 
 It is not a pitch.
 
-It is an architectural brief. ## The Structural Premise of Fund-III Every fund reflects a worldview.
+It is an architectural brief. 
+
+## The Structural Premise of Fund-III Every fund reflects a worldview.
 
 Fund-III is built on the assumption that liquidity scarcity will define the next cycle more than the pursuit of yield.
 
@@ -34,7 +36,9 @@ And the HNWI and UHNW segment demands capital solutions that mirror institutiona
 
 The architecture of Fund-III mirrors these conditions.
 
-We lend against real positions, real collateral, and real credit events. ## Liquidity Architecture Defined Liquidity architecture is the discipline of creating predictable liquidity outcomes from inherently unpredictable markets.
+We lend against real positions, real collateral, and real credit events. 
+
+## Liquidity Architecture Defined Liquidity architecture is the discipline of creating predictable liquidity outcomes from inherently unpredictable markets.
 
 It is not about speed.
 
@@ -46,11 +50,13 @@ The architecture of liquidity at Roials Capital is shaped by three principles.
 
 2. Velocity control through measured liquidity facility to value. 
 
-3. A foundation built on silent authority, not promotional noise.
+3. A foundation built on principal authority, not promotional noise.
 
 Markets reward structures that remain coherent under stress.
 
-Our framework exists to institutionalize that coherence. ## Private Credit as the Anchor Asset Private credit serves as the anchor within Fund-III because it provides stability without sacrificing acceleration.
+Our framework exists to institutionalize that coherence. 
+
+## Private Credit as the Anchor Asset Private credit serves as the anchor within Fund-III because it provides stability without sacrificing acceleration.
 
 The underlying logic is simple.
 
@@ -61,16 +67,15 @@ When uncertainty compresses, liquidity becomes cheaper to create.
 HNWI and UHNW participants require credit that behaves like an operating system, not a speculative trade.
 
 Our Asset-Backed Frameworks against private credit positions focuses on: 
-
 -  Quality of seniority. 
-
 -  Recoverability under liquidation scenarios. 
-
 -  Temporal matching of liquidity facility duration with asset behavior.
 
 This allows us to structure liquidity in a manner that remains uncorrelated with retail credit cycles.
 
-It also ensures that the participant, the asset, and the fund remain aligned under all macro conditions. ## Asset Based Strategic Collateralization as a Precision Instrument Asset based Institutional Liquidity Paths is sometimes framed as a defensive tool.
+It also ensures that the participant, the asset, and the fund remain aligned under all macro conditions. 
+
+## Asset Based Strategic Collateralization as a Precision Instrument Asset based Institutional Liquidity Paths is sometimes framed as a defensive tool.
 
 At Roials Capital it functions as a precision instrument that supports calculated expansion.
 
@@ -83,18 +88,17 @@ The geometry of the asset dictates the geometry of the liquidity facility.
 Liquidity is shaped around the collateral, not the other way around.
 
 Our Asset-Based Lending framework supports: 
-
 -  Financial assets. 
-
 -  Yield producing instruments. 
-
 -  Select alternative collateral structures.
 
 What matters is not the asset category.
 
 What matters is the asset’s precision under valuation stress.
 
-This is the institutional threshold that defines our approach. ## Crypto Institutional Liquidity Paths at Institutional Scale Crypto Institutional Liquidity Paths is not a retail activity at Roials Capital.
+This is the institutional threshold that defines our approach. 
+
+## Crypto Institutional Liquidity Paths at Institutional Scale Crypto Institutional Liquidity Paths is not a retail activity at Roials Capital.
 
 Our minimum threshold is 2,000, 
 
@@ -112,7 +116,9 @@ Liquidity is manufactured through conservative liquidity facility to value, mult
 
 Crypto is not the frontier.
 
-Crypto is simply another collateral class when treated with correct architectural discipline. ## Public Share Strategic Collateralization and the 5,000,000 Threshold Public share Strategic Collateralization in Fund-III begins at 5,000, 
+Crypto is simply another collateral class when treated with correct architectural discipline. 
+
+## Public Share Strategic Collateralization and the 5,000,000 Threshold Public share Strategic Collateralization in Fund-III begins at 5,000, 
 
 000. This threshold is not arbitrary.
 
@@ -123,11 +129,8 @@ Participants at this level possess concentrated or high quality positions.
 These positions create stable balance sheet optimization capacity when structured with discipline.
 
 Our focus is on: 
-
 -  Liquid equities with institutional float. 
-
 -  Controlled concentration risk. 
-
 -  Cross collateralization where beneficial.
 
 When public equity is used as collateral, the result is one of the cleanest forms of liquidity creation.
@@ -136,7 +139,9 @@ The asset produces daily price discovery.
 
 The liquidity facility can be shaped with surgical clarity.
 
-This allows us to maintain the silent authority that defines the Roials Capital risk posture. ## The HNWI and UHNW Liquidity Mandate HNWI and UHNW participants require more than access to liquidity.
+This allows us to maintain the principal authority that defines the Roials Capital risk posture. 
+
+## The HNWI and UHNW Liquidity Mandate HNWI and UHNW participants require more than access to liquidity.
 
 They require liquidity that behaves predictably at scale.
 
@@ -149,18 +154,16 @@ Through structural mechanics that have zero tolerance for instability.
 The liquidity architecture of Fund-III is engineered around the psychology of the sophisticated participant.
 
 Characteristics include: 
-
 -  Aversion to administrative friction. 
-
 -  Preference for discretion. 
-
 -  Expectation of institutional grade collateral analysis. 
-
 -  Requirement for rapid execution when conditions call for it.
 
 The result is a Institutional Liquidity Paths environment where the participant does not negotiate with the architecture.
 
-The architecture is already optimized for their conditions. ## Silent Authority and the F Hierarchical Dynamics Silent authority is not a branding strategy.
+The architecture is already optimized for their conditions. 
+
+## principal authority and the F Hierarchical Dynamics principal authority is not a branding strategy.
 
 It is the byproduct of structural competence.
 
@@ -182,7 +185,9 @@ To liquidity distribution.
 
 The architecture communicates the authority.
 
-Nothing else needs to. ## Risk Engineering as a Foundation Liquidity without risk engineering is disorder.
+Nothing else needs to. 
+
+## Risk Engineering as a Foundation Liquidity without risk engineering is disorder.
 
 Liquidity with over engineered risk protocols becomes friction.
 
@@ -200,7 +205,9 @@ These principles allow the fund to absorb liquidity shocks without constriction.
 
 The participant experiences stability even when the underlying market does not.
 
-This is the institutional standard expected at the upper tier of private credit and Asset-Based Lending. ## Designing Velocity Without Compromise Velocity is only beneficial when it does not degrade collateral.
+This is the institutional standard expected at the upper tier of private credit and Asset-Based Lending. 
+
+## Designing Velocity Without Compromise Velocity is only beneficial when it does not degrade collateral.
 
 Acceleration without erosion is the core challenge of modern liquidity structuring.
 
@@ -214,7 +221,9 @@ This requires discipline.
 
 It also requires an understanding that most liquidity failures occur when velocity outruns collateral precision.
 
-Our architecture prevents that misalignment before the liquidity facility is ever issued. ## Multi Layer Liquidity Construction Fund-III’s architecture uses a multi layer approach to create stability.
+Our architecture prevents that misalignment before the liquidity facility is ever issued. 
+
+## Multi Layer Liquidity Construction Fund-III’s architecture uses a multi layer approach to create stability.
 
 Layer One is collateral structure.
 
@@ -226,7 +235,9 @@ The result is a liquidity engine that operates with institutional reliability.
 
 This creates a rare environment where liquidity is not reactive but proactive.
 
-Participants can move knowing the architecture anticipates what the market does not. ## The Expansion Logic of Fund-III Expansion does not occur by increasing risk.
+Participants can move knowing the architecture anticipates what the market does not. 
+
+## The Expansion Logic of Fund-III Expansion does not occur by increasing risk.
 
 Expansion occurs by increasing precision.
 
@@ -236,11 +247,13 @@ Each vertical strengthens the fund.
 
 Each reinforces the liquidity framework.
 
-Each enhances the silent authority that defines our position in the market.
+Each enhances the principal authority that defines our position in the market.
 
 This expansion is not marketed.
 
-It is engineered. ## Why Architecture Determines Outcomes Most credit failures are design failures.
+It is engineered. 
+
+## Why Architecture Determines Outcomes Most credit failures are design failures.
 
 Most liquidity crises begin with structure rather than market events.
 
@@ -268,6 +281,10 @@ Fund-III represents the next evolution of that discipline.
 
 A liquidity architecture built for HNWI and UHNW participants who require stability, precision, and structural authority.
 
-If your capital framework requires institutional liquidity with architectural clarity, request confidential audit. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+If your capital framework requires institutional liquidity with architectural clarity, request confidential audit. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

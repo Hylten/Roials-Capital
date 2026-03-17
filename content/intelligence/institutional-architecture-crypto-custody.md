@@ -164,7 +164,9 @@ Cross functional integration Digital custody does not operate in isolation.
 
 It interacts with private credit structures, Asset-Based Lending lines, cross border tax architecture, and trust frameworks.
 
-Roials Capital supports alignment across these disciplines to prevent structural conflicts and maintain operational continuity. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is a discipline rooted in non wasteful management of entrusted capital.
+Roials Capital supports alignment across these disciplines to prevent structural conflicts and maintain operational continuity. ## ## ## ## 
+
+## THE STEWARDSHIP FILTER Stewardship is a discipline rooted in non wasteful management of entrusted capital.
 
 This principle is consistent with **Proverbs 13:22** which identifies the obligation of long horizon asset preservation.
 
@@ -180,7 +182,9 @@ It requires documentation, governance, and oversight mechanisms that align with 
 
 Stewardship is not passive.
 
-It is structured, measured, and engineered. ## ## ## ## DECISION MAKING LENS FOR THE ALLOCATOR Institutional allocators evaluating crypto custody must frame the decision through a multivector matrix.
+It is structured, measured, and engineered. ## ## ## 
+
+## DECISION MAKING LENS FOR THE ALLOCATOR Institutional allocators evaluating crypto custody must frame the decision through a multivector matrix.
 
 Risk controllability Risk that cannot be controlled must be neutralized through architecture rather than optimism.
 
@@ -196,6 +200,10 @@ Roials Capital conducts confidential portfolio calibration sessions designed to 
 
 These sessions synthesize regulatory intelligence, operational mechanics, and capital stewardship principles.
 
-The objective is strategic clarity rather than asset solicitation. [END OF INSTITUTIONAL BRIEFING] # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+The objective is strategic clarity rather than asset solicitation. [END OF INSTITUTIONAL BRIEFING] # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

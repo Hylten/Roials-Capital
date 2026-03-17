@@ -65,11 +65,8 @@ Structural liquidity is not a pool.
 It is a system.
 
 Three levers define it: 
-
 -  Intertemporal capital positioning. 
-
 -  Jurisdictional arbitrage. 
-
 -  Asset hardening dynamics under constrained credit regimes.
 
 The LP/GP relationship becomes sovereign when these levers stack seamlessly.
@@ -205,11 +202,8 @@ Control power.
 Optionality power.
 
 Fund-III must offer all three: 
-
 -  Extraction power through asset-level liquidity conversion. 
-
 -  Control power through aggressive integration mechanics. 
-
 -  Optionality power through jurisdictional liquidity pivots.
 
 In the energy mandate, NAEOC allocations between 50M and 250M require structural clarity above sector clarity.
@@ -392,6 +386,10 @@ Metric: LTV curvature ratio
 
 0. 
 
-72. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+72. # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.

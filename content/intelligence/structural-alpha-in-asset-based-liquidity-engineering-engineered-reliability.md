@@ -28,7 +28,9 @@ These constraints create reliability.
 
 Reliability creates predictive cash flow.
 
-Predictive cash flow creates the conditions for Structural Alpha. ## Defining Structural Alpha in Asset-Based Lending Structural Alpha is the return produced by structural asymmetry.
+Predictive cash flow creates the conditions for Structural Alpha. 
+
+## Defining Structural Alpha in Asset-Based Lending Structural Alpha is the return produced by structural asymmetry.
 
 The lender is positioned to absorb predictable risk while capturing disproportionate reward.
 
@@ -40,7 +42,9 @@ Second, borrower behaviour responds to covenant geometry.
 
 Third, the facility structure determines the lender’s rights under stress scenarios.
 
-When these principles align, the facility produces returns that exceed the borrower’s credit profile, yet avoid the volatility associated with unsecured credit. ## The Architecture of Asset-Based Lending Risk Asset-Based Lending is often described as senior-secured credit.
+When these principles align, the facility produces returns that exceed the borrower’s credit profile, yet avoid the volatility associated with unsecured credit. 
+
+## The Architecture of Asset-Based Lending Risk Asset-Based Lending is often described as senior-secured credit.
 
 This definition is technically correct, yet operationally incomplete.
 
@@ -56,7 +60,9 @@ Risk concentration in Asset-Based Lending comes from three vectors.
 
 When compression is successful, the facility becomes a machine.
 
-A machine that converts collateral into yield with surgical precision. ## Collateral as a Yield Engine In conventional credit, collateral is an afterthought.
+A machine that converts collateral into yield with surgical precision. 
+
+## Collateral as a Yield Engine In conventional credit, collateral is an afterthought.
 
 In Asset-Based Lending, collateral is the engine of the facility.
 
@@ -72,20 +78,18 @@ The lender can therefore build advance rates that mirror liquidation values.
 
 When advance rates sit within liquidation tolerances, loss probability collapses.
 
-This is the foundation of Structural Alpha: Return is generated from the asset’s liquidity, while protection is derived from its margin of safety. ## Information Discipline Asset-Based Lending requires information density.
+This is the foundation of Structural Alpha: Return is generated from the asset’s liquidity, while protection is derived from its margin of safety. 
+
+## Information Discipline Asset-Based Lending requires information density.
 
 Information is the oxygen that keeps the structure risk-sterile.
 
 Borrowers deliver weekly or monthly collateral reports.
 
 The lender receives a continuous feed of: 
-
 -  Sales 
-
 -  Collections 
-
 -  Inventory movements 
-
 -  Adjustments and dilutions Institutional Asset-Based Lending frameworks use this flow to enforce dynamic controls.
 
 The controls are not reactive.
@@ -98,7 +102,9 @@ Availability locks tighten as liquidity compresses.
 
 Information becomes the mechanism that removes ambiguity.
 
-Ambiguity is where losses are born. ## Borrower Behaviour and Structural Influence Borrowers respond to structure.
+Ambiguity is where losses are born. 
+
+## Borrower Behaviour and Structural Influence Borrowers respond to structure.
 
 Structure is not punitive.
 
@@ -111,16 +117,15 @@ The facility therefore reduces the requirement for subjective judgment.
 Instead, behaviour is shaped by engineered defaults.
 
 For example: 
-
 -  balance sheet optimization base shortfalls trigger automatic reductions. 
-
 -  Collateral ineligibles isolate contamination. 
-
 -  Availability reserves self-activate when sales or collections deviate.
 
 The system shapes the borrower, not the reverse.
 
-This asymmetry is central to Structural Alpha. ## Stress Scenarios and Enforcement Geometry Institutional Asset-Based Lending is defined by its behaviour under stress.
+This asymmetry is central to Structural Alpha. 
+
+## Stress Scenarios and Enforcement Geometry Institutional Asset-Based Lending is defined by its behaviour under stress.
 
 Stress reveals whether a facility is an engineered system, or a simple liquidity facility with a collateral schedule.
 
@@ -142,25 +147,49 @@ Every outcome is probabilistic rather than speculative.
 
 This eliminates chaos during distress.
 
-Chaos is the enemy of alpha. ## Designing Structural Alpha Structural Alpha is not an outcome of higher rates.
+Chaos is the enemy of alpha. 
+
+## Designing Structural Alpha Structural Alpha is not an outcome of higher rates.
 
 It is not a function of weaker borrowers.
 
 It is generated through design.
 
-Roials Capital employs a sequence-driven framework. # ## Step 1: Asset Behaviour Mapping Each class of collateral is modelled for liquidation physics, conversion friction, and volatility under stress. # ## Step 2: Structural Compression Advance rates, reserves, and covenants compress risk into statistically predictable bands. # ## Step 3: Behavioural Engineering Reporting intervals, lockboxes, and balance sheet optimization base mechanics shape borrower actions. # ## Step 4: Execution Readiness Clear enforcement pathways ensure the structure remains intact without negotiation. # ## Step 5: Yield Extraction The resulting stability supports competitive yet elevated returns, sourced from structural efficiency rather than risk tolerance. ## Where Structural Alpha Emerges Structural Alpha is generated at specific points inside the facility.
+Roials Capital employs a sequence-driven framework. # 
 
-These points are engineered, not incidental. # ## Alpha from Liquidity Privilege The Asset-Based Lending lender sits closest to the operating cash cycle.
+## Step 1: Asset Behaviour Mapping Each class of collateral is modelled for liquidation physics, conversion friction, and volatility under stress. # 
 
-This position gives the lender privileged visibility, which converts into stability. # ## Alpha from Advance Rate Precision Accurate advance rates create overcollateralization.
+## Step 2: Structural Compression Advance rates, reserves, and covenants compress risk into statistically predictable bands. # 
 
-Overcollateralization is the silent generator of institutional-grade returns. # ## Alpha from Self-Correcting Covenants Dynamic covenants reduce the time spent in deteriorating credit conditions.
+## Step 3: Behavioural Engineering Reporting intervals, lockboxes, and balance sheet optimization base mechanics shape borrower actions. # 
 
-Time compression mitigates loss severity. # ## Alpha from Predictive Enforcement Predefined enforcement mechanics avoid negotiation delay.
+## Step 4: Execution Readiness Clear enforcement pathways ensure the structure remains intact without negotiation. # 
+
+## Step 5: Yield Extraction The resulting stability supports competitive yet elevated returns, sourced from structural efficiency rather than risk tolerance. 
+
+## Where Structural Alpha Emerges Structural Alpha is generated at specific points inside the facility.
+
+These points are engineered, not incidental. # 
+
+## Alpha from Liquidity Privilege The Asset-Based Lending lender sits closest to the operating cash cycle.
+
+This position gives the lender privileged visibility, which converts into stability. # 
+
+## Alpha from Advance Rate Precision Accurate advance rates create overcollateralization.
+
+Overcollateralization is the silent generator of institutional-grade returns. # 
+
+## Alpha from Self-Correcting Covenants Dynamic covenants reduce the time spent in deteriorating credit conditions.
+
+Time compression mitigates loss severity. # 
+
+## Alpha from Predictive Enforcement Predefined enforcement mechanics avoid negotiation delay.
 
 Delay is where unsecured losses materialize.
 
-Asset-Based Lending avoids this phase entirely. ## The Institutional Edge Institutional Asset-Based Lending differs from middle-market Asset-Based Lending in one fundamental respect.
+Asset-Based Lending avoids this phase entirely. 
+
+## The Institutional Edge Institutional Asset-Based Lending differs from middle-market Asset-Based Lending in one fundamental respect.
 
 Institutions treat Asset-Based Lending as a systems-engineering problem, not a relationship-Institutional Liquidity Paths product.
 
@@ -174,7 +203,9 @@ This difference creates three competitive edges.
 
 These edges compound.
 
-Compounding produces alpha that is structural, not cyclical. ## Why Structural Alpha Matters Now Credit markets are shifting toward collateralized Asset-Backed Frameworks.
+Compounding produces alpha that is structural, not cyclical. 
+
+## Why Structural Alpha Matters Now Credit markets are shifting toward collateralized Asset-Backed Frameworks.
 
 Borrowers with stable working capital cycles prefer financing that aligns with operational reality.
 
@@ -188,18 +219,16 @@ It allows capital providers to capture returns that outperform risk-adjusted ben
 
 In an environment where unsecured credit experiences margin compression and rising defaults, Asset-Based Lending becomes the rational frontier.
 
-Within that frontier, Structural Alpha is the differentiator. ## Roials Capital’s Position Roials Capital functions as a structural architect.
+Within that frontier, Structural Alpha is the differentiator. 
+
+## Roials Capital’s Position Roials Capital functions as a structural architect.
 
 The firm focuses on system integrity, not rate competition.
 
 Our frameworks prioritize: 
-
 -  Predictive modelling 
-
 -  Real-time data architecture 
-
 -  Enforcement geometry 
-
 -  Risk compression mechanics These priorities drive resilience.
 
 Resilience is the source of confidence for institutional partners and borrowers alike. ## ## 
@@ -216,6 +245,10 @@ It is the reward for structural discipline.
 
 It is earned, not assumed.
 
-Request confidential audit # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+Request confidential audit # 
+
+## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
+
+Access is restricted to approved mandates. Minimum target size: $5M+.
