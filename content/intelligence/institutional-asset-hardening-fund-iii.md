@@ -32,7 +32,8 @@ Systems over stories.
 
 Infrastructure over instinct.
 
-Precision over velocity. **Proverbs 13:22*
+Precision over velocity. **Proverbs 13:22
+*
 * .
 
 I build from jurisdictional logic first.
@@ -110,15 +111,25 @@ Hardening is architecture.
 
 I apply five structural levers: 
 
-1. Structural Recoding 
+1.
 
-2. Jurisdictional Arbitrage 
+Structural Recoding 
 
-3. Institutional Hierarchical Dynamics 
+2.
 
-4. Liquidity Parallelization 
+Jurisdictional Arbitrage 
 
-5. Governance Compression Each lever reduces fragility.
+3.
+
+Institutional Hierarchical Dynamics 
+
+4.
+
+Liquidity Parallelization 
+
+5.
+
+Governance Compression Each lever reduces fragility.
 
 Quickly.
 
@@ -129,7 +140,9 @@ Permanently.
 -  
 -  
 
-1. STRUCTURAL RECODING The asset must be rebuilt into a form LPs can underwrite without emotional interpretation.
+1.
+
+STRUCTURAL RECODING The asset must be rebuilt into a form LPs can underwrite without emotional interpretation.
 
 A structure they can model blind.
 
@@ -168,7 +181,9 @@ If these three cannot be described with precision, capital evaporates.
 -  
 -  
 
-2. JURISDICTIONAL ARBITRAGE Every asset lives in a legal environment.
+2.
+
+JURISDICTIONAL ARBITRAGE Every asset lives in a legal environment.
 
 Most assets are in the wrong one.
 
@@ -201,7 +216,9 @@ Arbitrage engineering creates that premium.
 -  
 -  
 
-3. INSTITUTIONAL Hierarchical Dynamics Asset hardening requires an elevation event.
+3.
+
+INSTITUTIONAL Hierarchical Dynamics Asset hardening requires an elevation event.
 
 A status transformation.
 
@@ -240,7 +257,9 @@ The LP is underwriting the architecture.
 -  
 -  
 
-4. LIQUIDITY PARALLELIZATION Most fund managers treat liquidity as a linear flow.
+4.
+
+LIQUIDITY PARALLELIZATION Most fund managers treat liquidity as a linear flow.
 
 Wrong.
 
@@ -282,7 +301,9 @@ Liquidity parallelization is how managers create internal rescue capacity withou
 -  
 -  
 
-5. GOVERNANCE COMPRESSION Governance bloat kills deals.
+5.
+
+GOVERNANCE COMPRESSION Governance bloat kills deals.
 
 Slow.
 
@@ -330,15 +351,25 @@ LPs grant permission based on:
 -  Repeatability 
 -  Controlled aggression Fund-III LPs evaluate: 
 
-1. Structural maturity 
+1.
 
-2. Failure insulation 
+Structural maturity 
 
-3. Add-on modularity 
+2.
 
-4. Reserve discipline 
+Failure insulation 
 
-5. Operational cadence stability I construct a capital-raising infrastructure around three instruments: 
+3.
+
+Add-on modularity 
+
+4.
+
+Reserve discipline 
+
+5.
+
+Operational cadence stability I construct a capital-raising infrastructure around three instruments: 
 -  Mandated allocation corridors 
 -  Sequential closing lanes 
 -  Dual-track LP classing This creates predictable flow.
@@ -478,7 +509,8 @@ Structure signals permanence.
 
 Permanence signals security.
 
-Security signals compounding advantage. **Proverbs 13:22*
+Security signals compounding advantage. **Proverbs 13:22
+*
 * .
 
 Asset hardening is the sovereign layer.
@@ -494,11 +526,15 @@ Harden the system.
 For a confidential capital audit, provide jurisdiction, mandate size, and asset category.
 
 Technical Metric: Structural Hardness Index v4.
-3 (SHI). # 
+3 (SHI).
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -77,7 +77,8 @@ Institutional capital no longer seeks geographic arbitrage.
 
 It seeks sovereignty arbitrage.
 
-Fund‑III must move where sovereignty compounds, not where incentives dilute. **Proverbs 13:22*
+Fund‑III must move where sovereignty compounds, not where incentives dilute. **Proverbs 13:22
+*
 * states: A good man leaves an inheritance to his children’s children: but the wealth of the sinner is stored up for the righteous.
 
 The verse encodes a principle that institutional allocators quietly obey: capital migrates to stewardship, not inefficiency.
@@ -86,11 +87,17 @@ Sovereignty is stewardship at jurisdictional scale.
 
 Strategic capital migration in this era requires a three‑tier structural approach: 
 
-1. Jurisdictional hardening 
+1.
 
-2. Digital‑infrastructure alignment 
+Jurisdictional hardening 
 
-3. Capital‑flow optimization Hardening produces resiliency.
+2.
+
+Digital‑infrastructure alignment 
+
+3.
+
+Capital‑flow optimization Hardening produces resiliency.
 
 Alignment produces velocity.
 
@@ -217,11 +224,17 @@ Velocity produces return.
 
 Fund‑III must orient toward three primary corridors of sovereign advantage: 
 
-1. Northern European digital-sovereign belt 
+1.
 
-2. North American energy-sovereign belt 
+Northern European digital-sovereign belt 
 
-3. GCC capital-sovereign belt Each corridor provides asymmetric advantage.
+2.
+
+North American energy-sovereign belt 
+
+3.
+
+GCC capital-sovereign belt Each corridor provides asymmetric advantage.
 
 Each corridor accelerates capital migration.
 
@@ -433,14 +446,19 @@ Migrate.
 
 Anchor.
 
-Mandate: 4.8
-2 cross-jurisdictional enforcement delta. # 
+Mandate: 4.
+
+82 cross-jurisdictional enforcement delta.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

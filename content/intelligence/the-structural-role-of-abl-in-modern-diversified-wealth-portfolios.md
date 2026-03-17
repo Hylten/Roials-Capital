@@ -24,7 +24,9 @@ It is a structural function inside a modern portfolio, a mechanism that expands 
 
 Roials Capital operates inside this space with a principal authority, providing asset backed Strategic Collateralization across private credit, crypto holdings with a minimum threshold of 2,000,000, and public share positions with a minimum threshold of 5,000, 
 
-000. Asset-Based Lending is often discussed superficially.
+000.
+
+Asset-Based Lending is often discussed superficially.
 
 Here, we treat it as architecture, not product.
 
@@ -102,7 +104,9 @@ Liquidity needs, however, often exceed the efficiency of spot selling, especiall
 
 Roials Capital provides crypto backed Monetization Architecture with a minimum threshold of 2,000, 
 
-000. This aligns with institutional scale, not retail use.
+000.
+
+This aligns with institutional scale, not retail use.
 
 The purpose is to allow large crypto holders to retain exposure while creating separate capital for private investments, strategic cash holdings, or opportunistic deployment.
 
@@ -120,7 +124,9 @@ Liquidating such positions may distort tax planning, break long term investment 
 
 Roials Capital provides asset based Capital Structuring for public share positions at a minimum of 5,000, 
 
-000. This threshold ensures that the strategy remains aligned with the needs of sophisticated investors.
+000.
+
+This threshold ensures that the strategy remains aligned with the needs of sophisticated investors.
 
 The end result is functional liquidity that does not disturb market positions or strategic signaling. 
 
@@ -188,9 +194,9 @@ Public equity holdings will remain strategic.
 
 Asset-Based Lending will serve as the connective tissue, linking long term exposure with short term liquidity needs.
 
-Roials Capital stands precisely within this structural nexus. # ## 
+Roials Capital stands precisely within this structural nexus. # 
 
-## CONCLUSION
+ CONCLUSION
 
  Asset based Institutional Liquidity Paths is not an alternative financing tool.
 
@@ -200,13 +206,19 @@ For HNWI and UHNW investors, it preserves optionality, prevents forced liquidati
 
 Roials Capital provides Asset-Based Lending against private credit, crypto holdings at a minimum of 2,000,000, and public shares at a minimum of 5,000, 
 
-000. This is not retail Strategic Collateralization.
+000.
 
-It is precision engineered liquidity for advanced portfolios. # 
+This is not retail Strategic Collateralization.
+
+It is precision engineered liquidity for advanced portfolios.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -94,10 +94,14 @@ These thresholds are non-negotiable.
 
 They are structural.
 
-Crypto Institutional Liquidity Paths minimum: 2,000,00
+Crypto Institutional Liquidity Paths minimum: 2,000,
+
+00
 0 USD.
 
-Public share Strategic Collateralization minimum: 5,000,00
+Public share Strategic Collateralization minimum: 5,000,
+
+00
 0 USD.
 
 These are not marketing anchors.
@@ -284,7 +288,9 @@ HNWI and UHNW individuals understand this distinction.
 
 They operate in environments where opportunity windows do not wait for procedural clearance.
 
-Decentralized private credit is the system that reflects this reality. ## ## 
+Decentralized private credit is the system that reflects this reality. 
+
+ 
 
 ## CONCLUSION
 
@@ -298,11 +304,15 @@ Our frameworks are engineered for clarity, autonomy, and liquidity without frict
 
 Our function is not to follow the market.
 
-Our function is to define the mechanics the market will eventually adopt. # 
+Our function is to define the mechanics the market will eventually adopt.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

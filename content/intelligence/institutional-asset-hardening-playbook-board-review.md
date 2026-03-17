@@ -10,7 +10,11 @@ The capital vacuum in North America’s real asset environment is an outcome of 
 
 For institutional allocators preparing for a 5B+ governance review, the determinant factor is not sector selection but the architectural integrity of the capital stack.
 
-Asset hardening has become the institutional archetype that separates scalable platforms from episodic deal operators. ## ## ## ## 
+Asset hardening has become the institutional archetype that separates scalable platforms from episodic deal operators. 
+
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
@@ -26,7 +30,11 @@ The environment can be summarized as follows.
 
 This regime shift favors platforms that can articulate the mathematics of risk segregation.
 
-For LPs and GPs stewarding Fund-III+ scale vehicles, the path to board approval requires a disciplined demonstration of capital hardening across operating subsidiaries and acquisition programs. ## ## ## ## 
+For LPs and GPs stewarding Fund-III+ scale vehicles, the path to board approval requires a disciplined demonstration of capital hardening across operating subsidiaries and acquisition programs. 
+
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -36,7 +44,7 @@ The gatekeeping layer focuses on structural resilience under stress, and the pri
 
 The core mechanics of asset hardening revolve around three pillars.
 
-Pillar 1: Balance Sheet Optimization Institutional-grade optimization begins with neutralizing fragility.
+Pillar I:: Balance Sheet Optimization Institutional-grade optimization begins with neutralizing fragility.
 
 This usually includes reduction of short-tenor liabilities, conversion of floating exposures to fixed equivalents, and consolidation of covenant structures across unrelated operating units.
 
@@ -44,7 +52,7 @@ Board-level governance requires the removal of idiosyncratic risk that does not 
 
 Effective operators establish a balance sheet setup that generates predictability without constraining expansion velocity.
 
-Pillar 2: Asset-Backed Frameworks Capital Structuring is not merely treasury management.
+Pillar II:: Asset-Backed Frameworks Capital Structuring is not merely treasury management.
 
 It is the systematic creation of optionality throughout the capital cycle.
 
@@ -52,7 +60,7 @@ This includes the use of asset backed lending at conservative advance rates, cro
 
 Institutions prioritize liquidity architecture over nominal profitability because liquidity is the strategic determinant of Opportunity Velocity.
 
-Pillar 3: Asset Hardening Asset hardening converts operational assets into financeable collateral that withstands institutional scrutiny.
+Pillar III:: Asset Hardening Asset hardening converts operational assets into financeable collateral that withstands institutional scrutiny.
 
 It requires precision in documentation, valuation defensibility, and de-risked operational baselines.
 
@@ -87,9 +95,9 @@ THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator.
 
 The function is not fund management.
 
-It is institutional alignment and technical ## 
+It is institutional alignment and technical 
 
-## INTRODUCTION
+ INTRODUCTION
 
  .
 
@@ -120,7 +128,11 @@ Competency 3: Execution Enablement Execution is achieved through clearly articul
 This applies across all mandate types: 
 -  Kapitalanskaffning for Buyouts and Add-ons, 
 -  Asset-Based Lending Strategic Collateralization for operating companies requiring balance sheet modernization, 
--  Special Mandates including NAEO’s 50M to 250M deployment lanes and MiFID II governed acquisitions. ## ## ## ## 
+-  Special Mandates including NAEO’s 50M to 250M deployment lanes and MiFID II governed acquisitions. 
+
+ 
+
+ 
 
 ## THE STEWARDSHIP FILTER Stewardship is not an ethical overlay.
 
@@ -134,12 +146,13 @@ Stewardship in practice includes:
 -  deploying capital where empirical evidence reduces uncertainty, 
 -  maintaining uncorrelated liquidity reserves to protect the portfolio during external volatility.
 
-The theology of capital is grounded in stewardship principles articulated in **Proverbs 13:22*
+The theology of capital is grounded in stewardship principles articulated in **Proverbs 13:22
+*
 * .
 
-Boards evaluating multi billion platforms consistently measure stewardship as a primary indicator of long term sustainability. ## 
+Boards evaluating multi billion platforms consistently measure stewardship as a primary indicator of long term sustainability.
 
-## CALIBRATION FOR BOARD APPROVAL Boards controlling multi billion mandates require clarity, repeatability, and architectural integrity.
+CALIBRATION FOR BOARD APPROVAL Boards controlling multi billion mandates require clarity, repeatability, and architectural integrity.
 
 Operators who pass a 5B review demonstrate mastery in three domains.
 
@@ -163,11 +176,15 @@ The objective is clarity.
 
 Allocators and operators who understand the structural mechanics of asset hardening gain a material advantage in capital formation, liquidity management, and long horizon expansion planning.
 
-A confidential Strategy Audit or Portfolio Calibration becomes the natural next step for institutions requiring a precise, architecture driven assessment of their position within the new regime. # 
+A confidential Strategy Audit or Portfolio Calibration becomes the natural next step for institutions requiring a precise, architecture driven assessment of their position within the new regime.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -52,15 +52,25 @@ It is borderless in collateral and anchored in structure.
 
 ## The ROIALS CAPITAL Framework for Execution Our approach is concise: 
 
-1. Validate digital or public share collateral. 
+1.
 
-2. Anchor valuation in institutional parameters. 
+Validate digital or public share collateral. 
 
-3. Structure liquidity through private credit or Asset-Based Lending. 
+2.
 
-4. Deliver capital for M&A execution. 
+Anchor valuation in institutional parameters. 
 
-5. Maintain structural integrity from acquisition to exit.
+3.
+
+Structure liquidity through private credit or Asset-Based Lending. 
+
+4.
+
+Deliver capital for M&A execution. 
+
+5.
+
+Maintain structural integrity from acquisition to exit.
 
 No unnecessary steps.
 
@@ -90,11 +100,15 @@ Quietly.
 
 Precisely.
 
-Institutionally. # Request confidential audit # 
+Institutionally. # Request confidential audit
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

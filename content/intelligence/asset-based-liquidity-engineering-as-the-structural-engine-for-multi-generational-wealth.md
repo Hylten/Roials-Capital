@@ -36,11 +36,17 @@ Liquidity becomes an instrument, not an exposure.
 
 HNWI and UHNW investors use Asset-Based Lending structures for three primary reasons: 
 
-1. They require liquidity without sacrificing core positions. 
+1.
 
-2. They need capital movement to be non taxable, efficient, and discreet. 
+They require liquidity without sacrificing core positions. 
 
-3. They value stability over speculation.
+2.
+
+They need capital movement to be non taxable, efficient, and discreet. 
+
+3.
+
+They value stability over speculation.
 
 These principles remain constant across generations.
 
@@ -117,7 +123,9 @@ Roials Capital provides the mechanism.
 
 It requires clarity, governance, and institutional infrastructure.
 
-Roials Capital provides Monetization Architecture for public share collateral with a minimum threshold of 5,000,00
+Roials Capital provides Monetization Architecture for public share collateral with a minimum threshold of 5,000,
+
+00
 0 dollars.
 
 This threshold ensures that the facility remains institutional and avoids retail dynamics.
@@ -142,7 +150,9 @@ The portfolio architecture remains undisturbed.
 
 Institutional crypto Capital Structuring is not.
 
-Roials Capital enforces a minimum threshold of 2,000,00
+Roials Capital enforces a minimum threshold of 2,000,
+
+00
 0 dollars for crypto collateral.
 
 Below that threshold, volatility and capital fragility distort the structural purpose of the facility.
@@ -291,7 +301,9 @@ Families who maintain asset based credit lines have the ability to:
 
 Liquidity without visibility is the core of principal authority.
 
-Roials Capital is built for that environment. ## ## 
+Roials Capital is built for that environment. 
+
+ 
 
 ## CONCLUSION
 
@@ -315,11 +327,15 @@ Our Strategic Collateralization is private.
 
 Our thresholds are exact.
 
-Our authority is silent. # 
+Our authority is silent.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -18,26 +18,37 @@ The allocator landscape has reorganized into a hierarchy where sovereign institu
 
 Fund-III and Fund-IV mandates are the primary beneficiaries of this realignment.
 
-These vehicles provide the scale, governance maturity, and operational standardization required for sovereign onboarding. ## ## ## ## 
+These vehicles provide the scale, governance maturity, and operational standardization required for sovereign onboarding. 
+
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
  The global private capital regime has transitioned from a liquidity driven expansion cycle to an efficiency driven consolidation cycle. 
 
-1. Capital Concentration Sovereign allocators now command more than 4
-0 percent of global private capital firepower.
+1.
+
+Capital Concentration Sovereign allocators now command more than 
+
+40 percent of global private capital firepower.
 
 Their internal risk frameworks favor asset classes with measurable physics, repeatable recovery curves, and defensible jurisdictional rule sets.
 
 Alberta heavy oil, long life infrastructure, and mature mid market buyouts align with these requirements. 
 
-2. Credit Rationalization Commercial banks continue to deleverage exposure to cyclicals, resource assets, and private credit verticals.
+2.
+
+Credit Rationalization Commercial banks continue to deleverage exposure to cyclicals, resource assets, and private credit verticals.
 
 LTV curves have tightened, and duration tolerance has compressed.
 
 This has created an institutional entry point for sovereign allocators who can absorb multi cycle volatility without balance sheet stress. 
 
-3. Regulatory Divergence MiFID II evolution in Europe and Basel III endgame provisions in North America have shifted capital formation away from traditional lenders.
+3.
+
+Regulatory Divergence MiFID II evolution in Europe and Basel III endgame provisions in North America have shifted capital formation away from traditional lenders.
 
 Sovereign institutions benefit because their capital frameworks operate outside the constraints that commercial lenders face.
 
@@ -47,7 +58,11 @@ Within this domain, sovereign wealth entities have become the system stabilizers
 
 Their presence defines acceptable risk architecture for the rest of the capital stack.
 
-Private equity funds entering Fund-III or Fund-IV cycles increasingly must position themselves within this sovereign-led hierarchy to achieve scale and continuity. ## ## ## ## 
+Private equity funds entering Fund-III or Fund-IV cycles increasingly must position themselves within this sovereign-led hierarchy to achieve scale and continuity. 
+
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -97,15 +112,21 @@ The function is not to manage assets or assume operational control.
 
 The function is to align sovereign allocators, Fund-III managers, and sector specialists into coherent capital architectures. 
 
-1. Kapitalanskaffning for Fund-III and Fund-IV Roials Capital structures introductions and strategic alignment frameworks for mid market buyout sponsors entering global LP markets.
+1.
+
+Kapitalanskaffning for Fund-III and Fund-IV Roials Capital structures introductions and strategic alignment frameworks for mid market buyout sponsors entering global LP markets.
 
 The focus is governance readiness, reporting calibration, and sovereign compatible fund architecture. 
 
-2. Liquidity Engineering through ABL For operating companies requiring liquidity optimization, ABL overlays provide non intrusive capital support that increases resilience.
+2.
+
+Liquidity Engineering through ABL For operating companies requiring liquidity optimization, ABL overlays provide non intrusive capital support that increases resilience.
 
 This is relevant for portfolio companies in heavy industry, manufacturing, and energy services. 
 
-3. Special Mandates These include: 
+3.
+
+Special Mandates These include: 
 * NAEOC energy mandates in the 50M to 250M range for long life heavy oil assets. 
 * EU MiFID II compliant acquisition structures for cross border consolidations. 
 * Strategic national mandates for sovereign entities seeking North American industrial exposure.
@@ -114,7 +135,11 @@ The institutional relationship with NAEO is significant.
 
 NAEO provides operational intelligence and execution capability in the Alberta energy ecosystem.
 
-Roials Capital provides the allocators, the governance interface, and the capital architecture. ## ## ## ## 
+Roials Capital provides the allocators, the governance interface, and the capital architecture. 
+
+ 
+
+ 
 
 ## THE STEWARDSHIP FILTER Sovereign wealth management at scale requires a stewardship discipline that transcends commercial capital.
 
@@ -122,7 +147,8 @@ Stewardship is the ability to deploy resources without waste, distortion, or unn
 
 It is the guiding principle for long term allocators.
 
-The Theology of Capital reinforces this. **Proverbs 13:22*
+The Theology of Capital reinforces this. **Proverbs 13:22
+*
 * notes that durable capital is multi generational.
 
 Sovereign allocators inherently operate on multigenerational timelines.
@@ -142,15 +168,17 @@ Sponsors that operate on short cycle opportunistic logic are progressively scree
 
 Stewardship is not a moral construct.
 
-It is an operational requirement for institutional scale capital. ## ## ## 
+It is an operational requirement for institutional scale capital.
 
-## DECISION MAKING LENS FOR THE ALLOCATOR The allocator evaluating private capital exposure in 202
-6 faces a bifurcated market.
+DECISION MAKING LENS FOR THE ALLOCATOR The allocator evaluating private capital exposure in 20
+
+26 faces a bifurcated market.
 
 Capital that aligns with sovereign governance standards achieves scale.
 
-Capital that mirrors pre 202
-0 private markets operates at structural disadvantage.
+Capital that mirrors pre 20
+
+20 private markets operates at structural disadvantage.
 
 A coherent decision framework includes: 
 * Assessing whether fund governance is sovereign ready. 
@@ -166,4 +194,6 @@ The objective is not to sell capital solutions.
 
 The objective is to calibrate strategic positioning within a rapidly consolidating institutional landscape. [END OF BRIEFING]
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

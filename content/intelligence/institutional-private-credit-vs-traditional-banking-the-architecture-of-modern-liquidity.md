@@ -118,9 +118,13 @@ Asset-Based Lending structures answer a core HNWI problem: How do I monetize ass
 ROIALS CAPITAL operates in this space with principal authority, providing Asset-Based Lending frameworks against sophisticated asset classes including private credit positions, crypto assets, and public equity holdings.
 
 The thresholds reflect the institutional nature of the architecture: 
--  Crypto Asset-Backed Frameworks: minimum threshold 2,000,00
+-  Crypto Asset-Backed Frameworks: minimum threshold 2,000,
+
+00
 0 
--  Public Share Asset-Backed Frameworks: minimum threshold 5,000,00
+-  Public Share Asset-Backed Frameworks: minimum threshold 5,000,
+
+00
 0 These floors preserve the integrity of institutional underwriting.
 
 They also ensure that the structures remain aligned with the needs of high net worth and ultra high net worth portfolios. 
@@ -131,29 +135,39 @@ They are managing time, control, confidentiality, and structural leverage.
 
 Private credit aligns with these priorities for several reasons. # ## 
 
-1. Control remains with the asset owner Traditional banking often requires broad disclosures, co-mingled risk assessments, and standardized covenants.
+1.
+
+Control remains with the asset owner Traditional banking often requires broad disclosures, co-mingled risk assessments, and standardized covenants.
 
 Private credit isolates the asset and the structure.
 
 The client maintains strategic autonomy. # ## 
 
-2. Speed is institutional rather than bureaucratic Decisioning cycles are compressed.
+2.
+
+Speed is institutional rather than bureaucratic Decisioning cycles are compressed.
 
 Underwriting expands based on asset tolerances, not committee schedules.
 
 Liquidity arrives faster. # ## 
 
-3. Structures can be engineered, not templated Private credit frameworks flex with the asset.
+3.
+
+Structures can be engineered, not templated Private credit frameworks flex with the asset.
 
 Every component is configurable, from liquidity facility-to-value to liquidity tranches to release triggers.
 
 This is not available in retail banking architecture. # ## 
 
-4. Cross-asset sophistication is normal, not exceptional Banks remain hesitant around digital assets or certain forms of equity collateral.
+4.
+
+Cross-asset sophistication is normal, not exceptional Banks remain hesitant around digital assets or certain forms of equity collateral.
 
 Private credit treats them as legitimate collateral classes, assuming the right liquidity and valuation structures exist. # ## 
 
-5. Confidentiality is engineered at the foundation Private credit does not operate through retail visibility layers.
+5.
+
+Confidentiality is engineered at the foundation Private credit does not operate through retail visibility layers.
 
 It uses institutional discretion as standard protocol.
 
@@ -215,9 +229,13 @@ We operate in a separate lane: asset-backed private credit for sophisticated ass
 Our frameworks include: 
 -  asset-based Institutional Liquidity Paths across complex collateral classes 
 -  private credit structures for liquidity extraction 
--  dedicated crypto-backed Strategic Collateralization above 2,000,00
+-  dedicated crypto-backed Strategic Collateralization above 2,000,
+
+00
 0 
--  public share Monetization Architecture above 5,000,00
+-  public share Monetization Architecture above 5,000,
+
+00
 0 
 -  engineered liquidity architecture for HNWI and UHNW portfolios The focus is structural precision.
 
@@ -255,7 +273,9 @@ They are parallel.
 
 Those who understand the distinction will unlock the full spectrum of modern liquidity.
 
-Those who do not will continue to run complex portfolios through legacy pipelines that were not designed for them. ## ## 
+Those who do not will continue to run complex portfolios through legacy pipelines that were not designed for them. 
+
+ 
 
 ## CONCLUSION
 
@@ -271,11 +291,15 @@ We build frameworks.
 
 We lend against assets.
 
-We engineer liquidity for portfolios that require institutional intelligence rather than retail processing. # 
+We engineer liquidity for portfolios that require institutional intelligence rather than retail processing.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

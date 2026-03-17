@@ -24,7 +24,11 @@ This briefing outlines the institutional architecture of protecting multi genera
 
 The objective is not to promote any specific vehicle.
 
-The objective is to clarify the structural mechanics so that allocators, family governance boards, and private office principals can navigate the next decade of digital asset oversight with discipline. ## ## ## ## 
+The objective is to clarify the structural mechanics so that allocators, family governance boards, and private office principals can navigate the next decade of digital asset oversight with discipline. 
+
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
@@ -56,7 +60,9 @@ However, the security profile has not.
 
 This asymmetry generates a policy gap.
 
-Long horizon stewards require a custody ecosystem that can scale across 20, 50, and 10
+Long horizon stewards require a custody ecosystem that can scale across 20, 50, and 
+
+10
 0 year planning cycles.
 
 The crypto industry, historically oriented toward short duration trading, is now being rearchitected around institutional durability.
@@ -67,7 +73,11 @@ When the Alberta heavy oil market transitioned from speculative land plays to en
 
 A similar transformation is occurring in digital custody.
 
-Asset control is shifting from individual technical operators to regulated, operationally redundant institutional custodians. ## ## ## ## 
+Asset control is shifting from individual technical operators to regulated, operationally redundant institutional custodians. 
+
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -165,11 +175,16 @@ Cross functional integration Digital custody does not operate in isolation.
 
 It interacts with private credit structures, Asset-Based Lending lines, cross border tax architecture, and trust frameworks.
 
-Roials Capital supports alignment across these disciplines to prevent structural conflicts and maintain operational continuity. ## ## ## ## 
+Roials Capital supports alignment across these disciplines to prevent structural conflicts and maintain operational continuity. 
+
+ 
+
+ 
 
 ## THE STEWARDSHIP FILTER Stewardship is a discipline rooted in non wasteful management of entrusted capital.
 
-This principle is consistent with **Proverbs 13:22*
+This principle is consistent with **Proverbs 13:22
+*
 * which identifies the obligation of long horizon asset preservation.
 
 In the context of digital assets, stewardship requires specific behaviors.
@@ -184,9 +199,9 @@ It requires documentation, governance, and oversight mechanisms that align with 
 
 Stewardship is not passive.
 
-It is structured, measured, and engineered. ## ## ## 
+It is structured, measured, and engineered.
 
-## DECISION MAKING LENS FOR THE ALLOCATOR Institutional allocators evaluating crypto custody must frame the decision through a multivector matrix.
+DECISION MAKING LENS FOR THE ALLOCATOR Institutional allocators evaluating crypto custody must frame the decision through a multivector matrix.
 
 Risk controllability Risk that cannot be controlled must be neutralized through architecture rather than optimism.
 
@@ -202,11 +217,15 @@ Roials Capital conducts confidential portfolio calibration sessions designed to 
 
 These sessions synthesize regulatory intelligence, operational mechanics, and capital stewardship principles.
 
-The objective is strategic clarity rather than asset solicitation. [END OF INSTITUTIONAL BRIEFING] # 
+The objective is strategic clarity rather than asset solicitation. [END OF INSTITUTIONAL BRIEFING]
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -85,11 +85,15 @@ Public share Strategic Collateralization at the threshold is the most accurate r
 
 It reflects the sophistication of modern wealth architecture and the need for a framework that does not compromise on control or clarity.
 
-Roials Capital stands at the front of this structural evolution. # 
+Roials Capital stands at the front of this structural evolution.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

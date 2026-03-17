@@ -141,8 +141,12 @@ We do this with structural clarity.
 
 Two minimum thresholds apply.
 
-Crypto Capital Structuring minimum: 2,000,00
-0 USD Public Share Institutional Liquidity Paths minimum: 5,000,00
+Crypto Capital Structuring minimum: 2,000,
+
+00
+0 USD Public Share Institutional Liquidity Paths minimum: 5,000,
+
+00
 0 USD Both categories require precision.
 
 They require volatility management and liquidity orchestration.
@@ -311,11 +315,15 @@ It reinforces multigenerational planning.
 
 Roials Capital builds on this principle.
 
-We create Capital Structuring frameworks that respect sovereign signals and elevate the client's strategic position. # 
+We create Capital Structuring frameworks that respect sovereign signals and elevate the client's strategic position.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

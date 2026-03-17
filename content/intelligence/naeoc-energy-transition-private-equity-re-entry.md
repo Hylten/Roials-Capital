@@ -29,7 +29,9 @@ That is the entire point.
 
 ## The Structural Reality 
 
-1. The global energy transition has now crossed the early‑clarity threshold Once a sector becomes politically declared rather than economically emergent, distortions appear.
+1.
+
+The global energy transition has now crossed the early‑clarity threshold Once a sector becomes politically declared rather than economically emergent, distortions appear.
 
 Subsidies bloat asset values.
 
@@ -47,7 +49,9 @@ This corridor absorbs volatility.
 
 It does not politicize it. 
 
-2. NAEOC deals allow one indispensable position: true operational dominion Control matters.
+2.
+
+NAEOC deals allow one indispensable position: true operational dominion Control matters.
 
 Minority stakes cannot repair industrial inefficiency.
 
@@ -59,7 +63,9 @@ LPs know this.
 
 And they are steering capital accordingly. 
 
-3. Infrastructure LPs are returning because price discipline has returned When interest‑driven exuberance cooled, the large infrastructure funds chased hyperscale assets-grid‑scale renewables, hydrogen showcase plants, next‑gen battery complexes, national charging networks.
+3.
+
+Infrastructure LPs are returning because price discipline has returned When interest‑driven exuberance cooled, the large infrastructure funds chased hyperscale assets-grid‑scale renewables, hydrogen showcase plants, next‑gen battery complexes, national charging networks.
 
 Valuations inflated.
 
@@ -83,7 +89,9 @@ They chase it.
 
 This is why they are back. 
 
-4. The NAEOC band is where industrial logic beats political noise Three reasons: 
+4.
+
+The NAEOC band is where industrial logic beats political noise Three reasons: 
 -  Assets have operating histories long enough to de-risk. 
 -  They are small enough to be re‑engineered. 
 -  They are large enough to attract institutional oversight.
@@ -92,7 +100,9 @@ This combination is rare.
 
 It is the architecture of the mid‑market energy transition. 
 
-5. Capital is migrating from speculative green capital to industrial transition capital Infrastructure LPs seek three things: Durability.
+5.
+
+Capital is migrating from speculative green capital to industrial transition capital Infrastructure LPs seek three things: Durability.
 
 Governance.
 
@@ -104,7 +114,9 @@ NAEOC buyouts can.
 
 Every survey of institutional allocators shows the same movement-out of venture‑style climate bets and into industrial transition strategies with hard‑asset discipline. 
 
-6. The mid‑market has become the new institutional frontier because supply chains are resetting The past five years fractured global energy and component supply chains.
+6.
+
+The mid‑market has become the new institutional frontier because supply chains are resetting The past five years fractured global energy and component supply chains.
 
 That created two consequences: 
 -  The giants lost their cost advantages. 
@@ -114,9 +126,9 @@ This pullback of scale economics is the essential macro‑driver behind the LP r
 
 Control at NAEOC scale is now economically meaningful again.
 
-Tape that to the wall. ## 
+Tape that to the wall.
 
-## PHASE TWO THE PRINCIPAL VOICE A Declaration to the GP/LP Cohort You already know the capital is returning.
+PHASE TWO THE PRINCIPAL VOICE A Declaration to the GP/LP Cohort You already know the capital is returning.
 
 The question is whether you hold the posture to receive it.
 
@@ -166,9 +178,11 @@ They are not chasing narratives.
 
 They are guardians of intergenerational obligations.
 
-They invest where cash flows compound predictably over 1
-5 to 3
-0 years.
+They invest where cash flows compound predictably over 
+
+15 to 
+
+30 years.
 
 The NAEOC band offers precisely this: assets that already earn, that can be improved, and that can be scaled without requiring national‑level political indulgence.
 
@@ -188,17 +202,19 @@ A ten‑billion‑dollar megaproject cannot be corrected.
 
 It can only be tolerated.
 
-That is why LPs are returning to you-not out of nostalgia, but out of necessity. ## 
+That is why LPs are returning to you-not out of nostalgia, but out of necessity.
 
-## PHASE THREE THE ## 
+PHASE THREE THE 
 
-## INTERNAL BYPASS Principal‑Level Structural Depth (Fund‑III Positioning) I will give you the deeper mechanics.
+ INTERNAL BYPASS Principal‑Level Structural Depth (Fund‑III Positioning) I will give you the deeper mechanics.
 
 Not the public version.
 
 The vault version. 
 
-1. NAEOC assets are the new “industrial hinge points” The energy transition does not scale through monolithic transformations.
+1.
+
+NAEOC assets are the new “industrial hinge points” The energy transition does not scale through monolithic transformations.
 
 It scales through thousands of hinge points-mid‑market assets whose modernization produces incremental but compounding impacts along the supply chain.
 
@@ -208,7 +224,9 @@ This is the true institutional thesis.
 
 Most people never see it. 
 
-2. NAEOC buyouts convert disorder into yield Disorder produces mispricing.
+2.
+
+NAEOC buyouts convert disorder into yield Disorder produces mispricing.
 
 Mispricing produces opportunity.
 
@@ -222,20 +240,28 @@ That tuning becomes yield.
 
 LPs understand yield. 
 
-3. LPs prefer NAEOC because the exit path is pre‑defined A properly modernized NAEOC asset becomes the perfect bolt‑on target for the large infrastructure funds, which have multibillion allocations but cannot originate mid‑market deals themselves.
+3.
+
+LPs prefer NAEOC because the exit path is pre‑defined A properly modernized NAEOC asset becomes the perfect bolt‑on target for the large infrastructure funds, which have multibillion allocations but cannot originate mid‑market deals themselves.
 
 Your exit is their pipeline.
 
 Their pipeline depends on your discipline. 
 
-4. The cycle is entering the consolidation phase Every industrial transition behaves the same: 
+4.
+
+The cycle is entering the consolidation phase Every industrial transition behaves the same: 
 -  Ideological exuberance 
 -  Capital misallocation 
 -  Asset fatigue 
--  Phase 4: Operational consolidation 
--  Phase 5: Institutional control We are squarely in Phase 
+-  
 
-4. Consolidation demands GPs who can operate, contract, restructure, and optimize.
+### Phase IV: Operational consolidation
+-  
+
+### Phase V: Institutional control We are squarely in Phase 4.
+
+Consolidation demands GPs who can operate, contract, restructure, and optimize.
 
 Infrastructure LPs know this.
 
@@ -243,7 +269,9 @@ They are reallocating capital toward the consolidators.
 
 Fund‑III GPs should position accordingly. 
 
-5. The NAEOC band is where free‑market discipline reasserts primacy Price signals matter again.
+5.
+
+The NAEOC band is where free‑market discipline reasserts primacy Price signals matter again.
 
 Energy assets clear on fundamentals again.
 
@@ -253,7 +281,9 @@ Mid‑market energy assets now behave like industrial enterprises, not policy in
 
 That shift alone is pulling infrastructure allocators back in. 
 
-6. The demand backdrop is irreversible Electrification.
+6.
+
+The demand backdrop is irreversible Electrification.
 
 Grid reinforcement.
 
@@ -341,4 +371,6 @@ We open the door only when the posture is correct.
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

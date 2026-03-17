@@ -32,7 +32,8 @@ Pressure creates truth.
 
 Yield reveals structure.
 
-Sovereign capital-true institutional capital-allocates accordingly. **Proverbs 13:22*
+Sovereign capital-true institutional capital-allocates accordingly. **Proverbs 13:22
+*
 * : A good man leaves an inheritance to his children's children, but the wealth of the sinner is laid up for the righteous.
 
 In institutional terms: durable capital prevails across cycles; transient capital transfers ownership when covenants tighten.
@@ -43,7 +44,9 @@ Below is the architecture that governs Fund‑III hardening, with yield as the c
 
 Capital hardens only when all three are present. 
 
-1. Operational Yield This is the classical layer.
+1.
+
+Operational Yield This is the classical layer.
 
 Cash flow yield.
 
@@ -65,7 +68,9 @@ Fund‑III requires structural sophistication.
 
 Operational yield is necessary, but insufficient. 
 
-2. Jurisdictional Yield This is where outperformance begins.
+2.
+
+Jurisdictional Yield This is where outperformance begins.
 
 Jurisdictional yield is the differential created by regulatory altitude: MiFID II, PRIIPs, AIFMD corridors, Delaware vs.
 
@@ -75,7 +80,9 @@ UAE DIFC stack, statutory lien advantage, repo eligibility, off-balance liquidit
 
 When capital sits inside a high-yield jurisdiction, its hardening curve accelerates without requiring incremental operational risk. 
 
-3. Sovereignty Yield The final layer.
+3.
+
+Sovereignty Yield The final layer.
 
 Sovereignty yield is the degree to which the asset can self-finance through internal reserves, privileged seniority, or strategic control points.
 
@@ -105,7 +112,9 @@ The GP franchise must show control over four variables: velocity, durability, co
 
 Yield links all four. 
 
-1. Velocity Yield is acceleration.
+1.
+
+Velocity Yield is acceleration.
 
 Buyouts fail not from lack of growth, but from insufficient velocity to outrun cost of capital.
 
@@ -113,7 +122,9 @@ A 12% growth trajectory with a 14% weighted cost of capital is terminal.
 
 Yield solves this by creating internal liquidity events that outrun external requirements. 
 
-2. Durability Yield is reinforcement.
+2.
+
+Durability Yield is reinforcement.
 
 A portfolio company with shallow yield layers degrades when input prices rise, rates tighten, or demand shifts.
 
@@ -121,7 +132,9 @@ True yield architecture builds antifragility.
 
 Stress increases strength. 
 
-3. Convertibility Yield becomes liquidity.
+3.
+
+Convertibility Yield becomes liquidity.
 
 Liquidity becomes control.
 
@@ -131,7 +144,9 @@ Bargaining power becomes margin expansion.
 
 Hardening is a conversion process, not a protection process. 
 
-4. Jurisdiction Yield behaves differently across borders.
+4.
+
+Jurisdiction Yield behaves differently across borders.
 
 A 10% yield in Sweden is not the same as a 10% yield in Texas.
 
@@ -176,7 +191,9 @@ Hardening energy assets requires a multi-yield design.
 
 Five yield streams matter: 
 
-1. Extraction Yield: Physical yield.
+1.
+
+Extraction Yield: Physical yield.
 
 Flowing barrels.
 
@@ -188,7 +205,9 @@ Hard numbers.
 
 No negotiation. 
 
-2. Hedging Yield: Derivative overlays.
+2.
+
+Hedging Yield: Derivative overlays.
 
 Calendar strips.
 
@@ -196,7 +215,9 @@ Structured collars.
 
 The point is not protection; the point is monetization of volatility asymmetry. 
 
-3. Infrastructure Yield: Pipelines.
+3.
+
+Infrastructure Yield: Pipelines.
 
 Gathering systems.
 
@@ -204,7 +225,9 @@ Storage rights.
 
 The most durable yield in the system. 
 
-4. Regulatory Yield: NAEOC advantages.
+4.
+
+Regulatory Yield: NAEOC advantages.
 
 Emissions-credit positioning.
 
@@ -214,7 +237,9 @@ Regulation is yield.
 
 Most overlook this. 
 
-5. Sovereignty Yield: Local operator control.
+5.
+
+Sovereignty Yield: Local operator control.
 
 Midstream negotiation leverage.
 
@@ -251,7 +276,9 @@ Fund‑III capital is discriminating because LPs are no longer betting on GP pot
 
 Three LP acquisition criteria linked directly to yield: 
 
-1. Demonstrated multi-yield layering.
+1.
+
+Demonstrated multi-yield layering.
 
 LPs want assets with stacked yield, not single-stream yield.
 
@@ -259,7 +286,9 @@ Multi-layer yield proves resilience.
 
 Single-stream yield proves exposure. 
 
-2. Yield that survives capital compression.
+2.
+
+Yield that survives capital compression.
 
 LPs test the asset under 200,400bps rate elevation.
 
@@ -267,7 +296,9 @@ If yield collapses, GP credibility collapses.
 
 Hardened assets maintain or expand yield under stress. 
 
-3. Yield that compounds LP sovereignty.
+3.
+
+Yield that compounds LP sovereignty.
 
 The LP community is shifting from passive allocations to negotiated influence.
 
@@ -303,13 +334,19 @@ No cosmetic reengineering.
 
 Every mandate begins with three moves: 
 
-1. Yield Mapping We chart every yield stream: core, ancillary, jurisdictional, latent.
+1.
+
+Yield Mapping We chart every yield stream: core, ancillary, jurisdictional, latent.
 
 We quantify reinforcement points and breach points. 
 
-2. Yield Conversion We transform passive yield into active yield: collateralized, securitized, monetized, hedged, or leveraged through controlled seniority. 
+2.
 
-3. Yield Fortification We compress leakage.
+Yield Conversion We transform passive yield into active yield: collateralized, securitized, monetized, hedged, or leveraged through controlled seniority. 
+
+3.
+
+Yield Fortification We compress leakage.
 
 We strengthen governance.
 
@@ -357,12 +394,17 @@ There is only one next step.
 
 Request a confidential capital audit.
 
-Technical metric: Target structural yield density ≥ 1.8
-5 across all Fund‑III assets. # 
+Technical metric: Target structural yield density ≥ 1.
+
+85 across all Fund‑III assets.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

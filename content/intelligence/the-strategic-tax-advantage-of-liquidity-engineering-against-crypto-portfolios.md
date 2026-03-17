@@ -168,11 +168,17 @@ They protect the architecture.
 
 ## Where the Tax Benefit Actually Materializes 
 
-1. Liquidity Events balance sheet optimization against a crypto portfolio allows the client to access liquidity for real estate, private investments, operating companies, and other opportunities, without triggering tax. 
+1.
 
-2. Market Expansion If the underlying asset appreciates, the investor benefits from compounding returns while maintaining full control over exposure. 
+Liquidity Events balance sheet optimization against a crypto portfolio allows the client to access liquidity for real estate, private investments, operating companies, and other opportunities, without triggering tax. 
 
-3. Long-Term Deferral Many high net worth strategies hinge on tax deferral. balance sheet optimization extends the deferral into multi-year or multi-decade cycles.
+2.
+
+Market Expansion If the underlying asset appreciates, the investor benefits from compounding returns while maintaining full control over exposure. 
+
+3.
+
+Long-Term Deferral Many high net worth strategies hinge on tax deferral. balance sheet optimization extends the deferral into multi-year or multi-decade cycles.
 
 The tax benefit is not hypothetical.
 
@@ -218,7 +224,9 @@ This evolution supports long-term adoption of crypto-backed Asset-Backed Framewo
 
 The practice is no longer emergent.
 
-It is now part of the standard toolkit for high net worth and ultra high net worth investors. ## ## 
+It is now part of the standard toolkit for high net worth and ultra high net worth investors. 
+
+ 
 
 ## CONCLUSION
 
@@ -228,11 +236,15 @@ It is a structural advantage baked into the logic of capital gains law.
 
 For investors operating above the two million dollar threshold, the model is superior to selling almost every time.
 
-ROIALS CAPITAL provides the institutional architecture to execute this strategy with high trust and high precision. # 
+ROIALS CAPITAL provides the institutional architecture to execute this strategy with high trust and high precision.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

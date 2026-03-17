@@ -90,4 +90,6 @@ It's the controlling architecture.
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

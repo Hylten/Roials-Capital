@@ -93,11 +93,15 @@ Asset hardening is the architecture that ensures the present is protected and th
 
 ROIALS CAPITAL delivers that architecture for those who require institutional grade infrastructure without institutional friction. 
 
-## Request confidential audit # 
+## Request confidential audit
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

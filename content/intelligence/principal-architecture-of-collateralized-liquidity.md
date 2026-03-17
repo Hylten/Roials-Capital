@@ -120,7 +120,9 @@ Most sponsors try to flatten the grid into linear workflows.
 
 The result is mispriced collateral, inefficient liquidity, and delayed execution. 
 
-1. Asset Intelligence This is the structural understanding of what the asset is, what it can become, and what the market will underwrite against it.
+1.
+
+Asset Intelligence This is the structural understanding of what the asset is, what it can become, and what the market will underwrite against it.
 
 Not every asset is a liquidity-bearing asset.
 
@@ -136,7 +138,9 @@ Optionality is the real currency of private credit.
 
 Collateral is merely its expression. 
 
-2. Jurisdictional Intelligence Collateral behaves differently in Delaware, Alberta, Luxembourg, or Singapore.
+2.
+
+Jurisdictional Intelligence Collateral behaves differently in Delaware, Alberta, Luxembourg, or Singapore.
 
 Enforcement rights vary.
 
@@ -164,7 +168,9 @@ And every portfolio eventually experiences stress.
 
 That is the nature of cycles. 
 
-3. Temporal Intelligence The liquidity needs of a buyout differ from those of an add-on.
+3.
+
+Temporal Intelligence The liquidity needs of a buyout differ from those of an add-on.
 
 Pre-close liquidity behaves differently from post-close liquidity.
 
@@ -346,4 +352,6 @@ Close the briefing.
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -163,7 +163,9 @@ Collateral thresholds reinforce that stability.
 
 For crypto Institutional Liquidity Paths, our minimum threshold is 2,000, 
 
-000. This threshold filters for maturity.
+000.
+
+This threshold filters for maturity.
 
 It ensures the conversation stays institutional.
 
@@ -171,7 +173,9 @@ It removes the volatility of retail behavior.
 
 For public share Asset-Backed Frameworks, our minimum threshold is 5,000, 
 
-000. This preserves liquidity integrity.
+000.
+
+This preserves liquidity integrity.
 
 It ensures that the asset class functions as collateral rather than speculation.
 
@@ -339,11 +343,15 @@ Not negotiated.
 
 Executed.
 
-To evaluate how your assets align with institutional private credit rules, request confidential audit. # 
+To evaluate how your assets align with institutional private credit rules, request confidential audit.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

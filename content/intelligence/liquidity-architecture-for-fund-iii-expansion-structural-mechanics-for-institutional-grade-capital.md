@@ -46,11 +46,17 @@ It is about structure.
 
 The architecture of liquidity at Roials Capital is shaped by three principles. 
 
-1. Collateral integrity across cycles. 
+1.
 
-2. Velocity control through measured liquidity facility to value. 
+Collateral integrity across cycles. 
 
-3. A foundation built on principal authority, not promotional noise.
+2.
+
+Velocity control through measured liquidity facility to value. 
+
+3.
+
+A foundation built on principal authority, not promotional noise.
 
 Markets reward structures that remain coherent under stress.
 
@@ -102,7 +108,9 @@ This is the institutional threshold that defines our approach.
 
 Our minimum threshold is 2,000, 
 
-000. This preserves structural integrity.
+000.
+
+This preserves structural integrity.
 
 It allows us to maintain institutional level underwriting while avoiding the volatility contamination that occurs in small sized crypto credit portfolios.
 
@@ -118,10 +126,14 @@ Crypto is not the frontier.
 
 Crypto is simply another collateral class when treated with correct architectural discipline. 
 
-## Public Share Strategic Collateralization and the 5,000,00
+## Public Share Strategic Collateralization and the 5,000,
+
+00
 0 Threshold Public share Strategic Collateralization in Fund-III begins at 5,000, 
 
-000. This threshold is not arbitrary.
+000.
+
+This threshold is not arbitrary.
 
 It is the point where the quality of equity holdings aligns with our liquidity architecture.
 
@@ -196,11 +208,17 @@ Roials Capital positions itself between these extremes.
 
 Risk engineering in Fund-III operates with three pillars. 
 
-1. Structural integrity of collateral classes. 
+1.
 
-2. Behavioral modeling of asset volatility under stress. 
+Structural integrity of collateral classes. 
 
-3. Multi tier exposure evaluation across time horizons.
+2.
+
+Behavioral modeling of asset volatility under stress. 
+
+3.
+
+Multi tier exposure evaluation across time horizons.
 
 These principles allow the fund to absorb liquidity shocks without constriction.
 
@@ -270,7 +288,9 @@ The architecture is the defense.
 
 The architecture is also the advantage.
 
-It is the reason Fund-III can expand without diluting quality. ## ## 
+It is the reason Fund-III can expand without diluting quality. 
+
+ 
 
 ## CONCLUSION
 
@@ -282,11 +302,15 @@ Fund-III represents the next evolution of that discipline.
 
 A liquidity architecture built for HNWI and UHNW participants who require stability, precision, and structural authority.
 
-If your capital framework requires institutional liquidity with architectural clarity, request confidential audit. # 
+If your capital framework requires institutional liquidity with architectural clarity, request confidential audit.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

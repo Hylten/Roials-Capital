@@ -48,7 +48,8 @@ Mobility is leverage.
 
 Leverage is jurisdictional geometry.
 
-Geometry is power. **Proverbs 13:22*
+Geometry is power. **Proverbs 13:22
+*
 * : A good man leaves an inheritance to his children’s children: but the wealth of the sinner is laid up for the just.
 
 Sovereign architecture begins there. 
@@ -66,7 +67,9 @@ Modern LP movement vectors are:
 -  Enforcement options 
 -  Downside padding 
 -  Asset-to-liability translation speed 
--  Operational grip in first 12
+-  Operational grip in first 
+
+12
 0 days post-close We treat capital as a protocol, not an invitation.
 
 The institutional buyer-allocator ecosystem rewards engineered clarity.
@@ -89,8 +92,9 @@ In practice this reduces to four levers:
 -  Capital mobility 
 -  Regulatory arbitrage 
 -  Counterparty diversification 
--  Enforcement architecture Capital mobility is the ability to move dry powder or converted assets across borders, sectors, and vehicles in under 1
-4 days.
+-  Enforcement architecture Capital mobility is the ability to move dry powder or converted assets across borders, sectors, and vehicles in under 
+
+14 days.
 
 Regulatory arbitrage is the calibrated use of MiFID II, AIFMD, Delaware shields, Channel Islands vaults, and Gulf‑zone carve‑outs for energy acquisitions.
 
@@ -110,11 +114,17 @@ Both require speed.
 
 Institutional velocity depends on three steps: 
 
-1. Pre‑clear regulatory lanes 
+1.
 
-2. Pre‑underwrite operational restructuring 
+Pre‑clear regulatory lanes 
 
-3. Encode exit math into day-one governance Speed wins only when control is locked.
+2.
+
+Pre‑underwrite operational restructuring 
+
+3.
+
+Encode exit math into day-one governance Speed wins only when control is locked.
 
 Add‑ons within Fund‑III will target operationally misaligned but cash‑convertible units within industrials, energy services, logistics, and asset‑heavy specialties.
 
@@ -178,7 +188,9 @@ Monetization Architecture eliminates timing risk, the most corrosive risk of all
 
 ## SPECIAL MANDATES (10%): 
 
-1. NAEOC ENERGY (50M,250M mandates) Energy is not a sector.
+1.
+
+NAEOC ENERGY (50M,250M mandates) Energy is not a sector.
 
 Energy is civilization's spine.
 
@@ -191,7 +203,9 @@ Mandates here require:
 
 Perfect for Fund‑III adjacency. 
 
-2. EU MIFID II ACQUISITIONS Regulatory coherence defeats operational friction.
+2.
+
+EU MIFID II ACQUISITIONS Regulatory coherence defeats operational friction.
 
 MiFID II corridors offer acquisition-grade transparency, cross‑border passporting, and deterministic oversight.
 
@@ -407,12 +421,17 @@ Engineered sovereignty is
 
 ## REQUEST For LP/GP alignment, cross‑jurisdictional preparation, and mandate intake, initiate a confidential capital audit.
 
-Terminal Metric: Enforcement Latency Target = <7
-2 hours. # 
+Terminal Metric: Enforcement Latency Target = <
+
+72 hours.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

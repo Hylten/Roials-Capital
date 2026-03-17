@@ -16,12 +16,13 @@ This briefing outlines the Sovereign Capital Architecture: the framework Roials 
 
 The objective is to provide allocators with a clinical understanding of the regime change in private markets, its technical implications, and the architecture required for multi-generational liquidity design.
 
-The content is constructed for institutional LPs, family offices, and GP stewards operating at the upper end of the capital stack. ## ## ## ## ## 
+The content is constructed for institutional LPs, family offices, and GP stewards operating at the upper end of the capital stack.
 
-## THE REGIME SHIFT
+THE REGIME SHIFT
 
- The private market environment entered a structural regime shift in 202
-2 when global rate normalization broke legacy valuation heuristics.
+ The private market environment entered a structural regime shift in 20
+
+22 when global rate normalization broke legacy valuation heuristics.
 
 The following dynamics now define the allocator landscape: 
 -  Declining suitability of growth equity due to rising cost of carry 
@@ -30,11 +31,17 @@ The following dynamics now define the allocator landscape:
 -  Reallocation of sovereign and pension capital from risk-weighted assets to hard-asset strategies 
 -  Persistent underinvestment in North American upstream supply creating multi-year production deficits The operational effect is a capital vacuum measurable across three primary corridors: 
 
-1. Middle market buyouts with fragmented balance sheets and non-synchronised capital structures 
+1.
 
-2. Private credit markets constrained by traditional underwriting frameworks 
+Middle market buyouts with fragmented balance sheets and non-synchronised capital structures 
 
-3. Conventional oil assets where production physics are ignored due to political misalignment The vacuum does not indicate scarcity of opportunity.
+2.
+
+Private credit markets constrained by traditional underwriting frameworks 
+
+3.
+
+Conventional oil assets where production physics are ignored due to political misalignment The vacuum does not indicate scarcity of opportunity.
 
 It represents a misalignment between policy-driven capital flows and the mechanical realities of industrial assets.
 
@@ -48,9 +55,9 @@ Mid-market acquisition pathways that once relied on bank syndication now increas
 
 This regime shift is not cyclical.
 
-It is structural. ## ## ## ## ## 
+It is structural.
 
-## TECHNICAL MECHANICS
+TECHNICAL MECHANICS
 
  The Sovereign Capital Architecture is rooted in technical precision.
 
@@ -60,9 +67,11 @@ The following sections outline both the energy mechanics relevant to NAEO mandat
 
 ENERGY SYSTEM MECHANICS (NAEO MANDATE) The Alberta heavy oil domain operates on established physical principles. 
 -  SAGD, CSS, and waterflood systems provide predictable, physics-governed decline curves 
--  Recovery factors in conventional reservoirs often reach 1
-2 percent to 1
-8 percent with strong improvement potential when proper steam dynamics and reservoir management are applied 
+-  Recovery factors in conventional reservoirs often reach 
+
+12 percent to 
+
+18 percent with strong improvement potential when proper steam dynamics and reservoir management are applied 
 -  Vertical wellbores create a naturally constrained interference pattern, reducing variance and improving operational predictability 
 -  Heavy oil pricing is increasingly detached from legacy WCS discount logic due to logistics optimization and refinery configuration adjustments In these parameters, NAEO operates a closed model focused on: 
 -  Shallow conventional reservoirs with long production histories 
@@ -70,9 +79,9 @@ ENERGY SYSTEM MECHANICS (NAEO MANDATE) The Alberta heavy oil domain operates on 
 -  Engineering-led optimization delivering stable, measurable uplift 
 -  Field-level operating continuity and modular expansion pathways This results in an asset class defined not by exploration uncertainty but by engineering precision.
 
-The ## 
+The 
 
-## TECHNICAL MECHANICS
+ TECHNICAL MECHANICS
 
  resemble industrial optimization rather than speculative drilling.
 
@@ -91,7 +100,9 @@ The modern European and North American private markets reward those who can opti
 -  LTV curves modulated against real-rate environments 
 -  Asset hardening for covenant compliance and downside protection The Sovereign Capital Architecture applies these mechanics in three specific domains: 
 
-1. Fund-III Buyouts and Add-Ons Buyout strategy increasingly depends on operational reconfiguration rather than multiple expansion.
+1.
+
+Fund-III Buyouts and Add-Ons Buyout strategy increasingly depends on operational reconfiguration rather than multiple expansion.
 
 Capital structures must be designed with: 
 -  Balanced leverage appropriate for a non-speculative rate regime 
@@ -99,10 +110,13 @@ Capital structures must be designed with:
 -  Realistic EBITDA normalization assumptions 
 -  Structured seniority for institutional clarity 
 
-2. ABL and Liquidity Engineering ABL is no longer a commodity product.
+2.
 
-Post-202
-3 regulatory shifts require: 
+ABL and Liquidity Engineering ABL is no longer a commodity product.
+
+Post-20
+
+23 regulatory shifts require: 
 -  Higher collateral quality 
 -  More robust audit trails 
 -  Stronger cash dominion structures 
@@ -110,7 +124,9 @@ Post-202
 
 The Sovereign Capital Architecture resolves these vulnerabilities. 
 
-3. Special Mandates and Sovereign Alignment Special Mandates such as: 
+3.
+
+Special Mandates and Sovereign Alignment Special Mandates such as: 
 -  NAEO mandates in the 50M to 250M range 
 -  MiFID II compliant acquisition pathways 
 -  Cross-border liquidity corridors through Switzerland, UAE, and the Nordics require hybrid structures calibrated to sovereign and institutional governance standards.
@@ -123,17 +139,23 @@ They define allocator performance across entire business cycles.
 
 The institutional mandate is threefold: 
 
-1. Introduce allocators to operators with proven execution architecture 
+1.
 
-2. Architect capital structures that can survive multi-cycle volatility 
+Introduce allocators to operators with proven execution architecture 
 
-3. Ensure that stewardship-driven capital is deployed into assets with measurable physics or stable cash conversion NAEO is the prime example in the energy corridor.
+2.
+
+Architect capital structures that can survive multi-cycle volatility 
+
+3.
+
+Ensure that stewardship-driven capital is deployed into assets with measurable physics or stable cash conversion NAEO is the prime example in the energy corridor.
 
 NAEO's operational track record and field-level intelligence meet institutional governance expectations.
 
-Roials Capital provides the institutional ## 
+Roials Capital provides the institutional 
 
-## INTRODUCTION
+ INTRODUCTION
 
  and alignment calibration.
 
@@ -143,13 +165,14 @@ The objective is alignment.
 
 The institution maintains no dependency on transactional volume.
 
-This neutrality is what differentiates a capital partner from a capital seeker. ## ## ## ## ## 
+This neutrality is what differentiates a capital partner from a capital seeker.
 
-## THE STEWARDSHIP FILTER The Sovereign Capital Architecture sits within a stewardship philosophy.
+THE STEWARDSHIP FILTER The Sovereign Capital Architecture sits within a stewardship philosophy.
 
 Stewardship is the discipline of non-wasteful resource management.
 
-It is rooted in the principle that capital must strengthen households, communities, and intergenerational stability. **Proverbs 13:22*
+It is rooted in the principle that capital must strengthen households, communities, and intergenerational stability. **Proverbs 13:22
+*
 * establishes the template: A good person leaves an inheritance to their children's children.
 
 This is not a statement of sentiment.
@@ -164,11 +187,13 @@ Under this stewardship framework:
 
 It is risk measurement.
 
-It is the obligation to deploy capital where ## 
+It is the obligation to deploy capital where 
 
-## TECHNICAL MECHANICS
+ TECHNICAL MECHANICS
 
- can be verified and operational execution has institutional fidelity. ## ## 
+ can be verified and operational execution has institutional fidelity. 
+
+ 
 
 ## PORTFOLIO CALIBRATION LENS Institutional allocators require a decision-making lens that recognizes the structural regime shift.
 
@@ -185,4 +210,6 @@ Whether via Fund-III buyout structures, Special Mandates, or institutional intro
 
 Allocators requiring a technical audit of their current exposure, cross-border architecture, or energy allocation posture may initiate a Confidential Strategy Audit to determine alignment with the Sovereign Capital Architecture.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

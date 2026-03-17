@@ -50,7 +50,9 @@ Today, risk is redistributed by legislative motion.
 
 That makes geographic concentration the new exposure.
 
-Enforcement timelines now vary by more than 60
+Enforcement timelines now vary by more than 
+
+60
 0 percent across OECD adjacent markets.
 
 Currency defence strategies diverge by ideological preference rather than macro fundamentals.
@@ -80,9 +82,9 @@ We do not chase yield.
 
 We chase enforceability.
 
-That is ## 
+That is 
 
-## THE REGIME SHIFT
+ THE REGIME SHIFT
 
  . # Asset hardening is not branding.
 
@@ -102,9 +104,11 @@ LTV curves.
 
 Cross-border LTV dynamics behave differently because recovery velocity becomes a more defining variable than asset class quality.
 
-A 5
-2 percent LTV in a high recovery jurisdiction may outperform a 3
-5 percent LTV in a slow enforcement jurisdiction.
+A 
+
+52 percent LTV in a high recovery jurisdiction may outperform a 
+
+35 percent LTV in a slow enforcement jurisdiction.
 
 That contradicts traditional conservatism.
 
@@ -124,8 +128,9 @@ This makes interim valuations largely irrelevant.
 
 Time to trigger and time to transfer are the only variables that matter.
 
-Our Fund-III underwriting model applies a penalty coefficient for any jurisdiction where the trigger timeline exceeds 9
-0 days or where registry transparency includes manual filing.
+Our Fund-III underwriting model applies a penalty coefficient for any jurisdiction where the trigger timeline exceeds 
+
+90 days or where registry transparency includes manual filing.
 
 Cash-flow waterfalls require similar discipline.
 
@@ -225,15 +230,20 @@ It is the opposite of opportunism.
 
 Opportunism is brittle.
 
-Architecture is durable. # ## ## ## ## ## 
+Architecture is durable. # 
 
-## THE STEWARDSHIP FILTER Stewardship is not an analogy.
+ 
+
+ 
+
+ THE STEWARDSHIP FILTER Stewardship is not an analogy.
 
 It is a command.
 
 Wealth requires governance because resources left ungoverned decay.
 
-Biblical stewardship elevates clarity above spectacle. **Proverbs 13:22*
+Biblical stewardship elevates clarity above spectacle. **Proverbs 13:22
+*
 * describes the continuity of ordered capital across generations.
 
 That is the standard.
@@ -264,7 +274,9 @@ A steward understands that capital is not a possession.
 
 It is a trust.
 
-The cross-border hardening model is simply the institutional expression of that trust. # ## ## 
+The cross-border hardening model is simply the institutional expression of that trust. # 
+
+ 
 
 ## EXIT Exit discipline requires measurable thresholds.
 
@@ -273,11 +285,15 @@ Fund-III uses three:
 -  Cash-Flow Continuity Index anchored to operational uptime across jurisdictions. 
 -  Recovery Certainty Ratio calibrated to the lowest performing jurisdiction.
 
-Request a confidential capital audit. [END] # 
+Request a confidential capital audit. [END]
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

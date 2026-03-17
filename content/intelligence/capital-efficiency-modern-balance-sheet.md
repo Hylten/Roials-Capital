@@ -14,12 +14,15 @@ Surface narratives still revolve around decarbonization cycles, while subsurface
 
 The divergence is measurable.
 
-It has become one of the most powerful sources of balance sheet optimization available to institutional allocators navigating the 202
-6 landscape. 
+It has become one of the most powerful sources of balance sheet optimization available to institutional allocators navigating the 20
 
-## PHASE 
+26 landscape.
 
-1. ## ## ## ## 
+Phase I: .
+
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
@@ -51,20 +54,25 @@ The arbitrage is highest in sectors where capital retreat has been ideological r
 
 This macro backdrop has driven a regime in which capital efficiency is no longer a secondary optimization.
 
-It is the governing principle of modern balance sheet design. 
+It is the governing principle of modern balance sheet design.
 
-## PHASE 
+Phase II: .
 
-2. ## ## ## ## 
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
- Capital efficiency in 202
-6 is measured through structural mechanics rather than headline yield.
+ Capital efficiency in 20
+
+26 is measured through structural mechanics rather than headline yield.
 
 The most resilient allocators recalibrate their balance sheets across three technical vectors: Core Holdings Leverage, Capital Structuring, and Hard Asset Introductions. 
 
-1. Core Holdings Leverage The modern GP utilizes capital efficiency to create strategic surface area without introducing destabilizing leverage.
+1.
+
+Core Holdings Leverage The modern GP utilizes capital efficiency to create strategic surface area without introducing destabilizing leverage.
 
 Core holdings are no longer static assets.
 
@@ -94,7 +102,9 @@ Over-collateralization increases stability but erodes Opportunity Velocity.
 
 The optimal structure balances asset hardening with maneuverability. 
 
-2. Capital Structuring for Institutional Steadiness Strategic Collateralization has evolved into a specialized discipline.
+2.
+
+Capital Structuring for Institutional Steadiness Strategic Collateralization has evolved into a specialized discipline.
 
 It sits at the intersection of treasury architecture, private credit structuring, and operational forecasting.
 
@@ -116,7 +126,9 @@ Third, create capital neutrality during transitional periods.
 
 Transitional neutrality allows the GP to methodically pace its acquisition strategy without exposing the portfolio to liquidity compression. 
 
-3. Hard Asset Introductions in North American Energy In energy, capital efficiency is profoundly technical.
+3.
+
+Hard Asset Introductions in North American Energy In energy, capital efficiency is profoundly technical.
 
 Operators in Western Canada, particularly heavy oil producers, operate within subsurface regimes that reward disciplined steam management, reservoir pressure balance, and predictable decline profiles.
 
@@ -130,9 +142,11 @@ For example:
 -  SAGD pairs horizontal wellbores to create controlled gravity drainage. 
 -  CSS employs cyclic steam pulses to remobilize heavy oil at predictable intervals. 
 -  Decline curves in these operations are governed by reservoir pressure differentials rather than pure depletion. 
--  Recovery factors are calculable within narrow ranges, often between 2
-0 percent and 6
-0 percent depending on reservoir structure and thermal performance.
+-  Recovery factors are calculable within narrow ranges, often between 
+
+20 percent and 
+
+60 percent depending on reservoir structure and thermal performance.
 
 This predictability creates balance sheet stability.
 
@@ -142,11 +156,11 @@ Our strategic partner, NAEO, operates within this environment.
 
 Their focus is on operators with established reservoir histories, measurable recovery factors, and predictable maintenance programs.
 
-These features allow institutional allocators to analyze operational integrity rather than speculative upside. 
+These features allow institutional allocators to analyze operational integrity rather than speculative upside.
 
-## PHASE 
+Phase III: .
 
-3. THE PARTNERSHIP MODEL Roials Capital functions as a strategic navigator and institutional introducer across three domains: Fund-III capital raising, Strategic Collateralization, and special mandates in energy and cross-border acquisitions.
+THE PARTNERSHIP MODEL Roials Capital functions as a strategic navigator and institutional introducer across three domains: Fund-III capital raising, Strategic Collateralization, and special mandates in energy and cross-border acquisitions.
 
 In private equity, we create clarity around capital stack optimization, cross-border readiness, and acquisition pacing.
 
@@ -168,13 +182,11 @@ NAEO manages the reservoirs.
 
 Roials Capital provides the institutional translation layer, helping allocators understand Alberta’s basin physics, operational regimes, and capital flow inefficiencies.
 
-This partnership model allows allocators to navigate complex environments with technical clarity rather than promotional noise. 
+This partnership model allows allocators to navigate complex environments with technical clarity rather than promotional noise.
 
-## PHASE 
+Phase IV: .
 
-4. ## 
-
-## THE STEWARDSHIP FILTER Stewardship is an exercise in non wasteful capital management.
+THE STEWARDSHIP FILTER Stewardship is an exercise in non wasteful capital management.
 
 It aligns balance sheet behavior with long term institutional preservation.
 
@@ -182,37 +194,47 @@ The modern allocator treats stewardship as both a moral and operational discipli
 
 Stewardship principles include: 
 
-1. Non wasteful leverage utilization.
+1.
+
+Non wasteful leverage utilization.
 
 Leverage is a tool for time management, not acceleration.
 
 Allocators that apply leverage to create strategic time windows outperform those who use leverage for speculative amplification. 
 
-2. Preservation of capital optionality.
+2.
+
+Preservation of capital optionality.
 
 Optionality is the most undervalued asset in private markets.
 
 Stewardship elevates optionality to an operational priority. 
 
-3. Transparency in structural seniority.
+3.
+
+Transparency in structural seniority.
 
 Seniority is a legal fact, not a marketing headline.
 
 Stewardship requires clarity on cross collateralization, subordinated positions, and waterfall priority. 
 
-4. Alignment with durable assets.
+4.
+
+Alignment with durable assets.
 
 Hard assets with measurable utility and predictable decline profiles create balance sheet durability.
 
-This is consistent with **Proverbs 13:22*
+This is consistent with **Proverbs 13:22
+*
 * , which anchors stewardship in generational capital behavior.
 
-Stewardship transforms the balance sheet from a transactional instrument into a long horizon strategic platform. 
+Stewardship transforms the balance sheet from a transactional instrument into a long horizon strategic platform.
 
-## PHASE 
+Phase V: .
 
-5. DECISION-MAKING LENS FOR THE ALLOCATOR The allocator operating in 202
-6 faces an environment defined by volatility at the surface and stability in the subsurface.
+DECISION-MAKING LENS FOR THE ALLOCATOR The allocator operating in 20
+
+26 faces an environment defined by volatility at the surface and stability in the subsurface.
 
 Capital efficiency becomes the bridge between the two.
 
@@ -229,11 +251,15 @@ It strengthens acquisition readiness.
 
 It increases Opportunity Velocity without destabilizing the equity foundation.
 
-Roials Capital supports allocators seeking disciplined clarity, technical accuracy, and structural alignment across their Fund-III roadmap, liquidity frameworks, and energy introductions. [END OF BRIEFING] # 
+Roials Capital supports allocators seeking disciplined clarity, technical accuracy, and structural alignment across their Fund-III roadmap, liquidity frameworks, and energy introductions. [END OF BRIEFING]
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

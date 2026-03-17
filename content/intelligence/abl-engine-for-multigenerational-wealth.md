@@ -20,7 +20,8 @@ A chassis, not an account.
 
 A system, not a hope.
 
-Legacy families understood the principle before modern financial engineering gave it language. **Proverbs 13:22*
+Legacy families understood the principle before modern financial engineering gave it language. **Proverbs 13:22
+*
 * describes 
 
 ## THE MANDATE
@@ -345,13 +346,17 @@ The market demands velocity.
 
 ## THE MANDATE
 
- is clear. # 
+ is clear.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

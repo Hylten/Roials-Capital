@@ -14,13 +14,15 @@ Capital entered.
 
 Infrastructure did not.
 
-That is the opportunity. ## 
+That is the opportunity.
 
-## THE REGIME SHIFT
+THE REGIME SHIFT
 
  The private credit landscape has moved into a regime defined by three non-negotiable forces. 
 
-1. Bank retrenchment created a permanent vacuum in sponsor finance.
+1.
+
+Bank retrenchment created a permanent vacuum in sponsor finance.
 
 Basel III liquidity coverage ratios forced regulated banks away from sub 250M enterprise value exposures.
 
@@ -30,7 +32,9 @@ It is regulatory.
 
 It is locked in. 
 
-2. Sponsor velocity increased while diligence windows compressed.
+2.
+
+Sponsor velocity increased while diligence windows compressed.
 
 Traditional credit committees still operate on a legacy cadence.
 
@@ -40,7 +44,9 @@ They transact at speed.
 
 The ability to issue certainty of close is now worth more than the cheapest cost of capital. 
 
-3. Duration is shortening.
+3.
+
+Duration is shortening.
 
 Covenant creativity is rising.
 
@@ -66,17 +72,19 @@ That opacity is where disciplined firms extract permanent advantage.
 
 ROIALS CAPITAL states the position clearly: the middle market is the most asymmetric risk adjusted credit opportunity available today.
 
-We operate where complexity deters slower capital. ## 
+We operate where complexity deters slower capital.
 
-## TECHNICAL MECHANICS
+TECHNICAL MECHANICS
 
  Middle-market private credit performance is determined by three mechanical elements: LTV discipline, cash flow visibility, and recovery velocity.
 
 When these triage points are engineered correctly, you remove noise and build mathematically predictable outcomes.
 
-Loan-to-Value Curves: The institutional threshold for stability in this segment is a 3
-5 to 5
-5 percent LTV corridor.
+Loan-to-Value Curves: The institutional threshold for stability in this segment is a 
+
+35 to 
+
+55 percent LTV corridor.
 
 Sponsors push for more leverage.
 
@@ -100,13 +108,17 @@ Predictability outranks aggressiveness.
 
 Recovery Factors: Middle-market recoveries are consistently stronger than large-cap recoveries because asset specificity is higher and operational engagement is more intimate.
 
-Median senior secured recoveries in our operative range run at 7
-0 to 8
-2 percent when Asset-Based Lending structures are embedded.
+Median senior secured recoveries in our operative range run at 
 
-Without Asset-Based Lending mechanics, recovery reverts closer to 5
-5 to 6
-5 percent.
+70 to 
+
+82 percent when Asset-Based Lending structures are embedded.
+
+Without Asset-Based Lending mechanics, recovery reverts closer to 
+
+55 to 
+
+65 percent.
 
 Capital Structuring raises the floor.
 
@@ -130,8 +142,9 @@ The assets are still needed.
 
 Structured credit fills the vacuum.
 
-Core recovery stems from PV1
-0 validated reserve values, predictable decline curves, and disciplined hedging overlays.
+Core recovery stems from PV
+
+10 validated reserve values, predictable decline curves, and disciplined hedging overlays.
 
 The segment is not speculative.
 
@@ -147,9 +160,9 @@ Firms with internal compliance architecture can move faster and gain price lever
 
 The capacity to close where others cannot is itself a return driver.
 
-The ## 
+The 
 
-## STRATEGIC MODEL
+ STRATEGIC MODEL
 
  ROIALS CAPITAL operates with a singular institutional objective: raise and deploy capital into Fund-III structures designed for mid-market buyouts, add-ons, and operating platform consolidation.
 
@@ -201,11 +214,15 @@ Special Mandates: Another ten percent of our mandate centers on special opportun
 
 Two categories dominate: 
 
-1. NAEOC energy credit between 50M and 250M.
+1.
+
+NAEOC energy credit between 50M and 250M.
 
 Depletion-based assets with measurable cash flow profiles. 
 
-2. MiFID II regulated acquisitions.
+2.
+
+MiFID II regulated acquisitions.
 
 European consolidations that require regulatory fluency and disciplined closing architecture.
 
@@ -215,7 +232,7 @@ They punish firms that chase yield without structural mastery.
 
 ROIALS CAPITAL belongs to the first group.
 
-Phase 4: The Stewardship Filter Capital is not sovereign.
+Phase IV: The Stewardship Filter Capital is not sovereign.
 
 It is held in trust.
 
@@ -227,12 +244,15 @@ Disorder dilutes collateral integrity.
 
 Stewardship is not an ethical layer on top of strategy.
 
-It is strategy. **Proverbs 13:22*
+It is strategy. **Proverbs 13:22
+*
 * anchors the thesis: wealth passes through generations when stewardship is disciplined, not impulsive.
 
 The stewardship filter operates through three commitments. 
 
-1. Allocation discipline.
+1.
+
+Allocation discipline.
 
 We do not stretch structures to fit sponsor requests.
 
@@ -240,7 +260,9 @@ Capital does not bend.
 
 Structures do. 
 
-2. Operational clarity.
+2.
+
+Operational clarity.
 
 We expect management teams to operate with measurable cadence.
 
@@ -248,7 +270,9 @@ When lag appears, intervention is immediate.
 
 Not reactive. 
 
-3. Covenant integrity.
+3.
+
+Covenant integrity.
 
 Covenants are not guardrails.
 
@@ -266,21 +290,27 @@ It is deployed for continuity.
 
 That continuity is engineered, not assumed.
 
-Phase 5: Exit Yield without velocity is idle.
+Phase V: Exit Yield without velocity is idle.
 
 Velocity without structure is reckless.
 
 We engineer both through a Fund-III architecture targeting a 1.
 5 to 1.
-8 times MOIC on senior-secured middle-market exposure with a 3
-6 to 4
-8 month duration band.
+8 times MOIC on senior-secured middle-market exposure with a 
 
-Request a confidential capital audit to determine alignment with Fund-III deployment parameters. # 
+36 to 
+
+48 month duration band.
+
+Request a confidential capital audit to determine alignment with Fund-III deployment parameters.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -16,7 +16,11 @@ That mismatch defines the current regime.
 
 It punishes slow mandates.
 
-It rewards engineered velocity. ## ## ## ## 
+It rewards engineered velocity. 
+
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
@@ -86,7 +90,11 @@ They architect systems instead of outsourcing them.
 
 The result is agency.
 
-The result is precision. ## ## ## ## 
+The result is precision. 
+
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -186,11 +194,13 @@ Crypto collateral can be staked, lent, hedged, tokenized, or rehypothecated with
 
 The allocator who controls mobility unlocks synthetic liquidity without overextending leverage.
 
-The allocator who ignores mobility pays the opportunity cost of idle capital. ## ## 
+The allocator who ignores mobility pays the opportunity cost of idle capital. 
 
-## THE ## 
+ 
 
-## STRATEGIC MODEL
+## THE 
+
+ STRATEGIC MODEL
 
  The Firm builds institutional architecture for Fund-III capital formation.
 
@@ -206,9 +216,9 @@ Harden collateral.
 
 Increase certainty of execution for buyouts and add-ons.
 
-The ## 
+The 
 
-## STRATEGIC MODEL
+ STRATEGIC MODEL
 
  operates through three pillars.
 
@@ -276,13 +286,18 @@ Edge is not risk.
 
 Edge is engineered asymmetry.
 
-The Firm builds the asymmetry into the system itself. ## ## ## ## 
+The Firm builds the asymmetry into the system itself. 
+
+ 
+
+ 
 
 ## THE STEWARDSHIP FILTER Capital is not infinite.
 
 Waste is not tolerated.
 
-Stewardship is a technical discipline. **Proverbs 13:22*
+Stewardship is a technical discipline. **Proverbs 13:22
+*
 * sets the standard.
 
 A good man leaves an inheritance to his children's children.
@@ -333,25 +348,31 @@ Hard liquidity.
 
 Hard collateral.
 
-The Book speaks to disciplined gates. **Proverbs 25:28*
+The Book speaks to disciplined gates. **Proverbs 25:28
+*
 * describes a city with broken walls as a man with no self control.
 
 The allocator with no liquidity architecture is that broken city.
 
-The Firm rebuilds the walls. ## 
+The Firm rebuilds the walls.
 
-## EXIT Liquidity leadership is measured, not imagined.
+EXIT Liquidity leadership is measured, not imagined.
 
 The target metric for Fund-III is simple.
 
-Execution certainty at 9
-8 percent fill rate across all routed trades under volatility stress. # 
+Execution certainty at 
+
+98 percent fill rate across all routed trades under volatility stress.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

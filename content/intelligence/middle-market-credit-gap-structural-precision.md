@@ -12,12 +12,17 @@ It is the direct outcome of regulatory drift that has removed traditional lender
 
 As liquidity exits the $25M to $350M corporate tranche, the provisioning gap expands into a structural arbitrage zone.
 
-Allocators with disciplined underwriting frameworks now observe a market where pricing power has shifted decisively to non-bank institutions, yet underwriting standards remain anchored in conservative cash flow analysis. ## ## ## ## 
+Allocators with disciplined underwriting frameworks now observe a market where pricing power has shifted decisively to non-bank institutions, yet underwriting standards remain anchored in conservative cash flow analysis. 
+
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
- The post-202
-1 monetary cycle initiated a multi-year recalibration in credit availability.
+ The post-20
+
+21 monetary cycle initiated a multi-year recalibration in credit availability.
 
 Bank participation in middle market lending declined as compliance burdens, stress testing, and capital reserve requirements shifted internal risk models upward.
 
@@ -28,16 +33,22 @@ Instead, it produced a structural misalignment between capital supply and operat
 Several characteristics define the current regime. 
 -  Duration aversion among traditional lenders has created a short-tenor bias inconsistent with the growth trajectories of sponsor-backed middle market enterprises. 
 -  Credit committees at regulated institutions increasingly prioritize homogeneity, reducing exposure to asset-heavy borrowers requiring flexible capital structures. 
--  Refinancing walls from 202
-4 to 202
-8 generate elevated transaction velocity across sponsor-backed platforms.
+-  Refinancing walls from 20
+
+24 to 20
+
+28 generate elevated transaction velocity across sponsor-backed platforms.
 
 Borrowers seeking rational terms encounter dislocated pricing landscapes where non-bank entities can implement institutional discipline without competitive dilution. 
 -  The United States and Canada continue to exhibit asymmetric credit dispersion.
 
 Canada’s domestic banking oligopoly amplifies the scarcity premium in non-bank private credit, while the United States shows fragmentation that benefits agile allocators with cross-jurisdictional execution capability.
 
-This regime shift has created a stable, multi-year opportunity zone for capital providers capable of navigating covenant architecture, protecting seniority through structural design, and interfacing with sponsors who understand the long-term nature of disciplined capital partnerships. ## ## ## ## 
+This regime shift has created a stable, multi-year opportunity zone for capital providers capable of navigating covenant architecture, protecting seniority through structural design, and interfacing with sponsors who understand the long-term nature of disciplined capital partnerships. 
+
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -111,11 +122,16 @@ Roials Capital guides allocators through structure optimization, ensuring LTV ra
 
 Strategic Partner Integration NAEO is identified as the exclusive energy partner for mandates involving North American conventional oil assets.
 
-In other sectors, partnerships are aligned based on operational maturity, cross-border capability, and adherence to institutional risk disciplines. ## ## ## ## 
+In other sectors, partnerships are aligned based on operational maturity, cross-border capability, and adherence to institutional risk disciplines. 
+
+ 
+
+ 
 
 ## THE STEWARDSHIP FILTER Stewardship governs the deployment of capital as a resource under responsibility.
 
-It aligns with the discipline articulated in **Proverbs 13:22*
+It aligns with the discipline articulated in **Proverbs 13:22
+*
 * , where intergenerational impact is linked to prudent management.
 
 In private credit, stewardship is expressed through: 
@@ -124,9 +140,9 @@ In private credit, stewardship is expressed through:
 -  preference for real asset visibility over speculative momentum 
 -  alignment with borrowers committed to operational excellence rather than financial engineering Stewardship is not a moral overlay.
 
-It is a rigorous framework ensuring capital flows into productive structures that respect risk, reward, and long-term viability. ## ## ## 
+It is a rigorous framework ensuring capital flows into productive structures that respect risk, reward, and long-term viability.
 
-## DECISION MAKING LENS FOR ALLOCATORS The allocator’s task is not to pursue yield.
+DECISION MAKING LENS FOR ALLOCATORS The allocator’s task is not to pursue yield.
 
 It is to calibrate exposure, evaluate structural integrity, and ensure capital sits in environments where downside protection is measurable and operational visibility is high.
 
@@ -137,11 +153,15 @@ The middle market credit gap presents one of the most structurally coherent ecos
 -  platform maturity 
 -  cross-border execution capability Roials Capital provides institutional stakeholders with a confidential environment to conduct Strategy Audits and Portfolio Calibration exercises.
 
-These sessions are designed to clarify structural pathways, pressure test assumptions, and align capital with sectors and partners where risk and discipline converge. [END OF BRIEFING] # 
+These sessions are designed to clarify structural pathways, pressure test assumptions, and align capital with sectors and partners where risk and discipline converge. [END OF BRIEFING]
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -39,7 +39,8 @@ Not about momentum.
 Not about allocation policy.
 
 It is about re‑sovereignization of capital stacks and the engineering of controlled asymmetry. 
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * : A good man leaveth an inheritance to his children's children: and the wealth of the sinner is laid up for the just.
 
 The verse is not morality.
@@ -76,8 +77,9 @@ The structural drift.
 
 The redirection of capital sovereignty.
 
-And the path of Fund-III as a hard asset, add‑on driven, energy‑aligned institution engineered for institutional LPs that demand durability, precision, and clarity across the next 12‑1
-8 cycles.
+And the path of Fund-III as a hard asset, add‑on driven, energy‑aligned institution engineered for institutional LPs that demand durability, precision, and clarity across the next 12‑
+
+18 cycles.
 
 I speak in short bursts.
 
@@ -110,11 +112,17 @@ Asset hardening beats velocity.
 
 Institutional allocators want three things: 
 
-1. Structural durability. 
+1.
 
-2. Jurisdictional insulation. 
+Structural durability. 
 
-3. Controlled liquidity channels with traceable exit paths.
+2.
+
+Jurisdictional insulation. 
+
+3.
+
+Controlled liquidity channels with traceable exit paths.
 
 Fund-III is designed inside this gravitational field.
 
@@ -140,15 +148,25 @@ It is a reconfiguration.
 
 There are five global allocation regimes in motion: 
 
-1. The North American model: Hard-asset dominance. 
+1.
 
-2. The MENA sovereign model: Asset‑anchored national endurance. 
+The North American model: Hard-asset dominance. 
 
-3. The EU MiFID II securitization corridor. 
+2.
 
-4. The APAC reconstruction cycle. 
+The MENA sovereign model: Asset‑anchored national endurance. 
 
-5. The LATAM extraction‑to‑infrastructure pivot.
+3.
+
+The EU MiFID II securitization corridor. 
+
+4.
+
+The APAC reconstruction cycle. 
+
+5.
+
+The LATAM extraction‑to‑infrastructure pivot.
 
 Each regime is restructuring mandates.
 
@@ -188,7 +206,9 @@ Three alignment vectors dominate:
 -  Energy alignment 
 -  Liquidity alignment 
 
-1. Jurisdictional Alignment Institutional allocators now map regulatory coherence as a risk premium.
+1.
+
+Jurisdictional Alignment Institutional allocators now map regulatory coherence as a risk premium.
 
 They want a GP who understands custody law, asset‑location risk, and cross-border capital routing.
 
@@ -202,7 +222,9 @@ This is not diversification.
 
 It is operational sovereignty. 
 
-2. Energy Alignment Energy is the backbone of sovereign capital.
+2.
+
+Energy Alignment Energy is the backbone of sovereign capital.
 
 Oil.
 
@@ -218,7 +240,9 @@ Renewables only as infrastructure multipliers, not as ideology.
 
 Our NAEOC energy mandate ($50M-$250M) positions Fund-III as a structural partner to energy allocators who need high‑velocity M&A and low‑friction stabilization. 
 
-3. Liquidity Alignment Asset-Based Lending (Asset‑Based Lending) is no longer a niche product.
+3.
+
+Liquidity Alignment Asset-Based Lending (Asset‑Based Lending) is no longer a niche product.
 
 It is Institutional Liquidity Paths.
 
@@ -257,14 +281,23 @@ Not financiers.
 
 We build them with four principles: 
 
-1. Hard assets first. 
+1.
 
-2. Sector redundancy. 
+Hard assets first. 
 
-3. Controlled leverage. 
+2.
 
-4. Add-on integration cycles below 1
-2 months.
+Sector redundancy. 
+
+3.
+
+Controlled leverage. 
+
+4.
+
+Add-on integration cycles below 
+
+12 months.
 
 This is why Fund-III is not chasing hypergrowth.
 
@@ -337,27 +370,49 @@ We align nodes with sovereign regimes.
 
 ## THE Fund-III POSITIONING THESIS Eleven points: 
 
-1. Hard assets. 
+1.
 
-2. Long horizon. 
+Hard assets. 
 
-3. Add-on dominance. 
+2.
 
-4. Sovereign alignment. 
+Long horizon. 
 
-5. Energy adjacency. 
+3.
 
-6. Industrial stability. 
+Add-on dominance. 
 
-7. Asset-Based Lending precision. 
+4.
 
-8. Jurisdictional breadth. 
+Sovereign alignment. 
 
-9. Asset-Backed Frameworks. 
+5.
 
-10. Regime compatibility. 
+Energy adjacency. 
 
-11. Durable navigation.
+6.
+
+Industrial stability. 
+
+7.
+
+Asset-Based Lending precision. 
+
+8.
+
+Jurisdictional breadth. 
+
+9.
+
+Asset-Backed Frameworks. 
+
+10.
+
+Regime compatibility. 
+
+11.
+
+Durable navigation.
 
 This is our pitch.
 
@@ -551,9 +606,9 @@ Not derivatives.
 
 Not simulations.
 
-Reality. ## ## ## ## ## 
+Reality.
 
-## CONCLUSION
+CONCLUSION
 
  : THE RECONFIGURATION AGE The coming decades will be shaped by: 
 -  Capital sovereignty. 
@@ -573,16 +628,21 @@ Institutional LPs know the truth: sovereignty is capital.
 
 Capital is sovereignty.
 
-Fund‑III is architecture built to serve both. # 
+Fund‑III is architecture built to serve both.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
 Request confidential capital audit to determine your deployment compatibility and sovereign alignment delta.
 
-Terminal Metric: 0.7
-2 Structural Integrity Coefficient.
+Terminal Metric: 0.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+72 Structural Integrity Coefficient.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

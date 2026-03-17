@@ -15,7 +15,8 @@ Fund-III syndicates move on signal strength, balance-sheet posture, and the oper
 That is the principal doctrine.
 
 Everything else is noise. 
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * states: A good man leaves an inheritance to his children’s children: but the wealth of the sinner is laid up for the just.
 
 Institutions translate that verse into mandate.
@@ -435,8 +436,9 @@ They reward variability with silence.
 
 Add-on integration must follow the 90-day doctrine.
 
-If a platform cannot absorb an add-on within 9
-0 days-operationally, culturally, financially-the add-on should not be bought.
+If a platform cannot absorb an add-on within 
+
+90 days-operationally, culturally, financially-the add-on should not be bought.
 
 Delay is decay.
 
@@ -550,7 +552,8 @@ That is institutional logic.
 
 That is principal logic.
 
-That is sustainable logic. **Proverbs 13:22*
+That is sustainable logic. **Proverbs 13:22
+*
 * defines the ethos: inheritance cross-generational, wealth reallocated to the just, value moved from disorder to order.
 
 Institutions live by that scripture without speaking it.
@@ -575,15 +578,19 @@ Execution is mandatory.
 
 Drift is unacceptable.
 
-Preservation is non-negotiable. # 
+Preservation is non-negotiable.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
 Request confidential capital audit to initiate alignment.
 
 Terminal metric: DSCR hard floor 1.35x.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

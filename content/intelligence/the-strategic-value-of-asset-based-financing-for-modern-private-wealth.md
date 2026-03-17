@@ -14,11 +14,15 @@ For High Net Worth and Ultra High Net Worth individuals, liquidity is not a basi
 
 It is a tactical variable.
 
-Set correctly, it becomes an instrument of control. # 
+Set correctly, it becomes an instrument of control.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

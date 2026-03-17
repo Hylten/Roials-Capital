@@ -31,7 +31,8 @@ Structural.
 Sovereign allocators pursue one goal: permanence.
 
 Their capital is slow to deploy, slower to exit, and engineered for generational hold. *A good man leaveth an inheritance to his children's children
-* ( **Proverbs 13:22*
+* ( **Proverbs 13:22
+*
 * ).
 
 This principle is not moral.
@@ -76,11 +77,17 @@ It seeks the hard edges of real economy sectors-industrials, energy infrastructu
 
  is stability through scale. 
 
-1. Risk neutralization through jurisdictional diversification 
+1.
 
-2. Strategic autonomy from Western banking volatility 
+Risk neutralization through jurisdictional diversification 
 
-3. Long-term real asset hardening in inflation-positive regimes Money moves because sovereignty demands insulation.
+2.
+
+Strategic autonomy from Western banking volatility 
+
+3.
+
+Long-term real asset hardening in inflation-positive regimes Money moves because sovereignty demands insulation.
 
 Sovereign allocators must protect national balance sheets from supranational shocks.
 
@@ -457,11 +464,17 @@ End with a technical metric: Institutional Continuity Ratio:
 
 0. 
 
-92. For a confidential capital audit, submit mandate parameters. # 
+92.
+
+For a confidential capital audit, submit mandate parameters.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

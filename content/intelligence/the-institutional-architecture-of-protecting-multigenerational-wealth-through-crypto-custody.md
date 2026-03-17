@@ -120,9 +120,13 @@ Roials Capital specializes in these structures.
 We provide Asset-Backed Frameworks across: 
 -  Private Credit 
 -  Asset Based Capital Structuring 
--  Crypto Monetization Architecture with a minimum threshold of 2,000,00
+-  Crypto Monetization Architecture with a minimum threshold of 2,000,
+
+00
 0 
--  Public Share Capital Structuring with a minimum threshold of 5,000,00
+-  Public Share Capital Structuring with a minimum threshold of 5,000,
+
+00
 0 Our role is not to maximize balance sheet optimization.
 
 Our role is to construct liquidity corridors that allow families to mobilize value without eroding the asset base.
@@ -258,7 +262,9 @@ They can anchor dynamic liquidity strategies.
 
 The ability to borrow against crypto positions at institutional scale, with a minimum threshold of 2,000,000, allows families to convert digital assets into operational liquidity without relinquishing their strategic positions.
 
-Similarly, the ability to access public share Monetization Architecture at a minimum threshold of 5,000,00
+Similarly, the ability to access public share Monetization Architecture at a minimum threshold of 5,000,
+
+00
 0 allows for advanced liquidity deployment without portfolio disruption.
 
 Private credit and asset based Capital Structuring complete the ecosystem.
@@ -276,7 +282,9 @@ Monetization Architecture protects the strategy.
 
 Liquidity protects continuity. 
 
-## Building the Institutional Crypto Vault for the Next 10
+## Building the Institutional Crypto Vault for the Next 
+
+10
 0 Years The families that endure understand one principle.
 
 Wealth is not a moment.
@@ -303,11 +311,15 @@ The family retains sovereignty.
 
 This is the future of multi generational wealth protection.
 
-It is engineered, not improvised. # 
+It is engineered, not improvised.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

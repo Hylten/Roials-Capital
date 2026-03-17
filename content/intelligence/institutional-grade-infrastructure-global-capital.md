@@ -16,7 +16,11 @@ The velocity mismatch between institutional allocators and mid-market operators 
 
 That gap is where infrastructure decides outcomes.
 
-Order is not an option. ## ## ## ## 
+Order is not an option. 
+
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
@@ -74,7 +78,11 @@ Inflow creates scale.
 
 Scale creates bargaining power in acquisition markets.
 
-The capital stack is a hierarchy, not a marketplace. ## ## ## ## 
+The capital stack is a hierarchy, not a marketplace. 
+
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -88,9 +96,11 @@ LTV curves reveal operational truth.
 
 A non-optimized LTV curve exposes poor integration discipline, unstructured value creation, and unmanaged EBITDA drag.
 
-When the GP demonstrates a controlled LTV glide path over 3
-6 to 4
-8 months, the allocator observes a fund professionalized in its internal economics.
+When the GP demonstrates a controlled LTV glide path over 
+
+36 to 
+
+48 months, the allocator observes a fund professionalized in its internal economics.
 
 The GP who cannot produce this curve with clarity is signaling uncertainty in value capture.
 
@@ -122,9 +132,11 @@ Asset-Based Lending is no longer a defensive tool.
 
 It is a velocity weapon.
 
-When structured correctly, it compresses deal-to-deployment windows by 4
-0 to 6
-0 percent and stabilizes working capital curves across the operating group.
+When structured correctly, it compresses deal-to-deployment windows by 
+
+40 to 
+
+60 percent and stabilizes working capital curves across the operating group.
 
 Energy mandates require even tighter control.
 
@@ -134,11 +146,13 @@ No allocator deploys into energy without operational evidence that the GP can qu
 
 Capital respects discipline.
 
-Energy capital demands it. ## ## 
+Energy capital demands it. 
 
-## THE ## 
+ 
 
-## STRATEGIC MODEL
+## THE 
+
+ STRATEGIC MODEL
 
  The partnership model must be engineered, not improvised.
 
@@ -190,7 +204,11 @@ One friction point is enough to cost
 
 A GP who manages these three systems with precision becomes institution-ready.
 
-A GP who does not remains in the aspirational layer of private markets. ## ## ## ## 
+A GP who does not remains in the aspirational layer of private markets. 
+
+ 
+
+ 
 
 ## THE STEWARDSHIP FILTER Stewardship is an operating principle.
 
@@ -198,7 +216,8 @@ Waste is a moral failure.
 
 Theology of capital is engineering of capital.
 
-Capital must be allocated with intentionality, discipline, and operational truth. **Proverbs 13:22*
+Capital must be allocated with intentionality, discipline, and operational truth. **Proverbs 13:22
+*
 * sets the standard: value must endure beyond the operator.
 
 It must persist across generations, not cycles.
@@ -223,17 +242,22 @@ Fund-III is not achieved through force.
 
 It is achieved through order.
 
-Order is an act of stewardship. ## 
+Order is an act of stewardship.
 
-## EXIT Our mandate is simple: reduce capital friction by 8
-7 percent across the fund structure and raise the throughput rate of institutional commitments by 3.
+EXIT Our mandate is simple: reduce capital friction by 
+
+87 percent across the fund structure and raise the throughput rate of institutional commitments by 3.
 4 times.
 
-For a confidential capital audit, initiate contact. # 
+For a confidential capital audit, initiate contact.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

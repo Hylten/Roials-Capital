@@ -27,7 +27,8 @@ Wealth must move.
 Wealth must evade friction.
 
 Wealth must compound without state‑imposed drag coefficients. 
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * : a good person leaves an inheritance to their children’s children, yet the wealth of the sinner is stored for the righteous.
 
 In institutional terms, this is a doctrine of intergenerational capital architecture.
@@ -146,7 +147,8 @@ Wealth that stagnates decays.
 
 Wealth that circulates compounds.
 
-Intergenerational capital transfer is not a domestic process-it is a cross-border process. **Proverbs 13:22*
+Intergenerational capital transfer is not a domestic process-it is a cross-border process. **Proverbs 13:22
+*
 * .
 
 This is blueprint, not scripture.
@@ -379,7 +381,8 @@ Those who cannot.
 
 Those who secure capital.
 
-Those who lose it. **Proverbs 13:22*
+Those who lose it. **Proverbs 13:22
+*
 * .
 
 ## THE MANDATE
@@ -395,11 +398,15 @@ Scale.
 To proceed, request a confidential capital audit.
 
 Throughput expectation: 14.
-7 bps structural drift tolerance. # 
+7 bps structural drift tolerance.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

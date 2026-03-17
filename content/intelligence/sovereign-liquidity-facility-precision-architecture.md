@@ -26,13 +26,19 @@ Cross border settlements shift toward energy indexed benchmarks.
 
 Fund-III must align with this new order because capital formation at scale requires an environment where liquidity is not episodic.
 
-It must be engineered. ## ## ## ## 
+It must be engineered. 
+
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
  Sovereigns operate today inside a compressed bandwidth of liquidity autonomy. 
 
-1. Fiscal saturation.
+1.
+
+Fiscal saturation.
 
 Most sovereigns rely on short term refinancing cycles that expose them to rate volatility and political disorder.
 
@@ -40,7 +46,9 @@ The cost of rollover debt grows faster than revenue.
 
 Liquidity becomes reactive instead of programmed. 
 
-2. Collateral deterioration.
+2.
+
+Collateral deterioration.
 
 Intangible collateral is losing institutional appeal.
 
@@ -48,7 +56,9 @@ LPs, credit committees, and rating agencies now prioritize hard reserves, trade 
 
 Soft collateral no longer satisfies covenant discipline. 
 
-3. Dollar fragility via commodity indexing.
+3.
+
+Dollar fragility via commodity indexing.
 
 Energy producers and importers are shifting to supply indexed payment systems.
 
@@ -60,7 +70,11 @@ Inside this regime the sovereign liquidity facility becomes a precision tool.
 
 It is not a rescue instrument.
 
-It is a sequencing instrument that determines national flow continuity. ## ## ## ## 
+It is a sequencing instrument that determines national flow continuity. 
+
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -76,7 +90,7 @@ Covenant enforced.
 
 The facility requires five mechanical layers.
 
-Layer 1: Eligibility Grid The eligible asset pool must be objective.
+Layer I:: Eligibility Grid The eligible asset pool must be objective.
 
 No political discretion.
 
@@ -90,14 +104,14 @@ The assets usually include:
 
 If it is not measurable at a weekly frequency, it is not admissible.
 
-Layer 2: Priority-of-Claim Waterfall Liquidity must be sequenced through a priority stack: 
+Layer II:: Priority-of-Claim Waterfall Liquidity must be sequenced through a priority stack: 
 -  Senior liquidity tranche with zero tolerance for operational leakage 
 -  Intermediate tranche tied to resource volatility buffers 
 -  Residual tranche feeding government operations The waterfall removes fiscal entropy.
 
 It establishes certainty for lenders and ensures the sovereign does not cannibalize its own future liquidity.
 
-Layer 3: LTV Curves and Risk Hardening Traditional sovereign facilities use flat LTV tables.
+Layer III:: LTV Curves and Risk Hardening Traditional sovereign facilities use flat LTV tables.
 
 That is inefficient.
 
@@ -110,7 +124,9 @@ A facility with no convexity becomes a facility with hidden insolvency.
 Hardening techniques include: 
 -  Cross asset pledges with limited correlation exposure 
 -  Time segmented collateral rebalancing 
--  Volatility indexed advance rates Layer 4: Recovery Mechanics Institutional recovery must be deterministic.
+-  Volatility indexed advance rates
+
+Layer IV:: Recovery Mechanics Institutional recovery must be deterministic.
 
 No improvisation.
 
@@ -122,17 +138,19 @@ Recovery channels often include:
 
 Facilities with explicit recovery mechanics evolve into institutional assets.
 
-Layer 5: Liquidity Replenishment Algorithm A sovereign must replenish.
+Layer V:: Liquidity Replenishment Algorithm A sovereign must replenish.
 
 The facility must not be a drain.
 
 A weekly replenishment mechanism tied to predictable exports or indexed revenue bands stabilizes the facility and protects Fund-III lender profiles.
 
-This transforms sovereign liquidity from episodic to structural. ## ## 
+This transforms sovereign liquidity from episodic to structural. 
 
-## THE ## 
+ 
 
-## STRATEGIC MODEL
+## THE 
+
+ STRATEGIC MODEL
 
  Fund-III enters this domain with a defined objective.
 
@@ -144,9 +162,9 @@ They are not the investment.
 
 They are the environment that allows investments to compound without disruption.
 
-The ## 
+The 
 
-## STRATEGIC MODEL
+ STRATEGIC MODEL
 
  contains three parallel tracks.
 
@@ -177,7 +195,11 @@ NAEOC mandates in the 50M to 250M range benefit from sovereign stability because
 -  E&P expansions require hedged sovereign counterparties 
 -  Cross border energy trades require settlement certainty Sovereign liquidity facilities remove noise.
 
-They allow the special mandate division to operate without politicized interruptions. ## ## ## ## 
+They allow the special mandate division to operate without politicized interruptions. 
+
+ 
+
+ 
 
 ## THE STEWARDSHIP FILTER A sovereign facility must reflect stewardship.
 
@@ -185,7 +207,8 @@ Disorder in financial systems begins with disorder in priorities.
 
 Sovereigns frequently operate out of sequence: consumption before consolidation, spending before stabilization, promises before liquidity.
 
-The theology of capital reverses this. **Proverbs 13:22*
+The theology of capital reverses this. **Proverbs 13:22
+*
 * sets the principle.
 
 A righteous steward builds structures that last across generations.
@@ -222,18 +245,23 @@ Transparency produces stability.
 
 Stewardship is not a moral preference.
 
-It is a structural imperative. ## 
+It is a structural imperative.
 
-## EXIT Fund-III benefits when sovereign liquidity becomes a quantifiable asset.
+EXIT Fund-III benefits when sovereign liquidity becomes a quantifiable asset.
 
-The final discipline is simple: a sovereign facility must maintain a minimum 1.3
-8 liquidity coverage ratio under stress conditions.
+The final discipline is simple: a sovereign facility must maintain a minimum 1.
 
-Request a confidential capital audit. # 
+38 liquidity coverage ratio under stress conditions.
+
+Request a confidential capital audit.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

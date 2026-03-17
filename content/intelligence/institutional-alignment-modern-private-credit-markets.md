@@ -10,15 +10,21 @@ The capital vacuum in North American and European private credit markets is a co
 
 The result is a regime where liquidity has become bifurcated, price discovery has become asymmetric, and the most resilient credit opportunities are migrating toward sponsors capable of operational precision, underwriting discipline, and cross-cycle cash flow control.
 
-This memorandum outlines the mechanics behind that shift, the technical attributes allocators now prioritize in partners, and the market structures that govern capital formation for Fund-III environments, Asset-Based Lending deployment, and strategic mandates spanning North American energy and European MiFID II transactions. ## ## ## ## 
+This memorandum outlines the mechanics behind that shift, the technical attributes allocators now prioritize in partners, and the market structures that govern capital formation for Fund-III environments, Asset-Based Lending deployment, and strategic mandates spanning North American energy and European MiFID II transactions. 
+
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
- Modern private credit exists in a post-202
-0 environment defined by a sequence of structural breakpoints.
+ Modern private credit exists in a post-20
 
-Central bank balance sheet compression, regulatory capital recalibration, and cross border lending restrictions have generated a lending architecture that is significantly more differentiated than the pre-201
-9 cycle.
+20 environment defined by a sequence of structural breakpoints.
+
+Central bank balance sheet compression, regulatory capital recalibration, and cross border lending restrictions have generated a lending architecture that is significantly more differentiated than the pre-20
+
+19 cycle.
 
 The result is a supply side contraction that disproportionately affects the small to mid market segment, where sponsor demand outpaces available senior capital by a wide margin.
 
@@ -32,9 +38,11 @@ The vacuum that emerges is filled by private lenders with the ability to absorb 
 
 For allocators, this produces a predictable capital map.
 
-First, Fund-III managers require multi cycle capital because their portfolios include both scale acquisitions and add on integrations that require leverage stability across a 3
-6 to 5
-4 month horizon.
+First, Fund-III managers require multi cycle capital because their portfolios include both scale acquisitions and add on integrations that require leverage stability across a 
+
+36 to 
+
+54 month horizon.
 
 Second, asset based lending (Asset-Based Lending) facilities become strategic tools for Strategic Collateralization rather than pure working capital instruments.
 
@@ -42,7 +50,11 @@ Third, sector specific special mandates, especially North American energy, attra
 
 Opportunity velocity in this regime is dominated by managers who can compress underwriting cycles, access proprietary flow, and maintain operational visibility across balance sheet intensive sectors.
 
-The allocators that achieve the best alignment are those who structure multi stage commitments that match the cadence of acquisition pipelines rather than the calendar cycle of fund closings. ## ## ## ## 
+The allocators that achieve the best alignment are those who structure multi stage commitments that match the cadence of acquisition pipelines rather than the calendar cycle of fund closings. 
+
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -90,9 +102,11 @@ This stability is why institutional allocators continue to allocate to conventio
 Assets in conventional formations maintain clear relationships between porosity, permeability, steam ratios, and recovery factors.
 
 Relevant technical metrics include: 
--  SAGD recovery factors in the 3
-5 to 6
-5 percent range depending on reservoir thickness and steam conformance. 
+-  SAGD recovery factors in the 
+
+35 to 
+
+65 percent range depending on reservoir thickness and steam conformance. 
 -  CSS recovery patterns suitable for thinner or heterogeneous reservoirs. 
 -  Primary heavy oil recovery in cold flow assets with water cut moderation. 
 -  Predictable decline curves tied to reservoir pressure and fluid dynamics.
@@ -109,9 +123,9 @@ THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator within th
 
 The function is neither distribution nor sales.
 
-It is institutional ## 
+It is institutional 
 
-## INTRODUCTION
+ INTRODUCTION
 
  and alignment.
 
@@ -138,11 +152,16 @@ The objective is not to promote investment but to provide the allocator with a s
 The partnership model is built on three pillars: 
 -  Technical transparency. 
 -  Operational discipline. 
--  Governance alignment. ## ## ## ## 
+-  Governance alignment. 
+
+ 
+
+ 
 
 ## THE STEWARDSHIP FILTER Stewardship is a discipline of non wasteful resource management.
 
-It is a capital philosophy aligned with **Proverbs 13:22*
+It is a capital philosophy aligned with **Proverbs 13:22
+*
 * and the ethics of intergenerational responsibility.
 
 In private credit environments, stewardship manifests as: 
@@ -155,27 +174,31 @@ This philosophical lens creates a measurable advantage in both underwriting and 
 
 Allocators increasingly require sponsors to demonstrate stewardship practices as part of their due diligence mandates.
 
-It reflects a shift from performance oriented assessment to resilience oriented assessment. ## ## ## 
+It reflects a shift from performance oriented assessment to resilience oriented assessment.
 
-## DECISION MAKING LENS FOR THE ALLOCATOR Institutional allocators operate in an environment where credit spreads do not accurately reflect risk and where opportunity velocity is increasingly gated by sponsor competence rather than capital availability.
+DECISION MAKING LENS FOR THE ALLOCATOR Institutional allocators operate in an environment where credit spreads do not accurately reflect risk and where opportunity velocity is increasingly gated by sponsor competence rather than capital availability.
 
 The decision making lens involves: 
 -  Identifying strategies where collateral durability intersects with operational transparency. 
 -  Prioritizing sponsors or partners able to maintain multi cycle liquidity discipline. 
 -  Establishing mandate structures that match acquisition pacing rather than fund marketing cycles. 
--  Evaluating ## 
+-  Evaluating 
 
-## TECHNICAL MECHANICS
+ TECHNICAL MECHANICS
 
  of the collateral base rather than relying on generalized return expectations.
 
 Roials Capital facilitates this process through confidential strategy audits and portfolio calibration sessions.
 
-These are designed to clarify structural realities, align capital flows with sponsor competencies, and allow allocators to engage with the market from a position of technical strength. [END] # 
+These are designed to clarify structural realities, align capital flows with sponsor competencies, and allow allocators to engage with the market from a position of technical strength. [END]
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

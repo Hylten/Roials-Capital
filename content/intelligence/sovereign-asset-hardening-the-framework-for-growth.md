@@ -31,7 +31,7 @@ We provide the Asset-Backed Frameworks mechanics that institutional balance shee
 
 We stabilize and capitalize assets so they become tools of expansion rather than static stores of value.
 
-This is the framework. # 
+This is the framework.
 
 ## Public Share Strategic Collateralization: 
 5 Million Minimum for Structural Stability Public equities require a different architecture.
@@ -59,26 +59,42 @@ It is one of the most critical tools for sovereign asset movement.
 
 They operate on legacy infrastructure, compliance bottlenecks, and risk assumptions that do not match the demands of fast moving capital.
 
-Sovereign asset hardening resolves these limitations. *
+Sovereign asset hardening resolves these limitations. 
+*
 * 
 
-1. Speed*
-* Liquidity is engineered with calibrated underwriting rather than bureaucratic sequencing. *
+1.
+
+Speed
+*
+* Liquidity is engineered with calibrated underwriting rather than bureaucratic sequencing. 
+*
 * 
 
-2. Privacy*
+2.
+
+Privacy
+*
 * Client confidentiality is preserved.
 
-The structures are quiet, controlled, and efficient. *
+The structures are quiet, controlled, and efficient. 
+*
 * 
 
-3. Non disruptive capital mechanics*
+3.
+
+Non disruptive capital mechanics
+*
 * The underlying assets continue operating at full capacity.
 
-There is no interruption to performance cycles. *
+There is no interruption to performance cycles. 
+*
 * 
 
-4. Institutional strength without institutional friction*
+4.
+
+Institutional strength without institutional friction
+*
 * ROIALS CAPITAL provides the structural authority of institutional capital without the rigidity. 
 
 ## The Architecture of Expansion Once assets are hardened, growth becomes a function of design rather than reaction.
@@ -133,11 +149,15 @@ ROIALS CAPITAL provides the architecture.
 
 The client retains the sovereignty. 
 
-## Request Confidential Audit If your capital requires structural hardening, controlled leverage, and sovereign grade liquidity, request a confidential audit. # 
+## Request Confidential Audit If your capital requires structural hardening, controlled leverage, and sovereign grade liquidity, request a confidential audit.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

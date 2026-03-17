@@ -52,7 +52,8 @@ Yield sovereignty.
 
 Structural defensibility.
 
-Kapitalanskaffning as architecture, not marketing. **Proverbs 13:22*
+Kapitalanskaffning as architecture, not marketing. **Proverbs 13:22
+*
 * stands as a reminder: A good man leaves an inheritance to his children’s children: but the wealth of the sinner is laid up for the just.
 
 The institutions building Fund-III+ need more than capital.
@@ -356,7 +357,8 @@ It is the next institutional operating system for controlled liquidity, acquisit
 
 The institutions that adopt it dominate.
 
-The institutions that delay become price takers. **Proverbs 13:22*
+The institutions that delay become price takers. **Proverbs 13:22
+*
 * is not a moral verse in this context.
 
 It is a structural one.
@@ -372,11 +374,15 @@ Controlled liquidity is the covenant.
 Request a confidential capital audit to align your Fund-III architecture with institutional-grade decentralized private credit.
 
 Terminal Metric: Enforcement Latency Index ≤ 4.
-9 seconds. # 
+9 seconds.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

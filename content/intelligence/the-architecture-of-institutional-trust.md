@@ -102,7 +102,9 @@ Roials Capital enters this domain with structural clarity.
 
 Our crypto Strategic Collateralization threshold begins at 2,000, 
 
-000. This is not an exclusion.
+000.
+
+This is not an exclusion.
 
 It is a filter.
 
@@ -128,7 +130,9 @@ Public shares behave differently under stress than private or alternative assets
 
 Their liquidity profile is immediate, but their price sensitivity is reactive.
 
-This is why Roials Capital maintains a minimum threshold of 5,000,00
+This is why Roials Capital maintains a minimum threshold of 5,000,
+
+00
 0 for public share Monetization Architecture.
 
 We work with clients whose positions are significant enough to require institutional handling.
@@ -349,7 +353,9 @@ It all exists to create predictability and reduce fragility.
 
 Our clients rely on that predictability.
 
-Our systems enforce it. ## ## 
+Our systems enforce it. 
+
+ 
 
 ## CONCLUSION
 
@@ -365,11 +371,15 @@ We operate with principal authority.
 
 We build the structures that institutions and sophisticated clients require.
 
-To understand how your assets integrate into our institutional architecture, request confidential audit. # 
+To understand how your assets integrate into our institutional architecture, request confidential audit.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

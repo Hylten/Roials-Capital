@@ -218,7 +218,9 @@ This is not for the general market.
 
 It is for those who operate with institutional expectations and global time horizons.
 
-It is for those who treat liquidity as strategy, not reaction. ## ## 
+It is for those who treat liquidity as strategy, not reaction. 
+
+ 
 
 ## CONCLUSION
 
@@ -234,11 +236,15 @@ ROIALS CAPITAL provides the mechanics.
 
 The architecture.
 
-The principal authority that supports sovereign capital movement in an era defined by digital and structural complexity. # 
+The principal authority that supports sovereign capital movement in an era defined by digital and structural complexity.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

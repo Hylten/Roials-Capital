@@ -19,7 +19,8 @@ Asset managers who fail to internalize this shift weaken their negotiating lever
 Capital does not reward delay.
 
 It rewards readiness. 
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * .
 
 The institutional core understands this.
@@ -181,15 +182,25 @@ Institutional multi‑asset liquidity requires an internal operating system.
 
 Five components: 
 
-1. Liquidity Intelligence Layer 
+1.
 
-2. Capital Conversion Layer 
+Liquidity Intelligence
 
-3. Collateral Multiplex Layer 
+Layer II:.
 
-4. Jurisdictional Routing Layer 
+Capital Conversion
 
-5. Sovereign Control Layer Each serves a distinct function.
+Layer III:.
+
+Collateral Multiplex
+
+Layer IV:.
+
+Jurisdictional Routing
+
+Layer V:.
+
+Sovereign Control Layer Each serves a distinct function.
 
 Together they create an institutional‑grade liquidity engine capable of supporting multi‑market acquisitions, multi‑asset securitizations, and multi‑cycle investment horizons.
 
@@ -654,13 +665,17 @@ A great fund manufactures capital.
 
 A sovereign fund engineers liquidity across all assets, all cycles, all jurisdictions.
 
-The institutional world rewards the sovereign. # 
+The institutional world rewards the sovereign.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
 Request confidential capital audit: ROIALS CAPITAL Liquidity Torque Ratio: 1.83x
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

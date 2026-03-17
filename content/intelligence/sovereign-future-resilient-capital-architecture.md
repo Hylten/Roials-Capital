@@ -45,7 +45,8 @@ The distinction is structural, not rhetorical.
 Mobile capital behaves tactically: opportunistic, cyclical, herding.
 
 Anchored capital behaves strategically: patient, asymmetric, quietly compounding. 
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * : A good man leaves an inheritance to his children’s children.
 
 Institutional capital must do the same.
@@ -389,11 +390,15 @@ Exit on conviction.
 Target compounding horizon: 18.
 7 years.
 
-To proceed, request a confidential capital audit. # 
+To proceed, request a confidential capital audit.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

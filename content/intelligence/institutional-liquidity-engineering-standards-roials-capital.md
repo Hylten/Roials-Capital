@@ -42,7 +42,8 @@ The framework below defines the institutional standards that govern every Asset-
 
 This is not a template.
 
-It is a jurisdictional blueprint for allocators who operate above retail noise and below sovereign glare. **Proverbs 13:22*
+It is a jurisdictional blueprint for allocators who operate above retail noise and below sovereign glare. **Proverbs 13:22
+*
 * .
 
 The architecture is divided into four operational pillars. 
@@ -105,7 +106,9 @@ It evolves with asset performance, sponsor discipline, and jurisdictional shifts
 
 LE‑Standard components include: 
 
-1. Covenant Geometry The agreement uses multidimensional covenants.
+1.
+
+Covenant Geometry The agreement uses multidimensional covenants.
 
 Not linear.
 
@@ -117,7 +120,9 @@ Geometry mapped to asset behavior.
 -  Duration covenants 
 -  Reaction covenants Each interacts with the others, producing adaptive liquidity pressure similar to hydrodynamic control. 
 
-2. Jurisdictional Arbitrage ROIALS CAPITAL conducts jurisdictional scans before any LEA is drafted.
+2.
+
+Jurisdictional Arbitrage ROIALS CAPITAL conducts jurisdictional scans before any LEA is drafted.
 
 This governs: 
 -  Enforcement velocity 
@@ -132,7 +137,9 @@ It shields the GP.
 
 It stabilizes LP expectations. 
 
-3. Liquidity Physics Liquidity must behave.
+3.
+
+Liquidity Physics Liquidity must behave.
 
 Flow direction must be controlled.
 
@@ -147,7 +154,9 @@ Leakage is minimized.
 
 Liquidity becomes a disciplined tool, not a reactive patch. 
 
-4. Institutional Hierarchical Dynamics Every LEA must generate a net Hierarchical Dynamics for the GP.
+4.
+
+Institutional Hierarchical Dynamics Every LEA must generate a net Hierarchical Dynamics for the GP.
 
 Without status gain, there is no compounding effect.
 
@@ -173,7 +182,9 @@ ROIALS CAPITAL positions Fund‑III vehicles for accelerated acquisition velocit
 
 The architecture includes: 
 
-1. LP Targeting Protocol Institutional LPs want narrative clarity, operational certainty, and repeatable alpha.
+1.
+
+LP Targeting Protocol Institutional LPs want narrative clarity, operational certainty, and repeatable alpha.
 
 Our targeting matrix prioritizes: 
 -  European pension blocks 
@@ -181,10 +192,13 @@ Our targeting matrix prioritizes:
 -  U.S. family offices with programmatic exposure 
 -  Middle Eastern sovereign sub‑units (non‑headline mandates) Each profile receives a tailored capital narrative.
 
-Retargeting cycles are compressed to 14‑1
-7 days. 
+Retargeting cycles are compressed to 14‑
 
-2. Buyout & Add‑On Capital Discipline Fund‑III must demonstrate precision acquisition behavior: 
+17 days. 
+
+2.
+
+Buyout & Add‑On Capital Discipline Fund‑III must demonstrate precision acquisition behavior: 
 -  Fast underwriting 
 -  Zero‑drift operational plans 
 -  Clear edge in price justification Add‑ons require harder discipline: 
@@ -193,7 +207,9 @@ Retargeting cycles are compressed to 14‑1
 -  Supply‑chain traction 
 -  Immediate accretion ROIALS CAPITAL monitors these patterns during capital formation to ensure narrative-aligned performance. 
 
-3. Governance Framing Institutional capital does not move toward charisma.
+3.
+
+Governance Framing Institutional capital does not move toward charisma.
 
 It moves toward governance logic.
 
@@ -229,7 +245,9 @@ V.
 
 Special Mandates (10%) ROIALS CAPITAL accepts special mandates only when they reinforce the principal capital architecture. 
 
-1. NAEOC Energy Mandates ($50M-$250M) Energy mandates require mechanical discipline.
+1.
+
+NAEOC Energy Mandates ($50M-$250M) Energy mandates require mechanical discipline.
 
 Engineering.
 
@@ -243,7 +261,9 @@ ROIALS CAPITAL focuses on:
 -  Royalty stream compression 
 -  Offtake stability Only assets with clear operational edges qualify. 
 
-2. EU MiFID II Acquisition Mandates MiFID II mandates require regulatory choreography. 
+2.
+
+EU MiFID II Acquisition Mandates MiFID II mandates require regulatory choreography. 
 -  Disclosure synchronization 
 -  Reporting covariance 
 -  Acquisition structuring under EU perimeter rules 
@@ -280,13 +300,21 @@ The Agreement as Architecture The Asset-Backed Frameworks agreement is not a leg
 
 It is an institutional structure with four embedded traits: 
 
-1. Predictability 
+1.
 
-2. Enforcement stability 
+Predictability 
 
-3. Liquidity directionality 
+2.
 
-4. Credibility transfer The agreement carries the sponsor’s credibility forward.
+Enforcement stability 
+
+3.
+
+Liquidity directionality 
+
+4.
+
+Credibility transfer The agreement carries the sponsor’s credibility forward.
 
 It transfers governance strength into every transaction.
 
@@ -421,11 +449,15 @@ Terminal Metric: Enforcement Coherence Index =
 
 0. 
 
-92. # 
+92.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

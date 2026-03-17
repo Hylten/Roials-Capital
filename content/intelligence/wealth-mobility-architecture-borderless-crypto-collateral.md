@@ -10,11 +10,13 @@ The capital vacuum in cross border M and A is not driven by a shortage of liquid
 
 The constraint is the institutional difficulty of transforming wealth into mobility without diluting regulatory compliance, balance sheet integrity, or interbank settlement standards.
 
-A new regime has emerged where borderless digital collateral can be engineered to support institutional grade acquisitions without violating the disciplined principles that govern private credit, GP underwriting, or sovereign regulatory frameworks. 
+A new regime has emerged where borderless digital collateral can be engineered to support institutional grade acquisitions without violating the disciplined principles that govern private credit, GP underwriting, or sovereign regulatory frameworks.
 
-## PHASE 
+Phase I: .
 
-1. ## ## ## ## 
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
@@ -46,20 +48,25 @@ The inability to mobilize cross border collateral in institutional form is now a
 
 The macro backdrop reinforces this.
 
-M and A pipelines in North America and Europe remain robust, but cross jurisdictional settlement has slowed by approximately 2
-8 percent since 
+M and A pipelines in North America and Europe remain robust, but cross jurisdictional settlement has slowed by approximately 
 
-2022. Meanwhile, private credit allocators recorded their highest cash positions in more than a decade.
+28 percent since 
+
+2022.
+
+Meanwhile, private credit allocators recorded their highest cash positions in more than a decade.
 
 The structural gap is no longer capital availability.
 
 It is capital mobility.
 
-This has elevated the strategic importance of crypto backed collateral systems that can be architected within institutional guardrails, without resorting to speculative leverage. 
+This has elevated the strategic importance of crypto backed collateral systems that can be architected within institutional guardrails, without resorting to speculative leverage.
 
-## PHASE 
+Phase II: .
 
-2. ## ## ## ## 
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -67,13 +74,21 @@ This has elevated the strategic importance of crypto backed collateral systems t
 
 In the context of M and A, digital asset collateral must satisfy four technical criteria: 
 
-1. Verifiability 
+1.
 
-2. Custodial segregation 
+Verifiability 
 
-3. Loan to value discipline 
+2.
 
-4. Jurisdictional neutrality Verifiability is achieved when the digital asset position is custodied in an environment where institutional auditors can confirm holdings without exposing private keys.
+Custodial segregation 
+
+3.
+
+Loan to value discipline 
+
+4.
+
+Jurisdictional neutrality Verifiability is achieved when the digital asset position is custodied in an environment where institutional auditors can confirm holdings without exposing private keys.
 
 Zero knowledge attestations provide this verification while maintaining security.
 
@@ -83,13 +98,17 @@ This is critical for acquisition financing structures that integrate digital ass
 
 Loan to value discipline is determined by volatility adjusted risk curves rather than market enthusiasm.
 
-Institutional lenders typically deploy 2
-0 to 4
-0 percent LTV for digital assets.
+Institutional lenders typically deploy 
 
-However, when the underlying acquisition has strong cash flow visibility and durable EBITDA, blended LTV can be engineered at 5
-0 to 6
-5 percent by combining digital collateral with traditional hard assets or recurring revenue streams.
+20 to 
+
+40 percent LTV for digital assets.
+
+However, when the underlying acquisition has strong cash flow visibility and durable EBITDA, blended LTV can be engineered at 
+
+50 to 
+
+65 percent by combining digital collateral with traditional hard assets or recurring revenue streams.
 
 This creates an institutional bridge where the digital asset provides mobility and the operating company provides stability.
 
@@ -129,11 +148,11 @@ European regulators prioritize transparency, risk classification, and asset labe
 
 To meet these standards, digital collateral structures must be documented with high resolution clarity on custody, valuation methodology, and liquidation protocol.
 
-When structured correctly, the asset behaves as a high mobility pledgeable instrument without introducing systemic risk into the acquisition. 
+When structured correctly, the asset behaves as a high mobility pledgeable instrument without introducing systemic risk into the acquisition.
 
-## PHASE 
+Phase III: .
 
-3. THE PARTNERSHIP MODEL Roials Capital acts as a strategic navigator within this architecture.
+THE PARTNERSHIP MODEL Roials Capital acts as a strategic navigator within this architecture.
 
 The function is not to manage assets or solicit commitments.
 
@@ -143,11 +162,17 @@ The function is not to manage assets or solicit commitments.
 
 The role is threefold. 
 
-1. Structural alignment 
+1.
 
-2. Cross border compliance coordination 
+Structural alignment 
 
-3. Introductions to institutional grade partners such as NAEO for specialized mandates In capital raising environments, particularly Fund-III and Fund-IV buyout vehicles, Roials Capital provides market navigation intelligence that highlights where digital collateral can enhance the continuity of acquisition sequencing.
+2.
+
+Cross border compliance coordination 
+
+3.
+
+Introductions to institutional grade partners such as NAEO for specialized mandates In capital raising environments, particularly Fund-III and Fund-IV buyout vehicles, Roials Capital provides market navigation intelligence that highlights where digital collateral can enhance the continuity of acquisition sequencing.
 
 This is especially relevant for sponsors executing bolt on acquisitions in fragmented industries.
 
@@ -161,13 +186,11 @@ Special mandates, such as the 50M to 250M North American energy consolidation in
 
 These assets carry physical, regulatory, and cashflow characteristics that differ significantly from technology or consumer roll ups.
 
-Roials Capital ensures technical alignment between digital collateral frameworks and the asset class specific underwriting used in Alberta basin acquisitions. 
+Roials Capital ensures technical alignment between digital collateral frameworks and the asset class specific underwriting used in Alberta basin acquisitions.
 
-## PHASE 
+Phase IV: .
 
-4. ## 
-
-## THE STEWARDSHIP FILTER Stewardship in capital architecture is the discipline of deploying resources without waste, distortion, or misalignment.
+THE STEWARDSHIP FILTER Stewardship in capital architecture is the discipline of deploying resources without waste, distortion, or misalignment.
 
 This applies to digital wealth as directly as it applies to physical assets.
 
@@ -175,7 +198,8 @@ The stewardship lens prioritizes clarity of purpose over velocity of execution.
 
 Wealth mobility is a stewardship function.
 
-Capital that cannot move cannot serve. **Proverbs 13:22*
+Capital that cannot move cannot serve. **Proverbs 13:22
+*
 * outlines the principle that generational capital must be preserved and deployed with intentionality.
 
 Within cross border M and A environments, this means constructing collateral frameworks that do not expose capital to unnecessary risk or speculative leverage.
@@ -192,21 +216,31 @@ When integrated correctly, digital collateral becomes a tool of stewardship.
 
 It reduces dependency on dilutionary financing structures, supports responsible expansion, and preserves control within the allocator.
 
-This is particularly relevant for UHNWIs who seek to support GP partners without compromising generational capital frameworks. 
+This is particularly relevant for UHNWIs who seek to support GP partners without compromising generational capital frameworks.
 
-## PHASE 
+Phase V: .
 
-5. DECISION MAKING FRAMEWORK FOR THE ALLOCATOR Institutional allocators evaluating the role of borderless digital collateral in M and A should apply a five vector assessment. 
+DECISION MAKING FRAMEWORK FOR THE ALLOCATOR Institutional allocators evaluating the role of borderless digital collateral in M and A should apply a five vector assessment.
 
-1. Collateral integrity 
+1.
 
-2. Settlement velocity 
+Collateral integrity 
 
-3. Jurisdictional neutrality 
+2.
 
-4. Balance sheet impact 
+Settlement velocity 
 
-5. Partnership alignment Collateral integrity determines whether the digital asset can be pledged without introducing counterparty or custodial risk.
+3.
+
+Jurisdictional neutrality 
+
+4.
+
+Balance sheet impact 
+
+5.
+
+Partnership alignment Collateral integrity determines whether the digital asset can be pledged without introducing counterparty or custodial risk.
 
 Settlement velocity quantifies the time advantage relative to traditional wire based financing.
 
@@ -242,4 +276,6 @@ It is sovereignty.
 
 Structured correctly, crypto collateral enhances sovereignty by providing secure, compliant, and high velocity deployment capabilities that integrate smoothly with traditional private credit, energy, and industrial acquisition frameworks. [END OF BRIEFING]
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

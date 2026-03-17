@@ -78,7 +78,8 @@ Capital committee drift.
 
 Execution windows narrow.
 
-Sponsors running repeatable playbooks sense the same constraint: the spread between available credit and deployable credit is the new battleground. **Proverbs 13:22*
+Sponsors running repeatable playbooks sense the same constraint: the spread between available credit and deployable credit is the new battleground. **Proverbs 13:22
+*
 * : The wealth of the sinner is laid up for the just.
 
 Interpretation in market form: capital flows to structure.
@@ -242,25 +243,43 @@ Sovereign allocators on the horizon.
 
 Middle-market lenders operate under four distortions: 
 
-1. Impaired underwriting memory. 
+1.
 
-2. Regulatory risk aversion. 
+Impaired underwriting memory. 
 
-3. Macro misreads. 
+2.
 
-4. Execution fatigue.
+Regulatory risk aversion. 
+
+3.
+
+Macro misreads. 
+
+4.
+
+Execution fatigue.
 
 Borrowers fight five opposing constraints: 
 
-1. Debt maturity cliffs. 
+1.
 
-2. Rising operating costs. 
+Debt maturity cliffs. 
 
-3. Incomplete management teams. 
+2.
 
-4. Add‑on urgency. 
+Rising operating costs. 
 
-5. Limited liquidity instruments.
+3.
+
+Incomplete management teams. 
+
+4.
+
+Add‑on urgency. 
+
+5.
+
+Limited liquidity instruments.
 
 Sponsors navigate both worlds.
 
@@ -470,7 +489,8 @@ Only sponsors with hardened assets, engineered liquidity, cross‑border fluency
 
 Capital follows structure.
 
-Always. **Proverbs 13:22*
+Always. **Proverbs 13:22
+*
 * reinforces it.
 
 Structure inherits.
@@ -495,13 +515,17 @@ Accelerate your add‑on plan.
 
 Institutional LPs demand clarity.
 
-Not noise. # 
+Not noise.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

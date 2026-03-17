@@ -128,4 +128,6 @@ We provide structure.
 
 Request the confidential capital audit and we proceed.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

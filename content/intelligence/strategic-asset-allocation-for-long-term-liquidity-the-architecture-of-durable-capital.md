@@ -22,7 +22,7 @@ Where traditional financial discourse presents liquidity as reactive, we design 
 
 Where legacy institutions impose rigid conditions, we create structural optionality.
 
-Where others see leverage, we see engineered mobility. # 
+Where others see leverage, we see engineered mobility.
 
 ## Long-Term Liquidity This is the strategic layer.
 
@@ -96,11 +96,15 @@ They maintain control during stress.
 
 They accelerate during opportunity.
 
-If your objective is durable, long-term liquidity supported by disciplined collateral structures, ROIALS CAPITAL provides the architecture. # 
+If your objective is durable, long-term liquidity supported by disciplined collateral structures, ROIALS CAPITAL provides the architecture.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -36,11 +36,13 @@ The public markets no longer reward patience.
 
 They punish immobility.
 
-The New Liquidity Standard emerges because the legacy liquidity model failed its stewards. 
+The New Liquidity Standard emerges because the legacy liquidity model failed its stewards.
 
-## PHASE 
+Phase I: .
 
-1. ## ## ## ## 
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
@@ -48,7 +50,9 @@ The New Liquidity Standard emerges because the legacy liquidity model failed its
 
 Two forces made it irreversible: 
 
-1. Structural market depth collapse.
+1.
+
+Structural market depth collapse.
 
 Block liquidity narrowed across the mid-cap and lower mega-cap tiers.
 
@@ -61,7 +65,9 @@ Execution risk became execution certainty.
 Any block over 
 1 percent of float distorts its own price. 
 
-2. Regulatory hardening.
+2.
+
+Regulatory hardening.
 
 Basel III requirements hardened dealer inventories.
 
@@ -115,11 +121,13 @@ It is engineered liquidity calibrated to volatility, float structure, issuer cov
 
 The public market pretended to offer liquidity.
 
-The private market now delivers it. 
+The private market now delivers it.
 
-## PHASE 
+Phase II: .
 
-2. ## ## ## ## 
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -135,26 +143,35 @@ The result is institutional.
 
 The core variables: 
 
-1. LTV curves.
+1.
+
+LTV curves.
 
 Static LTV is a retail concept.
 
 Institutional structures require dynamic LTV bands tied to three signals: 
--  3
-0 day realized volatility 
+-  
+
+30 day realized volatility 
 -  Average daily volume 
--  Market cap decay or accretion over a 18
+-  Market cap decay or accretion over a 
+
+18
 0 day window If volatility rises or volume collapses, LTV bands compress automatically.
 
 The structure protects the borrower from forced liquidations and protects the lender from capital impairment.
 
-A 4
-0 percent LTV instrument at inception may drift to 3
-2 percent at the next monthly reset.
+A 
+
+40 percent LTV instrument at inception may drift to 
+
+32 percent at the next monthly reset.
 
 That is discipline. 
 
-2. Cash flow waterfalls.
+2.
+
+Cash flow waterfalls.
 
 Every liquidity structure must resolve three flows: 
 -  Carry cost 
@@ -165,17 +182,22 @@ It must prioritize capital redeployment for buyout or add-on strategies once cov
 
 The structure exists not for liquidity itself but for reallocation into higher productivity capital. 
 
-3. Recovery factors.
+3.
+
+Recovery factors.
 
 Public shares are volatile.
 
 Recovery modeling requires stress testing across six scenarios: 
--  1
-5 percent down shock 
--  3
-0 percent down shock 
--  4
-5 percent down shock 
+-  
+
+15 percent down shock 
+-  
+
+30 percent down shock 
+-  
+
+45 percent down shock 
 -  Three standard deviation volatility expansion 
 -  Four consecutive low volume weeks 
 -  Corporate action shocks, including dividend cut or guidance withdrawal We calibrate recovery not on issuer fundamentals but on market structure behavior.
@@ -188,7 +210,9 @@ A private lender prices recovery probability against liquidity speed, not corpor
 
 This is the hidden truth most institutions overlook. 
 
-4. Covenant architecture. 
+4.
+
+Covenant architecture. 
 -  LTV band compliance 
 -  Liquidity reserve compliance 
 -  Information rights for monitoring issuer events 
@@ -196,7 +220,9 @@ This is the hidden truth most institutions overlook.
 
 It is a survival protocol. 
 
-5. Integration with Fund-III.
+5.
+
+Integration with Fund-III.
 
 Institutional Liquidity Paths serves one purpose.
 
@@ -208,19 +234,19 @@ Liquidity that cannot be timed is liquidity that cannot serve buyout velocity.
 
 The market cannot offer timing.
 
-Only structure can. 
+Only structure can.
 
-## PHASE 
+Phase III: .
 
-3. ## ## 
+ 
 
-## THE ## 
+## THE 
 
-## STRATEGIC MODEL
+ STRATEGIC MODEL
 
- The ## 
+ The 
 
-## STRATEGIC MODEL
+ STRATEGIC MODEL
 
  for the New Liquidity Standard is a dual-track architecture.
 
@@ -271,13 +297,11 @@ This is a category error.
 
 The New Liquidity Standard integrates them.
 
-Extraction is only meaningful when paired with allocation velocity. 
+Extraction is only meaningful when paired with allocation velocity.
 
-## PHASE 
+Phase IV: .
 
-4. ## 
-
-## THE STEWARDSHIP FILTER Stewardship is not sentiment.
+THE STEWARDSHIP FILTER Stewardship is not sentiment.
 
 It is accountability.
 
@@ -287,7 +311,8 @@ It is entrusted.
 
 Public concentration without Capital Structuring violates stewardship because it elevates risk without increasing productivity.
 
-The Book of Proverbs warns: A good man leaves an inheritance to his children's children **Proverbs 13:22*
+The Book of Proverbs warns: A good man leaves an inheritance to his children's children **Proverbs 13:22
+*
 * .
 
 That inheritance is not cash.
@@ -304,17 +329,23 @@ Asset-Backed Frameworks is resilience.
 
 The stewardship filter evaluates the use of extracted liquidity: 
 
-1. Does it enter productive systems or passive storage?
+1.
+
+Does it enter productive systems or passive storage?
 
 Cash is not stewardship.
 
 It is entropy. 
 
-2. Does the redeployment strengthen real assets, operating cash flows, and durable enterprise value?
+2.
+
+Does the redeployment strengthen real assets, operating cash flows, and durable enterprise value?
 
 If not, it is speculation. 
 
-3. Does the structure align with long-term responsibility rather than short-term optics?
+3.
+
+Does the structure align with long-term responsibility rather than short-term optics?
 
 Optics destroy capital.
 
@@ -330,26 +361,34 @@ It structures around irrationality.
 
 The public markets no longer reward passive holding.
 
-The steward must act before volatility acts for him. 
+The steward must act before volatility acts for him.
 
-## PHASE 
+Phase V: .
 
-5. EXIT 
+EXIT
 
 ## THE MANDATE
 
  is simple: transform trapped public value into redeployable private capital without triggering market decay.
 
-The technical threshold is 3
-8 to 4
-4 percent institutional LTV stability across a 18
-0 day volatility band. # 
+The technical threshold is 
+
+38 to 
+
+44 percent institutional LTV stability across a 
+
+18
+0 day volatility band.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

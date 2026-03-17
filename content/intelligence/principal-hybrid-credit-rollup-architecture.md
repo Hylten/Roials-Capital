@@ -62,13 +62,17 @@ Drive consolidation.
 
 Fund-III roll-ups require three corridors of liquidity. 
 
-1. Acquisition corridor.
+1.
+
+Acquisition corridor.
 
 The buy pieces.
 
 The immediate strikes. 
 
-2. Integration corridor.
+2.
+
+Integration corridor.
 
 The quiet work.
 
@@ -76,7 +80,9 @@ Vendor clean-up.
 
 Systems alignment. 
 
-3. Expansion corridor.
+3.
+
+Expansion corridor.
 
 Cross-border moves.
 
@@ -126,4 +132,6 @@ Principals capture.
 
 Confidential capital audit ready on request.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

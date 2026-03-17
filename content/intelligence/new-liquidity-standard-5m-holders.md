@@ -196,7 +196,8 @@ Private credit lines reinforce sovereignty.
 
 Jurisdictional arbitrage maximizes sovereignty.
 
-Sovereignty then becomes performance, not politics. **Proverbs 13:22*
+Sovereignty then becomes performance, not politics. **Proverbs 13:22
+*
 * states: A good man leaves an inheritance to his children’s children: but the wealth of the sinner is laid up for the just.
 
 The inheritance in this context is not consumption.
@@ -443,15 +444,19 @@ The window is active.
 
 The corridor is open.
 
-The terms are fixed. # 
+The terms are fixed.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
 Request confidential capital audit.
 
 Metric: minimum liquidity spine requirement: 18.4% of NAV.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

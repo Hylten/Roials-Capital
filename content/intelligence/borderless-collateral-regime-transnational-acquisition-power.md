@@ -34,7 +34,8 @@ Not sector-bound.
 
 But transnational, collateralized, and acquisition-forward.
 
-A good man leaves an inheritance to his children’s children: **Proverbs 13:22*
+A good man leaves an inheritance to his children’s children: **Proverbs 13:22
+*
 * .
 
 In institutional terms, the inheritance is the permanent architecture of capital.
@@ -448,15 +449,19 @@ The path is defined.
 
 The capital is ready.
 
-The strategy is operational. # 
+The strategy is operational.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
 Request confidential capital audit.
 
 Technical metric: Collateral Mobility Index (CMI) target > 0.82.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -28,7 +28,8 @@ Liquidity, however, is engineered.
 
 The families and institutions that understand this distinction produce dynastic longevity.
 
-Those that do not, dissolve. **Proverbs 13:22*
+Those that do not, dissolve. **Proverbs 13:22
+*
 * states: A good man leaves an inheritance to his children’s children.
 
 Modern institutional structure translates that sentence into collateral, cashflow, and covenant design.
@@ -335,7 +336,8 @@ It can be engineered.
 
 And it can be transmitted generationally.
 
-That is the point. **Proverbs 13:22*
+That is the point. **Proverbs 13:22
+*
 * is not philosophy.
 
 It is governance.
@@ -454,11 +456,15 @@ Nothing else produces this effect at scale.
 
 Confidential capital audit available on request.
 
-Mandate threshold: DSCR > 1.35x. # 
+Mandate threshold: DSCR > 1.35x.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

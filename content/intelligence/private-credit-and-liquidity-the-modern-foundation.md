@@ -92,7 +92,7 @@ The flow of capital into private credit is not a trend, it is a recalibration of
 
 Each level requires discipline.
 
-Each level influences portfolio stability. # 
+Each level influences portfolio stability.
 
 ## Facility Level Liquidity At the facility level, liquidity is controlled by structure.
 
@@ -108,7 +108,7 @@ The lender sets the architecture.
 
 The borrower operates within it.
 
-Liquidity risk is not something that emerges, it is designed. # 
+Liquidity risk is not something that emerges, it is designed.
 
 ## Portfolio Level Liquidity At the portfolio level, liquidity is a function of diversification, maturity sequencing, and reserve management.
 
@@ -120,7 +120,7 @@ It maintains mechanisms for opportunistic redeployment.
 
 Portfolio liquidity is not about selling the asset.
 
-It is about controlling the calendar. # 
+It is about controlling the calendar.
 
 ## Institutional Balance Sheet Liquidity At the institutional level, liquidity determines strategic freedom.
 
@@ -198,7 +198,7 @@ Configurable exposure structures.
 
 It is not merely an income tool.
 
-It is a liquidity stabilizer. # 
+It is a liquidity stabilizer.
 
 ## Allocation Weighting Most allocators begin with a conservative allocation.
 
@@ -208,7 +208,7 @@ The asset class earns trust because it behaves consistently.
 
 It provides yield without correlation.
 
-It provides stability without illiquidity shocks. # 
+It provides stability without illiquidity shocks.
 
 ## Duration Structuring Short and intermediate duration strategies are increasingly favored.
 
@@ -216,7 +216,7 @@ They create a balance between return and flexibility.
 
 They allow institutions to pivot as market conditions evolve.
 
-Duration control is one of the largest advantages private credit offers over traditional fixed income. # 
+Duration control is one of the largest advantages private credit offers over traditional fixed income.
 
 ## Risk Governance Institutions that excel in private credit adhere to strict risk governance.
 
@@ -260,7 +260,7 @@ It offers return consistency that equities cannot match.
 
 It offers volatility insulation that fixed income cannot maintain.
 
-It offers structural control that public credit cannot replicate. # 
+It offers structural control that public credit cannot replicate.
 
 ## Why Institutions Increase Exposure Over Time Institutions increase private credit exposure because the asset class demonstrates reliability under stress.
 
@@ -270,7 +270,7 @@ Default rates remain manageable.
 
 Recoveries remain strong.
 
-These characteristics improve the liquidity structure of the entire portfolio. # 
+These characteristics improve the liquidity structure of the entire portfolio.
 
 ## Impact on Total Portfolio Liquidity Private credit creates a smoother liquidity curve.
 
@@ -306,7 +306,9 @@ The architecture of global liquidity is evolving.
 
 Private credit is one of its primary design tools.
 
-Institutions that understand this shift will shape the next cycle rather than react to it. ## ## 
+Institutions that understand this shift will shape the next cycle rather than react to it. 
+
+ 
 
 ## CONCLUSION
 
@@ -322,11 +324,15 @@ It creates structural resilience.
 
 It offers a level of control that traditional markets cannot match.
 
-Request confidential audit # 
+Request confidential audit
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

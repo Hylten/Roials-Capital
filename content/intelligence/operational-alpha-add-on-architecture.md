@@ -200,11 +200,17 @@ Operational alpha is not optional because operational opacity is no longer toler
 
 The world is witnessing the collision of three forces: 
 
-1. A new LP class accustomed to precision economies. 
+1.
 
-2. A global environment where efficiency determines resilience. 
+A new LP class accustomed to precision economies. 
 
-3. A technology layer that punishes lack of structure.
+2.
+
+A global environment where efficiency determines resilience. 
+
+3.
+
+A technology layer that punishes lack of structure.
 
 This creates a single reality: Add‑ons without systems are liabilities.
 
@@ -334,4 +340,6 @@ You know your category.
 
 If you seek a confidential capital audit, initiate the request.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -16,9 +16,9 @@ It is a structural precondition for longevity.
 
 It allows capital to move through multi asset frameworks without triggering unwanted constraints, valuation freezes, or forced liquidity events.
 
-This paper defines the ## 
+This paper defines the 
 
-## TECHNICAL MECHANICS
+ TECHNICAL MECHANICS
 
  behind covenant tolerant routing.
 
@@ -301,9 +301,9 @@ It is a structural endpoint.
 
 The infrastructure exists today.
 
-The scaling is ongoing. # ## 
+The scaling is ongoing. # 
 
-## CONCLUSION
+ CONCLUSION
 
  Covenant tolerant capital routing is not an enhancement.
 
@@ -325,4 +325,6 @@ Together they produce structural precision at institutional scale.
 
 Request confidential audit
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

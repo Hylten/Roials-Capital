@@ -18,16 +18,19 @@ The focus is not on promotion or yield language.
 
 The focus is structural.
 
-The objective is to provide the institutional reader with a framework for understanding market navigation, technical recovery mechanics, and the relevance of disciplined stewardship within sophisticated multi jurisdiction portfolios. 
+The objective is to provide the institutional reader with a framework for understanding market navigation, technical recovery mechanics, and the relevance of disciplined stewardship within sophisticated multi jurisdiction portfolios.
 
-## PHASE 
+Phase I: .
 
-1. ## ## ## ## 
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
- North American energy markets in 202
-6 are defined by three simultaneous dynamics.
+ North American energy markets in 20
+
+26 are defined by three simultaneous dynamics.
 
 First is the withdrawal of traditional capital providers from upstream and thermal heavy production due to policy signaling rather than resource behavior.
 
@@ -51,7 +54,9 @@ Alberta conventional and thermal assets exhibit some of the clearest forward pro
 
 This is a key reason why knowledgeable private credit and hybrid vehicle managers have begun repositioning around these cycles since 
 
-2022. The ecosystem is reshaping around counterparties who understand the regulatory cadence, the land tenure system, and the field-level data emerging from brownfield redevelopment.
+2022.
+
+The ecosystem is reshaping around counterparties who understand the regulatory cadence, the land tenure system, and the field-level data emerging from brownfield redevelopment.
 
 The shift is also regulatory.
 
@@ -61,11 +66,13 @@ This divergence reduces the appetite of institutional lenders who must satisfy i
 
 The result is a vacuum.
 
-That vacuum is now being filled by mid market private operators who understand that engineering, not politics, determines the real productivity of a thermal reservoir. 
+That vacuum is now being filled by mid market private operators who understand that engineering, not politics, determines the real productivity of a thermal reservoir.
 
-## PHASE 
+Phase II: .
 
-2. ## ## ## ## 
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -120,17 +127,17 @@ It is structured operational predictability.
 
 The combination of thermal heavy oil and mid-depth conventional zones creates a diversified production profile that behaves like a natural collateral base.
 
-It becomes ideal for private buyers who need commodity resilience but do not require speculative upside. 
+It becomes ideal for private buyers who need commodity resilience but do not require speculative upside.
 
-## PHASE 
+Phase III: .
 
-3. THE PARTNERSHIP MODEL Roials Capital operates within this environment as a strategic navigator rather than as an owner or operator.
+THE PARTNERSHIP MODEL Roials Capital operates within this environment as a strategic navigator rather than as an owner or operator.
 
 ## THE MANDATE
 
- is institutional ## 
+ is institutional 
 
-## INTRODUCTION
+ INTRODUCTION
 
  , market navigation, and architectural design of cross border capital structures that align with the objectives of sovereign entities, UHNW families, private credit funds, and European MiFID II governed platforms.
 
@@ -146,9 +153,9 @@ NAEO is positioned within the Alberta regime shift due to its operating discipli
 
 Roials Capital acts as the institutional architect that supports allocators in understanding the resource, the operational cadence, and the structuring options available without engaging in promotional or returns oriented language.
 
-The ## 
+The 
 
-## INTRODUCTION
+ INTRODUCTION
 
  model is designed around institutional archetypes.
 
@@ -166,20 +173,19 @@ Each allocator operates under different reporting regimes, leverage constraints,
 
 Roials Capital supports this navigation by providing clarity on land tenure systems, abandonment liability rules, facility integrity standards, and forward curve implications for amortization schedules.
 
-The objective is to provide the allocator with a clear understanding of how these assets behave over time and how they integrate into a sophisticated liquidity architecture. 
+The objective is to provide the allocator with a clear understanding of how these assets behave over time and how they integrate into a sophisticated liquidity architecture.
 
-## PHASE 
+Phase IV: .
 
-4. ## 
-
-## THE STEWARDSHIP FILTER Strategic capital deployment in natural resources is not a simple function of rate of return.
+THE STEWARDSHIP FILTER Strategic capital deployment in natural resources is not a simple function of rate of return.
 
 It is a question of stewardship.
 
 Stewardship in this context refers to the disciplined management of non wasteful extraction, responsible reservoir development, and capital allocation principles that avoid speculative leverage.
 
 This principle has theological roots. 
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * establishes the obligation of intergenerational capital responsibility.
 
 Institutional allocators increasingly apply this lens in sectors where resource development intersects with long term societal obligations.
@@ -208,14 +214,15 @@ Strong stewardship reduces operational variance.
 
 Reduced variance increases credit confidence.
 
-Increased credit confidence raises opportunity velocity for subsequent acquisitions and infill development programs. 
+Increased credit confidence raises opportunity velocity for subsequent acquisitions and infill development programs.
 
-## PHASE 
+Phase V: .
 
-5. A ## 
+A
 
-## DECISION MAKING LENS FOR THE ALLOCATOR Sophisticated allocators in 202
-6 are navigating an environment where traditional public markets do not provide sufficient diversification, where private equity vintages are elongated, and where liquidity windows are asymmetrical.
+ DECISION MAKING LENS FOR THE ALLOCATOR Sophisticated allocators in 20
+
+26 are navigating an environment where traditional public markets do not provide sufficient diversification, where private equity vintages are elongated, and where liquidity windows are asymmetrical.
 
 Strategic Liquidity Architecture involves repositioning capital into structures that combine durability, operational transparency, and cross border optionality.
 
@@ -239,4 +246,6 @@ The Alberta energy ecosystem rewards those who understand its technical reality 
 
 Roials Capital functions as a navigator across these domains, ensuring that the institutional allocator engages with the landscape through disciplined, compliant, and intelligence driven pathways. [END OF BRIEFING]
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

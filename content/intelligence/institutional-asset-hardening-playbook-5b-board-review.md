@@ -36,7 +36,8 @@ Layered.
 
 Audit-proof.
 
-Board-ready. **Proverbs 13:22*
+Board-ready. **Proverbs 13:22
+*
 * .
 
 Begin with the first law: Nothing scales without a hardened balance sheet.
@@ -234,10 +235,13 @@ Financial hardening creates durability.
 
 Durability compels capital.
 
-Jurisdictional Hardening A $5B board review is 4
-0 percent legal. 4
-0 percent regulatory. 2
-0 percent structural storytelling.
+Jurisdictional Hardening A $5B board review is 
+
+40 percent legal. 
+
+40 percent regulatory. 
+
+20 percent structural storytelling.
 
 If jurisdiction collapses under pressure, nothing else matters.
 
@@ -523,14 +527,19 @@ LPs trust systems.
 
 Fund-III demands both.
 
-FINAL DIRECTIVE This briefing stands on one metric: Institutional Survivability Index = 0.8
-7 or higher. # 
+FINAL DIRECTIVE This briefing stands on one metric: Institutional Survivability Index = 0.
+
+87 or higher.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -46,7 +46,9 @@ They see the governance.
 
 They see the premium inherent in stepping into a position normally reserved for institutions. 
 
-1. Yield Stability.
+1.
+
+Yield Stability.
 
 Predictable.
 
@@ -56,7 +58,9 @@ Non‑correlated to public markets.
 
 UHNW investors want consistent velocity, not narrative cycles. 
 
-2. Structural Priority.
+2.
+
+Structural Priority.
 
 They step into senior or unitranche exposure within a PE‑controlled environment.
 
@@ -68,7 +72,9 @@ They see the path to enforcement if required.
 
 They rarely need it. 
 
-3. Jurisdictional Advantage.
+3.
+
+Jurisdictional Advantage.
 
 Multi‑region structuring gives them insulation.
 
@@ -114,4 +120,6 @@ It moves accordingly.
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

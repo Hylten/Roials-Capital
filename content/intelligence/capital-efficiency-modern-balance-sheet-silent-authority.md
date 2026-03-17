@@ -40,7 +40,8 @@ Private credit overlays.
 
 Institutional Liquidity Paths that operates beneath threshold visibility yet above regulatory suspicion.
 
-This is where institutional capital now allocates-toward managers that embed principal authority inside their core holdings. **Proverbs 13:22*
+This is where institutional capital now allocates-toward managers that embed principal authority inside their core holdings. **Proverbs 13:22
+*
 * states: A good man leaveth an inheritance to his children’s children: and the wealth of the sinner is laid up for the just.
 
 The institutional translation is clear.
@@ -538,17 +539,22 @@ Institutional investors will not tolerate improvisation.
 
 They demand structure.
 
-And they reward it with scale. **Proverbs 13:22*
+And they reward it with scale. **Proverbs 13:22
+*
 * echoes here again: inheritance is a built structure, not a found opportunity.
 
 Fund-III must embody that principle. 
 -  
 -  
--  Mandate: Initiate confidential capital audit across all Fund-III holdings and targets. # 
+-  Mandate: Initiate confidential capital audit across all Fund-III holdings and targets.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

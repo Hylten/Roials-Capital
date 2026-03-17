@@ -32,25 +32,25 @@ Uncorrelated to volatility events.
 
 Calibrated to the real liquidity needs of UHNW portfolios that operate across jurisdictions, cycles, and legacy timelines. 
 
-## The Strategic Advantages for UHNW Families Institutional private credit, when architected as the liquidity base layer, creates compounding advantages across the entire portfolio. # 
+## The Strategic Advantages for UHNW Families Institutional private credit, when architected as the liquidity base layer, creates compounding advantages across the entire portfolio.
 
 ## Reduced Portfolio Stress Correlation Liquidity is not sourced from markets that move.
 
-It is sourced from contracts that perform. # 
+It is sourced from contracts that perform.
 
 ## Improved Intergenerational Stability Family governance frameworks gain stability when liquidity is predictable.
 
-This reduces forced asset sales and preserves legacy assets. # 
+This reduces forced asset sales and preserves legacy assets.
 
-## Enhanced Opportunity Readiness When liquidity is engineered, opportunities can be captured without compromising long term strategy. # 
+## Enhanced Opportunity Readiness When liquidity is engineered, opportunities can be captured without compromising long term strategy.
 
 ## Lower Total Portfolio Volatility Liquidity failures are one of the primary drivers of hidden portfolio volatility.
 
 Eliminating them reduces systemic risk across every asset class. 
 
-## The New Liquidity Standard: A Structural ## 
+## The New Liquidity Standard: A Structural 
 
-## CONCLUSION
+ CONCLUSION
 
  UHNW portfolios are no longer constrained by market cycles.
 
@@ -74,11 +74,15 @@ A system that performs.
 
 A system that endures.
 
-Request confidential audit # 
+Request confidential audit
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

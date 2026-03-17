@@ -59,7 +59,9 @@ And it ensures that the asset, once hardened, behaves according to design rather
 
 For high net worth and ultra high net worth individuals, control is the true currency.
 
-Yield is the instrument that delivers that control. ## ## 
+Yield is the instrument that delivers that control. 
+
+ 
 
 ## CONCLUSION
 
@@ -81,11 +83,15 @@ Controlled leverage.
 
 And capital that remains sovereign.
 
-Request confidential audit # 
+Request confidential audit
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

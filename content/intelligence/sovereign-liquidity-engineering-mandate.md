@@ -47,9 +47,11 @@ Capital flows to power.
 Power flows to structure.
 
 F‑Framework 2.
-0 (Logic Layer) Layer 
+0 (Logic Layer)
 
-1. Foundation Positioning The Principal must define the *sovereign perimeter*.
+Layer I:.
+
+Foundation Positioning The Principal must define the *sovereign perimeter*.
 
 Asset pools.
 
@@ -89,9 +91,9 @@ Hard impact.
 
 Precision wins.
 
-Layer 
+Layer II:.
 
-2. Structural Arbitrage Jurisdiction determines optionality.
+Structural Arbitrage Jurisdiction determines optionality.
 
 Optionality determines liquidity.
 
@@ -115,9 +117,9 @@ The sovereign mandate demands jurisdictional arbitrage.
 
 No apologies.
 
-Layer 
+Layer III:.
 
-3. Institutional Hierarchical Dynamics Banks lend on history.
+Institutional Hierarchical Dynamics Banks lend on history.
 
 Private credit lends on cash flow.
 
@@ -133,12 +135,13 @@ This is the domain where Fund-III dominates.
 
 LPs understand the delta: engineering status produces non-dilutive capital without introducing risk contagion.
 
-A sovereign firm controls its own liquidity. **Proverbs 13:22*
+A sovereign firm controls its own liquidity. **Proverbs 13:22
+*
 * .
 
-Layer 
+Layer IV:.
 
-4. Sovereign Output Asset-Based Lending outputs are predictable when engineered correctly: 
+Sovereign Output Asset-Based Lending outputs are predictable when engineered correctly: 
 -  Liquidity corridors for buyout velocity 
 -  Refinancing shields for leverage optimization 
 -  Non-market-dependent capital sourcing 
@@ -311,13 +314,17 @@ Control.
 
 Sovereignty.
 
-This is the architecture that elevates Fund-III from successful to unstoppable. # 
+This is the architecture that elevates Fund-III from successful to unstoppable.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

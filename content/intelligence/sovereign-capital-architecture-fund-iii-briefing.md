@@ -36,7 +36,8 @@ Sharp cuts.
 
 No fillers.
 
-A Fund-III vehicle becomes sovereign only when its capital formation engine outperforms its operational strategy. **Proverbs 13:22*
+A Fund-III vehicle becomes sovereign only when its capital formation engine outperforms its operational strategy. **Proverbs 13:22
+*
 * says: a good man leaves an inheritance to his children's children.
 
 The institutional translation: capital systems must outlive the cycle that created them.
@@ -389,7 +390,8 @@ Structure multiplies capital.
 
 Legacy justifies capital.
 
-A sovereign capital architecture exists to create generational transfer through institutional repetition. **Proverbs 13:22*
+A sovereign capital architecture exists to create generational transfer through institutional repetition. **Proverbs 13:22
+*
 * applies again: a good man leaves an inheritance, but here the inheritance is structural continuity.
 
 Continuity through capital.
@@ -487,13 +489,17 @@ End mandate metric: Liquidity Coverage Ratio Target >
 
 1. 
 
-85. # 
+85.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

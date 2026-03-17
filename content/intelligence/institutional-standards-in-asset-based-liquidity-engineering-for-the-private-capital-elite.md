@@ -134,7 +134,9 @@ We elevate it to a full architectural system.
 
 ## Crypto Capital Structuring: Thresholds and Institutional Controls Crypto Capital Structuring is viable only when executed with institutional control.
 
-We enforce a minimum threshold of 2,000,00
+We enforce a minimum threshold of 2,000,
+
+00
 0 dollars.
 
 This requirement is not arbitrary.
@@ -156,7 +158,9 @@ It is a controlled liquidity engine designed for portfolios that already operate
 
 Market liquidity is deep, but price behavior can be influenced by event cycles, macro shifts, or idiosyncratic catalysts.
 
-Our threshold is a minimum of 5,000,00
+Our threshold is a minimum of 5,000,
+
+00
 0 dollars in public equity positions.
 
 This ensures the portfolio is sufficiently capitalized to support a stable Capital Structuring structure.
@@ -193,19 +197,19 @@ This is the ROIALS CAPITAL philosophy.
 
 Not improvisation.
 
-Our systems follow a three-layer structure. # 
+Our systems follow a three-layer structure.
 
-## Layer One: Asset Forensics We conduct deep asset verification.
+Layer One: Asset Forensics We conduct deep asset verification.
 
 Not surface-level valuation.
 
-This includes scenario modeling, risk distribution analysis, and cross-environment stress testing. # 
+This includes scenario modeling, risk distribution analysis, and cross-environment stress testing.
 
-## Layer Two: Structural Design We design the Capital Structuring structure to match the behavior of the asset, not the other way around.
+Layer Two: Structural Design We design the Capital Structuring structure to match the behavior of the asset, not the other way around.
 
-This may include multi-layer collateral frameworks, custodial partitioning, or controlled liquidity corridors. # 
+This may include multi-layer collateral frameworks, custodial partitioning, or controlled liquidity corridors.
 
-## Layer Three: Execution Discipline Once engineered, the structure does not change.
+Layer Three: Execution Discipline Once engineered, the structure does not change.
 
 Execution becomes mechanical.
 
@@ -236,9 +240,13 @@ They are filters.
 They ensure that every participant in the system contributes to its structural quality.
 
 ROIALS CAPITAL maintains: 
--  2,000,00
+-  2,000,
+
+00
 0 minimum for crypto Monetization Architecture. 
--  5,000,00
+-  5,000,
+
+00
 0 minimum for public share Monetization Architecture. 
 -  Private credit and Asset-Based Lending engagements calibrated at institutional scale.
 
@@ -315,11 +323,15 @@ This is institutional asset-based Strategic Collateralization.
 
 This is the architecture that governs elite capital. 
 
-## Request Confidential Audit To align your assets with institutional-grade liquidity, request a confidential audit. # 
+## Request Confidential Audit To align your assets with institutional-grade liquidity, request a confidential audit.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

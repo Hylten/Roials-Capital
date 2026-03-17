@@ -62,7 +62,8 @@ Institutional.
 
 Precision‑driven.
 
-The lens is allocator psychology and GP positioning. **Proverbs 13:22*
+The lens is allocator psychology and GP positioning. **Proverbs 13:22
+*
 * : capital must outlive the architect. 
 
 ## INSTITUTIONAL LAYOUT Fund‑III allocators apply three governing filters: 
@@ -103,13 +104,21 @@ Not persuasion.
 
 ## CAPITAL‑RAISING INFRASTRUCTURE Fund‑III platforms must operate with four structural pillars: 
 
-1. Base Infrastructure (Core) 
+1.
 
-2. Mobilization Infrastructure (Capital Entry) 
+Base Infrastructure (Core) 
 
-3. Transmission Infrastructure (Portfolio Execution) 
+2.
 
-4. Extraction Infrastructure (Liquidity and Exit) These systems create allocator confidence.
+Mobilization Infrastructure (Capital Entry) 
+
+3.
+
+Transmission Infrastructure (Portfolio Execution) 
+
+4.
+
+Extraction Infrastructure (Liquidity and Exit) These systems create allocator confidence.
 
 Confidence increases commitment elasticity.
 
@@ -298,13 +307,21 @@ Fund‑III GPs without Asset-Based Lending partners face discounted commitments.
 
 Fund‑III requires capacity to service: 
 
-1. NAEOC $50M‑$250M energy mandates 
+1.
 
-2. EU MiFID II acquisition mandates 
+NAEOC $50M‑$250M energy mandates 
 
-3. Strategic industrial buyouts 
+2.
 
-4. Private credit overlays Energy mandates demand: 
+EU MiFID II acquisition mandates 
+
+3.
+
+Strategic industrial buyouts 
+
+4.
+
+Private credit overlays Energy mandates demand: 
 -  Reserve‑based underwriting 
 -  Hedging discipline 
 -  Midstream leverage neutrality 
@@ -423,9 +440,9 @@ Allocators expect precision.
 
 Precision attracts institutions.
 
-Institutions scale funds. ## ## ## ## ## 
+Institutions scale funds.
 
-## CONCLUSION
+CONCLUSION
 
  Fund‑III capital‑raising depends on infrastructure density.
 
@@ -453,12 +470,17 @@ Increase commitment elasticity.
 
 For confidential capital audit, submit allocation parameters and jurisdictional exposure grid.
 
-Throughput Resilience Index: 0.9
-2 # 
+Throughput Resilience Index: 0.
+
+92
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

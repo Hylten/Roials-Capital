@@ -36,7 +36,9 @@ The reporting stack conforms to it.
 
 Never invert the order. 
 
-1. Governance Spine.
+1.
+
+Governance Spine.
 
 Board clarity.
 
@@ -52,7 +54,9 @@ Committee charters drafted as if entering a sovereign registry.
 
 Because you are. 
 
-2. Reporting Regime.
+2.
+
+Reporting Regime.
 
 Allocator-grade cadence.
 
@@ -76,7 +80,9 @@ Clean.
 
 Non‑negotiable. 
 
-3. Multi-Jurisdictional Interfaces.
+3.
+
+Multi-Jurisdictional Interfaces.
 
 Fund‑III runs on cross-border execution.
 
@@ -162,4 +168,6 @@ Write it well.
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

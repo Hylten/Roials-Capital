@@ -20,7 +20,11 @@ What follows is an institutional framework for understanding why capital moves, 
 
 The purpose is not solicitation.
 
-The purpose is clarity for allocators calibrating exposures ahead of a multi year balance sheet recalibration cycle. ## ## ## ## 
+The purpose is clarity for allocators calibrating exposures ahead of a multi year balance sheet recalibration cycle. 
+
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
@@ -54,13 +58,17 @@ These imbalances drive allocators toward sectors with measurable recovery curves
 
 This is why North American heavy oil has reentered institutional conversations.
 
-Not as a commodity trade, but as a quantifiable productive asset class. ## 
+Not as a commodity trade, but as a quantifiable productive asset class.
 
-## THE REGIME SHIFT
+THE REGIME SHIFT
 
  establishes the foundation for capital migration: institutions are prioritizing operational visibility over growth narratives.
 
-Migration follows transparency. ## ## ## ## 
+Migration follows transparency. 
+
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -112,13 +120,17 @@ Allocators migrate toward transparency.
 
 Waterfalls provide it.
 
-ENERGY: ## ## ## ## 
+ENERGY: 
+
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
- OF THE ALBERTA BASIN North American energy, specifically the Alberta basin, operates with ## 
+ OF THE ALBERTA BASIN North American energy, specifically the Alberta basin, operates with 
 
-## TECHNICAL MECHANICS
+ TECHNICAL MECHANICS
 
  that are not widely understood by generalist allocators.
 
@@ -167,13 +179,13 @@ The firm’s neutrality ensures allocators receive structural clarity rather tha
 Market navigation requires translating noise into actionable structural intelligence.
 
 Roials Capital delivers institutional clarity around buyout sequences for Fund-III managers, Monetization Architecture structures in private credit, and technical exposure in the Alberta basin through NAEO. 
--  Institutional ## 
+-  Institutional 
 
-## INTRODUCTION
+ INTRODUCTION
 
- The ## 
+ The 
 
-## INTRODUCTION
+ INTRODUCTION
 
  process is not a transaction.
 
@@ -185,13 +197,18 @@ In energy, this involves NAEO.
 
 In private credit, this involves lenders with defined collateral frameworks.
 
-In private equity, this involves managers transitioning from Fund-II to Fund-III scaling. ## ## ## ## 
+In private equity, this involves managers transitioning from Fund-II to Fund-III scaling. 
+
+ 
+
+ 
 
 ## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful capital deployment.
 
 Allocators increasingly require a stewardship framework to validate exposures.
 
-Roials Capital uses a discipline drawn from **Proverbs 13:22*
+Roials Capital uses a discipline drawn from **Proverbs 13:22
+*
 * as the interpretive lens: capital should outlive the allocator and generate durability for the next generation.
 
 The Stewardship Filter evaluates exposures through: 
@@ -209,9 +226,9 @@ Stewardship does not tolerate artificial leverage or unsustainable draw schedule
 
 Capital must be allocated to production, operational efficiency, acquisition discipline, and structural hardening.
 
-Stewardship filters remove volatility by removing waste. ## ## ## 
+Stewardship filters remove volatility by removing waste.
 
-## DECISION MAKING LENS FOR THE ALLOCATOR Allocators operating in the current regime face three critical decisions: 
+DECISION MAKING LENS FOR THE ALLOCATOR Allocators operating in the current regime face three critical decisions: 
 -  Capital Concentration Where are the structural vacuums that create mispriced durability.
 
 Current data indicates private buyouts in Fund-III environments, Asset-Based Lending facilities with quantifiable collateral bases, and Alberta heavy oil operated by technical teams like NAEO. 
@@ -226,11 +243,15 @@ Roials Capital facilitates confidential consultations for allocators requiring l
 
 Capital migration clarifies where value is forming.
 
-Strategic alignment clarifies where allocators should be positioned before liquidity compressions force late entry. # 
+Strategic alignment clarifies where allocators should be positioned before liquidity compressions force late entry.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

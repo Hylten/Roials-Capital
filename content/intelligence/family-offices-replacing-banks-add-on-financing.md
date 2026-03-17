@@ -30,11 +30,17 @@ Private families understand this cadence.
 
 Three reasons dominate: 
 
-1. Regulation clipped the banks. 
+1.
 
-2. Time preference shifted. 
+Regulation clipped the banks. 
 
-3. Sovereign capital seeks proximity to operating yield.
+2.
+
+Time preference shifted. 
+
+3.
+
+Sovereign capital seeks proximity to operating yield.
 
 Internal logic now favors direct underwriting.
 
@@ -106,4 +112,6 @@ Execution over ceremony.
 
 If you require a confidential capital audit, state the target jurisdiction and the acquisition timeline.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

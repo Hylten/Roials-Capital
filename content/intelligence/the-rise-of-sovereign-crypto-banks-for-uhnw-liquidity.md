@@ -96,7 +96,9 @@ The issue is the lack of institutional grade lenders with the ability to structu
 
 Roials Capital provides crypto backed Strategic Collateralization with a minimum threshold of 2,000, 
 
-000. This threshold is intentional.
+000.
+
+This threshold is intentional.
 
 It aligns with the risk profile, operational load, and capital structures designed for UHNW borrowers.
 
@@ -119,7 +121,9 @@ These include:
 -  Forced diversification pressure 
 -  Settlement delay exposure Roials Capital provides public share Asset-Backed Frameworks starting at a minimum of 5,000, 
 
-000. This structure protects share ownership while allowing liquidity to be deployed into new opportunities or to fortify defensive positions.
+000.
+
+This structure protects share ownership while allowing liquidity to be deployed into new opportunities or to fortify defensive positions.
 
 It is engineered for discretion.
 
@@ -207,11 +211,15 @@ Roials Capital is part of this evolution, serving as an institutional architect 
 
 The next decade of UHNW wealth management will be defined by institutions that can operate in both digital and traditional domains with equal sophistication.
 
-Roials Capital is already operating inside that future. # Request confidential audit # 
+Roials Capital is already operating inside that future. # Request confidential audit
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

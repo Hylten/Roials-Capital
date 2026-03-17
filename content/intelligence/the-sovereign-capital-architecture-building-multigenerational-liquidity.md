@@ -24,9 +24,9 @@ Systems that expand optionality across decades.
 
 The Architecture is not a product.
 
-It is a governance model for capital itself. ## 
+It is a governance model for capital itself.
 
-## THE MANDATE
+THE MANDATE
 
  of Sovereign Capital Capital must be sovereign if it is to be durable.
 
@@ -93,7 +93,7 @@ They must be functionally intertwined.
 
 Separation creates insulation.
 
-Intertwining creates amplification. # 
+Intertwining creates amplification.
 
 ## Asset Sovereignty Asset sovereignty is the principle that assets must not depend on market valuations for their utility.
 
@@ -105,7 +105,7 @@ This is why Roials Capital prioritizes:
 -  secured claims 
 -  defensible yield sources The goal is not appreciation.
 
-Appreciation is a byproduct of structural strength. # 
+Appreciation is a byproduct of structural strength.
 
 ## Credit Sovereignty Credit sovereignty is the ability to generate liquidity without liquidating assets.
 
@@ -150,29 +150,29 @@ Diversification is a retail concept.
 
 Institutions rely on multi layer risk protocols.
 
-Roials Capital uses a tiered model. # 
+Roials Capital uses a tiered model.
 
-## Layer One: Collateral Integrity Collateral is the primary defensive mechanism.
+Layer One: Collateral Integrity Collateral is the primary defensive mechanism.
 
 If collateral fails, the structure fails.
 
 Therefore collateral is selected with surgical precision.
 
-It must be cash flowing, relevant, and jurisdictionally protected. # 
+It must be cash flowing, relevant, and jurisdictionally protected.
 
-## Layer Two: Cash Flow Prioritization Income streams are assigned to credit obligations according to a priority waterfall.
+Layer Two: Cash Flow Prioritization Income streams are assigned to credit obligations according to a priority waterfall.
 
 High priority flows stabilize liquidity.
 
-Lower priority flows create surplus. # 
+Lower priority flows create surplus.
 
-## Layer Three: Cross System Hedging Asset systems and credit systems hedge each other.
+Layer Three: Cross System Hedging Asset systems and credit systems hedge each other.
 
 When asset values compress, credit pathways expand.
 
-When credit spreads widen, asset yields compensate. # 
+When credit spreads widen, asset yields compensate.
 
-## Layer Four: Dynamic Leverage Governance Leverage is not a tool for amplification.
+Layer Four: Dynamic Leverage Governance Leverage is not a tool for amplification.
 
 It is a tool for sovereignty.
 
@@ -319,7 +319,9 @@ The architecture must remain intact under stress.
 
 Roials Capital does not predict the future.
 
-It prepares for all futures simultaneously. ## ## 
+It prepares for all futures simultaneously. 
+
+ 
 
 ## CONCLUSION
 
@@ -343,11 +345,15 @@ This is how multi generational liquidity is built.
 
 This is how institutional capital becomes sovereign.
 
-Request confidential audit # 
+Request confidential audit
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -32,11 +32,13 @@ Capital now demands governance, hard collateral, and institutional discipline.
 
 The allocators who internalize this early will extract multi-cycle advantage.
 
-Those who hesitate will finance the advantage of others. 
+Those who hesitate will finance the advantage of others.
 
-## PHASE 
+Phase I: .
 
-1. ## ## ## ## 
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
@@ -86,11 +88,13 @@ They view it as a filtration mechanism for character, competence, and covenant i
 
 The regime has already shifted.
 
-Those who do not architect around this shift will serve those who do. 
+Those who do not architect around this shift will serve those who do.
 
-## PHASE 
+Phase II: .
 
-2. ## ## ## ## 
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -163,15 +167,15 @@ Each is a duration lever.
 
 The mechanics are not negotiable.
 
-They are the architecture. 
+They are the architecture.
 
-## PHASE 
+Phase III: .
 
-3. ## ## 
+ 
 
-## THE ## 
+## THE 
 
-## STRATEGIC MODEL
+ STRATEGIC MODEL
 
  Fund-III is not a vehicle.
 
@@ -179,9 +183,9 @@ It is a governance structure.
 
 It exists to steward capital through an environment that penalizes opacity and rewards engineered simplicity.
 
-The ## 
+The 
 
-## STRATEGIC MODEL
+ STRATEGIC MODEL
 
  operates on three fronts.
 
@@ -237,19 +241,18 @@ We remove ambiguity at the root.
 
 The model is not designed for speed.
 
-It is designed for sovereignty over outcomes. 
+It is designed for sovereignty over outcomes.
 
-## PHASE 
+Phase IV: .
 
-4. ## 
-
-## THE STEWARDSHIP FILTER Stewardship is not sentimental.
+THE STEWARDSHIP FILTER Stewardship is not sentimental.
 
 Stewardship is the disciplined prevention of waste.
 
 Capital is a form of dominion entrusted by God.
 
-It must be governed with precision, because mismanaged capital invites destruction. **Proverbs 13:22*
+It must be governed with precision, because mismanaged capital invites destruction. **Proverbs 13:22
+*
 * .
 
 A good man leaves an inheritance to his children’s children.
@@ -292,21 +295,25 @@ It is not.
 
 It is operational theology.
 
-It is the practical expression of order. 
+It is the practical expression of order.
 
-## PHASE 
+Phase V: .
 
-5. EXIT Capital migration ends with one metric.
+EXIT Capital migration ends with one metric.
 
 Cost of error.
 
-Our mandate is to lower it to zero. # 
+Our mandate is to lower it to zero.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

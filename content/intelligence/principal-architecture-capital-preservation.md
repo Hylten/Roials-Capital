@@ -46,11 +46,13 @@ Below is the playbook that governs our approach.
 
 It is not advisory.
 
-It is operational doctrine. 
+It is operational doctrine.
 
-## PHASE 
+Phase I: .
 
-1. ## ## ## ## 
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
@@ -66,15 +68,18 @@ Leverage now has a memory.
 
 Every error compounds faster than it did seven years ago.
 
-The inefficiency is obvious: middle-market GPs still attempt to run 202
-0 underwriting inside a 202
-6 credit architecture.
+The inefficiency is obvious: middle-market GPs still attempt to run 20
+
+20 underwriting inside a 20
+
+26 credit architecture.
 
 That mismatch destroys LP trust.
 
 It destroys asset durability.
 
-Most dangerous, it destroys the sovereign purpose of capital, which is to build and transmit long horizon value. **Proverbs 13:22*
+Most dangerous, it destroys the sovereign purpose of capital, which is to build and transmit long horizon value. **Proverbs 13:22
+*
 * outlines this mandate without ambiguity.
 
 Capital does not belong to the present moment.
@@ -85,21 +90,29 @@ Fund-III must be constructed for this new regime.
 
 That means three directional truths. 
 
-1. Liquidity is primary strategy, not auxiliary tool. 
+1.
 
-2. Add-ons are not acceleration vehicles unless their integration cost is pre-verified at the cash-flow level. 
+Liquidity is primary strategy, not auxiliary tool. 
 
-3. Cross-collateralization is a liability unless engineered intentionally.
+2.
+
+Add-ons are not acceleration vehicles unless their integration cost is pre-verified at the cash-flow level. 
+
+3.
+
+Cross-collateralization is a liability unless engineered intentionally.
 
 A private market ruled by scarcity rewards managers who commit to structural simplicity.
 
 Few understand this.
 
-Even fewer execute it. 
+Even fewer execute it.
 
-## PHASE 
+Phase II: .
 
-2. ## ## ## ## 
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -111,26 +124,35 @@ Not optimism.
 
 Cash-flow discipline makes or breaks a buyout engine. 
 
-1. LTV Curves Preservation begins with the curve itself.
+1.
+
+LTV Curves Preservation begins with the curve itself.
 
 We operate with a simple doctrine: the curve must bend downward through amortization velocity, asset hardening, and integration synergies that produce real cash rather than paper multiples.
 
-The midpoint target for Fund-III portfolio LTV is set at 3
-2 to 4
-7 percent within 1
-8 months post-acquisition.
+The midpoint target for Fund-III portfolio LTV is set at 
+
+32 to 
+
+47 percent within 
+
+18 months post-acquisition.
 
 Anything above that bandwidth erodes covenant freedom. 
 
-2. Waterfall Geometry A waterfall is not a distribution diagram.
+2.
+
+Waterfall Geometry A waterfall is not a distribution diagram.
 
 It is a risk architecture.
 
 The first rule is non-negotiable: cash pays down fragility before it pays out return.
 
-Senior amortization exceeds baseline by 1
-1 to 1
-8 percent in stressed scenarios.
+Senior amortization exceeds baseline by 
+
+11 to 
+
+18 percent in stressed scenarios.
 
 Working capital buffers are mandated.
 
@@ -138,7 +160,9 @@ Break triggers are automated.
 
 This is stewardship expressed in numbers. 
 
-3. Recovery Factors In downturn mathematics, recovery is destiny.
+3.
+
+Recovery Factors In downturn mathematics, recovery is destiny.
 
 Asset-heavy operations with low obsolescence carry materially higher recoveries.
 
@@ -148,15 +172,15 @@ The recovery equation is strengthened further through Asset-Based Lending overla
 
 When these mechanics align, capital becomes self-defending.
 
-The structure protects itself even when the macro environment does not. 
+The structure protects itself even when the macro environment does not.
 
-## PHASE 
+Phase III: .
 
-3. ## ## 
+ 
 
-## THE ## 
+## THE 
 
-## STRATEGIC MODEL
+ STRATEGIC MODEL
 
  The partnership architecture is the operating engine.
 
@@ -164,8 +188,9 @@ Preservation is institutional, not incidental.
 
 ## THE MANDATE
 
- is 8
-0 percent capital raising for Fund-III across buyouts and add-ons.
+ is 
+
+80 percent capital raising for Fund-III across buyouts and add-ons.
 
 The capital stack is conservative by design.
 
@@ -175,8 +200,9 @@ They value patience over velocity.
 
 They value precision over spectacle.
 
-Our 1
-0 percent Asset-Based Lending mandate is not an opportunistic strategy.
+Our 
+
+10 percent Asset-Based Lending mandate is not an opportunistic strategy.
 
 It is a Monetization Architecture function integrated into the buyout machine.
 
@@ -190,9 +216,13 @@ It stabilizes borrowing bases.
 
 It turns operational chaos into definable metrics.
 
-The remaining 1
-0 percent sits in special mandates: NAEOC energy deployments, MiFID II regulated acquisitions, and targeted private credit structures between 5
-0 and 25
+The remaining 
+
+10 percent sits in special mandates: NAEOC energy deployments, MiFID II regulated acquisitions, and targeted private credit structures between 
+
+50 and 
+
+25
 0 million.
 
 These mandates serve one purpose: preserve optionality.
@@ -207,13 +237,11 @@ High conviction does not require noise.
 
 LPs do not invest in communication.
 
-They invest in structure. 
+They invest in structure.
 
-## PHASE 
+Phase IV: .
 
-4. ## 
-
-## THE STEWARDSHIP FILTER Every institutional decision passes through the stewardship filter.
+THE STEWARDSHIP FILTER Every institutional decision passes through the stewardship filter.
 
 If it wastes capital, it is rejected.
 
@@ -221,8 +249,11 @@ If it multiplies capital without violating discipline, it is accepted.
 
 The filter is theological.
 
-It is built on **Genesis 2:15*
-* and **Proverbs 21:5*
+It is built on **Genesis 2:15
+*
+* and **Proverbs 21:
+5
+*
 * .
 
 Stewardship is not a moral accessory.
@@ -239,14 +270,23 @@ This is why we refuse the industry’s addiction to financial engineering that i
 
 Stewardship imposes structural clarity. 
 
-1. No unquantified integration risk. 
+1.
 
-2. No leverage structures that depend on macro benevolence. 
+No unquantified integration risk. 
 
-3. No operational model that cannot survive a 2
-2 percent revenue compression. 
+2.
 
-4. No valuation thesis dependent on multiple expansion rather than cash creation.
+No leverage structures that depend on macro benevolence. 
+
+3.
+
+No operational model that cannot survive a 
+
+22 percent revenue compression. 
+
+4.
+
+No valuation thesis dependent on multiple expansion rather than cash creation.
 
 Preservation is an ethical command and an institutional requirement.
 
@@ -260,25 +300,31 @@ Fund-III will not compromise this standard.
 
 LPs who partner with us do not receive a portfolio.
 
-They receive a covenant of stewardship. 
+They receive a covenant of stewardship.
 
-## PHASE 
+Phase V: .
 
-5. EXIT The final signal of discipline is a metric, not a statement.
+EXIT The final signal of discipline is a metric, not a statement.
 
-For every platform we build inside Fund-III, the mandatory target is simple: Net unlevered MOIC 1.5
-4 within 2
-8 months.
+For every platform we build inside Fund-III, the mandatory target is simple: Net unlevered MOIC 1.
+
+54 within 
+
+28 months.
 
 Preservation begins at underwriting.
 
 It ends in realized mathematics.
 
-Request a confidential capital audit. # 
+Request a confidential capital audit.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

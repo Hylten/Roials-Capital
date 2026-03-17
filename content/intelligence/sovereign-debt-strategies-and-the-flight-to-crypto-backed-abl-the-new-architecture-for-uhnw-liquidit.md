@@ -110,7 +110,9 @@ It is the natural progression of collateral based finance.
 
 When digital assets reached sufficient market depth, they became eligible for structured Capital Structuring frameworks.
 
-ROIALS CAPITAL provides liquidity for crypto holders who qualify at a minimum threshold of 2,000,00
+ROIALS CAPITAL provides liquidity for crypto holders who qualify at a minimum threshold of 2,000,
+
+00
 0 dollars.
 
 This requirement filters for institutional users who understand the mechanics of collateral custody, risk parameters, and liquidity rotation.
@@ -149,12 +151,16 @@ Asset based Asset-Backed Frameworks, the subset where ROIALS CAPITAL operates, t
 
 It ties liquidity to specific collateral pools.
 
-ROIALS CAPITAL extends this framework across: Crypto backed Asset-Based Lending, minimum 2,000,00
+ROIALS CAPITAL extends this framework across: Crypto backed Asset-Based Lending, minimum 2,000,
+
+00
 0 dollars.
 
 Private credit aligned Strategic Collateralization structures.
 
-Public share Strategic Collateralization, minimum 5,000,00
+Public share Strategic Collateralization, minimum 5,000,
+
+00
 0 dollars.
 
 All three are designed for individuals who operate above the conventional HNWI thresholds.
@@ -241,10 +247,14 @@ We lend against private credit.
 
 We lend through asset based Monetization Architecture.
 
-We lend against crypto holdings for positions above 2,000,00
+We lend against crypto holdings for positions above 2,000,
+
+00
 0 dollars.
 
-We lend against public equities for positions above 5,000,00
+We lend against public equities for positions above 5,000,
+
+00
 0 dollars.
 
 These thresholds are not barriers.
@@ -297,7 +307,9 @@ ROIALS CAPITAL operates at the intersection of these trends.
 
 We do not follow the cycles.
 
-We build the mechanics that allow our clients to operate above them. ## ## 
+We build the mechanics that allow our clients to operate above them. 
+
+ 
 
 ## CONCLUSION
 
@@ -309,11 +321,15 @@ UHNWIs are moving toward crypto backed Asset-Based Lending because it provides n
 
 ROIALS CAPITAL stands inside this shift as a principal authority, providing institutional grade Asset-Backed Frameworks mechanisms built on private credit, asset based Capital Structuring, and high threshold crypto and public equity collateral structures.
 
-If liquidity is the architecture that supports your next strategic move, our role is to design it with precision. # 
+If liquidity is the architecture that supports your next strategic move, our role is to design it with precision.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

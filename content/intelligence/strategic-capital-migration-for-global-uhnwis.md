@@ -87,9 +87,13 @@ It is uncorrelated to public volatility, operates in the shadows of banking regu
 
 For our clients, private credit serves three core functions. # ## 
 
-1. Liquidity Without Disposition Selling assets introduces tax events and erodes long term compounding. balance sheet optimization against assets maintains ownership, preserves tax efficiency, and provides immediate movement capacity. # ## 
+1.
 
-2. Control Over Timing Markets move.
+Liquidity Without Disposition Selling assets introduces tax events and erodes long term compounding. balance sheet optimization against assets maintains ownership, preserves tax efficiency, and provides immediate movement capacity. # ## 
+
+2.
+
+Control Over Timing Markets move.
 
 Jurisdictions shift.
 
@@ -97,7 +101,9 @@ Opportunities surface when liquidity is scarce or mispriced.
 
 Clients who hold liquidity on demand dictate timing rather than react to it. # ## 
 
-3. Non Correlated Leverage Private credit operates on underwriting logic that is divorced from public market sentiment.
+3.
+
+Non Correlated Leverage Private credit operates on underwriting logic that is divorced from public market sentiment.
 
 Its stability becomes the foundation for predictable capital migration planning.
 
@@ -143,7 +149,9 @@ The structure, not the institution, becomes the power.
 
 Public shares carry liquidity but rarely deliver leverage at institutional terms unless engineered correctly.
 
-ROIALS CAPITAL provides public share Monetization Architecture for clients who meet the minimum threshold of 5,000,00
+ROIALS CAPITAL provides public share Monetization Architecture for clients who meet the minimum threshold of 5,000,
+
+00
 0 dollars in publicly listed securities.
 
 This threshold is intentional.
@@ -164,7 +172,9 @@ However, crypto Capital Structuring for retail markets bears no resemblance to i
 
 ROIALS CAPITAL operates exclusively at the institutional tier.
 
-The minimum threshold for crypto Asset-Backed Frameworks is 2,000,00
+The minimum threshold for crypto Asset-Backed Frameworks is 2,000,
+
+00
 0 dollars.
 
 This minimum ensures that we operate only in the domain where capital behaves structurally, not speculatively.
@@ -231,19 +241,27 @@ Market movement is predictable in the aggregate.
 
 Real risk is structural. # ## 
 
-1. Regulatory Asymmetry Regulations evolve faster than capital adjusts.
+1.
+
+Regulatory Asymmetry Regulations evolve faster than capital adjusts.
 
 Structures must anticipate change, not respond to it. # ## 
 
-2. Custodial Concentration Single custodian reliance increases exposure.
+2.
+
+Custodial Concentration Single custodian reliance increases exposure.
 
 Multi custodian frameworks reduce systemic risk. # ## 
 
-3. Jurisdictional Shock Events Sanctions, capital controls, and legal shifts can immobilize entire asset classes.
+3.
+
+Jurisdictional Shock Events Sanctions, capital controls, and legal shifts can immobilize entire asset classes.
 
 Mobility structures must be built before they are needed. # ## 
 
-4. Liquidity Fragmentation Liquidity is no longer universal.
+4.
+
+Liquidity Fragmentation Liquidity is no longer universal.
 
 It must be engineered.
 
@@ -288,11 +306,15 @@ Provide the structural mechanics that allow UHNW capital to remain liquid, invis
 
 We do not follow the market.
 
-We design the system the market adapts to. # 
+We design the system the market adapts to.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -16,7 +16,9 @@ They want platforms that hold shape under scrutiny.
 
 Under‑levered industrial operators stand tallest. 
 
-1. Regulatory compression.
+1.
+
+Regulatory compression.
 
 MiFID II forces clarity.
 
@@ -24,7 +26,9 @@ Buyers must evidence discipline in balance‑sheet exposure, not performance the
 
 A clean industrial platform-minimal debt, real assets, recurring operational throughput-fits the compliance grid without friction. 
 
-2. Yield neutrality.
+2.
+
+Yield neutrality.
 
 When euro‑denominated mandates chase predictable real‑asset yield, leverage becomes a contaminant.
 
@@ -34,7 +38,9 @@ Not financial engineering.
 
 Not artificial uplift. 
 
-3. Trans-Atlantic symmetry.
+3.
+
+Trans-Atlantic symmetry.
 
 European allocators now match North American expectations in Fund‑III buyouts: durability first, velocity second.
 
@@ -84,4 +90,6 @@ Send the data room.
 
 We’ll run the confidential capital audit and map which buyer clusters align with your platform’s leverage footprint.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

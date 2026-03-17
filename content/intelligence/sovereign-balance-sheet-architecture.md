@@ -40,7 +40,8 @@ Design reduces risk.
 
 Design produces permanence.
 
-Design scales Fund-III. **Proverbs 13:22*
+Design scales Fund-III. **Proverbs 13:22
+*
 * states: A good man leaves an inheritance to his children's children.
 
 Capital interprets this as continuity.
@@ -529,7 +530,8 @@ Efficiency compounds returns.
 
 Compounding attracts more capital.
 
-Capital expands the sovereign footprint. **Proverbs 13:22*
+Capital expands the sovereign footprint. **Proverbs 13:22
+*
 * : A good man leaves an inheritance to his children's children.
 
 For institutions, inheritance is longevity.
@@ -599,13 +601,17 @@ Design it.
 
 Protect it.
 
-Scale it. # 
+Scale it.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

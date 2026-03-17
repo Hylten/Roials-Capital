@@ -28,7 +28,8 @@ Regulatory posture is uneven.
 
 Liquidity premiums have inverted across private credit, hydrocarbons, mid‑market buyouts, and digital balance‑sheet instruments.
 
-Asset hardening becomes survival architecture, not strategic optionality. **Proverbs 13:22*
+Asset hardening becomes survival architecture, not strategic optionality. **Proverbs 13:22
+*
 * .
 
 Inheritance demands structure.
@@ -366,7 +367,8 @@ Hardening is the only defensible position.
 
 Markets punish fragility.
 
-Architecture eliminates fragility. **Proverbs 13:22*
+Architecture eliminates fragility. **Proverbs 13:22
+*
 * .
 
 Legacy is construction.
@@ -393,11 +395,15 @@ Raise institutional capital.
 
 Deploy with speed.
 
-The next step is confidential: initiate the capital audit. # 
+The next step is confidential: initiate the capital audit.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

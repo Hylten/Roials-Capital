@@ -20,11 +20,17 @@ Institutions select counterparties that display rigorous internal order.
 
 The allocator asks only three questions. 
 
-1. Is the principal aligned with covenant stewardship. 
+1.
 
-2. Is the framework engineered for repeatability under stress. 
+Is the principal aligned with covenant stewardship. 
 
-3. Is the platform audit-ready at all times.
+2.
+
+Is the framework engineered for repeatability under stress. 
+
+3.
+
+Is the platform audit-ready at all times.
 
 This is structural alignment.
 
@@ -46,15 +52,21 @@ Not a transactional one.
 
 The Roials thesis embeds three stewardship pillars. 
 
-1. Precision responsibility.
+1.
+
+Precision responsibility.
 
 Every liquidity facility is a moral act. 
 
-2. Order over aggression.
+2.
+
+Order over aggression.
 
 Growth never outruns governance. 
 
-3. Duty to the allocator.
+3.
+
+Duty to the allocator.
 
 Every dollar must remain safeguarded by design.
 
@@ -72,19 +84,33 @@ It is defined by structural readiness.
 
 A hardened platform displays seven signals. 
 
-1. Counterparty filtration protocols. 
+1.
 
-2. Multi-layer collateral verification. 
+Counterparty filtration protocols. 
 
-3. Capital stack mapping for every borrower. 
+2.
 
-4. Continuous liquidity diagnostics. 
+Multi-layer collateral verification. 
 
-5. Execution logs and time-to-capital metrics. 
+3.
 
-6. Covenant compliance automation. 
+Capital stack mapping for every borrower. 
 
-7. Transparent risk-to-recovery forecasting.
+4.
+
+Continuous liquidity diagnostics. 
+
+5.
+
+Execution logs and time-to-capital metrics. 
+
+6.
+
+Covenant compliance automation. 
+
+7.
+
+Transparent risk-to-recovery forecasting.
 
 Each signal is binary.
 
@@ -118,26 +144,27 @@ The filtration stage is the hidden gate that protects the allocator.
 
 The Roials filtration sequence operates in four ultra-short phases.
 
-Phase 
+Phase I: .
 
-1. Mandate alignment verification.
+Mandate alignment verification.
 
-Phase 
+Phase II: .
 
-2. Covenant compatibility check.
+Covenant compatibility check.
 
-Phase 
+Phase III: .
 
-3. Liquidity stress simulation.
+Liquidity stress simulation.
 
-Phase 
+Phase IV: .
 
-4. Counterparty ethics clearance.
+Counterparty ethics clearance.
 
 Only borrowers who pass all four phases move forward.
 
-This filtration removes 9
-2 percent of applicants.
+This filtration removes 
+
+92 percent of applicants.
 
 That is the correct ratio.
 
@@ -149,17 +176,29 @@ Underwriting is judgment.
 
 Institutional underwriting follows a simple structure. 
 
-1. Identify the core asset. 
+1.
 
-2. Validate the asset hardness. 
+Identify the core asset. 
 
-3. Quantify the liquidation timeline. 
+2.
 
-4. Map the operational integrity of the borrower. 
+Validate the asset hardness. 
 
-5. Establish covenant density based on the principal’s risk tolerance. 
+3.
 
-6. Test capital resilience under severe compression.
+Quantify the liquidation timeline. 
+
+4.
+
+Map the operational integrity of the borrower. 
+
+5.
+
+Establish covenant density based on the principal’s risk tolerance. 
+
+6.
+
+Test capital resilience under severe compression.
 
 The process is short.
 
@@ -260,23 +299,33 @@ It honors stewardship.
 
 Commitment 
 
-1. Covenant integrity as the primary operating principle.
+1.
+
+Covenant integrity as the primary operating principle.
 
 Commitment 
 
-2. High-density intelligence for allocators with sovereign mandates.
+2.
+
+High-density intelligence for allocators with sovereign mandates.
 
 Commitment 
 
-3. Zero tolerance for operational drift.
+3.
+
+Zero tolerance for operational drift.
 
 Commitment 
 
-4. Asset hardening as the core discipline.
+4.
+
+Asset hardening as the core discipline.
 
 Commitment 
 
-5. Execution velocity with moral order.
+5.
+
+Execution velocity with moral order.
 
 The framework is built for institutions, family offices, and UHNW principals who require predictable governance and uncompromising clarity. 
 
@@ -319,11 +368,15 @@ If the platform is ordered, the capital is protected.
 
 If the capital is protected, long-term partnership emerges. 
 
-## CTA Request confidential audit. # 
+## CTA Request confidential audit.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

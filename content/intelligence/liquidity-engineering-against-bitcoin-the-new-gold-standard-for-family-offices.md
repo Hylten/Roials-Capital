@@ -48,7 +48,7 @@ Maintain control.
 
 Unlock liquidity without triggering taxable events.
 
-Bitcoin, when paired with sophisticated asset based Asset-Backed Frameworks mechanics, satisfies each of these requirements with notable precision. # 
+Bitcoin, when paired with sophisticated asset based Asset-Backed Frameworks mechanics, satisfies each of these requirements with notable precision.
 
 ## The structural benefits are clear 
 -  Continuous market depth, which supports institutional scale collateralisation. 
@@ -68,18 +68,22 @@ We construct frameworks for families and principals who manage generational capi
 
 Our structures require intentionality.
 
-Thresholds protect the environment, the client, and the architecture. # 
+Thresholds protect the environment, the client, and the architecture.
 
-## Crypto Monetization Architecture Minimum threshold: 2,000,00
+## Crypto Monetization Architecture Minimum threshold: 2,000,
+
+00
 0 USD.
 
 This floor ensures the capital structure functions as institutional credit rather than transactional speculation.
 
 It signals a long horizon.
 
-It signals seriousness. # 
+It signals seriousness.
 
-## Public Share Asset-Backed Frameworks Minimum threshold: 5,000,00
+## Public Share Asset-Backed Frameworks Minimum threshold: 5,000,
+
+00
 0 USD.
 
 Positions of this size create predictable velocity within an Asset-Based Lending structure.
@@ -92,19 +96,19 @@ ROIALS CAPITAL is a partner only when the principal’s scale matches the archit
 
 ## Bitcoin as the New Gold Standard Gold earned its reputation over millennia.
 
-Bitcoin earned its reputation by displaying the same characteristics in a compressed time frame, with added advantages. # 
+Bitcoin earned its reputation by displaying the same characteristics in a compressed time frame, with added advantages.
 
 ## Scarcity backed by code, not governments Gold is scarce because nature limits it.
 
 Bitcoin is scarce because mathematics limits it.
 
-Scarcity backed by code cannot be nationalised, confiscated, or debased. # 
+Scarcity backed by code cannot be nationalised, confiscated, or debased.
 
 ## Immediate verifiability Assets that can be verified without human interpretation reduce operational risk.
 
 Bitcoin has no auditors, no custodial opacity, no political intermediaries.
 
-This is critical for secured Monetization Architecture. # 
+This is critical for secured Monetization Architecture.
 
 ## Global transportability Gold travels slowly.
 
@@ -112,7 +116,7 @@ Bitcoin travels at the speed of software.
 
 This mobility is not a novelty, it is a structural advantage.
 
-It compresses settlement time and enhances capital efficiency. # 
+It compresses settlement time and enhances capital efficiency.
 
 ## Deepening institutional demand Every year, market depth increases, custody infrastructure strengthens, and regulatory clarity improves.
 
@@ -136,7 +140,7 @@ The structure must be predictable.
 
 The structure must be silent.
 
-The structure must protect the principal from volatility without diminishing the asset’s long term utility. # 
+The structure must protect the principal from volatility without diminishing the asset’s long term utility.
 
 ## Our structural pillars 
 -  Private Credit Foundation: We operate in the disciplined, non speculative arena where collateral quality dictates terms. 
@@ -150,25 +154,25 @@ This is the difference between Strategic Collateralization as a transaction and 
 
 ## Why Bitcoin Outperforms Traditional Collateral in Credit Structures Family offices frequently rely on real estate, private equity positions, or public equities as collateral.
 
-Each has structural weaknesses. # 
+Each has structural weaknesses.
 
 ## Real estate Slow to liquidate.
 
 Valuation delays.
 
-Jurisdictional friction. # 
+Jurisdictional friction.
 
 ## Private equity Opaque valuation.
 
 High volatility.
 
-Minimal liquidity. # 
+Minimal liquidity.
 
 ## Public equities Market hours limited.
 
 Custodial fragmentation.
 
-Correlated risk during systemic shocks. # 
+Correlated risk during systemic shocks.
 
 ## Bitcoin corrects these weaknesses Bitcoin settles globally at all hours.
 
@@ -182,11 +186,11 @@ For Capital Structuring, this is ideal.
 
 Collateral that moves smoothly yields better structural outcomes. 
 
-## The Family Office Use Case: Liquidity Without Sacrifice ROIALS CAPITAL has observed a consistent trend among multi generational wealth structures. # 
+## The Family Office Use Case: Liquidity Without Sacrifice ROIALS CAPITAL has observed a consistent trend among multi generational wealth structures.
 
-## They want liquidity without liquidation. # 
+## They want liquidity without liquidation.
 
-## They want mobility without exposure. # 
+## They want mobility without exposure.
 
 ## They want leverage without systemic risk.
 
@@ -276,11 +280,15 @@ Bitcoin is the model.
 
 ROIALS CAPITAL is the architecture. 
 
-## Request confidential audit # 
+## Request confidential audit
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

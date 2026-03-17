@@ -12,7 +12,11 @@ Institutional allocators evaluating multi jurisdictional asset strategies have i
 
 Allocators that have historically constrained upstream exposure due to ESG risk weighting are now re calibrating toward asset classes where depletion curves are predictable, decline profiles are modeled over decades, and structural arbitrage remains driven by the gap between cost of capital and the operational discipline embedded within mature basins such as Alberta.
 
-The current environment favors those who treat each jurisdiction as a technical ecosystem rather than a geography, aligning capital deployment with the operational logic of the basin, the legal durability of the security package, and the sequencing of institutional governance across borders. ## ## ## ## 
+The current environment favors those who treat each jurisdiction as a technical ecosystem rather than a geography, aligning capital deployment with the operational logic of the basin, the legal durability of the security package, and the sequencing of institutional governance across borders. 
+
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
@@ -34,7 +38,11 @@ Allocators expect predictable LTV trajectories, harmonized cross collateralizati
 
 The confluence of these macro forces has produced a unique environment: institutional capital is abundant, but disciplined, while institutional grade opportunities are available, but require deep technical understanding.
 
-This misalignment produces opportunity for those who can serve as strategic navigators across North America, Europe, and emerging Middle Eastern hubs. ## ## ## ## 
+This misalignment produces opportunity for those who can serve as strategic navigators across North America, Europe, and emerging Middle Eastern hubs. 
+
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -52,11 +60,14 @@ Institutional allocators evaluating these assets often underestimate the mechani
 
 For instance: 
 -  Cold flow assets often maintain 
-8 percent to 1
-2 percent annual declines, enabling long term production modeling with minimal variance. 
--  SAGD recovery factors commonly range between 4
-5 percent and 6
-5 percent of original bitumen in place when reservoir design is optimized. 
+8 percent to 
+
+12 percent annual declines, enabling long term production modeling with minimal variance. 
+-  SAGD recovery factors commonly range between 
+
+45 percent and 
+
+65 percent of original bitumen in place when reservoir design is optimized. 
 -  CSS deployment increases operational complexity but can substantially extend economic life where reservoir pressure characteristics support repeated cycles.
 
 These mechanics matter because they directly influence capital structure design, debt coverage ratios, and the durability of cross border collateralization.
@@ -99,22 +110,27 @@ This includes:
 -  Multi domicile structuring. 
 -  Regulatory harmonization. 
 -  Seniority mapping across legal systems. 
--  Asset originator transparency. ## ## ## ## 
+-  Asset originator transparency. 
+
+ 
+
+ 
 
 ## THE STEWARDSHIP FILTER Stewardship operates as a discipline rather than an ethos.
 
 In evaluating multi jurisdictional asset structures, stewardship translates into non wasteful capital deployment, precision in resource management, and governance that aligns authority with responsibility.
 
-It draws from the principle in **Proverbs 13:22*
+It draws from the principle in **Proverbs 13:22
+*
 * where long term value creation is connected to generational discipline.
 
 Within energy systems, stewardship means deploying capital where decline profiles, reservoir physics, and operational governance reduce the probability of waste.
 
 In private credit, stewardship activates through balance sheet optimization and disciplined cash flow allocation.
 
-In cross border buyouts, stewardship demands clarity of control, avoidance of over engineered holding structures, and coherent integration sequencing. ## ## ## 
+In cross border buyouts, stewardship demands clarity of control, avoidance of over engineered holding structures, and coherent integration sequencing.
 
-## DECISION MAKING LENS FOR THE ALLOCATOR Institutional allocators engaging with multi jurisdictional assets require a calibration lens that aligns capital formation with structural durability.
+DECISION MAKING LENS FOR THE ALLOCATOR Institutional allocators engaging with multi jurisdictional assets require a calibration lens that aligns capital formation with structural durability.
 
 The allocator must examine: 
 -  Jurisdictional enforceability. 
@@ -127,10 +143,12 @@ The next stage is not transactional.
 
 It requires a confidential strategy audit to align structural architecture, jurisdictional exposure, and operational cadence.
 
-Roials Capital provides the navigational intelligence and institutional ## 
+Roials Capital provides the navigational intelligence and institutional 
 
-## INTRODUCTION
+ INTRODUCTION
 
  pathways to support this alignment across energy, private credit, and multi jurisdictional acquisitions.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

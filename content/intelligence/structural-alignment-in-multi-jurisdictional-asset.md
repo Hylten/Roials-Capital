@@ -104,19 +104,33 @@ Asset hardening is the removal of every interpretive layer that stands between a
 
 Cross border assets demand a specific hardening sequence: 
 
-1. Beneficial Ownership Purification 
+1.
 
-2. Lien Visibility Consolidation 
+Beneficial Ownership Purification 
 
-3. Transferability Reinforcement 
+2.
 
-4. Jurisdictional Risk Neutralization 
+Lien Visibility Consolidation 
 
-5. Covenant Standardization 
+3.
 
-6. Reporting Synchronization 
+Transferability Reinforcement 
 
-7. Discretionary Control Lockdown This sequence transforms the portfolio from multi jurisdictional complexity into a single jurisdiction logic, even if the assets themselves remain globally distributed.
+4.
+
+Jurisdictional Risk Neutralization 
+
+5.
+
+Covenant Standardization 
+
+6.
+
+Reporting Synchronization 
+
+7.
+
+Discretionary Control Lockdown This sequence transforms the portfolio from multi jurisdictional complexity into a single jurisdiction logic, even if the assets themselves remain globally distributed.
 
 The objective is not to neutralize geography.
 
@@ -257,19 +271,19 @@ This division eliminates conflict.
 
 Conflict is the enemy of alignment. 
 
-## Structural Integrity Tests A portfolio is considered institution ready when it passes three integrity tests: # 
+## Structural Integrity Tests A portfolio is considered institution ready when it passes three integrity tests:
 
 ## Jurisdictional Symmetry Test If a covenant can be enforced in jurisdiction A but not B, the structure fails.
 
 If lien rank can shift between A and B, the structure fails.
 
-If beneficial ownership clarity differs between A and B, the structure fails. # 
+If beneficial ownership clarity differs between A and B, the structure fails.
 
 ## Enforcement Continuity Test If enforcement requires new agreements, the structure fails.
 
 If enforcement depends on local courts with divergent standards, the structure fails.
 
-If enforcement creates timeline uncertainty, the structure fails. # 
+If enforcement creates timeline uncertainty, the structure fails.
 
 ## Transferability Finality Test If transfer cannot be executed without renegotiation, the structure fails.
 
@@ -371,11 +385,15 @@ It funds discipline, not improvisation.
 
 Alignment is destiny. 
 
-## CTA Request confidential audit # 
+## CTA Request confidential audit
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

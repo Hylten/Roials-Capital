@@ -12,30 +12,39 @@ Within this environment, stabilized yield has shifted from being a performance m
 
 Yield has become the primary variable that determines whether an asset operates as a liability absorber or a liquidity consumer.
 
-This is the operational definition of asset hardening in the current regime. 
+This is the operational definition of asset hardening in the current regime.
 
-## PHASE 
+Phase I: .
 
-1. ## ## ## ## 
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
- Across 202
-4 to 2026, allocators have been forced into a capital architecture defined by three converging phenomena. 
+ Across 20
 
-1. Incentive misalignment across commercial banks.
+24 to 2026, allocators have been forced into a capital architecture defined by three converging phenomena. 
+
+1.
+
+Incentive misalignment across commercial banks.
 
 Traditional lenders have migrated toward regulatory conformity rather than risk calibrated underwriting.
 
 The result is a compression of available credit for operationally sound but non conforming asset categories including lower mid market buyouts, family owned enterprises, and conventional energy producers. 
 
-2. Structural undersupply of institutional capital.
+2.
+
+Structural undersupply of institutional capital.
 
 Private credit allocations have expanded; however, the majority has clustered at the upper end of the market.
 
 The lower mid market is undercapitalized relative to its asset quality, operational durability, and free cash flow stability. 
 
-3. Return to physicality.
+3.
+
+Return to physicality.
 
 Institutional allocators are returning to asset classes that provide tangible collateral, deterministic cash flows, and operational oversight mechanisms.
 
@@ -51,11 +60,13 @@ The divergence is not cosmetic.
 
 It is the basis for institutional risk calibration.
 
-Yield is now functioning as the primary filter for determining which assets legitimately serve as capital anchors within a diversified institutional portfolio. 
+Yield is now functioning as the primary filter for determining which assets legitimately serve as capital anchors within a diversified institutional portfolio.
 
-## PHASE 
+Phase II: .
 
-2. ## ## ## ## 
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -73,25 +84,33 @@ It represents the efficiency of operational free cash flow conversion and the de
 
 Stabilized yield inside a buyout platform enables the following. 
 
-1. Capital stack stabilization.
+1.
+
+Capital stack stabilization.
 
 A consistent yield profile allows debt service coverage to remain above threshold levels across a range of economic conditions.
 
 This enables lenders to offer more favorable leverage ratios without increasing covenant pressure. 
 
-2. Lower operational entropy.
+2.
+
+Lower operational entropy.
 
 Stabilized yield reduces unpredictability in working capital cycles.
 
 This lowers the required buffer allocations and frees capital for accretive add ons or operational improvements. 
 
-3. Enhanced buy and build velocity.
+3.
+
+Enhanced buy and build velocity.
 
 When the platform generates predictable yield, add on transactions can be integrated with higher confidence and lower reserve ratios.
 
 This reduces execution friction and accelerates EBITDA multiple accretion. 
 
-4. Hardening of enterprise value.
+4.
+
+Hardening of enterprise value.
 
 Yield becomes a real time indicator of durability.
 
@@ -109,15 +128,21 @@ It determines the extent to which the collateral base can support senior leverag
 
 Yield in ABL mechanics influences: 
 
-1. Borrowing base elasticity.
+1.
+
+Borrowing base elasticity.
 
 Stable net operating yield increases the predictable turnover of collateral, enabling higher advance rates and reduced haircut requirements. 
 
-2. Line of credit efficiency.
+2.
+
+Line of credit efficiency.
 
 When yield stabilizes collateral performance, the line of credit functions as a liquidity release valve rather than a risk vector. 
 
-3. Balance sheet optimization.
+3.
+
+Balance sheet optimization.
 
 Yield drives the resonance between operating assets and financing instruments.
 
@@ -137,23 +162,31 @@ This distinguishes them from other industrial assets and makes them uniquely sui
 
 Primary factors: 
 
-1. Decline curve determinism.
+1.
+
+Decline curve determinism.
 
 Conventional heavy oil in Alberta follows decline curves with decades of empirical data.
 
 This produces predictable revenue profiles over multi year periods. 
 
-2. Recovery factor stability.
+2.
+
+Recovery factor stability.
 
 Technologies such as SAGD and CSS enhance recoverability without introducing destabilizing cost variability.
 
 They allow operators like our strategic partner NAEO to anchor yield around repeatable extraction cycles. 
 
-3. Reservoir physics.
+3.
+
+Reservoir physics.
 
 The geology of Alberta heavy oil creates pressure regimes that respond predictably to steam injection, producing yield curves that behave more like a long duration bond than a commodity exposed asset. 
 
-4. Regulatory predictability.
+4.
+
+Regulatory predictability.
 
 Alberta maintains consistent permitting standards that reduce project cycle variance.
 
@@ -165,11 +198,11 @@ It is mechanically enforced by the physics of reservoir behavior, the operationa
 
 This is why the counter intuitive truth holds.
 
-In 2026, the lowest risk energy assets in North America are conventional heavy oil with established decline curves. 
+In 2026, the lowest risk energy assets in North America are conventional heavy oil with established decline curves.
 
-## PHASE 
+Phase III: .
 
-3. THE PARTNERSHIP MODEL Roials Capital functions as an institutional navigator that introduces allocators to structurally coherent opportunities.
+THE PARTNERSHIP MODEL Roials Capital functions as an institutional navigator that introduces allocators to structurally coherent opportunities.
 
 The firm does not serve as operator, manager, or asset owner.
 
@@ -179,25 +212,31 @@ Instead, its role is to engineer alignment between allocators and the institutio
 
  distribution aligns with the demands of modern portfolio construction. 
 
-1. 8
-0 percent Kapitalanskaffning for Fund-III and above.
+1. 
+
+80 percent Kapitalanskaffning for Fund-III and above.
 
 These mandates focus on buyouts and platform roll ups that leverage yield as the anchor variable for operational scaling and enterprise value expansion.
 
 The focus is on sponsors with robust governance, proven integration capabilities, and transparent reporting cycles. 
 
-2. 1
-0 percent ABL and Liquidity Engineering.
+2. 
+
+10 percent ABL and Liquidity Engineering.
 
 Here the priority is the construction of balance sheet architectures where yield supports efficient leverage without creating fragility.
 
 The goal is structural clarity rather than maximum financial extraction. 
 
-3. 1
-0 percent special mandates.
+3. 
 
-These include NAEO energy capitalizations between 5
-0 million and 25
+10 percent special mandates.
+
+These include NAEO energy capitalizations between 
+
+50 million and 
+
+25
 0 million dollars, and select EU MiFID II compliant acquisition pathways for institutions expanding their continental footprint.
 
 In each case, Roials Capital provides three forms of intelligence.
@@ -218,9 +257,9 @@ C.
 
 Operational Intelligence.
 
-Translating ## 
+Translating 
 
-## TECHNICAL MECHANICS
+ TECHNICAL MECHANICS
 
  into decision relevant information that supports institutional calibration.
 
@@ -228,42 +267,49 @@ This partnership model maintains neutrality.
 
 The allocator retains full discretion.
 
-Roials Capital provides clarity, filters complexity, and maintains strategic alignment across all interactions. 
+Roials Capital provides clarity, filters complexity, and maintains strategic alignment across all interactions.
 
-## PHASE 
+Phase IV: .
 
-4. ## 
-
-## THE STEWARDSHIP FILTER Stewardship is not a marketing concept.
+THE STEWARDSHIP FILTER Stewardship is not a marketing concept.
 
 It is a discipline within capital allocation that evaluates the degree to which capital is employed in a manner consistent with non wasteful resource management.
 
-This discipline aligns with the Biblical principle that a good person leaves an inheritance for future generations **Proverbs 13:22*
+This discipline aligns with the Biblical principle that a good person leaves an inheritance for future generations **Proverbs 13:22
+*
 * .
 
 In institutional practice, stewardship requires that yield must not be extracted at the expense of asset durability.
 
 The Stewardship Filter applies four controls. 
 
-1. Non degradation of principal.
+1.
+
+Non degradation of principal.
 
 Yield must not erode the long term viability of the asset.
 
 Extraction cycles, operational leverage, and distribution policies must reinforce the underlying entity. 
 
-2. Operational coherence.
+2.
+
+Operational coherence.
 
 The asset must demonstrate internal consistency between revenue mechanics, cost structure, and risk envelope.
 
 Artificially enhanced yield disqualifies the asset. 
 
-3. Allocator alignment.
+3.
+
+Allocator alignment.
 
 The yield profile must match the duration, liquidity, and regulatory constraints of the allocator.
 
 Strategic mismatch results in portfolio fragility. 
 
-4. Intergenerational transfer compatibility.
+4.
+
+Intergenerational transfer compatibility.
 
 Assets should be capable of sustaining or appreciating in functional utility over time.
 
@@ -271,13 +317,13 @@ Yield that sacrifices long term value violates stewardship principles.
 
 Under the Stewardship Filter, yield becomes a diagnostic tool that reveals whether an asset is structurally hardened or artificially inflated.
 
-It serves as a safeguard against capital dissipation and aligns institutional allocation with enduring value creation. 
+It serves as a safeguard against capital dissipation and aligns institutional allocation with enduring value creation.
 
-## PHASE 
+Phase V: .
 
-5. THE ## 
+THE
 
-## DECISION MAKING LENS FOR ALLOCATORS Institutional allocators are navigating a capital environment where yield functions as the primary marker of asset resilience, balance sheet integrity, and liquidity optionality.
+ DECISION MAKING LENS FOR ALLOCATORS Institutional allocators are navigating a capital environment where yield functions as the primary marker of asset resilience, balance sheet integrity, and liquidity optionality.
 
 True asset hardening emerges when yield is stable, repeatable, and grounded in operational mechanics rather than superficial metrics.
 
@@ -285,14 +331,22 @@ Across buyouts, private credit structures, and North American energy operations,
 
 The pathway forward involves: 
 
-1. Identification of asset classes where yield is physics based, not sentiment based. 
+1.
 
-2. Calibration of portfolio construction around operationally derived return streams. 
+Identification of asset classes where yield is physics based, not sentiment based. 
 
-3. Engagement with partners capable of delivering unfiltered technical intelligence and institutional grade introductions.
+2.
+
+Calibration of portfolio construction around operationally derived return streams. 
+
+3.
+
+Engagement with partners capable of delivering unfiltered technical intelligence and institutional grade introductions.
 
 Roials Capital provides this navigational function.
 
 A confidential strategy audit or portfolio calibration session allows institutional LPs, GPs, and family offices to align capital deployment with durable yield architectures and structurally hardened asset profiles.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

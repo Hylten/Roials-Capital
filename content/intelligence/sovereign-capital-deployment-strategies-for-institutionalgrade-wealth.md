@@ -174,15 +174,25 @@ For UHNW individuals who operate across multi jurisdictional portfolios, this ap
 
 The stages are: 
 
-1. Structural validation. 
+1.
 
-2. Collateral mapping. 
+Structural validation. 
 
-3. Liquidity extraction. 
+2.
 
-4. Strategic redeployment. 
+Collateral mapping. 
 
-5. Controlled unwinding.
+3.
+
+Liquidity extraction. 
+
+4.
+
+Strategic redeployment. 
+
+5.
+
+Controlled unwinding.
 
 Each stage is deliberate.
 
@@ -266,7 +276,9 @@ Sovereign investors who align with institutional Strategic Collateralization arc
 
 The objective is not aggressiveness.
 
-The objective is principal authority. ## ## 
+The objective is principal authority. 
+
+ 
 
 ## CONCLUSION
 
@@ -276,11 +288,15 @@ HNWI and UHNW clients who operate at size need Asset-Backed Frameworks partners 
 
 ROIALS CAPITAL provides that architecture through private credit Institutional Liquidity Paths, asset based Capital Structuring, seven and eight figure crypto Strategic Collateralization thresholds, and public share liquidity frameworks.
 
-When deployed correctly these tools create a liquidity architecture that operates with silence, stability, and precision. # 
+When deployed correctly these tools create a liquidity architecture that operates with silence, stability, and precision.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

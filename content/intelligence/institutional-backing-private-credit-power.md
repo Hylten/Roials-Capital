@@ -12,11 +12,13 @@ In private credit, the gap is simple.
 
 Institutions with disciplined capital architecture outperform not because they lend better, but because their backing reshapes the deal physics.
 
-Order is not an option. 
+Order is not an option.
 
-## PHASE 
+Phase I: .
 
-1. ## ## ## ## 
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
@@ -64,11 +66,13 @@ Precision is
 
 ## THE MANDATE
 
-. 
+.
 
-## PHASE 
+Phase II: .
 
-2. ## ## ## ## 
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -76,13 +80,17 @@ Precision is
 
 Start with LTV curves.
 
-An undercapitalized lender must run conservative structures at 4
-0 to 5
-5 percent LTV to offset uncertainty.
+An undercapitalized lender must run conservative structures at 
 
-Institutions backed at scale can operate at 6
-5 to 7
-2 percent without increasing default exposure because their recovery pathways are engineered, not improvised.
+40 to 
+
+55 percent LTV to offset uncertainty.
+
+Institutions backed at scale can operate at 
+
+65 to 
+
+72 percent without increasing default exposure because their recovery pathways are engineered, not improvised.
 
 Enforcement reliability is a hidden asset class.
 
@@ -100,13 +108,17 @@ These elements only exist when the backer has the capacity to underwrite long-te
 
 Recovery factors tell the real story.
 
-Small lenders suffer recovery rates between 2
-8 and 4
-1 percent when distressed because they negotiate from weakness.
+Small lenders suffer recovery rates between 
 
-Institutional lenders average 6
-2 to 7
-8 percent recovery on identical collateral classes because they control workout advisors, valuation specialists, and replacement operators.
+28 and 
+
+41 percent when distressed because they negotiate from weakness.
+
+Institutional lenders average 
+
+62 to 
+
+78 percent recovery on identical collateral classes because they control workout advisors, valuation specialists, and replacement operators.
 
 They do not ask for outcomes.
 
@@ -116,9 +128,11 @@ Asset-Backed Frameworks extends this advantage.
 
 Asset based lending becomes a power tool when institutions stand behind it.
 
-Asset-Based Lending margins collapse from 1
-4 to 1
-1 percent when institutional capital validates collateral liquidity.
+Asset-Based Lending margins collapse from 
+
+14 to 
+
+11 percent when institutional capital validates collateral liquidity.
 
 Revolver frequency increases.
 
@@ -142,26 +156,27 @@ LPs see predictability.
 
 The lender extracts duration without sacrificing velocity.
 
-Without institutional backing, these structures do not price. 
+Without institutional backing, these structures do not price.
 
-## PHASE 
+Phase III: .
 
-3. ## ## 
+ 
 
-## THE ## 
+## THE 
 
-## STRATEGIC MODEL
+ STRATEGIC MODEL
 
- The ## 
+ The 
 
-## STRATEGIC MODEL
+ STRATEGIC MODEL
 
  for Fund-III requires a different operating system.
 
 ROIALS CAPITAL executes on three fronts.
 
-First, capital raising at 8
-0 percent allocation.
+First, capital raising at 
+
+80 percent allocation.
 
 Fund-III+ must run a capital acquisition engine, not a passive LP rotation.
 
@@ -183,8 +198,9 @@ This reverses the negotiating leverage.
 
 This is how Fund-III scales.
 
-Second, Strategic Collateralization at 1
-0 percent allocation.
+Second, Strategic Collateralization at 
+
+10 percent allocation.
 
 Asset-Based Lending is not a side strategy.
 
@@ -200,13 +216,17 @@ LPs see measurable signal.
 
 Everything gains momentum.
 
-Third, special mandates at 1
-0 percent allocation.
+Third, special mandates at 
+
+10 percent allocation.
 
 When institutions back a private credit platform, the platform becomes eligible for structured mandates that smaller lenders cannot touch.
 
-NAEOC mandates at 5
-0 to 25
+NAEOC mandates at 
+
+50 to 
+
+25
 0 million.
 
 MiFID II acquisition windows.
@@ -229,15 +249,14 @@ Borrowers align because they want stability and speed.
 
 LPs align because they want disciplined underwriting and asymmetric outcomes.
 
-ROIALS CAPITAL sits between them as the institutional operating spine. 
+ROIALS CAPITAL sits between them as the institutional operating spine.
 
-## PHASE 
+Phase IV: .
 
-4. ## 
+THE STEWARDSHIP FILTER Resources carry responsibility.
 
-## THE STEWARDSHIP FILTER Resources carry responsibility.
-
-Capital is not neutral. **Proverbs 13:22*
+Capital is not neutral. **Proverbs 13:22
+*
 * establishes a simple pattern.
 
 Good stewardship extends value across generations.
@@ -280,23 +299,31 @@ Capital is deployed with intent.
 
 Recovery is enforced with clarity.
 
-Yield is extracted with discipline. 
+Yield is extracted with discipline.
 
-## PHASE 
+Phase V: .
 
-5. EXIT Institutional backing is not branding.
+EXIT Institutional backing is not branding.
 
 It is a measurable upward shift in recovery rates, velocity, and covenant durability.
 
-Platforms that secure institutional alignment lift IRR by 18
-0 to 26
-0 basis points due to workflow compression alone. # 
+Platforms that secure institutional alignment lift IRR by 
+
+18
+0 to 
+
+26
+0 basis points due to workflow compression alone.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

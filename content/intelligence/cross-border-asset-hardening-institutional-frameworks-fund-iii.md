@@ -31,7 +31,8 @@ I build this under a clear axiom: volatility is not the threat.
 Volatility is the audit.
 
 Institutions either withstand or fail. 
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * delivers the structural principle: a good man leaves an inheritance to his children’s children.
 
 Long-horizon stewardship is not sentiment.
@@ -119,7 +120,8 @@ Avoid political capture.
 
 Avoid taxation traps.
 
-High-net industrial cycles in oil, gas, and critical infrastructure require shock-resistant structuring: UBO layers, SPV branching, Article-
+High-net industrial cycles in oil, gas, and critical infrastructure require shock-resistant structuring: UBO layers, SPV branching, Article
+-
 9 lien mobility, repo-ready contract stacks, and escrow bifurcation for acquisition sequencing.
 
 Mobility wins.
@@ -178,11 +180,15 @@ Structural.
 
 Cross-border hardening requires several pillars: 
 
-1. Legal segmentation Maintain at least two operational jurisdictions, two financing jurisdictions, and one conflict-resolution jurisdiction.
+1.
+
+Legal segmentation Maintain at least two operational jurisdictions, two financing jurisdictions, and one conflict-resolution jurisdiction.
 
 This triangulation forces predictability into unpredictable markets. 
 
-2. Banking redundancy Never rely on single-bank liquidity.
+2.
+
+Banking redundancy Never rely on single-bank liquidity.
 
 Build tri-bank corridors.
 
@@ -194,7 +200,9 @@ One for custody.
 
 Failure of any node should not impact deployment. 
 
-3. Collateral mobility Asset-Based Lending Monetization Architecture requires assets to be lien-ready, repo-ready, and convertible across states.
+3.
+
+Collateral mobility Asset-Based Lending Monetization Architecture requires assets to be lien-ready, repo-ready, and convertible across states.
 
 Standardize documentation.
 
@@ -202,21 +210,29 @@ Pre-clear audits.
 
 Use digital collateral registries. 
 
-4. Transactional anonymity Institutional discretion is a stability mechanism.
+4.
+
+Transactional anonymity Institutional discretion is a stability mechanism.
 
 Use SPVs, nominee signatories, and layered directorship models to reduce political surface area. 
 
-5. Cash-flow density Fund-III buyouts must privilege cash-flow sovereignty.
+5.
+
+Cash-flow density Fund-III buyouts must privilege cash-flow sovereignty.
 
 Cash-flow sovereignty insulates leverage in rising-rate regimes and enables rapid bolt-on financing. 
 
-6. LTV tolerance Maintain borrowing capacity through structured LTV layers: senior, unitranche, mezzanine.
+6.
+
+LTV tolerance Maintain borrowing capacity through structured LTV layers: senior, unitranche, mezzanine.
 
 Preserve dry powder.
 
 Deploy only when asymmetry is clear. 
 
-7. Dispute de-risking Disputes destroy IRR.
+7.
+
+Dispute de-risking Disputes destroy IRR.
 
 Build arbitration dominance.
 
@@ -256,7 +272,8 @@ Use these for capital routing.
 
 The EU provides acquisition access under MiFID II if structured through passporting shields.
 
-The U.S. provides credit depth through Article-
+The U.S. provides credit depth through Article
+-
 9 and Delaware-KS dual structuring.
 
 Integrate all three.
@@ -353,12 +370,17 @@ No metaphors.
 
 Request a confidential capital audit.
 
-Technical mandate: cross-border hardening coefficient threshold = 0.8
-2 minimum. # 
+Technical mandate: cross-border hardening coefficient threshold = 0.
+
+82 minimum.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

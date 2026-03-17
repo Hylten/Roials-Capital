@@ -6,8 +6,6 @@ author: "Jonas Hyltén"
 slug: "the-mandate-of-discrete-capital-deployment"
 --- 
 
-# 
-
 ## THE MANDATE
 
  of Discrete Capital Deployment Discrete capital deployment is not a tactic.
@@ -227,13 +225,21 @@ Not reaction.
 
 ROIALS CAPITAL structures protection in four tiers. 
 
-1. Legal. 
+1.
 
-2. Collateral. 
+Legal. 
 
-3. Counterparty. 
+2.
 
-4. Information.
+Collateral. 
+
+3.
+
+Counterparty. 
+
+4.
+
+Information.
 
 Every tier is hardened before capital moves.
 
@@ -263,9 +269,9 @@ It is the environment where authority remains with the owner.
 Not the market. 
 -  
 -  
--  ## 
+-  
 
-## THE MANDATE
+ THE MANDATE
 
  
 
@@ -273,17 +279,29 @@ Not the market.
 
  of discrete capital deployment is clear. 
 
-1. Govern without spectacle. 
+1.
 
-2. Deploy without signaling. 
+Govern without spectacle. 
 
-3. Harden assets before exposure. 
+2.
 
-4. Protect lineage through covenant stewardship. 
+Deploy without signaling. 
 
-5. Consolidate advantage through velocity. 
+3.
 
-6. Maintain structural alignment at all times.
+Harden assets before exposure. 
+
+4.
+
+Protect lineage through covenant stewardship. 
+
+5.
+
+Consolidate advantage through velocity. 
+
+6.
+
+Maintain structural alignment at all times.
 
 This is how capital survives.
 
@@ -302,11 +320,15 @@ Only mandate.
 
 ## Principal Directive If your capital requires discretion, structural alignment, and hardened deployment architecture, the next step is obvious.
 
-Request confidential audit. # 
+Request confidential audit.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

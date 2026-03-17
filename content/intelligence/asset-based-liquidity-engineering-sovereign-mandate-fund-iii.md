@@ -149,7 +149,9 @@ Asset hardening eliminates it.
 
 Fund‑III treats hardening as an acquisition prerequisite.
 
-No asset enters the platform unless it can be hardened to sovereign-grade within 12
+No asset enters the platform unless it can be hardened to sovereign-grade within 
+
+12
 0 days.
 
 This is a non‑negotiable rule.
@@ -185,11 +187,17 @@ And timing controls returns.
 
 Fund‑III uses three liquidity architectures: 
 
-1. Asset‑secured revolvers optimized for predictable deployment cycles 
+1.
 
-2. Monetization programs for producing or semi‑producing energy assets 
+Asset‑secured revolvers optimized for predictable deployment cycles 
 
-3. Cash‑flow backed instruments designed to stabilize operations during macro stress The objective is not leverage.
+2.
+
+Monetization programs for producing or semi‑producing energy assets 
+
+3.
+
+Cash‑flow backed instruments designed to stabilize operations during macro stress The objective is not leverage.
 
 The objective is sovereign autonomy.
 
@@ -303,7 +311,8 @@ Every competitor without a sovereign Asset-Based Lending engine becomes operatio
 -  
 -  
 
-## The Biblical Mandate: Inheritance and Hard Assets **Proverbs 13:22*
+## The Biblical Mandate: Inheritance and Hard Assets **Proverbs 13:22
+*
 * states: A good man leaves an inheritance to his children’s children: wealth flows across generations through structured stewardship, not reactive management.
 
 In the institutional domain, stewardship is defined through asset hardening, jurisdictional clarity, and liquidity sovereignty.
@@ -358,11 +367,15 @@ Alignment determines acceleration.
 
 Mandate Reference: LQR‑Δ 
 
-47. # 
+47.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -22,7 +22,11 @@ Rigidity destroys return velocity.
 
 Mobility converts national constraints into institutional arbitrage.
 
-ROIALS CAPITAL operates inside that gap. ## ## ## ## 
+ROIALS CAPITAL operates inside that gap. 
+
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
@@ -70,13 +74,19 @@ None share the same mobility rules.
 
 Institutional capital raising now requires a multi-regime map.
 
-Fund-III requires mastery of it. ## ## ## ## 
+Fund-III requires mastery of it. 
+
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
  Sovereign Credit Mobility is the capacity to convert a jurisdiction’s legal, fiscal, and collateral infrastructure into a cross-border lending engine without degrading LTV, recovery, or time-to-cash metrics. 
 
-1. The Capital Translation Layer This layer converts sovereign legal structures into institutional underwriting language.
+1.
+
+The Capital Translation Layer This layer converts sovereign legal structures into institutional underwriting language.
 
 It evaluates asset security enforceability, lien transmission velocity, and recovery certainty.
 
@@ -86,7 +96,9 @@ Fragmented registry systems reduce mobility.
 
 Tax friction erodes term efficiency. 
 
-2. The Collateral Migration Curve Collateral is not static.
+2.
+
+The Collateral Migration Curve Collateral is not static.
 
 Its legal identity changes each time it crosses a border or changes seniority.
 
@@ -98,7 +110,9 @@ Renewable infrastructure in the EU exhibits medium degradation.
 
 Energy concessions in frontier markets exhibit high degradation unless backed by sovereign guarantees, export credit agencies, or enforceable offtakes. 
 
-3. The Cash-Flow Sovereignty Threshold Cash flows tied to sovereign-controlled revenue systems must pass a sovereignty threshold test.
+3.
+
+The Cash-Flow Sovereignty Threshold Cash flows tied to sovereign-controlled revenue systems must pass a sovereignty threshold test.
 
 If national policy can redirect cash flow, mobility collapses.
 
@@ -120,9 +134,11 @@ LTV is never flat.
 
 It shifts with jurisdictional enforcement velocity, asset class hardening, and regulatory harmonization.
 
-Fund-III targets 4
-2 to 6
-3 percent hard-asset collateralization in Asset-Based Lending structures, with lower convexity spread in MiFID II regions and higher convexity spread in NAEOC corridors due to geological fixed asset durability.
+Fund-III targets 
+
+42 to 
+
+63 percent hard-asset collateralization in Asset-Based Lending structures, with lower convexity spread in MiFID II regions and higher convexity spread in NAEOC corridors due to geological fixed asset durability.
 
 Cash-Flow Waterfalls We use zero-ambiguity waterfalls.
 
@@ -146,11 +162,13 @@ Not reactive.
 
 The system is designed to avoid courtroom dependence.
 
-This is how institutional discipline is restored. ## ## 
+This is how institutional discipline is restored. 
 
-## THE ## 
+ 
 
-## STRATEGIC MODEL
+## THE 
+
+ STRATEGIC MODEL
 
  ROIALS CAPITAL executes with velocity.
 
@@ -172,7 +190,9 @@ They scale through engineered liquidity rather than speculative valuation.
 
 Our model uses three strategic layers. 
 
-1. Kapitalanskaffning Engine We raise capital with a dual-channel system.
+1.
+
+Kapitalanskaffning Engine We raise capital with a dual-channel system.
 
 Channel one: UHNWIs and family offices seeking sovereign-insulated credit allocation.
 
@@ -180,7 +200,9 @@ Channel two: Institutional LPs seeking predictable deployment velocity.
 
 Fund-III uses rolling closings calibrated to regulatory windows, not calendar optics. 
 
-2. Asset-Based Lending Institutional Liquidity Paths Asset-Based Lending is a liquidity instrument.
+2.
+
+Asset-Based Lending Institutional Liquidity Paths Asset-Based Lending is a liquidity instrument.
 
 Not a loan.
 
@@ -192,7 +214,9 @@ It converts idle collateral into cross-border leverage without violating soverei
 
 For Fund-III portfolio companies, we use Asset-Based Lending to stabilize acquisition velocity and to accelerate integration of add-ons. 
 
-3. Special Mandates NAEOC mandates between 50M and 250M require sovereign sensitivity.
+3.
+
+Special Mandates NAEOC mandates between 50M and 250M require sovereign sensitivity.
 
 Energy concessions need structured credit.
 
@@ -202,12 +226,17 @@ Midstream equipment needs asset hardening.
 
 MiFID II acquisitions require transparency pathways and documentation integrity.
 
-ROIALS CAPITAL builds proprietary compliance stacks that reduce the cost and timeline of EU regulatory alignment by an average of 2
-7 percent across mandates.
+ROIALS CAPITAL builds proprietary compliance stacks that reduce the cost and timeline of EU regulatory alignment by an average of 
+
+27 percent across mandates.
 
 We do not optimize for convenience.
 
-We optimize for inevitability. ## ## ## ## 
+We optimize for inevitability. 
+
+ 
+
+ 
 
 ## THE STEWARDSHIP FILTER Capital is an assignment.
 
@@ -225,7 +254,8 @@ Companies that rely on regulatory subsidies are excluded.
 
 Structures that depend on political leniency are eliminated.
 
-Fund-III uses a theological protocol rooted in the principle of inheritance. **Proverbs 13:22*
+Fund-III uses a theological protocol rooted in the principle of inheritance. **Proverbs 13:22
+*
 * defines it: the good transfers resources across generations.
 
 This is not sentiment.
@@ -242,16 +272,21 @@ We refuse any transaction that rewards entropy.
 
 The architecture of sovereign credit mobility is built so that capital can move when politics cannot.
 
-This is stewardship applied as institutional mechanics. ## 
+This is stewardship applied as institutional mechanics.
 
-## EXIT Fund-III targets mobility-adjusted IRR with a minimum cross-border collateral conversion velocity of 9
-2 days. # 
+EXIT Fund-III targets mobility-adjusted IRR with a minimum cross-border collateral conversion velocity of 
+
+92 days.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -59,7 +59,9 @@ It is a shield.
 -  Financing short term opportunities with long term collateral. 
 -  Solving timing gaps in complex capital stacks.
 
-Each use case benefits from controlled liquidity, not speculative leverage. ## ## 
+Each use case benefits from controlled liquidity, not speculative leverage. 
+
+ 
 
 ## CONCLUSION
 
@@ -77,11 +79,15 @@ It converts dormant value into active capital.
 
 ROIALS CAPITAL designs the framework that makes this possible.
 
-If your asset architecture requires liquidity without compromise, request confidential audit. # 
+If your asset architecture requires liquidity without compromise, request confidential audit.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

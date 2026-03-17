@@ -30,7 +30,9 @@ We do not compete with banks.
 
 We define the liquidity frameworks they can no longer supply. # ## 
 
-2. Asset Complexity Increased HNWI and UHNW individuals often maintain diversified asset ecosystems.
+2.
+
+Asset Complexity Increased HNWI and UHNW individuals often maintain diversified asset ecosystems.
 
 Crypto positions.
 
@@ -48,7 +50,9 @@ We do not require assets to be simple.
 
 We require them to be definable. # ## 
 
-3. Deal Timelines Compressed Competitive acquisitions now move on accelerated clocks.
+3.
+
+Deal Timelines Compressed Competitive acquisitions now move on accelerated clocks.
 
 Buyers with liquidity win.
 
@@ -82,10 +86,14 @@ ROIALS CAPITAL’s models are designed precisely for this profile.
 
 We operate at thresholds that are aligned with sophisticated investors.
 
-Crypto Capital Structuring begins at 2,000,00
+Crypto Capital Structuring begins at 2,000,
+
+00
 0 USD.
 
-Public share Strategic Collateralization begins at 5,000,00
+Public share Strategic Collateralization begins at 5,000,
+
+00
 0 USD.
 
 These thresholds are not barriers.
@@ -96,21 +104,21 @@ They are filters that ensure precise calibration, discretion, and institutional�
 
 It matters because it can be engineered.
 
-Below are the core functions it performs. # 
+Below are the core functions it performs.
 
 ## Liquidity Compression Deals often fail because liquidity arrives too late.
 
-Private credit compresses liquidity into actionable timeframes, eliminating the gap between intent and execution. # 
+Private credit compresses liquidity into actionable timeframes, eliminating the gap between intent and execution.
 
 ## Balance Sheet Optimization Private credit structures allow a buyer to maintain strategic holdings while still extracting transactional liquidity.
 
-This preserves long term equity positions while activating capital for acquisition. # 
+This preserves long term equity positions while activating capital for acquisition.
 
 ## Counterparty Signaling Liquidity strength influences negotiation posture.
 
 A buyer who arrives with pre‑engineered credit structures signals stability, capacity, and foresight.
 
-This creates a psychological and financial advantage. # 
+This creates a psychological and financial advantage.
 
 ## principal authority In M&A environments, silence is leverage.
 
@@ -130,7 +138,9 @@ We do not sell narratives.
 
 The architecture is simple. # ## 
 
-1. Define the Asset Crypto position.
+1.
+
+Define the Asset Crypto position.
 
 Public equity block.
 
@@ -138,11 +148,15 @@ Private asset tranche.
 
 We determine the real Strategic Collateralization value inside institutional parameters. # ## 
 
-2. Build the Liquidity Framework This includes collateral mapping, risk displacement, and internal structuring.
+2.
+
+Build the Liquidity Framework This includes collateral mapping, risk displacement, and internal structuring.
 
 The goal is precision, not complexity. # ## 
 
-3. Execute Without Noise Our operations are discreet.
+3.
+
+Execute Without Noise Our operations are discreet.
 
 No retail style onboarding.
 
@@ -164,17 +178,17 @@ We understand fragmented asset ecosystems and build bridges where institutional 
 
 The outcome is unified liquidity, executed cleanly and quietly. 
 
-## Why Private Credit Outperforms Traditional Leverage in M&A # 
+## Why Private Credit Outperforms Traditional Leverage in M&A
 
 ## Precision Instead of Policy Banks operate through standardization.
 
 Private credit operates through customization.
 
-This difference is structural, not philosophical. # 
+This difference is structural, not philosophical.
 
 ## Velocity Over Bureaucracy Private credit does not wait for quarterly cycles.
 
-It moves when the deal requires movement. # 
+It moves when the deal requires movement.
 
 ## Discretion Over Visibility In high tier transactions, visibility is often a vulnerability.
 
@@ -196,7 +210,9 @@ ROIALS CAPITAL is positioned at this intersection.
 
 Not as an alternative lender.
 
-As a structural architect for modern liquidity. ## ## 
+As a structural architect for modern liquidity. 
+
+ 
 
 ## CONCLUSION
 
@@ -208,11 +224,15 @@ For principals operating at the highest tiers, liquidity must be engineered, con
 
 This is where ROIALS CAPITAL functions.
 
-We provide institutional grade structure with private market velocity. # 
+We provide institutional grade structure with private market velocity.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

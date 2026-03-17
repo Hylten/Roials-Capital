@@ -14,7 +14,11 @@ Modern private capital allocators face a structural gap.
 
 Liquidity has become a competitive differentiator rather than an assumed utility.
 
-The shift has created an environment where portfolio backed liquidity functions as a balance sheet technology rather than a transactional accessory. ## ## ## ## 
+The shift has created an environment where portfolio backed liquidity functions as a balance sheet technology rather than a transactional accessory. 
+
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
@@ -50,8 +54,9 @@ Third is the bifurcation of private markets into capital rich flagship platforms
 
 The largest GPs have engineered internal liquidity ecosystems.
 
-The remaining 9
-0 percent of the market must operate within a fragmented environment that lacks integrated liquidity tools.
+The remaining 
+
+90 percent of the market must operate within a fragmented environment that lacks integrated liquidity tools.
 
 This divergence is now a persistent structural reality.
 
@@ -59,7 +64,11 @@ The outcome is a regime shift.
 
 Liquidity functions as an institutional asset rather than a cost center.
 
-Portfolio backed liquidity is the mechanism through which private equity platforms neutralize execution bottlenecks, stabilize cash flow timing, and increase opportunity velocity within a constrained funding environment. ## ## ## ## 
+Portfolio backed liquidity is the mechanism through which private equity platforms neutralize execution bottlenecks, stabilize cash flow timing, and increase opportunity velocity within a constrained funding environment. 
+
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -87,9 +96,11 @@ Structural separation is the protection mechanism for allocators, especially whe
 
 The third layer is the LTV curve.
 
-Portfolio backed facilities rarely exceed 3
-5 to 5
-5 percent LTV depending on the cash flow hardness of the underlying assets.
+Portfolio backed facilities rarely exceed 
+
+35 to 
+
+55 percent LTV depending on the cash flow hardness of the underlying assets.
 
 Hard assets such as heavy oil production, stabilized industrial platforms, or contracted service businesses tend to support higher LTV profiles.
 
@@ -97,9 +108,11 @@ Cash flow centric platforms require lower leverage ceilings due to the cyclicali
 
 The fourth layer is maturity architecture.
 
-Execution grade programs operate with 1
-2 to 4
-8 month maturities.
+Execution grade programs operate with 
+
+12 to 
+
+48 month maturities.
 
 Shorter maturities allow rapid recycling.
 
@@ -173,11 +186,16 @@ It delivers operational intelligence on Alberta heavy oil physics, SAGD cycle dy
 
 NAEO is positioned for institutional allocators who require non speculative, technically mature energy exposure.
 
-Roials Capital functions strictly as the introducer and strategic coordinator. ## ## ## ## 
+Roials Capital functions strictly as the introducer and strategic coordinator. 
+
+ 
+
+ 
 
 ## THE STEWARDSHIP FILTER Stewardship operates as a capital discipline.
 
-It is the principle that capital must not be wasted, misallocated, or depreciated through operational negligence. **Proverbs 13:22*
+It is the principle that capital must not be wasted, misallocated, or depreciated through operational negligence. **Proverbs 13:22
+*
 * establishes the generational responsibility of resource management.
 
 Within private capital, stewardship manifests through three domains.
@@ -204,9 +222,9 @@ Liquidity is not a shortcut.
 
 It is a structural enhancement to ensure that long dated assets, such as heavy oil production or industrial platforms, are not prematurely impaired due to short term funding gaps.
 
-Capital must serve the operational timeline of the asset rather than force liquidation. ## ## ## 
+Capital must serve the operational timeline of the asset rather than force liquidation.
 
-## DECISION MAKING LENS Institutional allocators assessing portfolio backed liquidity must evaluate three critical axes.
+DECISION MAKING LENS Institutional allocators assessing portfolio backed liquidity must evaluate three critical axes.
 
 The first axis is structural resilience.
 
@@ -236,11 +254,15 @@ Roials Capital’s role is to ensure that the liquidity profile of the sponsor s
 
 Allocators, GPs, and institutional partners seeking a detailed mapping of liquidity structures, collateral engineering, and fund pacing alignment can request a confidential strategy audit focused on capital stack calibration and operational continuity planning.
 
-The audit addresses the precision mechanics necessary to maintain institutional grade momentum across the full private capital cycle. [END OF BRIEFING] # 
+The audit addresses the precision mechanics necessary to maintain institutional grade momentum across the full private capital cycle. [END OF BRIEFING]
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

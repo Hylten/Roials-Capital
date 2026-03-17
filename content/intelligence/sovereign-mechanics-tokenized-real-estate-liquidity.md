@@ -42,7 +42,8 @@ The enforceability bridge between chain and court.
 
 That is where institutional capital flows.
 
-That is where Fund-III gains delta. **Proverbs 13:22*
+That is where Fund-III gains delta. **Proverbs 13:22
+*
 * states: A good man leaves an inheritance to his children’s children: and the wealth of the sinner is laid up for the just.
 
 In institutional terms, inherited value is engineered value.
@@ -116,11 +117,17 @@ I design sequencing for acceleration.
 -  
 -  Tokenized real estate liquidity becomes most potent when embedded into a three-part capital chassis: 
 
-1. Anchor equity block (non-token) 
+1.
 
-2. Programmatic credit line (Asset-Based Lending) 
+Anchor equity block (non-token) 
 
-3. Tokenized mezzanine layer (fractional or institutional blocks) This tri-structure stabilizes senior underwriting while enabling a controlled liquidity-release layer through tokenized tranches.
+2.
+
+Programmatic credit line (Asset-Based Lending) 
+
+3.
+
+Tokenized mezzanine layer (fractional or institutional blocks) This tri-structure stabilizes senior underwriting while enabling a controlled liquidity-release layer through tokenized tranches.
 
 The structure does not replace the traditional capital stack.
 
@@ -463,25 +470,36 @@ Traditional LCR averages: 0.12,
 
 0. 
 
-27. Tokenized structures average: 0.3
-4 
+27.
+
+Tokenized structures average: 0.
+
+34 
 -  
 
 0. 
 
-61. Best-in-class engineered structures: 0.74+.
+61.
+
+Best-in-class engineered structures: 0.74+.
 
 Fund-III targets 
 
 0. 
 
-82. End. # 
+82.
+
+End.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -14,7 +14,11 @@ It is within this gap that asset based liquidity engineering operates with repea
 
 The institutional allocator evaluating Fund-III buyout mechanics, European MiFID II acquisition mandates, or North American energy operating companies is navigating the same structural tension.
 
-Capital constraints are no longer driven by asset weakness but by compliance throttling, underwriting rigidity, and the misalignment between real asset durability and legacy credit models. ## ## ## ## 
+Capital constraints are no longer driven by asset weakness but by compliance throttling, underwriting rigidity, and the misalignment between real asset durability and legacy credit models. 
+
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
@@ -32,8 +36,9 @@ Recovery reliability is defined by basin physics and geomechanics.
 
 However, capital access is influenced more by headline exposure than by engineering certainty.
 
-From 201
-8 to 2025, the oil sands segment lost a significant proportion of its traditional capital stack as global institutions reweighted.
+From 20
+
+18 to 2025, the oil sands segment lost a significant proportion of its traditional capital stack as global institutions reweighted.
 
 This created a liquidity trap that high grade operators such as NAEO have navigated through operational discipline, modular expansion, and engineered decline management.
 
@@ -51,7 +56,11 @@ The allocator is therefore selecting not between asset classes but between struc
 
 The highest reliability assets are operating within the tightest liquidity constraints.
 
-Structural alpha emerges when liquidity engineering realigns these conditions. ## ## ## ## 
+Structural alpha emerges when liquidity engineering realigns these conditions. 
+
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -117,21 +126,27 @@ THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator rather th
 
 The institutional role is calibrated around three functions. 
 
-1. Structural Pattern Recognition Identifying where regulatory shifts, operational reliability, and capital constraints intersect.
+1.
+
+Structural Pattern Recognition Identifying where regulatory shifts, operational reliability, and capital constraints intersect.
 
 This is why high grade energy operators such as NAEO are relevant to institutional allocators seeking uncorrelated cash flow reliability. 
 
-2. Institutional ## 
+2.
 
-## INTRODUCTION
+Institutional 
+
+ INTRODUCTION
 
  Pathways Connecting allocators to operating partners or acquisition targets that meet the reliability threshold required for structured liquidity or Fund-III expansion. 
 
-3. Balance Sheet Neutrality Roials Capital does not alter capital structures.
+3.
 
-It provides operational intelligence, strategic frameworks, and ## 
+Balance Sheet Neutrality Roials Capital does not alter capital structures.
 
-## INTRODUCTION
+It provides operational intelligence, strategic frameworks, and 
+
+ INTRODUCTION
 
  corridors that allow allocators to make decisions with precision.
 
@@ -143,11 +158,16 @@ This creates alignment for institutional LPs who require engineered transparency
 
 For European MiFID II acquisition mandates, Roials Capital provides compliance aligned targeting, reducing diligence cycles.
 
-For private credit allocators, the firm identifies where asset hardening can transform under recognized value into institutional grade collateral. ## ## ## ## 
+For private credit allocators, the firm identifies where asset hardening can transform under recognized value into institutional grade collateral. 
+
+ 
+
+ 
 
 ## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management.
 
-It is a capital theology shaped by **Proverbs 13:22*
+It is a capital theology shaped by **Proverbs 13:22
+*
 * .
 
 Reliable assets require reliable governance.
@@ -164,9 +184,9 @@ The allocator operating under a stewardship mandate assesses:
 
 This filter is increasingly relevant as institutional allocators face scrutiny around operational sustainability, not just environmental metrics.
 
-Engineered reliability aligns with stewardship because it forces capital to respect the physics, economics, and operational cadence of the underlying assets. ## ## ## 
+Engineered reliability aligns with stewardship because it forces capital to respect the physics, economics, and operational cadence of the underlying assets.
 
-## DECISION MAKING LENS FOR THE ALLOCATOR Fund-III formations, private credit facilities, and energy acquisition mandates are operating in a regime that rewards balance sheet mastery.
+DECISION MAKING LENS FOR THE ALLOCATOR Fund-III formations, private credit facilities, and energy acquisition mandates are operating in a regime that rewards balance sheet mastery.
 
 Structural alpha is no longer generated through yield or leverage.
 
@@ -180,4 +200,6 @@ Roials Capital conducts confidential strategy audits for allocators seeking to c
 
 The objective is to map structural constraints, identify reliability anchors, and align the allocator with institutional grade partners such as NAEO where relevant.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

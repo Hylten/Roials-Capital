@@ -143,7 +143,9 @@ It is the authority behind the transaction.
 
 The layer beneath the structure.
 
-The quiet foundation that allows power to remain uninterrupted. ## ## 
+The quiet foundation that allows power to remain uninterrupted. 
+
+ 
 
 ## CONCLUSION
 
@@ -155,18 +157,24 @@ It does not seek attention.
 
 It provides infrastructure.
 
-ROIALS CAPITAL functions within this framework, offering private credit Strategic Collateralization, Asset-Based Lending solutions, crypto Asset-Backed Frameworks from 2,000,000, and public share Asset-Backed Frameworks from 5,000,00
+ROIALS CAPITAL functions within this framework, offering private credit Strategic Collateralization, Asset-Based Lending solutions, crypto Asset-Backed Frameworks from 2,000,000, and public share Asset-Backed Frameworks from 5,000,
+
+00
 0 for HNWI and UHNW clients who require principal authority rather than overt motion.
 
 If liquidity is the question, structure is the answer.
 
 If control is the objective, sovereignty is the method.
 
-If you require institutional discipline without institutional noise, ROIALS CAPITAL operates at that level. # 
+If you require institutional discipline without institutional noise, ROIALS CAPITAL operates at that level.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -36,7 +36,8 @@ Fragmentation creates arbitrage.
 
 Arbitrage creates edge.
 
-Edge compounds into structural advantage when engineered deliberately. **Proverbs 13:22*
+Edge compounds into structural advantage when engineered deliberately. **Proverbs 13:22
+*
 * states: A good man leaves an inheritance to his children’s children: but the wealth of the sinner is laid up for the just.
 
 In institutional language: capital reallocates toward superior stewards.
@@ -283,12 +284,16 @@ Fund‑III must run all three in unison.
 Transnational Integration Rules: 
 -  Standardize governance immediately. 
 -  Harmonize financial reporting in week one. 
--  Deploy Asset-Based Lending within 4
-5 days. 
--  Execute first add-on within 18
+-  Deploy Asset-Based Lending within 
+
+45 days. 
+-  Execute first add-on within 
+
+18
 0 days. 
--  Begin cross-border optimization within 1
-2 months.
+-  Begin cross-border optimization within 
+
+12 months.
 
 Speed compounds value.
 
@@ -363,13 +368,17 @@ Tighten its liquidity mechanics.
 
 Tighten its energy posture.
 
-Execute with sovereign precision. # 
+Execute with sovereign precision.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -18,25 +18,41 @@ In the current capital regime, allocators navigating Fund-III and later vehicles
 
 The objective is not yield generation.
 
-The objective is predictability and sovereign level stability inside private markets. ## ## ## ## 
+The objective is predictability and sovereign level stability inside private markets. 
+
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
  Institutional allocators are operating inside a post abundant capital cycle where leverage is selectively available rather than universally accessible.
 
-The long duration liquidity that defined the 201
-0 to 202
-1 window has been replaced by a structurally rationed environment shaped by five forces. 
+The long duration liquidity that defined the 20
 
-1. Policy compression across the US, Canada, and the EU that has constrained the expansion of hydrocarbon production while simultaneously increasing energy consumption baselines. 
+10 to 20
 
-2. Bank retrenchment from asset based lending due to supervisory pressures related to risk weighting and sectoral concentration. 
+21 window has been replaced by a structurally rationed environment shaped by five forces. 
 
-3. A shift toward private credit as the senior tranche of the new capital stack, forcing equity sponsors to recalibrate leverage models and timeline assumptions. 
+1.
 
-4. Escalating replacement costs in industrial and energy related infrastructure, producing a persistent gap between book value and reconstruction value. 
+Policy compression across the US, Canada, and the EU that has constrained the expansion of hydrocarbon production while simultaneously increasing energy consumption baselines. 
 
-5. An influx of sovereign and quasi sovereign capital into hard assets, creating competition for stabilized infrastructure but leaving early stage or mid cycle industrial assets undercapitalized.
+2.
+
+Bank retrenchment from asset based lending due to supervisory pressures related to risk weighting and sectoral concentration. 
+
+3.
+
+A shift toward private credit as the senior tranche of the new capital stack, forcing equity sponsors to recalibrate leverage models and timeline assumptions. 
+
+4.
+
+Escalating replacement costs in industrial and energy related infrastructure, producing a persistent gap between book value and reconstruction value. 
+
+5.
+
+An influx of sovereign and quasi sovereign capital into hard assets, creating competition for stabilized infrastructure but leaving early stage or mid cycle industrial assets undercapitalized.
 
 This macro environment is changing the allocator's mandate.
 
@@ -52,7 +68,11 @@ Heavy oil reservoirs in Alberta, when engineered under SAGD or CSS methodologies
 
 This is the central counter intuitive truth shaping institutional flows in 
 
-2026. ## ## ## ## 
+2026. 
+
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -72,13 +92,21 @@ They fail because their capital structure is misaligned with operational cadence
 
 Asset hardening in a buy and build pathway requires: 
 
-1. Consolidation mapping that identifies where cash flow variability can be absorbed through horizontal integration. 
+1.
 
-2. Working capital architecture that standardizes receivable velocity across targets post acquisition. 
+Consolidation mapping that identifies where cash flow variability can be absorbed through horizontal integration. 
 
-3. Implementation of a balance sheet optimization model that aligns operating ranges with leverage tolerances rather than growth expectations. 
+2.
 
-4. Integration sequencing that eliminates capital redundancy by placing shared services and procurement inside a centralized operational chassis.
+Working capital architecture that standardizes receivable velocity across targets post acquisition. 
+
+3.
+
+Implementation of a balance sheet optimization model that aligns operating ranges with leverage tolerances rather than growth expectations. 
+
+4.
+
+Integration sequencing that eliminates capital redundancy by placing shared services and procurement inside a centralized operational chassis.
 
 Institutional LPs are increasingly evaluating GPs based on their ability to demonstrate this sequencing.
 
@@ -96,13 +124,21 @@ Roials Capital supports institutional partners through non bank Asset-Based Lend
 
 This approach uses: 
 
-1. Dynamic loan to value curves that adjust based on asset velocity rather than static appraisals. 
+1.
 
-2. Cross collateral frameworks that create multi asset pools with diversified impairment profiles. 
+Dynamic loan to value curves that adjust based on asset velocity rather than static appraisals. 
 
-3. Seniority protection layers that maintain priority in downside scenarios without overconstraining borrower operations. 
+2.
 
-4. Covenant architecture calibrated to operational bandwidth rather than historic leverage multiples.
+Cross collateral frameworks that create multi asset pools with diversified impairment profiles. 
+
+3.
+
+Seniority protection layers that maintain priority in downside scenarios without overconstraining borrower operations. 
+
+4.
+
+Covenant architecture calibrated to operational bandwidth rather than historic leverage multiples.
 
 This is not synthetic liquidity.
 
@@ -118,9 +154,11 @@ The Alberta basin presents distinctive physics.
 
 Reservoir pressure profiles, steam injection behavior, and temperature gradients inside SAGD and CSS environments create predictable recovery trajectories.
 
-The recovery factor for properly managed heavy oil reservoirs ranges between 3
-0 and 7
-0 percent depending on viscosity, permeability, formation thickness, and thermal conformance.
+The recovery factor for properly managed heavy oil reservoirs ranges between 
+
+30 and 
+
+70 percent depending on viscosity, permeability, formation thickness, and thermal conformance.
 
 These parameters create a level of operational visibility that is rarely available in typical mid market industrial assets.
 
@@ -140,11 +178,17 @@ Roials Capital supports allocators through introducer based access to regulatory
 
 These mandates benefit from: 
 
-1. Clear disclosure obligations. 
+1.
 
-2. Defined governance pathways. 
+Clear disclosure obligations. 
 
-3. Pre modeled risk distribution across jurisdictions.
+2.
+
+Defined governance pathways. 
+
+3.
+
+Pre modeled risk distribution across jurisdictions.
 
 This architecture complements the North American energy model by providing diversification across regulatory regimes.
 
@@ -160,13 +204,21 @@ Within energy, Roials Capital’s strategic partner NAEO provides the operator l
 
 NAEO manages the operational lifecycle from acquisition to optimization through: 
 
-1. Enhanced recovery engineering. 
+1.
 
-2. Thermal efficiency management. 
+Enhanced recovery engineering. 
 
-3. Decline curve analytics calibrated to real time reservoir monitoring. 
+2.
 
-4. Asset consolidation mapping across the Western Canadian Sedimentary Basin.
+Thermal efficiency management. 
+
+3.
+
+Decline curve analytics calibrated to real time reservoir monitoring. 
+
+4.
+
+Asset consolidation mapping across the Western Canadian Sedimentary Basin.
 
 Within private credit and buyout environments, Roials Capital provides institutional grade structuring guidance.
 
@@ -178,13 +230,18 @@ This includes senior facility design, cash flow waterfall modeling, cross collat
 
 ## THE MANDATE
 
- is to structure clarity. ## ## ## ## 
+ is to structure clarity. 
+
+ 
+
+ 
 
 ## THE STEWARDSHIP FILTER Stewardship is a discipline, not a sentiment.
 
 Institutional grade stewardship is the practice of deploying capital in ways that are aligned with long term productivity, ethical resource management, and multi generational utility.
 
-It follows the biblical principle in **Proverbs 13:22*
+It follows the biblical principle in **Proverbs 13:22
+*
 * which underscores the continuity of inheritance and the responsibility of resource transfer.
 
 In practice, this means avoiding waste through operational discipline, minimizing asset degradation, and aligning capital structures with the natural behavior of the asset class.
@@ -193,37 +250,55 @@ This applies equally to heavy oil reservoirs, industrial operating companies, an
 
 Stewardship requires: 
 
-1. Precision in asset evaluation. 
+1.
 
-2. Restraint in leverage deployment. 
+Precision in asset evaluation. 
 
-3. Continuity in operational governance. 
+2.
 
-4. Transparency in cross border introductions.
+Restraint in leverage deployment. 
+
+3.
+
+Continuity in operational governance. 
+
+4.
+
+Transparency in cross border introductions.
 
 When these principles are applied across the capital stack, the allocator gains something that cannot be purchased in the open market.
 
-Predictability. ## ## ## 
+Predictability.
 
-## DECISION MAKING LENS FOR THE ALLOCATOR For allocators navigating Fund-III and later mandates, the challenge is no longer capital distribution.
+DECISION MAKING LENS FOR THE ALLOCATOR For allocators navigating Fund-III and later mandates, the challenge is no longer capital distribution.
 
 It is strategic calibration.
 
 The new institutional paradigm requires a three axis evaluation framework. 
 
-1. Operational certainty relative to asset class physics or industrial cadence. 
+1.
 
-2. Capital structure resilience under liquidity compression. 
+Operational certainty relative to asset class physics or industrial cadence. 
 
-3. Partnership architecture with domain specific specialists.
+2.
+
+Capital structure resilience under liquidity compression. 
+
+3.
+
+Partnership architecture with domain specific specialists.
 
 Roials Capital’s role is to provide institutional LPs and GPs with a neutral, analytically rigorous pathway through these axes.
 
-For allocators requiring deeper visibility, a confidential strategy audit or portfolio calibration can map the assets, liabilities, and operational ranges that define their current posture. # 
+For allocators requiring deeper visibility, a confidential strategy audit or portfolio calibration can map the assets, liabilities, and operational ranges that define their current posture.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

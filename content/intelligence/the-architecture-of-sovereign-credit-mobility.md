@@ -14,7 +14,9 @@ It is not leverage.
 
 It is structural authority over liquidity flows. ## 
 
-9. The Gnosjö Spine The Spirit of Gnosjö is not a cultural reference.
+9.
+
+The Gnosjö Spine The Spirit of Gnosjö is not a cultural reference.
 
 It is a structural operating code.
 
@@ -36,7 +38,9 @@ It signals longevity, not speculation.
 
 Families and institutions that stand on this spine carry an authority that yields immediate credit confidence. ## 
 
-10. Sovereign Structures in a Fragmented Market Modern markets fragment.
+10.
+
+Sovereign Structures in a Fragmented Market Modern markets fragment.
 
 Sovereign structures consolidate.
 
@@ -58,19 +62,23 @@ Loose markets reward those who are merely present.
 
 Sovereign credit mobility is built for tight markets. ## 
 
-11. Architecture of Control Control is not ownership.
+11.
 
-Control is the capacity to reposition assets without friction. # 
+Architecture of Control Control is not ownership.
 
-## Structural Control Entity architecture that establishes clear dominion. # 
+Control is the capacity to reposition assets without friction.
 
-## Custodial Control Secure allocation of assets within audited environments. # 
+## Structural Control Entity architecture that establishes clear dominion.
+
+## Custodial Control Secure allocation of assets within audited environments.
 
 ## Mobility Control Pre-negotiated corridors that activate on command.
 
 When all three layers align, the principal is sovereign. of posture. ## 
 
-12. Multi-Generational Continuity Families with sovereign mobility frameworks secure not only liquidity but identity.
+12.
+
+Multi-Generational Continuity Families with sovereign mobility frameworks secure not only liquidity but identity.
 
 Liquidity without identity decays.
 
@@ -92,7 +100,9 @@ This creates dynastic continuity through:
 
  guides everything. ## 
 
-13. The Quiet Advantage Sovereign structures are not public.
+13.
+
+The Quiet Advantage Sovereign structures are not public.
 
 They are protected by their clarity and their discipline.
 
@@ -106,7 +116,9 @@ Quiet.
 
 Predictable. ## 
 
-14. Principal Summary Sovereign credit mobility is not a product.
+14.
+
+Principal Summary Sovereign credit mobility is not a product.
 
 It is a posture.
 
@@ -120,11 +132,15 @@ This architecture is the modern expression of covenant stewardship applied to ca
 It is the highest form of liquidity governance available to private actors. 
 -  
 -  
--  Request confidential audit. # 
+-  Request confidential audit.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

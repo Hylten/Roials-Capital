@@ -10,12 +10,17 @@ The capital vacuum across North American and European lower mid market operators
 
 The current environment rewards allocators who understand that structural alpha is increasingly generated through balance sheet architecture rather than traditional equity selection.
 
-Engineered reliability inside Asset Based Liquidity Engineering has become one of the few persistent sources of non correlated value creation because it converts operational certainty into institutional grade optionality. ## ## ## ## 
+Engineered reliability inside Asset Based Liquidity Engineering has become one of the few persistent sources of non correlated value creation because it converts operational certainty into institutional grade optionality. 
+
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
- The post 202
-2 credit regime altered the foundations of liquidity distribution.
+ The post 20
+
+22 credit regime altered the foundations of liquidity distribution.
 
 Banks moved from relationship lending to regulatory survival.
 
@@ -40,7 +45,11 @@ The inefficiency is structural because it originates from policy constraints rat
 
 Capital scarcity is incorrectly interpreted as risk.
 
-The disconnect creates an opportunity for disciplined liquidity engineers who can transform constrained balance sheets into hardened institutional grade assets. ## ## ## ## 
+The disconnect creates an opportunity for disciplined liquidity engineers who can transform constrained balance sheets into hardened institutional grade assets. 
+
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -50,7 +59,9 @@ Structural alpha arises not from leverage, but from efficient mapping of real ec
 
 Key technical components: 
 
-1. Asset Hardening Asset hardening is the conversion of operational infrastructure into a clearly defined collateral spine.
+1.
+
+Asset Hardening Asset hardening is the conversion of operational infrastructure into a clearly defined collateral spine.
 
 The goal is to eliminate ambiguity surrounding recoverability, resale dynamics, and monetization timing.
 
@@ -67,7 +78,9 @@ Weighting value based on operational utility rather than book value or lender di
 
 Hardening increases the reliability of the collateral base, which improves the precision of credit modeling and the strategic confidence of institutional lenders. 
 
-2. Liquidity Architecture Liquidity architecture converts a hardened asset base into a structured facility optimized for duration, velocity, and operational alignment.
+2.
+
+Liquidity Architecture Liquidity architecture converts a hardened asset base into a structured facility optimized for duration, velocity, and operational alignment.
 
 Distinct categories include: 
 -  Revolving ABL structures with utilization gates calibrated to real time operational cycles. 
@@ -80,7 +93,9 @@ The architecture must reflect the natural cadence of the business.
 
 When alignment is achieved, delinquency risk declines without requiring excessive collateral haircuts. 
 
-3. Engineered Reliability Engineered reliability is the core alpha generator.
+3.
+
+Engineered Reliability Engineered reliability is the core alpha generator.
 
 It refers to the intentional design of credit structures that perform predictably under variable operating conditions.
 
@@ -95,7 +110,9 @@ Engineered reliability produces stability premiums.
 
 In a market defined by volatility, stability itself becomes alpha. 
 
-4. Opportunity Velocity Asset based structures allow capital to cycle more quickly than traditional buy and hold credit.
+4.
+
+Opportunity Velocity Asset based structures allow capital to cycle more quickly than traditional buy and hold credit.
 
 Paydowns correspond to operational throughput.
 
@@ -117,13 +134,17 @@ THE PARTNERSHIP MODEL Roials Capital functions as a strategic navigator within t
 
  is to deliver institutional clarity, operator specific intelligence, and partner curation for allocators who require structural certainty. 
 
-1. Strategic Alignment Roials Capital maps allocator objectives to real asset ecosystems where liquidity engineering is structurally required.
+1.
+
+Strategic Alignment Roials Capital maps allocator objectives to real asset ecosystems where liquidity engineering is structurally required.
 
 This avoids model drift and ensures that engagements remain aligned with the allocator's risk profile, duration preferences, and mandate constraints. 
 
-2. Market Navigation In North American energy, Roials Capital maintains an institutional ## 
+2.
 
-## INTRODUCTION
+Market Navigation In North American energy, Roials Capital maintains an institutional 
+
+ INTRODUCTION
 
  partnership with NAEO, a group specializing in operationally disciplined heavy oil production across Alberta.
 
@@ -133,9 +154,11 @@ This makes the region uniquely suitable for structured credit and asset based op
 
 For allocators outside energy, Roials Capital provides navigation across European private credit, Nordic industrial services, and cross border ABL opportunities where capital scarcity enhances pricing power. 
 
-3. Institutional ## 
+3.
 
-## INTRODUCTION
+Institutional 
+
+ INTRODUCTION
 
  Roials Capital arranges introductions, not transactions.
 
@@ -143,7 +166,11 @@ The emphasis is on intelligence transfer, partner suitability, and operational c
 
 When energy is involved, NAEO serves as the institutional grade partner because of their technical specialization, predictable field operations, and disciplined recovery engineering.
 
-When the focus is Fund-III buyouts or European mandates, introductions focus on operators with demonstrated stewardship and measurable value conversion discipline. ## ## ## ## 
+When the focus is Fund-III buyouts or European mandates, introductions focus on operators with demonstrated stewardship and measurable value conversion discipline. 
+
+ 
+
+ 
 
 ## THE STEWARDSHIP FILTER Stewardship is not a moral abstraction.
 
@@ -156,7 +183,8 @@ Proper stewardship produces the conditions for structural alpha because it preve
 Stewardship follows four filters: 
 -  Non wasteful deployment.
 
-Capital must move only when the asset profile justifies it. **Proverbs 13:22*
+Capital must move only when the asset profile justifies it. **Proverbs 13:22
+*
 * establishes the responsibility to structure resources for longevity rather than immediacy. 
 -  Predictable conversion.
 
@@ -170,11 +198,11 @@ They cannot create dependency or forced refinancing events.
 
 Growth must follow proven recovery of invested capital, ensuring that velocity remains anchored to real performance.
 
-Stewardship is the differentiator between engineered reliability and engineered fragility. ## 
+Stewardship is the differentiator between engineered reliability and engineered fragility.
 
-## A ## 
+A 
 
-## DECISION MAKING LENS FOR THE ALLOCATOR Allocators navigating the current regime require a refined lens for evaluating real asset liquidity opportunities.
+ DECISION MAKING LENS FOR THE ALLOCATOR Allocators navigating the current regime require a refined lens for evaluating real asset liquidity opportunities.
 
 The framework is straightforward: 
 -  Identify environments where capital scarcity is policy driven, not performance driven. 
@@ -195,4 +223,6 @@ Roials Capital provides confidential strategy audits for institutional allocator
 
 The objective is calibration, not solicitation.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

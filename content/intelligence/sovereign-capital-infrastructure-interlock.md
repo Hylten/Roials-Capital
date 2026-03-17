@@ -18,11 +18,13 @@ Bureaucracy loses.
 
 We see it clearly because we operate where timing penalties destroy entire mandates.
 
-Order is not an option. 
+Order is not an option.
 
-## PHASE 
+Phase I: .
 
-1. ## ## ## ## 
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
@@ -80,13 +82,17 @@ Predictable cash conversion.
 
 We track this transition across three power vectors. 
 
-1. Energy security.
+1.
+
+Energy security.
 
 Crude, LNG, and midstream infrastructure are being valued on strategic resilience curves.
 
 When conflict risk is exported across regions, internal production receives a sovereign premium. 
 
-2. Industrial re-onshoring.
+2.
+
+Industrial re-onshoring.
 
 Nations want hardened supply chains.
 
@@ -94,7 +100,9 @@ They want ownership inside the jurisdiction.
 
 They do not want dependency disguised as free trade. 
 
-3. Liquidity sovereignty.
+3.
+
+Liquidity sovereignty.
 
 Countries that rely on foreign credit cycles expose themselves to liquidity droughts.
 
@@ -102,9 +110,9 @@ They now create in-house credit capacity.
 
 That shift alone will rewrite private credit flows for the next decade.
 
-This regime shift creates one dominant ## 
+This regime shift creates one dominant 
 
-## CONCLUSION
+ CONCLUSION
 
  .
 
@@ -118,11 +126,13 @@ At ROIALS CAPITAL, we align with allocators who treat timing as a decisive facto
 
 Delay is waste.
 
-Waste is disqualifying. 
+Waste is disqualifying.
 
-## PHASE 
+Phase II: .
 
-2. ## ## ## ## 
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -144,9 +154,11 @@ States do not optimize for private equity IRR.
 
 They optimize for sovereign durability.
 
-That means LTV targets between 2
-0 and 4
-3 percent on energy and industrial assets.
+That means LTV targets between 
+
+20 and 
+
+43 percent on energy and industrial assets.
 
 They want overcollateralization designed into the operational model.
 
@@ -244,15 +256,15 @@ Institutional self discipline.
 
 Nothing opaque.
 
-Nothing improvisational. 
+Nothing improvisational.
 
-## PHASE 
+Phase III: .
 
-3. ## ## 
+ 
 
-## THE ## 
+## THE 
 
-## STRATEGIC MODEL
+ STRATEGIC MODEL
 
  Sovereign allocators want to partner with a GP that operates like a national institution.
 
@@ -272,7 +284,9 @@ The Fund-III structure is the command vehicle.
 
 The architecture supports three parallel deployment lanes. 
 
-1. Core buyouts with add-ons.
+1.
+
+Core buyouts with add-ons.
 
 These provide the sovereign allocator with controlled scale.
 
@@ -284,7 +298,9 @@ Not narrative value.
 
 Real cash conversion. 
 
-2. Asset-Based Lending driven Asset-Backed Frameworks.
+2.
+
+Asset-Based Lending driven Asset-Backed Frameworks.
 
 This is the capital accelerator.
 
@@ -294,7 +310,9 @@ Sovereign allocators treat this as a national cash-flow utility.
 
 It stabilizes broader investment ecosystems. 
 
-3. Special mandates as national priority alignments.
+3.
+
+Special mandates as national priority alignments.
 
 NAEOC mandates create extraction capacity.
 
@@ -328,8 +346,9 @@ Every add-on either strengthens the strategic position or it is rejected.
 
 We impose three filters.
 
-Cash accretive within 9
-0 days.
+Cash accretive within 
+
+90 days.
 
 Operationally integrable with zero culture friction.
 
@@ -351,9 +370,9 @@ There is no fog.
 
 Fog is where trust dies.
 
-This ## 
+This 
 
-## STRATEGIC MODEL
+ STRATEGIC MODEL
 
  scales because it eliminates internal drift.
 
@@ -361,17 +380,16 @@ Drift destroys sovereign confidence.
 
 Focus earns scale commitments.
 
-Scale commitments accelerate everything. 
+Scale commitments accelerate everything.
 
-## PHASE 
+Phase IV: .
 
-4. ## 
-
-## THE STEWARDSHIP FILTER When national-level capital is entrusted to a GP, the stewardship burden intensifies.
+THE STEWARDSHIP FILTER When national-level capital is entrusted to a GP, the stewardship burden intensifies.
 
 We treat capital as covenantal.
 
-Not transactional. **Proverbs 13:22*
+Not transactional. **Proverbs 13:22
+*
 * defines the principle.
 
 A steward thinks generationally.
@@ -428,19 +446,27 @@ No drift.
 
 No excuses.
 
-No opacity. 
+No opacity.
 
-## PHASE 
+Phase V: .
 
-5. EXIT Target yield displacement threshold: 34
-0 to 46
-0 basis points above sovereign benchmark curves. # 
+EXIT Target yield displacement threshold:
+
+34
+0 to 
+
+46
+0 basis points above sovereign benchmark curves.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

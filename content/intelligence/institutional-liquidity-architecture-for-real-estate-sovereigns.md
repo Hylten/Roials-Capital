@@ -161,11 +161,15 @@ We deliver liquidity that reinforces sovereignty.
 
 For HNWI and UHNW operators, this is the requirement.
 
-For sovereigns, this is the standard. # 
+For sovereigns, this is the standard.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

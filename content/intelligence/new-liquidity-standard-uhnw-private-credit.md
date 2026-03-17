@@ -34,7 +34,8 @@ Structural armor.
 
 Strategic armor.
 
-Cycle‑proof armor. **Proverbs 13:22*
+Cycle‑proof armor. **Proverbs 13:22
+*
 * states: A good man leaves an inheritance to his children's children.
 
 Institutional capital internalizes this as mandate: future protection requires present architecture.
@@ -389,15 +390,19 @@ Sovereign tool.
 
 Principal tool.
 
-The standard for all serious operators. # 
+The standard for all serious operators.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
 Request confidential capital audit to benchmark your current liquidity architecture against institutional standards.
 
 Capital readiness ratio target: 1.47x.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

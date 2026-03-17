@@ -216,7 +216,9 @@ Not public.
 
 Not speculative.
 
-Built for those who manage real weight. ## ## 
+Built for those who manage real weight. 
+
+ 
 
 ## CONCLUSION
 
@@ -226,11 +228,15 @@ Sovereign wealth will continue to dominate.
 
 Asset based Strategic Collateralization will remain the liquidity mechanism of choice for serious capital.
 
-ROIALS CAPITAL stands as a structural partner for those who require institutional clarity with sovereign‑level discretion. # 
+ROIALS CAPITAL stands as a structural partner for those who require institutional clarity with sovereign‑level discretion.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

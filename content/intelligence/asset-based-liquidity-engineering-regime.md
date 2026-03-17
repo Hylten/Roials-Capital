@@ -12,11 +12,13 @@ Wealth collapses at its softest asset.
 
 Liquidity is the constraint most UHNW families misdiagnose.
 
-Order is not an option. 
+Order is not an option.
 
-## PHASE 
+Phase I: .
 
-1. ## ## ## ## 
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
@@ -66,11 +68,13 @@ Whoever controls the holding period controls the wealth trajectory.
 
 Fund-III sits inside that shift.
 
-Not beside it. 
+Not beside it.
 
-## PHASE 
+Phase II: .
 
-2. ## ## ## ## 
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -90,8 +94,9 @@ Every asset class has a liquidity severity gradient.
 
 Hard assets with contractual revenue behave differently than asset light entities that rely on demand elasticity.
 
-Oilfield equipment, midstream infrastructure, transport, industrials, and critical service providers score above 0.6
-8 on the liquidity severity scale.
+Oilfield equipment, midstream infrastructure, transport, industrials, and critical service providers score above 0.
+
+68 on the liquidity severity scale.
 
 These assets, when placed under a controlled capital structure, generate predictable recoverability and therefore predictable loan-to-value corridors.
 
@@ -101,16 +106,21 @@ LTV is not a mixture of valuation optimism.
 
 It is a recovery expectation at liquidation minus operational decay.
 
-In our mandates, machinery and heavy equipment show verified liquidation recovery between 5
-8 and 7
-2 percent of forced sale value.
+In our mandates, machinery and heavy equipment show verified liquidation recovery between 
 
-Receivables under long term service contracts recover near 9
-0 percent.
+58 and 
 
-Land-backed industrial facilities operate at 5
-0 to 6
-5 percent depending on zoning.
+72 percent of forced sale value.
+
+Receivables under long term service contracts recover near 
+
+90 percent.
+
+Land-backed industrial facilities operate at 
+
+50 to 
+
+65 percent depending on zoning.
 
 Cash Flow Waterfall Logic.
 
@@ -147,15 +157,15 @@ A machine with twelve documented bidders is a treasury instrument.
 
 This is why we build Asset-Based Lending facilities not as credit.
 
-But as operating infrastructure. 
+But as operating infrastructure.
 
-## PHASE 
+Phase III: .
 
-3. ## ## 
+ 
 
-## THE ## 
+## THE 
 
-## STRATEGIC MODEL
+ STRATEGIC MODEL
 
  Most private families attempt to manage liquidity internally.
 
@@ -167,7 +177,9 @@ It is a strategic function that requires institutional discipline and acquisitio
 
 Fund-III operates with a tripartite model. 
 
-1. Kapitalanskaffning for Buyouts and Add-ons.
+1.
+
+Kapitalanskaffning for Buyouts and Add-ons.
 
 Eighty percent of our mandate focuses on securing expansion capital into operators that can hold an institutional discipline.
 
@@ -181,7 +193,9 @@ When capital enters a stewarded structure, it scales without waste.
 
 When it enters an unstructured operator, it evaporates. 
 
-2. Monetization Architecture for Asset-Based Lending Mandates.
+2.
+
+Monetization Architecture for Asset-Based Lending Mandates.
 
 Ten percent of our operation focuses on constructing Asset-Based Lending facilities that behave like liquidity engines.
 
@@ -197,7 +211,9 @@ Asset-Based Lending is not a loan.
 
 It is a release valve that transforms the balance sheet into a deployable weapon. 
 
-3. Special Mandates in Energy and Regulated Jurisdictions.
+3.
+
+Special Mandates in Energy and Regulated Jurisdictions.
 
 Ten percent of the model supports large-ticket NAEOC energy structures in the fifty to two hundred fifty million range and MiFID II acquisitions within the EU.
 
@@ -223,17 +239,16 @@ We extract time-value.
 
 We recycle surplus into controlled compounding paths.
 
-Waste is eliminated. 
+Waste is eliminated.
 
-## PHASE 
+Phase IV: .
 
-4. ## 
-
-## THE STEWARDSHIP FILTER A system built without stewardship corrodes.
+THE STEWARDSHIP FILTER A system built without stewardship corrodes.
 
 Stewardship is not generosity.
 
-It is governance. **Proverbs 13:22*
+It is governance. **Proverbs 13:22
+*
 * states that a good man leaves an inheritance for his children's children.
 
 The verse does not reference gold or land.
@@ -272,22 +287,27 @@ Disciplined capital instructs them.
 
 A liquidity engineered system teaches the next generation how to govern.
 
-Not how to spend. 
+Not how to spend.
 
-## PHASE 
+Phase V: .
 
-5. EXIT Our internal mandate is explicit.
+EXIT Our internal mandate is explicit.
 
-Every facility must move the operator toward a minimum DSCR of 1.4
-2 within four quarters.
+Every facility must move the operator toward a minimum DSCR of 1.
 
-Deviate from this and the compounding model breaks. # 
+42 within four quarters.
+
+Deviate from this and the compounding model breaks.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -52,7 +52,8 @@ Defined.
 
 Exploitable.
 
-A good man leaves an inheritance to his children's children. **Proverbs 13:22*
+A good man leaves an inheritance to his children's children. **Proverbs 13:22
+*
 * .
 
 I start with the structural map.
@@ -77,10 +78,12 @@ Capital migrates to whoever can underwrite with precision and deploy with speed.
 
 Three forces shape the terrain: 
 -  Regulatory drag in Europe and the US 
--  Yield scarcity for institutions bound by pre‑202
-0 return models 
--  Middle-market refinancing cliffs through 202
-7 This is the spine of the reallocation era.
+-  Yield scarcity for institutions bound by pre‑20
+
+20 return models 
+-  Middle-market refinancing cliffs through 20
+
+27 This is the spine of the reallocation era.
 
 Everything else is commentary.
 
@@ -137,11 +140,13 @@ Deploy or dilute.
 
 No third path.
 
-RECAPITALIZATION WAVE: 2025-202
-9 
+RECAPITALIZATION WAVE: 2025-20
+
+29 
 -  Elevated refinancing costs 
--  Stranded portfolios from 2021-202
-2 acquisitions 
+-  Stranded portfolios from 2021-20
+
+22 acquisitions 
 -  Sponsor fatigue 
 -  Asset-level supply chain changes 
 -  Cross-border acquisition arbitrage The winners will not be lenders.
@@ -193,7 +198,9 @@ This is where institutional capital gains its advantage.
 
 We operate along three special corridors: 
 
-1. NAEOC $50M-$250M energy mandates Deep basin assets.
+1.
+
+NAEOC $50M-$250M energy mandates Deep basin assets.
 
 Liquid ground positions.
 
@@ -201,7 +208,9 @@ Hard collateral.
 
 Long-cycle yield. 
 
-2. EU MiFID II acquisitions Regulatory arbitrage.
+2.
+
+EU MiFID II acquisitions Regulatory arbitrage.
 
 Passport advantages.
 
@@ -209,7 +218,9 @@ Market access asymmetry.
 
 Speed. 
 
-3. Cross-border asset hardening Energy.
+3.
+
+Cross-border asset hardening Energy.
 
 Industrial services.
 
@@ -248,10 +259,12 @@ THE RESTRUCTURING CLOCK The private credit cycle is not determined by interest r
 It is determined by refinancing windows and covenant decay.
 
 The market will bifurcate into two types of borrowers: 
--  Those who planned for 202
-6 
--  Those who will beg in 202
-7 Private credit becomes the triage system.
+-  Those who planned for 20
+
+26 
+-  Those who will beg in 20
+
+27 Private credit becomes the triage system.
 
 Capital to the prepared.
 
@@ -274,15 +287,25 @@ This is the delta that matters.
 
 THE FUTURE PATHWAYS: PRINCIPAL VIEW The private credit landscape will formalize around five pillars: 
 
-1. Structural underwriting 
+1.
 
-2. Covenant precision 
+Structural underwriting 
 
-3. Operational proximity 
+2.
 
-4. Asset-hardening 
+Covenant precision 
 
-5. Asset-Backed Frameworks The GPs who institutionalize all five will dominate the next ten years.
+3.
+
+Operational proximity 
+
+4.
+
+Asset-hardening 
+
+5.
+
+Asset-Backed Frameworks The GPs who institutionalize all five will dominate the next ten years.
 
 Everyone else will become rate‑beta providers.
 
@@ -338,12 +361,17 @@ This is
 
 CONFIDENTIAL CAPITAL AUDIT REQUIRED.
 
-End metric: Deployment velocity target 9
-4 days. # 
+End metric: Deployment velocity target 
+
+94 days.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

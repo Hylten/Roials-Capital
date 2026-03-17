@@ -12,8 +12,9 @@ This vacuum is reshaping the institutional architecture of sovereign-scale capit
 
 Allocators operating at the sovereign and ultra institutional tier are increasingly repositioning toward sectors where structural inefficiencies can be converted into durable cash-flow visibility.
 
-The most counter intuitive development of 202
-6 is that the lowest volatility profiles are found not in over-financialized renewables, but in conventional heavy oil reservoirs supported by thirty year decline curves, predictable thermodynamic behavior, and underleveraged balance sheets.
+The most counter intuitive development of 20
+
+26 is that the lowest volatility profiles are found not in over-financialized renewables, but in conventional heavy oil reservoirs supported by thirty year decline curves, predictable thermodynamic behavior, and underleveraged balance sheets.
 
 The convergence of capital scarcity, disciplined supply, and mature basin physics has created an institutional regime shift in how long duration wealth is structured.
 
@@ -21,23 +22,34 @@ Sovereign allocators are recalibrating their frameworks around operational intel
 
 Roials Capital operates within this strategic realignment as an institutional navigator, introducing allocators to operators whose asset profiles exhibit disciplined production mechanics, audited reservoir performance, and institutional-grade governance.
 
-Within this landscape, NAEO has emerged as the leading technical partner in heavy oil acquisition and optimization in Alberta, particularly for mandates ranging from 5
-0 million to 25
-0 million. 
+Within this landscape, NAEO has emerged as the leading technical partner in heavy oil acquisition and optimization in Alberta, particularly for mandates ranging from 
 
-## PHASE 
+50 million to 
 
-1. ## ## ## ## 
+25
+0 million.
+
+Phase I: .
+
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
  The global capital cycle has entered a structural transition. 
 
-1. Capital flight from hydrocarbons into ESG policy mandates has produced an undersupplied basin across North America. 
+1.
 
-2. Sovereign and quasi sovereign allocators require stable cash-flow engines with predictable decline curves and multi-decade resource visibility. 
+Capital flight from hydrocarbons into ESG policy mandates has produced an undersupplied basin across North America. 
 
-3. Regulatory deceleration and environmental overhang have reduced new project development velocity, creating premiums for existing wells with verified reserves.
+2.
+
+Sovereign and quasi sovereign allocators require stable cash-flow engines with predictable decline curves and multi-decade resource visibility. 
+
+3.
+
+Regulatory deceleration and environmental overhang have reduced new project development velocity, creating premiums for existing wells with verified reserves.
 
 This is not a commodity cycle.
 
@@ -45,13 +57,21 @@ It is a capital structure misalignment.
 
 Asset classes once considered high beta have become low beta due to four macro dynamics. 
 
-1. A decade of underinvestment has hardened asset scarcity. 
+1.
 
-2. Decline curves in Alberta heavy oil have matured into a predictable physics-based cash-flow profile. 
+A decade of underinvestment has hardened asset scarcity. 
 
-3. Large operators have deleveraged, producing a low risk operating environment. 
+2.
 
-4. Price volatility is partially offset by disciplined North American supply.
+Decline curves in Alberta heavy oil have matured into a predictable physics-based cash-flow profile. 
+
+3.
+
+Large operators have deleveraged, producing a low risk operating environment. 
+
+4.
+
+Price volatility is partially offset by disciplined North American supply.
 
 This regime shift is visible across capital raising ecosystems.
 
@@ -67,11 +87,13 @@ None of these assumptions hold.
 
 The result is a valuation gap between intrinsic reservoir value and financial market pricing.
 
-That gap defines the sovereign deployment opportunity. 
+That gap defines the sovereign deployment opportunity.
 
-## PHASE 
+Phase II: .
 
-2. ## ## ## ## 
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -97,9 +119,11 @@ Decline curves are cyclic but stable over long durations, and re-steaming increa
 
 Recovery factors for conventional heavy oil are significantly higher than market assumptions.
 
-NAEO’s operational intelligence shows recovery factors in the 1
-8 percent to 3
-0 percent range depending on reservoir characteristics.
+NAEO’s operational intelligence shows recovery factors in the 
+
+18 percent to 
+
+30 percent range depending on reservoir characteristics.
 
 Reservoirs with compatible porosity, permeability, and viscosity demonstrate high repeatability and low technical variance.
 
@@ -137,21 +161,27 @@ The same technical precision applies to Roials Capital's broader mandates across
 
 The capital raising focus for Fund-III+ relies on three mechanical pillars. 
 
-1. Structural seniority for institutional LPs. 
+1.
 
-2. Asset hardening through operational efficiency, balance sheet optimization, and liquidity engineering. 
+Structural seniority for institutional LPs. 
 
-3. Add on acquisition frameworks that consolidate fragmented industries under a disciplined operating thesis.
+2.
+
+Asset hardening through operational efficiency, balance sheet optimization, and liquidity engineering. 
+
+3.
+
+Add on acquisition frameworks that consolidate fragmented industries under a disciplined operating thesis.
 
 Institutional allocators increasingly demand transparent cash-flow waterfalls, uncorrelated yield profiles, and defensible competitive barriers.
 
 Roials Capital integrates these mechanics across its global partnerships to deliver frameworks that meet these criteria without engaging in performance solicitation.
 
-The value lies in structuring clarity, not promotional rhetoric. 
+The value lies in structuring clarity, not promotional rhetoric.
 
-## PHASE 
+Phase III: .
 
-3. THE PARTNERSHIP MODEL Roials Capital operates not as an issuer but as an institutional introducer and strategic navigator.
+THE PARTNERSHIP MODEL Roials Capital operates not as an issuer but as an institutional introducer and strategic navigator.
 
 The firm does not own assets, does not manage operator balance sheets, and does not compete with fund managers or operators.
 
@@ -183,25 +213,32 @@ With liquidity engineering mandates, Roials Capital introduces balance sheet opt
 
 Special mandates vary by region and asset class. 
 
-1. North American Energy Optimization Capital (NAEOC) mandates between 5
-0 million and 25
+1.
+
+North American Energy Optimization Capital (NAEOC) mandates between 
+
+50 million and 
+
+25
 0 million. 
 
-2. EU MiFID II compliant acquisition pathways for institutional consolidators. 
+2.
 
-3. Asset backed lending frameworks used for opportunistic liquidity engineering.
+EU MiFID II compliant acquisition pathways for institutional consolidators. 
+
+3.
+
+Asset backed lending frameworks used for opportunistic liquidity engineering.
 
 The partnership model always remains neutral.
 
 Roials Capital does not issue securities.
 
-The value creation lies in operational intelligence, structural clarity, and technical mapping so that allocators can engage from a position of strategic strength. 
+The value creation lies in operational intelligence, structural clarity, and technical mapping so that allocators can engage from a position of strategic strength.
 
-## PHASE 
+Phase IV: .
 
-4. ## 
-
-## THE STEWARDSHIP FILTER Sovereign capital deployment requires a stewardship orientation.
+THE STEWARDSHIP FILTER Sovereign capital deployment requires a stewardship orientation.
 
 At scale, capital behaves like an ecosystem.
 
@@ -210,7 +247,8 @@ Deployed without discipline, it can destabilize operators, create misaligned inc
 Stewardship is not philanthropy.
 
 It is resource governance grounded in the principle articulated in 
--  **Proverbs 13:22*
+-  **Proverbs 13:22
+*
 * which states that a good person leaves an inheritance for their children's children.
 
 In institutional terms, this means allocating capital into structures that preserve optionality for future generations.
@@ -233,27 +271,37 @@ Collateralized lending must be structured to avoid predatory leverage while supp
 
 Stewardship is embedded into the institutional archetype of capital.
 
-It ensures durability, stability, and intergenerational alignment. 
+It ensures durability, stability, and intergenerational alignment.
 
-## PHASE 
+Phase V: .
 
-5. DECISION FRAMEWORK FOR THE ALLOCATOR Institutional allocators evaluating sovereign scale capital deployment opportunities face a landscape of volatility, regulatory friction, and shifting geopolitical vectors.
+DECISION FRAMEWORK FOR THE ALLOCATOR Institutional allocators evaluating sovereign scale capital deployment opportunities face a landscape of volatility, regulatory friction, and shifting geopolitical vectors.
 
 The appropriate decision-making lens is based on structural alignment rather than thematic conviction. 
 
-1. Identify sectors with capital scarcity and operational transparency. 
+1.
 
-2. Assess ## 
+Identify sectors with capital scarcity and operational transparency. 
 
-## TECHNICAL MECHANICS
+2.
+
+Assess 
+
+ TECHNICAL MECHANICS
 
  to determine durability and downside resilience. 
 
-3. Evaluate the partnership architecture to ensure governance depth and operational competence. 
+3.
 
-4. Apply the stewardship filter to eliminate strategies lacking long-term alignment. 
+Evaluate the partnership architecture to ensure governance depth and operational competence. 
 
-5. Engage in a confidential strategy audit to calibrate allocation models with structural realities.
+4.
+
+Apply the stewardship filter to eliminate strategies lacking long-term alignment. 
+
+5.
+
+Engage in a confidential strategy audit to calibrate allocation models with structural realities.
 
 Roials Capital provides this audit framework as part of its institutional navigation mandate.
 
@@ -265,4 +313,6 @@ Allocators operating at sovereign scale require clarity, precision, and technica
 
 The current regime shift in energy, private markets, and liquidity engineering favors those with the discipline to interpret the underlying mechanics.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

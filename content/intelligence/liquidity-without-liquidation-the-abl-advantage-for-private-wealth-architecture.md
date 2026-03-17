@@ -63,7 +63,9 @@ The process is engineered with precision rather than offered as a responsive sol
 
 The Asset-Based Lending advantage emerges from three structural principles. # ## 
 
-1. Liquidity Without Displacement When liquidity depends on liquidation, the asset pool shrinks.
+1.
+
+Liquidity Without Displacement When liquidity depends on liquidation, the asset pool shrinks.
 
 When liquidity is created through Asset-Based Lending, the asset pool is preserved.
 
@@ -77,16 +79,22 @@ Clients retain:
 
 The position remains sovereign. # ## 
 
-2. Collateral as an Engine, Not a Burden In traditional banking, collateral is a risk offset.
+2.
+
+Collateral as an Engine, Not a Burden In traditional banking, collateral is a risk offset.
 
 In private capital architecture, collateral is a power multiplier.
 
 Private credit, public equities, and digital assets all become engines for liquidity creation.
 
 ROIALS CAPITAL provides Strategic Collateralization thresholds specifically aligned to institutional stability: 
--  Crypto Capital Structuring: Minimum threshold 2,000,00
+-  Crypto Capital Structuring: Minimum threshold 2,000,
+
+00
 0 USD 
--  Public Share Institutional Liquidity Paths: Minimum threshold 5,000,00
+-  Public Share Institutional Liquidity Paths: Minimum threshold 5,000,
+
+00
 0 USD These thresholds filter noise.
 
 They allow collateral performance to remain clean, predictable, and institutionally valuable.
@@ -169,8 +177,12 @@ They are not barriers.
 
 They are design principles.
 
-A 2,000,00
-0 USD minimum for crypto and a 5,000,00
+A 2,000,
+
+00
+0 USD minimum for crypto and a 5,000,
+
+00
 0 USD minimum for public shares ensure the collateral behaves in a manner suitable for institutional capital distribution.
 
 This scale allows for: 
@@ -236,11 +248,15 @@ This is the Asset-Based Lending advantage.
 
 This is liquidity without liquidation.
 
-This is the ROIALS CAPITAL framework. # Request confidential audit # 
+This is the ROIALS CAPITAL framework. # Request confidential audit
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

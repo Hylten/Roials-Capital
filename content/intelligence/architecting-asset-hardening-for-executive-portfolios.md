@@ -68,11 +68,15 @@ Scalable.
 
 Asset hardening is the architecture of financial autonomy. 
 
-## Request Confidential Audit If your portfolio requires institutional grade Institutional Liquidity Paths or structural reinforcement, request a confidential audit. # 
+## Request Confidential Audit If your portfolio requires institutional grade Institutional Liquidity Paths or structural reinforcement, request a confidential audit.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

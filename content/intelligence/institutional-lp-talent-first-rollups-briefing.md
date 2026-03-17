@@ -90,11 +90,17 @@ The Human‑Capital Buyout Engine.
 
 Within human‑capital‑heavy buyouts, three categories consistently demonstrate repeatability: 
 
-1. Founder-anchored technical services where the knowledge transfer curve is steep but tractable. 
+1.
 
-2. Professionalized middle-market services with fragmented regional competitors and weak management succession. 
+Founder-anchored technical services where the knowledge transfer curve is steep but tractable. 
 
-3. Expertise‑driven industrial and engineering consultancies where skill is scarce and value delivery is deterministic.
+2.
+
+Professionalized middle-market services with fragmented regional competitors and weak management succession. 
+
+3.
+
+Expertise‑driven industrial and engineering consultancies where skill is scarce and value delivery is deterministic.
 
 The LP question is never “Is the industry attractive?” It is always “Do you control the leadership bottleneck?” When a GP demonstrates that operational leadership is not a risk vector but a renewable asset, the institutional gate opens.
 
@@ -209,11 +215,17 @@ Value-driven.
 
 Talent-first rollups deliver this when the GP eliminates three common pathologies: 
 
-1. Founder dependency masquerading as operational strength. 
+1.
 
-2. Overgrowth without internal leadership multiplication. 
+Founder dependency masquerading as operational strength. 
 
-3. Acquisition sequencing without cultural consolidation.
+2.
+
+Overgrowth without internal leadership multiplication. 
+
+3.
+
+Acquisition sequencing without cultural consolidation.
 
 LPs are not guessing anymore.
 
@@ -324,4 +336,6 @@ Control the multiple.
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

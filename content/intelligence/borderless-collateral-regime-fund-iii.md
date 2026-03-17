@@ -32,13 +32,19 @@ We are now in the first cycle where borderless collateral outruns the Asset-Base
 
 The winners treat this as a structural inversion.
 
-The laggards call it noise. ## ## ## ## 
+The laggards call it noise. 
+
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
  
 
-1. Global capital is no longer geographically obedient.
+1.
+
+Global capital is no longer geographically obedient.
 
 Crypto native wealth moves from Geneva to Dubai to Singapore in under fifteen minutes.
 
@@ -48,7 +54,9 @@ Regulators chase.
 
 Liquidity migrates. 
 
-2. Mid-market M&A is trapped in a liquidity bottleneck.
+2.
+
+Mid-market M&A is trapped in a liquidity bottleneck.
 
 Rates are misaligned with deal velocity.
 
@@ -56,17 +64,21 @@ Buyers have conviction yet lack flexible firepower.
 
 Sellers protect valuations.
 
-Private Credit steps in but applies 200
-8 underwriting logic to a 202
-6 balance sheet. 
+Private Credit steps in but applies 20
 
-3. Digital asset holders have collateral quality equal to or stronger than traditional hard assets but lack institutional-grade on-ramps.
+08 underwriting logic to a 20
+
+26 balance sheet. 
+
+3.
+
+Digital asset holders have collateral quality equal to or stronger than traditional hard assets but lack institutional-grade on-ramps.
 
 This is the unlock.
 
-The convergence produces one inevitable ## 
+The convergence produces one inevitable 
 
-## CONCLUSION
+ CONCLUSION
 
  .
 
@@ -86,13 +98,19 @@ The inefficiency is staggering.
 
 Billions in pristine balance sheet strength sit idle because institutions still misread digital assets as speculative rather than liquid, mobile, and provable.
 
-The market will punish indecision. ## ## ## ## 
+The market will punish indecision. 
+
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
  The mechanics of borderless crypto collateral hinge on three operational dimensions. 
 
-1. Provenance-weighted LTV curves.
+1.
+
+Provenance-weighted LTV curves.
 
 The LTV spectrum is no longer a linear function of volatility.
 
@@ -103,20 +121,29 @@ A ten year unmoved BTC tranche is institutionally superior to newly minted gold 
 Scarcity plus stability defines its underwriting profile.
 
 Standard ranges: 
--  BTC institutional cold storage: 5
-5 to 7
-0 percent LTV depending on liquidity bands. 
--  ETH institutional cold storage: 4
-5 to 6
-0 percent. 
--  Basket collateral with 7
-0 percent tier one assets: 5
-0 to 6
-5 percent.
+-  BTC institutional cold storage: 
+
+55 to 
+
+70 percent LTV depending on liquidity bands. 
+-  ETH institutional cold storage: 
+
+45 to 
+
+60 percent. 
+-  Basket collateral with 
+
+70 percent tier one assets: 
+
+50 to 
+
+65 percent.
 
 These curves outperform commercial real estate spreads under stress testing because liquidation windows are measured in minutes, not months. 
 
-2. Cash flow prioritization through adaptive waterfall design.
+2.
+
+Cash flow prioritization through adaptive waterfall design.
 
 Crypto collateral structures allow for hyper-responsive waterfall adjustments.
 
@@ -130,18 +157,22 @@ Crypto collateral is programmable.
 
 It is not trapped inside PDFs. 
 
-3. Recovery vectors.
+3.
+
+Recovery vectors.
 
 Recovery modeling shifts from asset seizure to immediate conversion mechanisms.
 
 The recovery vector is linear and rapid.
 
 Institutional-grade collateral offers: 
--  9
-8 to 99.
+-  
+
+98 to 99.
 5 percent conversion fidelity in high liquidity environments. 
--  Less than 3
-0 seconds average execution in forced unwind scenarios. 
+-  Less than 
+
+30 seconds average execution in forced unwind scenarios. 
 -  No jurisdictional drag.
 
 This creates an underwriting environment that outperforms both private credit and commercial Asset-Based Lending structures under stress.
@@ -152,11 +183,13 @@ Digital asset collateral is not speculative.
 
 It is liquid sovereign money with perfect traceability.
 
-Private Credit has never had a collateral substrate this efficient. ## ## 
+Private Credit has never had a collateral substrate this efficient. 
 
-## THE ## 
+ 
 
-## STRATEGIC MODEL
+## THE 
+
+ STRATEGIC MODEL
 
  ROIALS CAPITAL deploys a dual-platform model for Fund-III groups.
 
@@ -166,15 +199,20 @@ The objective is institutional readiness at velocity.
 
 The model contains three components. 
 
-1. Capital formation architecture.
+1.
+
+Capital formation architecture.
 
 We raise capital across three channels: 
--  8
-0 percent targeted to Fund-III commitments for buyouts and add-ons. 
--  1
-0 percent allocated to Asset-Based Lending structures for Monetization Architecture. 
--  1
-0 percent directed into special mandates including NAEOC energy mandates at 50M to 250M ticket sizing and EU MiFID II acquisition programs.
+-  
+
+80 percent targeted to Fund-III commitments for buyouts and add-ons. 
+-  
+
+10 percent allocated to Asset-Based Lending structures for Monetization Architecture. 
+-  
+
+10 percent directed into special mandates including NAEOC energy mandates at 50M to 250M ticket sizing and EU MiFID II acquisition programs.
 
 Every mandate is structured to minimize friction.
 
@@ -184,7 +222,9 @@ Humans move slowly.
 
 We remove the human element. 
 
-2. Collateral migration rails for UHNW digital asset holders.
+2.
+
+Collateral migration rails for UHNW digital asset holders.
 
 Borderless collateral is onboarded through custody partners that meet five non-negotiables: 
 -  MiCA and Swiss compliance alignment. 
@@ -201,28 +241,37 @@ The GP gains leverage.
 
 The deal gains velocity. 
 
-3. M&A operational readiness.
+3.
+
+M&A operational readiness.
 
 Most Fund-III managers underestimate the operational load of collateralized acquisition finance.
 
 We do not.
 
 Our platform creates a pre-underwritten environment where: 
--  Deal underwriting is 4
-0 to 7
-0 percent faster. 
+-  Deal underwriting is 
+
+40 to 
+
+70 percent faster. 
 -  Sellers receive stronger confidence signals. 
 -  Buyers enter negotiations backed by mobility-based capital strength.
 
 The firm speaks in action.
 
-Not noise. ## ## ## ## 
+Not noise. 
+
+ 
+
+ 
 
 ## THE STEWARDSHIP FILTER Borderless collateral is not a shortcut.
 
 It is a stewardship mandate.
 
-Capital must not be wasted. **Proverbs 13:22*
+Capital must not be wasted. **Proverbs 13:22
+*
 * defines the responsibility with precision.
 
 Wealth transferred across generations belongs to builders, not consumers.
@@ -253,16 +302,21 @@ Capital rewards order.
 
 Capital punishes drift.
 
-Digital asset collateral amplifies the consequences because its mobility eliminates excuses. ## 
+Digital asset collateral amplifies the consequences because its mobility eliminates excuses.
 
-## EXIT Liquidity depth ratio must exceed 0.7
-8 to maintain acquisition readiness.
+EXIT Liquidity depth ratio must exceed 0.
 
-Request a confidential capital audit. # 
+78 to maintain acquisition readiness.
+
+Request a confidential capital audit.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

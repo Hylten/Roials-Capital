@@ -40,7 +40,8 @@ That is
 
 .
 
-Inherited capital seeks expansion vectors. **Proverbs 13:22*
+Inherited capital seeks expansion vectors. **Proverbs 13:22
+*
 * states: A good man leaveth an inheritance to his children's children.
 
 The principle transcends scripture.
@@ -580,12 +581,18 @@ Fund‑III must lead.
 
 Confidential capital audit recommended.
 
-Liquidity integrity target: 0.99
-8 deterministic settlement ratio. # 
+Liquidity integrity target: 0.
+
+99
+8 deterministic settlement ratio.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

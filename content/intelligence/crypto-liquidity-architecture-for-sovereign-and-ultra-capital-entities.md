@@ -26,11 +26,17 @@ This is engineered liquidity for sovereign‑scale decision makers.
 
 ## The Institutional Logic of Crypto Liquidity A sovereign entity, an HNWI, or a UHNW principal seeks liquidity for one of three reasons: 
 
-1. To accelerate capital deployment without liquidating core holdings 
+1.
 
-2. To stabilize balance sheet exposures across multi‑asset portfolios 
+To accelerate capital deployment without liquidating core holdings 
 
-3. To reduce jurisdictional friction when mobilizing funds Crypto liquidity is uniquely positioned for all three, because digital assets operate outside many of the traditional settlement constraints.
+2.
+
+To stabilize balance sheet exposures across multi‑asset portfolios 
+
+3.
+
+To reduce jurisdictional friction when mobilizing funds Crypto liquidity is uniquely positioned for all three, because digital assets operate outside many of the traditional settlement constraints.
 
 However, the advantage emerges only when the provider understands institutional credit logic.
 
@@ -52,11 +58,17 @@ That is the operating posture of ROIALS CAPITAL.
 
 The architecture we deliver is defined by three elements: 
 
-1. Structural Monetization Architecture logic grounded in private credit fundamentals 
+1.
 
-2. Asset‑based mechanisms that translate unconventional collateral into bank‑grade liquidity 
+Structural Monetization Architecture logic grounded in private credit fundamentals 
 
-3. Institutional thresholds that filter for serious capital Crypto Capital Structuring begins at two million dollars.
+2.
+
+Asset‑based mechanisms that translate unconventional collateral into bank‑grade liquidity 
+
+3.
+
+Institutional thresholds that filter for serious capital Crypto Capital Structuring begins at two million dollars.
 
 Public share Institutional Liquidity Paths begins at five million dollars.
 
@@ -234,7 +246,9 @@ We maintain the principal authority required for ultra‑capital operations.
 
 The future is not experimental.
 
-It is engineered. ## ## 
+It is engineered. 
+
+ 
 
 ## CONCLUSION
 
@@ -248,11 +262,15 @@ Our minimum thresholds ensure that we engage only with clients who operate at in
 
 Our mechanics provide the clarity and stability that ultra‑capital requires.
 
-For entities operating in silence, we build the architecture that moves capital without noise. # 
+For entities operating in silence, we build the architecture that moves capital without noise.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -30,7 +30,11 @@ UHNWIs have learned that mobility is a protection layer.
 
 Private credit has not caught up.
 
-That gap is where superior returns are found. ## ## ## ## 
+That gap is where superior returns are found. 
+
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
@@ -77,7 +81,11 @@ Mobility creates optionality.
 
 Optionality creates acquisition advantage.
 
-In a tightening-rate environment, advantage compounds faster than cost of capital. ## ## ## ## 
+In a tightening-rate environment, advantage compounds faster than cost of capital. 
+
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -86,9 +94,11 @@ In a tightening-rate environment, advantage compounds faster than cost of capita
 Institutional mechanics decide institutional outcomes.
 
 Crypto collateral can be inserted into an M&A capital stack through three primary structures: 
--  Overcollateralized credit lines at 4
-0 to 6
-5 percent LTV. 
+-  Overcollateralized credit lines at 
+
+40 to 
+
+65 percent LTV. 
 -  Synthetic liquidity tranches for deposit-anchored deal deposits. 
 -  Cross-custodial security agreements that unlock jurisdictional flexibility.
 
@@ -139,11 +149,13 @@ It is the superior recovery factor.
 
 That is the foundation of institutional credit.
 
-That is why crypto collateral belongs in the M&A leverage stack. ## ## 
+That is why crypto collateral belongs in the M&A leverage stack. 
 
-## THE ## 
+ 
 
-## STRATEGIC MODEL
+## THE 
+
+ STRATEGIC MODEL
 
  Fund-III requires a capital formation architecture anchored in mobile collateral pools, not regional lenders.
 
@@ -153,7 +165,9 @@ LPs want one assurance: execution dominance.
 
 The model follows three operational pillars. 
 
-1. Institutional Liquidity Paths Fund-III partners must maintain a standing crypto-collateralized liquidity reserve.
+1.
+
+Institutional Liquidity Paths Fund-III partners must maintain a standing crypto-collateralized liquidity reserve.
 
 Not for speculation.
 
@@ -163,7 +177,9 @@ The reserve accelerates deal certainty.
 
 It also eliminates the destructive effect of lender lag during buyout negotiations. 
 
-2. Acquisition Velocity Borderless collateral compresses time-to-close.
+2.
+
+Acquisition Velocity Borderless collateral compresses time-to-close.
 
 Deals are won through speed.
 
@@ -175,7 +191,9 @@ They care about the buyer’s certainty.
 
 When your collateral moves instantaneously across regulatory borders, you win on certainty. 
 
-3. Asset Hardening Crypto collateral frees cash that would otherwise be locked in equity.
+3.
+
+Asset Hardening Crypto collateral frees cash that would otherwise be locked in equity.
 
 That cash is redeployed into hard assets: oil and gas operating interests, industrials, energy services, and regulated MiFID II acquisition targets.
 
@@ -194,7 +212,11 @@ The strategic advantage is structural.
 
 The market has not yet priced it.
 
-That is the window. ## ## ## ## 
+That is the window. 
+
+ 
+
+ 
 
 ## THE STEWARDSHIP FILTER Wealth must move without waste.
 
@@ -204,7 +226,8 @@ The mobile nature of crypto collateral must not tempt undisciplined leverage beh
 
 It must reinforce capital responsibility.
 
-The Biblical model is clear. **Proverbs 13:22*
+The Biblical model is clear. **Proverbs 13:22
+*
 * describes generational capital as a multi-epoch responsibility.
 
 Stewardship rejects disorder.
@@ -224,16 +247,20 @@ It amplifies it.
 
 Collateral mobility is merely the tool.
 
-Purpose determines its value. ## 
+Purpose determines its value.
 
-## EXIT Fund-III institutional operations require a single invariant metric: maintain a collateral mobility ratio above 1.
+EXIT Fund-III institutional operations require a single invariant metric: maintain a collateral mobility ratio above 1.
 7 relative to jurisdiction-bound lender exposure.
 
-Request a confidential capital audit. # 
+Request a confidential capital audit.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

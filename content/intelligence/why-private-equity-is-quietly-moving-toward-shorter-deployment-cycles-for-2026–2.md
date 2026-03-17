@@ -26,7 +26,9 @@ It is architecture.
 
 ## Why Deployment Cycles Are Contracting 
 
-1. THE PRESSURE FROM MULTI-VINTAGE STACKING The post‑COVID era created an artificial sequencing distortion.
+1.
+
+THE PRESSURE FROM MULTI-VINTAGE STACKING The post‑COVID era created an artificial sequencing distortion.
 
 Too many vintages raised too quickly.
 
@@ -50,7 +52,9 @@ Not theoretical.
 
 Not positioned for a “better entry point.” The new covenant between LP and GP is simple: You raise it, you deploy it, and you produce value creation velocity in observable windows. 
 
-2. THE ERA OF STATIC UNDERWRITING IS OVER Valuation standoffs have evaporated.
+2.
+
+THE ERA OF STATIC UNDERWRITING IS OVER Valuation standoffs have evaporated.
 
 Sellers accepted reality.
 
@@ -64,7 +68,9 @@ Accelerated underwriting equals shorter deployment cycles.
 
 The deal machine has oxygen again. 
 
-3. THE RETURN OF REAL EARNINGS POWER The strongest operators have separated from the herd.
+3.
+
+THE RETURN OF REAL EARNINGS POWER The strongest operators have separated from the herd.
 
 The market can now differentiate signal from noise with brutal precision.
 
@@ -78,7 +84,9 @@ They price.
 
 They move. 
 
-4. INDUSTRIAL BUYOUTS HAVE BECOME CLOCKWORK This is the hidden architecture no mainstream analyst has captured: European industrial families and North American owner‑operators have aligned their timelines.
+4.
+
+INDUSTRIAL BUYOUTS HAVE BECOME CLOCKWORK This is the hidden architecture no mainstream analyst has captured: European industrial families and North American owner‑operators have aligned their timelines.
 
 They prepare succession the same way.
 
@@ -90,7 +98,9 @@ Processes are faster because readiness is higher.
 
 Readiness shortens deployment cycles. 
 
-5. ADD‑ONS ARE NO LONGER OPTIONAL; THEY ARE THE ENGINE Fund‑III vehicles scale through platform‑plus‑add‑on strategy.
+5.
+
+ADD‑ONS ARE NO LONGER OPTIONAL; THEY ARE THE ENGINE Fund‑III vehicles scale through platform‑plus‑add‑on strategy.
 
 Platforms are slow.
 
@@ -102,7 +112,9 @@ Add‑ons compress the timeline.
 
 When the portfolio becomes the pipeline, the deployment cycle collapses. 
 
-6. THE INSTITUTIONALIZATION OF PRIVATE CREDIT Private credit has ceased to be a parallel ecosystem.
+6.
+
+THE INSTITUTIONALIZATION OF PRIVATE CREDIT Private credit has ceased to be a parallel ecosystem.
 
 It is now embedded within buyout flow.
 
@@ -116,7 +128,9 @@ Deals close faster.
 
 Capital deploys earlier. 
 
-7. TIER‑
+7.
+
+TIER‑
 1 GPs FACE A NEW EXPECTATION: CONTINUOUS MOTION A GP who pauses becomes a GP who weakens.
 
 LPs require momentum because momentum reveals discipline.
@@ -125,7 +139,9 @@ Deployment cycles are compressing not because GPs prefer speed, but because spee
 
 Stillness is suspicious. 
 
-8. THE MARKET NO LONGER PUNISHES FAST.
+8.
+
+THE MARKET NO LONGER PUNISHES FAST.
 
 IT PUNISHES SLOW.
 
@@ -180,9 +196,12 @@ It is strategic.
 It is advantageous for those who understand its mechanics.
 
 Our Fund‑III partners across North America and Europe have already begun: 
--  2026-202
-8 vintages running 18-3
-0 month deployment windows. 
+-  2026-20
+
+28 vintages running 18
+-
+
+30 month deployment windows. 
 -  Add‑on pipelines pre‑underwritten before fund close. 
 -  Direct industrial lending aligned to transaction tempo. 
 -  Cross‑border legal harmonization eliminating time waste.
@@ -199,18 +218,31 @@ They allocate to GPs whose workflow removes friction and demonstrates inevitabil
 
 We reinforce the GP’s architecture: 
 
-1. Front‑loaded deal visibility 
+1.
 
-2. Time‑compressed due diligence 
+Front‑loaded deal visibility 
 
-3. Verified succession‑ready sellers 
+2.
 
-4. Pre‑cleared industrial families across EU and NA 
+Time‑compressed due diligence 
 
-5. Fully aligned private credit partners 
+3.
 
-6. Add‑on ecosystems mapped 1
-8 months ahead Deployment speed becomes the strongest fundraising signal for Fund‑III and Fund‑IV entries.
+Verified succession‑ready sellers 
+
+4.
+
+Pre‑cleared industrial families across EU and NA 
+
+5.
+
+Fully aligned private credit partners 
+
+6.
+
+Add‑on ecosystems mapped 
+
+18 months ahead Deployment speed becomes the strongest fundraising signal for Fund‑III and Fund‑IV entries.
 
 You raise because you are active.
 
@@ -244,8 +276,9 @@ The flywheel tightens.
 
 ## THE REALITY NO ONE STATES PUBLICLY Private equity is abandoning the five‑year deployment window because it no longer reflects how value is created.
 
-Modern operators produce observable performance improvements within 12,2
-4 months.
+Modern operators produce observable performance improvements within 12,
+
+24 months.
 
 Add‑ons accelerate the curve further.
 
@@ -255,8 +288,9 @@ What once required years now requires discipline.
 
 And discipline compresses time. 
 
-## THE 2026-202
-8 OUTLOOK The most important insight for principals: the compression trend is not cyclical.
+## THE 2026-20
+
+28 OUTLOOK The most important insight for principals: the compression trend is not cyclical.
 
 It is generational.
 
@@ -308,4 +342,6 @@ Direct industrial lending inquiries must observe the Asset‑Based Lending Quali
 
 Request confidential capital audit below.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

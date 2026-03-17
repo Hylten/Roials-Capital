@@ -36,7 +36,11 @@ Alignment is not philosophical.
 
 Alignment is mechanical.
 
-Correct alignment is the difference between a Fund-III that compounds authority and one that dissolves into administrative noise. ## ## ## ## 
+Correct alignment is the difference between a Fund-III that compounds authority and one that dissolves into administrative noise. 
+
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
@@ -82,7 +86,11 @@ But because the architecture itself is insufficient.
 
 You cannot correct misalignment through sentiment.
 
-You correct it through structure. ## ## ## ## 
+You correct it through structure. 
+
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -114,11 +122,17 @@ Few are written to provide discipline.
 
 A disciplined waterfall recognizes three rules. 
 
-1. Cash does not lie. 
+1.
 
-2. Cash that is not allocated is cash that is wasted. 
+Cash does not lie. 
 
-3. Cash that is misprioritized becomes principal degradation.
+2.
+
+Cash that is not allocated is cash that is wasted. 
+
+3.
+
+Cash that is misprioritized becomes principal degradation.
 
 The waterfall is a moral document as much as a financial one.
 
@@ -128,8 +142,9 @@ Recovery factors sit at the center of this.
 
 Recovery math is where most LPs overestimate their safety.
 
-A 6
-0 percent expected recovery is only meaningful if the asset's liquidation timeline matches the fund's liquidity runway.
+A 
+
+60 percent expected recovery is only meaningful if the asset's liquidation timeline matches the fund's liquidity runway.
 
 If not, your recovery percentage is irrelevant.
 
@@ -168,18 +183,21 @@ The faster a fund can detect deviation from expected cash-flow behavior, the mor
 The slower the detection, the more misalignment compounds.
 
 Most default events originate 
-6 to 1
-2 months before managers identify them.
+6 to 
+
+12 months before managers identify them.
 
 That delay is not technical.
 
 It is cultural.
 
-A disciplined fund eliminates that delay. ## ## 
+A disciplined fund eliminates that delay. 
 
-## THE ## 
+ 
 
-## STRATEGIC MODEL
+## THE 
+
+ STRATEGIC MODEL
 
  Institutional alignment is not a slogan.
 
@@ -187,9 +205,9 @@ It is an operational mandate.
 
 A Fund-III structure must operate with a higher order of clarity.
 
-The ## 
+The 
 
-## STRATEGIC MODEL
+ STRATEGIC MODEL
 
  follows a simple rule: velocity without clarity is chaos.
 
@@ -233,9 +251,9 @@ When the architecture is correct, special mandates do not introduce complexity.
 
 They introduce optionality.
 
-The ## 
+The 
 
-## STRATEGIC MODEL
+ STRATEGIC MODEL
 
  operates on a hierarchy of conviction.
 
@@ -263,13 +281,18 @@ They collaborate with it.
 
 If they resist discipline at the term sheet, they will resist discipline at month eighteen.
 
-That is a predictable failure point. ## ## ## ## 
+That is a predictable failure point. 
+
+ 
+
+ 
 
 ## THE STEWARDSHIP FILTER Stewardship is the governing ethic.
 
 Private credit is not a game of yield.
 
-It is a theology of allocation. **Proverbs 13:22*
+It is a theology of allocation. **Proverbs 13:22
+*
 * defines 
 
 ## THE MANDATE
@@ -292,23 +315,31 @@ Waste is any deviation from the highest use of capital.
 
 The stewardship filter operates across four domains. 
 
-1. Resource efficiency.
+1.
+
+Resource efficiency.
 
 Capital must flow to assets that magnify it, not assets that absorb it. 
 
-2. Managerial discipline.
+2.
+
+Managerial discipline.
 
 Governance must enforce clarity.
 
 Ambiguity is a form of negligence. 
 
-3. Operational sovereignty.
+3.
+
+Operational sovereignty.
 
 Borrowers must demonstrate self-governance.
 
 A borrower that requires constant correction is not a partner. 
 
-4. Moral hierarchy.
+4.
+
+Moral hierarchy.
 
 Capital is not neutral.
 
@@ -328,9 +359,9 @@ The failure begins when managers ignore drift in borrower behavior.
 
 Drift is the early warning system.
 
-Drift reveals who treats capital as stewardship and who treats it as fuel. ## 
+Drift reveals who treats capital as stewardship and who treats it as fuel.
 
-## EXIT Order is measured at exit.
+EXIT Order is measured at exit.
 
 If the system produced discipline, the exits will be clean.
 
@@ -338,20 +369,27 @@ If the system tolerated drift, the exits will be distorted.
 
 The final metric is the capital integrity ratio: the percentage of fund cash flows that behave according to their original underwriting assumptions.
 
-High performing funds operate at 9
-2 percent or higher.
+High performing funds operate at 
 
-Anything below 8
-5 percent signals structural misalignment.
+92 percent or higher.
 
-Anything below 8
-0 percent signals systemic failure. # 
+Anything below 
+
+85 percent signals structural misalignment.
+
+Anything below 
+
+80 percent signals systemic failure.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

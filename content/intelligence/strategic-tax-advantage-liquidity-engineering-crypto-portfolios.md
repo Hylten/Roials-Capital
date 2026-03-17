@@ -12,13 +12,17 @@ It is the direct outcome of regulatory divergence, tax friction, and the absence
 
 The current environment has created a structural asymmetry.
 
-Experienced LPs and UHNWIs with crypto density observe nominal appreciation yet face impaired convertibility, dislocated taxable events, and a lack of strategic counterparts capable of converting volatile digital value into institutional-grade liquidity streams. ## ## ## ## 
+Experienced LPs and UHNWIs with crypto density observe nominal appreciation yet face impaired convertibility, dislocated taxable events, and a lack of strategic counterparts capable of converting volatile digital value into institutional-grade liquidity streams. 
+
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
- ## 
+ 
 
-## THE REGIME SHIFT
+ THE REGIME SHIFT
 
  began when digital asset valuations decoupled from traditional funding markets.
 
@@ -27,9 +31,11 @@ Crypto portfolios exhibited accelerated nominal growth while simultaneously losi
 Several macro forces define the current landscape: 
 -  Tax treatment in most Western jurisdictions treats crypto disposals as capital gains events.
 
-This introduces friction that can exceed 2
-0 percent to 3
-7 percent depending on jurisdiction. 
+This introduces friction that can exceed 
+
+20 percent to 
+
+37 percent depending on jurisdiction. 
 -  Regulatory oversight has created a mismatch between capital mobility and tax liability recognition.
 
 Many allocators experience mark to market volatility without corresponding liquidity flexibility. 
@@ -46,7 +52,11 @@ Despite aggregate wealth expansion inside digital assets, the allocators hold po
 
 Against this backdrop, liquidity engineering has emerged as a method of balance sheet stabilization rather than a method of yield generation.
 
-It enables the allocator to reconfigure the liquidity profile of their crypto exposure without triggering disposals. ## ## ## ## 
+It enables the allocator to reconfigure the liquidity profile of their crypto exposure without triggering disposals. 
+
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -54,7 +64,9 @@ It enables the allocator to reconfigure the liquidity profile of their crypto ex
 
 For crypto dense portfolios, three mechanics define the institutional architecture: 
 
-1. Non Dispositional Liquidity Structuring This is the core of the system.
+1.
+
+Non Dispositional Liquidity Structuring This is the core of the system.
 
 Instead of selling tokens, wallets can be modeled as collateral proxies.
 
@@ -68,7 +80,9 @@ It uses:
 -  Real time risk audits 
 -  Counterparty diversification This positions the digital portfolio as a liquidity reservoir rather than a trading asset. 
 
-2. Tax Deferred Reallocation The purpose is not tax avoidance.
+2.
+
+Tax Deferred Reallocation The purpose is not tax avoidance.
 
 The objective is tax alignment.
 
@@ -80,7 +94,9 @@ This benefits allocators who intend to reallocate into:
 -  Asset hardening programs in real assets 
 -  ABL structures linked to industrial or energy assets The allocator retains optionality while achieving alignment with a broader capital program. 
 
-3. Institutional Conversion Mechanics Crypto portfolios in isolation do not satisfy conventional LTV frameworks.
+3.
+
+Institutional Conversion Mechanics Crypto portfolios in isolation do not satisfy conventional LTV frameworks.
 
 Liquidity engineering converts them into acceptable profiles through: 
 -  Portfolio tiering 
@@ -103,12 +119,15 @@ THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator rather th
 The role is to align allocators with institutional grade frameworks that convert non traditional wealth profiles into usable capital across global markets.
 
 The capital raising architecture is divided into: 
--  8
-0 percent Fund-III and add on acquisition alignment 
--  1
-0 percent Asset Backed Liquidity engineering for specialized allocators 
--  1
-0 percent Special Mandates including NAEOC energy allocations and MiFID II compliant cross border acquisitions The role includes: 
+-  
+
+80 percent Fund-III and add on acquisition alignment 
+-  
+
+10 percent Asset Backed Liquidity engineering for specialized allocators 
+-  
+
+10 percent Special Mandates including NAEOC energy allocations and MiFID II compliant cross border acquisitions The role includes: 
 -  Balancing liquidity needs with regulatory constraints 
 -  Identifying appropriate institutional partners for structured liquidity 
 -  Calibrating the capital stack for allocators entering buyout cycles 
@@ -118,7 +137,11 @@ Crypto portfolios require counterparties with risk governance sophistication, ta
 
 Roials Capital does not intermediate crypto assets.
 
-It structures strategic alignment pathways that allow allocators to enter institutional deal flow. ## ## ## ## 
+It structures strategic alignment pathways that allow allocators to enter institutional deal flow. 
+
+ 
+
+ 
 
 ## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management.
 
@@ -134,7 +157,8 @@ Stewardship requires:
 -  Liquidity access without destruction of principal 
 -  Reallocation into productive capital programs 
 -  Governance frameworks that preserve intergenerational optionality 
--  Decision making that aligns with **Proverbs 13:22*
+-  Decision making that aligns with **Proverbs 13:22
+*
 * and the broader theology of capital Liquidity engineering serves this function.
 
 It converts unstable value into stable utility.
@@ -149,9 +173,9 @@ This is not a financial product pitch.
 
 This is an operational discipline.
 
-It is a method for preventing the erosion of value through misaligned tax events, unnecessary disposals, or volatility driven decision errors. ## ## ## 
+It is a method for preventing the erosion of value through misaligned tax events, unnecessary disposals, or volatility driven decision errors.
 
-## DECISION MAKING LENS FOR THE ALLOCATOR Allocators who hold crypto concentration face a structural choice.
+DECISION MAKING LENS FOR THE ALLOCATOR Allocators who hold crypto concentration face a structural choice.
 
 They can remain in a static liquidity position or they can convert their capital into an institutionally aligned configuration that serves broader strategic goals.
 
@@ -167,4 +191,6 @@ A confidential portfolio calibration allows an allocator to understand:
 
 The process is governed, compliant, neutral, and institutionally designed. [END OF INSTITUTIONAL BRIEFING]
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

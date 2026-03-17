@@ -12,7 +12,11 @@ This single structural fact underpins the institutional rediscovery of hard-asse
 
 Legacy hardening is not a branding phrase.
 
-It is a balance sheet discipline that converts mature, long curve assets into durable multi cycle anchors within an allocator's portfolio architecture. ## ## ## ## 
+It is a balance sheet discipline that converts mature, long curve assets into durable multi cycle anchors within an allocator's portfolio architecture. 
+
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
@@ -20,8 +24,9 @@ It is a balance sheet discipline that converts mature, long curve assets into du
 
 The North American energy ecosystem has entered a multi year efficiency phase driven by underinvestment rather than overproduction.
 
-Since 2015, upstream and midstream operators have reduced capex intensity more than 4
-0 percent while simultaneously extending productive life across legacy assets with stable decline curves.
+Since 2015, upstream and midstream operators have reduced capex intensity more than 
+
+40 percent while simultaneously extending productive life across legacy assets with stable decline curves.
 
 Supply dynamics are not keeping pace with demand normalization.
 
@@ -47,15 +52,19 @@ This realignment is shaping Fund-III strategies.
 
 The allocator class is moving away from abstract yield and into balance sheet optimization anchored in operational intelligence.
 
-Legacy hardening becomes the filter through which mature assets, undercapitalized operators, and multi decade resource bases can be converted into institutional grade structures. ## ## ## ## 
+Legacy hardening becomes the filter through which mature assets, undercapitalized operators, and multi decade resource bases can be converted into institutional grade structures. 
+
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
  Legacy hardening in the energy domain is not a macro thesis.
 
-It is a set of ## 
+It is a set of 
 
-## TECHNICAL MECHANICS
+ TECHNICAL MECHANICS
 
  that institutional capital can model with precision.
 
@@ -63,9 +72,11 @@ Alberta's heavy oil fields operate within known basin physics.
 
 SAGD wells produce through a dual wellbore system where steam chamber uniformity controls recovery efficiency.
 
-The recovery factor in mature SAGD fields often stabilizes within a 3
-5 to 4
-5 percent range.
+The recovery factor in mature SAGD fields often stabilizes within a 
+
+35 to 
+
+45 percent range.
 
 Operators such as our strategic partner NAEO optimize this through calibrated steam oil ratios, controlled subcool parameters, and targeted infill drilling to maintain chamber continuity.
 
@@ -130,15 +141,22 @@ NAEO delivers the operational execution.
 
 The allocator receives a calibrated pathway into energy assets, structured credit, or special mandate acquisitions without absorbing execution risk.
 
-For European and MiFID II regulated participants, Roials supports acquisition structuring, capital flow alignment, and operational partner ## 
+For European and MiFID II regulated participants, Roials supports acquisition structuring, capital flow alignment, and operational partner 
 
-## INTRODUCTION
+ INTRODUCTION
 
  across Canada, the US, and selected European jurisdictions.
 
-Special mandates between 5
-0 million USD and 25
-0 million USD in energy follow a defined due diligence sequence based on reservoir mapping, decline calibration, and cash flow hardening procedures. ## ## ## ## 
+Special mandates between 
+
+50 million USD and 
+
+25
+0 million USD in energy follow a defined due diligence sequence based on reservoir mapping, decline calibration, and cash flow hardening procedures. 
+
+ 
+
+ 
 
 ## THE STEWARDSHIP FILTER Legacy hardening is a stewardship discipline.
 
@@ -148,7 +166,8 @@ Stewardship is not sentiment.
 
 It is an operational framework that prevents capital dissipation and compels disciplined decision making.
 
-Mature energy fields, industrial businesses, and hard asset platforms demand stewards, not speculators. **Proverbs 13:22*
+Mature energy fields, industrial businesses, and hard asset platforms demand stewards, not speculators. **Proverbs 13:22
+*
 * positions resource transfer as an intergenerational principle.
 
 This aligns with allocator mandates focused on wealth preservation, institutional longevity, and multi cycle resilience.
@@ -160,36 +179,41 @@ They convert volatility into durability.
 Stewardship integrates three filters: 
 -  Extraction discipline that prevents value leakage through inefficient operations or misaligned capex. 
 -  Structural discipline that ensures capital enters vehicles with appropriate seniority and protection. 
--  Temporal discipline that ensures assets are positioned for long term viability rather than short term optical yield. ## 
+-  Temporal discipline that ensures assets are positioned for long term viability rather than short term optical yield.
 
-## PORTFOLIO CALIBRATION LENS The allocator evaluating the legacy hardening thesis is not selecting an asset class.
+PORTFOLIO CALIBRATION LENS The allocator evaluating the legacy hardening thesis is not selecting an asset class.
 
-They are calibrating a long horizon posture. ## 
+They are calibrating a long horizon posture.
 
-## THE REGIME SHIFT
+THE REGIME SHIFT
 
  favors structures over narratives, physics over speculation, and operational intelligence over momentum flows.
 
 A confidential strategy audit with Roials Capital focuses on: 
 -  Capital stack optimization for Fund-III environments. 
 -  Structural positioning across private credit and energy hard assets. 
--  ## 
+-  
 
-## INTRODUCTION
+ INTRODUCTION
 
  pathways to NAEO for operators requiring institutional partners. 
--  Portfolio calibration to align with 202
-6 macro constraints and opportunity velocity cycles.
+-  Portfolio calibration to align with 20
+
+26 macro constraints and opportunity velocity cycles.
 
 Legacy hardening is the advantage.
 
 Structural alignment is the execution.
 
-Institutional navigation is the differentiator. [END OF BRIEFING] # 
+Institutional navigation is the differentiator. [END OF BRIEFING]
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

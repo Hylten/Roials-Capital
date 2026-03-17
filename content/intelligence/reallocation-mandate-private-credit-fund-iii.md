@@ -34,11 +34,13 @@ We operate inside the flow of transactions, not on the commentary layer.
 
 The regime that governed the past twelve years is finished.
 
-The next regime rewards precision, adaptability, and institutional architecture. 
+The next regime rewards precision, adaptability, and institutional architecture.
 
-## PHASE 
+Phase I: .
 
-1. ## ## ## ## 
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
@@ -52,19 +54,25 @@ Yield compression is no longer the problem.
 
 Friction is. 
 
-1. Sponsor concentration.
+1.
+
+Sponsor concentration.
 
 Buyout sponsors are scaling add on strategies because organic growth is too slow to justify valuations.
 
 These add ons require fast credit lines and fast execution. 
 
-2. Regulatory compression.
+2.
+
+Regulatory compression.
 
 As banks retreat from middle market exposure, private credit funds inherit the execution load.
 
 That load exceeds current institutional capacity. 
 
-3. Real economy drift.
+3.
+
+Real economy drift.
 
 As inflation stabilizes in the 2.
 5 to 3.
@@ -80,11 +88,13 @@ Capital allocators used to dictate terms.
 
 Now operators of efficient credit platforms dictate them.
 
-That shift is irreversible. 
+That shift is irreversible.
 
-## PHASE 
+Phase II: .
 
-2. ## ## ## ## 
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -96,15 +106,19 @@ The mid-market private credit stack now revolves around four mechanics: LTV disc
 
 LTV curves.
 
-The acceptable LTV band has contracted to 3
-8 to 5
-2 percent for high velocity acquisition programs.
+The acceptable LTV band has contracted to 
+
+38 to 
+
+52 percent for high velocity acquisition programs.
 
 Anything above that threshold introduces unacceptable shock risk.
 
-Funds that keep lending at 5
-8 to 6
-2 percent will inherit the cycle's first casualties.
+Funds that keep lending at 
+
+58 to 
+
+62 percent will inherit the cycle's first casualties.
 
 A Fund-III structure benefits from disciplined LTV segmentation: senior secured for core assets, unitranche for strategic acquisitions, and Asset-Based Lending lines for working capital elasticity.
 
@@ -164,15 +178,15 @@ The market rewards those who build internal execution engines with less than
 4 to 
 6 week credit cycle times.
 
-Anything slower is obsolete. 
+Anything slower is obsolete.
 
-## PHASE 
+Phase III: .
 
-3. ## ## 
+ 
 
-## THE ## 
+## THE 
 
-## STRATEGIC MODEL
+ STRATEGIC MODEL
 
  The partnership model defines Fund-III.
 
@@ -194,8 +208,9 @@ The investor relations team communicates only with institutional clarity.
 
 No noise.
 
-Fund-III allocation model: 8
-0 percent capital formation for buyouts and add ons.
+Fund-III allocation model: 
+
+80 percent capital formation for buyouts and add ons.
 
 These are sponsor aligned pipelines with predictable cash flow behavior.
 
@@ -205,8 +220,9 @@ We match capital commitments with predictable acquisition calendars.
 
 Sponsors need speed.
 
-Fund-III provides it. 1
-0 percent Asset-Based Lending.
+Fund-III provides it. 
+
+10 percent Asset-Based Lending.
 
 Asset-Backed Frameworks redefines borrower behavior.
 
@@ -216,11 +232,15 @@ Asset-Based Lending is not a niche.
 
 It is a leverage reduction tool.
 
-It stabilizes portfolios. 1
-0 percent special mandates.
+It stabilizes portfolios. 
 
-Energy capital allocations between 5
-0 and 25
+10 percent special mandates.
+
+Energy capital allocations between 
+
+50 and 
+
+25
 0 million through NAEOC.
 
 EU MiFID II based acquisition mandates that require operational due diligence and cross border compliance structures.
@@ -235,13 +255,11 @@ Execution certainty.
 
 They allocate to systems, not personalities.
 
-Fund-III must operate like an institutional machine. 
+Fund-III must operate like an institutional machine.
 
-## PHASE 
+Phase IV: .
 
-4. ## 
-
-## THE STEWARDSHIP FILTER The resources we manage are not arbitrary.
+THE STEWARDSHIP FILTER The resources we manage are not arbitrary.
 
 They carry responsibility.
 
@@ -249,7 +267,8 @@ Stewardship is not sentiment.
 
 It is operational theology.
 
-Waste is the greatest threat to compounding. **Proverbs 13:22*
+Waste is the greatest threat to compounding. **Proverbs 13:22
+*
 * states that a good man leaves an inheritance for his children's children.
 
 In institutional terms, stewardship means allocating capital without leakage.
@@ -286,11 +305,11 @@ The market rewards efficiency with scaled allocations.
 
 Growth follows clean mechanics.
 
-Never the opposite. 
+Never the opposite.
 
-## PHASE 
+Phase V: .
 
-5. EXIT The exit layer is not optional.
+EXIT The exit layer is not optional.
 
 Every credit instrument must contain its exit logic inside the structure.
 
@@ -300,18 +319,23 @@ Strong lenders embed it.
 
 For Fund-III, exit clarity flows from measurable indicators.
 
-The final metric: recovery predictability above 7
-8 percent portfolio wide.
+The final metric: recovery predictability above 
+
+78 percent portfolio wide.
 
 Set the benchmark.
 
-Then surpass it. # 
+Then surpass it.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

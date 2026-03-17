@@ -32,9 +32,9 @@ Covenants are the connective tissue.
 
 When these three are not engineered as one unified organism, the facility decays, spreads inefficiency, and drags down the GP's capacity to deploy into higher velocity situations.
 
-This is ## 
+This is 
 
-## THE REGIME SHIFT
+ THE REGIME SHIFT
 
  that is now reshaping private credit and Asset-Based Lending.
 
@@ -42,7 +42,11 @@ Capital is expensive.
 
 Time is even more expensive.
 
-And inefficiency is unforgivable. ## ## ## ## 
+And inefficiency is unforgivable. 
+
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
@@ -62,13 +66,17 @@ Risk is now priced in hours, not quarters.
 
 Two forces created this shift: 
 
-1. Time decay in capital deployment.
+1.
+
+Time decay in capital deployment.
 
 Delays in underwriting wipe out portfolio-level IRR more aggressively than rate increases.
 
 The GP who controls turnaround time wins. 
 
-2. Declining quality of borrower collateral.
+2.
+
+Declining quality of borrower collateral.
 
 Receivables are diluted.
 
@@ -92,7 +100,11 @@ Fund-III strategies depend on it, because the LP base has matured.
 
 They do not reward theory.
 
-They reward precision. ## ## ## ## 
+They reward precision. 
+
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -162,11 +174,13 @@ If it surprises to the downside, the GP has violated fiduciary logic.
 
 Collateralized liquidity becomes an art form when these mechanics converge.
 
-At that point, the fund can lend into complexity that other lenders avoid because they cannot see the internal liquidity geometry of the borrower. ## ## 
+At that point, the fund can lend into complexity that other lenders avoid because they cannot see the internal liquidity geometry of the borrower. 
 
-## THE ## 
+ 
 
-## STRATEGIC MODEL
+## THE 
+
+ STRATEGIC MODEL
 
  Fund-III requires a hybrid capital architecture.
 
@@ -229,7 +243,11 @@ None of this is speculative.
 
 It is structural intelligence.
 
-And structural intelligence requires a fund that treats collateral as the primary language of capital. ## ## ## ## 
+And structural intelligence requires a fund that treats collateral as the primary language of capital. 
+
+ 
+
+ 
 
 ## THE STEWARDSHIP FILTER I consider capital a sacred trust.
 
@@ -239,7 +257,8 @@ It is administered.
 
 Stewardship is not theology placed on top of finance.
 
-Stewardship is the only framework that prevents waste. **Proverbs 13:22*
+Stewardship is the only framework that prevents waste. **Proverbs 13:22
+*
 * anchors 
 
 ## THE MANDATE
@@ -277,20 +296,25 @@ Complexity becomes a field to be cultivated, not feared.
 
 When a fund treats capital as stewardship, waste disappears.
 
-And when waste disappears, returns stabilize. ## 
+And when waste disappears, returns stabilize.
 
-## EXIT Every collateralized liquidity strategy must be judged by one metric: recovery velocity.
+EXIT Every collateralized liquidity strategy must be judged by one metric: recovery velocity.
 
-A facility that recovers within 4
-7 days or less outperforms the entire private credit median.
+A facility that recovers within 
+
+47 days or less outperforms the entire private credit median.
 
 That is the institutional threshold.
 
-For a confidential capital audit, initiate contact. # 
+For a confidential capital audit, initiate contact.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

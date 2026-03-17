@@ -170,17 +170,23 @@ Then they rotate liquidity into undervalued assets during market stress.
 
 This produces asymmetric gains.
 
-The sovereign principal grows most when markets contract. ## 
+The sovereign principal grows most when markets contract.
 
-## THE MANDATE
+THE MANDATE
 
  for Fund Managers Fund-III+ managers face three critical pressures. 
 
-1. Institutional reporting. 
+1.
 
-2. Redemption cycles. 
+Institutional reporting. 
 
-3. Allocation scrutiny.
+2.
+
+Redemption cycles. 
+
+3.
+
+Allocation scrutiny.
 
 Asset based Asset-Backed Frameworks solves all three.
 
@@ -196,15 +202,21 @@ Not obstacles.
 
 ## The Roials Framework The Roials mandate is defined by three components. 
 
-1. Asset hardening.
+1.
+
+Asset hardening.
 
 Convert private assets into institution-grade collateral. 
 
-2. Structural alignment.
+2.
+
+Structural alignment.
 
 Build clear frameworks that pass institutional scrutiny. 
 
-3. Execution velocity.
+3.
+
+Execution velocity.
 
 Deploy liquidity with minimal drag.
 
@@ -232,11 +244,15 @@ Enforceable.
 
 Sovereign.
 
-Request confidential audit. # 
+Request confidential audit.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

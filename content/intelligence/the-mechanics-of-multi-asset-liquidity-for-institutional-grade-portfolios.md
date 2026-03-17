@@ -136,13 +136,21 @@ Without hierarchy, liquidity becomes noise instead of structure.
 
 Roials Capital applies an institutional hierarchy across all collateral types: 
 
-1. Foundation Layer: Private Credit 
+1.
 
-2. Structural Layer: Asset Based Strategic Collateralization 
+Foundation Layer: Private Credit 
 
-3. Fluid Layer: Public Share Asset-Backed Frameworks 
+2.
 
-4. Tactical Layer: Crypto Capital Structuring This hierarchy protects the investor.
+Structural Layer: Asset Based Strategic Collateralization 
+
+3.
+
+Fluid Layer: Public Share Asset-Backed Frameworks 
+
+4.
+
+Tactical Layer: Crypto Capital Structuring This hierarchy protects the investor.
 
 It ensures that liquidity extraction does not destabilize the portfolio.
 
@@ -245,11 +253,15 @@ Structural.
 
 Institutional. 
 
-## Request confidential audit # 
+## Request confidential audit
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

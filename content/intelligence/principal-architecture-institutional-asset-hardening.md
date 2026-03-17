@@ -65,7 +65,8 @@ Harden the structure and the LP commits.
 
 Harden the downside and the upside compounds.
 
-A good man leaves an inheritance to his children’s children ( **Proverbs 13:22*
+A good man leaves an inheritance to his children’s children ( **Proverbs 13:22
+*
 * ).
 
 In institutional form: durable capital is intergenerational capital.
@@ -472,18 +473,23 @@ When capital commits, scale arrives.
 
 And scale is the multiplier.
 
-A good man leaves an inheritance to his children’s children ( **Proverbs 13:22*
+A good man leaves an inheritance to his children’s children ( **Proverbs 13:22
+*
 * ).
 
 In institutional finance: the principal leaves a structure that compounds beyond a generation.
 
-Fund‑III is that structure. # 
+Fund‑III is that structure.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

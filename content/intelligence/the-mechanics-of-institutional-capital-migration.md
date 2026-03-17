@@ -41,11 +41,15 @@ HNWI and UHNW individuals who understand this logic do not wait for conditions t
 
 They build the architecture that enables movement on their terms.
 
-ROIALS CAPITAL provides that architecture. # 
+ROIALS CAPITAL provides that architecture.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

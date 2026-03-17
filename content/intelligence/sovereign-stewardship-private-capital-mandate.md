@@ -20,8 +20,9 @@ The institutions that adapt now anchor the next decade of return asymmetry.
 
 Those that hesitate outsource their destiny to others.
 
-The private markets landscape no longer resembles the 2015-202
-0 rhythm.
+The private markets landscape no longer resembles the 2015-20
+
+20 rhythm.
 
 Execution windows shrink.
 
@@ -45,7 +46,8 @@ Designed for sovereignty-grade accountability.
 
 Every mechanism aligns with one objective: convert structural dislocation into durable ownership.
 
-A good man leaves an inheritance to his children’s children ( **Proverbs 13:22*
+A good man leaves an inheritance to his children’s children ( **Proverbs 13:22
+*
 * ).
 
 Sovereign capital operationalizes this mandate across borders, cycles, and regimes.
@@ -383,7 +385,8 @@ Enforce discipline.
 
 The next decade will reward the institutions that understand the new hierarchy: sovereign alignment first, jurisdictional advantage second, capital structuring third.
 
-Fund-III stands at this intersection. **Proverbs 13:22*
+Fund-III stands at this intersection. **Proverbs 13:22
+*
 * remains the sovereign principle: inheritance through stewardship.
 
 Stewardship through structure.
@@ -392,11 +395,15 @@ Structure through disciplined capital.
 
 For institutional LP/GP partners prepared to anchor into this mandate, initiate a confidential capital audit to determine alignment bandwidth, deployment windows, and cross‑jurisdictional positioning.
 
-Technical mandate: 42% target hard‑asset coverage ratio. # 
+Technical mandate: 42% target hard‑asset coverage ratio.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

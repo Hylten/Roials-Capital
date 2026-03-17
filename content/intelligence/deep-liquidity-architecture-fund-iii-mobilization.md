@@ -43,7 +43,8 @@ This brief consolidates the architecture required for Fund‑III to convert late
 
 No abstractions.
 
-Only constructs. **Proverbs 13:22*
+Only constructs. **Proverbs 13:22
+*
 * : Capital follows stewardship.
 
 Stewardship follows design.
@@ -323,24 +324,18 @@ Not spontaneity.
 
 Institutional allocators measure not just performance, but the perceived permanence of the manager.
 
-Fund‑III must materially upgrade GP status across five axes: Axis 
-1 
--  Acquisition Authority LPs expect acquisition velocity with discipline.
+Fund‑III must materially upgrade GP status across five axes: 
 
-Fund‑III requires pre‑validated asset classes, pre‑vetted collateral pools, and pre‑underwritten leverage partners.
+### Axis I: -  Acquisition Authority LPs expect acquisition velocity with discipline.
 
-Axis 
-2 
+Fund‑III requires pre‑validated asset classes, pre‑vetted collateral pools, and pre‑underwritten leverage partners.### Axis II:  
 -  Liquidity Precision LPs expect cash‑yield clarity.
 
 They must see the liquidity arcs.
 
 They must trust the convertibility.
 
-They must see hard‑asset protection.
-
-Axis 
-3 
+They must see hard‑asset protection.### Axis III:  
 -  Governance Density LPs evaluate compliance infrastructure.
 
 Fund‑III must present a governance matrix that leaves no ambiguity.
@@ -349,16 +344,10 @@ Precision.
 
 Certainty.
 
-Permanence.
-
-Axis 
-4 
+Permanence.### Axis IV:  
 -  Cross‑Border Execution International allocators expect jurisdictional competence.
 
-Fund‑III must display fluency in U.S., EU, and Gulf transactional environments.
-
-Axis 
-5 
+Fund‑III must display fluency in U.S., EU, and Gulf transactional environments.### Axis V:  
 -  Signal Dominance Narratives fail.
 
 Signals win.
@@ -397,8 +386,9 @@ Geographic advantage.
 
 Vertical consolidation.
 
-Fund‑III should maintain a 65/25/1
-0 split across these categories, optimizing risk distribution while maximizing compounding.
+Fund‑III should maintain a 65/25/
+
+10 split across these categories, optimizing risk distribution while maximizing compounding.
 
 The GP must execute with brutal discipline.
 
@@ -501,15 +491,19 @@ Control acquisition.
 
 Control delta.
 
-Fund‑III becomes inevitable. ## 
+Fund‑III becomes inevitable.
 
-## MANDATE: INITIATE A CONFIDENTIAL CAPITAL AUDIT FOR FUND‑III TO ASCERTAIN LIQUIDITY SPINE DEPTH, CROSS‑BORDER READINESS, AND LP‑CLASS SEGMENTATION COHERENCE.
+MANDATE: INITIATE A CONFIDENTIAL CAPITAL AUDIT FOR FUND‑III TO ASCERTAIN LIQUIDITY SPINE DEPTH, CROSS‑BORDER READINESS, AND LP‑CLASS SEGMENTATION COHERENCE.
 
-Technical Metric: Target 1.62x Net‑Liquidity Coverage Ratio across all Fund‑III hard‑asset pools. # 
+Technical Metric: Target 1.62x Net‑Liquidity Coverage Ratio across all Fund‑III hard‑asset pools.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

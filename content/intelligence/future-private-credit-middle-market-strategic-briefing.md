@@ -12,11 +12,13 @@ It is the downstream result of regulatory recalibration, banking consolidation, 
 
 The outcome is a structurally persistent gap in credit formation that is material enough to redirect institutional allocation schedules for the next decade.
 
-Middle market private credit has therefore transitioned from a peripheral yield enhancer to an architectural pillar of institutional portfolios. 
+Middle market private credit has therefore transitioned from a peripheral yield enhancer to an architectural pillar of institutional portfolios.
 
-## PHASE 
+Phase I: .
 
-1. ## ## ## ## 
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
@@ -30,8 +32,11 @@ Basel III endgame pressures, intensified loan-loss provisioning, and internal RW
 
 Traditional lenders have pivoted toward risk minimization, senior secured positions, and ultra-short duration corporate facilities.
 
-The middle market, defined operationally as enterprises with 1
-0 million to 25
+The middle market, defined operationally as enterprises with 
+
+10 million to 
+
+25
 0 million EBITDA, sits outside current banking appetite.
 
 The demand side has not contracted.
@@ -44,23 +49,31 @@ Creditworthy borrowers face limited access to dependable capital, while allocato
 
 The migration toward private credit is driven by four identifiable dynamics. 
 
-1. Predictable collateral frameworks.
+1.
+
+Predictable collateral frameworks.
 
 Middle market companies remain asset rich.
 
 Industrial equipment, recurring receivables, contracted revenue, and established cash flow architecture provide verifiable downside protection. 
 
-2. Reduced mark to market volatility.
+2.
+
+Reduced mark to market volatility.
 
 Private credit portfolios are not subject to daily repricing.
 
 For institutional investors seeking duration stability, this mitigates NAV variability across multi year deployment cycles. 
 
-3. Enhanced control rights.
+3.
+
+Enhanced control rights.
 
 Private lenders often negotiate step in protections, cash flow sweep rights, and covenant structures unavailable in public markets. 
 
-4. Acceleration of sponsor led transactions.
+4.
+
+Acceleration of sponsor led transactions.
 
 The buyout and add on environment remains active.
 
@@ -72,11 +85,13 @@ Private credit is entering the same maturity arc that private equity navigated i
 
 Institutional allocators are no longer experimenting with the asset class.
 
-They are building long horizon exposure and integrating dedicated private credit sleeves into overall portfolio design. 
+They are building long horizon exposure and integrating dedicated private credit sleeves into overall portfolio design.
 
-## PHASE 
+Phase II: .
 
-2. ## ## ## ## 
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
@@ -84,7 +99,9 @@ They are building long horizon exposure and integrating dedicated private credit
 
 It is a mosaic of structural approaches, each defined by risk seniority, collateral intensity, and cash flow behavior. 
 
-1. Fund-III Buyout and Add On Financing Fund-III mandates are calibrated for disciplined sponsor led acquisitions.
+1.
+
+Fund-III Buyout and Add On Financing Fund-III mandates are calibrated for disciplined sponsor led acquisitions.
 
 These structures benefit from clear governance, audited histories, and defined operational roadmaps.
 
@@ -94,9 +111,11 @@ Technical factors include:
 Lenders operate at the top of the capital stack, supported by first lien claims on cash generating assets. 
 -  LTV curves.
 
-Well constructed transactions target 3
-5 percent to 5
-5 percent LTV, ensuring substantial equity subordination. 
+Well constructed transactions target 
+
+35 percent to 
+
+55 percent LTV, ensuring substantial equity subordination. 
 -  Cash flow waterfalls.
 
 Priority payment structures direct free cash flow toward amortization before any equity realization. 
@@ -106,7 +125,9 @@ In add on cycles, the aggregation of smaller targets into a unified operator inc
 
 These mechanics appeal to institutional allocators seeking structural clarity and enforceable downside protection. 
 
-2. Strategic Collateralization through Asset-Based Lending Structures Asset based lending operates as a precision tool.
+2.
+
+Strategic Collateralization through Asset-Based Lending Structures Asset based lending operates as a precision tool.
 
 It is not a substitute for enterprise wide financing.
 
@@ -128,8 +149,13 @@ Borrowers access liquidity as needed, improving opportunity velocity without bal
 
 For manufacturing, distribution, and logistics platforms, Asset-Based Lending remains one of the most resilient forms of Monetization Architecture. 
 
-3. Special Mandates including NAEOC 5
-0 million to 25
+3.
+
+Special Mandates including NAEOC 
+
+50 million to 
+
+25
 0 million Energy Allocations North American conventional energy remains a niche but structurally attractive corridor for allocators who understand basin physics, decline curve predictability, and long life heavy oil reservoirs.
 
 Alberta’s conventional assets exhibit technical advantages: 
@@ -144,28 +170,33 @@ SAGD and CSS allow operators to engage in high recovery factor strategies with l
 The Western Canadian Sedimentary Basin provides long horizon production windows with minimal exploration risk. 
 -  Capital starvation.
 
-Since 2015, the sector has absorbed a 6
-0 percent reduction in traditional capital flows, creating pricing dislocations uncorrelated with commodity cycles.
+Since 2015, the sector has absorbed a 
+
+60 percent reduction in traditional capital flows, creating pricing dislocations uncorrelated with commodity cycles.
 
 Our strategic partner, NAEO, focuses on conventional heavy oil operations with disciplined technical stewardship.
 
-These assets avoid high capex blowout risk and offer operational visibility critical for institutional allocators who require stability rather than speculative exposure. 
+These assets avoid high capex blowout risk and offer operational visibility critical for institutional allocators who require stability rather than speculative exposure.
 
-## PHASE 
+Phase III: .
 
-3. THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator and institutional introducer.
+THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator and institutional introducer.
 
 The focus is structural alignment, not transaction placement.
 
 The objective is to reconcile allocator requirements with verifiable execution capabilities. 
 
-1. Ecosystem Intelligence.
+1.
+
+Ecosystem Intelligence.
 
 Institutional allocators require visibility across capital stacks, regulatory landscapes, and sector specific risk profiles.
 
 Roials Capital synthesizes operational intelligence across North America, Europe, and the Middle East, translating complex conditions into allocator appropriate frameworks. 
 
-2. Introducer Neutrality.
+2.
+
+Introducer Neutrality.
 
 Engagements do not involve solicitation, performance projection, or product representation.
 
@@ -173,7 +204,9 @@ The role is strategic alignment.
 
 The objective is to ensure that LPs, GPs, and family offices understand how a specific manager or operator fits into their broader mandate. 
 
-3. Operational Verification.
+3.
+
+Operational Verification.
 
 When discussing energy allocations, Roials Capital distinguishes between high variability assets and engineered production systems.
 
@@ -183,42 +216,49 @@ The partnership model emphasizes clarity.
 
 Allocators do not require persuasion.
 
-They require precise articulation of how a strategy integrates with their capital architecture. 
+They require precise articulation of how a strategy integrates with their capital architecture.
 
-## PHASE 
+Phase IV: .
 
-4. ## 
-
-## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource deployment.
+THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource deployment.
 
 In capital markets, stewardship is a form of integrity that governs allocation decisions, risk frameworks, and operational oversight.
 
-It is positioned as a theological and economic principle. **Proverbs 13:22*
+It is positioned as a theological and economic principle. **Proverbs 13:22
+*
 * states that a good person leaves an inheritance for their grandchildren.
 
 In institutional capital, this translates to multi generational discipline, capital protection, and avoidance of speculative excess.
 
 Stewardship in private credit requires four applied practices. 
 
-1. Resource Accountability.
+1.
+
+Resource Accountability.
 
 Debt capital must be tied to productive assets, verifiable cash flows, and measurable outcomes.
 
 This eliminates capital drift and reduces unintended risk. 
 
-2. Balance Sheet Optimization.
+2.
+
+Balance Sheet Optimization.
 
 Borrowers must operate within sustainable leverage thresholds.
 
 The objective is longevity rather than short term acceleration. 
 
-3. Asset Hardening Discipline.
+3.
+
+Asset Hardening Discipline.
 
 Capital is directed toward operational improvements, collateral enhancement, and resilience building.
 
 Asset hardening increases recovery probabilities and reduces volatility. 
 
-4. Purpose Focused Governance.
+4.
+
+Purpose Focused Governance.
 
 Allocators adopt a long view.
 
@@ -228,11 +268,11 @@ Stewardship becomes a filter through which private credit opportunities are eval
 
 It is not a moral abstraction.
 
-It is a practical requirement for sustainable allocation. 
+It is a practical requirement for sustainable allocation.
 
-## PHASE 
+Phase V: .
 
-5. PORTFOLIO CALIBRATION FOR THE ALLOCATOR The current private credit cycle is defined by structural clarity.
+PORTFOLIO CALIBRATION FOR THE ALLOCATOR The current private credit cycle is defined by structural clarity.
 
 The middle market requires credit stability that traditional lenders can no longer provide.
 
@@ -250,11 +290,15 @@ Roials Capital facilitates confidential strategy audits for allocators who requi
 
 The objective is alignment.
 
-The outcome is clarity across capital structures and long term portfolio design. # 
+The outcome is clarity across capital structures and long term portfolio design.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

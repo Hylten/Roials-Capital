@@ -10,7 +10,11 @@ The capital vacuum across global private markets is a function of structural dis
 
 In 2026, allocators are navigating a domain where traditional liquidity channels have decoupled from real asset productivity.
 
-The outcome is a multi year environment where institutional grade infrastructure is no longer defined by geography or sector but by the precision of cross border balance sheet engineering. ## ## ## ## 
+The outcome is a multi year environment where institutional grade infrastructure is no longer defined by geography or sector but by the precision of cross border balance sheet engineering. 
+
+ 
+
+ 
 
 ## THE REGIME SHIFT
 
@@ -44,20 +48,27 @@ Assets are sound.
 
 Capital structures are outdated.
 
-Global allocators require neutral partners who orchestrate the interfaces rather than promote product. ## ## ## ## 
+Global allocators require neutral partners who orchestrate the interfaces rather than promote product. 
+
+ 
+
+ 
 
 ## TECHNICAL MECHANICS
 
  The institutional grade infrastructure relevant to Fund-III mandates consists of three pillars.
 
-Capital formation and deployment for buyouts and add ons at 8
-0 percent focus.
+Capital formation and deployment for buyouts and add ons at 
 
-Strategic Collateralization through asset based structures at 1
-0 percent.
+80 percent focus.
 
-Special mandates for energy and MiFID II compliant acquisitions at 1
-0 percent.
+Strategic Collateralization through asset based structures at 
+
+10 percent.
+
+Special mandates for energy and MiFID II compliant acquisitions at 
+
+10 percent.
 
 BUYOUT INFRASTRUCTURE FOR Fund-III Buyout environments across the EU and North America now require precision calibration between acquisition multiple, EBITDA normalization, and capital stack composition.
 
@@ -90,9 +101,11 @@ Alberta heavy oil environments operate under physics governed performance profil
 Key mechanics include: 
 -  SAGD as a thermal recovery process where steam injection reduces viscosity to mobilize bitumen. 
 -  CSS as a cyclic thermal stimulation method that accelerates early cycle production in certain reservoirs. 
--  Recovery factors between 3
-0 and 7
-0 percent depending on formation, porosity, and reservoir continuity. 
+-  Recovery factors between 
+
+30 and 
+
+70 percent depending on formation, porosity, and reservoir continuity. 
 -  Decline curves that follow predictable patterns with low geological uncertainty compared to unconventional plays. 
 -  Production stability enhanced through pad optimization, water cut management, and steam oil ratio stabilization.
 
@@ -116,23 +129,35 @@ The firm functions as a bridge between global allocators and operational ecosyst
 
 The model rests on four principles. 
 
-1. Institutional ## 
+1.
 
-## INTRODUCTION
+Institutional 
+
+ INTRODUCTION
 
  rather than distribution. 
 
-2. Cross border structuring that harmonizes European LP requirements with North American private credit frameworks. 
+2.
 
-3. Neutral diligence orchestration where the allocator retains full decision authority. 
+Cross border structuring that harmonizes European LP requirements with North American private credit frameworks. 
 
-4. Alignment with operational partners who demonstrate institutional grade behavior.
+3.
+
+Neutral diligence orchestration where the allocator retains full decision authority. 
+
+4.
+
+Alignment with operational partners who demonstrate institutional grade behavior.
 
 Within energy, Roials Capital relies on NAEO as the partner responsible for field operations, reservoir management, compliance, and technical execution.
 
 Roials does not manage energy assets.
 
-It introduces institutional allocators to the Alberta landscape and supports strategic evaluation. ## ## ## ## 
+It introduces institutional allocators to the Alberta landscape and supports strategic evaluation. 
+
+ 
+
+ 
 
 ## THE STEWARDSHIP FILTER Stewardship is a governance discipline.
 
@@ -150,7 +175,8 @@ European industrial companies with stable cash conversion and succession gaps me
 
 Asset-Backed Frameworks through Asset-Based Lending supports stewardship by preventing operational underperformance driven by capital scarcity.
 
-The theological perspective aligns with **Proverbs 13:22*
+The theological perspective aligns with **Proverbs 13:22
+*
 * .
 
 Durable assets transition across generations.
@@ -159,33 +185,45 @@ Productive capital compounds when stewarded correctly.
 
 Global allocators recognize this pattern intuitively.
 
-Institutional grade infrastructure exists to give them a channel for responsible deployment. ## 
+Institutional grade infrastructure exists to give them a channel for responsible deployment.
 
-## THE ## 
+THE 
 
-## DECISION MAKING LENS The allocator evaluating Fund-III, Asset-Based Lending structures, or special mandates can apply four filters. 
+ DECISION MAKING LENS The allocator evaluating Fund-III, Asset-Based Lending structures, or special mandates can apply four filters. 
 
-1. Structural relevance.
+1.
+
+Structural relevance.
 
 Does the asset or acquisition sit within a domain shaped by structural inefficiency rather than transient market trend. 
 
-2. Operational predictability.
+2.
+
+Operational predictability.
 
 Do the underlying mechanics of value creation rest on observable physics or disciplined operational throughput. 
 
-3. Governance maturity.
+3.
+
+Governance maturity.
 
 Does the ecosystem support institutional reporting, conflict management, and cross border compliance. 
 
-4. Capital adaptability.
+4.
+
+Capital adaptability.
 
 Does the structure allow for dynamic capital deployment and balance sheet optimization during unexpected cycles.
 
-Roials Capital provides institutional LPs and GPs with a confidential strategy audit to evaluate alignment across these four dimensions and calibrate portfolio posture accordingly. [END OF BRIEFING] # 
+Roials Capital provides institutional LPs and GPs with a confidential strategy audit to evaluate alignment across these four dimensions and calibrate portfolio posture accordingly. [END OF BRIEFING]
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

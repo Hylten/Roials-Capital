@@ -76,11 +76,15 @@ It must be engineered, not improvised.
 
 Portfolio backed solutions offer the most stable and strategically aligned approach for clients who operate at institutional scale.
 
-Roials Capital provides the infrastructure, the discipline, and the principal authority required to execute these frameworks with precision. # 
+Roials Capital provides the infrastructure, the discipline, and the principal authority required to execute these frameworks with precision.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

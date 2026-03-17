@@ -136,11 +136,17 @@ It must support large balance sheet clients who demand frictionless liquidity, b
 
 The operational model functions through three channels. 
 
-1. Liquidity extraction from collateral. 
+1.
 
-2. Liquidity deployment through credit structures. 
+Liquidity extraction from collateral. 
 
-3. Liquidity retention through risk controlled hardening.
+2.
+
+Liquidity deployment through credit structures. 
+
+3.
+
+Liquidity retention through risk controlled hardening.
 
 Digital assets enter through channel one, but they influence channel three.
 
@@ -244,7 +250,9 @@ HNWI and UHNW clients understand that the next decade will reward those who main
 
 Multi asset hardening is a discipline that produces that control.
 
-Fund-III is the practical expression of that discipline. ## ## 
+Fund-III is the practical expression of that discipline. 
+
+ 
 
 ## CONCLUSION
 
@@ -264,11 +272,15 @@ The architecture is precise.
 
 The rules are defined.
 
-Clients who require cross asset liquidity without structural distortion operate here. # 
+Clients who require cross asset liquidity without structural distortion operate here.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

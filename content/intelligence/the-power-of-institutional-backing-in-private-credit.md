@@ -162,7 +162,9 @@ Most lenders operate with arbitrary limits or discretionary parameters.
 
 Institutional aligned lenders do not.
 
-Roials Capital maintains a minimum threshold of 2,000,00
+Roials Capital maintains a minimum threshold of 2,000,
+
+00
 0 USD for crypto backed Strategic Collateralization.
 
 This is intentional.
@@ -185,7 +187,9 @@ Liquidity often requires relinquishing exposure.
 
 Institutional backed Strategic Collateralization solves this by allowing capital extraction without forced liquidation.
 
-Roials Capital sets a 5,000,00
+Roials Capital sets a 5,000,
+
+00
 0 USD minimum threshold for public share backed Capital Structuring.
 
 This threshold ensures alignment with: 
@@ -269,7 +273,9 @@ This shift is permanent.
 
 Private credit, asset based Capital Structuring, crypto Asset-Backed Frameworks at scale, and public share financing will increasingly be governed by institutional frameworks, not individual preferences.
 
-Roials Capital is engineered around this future, not adapting to it. ## ## 
+Roials Capital is engineered around this future, not adapting to it. 
+
+ 
 
 ## CONCLUSION
 
@@ -293,11 +299,15 @@ Quietly.
 
 Precisely.
 
-With principal authority. # 
+With principal authority.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

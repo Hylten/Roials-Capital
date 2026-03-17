@@ -148,7 +148,9 @@ The era of universal collateralization.
 
 The era of frictionless liquidity.
 
-The era of sovereign capital autonomy. ## ## 
+The era of sovereign capital autonomy. 
+
+ 
 
 ## CONCLUSION
 
@@ -168,11 +170,15 @@ They are structural tools for the sovereign individual.
 
 At ROIALS CAPITAL, we do not predict the future of capital.
 
-We build it. # 
+We build it.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

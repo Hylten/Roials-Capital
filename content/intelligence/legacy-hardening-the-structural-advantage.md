@@ -38,8 +38,9 @@ Control requires predictable liquidity.
 
 Control requires mechanisms that do not erode under stress.
 
-We design for scenarios 10, 20, 4
-0 years ahead.
+We design for scenarios 10, 20, 
+
+40 years ahead.
 
 We treat legacy as architecture, not aspiration.
 
@@ -65,11 +66,15 @@ Structures must be engineered, not improvised.
 
 The future belongs to portfolios with durable leverage capacity, clean collateral structures, and institutionally aligned credit mechanics.
 
-ROIALS CAPITAL builds that future today. # Request confidential audit # 
+ROIALS CAPITAL builds that future today. # Request confidential audit
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,00
+The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+
+00
 0 for comprehensive structural execution.
 
-Access is restricted to approved mandates. Minimum target size: $5M+.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
