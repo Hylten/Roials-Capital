@@ -56,12 +56,17 @@ It is about giving institutional grade investors a new toolkit to engineer liqui
 
 Programmability is the quiet revolution.
 
-A programmable claim can: 
--  Settle instantly. 
--  Be pledged across multiple liquidity environments. 
--  Interface with private credit facilities. 
--  Be embedded into automated risk systems. 
--  Interact with cross border capital channels without legacy settlement delays.
+A programmable claim can:
+
+- Settle instantly.
+
+- Be pledged across multiple liquidity environments.
+
+- Interface with private credit facilities.
+
+- Be embedded into automated risk systems.
+
+- Interact with cross border capital channels without legacy settlement delays.
 
 This is not theoretical.
 
@@ -87,9 +92,11 @@ With tokenized real estate, the verification cycle condenses.
 
 The digital wrapper provides instant clarity on ownership, fractionalization, transfer history, and settlement integrity.
 
-This creates a collateral object that is both: 
--  Legally anchored. 
--  Digitally operational.
+This creates a collateral object that is both:
+
+- Legally anchored.
+
+- Digitally operational.
 
 When we lend against such assets, the underwriting process becomes more structural and less administrative.
 
@@ -103,11 +110,15 @@ Tokenized real estate aligns with private credit because both pursue the same ob
 
 Liquidity compression refers to reducing the distance between asset and usable capital.
 
-Tokenized structures achieve this by minimizing: 
--  Transfer friction. 
--  Legal abstraction layers. 
--  Settlement drag. 
--  Counterparty coordination overhead.
+Tokenized structures achieve this by minimizing:
+
+- Transfer friction.
+
+- Legal abstraction layers.
+
+- Settlement drag.
+
+- Counterparty coordination overhead.
 
 Private credit facilities then leverage these efficiencies to issue faster, structured liquidity.
 
@@ -207,11 +218,15 @@ This maintains institutional trust without sacrificing liquidity velocity.
 
 A liquid primitive is an asset that serves as a foundational building block for Institutional Liquidity Paths.
 
-In this future state: 
--  Properties become liquidity reservoirs. 
--  Tokens become programmable conduits. 
--  Private credit becomes the distribution engine. 
--  Asset-Based Lending becomes the structural anchor.
+In this future state:
+
+- Properties become liquidity reservoirs.
+
+- Tokens become programmable conduits.
+
+- Private credit becomes the distribution engine.
+
+- Asset-Based Lending becomes the structural anchor.
 
 ROIALS CAPITAL positions itself in the structural layer, not the speculative surface.
 
@@ -255,8 +270,7 @@ We maintain principal authority that ensures trust without noise.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

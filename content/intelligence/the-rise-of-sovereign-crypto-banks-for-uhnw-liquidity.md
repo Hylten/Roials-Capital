@@ -48,12 +48,17 @@ Roials Capital stands within this category, operating with institutional rigor w
 
 It implies independence from traditional banking rails.
 
-UHNW clients have reached a point where conventional financial institutions cannot accommodate their liquidity needs without imposing: 
--  Disclosure burdens 
--  Custodial migration 
--  Forced asset concentration 
--  Timeline delays 
--  Jurisdictional bottlenecks Sovereign crypto banks solve these constraints.
+UHNW clients have reached a point where conventional financial institutions cannot accommodate their liquidity needs without imposing:
+
+- Disclosure burdens
+
+- Custodial migration
+
+- Forced asset concentration
+
+- Timeline delays
+
+- Jurisdictional bottlenecks Sovereign crypto banks solve these constraints.
 
 They operate through multi jurisdictional infrastructure, distributed custody, and underwriting models designed around high value assets that traditional banks cannot price or do not understand.
 
@@ -77,12 +82,17 @@ Asset Based Institutional Liquidity Paths creates a similar dynamic.
 
 Asset-Based Lending portfolios, when engineered correctly, become continuous liquidity engines.
 
-This includes: 
--  Operating receivables 
--  Equipment portfolios 
--  Contractual revenue streams 
--  Rights based assets 
--  High value private inventory Most banks avoid this category because it requires technical underwriting and close asset familiarity.
+This includes:
+
+- Operating receivables
+
+- Equipment portfolios
+
+- Contractual revenue streams
+
+- Rights based assets
+
+- High value private inventory Most banks avoid this category because it requires technical underwriting and close asset familiarity.
 
 Roials Capital specializes in this category.
 
@@ -114,12 +124,17 @@ This creates an institutional alternative to the fragmented consumer driven cryp
 
 UHNW investors who hold significant positions in public companies face challenges that retail holders never encounter.
 
-These include: 
--  Insider restrictions 
--  Market impact risk 
--  Limited balance sheet optimization channels 
--  Forced diversification pressure 
--  Settlement delay exposure Roials Capital provides public share Asset-Backed Frameworks starting at a minimum of 5,000, 
+These include:
+
+- Insider restrictions
+
+- Market impact risk
+
+- Limited balance sheet optimization channels
+
+- Forced diversification pressure
+
+- Settlement delay exposure Roials Capital provides public share Asset-Backed Frameworks starting at a minimum of 5,000, 
 
 000.
 
@@ -139,12 +154,17 @@ The key distinction is that sovereign crypto banks do not rely on legacy rails.
 
 They build alternative rails.
 
-These rails are designed for capital holders who require: 
--  Velocity 
--  Privacy 
--  Jurisdictional flexibility 
--  Collateral optionality 
--  Immediate execution The modern UHNW individual or family office must manage assets across multiple continents, structures, and regulatory regimes.
+These rails are designed for capital holders who require:
+
+- Velocity
+
+- Privacy
+
+- Jurisdictional flexibility
+
+- Collateral optionality
+
+- Immediate execution The modern UHNW individual or family office must manage assets across multiple continents, structures, and regulatory regimes.
 
 This requires an institution capable of operating across these layers without introducing drag or exposure.
 
@@ -180,12 +200,17 @@ These priorities are aligned with the practical realities of UHNW wealth managem
 
 We operate in a domain that traditional lenders are not built to access.
 
-Our architecture is defined by: 
--  High discretion underwriting 
--  Institutional grade risk frameworks 
--  Multi jurisdictional infrastructure 
--  Collateral expertise across private credit, Asset-Based Lending, crypto, and public equity 
--  Minimum thresholds aligned with UHNW environments This architecture exists to support capital holders who require institutional precision without institutional friction.
+Our architecture is defined by:
+
+- High discretion underwriting
+
+- Institutional grade risk frameworks
+
+- Multi jurisdictional infrastructure
+
+- Collateral expertise across private credit, Asset-Based Lending, crypto, and public equity
+
+- Minimum thresholds aligned with UHNW environments This architecture exists to support capital holders who require institutional precision without institutional friction.
 
 We maintain principal authority.
 
@@ -195,11 +220,15 @@ We provide the mechanics that allow capital to remain unencumbered, mobile, and 
 
 ## Why Sovereign Crypto Banks Will Define the Next Decade of Wealth Strategy The direction of global capital is clear.
 
-Large asset holders require: 
--  Trustless settlement paths 
--  Non captive custody frameworks 
--  Multi asset Institutional Liquidity Paths corridors 
--  Liquidity engines that operate independently of political or regulatory cycles Sovereign crypto banks are emerging as the backbone of this environment.
+Large asset holders require:
+
+- Trustless settlement paths
+
+- Non captive custody frameworks
+
+- Multi asset Institutional Liquidity Paths corridors
+
+- Liquidity engines that operate independently of political or regulatory cycles Sovereign crypto banks are emerging as the backbone of this environment.
 
 They provide leverage across assets that traditional banks cannot price.
 
@@ -217,8 +246,7 @@ Roials Capital is already operating inside that future. # Request confidential a
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

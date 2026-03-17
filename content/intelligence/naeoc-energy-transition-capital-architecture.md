@@ -34,10 +34,13 @@ Capital flows follow certainty.
 
 NAEOC’s structure provides it.
 
-A three-tier funnel is emerging: 
--  Tier One: North American mid-market producers with clear emissions baselines and verifiable operational data. 
--  Tier Two: European integrators seeking transatlantic volume consolidation under MiFID II visibility. 
--  Tier Three: Asset-heavy logistics operators needing direct industrial lending or secured credit architecture to avoid stranded-capex traps.
+A three-tier funnel is emerging:
+
+- Tier One: North American mid-market producers with clear emissions baselines and verifiable operational data.
+
+- Tier Two: European integrators seeking transatlantic volume consolidation under MiFID II visibility.
+
+- Tier Three: Asset-heavy logistics operators needing direct industrial lending or secured credit architecture to avoid stranded-capex traps.
 
 The institutions want cross-border clarity.
 

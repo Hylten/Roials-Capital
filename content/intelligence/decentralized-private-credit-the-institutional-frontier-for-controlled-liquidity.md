@@ -96,13 +96,11 @@ They are structural.
 
 Crypto Institutional Liquidity Paths minimum: 2,000,
 
-00
-0 USD.
+000 USD.
 
 Public share Strategic Collateralization minimum: 5,000,
 
-00
-0 USD.
+000 USD.
 
 These are not marketing anchors.
 
@@ -240,11 +238,15 @@ The absence of intermediaries does not eliminate risk.
 
 It reshapes it.
 
-The primary risks shift toward: 
--  Collateral volatility 
--  Liquidation timelines 
--  Liquidity depth in secondary markets 
--  Smart contract reliability ROIALS CAPITAL incorporates these variables into its structural models, ensuring that balance sheet optimization frameworks remain stable even as market conditions evolve.
+The primary risks shift toward:
+
+- Collateral volatility
+
+- Liquidation timelines
+
+- Liquidity depth in secondary markets
+
+- Smart contract reliability ROIALS CAPITAL incorporates these variables into its structural models, ensuring that balance sheet optimization frameworks remain stable even as market conditions evolve.
 
 The objective is not to chase risk.
 
@@ -310,8 +312,7 @@ Our function is to define the mechanics the market will eventually adopt.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

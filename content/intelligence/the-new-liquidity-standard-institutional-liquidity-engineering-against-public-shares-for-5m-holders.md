@@ -24,10 +24,13 @@ This is the frontier Roials Capital operates within.
 
 Roials Capital maintains a minimum threshold to ensure institutional scale.
 
-The mechanics mirror the public share framework but adapt to the asset class: 
--  Enhanced volatility monitoring. 
--  Precision custody. 
--  Real‑time margin architecture.
+The mechanics mirror the public share framework but adapt to the asset class:
+
+- Enhanced volatility monitoring.
+
+- Precision custody.
+
+- Real‑time margin architecture.
 
 The threshold exists to maintain structural integrity and operational discipline. 
 
@@ -39,11 +42,15 @@ Predictable liquidity.
 
 Architected liquidity.
 
-They require a framework that aligns with: 
--  Long horizon asset allocation. 
--  Capital preservation. 
--  Opportunistic deployment. 
--  Absolute discretion.
+They require a framework that aligns with:
+
+- Long horizon asset allocation.
+
+- Capital preservation.
+
+- Opportunistic deployment.
+
+- Absolute discretion.
 
 Roials Capital focuses on these requirements by providing an underwriting environment where clarity is the default state. 
 
@@ -91,8 +98,7 @@ Roials Capital stands at the front of this structural evolution.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

@@ -20,12 +20,17 @@ It is the level at which private credit and asset based Monetization Architectur
 
 The goal of this article is to articulate, clearly and surgically, how institutional capital migration works and how our Institutional Liquidity Paths architecture supports that movement. 
 
-## The Architectural Advantage of ROIALS CAPITAL ROIALS CAPITAL provides: 
--  Capital Structuring against private credit 
--  Asset based Strategic Collateralization 
--  Crypto Capital Structuring with a two million minimum 
--  Public share Institutional Liquidity Paths with a five million minimum 
--  Institutional-grade structuring for HNWI and UHNW portfolios Our architecture supports capital migration without compromising control or exposure.
+## The Architectural Advantage of ROIALS CAPITAL ROIALS CAPITAL provides:
+
+- Capital Structuring against private credit
+
+- Asset based Strategic Collateralization
+
+- Crypto Capital Structuring with a two million minimum
+
+- Public share Institutional Liquidity Paths with a five million minimum
+
+- Institutional-grade structuring for HNWI and UHNW portfolios Our architecture supports capital migration without compromising control or exposure.
 
 Our structures are designed for privacy, precision, and long-horizon alignment.
 
@@ -47,8 +52,7 @@ ROIALS CAPITAL provides that architecture.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

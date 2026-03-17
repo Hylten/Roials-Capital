@@ -70,21 +70,29 @@ The technical architecture includes several core mechanics.
 
 LTV CURVES AND COLLATERAL ENGINEERING Institutional sponsors evaluate loan to value curves not as fixed percentages but as dynamic functions of operating variability.
 
-The focus is placed on asset hardening through: 
--  Collateral segregation 
--  Multi asset cross collateralization 
--  Borrowing base formulas tied to real asset liquidation values 
--  Priority control through perfected first liens or senior unitranche structures The objective is to compress tail risk by exerting influence over downside outcomes rather than relying solely on cash flow projections. 
+The focus is placed on asset hardening through:
+
+- Collateral segregation
+
+- Multi asset cross collateralization
+
+- Borrowing base formulas tied to real asset liquidation values
+
+- Priority control through perfected first liens or senior unitranche structures The objective is to compress tail risk by exerting influence over downside outcomes rather than relying solely on cash flow projections. 
 
 2.
 
 CASH FLOW WATERFALLS Cash flow governance is the anchor of institutional underwriting.
 
-A properly engineered waterfall enforces: 
--  First position servicing 
--  Maintenance covenant protection 
--  Controlled disbursement accounts 
--  Escrowed reserves for capex, decommissioning, or working capital cycles Institutional backers prioritize predictability.
+A properly engineered waterfall enforces:
+
+- First position servicing
+
+- Maintenance covenant protection
+
+- Controlled disbursement accounts
+
+- Escrowed reserves for capex, decommissioning, or working capital cycles Institutional backers prioritize predictability.
 
 Cash flow waterfalls convert operational variability into structured repayment priority. 
 
@@ -102,11 +110,15 @@ This predictability is a function of disciplined underwriting, not aggressive pr
 
 STRUCTURAL SENIORITY AND DEFENSIVE POSITIONING Institutional private credit allocates senior in the capital stack.
 
-The security package usually includes: 
--  Senior or senior stretch unitranche 
--  All asset liens 
--  Personal or corporate guarantees where applicable 
--  Priority claim over cash flow producing assets 
+The security package usually includes:
+
+- Senior or senior stretch unitranche
+
+- All asset liens
+
+- Personal or corporate guarantees where applicable
+
+- Priority claim over cash flow producing assets 
 
 5.
 
@@ -120,11 +132,15 @@ Institutions value Asset-Based Lending structures because they are self liquidat
 
 BUYOUT AND ADD ON FINANCING Fund-III+ environments rely on certainty of execution.
 
-Institutional private credit platforms can provide: 
--  Draftable term sheets 
--  Fixed underwriting timetables 
--  Cross border regulatory alignment 
--  Multi tranche facilities for add on acquisition strategies Predictability in execution is the value proposition.
+Institutional private credit platforms can provide:
+
+- Draftable term sheets
+
+- Fixed underwriting timetables
+
+- Cross border regulatory alignment
+
+- Multi tranche facilities for add on acquisition strategies Predictability in execution is the value proposition.
 
 Sponsor backed borrowers require a partner capable of moving with institutional velocity while maintaining regulatory and risk management discipline. 
 
@@ -134,12 +150,17 @@ SPECIAL MANDATES IN ENERGY Large mandates between 50M and 250M in the North Amer
 
 This is where our strategic partner NAEO operates.
 
-NAEO provides domain depth in: 
--  Alberta heavy oil assets 
--  Decline curve modeling 
--  SAGD and CSS thermal recovery mechanics 
--  Operating cost stability 
--  Downside protected collateralization on established reservoirs Institutional investors prize these attributes because they de risk underwriting assumptions and provide real asset stability.
+NAEO provides domain depth in:
+
+- Alberta heavy oil assets
+
+- Decline curve modeling
+
+- SAGD and CSS thermal recovery mechanics
+
+- Operating cost stability
+
+- Downside protected collateralization on established reservoirs Institutional investors prize these attributes because they de risk underwriting assumptions and provide real asset stability.
 
 THE PARTNERSHIP MODEL Roials Capital functions as a strategic introducer and institutional alignment architect.
 
@@ -149,22 +170,31 @@ The model is composed of three components.
 
 1.
 
-STRATEGIC ALIGNMENT Capital is paired with platforms that exhibit: 
--  Governance clarity 
--  Operational transparency 
--  Regulatory compliance maturity 
--  Repeatable underwriting frameworks 
--  Defensive structuring capability This reduces allocator friction and accelerates decision making velocity. 
+STRATEGIC ALIGNMENT Capital is paired with platforms that exhibit:
+
+- Governance clarity
+
+- Operational transparency
+
+- Regulatory compliance maturity
+
+- Repeatable underwriting frameworks
+
+- Defensive structuring capability This reduces allocator friction and accelerates decision making velocity. 
 
 2.
 
 MARKET NAVIGATION The global private credit market is fragmented.
 
-Roials Capital maintains intelligence across the United States, Europe, Canada, and Gulf financial centers, ensuring that allocators receive accurate visibility into: 
--  Legal jurisdictional variance 
--  Collateral enforceability 
--  Currency dynamics 
--  Sector specific risk curves This transforms market noise into actionable intelligence. 
+Roials Capital maintains intelligence across the United States, Europe, Canada, and Gulf financial centers, ensuring that allocators receive accurate visibility into:
+
+- Legal jurisdictional variance
+
+- Collateral enforceability
+
+- Currency dynamics
+
+- Sector specific risk curves This transforms market noise into actionable intelligence. 
 
 3.
 
@@ -189,14 +219,20 @@ This neutral introducer role preserves compliance integrity while ensuring alloc
 ## THE STEWARDSHIP FILTER Stewardship is the discipline of managing capital without waste.
 
 It is an operational application of **Proverbs 13:22
-*
+
+* 
+
 * .
 
-In private credit this becomes a framework for evaluating: 
--  Resource allocation efficiency 
--  Capital durability across cycles 
--  Counterparty governance fitness 
--  Long term relationship value over transactional yield Stewardship filters out strategies that rely on volatility, opaque collateral, or optimistic underwriting.
+In private credit this becomes a framework for evaluating:
+
+- Resource allocation efficiency
+
+- Capital durability across cycles
+
+- Counterparty governance fitness
+
+- Long term relationship value over transactional yield Stewardship filters out strategies that rely on volatility, opaque collateral, or optimistic underwriting.
 
 It prioritizes platforms that understand capital as a covenant rather than a consumable resource.
 
@@ -204,21 +240,27 @@ DECISION MAKING LENS For institutional allocators, the relevant decision is not 
 
 It is whether the platform they select is architected for durability in the current regulatory and macroeconomic regime.
 
-The lens includes: 
--  Structural seniority 
--  Underwriting visibility 
--  Cash flow governance 
--  Collateral enforceability 
--  Jurisdictional reliability 
--  Duration discipline 
--  Alignment with internal liquidity mandates Roials Capital conducts confidential strategy audits for allocators seeking calibration of their private credit exposure, alignment with institutional partners, and intelligence on specialized mandates including North American energy and European capital formation. [END OF BRIEFING]
+The lens includes:
+
+- Structural seniority
+
+- Underwriting visibility
+
+- Cash flow governance
+
+- Collateral enforceability
+
+- Jurisdictional reliability
+
+- Duration discipline
+
+- Alignment with internal liquidity mandates Roials Capital conducts confidential strategy audits for allocators seeking calibration of their private credit exposure, alignment with institutional partners, and intelligence on specialized mandates including North American energy and European capital formation. [END OF BRIEFING]
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

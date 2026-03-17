@@ -20,7 +20,7 @@ Energy, private credit, and strategic acquisitions each serve as functional comp
 
 It is a doctrinal approach to capital oversight.
 
-Phase I: .
+### Phase I: .
 
  
 
@@ -50,9 +50,7 @@ Heavy oil in particular retains strategic relevance because of its viscosity and
 
 3.
 
-Institutional Convergence Family offices, sovereign allocators, and private credit funds are converging toward the same thesis: the most durable opportunities in 20
-
-26 reside in assets whose physics create predictable cash flow profiles.
+Institutional Convergence Family offices, sovereign allocators, and private credit funds are converging toward the same thesis: the most durable opportunities in 2026 reside in assets whose physics create predictable cash flow profiles.
 
 This applies to energy decline curves, private credit amortization schedules, and real asset yield on cost models.
 
@@ -64,7 +62,7 @@ Capital is no longer flowing to the systems designed to utilize it with the lowe
 
 Asset hardening provides the corrective structure.
 
-Phase II: .
+### Phase II: .
 
  
 
@@ -138,7 +136,7 @@ This is the physics based foundation of the asset class.
 
 It produces resilience independent of macro cycles.
 
-Phase III: .
+### Phase III: .
 
 FINANCIAL MECHANICS OF SOVEREIGN ASSET HARDENING Sovereign asset hardening is not limited to energy.
 
@@ -152,19 +150,27 @@ Capital Stack Calibration Allocators must transition from opportunistic deployme
 
 This requires balancing seniority, collateralization, and cash flow rights across multiple instruments.
 
-For Fund-III+, the core disciplines include: 
--  Institutional grade buyouts with additive synergies 
--  Cross regional acquisition compounding 
--  Conservative leverage anchored to real asset value 
--  Integration of liquidity engineering through ABL facilities 
+For Fund-III+, the core disciplines include:
+
+- Institutional grade buyouts with additive synergies
+
+- Cross regional acquisition compounding
+
+- Conservative leverage anchored to real asset value
+
+- Integration of liquidity engineering through ABL facilities 
 
 2.
 
-Asset Hardening in Private Credit Private credit serves the architecture by: 
--  Converting unsecured exposures into collateral tethered structures 
--  Increasing predictability through amortization discipline 
--  Embedding covenant frameworks that restrict wasteful behavior 
--  Enhancing counterparty visibility Institutional allocators use private credit not for yield capture but for balance sheet stabilization.
+Asset Hardening in Private Credit Private credit serves the architecture by:
+
+- Converting unsecured exposures into collateral tethered structures
+
+- Increasing predictability through amortization discipline
+
+- Embedding covenant frameworks that restrict wasteful behavior
+
+- Enhancing counterparty visibility Institutional allocators use private credit not for yield capture but for balance sheet stabilization.
 
 It is a defensive instrument that reinforces the architecture. 
 
@@ -174,10 +180,13 @@ Sovereign Grade Refinement Sovereign allocators and UHNWIs with multi generation
 
 The objective is to harden the balance sheet so each asset strengthens the entire system.
 
-Asset hardening includes: 
--  Reduction of dependency on market pricing for liquidity 
--  Conversion of volatile exposures into collateral rich structures 
--  Portfolio governance frameworks that enforce non wasteful capital use 
+Asset hardening includes:
+
+- Reduction of dependency on market pricing for liquidity
+
+- Conversion of volatile exposures into collateral rich structures
+
+- Portfolio governance frameworks that enforce non wasteful capital use 
 
 4.
 
@@ -189,7 +198,7 @@ It is a disciplined readiness.
 
 Energy dislocations, distressed acquisitions, and regulatory driven divestitures become actionable because capital is already fortified.
 
-Phase IV: .
+### Phase IV: .
 
 PARTNERSHIP MODEL AND NAVIGATION ROLE OF ROIALS CAPITAL Roials Capital does not function as an operator, fund manager, or promoter.
 
@@ -217,12 +226,17 @@ In buyouts and special mandates, this is a curated set of institutional grade pl
 
 3.
 
-Governance and Counterparty Verification Roials Capital assesses: 
--  Operational discipline 
--  Reservoir or asset history 
--  Corporate governance ethos 
--  Liquidity engineering compatibility 
--  Balance sheet integrity This process ensures allocators engage only with systems that maintain disciplined capital use. 
+Governance and Counterparty Verification Roials Capital assesses:
+
+- Operational discipline
+
+- Reservoir or asset history
+
+- Corporate governance ethos
+
+- Liquidity engineering compatibility
+
+- Balance sheet integrity This process ensures allocators engage only with systems that maintain disciplined capital use. 
 
 4.
 
@@ -234,7 +248,7 @@ Institutional
 
 The objective is not to close transactions but to provide clarity, alignment, and readiness for potential collaboration.
 
-Phase V: .
+### Phase V: .
 
 THE STEWARDSHIP FILTER Stewardship is the doctrine that capital must be used responsibly, strategically, and without waste.
 
@@ -249,18 +263,24 @@ Key pillars include:
 Non Wasteful Allocation Capital must be deployed into environments where operational outputs are measurable and long term.
 
 This is consistent with **Proverbs 13:22
-*
+
+* 
+
 * and the multi generational ethos behind sovereign capital. 
 
 2.
 
 Structural Oversight Stewardship demands that capital flows into systems that do not erode integrity.
 
-This means operators must demonstrate: 
--  Fiscal discipline 
--  Operational competence 
--  Asset longevity 
--  Transparent reporting 
+This means operators must demonstrate:
+
+- Fiscal discipline
+
+- Operational competence
+
+- Asset longevity
+
+- Transparent reporting 
 
 3.
 
@@ -268,7 +288,7 @@ Integrity of the Capital Stack The architecture must ensure that no layer of the
 
 Stewardship is the guardrail that filters out degradation.
 
-Phase VI: .
+### Phase VI: .
 
 THE ALLOCATOR'S DECISION LENS Allocators reviewing the sovereign asset hardening framework should evaluate decisions through:
 

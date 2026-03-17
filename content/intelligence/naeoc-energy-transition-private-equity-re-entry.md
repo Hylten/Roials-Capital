@@ -22,12 +22,13 @@ Below it, fragmentation erodes institutional certainty.
 
 In the NAEOC range, the market remains rational.
 
-That is the entire point. 
--  
--  
--  
+That is the entire point.
 
-## The Structural Reality 
+- 
+
+- 
+
+- ## The Structural Reality 
 
 1.
 
@@ -91,10 +92,13 @@ This is why they are back.
 
 4.
 
-The NAEOC band is where industrial logic beats political noise Three reasons: 
--  Assets have operating histories long enough to de-risk. 
--  They are small enough to be re‑engineered. 
--  They are large enough to attract institutional oversight.
+The NAEOC band is where industrial logic beats political noise Three reasons:
+
+- Assets have operating histories long enough to de-risk.
+
+- They are small enough to be re‑engineered.
+
+- They are large enough to attract institutional oversight.
 
 This combination is rare.
 
@@ -118,9 +122,11 @@ Every survey of institutional allocators shows the same movement-out of venture�
 
 The mid‑market has become the new institutional frontier because supply chains are resetting The past five years fractured global energy and component supply chains.
 
-That created two consequences: 
--  The giants lost their cost advantages. 
--  The mid‑market regained agency.
+That created two consequences:
+
+- The giants lost their cost advantages.
+
+- The mid‑market regained agency.
 
 This pullback of scale economics is the essential macro‑driver behind the LP return.
 
@@ -250,16 +256,17 @@ Their pipeline depends on your discipline.
 
 4.
 
-The cycle is entering the consolidation phase Every industrial transition behaves the same: 
--  Ideological exuberance 
--  Capital misallocation 
--  Asset fatigue 
--  
+The cycle is entering the consolidation phase Every industrial transition behaves the same:
 
-### Phase IV: Operational consolidation
--  
+- Ideological exuberance
 
-### Phase V: Institutional control We are squarely in Phase 4.
+- Capital misallocation
+
+- Asset fatigue
+
+- ### Phase IV: Operational consolidation
+
+- ### Phase V: Institutional control We are squarely in Phase 4.
 
 Consolidation demands GPs who can operate, contract, restructure, and optimize.
 
@@ -339,9 +346,11 @@ We do not chase the tide.
 
 We build the harbor where the tide returns. 
 
-## ASSET‑BASED LENDING (QUALIFICATION GATES) Strict ROIALS CAPITAL Protocol If a manager or operating company requires working liquidity for acquisition execution, bridge positioning, or industrial stabilization, we open the Asset‑Based Lending corridor only at the formal Qualification Gates: 
--  One facility begins at two million. 
--  Institutional structures begin at five million.
+## ASSET‑BASED LENDING (QUALIFICATION GATES) Strict ROIALS CAPITAL Protocol If a manager or operating company requires working liquidity for acquisition execution, bridge positioning, or industrial stabilization, we open the Asset‑Based Lending corridor only at the formal Qualification Gates:
+
+- One facility begins at two million.
+
+- Institutional structures begin at five million.
 
 Below these levels, we do not engage.
 

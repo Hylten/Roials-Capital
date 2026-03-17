@@ -35,7 +35,9 @@ Not sector-bound.
 But transnational, collateralized, and acquisition-forward.
 
 A good man leaves an inheritance to his children’s children: **Proverbs 13:22
-*
+
+* 
+
 * .
 
 In institutional terms, the inheritance is the permanent architecture of capital.
@@ -87,9 +89,12 @@ That delta is acquisition fuel.
 That delta is IRR ignition.
 
 Cross-border acquisition power emerges not from speed, but from structure.
-• Structural jurisdictional arbitrage. 
--  Capital stack plasticity. 
--  Institutional-grade collateral translation.
+
+• Structural jurisdictional arbitrage.
+
+- Capital stack plasticity.
+
+- Institutional-grade collateral translation.
 
 Simplicity hides load-bearing complexity.
 
@@ -197,12 +202,17 @@ Collateral mobility is driven by enforceability layers.
 
 Each layer enhances or hinders its capacity to serve as acquisition-grade leverage.
 
-The strongest structures apply a stacked enforcement logic: 
--  Local legal enforceability 
--  Transnational recognition frameworks 
--  Treaty-level protections 
--  Private credit enforcement protocols 
--  Insurance-wrapped downside insulation Together, they elevate the collateral from regional asset to acquisition-grade cross-border instrument.
+The strongest structures apply a stacked enforcement logic:
+
+- Local legal enforceability
+
+- Transnational recognition frameworks
+
+- Treaty-level protections
+
+- Private credit enforcement protocols
+
+- Insurance-wrapped downside insulation Together, they elevate the collateral from regional asset to acquisition-grade cross-border instrument.
 
 Fund-III designs its structures around this spectrum.
 
@@ -306,12 +316,17 @@ Operational.
 
 Precision-driven.
 
-The cross-border architecture enhances the IRR curve through five functions: 
--  Lower capital drag 
--  Accelerated deal velocity 
--  Expanded lender participation 
--  Higher add-on cadence 
--  Stronger exit optionality The institutions that control collateral mobility become the institutions that control acquisition outcomes.
+The cross-border architecture enhances the IRR curve through five functions:
+
+- Lower capital drag
+
+- Accelerated deal velocity
+
+- Expanded lender participation
+
+- Higher add-on cadence
+
+- Stronger exit optionality The institutions that control collateral mobility become the institutions that control acquisition outcomes.
 
 The borderless collateral regime shifts how value is contested.
 
@@ -455,8 +470,7 @@ The strategy is operational.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Request confidential capital audit.
 

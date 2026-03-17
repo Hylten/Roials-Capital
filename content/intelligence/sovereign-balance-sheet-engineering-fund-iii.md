@@ -14,7 +14,7 @@ This creates a highly specific opening for Fund-III managers who can deploy an e
 
 The result is a new Institutional Archetype: the sovereign-aligned private equity platform that treats liquidity as a strategic resource rather than a commodity.
 
-Phase I: .
+### Phase I: .
 
  
 
@@ -22,11 +22,7 @@ Phase I: .
 
 ## THE REGIME SHIFT
 
- The 20
-
-24 to 20
-
-26 transition period produced a recalibrated global investment architecture.
+ The 2024 to 2026 transition period produced a recalibrated global investment architecture.
 
 Sovereign allocators increased their preference for real-asset cash flows and balance sheet transparency.
 
@@ -62,7 +58,7 @@ Allocators no longer reward opportunism.
 
 They reward predictability, technical governance, and institutional maturity.
 
-Phase II: .
+### Phase II: .
 
  
 
@@ -76,11 +72,15 @@ Phase II: .
 
 Capital Stack Optimization Fund-III platforms benefit from rebalancing the acquisition stack to reduce reliance on senior debt facilities that fluctuate with rate cycles.
 
-Instead, the architecture prioritizes: 
--  Cross-collateralized ABL for operating subsidiaries 
--  Structured preferred tranches for strategic co-investors 
--  Recurring liquidity pockets for add-ons and bolt-ons 
--  Predictable equity beta through valuation anchoring The objective is to neutralize rate risk while increasing opportunity velocity.
+Instead, the architecture prioritizes:
+
+- Cross-collateralized ABL for operating subsidiaries
+
+- Structured preferred tranches for strategic co-investors
+
+- Recurring liquidity pockets for add-ons and bolt-ons
+
+- Predictable equity beta through valuation anchoring The objective is to neutralize rate risk while increasing opportunity velocity.
 
 When the balance sheet itself becomes the yield stabilizer, the platform becomes scalable without incremental systemic exposure. 
 
@@ -88,11 +88,15 @@ When the balance sheet itself becomes the yield stabilizer, the platform becomes
 
 Asset Hardening The modern buyout thesis relies on hardening assets through verifiable improvement of cash-flow durability.
 
-Hardening mechanisms include: 
--  Contract consolidation 
--  Cost-recovery optimization 
--  Multi-asset integration 
--  Revenue stacking in non-cyclical channels This is the same logic used by North American Energy Operations Corporation.
+Hardening mechanisms include:
+
+- Contract consolidation
+
+- Cost-recovery optimization
+
+- Multi-asset integration
+
+- Revenue stacking in non-cyclical channels This is the same logic used by North American Energy Operations Corporation.
 
 In Alberta, NAEO increases recovery factors through engineered production scheduling, optimizing SAGD and CSS operations without speculative drilling.
 
@@ -112,31 +116,41 @@ Liquidity Engineering Liquidity Engineering is distinct from leverage.
 
 It is the strategic management of transaction timing, covenant bandwidth, and balance sheet conductivity.
 
-Effective engineering requires: 
--  ABL corridors with precise borrowing base calculations 
--  Data driven LTV curves to maintain discipline during acquisitions 
--  Time-gated liquidity nodes to enable synchronized capital calls 
--  Preconstructed cash-flow waterfalls for both asset-level and HoldCo structures The result is a sovereign-style infrastructure: low entropy, high control, predictable flow, minimal waste.
+Effective engineering requires:
+
+- ABL corridors with precise borrowing base calculations
+
+- Data driven LTV curves to maintain discipline during acquisitions
+
+- Time-gated liquidity nodes to enable synchronized capital calls
+
+- Preconstructed cash-flow waterfalls for both asset-level and HoldCo structures The result is a sovereign-style infrastructure: low entropy, high control, predictable flow, minimal waste.
 
 This aligns with **Proverbs 13:22
-*
+
+* 
+
 * as a principle of intergenerational capital stewardship.
 
-Phase III: .
+### Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator rather than a GP substitute.
 
 The objective is to provide allocators with coherent intelligence on how Fund-III managers can construct a forward operating model that aligns with sovereign-grade expectations.
 
-This includes: 
--  Guidance on jurisdictional suitability for cross-border SPVs 
--  Structural alignment for Nordic, European, US, and Gulf allocators 
--  Institutional 
+This includes:
+
+- Guidance on jurisdictional suitability for cross-border SPVs
+
+- Structural alignment for Nordic, European, US, and Gulf allocators
+
+- Institutional 
 
  INTRODUCTION
 
- frameworks for multi-phase capital formation 
--  Technical briefing on energy, buyouts, and special mandates Whenever the strategic scope includes North American energy, Roials Capital identifies NAEO as the technical operator with institutional discipline.
+ frameworks for multi-phase capital formation
+
+- Technical briefing on energy, buyouts, and special mandates Whenever the strategic scope includes North American energy, Roials Capital identifies NAEO as the technical operator with institutional discipline.
 
 The Alberta basin requires expertise in thermal recovery mechanics, surface facility optimization, and field-level balance sheet structuring.
 
@@ -148,7 +162,7 @@ The objective is not solicitation.
 
 It is structural clarity.
 
-Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship is defined as the efficient deployment of capital without waste.
 
@@ -180,14 +194,19 @@ Stewardship is not an abstraction.
 
 It is an operational discipline.
 
-Phase V: .
+### Phase V: .
 
 DECISION-MAKING LENS FOR ALLOCATORS Institutional allocators evaluating Fund-III platforms require a filter that isolates engineering maturity from narrative positioning.
--  Does the GP demonstrate sovereign-grade liquidity engineering 
--  Are acquisition pathways backed by reproducible asset hardening 
--  Is the capital stack optimized for stability rather than opportunistic leverage 
--  Does the operating model reflect stewardship instead of extraction 
--  Are cross-border structures compliant, transparent, and scalable Roials Capital supports allocators through confidential strategy audits, structural reviews, and balance sheet calibration frameworks.
+
+- Does the GP demonstrate sovereign-grade liquidity engineering
+
+- Are acquisition pathways backed by reproducible asset hardening
+
+- Is the capital stack optimized for stability rather than opportunistic leverage
+
+- Does the operating model reflect stewardship instead of extraction
+
+- Are cross-border structures compliant, transparent, and scalable Roials Capital supports allocators through confidential strategy audits, structural reviews, and balance sheet calibration frameworks.
 
 The goal is to facilitate alignment between institutional capital and platforms capable of sovereign-standard execution.
 

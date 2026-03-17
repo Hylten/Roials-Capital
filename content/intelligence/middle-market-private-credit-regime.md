@@ -232,7 +232,7 @@ They punish firms that chase yield without structural mastery.
 
 ROIALS CAPITAL belongs to the first group.
 
-Phase IV: The Stewardship Filter Capital is not sovereign.
+### Phase IV: The Stewardship Filter Capital is not sovereign.
 
 It is held in trust.
 
@@ -245,7 +245,9 @@ Disorder dilutes collateral integrity.
 Stewardship is not an ethical layer on top of strategy.
 
 It is strategy. **Proverbs 13:22
-*
+
+* 
+
 * anchors the thesis: wealth passes through generations when stewardship is disciplined, not impulsive.
 
 The stewardship filter operates through three commitments. 
@@ -290,7 +292,7 @@ It is deployed for continuity.
 
 That continuity is engineered, not assumed.
 
-Phase V: Exit Yield without velocity is idle.
+### Phase V: Exit Yield without velocity is idle.
 
 Velocity without structure is reckless.
 
@@ -308,8 +310,7 @@ Request a confidential capital audit to determine alignment with Fund-III deploy
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

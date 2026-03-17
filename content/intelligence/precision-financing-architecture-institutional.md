@@ -12,7 +12,7 @@ Allocators with disciplined underwriting frameworks are discovering a structural
 
 Precision financing architecture has therefore transitioned from a peripheral concept to a primary determinant of acquisition viability, debt seniority, and multi fund scalability.
 
-Phase I: .
+### Phase I: .
 
  
 
@@ -55,7 +55,7 @@ These conditions have produced an environment where precision financing is not a
 
 It is the central operating framework for Fund-III and subsequent institutional scale expansion.
 
-Phase II: .
+### Phase II: .
 
  
 
@@ -83,11 +83,15 @@ C.
 
 Multi asset accumulation during buyout or add on cycles requires debt architectures that do not dilute acquisition speed.
 
-Institutional capital raising at this stage focuses on: 
--  Equity stack optimization around predictable hurdle structures. 
--  Cross collateralization tolerance thresholds across multiple portfolio entities. 
--  LP profiling aligned with jurisdictional capital flows from US, EU, Switzerland, and UAE. 
--  Deployment pacing calibrated to macro liquidity cycles. 
+Institutional capital raising at this stage focuses on:
+
+- Equity stack optimization around predictable hurdle structures.
+
+- Cross collateralization tolerance thresholds across multiple portfolio entities.
+
+- LP profiling aligned with jurisdictional capital flows from US, EU, Switzerland, and UAE.
+
+- Deployment pacing calibrated to macro liquidity cycles. 
 
 2.
 
@@ -95,11 +99,15 @@ Liquidity Engineering and Asset Based Structures Liquidity engineering is the ab
 
 It is not a traditional Asset-Based Lending program.
 
-It is a form of calibrated balance sheet optimization built around: 
--  Hard asset valuation with replacement cost indexing. 
--  Working capital rotation cycles anchored to predictable receivable behavior. 
--  Multi lien layering that protects seniority without impairing expansion activities. 
--  Dynamic covenant frameworks that maintain operational flexibility in high velocity acquisition cycles.
+It is a form of calibrated balance sheet optimization built around:
+
+- Hard asset valuation with replacement cost indexing.
+
+- Working capital rotation cycles anchored to predictable receivable behavior.
+
+- Multi lien layering that protects seniority without impairing expansion activities.
+
+- Dynamic covenant frameworks that maintain operational flexibility in high velocity acquisition cycles.
 
 For UHNWIs and institutional LPs, this segment functions as a structural shock absorber.
 
@@ -133,7 +141,7 @@ C.
 
 Global Expansion Projects with asset hardening potential These require advanced cross border structuring to protect capital seniority and ensure alignment with institutional archetypes.
 
-Phase III: .
+### Phase III: .
 
 THE PARTNERSHIP MODEL AND STRATEGIC ALIGNMENT FRAMEWORK Roials Capital operates as an institutional navigator using a neutral introducer positioning.
 
@@ -169,7 +177,7 @@ NAEO or other sector specific operators focus on technical execution.
 
 This separation creates institutional clarity and reduces cross functional risk.
 
-Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship is the discipline of ensuring that capital is deployed in accordance with both economic and ethical responsibility.
 
@@ -182,7 +190,9 @@ Across institutional mandates, stewardship takes four forms.
 1.
 
 Non wasteful Resource Management Capital must be directed into projects where the operational output justifies the resource consumption. **Proverbs 13:22
-*
+
+* 
+
 * outlines the generational obligation to steward assets responsibly. 
 
 2.
@@ -199,7 +209,7 @@ Transparent Reporting Architecture Reporting must be consistent, auditable, and 
 
 The stewardship filter forms the ethical and operational backbone of institutional scale financing architecture.
 
-Phase V: .
+### Phase V: .
 
 STRATEGIC DECISION LENS FOR ALLOCATORS Allocators across UHNW, Family Office, and Institutional LP categories benefit from applying a decision framework built around four calibration points.
 

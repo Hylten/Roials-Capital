@@ -18,13 +18,9 @@ This memorandum outlines the mechanics behind that shift, the technical attribut
 
 ## THE REGIME SHIFT
 
- Modern private credit exists in a post-20
+ Modern private credit exists in a post-2020 environment defined by a sequence of structural breakpoints.
 
-20 environment defined by a sequence of structural breakpoints.
-
-Central bank balance sheet compression, regulatory capital recalibration, and cross border lending restrictions have generated a lending architecture that is significantly more differentiated than the pre-20
-
-19 cycle.
+Central bank balance sheet compression, regulatory capital recalibration, and cross border lending restrictions have generated a lending architecture that is significantly more differentiated than the pre-2019 cycle.
 
 The result is a supply side contraction that disproportionately affects the small to mid market segment, where sponsor demand outpaces available senior capital by a wide margin.
 
@@ -68,12 +64,17 @@ Fund-III Structures Fund-III environments represent a maturity inflection in spo
 
 At this phase, a manager has already demonstrated acquisition discipline, operational integration competence, and exit execution across multiple verticals.
 
-The capital stack in a Fund-III buyout strategy typically exhibits: 
--  Senior leverage between 3.0x and 4.5x, designed to maintain resilience under moderate EBITDA compression. 
--  Cross collateralization across add on acquisitions to mitigate integration risk. 
--  Excess cash sweep mechanics that prioritize deleveraging and liquidity reinforcement. 
--  LTV optimization tied to M&A cadence rather than static valuations. 
--  Portfolio level asset hardening such as equipment upgrades, contract extensions, or working capital compression.
+The capital stack in a Fund-III buyout strategy typically exhibits:
+
+- Senior leverage between 3.0x and 4.5x, designed to maintain resilience under moderate EBITDA compression.
+
+- Cross collateralization across add on acquisitions to mitigate integration risk.
+
+- Excess cash sweep mechanics that prioritize deleveraging and liquidity reinforcement.
+
+- LTV optimization tied to M&A cadence rather than static valuations.
+
+- Portfolio level asset hardening such as equipment upgrades, contract extensions, or working capital compression.
 
 Institutional allocators evaluate these structures not only through return dispersion but through balance sheet resilience and the sponsor's ability to withstand debt service through multiple operational cycles.
 
@@ -83,11 +84,15 @@ Asset-Based Lending Mechanics Asset-Based Lending facilities have shifted from b
 
 They are structured to create flexibility during acquisition integration, supply chain volatility, or working capital inflection points.
 
-Core components include: 
--  Borrowing base definitions of accounts receivable, inventory, and occasionally equipment. 
--  Dynamic advance rates recalibrated to operational seasonality. 
--  Tranche segmentation to align liquidity with acquisition or integration phases. 
--  Priority seniority to ensure institutional downside protection.
+Core components include:
+
+- Borrowing base definitions of accounts receivable, inventory, and occasionally equipment.
+
+- Dynamic advance rates recalibrated to operational seasonality.
+
+- Tranche segmentation to align liquidity with acquisition or integration phases.
+
+- Priority seniority to ensure institutional downside protection.
 
 Asset-Based Lending instruments function as Institutional Liquidity Paths tools.
 
@@ -101,15 +106,19 @@ This stability is why institutional allocators continue to allocate to conventio
 
 Assets in conventional formations maintain clear relationships between porosity, permeability, steam ratios, and recovery factors.
 
-Relevant technical metrics include: 
--  SAGD recovery factors in the 
+Relevant technical metrics include:
+
+- SAGD recovery factors in the 
 
 35 to 
 
-65 percent range depending on reservoir thickness and steam conformance. 
--  CSS recovery patterns suitable for thinner or heterogeneous reservoirs. 
--  Primary heavy oil recovery in cold flow assets with water cut moderation. 
--  Predictable decline curves tied to reservoir pressure and fluid dynamics.
+65 percent range depending on reservoir thickness and steam conformance.
+
+- CSS recovery patterns suitable for thinner or heterogeneous reservoirs.
+
+- Primary heavy oil recovery in cold flow assets with water cut moderation.
+
+- Predictable decline curves tied to reservoir pressure and fluid dynamics.
 
 Our strategic partner, NAEO, operates along these physics based parameters.
 
@@ -133,11 +142,15 @@ The firm provides operational intelligence, structural calibration, and capital 
 
 In Fund-III capital formation, the role is to map allocator archetypes to the sponsor’s acquisition cadence.
 
-This includes: 
--  Multi tranche commitment structuring. 
--  Cross jurisdictional capital harmonization for US, CH, EU, and GCC allocators. 
--  Technical communication between LP risk teams and sponsor operating teams. 
--  Portfolio level diagnostics to ensure allocator alignment.
+This includes:
+
+- Multi tranche commitment structuring.
+
+- Cross jurisdictional capital harmonization for US, CH, EU, and GCC allocators.
+
+- Technical communication between LP risk teams and sponsor operating teams.
+
+- Portfolio level diagnostics to ensure allocator alignment.
 
 In Asset-Based Lending contexts, Roials Capital supports balance sheet optimization by translating operational data into borrowing base readiness frameworks.
 
@@ -149,10 +162,13 @@ The emphasis is on explaining reservoir physics, operational cadence, and acquis
 
 The objective is not to promote investment but to provide the allocator with a structured understanding of how Alberta heavy oil assets behave and why they fit into a multi cycle credit or hybrid mandate.
 
-The partnership model is built on three pillars: 
--  Technical transparency. 
--  Operational discipline. 
--  Governance alignment. 
+The partnership model is built on three pillars:
+
+- Technical transparency.
+
+- Operational discipline.
+
+- Governance alignment. 
 
  
 
@@ -161,14 +177,20 @@ The partnership model is built on three pillars:
 ## THE STEWARDSHIP FILTER Stewardship is a discipline of non wasteful resource management.
 
 It is a capital philosophy aligned with **Proverbs 13:22
-*
+
+* 
+
 * and the ethics of intergenerational responsibility.
 
-In private credit environments, stewardship manifests as: 
--  Avoidance of excessive leverage. 
--  Preservation of asset durability. 
--  Optimization of capital productivity. 
--  Alignment of debt service with stable operational cash flows.
+In private credit environments, stewardship manifests as:
+
+- Avoidance of excessive leverage.
+
+- Preservation of asset durability.
+
+- Optimization of capital productivity.
+
+- Alignment of debt service with stable operational cash flows.
 
 This philosophical lens creates a measurable advantage in both underwriting and portfolio navigation.
 
@@ -178,11 +200,15 @@ It reflects a shift from performance oriented assessment to resilience oriented 
 
 DECISION MAKING LENS FOR THE ALLOCATOR Institutional allocators operate in an environment where credit spreads do not accurately reflect risk and where opportunity velocity is increasingly gated by sponsor competence rather than capital availability.
 
-The decision making lens involves: 
--  Identifying strategies where collateral durability intersects with operational transparency. 
--  Prioritizing sponsors or partners able to maintain multi cycle liquidity discipline. 
--  Establishing mandate structures that match acquisition pacing rather than fund marketing cycles. 
--  Evaluating 
+The decision making lens involves:
+
+- Identifying strategies where collateral durability intersects with operational transparency.
+
+- Prioritizing sponsors or partners able to maintain multi cycle liquidity discipline.
+
+- Establishing mandate structures that match acquisition pacing rather than fund marketing cycles.
+
+- Evaluating 
 
  TECHNICAL MECHANICS
 
@@ -196,8 +222,7 @@ These are designed to clarify structural realities, align capital flows with spo
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

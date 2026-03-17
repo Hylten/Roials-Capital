@@ -14,7 +14,7 @@ Institutions with disciplined capital architecture outperform not because they l
 
 Order is not an option.
 
-Phase I: .
+### Phase I: .
 
  
 
@@ -68,7 +68,7 @@ Precision is
 
 .
 
-Phase II: .
+### Phase II: .
 
  
 
@@ -158,7 +158,7 @@ The lender extracts duration without sacrificing velocity.
 
 Without institutional backing, these structures do not price.
 
-Phase III: .
+### Phase III: .
 
  
 
@@ -226,8 +226,7 @@ NAEOC mandates at
 
 50 to 
 
-25
-0 million.
+250 million.
 
 MiFID II acquisition windows.
 
@@ -251,12 +250,14 @@ LPs align because they want disciplined underwriting and asymmetric outcomes.
 
 ROIALS CAPITAL sits between them as the institutional operating spine.
 
-Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Resources carry responsibility.
 
 Capital is not neutral. **Proverbs 13:22
-*
+
+* 
+
 * establishes a simple pattern.
 
 Good stewardship extends value across generations.
@@ -301,7 +302,7 @@ Recovery is enforced with clarity.
 
 Yield is extracted with discipline.
 
-Phase V: .
+### Phase V: .
 
 EXIT Institutional backing is not branding.
 
@@ -309,18 +310,15 @@ It is a measurable upward shift in recovery rates, velocity, and covenant durabi
 
 Platforms that secure institutional alignment lift IRR by 
 
-18
-0 to 
+180 to 
 
-26
-0 basis points due to workflow compression alone.
+260 basis points due to workflow compression alone.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Request confidential capital audit.
 

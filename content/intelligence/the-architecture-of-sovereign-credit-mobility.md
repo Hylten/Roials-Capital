@@ -20,11 +20,15 @@ The Gnosjö Spine The Spirit of Gnosjö is not a cultural reference.
 
 It is a structural operating code.
 
-It represents: 
--  disciplined work 
--  stewardship over resources 
--  quiet mastery 
--  duty-driven execution Sovereign mobility built on Gnosjö discipline becomes unshakeable.
+It represents:
+
+- disciplined work
+
+- stewardship over resources
+
+- quiet mastery
+
+- duty-driven execution Sovereign mobility built on Gnosjö discipline becomes unshakeable.
 
 It is humble in presentation.
 
@@ -44,11 +48,15 @@ Sovereign Structures in a Fragmented Market Modern markets fragment.
 
 Sovereign structures consolidate.
 
-As fragmentation intensifies: 
--  volatility increases 
--  liquidity dries 
--  risk capital withdraws 
--  short-term players vanish But hardened collateral survives.
+As fragmentation intensifies:
+
+- volatility increases
+
+- liquidity dries
+
+- risk capital withdraws
+
+- short-term players vanish But hardened collateral survives.
 
 Disciplined governance survives.
 
@@ -86,11 +94,15 @@ Identity without liquidity stagnates.
 
 Covenant stewardship unites the two.
 
-This creates dynastic continuity through: 
--  strict governance 
--  moral clarity 
--  disciplined cash-flow routing 
--  principled capital allocation The architecture ensures that credit mobility never violates 
+This creates dynastic continuity through:
+
+- strict governance
+
+- moral clarity
+
+- disciplined cash-flow routing
+
+- principled capital allocation The architecture ensures that credit mobility never violates 
 
 ## THE MANDATE
 
@@ -106,11 +118,15 @@ The Quiet Advantage Sovereign structures are not public.
 
 They are protected by their clarity and their discipline.
 
-The quiet advantage is created when a family or institution can: 
--  deploy 5M to 50M liquidity on short notice 
--  maintain covenant compliance effortlessly 
--  reposition collateral without re-underwriting 
--  respond to macro shifts before the market reacts This advantage compounds over time.
+The quiet advantage is created when a family or institution can:
+
+- deploy 5M to 50M liquidity on short notice
+
+- maintain covenant compliance effortlessly
+
+- reposition collateral without re-underwriting
+
+- respond to macro shifts before the market reacts This advantage compounds over time.
 
 Quiet.
 
@@ -122,24 +138,29 @@ Principal Summary Sovereign credit mobility is not a product.
 
 It is a posture.
 
-It rests on three pillars. 
--  Asset Hardening 
--  Covenant Stewardship 
--  Execution Velocity These pillars produce the architecture for UHNW and institutional families who operate with dominion, clarity, and responsibility.
+It rests on three pillars.
+
+- Asset Hardening
+
+- Covenant Stewardship
+
+- Execution Velocity These pillars produce the architecture for UHNW and institutional families who operate with dominion, clarity, and responsibility.
 
 This architecture is the modern expression of covenant stewardship applied to capital.
 
-It is the highest form of liquidity governance available to private actors. 
--  
--  
--  Request confidential audit.
+It is the highest form of liquidity governance available to private actors.
+
+- 
+
+- 
+
+- Request confidential audit.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

@@ -80,11 +80,9 @@ Roials Capital delivers this through private credit Institutional Liquidity Path
 
 With minimum thresholds of 2,000,
 
-00
-0 USD for crypto and 5,000,
+000 USD for crypto and 5,000,
 
-00
-0 USD for public equities, we maintain the structural clarity our ecosystem requires.
+000 USD for public equities, we maintain the structural clarity our ecosystem requires.
 
 If your asset architecture warrants institutional grade liquidity, we provide the framework.
 
@@ -92,8 +90,7 @@ If your asset architecture warrants institutional grade liquidity, we provide th
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

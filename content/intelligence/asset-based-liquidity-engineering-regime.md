@@ -14,7 +14,7 @@ Liquidity is the constraint most UHNW families misdiagnose.
 
 Order is not an option.
 
-Phase I: .
+### Phase I: .
 
  
 
@@ -70,7 +70,7 @@ Fund-III sits inside that shift.
 
 Not beside it.
 
-Phase II: .
+### Phase II: .
 
  
 
@@ -128,12 +128,17 @@ The waterfall is the contract that enforces stewardship.
 
 Monetization Architecture depends on a hard priority stack.
 
-Operating cash flows feed: 
--  Interest obligations 
--  Maintenance capital 
--  Asset hardening reserves 
--  Acquisition surplus 
--  Distribution rights The order is sacred.
+Operating cash flows feed:
+
+- Interest obligations
+
+- Maintenance capital
+
+- Asset hardening reserves
+
+- Acquisition surplus
+
+- Distribution rights The order is sacred.
 
 Break the order and you destroy compounding.
 
@@ -159,7 +164,7 @@ This is why we build Asset-Based Lending facilities not as credit.
 
 But as operating infrastructure.
 
-Phase III: .
+### Phase III: .
 
  
 
@@ -241,14 +246,16 @@ We recycle surplus into controlled compounding paths.
 
 Waste is eliminated.
 
-Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER A system built without stewardship corrodes.
 
 Stewardship is not generosity.
 
 It is governance. **Proverbs 13:22
-*
+
+* 
+
 * states that a good man leaves an inheritance for his children's children.
 
 The verse does not reference gold or land.
@@ -289,7 +296,7 @@ A liquidity engineered system teaches the next generation how to govern.
 
 Not how to spend.
 
-Phase V: .
+### Phase V: .
 
 EXIT Our internal mandate is explicit.
 
@@ -303,8 +310,7 @@ Deviate from this and the compounding model breaks.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Request confidential capital audit.
 

@@ -136,10 +136,13 @@ The objective is balance sheet strengthening and capital flow synchronization.
 
 3. 
 
-10 percent Special Mandates These include 
--  North American Energy Operations Consortium (NAEOC) with facility needs of 50M to 250M. 
--  EU MiFID II aligned acquisition pathways. 
--  Gulf and Swiss structured credit alliances.
+10 percent Special Mandates These include
+
+- North American Energy Operations Consortium (NAEOC) with facility needs of 50M to 250M.
+
+- EU MiFID II aligned acquisition pathways.
+
+- Gulf and Swiss structured credit alliances.
 
 Within Energy, NAEO serves as the institutional partner with operational expertise spanning SAGD, CSS, decline curve analysis, and Alberta basin mechanics.
 
@@ -170,7 +173,9 @@ Stronger balance sheets enable better negotiation leverage and clearer risk mana
 3.
 
 Intergenerational Positioning Stewardship honors capital continuity. **Proverbs 13:22
-*
+
+* 
+
 * positions resource management as a multi generational mandate.
 
 Wealth mobility systems ensure that strategic assets remain deployable across jurisdictions and across family structures. 

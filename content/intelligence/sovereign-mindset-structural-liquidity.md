@@ -13,7 +13,9 @@ Control is liquidity.
 Liquidity is time.
 
 Time is inheritance. **Proverbs 13:22
-*
+
+* 
+
 * : A good man leaves an inheritance to his children’s children.
 
 Institutional scale simply formalizes that logic across jurisdictions, balance sheet architectures, and capital queues.
@@ -66,10 +68,13 @@ Structural liquidity is not a pool.
 
 It is a system.
 
-Three levers define it: 
--  Intertemporal capital positioning. 
--  Jurisdictional arbitrage. 
--  Asset hardening dynamics under constrained credit regimes.
+Three levers define it:
+
+- Intertemporal capital positioning.
+
+- Jurisdictional arbitrage.
+
+- Asset hardening dynamics under constrained credit regimes.
 
 The LP/GP relationship becomes sovereign when these levers stack seamlessly.
 
@@ -203,10 +208,13 @@ Control power.
 
 Optionality power.
 
-Fund-III must offer all three: 
--  Extraction power through asset-level liquidity conversion. 
--  Control power through aggressive integration mechanics. 
--  Optionality power through jurisdictional liquidity pivots.
+Fund-III must offer all three:
+
+- Extraction power through asset-level liquidity conversion.
+
+- Control power through aggressive integration mechanics.
+
+- Optionality power through jurisdictional liquidity pivots.
 
 In the energy mandate, NAEOC allocations between 50M and 250M require structural clarity above sector clarity.
 
@@ -341,7 +349,9 @@ They are buying time.
 Generational wealth is not wealth.
 
 It is the institutionalization of liquidity across generations. **Proverbs 13:22
-*
+
+* 
+
 * : A good man leaves an inheritance to his children’s children.
 
 In institutional language, inheritance is liquidity architecture.
@@ -396,8 +406,7 @@ Metric: LTV curvature ratio
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

@@ -34,12 +34,17 @@ It is written in an institutional tone because the audience is institutional.
 
 When liquidity is architected, the timeline expands.
 
-Decision makers gain: 
--  Optionality in geopolitical windows 
--  Ability to pursue countercyclical investments 
--  Strengthened negotiating leverage with global actors 
--  Risk adjusted returns without destabilizing existing positions 
--  Control over the pace of capital rotation This is the architecture layer.
+Decision makers gain:
+
+- Optionality in geopolitical windows
+
+- Ability to pursue countercyclical investments
+
+- Strengthened negotiating leverage with global actors
+
+- Risk adjusted returns without destabilizing existing positions
+
+- Control over the pace of capital rotation This is the architecture layer.
 
 It is the layer that sovereign and UHNW portfolios require. 
 
@@ -83,8 +88,7 @@ At scale.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

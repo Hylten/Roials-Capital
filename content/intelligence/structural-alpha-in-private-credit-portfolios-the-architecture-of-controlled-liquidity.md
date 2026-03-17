@@ -36,12 +36,16 @@ It is dependent on structural mechanics.
 
 ## The ROIALS CAPITAL Framework ROIALS CAPITAL operates within private credit and asset based Institutional Liquidity Paths, creating liquidity against positions that traditional lenders either misunderstand or refuse to underwrite.
 
-We issue credit against: 
--  Private credit positions. 
--  Asset Based Monetization Architecture structures. 
--  Crypto holdings, with a minimum threshold of 
-2 million dollars. 
--  Public share portfolios, with a minimum threshold of 
+We issue credit against:
+
+- Private credit positions.
+
+- Asset Based Monetization Architecture structures.
+
+- Crypto holdings, with a minimum threshold of 
+2 million dollars.
+
+- Public share portfolios, with a minimum threshold of 
 5 million dollars.
 
 The client base is exclusively HNWI and UHNW.
@@ -270,8 +274,7 @@ Architecture is the method. # Request confidential audit
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

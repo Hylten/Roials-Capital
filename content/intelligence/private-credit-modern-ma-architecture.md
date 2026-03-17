@@ -177,15 +177,22 @@ It ensures that capital providers enter environments where structural risk is un
 ## THE STEWARDSHIP FILTER Stewardship in capital architecture is defined as non wasteful resource management.
 
 The principle aligns with **Proverbs 13:22
-*
+
+* 
+
 * and emphasizes longevity, resilience, and responsible deployment.
 
-In private credit, stewardship is expressed through: 
--  disciplined loan structuring 
--  avoidance of excessive leverage 
--  alignment of operating behavior with capital discipline 
--  protection of enterprise value during integration 
--  reinforcement of long term stability rather than short term extraction Stewardship becomes the mechanism that prevents capital erosion and ensures continuity of operational assets across cycles.
+In private credit, stewardship is expressed through:
+
+- disciplined loan structuring
+
+- avoidance of excessive leverage
+
+- alignment of operating behavior with capital discipline
+
+- protection of enterprise value during integration
+
+- reinforcement of long term stability rather than short term extraction Stewardship becomes the mechanism that prevents capital erosion and ensures continuity of operational assets across cycles.
 
 The theology of capital is not theoretical.
 
@@ -197,13 +204,19 @@ The evaluation is not based on coupons, market narratives, or comparative yield.
 
 It is based on structural relevance.
 
-The allocator assesses whether private credit provides: 
--  timing control in acquisition cycles 
--  structural protection through seniority and collateral 
--  stability during integration phases 
--  alignment with operating partners 
--  predictable capital deployment velocity 
--  transparency of downside scenarios This briefing functions as a high altitude map of 
+The allocator assesses whether private credit provides:
+
+- timing control in acquisition cycles
+
+- structural protection through seniority and collateral
+
+- stability during integration phases
+
+- alignment with operating partners
+
+- predictable capital deployment velocity
+
+- transparency of downside scenarios This briefing functions as a high altitude map of 
 
  THE REGIME SHIFT
 

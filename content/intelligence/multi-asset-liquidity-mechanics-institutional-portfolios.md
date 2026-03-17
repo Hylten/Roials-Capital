@@ -18,9 +18,12 @@ Asset managers who fail to internalize this shift weaken their negotiating lever
 
 Capital does not reward delay.
 
-It rewards readiness. 
--  **Proverbs 13:22
-*
+It rewards readiness.
+
+- **Proverbs 13:22
+
+* 
+
 * .
 
 The institutional core understands this.
@@ -41,10 +44,13 @@ Mechanics.
 
 The kind that shift control from markets to managers; from counterparties to principal desks; from liquidity scarcity to liquidity optionality.
 
-Institutional portfolios demand liquidity in three dimensions: 
--  Temporal liquidity 
--  Jurisdictional liquidity 
--  Asset‑class liquidity Each dimension requires engineering.
+Institutional portfolios demand liquidity in three dimensions:
+
+- Temporal liquidity
+
+- Jurisdictional liquidity
+
+- Asset‑class liquidity Each dimension requires engineering.
 
 Each dimension supports Fund-III capital raising.
 
@@ -186,19 +192,19 @@ Five components:
 
 Liquidity Intelligence
 
-Layer II:.
+### Layer II: .
 
 Capital Conversion
 
-Layer III:.
+### Layer III: .
 
 Collateral Multiplex
 
-Layer IV:.
+### Layer IV: .
 
 Jurisdictional Routing
 
-Layer V:.
+### Layer V: .
 
 Sovereign Control Layer Each serves a distinct function.
 
@@ -396,10 +402,13 @@ Not generic narratives.
 
 Structural narratives.
 
-LPs want clarity on three points: 
--  Liquidity creation capability 
--  Liquidity resilience under stress 
--  Liquidity optionality under expansion Each point enhances LP trust.
+LPs want clarity on three points:
+
+- Liquidity creation capability
+
+- Liquidity resilience under stress
+
+- Liquidity optionality under expansion Each point enhances LP trust.
 
 Each point lowers perceived deployment risk.
 
@@ -671,8 +680,7 @@ The institutional world rewards the sovereign.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Request confidential capital audit: ROIALS CAPITAL Liquidity Torque Ratio: 1.83x
 

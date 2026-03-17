@@ -160,9 +160,12 @@ The objective is to strengthen what already exists rather than to speculate on w
 
 Stewardship in the institutional context refers to the responsible management of capital, corporate structures, natural resources, and time.
 
-The theology of capital is based on 
--  **Proverbs 13:22
-*
+The theology of capital is based on
+
+- **Proverbs 13:22
+
+* 
+
 * which states that responsible actors leave sustainable value for the next generation.
 
 This principle applies directly to mature basin energy assets, middle market corporates, and cross border infrastructure.
@@ -217,8 +220,7 @@ For allocators seeking to calibrate portfolios toward structural durability and 
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

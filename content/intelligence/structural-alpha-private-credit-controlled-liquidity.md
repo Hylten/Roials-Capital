@@ -18,9 +18,7 @@ This asymmetry is creating a technical environment where controlled liquidity ar
 
 ## THE REGIME SHIFT
 
- The private credit market entered 20
-
-26 under a configuration defined by three reinforcing forces.
+ The private credit market entered 2026 under a configuration defined by three reinforcing forces.
 
 The first is balance sheet contraction across commercial banks driven by risk recalibration and slower regulatory approvals.
 
@@ -74,12 +72,17 @@ The approach creates conservatism in Loan to Value curves and enhances resilienc
 
 Cash Flow Waterfall Engineering Cash flow waterfalls must prioritize operational continuity before capital return.
 
-Well engineered structures allocate capital with defined priority levels: 
--  Sustaining capital 
--  Operating obligations 
--  Senior credit facilities 
--  Subordinated capital layers 
--  Equity distribution This sequencing is central to downside protection.
+Well engineered structures allocate capital with defined priority levels:
+
+- Sustaining capital
+
+- Operating obligations
+
+- Senior credit facilities
+
+- Subordinated capital layers
+
+- Equity distribution This sequencing is central to downside protection.
 
 Structural alpha increases as priority certainty increases. 
 
@@ -119,10 +122,13 @@ Conventional heavy oil assets in Alberta present a geological profile with stabl
 
 Thermal methods such as SAGD and CSS exhibit predictable steam oil ratios and recovery factors, creating clear operating envelopes.
 
-The Alberta basin operates under well characterized physics: 
--  In thermal reservoirs, mobility and pressure behavior are highly consistent. 
--  Decline rates remain stable under steady steam injection cycles. 
--  Reservoir response times are measurable with multi year accuracy.
+The Alberta basin operates under well characterized physics:
+
+- In thermal reservoirs, mobility and pressure behavior are highly consistent.
+
+- Decline rates remain stable under steady steam injection cycles.
+
+- Reservoir response times are measurable with multi year accuracy.
 
 These characteristics create the rare combination of long duration visibility and operational controllability.
 
@@ -152,10 +158,13 @@ This separation preserves alignment and ensures neutral analysis.
 
 Structural Alignment Capital is introduced where the strategic environment supports balance sheet optimization, asset hardening, and efficient capital deployment.
 
-The focus remains on: 
--  Fund-III buyouts and add-ons 
--  Asset backed liquidity engineering 
--  Specialized mandates including NAEOC energy allocations and MiFID II strategic acquisitions 
+The focus remains on:
+
+- Fund-III buyouts and add-ons
+
+- Asset backed liquidity engineering
+
+- Specialized mandates including NAEOC energy allocations and MiFID II strategic acquisitions 
 
 3.
 
@@ -170,32 +179,42 @@ Roials Capital provides this framework, enabling allocators to assess structures
 ## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful capital management.
 
 It is rooted in the principle found in **Proverbs 13:22
-*
+
+* 
+
 * , where generational capital is allocated through wisdom and prudence.
 
 Stewardship in private credit is not moral abstraction but operational precision.
 
-It is expressed through: 
--  Conservative collateral bases 
--  Structured liquidity paths 
--  Defined risk corridors 
--  Avoidance of speculative leverage 
--  Strict capital accountability In energy, stewardship is expressed through responsible extraction, adherence to established decline models, and minimizing operational wastage.
+It is expressed through:
+
+- Conservative collateral bases
+
+- Structured liquidity paths
+
+- Defined risk corridors
+
+- Avoidance of speculative leverage
+
+- Strict capital accountability In energy, stewardship is expressed through responsible extraction, adherence to established decline models, and minimizing operational wastage.
 
 In private credit, it manifests through disciplined underwriting, predictable amortization, and capital structures that protect both operator and allocator.
 
-ALLOCATOR LENS FOR PORTFOLIO DECISION MAKING Institutional allocators evaluating the 20
-
-26 private credit regime are identifying a consistent pattern.
+ALLOCATOR LENS FOR PORTFOLIO DECISION MAKING Institutional allocators evaluating the 2026 private credit regime are identifying a consistent pattern.
 
 Structural alpha does not originate in spread differentials or opportunistic timing.
 
-It arises from: 
--  Controlled liquidity architecture 
--  Balance sheet optimization 
--  Underwriting discipline 
--  Operational intelligence 
--  Strategic partner alignment The environment favors portfolios that emphasize measurable asset bases, predictable cash flows, and capital pathways insulated from macro volatility.
+It arises from:
+
+- Controlled liquidity architecture
+
+- Balance sheet optimization
+
+- Underwriting discipline
+
+- Operational intelligence
+
+- Strategic partner alignment The environment favors portfolios that emphasize measurable asset bases, predictable cash flows, and capital pathways insulated from macro volatility.
 
 Fund-III strategies, asset backed liquidity engineering, and specialized mandates align with this demand profile.
 

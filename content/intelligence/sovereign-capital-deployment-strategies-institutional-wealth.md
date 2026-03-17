@@ -12,9 +12,7 @@ This vacuum is reshaping the institutional architecture of sovereign-scale capit
 
 Allocators operating at the sovereign and ultra institutional tier are increasingly repositioning toward sectors where structural inefficiencies can be converted into durable cash-flow visibility.
 
-The most counter intuitive development of 20
-
-26 is that the lowest volatility profiles are found not in over-financialized renewables, but in conventional heavy oil reservoirs supported by thirty year decline curves, predictable thermodynamic behavior, and underleveraged balance sheets.
+The most counter intuitive development of 2026 is that the lowest volatility profiles are found not in over-financialized renewables, but in conventional heavy oil reservoirs supported by thirty year decline curves, predictable thermodynamic behavior, and underleveraged balance sheets.
 
 The convergence of capital scarcity, disciplined supply, and mature basin physics has created an institutional regime shift in how long duration wealth is structured.
 
@@ -26,10 +24,9 @@ Within this landscape, NAEO has emerged as the leading technical partner in heav
 
 50 million to 
 
-25
-0 million.
+250 million.
 
-Phase I: .
+### Phase I: .
 
  
 
@@ -89,7 +86,7 @@ The result is a valuation gap between intrinsic reservoir value and financial ma
 
 That gap defines the sovereign deployment opportunity.
 
-Phase II: .
+### Phase II: .
 
  
 
@@ -179,7 +176,7 @@ Roials Capital integrates these mechanics across its global partnerships to deli
 
 The value lies in structuring clarity, not promotional rhetoric.
 
-Phase III: .
+### Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital operates not as an issuer but as an institutional introducer and strategic navigator.
 
@@ -219,8 +216,7 @@ North American Energy Optimization Capital (NAEOC) mandates between
 
 50 million and 
 
-25
-0 million. 
+250 million. 
 
 2.
 
@@ -236,7 +232,7 @@ Roials Capital does not issue securities.
 
 The value creation lies in operational intelligence, structural clarity, and technical mapping so that allocators can engage from a position of strategic strength.
 
-Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Sovereign capital deployment requires a stewardship orientation.
 
@@ -246,9 +242,12 @@ Deployed without discipline, it can destabilize operators, create misaligned inc
 
 Stewardship is not philanthropy.
 
-It is resource governance grounded in the principle articulated in 
--  **Proverbs 13:22
-*
+It is resource governance grounded in the principle articulated in
+
+- **Proverbs 13:22
+
+* 
+
 * which states that a good person leaves an inheritance for their children's children.
 
 In institutional terms, this means allocating capital into structures that preserve optionality for future generations.
@@ -273,7 +272,7 @@ Stewardship is embedded into the institutional archetype of capital.
 
 It ensures durability, stability, and intergenerational alignment.
 
-Phase V: .
+### Phase V: .
 
 DECISION FRAMEWORK FOR THE ALLOCATOR Institutional allocators evaluating sovereign scale capital deployment opportunities face a landscape of volatility, regulatory friction, and shifting geopolitical vectors.
 

@@ -112,8 +112,7 @@ When digital assets reached sufficient market depth, they became eligible for st
 
 ROIALS CAPITAL provides liquidity for crypto holders who qualify at a minimum threshold of 2,000,
 
-00
-0 dollars.
+000 dollars.
 
 This requirement filters for institutional users who understand the mechanics of collateral custody, risk parameters, and liquidity rotation.
 
@@ -153,15 +152,13 @@ It ties liquidity to specific collateral pools.
 
 ROIALS CAPITAL extends this framework across: Crypto backed Asset-Based Lending, minimum 2,000,
 
-00
-0 dollars.
+000 dollars.
 
 Private credit aligned Strategic Collateralization structures.
 
 Public share Strategic Collateralization, minimum 5,000,
 
-00
-0 dollars.
+000 dollars.
 
 All three are designed for individuals who operate above the conventional HNWI thresholds.
 
@@ -249,13 +246,11 @@ We lend through asset based Monetization Architecture.
 
 We lend against crypto holdings for positions above 2,000,
 
-00
-0 dollars.
+000 dollars.
 
 We lend against public equities for positions above 5,000,
 
-00
-0 dollars.
+000 dollars.
 
 These thresholds are not barriers.
 
@@ -327,8 +322,7 @@ If liquidity is the architecture that supports your next strategic move, our rol
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

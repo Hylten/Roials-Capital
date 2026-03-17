@@ -20,7 +20,7 @@ The objective is to provide institutional level clarity on the mechanisms, filte
 
 The analysis is clinically centered on three domains that dominate current allocator attention: Kapitalanskaffning for Buyout and Add on execution, Liquidity Engineering through ABL and hybrid security structures, and Special Mandates that connect North American energy opportunities with European MiFID II compliant family capital.
 
-Phase I: .
+### Phase I: .
 
  
 
@@ -28,9 +28,7 @@ Phase I: .
 
 ## THE REGIME SHIFT
 
-20
-
-26 is defined by a shift away from credit markets based on generic risk tranching.
+2026 is defined by a shift away from credit markets based on generic risk tranching.
 
 A decade of under underwriting in essential industries has created a misalignment between available capital and productive capital.
 
@@ -54,7 +52,7 @@ This created an environment where strategic private credit has become a core gov
 
 The convergence of energy supply tightness, reduced public market capital access, and a global shift toward bilateral lending has elevated the relevance of specialized credit partners who can operate across jurisdictions, asset classes, and industrial cycles.
 
-Phase II: .
+### Phase II: .
 
  
 
@@ -110,7 +108,7 @@ Their discipline is not based on speculative drilling.
 
 It is based on engineered recovery, fluid mobility management, thermal efficiency, and multi year field development frameworks that align with institutional underwriting criteria.
 
-Phase III: .
+### Phase III: .
 
 THE PARTNERSHIP MODEL.
 
@@ -156,8 +154,7 @@ The remaining
 
 50 to 
 
-25
-0 million range, or MiFID II compliant acquisitions for European family offices.
+250 million range, or MiFID II compliant acquisitions for European family offices.
 
 These mandates require multidomain intelligence: regulatory coordination, asset hardening, jurisdictional matching, and operational validation.
 
@@ -165,7 +162,7 @@ The objective is alignment, not marketing.
 
 The role is to introduce, structure, and verify.
 
-Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER .
 
@@ -174,7 +171,9 @@ THEOLOGY OF CAPITAL Stewardship is not a rhetorical device.
 It is a governance discipline.
 
 In capital architecture, stewardship is the commitment to avoid waste, misalignment, and opportunistic behaviors that degrade enterprise value over time. **Proverbs 13:22
-*
+
+* 
+
 * provides the structural lens: capital must be organized so that its impact exceeds the decision maker’s lifespan.
 
 This principle informs allocation, leverage calibration, and counterparty selection.
@@ -201,9 +200,7 @@ Institutions eliminate operators who treat governance as compliance rather than 
 
 Opportunity Velocity.
 
-Executing in 20
-
-26 requires the ability to move cleanly into opportunities when markets present structural dislocations.
+Executing in 2026 requires the ability to move cleanly into opportunities when markets present structural dislocations.
 
 The challenge is speed without recklessness.
 
@@ -211,11 +208,9 @@ Stewardship calibrates this.
 
 The goal is disciplined velocity.
 
-Phase V: .
+### Phase V: .
 
-DECISION MAKING LENS FOR ALLOCATORS Allocators in 20
-
-26 are navigating an environment defined by scarcity of high quality credits, geopolitical fragmentation, and a growing separation between productive and non productive capital.
+DECISION MAKING LENS FOR ALLOCATORS Allocators in 2026 are navigating an environment defined by scarcity of high quality credits, geopolitical fragmentation, and a growing separation between productive and non productive capital.
 
 The strategic decision making lens for UHNW entrepreneurs and institutional LPs can be framed through three criteria: Alignment.
 

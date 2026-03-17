@@ -132,8 +132,7 @@ Their liquidity profile is immediate, but their price sensitivity is reactive.
 
 This is why Roials Capital maintains a minimum threshold of 5,000,
 
-00
-0 for public share Monetization Architecture.
+000 for public share Monetization Architecture.
 
 We work with clients whose positions are significant enough to require institutional handling.
 
@@ -377,8 +376,7 @@ To understand how your assets integrate into our institutional architecture, req
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

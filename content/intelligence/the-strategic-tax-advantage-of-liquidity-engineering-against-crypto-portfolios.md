@@ -82,11 +82,15 @@ Liquidity is not the same as liquidation.
 
 A collateralized liquidity facility preserves it.
 
-When the crypto asset continues appreciating, the investor gains the amplified effect of: 
--  Deferred taxation 
--  Continued asset growth 
--  Access to liquidity for other opportunities 
--  Leverage capacity that increases as the portfolio grows This creates a compounding structure that is mathematically superior to selling.
+When the crypto asset continues appreciating, the investor gains the amplified effect of:
+
+- Deferred taxation
+
+- Continued asset growth
+
+- Access to liquidity for other opportunities
+
+- Leverage capacity that increases as the portfolio grows This creates a compounding structure that is mathematically superior to selling.
 
 The liquidity facility interest becomes the cost of maintaining the tax advantage.
 
@@ -112,11 +116,15 @@ Liquidity out.
 
 No need to unwind positions.
 
-For crypto holders with multi-million dollar exposure the model solves several problems simultaneously. 
--  Liquidity without tax 
--  Funding without dilution 
--  Access to leverage without market disruption 
--  Preservation of long-term strategic positions Traditional lenders are not built for this.
+For crypto holders with multi-million dollar exposure the model solves several problems simultaneously.
+
+- Liquidity without tax
+
+- Funding without dilution
+
+- Access to leverage without market disruption
+
+- Preservation of long-term strategic positions Traditional lenders are not built for this.
 
 ROIALS CAPITAL is.
 
@@ -146,11 +154,15 @@ Immediate taxation at long-term or short-term rates.
 
 Reduction of market exposure.
 
-Loss of compounding. balance sheet optimization has different consequences. 
--  No tax triggered 
--  Asset retains market exposure 
--  Liquidity is immediate and strategic 
--  liquidity facility interest becomes manageable relative to asset performance For high net worth investors who understand leverage cycles, the comparison resolves itself. 
+Loss of compounding. balance sheet optimization has different consequences.
+
+- No tax triggered
+
+- Asset retains market exposure
+
+- Liquidity is immediate and strategic
+
+- liquidity facility interest becomes manageable relative to asset performance For high net worth investors who understand leverage cycles, the comparison resolves itself. 
 
 ## Why Minimum Thresholds Matter ROIALS CAPITAL does not operate at retail scale.
 
@@ -208,11 +220,15 @@ The objective is to turn volatile assets into reliable collateral.
 
 ## Integration With Broader Wealth Architectures HNWI and UHNW clients rarely operate in isolation.
 
-Crypto portfolios sit alongside real estate, private equity, operating companies, and public shares. balance sheet optimization against crypto allows the investor to: 
--  Deploy liquidity into higher-yield opportunities 
--  Strengthen balance sheet leverage 
--  Avoid selling appreciated positions across portfolios 
--  Maintain cross-asset stability This integration transforms crypto from a volatile component to a functional instrument within a broader wealth strategy. 
+Crypto portfolios sit alongside real estate, private equity, operating companies, and public shares. balance sheet optimization against crypto allows the investor to:
+
+- Deploy liquidity into higher-yield opportunities
+
+- Strengthen balance sheet leverage
+
+- Avoid selling appreciated positions across portfolios
+
+- Maintain cross-asset stability This integration transforms crypto from a volatile component to a functional instrument within a broader wealth strategy. 
 
 ## The Future of Tax Efficient Institutional Liquidity Paths in Digital Markets The regulatory environment continues to stabilize.
 
@@ -242,8 +258,7 @@ ROIALS CAPITAL provides the institutional architecture to execute this strategy 
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

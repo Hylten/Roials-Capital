@@ -292,7 +292,9 @@ That is a predictable failure point.
 Private credit is not a game of yield.
 
 It is a theology of allocation. **Proverbs 13:22
-*
+
+* 
+
 * defines 
 
 ## THE MANDATE
@@ -385,8 +387,7 @@ Anything below
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Request confidential capital audit.
 

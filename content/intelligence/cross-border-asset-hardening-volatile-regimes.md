@@ -52,8 +52,7 @@ That makes geographic concentration the new exposure.
 
 Enforcement timelines now vary by more than 
 
-60
-0 percent across OECD adjacent markets.
+600 percent across OECD adjacent markets.
 
 Currency defence strategies diverge by ideological preference rather than macro fundamentals.
 
@@ -73,10 +72,13 @@ Meanwhile, North African and Eastern Corridor assets offer high-grade reservoir 
 
 This is why cross-border hardening is no longer a strategic elective.
 
-It is the minimum functional requirement for a Fund-III structure that intends to operate beyond a single political cycle. 
--  Regulatory divergence between capital markets and operational permitting. 
--  Cross-border insolvency fragmentation, especially in the EEA outer band. 
--  Institutional capital’s reduced appetite for unsecured jurisdictional risk.
+It is the minimum functional requirement for a Fund-III structure that intends to operate beyond a single political cycle.
+
+- Regulatory divergence between capital markets and operational permitting.
+
+- Cross-border insolvency fragmentation, especially in the EEA outer band.
+
+- Institutional capital’s reduced appetite for unsecured jurisdictional risk.
 
 We do not chase yield.
 
@@ -142,11 +144,15 @@ You do not defend an asset through return mechanics.
 
 You defend it through procedural mechanics.
 
-A waterfall must assume: 
--  Delayed proceeds recognition across borders. 
--  Asynchronous tax treatments. 
--  Divergent netting conventions. 
--  Two-tier escrow requirements.
+A waterfall must assume:
+
+- Delayed proceeds recognition across borders.
+
+- Asynchronous tax treatments.
+
+- Divergent netting conventions.
+
+- Two-tier escrow requirements.
 
 Asset-Based Lending integration becomes the hardening accelerator.
 
@@ -243,18 +249,24 @@ It is a command.
 Wealth requires governance because resources left ungoverned decay.
 
 Biblical stewardship elevates clarity above spectacle. **Proverbs 13:22
-*
+
+* 
+
 * describes the continuity of ordered capital across generations.
 
 That is the standard.
 
 Not the mythology of high-risk speculation.
 
-Stewardship filters every decision in the Fund-III mandate: 
--  Assets must harden under pressure, not cosmetically appreciate. 
--  Ownership structures must avoid legislative exposure. 
--  Debt instruments must improve moral solvency, not mask operational gaps. 
--  Cash-flow must be actual, not performative.
+Stewardship filters every decision in the Fund-III mandate:
+
+- Assets must harden under pressure, not cosmetically appreciate.
+
+- Ownership structures must avoid legislative exposure.
+
+- Debt instruments must improve moral solvency, not mask operational gaps.
+
+- Cash-flow must be actual, not performative.
 
 Theology and finance intersect at responsibility.
 
@@ -280,10 +292,13 @@ The cross-border hardening model is simply the institutional expression of that 
 
 ## EXIT Exit discipline requires measurable thresholds.
 
-Fund-III uses three: 
--  Hardening Delta measured as the reduction in enforcement timeline variance. 
--  Cash-Flow Continuity Index anchored to operational uptime across jurisdictions. 
--  Recovery Certainty Ratio calibrated to the lowest performing jurisdiction.
+Fund-III uses three:
+
+- Hardening Delta measured as the reduction in enforcement timeline variance.
+
+- Cash-Flow Continuity Index anchored to operational uptime across jurisdictions.
+
+- Recovery Certainty Ratio calibrated to the lowest performing jurisdiction.
 
 Request a confidential capital audit. [END]
 
@@ -291,8 +306,7 @@ Request a confidential capital audit. [END]
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

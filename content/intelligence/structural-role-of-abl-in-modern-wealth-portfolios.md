@@ -18,9 +18,7 @@ In the current regime, ABL functions not as a niche credit instrument but as an 
 
 ## THE REGIME SHIFT
 
- The post 20
-
-20 era initiated a structural divergence between credit availability and real asset productivity.
+ The post 2020 era initiated a structural divergence between credit availability and real asset productivity.
 
 Bank retrenchment followed Basel III reforms and their European equivalents, producing a systematic constraint on collateral based lending even in cases where asset productivity remained strong.
 
@@ -78,30 +76,31 @@ Core components of institutional grade ABL mechanics include the following.
 
 Collateral stratification ABL structures segment collateral into discreet valuation buckets to maintain clarity around borrowing base composition.
 
-Common categories include: 
--  Accounts receivable eligible vs ineligible 
--  Inventory adjusted for obsolescence 
--  Equipment with orderly liquidation value (OLV) 
--  Real assets at net appraisal value This stratification gives lenders and allocators transparency into the composition of risk. 
+Common categories include:
+
+- Accounts receivable eligible vs ineligible
+
+- Inventory adjusted for obsolescence
+
+- Equipment with orderly liquidation value (OLV)
+
+- Real assets at net appraisal value This stratification gives lenders and allocators transparency into the composition of risk. 
 
 2.
 
 LTV curve optimization Loan to Value ratios are not static percentages but curves adjusted for asset type, industry volatility, and borrower discipline.
 
-Typical curves include: 
--  
+Typical curves include:
 
-70 to 
+- 70 to 
 
-90 percent for diversified receivables 
--  
+90 percent for diversified receivables
 
-40 to 
+- 40 to 
 
-60 percent for inventory with verified turnover 
--  
+60 percent for inventory with verified turnover
 
-50 to 
+- 50 to 
 
 75 percent for equipment with strong residual values Precision in LTV calibration produces predictable cash flow behavior across credit cycles. 
 
@@ -133,11 +132,15 @@ Even in stressed operating environments, recovery outcomes are anchored in asset
 
 6.
 
-Integration with acquisitions In buyout or Fund-III contexts, ABL functions as the operational liquidity lever used to support: 
--  Working capital normalization 
--  Vendor payment smoothing 
--  Inventory expansion 
--  Integration expenditures This ensures that equity is preserved for strategic initiatives rather than absorbed by short term liquidity demands.
+Integration with acquisitions In buyout or Fund-III contexts, ABL functions as the operational liquidity lever used to support:
+
+- Working capital normalization
+
+- Vendor payment smoothing
+
+- Inventory expansion
+
+- Integration expenditures This ensures that equity is preserved for strategic initiatives rather than absorbed by short term liquidity demands.
 
 ABL therefore becomes a structural pillar for both borrowers and allocators.
 
@@ -149,18 +152,15 @@ THE PARTNERSHIP MODEL ROIALS Capital operates as a strategic navigator and insti
 
 The role is not to originate or hold ABL assets but to provide allocators with operational intelligence, structural clarity, and curated access to counterparties aligned with institutional risk disciplines.
 
-In the broader capital raising framework, the allocation focus aligns as follows. 
--  
+In the broader capital raising framework, the allocation focus aligns as follows.
 
-80 percent: Kapitalanskaffning for Fund-III and successor buyout or add on environments.
+- 80 percent: Kapitalanskaffning for Fund-III and successor buyout or add on environments.
 
-This includes institutional introductions and capital stack optimization for large scale acquisition agendas. 
--  
+This includes institutional introductions and capital stack optimization for large scale acquisition agendas.
 
-10 percent: ABL as a Liquidity Engineering mechanism that stabilizes acquisition portfolios and supports operating company agility. 
--  
+- 10 percent: ABL as a Liquidity Engineering mechanism that stabilizes acquisition portfolios and supports operating company agility.
 
-10 percent: Special mandates including North American Energy Optimization Capital and MiFID II compliant European acquisition frameworks.
+- 10 percent: Special mandates including North American Energy Optimization Capital and MiFID II compliant European acquisition frameworks.
 
 ABL is integrated as a functional liquidity layer, not a standalone product.
 
@@ -189,7 +189,9 @@ ABL naturally supports this principle through its collateral anchored structure.
 2.
 
 Moral clarity in resource management Stewardship integrates the principle articulated in **Proverbs 13:22
-*
+
+* 
+
 * which frames intergenerational capital as both responsibility and inheritance.
 
 In institutional terms, this translates to maintaining balance sheets that endure across cycles rather than pursuing short term gains. 
@@ -222,10 +224,13 @@ This produces cleaner capital stacks, sharper integration timelines, and optimiz
 
 3.
 
-Alignment with institutional archetypes Different allocator archetypes use ABL differently: 
--  UHNW families: As a stabilizer to balance equity heavy exposures. 
--  Institutional LPs: As a liquidity anchor that complements longer duration strategies. 
--  Private credit managers: As a structural senior component that supports portfolio risk management.
+Alignment with institutional archetypes Different allocator archetypes use ABL differently:
+
+- UHNW families: As a stabilizer to balance equity heavy exposures.
+
+- Institutional LPs: As a liquidity anchor that complements longer duration strategies.
+
+- Private credit managers: As a structural senior component that supports portfolio risk management.
 
 This alignment produces a coherent portfolio architecture where liquidity, duration, and seniority are harmonized.
 

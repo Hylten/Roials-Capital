@@ -122,13 +122,19 @@ There is no middle category in institutional evaluation.
 
 It ensures that every capital deployment has a fortified perimeter and real-time visibility.
 
-Hardening includes: 
--  Eliminating informational asymmetry. 
--  Digitizing covenant tracking. 
--  Enforcing liquidation paths before origination. 
--  Securing cross-collateral mapping. 
--  Restricting borrower volatility through predefined triggers. 
--  Using predictive failure analytics to identify stress markers.
+Hardening includes:
+
+- Eliminating informational asymmetry.
+
+- Digitizing covenant tracking.
+
+- Enforcing liquidation paths before origination.
+
+- Securing cross-collateral mapping.
+
+- Restricting borrower volatility through predefined triggers.
+
+- Using predictive failure analytics to identify stress markers.
 
 This transforms originators from capital allocators into structural architects.
 
@@ -144,19 +150,19 @@ The filtration stage is the hidden gate that protects the allocator.
 
 The Roials filtration sequence operates in four ultra-short phases.
 
-Phase I: .
+### Phase I: .
 
 Mandate alignment verification.
 
-Phase II: .
+### Phase II: .
 
 Covenant compatibility check.
 
-Phase III: .
+### Phase III: .
 
 Liquidity stress simulation.
 
-Phase IV: .
+### Phase IV: .
 
 Counterparty ethics clearance.
 
@@ -214,11 +220,15 @@ Rapid clarity.
 
 Velocity is measured in the speed at which the platform moves from inquiry to decision with zero compromise in analysis quality.
 
-Institutions partner with platforms that demonstrate velocity because: 
--  It eliminates execution drift. 
--  It strengthens covenant control. 
--  It increases allocator confidence. 
--  It compresses borrower uncertainty.
+Institutions partner with platforms that demonstrate velocity because:
+
+- It eliminates execution drift.
+
+- It strengthens covenant control.
+
+- It increases allocator confidence.
+
+- It compresses borrower uncertainty.
 
 Velocity is not speed for its own sake.
 
@@ -230,13 +240,19 @@ They do not chase yield.
 
 They chase control, covenant security, and principal integrity.
 
-The Roials framework aligns with this evaluation pattern. 
--  Fully collateralized architecture. 
--  Low variance return bands. 
--  Structural buffers against liquidity shocks. 
--  Clear liquidation mechanics. 
--  No narrative dependencies. 
--  Transparent inspection of originator protocols.
+The Roials framework aligns with this evaluation pattern.
+
+- Fully collateralized architecture.
+
+- Low variance return bands.
+
+- Structural buffers against liquidity shocks.
+
+- Clear liquidation mechanics.
+
+- No narrative dependencies.
+
+- Transparent inspection of originator protocols.
 
 The result is a capital environment where the allocator experiences sovereignty, not uncertainty. 
 
@@ -264,12 +280,17 @@ They select intelligence partners.
 
 The intelligence layer proves that the principal does not rely on luck, intuition, or informal judgment.
 
-It includes: 
--  Macro readouts on liquidity fractures. 
--  Microstructural analysis of borrower ecosystems. 
--  Recovery modeling under dislocation conditions. 
--  Transaction sequencing logs. 
--  Counterparty trust analytics.
+It includes:
+
+- Macro readouts on liquidity fractures.
+
+- Microstructural analysis of borrower ecosystems.
+
+- Recovery modeling under dislocation conditions.
+
+- Transaction sequencing logs.
+
+- Counterparty trust analytics.
 
 This is the sovereign differentiator.
 
@@ -279,13 +300,19 @@ The intelligence layer elevates the principal from operator to architect.
 
 A hardened platform operates under permanent preparedness.
 
-Stress protocols include: 
--  Daily liquidity drift tracking. 
--  Covenant breach early-warning signals. 
--  Counterparty degradation indicators. 
--  Live collateral impairment monitoring. 
--  Recovery path recalibration. 
--  Reserve adequacy checks.
+Stress protocols include:
+
+- Daily liquidity drift tracking.
+
+- Covenant breach early-warning signals.
+
+- Counterparty degradation indicators.
+
+- Live collateral impairment monitoring.
+
+- Recovery path recalibration.
+
+- Reserve adequacy checks.
 
 Stress protocols eliminate panic because they eliminate surprise.
 
@@ -337,12 +364,17 @@ Platforms with hardened structures and covenant stewardship will dominate.
 
 Platforms without order will be removed from allocator consideration.
 
-The market now rewards: 
--  Discipline over marketing. 
--  Covenant density over showmanship. 
--  Integrity over opportunism. 
--  Preparedness over speculation. 
--  Architecture over improvisation.
+The market now rewards:
+
+- Discipline over marketing.
+
+- Covenant density over showmanship.
+
+- Integrity over opportunism.
+
+- Preparedness over speculation.
+
+- Architecture over improvisation.
 
 This is the new standard.
 
@@ -374,8 +406,7 @@ If the capital is protected, long-term partnership emerges.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

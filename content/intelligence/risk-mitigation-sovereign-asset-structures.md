@@ -18,7 +18,7 @@ This briefing outlines the stability mechanics within sovereign and quasi sovere
 
 The intention is to provide institutional allocators, UHNW family offices, and GP level strategists with a clinical view of how risk is shaped, reduced, and redistributed in Fund-III buyout pathways, liquidity engineering mandates, and North American energy operating corridors through our strategic partner NAEO.
 
-Phase I: .
+### Phase I: .
 
  
 
@@ -58,7 +58,7 @@ Replacement cost has risen faster than sale multiples in several jurisdictions, 
 
 This creates intrinsic downside protection when executed with balance sheet optimization and asset hardening principles.
 
-Phase II: .
+### Phase II: .
 
  
 
@@ -160,7 +160,7 @@ This is why our strategic partner NAEO is positioned as an institutional grade o
 
 The relationship provides allocators with operational intelligence, not commodity exposure.
 
-Phase III: .
+### Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator and institutional
 
@@ -188,12 +188,14 @@ Roials Capital provides the macro navigation and institutional match making.
 
 This partnership model creates risk transparency across the entire decision chain.
 
-Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship is a discipline that treats capital as a resource to be managed, not consumed.
 
 It is aligned with the principle found in **Proverbs 13:22
-*
+
+* 
+
 * which emphasizes the intergenerational responsibility of resource allocation.
 
 For institutional allocators, stewardship manifests through: 
@@ -216,7 +218,7 @@ Asset Hardening Real assets are strengthened against macro shocks through operat
 
 The stewardship filter functions as an internal audit mechanism that ensures all allocations have institutional durability rather than narrative fragility.
 
-Phase V: .
+### Phase V: .
 
 THE
 

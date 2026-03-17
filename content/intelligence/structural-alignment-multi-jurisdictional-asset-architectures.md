@@ -58,17 +58,20 @@ Cold flow operations in the Alberta Basin operate without thermal systems and re
 
 Institutional allocators evaluating these assets often underestimate the mechanical certainty embedded within mature reservoirs where the recovery factor is historically grounded in basin physics rather than speculative drilling.
 
-For instance: 
--  Cold flow assets often maintain 
+For instance:
+
+- Cold flow assets often maintain 
 8 percent to 
 
-12 percent annual declines, enabling long term production modeling with minimal variance. 
--  SAGD recovery factors commonly range between 
+12 percent annual declines, enabling long term production modeling with minimal variance.
+
+- SAGD recovery factors commonly range between 
 
 45 percent and 
 
-65 percent of original bitumen in place when reservoir design is optimized. 
--  CSS deployment increases operational complexity but can substantially extend economic life where reservoir pressure characteristics support repeated cycles.
+65 percent of original bitumen in place when reservoir design is optimized.
+
+- CSS deployment increases operational complexity but can substantially extend economic life where reservoir pressure characteristics support repeated cycles.
 
 These mechanics matter because they directly influence capital structure design, debt coverage ratios, and the durability of cross border collateralization.
 
@@ -80,11 +83,15 @@ Structural seniority becomes essential.
 
 Senior secured instruments anchored to long life assets with predictable cash flow distribution sequencing are increasingly favored.
 
-In buyout platforms, particularly Fund-III and Fund IV strategies, multi jurisdiction integration requires: 
--  Jurisdictional harmonization for subsidiary level debt instruments. 
--  Clear waterfall sequencing for distributions across EU HoldCos, North American OpCos, and Middle Eastern investment vehicles. 
--  Opportunity velocity calibration to ensure bolt on acquisitions enhance yield on cost without fracturing governance. 
--  Replacement cost benchmarks to validate pricing on physical or industrial assets.
+In buyout platforms, particularly Fund-III and Fund IV strategies, multi jurisdiction integration requires:
+
+- Jurisdictional harmonization for subsidiary level debt instruments.
+
+- Clear waterfall sequencing for distributions across EU HoldCos, North American OpCos, and Middle Eastern investment vehicles.
+
+- Opportunity velocity calibration to ensure bolt on acquisitions enhance yield on cost without fracturing governance.
+
+- Replacement cost benchmarks to validate pricing on physical or industrial assets.
 
 ABL facilities are being deployed to create Liquidity Engineering frameworks that stabilize portfolio companies without diluting equity.
 
@@ -94,11 +101,15 @@ THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator whose man
 
 Within the North American energy landscape, NAEO functions as the technical operator with domain expertise in Alberta heavy oil and thermal systems.
 
-Roials Capital maintains introducer neutrality and provides operational intelligence so that allocators understand: 
--  Recovery mechanics. 
--  Basin physics. 
--  Structural optionality across capital formation pathways. 
--  Cross jurisdictional governance requirements.
+Roials Capital maintains introducer neutrality and provides operational intelligence so that allocators understand:
+
+- Recovery mechanics.
+
+- Basin physics.
+
+- Structural optionality across capital formation pathways.
+
+- Cross jurisdictional governance requirements.
 
 For private equity funds scaling Fund-III and Fund IV cycles, alignment requires clarity on capitalization velocity, LP communication protocols, and integration frameworks for acquisitive platforms.
 
@@ -106,11 +117,15 @@ Roials Capital supports strategic alignment so capital raising cycles mirror the
 
 In special mandates, including MiFID II acquisition pathways and North American energy consolidation, Roials Capital acts as the institutional interface, ensuring that allocators maintain jurisdictional clarity and governance cohesion.
 
-This includes: 
--  Multi domicile structuring. 
--  Regulatory harmonization. 
--  Seniority mapping across legal systems. 
--  Asset originator transparency. 
+This includes:
+
+- Multi domicile structuring.
+
+- Regulatory harmonization.
+
+- Seniority mapping across legal systems.
+
+- Asset originator transparency. 
 
  
 
@@ -121,7 +136,9 @@ This includes:
 In evaluating multi jurisdictional asset structures, stewardship translates into non wasteful capital deployment, precision in resource management, and governance that aligns authority with responsibility.
 
 It draws from the principle in **Proverbs 13:22
-*
+
+* 
+
 * where long term value creation is connected to generational discipline.
 
 Within energy systems, stewardship means deploying capital where decline profiles, reservoir physics, and operational governance reduce the probability of waste.
@@ -132,12 +149,17 @@ In cross border buyouts, stewardship demands clarity of control, avoidance of ov
 
 DECISION MAKING LENS FOR THE ALLOCATOR Institutional allocators engaging with multi jurisdictional assets require a calibration lens that aligns capital formation with structural durability.
 
-The allocator must examine: 
--  Jurisdictional enforceability. 
--  Operational mechanics of the underlying asset. 
--  Cash flow visibility over multi year horizons. 
--  Cross collateralization resilience. 
--  Governance synchronization between LP requirements and GP execution.
+The allocator must examine:
+
+- Jurisdictional enforceability.
+
+- Operational mechanics of the underlying asset.
+
+- Cash flow visibility over multi year horizons.
+
+- Cross collateralization resilience.
+
+- Governance synchronization between LP requirements and GP execution.
 
 The next stage is not transactional.
 

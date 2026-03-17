@@ -106,11 +106,15 @@ ROIALS CAPITAL positions private credit not as an investment product but as a so
 
 It is a precision tool used to control liquidity sequencing.
 
-We lend against: 
--  Private credit positions 
--  Illiquid assets and structured holdings 
--  Digital assets at scale 
--  Public equities that satisfy our liquidity and risk criteria Each Monetization Architecture environment is engineered with institutional-grade protocols and silent enforcement.
+We lend against:
+
+- Private credit positions
+
+- Illiquid assets and structured holdings
+
+- Digital assets at scale
+
+- Public equities that satisfy our liquidity and risk criteria Each Monetization Architecture environment is engineered with institutional-grade protocols and silent enforcement.
 
 The architecture stands without visible effort. 
 
@@ -120,11 +124,15 @@ For the HNWI and UHNW individual, Asset-Based Lending is a cross-jurisdictional 
 
 It converts diverse assets into transferable capital, allowing wealth to migrate without liquidation events.
 
-Asset-Based Lending provides four strategic advantages: 
--  Mobility: Capital can be shifted across regulatory zones. 
--  Continuity: Core positions remain undisturbed. 
--  Velocity: Deployment cycles accelerate. 
--  Asymmetry: Clients operate with leverage that does not erode compounding.
+Asset-Based Lending provides four strategic advantages:
+
+- Mobility: Capital can be shifted across regulatory zones.
+
+- Continuity: Core positions remain undisturbed.
+
+- Velocity: Deployment cycles accelerate.
+
+- Asymmetry: Clients operate with leverage that does not erode compounding.
 
 ROIALS CAPITAL uses Asset-Based Lending as a structural skeleton.
 
@@ -146,11 +154,15 @@ It is not speculative leverage.
 
 It is strategic liquidity extracted from a digital reserve without disturbing market exposure.
 
-The mechanics include: 
--  Institutional-grade custody 
--  Silent margin controls 
--  Non-disruptive reporting flows 
--  Execution protocols designed for high-volume entities For clients operating inside digital sovereignty environments, this structure becomes a core architecture layer. 
+The mechanics include:
+
+- Institutional-grade custody
+
+- Silent margin controls
+
+- Non-disruptive reporting flows
+
+- Execution protocols designed for high-volume entities For clients operating inside digital sovereignty environments, this structure becomes a core architecture layer. 
 
 ## Public Share Strategic Collateralization and the Preservation of Market Footprint Public equities remain a foundational component of most client portfolios.
 
@@ -162,21 +174,29 @@ We unlock liquidity against the holdings without disrupting the position itself.
 
 Minimum engagement begins at five million dollars, where structural efficiency becomes optimal.
 
-This structure allows clients to: 
--  Maintain market posture 
--  Avoid strategic signaling 
--  Preserve long-term compounding 
--  Extract usable capital without altering exposure The result is a clean separation between ownership and liquidity.
+This structure allows clients to:
+
+- Maintain market posture
+
+- Avoid strategic signaling
+
+- Preserve long-term compounding
+
+- Extract usable capital without altering exposure The result is a clean separation between ownership and liquidity.
 
 A separation that preserves strategic anonymity and operational power. 
 
 ## Building Sovereignty Through Liquidity Architecture Sovereignty in the digital era is built through structure, not through accumulation.
 
-The architecture we construct is designed to give clients: 
--  Freedom of movement across jurisdictions 
--  Controlled access to liquidity from illiquid holdings 
--  Reduced dependency on legacy institutions 
--  The ability to operate like a private bank with no public footprint Every structure is bespoke, but the underlying principle is constant.
+The architecture we construct is designed to give clients:
+
+- Freedom of movement across jurisdictions
+
+- Controlled access to liquidity from illiquid holdings
+
+- Reduced dependency on legacy institutions
+
+- The ability to operate like a private bank with no public footprint Every structure is bespoke, but the underlying principle is constant.
 
 Liquidity is engineered, not requested.
 
@@ -242,8 +262,7 @@ The principal authority that supports sovereign capital movement in an era defin
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

@@ -88,10 +88,13 @@ Crypto liquidity solves for velocity.
 
 ROIALS CAPITAL solves for stability.
 
-When sovereign entities approach us, they often arrive with one of the following mandates: 
--  Liquidity for strategic investment rounds without altering public balance sheet optics 
--  Collateralized access to capital during macro‑volatility cycles 
--  Cross‑border deployment with reduced settlement latency The advantage is not only speed.
+When sovereign entities approach us, they often arrive with one of the following mandates:
+
+- Liquidity for strategic investment rounds without altering public balance sheet optics
+
+- Collateralized access to capital during macro‑volatility cycles
+
+- Cross‑border deployment with reduced settlement latency The advantage is not only speed.
 
 It is discretion.
 
@@ -103,10 +106,13 @@ The capital moves, but the optics remain still.
 
 ROIALS CAPITAL applies the same discipline within digital asset ecosystems.
 
-We evaluate creditworthiness based on: 
--  Underlying asset behavior across multiple timeframes 
--  Off‑chain wealth and collateral structures 
--  Counterparty integrity and operational risk limiters This creates a high‑trust framework where digital assets become a gateway to liquidity, not a speculative exposure.
+We evaluate creditworthiness based on:
+
+- Underlying asset behavior across multiple timeframes
+
+- Off‑chain wealth and collateral structures
+
+- Counterparty integrity and operational risk limiters This creates a high‑trust framework where digital assets become a gateway to liquidity, not a speculative exposure.
 
 We do not chase volatility.
 
@@ -124,10 +130,13 @@ It allows us to convert complex asset holdings into predictable balance sheet op
 
 For sovereign entities, this is critical, because many of their assets sit outside standard banking classification.
 
-When we issue a Capital Structuring facility, we run a process that includes: 
--  Asset evaluation across liquid and illiquid domains 
--  Multi‑layer collateral segmentation 
--  Structural risk floors that eliminate systemic vulnerability The output is a Institutional Liquidity Paths line that behaves predictably, even in volatile markets.
+When we issue a Capital Structuring facility, we run a process that includes:
+
+- Asset evaluation across liquid and illiquid domains
+
+- Multi‑layer collateral segmentation
+
+- Structural risk floors that eliminate systemic vulnerability The output is a Institutional Liquidity Paths line that behaves predictably, even in volatile markets.
 
 The client obtains liquidity.
 
@@ -143,10 +152,13 @@ That is not our domain.
 
 At two million dollars and above, the capital behaves differently.
 
-It responds to: 
--  Portfolio‑level strategies 
--  Balance sheet optimization 
--  Multi‑jurisdictional deployment requirements The Monetization Architecture facility becomes part of a capital architecture, not a trade.
+It responds to:
+
+- Portfolio‑level strategies
+
+- Balance sheet optimization
+
+- Multi‑jurisdictional deployment requirements The Monetization Architecture facility becomes part of a capital architecture, not a trade.
 
 That distinction is where our expertise becomes relevant. 
 
@@ -156,10 +168,13 @@ They carry market optics, regulatory shadows, and liquidity patterns that requir
 
 Our five million dollar threshold allows us to absorb these complexities while maintaining operational precision.
 
-Clients often use public share Monetization Architecture to: 
--  Maintain portfolio exposure while unlocking capital 
--  Fund private deals without disturbing public positions 
--  Manage concentrated equity holdings Our role is to ensure that the liquidity line is invisible, stable, and mechanically precise. 
+Clients often use public share Monetization Architecture to:
+
+- Maintain portfolio exposure while unlocking capital
+
+- Fund private deals without disturbing public positions
+
+- Manage concentrated equity holdings Our role is to ensure that the liquidity line is invisible, stable, and mechanically precise. 
 
 ## The Sovereign Entity Advantage Sovereign entities operate on long time horizons.
 
@@ -167,10 +182,13 @@ Their focus is national stability, economic influence, and generational capital 
 
 Crypto liquidity, when architected correctly, becomes a tactical tool that supports these objectives.
 
-ROIALS CAPITAL provides: 
--  Confidential liquidity lines that operate outside the public domain 
--  High‑velocity capital for strategic national initiatives 
--  Structural mechanisms that reduce exposure to geopolitical friction We build the infrastructure.
+ROIALS CAPITAL provides:
+
+- Confidential liquidity lines that operate outside the public domain
+
+- High‑velocity capital for strategic national initiatives
+
+- Structural mechanisms that reduce exposure to geopolitical friction We build the infrastructure.
 
 The sovereign entity executes strategy.
 
@@ -192,10 +210,13 @@ ROIALS CAPITAL integrates this corridor with institutional safeguards so that th
 
 Every Strategic Collateralization operation must be encased in a risk architecture that neutralizes operational variability.
 
-Our risk structure includes: 
--  Multi‑collateral locking mechanisms 
--  Isolated custody frameworks 
--  Counterparty hazard reduction protocols These are not optional features.
+Our risk structure includes:
+
+- Multi‑collateral locking mechanisms
+
+- Isolated custody frameworks
+
+- Counterparty hazard reduction protocols These are not optional features.
 
 They are the foundation that allows a two million dollar or fifty million dollar Asset-Backed Frameworks line to behave as predictably as a traditional credit facility.
 
@@ -211,10 +232,13 @@ They do not respond to sales language.
 
 They respond to architecture.
 
-ROIALS CAPITAL provides: 
--  Institutional clarity 
--  Silent operational mechanics 
--  High‑trust execution Our framework is engineered for decision makers who move capital at scale. 
+ROIALS CAPITAL provides:
+
+- Institutional clarity
+
+- Silent operational mechanics
+
+- High‑trust execution Our framework is engineered for decision makers who move capital at scale. 
 
 ## Liquidity Without Narrative One of the defining characteristics of ROIALS CAPITAL is the absence of narrative.
 
@@ -268,8 +292,7 @@ For entities operating in silence, we build the architecture that moves capital 
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

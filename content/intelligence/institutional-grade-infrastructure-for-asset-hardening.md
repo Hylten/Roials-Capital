@@ -24,10 +24,13 @@ Protect the underlying asset, preserve mobility of capital, and maintain princip
 
 It requires containment, separation, and design that isolates risks from one another.
 
-ROIALS CAPITAL structures rely on multi layered containment that ensures: 
--  No event in one asset class affects the integrity of another. 
--  Collateral remains insulated from market anomalies. 
--  Liquidity channels remain uninterrupted.
+ROIALS CAPITAL structures rely on multi layered containment that ensures:
+
+- No event in one asset class affects the integrity of another.
+
+- Collateral remains insulated from market anomalies.
+
+- Liquidity channels remain uninterrupted.
 
 This architecture provides a level of stability expected only in institutional ecosystems. 
 
@@ -35,10 +38,13 @@ This architecture provides a level of stability expected only in institutional e
 
 ROIALS CAPITAL provides systems that define these mechanics with clarity.
 
-Clients gain a framework where: 
--  Collateral movement is intentional. 
--  Liquidity timelines are predictable. 
--  Documentation and custody remain unimpeachable.
+Clients gain a framework where:
+
+- Collateral movement is intentional.
+
+- Liquidity timelines are predictable.
+
+- Documentation and custody remain unimpeachable.
 
 This becomes the baseline for long-term wealth engineering. 
 
@@ -46,10 +52,13 @@ This becomes the baseline for long-term wealth engineering.
 
 ROIALS CAPITAL’s infrastructures are built to function across regions with varied financial architectures.
 
-This includes: 
--  Jurisdictional compliance layers. 
--  Multi region custody options. 
--  Frameworks that adapt to regional liquidity environments.
+This includes:
+
+- Jurisdictional compliance layers.
+
+- Multi region custody options.
+
+- Frameworks that adapt to regional liquidity environments.
 
 Flexibility becomes a structural advantage that keeps capital operational regardless of geography. 
 
@@ -57,11 +66,15 @@ Flexibility becomes a structural advantage that keeps capital operational regard
 
 The ability to dictate how assets behave under both normal and adverse conditions.
 
-ROIALS CAPITAL provides this by engineering systems where: 
--  Assets remain intact. 
--  Liquidity is deployable. 
--  Structures remain enforceable. 
--  The client retains complete visibility and command.
+ROIALS CAPITAL provides this by engineering systems where:
+
+- Assets remain intact.
+
+- Liquidity is deployable.
+
+- Structures remain enforceable.
+
+- The client retains complete visibility and command.
 
 The infrastructure becomes the scaffolding that ensures long term control over wealth. 
 
@@ -99,8 +112,7 @@ ROIALS CAPITAL delivers that architecture for those who require institutional gr
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

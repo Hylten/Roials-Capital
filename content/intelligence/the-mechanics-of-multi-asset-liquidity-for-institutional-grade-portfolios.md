@@ -44,11 +44,15 @@ When treated with the correct governance, private credit positions can serve as 
 
 Roials Capital structures Capital Structuring facilities against private credit with institutional methodology.
 
-The core mechanics include: 
--  Counterparty analysis, not just asset valuation 
--  Tenor evaluation across the underlying credit instruments 
--  Stress testing against default curves 
--  Mapping the liquidity conversion path under accelerated timelines This gives private credit a liquidity function that most investors do not access, because they see it only as a yield engine rather than a leveraged capital foundation.
+The core mechanics include:
+
+- Counterparty analysis, not just asset valuation
+
+- Tenor evaluation across the underlying credit instruments
+
+- Stress testing against default curves
+
+- Mapping the liquidity conversion path under accelerated timelines This gives private credit a liquidity function that most investors do not access, because they see it only as a yield engine rather than a leveraged capital foundation.
 
 In multi asset architectures, private credit becomes the anchor layer, because it is insulated from public market volatility and crypto market asymmetry.
 
@@ -62,11 +66,15 @@ It converts private assets into leveraged instruments without forcing divestment
 
 Roials Capital uses Asset-Based Lending mechanics as a structural extension of private credit liquidity.
 
-The protocol includes: 
--  Deep underwriting of the asset class 
--  Precision appraisal models 
--  Encumbrance mapping to prevent over collateralization 
--  Structural thresholds that preserve the asset’s future optionality Asset-Based Lending is a tool of quiet leverage.
+The protocol includes:
+
+- Deep underwriting of the asset class
+
+- Precision appraisal models
+
+- Encumbrance mapping to prevent over collateralization
+
+- Structural thresholds that preserve the asset’s future optionality Asset-Based Lending is a tool of quiet leverage.
 
 It allows an investor to retain ownership, preserve long term appreciation, and still extract present day liquidity.
 
@@ -88,11 +96,15 @@ The threshold is intentional.
 
 It filters for portfolios that are structured for institutional scale liquidity, not ad hoc refinancing.
 
-Our approach is mechanical: 
--  Volatility modelling over multi horizon windows 
--  Concentration risk evaluation 
--  Automated price corridor monitoring 
--  Margin architecture that reduces unnecessary liquidation scenarios The objective is silent stability.
+Our approach is mechanical:
+
+- Volatility modelling over multi horizon windows
+
+- Concentration risk evaluation
+
+- Automated price corridor monitoring
+
+- Margin architecture that reduces unnecessary liquidation scenarios The objective is silent stability.
 
 Clients retain ownership and directional exposure.
 
@@ -116,11 +128,15 @@ Below this level, volatility noise masks the signal.
 
 Above this level, institutional liquidity strategies become viable.
 
-Our crypto Strategic Collateralization mechanics include: 
--  Real time collateral surveillance 
--  Volatility clustering models 
--  Intraday liquidation buffers 
--  Counterparty risk isolation through non rehypothecated structures The purpose is simple.
+Our crypto Strategic Collateralization mechanics include:
+
+- Real time collateral surveillance
+
+- Volatility clustering models
+
+- Intraday liquidation buffers
+
+- Counterparty risk isolation through non rehypothecated structures The purpose is simple.
 
 To give investors liquidity without forcing liquidation.
 
@@ -172,11 +188,15 @@ We do not appeal to market emotion.
 
 We design the mechanics that high net worth and ultra high net worth clients rely on when they require precision.
 
-principal authority means: 
--  Rules set through structural logic 
--  Decisions grounded in institutional risk computation 
--  Liquidity availability without noise 
--  Mobility of capital without loss of control Our role is not to chase yield.
+principal authority means:
+
+- Rules set through structural logic
+
+- Decisions grounded in institutional risk computation
+
+- Liquidity availability without noise
+
+- Mobility of capital without loss of control Our role is not to chase yield.
 
 Our role is to define how capital moves between collateral classes with institutional discipline.
 
@@ -214,18 +234,27 @@ Excess leverage introduces fragility.
 
 Precision leverage introduces opportunity with control.
 
-Our approach focuses on: 
--  Sustainable liquidity facility to value ratios 
--  Portfolio wide collateral mapping 
--  Liquidity stress simulations 
--  Exit strategy design before entry strategy execution The result is a liquidity system that is durable, silent, and responsive. 
+Our approach focuses on:
 
-## Enforcement of Institutional Standards To maintain integrity across all asset classes, Roials Capital applies institutional standards uniformly: 
--  Detailed credit, asset, and counterparty analysis 
--  Independent valuation pathways 
--  Covenant frameworks designed for stability 
--  Non arbitrary margining 
--  Transparent yet minimal communication for operational clarity This uniformity is what allows disparate asset classes to function inside one architecture.
+- Sustainable liquidity facility to value ratios
+
+- Portfolio wide collateral mapping
+
+- Liquidity stress simulations
+
+- Exit strategy design before entry strategy execution The result is a liquidity system that is durable, silent, and responsive. 
+
+## Enforcement of Institutional Standards To maintain integrity across all asset classes, Roials Capital applies institutional standards uniformly:
+
+- Detailed credit, asset, and counterparty analysis
+
+- Independent valuation pathways
+
+- Covenant frameworks designed for stability
+
+- Non arbitrary margining
+
+- Transparent yet minimal communication for operational clarity This uniformity is what allows disparate asset classes to function inside one architecture.
 
 It creates predictability for the investor.
 
@@ -259,8 +288,7 @@ Institutional.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

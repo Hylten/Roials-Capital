@@ -10,9 +10,7 @@ The capital vacuum in North America's energy sector is a consequence of regulato
 
 The allocators that recognize this shift are positioning ahead of a multi-year structural cycle where institutional backing has become the dominant variable separating operational durability from opportunistic exposure.
 
-Allocators in 20
-
-26 face a bifurcated environment.
+Allocators in 2026 face a bifurcated environment.
 
 Traditional middle market credit remains constrained by banking system recalibration, while resource-backed cash flow instruments exhibit a supply-demand imbalance that continues to widen.
 
@@ -26,7 +24,7 @@ This briefing delivers a technical, analyst-grade examination of
 
 It clarifies how Roials Capital functions as a strategic navigator, vetting counterparties and structuring pathways for allocators seeking resilient private credit exposure without promotional framing or implied forward guidance.
 
-Phase I: ## THE REGIME SHIFT
+### Phase I: ## THE REGIME SHIFT
 
  Private credit has migrated from a tactical yield enhancement tool to a core institutional allocation.
 
@@ -50,9 +48,7 @@ Energy capital expenditures remain materially below long-term replacement requir
 
 The International Energy Forum estimates a 
 
-40 percent underinvestment gap relative to 20
-
-14 Capital Expenditure levels.
+40 percent underinvestment gap relative to 2014 Capital Expenditure levels.
 
 This underinvestment is most pronounced in the conventional heavy oil segment in Alberta, where stable decline curves and long-life reserves remain unmatched by any other basin in North America.
 
@@ -80,7 +76,7 @@ Strategic alignment has become the new premium.
 
 Capital is flowing toward counterparties that operate with clarity of mandate, verifiable governance, and multi-cycle operational readiness.
 
-Phase II: ## TECHNICAL MECHANICS
+### Phase II: ## TECHNICAL MECHANICS
 
  OF THE ALBERTA ENERGY REGIME The Alberta resource complex is one of the most misunderstood environments in the global energy matrix.
 
@@ -140,7 +136,7 @@ Capital interruptions amplify cost structures and increase risk.
 
 This is why institutional sponsorship, not sporadic capital, increasingly defines which operators succeed.
 
-Phase III: THE PARTNERSHIP MODEL Roials Capital functions as an institutional navigator, identifying, evaluating, and calibrating strategic counterparties for allocators requiring operational integrity, governance reliability, and balance sheet transparency.
+### Phase III: THE PARTNERSHIP MODEL Roials Capital functions as an institutional navigator, identifying, evaluating, and calibrating strategic counterparties for allocators requiring operational integrity, governance reliability, and balance sheet transparency.
 
 The firm does not operate wells or manage oil and gas assets.
 
@@ -156,32 +152,44 @@ NAEO operates with a multi-decade engineering base, emphasizing profitability th
 
 The partnership model is not based on marketing postures but on operational intelligence.
 
-Institutional allocators increasingly require three variables before committing capital: 
--  Technical repeatability 
--  Governance transparency 
--  Counterparty resilience NAEO qualifies within this framework due to its engineering-first orientation, risk containment culture, and disciplined reinvestment process.
+Institutional allocators increasingly require three variables before committing capital:
+
+- Technical repeatability
+
+- Governance transparency
+
+- Counterparty resilience NAEO qualifies within this framework due to its engineering-first orientation, risk containment culture, and disciplined reinvestment process.
 
 The organization has refined its operational policy set to maintain stringent control over steam management, water handling, and thermal integrity across its SAGD and CSS footprints.
 
 Roials Capital evaluates operational partners with a proprietary Stewardship Filter that prioritizes long-term resource responsibility.
 
-This evaluation includes: 
--  Cash flow to reinvestment ratios 
--  Maintenance capital planning discipline 
--  Production stabilization protocols 
--  Environmental compliance behavior 
--  Audit continuity and third-party engineering validation 
--  Leadership integrity measured through a multi-factor trust metric The partnership model is designed to reduce informational asymmetry for institutional allocators.
+This evaluation includes:
+
+- Cash flow to reinvestment ratios
+
+- Maintenance capital planning discipline
+
+- Production stabilization protocols
+
+- Environmental compliance behavior
+
+- Audit continuity and third-party engineering validation
+
+- Leadership integrity measured through a multi-factor trust metric The partnership model is designed to reduce informational asymmetry for institutional allocators.
 
 Instead of broad outreach, the firm filters and curates opportunities aligned with the Institutional Archetype: allocators that value strategic clarity, operational depth, and capital discipline.
 
-Phase IV: THE STEWARDSHIP FILTER AND THE THEOLOGY OF CAPITAL Stewardship in institutional energy finance is not a moral abstraction.
+### Phase IV: THE STEWARDSHIP FILTER AND THE THEOLOGY OF CAPITAL Stewardship in institutional energy finance is not a moral abstraction.
 
 It is a technical discipline grounded in the responsible deployment, recovery, and preservation of capital.
 
-The theology of capital refers to the principle that capital is a resource that must be utilized with precision, intention, and non-wasteful discipline. 
--  **Proverbs 13:22
-*
+The theology of capital refers to the principle that capital is a resource that must be utilized with precision, intention, and non-wasteful discipline.
+
+- **Proverbs 13:22
+
+* 
+
 * articulates the expectation that resources must be preserved across generations.
 
 In the context of energy finance, stewardship demands operational prudence and multi-cycle foresight.
@@ -214,21 +222,25 @@ Operators must manage their reservoirs, infrastructure, and balance sheets with 
 
 Institutional allocators value stewardship because it mitigates behavioral volatility, reduces misalignment risk, and maximizes the probability that future cash flows remain consistent with engineering expectations.
 
-Phase V: ALLOCATOR DECISION FRAMEWORK AND STRATEGIC CALIBRATION Private credit in 20
-
-26 is no longer defined by opportunistic yield.
+### Phase V: ALLOCATOR DECISION FRAMEWORK AND STRATEGIC CALIBRATION Private credit in 2026 is no longer defined by opportunistic yield.
 
 It is structured around capital stability, operational intelligence, and partnership credibility.
 
 Institutional backing is the differentiator because it replaces the volatility of short-cycle capital with the stability required for multi-year resource development.
 
 Allocators evaluating private credit opportunities across traditional middle market portfolios, energy-backed structures, asset-based lending, or special mandates must
-• Counterparty governance maturity 
--  Balance sheet optimization capabilities 
--  Asset Hardening potential 
--  Capital Structuring mechanisms 
--  Opportunity Velocity under constrained capital conditions 
--  Alignment of incentives between operator, sponsor, and institutional capital Roials Capital functions as the institutional interpreter across these variables, translating operator realities into allocator clarity.
+
+• Counterparty governance maturity
+
+- Balance sheet optimization capabilities
+
+- Asset Hardening potential
+
+- Capital Structuring mechanisms
+
+- Opportunity Velocity under constrained capital conditions
+
+- Alignment of incentives between operator, sponsor, and institutional capital Roials Capital functions as the institutional interpreter across these variables, translating operator realities into allocator clarity.
 
 The objective is not to promote any instrument but to map the structural terrain so allocators can calibrate their portfolio architecture with precision and confidence.
 
@@ -242,8 +254,7 @@ A confidential strategy audit provides the framework for assessing fit, alignmen
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

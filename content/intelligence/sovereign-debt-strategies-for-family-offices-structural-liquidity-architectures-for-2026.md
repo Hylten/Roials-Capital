@@ -54,11 +54,15 @@ Family offices must treat sovereign exposure as a dynamic instrument.
 
 A tool to amplify or neutralize risk in satellite allocations.
 
-This means: 
--  Actively managing duration 
--  Leveraging short term dislocations 
--  Using sovereign curves to price private credit opportunities 
--  Integrating sovereign debt into cross collateral liquidity structures This is where Roials Capital enters.
+This means:
+
+- Actively managing duration
+
+- Leveraging short term dislocations
+
+- Using sovereign curves to price private credit opportunities
+
+- Integrating sovereign debt into cross collateral liquidity structures This is where Roials Capital enters.
 
 We do not speculate on sovereign paper.
 
@@ -72,9 +76,11 @@ It is not an asset class.
 
 It is a counterpart to private yield.
 
-Family offices often develop two parallel tunnels of return: 
--  High yield from private credit 
--  Low volatility from sovereign debt The true objective is not to hold both.
+Family offices often develop two parallel tunnels of return:
+
+- High yield from private credit
+
+- Low volatility from sovereign debt The true objective is not to hold both.
 
 The objective is to allow one to stabilize the other.
 
@@ -98,13 +104,19 @@ It cannot follow momentum narratives.
 
 Duration engineering becomes the central discipline.
 
-Short term sovereign paper provides: 
--  Immediate liquidity 
--  Capital protection 
--  Benchmark reference for pricing credit risk Long duration sovereigns provide: 
--  Strategic hedging against macro compression 
--  A stabilizing effect during risk off cycles 
--  A counterweight to long horizon private equity or infrastructure exposures Family offices that operate at scale integrate both.
+Short term sovereign paper provides:
+
+- Immediate liquidity
+
+- Capital protection
+
+- Benchmark reference for pricing credit risk Long duration sovereigns provide:
+
+- Strategic hedging against macro compression
+
+- A stabilizing effect during risk off cycles
+
+- A counterweight to long horizon private equity or infrastructure exposures Family offices that operate at scale integrate both.
 
 They form a curve within the portfolio that acts like a spine.
 
@@ -124,12 +136,17 @@ Strong currency sovereigns provide low yield but high clarity.
 
 Emerging sovereigns provide yield but contain political asymmetry.
 
-Family offices apply sovereign selection with focus on: 
--  Credibility of monetary authority 
--  Inflation management history 
--  Ability to tax and raise revenue 
--  Clarity of bond maturity structures 
--  Liquidity depth in secondary markets This matters because sovereign exposure becomes collateral in the portfolio.
+Family offices apply sovereign selection with focus on:
+
+- Credibility of monetary authority
+
+- Inflation management history
+
+- Ability to tax and raise revenue
+
+- Clarity of bond maturity structures
+
+- Liquidity depth in secondary markets This matters because sovereign exposure becomes collateral in the portfolio.
 
 Not collateral for balance sheet optimization directly against it, but collateral in a conceptual sense.
 
@@ -143,11 +160,9 @@ Two minimum thresholds apply.
 
 Crypto Capital Structuring minimum: 2,000,
 
-00
-0 USD Public Share Institutional Liquidity Paths minimum: 5,000,
+000 USD Public Share Institutional Liquidity Paths minimum: 5,000,
 
-00
-0 USD Both categories require precision.
+000 USD Both categories require precision.
 
 They require volatility management and liquidity orchestration.
 
@@ -177,13 +192,19 @@ Traders look for opportunity.
 
 Family offices look for continuity.
 
-A steep curve signals: 
--  Expansion 
--  Access to liquidity 
--  Potential increase in private credit spreads A flat or inverted curve signals: 
--  Upcoming compression 
--  Higher caution in private deployment 
--  Repricing of risk premium across alternative assets Roials Capital uses these signals to determine optimal Asset-Backed Frameworks schedules for clients.
+A steep curve signals:
+
+- Expansion
+
+- Access to liquidity
+
+- Potential increase in private credit spreads A flat or inverted curve signals:
+
+- Upcoming compression
+
+- Higher caution in private deployment
+
+- Repricing of risk premium across alternative assets Roials Capital uses these signals to determine optimal Asset-Backed Frameworks schedules for clients.
 
 We adjust collateral requirements and liquidity thresholds with the curve's logic in mind. 
 
@@ -227,11 +248,15 @@ Sovereign debt provides the counterbalance.
 
 Together, they create an optimized structure.
 
-This integration offers: 
--  Consistent collateral valuation 
--  Lower concentration risk 
--  Increased leverage capacity 
--  Predictable liquidity cycles Asset-Based Lending strategies benefit from sovereign exposure because it creates a disciplined funding schedule.
+This integration offers:
+
+- Consistent collateral valuation
+
+- Lower concentration risk
+
+- Increased leverage capacity
+
+- Predictable liquidity cycles Asset-Based Lending strategies benefit from sovereign exposure because it creates a disciplined funding schedule.
 
 Private credit benefits because sovereign signals reduce pricing uncertainty. 
 
@@ -265,11 +290,15 @@ These frameworks outline how allocations shift across cycles.
 
 Sovereign debt provides the stable reference that keeps governance coherent.
 
-This includes: 
--  Defining baseline liquidity 
--  Determining risk budgets 
--  Aligning generation specific investment mandates 
--  Maintaining consistency during leadership transitions Roials Capital collaborates with family office principals and CIOs to ensure that the sovereign layer remains aligned with the family's objectives.
+This includes:
+
+- Defining baseline liquidity
+
+- Determining risk budgets
+
+- Aligning generation specific investment mandates
+
+- Maintaining consistency during leadership transitions Roials Capital collaborates with family office principals and CIOs to ensure that the sovereign layer remains aligned with the family's objectives.
 
 This is not advisory.
 
@@ -321,8 +350,7 @@ We create Capital Structuring frameworks that respect sovereign signals and elev
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

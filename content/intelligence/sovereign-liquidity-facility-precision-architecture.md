@@ -90,28 +90,35 @@ Covenant enforced.
 
 The facility requires five mechanical layers.
 
-Layer I:: Eligibility Grid The eligible asset pool must be objective.
+### Layer I: Eligibility Grid The eligible asset pool must be objective.
 
 No political discretion.
 
 No conditional releases.
 
-The assets usually include: 
--  Energy royalties 
--  Export receivables 
--  Strategic infrastructure cash-flows 
--  Tax corridor assignments with predefined variability bands The grid defines the first discipline.
+The assets usually include:
+
+- Energy royalties
+
+- Export receivables
+
+- Strategic infrastructure cash-flows
+
+- Tax corridor assignments with predefined variability bands The grid defines the first discipline.
 
 If it is not measurable at a weekly frequency, it is not admissible.
 
-Layer II:: Priority-of-Claim Waterfall Liquidity must be sequenced through a priority stack: 
--  Senior liquidity tranche with zero tolerance for operational leakage 
--  Intermediate tranche tied to resource volatility buffers 
--  Residual tranche feeding government operations The waterfall removes fiscal entropy.
+### Layer II: Priority-of-Claim Waterfall Liquidity must be sequenced through a priority stack:
+
+- Senior liquidity tranche with zero tolerance for operational leakage
+
+- Intermediate tranche tied to resource volatility buffers
+
+- Residual tranche feeding government operations The waterfall removes fiscal entropy.
 
 It establishes certainty for lenders and ensures the sovereign does not cannibalize its own future liquidity.
 
-Layer III:: LTV Curves and Risk Hardening Traditional sovereign facilities use flat LTV tables.
+### Layer III: LTV Curves and Risk Hardening Traditional sovereign facilities use flat LTV tables.
 
 That is inefficient.
 
@@ -121,24 +128,31 @@ Higher extraction and export price volatility should widen the initial haircut b
 
 A facility with no convexity becomes a facility with hidden insolvency.
 
-Hardening techniques include: 
--  Cross asset pledges with limited correlation exposure 
--  Time segmented collateral rebalancing 
--  Volatility indexed advance rates
+Hardening techniques include:
 
-Layer IV:: Recovery Mechanics Institutional recovery must be deterministic.
+- Cross asset pledges with limited correlation exposure
+
+- Time segmented collateral rebalancing
+
+- Volatility indexed advance rates
+
+### Layer IV: Recovery Mechanics Institutional recovery must be deterministic.
 
 No improvisation.
 
-Recovery channels often include: 
--  Diversion rights over export terminals 
--  Royalty interception rights 
--  Structured tax capture nodes 
--  Offshore collection accounts subject to quarterly reconciliation Facilities without defined recovery structures evolve into political liabilities.
+Recovery channels often include:
+
+- Diversion rights over export terminals
+
+- Royalty interception rights
+
+- Structured tax capture nodes
+
+- Offshore collection accounts subject to quarterly reconciliation Facilities without defined recovery structures evolve into political liabilities.
 
 Facilities with explicit recovery mechanics evolve into institutional assets.
 
-Layer V:: Liquidity Replenishment Algorithm A sovereign must replenish.
+### Layer V: Liquidity Replenishment Algorithm A sovereign must replenish.
 
 The facility must not be a drain.
 
@@ -180,20 +194,27 @@ We engineer environment.
 
 Track 2: Asset-Backed Frameworks for Asset-Based Lending Channels Facility mechanics at the sovereign level translate directly into corporate Asset-Based Lending discipline.
 
-The same principles apply: 
--  Hard collateral 
--  Sequenced waterfalls 
--  Predictable recovery 
--  Algorithmic replenishment This eliminates uncertainty in industrial buyout structures.
+The same principles apply:
+
+- Hard collateral
+
+- Sequenced waterfalls
+
+- Predictable recovery
+
+- Algorithmic replenishment This eliminates uncertainty in industrial buyout structures.
 
 It also protects the exit velocity for add-ons.
 
 Track 3: Special Mandates for Energy and MiFID II Acquisitions Energy assets remain the purest form of hard collateral.
 
-NAEOC mandates in the 50M to 250M range benefit from sovereign stability because: 
--  Pipelines require predictable tariff liquidity 
--  E&P expansions require hedged sovereign counterparties 
--  Cross border energy trades require settlement certainty Sovereign liquidity facilities remove noise.
+NAEOC mandates in the 50M to 250M range benefit from sovereign stability because:
+
+- Pipelines require predictable tariff liquidity
+
+- E&P expansions require hedged sovereign counterparties
+
+- Cross border energy trades require settlement certainty Sovereign liquidity facilities remove noise.
 
 They allow the special mandate division to operate without politicized interruptions. 
 
@@ -208,7 +229,9 @@ Disorder in financial systems begins with disorder in priorities.
 Sovereigns frequently operate out of sequence: consumption before consolidation, spending before stabilization, promises before liquidity.
 
 The theology of capital reverses this. **Proverbs 13:22
-*
+
+* 
+
 * sets the principle.
 
 A righteous steward builds structures that last across generations.
@@ -259,8 +282,7 @@ Request a confidential capital audit.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

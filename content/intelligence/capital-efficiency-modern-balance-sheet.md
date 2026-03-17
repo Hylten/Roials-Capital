@@ -14,11 +14,9 @@ Surface narratives still revolve around decarbonization cycles, while subsurface
 
 The divergence is measurable.
 
-It has become one of the most powerful sources of balance sheet optimization available to institutional allocators navigating the 20
+It has become one of the most powerful sources of balance sheet optimization available to institutional allocators navigating the 2026 landscape.
 
-26 landscape.
-
-Phase I: .
+### Phase I: .
 
  
 
@@ -56,7 +54,7 @@ This macro backdrop has driven a regime in which capital efficiency is no longer
 
 It is the governing principle of modern balance sheet design.
 
-Phase II: .
+### Phase II: .
 
  
 
@@ -64,9 +62,7 @@ Phase II: .
 
 ## TECHNICAL MECHANICS
 
- Capital efficiency in 20
-
-26 is measured through structural mechanics rather than headline yield.
+ Capital efficiency in 2026 is measured through structural mechanics rather than headline yield.
 
 The most resilient allocators recalibrate their balance sheets across three technical vectors: Core Holdings Leverage, Capital Structuring, and Hard Asset Introductions. 
 
@@ -118,9 +114,11 @@ Institutional Liquidity Paths produces reliable execution windows through custom
 
 Second, optimize the bottom quartile of the balance sheet.
 
-Underutilized assets 
--  receivables, inventory, equipment, and rights 
--  can be transformed into operational liquidity without jeopardizing equity control.
+Underutilized assets
+
+- receivables, inventory, equipment, and rights
+
+- can be transformed into operational liquidity without jeopardizing equity control.
 
 Third, create capital neutrality during transitional periods.
 
@@ -138,11 +136,15 @@ SAGD (Steam Assisted Gravity Drainage) and CSS (Cyclic Steam Stimulation) assets
 
 The thermal physics of these systems create steady-state operations.
 
-For example: 
--  SAGD pairs horizontal wellbores to create controlled gravity drainage. 
--  CSS employs cyclic steam pulses to remobilize heavy oil at predictable intervals. 
--  Decline curves in these operations are governed by reservoir pressure differentials rather than pure depletion. 
--  Recovery factors are calculable within narrow ranges, often between 
+For example:
+
+- SAGD pairs horizontal wellbores to create controlled gravity drainage.
+
+- CSS employs cyclic steam pulses to remobilize heavy oil at predictable intervals.
+
+- Decline curves in these operations are governed by reservoir pressure differentials rather than pure depletion.
+
+- Recovery factors are calculable within narrow ranges, often between 
 
 20 percent and 
 
@@ -158,7 +160,7 @@ Their focus is on operators with established reservoir histories, measurable rec
 
 These features allow institutional allocators to analyze operational integrity rather than speculative upside.
 
-Phase III: .
+### Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital functions as a strategic navigator and institutional introducer across three domains: Fund-III capital raising, Strategic Collateralization, and special mandates in energy and cross-border acquisitions.
 
@@ -184,7 +186,7 @@ Roials Capital provides the institutional translation layer, helping allocators 
 
 This partnership model allows allocators to navigate complex environments with technical clarity rather than promotional noise.
 
-Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship is an exercise in non wasteful capital management.
 
@@ -225,25 +227,30 @@ Alignment with durable assets.
 Hard assets with measurable utility and predictable decline profiles create balance sheet durability.
 
 This is consistent with **Proverbs 13:22
-*
+
+* 
+
 * , which anchors stewardship in generational capital behavior.
 
 Stewardship transforms the balance sheet from a transactional instrument into a long horizon strategic platform.
 
-Phase V: .
+### Phase V: .
 
-DECISION-MAKING LENS FOR THE ALLOCATOR The allocator operating in 20
-
-26 faces an environment defined by volatility at the surface and stability in the subsurface.
+DECISION-MAKING LENS FOR THE ALLOCATOR The allocator operating in 2026 faces an environment defined by volatility at the surface and stability in the subsurface.
 
 Capital efficiency becomes the bridge between the two.
 
-The path forward requires a disciplined calibration of: 
--  Core asset leverage 
--  Monetization Architecture 
--  Institutional partnership structures 
--  Hard asset introductions 
--  Cross-border acquisition readiness Institutional allocators benefit from a confidential Strategy Audit to assess alignment between their balance sheet architecture, risk posture, and capital deployment timelines.
+The path forward requires a disciplined calibration of:
+
+- Core asset leverage
+
+- Monetization Architecture
+
+- Institutional partnership structures
+
+- Hard asset introductions
+
+- Cross-border acquisition readiness Institutional allocators benefit from a confidential Strategy Audit to assess alignment between their balance sheet architecture, risk posture, and capital deployment timelines.
 
 This calibration produces principal authority.
 
@@ -257,8 +264,7 @@ Roials Capital supports allocators seeking disciplined clarity, technical accura
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

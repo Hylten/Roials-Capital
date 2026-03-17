@@ -24,9 +24,7 @@ The result is a multi decade capital architecture reset where the allocator with
 
 It now represents the integrated ecosystem where sovereign allocators, institutional LPs, and global GPs construct parallel capital architectures designed to stabilize procurement, supply chain continuity, and long horizon productivity.
 
-The shift began in 20
-
-22 when rate normalization exposed the fragility of liquidity dependent structures.
+The shift began in 2022 when rate normalization exposed the fragility of liquidity dependent structures.
 
 By 2025, capital scarcity revealed which sectors had true productive capacity and which relied on perpetual refinancing. 
 
@@ -44,9 +42,7 @@ In other words, sovereignty prefers assets where operational physics governs ret
 
 The decline of unrestricted capital mobility Basel III, MiFID II tightening, US Basel endgame policies, and regional capital controls have created friction points that reduce the velocity of institutional deployment.
 
-Capital can no longer move through the global system with pre 20
-
-18 fluidity.
+Capital can no longer move through the global system with pre 2018 fluidity.
 
 Sovereign allocators must therefore build parallel channels of procurement and access.
 
@@ -136,9 +132,7 @@ Financial Mechanics: Fund-III Capital Formation and Cross Jurisdiction Structuri
 
 1.
 
-LTV curve stabilization Post-20
-
-24 lending markets reoriented toward collateral priority rather than liquidity preference.
+LTV curve stabilization Post-2024 lending markets reoriented toward collateral priority rather than liquidity preference.
 
 Sovereign allocators therefore evaluate Fund-III exposures through stabilized LTV curves where collateral hardening determines capital efficiency.
 
@@ -219,7 +213,9 @@ Stewardship is not thematic.
 It is the discipline of non wasteful resource allocation across time.
 
 This form of stewardship aligns with the theology of capital where resources are understood as entrusted rather than possessed. **Proverbs 13:22
-*
+
+* 
+
 * states that a good person leaves an inheritance for future generations.
 
 Within the institutional context, this means capital structures that endure beyond cycles and remain productive under stress.
@@ -276,8 +272,7 @@ The objective is not transactional deployment but long term structural alignment
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

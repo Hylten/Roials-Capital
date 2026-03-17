@@ -36,9 +36,7 @@ Recovery reliability is defined by basin physics and geomechanics.
 
 However, capital access is influenced more by headline exposure than by engineering certainty.
 
-From 20
-
-18 to 2025, the oil sands segment lost a significant proportion of its traditional capital stack as global institutions reweighted.
+From 2018 to 2025, the oil sands segment lost a significant proportion of its traditional capital stack as global institutions reweighted.
 
 This created a liquidity trap that high grade operators such as NAEO have navigated through operational discipline, modular expansion, and engineered decline management.
 
@@ -94,11 +92,15 @@ This creates the foundation for a liquidity engineering structure where the oper
 
 Private Credit Structures Asset based lending within this regime is shifting toward engineered liquidity paths rather than traditional blanket liens.
 
-The mechanics involve: 
--  Dynamic loan to value curves calibrated to asset performance patterns. 
--  Cross collateralization using multi asset reliability instead of entity level guarantees. 
--  Cash flow waterfalls that prioritize operational continuity before amortization schedules. 
--  Covenant frameworks aligned with technical recovery mechanics rather than generic leverage ratios.
+The mechanics involve:
+
+- Dynamic loan to value curves calibrated to asset performance patterns.
+
+- Cross collateralization using multi asset reliability instead of entity level guarantees.
+
+- Cash flow waterfalls that prioritize operational continuity before amortization schedules.
+
+- Covenant frameworks aligned with technical recovery mechanics rather than generic leverage ratios.
 
 Engineered reliability in this context is achieved by embedding operational intelligence into the credit architecture.
 
@@ -112,11 +114,15 @@ Traditional equity calls are increasingly sequenced with collateralized liquidit
 
 The objective is not to replace equity but to expand temporal flexibility.
 
-The mechanics include: 
--  Pre secured acquisition lines backed by operational assets from portfolio companies. 
--  Intercompany collateral trusts that allow multi platform cross support without violating regulatory thresholds. 
--  Asset hardening processes that convert soft operational value into lender recognized collateral. 
--  Capital stack optimization through hybrid senior secured notes aligned with cash flow timing across target assets.
+The mechanics include:
+
+- Pre secured acquisition lines backed by operational assets from portfolio companies.
+
+- Intercompany collateral trusts that allow multi platform cross support without violating regulatory thresholds.
+
+- Asset hardening processes that convert soft operational value into lender recognized collateral.
+
+- Capital stack optimization through hybrid senior secured notes aligned with cash flow timing across target assets.
 
 The engineered reliability component is expressed through the stabilization of post close integration.
 
@@ -167,7 +173,9 @@ For private credit allocators, the firm identifies where asset hardening can tra
 ## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management.
 
 It is a capital theology shaped by **Proverbs 13:22
-*
+
+* 
+
 * .
 
 Reliable assets require reliable governance.
@@ -176,11 +184,15 @@ Engineered liquidity without stewardship becomes extraction.
 
 Stewardship without liquidity becomes stagnation.
 
-The allocator operating under a stewardship mandate assesses: 
--  Whether capital is being deployed into assets with inherent durability. 
--  Whether operational partners demonstrate fiscal restraint and resource discipline. 
--  Whether liquidity paths enhance sustainability rather than accelerate depletion. 
--  Whether the capital stack protects long term enterprise health.
+The allocator operating under a stewardship mandate assesses:
+
+- Whether capital is being deployed into assets with inherent durability.
+
+- Whether operational partners demonstrate fiscal restraint and resource discipline.
+
+- Whether liquidity paths enhance sustainability rather than accelerate depletion.
+
+- Whether the capital stack protects long term enterprise health.
 
 This filter is increasingly relevant as institutional allocators face scrutiny around operational sustainability, not just environmental metrics.
 
@@ -190,11 +202,15 @@ DECISION MAKING LENS FOR THE ALLOCATOR Fund-III formations, private credit facil
 
 Structural alpha is no longer generated through yield or leverage.
 
-It emerges from: 
--  Recognizing the capital vacuum created by regulatory drift. 
--  Understanding the operational reliability of real assets. 
--  Engineering liquidity pathways aligned with asset behavior. 
--  Selecting partners with technical clarity and disciplined execution.
+It emerges from:
+
+- Recognizing the capital vacuum created by regulatory drift.
+
+- Understanding the operational reliability of real assets.
+
+- Engineering liquidity pathways aligned with asset behavior.
+
+- Selecting partners with technical clarity and disciplined execution.
 
 Roials Capital conducts confidential strategy audits for allocators seeking to calibrate portfolios to the current regime.
 

@@ -22,12 +22,13 @@ They want higher unlevered returns, lower tolerance for financial engineering dr
 
 This is where hierarchy forms.
 
-This is where the weak fracture. 
--  
--  
--  
+This is where the weak fracture.
 
-## The Return Recalibration The shift began years ago, but most GPs only noticed it when they saw the subtle tightening in LP diligence memos.
+- 
+
+- 
+
+- ## The Return Recalibration The shift began years ago, but most GPs only noticed it when they saw the subtle tightening in LP diligence memos.
 
 Not louder.
 
@@ -41,12 +42,14 @@ They want covenant‑aware execution, not market‑beta exposure wrapped in buyo
 
 They want durability.
 
-And the truth is simple: Fund‑III+ managers are expected to prove they can generate unlevered alpha, not just levered narratives. 
--  The first is actuarial compression.
+And the truth is simple: Fund‑III+ managers are expected to prove they can generate unlevered alpha, not just levered narratives.
+
+- The first is actuarial compression.
 
 Long-horizon capital cannot meet its liabilities if it tolerates low unlevered footholds.
 
 The institution is not emotional.
+
 • The second is a macro decoupling.
 
 Interest environments shifted.
@@ -59,8 +62,9 @@ LPs know it.
 
 GPs know it.
 
-The models know it. 
--  The third is a governance reform.
+The models know it.
+
+- The third is a governance reform.
 
 Boards have cooled toward leverage-heavy private equity.
 
@@ -70,8 +74,9 @@ These forces reshape the GP’s posture.
 
 They introduce a new asymmetry: only the disciplined survive the recalibration.
 
-Phase II: PRINCIPAL VOICE
--  DECLARATION, NOT JUSTIFICATION The ascent to Fund‑III is a sorting mechanism.
+### Phase II: PRINCIPAL VOICE
+
+- DECLARATION, NOT JUSTIFICATION The ascent to Fund‑III is a sorting mechanism.
 
 It separates managers who created permanent value from those who orchestrated temporary multiples.
 
@@ -167,7 +172,7 @@ The track record is the architecture.
 
 The architecture is the truth.
 
-Phase III: THE CORE REASON: INSTITUTIONS NOW REWARD SOVEREIGN AUTONOMY IN VALUE CREATION The deeper motive is sovereignty.
+### Phase III: THE CORE REASON: INSTITUTIONS NOW REWARD SOVEREIGN AUTONOMY IN VALUE CREATION The deeper motive is sovereignty.
 
 Institutions want managers who can operate as sovereign engines of value creation.
 
@@ -185,13 +190,19 @@ Institutions allocate to the sovereign.
 
 Not the dependent. 
 
-## THE INDUSTRIAL INTERPRETATION A GP that generates high unlevered returns brings the following capabilities into the room: 
--  Operational mastery at plant, process, and P&L level. 
--  Structural margin improvement without cycle dependence. 
--  M&A execution that compounds through synergy capture, not storytelling. 
--  Pricing power born from brand control, not discounting. 
--  Governance discipline-quiet, relentless, precise. 
--  Multi-year durability that survives downcycles, not just upcycles.
+## THE INDUSTRIAL INTERPRETATION A GP that generates high unlevered returns brings the following capabilities into the room:
+
+- Operational mastery at plant, process, and P&L level.
+
+- Structural margin improvement without cycle dependence.
+
+- M&A execution that compounds through synergy capture, not storytelling.
+
+- Pricing power born from brand control, not discounting.
+
+- Governance discipline-quiet, relentless, precise.
+
+- Multi-year durability that survives downcycles, not just upcycles.
 
 This is the sovereign architecture LPs now reward.
 
@@ -201,8 +212,9 @@ No leverage illusions.
 
 Only the fundamentals that endure. 
 
-## CAPITAL RAISING (80%) 
--  WHY UNLEVERED RETURNS ARE CENTRAL TO FUND‑III+ SUCCESS Fund‑III raises are now defined by four principal factors: 
+## CAPITAL RAISING (80%)
+
+- WHY UNLEVERED RETURNS ARE CENTRAL TO FUND‑III+ SUCCESS Fund‑III raises are now defined by four principal factors: 
 
 1.
 
@@ -238,16 +250,19 @@ The new north star.
 
 The market rarely speaks this bluntly, but this is the private truth: if a GP cannot explain its unlevered value creation mechanics in three layers of detail, institutional LPs do not consider them a Fund‑III manager. 
 
-## ASSET-BASED LENDING (10%) 
--  THE GATES CLOSE FOR THE UNPREPARED ROIALS CAPITAL operates within strict boundaries.
+## ASSET-BASED LENDING (10%)
+
+- THE GATES CLOSE FOR THE UNPREPARED ROIALS CAPITAL operates within strict boundaries.
 
 When GPs request Asset-Based Lending to support working capital, acquisitions, or cross‑border liquidity, the institution demands controlled access.
 
 Qualification is mandatory.
 
-The thresholds are explicit. 
--  The $2M Gate: Minimum entry for standard engagements. 
--  The $5M Gate: Activation point for multi‑facility and multi‑jurisdictional structures.
+The thresholds are explicit.
+
+- The $2M Gate: Minimum entry for standard engagements.
+
+- The $5M Gate: Activation point for multi‑facility and multi‑jurisdictional structures.
 
 These gates are not arbitrary.
 
@@ -255,8 +270,9 @@ They are filters to protect institutional product integrity.
 
 Managers who cannot meet these thresholds are not operating at a level consistent with Fund‑III+ architecture. 
 
-## SPECIAL MANDATES (10%) 
--  THE QUIET BACKBONE OF SOVEREIGN EXECUTION The capital flows behind private energy acquisition, MiFID II cross‑border transactions, and North American strategic consolidation have matured.
+## SPECIAL MANDATES (10%)
+
+- THE QUIET BACKBONE OF SOVEREIGN EXECUTION The capital flows behind private energy acquisition, MiFID II cross‑border transactions, and North American strategic consolidation have matured.
 
 The allocations are more disciplined.
 
@@ -310,10 +326,13 @@ A Principal understands this.
 
 A Principal builds to this.
 
-A Principal never hides from the architecture. 
--  
--  
--  Request confidential capital audit.
+A Principal never hides from the architecture.
+
+- 
+
+- 
+
+- Request confidential capital audit.
 
 Access is restricted to approved mandates.
 

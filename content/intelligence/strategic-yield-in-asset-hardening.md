@@ -33,7 +33,9 @@ Pressure creates truth.
 Yield reveals structure.
 
 Sovereign capital-true institutional capital-allocates accordingly. **Proverbs 13:22
-*
+
+* 
+
 * : A good man leaves an inheritance to his children's children, but the wealth of the sinner is laid up for the righteous.
 
 In institutional terms: durable capital prevails across cycles; transient capital transfers ownership when covenants tighten.
@@ -164,12 +166,17 @@ Asset-Based Lending yield is not interest rate.
 
 Asset-Based Lending yield is collateral efficiency.
 
-The question is not “what is the borrowing base?”, but “how many basis points of yield are extracted from each collateral dollar while maintaining covenant airspace?” Key Asset-Based Lending hardening levers: 
--  AR velocity: compress days sales outstanding; convert accounts into yield. 
--  Inventory liquidity: restructure SKUs; reclassify for higher advance rates. 
--  Cross-jurisdictional receivables: monetise EU payers through MiFID corridors. 
--  Senior-first stacking: position revolvers to capture preferential lien yield. 
--  Embedded redemptions: generate self-liquidating cycles that strengthen the asset’s spine.
+The question is not “what is the borrowing base?”, but “how many basis points of yield are extracted from each collateral dollar while maintaining covenant airspace?” Key Asset-Based Lending hardening levers:
+
+- AR velocity: compress days sales outstanding; convert accounts into yield.
+
+- Inventory liquidity: restructure SKUs; reclassify for higher advance rates.
+
+- Cross-jurisdictional receivables: monetise EU payers through MiFID corridors.
+
+- Senior-first stacking: position revolvers to capture preferential lien yield.
+
+- Embedded redemptions: generate self-liquidating cycles that strengthen the asset’s spine.
 
 Asset-Based Lending yield increases optionality yield.
 
@@ -259,10 +266,13 @@ Misclassification destroys yield.
 
 Correct classification multiplies it.
 
-Three specific yield levers: 
--  Permissioned Markets Yield: allocate across regulated versus unregulated venues to capture spread inefficiencies. 
--  Reporting Yield: optimise best-execution architecture to compress transaction friction. 
--  Passporting Yield: use cross-border permissions to increase capital mobility without tax leakage.
+Three specific yield levers:
+
+- Permissioned Markets Yield: allocate across regulated versus unregulated venues to capture spread inefficiencies.
+
+- Reporting Yield: optimise best-execution architecture to compress transaction friction.
+
+- Passporting Yield: use cross-border permissions to increase capital mobility without tax leakage.
 
 Yield is regulatory geometry.
 
@@ -372,13 +382,19 @@ A hardened portfolio is not a portfolio.
 
 It is an economic organism.
 
-Characteristics of a hardened organism: 
--  High-yield redundancy 
--  Low dependency ratios 
--  High free cashflow elasticity 
--  Structural liquidity independence 
--  Multi-jurisdictional resilience 
--  Sovereign capital posture This is how institutional capital survives multi-cycle disruption. 
+Characteristics of a hardened organism:
+
+- High-yield redundancy
+
+- Low dependency ratios
+
+- High free cashflow elasticity
+
+- Structural liquidity independence
+
+- Multi-jurisdictional resilience
+
+- Sovereign capital posture This is how institutional capital survives multi-cycle disruption. 
 
 ## THE FINAL PRINCIPAL MANDATE Yield hardens assets.
 
@@ -402,8 +418,7 @@ Technical metric: Target structural yield density ≥ 1.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

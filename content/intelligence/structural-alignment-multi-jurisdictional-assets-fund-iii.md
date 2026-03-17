@@ -22,12 +22,13 @@ This institutional briefing establishes the architecture required for allocators
 
 ## THE REGIME SHIFT
 
- The post 20
+ The post 2020 capital regime is characterized by fragmentation across three spheres.
 
-20 capital regime is characterized by fragmentation across three spheres. 
--  European prudential constraints under MiFID II that push institutions toward regulated vehicles, long tenor assets, and controlled valuation methodologies. 
--  North American private credit expansion where non bank lenders now dominate the middle market collateral landscape. 
--  Alberta energy restructuring where conventional heavy oil assets remain underpriced relative to their thermodynamic consistency and predictable decline curves.
+- European prudential constraints under MiFID II that push institutions toward regulated vehicles, long tenor assets, and controlled valuation methodologies.
+
+- North American private credit expansion where non bank lenders now dominate the middle market collateral landscape.
+
+- Alberta energy restructuring where conventional heavy oil assets remain underpriced relative to their thermodynamic consistency and predictable decline curves.
 
 These spheres do not operate convergently.
 
@@ -63,15 +64,19 @@ It allows a European governed capital stack to be deployed into a North American
 
 NAEO operates exclusively in these environments.
 
-The technical signatures include: 
--  Reservoir homogeneity that reduces operational noise and improves predictability. 
--  Recovery factors in the 
+The technical signatures include:
+
+- Reservoir homogeneity that reduces operational noise and improves predictability.
+
+- Recovery factors in the 
 
 30 percent to 
 
-70 percent band for SAGD pairs with established history. 
--  Decline rates that demonstrate low volatility due to thermal assisted mobility rather than primary depletion dynamics. 
--  Steam to oil ratios that can be forecast with high confidence across multi year cycles when water handling and thermal efficiency are optimized.
+70 percent band for SAGD pairs with established history.
+
+- Decline rates that demonstrate low volatility due to thermal assisted mobility rather than primary depletion dynamics.
+
+- Steam to oil ratios that can be forecast with high confidence across multi year cycles when water handling and thermal efficiency are optimized.
 
 These mechanisms create an asset class that is operationally intensive but financially stable.
 
@@ -95,10 +100,13 @@ Cash flow waterfalls that prioritize operational stability and maintenance capit
 
 Structural seniority that prevents cross contamination of assets across jurisdictions without explicit consent architecture.
 
-When integrating these principles into a multi jurisdictional platform, three alignment vectors determine institutional viability. 
--  Jurisdictional seniority: The legal domicile determines the supervisory framework but must not impair operational agility. 
--  Asset ring fencing: Physical assets in Alberta must be insulated from European balance sheet claims beyond contracted obligations. 
--  Capital stack curvature: A Fund-III buyout with add on capabilities must maintain a convex funding curve where incremental acquisitions strengthen rather than dilute asset security.
+When integrating these principles into a multi jurisdictional platform, three alignment vectors determine institutional viability.
+
+- Jurisdictional seniority: The legal domicile determines the supervisory framework but must not impair operational agility.
+
+- Asset ring fencing: Physical assets in Alberta must be insulated from European balance sheet claims beyond contracted obligations.
+
+- Capital stack curvature: A Fund-III buyout with add on capabilities must maintain a convex funding curve where incremental acquisitions strengthen rather than dilute asset security.
 
 This is where Roials Capital operates as the institutional navigator.
 
@@ -114,11 +122,15 @@ The objective is not to raise capital into a predetermined vehicle.
 
 The objective is to map the allocator's institutional archetype to the correct structural setting.
 
-Four archetypes dominate Fund-III and energy mandates. 
--  European long duration allocators that prioritize regulatory compliance and stable collateral. 
--  North American private credit funds that prioritize cash flow visibility and operational transparency. 
--  Family offices seeking asset hardening and cross border diversification. 
--  Strategic UHNWIs operating through holding companies that value control, seniority, and low correlation assets.
+Four archetypes dominate Fund-III and energy mandates.
+
+- European long duration allocators that prioritize regulatory compliance and stable collateral.
+
+- North American private credit funds that prioritize cash flow visibility and operational transparency.
+
+- Family offices seeking asset hardening and cross border diversification.
+
+- Strategic UHNWIs operating through holding companies that value control, seniority, and low correlation assets.
 
 Roials Capital structures its work through three channels. 
 
@@ -149,14 +161,20 @@ It is not a moral gesture.
 It is a technical regime that prevents resource leakage across jurisdictions, balance sheets, and operational cycles.
 
 The foundation is the principle articulated in **Proverbs 13:22
-*
+
+* 
+
 * which defines stewardship as multi generational asset transfer.
 
-In institutional practice, this translates into: 
--  Capital conservation through collateral optimization. 
--  Operational discipline that eliminates waste cycles. 
--  Governance frameworks that prevent misalignment between asset operators and capital providers. 
--  Transparently managed decline curves that maintain reservoir health rather than pursue short term extraction.
+In institutional practice, this translates into:
+
+- Capital conservation through collateral optimization.
+
+- Operational discipline that eliminates waste cycles.
+
+- Governance frameworks that prevent misalignment between asset operators and capital providers.
+
+- Transparently managed decline curves that maintain reservoir health rather than pursue short term extraction.
 
 Stewardship is the lens that allows multi jurisdictional structures to remain coherent.
 

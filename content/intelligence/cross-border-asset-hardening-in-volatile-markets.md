@@ -146,8 +146,7 @@ Volatility becomes structure once collateral is properly framed.
 
 Our crypto Institutional Liquidity Paths threshold is 2,000,
 
-00
-0 dollars.
+000 dollars.
 
 Below this number, the volatility profile is incompatible with institutional hardening.
 
@@ -167,8 +166,7 @@ Crypto assets held in one jurisdiction can fund liquidity needs in another witho
 
 Below 5,000,
 
-00
-0 dollars, the noise-to-signal ratio is too high.
+000 dollars, the noise-to-signal ratio is too high.
 
 Above this threshold, shares can be treated as structural liquidity collateral.
 
@@ -376,8 +374,7 @@ With institutional integrity.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

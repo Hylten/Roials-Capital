@@ -6,9 +6,7 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-liquidity-engineering-ROIALS CAPITAL-framework"
 --- 
 
-The dislocation between balance sheet needs and institutional credit availability in 20
-
-26 is not a function of elevated risk profiles.
+The dislocation between balance sheet needs and institutional credit availability in 2026 is not a function of elevated risk profiles.
 
 It is a function of regulatory sequencing and the structural withdrawal of conventional lenders from middle market credit.
 
@@ -74,11 +72,15 @@ Core mechanics inside the Roials Capital Framework include:
 
 Asset Hardening Procedures Hardening is the process of translating operating assets into collateral units that can be measured, verified, and standardized.
 
-This typically includes: 
--  Inventory conversion ratios 
--  Machinery residual value indexing 
--  Receivables aging stratification 
--  Contracted revenue segmentation Hardening does not increase leverage.
+This typically includes:
+
+- Inventory conversion ratios
+
+- Machinery residual value indexing
+
+- Receivables aging stratification
+
+- Contracted revenue segmentation Hardening does not increase leverage.
 
 It increases measurement fidelity. 
 
@@ -88,10 +90,13 @@ Capital Stack Geometry During volatile cycles, the shape of the capital stack is
 
 The geometry defines how liquidity interacts with senior, mezzanine, and equity layers.
 
-A Institutional Liquidity Paths agreement is structured to: 
--  Sit in a senior or super senior position 
--  Maintain predictable coverage ratios 
--  Avoid any structural entanglement with enterprise value underwriting The objective is not risk dilution.
+A Institutional Liquidity Paths agreement is structured to:
+
+- Sit in a senior or super senior position
+
+- Maintain predictable coverage ratios
+
+- Avoid any structural entanglement with enterprise value underwriting The objective is not risk dilution.
 
 The objective is risk containment. 
 
@@ -111,11 +116,15 @@ The waterfall is not punitive.
 
 It is a sequencing device.
 
-Common waterfall tiers include: 
--  Tier 1: Core operations 
--  Tier 2: Liquidity agreement servicing 
--  Tier 3: Supplier stabilization 
--  Tier 4: Expansion optionality This design eliminates ambiguity and improves institutional comfort. 
+Common waterfall tiers include:
+
+- Tier 1: Core operations
+
+- Tier 2: Liquidity agreement servicing
+
+- Tier 3: Supplier stabilization
+
+- Tier 4: Expansion optionality This design eliminates ambiguity and improves institutional comfort. 
 
 5.
 
@@ -192,7 +201,9 @@ It is a technical partner that maps operational truth to institutional capital f
 It is a capital discipline defined by precision, non wasteful allocation, and long duration orientation.
 
 The framework draws from principles such as **Proverbs 13:22
-*
+
+* 
+
 * which emphasizes generational foresight and responsible management.
 
 For Monetization Architecture agreements, stewardship involves: 
@@ -259,8 +270,7 @@ This review allows LPs, GPs, and operators to evaluate whether a Monetization Ar
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

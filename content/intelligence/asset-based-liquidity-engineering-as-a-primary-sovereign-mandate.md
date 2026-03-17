@@ -26,11 +26,15 @@ Institutions do not deploy based on sentiment.
 
 They deploy based on frameworks.
 
-Frameworks that maintain: 
--  Order. 
--  Accountability. 
--  Clear incentives. 
--  Risk discipline.
+Frameworks that maintain:
+
+- Order.
+
+- Accountability.
+
+- Clear incentives.
+
+- Risk discipline.
 
 Asset based Institutional Liquidity Paths aligns capital to structure, not mood.
 
@@ -40,9 +44,11 @@ It is not influenced by cultural cycles or political fashion.
 
 It is influenced only by covenant integrity. 
 
-## The Two Thresholds Roials Capital maintains two non-negotiable Asset-Backed Frameworks floors. 
--  Crypto Capital Structuring at a minimum of two million dollars. 
--  Public shares Asset-Backed Frameworks at a minimum of five million dollars.
+## The Two Thresholds Roials Capital maintains two non-negotiable Asset-Backed Frameworks floors.
+
+- Crypto Capital Structuring at a minimum of two million dollars.
+
+- Public shares Asset-Backed Frameworks at a minimum of five million dollars.
 
 These thresholds force discipline.
 
@@ -66,12 +72,17 @@ Liquidity is the lever.
 
 Control of liquidity is the strategic weapon.
 
-Asset based Institutional Liquidity Paths allows principals to: 
--  Expand without dilution. 
--  Acquire without political dependencies. 
--  Rebalance without public exposure. 
--  Consolidate without noise. 
--  Scale while retaining sovereignty.
+Asset based Institutional Liquidity Paths allows principals to:
+
+- Expand without dilution.
+
+- Acquire without political dependencies.
+
+- Rebalance without public exposure.
+
+- Consolidate without noise.
+
+- Scale while retaining sovereignty.
 
 Every Asset-Backed Frameworks cycle becomes an expansion of authority.
 
@@ -121,11 +132,15 @@ Velocity is a mark of authority.
 
 Asset based Institutional Liquidity Paths provides liquidity without surrendering ownership.
 
-This preserves: 
--  Voting power. 
--  Strategic direction. 
--  Cultural control. 
--  Long horizon planning.
+This preserves:
+
+- Voting power.
+
+- Strategic direction.
+
+- Cultural control.
+
+- Long horizon planning.
 
 Stewards do not sell their birthright for temporary liquidity.
 
@@ -135,13 +150,19 @@ They convert collateral into liquidity while retaining dominion.
 
 The goal is to architect capital.
 
-To operate as a principal requires: 
--  Strategic detachment. 
--  Covenant clarity. 
--  Institutional discipline. 
--  Immediate decision making. 
--  Controlled exposure. 
--  Perimeter sovereignty.
+To operate as a principal requires:
+
+- Strategic detachment.
+
+- Covenant clarity.
+
+- Institutional discipline.
+
+- Immediate decision making.
+
+- Controlled exposure.
+
+- Perimeter sovereignty.
 
 The principal is not inside the market.
 
@@ -159,12 +180,17 @@ They do not time markets.
 
 They dominate cycles.
 
-They maintain Strategic Collateralization lines against: 
--  Equity blocks. 
--  Private shares. 
--  Bitcoin and other crypto assets. 
--  Real estate portfolios. 
--  Operating business assets.
+They maintain Strategic Collateralization lines against:
+
+- Equity blocks.
+
+- Private shares.
+
+- Bitcoin and other crypto assets.
+
+- Real estate portfolios.
+
+- Operating business assets.
 
 Then they rotate liquidity into undervalued assets during market stress.
 
@@ -190,11 +216,15 @@ Allocation scrutiny.
 
 Asset based Asset-Backed Frameworks solves all three.
 
-With the right structures, it creates: 
--  Controlled liquidity to handle redemption events. 
--  Leverage for opportunistic acquisitions. 
--  Strengthened NAV stability. 
--  Faster deployment matching LP expectations.
+With the right structures, it creates:
+
+- Controlled liquidity to handle redemption events.
+
+- Leverage for opportunistic acquisitions.
+
+- Strengthened NAV stability.
+
+- Faster deployment matching LP expectations.
 
 Lenders become partners in velocity.
 
@@ -250,8 +280,7 @@ Request confidential audit.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

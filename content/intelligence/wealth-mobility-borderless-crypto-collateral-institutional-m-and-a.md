@@ -14,9 +14,7 @@ The constraint is structural rather than monetary.
 
 Sovereign regulatory drift, the internal fragmentation of banking systems, and capital friction in legacy correspondent networks have created a new operating landscape.
 
-Allocators aligned with the 20
-
-26 regime shift are repositioning their strategies around mobility, verification, and the ability to unlock collateral outside traditional custody silos. 
+Allocators aligned with the 2026 regime shift are repositioning their strategies around mobility, verification, and the ability to unlock collateral outside traditional custody silos. 
 
  
 
@@ -40,9 +38,7 @@ The major global banks now price cross-border capital not on liquidity supply bu
 
 This has slowed capital deployment in US and EU mid-market buyouts by close to 
 
-40 percent relative to 20
-
-21 activity levels. 
+40 percent relative to 2021 activity levels. 
 
 2.
 
@@ -94,24 +90,27 @@ The mechanics are outlined below.
 
 1.
 
-Custodial Integrity Layer Institutional-grade collateral must reside in a custodial environment with: 
--  SOC
--
-2 compliance 
--  Segregated account logic 
--  Real-time proof-of-reserves 
--  Non rehypothecation 
--  Multi signature exit protocols Unlike retail wallets, institutional-grade custody exists inside a regulated framework where collateral certainty can be validated at audit standard. 
+Custodial Integrity Layer Institutional-grade collateral must reside in a custodial environment with:
+
+- SOC
+
+- 2 compliance
+
+- Segregated account logic
+
+- Real-time proof-of-reserves
+
+- Non rehypothecation
+
+- Multi signature exit protocols Unlike retail wallets, institutional-grade custody exists inside a regulated framework where collateral certainty can be validated at audit standard. 
 
 2.
 
 Over Collateralization Requirements Institutional lenders using digital collateral require over collateralization ratios ranging from 
 
-14
-0 percent to 
+140 percent to 
 
-30
-0 percent depending on the asset, volatility profile, and jurisdiction.
+300 percent depending on the asset, volatility profile, and jurisdiction.
 
 This is materially different from legacy banking collateralization.
 
@@ -127,11 +126,15 @@ Fixed curves maintain uniform LTV thresholds and liquidation triggers regardless
 
 3.
 
-Regulatory Harmonization Borderless collateral must conform to jurisdictional frameworks: 
--  In the US: adherence to the SEC custody rule and FINRA communications guidance. 
--  In the EU: MiFID II classification for alternative assets and PRIIPs reporting thresholds. 
--  In Switzerland: DLT legislation and FINMA asset classification. 
--  In the UAE: VARA oversight and capital mobility reporting lines.
+Regulatory Harmonization Borderless collateral must conform to jurisdictional frameworks:
+
+- In the US: adherence to the SEC custody rule and FINRA communications guidance.
+
+- In the EU: MiFID II classification for alternative assets and PRIIPs reporting thresholds.
+
+- In Switzerland: DLT legislation and FINMA asset classification.
+
+- In the UAE: VARA oversight and capital mobility reporting lines.
 
 The purpose is not to bypass regulation but to harmonize compliance.
 
@@ -141,17 +144,25 @@ The objective is regulatory clarity, not regulatory avoidance.
 
 Liquidity Conversion Pipeline Once collateral is pledged, the conversion pipeline transforms digital collateral into deployable liquidity.
 
-This pipeline must maintain: 
--  Clear identification of originating collateral 
--  Traceability through the conversion process 
--  Settlement reporting aligned with lender jurisdiction 
--  Verified chain-of-custody The output is liquidity that can enter an M&A capital stack with formal legitimacy.
+This pipeline must maintain:
 
-This liquidity is then deployed into: 
--  Fund-III buyout structures 
--  Add-on acquisitions requiring compressed closing timelines 
--  ABL frameworks where collateral coverage is insufficient for legacy lenders 
--  Special mandates in energy, infrastructure, and cross border acquisitions This is liquidity engineering.
+- Clear identification of originating collateral
+
+- Traceability through the conversion process
+
+- Settlement reporting aligned with lender jurisdiction
+
+- Verified chain-of-custody The output is liquidity that can enter an M&A capital stack with formal legitimacy.
+
+This liquidity is then deployed into:
+
+- Fund-III buyout structures
+
+- Add-on acquisitions requiring compressed closing timelines
+
+- ABL frameworks where collateral coverage is insufficient for legacy lenders
+
+- Special mandates in energy, infrastructure, and cross border acquisitions This is liquidity engineering.
 
 It is the optimization of collateral, mobility, and time dependencies.
 
@@ -185,10 +196,13 @@ The firm introduces each allocator archetype to the architecture that aligns wit
 
 2.
 
-Strategy Calibration Each allocator requires a unique calibration model: 
--  For buyout sponsors: capital velocity and certainty of close. 
--  For private credit issuers: collateral safety, seniority, and enforceability under cross-border conditions. 
--  For UHNWIs: wealth mobility, asset protection, and cross-jurisdictional reporting integration.
+Strategy Calibration Each allocator requires a unique calibration model:
+
+- For buyout sponsors: capital velocity and certainty of close.
+
+- For private credit issuers: collateral safety, seniority, and enforceability under cross-border conditions.
+
+- For UHNWIs: wealth mobility, asset protection, and cross-jurisdictional reporting integration.
 
 The calibration stage ensures the capital stack aligns with the structural requirements of the transaction. 
 
@@ -196,13 +210,19 @@ The calibration stage ensures the capital stack aligns with the structural requi
 
 Operational Intelligence Roials Capital navigates regulatory constraints, execution risks, and liquidity dependencies.
 
-This includes: 
--  Identifying regulatory bottlenecks 
--  Structuring cross collateralization layers 
--  Coordinating with custodial partners 
--  Ensuring compliance with FINRA neutral communication standards 
--  Managing KYC and AML consistency across jurisdictions 
--  Harmonizing settlement procedures When energy transactions are involved, the strategic partner NAEO provides technical and operational specificity.
+This includes:
+
+- Identifying regulatory bottlenecks
+
+- Structuring cross collateralization layers
+
+- Coordinating with custodial partners
+
+- Ensuring compliance with FINRA neutral communication standards
+
+- Managing KYC and AML consistency across jurisdictions
+
+- Harmonizing settlement procedures When energy transactions are involved, the strategic partner NAEO provides technical and operational specificity.
 
 This includes decline curve modeling, thermal recovery physics, and Alberta basin analysis.
 
@@ -217,7 +237,9 @@ This briefing is focused on M&A and liquidity engineering, but the partnership m
 The allocator must view capital not as a commodity but as a responsibility.
 
 Wealth mobility frameworks must align with the Theology of Capital. **Proverbs 13:22
-*
+
+* 
+
 * anchors the principle that capital is not for short term consumption but for long term structural continuity.
 
 Two stewardship disciplines govern this domain. 
@@ -226,11 +248,15 @@ Two stewardship disciplines govern this domain.
 
 Preservation Before Expansion Cross border capital must be preserved before it is deployed.
 
-This requires: 
--  Verified reporting 
--  Institutional custody 
--  Regulated conversion pipelines 
--  Cross jurisdictional tax compliance Without preservation, expansion becomes irresponsible. 
+This requires:
+
+- Verified reporting
+
+- Institutional custody
+
+- Regulated conversion pipelines
+
+- Cross jurisdictional tax compliance Without preservation, expansion becomes irresponsible. 
 
 2.
 

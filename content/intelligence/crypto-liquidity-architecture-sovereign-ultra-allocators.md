@@ -297,7 +297,9 @@ The Firm builds the asymmetry into the system itself.
 Waste is not tolerated.
 
 Stewardship is a technical discipline. **Proverbs 13:22
-*
+
+* 
+
 * sets the standard.
 
 A good man leaves an inheritance to his children's children.
@@ -349,7 +351,9 @@ Hard liquidity.
 Hard collateral.
 
 The Book speaks to disciplined gates. **Proverbs 25:28
-*
+
+* 
+
 * describes a city with broken walls as a man with no self control.
 
 The allocator with no liquidity architecture is that broken city.
@@ -368,8 +372,7 @@ Execution certainty at
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Request confidential capital audit.
 

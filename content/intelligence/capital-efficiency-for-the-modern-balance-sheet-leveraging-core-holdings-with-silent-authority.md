@@ -54,12 +54,17 @@ Not built on leverage.
 
 Built on structural readiness and principal authority. 
 
-## Strategic Outcomes for HNWI and UHNW Clients A fully architected capital efficiency system generates measurable outcomes: 
--  Increased liquidity without dilution or disposal. 
--  Preservation of yield and exposure across asset classes. 
--  Faster deployment of capital into opportunities. 
--  Increased defensive capability during volatility. 
--  Discretion and stability across every liquidity event.
+## Strategic Outcomes for HNWI and UHNW Clients A fully architected capital efficiency system generates measurable outcomes:
+
+- Increased liquidity without dilution or disposal.
+
+- Preservation of yield and exposure across asset classes.
+
+- Faster deployment of capital into opportunities.
+
+- Increased defensive capability during volatility.
+
+- Discretion and stability across every liquidity event.
 
 These are the structural advantages previously reserved for institutional families.
 
@@ -93,8 +98,7 @@ We build the framework.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

@@ -94,11 +94,15 @@ Information is the oxygen that keeps the structure risk-sterile.
 
 Borrowers deliver weekly or monthly collateral reports.
 
-The lender receives a continuous feed of: 
--  Sales 
--  Collections 
--  Inventory movements 
--  Adjustments and dilutions Institutional Asset-Based Lending frameworks use this flow to enforce dynamic controls.
+The lender receives a continuous feed of:
+
+- Sales
+
+- Collections
+
+- Inventory movements
+
+- Adjustments and dilutions Institutional Asset-Based Lending frameworks use this flow to enforce dynamic controls.
 
 The controls are not reactive.
 
@@ -124,10 +128,13 @@ The facility therefore reduces the requirement for subjective judgment.
 
 Instead, behaviour is shaped by engineered defaults.
 
-For example: 
--  balance sheet optimization base shortfalls trigger automatic reductions. 
--  Collateral ineligibles isolate contamination. 
--  Availability reserves self-activate when sales or collections deviate.
+For example:
+
+- balance sheet optimization base shortfalls trigger automatic reductions.
+
+- Collateral ineligibles isolate contamination.
+
+- Availability reserves self-activate when sales or collections deviate.
 
 The system shapes the borrower, not the reverse.
 
@@ -237,11 +244,15 @@ Within that frontier, Structural Alpha is the differentiator.
 
 The firm focuses on system integrity, not rate competition.
 
-Our frameworks prioritize: 
--  Predictive modelling 
--  Real-time data architecture 
--  Enforcement geometry 
--  Risk compression mechanics These priorities drive resilience.
+Our frameworks prioritize:
+
+- Predictive modelling
+
+- Real-time data architecture
+
+- Enforcement geometry
+
+- Risk compression mechanics These priorities drive resilience.
 
 Resilience is the source of confidence for institutional partners and borrowers alike. 
 
@@ -265,8 +276,7 @@ Request confidential audit
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

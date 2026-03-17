@@ -64,10 +64,13 @@ Modern ABL frameworks operate as liquidity infrastructure built around four core
 
 1.
 
-Valuation Anchoring Institutional ABL underwriting relies on three distinct valuation anchors. 
--  Realizable value: the liquidation baseline. 
--  Fair market value: the market clearing price under normal conditions. 
--  Strategic value: the operational value to the principal.
+Valuation Anchoring Institutional ABL underwriting relies on three distinct valuation anchors.
+
+- Realizable value: the liquidation baseline.
+
+- Fair market value: the market clearing price under normal conditions.
+
+- Strategic value: the operational value to the principal.
 
 The spread between realizable value and strategic value defines the maximum efficiency of the liquidity structure.
 
@@ -77,9 +80,11 @@ UHNW principals with specialized assets can often command higher strategic valua
 
 LTV Curve Engineering Loan to Value today is dynamic rather than static.
 
-It uses a curve that adjusts based on asset maturity, cash-flow durability, and operational risk. 
--  Operating assets with predictable cash flows sit at the top end of the curve. 
--  Early-stage real assets with entitlement or engineering uncertainty sit lower.
+It uses a curve that adjusts based on asset maturity, cash-flow durability, and operational risk.
+
+- Operating assets with predictable cash flows sit at the top end of the curve.
+
+- Early-stage real assets with entitlement or engineering uncertainty sit lower.
 
 Proper curve engineering creates a stable capital envelope that functions across market conditions. 
 
@@ -95,12 +100,17 @@ Cross-collateralization across asset classes is used to reduce idiosyncratic ris
 
 Liquidity Engineering This is the primary purpose of modern ABL.
 
-It enables: 
--  Recapitalization without divestment 
--  Acquisition acceleration 
--  Strategic reserve creation 
--  Tax efficient liquidity extraction 
--  Interim financing between buyouts and add-ons in a PE platform Liquidity engineering is not a tactic but a structural discipline.
+It enables:
+
+- Recapitalization without divestment
+
+- Acquisition acceleration
+
+- Strategic reserve creation
+
+- Tax efficient liquidity extraction
+
+- Interim financing between buyouts and add-ons in a PE platform Liquidity engineering is not a tactic but a structural discipline.
 
 It is the mechanism by which the balance sheet becomes an asset rather than a constraint.
 
@@ -130,10 +140,13 @@ Archetype classification allows for precision engineering of capital structures 
 
 2.
 
-Market Navigation Roials Capital manages the complexity of multi-jurisdictional capital flows. 
--  Europe requires MiFID II compliant pathways. 
--  North America requires collateral architecture that respects state and provincial frameworks. 
--  Dubai and Switzerland require jurisdictional neutrality.
+Market Navigation Roials Capital manages the complexity of multi-jurisdictional capital flows.
+
+- Europe requires MiFID II compliant pathways.
+
+- North America requires collateral architecture that respects state and provincial frameworks.
+
+- Dubai and Switzerland require jurisdictional neutrality.
 
 The value is in the alignment of regulatory, financial, and operational ecosystems. 
 
@@ -174,7 +187,9 @@ Stewardship applies three constraints.
 1.
 
 Non wasteful resource deployment This principle aligns with **Proverbs 13:22
-*
+
+* 
+
 * .
 
 Capital held in non productive form diminishes operational influence.

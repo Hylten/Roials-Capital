@@ -255,7 +255,9 @@ Companies that rely on regulatory subsidies are excluded.
 Structures that depend on political leniency are eliminated.
 
 Fund-III uses a theological protocol rooted in the principle of inheritance. **Proverbs 13:22
-*
+
+* 
+
 * defines it: the good transfers resources across generations.
 
 This is not sentiment.
@@ -282,8 +284,7 @@ EXIT Fund-III targets mobility-adjusted IRR with a minimum cross-border collater
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Request confidential capital audit.
 

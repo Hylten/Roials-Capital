@@ -30,22 +30,29 @@ It is designed for decision-makers who require clarity rather than persuasion.
 
 ## Crypto and Public Share Strategic Collateralization Within Sovereign Contexts The Overlooked Liquidity Edge Crypto and public share positions, when structured correctly, create instantaneous liquidity layers that can be integrated into sovereign-adjacent credit systems.
 
-Crypto Institutional Liquidity Paths Mechanics: 
--  Minimum threshold 2,000,
+Crypto Institutional Liquidity Paths Mechanics:
 
-00
-0 
--  Custody-secured 
--  Market volatility dampened through structured liquidity facility-to-value engineering 
--  Suitable for rapid collateralization in sovereign-linked liquidity corridors Public Share Strategic Collateralization Mechanics: 
--  Minimum threshold 5,000,
+- Minimum threshold 2,000,
 
-00
-0 
--  Market value stress-tested 
--  Structured hold periods 
--  Collateralized through institutional custody channels 
--  Integrated seamlessly with Asset-Based Lending sovereign tranches for diversified liquidity flow These instruments create a dynamic environment where private capital and sovereign credit can coexist within a disciplined architectural framework. 
+000
+
+- Custody-secured
+
+- Market volatility dampened through structured liquidity facility-to-value engineering
+
+- Suitable for rapid collateralization in sovereign-linked liquidity corridors Public Share Strategic Collateralization Mechanics:
+
+- Minimum threshold 5,000,
+
+000
+
+- Market value stress-tested
+
+- Structured hold periods
+
+- Collateralized through institutional custody channels
+
+- Integrated seamlessly with Asset-Based Lending sovereign tranches for diversified liquidity flow These instruments create a dynamic environment where private capital and sovereign credit can coexist within a disciplined architectural framework. 
 
 ## Macro Stability Factors in Sovereign Capital Structuring The Engine Behind All Structure Sovereign liquidity facility performance correlates strongly with macro stability.
 
@@ -53,13 +60,19 @@ Not political stability.
 
 Macro stability.
 
-Factors include: 
--  Inflation governance capability 
--  Debt to GDP trajectory 
--  Foreign reserve durability 
--  Trade balance sustainability 
--  Institutional coherence of financial ministries 
--  Currency volatility management infrastructure Roials Capital incorporates these metrics before any structural design begins.
+Factors include:
+
+- Inflation governance capability
+
+- Debt to GDP trajectory
+
+- Foreign reserve durability
+
+- Trade balance sustainability
+
+- Institutional coherence of financial ministries
+
+- Currency volatility management infrastructure Roials Capital incorporates these metrics before any structural design begins.
 
 This ensures the architecture remains resilient even in shifting geopolitical environments. 
 
@@ -67,11 +80,15 @@ This ensures the architecture remains resilient even in shifting geopolitical en
 
 Sovereign structures provide the stability that private portfolios can scale against.
 
-The continuum operates as follows: 
--  Sovereign collateral creates macro stability 
--  Private credit structures create micro liquidity 
--  Asset based Institutional Liquidity Paths creates enforceability 
--  High tier private clients extract liquidity against these flows through Roials Capital The result is a multi-layered system where institutional predictability and private liquidity coexist in a clean, frictionless architecture. 
+The continuum operates as follows:
+
+- Sovereign collateral creates macro stability
+
+- Private credit structures create micro liquidity
+
+- Asset based Institutional Liquidity Paths creates enforceability
+
+- High tier private clients extract liquidity against these flows through Roials Capital The result is a multi-layered system where institutional predictability and private liquidity coexist in a clean, frictionless architecture. 
 
 ## Final Orientation Sovereign liquidity facility structuring is an environment where structure dictates outcomes.
 
@@ -93,8 +110,7 @@ As architects.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

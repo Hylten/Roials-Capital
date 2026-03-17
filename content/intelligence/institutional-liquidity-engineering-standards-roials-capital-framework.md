@@ -30,8 +30,7 @@ Basel III revisions and lender risk weighting have materially reduced the availa
 
 20 million and 
 
-50
-0 million enterprise value.
+500 million enterprise value.
 
 These firms have cash flow stability, operational scale, and identifiable asset bases, yet they encounter credit rationing that has no correlation with default risk. 
 
@@ -81,11 +80,15 @@ Capital Stack Normalization Institutional borrowers in Fund-III ecosystems frequ
 
 Typical distortions include overconcentration of amortizing senior debt, underutilized asset bases, and imbalanced working capital cycles.
 
-Asset-Backed Frameworks protocols correct these inefficiencies by: 
--  Segregating operational collateral from growth collateral 
--  Creating non dilutive liquidity layers 
--  Using forward visibility of cash conversion cycles to structure repayment corridors 
--  Implementing asset hardening to lift collateral durability The objective is not leverage expansion.
+Asset-Backed Frameworks protocols correct these inefficiencies by:
+
+- Segregating operational collateral from growth collateral
+
+- Creating non dilutive liquidity layers
+
+- Using forward visibility of cash conversion cycles to structure repayment corridors
+
+- Implementing asset hardening to lift collateral durability The objective is not leverage expansion.
 
 It is timing control and risk compartmentalization. 
 
@@ -93,35 +96,51 @@ It is timing control and risk compartmentalization.
 
 Structural Seniority and Cash Flow Waterfall Engineering Institutional liquidity requires predictability and enforceability.
 
-Roials Capital structures employ: 
--  First loss buffers that isolate underwriting risk 
--  Fixed waterfall mechanics with predefined cash capture triggers 
--  Collateral partitions that preserve seniority across operating subsidiaries 
--  Cross default shields that prevent contagion across compartments These structures align with the operational reality of Fund-III environments where integration timelines and synergy realization schedules require liquidity consistency rather than maximal leverage. 
+Roials Capital structures employ:
+
+- First loss buffers that isolate underwriting risk
+
+- Fixed waterfall mechanics with predefined cash capture triggers
+
+- Collateral partitions that preserve seniority across operating subsidiaries
+
+- Cross default shields that prevent contagion across compartments These structures align with the operational reality of Fund-III environments where integration timelines and synergy realization schedules require liquidity consistency rather than maximal leverage. 
 
 3.
 
 Loan to Value Calibration Strategic Collateralization relies on precise valuation mechanics.
 
-LTV curves are calibrated against: 
--  Realizable asset value rather than theoretical fair market value 
--  Forced sale discounting with conservative recovery factors 
--  Operational integrity metrics such as margin stability and unit level economics In Alberta energy mandates executed with NAEO, LTV calibrations integrate: 
--  Thermal recovery factors 
--  Steam to oil ratios 
--  Reservoir pressure decline curves 
--  SAGD and CSS cycle predictability This creates an asset backed structure rooted in operational physics rather than commodity price speculation. 
+LTV curves are calibrated against:
+
+- Realizable asset value rather than theoretical fair market value
+
+- Forced sale discounting with conservative recovery factors
+
+- Operational integrity metrics such as margin stability and unit level economics In Alberta energy mandates executed with NAEO, LTV calibrations integrate:
+
+- Thermal recovery factors
+
+- Steam to oil ratios
+
+- Reservoir pressure decline curves
+
+- SAGD and CSS cycle predictability This creates an asset backed structure rooted in operational physics rather than commodity price speculation. 
 
 4.
 
 Collateral Architecture and Asset Hardening Institutional standards require collateral that can be validated, isolated, and realized.
 
-Asset hardening disciplines include: 
--  Title purification 
--  Liabilities sweep 
--  Redundancy mapping 
--  Production segregation for energy classes 
--  Monetizable asset identification for operating companies Asset hardening elevates collateral integrity to institutional grade and ensures that liquidity facilities support productive use rather than balance sheet fragility.
+Asset hardening disciplines include:
+
+- Title purification
+
+- Liabilities sweep
+
+- Redundancy mapping
+
+- Production segregation for energy classes
+
+- Monetizable asset identification for operating companies Asset hardening elevates collateral integrity to institutional grade and ensures that liquidity facilities support productive use rather than balance sheet fragility.
 
 THE PARTNERSHIP MODEL The Roials Capital model is structurally different from traditional financing channels.
 
@@ -139,11 +158,15 @@ Capital Acquisition for Fund-III This is the dominant mandate.
 
 Roials Capital works with global LP bases, family offices, sovereign institutions, and private allocators to expand capital access for Fund-III buyout platforms.
 
-The engagement focuses on: 
--  Institutional narrative calibration 
--  Cross jurisdictional compliance alignment 
--  Balance sheet positioning 
--  Liquidity timing synchronization The result is a capital stack that supports acquisition velocity rather than constraining it. 
+The engagement focuses on:
+
+- Institutional narrative calibration
+
+- Cross jurisdictional compliance alignment
+
+- Balance sheet positioning
+
+- Liquidity timing synchronization The result is a capital stack that supports acquisition velocity rather than constraining it. 
 
 2.
 
@@ -157,14 +180,17 @@ Special Mandates for Advanced Energy and EU M&A For energy mandates between
 
 50 million and 
 
-25
-0 million, Roials Capital provides strategic introductions to NAEO, a technical operator in the Alberta energy basin with institutional grade governance.
+250 million, Roials Capital provides strategic introductions to NAEO, a technical operator in the Alberta energy basin with institutional grade governance.
 
-Engagement centers on: 
--  Reservoir due diligence workflows 
--  Operational modeling 
--  Production stability analysis 
--  Capital sequencing In European MiFID II environments, Roials Capital provides cross border calibration, acquisition structuring, and liquidity integration for Nordic and EU corporate expansions. 
+Engagement centers on:
+
+- Reservoir due diligence workflows
+
+- Operational modeling
+
+- Production stability analysis
+
+- Capital sequencing In European MiFID II environments, Roials Capital provides cross border calibration, acquisition structuring, and liquidity integration for Nordic and EU corporate expansions. 
 
  
 
@@ -177,7 +203,9 @@ It is not a virtue signal.
 It is a structural requirement for institutional scale.
 
 Stewardship in capital markets reflects the principle articulated in **Proverbs 13:22
-*
+
+* 
+
 * , where long term resource preservation supersedes short term extraction.
 
 The stewardship filter evaluates all mandates by four criteria: 
@@ -202,18 +230,19 @@ Institutional alignment Roials Capital engages only in mandates where capital, o
 
 Misaligned incentives are filtered out at inception.
 
-DECISION MAKING LENS FOR ALLOCATORS Institutional allocators evaluating private market liquidity approaches face three central questions behind the scenes of every mandate: 
--  Is the liquidity structure synchronized with operational cadence? 
--  Does the collateral architecture withstand institutional due diligence? 
--  Are the incentives structured for long term value preservation rather than short term extraction?
+DECISION MAKING LENS FOR ALLOCATORS Institutional allocators evaluating private market liquidity approaches face three central questions behind the scenes of every mandate:
+
+- Is the liquidity structure synchronized with operational cadence?
+
+- Does the collateral architecture withstand institutional due diligence?
+
+- Are the incentives structured for long term value preservation rather than short term extraction?
 
 The Roials Capital framework provides the analytical infrastructure to answer these questions.
 
 The firm functions as a strategic partner, offering introductions to institutional grade operators and private credit partners while maintaining neutrality and compliance discipline.
 
-Allocators seeking to calibrate their portfolios for the 20
-
-26 environment often benefit from a confidential Strategy Audit, where balance sheet positioning, acquisition timing, liquidity requirements, and asset class exposure are examined through the lens of institutional Asset-Backed Frameworks.
+Allocators seeking to calibrate their portfolios for the 2026 environment often benefit from a confidential Strategy Audit, where balance sheet positioning, acquisition timing, liquidity requirements, and asset class exposure are examined through the lens of institutional Asset-Backed Frameworks.
 
 Roials Capital operates as a navigator within this landscape, equipping decision makers with the structural intelligence required to operate in an era defined by capital scarcity, operational complexity, and opportunity velocity.
 
@@ -221,8 +250,7 @@ Roials Capital operates as a navigator within this landscape, equipping decision
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

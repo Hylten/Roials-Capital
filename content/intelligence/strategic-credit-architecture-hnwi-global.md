@@ -112,28 +112,33 @@ They require clarity on pipeline, acquisition logic, cross collateralization pot
 
 Entrepreneurs and portfolio companies interacting with these funds must respect the institutional calculus.
 
-Several technical elements define this alignment. 
--  LTV curves.
+Several technical elements define this alignment.
+
+- LTV curves.
 
 Institutional lenders and private credit allocators require predictable loan to value ratios that account for forward EBITDA visibility.
 
-Unstructured reporting or inconsistent margin data weakens creditworthiness. 
--  Cash flow waterfalls.
+Unstructured reporting or inconsistent margin data weakens creditworthiness.
+
+- Cash flow waterfalls.
 
 Modern underwriting demands explicit delineation of senior claims, operating cash flows, capex budgets, and shareholder distributions.
 
-Waterfall opacity is a disqualifier. 
--  Asset Hardening.
+Waterfall opacity is a disqualifier.
+
+- Asset Hardening.
 
 Intangible asset loads complicate credit risk assessment.
 
-Hardening the asset base through intellectual property registration, equipment valuation, contractual assignments, or real asset acquisition enhances capital eligibility. 
--  Opportunity Velocity.
+Hardening the asset base through intellectual property registration, equipment valuation, contractual assignments, or real asset acquisition enhances capital eligibility.
+
+- Opportunity Velocity.
 
 Allocators increasingly evaluate how quickly capital can be translated into productive acquisition or expansion.
 
-Velocity is tracked through demonstrated operational pipelines rather than theoretical plans. 
--  Structural Seniority.
+Velocity is tracked through demonstrated operational pipelines rather than theoretical plans.
+
+- Structural Seniority.
 
 Institutional LPs and private credit funds assess whether the entrepreneur can structure senior secured positions for lenders, mezzanine layers for growth capital, and subordinated layers for equity.
 
@@ -149,23 +154,27 @@ It is a liquidity discipline.
 
 Entrepreneurs deploy ABL as a mechanism for balance sheet optimization and risk controlled expansion.
 
-Core mechanics include: 
--  Real time collateral monitoring.
+Core mechanics include:
+
+- Real time collateral monitoring.
 
 Lenders use dynamic borrowing bases that adjust weekly or monthly.
 
-Entrepreneurs must maintain reporting infrastructure that supports this cadence. 
--  Collateral segregation.
+Entrepreneurs must maintain reporting infrastructure that supports this cadence.
+
+- Collateral segregation.
 
 Mixing inventory, receivables, or equipment across entities creates friction.
 
-ABL readiness requires legal and operational compartmentalization. 
--  Utilization ratios.
+ABL readiness requires legal and operational compartmentalization.
+
+- Utilization ratios.
 
 Institutional lenders observe how efficiently capital is deployed relative to asset rotation.
 
-High opportunity velocity combined with disciplined use thresholds increases confidence. 
--  Cross border harmonization.
+High opportunity velocity combined with disciplined use thresholds increases confidence.
+
+- Cross border harmonization.
 
 European entrepreneurs operating in North America must align collateral standards with both regimes.
 
@@ -181,20 +190,27 @@ Special Mandates: NAEOC Energy and EU MiFID II Acquisitions Special mandates rep
 
 North American Energy Operations Consortium (NAEOC) operates as a technical partner within the Alberta basin.
 
-The strategic value arises from the physics of the reservoirs. 
--  SAGD and CSS cycles produce predictable recovery curves. 
--  Long life heavy oil reservoirs exhibit decline rates that are slower and more linear than unconventional shale. 
--  Thermal recovery projects provide transparency on steam oil ratios and long term operational performance. 
--  Alberta's regulatory regime creates stability through predictable royalty structures.
+The strategic value arises from the physics of the reservoirs.
+
+- SAGD and CSS cycles produce predictable recovery curves.
+
+- Long life heavy oil reservoirs exhibit decline rates that are slower and more linear than unconventional shale.
+
+- Thermal recovery projects provide transparency on steam oil ratios and long term operational performance.
+
+- Alberta's regulatory regime creates stability through predictable royalty structures.
 
 These factors convert Alberta heavy oil assets into institutional grade credit objects.
 
 NAEO provides the operational intelligence, engineering visibility, and reservoir modeling that institutional lenders require.
 
-EU MiFID II cross border acquisitions require structural sophistication. 
--  Entitlement risk must be minimized to secure regulatory approval. 
--  Cash flow provenance must satisfy compliance clarity. 
--  Capital movements must align with European supervisory frameworks.
+EU MiFID II cross border acquisitions require structural sophistication.
+
+- Entitlement risk must be minimized to secure regulatory approval.
+
+- Cash flow provenance must satisfy compliance clarity.
+
+- Capital movements must align with European supervisory frameworks.
 
 Entrepreneurs who navigate both North America and Europe require a credit architecture that translates seamlessly across regulatory boundaries.
 
@@ -208,8 +224,9 @@ The firm designs architectures that enable entrepreneurs to interface with insti
 
 The value creation lies in alignment, not distribution.
 
-Key functions include: 
--  Institutional 
+Key functions include:
+
+- Institutional 
 
  INTRODUCTION
 
@@ -217,18 +234,21 @@ Key functions include:
 
 Roials Capital identifies the appropriate lender or fund archetype for the entrepreneur's structural profile.
 
-This is not matchmaking but strategic placement. 
--  Structural Calibration.
+This is not matchmaking but strategic placement.
+
+- Structural Calibration.
 
 Entrepreneurs require balance sheets that speak the language of institutional underwriting.
 
-Roials Capital recalibrates reporting, asset classification, and capital stack positioning to match this language. 
--  Operational Intelligence.
+Roials Capital recalibrates reporting, asset classification, and capital stack positioning to match this language.
+
+- Operational Intelligence.
 
 In sectors like energy, NAEO acts as the operational partner providing reservoir engineering, decline curve analysis, and production forecasting.
 
-This technical intelligence underpins the credibility of the capital request. 
--  Global Coordination.
+This technical intelligence underpins the credibility of the capital request.
+
+- Global Coordination.
 
 For entrepreneurs with European governance structures and North American operations, Roials Capital harmonizes regulatory environments to prevent structural friction.
 
@@ -243,25 +263,36 @@ This partnership model positions Roials Capital as a strategic interpreter betwe
 It is the discipline of non wasteful resource management.
 
 The entrepreneur who treats capital as a scarce and sacred instrument achieves structural credibility. **Proverbs 13:22
-*
+
+* 
+
 * identifies the principle of multi generational responsibility.
 
 A well constructed credit architecture aligns with this principle by prioritizing durability over acceleration, clarity over complexity, and transparency over opacity.
 
-Stewardship in this context includes: 
--  Maintaining conservative leverage relative to cash flow visibility. 
--  Prioritizing asset hardening to support lender confidence. 
--  Implementing reporting structures that are accurate, timely, and comprehensive. 
--  Avoiding opportunistic short term financing that compromises long term stability.
+Stewardship in this context includes:
+
+- Maintaining conservative leverage relative to cash flow visibility.
+
+- Prioritizing asset hardening to support lender confidence.
+
+- Implementing reporting structures that are accurate, timely, and comprehensive.
+
+- Avoiding opportunistic short term financing that compromises long term stability.
 
 This filter ensures that any capital formation process supports long horizon entrepreneurship and institutional trust.
 
-DECISION MAKING LENS FOR THE ALLOCATOR Entrepreneurs evaluating their credit architecture must apply a disciplined lens. 
--  Does the balance sheet exhibit institutional clarity. 
--  Are cash flows transparent enough for private credit underwriting. 
--  Has collateral been hardened to support cross border or sector specialized financing. 
--  Are buyout pipelines or acquisition strategies validated through operational intelligence. 
--  Is the entrepreneur prepared for the cadence and reporting standards of institutional capital.
+DECISION MAKING LENS FOR THE ALLOCATOR Entrepreneurs evaluating their credit architecture must apply a disciplined lens.
+
+- Does the balance sheet exhibit institutional clarity.
+
+- Are cash flows transparent enough for private credit underwriting.
+
+- Has collateral been hardened to support cross border or sector specialized financing.
+
+- Are buyout pipelines or acquisition strategies validated through operational intelligence.
+
+- Is the entrepreneur prepared for the cadence and reporting standards of institutional capital.
 
 Roials Capital provides a structured path for answering these questions.
 

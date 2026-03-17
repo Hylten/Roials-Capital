@@ -70,11 +70,15 @@ Sovereign capital does not eliminate uncertainty.
 
 It controls exposure through collateral discipline and liquidity override.
 
-In practice, this means: 
--  Collateral is always real, measurable, and enforceable. 
--  Liquidity is deployed only when structural alignment is confirmed. 
--  Capital terms are set to strengthen position, not erode it. 
--  Borrowers maintain control without sacrificing strategic ground.
+In practice, this means:
+
+- Collateral is always real, measurable, and enforceable.
+
+- Liquidity is deployed only when structural alignment is confirmed.
+
+- Capital terms are set to strengthen position, not erode it.
+
+- Borrowers maintain control without sacrificing strategic ground.
 
 This approach is not reactive.
 
@@ -86,22 +90,31 @@ We do not chase opportunity.
 
 We structure opportunity.
 
-Every Capital Structuring instrument we offer follows this hierarchy: 
--  Precision over volume 
--  Structure over story 
--  Collateral over conjecture 
--  Sovereignty over sentiment Our Strategic Collateralization models, whether private credit, Asset-Based Lending, crypto collateral, or public shares, exist within a consolidated framework that prioritizes continuity, discretion, and control. 
+Every Capital Structuring instrument we offer follows this hierarchy:
+
+- Precision over volume
+
+- Structure over story
+
+- Collateral over conjecture
+
+- Sovereignty over sentiment Our Strategic Collateralization models, whether private credit, Asset-Based Lending, crypto collateral, or public shares, exist within a consolidated framework that prioritizes continuity, discretion, and control. 
 
 ## Why HNWI and UHNW Principals Prefer Sovereign Structures The affluent do not seek typical financing.
 
 They seek structural equilibrium.
 
-The motivations are clear: 
--  Maintain control of existing positions 
--  Access liquidity without selling 
--  Optimize tax and jurisdictional advantages 
--  Create optionality without introducing disorder 
--  Strengthen asset posture during volatile cycles These objectives align with sovereign capital because sovereign capital is designed for them.
+The motivations are clear:
+
+- Maintain control of existing positions
+
+- Access liquidity without selling
+
+- Optimize tax and jurisdictional advantages
+
+- Create optionality without introducing disorder
+
+- Strengthen asset posture during volatile cycles These objectives align with sovereign capital because sovereign capital is designed for them.
 
 Traditional financing penalizes complexity.
 
@@ -159,8 +172,7 @@ It provides infrastructure.
 
 ROIALS CAPITAL functions within this framework, offering private credit Strategic Collateralization, Asset-Based Lending solutions, crypto Asset-Backed Frameworks from 2,000,000, and public share Asset-Backed Frameworks from 5,000,
 
-00
-0 for HNWI and UHNW clients who require principal authority rather than overt motion.
+000 for HNWI and UHNW clients who require principal authority rather than overt motion.
 
 If liquidity is the question, structure is the answer.
 
@@ -172,8 +184,7 @@ If you require institutional discipline without institutional noise, ROIALS CAPI
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

@@ -16,7 +16,7 @@ This structural gap has pushed UHNW allocators toward non sovereign liquidity pa
 
 The fastest growing of these mechanisms is crypto backed asset based lending, functioning not as speculative leverage but as an engineered liquidity rail for balance sheet expansion, capital stack optimization, and controlled exposure migration.
 
-Phase I: .
+### Phase I: .
 
  
 
@@ -38,11 +38,7 @@ Major economies have extended sovereign balance sheets faster than domestic prod
 
 Debt rollover timelines are shortening while coupon loads are rising.
 
-This is the reverse of the 19
-
-90 to 20
-
-20 sovereign cycle.
+This is the reverse of the 1990 to 2020 sovereign cycle.
 
 The modern allocator is navigating a regime where liquidity preference is increasingly short term while sovereign issuance is structurally long term. 
 
@@ -80,7 +76,7 @@ The underwriting discipline is data deterministic.
 
 It offers a form of liquidity engineering that sovereign assets cannot replicate.
 
-Phase II: .
+### Phase II: .
 
  
 
@@ -178,7 +174,7 @@ UHNWIs are not pursuing crypto exposure.
 
 They are pursuing collateral mobility under regime constraints.
 
-Phase III: .
+### Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator within this realignment.
 
@@ -208,11 +204,13 @@ The structure is often used to facilitate cross border capital alignment, M&A pr
 
 3.
 
-Special mandates. 
--  Energy: NAEO remains the institutional partner in Alberta for heavy oil and SAGD based acquisition strategies.
+Special mandates.
 
-Crypto backed ABL is occasionally used to unlock cash for energy entry while preserving core asset allocations. 
--  EU MiFID II acquisitions: liquidity acceleration supports regulatory approvals and settlement windows without forcing asset disposals.
+- Energy: NAEO remains the institutional partner in Alberta for heavy oil and SAGD based acquisition strategies.
+
+Crypto backed ABL is occasionally used to unlock cash for energy entry while preserving core asset allocations.
+
+- EU MiFID II acquisitions: liquidity acceleration supports regulatory approvals and settlement windows without forcing asset disposals.
 
 The partnership model focuses on structural navigation.
 
@@ -220,7 +218,7 @@ Roials Capital provides operational intelligence, lender mapping, risk tier allo
 
 The firm operates as the introducer and strategist, not the counterparty and not the capital source.
 
-Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship is not sentiment.
 
@@ -237,7 +235,9 @@ Liquidity is not pursued to increase leverage.
 It is pursued to maintain strategic optionality and avoid unnecessary asset liquidation.
 
 This reflects the principle in **Proverbs 13:22
-*
+
+* 
+
 * which highlights the enduring nature of multigenerational capital. 
 
 2.
@@ -264,7 +264,7 @@ Stewardship is a filter that eliminates high friction liquidity solutions and el
 
 It aligns with UHNW preference for structural integrity over tactical improvisation.
 
-Phase V: .
+### Phase V: .
 
 ALLOCATOR LENS AND NEXT STEPS For UHNWIs, family offices, and institutional LPs calibrating their liquidity architecture, three questions define the current landscape.
 

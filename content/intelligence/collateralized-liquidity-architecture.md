@@ -126,10 +126,13 @@ When a GP models LTV as a curve instead of a point figure, the underwriting beco
 
 The correct model treats LTV as a time weighted liquidity function.
 
-This means: 
--  LTV shifts by week, not quarter. 
--  Recovery rates need dynamic adjustment based on real field conditions. 
--  Seasonal volatility must be built into the curve instead of added as a variable later.
+This means:
+
+- LTV shifts by week, not quarter.
+
+- Recovery rates need dynamic adjustment based on real field conditions.
+
+- Seasonal volatility must be built into the curve instead of added as a variable later.
 
 Lever 2: Cash flow waterfalls.
 
@@ -141,11 +144,15 @@ That rigidity kills liquidity when the borrower enters stress.
 
 A dynamic waterfall uses conditional triggers that re-route cash to preserve asset hardening first, distribution second.
 
-Strong facilities establish: 
--  Priority to collateral maintenance. 
--  Mandatory cure payments when inventory cycles lag. 
--  Shock absorption buffers tied to real-time AR aging. 
--  A covenant that penalizes opacity more than deterioration.
+Strong facilities establish:
+
+- Priority to collateral maintenance.
+
+- Mandatory cure payments when inventory cycles lag.
+
+- Shock absorption buffers tied to real-time AR aging.
+
+- A covenant that penalizes opacity more than deterioration.
 
 Transparency is capital.
 
@@ -155,12 +162,17 @@ Recovery is the only real test of underwriting.
 
 Everything else is speculation.
 
-A recovery model must incorporate: 
--  Forced liquidation timing. 
--  Jurisdictional delay coefficients. 
--  Equipment depreciation volatility. 
--  AR contamination through cross-customer dependence. 
--  Title defects and silent liens.
+A recovery model must incorporate:
+
+- Forced liquidation timing.
+
+- Jurisdictional delay coefficients.
+
+- Equipment depreciation volatility.
+
+- AR contamination through cross-customer dependence.
+
+- Title defects and silent liens.
 
 This is why we apply a recovery factor discount well beyond what traditional banks consider normal.
 
@@ -200,12 +212,17 @@ They are buying governance.
 
 Fund-III capital must be positioned as a liquidity extraction engine for asset-heavy, cash-constrained companies.
 
-LPs respond to: 
--  Hard collateral. 
--  Clear borrowing base models. 
--  Recovery predictability. 
--  Post-acquisition liquidity pathways. 
--  Real covenant governance instead of paper risk management.
+LPs respond to:
+
+- Hard collateral.
+
+- Clear borrowing base models.
+
+- Recovery predictability.
+
+- Post-acquisition liquidity pathways.
+
+- Real covenant governance instead of paper risk management.
 
 The message is simple.
 
@@ -258,7 +275,9 @@ It is administered.
 Stewardship is not theology placed on top of finance.
 
 Stewardship is the only framework that prevents waste. **Proverbs 13:22
-*
+
+* 
+
 * anchors 
 
 ## THE MANDATE
@@ -273,12 +292,17 @@ It is a capital instruction.
 
 It implies long duration time horizons, resilient asset structures, and multi generational capital discipline.
 
-Collateralized liquidity aligns with biblical stewardship because: 
--  It protects principal. 
--  It rewards transparency. 
--  It rejects speculation. 
--  It forces covenant integrity. 
--  It ensures assets remain productive.
+Collateralized liquidity aligns with biblical stewardship because:
+
+- It protects principal.
+
+- It rewards transparency.
+
+- It rejects speculation.
+
+- It forces covenant integrity.
+
+- It ensures assets remain productive.
 
 Stewardship is not soft.
 
@@ -312,8 +336,7 @@ For a confidential capital audit, initiate contact.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

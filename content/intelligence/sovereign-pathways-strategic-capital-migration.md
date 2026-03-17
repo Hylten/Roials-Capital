@@ -19,7 +19,9 @@ Capital must migrate.
 Structures must shift.
 
 Status must upgrade. **Proverbs 13:22
-*
+
+* 
+
 * : A good man leaves an inheritance to his children’s children.
 
 Inheritance demands durability.
@@ -84,10 +86,13 @@ Identity moves second.
 
 Institutions move last.
 
-The UHNW principal must activate all three. 
--  
--  
--  Strategic capital migration begins with an upstream assessment: domicile, tax residency, legal capacity, asset classification, and cross-border reporting obligations.
+The UHNW principal must activate all three.
+
+- 
+
+- 
+
+- Strategic capital migration begins with an upstream assessment: domicile, tax residency, legal capacity, asset classification, and cross-border reporting obligations.
 
 Most principals underestimate the institutional drag created by outdated structures.
 
@@ -121,10 +126,13 @@ The principal needs insulation.
 
 Capital migration provides the insulation.
 
-Three-tier architecture is the emerging standard: 
--  Sovereign shield jurisdiction 
--  Operational allocation jurisdiction 
--  Asset-holding jurisdiction When correctly sequenced, these layers eliminate the drag that most UHNW principals carry without understanding the cost.
+Three-tier architecture is the emerging standard:
+
+- Sovereign shield jurisdiction
+
+- Operational allocation jurisdiction
+
+- Asset-holding jurisdiction When correctly sequenced, these layers eliminate the drag that most UHNW principals carry without understanding the cost.
 
 When misaligned, these same layers become friction points, raising red flags to institutional partners and reducing strategic room in negotiations.
 
@@ -166,10 +174,13 @@ Discretionary.
 
 Purpose-driven.
 
-UHNW principals must adopt similar discipline. 
--  
--  
--  Sovereign capital migration involves the selection of a primary shield jurisdiction.
+UHNW principals must adopt similar discipline.
+
+- 
+
+- 
+
+- Sovereign capital migration involves the selection of a primary shield jurisdiction.
 
 The jurisdiction must satisfy six criteria: stability, treaty depth, institutional legitimacy, banking robustness, capital-flow freedom, and reputational neutrality.
 
@@ -215,10 +226,13 @@ Value is leverage.
 
 Leverage creates better buyout terms.
 
-Fund-III demands leverage. 
--  
--  
--  Operational allocation jurisdictions support deployment pathways.
+Fund-III demands leverage.
+
+- 
+
+- 
+
+- Operational allocation jurisdictions support deployment pathways.
 
 These are often overlooked.
 
@@ -294,10 +308,13 @@ Their negotiation leverage surges.
 
 Their long-term wealth becomes insulated.
 
-Wealth insulation is the endgame. 
--  
--  
--  Asset-holding jurisdictions finalize the architecture.
+Wealth insulation is the endgame.
+
+- 
+
+- 
+
+- Asset-holding jurisdictions finalize the architecture.
 
 The principal must deploy asset walls.
 
@@ -343,10 +360,13 @@ Regulated sectors demand compliance precision.
 
 Compliance precision demands jurisdictional discipline.
 
-Strategic capital migration provides the discipline. 
--  
--  
--  The principal must also evaluate regulatory arbitrage across continents.
+Strategic capital migration provides the discipline.
+
+- 
+
+- 
+
+- The principal must also evaluate regulatory arbitrage across continents.
 
 Europe enforces MiFID II.
 
@@ -410,10 +430,13 @@ Assets detach from exposure.
 
 Capital becomes sovereign.
 
-Sovereign capital creates sovereign opportunity. 
--  
--  
--  The sociopolitical environment accelerates the urgency.
+Sovereign capital creates sovereign opportunity.
+
+- 
+
+- 
+
+- The sociopolitical environment accelerates the urgency.
 
 Tax authorities automate.
 
@@ -459,10 +482,13 @@ They moved early.
 
 Most UHNW principals are late.
 
-But not too late. 
--  
--  
--  Strategic capital migration also affects intergenerational transfer.
+But not too late.
+
+- 
+
+- 
+
+- Strategic capital migration also affects intergenerational transfer.
 
 Family governance systems depend on structural clarity.
 
@@ -499,7 +525,9 @@ They become institutional heirs, not dependent beneficiaries.
 Institutional heirs protect legacy.
 
 Legacy is the true mandate. **Proverbs 13:22
-*
+
+* 
+
 * : A good man leaves an inheritance to his children’s children.
 
 Not merely wealth.
@@ -560,8 +588,7 @@ This is
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Request confidential capital audit.
 

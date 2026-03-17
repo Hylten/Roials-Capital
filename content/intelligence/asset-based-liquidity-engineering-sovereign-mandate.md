@@ -39,7 +39,9 @@ Capital must be designed, not requested.
 Structures must deliver, not promise.
 
 This is the new operating field for Fund‑III mandates, and the competitive delta sits with firms that can compress collateral, jurisdiction, and leverage into a unified sovereign-grade liquidity core. **Proverbs 13:22
-*
+
+* 
+
 * states: A good man leaves an inheritance to his children’s children: but the wealth of the sinner is laid up for the just.
 
 The principle applies institutionally.
@@ -366,9 +368,11 @@ Architects.
 
 Principals who design regulatory transfer as a predictable sequence rather than a bureaucratic obstacle.
 
-In all three verticals 
--  Fund‑III buyouts, Asset-Based Lending engineering, special mandates 
--  the underlying determinant is sovereign‑grade capital architecture.
+In all three verticals
+
+- Fund‑III buyouts, Asset-Based Lending engineering, special mandates
+
+- the underlying determinant is sovereign‑grade capital architecture.
 
 Architecture is power.
 
@@ -391,7 +395,9 @@ It is fifty.
 Or more.
 
 This is why the biblical principle remains structurally relevant. **Proverbs 13:22
-*
+
+* 
+
 * : A good man leaves an inheritance to his children’s children.
 
 The sovereign LP interprets this through capital structures.
@@ -494,8 +500,7 @@ Projected Liquidity Efficiency Index:
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

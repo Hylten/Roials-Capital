@@ -88,13 +88,11 @@ We operate at thresholds that are aligned with sophisticated investors.
 
 Crypto Capital Structuring begins at 2,000,
 
-00
-0 USD.
+000 USD.
 
 Public share Strategic Collateralization begins at 5,000,
 
-00
-0 USD.
+000 USD.
 
 These thresholds are not barriers.
 
@@ -230,8 +228,7 @@ We provide institutional grade structure with private market velocity.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

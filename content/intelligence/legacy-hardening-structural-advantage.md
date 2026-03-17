@@ -100,12 +100,17 @@ Asset hardening occurs when the field is re capitalized with a stable capital pa
 
 Capital Structuring supports this transformation.
 
-Instead of relying on traditional reserve based lending, institutional private credit funds deploy structures centered on: 
--  LTV curves calibrated to field specific decline trends. 
--  Structural seniority with clear cash flow waterfalls. 
--  Cross collateralization between producing pads or leases. 
--  Amortization schedules linked to operational benchmarks rather than calendar schedules. 
--  Cash sweep mechanisms that accelerate principal reduction during high differential spreads.
+Instead of relying on traditional reserve based lending, institutional private credit funds deploy structures centered on:
+
+- LTV curves calibrated to field specific decline trends.
+
+- Structural seniority with clear cash flow waterfalls.
+
+- Cross collateralization between producing pads or leases.
+
+- Amortization schedules linked to operational benchmarks rather than calendar schedules.
+
+- Cash sweep mechanisms that accelerate principal reduction during high differential spreads.
 
 This is not opportunistic lending.
 
@@ -151,8 +156,7 @@ Special mandates between
 
 50 million USD and 
 
-25
-0 million USD in energy follow a defined due diligence sequence based on reservoir mapping, decline calibration, and cash flow hardening procedures. 
+250 million USD in energy follow a defined due diligence sequence based on reservoir mapping, decline calibration, and cash flow hardening procedures. 
 
  
 
@@ -167,7 +171,9 @@ Stewardship is not sentiment.
 It is an operational framework that prevents capital dissipation and compels disciplined decision making.
 
 Mature energy fields, industrial businesses, and hard asset platforms demand stewards, not speculators. **Proverbs 13:22
-*
+
+* 
+
 * positions resource transfer as an intergenerational principle.
 
 This aligns with allocator mandates focused on wealth preservation, institutional longevity, and multi cycle resilience.
@@ -176,10 +182,13 @@ Asset hardening, Monetization Architecture, and operational precision become exp
 
 They convert volatility into durability.
 
-Stewardship integrates three filters: 
--  Extraction discipline that prevents value leakage through inefficient operations or misaligned capex. 
--  Structural discipline that ensures capital enters vehicles with appropriate seniority and protection. 
--  Temporal discipline that ensures assets are positioned for long term viability rather than short term optical yield.
+Stewardship integrates three filters:
+
+- Extraction discipline that prevents value leakage through inefficient operations or misaligned capex.
+
+- Structural discipline that ensures capital enters vehicles with appropriate seniority and protection.
+
+- Temporal discipline that ensures assets are positioned for long term viability rather than short term optical yield.
 
 PORTFOLIO CALIBRATION LENS The allocator evaluating the legacy hardening thesis is not selecting an asset class.
 
@@ -189,17 +198,17 @@ THE REGIME SHIFT
 
  favors structures over narratives, physics over speculation, and operational intelligence over momentum flows.
 
-A confidential strategy audit with Roials Capital focuses on: 
--  Capital stack optimization for Fund-III environments. 
--  Structural positioning across private credit and energy hard assets. 
--  
+A confidential strategy audit with Roials Capital focuses on:
 
- INTRODUCTION
+- Capital stack optimization for Fund-III environments.
 
- pathways to NAEO for operators requiring institutional partners. 
--  Portfolio calibration to align with 20
+- Structural positioning across private credit and energy hard assets.
 
-26 macro constraints and opportunity velocity cycles.
+- INTRODUCTION
+
+ pathways to NAEO for operators requiring institutional partners.
+
+- Portfolio calibration to align with 2026 macro constraints and opportunity velocity cycles.
 
 Legacy hardening is the advantage.
 
@@ -211,8 +220,7 @@ Institutional navigation is the differentiator. [END OF BRIEFING]
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

@@ -50,11 +50,15 @@ Unlock liquidity without triggering taxable events.
 
 Bitcoin, when paired with sophisticated asset based Asset-Backed Frameworks mechanics, satisfies each of these requirements with notable precision.
 
-## The structural benefits are clear 
--  Continuous market depth, which supports institutional scale collateralisation. 
--  Transparent valuation, which significantly reduces the interpretive risk common in traditional Asset-Based Lending. 
--  Mobility, which allows rapid settlement without operational friction. 
--  Independence from banking bottlenecks, granting more reliable liquidity windows during stressed markets.
+## The structural benefits are clear
+
+- Continuous market depth, which supports institutional scale collateralisation.
+
+- Transparent valuation, which significantly reduces the interpretive risk common in traditional Asset-Based Lending.
+
+- Mobility, which allows rapid settlement without operational friction.
+
+- Independence from banking bottlenecks, granting more reliable liquidity windows during stressed markets.
 
 ROIALS CAPITAL aligns these properties with disciplined private credit infrastructure.
 
@@ -72,8 +76,7 @@ Thresholds protect the environment, the client, and the architecture.
 
 ## Crypto Monetization Architecture Minimum threshold: 2,000,
 
-00
-0 USD.
+000 USD.
 
 This floor ensures the capital structure functions as institutional credit rather than transactional speculation.
 
@@ -83,8 +86,7 @@ It signals seriousness.
 
 ## Public Share Asset-Backed Frameworks Minimum threshold: 5,000,
 
-00
-0 USD.
+000 USD.
 
 Positions of this size create predictable velocity within an Asset-Based Lending structure.
 
@@ -142,11 +144,15 @@ The structure must be silent.
 
 The structure must protect the principal from volatility without diminishing the asset’s long term utility.
 
-## Our structural pillars 
--  Private Credit Foundation: We operate in the disciplined, non speculative arena where collateral quality dictates terms. 
--  Asset Based Strategic Collateralization Precision: Every parameter, from liquidity facility to value to liquidity buffers, is engineered around stability, not aggression. 
--  Multi Layer Risk Orchestration: We separate market risk, custody risk, and structural risk so no single variable can compromise the client's position. 
--  principal authority Posture: Our presence is architectural, not promotional.
+## Our structural pillars
+
+- Private Credit Foundation: We operate in the disciplined, non speculative arena where collateral quality dictates terms.
+
+- Asset Based Strategic Collateralization Precision: Every parameter, from liquidity facility to value to liquidity buffers, is engineered around stability, not aggression.
+
+- Multi Layer Risk Orchestration: We separate market risk, custody risk, and structural risk so no single variable can compromise the client's position.
+
+- principal authority Posture: Our presence is architectural, not promotional.
 
 We design the conditions in which capital behaves correctly.
 
@@ -242,17 +248,27 @@ ROIALS CAPITAL applies this engineering mindset across every stage, from collate
 
 It is a structural observation.
 
-Gold served global finance because it was: 
--  scarce 
--  divisible 
--  durable 
--  globally recognised 
--  independent of political systems Bitcoin shares these characteristics, and adds: 
--  digital portability 
--  immutable supply 
--  automated settlement 
--  transparent verification 
--  liquidity without borders Family offices that understand this shift strengthen their position for the next fifty years, not the next cycle. 
+Gold served global finance because it was:
+
+- scarce
+
+- divisible
+
+- durable
+
+- globally recognised
+
+- independent of political systems Bitcoin shares these characteristics, and adds:
+
+- digital portability
+
+- immutable supply
+
+- automated settlement
+
+- transparent verification
+
+- liquidity without borders Family offices that understand this shift strengthen their position for the next fifty years, not the next cycle. 
 
 ## The ROIALS CAPITAL Position We do not speculate.
 
@@ -286,8 +302,7 @@ ROIALS CAPITAL is the architecture.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

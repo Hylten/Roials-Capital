@@ -54,9 +54,7 @@ The banks have withdrawn due to ESG scoring regimes and reserve-based lending co
 
 This divergence has widened the spread between operating fundamentals and available capital.
 
-Institutional capital migration in 20
-
-26 mirrors a logic long observable in commodity and industrial cycles: capital moves to where operational certainty exceeds perceived regulatory or reputational friction.
+Institutional capital migration in 2026 mirrors a logic long observable in commodity and industrial cycles: capital moves to where operational certainty exceeds perceived regulatory or reputational friction.
 
 The Alberta basin demonstrates this principle.
 
@@ -90,10 +88,13 @@ Energy operators like those partnered with NAEO demonstrate similar attributes: 
 
 Capital Vector 3: Asset Hardening When capital migrates into hard-asset domains, allocators require operational mechanics that convert soft value into hard collateral.
 
-In energy, this is achieved through: 
--  recompletions 
--  wellbore optimization 
--  steam-cycle efficiency improvements These processes increase reserve certainty.
+In energy, this is achieved through:
+
+- recompletions
+
+- wellbore optimization
+
+- steam-cycle efficiency improvements These processes increase reserve certainty.
 
 In private credit, asset hardening appears as covenants requiring real-asset verification, valuations tied to replacement cost, and elimination of intangible collateral categories.
 
@@ -162,14 +163,20 @@ This operational intelligence reduces discovery costs for allocators.
 ## THE STEWARDSHIP FILTER Stewardship is treated not as philanthropy but as a discipline of non-wasteful resource management.
 
 For institutions with multi-generational mandates, capital stewardship aligns with the scriptural principle in **Proverbs 13:22
-*
+
+* 
+
 * , emphasizing longevity, prudence, and structured allocation.
 
-Stewardship in this context means: 
--  capital is allocated into environments where operational waste is minimized 
--  governance frameworks enforce transparency and technical clarity 
--  reinvestment decisions follow rational decline curves 
--  leverage is used as a tool rather than an outcome The stewardship filter is a decision-making gate that evaluates whether a strategy advances the long-term sustainability of institutional capital.
+Stewardship in this context means:
+
+- capital is allocated into environments where operational waste is minimized
+
+- governance frameworks enforce transparency and technical clarity
+
+- reinvestment decisions follow rational decline curves
+
+- leverage is used as a tool rather than an outcome The stewardship filter is a decision-making gate that evaluates whether a strategy advances the long-term sustainability of institutional capital.
 
 The Alberta basin provides a clear illustration.
 
@@ -183,11 +190,15 @@ DECISION-MAKING LENS FOR ALLOCATORS The present cycle rewards institutions that 
 
 Capital migration will continue toward assets with intrinsic durability, predictable mechanics, and governance frameworks aligned with solvency requirements.
 
-Allocators seeking higher visibility into: 
--  North American energy operating precision 
--  Buyout and add-on platform calibration for Fund-III+ 
--  Capital Structuring via Asset-Based Lending and asset-based structures 
--  Cross-border MiFID II or GCC-aligned mandates will benefit from a confidential portfolio calibration dialogue.
+Allocators seeking higher visibility into:
+
+- North American energy operating precision
+
+- Buyout and add-on platform calibration for Fund-III+
+
+- Capital Structuring via Asset-Based Lending and asset-based structures
+
+- Cross-border MiFID II or GCC-aligned mandates will benefit from a confidential portfolio calibration dialogue.
 
 This dialogue is not a solicitation.
 
@@ -197,8 +208,7 @@ It is a structural assessment designed to map institutional objectives to the cu
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

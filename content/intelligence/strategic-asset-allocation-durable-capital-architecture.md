@@ -22,11 +22,7 @@ The allocators who adapt their strategic allocation models to these conditions a
 
 ## THE REGIME SHIFT
 
- The 20
-
-20 to 20
-
-26 transition period produced a material break in allocator behavior.
+ The 2020 to 2026 transition period produced a material break in allocator behavior.
 
 The global allocator base shifted from expansionary models to risk neutral and capital preservation structures due to four systemic pressures. 
 
@@ -52,9 +48,7 @@ The global supply chain plateau Global supply chains have not collapsed.
 
 They have plateaued.
 
-This flattening removes the growth tailwinds that sustained high valuation multiples in 20
-
-14 to 
+This flattening removes the growth tailwinds that sustained high valuation multiples in 2014 to 
 
 2019.
 
@@ -102,26 +96,33 @@ Add on acquisition funnels are more precise.
 
 The structural signature of a mature Fund-III is operational clarity.
 
-Allocators focus on: 
--  LTV curves that decline predictably due to operational cash flow 
--  Cash flow waterfalls with hardened priority structures 
--  Stabilized EBITDA vectors that reduce capital volatility 
--  Cross collateralization frameworks that allow consolidation of add ons This architecture supports both operational expansion and liquidity pre positioning.
+Allocators focus on:
 
-The buyout environment in 20
+- LTV curves that decline predictably due to operational cash flow
 
-26 favors managers who integrate balance sheet optimization from day one, not from the mid cycle.
+- Cash flow waterfalls with hardened priority structures
+
+- Stabilized EBITDA vectors that reduce capital volatility
+
+- Cross collateralization frameworks that allow consolidation of add ons This architecture supports both operational expansion and liquidity pre positioning.
+
+The buyout environment in 2026 favors managers who integrate balance sheet optimization from day one, not from the mid cycle.
 
 B.
 
 Liquidity Engineering Liquidity Engineering is the discipline of transforming operational volatility into predictable capital behavior.
 
-Key tools include: 
--  Asset backed lending optimization across senior, unitranche, and hybrid structures 
--  Advance rate calibration using real time receivable aging 
--  Structuring of amortization profiles that match operational seasonality 
--  Embedded covenants that support asset hardening rather than restricting growth 
--  Cash flow corridor engineering to stabilize distribution capacity This transforms the balance sheet from a reactive instrument into an active liquidity generator.
+Key tools include:
+
+- Asset backed lending optimization across senior, unitranche, and hybrid structures
+
+- Advance rate calibration using real time receivable aging
+
+- Structuring of amortization profiles that match operational seasonality
+
+- Embedded covenants that support asset hardening rather than restricting growth
+
+- Cash flow corridor engineering to stabilize distribution capacity This transforms the balance sheet from a reactive instrument into an active liquidity generator.
 
 This has become a central requirement for allocators who seek long term durability.
 
@@ -131,12 +132,17 @@ North American energy mechanics The technical conditions of Alberta heavy oil ha
 
 Production regimes rely on SAGD and CSS.
 
-These techniques produce: 
--  Predictable decline curves 
--  High data density for reservoir modeling 
--  Low exploration risk due to known geology 
--  Strong recovery factors based on thermal stimulation 
--  Long life assets with multi decade production capacity Our strategic partner, NAEO, focuses on matching institutional capital with operators positioned for strengthening, consolidation, and capacity expansion.
+These techniques produce:
+
+- Predictable decline curves
+
+- High data density for reservoir modeling
+
+- Low exploration risk due to known geology
+
+- Strong recovery factors based on thermal stimulation
+
+- Long life assets with multi decade production capacity Our strategic partner, NAEO, focuses on matching institutional capital with operators positioned for strengthening, consolidation, and capacity expansion.
 
 NAEO specializes in thermal heavy oil operations that benefit from long horizon planning, predictable steam oil ratios, and well understood cash flow cycles.
 
@@ -148,11 +154,15 @@ THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator within th
 
 The firm does not act as the asset manager or operator.
 
-Instead, it functions as: 
--  An institutional introducer to Fund-III managers with clear operational roadmaps 
--  A capital architect for balance sheet optimization mandates 
--  A strategic alignment partner for allocators preparing long horizon capital programs 
--  A screening and structuring partner for NAEO in the North American energy corridor The operational model prioritizes neutrality, precision, and alignment.
+Instead, it functions as:
+
+- An institutional introducer to Fund-III managers with clear operational roadmaps
+
+- A capital architect for balance sheet optimization mandates
+
+- A strategic alignment partner for allocators preparing long horizon capital programs
+
+- A screening and structuring partner for NAEO in the North American energy corridor The operational model prioritizes neutrality, precision, and alignment.
 
 Roials Capital evaluates the institutional requirements, calibrates the liquidity design, and provides introductions only where structural fit is clear.
 
@@ -184,23 +194,25 @@ It is a technical discipline.
 
 Stewardship is the practice of allocating resources without waste, constructing capital stacks that endure volatility, and executing operational strategies that enhance rather than exhaust assets.
 
-Stewardship includes: 
--  Calibration of leverage to operational resilience 
--  Deployment of cash flow into asset hardening rather than short term optics 
--  Disciplined avoidance of capital dissipation 
--  Reinforcement of intergenerational asset integrity The stewardship lens aligns with the Biblical principle in **Proverbs 13:22
-*
+Stewardship includes:
+
+- Calibration of leverage to operational resilience
+
+- Deployment of cash flow into asset hardening rather than short term optics
+
+- Disciplined avoidance of capital dissipation
+
+- Reinforcement of intergenerational asset integrity The stewardship lens aligns with the Biblical principle in **Proverbs 13:22
+
+* 
+
 * regarding multi generational resource preparation.
 
 Institutional allocators have rediscovered this framework not for theological reasons, but because the mathematics of durability consistently outperform short horizon speculative models.
 
 DECISION MAKING LENS FOR THE ALLOCATOR Long term liquidity is engineered, not inherited from market conditions.
 
-Allocators evaluating the 20
-
-26 to 20
-
-32 cycle are focusing on three primary filters: 
+Allocators evaluating the 2026 to 2032 cycle are focusing on three primary filters: 
 
 1.
 

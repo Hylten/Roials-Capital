@@ -28,11 +28,7 @@ The objective is predictability and sovereign level stability inside private mar
 
  Institutional allocators are operating inside a post abundant capital cycle where leverage is selectively available rather than universally accessible.
 
-The long duration liquidity that defined the 20
-
-10 to 20
-
-21 window has been replaced by a structurally rationed environment shaped by five forces. 
+The long duration liquidity that defined the 2010 to 2021 window has been replaced by a structurally rationed environment shaped by five forces. 
 
 1.
 
@@ -241,7 +237,9 @@ This includes senior facility design, cash flow waterfall modeling, cross collat
 Institutional grade stewardship is the practice of deploying capital in ways that are aligned with long term productivity, ethical resource management, and multi generational utility.
 
 It follows the biblical principle in **Proverbs 13:22
-*
+
+* 
+
 * which underscores the continuity of inheritance and the responsibility of resource transfer.
 
 In practice, this means avoiding waste through operational discipline, minimizing asset degradation, and aligning capital structures with the natural behavior of the asset class.
@@ -296,8 +294,7 @@ For allocators requiring deeper visibility, a confidential strategy audit or por
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

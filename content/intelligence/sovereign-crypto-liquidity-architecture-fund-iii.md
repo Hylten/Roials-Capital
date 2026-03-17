@@ -41,7 +41,9 @@ That is
 .
 
 Inherited capital seeks expansion vectors. **Proverbs 13:22
-*
+
+* 
+
 * states: A good man leaveth an inheritance to his children's children.
 
 The principle transcends scripture.
@@ -84,10 +86,13 @@ Dense logic.
 
 No drift.
 
-Sovereign mandates require it. 
--  
--  
--  Sovereign capital measures the world through constraints.
+Sovereign mandates require it.
+
+- 
+
+- 
+
+- Sovereign capital measures the world through constraints.
 
 Political constraints.
 
@@ -583,15 +588,13 @@ Confidential capital audit recommended.
 
 Liquidity integrity target: 0.
 
-99
-8 deterministic settlement ratio.
+998 deterministic settlement ratio.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

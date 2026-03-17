@@ -62,10 +62,13 @@ I design the migration paths.
 
 I structure the sovereign corridors.
 
-Digital sovereignty establishes three core conditions for institutional allocators: 
--  Data retention autonomy 
--  Jurisdictional legal primacy 
--  Infrastructure-level governance control These conditions now price deals.
+Digital sovereignty establishes three core conditions for institutional allocators:
+
+- Data retention autonomy
+
+- Jurisdictional legal primacy
+
+- Infrastructure-level governance control These conditions now price deals.
 
 They shape diligence.
 
@@ -78,7 +81,9 @@ Institutional capital no longer seeks geographic arbitrage.
 It seeks sovereignty arbitrage.
 
 Fund‑III must move where sovereignty compounds, not where incentives dilute. **Proverbs 13:22
-*
+
+* 
+
 * states: A good man leaves an inheritance to his children’s children: but the wealth of the sinner is stored up for the righteous.
 
 The verse encodes a principle that institutional allocators quietly obey: capital migrates to stewardship, not inefficiency.
@@ -155,12 +160,17 @@ They want structures that survive regulatory dislocation.
 
 Fund‑III requires a sovereign‑first capital architecture.
 
-That architecture must operate on five mandatory vectors: 
--  Regulatory arbitrage without political risk 
--  Data-rights control without vendor dependency 
--  Cross-border enforceability without treaty fragility 
--  Funding velocity without correspondent choke points 
--  Asset hardening without operational drag Jurisdictions are diverging on all five vectors.
+That architecture must operate on five mandatory vectors:
+
+- Regulatory arbitrage without political risk
+
+- Data-rights control without vendor dependency
+
+- Cross-border enforceability without treaty fragility
+
+- Funding velocity without correspondent choke points
+
+- Asset hardening without operational drag Jurisdictions are diverging on all five vectors.
 
 The divergence creates mispricing.
 
@@ -454,8 +464,7 @@ Mandate: 4.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Request confidential capital audit.
 

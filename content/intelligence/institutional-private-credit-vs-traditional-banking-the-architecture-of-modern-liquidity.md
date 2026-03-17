@@ -54,14 +54,21 @@ The difference is philosophical, operational, and mechanical.
 
 ## Structural Contrast: How Traditional Banks Allocate Capital Banks operate within standardized constraints.
 
-Their decisioning is tied to: 
--  regulatory ratios 
--  deposit liquidity cycles 
--  credit scoring mechanics 
--  committee approval structures 
--  internal exposure limits 
--  sector concentration caps 
--  centralized risk frameworks The result is capital deployment that moves through preset tunnels.
+Their decisioning is tied to:
+
+- regulatory ratios
+
+- deposit liquidity cycles
+
+- credit scoring mechanics
+
+- committee approval structures
+
+- internal exposure limits
+
+- sector concentration caps
+
+- centralized risk frameworks The result is capital deployment that moves through preset tunnels.
 
 Even large private banking divisions remain constrained by regulated architecture.
 
@@ -89,13 +96,19 @@ It is not framed around consumer Capital Structuring or regulated retail structu
 
 Instead, it is built on asset mechanics, institutional underwriting, and capital partners who require velocity rather than bureaucratic insulation.
 
-The architecture is defined by: 
--  collateral-first underwriting 
--  discretionary capital pools 
--  bespoke structuring capabilities 
--  no retail compliance drag 
--  institutional timelines rather than committee cycles 
--  deal-by-deal engineering rather than templates This produces a liquidity environment where the asset, not the profile, determines the pathway.
+The architecture is defined by:
+
+- collateral-first underwriting
+
+- discretionary capital pools
+
+- bespoke structuring capabilities
+
+- no retail compliance drag
+
+- institutional timelines rather than committee cycles
+
+- deal-by-deal engineering rather than templates This produces a liquidity environment where the asset, not the profile, determines the pathway.
 
 A private credit provider evaluates balance sheet strength, asset integrity, liquidation logic, and market architecture.
 
@@ -117,15 +130,15 @@ Asset-Based Lending structures answer a core HNWI problem: How do I monetize ass
 
 ROIALS CAPITAL operates in this space with principal authority, providing Asset-Based Lending frameworks against sophisticated asset classes including private credit positions, crypto assets, and public equity holdings.
 
-The thresholds reflect the institutional nature of the architecture: 
--  Crypto Asset-Backed Frameworks: minimum threshold 2,000,
+The thresholds reflect the institutional nature of the architecture:
 
-00
-0 
--  Public Share Asset-Backed Frameworks: minimum threshold 5,000,
+- Crypto Asset-Backed Frameworks: minimum threshold 2,000,
 
-00
-0 These floors preserve the integrity of institutional underwriting.
+000
+
+- Public Share Asset-Backed Frameworks: minimum threshold 5,000,
+
+000 These floors preserve the integrity of institutional underwriting.
 
 They also ensure that the structures remain aligned with the needs of high net worth and ultra high net worth portfolios. 
 
@@ -181,12 +194,17 @@ Private credit assesses the collateral's performance thresholds.
 
 The difference creates two very different liquidity worlds.
 
-In banking, even extraordinary asset holders can be slowed by: 
--  geographic constraints 
--  regulatory friction 
--  credit scoring systems 
--  internal banking appetite 
--  layered committee structures In institutional private credit, an asset is either structurally sound or it is not.
+In banking, even extraordinary asset holders can be slowed by:
+
+- geographic constraints
+
+- regulatory friction
+
+- credit scoring systems
+
+- internal banking appetite
+
+- layered committee structures In institutional private credit, an asset is either structurally sound or it is not.
 
 If it is sound, capital deploys.
 
@@ -198,11 +216,15 @@ This is principal authority in action: simple rules, consistently applied, produ
 
 It is a recognition of scope.
 
-Banks excel in: 
--  low-cost capital for standardized needs 
--  conventional mortgage structures 
--  broad consumer and commercial services 
--  integration with domestic financial systems For everyday banking mechanics, banks remain dominant.
+Banks excel in:
+
+- low-cost capital for standardized needs
+
+- conventional mortgage structures
+
+- broad consumer and commercial services
+
+- integration with domestic financial systems For everyday banking mechanics, banks remain dominant.
 
 For UHNW Institutional Liquidity Paths, they are misaligned. 
 
@@ -210,13 +232,19 @@ For UHNW Institutional Liquidity Paths, they are misaligned.
 
 It operates through opportunity-based liquidity.
 
-These individuals and family offices use capital for: 
--  acquisitions 
--  restructuring 
--  time-sensitive arbitrage 
--  portfolio expansion 
--  risk hedging 
--  tax-timed liquidity Traditional banks are not built for this level of velocity or optionality.
+These individuals and family offices use capital for:
+
+- acquisitions
+
+- restructuring
+
+- time-sensitive arbitrage
+
+- portfolio expansion
+
+- risk hedging
+
+- tax-timed liquidity Traditional banks are not built for this level of velocity or optionality.
 
 Institutional private credit is. 
 
@@ -226,18 +254,21 @@ We do not compete with banks.
 
 We operate in a separate lane: asset-backed private credit for sophisticated asset holders at institutional thresholds.
 
-Our frameworks include: 
--  asset-based Institutional Liquidity Paths across complex collateral classes 
--  private credit structures for liquidity extraction 
--  dedicated crypto-backed Strategic Collateralization above 2,000,
+Our frameworks include:
 
-00
-0 
--  public share Monetization Architecture above 5,000,
+- asset-based Institutional Liquidity Paths across complex collateral classes
 
-00
-0 
--  engineered liquidity architecture for HNWI and UHNW portfolios The focus is structural precision.
+- private credit structures for liquidity extraction
+
+- dedicated crypto-backed Strategic Collateralization above 2,000,
+
+000
+
+- public share Monetization Architecture above 5,000,
+
+000
+
+- engineered liquidity architecture for HNWI and UHNW portfolios The focus is structural precision.
 
 The tone is institutional.
 
@@ -297,8 +328,7 @@ We engineer liquidity for portfolios that require institutional intelligence rat
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

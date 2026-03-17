@@ -20,14 +20,17 @@ This vacuum defines the modern regime for allocators who seek exposure to real o
 
  Institutional allocators have witnessed a ten year evolution of market mechanics.
 
-The modern private capital landscape is defined by: 
--  Basel III and IV constraints that have compressed bank balance sheet flexibility across commercial and industrial credit. 
--  A contraction in traditional amortizing debt issuance for operating companies under 
+The modern private capital landscape is defined by:
 
-50
-0 million EBITDA. 
--  A structural mismatch between corporate liquidity needs and institutional capital pacing. 
--  A transition toward private credit dominance in sectors once funded by commercial banks.
+- Basel III and IV constraints that have compressed bank balance sheet flexibility across commercial and industrial credit.
+
+- A contraction in traditional amortizing debt issuance for operating companies under 
+
+500 million EBITDA.
+
+- A structural mismatch between corporate liquidity needs and institutional capital pacing.
+
+- A transition toward private credit dominance in sectors once funded by commercial banks.
 
 The consequence is a bifurcated capital system.
 
@@ -37,8 +40,7 @@ Middle market operators with
 
 20 to 
 
-30
-0 million EBITDA face a scarcity environment that has little connection to actual operational resilience.
+300 million EBITDA face a scarcity environment that has little connection to actual operational resilience.
 
 This scarcity is magnified in North American energy.
 
@@ -48,9 +50,7 @@ Yet the operators with the most predictable decline curves and the most transpar
 
 The Alberta energy landscape is a case study in this misalignment.
 
-Capital inflows into traditional heavy oil assets collapsed after 20
-
-15 not because of resource risk but because global asset managers pivoted toward ESG scoring models that relied on optics rather than reservoir mechanics.
+Capital inflows into traditional heavy oil assets collapsed after 2015 not because of resource risk but because global asset managers pivoted toward ESG scoring models that relied on optics rather than reservoir mechanics.
 
 The result is a durable multi billion capital shortage across assets that carry the lowest technical uncertainty in the North American energy complex.
 
@@ -70,8 +70,9 @@ In Alberta, three extraction methodologies dominate the operating landscape:
 
 1.
 
-SAGD 
--  Steam Assisted Gravity Drainage SAGD is a thermal production method used to mobilize bitumen in deep reservoirs.
+SAGD
+
+- Steam Assisted Gravity Drainage SAGD is a thermal production method used to mobilize bitumen in deep reservoirs.
 
 A pair of horizontal wells is drilled.
 
@@ -87,8 +88,9 @@ This predictability is the foundation for long dated financing models because ca
 
 2.
 
-CSS 
--  Cyclic Steam Stimulation CSS is a cycle driven process used in reservoirs where continuous steam injection is not optimal.
+CSS
+
+- Cyclic Steam Stimulation CSS is a cycle driven process used in reservoirs where continuous steam injection is not optimal.
 
 A single well alternates between injection and production phases.
 
@@ -128,24 +130,33 @@ The purpose is not product distribution.
 
 It is the orchestration of institutional alignment between capital allocators and operational partners capable of deploying that capital responsibly.
 
-The partnership model is built on: 
--  Institutional 
+The partnership model is built on:
+
+- Institutional 
 
  INTRODUCTION
 
- rather than solicitation. 
--  Operational intelligence rather than pitch framing. 
--  Verification of operator archetype rather than return projection. 
--  Multi jurisdictional structuring fluency across US, EU, CH, and Dubai.
+ rather than solicitation.
+
+- Operational intelligence rather than pitch framing.
+
+- Verification of operator archetype rather than return projection.
+
+- Multi jurisdictional structuring fluency across US, EU, CH, and Dubai.
 
 The primary partner in the North American energy vertical is North American Energy Opportunities (NAEO).
 
-NAEO represents an institutional archetype optimized for the modern liquidity environment: 
--  In house reservoir engineering and geoscience. 
--  Operational control of multi basin assets. 
--  Balance sheet optimization through disciplined capex pacing. 
--  Track record of zero waste capital deployment on heavy oil development. 
--  Infrastructure integration across thermal, horizontal, and secondary recovery assets.
+NAEO represents an institutional archetype optimized for the modern liquidity environment:
+
+- In house reservoir engineering and geoscience.
+
+- Operational control of multi basin assets.
+
+- Balance sheet optimization through disciplined capex pacing.
+
+- Track record of zero waste capital deployment on heavy oil development.
+
+- Infrastructure integration across thermal, horizontal, and secondary recovery assets.
 
 Roials Capital conducts alignment analysis to ensure operators like NAEO meet the criteria relevant to institutional allocators.
 
@@ -166,22 +177,32 @@ The Roials Capital model ensures that the operator's governance structure and te
 It is a discipline of capital preservation rooted in non wasteful resource management.
 
 The Theology of Capital frames stewardship as the pursuit of stability in systems that can degrade through mismanagement. **Proverbs 13:22
-*
+
+* 
+
 * references the transgenerational nature of responsible capital deployment.
 
 Stewardship in private markets is the practice of protecting assets from operational entropy.
 
-For operators, stewardship means: 
--  Avoidance of rapid depletion tactics for short term gain. 
--  Maintenance of reservoir pressure integrity. 
--  Capex allocation only when volumetric uplift is measurable. 
--  Infrastructure upgrades that lower long term operating cost structures.
+For operators, stewardship means:
 
-For allocators, stewardship means: 
--  Prioritizing capital partners with transparent decline curve data. 
--  Avoiding liquidity exposure to jurisdictions with political volatility. 
--  Structuring pacing models that do not force premature exits. 
--  Ensuring governance systems are built for 
+- Avoidance of rapid depletion tactics for short term gain.
+
+- Maintenance of reservoir pressure integrity.
+
+- Capex allocation only when volumetric uplift is measurable.
+
+- Infrastructure upgrades that lower long term operating cost structures.
+
+For allocators, stewardship means:
+
+- Prioritizing capital partners with transparent decline curve data.
+
+- Avoiding liquidity exposure to jurisdictions with political volatility.
+
+- Structuring pacing models that do not force premature exits.
+
+- Ensuring governance systems are built for 
 
 20 year visibility, not quarterly cycles.
 
@@ -239,8 +260,7 @@ Special Mandates NAEO structures for
 
 50 million to 
 
-25
-0 million mandates rely on thermal and conventional heavy oil portfolios with predictable reservoir performance.
+250 million mandates rely on thermal and conventional heavy oil portfolios with predictable reservoir performance.
 
 European MiFID II acquisition mandates require cross border structuring fluency, regulatory compliance, and capital pacing designed for EU institutional allocators.
 
@@ -292,8 +312,7 @@ A confidential strategy audit or portfolio calibration session is typically the 
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

@@ -22,9 +22,12 @@ Families fail when capital is reactive.
 
 Markets fail when capital is fragile.
 
-Only hardened capital survives cycles, wars, dislocations, and liquidity droughts. 
--  **Proverbs 13:22
-*
+Only hardened capital survives cycles, wars, dislocations, and liquidity droughts.
+
+- **Proverbs 13:22
+
+* 
+
 * : A good man leaveth an inheritance to his children’s children.
 
 The institutional equivalent is a capital stack that endures two centuries, not two quarters.
@@ -388,7 +391,9 @@ Not in the family sense, but in the institutional sense.
 Every fund generation must be stronger than the last.
 
 Every cycle must produce more resilience. **Proverbs 13:22
-*
+
+* 
+
 * : the inheritance extends across generations.
 
 For institutions, that inheritance is the capital architecture itself.
@@ -485,14 +490,21 @@ Hardened capital is not optional.
 
 It is prerequisite.
 
-Thus the blueprint for Fund‑III is clear: 
--  Build the spine. 
--  Insulate the jurisdiction. 
--  Engineer conversion optionality. 
--  Harden liquidity. 
--  Harden governance. 
--  Harden acquisition pathways. 
--  Harden the institution itself.
+Thus the blueprint for Fund‑III is clear:
+
+- Build the spine.
+
+- Insulate the jurisdiction.
+
+- Engineer conversion optionality.
+
+- Harden liquidity.
+
+- Harden governance.
+
+- Harden acquisition pathways.
+
+- Harden the institution itself.
 
 Then scale.
 
@@ -512,8 +524,7 @@ Capital unhardened is power imagined.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Request confidential capital audit.
 

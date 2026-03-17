@@ -70,12 +70,17 @@ In the Sovereign Capital Architecture, liquidity is not held.
 
 It is manufactured.
 
-It is produced through: 
--  secured credit channels 
--  cash flow collateralization 
--  priority claims on income generating assets 
--  structured credit waterfalls 
--  controlled leverage layers The result is a liquidity engine, not a liquidity reserve.
+It is produced through:
+
+- secured credit channels
+
+- cash flow collateralization
+
+- priority claims on income generating assets
+
+- structured credit waterfalls
+
+- controlled leverage layers The result is a liquidity engine, not a liquidity reserve.
 
 Reserves get depleted.
 
@@ -99,11 +104,15 @@ Intertwining creates amplification.
 
 An asset is sovereign when it produces income, provides collateral value, and retains functional relevance even when prices compress.
 
-This is why Roials Capital prioritizes: 
--  real asset adjacency 
--  private market cash flows 
--  secured claims 
--  defensible yield sources The goal is not appreciation.
+This is why Roials Capital prioritizes:
+
+- real asset adjacency
+
+- private market cash flows
+
+- secured claims
+
+- defensible yield sources The goal is not appreciation.
 
 Appreciation is a byproduct of structural strength.
 
@@ -111,12 +120,17 @@ Appreciation is a byproduct of structural strength.
 
 This is the most underestimated advantage of institutional capital.
 
-Sovereign credit is built through: 
--  asset backed Strategic Collateralization 
--  structured private credit 
--  collateral governed credit lines 
--  covenant optimized balance sheet optimization bases 
--  credit instruments that self amortize With credit sovereignty, liquidity becomes a function of structure, not a function of price.
+Sovereign credit is built through:
+
+- asset backed Strategic Collateralization
+
+- structured private credit
+
+- collateral governed credit lines
+
+- covenant optimized balance sheet optimization bases
+
+- credit instruments that self amortize With credit sovereignty, liquidity becomes a function of structure, not a function of price.
 
 This distinction separates capital that survives from capital that disappears. 
 
@@ -134,11 +148,15 @@ Assets generate stability.
 
 Credit multiplies optionality.
 
-The liquidity spine allows capital to: 
--  remain fully deployed 
--  remain fully liquid 
--  remain structurally defensible 
--  remain able to expand during crises This is the opposite of conventional capital management.
+The liquidity spine allows capital to:
+
+- remain fully deployed
+
+- remain fully liquid
+
+- remain structurally defensible
+
+- remain able to expand during crises This is the opposite of conventional capital management.
 
 Most portfolios contract during crises.
 
@@ -190,12 +208,17 @@ Risk is not volatility.
 
 Risk is interruption.
 
-The architecture must protect continuous liquidity across: 
--  inflationary cycles 
--  deflationary cycles 
--  credit contractions 
--  political realignments 
--  technological disruptions The sovereign time horizon is not reactive.
+The architecture must protect continuous liquidity across:
+
+- inflationary cycles
+
+- deflationary cycles
+
+- credit contractions
+
+- political realignments
+
+- technological disruptions The sovereign time horizon is not reactive.
 
 It is structural.
 
@@ -215,11 +238,15 @@ It is not a yield instrument.
 
 Yield is incidental.
 
-The utility of private credit is the ability to: 
--  control liquidity creation 
--  dictate the terms of capital engagement 
--  secure priority claims 
--  operationalize collateral without selling assets Private credit becomes the backbone of sovereign liquidity for one reason.
+The utility of private credit is the ability to:
+
+- control liquidity creation
+
+- dictate the terms of capital engagement
+
+- secure priority claims
+
+- operationalize collateral without selling assets Private credit becomes the backbone of sovereign liquidity for one reason.
 
 It gives the capital architect control over time.
 
@@ -233,11 +260,15 @@ It is an architectural tool.
 
 It allows the institution to convert asset stability into liquidity.
 
-Asset-Based Lending within the sovereign architecture is governed by: 
--  strict collateral valuation models 
--  jurisdictional risk screens 
--  conservative advance rates 
--  automated covenant mechanisms This creates a liquidity channel that can expand or contract without forcing asset liquidation.
+Asset-Based Lending within the sovereign architecture is governed by:
+
+- strict collateral valuation models
+
+- jurisdictional risk screens
+
+- conservative advance rates
+
+- automated covenant mechanisms This creates a liquidity channel that can expand or contract without forcing asset liquidation.
 
 The institution stays sovereign.
 
@@ -303,13 +334,19 @@ Not inherited.
 
 Roials Capital operates as an architect, not a broker.
 
-The firm designs capital structures with: 
--  controlled liquidity corridors 
--  priority secured credit lines 
--  diversified cash flow engines 
--  multi jurisdictional asset protections 
--  bespoke underwriting frameworks 
--  dynamic leverage governance Each structure is unique, but the principles are constant.
+The firm designs capital structures with:
+
+- controlled liquidity corridors
+
+- priority secured credit lines
+
+- diversified cash flow engines
+
+- multi jurisdictional asset protections
+
+- bespoke underwriting frameworks
+
+- dynamic leverage governance Each structure is unique, but the principles are constant.
 
 The institution must remain sovereign.
 
@@ -351,8 +388,7 @@ Request confidential audit
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

@@ -195,7 +195,9 @@ Roials Capital functions strictly as the introducer and strategic coordinator.
 ## THE STEWARDSHIP FILTER Stewardship operates as a capital discipline.
 
 It is the principle that capital must not be wasted, misallocated, or depreciated through operational negligence. **Proverbs 13:22
-*
+
+* 
+
 * establishes the generational responsibility of resource management.
 
 Within private capital, stewardship manifests through three domains.
@@ -260,8 +262,7 @@ The audit addresses the precision mechanics necessary to maintain institutional 
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

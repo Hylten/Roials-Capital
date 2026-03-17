@@ -96,10 +96,14 @@ How quickly does an asset translate deployed capital into measurable strategic o
 
 Mature private equity platforms, add on roll ups, and North American energy operating platforms present high opportunity velocity when structured correctly.
 
-The Alberta Example In the energy vertical, technical recovery mechanics create an unusual alignment with sovereign requirements. 
-* SAGD recovery factors in the Athabasca and Cold Lake regions provide predictable thermal response profiles. 
-* CSS cycles offer accelerated but controlled flow regimes for specific reservoir architectures. 
-* Decline curves are known, stable, and fully mapped. 
+The Alberta Example In the energy vertical, technical recovery mechanics create an unusual alignment with sovereign requirements.
+
+* SAGD recovery factors in the Athabasca and Cold Lake regions provide predictable thermal response profiles.
+
+* CSS cycles offer accelerated but controlled flow regimes for specific reservoir architectures.
+
+* Decline curves are known, stable, and fully mapped.
+
 * Reservoir physics are highly transparent relative to global analogs.
 
 These attributes reduce technical uncertainty.
@@ -126,9 +130,12 @@ This is relevant for portfolio companies in heavy industry, manufacturing, and e
 
 3.
 
-Special Mandates These include: 
-* NAEOC energy mandates in the 50M to 250M range for long life heavy oil assets. 
-* EU MiFID II compliant acquisition structures for cross border consolidations. 
+Special Mandates These include:
+
+* NAEOC energy mandates in the 50M to 250M range for long life heavy oil assets.
+
+* EU MiFID II compliant acquisition structures for cross border consolidations.
+
 * Strategic national mandates for sovereign entities seeking North American industrial exposure.
 
 The institutional relationship with NAEO is significant.
@@ -148,16 +155,23 @@ Stewardship is the ability to deploy resources without waste, distortion, or unn
 It is the guiding principle for long term allocators.
 
 The Theology of Capital reinforces this. **Proverbs 13:22
-*
+
+* 
+
 * notes that durable capital is multi generational.
 
 Sovereign allocators inherently operate on multigenerational timelines.
 
-Their internal governance systems reflect this principle through: 
-* Prudential diversification. 
-* Jurisdictional redundancy. 
-* Conservative leverage profiles. 
-* Preference for assets with measurable physical properties. 
+Their internal governance systems reflect this principle through:
+
+* Prudential diversification.
+
+* Jurisdictional redundancy.
+
+* Conservative leverage profiles.
+
+* Preference for assets with measurable physical properties.
+
 * Emphasis on national strategic alignment.
 
 This stewardship principle is increasingly mirrored by private sponsors preparing for Fund-III.
@@ -170,22 +184,24 @@ Stewardship is not a moral construct.
 
 It is an operational requirement for institutional scale capital.
 
-DECISION MAKING LENS FOR THE ALLOCATOR The allocator evaluating private capital exposure in 20
-
-26 faces a bifurcated market.
+DECISION MAKING LENS FOR THE ALLOCATOR The allocator evaluating private capital exposure in 2026 faces a bifurcated market.
 
 Capital that aligns with sovereign governance standards achieves scale.
 
-Capital that mirrors pre 20
+Capital that mirrors pre 2020 private markets operates at structural disadvantage.
 
-20 private markets operates at structural disadvantage.
+A coherent decision framework includes:
 
-A coherent decision framework includes: 
-* Assessing whether fund governance is sovereign ready. 
-* Determining whether liquidity engineering is sufficient to withstand multi cycle shocks. 
-* Evaluating whether asset hardening characteristics are present across the portfolio. 
-* Confirming whether the sponsor has strategic alignment partners such as NAEO for sector specific execution. 
-* Identifying whether jurisdictional exposure is optimized for geopolitical stability. 
+* Assessing whether fund governance is sovereign ready.
+
+* Determining whether liquidity engineering is sufficient to withstand multi cycle shocks.
+
+* Evaluating whether asset hardening characteristics are present across the portfolio.
+
+* Confirming whether the sponsor has strategic alignment partners such as NAEO for sector specific execution.
+
+* Identifying whether jurisdictional exposure is optimized for geopolitical stability.
+
 * Ensuring the capital stack has internal redundancy and low opportunity decay.
 
 Roials Capital provides a confidential Strategy Audit for sovereign allocators, Fund-III sponsors, and state level institutions seeking clarity on alignment mechanisms.

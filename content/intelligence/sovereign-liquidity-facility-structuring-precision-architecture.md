@@ -64,7 +64,9 @@ Risk is not avoided.
 Risk is domesticated.
 
 The facility is the cage. **Proverbs 13:22
-*
+
+* 
+
 * : capital flows to the prepared inheritor.
 
 Institutional actors require clarity.
@@ -538,7 +540,9 @@ It attracts sovereign wealth.
 It commands respect.
 
 The facility becomes the GP’s inheritance. **Proverbs 13:22
-*
+
+* 
+
 * .
 
 The sovereign liquidity facility is the modern institutional inheritance mechanism.
@@ -577,8 +581,7 @@ For principal review, initiate a confidential capital audit.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

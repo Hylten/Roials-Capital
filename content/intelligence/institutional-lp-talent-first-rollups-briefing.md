@@ -125,6 +125,7 @@ Fund-III proves architecture.
 This is where the larger tickets move, and where talent-first strategies either graduate into institutional-grade assets or collapse under their own operational weight.
 
 Three signals LPs watch with absolute precision: *Leadership Durability.
+
 * Not resumes.
 
 Not charisma.
@@ -136,11 +137,13 @@ Can the leadership bench survive scale?
 Can it expand under pressure?
 
 Can it replace itself without losing velocity? *Playbook Codification.
+
 * LPs reject improvisation.
 
 They finance systems.
 
 The buyout thesis must be sufficiently mechanized that leadership upgrades occur without reinventing the wheel. *Acquisition Containment.
+
 * Rollups fail when acquisition momentum outruns operational digestion.
 
 Fund-III requires discipline: only absorb what you can institutionalize.
@@ -162,9 +165,13 @@ They are about strengthening human capital density per operational node.
 LPs reward discipline here.
 
 They want to see: *Upward compression of per‑site contribution.
+
 * *A reduction in operational variance.
+
 * *Leadership “chain‑of‑command” tightening.
+
 * *A unified cultural mandate that eliminates fragmentation.
+
 * When a rollup becomes a federation of leaders instead of a collection of assets, value compounds exponentially.
 
 It becomes unavoidable.
@@ -268,8 +275,11 @@ Phase Nine.
 Institutional LPs Focusing on Human Capital.
 
 Across North America, Europe, and the Gulf, three categories of LPs are leaning into human-capital buyouts with new conviction: *Public pensions seeking long-duration, low-volatility buyout returns.
+
 * *Insurance capital seeking predictable cash-yielding strategies.
+
 * *European institutions seeking operational stability during regulatory realignment.
+
 * They understand that human-capital strategies scale quietly.
 
 They produce mid-teens to mid-twenties returns with extraordinary repeatability.

@@ -32,11 +32,15 @@ This is the calculus.
 
 ## The Discipline of Preemption By the time a liquidity facility deteriorates on paper, it has already deteriorated operationally.
 
-Execution velocity demands preemption. 
--  You pull forward discussions early. 
--  You impose perimeter tightening before drift. 
--  You trigger resets before slippage. 
--  You adjust seniority before degradation becomes visible.
+Execution velocity demands preemption.
+
+- You pull forward discussions early.
+
+- You impose perimeter tightening before drift.
+
+- You trigger resets before slippage.
+
+- You adjust seniority before degradation becomes visible.
 
 Institutional private credit rewards foresight.
 
@@ -68,9 +72,11 @@ Risk is revealed during turbulence.
 
 Below these thresholds, the risk calculus becomes distorted.
 
-Roials Capital maintains strict minimums: 
--  Crypto Monetization Architecture: 2M minimum exposure. 
--  Public shares Institutional Liquidity Paths: 5M minimum exposure.
+Roials Capital maintains strict minimums:
+
+- Crypto Monetization Architecture: 2M minimum exposure.
+
+- Public shares Institutional Liquidity Paths: 5M minimum exposure.
 
 Below these levels, structural alignment collapses.
 
@@ -130,11 +136,15 @@ Institutional capital rewards those who maintain covenant integrity without bein
 
 3.
 
-The Rise of Intelligence-Driven Underwriting Underwriting is being transformed by intelligence architecture. 
--  Better counterparty data. 
--  More accurate liquidity projections. 
--  Stronger collateral modeling. 
--  Faster alignment detection.
+The Rise of Intelligence-Driven Underwriting Underwriting is being transformed by intelligence architecture.
+
+- Better counterparty data.
+
+- More accurate liquidity projections.
+
+- Stronger collateral modeling.
+
+- Faster alignment detection.
 
 This is the future architecture of institutional private credit.
 
@@ -174,12 +184,17 @@ The objective is enduring wealth.
 
 Not transient performance.
 
-We engage only when: 
--  The borrower understands responsibility as covenant. 
--  The collateral can bear institutional scrutiny under stress. 
--  The structure can withstand multi-quarter turbulence. 
--  The leadership is aligned with biblical stewardship. 
--  The liquidity facility advances dominion, order, and growth. 
+We engage only when:
+
+- The borrower understands responsibility as covenant.
+
+- The collateral can bear institutional scrutiny under stress.
+
+- The structure can withstand multi-quarter turbulence.
+
+- The leadership is aligned with biblical stewardship.
+
+- The liquidity facility advances dominion, order, and growth. 
 
 ## The Geometry of Downside Control Risk calculus is geometric.
 
@@ -187,11 +202,15 @@ Not linear.
 
 One variable out of balance cascades across the entire structure.
 
-Institutional private credit demands control across four axes: 
--  Collateral control. 
--  Cash flow control. 
--  Counterparty behavior control. 
--  Downside recovery control.
+Institutional private credit demands control across four axes:
+
+- Collateral control.
+
+- Cash flow control.
+
+- Counterparty behavior control.
+
+- Downside recovery control.
 
 When all four are aligned, risk becomes quantifiable.
 
@@ -227,11 +246,15 @@ If the answer is absolute, capital deploys.
 
  .
 
-The Institutional Mandate for the Next Decade The calculus of risk in institutional private credit is entering a new era. 
--  Higher scrutiny. 
--  Higher discipline. 
--  Higher selectivity. 
--  Higher thresholds.
+The Institutional Mandate for the Next Decade The calculus of risk in institutional private credit is entering a new era.
+
+- Higher scrutiny.
+
+- Higher discipline.
+
+- Higher selectivity.
+
+- Higher thresholds.
 
 Lenders who master the triad of structural truth, collateral integrity, and execution velocity will dominate the next credit cycle.
 
@@ -257,8 +280,7 @@ Request confidential audit.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

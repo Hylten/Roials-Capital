@@ -8,9 +8,7 @@ slug: "sovereign-future-resilient-capital"
 
 The capital vacuum in North America’s energy sector is a consequence of regulatory drift, not resource depletion.
 
-Allocators operating in 20
-
-26 are confronting a structural misalignment between where institutional capital concentrates and where the most predictable, physics anchored cash flows remain Access is restricted to approved mandates.
+Allocators operating in 2026 are confronting a structural misalignment between where institutional capital concentrates and where the most predictable, physics anchored cash flows remain Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
 
@@ -34,9 +32,7 @@ These principles form the basis for capital stewardship and are driving renewed 
 
 1.
 
-Capital Inefficiency Across Sectors Post 20
-
-20 regulatory shifts and ESG capital migration created a multi trillion dollar displacement from conventional resource assets.
+Capital Inefficiency Across Sectors Post 2020 regulatory shifts and ESG capital migration created a multi trillion dollar displacement from conventional resource assets.
 
 This has generated a capital light operating environment for producers across Alberta’s heavy oil corridor, permitting acquisition entry pricing to remain structurally discounted relative to reserve life index and decline curve predictability.
 
@@ -46,9 +42,7 @@ The result is an environment where off balance sheet mispricings have widened be
 
 2.
 
-Supply Demand Compression The underinvestment cycle that began in 20
-
-15 is now a permanent feature of the North American energy system.
+Supply Demand Compression The underinvestment cycle that began in 2015 is now a permanent feature of the North American energy system.
 
 Real supply elasticity has collapsed.
 
@@ -179,7 +173,9 @@ Roials Capital supports by ensuring that institutional governance, counterparty 
 ## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management.
 
 It is a framework, not a slogan. **Proverbs 13:22
-*
+
+* 
+
 * articulates that intergenerational capital requires governance aligned with enduring principles.
 
 Stewardship is incompatible with speculative risk behaviors.

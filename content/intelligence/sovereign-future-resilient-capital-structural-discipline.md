@@ -40,9 +40,7 @@ European capital pools face prohibitive compliance friction for upstream entry, 
 
 The result is an arbitrage window where the highest certainty barrels in North America are discounted for regulatory reasons rather than operational ones.
 
-This pattern is a defining feature of the 20
-
-26 capital architecture. 
+This pattern is a defining feature of the 2026 capital architecture. 
 
 3.
 
@@ -156,8 +154,7 @@ Special Mandates in Energy and European Acquisitions NAEO serves as the institut
 
 50 million to 
 
-25
-0 million USD range.
+250 million USD range.
 
 The partnership is grounded in operational transparency, technical measurement discipline, and infrastructure embeddedness.
 
@@ -176,7 +173,9 @@ The partnership model is structured around neutrality, alignment, and technical 
 It is an operational principle rooted in strategic responsibility rather than moral abstraction.
 
 Within capital formation, stewardship functions as a filter for decision quality. **Proverbs 13:22
-*
+
+* 
+
 * asserts that legacy is built through disciplined resource allocation.
 
 In an institutional context, this translates to five measurable behaviors. 

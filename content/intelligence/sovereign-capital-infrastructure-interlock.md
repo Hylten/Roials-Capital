@@ -20,7 +20,7 @@ We see it clearly because we operate where timing penalties destroy entire manda
 
 Order is not an option.
 
-Phase I: .
+### Phase I: .
 
  
 
@@ -128,7 +128,7 @@ Delay is waste.
 
 Waste is disqualifying.
 
-Phase II: .
+### Phase II: .
 
  
 
@@ -258,7 +258,7 @@ Nothing opaque.
 
 Nothing improvisational.
 
-Phase III: .
+### Phase III: .
 
  
 
@@ -382,14 +382,16 @@ Focus earns scale commitments.
 
 Scale commitments accelerate everything.
 
-Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER When national-level capital is entrusted to a GP, the stewardship burden intensifies.
 
 We treat capital as covenantal.
 
 Not transactional. **Proverbs 13:22
-*
+
+* 
+
 * defines the principle.
 
 A steward thinks generationally.
@@ -448,22 +450,19 @@ No excuses.
 
 No opacity.
 
-Phase V: .
+### Phase V: .
 
 EXIT Target yield displacement threshold:
 
-34
-0 to 
+340 to 
 
-46
-0 basis points above sovereign benchmark curves.
+460 basis points above sovereign benchmark curves.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Request confidential capital audit.
 

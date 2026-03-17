@@ -14,7 +14,7 @@ Yield has become the primary variable that determines whether an asset operates 
 
 This is the operational definition of asset hardening in the current regime.
 
-Phase I: .
+### Phase I: .
 
  
 
@@ -22,9 +22,7 @@ Phase I: .
 
 ## THE REGIME SHIFT
 
- Across 20
-
-24 to 2026, allocators have been forced into a capital architecture defined by three converging phenomena. 
+ Across 2024 to 2026, allocators have been forced into a capital architecture defined by three converging phenomena. 
 
 1.
 
@@ -62,7 +60,7 @@ It is the basis for institutional risk calibration.
 
 Yield is now functioning as the primary filter for determining which assets legitimately serve as capital anchors within a diversified institutional portfolio.
 
-Phase II: .
+### Phase II: .
 
  
 
@@ -200,7 +198,7 @@ This is why the counter intuitive truth holds.
 
 In 2026, the lowest risk energy assets in North America are conventional heavy oil with established decline curves.
 
-Phase III: .
+### Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital functions as an institutional navigator that introduces allocators to structurally coherent opportunities.
 
@@ -236,8 +234,7 @@ These include NAEO energy capitalizations between
 
 50 million and 
 
-25
-0 million dollars, and select EU MiFID II compliant acquisition pathways for institutions expanding their continental footprint.
+250 million dollars, and select EU MiFID II compliant acquisition pathways for institutions expanding their continental footprint.
 
 In each case, Roials Capital provides three forms of intelligence.
 
@@ -269,14 +266,16 @@ The allocator retains full discretion.
 
 Roials Capital provides clarity, filters complexity, and maintains strategic alignment across all interactions.
 
-Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship is not a marketing concept.
 
 It is a discipline within capital allocation that evaluates the degree to which capital is employed in a manner consistent with non wasteful resource management.
 
 This discipline aligns with the Biblical principle that a good person leaves an inheritance for future generations **Proverbs 13:22
-*
+
+* 
+
 * .
 
 In institutional practice, stewardship requires that yield must not be extracted at the expense of asset durability.
@@ -319,7 +318,7 @@ Under the Stewardship Filter, yield becomes a diagnostic tool that reveals wheth
 
 It serves as a safeguard against capital dissipation and aligns institutional allocation with enduring value creation.
 
-Phase V: .
+### Phase V: .
 
 THE
 

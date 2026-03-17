@@ -128,11 +128,9 @@ It cares about reservoir performance and counterparty reliability.
 
 A sovereign that prices assets politically instead of technically forfeits 
 
-20
-0 to 
+200 to 
 
-60
-0 basis points of credit spread efficiency. 
+600 basis points of credit spread efficiency. 
 
 2.
 
@@ -202,7 +200,7 @@ Build an architecture where capital moves with precision, assets are acquired wi
 
 The structure divides into three pillars.
 
-Pillar I:: Kapitalanskaffning for Fund-III and Fund-IV adjacency.
+### Pillar I: Kapitalanskaffning for Fund-III and Fund-IV adjacency.
 
 Eighty percent of 
 
@@ -222,7 +220,7 @@ Sovereigns want influence without responsibility.
 
 We serve the first two, not the third.
 
-Pillar II:: Asset-Backed Frameworks through institutional Asset-Based Lending.
+### Pillar II: Asset-Backed Frameworks through institutional Asset-Based Lending.
 
 Ten percent of 
 
@@ -242,15 +240,17 @@ It forces precision.
 
 When used inside sovereign-linked ecosystems, it creates a parallel system of discipline that outperforms public credit channels.
 
-Pillar III:: Special mandates in energy and regulated acquisitions.
+### Pillar III: Special mandates in energy and regulated acquisitions.
 
 Ten percent of 
 
 ## THE MANDATE
 
- focuses on mandates in: 
--  North American Energy Operators Consortium (NAEOC) for 50M to 250M transactions. 
--  EU MiFID II acquisition structures for regulated assets.
+ focuses on mandates in:
+
+- North American Energy Operators Consortium (NAEOC) for 50M to 250M transactions.
+
+- EU MiFID II acquisition structures for regulated assets.
 
 These mandates exist because sovereign capital infrastructure can no longer process energy acquisitions or regulatory transfers efficiently.
 
@@ -267,10 +267,14 @@ The fiscal spine does not.
 Stewardship is operational constraint.
 
 The theology of capital is simple: resources mismanaged will be reallocated. **Proverbs 13:22
-*
+
+* 
+
 * establishes the generational mandate. **Psalm 24:
 1
-*
+
+* 
+
 * reminds us of the ownership hierarchy.
 
 We manage.
@@ -357,8 +361,7 @@ For LPs, family offices, and institutional allocators requiring a confidential c
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

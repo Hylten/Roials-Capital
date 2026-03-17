@@ -28,12 +28,17 @@ We do not enter client-facing narratives.
 
 We build the structural mechanics that allow large balance sheets to move quietly.
 
-Our architecture is designed for HNWI and UHNW individuals who require: 
--  Non disruptive liquidity 
--  Controlled leverage 
--  Yield reinforced collateral 
--  Institutional counterparty structures 
--  Asset-Based Lending frameworks with depth and continuity Yield integrates these components.
+Our architecture is designed for HNWI and UHNW individuals who require:
+
+- Non disruptive liquidity
+
+- Controlled leverage
+
+- Yield reinforced collateral
+
+- Institutional counterparty structures
+
+- Asset-Based Lending frameworks with depth and continuity Yield integrates these components.
 
 It converts disparate asset classes into a harmonized Strategic Collateralization ecosystem.
 
@@ -89,8 +94,7 @@ Request confidential audit
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

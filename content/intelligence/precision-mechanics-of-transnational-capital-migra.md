@@ -30,12 +30,17 @@ This document is written for institutional allocators and private holders who op
 
 A principal is a steward of dominion.
 
-Transnational capital migration must reflect: 
--  Responsibility 
--  Discipline 
--  Long horizon thinking 
--  Protection of enterprise and family line 
--  Advancement of covenant aligned structures Roials Capital operates from this foundation.
+Transnational capital migration must reflect:
+
+- Responsibility
+
+- Discipline
+
+- Long horizon thinking
+
+- Protection of enterprise and family line
+
+- Advancement of covenant aligned structures Roials Capital operates from this foundation.
 
 Every structure must stand.
 
@@ -75,8 +80,7 @@ Request confidential audit.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

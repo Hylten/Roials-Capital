@@ -158,8 +158,7 @@ When executed correctly, this mindset creates wealth that becomes more stable, m
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

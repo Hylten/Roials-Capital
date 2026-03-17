@@ -15,6 +15,7 @@ Asset protection, liquidity optionality, and credit mobility have become the def
 For HNWI and UHNW individuals who operate with cross‑border holdings, multi domain asset classes, and rapid capital deployment cycles, the question is no longer how to grow assets.
 
 The question is how to *harden
+
 * them.
 
 Sovereign asset hardening is the structural discipline that transforms capital from vulnerable value into strategic force.
@@ -59,42 +60,50 @@ It is one of the most critical tools for sovereign asset movement.
 
 They operate on legacy infrastructure, compliance bottlenecks, and risk assumptions that do not match the demands of fast moving capital.
 
-Sovereign asset hardening resolves these limitations. 
-*
+Sovereign asset hardening resolves these limitations.
+
 * 
 
-1.
+* 1.
 
 Speed
-*
-* Liquidity is engineered with calibrated underwriting rather than bureaucratic sequencing. 
-*
+
 * 
 
-2.
+* Liquidity is engineered with calibrated underwriting rather than bureaucratic sequencing.
+
+* 
+
+* 2.
 
 Privacy
-*
+
+* 
+
 * Client confidentiality is preserved.
 
-The structures are quiet, controlled, and efficient. 
-*
+The structures are quiet, controlled, and efficient.
+
 * 
 
-3.
+* 3.
 
 Non disruptive capital mechanics
-*
-* The underlying assets continue operating at full capacity.
 
-There is no interruption to performance cycles. 
-*
 * 
 
-4.
+* The underlying assets continue operating at full capacity.
+
+There is no interruption to performance cycles.
+
+* 
+
+* 4.
 
 Institutional strength without institutional friction
-*
+
+* 
+
 * ROIALS CAPITAL provides the structural authority of institutional capital without the rigidity. 
 
 ## The Architecture of Expansion Once assets are hardened, growth becomes a function of design rather than reaction.
@@ -103,11 +112,15 @@ Liquidity is the architect’s tool.
 
 When deployed intentionally, it becomes the force that accelerates compounding.
 
-A hardened asset base allows clients to: 
--  Acquire without liquidation 
--  Build without dilution 
--  Move without friction 
--  Expand without exposure This is how institutions grow.
+A hardened asset base allows clients to:
+
+- Acquire without liquidation
+
+- Build without dilution
+
+- Move without friction
+
+- Expand without exposure This is how institutions grow.
 
 This is how sovereign capital behaves.
 
@@ -155,8 +168,7 @@ The client retains the sovereignty.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

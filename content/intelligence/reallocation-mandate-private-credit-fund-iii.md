@@ -36,7 +36,7 @@ The regime that governed the past twelve years is finished.
 
 The next regime rewards precision, adaptability, and institutional architecture.
 
-Phase I: .
+### Phase I: .
 
  
 
@@ -90,7 +90,7 @@ Now operators of efficient credit platforms dictate them.
 
 That shift is irreversible.
 
-Phase II: .
+### Phase II: .
 
  
 
@@ -180,7 +180,7 @@ The market rewards those who build internal execution engines with less than
 
 Anything slower is obsolete.
 
-Phase III: .
+### Phase III: .
 
  
 
@@ -240,8 +240,7 @@ Energy capital allocations between
 
 50 and 
 
-25
-0 million through NAEOC.
+250 million through NAEOC.
 
 EU MiFID II based acquisition mandates that require operational due diligence and cross border compliance structures.
 
@@ -257,7 +256,7 @@ They allocate to systems, not personalities.
 
 Fund-III must operate like an institutional machine.
 
-Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER The resources we manage are not arbitrary.
 
@@ -268,7 +267,9 @@ Stewardship is not sentiment.
 It is operational theology.
 
 Waste is the greatest threat to compounding. **Proverbs 13:22
-*
+
+* 
+
 * states that a good man leaves an inheritance for his children's children.
 
 In institutional terms, stewardship means allocating capital without leakage.
@@ -307,7 +308,7 @@ Growth follows clean mechanics.
 
 Never the opposite.
 
-Phase V: .
+### Phase V: .
 
 EXIT The exit layer is not optional.
 
@@ -331,8 +332,7 @@ Then surpass it.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Request confidential capital audit.
 

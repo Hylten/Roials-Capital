@@ -102,8 +102,7 @@ If your objective is durable, long-term liquidity supported by disciplined colla
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

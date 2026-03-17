@@ -119,12 +119,18 @@ ROIALS CAPITAL specializes in this domain.
 It is a full structural engineering exercise.
 
 We
-• Asset volatility profiles. 
--  Custodial environments. 
--  Liquidation pathways. 
--  Counterparty governance. 
--  Stress-tested valuation frameworks. 
--  Cross-jurisdictional regulatory clarity.
+
+• Asset volatility profiles.
+
+- Custodial environments.
+
+- Liquidation pathways.
+
+- Counterparty governance.
+
+- Stress-tested valuation frameworks.
+
+- Cross-jurisdictional regulatory clarity.
 
 This methodology ensures that even when Monetization Architecture occurs against complex assets, the structure remains institutional.
 
@@ -136,19 +142,23 @@ We elevate it to a full architectural system.
 
 We enforce a minimum threshold of 2,000,
 
-00
-0 dollars.
+000 dollars.
 
 This requirement is not arbitrary.
 
 It filters the market down to professionals who understand custody, volatility, and operational rigor.
 
-We assess: 
--  Custodial quality. 
--  Asset purity and provenance. 
--  On-chain behavior analysis. 
--  Market depth and liquidity corridors. 
--  Derivatives overlays when applicable.
+We assess:
+
+- Custodial quality.
+
+- Asset purity and provenance.
+
+- On-chain behavior analysis.
+
+- Market depth and liquidity corridors.
+
+- Derivatives overlays when applicable.
 
 Crypto Monetization Architecture at ROIALS CAPITAL is not a speculative facility.
 
@@ -160,17 +170,21 @@ Market liquidity is deep, but price behavior can be influenced by event cycles, 
 
 Our threshold is a minimum of 5,000,
 
-00
-0 dollars in public equity positions.
+000 dollars in public equity positions.
 
 This ensures the portfolio is sufficiently capitalized to support a stable Capital Structuring structure.
 
-Institutional public share Monetization Architecture requires: 
--  Analysis of float and daily volume. 
--  Examination of insider dynamics. 
--  Assessment of governance stability. 
--  Review of position holding horizon. 
--  Liquidity stress testing under adverse conditions.
+Institutional public share Monetization Architecture requires:
+
+- Analysis of float and daily volume.
+
+- Examination of insider dynamics.
+
+- Assessment of governance stability.
+
+- Review of position holding horizon.
+
+- Liquidity stress testing under adverse conditions.
 
 At this scale, Asset-Backed Frameworks against public shares becomes a precise liquidity instrument rather than a margin-based retail tool.
 
@@ -178,12 +192,17 @@ This distinction matters.
 
 ## Why Institutional Standards Matter for HNWI and UHNW Portfolios We serve clients with assets that require discretion, multi-jurisdictional structuring, and long-term capital strategy.
 
-Institutional standards matter because: 
--  They protect the client from unnecessary risk. 
--  They create leverage without fragility. 
--  They ensure liquidity does not compromise asset integrity. 
--  They maintain privacy and confidentiality. 
--  They allow capital strategies to compound without operational disruptions.
+Institutional standards matter because:
+
+- They protect the client from unnecessary risk.
+
+- They create leverage without fragility.
+
+- They ensure liquidity does not compromise asset integrity.
+
+- They maintain privacy and confidentiality.
+
+- They allow capital strategies to compound without operational disruptions.
 
 HNWI and UHNW portfolios thrive when their liquidity tools operate quietly and functionally.
 
@@ -239,16 +258,17 @@ They are filters.
 
 They ensure that every participant in the system contributes to its structural quality.
 
-ROIALS CAPITAL maintains: 
--  2,000,
+ROIALS CAPITAL maintains:
 
-00
-0 minimum for crypto Monetization Architecture. 
--  5,000,
+- 2,000,
 
-00
-0 minimum for public share Monetization Architecture. 
--  Private credit and Asset-Based Lending engagements calibrated at institutional scale.
+000 minimum for crypto Monetization Architecture.
+
+- 5,000,
+
+000 minimum for public share Monetization Architecture.
+
+- Private credit and Asset-Based Lending engagements calibrated at institutional scale.
 
 Thresholds define the ecosystem.
 
@@ -266,12 +286,17 @@ They generate liquidity without triggering events.
 
 They retain control while expanding capability.
 
-For HNWI and UHNW strategies, asset-based Capital Structuring becomes: 
--  A liquidity buffer. 
--  A tax-aware strategy. 
--  A strategic capital tool. 
--  A privacy-preserving alternative. 
--  A reinforced foundation for larger capital maneuvers.
+For HNWI and UHNW strategies, asset-based Capital Structuring becomes:
+
+- A liquidity buffer.
+
+- A tax-aware strategy.
+
+- A strategic capital tool.
+
+- A privacy-preserving alternative.
+
+- A reinforced foundation for larger capital maneuvers.
 
 Institutional Asset-Based Lending is not tactical.
 
@@ -329,8 +354,7 @@ This is the architecture that governs elite capital.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

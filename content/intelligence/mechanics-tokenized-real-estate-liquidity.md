@@ -225,7 +225,9 @@ It is the disciplined avoidance of waste.
 Capital misallocated is capital violated.
 
 The firm applies a stewardship filter to every deployment decision. **Proverbs 13:22
-*
+
+* 
+
 * sets the template.
 
 Wealth passes across generations only when it is placed under structures that preserve integrity and order.
@@ -261,8 +263,7 @@ EXIT Projected collateral clearance window inside tokenized structures: 4.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Request confidential capital audit.
 

@@ -20,7 +20,7 @@ The focus is structural.
 
 The objective is to provide the institutional reader with a framework for understanding market navigation, technical recovery mechanics, and the relevance of disciplined stewardship within sophisticated multi jurisdiction portfolios.
 
-Phase I: .
+### Phase I: .
 
  
 
@@ -28,9 +28,7 @@ Phase I: .
 
 ## THE REGIME SHIFT
 
- North American energy markets in 20
-
-26 are defined by three simultaneous dynamics.
+ North American energy markets in 2026 are defined by three simultaneous dynamics.
 
 First is the withdrawal of traditional capital providers from upstream and thermal heavy production due to policy signaling rather than resource behavior.
 
@@ -68,7 +66,7 @@ The result is a vacuum.
 
 That vacuum is now being filled by mid market private operators who understand that engineering, not politics, determines the real productivity of a thermal reservoir.
 
-Phase II: .
+### Phase II: .
 
  
 
@@ -129,7 +127,7 @@ The combination of thermal heavy oil and mid-depth conventional zones creates a 
 
 It becomes ideal for private buyers who need commodity resilience but do not require speculative upside.
 
-Phase III: .
+### Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital operates within this environment as a strategic navigator rather than as an owner or operator.
 
@@ -175,7 +173,7 @@ Roials Capital supports this navigation by providing clarity on land tenure syst
 
 The objective is to provide the allocator with a clear understanding of how these assets behave over time and how they integrate into a sophisticated liquidity architecture.
 
-Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Strategic capital deployment in natural resources is not a simple function of rate of return.
 
@@ -183,9 +181,12 @@ It is a question of stewardship.
 
 Stewardship in this context refers to the disciplined management of non wasteful extraction, responsible reservoir development, and capital allocation principles that avoid speculative leverage.
 
-This principle has theological roots. 
--  **Proverbs 13:22
-*
+This principle has theological roots.
+
+- **Proverbs 13:22
+
+* 
+
 * establishes the obligation of intergenerational capital responsibility.
 
 Institutional allocators increasingly apply this lens in sectors where resource development intersects with long term societal obligations.
@@ -216,13 +217,11 @@ Reduced variance increases credit confidence.
 
 Increased credit confidence raises opportunity velocity for subsequent acquisitions and infill development programs.
 
-Phase V: .
+### Phase V: .
 
 A
 
- DECISION MAKING LENS FOR THE ALLOCATOR Sophisticated allocators in 20
-
-26 are navigating an environment where traditional public markets do not provide sufficient diversification, where private equity vintages are elongated, and where liquidity windows are asymmetrical.
+ DECISION MAKING LENS FOR THE ALLOCATOR Sophisticated allocators in 2026 are navigating an environment where traditional public markets do not provide sufficient diversification, where private equity vintages are elongated, and where liquidity windows are asymmetrical.
 
 Strategic Liquidity Architecture involves repositioning capital into structures that combine durability, operational transparency, and cross border optionality.
 

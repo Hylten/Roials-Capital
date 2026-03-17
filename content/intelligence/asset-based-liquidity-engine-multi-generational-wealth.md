@@ -37,9 +37,8 @@ Private credit has attempted to bridge the gap, but underwriting frameworks rema
 This creates a structural misalignment.
 
 Assets such as Alberta heavy oil, US lower
--
 
-48 conventional wells, and infrastructure-adjacent industrial portfolios hold tangible liquidation value, yet they often encounter financing terms that do not reflect their recoverability.
+- 48 conventional wells, and infrastructure-adjacent industrial portfolios hold tangible liquidation value, yet they often encounter financing terms that do not reflect their recoverability.
 
 This mispricing is amplified by policy fragmentation.
 
@@ -123,9 +122,12 @@ The objective is not to direct capital into predefined structures but to ensure 
 
 Multi generational wealth is not a matter of portfolio expansion.
 
-It is the outcome of sustained capital preservation, responsible leverage, and calibrated risk exposure. 
--  **Proverbs 13:22
-*
+It is the outcome of sustained capital preservation, responsible leverage, and calibrated risk exposure.
+
+- **Proverbs 13:22
+
+* 
+
 * establishes stewardship as a multi generational responsibility rather than a tactical priority.
 
 The allocator who aligns liquidity with asset durability creates a capital architecture that is resistant to external shocks, policy cycles, and market volatility.
@@ -174,8 +176,7 @@ In a market defined by structural scarcity and operational complexity, disciplin
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

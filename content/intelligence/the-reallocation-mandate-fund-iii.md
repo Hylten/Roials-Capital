@@ -19,7 +19,9 @@ Movement is mandatory.
 Stillness is decay.
 
 The principal view is simple: reallocate or be reallocated. **Proverbs 13:22
-*
+
+* 
+
 * states: A good man leaves an inheritance to his children's children: but the wealth of the sinner is laid up for the just.
 
 ## THE MANDATE
@@ -82,10 +84,13 @@ Not theory.
 
 Application.
 
-Institutional allocations must now operate across three planes simultaneously: 
--  Plane 1: Buyout concentration for stabilized compounding 
--  Plane 2: Institutional Liquidity Paths for tactical survival 
--  Plane 3: Special mandates for energy acquisition corridors and MiFID II perimeter expansion The Reallocation Mandate holds each plane in tension.
+Institutional allocations must now operate across three planes simultaneously:
+
+- Plane 1: Buyout concentration for stabilized compounding
+
+- Plane 2: Institutional Liquidity Paths for tactical survival
+
+- Plane 3: Special mandates for energy acquisition corridors and MiFID II perimeter expansion The Reallocation Mandate holds each plane in tension.
 
 No waste.
 
@@ -127,10 +132,13 @@ Build directional.
 
 Build irrevocable.
 
-The Reallocation Mandate requires that every institutional dollar entering the ROIALS CAPITAL orbit undergoes three tests: 
--  Can it accelerate Fund-III buyout momentum? 
--  Can it provide measurable liquidity relief for GP or LP participants through Asset-Based Lending engineering? 
--  Can it enable corridor entry for external special mandates, notably NAEOC energy acquisitions and MiFID II cross-border license expansions?
+The Reallocation Mandate requires that every institutional dollar entering the ROIALS CAPITAL orbit undergoes three tests:
+
+- Can it accelerate Fund-III buyout momentum?
+
+- Can it provide measurable liquidity relief for GP or LP participants through Asset-Based Lending engineering?
+
+- Can it enable corridor entry for external special mandates, notably NAEOC energy acquisitions and MiFID II cross-border license expansions?
 
 If not, re-route.
 
@@ -270,12 +278,17 @@ Not linearly.
 
 Exponentially.
 
-Scaling through: 
--  Institutional LP commitments 
--  Sovereign co-invest channels 
--  Family office anchor capital 
--  Insurance capital seeking secured yield 
--  Secondary markets seeking stabilized entry Every channel must be opened.
+Scaling through:
+
+- Institutional LP commitments
+
+- Sovereign co-invest channels
+
+- Family office anchor capital
+
+- Insurance capital seeking secured yield
+
+- Secondary markets seeking stabilized entry Every channel must be opened.
 
 Every negotiation must be modeled.
 
@@ -539,12 +552,17 @@ Evidence of execution.
 
 Evidence of resilience.
 
-The Reallocation Mandate delivers all three through: 
--  Structurally advantaged acquisitions 
--  Collateral-first liquidity programs 
--  Multi-jurisdictional fund architecture 
--  Regulatory arbitrage corridors 
--  Interlinked buyout and add-on velocity strategies These components form the capital hardening matrix.
+The Reallocation Mandate delivers all three through:
+
+- Structurally advantaged acquisitions
+
+- Collateral-first liquidity programs
+
+- Multi-jurisdictional fund architecture
+
+- Regulatory arbitrage corridors
+
+- Interlinked buyout and add-on velocity strategies These components form the capital hardening matrix.
 
 Strength in layers.
 
@@ -602,8 +620,7 @@ Target throughput ratio: 1.82x within
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

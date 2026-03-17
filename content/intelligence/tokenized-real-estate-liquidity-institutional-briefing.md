@@ -14,7 +14,7 @@ Tokenized real estate is not a speculative instrument.
 
 It is a structural evolution in the transmission mechanics of ownership, custody, and settlement.
 
-Phase I: .
+### Phase I: .
 
  
 
@@ -26,17 +26,19 @@ Phase I: .
 
 Real estate has carried the largest load of this shift because the asset class historically intermediated liquidity through paper-based claims, trustee layers, and jurisdictionally fragmented registries.
 
-The compression phase beginning in 20
-
-22 did not disrupt asset-level economics.
+The compression phase beginning in 2022 did not disrupt asset-level economics.
 
 It disrupted the settlement channels that move capital into and out of the properties.
 
-The prevailing drivers: 
--  Interest rate normalization increased refinancing friction but did not materially change replacement cost physics. 
--  Institutional allocators rotated away from illiquid vehicles, creating a capital vacuum in middle-market real estate. 
--  Capital intensity escalated across urban infill, industrial, and data center categories, incentivizing owners to seek liquidity without asset disposal. 
--  European MiFID II standardization accelerated the expectation of real-time ownership verification, which traditional real estate registries cannot deliver.
+The prevailing drivers:
+
+- Interest rate normalization increased refinancing friction but did not materially change replacement cost physics.
+
+- Institutional allocators rotated away from illiquid vehicles, creating a capital vacuum in middle-market real estate.
+
+- Capital intensity escalated across urban infill, industrial, and data center categories, incentivizing owners to seek liquidity without asset disposal.
+
+- European MiFID II standardization accelerated the expectation of real-time ownership verification, which traditional real estate registries cannot deliver.
 
 The macro environment is not characterized by impaired properties.
 
@@ -48,7 +50,7 @@ Tokenized real estate entered this regime as a structural response, not an innov
 
 It directly aligns with the global allocator’s requirement for traceability, settlement certainty, and cross-jurisdictional regulatory synchronization.
 
-Phase II: .
+### Phase II: .
 
  
 
@@ -92,11 +94,15 @@ Liquidity does not originate from speculation.
 
 It originates from reducing structural friction in the transfer process.
 
-BALANCE SHEET IMPLICATIONS Tokenized real estate strengthens the owner’s balance sheet through: 
--  Liquidity Engineering: The ability to mobilize partial liquidity without asset sale. 
--  Asset Hardening: Enhanced transparency increases the defensibility of valuation marks. 
--  Capital Stack Optimization: Tokens can integrate into seniority structures similar to preferred equity or revenue-linked claims. 
--  Opportunity Velocity: Faster settlement cycles accelerate the ability to redeploy capital into Fund-III buyouts or add on strategies.
+BALANCE SHEET IMPLICATIONS Tokenized real estate strengthens the owner’s balance sheet through:
+
+- Liquidity Engineering: The ability to mobilize partial liquidity without asset sale.
+
+- Asset Hardening: Enhanced transparency increases the defensibility of valuation marks.
+
+- Capital Stack Optimization: Tokens can integrate into seniority structures similar to preferred equity or revenue-linked claims.
+
+- Opportunity Velocity: Faster settlement cycles accelerate the ability to redeploy capital into Fund-III buyouts or add on strategies.
 
 LTV CURVE DYNAMICS Tokenization does not modify asset leverage.
 
@@ -118,7 +124,7 @@ Tokenization eliminates multiple layers of reconciliation.
 
 The distinction is operational, not conceptual, but materially impacts the risk architecture and regulatory interaction points.
 
-Phase III: .
+### Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital functions as a strategic navigator for allocators evaluating tokenized real estate platforms and the integration points with Fund-III capital raising mandates.
 
@@ -126,33 +132,44 @@ The role is not promotional.
 
 It is structural.
 
-Roials Capital focuses on: 
--  Institutional 
+Roials Capital focuses on:
+
+- Institutional 
 
  INTRODUCTION
 
- Connecting allocators to platforms capable of meeting regulatory, custodial, and reporting standards across US, EU, CH, and Dubai jurisdictions. 
--  Alignment Mapping Assessing how tokenization integrates with the allocator’s existing exposure to buyouts, private credit, and real assets. 
--  Capital Stack Diagnostics Evaluating whether tokenized liquidity can improve refinancing windows or support acquisition timelines for Fund-III expansion. 
--  Settlement Architecture Verification Ensuring the platform meets institutional requirements for traceability, auditability, and operational security. 
--  Jurisdictional Harmonization Confirming that MiFID II, AIFMD, and local asset registry laws are structurally synchronized.
+ Connecting allocators to platforms capable of meeting regulatory, custodial, and reporting standards across US, EU, CH, and Dubai jurisdictions.
+
+- Alignment Mapping Assessing how tokenization integrates with the allocator’s existing exposure to buyouts, private credit, and real assets.
+
+- Capital Stack Diagnostics Evaluating whether tokenized liquidity can improve refinancing windows or support acquisition timelines for Fund-III expansion.
+
+- Settlement Architecture Verification Ensuring the platform meets institutional requirements for traceability, auditability, and operational security.
+
+- Jurisdictional Harmonization Confirming that MiFID II, AIFMD, and local asset registry laws are structurally synchronized.
 
 Tokenization only strengthens a fund if the underlying platform is architected for institutional-grade compliance.
 
 Roials Capital positions itself as the interpreter and evaluator of these structures.
 
-Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship is defined as the disciplined non-wasteful management of capital, time, and underlying assets.
 
 Tokenized liquidity aligns with stewardship because it reduces wasteful friction.
 
-Stewardship principles: 
--  Precision Allocation Capital is released only when required for acquisitions or balance sheet stabilization. 
--  Traceable Ownership Operational clarity reduces disputes and accelerates accountability. 
--  Minimization of Idle Value Tokenized structures enable partial liquidity extraction without forced sales, preserving long-term asset integrity. 
--  Multi-Year Sustainability Improved liquidity supports multi-cycle planning, consistent with the stewardship mandate articulated in **Proverbs 13:22
-*
+Stewardship principles:
+
+- Precision Allocation Capital is released only when required for acquisitions or balance sheet stabilization.
+
+- Traceable Ownership Operational clarity reduces disputes and accelerates accountability.
+
+- Minimization of Idle Value Tokenized structures enable partial liquidity extraction without forced sales, preserving long-term asset integrity.
+
+- Multi-Year Sustainability Improved liquidity supports multi-cycle planning, consistent with the stewardship mandate articulated in **Proverbs 13:22
+
+* 
+
 * .
 
 Stewardship is not a moral abstraction.
@@ -161,7 +178,7 @@ It is a technical discipline that requires efficient deployment channels and tra
 
 Tokenized liquidity provides the infrastructure for this discipline to manifest operationally.
 
-Phase V: .
+### Phase V: .
 
 ALLOCATOR LENS AND STRATEGIC POSITIONING Allocators evaluating tokenization within real estate and Fund-III expansion pipelines should internalize several structural lenses.
 

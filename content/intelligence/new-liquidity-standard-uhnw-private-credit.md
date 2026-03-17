@@ -35,7 +35,9 @@ Structural armor.
 Strategic armor.
 
 Cycle‑proof armor. **Proverbs 13:22
-*
+
+* 
+
 * states: A good man leaves an inheritance to his children's children.
 
 Institutional capital internalizes this as mandate: future protection requires present architecture.
@@ -396,8 +398,7 @@ The standard for all serious operators.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Request confidential capital audit to benchmark your current liquidity architecture against institutional standards.
 

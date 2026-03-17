@@ -14,9 +14,12 @@ Fund-III syndicates move on signal strength, balance-sheet posture, and the oper
 
 That is the principal doctrine.
 
-Everything else is noise. 
--  **Proverbs 13:22
-*
+Everything else is noise.
+
+- **Proverbs 13:22
+
+* 
+
 * states: A good man leaves an inheritance to his children’s children: but the wealth of the sinner is laid up for the just.
 
 Institutions translate that verse into mandate.
@@ -63,11 +66,15 @@ Hard stops.
 
 Precision.
 
-Institutional LPs demand four assurances before they deploy: 
--  Structural immutability. 
--  Operational non-fragility. 
--  Downside control. 
--  Signal discipline.
+Institutional LPs demand four assurances before they deploy:
+
+- Structural immutability.
+
+- Operational non-fragility.
+
+- Downside control.
+
+- Signal discipline.
 
 Everything we build serves these four pillars.
 
@@ -259,10 +266,13 @@ Without it, no cycle.
 
 Asset-Based Lending requires precision.
 
-Three moves define institutional-grade Asset-Based Lending: 
--  Convert receivables into predictable lines without over-promotion. 
--  Build inventory financing into operational cadence. 
--  Structure covenant-light formulas that scale with revenue quality, not just revenue volume.
+Three moves define institutional-grade Asset-Based Lending:
+
+- Convert receivables into predictable lines without over-promotion.
+
+- Build inventory financing into operational cadence.
+
+- Structure covenant-light formulas that scale with revenue quality, not just revenue volume.
 
 Banks rarely understand the nuance.
 
@@ -553,7 +563,9 @@ That is institutional logic.
 That is principal logic.
 
 That is sustainable logic. **Proverbs 13:22
-*
+
+* 
+
 * defines the ethos: inheritance cross-generational, wealth reallocated to the just, value moved from disorder to order.
 
 Institutions live by that scripture without speaking it.
@@ -584,8 +596,7 @@ Preservation is non-negotiable.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Request confidential capital audit to initiate alignment.
 

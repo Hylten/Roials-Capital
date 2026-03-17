@@ -34,9 +34,7 @@ As a result, mid-market operators experience a widening credit gap regardless of
 
 2.
 
-Duration Mismatch Avoidance Banks have tightened their exposure to longer-duration private loans after the 20
-
-23 interest rate shocks.
+Duration Mismatch Avoidance Banks have tightened their exposure to longer-duration private loans after the 2023 interest rate shocks.
 
 They prefer short-reset instruments, leaving private credit funds to provide multi-year structures needed for buyouts and strategic add-ons. 
 
@@ -168,8 +166,7 @@ This includes the NAEOC energy tranche ranging from
 
 50 million to 
 
-25
-0 million USD, and regulated acquisition financing under EU MiFID II.
+250 million USD, and regulated acquisition financing under EU MiFID II.
 
 These mandates require specialized structuring expertise and operator alignment.
 
@@ -200,7 +197,9 @@ Capital is not used to compensate for structural inefficiencies.
 Balance sheet optimization Operators must demonstrate the ability to manage leverage without eroding asset stability.
 
 This aligns with the principle in **Proverbs 13:22
-*
+
+* 
+
 * , where the preservation of generational value is linked to disciplined management. 
 
 3.
@@ -253,8 +252,7 @@ The objective is to align institutional capital with the correct liquidity archi
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

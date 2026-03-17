@@ -22,9 +22,7 @@ The shift is defined by the migration from generalized capital raising to instit
 
 ## THE REGIME SHIFT
 
- Private markets entered a new operational regime in 20
-
-24 to 
+ Private markets entered a new operational regime in 2024 to 
 
 2026.
 
@@ -56,9 +54,7 @@ North America continues to operate under a policy environment that restricts tra
 
 This divergence between political narrative and subsurface reality created one of the most predictable capital supply shortages in the sector.
 
-It is notable that the safest barrels in 20
-
-26 remain heavy oil barrels with established decline curves and known reservoir pressure dynamics. 
+It is notable that the safest barrels in 2026 remain heavy oil barrels with established decline curves and known reservoir pressure dynamics. 
 
 4.
 
@@ -90,17 +86,21 @@ Kapitalanskaffning for Fund-III and Above Institutional funds entering their thi
 
 Allocators require demonstrated pattern replication, not historical performance alone.
 
-Precision financing structures for Fund-III and later focus on: 
--  Declared strategic archetype.
+Precision financing structures for Fund-III and later focus on:
 
-Growth buyout, operational turnaround, or platform consolidation must be defined without ambiguity. 
--  Opportunity velocity.
+- Declared strategic archetype.
 
-The cadence at which targets can be sourced, priced, and integrated determines the appropriate capital pacing model. 
--  Commitment structure optimization.
+Growth buyout, operational turnaround, or platform consolidation must be defined without ambiguity.
 
-Allocators increasingly seek partial pacing rights and phased allocations that mirror deployment cycles rather than blind pool commitments. 
--  GP balance sheet reinforcement.
+- Opportunity velocity.
+
+The cadence at which targets can be sourced, priced, and integrated determines the appropriate capital pacing model.
+
+- Commitment structure optimization.
+
+Allocators increasingly seek partial pacing rights and phased allocations that mirror deployment cycles rather than blind pool commitments.
+
+- GP balance sheet reinforcement.
 
 Institutional LPs prioritize the GP’s own liquidity architecture, including management company leverage, GP commitment financing, and long term incentive structures.
 
@@ -112,17 +112,21 @@ Asset-Based Lending Liquidity Engineering Asset based lending in a precision fin
 
 It is a liquidity engineering mechanism designed to unlock trapped value in operational assets.
 
-The structure prioritizes: 
--  Clean collateral stacks.
+The structure prioritizes:
 
-Senior lenders require unambiguous cross collateral privileges with clear lien perimeters. 
--  Real asset verification.
+- Clean collateral stacks.
 
-Independent reserve audits, machinery valuation, inventory cycle mapping, and contract integrity reviews form the core of collateral integrity assessment. 
--  Performance covenants aligned to operational physics.
+Senior lenders require unambiguous cross collateral privileges with clear lien perimeters.
 
-Asset-Based Lending structures must follow operational cadence, not arbitrary calendar cycles. 
--  Real time reporting.
+- Real asset verification.
+
+Independent reserve audits, machinery valuation, inventory cycle mapping, and contract integrity reviews form the core of collateral integrity assessment.
+
+- Performance covenants aligned to operational physics.
+
+Asset-Based Lending structures must follow operational cadence, not arbitrary calendar cycles.
+
+- Real time reporting.
 
 Institutions require month level visibility to ensure compliance and velocity calibration.
 
@@ -142,11 +146,15 @@ The Alberta basin’s thermal heavy oil assets are defined by predictable subsur
 
 Steam Assisted Gravity Drainage (SAGD) and Cyclic Steam Stimulation (CSS) form the operational backbone.
 
-Precision financing in this context requires: 
--  Understanding of steam oil ratios, thermal conformance, and reservoir heterogeneity. 
--  Capital alignment with recovery factors and pressure maintenance cycles. 
--  Balance sheet engineering to synchronize thermal ramp up with liquidity drawdown patterns. 
--  Partnership alignment with operators who maintain low decline curves and disciplined reinvestment ratios.
+Precision financing in this context requires:
+
+- Understanding of steam oil ratios, thermal conformance, and reservoir heterogeneity.
+
+- Capital alignment with recovery factors and pressure maintenance cycles.
+
+- Balance sheet engineering to synchronize thermal ramp up with liquidity drawdown patterns.
+
+- Partnership alignment with operators who maintain low decline curves and disciplined reinvestment ratios.
 
 Roials Capital operates as strategic navigator for allocators evaluating these mandates, while NAEO functions as the technical execution partner with institutional grade disciplines. b.
 
@@ -164,21 +172,25 @@ The firm does not serve as GP, operator, or issuer.
 
 The function is to coordinate capital flow architecture, regulatory alignment, and structural optimization for allocators and GPs.
 
-The role is defined by: 
--  Institutional 
+The role is defined by:
+
+- Institutional 
 
  INTRODUCTION
 
  .
 
-Ensuring alignment between allocator archetypes and project structures. 
--  Technical landscape intelligence.
+Ensuring alignment between allocator archetypes and project structures.
 
-Providing operational data, cross jurisdictional analysis, and risk mapping. 
--  Neutral positioning.
+- Technical landscape intelligence.
 
-Operating without exposure to the underlying assets, thus maintaining analytical integrity. 
--  Structural refinement.
+Providing operational data, cross jurisdictional analysis, and risk mapping.
+
+- Neutral positioning.
+
+Operating without exposure to the underlying assets, thus maintaining analytical integrity.
+
+- Structural refinement.
 
 Designing or recalibrating capital stacks, leverage models, and cash flow frameworks to meet institutional thresholds.
 
@@ -223,7 +235,9 @@ Allocators require full visibility into cash flow waterfalls, capital stack seni
 Intergenerational Alignment.
 
 Capital must be managed with a long horizon orientation in accordance with **Proverbs 13:22
-*
+
+* 
+
 * . 
 
 5.

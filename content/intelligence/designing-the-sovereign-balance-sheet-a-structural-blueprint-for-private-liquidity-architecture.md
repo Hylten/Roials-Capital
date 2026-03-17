@@ -250,12 +250,17 @@ It preserves market exposure while expanding operational capability.
 
 It is offensive.
 
-It allows clients to: 
--  Acquire undervalued assets during dislocations 
--  Support business operations without selling equity 
--  Pursue strategic investments at institutional speed 
--  Maintain a liquidity buffer that prevents forced sales 
--  Build intergenerational continuity without fragmentation A portfolio creates wealth.
+It allows clients to:
+
+- Acquire undervalued assets during dislocations
+
+- Support business operations without selling equity
+
+- Pursue strategic investments at institutional speed
+
+- Maintain a liquidity buffer that prevents forced sales
+
+- Build intergenerational continuity without fragmentation A portfolio creates wealth.
 
 A sovereign balance sheet governs it. 
 
@@ -307,12 +312,17 @@ They operate as private sovereigns.
 
 Their balance sheet must reflect this reality.
 
-It must be: 
--  Liquid 
--  Stable 
--  Controlled 
--  Predictable 
--  Engineered We design these structures with surgical clarity.
+It must be:
+
+- Liquid
+
+- Stable
+
+- Controlled
+
+- Predictable
+
+- Engineered We design these structures with surgical clarity.
 
 We create liquidity where traditional frameworks deny it.
 
@@ -328,8 +338,7 @@ We treat the client’s capital as a sovereign system that must be respected, pr
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

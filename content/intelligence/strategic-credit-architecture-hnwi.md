@@ -26,9 +26,7 @@ They face a market where commercial lenders retreat due to regulatory tightening
 
 The funding vacuum widens.
 
-Private credit managers attempt to fill it, but many still price risk with pre‑20
-
-20 assumptions while underwriting with fragmented diligence stacks.
+Private credit managers attempt to fill it, but many still price risk with pre‑2020 assumptions while underwriting with fragmented diligence stacks.
 
 The environment shifts toward asset-level truth rather than narratives.
 
@@ -69,7 +67,9 @@ True LTV is not loan size divided by asset value.
 It is the weighted interaction between liquidation velocity, jurisdictional enforceability, and cash‑flow observability. 
 
 1. **LTV Curves
-*
+
+* 
+
 * The observable LTV ceiling for Fund-III buyouts rarely exceeds 
 
 52 to 
@@ -82,22 +82,17 @@ Retail brokers ignore this.
 
 But private credit committees do not.
 
-They evaluate LTV under stress assumptions: 
--  
+They evaluate LTV under stress assumptions:
 
-20 to 
+- 20 to 
 
-35 percent margin compression 
--  
+35 percent margin compression
 
-18
-0 to 
+- 180 to 
 
-27
-0 day working capital extension 
--  
+270 day working capital extension
 
-15 to 
+- 15 to 
 
 30 percent decline in liquidation values The real LTV is the stressed figure.
 
@@ -106,35 +101,50 @@ Anything above
 60 percent becomes speculative credit, regardless of borrower sophistication. 
 
 2. **Cash‑Flow Waterfalls
-*
+
+* 
+
 * Cash‑flow stability is a myth without controlled waterfalls.
 
 Entrepreneurs often present blended accounts.
 
 Institutional underwriting eliminates blended accounts and demands priority channels.
 
-The waterfall must be mechanical: 
--  Senior interest 
--  Senior amortization 
--  Revolver clean-down 
--  Tax reserves 
--  Operating working capital 
--  Equity distributions only after compliance No negotiation.
+The waterfall must be mechanical:
+
+- Senior interest
+
+- Senior amortization
+
+- Revolver clean-down
+
+- Tax reserves
+
+- Operating working capital
+
+- Equity distributions only after compliance No negotiation.
 
 If an entrepreneur hesitates, the credit file collapses in the eyes of institutional LPs. 
 
 3. **Recovery Factors
-*
+
+* 
+
 * Recovery is the silent governor of pricing.
 
 Private lenders tolerate lower originations when recovery certainty is high.
 
-Recovery certainty rises with: 
--  Hard-asset documentation 
--  Redundancy of collateral tracking 
--  Dual-enforcement paths 
--  Immediate cash sweep authority 
--  Verified offtake or contract stability in energy mandates Where recovery lacks certainty, capital cost multiplies.
+Recovery certainty rises with:
+
+- Hard-asset documentation
+
+- Redundancy of collateral tracking
+
+- Dual-enforcement paths
+
+- Immediate cash sweep authority
+
+- Verified offtake or contract stability in energy mandates Where recovery lacks certainty, capital cost multiplies.
 
 No charisma offsets missing collateral durability.
 
@@ -161,17 +171,24 @@ Our architecture builds around three capital corridors.
 1. **Capital Raising Corridor: 
 
 80 percent Mandate
-*
+
+* 
+
 * Fund-III capital formation sits at the center.
 
 The objective is to create an acquisition engine that institutional LPs trust.
 
-The corridor includes: 
--  Pre-verified deal templates 
--  Institutional equity governance 
--  Sponsor underwriting memos 
--  Full covenant scaffolding 
--  Scenario‑based leverage grids LPs do not fund promises.
+The corridor includes:
+
+- Pre-verified deal templates
+
+- Institutional equity governance
+
+- Sponsor underwriting memos
+
+- Full covenant scaffolding
+
+- Scenario‑based leverage grids LPs do not fund promises.
 
 They fund systems.
 
@@ -180,30 +197,40 @@ Fund-III capital arrives when the system exists before the pitch.
 2. **Monetization Architecture Corridor: 
 
 10 percent Mandate (Asset-Based Lending)
-*
+
+* 
+
 * Asset-Based Lending is the tactical layer.
 
 It solves short-term liquidity constraints so that entrepreneurs avoid dilutive equity.
 
 Asset-Based Lending converts assets into controlled liquidity.
 
-It uses: 
--  Inventory lines 
--  Equipment schedules 
--  Receivable aging controls 
--  Real-asset valuation grids at 90‑day liquidation marks Asset-Based Lending is the entrepreneur’s oxygen mask.
+It uses:
+
+- Inventory lines
+
+- Equipment schedules
+
+- Receivable aging controls
+
+- Real-asset valuation grids at 90‑day liquidation marks Asset-Based Lending is the entrepreneur’s oxygen mask.
 
 It prevents distress, stabilizes acquisition cycles, and signals institutional readiness. 
 
 3. **Special Mandate Corridor: 
 
 10 percent Mandate
-*
+
+* 
+
 * The institutional ecosystem demands sector specialization.
 
-Two domains hold disproportionate weight. 
--  NAEOC Energy Mandates 50M to 250M 
--  EU MiFID II acquisitions with cross-border enforceability Energy mandates require structured offtake modeling, field-level asset mapping, and energy‑adjusted decline curves.
+Two domains hold disproportionate weight.
+
+- NAEOC Energy Mandates 50M to 250M
+
+- EU MiFID II acquisitions with cross-border enforceability Energy mandates require structured offtake modeling, field-level asset mapping, and energy‑adjusted decline curves.
 
 MiFID II acquisitions require jurisdictional harmonization and compliance clarity.
 
@@ -226,7 +253,9 @@ It is an operating regime.
 They are not merely optimizing risk.
 
 They are stewarding what has been entrusted to them. **Proverbs 13:22
-*
+
+* 
+
 * frames 
 
 ## THE MANDATE
@@ -237,10 +266,13 @@ Capital is a tool for multi‑generational preservation, not an instrument for i
 
 The stewardship filter removes waste.
 
-Waste appears in three forms: 
--  Excess leverage 
--  Unstructured liquidity events 
--  Undisciplined acquisition velocity A steward avoids all three.
+Waste appears in three forms:
+
+- Excess leverage
+
+- Unstructured liquidity events
+
+- Undisciplined acquisition velocity A steward avoids all three.
 
 Excess leverage is not courage.
 
@@ -262,11 +294,15 @@ They chase durability.
 
 They avoid what destroys families and institutions: ungoverned risk, cosmetic reporting, and the illusion that capital is abundant.
 
-Stewardship requires boundaries: 
--  No capital deployment without covenant clarity. 
--  No acquisitions without asset‑level testing. 
--  No liquidity extraction without forward coverage. 
--  No strategic movement without cash‑flow realism.
+Stewardship requires boundaries:
+
+- No capital deployment without covenant clarity.
+
+- No acquisitions without asset‑level testing.
+
+- No liquidity extraction without forward coverage.
+
+- No strategic movement without cash‑flow realism.
 
 Theology of Capital demands truth in financial architecture.
 
@@ -284,8 +320,7 @@ Request a confidential capital audit.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

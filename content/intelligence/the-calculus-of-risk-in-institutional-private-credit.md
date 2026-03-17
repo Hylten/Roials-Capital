@@ -92,10 +92,13 @@ Asset Hardening is the process by which borrowers isolate high quality collatera
 
 Institutions assess recoverability through liquidation velocity, jurisdictional enforceability, and title clarity.
 
-Three collateral classes dominate current underwriting: 
--  Working capital assets with short duration turnover cycles. 
--  Industrial equipment and real assets with established secondary markets. 
--  Energy assets with engineered production curves and third party reserve validation.
+Three collateral classes dominate current underwriting:
+
+- Working capital assets with short duration turnover cycles.
+
+- Industrial equipment and real assets with established secondary markets.
+
+- Energy assets with engineered production curves and third party reserve validation.
 
 In energy mandates specific emphasis is placed on Alberta heavy oil where SAGD and CSS operations present stable decline curves and predictable recovery factors.
 
@@ -109,11 +112,15 @@ These
 
 Covenant Engineering The most durable credit structures are built on operational covenants rather than punitive leverage triggers.
 
-Lenders increasingly rely on: 
--  Minimum liquidity buffers. 
--  Production volume floors (in energy mandates). 
--  EBITDA conversion thresholds. 
--  Reporting cadence mandates.
+Lenders increasingly rely on:
+
+- Minimum liquidity buffers.
+
+- Production volume floors (in energy mandates).
+
+- EBITDA conversion thresholds.
+
+- Reporting cadence mandates.
 
 The objective is alignment, not restriction.
 
@@ -121,12 +128,17 @@ Covenant architecture functions as a real time monitoring instrument that enhanc
 
 4.
 
-Cash Flow Durability Cash flows are assessed through stress case modeling where allocators evaluate: 
--  Price sensitivity. 
--  Margin compression. 
--  Production variability. 
--  Customer concentration exposure. 
--  Regulatory or permitting friction.
+Cash Flow Durability Cash flows are assessed through stress case modeling where allocators evaluate:
+
+- Price sensitivity.
+
+- Margin compression.
+
+- Production variability.
+
+- Customer concentration exposure.
+
+- Regulatory or permitting friction.
 
 In energy backed facilities, durability is often anchored in engineered decline curves, steam to oil ratio variance, and wellbore productivity.
 
@@ -134,9 +146,11 @@ Heavy oil assets with extensive production history and mature recovery technique
 
 5.
 
-Exit Pathway Clarity Institutions evaluate forced exit scenarios through two lenses: 
--  Organic exit through refinancing or asset sale. 
--  Protective exit through enforcement and liquidation.
+Exit Pathway Clarity Institutions evaluate forced exit scenarios through two lenses:
+
+- Organic exit through refinancing or asset sale.
+
+- Protective exit through enforcement and liquidation.
 
 The efficiency of the exit pathway determines ultimate loss severity.
 
@@ -156,10 +170,13 @@ The partner's technical expertise and operational discipline convert geological 
 
 Roials Capital provides the strategic architecture that frames NAEO's operational data within an institutional risk model.
 
-Across non energy mandates Roials Capital supports: 
--  Capital raising sequences for Fund-III buyout strategies. 
--  Liquidity Engineering mandates designed to stabilize corporate operations. 
--  Special situations requiring cross border regulatory navigation under MiFID II or North American jurisdictional frameworks.
+Across non energy mandates Roials Capital supports:
+
+- Capital raising sequences for Fund-III buyout strategies.
+
+- Liquidity Engineering mandates designed to stabilize corporate operations.
+
+- Special situations requiring cross border regulatory navigation under MiFID II or North American jurisdictional frameworks.
 
 The function is not asset management.
 
@@ -188,7 +205,9 @@ Non Wasteful Structuring Facilities are designed to support productive assets ra
 Stewardship structures prioritize balance sheet optimization over short term yield.
 
 This reflects the principle of **Proverbs 13:22
-*
+
+* 
+
 * which emphasizes intergenerational responsibility and prudent asset management. 
 
 3.
@@ -207,18 +226,23 @@ The risk calculus is no longer a binary assessment of borrower strength.
 
 It is a multifactor decision matrix built on liquidity architecture, structural seniority, collateral durability, and operational transparency.
 
-Allocators who integrate the following frameworks achieve significantly higher strategic clarity: 
--  Risk Class Mapping Distinguish between credit risk, information risk, and structural risk.
+Allocators who integrate the following frameworks achieve significantly higher strategic clarity:
 
-Each requires distinct mitigation tools. 
--  Liquidity Engineering Evaluation Assess how borrower liquidity is structured, protected, and replenished.
+- Risk Class Mapping Distinguish between credit risk, information risk, and structural risk.
 
-Liquidity is the primary defense mechanism in stressed conditions. 
--  Collateral Predictability Model collateral based on recoverability, not valuation.
+Each requires distinct mitigation tools.
 
-Predictable recovery curves reduce tail risk. 
--  Sponsor Execution Track Evaluate the operational cadence of the sponsor, the integration plan for add ons, and the historical behavior through market cycles. 
--  Jurisdictional Stability Prioritize assets with enforceability clarity.
+- Liquidity Engineering Evaluation Assess how borrower liquidity is structured, protected, and replenished.
+
+Liquidity is the primary defense mechanism in stressed conditions.
+
+- Collateral Predictability Model collateral based on recoverability, not valuation.
+
+Predictable recovery curves reduce tail risk.
+
+- Sponsor Execution Track Evaluate the operational cadence of the sponsor, the integration plan for add ons, and the historical behavior through market cycles.
+
+- Jurisdictional Stability Prioritize assets with enforceability clarity.
 
 Alberta, Texas, Sweden, Norway, and select EU states provide systems that enhance recoverability and reduce legal variance.
 

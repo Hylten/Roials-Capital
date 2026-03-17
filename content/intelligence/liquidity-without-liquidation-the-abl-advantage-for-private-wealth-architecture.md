@@ -40,12 +40,17 @@ Institutional capital operates inversely.
 
 Assets are dynamic, cash is engineered, and liquidity is created without dissolving ownership.
 
-This shift is critical for HNWI and UHNW portfolios that hold: 
--  Private credit 
--  Equity in public markets 
--  Digital assets 
--  Income-bearing private placements 
--  Long‑term strategic positions These positions are not designed to be liquidated.
+This shift is critical for HNWI and UHNW portfolios that hold:
+
+- Private credit
+
+- Equity in public markets
+
+- Digital assets
+
+- Income-bearing private placements
+
+- Long‑term strategic positions These positions are not designed to be liquidated.
 
 They are designed to be utilized.
 
@@ -71,11 +76,15 @@ When liquidity is created through Asset-Based Lending, the asset pool is preserv
 
 Preservation is the starting point for compounding.
 
-Clients retain: 
--  Control 
--  Exposure 
--  Future upside 
--  Strategic optionality This is the opposite of forced selling.
+Clients retain:
+
+- Control
+
+- Exposure
+
+- Future upside
+
+- Strategic optionality This is the opposite of forced selling.
 
 The position remains sovereign. # ## 
 
@@ -87,15 +96,15 @@ In private capital architecture, collateral is a power multiplier.
 
 Private credit, public equities, and digital assets all become engines for liquidity creation.
 
-ROIALS CAPITAL provides Strategic Collateralization thresholds specifically aligned to institutional stability: 
--  Crypto Capital Structuring: Minimum threshold 2,000,
+ROIALS CAPITAL provides Strategic Collateralization thresholds specifically aligned to institutional stability:
 
-00
-0 USD 
--  Public Share Institutional Liquidity Paths: Minimum threshold 5,000,
+- Crypto Capital Structuring: Minimum threshold 2,000,
 
-00
-0 USD These thresholds filter noise.
+000 USD
+
+- Public Share Institutional Liquidity Paths: Minimum threshold 5,000,
+
+000 USD These thresholds filter noise.
 
 They allow collateral performance to remain clean, predictable, and institutionally valuable.
 
@@ -155,11 +164,15 @@ It maintains control during volatility rather than forcing reactive selling.
 
 ## Why Liquidation is Structurally Inferior Liquidation forces a loss of optionality.
 
-When a position is unwound: 
--  The compounding window closes 
--  The tax footprint expands 
--  The long‑term strategy fractures 
--  Market timing becomes an unwanted variable Liquidation is not a liquidity strategy.
+When a position is unwound:
+
+- The compounding window closes
+
+- The tax footprint expands
+
+- The long‑term strategy fractures
+
+- Market timing becomes an unwanted variable Liquidation is not a liquidity strategy.
 
 It is a compression event.
 
@@ -179,17 +192,19 @@ They are design principles.
 
 A 2,000,
 
-00
-0 USD minimum for crypto and a 5,000,
+000 USD minimum for crypto and a 5,000,
 
-00
-0 USD minimum for public shares ensure the collateral behaves in a manner suitable for institutional capital distribution.
+000 USD minimum for public shares ensure the collateral behaves in a manner suitable for institutional capital distribution.
 
-This scale allows for: 
--  Cleaner risk modeling 
--  More stable liquidity facility‑to‑value ratios 
--  Reduced micro‑volatility 
--  Faster operational execution Scale is efficiency.
+This scale allows for:
+
+- Cleaner risk modeling
+
+- More stable liquidity facility‑to‑value ratios
+
+- Reduced micro‑volatility
+
+- Faster operational execution Scale is efficiency.
 
 Scale is clarity.
 
@@ -199,16 +214,23 @@ Scale is the foundation upon which institutional liquidity is engineered.
 
 It is optimization.
 
-Asset Based Capital Structuring plays three roles simultaneously: 
--  It preserves ownership 
--  It activates liquidity 
--  It expands optionality Liquidity becomes a deployable resource without sacrificing exposure.
+Asset Based Capital Structuring plays three roles simultaneously:
 
-This is especially relevant for clients who operate inside multi‑layered asset ecosystems such as: 
--  Family office structures 
--  Multi‑jurisdictional portfolios 
--  Hybrid asset layers across traditional and digital markets 
--  Private credit income portfolios Asset-Based Lending integrates all layers into a coherent liquidity framework. 
+- It preserves ownership
+
+- It activates liquidity
+
+- It expands optionality Liquidity becomes a deployable resource without sacrificing exposure.
+
+This is especially relevant for clients who operate inside multi‑layered asset ecosystems such as:
+
+- Family office structures
+
+- Multi‑jurisdictional portfolios
+
+- Hybrid asset layers across traditional and digital markets
+
+- Private credit income portfolios Asset-Based Lending integrates all layers into a coherent liquidity framework. 
 
 ## ROIALS CAPITAL: The Architectural Perspective We do not operate as lenders in the conventional sense.
 
@@ -254,8 +276,7 @@ This is the ROIALS CAPITAL framework. # Request confidential audit
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

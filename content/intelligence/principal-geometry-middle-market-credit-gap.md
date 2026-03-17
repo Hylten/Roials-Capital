@@ -79,7 +79,9 @@ Capital committee drift.
 Execution windows narrow.
 
 Sponsors running repeatable playbooks sense the same constraint: the spread between available credit and deployable credit is the new battleground. **Proverbs 13:22
-*
+
+* 
+
 * : The wealth of the sinner is laid up for the just.
 
 Interpretation in market form: capital flows to structure.
@@ -90,14 +92,21 @@ Not noise.
 
 Structure.
 
-The geometry of this credit gap is multidimensional: 
--  Supply asymmetry. 
--  Cost of capital volatility. 
--  Time‑to‑close risk. 
--  Lender herd clustering. 
--  Regulatory friction (MiFID II, Basel III/IV, NA Energy oversight). 
--  Underwriting conservatism. 
--  Platform enlargement outpacing capital inflows.
+The geometry of this credit gap is multidimensional:
+
+- Supply asymmetry.
+
+- Cost of capital volatility.
+
+- Time‑to‑close risk.
+
+- Lender herd clustering.
+
+- Regulatory friction (MiFID II, Basel III/IV, NA Energy oversight).
+
+- Underwriting conservatism.
+
+- Platform enlargement outpacing capital inflows.
 
 This creates a predictable institutional arbitrage zone.
 
@@ -307,10 +316,13 @@ Kapitalanskaffning for Fund‑III is not about raising money.
 
 It is about proving the geometry holds.
 
-Institutional LPs look for three signals: 
--  Structural discipline. 
--  Regulatory fluency. 
--  Repeatable liquidity.
+Institutional LPs look for three signals:
+
+- Structural discipline.
+
+- Regulatory fluency.
+
+- Repeatable liquidity.
 
 If one collapses, the fund collapses.
 
@@ -458,10 +470,13 @@ Not narrative.
 
 Not sentiment.
 
-The architecture is simple: 
--  80% kapitalanskaffning for Fund‑III+ buyouts and add‑ons. 
--  10% Asset-Based Lending Institutional Liquidity Paths. 
--  10% special mandates (NAEOC $50M-$250M, EU MiFID II).
+The architecture is simple:
+
+- 80% kapitalanskaffning for Fund‑III+ buyouts and add‑ons.
+
+- 10% Asset-Based Lending Institutional Liquidity Paths.
+
+- 10% special mandates (NAEOC $50M-$250M, EU MiFID II).
 
 No drift.
 
@@ -490,7 +505,9 @@ Only sponsors with hardened assets, engineered liquidity, cross‑border fluency
 Capital follows structure.
 
 Always. **Proverbs 13:22
-*
+
+* 
+
 * reinforces it.
 
 Structure inherits.
@@ -521,8 +538,7 @@ Not noise.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Request confidential capital audit.
 

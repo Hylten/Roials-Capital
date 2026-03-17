@@ -38,7 +38,7 @@ They punish immobility.
 
 The New Liquidity Standard emerges because the legacy liquidity model failed its stewards.
 
-Phase I: .
+### Phase I: .
 
  
 
@@ -123,7 +123,7 @@ The public market pretended to offer liquidity.
 
 The private market now delivers it.
 
-Phase II: .
+### Phase II: .
 
  
 
@@ -149,15 +149,15 @@ LTV curves.
 
 Static LTV is a retail concept.
 
-Institutional structures require dynamic LTV bands tied to three signals: 
--  
+Institutional structures require dynamic LTV bands tied to three signals:
 
-30 day realized volatility 
--  Average daily volume 
--  Market cap decay or accretion over a 
+- 30 day realized volatility
 
-18
-0 day window If volatility rises or volume collapses, LTV bands compress automatically.
+- Average daily volume
+
+- Market cap decay or accretion over a 
+
+180 day window If volatility rises or volume collapses, LTV bands compress automatically.
 
 The structure protects the borrower from forced liquidations and protects the lender from capital impairment.
 
@@ -173,10 +173,13 @@ That is discipline.
 
 Cash flow waterfalls.
 
-Every liquidity structure must resolve three flows: 
--  Carry cost 
--  Pledge maintenance 
--  Free cash allocation for redeployment into Fund-III operations The waterfall cannot be linear.
+Every liquidity structure must resolve three flows:
+
+- Carry cost
+
+- Pledge maintenance
+
+- Free cash allocation for redeployment into Fund-III operations The waterfall cannot be linear.
 
 It must prioritize capital redeployment for buyout or add-on strategies once covenant health is secured.
 
@@ -188,19 +191,19 @@ Recovery factors.
 
 Public shares are volatile.
 
-Recovery modeling requires stress testing across six scenarios: 
--  
+Recovery modeling requires stress testing across six scenarios:
 
-15 percent down shock 
--  
+- 15 percent down shock
 
-30 percent down shock 
--  
+- 30 percent down shock
 
-45 percent down shock 
--  Three standard deviation volatility expansion 
--  Four consecutive low volume weeks 
--  Corporate action shocks, including dividend cut or guidance withdrawal We calibrate recovery not on issuer fundamentals but on market structure behavior.
+- 45 percent down shock
+
+- Three standard deviation volatility expansion
+
+- Four consecutive low volume weeks
+
+- Corporate action shocks, including dividend cut or guidance withdrawal We calibrate recovery not on issuer fundamentals but on market structure behavior.
 
 Recovery is not theological.
 
@@ -212,11 +215,15 @@ This is the hidden truth most institutions overlook.
 
 4.
 
-Covenant architecture. 
--  LTV band compliance 
--  Liquidity reserve compliance 
--  Information rights for monitoring issuer events 
--  Prohibition of secondary pledges A covenant is not a constraint.
+Covenant architecture.
+
+- LTV band compliance
+
+- Liquidity reserve compliance
+
+- Information rights for monitoring issuer events
+
+- Prohibition of secondary pledges A covenant is not a constraint.
 
 It is a survival protocol. 
 
@@ -236,7 +243,7 @@ The market cannot offer timing.
 
 Only structure can.
 
-Phase III: .
+### Phase III: .
 
  
 
@@ -272,12 +279,17 @@ Movement Two: Allocation.
 
 The extracted liquidity must enter productive operations.
 
-Fund-III requires capital for: 
--  Buyout entries 
--  Add-ons 
--  Opportunistic distressed entries 
--  Energy acquisition opportunities under NAEOC thresholds 
--  MiFID II cross-border acquisitions Capital that remains idle decays.
+Fund-III requires capital for:
+
+- Buyout entries
+
+- Add-ons
+
+- Opportunistic distressed entries
+
+- Energy acquisition opportunities under NAEOC thresholds
+
+- MiFID II cross-border acquisitions Capital that remains idle decays.
 
 Capital that enters productive systems compounds.
 
@@ -299,7 +311,7 @@ The New Liquidity Standard integrates them.
 
 Extraction is only meaningful when paired with allocation velocity.
 
-Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship is not sentiment.
 
@@ -312,7 +324,9 @@ It is entrusted.
 Public concentration without Capital Structuring violates stewardship because it elevates risk without increasing productivity.
 
 The Book of Proverbs warns: A good man leaves an inheritance to his children's children **Proverbs 13:22
-*
+
+* 
+
 * .
 
 That inheritance is not cash.
@@ -363,7 +377,7 @@ The public markets no longer reward passive holding.
 
 The steward must act before volatility acts for him.
 
-Phase V: .
+### Phase V: .
 
 EXIT
 
@@ -377,15 +391,13 @@ The technical threshold is
 
 44 percent institutional LTV stability across a 
 
-18
-0 day volatility band.
+180 day volatility band.
 
 ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Request confidential capital audit.
 

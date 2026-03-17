@@ -64,10 +64,13 @@ Any fund that continues underwriting acquisitions through traditional jurisdicti
 
 More importantly, it will lose deals to buyers who understand that the new competitive frontier is liquidity mobility.
 
-The M&A landscape is now shaped by three regime variables: 
--  Regulatory arbitrage between jurisdictions with asymmetric collateral recognition. 
--  The increasing acceptability of crypto-backed credit among shadow banking institutions. 
--  The displacement of domestic lender dependency by mobile overcollateralization pools.
+The M&A landscape is now shaped by three regime variables:
+
+- Regulatory arbitrage between jurisdictions with asymmetric collateral recognition.
+
+- The increasing acceptability of crypto-backed credit among shadow banking institutions.
+
+- The displacement of domestic lender dependency by mobile overcollateralization pools.
 
 The strategic party that controls these variables controls the buyout pipeline.
 
@@ -93,14 +96,17 @@ In a tightening-rate environment, advantage compounds faster than cost of capita
 
 Institutional mechanics decide institutional outcomes.
 
-Crypto collateral can be inserted into an M&A capital stack through three primary structures: 
--  Overcollateralized credit lines at 
+Crypto collateral can be inserted into an M&A capital stack through three primary structures:
+
+- Overcollateralized credit lines at 
 
 40 to 
 
-65 percent LTV. 
--  Synthetic liquidity tranches for deposit-anchored deal deposits. 
--  Cross-custodial security agreements that unlock jurisdictional flexibility.
+65 percent LTV.
+
+- Synthetic liquidity tranches for deposit-anchored deal deposits.
+
+- Cross-custodial security agreements that unlock jurisdictional flexibility.
 
 The LTV curve behaves differently than traditional Asset-Based Lending.
 
@@ -138,10 +144,13 @@ It is a protocol-level execution.
 
 The security interest is technical, not bureaucratic.
 
-This alters GP risk exposure: 
--  Faster collateral monetization in downside scenarios. 
--  Lower legal friction in cross-border workouts. 
--  Higher effective recovery rates due to immediate convertibility.
+This alters GP risk exposure:
+
+- Faster collateral monetization in downside scenarios.
+
+- Lower legal friction in cross-border workouts.
+
+- Higher effective recovery rates due to immediate convertibility.
 
 The institutional opportunity is not speculation.
 
@@ -203,10 +212,13 @@ Mobile collateral accelerates it.
 
 Together they form an anti-fragile structure.
 
-This architecture creates a predictable engine for: 
--  Kapitalanskaffning for Fund-III buyouts. 
--  Asset-Based Lending for liquidity expansion. 
--  Special mandates including NAEOC 50M to 250M energy portfolios and EU acquisition pipelines.
+This architecture creates a predictable engine for:
+
+- Kapitalanskaffning for Fund-III buyouts.
+
+- Asset-Based Lending for liquidity expansion.
+
+- Special mandates including NAEOC 50M to 250M energy portfolios and EU acquisition pipelines.
 
 The strategic advantage is structural.
 
@@ -227,7 +239,9 @@ The mobile nature of crypto collateral must not tempt undisciplined leverage beh
 It must reinforce capital responsibility.
 
 The Biblical model is clear. **Proverbs 13:22
-*
+
+* 
+
 * describes generational capital as a multi-epoch responsibility.
 
 Stewardship rejects disorder.
@@ -236,10 +250,13 @@ Stewardship rejects inefficiency.
 
 Stewardship requires that mobility serve purpose, not appetite.
 
-Borderless collateral allows three layers of stewardship discipline: 
--  Protection of wealth from governmental overreach. 
--  Deployment of capital into productive enterprises, not idle speculation. 
--  Reinforcement of covenantal responsibility across generations.
+Borderless collateral allows three layers of stewardship discipline:
+
+- Protection of wealth from governmental overreach.
+
+- Deployment of capital into productive enterprises, not idle speculation.
+
+- Reinforcement of covenantal responsibility across generations.
 
 Technology does not replace stewardship.
 
@@ -258,8 +275,7 @@ Request a confidential capital audit.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

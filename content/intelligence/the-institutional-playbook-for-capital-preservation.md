@@ -15,6 +15,7 @@ It is the discipline of keeping capital alive across cycles, across liquidity de
 Most investors were taught how to grow capital.
 
 Few were taught how to *protect
+
 * it.
 
 Even fewer were taught how to architect the underlying liquidity structures that shield wealth from volatility, counterparty risk, and forced liquidation.
@@ -95,8 +96,7 @@ Request confidential audit
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

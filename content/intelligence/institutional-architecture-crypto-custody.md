@@ -62,8 +62,7 @@ This asymmetry generates a policy gap.
 
 Long horizon stewards require a custody ecosystem that can scale across 20, 50, and 
 
-10
-0 year planning cycles.
+100 year planning cycles.
 
 The crypto industry, historically oriented toward short duration trading, is now being rearchitected around institutional durability.
 
@@ -184,7 +183,9 @@ Roials Capital supports alignment across these disciplines to prevent structural
 ## THE STEWARDSHIP FILTER Stewardship is a discipline rooted in non wasteful management of entrusted capital.
 
 This principle is consistent with **Proverbs 13:22
-*
+
+* 
+
 * which identifies the obligation of long horizon asset preservation.
 
 In the context of digital assets, stewardship requires specific behaviors.
@@ -223,8 +224,7 @@ The objective is strategic clarity rather than asset solicitation. [END OF INSTI
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

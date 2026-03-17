@@ -72,10 +72,13 @@ When uncertainty compresses, liquidity becomes cheaper to create.
 
 HNWI and UHNW participants require credit that behaves like an operating system, not a speculative trade.
 
-Our Asset-Backed Frameworks against private credit positions focuses on: 
--  Quality of seniority. 
--  Recoverability under liquidation scenarios. 
--  Temporal matching of liquidity facility duration with asset behavior.
+Our Asset-Backed Frameworks against private credit positions focuses on:
+
+- Quality of seniority.
+
+- Recoverability under liquidation scenarios.
+
+- Temporal matching of liquidity facility duration with asset behavior.
 
 This allows us to structure liquidity in a manner that remains uncorrelated with retail credit cycles.
 
@@ -93,10 +96,13 @@ The geometry of the asset dictates the geometry of the liquidity facility.
 
 Liquidity is shaped around the collateral, not the other way around.
 
-Our Asset-Based Lending framework supports: 
--  Financial assets. 
--  Yield producing instruments. 
--  Select alternative collateral structures.
+Our Asset-Based Lending framework supports:
+
+- Financial assets.
+
+- Yield producing instruments.
+
+- Select alternative collateral structures.
 
 What matters is not the asset category.
 
@@ -128,8 +134,7 @@ Crypto is simply another collateral class when treated with correct architectura
 
 ## Public Share Strategic Collateralization and the 5,000,
 
-00
-0 Threshold Public share Strategic Collateralization in Fund-III begins at 5,000, 
+000 Threshold Public share Strategic Collateralization in Fund-III begins at 5,000, 
 
 000.
 
@@ -141,10 +146,13 @@ Participants at this level possess concentrated or high quality positions.
 
 These positions create stable balance sheet optimization capacity when structured with discipline.
 
-Our focus is on: 
--  Liquid equities with institutional float. 
--  Controlled concentration risk. 
--  Cross collateralization where beneficial.
+Our focus is on:
+
+- Liquid equities with institutional float.
+
+- Controlled concentration risk.
+
+- Cross collateralization where beneficial.
 
 When public equity is used as collateral, the result is one of the cleanest forms of liquidity creation.
 
@@ -166,11 +174,15 @@ Through structural mechanics that have zero tolerance for instability.
 
 The liquidity architecture of Fund-III is engineered around the psychology of the sophisticated participant.
 
-Characteristics include: 
--  Aversion to administrative friction. 
--  Preference for discretion. 
--  Expectation of institutional grade collateral analysis. 
--  Requirement for rapid execution when conditions call for it.
+Characteristics include:
+
+- Aversion to administrative friction.
+
+- Preference for discretion.
+
+- Expectation of institutional grade collateral analysis.
+
+- Requirement for rapid execution when conditions call for it.
 
 The result is a Institutional Liquidity Paths environment where the participant does not negotiate with the architecture.
 
@@ -308,8 +320,7 @@ If your capital framework requires institutional liquidity with architectural cl
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

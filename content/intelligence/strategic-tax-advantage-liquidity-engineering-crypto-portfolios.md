@@ -28,21 +28,25 @@ Experienced LPs and UHNWIs with crypto density observe nominal appreciation yet 
 
 Crypto portfolios exhibited accelerated nominal growth while simultaneously losing integration into established credit channels.
 
-Several macro forces define the current landscape: 
--  Tax treatment in most Western jurisdictions treats crypto disposals as capital gains events.
+Several macro forces define the current landscape:
+
+- Tax treatment in most Western jurisdictions treats crypto disposals as capital gains events.
 
 This introduces friction that can exceed 
 
 20 percent to 
 
-37 percent depending on jurisdiction. 
--  Regulatory oversight has created a mismatch between capital mobility and tax liability recognition.
+37 percent depending on jurisdiction.
 
-Many allocators experience mark to market volatility without corresponding liquidity flexibility. 
--  Institutional lenders and private credit platforms have not broadly integrated crypto collateral into their underwriting frameworks.
+- Regulatory oversight has created a mismatch between capital mobility and tax liability recognition.
 
-This reduces credit availability even in the presence of substantial wallet-based value. 
--  Traditional balance sheet management tools that exist for real assets or private equity structures have no parallel in the crypto ecosystem.
+Many allocators experience mark to market volatility without corresponding liquidity flexibility.
+
+- Institutional lenders and private credit platforms have not broadly integrated crypto collateral into their underwriting frameworks.
+
+This reduces credit availability even in the presence of substantial wallet-based value.
+
+- Traditional balance sheet management tools that exist for real assets or private equity structures have no parallel in the crypto ecosystem.
 
 The result is a capital environment where highly appreciated portfolios remain static.
 
@@ -74,11 +78,15 @@ The structure must remain compliant and conservative.
 
 It avoids high leverage ratios and focuses on capital availability at predictable intervals.
 
-It uses: 
--  Overcollateralized advance rates 
--  Cross chain valuation monitoring 
--  Real time risk audits 
--  Counterparty diversification This positions the digital portfolio as a liquidity reservoir rather than a trading asset. 
+It uses:
+
+- Overcollateralized advance rates
+
+- Cross chain valuation monitoring
+
+- Real time risk audits
+
+- Counterparty diversification This positions the digital portfolio as a liquidity reservoir rather than a trading asset. 
 
 2.
 
@@ -88,21 +96,29 @@ The objective is tax alignment.
 
 Liquidity engineering allows allocators to access capital without creating a disposal event.
 
-This benefits allocators who intend to reallocate into: 
--  Fund-III buyouts 
--  Add on acquisition pipelines 
--  Asset hardening programs in real assets 
--  ABL structures linked to industrial or energy assets The allocator retains optionality while achieving alignment with a broader capital program. 
+This benefits allocators who intend to reallocate into:
+
+- Fund-III buyouts
+
+- Add on acquisition pipelines
+
+- Asset hardening programs in real assets
+
+- ABL structures linked to industrial or energy assets The allocator retains optionality while achieving alignment with a broader capital program. 
 
 3.
 
 Institutional Conversion Mechanics Crypto portfolios in isolation do not satisfy conventional LTV frameworks.
 
-Liquidity engineering converts them into acceptable profiles through: 
--  Portfolio tiering 
--  Volatility adjusted insurance wraps 
--  Synthetic collateral ladders 
--  Stabilized cash flow overlays These mechanisms allow private credit decision makers to evaluate the exposure through an institutional lens rather than a speculative one.
+Liquidity engineering converts them into acceptable profiles through:
+
+- Portfolio tiering
+
+- Volatility adjusted insurance wraps
+
+- Synthetic collateral ladders
+
+- Stabilized cash flow overlays These mechanisms allow private credit decision makers to evaluate the exposure through an institutional lens rather than a speculative one.
 
 The structure transforms a volatile asset into a manageable component of an allocator’s capital stack.
 
@@ -118,20 +134,21 @@ THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator rather th
 
 The role is to align allocators with institutional grade frameworks that convert non traditional wealth profiles into usable capital across global markets.
 
-The capital raising architecture is divided into: 
--  
+The capital raising architecture is divided into:
 
-80 percent Fund-III and add on acquisition alignment 
--  
+- 80 percent Fund-III and add on acquisition alignment
 
-10 percent Asset Backed Liquidity engineering for specialized allocators 
--  
+- 10 percent Asset Backed Liquidity engineering for specialized allocators
 
-10 percent Special Mandates including NAEOC energy allocations and MiFID II compliant cross border acquisitions The role includes: 
--  Balancing liquidity needs with regulatory constraints 
--  Identifying appropriate institutional partners for structured liquidity 
--  Calibrating the capital stack for allocators entering buyout cycles 
--  Coordinating with NAEO in situations where energy allocations are required for diversification or inflation hedge purposes The partnership model exists to help allocators navigate structural complexity.
+- 10 percent Special Mandates including NAEOC energy allocations and MiFID II compliant cross border acquisitions The role includes:
+
+- Balancing liquidity needs with regulatory constraints
+
+- Identifying appropriate institutional partners for structured liquidity
+
+- Calibrating the capital stack for allocators entering buyout cycles
+
+- Coordinating with NAEO in situations where energy allocations are required for diversification or inflation hedge purposes The partnership model exists to help allocators navigate structural complexity.
 
 Crypto portfolios require counterparties with risk governance sophistication, tax compliant structuring capability, and multi jurisdiction execution proficiency.
 
@@ -153,12 +170,18 @@ It may be liquidated at suboptimal times due to tax pressure or volatility.
 
 It may become trapped capital.
 
-Stewardship requires: 
--  Liquidity access without destruction of principal 
--  Reallocation into productive capital programs 
--  Governance frameworks that preserve intergenerational optionality 
--  Decision making that aligns with **Proverbs 13:22
-*
+Stewardship requires:
+
+- Liquidity access without destruction of principal
+
+- Reallocation into productive capital programs
+
+- Governance frameworks that preserve intergenerational optionality
+
+- Decision making that aligns with **Proverbs 13:22
+
+* 
+
 * and the broader theology of capital Liquidity engineering serves this function.
 
 It converts unstable value into stable utility.
@@ -183,11 +206,15 @@ The decision is not about upside potential.
 
 It is about operational range and tax optimized mobility.
 
-A confidential portfolio calibration allows an allocator to understand: 
--  How their crypto exposure can be transformed into balance sheet optionality 
--  How liquidity engineering can synchronize with Fund-III acquisition pacing 
--  How to integrate structured liquidity alongside real asset and private credit allocations 
--  How to build an institutional grade capital stack that remains responsive across market regimes Roials Capital operates as the strategic architect for this alignment.
+A confidential portfolio calibration allows an allocator to understand:
+
+- How their crypto exposure can be transformed into balance sheet optionality
+
+- How liquidity engineering can synchronize with Fund-III acquisition pacing
+
+- How to integrate structured liquidity alongside real asset and private credit allocations
+
+- How to build an institutional grade capital stack that remains responsive across market regimes Roials Capital operates as the strategic architect for this alignment.
 
 The process is governed, compliant, neutral, and institutionally designed. [END OF INSTITUTIONAL BRIEFING]
 

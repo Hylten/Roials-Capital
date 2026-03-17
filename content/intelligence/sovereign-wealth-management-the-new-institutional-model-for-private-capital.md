@@ -174,8 +174,7 @@ We provide crypto backed Capital Structuring with institutional grade thresholds
 
 The minimum threshold is 2,000,
 
-00
-0 dollars.
+000 dollars.
 
 This threshold is deliberate.
 
@@ -197,8 +196,7 @@ Yet it is often underutilized by private clients due to lender restrictions, reg
 
 Roials Capital provides Strategic Collateralization against public equities with a minimum threshold of 5,000,
 
-00
-0 dollars.
+000 dollars.
 
 This is not margin Strategic Collateralization.
 
@@ -322,8 +320,7 @@ It is built for those who treat capital as architecture, not speculation.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

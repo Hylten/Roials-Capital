@@ -124,21 +124,29 @@ Institutions that understand asset hardening operate on a dynamic LTV curve.
 
 The LTV is not a constraint.
 
-It is a moving function of: 
--  asset durability 
--  seniority hierarchy 
--  cash-flow regularity 
--  recovery predictability Quiet capital engineering adjusts the curve to minimize volatility and squeeze waste out of collateral misalignment.
+It is a moving function of:
+
+- asset durability
+
+- seniority hierarchy
+
+- cash-flow regularity
+
+- recovery predictability Quiet capital engineering adjusts the curve to minimize volatility and squeeze waste out of collateral misalignment.
 
 The Cash Flow Waterfall Most companies run waterfalls as if they were compliance tools.
 
 The disciplined treat them as levers.
 
-A waterfall designed with institutional precision uses four layers: 
--  senior secured outflow 
--  operational liquidity band 
--  reinvestment threshold 
--  distributable surplus Efficiency is a function of pressure.
+A waterfall designed with institutional precision uses four layers:
+
+- senior secured outflow
+
+- operational liquidity band
+
+- reinvestment threshold
+
+- distributable surplus Efficiency is a function of pressure.
 
 Control the waterfall and you control velocity.
 
@@ -166,11 +174,15 @@ Increase borrowable mass.
 
 principal authority Mechanics principal authority is the unspoken leverage built through collateral that never appears in the operational arena.
 
-It enables: 
--  undisclosed borrowing bases 
--  off-cycle acquisition triggers 
--  covenant-neutral liquidity bands 
--  asset-level repositioning without cross-default risk Institutional power is the ability to act without signalling. 
+It enables:
+
+- undisclosed borrowing bases
+
+- off-cycle acquisition triggers
+
+- covenant-neutral liquidity bands
+
+- asset-level repositioning without cross-default risk Institutional power is the ability to act without signalling. 
 
  
 
@@ -226,11 +238,13 @@ The institution stays in control.
 
 Special Mandates Another ten percent sits in mandates that extend authority beyond the core.
 
-Two areas dominate. 
--  NAEOC 50M to 250M energy credit blocks Hard assets with predictable extraction curves create collateral reliability.
+Two areas dominate.
 
-These mandates sharpen the recovery profile of the entire portfolio. 
--  EU MiFID II acquisitions European regulatory rigidity frightens operators.
+- NAEOC 50M to 250M energy credit blocks Hard assets with predictable extraction curves create collateral reliability.
+
+These mandates sharpen the recovery profile of the entire portfolio.
+
+- EU MiFID II acquisitions European regulatory rigidity frightens operators.
 
 It should not.
 
@@ -251,7 +265,9 @@ It is moral.
 Waste is sin.
 
 Misallocated capital is misused stewardship. **Proverbs 13:22
-*
+
+* 
+
 * speaks of inheritance across generations.
 
 It is not about wealth accumulation.
@@ -312,8 +328,7 @@ Conduct the confidential capital audit.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

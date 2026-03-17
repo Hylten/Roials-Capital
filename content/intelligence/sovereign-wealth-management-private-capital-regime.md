@@ -216,12 +216,17 @@ Special mandates are the proving ground.
 
 4.
 
-The Sovereign Control Loop The GP must adopt an internal control loop that mirrors sovereign committee logic: 
--  Pre underwriting severity tests 
--  Liquidity stress curves 
--  Counterparty mapping 
--  Energy delta integration 
--  Exit symmetry protocols When this loop is visible in the investment memos, sovereign committees accelerate approvals.
+The Sovereign Control Loop The GP must adopt an internal control loop that mirrors sovereign committee logic:
+
+- Pre underwriting severity tests
+
+- Liquidity stress curves
+
+- Counterparty mapping
+
+- Energy delta integration
+
+- Exit symmetry protocols When this loop is visible in the investment memos, sovereign committees accelerate approvals.
 
 A fund with internal chaos cannot steward sovereign capital.
 
@@ -248,7 +253,9 @@ Sovereign committees do not articulate this theology, but they operate inside it
 They reward GPs who demonstrate resource discipline.
 
 They withdraw from those who do not. **Proverbs 13:22
-*
+
+* 
+
 * defines the continuity logic of stewardship: A good man leaves an inheritance to his children's children.
 
 Institutionalised, this means capital must outlive the individuals who deploy it.
@@ -305,8 +312,7 @@ For sovereign-grade capital alignment, request a confidential capital audit.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

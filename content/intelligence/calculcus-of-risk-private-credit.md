@@ -216,7 +216,9 @@ It is not merely a financial principle.
 It is a moral architecture grounded in the responsible management of resources.
 
 As **Proverbs 13:22
-*
+
+* 
+
 * notes, the responsibility of leaving an inheritance requires both discipline and foresight.
 
 The stewardship filter applies three tests. 
@@ -277,8 +279,7 @@ The outcome is a calibrated understanding of how private credit can function as 
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

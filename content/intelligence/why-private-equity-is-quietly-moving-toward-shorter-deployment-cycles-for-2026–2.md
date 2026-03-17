@@ -195,16 +195,17 @@ It is strategic.
 
 It is advantageous for those who understand its mechanics.
 
-Our Fund‑III partners across North America and Europe have already begun: 
--  2026-20
+Our Fund‑III partners across North America and Europe have already begun:
 
-28 vintages running 18
--
+- 2026-2028 vintages running 18
 
-30 month deployment windows. 
--  Add‑on pipelines pre‑underwritten before fund close. 
--  Direct industrial lending aligned to transaction tempo. 
--  Cross‑border legal harmonization eliminating time waste.
+- 30 month deployment windows.
+
+- Add‑on pipelines pre‑underwritten before fund close.
+
+- Direct industrial lending aligned to transaction tempo.
+
+- Cross‑border legal harmonization eliminating time waste.
 
 This is border‑agnostic execution.
 
@@ -288,19 +289,23 @@ What once required years now requires discipline.
 
 And discipline compresses time. 
 
-## THE 2026-20
-
-28 OUTLOOK The most important insight for principals: the compression trend is not cyclical.
+## THE 2026-2028 OUTLOOK The most important insight for principals: the compression trend is not cyclical.
 
 It is generational.
 
-Reasons: 
--  LPs expect faster velocity permanently 
--  Industrial families are succession‑ready in record numbers 
--  Digital infrastructure accelerates diligence 
--  Private credit removes dependency on slow banking cycles 
--  Platforms provide structural leverage for continuous add‑on execution 
--  Cross‑border legal standardization reduces transaction fatigue These forces will not reverse.
+Reasons:
+
+- LPs expect faster velocity permanently
+
+- Industrial families are succession‑ready in record numbers
+
+- Digital infrastructure accelerates diligence
+
+- Private credit removes dependency on slow banking cycles
+
+- Platforms provide structural leverage for continuous add‑on execution
+
+- Cross‑border legal standardization reduces transaction fatigue These forces will not reverse.
 
 They will deepen.
 

@@ -116,20 +116,17 @@ A cryptographic loan decision is not an approval.
 
 It is an execution.
 
-Typical mechanics: 
--  
+Typical mechanics:
 
-45 to 
+- 45 to 
 
-65 percent LTV for tokenized hard assets 
--  
+65 percent LTV for tokenized hard assets
 
-60 to 
+- 60 to 
 
-85 percent LTV for sovereign-backed digital treasuries 
--  
+85 percent LTV for sovereign-backed digital treasuries
 
-75 to 
+- 75 to 
 
 90 percent LTV for overcollateralized institutional pools Cash flow waterfalls reconfigure on event triggers rather than quarterly reviews.
 
@@ -199,10 +196,13 @@ Special Mandates The institutions behind sovereign crypto banks are increasingly
 
 Their mandate overlaps with multiple strategic verticals.
 
-This creates partnership opportunities for: 
--  NAEOC energy projects at 50M to 250M ticket sizes 
--  EU MiFID II acquisitions to accelerate cross-border regulatory reach 
--  Private credit vehicles seeking real-time underwriting capabilities A private equity GP that aligns with a sovereign-grade crypto bank has a structural advantage.
+This creates partnership opportunities for:
+
+- NAEOC energy projects at 50M to 250M ticket sizes
+
+- EU MiFID II acquisitions to accelerate cross-border regulatory reach
+
+- Private credit vehicles seeking real-time underwriting capabilities A private equity GP that aligns with a sovereign-grade crypto bank has a structural advantage.
 
 It operates with a different liquidity regime than competitors.
 
@@ -231,7 +231,9 @@ Velocity without virtue is chaos.
 Biblical stewardship is not sentimental.
 
 It is operational. **Proverbs 13:22
-*
+
+* 
+
 * records a structural rule: wealth must be preserved across generations through disciplined governance.
 
 Stewardship requires order.
@@ -248,12 +250,17 @@ Waste is sin because it destroys the productivity of creation.
 
 Stewardship demands capital discipline.
 
-The Stewardship Filter for Fund-III includes: 
--  Zero tolerance for idle liquidity 
--  No capital allocated to slow decision paths 
--  No exposure to opaque jurisdictions that treat wealth as a taxable hostage 
--  No human bottlenecks inside approval lines 
--  No moral abdication in energy, infrastructure, or resource extraction mandates Stewardship is precision.
+The Stewardship Filter for Fund-III includes:
+
+- Zero tolerance for idle liquidity
+
+- No capital allocated to slow decision paths
+
+- No exposure to opaque jurisdictions that treat wealth as a taxable hostage
+
+- No human bottlenecks inside approval lines
+
+- No moral abdication in energy, infrastructure, or resource extraction mandates Stewardship is precision.
 
 It is architecture.
 
@@ -273,8 +280,7 @@ Request a confidential capital audit.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

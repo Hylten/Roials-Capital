@@ -112,13 +112,19 @@ Institutional alignment requires that private credit not be treated as a specula
 
 That discipline is what allows private credit to be used as collateral in the first place.
 
-When ROIALS CAPITAL assesses a private credit position, we look at: 
--  quality of the underlying borrower 
--  enforceability of covenants 
--  seniority and ranking 
--  duration and cash flow timing 
--  jurisdictional clarity 
--  historical performance of similar structures This assessment is not negotiable.
+When ROIALS CAPITAL assesses a private credit position, we look at:
+
+- quality of the underlying borrower
+
+- enforceability of covenants
+
+- seniority and ranking
+
+- duration and cash flow timing
+
+- jurisdictional clarity
+
+- historical performance of similar structures This assessment is not negotiable.
 
 It defines the boundaries of responsible leverage.
 
@@ -144,12 +150,17 @@ Our function is structural, not promotional.
 
 Our authority comes from engineering that works.
 
-HNWI and UHNW individuals who align with institutional behavior benefit from: 
--  faster decisioning 
--  more predictable liquidity windows 
--  deeper access to leverage 
--  reduced friction during underwriting 
--  more strategic use of portfolio assets The market rewards those who move like institutions.
+HNWI and UHNW individuals who align with institutional behavior benefit from:
+
+- faster decisioning
+
+- more predictable liquidity windows
+
+- deeper access to leverage
+
+- reduced friction during underwriting
+
+- more strategic use of portfolio assets The market rewards those who move like institutions.
 
 Not those who request exceptions.
 
@@ -349,8 +360,7 @@ To evaluate how your assets align with institutional private credit rules, reque
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

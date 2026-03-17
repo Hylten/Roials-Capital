@@ -33,9 +33,11 @@ Expand.
 Control liquidity.
 
 Most private investors attempt to scale the *expansion
+
 * function.
 
 Institutional families and state-level allocators optimize *control
+
 * first.
 
 Control determines velocity, and velocity determines compounding power.
@@ -84,11 +86,15 @@ The architecture is calm.
 
 The execution is surgical. 
 
-## Private Credit as a Strategic Liquidity Layer Private credit has become a preferred instrument for sovereign scale strategies because it provides: 
--  Controlled yield environments 
--  Non correlated return dynamics 
--  Superior structuring flexibility 
--  Minimal market noise impact HNWI and UHNW clients use private credit not only for return generation but for liquidity leverage.
+## Private Credit as a Strategic Liquidity Layer Private credit has become a preferred instrument for sovereign scale strategies because it provides:
+
+- Controlled yield environments
+
+- Non correlated return dynamics
+
+- Superior structuring flexibility
+
+- Minimal market noise impact HNWI and UHNW clients use private credit not only for return generation but for liquidity leverage.
 
 By Asset-Backed Frameworks against existing private credit positions investors unlock capital without dismantling positions prematurely.
 
@@ -112,11 +118,15 @@ Assets with volatility become liquidity liabilities.
 
 Sovereign-grade Asset-Based Lending requires a structural lens.
 
-We examine: 
--  Durability 
--  Counterparty resilience 
--  Liquidity under forced conditions 
--  Operational transparency Asset-Based Lending is not a transactional instrument.
+We examine:
+
+- Durability
+
+- Counterparty resilience
+
+- Liquidity under forced conditions
+
+- Operational transparency Asset-Based Lending is not a transactional instrument.
 
 It is an architectural design element.
 
@@ -134,11 +144,15 @@ Below that threshold, noise overwhelms signal.
 
 Above that threshold, institutional controls stabilize the environment.
 
-Crypto Institutional Liquidity Paths within a sovereign strategy requires: 
--  Clean custody 
--  Verified provenance 
--  Stress tested collateralization 
--  Tight liquidity facility to value constraints The objective is not speculation.
+Crypto Institutional Liquidity Paths within a sovereign strategy requires:
+
+- Clean custody
+
+- Verified provenance
+
+- Stress tested collateralization
+
+- Tight liquidity facility to value constraints The objective is not speculation.
 
 The objective is liquidity without erosion.
 
@@ -218,11 +232,15 @@ Sovereign clients cannot afford visible or reactive liquidity events.
 
 Standard credit lines are structurally insufficient.
 
-ROIALS CAPITAL fills that gap by providing Institutional Liquidity Paths solutions that align with sovereign behavior: 
--  Monetization Architecture against private credit 
--  Monetization Architecture against asset based positions 
--  Crypto Strategic Collateralization from and above 
--  Public share Institutional Liquidity Paths from and above These are not services.
+ROIALS CAPITAL fills that gap by providing Institutional Liquidity Paths solutions that align with sovereign behavior:
+
+- Monetization Architecture against private credit
+
+- Monetization Architecture against asset based positions
+
+- Crypto Strategic Collateralization from and above
+
+- Public share Institutional Liquidity Paths from and above These are not services.
 
 These are structural mechanics. 
 
@@ -294,8 +312,7 @@ When deployed correctly these tools create a liquidity architecture that operate
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

@@ -58,10 +58,13 @@ This is why institutional allocators continue increasing their allocation weight
 
 It is also why private credit remains non‑correlated in environments of volatility, inflation, or the erosion of public‑market transparency.
 
-For HNWI and UHNW decision-makers, private credit supports three outcomes: 
--  Capital preservation. 
--  Yield generation. 
--  Frictionless liquidity access.
+For HNWI and UHNW decision-makers, private credit supports three outcomes:
+
+- Capital preservation.
+
+- Yield generation.
+
+- Frictionless liquidity access.
 
 ROIALS CAPITAL aligns with these outcomes by Capital Structuring against private credit positions themselves, as well as broader classes of asset‑based collateral. 
 
@@ -97,12 +100,17 @@ It comes from design parameters.
 
 Sovereigns view liquidity not as a static resource, but as a navigable topology.
 
-Their portfolios combine: 
--  Long duration assets. 
--  Strategic national interests. 
--  Private credit pipelines. 
--  High‑grade infrastructure. 
--  Non‑public equity.
+Their portfolios combine:
+
+- Long duration assets.
+
+- Strategic national interests.
+
+- Private credit pipelines.
+
+- High‑grade infrastructure.
+
+- Non‑public equity.
 
 This architecture is increasingly replicated by UHNW individuals, who understand that traditional wealth management models no longer satisfy global realities.
 
@@ -234,8 +242,7 @@ ROIALS CAPITAL stands as a structural partner for those who require institutiona
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

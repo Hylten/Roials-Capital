@@ -20,9 +20,7 @@ Allocators with disciplined underwriting frameworks now observe a market where p
 
 ## THE REGIME SHIFT
 
- The post-20
-
-21 monetary cycle initiated a multi-year recalibration in credit availability.
+ The post-2021 monetary cycle initiated a multi-year recalibration in credit availability.
 
 Bank participation in middle market lending declined as compliance burdens, stress testing, and capital reserve requirements shifted internal risk models upward.
 
@@ -30,17 +28,17 @@ The withdrawal did not coincide with a decline in borrower fundamentals, particu
 
 Instead, it produced a structural misalignment between capital supply and operational demand.
 
-Several characteristics define the current regime. 
--  Duration aversion among traditional lenders has created a short-tenor bias inconsistent with the growth trajectories of sponsor-backed middle market enterprises. 
--  Credit committees at regulated institutions increasingly prioritize homogeneity, reducing exposure to asset-heavy borrowers requiring flexible capital structures. 
--  Refinancing walls from 20
+Several characteristics define the current regime.
 
-24 to 20
+- Duration aversion among traditional lenders has created a short-tenor bias inconsistent with the growth trajectories of sponsor-backed middle market enterprises.
 
-28 generate elevated transaction velocity across sponsor-backed platforms.
+- Credit committees at regulated institutions increasingly prioritize homogeneity, reducing exposure to asset-heavy borrowers requiring flexible capital structures.
 
-Borrowers seeking rational terms encounter dislocated pricing landscapes where non-bank entities can implement institutional discipline without competitive dilution. 
--  The United States and Canada continue to exhibit asymmetric credit dispersion.
+- Refinancing walls from 2024 to 2028 generate elevated transaction velocity across sponsor-backed platforms.
+
+Borrowers seeking rational terms encounter dislocated pricing landscapes where non-bank entities can implement institutional discipline without competitive dilution.
+
+- The United States and Canada continue to exhibit asymmetric credit dispersion.
 
 Canada’s domestic banking oligopoly amplifies the scarcity premium in non-bank private credit, while the United States shows fragmentation that benefits agile allocators with cross-jurisdictional execution capability.
 
@@ -131,14 +129,20 @@ In other sectors, partnerships are aligned based on operational maturity, cross-
 ## THE STEWARDSHIP FILTER Stewardship governs the deployment of capital as a resource under responsibility.
 
 It aligns with the discipline articulated in **Proverbs 13:22
-*
+
+* 
+
 * , where intergenerational impact is linked to prudent management.
 
-In private credit, stewardship is expressed through: 
--  disciplined underwriting that protects principal across cycles 
--  non wasteful allocation strategies 
--  preference for real asset visibility over speculative momentum 
--  alignment with borrowers committed to operational excellence rather than financial engineering Stewardship is not a moral overlay.
+In private credit, stewardship is expressed through:
+
+- disciplined underwriting that protects principal across cycles
+
+- non wasteful allocation strategies
+
+- preference for real asset visibility over speculative momentum
+
+- alignment with borrowers committed to operational excellence rather than financial engineering Stewardship is not a moral overlay.
 
 It is a rigorous framework ensuring capital flows into productive structures that respect risk, reward, and long-term viability.
 
@@ -146,12 +150,17 @@ DECISION MAKING LENS FOR ALLOCATORS The allocator’s task is not to pursue yiel
 
 It is to calibrate exposure, evaluate structural integrity, and ensure capital sits in environments where downside protection is measurable and operational visibility is high.
 
-The middle market credit gap presents one of the most structurally coherent ecosystems for allocators seeking: 
--  seniority preservation 
--  collateral visibility 
--  contractual discipline 
--  platform maturity 
--  cross-border execution capability Roials Capital provides institutional stakeholders with a confidential environment to conduct Strategy Audits and Portfolio Calibration exercises.
+The middle market credit gap presents one of the most structurally coherent ecosystems for allocators seeking:
+
+- seniority preservation
+
+- collateral visibility
+
+- contractual discipline
+
+- platform maturity
+
+- cross-border execution capability Roials Capital provides institutional stakeholders with a confidential environment to conduct Strategy Audits and Portfolio Calibration exercises.
 
 These sessions are designed to clarify structural pathways, pressure test assumptions, and align capital with sectors and partners where risk and discipline converge. [END OF BRIEFING]
 
@@ -159,8 +168,7 @@ These sessions are designed to clarify structural pathways, pressure test assump
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

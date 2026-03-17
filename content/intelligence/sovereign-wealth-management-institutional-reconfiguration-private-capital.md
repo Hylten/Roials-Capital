@@ -12,7 +12,7 @@ Sovereign allocators have moved into this gap with an operating philosophy that 
 
 Their presence is restructuring the opportunity map for private equity, private credit, and strategic resource ownership across North America and Europe.
 
-Phase I: .
+### Phase I: .
 
  
 
@@ -32,10 +32,13 @@ Their objective is long horizon national resilience rather than quarterly perfor
 
 This shift has created a structural divide between capital that requires liquidity recycling and capital that seeks geopolitical anchoring.
 
-The effects are evident across North American buyouts, North American energy, and European strategic acquisitions. 
--  Buyout platforms in Fund-III+ positions observe elongated fundraising cycles due to LP pacing rules. 
--  Energy operators in Alberta, Saskatchewan, and the US Permian face exceptionally low competition for heavy oil assets despite predictable decline curves and fully delineated reservoirs. 
--  European technology and infrastructure assets experience valuation dislocations driven by regulatory harmonization pressures under MiFID II and UK equivalence uncertainty.
+The effects are evident across North American buyouts, North American energy, and European strategic acquisitions.
+
+- Buyout platforms in Fund-III+ positions observe elongated fundraising cycles due to LP pacing rules.
+
+- Energy operators in Alberta, Saskatchewan, and the US Permian face exceptionally low competition for heavy oil assets despite predictable decline curves and fully delineated reservoirs.
+
+- European technology and infrastructure assets experience valuation dislocations driven by regulatory harmonization pressures under MiFID II and UK equivalence uncertainty.
 
 The consequence is an asymmetric opportunity set.
 
@@ -43,7 +46,7 @@ Sovereign capital has moved into sectors that require long term stability of cap
 
 Private credit funds, mid market buyout platforms, and sector specialist sponsors are now repositioning their capital raising strategies toward sovereign archetypes, because sovereign allocators value strategic alignment over benchmark relative performance.
 
-Phase II: .
+### Phase II: .
 
  
 
@@ -136,7 +139,7 @@ Add on acquisition pipelines must be articulated through operational synergies, 
 
 Sovereign allocators are less sensitive to vintage year dispersion and more focused on multi cycle stability.
 
-Phase III: .
+### Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator and institutional introducer.
 
@@ -166,12 +169,14 @@ Roials Capital is not the capital deployer.
 
 It is the architect that organizes the institutional ecosystem around operators, managers, and sovereign allocators.
 
-Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship is the discipline of resource management grounded in non wasteful capital deployment.
 
 It aligns with the theological principle in **Proverbs 13:22
-*
+
+* 
+
 * which states that a good person leaves an inheritance for the next generation.
 
 This is not rhetoric.
@@ -208,7 +213,7 @@ It is precision.
 
 It is the ability to convert a resource, acquisition, or credit situation into a hardened institutional structure.
 
-Phase V: .
+### Phase V: .
 
 DECISION FRAMEWORK FOR THE ALLOCATOR The institutional allocator navigating this regime shift requires a structured lens.
 

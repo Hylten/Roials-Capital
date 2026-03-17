@@ -185,7 +185,9 @@ The focus is governance, precision, and structural integrity.
 It is the doctrine that resources are finite and must be managed with precision, accountability, and long term foresight.
 
 The Theology of Capital recognizes that capital is a stewardship instrument, not a consumption tool. **Proverbs 13:22
-*
+
+* 
+
 * establishes a generational perspective on wealth transfer that aligns with long dated asset strategies.
 
 In Strategic Collateralization, stewardship manifests through adherence to four principles. 
@@ -226,8 +228,7 @@ The objective is to equip decision makers with the operational intelligence requ
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

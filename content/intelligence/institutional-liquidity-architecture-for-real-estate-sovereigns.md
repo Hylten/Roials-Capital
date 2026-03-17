@@ -30,12 +30,17 @@ Their liquidity demands are not events.
 
 They are ecosystems.
 
-They require: 
--  Multi asset collateral structures. 
--  Private credit leverage. 
--  Real estate pivot capital. 
--  Market independent liquidity options. 
--  Tiered capital velocity.
+They require:
+
+- Multi asset collateral structures.
+
+- Private credit leverage.
+
+- Real estate pivot capital.
+
+- Market independent liquidity options.
+
+- Tiered capital velocity.
 
 The objective is always the same.
 
@@ -99,11 +104,15 @@ We do not operate as intermediaries.
 
 We are architects.
 
-Our framework is intentionally engineered for: 
--  High net worth individuals. 
--  Ultra high net worth individuals. 
--  Family offices. 
--  Sovereign operators managing multi asset portfolios.
+Our framework is intentionally engineered for:
+
+- High net worth individuals.
+
+- Ultra high net worth individuals.
+
+- Family offices.
+
+- Sovereign operators managing multi asset portfolios.
 
 Each client receives a framework, not a product.
 
@@ -167,8 +176,7 @@ For sovereigns, this is the standard.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

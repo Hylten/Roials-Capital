@@ -12,9 +12,7 @@ Production reservoirs remain stable.
 
 Access to institutional capital does not.
 
-This mismatch between geological certainty and capital availability is the foundational inefficiency that continues to define the 20
-
-26 energy landscape.
+This mismatch between geological certainty and capital availability is the foundational inefficiency that continues to define the 2026 energy landscape.
 
 Allocators who understand this regime shift are not making directional price bets.
 
@@ -90,8 +88,9 @@ This technical maturity produces a degree of operational predictability that is 
 
 1.
 
-SAGD 
--  Steam Assisted Gravity Drainage.
+SAGD
+
+- Steam Assisted Gravity Drainage.
 
 SAGD is a dual wellbore system where a steam injector sits above a production well.
 
@@ -105,8 +104,9 @@ SAGD is capital intensive at the front end but demonstrates robust operational s
 
 2.
 
-CSS 
--  Cyclic Steam Stimulation.
+CSS
+
+- Cyclic Steam Stimulation.
 
 CSS is a single well system where steam is injected, soaked, and then produced.
 
@@ -243,7 +243,9 @@ Non wasteful operational design.
 This includes optimized drilling schedules, reduced surface disturbance, and intelligent thermal mapping.
 
 This aligns with the theological principle referenced in **Proverbs 13:22
-*
+
+* 
+
 * which reflects the multi generational orientation of responsible asset management.
 
 The allocator is not speculating on price volatility.

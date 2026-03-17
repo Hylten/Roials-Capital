@@ -21,7 +21,9 @@ A chassis, not an account.
 A system, not a hope.
 
 Legacy families understood the principle before modern financial engineering gave it language. **Proverbs 13:22
-*
+
+* 
+
 * describes 
 
 ## THE MANDATE
@@ -352,8 +354,7 @@ The market demands velocity.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Request confidential capital audit.
 

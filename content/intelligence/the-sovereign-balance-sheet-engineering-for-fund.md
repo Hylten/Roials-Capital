@@ -136,10 +136,13 @@ Velocity removes indecision from the structure.
 
 It eliminates optionality that is not economically productive.
 
-Institutional velocity is created through three pillars: 
--  Pre engineered documents 
--  Pre validated collateral 
--  Pre cleared Institutional Liquidity Paths channels These create a state where liquidity can be unlocked or redirected within hours instead of months.
+Institutional velocity is created through three pillars:
+
+- Pre engineered documents
+
+- Pre validated collateral
+
+- Pre cleared Institutional Liquidity Paths channels These create a state where liquidity can be unlocked or redirected within hours instead of months.
 
 In challenging cycles, this distinction separates principals from participants.
 
@@ -159,12 +162,17 @@ This authority is not declared verbally.
 
 It is declared structurally.
 
-Fund-III entities have: 
--  Cross collateral frameworks 
--  Multi vehicle liquidity routing 
--  Tiered counterparty exposure limits 
--  Predictive covenant modeling 
--  Stabilized recourse isolation This is not over engineering.
+Fund-III entities have:
+
+- Cross collateral frameworks
+
+- Multi vehicle liquidity routing
+
+- Tiered counterparty exposure limits
+
+- Predictive covenant modeling
+
+- Stabilized recourse isolation This is not over engineering.
 
 This is protection.
 
@@ -176,12 +184,17 @@ They reward engineered sovereignty.
 
 Liquidity only belongs to those who can command it.
 
-The last cycles have shown clear displacement patterns: 
--  Private credit has overtaken traditional credit in velocity. 
--  Asset based Monetization Architecture has surpassed conventional liquidity facility structures in flexibility. 
--  Institutional family capital has become more agile than mid scale fund capital. 
--  Crypto collateralization has matured into enterprise governance layers. 
--  Public share portfolios have reemerged as formal liquidity conduits.
+The last cycles have shown clear displacement patterns:
+
+- Private credit has overtaken traditional credit in velocity.
+
+- Asset based Monetization Architecture has surpassed conventional liquidity facility structures in flexibility.
+
+- Institutional family capital has become more agile than mid scale fund capital.
+
+- Crypto collateralization has matured into enterprise governance layers.
+
+- Public share portfolios have reemerged as formal liquidity conduits.
 
 These shifts are not temporary.
 
@@ -201,28 +214,43 @@ Each pillar removes fragility.
 
 Each pillar is engineered for execution under pressure.
 
-Pillar One Structural Alignment The foundation requires: 
--  Clean ownership trees 
--  Multi jurisdiction clarity 
--  Documented mandates for every vehicle 
--  Removal of silent exposure points 
--  Integration of compliant liquidity ports Structural alignment converts a balance sheet from interpretive to authoritative.
+Pillar One Structural Alignment The foundation requires:
+
+- Clean ownership trees
+
+- Multi jurisdiction clarity
+
+- Documented mandates for every vehicle
+
+- Removal of silent exposure points
+
+- Integration of compliant liquidity ports Structural alignment converts a balance sheet from interpretive to authoritative.
 
 Pillar Two Asset Hardening The hardening process elevates private value to institutional collateral.
 
-Core processes include: 
--  Precision valuation 
--  Exposure segregation 
--  Covenant ready packaging 
--  Conversion into lendable units 
--  Multi cycle liquidity predictability Asset hardening is the discipline that removes volatility from family capital.
+Core processes include:
 
-Pillar Three Execution Velocity Velocity is engineered through: 
--  Pre cleared lender channels 
--  Binding readiness documents 
--  Intra vehicle liquidity routing 
--  Counterparty sequencing 
--  Immediate collateral conversion pathways Velocity converts opportunity into capture. 
+- Precision valuation
+
+- Exposure segregation
+
+- Covenant ready packaging
+
+- Conversion into lendable units
+
+- Multi cycle liquidity predictability Asset hardening is the discipline that removes volatility from family capital.
+
+Pillar Three Execution Velocity Velocity is engineered through:
+
+- Pre cleared lender channels
+
+- Binding readiness documents
+
+- Intra vehicle liquidity routing
+
+- Counterparty sequencing
+
+- Immediate collateral conversion pathways Velocity converts opportunity into capture. 
 
 ## The Sovereign Position for HNWI and UHNW Families Wealth without structure is chaos.
 
@@ -234,12 +262,17 @@ The distinction is not cosmetic.
 
 Enterprise families operate by principle, not preference.
 
-They maintain: 
--  Capital discipline 
--  Counterparty standards 
--  Predictive liquidity 
--  Defined exposure limits 
--  Multi horizon timeframes This is the sovereign position. 
+They maintain:
+
+- Capital discipline
+
+- Counterparty standards
+
+- Predictive liquidity
+
+- Defined exposure limits
+
+- Multi horizon timeframes This is the sovereign position. 
 
 ## Engineering Counterparty Asymmetry Counterparty asymmetry means you do not negotiate from weakness.
 
@@ -271,12 +304,17 @@ This separation is non negotiable.
 
 Most balance sheets are not ready for this level of visibility.
 
-The readiness state must include: 
--  Document alignment 
--  Cash flow clarity 
--  Predictive collateral valuation 
--  Exposure limitation mapping 
--  Cycle to cycle continuity models This is the baseline.
+The readiness state must include:
+
+- Document alignment
+
+- Cash flow clarity
+
+- Predictive collateral valuation
+
+- Exposure limitation mapping
+
+- Cycle to cycle continuity models This is the baseline.
 
 Not the advanced tier.
 
@@ -288,12 +326,17 @@ It is a perpetual machine.
 
 Multi cycle governance stabilizes the institution across predictable downturns and unpredictable shocks.
 
-The Roials model uses: 
--  Covenant staircasing 
--  Threshold based liquidity releases 
--  Exposure compression protocols 
--  Asset hardening renewals 
--  Cycle timing intelligence Governance is not bureaucracy.
+The Roials model uses:
+
+- Covenant staircasing
+
+- Threshold based liquidity releases
+
+- Exposure compression protocols
+
+- Asset hardening renewals
+
+- Cycle timing intelligence Governance is not bureaucracy.
 
 Governance is protection. 
 
@@ -363,8 +406,7 @@ It is earned through structure.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

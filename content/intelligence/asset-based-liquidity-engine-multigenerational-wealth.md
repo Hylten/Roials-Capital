@@ -29,7 +29,9 @@ Liquidity, however, is engineered.
 The families and institutions that understand this distinction produce dynastic longevity.
 
 Those that do not, dissolve. **Proverbs 13:22
-*
+
+* 
+
 * states: A good man leaves an inheritance to his children’s children.
 
 Modern institutional structure translates that sentence into collateral, cashflow, and covenant design.
@@ -337,7 +339,9 @@ It can be engineered.
 And it can be transmitted generationally.
 
 That is the point. **Proverbs 13:22
-*
+
+* 
+
 * is not philosophy.
 
 It is governance.
@@ -360,15 +364,23 @@ Income evaporates.
 
 Wealth survives.
 
-Multi‑generational wealth is engineered through: 
--  Asset classification 
--  Duration control 
--  Cashflow synchronization 
--  Covenant hierarchy 
--  Jurisdictional arbitrage 
--  Capital velocity engineering 
--  Non‑dilutive liquidity extraction 
--  Institutional insulation This is the architecture.
+Multi‑generational wealth is engineered through:
+
+- Asset classification
+
+- Duration control
+
+- Cashflow synchronization
+
+- Covenant hierarchy
+
+- Jurisdictional arbitrage
+
+- Capital velocity engineering
+
+- Non‑dilutive liquidity extraction
+
+- Institutional insulation This is the architecture.
 
 Not theory.
 
@@ -462,8 +474,7 @@ Mandate threshold: DSCR > 1.35x.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

@@ -42,13 +42,19 @@ We engineer institutional liquidity for private capital holders who require disc
 
 We work quietly, precisely, and with structural clarity.
 
-Our framework includes: 
--  Collateral evaluation 
--  Stress testing 
--  Liquidity modeling 
--  Jurisdictional routing 
--  Exposure analysis 
--  Execution and monitoring Each facility is built around the client’s architecture.
+Our framework includes:
+
+- Collateral evaluation
+
+- Stress testing
+
+- Liquidity modeling
+
+- Jurisdictional routing
+
+- Exposure analysis
+
+- Execution and monitoring Each facility is built around the client’s architecture.
 
 Not the other way around.
 
@@ -82,8 +88,7 @@ Roials Capital provides the infrastructure, the discipline, and the principal au
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

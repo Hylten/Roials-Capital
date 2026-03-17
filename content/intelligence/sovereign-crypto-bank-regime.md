@@ -161,7 +161,9 @@ A private allocator must treat capital with the same reverence.
 Waste is sin.
 
 Disorder is sin. **Proverbs 13:22
-*
+
+* 
+
 * sets 
 
 ## THE MANDATE
@@ -204,8 +206,7 @@ When Fund-III integrates the sovereign crypto bank architecture with a stewardsh
 
 Reduce liquidity latency to sub 
 
-18
-0 seconds across the entire acquisition cycle.
+180 seconds across the entire acquisition cycle.
 
 Request a confidential capital audit.
 
@@ -213,8 +214,7 @@ Request a confidential capital audit.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

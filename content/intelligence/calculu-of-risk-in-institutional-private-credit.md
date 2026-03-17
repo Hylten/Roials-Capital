@@ -18,9 +18,7 @@ This is the environment in which institutional private credit has evolved into a
 
 ## THE REGIME SHIFT
 
- Institutional allocators moving into private credit in 20
-
-26 are navigating a landscape defined by four macro variables that have altered the calculus of risk: 
+ Institutional allocators moving into private credit in 2026 are navigating a landscape defined by four macro variables that have altered the calculus of risk: 
 
 1.
 
@@ -70,41 +68,57 @@ Loan to Value Curves The modern institutional LTV profile is no longer linear.
 
 It functions as a dynamic slope driven by asset maturity, operational efficiency, and off balance sheet commitments.
 
-Proper calibration requires: 
--  Weighted average enterprise value mapping rather than static point in time valuation 
--  Collateral fluidity testing under stressed free cash flow assumptions 
--  Cross jurisdictional lien enforceability 
--  Priority tier analysis with emphasis on intercreditor protections 
+Proper calibration requires:
+
+- Weighted average enterprise value mapping rather than static point in time valuation
+
+- Collateral fluidity testing under stressed free cash flow assumptions
+
+- Cross jurisdictional lien enforceability
+
+- Priority tier analysis with emphasis on intercreditor protections 
 
 2.
 
 Cash Flow Waterfall Stability The primary determinant of risk in a private credit instrument is the reliability of the cash flow hierarchy.
 
-Institutions now require enhanced clarity on: 
--  Minimum cash sweep thresholds 
--  Covenant trigger progression rather than binary covenant defaults 
--  Segregated operating accounts for revenue capture 
--  Mandatory amortization curves designed to unwind leverage on a predictable timeline This protects the lender’s position without impairing the sponsor’s strategic flexibility. 
+Institutions now require enhanced clarity on:
+
+- Minimum cash sweep thresholds
+
+- Covenant trigger progression rather than binary covenant defaults
+
+- Segregated operating accounts for revenue capture
+
+- Mandatory amortization curves designed to unwind leverage on a predictable timeline This protects the lender’s position without impairing the sponsor’s strategic flexibility. 
 
 3.
 
 Collateral Hardening Asset hardening has moved from an optional enhancement to a core underwriting requirement.
 
-Institutions expect: 
--  Multi asset collateral pools built around conservative recovery assumptions 
--  Priority security interests established through perfected liens 
--  Contingent rights tied to operational KPIs 
--  Appraisal standards consistent with international audit frameworks This approach transforms collateral from symbolic security into functional protection. 
+Institutions expect:
+
+- Multi asset collateral pools built around conservative recovery assumptions
+
+- Priority security interests established through perfected liens
+
+- Contingent rights tied to operational KPIs
+
+- Appraisal standards consistent with international audit frameworks This approach transforms collateral from symbolic security into functional protection. 
 
 4.
 
 Structural Seniority Risk is determined by position within the structural hierarchy rather than coupon size.
 
-Proper seniority analysis includes: 
--  Jurisdictional seniority verification 
--  Testing waterfall integrity across all subsidiaries 
--  Ensuring first claim on cash generating assets 
--  Identifying leakage pathways and sealing them through targeted covenant design 
+Proper seniority analysis includes:
+
+- Jurisdictional seniority verification
+
+- Testing waterfall integrity across all subsidiaries
+
+- Ensuring first claim on cash generating assets
+
+- Identifying leakage pathways and sealing them through targeted covenant design 
 
 5.
 
@@ -112,11 +126,15 @@ Strategic Collateralization Liquidity is an asset.
 
 Allocators now assess strategies based on their ability to engineer liquidity within the portfolio without compromising stability.
 
-Mechanisms include: 
--  Revolver structures tied to enterprise value 
--  Capital call facilities with covenant matched durations 
--  Inventory backed liquidity taps in industrial portfolios 
--  Receivable acceleration models in recurring revenue companies The sum of these mechanics defines the true risk position, independent of broad market narratives. 
+Mechanisms include:
+
+- Revolver structures tied to enterprise value
+
+- Capital call facilities with covenant matched durations
+
+- Inventory backed liquidity taps in industrial portfolios
+
+- Receivable acceleration models in recurring revenue companies The sum of these mechanics defines the true risk position, independent of broad market narratives. 
 
 ### Phase II: B:
 
@@ -130,10 +148,13 @@ Mechanisms include:
 
 In the Alberta basin, operational risk is not defined by market volatility but by reservoir behavior and technological maturity.
 
-NAEOCCC focuses on assets utilizing: 
--  SAGD: Steam Assisted Gravity Drainage produces predictable decline curves with a high degree of reservoir stability. 
--  CSS: Cyclic Steam Stimulation enhances recovery in mature wells with controlled cost footprints. 
--  Recovery Factor Mapping: Mature reservoirs with established recovery curves offer lower uncertainty than early stage exploration plays.
+NAEOCCC focuses on assets utilizing:
+
+- SAGD: Steam Assisted Gravity Drainage produces predictable decline curves with a high degree of reservoir stability.
+
+- CSS: Cyclic Steam Stimulation enhances recovery in mature wells with controlled cost footprints.
+
+- Recovery Factor Mapping: Mature reservoirs with established recovery curves offer lower uncertainty than early stage exploration plays.
 
 These mechanics reduce geological uncertainty and align well with structured private credit instruments backed by real asset output.
 
@@ -147,11 +168,15 @@ THE PARTNERSHIP MODEL Roials Capital functions as a strategic navigator rather t
 
 Kapitalanskaffning for Fund-III+ The primary emphasis is on supporting buyout platforms and their add on programs by ensuring access to institutional grade private credit aligned with their operational cadence.
 
-Roials Capital provides: 
--  Portfolio calibration intelligence 
--  Introductions to capital providers optimized for the target sector 
--  Balance sheet optimization analysis 
--  Structuring advisory focused on non dilutive frameworks 
+Roials Capital provides:
+
+- Portfolio calibration intelligence
+
+- Introductions to capital providers optimized for the target sector
+
+- Balance sheet optimization analysis
+
+- Structuring advisory focused on non dilutive frameworks 
 
 2.
 
@@ -161,18 +186,25 @@ Institutional Liquidity Paths (Asset-Based Lending) Approximately ten percent of
 
  focuses on asset based lending frameworks designed to improve working capital velocity.
 
-These structures support: 
--  Inventory rotation 
--  Receivable acceleration 
--  Multi jurisdictional collateral pools 
--  Enterprise liquidity mapping 
+These structures support:
+
+- Inventory rotation
+
+- Receivable acceleration
+
+- Multi jurisdictional collateral pools
+
+- Enterprise liquidity mapping 
 
 3.
 
-Special Situations Mandates This includes: 
--  NAEOCCC directed Alberta energy credit exposures in the 50M to 250M band 
--  EU MiFID II acquisition structures 
--  Operational restructuring mandates in industrial platforms The unifying thread across all mandates is neutrality.
+Special Situations Mandates This includes:
+
+- NAEOCCC directed Alberta energy credit exposures in the 50M to 250M band
+
+- EU MiFID II acquisition structures
+
+- Operational restructuring mandates in industrial platforms The unifying thread across all mandates is neutrality.
 
 Roials Capital does not promote a specific fund but instead ensures institutional alignment between the allocator and the required structure. 
 
@@ -185,20 +217,30 @@ Roials Capital does not promote a specific fund but instead ensures institutiona
 Stewardship is defined as the responsible governance of capital and resources.
 
 It aligns with the principle in **Proverbs 13:22
-*
+
+* 
+
 * which emphasizes intergenerational prudence and the ethical use of assets.
 
-The stewardship filter requires that capital: 
--  Avoid unnecessary risk transfer 
--  Preserve enterprise durability 
--  Encourage responsible growth 
--  Maintain transparency and accountability This is not philosophical.
+The stewardship filter requires that capital:
 
-Stewardship directly influences: 
--  Covenant design 
--  Portfolio construction 
--  Collateral discipline 
--  Liquidity governance Stewardship reduces fragility.
+- Avoid unnecessary risk transfer
+
+- Preserve enterprise durability
+
+- Encourage responsible growth
+
+- Maintain transparency and accountability This is not philosophical.
+
+Stewardship directly influences:
+
+- Covenant design
+
+- Portfolio construction
+
+- Collateral discipline
+
+- Liquidity governance Stewardship reduces fragility.
 
 It aligns the interests of LPs, GPs, portfolio companies, and communities impacted by the assets.
 
@@ -230,8 +272,7 @@ The objective is to ensure that institutions deploy capital with clarity, techni
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

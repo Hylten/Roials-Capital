@@ -53,7 +53,9 @@ Tighter sequence control.
 Pipeline centered on buyouts, add-ons, and acquisition roll-ups across regulated and semi-regulated domains.
 
 The brief below clarifies the institutional design, the structural mechanisms, and the alpha-generation logic underpinning the next capital cycle. **Proverbs 13:22
-*
+
+* 
+
 * applies: A good man leaves an inheritance to his children's children.
 
 Hard assets.
@@ -70,10 +72,13 @@ Reliability compresses time-to-close.
 
 LPs lean toward managers who treat reliability as a production line rather than a behavioral trait.
 
-ROIALS CAPITAL operates under this philosophy: reliability must be manufactured through three levers: 
--  Structural alignment 
--  Liquidity optionality 
--  Enforcement-ready collateral ecosystems These leverage points generate delta.
+ROIALS CAPITAL operates under this philosophy: reliability must be manufactured through three levers:
+
+- Structural alignment
+
+- Liquidity optionality
+
+- Enforcement-ready collateral ecosystems These leverage points generate delta.
 
 Delta feeds alpha.
 
@@ -111,11 +116,15 @@ It is structural choreography.
 
 LPs respond to coherence, not rhetoric.
 
-The Fund‑III architecture deploys the following institutional mechanics: 
--  Status hierarchy is intentional. 
--  Narrative is asymmetrical. 
--  Information pacing is engineered. 
--  Jurisdictional positioning is optimized for institutional comfort.
+The Fund‑III architecture deploys the following institutional mechanics:
+
+- Status hierarchy is intentional.
+
+- Narrative is asymmetrical.
+
+- Information pacing is engineered.
+
+- Jurisdictional positioning is optimized for institutional comfort.
 
 ROIALS CAPITAL presents Fund‑III as a reliability engine with acquisition outputs, not a fund with a strategy.
 
@@ -253,12 +262,17 @@ ROIALS CAPITAL deploys Asset-Based Lending and asset hardening to reframe energy
 
 Reliability is not derived from commodity prices.
 
-Reliability is engineered through: 
--  Hard covenant frameworks 
--  Production-backed collateralization 
--  Regulatory harmonization 
--  Inventory securitization 
--  Real-asset liquidity loops Energy becomes predictable.
+Reliability is engineered through:
+
+- Hard covenant frameworks
+
+- Production-backed collateralization
+
+- Regulatory harmonization
+
+- Inventory securitization
+
+- Real-asset liquidity loops Energy becomes predictable.
 
 Predictability becomes investable.
 
@@ -270,11 +284,15 @@ A weapon for a few.
 
 ROIALS CAPITAL uses the directive to create regulatory reliability, institutional familiarity, and pan-European legitimacy for Fund‑III expansion.
 
-The acquisition chassis leverages: 
--  Cross-border licensing 
--  Multi-jurisdiction settlement 
--  Harmonized transparency systems 
--  Institutional-grade disclosure architecture This produces reputational lift.
+The acquisition chassis leverages:
+
+- Cross-border licensing
+
+- Multi-jurisdiction settlement
+
+- Harmonized transparency systems
+
+- Institutional-grade disclosure architecture This produces reputational lift.
 
 Reputational lift produces LP gravity.
 
@@ -298,12 +316,17 @@ Acquisition targets are selected based on reliability delta: the difference betw
 
 The larger the delta, the larger the structural alpha.
 
-The system seeks assets with: 
--  Hard asset base 
--  Fragmented operational environment 
--  Liquidity deficiencies 
--  Regulatory undervaluation 
--  High asset density but low enterprise reliability Fund‑III converts these gaps into yield, optionality, and structural leverage.
+The system seeks assets with:
+
+- Hard asset base
+
+- Fragmented operational environment
+
+- Liquidity deficiencies
+
+- Regulatory undervaluation
+
+- High asset density but low enterprise reliability Fund‑III converts these gaps into yield, optionality, and structural leverage.
 
 Buyouts create the perimeter.
 
@@ -319,12 +342,17 @@ GPs demand authority.
 
 Fund‑III aligns both through structural tension rather than compromise.
 
-System alignment includes: 
--  Transparent cash-flow architecture 
--  Predictable waterfall logic 
--  Enforcement-secured collateral 
--  Jurisdictional mapping 
--  Reliability documentation LPs perceive the system as safe because reliability is engineered.
+System alignment includes:
+
+- Transparent cash-flow architecture
+
+- Predictable waterfall logic
+
+- Enforcement-secured collateral
+
+- Jurisdictional mapping
+
+- Reliability documentation LPs perceive the system as safe because reliability is engineered.
 
 GPs perceive the system as powerful because control is engineered.
 
@@ -355,7 +383,9 @@ The principal voice is simple: Hard assets.
 Hard systems.
 
 Hard returns. **Proverbs 13:22
-*
+
+* 
+
 * confirms 
 
 ## THE MANDATE
@@ -390,8 +420,7 @@ Terminal Metric: LTV Hardening Ratio 1.47x across engineered collateral stacks.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

@@ -38,7 +38,7 @@ We harden the foundations before we scale the exposures.
 
 This briefing outlines the institutional framework required for Fund-III operators who intend to raise at velocity, execute at precision, and create liquidity on command.
 
-Phase I: .
+### Phase I: .
 
  
 
@@ -88,7 +88,7 @@ THE REGIME SHIFT
 
 Capital follows the managers who build institutional machines, not the managers who improvise.
 
-Phase II: .
+### Phase II: .
 
  
 
@@ -146,7 +146,7 @@ Anything less signals amateurism.
 
 Capital sees amateurism immediately.
 
-Phase III: .
+### Phase III: .
 
  
 
@@ -223,7 +223,7 @@ The
 
 Nothing else matters.
 
-Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Capital is never neutral.
 
@@ -232,7 +232,9 @@ It demands stewardship.
 Not softness.
 
 Stewardship as defined in Scripture is precise. **Proverbs 13:22
-*
+
+* 
+
 * establishes a clear mandate.
 
 A good man leaves an inheritance to his children, but the wealth of the sinner is laid up for the righteous.
@@ -277,7 +279,7 @@ The LP community senses this immediately.
 
 Capital flows where stewardship is provable.
 
-Phase V: .
+### Phase V: .
 
 EXIT We close with one controlling metric.
 
@@ -295,8 +297,7 @@ They act on it.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Request confidential capital audit.
 

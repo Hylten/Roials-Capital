@@ -76,13 +76,19 @@ The mechanics can be understood through four institutional pillars.
 
 1.
 
-Collateral Anchoring ABL structures are built on collateral pools such as: 
--  Machinery and equipment 
--  Oil and gas production equipment 
--  Inventory and receivables 
--  Real estate operating assets 
--  Specialized industrial assets 
--  Energy assets with proven decline curves Unlike unsecured facilities, the borrowing base is tied to verifiable asset values.
+Collateral Anchoring ABL structures are built on collateral pools such as:
+
+- Machinery and equipment
+
+- Oil and gas production equipment
+
+- Inventory and receivables
+
+- Real estate operating assets
+
+- Specialized industrial assets
+
+- Energy assets with proven decline curves Unlike unsecured facilities, the borrowing base is tied to verifiable asset values.
 
 This creates resilience against market volatility because the underlying collateral does not fluctuate with sentiment cycles. 
 
@@ -96,11 +102,15 @@ Loan to Value Dynamics Institutional ABL generally operates within LTV bands of
 
 The advantage for private wealth is precision.
 
-A calibrated LTV allows for: 
--  Controlled leverage 
--  Predictable risk buffers 
--  Cross collateralization between asset classes 
--  Ability to activate capital rapidly This is why ABL is increasingly used as the liquidity engine behind private equity add on acquisitions and GP led rollups.
+A calibrated LTV allows for:
+
+- Controlled leverage
+
+- Predictable risk buffers
+
+- Cross collateralization between asset classes
+
+- Ability to activate capital rapidly This is why ABL is increasingly used as the liquidity engine behind private equity add on acquisitions and GP led rollups.
 
 Instead of diluting equity, the GP uses asset backed liquidity to continue scaling. 
 
@@ -110,21 +120,31 @@ Cash Flow Waterfalls ABL facilities incorporate strict cash flow waterfalls that
 
 For institutional allocators, this clarity is a strategic benefit because it allows accurate modeling of repayment sequencing, operational yield, and collateral protection.
 
-Waterfalls typically include: 
--  Operating expenses 
--  Maintenance capital 
--  Debt service 
--  Reinvestment reserves 
--  Distributable free cash flow This structure is especially relevant for UHNW holding entities that prefer disciplined capital hygiene over discretionary cash burn. 
+Waterfalls typically include:
+
+- Operating expenses
+
+- Maintenance capital
+
+- Debt service
+
+- Reinvestment reserves
+
+- Distributable free cash flow This structure is especially relevant for UHNW holding entities that prefer disciplined capital hygiene over discretionary cash burn. 
 
 4.
 
-Duration Control Asset Backed structures often include improved terms relative to unsecured lending: 
--  Extended tenor 
--  Predictable amortization 
--  Covenant clarity 
--  Improved refinancing probability 
--  Less sensitivity to EBITDA swings For private wealth portfolios that include operating companies, real assets, and energy exposure, duration stability is essential to avoid forced liquidation during cyclical downturns. 
+Duration Control Asset Backed structures often include improved terms relative to unsecured lending:
+
+- Extended tenor
+
+- Predictable amortization
+
+- Covenant clarity
+
+- Improved refinancing probability
+
+- Less sensitivity to EBITDA swings For private wealth portfolios that include operating companies, real assets, and energy exposure, duration stability is essential to avoid forced liquidation during cyclical downturns. 
 
 5.
 
@@ -150,11 +170,15 @@ Capital Raising and GP Scaling For Fund-III and beyond, the challenge for most G
 
 As the platform grows, equity capital competes with operational growth, while LPs demand disciplined deployment.
 
-Roials Capital structures ABL driven liquidity frameworks that allow GPs to: 
--  Maintain acquisition speed 
--  Preserve LP alignment 
--  Avoid premature equity dilution 
--  Strengthen cash conversion cycles This method is used primarily in buyout platforms and add on driven scaling where assets can serve as collateral for further growth.
+Roials Capital structures ABL driven liquidity frameworks that allow GPs to:
+
+- Maintain acquisition speed
+
+- Preserve LP alignment
+
+- Avoid premature equity dilution
+
+- Strengthen cash conversion cycles This method is used primarily in buyout platforms and add on driven scaling where assets can serve as collateral for further growth.
 
 It is a form of institutional liquidity engineering that aligns with the GP's long term compounding mandate. 
 
@@ -162,10 +186,13 @@ It is a form of institutional liquidity engineering that aligns with the GP's lo
 
 Specialized Mandates Certain mandates require domain specific intelligence.
 
-This includes: 
--  NAEO linked energy acquisitions in Alberta sized 50M to 250M USD 
--  EU MiFID II regulated acquisition programs 
--  Balance sheet restructuring for UHNW holding companies In these cases, Roials Capital is the institutional introducer, responsible for ensuring counterparty alignment, operational transparency, and jurisdictional compliance. 
+This includes:
+
+- NAEO linked energy acquisitions in Alberta sized 50M to 250M USD
+
+- EU MiFID II regulated acquisition programs
+
+- Balance sheet restructuring for UHNW holding companies In these cases, Roials Capital is the institutional introducer, responsible for ensuring counterparty alignment, operational transparency, and jurisdictional compliance. 
 
 3.
 
@@ -186,7 +213,9 @@ Asset Based Financing supports stewardship in four distinct ways.
 Controlled Leverage By tying liquidity to quantifiable collateral, ABL prevents the type of leverage drift common in covenant light cash flow lending.
 
 This aligns with **Proverbs 13:22
-*
+
+* 
+
 * , which emphasizes responsible inheritance and long term sustainability. 
 
 2.

@@ -108,12 +108,17 @@ This creates liquidity lines that do not distort the core portfolio.
 
 They sit parallel to the portfolio, not inside it.
 
-Families who operate on long horizons use private credit backed Strategic Collateralization to: 
--  Create internal liquidity without external exposure. 
--  Finance generational transitions. 
--  Fund acquisitions without disturbing existing capital structures. 
--  Maintain portfolio ratios during market dislocations. 
--  Build new investment verticals without consuming principal.
+Families who operate on long horizons use private credit backed Strategic Collateralization to:
+
+- Create internal liquidity without external exposure.
+
+- Finance generational transitions.
+
+- Fund acquisitions without disturbing existing capital structures.
+
+- Maintain portfolio ratios during market dislocations.
+
+- Build new investment verticals without consuming principal.
 
 Private credit provides the discipline.
 
@@ -125,8 +130,7 @@ It requires clarity, governance, and institutional infrastructure.
 
 Roials Capital provides Monetization Architecture for public share collateral with a minimum threshold of 5,000,
 
-00
-0 dollars.
+000 dollars.
 
 This threshold ensures that the facility remains institutional and avoids retail dynamics.
 
@@ -152,8 +156,7 @@ Institutional crypto Capital Structuring is not.
 
 Roials Capital enforces a minimum threshold of 2,000,
 
-00
-0 dollars for crypto collateral.
+000 dollars for crypto collateral.
 
 Below that threshold, volatility and capital fragility distort the structural purpose of the facility.
 
@@ -181,12 +184,17 @@ It creates liquidity for heirs without dismantling the portfolio.
 
 It ensures operational stability during periods of leadership transfer.
 
-Families who integrate Asset-Based Lending into their long term governance structures often achieve the following outcomes: 
--  No generational asset sales required. 
--  Consolidated control across family branches. 
--  Tax efficient liquidity during inheritance events. 
--  Long term asset preservation, regardless of market conditions. 
--  Ability to fund new generational ventures without destabilizing legacy holdings.
+Families who integrate Asset-Based Lending into their long term governance structures often achieve the following outcomes:
+
+- No generational asset sales required.
+
+- Consolidated control across family branches.
+
+- Tax efficient liquidity during inheritance events.
+
+- Long term asset preservation, regardless of market conditions.
+
+- Ability to fund new generational ventures without destabilizing legacy holdings.
 
 Asset-Based Lending removes the fragility of transition.
 
@@ -228,11 +236,15 @@ We create Capital Structuring structures that behave predictably, regardless of 
 
 We work with collateral, not conjecture.
 
-HNWI and UHNW investors rely on us because: 
--  We understand the demands of scale. 
--  We build structures that remain stable for decades. 
--  We maintain confidentiality as a primary operating principle. 
--  We are engineered for complexity but designed for simplicity.
+HNWI and UHNW investors rely on us because:
+
+- We understand the demands of scale.
+
+- We build structures that remain stable for decades.
+
+- We maintain confidentiality as a primary operating principle.
+
+- We are engineered for complexity but designed for simplicity.
 
 Our capital is private.
 
@@ -280,10 +292,13 @@ Families who govern through structure tend to retain wealth longer than families
 
 This creates a balanced liquidity environment that does not depend on the volatility of one asset class.
 
-Examples include: 
--  Private credit combined with equity portfolios. 
--  Crypto assets combined with private placements. 
--  Public shares combined with real world assets.
+Examples include:
+
+- Private credit combined with equity portfolios.
+
+- Crypto assets combined with private placements.
+
+- Public shares combined with real world assets.
 
 Roials Capital uses cross collateral frameworks that optimize liquidity facility to value ratios based on collective asset behavior, not isolated volatility.
 
@@ -293,11 +308,15 @@ This produces more stable balance sheet optimization power with reduced risk pro
 
 Liquidity, when quietly accessible, is a strategic weapon.
 
-Families who maintain asset based credit lines have the ability to: 
--  Acquire assets during dislocations. 
--  Participate in private deals without notice. 
--  Protect positions during volatility. 
--  Build new capital structures without public visibility.
+Families who maintain asset based credit lines have the ability to:
+
+- Acquire assets during dislocations.
+
+- Participate in private deals without notice.
+
+- Protect positions during volatility.
+
+- Build new capital structures without public visibility.
 
 Liquidity without visibility is the core of principal authority.
 
@@ -333,8 +352,7 @@ Our authority is silent.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

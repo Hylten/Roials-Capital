@@ -197,7 +197,9 @@ Private credit lines reinforce sovereignty.
 Jurisdictional arbitrage maximizes sovereignty.
 
 Sovereignty then becomes performance, not politics. **Proverbs 13:22
-*
+
+* 
+
 * states: A good man leaves an inheritance to his children’s children: but the wealth of the sinner is laid up for the just.
 
 The inheritance in this context is not consumption.
@@ -370,11 +372,15 @@ The chain is non-negotiable.
 
 Break one link, and the entire architecture collapses.
 
-The + holder must focus on four fronts: 
--  Liquidity autonomy 
--  Structural sovereignty 
--  Jurisdictional alignment 
--  Institutional velocity Autonomy ensures decision authority.
+The + holder must focus on four fronts:
+
+- Liquidity autonomy
+
+- Structural sovereignty
+
+- Jurisdictional alignment
+
+- Institutional velocity Autonomy ensures decision authority.
 
 Sovereignty ensures operational control.
 
@@ -450,8 +456,7 @@ The terms are fixed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Request confidential capital audit.
 

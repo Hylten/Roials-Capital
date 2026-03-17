@@ -28,13 +28,19 @@ They require structural clarity.
 
 ROIALS CAPITAL operates with principal authority, providing the mechanics that normally remain hidden within institutional credit systems.
 
-We focus on: 
--  Capital architecture 
--  Asset integrity 
--  Sovereign liquidity design 
--  Private credit integration 
--  Institutional sequencing 
--  Regulatory precision Entrepreneurs come to us because they prefer discretion.
+We focus on:
+
+- Capital architecture
+
+- Asset integrity
+
+- Sovereign liquidity design
+
+- Private credit integration
+
+- Institutional sequencing
+
+- Regulatory precision Entrepreneurs come to us because they prefer discretion.
 
 They stay because we deliver predictability. 
 
@@ -68,13 +74,19 @@ Their risk profiles differ.
 
 Their priorities are structural, not transactional.
 
-HNWI and UHNW clients require: 
--  Uninterrupted ownership 
--  Balance‑sheet stability 
--  Rapid execution 
--  Silent structuring 
--  Institutional pricing 
--  Clear capital pathways ROIALS CAPITAL provides this by setting the rules rather than negotiating around them.
+HNWI and UHNW clients require:
+
+- Uninterrupted ownership
+
+- Balance‑sheet stability
+
+- Rapid execution
+
+- Silent structuring
+
+- Institutional pricing
+
+- Clear capital pathways ROIALS CAPITAL provides this by setting the rules rather than negotiating around them.
 
 Architects do not negotiate gravity.
 
@@ -142,8 +154,7 @@ ROIALS CAPITAL will provide the architecture.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

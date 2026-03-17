@@ -12,7 +12,7 @@ This single structural reality is now influencing the broader institutional allo
 
 Capital migration has entered a new regime defined by operational scarcity, regulatory fragmentation, balance sheet deterioration in legacy sponsors, and an increasing preference for hard collateral over narrative driven growth.
 
-Phase I: .
+### Phase I: .
 
  
 
@@ -28,9 +28,7 @@ The shift is structural and driven by three dominant forces that now override ta
 
 The compression of traditional credit.
 
-Post 20
-
-23 banking consolidation created structural contraction in mid market credit distribution.
+Post 2023 banking consolidation created structural contraction in mid market credit distribution.
 
 Regional banks reduced loan books, money center banks constrained industry specific exposure, and corporate revolvers were rolled at higher spreads with tighter covenants.
 
@@ -60,7 +58,7 @@ Institutional capital migration is therefore no longer cyclical.
 
 It is motivated by structural constraints: deglobalization, supply chain regionalization, infrastructure fatigue, and the reduction of institutional liquidity buffers.
 
-Phase II: .
+### Phase II: .
 
  
 
@@ -76,21 +74,23 @@ The mechanics are multifaceted.
 
 A.
 
-The Migration from Covenant Light Structures to Hard Security Frameworks 20
-
-20 to 20
-
-22 represented the apex of covenant light underwriting.
+The Migration from Covenant Light Structures to Hard Security Frameworks 2020 to 2022 represented the apex of covenant light underwriting.
 
 By 2025, allocators recalibrated.
 
-The focus is now on: 
--  explicit collateral schedules 
--  disturbance rights 
--  waterfall protection 
--  LTV curves built on forced sale valuation 
--  multi asset cross collateralization 
--  cash sweep discipline The result is a capital infrastructure that rewards platforms capable of transparent forecasting.
+The focus is now on:
+
+- explicit collateral schedules
+
+- disturbance rights
+
+- waterfall protection
+
+- LTV curves built on forced sale valuation
+
+- multi asset cross collateralization
+
+- cash sweep discipline The result is a capital infrastructure that rewards platforms capable of transparent forecasting.
 
 Fund‑III sponsors with buy and build programs benefit because each add on increases collateral scale and reduces concentration risk within the portfolio.
 
@@ -98,12 +98,17 @@ B.
 
 The Mechanical Shift from Growth Equity to Buyout plus Bolt On Execution Growth equity suffered multiple compression and weaker distribution timelines.
 
-Capital is now migrating to Fund‑III strategies capable of: 
--  controlling cash flows 
--  optimizing working capital cycles 
--  executing roll up consolidation 
--  integrating fragmented supply chains 
--  creating synergy based yield rather than terminal value dependence Institutional LPs favor platforms where operational efficiency compounds.
+Capital is now migrating to Fund‑III strategies capable of:
+
+- controlling cash flows
+
+- optimizing working capital cycles
+
+- executing roll up consolidation
+
+- integrating fragmented supply chains
+
+- creating synergy based yield rather than terminal value dependence Institutional LPs favor platforms where operational efficiency compounds.
 
 The return stack is no longer driven by exit premiums, but by disciplined mid cycle cash flow capture.
 
@@ -141,18 +146,23 @@ Production assets with stable decline curves and decades of reservoir mapping ar
 
 TECHNICAL MECHANICS
 
- that drive new migration flows include: 
--  predictable recovery factors in SAGD 
--  stabilized output in CSS 
--  long life reservoir horizontals with slow depletion 
--  midstream adjacencies that reduce transport volatility 
--  reliable steam oil ratios that create operational consistency Our strategic partner, NAEO, operates specifically in this structural gap.
+ that drive new migration flows include:
+
+- predictable recovery factors in SAGD
+
+- stabilized output in CSS
+
+- long life reservoir horizontals with slow depletion
+
+- midstream adjacencies that reduce transport volatility
+
+- reliable steam oil ratios that create operational consistency Our strategic partner, NAEO, operates specifically in this structural gap.
 
 The aim is not speculative commodity exposure.
 
 The focus is operational efficiency across known reservoirs with documented production histories.
 
-Phase III: .
+### Phase III: .
 
 THE PARTNERSHIP MODEL AND THE ROIALS CAPITAL POSITION Roials Capital functions as a strategic navigator and institutional introducer.
 
@@ -160,20 +170,29 @@ The focus is alignment across three core channels.
 
 A.
 
-Kapitalanskaffning for Fund‑III and Successor Strategies The priority is institutional alignment for sponsors focused on: 
--  buyouts with integrated operational plans 
--  add on architectures where scale unlocks procurement and distribution efficiencies 
--  working capital optimization 
--  cash flow expansion through asset hardening rather than leverage The analysis delivered to LPs is technical, non promotional, and focused on structural fit within multi cycle allocation models.
+Kapitalanskaffning for Fund‑III and Successor Strategies The priority is institutional alignment for sponsors focused on:
+
+- buyouts with integrated operational plans
+
+- add on architectures where scale unlocks procurement and distribution efficiencies
+
+- working capital optimization
+
+- cash flow expansion through asset hardening rather than leverage The analysis delivered to LPs is technical, non promotional, and focused on structural fit within multi cycle allocation models.
 
 B.
 
-Monetization Architecture for Asset-Based Lending and Balance Sheet Optimization Roials Capital provides institutional navigation for: 
--  inventory borrowing bases 
--  receivable structures 
--  asset backed revolvers 
--  covenant architecture 
--  operational cash flow mapping The objective is not yield projection.
+Monetization Architecture for Asset-Based Lending and Balance Sheet Optimization Roials Capital provides institutional navigation for:
+
+- inventory borrowing bases
+
+- receivable structures
+
+- asset backed revolvers
+
+- covenant architecture
+
+- operational cash flow mapping The objective is not yield projection.
 
 It is engineering liquidity access in a manner aligned with the operational cadence of the underlying businesses.
 
@@ -191,7 +210,7 @@ NAEO serves as an operational partner with long experience in predictable extrac
 
 EU MiFID II Acquisitions Support for strategic acquisitions across regulated European entities, including cross border compliance architecture, capital routing, and operational due diligence.
 
-Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER : THE THEOLOGY OF CAPITAL Stewardship is the discipline of deploying capital without waste.
 
@@ -199,22 +218,32 @@ Capital migration cannot be understood purely in financial terms.
 
 Every allocator operates under stewardship obligations.
 
-Principles: 
--  capital must not be deployed into structures with avoidable degradation 
--  liquidity must not be trapped in inefficient or opaque operational systems 
--  assets must be hardened to preserve usefulness across cycles 
--  operational transparency must exceed narrative appeal The Biblical foundation is clear. **Proverbs 13:22
-*
+Principles:
+
+- capital must not be deployed into structures with avoidable degradation
+
+- liquidity must not be trapped in inefficient or opaque operational systems
+
+- assets must be hardened to preserve usefulness across cycles
+
+- operational transparency must exceed narrative appeal The Biblical foundation is clear. **Proverbs 13:22
+
+* 
+
 * reinforces intergenerational discipline. **Luke 14:28
-*
+
+* 
+
 * requires cost structure evaluation before execution. **Ecclesiastes 11:
 6
-*
+
+* 
+
 * speaks to diversified labor rather than reactive speculation.
 
 The stewardship filter ensures institutional discipline across all capital migration channels.
 
-Phase V: .
+### Phase V: .
 
 DECISION MAKING LENS FOR THE ALLOCATOR Capital migration is no longer discretionary.
 
@@ -240,8 +269,7 @@ It ensures alignment between institutional objectives, operational dynamics, and
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

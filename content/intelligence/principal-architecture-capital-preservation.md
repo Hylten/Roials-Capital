@@ -48,7 +48,7 @@ It is not advisory.
 
 It is operational doctrine.
 
-Phase I: .
+### Phase I: .
 
  
 
@@ -68,18 +68,16 @@ Leverage now has a memory.
 
 Every error compounds faster than it did seven years ago.
 
-The inefficiency is obvious: middle-market GPs still attempt to run 20
-
-20 underwriting inside a 20
-
-26 credit architecture.
+The inefficiency is obvious: middle-market GPs still attempt to run 2020 underwriting inside a 2026 credit architecture.
 
 That mismatch destroys LP trust.
 
 It destroys asset durability.
 
 Most dangerous, it destroys the sovereign purpose of capital, which is to build and transmit long horizon value. **Proverbs 13:22
-*
+
+* 
+
 * outlines this mandate without ambiguity.
 
 Capital does not belong to the present moment.
@@ -108,7 +106,7 @@ Few understand this.
 
 Even fewer execute it.
 
-Phase II: .
+### Phase II: .
 
  
 
@@ -174,7 +172,7 @@ When these mechanics align, capital becomes self-defending.
 
 The structure protects itself even when the macro environment does not.
 
-Phase III: .
+### Phase III: .
 
  
 
@@ -222,8 +220,7 @@ The remaining
 
 50 and 
 
-25
-0 million.
+250 million.
 
 These mandates serve one purpose: preserve optionality.
 
@@ -239,7 +236,7 @@ LPs do not invest in communication.
 
 They invest in structure.
 
-Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Every institutional decision passes through the stewardship filter.
 
@@ -250,10 +247,14 @@ If it multiplies capital without violating discipline, it is accepted.
 The filter is theological.
 
 It is built on **Genesis 2:15
-*
+
+* 
+
 * and **Proverbs 21:
 5
-*
+
+* 
+
 * .
 
 Stewardship is not a moral accessory.
@@ -302,7 +303,7 @@ LPs who partner with us do not receive a portfolio.
 
 They receive a covenant of stewardship.
 
-Phase V: .
+### Phase V: .
 
 EXIT The final signal of discipline is a metric, not a statement.
 
@@ -322,8 +323,7 @@ Request a confidential capital audit.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

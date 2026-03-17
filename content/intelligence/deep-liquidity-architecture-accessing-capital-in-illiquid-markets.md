@@ -22,12 +22,17 @@ Liquidity with structural discipline is functional leverage.
 
 We apply risk modeling that respects the underlying asset rather than the market narrative.
 
-This includes: 
--  Conservative collateral valuation. 
--  Controlled liquidity facility to value structures. 
--  Stress tested withdrawal mechanics. 
--  Clear margin logic without predatory triggers. 
--  Custodial integrity across complex asset classes.
+This includes:
+
+- Conservative collateral valuation.
+
+- Controlled liquidity facility to value structures.
+
+- Stress tested withdrawal mechanics.
+
+- Clear margin logic without predatory triggers.
+
+- Custodial integrity across complex asset classes.
 
 Our objective is to ensure that liquidity remains beneficial, not destabilizing. 
 
@@ -39,25 +44,37 @@ When volatility increases, access decreases.
 
 Non market dependent liquidity inverts that reality.
 
-Our private credit and asset based Asset-Backed Frameworks structures remain functional in: 
--  Low volume markets. 
--  High volatility environments. 
--  Stressed credit cycles. 
--  Tight banking conditions. 
--  Non linear asset categories.
+Our private credit and asset based Asset-Backed Frameworks structures remain functional in:
+
+- Low volume markets.
+
+- High volatility environments.
+
+- Stressed credit cycles.
+
+- Tight banking conditions.
+
+- Non linear asset categories.
 
 This is why deep liquidity is not only an advantage.
 
 It is a shield. 
 
-## Strategic Use Cases for Deep Liquidity HNWI and UHNW clients typically deploy deep liquidity for scenarios such as: 
--  Seizing distressed acquisitions. 
--  Refinancing legacy positions without selling. 
--  Avoiding tax events through non sale financing. 
--  Building capital bridges during asset transitions. 
--  Leveraging digital assets without exiting exposure. 
--  Financing short term opportunities with long term collateral. 
--  Solving timing gaps in complex capital stacks.
+## Strategic Use Cases for Deep Liquidity HNWI and UHNW clients typically deploy deep liquidity for scenarios such as:
+
+- Seizing distressed acquisitions.
+
+- Refinancing legacy positions without selling.
+
+- Avoiding tax events through non sale financing.
+
+- Building capital bridges during asset transitions.
+
+- Leveraging digital assets without exiting exposure.
+
+- Financing short term opportunities with long term collateral.
+
+- Solving timing gaps in complex capital stacks.
 
 Each use case benefits from controlled liquidity, not speculative leverage. 
 
@@ -85,8 +102,7 @@ If your asset architecture requires liquidity without compromise, request confid
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

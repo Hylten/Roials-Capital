@@ -20,9 +20,7 @@ The institutions that adapt now anchor the next decade of return asymmetry.
 
 Those that hesitate outsource their destiny to others.
 
-The private markets landscape no longer resembles the 2015-20
-
-20 rhythm.
+The private markets landscape no longer resembles the 2015-2020 rhythm.
 
 Execution windows shrink.
 
@@ -47,7 +45,9 @@ Designed for sovereignty-grade accountability.
 Every mechanism aligns with one objective: convert structural dislocation into durable ownership.
 
 A good man leaves an inheritance to his children’s children ( **Proverbs 13:22
-*
+
+* 
+
 * ).
 
 Sovereign capital operationalizes this mandate across borders, cycles, and regimes.
@@ -62,10 +62,13 @@ Velocity matters.
 
 Structure matters more.
 
-Capital is choosing its new home. 
--  
--  
--  Institutional capital now operates under three pressures: yield scarcity, energy realism, and regulatory divergence.
+Capital is choosing its new home.
+
+- 
+
+- 
+
+- Institutional capital now operates under three pressures: yield scarcity, energy realism, and regulatory divergence.
 
 These pressures do not merely influence portfolio construction; they dictate it.
 
@@ -119,10 +122,13 @@ Sharp turns.
 
 Markets move.
 
-We move faster. 
--  
--  
--  Sovereign LPs are adjusting to a geopolitical reality that demands asset sovereignty.
+We move faster.
+
+- 
+
+- 
+
+- Sovereign LPs are adjusting to a geopolitical reality that demands asset sovereignty.
 
 Energy exposure once treated as cyclical is now structural.
 
@@ -172,10 +178,13 @@ No drift.
 
 No excuses.
 
-No wasted quarters. 
--  
--  
--  Jurisdictional arbitrage is now a requirement, not an advanced skill.
+No wasted quarters.
+
+- 
+
+- 
+
+- Jurisdictional arbitrage is now a requirement, not an advanced skill.
 
 Europe tightens.
 
@@ -213,10 +222,13 @@ Sovereign LPs understand the compound effect of jurisdictional positioning.
 
 Capital becomes the interpreter of regulatory terrain.
 
-Fund-III provides the translation layer. 
--  
--  
--  Capital Structuring must now be institutional.
+Fund-III provides the translation layer.
+
+- 
+
+- 
+
+- Capital Structuring must now be institutional.
 
 Not reactive.
 
@@ -258,17 +270,23 @@ Build.
 
 Secure.
 
-Expand. 
--  
--  
--  The capital-raising mandate-kapitalanskaffning-must anchor the ecosystem.
+Expand.
+
+- 
+
+- 
+
+- The capital-raising mandate-kapitalanskaffning-must anchor the ecosystem.
 
 Fund-III targets institutional LPs requiring clarity, discipline, and sovereign alignment.
 
-The capital stack is governed by three principles: 
--  Durability over speed. 
--  Precision over mass. 
--  Stewardship over speculation.
+The capital stack is governed by three principles:
+
+- Durability over speed.
+
+- Precision over mass.
+
+- Stewardship over speculation.
 
 Institutional LPs demand evidence.
 
@@ -280,10 +298,13 @@ LPs are no longer seeking exposure; they are seeking conviction.
 
 Conviction flows to structure.
 
-Structure flows to returns. 
--  
--  
--  Capital competition has intensified.
+Structure flows to returns.
+
+- 
+
+- 
+
+- Capital competition has intensified.
 
 The winners will not be those who shout loudest.
 
@@ -321,10 +342,13 @@ Identify.
 
 Acquire.
 
-Fortify. 
--  
--  
--  Sovereign stewardship demands a new principle: asset hardening.
+Fortify.
+
+- 
+
+- 
+
+- Sovereign stewardship demands a new principle: asset hardening.
 
 The world is fragmenting.
 
@@ -362,10 +386,13 @@ Hard assets return capital.
 
 Private capital must flow to what endures.
 
-Sovereign capital must flow to what secures. 
--  
--  
--  Fund-III is architected for a world where the most valuable asset is not capital itself, but capital with governance.
+Sovereign capital must flow to what secures.
+
+- 
+
+- 
+
+- Fund-III is architected for a world where the most valuable asset is not capital itself, but capital with governance.
 
 Stewardship with authority.
 
@@ -386,7 +413,9 @@ Enforce discipline.
 The next decade will reward the institutions that understand the new hierarchy: sovereign alignment first, jurisdictional advantage second, capital structuring third.
 
 Fund-III stands at this intersection. **Proverbs 13:22
-*
+
+* 
+
 * remains the sovereign principle: inheritance through stewardship.
 
 Stewardship through structure.
@@ -401,8 +430,7 @@ Technical mandate: 42% target hard‑asset coverage ratio.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

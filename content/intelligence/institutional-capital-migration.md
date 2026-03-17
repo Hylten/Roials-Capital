@@ -34,7 +34,7 @@ The allocators who internalize this early will extract multi-cycle advantage.
 
 Those who hesitate will finance the advantage of others.
 
-Phase I: .
+### Phase I: .
 
  
 
@@ -90,7 +90,7 @@ The regime has already shifted.
 
 Those who do not architect around this shift will serve those who do.
 
-Phase II: .
+### Phase II: .
 
  
 
@@ -122,12 +122,17 @@ Institutional LPs no longer tolerate blended distribution models.
 
 They want hard sequencing with transparent order of operations.
 
-The modern waterfall looks like this: 
--  Senior asset coverage. 
--  Operational cash sweep. 
--  Manager carry only after asset-level verification. 
--  LP priority distribution seated above all contingent allocations. 
--  No variable complexity without corresponding collateral hardening.
+The modern waterfall looks like this:
+
+- Senior asset coverage.
+
+- Operational cash sweep.
+
+- Manager carry only after asset-level verification.
+
+- LP priority distribution seated above all contingent allocations.
+
+- No variable complexity without corresponding collateral hardening.
 
 If this structure is not present, institutional capital will not migrate.
 
@@ -169,7 +174,7 @@ The mechanics are not negotiable.
 
 They are the architecture.
 
-Phase III: .
+### Phase III: .
 
  
 
@@ -243,7 +248,7 @@ The model is not designed for speed.
 
 It is designed for sovereignty over outcomes.
 
-Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship is not sentimental.
 
@@ -252,7 +257,9 @@ Stewardship is the disciplined prevention of waste.
 Capital is a form of dominion entrusted by God.
 
 It must be governed with precision, because mismanaged capital invites destruction. **Proverbs 13:22
-*
+
+* 
+
 * .
 
 A good man leaves an inheritance to his children’s children.
@@ -297,7 +304,7 @@ It is operational theology.
 
 It is the practical expression of order.
 
-Phase V: .
+### Phase V: .
 
 EXIT Capital migration ends with one metric.
 
@@ -309,8 +316,7 @@ Our mandate is to lower it to zero.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Request confidential capital audit.
 

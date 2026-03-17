@@ -30,9 +30,12 @@ I build this under a clear axiom: volatility is not the threat.
 
 Volatility is the audit.
 
-Institutions either withstand or fail. 
--  **Proverbs 13:22
-*
+Institutions either withstand or fail.
+
+- **Proverbs 13:22
+
+* 
+
 * delivers the structural principle: a good man leaves an inheritance to his children’s children.
 
 Long-horizon stewardship is not sentiment.
@@ -85,8 +88,9 @@ Traditional hedging strategies collapse when liquidity evaporates.
 
 Hardening refocuses assets around structural resilience: .
 
-Tangible cash-flow engines across FEED-to-EPC energy corridors. 
--  Productive mid-market platforms with bolt-on velocity. .
+Tangible cash-flow engines across FEED-to-EPC energy corridors.
+
+- Productive mid-market platforms with bolt-on velocity. .
 
 Brownfield industrials with embedded switching costs. .
 
@@ -121,8 +125,8 @@ Avoid political capture.
 Avoid taxation traps.
 
 High-net industrial cycles in oil, gas, and critical infrastructure require shock-resistant structuring: UBO layers, SPV branching, Article
--
-9 lien mobility, repo-ready contract stacks, and escrow bifurcation for acquisition sequencing.
+
+- 9 lien mobility, repo-ready contract stacks, and escrow bifurcation for acquisition sequencing.
 
 Mobility wins.
 
@@ -273,8 +277,8 @@ Use these for capital routing.
 The EU provides acquisition access under MiFID II if structured through passporting shields.
 
 The U.S. provides credit depth through Article
--
-9 and Delaware-KS dual structuring.
+
+- 9 and Delaware-KS dual structuring.
 
 Integrate all three.
 
@@ -378,8 +382,7 @@ Technical mandate: cross-border hardening coefficient threshold = 0.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 

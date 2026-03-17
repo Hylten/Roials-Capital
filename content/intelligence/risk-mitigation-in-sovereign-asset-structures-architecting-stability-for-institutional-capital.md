@@ -32,11 +32,15 @@ At the sovereign level, risk mitigation begins with a single directive.
 
 Control the jurisdictional hierarchy before controlling the asset flow.
 
-This hierarchy includes: 
--  The legal domicile of the sovereign asset. 
--  The regulatory gradient governing capital movement. 
--  The recognition treaties that validate contractual enforcement. 
--  The liquidity conversion layers applied to the asset class.
+This hierarchy includes:
+
+- The legal domicile of the sovereign asset.
+
+- The regulatory gradient governing capital movement.
+
+- The recognition treaties that validate contractual enforcement.
+
+- The liquidity conversion layers applied to the asset class.
 
 Within this matrix, sovereign assets act as stabilizing fields.
 
@@ -110,11 +114,15 @@ Asset-Based Lending at ROIALS CAPITAL is not treated as a transactional Strategi
 
 It is treated as a structural component of the broader sovereign asset system.
 
-We focus on: 
--  Non-correlated asset classes. 
--  Collateral with measurable liquidation value. 
--  Assets that maintain integrity across jurisdictional shifts. 
--  Structures that create insulation rather than amplification of risk.
+We focus on:
+
+- Non-correlated asset classes.
+
+- Collateral with measurable liquidation value.
+
+- Assets that maintain integrity across jurisdictional shifts.
+
+- Structures that create insulation rather than amplification of risk.
 
 By embedding Asset-Based Lending into sovereign architecture, we reduce exposure concentration and increase the liquidity diversification of the entire capital stack.
 
@@ -126,11 +134,15 @@ At the sovereign level, liquidity is not defined by market depth.
 
 It is defined by structural convertibility.
 
-ROIALS CAPITAL designs systems where liquidity is: 
--  Pre-negotiated. 
--  Jurisdictionally anchored. 
--  Collateral insulated. 
--  Stress tested against regulatory volatility.
+ROIALS CAPITAL designs systems where liquidity is:
+
+- Pre-negotiated.
+
+- Jurisdictionally anchored.
+
+- Collateral insulated.
+
+- Stress tested against regulatory volatility.
 
 We treat liquidity not as an event but as an engineered output.
 
@@ -152,11 +164,15 @@ Structure protects the client.
 
 Counterparty neutrality means that no single entity has the ability to alter or jeopardize the performance of the collateral.
 
-We apply this principle by designing multi-layered isolation mechanisms: 
--  Legal isolation of collateral. 
--  Operational isolation of custody. 
--  Settlement isolation through independent verifiers. 
--  Governance isolation through contractual clarity.
+We apply this principle by designing multi-layered isolation mechanisms:
+
+- Legal isolation of collateral.
+
+- Operational isolation of custody.
+
+- Settlement isolation through independent verifiers.
+
+- Governance isolation through contractual clarity.
 
 These isolation layers prevent cascading disruptions.
 
@@ -172,11 +188,15 @@ Shielding is not avoidance.
 
 Shielding is structural redundancy.
 
-We design multi-jurisdictional frameworks that ensure: 
--  Capital continuity across regulatory environments. 
--  Enforceability across recognition zones. 
--  Liquidity retention even under cross-border restrictions. 
--  Asset protection against domestic political shifts.
+We design multi-jurisdictional frameworks that ensure:
+
+- Capital continuity across regulatory environments.
+
+- Enforceability across recognition zones.
+
+- Liquidity retention even under cross-border restrictions.
+
+- Asset protection against domestic political shifts.
 
 This framework forms a protective shell around sovereign assets, private credit, and Asset-Based Lending collateral.
 
@@ -186,14 +206,21 @@ It is the highest form of risk mitigation because it anticipates jurisdictional 
 
 ## Threat Modeling for Sovereign Structures Threat modeling is one of the most critical components of our risk mitigation architecture.
 
-A sovereign asset structure must be evaluated against seven primary threat zones: 
--  Jurisdictional threats. 
--  Regulatory threats. 
--  Counterparty threats. 
--  Operational threats. 
--  Market volatility threats. 
--  Liquidity compression threats. 
--  Technological and data threats.
+A sovereign asset structure must be evaluated against seven primary threat zones:
+
+- Jurisdictional threats.
+
+- Regulatory threats.
+
+- Counterparty threats.
+
+- Operational threats.
+
+- Market volatility threats.
+
+- Liquidity compression threats.
+
+- Technological and data threats.
 
 Threat modeling is not a theoretical exercise.
 
@@ -219,11 +246,15 @@ It filters out the volatility-driven tier and protects the architecture from dis
 
 Crypto Strategic Collateralization is treated as a hybrid asset class.
 
-It requires: 
--  Custodial verification. 
--  Price correlation modeling. 
--  Liquidity depth assessment. 
--  Stress behavior under regulatory shifts.
+It requires:
+
+- Custodial verification.
+
+- Price correlation modeling.
+
+- Liquidity depth assessment.
+
+- Stress behavior under regulatory shifts.
 
 The structure must be insulated.
 
@@ -243,12 +274,17 @@ What must not fluctuate is the enforceability of the structure.
 
 Our minimum threshold of five million dollars ensures that the equity position has sufficient size and stability for sovereign integration.
 
-We evaluate: 
--  Free float behavior. 
--  Historical volatility. 
--  Market maker concentration. 
--  Cross-border settlement conditions. 
--  Liquidity depth during stress periods.
+We evaluate:
+
+- Free float behavior.
+
+- Historical volatility.
+
+- Market maker concentration.
+
+- Cross-border settlement conditions.
+
+- Liquidity depth during stress periods.
 
 When public share collateral is structured through our sovereign system, its volatility is converted into predictable liquidity.
 
@@ -260,12 +296,17 @@ This is the defining competency of ROIALS CAPITAL.
 
 ## Structural Redundancy and Fail-Safe Mechanisms Every sovereign asset structure requires fail-safe mechanisms that activate during stress events.
 
-These mechanisms include: 
--  Multi-path liquidity channels. 
--  Custodial redundancy. 
--  Pre-authorized transfer protocols. 
--  Automated margin stabilization. 
--  Isolation of collateral during counterparty distress.
+These mechanisms include:
+
+- Multi-path liquidity channels.
+
+- Custodial redundancy.
+
+- Pre-authorized transfer protocols.
+
+- Automated margin stabilization.
+
+- Isolation of collateral during counterparty distress.
 
 Fail-safes are not reactive measures.
 
@@ -283,10 +324,13 @@ No liquidity interruption.
 
 ## The Role of principal authority ROIALS CAPITAL operates with principal authority.
 
-This means: 
--  We do not oversell. 
--  We do not overexpose. 
--  We do not seek visibility.
+This means:
+
+- We do not oversell.
+
+- We do not overexpose.
+
+- We do not seek visibility.
 
 We architect quietly, precisely, and with institutional discipline.
 
@@ -334,8 +378,7 @@ Request confidential audit
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
-00
-0 for comprehensive structural execution.
+000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
