@@ -48,7 +48,11 @@ It is not advisory.
 
 It is operational doctrine. ## PHASE 
 
-1. ## ## ## THE REGIME SHIFT The macro landscape has moved from permissive liquidity to structural scarcity.
+1. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The macro landscape has moved from permissive liquidity to structural scarcity.
 
 The old model rewarded managers who optimized IRR optics.
 
@@ -88,7 +92,11 @@ Few understand this.
 
 Even fewer execute it. ## PHASE 
 
-2. ## ## ## TECHNICAL MECHANICS Capital preservation is built inside the mathematics of control.
+2. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ Capital preservation is built inside the mathematics of control.
 
 Not theory.
 
@@ -130,7 +138,11 @@ When these mechanics align, capital becomes self-defending.
 
 The structure protects itself even when the macro environment does not. ## PHASE 
 
-3. ## ## ## THE STRATEGIC MODEL The partnership architecture is the operating engine.
+3. ## ## ## THE 
+
+## STRATEGIC MODEL
+
+ The partnership architecture is the operating engine.
 
 Preservation is institutional, not incidental.
 

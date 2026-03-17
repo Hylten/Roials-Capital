@@ -24,7 +24,11 @@ Velocity governs influence.
 
 Influence governs capital.
 
-Order is not an option. ## ## ## THE REGIME SHIFT The allocator landscape in 2026 has bifurcated into two regimes.
+Order is not an option. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The allocator landscape in 2026 has bifurcated into two regimes.
 
 The first regime is retail-disguised capital.
 
@@ -94,7 +98,11 @@ Cycles are opportunity.
 
 Lost opportunity compounds into structural disadvantage.
 
-At Fund-III, disadvantage becomes terminal. ## ## ## TECHNICAL MECHANICS Institutional allocators think in curves, not stories.
+At Fund-III, disadvantage becomes terminal. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ Institutional allocators think in curves, not stories.
 
 The LTV curve.
 
@@ -184,7 +192,11 @@ If the GP cannot show cross border operational discipline, no allocation proceed
 
 Institutional capital raises do not fail because of relationships.
 
-They fail because the GP cannot demonstrate mechanical mastery. ## ## ## THE STRATEGIC MODEL Fund-III requires a capital raising architecture with five non negotiable components. 
+They fail because the GP cannot demonstrate mechanical mastery. ## ## ## THE 
+
+## STRATEGIC MODEL
+
+ Fund-III requires a capital raising architecture with five non negotiable components. 
 
 1. The Capital Map.
 

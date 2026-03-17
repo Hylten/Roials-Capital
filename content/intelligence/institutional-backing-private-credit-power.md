@@ -14,7 +14,11 @@ Institutions with disciplined capital architecture outperform not because they l
 
 Order is not an option. ## PHASE 
 
-1. ## ## ## THE REGIME SHIFT Private credit has migrated from opportunistic lending to a macro stabilizer for acquisition engines.
+1. ## ## ## 
+
+## THE REGIME SHIFT
+
+ Private credit has migrated from opportunistic lending to a macro stabilizer for acquisition engines.
 
 The driver is not yield.
 
@@ -56,7 +60,11 @@ Velocity is the advantage.
 
 Precision is the mandate. ## PHASE 
 
-2. ## ## ## TECHNICAL MECHANICS Institutional backing manifests in the mathematics, not the branding.
+2. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ Institutional backing manifests in the mathematics, not the branding.
 
 Start with LTV curves.
 
@@ -116,7 +124,15 @@ The lender extracts duration without sacrificing velocity.
 
 Without institutional backing, these structures do not price. ## PHASE 
 
-3. ## ## ## THE STRATEGIC MODEL The strategic model for Fund-III requires a different operating system.
+3. ## ## ## THE 
+
+## STRATEGIC MODEL
+
+ The 
+
+## STRATEGIC MODEL
+
+ for Fund-III requires a different operating system.
 
 ROIALS CAPITAL executes on three fronts.
 

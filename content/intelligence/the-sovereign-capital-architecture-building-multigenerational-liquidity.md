@@ -316,7 +316,11 @@ The architecture must remain intact under stress.
 
 Roials Capital does not predict the future.
 
-It prepares for all futures simultaneously. ## Conclusion: Institutions Do Not Survive by Accident They survive by architecture.
+It prepares for all futures simultaneously. ## 
+
+## CONCLUSION
+
+: Institutions Do Not Survive by Accident They survive by architecture.
 
 They survive by systems that produce stability independent of external conditions.
 

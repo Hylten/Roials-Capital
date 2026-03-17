@@ -12,7 +12,11 @@ It is the product of regulatory drift that has structurally constrained traditio
 
 The divergence between real economy financing requirements and the regulated banking balance sheet is now a predictable regime rather than a cyclical deviation.
 
-Institutional allocators evaluating Fund-III structures, buyout support facilities, and cross border credit exposures are operating inside a recalibrated environment where risk is no longer a function of asset volatility alone but a function of liquidity architecture, information asymmetry, and collateral transparency. ## ## ## THE REGIME SHIFT Private Credit has transitioned from a peripheral asset class into a core liquidity provider to corporate balance sheets in the United States, Canada, the Nordics, and select EU jurisdictions.
+Institutional allocators evaluating Fund-III structures, buyout support facilities, and cross border credit exposures are operating inside a recalibrated environment where risk is no longer a function of asset volatility alone but a function of liquidity architecture, information asymmetry, and collateral transparency. ## ## ## 
+
+## THE REGIME SHIFT
+
+ Private Credit has transitioned from a peripheral asset class into a core liquidity provider to corporate balance sheets in the United States, Canada, the Nordics, and select EU jurisdictions.
 
 The shift is structural and anchored in four forces: 
 
@@ -48,7 +52,11 @@ Risk is now measurable at higher resolution which improves institutional underwr
 
 This macro environment establishes a predictable baseline: Private Credit risk is no longer predominantly credit risk.
 
-It is sequencing risk, information risk, and structural risk. ## ## ## TECHNICAL MECHANICS OF PRIVATE CREDIT RISK Institutional allocators approach Private Credit through five analytical frameworks: capital structure seniority, collateral integrity, covenant engineering, cash flow durability, and exit pathway clarity.
+It is sequencing risk, information risk, and structural risk. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ OF PRIVATE CREDIT RISK Institutional allocators approach Private Credit through five analytical frameworks: capital structure seniority, collateral integrity, covenant engineering, cash flow durability, and exit pathway clarity.
 
 Each forms a discrete component of the risk calculus. 
 
@@ -74,7 +82,11 @@ Three collateral classes dominate current underwriting:
 
 In energy mandates specific emphasis is placed on Alberta heavy oil where SAGD and CSS operations present stable decline curves and predictable recovery factors.
 
-These technical mechanics enable collateral to be modeled with high precision which reduces underwriting ambiguity. 
+These 
+
+## TECHNICAL MECHANICS
+
+ enable collateral to be modeled with high precision which reduces underwriting ambiguity. 
 
 3. Covenant Engineering The most durable credit structures are built on operational covenants rather than punitive leverage triggers.
 

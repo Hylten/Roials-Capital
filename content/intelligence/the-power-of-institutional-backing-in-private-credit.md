@@ -296,7 +296,11 @@ This shift is permanent.
 
 Private credit, asset based Capital Structuring, crypto Asset-Backed Frameworks at scale, and public share financing will increasingly be governed by institutional frameworks, not individual preferences.
 
-Roials Capital is engineered around this future, not adapting to it. ## Conclusion Institutional backing is not a marketing attribute.
+Roials Capital is engineered around this future, not adapting to it. ## 
+
+## CONCLUSION
+
+ Institutional backing is not a marketing attribute.
 
 It is the foundation of predictable liquidity, disciplined underwriting, and structural continuity across asset classes.
 

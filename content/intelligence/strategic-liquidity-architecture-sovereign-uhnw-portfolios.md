@@ -12,7 +12,11 @@ The result is a multi year dislocation where balance sheet constrained operators
 
 In parallel, sovereign allocators and ultra high net worth principals are navigating a global regime shift where liquidity premiums, structural seniority, and operational transparency hold more relevance than nominal yield targets.
 
-Strategic liquidity architecture has therefore evolved into a discipline of capital routing rather than capital deployment. ## ## ## THE REGIME SHIFT Institutional allocators are recalibrating portfolios within a macro environment defined by four structural forces. 
+Strategic liquidity architecture has therefore evolved into a discipline of capital routing rather than capital deployment. ## ## ## 
+
+## THE REGIME SHIFT
+
+ Institutional allocators are recalibrating portfolios within a macro environment defined by four structural forces. 
 
 1. The compression of global risk free rates relative to real asset demand.
 
@@ -42,7 +46,11 @@ These structural drivers form the backdrop against which liquidity engineering h
 
 Allocators are no longer optimizing for outperformance.
 
-They are optimizing for resilience, optionality, and regime neutral positioning. ## ## ## TECHNICAL MECHANICS The mechanics of liquidity engineering for sovereign and UHNW portfolios follow a disciplined architecture.
+They are optimizing for resilience, optionality, and regime neutral positioning. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ The mechanics of liquidity engineering for sovereign and UHNW portfolios follow a disciplined architecture.
 
 The following components represent the operational foundation of current Fund-III capital formation mandates and strategic energy introductions. 
 
@@ -132,7 +140,11 @@ The primary function is to map allocators to institutional grade operators whose
 
 Core functions include: 
 
--  Institutional introduction.
+-  Institutional 
+
+## INTRODUCTION
+
+.
 
 Allocators receive curated access to operators, lenders, and acquisition vehicles where governance, reporting, and counterparty alignment meet institutional thresholds. 
 
@@ -142,7 +154,11 @@ The objective is to eliminate misalignment between capital needs and capital man
 
 Operators require long horizon liquidity, while sovereign allocators prioritize operational transparency and structural seniority.
 
-The introduction framework reconciles these priorities. 
+The 
+
+## INTRODUCTION
+
+ framework reconciles these priorities. 
 
 -  Global jurisdictional navigation.
 
@@ -188,7 +204,9 @@ This framework elevates capital deployment into a moral and operational discipli
 
 Regulatory divergence, supply constraints, and capital scarcity define the outer frame of the opportunity landscape. 
 
-2. Technical Mechanics.
+2. ## TECHNICAL MECHANICS
+
+.
 
 Operators and transactions are evaluated based on recovery factors, LTV curves, collateral quality, and governance precision. 
 

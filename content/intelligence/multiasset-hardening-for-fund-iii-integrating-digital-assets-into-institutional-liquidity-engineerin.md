@@ -216,7 +216,11 @@ HNWI and UHNW clients understand that the next decade will reward those who main
 
 Multi asset hardening is a discipline that produces that control.
 
-Fund-III is the practical expression of that discipline. ## Conclusion A More Resilient Architecture for Institutional Scale Multi asset hardening is not a strategy.
+Fund-III is the practical expression of that discipline. ## 
+
+## CONCLUSION
+
+ A More Resilient Architecture for Institutional Scale Multi asset hardening is not a strategy.
 
 It is infrastructure.
 

@@ -10,7 +10,11 @@ The capital vacuum across global private markets is a function of structural dis
 
 In 2026, allocators are navigating a domain where traditional liquidity channels have decoupled from real asset productivity.
 
-The outcome is a multi year environment where institutional grade infrastructure is no longer defined by geography or sector but by the precision of cross border balance sheet engineering. ## ## ## THE REGIME SHIFT Institutional allocators observe three concurrent forces.
+The outcome is a multi year environment where institutional grade infrastructure is no longer defined by geography or sector but by the precision of cross border balance sheet engineering. ## ## ## 
+
+## THE REGIME SHIFT
+
+ Institutional allocators observe three concurrent forces.
 
 First is regulatory compression across European banks driven by Basel III endgame requirements that shrink credit availability to middle market companies.
 
@@ -40,7 +44,11 @@ Assets are sound.
 
 Capital structures are outdated.
 
-Global allocators require neutral partners who orchestrate the interfaces rather than promote product. ## ## ## TECHNICAL MECHANICS The institutional grade infrastructure relevant to Fund-III mandates consists of three pillars.
+Global allocators require neutral partners who orchestrate the interfaces rather than promote product. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ The institutional grade infrastructure relevant to Fund-III mandates consists of three pillars.
 
 Capital formation and deployment for buyouts and add ons at 80 percent focus.
 
@@ -120,7 +128,11 @@ The firm functions as a bridge between global allocators and operational ecosyst
 
 The model rests on four principles. 
 
-1. Institutional introduction rather than distribution. 
+1. Institutional 
+
+## INTRODUCTION
+
+ rather than distribution. 
 
 2. Cross border structuring that harmonizes European LP requirements with North American private credit frameworks. 
 

@@ -10,7 +10,11 @@ The capital vacuum in North American and European private credit markets is a co
 
 The result is a regime where liquidity has become bifurcated, price discovery has become asymmetric, and the most resilient credit opportunities are migrating toward sponsors capable of operational precision, underwriting discipline, and cross-cycle cash flow control.
 
-This memorandum outlines the mechanics behind that shift, the technical attributes allocators now prioritize in partners, and the market structures that govern capital formation for Fund-III environments, Asset-Based Lending deployment, and strategic mandates spanning North American energy and European MiFID II transactions. ## ## ## THE REGIME SHIFT Modern private credit exists in a post-2020 environment defined by a sequence of structural breakpoints.
+This memorandum outlines the mechanics behind that shift, the technical attributes allocators now prioritize in partners, and the market structures that govern capital formation for Fund-III environments, Asset-Based Lending deployment, and strategic mandates spanning North American energy and European MiFID II transactions. ## ## ## 
+
+## THE REGIME SHIFT
+
+ Modern private credit exists in a post-2020 environment defined by a sequence of structural breakpoints.
 
 Central bank balance sheet compression, regulatory capital recalibration, and cross border lending restrictions have generated a lending architecture that is significantly more differentiated than the pre-2019 cycle.
 
@@ -34,7 +38,11 @@ Third, sector specific special mandates, especially North American energy, attra
 
 Opportunity velocity in this regime is dominated by managers who can compress underwriting cycles, access proprietary flow, and maintain operational visibility across balance sheet intensive sectors.
 
-The allocators that achieve the best alignment are those who structure multi stage commitments that match the cadence of acquisition pipelines rather than the calendar cycle of fund closings. ## ## ## TECHNICAL MECHANICS Private credit performance is determined by structural engineering.
+The allocators that achieve the best alignment are those who structure multi stage commitments that match the cadence of acquisition pipelines rather than the calendar cycle of fund closings. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ Private credit performance is determined by structural engineering.
 
 This includes LTV curves calibrated to asset durability, cash flow waterfalls aligned with operational cadence, covenant packages that reinforce stewardship, and collateral frameworks that prioritize asset hardening.
 
@@ -108,7 +116,11 @@ THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator within th
 
 The function is neither distribution nor sales.
 
-It is institutional introduction and alignment.
+It is institutional 
+
+## INTRODUCTION
+
+ and alignment.
 
 The firm provides operational intelligence, structural calibration, and capital architecture support to both allocators and sponsors.
 
@@ -168,7 +180,11 @@ The decision making lens involves:
 
 -  Establishing mandate structures that match acquisition pacing rather than fund marketing cycles. 
 
--  Evaluating technical mechanics of the collateral base rather than relying on generalized return expectations.
+-  Evaluating 
+
+## TECHNICAL MECHANICS
+
+ of the collateral base rather than relying on generalized return expectations.
 
 Roials Capital facilitates this process through confidential strategy audits and portfolio calibration sessions.
 

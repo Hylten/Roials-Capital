@@ -16,7 +16,11 @@ This briefing outlines the Sovereign Capital Architecture: the framework Roials 
 
 The objective is to provide allocators with a clinical understanding of the regime change in private markets, its technical implications, and the architecture required for multi-generational liquidity design.
 
-The content is constructed for institutional LPs, family offices, and GP stewards operating at the upper end of the capital stack. ## ## ## ## THE REGIME SHIFT The private market environment entered a structural regime shift in 2022 when global rate normalization broke legacy valuation heuristics.
+The content is constructed for institutional LPs, family offices, and GP stewards operating at the upper end of the capital stack. ## ## ## ## 
+
+## THE REGIME SHIFT
+
+ The private market environment entered a structural regime shift in 2022 when global rate normalization broke legacy valuation heuristics.
 
 The following dynamics now define the allocator landscape: 
 
@@ -48,7 +52,11 @@ Mid-market acquisition pathways that once relied on bank syndication now increas
 
 This regime shift is not cyclical.
 
-It is structural. ## ## ## ## TECHNICAL MECHANICS The Sovereign Capital Architecture is rooted in technical precision.
+It is structural. ## ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ The Sovereign Capital Architecture is rooted in technical precision.
 
 Allocators must understand the underlying mechanics of the asset classes they engage.
 
@@ -72,7 +80,11 @@ ENERGY SYSTEM MECHANICS (NAEO MANDATE) The Alberta heavy oil domain operates on 
 
 -  Field-level operating continuity and modular expansion pathways This results in an asset class defined not by exploration uncertainty but by engineering precision.
 
-The technical mechanics resemble industrial optimization rather than speculative drilling.
+The 
+
+## TECHNICAL MECHANICS
+
+ resemble industrial optimization rather than speculative drilling.
 
 Where most institutions still misprice these assets is in their understanding of risk.
 
@@ -142,7 +154,11 @@ The institutional mandate is threefold:
 
 NAEO's operational track record and field-level intelligence meet institutional governance expectations.
 
-Roials Capital provides the institutional introduction and alignment calibration.
+Roials Capital provides the institutional 
+
+## INTRODUCTION
+
+ and alignment calibration.
 
 Across buyouts, private credit, ABL, and cross-border acquisition frameworks, Roials Capital maintains neutrality.
 
@@ -172,7 +188,11 @@ Under this stewardship framework:
 
 It is risk measurement.
 
-It is the obligation to deploy capital where technical mechanics can be verified and operational execution has institutional fidelity. ## ## ## PHASE 5: PORTFOLIO CALIBRATION LENS Institutional allocators require a decision-making lens that recognizes the structural regime shift.
+It is the obligation to deploy capital where 
+
+## TECHNICAL MECHANICS
+
+ can be verified and operational execution has institutional fidelity. ## ## ## PHASE 5: PORTFOLIO CALIBRATION LENS Institutional allocators require a decision-making lens that recognizes the structural regime shift.
 
 The following calibration points summarize the institutional posture required for multi-generational liquidity: 
 

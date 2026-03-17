@@ -390,7 +390,11 @@ This is architecture.
 
 This is execution.
 
-This is inheritance. **Proverbs 13:22** . ## MANDATE ## ## ## CONCLUSION Fund‑III requires sovereign liquidity.
+This is inheritance. **Proverbs 13:22** . ## MANDATE ## ## ## 
+
+## CONCLUSION
+
+ Fund‑III requires sovereign liquidity.
 
 The sovereign crypto bank is the engine.
 

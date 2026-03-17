@@ -10,7 +10,11 @@ The capital vacuum in North American private credit is the predictable outcome o
 
 The shift has triggered a reordering of risk, where the relative safety of an exposure is no longer defined by conventional ratings logic but by structural positioning, collateral physics, and the discipline of cash flow predictability.
 
-This is the environment in which institutional private credit has evolved into an allocation category governed less by sentiment and more by operational intelligence and balance sheet engineering. ## ## ## THE REGIME SHIFT Institutional allocators moving into private credit in 2026 are navigating a landscape defined by four macro variables that have altered the calculus of risk: 
+This is the environment in which institutional private credit has evolved into an allocation category governed less by sentiment and more by operational intelligence and balance sheet engineering. ## ## ## 
+
+## THE REGIME SHIFT
+
+ Institutional allocators moving into private credit in 2026 are navigating a landscape defined by four macro variables that have altered the calculus of risk: 
 
 1. Capital Supply Compression Bank lending continues to contract due to Basel III reform drift and jurisdictional supervisory tightening.
 
@@ -32,7 +36,11 @@ This enables a more precise matching between asset profile and duration, generat
 
 The consequence is a new equilibrium.
 
-Capital scarcity has elevated underwriting standards, improved structural protections, and expanded the role of lending managers as strategic partners rather than passive financiers. ## ## ## TECHNICAL MECHANICS OF RISK Institutional private credit is defined by its structural architecture.
+Capital scarcity has elevated underwriting standards, improved structural protections, and expanded the role of lending managers as strategic partners rather than passive financiers. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ OF RISK Institutional private credit is defined by its structural architecture.
 
 Risk is not a subjective interpretation but a grid of quantifiable mechanics.
 
@@ -100,7 +108,11 @@ Mechanisms include:
 
 -  Inventory backed liquidity taps in industrial portfolios 
 
--  Receivable acceleration models in recurring revenue companies The sum of these mechanics defines the true risk position, independent of broad market narratives. ## PHASE 2B: ## ## ## TECHNICAL MECHANICS IN SPECIAL SITUATIONS (ENERGY) Where relevant to special mandates, the calculus of risk incorporates asset physics.
+-  Receivable acceleration models in recurring revenue companies The sum of these mechanics defines the true risk position, independent of broad market narratives. ## PHASE 2B: ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ IN SPECIAL SITUATIONS (ENERGY) Where relevant to special mandates, the calculus of risk incorporates asset physics.
 
 In the Alberta basin, operational risk is not defined by market volatility but by reservoir behavior and technological maturity.
 

@@ -34,7 +34,11 @@ We harden the foundations before we scale the exposures.
 
 This briefing outlines the institutional framework required for Fund-III operators who intend to raise at velocity, execute at precision, and create liquidity on command. ## PHASE 
 
-1. ## ## ## THE REGIME SHIFT The current cycle has replaced discretionary narratives with mechanical accountability.
+1. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The current cycle has replaced discretionary narratives with mechanical accountability.
 
 Fund-III scale managers are encountering a hard ceiling.
 
@@ -64,11 +68,17 @@ Add on integration failures create solvency risk when leverage stacks exceed the
 
 MiFID II and North American energy compliance require system level documentation that most mid market GPs still treat as boutique level paperwork.
 
-The regime shift is unforgiving.
+## THE REGIME SHIFT
+
+ is unforgiving.
 
 Capital follows the managers who build institutional machines, not the managers who improvise. ## PHASE 
 
-2. ## ## ## TECHNICAL MECHANICS Institutional grade infrastructure is not a slogan.
+2. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ Institutional grade infrastructure is not a slogan.
 
 It is quantifiable.
 
@@ -118,7 +128,15 @@ Anything less signals amateurism.
 
 Capital sees amateurism immediately. ## PHASE 
 
-3. ## ## ## THE STRATEGIC MODEL The strategic model for asset hardening follows one principle.
+3. ## ## ## THE 
+
+## STRATEGIC MODEL
+
+ The 
+
+## STRATEGIC MODEL
+
+ for asset hardening follows one principle.
 
 The GP must operate as an institutional machine, not a personality driven firm.
 
@@ -174,7 +192,11 @@ EU MiFID II acquisitions require compliance gridlocks to be solved before capita
 
 Our team treats special mandates as mathematical problems, not political ones.
 
-The strategic model is designed to create durability under institutional load.
+The 
+
+## STRATEGIC MODEL
+
+ is designed to create durability under institutional load.
 
 Nothing else matters. ## PHASE 
 

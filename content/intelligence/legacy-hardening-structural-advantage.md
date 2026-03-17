@@ -12,7 +12,11 @@ This single structural fact underpins the institutional rediscovery of hard-asse
 
 Legacy hardening is not a branding phrase.
 
-It is a balance sheet discipline that converts mature, long curve assets into durable multi cycle anchors within an allocator's portfolio architecture. ## ## ## THE REGIME SHIFT The current regime shift can be defined by three convergent pressures: capital misallocation in energy transition cycles, the withdrawal of traditional credit intermediation, and the realignment of institutional hurdle rates toward harder collateral structures.
+It is a balance sheet discipline that converts mature, long curve assets into durable multi cycle anchors within an allocator's portfolio architecture. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The current regime shift can be defined by three convergent pressures: capital misallocation in energy transition cycles, the withdrawal of traditional credit intermediation, and the realignment of institutional hurdle rates toward harder collateral structures.
 
 The North American energy ecosystem has entered a multi year efficiency phase driven by underinvestment rather than overproduction.
 
@@ -42,9 +46,17 @@ This realignment is shaping Fund-III strategies.
 
 The allocator class is moving away from abstract yield and into balance sheet optimization anchored in operational intelligence.
 
-Legacy hardening becomes the filter through which mature assets, undercapitalized operators, and multi decade resource bases can be converted into institutional grade structures. ## ## ## TECHNICAL MECHANICS Legacy hardening in the energy domain is not a macro thesis.
+Legacy hardening becomes the filter through which mature assets, undercapitalized operators, and multi decade resource bases can be converted into institutional grade structures. ## ## ## 
 
-It is a set of technical mechanics that institutional capital can model with precision.
+## TECHNICAL MECHANICS
+
+ Legacy hardening in the energy domain is not a macro thesis.
+
+It is a set of 
+
+## TECHNICAL MECHANICS
+
+ that institutional capital can model with precision.
 
 Alberta's heavy oil fields operate within known basin physics.
 
@@ -120,7 +132,11 @@ NAEO delivers the operational execution.
 
 The allocator receives a calibrated pathway into energy assets, structured credit, or special mandate acquisitions without absorbing execution risk.
 
-For European and MiFID II regulated participants, Roials supports acquisition structuring, capital flow alignment, and operational partner introduction across Canada, the US, and selected European jurisdictions.
+For European and MiFID II regulated participants, Roials supports acquisition structuring, capital flow alignment, and operational partner 
+
+## INTRODUCTION
+
+ across Canada, the US, and selected European jurisdictions.
 
 Special mandates between 50 million USD and 250 million USD in energy follow a defined due diligence sequence based on reservoir mapping, decline calibration, and cash flow hardening procedures. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Legacy hardening is a stewardship discipline.
 
@@ -148,7 +164,9 @@ Stewardship integrates three filters:
 
 They are calibrating a long horizon posture.
 
-The regime shift favors structures over narratives, physics over speculation, and operational intelligence over momentum flows.
+## THE REGIME SHIFT
+
+ favors structures over narratives, physics over speculation, and operational intelligence over momentum flows.
 
 A confidential strategy audit with Roials Capital focuses on: 
 
@@ -156,7 +174,11 @@ A confidential strategy audit with Roials Capital focuses on:
 
 -  Structural positioning across private credit and energy hard assets. 
 
--  Introduction pathways to NAEO for operators requiring institutional partners. 
+-  
+
+## INTRODUCTION
+
+ pathways to NAEO for operators requiring institutional partners. 
 
 -  Portfolio calibration to align with 2026 macro constraints and opportunity velocity cycles.
 

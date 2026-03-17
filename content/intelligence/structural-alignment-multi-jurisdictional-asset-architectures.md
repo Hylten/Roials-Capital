@@ -12,7 +12,11 @@ Institutional allocators evaluating multi jurisdictional asset strategies have i
 
 Allocators that have historically constrained upstream exposure due to ESG risk weighting are now re calibrating toward asset classes where depletion curves are predictable, decline profiles are modeled over decades, and structural arbitrage remains driven by the gap between cost of capital and the operational discipline embedded within mature basins such as Alberta.
 
-The current environment favors those who treat each jurisdiction as a technical ecosystem rather than a geography, aligning capital deployment with the operational logic of the basin, the legal durability of the security package, and the sequencing of institutional governance across borders. ## ## ## THE REGIME SHIFT Multi jurisdictional asset allocation is entering a regime defined by capital scarcity in operationally resilient sectors and capital oversupply in momentum driven domains.
+The current environment favors those who treat each jurisdiction as a technical ecosystem rather than a geography, aligning capital deployment with the operational logic of the basin, the legal durability of the security package, and the sequencing of institutional governance across borders. ## ## ## 
+
+## THE REGIME SHIFT
+
+ Multi jurisdictional asset allocation is entering a regime defined by capital scarcity in operationally resilient sectors and capital oversupply in momentum driven domains.
 
 The North American energy complex is illustrative.
 
@@ -30,7 +34,11 @@ Allocators expect predictable LTV trajectories, harmonized cross collateralizati
 
 The confluence of these macro forces has produced a unique environment: institutional capital is abundant, but disciplined, while institutional grade opportunities are available, but require deep technical understanding.
 
-This misalignment produces opportunity for those who can serve as strategic navigators across North America, Europe, and emerging Middle Eastern hubs. ## ## ## TECHNICAL MECHANICS Energy assets in Alberta require operational intelligence that is rarely reflected in surface level financial reporting.
+This misalignment produces opportunity for those who can serve as strategic navigators across North America, Europe, and emerging Middle Eastern hubs. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ Energy assets in Alberta require operational intelligence that is rarely reflected in surface level financial reporting.
 
 Recovery systems such as SAGD, CSS, and cold flow heavy oil extraction generate different thermal efficiencies, steam oil ratios, and decline characteristics.
 
@@ -130,4 +138,8 @@ The next stage is not transactional.
 
 It requires a confidential strategy audit to align structural architecture, jurisdictional exposure, and operational cadence.
 
-Roials Capital provides the navigational intelligence and institutional introduction pathways to support this alignment across energy, private credit, and multi jurisdictional acquisitions.
+Roials Capital provides the navigational intelligence and institutional 
+
+## INTRODUCTION
+
+ pathways to support this alignment across energy, private credit, and multi jurisdictional acquisitions.

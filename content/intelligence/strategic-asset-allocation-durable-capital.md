@@ -38,7 +38,11 @@ What worked in 2014 is a liability in
 
 2026. ## PHASE 
 
-1. ## ## ## THE REGIME SHIFT The first principle is simple.
+1. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The first principle is simple.
 
 Liquidity is no longer cheap.
 
@@ -106,7 +110,11 @@ The sequence creates the runway.
 
 Without the sequence, the strategy collapses. ## PHASE 
 
-2. ## ## ## TECHNICAL MECHANICS Durable capital begins with structural cash flow.
+2. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ Durable capital begins with structural cash flow.
 
 Structural cash flow begins with predictable LTV behavior.
 
@@ -166,13 +174,21 @@ A recovery factor below 30 percent behaves as a liability.
 
 Durable capital is always anchored to recoverability. ## PHASE 
 
-3. ## ## ## THE STRATEGIC MODEL A GP cannot raise Fund-III without demonstrating that operational architecture matches LP expectations.
+3. ## ## ## THE 
+
+## STRATEGIC MODEL
+
+ A GP cannot raise Fund-III without demonstrating that operational architecture matches LP expectations.
 
 Capital-raising is not a communication problem.
 
 It is a structural engineering problem.
 
-The strategic model for durable capital rests on three pillars: 
+The 
+
+## STRATEGIC MODEL
+
+ for durable capital rests on three pillars: 
 
 1. The 80 percent Kapitalanskaffning Engine Fund-III must be capitalized at velocity, but not at the expense of underwriting precision.
 

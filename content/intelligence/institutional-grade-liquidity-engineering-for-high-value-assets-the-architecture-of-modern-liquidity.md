@@ -58,7 +58,11 @@ The institutions that will succeed in this environment are those that treat Capi
 
 Roials Capital was built for that future.
 
-We operate today with the structures required for the next decade. ## Conclusion, Institutional Liquidity Crafted With Surgical Precision High-value assets demand institutional engineering.
+We operate today with the structures required for the next decade. ## 
+
+## CONCLUSION
+
+, Institutional Liquidity Crafted With Surgical Precision High-value assets demand institutional engineering.
 
 HNWI and UHNW clients require Capital Structuring solutions that are clean, fast, and structurally correct.
 

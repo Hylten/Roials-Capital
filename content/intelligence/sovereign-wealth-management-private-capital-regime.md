@@ -34,7 +34,11 @@ Most private funds have not adapted their internal architecture to this new temp
 
 Fund-III becomes the inflection point.
 
-Either it internalises sovereign discipline or it loses allocation rights for a decade. ## ## ## THE REGIME SHIFT Sovereign wealth is no longer passive ballast for national balance sheets.
+Either it internalises sovereign discipline or it loses allocation rights for a decade. ## ## ## 
+
+## THE REGIME SHIFT
+
+ Sovereign wealth is no longer passive ballast for national balance sheets.
 
 It operates as a geopolitical instrument.
 
@@ -66,7 +70,11 @@ A fund must create the same internal logic that sovereigns deploy externally: ca
 
 Weak funds chase valuation.
 
-Sovereign-aligned funds chase control of the cash-flow spine. ## ## ## TECHNICAL MECHANICS The institutions that outperform in this regime follow a simple truth: recovery mechanics decide everything.
+Sovereign-aligned funds chase control of the cash-flow spine. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ The institutions that outperform in this regime follow a simple truth: recovery mechanics decide everything.
 
 Valuation is secondary.
 
@@ -118,7 +126,11 @@ Funds that depend on single-channel suppliers, regional labour pools, or concent
 
 These mechanics are not optional.
 
-They define whether a GP can be trusted with sovereign velocity. ## ## ## THE STRATEGIC MODEL Sovereign alignment demands a new operational doctrine for Fund-III.
+They define whether a GP can be trusted with sovereign velocity. ## ## ## THE 
+
+## STRATEGIC MODEL
+
+ Sovereign alignment demands a new operational doctrine for Fund-III.
 
 The doctrine is simple.
 

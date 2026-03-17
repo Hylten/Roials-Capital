@@ -14,7 +14,11 @@ The shift in liquidity provision has created an environment where private alloca
 
 This briefing outlines the structural mechanics behind that transition, the operational logic that drives modern private credit, and the framework Roials Capital uses to position Fund-III capital formation, ABL liquidity engineering, and North American energy special mandates.
 
-The objective is to provide a high density of technical intelligence for allocators, enabling them to evaluate where private credit sits within their strategic allocation, and how modern balance sheet optimization is executed at institutional scale. ## ## ## THE REGIME SHIFT Private credit is now the spine of corporate liquidity provision across the United States, Canada, and the major European markets.
+The objective is to provide a high density of technical intelligence for allocators, enabling them to evaluate where private credit sits within their strategic allocation, and how modern balance sheet optimization is executed at institutional scale. ## ## ## 
+
+## THE REGIME SHIFT
+
+ Private credit is now the spine of corporate liquidity provision across the United States, Canada, and the major European markets.
 
 This shift is the product of three macro factors: 
 
@@ -44,7 +48,11 @@ Fund-III structures have followed this evolution.
 
 Capital is allocated into operating businesses with clear acquisition pathways, defined additive bolt-on opportunities, and collateral frameworks that allow the lender to influence future liquidity events.
 
-The core has shifted from return generation to corporate navigation. ## ## ## TECHNICAL MECHANICS OF PRIVATE CREDIT AND LIQUIDITY ENGINEERING Institutional allocators evaluating private credit exposure in 2026 require precision at the technical level.
+The core has shifted from return generation to corporate navigation. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ OF PRIVATE CREDIT AND LIQUIDITY ENGINEERING Institutional allocators evaluating private credit exposure in 2026 require precision at the technical level.
 
 The following mechanics define the operational intelligence underlying the modern model: Collateral Architecture Collateral is no longer evaluated as a static asset.
 

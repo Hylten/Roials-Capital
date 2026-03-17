@@ -12,7 +12,11 @@ This singular fact illustrates the broader theme that governs institutional trus
 
 In an era defined by capital rationing, heightened regulatory friction, and cross border compliance burdens, trust is no longer a reputational attribute.
 
-Trust operates as a technical architecture that can be engineered, stress tested, and verified. ## ## ## THE REGIME SHIFT Institutional allocators operate within a post liquidity regime where traditional diversification assumptions, public market signal reliability, and classical portfolio theory have become insufficient indicators of long term stability.
+Trust operates as a technical architecture that can be engineered, stress tested, and verified. ## ## ## 
+
+## THE REGIME SHIFT
+
+ Institutional allocators operate within a post liquidity regime where traditional diversification assumptions, public market signal reliability, and classical portfolio theory have become insufficient indicators of long term stability.
 
 Several shifts define this environment. 
 
@@ -40,9 +44,19 @@ Corporate borrowers across energy services, industrial manufacturing, and logist
 
 This pushes capital demand toward private credit providers who can deliver structured liquidity, but it simultaneously increases diligence requirements because collateral pools require more granular validation.
 
-The regime shift is therefore defined by a deficit of trusted channels rather than a deficit of opportunity.
+## THE REGIME SHIFT
 
-Allocators require navigators that can present domain specific transparency without triggering solicitation classifications or breaching institutional neutrality protocols. ## ## ## TECHNICAL MECHANICS Institutional trust crystallizes when technical mechanics are understood at a level that eliminates informational asymmetry.
+ is therefore defined by a deficit of trusted channels rather than a deficit of opportunity.
+
+Allocators require navigators that can present domain specific transparency without triggering solicitation classifications or breaching institutional neutrality protocols. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ Institutional trust crystallizes when 
+
+## TECHNICAL MECHANICS
+
+ are understood at a level that eliminates informational asymmetry.
 
 The asset classes supported by Roials Capital and its strategic partners demand precise articulation of operational, financial, and regulatory frameworks.
 
@@ -140,7 +154,11 @@ Special Mandates and Cross Jurisdictional Governance EU based family offices and
 
 European investors face stringent promotional and suitability constraints.
 
-Any introduction into North American assets must preserve advisory neutrality. 
+Any 
+
+## INTRODUCTION
+
+ into North American assets must preserve advisory neutrality. 
 
 -  Governance harmonization.
 

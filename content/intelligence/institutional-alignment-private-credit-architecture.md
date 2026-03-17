@@ -36,7 +36,11 @@ Alignment is not philosophical.
 
 Alignment is mechanical.
 
-Correct alignment is the difference between a Fund-III that compounds authority and one that dissolves into administrative noise. ## ## ## THE REGIME SHIFT The current private credit regime is shaped by three pressures.
+Correct alignment is the difference between a Fund-III that compounds authority and one that dissolves into administrative noise. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The current private credit regime is shaped by three pressures.
 
 First, the liquidity premium has collapsed.
 
@@ -78,7 +82,11 @@ But because the architecture itself is insufficient.
 
 You cannot correct misalignment through sentiment.
 
-You correct it through structure. ## ## ## TECHNICAL MECHANICS Alignment is mathematically observable.
+You correct it through structure. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ Alignment is mathematically observable.
 
 When an investment committee cannot quantify alignment, they are not aligned.
 
@@ -164,13 +172,21 @@ That delay is not technical.
 
 It is cultural.
 
-A disciplined fund eliminates that delay. ## ## ## THE STRATEGIC MODEL Institutional alignment is not a slogan.
+A disciplined fund eliminates that delay. ## ## ## THE 
+
+## STRATEGIC MODEL
+
+ Institutional alignment is not a slogan.
 
 It is an operational mandate.
 
 A Fund-III structure must operate with a higher order of clarity.
 
-The strategic model follows a simple rule: velocity without clarity is chaos.
+The 
+
+## STRATEGIC MODEL
+
+ follows a simple rule: velocity without clarity is chaos.
 
 Clarity without velocity is paralysis.
 
@@ -212,7 +228,11 @@ When the architecture is correct, special mandates do not introduce complexity.
 
 They introduce optionality.
 
-The strategic model operates on a hierarchy of conviction.
+The 
+
+## STRATEGIC MODEL
+
+ operates on a hierarchy of conviction.
 
 The fund must decide what it will not do.
 

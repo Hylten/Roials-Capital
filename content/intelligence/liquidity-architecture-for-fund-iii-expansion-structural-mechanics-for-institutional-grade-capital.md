@@ -256,7 +256,11 @@ The architecture is the defense.
 
 The architecture is also the advantage.
 
-It is the reason Fund-III can expand without diluting quality. ## Conclusion Liquidity is not simply provided at Roials Capital.
+It is the reason Fund-III can expand without diluting quality. ## 
+
+## CONCLUSION
+
+ Liquidity is not simply provided at Roials Capital.
 
 It is constructed with institutional discipline.
 

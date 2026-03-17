@@ -28,7 +28,11 @@ Liquidity Engineering, Asset Hardening, and calibrated capitalization frameworks
 
 The modern entrepreneur requires a credit architecture, not a transaction.
 
-This memo defines that architecture. ## ## ## THE REGIME SHIFT The financing environment for private operators has transitioned from relationship driven lending to structure driven underwriting.
+This memo defines that architecture. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The financing environment for private operators has transitioned from relationship driven lending to structure driven underwriting.
 
 Several macro conditions define this shift. 
 
@@ -70,7 +74,11 @@ Entrepreneurs must navigate a world where capital selection depends on structura
 
 Strategic alignment replaces pure negotiation.
 
-Architecture replaces improvisation. ## ## ## TECHNICAL MECHANICS OF STRATEGIC CREDIT ARCHITECTURE The core elements of a modern entrepreneur's capital environment can be grouped into three domains.
+Architecture replaces improvisation. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ OF STRATEGIC CREDIT ARCHITECTURE The core elements of a modern entrepreneur's capital environment can be grouped into three domains.
 
 Kapitalanskaffning for Fund-III+ environments.
 
@@ -196,7 +204,11 @@ The value creation lies in alignment, not distribution.
 
 Key functions include: 
 
--  Institutional Introduction.
+-  Institutional 
+
+## INTRODUCTION
+
+.
 
 Roials Capital identifies the appropriate lender or fund archetype for the entrepreneur's structural profile.
 

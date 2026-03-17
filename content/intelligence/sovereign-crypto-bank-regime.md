@@ -94,7 +94,11 @@ They value certainty over rate.
 
 They value time over yield.
 
-They value sovereignty above everything. # The strategic model for Fund-III defines the position: become the private-sector equivalent of a sovereign crypto bank without adopting sovereign risk.
+They value sovereignty above everything. # The 
+
+## STRATEGIC MODEL
+
+ for Fund-III defines the position: become the private-sector equivalent of a sovereign crypto bank without adopting sovereign risk.
 
 The objective is not technology.
 

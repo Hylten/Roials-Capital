@@ -20,7 +20,11 @@ The focus is structural.
 
 The objective is to provide the institutional reader with a framework for understanding market navigation, technical recovery mechanics, and the relevance of disciplined stewardship within sophisticated multi jurisdiction portfolios. ## PHASE 
 
-1. ## ## ## THE REGIME SHIFT North American energy markets in 2026 are defined by three simultaneous dynamics.
+1. ## ## ## 
+
+## THE REGIME SHIFT
+
+ North American energy markets in 2026 are defined by three simultaneous dynamics.
 
 First is the withdrawal of traditional capital providers from upstream and thermal heavy production due to policy signaling rather than resource behavior.
 
@@ -56,7 +60,11 @@ The result is a vacuum.
 
 That vacuum is now being filled by mid market private operators who understand that engineering, not politics, determines the real productivity of a thermal reservoir. ## PHASE 
 
-2. ## ## ## TECHNICAL MECHANICS IN ALBERTA The Alberta resource base is defined by three primary recovery structures.
+2. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ IN ALBERTA The Alberta resource base is defined by three primary recovery structures.
 
 Steam Assisted Gravity Drainage, Cyclic Steam Stimulation, and horizontal multistage fracturing in conventional and hybrid reservoirs.
 
@@ -110,7 +118,11 @@ It becomes ideal for private buyers who need commodity resilience but do not req
 
 3. THE PARTNERSHIP MODEL Roials Capital operates within this environment as a strategic navigator rather than as an owner or operator.
 
-The mandate is institutional introduction, market navigation, and architectural design of cross border capital structures that align with the objectives of sovereign entities, UHNW families, private credit funds, and European MiFID II governed platforms.
+The mandate is institutional 
+
+## INTRODUCTION
+
+, market navigation, and architectural design of cross border capital structures that align with the objectives of sovereign entities, UHNW families, private credit funds, and European MiFID II governed platforms.
 
 The focus is Kapitalanskaffning for Fund-III plus mandates concentrating on buyouts and structured add on acquisition programs.
 
@@ -124,7 +136,11 @@ NAEO is positioned within the Alberta regime shift due to its operating discipli
 
 Roials Capital acts as the institutional architect that supports allocators in understanding the resource, the operational cadence, and the structuring options available without engaging in promotional or returns oriented language.
 
-The introduction model is designed around institutional archetypes.
+The 
+
+## INTRODUCTION
+
+ model is designed around institutional archetypes.
 
 Sovereign allocators typically require long duration stability and multi decade visibility.
 

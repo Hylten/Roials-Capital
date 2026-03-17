@@ -16,7 +16,11 @@ Institutional migration is not an emotional phenomenon.
 
 It is a rules-based reallocation pattern governed by balance sheet pressure, portfolio calibration models, and regulatory capital weighting.
 
-The current regime demonstrates the same characteristics observable in 1986, 1999, 2009, and 2020, with allocators repositioning toward assets that offer durability, jurisdictional stability, and predictable operational mechanics. ## ## ## THE REGIME SHIFT Institutional allocators are reorienting portfolios to meet solvency requirements, sharpen liquidity corridors, and mitigate valuation compression in traditional equity benchmarks.
+The current regime demonstrates the same characteristics observable in 1986, 1999, 2009, and 2020, with allocators repositioning toward assets that offer durability, jurisdictional stability, and predictable operational mechanics. ## ## ## 
+
+## THE REGIME SHIFT
+
+ Institutional allocators are reorienting portfolios to meet solvency requirements, sharpen liquidity corridors, and mitigate valuation compression in traditional equity benchmarks.
 
 Three structural forces define the present environment: 
 
@@ -46,7 +50,11 @@ The Alberta basin demonstrates this principle.
 
 Resource stability, reservoir predictability, and infrastructure density are structurally unchanged.
 
-What changed is the institutional perception of regulatory cost, which created a mispriced domain where intermediaries with technical intelligence generate clarity for global allocators. ## ## ## TECHNICAL MECHANICS Migration patterns follow rules.
+What changed is the institutional perception of regulatory cost, which created a mispriced domain where intermediaries with technical intelligence generate clarity for global allocators. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ Migration patterns follow rules.
 
 They are driven by technical parameters rather than narratives.
 

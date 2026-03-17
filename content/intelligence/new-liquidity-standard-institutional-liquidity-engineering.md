@@ -38,7 +38,11 @@ They punish immobility.
 
 The New Liquidity Standard emerges because the legacy liquidity model failed its stewards. ## PHASE 
 
-1. ## ## ## THE REGIME SHIFT The liquidity regime shifted quietly.
+1. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The liquidity regime shifted quietly.
 
 Two forces made it irreversible: 
 
@@ -110,7 +114,11 @@ The public market pretended to offer liquidity.
 
 The private market now delivers it. ## PHASE 
 
-2. ## ## ## TECHNICAL MECHANICS Strategic Collateralization is not collateral lending.
+2. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ Strategic Collateralization is not collateral lending.
 
 It is asset hardening.
 
@@ -206,7 +214,15 @@ The market cannot offer timing.
 
 Only structure can. ## PHASE 
 
-3. ## ## ## THE STRATEGIC MODEL The strategic model for the New Liquidity Standard is a dual-track architecture.
+3. ## ## ## THE 
+
+## STRATEGIC MODEL
+
+ The 
+
+## STRATEGIC MODEL
+
+ for the New Liquidity Standard is a dual-track architecture.
 
 Two movements.
 

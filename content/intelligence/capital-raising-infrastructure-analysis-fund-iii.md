@@ -12,7 +12,11 @@ It is the direct expression of regulatory deceleration, increased compliance dra
 
 The allocators who understand this structural gap are reallocating from generalized asset pools toward platforms with disciplined Asset-Backed Frameworks, predictable operational cadence, and established Fund-III architectures with validated acquisition engines. ## PHASE 
 
-1. ## ## ## THE REGIME SHIFT The 2026 capital landscape reflects the intersection of three dominant forces.
+1. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The 2026 capital landscape reflects the intersection of three dominant forces.
 
 The first is institutional demand for transparent cash-flow provenance and post-acquisition visibility, a response to global regulatory tightening and the enforcement acceleration within both the US and EU regimes.
 
@@ -38,7 +42,11 @@ This is where specialized partners such as NAEOC create alignment through standa
 
 When combined with institutional-grade structuring, the Alberta corridor becomes an efficient deployment zone for capital seeking cash-flow durability rather than volumetric speculation. ## PHASE 
 
-2. ## ## ## TECHNICAL MECHANICS Capital raising for Fund-III requires architecture, not marketing.
+2. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ Capital raising for Fund-III requires architecture, not marketing.
 
 The allocator does not respond to promises; they respond to predictable operational intelligence.
 
@@ -100,7 +108,11 @@ NAEOC standardizes domain underwriting, provides technical field intelligence, a
 
 In EU structures, MiFID II frameworks require a governance infrastructure capable of supporting multi-jurisdictional oversight, data standardization, and transparent capital provenance. ## PHASE 
 
-3. ## ## ## THE STRATEGIC MODEL The capital raising architecture for Fund-III and adjacent mandates is not built around a single asset manager.
+3. ## ## ## THE 
+
+## STRATEGIC MODEL
+
+ The capital raising architecture for Fund-III and adjacent mandates is not built around a single asset manager.
 
 It is built around a strategic ecosystem where partners coordinate domain-specialized roles.
 
@@ -108,7 +120,15 @@ The role of the institutional introducer is to create alignment between allocato
 
 The architecture consists of four components. 
 
-1. Institutional Introduction Layer The introduction layer connects LPs with verified operators whose acquisition engines or energy assets have already been technically validated.
+1. Institutional 
+
+## INTRODUCTION
+
+ Layer The 
+
+## INTRODUCTION
+
+ layer connects LPs with verified operators whose acquisition engines or energy assets have already been technically validated.
 
 The objective is alignment, not promotion.
 

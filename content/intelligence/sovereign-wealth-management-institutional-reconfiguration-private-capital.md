@@ -12,7 +12,11 @@ Sovereign allocators have moved into this gap with an operating philosophy that 
 
 Their presence is restructuring the opportunity map for private equity, private credit, and strategic resource ownership across North America and Europe. ## PHASE 
 
-1. ## ## ## THE REGIME SHIFT The institutional landscape has moved into a post benchmark environment.
+1. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The institutional landscape has moved into a post benchmark environment.
 
 Traditional LP categories such as corporate pensions, endowments, and European insurers are constrained by solvency rules, duration limits, and green allocation quotas.
 
@@ -38,7 +42,11 @@ Sovereign capital has moved into sectors that require long term stability of cap
 
 Private credit funds, mid market buyout platforms, and sector specialist sponsors are now repositioning their capital raising strategies toward sovereign archetypes, because sovereign allocators value strategic alignment over benchmark relative performance. ## PHASE 
 
-2. ## ## ## TECHNICAL MECHANICS The mechanics of sovereign aligned private capital differ materially from conventional LP syndication.
+2. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ The mechanics of sovereign aligned private capital differ materially from conventional LP syndication.
 
 The sovereign model operates through four technical pillars. 
 

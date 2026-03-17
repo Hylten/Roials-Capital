@@ -24,7 +24,11 @@ Reconstruct the transmission system.
 
 Install governance that cannot drift.
 
-The next decade will reward the actors who build systems that enforce consistency in a world defined by fiscal entropy. ## ## ## THE REGIME SHIFT Sovereign capital is entering an austerity regime.
+The next decade will reward the actors who build systems that enforce consistency in a world defined by fiscal entropy. ## ## ## 
+
+## THE REGIME SHIFT
+
+ Sovereign capital is entering an austerity regime.
 
 Not the political version.
 
@@ -84,7 +88,11 @@ Fund-III sits directly inside this regime shift.
 
 Buyouts and add-ons backed by hard-collateralized cash flows are the beneficiaries of sovereign retracement.
 
-Sovereigns are losing the competition for strategic assets because their infrastructure no longer transmits capital with sufficient precision. ## ## ## TECHNICAL MECHANICS Sovereign capital infrastructure can be decomposed into four mechanics.
+Sovereigns are losing the competition for strategic assets because their infrastructure no longer transmits capital with sufficient precision. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ Sovereign capital infrastructure can be decomposed into four mechanics.
 
 When these mechanics weaken, the entire financial architecture becomes brittle. 
 
@@ -144,7 +152,11 @@ Yet public markets accept it as standard.
 
 The result is predictable.
 
-Capital flows toward private systems that enforce accountability instead of public systems that obscure risk. ## ## ## THE STRATEGIC MODEL Fund-III positions itself as an institutional alternative to sovereign drift.
+Capital flows toward private systems that enforce accountability instead of public systems that obscure risk. ## ## ## THE 
+
+## STRATEGIC MODEL
+
+ Fund-III positions itself as an institutional alternative to sovereign drift.
 
 The model is straightforward.
 

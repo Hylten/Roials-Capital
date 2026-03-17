@@ -30,7 +30,11 @@ UHNWIs have learned that mobility is a protection layer.
 
 Private credit has not caught up.
 
-That gap is where superior returns are found. ## ## ## THE REGIME SHIFT A quiet bifurcation has taken place.
+That gap is where superior returns are found. ## ## ## 
+
+## THE REGIME SHIFT
+
+ A quiet bifurcation has taken place.
 
 On one side sits regulatory capital.
 
@@ -76,7 +80,11 @@ Mobility creates optionality.
 
 Optionality creates acquisition advantage.
 
-In a tightening-rate environment, advantage compounds faster than cost of capital. ## ## ## TECHNICAL MECHANICS Precision matters.
+In a tightening-rate environment, advantage compounds faster than cost of capital. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ Precision matters.
 
 Institutional mechanics decide institutional outcomes.
 
@@ -138,7 +146,11 @@ It is the superior recovery factor.
 
 That is the foundation of institutional credit.
 
-That is why crypto collateral belongs in the M&A leverage stack. ## ## ## THE STRATEGIC MODEL Fund-III requires a capital formation architecture anchored in mobile collateral pools, not regional lenders.
+That is why crypto collateral belongs in the M&A leverage stack. ## ## ## THE 
+
+## STRATEGIC MODEL
+
+ Fund-III requires a capital formation architecture anchored in mobile collateral pools, not regional lenders.
 
 Capital raising becomes a strategic function of demonstrating frictionless liquidity conversion.
 

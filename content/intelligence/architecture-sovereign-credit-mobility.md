@@ -22,7 +22,11 @@ Rigidity destroys return velocity.
 
 Mobility converts national constraints into institutional arbitrage.
 
-ROIALS CAPITAL operates inside that gap. ## ## ## THE REGIME SHIFT Sovereigns are no longer the passive backdrop of institutional deployment.
+ROIALS CAPITAL operates inside that gap. ## ## ## 
+
+## THE REGIME SHIFT
+
+ Sovereigns are no longer the passive backdrop of institutional deployment.
 
 They have become active participants in the credit formation cycle.
 
@@ -66,7 +70,11 @@ None share the same mobility rules.
 
 Institutional capital raising now requires a multi-regime map.
 
-Fund-III requires mastery of it. ## ## ## TECHNICAL MECHANICS Sovereign Credit Mobility is the capacity to convert a jurisdiction’s legal, fiscal, and collateral infrastructure into a cross-border lending engine without degrading LTV, recovery, or time-to-cash metrics. 
+Fund-III requires mastery of it. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ Sovereign Credit Mobility is the capacity to convert a jurisdiction’s legal, fiscal, and collateral infrastructure into a cross-border lending engine without degrading LTV, recovery, or time-to-cash metrics. 
 
 1. The Capital Translation Layer This layer converts sovereign legal structures into institutional underwriting language.
 
@@ -136,7 +144,11 @@ Not reactive.
 
 The system is designed to avoid courtroom dependence.
 
-This is how institutional discipline is restored. ## ## ## THE STRATEGIC MODEL ROIALS CAPITAL executes with velocity.
+This is how institutional discipline is restored. ## ## ## THE 
+
+## STRATEGIC MODEL
+
+ ROIALS CAPITAL executes with velocity.
 
 This is not a philosophy.
 

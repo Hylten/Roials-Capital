@@ -10,7 +10,11 @@ The structural gap in private credit today is not driven by a shortage of opport
 
 It is driven by the withdrawal of regulated lenders at the exact moment when lower middle market and mid market borrowers require stable, patient, institutionally governed capital.
 
-The capital vacuum has created a bifurcation between opportunistic lending and institutionally architected private credit platforms designed for duration reliability, underwriting visibility, and disciplined balance sheet optimization. ## ## ## THE REGIME SHIFT Private credit has entered a regime where scale is no longer optional.
+The capital vacuum has created a bifurcation between opportunistic lending and institutionally architected private credit platforms designed for duration reliability, underwriting visibility, and disciplined balance sheet optimization. ## ## ## 
+
+## THE REGIME SHIFT
+
+ Private credit has entered a regime where scale is no longer optional.
 
 Regulatory recalibration across the United States, Europe, and Canada has constrained bank underwriting velocity.
 
@@ -38,7 +42,11 @@ This new regime favors platforms with institutional backers.
 
 Such platforms demonstrate the ability to pair sponsor discipline with defensive positioning, consistent loan servicing, and capital stack visibility.
 
-They operate not as yield chasers but as liquidity engineers capable of deploying capital into environments where traditional lenders cannot maintain velocity. ## ## ## TECHNICAL MECHANICS Institutional private credit platforms distinguish themselves through precision in structuring.
+They operate not as yield chasers but as liquidity engineers capable of deploying capital into environments where traditional lenders cannot maintain velocity. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ Institutional private credit platforms distinguish themselves through precision in structuring.
 
 The technical architecture includes several core mechanics. 
 
@@ -154,7 +162,7 @@ Roials Capital maintains intelligence across the United States, Europe, Canada, 
 
 -  Sector specific risk curves This transforms market noise into actionable intelligence. 
 
-3. INSTITUTIONAL 
+3. INSTITUTIONAL ## 
 
 ## INTRODUCTION
 

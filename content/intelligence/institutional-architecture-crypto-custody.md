@@ -24,7 +24,11 @@ This briefing outlines the institutional architecture of protecting multi genera
 
 The objective is not to promote any specific vehicle.
 
-The objective is to clarify the structural mechanics so that allocators, family governance boards, and private office principals can navigate the next decade of digital asset oversight with discipline. ## ## ## THE REGIME SHIFT The regulatory environment governing digital assets exhibits the characteristics of an incomplete regime.
+The objective is to clarify the structural mechanics so that allocators, family governance boards, and private office principals can navigate the next decade of digital asset oversight with discipline. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The regulatory environment governing digital assets exhibits the characteristics of an incomplete regime.
 
 In traditional capital markets, settlement, clearing, and asset servicing have decades of harmonization behind them.
 
@@ -62,7 +66,11 @@ When the Alberta heavy oil market transitioned from speculative land plays to en
 
 A similar transformation is occurring in digital custody.
 
-Asset control is shifting from individual technical operators to regulated, operationally redundant institutional custodians. ## ## ## TECHNICAL MECHANICS OF CRYPTO CUSTODY Institutional grade custody requires infrastructure design that aligns with the sensitivity and magnitude of the capital it protects.
+Asset control is shifting from individual technical operators to regulated, operationally redundant institutional custodians. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ OF CRYPTO CUSTODY Institutional grade custody requires infrastructure design that aligns with the sensitivity and magnitude of the capital it protects.
 
 For multi generational wealth, security models must focus on failure mode elimination, not simply threat mitigation.
 

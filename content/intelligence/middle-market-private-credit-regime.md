@@ -16,7 +16,9 @@ Infrastructure did not.
 
 That is the opportunity.
 
-The Regime Shift The private credit landscape has moved into a regime defined by three non-negotiable forces. 
+## THE REGIME SHIFT
+
+ The private credit landscape has moved into a regime defined by three non-negotiable forces. 
 
 1. Bank retrenchment created a permanent vacuum in sponsor finance.
 
@@ -66,7 +68,9 @@ ROIALS CAPITAL states the position clearly: the middle market is the most asymme
 
 We operate where complexity deters slower capital.
 
-Technical Mechanics Middle-market private credit performance is determined by three mechanical elements: LTV discipline, cash flow visibility, and recovery velocity.
+## TECHNICAL MECHANICS
+
+ Middle-market private credit performance is determined by three mechanical elements: LTV discipline, cash flow visibility, and recovery velocity.
 
 When these triage points are engineered correctly, you remove noise and build mathematically predictable outcomes.
 
@@ -136,7 +140,11 @@ Firms with internal compliance architecture can move faster and gain price lever
 
 The capacity to close where others cannot is itself a return driver.
 
-The Strategic Model ROIALS CAPITAL operates with a singular institutional objective: raise and deploy capital into Fund-III structures designed for mid-market buyouts, add-ons, and operating platform consolidation.
+The 
+
+## STRATEGIC MODEL
+
+ ROIALS CAPITAL operates with a singular institutional objective: raise and deploy capital into Fund-III structures designed for mid-market buyouts, add-ons, and operating platform consolidation.
 
 The core of the model is velocity with precision.
 

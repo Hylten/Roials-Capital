@@ -14,7 +14,11 @@ Yield has become the primary variable that determines whether an asset operates 
 
 This is the operational definition of asset hardening in the current regime. ## PHASE 
 
-1. ## ## ## THE REGIME SHIFT Across 2024 to 2026, allocators have been forced into a capital architecture defined by three converging phenomena. 
+1. ## ## ## 
+
+## THE REGIME SHIFT
+
+ Across 2024 to 2026, allocators have been forced into a capital architecture defined by three converging phenomena. 
 
 1. Incentive misalignment across commercial banks.
 
@@ -46,7 +50,11 @@ It is the basis for institutional risk calibration.
 
 Yield is now functioning as the primary filter for determining which assets legitimately serve as capital anchors within a diversified institutional portfolio. ## PHASE 
 
-2. ## ## ## TECHNICAL MECHANICS Yield is not a superficial number.
+2. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ Yield is not a superficial number.
 
 In the institutional environment, yield functions as an engineering variable that interacts with the mechanics of buyouts, private credit structures, and energy extraction to transform asset characteristics from volatile to hardened.
 
@@ -196,7 +204,11 @@ C.
 
 Operational Intelligence.
 
-Translating technical mechanics into decision relevant information that supports institutional calibration.
+Translating 
+
+## TECHNICAL MECHANICS
+
+ into decision relevant information that supports institutional calibration.
 
 This partnership model maintains neutrality.
 

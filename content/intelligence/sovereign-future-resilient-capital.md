@@ -18,7 +18,11 @@ The sovereign future of capital formation is moving toward resilience anchored i
 
 Modern allocators are less interested in thematic narratives and more aligned with three principles: downside calculability, operational determinism, and jurisdictional rule-of-law.
 
-These principles form the basis for capital stewardship and are driving renewed attention toward North American energy, asset based lending structures, and specialist buyout platforms where operational uplift is measurable rather than theoretical. ## ## ## THE REGIME SHIFT The current institutional environment is defined by three converging macro forces. 
+These principles form the basis for capital stewardship and are driving renewed attention toward North American energy, asset based lending structures, and specialist buyout platforms where operational uplift is measurable rather than theoretical. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The current institutional environment is defined by three converging macro forces. 
 
 1. Capital Inefficiency Across Sectors Post 2020 regulatory shifts and ESG capital migration created a multi trillion dollar displacement from conventional resource assets.
 
@@ -48,7 +52,11 @@ The lack of domain discipline has accelerated demand for partners that can filte
 
 The allocator that adapts to this landscape reclaims strategic positioning.
 
-The allocator that ignores it is exposed to synthetic diversification without real downside governance. ## ## ## TECHNICAL MECHANICS North American energy assets are delivering the most predictable downside profile when supported by transparent reservoir data, established decline curves, and mature extraction methodologies.
+The allocator that ignores it is exposed to synthetic diversification without real downside governance. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ North American energy assets are delivering the most predictable downside profile when supported by transparent reservoir data, established decline curves, and mature extraction methodologies.
 
 The Alberta basin exemplifies this profile. 
 
@@ -98,7 +106,11 @@ Roials Capital serves three distinct mandates.
 
 1. Kapitalanskaffning for Fund-III and Successor Buyout Platforms We work with GPs requiring institutional alignment for expansions, add ons, or pre acquisition structuring.
 
-The emphasis is on balance sheet optimization, operational intelligence, and the introduction to cross border capital streams.
+The emphasis is on balance sheet optimization, operational intelligence, and the 
+
+## INTRODUCTION
+
+ to cross border capital streams.
 
 Institutions benefit from neutral, non promotional intelligence that supports their internal underwriting processes. 
 
@@ -146,7 +158,9 @@ Roials Capital provides confidential strategy audits for allocators evaluating a
 
 2. Structural gaps between mandate design and balance sheet execution. 
 
-3. Introduction pathways to technical operators such as NAEO. 
+3. ## INTRODUCTION
+
+ pathways to technical operators such as NAEO. 
 
 4. Capital stack optimization and cross collateralization opportunities. 
 

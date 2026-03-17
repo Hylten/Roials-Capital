@@ -252,7 +252,11 @@ Sovereign investors who align with institutional Strategic Collateralization arc
 
 The objective is not aggressiveness.
 
-The objective is silent authority. ## Conclusion Sovereign capital deployment is a discipline that requires structural mechanics, not marketing language.
+The objective is silent authority. ## 
+
+## CONCLUSION
+
+ Sovereign capital deployment is a discipline that requires structural mechanics, not marketing language.
 
 HNWI and UHNW clients who operate at size need Asset-Backed Frameworks partners who function with institutional clarity and discretion.
 

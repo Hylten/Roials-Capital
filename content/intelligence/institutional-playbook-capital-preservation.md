@@ -14,7 +14,11 @@ This briefing outlines the institutional playbook for capital preservation in a 
 
 It integrates the mechanics of buyout sequencing in Fund-III structures, tactical Monetization Architecture for mid-market enterprises, and the optionality embedded within North American conventional energy via NAEO.
 
-The objective is to provide allocators with a strategic intelligence map for navigating capital scarcity, regulatory fragmentation, and asset tier bifurcation. ## ## ## ## THE REGIME SHIFT The global capital environment has transitioned from an era of indiscriminate liquidity to one defined by balance sheet stratification.
+The objective is to provide allocators with a strategic intelligence map for navigating capital scarcity, regulatory fragmentation, and asset tier bifurcation. ## ## ## ## 
+
+## THE REGIME SHIFT
+
+ The global capital environment has transitioned from an era of indiscriminate liquidity to one defined by balance sheet stratification.
 
 Post-pandemic monetary acceleration created three distortions that now define allocator decision making: 
 
@@ -56,11 +60,19 @@ Capital preservation in this context becomes a sequencing problem, not a thresho
 
 The GP must preserve collateral value while engineering multiple pathways to withstand valuation compression.
 
-These realities define the regime shift: capital is not scarce in aggregate.
+These realities define 
+
+## THE REGIME SHIFT
+
+: capital is not scarce in aggregate.
 
 It is scarce where regulators concentrate scrutiny and where banks no longer underwrite volatility.
 
-Private capital becomes the strategic infrastructure of the new regime. ## ## ## ## TECHNICAL MECHANICS Capital preservation emerges from mechanics, not positioning.
+Private capital becomes the strategic infrastructure of the new regime. ## ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ Capital preservation emerges from mechanics, not positioning.
 
 A.
 
@@ -154,7 +166,11 @@ The focus is on capital preservation, duration matching, and risk weighted expos
 
 2. Market Navigation The firm provides technical and structural mapping of cross border capital flows, identifying where regulatory asymmetries create opportunity or risk for LP capital. 
 
-3. Institutional Introduction Roials Capital introduces allocators to operating partners, including NAEO in North American energy, or specialized managers across Fund-III buyout strategies, Asset-Based Lending facilities, or special mandates.
+3. Institutional 
+
+## INTRODUCTION
+
+ Roials Capital introduces allocators to operating partners, including NAEO in North American energy, or specialized managers across Fund-III buyout strategies, Asset-Based Lending facilities, or special mandates.
 
 The outcome is access to institutional grade partners with transparent operational track records. 
 

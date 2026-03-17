@@ -28,7 +28,11 @@ Order is not an option.
 
 It is a mandate. ## PHASE 
 
-1. ## ## ## THE REGIME SHIFT The prevailing inefficiency is structural.
+1. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The prevailing inefficiency is structural.
 
 Crypto liquidity scales horizontally, not vertically.
 
@@ -64,7 +68,11 @@ Not through ETFs.
 
 Through architecture. ## PHASE 
 
-2. ## ## ## TECHNICAL MECHANICS The mechanics begin with LTV curves.
+2. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ The mechanics begin with LTV curves.
 
 Crypto collateral behaves with non-linear shock sensitivity.
 
@@ -136,7 +144,11 @@ Crypto stops being speculative.
 
 It becomes a collateral substrate. ## PHASE 
 
-3. ## ## ## THE STRATEGIC MODEL The architecture for sovereign and ultra-capital entities uses a three-stack system that integrates liquidity sovereignty, capital raising flows, and hard-asset reinforcement.
+3. ## ## ## THE 
+
+## STRATEGIC MODEL
+
+ The architecture for sovereign and ultra-capital entities uses a three-stack system that integrates liquidity sovereignty, capital raising flows, and hard-asset reinforcement.
 
 Stack One.
 

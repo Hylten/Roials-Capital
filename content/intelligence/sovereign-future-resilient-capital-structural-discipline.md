@@ -10,7 +10,11 @@ The capital vacuum in North America’s energy sector is a consequence of regula
 
 This vacuum is now interacting with a global shift toward balance sheet hardening, reserve based recalibration, and institutionally enforced liquidity thresholds that shape allocator behavior more than nominal interest rates.
 
-The resulting architecture is a new strategic environment where sovereign oriented capital, private credit frameworks, and hard asset exposure converge into what can be defined as the Sovereign Future of capital stewardship. ## ## ## THE REGIME SHIFT The global capital system is no longer driven primarily by monetary cycles.
+The resulting architecture is a new strategic environment where sovereign oriented capital, private credit frameworks, and hard asset exposure converge into what can be defined as the Sovereign Future of capital stewardship. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The global capital system is no longer driven primarily by monetary cycles.
 
 It is shaped by institutional constraints and regulatory dictates that create structural scarcity in specific asset classes. 
 
@@ -40,7 +44,11 @@ Capital discipline replaces capital abundance.
 
 Balance sheet optimization replaces portfolio expansion.
 
-Asset hardening replaces thematic speculation. ## ## ## TECHNICAL MECHANICS With the regime defined, the mechanics of the asset class become central to institutional clarity.
+Asset hardening replaces thematic speculation. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ With the regime defined, the mechanics of the asset class become central to institutional clarity.
 
 Alberta heavy oil fields, particularly those calibrated for SAGD and CSS applications, operate within predictable physical parameters.
 

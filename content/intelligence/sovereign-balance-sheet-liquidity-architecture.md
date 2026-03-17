@@ -36,7 +36,11 @@ The world has shifted toward balance sheet sovereignty.
 
 The firms able to articulate and operationalize that sovereignty will be entrusted with disproportionate flows of institutional capital.
 
-I will outline the architecture. ## ## ## THE REGIME SHIFT A structural shift in liquidity regimes has already occurred.
+I will outline the architecture. ## ## ## 
+
+## THE REGIME SHIFT
+
+ A structural shift in liquidity regimes has already occurred.
 
 The key markers are visible to any technical observer. 
 
@@ -64,7 +68,11 @@ They must adopt a stewardship mandate that proves they are not consumers of liqu
 
 Sovereign balance sheet design is not theoretical.
 
-It is operational. ## ## ## TECHNICAL MECHANICS A sovereign-grade balance sheet behaves predictably across shocks.
+It is operational. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ A sovereign-grade balance sheet behaves predictably across shocks.
 
 Predictability is engineered through four mechanisms. 
 
@@ -114,7 +122,15 @@ At Fund-III scale, these should be:
 
 -  Long-cycle liquidity: energy reserves, mineral rights, durable infrastructure This blend produces institutional trust.
 
-Institutional trust produces commitments. ## ## ## THE STRATEGIC MODEL The sovereign balance sheet becomes operational when the GP adopts a strategic model rooted in the discipline of stewardship.
+Institutional trust produces commitments. ## ## ## THE 
+
+## STRATEGIC MODEL
+
+ The sovereign balance sheet becomes operational when the GP adopts a 
+
+## STRATEGIC MODEL
+
+ rooted in the discipline of stewardship.
 
 Stewardship is not softness.
 
@@ -124,7 +140,11 @@ It is the eradication of disorder.
 
 It is the belief that capital must be placed in the hands of those who treat it as covenant, not commodity.
 
-The strategic model for Fund-III raises must therefore follow three structural rules. 
+The 
+
+## STRATEGIC MODEL
+
+ for Fund-III raises must therefore follow three structural rules. 
 
 1. THE PARTNERSHIP MODEL Institutional partners do not invest in narrative.
 

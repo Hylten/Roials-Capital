@@ -314,7 +314,11 @@ Clients experience the stability without witnessing the complexity.
 
 Silent authority is the highest form of trust.
 
-It is the trust that comes from structural predictability. ## Conclusion: The Future of Sovereign Risk Mitigation Risk mitigation in sovereign asset structures is a perpetual discipline.
+It is the trust that comes from structural predictability. ## 
+
+## CONCLUSION
+
+: The Future of Sovereign Risk Mitigation Risk mitigation in sovereign asset structures is a perpetual discipline.
 
 The environment evolves.
 

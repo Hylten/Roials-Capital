@@ -20,7 +20,11 @@ Energy, private credit, and strategic acquisitions each serve as functional comp
 
 It is a doctrinal approach to capital oversight. ## PHASE 
 
-1. ## ## ## THE REGIME SHIFT The current institutional landscape is shaped by three simultaneous movements: 
+1. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The current institutional landscape is shaped by three simultaneous movements: 
 
 1. Capital Retreat Regulatory over steering in Europe and North America has shifted institutional mandates away from conventional extractive industries.
 
@@ -40,13 +44,19 @@ Heavy oil in particular retains strategic relevance because of its viscosity and
 
 This applies to energy decline curves, private credit amortization schedules, and real asset yield on cost models.
 
-The regime shift is an alignment problem.
+## THE REGIME SHIFT
+
+ is an alignment problem.
 
 Capital is no longer flowing to the systems designed to utilize it with the lowest operational variance.
 
 Asset hardening provides the corrective structure. ## PHASE 
 
-2. ## ## ## TECHNICAL MECHANICS OF THE ENERGY COMPONENT In the North American context, the Alberta basin remains one of the most technically mature hydrocarbon systems in the world.
+2. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ OF THE ENERGY COMPONENT In the North American context, the Alberta basin remains one of the most technically mature hydrocarbon systems in the world.
 
 The asset class is not speculative.
 
@@ -186,7 +196,11 @@ In buyouts and special mandates, this is a curated set of institutional grade pl
 
 -  Balance sheet integrity This process ensures allocators engage only with systems that maintain disciplined capital use. 
 
-4. Institutional Introduction Roials Capital introduces allocators to counterparties whose operational competencies are aligned with sovereign grade stewardship.
+4. Institutional 
+
+## INTRODUCTION
+
+ Roials Capital introduces allocators to counterparties whose operational competencies are aligned with sovereign grade stewardship.
 
 The objective is not to close transactions but to provide clarity, alignment, and readiness for potential collaboration. ## PHASE 
 
@@ -228,6 +242,10 @@ Stewardship is the guardrail that filters out degradation. ## PHASE
 
 4. Governance Compatibility Does the counterparty operate with a stewardship aligned ethos.
 
-Roials Capital provides confidential Strategy Audits, Portfolio Calibration assessments, and Institutional Introduction pathways for allocators seeking sovereign alignment.
+Roials Capital provides confidential Strategy Audits, Portfolio Calibration assessments, and Institutional 
+
+## INTRODUCTION
+
+ pathways for allocators seeking sovereign alignment.
 
 The objective is disciplined clarity, not solicitation. [END OF BRIEFING]

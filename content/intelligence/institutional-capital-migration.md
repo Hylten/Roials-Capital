@@ -34,7 +34,11 @@ The allocators who internalize this early will extract multi-cycle advantage.
 
 Those who hesitate will finance the advantage of others. ## PHASE 
 
-1. ## ## ## THE REGIME SHIFT The first indicator of a capital migration cycle is never spread compression.
+1. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The first indicator of a capital migration cycle is never spread compression.
 
 It is transaction latency.
 
@@ -82,7 +86,11 @@ The regime has already shifted.
 
 Those who do not architect around this shift will serve those who do. ## PHASE 
 
-2. ## ## ## TECHNICAL MECHANICS Capital migration functions like a hydraulic system.
+2. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ Capital migration functions like a hydraulic system.
 
 Pressure equalizes only when the mechanics are properly aligned.
 
@@ -158,13 +166,21 @@ The mechanics are not negotiable.
 
 They are the architecture. ## PHASE 
 
-3. ## ## ## THE STRATEGIC MODEL Fund-III is not a vehicle.
+3. ## ## ## THE 
+
+## STRATEGIC MODEL
+
+ Fund-III is not a vehicle.
 
 It is a governance structure.
 
 It exists to steward capital through an environment that penalizes opacity and rewards engineered simplicity.
 
-The strategic model operates on three fronts.
+The 
+
+## STRATEGIC MODEL
+
+ operates on three fronts.
 
 First.
 

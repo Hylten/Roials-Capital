@@ -14,7 +14,11 @@ Liquidity is the constraint most UHNW families misdiagnose.
 
 Order is not an option. ## PHASE 
 
-1. ## ## ## THE REGIME SHIFT Capital no longer rewards passive ownership.
+1. ## ## ## 
+
+## THE REGIME SHIFT
+
+ Capital no longer rewards passive ownership.
 
 It rewards engineered liquidity cycles with institutional load-bearing capacity.
 
@@ -62,7 +66,11 @@ Fund-III sits inside that shift.
 
 Not beside it. ## PHASE 
 
-2. ## ## ## TECHNICAL MECHANICS Strategic Collateralization is not a slogan.
+2. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ Strategic Collateralization is not a slogan.
 
 It is a system built on predictable ratios.
 
@@ -136,7 +144,11 @@ This is why we build Asset-Based Lending facilities not as credit.
 
 But as operating infrastructure. ## PHASE 
 
-3. ## ## ## THE STRATEGIC MODEL Most private families attempt to manage liquidity internally.
+3. ## ## ## THE 
+
+## STRATEGIC MODEL
+
+ Most private families attempt to manage liquidity internally.
 
 This is a category error.
 

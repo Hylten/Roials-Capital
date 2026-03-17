@@ -26,7 +26,11 @@ Cross border settlements shift toward energy indexed benchmarks.
 
 Fund-III must align with this new order because capital formation at scale requires an environment where liquidity is not episodic.
 
-It must be engineered. ## ## ## THE REGIME SHIFT Sovereigns operate today inside a compressed bandwidth of liquidity autonomy. 
+It must be engineered. ## ## ## 
+
+## THE REGIME SHIFT
+
+ Sovereigns operate today inside a compressed bandwidth of liquidity autonomy. 
 
 1. Fiscal saturation.
 
@@ -56,7 +60,11 @@ Inside this regime the sovereign liquidity facility becomes a precision tool.
 
 It is not a rescue instrument.
 
-It is a sequencing instrument that determines national flow continuity. ## ## ## TECHNICAL MECHANICS A sovereign liquidity facility must not act like a budget extension.
+It is a sequencing instrument that determines national flow continuity. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ A sovereign liquidity facility must not act like a budget extension.
 
 It must function as a structured cash-flow algorithm.
 
@@ -134,7 +142,11 @@ The facility must not be a drain.
 
 A weekly replenishment mechanism tied to predictable exports or indexed revenue bands stabilizes the facility and protects Fund-III lender profiles.
 
-This transforms sovereign liquidity from episodic to structural. ## ## ## THE STRATEGIC MODEL Fund-III enters this domain with a defined objective.
+This transforms sovereign liquidity from episodic to structural. ## ## ## THE 
+
+## STRATEGIC MODEL
+
+ Fund-III enters this domain with a defined objective.
 
 Capital must flow toward buyouts and add-ons.
 
@@ -144,7 +156,11 @@ They are not the investment.
 
 They are the environment that allows investments to compound without disruption.
 
-The strategic model contains three parallel tracks.
+The 
+
+## STRATEGIC MODEL
+
+ contains three parallel tracks.
 
 Track 1: Capital Raising Infrastructure The credibility of Fund-III increases when the macro environment of our counterparties is stabilized.
 

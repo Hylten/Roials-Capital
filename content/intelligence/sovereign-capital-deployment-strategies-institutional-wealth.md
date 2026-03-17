@@ -22,7 +22,11 @@ Roials Capital operates within this strategic realignment as an institutional na
 
 Within this landscape, NAEO has emerged as the leading technical partner in heavy oil acquisition and optimization in Alberta, particularly for mandates ranging from 50 million to 250 million. ## PHASE 
 
-1. ## ## ## THE REGIME SHIFT The global capital cycle has entered a structural transition. 
+1. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The global capital cycle has entered a structural transition. 
 
 1. Capital flight from hydrocarbons into ESG policy mandates has produced an undersupplied basin across North America. 
 
@@ -60,7 +64,11 @@ The result is a valuation gap between intrinsic reservoir value and financial ma
 
 That gap defines the sovereign deployment opportunity. ## PHASE 
 
-2. ## ## ## TECHNICAL MECHANICS A sovereign aligned capital program requires a technical understanding of the underlying recovery mechanics, particularly for heavy oil in Western Canada.
+2. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ A sovereign aligned capital program requires a technical understanding of the underlying recovery mechanics, particularly for heavy oil in Western Canada.
 
 Alberta's mature reservoirs exhibit properties uniquely suited for institutional underwriting.
 
@@ -216,7 +224,11 @@ The appropriate decision-making lens is based on structural alignment rather tha
 
 1. Identify sectors with capital scarcity and operational transparency. 
 
-2. Assess technical mechanics to determine durability and downside resilience. 
+2. Assess 
+
+## TECHNICAL MECHANICS
+
+ to determine durability and downside resilience. 
 
 3. Evaluate the partnership architecture to ensure governance depth and operational competence. 
 

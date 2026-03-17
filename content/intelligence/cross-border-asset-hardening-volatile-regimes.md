@@ -82,7 +82,11 @@ We do not chase yield.
 
 We chase enforceability.
 
-That is the regime shift. # Asset hardening is not branding.
+That is 
+
+## THE REGIME SHIFT
+
+. # Asset hardening is not branding.
 
 It is mechanics.
 

@@ -50,7 +50,11 @@ Preserve the ability to buy distressed assets when others are forced into liquid
 
 Everything else is a derivative of these principles. 
 
-2. ## ## ## TECHNICAL MECHANICS : THE "HOW" OF PRESERVATION Institutional preservation relies on specific mechanical levers.
+2. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ : THE "HOW" OF PRESERVATION Institutional preservation relies on specific mechanical levers.
 
 The depth of these levers separates principal level thinking from allocator level abstraction. 2.1 Strategic Collateralization Across Multi Tranche Structures Institutional Liquidity Paths is the discipline of constructing capital stacks where liquidity does not depend on maturity events.
 
@@ -224,7 +228,11 @@ It must be structured, not exposed.
 
 It must be engineered, not left to market whims. 
 
-5. ## ## ## CONCLUSION : STRUCTURAL CLOSURE Capital preservation for 2026 and beyond is an engineering discipline.
+5. ## ## ## 
+
+## CONCLUSION
+
+ : STRUCTURAL CLOSURE Capital preservation for 2026 and beyond is an engineering discipline.
 
 It is the deliberate organization of cash flow, collateral, regulatory posture, and liquidity pathways to ensure that capital remains productive regardless of market volatility.
 

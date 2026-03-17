@@ -10,7 +10,11 @@ Order is not an option.
 
 It is the prerequisite for all solvency. ## PHASE 
 
-1. ## ## ## THE REGIME SHIFT A structural gap has opened in the private credit cycle.
+1. ## ## ## 
+
+## THE REGIME SHIFT
+
+ A structural gap has opened in the private credit cycle.
 
 Banks withdrew from middle-market lending due to capital ratio pressure and regulatory drag.
 
@@ -22,7 +26,9 @@ Few price liquidity.
 
 Even fewer understand that liquidity is a collateral class in its own right when engineered correctly.
 
-The regime shift is defined by one fact.
+## THE REGIME SHIFT
+
+ is defined by one fact.
 
 Capital now follows information density, not term sheets.
 
@@ -52,9 +58,17 @@ Order emerges when collateral operates as a liquidity engine rather than as a st
 
 That is the pivot in this environment.
 
-That is the regime shift. ## PHASE 
+That is 
 
-2. ## ## ## TECHNICAL MECHANICS Collateralized liquidity begins with a clear technical hierarchy.
+## THE REGIME SHIFT
+
+. ## PHASE 
+
+2. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ Collateralized liquidity begins with a clear technical hierarchy.
 
 Most lenders invert the hierarchy.
 
@@ -148,7 +162,11 @@ They do not reward speed alone.
 
 They reward engineered inevitability. ## PHASE 
 
-3. ## ## ## THE STRATEGIC MODEL Fund-III is not a fundraising event.
+3. ## ## ## THE 
+
+## STRATEGIC MODEL
+
+ Fund-III is not a fundraising event.
 
 It is a credibility signal.
 
@@ -156,7 +174,11 @@ Kapitalanskaffning at this level demands a strategic operating model that elimin
 
 UHNWIs and institutional LPs allocate to conviction, not potential.
 
-The strategic model must operate through three commitments: 
+The 
+
+## STRATEGIC MODEL
+
+ must operate through three commitments: 
 
 1. Precision deployment.
 
@@ -206,7 +228,11 @@ When MiFID II assets operate under liquidity scarcity, regulatory friction ampli
 
 When liquidity is engineered, regulatory friction becomes a competitive moat.
 
-The strategic model is not built on trust.
+The 
+
+## STRATEGIC MODEL
+
+ is not built on trust.
 
 It is built on data, velocity, and engineered control. ## PHASE 
 

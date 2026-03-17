@@ -10,7 +10,11 @@ The capital vacuum in North American and European private credit is not a functi
 
 It is the byproduct of regulatory realignment that has constrained traditional lenders while simultaneously expanding the demand for structured institutional debt.
 
-The result is a technical environment where risk is not elevated, but mispriced, and where allocators with the ability to operate across balance sheet structures are repositioning their mandates with greater precision and shorter feedback cycles. ## ## ## THE REGIME SHIFT Private credit has advanced from a peripheral asset class to a primary channel of institutional capital formation.
+The result is a technical environment where risk is not elevated, but mispriced, and where allocators with the ability to operate across balance sheet structures are repositioning their mandates with greater precision and shorter feedback cycles. ## ## ## 
+
+## THE REGIME SHIFT
+
+ Private credit has advanced from a peripheral asset class to a primary channel of institutional capital formation.
 
 As Basel III, IV, and the European CRR2 framework increased capital reserve burdens, bank lending became structurally constrained, particularly in sectors requiring asset intensive underwriting or operational remediation.
 
@@ -46,13 +50,19 @@ It has created a spread arbitrage for credit allocators who understand basin phy
 
 The stable cash flow profile of heavy oil assets in Alberta has reemerged as a risk minimizing anchor, contrary to the ESG narrative of the prior cycle.
 
-The regime shift is defined by one underlying principle.
+## THE REGIME SHIFT
+
+ is defined by one underlying principle.
 
 Risk has migrated away from credit fundamentals and toward allocator misunderstanding of structural incentives.
 
 Those who navigate private credit successfully in the current cycle do so by mapping the incentive geometry across operators, sponsors, and balance sheet participants.
 
-This is the analytical terrain where Roials Capital operates as a strategic introducer. ## ## ## TECHNICAL MECHANICS OF THE PRIVATE CREDIT RISK CALCULUS The institutional calculus of private credit risk cannot rely on conventional credit scoring or linear cash flow analysis.
+This is the analytical terrain where Roials Capital operates as a strategic introducer. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ OF THE PRIVATE CREDIT RISK CALCULUS The institutional calculus of private credit risk cannot rely on conventional credit scoring or linear cash flow analysis.
 
 The modern environment requires a multi axis analysis that integrates collateral physics, operational velocity, capital stack geometry, and covenant engineering.
 

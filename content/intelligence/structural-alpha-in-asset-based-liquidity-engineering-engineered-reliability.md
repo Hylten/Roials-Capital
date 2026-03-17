@@ -6,7 +6,11 @@ author: "Jonas Hyltén"
 slug: "structural-alpha-in-asset-based-liquidity-engineering-engineered-reliability"
 ---
 
-# Structural Alpha in Asset Based Capital Structuring Roials Capital Research Division ## Introduction Institutional credit markets evolve in cycles, yet the core mechanics of secured Institutional Liquidity Paths remain constant.
+# Structural Alpha in Asset Based Capital Structuring Roials Capital Research Division ## 
+
+## INTRODUCTION
+
+ Institutional credit markets evolve in cycles, yet the core mechanics of secured Institutional Liquidity Paths remain constant.
 
 Asset Based Strategic Collateralization sits at the intersection of collateral integrity, liquidity behaviour, and credit discipline.
 
@@ -198,7 +202,11 @@ Our frameworks prioritize:
 
 -  Risk compression mechanics These priorities drive resilience.
 
-Resilience is the source of confidence for institutional partners and borrowers alike. ## Conclusion Structural Alpha in Asset-Based Lending is not an abstraction.
+Resilience is the source of confidence for institutional partners and borrowers alike. ## 
+
+## CONCLUSION
+
+ Structural Alpha in Asset-Based Lending is not an abstraction.
 
 It is the measurable premium created when facility architecture governs behaviour, liquidity, and enforcement with surgical clarity.
 

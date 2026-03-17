@@ -10,7 +10,11 @@ The capital vacuum across North American and European lower mid market operators
 
 The current environment rewards allocators who understand that structural alpha is increasingly generated through balance sheet architecture rather than traditional equity selection.
 
-Engineered reliability inside Asset Based Liquidity Engineering has become one of the few persistent sources of non correlated value creation because it converts operational certainty into institutional grade optionality. ## ## ## THE REGIME SHIFT The post 2022 credit regime altered the foundations of liquidity distribution.
+Engineered reliability inside Asset Based Liquidity Engineering has become one of the few persistent sources of non correlated value creation because it converts operational certainty into institutional grade optionality. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The post 2022 credit regime altered the foundations of liquidity distribution.
 
 Banks moved from relationship lending to regulatory survival.
 
@@ -38,7 +42,11 @@ The inefficiency is structural because it originates from policy constraints rat
 
 Capital scarcity is incorrectly interpreted as risk.
 
-The disconnect creates an opportunity for disciplined liquidity engineers who can transform constrained balance sheets into hardened institutional grade assets. ## ## ## TECHNICAL MECHANICS OF ASSET BASED LIQUIDITY ENGINEERING Asset Based Liquidity Engineering is the disciplined process of extracting functionality, recoverability, and security value from operational assets that traditional lenders have undervalued.
+The disconnect creates an opportunity for disciplined liquidity engineers who can transform constrained balance sheets into hardened institutional grade assets. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ OF ASSET BASED LIQUIDITY ENGINEERING Asset Based Liquidity Engineering is the disciplined process of extracting functionality, recoverability, and security value from operational assets that traditional lenders have undervalued.
 
 Structural alpha arises not from leverage, but from efficient mapping of real economic value to financial architecture.
 
@@ -120,7 +128,11 @@ The mandate is to deliver institutional clarity, operator specific intelligence,
 
 This avoids model drift and ensures that engagements remain aligned with the allocator's risk profile, duration preferences, and mandate constraints. 
 
-2. Market Navigation In North American energy, Roials Capital maintains an institutional introduction partnership with NAEO, a group specializing in operationally disciplined heavy oil production across Alberta.
+2. Market Navigation In North American energy, Roials Capital maintains an institutional 
+
+## INTRODUCTION
+
+ partnership with NAEO, a group specializing in operationally disciplined heavy oil production across Alberta.
 
 The Alberta basin is fundamentally misunderstood by generalized capital, yet the physics of SAGD, CSS, and long life heavy oil yield predictable decline curves and stable cash conversion.
 
@@ -128,7 +140,11 @@ This makes the region uniquely suitable for structured credit and asset based op
 
 For allocators outside energy, Roials Capital provides navigation across European private credit, Nordic industrial services, and cross border ABL opportunities where capital scarcity enhances pricing power. 
 
-3. Institutional Introduction Roials Capital arranges introductions, not transactions.
+3. Institutional 
+
+## INTRODUCTION
+
+ Roials Capital arranges introductions, not transactions.
 
 The emphasis is on intelligence transfer, partner suitability, and operational congruence between allocators and operators.
 

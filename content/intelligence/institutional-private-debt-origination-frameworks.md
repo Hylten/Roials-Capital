@@ -20,9 +20,17 @@ The market has accepted this drift as normal.
 
 I do not.
 
-This briefing clarifies the regime shift, the mechanics that follow, and the institutional consequences for Fund-III and beyond. ## PHASE 
+This briefing clarifies 
 
-1. ## ## ## THE REGIME SHIFT The global private credit stack is moving into a scarcity regime.
+## THE REGIME SHIFT
+
+, the mechanics that follow, and the institutional consequences for Fund-III and beyond. ## PHASE 
+
+1. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The global private credit stack is moving into a scarcity regime.
 
 The shortage is not money.
 
@@ -74,7 +82,11 @@ The structural landscape confirms this.
 
 The next vintage belongs to the funds that replace intuition with architecture. ## PHASE 
 
-2. ## ## ## TECHNICAL MECHANICS Origination becomes institutional only when the mechanics are explicit.
+2. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ Origination becomes institutional only when the mechanics are explicit.
 
 No ambiguity.
 
@@ -156,7 +168,11 @@ Default probability compresses.
 
 Capital survives. ## PHASE 
 
-3. ## ## ## THE STRATEGIC MODEL Fund-III origination must reflect an architecture, not an appetite.
+3. ## ## ## THE 
+
+## STRATEGIC MODEL
+
+ Fund-III origination must reflect an architecture, not an appetite.
 
 The model is built on four pillars.
 

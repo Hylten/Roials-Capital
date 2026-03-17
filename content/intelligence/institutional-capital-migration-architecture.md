@@ -12,7 +12,11 @@ This single structural reality is now influencing the broader institutional allo
 
 Capital migration has entered a new regime defined by operational scarcity, regulatory fragmentation, balance sheet deterioration in legacy sponsors, and an increasing preference for hard collateral over narrative driven growth. ## PHASE 
 
-1. ## ## ## THE REGIME SHIFT Institutional allocators are no longer adjusting portfolios according to traditional business cycle indicators.
+1. ## ## ## 
+
+## THE REGIME SHIFT
+
+ Institutional allocators are no longer adjusting portfolios according to traditional business cycle indicators.
 
 The shift is structural and driven by three dominant forces that now override tactical economic signals. 
 
@@ -44,7 +48,11 @@ Institutional capital migration is therefore no longer cyclical.
 
 It is motivated by structural constraints: deglobalization, supply chain regionalization, infrastructure fatigue, and the reduction of institutional liquidity buffers. ## PHASE 
 
-2. ## ## ## TECHNICAL MECHANICS OF CAPITAL MIGRATION Capital does not move randomly.
+2. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ OF CAPITAL MIGRATION Capital does not move randomly.
 
 It migrates along structural gradients shaped by regulatory velocity, collateral transparency, operational predictability, and integration capacity.
 
@@ -116,7 +124,9 @@ The decline of legacy institutional participation created an extended period of 
 
 Production assets with stable decline curves and decades of reservoir mapping are now mispriced relative to operational risk.
 
-Technical mechanics that drive new migration flows include: 
+## TECHNICAL MECHANICS
+
+ that drive new migration flows include: 
 
 -  predictable recovery factors in SAGD 
 

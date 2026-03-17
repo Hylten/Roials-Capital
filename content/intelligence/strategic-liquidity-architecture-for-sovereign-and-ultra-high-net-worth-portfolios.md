@@ -58,7 +58,11 @@ We operate for HNWI and UHNW individuals because they understand that liquidity 
 
 We maintain silent authority because real capital does not require noise.
 
-It requires architecture. ## Conclusion Strategic liquidity is not the pursuit of cash.
+It requires architecture. ## 
+
+## CONCLUSION
+
+ Strategic liquidity is not the pursuit of cash.
 
 It is the pursuit of control.
 

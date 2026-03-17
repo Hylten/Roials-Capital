@@ -10,7 +10,11 @@ The capital vacuum in North American private credit is the result of covenant co
 
 Allocators observing the current lending regime are identifying a persistent structural dislocation: liquidity is scarce in the segments where cash flow predictability is highest and capital discipline is most measurable.
 
-This asymmetry is creating a technical environment where controlled liquidity architecture drives structural alpha more reliably than traditional rate arbitrage. ## ## ## THE REGIME SHIFT The private credit market entered 2026 under a configuration defined by three reinforcing forces.
+This asymmetry is creating a technical environment where controlled liquidity architecture drives structural alpha more reliably than traditional rate arbitrage. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The private credit market entered 2026 under a configuration defined by three reinforcing forces.
 
 The first is balance sheet contraction across commercial banks driven by risk recalibration and slower regulatory approvals.
 
@@ -38,7 +42,11 @@ Fund-III capital formation aligns with this environment.
 
 Buyouts and add-ons that once relied on blended bank syndication now require precision engineered private facilities to maintain transaction momentum.
 
-The allocator lens has shifted: the strength of the underwriting framework now determines the risk profile more than market volatility does. ## ## ## TECHNICAL MECHANICS OF CONTROLLED LIQUIDITY Controlled liquidity architecture is the discipline of designing capital flows that remain tethered to measurable operating mechanics.
+The allocator lens has shifted: the strength of the underwriting framework now determines the risk profile more than market volatility does. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ OF CONTROLLED LIQUIDITY Controlled liquidity architecture is the discipline of designing capital flows that remain tethered to measurable operating mechanics.
 
 The objective is not yield maximization but stability creation through structural seniority, risk insulation, and predictable amortization.
 

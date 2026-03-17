@@ -132,7 +132,11 @@ The era of universal collateralization.
 
 The era of frictionless liquidity.
 
-The era of sovereign capital autonomy. ## Conclusion The future of sovereign capital infrastructure belongs to those who understand that capital is no longer defined by possession, but by architecture.
+The era of sovereign capital autonomy. ## 
+
+## CONCLUSION
+
+ The future of sovereign capital infrastructure belongs to those who understand that capital is no longer defined by possession, but by architecture.
 
 Private credit.
 

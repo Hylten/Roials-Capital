@@ -270,7 +270,11 @@ The architecture of global liquidity is evolving.
 
 Private credit is one of its primary design tools.
 
-Institutions that understand this shift will shape the next cycle rather than react to it. ## Conclusion Private credit and liquidity are now permanently linked.
+Institutions that understand this shift will shape the next cycle rather than react to it. ## 
+
+## CONCLUSION
+
+ Private credit and liquidity are now permanently linked.
 
 Private credit delivers liquidity that is engineered, not incidental.
 

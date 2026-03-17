@@ -60,7 +60,11 @@ And it ensures that the asset, once hardened, behaves according to design rather
 
 For high net worth and ultra high net worth individuals, control is the true currency.
 
-Yield is the instrument that delivers that control. ## Conclusion: Yield as the Foundation of Durable Capital Asset hardening is not decorative language.
+Yield is the instrument that delivers that control. ## 
+
+## CONCLUSION
+
+: Yield as the Foundation of Durable Capital Asset hardening is not decorative language.
 
 It is a functional necessity for large balance sheets operating within complex markets.
 

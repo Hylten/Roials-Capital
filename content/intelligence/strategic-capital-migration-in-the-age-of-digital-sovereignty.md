@@ -218,7 +218,11 @@ This is not for the general market.
 
 It is for those who operate with institutional expectations and global time horizons.
 
-It is for those who treat liquidity as strategy, not reaction. ## Conclusion Strategic capital migration is no longer optional.
+It is for those who treat liquidity as strategy, not reaction. ## 
+
+## CONCLUSION
+
+ Strategic capital migration is no longer optional.
 
 It is the defining mechanism of modern wealth governance.
 

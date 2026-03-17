@@ -32,13 +32,21 @@ Covenants are the connective tissue.
 
 When these three are not engineered as one unified organism, the facility decays, spreads inefficiency, and drags down the GP's capacity to deploy into higher velocity situations.
 
-This is the regime shift that is now reshaping private credit and Asset-Based Lending.
+This is 
+
+## THE REGIME SHIFT
+
+ that is now reshaping private credit and Asset-Based Lending.
 
 Capital is expensive.
 
 Time is even more expensive.
 
-And inefficiency is unforgivable. ## ## ## THE REGIME SHIFT The market has transitioned from a leverage cycle to a collateral cycle.
+And inefficiency is unforgivable. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The market has transitioned from a leverage cycle to a collateral cycle.
 
 The previous decade rewarded funds that maximized dry powder and deployed into growth narratives.
 
@@ -84,7 +92,11 @@ Fund-III strategies depend on it, because the LP base has matured.
 
 They do not reward theory.
 
-They reward precision. ## ## ## TECHNICAL MECHANICS The mechanics of collateralized liquidity rest on three structural levers.
+They reward precision. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ The mechanics of collateralized liquidity rest on three structural levers.
 
 Lever 1: LTV curvature.
 
@@ -162,7 +174,11 @@ If it surprises to the downside, the GP has violated fiduciary logic.
 
 Collateralized liquidity becomes an art form when these mechanics converge.
 
-At that point, the fund can lend into complexity that other lenders avoid because they cannot see the internal liquidity geometry of the borrower. ## ## ## THE STRATEGIC MODEL Fund-III requires a hybrid capital architecture.
+At that point, the fund can lend into complexity that other lenders avoid because they cannot see the internal liquidity geometry of the borrower. ## ## ## THE 
+
+## STRATEGIC MODEL
+
+ Fund-III requires a hybrid capital architecture.
 
 It must raise institutional capital for buyouts and add-ons.
 

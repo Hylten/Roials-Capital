@@ -12,7 +12,11 @@ The capital vacuum in North American energy and mid market private credit is the
 
 It is structural.
 
-The allocators who adapt their strategic allocation models to these conditions achieve durability not through velocity, but through disciplined architecture of capital, cash flow, and liquidity. ## ## ## THE REGIME SHIFT The 2020 to 2026 transition period produced a material break in allocator behavior.
+The allocators who adapt their strategic allocation models to these conditions achieve durability not through velocity, but through disciplined architecture of capital, cash flow, and liquidity. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The 2020 to 2026 transition period produced a material break in allocator behavior.
 
 The global allocator base shifted from expansionary models to risk neutral and capital preservation structures due to four systemic pressures. 
 
@@ -52,7 +56,11 @@ The allocator is durability oriented.
 
 Capital is being deployed into structures that reward long horizon patience and penalize valuation speculation.
 
-Fund-III strategies, North American energy operating companies, and private credit structures aligned with asset hardening now occupy the center of this allocation map. ## ## ## TECHNICAL MECHANICS The architecture of durable capital is built through the integration of three technical engines: buyout sequencing, liquidity engineering, and real asset throughput.
+Fund-III strategies, North American energy operating companies, and private credit structures aligned with asset hardening now occupy the center of this allocation map. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ The architecture of durable capital is built through the integration of three technical engines: buyout sequencing, liquidity engineering, and real asset throughput.
 
 Each has its own recovery mechanics and structural conditions.
 

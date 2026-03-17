@@ -16,7 +16,11 @@ As traditional banks have retreated from middle-market Capital Structuring due t
 
 3. **Deeper Due Diligence:** The bilateral or small-club nature of these transactions allows for more profound access to management teams and enterprise data. ## Macroeconomic Tailwinds In a prolonged higher-for-longer interest rate environment, floating-rate private credit instruments offer a natural hedge against inflation.
 
-Furthermore, the sheer weight of dry powder in private equity points to a sustained need for robust financing solutions to support LBO activity, recapitalizations, and add-on acquisitions. # ## Key Focus Areas for 2026 * **Healthcare Infrastructure:** Mission-critical services with inelastic demand profiles. * **B2B Software:** High-margin enterprises with recurring revenue models and low capital intensity. * **Industrial Services:** Defensive businesses essential to supply chain resilience. ## Conclusion At Roials Capital, we believe that navigating this environment requires more than capital deployment; it necessitates operational integration and precise risk architecture.
+Furthermore, the sheer weight of dry powder in private equity points to a sustained need for robust financing solutions to support LBO activity, recapitalizations, and add-on acquisitions. # ## Key Focus Areas for 2026 * **Healthcare Infrastructure:** Mission-critical services with inelastic demand profiles. * **B2B Software:** High-margin enterprises with recurring revenue models and low capital intensity. * **Industrial Services:** Defensive businesses essential to supply chain resilience. ## 
+
+## CONCLUSION
+
+ At Roials Capital, we believe that navigating this environment requires more than capital deployment; it necessitates operational integration and precise risk architecture.
 
 The middle market is not merely a segment of private credit; it is the arena where alpha is systematically constructed. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
 

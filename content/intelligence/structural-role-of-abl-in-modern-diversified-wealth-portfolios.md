@@ -14,7 +14,11 @@ Within this environment, Asset Based Lending has re emerged as a stabilizing mec
 
 Modern diversified wealth portfolios increasingly rely on ABL not for yield, but for structural balance.
 
-It anchors the liquidity spine that enables efficient participation in buyout programs such as Fund-III, supports add on velocity, and creates a cross regime cushion in environments where allocators face compressed spreads, elongated exit cycles, and international allocation constraints. ## ## ## THE REGIME SHIFT Institutional allocators now operate within a tri regime macro landscape.
+It anchors the liquidity spine that enables efficient participation in buyout programs such as Fund-III, supports add on velocity, and creates a cross regime cushion in environments where allocators face compressed spreads, elongated exit cycles, and international allocation constraints. ## ## ## 
+
+## THE REGIME SHIFT
+
+ Institutional allocators now operate within a tri regime macro landscape.
 
 Each regime imposes distinct pressure points on portfolio construction. 
 
@@ -42,7 +46,11 @@ ABL provides the counterbalancing mechanism, creating alignment between long dur
 
 The essential observation: diversified wealth portfolios are moving toward a dual rail model where long duration capital deployment is supported by short duration balance sheet optimization.
 
-ABL is the instrument that bridges these rails without introducing correlation drag. ## ## ## TECHNICAL MECHANICS OF ASSET BASED LENDING Institutional grade ABL is defined by five core mechanics.
+ABL is the instrument that bridges these rails without introducing correlation drag. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ OF ASSET BASED LENDING Institutional grade ABL is defined by five core mechanics.
 
 When integrated into multi asset portfolios, these mechanics create operational resilience. 
 

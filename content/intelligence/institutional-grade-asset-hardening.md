@@ -10,7 +10,11 @@ Order does not appear by accident.
 
 It is engineered through constraints, enforced through governance, and preserved by capital structures that cannot fracture under volatility. ## PHASE 
 
-1. ## ## ## THE REGIME SHIFT The structural gap is silent but absolute.
+1. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The structural gap is silent but absolute.
 
 Large allocators are overexposed to duration risk inside legacy credit vehicles while simultaneously underexposed to real-asset backed cash-flow engines with controlled impairment windows.
 
@@ -54,7 +58,11 @@ This is why asset hardening is not a technique.
 
 It is a regime. ## PHASE 
 
-2. ## ## ## TECHNICAL MECHANICS Liquidity must obey the mechanics of collateral.
+2. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ Liquidity must obey the mechanics of collateral.
 
 Every asset class transmits stress differently.
 
@@ -138,7 +146,11 @@ The technical stack must include:
 
 Capital must never carry assets that cannot carry themselves. ## PHASE 
 
-3. ## ## ## THE STRATEGIC MODEL Velocity is nothing without control.
+3. ## ## ## THE 
+
+## STRATEGIC MODEL
+
+ Velocity is nothing without control.
 
 Control is nothing without structure.
 

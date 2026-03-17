@@ -20,7 +20,11 @@ What follows is an institutional framework for understanding why capital moves, 
 
 The purpose is not solicitation.
 
-The purpose is clarity for allocators calibrating exposures ahead of a multi year balance sheet recalibration cycle. ## ## ## THE REGIME SHIFT Institutional allocators are operating in an era where legacy portfolio models underperform the real economy they were designed to mirror.
+The purpose is clarity for allocators calibrating exposures ahead of a multi year balance sheet recalibration cycle. ## ## ## 
+
+## THE REGIME SHIFT
+
+ Institutional allocators are operating in an era where legacy portfolio models underperform the real economy they were designed to mirror.
 
 The shift can be divided into four interacting forces: 
 
@@ -56,9 +60,15 @@ This is why North American heavy oil has reentered institutional conversations.
 
 Not as a commodity trade, but as a quantifiable productive asset class.
 
-The regime shift establishes the foundation for capital migration: institutions are prioritizing operational visibility over growth narratives.
+## THE REGIME SHIFT
 
-Migration follows transparency. ## ## ## TECHNICAL MECHANICS OF CAPITAL MIGRATION Institutional capital migration does not occur randomly.
+ establishes the foundation for capital migration: institutions are prioritizing operational visibility over growth narratives.
+
+Migration follows transparency. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ OF CAPITAL MIGRATION Institutional capital migration does not occur randomly.
 
 It follows defined mechanical triggers inside allocator decision systems.
 
@@ -112,7 +122,15 @@ Allocators migrate toward transparency.
 
 Waterfalls provide it.
 
-ENERGY: ## ## ## TECHNICAL MECHANICS OF THE ALBERTA BASIN North American energy, specifically the Alberta basin, operates with technical mechanics that are not widely understood by generalist allocators.
+ENERGY: ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ OF THE ALBERTA BASIN North American energy, specifically the Alberta basin, operates with 
+
+## TECHNICAL MECHANICS
+
+ that are not widely understood by generalist allocators.
 
 This lack of understanding is the reason the sector remains undercapitalized relative to its operational durability.
 
@@ -166,7 +184,15 @@ Market navigation requires translating noise into actionable structural intellig
 
 Roials Capital delivers institutional clarity around buyout sequences for Fund-III managers, Monetization Architecture structures in private credit, and technical exposure in the Alberta basin through NAEO. 
 
--  Institutional Introduction The introduction process is not a transaction.
+-  Institutional 
+
+## INTRODUCTION
+
+ The 
+
+## INTRODUCTION
+
+ process is not a transaction.
 
 It is a mapping exercise.
 

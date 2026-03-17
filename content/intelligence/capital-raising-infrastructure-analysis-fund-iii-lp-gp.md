@@ -12,7 +12,11 @@ It is the direct product of regulatory drift that has compressed traditional ban
 
 The allocators who understand this shift are not searching for incremental yield.
 
-They are architecting positions inside supply constrained capital stacks where technical underwriting and operational control determine the risk surface more than the coupon. ## ## ## THE REGIME SHIFT The global capital environment in 2026 is defined by three interacting forces that shape every GP and LP decision pathway: 
+They are architecting positions inside supply constrained capital stacks where technical underwriting and operational control determine the risk surface more than the coupon. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The global capital environment in 2026 is defined by three interacting forces that shape every GP and LP decision pathway: 
 
 1. Regulatory Friction Bank capital adequacy requirements in the US, EU, and UK have reduced deployable credit availability.
 
@@ -38,7 +42,11 @@ The result is a new capital regime.
 
 Allocators no longer evaluate funds solely based on past performance.
 
-They evaluate the strategic architecture of capital access, liquidity structuring, and cross-border compliance alignment. ## ## ## TECHNICAL MECHANICS OF CAPITAL RAISING INFRASTRUCTURE FOR Fund-III STRATEGIES A Fund-III environment is fundamentally different from Fund-I or Fund-II.
+They evaluate the strategic architecture of capital access, liquidity structuring, and cross-border compliance alignment. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ OF CAPITAL RAISING INFRASTRUCTURE FOR Fund-III STRATEGIES A Fund-III environment is fundamentally different from Fund-I or Fund-II.
 
 The requirements shift from opportunistic execution toward institutional systematization.
 
@@ -82,11 +90,19 @@ It is a timing mechanism that increases opportunity velocity and reduces the ope
 
 The MiFID II acquisition channel in Europe, the Alberta-based NAEOC partnership channel in North America, and the Middle East private office ecosystem each operate under different rule sets.
 
-A Fund-III GP must provide allocators with a compliance architecture that protects them across borders while preserving deal certainty. ## ## ## THE STRATEGIC MODEL AND THE ROLE OF ROIALS CAPITAL As a strategic navigator and introducer, ROIALS CAPITAL does not function as a fund manager.
+A Fund-III GP must provide allocators with a compliance architecture that protects them across borders while preserving deal certainty. ## ## ## THE 
+
+## STRATEGIC MODEL
+
+ AND THE ROLE OF ROIALS CAPITAL As a strategic navigator and introducer, ROIALS CAPITAL does not function as a fund manager.
 
 Its institutional role is to construct the architecture through which sophisticated LPs, GPs, and private credit funds align. 
 
-1. Institutional Introduction Infrastructure This includes the calibration of GP positioning, the mapping of LP mandates, and the creation of compatibility matrices that identify structural alignment across risk appetite, jurisdiction, and operational focus. 
+1. Institutional 
+
+## INTRODUCTION
+
+ Infrastructure This includes the calibration of GP positioning, the mapping of LP mandates, and the creation of compatibility matrices that identify structural alignment across risk appetite, jurisdiction, and operational focus. 
 
 2. Capital Stack Engineering The function is to provide technical intelligence on capital stack formation.
 
@@ -144,7 +160,11 @@ It is an operating system for capital management. ## ## PHASE 5: DECISION-MAKING
 
 4. Stewardship Integrity Does the GP operate with disciplined capital usage, structural conservatism, and a stewardship-based governance model. 
 
-5. Alignment Potential Is there a definable pathway for strategic alignment through an Institutional Introduction, Portfolio Calibration, or Confidential Strategy Audit that verifies compatibility at the operational and jurisdictional levels.
+5. Alignment Potential Is there a definable pathway for strategic alignment through an Institutional 
+
+## INTRODUCTION
+
+, Portfolio Calibration, or Confidential Strategy Audit that verifies compatibility at the operational and jurisdictional levels.
 
 Allocators who evaluate through this lens strengthen their position within the emerging capital regime and secure alignment with partners capable of navigating complex acquisition cycles. [END OF BRIEFING] # ## TECHNICAL MANDATE Qualification Gates strictly observed.
 

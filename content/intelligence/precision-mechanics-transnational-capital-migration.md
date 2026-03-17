@@ -12,7 +12,11 @@ Capital is not searching for higher returns.
 
 Capital is searching for operational intelligibility and jurisdictional stability.
 
-The vacuum forming in North American energy is a predictable byproduct of this divergence, and allocators that understand the mechanics of transnational flow routing are positioning their Fund-III and Fund-IV vehicles to intercept dislocated assets before the next consolidation cycle sets in. ## ## ## THE REGIME SHIFT Since 2021, the global allocator map has fractured into three definable regulatory archetypes. 
+The vacuum forming in North American energy is a predictable byproduct of this divergence, and allocators that understand the mechanics of transnational flow routing are positioning their Fund-III and Fund-IV vehicles to intercept dislocated assets before the next consolidation cycle sets in. ## ## ## 
+
+## THE REGIME SHIFT
+
+ Since 2021, the global allocator map has fractured into three definable regulatory archetypes. 
 
 1. North America: Capital vacuums created by ESG mispricing and policy instability have slowed upstream investment and restricted credit to middle tier operators.
 
@@ -28,7 +32,11 @@ Capital is abundant but structurally inhibited from entering real asset environm
 
 Their priority is not velocity, but certainty of technical performance.
 
-This is the regime shift that defines the 2026 institutional cycle.
+This is 
+
+## THE REGIME SHIFT
+
+ that defines the 2026 institutional cycle.
 
 The allocator must navigate three separate regulatory languages while pursuing a unified mandate for durable cash flow.
 
@@ -64,7 +72,11 @@ In private credit, the migration pattern is similar.
 
 European lenders are tightening loan-to-value tolerances, US lenders are tightening covenant packages, and Gulf entities are prioritizing secured exposures with operational visibility.
 
-This triangulates demand for institutional grade Fund-III structures capable of absorbing and redeploying cross-border allocations with minimal regulatory friction. ## ## ## TECHNICAL MECHANICS The precision mechanics of this migration are observable across three operational domains.
+This triangulates demand for institutional grade Fund-III structures capable of absorbing and redeploying cross-border allocations with minimal regulatory friction. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ The precision mechanics of this migration are observable across three operational domains.
 
 DOMAIN 1: Fund-III Kapitalanskaffning for Buyouts and Add-ons Fund-III structures are absorbing displaced capital due to their ability to institutionalize exposures across multiple jurisdictions without triggering regulatory conflicts.
 

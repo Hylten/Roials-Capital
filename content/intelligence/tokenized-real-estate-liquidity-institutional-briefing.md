@@ -14,7 +14,11 @@ Tokenized real estate is not a speculative instrument.
 
 It is a structural evolution in the transmission mechanics of ownership, custody, and settlement. ## PHASE 
 
-1. ## ## ## THE REGIME SHIFT Global allocators have entered an environment defined by duration mismatch, regulatory tightening, and capital stack compression.
+1. ## ## ## 
+
+## THE REGIME SHIFT
+
+ Global allocators have entered an environment defined by duration mismatch, regulatory tightening, and capital stack compression.
 
 Real estate has carried the largest load of this shift because the asset class historically intermediated liquidity through paper-based claims, trustee layers, and jurisdictionally fragmented registries.
 
@@ -42,7 +46,11 @@ Tokenized real estate entered this regime as a structural response, not an innov
 
 It directly aligns with the global allocator’s requirement for traceability, settlement certainty, and cross-jurisdictional regulatory synchronization. ## PHASE 
 
-2. ## ## ## TECHNICAL MECHANICS Tokenized real estate is the conversion of property-linked claims into blockchain-verified digital units.
+2. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ Tokenized real estate is the conversion of property-linked claims into blockchain-verified digital units.
 
 It is not a cryptocurrency.
 
@@ -108,7 +116,11 @@ It is structural.
 
 Roials Capital focuses on: 
 
--  Institutional Introduction Connecting allocators to platforms capable of meeting regulatory, custodial, and reporting standards across US, EU, CH, and Dubai jurisdictions. 
+-  Institutional 
+
+## INTRODUCTION
+
+ Connecting allocators to platforms capable of meeting regulatory, custodial, and reporting standards across US, EU, CH, and Dubai jurisdictions. 
 
 -  Alignment Mapping Assessing how tokenization integrates with the allocator’s existing exposure to buyouts, private credit, and real assets. 
 

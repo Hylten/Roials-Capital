@@ -18,7 +18,11 @@ In the current capital regime, allocators navigating Fund-III and later vehicles
 
 The objective is not yield generation.
 
-The objective is predictability and sovereign level stability inside private markets. ## ## ## THE REGIME SHIFT Institutional allocators are operating inside a post abundant capital cycle where leverage is selectively available rather than universally accessible.
+The objective is predictability and sovereign level stability inside private markets. ## ## ## 
+
+## THE REGIME SHIFT
+
+ Institutional allocators are operating inside a post abundant capital cycle where leverage is selectively available rather than universally accessible.
 
 The long duration liquidity that defined the 2010 to 2021 window has been replaced by a structurally rationed environment shaped by five forces. 
 
@@ -46,7 +50,11 @@ Heavy oil reservoirs in Alberta, when engineered under SAGD or CSS methodologies
 
 This is the central counter intuitive truth shaping institutional flows in 
 
-2026. ## ## ## TECHNICAL MECHANICS OF ASSET HARDENING Asset hardening is the institutional discipline of transforming operational consistency into capital structure resilience.
+2026. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ OF ASSET HARDENING Asset hardening is the institutional discipline of transforming operational consistency into capital structure resilience.
 
 The mechanics differ based on sector, but the underlying objective is uniform.
 

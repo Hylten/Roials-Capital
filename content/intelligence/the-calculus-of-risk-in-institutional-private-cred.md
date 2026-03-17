@@ -214,7 +214,11 @@ If the answer is no, the liquidity facility is rejected.
 
 If the answer is yes, terms are quantified.
 
-If the answer is absolute, capital deploys. ## Conclusion.
+If the answer is absolute, capital deploys. ## 
+
+## CONCLUSION
+
+.
 
 The Institutional Mandate for the Next Decade The calculus of risk in institutional private credit is entering a new era. 
 

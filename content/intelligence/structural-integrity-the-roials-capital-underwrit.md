@@ -366,7 +366,11 @@ These structures amplify:
 
 -  risk insulation We do not advertise them.
 
-We evaluate who earns access. # Conclusion ## Structural Integrity Is the Differentiator Markets reward order.
+We evaluate who earns access. # 
+
+## CONCLUSION
+
+ ## Structural Integrity Is the Differentiator Markets reward order.
 
 Capital rewards structure.
 

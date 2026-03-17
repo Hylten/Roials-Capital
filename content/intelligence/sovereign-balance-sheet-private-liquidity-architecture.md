@@ -16,7 +16,11 @@ It is driven by the operational discipline of mature decline curves, high-certai
 
 The following briefing outlines the structural regime shift shaping institutional capital formation, the mechanics of Alberta’s high-certainty heavy oil systems, the partnership-model architecture applied by Roials Capital, and the stewardship framework that governs capital deployment.
 
-The objective is to equip allocators with a calibration tool for sovereign-grade balance sheet engineering, particularly for Fund-III+ buyouts, energy-backed mandates, and liquidity engineering structures anchored in real operational throughput. ## ## ## THE REGIME SHIFT North American private markets have entered a bifurcated regime defined by a divergence between asset needs and capital availability.
+The objective is to equip allocators with a calibration tool for sovereign-grade balance sheet engineering, particularly for Fund-III+ buyouts, energy-backed mandates, and liquidity engineering structures anchored in real operational throughput. ## ## ## 
+
+## THE REGIME SHIFT
+
+ North American private markets have entered a bifurcated regime defined by a divergence between asset needs and capital availability.
 
 This divergence originates from three accelerants. 
 
@@ -46,7 +50,11 @@ Direct lenders avoid hydrocarbon exposure.
 
 Allocators seeking convexity must therefore pair private credit structures with operational assets that offer measurable deliverability.
 
-This creates the modern architecture for buyouts, ABL frameworks, and energy-secured mandates that can function inside an institutional-grade sovereign balance sheet. ## ## ## TECHNICAL MECHANICS The Alberta energy landscape is a repository of high-predictability recovery systems that operate through thermal and horizontal extraction techniques.
+This creates the modern architecture for buyouts, ABL frameworks, and energy-secured mandates that can function inside an institutional-grade sovereign balance sheet. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ The Alberta energy landscape is a repository of high-predictability recovery systems that operate through thermal and horizontal extraction techniques.
 
 Understanding these systems is essential for any allocator calibrating risk, throughput, and collateral stability.
 
@@ -114,7 +122,11 @@ The role is to align institutional allocators with operational partners that mee
 
 The partnership model integrates three axes.
 
-Axis one is institutional introduction.
+Axis one is institutional 
+
+## INTRODUCTION
+
+.
 
 Roials Capital identifies operators with measurable credibility in reservoir management, production optimization, and capital discipline.
 

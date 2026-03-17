@@ -10,7 +10,11 @@ The liquidity deficit across global private markets is the direct outcome of cap
 
 From 2023 through 2026, Asset Based Lending has shifted from a niche credit instrument into a structural pillar for institutional allocators seeking controlled liquidity, insulated volatility, and predictable asset conversion.
 
-In environments where duration risk, rate stickiness, and collateral valuation opacity challenge traditional underwriting, ABL has reemerged as the operational mechanism that converts hard collateral into strategic optionality. ## ## ## THE REGIME SHIFT Institutional allocators are operating in a three vector capital environment shaped by regulatory divergence, maturity bottlenecks, and asset pricing recalibration.
+In environments where duration risk, rate stickiness, and collateral valuation opacity challenge traditional underwriting, ABL has reemerged as the operational mechanism that converts hard collateral into strategic optionality. ## ## ## 
+
+## THE REGIME SHIFT
+
+ Institutional allocators are operating in a three vector capital environment shaped by regulatory divergence, maturity bottlenecks, and asset pricing recalibration.
 
 Private credit has absorbed the credit migration from regional banks, yet the majority of deal flow is concentrated in cash flow underwriting rather than collateral first underwriting.
 
@@ -44,7 +48,11 @@ At the same time, energy markets in Alberta, where our strategic partner NAEO op
 
 This vacuum reinforces the importance of ABL dynamics because a significant portion of Western Canadian energy assets are collateral rich but capital starved.
 
-In these environments, collateral orientation produces higher technical visibility than cash flow underwriting. ## ## ## TECHNICAL MECHANICS OF ABL AS A STRATEGIC PORTFOLIO COMPONENT Institutional allocators engage ABL because the mechanics are grounded in asset conversion, not cash flow speculation.
+In these environments, collateral orientation produces higher technical visibility than cash flow underwriting. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ OF ABL AS A STRATEGIC PORTFOLIO COMPONENT Institutional allocators engage ABL because the mechanics are grounded in asset conversion, not cash flow speculation.
 
 The structure prioritizes quantifiable collateral, deterministic valuation methods, and real asset recoverability.
 
@@ -112,7 +120,11 @@ THE PARTNERSHIP MODEL Roials Capital functions as a neutral institutional naviga
 
 -  Tertiary: Strategic mandates including North American energy (NAEOC 50M to 250M), MiFID II aligned European acquisitions, and Gulf allocation pathways.
 
-The partnership model operates through institutional introduction rather than distribution.
+The partnership model operates through institutional 
+
+## INTRODUCTION
+
+ rather than distribution.
 
 The objective is to position allocators adjacent to the right structures and counterparties.
 

@@ -22,7 +22,11 @@ The shallow investor seeks yield.
 
 The sovereign builder seeks permanence.
 
-Permanence is engineered. [ ## ## ## THE REGIME SHIFT ] Private markets no longer reward opportunism.
+Permanence is engineered. [ ## ## ## 
+
+## THE REGIME SHIFT
+
+ ] Private markets no longer reward opportunism.
 
 They reward structure.
 
@@ -70,7 +74,11 @@ This is the new regime.
 
 Asset-Backed Frameworks is no longer an auxiliary discipline.
 
-It is the determinant of institutional survival. [ ## ## ## TECHNICAL MECHANICS ] Precision begins with capital flow design.
+It is the determinant of institutional survival. [ ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ ] Precision begins with capital flow design.
 
 The sovereign architecture is a cash flow machine built on measurable parameters.
 
@@ -148,7 +156,11 @@ Higher utilisation is desperation disguised as growth.
 
 Lower utilisation is idle capital.
 
-Neither is stewardship. [ ## ## ## THE STRATEGIC MODEL ] Sovereign architecture is not a structure.
+Neither is stewardship. [ ## ## ## THE 
+
+## STRATEGIC MODEL
+
+ ] Sovereign architecture is not a structure.
 
 It is an operating philosophy.
 
@@ -158,7 +170,11 @@ Short sentence.
 
 Cycles do not negotiate.
 
-The strategic model for Fund-III requires asymmetry.
+The 
+
+## STRATEGIC MODEL
+
+ for Fund-III requires asymmetry.
 
 The asymmetry comes from capital raising capacity.
 

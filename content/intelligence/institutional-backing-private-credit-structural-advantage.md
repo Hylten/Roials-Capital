@@ -12,7 +12,11 @@ It is not a reflection of declining asset quality.
 
 Institutional allocators are observing a regime where the withdrawal of commercial banks has opened a durable technical gap that favors specialized balance sheets capable of underwriting complexity rather than volume.
 
-This environment elevates the strategic utility of institutional backing because the credit ecosystem has transitioned from commoditized spreads to technical outcome engineering. ## ## ## THE REGIME SHIFT The global private credit market has entered a new macro regime shaped by three structural drivers. 
+This environment elevates the strategic utility of institutional backing because the credit ecosystem has transitioned from commoditized spreads to technical outcome engineering. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The global private credit market has entered a new macro regime shaped by three structural drivers. 
 
 1. Regulatory friction Basel III endgame requirements have reduced bank appetite for non-standardized credit exposures.
 
@@ -32,7 +36,11 @@ These conditions have created a durable arbitrage where institutional backing is
 
 Institutional balance sheets can support long-duration credit exposure, undertake cross-collateralization, apply dynamic covenants, and integrate Asset-Backed Frameworks tools unavailable to traditional lenders.
 
-The shift is structural, not cyclical. ## ## ## TECHNICAL MECHANICS OF PRIVATE CREDIT UNDER INSTITUTIONAL BACKING Institutional backing modifies the mechanics of private credit across three primary axes: capital stack architecture, underwriting precision, and operational integration. 
+The shift is structural, not cyclical. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ OF PRIVATE CREDIT UNDER INSTITUTIONAL BACKING Institutional backing modifies the mechanics of private credit across three primary axes: capital stack architecture, underwriting precision, and operational integration. 
 
 1. Capital stack architecture Institutional lenders build structures optimized for portfolio durability rather than regulatory conformity.
 

@@ -20,7 +20,11 @@ Fund-III operates inside this structural inflection point where multi asset hard
 
 Traditional energy, middle market private credit, digital assets, and regulated tokenized collateral are no longer discrete silos.
 
-They form a single liquidity architecture that defines opportunity velocity, transaction certainty, and capital stack stability. ## ## ## THE REGIME SHIFT Institutional allocators are navigating three converging forces. 
+They form a single liquidity architecture that defines opportunity velocity, transaction certainty, and capital stack stability. ## ## ## 
+
+## THE REGIME SHIFT
+
+ Institutional allocators are navigating three converging forces. 
 
 1. Regulatory Realignment Basel III endgame has reweighted how banks classify Level 2B and uncorrelated collateral.
 
@@ -46,7 +50,11 @@ This enables conservative institutions to treat digital assets as operational li
 
 Fund-III therefore does not view digital assets as a vertical.
 
-They function as a liquidity layer that supports broader acquisition pipelines across buyouts, add ons, and sector consolidations. ## ## ## TECHNICAL MECHANICS The integration of digital assets into Capital Structuring is driven by hard mechanics, not thematic narratives.
+They function as a liquidity layer that supports broader acquisition pipelines across buyouts, add ons, and sector consolidations. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ The integration of digital assets into Capital Structuring is driven by hard mechanics, not thematic narratives.
 
 The following frameworks define the structural logic applied within Fund-III.
 
@@ -152,7 +160,11 @@ Roials Capital does not promote these assets.
 
 It orchestrates their integration.
 
-The role is technical guidance, institutional introduction, and structural alignment.
+The role is technical guidance, institutional 
+
+## INTRODUCTION
+
+, and structural alignment.
 
 Our strategic partner NAEO functions as the institutional anchor within the Alberta energy landscape, providing the heavy asset backbone that complements the liquid digital layer. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship in capital architecture is not an ethical accessory.
 

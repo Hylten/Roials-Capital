@@ -16,7 +16,11 @@ They are navigating operating regimes.
 
 Every decision point has shifted toward collateral integrity, cash flow stability, and the ability to deploy liquidity into real economy assets with definable recovery mechanics. ## PHASE 
 
-1. ## ## ## THE REGIME SHIFT Private credit in 2026 operates within a recalibrated monetary and regulatory environment shaped by three irreversible forces: hardened capital requirements, institutional risk repricing, and the strategic disengagement of commercial banks from middle market exposures.
+1. ## ## ## 
+
+## THE REGIME SHIFT
+
+ Private credit in 2026 operates within a recalibrated monetary and regulatory environment shaped by three irreversible forces: hardened capital requirements, institutional risk repricing, and the strategic disengagement of commercial banks from middle market exposures.
 
 The structural retreat of traditional lenders is not cyclical.
 
@@ -36,7 +40,11 @@ Market tightening has increased the value of structurally senior claims, while a
 
 The result is a regime defined by capital scarcity relative to asset robustness, where liquidity has outsized pricing power and underwriting discipline is rewarded through access to collaterally overbuilt opportunities. ## PHASE 
 
-2. ## ## ## TECHNICAL MECHANICS The new private credit architecture is defined by four primary dynamics: capital stack reconfiguration, covenants as operational control mechanisms, collateral centric structuring, and multi jurisdictional Strategic Collateralization. 
+2. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ The new private credit architecture is defined by four primary dynamics: capital stack reconfiguration, covenants as operational control mechanisms, collateral centric structuring, and multi jurisdictional Strategic Collateralization. 
 
 1. Capital Stack Reconfiguration Fund-III buyouts increasingly rely on private credit structures that integrate multiple layers of seniority.
 

@@ -16,7 +16,11 @@ It has become a primary determinant of institutional resilience.
 
 The allocator who navigates this regime shift with structural clarity will preserve optionality while enhancing opportunity velocity across Buyouts, Asset-Based Lending, and real asset exposures. ## PHASE 
 
-1. ## ## ## THE REGIME SHIFT The transition from a decade of surplus liquidity to a structurally constrained environment has altered the opportunity set for allocators.
+1. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The transition from a decade of surplus liquidity to a structurally constrained environment has altered the opportunity set for allocators.
 
 Traditional lenders have retreated due to higher regulatory capital requirements, slower underwriting cycles, and tightening risk parameters.
 
@@ -40,7 +44,11 @@ Each category operates under different risk parameters, yet all share one common
 
 Balance sheet flexibility is the institutional advantage. ## PHASE 
 
-2. ## ## ## TECHNICAL MECHANICS OF MULTI ASSET LIQUIDITY Multi asset liquidity refers to the coordinated management of capital sources, collateral profiles, and cash flow timing across different investment domains.
+2. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ OF MULTI ASSET LIQUIDITY Multi asset liquidity refers to the coordinated management of capital sources, collateral profiles, and cash flow timing across different investment domains.
 
 It is not a traditional diversification strategy.
 

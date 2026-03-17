@@ -16,7 +16,11 @@ That mismatch defines the current regime.
 
 It punishes slow mandates.
 
-It rewards engineered velocity. ## ## ## THE REGIME SHIFT Most allocators still treat digital liquidity as an exotic sleeve instead of infrastructure.
+It rewards engineered velocity. ## ## ## 
+
+## THE REGIME SHIFT
+
+ Most allocators still treat digital liquidity as an exotic sleeve instead of infrastructure.
 
 That misconception allows inefficiency to metastasize inside portfolios.
 
@@ -82,7 +86,11 @@ They architect systems instead of outsourcing them.
 
 The result is agency.
 
-The result is precision. ## ## ## TECHNICAL MECHANICS Institutional Liquidity Paths follows principles, not narratives.
+The result is precision. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ Institutional Liquidity Paths follows principles, not narratives.
 
 The market offers several primitives.
 
@@ -178,7 +186,11 @@ Crypto collateral can be staked, lent, hedged, tokenized, or rehypothecated with
 
 The allocator who controls mobility unlocks synthetic liquidity without overextending leverage.
 
-The allocator who ignores mobility pays the opportunity cost of idle capital. ## ## ## THE STRATEGIC MODEL The Firm builds institutional architecture for Fund-III capital formation.
+The allocator who ignores mobility pays the opportunity cost of idle capital. ## ## ## THE 
+
+## STRATEGIC MODEL
+
+ The Firm builds institutional architecture for Fund-III capital formation.
 
 The mandate is simple.
 
@@ -190,7 +202,11 @@ Harden collateral.
 
 Increase certainty of execution for buyouts and add-ons.
 
-The strategic model operates through three pillars.
+The 
+
+## STRATEGIC MODEL
+
+ operates through three pillars.
 
 Pillar One.
 

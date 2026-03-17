@@ -16,7 +16,11 @@ The divergence is measurable.
 
 It has become one of the most powerful sources of balance sheet optimization available to institutional allocators navigating the 2026 landscape. ## PHASE 
 
-1. ## ## ## THE REGIME SHIFT Institutional allocators have entered an era defined by capital efficiency rather than capital abundance.
+1. ## ## ## 
+
+## THE REGIME SHIFT
+
+ Institutional allocators have entered an era defined by capital efficiency rather than capital abundance.
 
 From Frankfurt to Dubai, balance sheets are now evaluated by their capacity to generate optionality rather than their gross asset value.
 
@@ -46,7 +50,11 @@ This macro backdrop has driven a regime in which capital efficiency is no longer
 
 It is the governing principle of modern balance sheet design. ## PHASE 
 
-2. ## ## ## TECHNICAL MECHANICS Capital efficiency in 2026 is measured through structural mechanics rather than headline yield.
+2. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ Capital efficiency in 2026 is measured through structural mechanics rather than headline yield.
 
 The most resilient allocators recalibrate their balance sheets across three technical vectors: Core Holdings Leverage, Capital Structuring, and Hard Asset Introductions. 
 

@@ -12,7 +12,11 @@ This dislocation reflects regulatory inertia rather than systemic weakness in un
 
 Institutional allocators now operate in an environment where the most stable credit signals originate from operationally mature sectors with mechanical visibility of cash generation.
 
-Private credit has shifted from a peripheral complement to the primary architecture of corporate liquidity. ## ## ## THE REGIME SHIFT The global credit system has entered a non cyclical restructuring phase.
+Private credit has shifted from a peripheral complement to the primary architecture of corporate liquidity. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The global credit system has entered a non cyclical restructuring phase.
 
 The drivers are not transient.
 
@@ -52,7 +56,11 @@ Private credit is no longer opportunistic capital.
 
 It is structural capital.
 
-The shift is permanent because the bank withdrawal is not reversible under Basel IV conditions. ## ## ## TECHNICAL MECHANICS OF THE NEW PRIVATE CREDIT ARCHITECTURE The 2026 private credit landscape is defined by structural refinement.
+The shift is permanent because the bank withdrawal is not reversible under Basel IV conditions. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ OF THE NEW PRIVATE CREDIT ARCHITECTURE The 2026 private credit landscape is defined by structural refinement.
 
 Allocators are no longer seeking generic yield.
 

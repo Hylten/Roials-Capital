@@ -284,7 +284,11 @@ Families who maintain asset based credit lines have the ability to:
 
 Liquidity without visibility is the core of silent authority.
 
-Roials Capital is built for that environment. ## Conclusion Asset based Capital Structuring is not a tactic.
+Roials Capital is built for that environment. ## 
+
+## CONCLUSION
+
+ Asset based Capital Structuring is not a tactic.
 
 It is an architectural discipline.
 

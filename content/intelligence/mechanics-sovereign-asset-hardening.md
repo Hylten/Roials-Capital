@@ -20,7 +20,11 @@ Heavy oil development in Alberta, classical buyout platforms in stable mid marke
 
 The common thread is not sector specific.
 
-It is structural: the progression from unsecured optionality to hardened, collateral rich, covenant governed balance sheets. ## ## ## THE REGIME SHIFT The post 2020 capital landscape reflects a movement from speculative capital abundance to scarcity driven selectivity.
+It is structural: the progression from unsecured optionality to hardened, collateral rich, covenant governed balance sheets. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The post 2020 capital landscape reflects a movement from speculative capital abundance to scarcity driven selectivity.
 
 Allocators with sovereign scale have observed three forces that now define the institutional operating regime. 
 
@@ -52,7 +56,11 @@ The strategy is not centered on growth.
 
 It is centered on resilience, cross cycle continuity, and institutional portability.
 
-Allocators are increasingly securing exposure to real cash flow, collateral anchored balance sheets, and operating platforms that retain control under volatile funding conditions. ## ## ## TECHNICAL MECHANICS OF SOVEREIGN ASSET HARDENING Sovereign Asset Hardening is the conversion of otherwise cyclical or leverage sensitive assets into long horizon, institutional grade holdings.
+Allocators are increasingly securing exposure to real cash flow, collateral anchored balance sheets, and operating platforms that retain control under volatile funding conditions. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ OF SOVEREIGN ASSET HARDENING Sovereign Asset Hardening is the conversion of otherwise cyclical or leverage sensitive assets into long horizon, institutional grade holdings.
 
 The core mechanics fall into three domains. 
 

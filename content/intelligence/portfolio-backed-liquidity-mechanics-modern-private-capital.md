@@ -10,7 +10,11 @@ The capital vacuum in private markets did not emerge from declining opportunity 
 
 It emerged from structural congestion created by regulatory tightening, higher base rates, and the retreat of traditional lenders from middle market exposures.
 
-The resulting distortion has made portfolio backed liquidity one of the most important instruments for allocators seeking to preserve operational continuity, accelerate add on sequencing, and reinforce balance sheet resilience without diluting strategic control. ## ## ## THE REGIME SHIFT The post 2022 capital regime introduced a new pricing logic across North American and European private markets.
+The resulting distortion has made portfolio backed liquidity one of the most important instruments for allocators seeking to preserve operational continuity, accelerate add on sequencing, and reinforce balance sheet resilience without diluting strategic control. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The post 2022 capital regime introduced a new pricing logic across North American and European private markets.
 
 The previous decade allowed general partners to rely on covenant light structures, cheap leverage, and undisciplined refinancing pathways.
 
@@ -36,9 +40,15 @@ Strategies that rely on external refinancing markets for continuation are struct
 
 Strategies that utilize portfolio backed liquidity to stabilize cash flows and accelerate add on sequencing maintain operational control and attract more consistent institutional capital.
 
-The regime shift has created an environment where middle market buyout platforms are capital constrained not because of deal scarcity but because of balance sheet friction.
+## THE REGIME SHIFT
 
-The absence of flexible liquidity has become a limiting factor on opportunity velocity, not origination capacity. ## ## ## TECHNICAL MECHANICS OF PORTFOLIO BACKED LIQUIDITY Portfolio backed liquidity is not a monolithic category.
+ has created an environment where middle market buyout platforms are capital constrained not because of deal scarcity but because of balance sheet friction.
+
+The absence of flexible liquidity has become a limiting factor on opportunity velocity, not origination capacity. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ OF PORTFOLIO BACKED LIQUIDITY Portfolio backed liquidity is not a monolithic category.
 
 It is a multi tool used by allocators and general partners to transition from static capital structures to dynamic balance sheet architectures.
 
@@ -230,7 +240,11 @@ Roials Capital provides this through a confidential strategy audit focused on:
 
 -  Cross platform balance sheet optimization. 
 
--  Institutional introduction mapping. 
+-  Institutional 
+
+## INTRODUCTION
+
+ mapping. 
 
 -  Portfolio calibration across jurisdictions.
 

@@ -10,7 +10,11 @@ The capital vacuum in North American private markets is the predictable outcome 
 
 This vacuum is not a signal of deteriorating asset quality.
 
-It reflects a misalignment between liquidity supply and operational demand across the Fund-III archetype, where acquisition velocity, platform integration, and balance sheet normalization require a form of liquidity that traditional credit channels cannot deliver with precision. ## ## ## THE REGIME SHIFT The current environment is defined by capital scarcity relative to operational needs, not capital scarcity relative to opportunity.
+It reflects a misalignment between liquidity supply and operational demand across the Fund-III archetype, where acquisition velocity, platform integration, and balance sheet normalization require a form of liquidity that traditional credit channels cannot deliver with precision. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The current environment is defined by capital scarcity relative to operational needs, not capital scarcity relative to opportunity.
 
 Across United States and European private markets, allocators observe three convergent distortions. 
 
@@ -44,7 +48,11 @@ This structural dislocation is the entry point for strategic partners such as NA
 
 The allocator is navigating a global market where opportunity velocity is high, yet liquidity precision is low.
 
-This is the environment in which Asset-Backed Frameworks transforms from a tactical tool to a strategic necessity. ## ## ## TECHNICAL MECHANICS OF INSTITUTIONAL Capital Structuring Monetization Architecture in institutional settings is the disciplined architecture of off balance sheet liquidity, structured seniority, collateral isolation, and cash flow predictability.
+This is the environment in which Asset-Backed Frameworks transforms from a tactical tool to a strategic necessity. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ OF INSTITUTIONAL Capital Structuring Monetization Architecture in institutional settings is the disciplined architecture of off balance sheet liquidity, structured seniority, collateral isolation, and cash flow predictability.
 
 Roials Capital applies a standardized protocol built around four core mechanics. 
 
@@ -112,7 +120,11 @@ THE PARTNERSHIP MODEL The Roials Capital model is structurally different from tr
 
 The firm does not act as a lender or asset owner.
 
-The role is institutional introduction, strategic alignment, and transaction navigation. 
+The role is institutional 
+
+## INTRODUCTION
+
+, strategic alignment, and transaction navigation. 
 
 1. Capital Acquisition for Fund-III This is the dominant mandate.
 

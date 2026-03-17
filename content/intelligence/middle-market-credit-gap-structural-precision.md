@@ -12,7 +12,11 @@ It is the direct outcome of regulatory drift that has removed traditional lender
 
 As liquidity exits the $25M to $350M corporate tranche, the provisioning gap expands into a structural arbitrage zone.
 
-Allocators with disciplined underwriting frameworks now observe a market where pricing power has shifted decisively to non-bank institutions, yet underwriting standards remain anchored in conservative cash flow analysis. ## ## ## THE REGIME SHIFT The post-2021 monetary cycle initiated a multi-year recalibration in credit availability.
+Allocators with disciplined underwriting frameworks now observe a market where pricing power has shifted decisively to non-bank institutions, yet underwriting standards remain anchored in conservative cash flow analysis. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The post-2021 monetary cycle initiated a multi-year recalibration in credit availability.
 
 Bank participation in middle market lending declined as compliance burdens, stress testing, and capital reserve requirements shifted internal risk models upward.
 
@@ -34,7 +38,11 @@ Borrowers seeking rational terms encounter dislocated pricing landscapes where n
 
 Canada’s domestic banking oligopoly amplifies the scarcity premium in non-bank private credit, while the United States shows fragmentation that benefits agile allocators with cross-jurisdictional execution capability.
 
-This regime shift has created a stable, multi-year opportunity zone for capital providers capable of navigating covenant architecture, protecting seniority through structural design, and interfacing with sponsors who understand the long-term nature of disciplined capital partnerships. ## ## ## TECHNICAL MECHANICS Middle market private credit operates most efficiently where capital structures are engineered with precision.
+This regime shift has created a stable, multi-year opportunity zone for capital providers capable of navigating covenant architecture, protecting seniority through structural design, and interfacing with sponsors who understand the long-term nature of disciplined capital partnerships. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ Middle market private credit operates most efficiently where capital structures are engineered with precision.
 
 The ability to harden collateral, improve covenant rigidity, and integrate multi-layered protections defines institutional-grade execution.
 

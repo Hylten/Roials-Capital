@@ -10,7 +10,11 @@ The capital vacuum across North American and European credit markets is a struct
 
 Basel IV, regional banking consolidation, and supervisory tightening have created an environment where traditional lenders maintain balance sheet exposure but cannot transition sufficient capital into middle-market and asset-backed credit.
 
-The result is a dual-track financing regime: banks maintain settlement infrastructure while private credit funds deliver actual liquidity. ## ## ## THE REGIME SHIFT Institutional allocators have observed that the most active parts of the credit ecosystem no longer reside inside the regulated banking sector.
+The result is a dual-track financing regime: banks maintain settlement infrastructure while private credit funds deliver actual liquidity. ## ## ## 
+
+## THE REGIME SHIFT
+
+ Institutional allocators have observed that the most active parts of the credit ecosystem no longer reside inside the regulated banking sector.
 
 Traditional banks operate within mandatory risk-weighted frameworks that reduce their ability to engage in middle-market leverage, sponsor-backed buyouts, or high-velocity acquisition financing.
 
@@ -40,7 +44,11 @@ The modern liquidity regime operates on the principle that institutional capital
 
 This is not a temporary anomaly.
 
-It is the structural architecture of the next decade. ## ## ## TECHNICAL MECHANICS Institutional private credit functions through engineered liquidity stacks that prioritize seniority, collateral recovery, and cash flow predictability.
+It is the structural architecture of the next decade. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ Institutional private credit functions through engineered liquidity stacks that prioritize seniority, collateral recovery, and cash flow predictability.
 
 Unlike traditional lenders constrained by uniform underwriting matrices, private credit funds design capital structures based on asset-level intelligence and sector-specific operating data.
 

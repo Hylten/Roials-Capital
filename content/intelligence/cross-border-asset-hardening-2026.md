@@ -16,7 +16,11 @@ This environment is central to the broader theme of cross-border asset hardening
 
 As global allocators recalibrate portfolios in response to inflation persistence, currency dispersion, and political fragmentation, the requirement is no longer simple diversification.
 
-The dominant requirement is structural resilience: assets that maintain intrinsic value across legal jurisdictions, regulatory cycles, and commodity volatilities while providing predictable operational intelligence. ## ## ## THE REGIME SHIFT Global allocators have entered a regime where volatility is structural, not cyclical.
+The dominant requirement is structural resilience: assets that maintain intrinsic value across legal jurisdictions, regulatory cycles, and commodity volatilities while providing predictable operational intelligence. ## ## ## 
+
+## THE REGIME SHIFT
+
+ Global allocators have entered a regime where volatility is structural, not cyclical.
 
 The capital landscape of 2026 is defined by six interlocking transitions: 
 
@@ -44,7 +48,11 @@ The Alberta heavy oil corridor, in particular, demonstrates a pronounced structu
 
 Investor sentiment does not match geological risk profiles, regulatory predictability, or the physical necessity of heavy oil in the global refining system.
 
-This is the core inefficiency leveraged by institutional frameworks such as those utilized by Roials Capital and its strategic partner NAEO. ## ## ## TECHNICAL MECHANICS OF ASSET HARDENING Asset hardening in volatile markets is an engineering discipline.
+This is the core inefficiency leveraged by institutional frameworks such as those utilized by Roials Capital and its strategic partner NAEO. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ OF ASSET HARDENING Asset hardening in volatile markets is an engineering discipline.
 
 It combines cross-border legal structuring, physical asset validation, and financial architecture to create a position that is resilient under stress.
 

@@ -332,7 +332,11 @@ It does not reward speed without clarity.
 
 It does not subsidize disorganization.
 
-A sovereign balance sheet is the only credible architecture for the next cycle. ## Principal Conclusion The sovereign balance sheet is engineered.
+A sovereign balance sheet is the only credible architecture for the next cycle. ## Principal 
+
+## CONCLUSION
+
+ The sovereign balance sheet is engineered.
 
 Not assembled.
 

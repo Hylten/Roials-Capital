@@ -10,7 +10,11 @@ The capital vacuum in North America’s real asset environment is an outcome of 
 
 For institutional allocators preparing for a 5B+ governance review, the determinant factor is not sector selection but the architectural integrity of the capital stack.
 
-Asset hardening has become the institutional archetype that separates scalable platforms from episodic deal operators. ## ## ## THE REGIME SHIFT Institutional boards across the United States, the Nordics, Central Europe, and the Gulf are converging on a single question of mandate certainty.
+Asset hardening has become the institutional archetype that separates scalable platforms from episodic deal operators. ## ## ## 
+
+## THE REGIME SHIFT
+
+ Institutional boards across the United States, the Nordics, Central Europe, and the Gulf are converging on a single question of mandate certainty.
 
 The shift is driven by four macro variables: structurally constrained bank lending, rising capital charges under Basel IV, persistent energy underinvestment since 2015, and a reversion to physical collateral as the anchor of credit formation.
 
@@ -26,7 +30,11 @@ The environment can be summarized as follows.
 
 This regime shift favors platforms that can articulate the mathematics of risk segregation.
 
-For LPs and GPs stewarding Fund-III+ scale vehicles, the path to board approval requires a disciplined demonstration of capital hardening across operating subsidiaries and acquisition programs. ## ## ## TECHNICAL MECHANICS Institutional allocators do not evaluate opportunities through thematic enthusiasm.
+For LPs and GPs stewarding Fund-III+ scale vehicles, the path to board approval requires a disciplined demonstration of capital hardening across operating subsidiaries and acquisition programs. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ Institutional allocators do not evaluate opportunities through thematic enthusiasm.
 
 The gatekeeping layer focuses on structural resilience under stress, and the primary tools of assessment are LTV curves, collateral quality, cash flow predictability, asset encumbrance discipline, and capital stack modularity.
 
@@ -88,7 +96,11 @@ THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator.
 
 The function is not fund management.
 
-It is institutional alignment and technical introduction.
+It is institutional alignment and technical 
+
+## INTRODUCTION
+
+.
 
 For energy mandates, this includes connecting allocators with NAEO, an execution partner with the operational depth required to convert Alberta geology into institutionally compliant structures.
 

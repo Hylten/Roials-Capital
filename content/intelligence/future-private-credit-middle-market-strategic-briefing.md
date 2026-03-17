@@ -14,7 +14,11 @@ The outcome is a structurally persistent gap in credit formation that is materia
 
 Middle market private credit has therefore transitioned from a peripheral yield enhancer to an architectural pillar of institutional portfolios. ## PHASE 
 
-1. ## ## ## THE REGIME SHIFT Private credit is now defined less by opportunity seeking and more by dislocation harvesting.
+1. ## ## ## 
+
+## THE REGIME SHIFT
+
+ Private credit is now defined less by opportunity seeking and more by dislocation harvesting.
 
 Bank retrenchment is not cyclical.
 
@@ -66,7 +70,11 @@ Institutional allocators are no longer experimenting with the asset class.
 
 They are building long horizon exposure and integrating dedicated private credit sleeves into overall portfolio design. ## PHASE 
 
-2. ## ## ## TECHNICAL MECHANICS OF THE ASSET CLASS Middle market private credit is not monolithic.
+2. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ OF THE ASSET CLASS Middle market private credit is not monolithic.
 
 It is a mosaic of structural approaches, each defined by risk seniority, collateral intensity, and cash flow behavior. 
 

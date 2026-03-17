@@ -20,7 +20,11 @@ The objective is to provide institutional level clarity on the mechanisms, filte
 
 The analysis is clinically centered on three domains that dominate current allocator attention: Kapitalanskaffning for Buyout and Add on execution, Liquidity Engineering through ABL and hybrid security structures, and Special Mandates that connect North American energy opportunities with European MiFID II compliant family capital. ## PHASE 
 
-1. ## ## ## THE REGIME SHIFT 2026 is defined by a shift away from credit markets based on generic risk tranching.
+1. ## ## ## 
+
+## THE REGIME SHIFT
+
+ 2026 is defined by a shift away from credit markets based on generic risk tranching.
 
 A decade of under underwriting in essential industries has created a misalignment between available capital and productive capital.
 
@@ -44,7 +48,11 @@ This created an environment where strategic private credit has become a core gov
 
 The convergence of energy supply tightness, reduced public market capital access, and a global shift toward bilateral lending has elevated the relevance of specialized credit partners who can operate across jurisdictions, asset classes, and industrial cycles. ## PHASE 
 
-2. ## ## ## TECHNICAL MECHANICS .
+2. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ .
 
 ALBERTA’S ENERGY STRUCTURE The Alberta basin represents one of the most misunderstood reservoirs in global markets.
 
@@ -104,7 +112,11 @@ The model operates through three core tracks: Capital Formation.
 
 Approximately 80 percent of mandates center on Kapitalanskaffning for buyouts and add on sequences.
 
-This includes alignment with lower mid market sponsors, family backed operators, and independent sponsors who require institutional capital introduction for Fund-III and beyond.
+This includes alignment with lower mid market sponsors, family backed operators, and independent sponsors who require institutional capital 
+
+## INTRODUCTION
+
+ for Fund-III and beyond.
 
 The work is clinical: operational due diligence, balance sheet mapping, and institutional archetype identification.
 
@@ -196,7 +208,11 @@ The purpose is not access.
 
 It is filtration, calibration, and operational intelligence.
 
-Roials Capital operates within this framework, providing allocators with the strategic context required to assess opportunities without promotional distortion.
+Roials Capital operates within this framework, providing allocators with 
+
+## THE STRATEGIC CONTEXT
+
+ required to assess opportunities without promotional distortion.
 
 Allocators seeking to calibrate their portfolios across private credit, energy aligned assets, and cross border acquisition strategies increasingly request confidential strategy audits.
 
@@ -204,6 +220,8 @@ These audits are not sales interactions.
 
 They are structural assessments that align capital architecture with long term objectives, operational risk tolerance, and jurisdictional constraints.
 
-The regime shift is permanent.
+## THE REGIME SHIFT
+
+ is permanent.
 
 The operators who understand the mechanics of modern credit architecture will shape the next cycle of capital formation.

@@ -16,7 +16,11 @@ This mismatch between geological certainty and capital availability is the found
 
 Allocators who understand this regime shift are not making directional price bets.
 
-They are structuring long horizon liquidity architectures around known decline curves, established recovery systems, and disciplined operational partners. ## ## ## THE REGIME SHIFT Over the last decade, the North American energy sector has transitioned from a volume driven growth cycle into a capital constrained efficiency regime.
+They are structuring long horizon liquidity architectures around known decline curves, established recovery systems, and disciplined operational partners. ## ## ## 
+
+## THE REGIME SHIFT
+
+ Over the last decade, the North American energy sector has transitioned from a volume driven growth cycle into a capital constrained efficiency regime.
 
 Public markets have systemically discounted upstream operators due to policy risk, climate mandates, and index exclusion.
 
@@ -58,7 +62,11 @@ These forces create a predictable capital inefficiency that sophisticated alloca
 
 It is not a temporary mispricing.
 
-It is a structural shift that will define the next two decades of North American energy financing. ## ## ## TECHNICAL MECHANICS OF THE ALBERTA ENERGY STRUCTURE Alberta remains one of the most technically mature and geologically stable basins globally.
+It is a structural shift that will define the next two decades of North American energy financing. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ OF THE ALBERTA ENERGY STRUCTURE Alberta remains one of the most technically mature and geologically stable basins globally.
 
 Unlike unconventional shale, thermal heavy oil production follows engineered recovery curves rather than pressure driven depletion dynamics.
 
@@ -134,7 +142,11 @@ Roials Capital operates as a strategic navigator inside this environment.
 
 The function is not asset management.
 
-The function is Institutional Introduction and Allocation Architecture. 
+The function is Institutional 
+
+## INTRODUCTION
+
+ and Allocation Architecture. 
 
 1. Counterparty Verification.
 

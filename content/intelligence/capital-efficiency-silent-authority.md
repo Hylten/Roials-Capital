@@ -50,7 +50,11 @@ LPs reward managers who operate without friction.
 
 The market no longer pays for potential.
 
-It pays for architecture. ## ## ## THE REGIME SHIFT The transition from low-rate elasticity to high-rate discipline has created a technical bifurcation.
+It pays for architecture. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The transition from low-rate elasticity to high-rate discipline has created a technical bifurcation.
 
 Managers who operated through spread arbitrage alone are now exposed.
 
@@ -88,7 +92,11 @@ Silent authority is the ability to act before competitors notice pressure points
 
 The firms that understand these gaps build balance sheets that do not react.
 
-They lead. ## ## ## TECHNICAL MECHANICS Capital efficiency is not an abstract virtue.
+They lead. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ Capital efficiency is not an abstract virtue.
 
 It is mechanical.
 
@@ -156,7 +164,11 @@ It enables:
 
 -  covenant-neutral liquidity bands 
 
--  asset-level repositioning without cross-default risk Institutional power is the ability to act without signalling. ## ## ## THE STRATEGIC MODEL Fund-III capital formation rewards the disciplined allocator.
+-  asset-level repositioning without cross-default risk Institutional power is the ability to act without signalling. ## ## ## THE 
+
+## STRATEGIC MODEL
+
+ Fund-III capital formation rewards the disciplined allocator.
 
 The path to capital authority requires a three-part architecture. 
 

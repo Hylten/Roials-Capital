@@ -202,7 +202,11 @@ Not public.
 
 Not speculative.
 
-Built for those who manage real weight. ## Conclusion Private credit will continue to expand.
+Built for those who manage real weight. ## 
+
+## CONCLUSION
+
+ Private credit will continue to expand.
 
 Sovereign wealth will continue to dominate.
 

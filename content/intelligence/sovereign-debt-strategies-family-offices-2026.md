@@ -12,7 +12,11 @@ The 2026 regime presents a paradox: nominal yields signal normalization while ba
 
 Family offices that traditionally treated sovereign exposure as a passive ballast are now encountering a fundamentally different risk geometry.
 
-This briefing outlines a clinical, institutional framework for how UHNW family offices are restructuring sovereign allocations to enhance liquidity architecture, reinforce duration discipline, and create a dynamic interface between sovereign debt and private market deployment, particularly ahead of Fund-III commitments, acquisition-oriented private credit, and European MiFID II governed mandates. ## ## ## THE REGIME SHIFT 2026 is characterized by three structural forces that influence sovereign debt behavior: 
+This briefing outlines a clinical, institutional framework for how UHNW family offices are restructuring sovereign allocations to enhance liquidity architecture, reinforce duration discipline, and create a dynamic interface between sovereign debt and private market deployment, particularly ahead of Fund-III commitments, acquisition-oriented private credit, and European MiFID II governed mandates. ## ## ## 
+
+## THE REGIME SHIFT
+
+ 2026 is characterized by three structural forces that influence sovereign debt behavior: 
 
 -  The deceleration of global disinflation relative to policy rate persistence. 
 
@@ -40,7 +44,11 @@ The current regime reclassifies sovereign debt into functional categories:
 
 Family offices that navigate this regime shift with discipline avoid the historic error of treating sovereigns as a binary choice.
 
-Instead, they integrate sovereign exposure directly into their capital rotation model, creating fluidity between safe collateral and higher return private allocations without violating prudential boundaries. ## ## ## TECHNICAL MECHANICS OF SOVEREIGN LIQUIDITY ARCHITECTURE Sovereign debt strategies in 2026 require precision in duration alignment, collateral potential, and jurisdictional risk.
+Instead, they integrate sovereign exposure directly into their capital rotation model, creating fluidity between safe collateral and higher return private allocations without violating prudential boundaries. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ OF SOVEREIGN LIQUIDITY ARCHITECTURE Sovereign debt strategies in 2026 require precision in duration alignment, collateral potential, and jurisdictional risk.
 
 The following mechanics define the institutional decision framework. 
 

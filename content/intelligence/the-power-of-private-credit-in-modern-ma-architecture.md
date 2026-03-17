@@ -166,7 +166,11 @@ ROIALS CAPITAL is positioned at this intersection.
 
 Not as an alternative lender.
 
-As a structural architect for modern liquidity. ## Conclusion The power of private credit in M&A does not come from leverage.
+As a structural architect for modern liquidity. ## 
+
+## CONCLUSION
+
+ The power of private credit in M&A does not come from leverage.
 
 It comes from clarity, speed, and structural authority.
 

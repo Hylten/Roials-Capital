@@ -12,7 +12,11 @@ Institutional allocators navigating 2026 face a regime where capital scarcity, o
 
 The mandate of discrete capital deployment is central to this environment because fragmented balance sheets, constrained credit markets, and deglobalized supply lines require allocators to deploy with precision, not scale.
 
-The forward regime favors surgical balance sheet alignment, not broad beta exposure. ## ## ## THE REGIME SHIFT The macro energy landscape has entered a multi percentage inverted capital cycle.
+The forward regime favors surgical balance sheet alignment, not broad beta exposure. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The macro energy landscape has entered a multi percentage inverted capital cycle.
 
 For over a decade, North American conventional heavy oil, particularly in Alberta, has been disciplined by external narratives that suppressed capital inflows regardless of asset quality.
 
@@ -62,7 +66,11 @@ The buyout ecosystem demands non public capital sources willing to underwrite op
 
 Discrete capital deployment emerges as the appropriate mandate across energy, buyouts, and special situations.
 
-Allocators who deploy episodically, with clear operational filters, achieve a superior risk profile compared to generalized exposure strategies. ## ## ## TECHNICAL MECHANICS North American Energy Operators Consortium (NAEO) provides a technical window into the Alberta basin that is difficult to access without operator adjacency.
+Allocators who deploy episodically, with clear operational filters, achieve a superior risk profile compared to generalized exposure strategies. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ North American Energy Operators Consortium (NAEO) provides a technical window into the Alberta basin that is difficult to access without operator adjacency.
 
 The Alberta heavy oil region benefits from geological predictability, particularly within the Cold Lake, Lloydminster, and Wabasca formations.
 
@@ -148,7 +156,11 @@ The focus is on alignment between sponsor strategy and capital provider appetite
 
 Discrete capital deployment requires that capital be raised only for transactions that meet operational thresholds, not for generalized dry powder accumulation.
 
-The special mandates division extends into cross jurisdictional acquisitions under EU MiFID II, where institutional buyers require structured introduction pathways to avoid regulatory friction.
+The special mandates division extends into cross jurisdictional acquisitions under EU MiFID II, where institutional buyers require structured 
+
+## INTRODUCTION
+
+ pathways to avoid regulatory friction.
 
 These engagements involve operational assessments, balance sheet calibration, and deal sequencing frameworks that allow buyers to navigate complex regulatory environments with precision.
 

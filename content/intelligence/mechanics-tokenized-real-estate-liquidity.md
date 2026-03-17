@@ -30,7 +30,15 @@ The firms that dominate the next cycle are not the ones who hold the most proper
 
 They are the firms that control the liquidity rails around the property.
 
-This is the regime shift. ## ## ## THE REGIME SHIFT The private markets have fractured into two velocities.
+This is 
+
+## THE REGIME SHIFT
+
+. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The private markets have fractured into two velocities.
 
 Slow assets.
 
@@ -72,7 +80,11 @@ Tokenized real estate becomes the anchor asset for local liquidity because it cr
 
 It becomes the operational treasury of local economies.
 
-The firm positions Fund-III to exploit that velocity mismatch. ## ## ## TECHNICAL MECHANICS Tokenization is a misused term.
+The firm positions Fund-III to exploit that velocity mismatch. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ Tokenization is a misused term.
 
 The firm treats it as a capital structure design problem, not a blockchain experiment.
 
@@ -124,13 +136,21 @@ In oil and gas mandates, tokenized mineral rights or infrastructure cash flows c
 
 Recovery factors improve because the asset rights become transferable objects rather than geologically anchored paperwork.
 
-Strategic Collateralization emerges as an institutional discipline rather than a technology experiment. ## ## ## THE STRATEGIC MODEL The firm operates with one principle: velocity is a competitive advantage.
+Strategic Collateralization emerges as an institutional discipline rather than a technology experiment. ## ## ## THE 
+
+## STRATEGIC MODEL
+
+ The firm operates with one principle: velocity is a competitive advantage.
 
 Capital that does not move is capital that is lost.
 
 Tokenized real estate becomes an accelerant for Fund-III, but only when treated as part of a broader operational machine.
 
-The strategic model centers on three operating layers: 
+The 
+
+## STRATEGIC MODEL
+
+ centers on three operating layers: 
 
 1. ACQUISITION VELOCITY Fund-III executes buyouts and add-ons in fragmented environments where sellers demand certainty.
 

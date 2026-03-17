@@ -18,7 +18,11 @@ The allocator landscape has reorganized into a hierarchy where sovereign institu
 
 Fund-III and Fund-IV mandates are the primary beneficiaries of this realignment.
 
-These vehicles provide the scale, governance maturity, and operational standardization required for sovereign onboarding. ## ## ## THE REGIME SHIFT The global private capital regime has transitioned from a liquidity driven expansion cycle to an efficiency driven consolidation cycle. 
+These vehicles provide the scale, governance maturity, and operational standardization required for sovereign onboarding. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The global private capital regime has transitioned from a liquidity driven expansion cycle to an efficiency driven consolidation cycle. 
 
 1. Capital Concentration Sovereign allocators now command more than 40 percent of global private capital firepower.
 
@@ -42,7 +46,11 @@ Within this domain, sovereign wealth entities have become the system stabilizers
 
 Their presence defines acceptable risk architecture for the rest of the capital stack.
 
-Private equity funds entering Fund-III or Fund-IV cycles increasingly must position themselves within this sovereign-led hierarchy to achieve scale and continuity. ## ## ## TECHNICAL MECHANICS OF THE NEW SOVEREIGN MODEL Sovereign wealth management operates on principles fundamentally different from family offices, endowments, or traditional LP structures.
+Private equity funds entering Fund-III or Fund-IV cycles increasingly must position themselves within this sovereign-led hierarchy to achieve scale and continuity. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ OF THE NEW SOVEREIGN MODEL Sovereign wealth management operates on principles fundamentally different from family offices, endowments, or traditional LP structures.
 
 The defining mechanics are outlined below with precision relevant for institutional sponsors preparing for Fund-III capital formation.
 

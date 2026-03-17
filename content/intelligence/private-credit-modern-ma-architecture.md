@@ -20,7 +20,11 @@ Its relevance is tied directly to foundational changes in how transactions are s
 
 In the present environment, the power of private credit is not defined by coupon levels or yield dispersion.
 
-Its strength is defined by control of timing, structural seniority, covenant precision, and the ability to synchronize asset hardening with acquisitions that require predictable execution. ## ## ## THE REGIME SHIFT The macro landscape is characterized by an institutional realignment affecting three domains: bank regulatory compression, acquisition pipeline fragmentation, and the rise of balance sheet scarcity across mid market corporates.
+Its strength is defined by control of timing, structural seniority, covenant precision, and the ability to synchronize asset hardening with acquisitions that require predictable execution. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The macro landscape is characterized by an institutional realignment affecting three domains: bank regulatory compression, acquisition pipeline fragmentation, and the rise of balance sheet scarcity across mid market corporates.
 
 These forces form a singular regime shift.
 
@@ -46,7 +50,11 @@ First, acquisition timing is now shaped by seller psychology connected to rate e
 
 Second, M&A valuations remain stable even as lenders reduce leverage tolerance.
 
-The gap between valuation stability and lender retrenchment is filled by private credit providers that accept operational complexity in exchange for priority positioning and covenant alignment. ## ## ## TECHNICAL MECHANICS OF PRIVATE CREDIT IN M&A The architectural relevance of private credit depends on its precision.
+The gap between valuation stability and lender retrenchment is filled by private credit providers that accept operational complexity in exchange for priority positioning and covenant alignment. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ OF PRIVATE CREDIT IN M&A The architectural relevance of private credit depends on its precision.
 
 It provides structural advantages that cannot be replicated by traditional bank financing or pure equity deployment.
 
@@ -104,7 +112,11 @@ The discipline is to align capital providers, acquisition sponsors, and operatin
 
 The firm’s mandate covers three primary lanes. 
 
-1. Kapitalanskaffning for Fund-III and Beyond Approximately 80 percent of Roials Capital’s architecture focuses on capital introduction for mid market and upper mid market buyout platforms.
+1. Kapitalanskaffning for Fund-III and Beyond Approximately 80 percent of Roials Capital’s architecture focuses on capital 
+
+## INTRODUCTION
+
+ for mid market and upper mid market buyout platforms.
 
 The objective is to ensure that funds maintain acquisition readiness throughout the cycle.
 
@@ -162,6 +174,10 @@ The allocator assesses whether private credit provides:
 
 -  predictable capital deployment velocity 
 
--  transparency of downside scenarios This briefing functions as a high altitude map of the regime shift reshaping modern M&A architecture.
+-  transparency of downside scenarios This briefing functions as a high altitude map of 
+
+## THE REGIME SHIFT
+
+ reshaping modern M&A architecture.
 
 Allocators requiring sector specific calibration, transaction level visibility, or operator matched introductions can proceed to a confidential strategy audit designed to align institutional objectives with market reality. [END OF INSTITUTIONAL BRIEFING]

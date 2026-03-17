@@ -16,7 +16,11 @@ This structural gap has pushed UHNW allocators toward non sovereign liquidity pa
 
 The fastest growing of these mechanisms is crypto backed asset based lending, functioning not as speculative leverage but as an engineered liquidity rail for balance sheet expansion, capital stack optimization, and controlled exposure migration. ## PHASE 
 
-1. ## ## ## THE REGIME SHIFT The current sovereign debt regime is characterized by three defining transitions that are altering allocator behavior.
+1. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The current sovereign debt regime is characterized by three defining transitions that are altering allocator behavior.
 
 These transitions do not represent market panic.
 
@@ -62,7 +66,11 @@ The underwriting discipline is data deterministic.
 
 It offers a form of liquidity engineering that sovereign assets cannot replicate. ## PHASE 
 
-2. ## ## ## TECHNICAL MECHANICS Crypto collateralized credit expands because of mechanical clarity, not enthusiasm.
+2. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ Crypto collateralized credit expands because of mechanical clarity, not enthusiasm.
 
 Its durability stems from the structural features that make it operationally orthogonal to sovereign cycles. 
 
@@ -128,7 +136,11 @@ This segment is no longer retail.
 
 It is a controlled environment that mirrors institutional credit standards with programmable enforcement.
 
-The technical mechanics are not an innovation story.
+The 
+
+## TECHNICAL MECHANICS
+
+ are not an innovation story.
 
 They are an operational efficiency story.
 

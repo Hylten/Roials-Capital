@@ -14,7 +14,11 @@ Modern private capital allocators face a structural gap.
 
 Liquidity has become a competitive differentiator rather than an assumed utility.
 
-The shift has created an environment where portfolio backed liquidity functions as a balance sheet technology rather than a transactional accessory. ## ## ## THE REGIME SHIFT The current environment is anchored by three macro forces.
+The shift has created an environment where portfolio backed liquidity functions as a balance sheet technology rather than a transactional accessory. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The current environment is anchored by three macro forces.
 
 Each has reshaped the capital raising landscape for buyout funds, add on acquisition programs, and mid cycle credit users.
 
@@ -54,7 +58,11 @@ The outcome is a regime shift.
 
 Liquidity functions as an institutional asset rather than a cost center.
 
-Portfolio backed liquidity is the mechanism through which private equity platforms neutralize execution bottlenecks, stabilize cash flow timing, and increase opportunity velocity within a constrained funding environment. ## ## ## TECHNICAL MECHANICS Portfolio backed liquidity operates through a layered framework.
+Portfolio backed liquidity is the mechanism through which private equity platforms neutralize execution bottlenecks, stabilize cash flow timing, and increase opportunity velocity within a constrained funding environment. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ Portfolio backed liquidity operates through a layered framework.
 
 The effectiveness of the structure is determined by precision in collateral mapping, debt seniority alignment, and the cash flow topography of the underlying assets.
 

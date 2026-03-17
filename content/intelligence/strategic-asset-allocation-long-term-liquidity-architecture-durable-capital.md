@@ -16,9 +16,17 @@ Liquidity is no longer a derivative of market momentum but an engineered outcome
 
 This briefing outlines the strategic framework that now guides long-horizon allocators as they reposition portfolios across buyouts, real-asset cash flow strategies, institutional private credit, and specialized energy mandates in the Alberta heavy oil corridor.
 
-The focus is clinical: a map of the regime shift, the mechanics of liquidity engineering, the role of operational partners such as NAEO in energy-linked strategies, and the governance philosophy that defines capital stewardship in the current environment. ## PHASE 
+The focus is clinical: a map of 
 
-1. ## ## ## THE REGIME SHIFT : THE INSTITUTIONAL REALIGNMENT OF DURABLE CAPITAL The post-2024 environment represents a structural inflection point in the institutional allocation landscape.
+## THE REGIME SHIFT
+
+, the mechanics of liquidity engineering, the role of operational partners such as NAEO in energy-linked strategies, and the governance philosophy that defines capital stewardship in the current environment. ## PHASE 
+
+1. ## ## ## 
+
+## THE REGIME SHIFT
+
+ : THE INSTITUTIONAL REALIGNMENT OF DURABLE CAPITAL The post-2024 environment represents a structural inflection point in the institutional allocation landscape.
 
 The drivers can be summarized in four forces that now govern allocator behavior. 
 
@@ -66,7 +74,11 @@ Hardening does not imply rigidity.
 
 It implies the reinforcement of an asset's ability to produce cash flow under multiple scenarios. ## PHASE 
 
-2. ## ## ## TECHNICAL MECHANICS : THE ARCHITECTURE OF LIQUIDITY AND DURABLE CAPITAL Allocators now require deeper technical scrutiny of the underlying mechanics that support asset resilience.
+2. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ : THE ARCHITECTURE OF LIQUIDITY AND DURABLE CAPITAL Allocators now require deeper technical scrutiny of the underlying mechanics that support asset resilience.
 
 Three domains dominate: A.
 
@@ -136,7 +148,11 @@ It is the operational predictability derived from known reservoir behavior and e
 
 3. THE PARTNERSHIP MODEL: ROIALS CAPITAL AS STRATEGIC NAVIGATOR The contemporary allocator does not seek product distribution.
 
-The demand is for strategic alignment and institutional introduction.
+The demand is for strategic alignment and institutional 
+
+## INTRODUCTION
+
+.
 
 Roials Capital operates within this expectation by maintaining a neutral architecture built around three functions. 
 

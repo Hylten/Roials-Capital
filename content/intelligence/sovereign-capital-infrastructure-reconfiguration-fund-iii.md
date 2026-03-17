@@ -572,7 +572,11 @@ Not derivatives.
 
 Not simulations.
 
-Reality. ## ## ## ## CONCLUSION : THE RECONFIGURATION AGE The coming decades will be shaped by: 
+Reality. ## ## ## ## 
+
+## CONCLUSION
+
+ : THE RECONFIGURATION AGE The coming decades will be shaped by: 
 
 -  Capital sovereignty. 
 

@@ -16,7 +16,11 @@ The velocity mismatch between institutional allocators and mid-market operators 
 
 That gap is where infrastructure decides outcomes.
 
-Order is not an option. ## ## ## THE REGIME SHIFT Global capital formation entered a new regime the moment liquidity became path dependent.
+Order is not an option. ## ## ## 
+
+## THE REGIME SHIFT
+
+ Global capital formation entered a new regime the moment liquidity became path dependent.
 
 Institutional allocators no longer assess strategies on vintage alone.
 
@@ -70,7 +74,11 @@ Inflow creates scale.
 
 Scale creates bargaining power in acquisition markets.
 
-The capital stack is a hierarchy, not a marketplace. ## ## ## TECHNICAL MECHANICS Institutional credibility is quantifiable.
+The capital stack is a hierarchy, not a marketplace. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ Institutional credibility is quantifiable.
 
 Allocators calibrate a GP's maturity through specific mechanics: LTV curves, cash-flow waterfalls, recovery factors, and cycle-time predictability.
 
@@ -122,7 +130,11 @@ No allocator deploys into energy without operational evidence that the GP can qu
 
 Capital respects discipline.
 
-Energy capital demands it. ## ## ## THE STRATEGIC MODEL The partnership model must be engineered, not improvised.
+Energy capital demands it. ## ## ## THE 
+
+## STRATEGIC MODEL
+
+ The partnership model must be engineered, not improvised.
 
 The modern GP must architect a capital formation system that allows Fund-III to operate with institutional velocity.
 

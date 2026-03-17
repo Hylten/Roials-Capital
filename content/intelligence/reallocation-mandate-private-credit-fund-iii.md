@@ -36,7 +36,11 @@ The regime that governed the past twelve years is finished.
 
 The next regime rewards precision, adaptability, and institutional architecture. ## PHASE 
 
-1. ## ## ## THE REGIME SHIFT The old private credit model relied on a stable LTV ceiling, abundant leverage, and predictable exit timing.
+1. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The old private credit model relied on a stable LTV ceiling, abundant leverage, and predictable exit timing.
 
 The volatility regime change fractured that certainty.
 
@@ -74,7 +78,11 @@ Now operators of efficient credit platforms dictate them.
 
 That shift is irreversible. ## PHASE 
 
-2. ## ## ## TECHNICAL MECHANICS Order is not an option.
+2. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ Order is not an option.
 
 It is the operating system.
 
@@ -146,7 +154,11 @@ The market rewards those who build internal execution engines with less than 4 t
 
 Anything slower is obsolete. ## PHASE 
 
-3. ## ## ## THE STRATEGIC MODEL The partnership model defines Fund-III.
+3. ## ## ## THE 
+
+## STRATEGIC MODEL
+
+ The partnership model defines Fund-III.
 
 Capital raising is not marketing.
 

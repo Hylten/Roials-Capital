@@ -14,7 +14,11 @@ It is within this gap that asset based liquidity engineering operates with repea
 
 The institutional allocator evaluating Fund-III buyout mechanics, European MiFID II acquisition mandates, or North American energy operating companies is navigating the same structural tension.
 
-Capital constraints are no longer driven by asset weakness but by compliance throttling, underwriting rigidity, and the misalignment between real asset durability and legacy credit models. ## ## ## THE REGIME SHIFT North American capital markets are in a regime defined by asymmetric constraint.
+Capital constraints are no longer driven by asset weakness but by compliance throttling, underwriting rigidity, and the misalignment between real asset durability and legacy credit models. ## ## ## 
+
+## THE REGIME SHIFT
+
+ North American capital markets are in a regime defined by asymmetric constraint.
 
 Conventional hydrocarbons with established decline curves remain the lowest volatility cash flow engines in the energy complex, yet they are penalized under sustainability weighted mandates.
 
@@ -46,7 +50,11 @@ The allocator is therefore selecting not between asset classes but between struc
 
 The highest reliability assets are operating within the tightest liquidity constraints.
 
-Structural alpha emerges when liquidity engineering realigns these conditions. ## ## ## TECHNICAL MECHANICS OF ENGINEERED RELIABILITY Liquidity engineering is the institutional discipline of converting high reliability assets into sequenced capital access without distorting operational integrity.
+Structural alpha emerges when liquidity engineering realigns these conditions. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ OF ENGINEERED RELIABILITY Liquidity engineering is the institutional discipline of converting high reliability assets into sequenced capital access without distorting operational integrity.
 
 It is not leverage expansion.
 
@@ -120,11 +128,19 @@ The institutional role is calibrated around three functions.
 
 This is why high grade energy operators such as NAEO are relevant to institutional allocators seeking uncorrelated cash flow reliability. 
 
-2. Institutional Introduction Pathways Connecting allocators to operating partners or acquisition targets that meet the reliability threshold required for structured liquidity or Fund-III expansion. 
+2. Institutional 
+
+## INTRODUCTION
+
+ Pathways Connecting allocators to operating partners or acquisition targets that meet the reliability threshold required for structured liquidity or Fund-III expansion. 
 
 3. Balance Sheet Neutrality Roials Capital does not alter capital structures.
 
-It provides operational intelligence, strategic frameworks, and introduction corridors that allow allocators to make decisions with precision.
+It provides operational intelligence, strategic frameworks, and 
+
+## INTRODUCTION
+
+ corridors that allow allocators to make decisions with precision.
 
 For energy mandates between 50M and 250M, NAEO represents a rare archetype.
 

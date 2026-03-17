@@ -12,7 +12,11 @@ This structural gap defines one of the clearest institutional dislocations of th
 
 The macro environment that institutional allocators must now navigate is characterized by capital scarcity in real-asset production systems, rising global sovereign allocation demands, and the transition from high liquidity regimes to disciplined balance sheet optimization.
 
-The result is a multi decade capital architecture reset where the allocator with superior operational intelligence can achieve strategic positioning rather than pursuit of isolated deals. ## ## ## THE REGIME SHIFT Sovereign capital infrastructure is no longer defined only by traditional state backed investment vehicles or long term concession assets.
+The result is a multi decade capital architecture reset where the allocator with superior operational intelligence can achieve strategic positioning rather than pursuit of isolated deals. ## ## ## 
+
+## THE REGIME SHIFT
+
+ Sovereign capital infrastructure is no longer defined only by traditional state backed investment vehicles or long term concession assets.
 
 It now represents the integrated ecosystem where sovereign allocators, institutional LPs, and global GPs construct parallel capital architectures designed to stabilize procurement, supply chain continuity, and long horizon productivity.
 
@@ -46,7 +50,11 @@ The mispricing persists because capital discipline has outpaced regulatory moder
 
 The macro regime shift is therefore marked by dislocation: capital seeking productive assets and productive assets seeking disciplined capital.
 
-Sovereign capital infrastructure is emerging at the intersection. ## ## ## TECHNICAL MECHANICS The future of sovereign capital infrastructure is shaped by mechanical structures rather than thematic narratives.
+Sovereign capital infrastructure is emerging at the intersection. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ The future of sovereign capital infrastructure is shaped by mechanical structures rather than thematic narratives.
 
 For global allocators engaged in Fund-III buyouts, add-ons, Asset-Based Lending structures, or North American energy mandates, the operative mechanics determine the effectiveness of capital more than top level asset selection.
 
@@ -56,7 +64,11 @@ Sovereign allocators increasingly prioritize assets where engineering reliabilit
 
 Alberta’s heavy oil reservoirs provide this stability due to established decline behavior and known recovery factors.
 
-Key technical mechanics include: 
+Key 
+
+## TECHNICAL MECHANICS
+
+ include: 
 
 1. SAGD (Steam Assisted Gravity Drainage) This process relies on two parallel wellbores.
 

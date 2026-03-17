@@ -16,7 +16,11 @@ After 2020, traditional credit creation mechanisms no longer determine opportuni
 
 Sovereign balance sheets determine it.
 
-Understanding this progression is no longer optional for allocators operating within buyout environments, private credit structures, or hard-asset energy positions. ## ## ## THE REGIME SHIFT Sovereign capital is now the silent authority behind global liquidity flows.
+Understanding this progression is no longer optional for allocators operating within buyout environments, private credit structures, or hard-asset energy positions. ## ## ## 
+
+## THE REGIME SHIFT
+
+ Sovereign capital is now the silent authority behind global liquidity flows.
 
 This authority is expressed not through market intervention but through balance sheet gravitational pull.
 
@@ -56,7 +60,11 @@ The Nordic region, the GCC, the US Southwest, and selected European institutiona
 
 The allocator who understands the sovereign anchored environment does not chase yield.
 
-Instead, they identify balance sheet sovereignty as the foundational requirement before any operational diligence begins. ## ## ## TECHNICAL MECHANICS The mechanics of modern financing are increasingly defined by collateral quality, cash flow resilience, and the ability to create structural seniority through engineered liquidity.
+Instead, they identify balance sheet sovereignty as the foundational requirement before any operational diligence begins. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ The mechanics of modern financing are increasingly defined by collateral quality, cash flow resilience, and the ability to create structural seniority through engineered liquidity.
 
 Across Roials Capital’s strategic corridors there are three domains in which this shift is most visible.
 

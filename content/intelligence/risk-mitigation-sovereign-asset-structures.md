@@ -18,7 +18,11 @@ This briefing outlines the stability mechanics within sovereign and quasi sovere
 
 The intention is to provide institutional allocators, UHNW family offices, and GP level strategists with a clinical view of how risk is shaped, reduced, and redistributed in Fund-III buyout pathways, liquidity engineering mandates, and North American energy operating corridors through our strategic partner NAEO. ## PHASE 
 
-1. ## ## ## THE REGIME SHIFT The current regime is defined by a simultaneous compression of liquidity and expansion of opportunity velocity.
+1. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The current regime is defined by a simultaneous compression of liquidity and expansion of opportunity velocity.
 
 Several institutional archetypes have shifted their balance sheet stance due to tightened capital adequacy rules, newer Basel interpretations, MiFID II reporting constraints, and a more conservative weighting of long dated commodity exposures.
 
@@ -44,7 +48,11 @@ Replacement cost has risen faster than sale multiples in several jurisdictions, 
 
 This creates intrinsic downside protection when executed with balance sheet optimization and asset hardening principles. ## PHASE 
 
-2. ## ## ## TECHNICAL MECHANICS Risk mitigation within sovereign grade or sovereign adjacent asset structures is achieved through several layered mechanisms.
+2. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ Risk mitigation within sovereign grade or sovereign adjacent asset structures is achieved through several layered mechanisms.
 
 These mechanisms vary depending on the mandate, but the underlying logic remains constant.
 
@@ -114,7 +122,11 @@ This is why our strategic partner NAEO is positioned as an institutional grade o
 
 The relationship provides allocators with operational intelligence, not commodity exposure. ## PHASE 
 
-3. THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator and institutional introduction platform.
+3. THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator and institutional 
+
+## INTRODUCTION
+
+ platform.
 
 The objective is to create clarity between allocator objectives and structural opportunities in the market.
 

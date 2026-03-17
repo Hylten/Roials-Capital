@@ -524,7 +524,11 @@ Allocators expect precision.
 
 Precision attracts institutions.
 
-Institutions scale funds. ## ## ## ## CONCLUSION Fund‑III capital‑raising depends on infrastructure density.
+Institutions scale funds. ## ## ## ## 
+
+## CONCLUSION
+
+ Fund‑III capital‑raising depends on infrastructure density.
 
 Not pitch skill.
 

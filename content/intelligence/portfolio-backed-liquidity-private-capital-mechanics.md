@@ -10,7 +10,11 @@ The structural gap in North American private markets is a capital formation issu
 
 Private issuers with strong asset bases operate inside a liquidity vacuum that is unrelated to asset quality or revenue resilience.
 
-This vacuum defines the modern regime for allocators who seek exposure to real operating cash flows without adopting unbounded venture style variance. ## ## ## THE REGIME SHIFT Institutional allocators have witnessed a ten year evolution of market mechanics.
+This vacuum defines the modern regime for allocators who seek exposure to real operating cash flows without adopting unbounded venture style variance. ## ## ## 
+
+## THE REGIME SHIFT
+
+ Institutional allocators have witnessed a ten year evolution of market mechanics.
 
 The modern private capital landscape is defined by: 
 
@@ -42,7 +46,11 @@ The result is a durable multi billion capital shortage across assets that carry 
 
 This is the modern regime.
 
-Private credit and portfolio backed liquidity have become the functional replacement for the banks that once priced these markets with consistency. ## ## ## TECHNICAL MECHANICS OF RESOURCE EXTRACTION AND COLLATERAL QUALITY Understanding the Strategic Collateralization potential of portfolio backed structures requires clarity on the technical behavior of the underlying assets.
+Private credit and portfolio backed liquidity have become the functional replacement for the banks that once priced these markets with consistency. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ OF RESOURCE EXTRACTION AND COLLATERAL QUALITY Understanding the Strategic Collateralization potential of portfolio backed structures requires clarity on the technical behavior of the underlying assets.
 
 In Alberta, three extraction methodologies dominate the operating landscape: 
 
@@ -104,7 +112,11 @@ It is the orchestration of institutional alignment between capital allocators an
 
 The partnership model is built on: 
 
--  Institutional introduction rather than solicitation. 
+-  Institutional 
+
+## INTRODUCTION
+
+ rather than solicitation. 
 
 -  Operational intelligence rather than pitch framing. 
 

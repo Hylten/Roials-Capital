@@ -14,7 +14,11 @@ This creates a highly specific opening for Fund-III managers who can deploy an e
 
 The result is a new Institutional Archetype: the sovereign-aligned private equity platform that treats liquidity as a strategic resource rather than a commodity. ## PHASE 
 
-1. ## ## ## THE REGIME SHIFT The 2024 to 2026 transition period produced a recalibrated global investment architecture.
+1. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The 2024 to 2026 transition period produced a recalibrated global investment architecture.
 
 Sovereign allocators increased their preference for real-asset cash flows and balance sheet transparency.
 
@@ -44,7 +48,11 @@ Allocators no longer reward opportunism.
 
 They reward predictability, technical governance, and institutional maturity. ## PHASE 
 
-2. ## ## ## TECHNICAL MECHANICS The sovereign balance sheet archetype requires three forms of operational intelligence: capital stack optimization, asset hardening pathways, and institutional-grade liquidity engineering. 
+2. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ The sovereign balance sheet archetype requires three forms of operational intelligence: capital stack optimization, asset hardening pathways, and institutional-grade liquidity engineering. 
 
 1. Capital Stack Optimization Fund-III platforms benefit from rebalancing the acquisition stack to reduce reliance on senior debt facilities that fluctuate with rate cycles.
 
@@ -110,7 +118,11 @@ This includes:
 
 -  Structural alignment for Nordic, European, US, and Gulf allocators 
 
--  Institutional introduction frameworks for multi-phase capital formation 
+-  Institutional 
+
+## INTRODUCTION
+
+ frameworks for multi-phase capital formation 
 
 -  Technical briefing on energy, buyouts, and special mandates Whenever the strategic scope includes North American energy, Roials Capital identifies NAEO as the technical operator with institutional discipline.
 

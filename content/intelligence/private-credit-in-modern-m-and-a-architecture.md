@@ -14,7 +14,11 @@ It is the structural outcome of shifts in Basel frameworks, European prudential 
 
 The modern gap is between what institutional buyers demand and what regulated lenders can underwrite.
 
-Private credit has become the dominant mechanism for resolving this misalignment. ## ## ## THE REGIME SHIFT The transition to a private-credit driven M&A environment started as a cyclical response but has matured into a structural regime.
+Private credit has become the dominant mechanism for resolving this misalignment. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The transition to a private-credit driven M&A environment started as a cyclical response but has matured into a structural regime.
 
 Three macro drivers define the current landscape: 
 
@@ -38,7 +42,11 @@ It is systemic infrastructure.
 
 It provides certainty of execution, which has become more valuable than nominal pricing.
 
-For Fund-III environments, certainty of execution has become the dominant competitive variable because AUM expansion is constrained by two forces: slower LP commitments and increasingly complex regulatory disclosures. ## ## ## TECHNICAL MECHANICS Modern M&A architecture operates through four primary private-credit modalities.
+For Fund-III environments, certainty of execution has become the dominant competitive variable because AUM expansion is constrained by two forces: slower LP commitments and increasingly complex regulatory disclosures. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ Modern M&A architecture operates through four primary private-credit modalities.
 
 Each resolves a specific failure within the traditional banking ecosystem. 
 

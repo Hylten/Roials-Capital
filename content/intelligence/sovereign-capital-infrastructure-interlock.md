@@ -20,7 +20,11 @@ We see it clearly because we operate where timing penalties destroy entire manda
 
 Order is not an option. ## PHASE 
 
-1. ## ## ## THE REGIME SHIFT Sovereign capital has entered a new operating regime.
+1. ## ## ## 
+
+## THE REGIME SHIFT
+
+ Sovereign capital has entered a new operating regime.
 
 It is no longer an umbrella category of stabilizing assets.
 
@@ -96,7 +100,11 @@ They now create in-house credit capacity.
 
 That shift alone will rewrite private credit flows for the next decade.
 
-This regime shift creates one dominant conclusion.
+This regime shift creates one dominant 
+
+## CONCLUSION
+
+.
 
 Sovereign capital will no longer wait for fund managers to be ready.
 
@@ -110,7 +118,11 @@ Delay is waste.
 
 Waste is disqualifying. ## PHASE 
 
-2. ## ## ## TECHNICAL MECHANICS Sovereign allocators are not looking for margin stories.
+2. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ Sovereign allocators are not looking for margin stories.
 
 They are looking for institutional mechanics.
 
@@ -224,7 +236,11 @@ Nothing opaque.
 
 Nothing improvisational. ## PHASE 
 
-3. ## ## ## THE STRATEGIC MODEL Sovereign allocators want to partner with a GP that operates like a national institution.
+3. ## ## ## THE 
+
+## STRATEGIC MODEL
+
+ Sovereign allocators want to partner with a GP that operates like a national institution.
 
 Not like a fund manager chasing its next raise.
 
@@ -320,7 +336,11 @@ There is no fog.
 
 Fog is where trust dies.
 
-This strategic model scales because it eliminates internal drift.
+This 
+
+## STRATEGIC MODEL
+
+ scales because it eliminates internal drift.
 
 Drift destroys sovereign confidence.
 

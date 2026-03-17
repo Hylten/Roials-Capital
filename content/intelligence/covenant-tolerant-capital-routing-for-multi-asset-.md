@@ -16,7 +16,11 @@ It is a structural precondition for longevity.
 
 It allows capital to move through multi asset frameworks without triggering unwanted constraints, valuation freezes, or forced liquidity events.
 
-This paper defines the technical mechanics behind covenant tolerant routing.
+This paper defines the 
+
+## TECHNICAL MECHANICS
+
+ behind covenant tolerant routing.
 
 It outlines a frictionless pathway design based on systemic transparency, deterministic sequencing, and non reactive balance sheet logic.
 
@@ -244,7 +248,11 @@ It is a structural endpoint.
 
 The infrastructure exists today.
 
-The scaling is ongoing. # Conclusion Covenant tolerant capital routing is not an enhancement.
+The scaling is ongoing. # 
+
+## CONCLUSION
+
+ Covenant tolerant capital routing is not an enhancement.
 
 It is the structural foundation for institutional scale multi asset operations.
 

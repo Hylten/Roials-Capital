@@ -18,11 +18,19 @@ GPs operating with legacy balance sheet designs are absorbing friction, slippage
 
 This briefing outlines the institutional playbook behind sovereign balance sheet engineering, and how global allocators are positioning themselves for Fund-III and Fund IV capital formation cycles.
 
-The analysis covers the regime shift, the technical machinery of buyout balance sheet construction, liquidity engineering, and the Alberta energy acquisition corridor where NAEO operates as a specialized partner for $50M to $250M mandates.
+The analysis covers 
+
+## THE REGIME SHIFT
+
+, the technical machinery of buyout balance sheet construction, liquidity engineering, and the Alberta energy acquisition corridor where NAEO operates as a specialized partner for $50M to $250M mandates.
 
 The objective is not promotion but clarity.
 
-When allocators understand the architecture, the strategic alignment dialogue becomes data driven rather than relational. ## ## ## THE REGIME SHIFT Private markets have entered an allocation environment defined by three forces. 
+When allocators understand the architecture, the strategic alignment dialogue becomes data driven rather than relational. ## ## ## 
+
+## THE REGIME SHIFT
+
+ Private markets have entered an allocation environment defined by three forces. 
 
 1. Regulatory Overextension MiFID II, Basel III revisions, OSFI capital buffers, and the Federal Reserve's post 2023 supervisory posture have created an ecosystem where banks have become structurally slower.
 
@@ -50,7 +58,11 @@ These forces create a regulatory-driven scarcity of functional liquidity.
 
 The allocators that outperform in this regime are building balance sheets designed for sovereign-like durability.
 
-They engineer stability at the top of the stack so that acquisition velocity at the bottom of the stack can accelerate without increasing fragility. ## ## ## TECHNICAL MECHANICS The sovereign balance sheet archetype is defined by three structural principles: durability, modularity, and cross-cycle liquidity.
+They engineer stability at the top of the stack so that acquisition velocity at the bottom of the stack can accelerate without increasing fragility. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ The sovereign balance sheet archetype is defined by three structural principles: durability, modularity, and cross-cycle liquidity.
 
 These design attributes are the foundation for Fund-III and Fund IV capital formation.
 
@@ -70,7 +82,11 @@ SOVEREIGN ARCHETYPE ATTRIBUTE 3: CROSS CYCLE LIQUIDITY Cross cycle liquidity is 
 
 The objective is to increase Opportunity Velocity, not leverage.
 
-Liquidity Engineering uses: * ABL structures with predictable advance rates * cash flow securitization * short duration borrowing facilities * intercreditor alignment * recycling mechanisms These mechanics allow allocators to deploy capital into acquisition windows that are closing faster than bank underwriting cycles can accommodate. ## ## ## TECHNICAL MECHANICS BY CATEGORY 
+Liquidity Engineering uses: * ABL structures with predictable advance rates * cash flow securitization * short duration borrowing facilities * intercreditor alignment * recycling mechanisms These mechanics allow allocators to deploy capital into acquisition windows that are closing faster than bank underwriting cycles can accommodate. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ BY CATEGORY 
 
 1. 80 percent Kapitalanskaffning for Fund-III+ Institutional LPs evaluating Fund-III programs are measuring: * capital formation speed * deployment velocity * distribution predictability * LTV curves across add-on baskets * structural seniority of cash flows * downside certainty rather than upside optionality Fund-III allocators reward platforms that have matured past single-jurisdiction exposure or mono-asset risk.
 

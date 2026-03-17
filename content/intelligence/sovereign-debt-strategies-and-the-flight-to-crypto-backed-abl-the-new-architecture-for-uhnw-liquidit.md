@@ -274,7 +274,11 @@ ROIALS CAPITAL operates at the intersection of these trends.
 
 We do not follow the cycles.
 
-We build the mechanics that allow our clients to operate above them. ## Conclusion Sovereign debt volatility is not a temporary phase.
+We build the mechanics that allow our clients to operate above them. ## 
+
+## CONCLUSION
+
+ Sovereign debt volatility is not a temporary phase.
 
 It is a structural realignment that requires sophisticated Asset-Backed Frameworks.
 

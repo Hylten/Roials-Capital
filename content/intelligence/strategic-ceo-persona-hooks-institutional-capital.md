@@ -18,7 +18,11 @@ It is the direct result of allocators demanding greater cognitive visibility int
 
 This briefing outlines a technical template for Strategic CEO Persona Hooks that reinforce institutional confidence, accelerate Fund-III introductions, and create alignment with private credit partners, MiFID II acquisition stakeholders, and energy sector institutions such as NAEOC. ## PHASE 
 
-1. ## ## ## THE REGIME SHIFT The allocator landscape has absorbed three structural shocks in the last 48 months. 
+1. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The allocator landscape has absorbed three structural shocks in the last 48 months. 
 
 -  The shift from free capital to priced capital. 
 
@@ -52,7 +56,11 @@ The modern CEO must serve as a translation layer between operational realities a
 
 This translation layer is where Strategic CEO Persona Hooks become critical. ## PHASE 
 
-2. ## ## ## TECHNICAL MECHANICS OF INSTITUTIONAL CEO POSITIONING An allocator evaluates CEO personas using five structural filters.
+2. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ OF INSTITUTIONAL CEO POSITIONING An allocator evaluates CEO personas using five structural filters.
 
 Filter 1: Governance Architecture Signaling Allocators respond to CEOs who articulate governance as a system of constraint, not authority.
 
@@ -106,7 +114,11 @@ These five filters form the cognitive template that allocators use to assess CEO
 
 The Strategic CEO Persona Hook must speak directly into these institutional filters with clinical precision. ## PHASE 
 
-3. ## ## ## THE STRATEGIC MODEL FOR CEO PERSONA ARCHITECTURE Institutional CEO personas must be engineered through three primary dimensions.
+3. ## ## ## THE 
+
+## STRATEGIC MODEL
+
+ FOR CEO PERSONA ARCHITECTURE Institutional CEO personas must be engineered through three primary dimensions.
 
 Dimension 1: Structural Identity The CEO persona must be anchored in a structural archetype.
 
@@ -280,7 +292,11 @@ Allocators interpret this persona as trustworthy.
 
 Hook 
 
-9. The Institutional Introduction Partner This persona fits introducer and capital navigator roles. 
+9. The Institutional 
+
+## INTRODUCTION
+
+ Partner This persona fits introducer and capital navigator roles. 
 
 -  Aligns stakeholders. 
 

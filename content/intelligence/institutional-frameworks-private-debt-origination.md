@@ -8,7 +8,11 @@ slug: "institutional-frameworks-private-debt-origination"
 
 The structural gap defining private debt origination in 2026 is the direct result of regulatory divergence and capital flight from traditional credit markets, not a deterioration in underlying asset performance.
 
-This shift has created a predictable regime where institutional allocators with disciplined underwriting frameworks can access opportunities characterized by quantifiable collateral physics, transparent decline curves in energy, and operationally anchored cash flow structures across middle market buyouts. ## ## ## THE REGIME SHIFT The withdrawal of commercial lenders from the middle market is not cyclical.
+This shift has created a predictable regime where institutional allocators with disciplined underwriting frameworks can access opportunities characterized by quantifiable collateral physics, transparent decline curves in energy, and operationally anchored cash flow structures across middle market buyouts. ## ## ## 
+
+## THE REGIME SHIFT
+
+ The withdrawal of commercial lenders from the middle market is not cyclical.
 
 It is a regime-level realignment driven by liquidity coverage rules, Basel IV capital weights, and supervisory scrutiny on industry concentrations.
 
@@ -34,7 +38,11 @@ In this environment, Fund-III structures dedicated to buyouts and add-ons are ex
 
 Allocators are no longer seeking exposure to generic private debt.
 
-They are seeking frameworks that can consistently penetrate the origination bottleneck and deliver institutional grade visibility on asset protection. ## ## ## TECHNICAL MECHANICS OF PRIVATE DEBT ORIGINATION Origination is not a pipeline function.
+They are seeking frameworks that can consistently penetrate the origination bottleneck and deliver institutional grade visibility on asset protection. ## ## ## 
+
+## TECHNICAL MECHANICS
+
+ OF PRIVATE DEBT ORIGINATION Origination is not a pipeline function.
 
 It is an institutional architecture that manages four variables: collateral integrity, operational cash conversion, counterparty discipline, and structural seniority.
 
@@ -140,7 +148,11 @@ Energy Mandates For mandates requiring exposure to North American energy opportu
 
 They manage reservoir development, production optimization, and technical risk mitigation.
 
-Roials Capital manages the strategic dialogue, structural mapping, and the institutional introduction.
+Roials Capital manages the strategic dialogue, structural mapping, and the institutional 
+
+## INTRODUCTION
+
+.
 
 Asset-Based Lending and Special Situations For Asset-Based Lending and Capital Structuring mandates, Roials Capital provides balance sheet diagnostics and scenario modeling.
 

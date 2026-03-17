@@ -444,7 +444,11 @@ It is getting clearer.
 
 Those with infrastructure will inherit scale.
 
-Those without will exit the domain. ## Conclusion Institutional grade infrastructure is not a luxury.
+Those without will exit the domain. ## 
+
+## CONCLUSION
+
+ Institutional grade infrastructure is not a luxury.
 
 It is the minimum viable architecture for modern capital deployment.
 
