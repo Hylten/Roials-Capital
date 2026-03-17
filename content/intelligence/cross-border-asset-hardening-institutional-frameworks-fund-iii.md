@@ -4,7 +4,7 @@ description: "Institutional architecture for capital fortification, liquidity en
 date: "2025-11-01"
 author: "ROIALS CAPITAL | Principal Architect"
 slug: "cross-border-asset-hardening-institutional-frameworks-Fund-III"
----
+--- 
 
 Cross-border instability punishes unstructured capital.
 

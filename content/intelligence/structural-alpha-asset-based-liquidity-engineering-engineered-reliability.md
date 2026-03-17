@@ -4,7 +4,7 @@ description: "Institutional briefing on the structural mechanics of Asset Based 
 date: "2025-11-26"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "structural-alpha-asset-based-liquidity-engineering-engineered-reliability"
----
+--- 
 
 The capital vacuum across North American and European lower mid market operators is the product of regulatory compression and risk model recalibration, not a shortage of real asset value.
 

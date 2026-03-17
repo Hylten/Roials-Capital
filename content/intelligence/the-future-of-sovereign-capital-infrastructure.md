@@ -4,7 +4,7 @@ description: "A deep examination of liquidity architecture, private credit, and 
 date: "2025-06-22"
 author: "Jonas Hyltén"
 slug: "the-future-of-sovereign-capital-infrastructure"
----
+--- 
 
 # The Future of Sovereign Capital Infrastructure Sovereign capital infrastructure is entering a structural realignment.
 

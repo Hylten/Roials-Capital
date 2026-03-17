@@ -4,7 +4,7 @@ description: "Institutional brief on capital-raising mechanics, liquidity engine
 date: "2025-09-28"
 author: "ROIALS CAPITAL"
 slug: "liquidity-architecture-Fund-III-expansion"
----
+--- 
 
 Liquidity architecture determines survival long before deal velocity does.
 

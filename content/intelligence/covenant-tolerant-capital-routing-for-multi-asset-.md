@@ -4,7 +4,7 @@ description: "Covenant Tolerant Capital Routing for Multi Asset Frameworks Using
 date: "2026-03-20"
 author: "Roials Capital"
 slug: "covenant-tolerant-capital-routing-for-multi-asset-frameworks-using-the-technical-frictionless"
----
+--- 
 
 # Covenant Tolerant Capital Routing for Multi Asset Frameworks Using The Technical Frictionless Roials Capital operates in environments where capital mobility, covenant structure, and cross collateral architecture determine institutional performance far more than nominal asset selection.
 

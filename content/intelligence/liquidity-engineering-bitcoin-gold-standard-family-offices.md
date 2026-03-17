@@ -4,7 +4,7 @@ description: "A principal-level briefing on Capital Structuring, structured capi
 date: "2025-09-19"
 author: "ROIALS CAPITAL"
 slug: "liquidity-engineering-bitcoin-gold-standard-family-offices"
----
+--- 
 
 Bitcoin is now a balance-sheet force multiplier.
 

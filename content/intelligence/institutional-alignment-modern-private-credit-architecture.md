@@ -4,7 +4,7 @@ description: "An institutional briefing on the regime shift in private credit, t
 date: "2025-12-27"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-alignment-modern-private-credit-architecture"
----
+--- 
 
 The structural gap between capital availability and operational demand in modern private credit is not a product of cyclical contraction.
 

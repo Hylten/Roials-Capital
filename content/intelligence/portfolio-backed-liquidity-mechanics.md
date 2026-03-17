@@ -4,7 +4,7 @@ description: "An institutional briefing on structural liquidity engineering, bal
 date: "2025-11-14"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "portfolio-backed-liquidity-mechanics"
----
+--- 
 
 The capital vacuum in North American private markets is not a function of asset scarcity.
 

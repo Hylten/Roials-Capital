@@ -4,7 +4,7 @@ description: "A high-authority examination of institutional liquidity mechanics 
 date: "2025-07-21"
 author: "Jonas Hyltén"
 slug: "institutional-liquidity-architecture-for-real-estate-sovereigns"
----
+--- 
 
 # Institutional Liquidity for Real Estate Sovereigns Real estate at sovereign scale requires a liquidity framework that is not transactional.
 

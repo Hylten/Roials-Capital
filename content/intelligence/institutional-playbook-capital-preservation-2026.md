@@ -4,7 +4,7 @@ description: "A principal level intelligence report detailing structural capital
 date: "2026-03-10"
 author: "Jonas Hyltén"
 slug: "institutional-playbook-capital-preservation-2026"
----
+--- 
 
 [START INTELLIGENCE REPORT] 
 

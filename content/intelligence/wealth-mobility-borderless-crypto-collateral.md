@@ -4,7 +4,7 @@ description: "A technical intelligence brief on sovereign grade wealth mobility 
 date: "2026-03-15"
 author: "Jonas Hyltén"
 slug: "wealth-mobility-borderless-crypto-collateral"
----
+--- 
 
 [START INTELLIGENCE REPORT] ## ## 
 

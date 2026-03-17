@@ -4,7 +4,7 @@ description: "Institutional briefing on capital formation mechanics, liquidity e
 date: "2025-09-14"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "precision-financing-architecture-institutional"
----
+--- 
 
 The capital vacuum in North American industrial and energy markets is a consequence of regulatory drift and balance sheet inertia, not a shortage of viable assets.
 

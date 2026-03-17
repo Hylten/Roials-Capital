@@ -4,7 +4,7 @@ description: "Institutional thesis on balance sheet efficiency, collateral orche
 date: "2025-07-13"
 author: "Jonas Hyltén"
 slug: "capital-efficiency-silent-authority"
----
+--- 
 
 Structural gaps do not announce themselves.
 

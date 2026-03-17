@@ -4,7 +4,7 @@ description: "A principal-level brief on liquidity engineering, institutional ca
 date: "2025-09-23"
 author: "Jonas Roials"
 slug: "new-liquidity-standard-5m-holders"
----
+--- 
 
 The new liquidity regime does not ask permission.
 

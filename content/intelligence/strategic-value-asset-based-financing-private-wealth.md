@@ -4,7 +4,7 @@ description: "Institutional briefing on the capital regime shift driving Asset B
 date: "2026-01-06"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "strategic-value-asset-based-financing-private-wealth"
----
+--- 
 
 The capital vacuum shaping North American and European private markets is the predictable outcome of duration mispricing, regulatory recalibration, and institutional retreat, not of declining asset quality.
 

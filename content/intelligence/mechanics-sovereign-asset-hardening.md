@@ -4,7 +4,7 @@ description: "Institutional briefing on capital regime transition, structural in
 date: "2025-09-24"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "mechanics-sovereign-asset-hardening"
----
+--- 
 
 The capital vacuum in North America is not a cyclical dislocation.
 

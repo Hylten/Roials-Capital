@@ -4,7 +4,7 @@ description: "Institutional briefing on crypto collateral mobility, cross-jurisd
 date: "2025-09-01"
 author: "ROIALS CAPITAL"
 slug: "borderless-collateral-regime-Fund-III"
----
+--- 
 
 Structural arbitrage is no longer found in sector specialization.
 

@@ -4,7 +4,7 @@ description: "A private-capital briefing on the structural mechanics of collater
 date: "2025-07-01"
 author: "ROIALS CAPITAL"
 slug: "principal-architecture-of-collateralized-liquidity"
----
+--- 
 
 The sovereign machinery begins with a simple assertion: capital obeys structure, not sentiment.
 

@@ -4,7 +4,7 @@ description: "Institutional briefing on the regime shift in sovereign capital ar
 date: "2026-02-07"
 author: "Jonas Hyltén"
 slug: "sovereign-capital-infrastructure-mandate"
----
+--- 
 
 A sovereign balance sheet collapses in silence long before it collapses in public.
 

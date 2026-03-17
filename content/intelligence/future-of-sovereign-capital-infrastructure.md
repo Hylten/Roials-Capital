@@ -4,7 +4,7 @@ description: "Technical briefing on the emerging architecture of sovereign-scale
 date: "2026-02-05"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "future-of-sovereign-capital-infrastructure"
----
+--- 
 
 The capital vacuum in North America’s energy sector is a consequence of regulatory drift, not resource depletion.
 

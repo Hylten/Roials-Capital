@@ -4,7 +4,7 @@ description: "Institutional liquidity through private credit and asset based Str
 date: "2025-08-01"
 author: "Jonas Hyltén"
 slug: "liquidity-engineering-against-bitcoin-the-new-gold-standard-for-family-offices"
----
+--- 
 
 # Strategic Collateralization Against Bitcoin: The New Gold Standard for Family Offices Family offices operate within a structural mandate, stability first, liquidity second, expansion third.
 

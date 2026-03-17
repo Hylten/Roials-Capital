@@ -4,7 +4,7 @@ description: "Institutional brief on private credit as liquidity infrastructure,
 date: "2025-09-30"
 author: "ROIALS CAPITAL"
 slug: "new-liquidity-standard-uhnw-private-credit"
----
+--- 
 
 UHNW portfolios fail at one point: liquidity asymmetry.
 

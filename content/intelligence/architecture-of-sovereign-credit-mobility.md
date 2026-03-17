@@ -4,7 +4,7 @@ description: "Institutional blueprint for Fund-III capital formation, cross-juri
 date: "2025-09-25"
 author: "ROIALS CAPITAL"
 slug: "architecture-of-sovereign-credit-mobility"
----
+--- 
 
 The modern capital stack is no longer static.
 

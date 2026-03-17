@@ -4,7 +4,7 @@ description: "Institutional briefing on the structural mechanics, liquidity arch
 date: "2025-11-05"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "sovereign-capital-architecture-multigenerational-liquidity"
----
+--- 
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion.
 

@@ -4,7 +4,7 @@ description: "Institutional treatise detailing Strategic Collateralization as a 
 date: "2025-12-27"
 author: "Jonas Hyltén"
 slug: "asset-based-liquidity-engineering-regime"
----
+--- 
 
 A system collapses at its weakest constraint.
 

@@ -4,7 +4,7 @@ description: "A technical dissection of cross cycle capital mobility, regime dep
 date: "2026-02-11"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-capital-migration-architecture"
----
+--- 
 
 The capital vacuum in North America’s energy system is a consequence of regulatory drift and institutional divestment inertia, not resource depletion.
 

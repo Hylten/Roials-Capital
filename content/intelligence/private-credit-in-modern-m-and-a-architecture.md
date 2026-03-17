@@ -4,7 +4,7 @@ description: "A technical institutional briefing on how private credit now funct
 date: "2025-09-05"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "private-credit-in-modern-m-and-a-architecture"
----
+--- 
 
 The capital vacuum shaping Western markets is the predictable consequence of regulatory compression, bank de-risking, and the declining risk appetite of traditional lenders.
 

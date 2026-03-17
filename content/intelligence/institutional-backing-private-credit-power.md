@@ -4,7 +4,7 @@ description: "Technical briefing on capitalization dynamics, LP governed scale a
 date: "2025-11-11"
 author: "ROIALS CAPITAL"
 slug: "institutional-backing-private-credit-power"
----
+--- 
 
 A structural gap always reveals itself in the data before it becomes visible in the market.
 

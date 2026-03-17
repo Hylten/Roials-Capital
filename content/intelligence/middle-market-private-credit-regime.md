@@ -4,7 +4,7 @@ description: "Institutional briefing on middle-market private credit, liquidity 
 date: "2026-01-15"
 author: "ROIALS CAPITAL"
 slug: "middle-market-private-credit-regime"
----
+--- 
 
 A structural gap appears when capital migrates faster than underwriting standards can adapt.
 

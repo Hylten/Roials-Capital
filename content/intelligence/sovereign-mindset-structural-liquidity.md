@@ -4,7 +4,7 @@ description: "Institutional brief on capital architecture, liquidity engineering
 date: "2025-12-02"
 author: "Jonas Roials"
 slug: "sovereign-mindset-structural-liquidity"
----
+--- 
 
 The sovereign mindset begins with a simple recognition.
 

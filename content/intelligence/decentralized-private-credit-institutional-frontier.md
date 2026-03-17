@@ -4,7 +4,7 @@ description: "Institutional blueprint for Fund-III capital formation, decentrali
 date: "2025-11-15"
 author: "ROIALS CAPITAL"
 slug: "decentralized-private-credit-institutional-frontier"
----
+--- 
 
 Decentralized private credit has crossed a structural threshold.
 

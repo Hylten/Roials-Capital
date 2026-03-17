@@ -4,7 +4,7 @@ description: "A high‑trust analysis of liquidity architecture and asset based 
 date: "2025-11-04"
 author: "Jonas Hyltén"
 slug: "the-sovereign-mindset-building-for-decades-with-structural-liquidity"
----
+--- 
 
 # The Sovereign Mindset: Building for Decades The modern wealth landscape rewards agility, yet true longevity demands more than agility alone.
 

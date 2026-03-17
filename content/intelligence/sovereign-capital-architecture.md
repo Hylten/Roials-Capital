@@ -4,7 +4,7 @@ description: "Institutional framework for multi generational liquidity, capital 
 date: "2026-01-28"
 author: "Jonas Hyltén"
 slug: "sovereign-capital-architecture"
----
+--- 
 
 A liquidity system fails long before anyone notices it.
 

@@ -4,7 +4,7 @@ description: "Institutional memorandum outlining regime-shift dynamics in global
 date: "2026-01-01"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "sovereign-capital-deployment-strategies-institutional-wealth"
----
+--- 
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion.
 

@@ -4,7 +4,7 @@ description: "Analyst‑grade briefing on credit engineering, capital formation 
 date: "2025-07-20"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "strategic-credit-architecture-hnw-entrepreneurs"
----
+--- 
 
 The capital vacuum in North America’s energy sector is a consequence of regulatory drift, not resource depletion.
 

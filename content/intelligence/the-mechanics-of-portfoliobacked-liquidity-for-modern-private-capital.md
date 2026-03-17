@@ -4,7 +4,7 @@ description: "A technical exploration of portfolio‑backed liquidity structures
 date: "2025-10-14"
 author: "Jonas Hyltén"
 slug: "the-mechanics-of-portfoliobacked-liquidity-for-modern-private-capital"
----
+--- 
 
 # The Mechanics of Portfolio‑Backed Liquidity Portfolio backed liquidity is no longer an exotic structure reserved for institutional balance sheets.
 

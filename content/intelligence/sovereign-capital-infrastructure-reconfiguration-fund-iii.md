@@ -4,7 +4,7 @@ description: "A high-density institutional analysis of sovereign capital archite
 date: "2025-06-30"
 author: "ROIALS CAPITAL | Principal Architect"
 slug: "sovereign-capital-infrastructure-reconfiguration-Fund-III"
----
+--- 
 
 The future of sovereign capital infrastructure is no longer a projection.
 

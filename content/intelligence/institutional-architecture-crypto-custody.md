@@ -4,7 +4,7 @@ description: "Institutional briefing on safeguarding long horizon wealth through
 date: "2025-08-21"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-architecture-crypto-custody"
----
+--- 
 
 The capital vacuum within decentralized asset custody is a consequence of regulatory lag and fragmented operational standards rather than volatility in the underlying cryptographic networks.
 

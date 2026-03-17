@@ -4,7 +4,7 @@ description: "Institutional brief on cross‑jurisdictional collateral mobility,
 date: "2025-11-12"
 author: "ROIALS CAPITAL"
 slug: "borderless-collateral-mobility-of-wealth"
----
+--- 
 
 The contemporary M&A regime no longer behaves like a regional marketplace.
 

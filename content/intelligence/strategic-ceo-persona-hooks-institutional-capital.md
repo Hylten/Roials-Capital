@@ -4,7 +4,7 @@ description: "Technical architecture for CEO persona construction aligned with F
 date: "2025-06-29"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "strategic-ceo-persona-hooks-institutional-capital"
----
+--- 
 
 The institutional allocator universe rarely responds to charisma.
 

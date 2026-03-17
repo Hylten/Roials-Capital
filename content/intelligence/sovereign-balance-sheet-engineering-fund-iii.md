@@ -4,7 +4,7 @@ description: "Institutional briefing on sovereign balance sheet engineering, cap
 date: "2025-07-26"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "sovereign-balance-sheet-engineering-Fund-III"
----
+--- 
 
 The capital vacuum in North American private markets is a structural output of regulatory drift, not a shortage of institutional capital.
 

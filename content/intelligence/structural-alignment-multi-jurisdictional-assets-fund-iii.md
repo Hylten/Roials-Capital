@@ -4,7 +4,7 @@ description: "An institutional briefing on cross-jurisdictional structural align
 date: "2025-06-26"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "structural-alignment-multi-jurisdictional-assets-Fund-III"
----
+--- 
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion.
 

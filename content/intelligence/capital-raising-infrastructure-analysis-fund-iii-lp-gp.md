@@ -4,7 +4,7 @@ description: "Institutional-grade analysis of capital raising infrastructures, F
 date: "2026-01-22"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "capital-raising-infrastructure-analysis-Fund-III-lp-gp"
----
+--- 
 
 The capital vacuum in middle-market acquisition structures is not the result of deal scarcity.
 

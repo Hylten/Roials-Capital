@@ -4,7 +4,7 @@ description: "A clinical examination of liquidity engineering, multi-asset balan
 date: "2025-07-03"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "mechanics-of-multi-asset-liquidity-institutional-portfolios"
----
+--- 
 
 The capital vacuum in North American private markets is not a function of diminishing asset quality.
 

@@ -4,7 +4,7 @@ description: "A high-authority guide to liquidity engineering, private credit, a
 date: "2026-02-06"
 author: "Jonas Hyltén"
 slug: "designing-the-sovereign-balance-sheet-a-structural-blueprint-for-private-liquidity-architecture"
----
+--- 
 
 # Designing the Sovereign Balance Sheet Classical wealth management optimizes portfolios.
 

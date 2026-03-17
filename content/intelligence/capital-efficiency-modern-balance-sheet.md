@@ -4,7 +4,7 @@ description: "Institutional briefing on capital efficiency, liquidity engineerin
 date: "2025-10-17"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "capital-efficiency-modern-balance-sheet"
----
+--- 
 
 The capital vacuum in North America’s energy sector is a consequence of regulatory drift, not resource depletion.
 

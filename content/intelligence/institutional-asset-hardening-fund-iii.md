@@ -4,7 +4,7 @@ description: "A principal-grade brief on capital raising, institutional asset ha
 date: "2025-12-03"
 author: "ROIALS CAPITAL"
 slug: "institutional-asset-hardening-Fund-III"
----
+--- 
 
 Institutional capital follows structure.
 

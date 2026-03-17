@@ -4,7 +4,7 @@ description: "Institutional liquidity architecture for UHNW and sovereign alloca
 date: "2026-03-16"
 author: "ROIALS CAPITAL"
 slug: "crypto-liquidity-architecture-sovereign-ultra-allocators"
----
+--- 
 
 Order collapses when liquidity behaves like vapor instead of capital.
 

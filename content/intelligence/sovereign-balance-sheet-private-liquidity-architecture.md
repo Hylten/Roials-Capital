@@ -4,7 +4,7 @@ description: "Institutional briefing on capital inefficiencies, liquidity engine
 date: "2025-12-11"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "sovereign-balance-sheet-private-liquidity-architecture"
----
+--- 
 
 The capital vacuum in North America's energy sector is a structural consequence of regulatory drift, capital migration, and de-risked institutional mandates that no longer interface with real-asset production cycles.
 

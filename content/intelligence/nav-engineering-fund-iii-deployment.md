@@ -4,7 +4,7 @@ description: "Principal briefing on how mid‑market GPs are engineering NAV-bas
 date: "2025-08-02"
 author: "ROIALS CAPITAL"
 slug: "nav-engineering-Fund-III-deployment"
----
+--- 
 
 Mid‑market GPs are no longer treating NAV facilities as a late‑cycle liquidity patch.
 

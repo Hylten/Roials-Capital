@@ -4,7 +4,7 @@ description: "A clinical institutional briefing on private debt origination mech
 date: "2025-07-05"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-frameworks-private-debt-origination"
----
+--- 
 
 The structural gap defining private debt origination in 2026 is the direct result of regulatory divergence and capital flight from traditional credit markets, not a deterioration in underlying asset performance.
 

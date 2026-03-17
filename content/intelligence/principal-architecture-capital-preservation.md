@@ -4,7 +4,7 @@ description: "Institutional blueprint for capital raising, buyout discipline, li
 date: "2025-07-22"
 author: "Jonas Hyltén"
 slug: "principal-architecture-capital-preservation"
----
+--- 
 
 A structural gap defines the current investment regime.
 

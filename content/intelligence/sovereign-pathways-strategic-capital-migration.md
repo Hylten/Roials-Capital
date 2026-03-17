@@ -4,7 +4,7 @@ description: "Institutional brief on jurisdictional migration, capital hardening
 date: "2025-07-14"
 author: "ROIALS CAPITAL"
 slug: "sovereign-pathways-strategic-capital-migration"
----
+--- 
 
 Strategic capital migration is no longer a secondary dimension of UHNW wealth governance.
 

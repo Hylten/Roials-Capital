@@ -4,7 +4,7 @@ description: "Institutional briefing on the structural evolution of private cred
 date: "2025-12-26"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "future-private-credit-middle-market-strategic-briefing"
----
+--- 
 
 The capital vacuum in the North American middle market is not a function of declining creditworthiness.
 

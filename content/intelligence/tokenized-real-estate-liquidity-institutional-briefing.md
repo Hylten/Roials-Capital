@@ -4,7 +4,7 @@ description: "A clinical analysis of tokenized real estate, balance sheet optimi
 date: "2026-02-19"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "tokenized-real-estate-liquidity-institutional-briefing"
----
+--- 
 
 The liquidity asymmetry in global real estate today is a function of settlement inefficiency, not asset impairment.
 

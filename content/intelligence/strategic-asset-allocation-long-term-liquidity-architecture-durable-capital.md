@@ -4,7 +4,7 @@ description: "Institutional analysis on the structural shifts redefining capital
 date: "2025-08-26"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "strategic-asset-allocation-long-term-liquidity-architecture-durable-capital"
----
+--- 
 
 The capital vacuum shaping North American and European private markets in 2026 is a function of regulatory overcorrection and balance sheet contraction.
 

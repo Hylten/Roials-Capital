@@ -4,7 +4,7 @@ description: "Precision Mechanics Of Transnational Capital Migra"
 date: "2026-01-13"
 author: "Jonas Hyltén"
 slug: "precision-mechanics-of-transnational-capital-migra"
----
+--- 
 
 # Precision Mechanics of Transnational Capital Migration Transnational capital does not drift.
 

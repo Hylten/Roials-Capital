@@ -4,7 +4,7 @@ description: "Institutional brief on Fund-III capital formation, jurisdictional 
 date: "2025-08-13"
 author: "ROIALS CAPITAL"
 slug: "sovereign-stewardship-private-capital-mandate"
----
+--- 
 
 Sovereign stewardship begins where legacy capital retreats.
 

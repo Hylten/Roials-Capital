@@ -4,7 +4,7 @@ description: "Institutional brief on sovereign-grade digital banking architectur
 date: "2025-09-10"
 author: "ROIALS CAPITAL"
 slug: "sovereign-crypto-bank-regime-liquidity-mandate-Fund-III"
----
+--- 
 
 A sovereign crypto bank is not a retail novelty.
 

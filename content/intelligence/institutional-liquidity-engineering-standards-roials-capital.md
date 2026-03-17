@@ -4,7 +4,7 @@ description: "ROIALS CAPITAL’s sovereign-grade framework governing Institution
 date: "2025-08-13"
 author: "ROIALS CAPITAL"
 slug: "institutional-liquidity-engineering-standards-ROIALS CAPITAL"
----
+--- 
 
 Institutional architecture begins with the presumption of asymmetry.
 

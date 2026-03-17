@@ -4,7 +4,7 @@ description: "Institutional briefing on cross-asset hardening, Monetization Arch
 date: "2025-08-07"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "multi-asset-hardening-Fund-III-liquidity-engineering-digital-integration"
----
+--- 
 
 The capital vacuum in multi asset markets is not a function of volatility, but a structural reclassification of usable collateral across institutional balance sheets.
 

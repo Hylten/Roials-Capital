@@ -4,7 +4,7 @@ description: "Institutional-grade framework detailing sovereign liquidity facili
 date: "2025-12-14"
 author: "Jonas Hyltén"
 slug: "sovereign-liquidity-facility-precision-architecture"
----
+--- 
 
 A sovereign balance sheet does not collapse due to a shortage of capital.
 

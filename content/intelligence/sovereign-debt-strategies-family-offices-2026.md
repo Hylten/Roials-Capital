@@ -4,7 +4,7 @@ description: "Institutional analysis on sovereign debt positioning for UHNW fami
 date: "2025-11-12"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "sovereign-debt-strategies-family-offices-2026"
----
+--- 
 
 The capital vacuum in the sovereign fixed income landscape is a function of fragmentation across monetary jurisdictions rather than any structural deterioration in sovereign credit profiles.
 

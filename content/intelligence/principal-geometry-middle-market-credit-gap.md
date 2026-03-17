@@ -4,7 +4,7 @@ description: "A high-density institutional analysis of the structural credit def
 date: "2025-12-27"
 author: "ROIALS CAPITAL"
 slug: "principal-geometry-middle-market-credit-gap"
----
+--- 
 
 The middle market is fragmenting.
 

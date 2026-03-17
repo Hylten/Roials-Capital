@@ -4,7 +4,7 @@ description: "Institutional briefing on balance sheet optimization, capital stac
 date: "2025-12-18"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-asset-hardening-playbook-board-review"
----
+--- 
 
 The capital vacuum in North America’s real asset environment is an outcome of misaligned regulatory cycles rather than a scarcity of investable structures.
 

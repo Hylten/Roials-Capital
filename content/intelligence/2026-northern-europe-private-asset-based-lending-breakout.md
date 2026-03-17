@@ -4,7 +4,7 @@ description: "A principal-level briefing on the structural, jurisdictional, and 
 date: "2025-07-23"
 author: "ROIALS CAPITAL"
 slug: "2026-northern-europe-private-asset-based-lending-breakout"
----
+--- 
 
 The inflection point is already visible.
 

@@ -4,7 +4,7 @@ description: "A principal-grade framework for asset hardening, capital raising f
 date: "2025-11-29"
 author: "ROIALS CAPITAL"
 slug: "institutional-asset-hardening-playbook-5b-board-review"
----
+--- 
 
 A $5B board review does not reward improvisation.
 

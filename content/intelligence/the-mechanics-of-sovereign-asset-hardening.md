@@ -4,7 +4,7 @@ description: "An institutional analysis of liquidity structuring through private
 date: "2026-03-11"
 author: "Jonas Hyltén"
 slug: "the-mechanics-of-sovereign-asset-hardening"
----
+--- 
 
 # The Mechanics of Sovereign Asset Hardening Sovereign asset hardening is not a concept of mere protection.
 

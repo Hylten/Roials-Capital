@@ -4,7 +4,7 @@ description: "Institutional overview of strategic liquidity architecture, privat
 date: "2025-10-30"
 author: "Jonas Hyltén"
 slug: "strategic-capital-migration-for-global-uhnwis"
----
+--- 
 
 # Strategic Capital Migration for Global UHNWIs Global wealth no longer responds to geography.
 

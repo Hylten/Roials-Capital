@@ -4,7 +4,7 @@ description: "Institutional architecture for Fund-III capital formation, cross-b
 date: "2026-01-22"
 author: "ROIALS CAPITAL"
 slug: "institutional-asset-hardening-infrastructure"
----
+--- 
 
 Institutional continuity demands engineered certainty.
 

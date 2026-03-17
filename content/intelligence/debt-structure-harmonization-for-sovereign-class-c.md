@@ -4,7 +4,7 @@ description: "Debt Structure Harmonization for Sovereign Class Capital Flows Usi
 date: "2026-03-20"
 author: "Roials Capital"
 slug: "debt-structure-harmonization-for-sovereign-class-capital-flows-using-the-mathematical-axiom"
----
+--- 
 
 # Debt Structure Harmonization for Sovereign Class Capital Flows Using The Mathematical Axiom ## ## 
 

@@ -4,7 +4,7 @@ description: "A surgical examination of private credit and asset based liquidity
 date: "2025-06-25"
 author: "Jonas Hyltén"
 slug: "the-evolution-of-private-credit-in-2026-the-new-architecture-of-institutional-liquidity"
----
+--- 
 
 # The Evolution of Private Credit in 2026 Private credit in 2026 is no longer a peripheral asset class.
 

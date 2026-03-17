@@ -4,7 +4,7 @@ description: "Technical memorandum on the structural evolution of private credit
 date: "2025-09-17"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-alignment-modern-private-credit-markets"
----
+--- 
 
 The capital vacuum in North American and European private credit markets is a consequence of structural regulatory drift, not a shortage of institutional capital.
 

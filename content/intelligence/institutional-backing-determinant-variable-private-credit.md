@@ -4,7 +4,7 @@ description: "Institutional brief on the capital-formation physics governing pri
 date: "2026-02-01"
 author: "ROIALS CAPITAL"
 slug: "institutional-backing-determinant-variable-private-credit"
----
+--- 
 
 Institutional backing is not a credential.
 

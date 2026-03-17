@@ -4,7 +4,7 @@ description: "Institutional brief on yield mechanics, capital durability, and mu
 date: "2025-11-03"
 author: "ROIALS CAPITAL"
 slug: "strategic-yield-in-asset-hardening"
----
+--- 
 
 Yield is not a return metric.
 

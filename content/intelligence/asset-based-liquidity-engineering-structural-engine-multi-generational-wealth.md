@@ -4,7 +4,7 @@ description: "Institutional memorandum detailing the structural role of Asset Ba
 date: "2025-07-05"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "asset-based-liquidity-engineering-structural-engine-multi-generational-wealth"
----
+--- 
 
 The capital vacuum in North American energy is a function of regulatory drift and institutional mispricing, not resource scarcity.
 

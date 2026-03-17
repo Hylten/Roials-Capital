@@ -4,7 +4,7 @@ description: "An institutional briefing on the structural evolution of private c
 date: "2025-12-22"
 author: "ROIALS CAPITAL"
 slug: "institutional-liquidity-architecture-2026"
----
+--- 
 
 Private credit in 2026 is no longer a substitute for bank lending.
 

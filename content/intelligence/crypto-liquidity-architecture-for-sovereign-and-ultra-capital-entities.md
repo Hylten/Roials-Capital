@@ -4,7 +4,7 @@ description: "Institutional-grade crypto liquidity solutions backed by private c
 date: "2025-12-06"
 author: "Jonas Hyltén"
 slug: "crypto-liquidity-architecture-for-sovereign-and-ultra-capital-entities"
----
+--- 
 
 # Crypto Liquidity for Sovereign Entities A Structural Framework for Institutional Digital Capital Crypto liquidity is no longer an experimental corner of global finance.
 

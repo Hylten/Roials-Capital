@@ -4,7 +4,7 @@ description: "A clinical examination of allocator behavior, cross-cycle capital 
 date: "2026-03-03"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "mechanics-of-institutional-capital-migration"
----
+--- 
 
 The capital vacuum shaping North American hard-asset sectors is a direct function of institutional regulatory drift rather than any degradation in underlying asset productivity.
 

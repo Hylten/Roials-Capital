@@ -4,7 +4,7 @@ description: "An institutional exploration of liquidity strategy through private
 date: "2025-08-30"
 author: "Jonas Hyltén"
 slug: "the-sovereign-future-building-resilient-capital"
----
+--- 
 
 # The Sovereign Future: Building Resilient Capital Capital strength is not a function of scale.
 

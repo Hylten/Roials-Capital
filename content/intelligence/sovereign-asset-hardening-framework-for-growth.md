@@ -4,7 +4,7 @@ description: "Institutional briefing on sovereign grade asset hardening, capital
 date: "2025-09-03"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "sovereign-asset-hardening-framework-for-growth"
----
+--- 
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion.
 

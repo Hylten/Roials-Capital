@@ -4,7 +4,7 @@ description: "A principal-level analysis of private credit’s structural reset,
 date: "2026-03-15"
 author: "ROIALS CAPITAL"
 slug: "private-credit-reallocation-era-Fund-III-kapitalanskaffning"
----
+--- 
 
 Private credit has entered the reallocation era.
 

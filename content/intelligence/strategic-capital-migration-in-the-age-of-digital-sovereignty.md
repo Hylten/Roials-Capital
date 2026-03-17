@@ -4,7 +4,7 @@ description: "An institutional-grade analysis of liquidity engineering through p
 date: "2026-02-20"
 author: "Jonas Hyltén"
 slug: "strategic-capital-migration-in-the-age-of-digital-sovereignty"
----
+--- 
 
 # Strategic Capital Migration in the Age of Digital Sovereignty Capital no longer resides in a single jurisdiction.
 

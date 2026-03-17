@@ -4,7 +4,7 @@ description: "Institutional brief on the structural ascent of private credit, so
 date: "2025-07-22"
 author: "ROIALS CAPITAL"
 slug: "sovereign-convergence-private-credit-Fund-III"
----
+--- 
 
 The architecture of global capital is shifting again.
 

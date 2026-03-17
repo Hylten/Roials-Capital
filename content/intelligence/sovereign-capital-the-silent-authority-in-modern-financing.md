@@ -4,7 +4,7 @@ description: "A high-clarity analysis of liquidity architecture, private credit,
 date: "2026-02-05"
 author: "Jonas Hyltén"
 slug: "sovereign-capital-the-silent-authority-in-modern-financing"
----
+--- 
 
 # Sovereign Capital: The principal authority in Financing Sovereign capital does not compete for visibility.
 

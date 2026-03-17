@@ -4,7 +4,7 @@ description: "A clinical institutional briefing on modern credit architecture fo
 date: "2025-10-04"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "strategic-credit-architecture-hnwi-global"
----
+--- 
 
 The capital vacuum in North American and European middle market environments is a consequence of regulatory compression, interbank withdrawal, and procyclical risk weighting.
 

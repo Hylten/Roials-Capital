@@ -4,7 +4,7 @@ description: "Institutional analysis of capital raising systems for Fund-III str
 date: "2025-08-24"
 author: "ROIALS CAPITAL"
 slug: "Fund-III-capital-raising-architecture"
----
+--- 
 
 A structural gap defines the future of Fund-III capital formation.
 

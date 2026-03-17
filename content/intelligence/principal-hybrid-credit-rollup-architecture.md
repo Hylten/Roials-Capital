@@ -4,7 +4,7 @@ description: "A vault-level briefing on Asset-Based Lending and mezzanine hybrid
 date: "2025-12-07"
 author: "ROIALS CAPITAL"
 slug: "principal-hybrid-credit-rollup-architecture"
----
+--- 
 
 A roll-up only works when liquidity is faster than fragmentation.
 

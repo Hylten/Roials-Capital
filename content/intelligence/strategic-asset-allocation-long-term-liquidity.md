@@ -4,7 +4,7 @@ description: "Institutional brief on capital durability, liquidity engineering, 
 date: "2025-09-06"
 author: "ROIALS CAPITAL"
 slug: "strategic-asset-allocation-long-term-liquidity"
----
+--- 
 
 Durable capital is not an idea.
 

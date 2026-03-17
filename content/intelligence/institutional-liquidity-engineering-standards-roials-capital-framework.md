@@ -4,7 +4,7 @@ description: "A technical briefing on institutional-grade Monetization Architect
 date: "2026-02-16"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-liquidity-engineering-standards-ROIALS CAPITAL-framework"
----
+--- 
 
 The capital vacuum in North American private markets is the predictable outcome of regulatory compression, institutional risk aversion, and the retreat of traditional lenders from structurally sound middle market transactions.
 

@@ -4,7 +4,7 @@ description: "Institutional briefing on the structural mandate for targeted capi
 date: "2026-02-01"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "mandate-of-discrete-capital-deployment"
----
+--- 
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion.
 

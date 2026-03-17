@@ -4,7 +4,7 @@ description: "A principal-grade blueprint for raising institutional capital in i
 date: "2026-03-06"
 author: "ROIALS CAPITAL"
 slug: "deep-liquidity-architecture-Fund-III"
----
+--- 
 
 Deep liquidity architecture begins where ordinary capital strategy collapses.
 

@@ -4,7 +4,7 @@ description: "A strategic analyst memorandum detailing cross-jurisdictional capi
 date: "2025-12-29"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "wealth-mobility-borderless-crypto-collateral-institutional-m-and-a"
----
+--- 
 
 The capital vacuum in global M&A is not driven by a shortage of liquidity.
 

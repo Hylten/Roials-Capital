@@ -4,7 +4,7 @@ description: "Institutional brief for LP/GP allocators on how asset‑based Capi
 date: "2025-08-05"
 author: "ROIALS CAPITAL | Principal Investigator"
 slug: "asset-based-liquidity-engineering-multi-generational-wealth"
----
+--- 
 
 Asset‑based Monetization Architecture operates as the structural engine behind durable dynastic capital.
 

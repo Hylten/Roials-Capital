@@ -4,7 +4,7 @@ description: "High‑density institutional briefing on capital raising (Fund‑I
 date: "2025-10-02"
 author: "ROIALS CAPITAL"
 slug: "principal-architecture-institutional-asset-hardening"
----
+--- 
 
 The institutional mandate is simple: build structures that cannot break.
 

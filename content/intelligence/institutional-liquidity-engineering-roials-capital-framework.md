@@ -4,7 +4,7 @@ description: "A technical analyst briefing for institutional allocators evaluati
 date: "2026-01-31"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-liquidity-engineering-ROIALS CAPITAL-framework"
----
+--- 
 
 The dislocation between balance sheet needs and institutional credit availability in 2026 is not a function of elevated risk profiles.
 

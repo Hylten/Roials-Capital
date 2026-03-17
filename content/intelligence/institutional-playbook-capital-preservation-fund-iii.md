@@ -4,7 +4,7 @@ description: "A principal-level framework for kapitalanskaffning, private credit
 date: "2026-03-05"
 author: "ROIALS CAPITAL"
 slug: "institutional-playbook-capital-preservation-Fund-III"
----
+--- 
 
 Capital moves on certainty.
 

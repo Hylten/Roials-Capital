@@ -4,7 +4,7 @@ description: "Institutional brief on jurisdictional arbitrage, digital sovereign
 date: "2025-12-28"
 author: "ROIALS CAPITAL"
 slug: "strategic-capital-migration-digital-sovereignty"
----
+--- 
 
 Digital sovereignty has replaced geographic borders as the primary determinant of capital velocity.
 

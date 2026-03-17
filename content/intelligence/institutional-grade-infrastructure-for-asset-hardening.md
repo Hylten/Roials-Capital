@@ -4,7 +4,7 @@ description: "Institutional liquidity architecture for HNWI and UHNW investors, 
 date: "2025-11-13"
 author: "Jonas Hyltén"
 slug: "institutional-grade-infrastructure-for-asset-hardening"
----
+--- 
 
 # Institutional Grade Infrastructure for Asset Hardening Asset hardening is no longer a defensive strategy.
 

@@ -4,7 +4,7 @@ description: "Institutional briefing on the structural debt realignment, soverei
 date: "2025-09-15"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "sovereign-debt-strategies-crypto-abl-uhnw-liquidity-architecture"
----
+--- 
 
 The capital vacuum in global sovereign debt is the foreseeable product of duration mismatch, demographic compression, and declining fiscal elasticity.
 

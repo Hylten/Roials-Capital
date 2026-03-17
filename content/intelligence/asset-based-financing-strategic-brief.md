@@ -4,7 +4,7 @@ description: "Institutional brief on asset-based financing as a capital‑multip
 date: "2025-12-30"
 author: "ROIALS CAPITAL"
 slug: "asset-based-financing-strategic-brief"
----
+--- 
 
 The modern private wealth cohort is no longer defined by passive asset accumulation.
 

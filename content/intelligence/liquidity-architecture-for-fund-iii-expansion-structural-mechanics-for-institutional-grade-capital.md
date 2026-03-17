@@ -4,7 +4,7 @@ description: "An institutional analysis of liquidity architecture, private credi
 date: "2025-08-12"
 author: "Jonas Hyltén"
 slug: "liquidity-architecture-for-Fund-III-expansion-structural-mechanics-for-institutional-grade-capital"
----
+--- 
 
 # Liquidity Architecture for Fund-III Expansion Roials Capital operates in a domain where liquidity is not a convenience.
 

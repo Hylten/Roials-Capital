@@ -4,7 +4,7 @@ description: "An institutional analysis of the capital regime shift reshaping gl
 date: "2025-12-10"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "sovereign-future-resilient-capital-structural-discipline"
----
+--- 
 
 The capital vacuum in North America’s energy sector is a consequence of regulatory drift, not resource depletion.
 

@@ -4,7 +4,7 @@ description: "Institutional brief on multi-jurisdictional balance‑sheet engine
 date: "2026-03-09"
 author: "Jonas Roials"
 slug: "sovereign-balance-sheet-architecture"
----
+--- 
 
 A sovereign balance sheet is not a document.
 

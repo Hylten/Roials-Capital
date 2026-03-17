@@ -4,7 +4,7 @@ description: "A high-level examination of institutional private credit and asset
 date: "2025-08-03"
 author: "Jonas Hyltén"
 slug: "institutional-private-credit-vs-traditional-banking-the-architecture-of-modern-liquidity"
----
+--- 
 
 # Institutional Private Credit vs Traditional Banking The modern liquidity landscape has cleaved into two fundamentally different architectures.
 

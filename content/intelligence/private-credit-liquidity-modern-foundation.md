@@ -4,7 +4,7 @@ description: "Institutional briefing on the structural role of private credit, t
 date: "2025-08-04"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "private-credit-liquidity-modern-foundation"
----
+--- 
 
 The capital vacuum in North American credit formation since 2018 is a regulatory artifact, not a deterioration of real asset quality.
 

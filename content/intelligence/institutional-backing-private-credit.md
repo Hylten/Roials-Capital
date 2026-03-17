@@ -4,7 +4,7 @@ description: "A technical briefing on institutional alignment, capital stack sta
 date: "2025-11-28"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-backing-private-credit"
----
+--- 
 
 The structural gap in private credit today is not driven by a shortage of opportunities.
 

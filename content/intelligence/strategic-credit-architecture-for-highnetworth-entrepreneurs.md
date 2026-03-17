@@ -4,7 +4,7 @@ description: "A deep institutional analysis of liquidity structuring, private cr
 date: "2026-01-20"
 author: "Jonas Hyltén"
 slug: "strategic-credit-architecture-for-highnetworth-entrepreneurs"
----
+--- 
 
 # Strategic Credit for High‑Net‑Worth Entrepreneurs High‑net‑worth entrepreneurs do not compete for capital.
 

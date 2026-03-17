@@ -4,7 +4,7 @@ description: "High conviction framework for capital hardening mechanics, Asset-B
 date: "2026-01-27"
 author: "ROIALS CAPITAL"
 slug: "institutional-grade-asset-hardening"
----
+--- 
 
 Order does not appear by accident.
 

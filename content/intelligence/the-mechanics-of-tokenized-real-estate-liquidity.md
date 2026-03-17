@@ -4,7 +4,7 @@ description: "A surgical examination of how tokenized real estate interfaces wit
 date: "2026-03-11"
 author: "Jonas Hyltén"
 slug: "the-mechanics-of-tokenized-real-estate-liquidity"
----
+--- 
 
 # The Mechanics of Tokenized Real Estate Liquidity Tokenized real estate is often discussed through the lens of accessibility and fractional ownership, yet these framings miss the institutional core.
 

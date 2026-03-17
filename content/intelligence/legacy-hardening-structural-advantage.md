@@ -4,7 +4,7 @@ description: "A high density institutional analysis on the legacy hardening thes
 date: "2025-07-21"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "legacy-hardening-structural-advantage"
----
+--- 
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion.
 

@@ -4,7 +4,7 @@ description: "Institutional thesis on sovereign-grade digital balance sheets, li
 date: "2026-02-10"
 author: "Jonas Hyltén"
 slug: "sovereign-crypto-bank-regime"
----
+--- 
 
 A structural gap is widening beneath the feet of global allocators.
 

@@ -4,7 +4,7 @@ description: "An institutional examination of risk mitigation mechanics within s
 date: "2026-01-05"
 author: "Jonas Hyltén"
 slug: "risk-mitigation-in-sovereign-asset-structures-architecting-stability-for-institutional-capital"
----
+--- 
 
 # Risk Mitigation in Sovereign Asset Structures Sovereign asset structures form the highest tier of capital organization.
 

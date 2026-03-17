@@ -4,7 +4,7 @@ description: "An institutional analysis of liquidity architecture, private credi
 date: "2025-06-26"
 author: "Jonas Hyltén"
 slug: "sovereign-capital-deployment-strategies-for-institutionalgrade-wealth"
----
+--- 
 
 # Sovereign Capital Deployment Strategies Sovereign capital behaves differently from conventional wealth.
 

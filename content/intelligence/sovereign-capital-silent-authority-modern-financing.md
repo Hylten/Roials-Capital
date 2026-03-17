@@ -4,7 +4,7 @@ description: "An institutional analysis of the sovereign capital regime shift, i
 date: "2025-11-08"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "sovereign-capital-silent-authority-modern-financing"
----
+--- 
 
 The capital vacuum in North America’s middle market is not the result of a shortage of assets.
 

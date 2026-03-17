@@ -4,7 +4,7 @@ description: "Institutional briefing on sovereign crypto banking, liquidity engi
 date: "2025-09-26"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "sovereign-crypto-banks-uhnw-liquidity-architecture"
----
+--- 
 
 The capital vacuum emerging across global private markets is not a function of declining opportunities but the direct outcome of regulatory recalibration.
 

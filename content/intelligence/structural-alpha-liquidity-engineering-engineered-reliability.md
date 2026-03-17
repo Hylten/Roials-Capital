@@ -4,7 +4,7 @@ description: "Institutional briefing on the structural gap in North American ene
 date: "2025-06-25"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "structural-alpha-liquidity-engineering-engineered-reliability"
----
+--- 
 
 The capital vacuum in North American energy is a consequence of regulatory drift, not resource depletion.
 

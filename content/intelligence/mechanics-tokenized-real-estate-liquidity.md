@@ -4,7 +4,7 @@ description: "Institutional-grade analysis of tokenized real estate liquidity st
 date: "2025-12-13"
 author: "ROIALS CAPITAL"
 slug: "mechanics-tokenized-real-estate-liquidity"
----
+--- 
 
 Structural gaps create pricing power.
 

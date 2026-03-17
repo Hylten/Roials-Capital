@@ -4,7 +4,7 @@ description: "Institutional briefing on asset based lending as a stabilizing fun
 date: "2025-07-09"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "structural-role-of-abl-in-modern-diversified-wealth-portfolios"
----
+--- 
 
 The capital vacuum in North American asset markets is not a function of scarcity.
 

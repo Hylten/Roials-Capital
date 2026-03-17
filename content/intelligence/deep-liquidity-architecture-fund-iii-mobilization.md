@@ -4,7 +4,7 @@ description: "Institutional blueprint for multi‑jurisdictional capital formati
 date: "2026-02-24"
 author: "ROIALS CAPITAL | Principal Investigator"
 slug: "deep-liquidity-architecture-Fund-III-mobilization"
----
+--- 
 
 A deep-liquidity architecture never emerges from tactical capital raising.
 

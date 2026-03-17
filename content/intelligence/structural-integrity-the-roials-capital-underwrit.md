@@ -4,7 +4,7 @@ description: "Structural Integrity: The Roials Capital Underwrit"
 date: "2025-11-25"
 author: "Jonas Hyltén"
 slug: "structural-integrity-the-ROIALS CAPITAL-underwrit"
----
+--- 
 
 # Structural Integrity 
 

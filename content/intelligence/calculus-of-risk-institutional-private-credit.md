@@ -4,7 +4,7 @@ description: "A principal-level dissection of risk calculus, capital formation, 
 date: "2025-08-10"
 author: "ROIALS CAPITAL"
 slug: "calculus-of-risk-institutional-private-credit"
----
+--- 
 
 Institutional private credit is no longer a yield product.
 

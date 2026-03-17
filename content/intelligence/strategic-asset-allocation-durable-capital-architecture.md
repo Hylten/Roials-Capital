@@ -4,7 +4,7 @@ description: "Institutional briefing on long horizon capital construction, liqui
 date: "2025-08-17"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "strategic-asset-allocation-durable-capital-architecture"
----
+--- 
 
 The capital vacuum in North American energy and mid market private credit is the cumulative result of regulatory inertia, institutional over diversification, and an asset selection framework that has not been recalibrated since 
 

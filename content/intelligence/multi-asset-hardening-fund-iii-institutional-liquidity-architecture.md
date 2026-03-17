@@ -4,7 +4,7 @@ description: "Institutional brief on capital hardening, digital‑asset integrat
 date: "2026-01-29"
 author: "ROIALS CAPITAL | Principal Architect"
 slug: "multi-asset-hardening-Fund-III-institutional-liquidity-architecture"
----
+--- 
 
 ## THE MANDATE
 

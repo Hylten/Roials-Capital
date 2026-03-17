@@ -4,7 +4,7 @@ description: "A principal-level institutional brief on hardened capital engineer
 date: "2025-08-08"
 author: "ROIALS CAPITAL"
 slug: "architecture-of-hardened-capital"
----
+--- 
 
 Hardened capital is not a metaphor.
 

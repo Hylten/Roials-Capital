@@ -4,7 +4,7 @@ description: "Institutional briefing on cross-jurisdictional wealth mobility sys
 date: "2026-01-23"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "wealth-mobility-architecture-borderless-crypto-collateral-institutional-ma"
----
+--- 
 
 The capital vacuum in institutional M and A today is driven by regulatory fragmentation, not a shortage of qualified assets.
 

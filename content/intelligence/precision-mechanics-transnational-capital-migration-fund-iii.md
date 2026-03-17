@@ -4,7 +4,7 @@ description: "Institutional analysis on cross‑border capital formation, acquis
 date: "2025-09-29"
 author: "ROIALS CAPITAL"
 slug: "precision-mechanics-transnational-capital-migration-Fund-III"
----
+--- 
 
 Transnational capital never travels randomly.
 

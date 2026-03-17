@@ -4,7 +4,7 @@ description: "A high density institutional analysis of capital migration drivers
 date: "2025-07-27"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-capital-migration-mechanics"
----
+--- 
 
 The capital vacuum in North America’s productive asset base is a function of regulatory drift, institutional overconcentration, and a structural mispricing of long duration real assets.
 

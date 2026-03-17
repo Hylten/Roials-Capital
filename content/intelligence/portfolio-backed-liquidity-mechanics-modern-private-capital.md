@@ -4,7 +4,7 @@ description: "Institutional briefing on the structural role of portfolio backed 
 date: "2026-03-15"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "portfolio-backed-liquidity-mechanics-modern-private-capital"
----
+--- 
 
 The capital vacuum in private markets did not emerge from declining opportunity sets.
 

@@ -4,7 +4,7 @@ description: "Institutional-grade credit architecture for Fund-III capital forma
 date: "2025-07-30"
 author: "Jonas Hyltén"
 slug: "strategic-credit-architecture-hnwi"
----
+--- 
 
 A mispriced covenant structure always reveals the fracture point of an ecosystem long before the market acknowledges it.
 

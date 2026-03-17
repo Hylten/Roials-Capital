@@ -4,7 +4,7 @@ description: "Institutional brief on multi‑asset liquidity engineering, capita
 date: "2025-08-19"
 author: "ROIALS CAPITAL | Principal Desk"
 slug: "multi-asset-liquidity-mechanics-institutional-portfolios"
----
+--- 
 
 Multi‑asset liquidity is not a market preference.
 

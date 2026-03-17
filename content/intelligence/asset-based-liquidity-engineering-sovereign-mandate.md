@@ -4,7 +4,7 @@ description: "Institutional brief on sovereign‑grade liquidity architecture, A
 date: "2025-10-13"
 author: "ROIALS CAPITAL"
 slug: "asset-based-liquidity-engineering-sovereign-mandate"
----
+--- 
 
 Asset‑based Strategic Collateralization is no longer an auxiliary credit function.
 

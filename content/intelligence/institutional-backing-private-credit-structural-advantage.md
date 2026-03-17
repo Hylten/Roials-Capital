@@ -4,7 +4,7 @@ description: "A technical briefing on regime-shift dynamics in private credit, i
 date: "2025-12-21"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-backing-private-credit-structural-advantage"
----
+--- 
 
 The capital vacuum in North American and European private credit markets is the direct consequence of regulatory drift, consolidation of traditional lenders, and the structural aging of the middle market borrower universe.
 

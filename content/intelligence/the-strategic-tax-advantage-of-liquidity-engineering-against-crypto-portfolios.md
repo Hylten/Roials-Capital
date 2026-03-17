@@ -4,7 +4,7 @@ description: "Explore how HNWI and UHNW investors unlock liquidity and reduce ta
 date: "2025-08-15"
 author: "Jonas Hyltén"
 slug: "the-strategic-tax-advantage-of-liquidity-engineering-against-crypto-portfolios"
----
+--- 
 
 # The Tax Advantage of Capital Structuring Against Crypto Portfolios High net worth investors do not respond to noise.
 

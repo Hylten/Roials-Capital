@@ -4,7 +4,7 @@ description: "A technical briefing on the structural transformation in sovereign
 date: "2025-07-25"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "sovereign-wealth-management-new-institutional-model-private-capital"
----
+--- 
 
 The capital vacuum in North American private markets reflects a multi-cycle regulatory drift that has constrained commercial lending capacity while accelerating the shift of long duration assets toward sovereign allocators.
 

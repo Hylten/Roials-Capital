@@ -4,7 +4,7 @@ description: "An in-depth guide for GPs on transforming asset structures to meet
 date: "2025-12-17"
 author: "Jonas Hyltén"
 slug: "the-institutional-asset-hardening-playbook-how-to-pass-a-5b-board-review"
----
+--- 
 
 # The Institutional Asset Hardening Playbook: How to Pass a $5B Board Review 
 

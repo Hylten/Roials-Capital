@@ -4,7 +4,7 @@ description: "Institutional liquidity engineering framework for sovereign alloca
 date: "2026-01-02"
 author: "ROIALS CAPITAL"
 slug: "crypto-liquidity-architecture-sovereign-ultra-capital"
----
+--- 
 
 Fragmentation in crypto liquidity is not a technology flaw.
 

@@ -4,7 +4,7 @@ description: "Institutional thesis on sovereign credit mobility, buyout capital 
 date: "2026-02-24"
 author: "ROIALS CAPITAL"
 slug: "architecture-sovereign-credit-mobility"
----
+--- 
 
 A sovereign balance sheet does not fail from lack of assets.
 

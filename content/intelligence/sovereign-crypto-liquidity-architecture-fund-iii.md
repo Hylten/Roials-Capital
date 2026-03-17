@@ -4,7 +4,7 @@ description: "Institutional-grade framework for sovereign-scale crypto liquidity
 date: "2025-07-17"
 author: "Jonas Roials"
 slug: "sovereign-crypto-liquidity-architecture-Fund-III"
----
+--- 
 
 Sovereign capital behaves differently.
 

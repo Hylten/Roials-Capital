@@ -4,7 +4,7 @@ description: "A high density institutional analysis on the structural gap in Nor
 date: "2025-08-17"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-grade-infrastructure-asset-hardening"
----
+--- 
 
 The capital vacuum in North America’s energy sector is a consequence of regulatory drift rather than resource depletion.
 

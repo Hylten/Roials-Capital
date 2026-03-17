@@ -4,7 +4,7 @@ description: "A private Principal‑level briefing on why operational alpha now 
 date: "2025-12-15"
 author: "ROIALS CAPITAL"
 slug: "operational-alpha-add-on-architecture"
----
+--- 
 
 The pivot is not philosophical.
 

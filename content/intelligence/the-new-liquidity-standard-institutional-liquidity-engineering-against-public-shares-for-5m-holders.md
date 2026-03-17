@@ -4,7 +4,7 @@ description: "A high‑authority analysis of the emerging liquidity standard, fo
 date: "2025-11-25"
 author: "Jonas Hyltén"
 slug: "the-new-liquidity-standard-institutional-liquidity-engineering-against-public-shares-for-5m-holders"
----
+--- 
 
 # The New Liquidity Standard: Capital Structuring Against Public Shares for the + Class Liquidity architecture is shifting.
 

@@ -4,7 +4,7 @@ description: "Institutional brief on sovereign-grade capital architecture, Fund-
 date: "2025-09-15"
 author: "ROIALS CAPITAL"
 slug: "architecture-of-capital-engineered-sovereignty"
----
+--- 
 
 Sovereignty is engineered, not inherited.
 

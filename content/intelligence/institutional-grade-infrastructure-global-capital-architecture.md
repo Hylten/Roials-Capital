@@ -4,7 +4,7 @@ description: "A clinical institutional briefing on the structural regime shift s
 date: "2025-12-16"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-grade-infrastructure-global-capital-architecture"
----
+--- 
 
 The capital vacuum across global private markets is a function of structural dislocation rather than asset scarcity.
 

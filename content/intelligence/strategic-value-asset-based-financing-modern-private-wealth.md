@@ -4,7 +4,7 @@ description: "An institutional briefing on the role of asset based financing as 
 date: "2025-08-28"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "strategic-value-asset-based-financing-modern-private-wealth"
----
+--- 
 
 The capital vacuum in North American private markets is no longer cyclical.
 

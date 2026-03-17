@@ -4,7 +4,7 @@ description: "A clinical analysis of the regime shift reshaping global private c
 date: "2025-08-27"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "sovereign-wealth-management-institutional-reconfiguration-private-capital"
----
+--- 
 
 The capital vacuum in North American private markets is a consequence of regulatory drift and institutional retrenchment, not a shortage of productive assets.
 

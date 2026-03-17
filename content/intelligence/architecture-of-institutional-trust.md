@@ -4,7 +4,7 @@ description: "An institutional briefing on the structural mechanics that govern 
 date: "2025-10-10"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "architecture-of-institutional-trust"
----
+--- 
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion.
 

@@ -4,7 +4,7 @@ description: "A principal-level analysis of structural capital reallocation, tec
 date: "2026-01-26"
 author: "Jonas Hylten"
 slug: "institutional-capital-migration"
----
+--- 
 
 A structural gap always appears before a liquidity regime shifts.
 

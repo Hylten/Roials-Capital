@@ -4,7 +4,7 @@ description: "A strategic examination of how sovereign crypto banks redefine liq
 date: "2026-02-26"
 author: "Jonas Hyltén"
 slug: "the-rise-of-sovereign-crypto-banks-for-uhnw-liquidity"
----
+--- 
 
 # The Rise of Sovereign Crypto Banks for UHNW Liquidity The global wealth architecture is entering an era defined by sovereignty, optionality, and jurisdictional neutrality.
 

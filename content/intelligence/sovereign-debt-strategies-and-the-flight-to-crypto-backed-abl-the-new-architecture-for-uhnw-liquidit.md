@@ -4,7 +4,7 @@ description: "Why sovereign debt fragility is pushing UHNW individuals toward cr
 date: "2026-02-15"
 author: "Jonas Hyltén"
 slug: "sovereign-debt-strategies-and-the-flight-to-crypto-backed-abl-the-new-architecture-for-uhnw-liquidit"
----
+--- 
 
 # Sovereign Debt Strategies: Why UHNWIs are Moving to Crypto-Backed Asset-Based Lending Global sovereign debt has reached a structural inflection point.
 

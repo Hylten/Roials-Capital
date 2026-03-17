@@ -4,7 +4,7 @@ description: "A principal-level framework on risk calculus, capital formation, l
 date: "2025-08-27"
 author: "ROIALS CAPITAL"
 slug: "calculus-of-risk-institutional-private-credit-Fund-III"
----
+--- 
 
 Institutional private credit is no longer a yield engine.
 

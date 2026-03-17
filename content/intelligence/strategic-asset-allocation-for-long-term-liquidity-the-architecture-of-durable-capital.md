@@ -4,7 +4,7 @@ description: "A high-level liquidity framework for HNWI and UHNW investors using
 date: "2026-01-07"
 author: "Jonas Hyltén"
 slug: "strategic-asset-allocation-for-long-term-liquidity-the-architecture-of-durable-capital"
----
+--- 
 
 # Strategic Asset Allocation for Long-Term Liquidity The pursuit of long-term liquidity is no longer an optional configuration for sophisticated capital.
 

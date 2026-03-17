@@ -4,7 +4,7 @@ description: "A principal-level, closed‑room analysis on consolidation economi
 date: "2025-12-15"
 author: "ROIALS CAPITAL"
 slug: "institutional-case-add-on-consolidation-fragmented-technical-services"
----
+--- 
 
 The center of gravity in technical services is shifting.
 

@@ -4,7 +4,7 @@ description: "A technical briefing on the regime shift from regulated banking cr
 date: "2025-09-07"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-private-credit-vs-traditional-banking-architecture-of-modern-liquidity"
----
+--- 
 
 The capital vacuum across North American and European credit markets is a structural consequence of regulatory compression, not a contraction in underlying economic productivity.
 

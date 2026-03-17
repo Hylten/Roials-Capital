@@ -4,7 +4,7 @@ description: "Institutional analysis of private credit's regime shift, mid-marke
 date: "2025-08-04"
 author: "ROIALS CAPITAL"
 slug: "reallocation-mandate-private-credit-Fund-III"
----
+--- 
 
 A structural gap has opened at the center of private credit.
 

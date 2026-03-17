@@ -4,7 +4,7 @@ description: "Institutional blueprint for capital raising, buyout infrastructure
 date: "2025-12-24"
 author: "ROIALS CAPITAL"
 slug: "institutional-asset-hardening-architecture"
----
+--- 
 
 A structural gap always reveals itself first in recovery math.
 

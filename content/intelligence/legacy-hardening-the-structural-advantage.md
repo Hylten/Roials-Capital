@@ -4,7 +4,7 @@ description: "An institutional exploration of liquidity architecture through pri
 date: "2025-11-27"
 author: "Jonas Hyltén"
 slug: "legacy-hardening-the-structural-advantage"
----
+--- 
 
 # Legacy Hardening: The Structural Advantage Legacy is not a passive artifact.
 

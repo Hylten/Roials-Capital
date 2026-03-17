@@ -4,7 +4,7 @@ description: "Institutional briefing on crypto collateral mechanics, cross-juris
 date: "2026-01-25"
 author: "Jonas Hyltén"
 slug: "borderless-crypto-collateral-wealth-mobility-institutional-ma"
----
+--- 
 
 A structural gap has formed at the intersection of jurisdictional control and mobile capital.
 

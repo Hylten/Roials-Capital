@@ -4,7 +4,7 @@ description: "Institutional analysis of sovereign-grade crypto banking, UHNWI li
 date: "2025-12-17"
 author: "Jonas Hyltén"
 slug: "sovereign-crypto-banks-uhnw-liquidity-Fund-III"
----
+--- 
 
 A jurisdictional void always precedes a new monetary institution.
 

@@ -4,7 +4,7 @@ description: "Analyst-grade assessment of regulatory drift, capital displacement
 date: "2025-08-11"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "precision-mechanics-transnational-capital-migration"
----
+--- 
 
 The current migration of institutional capital across North America, Europe, and the Gulf states is a structural consequence of regulatory divergence, not a shift in allocator risk appetite.
 

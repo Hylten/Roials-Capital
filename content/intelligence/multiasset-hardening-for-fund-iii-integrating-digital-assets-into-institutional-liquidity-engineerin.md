@@ -4,7 +4,7 @@ description: "Institutional overview of Asset-Backed Frameworks and asset based 
 date: "2026-01-19"
 author: "Jonas Hyltén"
 slug: "multiasset-hardening-for-Fund-III-integrating-digital-assets-into-institutional-liquidity-engineerin"
----
+--- 
 
 # Multi Asset Hardening for Fund-III Integrating Digital Assets Into Institutional Asset-Backed Frameworks Architecture Multi asset hardening has become a defining requirement for HNWI and UHNW allocators who manage cross class exposure in an environment of rising structural fragility.
 

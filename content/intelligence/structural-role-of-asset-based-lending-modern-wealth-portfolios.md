@@ -4,7 +4,7 @@ description: "Institutional analysis of ABL as a stability anchor, liquidity eng
 date: "2025-11-24"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "structural-role-of-asset-based-lending-modern-wealth-portfolios"
----
+--- 
 
 The liquidity deficit across global private markets is the direct outcome of capital regime fragmentation rather than a shortage of collateralized enterprise value.
 

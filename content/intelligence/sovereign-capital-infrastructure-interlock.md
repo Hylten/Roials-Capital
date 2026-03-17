@@ -4,7 +4,7 @@ description: "Institutional analysis of sovereign capital infrastructure, regime
 date: "2025-07-02"
 author: "ROIALS CAPITAL"
 slug: "sovereign-capital-infrastructure-interlock"
----
+--- 
 
 A structural gap defines every future market.
 

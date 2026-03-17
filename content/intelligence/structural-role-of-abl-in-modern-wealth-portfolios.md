@@ -4,7 +4,7 @@ description: "Institutional analysis of Asset Based Lending as a stabilizing mec
 date: "2025-10-19"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "structural-role-of-abl-in-modern-wealth-portfolios"
----
+--- 
 
 The capital vacuum in North American middle market finance is a consequence of regulatory drift rather than borrower deterioration.
 

@@ -4,7 +4,7 @@ description: "A clinical analysis for institutional allocators on capital preser
 date: "2025-12-10"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-playbook-capital-preservation"
----
+--- 
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion.
 

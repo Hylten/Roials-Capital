@@ -4,7 +4,7 @@ description: "A high‑trust, institutional guide to liquidity creation through 
 date: "2025-07-13"
 author: "Jonas Hyltén"
 slug: "the-institutional-playbook-for-capital-preservation"
----
+--- 
 
 # The Institutional Playbook for Capital Preservation Capital preservation is not a defensive posture.
 

@@ -4,7 +4,7 @@ description: "A deep institutional analysis of how yield transforms private cred
 date: "2025-08-13"
 author: "Jonas Hyltén"
 slug: "the-strategic-role-of-yield-in-true-asset-hardening"
----
+--- 
 
 # The Role of Yield in Asset Hardening Asset hardening is the quiet architecture of capital durability.
 

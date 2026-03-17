@@ -4,7 +4,7 @@ description: "Deep institutional briefing on why non‑sponsor add‑on buyouts 
 date: "2026-01-07"
 author: "ROIALS CAPITAL"
 slug: "non-sponsor-add-on-buyouts-2026-fund-deployment"
----
+--- 
 
 The market is fractured.
 

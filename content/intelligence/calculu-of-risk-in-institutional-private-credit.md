@@ -4,7 +4,7 @@ description: "An institutional briefing on risk stratification, structural credi
 date: "2026-02-15"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "calculu-of-risk-in-institutional-private-credit"
----
+--- 
 
 The capital vacuum in North American private credit is the predictable outcome of regulatory fragmentation and institutional retrenchment rather than a deterioration in asset quality.
 

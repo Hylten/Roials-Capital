@@ -4,7 +4,7 @@ description: "Institutional memo outlining regime shifts in North American energ
 date: "2025-06-23"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "structural-alignment-multi-jurisdictional-asset-architectures"
----
+--- 
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift and balance sheet deleveraging cycles rather than resource depletion or geological decline.
 

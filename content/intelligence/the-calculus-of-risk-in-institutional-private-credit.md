@@ -4,7 +4,7 @@ description: "A technical briefing on the structural mechanics, capital ineffici
 date: "2025-07-17"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "the-calculus-of-risk-in-institutional-private-credit"
----
+--- 
 
 The capital vacuum in North American and European private credit is not a consequence of risk escalation.
 

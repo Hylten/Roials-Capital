@@ -4,7 +4,7 @@ description: "Institutional briefing on macro regime shifts, sovereign asset mec
 date: "2025-12-31"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "risk-mitigation-sovereign-asset-structures"
----
+--- 
 
 The capital vacuum in North America’s strategic asset base is no longer cyclical.
 

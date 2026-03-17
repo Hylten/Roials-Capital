@@ -4,7 +4,7 @@ description: "An institutional exploration of liquidity engineering, private cre
 date: "2026-02-17"
 author: "Jonas Hyltén"
 slug: "architecting-asset-hardening-for-executive-portfolios"
----
+--- 
 
 # Asset Hardening for Executive Portfolios Asset hardening is the discipline of transforming volatile or illiquid holdings into durable, strategically protected capital structures.
 

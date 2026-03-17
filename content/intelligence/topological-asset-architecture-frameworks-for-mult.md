@@ -4,7 +4,7 @@ description: "Topological Asset Architecture Frameworks for Multi Layer Portfoli
 date: "2026-03-20"
 author: "Roials Capital"
 slug: "topological-asset-architecture-frameworks-for-multi-layer-portfolios-using-the-sovereign-protocol-technique"
----
+--- 
 
 # Topological Asset Architecture Frameworks for Multi Layer Portfolios Using The Sovereign Protocol Technique ## ## 
 

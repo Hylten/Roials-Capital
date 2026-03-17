@@ -4,7 +4,7 @@ description: "A technical institutional briefing on capital inefficiencies, liqu
 date: "2026-03-14"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "strategic-liquidity-architecture-sovereign-uhnw-portfolios"
----
+--- 
 
 The capital vacuum in North America's energy sector is a function of regulatory drift and institutional withdrawal rather than any decline in underlying asset quality.
 

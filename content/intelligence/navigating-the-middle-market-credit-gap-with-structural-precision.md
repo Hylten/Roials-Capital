@@ -4,7 +4,7 @@ description: "A surgical examination of liquidity architecture, private credit, 
 date: "2026-01-22"
 author: "Jonas Hyltén"
 slug: "navigating-the-middle-market-credit-gap-with-structural-precision"
----
+--- 
 
 # Navigating the Middle Market Credit Gap The middle market credit gap did not emerge overnight.
 

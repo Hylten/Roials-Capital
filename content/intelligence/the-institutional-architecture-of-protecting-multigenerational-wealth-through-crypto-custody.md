@@ -4,7 +4,7 @@ description: "A high trust analysis on institutional crypto custody, liquidity e
 date: "2026-01-12"
 author: "Jonas Hyltén"
 slug: "the-institutional-architecture-of-protecting-multigenerational-wealth-through-crypto-custody"
----
+--- 
 
 # Protecting Multi Generational Wealth Through Institutional Crypto Custody The conversation surrounding digital assets has changed.
 

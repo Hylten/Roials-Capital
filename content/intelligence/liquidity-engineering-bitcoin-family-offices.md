@@ -4,7 +4,7 @@ description: "Institutional briefing on Institutional Liquidity Paths, Bitcoin a
 date: "2025-11-24"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "liquidity-engineering-bitcoin-family-offices"
----
+--- 
 
 The structural gap in global reserve architecture is no longer a function of commodity scarcity.
 

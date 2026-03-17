@@ -4,7 +4,7 @@ description: "Analysis of how NAEOC mandates are outmaneuvering traditional infr
 date: "2025-08-18"
 author: "ROIALS CAPITAL"
 slug: "energy-security-capital-naeoc-infrastructure-displacement"
----
+--- 
 
 NAEOC structures cut straight through the old guard.
 

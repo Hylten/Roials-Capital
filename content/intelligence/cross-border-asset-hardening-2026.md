@@ -4,7 +4,7 @@ description: "Analyst-grade briefing on structural capital dislocations, cross-b
 date: "2025-08-02"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "cross-border-asset-hardening-2026"
----
+--- 
 
 The capital vacuum in North America’s upstream and midstream energy segments is a direct consequence of regulatory drift, capital misallocation, and a multi-year divergence between policy rhetoric and physical market constraints.
 

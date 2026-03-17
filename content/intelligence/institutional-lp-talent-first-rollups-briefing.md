@@ -4,7 +4,7 @@ description: "Confidential Principal-level analysis on human‑capital‑dominan
 date: "2025-10-10"
 author: "ROIALS CAPITAL"
 slug: "institutional-lp-talent-first-rollups-briefing"
----
+--- 
 
 The shift is quiet.
 

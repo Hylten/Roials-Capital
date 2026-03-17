@@ -4,7 +4,7 @@ description: "Institutional thesis on sovereign aligned private capital, Fund-II
 date: "2025-10-14"
 author: "Jonas Hyltén"
 slug: "sovereign-wealth-management-private-capital-regime"
----
+--- 
 
 A structural gap is widening between sovereign liquidity velocity and private capital’s operational drag.
 

@@ -4,7 +4,7 @@ description: "An institutional examination of structural alpha within private cr
 date: "2025-12-10"
 author: "Jonas Hyltén"
 slug: "structural-alpha-in-private-credit-portfolios-the-architecture-of-controlled-liquidity"
----
+--- 
 
 # Structural Alpha in Private Credit Portfolios Structural alpha is not a market phenomenon.
 

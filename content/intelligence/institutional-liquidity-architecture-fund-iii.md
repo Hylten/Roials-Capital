@@ -4,7 +4,7 @@ description: "A principalâ€‘level analytical brief on capital formation, assetâ€
 date: "2025-11-22"
 author: "ROIALS CAPITAL"
 slug: "institutional-liquidity-architecture-Fund-III"
----
+--- 
 
 Institutional liquidity is no longer a passive condition.
 

@@ -4,7 +4,7 @@ description: "Institutional briefing on precision financing mandates across Fund
 date: "2025-08-12"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "precision-financing-institutional-projects"
----
+--- 
 
 The capital vacuum in North American and European private markets is driven by regulatory drift, liquidity fragmentation, and mismatched allocator time horizons.
 

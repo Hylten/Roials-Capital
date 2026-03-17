@@ -4,7 +4,7 @@ description: "An institutional briefing on the structural arbitrage emerging fro
 date: "2026-01-16"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-backing-private-credit-structural-arbitrage-2026"
----
+--- 
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion.
 

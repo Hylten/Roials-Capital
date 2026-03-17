@@ -4,7 +4,7 @@ description: "An institutional analysis of Institutional Liquidity Paths, balanc
 date: "2026-03-12"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-liquidity-engineering-architecture"
----
+--- 
 
 The capital vacuum across North America and Europe is a structural consequence of regulatory compression and balance sheet stagnation, not a shortage of institutional-grade assets.
 

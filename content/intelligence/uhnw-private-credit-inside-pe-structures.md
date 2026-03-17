@@ -4,7 +4,7 @@ description: "Institutional analysis on why ultra‑high‑net‑worth capital i
 date: "2025-12-23"
 author: "ROIALS CAPITAL"
 slug: "uhnw-private-credit-inside-pe-structures"
----
+--- 
 
 They move first.
 

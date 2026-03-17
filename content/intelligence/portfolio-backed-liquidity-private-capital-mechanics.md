@@ -4,7 +4,7 @@ description: "An institutional analysis on the structural liquidity gap in priva
 date: "2025-08-10"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "portfolio-backed-liquidity-private-capital-mechanics"
----
+--- 
 
 The structural gap in North American private markets is a capital formation issue born from regulatory drift, institutional retrenchment, and the mispricing of middle market operating risk.
 

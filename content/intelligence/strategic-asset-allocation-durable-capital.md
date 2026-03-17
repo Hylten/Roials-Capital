@@ -4,7 +4,7 @@ description: "Institutional analysis of liquidity engineering, capital durabilit
 date: "2026-01-16"
 author: "Jonas Hyltén"
 slug: "strategic-asset-allocation-durable-capital"
----
+--- 
 
 A liquidity shortage always begins as a structural illusion.
 

@@ -4,7 +4,7 @@ description: "Institutional analysis of liquidity engineering, collateralized fl
 date: "2025-11-15"
 author: "Jonas Hyltén"
 slug: "collateralized-liquidity-architecture"
----
+--- 
 
 A liquidity system collapses when the collateral stack is misaligned with the cash cycle.
 

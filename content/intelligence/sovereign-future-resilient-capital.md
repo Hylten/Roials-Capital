@@ -4,7 +4,7 @@ description: "Institutional briefing on structural capital inefficiencies, North
 date: "2025-08-25"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "sovereign-future-resilient-capital"
----
+--- 
 
 The capital vacuum in North America’s energy sector is a consequence of regulatory drift, not resource depletion.
 

@@ -4,7 +4,7 @@ description: "A surgical exploration of liquidity architecture across private cr
 date: "2026-01-13"
 author: "Jonas Hyltén"
 slug: "the-mechanics-of-multi-asset-liquidity-for-institutional-grade-portfolios"
----
+--- 
 
 # The Mechanics of Multi-Asset Liquidity Liquidity is not a commodity.
 

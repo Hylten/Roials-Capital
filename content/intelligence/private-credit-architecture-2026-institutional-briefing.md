@@ -4,7 +4,7 @@ description: "A clinical institutional briefing on the macro regime shift in glo
 date: "2026-01-29"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "private-credit-architecture-2026-institutional-briefing"
----
+--- 
 
 The structural gap defining the 2026 private credit cycle is the result of central bank persistence, capital market fragmentation, and the withdrawal of traditional bank lending capacity.
 

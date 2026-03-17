@@ -4,7 +4,7 @@ description: "Institutional brief on capital formation for Fund-III, buyout-capa
 date: "2025-12-19"
 author: "ROIALS CAPITAL"
 slug: "silent-authority-modern-balance-sheet"
----
+--- 
 
 principal authority is not a stylistic choice.
 

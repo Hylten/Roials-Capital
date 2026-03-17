@@ -4,7 +4,7 @@ description: "Institutional brief on non‑dilutive capital flows supporting Fun
 date: "2025-08-08"
 author: "ROIALS CAPITAL"
 slug: "non-dilutive-capital-lmm-boom"
----
+--- 
 
 Non‑dilutive capital moves quiet.
 

@@ -4,7 +4,7 @@ description: "A clinical, high density institutional analysis of private credit 
 date: "2025-11-09"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "calculcus-of-risk-private-credit"
----
+--- 
 
 The capital vacuum in North American and European private credit is not a function of reduced opportunity.
 

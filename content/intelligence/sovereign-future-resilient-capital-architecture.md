@@ -4,7 +4,7 @@ description: "Institutional brief on sovereign-capital construction, multi‑jur
 date: "2025-10-24"
 author: "ROIALS CAPITAL"
 slug: "sovereign-future-resilient-capital-architecture"
----
+--- 
 
 Resilience is not a slogan.
 

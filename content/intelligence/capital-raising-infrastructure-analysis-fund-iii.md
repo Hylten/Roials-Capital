@@ -4,7 +4,7 @@ description: "Institutional briefing on capital raising architecture, liquidity 
 date: "2025-07-01"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "capital-raising-infrastructure-analysis-Fund-III"
----
+--- 
 
 The capital vacuum in the middle market buyout ecosystem is not a function of asset scarcity.
 

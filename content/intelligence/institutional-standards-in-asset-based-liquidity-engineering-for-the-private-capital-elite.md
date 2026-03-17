@@ -4,7 +4,7 @@ description: "Explore the institutional frameworks shaping modern asset-based As
 date: "2025-09-22"
 author: "Jonas Hyltén"
 slug: "institutional-standards-in-asset-based-liquidity-engineering-for-the-private-capital-elite"
----
+--- 
 
 # Institutional Standards in Asset-Based Capital Structuring Institutional environments do not tolerate ambiguity.
 

@@ -4,7 +4,7 @@ description: "A high-density institutional analysis on sovereign liquidity mecha
 date: "2026-03-02"
 author: "ROIALS CAPITAL"
 slug: "sovereign-liquidity-facility-structuring-precision-architecture"
----
+--- 
 
 Sovereign liquidity facilities are no longer emergency instruments.
 

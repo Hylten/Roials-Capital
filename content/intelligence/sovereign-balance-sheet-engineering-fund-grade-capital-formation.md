@@ -4,7 +4,7 @@ description: "Institutional memo on sovereign-style balance sheet engineering, c
 date: "2025-08-23"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "sovereign-balance-sheet-engineering-fund-grade-capital-formation"
----
+--- 
 
 The capital vacuum across North America and Europe is a structural consequence of regulatory drift, not a contraction of underlying asset productivity.
 

@@ -4,7 +4,7 @@ description: "Institutional briefing on the structural role of private credit in
 date: "2025-08-14"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "private-credit-modern-ma-architecture"
----
+--- 
 
 The liquidity imbalance in North American and European corporate markets is not a temporary condition.
 

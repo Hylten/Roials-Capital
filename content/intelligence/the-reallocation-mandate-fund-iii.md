@@ -4,7 +4,7 @@ description: "A principal-level directive on capital reallocation, cross-jurisdi
 date: "2025-07-31"
 author: "ROIALS CAPITAL"
 slug: "the-reallocation-mandate-Fund-III"
----
+--- 
 
 The Reallocation Mandate activates when structural pressures exceed historical comfort bands and when institutional capital requires repositioning toward asymmetric durability.
 

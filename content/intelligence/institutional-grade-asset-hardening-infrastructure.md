@@ -4,7 +4,7 @@ description: "A technical memorandum for institutional allocators outlining stru
 date: "2026-01-18"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-grade-asset-hardening-infrastructure"
----
+--- 
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion.
 

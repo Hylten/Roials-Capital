@@ -4,7 +4,7 @@ description: "Institutional brief on capital formation strategy, Asset-Based Len
 date: "2025-09-04"
 author: "ROIALS CAPITAL"
 slug: "asset-based-liquidity-engine-multigenerational-wealth"
----
+--- 
 
 The structural premise is simple.
 

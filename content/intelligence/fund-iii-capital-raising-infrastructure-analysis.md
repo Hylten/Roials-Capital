@@ -4,7 +4,7 @@ description: "Institutional-grade analysis of capital‑raising infrastructure f
 date: "2025-08-30"
 author: "ROIALS CAPITAL, Principal Investigator"
 slug: "Fund-III-capital-raising-infrastructure-analysis"
----
+--- 
 
 Institutional allocators evaluate Fund‑III readiness through structural coherence, governance tension‑bands, and the allocator‑to‑platform distance in capital flow friction.
 

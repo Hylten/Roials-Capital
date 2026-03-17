@@ -4,7 +4,7 @@ description: "Institutional briefing on EU buyer behavior, capital concentration
 date: "2025-12-09"
 author: "ROIALS CAPITAL"
 slug: "mifid-buyers-under-levered-industrial-platforms"
----
+--- 
 
 European MiFID II buyers have shifted posture.
 

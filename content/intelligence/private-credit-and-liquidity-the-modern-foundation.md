@@ -4,7 +4,7 @@ description: "An analysis of the structural shift in private credit and its role
 date: "2025-07-29"
 author: "Jonas Hyltén"
 slug: "private-credit-and-liquidity-the-modern-foundation"
----
+--- 
 
 # Private Credit and Liquidity ROIALS CAPITAL 
 

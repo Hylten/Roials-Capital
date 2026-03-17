@@ -4,7 +4,7 @@ description: "High-trust liquidity solutions through private credit and asset ba
 date: "2025-11-03"
 author: "Jonas Hyltén"
 slug: "precision-financing-for-institutional-projects"
----
+--- 
 
 # Precision Financing for Institutional Projects Institutional projects require a level of accuracy that is non‑negotiable.
 

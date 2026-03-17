@@ -4,7 +4,7 @@ description: "Institutional liquidity engineering for concentrated public equity
 date: "2025-10-08"
 author: "Jonas Hyltén"
 slug: "new-liquidity-standard-institutional-liquidity-engineering"
----
+--- 
 
 A structural gap defines every capital era.
 

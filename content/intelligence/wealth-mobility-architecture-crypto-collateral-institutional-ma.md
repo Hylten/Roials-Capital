@@ -4,7 +4,7 @@ description: "Institutional briefing on cross jurisdictional wealth mobility, cr
 date: "2026-02-08"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "wealth-mobility-architecture-crypto-collateral-institutional-ma"
----
+--- 
 
 The structural gap in cross border capital formation is no longer driven by liquidity scarcity.
 

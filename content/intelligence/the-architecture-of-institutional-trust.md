@@ -4,7 +4,7 @@ description: "An institutional exploration of liquidity, private credit, and ass
 date: "2025-09-29"
 author: "Jonas Hyltén"
 slug: "the-architecture-of-institutional-trust"
----
+--- 
 
 # The Architecture of Institutional Trust Institutional trust is not a sentiment.
 

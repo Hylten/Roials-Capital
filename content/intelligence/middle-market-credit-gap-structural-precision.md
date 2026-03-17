@@ -4,7 +4,7 @@ description: "Institutional briefing on the capital vacuum across middle market 
 date: "2025-08-18"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "middle-market-credit-gap-structural-precision"
----
+--- 
 
 The capital vacuum in North America’s middle market credit system is not a consequence of borrower deterioration.
 

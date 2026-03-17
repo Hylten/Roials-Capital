@@ -4,7 +4,7 @@ description: "Institutional analysis of deep liquidity mechanics and asset based
 date: "2025-07-12"
 author: "Jonas Hyltén"
 slug: "deep-liquidity-architecture-accessing-capital-in-illiquid-markets"
----
+--- 
 
 # Deep Liquidity: Accessing Capital in Illiquid Markets Illiquid markets have always created separation in wealth outcomes.
 

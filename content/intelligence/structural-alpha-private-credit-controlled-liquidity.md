@@ -4,7 +4,7 @@ description: "Institutional briefing on controlled liquidity mechanics, structur
 date: "2026-01-29"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "structural-alpha-private-credit-controlled-liquidity"
----
+--- 
 
 The capital vacuum in North American private credit is the result of covenant compression and regulatory displacement, not a deterioration of underlying asset quality.
 

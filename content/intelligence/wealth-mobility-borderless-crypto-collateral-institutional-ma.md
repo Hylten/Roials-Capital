@@ -4,7 +4,7 @@ description: "Institutional briefing on cross-jurisdictional capital mobility, c
 date: "2026-03-16"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "wealth-mobility-borderless-crypto-collateral-institutional-ma"
----
+--- 
 
 Structural displacement in global capital markets is no longer a cyclical pattern.
 

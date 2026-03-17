@@ -4,7 +4,7 @@ description: "Institutional brief on cross‑jurisdictional collateral mobility,
 date: "2025-09-09"
 author: "ROIALS CAPITAL"
 slug: "borderless-collateral-regime-transnational-acquisition-power"
----
+--- 
 
 The borderless collateral regime is no longer a theoretical construct.
 

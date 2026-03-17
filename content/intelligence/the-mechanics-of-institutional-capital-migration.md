@@ -4,7 +4,7 @@ description: "A high‑trust analysis of how liquidity flows through private cre
 date: "2025-09-27"
 author: "Jonas Hyltén"
 slug: "the-mechanics-of-institutional-capital-migration"
----
+--- 
 
 # The Mechanics of Institutional Capital Migration Institutional capital does not move randomly.
 

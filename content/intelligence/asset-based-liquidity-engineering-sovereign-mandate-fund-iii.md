@@ -4,7 +4,7 @@ description: "Institutional brief on capital raising dynamics, asset‑based Cap
 date: "2026-01-02"
 author: "ROIALS CAPITAL"
 slug: "asset-based-liquidity-engineering-sovereign-mandate-Fund-III"
----
+--- 
 
 Asset-based Capital Structuring is no longer a derivative discipline.
 

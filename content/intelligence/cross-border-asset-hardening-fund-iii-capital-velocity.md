@@ -4,7 +4,7 @@ description: "Institutional brief on sovereign-grade asset hardening, cross-bord
 date: "2026-01-30"
 author: "Jonas Roials"
 slug: "cross-border-asset-hardening-Fund-III-capital-velocity"
----
+--- 
 
 A hard truth defines the current cycle.
 

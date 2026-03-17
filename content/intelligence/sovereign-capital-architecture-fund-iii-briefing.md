@@ -4,7 +4,7 @@ description: "An institutional briefing on capital raising, structural arbitrage
 date: "2025-11-06"
 author: "ROIALS CAPITAL"
 slug: "sovereign-capital-architecture-Fund-III-briefing"
----
+--- 
 
 The sovereign capital architecture operates on a single premise: capital obeys structure before narrative, jurisdiction before valuation, and institutional confidence before execution.
 

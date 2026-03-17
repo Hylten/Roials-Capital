@@ -4,7 +4,7 @@ description: "The Mandate Of Discrete Capital Deployment"
 date: "2025-07-18"
 author: "Jonas Hyltén"
 slug: "the-mandate-of-discrete-capital-deployment"
----
+--- 
 
 # 
 

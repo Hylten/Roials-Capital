@@ -4,7 +4,7 @@ description: "Institutional blueprint for private liquidity architecture, sovere
 date: "2026-02-13"
 author: "Jonas Hyltén"
 slug: "sovereign-balance-sheet-liquidity-architecture"
----
+--- 
 
 A sovereign balance sheet fails not from lack of assets but from lack of hierarchy.
 

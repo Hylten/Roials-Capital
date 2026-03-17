@@ -4,7 +4,7 @@ description: "Institutional brief on Asset-Based Lending-driven liquidity archit
 date: "2025-11-03"
 author: "ROIALS CAPITAL"
 slug: "abl-engine-for-multigenerational-wealth"
----
+--- 
 
 Asset-based Institutional Liquidity Paths operates as the structural engine behind every enduring capital dynasty.
 

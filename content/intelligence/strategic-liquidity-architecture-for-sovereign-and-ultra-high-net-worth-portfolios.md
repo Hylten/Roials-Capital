@@ -4,7 +4,7 @@ description: "A high‑level analysis of liquidity structuring using private cre
 date: "2025-09-16"
 author: "Jonas Hyltén"
 slug: "strategic-liquidity-architecture-for-sovereign-and-ultra-high-net-worth-portfolios"
----
+--- 
 
 # Strategic Liquidity for Sovereign Portfolios Liquidity is not a convenience at the sovereign level.
 

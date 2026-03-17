@@ -4,7 +4,7 @@ description: "A high-authority analysis of private credit, asset based liquidity
 date: "2025-12-22"
 author: "Jonas Hyltén"
 slug: "the-future-of-private-credit-and-sovereign-wealth"
----
+--- 
 
 # The Future of Private Credit and Sovereign Wealth The landscape of global wealth is shifting.
 

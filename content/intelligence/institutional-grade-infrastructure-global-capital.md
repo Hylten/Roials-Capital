@@ -4,7 +4,7 @@ description: "Institutional-grade architecture for Fund-III capital formation, l
 date: "2025-11-20"
 author: "ROIALS CAPITAL"
 slug: "institutional-grade-infrastructure-global-capital"
----
+--- 
 
 The structural gap is clear.
 

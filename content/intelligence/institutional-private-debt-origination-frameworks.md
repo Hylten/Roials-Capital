@@ -4,7 +4,7 @@ description: "Technical architecture for Fund-III capital formation, private cre
 date: "2025-07-25"
 author: "Jonas Hyltén"
 slug: "institutional-private-debt-origination-frameworks"
----
+--- 
 
 Order fails whenever origination is treated as a sales function instead of a governance engine.
 

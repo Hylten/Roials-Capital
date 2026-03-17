@@ -4,7 +4,7 @@ description: "Institutional briefing on collateralized liquidity architecture, L
 date: "2025-09-16"
 author: "Jonas Hyltén"
 slug: "collateralized-liquidity-structural-intelligence-private-credit-abl"
----
+--- 
 
 Order is not an option.
 

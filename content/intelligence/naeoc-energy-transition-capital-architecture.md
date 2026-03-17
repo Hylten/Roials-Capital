@@ -4,7 +4,7 @@ description: "Private briefing on the $50M–$250M NAEOC corridor, multi-jurisdi
 date: "2026-02-16"
 author: "ROIALS CAPITAL"
 slug: "naeoc-energy-transition-capital-architecture"
----
+--- 
 
 Capital shifts when mandates harden.
 

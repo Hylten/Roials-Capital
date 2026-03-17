@@ -4,7 +4,7 @@ description: "Technical briefing for UHNWIs and institutional LPs on alignment m
 date: "2025-08-08"
 author: "Jonas Hyltén"
 slug: "institutional-alignment-private-credit-architecture"
----
+--- 
 
 A structural gap defines this cycle: capital velocity has outpaced covenant integrity.
 

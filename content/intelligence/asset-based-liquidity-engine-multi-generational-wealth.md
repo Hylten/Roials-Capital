@@ -4,7 +4,7 @@ description: "Institutional analysis on the role of Asset Based Asset-Backed Fra
 date: "2025-09-18"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "asset-based-liquidity-engine-multi-generational-wealth"
----
+--- 
 
 The capital vacuum in North American energy is not a product of diminishing reserves.
 

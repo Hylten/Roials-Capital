@@ -4,7 +4,7 @@ description: "Institutional-grade deep briefing on Asset-Based Asset-Backed Fram
 date: "2026-02-21"
 author: "ROIALS CAPITAL"
 slug: "sovereign-liquidity-engineering-mandate"
----
+--- 
 
 Fund-III Principals operate inside a structural paradox: capital abundance on the macro, capital fragmentation on the micro.
 

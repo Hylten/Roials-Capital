@@ -4,7 +4,7 @@ description: "Institutional analysis of tokenized real-asset liquidity structure
 date: "2026-01-15"
 author: "Jonas Roials"
 slug: "sovereign-mechanics-tokenized-real-estate-liquidity"
----
+--- 
 
 Tokenized real estate is not a technology category.
 

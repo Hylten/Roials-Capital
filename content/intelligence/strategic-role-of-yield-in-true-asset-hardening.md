@@ -4,7 +4,7 @@ description: "Institutional analysis on the function of stabilized yield as a pr
 date: "2025-09-21"
 author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "strategic-role-of-yield-in-true-asset-hardening"
----
+--- 
 
 The capital vacuum in North American energy and lower mid market private credit is a structural consequence of regulatory drift and lender retrenchment, not an erosion of asset quality.
 

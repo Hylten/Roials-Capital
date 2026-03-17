@@ -4,7 +4,7 @@ description: "A strategic examination of liquidity engineering and asset based I
 date: "2025-07-04"
 author: "Jonas Hyltén"
 slug: "the-power-of-private-credit-in-modern-ma-architecture"
----
+--- 
 
 # The Power of Private Credit in M&A Mergers and acquisitions have always been liquidity‑centric events.
 

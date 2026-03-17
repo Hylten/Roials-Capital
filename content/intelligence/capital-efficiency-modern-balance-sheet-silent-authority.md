@@ -4,7 +4,7 @@ description: "Institutional blueprint for capital efficiency, balance‑sheet ha
 date: "2026-01-10"
 author: "ROIALS CAPITAL | Principal"
 slug: "capital-efficiency-modern-balance-sheet-silent-authority"
----
+--- 
 
 principal authority begins where visible leverage ends.
 
