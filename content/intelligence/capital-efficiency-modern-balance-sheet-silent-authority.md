@@ -124,7 +124,11 @@ Capital efficiency requires three layers:
 
 - Instrument layer
 
-- Sovereign layer Each layer creates a different type of authority.
+- Sovereign layer Each 
+
+# Layer C: reates a different type of authority
+
+.
 
 Asset authority creates permanence.
 
@@ -688,7 +692,9 @@ Fund-III must embody that principle.
 
 - Mandate: Initiate confidential capital audit across all Fund-III holdings and targets.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

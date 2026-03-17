@@ -22,7 +22,9 @@ The objective is to equip allocators with a calibration tool for sovereign-grade
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  North American private markets have entered a bifurcated regime defined by a divergence between asset needs and capital availability.
 
@@ -60,7 +62,9 @@ This creates the modern architecture for buyouts, ABL frameworks, and energy-sec
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  The Alberta energy landscape is a repository of high-predictability recovery systems that operate through thermal and horizontal extraction techniques.
 
@@ -166,7 +170,9 @@ Through this model, Roials Capital supports allocators in constructing sovereign
 
  
 
-## THE STEWARDSHIP FILTER Capital stewardship is not a branding concept.
+## THE STEWARDSHIP FILTER Capital stewardship is not a branding concept
+
+.
 
 It is an operational discipline anchored in the biblical principle of **Proverbs 13:22
 

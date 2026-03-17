@@ -20,13 +20,15 @@ We see it clearly because we operate where timing penalties destroy entire manda
 
 Order is not an option.
 
-### Phase I: .
+# Phase I: .
 
  
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Sovereign capital has entered a new operating regime.
 
@@ -128,13 +130,15 @@ Delay is waste.
 
 Waste is disqualifying.
 
-### Phase II: .
+# Phase II: .
 
  
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Sovereign allocators are not looking for margin stories.
 
@@ -234,7 +238,9 @@ You design the mechanics as if the allocator will never tolerate drift.
 
 Breach the operational tempo and 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  collapses.
 
@@ -258,11 +264,13 @@ Nothing opaque.
 
 Nothing improvisational.
 
-### Phase III: .
+# Phase III: .
 
  
 
-## THE 
+## THE
+
+ 
 
  STRATEGIC MODEL
 
@@ -382,7 +390,7 @@ Focus earns scale commitments.
 
 Scale commitments accelerate everything.
 
-### Phase IV: .
+# Phase IV: .
 
 THE STEWARDSHIP FILTER When national-level capital is entrusted to a GP, the stewardship burden intensifies.
 
@@ -450,7 +458,7 @@ No excuses.
 
 No opacity.
 
-### Phase V: .
+# Phase V: .
 
 EXIT Target yield displacement threshold:
 
@@ -458,7 +466,9 @@ EXIT Target yield displacement threshold:
 
 460 basis points above sovereign benchmark curves.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

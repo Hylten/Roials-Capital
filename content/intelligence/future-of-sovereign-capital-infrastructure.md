@@ -18,7 +18,9 @@ The result is a multi decade capital architecture reset where the allocator with
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Sovereign capital infrastructure is no longer defined only by traditional state backed investment vehicles or long term concession assets.
 
@@ -66,7 +68,9 @@ Sovereign capital infrastructure is emerging at the intersection.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  The future of sovereign capital infrastructure is shaped by mechanical structures rather than thematic narratives.
 
@@ -150,7 +154,11 @@ The calibration is operational rather than promotional.
 
 Cash flow waterfalls Waterfall clarity is now a sovereign preference.
 
-Structures with multi step cross collateralization, layered seniority, or variable hurdle logic are disfavored unless the operational productivity of underlying assets is resilient.
+Structures with multi 
+
+# Step C
+
+ross collateralization, layered seniority, or variable hurdle logic are disfavored unless the operational productivity of underlying assets is resilient.
 
 Sovereign capital infrastructure therefore aligns with transparent, physics anchored cash flow systems. 
 
@@ -206,7 +214,9 @@ The objective is not transaction volume but long horizon operational continuity.
 
  
 
-## THE STEWARDSHIP FILTER The future of sovereign capital infrastructure requires conceptual clarity around stewardship.
+## THE STEWARDSHIP FILTER The future of sovereign capital infrastructure requires conceptual clarity around stewardship
+
+.
 
 Stewardship is not thematic.
 
@@ -268,7 +278,9 @@ Reliance on partners capable of technical interpretation rather than distributio
 
 The objective is not transactional deployment but long term structural alignment. [END OF BRIEFING]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

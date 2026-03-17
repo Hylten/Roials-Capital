@@ -162,7 +162,9 @@ Capital preservation arises because the asset behaves according to measurable na
 
 This characteristic has become rare in the modern private markets landscape. 
 
-## THE PARTNERSHIP MODEL Roials Capital does not occupy the role of fund manager.
+## THE PARTNERSHIP MODEL Roials Capital does not occupy the role of fund manager
+
+.
 
 It functions as a strategic navigator and institutional introducer.
 
@@ -238,7 +240,9 @@ It is the backbone of capital preservation in a fragmented regime.
 
  
 
-## DECISION MAKING FRAMEWORK FOR ALLOCATORS Allocators evaluating capital preservation frameworks should interpret the landscape through three filters: structural, operational, and temporal. 
+## DECISION MAKING FRAMEWORK FOR ALLOCATORS Allocators evaluating capital preservation frameworks should interpret the landscape through three filters: structural, operational, and temporal.
+
+ 
 
 1.
 
@@ -268,7 +272,9 @@ It is calibration of allocator frameworks to protect capital across dislocated m
 
 Allocators seeking confidential structural alignment review may initiate a Portfolio Calibration or Strategy Audit to evaluate how their current exposures align with the capital preservation architecture outlined in this briefing.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

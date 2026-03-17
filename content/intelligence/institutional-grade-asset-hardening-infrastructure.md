@@ -24,7 +24,9 @@ The objective is predictability and sovereign level stability inside private mar
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Institutional allocators are operating inside a post abundant capital cycle where leverage is selectively available rather than universally accessible.
 
@@ -70,7 +72,9 @@ This is the central counter intuitive truth shaping institutional flows in
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF ASSET HARDENING Asset hardening is the institutional discipline of transforming operational consistency into capital structure resilience.
 
@@ -220,11 +224,15 @@ Within private credit and buyout environments, Roials Capital provides instituti
 
 This includes senior facility design, cash flow waterfall modeling, cross collateral matrices, and asset level risk mitigation frameworks.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is not to manage capital.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is to structure clarity. 
 
@@ -232,7 +240,9 @@ This includes senior facility design, cash flow waterfall modeling, cross collat
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is a discipline, not a sentiment.
+## THE STEWARDSHIP FILTER Stewardship is a discipline, not a sentiment
+
+.
 
 Institutional grade stewardship is the practice of deploying capital in ways that are aligned with long term productivity, ethical resource management, and multi generational utility.
 
@@ -290,7 +300,9 @@ Roials Capital’s role is to provide institutional LPs and GPs with a neutral, 
 
 For allocators requiring deeper visibility, a confidential strategy audit or portfolio calibration can map the assets, liabilities, and operational ranges that define their current posture.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

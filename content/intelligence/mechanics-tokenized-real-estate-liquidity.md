@@ -40,7 +40,9 @@ This is
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The private markets have fractured into two velocities.
 
@@ -90,7 +92,9 @@ The firm positions Fund-III to exploit that velocity mismatch.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Tokenization is a misused term.
 
@@ -158,7 +162,9 @@ Strategic Collateralization emerges as an institutional discipline rather than a
 
  
 
-## THE 
+## THE
+
+ 
 
  STRATEGIC MODEL
 
@@ -218,7 +224,9 @@ Slow institutions cannot compete with an adversary that moves this quickly.
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is not sentiment.
+## THE STEWARDSHIP FILTER Stewardship is not sentiment
+
+.
 
 It is the disciplined avoidance of waste.
 
@@ -259,7 +267,9 @@ They serve.
 EXIT Projected collateral clearance window inside tokenized structures: 4.
 7 hours.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

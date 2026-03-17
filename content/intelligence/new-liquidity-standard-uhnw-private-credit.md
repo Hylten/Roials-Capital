@@ -226,7 +226,11 @@ Meanwhile, institutional sponsors treat Monetization Architecture as operational
 
 They build leverage tunnels around assets.
 
-They layer credit lines.
+They 
+
+# Layer C: redit lines
+
+.
 
 They reinforce equity stacks.
 
@@ -394,7 +398,9 @@ Principal tool.
 
 The standard for all serious operators.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

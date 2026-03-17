@@ -122,7 +122,9 @@ Preservation is the job.
 
 Kapitalanskaffning-80% of 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
 -demands narrative compression.
 
@@ -592,7 +594,9 @@ Drift is unacceptable.
 
 Preservation is non-negotiable.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

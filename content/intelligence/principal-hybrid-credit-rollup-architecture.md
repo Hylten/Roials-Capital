@@ -98,7 +98,11 @@ European regulatory pacing.
 
 North American execution speed.
 
-The hybrid layer is the reconciler.
+The hybrid 
+
+# Layer I: s the reconciler
+
+.
 
 Principal tone now.
 

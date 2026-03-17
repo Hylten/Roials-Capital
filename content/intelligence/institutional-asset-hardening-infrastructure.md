@@ -24,7 +24,9 @@ Asset hardening preserves legacy. **Proverbs 13:22
 
 This brief establishes a sovereign-grade architecture for Fund-III capital formation and post-acquisition hardening under buyout and add-on conditions.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is singular: elevate institutional durability while compressing execution risk across energy, industrial, and multi-asset verticals.
 
@@ -58,7 +60,9 @@ That collision is the domain of ROIALS CAPITAL.
 
 I design the collision to produce yield. 
 
-## FOUNDATION: CAPITAL HARDENING AND Fund-III EXPANSION Fund-III lives or dies on forward visibility.
+## FOUNDATION: CAPITAL HARDENING AND Fund-III EXPANSION Fund-III lives or dies on forward visibility
+
+.
 
 Not performance alone.
 
@@ -632,7 +636,11 @@ Banks need structured borrowers.
 
 Mandates need execution partners.
 
-We step into the gap with sovereign-grade design.
+We 
+
+# Step I: nto the gap with sovereign-grade design
+
+.
 
 Kapitalanskaffning drives the engine.
 
@@ -646,7 +654,9 @@ The result is institutional inevitability.
 
 End with directive: Initiate confidential capital audit.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

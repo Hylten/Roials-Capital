@@ -16,7 +16,9 @@ The capital vacuum has created a bifurcation between opportunistic lending and i
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Private credit has entered a regime where scale is no longer optional.
 
@@ -60,7 +62,9 @@ They operate not as yield chasers but as liquidity engineers capable of deployin
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Institutional private credit platforms distinguish themselves through precision in structuring.
 
@@ -202,7 +206,9 @@ INSTITUTIONAL
 
  
 
-## INTRODUCTION
+## INTRODUCTIO
+
+N
 
  Introductions are made only when alignment of mandate, risk profile, and operational capability is verified.
 
@@ -216,7 +222,9 @@ This neutral introducer role preserves compliance integrity while ensuring alloc
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is the discipline of managing capital without waste.
+## THE STEWARDSHIP FILTER Stewardship is the discipline of managing capital without waste
+
+.
 
 It is an operational application of **Proverbs 13:22
 
@@ -256,7 +264,9 @@ The lens includes:
 
 - Alignment with internal liquidity mandates Roials Capital conducts confidential strategy audits for allocators seeking calibration of their private credit exposure, alignment with institutional partners, and intelligence on specialized mandates including North American energy and European capital formation. [END OF BRIEFING]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

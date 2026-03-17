@@ -18,7 +18,9 @@ The current environment favors those who treat each jurisdiction as a technical 
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Multi jurisdictional asset allocation is entering a regime defined by capital scarcity in operationally resilient sectors and capital oversupply in momentum driven domains.
 
@@ -44,7 +46,9 @@ This misalignment produces opportunity for those who can serve as strategic navi
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Energy assets in Alberta require operational intelligence that is rarely reflected in surface level financial reporting.
 
@@ -131,7 +135,9 @@ This includes:
 
  
 
-## THE STEWARDSHIP FILTER Stewardship operates as a discipline rather than an ethos.
+## THE STEWARDSHIP FILTER Stewardship operates as a discipline rather than an ethos
+
+.
 
 In evaluating multi jurisdictional asset structures, stewardship translates into non wasteful capital deployment, precision in resource management, and governance that aligns authority with responsibility.
 

@@ -42,7 +42,9 @@ Correct alignment is the difference between a Fund-III that compounds authority 
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The current private credit regime is shaped by three pressures.
 
@@ -92,7 +94,9 @@ You correct it through structure.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Alignment is mathematically observable.
 
@@ -195,7 +199,9 @@ A disciplined fund eliminates that delay.
 
  
 
-## THE 
+## THE
+
+ 
 
  STRATEGIC MODEL
 
@@ -287,7 +293,9 @@ That is a predictable failure point.
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is the governing ethic.
+## THE STEWARDSHIP FILTER Stewardship is the governing ethic
+
+.
 
 Private credit is not a game of yield.
 
@@ -297,7 +305,9 @@ It is a theology of allocation. **Proverbs 13:22
 
 * defines 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
 : An inheritance must endure across generations.
 
@@ -383,7 +393,9 @@ Anything below
 
 80 percent signals systemic failure.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

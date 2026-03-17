@@ -28,7 +28,9 @@ ROIALS CAPITAL operates inside that gap.
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Sovereigns are no longer the passive backdrop of institutional deployment.
 
@@ -80,13 +82,19 @@ Fund-III requires mastery of it.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Sovereign Credit Mobility is the capacity to convert a jurisdiction’s legal, fiscal, and collateral infrastructure into a cross-border lending engine without degrading LTV, recovery, or time-to-cash metrics. 
 
 1.
 
-The Capital Translation Layer This layer converts sovereign legal structures into institutional underwriting language.
+The Capital Translation Layer This 
+
+# Layer C
+
+onverts sovereign legal structures into institutional underwriting language.
 
 It evaluates asset security enforceability, lien transmission velocity, and recovery certainty.
 
@@ -166,7 +174,9 @@ This is how institutional discipline is restored.
 
  
 
-## THE 
+## THE
+
+ 
 
  STRATEGIC MODEL
 
@@ -238,7 +248,9 @@ We optimize for inevitability.
 
  
 
-## THE STEWARDSHIP FILTER Capital is an assignment.
+## THE STEWARDSHIP FILTER Capital is an assignment
+
+.
 
 Waste is rebellion.
 
@@ -280,7 +292,9 @@ EXIT Fund-III targets mobility-adjusted IRR with a minimum cross-border collater
 
 92 days.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

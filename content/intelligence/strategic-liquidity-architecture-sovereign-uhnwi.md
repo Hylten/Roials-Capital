@@ -20,13 +20,15 @@ The focus is structural.
 
 The objective is to provide the institutional reader with a framework for understanding market navigation, technical recovery mechanics, and the relevance of disciplined stewardship within sophisticated multi jurisdiction portfolios.
 
-### Phase I: .
+# Phase I: .
 
  
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  North American energy markets in 2026 are defined by three simultaneous dynamics.
 
@@ -66,13 +68,15 @@ The result is a vacuum.
 
 That vacuum is now being filled by mid market private operators who understand that engineering, not politics, determines the real productivity of a thermal reservoir.
 
-### Phase II: .
+# Phase II: .
 
  
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  IN ALBERTA The Alberta resource base is defined by three primary recovery structures.
 
@@ -127,11 +131,13 @@ The combination of thermal heavy oil and mid-depth conventional zones creates a 
 
 It becomes ideal for private buyers who need commodity resilience but do not require speculative upside.
 
-### Phase III: .
+# Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital operates within this environment as a strategic navigator rather than as an owner or operator.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is institutional 
 
@@ -173,7 +179,7 @@ Roials Capital supports this navigation by providing clarity on land tenure syst
 
 The objective is to provide the allocator with a clear understanding of how these assets behave over time and how they integrate into a sophisticated liquidity architecture.
 
-### Phase IV: .
+# Phase IV: .
 
 THE STEWARDSHIP FILTER Strategic capital deployment in natural resources is not a simple function of rate of return.
 
@@ -217,7 +223,7 @@ Reduced variance increases credit confidence.
 
 Increased credit confidence raises opportunity velocity for subsequent acquisitions and infill development programs.
 
-### Phase V: .
+# Phase V: .
 
 A
 

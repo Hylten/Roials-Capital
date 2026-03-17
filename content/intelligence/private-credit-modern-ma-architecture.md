@@ -26,7 +26,9 @@ Its strength is defined by control of timing, structural seniority, covenant pre
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The macro landscape is characterized by an institutional realignment affecting three domains: bank regulatory compression, acquisition pipeline fragmentation, and the rise of balance sheet scarcity across mid market corporates.
 
@@ -60,7 +62,9 @@ The gap between valuation stability and lender retrenchment is filled by private
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF PRIVATE CREDIT IN M&A The architectural relevance of private credit depends on its precision.
 
@@ -174,7 +178,9 @@ It ensures that capital providers enter environments where structural risk is un
 
  
 
-## THE STEWARDSHIP FILTER Stewardship in capital architecture is defined as non wasteful resource management.
+## THE STEWARDSHIP FILTER Stewardship in capital architecture is defined as non wasteful resource management
+
+.
 
 The principle aligns with **Proverbs 13:22
 

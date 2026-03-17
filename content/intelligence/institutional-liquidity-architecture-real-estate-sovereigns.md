@@ -16,7 +16,9 @@ This creates an environment where the most stable property ecosystems appear dis
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Institutional allocators operating in real estate today face a materially different structural regime compared to the previous decade. 
 
@@ -57,7 +59,9 @@ This is the environment where Institutional Liquidity Paths, institutional capit
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF REAL ESTATE Strategic Collateralization Real estate sovereigns, defined as operators controlling multi jurisdictional portfolios with stabilized income and long duration ownership intentions, require liquidity architecture that aligns with institutional-grade financial physics rather than retail lending heuristics. 
 
@@ -85,7 +89,11 @@ This requires
 
 - pooled revenue facilities
 
-- step down covenants aligned with operational KPIs rather than mark to market valuations
+- 
+
+# Step D
+
+own covenants aligned with operational KPIs rather than mark to market valuations
 
 - redundant liquidity channels to neutralize jurisdiction specific regulatory surprises The goal is institutional risk symmetry, not transactional leverage. 
 
@@ -161,7 +169,9 @@ The objective is strategic navigation through structural inefficiencies rather t
 
  
 
-## THE STEWARDSHIP FILTER THE THEOLOGY OF CAPITAL Stewardship functions as a discipline of managing scarce resources with precision and intent.
+## THE STEWARDSHIP FILTER THE THEOLOGY OF CAPITAL Stewardship functions as a discipline of managing scarce resources with precision and intent
+
+.
 
 This applies equally to land, liquidity, risk, and time.
 
@@ -197,7 +207,9 @@ The critical questions revolve around:
 
 - access to programmatic capital insulated from episodic refinancing events Roials Capital provides a confidential strategy audit for sovereign operators and allocators seeking calibrated exposure, ensuring alignment between capital architecture, macro regime conditions, and operational governance.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

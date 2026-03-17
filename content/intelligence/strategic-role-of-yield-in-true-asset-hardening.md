@@ -14,13 +14,15 @@ Yield has become the primary variable that determines whether an asset operates 
 
 This is the operational definition of asset hardening in the current regime.
 
-### Phase I: .
+# Phase I: .
 
  
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Across 2024 to 2026, allocators have been forced into a capital architecture defined by three converging phenomena. 
 
@@ -60,13 +62,15 @@ It is the basis for institutional risk calibration.
 
 Yield is now functioning as the primary filter for determining which assets legitimately serve as capital anchors within a diversified institutional portfolio.
 
-### Phase II: .
+# Phase II: .
 
  
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Yield is not a superficial number.
 
@@ -198,7 +202,7 @@ This is why the counter intuitive truth holds.
 
 In 2026, the lowest risk energy assets in North America are conventional heavy oil with established decline curves.
 
-### Phase III: .
+# Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital functions as an institutional navigator that introduces allocators to structurally coherent opportunities.
 
@@ -206,7 +210,9 @@ The firm does not serve as operator, manager, or asset owner.
 
 Instead, its role is to engineer alignment between allocators and the institutional archetypes capable of producing hardened assets.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  distribution aligns with the demands of modern portfolio construction. 
 
@@ -266,7 +272,7 @@ The allocator retains full discretion.
 
 Roials Capital provides clarity, filters complexity, and maintains strategic alignment across all interactions.
 
-### Phase IV: .
+# Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship is not a marketing concept.
 
@@ -318,7 +324,7 @@ Under the Stewardship Filter, yield becomes a diagnostic tool that reveals wheth
 
 It serves as a safeguard against capital dissipation and aligns institutional allocation with enduring value creation.
 
-### Phase V: .
+# Phase V: .
 
 THE
 

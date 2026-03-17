@@ -28,7 +28,9 @@ Permanence is engineered. [
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  ] Private markets no longer reward opportunism.
 
@@ -84,7 +86,9 @@ It is the determinant of institutional survival. [
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  ] Precision begins with capital flow design.
 
@@ -186,7 +190,9 @@ Neither is stewardship. [
 
  
 
-## THE 
+## THE
+
+ 
 
  STRATEGIC MODEL
 
@@ -274,7 +280,9 @@ A fund becomes inevitable when its capital architecture is stronger than the mar
 
  
 
-## THE STEWARDSHIP FILTER ] We do not build capital for a quarter.
+## THE STEWARDSHIP FILTER ] We do not build capital for a quarter
+
+.
 
 We build capital for generations.
 
@@ -376,7 +384,9 @@ The sovereign fund must demonstrate a
 
 34 percent lifetime liquidity conversion ratio across cycles.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

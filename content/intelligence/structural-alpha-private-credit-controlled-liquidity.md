@@ -16,7 +16,9 @@ This asymmetry is creating a technical environment where controlled liquidity ar
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The private credit market entered 2026 under a configuration defined by three reinforcing forces.
 
@@ -52,7 +54,9 @@ The allocator lens has shifted: the strength of the underwriting framework now d
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF CONTROLLED LIQUIDITY Controlled liquidity architecture is the discipline of designing capital flows that remain tethered to measurable operating mechanics.
 
@@ -176,7 +180,9 @@ Roials Capital provides this framework, enabling allocators to assess structures
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful capital management.
+## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful capital management
+
+.
 
 It is rooted in the principle found in **Proverbs 13:22
 

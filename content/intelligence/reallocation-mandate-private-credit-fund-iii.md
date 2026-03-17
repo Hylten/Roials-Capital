@@ -36,13 +36,15 @@ The regime that governed the past twelve years is finished.
 
 The next regime rewards precision, adaptability, and institutional architecture.
 
-### Phase I: .
+# Phase I: .
 
  
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The old private credit model relied on a stable LTV ceiling, abundant leverage, and predictable exit timing.
 
@@ -90,13 +92,15 @@ Now operators of efficient credit platforms dictate them.
 
 That shift is irreversible.
 
-### Phase II: .
+# Phase II: .
 
  
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Order is not an option.
 
@@ -180,11 +184,13 @@ The market rewards those who build internal execution engines with less than
 
 Anything slower is obsolete.
 
-### Phase III: .
+# Phase III: .
 
  
 
-## THE 
+## THE
+
+ 
 
  STRATEGIC MODEL
 
@@ -256,7 +262,7 @@ They allocate to systems, not personalities.
 
 Fund-III must operate like an institutional machine.
 
-### Phase IV: .
+# Phase IV: .
 
 THE STEWARDSHIP FILTER The resources we manage are not arbitrary.
 
@@ -308,9 +314,13 @@ Growth follows clean mechanics.
 
 Never the opposite.
 
-### Phase V: .
+# Phase V: .
 
-EXIT The exit layer is not optional.
+EXIT The exit 
+
+# Layer I: s not optional
+
+.
 
 Every credit instrument must contain its exit logic inside the structure.
 
@@ -328,7 +338,9 @@ Set the benchmark.
 
 Then surpass it.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

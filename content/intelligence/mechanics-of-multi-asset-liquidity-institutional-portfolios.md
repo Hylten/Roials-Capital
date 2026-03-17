@@ -16,13 +16,15 @@ It has become a primary determinant of institutional resilience.
 
 The allocator who navigates this regime shift with structural clarity will preserve optionality while enhancing opportunity velocity across Buyouts, Asset-Based Lending, and real asset exposures.
 
-### Phase I: .
+# Phase I: .
 
  
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The transition from a decade of surplus liquidity to a structurally constrained environment has altered the opportunity set for allocators.
 
@@ -48,13 +50,15 @@ Each category operates under different risk parameters, yet all share one common
 
 Balance sheet flexibility is the institutional advantage.
 
-### Phase II: .
+# Phase II: .
 
  
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF MULTI ASSET LIQUIDITY Multi asset liquidity refers to the coordinated management of capital sources, collateral profiles, and cash flow timing across different investment domains.
 
@@ -136,7 +140,9 @@ Key elements include:
 
 North American Energy Liquidity If 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  involves NAEO or similar energy operators, liquidity forecasting is driven by reservoir mechanics and volumetric outputs.
 
@@ -148,7 +154,7 @@ North American Energy Liquidity If
 
 These mechanics allow institutional allocators to treat energy assets as long duration cash flow anchors, both collateralized and volumetric, which reinforce the multi asset liquidity matrix.
 
-### Phase III: .
+# Phase III: .
 
 THE PARTNERSHIP MODEL The role of Roials Capital is to operate as a neutral strategic navigator across these domains.
 
@@ -194,7 +200,7 @@ Special Mandates These include NAEO energy acquisitions in the 50M to 250M range
 
 In the case of NAEO, the engagement emphasizes technical reservoir intelligence, regulatory clarity, and operational forecasting.
 
-### Phase IV: .
+# Phase IV: .
 
 THE STEWARDSHIP FILTER Institutional stewardship is the discipline of non wasteful capital deployment.
 
@@ -220,7 +226,7 @@ Stewardship becomes a structural filter through which the allocator evaluates al
 
 It is a recalibration mechanism that ensures the portfolio remains aligned with long horizon objectives.
 
-### Phase V: .
+# Phase V: .
 
 DECISION MAKING LENS FOR THE ALLOCATOR Institutional allocators operate within a new regime.
 
@@ -244,7 +250,9 @@ The current environment rewards those who possess operational intelligence, stru
 
 Roials Capital operates as a strategic partner for allocators who require an integrated understanding of multi asset liquidity and institutional deployment cycles. [END BRIEFING]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

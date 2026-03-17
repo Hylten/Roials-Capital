@@ -22,7 +22,9 @@ The current regime demonstrates the same characteristics observable in 1986, 199
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Institutional allocators are reorienting portfolios to meet solvency requirements, sharpen liquidity corridors, and mitigate valuation compression in traditional equity benchmarks.
 
@@ -66,7 +68,9 @@ What changed is the institutional perception of regulatory cost, which created a
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Migration patterns follow rules.
 
@@ -160,7 +164,9 @@ This operational intelligence reduces discovery costs for allocators.
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is treated not as philanthropy but as a discipline of non-wasteful resource management.
+## THE STEWARDSHIP FILTER Stewardship is treated not as philanthropy but as a discipline of non-wasteful resource management
+
+.
 
 For institutions with multi-generational mandates, capital stewardship aligns with the scriptural principle in **Proverbs 13:22
 
@@ -204,7 +210,9 @@ This dialogue is not a solicitation.
 
 It is a structural assessment designed to map institutional objectives to the current capital migration regime.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

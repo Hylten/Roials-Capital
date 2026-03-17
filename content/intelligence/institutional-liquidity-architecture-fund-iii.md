@@ -22,7 +22,9 @@ The displacement of traditional lenders and the fragmentation of cross‑border 
 
 That is the environment in which Fund‑III scale strategies now operate.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is clear.
 
@@ -412,7 +414,9 @@ Harden the machine.
 
 Align the machine to acquisition velocity and capital distribution targets.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is institutional.
 
@@ -436,7 +440,9 @@ Confidential capital audit required for alignment assessment.
 
 Ratio: 1.14x liquidity coverage minimum.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

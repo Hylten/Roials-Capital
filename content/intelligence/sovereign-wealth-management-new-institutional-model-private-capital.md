@@ -24,7 +24,9 @@ These vehicles provide the scale, governance maturity, and operational standardi
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The global private capital regime has transitioned from a liquidity driven expansion cycle to an efficiency driven consolidation cycle. 
 
@@ -64,7 +66,9 @@ Private equity funds entering Fund-III or Fund-IV cycles increasingly must posit
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF THE NEW SOVEREIGN MODEL Sovereign wealth management operates on principles fundamentally different from family offices, endowments, or traditional LP structures.
 
@@ -148,7 +152,9 @@ Roials Capital provides the allocators, the governance interface, and the capita
 
  
 
-## THE STEWARDSHIP FILTER Sovereign wealth management at scale requires a stewardship discipline that transcends commercial capital.
+## THE STEWARDSHIP FILTER Sovereign wealth management at scale requires a stewardship discipline that transcends commercial capital
+
+.
 
 Stewardship is the ability to deploy resources without waste, distortion, or unnecessary risk.
 

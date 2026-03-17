@@ -30,7 +30,9 @@ The next decade will reward the actors who build systems that enforce consistenc
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Sovereign capital is entering an austerity regime.
 
@@ -104,7 +106,9 @@ Sovereigns are losing the competition for strategic assets because their infrast
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Sovereign capital infrastructure can be decomposed into four mechanics.
 
@@ -188,7 +192,9 @@ Capital flows toward private systems that enforce accountability instead of publ
 
  
 
-## THE 
+## THE
+
+ 
 
  STRATEGIC MODEL
 
@@ -200,11 +206,15 @@ Build an architecture where capital moves with precision, assets are acquired wi
 
 The structure divides into three pillars.
 
-### Pillar I: Kapitalanskaffning for Fund-III and Fund-IV adjacency.
+# Pillar I: Kapitalanskaffning for Fund-III and Fund-IV adjacency
+
+.
 
 Eighty percent of 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is directed toward capital formation for buyouts and add-ons.
 
@@ -220,11 +230,15 @@ Sovereigns want influence without responsibility.
 
 We serve the first two, not the third.
 
-### Pillar II: Asset-Backed Frameworks through institutional Asset-Based Lending.
+# Pillar I: I
+
+Asset-Backed Frameworks through institutional Asset-Based Lending.
 
 Ten percent of 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is structured around asset-based lending for operators with temporary liquidity mismatches.
 
@@ -240,11 +254,15 @@ It forces precision.
 
 When used inside sovereign-linked ecosystems, it creates a parallel system of discipline that outperforms public credit channels.
 
-### Pillar III: Special mandates in energy and regulated acquisitions.
+# Pillar III: Special mandates in energy and regulated acquisitions
+
+.
 
 Ten percent of 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  focuses on mandates in:
 
@@ -262,7 +280,9 @@ The fiscal spine does not.
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is not philosophy.
+## THE STEWARDSHIP FILTER Stewardship is not philosophy
+
+.
 
 Stewardship is operational constraint.
 
@@ -357,7 +377,9 @@ A fund survives on the precision of its governance.
 
 For LPs, family offices, and institutional allocators requiring a confidential capital audit for Fund-III positioning, initiate contact under secure channel.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

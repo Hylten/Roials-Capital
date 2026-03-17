@@ -16,7 +16,9 @@ This memorandum outlines the mechanics behind that shift, the technical attribut
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Modern private credit exists in a post-2020 environment defined by a sequence of structural breakpoints.
 
@@ -52,7 +54,9 @@ The allocators that achieve the best alignment are those who structure multi sta
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Private credit performance is determined by structural engineering.
 
@@ -174,7 +178,9 @@ The partnership model is built on three pillars:
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is a discipline of non wasteful resource management.
+## THE STEWARDSHIP FILTER Stewardship is a discipline of non wasteful resource management
+
+.
 
 It is a capital philosophy aligned with **Proverbs 13:22
 
@@ -218,7 +224,9 @@ Roials Capital facilitates this process through confidential strategy audits and
 
 These are designed to clarify structural realities, align capital flows with sponsor competencies, and allow allocators to engage with the market from a position of technical strength. [END]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

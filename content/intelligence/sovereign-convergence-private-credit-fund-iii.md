@@ -495,7 +495,9 @@ Managers either design architecture or become trapped in it.
 
 Fund-III designs it.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is clear.
 
@@ -517,7 +519,9 @@ For confidential capital audit: contact ROIALS CAPITAL.
 
 Leverage Ratio Target: 1.85x.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

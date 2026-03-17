@@ -20,7 +20,9 @@ The shift has created an environment where portfolio backed liquidity functions 
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The current environment is anchored by three macro forces.
 
@@ -70,7 +72,9 @@ Portfolio backed liquidity is the mechanism through which private equity platfor
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Portfolio backed liquidity operates through a layered framework.
 
@@ -86,7 +90,11 @@ Within energy, the conventional heavy oil category is particularly stable due to
 
 The Alberta basin remains one of the most technically modeled hydrocarbon systems globally.
 
-The second layer is structural seniority.
+The second 
+
+# Layer I: s structural seniority
+
+.
 
 Modern lenders require explicit definitions of priority, cure mechanics, and monetization waterfalls.
 
@@ -94,7 +102,11 @@ Higher quality liquidity programs use cross collateralization for stability, but
 
 Structural separation is the protection mechanism for allocators, especially when multiple operating companies create a blended borrowing base.
 
-The third layer is the LTV curve.
+The third 
+
+# Layer I: s the LTV curve
+
+.
 
 Portfolio backed facilities rarely exceed 
 
@@ -106,7 +118,11 @@ Hard assets such as heavy oil production, stabilized industrial platforms, or co
 
 Cash flow centric platforms require lower leverage ceilings due to the cyclicality of EBITDA normalization.
 
-The fourth layer is maturity architecture.
+The fourth 
+
+# Layer I: s maturity architecture
+
+.
 
 Execution grade programs operate with 
 
@@ -124,7 +140,11 @@ In most cases, facilities are structured with minimal principal requirements dur
 
 The liquidity program must align with the sponsor's acquisition timeline rather than force artificial deleveraging.
 
-The fifth layer is liquidity release logistics.
+The fifth 
+
+# Layer I: s liquidity release logistics
+
+.
 
 Institutional grade structures allow capital to be drawn for acquisitions, recapitalizations, strategic supplier consolidation, or working capital reinforcement.
 
@@ -134,7 +154,11 @@ Proper release mechanics are essential.
 
 The facility cannot create timing mismatches between funding windows and transaction deadlines.
 
-The final layer is portfolio behaviour under stress.
+The final 
+
+# Layer I: s portfolio behaviour under stress
+
+.
 
 Stress tested liquidity ecosystems maintain operational integrity even when single assets underperform.
 
@@ -192,7 +216,9 @@ Roials Capital functions strictly as the introducer and strategic coordinator.
 
  
 
-## THE STEWARDSHIP FILTER Stewardship operates as a capital discipline.
+## THE STEWARDSHIP FILTER Stewardship operates as a capital discipline
+
+.
 
 It is the principle that capital must not be wasted, misallocated, or depreciated through operational negligence. **Proverbs 13:22
 
@@ -228,7 +254,11 @@ Capital must serve the operational timeline of the asset rather than force liqui
 
 DECISION MAKING LENS Institutional allocators assessing portfolio backed liquidity must evaluate three critical axes.
 
-The first axis is structural resilience.
+The first 
+
+# Axis I: s structural resilience
+
+.
 
 The facility must remain functional across interest rate variations, commodity price fluctuations, and operating cycle shifts.
 
@@ -236,7 +266,11 @@ Higher quality structures rely on asset classes with predictable physics or cont
 
 Heavy oil production in Alberta provides a useful model due to its engineered stability.
 
-The second axis is opportunity velocity.
+The second 
+
+# Axis I: s opportunity velocity
+
+.
 
 The liquidity program must increase the sponsor’s ability to capture timing sensitive acquisitions.
 
@@ -244,7 +278,11 @@ The facility should operate as a strategic advantage rather than an emergency to
 
 A sponsor with an integrated liquidity ecosystem can execute add on acquisitions, platform expansions, and market consolidations with minimal friction.
 
-The third axis is institutional alignment.
+The third 
+
+# Axis I: s institutional alignment
+
+.
 
 The liquidity architecture must align with the expectations of future LPs.
 
@@ -258,7 +296,9 @@ Allocators, GPs, and institutional partners seeking a detailed mapping of liquid
 
 The audit addresses the precision mechanics necessary to maintain institutional grade momentum across the full private capital cycle. [END OF BRIEFING]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

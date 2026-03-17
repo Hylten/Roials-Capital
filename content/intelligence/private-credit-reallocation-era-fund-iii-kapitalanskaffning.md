@@ -380,7 +380,9 @@ This is the inheritance principle.
 
 This is 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  of the reallocation era.
 
@@ -390,7 +392,9 @@ End metric: Deployment velocity target
 
 94 days.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

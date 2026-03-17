@@ -20,7 +20,9 @@ Allocators aligned with the 2026 regime shift are repositioning their strategies
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Institutional M&A has entered a bifurcated environment where two parallel systems now operate.
 
@@ -72,7 +74,9 @@ It is the engineering of a cross-border balance sheet that can deploy into Fund-
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF BORDERLESS CRYPTO COLLATERAL IN M&A Borderless crypto collateral for institutional-grade M&A is defined by four 
 
@@ -90,7 +94,11 @@ The mechanics are outlined below.
 
 1.
 
-Custodial Integrity Layer Institutional-grade collateral must reside in a custodial environment with:
+Custodial Integrity 
+
+# Layer I
+
+nstitutional-grade collateral must reside in a custodial environment with:
 
 - SOC
 
@@ -232,7 +240,9 @@ This briefing is focused on M&A and liquidity engineering, but the partnership m
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource deployment.
+## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource deployment
+
+.
 
 The allocator must view capital not as a commodity but as a responsibility.
 

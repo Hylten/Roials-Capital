@@ -18,7 +18,9 @@ Institutional allocators evaluating Fund-III structures, buyout support faciliti
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Private Credit has transitioned from a peripheral asset class into a core liquidity provider to corporate balance sheets in the United States, Canada, the Nordics, and select EU jurisdictions.
 
@@ -70,7 +72,9 @@ It is sequencing risk, information risk, and structural risk.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF PRIVATE CREDIT RISK Institutional allocators approach Private Credit through five analytical frameworks: capital structure seniority, collateral integrity, covenant engineering, cash flow durability, and exit pathway clarity.
 
@@ -186,7 +190,9 @@ It is institutional alignment where counterparty quality, structural predictabil
 
  
 
-## THE STEWARDSHIP FILTER : THE THEOLOGY OF CAPITAL Stewardship is a capital discipline that rejects waste.
+## THE STEWARDSHIP FILTER : THE THEOLOGY OF CAPITAL Stewardship is a capital discipline that rejects waste
+
+.
 
 It is a principle that calibrates risk acceptance to moral and economic clarity.
 

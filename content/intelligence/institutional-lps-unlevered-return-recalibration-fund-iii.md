@@ -74,7 +74,9 @@ These forces reshape the GP’s posture.
 
 They introduce a new asymmetry: only the disciplined survive the recalibration.
 
-### Phase II: PRINCIPAL VOICE
+# Phase II: PRINCIPAL VOIC
+
+E
 
 - DECLARATION, NOT JUSTIFICATION The ascent to Fund‑III is a sorting mechanism.
 
@@ -114,7 +116,9 @@ No LP wants fragility disguised as strategy.
 
 They want sovereignty in the numbers. 
 
-## THE REASON THEY PUSH HARDER they finally understand the real separation.
+## THE REASON THEY PUSH HARDER they finally understand the real separation
+
+.
 
 A GP capable of producing strong unlevered gains in Fund‑III+ is a GP capable of producing sovereign gains in perpetuity.
 
@@ -124,7 +128,9 @@ A GP incapable of this?
 
 That GP becomes obsolete. 
 
-## THE INTERNAL FRAME REAL DRIVERS OF LP TIGHTENING IN FUND‑III+ 
+## THE INTERNAL FRAME REAL DRIVERS OF LP TIGHTENING IN FUND‑III+
+
+ 
 
 1.
 
@@ -172,7 +178,9 @@ The track record is the architecture.
 
 The architecture is the truth.
 
-### Phase III: THE CORE REASON: INSTITUTIONS NOW REWARD SOVEREIGN AUTONOMY IN VALUE CREATION The deeper motive is sovereignty.
+# Phase II: I
+
+THE CORE REASON: INSTITUTIONS NOW REWARD SOVEREIGN AUTONOMY IN VALUE CREATION The deeper motive is sovereignty.
 
 Institutions want managers who can operate as sovereign engines of value creation.
 
@@ -190,7 +198,9 @@ Institutions allocate to the sovereign.
 
 Not the dependent. 
 
-## THE INDUSTRIAL INTERPRETATION A GP that generates high unlevered returns brings the following capabilities into the room:
+## THE INDUSTRIAL INTERPRETATION A GP that generates high unlevered returns brings the following capabilities into the room
+
+:
 
 - Operational mastery at plant, process, and P&L level.
 
@@ -212,7 +222,9 @@ No leverage illusions.
 
 Only the fundamentals that endure. 
 
-## CAPITAL RAISING (80%)
+## CAPITAL RAISING (80%
+
+)
 
 - WHY UNLEVERED RETURNS ARE CENTRAL TO FUND‑III+ SUCCESS Fund‑III raises are now defined by four principal factors: 
 
@@ -250,7 +262,9 @@ The new north star.
 
 The market rarely speaks this bluntly, but this is the private truth: if a GP cannot explain its unlevered value creation mechanics in three layers of detail, institutional LPs do not consider them a Fund‑III manager. 
 
-## ASSET-BASED LENDING (10%)
+## ASSET-BASED LENDING (10%
+
+)
 
 - THE GATES CLOSE FOR THE UNPREPARED ROIALS CAPITAL operates within strict boundaries.
 
@@ -270,7 +284,9 @@ They are filters to protect institutional product integrity.
 
 Managers who cannot meet these thresholds are not operating at a level consistent with Fund‑III+ architecture. 
 
-## SPECIAL MANDATES (10%)
+## SPECIAL MANDATES (10%
+
+)
 
 - THE QUIET BACKBONE OF SOVEREIGN EXECUTION The capital flows behind private energy acquisition, MiFID II cross‑border transactions, and North American strategic consolidation have matured.
 
@@ -292,7 +308,9 @@ They allocate to order.
 
 They punish drift. 
 
-## THE NEW HIERARCHY OF INSTITUTIONAL CAPITAL FORMATION FUND‑III+ EDITION At the top sit the GPs who produce high unlevered returns with calm precision.
+## THE NEW HIERARCHY OF INSTITUTIONAL CAPITAL FORMATION FUND‑III+ EDITION At the top sit the GPs who produce high unlevered returns with calm precision
+
+.
 
 Below them sit the financial engineers.
 
@@ -310,7 +328,9 @@ The GP that shapes itself around sovereign operational competence-margin archite
 
 That GP becomes an institution of its own. 
 
-## THE PRINCIPAL VERDICT Unlevered performance is the new covenant between LP and GP.
+## THE PRINCIPAL VERDICT Unlevered performance is the new covenant between LP and GP
+
+.
 
 It is a contract of discipline.
 

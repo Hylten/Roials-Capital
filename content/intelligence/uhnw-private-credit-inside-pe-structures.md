@@ -62,7 +62,11 @@ UHNW investors want consistent velocity, not narrative cycles.
 
 Structural Priority.
 
-They step into senior or unitranche exposure within a PE‑controlled environment.
+They 
+
+# Step I
+
+nto senior or unitranche exposure within a PE‑controlled environment.
 
 They know the collateral.
 

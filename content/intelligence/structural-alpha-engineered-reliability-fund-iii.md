@@ -64,7 +64,9 @@ Hard rules.
 
 Hard certainty. 
 
-## INSTITUTIONAL PREMISE: RELIABILITY AS ENGINEERED OUTPUT Reliability increases enterprise value.
+## INSTITUTIONAL PREMISE: RELIABILITY AS ENGINEERED OUTPUT Reliability increases enterprise value
+
+.
 
 Reliability reduces counterparty spread.
 
@@ -108,7 +110,9 @@ Before capital commitment.
 
 Structural alpha baked into the chassis rather than earned in the field. 
 
-## THE FUND‑III ARCHITECTURE: CAPITAL RAISING AS SYSTEM ENGINEERING Kapitalanskaffning for Fund‑III centers on design-first sequencing.
+## THE FUND‑III ARCHITECTURE: CAPITAL RAISING AS SYSTEM ENGINEERING Kapitalanskaffning for Fund‑III centers on design-first sequencing
+
+.
 
 Capital raising is not messaging.
 
@@ -146,7 +150,9 @@ LPs fund systems.
 
 Not pitches. 
 
-## STRUCTURAL ALPHA: THE MECHANISM Structural alpha arises when the fund structure itself generates return expansion independent of underlying portfolio performance.
+## STRUCTURAL ALPHA: THE MECHANISM Structural alpha arises when the fund structure itself generates return expansion independent of underlying portfolio performance
+
+.
 
 This requires pressure layers embedded across legal, financial, and operational systems.
 
@@ -200,7 +206,9 @@ Reliability amplifies capital inflow.
 
 Structural alpha becomes inevitable when reliability is systemic. 
 
-## ASSET-BASED Monetization Architecture: THE CORE OF ENGINEERED RELIABILITY Asset-Based Lending is treated as a dynamic inflation of the capital universe surrounding the asset.
+## ASSET-BASED Monetization Architecture: THE CORE OF ENGINEERED RELIABILITY Asset-Based Lending is treated as a dynamic inflation of the capital universe surrounding the asset
+
+.
 
 Expand the collateral envelope.
 
@@ -248,7 +256,9 @@ Asset-Based Lending transforms assets into reliability engines.
 
 Reliability engines attract capital. 
 
-## THE ENERGY FOOTPRINT: NAEOC $50M-$250M MANDATES The North American Energy Operations Corridor (NAEOC) remains structurally mispriced relative to global institutional appetite.
+## THE ENERGY FOOTPRINT: NAEOC $50M-$250M MANDATES The North American Energy Operations Corridor (NAEOC) remains structurally mispriced relative to global institutional appetite
+
+.
 
 High-performing but under-capitalized operators.
 
@@ -278,7 +288,9 @@ Predictability becomes investable.
 
 Investability scales capital raising. 
 
-## EUROPEAN EXPANSION: MiFID II ACQUISITION CHASSIS MiFID II is a constraint for most managers.
+## EUROPEAN EXPANSION: MiFID II ACQUISITION CHASSIS MiFID II is a constraint for most managers
+
+.
 
 A weapon for a few.
 
@@ -300,9 +312,13 @@ LP gravity feeds Fund‑III.
 
 EU regulation becomes structural alpha when used as a shield rather than a shackle. 
 
-## BUYOUT AND ADD-ON 
+## BUYOUT AND ADD-ON
 
-## STRATEGY: SYSTEMIC CONSOLIDATION Fund‑III positions consolidation not as a growth mechanism but as a reliability mechanism.
+ 
+
+## STRATEGY: SYSTEMIC CONSOLIDATION Fund‑III positions consolidation not as a growth mechanism but as a reliability mechanism
+
+.
 
 Add-ons reduce volatility.
 
@@ -336,7 +352,9 @@ Reliability stabilizes the perimeter.
 
 Capital compounds within the perimeter. 
 
-## CROSS‑STACK CAPITAL DESIGN: LP/GP SYSTEM ALIGNMENT LPs demand clarity.
+## CROSS‑STACK CAPITAL DESIGN: LP/GP SYSTEM ALIGNMENT LPs demand clarity
+
+.
 
 GPs demand authority.
 
@@ -360,7 +378,9 @@ This is the long-cycle advantage.
 
 Structural alpha persists across multiple vintages because the design is systemic, not opportunistic. 
 
-## THE ROIALS CAPITAL SIGNAL Signal strength matters.
+## THE ROIALS CAPITAL SIGNAL Signal strength matters
+
+.
 
 Institutional LPs respond to signal clarity, not noise.
 
@@ -388,7 +408,9 @@ Hard returns. **Proverbs 13:22
 
 * confirms 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
 .
 
@@ -412,11 +434,15 @@ Efficient.
 
 Deterministic. 
 
-## MANDATE FORWARD ROIALS CAPITAL invites qualified LPs, institutional allocators, and strategic partners to engage in a confidential capital audit to determine alignment, structural fit, and Fund‑III allocation pathways.
+## MANDATE FORWARD ROIALS CAPITAL invites qualified LPs, institutional allocators, and strategic partners to engage in a confidential capital audit to determine alignment, structural fit, and Fund‑III allocation pathways
+
+.
 
 Terminal Metric: LTV Hardening Ratio 1.47x across engineered collateral stacks.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

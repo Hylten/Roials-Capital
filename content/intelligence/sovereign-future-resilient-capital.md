@@ -26,7 +26,9 @@ These principles form the basis for capital stewardship and are driving renewed 
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The current institutional environment is defined by three converging macro forces. 
 
@@ -70,7 +72,9 @@ The allocator that ignores it is exposed to synthetic diversification without re
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  North American energy assets are delivering the most predictable downside profile when supported by transparent reservoir data, established decline curves, and mature extraction methodologies.
 
@@ -170,7 +174,9 @@ Roials Capital supports by ensuring that institutional governance, counterparty 
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management.
+## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management
+
+.
 
 It is a framework, not a slogan. **Proverbs 13:22
 

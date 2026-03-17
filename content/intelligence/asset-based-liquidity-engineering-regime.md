@@ -14,13 +14,15 @@ Liquidity is the constraint most UHNW families misdiagnose.
 
 Order is not an option.
 
-### Phase I: .
+# Phase I: .
 
  
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Capital no longer rewards passive ownership.
 
@@ -70,13 +72,15 @@ Fund-III sits inside that shift.
 
 Not beside it.
 
-### Phase II: .
+# Phase II: .
 
  
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Strategic Collateralization is not a slogan.
 
@@ -164,11 +168,13 @@ This is why we build Asset-Based Lending facilities not as credit.
 
 But as operating infrastructure.
 
-### Phase III: .
+# Phase III: .
 
  
 
-## THE 
+## THE
+
+ 
 
  STRATEGIC MODEL
 
@@ -246,7 +252,7 @@ We recycle surplus into controlled compounding paths.
 
 Waste is eliminated.
 
-### Phase IV: .
+# Phase IV: .
 
 THE STEWARDSHIP FILTER A system built without stewardship corrodes.
 
@@ -296,7 +302,7 @@ A liquidity engineered system teaches the next generation how to govern.
 
 Not how to spend.
 
-### Phase V: .
+# Phase V: .
 
 EXIT Our internal mandate is explicit.
 
@@ -306,7 +312,9 @@ Every facility must move the operator toward a minimum DSCR of 1.
 
 Deviate from this and the compounding model breaks.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

@@ -96,7 +96,9 @@ Clean logic.
 
 No filler. 
 
-## SOVEREIGN CAPITAL IS A SYSTEM OF COMPETING INFRASTRUCTURES Not portfolios.
+## SOVEREIGN CAPITAL IS A SYSTEM OF COMPETING INFRASTRUCTURES Not portfolios
+
+.
 
 Not strategies.
 
@@ -148,7 +150,9 @@ Energy, industrials, infrastructure, and specialized real assets-these are the n
 
 Our pipeline sits precisely there. 
 
-## GLOBAL ALLOCATION REGIMES ARE RECONFIGURING This cycle is not a rotation.
+## GLOBAL ALLOCATION REGIMES ARE RECONFIGURING This cycle is not a rotation
+
+.
 
 It is a reconfiguration.
 
@@ -200,7 +204,9 @@ Neither pure PE nor pure infra.
 
 A sovereignty‑aligned asset hardness engine. 
 
-## THE STRUCTURAL ALIGNMENT IMPERATIVE The next decade’s strongest performers will not be high-beta funds.
+## THE STRUCTURAL ALIGNMENT IMPERATIVE The next decade’s strongest performers will not be high-beta funds
+
+.
 
 They will be structurally aligned funds.
 
@@ -274,7 +280,9 @@ It is engine tuning.
 
 It strengthens the entire Fund‑III ecosystem. 
 
-## THE REDEFINED ROLE OF BUYOUTS Buyouts used to be about control.
+## THE REDEFINED ROLE OF BUYOUTS Buyouts used to be about control
+
+.
 
 Today, buyouts are about infrastructure.
 
@@ -324,7 +332,9 @@ This is why Fund-III is not chasing hypergrowth.
 
 It is chasing permanence. 
 
-## THE END OF PORTFOLIO FRAGMENTATION Old model: Many assets.
+## THE END OF PORTFOLIO FRAGMENTATION Old model: Many assets
+
+.
 
 Thin conviction.
 
@@ -358,7 +368,9 @@ Every NAEOC energy buildout.
 
 The entire system is a synchronized capital machine. 
 
-## THE RISE OF CAPITAL SOVEREIGNTY Sovereign capital is moving from passive allocation to strategic enforcement.
+## THE RISE OF CAPITAL SOVEREIGNTY Sovereign capital is moving from passive allocation to strategic enforcement
+
+.
 
 Three movements define this shift: Movement One: Capital Repatriation Countries want control.
 
@@ -392,7 +404,9 @@ We stabilize nodes.
 
 We align nodes with sovereign regimes. 
 
-## THE Fund-III POSITIONING THESIS Eleven points: 
+## THE Fund-III POSITIONING THESIS Eleven points:
+
+ 
 
 1.
 
@@ -444,7 +458,9 @@ Our engine.
 
 Our identity. 
 
-## WHY LPs ARE INCREASING ALLOCATIONS TO BUYOUTS WITH INFRASTRUCTURE BEHAVIOR Because volatility destroys synthetic assets.
+## WHY LPs ARE INCREASING ALLOCATIONS TO BUYOUTS WITH INFRASTRUCTURE BEHAVIOR Because volatility destroys synthetic assets
+
+.
 
 Because public markets are yield traps.
 
@@ -466,7 +482,9 @@ This combination is extremely rare.
 
 And attractive. 
 
-## GLOBAL CAPITAL IS MOVING TOWARD ENERGY HARDNESS The US.
+## GLOBAL CAPITAL IS MOVING TOWARD ENERGY HARDNESS The US
+
+.
 
 The GCC.
 
@@ -528,7 +546,9 @@ Asset-Based Lending gives both.
 
 Fund‑III uses it as a precision tool. 
 
-## EU MiFID II ACQUISITIONS AS A COMPETITIVE ADVANTAGE Many US funds avoid MiFID II.
+## EU MiFID II ACQUISITIONS AS A COMPETITIVE ADVANTAGE Many US funds avoid MiFID II
+
+.
 
 Too complex.
 
@@ -560,7 +580,9 @@ Sovereigns love this.
 
 It gives them European deployment without bureaucracy. 
 
-## THE PRINCIPAL ARCHITECTURE OF Fund-III A sovereign-aligned capital machine with:
+## THE PRINCIPAL ARCHITECTURE OF Fund-III A sovereign-aligned capital machine with
+
+:
 
 - Buyout center.
 
@@ -580,7 +602,9 @@ This is institution‑grade design.
 
 Built for LPs who understand that capital cycles are no longer cyclical-they are geopolitical. 
 
-## THE WORLD IS MOVING BACK TO HARD ASSETS Air.
+## THE WORLD IS MOVING BACK TO HARD ASSETS Air
+
+.
 
 Land.
 
@@ -610,7 +634,9 @@ Private equity used to sell stories.
 
 We sell structures. 
 
-## WHY CAPITAL RAISING FOR Fund-III IS ACCELERATING Because LPs want:
+## WHY CAPITAL RAISING FOR Fund-III IS ACCELERATING Because LPs want
+
+:
 
 - Predictable cycles.
 
@@ -630,7 +656,9 @@ Kapitalanskaffning is easier when your structure matches sovereign doctrine.
 
 Our doctrine does. 
 
-## THE FUTURE: A MULTIPOLAR CAPITAL ECOSYSTEM Five poles.
+## THE FUTURE: A MULTIPOLAR CAPITAL ECOSYSTEM Five poles
+
+.
 
 Five power centers:
 
@@ -690,7 +718,9 @@ Capital is sovereignty.
 
 Fund‑III is architecture built to serve both.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

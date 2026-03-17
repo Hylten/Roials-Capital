@@ -20,7 +20,9 @@ This institutional briefing establishes the architecture required for allocators
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The post 2020 capital regime is characterized by fragmentation across three spheres.
 
@@ -58,7 +60,9 @@ It allows a European governed capital stack to be deployed into a North American
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Energy mechanics In the Alberta basin, the most stable production regimes remain SAGD and CSS operations with mature reservoir profiles.
 
@@ -154,7 +158,9 @@ Roials Capital introduces the allocator to NAEO when the strategic profile, risk
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful capital deployment.
+## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful capital deployment
+
+.
 
 It is not a moral gesture.
 

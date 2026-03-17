@@ -6,7 +6,9 @@ author: "ROIALS CAPITAL"
 slug: "why-gps-launching-esg-optional-funds"
 --- 
 
-## Why GPs Are Increasingly Launching ESG‑Optional Rather Than ESG‑Mandatory Funds General Partners across US, EU, and GCC markets are shifting away from ESG‑mandatory fund structures for three primary reasons: 
+## Why GPs Are Increasingly Launching ESG‑Optional Rather Than ESG‑Mandatory Funds General Partners across US, EU, and GCC markets are shifting away from ESG‑mandatory fund structures for three primary reasons:
+
+ 
 
 1. **LP Fragmentation
 

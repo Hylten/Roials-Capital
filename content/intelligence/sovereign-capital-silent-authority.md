@@ -64,7 +64,9 @@ EU MiFID II acquisitive frameworks).
 
 The objective is simple: position the GP as an institutional authority capable of absorbing sovereign flows at scale. 
 
-## SECTION 1: The Sovereign Thesis Discipline.
+## SECTION 1: The Sovereign Thesis Discipline
+
+.
 
 Permanence.
 
@@ -76,7 +78,9 @@ It acquires foundational assets.
 
 It seeks the hard edges of real economy sectors-industrials, energy infrastructure, asset-heavy operating platforms, and regulated environments where complexity reduces competition.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is stability through scale. 
 
@@ -116,7 +120,9 @@ Emotion loses.
 
 Always. 
 
-## SECTION 2: Sovereign Capital and Fund-III Dynamics Fund-III is the inflection point.
+## SECTION 2: Sovereign Capital and Fund-III Dynamics Fund-III is the inflection point
+
+.
 
 It is no longer a proof-of-concept vehicle.
 
@@ -160,7 +166,9 @@ Fund-III performance becomes secondary.
 
 System integrity becomes primary. 
 
-## SECTION 3: Jurisdictional Arbitrage and Institutional Hierarchical Dynamics Modern financing is no longer capital vs. assets.
+## SECTION 3: Jurisdictional Arbitrage and Institutional Hierarchical Dynamics Modern financing is no longer capital vs. assets
+
+.
 
 It is jurisdiction vs. jurisdiction.
 
@@ -194,7 +202,9 @@ Sovereign LPs invest in partners.
 
 Not vendors. 
 
-## SECTION 4: The Capital Stack for Sovereign-Ready Buyouts Sovereign capital prefers simplicity in the stack.
+## SECTION 4: The Capital Stack for Sovereign-Ready Buyouts Sovereign capital prefers simplicity in the stack
+
+.
 
 Complexity signals weakness.
 
@@ -226,7 +236,9 @@ The GP who relies on financial engineering is disqualified.
 
 The GP who deploys financial engineering as a stabilizer is elevated. 
 
-## SECTION 5: Add-On Integration as a Sovereign Metric Add-ons are not growth.
+## SECTION 5: Add-On Integration as a Sovereign Metric Add-ons are not growth
+
+.
 
 Add-ons are risk consolidation.
 
@@ -258,7 +270,9 @@ Recognizable processes.
 
 Recognizable execution DNA. 
 
-## SECTION 6: Capital Structuring (Asset-Based Lending 10%) Liquidity is the sovereign obsession.
+## SECTION 6: Capital Structuring (Asset-Based Lending 10%) Liquidity is the sovereign obsession
+
+.
 
 Not for returns.
 
@@ -288,7 +302,9 @@ Asset-Based Lending is sovereignty inside the balance sheet.
 
 Fund-III GPs who institutionalize Monetization Architecture attract allocators who think in 20-year arcs, not quarterly cycles. 
 
-## SECTION 7: Special Mandates (Energy: NAEOC $50M,$250M) Energy mandates operate under different physics.
+## SECTION 7: Special Mandates (Energy: NAEOC $50M,$250M) Energy mandates operate under different physics
+
+.
 
 Hard assets.
 
@@ -324,7 +340,9 @@ Control the horizon.
 
 Control the nation. 
 
-## SECTION 8: EU MiFID II Acquisition Pathways MiFID II is not a constraint.
+## SECTION 8: EU MiFID II Acquisition Pathways MiFID II is not a constraint
+
+.
 
 It is a filter.
 
@@ -356,7 +374,9 @@ A weapon.
 
 A gate. 
 
-## SECTION 9: Sovereign Capital Psychology The sovereign allocator is not motivated by IRR.
+## SECTION 9: Sovereign Capital Psychology The sovereign allocator is not motivated by IRR
+
+.
 
 Not by DPI.
 
@@ -394,7 +414,9 @@ Movement without logic signals weakness.
 
 Execution without structure signals danger. 
 
-## SECTION 10: The Sovereign Expectation for Fund-III GPs The sovereign LP expects a GP to operate like a state entity in microcosm:
+## SECTION 10: The Sovereign Expectation for Fund-III GPs The sovereign LP expects a GP to operate like a state entity in microcosm
+
+:
 
 - Policy-driven decision-making
 
@@ -436,7 +458,9 @@ Meet it.
 
 Or exit the room. 
 
-## SECTION 11: Capital Raising (80%) Kapitalanskaffning for Fund-III requires more than storytelling.
+## SECTION 11: Capital Raising (80%) Kapitalanskaffning for Fund-III requires more than storytelling
+
+.
 
 It requires creating a gravitational pull.
 
@@ -472,7 +496,9 @@ This is sovereign psychology.
 
 This is sovereign-tier capital engineering. 
 
-## SECTION 12: The principal authority Sovereign capital does not announce its strategy.
+## SECTION 12: The principal authority Sovereign capital does not announce its strategy
+
+.
 
 Sovereign capital does not chase returns.
 
@@ -504,7 +530,9 @@ This is the architecture.
 
 This is 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
 .
 
@@ -518,7 +546,9 @@ End with a technical metric: Institutional Continuity Ratio:
 
 For a confidential capital audit, submit mandate parameters.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

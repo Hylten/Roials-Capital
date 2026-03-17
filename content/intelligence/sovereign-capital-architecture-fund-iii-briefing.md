@@ -68,13 +68,21 @@ This briefing delivers that architecture.
 
 - 
 
-- The first pillar is structural sovereignty.
+- The first 
+
+# Pillar I: s structural sovereignty
+
+.
 
 A Fund-III manager must operate with a three-layer shell: domicile sovereignty, regulatory neutrality, and allocation elasticity.
 
 Each layer protects the next.
 
-Each layer multiplies the capital‑raising surface area.
+Each 
+
+# Layer M: ultiplies the capital‑raising surface area
+
+.
 
 The domicile tier sets the geopolitical logic.
 
@@ -114,7 +122,11 @@ A single rigid fund structure suffocates capital.
 
 A multi‑sleeve architecture accelerates it.
 
-The second pillar is capital velocity.
+The second 
+
+# Pillar I: s capital velocity
+
+.
 
 Capital raised is not capital sovereign.
 
@@ -148,7 +160,11 @@ Velocity turns hesitation into allocation.
 
 Velocity protects momentum.
 
-The third pillar is asset hardening.
+The third 
+
+# Pillar I: s asset hardening
+
+.
 
 A Fund-III buyout chassis without asset hardening is a liability, not an investment.
 
@@ -174,7 +190,11 @@ In month one.
 
 You deliver alpha by accelerating inevitability.
 
-The fourth pillar is Monetization Architecture.
+The fourth 
+
+# Pillar I: s Monetization Architecture
+
+.
 
 Liquidity is not an outcome.
 
@@ -208,7 +228,11 @@ A leveraged fortress.
 
 A sovereign fortress.
 
-The fifth pillar is acquisition sequencing.
+The fifth 
+
+# Pillar I: s acquisition sequencing
+
+.
 
 Fund-III growth requires precision sequencing, not opportunistic accumulation.
 
@@ -270,7 +294,11 @@ Hard stops.
 
 No drift.
 
-The sixth pillar is jurisdictional arbitrage.
+The sixth 
+
+# Pillar I: s jurisdictional arbitrage
+
+.
 
 Without arbitrage, a Fund-III vehicle becomes a commodity.
 
@@ -322,7 +350,11 @@ Strategically.
 
 - 
 
-- The seventh pillar is institutional signaling.
+- The seventh 
+
+# Pillar I: s institutional signaling
+
+.
 
 A Fund-III platform lives or dies by the quality of its signals.
 
@@ -366,7 +398,11 @@ Raise capital.
 
 - 
 
-- The eighth pillar is cycle dominance.
+- The eighth 
+
+# Pillar I: s cycle dominance
+
+.
 
 Fund-III is where managers either ascend or collapse.
 
@@ -410,9 +446,17 @@ Permanent capital shapes history.
 
 - Now, the apex architecture: the Sovereign Buyout Engine for Fund-III.
 
-The engine has four modules: Module one: Structural Core Module two: Capital Expansion Layer Module three: Liquidity Shield Module four: Acquisition Compression Grid The structural core is multi‑domiciled.
+The engine has four modules: Module one: Structural Core Module two: Capital Expansion 
 
-The expansion layer is multi‑currency.
+# Layer M
+
+odule three: Liquidity Shield Module four: Acquisition Compression Grid The structural core is multi‑domiciled.
+
+The expansion 
+
+# Layer I: s multi‑currency
+
+.
 
 The liquidity shield is multi‑instrument.
 
@@ -568,7 +612,9 @@ End mandate metric: Liquidity Coverage Ratio Target >
 
 85.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

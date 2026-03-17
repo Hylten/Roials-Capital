@@ -18,7 +18,9 @@ Strategic liquidity architecture has therefore evolved into a discipline of capi
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Institutional allocators are recalibrating portfolios within a macro environment defined by four structural forces. 
 
@@ -64,7 +66,9 @@ They are optimizing for resilience, optionality, and regime neutral positioning.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  The mechanics of liquidity engineering for sovereign and UHNW portfolios follow a disciplined architecture.
 
@@ -198,7 +202,9 @@ This partnership model is designed to eliminate informational asymmetry and redu
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is treated as a capital discipline grounded in responsibility, accountability, and non wasteful resource management.
+## THE STEWARDSHIP FILTER Stewardship is treated as a capital discipline grounded in responsibility, accountability, and non wasteful resource management
+
+.
 
 The allocator's role is to deploy liquidity with moral clarity and operational precision.
 

@@ -42,7 +42,9 @@ I will outline the architecture.
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  A structural shift in liquidity regimes has already occurred.
 
@@ -86,7 +88,9 @@ It is operational.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  A sovereign-grade balance sheet behaves predictably across shocks.
 
@@ -162,7 +166,9 @@ Institutional trust produces commitments.
 
  
 
-## THE 
+## THE
+
+ 
 
  STRATEGIC MODEL
 
@@ -240,7 +246,9 @@ A sovereign-aligned GP earns institutional credibility at a level that pure fina
 
  
 
-## THE STEWARDSHIP FILTER The stewardship filter is the boundary between disorder and order.
+## THE STEWARDSHIP FILTER The stewardship filter is the boundary between disorder and order
+
+.
 
 Between wasted capital and productive capital.
 
@@ -303,7 +311,9 @@ Time to cash conversion:
 
 71 days.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

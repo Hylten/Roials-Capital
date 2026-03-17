@@ -28,7 +28,9 @@ Direct.
 
 No drift.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is structural, not cosmetic.
 
@@ -128,7 +130,9 @@ But all respond to hard collateral and jurisdictional clarity.
 
 Fund‑III uses asset-based structures to harden the story, not to complicate it.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is simple: convert asset mass into commitment velocity.
 
@@ -388,7 +392,9 @@ The hierarchy of priorities reflects that position:
 
 - 10% strategic and regulatory mandates (NAEOC + MiFID II acquisitions) 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is not thematic.
 
@@ -426,7 +432,9 @@ Mandate Reference: LQR‑Δ
 
 47.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

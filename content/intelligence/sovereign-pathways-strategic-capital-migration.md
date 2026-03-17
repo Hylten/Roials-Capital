@@ -76,7 +76,9 @@ The lens is ROIALS CAPITAL.
 
 The tone is principal.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is precision.
 
@@ -542,7 +544,9 @@ Sovereignty without migration is incomplete.
 
 This is the missing layer for UHNW principals who generate wealth but fail to institutionalize it. 
 
-## ROIALS CAPITAL operates at the intersection of buyout capital raising, Institutional Liquidity Paths, and sector-specific mandates.
+## ROIALS CAPITAL operates at the intersection of buyout capital raising, Institutional Liquidity Paths, and sector-specific mandates
+
+.
 
 Our vantage point across LP/GP negotiations reveals the new meta-rule: principals with optimized capital migration structures receive preferential access to the best deals, best terms, and best partners.
 
@@ -580,11 +584,15 @@ This is the architecture of longevity.
 
 This is 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
 .
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

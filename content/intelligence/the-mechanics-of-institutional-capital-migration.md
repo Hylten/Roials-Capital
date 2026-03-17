@@ -6,7 +6,9 @@ author: "Jonas Hyltén"
 slug: "the-mechanics-of-institutional-capital-migration"
 --- 
 
-# The Mechanics of Institutional Capital Migration Institutional capital does not move randomly.
+# The Mechanics of Institutional Capital Migration Institutional capital does not move randomly
+
+.
 
 It migrates, and the migration follows identifiable structural rules.
 
@@ -20,7 +22,9 @@ It is the level at which private credit and asset based Monetization Architectur
 
 The goal of this article is to articulate, clearly and surgically, how institutional capital migration works and how our Institutional Liquidity Paths architecture supports that movement. 
 
-## The Architectural Advantage of ROIALS CAPITAL ROIALS CAPITAL provides:
+## The Architectural Advantage of ROIALS CAPITAL ROIALS CAPITAL provides
+
+:
 
 - Capital Structuring against private credit
 
@@ -38,7 +42,9 @@ Institutional capital migrates through systems that respect its scale.
 
 We are one of those systems. 
 
-## Closing Position Capital migration is not a trend.
+## Closing Position Capital migration is not a trend
+
+.
 
 It is the operating logic of modern wealth.
 
@@ -48,7 +54,9 @@ They build the architecture that enables movement on their terms.
 
 ROIALS CAPITAL provides that architecture.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

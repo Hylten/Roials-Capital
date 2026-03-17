@@ -34,7 +34,9 @@ This memo defines that architecture.
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The financing environment for private operators has transitioned from relationship driven lending to structure driven underwriting.
 
@@ -92,7 +94,9 @@ Architecture replaces improvisation.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF STRATEGIC CREDIT ARCHITECTURE The core elements of a modern entrepreneur's capital environment can be grouped into three domains.
 
@@ -258,7 +262,9 @@ This partnership model positions Roials Capital as a strategic interpreter betwe
 
  
 
-## THE STEWARDSHIP FILTER Stewardship establishes the ethical baseline for any credit architecture.
+## THE STEWARDSHIP FILTER Stewardship establishes the ethical baseline for any credit architecture
+
+.
 
 It is the discipline of non wasteful resource management.
 

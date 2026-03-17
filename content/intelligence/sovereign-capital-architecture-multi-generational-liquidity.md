@@ -22,7 +22,9 @@ They are structuring long horizon liquidity architectures around known decline c
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Over the last decade, the North American energy sector has transitioned from a volume driven growth cycle into a capital constrained efficiency regime.
 
@@ -78,7 +80,9 @@ It is a structural shift that will define the next two decades of North American
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF THE ALBERTA ENERGY STRUCTURE Alberta remains one of the most technically mature and geologically stable basins globally.
 
@@ -178,7 +182,11 @@ The function is Institutional
 
 Counterparty Verification.
 
-Roials Capital performs a multi layer institutional filter to identify operational partners whose governance, stewardship, technical discipline, and balance sheet hygiene are aligned with long horizon capital.
+Roials Capital performs a multi 
+
+# Layer I
+
+nstitutional filter to identify operational partners whose governance, stewardship, technical discipline, and balance sheet hygiene are aligned with long horizon capital.
 
 North American Energy Opportunities (NAEO) is one of these partners.
 
@@ -208,7 +216,9 @@ The allocator benefits through reduced information asymmetry, elevated instituti
 
  
 
-## THE STEWARDSHIP FILTER AND THE THEOLOGY OF CAPITAL Stewardship in energy is not a moral veneer.
+## THE STEWARDSHIP FILTER AND THE THEOLOGY OF CAPITAL Stewardship in energy is not a moral veneer
+
+.
 
 It is a technical discipline.
 
@@ -290,7 +300,11 @@ The result is an architecture where liquidity is engineered rather than hoped fo
 
 It is structured around real assets, long duration production, mature decline curves, and operational partners who demonstrate field discipline.
 
-For the allocator, the next step is not transactional.
+For the allocator, the next 
+
+# Step I: s not transactional
+
+.
 
 It is architectural.
 

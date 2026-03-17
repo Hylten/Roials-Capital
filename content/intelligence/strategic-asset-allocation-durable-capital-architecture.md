@@ -20,7 +20,9 @@ The allocators who adapt their strategic allocation models to these conditions a
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The 2020 to 2026 transition period produced a material break in allocator behavior.
 
@@ -78,7 +80,9 @@ Fund-III strategies, North American energy operating companies, and private cred
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  The architecture of durable capital is built through the integration of three technical engines: buyout sequencing, liquidity engineering, and real asset throughput.
 
@@ -186,7 +190,9 @@ For special mandates, including MiFID II acquisition pathways, the firm operates
 
  
 
-## THE STEWARDSHIP FILTER Durable capital requires stewardship.
+## THE STEWARDSHIP FILTER Durable capital requires stewardship
+
+.
 
 This is not a moral abstraction.
 

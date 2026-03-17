@@ -16,7 +16,9 @@ This is the environment in which institutional private credit has evolved into a
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Institutional allocators moving into private credit in 2026 are navigating a landscape defined by four macro variables that have altered the calculus of risk: 
 
@@ -54,7 +56,9 @@ Capital scarcity has elevated underwriting standards, improved structural protec
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF RISK Institutional private credit is defined by its structural architecture.
 
@@ -136,13 +140,17 @@ Mechanisms include:
 
 - Receivable acceleration models in recurring revenue companies The sum of these mechanics defines the true risk position, independent of broad market narratives. 
 
-### Phase II: B:
+# Phase II: B
+
+:
 
  
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  IN SPECIAL SITUATIONS (ENERGY) Where relevant to special mandates, the calculus of risk incorporates asset physics.
 
@@ -160,7 +168,9 @@ These mechanics reduce geological uncertainty and align well with structured pri
 
 THE PARTNERSHIP MODEL Roials Capital functions as a strategic navigator rather than a capital allocator.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is to supply institutional intelligence, ensure structural alignment, and facilitate introductions that allow LPs and GPs to match with the appropriate capital archetype. 
 
@@ -182,7 +192,9 @@ Roials Capital provides:
 
 Institutional Liquidity Paths (Asset-Based Lending) Approximately ten percent of 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  focuses on asset based lending frameworks designed to improve working capital velocity.
 
@@ -212,7 +224,9 @@ Roials Capital does not promote a specific fund but instead ensures institutiona
 
  
 
-## THE STEWARDSHIP FILTER Institutional private credit, when practiced with discipline, is a manifestation of stewardship.
+## THE STEWARDSHIP FILTER Institutional private credit, when practiced with discipline, is a manifestation of stewardship
+
+.
 
 Stewardship is defined as the responsible governance of capital and resources.
 
@@ -268,7 +282,9 @@ Roials Capital provides confidential strategy audits and portfolio calibrations 
 
 The objective is to ensure that institutions deploy capital with clarity, technical precision, and structural advantage. [END OF BRIEFING]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

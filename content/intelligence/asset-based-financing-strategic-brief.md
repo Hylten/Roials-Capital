@@ -452,7 +452,9 @@ Proceed with confidential capital audit.
 
 Target metric: 11.7x liquidity‑velocity coefficient.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

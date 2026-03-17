@@ -232,7 +232,9 @@ They punish firms that chase yield without structural mastery.
 
 ROIALS CAPITAL belongs to the first group.
 
-### Phase IV: The Stewardship Filter Capital is not sovereign.
+# Phase IV: The Stewardship Filter Capital is not sovereign
+
+.
 
 It is held in trust.
 
@@ -292,7 +294,9 @@ It is deployed for continuity.
 
 That continuity is engineered, not assumed.
 
-### Phase V: Exit Yield without velocity is idle.
+# Phase V: Exit Yield without velocity is idle
+
+.
 
 Velocity without structure is reckless.
 
@@ -306,7 +310,9 @@ We engineer both through a Fund-III architecture targeting a 1.
 
 Request a confidential capital audit to determine alignment with Fund-III deployment parameters.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

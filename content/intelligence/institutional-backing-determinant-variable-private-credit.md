@@ -164,13 +164,17 @@ Both mandates default to one variable: does the sponsor possess enough instituti
 
 If yes, 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  flows.
 
 If no, 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  migrates.
 
@@ -340,7 +344,9 @@ Authority determines who sets terms.
 
 Those who set terms win.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

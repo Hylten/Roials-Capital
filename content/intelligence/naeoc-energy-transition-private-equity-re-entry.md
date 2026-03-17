@@ -264,9 +264,17 @@ The cycle is entering the consolidation phase Every industrial transition behave
 
 - Asset fatigue
 
-- ### Phase IV: Operational consolidation
+- 
 
-- ### Phase V: Institutional control We are squarely in Phase 4.
+# Phase IV: Operational consolidatio
+
+n
+
+- 
+
+# Phase V: Institutional control We are squarely in Phase 4
+
+.
 
 Consolidation demands GPs who can operate, contract, restructure, and optimize.
 
@@ -312,7 +320,9 @@ Energy systems are being rebuilt for reasons of physics, not politics.
 
 That is the ultimate anchor for institutional capital. 
 
-## CAPITAL ARCHITECTURE ROIALS CAPITAL Position in the Cycle You already know our tri‑vector: Eighty percent capital raising for Fund‑III and add‑on execution.
+## CAPITAL ARCHITECTURE ROIALS CAPITAL Position in the Cycle You already know our tri‑vector: Eighty percent capital raising for Fund‑III and add‑on execution
+
+.
 
 Ten percent Asset‑Based Lending for working liquidity.
 
@@ -346,7 +356,9 @@ We do not chase the tide.
 
 We build the harbor where the tide returns. 
 
-## ASSET‑BASED LENDING (QUALIFICATION GATES) Strict ROIALS CAPITAL Protocol If a manager or operating company requires working liquidity for acquisition execution, bridge positioning, or industrial stabilization, we open the Asset‑Based Lending corridor only at the formal Qualification Gates:
+## ASSET‑BASED LENDING (QUALIFICATION GATES) Strict ROIALS CAPITAL Protocol If a manager or operating company requires working liquidity for acquisition execution, bridge positioning, or industrial stabilization, we open the Asset‑Based Lending corridor only at the formal Qualification Gates
+
+:
 
 - One facility begins at two million.
 
@@ -360,7 +372,9 @@ That is the gate.
 
 It exists to protect the architecture. 
 
-## THE PRINCIPAL'S CLOSING POSITION Energy transition private equity is entering the age of adult supervision.
+## THE PRINCIPAL'S CLOSING POSITION Energy transition private equity is entering the age of adult supervision
+
+.
 
 The NAEOC mid‑market corridor is where real value will be built.
 

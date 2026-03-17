@@ -74,7 +74,9 @@ The goal is sovereign control.
 
 And Fund‑III demands nothing less. 
 
-## THE SOVEREIGN BANK ARCHITECTURE The architecture begins with custody.
+## THE SOVEREIGN BANK ARCHITECTURE The architecture begins with custody
+
+.
 
 Not retail custody-deep custody.
 
@@ -132,7 +134,9 @@ The sovereign crypto bank regime converts liquidity from a constraint into a cap
 
 And that capability changes everything. 
 
-## THE Fund-III LIQUIDITY MANDATE Fund‑III is buyout‑driven.
+## THE Fund-III LIQUIDITY MANDATE Fund‑III is buyout‑driven
+
+.
 
 Add‑on friendly.
 
@@ -172,7 +176,9 @@ It needs a bank capable of:
 
 - Offering cross-jurisdiction settlement that stays inside regulatory boundaries Kapitalanskaffning is 80% of 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
 .
 
@@ -180,7 +186,9 @@ Without upstream formation, downstream execution collapses.
 
 Fund‑III must raise capital like a sovereign, not like a startup GP. 
 
-## THE CAPITAL FORMATION RAILS (80% MANDATE) Institutional LPs respond to infrastructure, not pitch decks.
+## THE CAPITAL FORMATION RAILS (80% MANDATE) Institutional LPs respond to infrastructure, not pitch decks
+
+.
 
 They need to see banking architecture, compliance pipelines, liquidity ladders, NAV buffers, and a capital intake system that can scale.
 
@@ -272,7 +280,9 @@ The sovereign crypto bank integrates Asset-Based Lending into its balance sheet 
 
 Asset-Based Lending becomes the shock absorber for Fund‑III execution. 
 
-## SPECIAL MANDATES (10% MANDATE) Three lanes matter: 
+## SPECIAL MANDATES (10% MANDATE) Three lanes matter:
+
+ 
 
 1.
 
@@ -312,7 +322,9 @@ Tokenization accelerates settlement, not risk.
 
 Together these mandates form the outer perimeter of Fund‑III’s liquidity system. 
 
-## THE SOVEREIGN REGIME: STRUCTURAL LOGIC A sovereign crypto bank functions like an institutional citadel:
+## THE SOVEREIGN REGIME: STRUCTURAL LOGIC A sovereign crypto bank functions like an institutional citadel
+
+:
 
 - Custody as foundation
 
@@ -376,7 +388,9 @@ Scale the add-ons.
 
 Prepare for Fund-IV. 
 
-## THE REGIME IN PRACTICE Machine gun sentences.
+## THE REGIME IN PRACTICE Machine gun sentences
+
+.
 
 Core signals only.
 
@@ -434,13 +448,17 @@ This is inheritance. **Proverbs 13:22
 
 * . 
 
-## MANDATE 
+## MANDATE
 
  
 
  
 
-## CONCLUSION
+ 
+
+## CONCLUSIO
+
+N
 
  Fund‑III requires sovereign liquidity.
 
@@ -450,7 +468,9 @@ Capital formation defines survival.
 
 Execution defines legacy.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

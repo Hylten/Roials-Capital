@@ -62,7 +62,9 @@ Fund-III+ becomes the preferred instrument for institutional LPs demanding insul
 
 NAEOC alignment increases the clearance rate of large checks.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  itself functions as a stabilizer.
 

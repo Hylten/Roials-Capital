@@ -16,7 +16,9 @@ What was once a specialist instrument for working capital optimization has becom
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The current macro environment is defined by four simultaneous and reinforcing phenomena that shape the relevance of Asset Based Financing. 
 
@@ -66,7 +68,9 @@ It is a structural necessity.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF ASSET BASED FINANCING Asset Based Financing operates on quantifiable collateral, not projected cash flows.
 
@@ -204,7 +208,9 @@ By locking liquidity releases to asset quality and operational performance, the 
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is the governing discipline that ensures capital is deployed in a manner consistent with long term responsibility.
+## THE STEWARDSHIP FILTER Stewardship is the governing discipline that ensures capital is deployed in a manner consistent with long term responsibility
+
+.
 
 Asset Based Financing supports stewardship in four distinct ways. 
 

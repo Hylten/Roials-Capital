@@ -32,7 +32,9 @@ This is
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The monetary world bifurcates when three forces converge: deteriorating trust in legacy clearing systems, capital flight from slow jurisdictions, and the institutionalization of digital collateral.
 
@@ -78,7 +80,9 @@ For Fund-III GPs, this is compounding.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  A sovereign crypto bank operates through four mechanical layers that matter for institutional allocators. 
 
@@ -90,7 +94,11 @@ This core is non-negotiable.
 
 It unifies collateral, eliminating the need for interbank reconciliation.
 
-A crypto bank that does not own this layer is not a sovereign entity.
+A crypto bank that does not own this 
+
+# Layer I: s not a sovereign entity
+
+.
 
 It is a fintech façade. 
 
@@ -154,7 +162,9 @@ Velocity is the new collateral.
 
  
 
-## THE 
+## THE
+
+ 
 
  STRATEGIC MODEL
 
@@ -218,7 +228,9 @@ It is a tactical transformation.
 
  
 
-## THE STEWARDSHIP FILTER No institution survives without clarity of mission.
+## THE STEWARDSHIP FILTER No institution survives without clarity of mission
+
+.
 
 Capital is not neutral.
 
@@ -276,7 +288,9 @@ The governing metric is simple: liquidity deployment time measured in minutes, n
 
 Request a confidential capital audit.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

@@ -32,7 +32,9 @@ Only hardened capital survives cycles, wars, dislocations, and liquidity drought
 
 The institutional equivalent is a capital stack that endures two centuries, not two quarters.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  for Fund‑III sponsors is simple: build the capital spine before scaling the organism.
 
@@ -84,7 +86,11 @@ Unambiguous.
 
 Non-negotiable.
 
-The second pillar is jurisdictional insulation.
+The second 
+
+# Pillar I: s jurisdictional insulation
+
+.
 
 Weak institutions choose structure by convenience.
 
@@ -106,7 +112,11 @@ Hardened capital cannot be trapped, frozen, or contested.
 
 It must flow like a sovereign actor across multiple legal realities.
 
-The third pillar is conversion optionality.
+The third 
+
+# Pillar I: s conversion optionality
+
+.
 
 This is where hardened capital becomes adaptive.
 
@@ -520,7 +530,9 @@ Capital hardened is power realized.
 
 Capital unhardened is power imagined.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

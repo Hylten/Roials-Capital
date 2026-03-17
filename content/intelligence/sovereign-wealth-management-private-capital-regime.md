@@ -40,7 +40,9 @@ Either it internalises sovereign discipline or it loses allocation rights for a 
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Sovereign wealth is no longer passive ballast for national balance sheets.
 
@@ -86,7 +88,9 @@ Sovereign-aligned funds chase control of the cash-flow spine.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  The institutions that outperform in this regime follow a simple truth: recovery mechanics decide everything.
 
@@ -154,7 +158,9 @@ They define whether a GP can be trusted with sovereign velocity.
 
  
 
-## THE 
+## THE
+
+ 
 
  STRATEGIC MODEL
 
@@ -236,7 +242,9 @@ A fund with internal order becomes a strategic partner.
 
  
 
-## THE STEWARDSHIP FILTER Sovereign capital respects stewardship.
+## THE STEWARDSHIP FILTER Sovereign capital respects stewardship
+
+.
 
 Not sentiment.
 
@@ -308,7 +316,9 @@ The correct metric is recovery-to-velocity ratio: RVR 1.
 
 For sovereign-grade capital alignment, request a confidential capital audit.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

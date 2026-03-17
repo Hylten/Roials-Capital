@@ -22,7 +22,11 @@ Sovereign regulators correct.
 
 The vacuum appears.
 
-Principals step in.
+Principals 
+
+# Step I: n
+
+.
 
 Northern Europe just became the most strategically asymmetrical lending environment in the OECD.
 
@@ -58,7 +62,11 @@ Slow capital destroys buyout windows.
 
 Slow capital suffocates add-on strategies before they mature.
 
-Private lenders step into the space not as opportunists but as systemic correctors.
+Private lenders 
+
+# Step I
+
+nto the space not as opportunists but as systemic correctors.
 
 Industry does not wait for committees.
 

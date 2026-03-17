@@ -10,13 +10,15 @@ Order does not appear by accident.
 
 It is engineered through constraints, enforced through governance, and preserved by capital structures that cannot fracture under volatility.
 
-### Phase I: .
+# Phase I: .
 
  
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The structural gap is silent but absolute.
 
@@ -62,13 +64,15 @@ This is why asset hardening is not a technique.
 
 It is a regime.
 
-### Phase II: .
+# Phase II: .
 
  
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Liquidity must obey the mechanics of collateral.
 
@@ -170,11 +174,13 @@ The technical stack must include:
 
 Capital must never carry assets that cannot carry themselves.
 
-### Phase III: .
+# Phase III: .
 
  
 
-## THE 
+## THE
+
+ 
 
  STRATEGIC MODEL
 
@@ -244,7 +250,7 @@ Our architecture eliminates it.
 
 Across these mandates, we enforce a single governing law: capital must exit stronger than it entered.
 
-### Phase IV: .
+# Phase IV: .
 
 THE STEWARDSHIP FILTER Abundance remains wasteful without discipline.
 
@@ -298,7 +304,7 @@ The asset must prove its resolve before capital enters.
 
 The asset must survive liquidity contraction before it qualifies for expansion.
 
-### Phase V: .
+# Phase V: .
 
 EXIT Exit is not an event.
 
@@ -312,7 +318,9 @@ The technical metric that governs every structure we deploy is this: The hardene
 
 This is the institutional threshold.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

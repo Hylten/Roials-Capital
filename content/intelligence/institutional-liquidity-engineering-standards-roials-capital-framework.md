@@ -16,7 +16,9 @@ It reflects a misalignment between liquidity supply and operational demand acros
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The current environment is defined by capital scarcity relative to operational needs, not capital scarcity relative to opportunity.
 
@@ -68,7 +70,9 @@ This is the environment in which Asset-Backed Frameworks transforms from a tacti
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF INSTITUTIONAL Capital Structuring Monetization Architecture in institutional settings is the disciplined architecture of off balance sheet liquidity, structured seniority, collateral isolation, and cash flow predictability.
 
@@ -196,7 +200,9 @@ Engagement centers on:
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is the discipline that governs capital allocation within the Roials Capital framework.
+## THE STEWARDSHIP FILTER Stewardship is the discipline that governs capital allocation within the Roials Capital framework
+
+.
 
 It is not a virtue signal.
 
@@ -246,7 +252,9 @@ Allocators seeking to calibrate their portfolios for the 2026 environment often 
 
 Roials Capital operates as a navigator within this landscape, equipping decision makers with the structural intelligence required to operate in an era defined by capital scarcity, operational complexity, and opportunity velocity.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

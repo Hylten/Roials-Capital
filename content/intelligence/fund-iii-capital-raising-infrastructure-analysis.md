@@ -68,7 +68,9 @@ The lens is allocator psychology and GP positioning. **Proverbs 13:22
 
 * : capital must outlive the architect. 
 
-## INSTITUTIONAL LAYOUT Fund‑III allocators apply three governing filters:
+## INSTITUTIONAL LAYOUT Fund‑III allocators apply three governing filters
+
+:
 
 - Capital efficiency
 
@@ -112,7 +114,9 @@ Institutional allocators require:
 
 Not persuasion. 
 
-## CAPITAL‑RAISING INFRASTRUCTURE Fund‑III platforms must operate with four structural pillars: 
+## CAPITAL‑RAISING INFRASTRUCTURE Fund‑III platforms must operate with four structural pillars:
+
+ 
 
 1.
 
@@ -136,7 +140,9 @@ Elasticity drives upgrade from $15M checks to $75M‑$200M checks.
 
 Elasticity funds the GP’s compounding machine. 
 
-## BASE INFRASTRUCTURE Institutional allocators inspect foundation integrity.
+## BASE INFRASTRUCTURE Institutional allocators inspect foundation integrity
+
+.
 
 They assess:
 
@@ -180,7 +186,9 @@ GPs must present:
 
 Fund‑III is no longer “emerging.” Fund‑III is “institutional test.” Failure at this stage scars allocator memory for eight years. 
 
-## MOBILIZATION INFRASTRUCTURE This is the capital acquisition engine.
+## MOBILIZATION INFRASTRUCTURE This is the capital acquisition engine
+
+.
 
 Kapitalanskaffning becomes a mechanical discipline.
 
@@ -252,7 +260,9 @@ Precision drives capital density.
 
 Density accelerates Fund‑III close speed. 
 
-## TRANSMISSION INFRASTRUCTURE Once capital enters the fund, allocators track flow.
+## TRANSMISSION INFRASTRUCTURE Once capital enters the fund, allocators track flow
+
+.
 
 They measure throughput.
 
@@ -296,7 +306,9 @@ Allocators examine the system.
 
 Not the story. 
 
-## ADDITIONAL LAYER: BUYOUTS + ADD‑ONS Fund‑III allocators track pattern strength.
+## ADDITIONAL LAYER: BUYOUTS + ADD‑ONS Fund‑III allocators track pattern strength
+
+.
 
 They assess the GP’s ability to create durable clusters.
 
@@ -326,7 +338,9 @@ Drift reduces trust.
 
 Trust shapes allocation repeatability. 
 
-## EXTRACTION INFRASTRUCTURE Strategic Collateralization is the final test.
+## EXTRACTION INFRASTRUCTURE Strategic Collateralization is the final test
+
+.
 
 Institutional allocators measure exit reliability.
 
@@ -386,7 +400,9 @@ Allocators evaluate this heavily.
 
 Fund‑III GPs without Asset-Based Lending partners face discounted commitments. 
 
-## SPECIAL MANDATES Institutional allocators prefer GPs with mandate versatility.
+## SPECIAL MANDATES Institutional allocators prefer GPs with mandate versatility
+
+.
 
 Fund‑III requires capacity to service: 
 
@@ -428,7 +444,9 @@ Range signals capability.
 
 Capability attracts scale. 
 
-## INSTITUTIONAL PSYCHOLOGY Allocators read posture.
+## INSTITUTIONAL PSYCHOLOGY Allocators read posture
+
+.
 
 They study precision.
 
@@ -468,7 +486,9 @@ Machine‑grade discipline.
 
 Iterator’s mind. 
 
-## THE FUND‑III Hierarchical Dynamics Allocators assign Fund‑III status based on the delta:
+## THE FUND‑III Hierarchical Dynamics Allocators assign Fund‑III status based on the delta
+
+:
 
 - Fund‑I: Narrative
 
@@ -494,7 +514,9 @@ Future funds inherit this identity.
 
 If identity fails here, the platform collapses into mid‑market stagnation. 
 
-## JURISDICTIONAL ARBITRAGE Institutional allocators expect territorial advantage.
+## JURISDICTIONAL ARBITRAGE Institutional allocators expect territorial advantage
+
+.
 
 Not geographic expansion.
 
@@ -522,7 +544,9 @@ More predictable.
 
 More durable. 
 
-## PORTFOLIO HARDENING Harden assets.
+## PORTFOLIO HARDENING Harden assets
+
+.
 
 Minimize entropy.
 
@@ -552,7 +576,9 @@ NAV stability increases allocator comfort.
 
 Comfort expands commitments. 
 
-## DATA ARCHITECTURE Fund‑III requires:
+## DATA ARCHITECTURE Fund‑III requires
+
+:
 
 - Cross‑jurisdictional data rooms
 
@@ -604,7 +630,9 @@ Throughput Resilience Index: 0.
 
 92
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

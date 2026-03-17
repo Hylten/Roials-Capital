@@ -6,7 +6,9 @@ author: "ROIALS CAPITAL | Principal Architect"
 slug: "multi-asset-hardening-Fund-III-institutional-liquidity-architecture"
 --- 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is acceleration.
 
@@ -64,7 +66,11 @@ Markets don't offer certainty.
 
 Architecture does.
 
-The first pillar is structural jurisdictional separation.
+The first 
+
+# Pillar I: s structural jurisdictional separation
+
+.
 
 The fund’s physical assets, digital assets, contractual assets, and synthetic liquidity must sit in segregated regulatory zones.
 
@@ -406,9 +412,15 @@ Raise institutional capital.
 
 Deploy with speed.
 
-The next step is confidential: initiate the capital audit.
+The next 
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+# Step I: s confidential: initiate the capital audit
+
+.
+
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

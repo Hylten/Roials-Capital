@@ -68,7 +68,9 @@ Risk concentrates.
 
 Structure wins. 
 
-## INSTITUTIONAL RISK CALCULUS: THE CORE ENGINE Private credit today is defined by five forces:
+## INSTITUTIONAL RISK CALCULUS: THE CORE ENGINE Private credit today is defined by five forces
+
+:
 
 - Liquidity velocity
 
@@ -162,7 +164,9 @@ The calculus requires elimination-not management-of asymmetry.
 
 Good structures do this automatically. 
 
-## THE FUND‑III CHALLENGE: CAPITAL EXPECTATIONS HAVE MUTATED Institutional LPs have evolved.
+## THE FUND‑III CHALLENGE: CAPITAL EXPECTATIONS HAVE MUTATED Institutional LPs have evolved
+
+.
 
 They do not evaluate Fund‑III proposals like they did Fund‑I or Fund‑II.
 
@@ -224,7 +228,9 @@ These pressures are amplified in buyouts and add-ons, where sponsor underwriting
 
 LPs want proof the GP can impose discipline on sponsors rather than absorb their risk. 
 
-## BUYOUTS AND ADD-ONS: THE HARD MATH OF SPONSOR DEPENDENCY The credit calculus changes in sponsor-backed deals.
+## BUYOUTS AND ADD-ONS: THE HARD MATH OF SPONSOR DEPENDENCY The credit calculus changes in sponsor-backed deals
+
+.
 
 Buyouts and add-ons introduce sponsor dependency-an unavoidable structural factor.
 
@@ -330,7 +336,9 @@ Or two.
 
 Velocity wins. 
 
-## ENERGY MANDATES (NAEOC $50M-$250M): RISK WITH GRAVITY Energy private credit behaves differently.
+## ENERGY MANDATES (NAEOC $50M-$250M): RISK WITH GRAVITY Energy private credit behaves differently
+
+.
 
 Subsurface physics, regulatory regimes, and commodity cycles create risk vectors unfamiliar to generalist GPs.
 
@@ -382,7 +390,9 @@ Convertibility matters.
 
 Execution matters. 
 
-## EU MiFID II ACQUISITIONS: THE REGULATION AS OPPORTUNITY MiFID II created a compliance labyrinth, but embedded within it are exploitable inefficiencies.
+## EU MiFID II ACQUISITIONS: THE REGULATION AS OPPORTUNITY MiFID II created a compliance labyrinth, but embedded within it are exploitable inefficiencies
+
+.
 
 Firms that understand regulatory microstructures can acquire asset-light, compliance-heavy targets at attractive valuations.
 
@@ -400,7 +410,9 @@ It is a moat.
 
 Those who navigate it raise capital faster. 
 
-## CAPITAL RAISING FOR FUND‑III: THE PRINCIPAL PLAYBOOK Kapitalanskaffning at Fund‑III must follow institutional logic.
+## CAPITAL RAISING FOR FUND‑III: THE PRINCIPAL PLAYBOOK Kapitalanskaffning at Fund‑III must follow institutional logic
+
+.
 
 LPs allocate by evidence, not enthusiasm.
 
@@ -462,7 +474,9 @@ Uncertainty kills commitment.
 
 Capital raises itself when structure speaks. 
 
-## INSTITUTIONAL BEHAVIOR: HOW LPs MAKE DECISIONS TODAY LPs have compressed their evaluation cycle.
+## INSTITUTIONAL BEHAVIOR: HOW LPs MAKE DECISIONS TODAY LPs have compressed their evaluation cycle
+
+.
 
 They now ask:
 
@@ -484,7 +498,9 @@ LPs no longer search for great fund managers.
 
 They search for institutional architects. 
 
-## THE SOVEREIGN ARCHITECTURE OF PRIVATE CREDIT The highest-performing GPs operate like sovereign entities.
+## THE SOVEREIGN ARCHITECTURE OF PRIVATE CREDIT The highest-performing GPs operate like sovereign entities
+
+.
 
 They behave like institutions, not firms.
 
@@ -522,7 +538,9 @@ It attracts institutional capital because it reduces uncertainty at the structur
 
 LPs trust systems more than narratives. 
 
-## THE FINAL CALCULUS: RISK AS A CONTROLLED VARIABLE Private credit remains the only asset class where risk can be engineered, not merely priced.
+## THE FINAL CALCULUS: RISK AS A CONTROLLED VARIABLE Private credit remains the only asset class where risk can be engineered, not merely priced
+
+.
 
 But that engineering requires:
 
@@ -560,7 +578,9 @@ For GPs ready to fortify Fund‑III, expand institutional velocity, and pressure
 
 Terminal Metric: Required Liquidity Coverage Ratio (LCR) for Fund‑III institutional readiness = 1.62x minimum.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

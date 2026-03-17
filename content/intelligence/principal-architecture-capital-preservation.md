@@ -48,13 +48,15 @@ It is not advisory.
 
 It is operational doctrine.
 
-### Phase I: .
+# Phase I: .
 
  
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The macro landscape has moved from permissive liquidity to structural scarcity.
 
@@ -106,13 +108,15 @@ Few understand this.
 
 Even fewer execute it.
 
-### Phase II: .
+# Phase II: .
 
  
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Capital preservation is built inside the mathematics of control.
 
@@ -172,11 +176,13 @@ When these mechanics align, capital becomes self-defending.
 
 The structure protects itself even when the macro environment does not.
 
-### Phase III: .
+# Phase III: .
 
  
 
-## THE 
+## THE
+
+ 
 
  STRATEGIC MODEL
 
@@ -184,7 +190,9 @@ The structure protects itself even when the macro environment does not.
 
 Preservation is institutional, not incidental.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is 
 
@@ -236,7 +244,7 @@ LPs do not invest in communication.
 
 They invest in structure.
 
-### Phase IV: .
+# Phase IV: .
 
 THE STEWARDSHIP FILTER Every institutional decision passes through the stewardship filter.
 
@@ -303,7 +311,7 @@ LPs who partner with us do not receive a portfolio.
 
 They receive a covenant of stewardship.
 
-### Phase V: .
+# Phase V: .
 
 EXIT The final signal of discipline is a metric, not a statement.
 
@@ -319,7 +327,9 @@ It ends in realized mathematics.
 
 Request a confidential capital audit.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

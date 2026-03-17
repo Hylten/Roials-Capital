@@ -582,7 +582,9 @@ FINAL DIRECTIVE This briefing stands on one metric: Institutional Survivability 
 
 87 or higher.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

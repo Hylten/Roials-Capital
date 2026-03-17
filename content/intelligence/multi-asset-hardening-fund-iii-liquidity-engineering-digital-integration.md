@@ -26,7 +26,9 @@ They form a single liquidity architecture that defines opportunity velocity, tra
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Institutional allocators are navigating three converging forces. 
 
@@ -66,7 +68,9 @@ They function as a liquidity layer that supports broader acquisition pipelines a
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  The integration of digital assets into Capital Structuring is driven by hard mechanics, not thematic narratives.
 
@@ -236,7 +240,9 @@ Our strategic partner NAEO functions as the institutional anchor within the Albe
 
  
 
-## THE STEWARDSHIP FILTER Stewardship in capital architecture is not an ethical accessory.
+## THE STEWARDSHIP FILTER Stewardship in capital architecture is not an ethical accessory
+
+.
 
 It is a structural requirement.
 
@@ -302,7 +308,9 @@ This architecture positions Fund-III for accelerated close cycles, higher operat
 
 The appropriate next step for allocators evaluating this landscape is a confidential Strategy Audit or Portfolio Calibration, where capital architecture can be mapped against regulatory constraints, liquidity targets, and long horizon objectives.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

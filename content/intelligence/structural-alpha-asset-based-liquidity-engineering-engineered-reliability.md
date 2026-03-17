@@ -16,7 +16,9 @@ Engineered reliability inside Asset Based Liquidity Engineering has become one o
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The post 2022 credit regime altered the foundations of liquidity distribution.
 
@@ -52,7 +54,9 @@ The disconnect creates an opportunity for disciplined liquidity engineers who ca
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF ASSET BASED LIQUIDITY ENGINEERING Asset Based Liquidity Engineering is the disciplined process of extracting functionality, recoverability, and security value from operational assets that traditional lenders have undervalued.
 
@@ -136,11 +140,15 @@ This is why many European and Middle Eastern allocators have begun shifting from
 
 THE PARTNERSHIP MODEL Roials Capital functions as a strategic navigator within this landscape.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is not to lend, operate, or manage external assets.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is to deliver institutional clarity, operator specific intelligence, and partner curation for allocators who require structural certainty. 
 
@@ -182,7 +190,9 @@ When the focus is Fund-III buyouts or European mandates, introductions focus on 
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is not a moral abstraction.
+## THE STEWARDSHIP FILTER Stewardship is not a moral abstraction
+
+.
 
 It is a technical discipline.
 

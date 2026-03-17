@@ -56,7 +56,11 @@ Asset hardening operates on three pillars:
 
 - Cashflow Immunization
 
-- Jurisdictional Edge Each pillar links to the next in an unbroken chain of institutional logic.
+- Jurisdictional Edge Each 
+
+# Pillar LI: nks to the next in an unbroken chain of institutional logic
+
+.
 
 Nothing free-floating.
 
@@ -540,7 +544,9 @@ In institutional finance: the principal leaves a structure that compounds beyond
 
 Fund‑III is that structure.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

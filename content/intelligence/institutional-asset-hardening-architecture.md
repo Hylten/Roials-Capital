@@ -10,7 +10,9 @@ A structural gap always reveals itself first in recovery math.
 
 When the asset base cannot carry the velocity of 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
 , the institution fractures.
 
@@ -38,13 +40,15 @@ We harden the foundations before we scale the exposures.
 
 This briefing outlines the institutional framework required for Fund-III operators who intend to raise at velocity, execute at precision, and create liquidity on command.
 
-### Phase I: .
+# Phase I: .
 
  
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The current cycle has replaced discretionary narratives with mechanical accountability.
 
@@ -88,13 +92,15 @@ THE REGIME SHIFT
 
 Capital follows the managers who build institutional machines, not the managers who improvise.
 
-### Phase II: .
+# Phase II: .
 
  
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Institutional grade infrastructure is not a slogan.
 
@@ -146,11 +152,13 @@ Anything less signals amateurism.
 
 Capital sees amateurism immediately.
 
-### Phase III: .
+# Phase III: .
 
  
 
-## THE 
+## THE
+
+ 
 
  STRATEGIC MODEL
 
@@ -223,7 +231,7 @@ The
 
 Nothing else matters.
 
-### Phase IV: .
+# Phase IV: .
 
 THE STEWARDSHIP FILTER Capital is never neutral.
 
@@ -279,7 +287,7 @@ The LP community senses this immediately.
 
 Capital flows where stewardship is provable.
 
-### Phase V: .
+# Phase V: .
 
 EXIT We close with one controlling metric.
 
@@ -293,7 +301,9 @@ LPs recognize this.
 
 They act on it.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

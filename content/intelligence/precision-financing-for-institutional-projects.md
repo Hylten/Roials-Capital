@@ -6,7 +6,9 @@ author: "Jonas Hyltén"
 slug: "precision-financing-for-institutional-projects"
 --- 
 
-# Precision Financing for Institutional Projects Institutional projects require a level of accuracy that is non‑negotiable.
+# Precision Financing for Institutional Projects Institutional projects require a level of accuracy that is non‑negotiable
+
+.
 
 They rely on capital structures that hold under scrutiny, withstand friction, and deliver liquidity without disturbing strategic positions.
 
@@ -24,7 +26,9 @@ We do not force attention.
 
 We hold it. 
 
-## The Architecture Is Yours.
+## The Architecture Is Yours
+
+.
 
 The Engineering Is Ours.
 
@@ -42,7 +46,9 @@ This is precision financing.
 
 This is ROIALS CAPITAL.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

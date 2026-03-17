@@ -34,13 +34,15 @@ The allocators who internalize this early will extract multi-cycle advantage.
 
 Those who hesitate will finance the advantage of others.
 
-### Phase I: .
+# Phase I: .
 
  
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The first indicator of a capital migration cycle is never spread compression.
 
@@ -90,13 +92,15 @@ The regime has already shifted.
 
 Those who do not architect around this shift will serve those who do.
 
-### Phase II: .
+# Phase II: .
 
  
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Capital migration functions like a hydraulic system.
 
@@ -174,11 +178,13 @@ The mechanics are not negotiable.
 
 They are the architecture.
 
-### Phase III: .
+# Phase III: .
 
  
 
-## THE 
+## THE
+
+ 
 
  STRATEGIC MODEL
 
@@ -248,7 +254,7 @@ The model is not designed for speed.
 
 It is designed for sovereignty over outcomes.
 
-### Phase IV: .
+# Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship is not sentimental.
 
@@ -304,7 +310,7 @@ It is operational theology.
 
 It is the practical expression of order.
 
-### Phase V: .
+# Phase V: .
 
 EXIT Capital migration ends with one metric.
 
@@ -312,7 +318,9 @@ Cost of error.
 
 Our mandate is to lower it to zero.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

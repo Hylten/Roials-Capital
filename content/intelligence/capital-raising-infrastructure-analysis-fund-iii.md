@@ -12,13 +12,15 @@ It is the direct expression of regulatory deceleration, increased compliance dra
 
 The allocators who understand this structural gap are reallocating from generalized asset pools toward platforms with disciplined Asset-Backed Frameworks, predictable operational cadence, and established Fund-III architectures with validated acquisition engines.
 
-### Phase I: .
+# Phase I: .
 
  
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The 2026 capital landscape reflects the intersection of three dominant forces.
 
@@ -46,13 +48,15 @@ This is where specialized partners such as NAEOC create alignment through standa
 
 When combined with institutional-grade structuring, the Alberta corridor becomes an efficient deployment zone for capital seeking cash-flow durability rather than volumetric speculation.
 
-### Phase II: .
+# Phase II: .
 
  
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Capital raising for Fund-III requires architecture, not marketing.
 
@@ -126,11 +130,13 @@ NAEOC standardizes domain underwriting, provides technical field intelligence, a
 
 In EU structures, MiFID II frameworks require a governance infrastructure capable of supporting multi-jurisdictional oversight, data standardization, and transparent capital provenance.
 
-### Phase III: .
+# Phase III: .
 
  
 
-## THE 
+## THE
+
+ 
 
  STRATEGIC MODEL
 
@@ -152,7 +158,9 @@ Institutional
 
  INTRODUCTION
 
-### Layer C: onnects LPs with verified operators whose acquisition engines or energy assets have already been technically validated.
+# Layer C
+
+onnects LPs with verified operators whose acquisition engines or energy assets have already been technically validated.
 
 The objective is alignment, not promotion.
 
@@ -160,7 +168,11 @@ The institutional introducer ensures that each counterparty has the operational 
 
 2.
 
-Operational Intelligence Layer Institutions require clarity on operating rhythms.
+Operational Intelligence 
+
+# Layer I: nstitutions require clarity on operating rhythms
+
+.
 
 This includes pipeline velocity, integration timelines, cash-flow stabilization periods, field-level production patterns, and multi-asset interaction models.
 
@@ -168,7 +180,11 @@ The operational intelligence layer standardizes these data flows.
 
 3.
 
-Structural Engineering Layer This layer defines the capital structure, including:
+Structural Engineering Layer This 
+
+# Layer D: efines the capital structure, including
+
+:
 
 - Seniority
 
@@ -186,7 +202,7 @@ Stewardship Coordination Layer Partnering with entities such as NAEOC, this laye
 
 In the buyout ecosystem, stewardship takes the form of non-wasteful operational execution, ensuring that value creation is driven by efficiency, not asset overextension.
 
-### Phase IV: .
+# Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship represents a discipline, not a moral accessory.
 
@@ -216,7 +232,7 @@ Relational Stewardship Strategic alignment between LPs and GPs requires integrit
 
 Stewardship in this context ensures systemic trust and eliminates relational friction.
 
-### Phase V: .
+# Phase V: .
 
 DECISION-MAKING LENS FOR ALLOCATORS The allocator navigating the 2026 landscape evaluates opportunities through a lens focused on operational certainty, structural advantage, and stewardship alignment.
 
@@ -236,7 +252,9 @@ Institutional allocators seeking to refine their positioning typically request a
 
 The next step for most allocators is a confidential calibration session to map strategic alignment and validate counterparty suitability. [END OF BRIEFING]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

@@ -18,7 +18,9 @@ Allocators with disciplined underwriting frameworks now observe a market where p
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The post-2021 monetary cycle initiated a multi-year recalibration in credit availability.
 
@@ -48,7 +50,9 @@ This regime shift has created a stable, multi-year opportunity zone for capital 
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Middle market private credit operates most efficiently where capital structures are engineered with precision.
 
@@ -126,7 +130,9 @@ In other sectors, partnerships are aligned based on operational maturity, cross-
 
  
 
-## THE STEWARDSHIP FILTER Stewardship governs the deployment of capital as a resource under responsibility.
+## THE STEWARDSHIP FILTER Stewardship governs the deployment of capital as a resource under responsibility
+
+.
 
 It aligns with the discipline articulated in **Proverbs 13:22
 
@@ -164,7 +170,9 @@ The middle market credit gap presents one of the most structurally coherent ecos
 
 These sessions are designed to clarify structural pathways, pressure test assumptions, and align capital with sectors and partners where risk and discipline converge. [END OF BRIEFING]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

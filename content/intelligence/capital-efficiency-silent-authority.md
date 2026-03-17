@@ -56,7 +56,9 @@ It pays for architecture.
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The transition from low-rate elasticity to high-rate discipline has created a technical bifurcation.
 
@@ -108,7 +110,9 @@ They lead.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Capital efficiency is not an abstract virtue.
 
@@ -186,7 +190,9 @@ It enables:
 
  
 
-## THE 
+## THE
+
+ 
 
  STRATEGIC MODEL
 
@@ -198,7 +204,9 @@ The path to capital authority requires a three-part architecture.
 
 Capital Raising for Fund-III Eighty percent of 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  focuses on bringing fresh institutional capital into the acquisition engine.
 
@@ -218,7 +226,9 @@ They invest in the refusal to waste them.
 
 Asset-Based Lending Asset-Backed Frameworks Ten percent of 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is asset backed liquidity structures that do not disrupt control.
 
@@ -258,7 +268,9 @@ The institutional operator treats it as a competitive moat.
 
  
 
-## THE STEWARDSHIP FILTER Capital efficiency is not merely financial.
+## THE STEWARDSHIP FILTER Capital efficiency is not merely financial
+
+.
 
 It is moral.
 
@@ -318,13 +330,17 @@ EXIT Capital authority is measured in basis points gained through collateral dis
 
 Silent efficiency wins.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is clear.
 
 Conduct the confidential capital audit.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

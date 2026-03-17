@@ -16,13 +16,15 @@ The divergence is measurable.
 
 It has become one of the most powerful sources of balance sheet optimization available to institutional allocators navigating the 2026 landscape.
 
-### Phase I: .
+# Phase I: .
 
  
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Institutional allocators have entered an era defined by capital efficiency rather than capital abundance.
 
@@ -54,13 +56,15 @@ This macro backdrop has driven a regime in which capital efficiency is no longer
 
 It is the governing principle of modern balance sheet design.
 
-### Phase II: .
+# Phase II: .
 
  
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Capital efficiency in 2026 is measured through structural mechanics rather than headline yield.
 
@@ -160,7 +164,7 @@ Their focus is on operators with established reservoir histories, measurable rec
 
 These features allow institutional allocators to analyze operational integrity rather than speculative upside.
 
-### Phase III: .
+# Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital functions as a strategic navigator and institutional introducer across three domains: Fund-III capital raising, Strategic Collateralization, and special mandates in energy and cross-border acquisitions.
 
@@ -186,7 +190,7 @@ Roials Capital provides the institutional translation layer, helping allocators 
 
 This partnership model allows allocators to navigate complex environments with technical clarity rather than promotional noise.
 
-### Phase IV: .
+# Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship is an exercise in non wasteful capital management.
 
@@ -234,7 +238,7 @@ This is consistent with **Proverbs 13:22
 
 Stewardship transforms the balance sheet from a transactional instrument into a long horizon strategic platform.
 
-### Phase V: .
+# Phase V: .
 
 DECISION-MAKING LENS FOR THE ALLOCATOR The allocator operating in 2026 faces an environment defined by volatility at the surface and stability in the subsurface.
 
@@ -260,7 +264,9 @@ It increases Opportunity Velocity without destabilizing the equity foundation.
 
 Roials Capital supports allocators seeking disciplined clarity, technical accuracy, and structural alignment across their Fund-III roadmap, liquidity frameworks, and energy introductions. [END OF BRIEFING]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

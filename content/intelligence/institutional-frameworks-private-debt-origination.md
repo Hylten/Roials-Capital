@@ -14,7 +14,9 @@ This shift has created a predictable regime where institutional allocators with 
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The withdrawal of commercial lenders from the middle market is not cyclical.
 
@@ -48,7 +50,9 @@ They are seeking frameworks that can consistently penetrate the origination bott
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF PRIVATE DEBT ORIGINATION Origination is not a pipeline function.
 
@@ -140,11 +144,15 @@ This creates a transparent underwriting environment where reservoir dynamics fun
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator and institutional introducer for allocators evaluating private debt platforms, Fund-III structures, and special mandates.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is not to sell exposure or represent the underlying asset owners.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is to:
 
@@ -180,7 +188,9 @@ The objective is to align the GP’s operational capabilities with LP expectatio
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is the discipline of aligning capital with productive, non wasteful deployment.
+## THE STEWARDSHIP FILTER Stewardship is the discipline of aligning capital with productive, non wasteful deployment
+
+.
 
 It is a theological and operational principle grounded in responsibility, asset protection, and the avoidance of speculation. **Proverbs 13:22
 
@@ -218,7 +228,9 @@ A confidential strategy audit can identify alignment between the allocator’s m
 
 The objective is calibration: ensuring the portfolio reflects institutional grade stability and long horizon stewardship.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

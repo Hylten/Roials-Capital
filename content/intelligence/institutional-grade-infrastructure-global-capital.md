@@ -22,7 +22,9 @@ Order is not an option.
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Global capital formation entered a new regime the moment liquidity became path dependent.
 
@@ -84,7 +86,9 @@ The capital stack is a hierarchy, not a marketplace.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Institutional credibility is quantifiable.
 
@@ -150,7 +154,9 @@ Energy capital demands it.
 
  
 
-## THE 
+## THE
+
+ 
 
  STRATEGIC MODEL
 
@@ -198,7 +204,9 @@ The GP must maintain separate compliance rails, jurisdictional onboarding routes
 
 One friction point is enough to cost 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
 .
 
@@ -210,7 +218,9 @@ A GP who does not remains in the aspirational layer of private markets.
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is an operating principle.
+## THE STEWARDSHIP FILTER Stewardship is an operating principle
+
+.
 
 Waste is a moral failure.
 
@@ -253,7 +263,9 @@ EXIT Our mandate is simple: reduce capital friction by
 
 For a confidential capital audit, initiate contact.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

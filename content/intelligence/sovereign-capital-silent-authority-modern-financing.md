@@ -22,7 +22,9 @@ Understanding this progression is no longer optional for allocators operating wi
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Sovereign capital is now the principal authority behind global liquidity flows.
 
@@ -70,7 +72,9 @@ Instead, they identify balance sheet sovereignty as the foundational requirement
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  The mechanics of modern financing are increasingly defined by collateral quality, cash flow resilience, and the ability to create structural seniority through engineered liquidity.
 
@@ -196,7 +200,9 @@ In liquidity engineering, the firm provides structural design intelligence for A
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is the discipline that governs responsible resource management.
+## THE STEWARDSHIP FILTER Stewardship is the discipline that governs responsible resource management
+
+.
 
 It is not a moral posture but an operational framework.
 

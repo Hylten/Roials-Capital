@@ -24,7 +24,9 @@ This briefing delivers a technical, analyst-grade examination of
 
 It clarifies how Roials Capital functions as a strategic navigator, vetting counterparties and structuring pathways for allocators seeking resilient private credit exposure without promotional framing or implied forward guidance.
 
-### Phase I: ## THE REGIME SHIFT
+# Phase I: ## THE REGIME SHIF
+
+T
 
  Private credit has migrated from a tactical yield enhancement tool to a core institutional allocation.
 
@@ -76,7 +78,9 @@ Strategic alignment has become the new premium.
 
 Capital is flowing toward counterparties that operate with clarity of mandate, verifiable governance, and multi-cycle operational readiness.
 
-### Phase II: ## TECHNICAL MECHANICS
+# Phase II: ## TECHNICAL MECHANIC
+
+S
 
  OF THE ALBERTA ENERGY REGIME The Alberta resource complex is one of the most misunderstood environments in the global energy matrix.
 
@@ -136,7 +140,9 @@ Capital interruptions amplify cost structures and increase risk.
 
 This is why institutional sponsorship, not sporadic capital, increasingly defines which operators succeed.
 
-### Phase III: THE PARTNERSHIP MODEL Roials Capital functions as an institutional navigator, identifying, evaluating, and calibrating strategic counterparties for allocators requiring operational integrity, governance reliability, and balance sheet transparency.
+# Phase II: I
+
+THE PARTNERSHIP MODEL Roials Capital functions as an institutional navigator, identifying, evaluating, and calibrating strategic counterparties for allocators requiring operational integrity, governance reliability, and balance sheet transparency.
 
 The firm does not operate wells or manage oil and gas assets.
 
@@ -180,7 +186,9 @@ This evaluation includes:
 
 Instead of broad outreach, the firm filters and curates opportunities aligned with the Institutional Archetype: allocators that value strategic clarity, operational depth, and capital discipline.
 
-### Phase IV: THE STEWARDSHIP FILTER AND THE THEOLOGY OF CAPITAL Stewardship in institutional energy finance is not a moral abstraction.
+# Phase I: V
+
+THE STEWARDSHIP FILTER AND THE THEOLOGY OF CAPITAL Stewardship in institutional energy finance is not a moral abstraction.
 
 It is a technical discipline grounded in the responsible deployment, recovery, and preservation of capital.
 
@@ -222,7 +230,9 @@ Operators must manage their reservoirs, infrastructure, and balance sheets with 
 
 Institutional allocators value stewardship because it mitigates behavioral volatility, reduces misalignment risk, and maximizes the probability that future cash flows remain consistent with engineering expectations.
 
-### Phase V: ALLOCATOR DECISION FRAMEWORK AND STRATEGIC CALIBRATION Private credit in 2026 is no longer defined by opportunistic yield.
+# Phase V
+
+ALLOCATOR DECISION FRAMEWORK AND STRATEGIC CALIBRATION Private credit in 2026 is no longer defined by opportunistic yield.
 
 It is structured around capital stability, operational intelligence, and partnership credibility.
 
@@ -250,7 +260,9 @@ Allocators positioned to integrate Alberta heavy oil credit structures, middle m
 
 A confidential strategy audit provides the framework for assessing fit, alignment, and operational readiness while maintaining full compliance with institutional standards and regulatory expectations.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

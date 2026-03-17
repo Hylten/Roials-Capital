@@ -18,7 +18,9 @@ Experienced LPs and UHNWIs with crypto density observe nominal appreciation yet 
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  
 
@@ -62,7 +64,9 @@ It enables the allocator to reconfigure the liquidity profile of their crypto ex
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Liquidity engineering is a discipline of converting non conventional collateral into structured liquidity without incurring immediate taxable events.
 
@@ -160,7 +164,9 @@ It structures strategic alignment pathways that allow allocators to enter instit
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management.
+## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management
+
+.
 
 Crypto wealth without structure is vulnerable to misallocation.
 

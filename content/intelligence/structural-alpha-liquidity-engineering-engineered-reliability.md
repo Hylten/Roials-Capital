@@ -20,7 +20,9 @@ Capital constraints are no longer driven by asset weakness but by compliance thr
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  North American capital markets are in a regime defined by asymmetric constraint.
 
@@ -60,7 +62,9 @@ Structural alpha emerges when liquidity engineering realigns these conditions.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF ENGINEERED RELIABILITY Liquidity engineering is the institutional discipline of converting high reliability assets into sequenced capital access without distorting operational integrity.
 
@@ -170,7 +174,9 @@ For private credit allocators, the firm identifies where asset hardening can tra
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management.
+## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management
+
+.
 
 It is a capital theology shaped by **Proverbs 13:22
 

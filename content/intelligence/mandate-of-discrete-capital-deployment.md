@@ -10,7 +10,9 @@ The capital vacuum in North America's energy sector is a consequence of regulato
 
 Institutional allocators navigating 2026 face a regime where capital scarcity, operational bottlenecks, and mispriced subsurface physics combine to produce one of the most misunderstood structural gaps in the global market.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  of discrete capital deployment is central to this environment because fragmented balance sheets, constrained credit markets, and deglobalized supply lines require allocators to deploy with precision, not scale.
 
@@ -20,7 +22,9 @@ The forward regime favors surgical balance sheet alignment, not broad beta expos
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The macro energy landscape has entered a multi percentage inverted capital cycle.
 
@@ -78,7 +82,9 @@ Allocators who deploy episodically, with clear operational filters, achieve a su
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  North American Energy Operators Consortium (NAEO) provides a technical window into the Alberta basin that is difficult to access without operator adjacency.
 
@@ -154,7 +160,9 @@ It is episodic and situational, driven by technical intelligence rather than fun
 
 THE PARTNERSHIP MODEL Roials Capital functions as a strategic navigator, not an asset originator and not an operator.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is to introduce institutional capital to high fidelity opportunities across energy, buyouts, Capital Structuring, and regulatory constrained markets.
 
@@ -194,7 +202,9 @@ The value is in navigation, not execution.
 
  
 
-## THE STEWARDSHIP FILTER Stewardship in capital markets is not a moral abstraction.
+## THE STEWARDSHIP FILTER Stewardship in capital markets is not a moral abstraction
+
+.
 
 It is a discipline of non wasteful resource management grounded in the theology of capital. **Proverbs 13:22
 
@@ -252,17 +262,23 @@ The alignment framework can be summarized as:
 
 - Stewardship coherence Roials Capital provides confidential portfolio calibration to align allocators with opportunities that meet these structural filters.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is not distribution.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is navigation.
 
 The tools are institutional introductions, strategic mapping, and situational deployment models that respect both the complexity of modern markets and the responsibilities of serious capital. [END OF BRIEFING]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

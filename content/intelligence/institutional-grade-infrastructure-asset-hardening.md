@@ -20,7 +20,9 @@ It functions as a practical apparatus for balance sheet stabilization, controlle
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The current regime across global private markets is defined by three converging constraints.
 
@@ -62,7 +64,9 @@ This is especially visible in middle market corporate environments where cross c
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Institutional grade infrastructure for asset hardening is not defined by capital volume.
 
@@ -154,7 +158,9 @@ This preserves regulatory neutrality while enabling allocators to navigate const
 
  
 
-## THE STEWARDSHIP FILTER Asset hardening is fundamentally a stewardship discipline.
+## THE STEWARDSHIP FILTER Asset hardening is fundamentally a stewardship discipline
+
+.
 
 The objective is to strengthen what already exists rather than to speculate on what might emerge.
 
@@ -216,7 +222,9 @@ Roials Capital fulfills this role.
 
 For allocators seeking to calibrate portfolios toward structural durability and operational predictability, a confidential strategy audit provides clarity on alignment, suitability, and technical feasibility across Fund-III mandates, Asset-Based Lending structures, and energy consolidation environments. [END OF INSTITUTIONAL BRIEFING]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

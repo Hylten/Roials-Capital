@@ -38,7 +38,9 @@ The laggards call it noise.
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  
 
@@ -88,7 +90,11 @@ Fund-III managers who can weaponize this transformation will scale faster than t
 
 The mid-market landscape is shifting into a regime where capital formation is dynamic, collateral flexible, and underwriting tied to chain provenance rather than regional constraints.
 
-Private equity’s next decade will be defined by how efficiently it integrates this collateral layer into deal mechanics.
+Private equity’s next decade will be defined by how efficiently it integrates this collateral 
+
+# Layer I: nto deal mechanics
+
+.
 
 The inefficiency is staggering.
 
@@ -100,7 +106,9 @@ The market will punish indecision.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  The mechanics of borderless crypto collateral hinge on three operational dimensions. 
 
@@ -187,7 +195,9 @@ Private Credit has never had a collateral substrate this efficient.
 
  
 
-## THE 
+## THE
+
+ 
 
  STRATEGIC MODEL
 
@@ -271,7 +281,9 @@ Not noise.
 
  
 
-## THE STEWARDSHIP FILTER Borderless collateral is not a shortcut.
+## THE STEWARDSHIP FILTER Borderless collateral is not a shortcut
+
+.
 
 It is a stewardship mandate.
 
@@ -321,7 +333,9 @@ EXIT Liquidity depth ratio must exceed 0.
 
 Request a confidential capital audit.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

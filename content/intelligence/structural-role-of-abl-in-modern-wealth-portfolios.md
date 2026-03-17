@@ -16,7 +16,9 @@ In the current regime, ABL functions not as a niche credit instrument but as an 
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The post 2020 era initiated a structural divergence between credit availability and real asset productivity.
 
@@ -62,7 +64,9 @@ It is an operational necessity for companies with asset centric balance sheets a
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF ABL The institutional relevance of ABL is grounded in the precision of its mechanics.
 
@@ -176,7 +180,9 @@ Although ABL is distinct from energy financing, the principles of liquidity disc
 
  
 
-## THE STEWARDSHIP FILTER Stewardship in capital environments refers to disciplined resource management rather than opportunistic extraction.
+## THE STEWARDSHIP FILTER Stewardship in capital environments refers to disciplined resource management rather than opportunistic extraction
+
+.
 
 Stewardship aligns with a theology of capital in which capital is treated as a long horizon resource requiring non wasteful allocation. 
 

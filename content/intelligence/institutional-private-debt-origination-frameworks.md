@@ -26,13 +26,15 @@ This briefing clarifies
 
  , the mechanics that follow, and the institutional consequences for Fund-III and beyond.
 
-### Phase I: .
+# Phase I: .
 
  
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The global private credit stack is moving into a scarcity regime.
 
@@ -86,13 +88,15 @@ The structural landscape confirms this.
 
 The next vintage belongs to the funds that replace intuition with architecture.
 
-### Phase II: .
+# Phase II: .
 
  
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Origination becomes institutional only when the mechanics are explicit.
 
@@ -180,11 +184,13 @@ Default probability compresses.
 
 Capital survives.
 
-### Phase III: .
+# Phase III: .
 
  
 
-## THE 
+## THE
+
+ 
 
  STRATEGIC MODEL
 
@@ -258,7 +264,7 @@ Special mandates are not distractions.
 
 They are yield stabilizers that supply the fund with multi-regime resilience.
 
-### Phase IV: .
+# Phase IV: .
 
 THE STEWARDSHIP FILTER Financial architecture is ultimately stewardship.
 
@@ -307,13 +313,15 @@ Stewardship in Fund-III means allocating capital only where dominion can be exer
 
 Nothing else qualifies.
 
-### Phase V: .
+# Phase V: .
 
 EXIT Target loss ratio: below
 
 40 basis points across the cycle.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

@@ -16,7 +16,9 @@ This gap defines the present regime shift in how Fund-III structures, private cr
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Institutional allocators operating between the US, EU, GCC, and Swiss regulatory spheres are encountering a divergence between balance sheet substance and balance sheet transmission.
 
@@ -52,7 +54,9 @@ Institutions that master borderless collateral mobility gain access to discounte
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Wealth mobility architecture refers to the integrated system that enables capital to shift across jurisdictions while maintaining compliance, collateral integrity, and underwriting clarity.
 
@@ -152,7 +156,9 @@ In non energy contexts, Roials Capital’s role remains focused on structural al
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is a discipline of capital integrity, not opportunism.
+## THE STEWARDSHIP FILTER Stewardship is a discipline of capital integrity, not opportunism
+
+.
 
 The mobility of capital is not pursued for speed alone.
 

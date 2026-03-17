@@ -22,7 +22,9 @@ The dominant requirement is structural resilience: assets that maintain intrinsi
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Global allocators have entered a regime where volatility is structural, not cyclical.
 
@@ -70,7 +72,9 @@ This is the core inefficiency leveraged by institutional frameworks such as thos
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF ASSET HARDENING Asset hardening in volatile markets is an engineering discipline.
 
@@ -168,7 +172,9 @@ This is achieved through three primary channels:
 
 Capital Raising and Institutional Alignment Approximately eighty percent of 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is focused on kapitalanskaffning for Fund-III and subsequent vintages that emphasize buyouts and add-on platforms.
 
@@ -180,7 +186,9 @@ This includes European GPs seeking North American expansion, GCC family offices 
 
 Strategic Collateralization and Asset-Based Lending Structures Approximately ten percent of 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  involves asset based lending frameworks that enable liquidity extraction without exposing the allocator to undue volatility.
 
@@ -202,7 +210,9 @@ The objective is clarity, not solicitation.
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is a capital discipline anchored in non wasteful resource management.
+## THE STEWARDSHIP FILTER Stewardship is a capital discipline anchored in non wasteful resource management
+
+.
 
 It is a theology of capital, not a marketing principle.
 
@@ -256,7 +266,9 @@ Roials Capital provides confidential strategy audits and portfolio calibration f
 
 The objective is alignment, clarity, and long horizon structural advantage.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

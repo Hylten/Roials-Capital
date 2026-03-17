@@ -72,11 +72,15 @@ Capital is choosing its new home.
 
 These pressures do not merely influence portfolio construction; they dictate it.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is no longer to deploy.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is to govern, foresee, and construct protective moats that outlast macro tremors.
 
@@ -426,7 +430,9 @@ For institutional LP/GP partners prepared to anchor into this mandate, initiate 
 
 Technical mandate: 42% target hard‑asset coverage ratio.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

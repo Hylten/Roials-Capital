@@ -24,7 +24,9 @@ It is institutional durability.
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The modern allocator operates within three converging pressures.
 
@@ -54,7 +56,9 @@ Asset based financing is the mechanism that translates these conditions into fun
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Asset based financing is often misunderstood as a loan secured by collateral.
 
@@ -176,7 +180,9 @@ The partnership model ensures that principals operate with structural clarity ra
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is not philanthropy.
+## THE STEWARDSHIP FILTER Stewardship is not philanthropy
+
+.
 
 It is a discipline of resource management.
 

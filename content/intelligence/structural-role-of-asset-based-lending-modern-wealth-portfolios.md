@@ -16,7 +16,9 @@ In environments where duration risk, rate stickiness, and collateral valuation o
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Institutional allocators are operating in a three vector capital environment shaped by regulatory divergence, maturity bottlenecks, and asset pricing recalibration.
 
@@ -58,7 +60,9 @@ In these environments, collateral orientation produces higher technical visibili
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF ABL AS A STRATEGIC PORTFOLIO COMPONENT Institutional allocators engage ABL because the mechanics are grounded in asset conversion, not cash flow speculation.
 

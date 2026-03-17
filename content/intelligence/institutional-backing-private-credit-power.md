@@ -14,13 +14,15 @@ Institutions with disciplined capital architecture outperform not because they l
 
 Order is not an option.
 
-### Phase I: .
+# Phase I: .
 
  
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Private credit has migrated from opportunistic lending to a macro stabilizer for acquisition engines.
 
@@ -32,7 +34,11 @@ Banks have decelerated under Basel III capital buffers.
 
 Mid-market borrowers face delayed approvals, static underwriting templates, and zero appetite for dynamic collateral valuation.
 
-Institutional lenders step into the vacuum with speed, precision, and asymmetrical structuring advantages.
+Institutional lenders 
+
+# Step I
+
+nto the vacuum with speed, precision, and asymmetrical structuring advantages.
 
 The regime shifted when LPs realized that private credit is no longer alternative.
 
@@ -64,17 +70,21 @@ Velocity is the advantage.
 
 Precision is 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
 .
 
-### Phase II: .
+# Phase II: .
 
  
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Institutional backing manifests in the mathematics, not the branding.
 
@@ -158,11 +168,13 @@ The lender extracts duration without sacrificing velocity.
 
 Without institutional backing, these structures do not price.
 
-### Phase III: .
+# Phase III: .
 
  
 
-## THE 
+## THE
+
+ 
 
  STRATEGIC MODEL
 
@@ -250,7 +262,7 @@ LPs align because they want disciplined underwriting and asymmetric outcomes.
 
 ROIALS CAPITAL sits between them as the institutional operating spine.
 
-### Phase IV: .
+# Phase IV: .
 
 THE STEWARDSHIP FILTER Resources carry responsibility.
 
@@ -302,7 +314,7 @@ Recovery is enforced with clarity.
 
 Yield is extracted with discipline.
 
-### Phase V: .
+# Phase V: .
 
 EXIT Institutional backing is not branding.
 
@@ -314,7 +326,9 @@ Platforms that secure institutional alignment lift IRR by
 
 260 basis points due to workflow compression alone.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

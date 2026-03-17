@@ -6,7 +6,9 @@ author: "Jonas Hyltén"
 slug: "the-institutional-playbook-for-capital-preservation"
 --- 
 
-# The Institutional Playbook for Capital Preservation Capital preservation is not a defensive posture.
+# The Institutional Playbook for Capital Preservation Capital preservation is not a defensive posture
+
+.
 
 It is structural engineering.
 
@@ -38,7 +40,9 @@ Below is a complete institutional framework.
 
 A blueprint for capital preservation at scale. 
 
-## Engineered Stability: The Future of Preservation Architecture The capital landscape is evolving.
+## Engineered Stability: The Future of Preservation Architecture The capital landscape is evolving
+
+.
 
 Regulation intensifies.
 
@@ -64,7 +68,9 @@ A commitment to structural superiority.
 
  
 
-## CONCLUSION
+## CONCLUSIO
+
+N
 
  : Preservation Is the First Rule of Enduring Wealth There is no wealth without preservation.
 
@@ -92,7 +98,9 @@ Institutional.
 
 Request confidential audit
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

@@ -540,7 +540,9 @@ Fund‑III must present a hardened NAEOC pipeline.
 
 LPs will reward structural dominance. 
 
-## EU Acquisition Protocol (MiFID II Cycle) Europe is tightening.
+## EU Acquisition Protocol (MiFID II Cycle) Europe is tightening
+
+.
 
 Regulation rises.
 
@@ -632,7 +634,9 @@ Precise.
 
 Immutable.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

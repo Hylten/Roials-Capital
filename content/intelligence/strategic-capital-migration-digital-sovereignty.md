@@ -190,7 +190,11 @@ Carbon infrastructure.
 
 Industrial data estates.
 
-Each of these verticals benefits from sovereign-grade digital architecture because the data layer is now inseparable from the physical asset layer.
+Each of these verticals benefits from sovereign-grade digital architecture because the data 
+
+# Layer I: s now inseparable from the physical asset layer
+
+.
 
 Energy grids are digital systems.
 
@@ -330,7 +334,9 @@ High precision.
 
 Direct outcomes.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is simple: structure liquidity that moves.
 
@@ -460,7 +466,9 @@ Mandate: 4.
 
 82 cross-jurisdictional enforcement delta.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

@@ -22,7 +22,9 @@ It rewards engineered velocity.
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Most allocators still treat digital liquidity as an exotic sleeve instead of infrastructure.
 
@@ -48,7 +50,11 @@ Fragmented venues.
 
 Delayed collateral release.
 
-Each layer created latency.
+Each 
+
+# Layer C: reated latency
+
+.
 
 Latency created drag.
 
@@ -96,7 +102,9 @@ The result is precision.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Institutional Liquidity Paths follows principles, not narratives.
 
@@ -156,7 +164,11 @@ OTC lines.
 
 Customer settlement accounts.
 
-Each step defines the routing logic for capital release and capital recall.
+Each 
+
+# Step D
+
+efines the routing logic for capital release and capital recall.
 
 The optimal waterfall uses parallel pathways, not linear flow.
 
@@ -198,13 +210,17 @@ The allocator who ignores mobility pays the opportunity cost of idle capital.
 
  
 
-## THE 
+## THE
+
+ 
 
  STRATEGIC MODEL
 
  The Firm builds institutional architecture for Fund-III capital formation.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is simple.
 
@@ -292,7 +308,9 @@ The Firm builds the asymmetry into the system itself.
 
  
 
-## THE STEWARDSHIP FILTER Capital is not infinite.
+## THE STEWARDSHIP FILTER Capital is not infinite
+
+.
 
 Waste is not tolerated.
 
@@ -368,7 +386,9 @@ Execution certainty at
 
 98 percent fill rate across all routed trades under volatility stress.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

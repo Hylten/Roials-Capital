@@ -14,13 +14,15 @@ This creates a highly specific opening for Fund-III managers who can deploy an e
 
 The result is a new Institutional Archetype: the sovereign-aligned private equity platform that treats liquidity as a strategic resource rather than a commodity.
 
-### Phase I: .
+# Phase I: .
 
  
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The 2024 to 2026 transition period produced a recalibrated global investment architecture.
 
@@ -58,13 +60,15 @@ Allocators no longer reward opportunism.
 
 They reward predictability, technical governance, and institutional maturity.
 
-### Phase II: .
+# Phase II: .
 
  
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  The sovereign balance sheet archetype requires three forms of operational intelligence: capital stack optimization, asset hardening pathways, and institutional-grade liquidity engineering. 
 
@@ -132,7 +136,7 @@ This aligns with **Proverbs 13:22
 
 * as a principle of intergenerational capital stewardship.
 
-### Phase III: .
+# Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator rather than a GP substitute.
 
@@ -162,7 +166,7 @@ The objective is not solicitation.
 
 It is structural clarity.
 
-### Phase IV: .
+# Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship is defined as the efficient deployment of capital without waste.
 
@@ -194,7 +198,7 @@ Stewardship is not an abstraction.
 
 It is an operational discipline.
 
-### Phase V: .
+# Phase V: .
 
 DECISION-MAKING LENS FOR ALLOCATORS Institutional allocators evaluating Fund-III platforms require a filter that isolates engineering maturity from narrative positioning.
 

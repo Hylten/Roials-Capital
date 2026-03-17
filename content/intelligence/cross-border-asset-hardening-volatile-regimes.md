@@ -236,13 +236,9 @@ It is the opposite of opportunism.
 
 Opportunism is brittle.
 
-Architecture is durable. # 
+Architecture is durable.
 
- 
-
- 
-
- THE STEWARDSHIP FILTER Stewardship is not an analogy.
+THE STEWARDSHIP FILTER Stewardship is not an analogy.
 
 It is a command.
 
@@ -286,11 +282,10 @@ A steward understands that capital is not a possession.
 
 It is a trust.
 
-The cross-border hardening model is simply the institutional expression of that trust. # 
+The cross-border hardening model is simply the institutional expression of that trust. 
+## EXIT Exit discipline requires measurable thresholds
 
- 
-
-## EXIT Exit discipline requires measurable thresholds.
+.
 
 Fund-III uses three:
 
@@ -302,7 +297,9 @@ Fund-III uses three:
 
 Request a confidential capital audit. [END]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

@@ -62,7 +62,9 @@ No sentiment.
 
 Only institutional-grade geometry. 
 
-## INSTITUTIONAL CONTEXT Fund-III is the turning point.
+## INSTITUTIONAL CONTEXT Fund-III is the turning point
+
+.
 
 Not the beginning.
 
@@ -100,7 +102,9 @@ I operate from three capital pillars:
 
 These are institutional levers. 
 
-## THE CORE PREMISE: ASSET HARDENING IS AN INFRASTRUCTURAL EVENT Not legal.
+## THE CORE PREMISE: ASSET HARDENING IS AN INFRASTRUCTURAL EVENT Not legal
+
+.
 
 Not financial.
 
@@ -386,7 +390,9 @@ Institutional LPs reward compressed governance.
 
 They know the system-not the personality-drives outcomes. 
 
-## CAPITAL RAISING FOR Fund-III (80%) Kapitalanskaffning is not marketing.
+## CAPITAL RAISING FOR Fund-III (80%) Kapitalanskaffning is not marketing
+
+.
 
 It is permissioning.
 
@@ -472,7 +478,9 @@ Asset-Based Lending is not an alternative.
 
 It is a requirement. 
 
-## SPECIAL MANDATES (10%) These mandates are not marketing flags.
+## SPECIAL MANDATES (10%) These mandates are not marketing flags
+
+.
 
 They are institutional contracts:
 
@@ -504,7 +512,9 @@ No negotiation.
 
 No deviation. 
 
-## THE Fund-III INFRASTRUCTURE MODEL The hardening architecture runs across four planes: Plane 1: Operating Assets Plane 2: Structural Shells Plane 3: Liquidity Channels Plane 4: Institutional Governance The alignment across these planes creates institutional lift.
+## THE Fund-III INFRASTRUCTURE MODEL The hardening architecture runs across four planes: Plane 1: Operating Assets Plane 2: Structural Shells Plane 3: Liquidity Channels Plane 4: Institutional Governance The alignment across these planes creates institutional lift
+
+.
 
 Lift attracts capital.
 
@@ -522,7 +532,9 @@ This is why asset hardening is not operational.
 
 It is existential. 
 
-## STRUCTURAL RISK ABATEMENT Risk elimination requires:
+## STRUCTURAL RISK ABATEMENT Risk elimination requires
+
+:
 
 - Exposure sealing
 
@@ -536,7 +548,9 @@ It is existential.
 
 LPs hate noise. 
 
-## CROSS-CYCLE RESILIENCE Fund-III must survive downturns without transformation.
+## CROSS-CYCLE RESILIENCE Fund-III must survive downturns without transformation
+
+.
 
 Hardening enables:
 
@@ -552,7 +566,9 @@ Hardening enables:
 
 The hardened fund outlives competition. 
 
-## ENERGY INFRASTRUCTURE HARDENING Energy requires explicit hardening:
+## ENERGY INFRASTRUCTURE HARDENING Energy requires explicit hardening
+
+:
 
 - Tangible collateral shells
 
@@ -586,7 +602,9 @@ Hardening provides:
 
 Not quarters. 
 
-## EXIT HARDENING Exits require:
+## EXIT HARDENING Exits require
+
+:
 
 - Forensic readiness
 
@@ -600,7 +618,9 @@ Not quarters.
 
 Fast. 
 
-## THE FINAL LAYER: SOVEREIGN DESIGN The manager who masters architecture commands capital.
+## THE FINAL LAYER: SOVEREIGN DESIGN The manager who masters architecture commands capital
+
+.
 
 LPs do not follow charisma.
 
@@ -631,7 +651,9 @@ For a confidential capital audit, provide jurisdiction, mandate size, and asset 
 Technical Metric: Structural Hardness Index v4.
 3 (SHI).
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

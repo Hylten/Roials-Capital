@@ -6,7 +6,9 @@ author: "Jonas Hyltén"
 slug: "precision-mechanics-of-transnational-capital-migra"
 --- 
 
-# Precision Mechanics of Transnational Capital Migration Transnational capital does not drift.
+# Precision Mechanics of Transnational Capital Migration Transnational capital does not drift
+
+.
 
 It relocates with intention, covenant, and structural discipline.
 
@@ -26,7 +28,9 @@ The mechanics below outline the present structure of capital mobility across Nor
 
 This document is written for institutional allocators and private holders who operate outside consumer logic and require intelligence rather than commentary. 
 
-## The Principal’s Mandate A principal is not a passive investor.
+## The Principal’s Mandate A principal is not a passive investor
+
+.
 
 A principal is a steward of dominion.
 
@@ -46,13 +50,17 @@ Every structure must stand.
 
 Every corridor must serve 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
 .
 
 Every allocation must strengthen the house, not expose it. 
 
-## Closing Position Capital migration is precision.
+## Closing Position Capital migration is precision
+
+.
 
 Not sentiment.
 
@@ -76,7 +84,9 @@ To evaluate current structures.
 
 Request confidential audit.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

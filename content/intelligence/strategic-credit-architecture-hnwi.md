@@ -18,7 +18,9 @@ It is the prerequisite for stewardship.
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The private credit landscape has entered a structural divergence between traditional leverage practices and the new discipline demanded by high net worth operators.
 
@@ -52,7 +54,9 @@ Only those who construct deliberate credit architecture will capture the next de
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  The spine of the architecture is leverage discipline.
 
@@ -154,7 +158,9 @@ The one who ignores them becomes dependent on high-coupon lenders who thrive on 
 
  
 
-## THE 
+## THE
+
+ 
 
  STRATEGIC MODEL
 
@@ -248,7 +254,9 @@ It is an operating regime.
 
  
 
-## THE STEWARDSHIP FILTER The entrepreneur faces a different burden than a fund manager.
+## THE STEWARDSHIP FILTER The entrepreneur faces a different burden than a fund manager
+
+.
 
 They are not merely optimizing risk.
 
@@ -258,7 +266,9 @@ They are stewarding what has been entrusted to them. **Proverbs 13:22
 
 * frames 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
 .
 
@@ -316,7 +326,9 @@ EXIT Fund-III operators who follow this discipline achieve a singular objective:
 
 Request a confidential capital audit.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

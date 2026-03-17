@@ -32,7 +32,9 @@ It must be engineered.
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Sovereigns operate today inside a compressed bandwidth of liquidity autonomy. 
 
@@ -76,7 +78,9 @@ It is a sequencing instrument that determines national flow continuity.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  A sovereign liquidity facility must not act like a budget extension.
 
@@ -90,7 +94,9 @@ Covenant enforced.
 
 The facility requires five mechanical layers.
 
-### Layer I: Eligibility Grid The eligible asset pool must be objective.
+# Layer I: Eligibility Grid The eligible asset pool must be objective
+
+.
 
 No political discretion.
 
@@ -108,7 +114,9 @@ The assets usually include:
 
 If it is not measurable at a weekly frequency, it is not admissible.
 
-### Layer II: Priority-of-Claim Waterfall Liquidity must be sequenced through a priority stack:
+# Layer I: I
+
+Priority-of-Claim Waterfall Liquidity must be sequenced through a priority stack:
 
 - Senior liquidity tranche with zero tolerance for operational leakage
 
@@ -118,7 +126,9 @@ If it is not measurable at a weekly frequency, it is not admissible.
 
 It establishes certainty for lenders and ensures the sovereign does not cannibalize its own future liquidity.
 
-### Layer III: LTV Curves and Risk Hardening Traditional sovereign facilities use flat LTV tables.
+# Layer II: I
+
+LTV Curves and Risk Hardening Traditional sovereign facilities use flat LTV tables.
 
 That is inefficient.
 
@@ -136,7 +146,9 @@ Hardening techniques include:
 
 - Volatility indexed advance rates
 
-### Layer IV: Recovery Mechanics Institutional recovery must be deterministic.
+# Layer I: V
+
+Recovery Mechanics Institutional recovery must be deterministic.
 
 No improvisation.
 
@@ -152,7 +164,9 @@ Recovery channels often include:
 
 Facilities with explicit recovery mechanics evolve into institutional assets.
 
-### Layer V: Liquidity Replenishment Algorithm A sovereign must replenish.
+# Layer V
+
+Liquidity Replenishment Algorithm A sovereign must replenish.
 
 The facility must not be a drain.
 
@@ -162,7 +176,9 @@ This transforms sovereign liquidity from episodic to structural.
 
  
 
-## THE 
+## THE
+
+ 
 
  STRATEGIC MODEL
 
@@ -222,7 +238,9 @@ They allow the special mandate division to operate without politicized interrupt
 
  
 
-## THE STEWARDSHIP FILTER A sovereign facility must reflect stewardship.
+## THE STEWARDSHIP FILTER A sovereign facility must reflect stewardship
+
+.
 
 Disorder in financial systems begins with disorder in priorities.
 
@@ -278,7 +296,9 @@ The final discipline is simple: a sovereign facility must maintain a minimum 1.
 
 Request a confidential capital audit.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

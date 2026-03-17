@@ -16,7 +16,9 @@ The institutional stack must carry them.
 
 That creates our window.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is simple: credible energy-transition assets must demonstrate industrial reality, not environmental theater.
 

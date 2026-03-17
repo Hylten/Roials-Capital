@@ -38,13 +38,15 @@ What worked in 2014 is a liability in
 
 2026.
 
-### Phase I: .
+# Phase I: .
 
  
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The first principle is simple.
 
@@ -116,13 +118,15 @@ The sequence creates the runway.
 
 Without the sequence, the strategy collapses.
 
-### Phase II: .
+# Phase II: .
 
  
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Durable capital begins with structural cash flow.
 
@@ -210,11 +214,13 @@ A recovery factor below
 
 Durable capital is always anchored to recoverability.
 
-### Phase III: .
+# Phase III: .
 
  
 
-## THE 
+## THE
+
+ 
 
  STRATEGIC MODEL
 
@@ -302,7 +308,7 @@ LPs want optionality.
 
 They invest in GPs who can create optionality as an operating system, not as a side project.
 
-### Phase IV: .
+# Phase IV: .
 
 THE STEWARDSHIP FILTER Durable capital is a moral structure before it is a financial one.
 
@@ -358,7 +364,7 @@ Liquidity evaporates when management relaxes discipline.
 
 Long term solvency requires conviction, not negotiation.
 
-### Phase V: .
+# Phase V: .
 
 EXIT Fund-III durability is validated by one metric.
 
@@ -370,7 +376,9 @@ Your ratio determines your capital future.
 
 Request a confidential capital audit.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

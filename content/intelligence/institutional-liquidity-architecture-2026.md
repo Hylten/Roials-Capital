@@ -264,7 +264,9 @@ Asset-Based Lending is
 
 10 percent of 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
 , but its impact is outsized.
 
@@ -720,7 +722,9 @@ Fund-III sits at the center.
 
 The next phase requires capital alignment.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

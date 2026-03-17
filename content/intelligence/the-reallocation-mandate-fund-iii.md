@@ -24,7 +24,9 @@ The principal view is simple: reallocate or be reallocated. **Proverbs 13:22
 
 * states: A good man leaves an inheritance to his children's children: but the wealth of the sinner is laid up for the just.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is sovereign capital discipline.
 
@@ -54,7 +56,9 @@ GPs require acceleration, external ballast, and execution partners with sovereig
 
 ROIALS CAPITAL builds the spine.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is realignment.
 
@@ -446,7 +450,9 @@ Timing is narrow.
 
 Movement must be immediate.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is clear.
 
@@ -596,7 +602,9 @@ Precision wins.
 
 Sovereign structuring wins.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  stands: Reallocate into Fund-III.
 
@@ -616,7 +624,9 @@ Target throughput ratio: 1.82x within
 
 12 months.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

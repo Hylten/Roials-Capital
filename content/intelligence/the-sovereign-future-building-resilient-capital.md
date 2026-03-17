@@ -6,7 +6,9 @@ author: "Jonas Hyltén"
 slug: "the-sovereign-future-building-resilient-capital"
 --- 
 
-# The Sovereign Future: Building Resilient Capital Capital strength is not a function of scale.
+# The Sovereign Future: Building Resilient Capital Capital strength is not a function of scale
+
+.
 
 It is a function of structure.
 
@@ -42,7 +44,9 @@ It is built.
 
 It is measurable.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

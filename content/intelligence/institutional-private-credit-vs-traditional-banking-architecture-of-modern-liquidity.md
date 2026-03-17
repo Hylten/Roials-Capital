@@ -16,7 +16,9 @@ The result is a dual-track financing regime: banks maintain settlement infrastru
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Institutional allocators have observed that the most active parts of the credit ecosystem no longer reside inside the regulated banking sector.
 
@@ -66,7 +68,9 @@ It is the structural architecture of the next decade.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Institutional private credit functions through engineered liquidity stacks that prioritize seniority, collateral recovery, and cash flow predictability.
 
@@ -150,7 +154,9 @@ Roials ensures alignment between investor archetypes and fund strategy.
 
 Capital Structuring and Asset-Based Lending Structures Ten percent of 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  supports asset-based lending frameworks.
 
@@ -180,7 +186,9 @@ This ensures the architecture serves allocators rather than internal balance she
 
  
 
-## THE STEWARDSHIP FILTER Every allocator with long-duration capital recognizes that stewardship is essential for sustaining multi-cycle performance.
+## THE STEWARDSHIP FILTER Every allocator with long-duration capital recognizes that stewardship is essential for sustaining multi-cycle performance
+
+.
 
 Stewardship is not a philosophical statement.
 
@@ -248,7 +256,9 @@ Roials Capital supports allocators through confidential strategy audits and port
 
 The objective is to align institutional capital with the correct liquidity architecture, ensuring precise navigation across markets that demand technical intelligence rather than generalist assumptions. [END OF INSTITUTIONAL BRIEFING]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

@@ -18,7 +18,9 @@ Trust operates as a technical architecture that can be engineered, stress tested
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Institutional allocators operate within a post liquidity regime where traditional diversification assumptions, public market signal reliability, and classical portfolio theory have become insufficient indicators of long term stability.
 
@@ -58,7 +60,9 @@ Allocators require navigators that can present domain specific transparency with
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Institutional trust crystallizes when 
 
@@ -220,7 +224,9 @@ They require technical coherence.
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is the governing principle that links capital allocation with moral discipline.
+## THE STEWARDSHIP FILTER Stewardship is the governing principle that links capital allocation with moral discipline
+
+.
 
 It is not a philosophical overlay.
 
@@ -288,7 +294,9 @@ It is not a solicitation.
 
 It is an institutional calibration mechanism designed to support disciplined capital deployment. [END OF BRIEFING]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

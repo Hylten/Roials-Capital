@@ -6,7 +6,9 @@ author: "Jonas Hyltén"
 slug: "the-mandate-of-discrete-capital-deployment"
 --- 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  of Discrete Capital Deployment Discrete capital deployment is not a tactic.
 
@@ -16,7 +18,9 @@ A principal does not chase markets.
 
 A principal governs them.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is simple.
 
@@ -322,7 +326,9 @@ Not the market.
 
  
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  of discrete capital deployment is clear. 
 
@@ -366,11 +372,17 @@ Only mandate.
 
 - 
 
-- ## Principal Directive If your capital requires discretion, structural alignment, and hardened deployment architecture, the next step is obvious.
+- ## Principal Directive If your capital requires discretion, structural alignment, and hardened deployment architecture, the next 
+
+# Step I: s obvious
+
+.
 
 Request confidential audit.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

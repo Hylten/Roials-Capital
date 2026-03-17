@@ -16,7 +16,9 @@ The result is a technical environment where risk is not elevated, but mispriced,
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Private credit has advanced from a peripheral asset class to a primary channel of institutional capital formation.
 
@@ -75,7 +77,9 @@ This is the analytical terrain where Roials Capital operates as a strategic intr
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF THE PRIVATE CREDIT RISK CALCULUS The institutional calculus of private credit risk cannot rely on conventional credit scoring or linear cash flow analysis.
 
@@ -209,7 +213,9 @@ This neutrality allows institutional decision makers to receive technical intell
 
  
 
-## THE STEWARDSHIP FILTER Institutional stewardship is the discipline of allocating capital without waste.
+## THE STEWARDSHIP FILTER Institutional stewardship is the discipline of allocating capital without waste
+
+.
 
 It is not merely a financial principle.
 
@@ -275,7 +281,9 @@ The objective is alignment, not solicitation.
 
 The outcome is a calibrated understanding of how private credit can function as a stabilizing instrument within a multi decade capital strategy. [END OF BRIEFING]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

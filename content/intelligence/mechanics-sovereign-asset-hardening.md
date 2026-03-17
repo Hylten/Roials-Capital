@@ -26,7 +26,9 @@ It is structural: the progression from unsecured optionality to hardened, collat
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The post 2020 capital landscape reflects a movement from speculative capital abundance to scarcity driven selectivity.
 
@@ -72,7 +74,9 @@ Allocators are increasingly securing exposure to real cash flow, collateral anch
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF SOVEREIGN ASSET HARDENING Sovereign Asset Hardening is the conversion of otherwise cyclical or leverage sensitive assets into long horizon, institutional grade holdings.
 
@@ -180,7 +184,9 @@ THE PARTNERSHIP MODEL AND ROIALS CAPITAL'S ROLE Roials Capital functions as a st
 
 The objective is not to present asset offerings but to provide allocators with structured intelligence, counterpart mapping, and operational clarity across capital channels.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is divided across three pillars: 
 
@@ -214,7 +220,9 @@ The function is strategic alignment and counterpart calibration.
 
  
 
-## THE STEWARDSHIP FILTER Institutional asset stewardship is increasingly interpreted through the lens of responsibility and resource governance.
+## THE STEWARDSHIP FILTER Institutional asset stewardship is increasingly interpreted through the lens of responsibility and resource governance
+
+.
 
 Stewardship involves the disciplined management of capital, operational assets, and long term risk exposures.
 
@@ -278,7 +286,9 @@ Roials Capital provides confidential Strategy Audits and Portfolio Calibration e
 
 The objective is to provide clarity on the operational regime and introduce the correct institutional partners where alignment exists.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

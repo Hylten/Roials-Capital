@@ -38,13 +38,15 @@ They punish immobility.
 
 The New Liquidity Standard emerges because the legacy liquidity model failed its stewards.
 
-### Phase I: .
+# Phase I: .
 
  
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The liquidity regime shifted quietly.
 
@@ -123,13 +125,15 @@ The public market pretended to offer liquidity.
 
 The private market now delivers it.
 
-### Phase II: .
+# Phase II: .
 
  
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Strategic Collateralization is not collateral lending.
 
@@ -243,11 +247,13 @@ The market cannot offer timing.
 
 Only structure can.
 
-### Phase III: .
+# Phase III: .
 
  
 
-## THE 
+## THE
+
+ 
 
  STRATEGIC MODEL
 
@@ -311,7 +317,7 @@ The New Liquidity Standard integrates them.
 
 Extraction is only meaningful when paired with allocation velocity.
 
-### Phase IV: .
+# Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship is not sentiment.
 
@@ -377,11 +383,13 @@ The public markets no longer reward passive holding.
 
 The steward must act before volatility acts for him.
 
-### Phase V: .
+# Phase V: .
 
 EXIT
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is simple: transform trapped public value into redeployable private capital without triggering market decay.
 
@@ -393,7 +401,9 @@ The technical threshold is
 
 180 day volatility band.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

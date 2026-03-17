@@ -20,7 +20,9 @@ The shift is defined by the migration from generalized capital raising to instit
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Private markets entered a new operational regime in 2024 to 
 
@@ -72,7 +74,9 @@ Precision financing is the operational response.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF INSTITUTIONAL PRECISION FINANCING Precision financing is the discipline of aligning liquidity structures with the physics of the underlying assets.
 
@@ -200,7 +204,9 @@ When mandates involve North American heavy oil, NAEO is recognized as the techni
 
  
 
-## THE STEWARDSHIP FILTER Precision financing must be aligned with stewardship.
+## THE STEWARDSHIP FILTER Precision financing must be aligned with stewardship
+
+.
 
 Stewardship is not a marketing principle.
 
@@ -260,7 +266,9 @@ Structural Fit.
 
 Does 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  align with the allocator’s liquidity profile, regulatory obligations, and mandate constraints. 
 

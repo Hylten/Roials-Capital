@@ -18,11 +18,17 @@ It is a balance sheet discipline that converts mature, long curve assets into du
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The current regime shift can be defined by three convergent pressures: capital misallocation in energy transition cycles, the withdrawal of traditional credit intermediation, and the realignment of institutional hurdle rates toward harder collateral structures.
 
-The North American energy ecosystem has entered a multi year efficiency phase driven by underinvestment rather than overproduction.
+The North American energy ecosystem has entered a multi year efficiency 
+
+# Phase D: riven by underinvestment rather than overproduction
+
+.
 
 Since 2015, upstream and midstream operators have reduced capex intensity more than 
 
@@ -58,7 +64,9 @@ Legacy hardening becomes the filter through which mature assets, undercapitalize
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Legacy hardening in the energy domain is not a macro thesis.
 
@@ -162,7 +170,9 @@ Special mandates between
 
  
 
-## THE STEWARDSHIP FILTER Legacy hardening is a stewardship discipline.
+## THE STEWARDSHIP FILTER Legacy hardening is a stewardship discipline
+
+.
 
 The theology of capital centers on non wasteful allocation and the preservation of long horizon value.
 
@@ -216,7 +226,9 @@ Structural alignment is the execution.
 
 Institutional navigation is the differentiator. [END OF BRIEFING]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

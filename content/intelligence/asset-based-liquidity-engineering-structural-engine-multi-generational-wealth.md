@@ -18,7 +18,9 @@ In this regime, Asset Based Strategic Collateralization operates as the primary 
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Allocators operating from 2024 to 2026 are navigating the most complex capital cycle since the post Bretton Woods restructuring.
 
@@ -70,7 +72,9 @@ They can extend planning horizons beyond market cycles.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF ASSET BASED Asset-Backed Frameworks Asset Based Strategic Collateralization relies on technical underwriting rather than speculative forecasts.
 
@@ -102,7 +106,11 @@ Capital injections, amortization schedules, operational costs, reinvestment requ
 
 This transforms the balance sheet from linear to layered.
 
-Each layer is designed to absorb volatility without impairing the underlying strategic asset. 
+Each 
+
+# Layer I
+
+s designed to absorb volatility without impairing the underlying strategic asset.
 
 3.
 
@@ -138,7 +146,9 @@ It is not a product.
 
 It is an architecture.
 
-### Phase II: SUBSET: ENERGY SPECIFIC MECHANICS WITH NAEOCC When applied to the North American conventional energy corridor through NAEOCCC, to which we serve as a strategic partner, Asset-Based Lending-E takes on an additional layer of technical specificity.
+# Phase I: I
+
+SUBSET: ENERGY SPECIFIC MECHANICS WITH NAEOCC When applied to the North American conventional energy corridor through NAEOCCC, to which we serve as a strategic partner, Asset-Based Lending-E takes on an additional layer of technical specificity.
 
 - Reservoir Quality Conventional heavy oil assets in Alberta operate within well-characterized geologic environments.
 
@@ -212,7 +222,9 @@ Poorly structured capital destroys it.
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is the discipline that integrates financial prudence with resource responsibility.
+## THE STEWARDSHIP FILTER Stewardship is the discipline that integrates financial prudence with resource responsibility
+
+.
 
 It is not philanthropy.
 
@@ -270,7 +282,9 @@ Roials Capital provides confidential Strategy Audits and Portfolio Calibration s
 
 The objective is to determine whether their current capital architecture supports or constrains multi generational wealth. [END OF BRIEFING]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

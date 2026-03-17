@@ -18,7 +18,9 @@ This environment elevates the strategic utility of institutional backing because
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The global private credit market has entered a new macro regime shaped by three structural drivers. 
 
@@ -52,7 +54,9 @@ The shift is structural, not cyclical.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF PRIVATE CREDIT UNDER INSTITUTIONAL BACKING Institutional backing modifies the mechanics of private credit across three primary axes: capital stack architecture, underwriting precision, and operational integration. 
 
@@ -156,7 +160,9 @@ The firm provides allocators with scenario analysis, counterparty vetting, capit
 
  
 
-## THE STEWARDSHIP FILTER Stewardship governs the disciplined allocation of capital, ensuring resources are placed in structures that maximize durability, efficiency, and long-term societal benefit.
+## THE STEWARDSHIP FILTER Stewardship governs the disciplined allocation of capital, ensuring resources are placed in structures that maximize durability, efficiency, and long-term societal benefit
+
+.
 
 This discipline aligns with the biblical principle articulated in **Proverbs 13:22
 
@@ -188,7 +194,9 @@ A professional allocator navigating this environment benefits from a confidentia
 
 Roials Capital facilitates these audits, providing allocators with the intelligence required to operate confidently within a complex, evolving credit environment.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

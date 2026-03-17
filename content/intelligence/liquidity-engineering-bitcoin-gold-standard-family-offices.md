@@ -682,7 +682,9 @@ For principal evaluation, submit a confidential capital audit.
 
 Terminal metric: LTV hard cap: 18.6%
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

@@ -20,7 +20,9 @@ Private credit has become the dominant mechanism for resolving this misalignment
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The transition to a private-credit driven M&A environment started as a cyclical response but has matured into a structural regime.
 
@@ -52,7 +54,9 @@ For Fund-III environments, certainty of execution has become the dominant compet
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Modern M&A architecture operates through four primary private-credit modalities.
 
@@ -164,7 +168,9 @@ The architecture prioritizes:
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is not a branding exercise.
+## THE STEWARDSHIP FILTER Stewardship is not a branding exercise
+
+.
 
 It is a capital discipline. **Proverbs 13:22
 

@@ -18,7 +18,9 @@ Private credit has shifted from a peripheral complement to the primary architect
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The global credit system has entered a non cyclical restructuring phase.
 
@@ -76,7 +78,9 @@ The shift is permanent because the bank withdrawal is not reversible under Basel
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF THE NEW PRIVATE CREDIT ARCHITECTURE The 2026 private credit landscape is defined by structural refinement.
 
@@ -128,7 +132,11 @@ Collateral packages increasingly integrate:
 
 - real time reporting protocols
 
-- step in operational rights Asset hardening does not indicate distress.
+- 
+
+# Step I
+
+n operational rights Asset hardening does not indicate distress.
 
 It reflects institutional preference for operational transparency over market volatility exposure. 
 
@@ -224,7 +232,9 @@ Allocators engage because structural clarity reduces execution friction.
 
  
 
-## THE STEWARDSHIP FILTER AND THE THEOLOGY OF CAPITAL Stewardship in institutional credit is not moral abstraction.
+## THE STEWARDSHIP FILTER AND THE THEOLOGY OF CAPITAL Stewardship in institutional credit is not moral abstraction
+
+.
 
 It is resource governance.
 

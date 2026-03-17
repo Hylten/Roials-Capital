@@ -16,7 +16,9 @@ The resulting architecture is a new strategic environment where sovereign orient
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The global capital system is no longer driven primarily by monetary cycles.
 
@@ -60,7 +62,9 @@ Asset hardening replaces thematic speculation.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  With the regime defined, the mechanics of the asset class become central to institutional clarity.
 
@@ -168,7 +172,9 @@ The partnership model is structured around neutrality, alignment, and technical 
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management.
+## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management
+
+.
 
 It is an operational principle rooted in strategic responsibility rather than moral abstraction.
 

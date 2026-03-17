@@ -16,13 +16,15 @@ They are navigating operating regimes.
 
 Every decision point has shifted toward collateral integrity, cash flow stability, and the ability to deploy liquidity into real economy assets with definable recovery mechanics.
 
-### Phase I: .
+# Phase I: .
 
  
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Private credit in 2026 operates within a recalibrated monetary and regulatory environment shaped by three irreversible forces: hardened capital requirements, institutional risk repricing, and the strategic disengagement of commercial banks from middle market exposures.
 
@@ -44,13 +46,15 @@ Market tightening has increased the value of structurally senior claims, while a
 
 The result is a regime defined by capital scarcity relative to asset robustness, where liquidity has outsized pricing power and underwriting discipline is rewarded through access to collaterally overbuilt opportunities.
 
-### Phase II: .
+# Phase II: .
 
  
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  The new private credit architecture is defined by four primary dynamics: capital stack reconfiguration, covenants as operational control mechanisms, collateral centric structuring, and multi jurisdictional Strategic Collateralization. 
 
@@ -118,7 +122,7 @@ Institutional Liquidity Paths is now a strategic discipline.
 
 It aligns structuring, regulatory constraints, tax positioning, and asset class specificity into a unified deployment algorithm.
 
-### Phase III: .
+# Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator and institutional introducer within this reengineered ecosystem.
 
@@ -160,7 +164,9 @@ Roials Capital orchestrates the liquidity timing to ensure capital enters the op
 
 Energy Mandates and the Role of NAEO When 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  touches North American energy, NAEO serves as the institutional grade operating partner.
 
@@ -172,7 +178,7 @@ It is operational validation and technical oversight.
 
 Allocators require these capabilities before they deploy structured energy credit.
 
-### Phase IV: .
+# Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship functions as a discipline of non wasteful resource management.
 
@@ -192,7 +198,7 @@ Structures that encourage speculation rather than productivity are filtered out.
 
 Structures that encourage resilience, asset strengthening, and disciplined operating expansion are elevated.
 
-### Phase V: .
+# Phase V: .
 
 THE PORTFOLIO CALIBRATION LENS In 2026, allocators require a recalibrated framework to assess private credit's role inside a multi sleeve institutional portfolio.
 
@@ -210,7 +216,9 @@ This function does not involve solicitation.
 
 It is a technical navigation service for institutional decision makers operating in a transformed market. [END OF BRIEFING]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

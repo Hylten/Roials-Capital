@@ -16,7 +16,9 @@ The result is a persistent capital vacuum within middle market buyouts, add on c
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Since 2022, institutional allocators have observed three simultaneous regime shifts that fundamentally alter capital mobility.
 
@@ -44,7 +46,9 @@ Wealth mobility architecture has become a core strategic requirement in buyout c
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Borderless crypto collateral is not a speculative construct.
 
@@ -122,7 +126,9 @@ The objective is to engineer a collateral stack that maximizes transaction stabi
 
  
 
-## THE STEWARDSHIP FILTER Stewardship in capital architecture refers to the disciplined allocation of resources toward productive and durable outcomes.
+## THE STEWARDSHIP FILTER Stewardship in capital architecture refers to the disciplined allocation of resources toward productive and durable outcomes
+
+.
 
 It is the opposite of speculative deployment.
 
@@ -148,7 +154,9 @@ The collateral architecture becomes a tool of productive capital, not speculativ
 
  
 
-## CONCLUSION
+## CONCLUSIO
+
+N
 
  Allocators operating within Fund-III plus environments are entering a cycle where traditional capital deployment no longer satisfies the velocity requirements of modern M and A.
 
@@ -158,7 +166,11 @@ These tools enhance liquidity precision, cross border portability, and structura
 
 Roials Capital provides institutional navigation, compliance oriented structuring, and access to credit partners capable of underwriting hybrid collateral stacks.
 
-For allocators evaluating acquisition pipelines, the next step is a confidential strategy audit focused on balance sheet calibration, collateral optimization, and deployment timing.
+For allocators evaluating acquisition pipelines, the next 
+
+# Step I
+
+s a confidential strategy audit focused on balance sheet calibration, collateral optimization, and deployment timing.
 
 Access is restricted to approved mandates.
 

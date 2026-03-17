@@ -20,7 +20,9 @@ It anchors the liquidity spine that enables efficient participation in buyout pr
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Institutional allocators now operate within a tri regime macro landscape.
 
@@ -62,7 +64,9 @@ ABL is the instrument that bridges these rails without introducing correlation d
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF ASSET BASED LENDING Institutional grade ABL is defined by five core mechanics.
 
@@ -128,7 +132,11 @@ These mechanics position ABL as a structural tool rather than a return seeking i
 
 Its function is stabilization, precision, and liquidity release.
 
-This is why it has become a central pillar in diversified wealth architectures.
+This is why it has become a central 
+
+# Pillar I: n diversified wealth architectures
+
+.
 
 THE PARTNERSHIP MODEL Roials Capital functions as a strategic navigator and institutional introducer.
 
@@ -166,7 +174,9 @@ The ABL function supports Fund-III by enabling:
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is a discipline of non wasteful capital deployment.
+## THE STEWARDSHIP FILTER Stewardship is a discipline of non wasteful capital deployment
+
+.
 
 It is both an operational and moral framework.
 

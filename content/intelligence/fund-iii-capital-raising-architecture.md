@@ -30,7 +30,9 @@ Order is not an option.
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The allocator landscape in 2026 has bifurcated into two regimes.
 
@@ -114,7 +116,9 @@ At Fund-III, disadvantage becomes terminal.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Institutional allocators think in curves, not stories.
 
@@ -210,7 +214,9 @@ They fail because the GP cannot demonstrate mechanical mastery.
 
  
 
-## THE 
+## THE
+
+ 
 
  STRATEGIC MODEL
 
@@ -288,7 +294,9 @@ The GP who still relies on narrative over structure falls behind the Fund-III st
 
  
 
-## THE STEWARDSHIP FILTER Capital is a responsibility.
+## THE STEWARDSHIP FILTER Capital is a responsibility
+
+.
 
 Mismanagement of attention, time, or resources is waste.
 
@@ -351,7 +359,9 @@ Anything above
 
 Request a confidential capital audit.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

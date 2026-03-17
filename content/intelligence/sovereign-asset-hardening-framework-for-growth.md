@@ -20,13 +20,15 @@ Energy, private credit, and strategic acquisitions each serve as functional comp
 
 It is a doctrinal approach to capital oversight.
 
-### Phase I: .
+# Phase I: .
 
  
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The current institutional landscape is shaped by three simultaneous movements: 
 
@@ -62,13 +64,15 @@ Capital is no longer flowing to the systems designed to utilize it with the lowe
 
 Asset hardening provides the corrective structure.
 
-### Phase II: .
+# Phase II: .
 
  
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF THE ENERGY COMPONENT In the North American context, the Alberta basin remains one of the most technically mature hydrocarbon systems in the world.
 
@@ -136,7 +140,7 @@ This is the physics based foundation of the asset class.
 
 It produces resilience independent of macro cycles.
 
-### Phase III: .
+# Phase III: .
 
 FINANCIAL MECHANICS OF SOVEREIGN ASSET HARDENING Sovereign asset hardening is not limited to energy.
 
@@ -198,7 +202,7 @@ It is a disciplined readiness.
 
 Energy dislocations, distressed acquisitions, and regulatory driven divestitures become actionable because capital is already fortified.
 
-### Phase IV: .
+# Phase IV: .
 
 PARTNERSHIP MODEL AND NAVIGATION ROLE OF ROIALS CAPITAL Roials Capital does not function as an operator, fund manager, or promoter.
 
@@ -248,7 +252,7 @@ Institutional
 
 The objective is not to close transactions but to provide clarity, alignment, and readiness for potential collaboration.
 
-### Phase V: .
+# Phase V: .
 
 THE STEWARDSHIP FILTER Stewardship is the doctrine that capital must be used responsibly, strategically, and without waste.
 
@@ -288,7 +292,7 @@ Integrity of the Capital Stack The architecture must ensure that no layer of the
 
 Stewardship is the guardrail that filters out degradation.
 
-### Phase VI: .
+# Phase VI: .
 
 THE ALLOCATOR'S DECISION LENS Allocators reviewing the sovereign asset hardening framework should evaluate decisions through:
 

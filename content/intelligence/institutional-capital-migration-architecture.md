@@ -12,13 +12,15 @@ This single structural reality is now influencing the broader institutional allo
 
 Capital migration has entered a new regime defined by operational scarcity, regulatory fragmentation, balance sheet deterioration in legacy sponsors, and an increasing preference for hard collateral over narrative driven growth.
 
-### Phase I: .
+# Phase I: .
 
  
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Institutional allocators are no longer adjusting portfolios according to traditional business cycle indicators.
 
@@ -58,13 +60,15 @@ Institutional capital migration is therefore no longer cyclical.
 
 It is motivated by structural constraints: deglobalization, supply chain regionalization, infrastructure fatigue, and the reduction of institutional liquidity buffers.
 
-### Phase II: .
+# Phase II: .
 
  
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF CAPITAL MIGRATION Capital does not move randomly.
 
@@ -162,7 +166,7 @@ The aim is not speculative commodity exposure.
 
 The focus is operational efficiency across known reservoirs with documented production histories.
 
-### Phase III: .
+# Phase III: .
 
 THE PARTNERSHIP MODEL AND THE ROIALS CAPITAL POSITION Roials Capital functions as a strategic navigator and institutional introducer.
 
@@ -210,7 +214,7 @@ NAEO serves as an operational partner with long experience in predictable extrac
 
 EU MiFID II Acquisitions Support for strategic acquisitions across regulated European entities, including cross border compliance architecture, capital routing, and operational due diligence.
 
-### Phase IV: .
+# Phase IV: .
 
 THE STEWARDSHIP FILTER : THE THEOLOGY OF CAPITAL Stewardship is the discipline of deploying capital without waste.
 
@@ -243,7 +247,7 @@ Principles:
 
 The stewardship filter ensures institutional discipline across all capital migration channels.
 
-### Phase V: .
+# Phase V: .
 
 DECISION MAKING LENS FOR THE ALLOCATOR Capital migration is no longer discretionary.
 
@@ -265,7 +269,9 @@ Which strategies enhance the allocator's overall capital architecture rather tha
 
 It ensures alignment between institutional objectives, operational dynamics, and the structural regime shift now defining capital migration. [END OF BRIEFING]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

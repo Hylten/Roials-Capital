@@ -26,7 +26,9 @@ The purpose is clarity for allocators calibrating exposures ahead of a multi yea
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Institutional allocators are operating in an era where legacy portfolio models underperform the real economy they were designed to mirror.
 
@@ -74,7 +76,9 @@ Migration follows transparency.
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF CAPITAL MIGRATION Institutional capital migration does not occur randomly.
 
@@ -136,7 +140,9 @@ ENERGY:
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF THE ALBERTA BASIN North American energy, specifically the Alberta basin, operates with 
 
@@ -220,7 +226,9 @@ In private equity, this involves managers transitioning from Fund-II to Fund-III
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful capital deployment.
+## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful capital deployment
+
+.
 
 Allocators increasingly require a stewardship framework to validate exposures.
 
@@ -270,7 +278,9 @@ Capital migration clarifies where value is forming.
 
 Strategic alignment clarifies where allocators should be positioned before liquidity compressions force late entry.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

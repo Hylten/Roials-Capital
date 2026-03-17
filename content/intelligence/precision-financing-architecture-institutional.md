@@ -12,13 +12,15 @@ Allocators with disciplined underwriting frameworks are discovering a structural
 
 Precision financing architecture has therefore transitioned from a peripheral concept to a primary determinant of acquisition viability, debt seniority, and multi fund scalability.
 
-### Phase I: .
+# Phase I: .
 
  
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Institutional capital formation has entered a new regime where liquidity is no longer a commodity but a strategic capability.
 
@@ -55,13 +57,15 @@ These conditions have produced an environment where precision financing is not a
 
 It is the central operating framework for Fund-III and subsequent institutional scale expansion.
 
-### Phase II: .
+# Phase II: .
 
  
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF PRECISION FINANCING ARCHITECTURE Institutional grade capital formation requires a multi vector structure that integrates equity formation, senior secured credit, liquidity engineering, and project level cash flow governance.
 
@@ -141,7 +145,7 @@ C.
 
 Global Expansion Projects with asset hardening potential These require advanced cross border structuring to protect capital seniority and ensure alignment with institutional archetypes.
 
-### Phase III: .
+# Phase III: .
 
 THE PARTNERSHIP MODEL AND STRATEGIC ALIGNMENT FRAMEWORK Roials Capital operates as an institutional navigator using a neutral introducer positioning.
 
@@ -177,7 +181,7 @@ NAEO or other sector specific operators focus on technical execution.
 
 This separation creates institutional clarity and reduces cross functional risk.
 
-### Phase IV: .
+# Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship is the discipline of ensuring that capital is deployed in accordance with both economic and ethical responsibility.
 
@@ -209,7 +213,7 @@ Transparent Reporting Architecture Reporting must be consistent, auditable, and 
 
 The stewardship filter forms the ethical and operational backbone of institutional scale financing architecture.
 
-### Phase V: .
+# Phase V: .
 
 STRATEGIC DECISION LENS FOR ALLOCATORS Allocators across UHNW, Family Office, and Institutional LP categories benefit from applying a decision framework built around four calibration points.
 

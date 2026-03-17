@@ -49,7 +49,7 @@ Power flows to structure.
 F‑Framework 2.
 0 (Logic Layer)
 
-### Layer I: .
+# Layer I: .
 
 Foundation Positioning The Principal must define the *sovereign perimeter*.
 
@@ -91,7 +91,7 @@ Hard impact.
 
 Precision wins.
 
-### Layer II: .
+# Layer II: .
 
 Structural Arbitrage Jurisdiction determines optionality.
 
@@ -117,7 +117,7 @@ The sovereign mandate demands jurisdictional arbitrage.
 
 No apologies.
 
-### Layer III: .
+# Layer III: .
 
 Institutional Hierarchical Dynamics Banks lend on history.
 
@@ -141,7 +141,7 @@ A sovereign firm controls its own liquidity. **Proverbs 13:22
 
 * .
 
-### Layer IV: .
+# Layer IV: .
 
 Sovereign Output Asset-Based Lending outputs are predictable when engineered correctly:
 
@@ -343,7 +343,9 @@ Sovereignty.
 
 This is the architecture that elevates Fund-III from successful to unstoppable.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

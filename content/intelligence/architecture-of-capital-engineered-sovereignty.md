@@ -56,7 +56,9 @@ Geometry is power. **Proverbs 13:22
 
 Sovereign architecture begins there. 
 
-## FOUNDATION: CAPITAL AS A STRUCTURAL LANGUAGE Capital raising (kapitalanskaffning) is not a sales function.
+## FOUNDATION: CAPITAL AS A STRUCTURAL LANGUAGE Capital raising (kapitalanskaffning) is not a sales function
+
+.
 
 It is a structural dialect spoken between those who architect value and those who demand engineered certainty.
 
@@ -92,7 +94,9 @@ Jurisdictional optionality grants mobility when systems lock.
 
 Nothing else matters. 
 
-## THE ENGINEERED SOVEREIGNTY FRAME Sovereignty at fund level is the ability to execute mandates without structural interference.
+## THE ENGINEERED SOVEREIGNTY FRAME Sovereignty at fund level is the ability to execute mandates without structural interference
+
+.
 
 In practice this reduces to four levers:
 
@@ -116,7 +120,9 @@ Engineered sovereignty is built on these four levers.
 
 Fund‑III is the engine to deploy them. 
 
-## THE BUYOUT / ADD‑ON MACHINE Buyouts are jurisdictional absorption.
+## THE BUYOUT / ADD‑ON MACHINE Buyouts are jurisdictional absorption
+
+.
 
 Add‑ons are sectoral compression.
 
@@ -144,7 +150,9 @@ We are buying mispriced control rights.
 
 The architecture must reflect that. 
 
-## CAPITAL MOBILIZATION: FUND‑III RAISING STRATEGY (80%) The institutional raising cycle is not a roadshow.
+## CAPITAL MOBILIZATION: FUND‑III RAISING STRATEGY (80%) The institutional raising cycle is not a roadshow
+
+.
 
 It is a control process.
 
@@ -210,7 +218,9 @@ Facility terms must support acquisition arcs, not trap them.
 
 Monetization Architecture eliminates timing risk, the most corrosive risk of all. 
 
-## SPECIAL MANDATES (10%): 
+## SPECIAL MANDATES (10%):
+
+ 
 
 1.
 
@@ -246,7 +256,9 @@ We leverage MiFID II not as a constraint but as an engineering tool for:
 
 Not a burden. 
 
-## THE INSTITUTIONAL LOGIC OF ASSET HARDENING Soft assets decay.
+## THE INSTITUTIONAL LOGIC OF ASSET HARDENING Soft assets decay
+
+.
 
 Hard assets endure.
 
@@ -276,7 +288,9 @@ Defensible.
 
 Measurable. 
 
-## THE INTERNAL GOVERNANCE LADDER Governance is not reporting.
+## THE INTERNAL GOVERNANCE LADDER Governance is not reporting
+
+.
 
 Governance is control.
 
@@ -304,7 +318,9 @@ Velocity sustains sovereignty.
 
 Engineered sovereignty is measured in decision time. 
 
-## ACQUISITION PATHWAYS: THE FUND‑III MODEL Fund‑III deploys through three pathways:
+## ACQUISITION PATHWAYS: THE FUND‑III MODEL Fund‑III deploys through three pathways
+
+:
 
 - Direct buyout
 
@@ -326,7 +342,9 @@ Transition narratives don’t change operational physics.
 
 We follow physics, not politics. 
 
-## JURISDICTIONAL ARBITRAGE: THE POWER MULTIPLIER Jurisdiction is leverage.
+## JURISDICTIONAL ARBITRAGE: THE POWER MULTIPLIER Jurisdiction is leverage
+
+.
 
 Leverage is law.
 
@@ -358,7 +376,9 @@ Geometry first.
 
 Geography second. 
 
-## SOVEREIGNTY THROUGH PRE‑DEFINED EXIT ROUTES Exit determines entry.
+## SOVEREIGNTY THROUGH PRE‑DEFINED EXIT ROUTES Exit determines entry
+
+.
 
 Institutional correctness demands pre‑calibrated exit vectors:
 
@@ -380,7 +400,9 @@ Optionality requires pathways.
 
 Pathways require architecture. 
 
-## ENERGY: THE IRON CORE Oil and gas assets are not relics.
+## ENERGY: THE IRON CORE Oil and gas assets are not relics
+
+.
 
 They are mandatory.
 
@@ -408,7 +430,9 @@ Physics is truth.
 
 Truth is yield. 
 
-## THE CAPITAL Hierarchical Dynamics The delta is the difference between what the asset is and what the institution perceives it to be.
+## THE CAPITAL Hierarchical Dynamics The delta is the difference between what the asset is and what the institution perceives it to be
+
+.
 
 We monetize that delta.
 
@@ -422,7 +446,9 @@ Institutions pay for clarity.
 
 That is the business. 
 
-## THE ROLE OF ROIALS CAPITAL We operate as an institutional architecture firm.
+## THE ROLE OF ROIALS CAPITAL We operate as an institutional architecture firm
+
+.
 
 Not advisors.
 
@@ -450,7 +476,9 @@ Identity pillars:
 
 Quiet systems outperform loud ones. 
 
-## STRUCTURAL IMPERATIVES FOR FUND‑III The architecture for Fund‑III demands:
+## STRUCTURAL IMPERATIVES FOR FUND‑III The architecture for Fund‑III demands
+
+:
 
 - Hard‑coded governance
 
@@ -470,7 +498,9 @@ Trust accelerates capital movement.
 
 Capital movement creates sovereignty. 
 
-## THE PRINCIPAL ASSERTION Capital obeys architecture.
+## THE PRINCIPAL ASSERTION Capital obeys architecture
+
+.
 
 Architecture obeys intent.
 
@@ -488,17 +518,23 @@ It is a sovereign engine for acquisition, compression, and mobility across real�
 
 Engineered sovereignty is 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
 . 
 
-## REQUEST For LP/GP alignment, cross‑jurisdictional preparation, and mandate intake, initiate a confidential capital audit.
+## REQUEST For LP/GP alignment, cross‑jurisdictional preparation, and mandate intake, initiate a confidential capital audit
+
+.
 
 Terminal Metric: Enforcement Latency Target = <
 
 72 hours.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

@@ -18,7 +18,9 @@ The vacuum forming in North American energy is a predictable byproduct of this d
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Since 2021, the global allocator map has fractured into three definable regulatory archetypes. 
 
@@ -88,7 +90,9 @@ This triangulates demand for institutional grade Fund-III structures capable of 
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  The precision mechanics of this migration are observable across three operational domains.
 
@@ -198,7 +202,9 @@ The strategic purpose is friction minimization and institutional alignment.
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is not a marketing term.
+## THE STEWARDSHIP FILTER Stewardship is not a marketing term
+
+.
 
 It is a discipline.
 

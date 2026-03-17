@@ -36,7 +36,9 @@ That gap is where superior returns are found.
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  A quiet bifurcation has taken place.
 
@@ -90,7 +92,9 @@ In a tightening-rate environment, advantage compounds faster than cost of capita
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  Precision matters.
 
@@ -162,7 +166,9 @@ That is why crypto collateral belongs in the M&A leverage stack.
 
  
 
-## THE 
+## THE
+
+ 
 
  STRATEGIC MODEL
 
@@ -230,7 +236,9 @@ That is the window.
 
  
 
-## THE STEWARDSHIP FILTER Wealth must move without waste.
+## THE STEWARDSHIP FILTER Wealth must move without waste
+
+.
 
 Stewardship is a discipline, not an aesthetic.
 
@@ -271,7 +279,9 @@ EXIT Fund-III institutional operations require a single invariant metric: mainta
 
 Request a confidential capital audit.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

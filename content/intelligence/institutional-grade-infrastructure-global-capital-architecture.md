@@ -16,7 +16,9 @@ The outcome is a multi year environment where institutional grade infrastructure
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Institutional allocators observe three concurrent forces.
 
@@ -54,7 +56,9 @@ Global allocators require neutral partners who orchestrate the interfaces rather
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  The institutional grade infrastructure relevant to Fund-III mandates consists of three pillars.
 
@@ -176,7 +180,9 @@ It introduces institutional allocators to the Alberta landscape and supports str
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is a governance discipline.
+## THE STEWARDSHIP FILTER Stewardship is a governance discipline
+
+.
 
 For capital allocators, stewardship is the process of deploying resources in a manner that increases productive capacity while minimizing waste.
 
@@ -236,7 +242,9 @@ Does the structure allow for dynamic capital deployment and balance sheet optimi
 
 Roials Capital provides institutional LPs and GPs with a confidential strategy audit to evaluate alignment across these four dimensions and calibrate portfolio posture accordingly. [END OF BRIEFING]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

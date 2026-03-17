@@ -16,7 +16,9 @@ This vacuum defines the modern regime for allocators who seek exposure to real o
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Institutional allocators have witnessed a ten year evolution of market mechanics.
 
@@ -62,7 +64,9 @@ Private credit and portfolio backed liquidity have become the functional replace
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF RESOURCE EXTRACTION AND COLLATERAL QUALITY Understanding the Strategic Collateralization potential of portfolio backed structures requires clarity on the technical behavior of the underlying assets.
 
@@ -172,7 +176,9 @@ The Roials Capital model ensures that the operator's governance structure and te
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is not an ethical overlay.
+## THE STEWARDSHIP FILTER Stewardship is not an ethical overlay
+
+.
 
 It is a discipline of capital preservation rooted in non wasteful resource management.
 
@@ -308,7 +314,9 @@ Roials Capital operates as a strategic navigator who translates complex environm
 
 A confidential strategy audit or portfolio calibration session is typically the next step for allocators who require a precision assessment of their exposure architecture, jurisdictional alignment, and liquidity pacing across existing and prospective mandates. [END OF BRIEFING]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

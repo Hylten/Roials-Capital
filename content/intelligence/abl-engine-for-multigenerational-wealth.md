@@ -26,7 +26,9 @@ Legacy families understood the principle before modern financial engineering gav
 
 * describes 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
 : A good man leaves an inheritance to his children’s children.
 
@@ -346,11 +348,15 @@ The architecture mandates durability.
 
 The market demands velocity.
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
  is clear.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

@@ -18,7 +18,9 @@ This briefing outlines a clinical, institutional framework for how UHNW family o
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
 2026 is characterized by three structural forces that influence sovereign debt behavior:
 
@@ -54,7 +56,9 @@ Instead, they integrate sovereign exposure directly into their capital rotation 
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF SOVEREIGN LIQUIDITY ARCHITECTURE Sovereign debt strategies in 2026 require precision in duration alignment, collateral potential, and jurisdictional risk.
 
@@ -163,7 +167,9 @@ This sequencing protects capital integrity while enabling data driven decision m
 
  
 
-## THE STEWARDSHIP FILTER Sovereign debt allocation is not merely an economic decision.
+## THE STEWARDSHIP FILTER Sovereign debt allocation is not merely an economic decision
+
+.
 
 It is a stewardship decision.
 

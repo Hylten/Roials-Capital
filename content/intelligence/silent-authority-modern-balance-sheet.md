@@ -74,7 +74,9 @@ Capital raising first.
 
 Eighty percent of 
 
-## THE MANDATE
+## THE MANDAT
+
+E
 
 .
 
@@ -504,7 +506,9 @@ Request a confidential capital audit to determine your current authority delta.
 
 Terminal metric: 1.6x liquidity coverage ratio.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

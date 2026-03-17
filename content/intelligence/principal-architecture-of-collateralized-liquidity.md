@@ -38,7 +38,9 @@ Discipline.
 
 Hierarchy. 
 
-## Liquidity Architecture Fundamentals Capital raising for Fund-III and beyond demands a mechanical fluency that exceeds traditional private equity playbooks.
+## Liquidity Architecture Fundamentals Capital raising for Fund-III and beyond demands a mechanical fluency that exceeds traditional private equity playbooks
+
+.
 
 Most GPs understand underwriting.
 

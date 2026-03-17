@@ -18,7 +18,9 @@ They are architecting positions inside supply constrained capital stacks where t
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The global capital environment in 2026 is defined by three interacting forces that shape every GP and LP decision pathway: 
 
@@ -58,7 +60,9 @@ They evaluate the strategic architecture of capital access, liquidity structurin
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF CAPITAL RAISING INFRASTRUCTURE FOR Fund-III STRATEGIES A Fund-III environment is fundamentally different from Fund-I or Fund-II.
 
@@ -116,7 +120,9 @@ A Fund-III GP must provide allocators with a compliance architecture that protec
 
  
 
-## THE 
+## THE
+
+ 
 
  STRATEGIC MODEL
 
@@ -162,7 +168,9 @@ This creates a refined informational advantage for allocators navigating complex
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is not a moral abstraction.
+## THE STEWARDSHIP FILTER Stewardship is not a moral abstraction
+
+.
 
 It is a discipline of non-wasteful resource allocation that aligns capital, operational capability, and long-term stability.
 
@@ -232,7 +240,9 @@ Alignment Potential Is there a definable pathway for strategic alignment through
 
 Allocators who evaluate through this lens strengthen their position within the emerging capital regime and secure alignment with partners capable of navigating complex acquisition cycles. [END OF BRIEFING]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 

@@ -22,13 +22,15 @@ The focus is clinical: a map of
 
  , the mechanics of liquidity engineering, the role of operational partners such as NAEO in energy-linked strategies, and the governance philosophy that defines capital stewardship in the current environment.
 
-### Phase I: .
+# Phase I: .
 
  
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  : THE INSTITUTIONAL REALIGNMENT OF DURABLE CAPITAL The post-2024 environment represents a structural inflection point in the institutional allocation landscape.
 
@@ -86,13 +88,15 @@ Hardening does not imply rigidity.
 
 It implies the reinforcement of an asset's ability to produce cash flow under multiple scenarios.
 
-### Phase II: .
+# Phase II: .
 
  
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  : THE ARCHITECTURE OF LIQUIDITY AND DURABLE CAPITAL Allocators now require deeper technical scrutiny of the underlying mechanics that support asset resilience.
 
@@ -162,7 +166,7 @@ The appeal is not commodity price exposure.
 
 It is the operational predictability derived from known reservoir behavior and engineered extraction processes.
 
-### Phase III: .
+# Phase III: .
 
 THE PARTNERSHIP MODEL: ROIALS CAPITAL AS STRATEGIC NAVIGATOR The contemporary allocator does not seek product distribution.
 
@@ -194,7 +198,7 @@ This model avoids marketing behavior.
 
 It positions capital allocation as a technical discipline consistent with institutional governance requirements.
 
-### Phase IV: .
+# Phase IV: .
 
 THE STEWARDSHIP FILTER : THE THEOLOGY OF CAPITAL Durable capital allocation is an act of stewardship.
 
@@ -218,7 +222,7 @@ The moral dimension is recognized in operational frameworks such as **Proverbs 1
 
 * , emphasizing generational capital clarity and responsibility.
 
-### Phase V: .
+# Phase V: .
 
 DECISION MAKING LENS FOR THE INSTITUTIONAL ALLOCATOR The allocator operating in 2026 must internalize a simple but structural principle: durable capital is engineered, not found.
 

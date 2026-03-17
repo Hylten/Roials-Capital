@@ -18,7 +18,9 @@ The functional rise of sovereign crypto banks reflects a structural response to 
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The current decade is defined by a realignment of balance sheet sovereignty.
 
@@ -60,7 +62,9 @@ This environment creates an alternative global liquidity spine operating paralle
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF SOVEREIGN CRYPTO BANKING The operational mechanics of sovereign crypto banks do not resemble consumer crypto lending.
 
@@ -122,7 +126,9 @@ The collateralized loan is represented on chain with programmable risk parameter
 
 This improves clarity of lender seniority and establishes immutable audit trails. 
 
-### Phase II: A: APPLICATION TO Fund-III CAPITAL RAISING AND ADD ON ACQUISITIONS For private equity GPs advancing Fund-III and Fund IV initiatives, sovereign crypto banking provides high velocity liquidity at the GP and portfolio company levels.
+# Phase I: I
+
+A: APPLICATION TO Fund-III CAPITAL RAISING AND ADD ON ACQUISITIONS For private equity GPs advancing Fund-III and Fund IV initiatives, sovereign crypto banking provides high velocity liquidity at the GP and portfolio company levels.
 
 - GP commitment financing through tokenized pledge structures.
 
@@ -180,7 +186,9 @@ If the transaction relates to private credit, M and A, or European capital struc
 
  
 
-## THE STEWARDSHIP FILTER The stewardship principle excludes speculative behavior.
+## THE STEWARDSHIP FILTER The stewardship principle excludes speculative behavior
+
+.
 
 Liquidity must serve productive deployment.
 

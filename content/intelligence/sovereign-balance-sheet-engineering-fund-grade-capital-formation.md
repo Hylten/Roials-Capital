@@ -32,7 +32,9 @@ When allocators understand the architecture, the strategic alignment dialogue be
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  Private markets have entered an allocation environment defined by three forces. 
 
@@ -74,7 +76,9 @@ They engineer stability at the top of the stack so that acquisition velocity at 
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  The sovereign balance sheet archetype is defined by three structural principles: durability, modularity, and cross-cycle liquidity.
 
@@ -132,7 +136,9 @@ Liquidity Engineering uses:
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  BY CATEGORY 
 
@@ -182,9 +188,13 @@ When engineered correctly, ABL functions like a sovereign liquidity buffer.
 
 10 percent Mandate Execution (NAEO, MiFID II, Special Acquisitions) 
 
-## THE MANDATE
+## THE MANDAT
 
-### Layer I: s where institutional introductions matter.
+E
+
+# Layer I: s where institutional introductions matter
+
+.
 
 Allocators require specialized partners with precision and domain competence.
 
@@ -248,7 +258,9 @@ The objective is clarity, not persuasion.
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is not a moral slogan.
+## THE STEWARDSHIP FILTER Stewardship is not a moral slogan
+
+.
 
 It is the discipline of non wasteful resource management.
 
@@ -298,7 +310,11 @@ The key evaluation questions are:
 
 * Can the platform operate with sovereign style optionality
 
-* Is the stewardship filter embedded in each structural element When allocators review these criteria, the next logical step is often a confidential strategy audit or a portfolio calibration dialogue.
+* Is the stewardship filter embedded in each structural element When allocators review these criteria, the next logical 
+
+# Step I
+
+s often a confidential strategy audit or a portfolio calibration dialogue.
 
 These consultations focus on structure, not solicitation.
 

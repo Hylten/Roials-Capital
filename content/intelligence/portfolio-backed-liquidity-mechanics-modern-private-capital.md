@@ -16,7 +16,9 @@ The resulting distortion has made portfolio backed liquidity one of the most imp
 
  
 
-## THE REGIME SHIFT
+## THE REGIME SHIF
+
+T
 
  The post 2022 capital regime introduced a new pricing logic across North American and European private markets.
 
@@ -54,7 +56,9 @@ The absence of flexible liquidity has become a limiting factor on opportunity ve
 
  
 
-## TECHNICAL MECHANICS
+## TECHNICAL MECHANIC
+
+S
 
  OF PORTFOLIO BACKED LIQUIDITY Portfolio backed liquidity is not a monolithic category.
 
@@ -204,7 +208,9 @@ They focus on long horizon stability for institutional allocators.
 
  
 
-## THE STEWARDSHIP FILTER Stewardship is the discipline of intelligent capital deployment.
+## THE STEWARDSHIP FILTER Stewardship is the discipline of intelligent capital deployment
+
+.
 
 It is not an ethical add on.
 
@@ -290,7 +296,9 @@ Modern private capital requires institutional partners capable of navigating tec
 
 The allocator who understands portfolio backed liquidity as a strategic instrument rather than a financing tool is positioned to operate with greater precision, higher opportunity readiness, and more stable long horizon outcomes. [END OF BRIEFING]
 
-## TECHNICAL MANDATE Qualification Gates strictly observed.
+## TECHNICAL MANDATE Qualification Gates strictly observed
+
+.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
