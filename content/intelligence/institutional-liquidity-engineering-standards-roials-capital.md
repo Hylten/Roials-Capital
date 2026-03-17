@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL"
 slug: "institutional-liquidity-engineering-standards-ROIALS CAPITAL"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 Institutional architecture begins with the presumption of asymmetry. Capital moves asymmetrically. Ownership moves asymmetrically. Liquidity, however, must be engineered. Not found. Not discovered. Built. Purposefully. Quietly. Precisely.
@@ -236,4 +235,5 @@ Confidential capital audit required for entry.
 Terminal Metric: Enforcement Coherence Index = 0.92.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

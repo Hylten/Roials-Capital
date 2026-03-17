@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL"
 slug: "institutional-liquidity-architecture-2026"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 Private credit in 2026 is no longer a substitute for bank lending. It is the liquidity engine. It is the institutional spine beneath buyouts, add-on consolidation, energy acquisition strategies, and asset-backed liquidity structures that slide between regulatory seams with precision. The shift is structural. Not cyclical. Not opportunistic. Structural. Persistent. Reinforced by regulatory arbitrage, demographic capital flows, and a global liquidity rotation away from public markets and consensus beta.
@@ -108,6 +107,7 @@ This briefing delivers the architecture. The future belongs to structured liquid
 The next phase requires capital alignment.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit. Weighted liquidity modulus: 0.87.

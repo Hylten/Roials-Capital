@@ -6,7 +6,6 @@ author: Jonas Roials
 slug: sovereign-mindset-structural-liquidity
 keywords: kapitalanskaffning, oil and gas, private credit, Strategic Collateralization, asset hardening
 ---
-
 The sovereign mindset begins with a simple recognition. Control is liquidity. Liquidity is time. Time is inheritance. Proverbs 13:22: A good man leaves an inheritance to his children’s children. Institutional scale simply formalizes that logic across jurisdictions, balance sheet architectures, and capital queues. The generational asset is not the enterprise. It is the structural liquidity position that governs it.
 
 The Fund-III horizon demands this posture. Not opportunistic. Not thematic. Structural. Systemic. Repeatable. Institutional LP capital is cycling into its next formation phase, and the allocators who understand structural liquidity as a generational asset will govern the next decade of buyout authority.
@@ -80,4 +79,5 @@ When liquidity becomes a designed system, it becomes a generational asset. Not a
 Confidential capital audit required. Metric: LTV curvature ratio 0.72.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL"
 slug: "institutional-backing-private-credit-power"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"
 ---
-
 A structural gap always reveals itself in the data before it becomes visible in the market. In private credit, the gap is simple. Institutions with disciplined capital architecture outperform not because they lend better, but because their backing reshapes the deal physics. Order is not an option.
 
 PHASE 1. THE REGIME SHIFT
@@ -56,6 +55,7 @@ PHASE 5. EXIT
 Institutional backing is not branding. It is a measurable upward shift in recovery rates, velocity, and covenant durability. Platforms that secure institutional alignment lift IRR by 180 to 260 basis points due to workflow compression alone.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.

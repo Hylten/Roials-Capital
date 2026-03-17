@@ -6,7 +6,6 @@ author: "Jonas Hyltén"
 slug: "sovereign-capital-architecture"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
 ---
-
 A liquidity system fails long before anyone notices it. The signal is not volatility. The signal is silent compression in collateral productivity.
 
 Order is not an option.
@@ -98,6 +97,7 @@ The Biblical architecture of capital is not soft. It is absolute. It demands acc
 The final metric is endurance. The sovereign fund must demonstrate a 28 to 34 percent lifetime liquidity conversion ratio across cycles.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.

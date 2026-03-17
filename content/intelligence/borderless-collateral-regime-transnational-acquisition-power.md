@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL"
 slug: "borderless-collateral-regime-transnational-acquisition-power"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The borderless collateral regime is no longer a theoretical construct. It is the operational chassis of modern acquisition power. Jurisdictional lines bend. Asset classes migrate. Capital hardens as it travels. Collateral becomes a mobile sovereign instrument. And the institutions positioned to direct it now define the competitive curve of private markets.
@@ -135,6 +134,7 @@ The capital is ready.
 The strategy is operational.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.

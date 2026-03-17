@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL"
 slug: "sovereign-capital-infrastructure-interlock"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
 ---
-
 A structural gap defines every future market. In sovereign capital infrastructure, the gap is obvious. Asset allocators still think in geopolitical cycles while sovereign wealth now behaves in liquidity cycles. Velocity wins. Bureaucracy loses. We see it clearly because we operate where timing penalties destroy entire mandates. Order is not an option.
 
 PHASE 1. THE REGIME SHIFT
@@ -82,6 +81,7 @@ PHASE 5. EXIT
 Target yield displacement threshold: 340 to 460 basis points above sovereign benchmark curves.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.

@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "strategic-value-asset-based-financing-modern-private-wealth"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North American private markets is no longer cyclical. It is structural. It is the outcome of regulatory compression, Basel III liquidity mandates, MiFID II distribution constraints, and the retreat of traditional lenders from balance-sheet intensive activities. Family offices and private GP platforms operating today face a landscape where conventional leverage channels have fragmented. Asset based financing has reemerged not as a niche product but as a primary architecture for liquidity engineering and balance sheet optimization. The rationale is not yield seeking. It is institutional durability.

@@ -6,7 +6,6 @@ author: "Jonas Hyltén"
 slug: "the-strategic-role-of-yield-in-true-asset-hardening"
 keywords: "private credit, asset based liquidity engineering, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
-
 # The Role of Yield in Asset Hardening
 
 Asset hardening is the quiet architecture of capital durability.
@@ -23,7 +22,9 @@ When engineered poorly, it becomes noise, volatility, and deterioration.
 
 This distinction is the defining line between institutional-grade financial mechanics and ordinary yield seeking.
 
-## Multi Asset Hardening: The Roials Architecture
+## Multi
+
+Asset Hardening: The Roials Architecture
 
 ROIALS CAPITAL operates as a silent authority in the background of complex portfolios.
 
@@ -51,7 +52,9 @@ It enables controlled expansion.
 
 It maintains the client’s sovereign posture over their capital. 
 
-## The Real Function of Yield: Control
+## The
+
+Real Function of Yield: Control
 
 In institutional contexts, yield is not about return.
 
@@ -71,7 +74,9 @@ For high net worth and ultra high net worth individuals, control is the true cur
 
 Yield is the instrument that delivers that control. 
 
-## Conclusion: Yield as the Foundation of Durable Capital
+## Conclusion:
+
+Yield as the Foundation of Durable Capital
 
 Asset hardening is not decorative language.
 
@@ -94,4 +99,5 @@ And capital that remains sovereign.
 Request confidential audit
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

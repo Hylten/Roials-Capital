@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "capital-raising-infrastructure-analysis-Fund-III"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Institutional Liquidity Paths, asset hardening, NAEOC"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in the middle market buyout ecosystem is not a function of asset scarcity. It is the direct expression of regulatory deceleration, increased compliance drag, and a multi-year misalignment between GP execution velocity and LP diligence cycles. The allocators who understand this structural gap are reallocating from generalized asset pools toward platforms with disciplined Asset-Backed Frameworks, predictable operational cadence, and established Fund-III architectures with validated acquisition engines.
@@ -103,4 +102,5 @@ This briefing provides the structural foundation required for institutional-leve
 [END OF BRIEFING]
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

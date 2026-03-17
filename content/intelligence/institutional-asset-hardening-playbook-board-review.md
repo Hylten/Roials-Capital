@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-asset-hardening-playbook-board-review"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North America’s real asset environment is an outcome of misaligned regulatory cycles rather than a scarcity of investable structures. For institutional allocators preparing for a 5B+ governance review, the determinant factor is not sector selection but the architectural integrity of the capital stack. Asset hardening has become the institutional archetype that separates scalable platforms from episodic deal operators. 
@@ -104,4 +103,5 @@ Roials Capital provides the institutional architecture and strategic introductio
 A confidential Strategy Audit or Portfolio Calibration becomes the natural next step for institutions requiring a precise, architecture driven assessment of their position within the new regime.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

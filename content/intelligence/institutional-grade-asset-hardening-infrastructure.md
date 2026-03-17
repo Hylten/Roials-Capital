@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-grade-asset-hardening-infrastructure"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion. This structural gap has created an environment where conventional heavy oil assets, supported by known decline curves and predictable pressure regimes, have become the most stable collateral architecture available to institutional allocators seeking real-asset durability and counter cyclical ballast.
@@ -121,4 +120,5 @@ Roials Capital’s role is to provide institutional LPs and GPs with a neutral, 
 [END INSTITUTIONAL BRIEFING]
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

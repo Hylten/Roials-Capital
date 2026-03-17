@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "tokenized-real-estate-liquidity-institutional-briefing"
 keywords: "kapitalanskaffning, private credit, real estate, liquidity engineering, Fund-III, asset hardening, tokenization"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The liquidity asymmetry in global real estate today is a function of settlement inefficiency, not asset impairment. The inability of conventional structures to mobilize fractionalized ownership at institutional scale has created a systemic gap between underlying property value and monetizable liquidity. Tokenized real estate is not a speculative instrument. It is a structural evolution in the transmission mechanics of ownership, custody, and settlement.

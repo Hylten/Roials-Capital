@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL"
 slug: "sovereign-liquidity-facility-structuring-precision-architecture"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 Sovereign liquidity facilities are no longer emergency instruments. They are engineered balance‑sheet enhancers, velocity multipliers, and institutional shields. In Fund‑III environments, they become the power core. They compress risk cycles. They harden asset stacks. They turn bilateral capital into jurisdictional leverage. Precision is mandatory. Structure decides survivability.
@@ -174,4 +173,5 @@ The sovereign facility is the ultimate institutional weapon.
 For principal review, initiate a confidential capital audit.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

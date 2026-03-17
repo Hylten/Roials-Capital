@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "sovereign-debt-strategies-family-offices-2026"
 keywords: "kapitalanskaffning, private credit, sovereign debt, liquidity engineering, asset hardening, NAEO, institutional strategy"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in the sovereign fixed income landscape is a function of fragmentation across monetary jurisdictions rather than any structural deterioration in sovereign credit profiles. The 2026 regime presents a paradox: nominal yields signal normalization while balance sheet stress across Western sovereigns continues to accumulate. Family offices that traditionally treated sovereign exposure as a passive ballast are now encountering a fundamentally different risk geometry.

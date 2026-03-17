@@ -6,7 +6,6 @@ author: "Jonas Hylten"
 slug: "institutional-capital-migration"
 keywords: "kapitalanskaffning, oil and gas, private credit, Strategic Collateralization, asset hardening"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 A structural gap always appears before a liquidity regime shifts. The laggards never see it. The disciplined allocators do. Capital is not wandering. It migrates with precision toward lower friction, higher security, and verifiable dominion over cash flow. The market misprices this migration every time. That mispricing is the opportunity.
@@ -82,6 +81,7 @@ Capital migration ends with one metric. Cost of error.
 Our mandate is to lower it to zero.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.

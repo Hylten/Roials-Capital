@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "asset-based-liquidity-engineering-structural-engine-multi-generational-wealth"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Asset-Backed Frameworks, asset hardening, NAEOCC"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North American energy is a function of regulatory drift and institutional mispricing, not resource scarcity. This same structural distortion is mirrored across private credit, real asset finance, and cross-border M&A environments where balance sheets are under-optimized relative to asset quality. The result is a regime where multi generational wealth is no longer a function of capital accumulation but capital architecture. In this regime, Asset Based Strategic Collateralization operates as the primary engine for permanence, continuity, and institutional longevity.
@@ -139,4 +138,5 @@ Roials Capital provides confidential Strategy Audits and Portfolio Calibration s
 [END OF BRIEFING]
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

@@ -5,7 +5,6 @@ date: "2025-08-18"
 author: "ROIALS CAPITAL"
 slug: "energy-security-capital-naeoc-infrastructure-displacement"
 ---
-
 NAEOC structures cut straight through the old guard.
 
 Direct mandates.

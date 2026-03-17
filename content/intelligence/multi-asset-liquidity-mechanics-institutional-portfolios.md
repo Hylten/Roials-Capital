@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL | Principal Desk"
 slug: "multi-asset-liquidity-mechanics-institutional-portfolios"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 Multi‑asset liquidity is not a market preference. It is a structural requirement. The moment a portfolio crosses the threshold of institutional complexity, liquidity ceases to be a function of cash. It becomes a jurisdictional puzzle, a temporal arbitrage, a credit conversion exercise, and an endurance test of balance‑sheet architecture. Asset managers who fail to internalize this shift weaken their negotiating leverage, compress their acquisition window, and dilute their Fund-III performance delta before deployment begins. Capital does not reward delay. It rewards readiness. Proverbs 13:22.
@@ -110,6 +109,7 @@ A sovereign fund engineers liquidity across all assets, all cycles, all jurisdic
 The institutional world rewards the sovereign.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit: ROIALS CAPITAL

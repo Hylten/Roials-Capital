@@ -5,7 +5,6 @@ date: "2025-12-23"
 author: "ROIALS CAPITAL"
 slug: "uhnw-private-credit-inside-pe-structures"
 ---
-
 They move first. Quietly. Deliberately. UHNW capital follows structural truth, not fashion.
 
 The shift is simple: private credit inside private equity restores control of the capital stack. Equity alone is exposure without steering. Credit alone is yield without optionality. Combined, they form a governing architecture. Sovereign positioning. Hard edges. Defined rights. Predictable cash flow.

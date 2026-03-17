@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "sovereign-balance-sheet-engineering-fund-grade-capital-formation"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum across North America and Europe is a structural consequence of regulatory drift, not a contraction of underlying asset productivity. Allocators operating within this regime are navigating a landscape where traditional private markets infrastructure is failing to transmit liquidity at institutional velocity. The result is a bifurcation in outcomes. GPs with sovereign-style balance sheet architecture are gaining asymmetric access to debt, acquisition inventory, and cross-cycle optionality. GPs operating with legacy balance sheet designs are absorbing friction, slippage, and LTV degradation.

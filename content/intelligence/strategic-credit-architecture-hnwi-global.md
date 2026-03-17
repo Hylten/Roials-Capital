@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "strategic-credit-architecture-hnwi-global"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North American and European middle market environments is a consequence of regulatory compression, interbank withdrawal, and procyclical risk weighting. This structural gap defines the modern landscape for entrepreneurs and families pursuing institutional grade expansion. The prevailing misconception is that growth financing has become intrinsically scarce. In practice, the scarcity is architectural, not absolute. Traditional lenders continue to operate under Basel III exposures, MiFID II constraints, and heightened collateral rigidity. Private credit funds retain dry powder but apply institutional underwriting that many operators have not structurally aligned with. The result is an access mismatch rather than a capital shortage.

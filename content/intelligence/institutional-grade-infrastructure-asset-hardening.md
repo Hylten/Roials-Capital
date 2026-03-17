@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-grade-infrastructure-asset-hardening"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North America’s energy sector is a consequence of regulatory drift rather than resource depletion. The divergence between geological certainty and capital availability has produced one of the most persistent structural imbalances in the institutional landscape. Asset hardening has therefore become less about aggressive expansion and more about consolidating indispensable assets within mature basins and mature corporate structures. In this environment, infrastructure for institutional grade asset hardening is not a theoretical construct. It functions as a practical apparatus for balance sheet stabilization, controlled buyout sequencing, and multi cycle capital efficiency.
@@ -69,4 +68,5 @@ For allocators seeking to calibrate portfolios toward structural durability and 
 [END OF INSTITUTIONAL BRIEFING]
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

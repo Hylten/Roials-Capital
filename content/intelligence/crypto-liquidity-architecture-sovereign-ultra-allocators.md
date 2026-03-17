@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL"
 slug: "crypto-liquidity-architecture-sovereign-ultra-allocators"
 keywords: "kapitalanskaffning, oil and gas, private credit, Monetization Architecture, asset hardening"
 ---
-
 Order collapses when liquidity behaves like vapor instead of capital. That is the structural gap. Digital markets move in microseconds while institutional allocators still operate with quarterly governance cycles. That mismatch defines the current regime. It punishes slow mandates. It rewards engineered velocity.
 
 [START INSTITUTIONAL BRIEFING]
@@ -62,6 +61,7 @@ PHASE 5: EXIT
 Liquidity leadership is measured, not imagined. The target metric for Fund-III is simple. Execution certainty at 98 percent fill rate across all routed trades under volatility stress.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.

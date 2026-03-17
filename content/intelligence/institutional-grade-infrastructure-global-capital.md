@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL"
 slug: "institutional-grade-infrastructure-global-capital"
 keywords: "kapitalanskaffning, oil and gas, private credit, Capital Structuring, asset hardening"
 ---
-
 The structural gap is clear. Capital supply is global. Capital comprehension is not. The velocity mismatch between institutional allocators and mid-market operators remains the largest unpriced inefficiency in private markets. That gap is where infrastructure decides outcomes. Order is not an option.
 
 
@@ -58,4 +57,5 @@ PHASE 5: EXIT
 Our mandate is simple: reduce capital friction by 87 percent across the fund structure and raise the throughput rate of institutional commitments by 3.4 times. For a confidential capital audit, initiate contact.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

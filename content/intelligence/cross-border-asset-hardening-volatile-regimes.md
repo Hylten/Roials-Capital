@@ -6,7 +6,6 @@ author: "Jonas Hyltén"
 slug: "cross-border-asset-hardening-volatile-regimes"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 Regulatory asymmetry always creates the spread. Jurisdictions move at different speeds. Compliance structures fail to keep pace with capital velocity. This is the structural gap. Capital that recognises it compounds. Capital that ignores it decays.
@@ -99,4 +98,5 @@ Request a confidential capital audit.
 [END]
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

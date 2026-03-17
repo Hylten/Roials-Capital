@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL"
 slug: "institutional-playbook-capital-preservation-Fund-III"
 keywords: "kapitalanskaffning, oil and gas, private credit, Institutional Liquidity Paths, asset hardening"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 Capital moves on certainty. Institutions move on structure. Fund-III syndicates move on signal strength, balance-sheet posture, and the operator’s ability to convert jurisdiction into leverage. That is the principal doctrine. Everything else is noise. Proverbs 13:22 states: A good man leaves an inheritance to his children’s children: but the wealth of the sinner is laid up for the just. Institutions translate that verse into mandate. Preservation first. Expansion second. Extraction third. Every LP knows the sequence. Every GP ignores it at their peril.
@@ -95,6 +94,7 @@ Proverbs 13:22 defines the ethos: inheritance cross-generational, wealth realloc
 This is the playbook. Built for Fund-III. Designed for permanence. Structured for institutional alignment. Execution is mandatory. Drift is unacceptable. Preservation is non-negotiable.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit to initiate alignment.

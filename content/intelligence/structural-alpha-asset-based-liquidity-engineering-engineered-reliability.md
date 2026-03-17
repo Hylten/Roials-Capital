@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "structural-alpha-asset-based-liquidity-engineering-engineered-reliability"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum across North American and European lower mid market operators is the product of regulatory compression and risk model recalibration, not a shortage of real asset value. The current environment rewards allocators who understand that structural alpha is increasingly generated through balance sheet architecture rather than traditional equity selection. Engineered reliability inside Asset Based Liquidity Engineering has become one of the few persistent sources of non correlated value creation because it converts operational certainty into institutional grade optionality.

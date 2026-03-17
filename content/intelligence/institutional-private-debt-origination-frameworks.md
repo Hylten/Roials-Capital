@@ -6,7 +6,6 @@ author: "Jonas Hyltén"
 slug: "institutional-private-debt-origination-frameworks"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"
 ---
-
 Order fails whenever origination is treated as a sales function instead of a governance engine. The structural gap begins there.
 
 Private debt is not constrained by capital. It is constrained by discipline. Every breakdown in underwriting quality traces back to operational drift inside the origination funnel. The market has accepted this drift as normal. I do not.
@@ -122,6 +121,7 @@ PHASE 5. EXIT
 Target loss ratio: below 40 basis points across the cycle.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.

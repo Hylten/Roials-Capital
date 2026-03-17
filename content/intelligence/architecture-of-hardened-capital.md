@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL"
 slug: "architecture-of-hardened-capital"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 Hardened capital is not a metaphor. It is an engineered state. A fortified balance sheet. A jurisdictional perimeter. A liquidity architecture that cannot be coerced, diluted, or stranded. Institutions fail when capital is soft. Families fail when capital is reactive. Markets fail when capital is fragile. Only hardened capital survives cycles, wars, dislocations, and liquidity droughts. Proverbs 13:22: A good man leaveth an inheritance to his children’s children. The institutional equivalent is a capital stack that endures two centuries, not two quarters.
@@ -78,6 +77,7 @@ Then scale. Then accelerate. Then compound. In that order. Never reversed.
 Capital hardened is power realized. Capital unhardened is power imagined.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.

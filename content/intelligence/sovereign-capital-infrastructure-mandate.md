@@ -6,7 +6,6 @@ author: "Jonas Hyltén"
 slug: "sovereign-capital-infrastructure-mandate"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 A sovereign balance sheet collapses in silence long before it collapses in public. The structural gap always appears first inside the liquidity spine of the state: the infrastructure that aggregates collateral, transforms risk, and transmits credit into productive capacity. That is the counter-intuitive truth. Nations fail not due to lack of assets but due to lack of institutional architecture capable of marshaling them.
@@ -114,4 +113,5 @@ A sovereign survives on the precision of its collateral spine. A fund survives o
 For LPs, family offices, and institutional allocators requiring a confidential capital audit for Fund-III positioning, initiate contact under secure channel.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

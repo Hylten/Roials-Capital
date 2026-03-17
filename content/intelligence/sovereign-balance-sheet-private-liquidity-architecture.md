@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "sovereign-balance-sheet-private-liquidity-architecture"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North America's energy sector is a structural consequence of regulatory drift, capital migration, and de-risked institutional mandates that no longer interface with real-asset production cycles. A technical understanding of the vacuum is essential for allocators building sovereign-grade balance sheets that integrate private liquidity architecture, real-asset collateral, and buyout velocity without correlation drag. The opportunity set is not driven by speculative pricing. It is driven by the operational discipline of mature decline curves, high-certainty recovery mechanics, and consistent production baselines that integrate elegantly with private credit frameworks.

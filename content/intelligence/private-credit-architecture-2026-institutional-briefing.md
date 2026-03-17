@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "private-credit-architecture-2026-institutional-briefing"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The structural gap defining the 2026 private credit cycle is the result of central bank persistence, capital market fragmentation, and the withdrawal of traditional bank lending capacity. This dislocation reflects regulatory inertia rather than systemic weakness in underlying middle market cash flows. Institutional allocators now operate in an environment where the most stable credit signals originate from operationally mature sectors with mechanical visibility of cash generation. Private credit has shifted from a peripheral complement to the primary architecture of corporate liquidity.

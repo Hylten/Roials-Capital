@@ -6,7 +6,6 @@ author: "Jonas Hyltén"
 slug: "borderless-crypto-collateral-wealth-mobility-institutional-ma"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 A structural gap has formed at the intersection of jurisdictional control and mobile capital. The legal system still treats wealth as if it sits inside borders. Yet the settlement layer has already moved. Crypto collateral is now the only asset class that can be pledged, rehypothecated, and internationally transported without triggering the traditional chain of custody. That shift alters the mechanics of M&A. It rewires the leverage stack. It forces a redesign of Fund-III acquisition pipelines.
@@ -99,4 +98,5 @@ Fund-III institutional operations require a single invariant metric: maintain a 
 Request a confidential capital audit.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

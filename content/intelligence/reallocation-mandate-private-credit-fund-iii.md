@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL"
 slug: "reallocation-mandate-private-credit-Fund-III"
 keywords: "kapitalanskaffning, oil and gas, private credit, Strategic Collateralization, asset hardening"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 A structural gap has opened at the center of private credit. Banks are constrained by Basel IV capital weights. Mid-market borrowers keep scaling. Yet execution capacity among traditional lenders has fallen below their credit demand velocity. This is the spread in plain sight. Institutions that understand it will control the flow of returns for the next decade.
@@ -76,6 +75,7 @@ The exit layer is not optional. Every credit instrument must contain its exit lo
 For Fund-III, exit clarity flows from measurable indicators. The final metric: recovery predictability above 78 percent portfolio wide. Set the benchmark. Then surpass it.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.

@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "sovereign-wealth-management-institutional-reconfiguration-private-capital"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North American private markets is a consequence of regulatory drift and institutional retrenchment, not a shortage of productive assets. Sovereign allocators have moved into this gap with an operating philosophy that treats capital as a geopolitical instrument rather than a cyclical investment vehicle. Their presence is restructuring the opportunity map for private equity, private credit, and strategic resource ownership across North America and Europe.

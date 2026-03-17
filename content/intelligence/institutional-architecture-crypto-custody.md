@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-architecture-crypto-custody"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum within decentralized asset custody is a consequence of regulatory lag and fragmented operational standards rather than volatility in the underlying cryptographic networks. Institutional allocators operating across North America, Europe, and the Gulf are now confronting a structural requirement. Digital assets have matured faster than the risk architecture designed to protect multi generational wealth. The result is a tactical paradox. The asset class is no longer nascent, but the custody infrastructure is still immature in many jurisdictions. The institutions solving this gap are not speculators. They are risk engineers and long horizon stewards.
@@ -104,4 +103,5 @@ Roials Capital conducts confidential portfolio calibration sessions designed to 
 [END OF INSTITUTIONAL BRIEFING]
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

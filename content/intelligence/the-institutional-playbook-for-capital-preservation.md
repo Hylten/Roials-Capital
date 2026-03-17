@@ -6,7 +6,6 @@ author: "Jonas Hyltén"
 slug: "the-institutional-playbook-for-capital-preservation"
 keywords: "private credit, asset based Capital Structuring, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
-
 # The Institutional Playbook for Capital Preservation
 
 Capital preservation is not a defensive posture.
@@ -39,7 +38,9 @@ Below is a complete institutional framework.
 
 A blueprint for capital preservation at scale. 
 
-## Engineered Stability: The Future of Preservation Architecture
+## Engineered
+
+Stability: The Future of Preservation Architecture
 
 The capital landscape is evolving.
 
@@ -65,7 +66,9 @@ A deliberate strategy.
 
 A commitment to structural superiority.
 
-## Conclusion: Preservation Is the First Rule of Enduring Wealth
+## Conclusion:
+
+Preservation Is the First Rule of Enduring Wealth
 
 There is no wealth without preservation.
 
@@ -94,4 +97,5 @@ Institutional.
 Request confidential audit
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

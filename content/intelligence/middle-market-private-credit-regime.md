@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL"
 slug: "middle-market-private-credit-regime"
 keywords: "kapitalanskaffning, private credit, middle market, Asset-Backed Frameworks, Asset-Based Lending, energy credit, MiFID II acquisition"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 A structural gap appears when capital migrates faster than underwriting standards can adapt. The middle market sits precisely in that imbalance. Capital entered. Infrastructure did not. That is the opportunity.
@@ -114,4 +113,5 @@ Yield without velocity is idle. Velocity without structure is reckless. We engin
 Request a confidential capital audit to determine alignment with Fund-III deployment parameters.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

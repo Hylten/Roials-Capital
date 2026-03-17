@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "structural-role-of-abl-in-modern-wealth-portfolios"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North American middle market finance is a consequence of regulatory drift rather than borrower deterioration. This vacuum has repositioned Asset Based Lending as a structural stabilizer within diversified UHNW and institutional portfolios. In the current regime, ABL functions not as a niche credit instrument but as an essential mechanism for Liquidity Engineering and capital stack precision across acquisition cycles, especially for allocators supporting Fund-III environments where buyout velocity requires calibrated liquidity and controlled downside.

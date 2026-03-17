@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL"
 slug: "mechanics-tokenized-real-estate-liquidity"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 Structural gaps create pricing power. Tokenized real estate exposes one of the largest gaps still ignored by slow institutions: the misalignment between the velocity of capital and the immobility of the underlying asset class. Buildings sit still. Capital refuses to. The gap becomes an instrument. The firm exploits it at scale.
@@ -78,6 +77,7 @@ PHASE 5: EXIT
 Projected collateral clearance window inside tokenized structures: 4.7 hours.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.

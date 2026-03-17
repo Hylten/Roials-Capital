@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "future-private-credit-middle-market-strategic-briefing"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Strategic Collateralization, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in the North American middle market is not a function of declining creditworthiness. It is the downstream result of regulatory recalibration, banking consolidation, and balance sheet compression across traditional lenders. The outcome is a structurally persistent gap in credit formation that is material enough to redirect institutional allocation schedules for the next decade. Middle market private credit has therefore transitioned from a peripheral yield enhancer to an architectural pillar of institutional portfolios.
@@ -108,4 +107,5 @@ Roials Capital facilitates confidential strategy audits for allocators who requi
 [END INSTITUTIONAL BRIEFING]
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

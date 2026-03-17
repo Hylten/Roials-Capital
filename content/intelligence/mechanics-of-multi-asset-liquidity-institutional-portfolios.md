@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "mechanics-of-multi-asset-liquidity-institutional-portfolios"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Capital Structuring, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North American private markets is not a function of diminishing asset quality. It is a direct outcome of regulatory inertia, multi cycle underinvestment, and balance sheet contraction across the mid market lending ecosystem. In this environment, multi asset liquidity is no longer an ancillary portfolio feature. It has become a primary determinant of institutional resilience. The allocator who navigates this regime shift with structural clarity will preserve optionality while enhancing opportunity velocity across Buyouts, Asset-Based Lending, and real asset exposures.
@@ -126,4 +125,5 @@ The current environment rewards those who possess operational intelligence, stru
 [END BRIEFING]
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

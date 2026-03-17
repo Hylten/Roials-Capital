@@ -6,7 +6,6 @@ author: "Jonas Hyltén"
 slug: "strategic-credit-architecture-hnwi"
 keywords: "kapitalanskaffning, oil and gas, private credit, Capital Structuring, asset hardening"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 A mispriced covenant structure always reveals the fracture point of an ecosystem long before the market acknowledges it. The gap shows up in second-order effects: subdued recovery projections, muted sponsor participation, and credit files that hide operational decay behind cosmetic EBITDA bridges. Order is not an option. It is the prerequisite for stewardship.
@@ -113,4 +112,5 @@ Fund-III operators who follow this discipline achieve a singular objective: a re
 Request a confidential capital audit.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

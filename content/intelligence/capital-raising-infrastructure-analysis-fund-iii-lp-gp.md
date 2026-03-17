@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "capital-raising-infrastructure-analysis-Fund-III-lp-gp"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Capital Structuring, asset hardening, NAEOC"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in middle-market acquisition structures is not the result of deal scarcity. It is the direct product of regulatory drift that has compressed traditional bank participation and created a structural opening for non-bank institutional capital to price seniority across Fund-III and Fund-IV ecosystems. The allocators who understand this shift are not searching for incremental yield. They are architecting positions inside supply constrained capital stacks where technical underwriting and operational control determine the risk surface more than the coupon.
@@ -137,4 +136,5 @@ Allocators who evaluate through this lens strengthen their position within the e
 [END OF BRIEFING]
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

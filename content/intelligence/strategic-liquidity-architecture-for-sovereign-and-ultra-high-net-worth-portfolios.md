@@ -6,7 +6,6 @@ author: "Jonas Hyltén"
 slug: "strategic-liquidity-architecture-for-sovereign-and-ultra-high-net-worth-portfolios"
 keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
-
 # Strategic Liquidity for Sovereign Portfolios
 
 Liquidity is not a convenience at the sovereign level.
@@ -33,7 +32,9 @@ This article outlines the mechanics, the posture, and the strategic thesis behin
 
 It is written in an institutional tone because the audience is institutional. 
 
-## The Strategic Benefit to Sovereign Decision Makers
+## The
+
+Strategic Benefit to Sovereign Decision Makers
 
 When liquidity becomes predictable, strategy becomes clearer.
 
@@ -50,7 +51,9 @@ This is the architecture layer.
 
 It is the layer that sovereign and UHNW portfolios require. 
 
-## Why ROIALS CAPITAL Operates at This Level
+## Why ROIALS CAPITAL
+
+Operates at This Level
 
 Our thresholds are deliberate.
 
@@ -87,4 +90,5 @@ Deliberately.
 At scale.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

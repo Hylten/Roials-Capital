@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL"
 slug: "principal-geometry-middle-market-credit-gap"
 keywords: "kapitalanskaffning, oil and gas, private credit, Institutional Liquidity Paths, asset hardening"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The middle market is fragmenting. Quietly. Predictably. Mechanically. Lenders retreat. Sponsors expand. Targets stall. The geometry is structural, not cyclical. Capital density shifts. Covenant risk widens. Pricing mistracks risk. Velocity collapses. The credit gap grows. Hard edges. Sharp angles. No equilibrium in sight.
@@ -99,6 +98,7 @@ The middle-market credit gap is the greatest institutional arbitrage of the next
 If you operate a Fund‑III or preparing to raise one, the mandate is simple: verify your geometry. Confirm your capital architecture. Validate your liquidity instruments. Upgrade your lender portfolio. Harden your assets. Accelerate your add‑on plan. Institutional LPs demand clarity. Not noise.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.

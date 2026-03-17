@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL"
 slug: "liquidity-architecture-Fund-III-expansion"
 keywords: "kapitalanskaffning, oil and gas, private credit, Monetization Architecture, asset hardening"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 Liquidity architecture determines survival long before deal velocity does. Fund-III demands a posture, not a pitch. Institutional capital reads structure first, narrative second, jurisdiction third. Momentum comes from alignment density, not GP enthusiasm. The expansion mandate requires a unified chassis: one spine, multiple liquidity doors, zero drag. Proverbs 13:22 sets the generational frame: a good man leaves an inheritance: capital must outlive cycle, strategy, and operator. Legacy requires structure. Structure requires precision. Precision requires sovereign distance. I write from that distance.
@@ -75,6 +74,7 @@ Fund-III must deliver all three at industrial strength.
 Capital will respond. Capital always responds to structure.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit. End metric: Asset-Based Lending-readiness index 0.92.

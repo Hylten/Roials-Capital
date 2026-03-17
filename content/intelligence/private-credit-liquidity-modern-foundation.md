@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "private-credit-liquidity-modern-foundation"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North American credit formation since 2018 is a regulatory artifact, not a deterioration of real asset quality. Private credit has matured into the stabilizing core of institutional portfolios because traditional lenders have exited segments of the market that still maintain robust collateral value, predictable operating performance, and stable cash generation. The shift in liquidity provision has created an environment where private allocators determine the functional availability of capital for the middle market, rather than the banks that previously dominated the space.

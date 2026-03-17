@@ -5,7 +5,6 @@ date: "2026-02-04"
 author: "ROIALS CAPITAL"
 slug: "naeoc-energy-transition-private-equity-re-entry"
 ---
-
 The center of gravity is shifting.
 
 Quietly. Predictably. Inevitably.
@@ -13,8 +12,9 @@ Quietly. Predictably. Inevitably.
 Infrastructure LPs are returning to the mid‑market energy transition arena because the NAEOC band-fifty to two hundred fifty million-has become the last scale where a GP can still control the physics of value creation with precision. Above it, competition distorts price. Below it, fragmentation erodes institutional certainty. In the NAEOC range, the market remains rational. That is the entire point.
 
 ---
+## The
 
-## The Structural Reality
+Structural Reality
 
 1. The global energy transition has now crossed the early‑clarity threshold  
 Once a sector becomes politically declared rather than economically emergent, distortions appear. Subsidies bloat asset values. Speculators chase incentives. LPs recoil.
@@ -242,7 +242,8 @@ We build the harbor where the tide returns.
 
 
 
-## ASSET‑BASED LENDING (QUALIFICATION GATES)  
+## ASSET‑BASED LENDING (QUALIFICATION GATES)
+
 Strict ROIALS CAPITAL Protocol
 
 If a manager or operating company requires working liquidity for acquisition execution, bridge positioning, or industrial stabilization, we open the Asset‑Based Lending corridor only at the formal Qualification Gates:

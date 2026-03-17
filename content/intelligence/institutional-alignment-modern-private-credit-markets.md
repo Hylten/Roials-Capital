@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-alignment-modern-private-credit-markets"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Monetization Architecture, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North American and European private credit markets is a consequence of structural regulatory drift, not a shortage of institutional capital. The result is a regime where liquidity has become bifurcated, price discovery has become asymmetric, and the most resilient credit opportunities are migrating toward sponsors capable of operational precision, underwriting discipline, and cross-cycle cash flow control. This memorandum outlines the mechanics behind that shift, the technical attributes allocators now prioritize in partners, and the market structures that govern capital formation for Fund-III environments, Asset-Based Lending deployment, and strategic mandates spanning North American energy and European MiFID II transactions.
@@ -112,4 +111,5 @@ Roials Capital facilitates this process through confidential strategy audits and
 [END]
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

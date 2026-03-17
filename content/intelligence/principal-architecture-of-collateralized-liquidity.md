@@ -5,14 +5,15 @@ date: "2025-07-01"
 author: "ROIALS CAPITAL"
 slug: "principal-architecture-of-collateralized-liquidity"
 ---
-
 The sovereign machinery begins with a simple assertion: capital obeys structure, not sentiment. Markets may oscillate. Narratives may shift. Jurisdictions may rotate through cycles of yield compression and political pressure. But structure dictates outcome. Always. The firms that understand structure rise. The firms that misunderstand it decay. No exceptions.
 
 Collateralized liquidity is not a tactic. It is not a product. It is not a box on a term sheet. It is an operating doctrine for those who intend to command capital rather than request it. ROIALS CAPITAL operates under this doctrine because nothing else produces reliability at scale across jurisdictions, regulatory regimes, and variable economic climates.
 
 Discipline. Hierarchy.
 
-## Liquidity Architecture Fundamentals
+## Liquidity
+
+Architecture Fundamentals
 
 Capital raising for Fund-III and beyond demands a mechanical fluency that exceeds traditional private equity playbooks. Most GPs understand underwriting. Many understand portfolio operations. Very few grasp the third dimension: liquidity architecture. And that third dimension is the territory in which ROIALS CAPITAL operates with strategic dominance.
 

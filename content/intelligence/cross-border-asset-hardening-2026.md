@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "cross-border-asset-hardening-2026"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North America’s upstream and midstream energy segments is a direct consequence of regulatory drift, capital misallocation, and a multi-year divergence between policy rhetoric and physical market constraints. This vacuum has generated an atypical period where cross-border allocators with disciplined frameworks can engineer structural advantage without seeking speculative outcomes. Heavy oil, multi-year decline-curve assets, and conventional extraction in Alberta now exhibit risk characteristics that are counterintuitively lower than many renewable structures, largely due to predictable subsurface behavior, established steam-to-oil ratios, and well-characterized geology.
@@ -128,4 +127,5 @@ Roials Capital provides confidential strategy audits and portfolio calibration f
 [END INSTITUTIONAL BRIEFING]
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "middle-market-credit-gap-structural-precision"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North America’s middle market credit system is not a consequence of borrower deterioration. It is the direct outcome of regulatory drift that has removed traditional lenders from segments where the risk was historically well-priced and operationally predictable. As liquidity exits the $25M to $350M corporate tranche, the provisioning gap expands into a structural arbitrage zone. Allocators with disciplined underwriting frameworks now observe a market where pricing power has shifted decisively to non-bank institutions, yet underwriting standards remain anchored in conservative cash flow analysis.
@@ -95,4 +94,5 @@ Roials Capital provides institutional stakeholders with a confidential environme
 [END OF BRIEFING]
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

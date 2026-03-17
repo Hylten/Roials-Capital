@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL"
 slug: "private-credit-reallocation-era-Fund-III-kapitalanskaffning"
 keywords: "kapitalanskaffning, oil and gas, private credit, Strategic Collateralization, asset hardening"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 Private credit has entered the reallocation era. Not a cycle. A structural turn. Rate compression. Policy drift. Basel recalibration. All converging into a jurisdictional vacuum where private lenders become policy substitutes. Capital flows follow vacuum physics. Quiet. Predictable. Inevitable.
@@ -157,4 +156,5 @@ CONFIDENTIAL CAPITAL AUDIT REQUIRED.
 End metric: Deployment velocity target 94 days.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

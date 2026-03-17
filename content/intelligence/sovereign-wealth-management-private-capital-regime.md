@@ -6,7 +6,6 @@ author: "Jonas Hyltén"
 slug: "sovereign-wealth-management-private-capital-regime"
 keywords: "kapitalanskaffning, oil and gas, private credit, Strategic Collateralization, asset hardening"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 A structural gap is widening between sovereign liquidity velocity and private capital’s operational drag. The sovereign engines accelerate. The private markets hesitate. Allocation is no longer about scale. It is about sovereignty of action.
@@ -133,4 +132,5 @@ Sovereign aligned funds measure success by exit symmetry, not headline IRR. The 
 For sovereign-grade capital alignment, request a confidential capital audit.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

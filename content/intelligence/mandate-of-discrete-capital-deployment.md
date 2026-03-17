@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "mandate-of-discrete-capital-deployment"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Capital Structuring, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion. Institutional allocators navigating 2026 face a regime where capital scarcity, operational bottlenecks, and mispriced subsurface physics combine to produce one of the most misunderstood structural gaps in the global market. The mandate of discrete capital deployment is central to this environment because fragmented balance sheets, constrained credit markets, and deglobalized supply lines require allocators to deploy with precision, not scale. The forward regime favors surgical balance sheet alignment, not broad beta exposure.
@@ -96,4 +95,5 @@ Roials Capital provides confidential portfolio calibration to align allocators w
 [END OF BRIEFING]
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

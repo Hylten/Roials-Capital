@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL"
 slug: "institutional-liquidity-architecture-Fund-III"
 keywords: "kapitalanskaffning, oil and gas, private credit, Institutional Liquidity Paths, asset hardening"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 Institutional liquidity is no longer a passive condition. It is engineered. Deliberate. Code‑driven. Jurisdictionally structured. In the modern capital regime, liquidity behaves as an asset class, not as a by‑product, and the firms that master its architecture become the gravitational centers of deal flow, capital flow, and strategic advantage. The displacement of traditional lenders and the fragmentation of cross‑border financial regulation have created a vacuum in which principal‑level Monetization Architecture outperforms legacy credit systems. That is the environment in which Fund‑III scale strategies now operate.
@@ -50,4 +49,5 @@ The mandate is institutional. The audience is sophisticated. The expectations ar
 Confidential capital audit required for alignment assessment. Ratio: 1.14x liquidity coverage minimum.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

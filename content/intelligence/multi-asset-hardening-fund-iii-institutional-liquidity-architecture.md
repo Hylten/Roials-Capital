@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL | Principal Architect"
 slug: "multi-asset-hardening-Fund-III-institutional-liquidity-architecture"
 keywords: "kapitalanskaffning, private credit, oil and gas, Asset-Backed Frameworks, asset hardening"
 ---
-
 The mandate is acceleration. Fund‑III must expand its capital perimeter, reinforce multi‑asset defenses, and integrate digital‑asset rails without contaminating institutional purity. Architecture before execution. Structure before flow. Capital before optimization. The brief sets the institutional line.
 
 The landscape has shifted. Capital rotation is faster. Regulatory posture is uneven. Liquidity premiums have inverted across private credit, hydrocarbons, mid‑market buyouts, and digital balance‑sheet instruments. Asset hardening becomes survival architecture, not strategic optionality. Proverbs 13:22. Inheritance demands structure. Structure demands foresight.
@@ -85,4 +84,5 @@ Fund‑III must assert its perimeter. Enforce its rules. Harden its assets. Acce
 The next step is confidential: initiate the capital audit.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

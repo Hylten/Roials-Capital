@@ -6,7 +6,6 @@ author: "Jonas Hyltén"
 slug: "new-liquidity-standard-institutional-liquidity-engineering"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 A structural gap defines every capital era. In this one, the public markets created a liquidity myth. Investors believed mark to market equals mobility. It does not. A position is not liquid if it cannot be exited without destroying its own value. This is the gap. Concentrated shareholders holding five million dollars or more in a single public issuer are no longer managing capital. They are captives of it.
@@ -136,6 +135,7 @@ PHASE 5. EXIT
 The mandate is simple: transform trapped public value into redeployable private capital without triggering market decay. The technical threshold is 38 to 44 percent institutional LTV stability across a 180 day volatility band.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.

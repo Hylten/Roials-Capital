@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "portfolio-backed-liquidity-mechanics-modern-private-capital"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in private markets did not emerge from declining opportunity sets. It emerged from structural congestion created by regulatory tightening, higher base rates, and the retreat of traditional lenders from middle market exposures. The resulting distortion has made portfolio backed liquidity one of the most important instruments for allocators seeking to preserve operational continuity, accelerate add on sequencing, and reinforce balance sheet resilience without diluting strategic control.
@@ -154,4 +153,5 @@ The allocator who understands portfolio backed liquidity as a strategic instrume
 [END OF BRIEFING]
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

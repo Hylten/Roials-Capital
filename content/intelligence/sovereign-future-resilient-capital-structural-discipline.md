@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "sovereign-future-resilient-capital-structural-discipline"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North America’s energy sector is a consequence of regulatory drift, not resource depletion. This vacuum is now interacting with a global shift toward balance sheet hardening, reserve based recalibration, and institutionally enforced liquidity thresholds that shape allocator behavior more than nominal interest rates. The resulting architecture is a new strategic environment where sovereign oriented capital, private credit frameworks, and hard asset exposure converge into what can be defined as the Sovereign Future of capital stewardship. 

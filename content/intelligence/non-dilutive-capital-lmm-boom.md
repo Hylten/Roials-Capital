@@ -5,7 +5,6 @@ date: "2025-08-08"
 author: "ROIALS CAPITAL"
 slug: "non-dilutive-capital-lmm-boom"
 ---
-
 Non‑dilutive capital moves quiet. Moves fast. Moves where equity refuses to go. The lower‑mid market sits at the center. PE ownership tightens the discipline. Cashflow clarity. Covenant discipline. Operational truth.
 
 Institutional allocators see it. The demand curve bends upward. Not hype. Structure.

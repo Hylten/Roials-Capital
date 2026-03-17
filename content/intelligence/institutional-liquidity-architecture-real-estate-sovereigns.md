@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-liquidity-architecture-real-estate-sovereigns"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Institutional Liquidity Paths, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum affecting real estate sovereignties in 2026 is a product of liquidity migration and regulatory compression, not asset obsolescence. Sovereign-grade property portfolios remain structurally underleveraged, not because their income durability has weakened, but because their liquidity architecture has not evolved at the same velocity as market risk pricing. This creates an environment where the most stable property ecosystems appear distressed on paper while remaining fundamentally sound in cash generation and replacement cost positioning.
@@ -106,4 +105,5 @@ Roials Capital provides a confidential strategy audit for sovereign operators an
 [END INSTITUTIONAL BRIEFING]
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

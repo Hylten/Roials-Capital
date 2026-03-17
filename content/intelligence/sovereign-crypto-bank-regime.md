@@ -6,7 +6,6 @@ author: "Jonas Hyltén"
 slug: "sovereign-crypto-bank-regime"
 keywords: "kapitalanskaffning, oil and gas, private credit, Strategic Collateralization, asset hardening"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 A structural gap is widening beneath the feet of global allocators. Sovereigns are building balance sheets in real time using crypto rails while private markets remain anchored to settlement cycles designed for the 1970s. That gap is now a weapon. The institutions that master it gain asymmetric liquidity power. Everyone else will borrow it at a premium.
@@ -64,4 +63,5 @@ The institutional mandate is simple. Reduce liquidity latency to sub 180 seconds
 Request a confidential capital audit.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

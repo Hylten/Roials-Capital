@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "future-of-sovereign-capital-infrastructure"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North America’s energy sector is a consequence of regulatory drift, not resource depletion. This structural gap defines one of the clearest institutional dislocations of the current cycle and forms a central pillar of the future sovereign capital infrastructure landscape. The macro environment that institutional allocators must now navigate is characterized by capital scarcity in real-asset production systems, rising global sovereign allocation demands, and the transition from high liquidity regimes to disciplined balance sheet optimization. The result is a multi decade capital architecture reset where the allocator with superior operational intelligence can achieve strategic positioning rather than pursuit of isolated deals.
@@ -124,4 +123,5 @@ Roials Capital supports allocators through confidential strategy audits and port
 [END OF BRIEFING]
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

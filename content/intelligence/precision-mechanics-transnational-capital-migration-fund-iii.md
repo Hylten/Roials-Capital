@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL"
 slug: "precision-mechanics-transnational-capital-migration-Fund-III"
 keywords: "kapitalanskaffning, oil and gas, private credit, Strategic Collateralization, asset hardening"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 Transnational capital never travels randomly. It migrates through corridors shaped by regulatory gradients, institutional memory, cross‑jurisdictional asymmetries, and the physics of sovereign risk. The architecture required to capture, stabilize, and weaponize this migration for Fund‑III operations operates on mechanical precision. This brief details that precision. Not theory. Not abstractions. Mechanics. Friction points. Vectors. Force multipliers. Deployment rules. The intent is singular: expand Fund‑III’s raising velocity, enlarge institutional depth, and create predictable multi‑year capture cycles.
@@ -156,6 +155,7 @@ FINAL MANDATE
 Fund‑III must now tighten its capital architecture. Tighten its acquisition corridors. Tighten its liquidity mechanics. Tighten its energy posture. Execute with sovereign precision.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.

@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-frameworks-private-debt-origination"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Capital Structuring, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The structural gap defining private debt origination in 2026 is the direct result of regulatory divergence and capital flight from traditional credit markets, not a deterioration in underlying asset performance. This shift has created a predictable regime where institutional allocators with disciplined underwriting frameworks can access opportunities characterized by quantifiable collateral physics, transparent decline curves in energy, and operationally anchored cash flow structures across middle market buyouts.
@@ -130,4 +129,5 @@ A confidential strategy audit can identify alignment between the allocator’s m
 [END INSTITUTIONAL BRIEFING]
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

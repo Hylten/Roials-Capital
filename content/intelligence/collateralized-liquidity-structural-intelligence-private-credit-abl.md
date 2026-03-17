@@ -6,7 +6,6 @@ author: "Jonas Hyltén"
 slug: "collateralized-liquidity-structural-intelligence-private-credit-abl"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
 ---
-
 Order is not an option. It is the prerequisite for all solvency.
 
 [START INSTITUTIONAL BRIEFING]
@@ -90,6 +89,7 @@ PHASE 5. EXIT
 The sole metric that matters: liquidity coverage ratio must stabilize above 1.62 within 90 days of transaction close.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.

@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "sovereign-capital-architecture-multigenerational-liquidity"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion. This structural disconnect has created one of the most predictable multi-decade liquidity corridors in the institutional landscape. Allocators positioned to navigate it with disciplined underwriting and sovereign-grade balance sheet architecture are defining the next generation of durable wealth structures across Europe, North America, and the Gulf.

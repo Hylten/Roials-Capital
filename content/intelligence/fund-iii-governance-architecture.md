@@ -5,7 +5,6 @@ date: "2025-11-22"
 author: "ROIALS CAPITAL"
 slug: "Fund-III-governance-architecture"
 ---
-
 Governance scales only when the spine is built early.
 
 Late fixes break trust.

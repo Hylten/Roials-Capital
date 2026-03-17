@@ -6,7 +6,6 @@ author: "Jonas Hyltén"
 slug: "wealth-mobility-borderless-crypto-collateral"
 keywords: "kapitalanskaffning, private equity, Fund-III, ROIALS CAPITAL, 2026, Capital Structuring"
 ---
-
 [START INTELLIGENCE REPORT]
 
 THE MANDATE 
@@ -163,4 +162,5 @@ The mandate is clear. Borderless crypto collateral is not the future. It is the 
 [END INTELLIGENCE REPORT]
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

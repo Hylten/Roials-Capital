@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "legacy-hardening-structural-advantage"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion. This single structural fact underpins the institutional rediscovery of hard-asset income strategies and is reshaping the opportunity velocity across private markets. Legacy hardening is not a branding phrase. It is a balance sheet discipline that converts mature, long curve assets into durable multi cycle anchors within an allocator's portfolio architecture.
@@ -82,4 +81,5 @@ Legacy hardening is the advantage. Structural alignment is the execution. Instit
 [END OF BRIEFING]
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

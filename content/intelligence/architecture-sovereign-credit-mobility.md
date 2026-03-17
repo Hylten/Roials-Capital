@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL"
 slug: "architecture-sovereign-credit-mobility"
 keywords: "kapitalanskaffning, private credit, sovereign credit, Capital Structuring, asset hardening, buyouts"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 A sovereign balance sheet does not fail from lack of assets. It fails from lack of mobility.
@@ -109,6 +108,7 @@ PHASE 5: EXIT
 Fund-III targets mobility-adjusted IRR with a minimum cross-border collateral conversion velocity of 92 days.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.

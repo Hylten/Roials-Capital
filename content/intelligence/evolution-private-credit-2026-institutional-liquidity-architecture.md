@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "evolution-private-credit-2026-institutional-liquidity-architecture"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Asset-Backed Frameworks, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North America's private credit environment is a consequence of regulatory drift, not a contraction in productive assets. This structural gap has rewritten the institutional liquidity architecture for 2026 and has accelerated the shift toward off balance sheet credit creation by non bank entities. The allocators engaging this reengineered landscape are no longer pursuing yield curves. They are navigating operating regimes. Every decision point has shifted toward collateral integrity, cash flow stability, and the ability to deploy liquidity into real economy assets with definable recovery mechanics.
@@ -90,4 +89,5 @@ Roials Capital serves institutional allocators by providing a confidential strat
 [END OF BRIEFING]
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

@@ -6,7 +6,6 @@ author: "Jonas Hyltén"
 slug: "sovereign-liquidity-facility-precision-architecture"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 A sovereign balance sheet does not collapse due to a shortage of capital. It collapses due to a shortage of liquidity pathways. Most states fail not because they misallocated resources but because they misstructured their access points to funding channels. That structural gap is where institutional architecture determines national solvency.
@@ -130,4 +129,5 @@ Fund-III benefits when sovereign liquidity becomes a quantifiable asset. The fin
 Request a confidential capital audit.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

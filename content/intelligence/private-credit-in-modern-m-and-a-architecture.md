@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "private-credit-in-modern-m-and-a-architecture"
 keywords: "kapitalanskaffning, private credit, M&A architecture, alberta energy, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum shaping Western markets is the predictable consequence of regulatory compression, bank de-risking, and the declining risk appetite of traditional lenders. This vacuum is not a reflection of weaker assets. It is the structural outcome of shifts in Basel frameworks, European prudential governance, and North American reserve treatment. The modern gap is between what institutional buyers demand and what regulated lenders can underwrite. Private credit has become the dominant mechanism for resolving this misalignment.

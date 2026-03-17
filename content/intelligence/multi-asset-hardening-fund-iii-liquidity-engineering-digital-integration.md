@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "multi-asset-hardening-Fund-III-liquidity-engineering-digital-integration"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Institutional Liquidity Paths, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in multi asset markets is not a function of volatility, but a structural reclassification of usable collateral across institutional balance sheets. The shift is driven by Basel III endgame calibration, MiFID II reporting pressures, and the accelerated migration toward digital settlement primitives that institutional allocators previously treated as speculative. The regime change is now forcing allocators to reconsider what qualifies as hard collateral and what can be engineered into working liquidity without compromising governance, seniority, or operational clarity.
@@ -151,4 +150,5 @@ This architecture positions Fund-III for accelerated close cycles, higher operat
 [END INSTITUTIONAL BRIEFING]
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

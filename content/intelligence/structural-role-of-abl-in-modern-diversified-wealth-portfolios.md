@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "structural-role-of-abl-in-modern-diversified-wealth-portfolios"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North American asset markets is not a function of scarcity. It is the consequence of regulatory drift, institutional deleveraging cycles, and the withdrawal of traditional lenders from real economy credit. Within this environment, Asset Based Lending has re emerged as a stabilizing mechanism for allocators who require structured defensiveness, predictable collateral behavior, and precise liquidity pathways that operate independently of equity market sentiment. Modern diversified wealth portfolios increasingly rely on ABL not for yield, but for structural balance. It anchors the liquidity spine that enables efficient participation in buyout programs such as Fund-III, supports add on velocity, and creates a cross regime cushion in environments where allocators face compressed spreads, elongated exit cycles, and international allocation constraints.

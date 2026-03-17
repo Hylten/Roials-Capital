@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "calculcus-of-risk-private-credit"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEOCC"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North American and European private credit is not a function of reduced opportunity. It is the byproduct of regulatory realignment that has constrained traditional lenders while simultaneously expanding the demand for structured institutional debt. The result is a technical environment where risk is not elevated, but mispriced, and where allocators with the ability to operate across balance sheet structures are repositioning their mandates with greater precision and shorter feedback cycles.
@@ -109,4 +108,5 @@ Allocators seeking structured clarity on Fund-III capital formation, Asset-Based
 [END OF BRIEFING]
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

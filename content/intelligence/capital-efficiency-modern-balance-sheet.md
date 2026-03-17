@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "capital-efficiency-modern-balance-sheet"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Monetization Architecture, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North America’s energy sector is a consequence of regulatory drift, not resource depletion. This structural gap has created a parallel reality. Surface narratives still revolve around decarbonization cycles, while subsurface economics continue to reward operators with established decline curves, hard production histories, and predictable reservoir behavior. The divergence is measurable. It has become one of the most powerful sources of balance sheet optimization available to institutional allocators navigating the 2026 landscape.
@@ -109,4 +108,5 @@ Roials Capital supports allocators seeking disciplined clarity, technical accura
 [END OF BRIEFING]
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

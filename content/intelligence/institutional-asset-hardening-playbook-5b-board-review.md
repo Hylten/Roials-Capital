@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL"
 slug: "institutional-asset-hardening-playbook-5b-board-review"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 A $5B board review does not reward improvisation. It rewards engineered inevitability. Cold structure. Clean logic. Zero noise. The architecture must survive hostile diligence, cross-border scrutiny, and political variance. Asset hardening is the conversion of operational chaos into institutional-grade permanence. Capital follows structure. Structure follows intent. Intent requires sovereignty.
@@ -233,6 +232,7 @@ This briefing stands on one metric:
 Institutional Survivability Index = 0.87 or higher.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.

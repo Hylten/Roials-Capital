@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL"
 slug: "asset-based-liquidity-engineering-sovereign-mandate"
 keywords: "kapitalanskaffning, oil and gas, private credit, Strategic Collateralization, asset hardening"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 Asset‑based Strategic Collateralization is no longer an auxiliary credit function. It has matured into a primary sovereign mandate for institutional firms that operate across multi‑jurisdictional corridors, cross‑border tax regimes, and acquisition ecosystems tied to distressed, strategic, or energy‑weighted verticals. The transition from static collateralization to dynamic asset monetization is now a structural requirement for Fund‑III scale investors. The mandate is clear. Hard assets must speak. Hard assets must fund. Hard assets must move capital with the precision of an engineered instrument.
@@ -70,4 +69,5 @@ Confidential capital audit available upon request.
 Projected Liquidity Efficiency Index: 0.87.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

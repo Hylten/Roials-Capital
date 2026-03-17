@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL"
 slug: "institutional-grade-asset-hardening"
 keywords: "kapitalanskaffning, oil and gas, private credit, Strategic Collateralization, asset hardening"
 ---
-
 Order does not appear by accident. It is engineered through constraints, enforced through governance, and preserved by capital structures that cannot fracture under volatility.
 
 [START INSTITUTIONAL BRIEFING]
@@ -101,6 +100,7 @@ The hardened asset must hit a minimum 1.32 survival multiple under conservative 
 This is the institutional threshold.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.

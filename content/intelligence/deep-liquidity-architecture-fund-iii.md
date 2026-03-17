@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL"
 slug: "deep-liquidity-architecture-Fund-III"
 keywords: "kapitalanskaffning, oil and gas, private credit, Monetization Architecture, asset hardening"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 Deep liquidity architecture begins where ordinary capital strategy collapses. Illiquid markets compress visibility. They distort discount curves. They punish fragmented operators. Yet these markets carry the very traits institutional allocators pursue: asymmetry, defensibility, and enforced scarcity. The task is not to make the market liquid. The task is to architect access independent of the market’s liquidity cycle.
@@ -125,6 +124,7 @@ The window for Fund‑III is open. Capital is mobile. Liquidity is thin. Asymmet
 Provide the mandate.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.

@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "liquidity-engineering-bitcoin-family-offices"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Institutional Liquidity Paths, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The structural gap in global reserve architecture is no longer a function of commodity scarcity. It is a direct output of the post Basel III liquidity regime, where traditional collateral classes are losing elasticity while digital bearer assets like Bitcoin are becoming the de facto alternative reserve instrument for Family Offices operating between multi jurisdictional portfolios. This is a liquidity transformation cycle, not a speculative migration.
@@ -86,4 +85,5 @@ Roials Capital supports this process by providing institutional grade navigation
 [END INSTITUTIONAL BRIEFING]
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

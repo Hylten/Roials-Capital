@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "sovereign-asset-hardening-framework-for-growth"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion. Institutional allocators who treat this vacuum as a structural feature rather than a temporary dislocation are finding that the most durable returns do not originate from speculative themes but from assets already engineered for predictable operational trajectories.

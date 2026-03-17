@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL"
 slug: "borderless-collateral-regime-Fund-III"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 Structural arbitrage is no longer found in sector specialization. It is found in collateral mobility. The jurisdiction-free balance sheet now moves faster than regulatory consensus, and that velocity has fractured the old M&A regime. The firms that understand this gap will absorb market share. The firms that hesitate will become liquidity dependent. Order is not an option.
@@ -114,4 +113,5 @@ Liquidity depth ratio must exceed 0.78 to maintain acquisition readiness.
 Request a confidential capital audit.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

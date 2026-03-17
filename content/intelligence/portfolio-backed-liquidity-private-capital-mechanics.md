@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "portfolio-backed-liquidity-private-capital-mechanics"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The structural gap in North American private markets is a capital formation issue born from regulatory drift, institutional retrenchment, and the mispricing of middle market operating risk. Private issuers with strong asset bases operate inside a liquidity vacuum that is unrelated to asset quality or revenue resilience. This vacuum defines the modern regime for allocators who seek exposure to real operating cash flows without adopting unbounded venture style variance.
@@ -136,4 +135,5 @@ A confidential strategy audit or portfolio calibration session is typically the 
 [END OF BRIEFING]
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

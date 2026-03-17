@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "private-credit-modern-ma-architecture"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The liquidity imbalance in North American and European corporate markets is not a temporary condition. It is the predictable outcome of a regulatory cycle that increasingly restricts bank balance sheets while accelerating demand for precision capital capable of stabilizing acquisition pipelines. In 2026, the most reliable M&A velocity does not originate from corporate treasuries or syndicated lenders. It is driven by disciplined private credit structures that reinforce enterprise durability without distorting underlying cash flow physics.

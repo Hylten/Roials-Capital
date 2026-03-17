@@ -5,7 +5,6 @@ date: "2026-02-16"
 author: "ROIALS CAPITAL"
 slug: "naeoc-energy-transition-capital-architecture"
 ---
-
 Capital shifts when mandates harden. The NAEOC block has moved from advisory posturing to direct allocation signals, and the $50M.$250M segment is now the pressure valve. Mid-market operators cannot absorb the regulatory velocity alone. The institutional stack must carry them. That creates our window.
 
 The mandate is simple: credible energy-transition assets must demonstrate industrial reality, not environmental theater. Cashflow integrity. Measurable process efficiency. Clear path to multi-region compliance. Funds outside this discipline will be locked out of the corridor entirely. Fund-III strategies benefit because disciplined buyouts and add-ons already build from operational proof, not policy narratives.

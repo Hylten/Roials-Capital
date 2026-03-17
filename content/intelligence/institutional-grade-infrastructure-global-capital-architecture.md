@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-grade-infrastructure-global-capital-architecture"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Capital Structuring, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum across global private markets is a function of structural dislocation rather than asset scarcity. In 2026, allocators are navigating a domain where traditional liquidity channels have decoupled from real asset productivity. The outcome is a multi year environment where institutional grade infrastructure is no longer defined by geography or sector but by the precision of cross border balance sheet engineering.
@@ -100,4 +99,5 @@ Roials Capital provides institutional LPs and GPs with a confidential strategy a
 [END OF BRIEFING]
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

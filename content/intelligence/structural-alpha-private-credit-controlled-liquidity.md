@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "structural-alpha-private-credit-controlled-liquidity"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North American private credit is the result of covenant compression and regulatory displacement, not a deterioration of underlying asset quality. Allocators observing the current lending regime are identifying a persistent structural dislocation: liquidity is scarce in the segments where cash flow predictability is highest and capital discipline is most measurable. This asymmetry is creating a technical environment where controlled liquidity architecture drives structural alpha more reliably than traditional rate arbitrage.

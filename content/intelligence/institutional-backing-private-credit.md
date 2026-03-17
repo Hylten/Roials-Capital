@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-backing-private-credit"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Asset-Backed Frameworks, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The structural gap in private credit today is not driven by a shortage of opportunities. It is driven by the withdrawal of regulated lenders at the exact moment when lower middle market and mid market borrowers require stable, patient, institutionally governed capital. The capital vacuum has created a bifurcation between opportunistic lending and institutionally architected private credit platforms designed for duration reliability, underwriting visibility, and disciplined balance sheet optimization.
@@ -144,4 +143,5 @@ Roials Capital conducts confidential strategy audits for allocators seeking cali
 [END OF BRIEFING]
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

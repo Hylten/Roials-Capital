@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL"
 slug: "Fund-III-capital-raising-architecture"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 A structural gap defines the future of Fund-III capital formation. Most managers believe scale arrives from performance. Scale arrives from architecture. The firms that win are not the firms that outperform. They are the firms that institutionalise the inflow mechanics before the rest of the market recognises the deficit. Asset managers lose time through human drag, manual capital processes, and fractured allocator intelligence. That regime is collapsing.
@@ -77,4 +76,5 @@ PHASE 5: EXIT
 Fund-III allocators measure one final metric. Commitment efficiency ratio. A clean system targets 4 to 7 qualified LPs per 1 committed LP. Anything above 10 indicates systemic failure. Request a confidential capital audit.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

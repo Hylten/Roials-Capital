@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "sovereign-balance-sheet-engineering-Fund-III"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North American private markets is a structural output of regulatory drift, not a shortage of institutional capital. Sovereign allocators, pensions, and UHNW family institutions are simultaneously attempting to rebalance exposure toward real-assets with demonstrable cash-flow mechanics, yet the market architecture remains fragmented. This creates a highly specific opening for Fund-III managers who can deploy an engineered balance sheet rather than relying on conventional capital pools. The result is a new Institutional Archetype: the sovereign-aligned private equity platform that treats liquidity as a strategic resource rather than a commodity.

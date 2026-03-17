@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "strategic-liquidity-architecture-sovereign-uhnwi"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion. Allocation patterns across sovereign, pension, and UHNW portfolios continue to be dominated by equity beta and private credit constructs that overlook the most durable cash flows available in the continent. The structural mispricing of conventional and thermal-heavy assets in Alberta represents one of the most consistent disconnects between institutional capital behavior and resource geology.

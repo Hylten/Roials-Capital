@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL"
 slug: "silent-authority-modern-balance-sheet"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 Silent authority is not a stylistic choice. It is the operating layer beneath every capital‑intensive institution that survives past its first growth cycle. Balance sheets do not reveal it. Ledgers do not model it. Yet every decisive movement in buyout markets, structured liquidity windows, and regulated acquisition corridors stems from its presence or its absence. Proverbs 13:22 sets the trajectory: a good principal leaves an inheritance, but only the structurally fluent know how to convert that inheritance into scalable dominion. Institutional dominion is simply compounding expressed through governance, risk, and reach.
@@ -88,4 +87,5 @@ Request a confidential capital audit to determine your current authority delta.
 Terminal metric: 1.6x liquidity coverage ratio.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "risk-mitigation-sovereign-asset-structures"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North America’s strategic asset base is no longer cyclical. It is the structural outcome of regulatory deceleration, balance sheet repositioning by major institutions, and the divergence between sovereign reliability and private capital’s tightening hurdle rate. The result is a landscape where high-certainty asset classes require disciplined architectural frameworks rather than promotional narratives. Risk mitigation is now a function of structural design, not sentiment management.

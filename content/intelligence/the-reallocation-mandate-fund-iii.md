@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL"
 slug: "the-reallocation-mandate-Fund-III"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The Reallocation Mandate activates when structural pressures exceed historical comfort bands and when institutional capital requires repositioning toward asymmetric durability. Cycles tighten. Yield compresses. Demand spikes for engineered throughput. Movement is mandatory. Stillness is decay. The principal view is simple: reallocate or be reallocated.
@@ -148,4 +147,5 @@ Confidential capital audit required to initiate allocation bandwidth expansion.
 Target throughput ratio: 1.82x within 12 months.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

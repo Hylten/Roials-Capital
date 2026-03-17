@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "structural-alignment-multi-jurisdictional-asset-architectures"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift and balance sheet deleveraging cycles rather than resource depletion or geological decline. Institutional allocators evaluating multi jurisdictional asset strategies have increasingly reoriented toward structures that are less sensitive to sentiment and more dependent on mechanical recovery physics, cross border enforceability standards, and jurisdictional alignment between cash flow origin and collateral governance.

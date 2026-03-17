@@ -6,7 +6,6 @@ author: ROIALS CAPITAL
 slug: strategic-asset-allocation-long-term-liquidity
 keywords: kapitalanskaffning, oil and gas, private credit, Institutional Liquidity Paths, asset hardening
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 Durable capital is not an idea. It is an operating stance. A structural position. A sovereignty layer. Markets pivot. Cycles compress. Rates oscillate under political heat. But durable capital holds its ground because its architecture is engineered, not assumed. Strategic asset allocation is the blueprint. Liquidity is the enforcement mechanism. The institution is the vector.
@@ -210,4 +209,5 @@ Conviction reached.
 Provide confidential capital audit data to initiate structural mapping.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

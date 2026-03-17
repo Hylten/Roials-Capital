@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "structural-alignment-multi-jurisdictional-assets-Fund-III"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion. This vacuum has created an institutional-scale mispricing that becomes more pronounced when mapped across multiple legal jurisdictions and collateral regimes. Cross-jurisdictional asset platforms that combine Alberta heavy-oil physics with European balance sheet governance and U.S. private credit disciplines have emerged as the dominant archetype for Fund-III allocators who prioritize downside insulation and operational transparency.

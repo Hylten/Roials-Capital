@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "sovereign-future-resilient-capital"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North America’s energy sector is a consequence of regulatory drift, not resource depletion. Allocators operating in 2026 are confronting a structural misalignment between where institutional capital concentrates and where the most predictable, physics anchored cash flows remain accessible. This divergence is not cyclical. It is a regime shift that continues to reshape acquisition pricing, leverage availability, and the operational latitude available to disciplined buyers in Fund-III environments.

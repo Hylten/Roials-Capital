@@ -6,7 +6,6 @@ author: "Jonas Hyltén"
 slug: "strategic-asset-allocation-durable-capital"
 keywords: "kapitalanskaffning, oil and gas, private credit, Capital Structuring, asset hardening"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 A liquidity shortage always begins as a structural illusion. The market believes capital is available. It is not. The spread between perceived liquidity and actual callable liquidity has widened to its largest point in fourteen years. That gap is the hinge on which the next decade of private capital will turn.
@@ -122,4 +121,5 @@ Survival Horizon Ratio: 1.0 indicates fragility. 1.6 indicates institutional str
 Request a confidential capital audit.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

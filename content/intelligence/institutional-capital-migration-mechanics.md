@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-capital-migration-mechanics"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Strategic Collateralization, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North America’s productive asset base is a function of regulatory drift, institutional overconcentration, and a structural mispricing of long duration real assets. This vacuum has become the primary driver of institutional capital migration since 2020, reshaping how allocators interpret risk, seniority, and durability across the capital stack. The pattern is consistent across private equity, private credit, and North American energy. Capital is not chasing returns. Capital is exiting fragility.
@@ -124,4 +123,5 @@ Capital migration clarifies where value is forming. Strategic alignment clarifie
 [END INSTITUTIONAL BRIEFING]
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

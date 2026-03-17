@@ -5,7 +5,6 @@ date: "2025-12-15"
 author: "ROIALS CAPITAL"
 slug: "operational-alpha-add-on-architecture"
 ---
-
 The pivot is not philosophical. It is structural. Add‑on strategies across Fund‑III and Fund‑IV vintages have entered a new jurisdiction of scrutiny-first by Limited Partners, then by regulators, then by the internal conscience of any competent GP who understands the state of the market. The age of easy compression, reflexive refinancing, or abstracted multiple expansion has ended. The world did not “shift”; it hardened. It clarified. It exposed the GPs who relied on arithmetic instead of architecture.
 
 Operational alpha is now the currency. Hard. Measurable. Non-negotiable.

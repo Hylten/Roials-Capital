@@ -5,7 +5,6 @@ date: "2025-12-07"
 author: "ROIALS CAPITAL"
 slug: "principal-hybrid-credit-rollup-architecture"
 ---
-
 A roll-up only works when liquidity is faster than fragmentation. That is the governing law. Miss the tempo and the target set hardens. Meet it, and the market submits.
 
 Hybrid credit makes the tempo.

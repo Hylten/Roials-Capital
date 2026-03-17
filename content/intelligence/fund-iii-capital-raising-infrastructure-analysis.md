@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL, Principal Investigator"
 slug: "Fund-III-capital-raising-infrastructure-analysis"
 keywords: "kapitalanskaffning, oil and gas, private credit, Institutional Liquidity Paths, asset hardening"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 Institutional allocators evaluate Fund‑III readiness through structural coherence, governance tension‑bands, and the allocator‑to‑platform distance in capital flow friction. Fund‑III is the first maturity inflection where GP identity stabilizes. After Fund‑II, allocator expectations shift. They expect infrastructure, not narrative. They expect a capital‑raising machine, not a founder‑led funnel. They expect repeatability, modularity, data discipline, and sovereign‑level compliance posture. They expect the GP to demonstrate interjurisdictional advantage, not jurisdictional improvisation.
@@ -189,7 +188,6 @@ The GP must operate:
 Institutional Liquidity Paths increases survivability. Survivability increases allocator trust. Trust compounds into commitment expansion.
 
 ---
-
 Asset-Based Lending: Institutional Liquidity Paths TIER
 
 The Asset-Based Lending layer functions as shock absorber. Risk damper. Cash continuity engine.
@@ -253,7 +251,9 @@ A GP with institutional psychology moves differently. Speaks differently. Builds
 
 
 
-## THE FUND‑III Hierarchical Dynamics
+## THE FUND‑III
+
+Hierarchical Dynamics
 
 Allocators assign Fund‑III status based on the delta:
 
@@ -337,4 +337,5 @@ For confidential capital audit, submit allocation parameters and jurisdictional 
 Throughput Resilience Index: 0.92
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

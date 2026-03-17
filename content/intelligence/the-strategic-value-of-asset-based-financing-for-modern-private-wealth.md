@@ -6,7 +6,6 @@ author: "Jonas Hyltén"
 slug: "the-strategic-value-of-asset-based-financing-for-modern-private-wealth"
 keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
-
 # The Strategic Value of Asset Based Financing
 
 Asset based financing has become the quiet architecture behind modern private wealth strategy.
@@ -18,4 +17,5 @@ For High Net Worth and Ultra High Net Worth individuals, liquidity is not a basi
 Set correctly, it becomes an instrument of control.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

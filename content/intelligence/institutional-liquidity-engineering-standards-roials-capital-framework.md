@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-liquidity-engineering-standards-ROIALS CAPITAL-framework"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Institutional Liquidity Paths, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North American private markets is the predictable outcome of regulatory compression, institutional risk aversion, and the retreat of traditional lenders from structurally sound middle market transactions. This vacuum is not a signal of deteriorating asset quality. It reflects a misalignment between liquidity supply and operational demand across the Fund-III archetype, where acquisition velocity, platform integration, and balance sheet normalization require a form of liquidity that traditional credit channels cannot deliver with precision.
@@ -131,4 +130,5 @@ Roials Capital operates as a navigator within this landscape, equipping decision
 [END INSTITUTIONAL BRIEFING]
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

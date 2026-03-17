@@ -6,7 +6,6 @@ author: "Jonas Hyltén"
 slug: "precision-financing-for-institutional-projects"
 keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
-
 # Precision Financing for Institutional Projects
 
 Institutional projects require a level of accuracy that is non‑negotiable.
@@ -27,7 +26,9 @@ We do not force attention.
 
 We hold it.
 
-## The Architecture Is Yours. The Engineering Is Ours.
+## The
+
+Architecture Is Yours. The Engineering Is Ours.
 
 ROIALS CAPITAL builds Strategic Collateralization structures that give clients the freedom to execute.
 
@@ -44,4 +45,5 @@ This is precision financing.
 This is ROIALS CAPITAL.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

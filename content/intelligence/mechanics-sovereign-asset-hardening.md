@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "mechanics-sovereign-asset-hardening"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Institutional Liquidity Paths, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North America is not a cyclical dislocation. It is a structural consequence of policy inertia, institutional withdrawal, and regression to over regulated capital frameworks. This vacuum has produced an environment where Sovereign Asset Hardening has shifted from a niche specialist discipline to a foundational requirement for allocators responsible for long duration capital. The allocator operating in 2026 is navigating an economic order shaped less by asset availability and more by capital access asymmetries and the velocity of regulatory recalibration.
@@ -108,4 +107,5 @@ Roials Capital provides confidential Strategy Audits and Portfolio Calibration e
 [END INSTITUTIONAL BRIEFING]
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL"
 slug: "new-liquidity-standard-uhnw-private-credit"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 UHNW portfolios fail at one point: liquidity asymmetry. Not solvency. Not asset quality. Liquidity. Slow liquidity. Mispriced liquidity. Liquidity trapped inside structures that were never architected for cross‑cycle shocks. The past decade rewarded inertia. The next decade won’t. Institutional private credit now replaces traditional liquidity reserves. Not as a hedge. As armor. Structural armor. Strategic armor. Cycle‑proof armor.
@@ -112,6 +111,7 @@ The new liquidity standard is not theoretical. It is operational. It is measurab
 Private credit is not a product. It is infrastructure. Liquidity infrastructure. Portfolio armor. Acquisition engine. Sovereign tool. Principal tool. The standard for all serious operators.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit to benchmark your current liquidity architecture against institutional standards.

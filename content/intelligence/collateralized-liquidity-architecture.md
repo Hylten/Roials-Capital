@@ -6,7 +6,6 @@ author: "Jonas Hyltén"
 slug: "collateralized-liquidity-architecture"
 keywords: "kapitalanskaffning, oil and gas, private credit, Strategic Collateralization, asset hardening"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 A liquidity system collapses when the collateral stack is misaligned with the cash cycle. This is the structural gap that quietly erodes private credit portfolios. The market still behaves as if liquidity is linear. It never is. Liquidity is hierarchical, time sensitive, collateral dependent. Most funds ignore this. That is the failure mechanism.
@@ -131,4 +130,5 @@ A facility that recovers within 47 days or less outperforms the entire private c
 For a confidential capital audit, initiate contact.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

@@ -5,14 +5,14 @@ date: "2025-12-15"
 author: "ROIALS CAPITAL"
 slug: "institutional-case-add-on-consolidation-fragmented-technical-services"
 ---
-
 The center of gravity in technical services is shifting. Fragmented markets are not inefficiencies; they are unclaimed sovereignties. Add‑on consolidation is the mechanism through which a disciplined operator converts operational disorder into institutional-grade cash flow. The dynamics are mechanical, predictable, and asymmetric. Professional investors know this. They also know what follows: whoever controls the add‑ons controls the multiple.
 
 Control the perimeter. Control the outcome.
 
 ---
+## The
 
-## The Operational Architecture
+Operational Architecture
 
 Most technical-services verticals-HVAC, industrial maintenance, fire & life safety, metering technologies, specialized testing, pipeline integrity, marine industrials, and heavy‑equipment field support-are structurally identical beneath the debris of local variance. Surface chaos. Underlying order. Predictable cash‑flow trajectories.
 

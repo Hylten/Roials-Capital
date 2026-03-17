@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "sovereign-capital-silent-authority-modern-financing"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North America’s middle market is not the result of a shortage of assets. It is the consequence of sovereign capital ascending as the stabilizing authority within global financing. The shift has reordered priority, liquidity formation, and institutional behavior. After 2020, traditional credit creation mechanisms no longer determine opportunity velocity. Sovereign balance sheets determine it. Understanding this progression is no longer optional for allocators operating within buyout environments, private credit structures, or hard-asset energy positions.

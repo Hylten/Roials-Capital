@@ -6,7 +6,6 @@ author: "Jonas Hyltén"
 slug: "principal-architecture-capital-preservation"
 keywords: "kapitalanskaffning, oil and gas, private credit, Strategic Collateralization, asset hardening"
 ---
-
 A structural gap defines the current investment regime. Most managers still behave as if capital protection is a byproduct of portfolio growth. It is not. Preservation is engineered. It is built through covenant geometry, cash-flow sequencing, and a theology of capital that forbids waste. The institutions that ignore this gap weaken. The ones that internalize it compound.
 
 Order is not an option.
@@ -79,4 +78,5 @@ Preservation begins at underwriting. It ends in realized mathematics.
 Request a confidential capital audit.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

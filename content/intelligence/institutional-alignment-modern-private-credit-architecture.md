@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-alignment-modern-private-credit-architecture"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Monetization Architecture, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The structural gap between capital availability and operational demand in modern private credit is not a product of cyclical contraction. It is a consequence of institutional recalibration after fifteen years of mispriced risk, compressed covenants, and the withdrawal of conventional lenders under heightened regulatory intensity. The outcome is a market defined by a scarcity of disciplined capital rather than a scarcity of viable borrowers. This is the defining condition that informs all current discussions on alignment, portfolio construction, and the repositioning of private credit within institutional mandates for 2026 to 2032.
@@ -163,4 +162,5 @@ The institutional progression from preliminary review to calibrated engagement o
 [END INSTITUTIONAL BRIEFING]
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-liquidity-engineering-ROIALS CAPITAL-framework"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Strategic Collateralization, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The dislocation between balance sheet needs and institutional credit availability in 2026 is not a function of elevated risk profiles. It is a function of regulatory sequencing and the structural withdrawal of conventional lenders from middle market credit. This vacuum has created a durable space for engineered liquidity structures that operate inside measurable collateral parameters rather than pro forma narratives. The consequence is a market where capital discipline outperforms capital abundance and where Monetization Architecture has become a primary mechanism for institutional stability rather than an opportunistic side instrument.
@@ -131,4 +130,5 @@ Roials Capital functions as a calibration partner in this process. The objective
 [END OF BRIEFING]
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

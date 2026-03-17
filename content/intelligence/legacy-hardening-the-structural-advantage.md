@@ -6,7 +6,6 @@ author: "Jonas Hyltén"
 slug: "legacy-hardening-the-structural-advantage"
 keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
-
 # Legacy Hardening: The Structural Advantage
 
 Legacy is not a passive artifact.
@@ -31,7 +30,9 @@ This is legacy hardening.
 
 This is structural advantage. 
 
-## The Architecture of Multi-Generational Control
+## The
+
+Architecture of Multi-Generational Control
 
 Legacy is not the transfer of wealth.
 
@@ -55,7 +56,9 @@ Silence.
 
 Durability. 
 
-## The Future of Institutional Liquidity Paths
+## The
+
+Future of Institutional Liquidity Paths
 
 We are moving into an era where liquidity will define competitive advantage more than yield.
 
@@ -76,4 +79,5 @@ ROIALS CAPITAL builds that future today.
 # Request confidential audit
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

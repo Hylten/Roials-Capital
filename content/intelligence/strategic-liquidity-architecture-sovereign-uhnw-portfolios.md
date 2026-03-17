@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "strategic-liquidity-architecture-sovereign-uhnw-portfolios"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North America's energy sector is a function of regulatory drift and institutional withdrawal rather than any decline in underlying asset quality. The result is a multi year dislocation where balance sheet constrained operators control long lived conventional reserves while institutional lenders continue to restrict exposure due to policy conditioned risk perception. In parallel, sovereign allocators and ultra high net worth principals are navigating a global regime shift where liquidity premiums, structural seniority, and operational transparency hold more relevance than nominal yield targets. Strategic liquidity architecture has therefore evolved into a discipline of capital routing rather than capital deployment.

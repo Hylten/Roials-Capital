@@ -6,7 +6,6 @@ author: "Jonas Hyltén"
 slug: "sovereign-balance-sheet-liquidity-architecture"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 A sovereign balance sheet fails not from lack of assets but from lack of hierarchy. Structural hierarchy is the first discipline of institutional durability. Without hierarchy, capital leaks. With hierarchy, capital compounds.
@@ -119,6 +118,7 @@ Capital leaving the portfolio must exit with structural dignity. The final metri
 Time to cash conversion: 71 days.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.

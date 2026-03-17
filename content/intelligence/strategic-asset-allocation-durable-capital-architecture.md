@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "strategic-asset-allocation-durable-capital-architecture"
 keywords: "kapitalanskaffning, private equity, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North American energy and mid market private credit is the cumulative result of regulatory inertia, institutional over diversification, and an asset selection framework that has not been recalibrated since 2017. This distortion is not transient. It is structural. The allocators who adapt their strategic allocation models to these conditions achieve durability not through velocity, but through disciplined architecture of capital, cash flow, and liquidity.

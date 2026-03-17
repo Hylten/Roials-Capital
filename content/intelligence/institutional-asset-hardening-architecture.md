@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL"
 slug: "institutional-asset-hardening-architecture"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"
 ---
-
 A structural gap always reveals itself first in recovery math. When the asset base cannot carry the velocity of the mandate, the institution fractures. When the institution fractures, capital retreats. Most GPs misdiagnose this. They blame markets. They blame cycles. The truth is simpler. Their infrastructure was not built for institutional load.
 
 Order is not an option.
@@ -84,6 +83,7 @@ PHASE 5. EXIT
 We close with one controlling metric. Hardened infrastructure lowers loss severity by 32 to 47 percent across mid market control buyouts. LPs recognize this. They act on it.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.

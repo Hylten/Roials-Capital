@@ -6,7 +6,6 @@ author: "Jonas Hyltén"
 slug: "institutional-playbook-capital-preservation-2026"
 keywords: "kapitalanskaffning, private equity, Fund-III, ROIALS CAPITAL, 2026, liquidity engineering"
 ---
-
 [START INTELLIGENCE REPORT]
 
 1. THE MANDATE: DEFINING THE STRUCTURAL REALITY OF CAPITAL PRESERVATION
@@ -190,4 +189,5 @@ This is the playbook. The principal must choose how to deploy it.
 [END INTELLIGENCE REPORT]
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "architecture-of-institutional-trust"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Capital Structuring, asset hardening, NAEOCC"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion. This singular fact illustrates the broader theme that governs institutional trust: allocators rely on structural clarity rather than narrative momentum. In an era defined by capital rationing, heightened regulatory friction, and cross border compliance burdens, trust is no longer a reputational attribute. Trust operates as a technical architecture that can be engineered, stress tested, and verified.
@@ -131,4 +130,5 @@ A confidential Strategy Audit provides allocators with a neutral diagnostic on c
 [END OF BRIEFING]
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

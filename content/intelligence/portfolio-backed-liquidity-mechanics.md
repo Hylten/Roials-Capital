@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "portfolio-backed-liquidity-mechanics"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Asset-Backed Frameworks, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North American private markets is not a function of asset scarcity. It is the cumulative result of regulatory tightening, balance sheet contraction, and a decade of institutional preference for duration that pushed liquidity formation to the margins. Modern private capital allocators face a structural gap. Liquidity has become a competitive differentiator rather than an assumed utility. The shift has created an environment where portfolio backed liquidity functions as a balance sheet technology rather than a transactional accessory.
@@ -79,4 +78,5 @@ Allocators, GPs, and institutional partners seeking a detailed mapping of liquid
 [END OF BRIEFING]
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

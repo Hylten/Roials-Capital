@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "sovereign-capital-deployment-strategies-institutional-wealth"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion. This vacuum is reshaping the institutional architecture of sovereign-scale capital deployment. Allocators operating at the sovereign and ultra institutional tier are increasingly repositioning toward sectors where structural inefficiencies can be converted into durable cash-flow visibility. The most counter intuitive development of 2026 is that the lowest volatility profiles are found not in over-financialized renewables, but in conventional heavy oil reservoirs supported by thirty year decline curves, predictable thermodynamic behavior, and underleveraged balance sheets.

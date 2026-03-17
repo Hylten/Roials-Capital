@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "mechanics-of-institutional-capital-migration"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum shaping North American hard-asset sectors is a direct function of institutional regulatory drift rather than any degradation in underlying asset productivity. Over the last five cycles, allocators have executed a predictable migration pattern driven by compliance frameworks, liquidity constraints, currency blocks, and the structural gravitational pull of cash-flow certainty. The result is a bifurcation: abundant capital in benchmarked index strategies and a chronic shortage of institutional capital in sectors with long-dated fundamentals but operational complexity.
@@ -106,4 +105,5 @@ This dialogue is not a solicitation. It is a structural assessment designed to m
 [END INSTITUTIONAL BRIEFING]
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

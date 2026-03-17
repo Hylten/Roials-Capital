@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "institutional-capital-migration-architecture"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Asset-Backed Frameworks, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North America’s energy system is a consequence of regulatory drift and institutional divestment inertia, not resource depletion. This single structural reality is now influencing the broader institutional allocation cycle across all private markets. Capital migration has entered a new regime defined by operational scarcity, regulatory fragmentation, balance sheet deterioration in legacy sponsors, and an increasing preference for hard collateral over narrative driven growth.
@@ -141,4 +140,5 @@ For allocators requiring deeper visibility into Fund‑III readiness, Asset-Base
 [END OF BRIEFING]
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

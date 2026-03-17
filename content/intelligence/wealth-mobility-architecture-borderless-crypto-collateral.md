@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "wealth-mobility-architecture-borderless-crypto-collateral"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in cross border M and A is not driven by a shortage of liquidity. The constraint is the institutional difficulty of transforming wealth into mobility without diluting regulatory compliance, balance sheet integrity, or interbank settlement standards. A new regime has emerged where borderless digital collateral can be engineered to support institutional grade acquisitions without violating the disciplined principles that govern private credit, GP underwriting, or sovereign regulatory frameworks.

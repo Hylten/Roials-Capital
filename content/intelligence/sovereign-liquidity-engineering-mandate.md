@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL"
 slug: "sovereign-liquidity-engineering-mandate"
 keywords: "kapitalanskaffning, oil and gas, private credit, Capital Structuring, asset hardening"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 Fund-III Principals operate inside a structural paradox: capital abundance on the macro, capital fragmentation on the micro. Noise everywhere. True liquidity nowhere. Asset-Based Capital Structuring restores order. It reasserts the Sovereign Mandate. Not advisory. Not credit. Architecture. The repositioning of assets into engineered liquidity corridors that compress time, expand optionality, and weaponize Stewardship as an institutional force multiplier.
@@ -136,6 +135,7 @@ Authority. Control. Sovereignty.
 This is the architecture that elevates Fund-III from successful to unstoppable.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.

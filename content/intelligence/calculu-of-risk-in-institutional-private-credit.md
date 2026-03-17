@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "calculu-of-risk-in-institutional-private-credit"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Capital Structuring, asset hardening, NAEOCC"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North American private credit is the predictable outcome of regulatory fragmentation and institutional retrenchment rather than a deterioration in asset quality. The shift has triggered a reordering of risk, where the relative safety of an exposure is no longer defined by conventional ratings logic but by structural positioning, collateral physics, and the discipline of cash flow predictability. This is the environment in which institutional private credit has evolved into an allocation category governed less by sentiment and more by operational intelligence and balance sheet engineering.
@@ -158,4 +157,5 @@ Roials Capital provides confidential strategy audits and portfolio calibrations 
 [END OF BRIEFING]
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

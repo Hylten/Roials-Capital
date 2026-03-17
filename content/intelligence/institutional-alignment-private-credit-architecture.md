@@ -6,7 +6,6 @@ author: "Jonas Hyltén"
 slug: "institutional-alignment-private-credit-architecture"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 A structural gap defines this cycle: capital velocity has outpaced covenant integrity. Allocation committees feel it first. Execution teams see it next. Borrowers pretend not to notice until liquidity decay exposes the flaw. The gap widens in every jurisdiction where yield engineering is treated as innovation instead of responsibility. Order is not an option.
@@ -92,6 +91,7 @@ Order is measured at exit. If the system produced discipline, the exits will be 
 The final metric is the capital integrity ratio: the percentage of fund cash flows that behave according to their original underwriting assumptions. High performing funds operate at 92 percent or higher. Anything below 85 percent signals structural misalignment. Anything below 80 percent signals systemic failure.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.

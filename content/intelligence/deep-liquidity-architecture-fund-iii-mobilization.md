@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL | Principal Investigator"
 slug: "deep-liquidity-architecture-Fund-III-mobilization"
 keywords: "kapitalanskaffning, oil and gas, private credit, Strategic Collateralization, asset hardening"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 A deep-liquidity architecture never emerges from tactical capital raising. It emerges from jurisdictional engineering, structural asymmetry, and the control of velocity points across the GP-LP continuum. Fund‑III requires this posture. Not incremental. Not adaptive. Engineered. Predetermined. Forced into existence through design rather than solicitation.
@@ -82,7 +81,6 @@ Through structural depth.
 Institutional LPs do not chase returns. They chase certainty mechanisms. They chase governance. They chase control frames. Fund‑III must demonstrate all three with surgical precision.
 
 ---
-
 Strategic Collateralization (10% FOCUS): THE Asset-Based Lending INFRASTRUCTURE
 
 Asset-Based Lending exists to compress time.
@@ -171,7 +169,9 @@ Not spontaneity.
 
 
 
-## INSTITUTIONAL Hierarchical Dynamics: RE‑POSITIONING FUND‑III
+## INSTITUTIONAL
+
+Hierarchical Dynamics: RE‑POSITIONING FUND‑III
 
 The Hierarchical Dynamics of a GP determines the allocation depth of an LP. Institutional allocators measure not just performance, but the perceived permanence of the manager. Fund‑III must materially upgrade GP status across five axes:
 
@@ -290,4 +290,5 @@ Fund‑III becomes inevitable.
 Technical Metric: Target 1.62x Net‑Liquidity Coverage Ratio across all Fund‑III hard‑asset pools.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

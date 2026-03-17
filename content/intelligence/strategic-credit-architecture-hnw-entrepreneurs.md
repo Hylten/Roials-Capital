@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "strategic-credit-architecture-hnw-entrepreneurs"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North America’s energy sector is a consequence of regulatory drift, not resource depletion. This condition has accelerated a broader regime shift in private credit where traditional balance sheet models no longer match the liquidity demands of high performing operating groups. High net worth entrepreneurs who operate across transactional, asset backed, or acquisition driven strategies are now required to navigate a financial architecture that prioritizes structural resilience, not historical deal flow volume.

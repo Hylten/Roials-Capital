@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "structural-alpha-liquidity-engineering-engineered-reliability"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North American energy is a consequence of regulatory drift, not resource depletion. This dislocation has triggered a secondary structural phenomenon: balance sheets with high quality collateral sets are unable to access liquidity proportional to their intrinsic asset reliability. It is within this gap that asset based liquidity engineering operates with repeatable precision. The institutional allocator evaluating Fund-III buyout mechanics, European MiFID II acquisition mandates, or North American energy operating companies is navigating the same structural tension. Capital constraints are no longer driven by asset weakness but by compliance throttling, underwriting rigidity, and the misalignment between real asset durability and legacy credit models.

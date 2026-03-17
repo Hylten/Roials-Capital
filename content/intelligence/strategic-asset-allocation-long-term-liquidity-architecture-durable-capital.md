@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "strategic-asset-allocation-long-term-liquidity-architecture-durable-capital"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum shaping North American and European private markets in 2026 is a function of regulatory overcorrection and balance sheet contraction. It is not a reflection of asset scarcity or operational deterioration. Institutional allocators recalibrating for multi-cycle durability are rediscovering a fundamental principle: capital resilience is built on structural alignment rather than thematic fashion. Liquidity is no longer a derivative of market momentum but an engineered outcome derived from disciplined architecture.

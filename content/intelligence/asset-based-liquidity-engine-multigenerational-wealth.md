@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL"
 slug: "asset-based-liquidity-engine-multigenerational-wealth"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"
 ---
-
 The structural premise is simple. Wealth persists only when it detaches from the operating life of the founder and attaches to the asset life of the enterprise. Liquidity is the hinge. Architecture is the discipline. Multi‑generational continuity requires a financial chassis that compounds through stress, policy cycles, demographic rotations, and jurisdictional asymmetry. Asset‑based Monetization Architecture delivers that chassis. It is the single most predictable engine of inter‑generational durability in institutional finance.
 
 The thesis is direct. Capital scarcity is manufactured. Liquidity, however, is engineered. The families and institutions that understand this distinction produce dynastic longevity. Those that do not, dissolve. Proverbs 13:22 states: A good man leaves an inheritance to his children’s children. Modern institutional structure translates that sentence into collateral, cashflow, and covenant design.
@@ -109,4 +108,5 @@ Confidential capital audit available on request.
 Mandate threshold: DSCR > 1.35x.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

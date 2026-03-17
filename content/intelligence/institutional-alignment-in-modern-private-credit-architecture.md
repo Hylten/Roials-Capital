@@ -6,7 +6,6 @@ author: "Jonas Hyltén"
 slug: "institutional-alignment-in-modern-private-credit-architecture"
 keywords: "private credit, asset based Asset-Backed Frameworks, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
-
 # Institutional Alignment in Private Credit Strategy
 
 Institutional alignment in private credit is not a matter of preference. It is a matter of structural integrity.
@@ -21,7 +20,9 @@ This article outlines how alignment is engineered. It also clarifies how private
 
  
 
-## Governance as the Ultimate Differentiator
+## Governance as the
+
+Ultimate Differentiator
 
 The final pillar of institutional alignment is governance. Governance determines how the entire architecture operates under pressure.
 
@@ -44,4 +45,5 @@ ROIALS CAPITAL builds these systems deliberately. The thresholds are intentional
 For HNWI and UHNW individuals, alignment is not optional. It is the only way to ensure that credit functions as an asset rather than a liability.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

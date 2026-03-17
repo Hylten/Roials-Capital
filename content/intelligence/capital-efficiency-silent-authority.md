@@ -6,7 +6,6 @@ author: "Jonas Hyltén"
 slug: "capital-efficiency-silent-authority"
 keywords: "kapitalanskaffning, oil and gas, private credit, liquidity engineering, asset hardening"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 Structural gaps do not announce themselves. They sit beneath the balance sheet, quiet, unnoticed, distorting capability without ever making a sound. Capital efficiency breaks long before a company feels liquidity stress. The fracture always begins earlier. It begins when assets stop speaking in ratios and start whispering in constraints.
@@ -111,4 +110,5 @@ PHASE 5: EXIT
 Capital authority is measured in basis points gained through collateral discipline, not in narratives. Silent efficiency wins. The mandate is clear. Conduct the confidential capital audit.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

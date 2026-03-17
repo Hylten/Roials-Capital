@@ -5,7 +5,6 @@ date: "2026-03-04"
 author: "ROIALS CAPITAL"
 slug: "institutional-lps-unlevered-return-recalibration-Fund-III"
 ---
-
 The pressure is real.
 
 Quiet. Relentless. Mathematical.
@@ -17,8 +16,9 @@ This is where hierarchy forms.
 This is where the weak fracture.
 
 ---
+## The
 
-## The Return Recalibration
+Return Recalibration
 
 The shift began years ago, but most GPs only noticed it when they saw the subtle tightening in LP diligence memos. Not louder. Sharper. Pension funds, sovereign pools, and insurance allocators have stopped rewarding “decorated leverage stories”. They want operational yield, not leverage‑inflated IRR. They want covenant‑aware execution, not market‑beta exposure wrapped in buyout packaging. They want durability.
 
@@ -236,5 +236,4 @@ A Principal builds to this.
 A Principal never hides from the architecture.
 
 ---
-
 Request confidential capital audit.

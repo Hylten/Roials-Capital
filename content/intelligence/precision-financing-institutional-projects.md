@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "precision-financing-institutional-projects"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North American and European private markets is driven by regulatory drift, liquidity fragmentation, and mismatched allocator time horizons. It is not a reflection of deteriorating fundamentals. The institutions that recognize this gap are positioning for structural advantage. Precision financing has emerged as the central discipline for allocators who require predictable execution across buyouts, add ons, and energy infrastructure. The shift is defined by the migration from generalized capital raising to institutionally segmented mandates engineered around asset class physics, jurisdictional constraints, and balance sheet architecture.

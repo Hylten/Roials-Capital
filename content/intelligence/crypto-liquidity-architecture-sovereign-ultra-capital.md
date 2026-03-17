@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL"
 slug: "crypto-liquidity-architecture-sovereign-ultra-capital"
 keywords: "kapitalanskaffning, oil and gas, private credit, Asset-Backed Frameworks, asset hardening"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 Fragmentation in crypto liquidity is not a technology flaw. It is a structural vacuum created by institutions that have not yet imposed order. That vacuum rewards the entity that architects the rails instead of trading on them.
@@ -140,6 +139,7 @@ PHASE 5. EXIT
 The mandate is precise. Construct a liquidity architecture with a collateral efficiency ratio of 0.74 or higher and a 92 percent execution predictability across jurisdictions.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.

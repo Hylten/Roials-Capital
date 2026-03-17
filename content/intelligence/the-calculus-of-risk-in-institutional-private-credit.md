@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "the-calculus-of-risk-in-institutional-private-credit"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North American and European private credit is not a consequence of risk escalation. It is the product of regulatory drift that has structurally constrained traditional lenders while simultaneously expanding the operational demands of mid market and upper mid market corporates. The divergence between real economy financing requirements and the regulated banking balance sheet is now a predictable regime rather than a cyclical deviation. Institutional allocators evaluating Fund-III structures, buyout support facilities, and cross border credit exposures are operating inside a recalibrated environment where risk is no longer a function of asset volatility alone but a function of liquidity architecture, information asymmetry, and collateral transparency.

@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "strategic-value-asset-based-financing-private-wealth"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, liquidity engineering, asset hardening, NAEO"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum shaping North American and European private markets is the predictable outcome of duration mispricing, regulatory recalibration, and institutional retreat, not of declining asset quality. Asset Based Financing has emerged as a stabilizing mechanism within this regime shift, providing private wealth holders and institutional allocators a disciplined tool for liquidity engineering, portfolio recalibration, and acquisition sequencing. What was once a specialist instrument for working capital optimization has become a strategic anchor for modern UHNW balance sheets and for GP platforms scaling through Fund-III and beyond.

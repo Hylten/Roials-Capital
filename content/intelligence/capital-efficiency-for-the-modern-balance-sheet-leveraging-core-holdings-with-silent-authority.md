@@ -6,7 +6,6 @@ author: "Jonas Hyltén"
 slug: "capital-efficiency-for-the-modern-balance-sheet-leveraging-core-holdings-with-silent-authority"
 keywords: "private credit, asset based Strategic Collateralization, liquidity, HNWI, UHNW, ROIALS CAPITAL"
 ---
-
 # Capital Efficiency: Leveraging Core Holdings
 
 Capital efficiency is no longer a preference for high net worth and ultra high net worth individuals. It is structural infrastructure. It determines how liquidity behaves inside portfolios that are already capital dense.
@@ -19,7 +18,9 @@ Private credit. Asset based Capital Structuring. Crypto Institutional Liquidity 
 
 This article maps the foundation of capital efficiency at the UHNW scale. It shows how core holdings become liquidity engines when paired with the correct Asset-Backed Frameworks architecture and precision underwriting.
 
-## Toward a Structural Liquidity Ecosystem
+## Toward a
+
+Structural Liquidity Ecosystem
 
 When private credit, Asset-Based Lending frameworks, crypto-backed facilities, and public share Capital Structuring are unified under a single architecture, the portfolio transitions into a new state.
 
@@ -37,7 +38,9 @@ Not built on leverage.
 
 Built on structural readiness and silent authority.
 
-## Strategic Outcomes for HNWI and UHNW Clients
+## Strategic
+
+Outcomes for HNWI and UHNW Clients
 
 A fully architected capital efficiency system generates measurable outcomes:
 
@@ -52,7 +55,9 @@ These are the structural advantages previously reserved for institutional famili
 
 Through disciplined architecture, they become accessible at the UHNW scale.
 
-## ROIALS CAPITAL: The Architecture Behind the Liquidity
+## ROIALS CAPITAL:
+
+The Architecture Behind the Liquidity
 
 ROIALS CAPITAL provides the structural mechanics that transform core holdings into precision liquidity channels.
 
@@ -79,4 +84,5 @@ We build the framework.
 ## Soft CTA
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.

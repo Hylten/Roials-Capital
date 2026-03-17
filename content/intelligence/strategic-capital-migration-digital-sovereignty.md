@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL"
 slug: "strategic-capital-migration-digital-sovereignty"
 keywords: "kapitalanskaffning, oil and gas, private credit, Capital Structuring, asset hardening"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 Digital sovereignty has replaced geographic borders as the primary determinant of capital velocity. Capital now behaves like signal traffic: compressed, encrypted, mobile, and intolerant of friction. Jurisdictions that fail to architect sovereign-grade digital infrastructure are already forfeiting their allocators. Those that succeed are capturing multi-cycle premium. The migration is silent. The implications are not.
@@ -116,6 +115,7 @@ Execute. Migrate. Anchor.
 Mandate: 4.82 cross-jurisdictional enforcement delta.
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 
 Request confidential capital audit.

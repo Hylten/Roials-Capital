@@ -6,7 +6,6 @@ author: "ROIALS CAPITAL (Institutional Briefing)"
 slug: "asset-based-liquidity-engine-multi-generational-wealth"
 keywords: "kapitalanskaffning, oil and gas, alberta energy, private credit, Monetization Architecture, asset hardening, NAEOCC"
 ---
-
 [START INSTITUTIONAL BRIEFING]
 
 The capital vacuum in North American energy is not a product of diminishing reserves. It is a direct output of regulatory drift, bank de-risking, and the institutional migration toward passive exposure. This vacuum has created an environment where assets with known physics, predictable decline curves, and traceable operating histories are structurally undervalued relative to their intrinsic recoverable potential. Asset Based Asset-Backed Frameworks sits at the center of this inefficiency. It converts under-recognized asset value into functional liquidity without forcing ownership dilution or operational displacement. For multi generational wealth strategies, this liquidity mechanic is not an auxiliary tool. It is the structural engine that determines opportunity velocity, balance sheet resilience, and the durability of compounding across cycles.
@@ -61,4 +60,5 @@ Roials Capital engages allocators through confidential strategy audits and calib
 [END INSTITUTIONAL BRIEFING]
 
 ### TECHNICAL MANDATE
+
 Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
