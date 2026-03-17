@@ -10,13 +10,9 @@ The capital vacuum in North America’s energy sector is a consequence of regula
 
 This vacuum is now interacting with a global shift toward balance sheet hardening, reserve based recalibration, and institutionally enforced liquidity thresholds that shape allocator behavior more than nominal interest rates.
 
-The resulting architecture is a new strategic environment where sovereign oriented capital, private credit frameworks, and hard asset exposure converge into what can be defined as the Sovereign Future of capital stewardship. 
+The resulting architecture is a new strategic environment where sovereign oriented capital, private credit frameworks, and hard asset exposure converge into what can be defined as the Sovereign Future of capital stewardship.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -56,13 +52,9 @@ Capital discipline replaces capital abundance.
 
 Balance sheet optimization replaces portfolio expansion.
 
-Asset hardening replaces thematic speculation. 
+Asset hardening replaces thematic speculation.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -166,13 +158,9 @@ For European acquisitions under MiFID II, we serve as introducers and analysts, 
 
 Roials Capital's role is to translate complex operational domains into clear institutional decision paths.
 
-The partnership model is structured around neutrality, alignment, and technical clarity rather than product distribution. 
+The partnership model is structured around neutrality, alignment, and technical clarity rather than product distribution.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management
+THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management
 
 .
 

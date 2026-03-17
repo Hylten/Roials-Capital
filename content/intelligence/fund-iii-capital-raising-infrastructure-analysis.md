@@ -66,9 +66,9 @@ The lens is allocator psychology and GP positioning. **Proverbs 13:22
 
 * 
 
-* : capital must outlive the architect. 
+* : capital must outlive the architect.
 
-## INSTITUTIONAL LAYOUT Fund‑III allocators apply three governing filters
+INSTITUTIONAL LAYOUT Fund‑III allocators apply three governing filters
 
 :
 
@@ -112,9 +112,9 @@ Institutional allocators require:
 
 - A capital‑raising apparatus that operates as infrastructure, not as campaign They expect engineering.
 
-Not persuasion. 
+Not persuasion.
 
-## CAPITAL‑RAISING INFRASTRUCTURE Fund‑III platforms must operate with four structural pillars:
+CAPITAL‑RAISING INFRASTRUCTURE Fund‑III platforms must operate with four structural pillars:
 
  
 
@@ -138,9 +138,9 @@ Confidence increases commitment elasticity.
 
 Elasticity drives upgrade from $15M checks to $75M‑$200M checks.
 
-Elasticity funds the GP’s compounding machine. 
+Elasticity funds the GP’s compounding machine.
 
-## BASE INFRASTRUCTURE Institutional allocators inspect foundation integrity
+BASE INFRASTRUCTURE Institutional allocators inspect foundation integrity
 
 .
 
@@ -184,9 +184,9 @@ GPs must present:
 
 - Fund‑III‑grade investment committee protocols This is nonnegotiable.
 
-Fund‑III is no longer “emerging.” Fund‑III is “institutional test.” Failure at this stage scars allocator memory for eight years. 
+Fund‑III is no longer “emerging.” Fund‑III is “institutional test.” Failure at this stage scars allocator memory for eight years.
 
-## MOBILIZATION INFRASTRUCTURE This is the capital acquisition engine
+MOBILIZATION INFRASTRUCTURE This is the capital acquisition engine
 
 .
 
@@ -258,9 +258,9 @@ Reduced friction increases allocation precision.
 
 Precision drives capital density.
 
-Density accelerates Fund‑III close speed. 
+Density accelerates Fund‑III close speed.
 
-## TRANSMISSION INFRASTRUCTURE Once capital enters the fund, allocators track flow
+TRANSMISSION INFRASTRUCTURE Once capital enters the fund, allocators track flow
 
 .
 
@@ -304,9 +304,9 @@ Transmission architecture requires:
 
 Allocators examine the system.
 
-Not the story. 
+Not the story.
 
-## ADDITIONAL LAYER: BUYOUTS + ADD‑ONS Fund‑III allocators track pattern strength
+ADDITIONAL LAYER: BUYOUTS + ADD‑ONS Fund‑III allocators track pattern strength
 
 .
 
@@ -336,9 +336,9 @@ Add‑ons require:
 
 Drift reduces trust.
 
-Trust shapes allocation repeatability. 
+Trust shapes allocation repeatability.
 
-## EXTRACTION INFRASTRUCTURE Strategic Collateralization is the final test
+EXTRACTION INFRASTRUCTURE Strategic Collateralization is the final test
 
 .
 
@@ -398,9 +398,9 @@ Key elements:
 
 Allocators evaluate this heavily.
 
-Fund‑III GPs without Asset-Based Lending partners face discounted commitments. 
+Fund‑III GPs without Asset-Based Lending partners face discounted commitments.
 
-## SPECIAL MANDATES Institutional allocators prefer GPs with mandate versatility
+SPECIAL MANDATES Institutional allocators prefer GPs with mandate versatility
 
 .
 
@@ -442,9 +442,9 @@ Private credit overlays Energy mandates demand:
 
 Range signals capability.
 
-Capability attracts scale. 
+Capability attracts scale.
 
-## INSTITUTIONAL PSYCHOLOGY Allocators read posture
+INSTITUTIONAL PSYCHOLOGY Allocators read posture
 
 .
 
@@ -484,9 +484,9 @@ No noise.
 
 Machine‑grade discipline.
 
-Iterator’s mind. 
+Iterator’s mind.
 
-## THE FUND‑III Hierarchical Dynamics Allocators assign Fund‑III status based on the delta
+THE FUND‑III Hierarchical Dynamics Allocators assign Fund‑III status based on the delta
 
 :
 
@@ -512,9 +512,9 @@ The GP must prove:
 
 Future funds inherit this identity.
 
-If identity fails here, the platform collapses into mid‑market stagnation. 
+If identity fails here, the platform collapses into mid‑market stagnation.
 
-## JURISDICTIONAL ARBITRAGE Institutional allocators expect territorial advantage
+JURISDICTIONAL ARBITRAGE Institutional allocators expect territorial advantage
 
 .
 
@@ -542,9 +542,9 @@ It is cleaner.
 
 More predictable.
 
-More durable. 
+More durable.
 
-## PORTFOLIO HARDENING Harden assets
+PORTFOLIO HARDENING Harden assets
 
 .
 
@@ -574,9 +574,9 @@ Core methods:
 
 NAV stability increases allocator comfort.
 
-Comfort expands commitments. 
+Comfort expands commitments.
 
-## DATA ARCHITECTURE Fund‑III requires
+DATA ARCHITECTURE Fund‑III requires
 
 :
 
@@ -628,9 +628,7 @@ For confidential capital audit, submit allocation parameters and jurisdictional 
 
 Throughput Resilience Index: 0.
 
-92
-
-## TECHNICAL MANDATE Qualification Gates strictly observed
+92 TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

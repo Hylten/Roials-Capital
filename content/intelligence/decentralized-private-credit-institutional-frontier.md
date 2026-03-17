@@ -62,9 +62,9 @@ The institutions building Fund-III+ need more than capital.
 
 They need control.
 
-Controlled liquidity is the new covenant. 
+Controlled liquidity is the new covenant.
 
-## THE CAPITAL REGIME SHIFT Demand has pivoted
+THE CAPITAL REGIME SHIFT Demand has pivoted
 
 .
 
@@ -96,9 +96,9 @@ They buy enforceability.
 
 They buy control rights.
 
-Fund-III structures that fail to encode structural control lose competitiveness instantly. 
+Fund-III structures that fail to encode structural control lose competitiveness instantly.
 
-## THE DEEP FUNCTIONS OF DECENTRALIZED PRIVATE CREDIT Decentralization in this context is not crypto
+THE DEEP FUNCTIONS OF DECENTRALIZED PRIVATE CREDIT Decentralization in this context is not crypto
 
 .
 
@@ -172,9 +172,9 @@ When these are answered with precision, capital flows.
 
 When they are not, capital hesitates.
 
-Fund-III cannot afford hesitation. 
+Fund-III cannot afford hesitation.
 
-## CONTROLLED LIQUIDITY: THE INSTITUTIONAL ADVANTAGE Controlled liquidity is engineered
+CONTROLLED LIQUIDITY: THE INSTITUTIONAL ADVANTAGE Controlled liquidity is engineered
 
 .
 
@@ -232,9 +232,9 @@ Asset-Based Lending becomes:
 
 Strategic Collateralization transforms Asset-Based Lending from a reactive tool into a proactive power lever.
 
-It stabilizes Fund-III at every stage: acquisitions, integrations, refinancing, and exit prep. 
+It stabilizes Fund-III at every stage: acquisitions, integrations, refinancing, and exit prep.
 
-## ENERGY MANDATES: NAEOC AS A LIQUIDITY SANDBOX The $50M-$250M NAEOC energy mandates create an asymmetric opportunity
+ENERGY MANDATES: NAEOC AS A LIQUIDITY SANDBOX The $50M-$250M NAEOC energy mandates create an asymmetric opportunity
 
 .
 
@@ -274,9 +274,9 @@ European LPs understand the architecture immediately.
 
 They prefer it because they can audit it.
 
-Transparency is a feature, not a vulnerability. 
+Transparency is a feature, not a vulnerability.
 
-## INSTITUTIONAL LP/GP ALIGNMENT: A NEW CONTRACT Traditional LP/GP dynamics are collapsing
+INSTITUTIONAL LP/GP ALIGNMENT: A NEW CONTRACT Traditional LP/GP dynamics are collapsing
 
 .
 
@@ -302,9 +302,9 @@ The LP receives:
 
 Both accelerate.
 
-Both scale under this architecture. 
+Both scale under this architecture.
 
-## THE PRINCIPAL ARCHITECTURE FOR Fund-III CAPITAL The capital stack must be engineered, not assembled
+THE PRINCIPAL ARCHITECTURE FOR Fund-III CAPITAL The capital stack must be engineered, not assembled
 
 .
 
@@ -334,9 +334,9 @@ Complexity weakens.
 
 Precision strengthens.
 
-Fund-III becomes competitive because its structure is competitive. 
+Fund-III becomes competitive because its structure is competitive.
 
-## THE ROLE OF DECENTRALIZATION IN RISK SUPPRESSION Risk is suppressed through architecture, not spreadsheets
+THE ROLE OF DECENTRALIZATION IN RISK SUPPRESSION Risk is suppressed through architecture, not spreadsheets
 
 .
 
@@ -356,9 +356,9 @@ The risks that kill liquidity.
 
 The risks that kill exits.
 
-The risks that destroy capital formation. 
+The risks that destroy capital formation.
 
-## THE BUYOUT/ADD-ON ENGINE: WHY DECENTRALIZED CREDIT WINS Buyouts require speed
+THE BUYOUT/ADD-ON ENGINE: WHY DECENTRALIZED CREDIT WINS Buyouts require speed
 
 .
 
@@ -386,9 +386,9 @@ Stabilize portfolio companies faster.
 
 A Fund-III with this architecture is not another buyout fund.
 
-It is a velocity engine. 
+It is a velocity engine.
 
-## THE EUROPEAN DIMENSION: MiFID II AS A STRUCTURAL LEVER Under MiFID II, acquisitions benefit from stronger governance signaling
+THE EUROPEAN DIMENSION: MiFID II AS A STRUCTURAL LEVER Under MiFID II, acquisitions benefit from stronger governance signaling
 
 .
 
@@ -410,9 +410,9 @@ They see the structure.
 
 They understand the enforcement paths.
 
-They move capital without hesitation when the structure is logical. 
+They move capital without hesitation when the structure is logical.
 
-## STRUCTURAL SOVEREIGNTY: THE FINAL FRONTIER Decentralized private credit grants structural sovereignty
+STRUCTURAL SOVEREIGNTY: THE FINAL FRONTIER Decentralized private credit grants structural sovereignty
 
 .
 
@@ -438,9 +438,9 @@ Risk becomes measurable.
 
 Liquidity becomes predictable.
 
-Fund-III is the proving ground. 
+Fund-III is the proving ground.
 
-## CLOSE ON PRINCIPAL AUTHORITY Decentralized private credit is not a trend
+CLOSE ON PRINCIPAL AUTHORITY Decentralized private credit is not a trend
 
 .
 
@@ -469,7 +469,7 @@ Request a confidential capital audit to align your Fund-III architecture with in
 Terminal Metric: Enforcement Latency Index ≤ 4.
 9 seconds.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

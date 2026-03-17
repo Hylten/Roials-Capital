@@ -28,13 +28,9 @@ Liquidity Engineering, Asset Hardening, and calibrated capitalization frameworks
 
 The modern entrepreneur requires a credit architecture, not a transaction.
 
-This memo defines that architecture. 
+This memo defines that architecture.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -88,13 +84,9 @@ Entrepreneurs must navigate a world where capital selection depends on structura
 
 Strategic alignment replaces pure negotiation.
 
-Architecture replaces improvisation. 
+Architecture replaces improvisation.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -256,13 +248,9 @@ This technical intelligence underpins the credibility of the capital request.
 
 For entrepreneurs with European governance structures and North American operations, Roials Capital harmonizes regulatory environments to prevent structural friction.
 
-This partnership model positions Roials Capital as a strategic interpreter between entrepreneurs and the global capital system. 
+This partnership model positions Roials Capital as a strategic interpreter between entrepreneurs and the global capital system.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship establishes the ethical baseline for any credit architecture
+THE STEWARDSHIP FILTER Stewardship establishes the ethical baseline for any credit architecture
 
 .
 

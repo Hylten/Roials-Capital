@@ -228,7 +228,7 @@ They build leverage tunnels around assets.
 
 They 
 
-# Layer C: redit lines
+### Layer C: redit lines
 
 .
 
@@ -398,7 +398,7 @@ Principal tool.
 
 The standard for all serious operators.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

@@ -10,13 +10,9 @@ The capital vacuum in North American and European private credit is not a functi
 
 It is the byproduct of regulatory realignment that has constrained traditional lenders while simultaneously expanding the demand for structured institutional debt.
 
-The result is a technical environment where risk is not elevated, but mispriced, and where allocators with the ability to operate across balance sheet structures are repositioning their mandates with greater precision and shorter feedback cycles. 
+The result is a technical environment where risk is not elevated, but mispriced, and where allocators with the ability to operate across balance sheet structures are repositioning their mandates with greater precision and shorter feedback cycles.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -71,13 +67,9 @@ Risk has migrated away from credit fundamentals and toward allocator misundersta
 
 Those who navigate private credit successfully in the current cycle do so by mapping the incentive geometry across operators, sponsors, and balance sheet participants.
 
-This is the analytical terrain where Roials Capital operates as a strategic introducer. 
+This is the analytical terrain where Roials Capital operates as a strategic introducer.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -207,13 +199,9 @@ This includes the energy acquisition mandates ranging from fifty million USD to 
 
 Across each mandate, Roials Capital operates on a neutrality axis.
 
-This neutrality allows institutional decision makers to receive technical intelligence that is not influenced by allocation bias or issuer incentives. 
+This neutrality allows institutional decision makers to receive technical intelligence that is not influenced by allocation bias or issuer incentives.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Institutional stewardship is the discipline of allocating capital without waste
+THE STEWARDSHIP FILTER Institutional stewardship is the discipline of allocating capital without waste
 
 .
 

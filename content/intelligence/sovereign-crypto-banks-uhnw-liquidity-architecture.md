@@ -12,13 +12,9 @@ Basel III Endgame, MiFID II operational tightening, and GCC regulatory moderniza
 
 A parallel system is forming, driven not by retail crypto enthusiasm but by sovereign level infrastructure.
 
-The functional rise of sovereign crypto banks reflects a structural response to stalled cross border liquidity and increasing constraints on dollar mobilization from traditional institutions. 
+The functional rise of sovereign crypto banks reflects a structural response to stalled cross border liquidity and increasing constraints on dollar mobilization from traditional institutions.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -56,13 +52,9 @@ THE REGIME SHIFT
 
 - Institutionalization of tokenized collateral pools with auditable custody trails.
 
-This environment creates an alternative global liquidity spine operating parallel to conventional banking but fully compatible with institutional scale transactions. 
+This environment creates an alternative global liquidity spine operating parallel to conventional banking but fully compatible with institutional scale transactions.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -126,7 +118,7 @@ The collateralized loan is represented on chain with programmable risk parameter
 
 This improves clarity of lender seniority and establishes immutable audit trails. 
 
-# Phase I: I
+### Phase I: I
 
 A: APPLICATION TO Fund-III CAPITAL RAISING AND ADD ON ACQUISITIONS For private equity GPs advancing Fund-III and Fund IV initiatives, sovereign crypto banking provides high velocity liquidity at the GP and portfolio company levels.
 
@@ -180,13 +172,9 @@ If the transaction intersects with energy, Roials Capital incorporates NAEO as t
 
 NAEO provides the field intelligence, reserve validation, and operational coherence needed for institutional decision making.
 
-If the transaction relates to private credit, M and A, or European capital structuring, Roials Capital handles the alignment directly. 
+If the transaction relates to private credit, M and A, or European capital structuring, Roials Capital handles the alignment directly.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER The stewardship principle excludes speculative behavior
+THE STEWARDSHIP FILTER The stewardship principle excludes speculative behavior
 
 .
 

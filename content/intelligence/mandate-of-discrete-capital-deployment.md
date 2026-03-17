@@ -10,19 +10,15 @@ The capital vacuum in North America's energy sector is a consequence of regulato
 
 Institutional allocators navigating 2026 face a regime where capital scarcity, operational bottlenecks, and mispriced subsurface physics combine to produce one of the most misunderstood structural gaps in the global market.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
  of discrete capital deployment is central to this environment because fragmented balance sheets, constrained credit markets, and deglobalized supply lines require allocators to deploy with precision, not scale.
 
-The forward regime favors surgical balance sheet alignment, not broad beta exposure. 
+The forward regime favors surgical balance sheet alignment, not broad beta exposure.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -76,13 +72,9 @@ The buyout ecosystem demands non public capital sources willing to underwrite op
 
 Discrete capital deployment emerges as the appropriate mandate across energy, buyouts, and special situations.
 
-Allocators who deploy episodically, with clear operational filters, achieve a superior risk profile compared to generalized exposure strategies. 
+Allocators who deploy episodically, with clear operational filters, achieve a superior risk profile compared to generalized exposure strategies.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -160,7 +152,7 @@ It is episodic and situational, driven by technical intelligence rather than fun
 
 THE PARTNERSHIP MODEL Roials Capital functions as a strategic navigator, not an asset originator and not an operator.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -196,13 +188,9 @@ In every vertical, Roials Capital maintains introducer neutrality.
 
 The firm does not take operating control or assert ownership claims.
 
-The value is in navigation, not execution. 
+The value is in navigation, not execution.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship in capital markets is not a moral abstraction
+THE STEWARDSHIP FILTER Stewardship in capital markets is not a moral abstraction
 
 .
 
@@ -262,13 +250,13 @@ The alignment framework can be summarized as:
 
 - Stewardship coherence Roials Capital provides confidential portfolio calibration to align allocators with opportunities that meet these structural filters.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
  is not distribution.
 
-## THE MANDAT
+THE MANDAT
 
 E
 

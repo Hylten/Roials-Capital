@@ -22,9 +22,9 @@ We engage only with HNWI and UHNW leaders whose assets are already operating at 
 
 Our role is simple.
 
-We build the silent mechanics behind their capital velocity. 
+We build the silent mechanics behind their capital velocity.
 
-## The ROIALS CAPITAL Framework: principal authority Our clients do not require persuasion
+The ROIALS CAPITAL Framework: principal authority Our clients do not require persuasion
 
 .
 
@@ -46,9 +46,9 @@ We focus on:
 
 - Regulatory precision Entrepreneurs come to us because they prefer discretion.
 
-They stay because we deliver predictability. 
+They stay because we deliver predictability.
 
-## Structural Liquidity as an Edge in High‑Velocity Markets The modern investment landscape rewards timing more than raw capital
+Structural Liquidity as an Edge in High‑Velocity Markets The modern investment landscape rewards timing more than raw capital
 
 .
 
@@ -68,9 +68,9 @@ Liquidity that is unlocked, but not exposed, becomes a competitive advantage.
 
 It allows wealth to flow without disrupting the asset base that produced it.
 
-Our credit architecture is engineered specifically for this mode of operation. 
+Our credit architecture is engineered specifically for this mode of operation.
 
-## Why HNWI and UHNW Entrepreneurs Require Different Monetization Architecture Rules Conventional Strategic Collateralization systems treat borrowers homogeneously
+Why HNWI and UHNW Entrepreneurs Require Different Monetization Architecture Rules Conventional Strategic Collateralization systems treat borrowers homogeneously
 
 .
 
@@ -98,9 +98,9 @@ HNWI and UHNW clients require:
 
 Architects do not negotiate gravity.
 
-They build within it. 
+They build within it.
 
-## Liquidity Without Visibility Visibility is a cost
+Liquidity Without Visibility Visibility is a cost
 
 .
 
@@ -116,9 +116,9 @@ Private credit, Asset-Based Lending systems, crypto Capital Structuring, and pub
 
 The client moves.
 
-The market does not notice. 
+The market does not notice.
 
-## Institutional Precision Without Institutional Bureaucracy HNWI and UHNW clients require the accuracy of an institution without inheriting the institutional drag
+Institutional Precision Without Institutional Bureaucracy HNWI and UHNW clients require the accuracy of an institution without inheriting the institutional drag
 
 .
 
@@ -128,9 +128,9 @@ We apply institutional frameworks to underwriting, risk, legal, and collateraliz
 
 We remove institutional friction from communication, execution timelines, and multi‑layer decision bottlenecks.
 
-The result is a high‑trust, low‑visibility credit environment that functions with technical discipline and strategic silence. 
+The result is a high‑trust, low‑visibility credit environment that functions with technical discipline and strategic silence.
 
-## When Credit Becomes Strategy Credit is most powerful when it stops behaving like debt and starts behaving like architecture
+When Credit Becomes Strategy Credit is most powerful when it stops behaving like debt and starts behaving like architecture
 
 .
 
@@ -142,9 +142,9 @@ A structural extension of intent.
 
 A competitive instrument.
 
-A force multiplier for entrepreneurs who already operate at a rare level of sophistication. 
+A force multiplier for entrepreneurs who already operate at a rare level of sophistication.
 
-## The ROIALS CAPITAL Mandate We are not a retail lender
+The ROIALS CAPITAL Mandate We are not a retail lender
 
 .
 
@@ -156,9 +156,9 @@ Our mandate is quiet.
 
 Our work is precise.
 
-Our results are structural. 
+Our results are structural.
 
-## For Entrepreneurs Who Operate Above the Noise If your assets exceed the thresholds that define institutional class capital
+For Entrepreneurs Who Operate Above the Noise If your assets exceed the thresholds that define institutional class capital
 
 .
 
@@ -168,7 +168,7 @@ If you understand that credit is not a product, but a form of design.
 
 ROIALS CAPITAL will provide the architecture.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

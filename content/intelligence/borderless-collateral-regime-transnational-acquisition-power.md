@@ -456,7 +456,7 @@ The objective is precision.
 
 And the outcome is transnational acquisition power reinforced by borderless collateral.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -468,7 +468,7 @@ The capital is ready.
 
 The strategy is operational.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

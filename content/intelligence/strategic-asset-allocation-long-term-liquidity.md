@@ -554,7 +554,7 @@ Conviction reached.
 
 Provide confidential capital audit data to initiate structural mapping.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

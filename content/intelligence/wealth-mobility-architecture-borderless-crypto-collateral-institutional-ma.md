@@ -10,13 +10,9 @@ The capital vacuum in institutional M and A today is driven by regulatory fragme
 
 The misalignment between mobility of wealth and immobility of jurisdictional banking frameworks has created a structural gap in global transaction velocity.
 
-This gap defines the present regime shift in how Fund-III structures, private credit desks, and cross border acquisition vehicles engineer liquidity, collateralize digital wealth, and synchronize balance sheet mechanics across multiple legal territories. 
+This gap defines the present regime shift in how Fund-III structures, private credit desks, and cross border acquisition vehicles engineer liquidity, collateralize digital wealth, and synchronize balance sheet mechanics across multiple legal territories.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -48,13 +44,9 @@ Market behavior indicates that allocators who cannot move wealth across borders 
 
 The result is a bifurcation.
 
-Institutions that master borderless collateral mobility gain access to discounted acquisition windows, while institutions restricted to domestic capital architecture are forced into slower cycles. 
+Institutions that master borderless collateral mobility gain access to discounted acquisition windows, while institutions restricted to domestic capital architecture are forced into slower cycles.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -150,13 +142,9 @@ The objective is balance sheet strengthening and capital flow synchronization.
 
 Within Energy, NAEO serves as the institutional partner with operational expertise spanning SAGD, CSS, decline curve analysis, and Alberta basin mechanics.
 
-In non energy contexts, Roials Capital’s role remains focused on structural alignment and cross border transaction architecture. 
+In non energy contexts, Roials Capital’s role remains focused on structural alignment and cross border transaction architecture.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is a discipline of capital integrity, not opportunism
+THE STEWARDSHIP FILTER Stewardship is a discipline of capital integrity, not opportunism
 
 .
 

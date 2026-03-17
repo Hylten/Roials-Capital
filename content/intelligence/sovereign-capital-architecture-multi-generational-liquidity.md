@@ -16,13 +16,9 @@ This mismatch between geological certainty and capital availability is the found
 
 Allocators who understand this regime shift are not making directional price bets.
 
-They are structuring long horizon liquidity architectures around known decline curves, established recovery systems, and disciplined operational partners. 
+They are structuring long horizon liquidity architectures around known decline curves, established recovery systems, and disciplined operational partners.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -74,13 +70,9 @@ These forces create a predictable capital inefficiency that sophisticated alloca
 
 It is not a temporary mispricing.
 
-It is a structural shift that will define the next two decades of North American energy financing. 
+It is a structural shift that will define the next two decades of North American energy financing.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -184,7 +176,7 @@ Counterparty Verification.
 
 Roials Capital performs a multi 
 
-# Layer I
+### Layer I
 
 nstitutional filter to identify operational partners whose governance, stewardship, technical discipline, and balance sheet hygiene are aligned with long horizon capital.
 
@@ -210,13 +202,9 @@ Liquidity engineering is the structured alignment of debt, equity, asset backed 
 
 The objective is operational coherence, not leverage expansion.
 
-The allocator benefits through reduced information asymmetry, elevated institutional counterparties, and infrastructure for calibrated decision making. 
+The allocator benefits through reduced information asymmetry, elevated institutional counterparties, and infrastructure for calibrated decision making.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER AND THE THEOLOGY OF CAPITAL Stewardship in energy is not a moral veneer
+THE STEWARDSHIP FILTER AND THE THEOLOGY OF CAPITAL Stewardship in energy is not a moral veneer
 
 .
 
@@ -302,7 +290,7 @@ It is structured around real assets, long duration production, mature decline cu
 
 For the allocator, the next 
 
-# Step I: s not transactional
+### Step I: s not transactional
 
 .
 

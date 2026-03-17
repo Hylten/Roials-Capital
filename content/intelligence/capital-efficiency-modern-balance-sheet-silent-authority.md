@@ -126,7 +126,7 @@ Capital efficiency requires three layers:
 
 - Sovereign layer Each 
 
-# Layer C: reates a different type of authority
+### Layer C: reates a different type of authority
 
 .
 
@@ -692,7 +692,7 @@ Fund-III must embody that principle.
 
 - Mandate: Initiate confidential capital audit across all Fund-III holdings and targets.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

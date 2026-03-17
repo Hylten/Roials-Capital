@@ -24,9 +24,7 @@ The shift is permanent.
 
 Mobility makes the fund.
 
-Mobility protects 
-
-## THE MANDAT
+Mobility protects THE MANDAT
 
 E
 
@@ -146,9 +144,7 @@ Hardening builds posture.
 
 Posture attracts LPs.
 
-LPs expand 
-
-## THE MANDAT
+LPs expand THE MANDAT
 
 E
 
@@ -386,7 +382,7 @@ End with mandate: Deploy mobility architecture across Fund-III buyouts and energ
 
 Initiate confidential capital audit.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

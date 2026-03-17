@@ -470,7 +470,7 @@ Confidential capital audit available on request.
 
 Mandate threshold: DSCR > 1.35x.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

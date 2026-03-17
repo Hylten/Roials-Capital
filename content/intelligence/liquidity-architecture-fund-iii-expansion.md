@@ -382,7 +382,7 @@ Capital will respond.
 
 Capital always responds to structure.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

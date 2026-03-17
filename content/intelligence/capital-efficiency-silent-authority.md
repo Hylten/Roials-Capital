@@ -50,13 +50,9 @@ LPs reward managers who operate without friction.
 
 The market no longer pays for potential.
 
-It pays for architecture. 
+It pays for architecture.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -104,13 +100,9 @@ principal authority is the ability to act before competitors notice pressure poi
 
 The firms that understand these gaps build balance sheets that do not react.
 
-They lead. 
+They lead.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -186,11 +178,9 @@ It enables:
 
 - covenant-neutral liquidity bands
 
-- asset-level repositioning without cross-default risk Institutional power is the ability to act without signalling. 
+- asset-level repositioning without cross-default risk Institutional power is the ability to act without signalling.
 
- 
-
-## THE
+THE
 
  
 
@@ -202,9 +192,7 @@ The path to capital authority requires a three-part architecture.
 
 1.
 
-Capital Raising for Fund-III Eighty percent of 
-
-## THE MANDAT
+Capital Raising for Fund-III Eighty percent of THE MANDAT
 
 E
 
@@ -224,9 +212,7 @@ They invest in the refusal to waste them.
 
 2.
 
-Asset-Based Lending Asset-Backed Frameworks Ten percent of 
-
-## THE MANDAT
+Asset-Based Lending Asset-Backed Frameworks Ten percent of THE MANDAT
 
 E
 
@@ -262,13 +248,9 @@ Regulation creates price inefficiency.
 
 Acquiring MiFID II platforms is an arbitrage play on compliance complexity.
 
-The institutional operator treats it as a competitive moat. 
+The institutional operator treats it as a competitive moat.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Capital efficiency is not merely financial
+THE STEWARDSHIP FILTER Capital efficiency is not merely financial
 
 .
 
@@ -330,7 +312,7 @@ EXIT Capital authority is measured in basis points gained through collateral dis
 
 Silent efficiency wins.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -338,7 +320,7 @@ E
 
 Conduct the confidential capital audit.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

@@ -12,13 +12,9 @@ This singular fact illustrates the broader theme that governs institutional trus
 
 In an era defined by capital rationing, heightened regulatory friction, and cross border compliance burdens, trust is no longer a reputational attribute.
 
-Trust operates as a technical architecture that can be engineered, stress tested, and verified. 
+Trust operates as a technical architecture that can be engineered, stress tested, and verified.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -54,13 +50,9 @@ THE REGIME SHIFT
 
  is therefore defined by a deficit of trusted channels rather than a deficit of opportunity.
 
-Allocators require navigators that can present domain specific transparency without triggering solicitation classifications or breaching institutional neutrality protocols. 
+Allocators require navigators that can present domain specific transparency without triggering solicitation classifications or breaching institutional neutrality protocols.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -218,13 +210,9 @@ The partnership model performs a translation function.
 
 Institutions do not require persuasion.
 
-They require technical coherence. 
+They require technical coherence.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the governing principle that links capital allocation with moral discipline
+THE STEWARDSHIP FILTER Stewardship is the governing principle that links capital allocation with moral discipline
 
 .
 

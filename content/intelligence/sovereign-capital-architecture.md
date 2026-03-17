@@ -384,7 +384,7 @@ The sovereign fund must demonstrate a
 
 34 percent lifetime liquidity conversion ratio across cycles.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

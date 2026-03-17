@@ -14,13 +14,9 @@ The shift in liquidity provision has created an environment where private alloca
 
 This briefing outlines the structural mechanics behind that transition, the operational logic that drives modern private credit, and the framework Roials Capital uses to position Fund-III capital formation, ABL liquidity engineering, and North American energy special mandates.
 
-The objective is to provide a high density of technical intelligence for allocators, enabling them to evaluate where private credit sits within their strategic allocation, and how modern balance sheet optimization is executed at institutional scale. 
+The objective is to provide a high density of technical intelligence for allocators, enabling them to evaluate where private credit sits within their strategic allocation, and how modern balance sheet optimization is executed at institutional scale.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -54,13 +50,9 @@ Fund-III structures have followed this evolution.
 
 Capital is allocated into operating businesses with clear acquisition pathways, defined additive bolt-on opportunities, and collateral frameworks that allow the lender to influence future liquidity events.
 
-The core has shifted from return generation to corporate navigation. 
+The core has shifted from return generation to corporate navigation.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -170,13 +162,9 @@ Special Mandates The special mandate architecture includes:
 
 - Energy corridor optimization across Alberta
 
-- EU MiFID II qualifying acquisition strategies under regulated structures The firm acts as the institutional introducer, ensuring strategic alignment between the capital provider and the operator. 
+- EU MiFID II qualifying acquisition strategies under regulated structures The firm acts as the institutional introducer, ensuring strategic alignment between the capital provider and the operator.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is treated as a discipline rather than a concept
+THE STEWARDSHIP FILTER Stewardship is treated as a discipline rather than a concept
 
 .
 

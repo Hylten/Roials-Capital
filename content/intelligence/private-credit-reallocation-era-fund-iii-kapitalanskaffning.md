@@ -378,9 +378,7 @@ This is the architecture of durable capital.
 
 This is the inheritance principle.
 
-This is 
-
-## THE MANDAT
+This is THE MANDAT
 
 E
 
@@ -392,7 +390,7 @@ End metric: Deployment velocity target
 
 94 days.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

@@ -28,9 +28,9 @@ We construct liquidity frameworks for High Net Worth and Ultra High Net Worth in
 
 Our mandate is not to market trends.
 
-Our mandate is to architect them. 
+Our mandate is to architect them.
 
-## The Reallocation of Trust Institutional trust is migrating away from legacy financial structures
+The Reallocation of Trust Institutional trust is migrating away from legacy financial structures
 
 .
 
@@ -52,9 +52,9 @@ HNWI and UHNW investors are not looking for volatility.
 
 They are looking for autonomy.
 
-They are looking for liquidity systems that work at their speed, not the speed of legacy institutional queues. 
+They are looking for liquidity systems that work at their speed, not the speed of legacy institutional queues.
 
-## The Role of Private Credit in a Decentralized Framework Private credit has always been about information advantage, collateral clarity, and underwriting discipline
+The Role of Private Credit in a Decentralized Framework Private credit has always been about information advantage, collateral clarity, and underwriting discipline
 
 .
 
@@ -70,9 +70,9 @@ The result is not a replacement of traditional credit.
 
 It is the emergence of a second rail.
 
-A rail optimized for capital efficiency and temporal precision. 
+A rail optimized for capital efficiency and temporal precision.
 
-## Asset Based Strategic Collateralization, Reconstructed Asset Based Institutional Liquidity Paths (Asset-Based Lending) is one of the most structurally compatible categories for decentralized environments
+Asset Based Strategic Collateralization, Reconstructed Asset Based Institutional Liquidity Paths (Asset-Based Lending) is one of the most structurally compatible categories for decentralized environments
 
 .
 
@@ -94,9 +94,9 @@ Every movement of collateral is visible.
 
 Every change in valuation state is measurable.
 
-For HNWI and UHNW borrowers, this creates a liquidity architecture that is predictable, neutral, and free from custodial delays. 
+For HNWI and UHNW borrowers, this creates a liquidity architecture that is predictable, neutral, and free from custodial delays.
 
-## Institutional Clients Require Institutional Thresholds ROIALS CAPITAL operates with minimums that reflect the seriousness of our client base
+Institutional Clients Require Institutional Thresholds ROIALS CAPITAL operates with minimums that reflect the seriousness of our client base
 
 .
 
@@ -118,9 +118,9 @@ They are designed to ensure that our liquidity structures remain aligned with in
 
 When liquidity is measured in eight figures, friction is not an inconvenience.
 
-It is a risk. 
+It is a risk.
 
-## The Evolution of Counterparty Structure In legacy markets, counterparties are defined by financial institution tiers
+The Evolution of Counterparty Structure In legacy markets, counterparties are defined by financial institution tiers
 
 .
 
@@ -130,7 +130,7 @@ The underwriting logic shifts from evaluating the borrower to evaluating the ass
 
 The borrower is still relevant, but the primary risk 
 
-# Axis I
+### Axis I
 
 s collateral liquidity, collateral valuation, and collateral volatility.
 
@@ -144,9 +144,9 @@ With ROIALS CAPITAL, clients access a framework that is built for this new count
 
 We do not rely on manual interpretation of asset value.
 
-We rely on deterministic structure. 
+We rely on deterministic structure.
 
-## Liquidity: The New Competitive Variable For HNWI and UHNW individuals, liquidity is no longer about access
+Liquidity: The New Competitive Variable For HNWI and UHNW individuals, liquidity is no longer about access
 
 .
 
@@ -174,9 +174,9 @@ Institutional clients do not require infinite leverage.
 
 They require controlled leverage.
 
-They require a system where liquidity is engineered, not negotiated. 
+They require a system where liquidity is engineered, not negotiated.
 
-## Structural Integrity in an Expanding Market The decentralized credit landscape is expanding
+Structural Integrity in an Expanding Market The decentralized credit landscape is expanding
 
 .
 
@@ -202,9 +202,9 @@ Not a starting point.
 
 For HNWI and UHNW clients, this hierarchy matters.
 
-It ensures that balance sheet optimization costs, collateral parameters, and liquidity facility conditions remain institutionally consistent. 
+It ensures that balance sheet optimization costs, collateral parameters, and liquidity facility conditions remain institutionally consistent.
 
-## Why Decentralized Private Credit Appeals to Advanced Capital There are three core reasons the most sophisticated borrowers are moving into decentralized private credit
+Why Decentralized Private Credit Appeals to Advanced Capital There are three core reasons the most sophisticated borrowers are moving into decentralized private credit
 
 .
 
@@ -220,9 +220,9 @@ There is no discretionary decision maker interpreting the deal through internal 
 
 This triad is powerful.
 
-It creates a liquidity environment that operates at the speed and precision required by multi-million dollar capital stacks. 
+It creates a liquidity environment that operates at the speed and precision required by multi-million dollar capital stacks.
 
-## Asset-Based Lending as a Stabilizer for High Net Worth Capital Asset Based Capital Structuring has historically served as a stabilizer for large private balance sheets
+Asset-Based Lending as a Stabilizer for High Net Worth Capital Asset Based Capital Structuring has historically served as a stabilizer for large private balance sheets
 
 .
 
@@ -238,9 +238,9 @@ For HNWI and UHNW individuals, this provides a rare combination of autonomy and 
 
 ROIALS CAPITAL does not compete with banks.
 
-We architect the parallel infrastructure that banks cannot provide. 
+We architect the parallel infrastructure that banks cannot provide.
 
-## Underwriting Without Friction The future of underwriting is data structured, not analyst interpreted
+Underwriting Without Friction The future of underwriting is data structured, not analyst interpreted
 
 .
 
@@ -256,9 +256,9 @@ It is the architecture required by clients whose capital must remain operational
 
 ROIALS CAPITAL builds underwriting systems that do not fluctuate with sentiment.
 
-They are based on rules that remain constant regardless of market mood. 
+They are based on rules that remain constant regardless of market mood.
 
-## Risk Management at the Institutional Frontier Risk management in decentralized private credit requires a different approach
+Risk Management at the Institutional Frontier Risk management in decentralized private credit requires a different approach
 
 .
 
@@ -282,9 +282,9 @@ The objective is to neutralize it.
 
 HNWI and UHNW clients operate with capital loads that cannot absorb avoidable unpredictability.
 
-Therefore, every mechanism must be engineered for clarity. 
+Therefore, every mechanism must be engineered for clarity.
 
-## The principal authority Model ROIALS CAPITAL functions within what we call the principal authority model
+The principal authority Model ROIALS CAPITAL functions within what we call the principal authority model
 
 .
 
@@ -300,9 +300,9 @@ Our role is to provide the liquidity frameworks that advanced capital requires.
 
 Nothing more.
 
-Nothing less. 
+Nothing less.
 
-## The Institutional Frontier Decentralized private credit is becoming the new frontier for institutional liquidity. it completes them
+The Institutional Frontier Decentralized private credit is becoming the new frontier for institutional liquidity. it completes them
 
 .
 
@@ -322,11 +322,9 @@ HNWI and UHNW individuals understand this distinction.
 
 They operate in environments where opportunity windows do not wait for procedural clearance.
 
-Decentralized private credit is the system that reflects this reality. 
+Decentralized private credit is the system that reflects this reality.
 
- 
-
-## CONCLUSIO
+CONCLUSIO
 
 N
 
@@ -342,7 +340,7 @@ Our function is not to follow the market.
 
 Our function is to define the mechanics the market will eventually adopt.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

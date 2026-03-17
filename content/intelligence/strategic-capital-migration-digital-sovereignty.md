@@ -192,7 +192,7 @@ Industrial data estates.
 
 Each of these verticals benefits from sovereign-grade digital architecture because the data 
 
-# Layer I: s now inseparable from the physical asset layer
+### Layer I: s now inseparable from the physical asset layer
 
 .
 
@@ -334,7 +334,7 @@ High precision.
 
 Direct outcomes.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -466,7 +466,7 @@ Mandate: 4.
 
 82 cross-jurisdictional enforcement delta.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

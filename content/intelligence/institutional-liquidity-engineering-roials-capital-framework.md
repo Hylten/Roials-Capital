@@ -12,13 +12,9 @@ It is a function of regulatory sequencing and the structural withdrawal of conve
 
 This vacuum has created a durable space for engineered liquidity structures that operate inside measurable collateral parameters rather than pro forma narratives.
 
-The consequence is a market where capital discipline outperforms capital abundance and where Monetization Architecture has become a primary mechanism for institutional stability rather than an opportunistic side instrument. 
+The consequence is a market where capital discipline outperforms capital abundance and where Monetization Architecture has become a primary mechanism for institutional stability rather than an opportunistic side instrument.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -56,13 +52,9 @@ It is not a pursuit of risk.
 
 It is the formalization of operational liquidity into an institutionally acceptable instrument.
 
-The Roials Capital framework operates within this reality by providing a bridge between allocators seeking security and middle market operators requiring flexibility. 
+The Roials Capital framework operates within this reality by providing a bridge between allocators seeking security and middle market operators requiring flexibility.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -194,13 +186,9 @@ The Roials Capital position is intentionally neutral.
 
 The firm is not an issuer and does not provide investment advice.
 
-It is a technical partner that maps operational truth to institutional capital frameworks. 
+It is a technical partner that maps operational truth to institutional capital frameworks.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is not a moral abstraction
+THE STEWARDSHIP FILTER Stewardship is not a moral abstraction
 
 .
 
@@ -270,7 +258,7 @@ The objective is structural translation.
 
 When alignment exists, the next 
 
-# Step I: s typically a Confidential Strategy Audit
+### Step I: s typically a Confidential Strategy Audit
 
 .
 

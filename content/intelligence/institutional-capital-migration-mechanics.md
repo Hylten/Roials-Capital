@@ -20,13 +20,9 @@ What follows is an institutional framework for understanding why capital moves, 
 
 The purpose is not solicitation.
 
-The purpose is clarity for allocators calibrating exposures ahead of a multi year balance sheet recalibration cycle. 
+The purpose is clarity for allocators calibrating exposures ahead of a multi year balance sheet recalibration cycle.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -70,13 +66,9 @@ THE REGIME SHIFT
 
  establishes the foundation for capital migration: institutions are prioritizing operational visibility over growth narratives.
 
-Migration follows transparency. 
+Migration follows transparency.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -220,13 +212,9 @@ In energy, this involves NAEO.
 
 In private credit, this involves lenders with defined collateral frameworks.
 
-In private equity, this involves managers transitioning from Fund-II to Fund-III scaling. 
+In private equity, this involves managers transitioning from Fund-II to Fund-III scaling.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful capital deployment
+THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful capital deployment
 
 .
 
@@ -278,7 +266,7 @@ Capital migration clarifies where value is forming.
 
 Strategic alignment clarifies where allocators should be positioned before liquidity compressions force late entry.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

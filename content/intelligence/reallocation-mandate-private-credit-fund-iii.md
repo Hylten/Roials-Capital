@@ -34,15 +34,11 @@ We operate inside the flow of transactions, not on the commentary layer.
 
 The regime that governed the past twelve years is finished.
 
-The next regime rewards precision, adaptability, and institutional architecture.
+The next regime rewards precision, adaptability, and institutional architecture. 
 
-# Phase I: .
+### Phase I: .
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -90,15 +86,11 @@ Capital allocators used to dictate terms.
 
 Now operators of efficient credit platforms dictate them.
 
-That shift is irreversible.
+That shift is irreversible. 
 
-# Phase II: .
+### Phase II: .
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -182,13 +174,11 @@ The market rewards those who build internal execution engines with less than
 4 to 
 6 week credit cycle times.
 
-Anything slower is obsolete.
+Anything slower is obsolete. 
 
-# Phase III: .
+### Phase III: .
 
- 
-
-## THE
+THE
 
  
 
@@ -260,9 +250,9 @@ Execution certainty.
 
 They allocate to systems, not personalities.
 
-Fund-III must operate like an institutional machine.
+Fund-III must operate like an institutional machine. 
 
-# Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER The resources we manage are not arbitrary.
 
@@ -312,13 +302,13 @@ The market rewards efficiency with scaled allocations.
 
 Growth follows clean mechanics.
 
-Never the opposite.
+Never the opposite. 
 
-# Phase V: .
+### Phase V: .
 
 EXIT The exit 
 
-# Layer I: s not optional
+### Layer I: s not optional
 
 .
 
@@ -338,7 +328,7 @@ Set the benchmark.
 
 Then surpass it.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

@@ -10,15 +10,11 @@ The capital vacuum in the middle market buyout ecosystem is not a function of as
 
 It is the direct expression of regulatory deceleration, increased compliance drag, and a multi-year misalignment between GP execution velocity and LP diligence cycles.
 
-The allocators who understand this structural gap are reallocating from generalized asset pools toward platforms with disciplined Asset-Backed Frameworks, predictable operational cadence, and established Fund-III architectures with validated acquisition engines.
+The allocators who understand this structural gap are reallocating from generalized asset pools toward platforms with disciplined Asset-Backed Frameworks, predictable operational cadence, and established Fund-III architectures with validated acquisition engines. 
 
-# Phase I: .
+### Phase I: .
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -46,15 +42,11 @@ Yet the gap between sub-institutional operators and institutional allocators per
 
 This is where specialized partners such as NAEOC create alignment through standardized due diligence, technical validation, and domain stewardship.
 
-When combined with institutional-grade structuring, the Alberta corridor becomes an efficient deployment zone for capital seeking cash-flow durability rather than volumetric speculation.
+When combined with institutional-grade structuring, the Alberta corridor becomes an efficient deployment zone for capital seeking cash-flow durability rather than volumetric speculation. 
 
-# Phase II: .
+### Phase II: .
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -128,13 +120,11 @@ Alberta’s reservoirs depend on disciplined decline curve management, predictab
 
 NAEOC standardizes domain underwriting, provides technical field intelligence, and ensures stewardship-driven resource extraction.
 
-In EU structures, MiFID II frameworks require a governance infrastructure capable of supporting multi-jurisdictional oversight, data standardization, and transparent capital provenance.
+In EU structures, MiFID II frameworks require a governance infrastructure capable of supporting multi-jurisdictional oversight, data standardization, and transparent capital provenance. 
 
-# Phase III: .
+### Phase III: .
 
- 
-
-## THE
+THE
 
  
 
@@ -156,9 +146,9 @@ Institutional
 
  Layer The 
 
- INTRODUCTION
+ INTRODUCTION 
 
-# Layer C
+### Layer C
 
 onnects LPs with verified operators whose acquisition engines or energy assets have already been technically validated.
 
@@ -170,7 +160,7 @@ The institutional introducer ensures that each counterparty has the operational 
 
 Operational Intelligence 
 
-# Layer I: nstitutions require clarity on operating rhythms
+### Layer I: nstitutions require clarity on operating rhythms
 
 .
 
@@ -182,7 +172,7 @@ The operational intelligence layer standardizes these data flows.
 
 Structural Engineering Layer This 
 
-# Layer D: efines the capital structure, including
+### Layer D: efines the capital structure, including
 
 :
 
@@ -200,9 +190,9 @@ Structural Engineering Layer This
 
 Stewardship Coordination Layer Partnering with entities such as NAEOC, this layer ensures resource stewardship, operational compliance, and ethical extraction.
 
-In the buyout ecosystem, stewardship takes the form of non-wasteful operational execution, ensuring that value creation is driven by efficiency, not asset overextension.
+In the buyout ecosystem, stewardship takes the form of non-wasteful operational execution, ensuring that value creation is driven by efficiency, not asset overextension. 
 
-# Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship represents a discipline, not a moral accessory.
 
@@ -230,9 +220,9 @@ NAEOC exemplifies this through standardized field audits, decline curve validati
 
 Relational Stewardship Strategic alignment between LPs and GPs requires integrity, operational clarity, and predictable communication.
 
-Stewardship in this context ensures systemic trust and eliminates relational friction.
+Stewardship in this context ensures systemic trust and eliminates relational friction. 
 
-# Phase V: .
+### Phase V: .
 
 DECISION-MAKING LENS FOR ALLOCATORS The allocator navigating the 2026 landscape evaluates opportunities through a lens focused on operational certainty, structural advantage, and stewardship alignment.
 

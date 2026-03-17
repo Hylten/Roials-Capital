@@ -577,7 +577,7 @@ The sovereign facility is the ultimate institutional weapon.
 
 For principal review, initiate a confidential capital audit.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

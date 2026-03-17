@@ -492,9 +492,7 @@ With standards, it becomes architecture.
 
 XIV.
 
-Principal Mandate 
-
-## THE MANDAT
+Principal Mandate THE MANDAT
 
 E
 
@@ -534,7 +532,7 @@ Terminal Metric: Enforcement Coherence Index =
 
 92.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

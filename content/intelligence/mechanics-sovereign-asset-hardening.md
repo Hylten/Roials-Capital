@@ -20,13 +20,9 @@ Heavy oil development in Alberta, classical buyout platforms in stable mid marke
 
 The common thread is not sector specific.
 
-It is structural: the progression from unsecured optionality to hardened, collateral rich, covenant governed balance sheets. 
+It is structural: the progression from unsecured optionality to hardened, collateral rich, covenant governed balance sheets.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -68,13 +64,9 @@ The strategy is not centered on growth.
 
 It is centered on resilience, cross cycle continuity, and institutional portability.
 
-Allocators are increasingly securing exposure to real cash flow, collateral anchored balance sheets, and operating platforms that retain control under volatile funding conditions. 
+Allocators are increasingly securing exposure to real cash flow, collateral anchored balance sheets, and operating platforms that retain control under volatile funding conditions.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -184,7 +176,7 @@ THE PARTNERSHIP MODEL AND ROIALS CAPITAL'S ROLE Roials Capital functions as a st
 
 The objective is not to present asset offerings but to provide allocators with structured intelligence, counterpart mapping, and operational clarity across capital channels.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -214,13 +206,9 @@ In all cases, Roials Capital maintains a neutral technical posture.
 
 The function is not distribution.
 
-The function is strategic alignment and counterpart calibration. 
+The function is strategic alignment and counterpart calibration.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Institutional asset stewardship is increasingly interpreted through the lens of responsibility and resource governance
+THE STEWARDSHIP FILTER Institutional asset stewardship is increasingly interpreted through the lens of responsibility and resource governance
 
 .
 
@@ -286,7 +274,7 @@ Roials Capital provides confidential Strategy Audits and Portfolio Calibration e
 
 The objective is to provide clarity on the operational regime and introduce the correct institutional partners where alignment exists.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

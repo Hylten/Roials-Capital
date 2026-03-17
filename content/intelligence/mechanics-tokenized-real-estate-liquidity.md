@@ -34,13 +34,9 @@ This is
 
  THE REGIME SHIFT
 
- . 
+ .
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -86,13 +82,9 @@ Tokenized real estate becomes the anchor asset for local liquidity because it cr
 
 It becomes the operational treasury of local economies.
 
-The firm positions Fund-III to exploit that velocity mismatch. 
+The firm positions Fund-III to exploit that velocity mismatch.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -158,11 +150,9 @@ In oil and gas mandates, tokenized mineral rights or infrastructure cash flows c
 
 Recovery factors improve because the asset rights become transferable objects rather than geologically anchored paperwork.
 
-Strategic Collateralization emerges as an institutional discipline rather than a technology experiment. 
+Strategic Collateralization emerges as an institutional discipline rather than a technology experiment.
 
- 
-
-## THE
+THE
 
  
 
@@ -218,13 +208,9 @@ Fund-III scales because the firm eliminates friction.
 
 It treats tokenized real estate not as an asset class but as an operational infrastructure that removes latency from every part of the capital chain.
 
-Slow institutions cannot compete with an adversary that moves this quickly. 
+Slow institutions cannot compete with an adversary that moves this quickly.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is not sentiment
+THE STEWARDSHIP FILTER Stewardship is not sentiment
 
 .
 
@@ -267,7 +253,7 @@ They serve.
 EXIT Projected collateral clearance window inside tokenized structures: 4.
 7 hours.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

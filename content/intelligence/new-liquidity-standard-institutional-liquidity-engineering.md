@@ -36,15 +36,11 @@ The public markets no longer reward patience.
 
 They punish immobility.
 
-The New Liquidity Standard emerges because the legacy liquidity model failed its stewards.
+The New Liquidity Standard emerges because the legacy liquidity model failed its stewards. 
 
-# Phase I: .
+### Phase I: .
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -123,15 +119,11 @@ It is engineered liquidity calibrated to volatility, float structure, issuer cov
 
 The public market pretended to offer liquidity.
 
-The private market now delivers it.
+The private market now delivers it. 
 
-# Phase II: .
+### Phase II: .
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -245,13 +237,11 @@ Liquidity that cannot be timed is liquidity that cannot serve buyout velocity.
 
 The market cannot offer timing.
 
-Only structure can.
+Only structure can. 
 
-# Phase III: .
+### Phase III: .
 
- 
-
-## THE
+THE
 
  
 
@@ -315,9 +305,9 @@ This is a category error.
 
 The New Liquidity Standard integrates them.
 
-Extraction is only meaningful when paired with allocation velocity.
+Extraction is only meaningful when paired with allocation velocity. 
 
-# Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship is not sentiment.
 
@@ -381,13 +371,11 @@ It structures around irrationality.
 
 The public markets no longer reward passive holding.
 
-The steward must act before volatility acts for him.
+The steward must act before volatility acts for him. 
 
-# Phase V: .
+### Phase V: .
 
-EXIT
-
-## THE MANDAT
+EXIT THE MANDAT
 
 E
 
@@ -401,7 +389,7 @@ The technical threshold is
 
 180 day volatility band.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

@@ -36,7 +36,7 @@ We stabilize and capitalize assets so they become tools of expansion rather than
 
 This is the framework.
 
-## Public Share Strategic Collateralization:
+Public Share Strategic Collateralization:
 
  
 5 Million Minimum for Structural Stability Public equities require a different architecture.
@@ -58,9 +58,9 @@ It allows us to engineer liquidity without disrupting voting rights, tax posture
 
 Public share Capital Structuring is often used by clients who seek liquidity for acquisitions, structured deals, or cross‑border investment cycles.
 
-It is one of the most critical tools for sovereign asset movement. 
+It is one of the most critical tools for sovereign asset movement.
 
-## Why Sovereign Hardening Outperforms Traditional Banking Private banking models were designed for a slower financial environment
+Why Sovereign Hardening Outperforms Traditional Banking Private banking models were designed for a slower financial environment
 
 .
 
@@ -110,9 +110,9 @@ Institutional strength without institutional friction
 
 * 
 
-* ROIALS CAPITAL provides the structural authority of institutional capital without the rigidity. 
+* ROIALS CAPITAL provides the structural authority of institutional capital without the rigidity.
 
-## The Architecture of Expansion Once assets are hardened, growth becomes a function of design rather than reaction
+The Architecture of Expansion Once assets are hardened, growth becomes a function of design rather than reaction
 
 .
 
@@ -132,9 +132,7 @@ A hardened asset base allows clients to:
 
 This is how sovereign capital behaves.
 
-This is the framework behind ROIALS CAPITAL. 
-
-## principal authority: The F‑Hierarchical Dynamics ROIALS CAPITAL operates through what we define as F Hierarchical Dynamics
+This is the framework behind ROIALS CAPITAL. principal authority: The F‑Hierarchical Dynamics ROIALS CAPITAL operates through what we define as F Hierarchical Dynamics
 
 .
 
@@ -154,9 +152,9 @@ They give shape to capital so it behaves with institutional predictability.
 
 For HNWI and UHNW clients, this is not optional.
 
-It is the difference between managing assets and commanding them. 
+It is the difference between managing assets and commanding them.
 
-## The Outcome: Capital That Behaves Like a Sovereign System When assets are hardened, liquidity becomes predictable
+The Outcome: Capital That Behaves Like a Sovereign System When assets are hardened, liquidity becomes predictable
 
 .
 
@@ -172,13 +170,13 @@ It is now accessible for individuals whose asset scale requires the same discipl
 
 ROIALS CAPITAL provides the architecture.
 
-The client retains the sovereignty. 
+The client retains the sovereignty.
 
-## Request Confidential Audit If your capital requires structural hardening, controlled leverage, and sovereign grade liquidity, request a confidential audit
+Request Confidential Audit If your capital requires structural hardening, controlled leverage, and sovereign grade liquidity, request a confidential audit
 
 .
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

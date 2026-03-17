@@ -10,13 +10,9 @@ The structural gap in private credit today is not driven by a shortage of opport
 
 It is driven by the withdrawal of regulated lenders at the exact moment when lower middle market and mid market borrowers require stable, patient, institutionally governed capital.
 
-The capital vacuum has created a bifurcation between opportunistic lending and institutionally architected private credit platforms designed for duration reliability, underwriting visibility, and disciplined balance sheet optimization. 
+The capital vacuum has created a bifurcation between opportunistic lending and institutionally architected private credit platforms designed for duration reliability, underwriting visibility, and disciplined balance sheet optimization.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -56,13 +52,9 @@ This new regime favors platforms with institutional backers.
 
 Such platforms demonstrate the ability to pair sponsor discipline with defensive positioning, consistent loan servicing, and capital stack visibility.
 
-They operate not as yield chasers but as liquidity engineers capable of deploying capital into environments where traditional lenders cannot maintain velocity. 
+They operate not as yield chasers but as liquidity engineers capable of deploying capital into environments where traditional lenders cannot maintain velocity.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -202,11 +194,7 @@ Roials Capital maintains intelligence across the United States, Europe, Canada, 
 
 3.
 
-INSTITUTIONAL 
-
- 
-
-## INTRODUCTIO
+INSTITUTIONAL INTRODUCTIO
 
 N
 
@@ -216,13 +204,9 @@ In energy, the institutional grade partner is NAEO.
 
 In private credit for buyouts and add ons, the counterparties are sector specialized lenders with track records in sponsor finance.
 
-This neutral introducer role preserves compliance integrity while ensuring allocators encounter only structurally resilient opportunities. 
+This neutral introducer role preserves compliance integrity while ensuring allocators encounter only structurally resilient opportunities.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the discipline of managing capital without waste
+THE STEWARDSHIP FILTER Stewardship is the discipline of managing capital without waste
 
 .
 

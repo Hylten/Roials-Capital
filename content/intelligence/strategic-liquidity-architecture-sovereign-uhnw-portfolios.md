@@ -12,13 +12,9 @@ The result is a multi year dislocation where balance sheet constrained operators
 
 In parallel, sovereign allocators and ultra high net worth principals are navigating a global regime shift where liquidity premiums, structural seniority, and operational transparency hold more relevance than nominal yield targets.
 
-Strategic liquidity architecture has therefore evolved into a discipline of capital routing rather than capital deployment. 
+Strategic liquidity architecture has therefore evolved into a discipline of capital routing rather than capital deployment.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -60,13 +56,9 @@ These structural drivers form the backdrop against which liquidity engineering h
 
 Allocators are no longer optimizing for outperformance.
 
-They are optimizing for resilience, optionality, and regime neutral positioning. 
+They are optimizing for resilience, optionality, and regime neutral positioning.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -196,13 +188,9 @@ Roials Capital provides the mapping, not the execution.
 
 In energy mandates, NAEO serves as the strategic partner whose operational discipline, reservoir transparency, and Alberta basin expertise meet institutional requirements.
 
-This partnership model is designed to eliminate informational asymmetry and reduce operator selection risk without engaging in solicitation or promotional behavior. 
+This partnership model is designed to eliminate informational asymmetry and reduce operator selection risk without engaging in solicitation or promotional behavior.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is treated as a capital discipline grounded in responsibility, accountability, and non wasteful resource management
+THE STEWARDSHIP FILTER Stewardship is treated as a capital discipline grounded in responsibility, accountability, and non wasteful resource management
 
 .
 

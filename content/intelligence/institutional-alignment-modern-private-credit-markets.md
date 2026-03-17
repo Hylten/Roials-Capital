@@ -10,13 +10,9 @@ The capital vacuum in North American and European private credit markets is a co
 
 The result is a regime where liquidity has become bifurcated, price discovery has become asymmetric, and the most resilient credit opportunities are migrating toward sponsors capable of operational precision, underwriting discipline, and cross-cycle cash flow control.
 
-This memorandum outlines the mechanics behind that shift, the technical attributes allocators now prioritize in partners, and the market structures that govern capital formation for Fund-III environments, Asset-Based Lending deployment, and strategic mandates spanning North American energy and European MiFID II transactions. 
+This memorandum outlines the mechanics behind that shift, the technical attributes allocators now prioritize in partners, and the market structures that govern capital formation for Fund-III environments, Asset-Based Lending deployment, and strategic mandates spanning North American energy and European MiFID II transactions.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -48,13 +44,9 @@ Third, sector specific special mandates, especially North American energy, attra
 
 Opportunity velocity in this regime is dominated by managers who can compress underwriting cycles, access proprietary flow, and maintain operational visibility across balance sheet intensive sectors.
 
-The allocators that achieve the best alignment are those who structure multi stage commitments that match the cadence of acquisition pipelines rather than the calendar cycle of fund closings. 
+The allocators that achieve the best alignment are those who structure multi stage commitments that match the cadence of acquisition pipelines rather than the calendar cycle of fund closings.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -172,13 +164,9 @@ The partnership model is built on three pillars:
 
 - Operational discipline.
 
-- Governance alignment. 
+- Governance alignment.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is a discipline of non wasteful resource management
+THE STEWARDSHIP FILTER Stewardship is a discipline of non wasteful resource management
 
 .
 

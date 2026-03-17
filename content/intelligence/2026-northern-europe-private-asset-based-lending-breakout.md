@@ -24,7 +24,7 @@ The vacuum appears.
 
 Principals 
 
-# Step I: n
+### Step I: n
 
 .
 
@@ -64,7 +64,7 @@ Slow capital suffocates add-on strategies before they mature.
 
 Private lenders 
 
-# Step I
+### Step I
 
 nto the space not as opportunists but as systemic correctors.
 

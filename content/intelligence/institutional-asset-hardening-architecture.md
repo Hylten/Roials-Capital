@@ -8,9 +8,7 @@ slug: "institutional-asset-hardening-architecture"
 
 A structural gap always reveals itself first in recovery math.
 
-When the asset base cannot carry the velocity of 
-
-## THE MANDAT
+When the asset base cannot carry the velocity of THE MANDAT
 
 E
 
@@ -38,15 +36,11 @@ We treat capital as a sovereign asset.
 
 We harden the foundations before we scale the exposures.
 
-This briefing outlines the institutional framework required for Fund-III operators who intend to raise at velocity, execute at precision, and create liquidity on command.
+This briefing outlines the institutional framework required for Fund-III operators who intend to raise at velocity, execute at precision, and create liquidity on command. 
 
-# Phase I: .
+### Phase I: .
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -90,15 +84,11 @@ THE REGIME SHIFT
 
  is unforgiving.
 
-Capital follows the managers who build institutional machines, not the managers who improvise.
+Capital follows the managers who build institutional machines, not the managers who improvise. 
 
-# Phase II: .
+### Phase II: .
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -150,13 +140,11 @@ These mechanics are the minimum threshold for Fund-III level seriousness.
 
 Anything less signals amateurism.
 
-Capital sees amateurism immediately.
+Capital sees amateurism immediately. 
 
-# Phase III: .
+### Phase III: .
 
- 
-
-## THE
+THE
 
  
 
@@ -229,9 +217,9 @@ The
 
  is designed to create durability under institutional load.
 
-Nothing else matters.
+Nothing else matters. 
 
-# Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Capital is never neutral.
 
@@ -285,9 +273,9 @@ Stewardship is the filter that keeps a GP aligned with institutional capital rat
 
 The LP community senses this immediately.
 
-Capital flows where stewardship is provable.
+Capital flows where stewardship is provable. 
 
-# Phase V: .
+### Phase V: .
 
 EXIT We close with one controlling metric.
 
@@ -301,7 +289,7 @@ LPs recognize this.
 
 They act on it.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

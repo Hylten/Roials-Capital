@@ -20,13 +20,9 @@ Its relevance is tied directly to foundational changes in how transactions are s
 
 In the present environment, the power of private credit is not defined by coupon levels or yield dispersion.
 
-Its strength is defined by control of timing, structural seniority, covenant precision, and the ability to synchronize asset hardening with acquisitions that require predictable execution. 
+Its strength is defined by control of timing, structural seniority, covenant precision, and the ability to synchronize asset hardening with acquisitions that require predictable execution.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -56,13 +52,9 @@ First, acquisition timing is now shaped by seller psychology connected to rate e
 
 Second, M&A valuations remain stable even as lenders reduce leverage tolerance.
 
-The gap between valuation stability and lender retrenchment is filled by private credit providers that accept operational complexity in exchange for priority positioning and covenant alignment. 
+The gap between valuation stability and lender retrenchment is filled by private credit providers that accept operational complexity in exchange for priority positioning and covenant alignment.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -172,13 +164,9 @@ These mandates operate in the 50M to 250M range.
 
 The partnership model is defined by neutrality, discipline, and institutional standardization.
 
-It ensures that capital providers enter environments where structural risk is understood, operational behavior is predictable, and capital sequencing is controlled. 
+It ensures that capital providers enter environments where structural risk is understood, operational behavior is predictable, and capital sequencing is controlled.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship in capital architecture is defined as non wasteful resource management
+THE STEWARDSHIP FILTER Stewardship in capital architecture is defined as non wasteful resource management
 
 .
 

@@ -18,13 +18,9 @@ Asset based financing has reemerged not as a niche product but as a primary arch
 
 The rationale is not yield seeking.
 
-It is institutional durability. 
+It is institutional durability.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -50,13 +46,9 @@ Monetization through structured asset based financing introduces liquidity witho
 
 The consequence is a new capital regime defined by operational resilience, reduced opportunity cost, and improved strategic optionality.
 
-Asset based financing is the mechanism that translates these conditions into functional liquidity. 
+Asset based financing is the mechanism that translates these conditions into functional liquidity.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -174,13 +166,9 @@ For UHNW families, the
 
  focuses on family capital vehicles, credit platforms, and specialty lenders aligned with the client’s strategic posture.
 
-The partnership model ensures that principals operate with structural clarity rather than market noise. 
+The partnership model ensures that principals operate with structural clarity rather than market noise.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is not philanthropy
+THE STEWARDSHIP FILTER Stewardship is not philanthropy
 
 .
 

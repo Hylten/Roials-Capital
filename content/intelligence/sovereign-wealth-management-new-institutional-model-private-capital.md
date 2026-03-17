@@ -18,13 +18,9 @@ The allocator landscape has reorganized into a hierarchy where sovereign institu
 
 Fund-III and Fund-IV mandates are the primary beneficiaries of this realignment.
 
-These vehicles provide the scale, governance maturity, and operational standardization required for sovereign onboarding. 
+These vehicles provide the scale, governance maturity, and operational standardization required for sovereign onboarding.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -60,13 +56,9 @@ Within this domain, sovereign wealth entities have become the system stabilizers
 
 Their presence defines acceptable risk architecture for the rest of the capital stack.
 
-Private equity funds entering Fund-III or Fund-IV cycles increasingly must position themselves within this sovereign-led hierarchy to achieve scale and continuity. 
+Private equity funds entering Fund-III or Fund-IV cycles increasingly must position themselves within this sovereign-led hierarchy to achieve scale and continuity.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -146,13 +138,9 @@ The institutional relationship with NAEO is significant.
 
 NAEO provides operational intelligence and execution capability in the Alberta energy ecosystem.
 
-Roials Capital provides the allocators, the governance interface, and the capital architecture. 
+Roials Capital provides the allocators, the governance interface, and the capital architecture.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Sovereign wealth management at scale requires a stewardship discipline that transcends commercial capital
+THE STEWARDSHIP FILTER Sovereign wealth management at scale requires a stewardship discipline that transcends commercial capital
 
 .
 

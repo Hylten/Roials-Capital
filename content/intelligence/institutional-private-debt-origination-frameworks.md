@@ -24,15 +24,11 @@ This briefing clarifies
 
  THE REGIME SHIFT
 
- , the mechanics that follow, and the institutional consequences for Fund-III and beyond.
+ , the mechanics that follow, and the institutional consequences for Fund-III and beyond. 
 
-# Phase I: .
+### Phase I: .
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -86,15 +82,11 @@ The structural landscape confirms this.
 
 - MiFID II European acquisition pathways tighten, increasing regulatory friction for non-institutional operators.
 
-The next vintage belongs to the funds that replace intuition with architecture.
+The next vintage belongs to the funds that replace intuition with architecture. 
 
-# Phase II: .
+### Phase II: .
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -182,13 +174,11 @@ When liquidity becomes programmable, counterparty dependency declines.
 
 Default probability compresses.
 
-Capital survives.
+Capital survives. 
 
-# Phase III: .
+### Phase III: .
 
- 
-
-## THE
+THE
 
  
 
@@ -262,9 +252,9 @@ Special Mandates A modern private credit enterprise cannot remain monolithic.
 
 Special mandates are not distractions.
 
-They are yield stabilizers that supply the fund with multi-regime resilience.
+They are yield stabilizers that supply the fund with multi-regime resilience. 
 
-# Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Financial architecture is ultimately stewardship.
 
@@ -311,15 +301,15 @@ Institutional capital formation honors these constraints.
 
 Stewardship in Fund-III means allocating capital only where dominion can be exercised responsibly.
 
-Nothing else qualifies.
+Nothing else qualifies. 
 
-# Phase V: .
+### Phase V: .
 
 EXIT Target loss ratio: below
 
 40 basis points across the cycle.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

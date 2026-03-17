@@ -89,9 +89,9 @@ Short sentences.
 
 Hard impact.
 
-Precision wins.
+Precision wins. 
 
-# Layer II: .
+### Layer II: .
 
 Structural Arbitrage Jurisdiction determines optionality.
 
@@ -115,9 +115,9 @@ Asset-Based Strategic Collateralization is born where legal reality is cheaper t
 
 The sovereign mandate demands jurisdictional arbitrage.
 
-No apologies.
+No apologies. 
 
-# Layer III: .
+### Layer III: .
 
 Institutional Hierarchical Dynamics Banks lend on history.
 
@@ -139,9 +139,9 @@ A sovereign firm controls its own liquidity. **Proverbs 13:22
 
 * 
 
-* .
+* . 
 
-# Layer IV: .
+### Layer IV: .
 
 Sovereign Output Asset-Based Lending outputs are predictable when engineered correctly:
 
@@ -343,7 +343,7 @@ Sovereignty.
 
 This is the architecture that elevates Fund-III from successful to unstoppable.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

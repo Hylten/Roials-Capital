@@ -18,7 +18,7 @@ A principal does not chase markets.
 
 A principal governs them.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -322,11 +322,7 @@ Not the market.
 
 - 
 
-- THE MANDATE
-
- 
-
-## THE MANDAT
+- THE MANDATE THE MANDAT
 
 E
 
@@ -374,13 +370,13 @@ Only mandate.
 
 - ## Principal Directive If your capital requires discretion, structural alignment, and hardened deployment architecture, the next 
 
-# Step I: s obvious
+### Step I: s obvious
 
 .
 
 Request confidential audit.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

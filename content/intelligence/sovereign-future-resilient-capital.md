@@ -20,13 +20,9 @@ The sovereign future of capital formation is moving toward resilience anchored i
 
 Modern allocators are less interested in thematic narratives and more aligned with three principles: downside calculability, operational determinism, and jurisdictional rule-of-law.
 
-These principles form the basis for capital stewardship and are driving renewed attention toward North American energy, asset based lending structures, and specialist buyout platforms where operational uplift is measurable rather than theoretical. 
+These principles form the basis for capital stewardship and are driving renewed attention toward North American energy, asset based lending structures, and specialist buyout platforms where operational uplift is measurable rather than theoretical.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -66,13 +62,9 @@ The lack of domain discipline has accelerated demand for partners that can filte
 
 The allocator that adapts to this landscape reclaims strategic positioning.
 
-The allocator that ignores it is exposed to synthetic diversification without real downside governance. 
+The allocator that ignores it is exposed to synthetic diversification without real downside governance.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -168,13 +160,9 @@ They are targeted entries backed by geological determinism and reservoir predict
 
 In Europe, MiFID II aligned acquisition strategies require compliant structuring and tactical execution.
 
-Roials Capital supports by ensuring that institutional governance, counterparty quality, and regulatory alignment are maintained. 
+Roials Capital supports by ensuring that institutional governance, counterparty quality, and regulatory alignment are maintained.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management
+THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management
 
 .
 

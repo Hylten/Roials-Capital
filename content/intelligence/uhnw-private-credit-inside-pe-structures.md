@@ -64,7 +64,7 @@ Structural Priority.
 
 They 
 
-# Step I
+### Step I
 
 nto senior or unitranche exposure within a PE‑controlled environment.
 

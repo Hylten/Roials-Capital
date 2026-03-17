@@ -26,13 +26,9 @@ The analysis covers
 
 The objective is not promotion but clarity.
 
-When allocators understand the architecture, the strategic alignment dialogue becomes data driven rather than relational. 
+When allocators understand the architecture, the strategic alignment dialogue becomes data driven rather than relational.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -70,13 +66,9 @@ These forces create a regulatory-driven scarcity of functional liquidity.
 
 The allocators that outperform in this regime are building balance sheets designed for sovereign-like durability.
 
-They engineer stability at the top of the stack so that acquisition velocity at the bottom of the stack can accelerate without increasing fragility. 
+They engineer stability at the top of the stack so that acquisition velocity at the bottom of the stack can accelerate without increasing fragility.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -130,13 +122,9 @@ Liquidity Engineering uses:
 
 * intercreditor alignment
 
-* recycling mechanisms These mechanics allow allocators to deploy capital into acquisition windows that are closing faster than bank underwriting cycles can accommodate. 
+* recycling mechanisms These mechanics allow allocators to deploy capital into acquisition windows that are closing faster than bank underwriting cycles can accommodate.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -190,9 +178,9 @@ When engineered correctly, ABL functions like a sovereign liquidity buffer.
 
 ## THE MANDAT
 
-E
+E 
 
-# Layer I: s where institutional introductions matter
+### Layer I: s where institutional introductions matter
 
 .
 
@@ -252,13 +240,9 @@ In buyouts and ABL programs, Roials maintains neutrality and focuses exclusively
 
 The partnership model is designed to protect allocators from structural drift, operational noise, and compliance friction.
 
-The objective is clarity, not persuasion. 
+The objective is clarity, not persuasion.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is not a moral slogan
+THE STEWARDSHIP FILTER Stewardship is not a moral slogan
 
 .
 
@@ -312,7 +296,7 @@ The key evaluation questions are:
 
 * Is the stewardship filter embedded in each structural element When allocators review these criteria, the next logical 
 
-# Step I
+### Step I
 
 s often a confidential strategy audit or a portfolio calibration dialogue.
 

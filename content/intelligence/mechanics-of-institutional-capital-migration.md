@@ -16,13 +16,9 @@ Institutional migration is not an emotional phenomenon.
 
 It is a rules-based reallocation pattern governed by balance sheet pressure, portfolio calibration models, and regulatory capital weighting.
 
-The current regime demonstrates the same characteristics observable in 1986, 1999, 2009, and 2020, with allocators repositioning toward assets that offer durability, jurisdictional stability, and predictable operational mechanics. 
+The current regime demonstrates the same characteristics observable in 1986, 1999, 2009, and 2020, with allocators repositioning toward assets that offer durability, jurisdictional stability, and predictable operational mechanics.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -62,13 +58,9 @@ The Alberta basin demonstrates this principle.
 
 Resource stability, reservoir predictability, and infrastructure density are structurally unchanged.
 
-What changed is the institutional perception of regulatory cost, which created a mispriced domain where intermediaries with technical intelligence generate clarity for global allocators. 
+What changed is the institutional perception of regulatory cost, which created a mispriced domain where intermediaries with technical intelligence generate clarity for global allocators.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -158,13 +150,9 @@ Opportunity Velocity The velocity of high-certainty opportunities is low unless 
 
 Roials maintains a proprietary pipeline across buyout platforms, Asset-Based Lending structures, and North American energy operators.
 
-This operational intelligence reduces discovery costs for allocators. 
+This operational intelligence reduces discovery costs for allocators.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is treated not as philanthropy but as a discipline of non-wasteful resource management
+THE STEWARDSHIP FILTER Stewardship is treated not as philanthropy but as a discipline of non-wasteful resource management
 
 .
 
@@ -210,7 +198,7 @@ This dialogue is not a solicitation.
 
 It is a structural assessment designed to map institutional objectives to the current capital migration regime.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

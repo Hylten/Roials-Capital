@@ -16,7 +16,9 @@ The institutions that master it gain asymmetric liquidity power.
 
 Everyone else will borrow it at a premium.
 
-Order is not an option. # The rise of sovereign crypto banks is not a trend.
+Order is not an option.
+
+The rise of sovereign crypto banks is not a trend.
 
 It is a migration of state authority into programmable balance sheets.
 
@@ -44,7 +46,9 @@ Private credit will be shaped by institutions that can issue liquidity with the 
 
 Sovereign crypto banks are not competition.
 
-They are a template for institutional scale. # Capital Structuring is mechanical.
+They are a template for institutional scale.
+
+Capital Structuring is mechanical.
 
 It rewards architects, not speculators.
 
@@ -96,7 +100,9 @@ They value certainty over rate.
 
 They value time over yield.
 
-They value sovereignty above everything. # The 
+They value sovereignty above everything.
+
+The 
 
  STRATEGIC MODEL
 
@@ -160,9 +166,7 @@ Disorder is sin. **Proverbs 13:22
 
 * 
 
-* sets 
-
-## THE MANDAT
+* sets THE MANDAT
 
 E
 
@@ -196,8 +200,9 @@ A steward multiplies.
 
 A steward rejects friction.
 
-When Fund-III integrates the sovereign crypto bank architecture with a stewardship doctrine, it becomes a fortress in a financial world defined by instability. 
-## EXIT The institutional mandate is simple
+When Fund-III integrates the sovereign crypto bank architecture with a stewardship doctrine, it becomes a fortress in a financial world defined by instability.
+
+EXIT The institutional mandate is simple
 
 .
 
@@ -207,7 +212,7 @@ Reduce liquidity latency to sub
 
 Request a confidential capital audit.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

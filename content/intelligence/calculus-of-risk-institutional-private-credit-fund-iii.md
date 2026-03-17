@@ -66,9 +66,9 @@ Capital moves.
 
 Risk concentrates.
 
-Structure wins. 
+Structure wins.
 
-## INSTITUTIONAL RISK CALCULUS: THE CORE ENGINE Private credit today is defined by five forces
+INSTITUTIONAL RISK CALCULUS: THE CORE ENGINE Private credit today is defined by five forces
 
 :
 
@@ -162,9 +162,9 @@ Kapitalanskaffning collapses.
 
 The calculus requires elimination-not management-of asymmetry.
 
-Good structures do this automatically. 
+Good structures do this automatically.
 
-## THE FUND‑III CHALLENGE: CAPITAL EXPECTATIONS HAVE MUTATED Institutional LPs have evolved
+THE FUND‑III CHALLENGE: CAPITAL EXPECTATIONS HAVE MUTATED Institutional LPs have evolved
 
 .
 
@@ -226,9 +226,9 @@ If a GP cannot operate like a regulated institution, LPs will not wire instituti
 
 These pressures are amplified in buyouts and add-ons, where sponsor underwriting quality varies wildly.
 
-LPs want proof the GP can impose discipline on sponsors rather than absorb their risk. 
+LPs want proof the GP can impose discipline on sponsors rather than absorb their risk.
 
-## BUYOUTS AND ADD-ONS: THE HARD MATH OF SPONSOR DEPENDENCY The credit calculus changes in sponsor-backed deals
+BUYOUTS AND ADD-ONS: THE HARD MATH OF SPONSOR DEPENDENCY The credit calculus changes in sponsor-backed deals
 
 .
 
@@ -334,9 +334,9 @@ Every Fund‑III should run one.
 
 Or two.
 
-Velocity wins. 
+Velocity wins.
 
-## ENERGY MANDATES (NAEOC $50M-$250M): RISK WITH GRAVITY Energy private credit behaves differently
+ENERGY MANDATES (NAEOC $50M-$250M): RISK WITH GRAVITY Energy private credit behaves differently
 
 .
 
@@ -388,9 +388,9 @@ Asset gravity matters.
 
 Convertibility matters.
 
-Execution matters. 
+Execution matters.
 
-## EU MiFID II ACQUISITIONS: THE REGULATION AS OPPORTUNITY MiFID II created a compliance labyrinth, but embedded within it are exploitable inefficiencies
+EU MiFID II ACQUISITIONS: THE REGULATION AS OPPORTUNITY MiFID II created a compliance labyrinth, but embedded within it are exploitable inefficiencies
 
 .
 
@@ -408,9 +408,9 @@ MiFID II is not a barrier.
 
 It is a moat.
 
-Those who navigate it raise capital faster. 
+Those who navigate it raise capital faster.
 
-## CAPITAL RAISING FOR FUND‑III: THE PRINCIPAL PLAYBOOK Kapitalanskaffning at Fund‑III must follow institutional logic
+CAPITAL RAISING FOR FUND‑III: THE PRINCIPAL PLAYBOOK Kapitalanskaffning at Fund‑III must follow institutional logic
 
 .
 
@@ -472,9 +472,9 @@ Provide full-fund liquidity contour LPs want to see exactly how cash enters, mov
 
 Uncertainty kills commitment.
 
-Capital raises itself when structure speaks. 
+Capital raises itself when structure speaks.
 
-## INSTITUTIONAL BEHAVIOR: HOW LPs MAKE DECISIONS TODAY LPs have compressed their evaluation cycle
+INSTITUTIONAL BEHAVIOR: HOW LPs MAKE DECISIONS TODAY LPs have compressed their evaluation cycle
 
 .
 
@@ -496,9 +496,9 @@ Fund‑III success depends on clarity, speed, and structural credibility.
 
 LPs no longer search for great fund managers.
 
-They search for institutional architects. 
+They search for institutional architects.
 
-## THE SOVEREIGN ARCHITECTURE OF PRIVATE CREDIT The highest-performing GPs operate like sovereign entities
+THE SOVEREIGN ARCHITECTURE OF PRIVATE CREDIT The highest-performing GPs operate like sovereign entities
 
 .
 
@@ -536,9 +536,9 @@ This architecture outperforms in every macro regime.
 
 It attracts institutional capital because it reduces uncertainty at the structural level.
 
-LPs trust systems more than narratives. 
+LPs trust systems more than narratives.
 
-## THE FINAL CALCULUS: RISK AS A CONTROLLED VARIABLE Private credit remains the only asset class where risk can be engineered, not merely priced
+THE FINAL CALCULUS: RISK AS A CONTROLLED VARIABLE Private credit remains the only asset class where risk can be engineered, not merely priced
 
 .
 
@@ -578,7 +578,7 @@ For GPs ready to fortify Fund‑III, expand institutional velocity, and pressure
 
 Terminal Metric: Required Liquidity Coverage Ratio (LCR) for Fund‑III institutional readiness = 1.62x minimum.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

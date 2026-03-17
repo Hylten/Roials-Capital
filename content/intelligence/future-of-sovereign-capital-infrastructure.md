@@ -12,13 +12,9 @@ This structural gap defines one of the clearest institutional dislocations of th
 
 The macro environment that institutional allocators must now navigate is characterized by capital scarcity in real-asset production systems, rising global sovereign allocation demands, and the transition from high liquidity regimes to disciplined balance sheet optimization.
 
-The result is a multi decade capital architecture reset where the allocator with superior operational intelligence can achieve strategic positioning rather than pursuit of isolated deals. 
+The result is a multi decade capital architecture reset where the allocator with superior operational intelligence can achieve strategic positioning rather than pursuit of isolated deals.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -62,13 +58,9 @@ The mispricing persists because capital discipline has outpaced regulatory moder
 
 The macro regime shift is therefore marked by dislocation: capital seeking productive assets and productive assets seeking disciplined capital.
 
-Sovereign capital infrastructure is emerging at the intersection. 
+Sovereign capital infrastructure is emerging at the intersection.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -156,7 +148,7 @@ Cash flow waterfalls Waterfall clarity is now a sovereign preference.
 
 Structures with multi 
 
-# Step C
+### Step C
 
 ross collateralization, layered seniority, or variable hurdle logic are disfavored unless the operational productivity of underlying assets is resilient.
 
@@ -208,13 +200,9 @@ The approach is analytical rather than promotional.
 
 In Asset-Based Lending mandates, Roials Capital aligns Asset-Backed Frameworks with balance sheet stabilization and asset hardening principles.
 
-The objective is not transaction volume but long horizon operational continuity. 
+The objective is not transaction volume but long horizon operational continuity.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER The future of sovereign capital infrastructure requires conceptual clarity around stewardship
+THE STEWARDSHIP FILTER The future of sovereign capital infrastructure requires conceptual clarity around stewardship
 
 .
 

@@ -392,7 +392,7 @@ Those who lose it. **Proverbs 13:22
 
 * .
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -409,7 +409,7 @@ To proceed, request a confidential capital audit.
 Throughput expectation: 14.
 7 bps structural drift tolerance.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

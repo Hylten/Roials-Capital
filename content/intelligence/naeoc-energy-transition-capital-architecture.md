@@ -16,7 +16,7 @@ The institutional stack must carry them.
 
 That creates our window.
 
-## THE MANDAT
+THE MANDAT
 
 E
 

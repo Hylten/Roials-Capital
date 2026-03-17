@@ -12,13 +12,9 @@ It is the direct outcome of regulatory divergence, tax friction, and the absence
 
 The current environment has created a structural asymmetry.
 
-Experienced LPs and UHNWIs with crypto density observe nominal appreciation yet face impaired convertibility, dislocated taxable events, and a lack of strategic counterparts capable of converting volatile digital value into institutional-grade liquidity streams. 
+Experienced LPs and UHNWIs with crypto density observe nominal appreciation yet face impaired convertibility, dislocated taxable events, and a lack of strategic counterparts capable of converting volatile digital value into institutional-grade liquidity streams.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -58,13 +54,9 @@ Despite aggregate wealth expansion inside digital assets, the allocators hold po
 
 Against this backdrop, liquidity engineering has emerged as a method of balance sheet stabilization rather than a method of yield generation.
 
-It enables the allocator to reconfigure the liquidity profile of their crypto exposure without triggering disposals. 
+It enables the allocator to reconfigure the liquidity profile of their crypto exposure without triggering disposals.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -158,13 +150,9 @@ Crypto portfolios require counterparties with risk governance sophistication, ta
 
 Roials Capital does not intermediate crypto assets.
 
-It structures strategic alignment pathways that allow allocators to enter institutional deal flow. 
+It structures strategic alignment pathways that allow allocators to enter institutional deal flow.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management
+THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management
 
 .
 

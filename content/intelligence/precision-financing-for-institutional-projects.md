@@ -24,9 +24,9 @@ Our framework is built on principal authority.
 
 We do not force attention.
 
-We hold it. 
+We hold it.
 
-## The Architecture Is Yours
+The Architecture Is Yours
 
 .
 
@@ -46,7 +46,7 @@ This is precision financing.
 
 This is ROIALS CAPITAL.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

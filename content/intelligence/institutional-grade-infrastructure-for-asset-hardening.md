@@ -16,15 +16,15 @@ It is intentional design for capital that must remain functional under stress.
 
 ROIALS CAPITAL positions itself at the intersection of private credit, asset based Monetization Architecture, and structural Capital Structuring.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
  is simple.
 
-Protect the underlying asset, preserve mobility of capital, and maintain principal authority over the financial mechanics that govern multi jurisdictional wealth. 
+Protect the underlying asset, preserve mobility of capital, and maintain principal authority over the financial mechanics that govern multi jurisdictional wealth.
 
-## Multi Layered Asset Protection Asset hardening requires more than liquidity
+Multi Layered Asset Protection Asset hardening requires more than liquidity
 
 .
 
@@ -38,9 +38,9 @@ ROIALS CAPITAL structures rely on multi layered containment that ensures:
 
 - Liquidity channels remain uninterrupted.
 
-This architecture provides a level of stability expected only in institutional ecosystems. 
+This architecture provides a level of stability expected only in institutional ecosystems.
 
-## Structural Mechanics for Institutional Capital The structural mechanics of capital determine whether wealth grows, stagnates, or collapses under stress
+Structural Mechanics for Institutional Capital The structural mechanics of capital determine whether wealth grows, stagnates, or collapses under stress
 
 .
 
@@ -54,9 +54,9 @@ Clients gain a framework where:
 
 - Documentation and custody remain unimpeachable.
 
-This becomes the baseline for long-term wealth engineering. 
+This becomes the baseline for long-term wealth engineering.
 
-## Cross Jurisdictional Flexibility Global wealth requires mobility across regulatory landscapes
+Cross Jurisdictional Flexibility Global wealth requires mobility across regulatory landscapes
 
 .
 
@@ -70,9 +70,9 @@ This includes:
 
 - Frameworks that adapt to regional liquidity environments.
 
-Flexibility becomes a structural advantage that keeps capital operational regardless of geography. 
+Flexibility becomes a structural advantage that keeps capital operational regardless of geography.
 
-## The Architecture of Control Asset hardening is ultimately about control
+The Architecture of Control Asset hardening is ultimately about control
 
 .
 
@@ -88,9 +88,9 @@ ROIALS CAPITAL provides this by engineering systems where:
 
 - The client retains complete visibility and command.
 
-The infrastructure becomes the scaffolding that ensures long term control over wealth. 
+The infrastructure becomes the scaffolding that ensures long term control over wealth.
 
-## Institutional Grade Execution Institutional execution is defined by precision
+Institutional Grade Execution Institutional execution is defined by precision
 
 .
 
@@ -106,9 +106,9 @@ The systems are predictable.
 
 The outcomes are engineered.
 
-ROIALS CAPITAL applies this discipline to private credit, asset based Capital Structuring, and collateralized structures for high stakes portfolios. 
+ROIALS CAPITAL applies this discipline to private credit, asset based Capital Structuring, and collateralized structures for high stakes portfolios.
 
-## End State: Hardened Wealth, Liquid Capability The final objective is simple
+End State: Hardened Wealth, Liquid Capability The final objective is simple
 
 .
 
@@ -120,13 +120,11 @@ Structures that remain silent.
 
 Asset hardening is the architecture that ensures the present is protected and the future remains unconstrained.
 
-ROIALS CAPITAL delivers that architecture for those who require institutional grade infrastructure without institutional friction. 
+ROIALS CAPITAL delivers that architecture for those who require institutional grade infrastructure without institutional friction.
 
-## Request confidential audi
+Request confidential audi
 
-t
-
-## TECHNICAL MANDATE Qualification Gates strictly observed
+t TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

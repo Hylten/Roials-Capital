@@ -72,13 +72,13 @@ Capital is choosing its new home.
 
 These pressures do not merely influence portfolio construction; they dictate it.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
  is no longer to deploy.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -430,7 +430,7 @@ For institutional LP/GP partners prepared to anchor into this mandate, initiate 
 
 Technical mandate: 42% target hard‑asset coverage ratio.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

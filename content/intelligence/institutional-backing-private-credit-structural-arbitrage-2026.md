@@ -22,9 +22,9 @@ This briefing delivers a technical, analyst-grade examination of
 
  , the mechanics underlying the Alberta heavy oil environment, and the strategic relevance of partnering with institutional-grade operators such as North American Energy Opportunities.
 
-It clarifies how Roials Capital functions as a strategic navigator, vetting counterparties and structuring pathways for allocators seeking resilient private credit exposure without promotional framing or implied forward guidance.
+It clarifies how Roials Capital functions as a strategic navigator, vetting counterparties and structuring pathways for allocators seeking resilient private credit exposure without promotional framing or implied forward guidance. 
 
-# Phase I: ## THE REGIME SHIF
+### Phase I: ## THE REGIME SHIF
 
 T
 
@@ -76,9 +76,9 @@ Repeatability of cash generation is valued higher than growth.
 
 Strategic alignment has become the new premium.
 
-Capital is flowing toward counterparties that operate with clarity of mandate, verifiable governance, and multi-cycle operational readiness.
+Capital is flowing toward counterparties that operate with clarity of mandate, verifiable governance, and multi-cycle operational readiness. 
 
-# Phase II: ## TECHNICAL MECHANIC
+### Phase II: ## TECHNICAL MECHANIC
 
 S
 
@@ -138,9 +138,9 @@ Thermal operations demand continuous capital coordination, environmental complia
 
 Capital interruptions amplify cost structures and increase risk.
 
-This is why institutional sponsorship, not sporadic capital, increasingly defines which operators succeed.
+This is why institutional sponsorship, not sporadic capital, increasingly defines which operators succeed. 
 
-# Phase II: I
+### Phase II: I
 
 THE PARTNERSHIP MODEL Roials Capital functions as an institutional navigator, identifying, evaluating, and calibrating strategic counterparties for allocators requiring operational integrity, governance reliability, and balance sheet transparency.
 
@@ -184,9 +184,9 @@ This evaluation includes:
 
 - Leadership integrity measured through a multi-factor trust metric The partnership model is designed to reduce informational asymmetry for institutional allocators.
 
-Instead of broad outreach, the firm filters and curates opportunities aligned with the Institutional Archetype: allocators that value strategic clarity, operational depth, and capital discipline.
+Instead of broad outreach, the firm filters and curates opportunities aligned with the Institutional Archetype: allocators that value strategic clarity, operational depth, and capital discipline. 
 
-# Phase I: V
+### Phase I: V
 
 THE STEWARDSHIP FILTER AND THE THEOLOGY OF CAPITAL Stewardship in institutional energy finance is not a moral abstraction.
 
@@ -228,9 +228,9 @@ Generational continuity Stewardship extends beyond immediate cycles.
 
 Operators must manage their reservoirs, infrastructure, and balance sheets with a view toward multi-decade sustainability.
 
-Institutional allocators value stewardship because it mitigates behavioral volatility, reduces misalignment risk, and maximizes the probability that future cash flows remain consistent with engineering expectations.
+Institutional allocators value stewardship because it mitigates behavioral volatility, reduces misalignment risk, and maximizes the probability that future cash flows remain consistent with engineering expectations. 
 
-# Phase V
+### Phase V
 
 ALLOCATOR DECISION FRAMEWORK AND STRATEGIC CALIBRATION Private credit in 2026 is no longer defined by opportunistic yield.
 
@@ -260,7 +260,7 @@ Allocators positioned to integrate Alberta heavy oil credit structures, middle m
 
 A confidential strategy audit provides the framework for assessing fit, alignment, and operational readiness while maintaining full compliance with institutional standards and regulatory expectations.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

@@ -22,9 +22,9 @@ Roials Capital operates inside this framework.
 
 We do not react to markets.
 
-We define the mechanics through which capital can move with precision. 
+We define the mechanics through which capital can move with precision.
 
-## Multi Asset Liquidity Is an Operating System Most financing frameworks focus on a single asset class
+Multi Asset Liquidity Is an Operating System Most financing frameworks focus on a single asset class
 
 .
 
@@ -38,9 +38,9 @@ This requires an institutional approach.
 
 It requires a structural lens on valuation, volatility, encumbrance, and time based risk decay.
 
-And it requires a lender that can operate across asset classes with identical discipline. 
+And it requires a lender that can operate across asset classes with identical discipline.
 
-## Private Credit as Foundational Collateral Private credit is often illiquid
+Private Credit as Foundational Collateral Private credit is often illiquid
 
 .
 
@@ -62,9 +62,9 @@ The core mechanics include:
 
 In multi asset architectures, private credit becomes the anchor layer, because it is insulated from public market volatility and crypto market asymmetry.
 
-It creates dependable balance sheet optimization power without exposing the portfolio to unnecessary mark to market risk. 
+It creates dependable balance sheet optimization power without exposing the portfolio to unnecessary mark to market risk.
 
-## Asset Based Asset-Backed Frameworks as Structural Extension Asset based Asset-Backed Frameworks, Asset-Based Lending, provides the second layer of liquidity architecture
+Asset Based Asset-Backed Frameworks as Structural Extension Asset based Asset-Backed Frameworks, Asset-Based Lending, provides the second layer of liquidity architecture
 
 .
 
@@ -88,9 +88,9 @@ It allows an investor to retain ownership, preserve long term appreciation, and 
 
 For multi asset liquidity systems, Asset-Based Lending provides the scalability.
 
-It expands the collateral base without destabilizing the portfolio. 
+It expands the collateral base without destabilizing the portfolio.
 
-## Public Share Strategic Collateralization at a Minimum Threshold of
+Public Share Strategic Collateralization at a Minimum Threshold of
 
  
 5 Million USD Public market equity is liquid, but liquidity is not the same as accessibility.
@@ -122,13 +122,13 @@ We provide the liquidity without forcing participation in market noise.
 
 Public share Asset-Backed Frameworks becomes the fluid 
 
-# Layer I: nside the multi asset architecture
+### Layer I: nside the multi asset architecture
 
 .
 
-It is the component that can respond fastest without compromising the deeper structural layers of private credit and Asset-Based Lending. 
+It is the component that can respond fastest without compromising the deeper structural layers of private credit and Asset-Based Lending.
 
-## Crypto Asset-Backed Frameworks at a Minimum Threshold of
+Crypto Asset-Backed Frameworks at a Minimum Threshold of
 
  
 2 Million USD Digital assets introduce a different liquidity logic.
@@ -160,13 +160,13 @@ To provide institutional stability inside an asset class that operates at non in
 
 Crypto Asset-Backed Frameworks is the tactical 
 
-# Layer I: nside a multi asset strategy
+### Layer I: nside a multi asset strategy
 
 .
 
-It provides rapid liquidity, but is anchored by the deeper stability of private credit, Asset-Based Lending, and public share exposures. 
+It provides rapid liquidity, but is anchored by the deeper stability of private credit, Asset-Based Lending, and public share exposures.
 
-## The Hierarchy of Liquidity Layers A multi asset architecture requires hierarchy
+The Hierarchy of Liquidity Layers A multi asset architecture requires hierarchy
 
 .
 
@@ -200,9 +200,9 @@ Each layer supports the one above it.
 
 Each layer has distinct mechanics, computation, and risk treatment.
 
-This hierarchy is the essence of multi asset liquidity. 
+This hierarchy is the essence of multi asset liquidity.
 
-## The principal authority Principle Roials Capital operates with principal authority
+The principal authority Principle Roials Capital operates with principal authority
 
 .
 
@@ -228,9 +228,9 @@ This is why thresholds exist.
 
 This is why underwriting is surgical.
 
-This is why mechanics matter more than marketing. 
+This is why mechanics matter more than marketing.
 
-## The Real Function of Liquidity: Optionality Liquidity is not an endpoint
+The Real Function of Liquidity: Optionality Liquidity is not an endpoint
 
 .
 
@@ -250,9 +250,9 @@ For high net worth and ultra high net worth clients, optionality is the real val
 
 It is the ability to act in moments when others cannot.
 
-It is the ability to deploy capital without compromising long term architecture. 
+It is the ability to deploy capital without compromising long term architecture.
 
-## Precision, Not Excess Roials Capital does not maximize leverage
+Precision, Not Excess Roials Capital does not maximize leverage
 
 .
 
@@ -270,9 +270,9 @@ Our approach focuses on:
 
 - Liquidity stress simulations
 
-- Exit strategy design before entry strategy execution The result is a liquidity system that is durable, silent, and responsive. 
+- Exit strategy design before entry strategy execution The result is a liquidity system that is durable, silent, and responsive.
 
-## Enforcement of Institutional Standards To maintain integrity across all asset classes, Roials Capital applies institutional standards uniformly
+Enforcement of Institutional Standards To maintain integrity across all asset classes, Roials Capital applies institutional standards uniformly
 
 :
 
@@ -290,9 +290,9 @@ It creates predictability for the investor.
 
 It creates structural certainty for the portfolio.
 
-It creates mobility without uncontrolled risk. 
+It creates mobility without uncontrolled risk.
 
-## The Future of Multi Asset Liquidity As private credit markets expand, digital assets institutionalize, and public market volatility escalates, multi asset liquidity becomes essential infrastructure
+The Future of Multi Asset Liquidity As private credit markets expand, digital assets institutionalize, and public market volatility escalates, multi asset liquidity becomes essential infrastructure
 
 .
 
@@ -312,13 +312,11 @@ Quiet.
 
 Structural.
 
-Institutional. 
+Institutional.
 
-## Request confidential audi
+Request confidential audi
 
-t
-
-## TECHNICAL MANDATE Qualification Gates strictly observed
+t TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

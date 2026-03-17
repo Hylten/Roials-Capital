@@ -192,9 +192,9 @@ In a downturn:
 
 - density reduces travel inefficiency precisely when margins tighten Add‑ons convert a cyclical revenue profile into a quasi-recurring revenue cadence.
 
-The larger the fleet, the smoother the curve.
+The larger the fleet, the smoother the curve. 
 
-# Phase II: .
+### Phase II: .
 
 PRINCIPAL VOICE Clear.
 
@@ -226,9 +226,9 @@ Institutional capital must understand this distinction.
 
 One sets the perimeter.
 
-The other fills it.
+The other fills it. 
 
-# Phase III: .
+### Phase III: .
 
 SEQUENTIAL ARCHITECTURE FOR FUND‑III OPERATORS Now we move to direct applicability for Fund‑III and above.
 
@@ -258,9 +258,9 @@ Key indicators:
 
 - financial controls professional but not yet institutional (fixable quickly)
 
-- at least two service lines with regulatory forcing mechanisms If the platform cannot absorb add‑ons, the consolidation collapses into noise.
+- at least two service lines with regulatory forcing mechanisms If the platform cannot absorb add‑ons, the consolidation collapses into noise. 
 
-# Pillar II: .
+### Pillar II: .
 
 Add‑On Sequencing The order of acquisitions matters more than the total number acquired.
 
@@ -288,9 +288,9 @@ Strategic outliers (only when needed) Incorrect Sequence:
 
 - Geographic expansion before density Sequence determines trajectory.
 
-Trajectory determines multiple.
+Trajectory determines multiple. 
 
-# Pillar III: .
+### Pillar III: .
 
 The Pricing Paradox In fragmented markets, pricing is rarely rational.
 
@@ -310,9 +310,9 @@ Consolidators impose intelligent pricing bands across:
 
 It aligns price with value.
 
-Institutional LPs appreciate this because price discipline is moral discipline expressed economically.
+Institutional LPs appreciate this because price discipline is moral discipline expressed economically. 
 
-# Pillar IV: .
+### Pillar IV: .
 
 Data Superiority Data is not technology.
 

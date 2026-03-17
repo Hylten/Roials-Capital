@@ -34,13 +34,9 @@ Most private funds have not adapted their internal architecture to this new temp
 
 Fund-III becomes the inflection point.
 
-Either it internalises sovereign discipline or it loses allocation rights for a decade. 
+Either it internalises sovereign discipline or it loses allocation rights for a decade.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -82,13 +78,9 @@ A fund must create the same internal logic that sovereigns deploy externally: ca
 
 Weak funds chase valuation.
 
-Sovereign-aligned funds chase control of the cash-flow spine. 
+Sovereign-aligned funds chase control of the cash-flow spine.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -154,11 +146,9 @@ Funds that depend on single-channel suppliers, regional labour pools, or concent
 
 These mechanics are not optional.
 
-They define whether a GP can be trusted with sovereign velocity. 
+They define whether a GP can be trusted with sovereign velocity.
 
- 
-
-## THE
+THE
 
  
 
@@ -236,13 +226,9 @@ The Sovereign Control Loop The GP must adopt an internal control loop that mirro
 
 A fund with internal chaos cannot steward sovereign capital.
 
-A fund with internal order becomes a strategic partner. 
+A fund with internal order becomes a strategic partner.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Sovereign capital respects stewardship
+THE STEWARDSHIP FILTER Sovereign capital respects stewardship
 
 .
 
@@ -316,7 +302,7 @@ The correct metric is recovery-to-velocity ratio: RVR 1.
 
 For sovereign-grade capital alignment, request a confidential capital audit.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

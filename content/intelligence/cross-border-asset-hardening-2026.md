@@ -16,13 +16,9 @@ This environment is central to the broader theme of cross-border asset hardening
 
 As global allocators recalibrate portfolios in response to inflation persistence, currency dispersion, and political fragmentation, the requirement is no longer simple diversification.
 
-The dominant requirement is structural resilience: assets that maintain intrinsic value across legal jurisdictions, regulatory cycles, and commodity volatilities while providing predictable operational intelligence. 
+The dominant requirement is structural resilience: assets that maintain intrinsic value across legal jurisdictions, regulatory cycles, and commodity volatilities while providing predictable operational intelligence.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -66,13 +62,9 @@ The Alberta heavy oil corridor, in particular, demonstrates a pronounced structu
 
 Investor sentiment does not match geological risk profiles, regulatory predictability, or the physical necessity of heavy oil in the global refining system.
 
-This is the core inefficiency leveraged by institutional frameworks such as those utilized by Roials Capital and its strategic partner NAEO. 
+This is the core inefficiency leveraged by institutional frameworks such as those utilized by Roials Capital and its strategic partner NAEO.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -170,9 +162,7 @@ This is achieved through three primary channels:
 
 1.
 
-Capital Raising and Institutional Alignment Approximately eighty percent of 
-
-## THE MANDAT
+Capital Raising and Institutional Alignment Approximately eighty percent of THE MANDAT
 
 E
 
@@ -184,9 +174,7 @@ This includes European GPs seeking North American expansion, GCC family offices 
 
 2.
 
-Strategic Collateralization and Asset-Based Lending Structures Approximately ten percent of 
-
-## THE MANDAT
+Strategic Collateralization and Asset-Based Lending Structures Approximately ten percent of THE MANDAT
 
 E
 
@@ -204,13 +192,9 @@ They benefit from Roials Capital’s ability to introduce stable counterparties 
 
 Through this model, Roials Capital is not acting as a promoter but as a strategic translator between capital and operational realities.
 
-The objective is clarity, not solicitation. 
+The objective is clarity, not solicitation.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is a capital discipline anchored in non wasteful resource management
+THE STEWARDSHIP FILTER Stewardship is a capital discipline anchored in non wasteful resource management
 
 .
 
@@ -266,7 +250,7 @@ Roials Capital provides confidential strategy audits and portfolio calibration f
 
 The objective is alignment, clarity, and long horizon structural advantage.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

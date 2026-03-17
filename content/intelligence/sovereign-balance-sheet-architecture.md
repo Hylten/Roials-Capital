@@ -648,7 +648,7 @@ Protect it.
 
 Scale it.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

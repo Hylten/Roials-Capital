@@ -20,13 +20,9 @@ Fund-III operates inside this structural inflection point where multi asset hard
 
 Traditional energy, middle market private credit, digital assets, and regulated tokenized collateral are no longer discrete silos.
 
-They form a single liquidity architecture that defines opportunity velocity, transaction certainty, and capital stack stability. 
+They form a single liquidity architecture that defines opportunity velocity, transaction certainty, and capital stack stability.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -62,13 +58,9 @@ This enables conservative institutions to treat digital assets as operational li
 
 Fund-III therefore does not view digital assets as a vertical.
 
-They function as a liquidity layer that supports broader acquisition pipelines across buyouts, add ons, and sector consolidations. 
+They function as a liquidity layer that supports broader acquisition pipelines across buyouts, add ons, and sector consolidations.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -234,13 +226,9 @@ The role is technical guidance, institutional
 
  , and structural alignment.
 
-Our strategic partner NAEO functions as the institutional anchor within the Alberta energy landscape, providing the heavy asset backbone that complements the liquid digital layer. 
+Our strategic partner NAEO functions as the institutional anchor within the Alberta energy landscape, providing the heavy asset backbone that complements the liquid digital layer.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship in capital architecture is not an ethical accessory
+THE STEWARDSHIP FILTER Stewardship in capital architecture is not an ethical accessory
 
 .
 
@@ -308,7 +296,7 @@ This architecture positions Fund-III for accelerated close cycles, higher operat
 
 The appropriate next step for allocators evaluating this landscape is a confidential Strategy Audit or Portfolio Calibration, where capital architecture can be mapped against regulatory constraints, liquidity targets, and long horizon objectives.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

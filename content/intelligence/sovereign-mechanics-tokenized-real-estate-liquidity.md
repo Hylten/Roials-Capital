@@ -544,7 +544,7 @@ Fund-III targets
 
 End.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

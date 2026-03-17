@@ -32,7 +32,7 @@ Who survives risk.
 
 This is the calculus.
 
-## The Discipline of Preemption By the time a liquidity facility deteriorates on paper, it has already deteriorated operationally
+The Discipline of Preemption By the time a liquidity facility deteriorates on paper, it has already deteriorated operationally
 
 .
 
@@ -50,7 +50,7 @@ Institutional private credit rewards foresight.
 
 It penalizes reaction.
 
-## Counterparty Behavior Under Stress The strongest borrowers stand firm in stress conditions
+Counterparty Behavior Under Stress The strongest borrowers stand firm in stress conditions
 
 .
 
@@ -72,9 +72,9 @@ This distinction determines who receives institutional capital in the future.
 
 Risk is revealed not during origination.
 
-Risk is revealed during turbulence. 
+Risk is revealed during turbulence.
 
-## Institutional Thresholds for Private Credit Institutional liquidity engineering is defined by thresholds
+Institutional Thresholds for Private Credit Institutional liquidity engineering is defined by thresholds
 
 .
 
@@ -94,9 +94,9 @@ Large credit events rarely arise from large borrowers.
 
 They arise from misaligned borrowers.
 
-Thresholds prevent misalignment. 
+Thresholds prevent misalignment.
 
-## The Fallacy of Yield Chasing Yield chasing destroys lenders
+The Fallacy of Yield Chasing Yield chasing destroys lenders
 
 .
 
@@ -120,9 +120,9 @@ Not the appearance of performance.
 
 Yield matters.
 
-But order matters more. 
+But order matters more.
 
-## The Institutional Shift: Market Signals for the Next Cycle The private credit market is transitioning into a new architecture
+The Institutional Shift: Market Signals for the Next Cycle The private credit market is transitioning into a new architecture
 
 .
 
@@ -159,9 +159,9 @@ This is the future architecture of institutional private credit.
 
 It is not automation.
 
-It is discernment at scale. 
+It is discernment at scale.
 
-## Roials Capital
+Roials Capital
 
 .
 
@@ -173,7 +173,7 @@ Not as a vendor.
 
 Not as a service provider.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -207,9 +207,9 @@ We engage only when:
 
 - The leadership is aligned with biblical stewardship.
 
-- The liquidity facility advances dominion, order, and growth. 
+- The liquidity facility advances dominion, order, and growth.
 
-## The Geometry of Downside Control Risk calculus is geometric
+The Geometry of Downside Control Risk calculus is geometric
 
 .
 
@@ -235,9 +235,9 @@ The lender with dominion over all four axes wins.
 
 This is how institutional lenders convert uncertainty into order.
 
-This is how they maintain position across cycles. 
+This is how they maintain position across cycles.
 
-## Command of the Downside: The Institutional Edge Institutional private credit is not about predicting the upside
+Command of the Downside: The Institutional Edge Institutional private credit is not about predicting the upside
 
 .
 
@@ -255,11 +255,9 @@ If the answer is no, the liquidity facility is rejected.
 
 If the answer is yes, terms are quantified.
 
-If the answer is absolute, capital deploys. 
+If the answer is absolute, capital deploys.
 
- 
-
-## CONCLUSIO
+CONCLUSIO
 
 N
 
@@ -295,7 +293,7 @@ It is a mandate to govern capital with precision.
 
 Request confidential audit.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

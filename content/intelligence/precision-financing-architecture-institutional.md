@@ -10,15 +10,11 @@ The capital vacuum in North American industrial and energy markets is a conseque
 
 Allocators with disciplined underwriting frameworks are discovering a structural truth that has remained constant through five macro cycles: the most stable institutional returns often originate from legacy asset classes with measurable decline profiles and repeatable operational physics.
 
-Precision financing architecture has therefore transitioned from a peripheral concept to a primary determinant of acquisition viability, debt seniority, and multi fund scalability.
+Precision financing architecture has therefore transitioned from a peripheral concept to a primary determinant of acquisition viability, debt seniority, and multi fund scalability. 
 
-# Phase I: .
+### Phase I: .
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -55,15 +51,11 @@ In energy, long life heavy oil with predictable decline curves is now treated by
 
 These conditions have produced an environment where precision financing is not a tactical choice.
 
-It is the central operating framework for Fund-III and subsequent institutional scale expansion.
+It is the central operating framework for Fund-III and subsequent institutional scale expansion. 
 
-# Phase II: .
+### Phase II: .
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -143,9 +135,9 @@ They require precision in LTV calibration and cash flow waterfall design.
 
 C.
 
-Global Expansion Projects with asset hardening potential These require advanced cross border structuring to protect capital seniority and ensure alignment with institutional archetypes.
+Global Expansion Projects with asset hardening potential These require advanced cross border structuring to protect capital seniority and ensure alignment with institutional archetypes. 
 
-# Phase III: .
+### Phase III: .
 
 THE PARTNERSHIP MODEL AND STRATEGIC ALIGNMENT FRAMEWORK Roials Capital operates as an institutional navigator using a neutral introducer positioning.
 
@@ -179,9 +171,9 @@ Roials Capital focuses on strategic alignment and architecture.
 
 NAEO or other sector specific operators focus on technical execution.
 
-This separation creates institutional clarity and reduces cross functional risk.
+This separation creates institutional clarity and reduces cross functional risk. 
 
-# Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship is the discipline of ensuring that capital is deployed in accordance with both economic and ethical responsibility.
 
@@ -211,9 +203,9 @@ Long Horizon Planning Institutional grade projects require multigenerational pla
 
 Transparent Reporting Architecture Reporting must be consistent, auditable, and aligned with multi jurisdictional regulatory expectations.
 
-The stewardship filter forms the ethical and operational backbone of institutional scale financing architecture.
+The stewardship filter forms the ethical and operational backbone of institutional scale financing architecture. 
 
-# Phase V: .
+### Phase V: .
 
 STRATEGIC DECISION LENS FOR ALLOCATORS Allocators across UHNW, Family Office, and Institutional LP categories benefit from applying a decision framework built around four calibration points.
 

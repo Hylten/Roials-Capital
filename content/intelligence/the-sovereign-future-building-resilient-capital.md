@@ -44,7 +44,7 @@ It is built.
 
 It is measurable.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

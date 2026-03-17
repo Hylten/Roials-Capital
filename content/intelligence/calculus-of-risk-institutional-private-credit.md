@@ -590,7 +590,7 @@ This is the architecture.
 
 Request a confidential capital audit to initiate allocation sizing.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

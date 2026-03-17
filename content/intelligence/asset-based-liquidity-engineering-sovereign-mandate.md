@@ -12,7 +12,7 @@ It has matured into a primary sovereign mandate for institutional firms that ope
 
 The transition from static collateralization to dynamic asset monetization is now a structural requirement for Fund‑III scale investors.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -110,7 +110,7 @@ Routing determines leverage.
 
 Leverage determines acquisition sequencing.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -500,7 +500,7 @@ Projected Liquidity Efficiency Index:
 
 87.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

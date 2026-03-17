@@ -16,13 +16,9 @@ The velocity mismatch between institutional allocators and mid-market operators 
 
 That gap is where infrastructure decides outcomes.
 
-Order is not an option. 
+Order is not an option.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -80,13 +76,9 @@ Inflow creates scale.
 
 Scale creates bargaining power in acquisition markets.
 
-The capital stack is a hierarchy, not a marketplace. 
+The capital stack is a hierarchy, not a marketplace.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -150,11 +142,9 @@ No allocator deploys into energy without operational evidence that the GP can qu
 
 Capital respects discipline.
 
-Energy capital demands it. 
+Energy capital demands it.
 
- 
-
-## THE
+THE
 
  
 
@@ -202,9 +192,7 @@ They do not enter through the same gate as generalist LPs.
 
 The GP must maintain separate compliance rails, jurisdictional onboarding routes, and reporting structures for specialized capital.
 
-One friction point is enough to cost 
-
-## THE MANDAT
+One friction point is enough to cost THE MANDAT
 
 E
 
@@ -212,13 +200,9 @@ E
 
 A GP who manages these three systems with precision becomes institution-ready.
 
-A GP who does not remains in the aspirational layer of private markets. 
+A GP who does not remains in the aspirational layer of private markets.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is an operating principle
+THE STEWARDSHIP FILTER Stewardship is an operating principle
 
 .
 
@@ -263,7 +247,7 @@ EXIT Our mandate is simple: reduce capital friction by
 
 For a confidential capital audit, initiate contact.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

@@ -10,15 +10,11 @@ The capital vacuum in North American private markets is a consequence of regulat
 
 Sovereign allocators have moved into this gap with an operating philosophy that treats capital as a geopolitical instrument rather than a cyclical investment vehicle.
 
-Their presence is restructuring the opportunity map for private equity, private credit, and strategic resource ownership across North America and Europe.
+Their presence is restructuring the opportunity map for private equity, private credit, and strategic resource ownership across North America and Europe. 
 
-# Phase I: .
+### Phase I: .
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -46,15 +42,11 @@ The consequence is an asymmetric opportunity set.
 
 Sovereign capital has moved into sectors that require long term stability of capital, especially energy, logistics, and industrial buyouts.
 
-Private credit funds, mid market buyout platforms, and sector specialist sponsors are now repositioning their capital raising strategies toward sovereign archetypes, because sovereign allocators value strategic alignment over benchmark relative performance.
+Private credit funds, mid market buyout platforms, and sector specialist sponsors are now repositioning their capital raising strategies toward sovereign archetypes, because sovereign allocators value strategic alignment over benchmark relative performance. 
 
-# Phase II: .
+### Phase II: .
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -141,15 +133,15 @@ Sovereign aligned capital raising requires redesigning the sponsor presentation 
 
 Add on acquisition pipelines must be articulated through operational synergies, cost of capital harmonization, and integration readiness.
 
-Sovereign allocators are less sensitive to vintage year dispersion and more focused on multi cycle stability.
+Sovereign allocators are less sensitive to vintage year dispersion and more focused on multi cycle stability. 
 
-# Phase III: .
+### Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator and institutional introducer.
 
 The function is not asset management.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -173,9 +165,9 @@ The model is neutral.
 
 Roials Capital is not the capital deployer.
 
-It is the architect that organizes the institutional ecosystem around operators, managers, and sovereign allocators.
+It is the architect that organizes the institutional ecosystem around operators, managers, and sovereign allocators. 
 
-# Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship is the discipline of resource management grounded in non wasteful capital deployment.
 
@@ -217,9 +209,9 @@ Opportunity velocity is not speed.
 
 It is precision.
 
-It is the ability to convert a resource, acquisition, or credit situation into a hardened institutional structure.
+It is the ability to convert a resource, acquisition, or credit situation into a hardened institutional structure. 
 
-# Phase V: .
+### Phase V: .
 
 DECISION FRAMEWORK FOR THE ALLOCATOR The institutional allocator navigating this regime shift requires a structured lens.
 

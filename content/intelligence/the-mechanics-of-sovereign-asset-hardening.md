@@ -28,9 +28,9 @@ We provide private credit and asset based Capital Structuring structures that tr
 
 Not a dependency.
 
-Sovereign asset hardening is the architecture behind that control. 
+Sovereign asset hardening is the architecture behind that control.
 
-## Why Liquidity Infrastructure Determines Sovereignty True sovereignty for HNWI and UHNW individuals does not come from the asset base
+Why Liquidity Infrastructure Determines Sovereignty True sovereignty for HNWI and UHNW individuals does not come from the asset base
 
 .
 
@@ -56,9 +56,9 @@ principal authority.
 
 Structural clarity.
 
-Capital engineered rather than managed. 
+Capital engineered rather than managed.
 
-## The Institutional Framework Behind Hardening At scale, sovereign hardening depends on five pillars.
+The Institutional Framework Behind Hardening At scale, sovereign hardening depends on five pillars.
 
  
 1.
@@ -101,9 +101,9 @@ Clean.
 
 Repeatable.
 
-Controlled. 
+Controlled.
 
-## Hardening as a Long‑Horizon Strategy Sovereign hardening has a long half‑life
+Hardening as a Long‑Horizon Strategy Sovereign hardening has a long half‑life
 
 .
 
@@ -126,9 +126,9 @@ Systemic Risk Compression Hardening creates systemic resilience.
 
 One asset class reinforces another.
 
-The system behaves as a unified organism rather than isolated components. 
+The system behaves as a unified organism rather than isolated components.
 
-## The ROIALS CAPITAL Position We are not a retail lender
+The ROIALS CAPITAL Position We are not a retail lender
 
 .
 
@@ -150,13 +150,13 @@ The principal remains in control.
 
 The capital remains in motion.
 
-The architecture remains invisible. 
+The architecture remains invisible.
 
-## Request Confidential Audit For clients requiring structural liquidity without exposure, disruption, or signaling, ROIALS CAPITAL provides the institutional mechanics
+Request Confidential Audit For clients requiring structural liquidity without exposure, disruption, or signaling, ROIALS CAPITAL provides the institutional mechanics
 
 .
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

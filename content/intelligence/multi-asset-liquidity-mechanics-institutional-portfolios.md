@@ -92,7 +92,7 @@ NAEOC adds volumetric and asset‑class restrictions.
 
 The GP’s mandate is not to fight the map.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -160,7 +160,7 @@ Each layer adds resilience.
 
 Each 
 
-# Layer M: ultiplies options
+### Layer M: ultiplies options
 
 .
 
@@ -196,21 +196,21 @@ Five components:
 
 1.
 
-Liquidity Intelligence
+Liquidity Intelligence 
 
-# Layer II: .
+### Layer II: .
 
-Capital Conversion
+Capital Conversion 
 
-# Layer III: .
+### Layer III: .
 
-Collateral Multiplex
+Collateral Multiplex 
 
-# Layer IV: .
+### Layer IV: .
 
-Jurisdictional Routing
+Jurisdictional Routing 
 
-# Layer V: .
+### Layer V: .
 
 Sovereign Control Layer Each serves a distinct function.
 
@@ -236,7 +236,7 @@ Without this layer, liquidity is reactive.
 
 The Capital Conversion 
 
-# Layer I: s the heart
+### Layer I: s the heart
 
 .
 
@@ -686,7 +686,7 @@ A sovereign fund engineers liquidity across all assets, all cycles, all jurisdic
 
 The institutional world rewards the sovereign.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

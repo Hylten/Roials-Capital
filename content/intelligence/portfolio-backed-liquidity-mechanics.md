@@ -14,13 +14,9 @@ Modern private capital allocators face a structural gap.
 
 Liquidity has become a competitive differentiator rather than an assumed utility.
 
-The shift has created an environment where portfolio backed liquidity functions as a balance sheet technology rather than a transactional accessory. 
+The shift has created an environment where portfolio backed liquidity functions as a balance sheet technology rather than a transactional accessory.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -66,13 +62,9 @@ The outcome is a regime shift.
 
 Liquidity functions as an institutional asset rather than a cost center.
 
-Portfolio backed liquidity is the mechanism through which private equity platforms neutralize execution bottlenecks, stabilize cash flow timing, and increase opportunity velocity within a constrained funding environment. 
+Portfolio backed liquidity is the mechanism through which private equity platforms neutralize execution bottlenecks, stabilize cash flow timing, and increase opportunity velocity within a constrained funding environment.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -92,7 +84,7 @@ The Alberta basin remains one of the most technically modeled hydrocarbon system
 
 The second 
 
-# Layer I: s structural seniority
+### Layer I: s structural seniority
 
 .
 
@@ -104,7 +96,7 @@ Structural separation is the protection mechanism for allocators, especially whe
 
 The third 
 
-# Layer I: s the LTV curve
+### Layer I: s the LTV curve
 
 .
 
@@ -120,7 +112,7 @@ Cash flow centric platforms require lower leverage ceilings due to the cyclicali
 
 The fourth 
 
-# Layer I: s maturity architecture
+### Layer I: s maturity architecture
 
 .
 
@@ -142,7 +134,7 @@ The liquidity program must align with the sponsor's acquisition timeline rather 
 
 The fifth 
 
-# Layer I: s liquidity release logistics
+### Layer I: s liquidity release logistics
 
 .
 
@@ -156,7 +148,7 @@ The facility cannot create timing mismatches between funding windows and transac
 
 The final 
 
-# Layer I: s portfolio behaviour under stress
+### Layer I: s portfolio behaviour under stress
 
 .
 
@@ -210,13 +202,9 @@ It delivers operational intelligence on Alberta heavy oil physics, SAGD cycle dy
 
 NAEO is positioned for institutional allocators who require non speculative, technically mature energy exposure.
 
-Roials Capital functions strictly as the introducer and strategic coordinator. 
+Roials Capital functions strictly as the introducer and strategic coordinator.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship operates as a capital discipline
+THE STEWARDSHIP FILTER Stewardship operates as a capital discipline
 
 .
 
@@ -256,7 +244,7 @@ DECISION MAKING LENS Institutional allocators assessing portfolio backed liquidi
 
 The first 
 
-# Axis I: s structural resilience
+### Axis I: s structural resilience
 
 .
 
@@ -268,7 +256,7 @@ Heavy oil production in Alberta provides a useful model due to its engineered st
 
 The second 
 
-# Axis I: s opportunity velocity
+### Axis I: s opportunity velocity
 
 .
 
@@ -280,7 +268,7 @@ A sponsor with an integrated liquidity ecosystem can execute add on acquisitions
 
 The third 
 
-# Axis I: s institutional alignment
+### Axis I: s institutional alignment
 
 .
 

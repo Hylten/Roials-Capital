@@ -20,9 +20,9 @@ Roials Capital exists within that structural domain.
 
 Our role is to provide institutional grade mechanics, liquidity access, and the type of quiet infrastructure that ensures a portfolio becomes more resilient as it grows.
 
-This article outlines how asset hardening functions for HNWI and UHNW individuals, and how private credit, asset based Asset-Backed Frameworks, and threshold oriented Asset-Backed Frameworks protocols create a controlled environment for long term capital authority. 
+This article outlines how asset hardening functions for HNWI and UHNW individuals, and how private credit, asset based Asset-Backed Frameworks, and threshold oriented Asset-Backed Frameworks protocols create a controlled environment for long term capital authority.
 
-## Engineering Liquidity Without Erosion The cornerstone of asset hardening is the preservation of ownership
+Engineering Liquidity Without Erosion The cornerstone of asset hardening is the preservation of ownership
 
 .
 
@@ -50,9 +50,9 @@ Holding remains intact.
 
 Liquidity remains available.
 
-Control remains absolute. 
+Control remains absolute.
 
-## Building an Executive Portfolio That Outlasts Market Cycles The final measure of asset hardening is endurance
+Building an Executive Portfolio That Outlasts Market Cycles The final measure of asset hardening is endurance
 
 .
 
@@ -72,13 +72,13 @@ Controlled.
 
 Scalable.
 
-Asset hardening is the architecture of financial autonomy. 
+Asset hardening is the architecture of financial autonomy.
 
-## Request Confidential Audit If your portfolio requires institutional grade Institutional Liquidity Paths or structural reinforcement, request a confidential audit
+Request Confidential Audit If your portfolio requires institutional grade Institutional Liquidity Paths or structural reinforcement, request a confidential audit
 
 .
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

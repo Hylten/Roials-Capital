@@ -14,13 +14,9 @@ Cross-jurisdictional asset platforms that combine Alberta heavy-oil physics with
 
 Global allocators that operate across Sweden, Luxembourg, Switzerland, Canada, and the United States now face a structural imperative: alignment is no longer a legal exercise, but a liquidity engineering framework that integrates regulatory harmonization, asset hardening mechanics, and capital stack precision.
 
-This institutional briefing establishes the architecture required for allocators to evaluate Fund-III stage buyouts, add ons, energy mandates, and structured liquidity facilities with Roials Capital as the strategic navigator. 
+This institutional briefing establishes the architecture required for allocators to evaluate Fund-III stage buyouts, add ons, energy mandates, and structured liquidity facilities with Roials Capital as the strategic navigator.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -54,13 +50,9 @@ The result is a capital market environment where long lived, technically underst
 
 This divergence between reality and perception is the central foundation for multi jurisdictional structural alignment.
 
-It allows a European governed capital stack to be deployed into a North American physical asset base through a U.S. institutional bridge, delivering a cross border model with superior regulatory, operational, and collateral clarity. 
+It allows a European governed capital stack to be deployed into a North American physical asset base through a U.S. institutional bridge, delivering a cross border model with superior regulatory, operational, and collateral clarity.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -152,13 +144,9 @@ Special mandates including NAEO energy allocations between 50M and 250M and EU M
 
 NAEO functions as the institutional grade operator within the Alberta energy domain.
 
-Roials Capital introduces the allocator to NAEO when the strategic profile, risk tolerance, and jurisdictional structure are aligned. 
+Roials Capital introduces the allocator to NAEO when the strategic profile, risk tolerance, and jurisdictional structure are aligned.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful capital deployment
+THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful capital deployment
 
 .
 

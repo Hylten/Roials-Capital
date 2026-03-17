@@ -52,9 +52,9 @@ Ten percent is special mandate execution: NAEOC energy mandates ($50M-$250M), EU
 
 The blend creates structural sovereignty for LPs and GPs operating in volatility‑dense global markets.
 
-Below is the institutional architecture. 
+Below is the institutional architecture.
 
-## STRUCTURAL BEDROCK: THE THREE-TIER CAPITAL ENGINE Tier One: Hard Asset Collateral Chains Tier Two: Liquidity Extraction Mechanisms Tier Three: Inter‑Jurisdictional Capital Mobility This triad governs multi‑generational wealth durability more effectively than asset selection alone
+STRUCTURAL BEDROCK: THE THREE-TIER CAPITAL ENGINE Tier One: Hard Asset Collateral Chains Tier Two: Liquidity Extraction Mechanisms Tier Three: Inter‑Jurisdictional Capital Mobility This triad governs multi‑generational wealth durability more effectively than asset selection alone
 
 .
 
@@ -88,9 +88,9 @@ It erases political fragility from the capital stack.
 
 Entities with multi‑generational intent design capital to survive beyond borders, beyond policy cycles, and beyond generational leadership transitions.
 
-This is the architecture behind dynastic compounding. 
+This is the architecture behind dynastic compounding.
 
-## CAPITAL MOBILITY AS A SOVEREIGN FUNCTION Fund‑III capital raising requires mobility pathways that override domestic risk
+CAPITAL MOBILITY AS A SOVEREIGN FUNCTION Fund‑III capital raising requires mobility pathways that override domestic risk
 
 .
 
@@ -118,9 +118,9 @@ Those that master mobility turn each jurisdiction into an arbitrage field.
 
 Mobility is not optional.
 
-Mobility is structural survival. 
+Mobility is structural survival.
 
-## BUYOUT ECOLOGY: FUND‑III AS THE EXPANSION VECTOR Fund‑III represents the institutional inflection point
+BUYOUT ECOLOGY: FUND‑III AS THE EXPANSION VECTOR Fund‑III represents the institutional inflection point
 
 .
 
@@ -142,9 +142,9 @@ The ability to close deals is not the competitive edge.
 
 The ability to close deals without stressing liquidity is.
 
-Institutional LPs see liquidity maturity as the primary signal of a fund’s future longevity. 
+Institutional LPs see liquidity maturity as the primary signal of a fund’s future longevity.
 
-## ASSET‑BASED Capital Structuring (Asset-Based Lending‑E): THE CORE MECHANISM Asset-Based Lending‑E is the deterministic engine of value continuity
+ASSET‑BASED Capital Structuring (Asset-Based Lending‑E): THE CORE MECHANISM Asset-Based Lending‑E is the deterministic engine of value continuity
 
 .
 
@@ -182,9 +182,9 @@ Time is the only real asset.
 
 Liquidity is time converted into power.
 
-Multi‑generational wealth emerges when Asset-Backed Frameworks remains consistent across cycles. 
+Multi‑generational wealth emerges when Asset-Backed Frameworks remains consistent across cycles.
 
-## ENERGY MANDATES: NAEOC $50M.$250M DEPLOYMENT STRATEGY Energy assets behave unlike any other category
+ENERGY MANDATES: NAEOC $50M.$250M DEPLOYMENT STRATEGY Energy assets behave unlike any other category
 
 .
 
@@ -212,9 +212,9 @@ Perfect alignment with **Proverbs 13:22
 
 * 
 
-* . 
+* .
 
-## EUROPEAN ACQUISITIONS: MiFID II AS AN ARBITRAGE FIELD MiFID II is often misunderstood as compliance overhead
+EUROPEAN ACQUISITIONS: MiFID II AS AN ARBITRAGE FIELD MiFID II is often misunderstood as compliance overhead
 
 .
 
@@ -236,9 +236,9 @@ Its restrictions become our moat.
 
 Institutions that operate comfortably under this framework outperform because they acquire at lower multiples and exit into higher‑regulation scarcity environments.
 
-The European corridor remains one of the richest liquidity arbitrage fields available. 
+The European corridor remains one of the richest liquidity arbitrage fields available.
 
-## THE DYNASTIC CONSTRUCTION MODEL: FOUR‑STEP LONG‑HORIZON ENGINE Step One: Hard‑Asset Acquisition Step Two: Liquidity Extraction Step Three: Capital Redeployment Step Four: Jurisdictional Shielding Once the four‑step cycle repeats twice, the institution becomes dynastic
+THE DYNASTIC CONSTRUCTION MODEL: FOUR‑STEP LONG‑HORIZON ENGINE Step One: Hard‑Asset Acquisition Step Two: Liquidity Extraction Step Three: Capital Redeployment Step Four: Jurisdictional Shielding Once the four‑step cycle repeats twice, the institution becomes dynastic
 
 .
 
@@ -262,9 +262,9 @@ Buyouts are the engine.
 
 Jurisdictional strategy is the armor.
 
-Fund‑III sits at the convergence of all three. 
+Fund‑III sits at the convergence of all three.
 
-## INHERITANCE AS STRUCTURE: THE MULTI‑GENERATIONAL LOGIC We return to **Proverbs 13:22
+INHERITANCE AS STRUCTURE: THE MULTI‑GENERATIONAL LOGIC We return to **Proverbs 13:22
 
 * 
 
@@ -294,9 +294,9 @@ When engineered properly, they create inheritance not just for one family or one
 
 Multi‑generational wealth is not the accumulation of assets.
 
-It is the perpetuation of compounding systems. 
+It is the perpetuation of compounding systems.
 
-## WHY CAPITAL RAISING DEFINES EVERYTHING Eighty percent of this institutional brief aligns to Kapitalanskaffning for Fund‑III+ because capital raising is structural shaping
+WHY CAPITAL RAISING DEFINES EVERYTHING Eighty percent of this institutional brief aligns to Kapitalanskaffning for Fund‑III+ because capital raising is structural shaping
 
 .
 
@@ -332,7 +332,7 @@ Structured capital survives.
 
 Unstructured capital disappears.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

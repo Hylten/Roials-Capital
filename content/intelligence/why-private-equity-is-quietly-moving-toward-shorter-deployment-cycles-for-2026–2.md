@@ -22,9 +22,9 @@ And it is adapting.
 
 What follows is not speculation.
 
-It is architecture. 
+It is architecture.
 
-## Why Deployment Cycles Are Contracting
+Why Deployment Cycles Are Contracting
 
  
 
@@ -153,9 +153,9 @@ For two decades, the assumption was: move slowly, protect IRR.
 
 Today the assumption is inverted: in a volatile macro, slow deployment exposes the vintage to sequencing risk.
 
-Moving fast is now the safer architecture. 
+Moving fast is now the safer architecture.
 
-## PRINCIPAL VOICE THE REAL REASON FOR THE SHIFT The public narrative hides the truth
+PRINCIPAL VOICE THE REAL REASON FOR THE SHIFT The public narrative hides the truth
 
 .
 
@@ -181,9 +181,9 @@ The market respects this.
 
 LPs respect this.
 
-The future will require this. 
+The future will require this.
 
-## THE ROIALS CAPITAL POSITION We sit where institutional flows converge
+THE ROIALS CAPITAL POSITION We sit where institutional flows converge
 
 .
 
@@ -215,9 +215,9 @@ Our Fund‑III partners across North America and Europe have already begun:
 
 This is border‑agnostic execution.
 
-This is principal‑grade discipline. 
+This is principal‑grade discipline.
 
-## THE CAPITAL RAISING REALITY (80% FOCUS) Institutional LPs allocate to motion
+THE CAPITAL RAISING REALITY (80% FOCUS) Institutional LPs allocate to motion
 
 .
 
@@ -257,9 +257,9 @@ You raise because you are active.
 
 You deploy because you are aligned.
 
-You attract capital because you eliminate uncertainty. 
+You attract capital because you eliminate uncertainty.
 
-## THE PRIVATE CREDIT ENGINE (10% FOCUS) When discussing Asset‑Based Lending, ROIALS CAPITAL enforces the Qualification Gates: Minimum entry threshold: $2M Preferred structural optimum: $5M+ This preserves the architecture
+THE PRIVATE CREDIT ENGINE (10% FOCUS) When discussing Asset‑Based Lending, ROIALS CAPITAL enforces the Qualification Gates: Minimum entry threshold: $2M Preferred structural optimum: $5M+ This preserves the architecture
 
 .
 
@@ -271,9 +271,9 @@ Structured correctly, Asset‑Based Lending becomes the counterweight to compres
 
 It supports closing velocity without compromising underwriting integrity.
 
-This advantage compounds across every Fund‑III acquisition. 
+This advantage compounds across every Fund‑III acquisition.
 
-## THE SPECIAL MANDATE VECTOR (10% FOCUS) NAEOC mandates in the $50M,$250M range are accelerating due to infrastructure renewal, grid reinforcement, and energy‑adjacent industrial consolidations
+THE SPECIAL MANDATE VECTOR (10% FOCUS) NAEOC mandates in the $50M,$250M range are accelerating due to infrastructure renewal, grid reinforcement, and energy‑adjacent industrial consolidations
 
 .
 
@@ -285,9 +285,9 @@ More clarity equals faster movement.
 
 More alignment equals confident close.
 
-The flywheel tightens. 
+The flywheel tightens.
 
-## THE REALITY NO ONE STATES PUBLICLY Private equity is abandoning the five‑year deployment window because it no longer reflects how value is created
+THE REALITY NO ONE STATES PUBLICLY Private equity is abandoning the five‑year deployment window because it no longer reflects how value is created
 
 .
 
@@ -301,9 +301,9 @@ Private credit integration dissolves the old bottlenecks.
 
 What once required years now requires discipline.
 
-And discipline compresses time. 
+And discipline compresses time.
 
-## THE 2026-2028 OUTLOOK The most important insight for principals: the compression trend is not cyclical
+THE 2026-2028 OUTLOOK The most important insight for principals: the compression trend is not cyclical
 
 .
 
@@ -333,9 +333,9 @@ By Fund‑V, it will be baseline doctrine.
 
 Those who adjust will lead deployments.
 
-Those who resist will be reclassified. 
+Those who resist will be reclassified.
 
-## THE PRINCIPAL POSITION We do not chase cycles
+THE PRINCIPAL POSITION We do not chase cycles
 
 .
 
@@ -357,9 +357,9 @@ Control the timing.
 
 Control the outcomes.
 
-This is the principal mandate. 
+This is the principal mandate.
 
-## CONFIDENTIAL FOOTER ROIALS CAPITAL processes private audits only for principals acting within the Fund‑III+ architecture or institutional mandates
+CONFIDENTIAL FOOTER ROIALS CAPITAL processes private audits only for principals acting within the Fund‑III+ architecture or institutional mandates
 
 .
 

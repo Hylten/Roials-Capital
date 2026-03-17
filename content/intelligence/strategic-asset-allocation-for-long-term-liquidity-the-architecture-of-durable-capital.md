@@ -26,7 +26,7 @@ Where legacy institutions impose rigid conditions, we create structural optional
 
 Where others see leverage, we see engineered mobility.
 
-## Long-Term Liquidity This is the strategic layer
+Long-Term Liquidity This is the strategic layer
 
 .
 
@@ -34,9 +34,9 @@ It ensures the investor never becomes trapped by their own success, their own il
 
 Private credit collateralization builds this layer.
 
-It is durable, predictable, and structurally stable. 
+It is durable, predictable, and structurally stable.
 
-## Why ROIALS CAPITAL’s Framework Aligns With HNWI and UHNW Requirements Our thresholds are deliberate
+Why ROIALS CAPITAL’s Framework Aligns With HNWI and UHNW Requirements Our thresholds are deliberate
 
 .
 
@@ -56,9 +56,9 @@ We do not optimize for volume.
 
 We optimize for structural integrity.
 
-This is the principal authority that institutional clients expect. 
+This is the principal authority that institutional clients expect.
 
-## Long-Term Liquidity as Capital Sovereignty The highest form of wealth is not accumulation
+Long-Term Liquidity as Capital Sovereignty The highest form of wealth is not accumulation
 
 .
 
@@ -84,9 +84,9 @@ Not reactive Asset-Backed Frameworks.
 
 Not episodic liquidity.
 
-But sovereign capital engineering. 
+But sovereign capital engineering.
 
-## Closing Perspective Strategic asset allocation that fails to embed long-term liquidity is incomplete
+Closing Perspective Strategic asset allocation that fails to embed long-term liquidity is incomplete
 
 .
 
@@ -108,7 +108,7 @@ They accelerate during opportunity.
 
 If your objective is durable, long-term liquidity supported by disciplined collateral structures, ROIALS CAPITAL provides the architecture.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

@@ -262,9 +262,7 @@ It is a liquidity strategy.
 
 Asset-Based Lending is 
 
-10 percent of 
-
-## THE MANDAT
+10 percent of THE MANDAT
 
 E
 
@@ -722,7 +720,7 @@ Fund-III sits at the center.
 
 The next phase requires capital alignment.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

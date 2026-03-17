@@ -60,9 +60,9 @@ No fillers.
 
 No sentiment.
 
-Only institutional-grade geometry. 
+Only institutional-grade geometry.
 
-## INSTITUTIONAL CONTEXT Fund-III is the turning point
+INSTITUTIONAL CONTEXT Fund-III is the turning point
 
 .
 
@@ -100,9 +100,9 @@ I operate from three capital pillars:
 
 - 10% Special Mandates (NAEOC 50M-250M energy, EU MiFID II acquisitions, hybrid credit) These are not service lines.
 
-These are institutional levers. 
+These are institutional levers.
 
-## THE CORE PREMISE: ASSET HARDENING IS AN INFRASTRUCTURAL EVENT Not legal
+THE CORE PREMISE: ASSET HARDENING IS AN INFRASTRUCTURAL EVENT Not legal
 
 .
 
@@ -388,9 +388,9 @@ It restores order.
 
 Institutional LPs reward compressed governance.
 
-They know the system-not the personality-drives outcomes. 
+They know the system-not the personality-drives outcomes.
 
-## CAPITAL RAISING FOR Fund-III (80%) Kapitalanskaffning is not marketing
+CAPITAL RAISING FOR Fund-III (80%) Kapitalanskaffning is not marketing
 
 .
 
@@ -476,9 +476,9 @@ It reduces sponsor risk.
 
 Asset-Based Lending is not an alternative.
 
-It is a requirement. 
+It is a requirement.
 
-## SPECIAL MANDATES (10%) These mandates are not marketing flags
+SPECIAL MANDATES (10%) These mandates are not marketing flags
 
 .
 
@@ -510,9 +510,9 @@ I design systems that meet these constraints mechanically.
 
 No negotiation.
 
-No deviation. 
+No deviation.
 
-## THE Fund-III INFRASTRUCTURE MODEL The hardening architecture runs across four planes: Plane 1: Operating Assets Plane 2: Structural Shells Plane 3: Liquidity Channels Plane 4: Institutional Governance The alignment across these planes creates institutional lift
+THE Fund-III INFRASTRUCTURE MODEL The hardening architecture runs across four planes: Plane 1: Operating Assets Plane 2: Structural Shells Plane 3: Liquidity Channels Plane 4: Institutional Governance The alignment across these planes creates institutional lift
 
 .
 
@@ -530,9 +530,9 @@ Valuation compounds exit velocity.
 
 This is why asset hardening is not operational.
 
-It is existential. 
+It is existential.
 
-## STRUCTURAL RISK ABATEMENT Risk elimination requires
+STRUCTURAL RISK ABATEMENT Risk elimination requires
 
 :
 
@@ -546,9 +546,9 @@ It is existential.
 
 - Privatized resilience mechanisms These remove noise.
 
-LPs hate noise. 
+LPs hate noise.
 
-## CROSS-CYCLE RESILIENCE Fund-III must survive downturns without transformation
+CROSS-CYCLE RESILIENCE Fund-III must survive downturns without transformation
 
 .
 
@@ -564,9 +564,9 @@ Hardening enables:
 
 - Sponsor continuity Cross-cycle survival is a statistical advantage.
 
-The hardened fund outlives competition. 
+The hardened fund outlives competition.
 
-## ENERGY INFRASTRUCTURE HARDENING Energy requires explicit hardening
+ENERGY INFRASTRUCTURE HARDENING Energy requires explicit hardening
 
 :
 
@@ -600,9 +600,9 @@ Hardening provides:
 
 - Liability isolation A hardened add-on integrates in weeks.
 
-Not quarters. 
+Not quarters.
 
-## EXIT HARDENING Exits require
+EXIT HARDENING Exits require
 
 :
 
@@ -616,9 +616,9 @@ Not quarters.
 
 - Unambiguous governance history This increases valuation.
 
-Fast. 
+Fast.
 
-## THE FINAL LAYER: SOVEREIGN DESIGN The manager who masters architecture commands capital
+THE FINAL LAYER: SOVEREIGN DESIGN The manager who masters architecture commands capital
 
 .
 
@@ -651,7 +651,7 @@ For a confidential capital audit, provide jurisdiction, mandate size, and asset 
 Technical Metric: Structural Hardness Index v4.
 3 (SHI).
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

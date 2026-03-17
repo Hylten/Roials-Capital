@@ -452,7 +452,7 @@ Proceed with confidential capital audit.
 
 Target metric: 11.7x liquidity‑velocity coefficient.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

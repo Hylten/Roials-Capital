@@ -12,15 +12,11 @@ Wealth collapses at its softest asset.
 
 Liquidity is the constraint most UHNW families misdiagnose.
 
-Order is not an option.
+Order is not an option. 
 
-# Phase I: .
+### Phase I: .
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -70,15 +66,11 @@ Whoever controls the holding period controls the wealth trajectory.
 
 Fund-III sits inside that shift.
 
-Not beside it.
+Not beside it. 
 
-# Phase II: .
+### Phase II: .
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -166,13 +158,11 @@ A machine with twelve documented bidders is a treasury instrument.
 
 This is why we build Asset-Based Lending facilities not as credit.
 
-But as operating infrastructure.
+But as operating infrastructure. 
 
-# Phase III: .
+### Phase III: .
 
- 
-
-## THE
+THE
 
  
 
@@ -250,9 +240,9 @@ We extract time-value.
 
 We recycle surplus into controlled compounding paths.
 
-Waste is eliminated.
+Waste is eliminated. 
 
-# Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER A system built without stewardship corrodes.
 
@@ -300,9 +290,9 @@ Disciplined capital instructs them.
 
 A liquidity engineered system teaches the next generation how to govern.
 
-Not how to spend.
+Not how to spend. 
 
-# Phase V: .
+### Phase V: .
 
 EXIT Our internal mandate is explicit.
 
@@ -312,7 +302,7 @@ Every facility must move the operator toward a minimum DSCR of 1.
 
 Deviate from this and the compounding model breaks.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

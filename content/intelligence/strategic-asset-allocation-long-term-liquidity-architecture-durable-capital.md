@@ -20,15 +20,11 @@ The focus is clinical: a map of
 
  THE REGIME SHIFT
 
- , the mechanics of liquidity engineering, the role of operational partners such as NAEO in energy-linked strategies, and the governance philosophy that defines capital stewardship in the current environment.
+ , the mechanics of liquidity engineering, the role of operational partners such as NAEO in energy-linked strategies, and the governance philosophy that defines capital stewardship in the current environment. 
 
-# Phase I: .
+### Phase I: .
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -86,15 +82,11 @@ This is where the concept of asset hardening becomes central.
 
 Hardening does not imply rigidity.
 
-It implies the reinforcement of an asset's ability to produce cash flow under multiple scenarios.
+It implies the reinforcement of an asset's ability to produce cash flow under multiple scenarios. 
 
-# Phase II: .
+### Phase II: .
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -164,9 +156,9 @@ These attributes form the structural rationale behind specialized energy mandate
 
 The appeal is not commodity price exposure.
 
-It is the operational predictability derived from known reservoir behavior and engineered extraction processes.
+It is the operational predictability derived from known reservoir behavior and engineered extraction processes. 
 
-# Phase III: .
+### Phase III: .
 
 THE PARTNERSHIP MODEL: ROIALS CAPITAL AS STRATEGIC NAVIGATOR The contemporary allocator does not seek product distribution.
 
@@ -196,9 +188,9 @@ This ensures allocators make decisions grounded in evidence, not narrative shift
 
 This model avoids marketing behavior.
 
-It positions capital allocation as a technical discipline consistent with institutional governance requirements.
+It positions capital allocation as a technical discipline consistent with institutional governance requirements. 
 
-# Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER : THE THEOLOGY OF CAPITAL Durable capital allocation is an act of stewardship.
 
@@ -220,9 +212,9 @@ The moral dimension is recognized in operational frameworks such as **Proverbs 1
 
 * 
 
-* , emphasizing generational capital clarity and responsibility.
+* , emphasizing generational capital clarity and responsibility. 
 
-# Phase V: .
+### Phase V: .
 
 DECISION MAKING LENS FOR THE INSTITUTIONAL ALLOCATOR The allocator operating in 2026 must internalize a simple but structural principle: durable capital is engineered, not found.
 

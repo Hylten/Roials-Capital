@@ -10,13 +10,9 @@ The structural gap in global reserve architecture is no longer a function of com
 
 It is a direct output of the post Basel III liquidity regime, where traditional collateral classes are losing elasticity while digital bearer assets like Bitcoin are becoming the de facto alternative reserve instrument for Family Offices operating between multi jurisdictional portfolios.
 
-This is a liquidity transformation cycle, not a speculative migration. 
+This is a liquidity transformation cycle, not a speculative migration.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -50,13 +46,9 @@ Bitcoin is functioning as a new form of operational ballast because it is non so
 
 Family Offices are not adopting it as a speculative instrument.
 
-They are leveraging it as a liquidity neutralizer within a broader Monetization Architecture architecture. 
+They are leveraging it as a liquidity neutralizer within a broader Monetization Architecture architecture.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -140,13 +132,9 @@ Bitcoin reduces temporal drag during multi jurisdictional closings.
 
 Roials Capital remains the neutral introducer.
 
-The objective is to align allocators with operational structures and technical partners that match their institutional archetype. 
+The objective is to align allocators with operational structures and technical partners that match their institutional archetype.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the systematic discipline of deploying capital in a manner that prevents value leakage
+THE STEWARDSHIP FILTER Stewardship is the systematic discipline of deploying capital in a manner that prevents value leakage
 
 .
 
@@ -200,7 +188,7 @@ Roials Capital supports this process by providing institutional grade navigation
 
 A Confidential Strategy Audit refines the liquidity stack, calibrates reserve architecture, and strengthens capital deployment capability across the next five to seven years of regulatory evolution.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

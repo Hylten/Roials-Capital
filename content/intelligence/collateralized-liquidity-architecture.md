@@ -42,13 +42,9 @@ Capital is expensive.
 
 Time is even more expensive.
 
-And inefficiency is unforgivable. 
+And inefficiency is unforgivable.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -102,13 +98,9 @@ Fund-III strategies depend on it, because the LP base has matured.
 
 They do not reward theory.
 
-They reward precision. 
+They reward precision.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -190,11 +182,9 @@ If it surprises to the downside, the GP has violated fiduciary logic.
 
 Collateralized liquidity becomes an art form when these mechanics converge.
 
-At that point, the fund can lend into complexity that other lenders avoid because they cannot see the internal liquidity geometry of the borrower. 
+At that point, the fund can lend into complexity that other lenders avoid because they cannot see the internal liquidity geometry of the borrower.
 
- 
-
-## THE
+THE
 
  
 
@@ -266,13 +256,9 @@ None of this is speculative.
 
 It is structural intelligence.
 
-And structural intelligence requires a fund that treats collateral as the primary language of capital. 
+And structural intelligence requires a fund that treats collateral as the primary language of capital.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER I consider capital a sacred trust
+THE STEWARDSHIP FILTER I consider capital a sacred trust
 
 .
 
@@ -286,9 +272,7 @@ Stewardship is the only framework that prevents waste. **Proverbs 13:22
 
 * 
 
-* anchors 
-
-## THE MANDAT
+* anchors THE MANDAT
 
 E
 
@@ -342,7 +326,7 @@ That is the institutional threshold.
 
 For a confidential capital audit, initiate contact.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

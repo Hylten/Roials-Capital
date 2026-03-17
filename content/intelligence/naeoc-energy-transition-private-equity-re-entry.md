@@ -318,9 +318,9 @@ All are structural.
 
 Energy systems are being rebuilt for reasons of physics, not politics.
 
-That is the ultimate anchor for institutional capital. 
+That is the ultimate anchor for institutional capital.
 
-## CAPITAL ARCHITECTURE ROIALS CAPITAL Position in the Cycle You already know our tri‑vector: Eighty percent capital raising for Fund‑III and add‑on execution
+CAPITAL ARCHITECTURE ROIALS CAPITAL Position in the Cycle You already know our tri‑vector: Eighty percent capital raising for Fund‑III and add‑on execution
 
 .
 
@@ -354,9 +354,9 @@ They are returning to managers who treat energy as an industrial system, not a p
 
 We do not chase the tide.
 
-We build the harbor where the tide returns. 
+We build the harbor where the tide returns.
 
-## ASSET‑BASED LENDING (QUALIFICATION GATES) Strict ROIALS CAPITAL Protocol If a manager or operating company requires working liquidity for acquisition execution, bridge positioning, or industrial stabilization, we open the Asset‑Based Lending corridor only at the formal Qualification Gates
+ASSET‑BASED LENDING (QUALIFICATION GATES) Strict ROIALS CAPITAL Protocol If a manager or operating company requires working liquidity for acquisition execution, bridge positioning, or industrial stabilization, we open the Asset‑Based Lending corridor only at the formal Qualification Gates
 
 :
 
@@ -370,9 +370,9 @@ Above these levels, we move with velocity.
 
 That is the gate.
 
-It exists to protect the architecture. 
+It exists to protect the architecture.
 
-## THE PRINCIPAL'S CLOSING POSITION Energy transition private equity is entering the age of adult supervision
+THE PRINCIPAL'S CLOSING POSITION Energy transition private equity is entering the age of adult supervision
 
 .
 

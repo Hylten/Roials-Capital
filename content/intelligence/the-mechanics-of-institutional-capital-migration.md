@@ -20,9 +20,9 @@ This is the strata where liquidity is created, secured, reallocated, and shielde
 
 It is the level at which private credit and asset based Monetization Architecture act as precision tools for High Net Worth and Ultra High Net Worth individuals who need liquidity without liquidation.
 
-The goal of this article is to articulate, clearly and surgically, how institutional capital migration works and how our Institutional Liquidity Paths architecture supports that movement. 
+The goal of this article is to articulate, clearly and surgically, how institutional capital migration works and how our Institutional Liquidity Paths architecture supports that movement.
 
-## The Architectural Advantage of ROIALS CAPITAL ROIALS CAPITAL provides
+The Architectural Advantage of ROIALS CAPITAL ROIALS CAPITAL provides
 
 :
 
@@ -40,9 +40,9 @@ Our structures are designed for privacy, precision, and long-horizon alignment.
 
 Institutional capital migrates through systems that respect its scale.
 
-We are one of those systems. 
+We are one of those systems.
 
-## Closing Position Capital migration is not a trend
+Closing Position Capital migration is not a trend
 
 .
 
@@ -54,7 +54,7 @@ They build the architecture that enables movement on their terms.
 
 ROIALS CAPITAL provides that architecture.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

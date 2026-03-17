@@ -36,7 +36,9 @@ Divergent insolvency hierarchies.
 
 Weak registry systems.
 
-These frictions create the inefficiencies that Fund-III is engineered to harvest. # Economic volatility is not the risk.
+These frictions create the inefficiencies that Fund-III is engineered to harvest.
+
+Economic volatility is not the risk.
 
 Fragile governance is.
 
@@ -88,7 +90,9 @@ That is
 
  THE REGIME SHIFT
 
- . # Asset hardening is not branding.
+ .
+
+Asset hardening is not branding.
 
 It is mechanics.
 
@@ -174,7 +178,9 @@ Private credit becomes secondary.
 
 Control becomes primary.
 
-Technical precision is stewardship. # Cross-border hardening requires an architecture, not a patchwork.
+Technical precision is stewardship.
+
+Cross-border hardening requires an architecture, not a patchwork.
 
 Fund-III follows a three-frame model that compresses execution risk at the GP level and visibility risk at the LP level.
 
@@ -282,8 +288,9 @@ A steward understands that capital is not a possession.
 
 It is a trust.
 
-The cross-border hardening model is simply the institutional expression of that trust. 
-## EXIT Exit discipline requires measurable thresholds
+The cross-border hardening model is simply the institutional expression of that trust.
+
+EXIT Exit discipline requires measurable thresholds
 
 .
 

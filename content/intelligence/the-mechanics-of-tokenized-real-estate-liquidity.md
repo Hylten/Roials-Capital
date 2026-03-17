@@ -30,9 +30,9 @@ In the landscape of tokenized real estate, these thresholds are not constraints.
 
 They are filters.
 
-They create coherence. 
+They create coherence.
 
-## The Shift From Asset Ownership to Asset Mobility Tokenization reframes property
+The Shift From Asset Ownership to Asset Mobility Tokenization reframes property
 
 .
 
@@ -54,9 +54,9 @@ This mobility is where liquidity architecture becomes strategically interesting.
 
 Tokenized real estate is not about making property accessible to retail participants.
 
-It is about giving institutional grade investors a new toolkit to engineer liquidity on demand. 
+It is about giving institutional grade investors a new toolkit to engineer liquidity on demand.
 
-## Precision Liquidity Through On-Chain Representation When a real estate asset is transformed into tokenized units, what emerges is a programmable claim
+Precision Liquidity Through On-Chain Representation When a real estate asset is transformed into tokenized units, what emerges is a programmable claim
 
 .
 
@@ -84,9 +84,9 @@ The portfolio becomes less about holding and more about routing.
 
 Routing is liquidity.
 
-Liquidity is control. 
+Liquidity is control.
 
-## Asset Based Strategic Collateralization in the Tokenized Domain ROIALS CAPITAL structures asset based Asset-Backed Frameworks with surgical discipline
+Asset Based Strategic Collateralization in the Tokenized Domain ROIALS CAPITAL structures asset based Asset-Backed Frameworks with surgical discipline
 
 .
 
@@ -110,9 +110,9 @@ When we lend against such assets, the underwriting process becomes more structur
 
 The risk conversation moves from identity verification toward claim stability and token contract integrity.
 
-This shift benefits institutional borrowers who want liquidity without procedural drag. 
+This shift benefits institutional borrowers who want liquidity without procedural drag.
 
-## Private Credit Integration and Liquidity Compression Private credit has become the architecture of modern capital markets
+Private Credit Integration and Liquidity Compression Private credit has become the architecture of modern capital markets
 
 .
 
@@ -138,9 +138,9 @@ We do not announce.
 
 We architect.
 
-By integrating tokenized real estate into the private credit funnel, we create a financial surface where large capital can move with increased velocity without losing its institutional posture. 
+By integrating tokenized real estate into the private credit funnel, we create a financial surface where large capital can move with increased velocity without losing its institutional posture.
 
-## The Institutional Threshold Effect HNWI and UHNW individuals operate at a scale where liquidity is not merely desired
+The Institutional Threshold Effect HNWI and UHNW individuals operate at a scale where liquidity is not merely desired
 
 .
 
@@ -168,15 +168,15 @@ They are monitored for structural integrity, not retail volatility.
 
 They qualify for multi 
 
-# Layer LI: quidity facilities with fewer downstream constraints
+### Layer LI: quidity facilities with fewer downstream constraints
 
 .
 
 This is the liquidity environment institutional capital expects.
 
-It is also the environment ROIALS CAPITAL maintains. 
+It is also the environment ROIALS CAPITAL maintains.
 
-## Settlement Integrity and Liquidity Reliability Any Asset-Backed Frameworks facility using digital claims as collateral depends on one critical variable: settlement integrity
+Settlement Integrity and Liquidity Reliability Any Asset-Backed Frameworks facility using digital claims as collateral depends on one critical variable: settlement integrity
 
 .
 
@@ -198,9 +198,9 @@ Custodial requirements still exist.
 
 Compliance review still exists.
 
-The difference is that settlement integrity increases confidence, which increases speed, which increases liquidity availability. 
+The difference is that settlement integrity increases confidence, which increases speed, which increases liquidity availability.
 
-## Liquidity as a Strategic Weapon for HNWI and UHNW Portfolios For significant portfolios, liquidity is not reactive
+Liquidity as a Strategic Weapon for HNWI and UHNW Portfolios For significant portfolios, liquidity is not reactive
 
 .
 
@@ -218,9 +218,9 @@ A property that once required months of coordination to collateralize can now be
 
 For HNWI and UHNW investors, this is not a convenience.
 
-It is a competitive advantage. 
+It is a competitive advantage.
 
-## Cross Border Liquidity and Regulatory Geometry Tokenized real estate introduces cross jurisdiction functionality that traditional property structures lack
+Cross Border Liquidity and Regulatory Geometry Tokenized real estate introduces cross jurisdiction functionality that traditional property structures lack
 
 .
 
@@ -234,9 +234,9 @@ ROIALS CAPITAL maintains structural clarity in this geometry.
 
 We evaluate regulatory alignment, collateral enforceability, and operational jurisdictional overlap before issuing any facility.
 
-This maintains institutional trust without sacrificing liquidity velocity. 
+This maintains institutional trust without sacrificing liquidity velocity.
 
-## The Future State: Real Estate as a Liquid Primitive Tokenized real estate introduces a future where property becomes a liquid primitive in global capital markets
+The Future State: Real Estate as a Liquid Primitive Tokenized real estate introduces a future where property becomes a liquid primitive in global capital markets
 
 .
 
@@ -256,9 +256,9 @@ ROIALS CAPITAL positions itself in the structural layer, not the speculative sur
 
 We do not participate in hype cycles.
 
-We architect the frameworks that allow institutional capital to move with predictable precision. 
+We architect the frameworks that allow institutional capital to move with predictable precision.
 
-## Why principal authority Matters In high-trust capital environments, authority is not expressed
+Why principal authority Matters In high-trust capital environments, authority is not expressed
 
 .
 
@@ -276,9 +276,9 @@ They need reliability.
 
 Tokenized real estate is simply another asset class that benefits from institutional discipline.
 
-We bring the discipline. 
+We bring the discipline.
 
-## Closing Perspective The mechanics of tokenized real estate liquidity are not speculative abstractions
+Closing Perspective The mechanics of tokenized real estate liquidity are not speculative abstractions
 
 .
 
@@ -294,7 +294,7 @@ We maintain frameworks that ensure settlement integrity.
 
 We maintain principal authority that ensures trust without noise.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

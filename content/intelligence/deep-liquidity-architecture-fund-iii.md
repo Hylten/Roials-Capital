@@ -450,15 +450,13 @@ Asymmetry is high.
 
 This is the optimal environment for a principal-grade platform.
 
-Provide 
-
-## THE MANDAT
+Provide THE MANDAT
 
 E
 
 .
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

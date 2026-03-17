@@ -14,15 +14,11 @@ The allocators engaging this reengineered landscape are no longer pursuing yield
 
 They are navigating operating regimes.
 
-Every decision point has shifted toward collateral integrity, cash flow stability, and the ability to deploy liquidity into real economy assets with definable recovery mechanics.
+Every decision point has shifted toward collateral integrity, cash flow stability, and the ability to deploy liquidity into real economy assets with definable recovery mechanics. 
 
-# Phase I: .
+### Phase I: .
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -44,15 +40,11 @@ Institutional allocators are observing a predictable phenomenon.
 
 Market tightening has increased the value of structurally senior claims, while also increasing the willingness of high quality operators to accept bespoke structures.
 
-The result is a regime defined by capital scarcity relative to asset robustness, where liquidity has outsized pricing power and underwriting discipline is rewarded through access to collaterally overbuilt opportunities.
+The result is a regime defined by capital scarcity relative to asset robustness, where liquidity has outsized pricing power and underwriting discipline is rewarded through access to collaterally overbuilt opportunities. 
 
-# Phase II: .
+### Phase II: .
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -120,9 +112,9 @@ European institutions use MiFID II compatible structures for acquisition finance
 
 Institutional Liquidity Paths is now a strategic discipline.
 
-It aligns structuring, regulatory constraints, tax positioning, and asset class specificity into a unified deployment algorithm.
+It aligns structuring, regulatory constraints, tax positioning, and asset class specificity into a unified deployment algorithm. 
 
-# Phase III: .
+### Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator and institutional introducer within this reengineered ecosystem.
 
@@ -162,9 +154,7 @@ Fund-III buyouts typically require staged liquidity deployment across senior deb
 
 Roials Capital orchestrates the liquidity timing to ensure capital enters the operating environment in a balanced and risk aware manner.
 
-Energy Mandates and the Role of NAEO When 
-
-## THE MANDAT
+Energy Mandates and the Role of NAEO When THE MANDAT
 
 E
 
@@ -176,9 +166,9 @@ NAEO's role is not capital raising.
 
 It is operational validation and technical oversight.
 
-Allocators require these capabilities before they deploy structured energy credit.
+Allocators require these capabilities before they deploy structured energy credit. 
 
-# Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship functions as a discipline of non wasteful resource management.
 
@@ -196,9 +186,9 @@ It is a trust extended to operators who must convert capital into productive eco
 
 Structures that encourage speculation rather than productivity are filtered out.
 
-Structures that encourage resilience, asset strengthening, and disciplined operating expansion are elevated.
+Structures that encourage resilience, asset strengthening, and disciplined operating expansion are elevated. 
 
-# Phase V: .
+### Phase V: .
 
 THE PORTFOLIO CALIBRATION LENS In 2026, allocators require a recalibrated framework to assess private credit's role inside a multi sleeve institutional portfolio.
 

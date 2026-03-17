@@ -20,9 +20,9 @@ This paper outlines the structural mechanics that guide our Strategic Collateral
 
 It is not a pitch.
 
-It is an architectural brief. 
+It is an architectural brief.
 
-## The Structural Premise of Fund-III Every fund reflects a worldview
+The Structural Premise of Fund-III Every fund reflects a worldview
 
 .
 
@@ -40,9 +40,9 @@ And the HNWI and UHNW segment demands capital solutions that mirror institutiona
 
 The architecture of Fund-III mirrors these conditions.
 
-We lend against real positions, real collateral, and real credit events. 
+We lend against real positions, real collateral, and real credit events.
 
-## Liquidity Architecture Defined Liquidity architecture is the discipline of creating predictable liquidity outcomes from inherently unpredictable markets
+Liquidity Architecture Defined Liquidity architecture is the discipline of creating predictable liquidity outcomes from inherently unpredictable markets
 
 .
 
@@ -66,9 +66,9 @@ A foundation built on principal authority, not promotional noise.
 
 Markets reward structures that remain coherent under stress.
 
-Our framework exists to institutionalize that coherence. 
+Our framework exists to institutionalize that coherence.
 
-## Private Credit as the Anchor Asset Private credit serves as the anchor within Fund-III because it provides stability without sacrificing acceleration
+Private Credit as the Anchor Asset Private credit serves as the anchor within Fund-III because it provides stability without sacrificing acceleration
 
 .
 
@@ -90,9 +90,9 @@ Our Asset-Backed Frameworks against private credit positions focuses on:
 
 This allows us to structure liquidity in a manner that remains uncorrelated with retail credit cycles.
 
-It also ensures that the participant, the asset, and the fund remain aligned under all macro conditions. 
+It also ensures that the participant, the asset, and the fund remain aligned under all macro conditions.
 
-## Asset Based Strategic Collateralization as a Precision Instrument Asset based Institutional Liquidity Paths is sometimes framed as a defensive tool
+Asset Based Strategic Collateralization as a Precision Instrument Asset based Institutional Liquidity Paths is sometimes framed as a defensive tool
 
 .
 
@@ -118,9 +118,9 @@ What matters is not the asset category.
 
 What matters is the asset’s precision under valuation stress.
 
-This is the institutional threshold that defines our approach. 
+This is the institutional threshold that defines our approach.
 
-## Crypto Institutional Liquidity Paths at Institutional Scale Crypto Institutional Liquidity Paths is not a retail activity at Roials Capital
+Crypto Institutional Liquidity Paths at Institutional Scale Crypto Institutional Liquidity Paths is not a retail activity at Roials Capital
 
 .
 
@@ -142,9 +142,9 @@ Liquidity is manufactured through conservative liquidity facility to value, mult
 
 Crypto is not the frontier.
 
-Crypto is simply another collateral class when treated with correct architectural discipline. 
+Crypto is simply another collateral class when treated with correct architectural discipline.
 
-## Public Share Strategic Collateralization and the 5,000
+Public Share Strategic Collateralization and the 5,000
 
 ,
 
@@ -174,9 +174,9 @@ The asset produces daily price discovery.
 
 The liquidity facility can be shaped with surgical clarity.
 
-This allows us to maintain the principal authority that defines the Roials Capital risk posture. 
+This allows us to maintain the principal authority that defines the Roials Capital risk posture.
 
-## The HNWI and UHNW Liquidity Mandate HNWI and UHNW participants require more than access to liquidity
+The HNWI and UHNW Liquidity Mandate HNWI and UHNW participants require more than access to liquidity
 
 .
 
@@ -202,9 +202,7 @@ Characteristics include:
 
 The result is a Institutional Liquidity Paths environment where the participant does not negotiate with the architecture.
 
-The architecture is already optimized for their conditions. 
-
-## principal authority and the F Hierarchical Dynamics principal authority is not a branding strategy
+The architecture is already optimized for their conditions. principal authority and the F Hierarchical Dynamics principal authority is not a branding strategy
 
 .
 
@@ -228,9 +226,9 @@ To liquidity distribution.
 
 The architecture communicates the authority.
 
-Nothing else needs to. 
+Nothing else needs to.
 
-## Risk Engineering as a Foundation Liquidity without risk engineering is disorder
+Risk Engineering as a Foundation Liquidity without risk engineering is disorder
 
 .
 
@@ -256,9 +254,9 @@ These principles allow the fund to absorb liquidity shocks without constriction.
 
 The participant experiences stability even when the underlying market does not.
 
-This is the institutional standard expected at the upper tier of private credit and Asset-Based Lending. 
+This is the institutional standard expected at the upper tier of private credit and Asset-Based Lending.
 
-## Designing Velocity Without Compromise Velocity is only beneficial when it does not degrade collateral
+Designing Velocity Without Compromise Velocity is only beneficial when it does not degrade collateral
 
 .
 
@@ -274,13 +272,11 @@ This requires discipline.
 
 It also requires an understanding that most liquidity failures occur when velocity outruns collateral precision.
 
-Our architecture prevents that misalignment before the liquidity facility is ever issued. 
+Our architecture prevents that misalignment before the liquidity facility is ever issued.
 
-## Multi
+Multi 
 
- 
-
-# Layer L: I
+### Layer L: I
 
 quidity Construction Fund-III’s architecture uses a multi layer approach to create stability.
 
@@ -294,9 +290,9 @@ The result is a liquidity engine that operates with institutional reliability.
 
 This creates a rare environment where liquidity is not reactive but proactive.
 
-Participants can move knowing the architecture anticipates what the market does not. 
+Participants can move knowing the architecture anticipates what the market does not.
 
-## The Expansion Logic of Fund-III Expansion does not occur by increasing risk
+The Expansion Logic of Fund-III Expansion does not occur by increasing risk
 
 .
 
@@ -312,9 +308,9 @@ Each enhances the principal authority that defines our position in the market.
 
 This expansion is not marketed.
 
-It is engineered. 
+It is engineered.
 
-## Why Architecture Determines Outcomes Most credit failures are design failures
+Why Architecture Determines Outcomes Most credit failures are design failures
 
 .
 
@@ -332,11 +328,9 @@ The architecture is the defense.
 
 The architecture is also the advantage.
 
-It is the reason Fund-III can expand without diluting quality. 
+It is the reason Fund-III can expand without diluting quality.
 
- 
-
-## CONCLUSIO
+CONCLUSIO
 
 N
 
@@ -350,7 +344,7 @@ A liquidity architecture built for HNWI and UHNW participants who require stabil
 
 If your capital framework requires institutional liquidity with architectural clarity, request confidential audit.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

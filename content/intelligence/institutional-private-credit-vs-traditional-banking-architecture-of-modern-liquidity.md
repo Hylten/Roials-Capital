@@ -10,13 +10,9 @@ The capital vacuum across North American and European credit markets is a struct
 
 Basel IV, regional banking consolidation, and supervisory tightening have created an environment where traditional lenders maintain balance sheet exposure but cannot transition sufficient capital into middle-market and asset-backed credit.
 
-The result is a dual-track financing regime: banks maintain settlement infrastructure while private credit funds deliver actual liquidity. 
+The result is a dual-track financing regime: banks maintain settlement infrastructure while private credit funds deliver actual liquidity.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -62,13 +58,9 @@ The modern liquidity regime operates on the principle that institutional capital
 
 This is not a temporary anomaly.
 
-It is the structural architecture of the next decade. 
+It is the structural architecture of the next decade.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -152,9 +144,7 @@ Roials ensures alignment between investor archetypes and fund strategy.
 
 2.
 
-Capital Structuring and Asset-Based Lending Structures Ten percent of 
-
-## THE MANDAT
+Capital Structuring and Asset-Based Lending Structures Ten percent of THE MANDAT
 
 E
 
@@ -180,13 +170,9 @@ In energy, NAEO provides the institutional-grade technical backbone.
 
 Roials Capital maintains neutrality.
 
-This ensures the architecture serves allocators rather than internal balance sheet incentives. 
+This ensures the architecture serves allocators rather than internal balance sheet incentives.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Every allocator with long-duration capital recognizes that stewardship is essential for sustaining multi-cycle performance
+THE STEWARDSHIP FILTER Every allocator with long-duration capital recognizes that stewardship is essential for sustaining multi-cycle performance
 
 .
 

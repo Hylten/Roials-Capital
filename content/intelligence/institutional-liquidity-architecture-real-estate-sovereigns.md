@@ -10,13 +10,9 @@ The capital vacuum affecting real estate sovereignties in 2026 is a product of l
 
 Sovereign-grade property portfolios remain structurally underleveraged, not because their income durability has weakened, but because their liquidity architecture has not evolved at the same velocity as market risk pricing.
 
-This creates an environment where the most stable property ecosystems appear distressed on paper while remaining fundamentally sound in cash generation and replacement cost positioning. 
+This creates an environment where the most stable property ecosystems appear distressed on paper while remaining fundamentally sound in cash generation and replacement cost positioning.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -53,13 +49,9 @@ This is the environment where Institutional Liquidity Paths, institutional capit
 
  INTRODUCTION
 
- , and balance sheet optimization become decisive tools. 
+ , and balance sheet optimization become decisive tools.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -163,13 +155,9 @@ Institutional Partner Integration For energy mandates, NAEO functions as the tec
 
 For real estate sovereignties, Roials Capital coordinates with capital providers specializing in duration matched exposure and collateral integrated credit.
 
-The objective is strategic navigation through structural inefficiencies rather than portfolio acquisition. 
+The objective is strategic navigation through structural inefficiencies rather than portfolio acquisition.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER THE THEOLOGY OF CAPITAL Stewardship functions as a discipline of managing scarce resources with precision and intent
+THE STEWARDSHIP FILTER THE THEOLOGY OF CAPITAL Stewardship functions as a discipline of managing scarce resources with precision and intent
 
 .
 
@@ -207,7 +195,7 @@ The critical questions revolve around:
 
 - access to programmatic capital insulated from episodic refinancing events Roials Capital provides a confidential strategy audit for sovereign operators and allocators seeking calibrated exposure, ensuring alignment between capital architecture, macro regime conditions, and operational governance.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

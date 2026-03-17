@@ -10,13 +10,9 @@ The capital vacuum in North American private credit is the result of covenant co
 
 Allocators observing the current lending regime are identifying a persistent structural dislocation: liquidity is scarce in the segments where cash flow predictability is highest and capital discipline is most measurable.
 
-This asymmetry is creating a technical environment where controlled liquidity architecture drives structural alpha more reliably than traditional rate arbitrage. 
+This asymmetry is creating a technical environment where controlled liquidity architecture drives structural alpha more reliably than traditional rate arbitrage.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -48,13 +44,9 @@ Fund-III capital formation aligns with this environment.
 
 Buyouts and add-ons that once relied on blended bank syndication now require precision engineered private facilities to maintain transaction momentum.
 
-The allocator lens has shifted: the strength of the underwriting framework now determines the risk profile more than market volatility does. 
+The allocator lens has shifted: the strength of the underwriting framework now determines the risk profile more than market volatility does.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -174,13 +166,9 @@ The focus remains on:
 
 Institutional Navigation Capital providers require operational intelligence, jurisdictional clarity, and risk transmission mapping.
 
-Roials Capital provides this framework, enabling allocators to assess structures through a technical rather than promotional lens. 
+Roials Capital provides this framework, enabling allocators to assess structures through a technical rather than promotional lens.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful capital management
+THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful capital management
 
 .
 

@@ -230,9 +230,9 @@ These segments reward firms that operate with institutional patience and technic
 
 They punish firms that chase yield without structural mastery.
 
-ROIALS CAPITAL belongs to the first group.
+ROIALS CAPITAL belongs to the first group. 
 
-# Phase IV: The Stewardship Filter Capital is not sovereign
+### Phase IV: The Stewardship Filter Capital is not sovereign
 
 .
 
@@ -292,9 +292,9 @@ Capital is not deployed for excitement.
 
 It is deployed for continuity.
 
-That continuity is engineered, not assumed.
+That continuity is engineered, not assumed. 
 
-# Phase V: Exit Yield without velocity is idle
+### Phase V: Exit Yield without velocity is idle
 
 .
 
@@ -310,7 +310,7 @@ We engineer both through a Fund-III architecture targeting a 1.
 
 Request a confidential capital audit to determine alignment with Fund-III deployment parameters.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

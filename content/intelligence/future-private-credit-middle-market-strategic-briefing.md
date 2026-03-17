@@ -12,15 +12,11 @@ It is the downstream result of regulatory recalibration, banking consolidation, 
 
 The outcome is a structurally persistent gap in credit formation that is material enough to redirect institutional allocation schedules for the next decade.
 
-Middle market private credit has therefore transitioned from a peripheral yield enhancer to an architectural pillar of institutional portfolios.
+Middle market private credit has therefore transitioned from a peripheral yield enhancer to an architectural pillar of institutional portfolios. 
 
-# Phase I: .
+### Phase I: .
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -72,7 +68,7 @@ Enhanced control rights.
 
 Private lenders often negotiate 
 
-# Step I
+### Step I
 
 n protections, cash flow sweep rights, and covenant structures unavailable in public markets.
 
@@ -90,15 +86,11 @@ Private credit is entering the same maturity arc that private equity navigated i
 
 Institutional allocators are no longer experimenting with the asset class.
 
-They are building long horizon exposure and integrating dedicated private credit sleeves into overall portfolio design.
+They are building long horizon exposure and integrating dedicated private credit sleeves into overall portfolio design. 
 
-# Phase II: .
+### Phase II: .
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -194,9 +186,9 @@ Since 2015, the sector has absorbed a
 
 Our strategic partner, NAEO, focuses on conventional heavy oil operations with disciplined technical stewardship.
 
-These assets avoid high capex blowout risk and offer operational visibility critical for institutional allocators who require stability rather than speculative exposure.
+These assets avoid high capex blowout risk and offer operational visibility critical for institutional allocators who require stability rather than speculative exposure. 
 
-# Phase III: .
+### Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator and institutional introducer.
 
@@ -234,9 +226,9 @@ The partnership model emphasizes clarity.
 
 Allocators do not require persuasion.
 
-They require precise articulation of how a strategy integrates with their capital architecture.
+They require precise articulation of how a strategy integrates with their capital architecture. 
 
-# Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource deployment.
 
@@ -288,9 +280,9 @@ Stewardship becomes a filter through which private credit opportunities are eval
 
 It is not a moral abstraction.
 
-It is a practical requirement for sustainable allocation.
+It is a practical requirement for sustainable allocation. 
 
-# Phase V: .
+### Phase V: .
 
 PORTFOLIO CALIBRATION FOR THE ALLOCATOR The current private credit cycle is defined by structural clarity.
 
@@ -316,7 +308,7 @@ The objective is alignment.
 
 The outcome is clarity across capital structures and long term portfolio design.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

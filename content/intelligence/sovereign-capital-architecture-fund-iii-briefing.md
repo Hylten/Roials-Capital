@@ -70,7 +70,7 @@ This briefing delivers that architecture.
 
 - The first 
 
-# Pillar I: s structural sovereignty
+### Pillar I: s structural sovereignty
 
 .
 
@@ -80,7 +80,7 @@ Each layer protects the next.
 
 Each 
 
-# Layer M: ultiplies the capital‑raising surface area
+### Layer M: ultiplies the capital‑raising surface area
 
 .
 
@@ -124,7 +124,7 @@ A multi‑sleeve architecture accelerates it.
 
 The second 
 
-# Pillar I: s capital velocity
+### Pillar I: s capital velocity
 
 .
 
@@ -162,7 +162,7 @@ Velocity protects momentum.
 
 The third 
 
-# Pillar I: s asset hardening
+### Pillar I: s asset hardening
 
 .
 
@@ -192,7 +192,7 @@ You deliver alpha by accelerating inevitability.
 
 The fourth 
 
-# Pillar I: s Monetization Architecture
+### Pillar I: s Monetization Architecture
 
 .
 
@@ -230,7 +230,7 @@ A sovereign fortress.
 
 The fifth 
 
-# Pillar I: s acquisition sequencing
+### Pillar I: s acquisition sequencing
 
 .
 
@@ -296,7 +296,7 @@ No drift.
 
 The sixth 
 
-# Pillar I: s jurisdictional arbitrage
+### Pillar I: s jurisdictional arbitrage
 
 .
 
@@ -352,7 +352,7 @@ Strategically.
 
 - The seventh 
 
-# Pillar I: s institutional signaling
+### Pillar I: s institutional signaling
 
 .
 
@@ -400,7 +400,7 @@ Raise capital.
 
 - The eighth 
 
-# Pillar I: s cycle dominance
+### Pillar I: s cycle dominance
 
 .
 
@@ -448,13 +448,13 @@ Permanent capital shapes history.
 
 The engine has four modules: Module one: Structural Core Module two: Capital Expansion 
 
-# Layer M
+### Layer M
 
 odule three: Liquidity Shield Module four: Acquisition Compression Grid The structural core is multi‑domiciled.
 
 The expansion 
 
-# Layer I: s multi‑currency
+### Layer I: s multi‑currency
 
 .
 
@@ -612,7 +612,7 @@ End mandate metric: Liquidity Coverage Ratio Target >
 
 85.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

@@ -16,7 +16,7 @@ The frameworks were set by large allocators, pension funds, specialist credit fu
 
 Today, HNWI and UHNW participants 
 
-# Step I
+### Step I
 
 nto that arena with more sophistication, more tools, and more leverage.
 
@@ -42,9 +42,9 @@ It explains where Asset-Based Lending structures fit.
 
 It defines how large collateral positions are evaluated.
 
-And it sets the boundaries that maintain trust, stability, and long-term access to liquidity. 
+And it sets the boundaries that maintain trust, stability, and long-term access to liquidity.
 
-## The Institutional Vocabulary of Private Credit Institutional capital operates on a vocabulary built around clarity and enforcement
+The Institutional Vocabulary of Private Credit Institutional capital operates on a vocabulary built around clarity and enforcement
 
 .
 
@@ -70,9 +70,9 @@ The goal is not to recreate the system, but to align with it.
 
 Alignment does not require size alone.
 
-It requires structural behavior that institutions recognize. 
+It requires structural behavior that institutions recognize.
 
-## The Logic of Asset Based Strategic Collateralization Asset based Capital Structuring is the cleanest expression of institutional alignment
+The Logic of Asset Based Strategic Collateralization Asset based Capital Structuring is the cleanest expression of institutional alignment
 
 .
 
@@ -104,9 +104,9 @@ UHNW borrowers benefit because they can optimize large portfolios without sacrif
 
 Institutions have long used Asset-Based Lending to maintain optionality.
 
-Individuals can use the same architecture when the lender is capable of operating at that scale with simplicity and discretion. 
+Individuals can use the same architecture when the lender is capable of operating at that scale with simplicity and discretion.
 
-## The Role of Private Credit in Modern Portfolios Private credit has moved from a niche allocation to a central pillar of modern wealth strategies
+The Role of Private Credit in Modern Portfolios Private credit has moved from a niche allocation to a central pillar of modern wealth strategies
 
 .
 
@@ -140,9 +140,9 @@ When ROIALS CAPITAL assesses a private credit position, we look at:
 
 It defines the boundaries of responsible leverage.
 
-It protects the borrower by grounding liquidity in stable underwriting. 
+It protects the borrower by grounding liquidity in stable underwriting.
 
-## The Silent Architecture of Institutional Behavior Institutions are not loud
+The Silent Architecture of Institutional Behavior Institutions are not loud
 
 .
 
@@ -180,9 +180,9 @@ Not those who request exceptions.
 
 Not those who rely on narratives.
 
-Not those who present complexity without clarity. 
+Not those who present complexity without clarity.
 
-## Large Collateral, Large Responsibility Private credit and Asset-Based Lending structures require stability
+Large Collateral, Large Responsibility Private credit and Asset-Based Lending structures require stability
 
 .
 
@@ -212,9 +212,9 @@ Thresholds are not barriers.
 
 They are signals.
 
-They define the scale at which careful engineering becomes both possible and valuable. 
+They define the scale at which careful engineering becomes both possible and valuable.
 
-## Liquidity as a Strategic Instrument Liquidity is not simply access to cash
+Liquidity as a Strategic Instrument Liquidity is not simply access to cash
 
 .
 
@@ -242,9 +242,9 @@ Alignment maintains stability.
 
 Stability maintains optionality.
 
-Optionality maintains long-term control. 
+Optionality maintains long-term control.
 
-## Why Structure Outperforms Emotion Markets move
+Why Structure Outperforms Emotion Markets move
 
 .
 
@@ -272,9 +272,9 @@ This reciprocity keeps the system executable.
 
 It keeps both sides aligned.
 
-And it maintains trust without theatrics. 
+And it maintains trust without theatrics.
 
-## Institutional Alignment as a Competitive Advantage For HNWI and UHNW clients, aligning with institutional rules provides a competitive edge
+Institutional Alignment as a Competitive Advantage For HNWI and UHNW clients, aligning with institutional rules provides a competitive edge
 
 .
 
@@ -302,9 +302,9 @@ The market rewards structural maturity.
 
 This is why institutions dominate private credit markets.
 
-And it is why individuals who adopt their posture gain access to the same advantages. 
+And it is why individuals who adopt their posture gain access to the same advantages.
 
-## The Role of ROIALS CAPITAL as Structural Architect Our position is not to chase capital
+The Role of ROIALS CAPITAL as Structural Architect Our position is not to chase capital
 
 .
 
@@ -332,9 +332,9 @@ It ensures the underwriting respects institutional boundaries.
 
 ROIALS CAPITAL is not a retail solution.
 
-It is an institutional framework accessible to individuals who understand its value. 
+It is an institutional framework accessible to individuals who understand its value.
 
-## The Path Forward for Private Credit Markets Private credit continues to gain relevance as traditional Institutional Liquidity Paths becomes more restrictive and market cycles become more compressed
+The Path Forward for Private Credit Markets Private credit continues to gain relevance as traditional Institutional Liquidity Paths becomes more restrictive and market cycles become more compressed
 
 .
 
@@ -364,9 +364,9 @@ We do not deviate.
 
 We do not dilute.
 
-We operate with the same discipline that institutional markets expect and require. 
+We operate with the same discipline that institutional markets expect and require.
 
-## Closing Architecture Private credit markets reward those who think in structures, not stories
+Closing Architecture Private credit markets reward those who think in structures, not stories
 
 .
 
@@ -384,7 +384,7 @@ Executed.
 
 To evaluate how your assets align with institutional private credit rules, request confidential audit.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

@@ -14,9 +14,9 @@ The market now rewards covenant integrity, precision underwriting, and the sover
 
 The following framework outlines how private debt origination transforms into an institutional-grade discipline.
 
-It is engineered for allocators who demand clarity, discipline, repeatability, and moral grounding. 
+It is engineered for allocators who demand clarity, discipline, repeatability, and moral grounding.
 
-## The Shift From Opportunistic Credit to Structural Alignment The private credit market has passed the $21B pivot point where capital is no longer allocated to opportunistic lenders
+The Shift From Opportunistic Credit to Structural Alignment The private credit market has passed the $21B pivot point where capital is no longer allocated to opportunistic lenders
 
 .
 
@@ -42,9 +42,9 @@ Not theory.
 
 Not narrative.
 
-A principal either meets the standard or is removed from consideration. 
+A principal either meets the standard or is removed from consideration.
 
-## The Covenant Stewardship Thesis A Christian conservative capital philosophy begins with a simple premise
+The Covenant Stewardship Thesis A Christian conservative capital philosophy begins with a simple premise
 
 .
 
@@ -82,9 +82,9 @@ It reduces variance.
 
 It raises trust velocity.
 
-It removes fragility. 
+It removes fragility.
 
-## Structural Architecture of Institutional-Grade Origination Institutional origination is not defined by liquidity facility size
+Structural Architecture of Institutional-Grade Origination Institutional origination is not defined by liquidity facility size
 
 .
 
@@ -124,9 +124,9 @@ Each signal is binary.
 
 The platform either has it or does not.
 
-There is no middle category in institutional evaluation. 
+There is no middle category in institutional evaluation.
 
-## Asset Hardening as the Core Mechanism Asset hardening is the governing principle for private debt
+Asset Hardening as the Core Mechanism Asset hardening is the governing principle for private debt
 
 .
 
@@ -150,9 +150,9 @@ This transforms originators from capital allocators into structural architects.
 
 The platform moves from reactive to anticipatory.
 
-Institutions reward this behavior because it compresses risk windows and amplifies certainty. 
+Institutions reward this behavior because it compresses risk windows and amplifies certainty.
 
-## The Origination Funnel
+The Origination Funnel
 
 .
 
@@ -160,21 +160,21 @@ Built for Institutional Scrutiny Origination begins long before underwriting.
 
 The filtration stage is the hidden gate that protects the allocator.
 
-The Roials filtration sequence operates in four ultra-short phases.
+The Roials filtration sequence operates in four ultra-short phases. 
 
-# Phase I: .
+### Phase I: .
 
-Mandate alignment verification.
+Mandate alignment verification. 
 
-# Phase II: .
+### Phase II: .
 
-Covenant compatibility check.
+Covenant compatibility check. 
 
-# Phase III: .
+### Phase III: .
 
-Liquidity stress simulation.
+Liquidity stress simulation. 
 
-# Phase IV: .
+### Phase IV: .
 
 Counterparty ethics clearance.
 
@@ -186,9 +186,9 @@ This filtration removes
 
 That is the correct ratio.
 
-A healthy origination funnel is narrow at the base and uncompromising at the top. 
+A healthy origination funnel is narrow at the base and uncompromising at the top.
 
-## Underwriting as a Discipline of Order Underwriting is not analysis
+Underwriting as a Discipline of Order Underwriting is not analysis
 
 .
 
@@ -224,9 +224,9 @@ The process is short.
 
 The logic is strict.
 
-Everything reduces to recoverability and character. 
+Everything reduces to recoverability and character.
 
-## Execution Velocity and Institutional Trust Execution velocity is the competitive advantage in modern private debt
+Execution Velocity and Institutional Trust Execution velocity is the competitive advantage in modern private debt
 
 .
 
@@ -248,9 +248,9 @@ Institutions partner with platforms that demonstrate velocity because:
 
 Velocity is not speed for its own sake.
 
-Velocity is moral discipline expressed through operational order. 
+Velocity is moral discipline expressed through operational order.
 
-## Capital Structures Built for HNWI and UHNW Sovereigns High net worth and ultra high net worth principals evaluate private debt through a different lens
+Capital Structures Built for HNWI and UHNW Sovereigns High net worth and ultra high net worth principals evaluate private debt through a different lens
 
 .
 
@@ -272,9 +272,9 @@ The Roials framework aligns with this evaluation pattern.
 
 - Transparent inspection of originator protocols.
 
-The result is a capital environment where the allocator experiences sovereignty, not uncertainty. 
+The result is a capital environment where the allocator experiences sovereignty, not uncertainty.
 
-## Minimum liquidity engineering Thresholds and Institutional Readiness Institutional readiness is reinforced through mandated thresholds
+Minimum liquidity engineering Thresholds and Institutional Readiness Institutional readiness is reinforced through mandated thresholds
 
 .
 
@@ -290,9 +290,9 @@ They ensure counterparty seriousness.
 
 They prevent misallocation of analytical capacity.
 
-They maintain platform dignity. 
+They maintain platform dignity.
 
-## The Intelligence Layer
+The Intelligence Layer
 
 .
 
@@ -316,9 +316,9 @@ It includes:
 
 This is the sovereign differentiator.
 
-The intelligence layer elevates the principal from operator to architect. 
+The intelligence layer elevates the principal from operator to architect.
 
-## Stress Protocols for Down-Market Cycles Institutional private debt must withstand disorder
+Stress Protocols for Down-Market Cycles Institutional private debt must withstand disorder
 
 .
 
@@ -344,9 +344,9 @@ Preparedness is a Christian conservative virtue.
 
 It protects all parties.
 
-It honors stewardship. 
+It honors stewardship.
 
-## The Roials Framework for Institutional Partnership The Roials architecture is defined by five structural commitments
+The Roials Framework for Institutional Partnership The Roials architecture is defined by five structural commitments
 
 .
 
@@ -380,9 +380,9 @@ Commitment
 
 Execution velocity with moral order.
 
-The framework is built for institutions, family offices, and UHNW principals who require predictable governance and uncompromising clarity. 
+The framework is built for institutions, family offices, and UHNW principals who require predictable governance and uncompromising clarity.
 
-## The New Era of Private Debt
+The New Era of Private Debt
 
 .
 
@@ -406,9 +406,9 @@ The market now rewards:
 
 This is the new standard.
 
-This is the institutional threshold. 
+This is the institutional threshold.
 
-## Final Position Private debt origination is not a trade
+Final Position Private debt origination is not a trade
 
 .
 
@@ -418,9 +418,7 @@ Institutions allocate to frameworks.
 
 Frameworks reflect the principal.
 
-The principal reflects 
-
-## THE MANDAT
+The principal reflects THE MANDAT
 
 E
 
@@ -430,13 +428,13 @@ If the principal is ordered, the platform is ordered.
 
 If the platform is ordered, the capital is protected.
 
-If the capital is protected, long-term partnership emerges. 
+If the capital is protected, long-term partnership emerges.
 
-## CTA Request confidential audit
+CTA Request confidential audit
 
 .
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

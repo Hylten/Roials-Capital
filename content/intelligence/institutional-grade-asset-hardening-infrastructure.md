@@ -18,13 +18,9 @@ In the current capital regime, allocators navigating Fund-III and later vehicles
 
 The objective is not yield generation.
 
-The objective is predictability and sovereign level stability inside private markets. 
+The objective is predictability and sovereign level stability inside private markets.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -66,13 +62,9 @@ Heavy oil reservoirs in Alberta, when engineered under SAGD or CSS methodologies
 
 This is the central counter intuitive truth shaping institutional flows in 
 
-2026. 
+2026.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -224,23 +216,19 @@ Within private credit and buyout environments, Roials Capital provides instituti
 
 This includes senior facility design, cash flow waterfall modeling, cross collateral matrices, and asset level risk mitigation frameworks.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
  is not to manage capital.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
- is to structure clarity. 
+ is to structure clarity.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is a discipline, not a sentiment
+THE STEWARDSHIP FILTER Stewardship is a discipline, not a sentiment
 
 .
 
@@ -300,7 +288,7 @@ Roials Capital’s role is to provide institutional LPs and GPs with a neutral, 
 
 For allocators requiring deeper visibility, a confidential strategy audit or portfolio calibration can map the assets, liabilities, and operational ranges that define their current posture.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

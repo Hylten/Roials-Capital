@@ -68,7 +68,7 @@ Architecture does.
 
 The first 
 
-# Pillar I: s structural jurisdictional separation
+### Pillar I: s structural jurisdictional separation
 
 .
 
@@ -414,11 +414,11 @@ Deploy with speed.
 
 The next 
 
-# Step I: s confidential: initiate the capital audit
+### Step I: s confidential: initiate the capital audit
 
 .
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

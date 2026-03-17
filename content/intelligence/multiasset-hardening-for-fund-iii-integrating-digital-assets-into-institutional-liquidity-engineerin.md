@@ -32,9 +32,9 @@ These parameters are not posturing.
 
 They are filtration.
 
-They preserve institutional scale integrity and maintain the internal geometry required for operations that rely on principal authority rather than retail signaling. 
+They preserve institutional scale integrity and maintain the internal geometry required for operations that rely on principal authority rather than retail signaling.
 
-## Why Multi Asset Hardening Matters Now The global liquidity map has shifted
+Why Multi Asset Hardening Matters Now The global liquidity map has shifted
 
 .
 
@@ -48,9 +48,9 @@ Hardening produces resilience.
 
 Hardening is the deliberate integration of assets with different settlement behaviors, regulatory demands, latency properties, and collateral elasticity.
 
-Fund-III is built to operate inside that reality. 
+Fund-III is built to operate inside that reality.
 
-## The Structural Logic of Hardening To harden a portfolio or a fund level balance sheet, three forces must be controlled
+The Structural Logic of Hardening To harden a portfolio or a fund level balance sheet, three forces must be controlled
 
 .
 
@@ -70,9 +70,9 @@ Asset-Based Lending provides collateral clarity.
 
 Digital assets, when properly structured, provide velocity without compromising institutional discipline.
 
-The integration of all three creates a more durable foundation for Fund-III operations. 
+The integration of all three creates a more durable foundation for Fund-III operations.
 
-## Digital Assets as a Collateral Class Precision, Not Speculation Digital assets, when viewed through a retail lens, appear volatile and unpredictable
+Digital Assets as a Collateral Class Precision, Not Speculation Digital assets, when viewed through a retail lens, appear volatile and unpredictable
 
 .
 
@@ -98,9 +98,9 @@ The architecture is rules based.
 
 It does not chase performance.
 
-It captures collateral efficiency. 
+It captures collateral efficiency.
 
-## Public Share Asset-Backed Frameworks A Counterweight to Market Friction Public equities provide a different type of collateral elasticity
+Public Share Asset-Backed Frameworks A Counterweight to Market Friction Public equities provide a different type of collateral elasticity
 
 .
 
@@ -116,9 +116,9 @@ At this level, the share blocks possess institutional weight and avoid fragmenta
 
 Public share Strategic Collateralization becomes a stabilizer for Fund-III.
 
-It introduces a predictable and transparent collateral dimension that aligns with the structural needs of multi asset hardening. 
+It introduces a predictable and transparent collateral dimension that aligns with the structural needs of multi asset hardening.
 
-## Private Credit and Asset-Based Lending The Anchor Layer While digital assets and public equities provide velocity and optionality, private credit and Asset-Based Lending provide the anchor
+Private Credit and Asset-Based Lending The Anchor Layer While digital assets and public equities provide velocity and optionality, private credit and Asset-Based Lending provide the anchor
 
 .
 
@@ -142,9 +142,9 @@ Private credit and Asset-Based Lending define the stability.
 
 Digital assets and public shares define the velocity.
 
-The structure in between is the hardening layer. 
+The structure in between is the hardening layer.
 
-## Fund-III Operations Where Multi Asset Hardening Lives Fund-III requires a precise operational flow
+Fund-III Operations Where Multi Asset Hardening Lives Fund-III requires a precise operational flow
 
 .
 
@@ -170,9 +170,9 @@ Public shares behave similarly but with a slower feedback cycle.
 
 Private credit and Asset-Based Lending dominate channels two and three.
 
-The interplay of these channels is what produces a hardened multi asset environment. 
+The interplay of these channels is what produces a hardened multi asset environment.
 
-## Institutional Capital and the principal authority Principle Roials Capital does not position itself through aggressive signaling
+Institutional Capital and the principal authority Principle Roials Capital does not position itself through aggressive signaling
 
 .
 
@@ -190,9 +190,9 @@ By engineering the structural rules, we eliminate the energy loss caused by frag
 
 The institution becomes the frame.
 
-The assets become components inside the frame. 
+The assets become components inside the frame.
 
-## Integrating Digital Assets Into Hardening The Practical Mechanics Digital assets are integrated into Fund-III operations through three mechanisms
+Integrating Digital Assets Into Hardening The Practical Mechanics Digital assets are integrated into Fund-III operations through three mechanisms
 
 .
 
@@ -210,9 +210,9 @@ Liquidity gates define how capital can be released against the collateral withou
 
 Exposure throttling ensures that no single digital asset or asset cluster can distort Fund-III’s collateral geometry.
 
-These mechanisms remove speculation and convert digital assets into engineered collateral. 
+These mechanisms remove speculation and convert digital assets into engineered collateral.
 
-## The Role of Thresholds Why They Matter The two million and five million dollar thresholds are strategic
+The Role of Thresholds Why They Matter The two million and five million dollar thresholds are strategic
 
 .
 
@@ -232,9 +232,9 @@ Volatility becomes modelable instead of disruptive.
 
 Thresholds convert assets from high noise instruments to usable collateral.
 
-This is the foundation of multi asset hardening. 
+This is the foundation of multi asset hardening.
 
-## Creating Liquidity Without Forcing Liquidation HNWI and UHNW clients do not want to sell positions to unlock liquidity
+Creating Liquidity Without Forcing Liquidation HNWI and UHNW clients do not want to sell positions to unlock liquidity
 
 .
 
@@ -248,9 +248,9 @@ The liquidity unlocked can be directed toward new opportunities or strategic obl
 
 The hardening layer ensures that leverage does not become a destabilizing force.
 
-It becomes a precision instrument. 
+It becomes a precision instrument.
 
-## The Future of Multi Asset Hardening As Fund-III evolves, the integration of digital assets will deepen, but the architecture will remain conservative and rule based
+The Future of Multi Asset Hardening As Fund-III evolves, the integration of digital assets will deepen, but the architecture will remain conservative and rule based
 
 .
 
@@ -266,9 +266,9 @@ The ones that built structures instead of reacting to trends.
 
 Roials Capital operates inside that mandate.
 
-The mechanics are already in place. 
+The mechanics are already in place.
 
-## Why Clients Choose Hardening Over Diversification Diversification spreads exposure
+Why Clients Choose Hardening Over Diversification Diversification spreads exposure
 
 .
 
@@ -278,11 +278,9 @@ HNWI and UHNW clients understand that the next decade will reward those who main
 
 Multi asset hardening is a discipline that produces that control.
 
-Fund-III is the practical expression of that discipline. 
+Fund-III is the practical expression of that discipline.
 
- 
-
-## CONCLUSIO
+CONCLUSIO
 
 N
 
@@ -304,7 +302,7 @@ The rules are defined.
 
 Clients who require cross asset liquidity without structural distortion operate here.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

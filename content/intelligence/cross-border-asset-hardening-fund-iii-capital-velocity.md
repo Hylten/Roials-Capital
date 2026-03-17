@@ -538,9 +538,9 @@ Protocol:
 
 Fund‑III must present a hardened NAEOC pipeline.
 
-LPs will reward structural dominance. 
+LPs will reward structural dominance.
 
-## EU Acquisition Protocol (MiFID II Cycle) Europe is tightening
+EU Acquisition Protocol (MiFID II Cycle) Europe is tightening
 
 .
 
@@ -634,7 +634,7 @@ Precise.
 
 Immutable.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

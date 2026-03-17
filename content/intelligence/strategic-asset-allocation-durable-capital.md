@@ -36,15 +36,11 @@ The liquidity regime has shifted.
 
 What worked in 2014 is a liability in 
 
-2026.
+2026. 
 
-# Phase I: .
+### Phase I: .
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -116,15 +112,11 @@ The disciplined allocator deploys based on liquidity sequencing.
 
 The sequence creates the runway.
 
-Without the sequence, the strategy collapses.
+Without the sequence, the strategy collapses. 
 
-# Phase II: .
+### Phase II: .
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -212,13 +204,11 @@ A recovery factor below
 
 30 percent behaves as a liability.
 
-Durable capital is always anchored to recoverability.
+Durable capital is always anchored to recoverability. 
 
-# Phase III: .
+### Phase III: .
 
- 
-
-## THE
+THE
 
  
 
@@ -306,9 +296,9 @@ When executed correctly, special mandates perform as:
 
 LPs want optionality.
 
-They invest in GPs who can create optionality as an operating system, not as a side project.
+They invest in GPs who can create optionality as an operating system, not as a side project. 
 
-# Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Durable capital is a moral structure before it is a financial one.
 
@@ -362,9 +352,9 @@ Capital decays without governance.
 
 Liquidity evaporates when management relaxes discipline.
 
-Long term solvency requires conviction, not negotiation.
+Long term solvency requires conviction, not negotiation. 
 
-# Phase V: .
+### Phase V: .
 
 EXIT Fund-III durability is validated by one metric.
 
@@ -376,7 +366,7 @@ Your ratio determines your capital future.
 
 Request a confidential capital audit.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

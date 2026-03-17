@@ -32,7 +32,7 @@ Only hardened capital survives cycles, wars, dislocations, and liquidity drought
 
 The institutional equivalent is a capital stack that endures two centuries, not two quarters.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -88,7 +88,7 @@ Non-negotiable.
 
 The second 
 
-# Pillar I: s jurisdictional insulation
+### Pillar I: s jurisdictional insulation
 
 .
 
@@ -114,7 +114,7 @@ It must flow like a sovereign actor across multiple legal realities.
 
 The third 
 
-# Pillar I: s conversion optionality
+### Pillar I: s conversion optionality
 
 .
 
@@ -530,7 +530,7 @@ Capital hardened is power realized.
 
 Capital unhardened is power imagined.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

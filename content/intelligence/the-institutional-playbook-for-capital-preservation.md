@@ -38,9 +38,9 @@ We remain principal authority, not surface‑level noise.
 
 Below is a complete institutional framework.
 
-A blueprint for capital preservation at scale. 
+A blueprint for capital preservation at scale.
 
-## Engineered Stability: The Future of Preservation Architecture The capital landscape is evolving
+Engineered Stability: The Future of Preservation Architecture The capital landscape is evolving
 
 .
 
@@ -64,11 +64,9 @@ It is an active discipline.
 
 A deliberate strategy.
 
-A commitment to structural superiority. 
+A commitment to structural superiority.
 
- 
-
-## CONCLUSIO
+CONCLUSIO
 
 N
 
@@ -96,9 +94,7 @@ Precise.
 
 Institutional.
 
-Request confidential audit
-
-## TECHNICAL MANDATE Qualification Gates strictly observed
+Request confidential audit TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

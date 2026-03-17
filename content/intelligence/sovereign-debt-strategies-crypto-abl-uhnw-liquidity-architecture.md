@@ -14,15 +14,11 @@ It signals the end of policy optionality.
 
 This structural gap has pushed UHNW allocators toward non sovereign liquidity pathways where collateral is transparent, liquidation mechanics are objective, and credit formation is insulated from governmental duration risk.
 
-The fastest growing of these mechanisms is crypto backed asset based lending, functioning not as speculative leverage but as an engineered liquidity rail for balance sheet expansion, capital stack optimization, and controlled exposure migration.
+The fastest growing of these mechanisms is crypto backed asset based lending, functioning not as speculative leverage but as an engineered liquidity rail for balance sheet expansion, capital stack optimization, and controlled exposure migration. 
 
-# Phase I: .
+### Phase I: .
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -76,15 +72,11 @@ The liquidation engine is transparent.
 
 The underwriting discipline is data deterministic.
 
-It offers a form of liquidity engineering that sovereign assets cannot replicate.
+It offers a form of liquidity engineering that sovereign assets cannot replicate. 
 
-# Phase II: .
+### Phase II: .
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -176,9 +168,9 @@ They are an operational efficiency story.
 
 UHNWIs are not pursuing crypto exposure.
 
-They are pursuing collateral mobility under regime constraints.
+They are pursuing collateral mobility under regime constraints. 
 
-# Phase III: .
+### Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator within this realignment.
 
@@ -220,9 +212,9 @@ The partnership model focuses on structural navigation.
 
 Roials Capital provides operational intelligence, lender mapping, risk tier allocation, and compliance alignment.
 
-The firm operates as the introducer and strategist, not the counterparty and not the capital source.
+The firm operates as the introducer and strategist, not the counterparty and not the capital source. 
 
-# Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship is not sentiment.
 
@@ -266,9 +258,9 @@ This is the primary advantage of programmatic collateral over conventional credi
 
 Stewardship is a filter that eliminates high friction liquidity solutions and elevates mechanized ones.
 
-It aligns with UHNW preference for structural integrity over tactical improvisation.
+It aligns with UHNW preference for structural integrity over tactical improvisation. 
 
-# Phase V: .
+### Phase V: .
 
 ALLOCATOR LENS AND NEXT STEPS For UHNWIs, family offices, and institutional LPs calibrating their liquidity architecture, three questions define the current landscape.
 

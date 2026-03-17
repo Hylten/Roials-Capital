@@ -14,9 +14,9 @@ Reserved for entities fluent in capital structure, market velocity, and collater
 
 At Roials Capital, we keep the architecture intact.
 
-We simply open the door to individuals whose balance sheets match institutional weight. 
+We simply open the door to individuals whose balance sheets match institutional weight.
 
-## Operational Transparency Without Exposure HNWI and UHNW clients expect clarity, but not intrusion
+Operational Transparency Without Exposure HNWI and UHNW clients expect clarity, but not intrusion
 
 .
 
@@ -32,9 +32,9 @@ We define collateral parameters.
 
 The client receives a clear structural outline without operational noise.
 
-This balance between transparency and discretion is a core part of our architecture. 
+This balance between transparency and discretion is a core part of our architecture.
 
-## A Capital Structuring Partner, Not a Counterparty The majority of lenders operate as transactional entities
+A Capital Structuring Partner, Not a Counterparty The majority of lenders operate as transactional entities
 
 .
 
@@ -48,9 +48,9 @@ We function as an extension of the client's capital architecture.
 
 We understand the strategic intent behind each asset.
 
-This allows us to design liquidity frameworks that support that intent rather than disrupt it. 
+This allows us to design liquidity frameworks that support that intent rather than disrupt it.
 
-## Institutional Discipline With Private Market Agility Legacy institutions have discipline but lack speed
+Institutional Discipline With Private Market Agility Legacy institutions have discipline but lack speed
 
 .
 
@@ -62,9 +62,9 @@ We maintain institutional underwriting discipline.
 
 We execute with private market agility.
 
-This combination is what allows our clients to operate cleanly and decisively. 
+This combination is what allows our clients to operate cleanly and decisively.
 
-## The Future of High-Value Liquidity The global financial ecosystem is moving toward a multi-asset, multi-custody architecture
+The Future of High-Value Liquidity The global financial ecosystem is moving toward a multi-asset, multi-custody architecture
 
 .
 
@@ -76,11 +76,9 @@ The institutions that will succeed in this environment are those that treat Capi
 
 Roials Capital was built for that future.
 
-We operate today with the structures required for the next decade. 
+We operate today with the structures required for the next decade.
 
- 
-
-## CONCLUSIO
+CONCLUSIO
 
 N
 
@@ -98,7 +96,7 @@ With minimum thresholds of 2,000,
 
 If your asset architecture warrants institutional grade liquidity, we provide the framework.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

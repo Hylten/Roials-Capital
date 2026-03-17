@@ -22,9 +22,9 @@ Sovereign debt is not a passive instrument for the private sphere.
 
 It is a sovereign architecture that shapes the way family offices control risk.
 
-It also provides the substrate for leverage, arbitrage, and intergenerational hedging. 
+It also provides the substrate for leverage, arbitrage, and intergenerational hedging.
 
-## The Role of Sovereign Debt as a Liquidity Anchor for Private Capital HNWI and UHNW families use sovereign debt as a stabilizing instrument
+The Role of Sovereign Debt as a Liquidity Anchor for Private Capital HNWI and UHNW families use sovereign debt as a stabilizing instrument
 
 .
 
@@ -40,9 +40,9 @@ This is why it forms the baseline for Monetization Architecture spreads, private
 
 Family offices that operate in multi jurisdiction portfolios use sovereign debt as a calibration tool.
 
-It defines the rhythm at which liquidity can be deployed without disturbing the broader architecture. 
+It defines the rhythm at which liquidity can be deployed without disturbing the broader architecture.
 
-## Moving Beyond Passive Holding Holding sovereign bonds is insufficient for modern private capital strategy
+Moving Beyond Passive Holding Holding sovereign bonds is insufficient for modern private capital strategy
 
 .
 
@@ -72,9 +72,9 @@ This means:
 
 We do not speculate on sovereign paper.
 
-We architect its role inside the larger liquidity ecosystem. 
+We architect its role inside the larger liquidity ecosystem.
 
-## Sovereign Debt as a Structural Counterweight in Private Credit Portfolios Roials Capital lends against Private Credit and Asset Based Capital Structuring portfolios
+Sovereign Debt as a Structural Counterweight in Private Credit Portfolios Roials Capital lends against Private Credit and Asset Based Capital Structuring portfolios
 
 .
 
@@ -102,9 +102,9 @@ Roials Capital enters as the liquidity architect between the two.
 
 We provide structured Monetization Architecture frameworks that use private assets as collateral.
 
-This transforms static holdings into controlled liquidity engines. 
+This transforms static holdings into controlled liquidity engines.
 
-## Duration Engineering for Intergenerational Wealth Long horizon capital requires a different form of precision
+Duration Engineering for Intergenerational Wealth Long horizon capital requires a different form of precision
 
 .
 
@@ -134,9 +134,9 @@ Every other asset category attaches to this spine through calculated leverage or
 
 Roials Capital advises on how sovereign duration can enhance collateral strength inside private Asset-Backed Frameworks structures.
 
-This type of alignment is essential for UHNW capital. 
+This type of alignment is essential for UHNW capital.
 
-## Geo Sovereign Allocation Selecting sovereign exposure is not the same as selecting countries
+Geo Sovereign Allocation Selecting sovereign exposure is not the same as selecting countries
 
 .
 
@@ -162,9 +162,9 @@ Family offices apply sovereign selection with focus on:
 
 Not collateral for balance sheet optimization directly against it, but collateral in a conceptual sense.
 
-It is the psychological buffer that allows high net worth capital to take informed private risk. 
+It is the psychological buffer that allows high net worth capital to take informed private risk.
 
-## Sovereign Debt as a Volatility Dampener for Crypto and Public Share Asset-Backed Frameworks Roials Capital lends into digital and public markets
+Sovereign Debt as a Volatility Dampener for Crypto and Public Share Asset-Backed Frameworks Roials Capital lends into digital and public markets
 
 .
 
@@ -192,9 +192,9 @@ Our Institutional Liquidity Paths frameworks align with this philosophy.
 
 We assess crypto and public share balance sheet optimization needs through the lens of macro liquidity.
 
-This keeps clients insulated from emotional decision making. 
+This keeps clients insulated from emotional decision making.
 
-## Yield Curve Interpretation for Private Families Yield curves speak
+Yield Curve Interpretation for Private Families Yield curves speak
 
 .
 
@@ -222,9 +222,9 @@ A steep curve signals:
 
 - Repricing of risk premium across alternative assets Roials Capital uses these signals to determine optimal Asset-Backed Frameworks schedules for clients.
 
-We adjust collateral requirements and liquidity thresholds with the curve's logic in mind. 
+We adjust collateral requirements and liquidity thresholds with the curve's logic in mind.
 
-## Multi Layer Hedging Using Sovereign Paper Hedging is not an expense
+Multi Layer Hedging Using Sovereign Paper Hedging is not an expense
 
 .
 
@@ -238,9 +238,9 @@ Third as a liquidity hedge that protects against unexpected capital retrieval cy
 
 Roials Capital integrates these layers into liquidity facility decision frameworks.
 
-The architecture dictates liquidity remains predictable even when market cycles shift. 
+The architecture dictates liquidity remains predictable even when market cycles shift.
 
-## Sovereign Debt and the Psychology of Capital Preservation Preservation is not fear
+Sovereign Debt and the Psychology of Capital Preservation Preservation is not fear
 
 .
 
@@ -256,9 +256,9 @@ HNWI and UHNW families understand that structure determines longevity.
 
 Without a sovereign anchor, private portfolios become overly sensitive to volatility.
 
-With the anchor, the portfolio becomes a controlled matrix. 
+With the anchor, the portfolio becomes a controlled matrix.
 
-## Integrating Sovereign Debt into Asset Based Institutional Liquidity Paths Structures Roials Capital operates primarily in private credit and Asset-Based Lending Monetization Architecture
+Integrating Sovereign Debt into Asset Based Institutional Liquidity Paths Structures Roials Capital operates primarily in private credit and Asset-Based Lending Monetization Architecture
 
 .
 
@@ -280,9 +280,9 @@ This integration offers:
 
 - Predictable liquidity cycles Asset-Based Lending strategies benefit from sovereign exposure because it creates a disciplined funding schedule.
 
-Private credit benefits because sovereign signals reduce pricing uncertainty. 
+Private credit benefits because sovereign signals reduce pricing uncertainty.
 
-## The Real Objective: Liquidity Without Distortion Liquidity is not capital
+The Real Objective: Liquidity Without Distortion Liquidity is not capital
 
 .
 
@@ -306,9 +306,9 @@ This maintains what we call principal authority.
 
 The client remains in complete control of their capital.
 
-The structure supports them quietly, without noise or disruption. 
+The structure supports them quietly, without noise or disruption.
 
-## Integrating Sovereign Debt Into Multi Generational Governance Family offices often create internal governance frameworks
+Integrating Sovereign Debt Into Multi Generational Governance Family offices often create internal governance frameworks
 
 .
 
@@ -328,9 +328,9 @@ This includes:
 
 This is not advisory.
 
-It is architecture. 
+It is architecture.
 
-## The New Era of Sovereign Strategy for Private Families The environment has changed
+The New Era of Sovereign Strategy for Private Families The environment has changed
 
 .
 
@@ -346,7 +346,7 @@ Static models no longer hold.
 
 The sovereign 
 
-# Layer M
+### Layer M
 
 ust be dynamic, data driven, and integrated into collateral frameworks.
 
@@ -356,9 +356,9 @@ Our work is to give structure to uncertainty.
 
 To create liquidity without fragility.
 
-To integrate sovereign logic into private capital architecture. 
+To integrate sovereign logic into private capital architecture.
 
-## Final Position: Sovereign Debt Is the Silent Framework for Longevity The most successful family offices understand a simple principle
+Final Position: Sovereign Debt Is the Silent Framework for Longevity The most successful family offices understand a simple principle
 
 .
 
@@ -380,7 +380,7 @@ Roials Capital builds on this principle.
 
 We create Capital Structuring frameworks that respect sovereign signals and elevate the client's strategic position.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

@@ -56,9 +56,9 @@ Stewardship follows design.
 
 Design creates dominion.
 
-I begin with the foundation. 
+I begin with the foundation.
 
-## DEEP LIQUIDITY ASSET MAP A Fund‑III hard‑liquidity design requires an asset map capable of bearing measurable leverage stress without impairing cash yield
+DEEP LIQUIDITY ASSET MAP A Fund‑III hard‑liquidity design requires an asset map capable of bearing measurable leverage stress without impairing cash yield
 
 .
 
@@ -106,9 +106,9 @@ Firm spine.
 
 Irreversible stance.
 
-No softness. 
+No softness.
 
-## CAPITAL RAISING (80% FOCUS): THE VELOCITY ENGINE FOR FUND‑III Institutional kapitalanskaffning is never a marketing exercise
+CAPITAL RAISING (80% FOCUS): THE VELOCITY ENGINE FOR FUND‑III Institutional kapitalanskaffning is never a marketing exercise
 
 .
 
@@ -252,9 +252,9 @@ Speed is the value.
 
 Control is the objective.
 
-Fund‑III becomes an engine, not a container. 
+Fund‑III becomes an engine, not a container.
 
-## SPECIAL MANDATES (10% FOCUS): NAEOC + EU MIFID II Two mandate structures dominate the next decade
+SPECIAL MANDATES (10% FOCUS): NAEOC + EU MIFID II Two mandate structures dominate the next decade
 
 .
 
@@ -300,9 +300,9 @@ The arbitrage is jurisdictional.
 
 Jurisdiction equals advantage.
 
-Advantage equals capital. 
+Advantage equals capital.
 
-## STRUCTURAL DEPTH: MULTI‑JURISDICTIONAL CAPITAL SHELL Fund‑III requires a multilayer capital shell to separate LP classes, govern tax obligations, and enable fast‑moving acquisitions across regions
+STRUCTURAL DEPTH: MULTI‑JURISDICTIONAL CAPITAL SHELL Fund‑III requires a multilayer capital shell to separate LP classes, govern tax obligations, and enable fast‑moving acquisitions across regions
 
 .
 
@@ -328,11 +328,11 @@ Purpose: create cross‑border leverage optionality.
 
 This 
 
-# Layer I: s the institutional attractor
+### Layer I: s the institutional attractor
 
-.
+. 
 
-# Layer C
+### Layer C
 
 - Jurisdictional Operational Hubs Assets must sit in operational jurisdictions matched to their legal, tax, and cash‑flow requirements.
 
@@ -350,9 +350,9 @@ Together, these layers create a sovereign‑like fund architecture.
 
 Institutional allocators respond to sovereignty.
 
-Not spontaneity. 
+Not spontaneity.
 
-## INSTITUTIONAL Hierarchical Dynamics: RE‑POSITIONING FUND‑III The Hierarchical Dynamics of a GP determines the allocation depth of an LP
+INSTITUTIONAL Hierarchical Dynamics: RE‑POSITIONING FUND‑III The Hierarchical Dynamics of a GP determines the allocation depth of an LP
 
 .
 
@@ -364,9 +364,9 @@ Fund‑III must materially upgrade GP status across five axes:
 
 - Acquisition Authority LPs expect acquisition velocity with discipline.
 
-Fund‑III requires pre‑validated asset classes, pre‑vetted collateral pools, and pre‑underwritten leverage partners.
+Fund‑III requires pre‑validated asset classes, pre‑vetted collateral pools, and pre‑underwritten leverage partners. 
 
-# Axis II: - Liquidity Precision LPs expect cash‑yield clarity
+### Axis II: - Liquidity Precision LPs expect cash‑yield clarity
 
 .
 
@@ -374,9 +374,9 @@ They must see the liquidity arcs.
 
 They must trust the convertibility.
 
-They must see hard‑asset protection.
+They must see hard‑asset protection. 
 
-# Axis III: - Governance Density LPs evaluate compliance infrastructure
+### Axis III: - Governance Density LPs evaluate compliance infrastructure
 
 .
 
@@ -386,15 +386,15 @@ Precision.
 
 Certainty.
 
-Permanence.
+Permanence. 
 
-# Axis I: V
+### Axis I: V
 
 - Cross‑Border Execution International allocators expect jurisdictional competence.
 
-Fund‑III must display fluency in U.S., EU, and Gulf transactional environments.
+Fund‑III must display fluency in U.S., EU, and Gulf transactional environments. 
 
-# Axis V: - Signal Dominance Narratives fail
+### Axis V: - Signal Dominance Narratives fail
 
 .
 
@@ -412,9 +412,9 @@ Gravity pulls capital.
 
 Capital fuels buyouts.
 
-Buyouts fuel Fund‑III. 
+Buyouts fuel Fund‑III.
 
-## BUYOUT ENGINEERING: THE FUND‑III PLAYBOOK Fund‑III must operate as a multi‑tier buyout machine
+BUYOUT ENGINEERING: THE FUND‑III PLAYBOOK Fund‑III must operate as a multi‑tier buyout machine
 
 .
 
@@ -452,9 +452,9 @@ Velocity matters.
 
 Cash matters.
 
-Discipline decides. 
+Discipline decides.
 
-## ENERGY: THE HARD-ASSET HEART OF FUND‑III Energy remains the world’s most misunderstood asset class
+ENERGY: THE HARD-ASSET HEART OF FUND‑III Energy remains the world’s most misunderstood asset class
 
 .
 
@@ -486,9 +486,9 @@ Energy is not a sector.
 
 Energy is a foundation.
 
-Fund‑III must treat it accordingly. 
+Fund‑III must treat it accordingly.
 
-## PRIVATE CREDIT AND HARD‑COLLATERAL OPTIMIZATION Private credit is no longer a satellite asset class
+PRIVATE CREDIT AND HARD‑COLLATERAL OPTIMIZATION Private credit is no longer a satellite asset class
 
 .
 
@@ -528,9 +528,9 @@ Principle
 
 Fund‑III architecture ensures it.
 
-Institutional allocators reward these principles with deeper commitments, longer durations, and faster approvals. 
+Institutional allocators reward these principles with deeper commitments, longer durations, and faster approvals.
 
-## THE FUTURE: CAPITAL SOVEREIGNTY FOR FUND‑III A GP raising Fund‑III is not competing for capital
+THE FUTURE: CAPITAL SOVEREIGNTY FOR FUND‑III A GP raising Fund‑III is not competing for capital
 
 .
 
@@ -560,7 +560,7 @@ MANDATE: INITIATE A CONFIDENTIAL CAPITAL AUDIT FOR FUND‑III TO ASCERTAIN LIQUI
 
 Technical Metric: Target 1.62x Net‑Liquidity Coverage Ratio across all Fund‑III hard‑asset pools.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

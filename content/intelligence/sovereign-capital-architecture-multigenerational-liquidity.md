@@ -158,9 +158,9 @@ Special Mandates and Sovereign Alignment Special Mandates such as:
 
 The mechanics are not theoretical.
 
-They define allocator performance across entire business cycles. 
+They define allocator performance across entire business cycles.
 
-## THE PARTNERSHIP MODEL Roials Capital functions as a strategic navigator, not an asset sponsor
+THE PARTNERSHIP MODEL Roials Capital functions as a strategic navigator, not an asset sponsor
 
 .
 
@@ -224,11 +224,9 @@ It is the obligation to deploy capital where
 
  TECHNICAL MECHANICS
 
- can be verified and operational execution has institutional fidelity. 
+ can be verified and operational execution has institutional fidelity.
 
- 
-
-## PORTFOLIO CALIBRATION LENS Institutional allocators require a decision-making lens that recognizes the structural regime shift
+PORTFOLIO CALIBRATION LENS Institutional allocators require a decision-making lens that recognizes the structural regime shift
 
 .
 

@@ -58,7 +58,7 @@ Asset hardening operates on three pillars:
 
 - Jurisdictional Edge Each 
 
-# Pillar LI: nks to the next in an unbroken chain of institutional logic
+### Pillar LI: nks to the next in an unbroken chain of institutional logic
 
 .
 
@@ -544,7 +544,7 @@ In institutional finance: the principal leaves a structure that compounds beyond
 
 Fund‑III is that structure.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

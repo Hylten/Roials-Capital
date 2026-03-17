@@ -28,9 +28,9 @@ We engineer durable access to institutional liquidity through private credit and
 
 This is legacy hardening.
 
-This is structural advantage. 
+This is structural advantage.
 
-## The Architecture of Multi-Generational Control Legacy is not the transfer of wealth
+The Architecture of Multi-Generational Control Legacy is not the transfer of wealth
 
 .
 
@@ -54,9 +54,9 @@ Precision.
 
 Silence.
 
-Durability. 
+Durability.
 
-## The Future of Institutional Liquidity Paths We are moving into an era where liquidity will define competitive advantage more than yield
+The Future of Institutional Liquidity Paths We are moving into an era where liquidity will define competitive advantage more than yield
 
 .
 
@@ -72,9 +72,9 @@ Structures must be engineered, not improvised.
 
 The future belongs to portfolios with durable leverage capacity, clean collateral structures, and institutionally aligned credit mechanics.
 
-ROIALS CAPITAL builds that future today. # Request confidential audit
+ROIALS CAPITAL builds that future today.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+Request confidential audit TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

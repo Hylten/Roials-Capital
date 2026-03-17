@@ -12,15 +12,11 @@ In private credit, the gap is simple.
 
 Institutions with disciplined capital architecture outperform not because they lend better, but because their backing reshapes the deal physics.
 
-Order is not an option.
+Order is not an option. 
 
-# Phase I: .
+### Phase I: .
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -36,7 +32,7 @@ Mid-market borrowers face delayed approvals, static underwriting templates, and 
 
 Institutional lenders 
 
-# Step I
+### Step I
 
 nto the vacuum with speed, precision, and asymmetrical structuring advantages.
 
@@ -68,21 +64,15 @@ ROIALS CAPITAL operates inside this regime shift.
 
 Velocity is the advantage.
 
-Precision is 
-
-## THE MANDAT
+Precision is THE MANDAT
 
 E
 
-.
+. 
 
-# Phase II: .
+### Phase II: .
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -166,13 +156,11 @@ LPs see predictability.
 
 The lender extracts duration without sacrificing velocity.
 
-Without institutional backing, these structures do not price.
+Without institutional backing, these structures do not price. 
 
-# Phase III: .
+### Phase III: .
 
- 
-
-## THE
+THE
 
  
 
@@ -260,9 +248,9 @@ Borrowers align because they want stability and speed.
 
 LPs align because they want disciplined underwriting and asymmetric outcomes.
 
-ROIALS CAPITAL sits between them as the institutional operating spine.
+ROIALS CAPITAL sits between them as the institutional operating spine. 
 
-# Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Resources carry responsibility.
 
@@ -312,9 +300,9 @@ Capital is deployed with intent.
 
 Recovery is enforced with clarity.
 
-Yield is extracted with discipline.
+Yield is extracted with discipline. 
 
-# Phase V: .
+### Phase V: .
 
 EXIT Institutional backing is not branding.
 
@@ -326,7 +314,7 @@ Platforms that secure institutional alignment lift IRR by
 
 260 basis points due to workflow compression alone.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

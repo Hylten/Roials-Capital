@@ -10,15 +10,11 @@ The capital vacuum in North America’s energy system is a consequence of regula
 
 This single structural reality is now influencing the broader institutional allocation cycle across all private markets.
 
-Capital migration has entered a new regime defined by operational scarcity, regulatory fragmentation, balance sheet deterioration in legacy sponsors, and an increasing preference for hard collateral over narrative driven growth.
+Capital migration has entered a new regime defined by operational scarcity, regulatory fragmentation, balance sheet deterioration in legacy sponsors, and an increasing preference for hard collateral over narrative driven growth. 
 
-# Phase I: .
+### Phase I: .
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -58,15 +54,11 @@ The allocators who navigate these imbalances recognize that scarcity pricing ten
 
 Institutional capital migration is therefore no longer cyclical.
 
-It is motivated by structural constraints: deglobalization, supply chain regionalization, infrastructure fatigue, and the reduction of institutional liquidity buffers.
+It is motivated by structural constraints: deglobalization, supply chain regionalization, infrastructure fatigue, and the reduction of institutional liquidity buffers. 
 
-# Phase II: .
+### Phase II: .
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -164,9 +156,9 @@ TECHNICAL MECHANICS
 
 The aim is not speculative commodity exposure.
 
-The focus is operational efficiency across known reservoirs with documented production histories.
+The focus is operational efficiency across known reservoirs with documented production histories. 
 
-# Phase III: .
+### Phase III: .
 
 THE PARTNERSHIP MODEL AND THE ROIALS CAPITAL POSITION Roials Capital functions as a strategic navigator and institutional introducer.
 
@@ -212,9 +204,9 @@ NAEO serves as an operational partner with long experience in predictable extrac
 
 2.
 
-EU MiFID II Acquisitions Support for strategic acquisitions across regulated European entities, including cross border compliance architecture, capital routing, and operational due diligence.
+EU MiFID II Acquisitions Support for strategic acquisitions across regulated European entities, including cross border compliance architecture, capital routing, and operational due diligence. 
 
-# Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER : THE THEOLOGY OF CAPITAL Stewardship is the discipline of deploying capital without waste.
 
@@ -245,9 +237,9 @@ Principles:
 
 * speaks to diversified labor rather than reactive speculation.
 
-The stewardship filter ensures institutional discipline across all capital migration channels.
+The stewardship filter ensures institutional discipline across all capital migration channels. 
 
-# Phase V: .
+### Phase V: .
 
 DECISION MAKING LENS FOR THE ALLOCATOR Capital migration is no longer discretionary.
 

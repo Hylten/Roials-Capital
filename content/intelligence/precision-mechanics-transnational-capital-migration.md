@@ -12,13 +12,9 @@ Capital is not searching for higher returns.
 
 Capital is searching for operational intelligibility and jurisdictional stability.
 
-The vacuum forming in North American energy is a predictable byproduct of this divergence, and allocators that understand the mechanics of transnational flow routing are positioning their Fund-III and Fund-IV vehicles to intercept dislocated assets before the next consolidation cycle sets in. 
+The vacuum forming in North American energy is a predictable byproduct of this divergence, and allocators that understand the mechanics of transnational flow routing are positioning their Fund-III and Fund-IV vehicles to intercept dislocated assets before the next consolidation cycle sets in.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -84,13 +80,9 @@ In private credit, the migration pattern is similar.
 
 European lenders are tightening loan-to-value tolerances, US lenders are tightening covenant packages, and Gulf entities are prioritizing secured exposures with operational visibility.
 
-This triangulates demand for institutional grade Fund-III structures capable of absorbing and redeploying cross-border allocations with minimal regulatory friction. 
+This triangulates demand for institutional grade Fund-III structures capable of absorbing and redeploying cross-border allocations with minimal regulatory friction.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -196,13 +188,9 @@ Gulf sovereign-linked capital requires operational visibility and technical cert
 
 The partnership model functions as a cross-border allocation framework.
 
-The strategic purpose is friction minimization and institutional alignment. 
+The strategic purpose is friction minimization and institutional alignment.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is not a marketing term
+THE STEWARDSHIP FILTER Stewardship is not a marketing term
 
 .
 

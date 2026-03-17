@@ -14,13 +14,9 @@ This distortion is not transient.
 
 It is structural.
 
-The allocators who adapt their strategic allocation models to these conditions achieve durability not through velocity, but through disciplined architecture of capital, cash flow, and liquidity. 
+The allocators who adapt their strategic allocation models to these conditions achieve durability not through velocity, but through disciplined architecture of capital, cash flow, and liquidity.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -74,13 +70,9 @@ The allocator is durability oriented.
 
 Capital is being deployed into structures that reward long horizon patience and penalize valuation speculation.
 
-Fund-III strategies, North American energy operating companies, and private credit structures aligned with asset hardening now occupy the center of this allocation map. 
+Fund-III strategies, North American energy operating companies, and private credit structures aligned with asset hardening now occupy the center of this allocation map.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -184,13 +176,9 @@ For private equity, Roials Capital supports capital formation for Fund-III strat
 
 The primary focus is on capital efficiency and durability rather than leverage oriented growth.
 
-For special mandates, including MiFID II acquisition pathways, the firm operates with strict structural neutrality, focusing on compliance aligned capital navigation. 
+For special mandates, including MiFID II acquisition pathways, the firm operates with strict structural neutrality, focusing on compliance aligned capital navigation.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Durable capital requires stewardship
+THE STEWARDSHIP FILTER Durable capital requires stewardship
 
 .
 

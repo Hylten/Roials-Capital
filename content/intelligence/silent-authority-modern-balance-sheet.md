@@ -72,9 +72,7 @@ It is the unseen moat surrounding Fund-III strategies and their add-on programs.
 
 Capital raising first.
 
-Eighty percent of 
-
-## THE MANDAT
+Eighty percent of THE MANDAT
 
 E
 
@@ -506,7 +504,7 @@ Request a confidential capital audit to determine your current authority delta.
 
 Terminal metric: 1.6x liquidity coverage ratio.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

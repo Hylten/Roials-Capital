@@ -378,7 +378,7 @@ Technical mandate: cross-border hardening coefficient threshold = 0.
 
 82 minimum.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

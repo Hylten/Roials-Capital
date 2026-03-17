@@ -38,9 +38,9 @@ We provide public share Strategic Collateralization with a minimum threshold of 
 
 We operate quietly, with principal authority.
 
-We design the architecture that governs the movement of capital for HNWI and UHNW individuals who require precision and discretion. 
+We design the architecture that governs the movement of capital for HNWI and UHNW individuals who require precision and discretion.
 
-## The Sovereign Balance Sheet: Why It Matters A sovereign balance sheet is the private equivalent of a national financial structure
+The Sovereign Balance Sheet: Why It Matters A sovereign balance sheet is the private equivalent of a national financial structure
 
 .
 
@@ -64,27 +64,27 @@ It creates a controlled environment where liquidity can be summoned on demand an
 
 It ensures that the client is never forced to liquidate an appreciating asset to satisfy a temporary liquidity need.
 
-It ensures that credit markets become tools instead of hazards. 
+It ensures that credit markets become tools instead of hazards.
 
-## The Three-Pillar Framework: Structure, Liquidity, Continuity We apply a three pillar framework to every sovereign balance sheet we design
+The Three-Pillar Framework: Structure, Liquidity, Continuity We apply a three pillar framework to every sovereign balance sheet we design
 
 .
 
 The first 
 
-# Pillar I: s Structure
+### Pillar I: s Structure
 
 .
 
 The second 
 
-# Pillar I: s Liquidity
+### Pillar I: s Liquidity
 
 .
 
 The third 
 
-# Pillar I: s Continuity
+### Pillar I: s Continuity
 
 .
 
@@ -172,9 +172,9 @@ It must behave autonomously.
 
 It must function as a self-governing system that maintains control, liquidity, and optionality even as personal circumstances evolve.
 
-The architecture is designed to be intergenerational. 
+The architecture is designed to be intergenerational.
 
-## Asset Based Institutional Liquidity Paths as Architectural Foundation Asset based Capital Structuring is not a balance sheet optimization event
+Asset Based Institutional Liquidity Paths as Architectural Foundation Asset based Capital Structuring is not a balance sheet optimization event
 
 .
 
@@ -194,9 +194,9 @@ Asset-Based Lending is secured by real assets, not sentiment.
 
 It provides stability during volatile cycles.
 
-For clients operating at HNWI and UHNW scale, stability is sovereignty. 
+For clients operating at HNWI and UHNW scale, stability is sovereignty.
 
-## Private Credit as the Yield Layer Private credit is the institutional quiet zone
+Private Credit as the Yield Layer Private credit is the institutional quiet zone
 
 .
 
@@ -222,9 +222,9 @@ Yield becomes liquidity.
 
 Liquidity becomes opportunity.
 
-Opportunity becomes structural advantage. 
+Opportunity becomes structural advantage.
 
-## Crypto Asset-Backed Frameworks for Digital Sovereigns Crypto has become a large component of modern UHNW portfolios
+Crypto Asset-Backed Frameworks for Digital Sovereigns Crypto has become a large component of modern UHNW portfolios
 
 .
 
@@ -252,9 +252,9 @@ Not exotic.
 
 Not fragile.
 
-Controlled. 
+Controlled.
 
-## Public Share Capital Structuring for Scale Public share Strategic Collateralization provides the same flexibility institutions have used for decades to maintain exposure while extracting liquidity
+Public Share Capital Structuring for Scale Public share Strategic Collateralization provides the same flexibility institutions have used for decades to maintain exposure while extracting liquidity
 
 .
 
@@ -270,9 +270,9 @@ It is a quiet instrument.
 
 It moves in the background.
 
-It preserves market exposure while expanding operational capability. 
+It preserves market exposure while expanding operational capability.
 
-## The Balance Sheet as a Strategic Weapon The sovereign balance sheet is not defensive
+The Balance Sheet as a Strategic Weapon The sovereign balance sheet is not defensive
 
 .
 
@@ -290,9 +290,9 @@ It allows clients to:
 
 - Build intergenerational continuity without fragmentation A portfolio creates wealth.
 
-A sovereign balance sheet governs it. 
+A sovereign balance sheet governs it.
 
-## Sovereign Design Workflow We follow a defined sequence when engineering a sovereign balance sheet
+Sovereign Design Workflow We follow a defined sequence when engineering a sovereign balance sheet
 
 .
 
@@ -308,11 +308,9 @@ Then we finalize the covenant design and operational triggers.
 
 Each 
 
-# Phase I: s engineered with silence, precision, and sovereign intent
+### Phase I: s engineered with silence, precision, and sovereign intent
 
-.
-
-## principal authority: The Roials Capital Position We do not market
+. principal authority: The Roials Capital Position We do not market
 
 .
 
@@ -336,9 +334,9 @@ Not products.
 
 Not services.
 
-Structural mechanics. 
+Structural mechanics.
 
-## Designing the Balance Sheet of a Private Sovereign A sovereign balance sheet is not a luxury
+Designing the Balance Sheet of a Private Sovereign A sovereign balance sheet is not a luxury
 
 .
 
@@ -368,17 +366,15 @@ We treat assets as tools.
 
 We treat credit as architecture.
 
-We treat the client’s capital as a sovereign system that must be respected, protected, and optimized. 
+We treat the client’s capital as a sovereign system that must be respected, protected, and optimized.
 
-## The Next
+The Next 
 
- 
-
-# Step I
+### Step I
 
 f you require a sovereign balance sheet designed with institutional structural mechanics, executed with silence and authority, request a confidential audit.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

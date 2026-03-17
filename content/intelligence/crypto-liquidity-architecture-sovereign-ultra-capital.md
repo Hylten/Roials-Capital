@@ -26,15 +26,11 @@ These are solvable with the same tools used to harden commodity flows, build col
 
 Order is not an option.
 
-It is a mandate.
+It is a mandate. 
 
-# Phase I: .
+### Phase I: .
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -78,15 +74,11 @@ This is where crypto becomes an institutional asset class.
 
 Not through ETFs.
 
-Through architecture.
+Through architecture. 
 
-# Phase II: .
+### Phase II: .
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -176,13 +168,11 @@ That is institutional territory.
 
 Crypto stops being speculative.
 
-It becomes a collateral substrate.
+It becomes a collateral substrate. 
 
-# Phase III: .
+### Phase III: .
 
- 
-
-## THE
+THE
 
  
 
@@ -262,9 +252,9 @@ Crypto becomes the conduit.
 
 Real assets remain the core.
 
-The system integrates both without friction.
+The system integrates both without friction. 
 
-# Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship is not softness.
 
@@ -312,13 +302,11 @@ Stewardship creates this alignment.
 
 It systematically eliminates waste and enforces productive capital.
 
-Crypto liquidity becomes a tool of dominion when placed under disciplined authority.
+Crypto liquidity becomes a tool of dominion when placed under disciplined authority. 
 
-# Phase V: .
+### Phase V: .
 
-EXIT
-
-## THE MANDAT
+EXIT THE MANDAT
 
 E
 
@@ -330,7 +318,7 @@ Construct a liquidity architecture with a collateral efficiency ratio of 0.
 
 92 percent execution predictability across jurisdictions.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

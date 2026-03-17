@@ -8,15 +8,11 @@ slug: "institutional-grade-asset-hardening"
 
 Order does not appear by accident.
 
-It is engineered through constraints, enforced through governance, and preserved by capital structures that cannot fracture under volatility.
+It is engineered through constraints, enforced through governance, and preserved by capital structures that cannot fracture under volatility. 
 
-# Phase I: .
+### Phase I: .
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -62,15 +58,11 @@ Structures that permit indefinite impairment drift no longer qualify for institu
 
 This is why asset hardening is not a technique.
 
-It is a regime.
+It is a regime. 
 
-# Phase II: .
+### Phase II: .
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -172,13 +164,11 @@ The technical stack must include:
 - Resilience-adjusted cash-flow timing If an asset cannot withstand a liquidity compression event while maintaining at least 0.
 8 coverage on senior instruments, it is not investable at Fund-III scale.
 
-Capital must never carry assets that cannot carry themselves.
+Capital must never carry assets that cannot carry themselves. 
 
-# Phase III: .
+### Phase III: .
 
- 
-
-## THE
+THE
 
  
 
@@ -248,9 +238,9 @@ Drift kills deals.
 
 Our architecture eliminates it.
 
-Across these mandates, we enforce a single governing law: capital must exit stronger than it entered.
+Across these mandates, we enforce a single governing law: capital must exit stronger than it entered. 
 
-# Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Abundance remains wasteful without discipline.
 
@@ -302,9 +292,9 @@ The stewardship filter protects against two institutional failures:
 
 The asset must prove its resolve before capital enters.
 
-The asset must survive liquidity contraction before it qualifies for expansion.
+The asset must survive liquidity contraction before it qualifies for expansion. 
 
-# Phase V: .
+### Phase V: .
 
 EXIT Exit is not an event.
 
@@ -318,7 +308,7 @@ The technical metric that governs every structure we deploy is this: The hardene
 
 This is the institutional threshold.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

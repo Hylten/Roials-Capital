@@ -34,9 +34,7 @@ Enforcement points.
 
 Institutional-grade predictability across adversarial environments.
 
-That is 
-
-## THE MANDAT
+That is THE MANDAT
 
 E
 
@@ -592,7 +590,7 @@ Liquidity integrity target: 0.
 
 998 deterministic settlement ratio.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

@@ -292,9 +292,7 @@ Not the company.
 
 Not the portfolio.
 
-Not 
-
-## THE MANDAT
+Not THE MANDAT
 
 E
 
@@ -404,7 +402,7 @@ Metric: LTV curvature ratio
 
 72.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

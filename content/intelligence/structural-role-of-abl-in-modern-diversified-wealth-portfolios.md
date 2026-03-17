@@ -14,13 +14,9 @@ Within this environment, Asset Based Lending has re emerged as a stabilizing mec
 
 Modern diversified wealth portfolios increasingly rely on ABL not for yield, but for structural balance.
 
-It anchors the liquidity spine that enables efficient participation in buyout programs such as Fund-III, supports add on velocity, and creates a cross regime cushion in environments where allocators face compressed spreads, elongated exit cycles, and international allocation constraints. 
+It anchors the liquidity spine that enables efficient participation in buyout programs such as Fund-III, supports add on velocity, and creates a cross regime cushion in environments where allocators face compressed spreads, elongated exit cycles, and international allocation constraints.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -58,13 +54,9 @@ ABL provides the counterbalancing mechanism, creating alignment between long dur
 
 The essential observation: diversified wealth portfolios are moving toward a dual rail model where long duration capital deployment is supported by short duration balance sheet optimization.
 
-ABL is the instrument that bridges these rails without introducing correlation drag. 
+ABL is the instrument that bridges these rails without introducing correlation drag.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -134,7 +126,7 @@ Its function is stabilization, precision, and liquidity release.
 
 This is why it has become a central 
 
-# Pillar I: n diversified wealth architectures
+### Pillar I: n diversified wealth architectures
 
 .
 
@@ -168,13 +160,9 @@ The ABL function supports Fund-III by enabling:
 
 - Operating partners such as NAEO execute domain specific functions.
 
-- Allocators deploy capital with clarity on the mechanics, not with promotional narratives. 
+- Allocators deploy capital with clarity on the mechanics, not with promotional narratives.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is a discipline of non wasteful capital deployment
+THE STEWARDSHIP FILTER Stewardship is a discipline of non wasteful capital deployment
 
 .
 

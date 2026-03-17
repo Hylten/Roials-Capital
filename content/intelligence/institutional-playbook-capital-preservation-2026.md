@@ -8,11 +8,9 @@ slug: "institutional-playbook-capital-preservation-2026"
 
 [START INTELLIGENCE REPORT] 
 
-1. 
+1.
 
- 
-
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -48,7 +46,7 @@ This doctrine is the foundation for a 2026 allocator class that prioritizes:
 
 - Asset hardening strategies for mid market operators to support capital raising for mid market buyout structures.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -62,13 +60,9 @@ Preserve the ability to buy distressed assets when others are forced into liquid
 
 Everything else is a derivative of these principles. 
 
-2. 
+2.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -163,9 +157,7 @@ It is unpriced exposure.
 
 3.
 
-CASE 
-
-## ANALYSIS: SIMULATED STUDY OF A 180M CAPITAL PRESERVATION STRATEGY IN ENERGY AND INDUSTRIALS Scenario: A UHNW family office and a private equity sponsor co develop a
+CASE ANALYSIS: SIMULATED STUDY OF A 180M CAPITAL PRESERVATION STRATEGY IN ENERGY AND INDUSTRIALS Scenario: A UHNW family office and a private equity sponsor co develop a
 
  
 
@@ -318,13 +310,9 @@ It must be structured, not exposed.
 
 It must be engineered, not left to market whims. 
 
-5. 
+5.
 
- 
-
- 
-
-## CONCLUSIO
+CONCLUSIO
 
 N
 

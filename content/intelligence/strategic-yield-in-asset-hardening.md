@@ -40,9 +40,9 @@ Sovereign capital-true institutional capital-allocates accordingly. **Proverbs 1
 
 In institutional terms: durable capital prevails across cycles; transient capital transfers ownership when covenants tighten.
 
-Below is the architecture that governs Fund‑III hardening, with yield as the central force vector. 
+Below is the architecture that governs Fund‑III hardening, with yield as the central force vector.
 
-## THE THREE DIMENSIONS OF YIELD IN HARDENING SYSTEMS Yield must be decomposed into three layers: operational yield, jurisdictional yield, and sovereignty yield
+THE THREE DIMENSIONS OF YIELD IN HARDENING SYSTEMS Yield must be decomposed into three layers: operational yield, jurisdictional yield, and sovereignty yield
 
 .
 
@@ -106,9 +106,9 @@ When any layer breaks, the asset softens, regardless of its appearance.
 
 Fund‑III is a hardening fund by definition.
 
-Yield is our exoskeleton. 
+Yield is our exoskeleton.
 
-## WHY YIELD DEFINES HARDENING IN FUND‑III BUYOUT ARCHITECTURE Fund‑III is the inflection fund
+WHY YIELD DEFINES HARDENING IN FUND‑III BUYOUT ARCHITECTURE Fund‑III is the inflection fund
 
 .
 
@@ -160,9 +160,9 @@ A 9% yield in Luxembourg may outperform a 12% yield in Delaware after structural
 
 Jurisdiction multiplies or suppresses yield.
 
-Yield is the lever that collapses these four vectors into one trajectory. 
+Yield is the lever that collapses these four vectors into one trajectory.
 
-## THE ROLE OF YIELD IN Asset-Based Lending AND Capital Structuring (10% CAPITAL FOCUS) Asset-Based Lending is where yield meets velocity
+THE ROLE OF YIELD IN Asset-Based Lending AND Capital Structuring (10% CAPITAL FOCUS) Asset-Based Lending is where yield meets velocity
 
 .
 
@@ -190,9 +190,9 @@ Optionality yield is the ability to choose timing under imperfect conditions.
 
 Timing is power.
 
-Power is hardening. 
+Power is hardening.
 
-## YIELD IN ENERGY MANDATES ($50M.$250M): NAEOC AND STRUCTURAL ALPHA Energy assets are misunderstood
+YIELD IN ENERGY MANDATES ($50M.$250M): NAEOC AND STRUCTURAL ALPHA Energy assets are misunderstood
 
 .
 
@@ -262,9 +262,9 @@ Contractual dominance.
 
 Energy assets harden when these yield vectors converge.
 
-Capital providers win when they underwrite not to price, but to yield structure. 
+Capital providers win when they underwrite not to price, but to yield structure.
 
-## EU ACQUISITIONS UNDER MIFID II: WHERE YIELD BECOMES REGULATORY ADVANTAGE In European acquisitions, MiFID II is not paperwork
+EU ACQUISITIONS UNDER MIFID II: WHERE YIELD BECOMES REGULATORY ADVANTAGE In European acquisitions, MiFID II is not paperwork
 
 .
 
@@ -286,9 +286,9 @@ Three specific yield levers:
 
 Yield is regulatory geometry.
 
-Hardening requires exploiting the geometry. 
+Hardening requires exploiting the geometry.
 
-## CAPITAL RAISING: WHY LPs FUND HARDENED ASSETS FIRST (80% FOCUS) Institutional LPs do not pay for stories
+CAPITAL RAISING: WHY LPs FUND HARDENED ASSETS FIRST (80% FOCUS) Institutional LPs do not pay for stories
 
 .
 
@@ -326,9 +326,9 @@ The LP community is shifting from passive allocations to negotiated influence.
 
 Assets that generate sovereignty yield give LPs strategic positioning within the GP architecture.
 
-Fund‑III capital flows toward yield architectures, not yield claims. 
+Fund‑III capital flows toward yield architectures, not yield claims.
 
-## THE YIELD PARADOX: HARDENED ASSETS OUTPERFORM NOT BY GROWING FASTER, BUT BY BLEEDING LESS True asset hardening is not acceleration
+THE YIELD PARADOX: HARDENED ASSETS OUTPERFORM NOT BY GROWING FASTER, BUT BY BLEEDING LESS True asset hardening is not acceleration
 
 .
 
@@ -344,9 +344,9 @@ Yield closes the system.
 
 When leakage approaches zero, even moderate returns become elite returns on a risk-adjusted basis.
 
-This is the paradox: yield creates stability, and stability accelerates return velocity more than growth. 
+This is the paradox: yield creates stability, and stability accelerates return velocity more than growth.
 
-## HOW ROIALS CAPITAL HARDENS YIELD IN FUND‑III SYSTEMS Our method is structural
+HOW ROIALS CAPITAL HARDENS YIELD IN FUND‑III SYSTEMS Our method is structural
 
 .
 
@@ -382,9 +382,9 @@ We build sovereignty architecture.
 
 Hardening is not magic.
 
-It is engineering. 
+It is engineering.
 
-## THE STRATEGIC INTERPLAY BETWEEN BUYOUTS, Asset-Based Lending, AND ENERGY YIELD Fund‑III is strongest when its yield system is integrated
+THE STRATEGIC INTERPLAY BETWEEN BUYOUTS, Asset-Based Lending, AND ENERGY YIELD Fund‑III is strongest when its yield system is integrated
 
 .
 
@@ -412,9 +412,9 @@ Characteristics of a hardened organism:
 
 - Multi-jurisdictional resilience
 
-- Sovereign capital posture This is how institutional capital survives multi-cycle disruption. 
+- Sovereign capital posture This is how institutional capital survives multi-cycle disruption.
 
-## THE FINAL PRINCIPAL MANDATE Yield hardens assets
+THE FINAL PRINCIPAL MANDATE Yield hardens assets
 
 .
 
@@ -434,7 +434,7 @@ Technical metric: Target structural yield density ≥ 1.
 
 85 across all Fund‑III assets.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

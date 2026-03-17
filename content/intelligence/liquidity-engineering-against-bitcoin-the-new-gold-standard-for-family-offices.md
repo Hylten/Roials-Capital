@@ -24,9 +24,9 @@ For HNWI and UHNW principals who measure time in decades rather than quarters, t
 
 A frontier that sits firmly within the domain of private credit and asset based Institutional Liquidity Paths.
 
-The domain where ROIALS CAPITAL builds the architecture. 
+The domain where ROIALS CAPITAL builds the architecture.
 
-## The Shift From Speculative Asset to Collateral Infrastructure Bitcoin once lived in the category of alternative assets, placed at the outer edges of a portfolio
+The Shift From Speculative Asset to Collateral Infrastructure Bitcoin once lived in the category of alternative assets, placed at the outer edges of a portfolio
 
 .
 
@@ -40,9 +40,9 @@ This reliability has elevated it into the same discussion as gold, except it per
 
 For family offices, the question is no longer, Is Bitcoin viable.
 
-The question is, How should its collateral strength be integrated into the credit architecture. 
+The question is, How should its collateral strength be integrated into the credit architecture.
 
-## Why Family Offices Are Turning to Bitcoin Strategic Collateralization Family offices increasingly seek liquidity solutions that do not require the liquidation of long term positions
+Why Family Offices Are Turning to Bitcoin Strategic Collateralization Family offices increasingly seek liquidity solutions that do not require the liquidation of long term positions
 
 .
 
@@ -56,7 +56,7 @@ Unlock liquidity without triggering taxable events.
 
 Bitcoin, when paired with sophisticated asset based Asset-Backed Frameworks mechanics, satisfies each of these requirements with notable precision.
 
-## The structural benefits are clea
+The structural benefits are clea
 
 r
 
@@ -70,9 +70,9 @@ r
 
 ROIALS CAPITAL aligns these properties with disciplined private credit infrastructure.
 
-We create a Strategic Collateralization environment that respects the asset's nature rather than forcing it into outdated models. 
+We create a Strategic Collateralization environment that respects the asset's nature rather than forcing it into outdated models.
 
-## Minimum Thresholds That Define Intentional Capital We are not in the retail market
+Minimum Thresholds That Define Intentional Capital We are not in the retail market
 
 .
 
@@ -84,7 +84,7 @@ Our structures require intentionality.
 
 Thresholds protect the environment, the client, and the architecture.
 
-## Crypto Monetization Architecture Minimum threshold: 2,000
+Crypto Monetization Architecture Minimum threshold: 2,000
 
 ,
 
@@ -96,7 +96,7 @@ It signals a long horizon.
 
 It signals seriousness.
 
-## Public Share Asset-Backed Frameworks Minimum threshold: 5,000
+Public Share Asset-Backed Frameworks Minimum threshold: 5,000
 
 ,
 
@@ -108,15 +108,15 @@ It allows us to maintain the principal authority that stable private credit dema
 
 It also ensures that counterparty quality remains high across the entire ecosystem.
 
-ROIALS CAPITAL is a partner only when the principal’s scale matches the architecture. 
+ROIALS CAPITAL is a partner only when the principal’s scale matches the architecture.
 
-## Bitcoin as the New Gold Standard Gold earned its reputation over millennia
+Bitcoin as the New Gold Standard Gold earned its reputation over millennia
 
 .
 
 Bitcoin earned its reputation by displaying the same characteristics in a compressed time frame, with added advantages.
 
-## Scarcity backed by code, not governments Gold is scarce because nature limits it
+Scarcity backed by code, not governments Gold is scarce because nature limits it
 
 .
 
@@ -124,7 +124,7 @@ Bitcoin is scarce because mathematics limits it.
 
 Scarcity backed by code cannot be nationalised, confiscated, or debased.
 
-## Immediate verifiability Assets that can be verified without human interpretation reduce operational risk
+Immediate verifiability Assets that can be verified without human interpretation reduce operational risk
 
 .
 
@@ -132,7 +132,7 @@ Bitcoin has no auditors, no custodial opacity, no political intermediaries.
 
 This is critical for secured Monetization Architecture.
 
-## Global transportability Gold travels slowly
+Global transportability Gold travels slowly
 
 .
 
@@ -142,7 +142,7 @@ This mobility is not a novelty, it is a structural advantage.
 
 It compresses settlement time and enhances capital efficiency.
 
-## Deepening institutional demand Every year, market depth increases, custody infrastructure strengthens, and regulatory clarity improves
+Deepening institutional demand Every year, market depth increases, custody infrastructure strengthens, and regulatory clarity improves
 
 .
 
@@ -150,9 +150,9 @@ Family offices no longer ask whether Bitcoin is legitimate.
 
 They now ask how to optimise its leverage and liquidity potential.
 
-ROIALS CAPITAL provides that optimisation. 
+ROIALS CAPITAL provides that optimisation.
 
-## The Architecture of Strategic Collateralization Against Bitcoin Asset-Backed Frameworks against Bitcoin requires more than capital
+The Architecture of Strategic Collateralization Against Bitcoin Asset-Backed Frameworks against Bitcoin requires more than capital
 
 .
 
@@ -170,7 +170,7 @@ The structure must be silent.
 
 The structure must protect the principal from volatility without diminishing the asset’s long term utility.
 
-## Our structural pillar
+Our structural pillar
 
 s
 
@@ -184,15 +184,15 @@ s
 
 We design the conditions in which capital behaves correctly.
 
-This is the difference between Strategic Collateralization as a transaction and Monetization Architecture as an engineered system. 
+This is the difference between Strategic Collateralization as a transaction and Monetization Architecture as an engineered system.
 
-## Why Bitcoin Outperforms Traditional Collateral in Credit Structures Family offices frequently rely on real estate, private equity positions, or public equities as collateral
+Why Bitcoin Outperforms Traditional Collateral in Credit Structures Family offices frequently rely on real estate, private equity positions, or public equities as collateral
 
 .
 
 Each has structural weaknesses.
 
-## Real estate Slow to liquidate
+Real estate Slow to liquidate
 
 .
 
@@ -200,7 +200,7 @@ Valuation delays.
 
 Jurisdictional friction.
 
-## Private equity Opaque valuation
+Private equity Opaque valuation
 
 .
 
@@ -208,7 +208,7 @@ High volatility.
 
 Minimal liquidity.
 
-## Public equities Market hours limited
+Public equities Market hours limited
 
 .
 
@@ -216,7 +216,7 @@ Custodial fragmentation.
 
 Correlated risk during systemic shocks.
 
-## Bitcoin corrects these weaknesses Bitcoin settles globally at all hours
+Bitcoin corrects these weaknesses Bitcoin settles globally at all hours
 
 .
 
@@ -228,21 +228,21 @@ And because it is digital bearer collateral, movement is precise and predictable
 
 For Capital Structuring, this is ideal.
 
-Collateral that moves smoothly yields better structural outcomes. 
+Collateral that moves smoothly yields better structural outcomes.
 
-## The Family Office Use Case: Liquidity Without Sacrifice ROIALS CAPITAL has observed a consistent trend among multi generational wealth structures
-
-.
-
-## They want liquidity without liquidation
+The Family Office Use Case: Liquidity Without Sacrifice ROIALS CAPITAL has observed a consistent trend among multi generational wealth structures
 
 .
 
-## They want mobility without exposure
+They want liquidity without liquidation
 
 .
 
-## They want leverage without systemic risk
+They want mobility without exposure
+
+.
+
+They want leverage without systemic risk
 
 .
 
@@ -252,9 +252,9 @@ A family office that holds long term Bitcoin exposure can borrow against it, mai
 
 This is not speculative leverage.
 
-This is capital efficiency. 
+This is capital efficiency.
 
-## The Private Credit Advantage Private credit has re emerged as the preferred liquidity engine for UHNW capital
+The Private Credit Advantage Private credit has re emerged as the preferred liquidity engine for UHNW capital
 
 .
 
@@ -270,9 +270,9 @@ Predictability meets velocity.
 
 Collateral certainty meets flexible structuring.
 
-This pairing is quickly becoming the preferred model for forward thinking families. 
+This pairing is quickly becoming the preferred model for forward thinking families.
 
-## Asset Based Institutional Liquidity Paths: Precision Over Assumption Traditional Asset-Based Lending is hamstrung by valuation ambiguities
+Asset Based Institutional Liquidity Paths: Precision Over Assumption Traditional Asset-Based Lending is hamstrung by valuation ambiguities
 
 .
 
@@ -292,9 +292,9 @@ Its movement is immediate.
 
 This turns the Asset-Based Lending process from an exercise in negotiation into an exercise in engineering.
 
-ROIALS CAPITAL applies this engineering mindset across every stage, from collateral onboarding to settlement sequencing. 
+ROIALS CAPITAL applies this engineering mindset across every stage, from collateral onboarding to settlement sequencing.
 
-## The New Gold Standard Is Not a Metaphor The phrase new gold standard is not marketing language
+The New Gold Standard Is Not a Metaphor The phrase new gold standard is not marketing language
 
 .
 
@@ -320,9 +320,9 @@ Gold served global finance because it was:
 
 - transparent verification
 
-- liquidity without borders Family offices that understand this shift strengthen their position for the next fifty years, not the next cycle. 
+- liquidity without borders Family offices that understand this shift strengthen their position for the next fifty years, not the next cycle.
 
-## The ROIALS CAPITAL Position We do not speculate
+The ROIALS CAPITAL Position We do not speculate
 
 .
 
@@ -336,9 +336,9 @@ We set the terms.
 
 We define the environment.
 
-We maintain principal authority. 
+We maintain principal authority.
 
-## The Future: A Credit System Rooted in Digital Collateral Within ten years, Strategic Collateralization against digital collateral will be standard across global private credit
+The Future: A Credit System Rooted in Digital Collateral Within ten years, Strategic Collateralization against digital collateral will be standard across global private credit
 
 .
 
@@ -350,13 +350,11 @@ It is built on transparent, mobile, liquid collateral.
 
 Bitcoin is the model.
 
-ROIALS CAPITAL is the architecture. 
+ROIALS CAPITAL is the architecture.
 
-## Request confidential audi
+Request confidential audi
 
-t
-
-## TECHNICAL MANDATE Qualification Gates strictly observed
+t TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

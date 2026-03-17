@@ -14,15 +14,11 @@ Surface narratives still revolve around decarbonization cycles, while subsurface
 
 The divergence is measurable.
 
-It has become one of the most powerful sources of balance sheet optimization available to institutional allocators navigating the 2026 landscape.
+It has become one of the most powerful sources of balance sheet optimization available to institutional allocators navigating the 2026 landscape. 
 
-# Phase I: .
+### Phase I: .
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -54,15 +50,11 @@ The arbitrage is highest in sectors where capital retreat has been ideological r
 
 This macro backdrop has driven a regime in which capital efficiency is no longer a secondary optimization.
 
-It is the governing principle of modern balance sheet design.
+It is the governing principle of modern balance sheet design. 
 
-# Phase II: .
+### Phase II: .
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -162,9 +154,9 @@ Our strategic partner, NAEO, operates within this environment.
 
 Their focus is on operators with established reservoir histories, measurable recovery factors, and predictable maintenance programs.
 
-These features allow institutional allocators to analyze operational integrity rather than speculative upside.
+These features allow institutional allocators to analyze operational integrity rather than speculative upside. 
 
-# Phase III: .
+### Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital functions as a strategic navigator and institutional introducer across three domains: Fund-III capital raising, Strategic Collateralization, and special mandates in energy and cross-border acquisitions.
 
@@ -188,9 +180,9 @@ NAEO manages the reservoirs.
 
 Roials Capital provides the institutional translation layer, helping allocators understand Alberta’s basin physics, operational regimes, and capital flow inefficiencies.
 
-This partnership model allows allocators to navigate complex environments with technical clarity rather than promotional noise.
+This partnership model allows allocators to navigate complex environments with technical clarity rather than promotional noise. 
 
-# Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship is an exercise in non wasteful capital management.
 
@@ -236,9 +228,9 @@ This is consistent with **Proverbs 13:22
 
 * , which anchors stewardship in generational capital behavior.
 
-Stewardship transforms the balance sheet from a transactional instrument into a long horizon strategic platform.
+Stewardship transforms the balance sheet from a transactional instrument into a long horizon strategic platform. 
 
-# Phase V: .
+### Phase V: .
 
 DECISION-MAKING LENS FOR THE ALLOCATOR The allocator operating in 2026 faces an environment defined by volatility at the surface and stability in the subsurface.
 

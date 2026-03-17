@@ -10,13 +10,9 @@ The structural gap in North American private markets is a capital formation issu
 
 Private issuers with strong asset bases operate inside a liquidity vacuum that is unrelated to asset quality or revenue resilience.
 
-This vacuum defines the modern regime for allocators who seek exposure to real operating cash flows without adopting unbounded venture style variance. 
+This vacuum defines the modern regime for allocators who seek exposure to real operating cash flows without adopting unbounded venture style variance.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -58,13 +54,9 @@ The result is a durable multi billion capital shortage across assets that carry 
 
 This is the modern regime.
 
-Private credit and portfolio backed liquidity have become the functional replacement for the banks that once priced these markets with consistency. 
+Private credit and portfolio backed liquidity have become the functional replacement for the banks that once priced these markets with consistency.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -170,13 +162,9 @@ Institutional allocators do not engage a single asset.
 
 They engage the structural model that governs asset behavior.
 
-The Roials Capital model ensures that the operator's governance structure and technical discipline are congruent with the allocator's fiduciary requirements. 
+The Roials Capital model ensures that the operator's governance structure and technical discipline are congruent with the allocator's fiduciary requirements.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is not an ethical overlay
+THE STEWARDSHIP FILTER Stewardship is not an ethical overlay
 
 .
 

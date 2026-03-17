@@ -94,9 +94,9 @@ Sharp edges.
 
 Clean logic.
 
-No filler. 
+No filler.
 
-## SOVEREIGN CAPITAL IS A SYSTEM OF COMPETING INFRASTRUCTURES Not portfolios
+SOVEREIGN CAPITAL IS A SYSTEM OF COMPETING INFRASTRUCTURES Not portfolios
 
 .
 
@@ -148,9 +148,9 @@ They buy the ability to weaponize add‑ons as stability anchors.
 
 Energy, industrials, infrastructure, and specialized real assets-these are the new sovereign adjacency classes.
 
-Our pipeline sits precisely there. 
+Our pipeline sits precisely there.
 
-## GLOBAL ALLOCATION REGIMES ARE RECONFIGURING This cycle is not a rotation
+GLOBAL ALLOCATION REGIMES ARE RECONFIGURING This cycle is not a rotation
 
 .
 
@@ -202,9 +202,9 @@ This is why sovereign LPs re-rate Fund-III as “Infrastructure‑Compatible Pri
 
 Neither pure PE nor pure infra.
 
-A sovereignty‑aligned asset hardness engine. 
+A sovereignty‑aligned asset hardness engine.
 
-## THE STRUCTURAL ALIGNMENT IMPERATIVE The next decade’s strongest performers will not be high-beta funds
+THE STRUCTURAL ALIGNMENT IMPERATIVE The next decade’s strongest performers will not be high-beta funds
 
 .
 
@@ -278,9 +278,9 @@ Our 10% Asset-Based Lending sleeve is not yield hunting.
 
 It is engine tuning.
 
-It strengthens the entire Fund‑III ecosystem. 
+It strengthens the entire Fund‑III ecosystem.
 
-## THE REDEFINED ROLE OF BUYOUTS Buyouts used to be about control
+THE REDEFINED ROLE OF BUYOUTS Buyouts used to be about control
 
 .
 
@@ -330,9 +330,9 @@ Add-on integration cycles below
 
 This is why Fund-III is not chasing hypergrowth.
 
-It is chasing permanence. 
+It is chasing permanence.
 
-## THE END OF PORTFOLIO FRAGMENTATION Old model: Many assets
+THE END OF PORTFOLIO FRAGMENTATION Old model: Many assets
 
 .
 
@@ -366,9 +366,9 @@ Every Asset-Based Lending component.
 
 Every NAEOC energy buildout.
 
-The entire system is a synchronized capital machine. 
+The entire system is a synchronized capital machine.
 
-## THE RISE OF CAPITAL SOVEREIGNTY Sovereign capital is moving from passive allocation to strategic enforcement
+THE RISE OF CAPITAL SOVEREIGNTY Sovereign capital is moving from passive allocation to strategic enforcement
 
 .
 
@@ -402,9 +402,9 @@ We acquire nodes.
 
 We stabilize nodes.
 
-We align nodes with sovereign regimes. 
+We align nodes with sovereign regimes.
 
-## THE Fund-III POSITIONING THESIS Eleven points:
+THE Fund-III POSITIONING THESIS Eleven points:
 
  
 
@@ -456,9 +456,9 @@ This is our pitch.
 
 Our engine.
 
-Our identity. 
+Our identity.
 
-## WHY LPs ARE INCREASING ALLOCATIONS TO BUYOUTS WITH INFRASTRUCTURE BEHAVIOR Because volatility destroys synthetic assets
+WHY LPs ARE INCREASING ALLOCATIONS TO BUYOUTS WITH INFRASTRUCTURE BEHAVIOR Because volatility destroys synthetic assets
 
 .
 
@@ -480,9 +480,9 @@ Fund-III is deliberately positioned to operate as:
 
 This combination is extremely rare.
 
-And attractive. 
+And attractive.
 
-## GLOBAL CAPITAL IS MOVING TOWARD ENERGY HARDNESS The US
+GLOBAL CAPITAL IS MOVING TOWARD ENERGY HARDNESS The US
 
 .
 
@@ -544,9 +544,9 @@ But they want return.
 
 Asset-Based Lending gives both.
 
-Fund‑III uses it as a precision tool. 
+Fund‑III uses it as a precision tool.
 
-## EU MiFID II ACQUISITIONS AS A COMPETITIVE ADVANTAGE Many US funds avoid MiFID II
+EU MiFID II ACQUISITIONS AS A COMPETITIVE ADVANTAGE Many US funds avoid MiFID II
 
 .
 
@@ -578,9 +578,9 @@ Fund‑III is structured to acquire and integrate under MiFID II without frictio
 
 Sovereigns love this.
 
-It gives them European deployment without bureaucracy. 
+It gives them European deployment without bureaucracy.
 
-## THE PRINCIPAL ARCHITECTURE OF Fund-III A sovereign-aligned capital machine with
+THE PRINCIPAL ARCHITECTURE OF Fund-III A sovereign-aligned capital machine with
 
 :
 
@@ -600,9 +600,9 @@ It gives them European deployment without bureaucracy.
 
 This is institution‑grade design.
 
-Built for LPs who understand that capital cycles are no longer cyclical-they are geopolitical. 
+Built for LPs who understand that capital cycles are no longer cyclical-they are geopolitical.
 
-## THE WORLD IS MOVING BACK TO HARD ASSETS Air
+THE WORLD IS MOVING BACK TO HARD ASSETS Air
 
 .
 
@@ -632,9 +632,9 @@ Hardens these.
 
 Private equity used to sell stories.
 
-We sell structures. 
+We sell structures.
 
-## WHY CAPITAL RAISING FOR Fund-III IS ACCELERATING Because LPs want
+WHY CAPITAL RAISING FOR Fund-III IS ACCELERATING Because LPs want
 
 :
 
@@ -654,9 +654,9 @@ We hit all vectors.
 
 Kapitalanskaffning is easier when your structure matches sovereign doctrine.
 
-Our doctrine does. 
+Our doctrine does.
 
-## THE FUTURE: A MULTIPOLAR CAPITAL ECOSYSTEM Five poles
+THE FUTURE: A MULTIPOLAR CAPITAL ECOSYSTEM Five poles
 
 .
 
@@ -718,7 +718,7 @@ Capital is sovereignty.
 
 Fund‑III is architecture built to serve both.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

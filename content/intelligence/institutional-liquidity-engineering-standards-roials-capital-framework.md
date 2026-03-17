@@ -10,13 +10,9 @@ The capital vacuum in North American private markets is the predictable outcome 
 
 This vacuum is not a signal of deteriorating asset quality.
 
-It reflects a misalignment between liquidity supply and operational demand across the Fund-III archetype, where acquisition velocity, platform integration, and balance sheet normalization require a form of liquidity that traditional credit channels cannot deliver with precision. 
+It reflects a misalignment between liquidity supply and operational demand across the Fund-III archetype, where acquisition velocity, platform integration, and balance sheet normalization require a form of liquidity that traditional credit channels cannot deliver with precision.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -64,13 +60,9 @@ This structural dislocation is the entry point for strategic partners such as NA
 
 The allocator is navigating a global market where opportunity velocity is high, yet liquidity precision is low.
 
-This is the environment in which Asset-Backed Frameworks transforms from a tactical tool to a strategic necessity. 
+This is the environment in which Asset-Backed Frameworks transforms from a tactical tool to a strategic necessity.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -194,13 +186,9 @@ Engagement centers on:
 
 - Production stability analysis
 
-- Capital sequencing In European MiFID II environments, Roials Capital provides cross border calibration, acquisition structuring, and liquidity integration for Nordic and EU corporate expansions. 
+- Capital sequencing In European MiFID II environments, Roials Capital provides cross border calibration, acquisition structuring, and liquidity integration for Nordic and EU corporate expansions.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the discipline that governs capital allocation within the Roials Capital framework
+THE STEWARDSHIP FILTER Stewardship is the discipline that governs capital allocation within the Roials Capital framework
 
 .
 
@@ -252,7 +240,7 @@ Allocators seeking to calibrate their portfolios for the 2026 environment often 
 
 Roials Capital operates as a navigator within this landscape, equipping decision makers with the structural intelligence required to operate in an era defined by capital scarcity, operational complexity, and opportunity velocity.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

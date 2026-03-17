@@ -32,15 +32,11 @@ Capital now demands governance, hard collateral, and institutional discipline.
 
 The allocators who internalize this early will extract multi-cycle advantage.
 
-Those who hesitate will finance the advantage of others.
+Those who hesitate will finance the advantage of others. 
 
-# Phase I: .
+### Phase I: .
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -90,15 +86,11 @@ They view it as a filtration mechanism for character, competence, and covenant i
 
 The regime has already shifted.
 
-Those who do not architect around this shift will serve those who do.
+Those who do not architect around this shift will serve those who do. 
 
-# Phase II: .
+### Phase II: .
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -176,13 +168,11 @@ Each is a duration lever.
 
 The mechanics are not negotiable.
 
-They are the architecture.
+They are the architecture. 
 
-# Phase III: .
+### Phase III: .
 
- 
-
-## THE
+THE
 
  
 
@@ -252,9 +242,9 @@ We remove ambiguity at the root.
 
 The model is not designed for speed.
 
-It is designed for sovereignty over outcomes.
+It is designed for sovereignty over outcomes. 
 
-# Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship is not sentimental.
 
@@ -308,9 +298,9 @@ It is not.
 
 It is operational theology.
 
-It is the practical expression of order.
+It is the practical expression of order. 
 
-# Phase V: .
+### Phase V: .
 
 EXIT Capital migration ends with one metric.
 
@@ -318,7 +308,7 @@ Cost of error.
 
 Our mandate is to lower it to zero.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

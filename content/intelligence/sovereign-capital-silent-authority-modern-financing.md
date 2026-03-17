@@ -16,13 +16,9 @@ After 2020, traditional credit creation mechanisms no longer determine opportuni
 
 Sovereign balance sheets determine it.
 
-Understanding this progression is no longer optional for allocators operating within buyout environments, private credit structures, or hard-asset energy positions. 
+Understanding this progression is no longer optional for allocators operating within buyout environments, private credit structures, or hard-asset energy positions.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -66,13 +62,9 @@ The Nordic region, the GCC, the US Southwest, and selected European institutiona
 
 The allocator who understands the sovereign anchored environment does not chase yield.
 
-Instead, they identify balance sheet sovereignty as the foundational requirement before any operational diligence begins. 
+Instead, they identify balance sheet sovereignty as the foundational requirement before any operational diligence begins.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -194,13 +186,9 @@ In the buyout corridor, Roials Capital provides capital raising infrastructure f
 
 This includes jurisdictional mapping, LP segmentation, capital stack calibration, and institutional readiness audits.
 
-In liquidity engineering, the firm provides structural design intelligence for ABL solutions that support cross border acquisition strategies and balance sheet optimization. 
+In liquidity engineering, the firm provides structural design intelligence for ABL solutions that support cross border acquisition strategies and balance sheet optimization.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the discipline that governs responsible resource management
+THE STEWARDSHIP FILTER Stewardship is the discipline that governs responsible resource management
 
 .
 

@@ -300,7 +300,7 @@ The architecture matters more than the yield.
 
 - ## Multi 
 
-# Layer L: I
+### Layer L: I
 
 quidity: The Advanced UHNW Model The highest performing UHNW clients operate on a liquidity stack rather than a single liquidity line.
 
@@ -312,19 +312,19 @@ This stack includes:
 
 - Long horizon liquidity via private credit structures This multi 
 
-# Layer D
+### Layer D
 
 esign ensures that capital can move at three speeds simultaneously.
 
 The slowest 
 
-# Layer I: s shielded
+### Layer I: s shielded
 
 .
 
 The fastest 
 
-# Layer I: s silent
+### Layer I: s silent
 
 .
 
@@ -352,7 +352,7 @@ We do not follow the market.
 
 We design the system the market adapts to.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

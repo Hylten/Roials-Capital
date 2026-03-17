@@ -24,9 +24,9 @@ HNWI and UHNW real estate principals understand this shift instinctively.
 
 They do not require explanations.
 
-They require architecture. 
+They require architecture.
 
-## The Reality of Liquidity at Scale HNWI and UHNW real estate principals operate within a different set of rules
+The Reality of Liquidity at Scale HNWI and UHNW real estate principals operate within a different set of rules
 
 .
 
@@ -58,9 +58,9 @@ The challenge is always the same.
 
 Traditional systems were not built for sovereign workloads.
 
-Roials Capital was. 
+Roials Capital was.
 
-## Structural Mechanics Define Outcomes The difference between a builder and a sovereign is structure
+Structural Mechanics Define Outcomes The difference between a builder and a sovereign is structure
 
 .
 
@@ -90,9 +90,9 @@ Movement becomes effortless.
 
 Exposure becomes minimal.
 
-Opportunity becomes inevitable. 
+Opportunity becomes inevitable.
 
-## The Roials Capital Framework for Real Estate Sovereigns Roials Capital functions with principal authority
+The Roials Capital Framework for Real Estate Sovereigns Roials Capital functions with principal authority
 
 .
 
@@ -124,9 +124,9 @@ Our framework is intentionally engineered for:
 
 Each client receives a framework, not a product.
 
-Each engagement is structural, not transactional. 
+Each engagement is structural, not transactional.
 
-## Why Real Estate Sovereigns Select Roials Capital It is not yield
+Why Real Estate Sovereigns Select Roials Capital It is not yield
 
 .
 
@@ -146,9 +146,9 @@ Quietly.
 
 Deliberately.
 
-Surgically. 
+Surgically.
 
-## The Future of Sovereign Liquidity Liquidity for sovereign real estate operators is shifting toward multi asset collateralization
+The Future of Sovereign Liquidity Liquidity for sovereign real estate operators is shifting toward multi asset collateralization
 
 .
 
@@ -168,9 +168,9 @@ A future defined by architecture rather than access.
 
 A future where the sovereign sets the pace.
 
-Not the market. 
+Not the market.
 
-## Final Position Institutional liquidity for real estate sovereigns is no longer a question of capital availability
+Final Position Institutional liquidity for real estate sovereigns is no longer a question of capital availability
 
 .
 
@@ -186,7 +186,7 @@ For HNWI and UHNW operators, this is the requirement.
 
 For sovereigns, this is the standard.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

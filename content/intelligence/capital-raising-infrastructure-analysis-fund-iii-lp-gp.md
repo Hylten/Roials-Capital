@@ -12,13 +12,9 @@ It is the direct product of regulatory drift that has compressed traditional ban
 
 The allocators who understand this shift are not searching for incremental yield.
 
-They are architecting positions inside supply constrained capital stacks where technical underwriting and operational control determine the risk surface more than the coupon. 
+They are architecting positions inside supply constrained capital stacks where technical underwriting and operational control determine the risk surface more than the coupon.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -54,13 +50,9 @@ The result is a new capital regime.
 
 Allocators no longer evaluate funds solely based on past performance.
 
-They evaluate the strategic architecture of capital access, liquidity structuring, and cross-border compliance alignment. 
+They evaluate the strategic architecture of capital access, liquidity structuring, and cross-border compliance alignment.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -116,11 +108,9 @@ Cross-Border Compliance Synchronization Successful capital raising infrastructur
 
 The MiFID II acquisition channel in Europe, the Alberta-based NAEOC partnership channel in North America, and the Middle East private office ecosystem each operate under different rule sets.
 
-A Fund-III GP must provide allocators with a compliance architecture that protects them across borders while preserving deal certainty. 
+A Fund-III GP must provide allocators with a compliance architecture that protects them across borders while preserving deal certainty.
 
- 
-
-## THE
+THE
 
  
 
@@ -162,13 +152,9 @@ Cross-Vertical Syndication Channels The Brand supports the strategic channels ac
 
 Operational Intelligence The Brand monitors regulatory adjustments, liquidity cycles, and pricing dynamics across private credit, energy infrastructure, and cross-border acquisition landscapes.
 
-This creates a refined informational advantage for allocators navigating complex regimes. 
+This creates a refined informational advantage for allocators navigating complex regimes.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is not a moral abstraction
+THE STEWARDSHIP FILTER Stewardship is not a moral abstraction
 
 .
 

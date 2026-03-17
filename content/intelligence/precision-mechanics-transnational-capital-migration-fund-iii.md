@@ -400,7 +400,7 @@ Tighten its energy posture.
 
 Execute with sovereign precision.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

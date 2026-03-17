@@ -20,9 +20,9 @@ For holders of public shares at the minimum threshold, liquidity is no longer an
 
 It becomes a controlled function, similar to treasury management.
 
-This is the frontier Roials Capital operates within. 
+This is the frontier Roials Capital operates within.
 
-## Crypto Strategic Collateralization for the + Holder Crypto positions, when properly structured, can also serve as collateral
+Crypto Strategic Collateralization for the + Holder Crypto positions, when properly structured, can also serve as collateral
 
 .
 
@@ -36,9 +36,9 @@ The mechanics mirror the public share framework but adapt to the asset class:
 
 - Real‑time margin architecture.
 
-The threshold exists to maintain structural integrity and operational discipline. 
+The threshold exists to maintain structural integrity and operational discipline.
 
-## What Sophisticated Clients Actually Seek High net worth and ultra high net worth clients do not need generic refinancing
+What Sophisticated Clients Actually Seek High net worth and ultra high net worth clients do not need generic refinancing
 
 .
 
@@ -58,9 +58,9 @@ They require a framework that aligns with:
 
 - Absolute discretion.
 
-Roials Capital focuses on these requirements by providing an underwriting environment where clarity is the default state. 
+Roials Capital focuses on these requirements by providing an underwriting environment where clarity is the default state.
 
-## The Roials Capital Position: principal authority in the Liquidity Market We do not claim volume
+The Roials Capital Position: principal authority in the Liquidity Market We do not claim volume
 
 .
 
@@ -76,9 +76,9 @@ We define the threshold.
 
 We define the collateral parameters.
 
-We allow the client to operate inside a liquidity environment engineered for long term advantage. 
+We allow the client to operate inside a liquidity environment engineered for long term advantage.
 
-## The Future of Liquidity for HNWI and UHNW Clients Public share Capital Structuring at the minimum is no longer optional for sophisticated holders
+The Future of Liquidity for HNWI and UHNW Clients Public share Capital Structuring at the minimum is no longer optional for sophisticated holders
 
 .
 
@@ -90,9 +90,9 @@ Crypto collateralization will mature and integrate into multi‑asset liquidity 
 
 The winners will be those who treat liquidity as an engineered system rather than a series of opportunistic decisions.
 
-Roials Capital builds for that tier. 
+Roials Capital builds for that tier.
 
-## The New Standard Liquidity is now structural
+The New Standard Liquidity is now structural
 
 .
 
@@ -106,7 +106,7 @@ It reflects the sophistication of modern wealth architecture and the need for a 
 
 Roials Capital stands at the front of this structural evolution.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

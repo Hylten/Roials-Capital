@@ -12,13 +12,9 @@ It is the product of regulatory drift that has structurally constrained traditio
 
 The divergence between real economy financing requirements and the regulated banking balance sheet is now a predictable regime rather than a cyclical deviation.
 
-Institutional allocators evaluating Fund-III structures, buyout support facilities, and cross border credit exposures are operating inside a recalibrated environment where risk is no longer a function of asset volatility alone but a function of liquidity architecture, information asymmetry, and collateral transparency. 
+Institutional allocators evaluating Fund-III structures, buyout support facilities, and cross border credit exposures are operating inside a recalibrated environment where risk is no longer a function of asset volatility alone but a function of liquidity architecture, information asymmetry, and collateral transparency.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -66,13 +62,9 @@ Risk is now measurable at higher resolution which improves institutional underwr
 
 This macro environment establishes a predictable baseline: Private Credit risk is no longer predominantly credit risk.
 
-It is sequencing risk, information risk, and structural risk. 
+It is sequencing risk, information risk, and structural risk.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -184,13 +176,9 @@ Across non energy mandates Roials Capital supports:
 
 The function is not asset management.
 
-It is institutional alignment where counterparty quality, structural predictability, and collateral transparency are validated prior to engagement. 
+It is institutional alignment where counterparty quality, structural predictability, and collateral transparency are validated prior to engagement.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER : THE THEOLOGY OF CAPITAL Stewardship is a capital discipline that rejects waste
+THE STEWARDSHIP FILTER : THE THEOLOGY OF CAPITAL Stewardship is a capital discipline that rejects waste
 
 .
 

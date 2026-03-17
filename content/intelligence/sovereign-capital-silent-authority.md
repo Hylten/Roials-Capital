@@ -62,9 +62,9 @@ This briefing maps the architecture that governs sovereign capital behavior, the
 
 EU MiFID II acquisitive frameworks).
 
-The objective is simple: position the GP as an institutional authority capable of absorbing sovereign flows at scale. 
+The objective is simple: position the GP as an institutional authority capable of absorbing sovereign flows at scale.
 
-## SECTION 1: The Sovereign Thesis Discipline
+SECTION 1: The Sovereign Thesis Discipline
 
 .
 
@@ -78,7 +78,7 @@ It acquires foundational assets.
 
 It seeks the hard edges of real economy sectors-industrials, energy infrastructure, asset-heavy operating platforms, and regulated environments where complexity reduces competition.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -118,9 +118,9 @@ Structure wins.
 
 Emotion loses.
 
-Always. 
+Always.
 
-## SECTION 2: Sovereign Capital and Fund-III Dynamics Fund-III is the inflection point
+SECTION 2: Sovereign Capital and Fund-III Dynamics Fund-III is the inflection point
 
 .
 
@@ -164,9 +164,9 @@ Systems that eliminate volatility through design.
 
 Fund-III performance becomes secondary.
 
-System integrity becomes primary. 
+System integrity becomes primary.
 
-## SECTION 3: Jurisdictional Arbitrage and Institutional Hierarchical Dynamics Modern financing is no longer capital vs. assets
+SECTION 3: Jurisdictional Arbitrage and Institutional Hierarchical Dynamics Modern financing is no longer capital vs. assets
 
 .
 
@@ -200,9 +200,9 @@ The GP who can articulate jurisdictional logic becomes a strategic partner, not 
 
 Sovereign LPs invest in partners.
 
-Not vendors. 
+Not vendors.
 
-## SECTION 4: The Capital Stack for Sovereign-Ready Buyouts Sovereign capital prefers simplicity in the stack
+SECTION 4: The Capital Stack for Sovereign-Ready Buyouts Sovereign capital prefers simplicity in the stack
 
 .
 
@@ -234,9 +234,9 @@ They prefer operational control amplified through moderate leverage and rigorous
 
 The GP who relies on financial engineering is disqualified.
 
-The GP who deploys financial engineering as a stabilizer is elevated. 
+The GP who deploys financial engineering as a stabilizer is elevated.
 
-## SECTION 5: Add-On Integration as a Sovereign Metric Add-ons are not growth
+SECTION 5: Add-On Integration as a Sovereign Metric Add-ons are not growth
 
 .
 
@@ -268,9 +268,9 @@ Sovereign allocators invest in recognizable systems.
 
 Recognizable processes.
 
-Recognizable execution DNA. 
+Recognizable execution DNA.
 
-## SECTION 6: Capital Structuring (Asset-Based Lending 10%) Liquidity is the sovereign obsession
+SECTION 6: Capital Structuring (Asset-Based Lending 10%) Liquidity is the sovereign obsession
 
 .
 
@@ -300,9 +300,9 @@ Asset-Based Lending is order.
 
 Asset-Based Lending is sovereignty inside the balance sheet.
 
-Fund-III GPs who institutionalize Monetization Architecture attract allocators who think in 20-year arcs, not quarterly cycles. 
+Fund-III GPs who institutionalize Monetization Architecture attract allocators who think in 20-year arcs, not quarterly cycles.
 
-## SECTION 7: Special Mandates (Energy: NAEOC $50M,$250M) Energy mandates operate under different physics
+SECTION 7: Special Mandates (Energy: NAEOC $50M,$250M) Energy mandates operate under different physics
 
 .
 
@@ -338,9 +338,9 @@ Control the flow.
 
 Control the horizon.
 
-Control the nation. 
+Control the nation.
 
-## SECTION 8: EU MiFID II Acquisition Pathways MiFID II is not a constraint
+SECTION 8: EU MiFID II Acquisition Pathways MiFID II is not a constraint
 
 .
 
@@ -372,9 +372,9 @@ It is a credential.
 
 A weapon.
 
-A gate. 
+A gate.
 
-## SECTION 9: Sovereign Capital Psychology The sovereign allocator is not motivated by IRR
+SECTION 9: Sovereign Capital Psychology The sovereign allocator is not motivated by IRR
 
 .
 
@@ -412,9 +412,9 @@ Noise signals immaturity.
 
 Movement without logic signals weakness.
 
-Execution without structure signals danger. 
+Execution without structure signals danger.
 
-## SECTION 10: The Sovereign Expectation for Fund-III GPs The sovereign LP expects a GP to operate like a state entity in microcosm
+SECTION 10: The Sovereign Expectation for Fund-III GPs The sovereign LP expects a GP to operate like a state entity in microcosm
 
 :
 
@@ -456,9 +456,9 @@ A GP must demonstrate mastery over:
 
 Meet it.
 
-Or exit the room. 
+Or exit the room.
 
-## SECTION 11: Capital Raising (80%) Kapitalanskaffning for Fund-III requires more than storytelling
+SECTION 11: Capital Raising (80%) Kapitalanskaffning for Fund-III requires more than storytelling
 
 .
 
@@ -494,9 +494,9 @@ This is sovereign cadence.
 
 This is sovereign psychology.
 
-This is sovereign-tier capital engineering. 
+This is sovereign-tier capital engineering.
 
-## SECTION 12: The principal authority Sovereign capital does not announce its strategy
+SECTION 12: The principal authority Sovereign capital does not announce its strategy
 
 .
 
@@ -528,9 +528,7 @@ The capital becomes a nation-scale instrument.
 
 This is the architecture.
 
-This is 
-
-## THE MANDAT
+This is THE MANDAT
 
 E
 
@@ -546,7 +544,7 @@ End with a technical metric: Institutional Continuity Ratio:
 
 For a confidential capital audit, submit mandate parameters.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

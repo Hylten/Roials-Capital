@@ -18,9 +18,9 @@ Not aggressive.
 
 Not cosmetic.
 
-Sovereign. 
+Sovereign.
 
-## The Principal Frame A sovereign balance sheet is not an accounting artifact
+The Principal Frame A sovereign balance sheet is not an accounting artifact
 
 .
 
@@ -38,9 +38,9 @@ They accelerate cycles when markets slow.
 
 HNWI and UHNW families who understand this doctrine shift from reactive positions to principal positions.
 
-This shift is the foundation of Fund-III readiness. 
+This shift is the foundation of Fund-III readiness.
 
-## Structural Alignment: The First Gate Fund-III capital does not tolerate disorder
+Structural Alignment: The First Gate Fund-III capital does not tolerate disorder
 
 .
 
@@ -58,9 +58,9 @@ Noise creates artificial drag on liquidity conversion.
 
 Noise invites counterparties to dictate terms.
 
-A sovereign balance sheet removes these frictions long before a lender, co-investor, or acquisition partner initiates review. 
+A sovereign balance sheet removes these frictions long before a lender, co-investor, or acquisition partner initiates review.
 
-## Asset Hardening as a Doctrine Asset hardening is not cosmetic fortification
+Asset Hardening as a Doctrine Asset hardening is not cosmetic fortification
 
 .
 
@@ -100,9 +100,9 @@ Pricing becomes more efficient.
 
 Cycles accelerate.
 
-Asset hardening is the conversion engine that unlocks these mechanics. 
+Asset hardening is the conversion engine that unlocks these mechanics.
 
-## Covenant Stewardship Covenant stewardship is the core ethic
+Covenant Stewardship Covenant stewardship is the core ethic
 
 .
 
@@ -134,9 +134,9 @@ Not preference.
 
 Not posture.
 
-Duty. 
+Duty.
 
-## Execution Velocity Execution velocity is the competitive edge most families never access
+Execution Velocity Execution velocity is the competitive edge most families never access
 
 .
 
@@ -160,9 +160,9 @@ In challenging cycles, this distinction separates principals from participants.
 
 Participants wait.
 
-Principals move. 
+Principals move.
 
-## Fund-III Dynamics Fund-III operates under different physics than Fund I or Fund II
+Fund-III Dynamics Fund-III operates under different physics than Fund I or Fund II
 
 .
 
@@ -192,9 +192,9 @@ This is protection.
 
 Fund-III dynamics punish fragility.
 
-They reward engineered sovereignty. 
+They reward engineered sovereignty.
 
-## The 21B Market Shifts Market shifts at the 21B level reveal a truth many ignore
+The 21B Market Shifts Market shifts at the 21B level reveal a truth many ignore
 
 .
 
@@ -220,9 +220,9 @@ Families and institutions that fail to engineer sovereign balance sheets will be
 
 This is not speculation.
 
-This is observed behavior. 
+This is observed behavior.
 
-## The Roials Protocol for Sovereign Balance Sheets The Roials framework is built on three pillars
+The Roials Protocol for Sovereign Balance Sheets The Roials framework is built on three pillars
 
 .
 
@@ -232,7 +232,7 @@ Each pillar removes fragility.
 
 Each 
 
-# Pillar I: s engineered for execution under pressure
+### Pillar I: s engineered for execution under pressure
 
 .
 
@@ -272,9 +272,9 @@ Pillar Three Execution Velocity Velocity is engineered through:
 
 - Counterparty sequencing
 
-- Immediate collateral conversion pathways Velocity converts opportunity into capture. 
+- Immediate collateral conversion pathways Velocity converts opportunity into capture.
 
-## The Sovereign Position for HNWI and UHNW Families Wealth without structure is chaos
+The Sovereign Position for HNWI and UHNW Families Wealth without structure is chaos
 
 .
 
@@ -296,9 +296,9 @@ They maintain:
 
 - Defined exposure limits
 
-- Multi horizon timeframes This is the sovereign position. 
+- Multi horizon timeframes This is the sovereign position.
 
-## Engineering Counterparty Asymmetry Counterparty asymmetry means you do not negotiate from weakness
+Engineering Counterparty Asymmetry Counterparty asymmetry means you do not negotiate from weakness
 
 .
 
@@ -314,9 +314,9 @@ This is not ego.
 
 This is stewardship.
 
-Asymmetry is a feature of disciplined engineering. 
+Asymmetry is a feature of disciplined engineering.
 
-## Liquidity as an Instrument of Authority Liquidity is not a cushion
+Liquidity as an Instrument of Authority Liquidity is not a cushion
 
 .
 
@@ -326,9 +326,9 @@ When deployed with precision it becomes the force multiplier that accelerates as
 
 Fund-III dynamics require liquidity in three states: Operational Countercyclical Strategic The sovereign balance sheet maintains all three without destabilizing the base.
 
-This separation is non negotiable. 
+This separation is non negotiable.
 
-## The Institutional Audit Readiness State Institutional capital flows only where clarity exists
+The Institutional Audit Readiness State Institutional capital flows only where clarity exists
 
 .
 
@@ -348,9 +348,9 @@ The readiness state must include:
 
 Not the advanced tier.
 
-Fund-III entities internalize this state permanently. 
+Fund-III entities internalize this state permanently.
 
-## Multi Cycle Governance Fund-III is not a single cycle strategy
+Multi Cycle Governance Fund-III is not a single cycle strategy
 
 .
 
@@ -370,9 +370,9 @@ The Roials model uses:
 
 - Cycle timing intelligence Governance is not bureaucracy.
 
-Governance is protection. 
+Governance is protection.
 
-## The Gnosjö Principle At the core of this entire doctrine is the principle of Stewardship
+The Gnosjö Principle At the core of this entire doctrine is the principle of Stewardship
 
 .
 
@@ -388,9 +388,7 @@ Strengthen the community you lead.
 
 Operate without waste.
 
-Honor 
-
-## THE MANDAT
+Honor THE MANDAT
 
 E
 
@@ -398,9 +396,9 @@ E
 
 This is not philosophy.
 
-This is operational truth. 
+This is operational truth.
 
-## A Sovereign Balance Sheet Is Not Optional Fund-III is unforgiving
+A Sovereign Balance Sheet Is Not Optional Fund-III is unforgiving
 
 .
 
@@ -410,9 +408,9 @@ It does not reward speed without clarity.
 
 It does not subsidize disorganization.
 
-A sovereign balance sheet is the only credible architecture for the next cycle. 
+A sovereign balance sheet is the only credible architecture for the next cycle.
 
-## Principal
+Principal
 
  
 
@@ -438,13 +436,11 @@ It is the execution velocity that captures opportunities others never see.
 
 Fund-III is not granted.
 
-It is earned through structure. 
+It is earned through structure.
 
-## CTA Request confidential audi
+CTA Request confidential audi
 
-t
-
-## TECHNICAL MANDATE Qualification Gates strictly observed
+t TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

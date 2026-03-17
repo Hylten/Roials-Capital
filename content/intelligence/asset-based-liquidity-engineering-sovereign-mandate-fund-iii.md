@@ -28,7 +28,7 @@ Direct.
 
 No drift.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -130,7 +130,7 @@ But all respond to hard collateral and jurisdictional clarity.
 
 Fund‑III uses asset-based structures to harden the story, not to complicate it.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -432,7 +432,7 @@ Mandate Reference: LQR‑Δ
 
 47.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

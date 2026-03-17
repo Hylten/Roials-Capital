@@ -18,7 +18,7 @@ It is a tactical variable.
 
 Set correctly, it becomes an instrument of control.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

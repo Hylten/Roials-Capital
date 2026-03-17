@@ -46,15 +46,11 @@ Below is the playbook that governs our approach.
 
 It is not advisory.
 
-It is operational doctrine.
+It is operational doctrine. 
 
-# Phase I: .
+### Phase I: .
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -106,15 +102,11 @@ A private market ruled by scarcity rewards managers who commit to structural sim
 
 Few understand this.
 
-Even fewer execute it.
+Even fewer execute it. 
 
-# Phase II: .
+### Phase II: .
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -174,13 +166,11 @@ The recovery equation is strengthened further through Asset-Based Lending overla
 
 When these mechanics align, capital becomes self-defending.
 
-The structure protects itself even when the macro environment does not.
+The structure protects itself even when the macro environment does not. 
 
-# Phase III: .
+### Phase III: .
 
- 
-
-## THE
+THE
 
  
 
@@ -190,7 +180,7 @@ The structure protects itself even when the macro environment does not.
 
 Preservation is institutional, not incidental.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -242,9 +232,9 @@ High conviction does not require noise.
 
 LPs do not invest in communication.
 
-They invest in structure.
+They invest in structure. 
 
-# Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Every institutional decision passes through the stewardship filter.
 
@@ -309,9 +299,9 @@ Fund-III will not compromise this standard.
 
 LPs who partner with us do not receive a portfolio.
 
-They receive a covenant of stewardship.
+They receive a covenant of stewardship. 
 
-# Phase V: .
+### Phase V: .
 
 EXIT The final signal of discipline is a metric, not a statement.
 
@@ -327,7 +317,7 @@ It ends in realized mathematics.
 
 Request a confidential capital audit.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

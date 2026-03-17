@@ -344,7 +344,7 @@ Authority determines who sets terms.
 
 Those who set terms win.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

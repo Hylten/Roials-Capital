@@ -14,13 +14,9 @@ The constraint is structural rather than monetary.
 
 Sovereign regulatory drift, the internal fragmentation of banking systems, and capital friction in legacy correspondent networks have created a new operating landscape.
 
-Allocators aligned with the 2026 regime shift are repositioning their strategies around mobility, verification, and the ability to unlock collateral outside traditional custody silos. 
+Allocators aligned with the 2026 regime shift are repositioning their strategies around mobility, verification, and the ability to unlock collateral outside traditional custody silos.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -68,13 +64,9 @@ This structural gap is where Wealth Mobility architecture has entered the instit
 
 The objective is not speculative trading.
 
-It is the engineering of a cross-border balance sheet that can deploy into Fund-III portfolios with precision and regulatory coherence. 
+It is the engineering of a cross-border balance sheet that can deploy into Fund-III portfolios with precision and regulatory coherence.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -96,7 +88,7 @@ The mechanics are outlined below.
 
 Custodial Integrity 
 
-# Layer I
+### Layer I
 
 nstitutional-grade collateral must reside in a custodial environment with:
 
@@ -234,13 +226,9 @@ This includes:
 
 This includes decline curve modeling, thermal recovery physics, and Alberta basin analysis.
 
-This briefing is focused on M&A and liquidity engineering, but the partnership model maintains continuity across sectors. 
+This briefing is focused on M&A and liquidity engineering, but the partnership model maintains continuity across sectors.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource deployment
+THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource deployment
 
 .
 

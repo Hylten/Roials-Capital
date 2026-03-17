@@ -12,13 +12,9 @@ The gap shows up in second-order effects: subdued recovery projections, muted sp
 
 Order is not an option.
 
-It is the prerequisite for stewardship. 
+It is the prerequisite for stewardship.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -48,13 +44,9 @@ Both fail.
 
 The regime has already changed.
 
-Only those who construct deliberate credit architecture will capture the next decade of acquisitions. 
+Only those who construct deliberate credit architecture will capture the next decade of acquisitions.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -154,11 +146,9 @@ No charisma offsets missing collateral durability.
 
 The entrepreneur who demonstrates mastery of these mechanics enters the institutional credit market with authority.
 
-The one who ignores them becomes dependent on high-coupon lenders who thrive on borrower disorganization. 
+The one who ignores them becomes dependent on high-coupon lenders who thrive on borrower disorganization.
 
- 
-
-## THE
+THE
 
  
 
@@ -248,13 +238,9 @@ It becomes operational through disciplined capital files, uniform underwriting p
 
 Fund-III is not a fund.
 
-It is an operating regime. 
+It is an operating regime.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER The entrepreneur faces a different burden than a fund manager
+THE STEWARDSHIP FILTER The entrepreneur faces a different burden than a fund manager
 
 .
 
@@ -264,9 +250,7 @@ They are stewarding what has been entrusted to them. **Proverbs 13:22
 
 * 
 
-* frames 
-
-## THE MANDAT
+* frames THE MANDAT
 
 E
 
@@ -326,7 +310,7 @@ EXIT Fund-III operators who follow this discipline achieve a singular objective:
 
 Request a confidential capital audit.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

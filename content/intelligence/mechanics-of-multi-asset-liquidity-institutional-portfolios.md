@@ -14,15 +14,11 @@ In this environment, multi asset liquidity is no longer an ancillary portfolio f
 
 It has become a primary determinant of institutional resilience.
 
-The allocator who navigates this regime shift with structural clarity will preserve optionality while enhancing opportunity velocity across Buyouts, Asset-Based Lending, and real asset exposures.
+The allocator who navigates this regime shift with structural clarity will preserve optionality while enhancing opportunity velocity across Buyouts, Asset-Based Lending, and real asset exposures. 
 
-# Phase I: .
+### Phase I: .
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -48,15 +44,11 @@ This is the context in which Kapitalanskaffning for Fund-III vehicles, asset bac
 
 Each category operates under different risk parameters, yet all share one common requirement.
 
-Balance sheet flexibility is the institutional advantage.
+Balance sheet flexibility is the institutional advantage. 
 
-# Phase II: .
+### Phase II: .
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -138,9 +130,7 @@ Key elements include:
 
 - Covenant frameworks tied to operational metrics rather than market indices.
 
-North American Energy Liquidity If 
-
-## THE MANDAT
+North American Energy Liquidity If THE MANDAT
 
 E
 
@@ -152,9 +142,9 @@ E
 
 - Heavy oil cold flow: Lower capex burden with predictable water cuts and manageable lift costs.
 
-These mechanics allow institutional allocators to treat energy assets as long duration cash flow anchors, both collateralized and volumetric, which reinforce the multi asset liquidity matrix.
+These mechanics allow institutional allocators to treat energy assets as long duration cash flow anchors, both collateralized and volumetric, which reinforce the multi asset liquidity matrix. 
 
-# Phase III: .
+### Phase III: .
 
 THE PARTNERSHIP MODEL The role of Roials Capital is to operate as a neutral strategic navigator across these domains.
 
@@ -198,9 +188,9 @@ The intelligence focuses on:
 
 Special Mandates These include NAEO energy acquisitions in the 50M to 250M range and MiFID II compliant European transactions.
 
-In the case of NAEO, the engagement emphasizes technical reservoir intelligence, regulatory clarity, and operational forecasting.
+In the case of NAEO, the engagement emphasizes technical reservoir intelligence, regulatory clarity, and operational forecasting. 
 
-# Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Institutional stewardship is the discipline of non wasteful capital deployment.
 
@@ -224,9 +214,9 @@ In multi asset Asset-Backed Frameworks, stewardship is expressed through five di
 
 Stewardship becomes a structural filter through which the allocator evaluates all opportunities.
 
-It is a recalibration mechanism that ensures the portfolio remains aligned with long horizon objectives.
+It is a recalibration mechanism that ensures the portfolio remains aligned with long horizon objectives. 
 
-# Phase V: .
+### Phase V: .
 
 DECISION MAKING LENS FOR THE ALLOCATOR Institutional allocators operate within a new regime.
 

@@ -16,13 +16,9 @@ It is driven by the operational discipline of mature decline curves, high-certai
 
 The following briefing outlines the structural regime shift shaping institutional capital formation, the mechanics of Alberta’s high-certainty heavy oil systems, the partnership-model architecture applied by Roials Capital, and the stewardship framework that governs capital deployment.
 
-The objective is to equip allocators with a calibration tool for sovereign-grade balance sheet engineering, particularly for Fund-III+ buyouts, energy-backed mandates, and liquidity engineering structures anchored in real operational throughput. 
+The objective is to equip allocators with a calibration tool for sovereign-grade balance sheet engineering, particularly for Fund-III+ buyouts, energy-backed mandates, and liquidity engineering structures anchored in real operational throughput.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -56,13 +52,9 @@ Direct lenders avoid hydrocarbon exposure.
 
 Allocators seeking convexity must therefore pair private credit structures with operational assets that offer measurable deliverability.
 
-This creates the modern architecture for buyouts, ABL frameworks, and energy-secured mandates that can function inside an institutional-grade sovereign balance sheet. 
+This creates the modern architecture for buyouts, ABL frameworks, and energy-secured mandates that can function inside an institutional-grade sovereign balance sheet.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -164,13 +156,9 @@ Roials Capital provides allocators with the contextual intelligence necessary to
 
 This includes decline-curve analysis, thermal efficiency metrics, reservoir mapping logic, and regulatory compliance frameworks across Alberta, Saskatchewan, and British Columbia.
 
-Through this model, Roials Capital supports allocators in constructing sovereign-grade liquidity architecture based on operational assets rather than narratives. 
+Through this model, Roials Capital supports allocators in constructing sovereign-grade liquidity architecture based on operational assets rather than narratives.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Capital stewardship is not a branding concept
+THE STEWARDSHIP FILTER Capital stewardship is not a branding concept
 
 .
 

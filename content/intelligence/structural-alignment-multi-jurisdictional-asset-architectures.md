@@ -12,13 +12,9 @@ Institutional allocators evaluating multi jurisdictional asset strategies have i
 
 Allocators that have historically constrained upstream exposure due to ESG risk weighting are now re calibrating toward asset classes where depletion curves are predictable, decline profiles are modeled over decades, and structural arbitrage remains driven by the gap between cost of capital and the operational discipline embedded within mature basins such as Alberta.
 
-The current environment favors those who treat each jurisdiction as a technical ecosystem rather than a geography, aligning capital deployment with the operational logic of the basin, the legal durability of the security package, and the sequencing of institutional governance across borders. 
+The current environment favors those who treat each jurisdiction as a technical ecosystem rather than a geography, aligning capital deployment with the operational logic of the basin, the legal durability of the security package, and the sequencing of institutional governance across borders.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -40,13 +36,9 @@ Allocators expect predictable LTV trajectories, harmonized cross collateralizati
 
 The confluence of these macro forces has produced a unique environment: institutional capital is abundant, but disciplined, while institutional grade opportunities are available, but require deep technical understanding.
 
-This misalignment produces opportunity for those who can serve as strategic navigators across North America, Europe, and emerging Middle Eastern hubs. 
+This misalignment produces opportunity for those who can serve as strategic navigators across North America, Europe, and emerging Middle Eastern hubs.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -129,13 +121,9 @@ This includes:
 
 - Seniority mapping across legal systems.
 
-- Asset originator transparency. 
+- Asset originator transparency.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship operates as a discipline rather than an ethos
+THE STEWARDSHIP FILTER Stewardship operates as a discipline rather than an ethos
 
 .
 

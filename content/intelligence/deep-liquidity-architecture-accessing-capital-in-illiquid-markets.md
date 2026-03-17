@@ -16,9 +16,9 @@ A smaller cohort, the structurally advantaged cohort, leverages Monetization Arc
 
 ROIALS CAPITAL occupies that structural layer.
 
-We provide private credit and asset based Capital Structuring solutions that unlock liquidity where the traditional system defaults to friction. 
+We provide private credit and asset based Capital Structuring solutions that unlock liquidity where the traditional system defaults to friction.
 
-## Risk Discipline: The Invisible Backbone of Liquidity Liquidity without discipline is volatility
+Risk Discipline: The Invisible Backbone of Liquidity Liquidity without discipline is volatility
 
 .
 
@@ -38,9 +38,9 @@ This includes:
 
 - Custodial integrity across complex asset classes.
 
-Our objective is to ensure that liquidity remains beneficial, not destabilizing. 
+Our objective is to ensure that liquidity remains beneficial, not destabilizing.
 
-## The Advantage of Non Market Dependent Capital Market dependent liquidity is fragile
+The Advantage of Non Market Dependent Capital Market dependent liquidity is fragile
 
 .
 
@@ -64,9 +64,9 @@ Our private credit and asset based Asset-Backed Frameworks structures remain fun
 
 This is why deep liquidity is not only an advantage.
 
-It is a shield. 
+It is a shield.
 
-## Strategic Use Cases for Deep Liquidity HNWI and UHNW clients typically deploy deep liquidity for scenarios such as
+Strategic Use Cases for Deep Liquidity HNWI and UHNW clients typically deploy deep liquidity for scenarios such as
 
 :
 
@@ -84,11 +84,9 @@ It is a shield.
 
 - Solving timing gaps in complex capital stacks.
 
-Each use case benefits from controlled liquidity, not speculative leverage. 
+Each use case benefits from controlled liquidity, not speculative leverage.
 
- 
-
-## CONCLUSIO
+CONCLUSIO
 
 N
 
@@ -108,7 +106,7 @@ ROIALS CAPITAL designs the framework that makes this possible.
 
 If your asset architecture requires liquidity without compromise, request confidential audit.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

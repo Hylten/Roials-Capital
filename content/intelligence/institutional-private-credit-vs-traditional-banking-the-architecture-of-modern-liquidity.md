@@ -22,9 +22,9 @@ This article constructs the frameworks, the deltas, and the implications.
 
 It does not pitch.
 
-It establishes the architecture. 
+It establishes the architecture.
 
-## The Shift: From Bank-Centered Capital to Institutional Private Credit Infrastructure Traditional banks were once the primary arbiters of liquidity
+The Shift: From Bank-Centered Capital to Institutional Private Credit Infrastructure Traditional banks were once the primary arbiters of liquidity
 
 .
 
@@ -54,9 +54,9 @@ Where banks restrict velocity, private credit optimizes it.
 
 This is the core dividing line.
 
-The difference is philosophical, operational, and mechanical. 
+The difference is philosophical, operational, and mechanical.
 
-## Structural Contrast: How Traditional Banks Allocate Capital Banks operate within standardized constraints
+Structural Contrast: How Traditional Banks Allocate Capital Banks operate within standardized constraints
 
 .
 
@@ -94,9 +94,9 @@ Predictable.
 
 Safe.
 
-But structurally constrained. 
+But structurally constrained.
 
-## Institutional Private Credit: The Counter-Architecture Institutional private credit operates on a different axis
+Institutional Private Credit: The Counter-Architecture Institutional private credit operates on a different axis
 
 .
 
@@ -126,9 +126,9 @@ The approach aligns better with HNWI and UHNW capital psychology.
 
 These clients do not require credit in the traditional sense.
 
-They require liquidity architecture. 
+They require liquidity architecture.
 
-## Asset-Based Asset-Backed Frameworks as the Structural Spine Asset-Based Asset-Backed Frameworks, or Asset-Based Lending, forms the operational spine of institutional private credit
+Asset-Based Asset-Backed Frameworks as the Structural Spine Asset-Based Asset-Backed Frameworks, or Asset-Based Lending, forms the operational spine of institutional private credit
 
 .
 
@@ -150,9 +150,9 @@ The thresholds reflect the institutional nature of the architecture:
 
 000 These floors preserve the integrity of institutional underwriting.
 
-They also ensure that the structures remain aligned with the needs of high net worth and ultra high net worth portfolios. 
+They also ensure that the structures remain aligned with the needs of high net worth and ultra high net worth portfolios.
 
-## Why High Net Worth Clients Move Toward Private Credit HNWI and UHNW individuals are not chasing yield
+Why High Net Worth Clients Move Toward Private Credit HNWI and UHNW individuals are not chasing yield
 
 .
 
@@ -191,9 +191,9 @@ Confidentiality is engineered at the foundation Private credit does not operate 
 
 It uses institutional discretion as standard protocol.
 
-HNWI and UHNW clients value this. 
+HNWI and UHNW clients value this.
 
-## The Real Friction: Banks Underwrite People, Private Credit Underwrites Assets This is the central philosophical divergence
+The Real Friction: Banks Underwrite People, Private Credit Underwrites Assets This is the central philosophical divergence
 
 .
 
@@ -219,9 +219,9 @@ If it is sound, capital deploys.
 
 If it is not, no additional paperwork changes the outcome.
 
-This is principal authority in action: simple rules, consistently applied, producing predictable outcomes. 
+This is principal authority in action: simple rules, consistently applied, producing predictable outcomes.
 
-## Where Banks Still Hold Advantage This is not a dismissal of traditional banking
+Where Banks Still Hold Advantage This is not a dismissal of traditional banking
 
 .
 
@@ -237,9 +237,9 @@ Banks excel in:
 
 - integration with domestic financial systems For everyday banking mechanics, banks remain dominant.
 
-For UHNW Institutional Liquidity Paths, they are misaligned. 
+For UHNW Institutional Liquidity Paths, they are misaligned.
 
-## Why the UHNW Sector Is Redefining Liquidity Through Non-Bank Capital The UHNW segment does not operate through necessity-based balance sheet optimization
+Why the UHNW Sector Is Redefining Liquidity Through Non-Bank Capital The UHNW segment does not operate through necessity-based balance sheet optimization
 
 .
 
@@ -259,9 +259,9 @@ These individuals and family offices use capital for:
 
 - tax-timed liquidity Traditional banks are not built for this level of velocity or optionality.
 
-Institutional private credit is. 
+Institutional private credit is.
 
-## How ROIALS CAPITAL Fits Into the Architecture ROIALS CAPITAL positions itself within the private credit ecosystem as a silent structural authority
+How ROIALS CAPITAL Fits Into the Architecture ROIALS CAPITAL positions itself within the private credit ecosystem as a silent structural authority
 
 .
 
@@ -287,9 +287,9 @@ Our frameworks include:
 
 The tone is institutional.
 
-The output is liquidity without noise. 
+The output is liquidity without noise.
 
-## Liquidity as Architecture, Not Product The modern UHNW client no longer asks for a liquidity facility
+Liquidity as Architecture, Not Product The modern UHNW client no longer asks for a liquidity facility
 
 .
 
@@ -307,9 +307,9 @@ Traditional banking does not attempt to answer it.
 
 This is not a critique.
 
-It is a delineation of purpose. 
+It is a delineation of purpose.
 
-## The Future: Parallel Capital Systems The world is moving toward dual liquidity systems
+The Future: Parallel Capital Systems The world is moving toward dual liquidity systems
 
 .
 
@@ -323,11 +323,9 @@ They are parallel.
 
 Those who understand the distinction will unlock the full spectrum of modern liquidity.
 
-Those who do not will continue to run complex portfolios through legacy pipelines that were not designed for them. 
+Those who do not will continue to run complex portfolios through legacy pipelines that were not designed for them.
 
- 
-
-## CONCLUSIO
+CONCLUSIO
 
 N
 
@@ -345,7 +343,7 @@ We lend against assets.
 
 We engineer liquidity for portfolios that require institutional intelligence rather than retail processing.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

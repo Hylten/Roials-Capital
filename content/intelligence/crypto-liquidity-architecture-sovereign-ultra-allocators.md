@@ -16,13 +16,9 @@ That mismatch defines the current regime.
 
 It punishes slow mandates.
 
-It rewards engineered velocity. 
+It rewards engineered velocity.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -52,7 +48,7 @@ Delayed collateral release.
 
 Each 
 
-# Layer C: reated latency
+### Layer C: reated latency
 
 .
 
@@ -96,13 +92,9 @@ They architect systems instead of outsourcing them.
 
 The result is agency.
 
-The result is precision. 
+The result is precision.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -166,7 +158,7 @@ Customer settlement accounts.
 
 Each 
 
-# Step D
+### Step D
 
 efines the routing logic for capital release and capital recall.
 
@@ -206,11 +198,9 @@ Crypto collateral can be staked, lent, hedged, tokenized, or rehypothecated with
 
 The allocator who controls mobility unlocks synthetic liquidity without overextending leverage.
 
-The allocator who ignores mobility pays the opportunity cost of idle capital. 
+The allocator who ignores mobility pays the opportunity cost of idle capital.
 
- 
-
-## THE
+THE
 
  
 
@@ -218,7 +208,7 @@ The allocator who ignores mobility pays the opportunity cost of idle capital.
 
  The Firm builds institutional architecture for Fund-III capital formation.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -302,13 +292,9 @@ Edge is not risk.
 
 Edge is engineered asymmetry.
 
-The Firm builds the asymmetry into the system itself. 
+The Firm builds the asymmetry into the system itself.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Capital is not infinite
+THE STEWARDSHIP FILTER Capital is not infinite
 
 .
 
@@ -386,7 +372,7 @@ Execution certainty at
 
 98 percent fill rate across all routed trades under volatility stress.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

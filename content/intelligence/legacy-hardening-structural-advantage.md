@@ -12,13 +12,9 @@ This single structural fact underpins the institutional rediscovery of hard-asse
 
 Legacy hardening is not a branding phrase.
 
-It is a balance sheet discipline that converts mature, long curve assets into durable multi cycle anchors within an allocator's portfolio architecture. 
+It is a balance sheet discipline that converts mature, long curve assets into durable multi cycle anchors within an allocator's portfolio architecture.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -26,7 +22,7 @@ T
 
 The North American energy ecosystem has entered a multi year efficiency 
 
-# Phase D: riven by underinvestment rather than overproduction
+### Phase D: riven by underinvestment rather than overproduction
 
 .
 
@@ -58,13 +54,9 @@ This realignment is shaping Fund-III strategies.
 
 The allocator class is moving away from abstract yield and into balance sheet optimization anchored in operational intelligence.
 
-Legacy hardening becomes the filter through which mature assets, undercapitalized operators, and multi decade resource bases can be converted into institutional grade structures. 
+Legacy hardening becomes the filter through which mature assets, undercapitalized operators, and multi decade resource bases can be converted into institutional grade structures.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -164,13 +156,9 @@ Special mandates between
 
 50 million USD and 
 
-250 million USD in energy follow a defined due diligence sequence based on reservoir mapping, decline calibration, and cash flow hardening procedures. 
+250 million USD in energy follow a defined due diligence sequence based on reservoir mapping, decline calibration, and cash flow hardening procedures.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Legacy hardening is a stewardship discipline
+THE STEWARDSHIP FILTER Legacy hardening is a stewardship discipline
 
 .
 

@@ -24,13 +24,9 @@ Reconstruct the transmission system.
 
 Install governance that cannot drift.
 
-The next decade will reward the actors who build systems that enforce consistency in a world defined by fiscal entropy. 
+The next decade will reward the actors who build systems that enforce consistency in a world defined by fiscal entropy.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -100,13 +96,9 @@ Fund-III sits directly inside this regime shift.
 
 Buyouts and add-ons backed by hard-collateralized cash flows are the beneficiaries of sovereign retracement.
 
-Sovereigns are losing the competition for strategic assets because their infrastructure no longer transmits capital with sufficient precision. 
+Sovereigns are losing the competition for strategic assets because their infrastructure no longer transmits capital with sufficient precision.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -188,11 +180,9 @@ Yet public markets accept it as standard.
 
 The result is predictable.
 
-Capital flows toward private systems that enforce accountability instead of public systems that obscure risk. 
+Capital flows toward private systems that enforce accountability instead of public systems that obscure risk.
 
- 
-
-## THE
+THE
 
  
 
@@ -204,15 +194,13 @@ The model is straightforward.
 
 Build an architecture where capital moves with precision, assets are acquired with decisiveness, and stewardship is consistent.
 
-The structure divides into three pillars.
+The structure divides into three pillars. 
 
-# Pillar I: Kapitalanskaffning for Fund-III and Fund-IV adjacency
+### Pillar I: Kapitalanskaffning for Fund-III and Fund-IV adjacency
 
 .
 
-Eighty percent of 
-
-## THE MANDAT
+Eighty percent of THE MANDAT
 
 E
 
@@ -228,15 +216,13 @@ GPs want cleaner execution.
 
 Sovereigns want influence without responsibility.
 
-We serve the first two, not the third.
+We serve the first two, not the third. 
 
-# Pillar I: I
+### Pillar I: I
 
 Asset-Backed Frameworks through institutional Asset-Based Lending.
 
-Ten percent of 
-
-## THE MANDAT
+Ten percent of THE MANDAT
 
 E
 
@@ -252,15 +238,13 @@ Asset-Based Lending disallows drift.
 
 It forces precision.
 
-When used inside sovereign-linked ecosystems, it creates a parallel system of discipline that outperforms public credit channels.
+When used inside sovereign-linked ecosystems, it creates a parallel system of discipline that outperforms public credit channels. 
 
-# Pillar III: Special mandates in energy and regulated acquisitions
+### Pillar III: Special mandates in energy and regulated acquisitions
 
 .
 
-Ten percent of 
-
-## THE MANDAT
+Ten percent of THE MANDAT
 
 E
 
@@ -274,13 +258,9 @@ These mandates exist because sovereign capital infrastructure can no longer proc
 
 The regulatory spine remains intact.
 
-The fiscal spine does not. 
+The fiscal spine does not.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is not philosophy
+THE STEWARDSHIP FILTER Stewardship is not philosophy
 
 .
 
@@ -377,7 +357,7 @@ A fund survives on the precision of its governance.
 
 For LPs, family offices, and institutional allocators requiring a confidential capital audit for Fund-III positioning, initiate contact under secure channel.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

@@ -22,13 +22,9 @@ Rigidity destroys return velocity.
 
 Mobility converts national constraints into institutional arbitrage.
 
-ROIALS CAPITAL operates inside that gap. 
+ROIALS CAPITAL operates inside that gap.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -76,13 +72,9 @@ None share the same mobility rules.
 
 Institutional capital raising now requires a multi-regime map.
 
-Fund-III requires mastery of it. 
+Fund-III requires mastery of it.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -92,7 +84,7 @@ S
 
 The Capital Translation Layer This 
 
-# Layer C
+### Layer C
 
 onverts sovereign legal structures into institutional underwriting language.
 
@@ -170,11 +162,9 @@ Not reactive.
 
 The system is designed to avoid courtroom dependence.
 
-This is how institutional discipline is restored. 
+This is how institutional discipline is restored.
 
- 
-
-## THE
+THE
 
  
 
@@ -242,13 +232,9 @@ ROIALS CAPITAL builds proprietary compliance stacks that reduce the cost and tim
 
 We do not optimize for convenience.
 
-We optimize for inevitability. 
+We optimize for inevitability.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Capital is an assignment
+THE STEWARDSHIP FILTER Capital is an assignment
 
 .
 
@@ -292,7 +278,7 @@ EXIT Fund-III targets mobility-adjusted IRR with a minimum cross-border collater
 
 92 days.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

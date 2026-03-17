@@ -14,15 +14,11 @@ The outcome is a market defined by a scarcity of disciplined capital rather than
 
 This is the defining condition that informs all current discussions on alignment, portfolio construction, and the repositioning of private credit within institutional mandates for 2026 to 
 
-2032.
+2032. 
 
-# Phase I: .
+### Phase I: .
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -62,15 +58,11 @@ The pivot from opportunistic yield seeking to balance sheet optimization is meas
 
 The convergence of these forces redefines private credit as a structural market, not a tactical allocation.
 
-It moves the allocator from passive coupon harvesting toward active partnership with GPs capable of engineering liquidity, operational resilience, and disciplined underwriting across sectors.
+It moves the allocator from passive coupon harvesting toward active partnership with GPs capable of engineering liquidity, operational resilience, and disciplined underwriting across sectors. 
 
-# Phase II: .
+### Phase II: .
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -156,9 +148,9 @@ For example, in Alberta heavy oil operations, operational intelligence must inco
 
 Partners such as NAEO address these requirements with institutional grade monitoring systems and operational transparency.
 
-The objective is to create a risk adjusted credit environment around energy assets that is decoupled from the volatility traditionally associated with the commodity cycle.
+The objective is to create a risk adjusted credit environment around energy assets that is decoupled from the volatility traditionally associated with the commodity cycle. 
 
-# Phase III: .
+### Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital operates not as a fund manager but as a strategic navigator, institutional introducer, and architecture designer for allocators.
 
@@ -168,9 +160,7 @@ The partnership model functions on four operational axes:
 
 1.
 
-Kapitalanskaffning for Fund-III and Successor Vehicles Eighty percent of 
-
-## THE MANDAT
+Kapitalanskaffning for Fund-III and Successor Vehicles Eighty percent of THE MANDAT
 
 E
 
@@ -206,9 +196,7 @@ The objective is to help institutions identify managers who deploy capital in a 
 
 3.
 
-Special Mandates across Energy and MiFID II Environments Ten percent of 
-
-## THE MANDAT
+Special Mandates across Energy and MiFID II Environments Ten percent of THE MANDAT
 
 E
 
@@ -236,9 +224,9 @@ Every
 
  is engineered around neutrality and compliance.
 
-The objective is to support institutional decision making by delivering clarity, not persuasion.
+The objective is to support institutional decision making by delivering clarity, not persuasion. 
 
-# Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship is the discipline of resource management anchored in restraint, governance, and accountability.
 
@@ -278,9 +266,9 @@ This includes realistic cash flow assumptions, conservative LTV calculations, an
 
 Long Horizon Asset Responsibility In energy and industrial assets, stewardship extends beyond capital structure to include environmental obligations, operational compliance, and responsible resource extraction.
 
-NAEO exemplifies this through rigorous AER engagement and proactive abandonment liability management.
+NAEO exemplifies this through rigorous AER engagement and proactive abandonment liability management. 
 
-# Phase V: .
+### Phase V: .
 
 DECISION MAKING LENS FOR THE ALLOCATOR The allocator evaluating alignment in the modern private credit environment operates within constraints that demand precision.
 
@@ -318,7 +306,7 @@ The institutional progression from preliminary review to calibrated engagement o
 
 This process allows LPs to evaluate governance structures, credit mechanics, and operational discipline through a controlled and private assessment.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

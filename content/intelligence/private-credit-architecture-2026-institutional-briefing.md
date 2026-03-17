@@ -12,13 +12,9 @@ This dislocation reflects regulatory inertia rather than systemic weakness in un
 
 Institutional allocators now operate in an environment where the most stable credit signals originate from operationally mature sectors with mechanical visibility of cash generation.
 
-Private credit has shifted from a peripheral complement to the primary architecture of corporate liquidity. 
+Private credit has shifted from a peripheral complement to the primary architecture of corporate liquidity.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -72,13 +68,9 @@ Private credit is no longer opportunistic capital.
 
 It is structural capital.
 
-The shift is permanent because the bank withdrawal is not reversible under Basel IV conditions. 
+The shift is permanent because the bank withdrawal is not reversible under Basel IV conditions.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -226,13 +218,9 @@ The partnership model functions without solicitation language.
 
 It is technical architecture design.
 
-Allocators engage because structural clarity reduces execution friction. 
+Allocators engage because structural clarity reduces execution friction.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER AND THE THEOLOGY OF CAPITAL Stewardship in institutional credit is not moral abstraction
+THE STEWARDSHIP FILTER AND THE THEOLOGY OF CAPITAL Stewardship in institutional credit is not moral abstraction
 
 .
 

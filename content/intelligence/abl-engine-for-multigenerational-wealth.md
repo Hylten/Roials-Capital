@@ -24,9 +24,7 @@ Legacy families understood the principle before modern financial engineering gav
 
 * 
 
-* describes 
-
-## THE MANDAT
+* describes THE MANDAT
 
 E
 
@@ -348,13 +346,13 @@ The architecture mandates durability.
 
 The market demands velocity.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
  is clear.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

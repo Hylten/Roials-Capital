@@ -14,13 +14,9 @@ It is within this gap that asset based liquidity engineering operates with repea
 
 The institutional allocator evaluating Fund-III buyout mechanics, European MiFID II acquisition mandates, or North American energy operating companies is navigating the same structural tension.
 
-Capital constraints are no longer driven by asset weakness but by compliance throttling, underwriting rigidity, and the misalignment between real asset durability and legacy credit models. 
+Capital constraints are no longer driven by asset weakness but by compliance throttling, underwriting rigidity, and the misalignment between real asset durability and legacy credit models.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -56,13 +52,9 @@ The allocator is therefore selecting not between asset classes but between struc
 
 The highest reliability assets are operating within the tightest liquidity constraints.
 
-Structural alpha emerges when liquidity engineering realigns these conditions. 
+Structural alpha emerges when liquidity engineering realigns these conditions.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -168,13 +160,9 @@ This creates alignment for institutional LPs who require engineered transparency
 
 For European MiFID II acquisition mandates, Roials Capital provides compliance aligned targeting, reducing diligence cycles.
 
-For private credit allocators, the firm identifies where asset hardening can transform under recognized value into institutional grade collateral. 
+For private credit allocators, the firm identifies where asset hardening can transform under recognized value into institutional grade collateral.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management
+THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management
 
 .
 

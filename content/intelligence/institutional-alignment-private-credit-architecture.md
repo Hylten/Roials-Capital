@@ -36,13 +36,9 @@ Alignment is not philosophical.
 
 Alignment is mechanical.
 
-Correct alignment is the difference between a Fund-III that compounds authority and one that dissolves into administrative noise. 
+Correct alignment is the difference between a Fund-III that compounds authority and one that dissolves into administrative noise.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -88,13 +84,9 @@ But because the architecture itself is insufficient.
 
 You cannot correct misalignment through sentiment.
 
-You correct it through structure. 
+You correct it through structure.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -195,11 +187,9 @@ That delay is not technical.
 
 It is cultural.
 
-A disciplined fund eliminates that delay. 
+A disciplined fund eliminates that delay.
 
- 
-
-## THE
+THE
 
  
 
@@ -287,13 +277,9 @@ They collaborate with it.
 
 If they resist discipline at the term sheet, they will resist discipline at month eighteen.
 
-That is a predictable failure point. 
+That is a predictable failure point.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the governing ethic
+THE STEWARDSHIP FILTER Stewardship is the governing ethic
 
 .
 
@@ -303,9 +289,7 @@ It is a theology of allocation. **Proverbs 13:22
 
 * 
 
-* defines 
-
-## THE MANDAT
+* defines THE MANDAT
 
 E
 
@@ -393,7 +377,7 @@ Anything below
 
 80 percent signals systemic failure.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

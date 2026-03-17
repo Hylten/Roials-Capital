@@ -12,13 +12,9 @@ This same structural distortion is mirrored across private credit, real asset fi
 
 The result is a regime where multi generational wealth is no longer a function of capital accumulation but capital architecture.
 
-In this regime, Asset Based Strategic Collateralization operates as the primary engine for permanence, continuity, and institutional longevity. 
+In this regime, Asset Based Strategic Collateralization operates as the primary engine for permanence, continuity, and institutional longevity.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -66,13 +62,9 @@ They can acquire distressed or mispriced assets during capital shortfalls.
 
 They can maintain operational continuity without forced liquidation.
 
-They can extend planning horizons beyond market cycles. 
+They can extend planning horizons beyond market cycles.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -108,7 +100,7 @@ This transforms the balance sheet from linear to layered.
 
 Each 
 
-# Layer I
+### Layer I
 
 s designed to absorb volatility without impairing the underlying strategic asset.
 
@@ -144,9 +136,9 @@ Applied correctly, Asset-Based Lending-E becomes an operational discipline that 
 
 It is not a product.
 
-It is an architecture.
+It is an architecture. 
 
-# Phase I: I
+### Phase I: I
 
 SUBSET: ENERGY SPECIFIC MECHANICS WITH NAEOCC When applied to the North American conventional energy corridor through NAEOCCC, to which we serve as a strategic partner, Asset-Based Lending-E takes on an additional layer of technical specificity.
 
@@ -216,13 +208,9 @@ The objective is capital architecture.
 
 Well structured capital attracts capital.
 
-Poorly structured capital destroys it. 
+Poorly structured capital destroys it.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the discipline that integrates financial prudence with resource responsibility
+THE STEWARDSHIP FILTER Stewardship is the discipline that integrates financial prudence with resource responsibility
 
 .
 

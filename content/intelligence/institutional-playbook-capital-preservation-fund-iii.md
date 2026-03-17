@@ -120,9 +120,7 @@ Alpha is a bonus.
 
 Preservation is the job.
 
-Kapitalanskaffning-80% of 
-
-## THE MANDAT
+Kapitalanskaffning-80% of THE MANDAT
 
 E
 
@@ -594,7 +592,7 @@ Drift is unacceptable.
 
 Preservation is non-negotiable.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

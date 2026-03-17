@@ -18,15 +18,11 @@ Bureaucracy loses.
 
 We see it clearly because we operate where timing penalties destroy entire mandates.
 
-Order is not an option.
+Order is not an option. 
 
-# Phase I: .
+### Phase I: .
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -128,15 +124,11 @@ At ROIALS CAPITAL, we align with allocators who treat timing as a decisive facto
 
 Delay is waste.
 
-Waste is disqualifying.
+Waste is disqualifying. 
 
-# Phase II: .
+### Phase II: .
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -236,9 +228,7 @@ A NAEOC 50M to 250M energy extraction mandate is treated as a high-intensity dep
 
 You design the mechanics as if the allocator will never tolerate drift.
 
-Breach the operational tempo and 
-
-## THE MANDAT
+Breach the operational tempo and THE MANDAT
 
 E
 
@@ -262,13 +252,11 @@ Institutional self discipline.
 
 Nothing opaque.
 
-Nothing improvisational.
+Nothing improvisational. 
 
-# Phase III: .
+### Phase III: .
 
- 
-
-## THE
+THE
 
  
 
@@ -388,9 +376,9 @@ Drift destroys sovereign confidence.
 
 Focus earns scale commitments.
 
-Scale commitments accelerate everything.
+Scale commitments accelerate everything. 
 
-# Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER When national-level capital is entrusted to a GP, the stewardship burden intensifies.
 
@@ -456,9 +444,9 @@ No drift.
 
 No excuses.
 
-No opacity.
+No opacity. 
 
-# Phase V: .
+### Phase V: .
 
 EXIT Target yield displacement threshold:
 
@@ -466,7 +454,7 @@ EXIT Target yield displacement threshold:
 
 460 basis points above sovereign benchmark curves.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

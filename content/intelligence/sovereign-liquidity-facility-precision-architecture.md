@@ -26,13 +26,9 @@ Cross border settlements shift toward energy indexed benchmarks.
 
 Fund-III must align with this new order because capital formation at scale requires an environment where liquidity is not episodic.
 
-It must be engineered. 
+It must be engineered.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -72,13 +68,9 @@ Inside this regime the sovereign liquidity facility becomes a precision tool.
 
 It is not a rescue instrument.
 
-It is a sequencing instrument that determines national flow continuity. 
+It is a sequencing instrument that determines national flow continuity.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -92,9 +84,9 @@ Hierarchical.
 
 Covenant enforced.
 
-The facility requires five mechanical layers.
+The facility requires five mechanical layers. 
 
-# Layer I: Eligibility Grid The eligible asset pool must be objective
+### Layer I: Eligibility Grid The eligible asset pool must be objective
 
 .
 
@@ -112,9 +104,9 @@ The assets usually include:
 
 - Tax corridor assignments with predefined variability bands The grid defines the first discipline.
 
-If it is not measurable at a weekly frequency, it is not admissible.
+If it is not measurable at a weekly frequency, it is not admissible. 
 
-# Layer I: I
+### Layer I: I
 
 Priority-of-Claim Waterfall Liquidity must be sequenced through a priority stack:
 
@@ -124,9 +116,9 @@ Priority-of-Claim Waterfall Liquidity must be sequenced through a priority stack
 
 - Residual tranche feeding government operations The waterfall removes fiscal entropy.
 
-It establishes certainty for lenders and ensures the sovereign does not cannibalize its own future liquidity.
+It establishes certainty for lenders and ensures the sovereign does not cannibalize its own future liquidity. 
 
-# Layer II: I
+### Layer II: I
 
 LTV Curves and Risk Hardening Traditional sovereign facilities use flat LTV tables.
 
@@ -144,9 +136,9 @@ Hardening techniques include:
 
 - Time segmented collateral rebalancing
 
-- Volatility indexed advance rates
+- Volatility indexed advance rates 
 
-# Layer I: V
+### Layer I: V
 
 Recovery Mechanics Institutional recovery must be deterministic.
 
@@ -162,9 +154,9 @@ Recovery channels often include:
 
 - Offshore collection accounts subject to quarterly reconciliation Facilities without defined recovery structures evolve into political liabilities.
 
-Facilities with explicit recovery mechanics evolve into institutional assets.
+Facilities with explicit recovery mechanics evolve into institutional assets. 
 
-# Layer V
+### Layer V
 
 Liquidity Replenishment Algorithm A sovereign must replenish.
 
@@ -172,11 +164,9 @@ The facility must not be a drain.
 
 A weekly replenishment mechanism tied to predictable exports or indexed revenue bands stabilizes the facility and protects Fund-III lender profiles.
 
-This transforms sovereign liquidity from episodic to structural. 
+This transforms sovereign liquidity from episodic to structural.
 
- 
-
-## THE
+THE
 
  
 
@@ -232,13 +222,9 @@ NAEOC mandates in the 50M to 250M range benefit from sovereign stability because
 
 - Cross border energy trades require settlement certainty Sovereign liquidity facilities remove noise.
 
-They allow the special mandate division to operate without politicized interruptions. 
+They allow the special mandate division to operate without politicized interruptions.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER A sovereign facility must reflect stewardship
+THE STEWARDSHIP FILTER A sovereign facility must reflect stewardship
 
 .
 
@@ -296,7 +282,7 @@ The final discipline is simple: a sovereign facility must maintain a minimum 1.
 
 Request a confidential capital audit.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

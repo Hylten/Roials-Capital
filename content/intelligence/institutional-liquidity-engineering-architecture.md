@@ -12,13 +12,9 @@ In this regime, the allocator with advanced liquidity architecture secures asymm
 
 The modern market environment rewards precision in capital formation, not scale.
 
-Liquidity engineered strategically can redefine asset longevity, accelerate acquisition cycles, and compress financing frictions across sectors. 
+Liquidity engineered strategically can redefine asset longevity, accelerate acquisition cycles, and compress financing frictions across sectors.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -58,13 +54,9 @@ These four forces collectively define the current regime.
 
 They establish a macro environment where liquidity is no longer a commodity but a strategic asset.
 
-Balance sheet optimization, collateral sequencing, and cash flow hardening become essential disciplines for allocators seeking to maintain allocation velocity without exposing themselves to amplified risk dynamics. 
+Balance sheet optimization, collateral sequencing, and cash flow hardening become essential disciplines for allocators seeking to maintain allocation velocity without exposing themselves to amplified risk dynamics.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -78,7 +70,7 @@ Several technical components define institutional grade liquidity architecture.
 
 Collateral Calibration The initial 
 
-# Step I
+### Step I
 
 s the classification and tiering of collateral based on tradability, valuation integrity, and compression sensitivity.
 
@@ -138,7 +130,7 @@ For Fund-III+ managers operating in buyout and add on environments, the ability 
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator within this liquidity environment.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -162,9 +154,7 @@ The value lies in compressing fundraising friction, establishing alignment with 
 
 Monetization Architecture for High Value Assets Roughly 
 
-10 percent of 
-
-## THE MANDAT
+10 percent of THE MANDAT
 
 E
 
@@ -186,13 +176,9 @@ These assets provide predictable operational physics that align with institution
 
 Roials Capital positions itself as the strategist, not the asset owner.
 
-The focus is governance, precision, and structural integrity. 
+The focus is governance, precision, and structural integrity.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the discipline of deploying capital without waste
+THE STEWARDSHIP FILTER Stewardship is the discipline of deploying capital without waste
 
 .
 

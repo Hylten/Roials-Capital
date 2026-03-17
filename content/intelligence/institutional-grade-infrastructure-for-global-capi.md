@@ -26,9 +26,9 @@ Not the vendor’s.
 
 Not the advisor’s.
 
-The Principal. 
+The Principal.
 
-## The Institutional Mandate Every mandate above the $50M threshold orbits the same triad
+The Institutional Mandate Every mandate above the $50M threshold orbits the same triad
 
 .
 
@@ -52,9 +52,9 @@ Infrastructure must be proven before leverage is issued.
 
 Execution must show covenant stewardship before scale is granted.
 
-This is the structural alignment Roials Capital was designed around. 
+This is the structural alignment Roials Capital was designed around.
 
-## Asset Hardening as Core Infrastructure Asset hardening is not cosmetic
+Asset Hardening as Core Infrastructure Asset hardening is not cosmetic
 
 .
 
@@ -84,15 +84,15 @@ Asset hardening is built on five structural pillars.
 
 - Failure containment Each 
 
-# Pillar C: onverts operational entropy into institutional clarity
+### Pillar C: onverts operational entropy into institutional clarity
 
 .
 
 This is what transforms a venture-grade asset into an institutional-grade one.
 
-Nothing else qualifies. 
+Nothing else qualifies.
 
-## Covenant Stewardship Covenant stewardship is the posture that distinguishes Principals from operators
+Covenant Stewardship Covenant stewardship is the posture that distinguishes Principals from operators
 
 .
 
@@ -124,9 +124,9 @@ Stewards scale.
 
 Stewards preserve.
 
-Stewards deliver. 
+Stewards deliver.
 
-## Execution Velocity Execution velocity is not speed
+Execution Velocity Execution velocity is not speed
 
 .
 
@@ -150,9 +150,9 @@ Velocity is the ability to:
 
 Velocity is a covenant between insight and action.
 
-Nothing else qualifies. 
+Nothing else qualifies.
 
-## The Global Capital Market in 2026 We stand inside a $21B plus shift in private credit structuring, cross border liquidity, and asset backed instrument design
+The Global Capital Market in 2026 We stand inside a $21B plus shift in private credit structuring, cross border liquidity, and asset backed instrument design
 
 .
 
@@ -188,9 +188,9 @@ Those with it inherit flows.
 
 This is not a trend.
 
-This is a structural correction. 
+This is a structural correction.
 
-## Institutional-Grade Infrastructure Defined Institutional-grade is not polish
+Institutional-Grade Infrastructure Defined Institutional-grade is not polish
 
 .
 
@@ -263,9 +263,9 @@ It turns market data into actionable sequence.
 
 It removes the lag between signal and move.
 
-It compresses time loss. 
+It compresses time loss.
 
-## Global Capital Mechanics and Institutional Alignment The modern allocator seeks one outcome
+Global Capital Mechanics and Institutional Alignment The modern allocator seeks one outcome
 
 .
 
@@ -293,9 +293,9 @@ It requires:
 
 - Predictable liquidity pathways Once alignment is achieved, scale becomes linear.
 
-Without alignment, scale becomes impossible. 
+Without alignment, scale becomes impossible.
 
-## Roials Capital Infrastructure Philosophy Roials Capital does not operate as a vendor
+Roials Capital Infrastructure Philosophy Roials Capital does not operate as a vendor
 
 .
 
@@ -325,13 +325,13 @@ Our protocols are designed for HNWI, UHNW, and Fund-III plus allocators that req
 
 - Covenant compliant management Our infrastructure does not chase trends.
 
-It neutralizes volatility. 
+It neutralizes volatility.
 
-## Framework for Asset Hardening in Modern Markets The framework operates on four sequential layers
+Framework for Asset Hardening in Modern Markets The framework operates on four sequential layers
 
-.
+. 
 
-# Layer I: .
+### Layer I: .
 
 Verification Identity.
 
@@ -339,9 +339,9 @@ Assets.
 
 Lineage.
 
-No velocity until verification is absolute.
+No velocity until verification is absolute. 
 
-# Layer II: .
+### Layer II: .
 
 Structural Order Corporate architecture.
 
@@ -349,9 +349,9 @@ Cashflow alignment.
 
 Governance coherency.
 
-Without structural order, no mandate can anchor.
+Without structural order, no mandate can anchor. 
 
-# Layer III: .
+### Layer III: .
 
 Capital Enablement Liquidity lines.
 
@@ -361,15 +361,15 @@ Counterparty sequencing.
 
 Enablement is not activation.
 
-It is readiness.
+It is readiness. 
 
-# Layer IV: .
+### Layer IV: .
 
 Institutional Scaling Once hardened, scale becomes mechanical.
 
-Not speculative. 
+Not speculative.
 
-## Why Institutions Require Principal Posture Institutions do not transact with operators
+Why Institutions Require Principal Posture Institutions do not transact with operators
 
 .
 
@@ -399,9 +399,9 @@ Principal posture is defined by:
 
 - Control over infrastructure The Principal is not looking for approval.
 
-The Principal is preparing for scale. 
+The Principal is preparing for scale.
 
-## The Role of Christian Conservative Stewardship in Capital Architecture Markets cycle
+The Role of Christian Conservative Stewardship in Capital Architecture Markets cycle
 
 .
 
@@ -425,13 +425,13 @@ Stewardship increases predictability.
 
 Stewardship creates continuity that investors trust.
 
-This is why covenant aligned enterprises outperform speculative entities in every historical cycle. 
+This is why covenant aligned enterprises outperform speculative entities in every historical cycle.
 
-## Operational White Space for Global Capital Allocation The capital market in 2026 contains structural white space
+Operational White Space for Global Capital Allocation The capital market in 2026 contains structural white space
 
 .
 
-## Zone
+Zone
 
  
 
@@ -443,7 +443,7 @@ Private credit is absorbing the overflow.
 
 This creates underwriting opportunity for prepared Principals.
 
-## Zone
+Zone
 
  
 
@@ -461,7 +461,7 @@ Thresholds remain:
 
 - 5M minimum for public shares These thresholds shape the counterparty universe into a more disciplined domain.
 
-## Zone
+Zone
 
  
 
@@ -471,9 +471,9 @@ Family Office Consolidation Multi generational families are restructuring portfo
 
 This creates demand for hardened structures, custodial clarity, and governance continuity.
 
-Roials Capital is architected for this environment. 
+Roials Capital is architected for this environment.
 
-## Structural Readiness as Competitive Advantage Readiness is the modern arbitrage
+Structural Readiness as Competitive Advantage Readiness is the modern arbitrage
 
 .
 
@@ -497,9 +497,9 @@ To be ready means:
 
 - Intelligence is active
 
-- Execution is verified Once readiness is achieved, the market opens. 
+- Execution is verified Once readiness is achieved, the market opens.
 
-## The Spirit of Gnosjö The Spirit of Gnosjö is operational covenant
+The Spirit of Gnosjö The Spirit of Gnosjö is operational covenant
 
 .
 
@@ -517,9 +517,9 @@ It produces:
 
 Allocators recognize this.
 
-They reward it. 
+They reward it.
 
-## The Institutional Future The market is entering a stage where global allocators demand hardened, vertically integrated, and covenant aligned structures
+The Institutional Future The market is entering a stage where global allocators demand hardened, vertically integrated, and covenant aligned structures
 
 .
 
@@ -541,11 +541,9 @@ It is getting clearer.
 
 Those with infrastructure will inherit scale.
 
-Those without will exit the domain. 
+Those without will exit the domain.
 
- 
-
-## CONCLUSIO
+CONCLUSIO
 
 N
 
@@ -569,7 +567,7 @@ Only structure.
 
 Request confidential audit.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

@@ -24,13 +24,9 @@ This briefing outlines the institutional architecture of protecting multi genera
 
 The objective is not to promote any specific vehicle.
 
-The objective is to clarify the structural mechanics so that allocators, family governance boards, and private office principals can navigate the next decade of digital asset oversight with discipline. 
+The objective is to clarify the structural mechanics so that allocators, family governance boards, and private office principals can navigate the next decade of digital asset oversight with discipline.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -42,7 +38,7 @@ Digital assets evolved outside this harmonization.
 
 The asset class is now entering a consolidation 
 
-# Phase D: riven by three macro forces
+### Phase D: riven by three macro forces
 
 .
 
@@ -78,13 +74,9 @@ When the Alberta heavy oil market transitioned from speculative land plays to en
 
 A similar transformation is occurring in digital custody.
 
-Asset control is shifting from individual technical operators to regulated, operationally redundant institutional custodians. 
+Asset control is shifting from individual technical operators to regulated, operationally redundant institutional custodians.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -182,13 +174,9 @@ Cross functional integration Digital custody does not operate in isolation.
 
 It interacts with private credit structures, Asset-Based Lending lines, cross border tax architecture, and trust frameworks.
 
-Roials Capital supports alignment across these disciplines to prevent structural conflicts and maintain operational continuity. 
+Roials Capital supports alignment across these disciplines to prevent structural conflicts and maintain operational continuity.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is a discipline rooted in non wasteful management of entrusted capital
+THE STEWARDSHIP FILTER Stewardship is a discipline rooted in non wasteful management of entrusted capital
 
 .
 

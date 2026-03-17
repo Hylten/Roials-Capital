@@ -16,15 +16,11 @@ Risk mitigation is now a function of structural design, not sentiment management
 
 This briefing outlines the stability mechanics within sovereign and quasi sovereign asset structures.
 
-The intention is to provide institutional allocators, UHNW family offices, and GP level strategists with a clinical view of how risk is shaped, reduced, and redistributed in Fund-III buyout pathways, liquidity engineering mandates, and North American energy operating corridors through our strategic partner NAEO.
+The intention is to provide institutional allocators, UHNW family offices, and GP level strategists with a clinical view of how risk is shaped, reduced, and redistributed in Fund-III buyout pathways, liquidity engineering mandates, and North American energy operating corridors through our strategic partner NAEO. 
 
-# Phase I: .
+### Phase I: .
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -58,23 +54,17 @@ Fund-III capital programs are increasingly weighted toward buyouts and disciplin
 
 Replacement cost has risen faster than sale multiples in several jurisdictions, particularly across the Nordics, DACH, and select US secondary markets.
 
-This creates intrinsic downside protection when executed with balance sheet optimization and asset hardening principles.
+This creates intrinsic downside protection when executed with balance sheet optimization and asset hardening principles. 
 
-# Phase II: .
+### Phase II: .
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
  Risk mitigation within sovereign grade or sovereign adjacent asset structures is achieved through several layered mechanisms.
 
-These mechanisms vary depending on 
-
-## THE MANDAT
+These mechanisms vary depending on THE MANDAT
 
 E
 
@@ -164,9 +154,9 @@ Stability in the energy mandate is therefore engineered through technical recove
 
 This is why our strategic partner NAEO is positioned as an institutional grade operator for mandates between 50M and 250M.
 
-The relationship provides allocators with operational intelligence, not commodity exposure.
+The relationship provides allocators with operational intelligence, not commodity exposure. 
 
-# Phase III: .
+### Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator and institutional
 
@@ -192,9 +182,9 @@ NAEO provides the subsurface intelligence and field execution.
 
 Roials Capital provides the macro navigation and institutional match making.
 
-This partnership model creates risk transparency across the entire decision chain.
+This partnership model creates risk transparency across the entire decision chain. 
 
-# Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship is a discipline that treats capital as a resource to be managed, not consumed.
 
@@ -222,9 +212,9 @@ Balance Sheet Integrity Operating companies are structured to survive volatility
 
 Asset Hardening Real assets are strengthened against macro shocks through operational improvements, reserve policies, and technological enhancements.
 
-The stewardship filter functions as an internal audit mechanism that ensures all allocations have institutional durability rather than narrative fragility.
+The stewardship filter functions as an internal audit mechanism that ensures all allocations have institutional durability rather than narrative fragility. 
 
-# Phase V: .
+### Phase V: .
 
 THE
 

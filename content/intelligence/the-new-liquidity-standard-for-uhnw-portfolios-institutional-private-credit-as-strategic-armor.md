@@ -32,35 +32,35 @@ Independent of market sentiment.
 
 Uncorrelated to volatility events.
 
-Calibrated to the real liquidity needs of UHNW portfolios that operate across jurisdictions, cycles, and legacy timelines. 
+Calibrated to the real liquidity needs of UHNW portfolios that operate across jurisdictions, cycles, and legacy timelines.
 
-## The Strategic Advantages for UHNW Families Institutional private credit, when architected as the liquidity base layer, creates compounding advantages across the entire portfolio
+The Strategic Advantages for UHNW Families Institutional private credit, when architected as the liquidity base layer, creates compounding advantages across the entire portfolio
 
 .
 
-## Reduced Portfolio Stress Correlation Liquidity is not sourced from markets that move
+Reduced Portfolio Stress Correlation Liquidity is not sourced from markets that move
 
 .
 
 It is sourced from contracts that perform.
 
-## Improved Intergenerational Stability Family governance frameworks gain stability when liquidity is predictable
+Improved Intergenerational Stability Family governance frameworks gain stability when liquidity is predictable
 
 .
 
 This reduces forced asset sales and preserves legacy assets.
 
-## Enhanced Opportunity Readiness When liquidity is engineered, opportunities can be captured without compromising long term strategy
+Enhanced Opportunity Readiness When liquidity is engineered, opportunities can be captured without compromising long term strategy
 
 .
 
-## Lower Total Portfolio Volatility Liquidity failures are one of the primary drivers of hidden portfolio volatility
+Lower Total Portfolio Volatility Liquidity failures are one of the primary drivers of hidden portfolio volatility
 
 .
 
-Eliminating them reduces systemic risk across every asset class. 
+Eliminating them reduces systemic risk across every asset class.
 
-## The New Liquidity Standard: A Structural
+The New Liquidity Standard: A Structural
 
  
 
@@ -88,9 +88,7 @@ A system that performs.
 
 A system that endures.
 
-Request confidential audit
-
-## TECHNICAL MANDATE Qualification Gates strictly observed
+Request confidential audit TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

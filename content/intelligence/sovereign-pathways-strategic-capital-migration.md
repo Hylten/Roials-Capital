@@ -76,7 +76,7 @@ The lens is ROIALS CAPITAL.
 
 The tone is principal.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -542,9 +542,9 @@ Structure without sovereignty is fragility.
 
 Sovereignty without migration is incomplete.
 
-This is the missing layer for UHNW principals who generate wealth but fail to institutionalize it. 
+This is the missing layer for UHNW principals who generate wealth but fail to institutionalize it.
 
-## ROIALS CAPITAL operates at the intersection of buyout capital raising, Institutional Liquidity Paths, and sector-specific mandates
+ROIALS CAPITAL operates at the intersection of buyout capital raising, Institutional Liquidity Paths, and sector-specific mandates
 
 .
 
@@ -582,15 +582,13 @@ This is the elite tier of capital.
 
 This is the architecture of longevity.
 
-This is 
-
-## THE MANDAT
+This is THE MANDAT
 
 E
 
 .
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

@@ -30,13 +30,9 @@ UHNWIs have learned that mobility is a protection layer.
 
 Private credit has not caught up.
 
-That gap is where superior returns are found. 
+That gap is where superior returns are found.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -86,13 +82,9 @@ Mobility creates optionality.
 
 Optionality creates acquisition advantage.
 
-In a tightening-rate environment, advantage compounds faster than cost of capital. 
+In a tightening-rate environment, advantage compounds faster than cost of capital.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -162,11 +154,9 @@ It is the superior recovery factor.
 
 That is the foundation of institutional credit.
 
-That is why crypto collateral belongs in the M&A leverage stack. 
+That is why crypto collateral belongs in the M&A leverage stack.
 
- 
-
-## THE
+THE
 
  
 
@@ -230,13 +220,9 @@ The strategic advantage is structural.
 
 The market has not yet priced it.
 
-That is the window. 
+That is the window.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Wealth must move without waste
+THE STEWARDSHIP FILTER Wealth must move without waste
 
 .
 
@@ -279,7 +265,7 @@ EXIT Fund-III institutional operations require a single invariant metric: mainta
 
 Request a confidential capital audit.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

@@ -12,15 +12,11 @@ Sovereign allocators, pensions, and UHNW family institutions are simultaneously 
 
 This creates a highly specific opening for Fund-III managers who can deploy an engineered balance sheet rather than relying on conventional capital pools.
 
-The result is a new Institutional Archetype: the sovereign-aligned private equity platform that treats liquidity as a strategic resource rather than a commodity.
+The result is a new Institutional Archetype: the sovereign-aligned private equity platform that treats liquidity as a strategic resource rather than a commodity. 
 
-# Phase I: .
+### Phase I: .
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -58,15 +54,11 @@ Fund-III platforms must demonstrate structural clarity, multi-jurisdiction compl
 
 Allocators no longer reward opportunism.
 
-They reward predictability, technical governance, and institutional maturity.
+They reward predictability, technical governance, and institutional maturity. 
 
-# Phase II: .
+### Phase II: .
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -134,9 +126,9 @@ This aligns with **Proverbs 13:22
 
 * 
 
-* as a principle of intergenerational capital stewardship.
+* as a principle of intergenerational capital stewardship. 
 
-# Phase III: .
+### Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator rather than a GP substitute.
 
@@ -164,9 +156,9 @@ For all other mandates, the positioning remains strictly in the introducer domai
 
 The objective is not solicitation.
 
-It is structural clarity.
+It is structural clarity. 
 
-# Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Stewardship is defined as the efficient deployment of capital without waste.
 
@@ -196,9 +188,9 @@ This structure aligns with a moral framework grounded in the theology of capital
 
 Stewardship is not an abstraction.
 
-It is an operational discipline.
+It is an operational discipline. 
 
-# Phase V: .
+### Phase V: .
 
 DECISION-MAKING LENS FOR ALLOCATORS Institutional allocators evaluating Fund-III platforms require a filter that isolates engineering maturity from narrative positioning.
 

@@ -75,15 +75,15 @@ Architecture of Control Control is not ownership.
 
 Control is the capacity to reposition assets without friction.
 
-## Structural Control Entity architecture that establishes clear dominion
+Structural Control Entity architecture that establishes clear dominion
 
 .
 
-## Custodial Control Secure allocation of assets within audited environments
+Custodial Control Secure allocation of assets within audited environments
 
 .
 
-## Mobility Control Pre-negotiated corridors that activate on command
+Mobility Control Pre-negotiated corridors that activate on command
 
 .
 
@@ -106,15 +106,13 @@ This creates dynastic continuity through:
 
 - disciplined cash-flow routing
 
-- principled capital allocation The architecture ensures that credit mobility never violates 
-
-## THE MANDAT
+- principled capital allocation The architecture ensures that credit mobility never violates THE MANDAT
 
 E
 
 .
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -162,7 +160,7 @@ It is the highest form of liquidity governance available to private actors.
 
 - Request confidential audit.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

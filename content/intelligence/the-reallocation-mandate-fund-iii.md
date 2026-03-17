@@ -24,7 +24,7 @@ The principal view is simple: reallocate or be reallocated. **Proverbs 13:22
 
 * states: A good man leaves an inheritance to his children's children: but the wealth of the sinner is laid up for the just.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -56,7 +56,7 @@ GPs require acceleration, external ballast, and execution partners with sovereig
 
 ROIALS CAPITAL builds the spine.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -450,7 +450,7 @@ Timing is narrow.
 
 Movement must be immediate.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -602,7 +602,7 @@ Precision wins.
 
 Sovereign structuring wins.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -624,7 +624,7 @@ Target throughput ratio: 1.82x within
 
 12 months.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

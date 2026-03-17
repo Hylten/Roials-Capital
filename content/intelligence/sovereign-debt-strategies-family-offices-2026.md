@@ -12,13 +12,9 @@ The 2026 regime presents a paradox: nominal yields signal normalization while ba
 
 Family offices that traditionally treated sovereign exposure as a passive ballast are now encountering a fundamentally different risk geometry.
 
-This briefing outlines a clinical, institutional framework for how UHNW family offices are restructuring sovereign allocations to enhance liquidity architecture, reinforce duration discipline, and create a dynamic interface between sovereign debt and private market deployment, particularly ahead of Fund-III commitments, acquisition-oriented private credit, and European MiFID II governed mandates. 
+This briefing outlines a clinical, institutional framework for how UHNW family offices are restructuring sovereign allocations to enhance liquidity architecture, reinforce duration discipline, and create a dynamic interface between sovereign debt and private market deployment, particularly ahead of Fund-III commitments, acquisition-oriented private credit, and European MiFID II governed mandates.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -50,13 +46,9 @@ The current regime reclassifies sovereign debt into functional categories:
 
 Family offices that navigate this regime shift with discipline avoid the historic error of treating sovereigns as a binary choice.
 
-Instead, they integrate sovereign exposure directly into their capital rotation model, creating fluidity between safe collateral and higher return private allocations without violating prudential boundaries. 
+Instead, they integrate sovereign exposure directly into their capital rotation model, creating fluidity between safe collateral and higher return private allocations without violating prudential boundaries.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -161,13 +153,9 @@ For energy allocators, particularly those evaluating the Alberta heavy oil corri
 
 They provide stability while conducting technical due diligence on SAGD, CSS, reservoir characteristics, decline curves, and facility uptime.
 
-This sequencing protects capital integrity while enabling data driven decision making in operationally intensive environments. 
+This sequencing protects capital integrity while enabling data driven decision making in operationally intensive environments.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Sovereign debt allocation is not merely an economic decision
+THE STEWARDSHIP FILTER Sovereign debt allocation is not merely an economic decision
 
 .
 

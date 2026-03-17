@@ -10,13 +10,9 @@ The capital vacuum across North American and European lower mid market operators
 
 The current environment rewards allocators who understand that structural alpha is increasingly generated through balance sheet architecture rather than traditional equity selection.
 
-Engineered reliability inside Asset Based Liquidity Engineering has become one of the few persistent sources of non correlated value creation because it converts operational certainty into institutional grade optionality. 
+Engineered reliability inside Asset Based Liquidity Engineering has become one of the few persistent sources of non correlated value creation because it converts operational certainty into institutional grade optionality.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -48,13 +44,9 @@ The inefficiency is structural because it originates from policy constraints rat
 
 Capital scarcity is incorrectly interpreted as risk.
 
-The disconnect creates an opportunity for disciplined liquidity engineers who can transform constrained balance sheets into hardened institutional grade assets. 
+The disconnect creates an opportunity for disciplined liquidity engineers who can transform constrained balance sheets into hardened institutional grade assets.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -140,13 +132,13 @@ This is why many European and Middle Eastern allocators have begun shifting from
 
 THE PARTNERSHIP MODEL Roials Capital functions as a strategic navigator within this landscape.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
  is not to lend, operate, or manage external assets.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -184,13 +176,9 @@ The emphasis is on intelligence transfer, partner suitability, and operational c
 
 When energy is involved, NAEO serves as the institutional grade partner because of their technical specialization, predictable field operations, and disciplined recovery engineering.
 
-When the focus is Fund-III buyouts or European mandates, introductions focus on operators with demonstrated stewardship and measurable value conversion discipline. 
+When the focus is Fund-III buyouts or European mandates, introductions focus on operators with demonstrated stewardship and measurable value conversion discipline.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is not a moral abstraction
+THE STEWARDSHIP FILTER Stewardship is not a moral abstraction
 
 .
 

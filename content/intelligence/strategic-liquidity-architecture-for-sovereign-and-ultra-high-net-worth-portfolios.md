@@ -30,9 +30,9 @@ We convert dormant positioning into functional liquidity.
 
 This article outlines the mechanics, the posture, and the strategic thesis behind liquidity structuring for sovereign scale portfolios.
 
-It is written in an institutional tone because the audience is institutional. 
+It is written in an institutional tone because the audience is institutional.
 
-## The Strategic Benefit to Sovereign Decision Makers When liquidity becomes predictable, strategy becomes clearer
+The Strategic Benefit to Sovereign Decision Makers When liquidity becomes predictable, strategy becomes clearer
 
 .
 
@@ -50,9 +50,9 @@ Decision makers gain:
 
 - Control over the pace of capital rotation This is the architecture layer.
 
-It is the layer that sovereign and UHNW portfolios require. 
+It is the layer that sovereign and UHNW portfolios require.
 
-## Why ROIALS CAPITAL Operates at This Level Our thresholds are deliberate
+Why ROIALS CAPITAL Operates at This Level Our thresholds are deliberate
 
 .
 
@@ -68,11 +68,9 @@ We operate for HNWI and UHNW individuals because they understand that liquidity 
 
 We maintain principal authority because real capital does not require noise.
 
-It requires architecture. 
+It requires architecture.
 
- 
-
-## CONCLUSIO
+CONCLUSIO
 
 N
 
@@ -92,7 +90,7 @@ Deliberately.
 
 At scale.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

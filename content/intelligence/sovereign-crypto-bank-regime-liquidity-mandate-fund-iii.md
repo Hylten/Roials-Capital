@@ -72,9 +72,9 @@ The goal is not decentralization.
 
 The goal is sovereign control.
 
-And Fund‑III demands nothing less. 
+And Fund‑III demands nothing less.
 
-## THE SOVEREIGN BANK ARCHITECTURE The architecture begins with custody
+THE SOVEREIGN BANK ARCHITECTURE The architecture begins with custody
 
 .
 
@@ -132,9 +132,9 @@ GP survival depends on structural liquidity, not opportunistic liquidity.
 
 The sovereign crypto bank regime converts liquidity from a constraint into a capability.
 
-And that capability changes everything. 
+And that capability changes everything.
 
-## THE Fund-III LIQUIDITY MANDATE Fund‑III is buyout‑driven
+THE Fund-III LIQUIDITY MANDATE Fund‑III is buyout‑driven
 
 .
 
@@ -174,9 +174,7 @@ It needs a bank capable of:
 
 - Tokenizing Asset-Based Lending structures for rapid redeployment
 
-- Offering cross-jurisdiction settlement that stays inside regulatory boundaries Kapitalanskaffning is 80% of 
-
-## THE MANDAT
+- Offering cross-jurisdiction settlement that stays inside regulatory boundaries Kapitalanskaffning is 80% of THE MANDAT
 
 E
 
@@ -184,9 +182,9 @@ E
 
 Without upstream formation, downstream execution collapses.
 
-Fund‑III must raise capital like a sovereign, not like a startup GP. 
+Fund‑III must raise capital like a sovereign, not like a startup GP.
 
-## THE CAPITAL FORMATION RAILS (80% MANDATE) Institutional LPs respond to infrastructure, not pitch decks
+THE CAPITAL FORMATION RAILS (80% MANDATE) Institutional LPs respond to infrastructure, not pitch decks
 
 .
 
@@ -278,9 +276,9 @@ When engineered properly, it reduces cash burn, extends runway, and shifts risk 
 
 The sovereign crypto bank integrates Asset-Based Lending into its balance sheet mechanics, creating a seamless loop between operational assets and deal liquidity.
 
-Asset-Based Lending becomes the shock absorber for Fund‑III execution. 
+Asset-Based Lending becomes the shock absorber for Fund‑III execution.
 
-## SPECIAL MANDATES (10% MANDATE) Three lanes matter:
+SPECIAL MANDATES (10% MANDATE) Three lanes matter:
 
  
 
@@ -320,9 +318,9 @@ Fund‑III can offer structured credit products backed by real collateral, real 
 
 Tokenization accelerates settlement, not risk.
 
-Together these mandates form the outer perimeter of Fund‑III’s liquidity system. 
+Together these mandates form the outer perimeter of Fund‑III’s liquidity system.
 
-## THE SOVEREIGN REGIME: STRUCTURAL LOGIC A sovereign crypto bank functions like an institutional citadel
+THE SOVEREIGN REGIME: STRUCTURAL LOGIC A sovereign crypto bank functions like an institutional citadel
 
 :
 
@@ -386,9 +384,9 @@ Close the acquisitions.
 
 Scale the add-ons.
 
-Prepare for Fund-IV. 
+Prepare for Fund-IV.
 
-## THE REGIME IN PRACTICE Machine gun sentences
+THE REGIME IN PRACTICE Machine gun sentences
 
 .
 
@@ -446,17 +444,9 @@ This is inheritance. **Proverbs 13:22
 
 * 
 
-* . 
+* .
 
-## MANDATE
-
- 
-
- 
-
- 
-
-## CONCLUSIO
+MANDATE CONCLUSIO
 
 N
 
@@ -468,7 +458,7 @@ Capital formation defines survival.
 
 Execution defines legacy.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

@@ -452,7 +452,7 @@ The corridor is open.
 
 The terms are fixed.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

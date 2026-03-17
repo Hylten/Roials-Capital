@@ -18,15 +18,11 @@ The focus is not on promotion or yield language.
 
 The focus is structural.
 
-The objective is to provide the institutional reader with a framework for understanding market navigation, technical recovery mechanics, and the relevance of disciplined stewardship within sophisticated multi jurisdiction portfolios.
+The objective is to provide the institutional reader with a framework for understanding market navigation, technical recovery mechanics, and the relevance of disciplined stewardship within sophisticated multi jurisdiction portfolios. 
 
-# Phase I: .
+### Phase I: .
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -66,15 +62,11 @@ This divergence reduces the appetite of institutional lenders who must satisfy i
 
 The result is a vacuum.
 
-That vacuum is now being filled by mid market private operators who understand that engineering, not politics, determines the real productivity of a thermal reservoir.
+That vacuum is now being filled by mid market private operators who understand that engineering, not politics, determines the real productivity of a thermal reservoir. 
 
-# Phase II: .
+### Phase II: .
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -129,13 +121,13 @@ It is structured operational predictability.
 
 The combination of thermal heavy oil and mid-depth conventional zones creates a diversified production profile that behaves like a natural collateral base.
 
-It becomes ideal for private buyers who need commodity resilience but do not require speculative upside.
+It becomes ideal for private buyers who need commodity resilience but do not require speculative upside. 
 
-# Phase III: .
+### Phase III: .
 
 THE PARTNERSHIP MODEL Roials Capital operates within this environment as a strategic navigator rather than as an owner or operator.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -177,9 +169,9 @@ Each allocator operates under different reporting regimes, leverage constraints,
 
 Roials Capital supports this navigation by providing clarity on land tenure systems, abandonment liability rules, facility integrity standards, and forward curve implications for amortization schedules.
 
-The objective is to provide the allocator with a clear understanding of how these assets behave over time and how they integrate into a sophisticated liquidity architecture.
+The objective is to provide the allocator with a clear understanding of how these assets behave over time and how they integrate into a sophisticated liquidity architecture. 
 
-# Phase IV: .
+### Phase IV: .
 
 THE STEWARDSHIP FILTER Strategic capital deployment in natural resources is not a simple function of rate of return.
 
@@ -221,9 +213,9 @@ Strong stewardship reduces operational variance.
 
 Reduced variance increases credit confidence.
 
-Increased credit confidence raises opportunity velocity for subsequent acquisitions and infill development programs.
+Increased credit confidence raises opportunity velocity for subsequent acquisitions and infill development programs. 
 
-# Phase V: .
+### Phase V: .
 
 A
 

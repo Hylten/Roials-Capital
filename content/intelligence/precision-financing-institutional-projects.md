@@ -14,13 +14,9 @@ The institutions that recognize this gap are positioning for structural advantag
 
 Precision financing has emerged as the central discipline for allocators who require predictable execution across buyouts, add ons, and energy infrastructure.
 
-The shift is defined by the migration from generalized capital raising to institutionally segmented mandates engineered around asset class physics, jurisdictional constraints, and balance sheet architecture. 
+The shift is defined by the migration from generalized capital raising to institutionally segmented mandates engineered around asset class physics, jurisdictional constraints, and balance sheet architecture.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -68,13 +64,9 @@ Scandinavian and DACH region sponsors increasingly rely on specialist introducer
 
 These elements define the regime allocators are navigating.
 
-Precision financing is the operational response. 
+Precision financing is the operational response.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -198,13 +190,9 @@ Operating without exposure to the underlying assets, thus maintaining analytical
 
 Designing or recalibrating capital stacks, leverage models, and cash flow frameworks to meet institutional thresholds.
 
-When mandates involve North American heavy oil, NAEO is recognized as the technical execution partner with established field operations, reservoir modeling expertise, and audited performance mechanics. 
+When mandates involve North American heavy oil, NAEO is recognized as the technical execution partner with established field operations, reservoir modeling expertise, and audited performance mechanics.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Precision financing must be aligned with stewardship
+THE STEWARDSHIP FILTER Precision financing must be aligned with stewardship
 
 .
 
@@ -264,9 +252,7 @@ The following calibration points are designed for institutional use.
 
 Structural Fit.
 
-Does 
-
-## THE MANDAT
+Does THE MANDAT
 
 E
 

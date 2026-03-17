@@ -28,9 +28,9 @@ ROIALS CAPITAL operates inside this framework.
 
 We lend against private credit, we lend against asset based structures, and we provide a liquidity ecosystem that functions at an institutional level while remaining surgically discreet.
 
-What follows is the architectural perspective: how true liquidity is built without compromising the integrity of the asset layer. 
+What follows is the architectural perspective: how true liquidity is built without compromising the integrity of the asset layer.
 
-## The Shift From Liquidation Events to Liquidity Architecture For decades, liquidity was synonymous with selling
+The Shift From Liquidation Events to Liquidity Architecture For decades, liquidity was synonymous with selling
 
 .
 
@@ -60,9 +60,9 @@ They are designed to be utilized.
 
 Asset-Based Lending provides the bridge.
 
-It transforms static valuation into functional liquidity, while the asset remains intact and productive. 
+It transforms static valuation into functional liquidity, while the asset remains intact and productive.
 
-## The Asset-Based Lending Advantage: Structural, Not Situational Asset Based Capital Structuring is often misunderstood as a fallback mechanism
+The Asset-Based Lending Advantage: Structural, Not Situational Asset Based Capital Structuring is often misunderstood as a fallback mechanism
 
 .
 
@@ -129,9 +129,9 @@ Collateral is assessed quietly.
 
 Liquidity is deployed quietly.
 
-Architecture, not spectacle. 
+Architecture, not spectacle.
 
-## The Private Credit Dimension Private credit is no longer a niche asset class
+The Private Credit Dimension Private credit is no longer a niche asset class
 
 .
 
@@ -153,9 +153,9 @@ The liquidity is unlocked.
 
 This is the core advantage.
 
-Liquidity is created without interrupting the original strategic purpose of the asset. 
+Liquidity is created without interrupting the original strategic purpose of the asset.
 
-## Decorrelation and Control Most liquidation events occur due to misalignment between time horizons
+Decorrelation and Control Most liquidation events occur due to misalignment between time horizons
 
 .
 
@@ -167,9 +167,9 @@ The portfolio remains intact, long‑term strategy remains uninterrupted, and li
 
 This decorrelation effect is a defining feature for UHNW capital.
 
-It maintains control during volatility rather than forcing reactive selling. 
+It maintains control during volatility rather than forcing reactive selling.
 
-## Why Liquidation is Structurally Inferior Liquidation forces a loss of optionality
+Why Liquidation is Structurally Inferior Liquidation forces a loss of optionality
 
 .
 
@@ -189,9 +189,9 @@ Asset-Based Lending avoids all four failure points.
 
 By maintaining the asset, the architecture remains intact.
 
-Liquidity becomes additive instead of extractive. 
+Liquidity becomes additive instead of extractive.
 
-## Designing Liquidity at Scale The scale at which ROIALS CAPITAL operates requires structural predictability
+Designing Liquidity at Scale The scale at which ROIALS CAPITAL operates requires structural predictability
 
 .
 
@@ -219,9 +219,9 @@ This scale allows for:
 
 Scale is clarity.
 
-Scale is the foundation upon which institutional liquidity is engineered. 
+Scale is the foundation upon which institutional liquidity is engineered.
 
-## Asset-Based Lending as a Strategic Instrument in the UHNW Framework For UHNW portfolios, the objective is not enhancement
+Asset-Based Lending as a Strategic Instrument in the UHNW Framework For UHNW portfolios, the objective is not enhancement
 
 .
 
@@ -243,9 +243,9 @@ This is especially relevant for clients who operate inside multi‑layered asset
 
 - Hybrid asset layers across traditional and digital markets
 
-- Private credit income portfolios Asset-Based Lending integrates all layers into a coherent liquidity framework. 
+- Private credit income portfolios Asset-Based Lending integrates all layers into a coherent liquidity framework.
 
-## ROIALS CAPITAL: The Architectural Perspective We do not operate as lenders in the conventional sense
+ROIALS CAPITAL: The Architectural Perspective We do not operate as lenders in the conventional sense
 
 .
 
@@ -263,9 +263,9 @@ Clients bring the assets.
 
 We bring the mechanics.
 
-The structure does the rest. 
+The structure does the rest.
 
-## Liquidity Is No Longer a Reaction
+Liquidity Is No Longer a Reaction
 
 .
 
@@ -287,9 +287,9 @@ This is the Asset-Based Lending advantage.
 
 This is liquidity without liquidation.
 
-This is the ROIALS CAPITAL framework. # Request confidential audit
+This is the ROIALS CAPITAL framework.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+Request confidential audit TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

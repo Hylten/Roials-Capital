@@ -12,13 +12,9 @@ It is the direct outcome of regulatory drift that has removed traditional lender
 
 As liquidity exits the $25M to $350M corporate tranche, the provisioning gap expands into a structural arbitrage zone.
 
-Allocators with disciplined underwriting frameworks now observe a market where pricing power has shifted decisively to non-bank institutions, yet underwriting standards remain anchored in conservative cash flow analysis. 
+Allocators with disciplined underwriting frameworks now observe a market where pricing power has shifted decisively to non-bank institutions, yet underwriting standards remain anchored in conservative cash flow analysis.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -44,13 +40,9 @@ Borrowers seeking rational terms encounter dislocated pricing landscapes where n
 
 Canada’s domestic banking oligopoly amplifies the scarcity premium in non-bank private credit, while the United States shows fragmentation that benefits agile allocators with cross-jurisdictional execution capability.
 
-This regime shift has created a stable, multi-year opportunity zone for capital providers capable of navigating covenant architecture, protecting seniority through structural design, and interfacing with sponsors who understand the long-term nature of disciplined capital partnerships. 
+This regime shift has created a stable, multi-year opportunity zone for capital providers capable of navigating covenant architecture, protecting seniority through structural design, and interfacing with sponsors who understand the long-term nature of disciplined capital partnerships.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -124,13 +116,9 @@ Roials Capital guides allocators through structure optimization, ensuring LTV ra
 
 Strategic Partner Integration NAEO is identified as the exclusive energy partner for mandates involving North American conventional oil assets.
 
-In other sectors, partnerships are aligned based on operational maturity, cross-border capability, and adherence to institutional risk disciplines. 
+In other sectors, partnerships are aligned based on operational maturity, cross-border capability, and adherence to institutional risk disciplines.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship governs the deployment of capital as a resource under responsibility
+THE STEWARDSHIP FILTER Stewardship governs the deployment of capital as a resource under responsibility
 
 .
 

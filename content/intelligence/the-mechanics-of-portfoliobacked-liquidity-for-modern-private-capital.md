@@ -18,9 +18,9 @@ Roials Capital operates at this structural layer.
 
 We do not chase yield.
 
-We design frameworks that keep capital fluid, insulated, and strategically available. 
+We design frameworks that keep capital fluid, insulated, and strategically available.
 
-## Why Structural Liquidity Matters Now Private wealth has evolved into a multi asset ecosystem
+Why Structural Liquidity Matters Now Private wealth has evolved into a multi asset ecosystem
 
 .
 
@@ -38,9 +38,9 @@ Portfolio backed facilities allow capital to flow through the structure with pre
 
 They provide optionality while maintaining trajectory.
 
-This is essential for clients who operate across geographies, sectors, and asset classes. 
+This is essential for clients who operate across geographies, sectors, and asset classes.
 
-## The Roials Capital Framework Roials Capital does not offer retail margin lines
+The Roials Capital Framework Roials Capital does not offer retail margin lines
 
 .
 
@@ -64,9 +64,9 @@ Our framework includes:
 
 Not the other way around.
 
-This maintains the integrity of the portfolio while providing immediate access to liquidity. 
+This maintains the integrity of the portfolio while providing immediate access to liquidity.
 
-## The Future of Portfolio Backed Liquidity As private capital becomes more sophisticated, liquidity requirements will evolve
+The Future of Portfolio Backed Liquidity As private capital becomes more sophisticated, liquidity requirements will evolve
 
 .
 
@@ -82,9 +82,9 @@ Portfolio backed liquidity will become a defining feature of advanced private we
 
 Not a tool.
 
-A foundation. 
+A foundation.
 
-## Closing Perspective Liquidity is a structural component of modern wealth architecture
+Closing Perspective Liquidity is a structural component of modern wealth architecture
 
 .
 
@@ -94,7 +94,7 @@ Portfolio backed solutions offer the most stable and strategically aligned appro
 
 Roials Capital provides the infrastructure, the discipline, and the principal authority required to execute these frameworks with precision.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

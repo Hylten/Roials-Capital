@@ -20,9 +20,9 @@ A structural filter for institutions and sophisticated private capital.
 
 The principals who master this discipline do not borrow power.
 
-They assign it. 
+They assign it.
 
-## Structural Alignment Over Sentiment The prohibited categories in modern discourse pretend to be stewardship but function as sentiment theater
+Structural Alignment Over Sentiment The prohibited categories in modern discourse pretend to be stewardship but function as sentiment theater
 
 .
 
@@ -46,9 +46,9 @@ This is what makes it sovereign.
 
 It is not influenced by cultural cycles or political fashion.
 
-It is influenced only by covenant integrity. 
+It is influenced only by covenant integrity.
 
-## The Two Thresholds Roials Capital maintains two non-negotiable Asset-Backed Frameworks floors
+The Two Thresholds Roials Capital maintains two non-negotiable Asset-Backed Frameworks floors
 
 .
 
@@ -60,9 +60,7 @@ These thresholds force discipline.
 
 They remove noise.
 
-They ensure only principals with real perimeter control enter 
-
-## THE MANDAT
+They ensure only principals with real perimeter control enter THE MANDAT
 
 E
 
@@ -72,9 +70,9 @@ These are not barriers.
 
 These are filtration layers.
 
-They ensure that capital velocity is allocated to stewards, not speculators. 
+They ensure that capital velocity is allocated to stewards, not speculators.
 
-## Private Credit as a Strategic Weapon Liquidity is not the objective
+Private Credit as a Strategic Weapon Liquidity is not the objective
 
 .
 
@@ -100,9 +98,9 @@ The principal who masters private credit becomes immune to market stagnation.
 
 Stagnation affects those who wait for permission.
 
-Liquidity architecture empowers those who issue it. 
+Liquidity architecture empowers those who issue it.
 
-## Why Sovereignty Requires Collateralization Sovereignty without collateral is sentiment
+Why Sovereignty Requires Collateralization Sovereignty without collateral is sentiment
 
 .
 
@@ -118,9 +116,9 @@ It produces predictable flows.
 
 And most critically, it aligns incentives between borrower and lender in a way that rhetoric cannot counterfeit.
 
-Collateral backed Asset-Backed Frameworks is the only financing method where both sides are forced into integrity. 
+Collateral backed Asset-Backed Frameworks is the only financing method where both sides are forced into integrity.
 
-## Execution Velocity Execution velocity is a spiritual discipline before it is a business discipline
+Execution Velocity Execution velocity is a spiritual discipline before it is a business discipline
 
 .
 
@@ -140,9 +138,9 @@ Decision cycles collapse.
 
 When the collateral is hardened and the structure is clean, execution becomes immediate.
 
-Velocity is a mark of authority. 
+Velocity is a mark of authority.
 
-## Liquidity Without Dilution Equity dilution is a form of sovereignty loss
+Liquidity Without Dilution Equity dilution is a form of sovereignty loss
 
 .
 
@@ -160,9 +158,9 @@ This preserves:
 
 Stewards do not sell their birthright for temporary liquidity.
 
-They convert collateral into liquidity while retaining dominion. 
+They convert collateral into liquidity while retaining dominion.
 
-## The Principal Position The goal is not to access capital
+The Principal Position The goal is not to access capital
 
 .
 
@@ -186,13 +184,9 @@ The principal is not inside the market.
 
 The principal stands above it.
 
-Asset based Monetization Architecture provides that elevation. 
+Asset based Monetization Architecture provides that elevation.
 
-## How HNWI and UHNW Stewards Weaponize
-
- 
-
-## THE MANDAT
+How HNWI and UHNW Stewards Weaponize THE MANDAT
 
 E
 
@@ -250,9 +244,9 @@ With the right structures, it creates:
 
 Lenders become partners in velocity.
 
-Not obstacles. 
+Not obstacles.
 
-## The Roials Framework The Roials mandate is defined by three components.
+The Roials Framework The Roials mandate is defined by three components.
 
  
 
@@ -278,9 +272,9 @@ Every engagement is measured against these.
 
 Every principal is evaluated on perimeter sovereignty.
 
-Every transaction is governed by covenant integrity. 
+Every transaction is governed by covenant integrity.
 
-## Closing Position Asset based Strategic Collateralization is not a tactic
+Closing Position Asset based Strategic Collateralization is not a tactic
 
 .
 
@@ -302,7 +296,7 @@ Sovereign.
 
 Request confidential audit.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

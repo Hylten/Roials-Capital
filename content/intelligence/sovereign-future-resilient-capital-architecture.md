@@ -24,7 +24,7 @@ Not scale.
 
 Not speed.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -90,9 +90,9 @@ Each pillar shapes the underwriting.
 
 Each pillar shapes governance.
 
-Together they form the sovereign future. 
+Together they form the sovereign future.
 
-## SECTION 1: THE RESILIENT CAPITAL DOCTRINE Resilient capital requires three conditions
+SECTION 1: THE RESILIENT CAPITAL DOCTRINE Resilient capital requires three conditions
 
 :
 
@@ -132,9 +132,9 @@ Machine gun line.
 
 Hard truths only.
 
-Resilience is built, not declared. 
+Resilience is built, not declared.
 
-## SECTION 2: CAPITAL RAISING ARCHITECTURE FOR Fund-III (80% FOCUS) Fund-III capitalization must be engineered with asymmetric tranche design
+SECTION 2: CAPITAL RAISING ARCHITECTURE FOR Fund-III (80% FOCUS) Fund-III capitalization must be engineered with asymmetric tranche design
 
 :
 
@@ -204,9 +204,9 @@ Machine gun.
 
 Build tight.
 
-Move forward. 
+Move forward.
 
-## SECTION 3: ASSET-BASED Strategic Collateralization (10% FOCUS) Liquidity is no longer a downstream consequence of asset strength
+SECTION 3: ASSET-BASED Strategic Collateralization (10% FOCUS) Liquidity is no longer a downstream consequence of asset strength
 
 .
 
@@ -246,9 +246,9 @@ Liquidity generates speed.
 
 Speed generates compounding.
 
-This is the sovereign cycle. 
+This is the sovereign cycle.
 
-## SECTION 4: SPECIAL MANDATES (10% FOCUS) NAEOC ENERGY MANDATES ($50M-$250M) Energy is not a commodity exposure
+SECTION 4: SPECIAL MANDATES (10% FOCUS) NAEOC ENERGY MANDATES ($50M-$250M) Energy is not a commodity exposure
 
 .
 
@@ -280,9 +280,9 @@ Asset-backed.
 
 The perfect alignment with the resilience doctrine.
 
-ENERGY RULE: The asset must speak louder than the narrative. 
+ENERGY RULE: The asset must speak louder than the narrative.
 
-## EU MiFID II ACQUISITION CORRIDORS MiFID II corridors offer one of the most attractive regulatory arbitrage environments for Fund-III deployment
+EU MiFID II ACQUISITION CORRIDORS MiFID II corridors offer one of the most attractive regulatory arbitrage environments for Fund-III deployment
 
 .
 
@@ -312,9 +312,9 @@ Fund-III steps into the gap: acquire, streamline, consolidate, centralize regula
 
 Regulatory complexity becomes alpha.
 
-MiFID II becomes a moat. 
+MiFID II becomes a moat.
 
-## SECTION 5: JURISDICTIONAL ARBITRAGE AND SOVEREIGN DESIGN The sovereign future is defined by where capital lives, not where it travels
+SECTION 5: JURISDICTIONAL ARBITRAGE AND SOVEREIGN DESIGN The sovereign future is defined by where capital lives, not where it travels
 
 .
 
@@ -372,9 +372,9 @@ Machine gun.
 
 No drift.
 
-Stay sharp. 
+Stay sharp.
 
-## SECTION 6: OPERATIONAL HARDENIN
+SECTION 6: OPERATIONAL HARDENIN
 
 G
 
@@ -412,9 +412,9 @@ Fund-III cannot inherit fragility.
 
 Fragility is expensive.
 
-Permanence compounds. 
+Permanence compounds.
 
-## SECTION 7: THE INSTITUTIONAL COMMITMENT Institutional LPs need structural clarity
+SECTION 7: THE INSTITUTIONAL COMMITMENT Institutional LPs need structural clarity
 
 :
 
@@ -442,9 +442,9 @@ Pure resilience.
 
 Pure compounding.
 
-This is the covenant with LPs. 
+This is the covenant with LPs.
 
-## SECTION 8: THE SOVEREIGN FUTURE The sovereign future is not built on speed
+SECTION 8: THE SOVEREIGN FUTURE The sovereign future is not built on speed
 
 .
 
@@ -468,9 +468,7 @@ This is the design.
 
 This is the direction.
 
-This is 
-
-## THE MANDAT
+This is THE MANDAT
 
 E
 
@@ -483,7 +481,7 @@ Target compounding horizon: 18.
 
 To proceed, request a confidential capital audit.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

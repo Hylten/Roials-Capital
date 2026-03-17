@@ -160,9 +160,9 @@ This combination transforms heavy oil assets into predictable cash flow engines 
 
 Capital preservation arises because the asset behaves according to measurable natural laws.
 
-This characteristic has become rare in the modern private markets landscape. 
+This characteristic has become rare in the modern private markets landscape.
 
-## THE PARTNERSHIP MODEL Roials Capital does not occupy the role of fund manager
+THE PARTNERSHIP MODEL Roials Capital does not occupy the role of fund manager
 
 .
 
@@ -236,11 +236,9 @@ In Fund-III environments, stewardship means prioritizing balance sheet integrity
 
 Stewardship is not optional.
 
-It is the backbone of capital preservation in a fragmented regime. 
+It is the backbone of capital preservation in a fragmented regime.
 
- 
-
-## DECISION MAKING FRAMEWORK FOR ALLOCATORS Allocators evaluating capital preservation frameworks should interpret the landscape through three filters: structural, operational, and temporal.
+DECISION MAKING FRAMEWORK FOR ALLOCATORS Allocators evaluating capital preservation frameworks should interpret the landscape through three filters: structural, operational, and temporal.
 
  
 
@@ -272,7 +270,7 @@ It is calibration of allocator frameworks to protect capital across dislocated m
 
 Allocators seeking confidential structural alignment review may initiate a Portfolio Calibration or Strategy Audit to evaluate how their current exposures align with the capital preservation architecture outlined in this briefing.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

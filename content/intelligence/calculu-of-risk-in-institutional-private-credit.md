@@ -10,13 +10,9 @@ The capital vacuum in North American private credit is the predictable outcome o
 
 The shift has triggered a reordering of risk, where the relative safety of an exposure is no longer defined by conventional ratings logic but by structural positioning, collateral physics, and the discipline of cash flow predictability.
 
-This is the environment in which institutional private credit has evolved into an allocation category governed less by sentiment and more by operational intelligence and balance sheet engineering. 
+This is the environment in which institutional private credit has evolved into an allocation category governed less by sentiment and more by operational intelligence and balance sheet engineering.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -50,13 +46,9 @@ This enables a more precise matching between asset profile and duration, generat
 
 The consequence is a new equilibrium.
 
-Capital scarcity has elevated underwriting standards, improved structural protections, and expanded the role of lending managers as strategic partners rather than passive financiers. 
+Capital scarcity has elevated underwriting standards, improved structural protections, and expanded the role of lending managers as strategic partners rather than passive financiers.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -140,7 +132,7 @@ Mechanisms include:
 
 - Receivable acceleration models in recurring revenue companies The sum of these mechanics defines the true risk position, independent of broad market narratives. 
 
-# Phase II: B
+### Phase II: B
 
 :
 
@@ -168,7 +160,7 @@ These mechanics reduce geological uncertainty and align well with structured pri
 
 THE PARTNERSHIP MODEL Roials Capital functions as a strategic navigator rather than a capital allocator.
 
-## THE MANDAT
+THE MANDAT
 
 E
 
@@ -190,9 +182,7 @@ Roials Capital provides:
 
 2.
 
-Institutional Liquidity Paths (Asset-Based Lending) Approximately ten percent of 
-
-## THE MANDAT
+Institutional Liquidity Paths (Asset-Based Lending) Approximately ten percent of THE MANDAT
 
 E
 
@@ -218,13 +208,9 @@ Special Situations Mandates This includes:
 
 - Operational restructuring mandates in industrial platforms The unifying thread across all mandates is neutrality.
 
-Roials Capital does not promote a specific fund but instead ensures institutional alignment between the allocator and the required structure. 
+Roials Capital does not promote a specific fund but instead ensures institutional alignment between the allocator and the required structure.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Institutional private credit, when practiced with discipline, is a manifestation of stewardship
+THE STEWARDSHIP FILTER Institutional private credit, when practiced with discipline, is a manifestation of stewardship
 
 .
 

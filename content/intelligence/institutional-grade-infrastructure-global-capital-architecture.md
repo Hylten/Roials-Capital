@@ -10,13 +10,9 @@ The capital vacuum across global private markets is a function of structural dis
 
 In 2026, allocators are navigating a domain where traditional liquidity channels have decoupled from real asset productivity.
 
-The outcome is a multi year environment where institutional grade infrastructure is no longer defined by geography or sector but by the precision of cross border balance sheet engineering. 
+The outcome is a multi year environment where institutional grade infrastructure is no longer defined by geography or sector but by the precision of cross border balance sheet engineering.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -50,13 +46,9 @@ Assets are sound.
 
 Capital structures are outdated.
 
-Global allocators require neutral partners who orchestrate the interfaces rather than promote product. 
+Global allocators require neutral partners who orchestrate the interfaces rather than promote product.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -174,13 +166,9 @@ Within energy, Roials Capital relies on NAEO as the partner responsible for fiel
 
 Roials does not manage energy assets.
 
-It introduces institutional allocators to the Alberta landscape and supports strategic evaluation. 
+It introduces institutional allocators to the Alberta landscape and supports strategic evaluation.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is a governance discipline
+THE STEWARDSHIP FILTER Stewardship is a governance discipline
 
 .
 

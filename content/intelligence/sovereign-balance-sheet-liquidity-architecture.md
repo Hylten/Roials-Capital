@@ -36,13 +36,9 @@ The world has shifted toward balance sheet sovereignty.
 
 The firms able to articulate and operationalize that sovereignty will be entrusted with disproportionate flows of institutional capital.
 
-I will outline the architecture. 
+I will outline the architecture.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -82,13 +78,9 @@ They must adopt a stewardship mandate that proves they are not consumers of liqu
 
 Sovereign balance sheet design is not theoretical.
 
-It is operational. 
+It is operational.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -162,11 +154,9 @@ At Fund-III scale, these should be:
 
 - Long-cycle liquidity: energy reserves, mineral rights, durable infrastructure This blend produces institutional trust.
 
-Institutional trust produces commitments. 
+Institutional trust produces commitments.
 
- 
-
-## THE
+THE
 
  
 
@@ -240,13 +230,9 @@ When a fund can execute national interest projects, its cost of capital falls.
 
 Permanently.
 
-A sovereign-aligned GP earns institutional credibility at a level that pure financial operators never match. 
+A sovereign-aligned GP earns institutional credibility at a level that pure financial operators never match.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER The stewardship filter is the boundary between disorder and order
+THE STEWARDSHIP FILTER The stewardship filter is the boundary between disorder and order
 
 .
 
@@ -311,7 +297,7 @@ Time to cash conversion:
 
 71 days.
 
-## TECHNICAL MANDATE Qualification Gates strictly observed
+TECHNICAL MANDATE Qualification Gates strictly observed
 
 .
 

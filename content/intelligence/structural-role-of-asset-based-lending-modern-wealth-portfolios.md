@@ -10,13 +10,9 @@ The liquidity deficit across global private markets is the direct outcome of cap
 
 From 2023 through 2026, Asset Based Lending has shifted from a niche credit instrument into a structural pillar for institutional allocators seeking controlled liquidity, insulated volatility, and predictable asset conversion.
 
-In environments where duration risk, rate stickiness, and collateral valuation opacity challenge traditional underwriting, ABL has reemerged as the operational mechanism that converts hard collateral into strategic optionality. 
+In environments where duration risk, rate stickiness, and collateral valuation opacity challenge traditional underwriting, ABL has reemerged as the operational mechanism that converts hard collateral into strategic optionality.
 
- 
-
- 
-
-## THE REGIME SHIF
+THE REGIME SHIF
 
 T
 
@@ -54,13 +50,9 @@ At the same time, energy markets in Alberta, where our strategic partner NAEO op
 
 This vacuum reinforces the importance of ABL dynamics because a significant portion of Western Canadian energy assets are collateral rich but capital starved.
 
-In these environments, collateral orientation produces higher technical visibility than cash flow underwriting. 
+In these environments, collateral orientation produces higher technical visibility than cash flow underwriting.
 
- 
-
- 
-
-## TECHNICAL MECHANIC
+TECHNICAL MECHANIC
 
 S
 
@@ -166,13 +158,9 @@ But the broader ABL ecosystem spans manufacturing, industrials, logistics, and d
 
 The institutional role of Roials Capital is to ensure that UHNWIs, family offices, and private equity platforms access ABL solutions aligned with their risk tolerances and portfolio construction strategy.
 
-This avoids overleveraging, prevents mismatched duration structures, and ensures liquidity is engineered with strategic intent. 
+This avoids overleveraging, prevents mismatched duration structures, and ensures liquidity is engineered with strategic intent.
 
- 
-
- 
-
-## THE STEWARDSHIP FILTER Stewardship is the discipline of applying capital in a manner aligned with preservation, sustainability, and long term functional prosperity. **Proverbs 13:22
+THE STEWARDSHIP FILTER Stewardship is the discipline of applying capital in a manner aligned with preservation, sustainability, and long term functional prosperity. **Proverbs 13:22
 
 * 
 
