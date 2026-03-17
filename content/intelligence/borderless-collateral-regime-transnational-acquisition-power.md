@@ -84,8 +84,8 @@ That delta is acquisition fuel.
 
 That delta is IRR ignition.
 
-Cross-border acquisition power emerges not from speed, but from structure. 
-•  Structural jurisdictional arbitrage. 
+Cross-border acquisition power emerges not from speed, but from structure.
+• Structural jurisdictional arbitrage. 
 -  Capital stack plasticity. 
 -  Institutional-grade collateral translation.
 

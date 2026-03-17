@@ -118,8 +118,8 @@ ROIALS CAPITAL specializes in this domain.
 
 It is a full structural engineering exercise.
 
-We 
-•  Asset volatility profiles. 
+We
+• Asset volatility profiles. 
 -  Custodial environments. 
 -  Liquidation pathways. 
 -  Counterparty governance. 

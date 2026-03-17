@@ -46,8 +46,8 @@ And the truth is simple: Fund‑III+ managers are expected to prove they can gen
 
 Long-horizon capital cannot meet its liabilities if it tolerates low unlevered footholds.
 
-The institution is not emotional. 
-•  The second is a macro decoupling.
+The institution is not emotional.
+• The second is a macro decoupling.
 
 Interest environments shifted.
 

@@ -10,25 +10,25 @@ slug: "why-gps-launching-esg-optional-funds"
 
 ## Why GPs Are Increasingly Launching ESG‑Optional Rather Than ESG‑Mandatory Funds General Partners across US, EU, and GCC markets are shifting away from ESG‑mandatory fund structures for three primary reasons: 
 
-1. **LP Fragmentation** By 2024,2026, LPs no longer form a single ESG‑aligned bloc. 
-•  North American pensions and endowments want “ESG integration but not ESG enforcement.” 
-•  European sovereign funds may prefer Article 8/9, but even many of them now accept Article 6 vehicles for certain sectors. 
-•  APAC and Middle Eastern pools prioritize returns, energy security, and industrial policy.
+1. **LP Fragmentation** By 2024,2026, LPs no longer form a single ESG‑aligned bloc.
+• North American pensions and endowments want “ESG integration but not ESG enforcement.”
+• European sovereign funds may prefer Article 8/9, but even many of them now accept Article 6 vehicles for certain sectors.
+• APAC and Middle Eastern pools prioritize returns, energy security, and industrial policy.
 
 A mandatory ESG fund automatically excludes several categories of allocators. 
 
-2. **Regulatory and Liability Risk** ESG definitions are drifting, not converging. 
-•  EU taxonomy, SFDR, and CSRD are evolving at different speeds. 
-•  US regulatory climate is inconsistent among states and federal bodies. 
-•  “Greenwashing litigation risk” has become a real price driver.
+2. **Regulatory and Liability Risk** ESG definitions are drifting, not converging.
+• EU taxonomy, SFDR, and CSRD are evolving at different speeds.
+• US regulatory climate is inconsistent among states and federal bodies.
+• “Greenwashing litigation risk” has become a real price driver.
 
 A mandatory ESG fund imposes a regulatory regime that may become more expensive and less predictable over the fund’s life. 
 
-3. **Deal Flow Constraints for Buyouts and Add‑Ons** Mandatory ESG screens restrict the ability to pursue: 
-•  industrial turnarounds, 
-•  energy transition bridge assets, 
-•  brown‑to‑green upgrades, or 
-•  non‑compliant add‑ons that can be remediated.
+3. **Deal Flow Constraints for Buyouts and Add‑Ons** Mandatory ESG screens restrict the ability to pursue:
+• industrial turnarounds,
+• energy transition bridge assets,
+• brown‑to‑green upgrades, or
+• non‑compliant add‑ons that can be remediated.
 
 Optional frameworks allow the GP to execute operational value creation without disqualifying deals prematurely. 
 -  
