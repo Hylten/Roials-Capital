@@ -314,7 +314,9 @@ High precision.
 
 Direct outcomes.
 
-The mandate is simple: structure liquidity that moves.
+## THE MANDATE
+
+ is simple: structure liquidity that moves.
 
 Not liquidity that waits.
 

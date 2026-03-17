@@ -28,7 +28,9 @@ Only hardened capital survives cycles, wars, dislocations, and liquidity drought
 
 The institutional equivalent is a capital stack that endures two centuries, not two quarters.
 
-The mandate for Fund‑III sponsors is simple: build the capital spine before scaling the organism.
+## THE MANDATE
+
+ for Fund‑III sponsors is simple: build the capital spine before scaling the organism.
 
 Buyouts without hardened capital create brittle velocity.
 

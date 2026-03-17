@@ -34,7 +34,11 @@ Fast.
 
 Precise.
 
-Controlled. **Proverbs 13:22** : *A good man leaves an inheritance to his children's children: but the wealth of the sinner is laid up for the just.* The mandate is simple.
+Controlled. **Proverbs 13:22** : *A good man leaves an inheritance to his children's children: but the wealth of the sinner is laid up for the just.* 
+
+## THE MANDATE
+
+ is simple.
 
 Build a bank that protects inheritance.
 
@@ -158,7 +162,11 @@ It needs a bank capable of:
 
 -  Tokenizing Asset-Based Lending structures for rapid redeployment 
 
--  Offering cross-jurisdiction settlement that stays inside regulatory boundaries Kapitalanskaffning is 80% of the mandate.
+-  Offering cross-jurisdiction settlement that stays inside regulatory boundaries Kapitalanskaffning is 80% of 
+
+## THE MANDATE
+
+.
 
 Without upstream formation, downstream execution collapses.
 
@@ -390,7 +398,7 @@ This is architecture.
 
 This is execution.
 
-This is inheritance. **Proverbs 13:22** . ## MANDATE ## ## ## 
+This is inheritance. **Proverbs 13:22** . ## MANDATE ## ## ## ## 
 
 ## CONCLUSION
 

@@ -14,7 +14,7 @@ The outcome is a structurally persistent gap in credit formation that is materia
 
 Middle market private credit has therefore transitioned from a peripheral yield enhancer to an architectural pillar of institutional portfolios. ## PHASE 
 
-1. ## ## ## 
+1. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -70,7 +70,7 @@ Institutional allocators are no longer experimenting with the asset class.
 
 They are building long horizon exposure and integrating dedicated private credit sleeves into overall portfolio design. ## PHASE 
 
-2. ## ## ## 
+2. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 

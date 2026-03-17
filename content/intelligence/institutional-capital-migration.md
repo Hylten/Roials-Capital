@@ -34,7 +34,7 @@ The allocators who internalize this early will extract multi-cycle advantage.
 
 Those who hesitate will finance the advantage of others. ## PHASE 
 
-1. ## ## ## 
+1. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -86,7 +86,7 @@ The regime has already shifted.
 
 Those who do not architect around this shift will serve those who do. ## PHASE 
 
-2. ## ## ## 
+2. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -166,7 +166,7 @@ The mechanics are not negotiable.
 
 They are the architecture. ## PHASE 
 
-3. ## ## ## THE 
+3. ## ## ## THE ## 
 
 ## STRATEGIC MODEL
 
@@ -176,7 +176,7 @@ It is a governance structure.
 
 It exists to steward capital through an environment that penalizes opacity and rewards engineered simplicity.
 
-The 
+The ## 
 
 ## STRATEGIC MODEL
 

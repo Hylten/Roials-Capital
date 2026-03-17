@@ -34,7 +34,7 @@ Most private funds have not adapted their internal architecture to this new temp
 
 Fund-III becomes the inflection point.
 
-Either it internalises sovereign discipline or it loses allocation rights for a decade. ## ## ## 
+Either it internalises sovereign discipline or it loses allocation rights for a decade. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -70,7 +70,7 @@ A fund must create the same internal logic that sovereigns deploy externally: ca
 
 Weak funds chase valuation.
 
-Sovereign-aligned funds chase control of the cash-flow spine. ## ## ## 
+Sovereign-aligned funds chase control of the cash-flow spine. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -126,7 +126,7 @@ Funds that depend on single-channel suppliers, regional labour pools, or concent
 
 These mechanics are not optional.
 
-They define whether a GP can be trusted with sovereign velocity. ## ## ## THE 
+They define whether a GP can be trusted with sovereign velocity. ## ## ## THE ## 
 
 ## STRATEGIC MODEL
 
@@ -188,7 +188,7 @@ Special mandates are the proving ground.
 
 A fund with internal chaos cannot steward sovereign capital.
 
-A fund with internal order becomes a strategic partner. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Sovereign capital respects stewardship.
+A fund with internal order becomes a strategic partner. ## ## ## ## ## THE STEWARDSHIP FILTER Sovereign capital respects stewardship.
 
 Not sentiment.
 
@@ -240,7 +240,7 @@ It is a strategic posture that defends the purpose of capital.
 
 Sovereigns recognise this posture instantly.
 
-Funds that embody it receive multi cycle commitments. ## ## PHASE 5: EXIT Sovereign aligned funds measure success by exit symmetry, not headline IRR.
+Funds that embody it receive multi cycle commitments. ## ## EXIT Sovereign aligned funds measure success by exit symmetry, not headline IRR.
 
 The correct metric is recovery-to-velocity ratio: RVR 1.35 or better.
 

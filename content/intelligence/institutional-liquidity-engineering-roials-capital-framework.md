@@ -12,7 +12,7 @@ It is a function of regulatory sequencing and the structural withdrawal of conve
 
 This vacuum has created a durable space for engineered liquidity structures that operate inside measurable collateral parameters rather than pro forma narratives.
 
-The consequence is a market where capital discipline outperforms capital abundance and where Monetization Architecture has become a primary mechanism for institutional stability rather than an opportunistic side instrument. ## ## ## 
+The consequence is a market where capital discipline outperforms capital abundance and where Monetization Architecture has become a primary mechanism for institutional stability rather than an opportunistic side instrument. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -44,7 +44,7 @@ It is not a pursuit of risk.
 
 It is the formalization of operational liquidity into an institutionally acceptable instrument.
 
-The Roials Capital framework operates within this reality by providing a bridge between allocators seeking security and middle market operators requiring flexibility. ## ## ## 
+The Roials Capital framework operates within this reality by providing a bridge between allocators seeking security and middle market operators requiring flexibility. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -150,7 +150,7 @@ The Roials Capital position is intentionally neutral.
 
 The firm is not an issuer and does not provide investment advice.
 
-It is a technical partner that maps operational truth to institutional capital frameworks. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship is not a moral abstraction.
+It is a technical partner that maps operational truth to institutional capital frameworks. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is not a moral abstraction.
 
 It is a capital discipline defined by precision, non wasteful allocation, and long duration orientation.
 
@@ -172,7 +172,7 @@ Clarity is the stabilizer.
 
 Stewardship is the filter through which all agreements pass.
 
-It protects the allocator, the operator, and the institutional partners who deploy capital. ## ## PHASE 5: ## ## DECISION MAKING LENS FOR THE ALLOCATOR Institutional allocators evaluate private credit exposures through five primary lenses: 
+It protects the allocator, the operator, and the institutional partners who deploy capital. ## ## ## ## DECISION MAKING LENS FOR THE ALLOCATOR Institutional allocators evaluate private credit exposures through five primary lenses: 
 
 1. Collateral integrity Does the collateral behave predictably through cycles. 
 

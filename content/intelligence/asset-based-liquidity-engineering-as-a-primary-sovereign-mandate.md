@@ -50,7 +50,11 @@ These thresholds force discipline.
 
 They remove noise.
 
-They ensure only principals with real perimeter control enter the mandate.
+They ensure only principals with real perimeter control enter 
+
+## THE MANDATE
+
+.
 
 These are not barriers.
 
@@ -150,7 +154,11 @@ The principal is not inside the market.
 
 The principal stands above it.
 
-Asset based Monetization Architecture provides that elevation. ## How HNWI and UHNW Stewards Weaponize the Mandate The most sophisticated families use asset based Monetization Architecture as a cycle stabilizer.
+Asset based Monetization Architecture provides that elevation. ## How HNWI and UHNW Stewards Weaponize 
+
+## THE MANDATE
+
+ The most sophisticated families use asset based Monetization Architecture as a cycle stabilizer.
 
 They do not time markets.
 
@@ -172,7 +180,11 @@ Then they rotate liquidity into undervalued assets during market stress.
 
 This produces asymmetric gains.
 
-The sovereign principal grows most when markets contract. ## The Mandate for Fund Managers Fund-III+ managers face three critical pressures. 
+The sovereign principal grows most when markets contract. ## 
+
+## THE MANDATE
+
+ for Fund Managers Fund-III+ managers face three critical pressures. 
 
 1. Institutional reporting. 
 

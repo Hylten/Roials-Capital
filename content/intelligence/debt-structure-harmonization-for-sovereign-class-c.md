@@ -6,7 +6,7 @@ author: "Roials Capital"
 slug: "debt-structure-harmonization-for-sovereign-class-capital-flows-using-the-mathematical-axiom"
 ---
 
-# Debt Structure Harmonization for Sovereign Class Capital Flows Using The Mathematical Axiom ## 
+# Debt Structure Harmonization for Sovereign Class Capital Flows Using The Mathematical Axiom ## ## 
 
 ## INTRODUCTION
 
@@ -328,7 +328,7 @@ Its adoption accelerates the transition from fragmented debt structures to coher
 
 Sovereign debt becomes a functional global system.
 
-Not a collection of independent markets. ## 
+Not a collection of independent markets. ## ## 
 
 ## CONCLUSION
 

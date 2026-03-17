@@ -18,7 +18,7 @@ It converts under-recognized asset value into functional liquidity without forci
 
 For multi generational wealth strategies, this liquidity mechanic is not an auxiliary tool.
 
-It is the structural engine that determines opportunity velocity, balance sheet resilience, and the durability of compounding across cycles. ## ## ## 
+It is the structural engine that determines opportunity velocity, balance sheet resilience, and the durability of compounding across cycles. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -46,7 +46,7 @@ The result is a regime where real assets are not simply undervalued.
 
 They are structurally orphaned by the dominant capital flows.
 
-This is the environment where Asset Based Monetization Architecture becomes a strategic necessity rather than an opportunistic tactic. ## ## ## 
+This is the environment where Asset Based Monetization Architecture becomes a strategic necessity rather than an opportunistic tactic. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -102,7 +102,7 @@ Monetization Architecture becomes a complement to traditional capital raising, e
 
 For special mandates, including MiFID II European acquisitions and North American energy consolidation in the 50M to 250M range, the framework provides neutrality.
 
-The objective is not to direct capital into predefined structures but to ensure allocators receive clarity on collateral integrity, strategic optionality, and operational feasibility before commitment. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship is the discipline of managing finite resources with intentionality and humility.
+The objective is not to direct capital into predefined structures but to ensure allocators receive clarity on collateral integrity, strategic optionality, and operational feasibility before commitment. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is the discipline of managing finite resources with intentionality and humility.
 
 Multi generational wealth is not a matter of portfolio expansion.
 
@@ -122,7 +122,7 @@ It creates financial breathing room that allows families, institutions, and sove
 
 In this sense, Capital Structuring is not a financing strategy.
 
-It is a preservation methodology. ## ## PHASE 5: PORTFOLIO CALIBRATION LENS FOR THE ALLOCATOR Allocators evaluating long horizon strategies should focus on three calibration metrics.
+It is a preservation methodology. ## ## PORTFOLIO CALIBRATION LENS FOR THE ALLOCATOR Allocators evaluating long horizon strategies should focus on three calibration metrics.
 
 Balance Sheet Optionality.
 

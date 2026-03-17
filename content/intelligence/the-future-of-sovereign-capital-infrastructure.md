@@ -132,7 +132,7 @@ The era of universal collateralization.
 
 The era of frictionless liquidity.
 
-The era of sovereign capital autonomy. ## 
+The era of sovereign capital autonomy. ## ## 
 
 ## CONCLUSION
 

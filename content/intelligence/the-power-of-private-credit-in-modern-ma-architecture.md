@@ -166,7 +166,7 @@ ROIALS CAPITAL is positioned at this intersection.
 
 Not as an alternative lender.
 
-As a structural architect for modern liquidity. ## 
+As a structural architect for modern liquidity. ## ## 
 
 ## CONCLUSION
 

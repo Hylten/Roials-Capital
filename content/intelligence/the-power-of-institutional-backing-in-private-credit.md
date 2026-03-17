@@ -296,7 +296,7 @@ This shift is permanent.
 
 Private credit, asset based Capital Structuring, crypto Asset-Backed Frameworks at scale, and public share financing will increasingly be governed by institutional frameworks, not individual preferences.
 
-Roials Capital is engineered around this future, not adapting to it. ## 
+Roials Capital is engineered around this future, not adapting to it. ## ## 
 
 ## CONCLUSION
 

@@ -14,7 +14,7 @@ This briefing outlines the institutional playbook for capital preservation in a 
 
 It integrates the mechanics of buyout sequencing in Fund-III structures, tactical Monetization Architecture for mid-market enterprises, and the optionality embedded within North American conventional energy via NAEO.
 
-The objective is to provide allocators with a strategic intelligence map for navigating capital scarcity, regulatory fragmentation, and asset tier bifurcation. ## ## ## ## 
+The objective is to provide allocators with a strategic intelligence map for navigating capital scarcity, regulatory fragmentation, and asset tier bifurcation. ## ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -60,15 +60,15 @@ Capital preservation in this context becomes a sequencing problem, not a thresho
 
 The GP must preserve collateral value while engineering multiple pathways to withstand valuation compression.
 
-These realities define 
+These realities define ## 
 
 ## THE REGIME SHIFT
 
-: capital is not scarce in aggregate.
+ : capital is not scarce in aggregate.
 
 It is scarce where regulators concentrate scrutiny and where banks no longer underwrite volatility.
 
-Private capital becomes the strategic infrastructure of the new regime. ## ## ## ## 
+Private capital becomes the strategic infrastructure of the new regime. ## ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -166,7 +166,7 @@ The focus is on capital preservation, duration matching, and risk weighted expos
 
 2. Market Navigation The firm provides technical and structural mapping of cross border capital flows, identifying where regulatory asymmetries create opportunity or risk for LP capital. 
 
-3. Institutional 
+3. Institutional ## 
 
 ## INTRODUCTION
 
@@ -180,7 +180,7 @@ This is not advisory in the traditional sense.
 
 It is architectural guidance that preserves capital by eliminating informational blind spots.
 
-Through this partnership architecture, allocators maintain governance authority while gaining access to strategic counterparties and operational domains that would otherwise require costly in house buildouts. ## ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Capital preservation is not a defensive posture.
+Through this partnership architecture, allocators maintain governance authority while gaining access to strategic counterparties and operational domains that would otherwise require costly in house buildouts. ## ## ## ## ## ## THE STEWARDSHIP FILTER Capital preservation is not a defensive posture.
 
 It is a stewardship discipline.
 
@@ -212,7 +212,7 @@ In Fund-III environments, stewardship means prioritizing balance sheet integrity
 
 Stewardship is not optional.
 
-It is the backbone of capital preservation in a fragmented regime. ## ## ## PHASE 5: DECISION MAKING FRAMEWORK FOR ALLOCATORS Allocators evaluating capital preservation frameworks should interpret the landscape through three filters: structural, operational, and temporal. 
+It is the backbone of capital preservation in a fragmented regime. ## ## ## DECISION MAKING FRAMEWORK FOR ALLOCATORS Allocators evaluating capital preservation frameworks should interpret the landscape through three filters: structural, operational, and temporal. 
 
 1. Structural Filter Assess whether the asset class is governed by natural physics, contract law, or sentiment.
 

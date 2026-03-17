@@ -20,7 +20,7 @@ Energy, private credit, and strategic acquisitions each serve as functional comp
 
 It is a doctrinal approach to capital oversight. ## PHASE 
 
-1. ## ## ## 
+1. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -42,7 +42,7 @@ Heavy oil in particular retains strategic relevance because of its viscosity and
 
 3. Institutional Convergence Family offices, sovereign allocators, and private credit funds are converging toward the same thesis: the most durable opportunities in 2026 reside in assets whose physics create predictable cash flow profiles.
 
-This applies to energy decline curves, private credit amortization schedules, and real asset yield on cost models.
+This applies to energy decline curves, private credit amortization schedules, and real asset yield on cost models. ## 
 
 ## THE REGIME SHIFT
 
@@ -52,7 +52,7 @@ Capital is no longer flowing to the systems designed to utilize it with the lowe
 
 Asset hardening provides the corrective structure. ## PHASE 
 
-2. ## ## ## 
+2. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -196,7 +196,7 @@ In buyouts and special mandates, this is a curated set of institutional grade pl
 
 -  Balance sheet integrity This process ensures allocators engage only with systems that maintain disciplined capital use. 
 
-4. Institutional 
+4. Institutional ## 
 
 ## INTRODUCTION
 
@@ -242,7 +242,7 @@ Stewardship is the guardrail that filters out degradation. ## PHASE
 
 4. Governance Compatibility Does the counterparty operate with a stewardship aligned ethos.
 
-Roials Capital provides confidential Strategy Audits, Portfolio Calibration assessments, and Institutional 
+Roials Capital provides confidential Strategy Audits, Portfolio Calibration assessments, and Institutional ## 
 
 ## INTRODUCTION
 

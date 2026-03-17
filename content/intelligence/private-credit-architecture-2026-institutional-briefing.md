@@ -12,7 +12,7 @@ This dislocation reflects regulatory inertia rather than systemic weakness in un
 
 Institutional allocators now operate in an environment where the most stable credit signals originate from operationally mature sectors with mechanical visibility of cash generation.
 
-Private credit has shifted from a peripheral complement to the primary architecture of corporate liquidity. ## ## ## 
+Private credit has shifted from a peripheral complement to the primary architecture of corporate liquidity. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -56,7 +56,7 @@ Private credit is no longer opportunistic capital.
 
 It is structural capital.
 
-The shift is permanent because the bank withdrawal is not reversible under Basel IV conditions. ## ## ## 
+The shift is permanent because the bank withdrawal is not reversible under Basel IV conditions. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -176,7 +176,7 @@ The partnership model functions without solicitation language.
 
 It is technical architecture design.
 
-Allocators engage because structural clarity reduces execution friction. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER AND THE THEOLOGY OF CAPITAL Stewardship in institutional credit is not moral abstraction.
+Allocators engage because structural clarity reduces execution friction. ## ## ## ## ## THE STEWARDSHIP FILTER AND THE THEOLOGY OF CAPITAL Stewardship in institutional credit is not moral abstraction.
 
 It is resource governance.
 
@@ -212,7 +212,7 @@ Private credit is uniquely suited to this discipline because cash flow predictab
 
 Stewardship strengthens institutional continuity.
 
-It aligns capital with durable systems rather than transient narratives. ## ## PHASE 5: THE ## ## DECISION MAKING LENS FOR THE 2026 ALLOCATOR Allocators navigating the 2026 private credit regime must adopt a synthetical evaluation framework.
+It aligns capital with durable systems rather than transient narratives. ## ## THE ## ## DECISION MAKING LENS FOR THE 2026 ALLOCATOR Allocators navigating the 2026 private credit regime must adopt a synthetical evaluation framework.
 
 The decision is not yield based.
 

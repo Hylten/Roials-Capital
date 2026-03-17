@@ -18,7 +18,7 @@ The allocator landscape has reorganized into a hierarchy where sovereign institu
 
 Fund-III and Fund-IV mandates are the primary beneficiaries of this realignment.
 
-These vehicles provide the scale, governance maturity, and operational standardization required for sovereign onboarding. ## ## ## 
+These vehicles provide the scale, governance maturity, and operational standardization required for sovereign onboarding. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -46,7 +46,7 @@ Within this domain, sovereign wealth entities have become the system stabilizers
 
 Their presence defines acceptable risk architecture for the rest of the capital stack.
 
-Private equity funds entering Fund-III or Fund-IV cycles increasingly must position themselves within this sovereign-led hierarchy to achieve scale and continuity. ## ## ## 
+Private equity funds entering Fund-III or Fund-IV cycles increasingly must position themselves within this sovereign-led hierarchy to achieve scale and continuity. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -106,7 +106,7 @@ The institutional relationship with NAEO is significant.
 
 NAEO provides operational intelligence and execution capability in the Alberta energy ecosystem.
 
-Roials Capital provides the allocators, the governance interface, and the capital architecture. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Sovereign wealth management at scale requires a stewardship discipline that transcends commercial capital.
+Roials Capital provides the allocators, the governance interface, and the capital architecture. ## ## ## ## ## THE STEWARDSHIP FILTER Sovereign wealth management at scale requires a stewardship discipline that transcends commercial capital.
 
 Stewardship is the ability to deploy resources without waste, distortion, or unnecessary risk.
 
@@ -126,7 +126,7 @@ Sponsors that operate on short cycle opportunistic logic are progressively scree
 
 Stewardship is not a moral construct.
 
-It is an operational requirement for institutional scale capital. ## ## PHASE 5: ## ## DECISION MAKING LENS FOR THE ALLOCATOR The allocator evaluating private capital exposure in 2026 faces a bifurcated market.
+It is an operational requirement for institutional scale capital. ## ## ## ## DECISION MAKING LENS FOR THE ALLOCATOR The allocator evaluating private capital exposure in 2026 faces a bifurcated market.
 
 Capital that aligns with sovereign governance standards achieves scale.
 

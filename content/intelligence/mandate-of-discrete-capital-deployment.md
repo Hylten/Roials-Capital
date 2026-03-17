@@ -10,9 +10,11 @@ The capital vacuum in North America's energy sector is a consequence of regulato
 
 Institutional allocators navigating 2026 face a regime where capital scarcity, operational bottlenecks, and mispriced subsurface physics combine to produce one of the most misunderstood structural gaps in the global market.
 
-The mandate of discrete capital deployment is central to this environment because fragmented balance sheets, constrained credit markets, and deglobalized supply lines require allocators to deploy with precision, not scale.
+## THE MANDATE
 
-The forward regime favors surgical balance sheet alignment, not broad beta exposure. ## ## ## 
+ of discrete capital deployment is central to this environment because fragmented balance sheets, constrained credit markets, and deglobalized supply lines require allocators to deploy with precision, not scale.
+
+The forward regime favors surgical balance sheet alignment, not broad beta exposure. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -66,7 +68,7 @@ The buyout ecosystem demands non public capital sources willing to underwrite op
 
 Discrete capital deployment emerges as the appropriate mandate across energy, buyouts, and special situations.
 
-Allocators who deploy episodically, with clear operational filters, achieve a superior risk profile compared to generalized exposure strategies. ## ## ## 
+Allocators who deploy episodically, with clear operational filters, achieve a superior risk profile compared to generalized exposure strategies. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -136,7 +138,9 @@ It is episodic and situational, driven by technical intelligence rather than fun
 
 THE PARTNERSHIP MODEL Roials Capital functions as a strategic navigator, not an asset originator and not an operator.
 
-The mandate is to introduce institutional capital to high fidelity opportunities across energy, buyouts, Capital Structuring, and regulatory constrained markets.
+## THE MANDATE
+
+ is to introduce institutional capital to high fidelity opportunities across energy, buyouts, Capital Structuring, and regulatory constrained markets.
 
 The role is to ensure strategic alignment between capital deployment objectives and operational reality.
 
@@ -156,7 +160,7 @@ The focus is on alignment between sponsor strategy and capital provider appetite
 
 Discrete capital deployment requires that capital be raised only for transactions that meet operational thresholds, not for generalized dry powder accumulation.
 
-The special mandates division extends into cross jurisdictional acquisitions under EU MiFID II, where institutional buyers require structured 
+The special mandates division extends into cross jurisdictional acquisitions under EU MiFID II, where institutional buyers require structured ## 
 
 ## INTRODUCTION
 
@@ -168,7 +172,7 @@ In every vertical, Roials Capital maintains introducer neutrality.
 
 The firm does not take operating control or assert ownership claims.
 
-The value is in navigation, not execution. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship in capital markets is not a moral abstraction.
+The value is in navigation, not execution. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship in capital markets is not a moral abstraction.
 
 It is a discipline of non wasteful resource management grounded in the theology of capital. **Proverbs 13:22** frames the principle that durable capital must be intergenerational, not consumptive.
 
@@ -194,7 +198,7 @@ Capital should flow toward inventory systems, receivables structures, and produc
 
 The stewardship filter is the consistency test across all asset classes.
 
-It ensures that discrete capital deployment is not opportunistic speculation but disciplined resource allocation. ## ## PHASE 5: ## ## DECISION MAKING LENS FOR THE ALLOCATOR Allocators evaluating energy, private credit, or buyout transactions in 2026 face an environment of compressed liquidity, fragmented deal flow, and elevated operational complexity.
+It ensures that discrete capital deployment is not opportunistic speculation but disciplined resource allocation. ## ## ## ## DECISION MAKING LENS FOR THE ALLOCATOR Allocators evaluating energy, private credit, or buyout transactions in 2026 face an environment of compressed liquidity, fragmented deal flow, and elevated operational complexity.
 
 Discrete capital deployment becomes the rational response to these conditions.
 
@@ -220,9 +224,13 @@ The alignment framework can be summarized as:
 
 -  Stewardship coherence Roials Capital provides confidential portfolio calibration to align allocators with opportunities that meet these structural filters.
 
-The mandate is not distribution.
+## THE MANDATE
 
-The mandate is navigation.
+ is not distribution.
+
+## THE MANDATE
+
+ is navigation.
 
 The tools are institutional introductions, strategic mapping, and situational deployment models that respect both the complexity of modern markets and the responsibilities of serious capital. [END OF BRIEFING] # ## TECHNICAL MANDATE Qualification Gates strictly observed.
 

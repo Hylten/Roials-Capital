@@ -288,7 +288,11 @@ Not the company.
 
 Not the portfolio.
 
-Not the mandate.
+Not 
+
+## THE MANDATE
+
+.
 
 Liquidity is the weapon that outlives the market.
 

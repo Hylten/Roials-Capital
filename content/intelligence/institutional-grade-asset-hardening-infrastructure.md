@@ -18,7 +18,7 @@ In the current capital regime, allocators navigating Fund-III and later vehicles
 
 The objective is not yield generation.
 
-The objective is predictability and sovereign level stability inside private markets. ## ## ## 
+The objective is predictability and sovereign level stability inside private markets. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -50,7 +50,7 @@ Heavy oil reservoirs in Alberta, when engineered under SAGD or CSS methodologies
 
 This is the central counter intuitive truth shaping institutional flows in 
 
-2026. ## ## ## 
+2026. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -168,9 +168,13 @@ Within private credit and buyout environments, Roials Capital provides instituti
 
 This includes senior facility design, cash flow waterfall modeling, cross collateral matrices, and asset level risk mitigation frameworks.
 
-The mandate is not to manage capital.
+## THE MANDATE
 
-The mandate is to structure clarity. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship is a discipline, not a sentiment.
+ is not to manage capital.
+
+## THE MANDATE
+
+ is to structure clarity. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is a discipline, not a sentiment.
 
 Institutional grade stewardship is the practice of deploying capital in ways that are aligned with long term productivity, ethical resource management, and multi generational utility.
 
@@ -192,7 +196,7 @@ Stewardship requires:
 
 When these principles are applied across the capital stack, the allocator gains something that cannot be purchased in the open market.
 
-Predictability. ## ## PHASE 5: ## ## DECISION MAKING LENS FOR THE ALLOCATOR For allocators navigating Fund-III and later mandates, the challenge is no longer capital distribution.
+Predictability. ## ## ## ## DECISION MAKING LENS FOR THE ALLOCATOR For allocators navigating Fund-III and later mandates, the challenge is no longer capital distribution.
 
 It is strategic calibration.
 

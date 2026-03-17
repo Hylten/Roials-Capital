@@ -20,7 +20,9 @@ Stillness is decay.
 
 The principal view is simple: reallocate or be reallocated. **Proverbs 13:22** states: A good man leaves an inheritance to his children's children: but the wealth of the sinner is laid up for the just.
 
-The mandate is sovereign capital discipline.
+## THE MANDATE
+
+ is sovereign capital discipline.
 
 Control the inheritance.
 
@@ -48,7 +50,9 @@ GPs require acceleration, external ballast, and execution partners with sovereig
 
 ROIALS CAPITAL builds the spine.
 
-The mandate is realignment.
+## THE MANDATE
+
+ is realignment.
 
 Clean.
 
@@ -436,7 +440,9 @@ Timing is narrow.
 
 Movement must be immediate.
 
-The mandate is clear.
+## THE MANDATE
+
+ is clear.
 
 We push capital toward hardened assets.
 
@@ -584,7 +590,9 @@ Precision wins.
 
 Sovereign structuring wins.
 
-The mandate stands: Reallocate into Fund-III.
+## THE MANDATE
+
+ stands: Reallocate into Fund-III.
 
 Reinforce liquidity corridors.
 

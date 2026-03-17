@@ -16,7 +16,7 @@ This is the defining condition that informs all current discussions on alignment
 
 2032. ## PHASE 
 
-1. ## ## ## 
+1. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -52,7 +52,7 @@ The convergence of these forces redefines private credit as a structural market,
 
 It moves the allocator from passive coupon harvesting toward active partnership with GPs capable of engineering liquidity, operational resilience, and disciplined underwriting across sectors. ## PHASE 
 
-2. ## ## ## 
+2. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -138,7 +138,11 @@ The role is not to promote a specific vehicle but to align GPs, LPs, and sector 
 
 The partnership model functions on four operational axes: 
 
-1. Kapitalanskaffning for Fund-III and Successor Vehicles Eighty percent of the mandate centers on capital formation for vehicles entering their Fund-III trajectory or scaling into higher velocity buyout and add on cycles.
+1. Kapitalanskaffning for Fund-III and Successor Vehicles Eighty percent of 
+
+## THE MANDATE
+
+ centers on capital formation for vehicles entering their Fund-III trajectory or scaling into higher velocity buyout and add on cycles.
 
 The institutional requirement for Fund-III participation is clarity on: 
 
@@ -166,7 +170,11 @@ These structures require:
 
 The objective is to help institutions identify managers who deploy capital in a manner consistent with the discipline expected in the upper strata of private credit. 
 
-3. Special Mandates across Energy and MiFID II Environments Ten percent of the mandate relates to specialized opportunities, including: 
+3. Special Mandates across Energy and MiFID II Environments Ten percent of 
+
+## THE MANDATE
+
+ relates to specialized opportunities, including: 
 
 -  North American heavy oil capital mandates between 50M and 250M USD through NAEO. 
 
@@ -182,7 +190,7 @@ They require a filtered LP audience with alignment to operational complexity, lo
 
 It is an alignment function that ensures LPs engage structures that meet their governance thresholds.
 
-Every 
+Every ## 
 
 ## INTRODUCTION
 
@@ -232,7 +240,9 @@ The decision lens is therefore shaped by the following analytical considerations
 
 4. Multi Cycle Proof Does the GP maintain underwriting consistency across Fund-I, Fund-II, and Fund-III, demonstrating discipline that can survive rate shifts and economic contraction. 
 
-5. ## INTRODUCTION
+5. ## 
+
+## INTRODUCTION
 
  Pathway Has the LP been aligned with a vehicle or mandate that reflects genuine strategic suitability.
 

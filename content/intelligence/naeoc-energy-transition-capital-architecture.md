@@ -16,7 +16,9 @@ The institutional stack must carry them.
 
 That creates our window.
 
-The mandate is simple: credible energy-transition assets must demonstrate industrial reality, not environmental theater.
+## THE MANDATE
+
+ is simple: credible energy-transition assets must demonstrate industrial reality, not environmental theater.
 
 Cashflow integrity.
 

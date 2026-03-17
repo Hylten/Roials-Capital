@@ -88,9 +88,15 @@ This creates dynastic continuity through:
 
 -  disciplined cash-flow routing 
 
--  principled capital allocation The architecture ensures that credit mobility never violates the mandate.
+-  principled capital allocation The architecture ensures that credit mobility never violates 
 
-The mandate guides everything. ## 
+## THE MANDATE
+
+.
+
+## THE MANDATE
+
+ guides everything. ## 
 
 13. The Quiet Advantage Sovereign structures are not public.
 

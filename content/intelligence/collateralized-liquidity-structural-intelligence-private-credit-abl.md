@@ -10,7 +10,7 @@ Order is not an option.
 
 It is the prerequisite for all solvency. ## PHASE 
 
-1. ## ## ## 
+1. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -24,7 +24,7 @@ They price credit.
 
 Few price liquidity.
 
-Even fewer understand that liquidity is a collateral class in its own right when engineered correctly.
+Even fewer understand that liquidity is a collateral class in its own right when engineered correctly. ## 
 
 ## THE REGIME SHIFT
 
@@ -58,13 +58,13 @@ Order emerges when collateral operates as a liquidity engine rather than as a st
 
 That is the pivot in this environment.
 
-That is 
+That is ## 
 
 ## THE REGIME SHIFT
 
-. ## PHASE 
+ . ## PHASE 
 
-2. ## ## ## 
+2. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -162,7 +162,7 @@ They do not reward speed alone.
 
 They reward engineered inevitability. ## PHASE 
 
-3. ## ## ## THE 
+3. ## ## ## THE ## 
 
 ## STRATEGIC MODEL
 
@@ -174,7 +174,7 @@ Kapitalanskaffning at this level demands a strategic operating model that elimin
 
 UHNWIs and institutional LPs allocate to conviction, not potential.
 
-The 
+The ## 
 
 ## STRATEGIC MODEL
 
@@ -228,7 +228,7 @@ When MiFID II assets operate under liquidity scarcity, regulatory friction ampli
 
 When liquidity is engineered, regulatory friction becomes a competitive moat.
 
-The 
+The ## 
 
 ## STRATEGIC MODEL
 

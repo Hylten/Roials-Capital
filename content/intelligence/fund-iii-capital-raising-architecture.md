@@ -24,7 +24,7 @@ Velocity governs influence.
 
 Influence governs capital.
 
-Order is not an option. ## ## ## 
+Order is not an option. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -98,7 +98,7 @@ Cycles are opportunity.
 
 Lost opportunity compounds into structural disadvantage.
 
-At Fund-III, disadvantage becomes terminal. ## ## ## 
+At Fund-III, disadvantage becomes terminal. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -192,7 +192,7 @@ If the GP cannot show cross border operational discipline, no allocation proceed
 
 Institutional capital raises do not fail because of relationships.
 
-They fail because the GP cannot demonstrate mechanical mastery. ## ## ## THE 
+They fail because the GP cannot demonstrate mechanical mastery. ## ## ## THE ## 
 
 ## STRATEGIC MODEL
 
@@ -254,7 +254,7 @@ A GP who demonstrates stewardship attracts patient capital.
 
 For capital raising to operate at institutional scale, these five components must be fully integrated, frictionless, and measurable.
 
-The GP who still relies on narrative over structure falls behind the Fund-III standard. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Capital is a responsibility.
+The GP who still relies on narrative over structure falls behind the Fund-III standard. ## ## ## ## ## THE STEWARDSHIP FILTER Capital is a responsibility.
 
 Mismanagement of attention, time, or resources is waste.
 
@@ -296,7 +296,7 @@ Not time.
 
 Not capital.
 
-Not attention. ## ## PHASE 5: EXIT Fund-III allocators measure one final metric.
+Not attention. ## ## EXIT Fund-III allocators measure one final metric.
 
 Commitment efficiency ratio.
 

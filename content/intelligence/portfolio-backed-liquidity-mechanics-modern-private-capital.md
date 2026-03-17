@@ -10,7 +10,7 @@ The capital vacuum in private markets did not emerge from declining opportunity 
 
 It emerged from structural congestion created by regulatory tightening, higher base rates, and the retreat of traditional lenders from middle market exposures.
 
-The resulting distortion has made portfolio backed liquidity one of the most important instruments for allocators seeking to preserve operational continuity, accelerate add on sequencing, and reinforce balance sheet resilience without diluting strategic control. ## ## ## 
+The resulting distortion has made portfolio backed liquidity one of the most important instruments for allocators seeking to preserve operational continuity, accelerate add on sequencing, and reinforce balance sheet resilience without diluting strategic control. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -38,13 +38,13 @@ Allocators are increasingly evaluating general partners not by deal selection al
 
 Strategies that rely on external refinancing markets for continuation are structurally disadvantaged.
 
-Strategies that utilize portfolio backed liquidity to stabilize cash flows and accelerate add on sequencing maintain operational control and attract more consistent institutional capital.
+Strategies that utilize portfolio backed liquidity to stabilize cash flows and accelerate add on sequencing maintain operational control and attract more consistent institutional capital. ## 
 
 ## THE REGIME SHIFT
 
  has created an environment where middle market buyout platforms are capital constrained not because of deal scarcity but because of balance sheet friction.
 
-The absence of flexible liquidity has become a limiting factor on opportunity velocity, not origination capacity. ## ## ## 
+The absence of flexible liquidity has become a limiting factor on opportunity velocity, not origination capacity. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -178,7 +178,7 @@ These partnerships are not transactional.
 
 They are architecture oriented.
 
-They focus on long horizon stability for institutional allocators. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship is the discipline of intelligent capital deployment.
+They focus on long horizon stability for institutional allocators. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is the discipline of intelligent capital deployment.
 
 It is not an ethical add on.
 
@@ -210,7 +210,7 @@ The modern private capital environment rewards platforms that practice stewardsh
 
 Stewardship is not passive conservatism.
 
-It is precision based resource management that maximizes institutional readiness. ## ## PHASE 5: THE ## ## DECISION MAKING LENS FOR THE ALLOCATOR The allocator evaluating contemporary private capital opportunities faces structural complexity across multiple tiers: 
+It is precision based resource management that maximizes institutional readiness. ## ## THE ## ## DECISION MAKING LENS FOR THE ALLOCATOR The allocator evaluating contemporary private capital opportunities faces structural complexity across multiple tiers: 
 
 -  Fund-III and Fund IV general partners requiring Kapitalanskaffning for expansion and add on acceleration. 
 
@@ -240,7 +240,7 @@ Roials Capital provides this through a confidential strategy audit focused on:
 
 -  Cross platform balance sheet optimization. 
 
--  Institutional 
+-  Institutional ## 
 
 ## INTRODUCTION
 

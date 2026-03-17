@@ -10,7 +10,7 @@ The capital vacuum affecting real estate sovereignties in 2026 is a product of l
 
 Sovereign-grade property portfolios remain structurally underleveraged, not because their income durability has weakened, but because their liquidity architecture has not evolved at the same velocity as market risk pricing.
 
-This creates an environment where the most stable property ecosystems appear distressed on paper while remaining fundamentally sound in cash generation and replacement cost positioning. ## ## ## 
+This creates an environment where the most stable property ecosystems appear distressed on paper while remaining fundamentally sound in cash generation and replacement cost positioning. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -36,11 +36,11 @@ This places existing portfolios in a structurally advantaged position, yet the c
 
 The intersection of these forces produces a paradoxical landscape: fundamentally resilient real estate sovereignties navigating an artificial liquidity deficit.
 
-This is the environment where Institutional Liquidity Paths, institutional capital 
+This is the environment where Institutional Liquidity Paths, institutional capital ## 
 
 ## INTRODUCTION
 
-, and balance sheet optimization become decisive tools. ## ## ## 
+ , and balance sheet optimization become decisive tools. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -70,7 +70,7 @@ This requires
 
 -  redundant liquidity channels to neutralize jurisdiction specific regulatory surprises The goal is institutional risk symmetry, not transactional leverage. 
 
-3. Replacement Cost Anchoring The strategic thesis for capital 
+3. Replacement Cost Anchoring The strategic thesis for capital ## 
 
 ## INTRODUCTION
 
@@ -100,17 +100,17 @@ The partnership model is defined by neutrality, technical clarity, and capital a
 
 Roials Capital aligns each archetype with the liquidity structure that matches their operational and governance constraints.
 
-The architecture dictates capital 
+The architecture dictates capital ## 
 
 ## INTRODUCTION
 
  is disciplined, regulatory consistent, and aligned with macro durability. 
 
-2. Capital 
+2. Capital ## 
 
 ## INTRODUCTION
 
- Across Multi Mandate Channels The capital 
+ Across Multi Mandate Channels The capital ## 
 
 ## INTRODUCTION
 
@@ -126,7 +126,7 @@ The architecture dictates capital
 
 For real estate sovereignties, Roials Capital coordinates with capital providers specializing in duration matched exposure and collateral integrated credit.
 
-The objective is strategic navigation through structural inefficiencies rather than portfolio acquisition. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER THE THEOLOGY OF CAPITAL Stewardship functions as a discipline of managing scarce resources with precision and intent.
+The objective is strategic navigation through structural inefficiencies rather than portfolio acquisition. ## ## ## ## ## THE STEWARDSHIP FILTER THE THEOLOGY OF CAPITAL Stewardship functions as a discipline of managing scarce resources with precision and intent.
 
 This applies equally to land, liquidity, risk, and time.
 
@@ -142,7 +142,7 @@ Stewardship discipline includes
 
 -  advancing governance structures aligned with long term resource integrity The stewardship principle aligns with the idea in **Proverbs 13:22** , where generational capital is preserved through disciplined decision structures rather than opportunistic risk taking.
 
-In institutional real estate, this translates into engineered liquidity ecosystems that protect the portfolio through macro regime transitions. ## ## PHASE 5: THE STRATEGIC DECISION LENS FOR ALLOCATORS Institutional allocators entering the current real estate regime require a decision framework aligned with structural, not cyclical, realities.
+In institutional real estate, this translates into engineered liquidity ecosystems that protect the portfolio through macro regime transitions. ## ## THE STRATEGIC DECISION LENS FOR ALLOCATORS Institutional allocators entering the current real estate regime require a decision framework aligned with structural, not cyclical, realities.
 
 The critical questions revolve around: 
 

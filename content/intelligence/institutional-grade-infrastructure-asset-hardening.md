@@ -14,7 +14,7 @@ Asset hardening has therefore become less about aggressive expansion and more ab
 
 In this environment, infrastructure for institutional grade asset hardening is not a theoretical construct.
 
-It functions as a practical apparatus for balance sheet stabilization, controlled buyout sequencing, and multi cycle capital efficiency. ## ## ## 
+It functions as a practical apparatus for balance sheet stabilization, controlled buyout sequencing, and multi cycle capital efficiency. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -38,7 +38,7 @@ Yet institutional capital channels into these assets have contracted due to ESG 
 
 This creates a persistent arbitrage between asset certainty and capital scarcity.
 
-In Europe 
+In Europe ## 
 
 ## THE REGIME SHIFT
 
@@ -52,7 +52,7 @@ Across global private credit channels the same pattern appears.
 
 Banks have reduced their forward commitments, creating increased demand for asset backed lending and Monetization Architecture structures that can be executed at institutional velocity.
 
-This is especially visible in middle market corporate environments where cross collateralization, cash flow waterfalls, and structural seniority require precise configuration to avoid capital inefficiencies. ## ## ## 
+This is especially visible in middle market corporate environments where cross collateralization, cash flow waterfalls, and structural seniority require precise configuration to avoid capital inefficiencies. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -88,7 +88,7 @@ It is in disciplined recovery mechanics and field stabilization.
 
 This is the type of operational consistency institutional allocators require.
 
-Across private credit the 
+Across private credit the ## 
 
 ## TECHNICAL MECHANICS
 
@@ -138,7 +138,7 @@ Asset-Based Lending structures and special mandates are managed with the same ne
 
 Roials Capital identifies balance sheet inefficiencies and configures liquidity channels without assuming ownership or operational control.
 
-This preserves regulatory neutrality while enabling allocators to navigate constrained environments with institutional clarity. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Asset hardening is fundamentally a stewardship discipline.
+This preserves regulatory neutrality while enabling allocators to navigate constrained environments with institutional clarity. ## ## ## ## ## THE STEWARDSHIP FILTER Asset hardening is fundamentally a stewardship discipline.
 
 The objective is to strengthen what already exists rather than to speculate on what might emerge.
 
@@ -160,7 +160,7 @@ In private markets this translates into governance precision, compliance stabili
 
 The objective is not return projection.
 
-The objective is the elimination of waste within capital systems. ## ## PHASE 5: ALLOCATOR DECISION LENS For institutional allocators the current environment requires a decision framework based on four principles. 
+The objective is the elimination of waste within capital systems. ## ## ALLOCATOR DECISION LENS For institutional allocators the current environment requires a decision framework based on four principles. 
 
 1. Structural arbitrage assessment.
 

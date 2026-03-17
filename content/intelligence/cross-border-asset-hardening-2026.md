@@ -16,7 +16,7 @@ This environment is central to the broader theme of cross-border asset hardening
 
 As global allocators recalibrate portfolios in response to inflation persistence, currency dispersion, and political fragmentation, the requirement is no longer simple diversification.
 
-The dominant requirement is structural resilience: assets that maintain intrinsic value across legal jurisdictions, regulatory cycles, and commodity volatilities while providing predictable operational intelligence. ## ## ## 
+The dominant requirement is structural resilience: assets that maintain intrinsic value across legal jurisdictions, regulatory cycles, and commodity volatilities while providing predictable operational intelligence. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -48,7 +48,7 @@ The Alberta heavy oil corridor, in particular, demonstrates a pronounced structu
 
 Investor sentiment does not match geological risk profiles, regulatory predictability, or the physical necessity of heavy oil in the global refining system.
 
-This is the core inefficiency leveraged by institutional frameworks such as those utilized by Roials Capital and its strategic partner NAEO. ## ## ## 
+This is the core inefficiency leveraged by institutional frameworks such as those utilized by Roials Capital and its strategic partner NAEO. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -132,13 +132,21 @@ The focus is not on creating exposure, but on calibrating exposure.
 
 This is achieved through three primary channels: 
 
-1. Capital Raising and Institutional Alignment Approximately eighty percent of the mandate is focused on kapitalanskaffning for Fund-III and subsequent vintages that emphasize buyouts and add-on platforms.
+1. Capital Raising and Institutional Alignment Approximately eighty percent of 
+
+## THE MANDATE
+
+ is focused on kapitalanskaffning for Fund-III and subsequent vintages that emphasize buyouts and add-on platforms.
 
 The objective is to match institutional LP criteria with operationally sound GP frameworks.
 
 This includes European GPs seeking North American expansion, GCC family offices seeking stabilized industrial exposures, and private credit allocators requiring enforceable security packages. 
 
-2. Strategic Collateralization and Asset-Based Lending Structures Approximately ten percent of the mandate involves asset based lending frameworks that enable liquidity extraction without exposing the allocator to undue volatility.
+2. Strategic Collateralization and Asset-Based Lending Structures Approximately ten percent of 
+
+## THE MANDATE
+
+ involves asset based lending frameworks that enable liquidity extraction without exposing the allocator to undue volatility.
 
 The Asset-Based Lending discipline is used to generate strategic flexibility rather than tactical leverage. 
 
@@ -150,7 +158,7 @@ They benefit from Roials Capital’s ability to introduce stable counterparties 
 
 Through this model, Roials Capital is not acting as a promoter but as a strategic translator between capital and operational realities.
 
-The objective is clarity, not solicitation. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship is a capital discipline anchored in non wasteful resource management.
+The objective is clarity, not solicitation. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is a capital discipline anchored in non wasteful resource management.
 
 It is a theology of capital, not a marketing principle.
 
@@ -170,7 +178,7 @@ The objective is sustainability, not depletion.
 
 NAEO exemplifies this alignment in the Alberta energy corridor through its field discipline, regulatory respect, and engineering precision.
 
-This stewardship filter is essential for allocators seeking to build multi-decade cross-border durability. ## ## PHASE 5: ## ## DECISION MAKING LENS FOR THE ALLOCATOR The allocator must now operate with an institutional lens grounded in three questions: 
+This stewardship filter is essential for allocators seeking to build multi-decade cross-border durability. ## ## ## ## DECISION MAKING LENS FOR THE ALLOCATOR The allocator must now operate with an institutional lens grounded in three questions: 
 
 1. Does the asset exhibit physical or structural qualities that retain value through multiple volatility cycles? 
 

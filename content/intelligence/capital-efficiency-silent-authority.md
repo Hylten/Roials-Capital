@@ -50,7 +50,7 @@ LPs reward managers who operate without friction.
 
 The market no longer pays for potential.
 
-It pays for architecture. ## ## ## 
+It pays for architecture. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -92,7 +92,7 @@ Silent authority is the ability to act before competitors notice pressure points
 
 The firms that understand these gaps build balance sheets that do not react.
 
-They lead. ## ## ## 
+They lead. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -164,7 +164,7 @@ It enables:
 
 -  covenant-neutral liquidity bands 
 
--  asset-level repositioning without cross-default risk Institutional power is the ability to act without signalling. ## ## ## THE 
+-  asset-level repositioning without cross-default risk Institutional power is the ability to act without signalling. ## ## ## THE ## 
 
 ## STRATEGIC MODEL
 
@@ -172,7 +172,11 @@ It enables:
 
 The path to capital authority requires a three-part architecture. 
 
-1. Capital Raising for Fund-III Eighty percent of the mandate focuses on bringing fresh institutional capital into the acquisition engine.
+1. Capital Raising for Fund-III Eighty percent of 
+
+## THE MANDATE
+
+ focuses on bringing fresh institutional capital into the acquisition engine.
 
 LPs reward predictability, but they invest in conviction.
 
@@ -186,7 +190,11 @@ LPs do not invest only in assets.
 
 They invest in the refusal to waste them. 
 
-2. Asset-Based Lending Asset-Backed Frameworks Ten percent of the mandate is asset backed liquidity structures that do not disrupt control.
+2. Asset-Based Lending Asset-Backed Frameworks Ten percent of 
+
+## THE MANDATE
+
+ is asset backed liquidity structures that do not disrupt control.
 
 Asset-Based Lending should be treated as a liquidity membrane.
 
@@ -216,7 +224,7 @@ Regulation creates price inefficiency.
 
 Acquiring MiFID II platforms is an arbitrage play on compliance complexity.
 
-The institutional operator treats it as a competitive moat. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Capital efficiency is not merely financial.
+The institutional operator treats it as a competitive moat. ## ## ## ## ## THE STEWARDSHIP FILTER Capital efficiency is not merely financial.
 
 It is moral.
 
@@ -258,11 +266,13 @@ Long term stewardship is signal.
 
 A balance sheet engineered for longevity outperforms one engineered for optics.
 
-The institution that honors this principle becomes unshakable. ## ## PHASE 5: EXIT Capital authority is measured in basis points gained through collateral discipline, not in narratives.
+The institution that honors this principle becomes unshakable. ## ## EXIT Capital authority is measured in basis points gained through collateral discipline, not in narratives.
 
 Silent efficiency wins.
 
-The mandate is clear.
+## THE MANDATE
+
+ is clear.
 
 Conduct the confidential capital audit. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
 

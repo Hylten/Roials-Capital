@@ -310,7 +310,11 @@ Institutions allocate to frameworks.
 
 Frameworks reflect the principal.
 
-The principal reflects the mandate.
+The principal reflects 
+
+## THE MANDATE
+
+.
 
 If the principal is ordered, the platform is ordered.
 

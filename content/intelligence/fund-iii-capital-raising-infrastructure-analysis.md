@@ -524,7 +524,7 @@ Allocators expect precision.
 
 Precision attracts institutions.
 
-Institutions scale funds. ## ## ## ## 
+Institutions scale funds. ## ## ## ## ## 
 
 ## CONCLUSION
 

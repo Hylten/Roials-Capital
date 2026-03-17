@@ -28,7 +28,9 @@ Direct.
 
 No drift.
 
-The mandate is structural, not cosmetic.
+## THE MANDATE
+
+ is structural, not cosmetic.
 
 The institution that masters Asset-Based Lending engineering at sovereign bandwidth secures two advantages: price-insensitive capital and a predictable liquidity engine able to defend the portfolio under asymmetric pressure.
 
@@ -126,7 +128,9 @@ But all respond to hard collateral and jurisdictional clarity.
 
 Fund‑III uses asset-based structures to harden the story, not to complicate it.
 
-The mandate is simple: convert asset mass into commitment velocity. 
+## THE MANDATE
+
+ is simple: convert asset mass into commitment velocity. 
 
 -  
 
@@ -370,7 +374,11 @@ The hierarchy of priorities reflects that position:
 
 -  10% asset‑based Asset-Backed Frameworks 
 
--  10% strategic and regulatory mandates (NAEOC + MiFID II acquisitions) The mandate is not thematic.
+-  10% strategic and regulatory mandates (NAEOC + MiFID II acquisitions) 
+
+## THE MANDATE
+
+ is not thematic.
 
 It is infrastructural.
 

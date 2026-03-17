@@ -12,7 +12,7 @@ Basel III Endgame, MiFID II operational tightening, and GCC regulatory moderniza
 
 A parallel system is forming, driven not by retail crypto enthusiasm but by sovereign level infrastructure.
 
-The functional rise of sovereign crypto banks reflects a structural response to stalled cross border liquidity and increasing constraints on dollar mobilization from traditional institutions. ## ## ## 
+The functional rise of sovereign crypto banks reflects a structural response to stalled cross border liquidity and increasing constraints on dollar mobilization from traditional institutions. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -38,7 +38,7 @@ They are not retail exchanges.
 
 They are jurisdiction anchored entities operating within sovereign digital asset frameworks in the UAE, Bahrain, Switzerland, and Singapore.
 
-Their function is to provide compliant liquidity against tokenized or cryptographically verifiable collateral with settlement cycles aligned to institutional transaction demands.
+Their function is to provide compliant liquidity against tokenized or cryptographically verifiable collateral with settlement cycles aligned to institutional transaction demands. ## 
 
 ## THE REGIME SHIFT
 
@@ -50,7 +50,7 @@ Their function is to provide compliant liquidity against tokenized or cryptograp
 
 -  Institutionalization of tokenized collateral pools with auditable custody trails.
 
-This environment creates an alternative global liquidity spine operating parallel to conventional banking but fully compatible with institutional scale transactions. ## ## ## 
+This environment creates an alternative global liquidity spine operating parallel to conventional banking but fully compatible with institutional scale transactions. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -120,7 +120,7 @@ The architecture is structured around three pillars:
 
 The analysis includes jurisdictional exposure, collateral type, regulatory constraints, and transaction timing. 
 
-2. Institutional 
+2. Institutional ## 
 
 ## INTRODUCTION
 
@@ -140,7 +140,7 @@ If the transaction intersects with energy, Roials Capital incorporates NAEO as t
 
 NAEO provides the field intelligence, reserve validation, and operational coherence needed for institutional decision making.
 
-If the transaction relates to private credit, M and A, or European capital structuring, Roials Capital handles the alignment directly. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER The stewardship principle excludes speculative behavior.
+If the transaction relates to private credit, M and A, or European capital structuring, Roials Capital handles the alignment directly. ## ## ## ## ## THE STEWARDSHIP FILTER The stewardship principle excludes speculative behavior.
 
 Liquidity must serve productive deployment.
 
@@ -158,7 +158,7 @@ In the context of sovereign crypto banking, stewardship means anchoring liquidit
 
 Stewardship as expressed through **Proverbs 13:22** emphasizes intergenerational asset preservation.
 
-In sovereign crypto banking, this manifests as liquidity structures that respect regulatory integrity, minimize counterparty vulnerability, and strengthen balance sheet durability. ## ## PHASE 5: ## ## DECISION MAKING LENS FOR THE ALLOCATOR The allocator assessing sovereign crypto banking must evaluate five primary dimensions: 
+In sovereign crypto banking, this manifests as liquidity structures that respect regulatory integrity, minimize counterparty vulnerability, and strengthen balance sheet durability. ## ## ## ## DECISION MAKING LENS FOR THE ALLOCATOR The allocator assessing sovereign crypto banking must evaluate five primary dimensions: 
 
 -  Jurisdictional sovereignty of the custody environment. 
 

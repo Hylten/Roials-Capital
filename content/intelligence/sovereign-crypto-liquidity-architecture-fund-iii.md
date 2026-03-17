@@ -34,7 +34,11 @@ Enforcement points.
 
 Institutional-grade predictability across adversarial environments.
 
-That is the mandate.
+That is 
+
+## THE MANDATE
+
+.
 
 Inherited capital seeks expansion vectors. **Proverbs 13:22** states: A good man leaveth an inheritance to his children's children.
 

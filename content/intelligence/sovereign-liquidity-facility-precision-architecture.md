@@ -26,7 +26,7 @@ Cross border settlements shift toward energy indexed benchmarks.
 
 Fund-III must align with this new order because capital formation at scale requires an environment where liquidity is not episodic.
 
-It must be engineered. ## ## ## 
+It must be engineered. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -60,7 +60,7 @@ Inside this regime the sovereign liquidity facility becomes a precision tool.
 
 It is not a rescue instrument.
 
-It is a sequencing instrument that determines national flow continuity. ## ## ## 
+It is a sequencing instrument that determines national flow continuity. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -142,7 +142,7 @@ The facility must not be a drain.
 
 A weekly replenishment mechanism tied to predictable exports or indexed revenue bands stabilizes the facility and protects Fund-III lender profiles.
 
-This transforms sovereign liquidity from episodic to structural. ## ## ## THE 
+This transforms sovereign liquidity from episodic to structural. ## ## ## THE ## 
 
 ## STRATEGIC MODEL
 
@@ -156,7 +156,7 @@ They are not the investment.
 
 They are the environment that allows investments to compound without disruption.
 
-The 
+The ## 
 
 ## STRATEGIC MODEL
 
@@ -196,7 +196,7 @@ NAEOC mandates in the 50M to 250M range benefit from sovereign stability because
 
 -  Cross border energy trades require settlement certainty Sovereign liquidity facilities remove noise.
 
-They allow the special mandate division to operate without politicized interruptions. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER A sovereign facility must reflect stewardship.
+They allow the special mandate division to operate without politicized interruptions. ## ## ## ## ## THE STEWARDSHIP FILTER A sovereign facility must reflect stewardship.
 
 Disorder in financial systems begins with disorder in priorities.
 
@@ -238,7 +238,7 @@ Transparency produces stability.
 
 Stewardship is not a moral preference.
 
-It is a structural imperative. ## ## PHASE 5: EXIT Fund-III benefits when sovereign liquidity becomes a quantifiable asset.
+It is a structural imperative. ## ## EXIT Fund-III benefits when sovereign liquidity becomes a quantifiable asset.
 
 The final discipline is simple: a sovereign facility must maintain a minimum 1.38 liquidity coverage ratio under stress conditions.
 

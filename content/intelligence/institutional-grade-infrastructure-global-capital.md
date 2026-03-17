@@ -16,7 +16,7 @@ The velocity mismatch between institutional allocators and mid-market operators 
 
 That gap is where infrastructure decides outcomes.
 
-Order is not an option. ## ## ## 
+Order is not an option. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -74,7 +74,7 @@ Inflow creates scale.
 
 Scale creates bargaining power in acquisition markets.
 
-The capital stack is a hierarchy, not a marketplace. ## ## ## 
+The capital stack is a hierarchy, not a marketplace. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -130,7 +130,7 @@ No allocator deploys into energy without operational evidence that the GP can qu
 
 Capital respects discipline.
 
-Energy capital demands it. ## ## ## THE 
+Energy capital demands it. ## ## ## THE ## 
 
 ## STRATEGIC MODEL
 
@@ -176,11 +176,15 @@ They do not enter through the same gate as generalist LPs.
 
 The GP must maintain separate compliance rails, jurisdictional onboarding routes, and reporting structures for specialized capital.
 
-One friction point is enough to cost the mandate.
+One friction point is enough to cost 
+
+## THE MANDATE
+
+.
 
 A GP who manages these three systems with precision becomes institution-ready.
 
-A GP who does not remains in the aspirational layer of private markets. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship is an operating principle.
+A GP who does not remains in the aspirational layer of private markets. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is an operating principle.
 
 Waste is a moral failure.
 
@@ -210,7 +214,7 @@ Fund-III is not achieved through force.
 
 It is achieved through order.
 
-Order is an act of stewardship. ## ## PHASE 5: EXIT Our mandate is simple: reduce capital friction by 87 percent across the fund structure and raise the throughput rate of institutional commitments by 3.4 times.
+Order is an act of stewardship. ## ## EXIT Our mandate is simple: reduce capital friction by 87 percent across the fund structure and raise the throughput rate of institutional commitments by 3.4 times.
 
 For a confidential capital audit, initiate contact. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
 

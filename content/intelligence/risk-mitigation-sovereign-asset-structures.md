@@ -18,7 +18,7 @@ This briefing outlines the stability mechanics within sovereign and quasi sovere
 
 The intention is to provide institutional allocators, UHNW family offices, and GP level strategists with a clinical view of how risk is shaped, reduced, and redistributed in Fund-III buyout pathways, liquidity engineering mandates, and North American energy operating corridors through our strategic partner NAEO. ## PHASE 
 
-1. ## ## ## 
+1. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -48,13 +48,17 @@ Replacement cost has risen faster than sale multiples in several jurisdictions, 
 
 This creates intrinsic downside protection when executed with balance sheet optimization and asset hardening principles. ## PHASE 
 
-2. ## ## ## 
+2. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
  Risk mitigation within sovereign grade or sovereign adjacent asset structures is achieved through several layered mechanisms.
 
-These mechanisms vary depending on the mandate, but the underlying logic remains constant.
+These mechanisms vary depending on 
+
+## THE MANDATE
+
+, but the underlying logic remains constant.
 
 Stability is engineered rather than assumed.
 
@@ -122,7 +126,7 @@ This is why our strategic partner NAEO is positioned as an institutional grade o
 
 The relationship provides allocators with operational intelligence, not commodity exposure. ## PHASE 
 
-3. THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator and institutional 
+3. THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator and institutional ## 
 
 ## INTRODUCTION
 

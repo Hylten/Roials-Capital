@@ -270,7 +270,7 @@ The architecture of global liquidity is evolving.
 
 Private credit is one of its primary design tools.
 
-Institutions that understand this shift will shape the next cycle rather than react to it. ## 
+Institutions that understand this shift will shape the next cycle rather than react to it. ## ## 
 
 ## CONCLUSION
 

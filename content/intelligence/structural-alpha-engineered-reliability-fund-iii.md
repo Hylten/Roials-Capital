@@ -332,7 +332,11 @@ The principal voice is simple: Hard assets.
 
 Hard systems.
 
-Hard returns. **Proverbs 13:22** confirms the mandate.
+Hard returns. **Proverbs 13:22** confirms 
+
+## THE MANDATE
+
+.
 
 Fund‑III will expand the signal bandwidth across North America and Europe.
 

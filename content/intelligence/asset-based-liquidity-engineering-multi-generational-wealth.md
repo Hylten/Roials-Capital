@@ -274,7 +274,11 @@ No liquidity matures.
 
 No inheritance survives.
 
-Capital raising is the prime mover. ## ## ## THE MANDATE Institutions that aim to operate beyond a single generation must redesign their capital stack around Asset-Based Lending‑anchored liquidity engines and Fund‑III buyout architectures.
+Capital raising is the prime mover. ## ## ## 
+
+## THE MANDATE
+
+ Institutions that aim to operate beyond a single generation must redesign their capital stack around Asset-Based Lending‑anchored liquidity engines and Fund‑III buyout architectures.
 
 The next decade belongs to institutions capable of converting assets into sovereign liquidity and converting liquidity into dynastic continuity.
 

@@ -14,7 +14,7 @@ Tokenized real estate is not a speculative instrument.
 
 It is a structural evolution in the transmission mechanics of ownership, custody, and settlement. ## PHASE 
 
-1. ## ## ## 
+1. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -46,7 +46,7 @@ Tokenized real estate entered this regime as a structural response, not an innov
 
 It directly aligns with the global allocator’s requirement for traceability, settlement certainty, and cross-jurisdictional regulatory synchronization. ## PHASE 
 
-2. ## ## ## 
+2. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -116,7 +116,7 @@ It is structural.
 
 Roials Capital focuses on: 
 
--  Institutional 
+-  Institutional ## 
 
 ## INTRODUCTION
 

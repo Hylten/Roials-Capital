@@ -16,7 +16,7 @@ It has become a primary determinant of institutional resilience.
 
 The allocator who navigates this regime shift with structural clarity will preserve optionality while enhancing opportunity velocity across Buyouts, Asset-Based Lending, and real asset exposures. ## PHASE 
 
-1. ## ## ## 
+1. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -44,7 +44,7 @@ Each category operates under different risk parameters, yet all share one common
 
 Balance sheet flexibility is the institutional advantage. ## PHASE 
 
-2. ## ## ## 
+2. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -116,7 +116,11 @@ Key elements include:
 
 -  Covenant frameworks tied to operational metrics rather than market indices.
 
-North American Energy Liquidity If the mandate involves NAEO or similar energy operators, liquidity forecasting is driven by reservoir mechanics and volumetric outputs. 
+North American Energy Liquidity If 
+
+## THE MANDATE
+
+ involves NAEO or similar energy operators, liquidity forecasting is driven by reservoir mechanics and volumetric outputs. 
 
 -  SAGD: Predictable thermal efficiency, stable steam oil ratios, and gradual decline curves. 
 

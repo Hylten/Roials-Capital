@@ -10,7 +10,7 @@ The capital vacuum shaping North American and European private markets is the pr
 
 Asset Based Financing has emerged as a stabilizing mechanism within this regime shift, providing private wealth holders and institutional allocators a disciplined tool for liquidity engineering, portfolio recalibration, and acquisition sequencing.
 
-What was once a specialist instrument for working capital optimization has become a strategic anchor for modern UHNW balance sheets and for GP platforms scaling through Fund-III and beyond. ## ## ## 
+What was once a specialist instrument for working capital optimization has become a strategic anchor for modern UHNW balance sheets and for GP platforms scaling through Fund-III and beyond. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -48,7 +48,7 @@ Within this context, NAEO serves as an institutional grade operating partner for
 
 These macro conditions define a regime where Asset Based Financing is not tactical.
 
-It is a structural necessity. ## ## ## 
+It is a structural necessity. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -162,7 +162,7 @@ This includes:
 
 3. ABL as a Stewardship Instrument UHNW families increasingly view ABL as a discipline mechanism.
 
-By locking liquidity releases to asset quality and operational performance, the family office enforces a form of financial stewardship that aligns with generational preservation principles. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship is the governing discipline that ensures capital is deployed in a manner consistent with long term responsibility.
+By locking liquidity releases to asset quality and operational performance, the family office enforces a form of financial stewardship that aligns with generational preservation principles. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is the governing discipline that ensures capital is deployed in a manner consistent with long term responsibility.
 
 Asset Based Financing supports stewardship in four distinct ways. 
 
@@ -184,7 +184,7 @@ The process naturally increases institutional grade reporting and valuation fram
 
 4. Integration with Real Asset Theology The modern UHNW landscape increasingly favors real assets: energy production, industrial equipment, operating companies, logistics infrastructure, and specialized facilities.
 
-ABL supports this shift because it is inherently tied to operational productivity, not speculative financial engineering. ## ## PHASE 5: ## ## DECISION MAKING LENS FOR THE ALLOCATOR Asset Based Financing should be evaluated not as a product but as a structural instrument that recalibrates the allocator's strategic architecture.
+ABL supports this shift because it is inherently tied to operational productivity, not speculative financial engineering. ## ## ## ## DECISION MAKING LENS FOR THE ALLOCATOR Asset Based Financing should be evaluated not as a product but as a structural instrument that recalibrates the allocator's strategic architecture.
 
 The following evaluation matrix serves as a lens for institutional and private wealth decision makers. 
 

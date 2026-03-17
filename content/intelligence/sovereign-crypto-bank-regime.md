@@ -94,7 +94,7 @@ They value certainty over rate.
 
 They value time over yield.
 
-They value sovereignty above everything. # The 
+They value sovereignty above everything. # The ## 
 
 ## STRATEGIC MODEL
 
@@ -144,7 +144,7 @@ It builds corridors and lets capital flow through them.
 
 This model positions Fund-III not as a fund.
 
-It becomes a sovereign-style balance sheet built on private discipline. # ## ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship defines the boundary between velocity and waste.
+It becomes a sovereign-style balance sheet built on private discipline. # ## ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship defines the boundary between velocity and waste.
 
 A sovereign crypto bank uses discipline because undisciplined issuance destroys national trust.
 
@@ -152,7 +152,11 @@ A private allocator must treat capital with the same reverence.
 
 Waste is sin.
 
-Disorder is sin. **Proverbs 13:22** sets the mandate: wealth is to endure across generations.
+Disorder is sin. **Proverbs 13:22** sets 
+
+## THE MANDATE
+
+: wealth is to endure across generations.
 
 That endurance requires structure.
 
@@ -182,7 +186,7 @@ A steward multiplies.
 
 A steward rejects friction.
 
-When Fund-III integrates the sovereign crypto bank architecture with a stewardship doctrine, it becomes a fortress in a financial world defined by instability. # ## ## ## PHASE 5: EXIT The institutional mandate is simple.
+When Fund-III integrates the sovereign crypto bank architecture with a stewardship doctrine, it becomes a fortress in a financial world defined by instability. # ## ## ## EXIT The institutional mandate is simple.
 
 Reduce liquidity latency to sub 180 seconds across the entire acquisition cycle.
 

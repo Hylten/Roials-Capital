@@ -18,7 +18,7 @@ It is the direct result of allocators demanding greater cognitive visibility int
 
 This briefing outlines a technical template for Strategic CEO Persona Hooks that reinforce institutional confidence, accelerate Fund-III introductions, and create alignment with private credit partners, MiFID II acquisition stakeholders, and energy sector institutions such as NAEOC. ## PHASE 
 
-1. ## ## ## 
+1. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -56,7 +56,7 @@ The modern CEO must serve as a translation layer between operational realities a
 
 This translation layer is where Strategic CEO Persona Hooks become critical. ## PHASE 
 
-2. ## ## ## 
+2. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -114,7 +114,7 @@ These five filters form the cognitive template that allocators use to assess CEO
 
 The Strategic CEO Persona Hook must speak directly into these institutional filters with clinical precision. ## PHASE 
 
-3. ## ## ## THE 
+3. ## ## ## THE ## 
 
 ## STRATEGIC MODEL
 
@@ -292,7 +292,7 @@ Allocators interpret this persona as trustworthy.
 
 Hook 
 
-9. The Institutional 
+9. The Institutional ## 
 
 ## INTRODUCTION
 

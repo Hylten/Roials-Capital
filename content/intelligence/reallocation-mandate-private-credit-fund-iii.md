@@ -36,7 +36,7 @@ The regime that governed the past twelve years is finished.
 
 The next regime rewards precision, adaptability, and institutional architecture. ## PHASE 
 
-1. ## ## ## 
+1. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -78,7 +78,7 @@ Now operators of efficient credit platforms dictate them.
 
 That shift is irreversible. ## PHASE 
 
-2. ## ## ## 
+2. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -154,7 +154,7 @@ The market rewards those who build internal execution engines with less than 4 t
 
 Anything slower is obsolete. ## PHASE 
 
-3. ## ## ## THE 
+3. ## ## ## THE ## 
 
 ## STRATEGIC MODEL
 

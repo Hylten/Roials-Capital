@@ -232,7 +232,7 @@ We maintain the silent authority required for ultra‑capital operations.
 
 The future is not experimental.
 
-It is engineered. ## 
+It is engineered. ## ## 
 
 ## CONCLUSION
 

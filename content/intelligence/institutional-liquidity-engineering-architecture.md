@@ -12,7 +12,7 @@ In this regime, the allocator with advanced liquidity architecture secures asymm
 
 The modern market environment rewards precision in capital formation, not scale.
 
-Liquidity engineered strategically can redefine asset longevity, accelerate acquisition cycles, and compress financing frictions across sectors. ## ## ## 
+Liquidity engineered strategically can redefine asset longevity, accelerate acquisition cycles, and compress financing frictions across sectors. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -52,7 +52,7 @@ These four forces collectively define the current regime.
 
 They establish a macro environment where liquidity is no longer a commodity but a strategic asset.
 
-Balance sheet optimization, collateral sequencing, and cash flow hardening become essential disciplines for allocators seeking to maintain allocation velocity without exposing themselves to amplified risk dynamics. ## ## ## 
+Balance sheet optimization, collateral sequencing, and cash flow hardening become essential disciplines for allocators seeking to maintain allocation velocity without exposing themselves to amplified risk dynamics. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -108,7 +108,9 @@ For Fund-III+ managers operating in buyout and add on environments, the ability 
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator within this liquidity environment.
 
-The mandate is not intermediation but alignment.
+## THE MANDATE
+
+ is not intermediation but alignment.
 
 The objective is to structure pathways, introduce institutionally compatible partners, and define the architecture that allows liquidity to move efficiently across borders, sectors, and collateral types.
 
@@ -120,7 +122,11 @@ These include control buyouts, platform expansion strategies, and multi asset po
 
 The value lies in compressing fundraising friction, establishing alignment with European and North American allocators, and enhancing structural cohesion between LP expectations and GP strategy. 
 
-2. Monetization Architecture for High Value Assets Roughly 10 percent of the mandate focuses on Monetization Architecture through asset backed lending, structured credit, and collateral optimization.
+2. Monetization Architecture for High Value Assets Roughly 10 percent of 
+
+## THE MANDATE
+
+ focuses on Monetization Architecture through asset backed lending, structured credit, and collateral optimization.
 
 The objective is to extend liquidity to operators, family offices, and institutions with strong underlying assets but insufficient leverageable liquidity within traditional channels. 
 
@@ -136,7 +142,7 @@ These assets provide predictable operational physics that align with institution
 
 Roials Capital positions itself as the strategist, not the asset owner.
 
-The focus is governance, precision, and structural integrity. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship is the discipline of deploying capital without waste.
+The focus is governance, precision, and structural integrity. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is the discipline of deploying capital without waste.
 
 It is the doctrine that resources are finite and must be managed with precision, accountability, and long term foresight.
 
@@ -154,7 +160,7 @@ Stewardship requires maintaining seniority hierarchies, protecting cash flows, a
 
 Liquidity architecture should extend the operational horizon, not compress it. 
 
-4. Accountability in Structure Every liquidity instrument must align with ethical, regulatory, and operational standards consistent with institutional capital. ## ## PHASE 5: ## ## DECISION MAKING LENS FOR THE ALLOCATOR Allocators must navigate a capital landscape where structural inefficiencies produce both friction and opportunity.
+4. Accountability in Structure Every liquidity instrument must align with ethical, regulatory, and operational standards consistent with institutional capital. ## ## ## ## DECISION MAKING LENS FOR THE ALLOCATOR Allocators must navigate a capital landscape where structural inefficiencies produce both friction and opportunity.
 
 The institutions that succeed in this environment will be those that internalize Capital Structuring as a strategic discipline rather than a transactional solution.
 

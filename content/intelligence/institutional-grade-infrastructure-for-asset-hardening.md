@@ -14,7 +14,9 @@ It is intentional design for capital that must remain functional under stress.
 
 ROIALS CAPITAL positions itself at the intersection of private credit, asset based Monetization Architecture, and structural Capital Structuring.
 
-The mandate is simple.
+## THE MANDATE
+
+ is simple.
 
 Protect the underlying asset, preserve mobility of capital, and maintain silent authority over the financial mechanics that govern multi jurisdictional wealth. ## Multi Layered Asset Protection Asset hardening requires more than liquidity.
 

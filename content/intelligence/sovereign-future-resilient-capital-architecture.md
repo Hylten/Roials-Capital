@@ -24,7 +24,9 @@ Not scale.
 
 Not speed.
 
-The mandate is durability.
+## THE MANDATE
+
+ is durability.
 
 Hard-bounded capital.
 
@@ -424,7 +426,11 @@ This is the design.
 
 This is the direction.
 
-This is the mandate.
+This is 
+
+## THE MANDATE
+
+.
 
 Exit on conviction.
 

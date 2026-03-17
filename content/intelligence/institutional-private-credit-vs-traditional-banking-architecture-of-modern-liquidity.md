@@ -10,7 +10,7 @@ The capital vacuum across North American and European credit markets is a struct
 
 Basel IV, regional banking consolidation, and supervisory tightening have created an environment where traditional lenders maintain balance sheet exposure but cannot transition sufficient capital into middle-market and asset-backed credit.
 
-The result is a dual-track financing regime: banks maintain settlement infrastructure while private credit funds deliver actual liquidity. ## ## ## 
+The result is a dual-track financing regime: banks maintain settlement infrastructure while private credit funds deliver actual liquidity. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -44,7 +44,7 @@ The modern liquidity regime operates on the principle that institutional capital
 
 This is not a temporary anomaly.
 
-It is the structural architecture of the next decade. ## ## ## 
+It is the structural architecture of the next decade. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -110,7 +110,11 @@ The institutional ecosystem requires calibrated introductions that align LP expe
 
 Roials ensures alignment between investor archetypes and fund strategy. 
 
-2. Capital Structuring and Asset-Based Lending Structures Ten percent of the mandate supports asset-based lending frameworks.
+2. Capital Structuring and Asset-Based Lending Structures Ten percent of 
+
+## THE MANDATE
+
+ supports asset-based lending frameworks.
 
 These credit lines stabilize balance sheets and increase opportunity velocity for operators transitioning between acquisition cycles.
 
@@ -126,7 +130,7 @@ In energy, NAEO provides the institutional-grade technical backbone.
 
 Roials Capital maintains neutrality.
 
-This ensures the architecture serves allocators rather than internal balance sheet incentives. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Every allocator with long-duration capital recognizes that stewardship is essential for sustaining multi-cycle performance.
+This ensures the architecture serves allocators rather than internal balance sheet incentives. ## ## ## ## ## THE STEWARDSHIP FILTER Every allocator with long-duration capital recognizes that stewardship is essential for sustaining multi-cycle performance.
 
 Stewardship is not a philosophical statement.
 
@@ -146,7 +150,7 @@ Whether in energy, manufacturing, or technology, durability enhances portfolio r
 
 Stewardship requires intentional architecture, not reactive behavior.
 
-Private credit provides this structure because its discipline is rooted in covenant-based governance and operational intelligence. ## ## PHASE 5: DECISION-MAKING LENS FOR ALLOCATORS The strategic question for institutional allocators is no longer whether private credit will replace traditional lending.
+Private credit provides this structure because its discipline is rooted in covenant-based governance and operational intelligence. ## ## DECISION-MAKING LENS FOR ALLOCATORS The strategic question for institutional allocators is no longer whether private credit will replace traditional lending.
 
 It already has.
 

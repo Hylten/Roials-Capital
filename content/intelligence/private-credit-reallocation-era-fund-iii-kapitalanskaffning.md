@@ -358,7 +358,11 @@ This is the architecture of durable capital.
 
 This is the inheritance principle.
 
-This is the mandate of the reallocation era.
+This is 
+
+## THE MANDATE
+
+ of the reallocation era.
 
 CONFIDENTIAL CAPITAL AUDIT REQUIRED.
 

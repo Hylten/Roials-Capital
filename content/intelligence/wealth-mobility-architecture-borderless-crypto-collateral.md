@@ -12,7 +12,7 @@ The constraint is the institutional difficulty of transforming wealth into mobil
 
 A new regime has emerged where borderless digital collateral can be engineered to support institutional grade acquisitions without violating the disciplined principles that govern private credit, GP underwriting, or sovereign regulatory frameworks. ## PHASE 
 
-1. ## ## ## 
+1. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -54,7 +54,7 @@ It is capital mobility.
 
 This has elevated the strategic importance of crypto backed collateral systems that can be architected within institutional guardrails, without resorting to speculative leverage. ## PHASE 
 
-2. ## ## ## 
+2. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -126,7 +126,9 @@ When structured correctly, the asset behaves as a high mobility pledgeable instr
 
 The function is not to manage assets or solicit commitments.
 
-The mandate is to guide institutional allocators, family offices, and GP groups through the process of integrating digital collateral into multinational acquisition frameworks in a manner that respects regulatory structure and institutional discipline.
+## THE MANDATE
+
+ is to guide institutional allocators, family offices, and GP groups through the process of integrating digital collateral into multinational acquisition frameworks in a manner that respects regulatory structure and institutional discipline.
 
 The role is threefold. 
 

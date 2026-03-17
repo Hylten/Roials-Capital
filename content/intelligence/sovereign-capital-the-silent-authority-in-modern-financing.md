@@ -144,11 +144,11 @@ It is the authority behind the transaction.
 
 The layer beneath the structure.
 
-The quiet foundation that allows power to remain uninterrupted. ## 
+The quiet foundation that allows power to remain uninterrupted. ## ## 
 
 ## CONCLUSION
 
-: Architecture Over Activity Sovereign capital is not active.
+ : Architecture Over Activity Sovereign capital is not active.
 
 It is architectural.
 

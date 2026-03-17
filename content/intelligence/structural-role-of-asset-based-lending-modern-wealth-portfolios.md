@@ -10,7 +10,7 @@ The liquidity deficit across global private markets is the direct outcome of cap
 
 From 2023 through 2026, Asset Based Lending has shifted from a niche credit instrument into a structural pillar for institutional allocators seeking controlled liquidity, insulated volatility, and predictable asset conversion.
 
-In environments where duration risk, rate stickiness, and collateral valuation opacity challenge traditional underwriting, ABL has reemerged as the operational mechanism that converts hard collateral into strategic optionality. ## ## ## 
+In environments where duration risk, rate stickiness, and collateral valuation opacity challenge traditional underwriting, ABL has reemerged as the operational mechanism that converts hard collateral into strategic optionality. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -48,7 +48,7 @@ At the same time, energy markets in Alberta, where our strategic partner NAEO op
 
 This vacuum reinforces the importance of ABL dynamics because a significant portion of Western Canadian energy assets are collateral rich but capital starved.
 
-In these environments, collateral orientation produces higher technical visibility than cash flow underwriting. ## ## ## 
+In these environments, collateral orientation produces higher technical visibility than cash flow underwriting. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -120,7 +120,7 @@ THE PARTNERSHIP MODEL Roials Capital functions as a neutral institutional naviga
 
 -  Tertiary: Strategic mandates including North American energy (NAEOC 50M to 250M), MiFID II aligned European acquisitions, and Gulf allocation pathways.
 
-The partnership model operates through institutional 
+The partnership model operates through institutional ## 
 
 ## INTRODUCTION
 
@@ -142,7 +142,7 @@ But the broader ABL ecosystem spans manufacturing, industrials, logistics, and d
 
 The institutional role of Roials Capital is to ensure that UHNWIs, family offices, and private equity platforms access ABL solutions aligned with their risk tolerances and portfolio construction strategy.
 
-This avoids overleveraging, prevents mismatched duration structures, and ensures liquidity is engineered with strategic intent. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship is the discipline of applying capital in a manner aligned with preservation, sustainability, and long term functional prosperity. **Proverbs 13:22** defines stewardship as multigenerational preparation.
+This avoids overleveraging, prevents mismatched duration structures, and ensures liquidity is engineered with strategic intent. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is the discipline of applying capital in a manner aligned with preservation, sustainability, and long term functional prosperity. **Proverbs 13:22** defines stewardship as multigenerational preparation.
 
 This orientation applies directly to ABL because the structure is inherently designed to preserve equity, protect operational continuity, and reinforce disciplined capital deployment.
 
@@ -162,7 +162,7 @@ This stewardship framework is particularly relevant for family offices that seek
 
 Allocators focused on lineage capital dynamics often prioritize instruments that sustain operational continuity rather than instruments that require high risk directional bets.
 
-ABL, when structured responsibly, fits this profile. ## ## PHASE 5: THE ## ## DECISION MAKING LENS FOR THE ALLOCATOR Institutional allocators assessing the modern role of ABL require a structured evaluation lens that incorporates four dimensions: 
+ABL, when structured responsibly, fits this profile. ## ## THE ## ## DECISION MAKING LENS FOR THE ALLOCATOR Institutional allocators assessing the modern role of ABL require a structured evaluation lens that incorporates four dimensions: 
 
 1. Balance Sheet Positioning Does the ABL structure enhance liquidity without creating cross portfolio fragility. 
 

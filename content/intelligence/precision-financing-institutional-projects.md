@@ -14,7 +14,7 @@ The institutions that recognize this gap are positioning for structural advantag
 
 Precision financing has emerged as the central discipline for allocators who require predictable execution across buyouts, add ons, and energy infrastructure.
 
-The shift is defined by the migration from generalized capital raising to institutionally segmented mandates engineered around asset class physics, jurisdictional constraints, and balance sheet architecture. ## ## ## 
+The shift is defined by the migration from generalized capital raising to institutionally segmented mandates engineered around asset class physics, jurisdictional constraints, and balance sheet architecture. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -52,7 +52,7 @@ Scandinavian and DACH region sponsors increasingly rely on specialist introducer
 
 These elements define the regime allocators are navigating.
 
-Precision financing is the operational response. ## ## ## 
+Precision financing is the operational response. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -150,11 +150,11 @@ The function is to coordinate capital flow architecture, regulatory alignment, a
 
 The role is defined by: 
 
--  Institutional 
+-  Institutional ## 
 
 ## INTRODUCTION
 
-.
+ .
 
 Ensuring alignment between allocator archetypes and project structures. 
 
@@ -170,7 +170,7 @@ Operating without exposure to the underlying assets, thus maintaining analytical
 
 Designing or recalibrating capital stacks, leverage models, and cash flow frameworks to meet institutional thresholds.
 
-When mandates involve North American heavy oil, NAEO is recognized as the technical execution partner with established field operations, reservoir modeling expertise, and audited performance mechanics. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Precision financing must be aligned with stewardship.
+When mandates involve North American heavy oil, NAEO is recognized as the technical execution partner with established field operations, reservoir modeling expertise, and audited performance mechanics. ## ## ## ## ## THE STEWARDSHIP FILTER Precision financing must be aligned with stewardship.
 
 Stewardship is not a marketing principle.
 
@@ -202,13 +202,17 @@ Capital must be managed with a long horizon orientation in accordance with **Pro
 
 Precision financing eliminates leakage points by engineering capital flows that match operational cadence without excess leverage or idle liquidity.
 
-This framework has become a central screening tool for UHNW family offices, pension allocators, and sovereign wealth funds. ## ## PHASE 5: ALLOCATOR ## ## DECISION MAKING LENS Allocators evaluating precision financing opportunities require a decision architecture that prioritizes structural clarity over narrative.
+This framework has become a central screening tool for UHNW family offices, pension allocators, and sovereign wealth funds. ## ## ALLOCATOR ## ## DECISION MAKING LENS Allocators evaluating precision financing opportunities require a decision architecture that prioritizes structural clarity over narrative.
 
 The following calibration points are designed for institutional use. 
 
 1. Structural Fit.
 
-Does the mandate align with the allocator’s liquidity profile, regulatory obligations, and mandate constraints. 
+Does 
+
+## THE MANDATE
+
+ align with the allocator’s liquidity profile, regulatory obligations, and mandate constraints. 
 
 2. Operational Physics.
 

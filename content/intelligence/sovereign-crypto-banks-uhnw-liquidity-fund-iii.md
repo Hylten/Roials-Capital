@@ -22,11 +22,11 @@ The traditional banking stack cannot support real-time collateralization, multi-
 
 Sovereign crypto banks can.
 
-This is 
+This is ## 
 
 ## THE REGIME SHIFT
 
-. ## ## ## 
+ . ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -68,7 +68,7 @@ For UHNW families, this is not ideology.
 
 This is survival.
 
-For Fund-III GPs, this is compounding. ## ## ## 
+For Fund-III GPs, this is compounding. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -128,7 +128,7 @@ They eliminate manual underwriting.
 
 They eliminate the bottlenecks created by compliance departments trapped in pre-digital governance.
 
-Velocity is the new collateral. ## ## ## THE 
+Velocity is the new collateral. ## ## ## THE ## 
 
 ## STRATEGIC MODEL
 
@@ -140,7 +140,7 @@ They become the liquidity partner for funds scaling from Fund-II to Fund-III.
 
 They strengthen buyout execution, provide interim financing, and act as the synthetic treasury desk for acquisitive platforms.
 
-The 
+The ## 
 
 ## STRATEGIC MODEL
 
@@ -180,7 +180,7 @@ It becomes a kinetic buyer.
 
 Fund-III is not an AUM milestone.
 
-It is a tactical transformation. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER No institution survives without clarity of mission.
+It is a tactical transformation. ## ## ## ## ## THE STEWARDSHIP FILTER No institution survives without clarity of mission.
 
 Capital is not neutral.
 
@@ -224,7 +224,7 @@ It is architecture.
 
 It is obedience.
 
-Sovereign crypto banks simply provide the instrument set necessary to practice biblical stewardship at institutional scale. ## ## PHASE 5: EXIT The future of UHNW liquidity is not digital.
+Sovereign crypto banks simply provide the instrument set necessary to practice biblical stewardship at institutional scale. ## ## EXIT The future of UHNW liquidity is not digital.
 
 It is sovereign.
 

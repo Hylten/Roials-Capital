@@ -116,7 +116,11 @@ Alpha is a bonus.
 
 Preservation is the job.
 
-Kapitalanskaffning-80% of the mandate-demands narrative compression.
+Kapitalanskaffning-80% of 
+
+## THE MANDATE
+
+-demands narrative compression.
 
 LPs do not want the full story.
 

@@ -10,7 +10,7 @@ The capital vacuum in North American middle market finance is a consequence of r
 
 This vacuum has repositioned Asset Based Lending as a structural stabilizer within diversified UHNW and institutional portfolios.
 
-In the current regime, ABL functions not as a niche credit instrument but as an essential mechanism for Liquidity Engineering and capital stack precision across acquisition cycles, especially for allocators supporting Fund-III environments where buyout velocity requires calibrated liquidity and controlled downside. ## ## ## 
+In the current regime, ABL functions not as a niche credit instrument but as an essential mechanism for Liquidity Engineering and capital stack precision across acquisition cycles, especially for allocators supporting Fund-III environments where buyout velocity requires calibrated liquidity and controlled downside. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -46,7 +46,7 @@ In a buyout environment, this flexibility functions as a prerequisite for growth
 
 The result is a regime shift where ABL is no longer supplementary capital.
 
-It is an operational necessity for companies with asset centric balance sheets and a stabilizing allocation for UHNW and institutional portfolios seeking income predictability without exposure to complex or opaque credit risk. ## ## ## 
+It is an operational necessity for companies with asset centric balance sheets and a stabilizing allocation for UHNW and institutional portfolios seeking income predictability without exposure to complex or opaque credit risk. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -138,7 +138,7 @@ When energy mandates arise, the relationship with NAEO provides clarity on Alber
 
 The Alberta energy landscape contains heavy oil assets with predictable decline curves, measurable recovery factors, and operational regimes based on SAGD and CSS methodologies.
 
-Although ABL is distinct from energy financing, the principles of liquidity discipline and asset fidelity remain consistent across both domains. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship in capital environments refers to disciplined resource management rather than opportunistic extraction.
+Although ABL is distinct from energy financing, the principles of liquidity discipline and asset fidelity remain consistent across both domains. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship in capital environments refers to disciplined resource management rather than opportunistic extraction.
 
 Stewardship aligns with a theology of capital in which capital is treated as a long horizon resource requiring non wasteful allocation. 
 
@@ -156,7 +156,7 @@ It emphasizes real assets, verifiable value, and tangible productivity.
 
 ABL aligns with this because its underwriting is grounded in identifiable inventories, receivables, and equipment rather than speculative valuation narratives.
 
-The stewardship filter elevates ABL from a financial instrument to a discipline of capital management. ## ## PHASE 5: PORTFOLIO CALIBRATION FOR DECISION MAKERS Institutional allocators navigating the current regime benefit from repositioning ABL as a structural rather than tactical portfolio component.
+The stewardship filter elevates ABL from a financial instrument to a discipline of capital management. ## ## PORTFOLIO CALIBRATION FOR DECISION MAKERS Institutional allocators navigating the current regime benefit from repositioning ABL as a structural rather than tactical portfolio component.
 
 The allocator lens focuses on three strategic outcomes. 
 

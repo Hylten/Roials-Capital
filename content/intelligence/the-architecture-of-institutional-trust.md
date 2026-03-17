@@ -322,11 +322,11 @@ It all exists to create predictability and reduce fragility.
 
 Our clients rely on that predictability.
 
-Our systems enforce it. ## 
+Our systems enforce it. ## ## 
 
 ## CONCLUSION
 
-: Trust as a Structural Outcome Trust is not declared.
+ : Trust as a Structural Outcome Trust is not declared.
 
 It is engineered.
 

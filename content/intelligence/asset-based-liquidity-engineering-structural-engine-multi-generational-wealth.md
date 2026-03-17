@@ -12,7 +12,7 @@ This same structural distortion is mirrored across private credit, real asset fi
 
 The result is a regime where multi generational wealth is no longer a function of capital accumulation but capital architecture.
 
-In this regime, Asset Based Strategic Collateralization operates as the primary engine for permanence, continuity, and institutional longevity. ## ## ## 
+In this regime, Asset Based Strategic Collateralization operates as the primary engine for permanence, continuity, and institutional longevity. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -60,7 +60,7 @@ They can acquire distressed or mispriced assets during capital shortfalls.
 
 They can maintain operational continuity without forced liquidation.
 
-They can extend planning horizons beyond market cycles. ## ## ## 
+They can extend planning horizons beyond market cycles. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -162,7 +162,7 @@ Instead, the function is to structure, coordinate, and architect the alignment b
 
 -  European MiFID II acquirers seeking regulated entry 
 
--  Private credit providers executing on collateral centric mandates In this role, Roials Capital’s objective is to create Institutional 
+-  Private credit providers executing on collateral centric mandates In this role, Roials Capital’s objective is to create Institutional ## 
 
 ## INTRODUCTION
 
@@ -186,7 +186,7 @@ The objective is capital architecture.
 
 Well structured capital attracts capital.
 
-Poorly structured capital destroys it. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship is the discipline that integrates financial prudence with resource responsibility.
+Poorly structured capital destroys it. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is the discipline that integrates financial prudence with resource responsibility.
 
 It is not philanthropy.
 
@@ -216,7 +216,7 @@ In asset based Monetization Architecture, stewardship manifests as:
 
 Strategic Collateralization converts permanence into opportunity.
 
-Together they create the structural engine for multi generational resilience. ## ## PHASE 5: ## ## DECISION MAKING LENS FOR THE ALLOCATOR The allocator looking to build or preserve a multi generational capital base must assess portfolios through four filters: 
+Together they create the structural engine for multi generational resilience. ## ## ## ## DECISION MAKING LENS FOR THE ALLOCATOR The allocator looking to build or preserve a multi generational capital base must assess portfolios through four filters: 
 
 1. Asset Durability Does the asset maintain intrinsic value regardless of external volatility. 
 

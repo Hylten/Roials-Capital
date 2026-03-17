@@ -10,7 +10,7 @@ Order does not appear by accident.
 
 It is engineered through constraints, enforced through governance, and preserved by capital structures that cannot fracture under volatility. ## PHASE 
 
-1. ## ## ## 
+1. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -58,7 +58,7 @@ This is why asset hardening is not a technique.
 
 It is a regime. ## PHASE 
 
-2. ## ## ## 
+2. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -146,7 +146,7 @@ The technical stack must include:
 
 Capital must never carry assets that cannot carry themselves. ## PHASE 
 
-3. ## ## ## THE 
+3. ## ## ## THE ## 
 
 ## STRATEGIC MODEL
 

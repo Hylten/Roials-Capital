@@ -6,7 +6,7 @@ author: "Roials Capital"
 slug: "topological-asset-architecture-frameworks-for-multi-layer-portfolios-using-the-sovereign-protocol-technique"
 ---
 
-# Topological Asset Architecture Frameworks for Multi Layer Portfolios Using The Sovereign Protocol Technique ## 
+# Topological Asset Architecture Frameworks for Multi Layer Portfolios Using The Sovereign Protocol Technique ## ## 
 
 ## INTRODUCTION
 
@@ -262,7 +262,7 @@ Long horizon engineering includes:
 
 -  Use continuous topology scanning 
 
--  Maintain protocol based oversight The architecture becomes a living system that requires precise governance. ## 
+-  Maintain protocol based oversight The architecture becomes a living system that requires precise governance. ## ## 
 
 ## CONCLUSION
 

@@ -438,7 +438,11 @@ Fund‑III is not a fund.
 
 It is a sovereign engine for acquisition, compression, and mobility across real‑world assets.
 
-Engineered sovereignty is the mandate. ## REQUEST For LP/GP alignment, cross‑jurisdictional preparation, and mandate intake, initiate a confidential capital audit.
+Engineered sovereignty is 
+
+## THE MANDATE
+
+. ## REQUEST For LP/GP alignment, cross‑jurisdictional preparation, and mandate intake, initiate a confidential capital audit.
 
 Terminal Metric: Enforcement Latency Target = <72 hours. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
 

@@ -124,11 +124,11 @@ Asset-backed capital fills the operational gap between fund resources and acquis
 
 Northern Europe becomes the safe harbor.
 
-These forces converge into the same 
+These forces converge into the same ## 
 
 ## CONCLUSION
 
-: private lenders with institutional discipline dominate the next cycle. 
+ : private lenders with institutional discipline dominate the next cycle. 
 
 -  
 

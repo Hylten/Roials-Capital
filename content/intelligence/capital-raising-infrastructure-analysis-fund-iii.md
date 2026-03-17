@@ -12,7 +12,7 @@ It is the direct expression of regulatory deceleration, increased compliance dra
 
 The allocators who understand this structural gap are reallocating from generalized asset pools toward platforms with disciplined Asset-Backed Frameworks, predictable operational cadence, and established Fund-III architectures with validated acquisition engines. ## PHASE 
 
-1. ## ## ## 
+1. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -42,7 +42,7 @@ This is where specialized partners such as NAEOC create alignment through standa
 
 When combined with institutional-grade structuring, the Alberta corridor becomes an efficient deployment zone for capital seeking cash-flow durability rather than volumetric speculation. ## PHASE 
 
-2. ## ## ## 
+2. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -108,7 +108,7 @@ NAEOC standardizes domain underwriting, provides technical field intelligence, a
 
 In EU structures, MiFID II frameworks require a governance infrastructure capable of supporting multi-jurisdictional oversight, data standardization, and transparent capital provenance. ## PHASE 
 
-3. ## ## ## THE 
+3. ## ## ## THE ## 
 
 ## STRATEGIC MODEL
 
@@ -120,11 +120,11 @@ The role of the institutional introducer is to create alignment between allocato
 
 The architecture consists of four components. 
 
-1. Institutional 
+1. Institutional ## 
 
 ## INTRODUCTION
 
- Layer The 
+ Layer The ## 
 
 ## INTRODUCTION
 

@@ -12,7 +12,9 @@ It has matured into a primary sovereign mandate for institutional firms that ope
 
 The transition from static collateralization to dynamic asset monetization is now a structural requirement for Fund‑III scale investors.
 
-The mandate is clear.
+## THE MANDATE
+
+ is clear.
 
 Hard assets must speak.
 
@@ -102,7 +104,9 @@ Routing determines leverage.
 
 Leverage determines acquisition sequencing.
 
-The mandate: keep Fund‑III acquisition capacity sharp, liquid, transferable, and sovereign‑aligned.
+## THE MANDATE
+
+: keep Fund‑III acquisition capacity sharp, liquid, transferable, and sovereign‑aligned.
 
 Machine gun syntax.
 

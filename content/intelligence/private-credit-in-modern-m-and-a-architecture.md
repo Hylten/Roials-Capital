@@ -14,7 +14,7 @@ It is the structural outcome of shifts in Basel frameworks, European prudential 
 
 The modern gap is between what institutional buyers demand and what regulated lenders can underwrite.
 
-Private credit has become the dominant mechanism for resolving this misalignment. ## ## ## 
+Private credit has become the dominant mechanism for resolving this misalignment. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -42,7 +42,7 @@ It is systemic infrastructure.
 
 It provides certainty of execution, which has become more valuable than nominal pricing.
 
-For Fund-III environments, certainty of execution has become the dominant competitive variable because AUM expansion is constrained by two forces: slower LP commitments and increasingly complex regulatory disclosures. ## ## ## 
+For Fund-III environments, certainty of execution has become the dominant competitive variable because AUM expansion is constrained by two forces: slower LP commitments and increasingly complex regulatory disclosures. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -136,7 +136,7 @@ The architecture prioritizes:
 
 -  Sector appropriate lending structures that reflect real operational mechanics, not template banking models. 
 
--  Opportunity calibration that filters transactions through the Institutional Archetype most suited to the underlying assets. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship is not a branding exercise.
+-  Opportunity calibration that filters transactions through the Institutional Archetype most suited to the underlying assets. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is not a branding exercise.
 
 It is a capital discipline. **Proverbs 13:22** frames the principle: multi generational planning built on asset stewardship, not extraction.
 
@@ -152,7 +152,7 @@ In energy, stewardship means respecting reservoir physics and reinvestment ratio
 
 In buyouts, it means disciplined acquisition pacing and cash flow centric integration.
 
-In private credit, it means underwriting resilience over yield maximization. ## ## PHASE 5: CALIBRATION FOR THE INSTITUTIONAL DECISION MAKER Allocators entering 2026 face a structural choice.
+In private credit, it means underwriting resilience over yield maximization. ## ## CALIBRATION FOR THE INSTITUTIONAL DECISION MAKER Allocators entering 2026 face a structural choice.
 
 Either navigate a capital market fractured by regulatory constraints or engage with a private credit ecosystem engineered for execution precision.
 

@@ -62,7 +62,9 @@ Fund-III+ becomes the preferred instrument for institutional LPs demanding insul
 
 NAEOC alignment increases the clearance rate of large checks.
 
-The mandate itself functions as a stabilizer.
+## THE MANDATE
+
+ itself functions as a stabilizer.
 
 Special mandates push the edge further. $50M.$250M energy corridors.
 

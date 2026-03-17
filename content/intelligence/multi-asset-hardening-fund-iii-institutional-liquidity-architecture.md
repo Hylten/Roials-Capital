@@ -6,7 +6,9 @@ author: "ROIALS CAPITAL | Principal Architect"
 slug: "multi-asset-hardening-Fund-III-institutional-liquidity-architecture"
 ---
 
-The mandate is acceleration.
+## THE MANDATE
+
+ is acceleration.
 
 Fund‑III must expand its capital perimeter, reinforce multi‑asset defenses, and integrate digital‑asset rails without contaminating institutional purity.
 

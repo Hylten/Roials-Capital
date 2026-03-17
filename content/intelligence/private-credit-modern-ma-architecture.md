@@ -20,7 +20,7 @@ Its relevance is tied directly to foundational changes in how transactions are s
 
 In the present environment, the power of private credit is not defined by coupon levels or yield dispersion.
 
-Its strength is defined by control of timing, structural seniority, covenant precision, and the ability to synchronize asset hardening with acquisitions that require predictable execution. ## ## ## 
+Its strength is defined by control of timing, structural seniority, covenant precision, and the ability to synchronize asset hardening with acquisitions that require predictable execution. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -50,7 +50,7 @@ First, acquisition timing is now shaped by seller psychology connected to rate e
 
 Second, M&A valuations remain stable even as lenders reduce leverage tolerance.
 
-The gap between valuation stability and lender retrenchment is filled by private credit providers that accept operational complexity in exchange for priority positioning and covenant alignment. ## ## ## 
+The gap between valuation stability and lender retrenchment is filled by private credit providers that accept operational complexity in exchange for priority positioning and covenant alignment. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -112,7 +112,7 @@ The discipline is to align capital providers, acquisition sponsors, and operatin
 
 The firm’s mandate covers three primary lanes. 
 
-1. Kapitalanskaffning for Fund-III and Beyond Approximately 80 percent of Roials Capital’s architecture focuses on capital 
+1. Kapitalanskaffning for Fund-III and Beyond Approximately 80 percent of Roials Capital’s architecture focuses on capital ## 
 
 ## INTRODUCTION
 
@@ -138,7 +138,7 @@ These mandates operate in the 50M to 250M range.
 
 The partnership model is defined by neutrality, discipline, and institutional standardization.
 
-It ensures that capital providers enter environments where structural risk is understood, operational behavior is predictable, and capital sequencing is controlled. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship in capital architecture is defined as non wasteful resource management.
+It ensures that capital providers enter environments where structural risk is understood, operational behavior is predictable, and capital sequencing is controlled. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship in capital architecture is defined as non wasteful resource management.
 
 The principle aligns with **Proverbs 13:22** and emphasizes longevity, resilience, and responsible deployment.
 
@@ -156,7 +156,7 @@ In private credit, stewardship is expressed through:
 
 The theology of capital is not theoretical.
 
-It is a practical framework for managing complex acquisitions where timing, discipline, and execution determine long term outcomes. ## ## PHASE 5: STRATEGIC CALIBRATION FOR THE ALLOCATOR Institutional allocators analyzing private credit’s role in M&A must apply a specific decision making lens.
+It is a practical framework for managing complex acquisitions where timing, discipline, and execution determine long term outcomes. ## ## STRATEGIC CALIBRATION FOR THE ALLOCATOR Institutional allocators analyzing private credit’s role in M&A must apply a specific decision making lens.
 
 The evaluation is not based on coupons, market narratives, or comparative yield.
 
@@ -174,7 +174,7 @@ The allocator assesses whether private credit provides:
 
 -  predictable capital deployment velocity 
 
--  transparency of downside scenarios This briefing functions as a high altitude map of 
+-  transparency of downside scenarios This briefing functions as a high altitude map of ## 
 
 ## THE REGIME SHIFT
 

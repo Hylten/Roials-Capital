@@ -158,9 +158,17 @@ MiFID II acquisition corridors require compliance literacy, governance depth, an
 
 Both mandates default to one variable: does the sponsor possess enough institutional backing to absorb the regulatory and liquidity shocks inherent in these mandates?
 
-If yes, the mandate flows.
+If yes, 
 
-If no, the mandate migrates.
+## THE MANDATE
+
+ flows.
+
+If no, 
+
+## THE MANDATE
+
+ migrates.
 
 Institutional backing also determines counterparty selection.
 

@@ -22,7 +22,7 @@ Roials Capital operates within this strategic realignment as an institutional na
 
 Within this landscape, NAEO has emerged as the leading technical partner in heavy oil acquisition and optimization in Alberta, particularly for mandates ranging from 50 million to 250 million. ## PHASE 
 
-1. ## ## ## 
+1. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -64,7 +64,7 @@ The result is a valuation gap between intrinsic reservoir value and financial ma
 
 That gap defines the sovereign deployment opportunity. ## PHASE 
 
-2. ## ## ## 
+2. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -224,7 +224,7 @@ The appropriate decision-making lens is based on structural alignment rather tha
 
 1. Identify sectors with capital scarcity and operational transparency. 
 
-2. Assess 
+2. Assess ## 
 
 ## TECHNICAL MECHANICS
 

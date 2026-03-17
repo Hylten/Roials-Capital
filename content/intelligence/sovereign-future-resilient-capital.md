@@ -18,7 +18,7 @@ The sovereign future of capital formation is moving toward resilience anchored i
 
 Modern allocators are less interested in thematic narratives and more aligned with three principles: downside calculability, operational determinism, and jurisdictional rule-of-law.
 
-These principles form the basis for capital stewardship and are driving renewed attention toward North American energy, asset based lending structures, and specialist buyout platforms where operational uplift is measurable rather than theoretical. ## ## ## 
+These principles form the basis for capital stewardship and are driving renewed attention toward North American energy, asset based lending structures, and specialist buyout platforms where operational uplift is measurable rather than theoretical. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -52,7 +52,7 @@ The lack of domain discipline has accelerated demand for partners that can filte
 
 The allocator that adapts to this landscape reclaims strategic positioning.
 
-The allocator that ignores it is exposed to synthetic diversification without real downside governance. ## ## ## 
+The allocator that ignores it is exposed to synthetic diversification without real downside governance. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -106,7 +106,7 @@ Roials Capital serves three distinct mandates.
 
 1. Kapitalanskaffning for Fund-III and Successor Buyout Platforms We work with GPs requiring institutional alignment for expansions, add ons, or pre acquisition structuring.
 
-The emphasis is on balance sheet optimization, operational intelligence, and the 
+The emphasis is on balance sheet optimization, operational intelligence, and the ## 
 
 ## INTRODUCTION
 
@@ -128,7 +128,7 @@ They are targeted entries backed by geological determinism and reservoir predict
 
 In Europe, MiFID II aligned acquisition strategies require compliant structuring and tactical execution.
 
-Roials Capital supports by ensuring that institutional governance, counterparty quality, and regulatory alignment are maintained. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management.
+Roials Capital supports by ensuring that institutional governance, counterparty quality, and regulatory alignment are maintained. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management.
 
 It is a framework, not a slogan. **Proverbs 13:22** articulates that intergenerational capital requires governance aligned with enduring principles.
 
@@ -148,7 +148,7 @@ Operators that cannot articulate their operational levers rarely maintain long t
 
 It demands controlled velocity where every move is supported by technical understanding and measurable downside. 
 
-4. Jurisdictional Stability Stewardship prioritizes environments where legal clarity, regulatory transparency, and property rights are structurally protected. ## ## PHASE 5: ## ## DECISION MAKING LENS FOR THE ALLOCATOR The sovereign future of capital will be defined by allocators who pursue resilience anchored in real asset intelligence and operational determinism.
+4. Jurisdictional Stability Stewardship prioritizes environments where legal clarity, regulatory transparency, and property rights are structurally protected. ## ## ## ## DECISION MAKING LENS FOR THE ALLOCATOR The sovereign future of capital will be defined by allocators who pursue resilience anchored in real asset intelligence and operational determinism.
 
 The rise of Fund-III platforms, cross border acquisition opportunities, and specialist energy strategies requires institutions to recalibrate their internal frameworks.
 
@@ -158,7 +158,9 @@ Roials Capital provides confidential strategy audits for allocators evaluating a
 
 2. Structural gaps between mandate design and balance sheet execution. 
 
-3. ## INTRODUCTION
+3. ## 
+
+## INTRODUCTION
 
  pathways to technical operators such as NAEO. 
 

@@ -16,7 +16,7 @@ This briefing outlines the Sovereign Capital Architecture: the framework Roials 
 
 The objective is to provide allocators with a clinical understanding of the regime change in private markets, its technical implications, and the architecture required for multi-generational liquidity design.
 
-The content is constructed for institutional LPs, family offices, and GP stewards operating at the upper end of the capital stack. ## ## ## ## 
+The content is constructed for institutional LPs, family offices, and GP stewards operating at the upper end of the capital stack. ## ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -52,7 +52,7 @@ Mid-market acquisition pathways that once relied on bank syndication now increas
 
 This regime shift is not cyclical.
 
-It is structural. ## ## ## ## 
+It is structural. ## ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -80,7 +80,7 @@ ENERGY SYSTEM MECHANICS (NAEO MANDATE) The Alberta heavy oil domain operates on 
 
 -  Field-level operating continuity and modular expansion pathways This results in an asset class defined not by exploration uncertainty but by engineering precision.
 
-The 
+The ## 
 
 ## TECHNICAL MECHANICS
 
@@ -154,7 +154,7 @@ The institutional mandate is threefold:
 
 NAEO's operational track record and field-level intelligence meet institutional governance expectations.
 
-Roials Capital provides the institutional 
+Roials Capital provides the institutional ## 
 
 ## INTRODUCTION
 
@@ -166,7 +166,7 @@ The objective is alignment.
 
 The institution maintains no dependency on transactional volume.
 
-This neutrality is what differentiates a capital partner from a capital seeker. ## ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER The Sovereign Capital Architecture sits within a stewardship philosophy.
+This neutrality is what differentiates a capital partner from a capital seeker. ## ## ## ## ## ## THE STEWARDSHIP FILTER The Sovereign Capital Architecture sits within a stewardship philosophy.
 
 Stewardship is the discipline of non-wasteful resource management.
 
@@ -188,11 +188,11 @@ Under this stewardship framework:
 
 It is risk measurement.
 
-It is the obligation to deploy capital where 
+It is the obligation to deploy capital where ## 
 
 ## TECHNICAL MECHANICS
 
- can be verified and operational execution has institutional fidelity. ## ## ## PHASE 5: PORTFOLIO CALIBRATION LENS Institutional allocators require a decision-making lens that recognizes the structural regime shift.
+ can be verified and operational execution has institutional fidelity. ## ## ## PORTFOLIO CALIBRATION LENS Institutional allocators require a decision-making lens that recognizes the structural regime shift.
 
 The following calibration points summarize the institutional posture required for multi-generational liquidity: 
 

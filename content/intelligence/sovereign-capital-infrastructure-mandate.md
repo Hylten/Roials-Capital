@@ -24,7 +24,7 @@ Reconstruct the transmission system.
 
 Install governance that cannot drift.
 
-The next decade will reward the actors who build systems that enforce consistency in a world defined by fiscal entropy. ## ## ## 
+The next decade will reward the actors who build systems that enforce consistency in a world defined by fiscal entropy. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -88,7 +88,7 @@ Fund-III sits directly inside this regime shift.
 
 Buyouts and add-ons backed by hard-collateralized cash flows are the beneficiaries of sovereign retracement.
 
-Sovereigns are losing the competition for strategic assets because their infrastructure no longer transmits capital with sufficient precision. ## ## ## 
+Sovereigns are losing the competition for strategic assets because their infrastructure no longer transmits capital with sufficient precision. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -152,7 +152,7 @@ Yet public markets accept it as standard.
 
 The result is predictable.
 
-Capital flows toward private systems that enforce accountability instead of public systems that obscure risk. ## ## ## THE 
+Capital flows toward private systems that enforce accountability instead of public systems that obscure risk. ## ## ## THE ## 
 
 ## STRATEGIC MODEL
 
@@ -166,7 +166,11 @@ The structure divides into three pillars.
 
 Pillar 1: Kapitalanskaffning for Fund-III and Fund-IV adjacency.
 
-Eighty percent of the mandate is directed toward capital formation for buyouts and add-ons.
+Eighty percent of 
+
+## THE MANDATE
+
+ is directed toward capital formation for buyouts and add-ons.
 
 The target classes are operators with defensible cash flows and hard-asset moats.
 
@@ -182,7 +186,11 @@ We serve the first two, not the third.
 
 Pillar 2: Asset-Backed Frameworks through institutional Asset-Based Lending.
 
-Ten percent of the mandate is structured around asset-based lending for operators with temporary liquidity mismatches.
+Ten percent of 
+
+## THE MANDATE
+
+ is structured around asset-based lending for operators with temporary liquidity mismatches.
 
 This is the most misunderstood part of sovereign capital infrastructure.
 
@@ -198,7 +206,11 @@ When used inside sovereign-linked ecosystems, it creates a parallel system of di
 
 Pillar 3: Special mandates in energy and regulated acquisitions.
 
-Ten percent of the mandate focuses on mandates in: 
+Ten percent of 
+
+## THE MANDATE
+
+ focuses on mandates in: 
 
 -  North American Energy Operators Consortium (NAEOC) for 50M to 250M transactions. 
 
@@ -208,7 +220,7 @@ These mandates exist because sovereign capital infrastructure can no longer proc
 
 The regulatory spine remains intact.
 
-The fiscal spine does not. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship is not philosophy.
+The fiscal spine does not. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is not philosophy.
 
 Stewardship is operational constraint.
 
@@ -274,7 +286,7 @@ Nor for the election cycle.
 
 The frame is generational.
 
-Private capital with generational discipline always outperforms sovereign capital with temporal incentives. ## ## PHASE 5: EXIT The future of sovereign capital infrastructure will be decided by one metric: recovery integrity.
+Private capital with generational discipline always outperforms sovereign capital with temporal incentives. ## ## EXIT The future of sovereign capital infrastructure will be decided by one metric: recovery integrity.
 
 When recovery structures strengthen, capital flows return.
 

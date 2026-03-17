@@ -10,7 +10,7 @@ The structural gap in global reserve architecture is no longer a function of com
 
 It is a direct output of the post Basel III liquidity regime, where traditional collateral classes are losing elasticity while digital bearer assets like Bitcoin are becoming the de facto alternative reserve instrument for Family Offices operating between multi jurisdictional portfolios.
 
-This is a liquidity transformation cycle, not a speculative migration. ## ## ## 
+This is a liquidity transformation cycle, not a speculative migration. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -24,7 +24,7 @@ The consequence is a capital vacuum across buyout markets, where Fund-III manage
 
 Institutional allocators that previously relied on traditional lines of credit to manage vintage pacing must now recalibrate.
 
-The 
+The ## 
 
 ## INTRODUCTION
 
@@ -44,7 +44,7 @@ Bitcoin is functioning as a new form of operational ballast because it is non so
 
 Family Offices are not adopting it as a speculative instrument.
 
-They are leveraging it as a liquidity neutralizer within a broader Monetization Architecture architecture. ## ## ## 
+They are leveraging it as a liquidity neutralizer within a broader Monetization Architecture architecture. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -114,7 +114,7 @@ Bitcoin reduces temporal drag during multi jurisdictional closings.
 
 Roials Capital remains the neutral introducer.
 
-The objective is to align allocators with operational structures and technical partners that match their institutional archetype. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship is the systematic discipline of deploying capital in a manner that prevents value leakage.
+The objective is to align allocators with operational structures and technical partners that match their institutional archetype. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is the systematic discipline of deploying capital in a manner that prevents value leakage.
 
 It is a governance function.
 
@@ -128,7 +128,7 @@ In the institutional context, they guide the allocator toward structures that pr
 
 When Bitcoin is integrated into the liquidity framework, it is not introduced as an ideological position.
 
-It is introduced as a stewardship mechanism that strengthens optionality, increases reserve resilience, and reduces structural drag across the capital deployment cycle. ## ## PHASE 5: PORTFOLIO CALIBRATION LENS FOR THE ALLOCATOR Institutional allocators who operate across private markets now face a multi dimensional constraint set.
+It is introduced as a stewardship mechanism that strengthens optionality, increases reserve resilience, and reduces structural drag across the capital deployment cycle. ## ## PORTFOLIO CALIBRATION LENS FOR THE ALLOCATOR Institutional allocators who operate across private markets now face a multi dimensional constraint set.
 
 Leverage costs are higher.
 

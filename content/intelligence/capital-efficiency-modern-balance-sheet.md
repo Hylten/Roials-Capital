@@ -16,7 +16,7 @@ The divergence is measurable.
 
 It has become one of the most powerful sources of balance sheet optimization available to institutional allocators navigating the 2026 landscape. ## PHASE 
 
-1. ## ## ## 
+1. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -50,7 +50,7 @@ This macro backdrop has driven a regime in which capital efficiency is no longer
 
 It is the governing principle of modern balance sheet design. ## PHASE 
 
-2. ## ## ## 
+2. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 

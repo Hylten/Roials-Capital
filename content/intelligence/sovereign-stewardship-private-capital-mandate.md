@@ -68,9 +68,13 @@ Capital is choosing its new home.
 
 These pressures do not merely influence portfolio construction; they dictate it.
 
-The mandate is no longer to deploy.
+## THE MANDATE
 
-The mandate is to govern, foresee, and construct protective moats that outlast macro tremors.
+ is no longer to deploy.
+
+## THE MANDATE
+
+ is to govern, foresee, and construct protective moats that outlast macro tremors.
 
 Fund-III was architected for this moment.
 

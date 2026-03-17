@@ -10,7 +10,11 @@ slug: "structural-integrity-the-ROIALS CAPITAL-underwrit"
 
 Structural integrity is not a preference.
 
-It is the mandate.
+It is 
+
+## THE MANDATE
+
+.
 
 Institutional capital flows toward order.
 
@@ -366,7 +370,7 @@ These structures amplify:
 
 -  risk insulation We do not advertise them.
 
-We evaluate who earns access. # 
+We evaluate who earns access. # ## 
 
 ## CONCLUSION
 
@@ -384,7 +388,9 @@ A principal without it receives immediate disengagement.
 
 The standard is absolute.
 
-The mandate is stewardship.
+## THE MANDATE
+
+ is stewardship.
 
 The outcome is asset hardening at institutional scale. # Request confidential audit # ## TECHNICAL MANDATE Qualification Gates strictly observed.
 

@@ -320,7 +320,11 @@ Strengthen the community you lead.
 
 Operate without waste.
 
-Honor the mandate entrusted to you.
+Honor 
+
+## THE MANDATE
+
+ entrusted to you.
 
 This is not philosophy.
 
@@ -332,7 +336,7 @@ It does not reward speed without clarity.
 
 It does not subsidize disorganization.
 
-A sovereign balance sheet is the only credible architecture for the next cycle. ## Principal 
+A sovereign balance sheet is the only credible architecture for the next cycle. ## Principal ## 
 
 ## CONCLUSION
 

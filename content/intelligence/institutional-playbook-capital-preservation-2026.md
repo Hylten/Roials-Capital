@@ -8,7 +8,11 @@ slug: "institutional-playbook-capital-preservation-2026"
 
 [START INTELLIGENCE REPORT] 
 
-1. ## ## THE MANDATE : DEFINING THE STRUCTURAL REALITY OF CAPITAL PRESERVATION Capital preservation at an institutional grade is not a defensive posture.
+1. ## ## 
+
+## THE MANDATE
+
+ : DEFINING THE STRUCTURAL REALITY OF CAPITAL PRESERVATION Capital preservation at an institutional grade is not a defensive posture.
 
 It is a structural doctrine rooted in counter cyclical positioning, intelligent constraint, and systematic conversion of risk exposure into productive optionality.
 
@@ -40,7 +44,9 @@ This doctrine is the foundation for a 2026 allocator class that prioritizes:
 
 -  Asset hardening strategies for mid market operators to support capital raising for mid market buyout structures.
 
-The mandate is simple.
+## THE MANDATE
+
+ is simple.
 
 Preserve mobility.
 
@@ -50,7 +56,7 @@ Preserve the ability to buy distressed assets when others are forced into liquid
 
 Everything else is a derivative of these principles. 
 
-2. ## ## ## 
+2. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -228,7 +234,7 @@ It must be structured, not exposed.
 
 It must be engineered, not left to market whims. 
 
-5. ## ## ## 
+5. ## ## ## ## 
 
 ## CONCLUSION
 

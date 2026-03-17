@@ -16,7 +16,7 @@ This structural gap has pushed UHNW allocators toward non sovereign liquidity pa
 
 The fastest growing of these mechanisms is crypto backed asset based lending, functioning not as speculative leverage but as an engineered liquidity rail for balance sheet expansion, capital stack optimization, and controlled exposure migration. ## PHASE 
 
-1. ## ## ## 
+1. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -66,7 +66,7 @@ The underwriting discipline is data deterministic.
 
 It offers a form of liquidity engineering that sovereign assets cannot replicate. ## PHASE 
 
-2. ## ## ## 
+2. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -136,7 +136,7 @@ This segment is no longer retail.
 
 It is a controlled environment that mirrors institutional credit standards with programmable enforcement.
 
-The 
+The ## 
 
 ## TECHNICAL MECHANICS
 

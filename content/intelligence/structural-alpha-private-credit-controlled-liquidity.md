@@ -10,7 +10,7 @@ The capital vacuum in North American private credit is the result of covenant co
 
 Allocators observing the current lending regime are identifying a persistent structural dislocation: liquidity is scarce in the segments where cash flow predictability is highest and capital discipline is most measurable.
 
-This asymmetry is creating a technical environment where controlled liquidity architecture drives structural alpha more reliably than traditional rate arbitrage. ## ## ## 
+This asymmetry is creating a technical environment where controlled liquidity architecture drives structural alpha more reliably than traditional rate arbitrage. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -42,7 +42,7 @@ Fund-III capital formation aligns with this environment.
 
 Buyouts and add-ons that once relied on blended bank syndication now require precision engineered private facilities to maintain transaction momentum.
 
-The allocator lens has shifted: the strength of the underwriting framework now determines the risk profile more than market volatility does. ## ## ## 
+The allocator lens has shifted: the strength of the underwriting framework now determines the risk profile more than market volatility does. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -146,7 +146,7 @@ The focus remains on:
 
 3. Institutional Navigation Capital providers require operational intelligence, jurisdictional clarity, and risk transmission mapping.
 
-Roials Capital provides this framework, enabling allocators to assess structures through a technical rather than promotional lens. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful capital management.
+Roials Capital provides this framework, enabling allocators to assess structures through a technical rather than promotional lens. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful capital management.
 
 It is rooted in the principle found in **Proverbs 13:22** , where generational capital is allocated through wisdom and prudence.
 
@@ -164,7 +164,7 @@ It is expressed through:
 
 -  Strict capital accountability In energy, stewardship is expressed through responsible extraction, adherence to established decline models, and minimizing operational wastage.
 
-In private credit, it manifests through disciplined underwriting, predictable amortization, and capital structures that protect both operator and allocator. ## ## PHASE 5: ALLOCATOR LENS FOR PORTFOLIO DECISION MAKING Institutional allocators evaluating the 2026 private credit regime are identifying a consistent pattern.
+In private credit, it manifests through disciplined underwriting, predictable amortization, and capital structures that protect both operator and allocator. ## ## ALLOCATOR LENS FOR PORTFOLIO DECISION MAKING Institutional allocators evaluating the 2026 private credit regime are identifying a consistent pattern.
 
 Structural alpha does not originate in spread differentials or opportunistic timing.
 

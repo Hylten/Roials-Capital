@@ -12,7 +12,7 @@ It is the product of regulatory drift that has structurally constrained traditio
 
 The divergence between real economy financing requirements and the regulated banking balance sheet is now a predictable regime rather than a cyclical deviation.
 
-Institutional allocators evaluating Fund-III structures, buyout support facilities, and cross border credit exposures are operating inside a recalibrated environment where risk is no longer a function of asset volatility alone but a function of liquidity architecture, information asymmetry, and collateral transparency. ## ## ## 
+Institutional allocators evaluating Fund-III structures, buyout support facilities, and cross border credit exposures are operating inside a recalibrated environment where risk is no longer a function of asset volatility alone but a function of liquidity architecture, information asymmetry, and collateral transparency. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -52,7 +52,7 @@ Risk is now measurable at higher resolution which improves institutional underwr
 
 This macro environment establishes a predictable baseline: Private Credit risk is no longer predominantly credit risk.
 
-It is sequencing risk, information risk, and structural risk. ## ## ## 
+It is sequencing risk, information risk, and structural risk. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -82,7 +82,7 @@ Three collateral classes dominate current underwriting:
 
 In energy mandates specific emphasis is placed on Alberta heavy oil where SAGD and CSS operations present stable decline curves and predictable recovery factors.
 
-These 
+These ## 
 
 ## TECHNICAL MECHANICS
 
@@ -154,7 +154,7 @@ Across non energy mandates Roials Capital supports:
 
 The function is not asset management.
 
-It is institutional alignment where counterparty quality, structural predictability, and collateral transparency are validated prior to engagement. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER : THE THEOLOGY OF CAPITAL Stewardship is a capital discipline that rejects waste.
+It is institutional alignment where counterparty quality, structural predictability, and collateral transparency are validated prior to engagement. ## ## ## ## ## THE STEWARDSHIP FILTER : THE THEOLOGY OF CAPITAL Stewardship is a capital discipline that rejects waste.
 
 It is a principle that calibrates risk acceptance to moral and economic clarity.
 
@@ -176,7 +176,7 @@ Strong stewardship relies on systems, controls, and verifiable audits that demon
 
 Stewardship is neither a slogan nor an aspirational concept.
 
-It is a measurable approach to capital allocation where risk is governed by discipline, not conjecture. ## ## PHASE 5: THE ALLOCATOR'S DECISION FRAMEWORK: CALIBRATING PRIVATE CREDIT RISK Institutional investors evaluating Private Credit today operate in a landscape defined by regulatory compression, sponsor driven demand, and expanded information visibility.
+It is a measurable approach to capital allocation where risk is governed by discipline, not conjecture. ## ## THE ALLOCATOR'S DECISION FRAMEWORK: CALIBRATING PRIVATE CREDIT RISK Institutional investors evaluating Private Credit today operate in a landscape defined by regulatory compression, sponsor driven demand, and expanded information visibility.
 
 The risk calculus is no longer a binary assessment of borrower strength.
 

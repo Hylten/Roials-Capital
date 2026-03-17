@@ -14,7 +14,7 @@ Within this environment, Asset Based Lending has re emerged as a stabilizing mec
 
 Modern diversified wealth portfolios increasingly rely on ABL not for yield, but for structural balance.
 
-It anchors the liquidity spine that enables efficient participation in buyout programs such as Fund-III, supports add on velocity, and creates a cross regime cushion in environments where allocators face compressed spreads, elongated exit cycles, and international allocation constraints. ## ## ## 
+It anchors the liquidity spine that enables efficient participation in buyout programs such as Fund-III, supports add on velocity, and creates a cross regime cushion in environments where allocators face compressed spreads, elongated exit cycles, and international allocation constraints. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -46,7 +46,7 @@ ABL provides the counterbalancing mechanism, creating alignment between long dur
 
 The essential observation: diversified wealth portfolios are moving toward a dual rail model where long duration capital deployment is supported by short duration balance sheet optimization.
 
-ABL is the instrument that bridges these rails without introducing correlation drag. ## ## ## 
+ABL is the instrument that bridges these rails without introducing correlation drag. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -132,7 +132,7 @@ The ABL function supports Fund-III by enabling:
 
 -  Operating partners such as NAEO execute domain specific functions. 
 
--  Allocators deploy capital with clarity on the mechanics, not with promotional narratives. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship is a discipline of non wasteful capital deployment.
+-  Allocators deploy capital with clarity on the mechanics, not with promotional narratives. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is a discipline of non wasteful capital deployment.
 
 It is both an operational and moral framework.
 
@@ -158,7 +158,7 @@ In Alberta energy, stewardship operationalizes through enhanced recovery methodo
 
 In private equity, stewardship is seen in disciplined acquisition pacing and avoidance of valuation chasing.
 
-In wealth portfolios, stewardship ensures that liquidity is engineered rather than improvised. ## ## PHASE 5: THE ## ## DECISION MAKING LENS FOR ALLOCATORS Institutional allocators require a precise decision making lens.
+In wealth portfolios, stewardship ensures that liquidity is engineered rather than improvised. ## ## THE ## ## DECISION MAKING LENS FOR ALLOCATORS Institutional allocators require a precise decision making lens.
 
 The modern diversified wealth portfolio is no longer a static allocation grid.
 

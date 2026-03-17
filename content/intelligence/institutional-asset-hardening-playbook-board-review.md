@@ -10,7 +10,7 @@ The capital vacuum in North America’s real asset environment is an outcome of 
 
 For institutional allocators preparing for a 5B+ governance review, the determinant factor is not sector selection but the architectural integrity of the capital stack.
 
-Asset hardening has become the institutional archetype that separates scalable platforms from episodic deal operators. ## ## ## 
+Asset hardening has become the institutional archetype that separates scalable platforms from episodic deal operators. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -30,7 +30,7 @@ The environment can be summarized as follows.
 
 This regime shift favors platforms that can articulate the mathematics of risk segregation.
 
-For LPs and GPs stewarding Fund-III+ scale vehicles, the path to board approval requires a disciplined demonstration of capital hardening across operating subsidiaries and acquisition programs. ## ## ## 
+For LPs and GPs stewarding Fund-III+ scale vehicles, the path to board approval requires a disciplined demonstration of capital hardening across operating subsidiaries and acquisition programs. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -96,11 +96,11 @@ THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator.
 
 The function is not fund management.
 
-It is institutional alignment and technical 
+It is institutional alignment and technical ## 
 
 ## INTRODUCTION
 
-.
+ .
 
 For energy mandates, this includes connecting allocators with NAEO, an execution partner with the operational depth required to convert Alberta geology into institutionally compliant structures.
 
@@ -132,7 +132,7 @@ This applies across all mandate types:
 
 -  Asset-Based Lending Strategic Collateralization for operating companies requiring balance sheet modernization, 
 
--  Special Mandates including NAEO’s 50M to 250M deployment lanes and MiFID II governed acquisitions. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship is not an ethical overlay.
+-  Special Mandates including NAEO’s 50M to 250M deployment lanes and MiFID II governed acquisitions. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is not an ethical overlay.
 
 It is a technical discipline that safeguards capital through non wasteful decision making.
 
@@ -150,7 +150,7 @@ Stewardship in practice includes:
 
 The theology of capital is grounded in stewardship principles articulated in **Proverbs 13:22** .
 
-Boards evaluating multi billion platforms consistently measure stewardship as a primary indicator of long term sustainability. ## ## PHASE 5: CALIBRATION FOR BOARD APPROVAL Boards controlling multi billion mandates require clarity, repeatability, and architectural integrity.
+Boards evaluating multi billion platforms consistently measure stewardship as a primary indicator of long term sustainability. ## ## CALIBRATION FOR BOARD APPROVAL Boards controlling multi billion mandates require clarity, repeatability, and architectural integrity.
 
 Operators who pass a 5B review demonstrate mastery in three domains.
 

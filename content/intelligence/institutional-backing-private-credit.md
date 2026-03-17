@@ -10,7 +10,7 @@ The structural gap in private credit today is not driven by a shortage of opport
 
 It is driven by the withdrawal of regulated lenders at the exact moment when lower middle market and mid market borrowers require stable, patient, institutionally governed capital.
 
-The capital vacuum has created a bifurcation between opportunistic lending and institutionally architected private credit platforms designed for duration reliability, underwriting visibility, and disciplined balance sheet optimization. ## ## ## 
+The capital vacuum has created a bifurcation between opportunistic lending and institutionally architected private credit platforms designed for duration reliability, underwriting visibility, and disciplined balance sheet optimization. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -42,7 +42,7 @@ This new regime favors platforms with institutional backers.
 
 Such platforms demonstrate the ability to pair sponsor discipline with defensive positioning, consistent loan servicing, and capital stack visibility.
 
-They operate not as yield chasers but as liquidity engineers capable of deploying capital into environments where traditional lenders cannot maintain velocity. ## ## ## 
+They operate not as yield chasers but as liquidity engineers capable of deploying capital into environments where traditional lenders cannot maintain velocity. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -162,7 +162,7 @@ Roials Capital maintains intelligence across the United States, Europe, Canada, 
 
 -  Sector specific risk curves This transforms market noise into actionable intelligence. 
 
-3. INSTITUTIONAL ## 
+3. INSTITUTIONAL ## ## 
 
 ## INTRODUCTION
 
@@ -172,7 +172,7 @@ In energy, the institutional grade partner is NAEO.
 
 In private credit for buyouts and add ons, the counterparties are sector specialized lenders with track records in sponsor finance.
 
-This neutral introducer role preserves compliance integrity while ensuring allocators encounter only structurally resilient opportunities. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship is the discipline of managing capital without waste.
+This neutral introducer role preserves compliance integrity while ensuring allocators encounter only structurally resilient opportunities. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is the discipline of managing capital without waste.
 
 It is an operational application of **Proverbs 13:22** .
 
@@ -186,7 +186,7 @@ In private credit this becomes a framework for evaluating:
 
 -  Long term relationship value over transactional yield Stewardship filters out strategies that rely on volatility, opaque collateral, or optimistic underwriting.
 
-It prioritizes platforms that understand capital as a covenant rather than a consumable resource. ## ## PHASE 5: ## ## DECISION MAKING LENS For institutional allocators, the relevant decision is not whether the private credit market is attractive.
+It prioritizes platforms that understand capital as a covenant rather than a consumable resource. ## ## ## ## DECISION MAKING LENS For institutional allocators, the relevant decision is not whether the private credit market is attractive.
 
 It is whether the platform they select is architected for durability in the current regulatory and macroeconomic regime.
 

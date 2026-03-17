@@ -14,7 +14,7 @@ Yield has become the primary variable that determines whether an asset operates 
 
 This is the operational definition of asset hardening in the current regime. ## PHASE 
 
-1. ## ## ## 
+1. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -50,7 +50,7 @@ It is the basis for institutional risk calibration.
 
 Yield is now functioning as the primary filter for determining which assets legitimately serve as capital anchors within a diversified institutional portfolio. ## PHASE 
 
-2. ## ## ## 
+2. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -168,7 +168,9 @@ The firm does not serve as operator, manager, or asset owner.
 
 Instead, its role is to engineer alignment between allocators and the institutional archetypes capable of producing hardened assets.
 
-The mandate distribution aligns with the demands of modern portfolio construction. 
+## THE MANDATE
+
+ distribution aligns with the demands of modern portfolio construction. 
 
 1. 80 percent Kapitalanskaffning for Fund-III and above.
 
@@ -204,7 +206,7 @@ C.
 
 Operational Intelligence.
 
-Translating 
+Translating ## 
 
 ## TECHNICAL MECHANICS
 

@@ -32,7 +32,7 @@ Covenants are the connective tissue.
 
 When these three are not engineered as one unified organism, the facility decays, spreads inefficiency, and drags down the GP's capacity to deploy into higher velocity situations.
 
-This is 
+This is ## 
 
 ## THE REGIME SHIFT
 
@@ -42,7 +42,7 @@ Capital is expensive.
 
 Time is even more expensive.
 
-And inefficiency is unforgivable. ## ## ## 
+And inefficiency is unforgivable. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -92,7 +92,7 @@ Fund-III strategies depend on it, because the LP base has matured.
 
 They do not reward theory.
 
-They reward precision. ## ## ## 
+They reward precision. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -174,7 +174,7 @@ If it surprises to the downside, the GP has violated fiduciary logic.
 
 Collateralized liquidity becomes an art form when these mechanics converge.
 
-At that point, the fund can lend into complexity that other lenders avoid because they cannot see the internal liquidity geometry of the borrower. ## ## ## THE 
+At that point, the fund can lend into complexity that other lenders avoid because they cannot see the internal liquidity geometry of the borrower. ## ## ## THE ## 
 
 ## STRATEGIC MODEL
 
@@ -244,7 +244,7 @@ None of this is speculative.
 
 It is structural intelligence.
 
-And structural intelligence requires a fund that treats collateral as the primary language of capital. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER I consider capital a sacred trust.
+And structural intelligence requires a fund that treats collateral as the primary language of capital. ## ## ## ## ## THE STEWARDSHIP FILTER I consider capital a sacred trust.
 
 Wealth is not owned.
 
@@ -252,7 +252,11 @@ It is administered.
 
 Stewardship is not theology placed on top of finance.
 
-Stewardship is the only framework that prevents waste. **Proverbs 13:22** anchors the mandate.
+Stewardship is the only framework that prevents waste. **Proverbs 13:22** anchors 
+
+## THE MANDATE
+
+.
 
 A good man leaves an inheritance to his children's children.
 
@@ -290,7 +294,7 @@ Complexity becomes a field to be cultivated, not feared.
 
 When a fund treats capital as stewardship, waste disappears.
 
-And when waste disappears, returns stabilize. ## ## PHASE 5: EXIT Every collateralized liquidity strategy must be judged by one metric: recovery velocity.
+And when waste disappears, returns stabilize. ## ## EXIT Every collateralized liquidity strategy must be judged by one metric: recovery velocity.
 
 A facility that recovers within 47 days or less outperforms the entire private credit median.
 

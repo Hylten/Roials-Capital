@@ -28,7 +28,7 @@ Liquidity Engineering, Asset Hardening, and calibrated capitalization frameworks
 
 The modern entrepreneur requires a credit architecture, not a transaction.
 
-This memo defines that architecture. ## ## ## 
+This memo defines that architecture. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -74,7 +74,7 @@ Entrepreneurs must navigate a world where capital selection depends on structura
 
 Strategic alignment replaces pure negotiation.
 
-Architecture replaces improvisation. ## ## ## 
+Architecture replaces improvisation. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -204,11 +204,11 @@ The value creation lies in alignment, not distribution.
 
 Key functions include: 
 
--  Institutional 
+-  Institutional ## 
 
 ## INTRODUCTION
 
-.
+ .
 
 Roials Capital identifies the appropriate lender or fund archetype for the entrepreneur's structural profile.
 
@@ -230,7 +230,7 @@ This technical intelligence underpins the credibility of the capital request.
 
 For entrepreneurs with European governance structures and North American operations, Roials Capital harmonizes regulatory environments to prevent structural friction.
 
-This partnership model positions Roials Capital as a strategic interpreter between entrepreneurs and the global capital system. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship establishes the ethical baseline for any credit architecture.
+This partnership model positions Roials Capital as a strategic interpreter between entrepreneurs and the global capital system. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship establishes the ethical baseline for any credit architecture.
 
 It is the discipline of non wasteful resource management.
 
@@ -248,7 +248,7 @@ Stewardship in this context includes:
 
 -  Avoiding opportunistic short term financing that compromises long term stability.
 
-This filter ensures that any capital formation process supports long horizon entrepreneurship and institutional trust. ## ## PHASE 5: ## ## DECISION MAKING LENS FOR THE ALLOCATOR Entrepreneurs evaluating their credit architecture must apply a disciplined lens. 
+This filter ensures that any capital formation process supports long horizon entrepreneurship and institutional trust. ## ## ## ## DECISION MAKING LENS FOR THE ALLOCATOR Entrepreneurs evaluating their credit architecture must apply a disciplined lens. 
 
 -  Does the balance sheet exhibit institutional clarity. 
 

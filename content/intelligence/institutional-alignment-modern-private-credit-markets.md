@@ -10,7 +10,7 @@ The capital vacuum in North American and European private credit markets is a co
 
 The result is a regime where liquidity has become bifurcated, price discovery has become asymmetric, and the most resilient credit opportunities are migrating toward sponsors capable of operational precision, underwriting discipline, and cross-cycle cash flow control.
 
-This memorandum outlines the mechanics behind that shift, the technical attributes allocators now prioritize in partners, and the market structures that govern capital formation for Fund-III environments, Asset-Based Lending deployment, and strategic mandates spanning North American energy and European MiFID II transactions. ## ## ## 
+This memorandum outlines the mechanics behind that shift, the technical attributes allocators now prioritize in partners, and the market structures that govern capital formation for Fund-III environments, Asset-Based Lending deployment, and strategic mandates spanning North American energy and European MiFID II transactions. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -38,7 +38,7 @@ Third, sector specific special mandates, especially North American energy, attra
 
 Opportunity velocity in this regime is dominated by managers who can compress underwriting cycles, access proprietary flow, and maintain operational visibility across balance sheet intensive sectors.
 
-The allocators that achieve the best alignment are those who structure multi stage commitments that match the cadence of acquisition pipelines rather than the calendar cycle of fund closings. ## ## ## 
+The allocators that achieve the best alignment are those who structure multi stage commitments that match the cadence of acquisition pipelines rather than the calendar cycle of fund closings. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -116,7 +116,7 @@ THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator within th
 
 The function is neither distribution nor sales.
 
-It is institutional 
+It is institutional ## 
 
 ## INTRODUCTION
 
@@ -152,7 +152,7 @@ The partnership model is built on three pillars:
 
 -  Operational discipline. 
 
--  Governance alignment. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship is a discipline of non wasteful resource management.
+-  Governance alignment. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is a discipline of non wasteful resource management.
 
 It is a capital philosophy aligned with **Proverbs 13:22** and the ethics of intergenerational responsibility.
 
@@ -170,7 +170,7 @@ This philosophical lens creates a measurable advantage in both underwriting and 
 
 Allocators increasingly require sponsors to demonstrate stewardship practices as part of their due diligence mandates.
 
-It reflects a shift from performance oriented assessment to resilience oriented assessment. ## ## PHASE 5: ## ## DECISION MAKING LENS FOR THE ALLOCATOR Institutional allocators operate in an environment where credit spreads do not accurately reflect risk and where opportunity velocity is increasingly gated by sponsor competence rather than capital availability.
+It reflects a shift from performance oriented assessment to resilience oriented assessment. ## ## ## ## DECISION MAKING LENS FOR THE ALLOCATOR Institutional allocators operate in an environment where credit spreads do not accurately reflect risk and where opportunity velocity is increasingly gated by sponsor competence rather than capital availability.
 
 The decision making lens involves: 
 
@@ -180,7 +180,7 @@ The decision making lens involves:
 
 -  Establishing mandate structures that match acquisition pacing rather than fund marketing cycles. 
 
--  Evaluating 
+-  Evaluating ## 
 
 ## TECHNICAL MECHANICS
 

@@ -256,7 +256,7 @@ The architecture is the defense.
 
 The architecture is also the advantage.
 
-It is the reason Fund-III can expand without diluting quality. ## 
+It is the reason Fund-III can expand without diluting quality. ## ## 
 
 ## CONCLUSION
 

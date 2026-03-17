@@ -460,7 +460,11 @@ With standards, it becomes architecture.
 
 XIV.
 
-Principal Mandate The mandate is simple.
+Principal Mandate 
+
+## THE MANDATE
+
+ is simple.
 
 Precision.
 

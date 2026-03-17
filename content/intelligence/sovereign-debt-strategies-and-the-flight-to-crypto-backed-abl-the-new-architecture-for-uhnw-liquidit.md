@@ -274,7 +274,7 @@ ROIALS CAPITAL operates at the intersection of these trends.
 
 We do not follow the cycles.
 
-We build the mechanics that allow our clients to operate above them. ## 
+We build the mechanics that allow our clients to operate above them. ## ## 
 
 ## CONCLUSION
 

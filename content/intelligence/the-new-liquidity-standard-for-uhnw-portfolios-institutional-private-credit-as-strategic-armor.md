@@ -36,7 +36,7 @@ It is sourced from contracts that perform. # ## Improved Intergenerational Stabi
 
 This reduces forced asset sales and preserves legacy assets. # ## Enhanced Opportunity Readiness When liquidity is engineered, opportunities can be captured without compromising long term strategy. # ## Lower Total Portfolio Volatility Liquidity failures are one of the primary drivers of hidden portfolio volatility.
 
-Eliminating them reduces systemic risk across every asset class. ## The New Liquidity Standard: A Structural 
+Eliminating them reduces systemic risk across every asset class. ## The New Liquidity Standard: A Structural ## 
 
 ## CONCLUSION
 

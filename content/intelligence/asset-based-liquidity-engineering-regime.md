@@ -14,7 +14,7 @@ Liquidity is the constraint most UHNW families misdiagnose.
 
 Order is not an option. ## PHASE 
 
-1. ## ## ## 
+1. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -66,7 +66,7 @@ Fund-III sits inside that shift.
 
 Not beside it. ## PHASE 
 
-2. ## ## ## 
+2. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -144,7 +144,7 @@ This is why we build Asset-Based Lending facilities not as credit.
 
 But as operating infrastructure. ## PHASE 
 
-3. ## ## ## THE 
+3. ## ## ## THE ## 
 
 ## STRATEGIC MODEL
 

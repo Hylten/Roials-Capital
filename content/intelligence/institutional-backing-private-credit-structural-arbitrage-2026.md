@@ -16,13 +16,13 @@ Traditional middle market credit remains constrained by banking system recalibra
 
 Institutional sponsors with disciplined underwriting frameworks have become the stabilizing force across this landscape, enabling balance sheet optimization for operators and multi-cycle predictability for capital allocators.
 
-This briefing delivers a technical, analyst-grade examination of 
+This briefing delivers a technical, analyst-grade examination of ## 
 
 ## THE REGIME SHIFT
 
-, the mechanics underlying the Alberta heavy oil environment, and the strategic relevance of partnering with institutional-grade operators such as North American Energy Opportunities.
+ , the mechanics underlying the Alberta heavy oil environment, and the strategic relevance of partnering with institutional-grade operators such as North American Energy Opportunities.
 
-It clarifies how Roials Capital functions as a strategic navigator, vetting counterparties and structuring pathways for allocators seeking resilient private credit exposure without promotional framing or implied forward guidance. ## PHASE 1 ## ## ## 
+It clarifies how Roials Capital functions as a strategic navigator, vetting counterparties and structuring pathways for allocators seeking resilient private credit exposure without promotional framing or implied forward guidance. ## PHASE 1 ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -62,7 +62,7 @@ Repeatability of cash generation is valued higher than growth.
 
 Strategic alignment has become the new premium.
 
-Capital is flowing toward counterparties that operate with clarity of mandate, verifiable governance, and multi-cycle operational readiness. ## PHASE 2 ## ## ## 
+Capital is flowing toward counterparties that operate with clarity of mandate, verifiable governance, and multi-cycle operational readiness. ## PHASE 2 ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -116,7 +116,7 @@ This is why institutional sponsorship, not sporadic capital, increasingly define
 
 The firm does not operate wells or manage oil and gas assets.
 
-Its mandate centers on the 
+Its mandate centers on the ## 
 
 ## INTRODUCTION
 

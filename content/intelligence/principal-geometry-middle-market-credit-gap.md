@@ -488,7 +488,11 @@ Structure inherits.
 
 Chaos evaporates.
 
-If you operate a Fund‑III or preparing to raise one, the mandate is simple: verify your geometry.
+If you operate a Fund‑III or preparing to raise one, 
+
+## THE MANDATE
+
+ is simple: verify your geometry.
 
 Confirm your capital architecture.
 

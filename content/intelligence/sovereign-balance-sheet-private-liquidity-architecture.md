@@ -16,7 +16,7 @@ It is driven by the operational discipline of mature decline curves, high-certai
 
 The following briefing outlines the structural regime shift shaping institutional capital formation, the mechanics of Alberta’s high-certainty heavy oil systems, the partnership-model architecture applied by Roials Capital, and the stewardship framework that governs capital deployment.
 
-The objective is to equip allocators with a calibration tool for sovereign-grade balance sheet engineering, particularly for Fund-III+ buyouts, energy-backed mandates, and liquidity engineering structures anchored in real operational throughput. ## ## ## 
+The objective is to equip allocators with a calibration tool for sovereign-grade balance sheet engineering, particularly for Fund-III+ buyouts, energy-backed mandates, and liquidity engineering structures anchored in real operational throughput. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -50,7 +50,7 @@ Direct lenders avoid hydrocarbon exposure.
 
 Allocators seeking convexity must therefore pair private credit structures with operational assets that offer measurable deliverability.
 
-This creates the modern architecture for buyouts, ABL frameworks, and energy-secured mandates that can function inside an institutional-grade sovereign balance sheet. ## ## ## 
+This creates the modern architecture for buyouts, ABL frameworks, and energy-secured mandates that can function inside an institutional-grade sovereign balance sheet. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -122,11 +122,11 @@ The role is to align institutional allocators with operational partners that mee
 
 The partnership model integrates three axes.
 
-Axis one is institutional 
+Axis one is institutional ## 
 
 ## INTRODUCTION
 
-.
+ .
 
 Roials Capital identifies operators with measurable credibility in reservoir management, production optimization, and capital discipline.
 
@@ -152,7 +152,7 @@ Roials Capital provides allocators with the contextual intelligence necessary to
 
 This includes decline-curve analysis, thermal efficiency metrics, reservoir mapping logic, and regulatory compliance frameworks across Alberta, Saskatchewan, and British Columbia.
 
-Through this model, Roials Capital supports allocators in constructing sovereign-grade liquidity architecture based on operational assets rather than narratives. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Capital stewardship is not a branding concept.
+Through this model, Roials Capital supports allocators in constructing sovereign-grade liquidity architecture based on operational assets rather than narratives. ## ## ## ## ## THE STEWARDSHIP FILTER Capital stewardship is not a branding concept.
 
 It is an operational discipline anchored in the biblical principle of **Proverbs 13:22** .
 
@@ -186,7 +186,7 @@ Allocators deploy capital with the objective of creating long-term, structurally
 
 Stewardship is therefore not a moral accessory.
 
-It is a risk-mitigation system that allocators integrate into their sovereign liquidity design. ## ## PHASE 5: DECISION-MAKING LENS FOR THE ALLOCATOR The construction of a sovereign-grade balance sheet requires: 
+It is a risk-mitigation system that allocators integrate into their sovereign liquidity design. ## ## DECISION-MAKING LENS FOR THE ALLOCATOR The construction of a sovereign-grade balance sheet requires: 
 
 -  Asset classes that maintain deliverability regardless of macro narratives. 
 

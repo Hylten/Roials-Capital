@@ -12,7 +12,7 @@ This single structural reality is now influencing the broader institutional allo
 
 Capital migration has entered a new regime defined by operational scarcity, regulatory fragmentation, balance sheet deterioration in legacy sponsors, and an increasing preference for hard collateral over narrative driven growth. ## PHASE 
 
-1. ## ## ## 
+1. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -48,7 +48,7 @@ Institutional capital migration is therefore no longer cyclical.
 
 It is motivated by structural constraints: deglobalization, supply chain regionalization, infrastructure fatigue, and the reduction of institutional liquidity buffers. ## PHASE 
 
-2. ## ## ## 
+2. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -122,7 +122,7 @@ Alberta heavy oil is a case study.
 
 The decline of legacy institutional participation created an extended period of under capitalized conventional operations.
 
-Production assets with stable decline curves and decades of reservoir mapping are now mispriced relative to operational risk.
+Production assets with stable decline curves and decades of reservoir mapping are now mispriced relative to operational risk. ## 
 
 ## TECHNICAL MECHANICS
 

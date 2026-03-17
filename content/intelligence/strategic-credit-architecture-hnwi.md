@@ -12,7 +12,7 @@ The gap shows up in second-order effects: subdued recovery projections, muted sp
 
 Order is not an option.
 
-It is the prerequisite for stewardship. ## ## ## 
+It is the prerequisite for stewardship. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -42,7 +42,7 @@ Both fail.
 
 The regime has already changed.
 
-Only those who construct deliberate credit architecture will capture the next decade of acquisitions. ## ## ## 
+Only those who construct deliberate credit architecture will capture the next decade of acquisitions. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -118,7 +118,7 @@ No charisma offsets missing collateral durability.
 
 The entrepreneur who demonstrates mastery of these mechanics enters the institutional credit market with authority.
 
-The one who ignores them becomes dependent on high-coupon lenders who thrive on borrower disorganization. ## ## ## THE 
+The one who ignores them becomes dependent on high-coupon lenders who thrive on borrower disorganization. ## ## ## THE ## 
 
 ## STRATEGIC MODEL
 
@@ -188,11 +188,15 @@ It becomes operational through disciplined capital files, uniform underwriting p
 
 Fund-III is not a fund.
 
-It is an operating regime. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER The entrepreneur faces a different burden than a fund manager.
+It is an operating regime. ## ## ## ## ## THE STEWARDSHIP FILTER The entrepreneur faces a different burden than a fund manager.
 
 They are not merely optimizing risk.
 
-They are stewarding what has been entrusted to them. **Proverbs 13:22** frames the mandate.
+They are stewarding what has been entrusted to them. **Proverbs 13:22** frames 
+
+## THE MANDATE
+
+.
 
 Capital is a tool for multi‑generational preservation, not an instrument for impulsive expansion.
 
@@ -242,7 +246,7 @@ It demands operational transparency.
 
 It demands long-horizon thinking.
 
-It rejects shortcuts. ## ## PHASE 5: EXIT Fund-III operators who follow this discipline achieve a singular objective: a repeatable credit engine with a target DSCR of 1.65x under stressed conditions.
+It rejects shortcuts. ## ## EXIT Fund-III operators who follow this discipline achieve a singular objective: a repeatable credit engine with a target DSCR of 1.65x under stressed conditions.
 
 Request a confidential capital audit. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
 

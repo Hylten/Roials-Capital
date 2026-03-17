@@ -20,7 +20,7 @@ What follows is an institutional framework for understanding why capital moves, 
 
 The purpose is not solicitation.
 
-The purpose is clarity for allocators calibrating exposures ahead of a multi year balance sheet recalibration cycle. ## ## ## 
+The purpose is clarity for allocators calibrating exposures ahead of a multi year balance sheet recalibration cycle. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -58,13 +58,13 @@ These imbalances drive allocators toward sectors with measurable recovery curves
 
 This is why North American heavy oil has reentered institutional conversations.
 
-Not as a commodity trade, but as a quantifiable productive asset class.
+Not as a commodity trade, but as a quantifiable productive asset class. ## 
 
 ## THE REGIME SHIFT
 
  establishes the foundation for capital migration: institutions are prioritizing operational visibility over growth narratives.
 
-Migration follows transparency. ## ## ## 
+Migration follows transparency. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -122,11 +122,11 @@ Allocators migrate toward transparency.
 
 Waterfalls provide it.
 
-ENERGY: ## ## ## 
+ENERGY: ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
- OF THE ALBERTA BASIN North American energy, specifically the Alberta basin, operates with 
+ OF THE ALBERTA BASIN North American energy, specifically the Alberta basin, operates with ## 
 
 ## TECHNICAL MECHANICS
 
@@ -184,11 +184,11 @@ Market navigation requires translating noise into actionable structural intellig
 
 Roials Capital delivers institutional clarity around buyout sequences for Fund-III managers, Monetization Architecture structures in private credit, and technical exposure in the Alberta basin through NAEO. 
 
--  Institutional 
+-  Institutional ## 
 
 ## INTRODUCTION
 
- The 
+ The ## 
 
 ## INTRODUCTION
 
@@ -202,7 +202,7 @@ In energy, this involves NAEO.
 
 In private credit, this involves lenders with defined collateral frameworks.
 
-In private equity, this involves managers transitioning from Fund-II to Fund-III scaling. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful capital deployment.
+In private equity, this involves managers transitioning from Fund-II to Fund-III scaling. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful capital deployment.
 
 Allocators increasingly require a stewardship framework to validate exposures.
 
@@ -226,7 +226,7 @@ Stewardship does not tolerate artificial leverage or unsustainable draw schedule
 
 Capital must be allocated to production, operational efficiency, acquisition discipline, and structural hardening.
 
-Stewardship filters remove volatility by removing waste. ## ## PHASE 5: ## ## DECISION MAKING LENS FOR THE ALLOCATOR Allocators operating in the current regime face three critical decisions: 
+Stewardship filters remove volatility by removing waste. ## ## ## ## DECISION MAKING LENS FOR THE ALLOCATOR Allocators operating in the current regime face three critical decisions: 
 
 -  Capital Concentration Where are the structural vacuums that create mispriced durability.
 

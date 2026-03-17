@@ -78,7 +78,9 @@ The mission is to build it.
 
 -  
 
--  --
+-  -
+
+-  
 
 -  
 
@@ -244,7 +246,9 @@ This is the spine of institutional asset hardening.
 
 -  
 
--  --
+-  -
+
+-  
 
 -  
 
@@ -336,7 +340,9 @@ Asset hardening then becomes a replicable formula, not a conceptual aspiration.
 
 -  
 
--  --
+-  -
+
+-  
 
 -  
 
@@ -408,7 +414,9 @@ Fund‑III needs to move faster than market cycles.
 
 -  
 
--  --
+-  -
+
+-  
 
 -  
 
@@ -452,7 +460,9 @@ If the asset is hardened, capital compounds.
 
 -  
 
--  --
+-  -
+
+-  
 
 -  
 

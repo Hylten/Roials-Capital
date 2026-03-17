@@ -36,7 +36,7 @@ Alignment is not philosophical.
 
 Alignment is mechanical.
 
-Correct alignment is the difference between a Fund-III that compounds authority and one that dissolves into administrative noise. ## ## ## 
+Correct alignment is the difference between a Fund-III that compounds authority and one that dissolves into administrative noise. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -82,7 +82,7 @@ But because the architecture itself is insufficient.
 
 You cannot correct misalignment through sentiment.
 
-You correct it through structure. ## ## ## 
+You correct it through structure. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -172,7 +172,7 @@ That delay is not technical.
 
 It is cultural.
 
-A disciplined fund eliminates that delay. ## ## ## THE 
+A disciplined fund eliminates that delay. ## ## ## THE ## 
 
 ## STRATEGIC MODEL
 
@@ -182,7 +182,7 @@ It is an operational mandate.
 
 A Fund-III structure must operate with a higher order of clarity.
 
-The 
+The ## 
 
 ## STRATEGIC MODEL
 
@@ -228,7 +228,7 @@ When the architecture is correct, special mandates do not introduce complexity.
 
 They introduce optionality.
 
-The 
+The ## 
 
 ## STRATEGIC MODEL
 
@@ -258,11 +258,15 @@ They collaborate with it.
 
 If they resist discipline at the term sheet, they will resist discipline at month eighteen.
 
-That is a predictable failure point. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship is the governing ethic.
+That is a predictable failure point. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is the governing ethic.
 
 Private credit is not a game of yield.
 
-It is a theology of allocation. **Proverbs 13:22** defines the mandate: An inheritance must endure across generations.
+It is a theology of allocation. **Proverbs 13:22** defines 
+
+## THE MANDATE
+
+: An inheritance must endure across generations.
 
 That is only possible when capital is directed with intent, not appetite.
 
@@ -316,7 +320,7 @@ The failure begins when managers ignore drift in borrower behavior.
 
 Drift is the early warning system.
 
-Drift reveals who treats capital as stewardship and who treats it as fuel. ## ## PHASE 5: EXIT Order is measured at exit.
+Drift reveals who treats capital as stewardship and who treats it as fuel. ## ## EXIT Order is measured at exit.
 
 If the system produced discipline, the exits will be clean.
 

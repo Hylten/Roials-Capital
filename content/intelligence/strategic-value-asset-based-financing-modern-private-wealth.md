@@ -18,7 +18,7 @@ Asset based financing has reemerged not as a niche product but as a primary arch
 
 The rationale is not yield seeking.
 
-It is institutional durability. ## ## ## 
+It is institutional durability. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -44,7 +44,7 @@ Monetization through structured asset based financing introduces liquidity witho
 
 The consequence is a new capital regime defined by operational resilience, reduced opportunity cost, and improved strategic optionality.
 
-Asset based financing is the mechanism that translates these conditions into functional liquidity. ## ## ## 
+Asset based financing is the mechanism that translates these conditions into functional liquidity. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -130,25 +130,25 @@ Archetype classification allows for precision engineering of capital structures 
 
 The value is in the alignment of regulatory, financial, and operational ecosystems. 
 
-3. Institutional 
+3. Institutional ## 
 
 ## INTRODUCTION
 
  For energy strategies, the relevant execution partner is NAEO.
 
-For Fund-III buyout platforms, the 
+For Fund-III buyout platforms, the ## 
 
 ## INTRODUCTION
 
  is to private credit desks structured for acquisition financing.
 
-For UHNW families, the 
+For UHNW families, the ## 
 
 ## INTRODUCTION
 
  focuses on family capital vehicles, credit platforms, and specialty lenders aligned with the client’s strategic posture.
 
-The partnership model ensures that principals operate with structural clarity rather than market noise. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship is not philanthropy.
+The partnership model ensures that principals operate with structural clarity rather than market noise. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is not philanthropy.
 
 It is a discipline of resource management.
 
@@ -174,7 +174,7 @@ Opportunity velocity increases when liquidity is engineered rather than episodic
 
 Properly designed ABL frameworks create continuous readiness.
 
-The stewardship filter turns ABL into an ethical decision making tool, not a leverage mechanism. ## ## PHASE 5: PORTFOLIO CALIBRATION LENS Modern private wealth requires three structural competencies. 
+The stewardship filter turns ABL into an ethical decision making tool, not a leverage mechanism. ## ## PORTFOLIO CALIBRATION LENS Modern private wealth requires three structural competencies. 
 
 1. Liquidity at the right moment Liquidity must be available at the point of strategic inflection.
 

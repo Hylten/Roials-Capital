@@ -380,7 +380,9 @@ Those who secure capital.
 
 Those who lose it. **Proverbs 13:22** .
 
-The mandate is simple.
+## THE MANDATE
+
+ is simple.
 
 Audit.
 

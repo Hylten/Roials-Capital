@@ -24,7 +24,11 @@ The shift is permanent.
 
 Mobility makes the fund.
 
-Mobility protects the mandate.
+Mobility protects 
+
+## THE MANDATE
+
+.
 
 Mobility hardens the assets.
 
@@ -134,7 +138,11 @@ Hardening builds posture.
 
 Posture attracts LPs.
 
-LPs expand the mandate.
+LPs expand 
+
+## THE MANDATE
+
+.
 
 Buyouts and add-ons dominate the Fund-III map.
 

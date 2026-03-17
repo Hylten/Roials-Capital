@@ -12,7 +12,7 @@ Sovereign allocators have moved into this gap with an operating philosophy that 
 
 Their presence is restructuring the opportunity map for private equity, private credit, and strategic resource ownership across North America and Europe. ## PHASE 
 
-1. ## ## ## 
+1. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -42,7 +42,7 @@ Sovereign capital has moved into sectors that require long term stability of cap
 
 Private credit funds, mid market buyout platforms, and sector specialist sponsors are now repositioning their capital raising strategies toward sovereign archetypes, because sovereign allocators value strategic alignment over benchmark relative performance. ## PHASE 
 
-2. ## ## ## 
+2. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -120,7 +120,9 @@ Sovereign allocators are less sensitive to vintage year dispersion and more focu
 
 The function is not asset management.
 
-The mandate is institutional alignment.
+## THE MANDATE
+
+ is institutional alignment.
 
 For energy specific mandates, the operational intelligence is provided by NAEO, a specialist partner with access to delineated heavy oil inventories in Alberta and Saskatchewan.
 

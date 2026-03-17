@@ -10,7 +10,7 @@ The capital vacuum across North American and European lower mid market operators
 
 The current environment rewards allocators who understand that structural alpha is increasingly generated through balance sheet architecture rather than traditional equity selection.
 
-Engineered reliability inside Asset Based Liquidity Engineering has become one of the few persistent sources of non correlated value creation because it converts operational certainty into institutional grade optionality. ## ## ## 
+Engineered reliability inside Asset Based Liquidity Engineering has become one of the few persistent sources of non correlated value creation because it converts operational certainty into institutional grade optionality. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -42,7 +42,7 @@ The inefficiency is structural because it originates from policy constraints rat
 
 Capital scarcity is incorrectly interpreted as risk.
 
-The disconnect creates an opportunity for disciplined liquidity engineers who can transform constrained balance sheets into hardened institutional grade assets. ## ## ## 
+The disconnect creates an opportunity for disciplined liquidity engineers who can transform constrained balance sheets into hardened institutional grade assets. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -120,15 +120,19 @@ This is why many European and Middle Eastern allocators have begun shifting from
 
 THE PARTNERSHIP MODEL Roials Capital functions as a strategic navigator within this landscape.
 
-The mandate is not to lend, operate, or manage external assets.
+## THE MANDATE
 
-The mandate is to deliver institutional clarity, operator specific intelligence, and partner curation for allocators who require structural certainty. 
+ is not to lend, operate, or manage external assets.
+
+## THE MANDATE
+
+ is to deliver institutional clarity, operator specific intelligence, and partner curation for allocators who require structural certainty. 
 
 1. Strategic Alignment Roials Capital maps allocator objectives to real asset ecosystems where liquidity engineering is structurally required.
 
 This avoids model drift and ensures that engagements remain aligned with the allocator's risk profile, duration preferences, and mandate constraints. 
 
-2. Market Navigation In North American energy, Roials Capital maintains an institutional 
+2. Market Navigation In North American energy, Roials Capital maintains an institutional ## 
 
 ## INTRODUCTION
 
@@ -140,7 +144,7 @@ This makes the region uniquely suitable for structured credit and asset based op
 
 For allocators outside energy, Roials Capital provides navigation across European private credit, Nordic industrial services, and cross border ABL opportunities where capital scarcity enhances pricing power. 
 
-3. Institutional 
+3. Institutional ## 
 
 ## INTRODUCTION
 
@@ -150,7 +154,7 @@ The emphasis is on intelligence transfer, partner suitability, and operational c
 
 When energy is involved, NAEO serves as the institutional grade partner because of their technical specialization, predictable field operations, and disciplined recovery engineering.
 
-When the focus is Fund-III buyouts or European mandates, introductions focus on operators with demonstrated stewardship and measurable value conversion discipline. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship is not a moral abstraction.
+When the focus is Fund-III buyouts or European mandates, introductions focus on operators with demonstrated stewardship and measurable value conversion discipline. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is not a moral abstraction.
 
 It is a technical discipline.
 
@@ -178,7 +182,7 @@ They cannot create dependency or forced refinancing events.
 
 Growth must follow proven recovery of invested capital, ensuring that velocity remains anchored to real performance.
 
-Stewardship is the differentiator between engineered reliability and engineered fragility. ## ## PHASE 5: A ## ## DECISION MAKING LENS FOR THE ALLOCATOR Allocators navigating the current regime require a refined lens for evaluating real asset liquidity opportunities.
+Stewardship is the differentiator between engineered reliability and engineered fragility. ## ## A ## ## DECISION MAKING LENS FOR THE ALLOCATOR Allocators navigating the current regime require a refined lens for evaluating real asset liquidity opportunities.
 
 The framework is straightforward: 
 

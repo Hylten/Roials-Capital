@@ -10,7 +10,11 @@ slug: "multiasset-hardening-for-Fund-III-integrating-digital-assets-into-institu
 
 The architecture that supports Fund-III operations must create stability across liquid and semi liquid instruments, and it must do so without distorting capital behavior or disrupting long range risk modeling.
 
-At Roials Capital, the mandate is precise.
+At Roials Capital, 
+
+## THE MANDATE
+
+ is precise.
 
 We lend against private credit and asset based structures, and we extend collateralized liquidity against digital and public market assets for qualified positions.
 
@@ -216,7 +220,7 @@ HNWI and UHNW clients understand that the next decade will reward those who main
 
 Multi asset hardening is a discipline that produces that control.
 
-Fund-III is the practical expression of that discipline. ## 
+Fund-III is the practical expression of that discipline. ## ## 
 
 ## CONCLUSION
 

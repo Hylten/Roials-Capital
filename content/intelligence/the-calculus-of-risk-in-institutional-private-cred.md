@@ -144,7 +144,9 @@ Not as a vendor.
 
 Not as a service provider.
 
-The mandate is simple.
+## THE MANDATE
+
+ is simple.
 
 Preserve capital.
 
@@ -214,11 +216,11 @@ If the answer is no, the liquidity facility is rejected.
 
 If the answer is yes, terms are quantified.
 
-If the answer is absolute, capital deploys. ## 
+If the answer is absolute, capital deploys. ## ## 
 
 ## CONCLUSION
 
-.
+ .
 
 The Institutional Mandate for the Next Decade The calculus of risk in institutional private credit is entering a new era. 
 

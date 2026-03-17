@@ -16,7 +16,7 @@ After 2020, traditional credit creation mechanisms no longer determine opportuni
 
 Sovereign balance sheets determine it.
 
-Understanding this progression is no longer optional for allocators operating within buyout environments, private credit structures, or hard-asset energy positions. ## ## ## 
+Understanding this progression is no longer optional for allocators operating within buyout environments, private credit structures, or hard-asset energy positions. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -60,7 +60,7 @@ The Nordic region, the GCC, the US Southwest, and selected European institutiona
 
 The allocator who understands the sovereign anchored environment does not chase yield.
 
-Instead, they identify balance sheet sovereignty as the foundational requirement before any operational diligence begins. ## ## ## 
+Instead, they identify balance sheet sovereignty as the foundational requirement before any operational diligence begins. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -182,7 +182,7 @@ In the buyout corridor, Roials Capital provides capital raising infrastructure f
 
 This includes jurisdictional mapping, LP segmentation, capital stack calibration, and institutional readiness audits.
 
-In liquidity engineering, the firm provides structural design intelligence for ABL solutions that support cross border acquisition strategies and balance sheet optimization. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship is the discipline that governs responsible resource management.
+In liquidity engineering, the firm provides structural design intelligence for ABL solutions that support cross border acquisition strategies and balance sheet optimization. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is the discipline that governs responsible resource management.
 
 It is not a moral posture but an operational framework.
 
@@ -206,7 +206,7 @@ In this context, stewardship requires:
 
 Stewardship creates durability.
 
-Durability is the most undervalued asset class in the modern financing environment. ## ## PHASE 5: DECISION FRAMEWORK FOR THE INSTITUTIONAL ALLOCATOR Allocators navigating the current environment require a systemized evaluation model grounded in structural authority rather than market sentiment.
+Durability is the most undervalued asset class in the modern financing environment. ## ## DECISION FRAMEWORK FOR THE INSTITUTIONAL ALLOCATOR Allocators navigating the current environment require a systemized evaluation model grounded in structural authority rather than market sentiment.
 
 The framework involves five core assessments. 
 

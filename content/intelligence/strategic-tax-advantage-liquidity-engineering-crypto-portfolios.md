@@ -12,11 +12,11 @@ It is the direct outcome of regulatory divergence, tax friction, and the absence
 
 The current environment has created a structural asymmetry.
 
-Experienced LPs and UHNWIs with crypto density observe nominal appreciation yet face impaired convertibility, dislocated taxable events, and a lack of strategic counterparts capable of converting volatile digital value into institutional-grade liquidity streams. ## ## ## 
+Experienced LPs and UHNWIs with crypto density observe nominal appreciation yet face impaired convertibility, dislocated taxable events, and a lack of strategic counterparts capable of converting volatile digital value into institutional-grade liquidity streams. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
- 
+ ## 
 
 ## THE REGIME SHIFT
 
@@ -48,7 +48,7 @@ Despite aggregate wealth expansion inside digital assets, the allocators hold po
 
 Against this backdrop, liquidity engineering has emerged as a method of balance sheet stabilization rather than a method of yield generation.
 
-It enables the allocator to reconfigure the liquidity profile of their crypto exposure without triggering disposals. ## ## ## 
+It enables the allocator to reconfigure the liquidity profile of their crypto exposure without triggering disposals. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -136,7 +136,7 @@ Crypto portfolios require counterparties with risk governance sophistication, ta
 
 Roials Capital does not intermediate crypto assets.
 
-It structures strategic alignment pathways that allow allocators to enter institutional deal flow. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management.
+It structures strategic alignment pathways that allow allocators to enter institutional deal flow. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management.
 
 Crypto wealth without structure is vulnerable to misallocation.
 
@@ -168,7 +168,7 @@ This is not a financial product pitch.
 
 This is an operational discipline.
 
-It is a method for preventing the erosion of value through misaligned tax events, unnecessary disposals, or volatility driven decision errors. ## ## PHASE 5: ## ## DECISION MAKING LENS FOR THE ALLOCATOR Allocators who hold crypto concentration face a structural choice.
+It is a method for preventing the erosion of value through misaligned tax events, unnecessary disposals, or volatility driven decision errors. ## ## ## ## DECISION MAKING LENS FOR THE ALLOCATOR Allocators who hold crypto concentration face a structural choice.
 
 They can remain in a static liquidity position or they can convert their capital into an institutionally aligned configuration that serves broader strategic goals.
 

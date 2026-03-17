@@ -16,7 +16,7 @@ Institutional migration is not an emotional phenomenon.
 
 It is a rules-based reallocation pattern governed by balance sheet pressure, portfolio calibration models, and regulatory capital weighting.
 
-The current regime demonstrates the same characteristics observable in 1986, 1999, 2009, and 2020, with allocators repositioning toward assets that offer durability, jurisdictional stability, and predictable operational mechanics. ## ## ## 
+The current regime demonstrates the same characteristics observable in 1986, 1999, 2009, and 2020, with allocators repositioning toward assets that offer durability, jurisdictional stability, and predictable operational mechanics. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -50,7 +50,7 @@ The Alberta basin demonstrates this principle.
 
 Resource stability, reservoir predictability, and infrastructure density are structurally unchanged.
 
-What changed is the institutional perception of regulatory cost, which created a mispriced domain where intermediaries with technical intelligence generate clarity for global allocators. ## ## ## 
+What changed is the institutional perception of regulatory cost, which created a mispriced domain where intermediaries with technical intelligence generate clarity for global allocators. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -132,7 +132,7 @@ Roials ensures each pathway is compliant, de-risked, and technically aligned wit
 
 Roials maintains a proprietary pipeline across buyout platforms, Asset-Based Lending structures, and North American energy operators.
 
-This operational intelligence reduces discovery costs for allocators. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship is treated not as philanthropy but as a discipline of non-wasteful resource management.
+This operational intelligence reduces discovery costs for allocators. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is treated not as philanthropy but as a discipline of non-wasteful resource management.
 
 For institutions with multi-generational mandates, capital stewardship aligns with the scriptural principle in **Proverbs 13:22** , emphasizing longevity, prudence, and structured allocation.
 
@@ -152,7 +152,7 @@ Operators with rigorous cycle management and reservoir discipline exemplify stew
 
 NAEO's operating model reflects this.
 
-The filter extends to private credit, where disciplined balance sheet optimization and collateral auditing protect the long-term integrity of institutional capital. ## ## PHASE 5: DECISION-MAKING LENS FOR ALLOCATORS The present cycle rewards institutions that operate with clarity, jurisdictional discipline, and technical insight.
+The filter extends to private credit, where disciplined balance sheet optimization and collateral auditing protect the long-term integrity of institutional capital. ## ## DECISION-MAKING LENS FOR ALLOCATORS The present cycle rewards institutions that operate with clarity, jurisdictional discipline, and technical insight.
 
 Capital migration will continue toward assets with intrinsic durability, predictable mechanics, and governance frameworks aligned with solvency requirements.
 

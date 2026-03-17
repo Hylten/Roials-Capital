@@ -444,7 +444,7 @@ It is getting clearer.
 
 Those with infrastructure will inherit scale.
 
-Those without will exit the domain. ## 
+Those without will exit the domain. ## ## 
 
 ## CONCLUSION
 

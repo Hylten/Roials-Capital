@@ -486,7 +486,9 @@ Managers either design architecture or become trapped in it.
 
 Fund-III designs it.
 
-The mandate is clear.
+## THE MANDATE
+
+ is clear.
 
 Build real assets.
 

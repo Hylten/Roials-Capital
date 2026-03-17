@@ -38,7 +38,7 @@ They punish immobility.
 
 The New Liquidity Standard emerges because the legacy liquidity model failed its stewards. ## PHASE 
 
-1. ## ## ## 
+1. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -114,7 +114,7 @@ The public market pretended to offer liquidity.
 
 The private market now delivers it. ## PHASE 
 
-2. ## ## ## 
+2. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -214,11 +214,11 @@ The market cannot offer timing.
 
 Only structure can. ## PHASE 
 
-3. ## ## ## THE 
+3. ## ## ## THE ## 
 
 ## STRATEGIC MODEL
 
- The 
+ The ## 
 
 ## STRATEGIC MODEL
 
@@ -332,7 +332,11 @@ The public markets no longer reward passive holding.
 
 The steward must act before volatility acts for him. ## PHASE 
 
-5. EXIT The mandate is simple: transform trapped public value into redeployable private capital without triggering market decay.
+5. EXIT 
+
+## THE MANDATE
+
+ is simple: transform trapped public value into redeployable private capital without triggering market decay.
 
 The technical threshold is 38 to 44 percent institutional LTV stability across a 180 day volatility band. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
 

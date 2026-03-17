@@ -12,7 +12,7 @@ Capital is not searching for higher returns.
 
 Capital is searching for operational intelligibility and jurisdictional stability.
 
-The vacuum forming in North American energy is a predictable byproduct of this divergence, and allocators that understand the mechanics of transnational flow routing are positioning their Fund-III and Fund-IV vehicles to intercept dislocated assets before the next consolidation cycle sets in. ## ## ## 
+The vacuum forming in North American energy is a predictable byproduct of this divergence, and allocators that understand the mechanics of transnational flow routing are positioning their Fund-III and Fund-IV vehicles to intercept dislocated assets before the next consolidation cycle sets in. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -32,7 +32,7 @@ Capital is abundant but structurally inhibited from entering real asset environm
 
 Their priority is not velocity, but certainty of technical performance.
 
-This is 
+This is ## 
 
 ## THE REGIME SHIFT
 
@@ -72,7 +72,7 @@ In private credit, the migration pattern is similar.
 
 European lenders are tightening loan-to-value tolerances, US lenders are tightening covenant packages, and Gulf entities are prioritizing secured exposures with operational visibility.
 
-This triangulates demand for institutional grade Fund-III structures capable of absorbing and redeploying cross-border allocations with minimal regulatory friction. ## ## ## 
+This triangulates demand for institutional grade Fund-III structures capable of absorbing and redeploying cross-border allocations with minimal regulatory friction. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -178,7 +178,7 @@ Gulf sovereign-linked capital requires operational visibility and technical cert
 
 The partnership model functions as a cross-border allocation framework.
 
-The strategic purpose is friction minimization and institutional alignment. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship is not a marketing term.
+The strategic purpose is friction minimization and institutional alignment. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is not a marketing term.
 
 It is a discipline.
 
@@ -196,7 +196,7 @@ For allocators, the Stewardship Filter is expressed through:
 
 -  Commitment to capital structures that do not amplify risk asymmetrically This filter is increasingly relevant for UHNW families transitioning from private banking environments to direct or co-investment structures.
 
-Stewardship in this context is a demand for clear operational intelligence and disciplined capital governance. ## ## PHASE 5: ## ## DECISION MAKING LENS FOR THE ALLOCATOR The 2026 allocator operates in a multi-axis environment. 
+Stewardship in this context is a demand for clear operational intelligence and disciplined capital governance. ## ## ## ## DECISION MAKING LENS FOR THE ALLOCATOR The 2026 allocator operates in a multi-axis environment. 
 
 -  Regulatory divergence between Europe, North America, and Gulf jurisdictions 
 

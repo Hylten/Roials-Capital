@@ -38,7 +38,11 @@ Control determines velocity, and velocity determines compounding power.
 
 This distinction matters because misaligned capital often accelerates risk, while aligned capital accelerates optionality.
 
-At ROIALS CAPITAL the mandate is to engineer liquidity structures that provide this optionality without violating the preservation layer. ## Structural Liquidity as a Strategic Weapon For sovereign-aligned investors liquidity is not a buffer.
+At ROIALS CAPITAL 
+
+## THE MANDATE
+
+ is to engineer liquidity structures that provide this optionality without violating the preservation layer. ## Structural Liquidity as a Strategic Weapon For sovereign-aligned investors liquidity is not a buffer.
 
 It is a weaponized position.
 
@@ -252,7 +256,7 @@ Sovereign investors who align with institutional Strategic Collateralization arc
 
 The objective is not aggressiveness.
 
-The objective is silent authority. ## 
+The objective is silent authority. ## ## 
 
 ## CONCLUSION
 

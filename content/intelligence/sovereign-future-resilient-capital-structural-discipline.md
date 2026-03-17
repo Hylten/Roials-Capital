@@ -10,7 +10,7 @@ The capital vacuum in North America’s energy sector is a consequence of regula
 
 This vacuum is now interacting with a global shift toward balance sheet hardening, reserve based recalibration, and institutionally enforced liquidity thresholds that shape allocator behavior more than nominal interest rates.
 
-The resulting architecture is a new strategic environment where sovereign oriented capital, private credit frameworks, and hard asset exposure converge into what can be defined as the Sovereign Future of capital stewardship. ## ## ## 
+The resulting architecture is a new strategic environment where sovereign oriented capital, private credit frameworks, and hard asset exposure converge into what can be defined as the Sovereign Future of capital stewardship. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -44,7 +44,7 @@ Capital discipline replaces capital abundance.
 
 Balance sheet optimization replaces portfolio expansion.
 
-Asset hardening replaces thematic speculation. ## ## ## 
+Asset hardening replaces thematic speculation. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -116,7 +116,7 @@ For European acquisitions under MiFID II, we serve as introducers and analysts, 
 
 Roials Capital's role is to translate complex operational domains into clear institutional decision paths.
 
-The partnership model is structured around neutrality, alignment, and technical clarity rather than product distribution. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management.
+The partnership model is structured around neutrality, alignment, and technical clarity rather than product distribution. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management.
 
 It is an operational principle rooted in strategic responsibility rather than moral abstraction.
 
@@ -146,7 +146,7 @@ Thermal viscosity reduction confirms production.
 
 Capital formation and operational deployment must reflect both economic rationality and disciplined governance.
 
-This filter strengthens the allocator’s capacity to build resilient capital ecosystems. ## ## PHASE 5: ## ## DECISION MAKING LENS FOR ALLOCATORS The Sovereign Future requires a new decision lens built on structural, operational, and jurisdictional clarity.
+This filter strengthens the allocator’s capacity to build resilient capital ecosystems. ## ## ## ## DECISION MAKING LENS FOR ALLOCATORS The Sovereign Future requires a new decision lens built on structural, operational, and jurisdictional clarity.
 
 Allocators face a landscape defined by scarcity, regulatory fragmentation, and the primacy of real assets.
 

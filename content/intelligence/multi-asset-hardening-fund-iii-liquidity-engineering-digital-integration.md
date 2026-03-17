@@ -20,7 +20,7 @@ Fund-III operates inside this structural inflection point where multi asset hard
 
 Traditional energy, middle market private credit, digital assets, and regulated tokenized collateral are no longer discrete silos.
 
-They form a single liquidity architecture that defines opportunity velocity, transaction certainty, and capital stack stability. ## ## ## 
+They form a single liquidity architecture that defines opportunity velocity, transaction certainty, and capital stack stability. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -50,7 +50,7 @@ This enables conservative institutions to treat digital assets as operational li
 
 Fund-III therefore does not view digital assets as a vertical.
 
-They function as a liquidity layer that supports broader acquisition pipelines across buyouts, add ons, and sector consolidations. ## ## ## 
+They function as a liquidity layer that supports broader acquisition pipelines across buyouts, add ons, and sector consolidations. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -160,13 +160,13 @@ Roials Capital does not promote these assets.
 
 It orchestrates their integration.
 
-The role is technical guidance, institutional 
+The role is technical guidance, institutional ## 
 
 ## INTRODUCTION
 
-, and structural alignment.
+ , and structural alignment.
 
-Our strategic partner NAEO functions as the institutional anchor within the Alberta energy landscape, providing the heavy asset backbone that complements the liquid digital layer. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship in capital architecture is not an ethical accessory.
+Our strategic partner NAEO functions as the institutional anchor within the Alberta energy landscape, providing the heavy asset backbone that complements the liquid digital layer. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship in capital architecture is not an ethical accessory.
 
 It is a structural requirement.
 
@@ -188,7 +188,7 @@ Stewardship consists of four operational elements.
 
 4. Clarity Each asset must maintain transparent risk classification and auditability.
 
-Digital assets meet these criteria when placed under disciplined governance and integrated properly into real asset ecosystems. ## ## PHASE 5: ## ## DECISION MAKING LENS FOR ALLOCATORS Institutional allocators evaluating Fund-III are not assessing exposure to digital assets.
+Digital assets meet these criteria when placed under disciplined governance and integrated properly into real asset ecosystems. ## ## ## ## DECISION MAKING LENS FOR ALLOCATORS Institutional allocators evaluating Fund-III are not assessing exposure to digital assets.
 
 They are assessing the architecture in which digital liquidity interacts with real assets, seniority structures, and acquisition velocity.
 

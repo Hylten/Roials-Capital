@@ -264,11 +264,11 @@ They are parallel.
 
 Those who understand the distinction will unlock the full spectrum of modern liquidity.
 
-Those who do not will continue to run complex portfolios through legacy pipelines that were not designed for them. ## 
+Those who do not will continue to run complex portfolios through legacy pipelines that were not designed for them. ## ## 
 
 ## CONCLUSION
 
-: Architecture Determines Outcome Traditional banking is structured for safety, scale, and regulatory compliance.
+ : Architecture Determines Outcome Traditional banking is structured for safety, scale, and regulatory compliance.
 
 Institutional private credit is structured for velocity, engineering, and asset sophistication.
 

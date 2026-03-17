@@ -10,7 +10,7 @@ The capital vacuum in North American private credit is the predictable outcome o
 
 The shift has triggered a reordering of risk, where the relative safety of an exposure is no longer defined by conventional ratings logic but by structural positioning, collateral physics, and the discipline of cash flow predictability.
 
-This is the environment in which institutional private credit has evolved into an allocation category governed less by sentiment and more by operational intelligence and balance sheet engineering. ## ## ## 
+This is the environment in which institutional private credit has evolved into an allocation category governed less by sentiment and more by operational intelligence and balance sheet engineering. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -36,7 +36,7 @@ This enables a more precise matching between asset profile and duration, generat
 
 The consequence is a new equilibrium.
 
-Capital scarcity has elevated underwriting standards, improved structural protections, and expanded the role of lending managers as strategic partners rather than passive financiers. ## ## ## 
+Capital scarcity has elevated underwriting standards, improved structural protections, and expanded the role of lending managers as strategic partners rather than passive financiers. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -108,7 +108,7 @@ Mechanisms include:
 
 -  Inventory backed liquidity taps in industrial portfolios 
 
--  Receivable acceleration models in recurring revenue companies The sum of these mechanics defines the true risk position, independent of broad market narratives. ## PHASE 2B: ## ## ## 
+-  Receivable acceleration models in recurring revenue companies The sum of these mechanics defines the true risk position, independent of broad market narratives. ## PHASE 2B: ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -128,7 +128,9 @@ These mechanics reduce geological uncertainty and align well with structured pri
 
 THE PARTNERSHIP MODEL Roials Capital functions as a strategic navigator rather than a capital allocator.
 
-The mandate is to supply institutional intelligence, ensure structural alignment, and facilitate introductions that allow LPs and GPs to match with the appropriate capital archetype. 
+## THE MANDATE
+
+ is to supply institutional intelligence, ensure structural alignment, and facilitate introductions that allow LPs and GPs to match with the appropriate capital archetype. 
 
 1. Kapitalanskaffning for Fund-III+ The primary emphasis is on supporting buyout platforms and their add on programs by ensuring access to institutional grade private credit aligned with their operational cadence.
 
@@ -142,7 +144,11 @@ Roials Capital provides:
 
 -  Structuring advisory focused on non dilutive frameworks 
 
-2. Institutional Liquidity Paths (Asset-Based Lending) Approximately ten percent of the mandate focuses on asset based lending frameworks designed to improve working capital velocity.
+2. Institutional Liquidity Paths (Asset-Based Lending) Approximately ten percent of 
+
+## THE MANDATE
+
+ focuses on asset based lending frameworks designed to improve working capital velocity.
 
 These structures support: 
 
@@ -162,7 +168,7 @@ These structures support:
 
 -  Operational restructuring mandates in industrial platforms The unifying thread across all mandates is neutrality.
 
-Roials Capital does not promote a specific fund but instead ensures institutional alignment between the allocator and the required structure. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Institutional private credit, when practiced with discipline, is a manifestation of stewardship.
+Roials Capital does not promote a specific fund but instead ensures institutional alignment between the allocator and the required structure. ## ## ## ## ## THE STEWARDSHIP FILTER Institutional private credit, when practiced with discipline, is a manifestation of stewardship.
 
 Stewardship is defined as the responsible governance of capital and resources.
 
@@ -188,7 +194,7 @@ Stewardship directly influences:
 
 -  Liquidity governance Stewardship reduces fragility.
 
-It aligns the interests of LPs, GPs, portfolio companies, and communities impacted by the assets. ## ## PHASE 5: ## ## DECISION MAKING LENS FOR THE ALLOCATOR Allocators operating in this regime require a calibration lens built around four questions: 
+It aligns the interests of LPs, GPs, portfolio companies, and communities impacted by the assets. ## ## ## ## DECISION MAKING LENS FOR THE ALLOCATOR Allocators operating in this regime require a calibration lens built around four questions: 
 
 1. Is the structure aligned with the true risk curve of the asset rather than the market narrative surrounding it? 
 

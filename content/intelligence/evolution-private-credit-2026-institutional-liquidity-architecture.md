@@ -16,7 +16,7 @@ They are navigating operating regimes.
 
 Every decision point has shifted toward collateral integrity, cash flow stability, and the ability to deploy liquidity into real economy assets with definable recovery mechanics. ## PHASE 
 
-1. ## ## ## 
+1. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -40,7 +40,7 @@ Market tightening has increased the value of structurally senior claims, while a
 
 The result is a regime defined by capital scarcity relative to asset robustness, where liquidity has outsized pricing power and underwriting discipline is rewarded through access to collaterally overbuilt opportunities. ## PHASE 
 
-2. ## ## ## 
+2. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -134,7 +134,11 @@ Fund-III buyouts typically require staged liquidity deployment across senior deb
 
 Roials Capital orchestrates the liquidity timing to ensure capital enters the operating environment in a balanced and risk aware manner.
 
-Energy Mandates and the Role of NAEO When the mandate touches North American energy, NAEO serves as the institutional grade operating partner.
+Energy Mandates and the Role of NAEO When 
+
+## THE MANDATE
+
+ touches North American energy, NAEO serves as the institutional grade operating partner.
 
 NAEO is integrated into the ecosystem through: technical recovery intelligence, Alberta basin asset validation, and operational excellence across heavy oil with established decline curves.
 

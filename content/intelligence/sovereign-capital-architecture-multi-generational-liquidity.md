@@ -16,7 +16,7 @@ This mismatch between geological certainty and capital availability is the found
 
 Allocators who understand this regime shift are not making directional price bets.
 
-They are structuring long horizon liquidity architectures around known decline curves, established recovery systems, and disciplined operational partners. ## ## ## 
+They are structuring long horizon liquidity architectures around known decline curves, established recovery systems, and disciplined operational partners. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -62,7 +62,7 @@ These forces create a predictable capital inefficiency that sophisticated alloca
 
 It is not a temporary mispricing.
 
-It is a structural shift that will define the next two decades of North American energy financing. ## ## ## 
+It is a structural shift that will define the next two decades of North American energy financing. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -142,7 +142,7 @@ Roials Capital operates as a strategic navigator inside this environment.
 
 The function is not asset management.
 
-The function is Institutional 
+The function is Institutional ## 
 
 ## INTRODUCTION
 
@@ -170,7 +170,7 @@ Liquidity engineering is the structured alignment of debt, equity, asset backed 
 
 The objective is operational coherence, not leverage expansion.
 
-The allocator benefits through reduced information asymmetry, elevated institutional counterparties, and infrastructure for calibrated decision making. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER AND THE THEOLOGY OF CAPITAL Stewardship in energy is not a moral veneer.
+The allocator benefits through reduced information asymmetry, elevated institutional counterparties, and infrastructure for calibrated decision making. ## ## ## ## ## THE STEWARDSHIP FILTER AND THE THEOLOGY OF CAPITAL Stewardship in energy is not a moral veneer.
 
 It is a technical discipline.
 
@@ -202,7 +202,7 @@ This aligns with the theological principle referenced in **Proverbs 13:22** whic
 
 The allocator is not speculating on price volatility.
 
-The allocator is stewarding long duration physical assets. ## ## PHASE 5: SOVEREIGN CAPITAL ARCHITECTURE AND MULTI GENERATIONAL LIQUIDITY FORMATION Institutional allocators across Europe, the Middle East, the United States, and Asia are increasingly recalibrating their sovereign capital architecture.
+The allocator is stewarding long duration physical assets. ## ## SOVEREIGN CAPITAL ARCHITECTURE AND MULTI GENERATIONAL LIQUIDITY FORMATION Institutional allocators across Europe, the Middle East, the United States, and Asia are increasingly recalibrating their sovereign capital architecture.
 
 The objective is to create systems that sustain liquidity across generations without exposure to fragile macro narratives. 
 

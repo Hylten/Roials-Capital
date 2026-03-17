@@ -20,7 +20,7 @@ The objective is to provide institutional level clarity on the mechanisms, filte
 
 The analysis is clinically centered on three domains that dominate current allocator attention: Kapitalanskaffning for Buyout and Add on execution, Liquidity Engineering through ABL and hybrid security structures, and Special Mandates that connect North American energy opportunities with European MiFID II compliant family capital. ## PHASE 
 
-1. ## ## ## 
+1. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -48,7 +48,7 @@ This created an environment where strategic private credit has become a core gov
 
 The convergence of energy supply tightness, reduced public market capital access, and a global shift toward bilateral lending has elevated the relevance of specialized credit partners who can operate across jurisdictions, asset classes, and industrial cycles. ## PHASE 
 
-2. ## ## ## 
+2. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -112,7 +112,7 @@ The model operates through three core tracks: Capital Formation.
 
 Approximately 80 percent of mandates center on Kapitalanskaffning for buyouts and add on sequences.
 
-This includes alignment with lower mid market sponsors, family backed operators, and independent sponsors who require institutional capital 
+This includes alignment with lower mid market sponsors, family backed operators, and independent sponsors who require institutional capital ## 
 
 ## INTRODUCTION
 
@@ -208,7 +208,7 @@ The purpose is not access.
 
 It is filtration, calibration, and operational intelligence.
 
-Roials Capital operates within this framework, providing allocators with 
+Roials Capital operates within this framework, providing allocators with ## 
 
 ## THE STRATEGIC CONTEXT
 
@@ -218,7 +218,7 @@ Allocators seeking to calibrate their portfolios across private credit, energy a
 
 These audits are not sales interactions.
 
-They are structural assessments that align capital architecture with long term objectives, operational risk tolerance, and jurisdictional constraints.
+They are structural assessments that align capital architecture with long term objectives, operational risk tolerance, and jurisdictional constraints. ## 
 
 ## THE REGIME SHIFT
 

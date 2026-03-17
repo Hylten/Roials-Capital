@@ -6,7 +6,11 @@ author: "Jonas Hyltén"
 slug: "the-mandate-of-discrete-capital-deployment"
 ---
 
-# The Mandate of Discrete Capital Deployment Discrete capital deployment is not a tactic.
+# 
+
+## THE MANDATE
+
+ of Discrete Capital Deployment Discrete capital deployment is not a tactic.
 
 It is a covenant.
 
@@ -14,7 +18,9 @@ A principal does not chase markets.
 
 A principal governs them.
 
-The mandate is simple.
+## THE MANDATE
+
+ is simple.
 
 Preserve authority.
 
@@ -306,7 +312,15 @@ Not the market.
 
 -  
 
--  ## The Mandate The mandate of discrete capital deployment is clear. 
+-  ## 
+
+## THE MANDATE
+
+ 
+
+## THE MANDATE
+
+ of discrete capital deployment is clear. 
 
 1. Govern without spectacle. 
 

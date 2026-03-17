@@ -20,7 +20,7 @@ It is crypto-denominated wealth that can be formalized into compliant collateral
 
 The gap between mobility of wealth and mobility of collateral is the arena where institutional advantage is created. ## PHASE 
 
-1. ## ## ## 
+1. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -50,7 +50,7 @@ The market consequence is an institutional mismatch: large pools of private weal
 
 This is the environment where borderless crypto collateral is emerging as an institutional archetype, not because of novelty, but because of its ability to collapse liquidity latency. ## PHASE 
 
-2. ## ## ## 
+2. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -112,7 +112,9 @@ That predictability is engineered structurally. ## PHASE
 
 The role is not asset custody, lending, or fund management.
 
-The mandate is institutional alignment.
+## THE MANDATE
+
+ is institutional alignment.
 
 When a private equity sponsor, UHNW principal, or corporate acquirer seeks cross-border liquidity, the firm’s role is to: 
 

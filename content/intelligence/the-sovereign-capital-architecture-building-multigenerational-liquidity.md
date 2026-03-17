@@ -24,7 +24,11 @@ Systems that expand optionality across decades.
 
 The Architecture is not a product.
 
-It is a governance model for capital itself. ## The Mandate of Sovereign Capital Capital must be sovereign if it is to be durable.
+It is a governance model for capital itself. ## 
+
+## THE MANDATE
+
+ of Sovereign Capital Capital must be sovereign if it is to be durable.
 
 This means capital must be insulated from political cycles, market narratives, and the noise of short term performance expectations.
 
@@ -32,7 +36,11 @@ Sovereignty is not isolation.
 
 Sovereignty is design.
 
-At Roials Capital, the mandate is surgical.
+At Roials Capital, 
+
+## THE MANDATE
+
+ is surgical.
 
 Build capital systems that maintain liquidity in all environments.
 
@@ -316,11 +324,11 @@ The architecture must remain intact under stress.
 
 Roials Capital does not predict the future.
 
-It prepares for all futures simultaneously. ## 
+It prepares for all futures simultaneously. ## ## 
 
 ## CONCLUSION
 
-: Institutions Do Not Survive by Accident They survive by architecture.
+ : Institutions Do Not Survive by Accident They survive by architecture.
 
 They survive by systems that produce stability independent of external conditions.
 

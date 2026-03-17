@@ -10,7 +10,7 @@ The capital vacuum across global private markets is a function of structural dis
 
 In 2026, allocators are navigating a domain where traditional liquidity channels have decoupled from real asset productivity.
 
-The outcome is a multi year environment where institutional grade infrastructure is no longer defined by geography or sector but by the precision of cross border balance sheet engineering. ## ## ## 
+The outcome is a multi year environment where institutional grade infrastructure is no longer defined by geography or sector but by the precision of cross border balance sheet engineering. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -44,7 +44,7 @@ Assets are sound.
 
 Capital structures are outdated.
 
-Global allocators require neutral partners who orchestrate the interfaces rather than promote product. ## ## ## 
+Global allocators require neutral partners who orchestrate the interfaces rather than promote product. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -128,7 +128,7 @@ The firm functions as a bridge between global allocators and operational ecosyst
 
 The model rests on four principles. 
 
-1. Institutional 
+1. Institutional ## 
 
 ## INTRODUCTION
 
@@ -144,7 +144,7 @@ Within energy, Roials Capital relies on NAEO as the partner responsible for fiel
 
 Roials does not manage energy assets.
 
-It introduces institutional allocators to the Alberta landscape and supports strategic evaluation. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship is a governance discipline.
+It introduces institutional allocators to the Alberta landscape and supports strategic evaluation. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is a governance discipline.
 
 For capital allocators, stewardship is the process of deploying resources in a manner that increases productive capacity while minimizing waste.
 
@@ -168,7 +168,7 @@ Productive capital compounds when stewarded correctly.
 
 Global allocators recognize this pattern intuitively.
 
-Institutional grade infrastructure exists to give them a channel for responsible deployment. ## ## PHASE 5: THE ## ## DECISION MAKING LENS The allocator evaluating Fund-III, Asset-Based Lending structures, or special mandates can apply four filters. 
+Institutional grade infrastructure exists to give them a channel for responsible deployment. ## ## THE ## ## DECISION MAKING LENS The allocator evaluating Fund-III, Asset-Based Lending structures, or special mandates can apply four filters. 
 
 1. Structural relevance.
 

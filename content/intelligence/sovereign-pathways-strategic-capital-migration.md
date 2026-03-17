@@ -72,7 +72,9 @@ The lens is ROIALS CAPITAL.
 
 The tone is principal.
 
-The mandate is precision.
+## THE MANDATE
+
+ is precision.
 
 Capital moves first.
 
@@ -566,7 +568,11 @@ This is the elite tier of capital.
 
 This is the architecture of longevity.
 
-This is the mandate. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+This is 
+
+## THE MANDATE
+
+. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 

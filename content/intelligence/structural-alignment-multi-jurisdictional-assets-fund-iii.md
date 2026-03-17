@@ -14,7 +14,7 @@ Cross-jurisdictional asset platforms that combine Alberta heavy-oil physics with
 
 Global allocators that operate across Sweden, Luxembourg, Switzerland, Canada, and the United States now face a structural imperative: alignment is no longer a legal exercise, but a liquidity engineering framework that integrates regulatory harmonization, asset hardening mechanics, and capital stack precision.
 
-This institutional briefing establishes the architecture required for allocators to evaluate Fund-III stage buyouts, add ons, energy mandates, and structured liquidity facilities with Roials Capital as the strategic navigator. ## ## ## 
+This institutional briefing establishes the architecture required for allocators to evaluate Fund-III stage buyouts, add ons, energy mandates, and structured liquidity facilities with Roials Capital as the strategic navigator. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -42,7 +42,7 @@ The result is a capital market environment where long lived, technically underst
 
 This divergence between reality and perception is the central foundation for multi jurisdictional structural alignment.
 
-It allows a European governed capital stack to be deployed into a North American physical asset base through a U.S. institutional bridge, delivering a cross border model with superior regulatory, operational, and collateral clarity. ## ## ## 
+It allows a European governed capital stack to be deployed into a North American physical asset base through a U.S. institutional bridge, delivering a cross border model with superior regulatory, operational, and collateral clarity. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -118,7 +118,7 @@ Roials Capital structures its work through three channels.
 
 NAEO functions as the institutional grade operator within the Alberta energy domain.
 
-Roials Capital introduces the allocator to NAEO when the strategic profile, risk tolerance, and jurisdictional structure are aligned. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful capital deployment.
+Roials Capital introduces the allocator to NAEO when the strategic profile, risk tolerance, and jurisdictional structure are aligned. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful capital deployment.
 
 It is not a moral gesture.
 
@@ -140,7 +140,7 @@ Stewardship is the lens that allows multi jurisdictional structures to remain co
 
 Without this filter, the system collapses into regulatory friction, valuation drift, and operational inefficiency.
 
-When applied rigorously, stewardship enables long horizon capital to operate in high density asset environments without degradation of structural integrity. ## ## PHASE 5: ## ## DECISION MAKING LENS FOR ALLOCATORS Allocators evaluating Fund-III stage buyouts, add ons, ABL structures, or Alberta energy mandates require a calibrated framework that integrates the five critical dimensions of cross jurisdictional architecture. 
+When applied rigorously, stewardship enables long horizon capital to operate in high density asset environments without degradation of structural integrity. ## ## ## ## DECISION MAKING LENS FOR ALLOCATORS Allocators evaluating Fund-III stage buyouts, add ons, ABL structures, or Alberta energy mandates require a calibrated framework that integrates the five critical dimensions of cross jurisdictional architecture. 
 
 1. Jurisdictional coherence.
 

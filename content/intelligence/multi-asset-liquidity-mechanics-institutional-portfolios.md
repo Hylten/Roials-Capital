@@ -88,7 +88,9 @@ NAEOC adds volumetric and asset‑class restrictions.
 
 The GP’s mandate is not to fight the map.
 
-The mandate is to exploit it.
+## THE MANDATE
+
+ is to exploit it.
 
 Jurisdictional arbitrage is not merely tax optimization.
 

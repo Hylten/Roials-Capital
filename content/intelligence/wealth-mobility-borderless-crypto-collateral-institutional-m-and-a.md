@@ -14,7 +14,7 @@ The constraint is structural rather than monetary.
 
 Sovereign regulatory drift, the internal fragmentation of banking systems, and capital friction in legacy correspondent networks have created a new operating landscape.
 
-Allocators aligned with the 2026 regime shift are repositioning their strategies around mobility, verification, and the ability to unlock collateral outside traditional custody silos. ## ## ## 
+Allocators aligned with the 2026 regime shift are repositioning their strategies around mobility, verification, and the ability to unlock collateral outside traditional custody silos. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -54,15 +54,15 @@ This structural gap is where Wealth Mobility architecture has entered the instit
 
 The objective is not speculative trading.
 
-It is the engineering of a cross-border balance sheet that can deploy into Fund-III portfolios with precision and regulatory coherence. ## ## ## 
+It is the engineering of a cross-border balance sheet that can deploy into Fund-III portfolios with precision and regulatory coherence. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
- OF BORDERLESS CRYPTO COLLATERAL IN M&A Borderless crypto collateral for institutional-grade M&A is defined by four 
+ OF BORDERLESS CRYPTO COLLATERAL IN M&A Borderless crypto collateral for institutional-grade M&A is defined by four ## 
 
 ## TECHNICAL MECHANICS
 
-.
+ .
 
 It is essential to maintain clarity.
 
@@ -144,7 +144,7 @@ The purpose is to create structural alignment between allocators, lenders, and a
 
 The partnership model is defined by three functions. 
 
-1. Institutional 
+1. Institutional ## 
 
 ## INTRODUCTION
 
@@ -190,7 +190,7 @@ This includes:
 
 This includes decline curve modeling, thermal recovery physics, and Alberta basin analysis.
 
-This briefing is focused on M&A and liquidity engineering, but the partnership model maintains continuity across sectors. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource deployment.
+This briefing is focused on M&A and liquidity engineering, but the partnership model maintains continuity across sectors. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource deployment.
 
 The allocator must view capital not as a commodity but as a responsibility.
 
@@ -216,7 +216,7 @@ Speed is an advantage only when compliance is synchronized.
 
 Stewardship requires aligning legal, regulatory, and custodial frameworks before deploying capital into M&A structures.
 
-The stewardship filter ensures that Wealth Mobility architecture remains ethical, durable, and institutional in its execution. ## ## PHASE 5: ## ## DECISION MAKING LENS FOR THE ALLOCATOR The allocator evaluating the use of borderless crypto collateral for Fund-III or private credit deployment requires a structured decision making lens.
+The stewardship filter ensures that Wealth Mobility architecture remains ethical, durable, and institutional in its execution. ## ## ## ## DECISION MAKING LENS FOR THE ALLOCATOR The allocator evaluating the use of borderless crypto collateral for Fund-III or private credit deployment requires a structured decision making lens.
 
 Five questions determine alignment. 
 

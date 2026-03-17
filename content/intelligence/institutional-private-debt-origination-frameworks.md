@@ -20,13 +20,13 @@ The market has accepted this drift as normal.
 
 I do not.
 
-This briefing clarifies 
+This briefing clarifies ## 
 
 ## THE REGIME SHIFT
 
-, the mechanics that follow, and the institutional consequences for Fund-III and beyond. ## PHASE 
+ , the mechanics that follow, and the institutional consequences for Fund-III and beyond. ## PHASE 
 
-1. ## ## ## 
+1. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -82,7 +82,7 @@ The structural landscape confirms this.
 
 The next vintage belongs to the funds that replace intuition with architecture. ## PHASE 
 
-2. ## ## ## 
+2. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -168,7 +168,7 @@ Default probability compresses.
 
 Capital survives. ## PHASE 
 
-3. ## ## ## THE 
+3. ## ## ## THE ## 
 
 ## STRATEGIC MODEL
 

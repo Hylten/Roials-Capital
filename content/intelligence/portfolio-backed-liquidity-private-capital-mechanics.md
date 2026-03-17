@@ -10,7 +10,7 @@ The structural gap in North American private markets is a capital formation issu
 
 Private issuers with strong asset bases operate inside a liquidity vacuum that is unrelated to asset quality or revenue resilience.
 
-This vacuum defines the modern regime for allocators who seek exposure to real operating cash flows without adopting unbounded venture style variance. ## ## ## 
+This vacuum defines the modern regime for allocators who seek exposure to real operating cash flows without adopting unbounded venture style variance. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -46,7 +46,7 @@ The result is a durable multi billion capital shortage across assets that carry 
 
 This is the modern regime.
 
-Private credit and portfolio backed liquidity have become the functional replacement for the banks that once priced these markets with consistency. ## ## ## 
+Private credit and portfolio backed liquidity have become the functional replacement for the banks that once priced these markets with consistency. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -112,7 +112,7 @@ It is the orchestration of institutional alignment between capital allocators an
 
 The partnership model is built on: 
 
--  Institutional 
+-  Institutional ## 
 
 ## INTRODUCTION
 
@@ -146,7 +146,7 @@ Institutional allocators do not engage a single asset.
 
 They engage the structural model that governs asset behavior.
 
-The Roials Capital model ensures that the operator's governance structure and technical discipline are congruent with the allocator's fiduciary requirements. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship is not an ethical overlay.
+The Roials Capital model ensures that the operator's governance structure and technical discipline are congruent with the allocator's fiduciary requirements. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is not an ethical overlay.
 
 It is a discipline of capital preservation rooted in non wasteful resource management.
 
@@ -178,7 +178,7 @@ Stewardship is the differentiator that separates responsible operators from oppo
 
 Asset hardening requires that operational behavior is aligned with geological reality.
 
-Modern private credit discipline treats stewardship as a compliance function rather than an abstract value set. ## ## PHASE 5: THE MODERN MECHANICS OF PORTFOLIO BACKED LIQUIDITY Portfolio backed liquidity is the functional replacement for bank lending.
+Modern private credit discipline treats stewardship as a compliance function rather than an abstract value set. ## ## THE MODERN MECHANICS OF PORTFOLIO BACKED LIQUIDITY Portfolio backed liquidity is the functional replacement for bank lending.
 
 Its mechanics rely on: 
 
@@ -220,7 +220,7 @@ Portfolio backed models synchronize liquidity release with the natural productio
 
 This creates equilibrium between operator and allocator.
 
-When calibrated correctly, the system produces a liquidity profile that is more stable than corporate debt and more transparent than traditional private equity distributions. ## ## PHASE 6: THE ## ## DECISION MAKING LENS FOR INSTITUTIONAL ALLOCATORS The allocator must anchor decisions in three categories: 
+When calibrated correctly, the system produces a liquidity profile that is more stable than corporate debt and more transparent than traditional private equity distributions. ## ## THE ## ## DECISION MAKING LENS FOR INSTITUTIONAL ALLOCATORS The allocator must anchor decisions in three categories: 
 
 1. Structural position of the asset class.
 

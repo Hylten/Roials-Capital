@@ -14,7 +14,7 @@ Modern private capital allocators face a structural gap.
 
 Liquidity has become a competitive differentiator rather than an assumed utility.
 
-The shift has created an environment where portfolio backed liquidity functions as a balance sheet technology rather than a transactional accessory. ## ## ## 
+The shift has created an environment where portfolio backed liquidity functions as a balance sheet technology rather than a transactional accessory. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -58,7 +58,7 @@ The outcome is a regime shift.
 
 Liquidity functions as an institutional asset rather than a cost center.
 
-Portfolio backed liquidity is the mechanism through which private equity platforms neutralize execution bottlenecks, stabilize cash flow timing, and increase opportunity velocity within a constrained funding environment. ## ## ## 
+Portfolio backed liquidity is the mechanism through which private equity platforms neutralize execution bottlenecks, stabilize cash flow timing, and increase opportunity velocity within a constrained funding environment. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -168,7 +168,7 @@ It delivers operational intelligence on Alberta heavy oil physics, SAGD cycle dy
 
 NAEO is positioned for institutional allocators who require non speculative, technically mature energy exposure.
 
-Roials Capital functions strictly as the introducer and strategic coordinator. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship operates as a capital discipline.
+Roials Capital functions strictly as the introducer and strategic coordinator. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship operates as a capital discipline.
 
 It is the principle that capital must not be wasted, misallocated, or depreciated through operational negligence. **Proverbs 13:22** establishes the generational responsibility of resource management.
 
@@ -196,7 +196,7 @@ Liquidity is not a shortcut.
 
 It is a structural enhancement to ensure that long dated assets, such as heavy oil production or industrial platforms, are not prematurely impaired due to short term funding gaps.
 
-Capital must serve the operational timeline of the asset rather than force liquidation. ## ## PHASE 5: ## ## DECISION MAKING LENS Institutional allocators assessing portfolio backed liquidity must evaluate three critical axes.
+Capital must serve the operational timeline of the asset rather than force liquidation. ## ## ## ## DECISION MAKING LENS Institutional allocators assessing portfolio backed liquidity must evaluate three critical axes.
 
 The first axis is structural resilience.
 

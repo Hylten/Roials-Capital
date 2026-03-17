@@ -14,7 +14,7 @@ Institutions with disciplined capital architecture outperform not because they l
 
 Order is not an option. ## PHASE 
 
-1. ## ## ## 
+1. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -58,9 +58,13 @@ ROIALS CAPITAL operates inside this regime shift.
 
 Velocity is the advantage.
 
-Precision is the mandate. ## PHASE 
+Precision is 
 
-2. ## ## ## 
+## THE MANDATE
+
+. ## PHASE 
+
+2. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -124,11 +128,11 @@ The lender extracts duration without sacrificing velocity.
 
 Without institutional backing, these structures do not price. ## PHASE 
 
-3. ## ## ## THE 
+3. ## ## ## THE ## 
 
 ## STRATEGIC MODEL
 
- The 
+ The ## 
 
 ## STRATEGIC MODEL
 

@@ -452,7 +452,9 @@ The objective is precision.
 
 And the outcome is transnational acquisition power reinforced by borderless collateral.
 
-The mandate is clear.
+## THE MANDATE
+
+ is clear.
 
 The path is defined.
 

@@ -254,7 +254,11 @@ Asset-backed lending is no longer a rescue product.
 
 It is a liquidity strategy.
 
-Asset-Based Lending is 10 percent of the mandate, but its impact is outsized.
+Asset-Based Lending is 10 percent of 
+
+## THE MANDATE
+
+, but its impact is outsized.
 
 Monetize underutilized assets.
 

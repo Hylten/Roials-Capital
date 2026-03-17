@@ -12,7 +12,7 @@ It is the direct outcome of regulatory drift that has removed traditional lender
 
 As liquidity exits the $25M to $350M corporate tranche, the provisioning gap expands into a structural arbitrage zone.
 
-Allocators with disciplined underwriting frameworks now observe a market where pricing power has shifted decisively to non-bank institutions, yet underwriting standards remain anchored in conservative cash flow analysis. ## ## ## 
+Allocators with disciplined underwriting frameworks now observe a market where pricing power has shifted decisively to non-bank institutions, yet underwriting standards remain anchored in conservative cash flow analysis. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -38,7 +38,7 @@ Borrowers seeking rational terms encounter dislocated pricing landscapes where n
 
 Canada’s domestic banking oligopoly amplifies the scarcity premium in non-bank private credit, while the United States shows fragmentation that benefits agile allocators with cross-jurisdictional execution capability.
 
-This regime shift has created a stable, multi-year opportunity zone for capital providers capable of navigating covenant architecture, protecting seniority through structural design, and interfacing with sponsors who understand the long-term nature of disciplined capital partnerships. ## ## ## 
+This regime shift has created a stable, multi-year opportunity zone for capital providers capable of navigating covenant architecture, protecting seniority through structural design, and interfacing with sponsors who understand the long-term nature of disciplined capital partnerships. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -112,7 +112,7 @@ Roials Capital guides allocators through structure optimization, ensuring LTV ra
 
 Strategic Partner Integration NAEO is identified as the exclusive energy partner for mandates involving North American conventional oil assets.
 
-In other sectors, partnerships are aligned based on operational maturity, cross-border capability, and adherence to institutional risk disciplines. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship governs the deployment of capital as a resource under responsibility.
+In other sectors, partnerships are aligned based on operational maturity, cross-border capability, and adherence to institutional risk disciplines. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship governs the deployment of capital as a resource under responsibility.
 
 It aligns with the discipline articulated in **Proverbs 13:22** , where intergenerational impact is linked to prudent management.
 
@@ -126,7 +126,7 @@ In private credit, stewardship is expressed through:
 
 -  alignment with borrowers committed to operational excellence rather than financial engineering Stewardship is not a moral overlay.
 
-It is a rigorous framework ensuring capital flows into productive structures that respect risk, reward, and long-term viability. ## ## PHASE 5: ## ## DECISION MAKING LENS FOR ALLOCATORS The allocator’s task is not to pursue yield.
+It is a rigorous framework ensuring capital flows into productive structures that respect risk, reward, and long-term viability. ## ## ## ## DECISION MAKING LENS FOR ALLOCATORS The allocator’s task is not to pursue yield.
 
 It is to calibrate exposure, evaluate structural integrity, and ensure capital sits in environments where downside protection is measurable and operational visibility is high.
 

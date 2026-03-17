@@ -38,7 +38,7 @@ What worked in 2014 is a liability in
 
 2026. ## PHASE 
 
-1. ## ## ## 
+1. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -110,7 +110,7 @@ The sequence creates the runway.
 
 Without the sequence, the strategy collapses. ## PHASE 
 
-2. ## ## ## 
+2. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -174,7 +174,7 @@ A recovery factor below 30 percent behaves as a liability.
 
 Durable capital is always anchored to recoverability. ## PHASE 
 
-3. ## ## ## THE 
+3. ## ## ## THE ## 
 
 ## STRATEGIC MODEL
 
@@ -184,7 +184,7 @@ Capital-raising is not a communication problem.
 
 It is a structural engineering problem.
 
-The 
+The ## 
 
 ## STRATEGIC MODEL
 

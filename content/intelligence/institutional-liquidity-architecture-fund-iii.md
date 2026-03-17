@@ -22,7 +22,9 @@ The displacement of traditional lenders and the fragmentation of cross‑border 
 
 That is the environment in which Fund‑III scale strategies now operate.
 
-The mandate is clear.
+## THE MANDATE
+
+ is clear.
 
 Engineer liquidity at the asset level.
 
@@ -406,7 +408,9 @@ Harden the machine.
 
 Align the machine to acquisition velocity and capital distribution targets.
 
-The mandate is institutional.
+## THE MANDATE
+
+ is institutional.
 
 The audience is sophisticated.
 

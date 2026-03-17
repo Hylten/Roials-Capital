@@ -12,7 +12,7 @@ The capital vacuum in North American energy and mid market private credit is the
 
 It is structural.
 
-The allocators who adapt their strategic allocation models to these conditions achieve durability not through velocity, but through disciplined architecture of capital, cash flow, and liquidity. ## ## ## 
+The allocators who adapt their strategic allocation models to these conditions achieve durability not through velocity, but through disciplined architecture of capital, cash flow, and liquidity. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -56,7 +56,7 @@ The allocator is durability oriented.
 
 Capital is being deployed into structures that reward long horizon patience and penalize valuation speculation.
 
-Fund-III strategies, North American energy operating companies, and private credit structures aligned with asset hardening now occupy the center of this allocation map. ## ## ## 
+Fund-III strategies, North American energy operating companies, and private credit structures aligned with asset hardening now occupy the center of this allocation map. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -160,7 +160,7 @@ For private equity, Roials Capital supports capital formation for Fund-III strat
 
 The primary focus is on capital efficiency and durability rather than leverage oriented growth.
 
-For special mandates, including MiFID II acquisition pathways, the firm operates with strict structural neutrality, focusing on compliance aligned capital navigation. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Durable capital requires stewardship.
+For special mandates, including MiFID II acquisition pathways, the firm operates with strict structural neutrality, focusing on compliance aligned capital navigation. ## ## ## ## ## THE STEWARDSHIP FILTER Durable capital requires stewardship.
 
 This is not a moral abstraction.
 
@@ -178,7 +178,7 @@ Stewardship includes:
 
 -  Reinforcement of intergenerational asset integrity The stewardship lens aligns with the Biblical principle in **Proverbs 13:22** regarding multi generational resource preparation.
 
-Institutional allocators have rediscovered this framework not for theological reasons, but because the mathematics of durability consistently outperform short horizon speculative models. ## ## PHASE 5: ## ## DECISION MAKING LENS FOR THE ALLOCATOR Long term liquidity is engineered, not inherited from market conditions.
+Institutional allocators have rediscovered this framework not for theological reasons, but because the mathematics of durability consistently outperform short horizon speculative models. ## ## ## ## DECISION MAKING LENS FOR THE ALLOCATOR Long term liquidity is engineered, not inherited from market conditions.
 
 Allocators evaluating the 2026 to 2032 cycle are focusing on three primary filters: 
 

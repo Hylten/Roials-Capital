@@ -22,7 +22,7 @@ The shallow investor seeks yield.
 
 The sovereign builder seeks permanence.
 
-Permanence is engineered. [ ## ## ## 
+Permanence is engineered. [ ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -74,7 +74,7 @@ This is the new regime.
 
 Asset-Backed Frameworks is no longer an auxiliary discipline.
 
-It is the determinant of institutional survival. [ ## ## ## 
+It is the determinant of institutional survival. [ ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -156,7 +156,7 @@ Higher utilisation is desperation disguised as growth.
 
 Lower utilisation is idle capital.
 
-Neither is stewardship. [ ## ## ## THE 
+Neither is stewardship. [ ## ## ## THE ## 
 
 ## STRATEGIC MODEL
 
@@ -170,7 +170,7 @@ Short sentence.
 
 Cycles do not negotiate.
 
-The 
+The ## 
 
 ## STRATEGIC MODEL
 
@@ -228,7 +228,7 @@ LPs do not invest in performance.
 
 LPs invest in inevitability.
 
-A fund becomes inevitable when its capital architecture is stronger than the market it operates in. [ ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER ] We do not build capital for a quarter.
+A fund becomes inevitable when its capital architecture is stronger than the market it operates in. [ ## ## ## ## ## THE STEWARDSHIP FILTER ] We do not build capital for a quarter.
 
 We build capital for generations.
 
@@ -306,7 +306,7 @@ Matthew 25 instructs that talent must multiply.
 
 Multiplication without waste is the divine pattern.
 
-The sovereign capital architecture is simply the institutional expression of that pattern. [ ## ## PHASE 5: EXIT] The final metric is endurance.
+The sovereign capital architecture is simply the institutional expression of that pattern. [ ## ## EXIT] The final metric is endurance.
 
 The sovereign fund must demonstrate a 28 to 34 percent lifetime liquidity conversion ratio across cycles. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
 

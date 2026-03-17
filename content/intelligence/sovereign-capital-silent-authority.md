@@ -68,7 +68,9 @@ It acquires foundational assets.
 
 It seeks the hard edges of real economy sectors-industrials, energy infrastructure, asset-heavy operating platforms, and regulated environments where complexity reduces competition.
 
-The mandate is stability through scale. 
+## THE MANDATE
+
+ is stability through scale. 
 
 1. Risk neutralization through jurisdictional diversification 
 
@@ -464,7 +466,11 @@ The capital becomes a nation-scale instrument.
 
 This is the architecture.
 
-This is the mandate.
+This is 
+
+## THE MANDATE
+
+.
 
 This is the new era of financing.
 

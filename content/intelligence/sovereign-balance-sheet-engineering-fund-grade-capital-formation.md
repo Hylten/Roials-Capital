@@ -18,15 +18,15 @@ GPs operating with legacy balance sheet designs are absorbing friction, slippage
 
 This briefing outlines the institutional playbook behind sovereign balance sheet engineering, and how global allocators are positioning themselves for Fund-III and Fund IV capital formation cycles.
 
-The analysis covers 
+The analysis covers ## 
 
 ## THE REGIME SHIFT
 
-, the technical machinery of buyout balance sheet construction, liquidity engineering, and the Alberta energy acquisition corridor where NAEO operates as a specialized partner for $50M to $250M mandates.
+ , the technical machinery of buyout balance sheet construction, liquidity engineering, and the Alberta energy acquisition corridor where NAEO operates as a specialized partner for $50M to $250M mandates.
 
 The objective is not promotion but clarity.
 
-When allocators understand the architecture, the strategic alignment dialogue becomes data driven rather than relational. ## ## ## 
+When allocators understand the architecture, the strategic alignment dialogue becomes data driven rather than relational. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -58,7 +58,7 @@ These forces create a regulatory-driven scarcity of functional liquidity.
 
 The allocators that outperform in this regime are building balance sheets designed for sovereign-like durability.
 
-They engineer stability at the top of the stack so that acquisition velocity at the bottom of the stack can accelerate without increasing fragility. ## ## ## 
+They engineer stability at the top of the stack so that acquisition velocity at the bottom of the stack can accelerate without increasing fragility. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -82,7 +82,7 @@ SOVEREIGN ARCHETYPE ATTRIBUTE 3: CROSS CYCLE LIQUIDITY Cross cycle liquidity is 
 
 The objective is to increase Opportunity Velocity, not leverage.
 
-Liquidity Engineering uses: * ABL structures with predictable advance rates * cash flow securitization * short duration borrowing facilities * intercreditor alignment * recycling mechanisms These mechanics allow allocators to deploy capital into acquisition windows that are closing faster than bank underwriting cycles can accommodate. ## ## ## 
+Liquidity Engineering uses: * ABL structures with predictable advance rates * cash flow securitization * short duration borrowing facilities * intercreditor alignment * recycling mechanisms These mechanics allow allocators to deploy capital into acquisition windows that are closing faster than bank underwriting cycles can accommodate. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -106,7 +106,11 @@ They view it as insurance against liquidity lag.
 
 When engineered correctly, ABL functions like a sovereign liquidity buffer. 
 
-3. 10 percent Mandate Execution (NAEO, MiFID II, Special Acquisitions) The mandate layer is where institutional introductions matter.
+3. 10 percent Mandate Execution (NAEO, MiFID II, Special Acquisitions) 
+
+## THE MANDATE
+
+ layer is where institutional introductions matter.
 
 Allocators require specialized partners with precision and domain competence.
 
@@ -144,7 +148,7 @@ In buyouts and ABL programs, Roials maintains neutrality and focuses exclusively
 
 The partnership model is designed to protect allocators from structural drift, operational noise, and compliance friction.
 
-The objective is clarity, not persuasion. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship is not a moral slogan.
+The objective is clarity, not persuasion. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is not a moral slogan.
 
 It is the discipline of non wasteful resource management.
 
@@ -168,7 +172,7 @@ Capital that sits idle or capital that is deployed into structurally inefficient
 
 Balance sheets must convert capital into productive velocity, not speculative bets.
 
-The stewardship filter ensures that the allocator remains aligned with principles that produce structural endurance across multiple cycles. ## ## PHASE 5: ## ## DECISION MAKING LENS FOR ALLOCATORS Allocators evaluating mandates, partners, or Fund-III capital formation opportunities are increasingly adopting a structural decision making lens.
+The stewardship filter ensures that the allocator remains aligned with principles that produce structural endurance across multiple cycles. ## ## ## ## DECISION MAKING LENS FOR ALLOCATORS Allocators evaluating mandates, partners, or Fund-III capital formation opportunities are increasingly adopting a structural decision making lens.
 
 The key evaluation questions are: * Does the balance sheet behave predictably under stress * Does the operational partner convert uncertainty into engineered clarity * Does the capital stack harden the portfolio rather than soften it * Is the liquidity architecture resilient across regulatory regimes * Can the platform operate with sovereign style optionality * Is the stewardship filter embedded in each structural element When allocators review these criteria, the next logical step is often a confidential strategy audit or a portfolio calibration dialogue.
 

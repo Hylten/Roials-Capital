@@ -10,7 +10,7 @@ The capital vacuum in North American and European private credit is not a functi
 
 It is the byproduct of regulatory realignment that has constrained traditional lenders while simultaneously expanding the demand for structured institutional debt.
 
-The result is a technical environment where risk is not elevated, but mispriced, and where allocators with the ability to operate across balance sheet structures are repositioning their mandates with greater precision and shorter feedback cycles. ## ## ## 
+The result is a technical environment where risk is not elevated, but mispriced, and where allocators with the ability to operate across balance sheet structures are repositioning their mandates with greater precision and shorter feedback cycles. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -48,7 +48,7 @@ This has not reduced resource quality.
 
 It has created a spread arbitrage for credit allocators who understand basin physics, decline curve predictability, and enhanced recovery economics.
 
-The stable cash flow profile of heavy oil assets in Alberta has reemerged as a risk minimizing anchor, contrary to the ESG narrative of the prior cycle.
+The stable cash flow profile of heavy oil assets in Alberta has reemerged as a risk minimizing anchor, contrary to the ESG narrative of the prior cycle. ## 
 
 ## THE REGIME SHIFT
 
@@ -58,7 +58,7 @@ Risk has migrated away from credit fundamentals and toward allocator misundersta
 
 Those who navigate private credit successfully in the current cycle do so by mapping the incentive geometry across operators, sponsors, and balance sheet participants.
 
-This is the analytical terrain where Roials Capital operates as a strategic introducer. ## ## ## 
+This is the analytical terrain where Roials Capital operates as a strategic introducer. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -168,7 +168,7 @@ This includes the energy acquisition mandates ranging from fifty million USD to 
 
 Across each mandate, Roials Capital operates on a neutrality axis.
 
-This neutrality allows institutional decision makers to receive technical intelligence that is not influenced by allocation bias or issuer incentives. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Institutional stewardship is the discipline of allocating capital without waste.
+This neutrality allows institutional decision makers to receive technical intelligence that is not influenced by allocation bias or issuer incentives. ## ## ## ## ## THE STEWARDSHIP FILTER Institutional stewardship is the discipline of allocating capital without waste.
 
 It is not merely a financial principle.
 
@@ -192,7 +192,7 @@ Capital should be allocated into structures that protect downside risk while all
 
 The allocator should have clear visibility into operational metrics, balance sheet integrity, and the governance of counterparties.
 
-Private credit satisfies these filters more consistently than most asset classes due to its contractual nature, structural seniority, and collateral alignment. ## ## PHASE 5: ## ## DECISION MAKING LENS FOR THE ALLOCATOR Institutional capital allocators evaluating the private credit landscape must adopt a structured decision making lens that clarifies risk, determines alignment, and accelerates opportunity velocity.
+Private credit satisfies these filters more consistently than most asset classes due to its contractual nature, structural seniority, and collateral alignment. ## ## ## ## DECISION MAKING LENS FOR THE ALLOCATOR Institutional capital allocators evaluating the private credit landscape must adopt a structured decision making lens that clarifies risk, determines alignment, and accelerates opportunity velocity.
 
 This lens includes: 
 

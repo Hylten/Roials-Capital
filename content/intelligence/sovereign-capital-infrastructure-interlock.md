@@ -20,7 +20,7 @@ We see it clearly because we operate where timing penalties destroy entire manda
 
 Order is not an option. ## PHASE 
 
-1. ## ## ## 
+1. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -100,11 +100,11 @@ They now create in-house credit capacity.
 
 That shift alone will rewrite private credit flows for the next decade.
 
-This regime shift creates one dominant 
+This regime shift creates one dominant ## 
 
 ## CONCLUSION
 
-.
+ .
 
 Sovereign capital will no longer wait for fund managers to be ready.
 
@@ -118,7 +118,7 @@ Delay is waste.
 
 Waste is disqualifying. ## PHASE 
 
-2. ## ## ## 
+2. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -214,7 +214,11 @@ A NAEOC 50M to 250M energy extraction mandate is treated as a high-intensity dep
 
 You design the mechanics as if the allocator will never tolerate drift.
 
-Breach the operational tempo and the mandate collapses.
+Breach the operational tempo and 
+
+## THE MANDATE
+
+ collapses.
 
 EU MiFID II acquisition mandates operate on precision compliance.
 
@@ -236,7 +240,7 @@ Nothing opaque.
 
 Nothing improvisational. ## PHASE 
 
-3. ## ## ## THE 
+3. ## ## ## THE ## 
 
 ## STRATEGIC MODEL
 
@@ -336,7 +340,7 @@ There is no fog.
 
 Fog is where trust dies.
 
-This 
+This ## 
 
 ## STRATEGIC MODEL
 

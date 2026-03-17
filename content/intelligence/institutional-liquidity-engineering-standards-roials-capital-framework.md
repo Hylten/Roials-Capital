@@ -10,7 +10,7 @@ The capital vacuum in North American private markets is the predictable outcome 
 
 This vacuum is not a signal of deteriorating asset quality.
 
-It reflects a misalignment between liquidity supply and operational demand across the Fund-III archetype, where acquisition velocity, platform integration, and balance sheet normalization require a form of liquidity that traditional credit channels cannot deliver with precision. ## ## ## 
+It reflects a misalignment between liquidity supply and operational demand across the Fund-III archetype, where acquisition velocity, platform integration, and balance sheet normalization require a form of liquidity that traditional credit channels cannot deliver with precision. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -48,7 +48,7 @@ This structural dislocation is the entry point for strategic partners such as NA
 
 The allocator is navigating a global market where opportunity velocity is high, yet liquidity precision is low.
 
-This is the environment in which Asset-Backed Frameworks transforms from a tactical tool to a strategic necessity. ## ## ## 
+This is the environment in which Asset-Backed Frameworks transforms from a tactical tool to a strategic necessity. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -120,11 +120,11 @@ THE PARTNERSHIP MODEL The Roials Capital model is structurally different from tr
 
 The firm does not act as a lender or asset owner.
 
-The role is institutional 
+The role is institutional ## 
 
 ## INTRODUCTION
 
-, strategic alignment, and transaction navigation. 
+ , strategic alignment, and transaction navigation. 
 
 1. Capital Acquisition for Fund-III This is the dominant mandate.
 
@@ -154,7 +154,7 @@ Engagement centers on:
 
 -  Production stability analysis 
 
--  Capital sequencing In European MiFID II environments, Roials Capital provides cross border calibration, acquisition structuring, and liquidity integration for Nordic and EU corporate expansions. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship is the discipline that governs capital allocation within the Roials Capital framework.
+-  Capital sequencing In European MiFID II environments, Roials Capital provides cross border calibration, acquisition structuring, and liquidity integration for Nordic and EU corporate expansions. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is the discipline that governs capital allocation within the Roials Capital framework.
 
 It is not a virtue signal.
 
@@ -174,7 +174,7 @@ For corporate mandates, this includes sustainable working capital structures and
 
 4. Institutional alignment Roials Capital engages only in mandates where capital, operator, and structure are synchronized.
 
-Misaligned incentives are filtered out at inception. ## ## PHASE 5: ## ## DECISION MAKING LENS FOR ALLOCATORS Institutional allocators evaluating private market liquidity approaches face three central questions behind the scenes of every mandate: 
+Misaligned incentives are filtered out at inception. ## ## ## ## DECISION MAKING LENS FOR ALLOCATORS Institutional allocators evaluating private market liquidity approaches face three central questions behind the scenes of every mandate: 
 
 -  Is the liquidity structure synchronized with operational cadence? 
 

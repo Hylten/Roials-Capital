@@ -68,7 +68,11 @@ It is the unseen moat surrounding Fund-III strategies and their add-on programs.
 
 Capital raising first.
 
-Eighty percent of the mandate.
+Eighty percent of 
+
+## THE MANDATE
+
+.
 
 Kapitalanskaffning as a discipline, not an activity.
 

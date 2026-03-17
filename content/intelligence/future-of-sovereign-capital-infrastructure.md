@@ -12,7 +12,7 @@ This structural gap defines one of the clearest institutional dislocations of th
 
 The macro environment that institutional allocators must now navigate is characterized by capital scarcity in real-asset production systems, rising global sovereign allocation demands, and the transition from high liquidity regimes to disciplined balance sheet optimization.
 
-The result is a multi decade capital architecture reset where the allocator with superior operational intelligence can achieve strategic positioning rather than pursuit of isolated deals. ## ## ## 
+The result is a multi decade capital architecture reset where the allocator with superior operational intelligence can achieve strategic positioning rather than pursuit of isolated deals. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -50,7 +50,7 @@ The mispricing persists because capital discipline has outpaced regulatory moder
 
 The macro regime shift is therefore marked by dislocation: capital seeking productive assets and productive assets seeking disciplined capital.
 
-Sovereign capital infrastructure is emerging at the intersection. ## ## ## 
+Sovereign capital infrastructure is emerging at the intersection. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -64,7 +64,7 @@ Sovereign allocators increasingly prioritize assets where engineering reliabilit
 
 Alberta’s heavy oil reservoirs provide this stability due to established decline behavior and known recovery factors.
 
-Key 
+Key ## 
 
 ## TECHNICAL MECHANICS
 
@@ -160,7 +160,7 @@ The approach is analytical rather than promotional.
 
 In Asset-Based Lending mandates, Roials Capital aligns Asset-Backed Frameworks with balance sheet stabilization and asset hardening principles.
 
-The objective is not transaction volume but long horizon operational continuity. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER The future of sovereign capital infrastructure requires conceptual clarity around stewardship.
+The objective is not transaction volume but long horizon operational continuity. ## ## ## ## ## THE STEWARDSHIP FILTER The future of sovereign capital infrastructure requires conceptual clarity around stewardship.
 
 Stewardship is not thematic.
 
@@ -182,7 +182,7 @@ Asset-Based Lending, disciplined leverage, and operational liquidity contribute 
 
 3. Sovereign stewardship Sovereign allocators require capital pathways that reinforce state level productivity and long term supply chain security.
 
-Sovereign capital infrastructure is therefore inherently intergenerational. ## ## PHASE 5: ## ## DECISION MAKING LENS FOR THE ALLOCATOR The allocator evaluating the future of sovereign capital infrastructure must navigate a technical environment governed by production physics, regulatory asymmetry, and multi jurisdictional compliance demands.
+Sovereign capital infrastructure is therefore inherently intergenerational. ## ## ## ## DECISION MAKING LENS FOR THE ALLOCATOR The allocator evaluating the future of sovereign capital infrastructure must navigate a technical environment governed by production physics, regulatory asymmetry, and multi jurisdictional compliance demands.
 
 This environment rewards operational intelligence over thematic conviction.
 

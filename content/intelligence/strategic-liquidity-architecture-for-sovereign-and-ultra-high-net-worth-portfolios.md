@@ -58,7 +58,7 @@ We operate for HNWI and UHNW individuals because they understand that liquidity 
 
 We maintain silent authority because real capital does not require noise.
 
-It requires architecture. ## 
+It requires architecture. ## ## 
 
 ## CONCLUSION
 

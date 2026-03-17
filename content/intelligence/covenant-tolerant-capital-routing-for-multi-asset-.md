@@ -16,7 +16,7 @@ It is a structural precondition for longevity.
 
 It allows capital to move through multi asset frameworks without triggering unwanted constraints, valuation freezes, or forced liquidity events.
 
-This paper defines the 
+This paper defines the ## 
 
 ## TECHNICAL MECHANICS
 
@@ -248,7 +248,7 @@ It is a structural endpoint.
 
 The infrastructure exists today.
 
-The scaling is ongoing. # 
+The scaling is ongoing. # ## 
 
 ## CONCLUSION
 

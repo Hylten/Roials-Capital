@@ -48,7 +48,7 @@ It is not advisory.
 
 It is operational doctrine. ## PHASE 
 
-1. ## ## ## 
+1. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -92,7 +92,7 @@ Few understand this.
 
 Even fewer execute it. ## PHASE 
 
-2. ## ## ## 
+2. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -138,7 +138,7 @@ When these mechanics align, capital becomes self-defending.
 
 The structure protects itself even when the macro environment does not. ## PHASE 
 
-3. ## ## ## THE 
+3. ## ## ## THE ## 
 
 ## STRATEGIC MODEL
 
@@ -146,7 +146,9 @@ The structure protects itself even when the macro environment does not. ## PHASE
 
 Preservation is institutional, not incidental.
 
-The mandate is 80 percent capital raising for Fund-III across buyouts and add-ons.
+## THE MANDATE
+
+ is 80 percent capital raising for Fund-III across buyouts and add-ons.
 
 The capital stack is conservative by design.
 

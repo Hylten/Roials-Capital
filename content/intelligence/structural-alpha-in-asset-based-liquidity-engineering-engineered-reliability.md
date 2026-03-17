@@ -6,7 +6,7 @@ author: "Jonas Hyltén"
 slug: "structural-alpha-in-asset-based-liquidity-engineering-engineered-reliability"
 ---
 
-# Structural Alpha in Asset Based Capital Structuring Roials Capital Research Division ## 
+# Structural Alpha in Asset Based Capital Structuring Roials Capital Research Division ## ## 
 
 ## INTRODUCTION
 
@@ -202,7 +202,7 @@ Our frameworks prioritize:
 
 -  Risk compression mechanics These priorities drive resilience.
 
-Resilience is the source of confidence for institutional partners and borrowers alike. ## 
+Resilience is the source of confidence for institutional partners and borrowers alike. ## ## 
 
 ## CONCLUSION
 

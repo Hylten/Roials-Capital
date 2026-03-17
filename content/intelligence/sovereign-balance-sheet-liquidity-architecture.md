@@ -36,7 +36,7 @@ The world has shifted toward balance sheet sovereignty.
 
 The firms able to articulate and operationalize that sovereignty will be entrusted with disproportionate flows of institutional capital.
 
-I will outline the architecture. ## ## ## 
+I will outline the architecture. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -68,7 +68,7 @@ They must adopt a stewardship mandate that proves they are not consumers of liqu
 
 Sovereign balance sheet design is not theoretical.
 
-It is operational. ## ## ## 
+It is operational. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -122,11 +122,11 @@ At Fund-III scale, these should be:
 
 -  Long-cycle liquidity: energy reserves, mineral rights, durable infrastructure This blend produces institutional trust.
 
-Institutional trust produces commitments. ## ## ## THE 
+Institutional trust produces commitments. ## ## ## THE ## 
 
 ## STRATEGIC MODEL
 
- The sovereign balance sheet becomes operational when the GP adopts a 
+ The sovereign balance sheet becomes operational when the GP adopts a ## 
 
 ## STRATEGIC MODEL
 
@@ -140,7 +140,7 @@ It is the eradication of disorder.
 
 It is the belief that capital must be placed in the hands of those who treat it as covenant, not commodity.
 
-The 
+The ## 
 
 ## STRATEGIC MODEL
 
@@ -186,7 +186,7 @@ When a fund can execute national interest projects, its cost of capital falls.
 
 Permanently.
 
-A sovereign-aligned GP earns institutional credibility at a level that pure financial operators never match. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER The stewardship filter is the boundary between disorder and order.
+A sovereign-aligned GP earns institutional credibility at a level that pure financial operators never match. ## ## ## ## ## THE STEWARDSHIP FILTER The stewardship filter is the boundary between disorder and order.
 
 Between wasted capital and productive capital.
 
@@ -226,7 +226,7 @@ They will structure differently.
 
 Their entire operating model will become a demonstration of what disciplined dominion looks like in the marketplace.
 
-This is the voice that sovereign LPs trust. ## ## PHASE 5: EXIT Capital leaving the portfolio must exit with structural dignity.
+This is the voice that sovereign LPs trust. ## ## EXIT Capital leaving the portfolio must exit with structural dignity.
 
 The final metric is single-variable.
 

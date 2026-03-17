@@ -42,7 +42,11 @@ Transnational capital migration must reflect:
 
 Every structure must stand.
 
-Every corridor must serve the mandate.
+Every corridor must serve 
+
+## THE MANDATE
+
+.
 
 Every allocation must strengthen the house, not expose it. ## Closing Position Capital migration is precision.
 

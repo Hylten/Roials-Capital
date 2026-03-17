@@ -82,11 +82,11 @@ We do not chase yield.
 
 We chase enforceability.
 
-That is 
+That is ## 
 
 ## THE REGIME SHIFT
 
-. # Asset hardening is not branding.
+ . # Asset hardening is not branding.
 
 It is mechanics.
 
@@ -228,7 +228,7 @@ It is the opposite of opportunism.
 
 Opportunism is brittle.
 
-Architecture is durable. # ## ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship is not an analogy.
+Architecture is durable. # ## ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is not an analogy.
 
 It is a command.
 
@@ -268,7 +268,7 @@ A steward understands that capital is not a possession.
 
 It is a trust.
 
-The cross-border hardening model is simply the institutional expression of that trust. # ## ## ## PHASE 5: EXIT Exit discipline requires measurable thresholds.
+The cross-border hardening model is simply the institutional expression of that trust. # ## ## ## EXIT Exit discipline requires measurable thresholds.
 
 Fund-III uses three: 
 

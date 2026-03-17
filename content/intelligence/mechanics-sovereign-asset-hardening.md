@@ -20,7 +20,7 @@ Heavy oil development in Alberta, classical buyout platforms in stable mid marke
 
 The common thread is not sector specific.
 
-It is structural: the progression from unsecured optionality to hardened, collateral rich, covenant governed balance sheets. ## ## ## 
+It is structural: the progression from unsecured optionality to hardened, collateral rich, covenant governed balance sheets. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -56,7 +56,7 @@ The strategy is not centered on growth.
 
 It is centered on resilience, cross cycle continuity, and institutional portability.
 
-Allocators are increasingly securing exposure to real cash flow, collateral anchored balance sheets, and operating platforms that retain control under volatile funding conditions. ## ## ## 
+Allocators are increasingly securing exposure to real cash flow, collateral anchored balance sheets, and operating platforms that retain control under volatile funding conditions. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -154,7 +154,9 @@ THE PARTNERSHIP MODEL AND ROIALS CAPITAL'S ROLE Roials Capital functions as a st
 
 The objective is not to present asset offerings but to provide allocators with structured intelligence, counterpart mapping, and operational clarity across capital channels.
 
-The mandate is divided across three pillars: 
+## THE MANDATE
+
+ is divided across three pillars: 
 
 1. Kapitalanskaffning for Fund-III and forward strategies.
 
@@ -174,7 +176,7 @@ In all cases, Roials Capital maintains a neutral technical posture.
 
 The function is not distribution.
 
-The function is strategic alignment and counterpart calibration. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Institutional asset stewardship is increasingly interpreted through the lens of responsibility and resource governance.
+The function is strategic alignment and counterpart calibration. ## ## ## ## ## THE STEWARDSHIP FILTER Institutional asset stewardship is increasingly interpreted through the lens of responsibility and resource governance.
 
 Stewardship involves the disciplined management of capital, operational assets, and long term risk exposures.
 
@@ -206,7 +208,7 @@ The intersection of stewardship and asset hardening defines the modern allocator
 
 Long duration capital has shifted from valuation capture to structural resilience.
 
-The objective is to reinforce the asset base, not speculate on forward pricing. ## ## PHASE 5: THE ## ## DECISION MAKING LENS FOR ALLOCATORS Allocators evaluating Sovereign Asset Hardening strategies consistently operate within three analytical lenses. 
+The objective is to reinforce the asset base, not speculate on forward pricing. ## ## THE ## ## DECISION MAKING LENS FOR ALLOCATORS Allocators evaluating Sovereign Asset Hardening strategies consistently operate within three analytical lenses. 
 
 1. Institutional Transferability The asset or operator must demonstrate the capacity to integrate with institutional reporting rhythms, governance structures, and risk committees.
 

@@ -12,7 +12,7 @@ The result is a multi year dislocation where balance sheet constrained operators
 
 In parallel, sovereign allocators and ultra high net worth principals are navigating a global regime shift where liquidity premiums, structural seniority, and operational transparency hold more relevance than nominal yield targets.
 
-Strategic liquidity architecture has therefore evolved into a discipline of capital routing rather than capital deployment. ## ## ## 
+Strategic liquidity architecture has therefore evolved into a discipline of capital routing rather than capital deployment. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -46,7 +46,7 @@ These structural drivers form the backdrop against which liquidity engineering h
 
 Allocators are no longer optimizing for outperformance.
 
-They are optimizing for resilience, optionality, and regime neutral positioning. ## ## ## 
+They are optimizing for resilience, optionality, and regime neutral positioning. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -140,11 +140,11 @@ The primary function is to map allocators to institutional grade operators whose
 
 Core functions include: 
 
--  Institutional 
+-  Institutional ## 
 
 ## INTRODUCTION
 
-.
+ .
 
 Allocators receive curated access to operators, lenders, and acquisition vehicles where governance, reporting, and counterparty alignment meet institutional thresholds. 
 
@@ -154,7 +154,7 @@ The objective is to eliminate misalignment between capital needs and capital man
 
 Operators require long horizon liquidity, while sovereign allocators prioritize operational transparency and structural seniority.
 
-The 
+The ## 
 
 ## INTRODUCTION
 
@@ -170,7 +170,7 @@ Roials Capital provides the mapping, not the execution.
 
 In energy mandates, NAEO serves as the strategic partner whose operational discipline, reservoir transparency, and Alberta basin expertise meet institutional requirements.
 
-This partnership model is designed to eliminate informational asymmetry and reduce operator selection risk without engaging in solicitation or promotional behavior. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship is treated as a capital discipline grounded in responsibility, accountability, and non wasteful resource management.
+This partnership model is designed to eliminate informational asymmetry and reduce operator selection risk without engaging in solicitation or promotional behavior. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is treated as a capital discipline grounded in responsibility, accountability, and non wasteful resource management.
 
 The allocator's role is to deploy liquidity with moral clarity and operational precision.
 
@@ -198,15 +198,17 @@ Sovereign and UHNW allocators apply the stewardship filter as a calibration mech
 
 The objective is to optimize existing portfolio exposures through liquidity engineering and asset hardening instead of expanding into unfamiliar asset classes.
 
-This framework elevates capital deployment into a moral and operational discipline that transcends tactical return strategies. ## ## PHASE 5: ## ## DECISION MAKING LENS FOR ALLOCATORS The strategic allocator evaluates opportunities through a tri layered lens. 
+This framework elevates capital deployment into a moral and operational discipline that transcends tactical return strategies. ## ## ## ## DECISION MAKING LENS FOR ALLOCATORS The strategic allocator evaluates opportunities through a tri layered lens. 
 
 1. Structural Conditions.
 
 Regulatory divergence, supply constraints, and capital scarcity define the outer frame of the opportunity landscape. 
 
-2. ## TECHNICAL MECHANICS
+2. ## 
 
-.
+## TECHNICAL MECHANICS
+
+ .
 
 Operators and transactions are evaluated based on recovery factors, LTV curves, collateral quality, and governance precision. 
 

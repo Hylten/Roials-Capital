@@ -12,7 +12,7 @@ It is not a reflection of declining asset quality.
 
 Institutional allocators are observing a regime where the withdrawal of commercial banks has opened a durable technical gap that favors specialized balance sheets capable of underwriting complexity rather than volume.
 
-This environment elevates the strategic utility of institutional backing because the credit ecosystem has transitioned from commoditized spreads to technical outcome engineering. ## ## ## 
+This environment elevates the strategic utility of institutional backing because the credit ecosystem has transitioned from commoditized spreads to technical outcome engineering. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -36,7 +36,7 @@ These conditions have created a durable arbitrage where institutional backing is
 
 Institutional balance sheets can support long-duration credit exposure, undertake cross-collateralization, apply dynamic covenants, and integrate Asset-Backed Frameworks tools unavailable to traditional lenders.
 
-The shift is structural, not cyclical. ## ## ## 
+The shift is structural, not cyclical. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -124,7 +124,7 @@ Roials Capital provides institutional introductions to credit providers who spec
 
 Roials Capital serves as an institutional interpreter.
 
-The firm provides allocators with scenario analysis, counterparty vetting, capital stack diagnostics, and navigation across regulatory landscapes. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship governs the disciplined allocation of capital, ensuring resources are placed in structures that maximize durability, efficiency, and long-term societal benefit.
+The firm provides allocators with scenario analysis, counterparty vetting, capital stack diagnostics, and navigation across regulatory landscapes. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship governs the disciplined allocation of capital, ensuring resources are placed in structures that maximize durability, efficiency, and long-term societal benefit.
 
 This discipline aligns with the biblical principle articulated in **Proverbs 13:22** , where the emphasis is on long-term inheritance and intergenerational responsibility.
 
@@ -138,7 +138,7 @@ Stewardship in private credit includes:
 
 -  Operational transparency Favoring partners who provide full disclosure of decline curves, collateral liquidity, and covenant performance over time.
 
-This stewardship filter ensures that institutional allocators maintain integrity across their capital deployment strategies. ## ## PHASE 5: THE DECISION-MAKING LENS FOR ALLOCATORS The allocator landscape has shifted toward strategic calibration rather than spread maximization.
+This stewardship filter ensures that institutional allocators maintain integrity across their capital deployment strategies. ## ## THE DECISION-MAKING LENS FOR ALLOCATORS The allocator landscape has shifted toward strategic calibration rather than spread maximization.
 
 Private credit is no longer defined by yield.
 

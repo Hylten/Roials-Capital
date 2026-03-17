@@ -56,11 +56,11 @@ It is an active discipline.
 
 A deliberate strategy.
 
-A commitment to structural superiority. ## 
+A commitment to structural superiority. ## ## 
 
 ## CONCLUSION
 
-: Preservation Is the First Rule of Enduring Wealth There is no wealth without preservation.
+ : Preservation Is the First Rule of Enduring Wealth There is no wealth without preservation.
 
 There is no compounding without stability.
 

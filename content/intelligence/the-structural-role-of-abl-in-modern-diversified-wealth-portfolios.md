@@ -166,7 +166,7 @@ Public equity holdings will remain strategic.
 
 Asset-Based Lending will serve as the connective tissue, linking long term exposure with short term liquidity needs.
 
-Roials Capital stands precisely within this structural nexus. # 
+Roials Capital stands precisely within this structural nexus. # ## 
 
 ## CONCLUSION
 

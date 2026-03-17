@@ -10,7 +10,7 @@ The capital vacuum in institutional M and A today is driven by regulatory fragme
 
 The misalignment between mobility of wealth and immobility of jurisdictional banking frameworks has created a structural gap in global transaction velocity.
 
-This gap defines the present regime shift in how Fund-III structures, private credit desks, and cross border acquisition vehicles engineer liquidity, collateralize digital wealth, and synchronize balance sheet mechanics across multiple legal territories. ## ## ## 
+This gap defines the present regime shift in how Fund-III structures, private credit desks, and cross border acquisition vehicles engineer liquidity, collateralize digital wealth, and synchronize balance sheet mechanics across multiple legal territories. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -36,7 +36,7 @@ Market behavior indicates that allocators who cannot move wealth across borders 
 
 The result is a bifurcation.
 
-Institutions that master borderless collateral mobility gain access to discounted acquisition windows, while institutions restricted to domestic capital architecture are forced into slower cycles. ## ## ## 
+Institutions that master borderless collateral mobility gain access to discounted acquisition windows, while institutions restricted to domestic capital architecture are forced into slower cycles. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -106,7 +106,7 @@ The internal mandate is divided proportionally:
 
 The priority is to optimize liquidity sequencing so that capital is deployed with precision at each phase of the value creation cycle.
 
-The 
+The ## 
 
 ## INTRODUCTION
 
@@ -126,7 +126,7 @@ The objective is balance sheet strengthening and capital flow synchronization.
 
 Within Energy, NAEO serves as the institutional partner with operational expertise spanning SAGD, CSS, decline curve analysis, and Alberta basin mechanics.
 
-In non energy contexts, Roials Capital’s role remains focused on structural alignment and cross border transaction architecture. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship is a discipline of capital integrity, not opportunism.
+In non energy contexts, Roials Capital’s role remains focused on structural alignment and cross border transaction architecture. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is a discipline of capital integrity, not opportunism.
 
 The mobility of capital is not pursued for speed alone.
 
@@ -148,7 +148,7 @@ Wealth mobility systems ensure that strategic assets remain deployable across ju
 
 Properly constructed wealth mobility architectures remove friction without removing prudence.
 
-Stewardship is therefore framed as a methodology that integrates capital morality with structural optimization. ## ## PHASE 5: ## ## DECISION MAKING LENS FOR ALLOCATORS Institutions evaluating cross border acquisitions under Fund-III frameworks must integrate three questions into their internal analysis: 
+Stewardship is therefore framed as a methodology that integrates capital morality with structural optimization. ## ## ## ## DECISION MAKING LENS FOR ALLOCATORS Institutions evaluating cross border acquisitions under Fund-III frameworks must integrate three questions into their internal analysis: 
 
 1. Does the current capital architecture allow liquidity to move at the same speed as opportunity?
 

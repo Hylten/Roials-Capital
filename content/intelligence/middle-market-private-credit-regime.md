@@ -14,7 +14,7 @@ Capital entered.
 
 Infrastructure did not.
 
-That is the opportunity.
+That is the opportunity. ## 
 
 ## THE REGIME SHIFT
 
@@ -66,7 +66,7 @@ That opacity is where disciplined firms extract permanent advantage.
 
 ROIALS CAPITAL states the position clearly: the middle market is the most asymmetric risk adjusted credit opportunity available today.
 
-We operate where complexity deters slower capital.
+We operate where complexity deters slower capital. ## 
 
 ## TECHNICAL MECHANICS
 
@@ -140,7 +140,7 @@ Firms with internal compliance architecture can move faster and gain price lever
 
 The capacity to close where others cannot is itself a return driver.
 
-The 
+The ## 
 
 ## STRATEGIC MODEL
 

@@ -30,11 +30,11 @@ The firms that dominate the next cycle are not the ones who hold the most proper
 
 They are the firms that control the liquidity rails around the property.
 
-This is 
+This is ## 
 
 ## THE REGIME SHIFT
 
-. ## ## ## 
+ . ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -80,7 +80,7 @@ Tokenized real estate becomes the anchor asset for local liquidity because it cr
 
 It becomes the operational treasury of local economies.
 
-The firm positions Fund-III to exploit that velocity mismatch. ## ## ## 
+The firm positions Fund-III to exploit that velocity mismatch. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -136,7 +136,7 @@ In oil and gas mandates, tokenized mineral rights or infrastructure cash flows c
 
 Recovery factors improve because the asset rights become transferable objects rather than geologically anchored paperwork.
 
-Strategic Collateralization emerges as an institutional discipline rather than a technology experiment. ## ## ## THE 
+Strategic Collateralization emerges as an institutional discipline rather than a technology experiment. ## ## ## THE ## 
 
 ## STRATEGIC MODEL
 
@@ -146,7 +146,7 @@ Capital that does not move is capital that is lost.
 
 Tokenized real estate becomes an accelerant for Fund-III, but only when treated as part of a broader operational machine.
 
-The 
+The ## 
 
 ## STRATEGIC MODEL
 
@@ -184,7 +184,7 @@ Fund-III scales because the firm eliminates friction.
 
 It treats tokenized real estate not as an asset class but as an operational infrastructure that removes latency from every part of the capital chain.
 
-Slow institutions cannot compete with an adversary that moves this quickly. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Stewardship is not sentiment.
+Slow institutions cannot compete with an adversary that moves this quickly. ## ## ## ## ## THE STEWARDSHIP FILTER Stewardship is not sentiment.
 
 It is the disciplined avoidance of waste.
 
@@ -216,7 +216,7 @@ They rotate.
 
 They amplify.
 
-They serve. ## ## PHASE 5: EXIT Projected collateral clearance window inside tokenized structures: 4.7 hours. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
+They serve. ## ## EXIT Projected collateral clearance window inside tokenized structures: 4.7 hours. # ## TECHNICAL MANDATE Qualification Gates strictly observed.
 
 The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,000 for comprehensive structural execution.
 

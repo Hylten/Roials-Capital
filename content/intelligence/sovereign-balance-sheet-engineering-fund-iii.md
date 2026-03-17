@@ -14,7 +14,7 @@ This creates a highly specific opening for Fund-III managers who can deploy an e
 
 The result is a new Institutional Archetype: the sovereign-aligned private equity platform that treats liquidity as a strategic resource rather than a commodity. ## PHASE 
 
-1. ## ## ## 
+1. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -48,7 +48,7 @@ Allocators no longer reward opportunism.
 
 They reward predictability, technical governance, and institutional maturity. ## PHASE 
 
-2. ## ## ## 
+2. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -118,7 +118,7 @@ This includes:
 
 -  Structural alignment for Nordic, European, US, and Gulf allocators 
 
--  Institutional 
+-  Institutional ## 
 
 ## INTRODUCTION
 

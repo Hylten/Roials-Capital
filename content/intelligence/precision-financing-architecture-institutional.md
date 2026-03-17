@@ -12,7 +12,7 @@ Allocators with disciplined underwriting frameworks are discovering a structural
 
 Precision financing architecture has therefore transitioned from a peripheral concept to a primary determinant of acquisition viability, debt seniority, and multi fund scalability. ## PHASE 
 
-1. ## ## ## 
+1. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -42,7 +42,7 @@ These conditions have produced an environment where precision financing is not a
 
 It is the central operating framework for Fund-III and subsequent institutional scale expansion. ## PHASE 
 
-2. ## ## ## 
+2. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -100,7 +100,7 @@ A.
 
 North American Energy Operations Capital between 50M and 250M This segment is largely driven by structural undercapitalization in Alberta and Saskatchewan.
 
-The 
+The ## 
 
 ## TECHNICAL MECHANICS
 

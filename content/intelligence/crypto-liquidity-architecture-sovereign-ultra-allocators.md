@@ -16,7 +16,7 @@ That mismatch defines the current regime.
 
 It punishes slow mandates.
 
-It rewards engineered velocity. ## ## ## 
+It rewards engineered velocity. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -86,7 +86,7 @@ They architect systems instead of outsourcing them.
 
 The result is agency.
 
-The result is precision. ## ## ## 
+The result is precision. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -186,13 +186,15 @@ Crypto collateral can be staked, lent, hedged, tokenized, or rehypothecated with
 
 The allocator who controls mobility unlocks synthetic liquidity without overextending leverage.
 
-The allocator who ignores mobility pays the opportunity cost of idle capital. ## ## ## THE 
+The allocator who ignores mobility pays the opportunity cost of idle capital. ## ## ## THE ## 
 
 ## STRATEGIC MODEL
 
  The Firm builds institutional architecture for Fund-III capital formation.
 
-The mandate is simple.
+## THE MANDATE
+
+ is simple.
 
 Extract velocity.
 
@@ -202,7 +204,7 @@ Harden collateral.
 
 Increase certainty of execution for buyouts and add-ons.
 
-The 
+The ## 
 
 ## STRATEGIC MODEL
 
@@ -272,7 +274,7 @@ Edge is not risk.
 
 Edge is engineered asymmetry.
 
-The Firm builds the asymmetry into the system itself. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Capital is not infinite.
+The Firm builds the asymmetry into the system itself. ## ## ## ## ## THE STEWARDSHIP FILTER Capital is not infinite.
 
 Waste is not tolerated.
 
@@ -330,7 +332,7 @@ The Book speaks to disciplined gates. **Proverbs 25:28** describes a city with b
 
 The allocator with no liquidity architecture is that broken city.
 
-The Firm rebuilds the walls. ## ## PHASE 5: EXIT Liquidity leadership is measured, not imagined.
+The Firm rebuilds the walls. ## ## EXIT Liquidity leadership is measured, not imagined.
 
 The target metric for Fund-III is simple.
 

@@ -20,7 +20,9 @@ Asset hardening preserves legacy. **Proverbs 13:22** .
 
 This brief establishes a sovereign-grade architecture for Fund-III capital formation and post-acquisition hardening under buyout and add-on conditions.
 
-The mandate is singular: elevate institutional durability while compressing execution risk across energy, industrial, and multi-asset verticals.
+## THE MANDATE
+
+ is singular: elevate institutional durability while compressing execution risk across energy, industrial, and multi-asset verticals.
 
 I build this for the LP with mandate.
 

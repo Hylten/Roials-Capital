@@ -8,7 +8,11 @@ slug: "institutional-asset-hardening-architecture"
 
 A structural gap always reveals itself first in recovery math.
 
-When the asset base cannot carry the velocity of the mandate, the institution fractures.
+When the asset base cannot carry the velocity of 
+
+## THE MANDATE
+
+, the institution fractures.
 
 When the institution fractures, capital retreats.
 
@@ -34,7 +38,7 @@ We harden the foundations before we scale the exposures.
 
 This briefing outlines the institutional framework required for Fund-III operators who intend to raise at velocity, execute at precision, and create liquidity on command. ## PHASE 
 
-1. ## ## ## 
+1. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -66,7 +70,7 @@ Add on integration failures create solvency risk when leverage stacks exceed the
 
 3. Regulatory misalignment.
 
-MiFID II and North American energy compliance require system level documentation that most mid market GPs still treat as boutique level paperwork.
+MiFID II and North American energy compliance require system level documentation that most mid market GPs still treat as boutique level paperwork. ## 
 
 ## THE REGIME SHIFT
 
@@ -74,7 +78,7 @@ MiFID II and North American energy compliance require system level documentation
 
 Capital follows the managers who build institutional machines, not the managers who improvise. ## PHASE 
 
-2. ## ## ## 
+2. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
@@ -128,11 +132,11 @@ Anything less signals amateurism.
 
 Capital sees amateurism immediately. ## PHASE 
 
-3. ## ## ## THE 
+3. ## ## ## THE ## 
 
 ## STRATEGIC MODEL
 
- The 
+ The ## 
 
 ## STRATEGIC MODEL
 
@@ -192,7 +196,7 @@ EU MiFID II acquisitions require compliance gridlocks to be solved before capita
 
 Our team treats special mandates as mathematical problems, not political ones.
 
-The 
+The ## 
 
 ## STRATEGIC MODEL
 

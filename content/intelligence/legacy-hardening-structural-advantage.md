@@ -12,7 +12,7 @@ This single structural fact underpins the institutional rediscovery of hard-asse
 
 Legacy hardening is not a branding phrase.
 
-It is a balance sheet discipline that converts mature, long curve assets into durable multi cycle anchors within an allocator's portfolio architecture. ## ## ## 
+It is a balance sheet discipline that converts mature, long curve assets into durable multi cycle anchors within an allocator's portfolio architecture. ## ## ## ## 
 
 ## THE REGIME SHIFT
 
@@ -46,13 +46,13 @@ This realignment is shaping Fund-III strategies.
 
 The allocator class is moving away from abstract yield and into balance sheet optimization anchored in operational intelligence.
 
-Legacy hardening becomes the filter through which mature assets, undercapitalized operators, and multi decade resource bases can be converted into institutional grade structures. ## ## ## 
+Legacy hardening becomes the filter through which mature assets, undercapitalized operators, and multi decade resource bases can be converted into institutional grade structures. ## ## ## ## 
 
 ## TECHNICAL MECHANICS
 
  Legacy hardening in the energy domain is not a macro thesis.
 
-It is a set of 
+It is a set of ## 
 
 ## TECHNICAL MECHANICS
 
@@ -132,13 +132,13 @@ NAEO delivers the operational execution.
 
 The allocator receives a calibrated pathway into energy assets, structured credit, or special mandate acquisitions without absorbing execution risk.
 
-For European and MiFID II regulated participants, Roials supports acquisition structuring, capital flow alignment, and operational partner 
+For European and MiFID II regulated participants, Roials supports acquisition structuring, capital flow alignment, and operational partner ## 
 
 ## INTRODUCTION
 
  across Canada, the US, and selected European jurisdictions.
 
-Special mandates between 50 million USD and 250 million USD in energy follow a defined due diligence sequence based on reservoir mapping, decline calibration, and cash flow hardening procedures. ## ## ## PHASE 4: ## ## THE STEWARDSHIP FILTER Legacy hardening is a stewardship discipline.
+Special mandates between 50 million USD and 250 million USD in energy follow a defined due diligence sequence based on reservoir mapping, decline calibration, and cash flow hardening procedures. ## ## ## ## ## THE STEWARDSHIP FILTER Legacy hardening is a stewardship discipline.
 
 The theology of capital centers on non wasteful allocation and the preservation of long horizon value.
 
@@ -160,9 +160,9 @@ Stewardship integrates three filters:
 
 -  Structural discipline that ensures capital enters vehicles with appropriate seniority and protection. 
 
--  Temporal discipline that ensures assets are positioned for long term viability rather than short term optical yield. ## ## PHASE 5: PORTFOLIO CALIBRATION LENS The allocator evaluating the legacy hardening thesis is not selecting an asset class.
+-  Temporal discipline that ensures assets are positioned for long term viability rather than short term optical yield. ## ## PORTFOLIO CALIBRATION LENS The allocator evaluating the legacy hardening thesis is not selecting an asset class.
 
-They are calibrating a long horizon posture.
+They are calibrating a long horizon posture. ## 
 
 ## THE REGIME SHIFT
 
@@ -174,7 +174,7 @@ A confidential strategy audit with Roials Capital focuses on:
 
 -  Structural positioning across private credit and energy hard assets. 
 
--  
+-  ## 
 
 ## INTRODUCTION
 
