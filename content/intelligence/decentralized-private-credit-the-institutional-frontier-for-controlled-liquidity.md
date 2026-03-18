@@ -130,7 +130,7 @@ The underwriting logic shifts from evaluating the borrower to evaluating the ass
 
 The borrower is still relevant, but the primary risk 
 
-### Axis I
+### Axis I:
 
 s collateral liquidity, collateral valuation, and collateral volatility.
 
@@ -154,7 +154,7 @@ It is about predictability.
 
 Traditional lenders often require multi-
 
-### Step V
+### Step V:
 
 erification, committee review, and timing that is incompatible with fast-moving private opportunities.
 

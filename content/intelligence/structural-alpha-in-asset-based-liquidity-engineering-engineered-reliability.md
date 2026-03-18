@@ -196,23 +196,23 @@ It is generated through design.
 
 Roials Capital employs a sequence-driven framework. 
 
-### Step I
+### Step I:
 
 Asset Behaviour Mapping Each class of collateral is modelled for liquidation physics, conversion friction, and volatility under stress.
 
-### Step I: I
+### Step I:
 
 Structural Compression Advance rates, reserves, and covenants compress risk into statistically predictable bands. 
 
-### Step II: I
+### Step II:
 
 Behavioural Engineering Reporting intervals, lockboxes, and balance sheet optimization base mechanics shape borrower actions. 
 
-### Step I: V
+### Step I:
 
 Execution Readiness Clear enforcement pathways ensure the structure remains intact without negotiation. 
 
-### Step V
+### Step V:
 
 Yield Extraction The resulting stability supports competitive yet elevated returns, sourced from structural efficiency rather than risk tolerance.
 

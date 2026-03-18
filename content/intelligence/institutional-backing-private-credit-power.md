@@ -14,7 +14,7 @@ Institutions with disciplined capital architecture outperform not because they l
 
 Order is not an option. 
 
-### Phase I: .
+### Phase I:
 
 THE REGIME SHIF
 
@@ -32,7 +32,7 @@ Mid-market borrowers face delayed approvals, static underwriting templates, and 
 
 Institutional lenders 
 
-### Step I
+### Step I:
 
 nto the vacuum with speed, precision, and asymmetrical structuring advantages.
 
@@ -70,7 +70,7 @@ E
 
 . 
 
-### Phase II: .
+### Phase II:
 
 TECHNICAL MECHANIC
 
@@ -158,7 +158,7 @@ The lender extracts duration without sacrificing velocity.
 
 Without institutional backing, these structures do not price. 
 
-### Phase III: .
+### Phase III:
 
 THE
 
@@ -250,7 +250,7 @@ LPs align because they want disciplined underwriting and asymmetric outcomes.
 
 ROIALS CAPITAL sits between them as the institutional operating spine. 
 
-### Phase IV: .
+### Phase IV:
 
 THE STEWARDSHIP FILTER Resources carry responsibility.
 
@@ -302,7 +302,7 @@ Recovery is enforced with clarity.
 
 Yield is extracted with discipline. 
 
-### Phase V: .
+### Phase V:
 
 EXIT Institutional backing is not branding.
 

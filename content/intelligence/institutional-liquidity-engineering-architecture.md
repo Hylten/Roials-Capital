@@ -70,7 +70,7 @@ Several technical components define institutional grade liquidity architecture.
 
 Collateral Calibration The initial 
 
-### Step I
+### Step I:
 
 s the classification and tiering of collateral based on tradability, valuation integrity, and compression sensitivity.
 

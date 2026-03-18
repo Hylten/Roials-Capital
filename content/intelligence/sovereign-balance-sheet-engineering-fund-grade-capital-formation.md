@@ -296,7 +296,7 @@ The key evaluation questions are:
 
 * Is the stewardship filter embedded in each structural element When allocators review these criteria, the next logical 
 
-### Step I
+### Step I:
 
 s often a confidential strategy audit or a portfolio calibration dialogue.
 

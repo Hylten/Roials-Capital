@@ -14,7 +14,7 @@ This creates a highly specific opening for Fund-III managers who can deploy an e
 
 The result is a new Institutional Archetype: the sovereign-aligned private equity platform that treats liquidity as a strategic resource rather than a commodity. 
 
-### Phase I: .
+### Phase I:
 
 THE REGIME SHIF
 
@@ -56,7 +56,7 @@ Allocators no longer reward opportunism.
 
 They reward predictability, technical governance, and institutional maturity. 
 
-### Phase II: .
+### Phase II:
 
 TECHNICAL MECHANIC
 
@@ -128,7 +128,7 @@ This aligns with **Proverbs 13:22
 
 * as a principle of intergenerational capital stewardship. 
 
-### Phase III: .
+### Phase III:
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator rather than a GP substitute.
 
@@ -158,7 +158,7 @@ The objective is not solicitation.
 
 It is structural clarity. 
 
-### Phase IV: .
+### Phase IV:
 
 THE STEWARDSHIP FILTER Stewardship is defined as the efficient deployment of capital without waste.
 
@@ -190,7 +190,7 @@ Stewardship is not an abstraction.
 
 It is an operational discipline. 
 
-### Phase V: .
+### Phase V:
 
 DECISION-MAKING LENS FOR ALLOCATORS Institutional allocators evaluating Fund-III platforms require a filter that isolates engineering maturity from narrative positioning.
 

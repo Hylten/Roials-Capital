@@ -14,7 +14,7 @@ Liquidity is the constraint most UHNW families misdiagnose.
 
 Order is not an option. 
 
-### Phase I: .
+### Phase I:
 
 THE REGIME SHIF
 
@@ -68,7 +68,7 @@ Fund-III sits inside that shift.
 
 Not beside it. 
 
-### Phase II: .
+### Phase II:
 
 TECHNICAL MECHANIC
 
@@ -160,7 +160,7 @@ This is why we build Asset-Based Lending facilities not as credit.
 
 But as operating infrastructure. 
 
-### Phase III: .
+### Phase III:
 
 THE
 
@@ -242,7 +242,7 @@ We recycle surplus into controlled compounding paths.
 
 Waste is eliminated. 
 
-### Phase IV: .
+### Phase IV:
 
 THE STEWARDSHIP FILTER A system built without stewardship corrodes.
 
@@ -292,7 +292,7 @@ A liquidity engineered system teaches the next generation how to govern.
 
 Not how to spend. 
 
-### Phase V: .
+### Phase V:
 
 EXIT Our internal mandate is explicit.
 

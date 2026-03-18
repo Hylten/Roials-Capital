@@ -34,7 +34,7 @@ The allocators who internalize this early will extract multi-cycle advantage.
 
 Those who hesitate will finance the advantage of others. 
 
-### Phase I: .
+### Phase I:
 
 THE REGIME SHIF
 
@@ -88,7 +88,7 @@ The regime has already shifted.
 
 Those who do not architect around this shift will serve those who do. 
 
-### Phase II: .
+### Phase II:
 
 TECHNICAL MECHANIC
 
@@ -170,7 +170,7 @@ The mechanics are not negotiable.
 
 They are the architecture. 
 
-### Phase III: .
+### Phase III:
 
 THE
 
@@ -244,7 +244,7 @@ The model is not designed for speed.
 
 It is designed for sovereignty over outcomes. 
 
-### Phase IV: .
+### Phase IV:
 
 THE STEWARDSHIP FILTER Stewardship is not sentimental.
 
@@ -300,7 +300,7 @@ It is operational theology.
 
 It is the practical expression of order. 
 
-### Phase V: .
+### Phase V:
 
 EXIT Capital migration ends with one metric.
 

@@ -14,7 +14,7 @@ It is a field that rewards precision and punishes assumption.
 
 High Net Worth and Ultra High Net Worth participants who 
 
-### Step I
+### Step I:
 
 nto this arena require an understanding of the silent mechanics that govern these flows.
 

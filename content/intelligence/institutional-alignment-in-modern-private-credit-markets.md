@@ -16,7 +16,7 @@ The frameworks were set by large allocators, pension funds, specialist credit fu
 
 Today, HNWI and UHNW participants 
 
-### Step I
+### Step I:
 
 nto that arena with more sophistication, more tools, and more leverage.
 

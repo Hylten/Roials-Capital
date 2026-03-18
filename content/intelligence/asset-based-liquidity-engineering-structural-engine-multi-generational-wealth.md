@@ -100,7 +100,7 @@ This transforms the balance sheet from linear to layered.
 
 Each 
 
-### Layer I
+### Layer I:
 
 s designed to absorb volatility without impairing the underlying strategic asset.
 
@@ -138,7 +138,7 @@ It is not a product.
 
 It is an architecture. 
 
-### Phase I: I
+### Phase I:
 
 SUBSET: ENERGY SPECIFIC MECHANICS WITH NAEOCC When applied to the North American conventional energy corridor through NAEOCCC, to which we serve as a strategic partner, Asset-Based Lending-E takes on an additional layer of technical specificity.
 

@@ -218,7 +218,7 @@ Sovereigns want influence without responsibility.
 
 We serve the first two, not the third. 
 
-### Pillar I: I
+### Pillar I:
 
 Asset-Backed Frameworks through institutional Asset-Based Lending.
 

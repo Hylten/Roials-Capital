@@ -16,7 +16,7 @@ The divergence is measurable.
 
 It has become one of the most powerful sources of balance sheet optimization available to institutional allocators navigating the 2026 landscape. 
 
-### Phase I: .
+### Phase I:
 
 THE REGIME SHIF
 
@@ -52,7 +52,7 @@ This macro backdrop has driven a regime in which capital efficiency is no longer
 
 It is the governing principle of modern balance sheet design. 
 
-### Phase II: .
+### Phase II:
 
 TECHNICAL MECHANIC
 
@@ -156,7 +156,7 @@ Their focus is on operators with established reservoir histories, measurable rec
 
 These features allow institutional allocators to analyze operational integrity rather than speculative upside. 
 
-### Phase III: .
+### Phase III:
 
 THE PARTNERSHIP MODEL Roials Capital functions as a strategic navigator and institutional introducer across three domains: Fund-III capital raising, Strategic Collateralization, and special mandates in energy and cross-border acquisitions.
 
@@ -182,7 +182,7 @@ Roials Capital provides the institutional translation layer, helping allocators 
 
 This partnership model allows allocators to navigate complex environments with technical clarity rather than promotional noise. 
 
-### Phase IV: .
+### Phase IV:
 
 THE STEWARDSHIP FILTER Stewardship is an exercise in non wasteful capital management.
 
@@ -230,7 +230,7 @@ This is consistent with **Proverbs 13:22
 
 Stewardship transforms the balance sheet from a transactional instrument into a long horizon strategic platform. 
 
-### Phase V: .
+### Phase V:
 
 DECISION-MAKING LENS FOR THE ALLOCATOR The allocator operating in 2026 faces an environment defined by volatility at the surface and stability in the subsurface.
 

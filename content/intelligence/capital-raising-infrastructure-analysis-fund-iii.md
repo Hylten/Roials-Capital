@@ -12,7 +12,7 @@ It is the direct expression of regulatory deceleration, increased compliance dra
 
 The allocators who understand this structural gap are reallocating from generalized asset pools toward platforms with disciplined Asset-Backed Frameworks, predictable operational cadence, and established Fund-III architectures with validated acquisition engines. 
 
-### Phase I: .
+### Phase I:
 
 THE REGIME SHIF
 
@@ -44,7 +44,7 @@ This is where specialized partners such as NAEOC create alignment through standa
 
 When combined with institutional-grade structuring, the Alberta corridor becomes an efficient deployment zone for capital seeking cash-flow durability rather than volumetric speculation. 
 
-### Phase II: .
+### Phase II:
 
 TECHNICAL MECHANIC
 
@@ -122,7 +122,7 @@ NAEOC standardizes domain underwriting, provides technical field intelligence, a
 
 In EU structures, MiFID II frameworks require a governance infrastructure capable of supporting multi-jurisdictional oversight, data standardization, and transparent capital provenance. 
 
-### Phase III: .
+### Phase III:
 
 THE
 
@@ -192,7 +192,7 @@ Stewardship Coordination Layer Partnering with entities such as NAEOC, this laye
 
 In the buyout ecosystem, stewardship takes the form of non-wasteful operational execution, ensuring that value creation is driven by efficiency, not asset overextension. 
 
-### Phase IV: .
+### Phase IV:
 
 THE STEWARDSHIP FILTER Stewardship represents a discipline, not a moral accessory.
 
@@ -222,7 +222,7 @@ Relational Stewardship Strategic alignment between LPs and GPs requires integrit
 
 Stewardship in this context ensures systemic trust and eliminates relational friction. 
 
-### Phase V: .
+### Phase V:
 
 DECISION-MAKING LENS FOR ALLOCATORS The allocator navigating the 2026 landscape evaluates opportunities through a lens focused on operational certainty, structural advantage, and stewardship alignment.
 

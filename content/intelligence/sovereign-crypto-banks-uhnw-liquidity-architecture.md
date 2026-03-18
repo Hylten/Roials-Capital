@@ -118,7 +118,7 @@ The collateralized loan is represented on chain with programmable risk parameter
 
 This improves clarity of lender seniority and establishes immutable audit trails. 
 
-### Phase I: I
+### Phase I:
 
 A: APPLICATION TO Fund-III CAPITAL RAISING AND ADD ON ACQUISITIONS For private equity GPs advancing Fund-III and Fund IV initiatives, sovereign crypto banking provides high velocity liquidity at the GP and portfolio company levels.
 

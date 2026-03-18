@@ -360,7 +360,7 @@ Institutional allocators measure not just performance, but the perceived permane
 
 Fund‑III must materially upgrade GP status across five axes: 
 
-### Axis I
+### Axis I:
 
 - Acquisition Authority LPs expect acquisition velocity with discipline.
 
@@ -376,7 +376,7 @@ They must trust the convertibility.
 
 They must see hard‑asset protection. 
 
-### Axis III
+### Axis III:
 
 - Governance Density LPs evaluate compliance infrastructure
 
@@ -390,7 +390,7 @@ Certainty.
 
 Permanence. 
 
-### Axis I: V
+### Axis I:
 
 - Cross‑Border Execution International allocators expect jurisdictional competence.
 

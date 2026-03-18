@@ -24,7 +24,7 @@ This briefing delivers a technical, analyst-grade examination of
 
 It clarifies how Roials Capital functions as a strategic navigator, vetting counterparties and structuring pathways for allocators seeking resilient private credit exposure without promotional framing or implied forward guidance. 
 
-### Phase I: 
+### Phase I:
 
 # THE REGIME SHIF
 
@@ -80,7 +80,7 @@ Strategic alignment has become the new premium.
 
 Capital is flowing toward counterparties that operate with clarity of mandate, verifiable governance, and multi-cycle operational readiness. 
 
-### Phase II: 
+### Phase II:
 
 # TECHNICAL MECHANIC
 
@@ -144,7 +144,7 @@ Capital interruptions amplify cost structures and increase risk.
 
 This is why institutional sponsorship, not sporadic capital, increasingly defines which operators succeed. 
 
-### Phase II: I
+### Phase II:
 
 THE PARTNERSHIP MODEL Roials Capital functions as an institutional navigator, identifying, evaluating, and calibrating strategic counterparties for allocators requiring operational integrity, governance reliability, and balance sheet transparency.
 
@@ -190,7 +190,7 @@ This evaluation includes:
 
 Instead of broad outreach, the firm filters and curates opportunities aligned with the Institutional Archetype: allocators that value strategic clarity, operational depth, and capital discipline. 
 
-### Phase I: V
+### Phase I:
 
 THE STEWARDSHIP FILTER AND THE THEOLOGY OF CAPITAL Stewardship in institutional energy finance is not a moral abstraction.
 
@@ -234,7 +234,7 @@ Operators must manage their reservoirs, infrastructure, and balance sheets with 
 
 Institutional allocators value stewardship because it mitigates behavioral volatility, reduces misalignment risk, and maximizes the probability that future cash flows remain consistent with engineering expectations. 
 
-### Phase V
+### Phase V:
 
 ALLOCATOR DECISION FRAMEWORK AND STRATEGIC CALIBRATION Private credit in 2026 is no longer defined by opportunistic yield.
 

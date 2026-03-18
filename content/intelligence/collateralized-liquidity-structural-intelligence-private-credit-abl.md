@@ -10,7 +10,7 @@ Order is not an option.
 
 It is the prerequisite for all solvency. 
 
-### Phase I: .
+### Phase I:
 
 THE REGIME SHIF
 
@@ -66,7 +66,7 @@ That is
 
  . 
 
-### Phase II: .
+### Phase II:
 
 TECHNICAL MECHANIC
 
@@ -182,7 +182,7 @@ They do not reward speed alone.
 
 They reward engineered inevitability. 
 
-### Phase III: .
+### Phase III:
 
 THE
 
@@ -270,7 +270,7 @@ The
 
 It is built on data, velocity, and engineered control. 
 
-### Phase IV: .
+### Phase IV:
 
 THE STEWARDSHIP FILTER Capital is a stewardship mandate.
 
@@ -334,7 +334,7 @@ Structure restrains unnecessary risk.
 
 Structure protects the future from the impulses of the present. 
 
-### Phase V: .
+### Phase V:
 
 EXIT The sole metric that matters: liquidity coverage ratio must stabilize above 1.
 

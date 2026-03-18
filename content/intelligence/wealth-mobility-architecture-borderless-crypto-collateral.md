@@ -12,7 +12,7 @@ The constraint is the institutional difficulty of transforming wealth into mobil
 
 A new regime has emerged where borderless digital collateral can be engineered to support institutional grade acquisitions without violating the disciplined principles that govern private credit, GP underwriting, or sovereign regulatory frameworks. 
 
-### Phase I: .
+### Phase I:
 
 THE REGIME SHIF
 
@@ -60,7 +60,7 @@ It is capital mobility.
 
 This has elevated the strategic importance of crypto backed collateral systems that can be architected within institutional guardrails, without resorting to speculative leverage. 
 
-### Phase II: .
+### Phase II:
 
 TECHNICAL MECHANIC
 
@@ -146,7 +146,7 @@ To meet these standards, digital collateral structures must be documented with h
 
 When structured correctly, the asset behaves as a high mobility pledgeable instrument without introducing systemic risk into the acquisition. 
 
-### Phase III: .
+### Phase III:
 
 THE PARTNERSHIP MODEL Roials Capital acts as a strategic navigator within this architecture.
 
@@ -186,7 +186,7 @@ These assets carry physical, regulatory, and cashflow characteristics that diffe
 
 Roials Capital ensures technical alignment between digital collateral frameworks and the asset class specific underwriting used in Alberta basin acquisitions. 
 
-### Phase IV: .
+### Phase IV:
 
 THE STEWARDSHIP FILTER Stewardship in capital architecture is the discipline of deploying resources without waste, distortion, or misalignment.
 
@@ -218,7 +218,7 @@ It reduces dependency on dilutionary financing structures, supports responsible 
 
 This is particularly relevant for UHNWIs who seek to support GP partners without compromising generational capital frameworks. 
 
-### Phase V: .
+### Phase V:
 
 DECISION MAKING FRAMEWORK FOR THE ALLOCATOR Institutional allocators evaluating the role of borderless digital collateral in M and A should apply a five vector assessment.
 

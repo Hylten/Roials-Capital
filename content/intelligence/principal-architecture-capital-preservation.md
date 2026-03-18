@@ -48,7 +48,7 @@ It is not advisory.
 
 It is operational doctrine. 
 
-### Phase I: .
+### Phase I:
 
 THE REGIME SHIF
 
@@ -104,7 +104,7 @@ Few understand this.
 
 Even fewer execute it. 
 
-### Phase II: .
+### Phase II:
 
 TECHNICAL MECHANIC
 
@@ -168,7 +168,7 @@ When these mechanics align, capital becomes self-defending.
 
 The structure protects itself even when the macro environment does not. 
 
-### Phase III: .
+### Phase III:
 
 THE
 
@@ -234,7 +234,7 @@ LPs do not invest in communication.
 
 They invest in structure. 
 
-### Phase IV: .
+### Phase IV:
 
 THE STEWARDSHIP FILTER Every institutional decision passes through the stewardship filter.
 
@@ -301,7 +301,7 @@ LPs who partner with us do not receive a portfolio.
 
 They receive a covenant of stewardship. 
 
-### Phase V: .
+### Phase V:
 
 EXIT The final signal of discipline is a metric, not a statement.
 

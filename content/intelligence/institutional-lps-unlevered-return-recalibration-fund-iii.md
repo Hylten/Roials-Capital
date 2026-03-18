@@ -180,7 +180,7 @@ The track record is the architecture.
 
 The architecture is the truth. 
 
-### Phase II: I
+### Phase II:
 
 THE CORE REASON: INSTITUTIONS NOW REWARD SOVEREIGN AUTONOMY IN VALUE CREATION The deeper motive is sovereignty.
 

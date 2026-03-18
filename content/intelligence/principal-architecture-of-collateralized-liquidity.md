@@ -116,7 +116,7 @@ Now-the mechanics.
 
 Collateralized liquidity operates on a tri-
 
-### Axis I
+### Axis I:
 
 ntelligence stack: asset intelligence, jurisdictional intelligence, and temporal intelligence.
 

@@ -36,7 +36,7 @@ The regime that governed the past twelve years is finished.
 
 The next regime rewards precision, adaptability, and institutional architecture. 
 
-### Phase I: .
+### Phase I:
 
 THE REGIME SHIF
 
@@ -88,7 +88,7 @@ Now operators of efficient credit platforms dictate them.
 
 That shift is irreversible. 
 
-### Phase II: .
+### Phase II:
 
 TECHNICAL MECHANIC
 
@@ -176,7 +176,7 @@ The market rewards those who build internal execution engines with less than
 
 Anything slower is obsolete. 
 
-### Phase III: .
+### Phase III:
 
 THE
 
@@ -252,7 +252,7 @@ They allocate to systems, not personalities.
 
 Fund-III must operate like an institutional machine. 
 
-### Phase IV: .
+### Phase IV:
 
 THE STEWARDSHIP FILTER The resources we manage are not arbitrary.
 
@@ -304,7 +304,7 @@ Growth follows clean mechanics.
 
 Never the opposite. 
 
-### Phase V: .
+### Phase V:
 
 EXIT The exit 
 

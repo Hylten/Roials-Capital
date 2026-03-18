@@ -26,7 +26,7 @@ This briefing clarifies
 
  , the mechanics that follow, and the institutional consequences for Fund-III and beyond. 
 
-### Phase I: .
+### Phase I:
 
 THE REGIME SHIF
 
@@ -84,7 +84,7 @@ The structural landscape confirms this.
 
 The next vintage belongs to the funds that replace intuition with architecture. 
 
-### Phase II: .
+### Phase II:
 
 TECHNICAL MECHANIC
 
@@ -176,7 +176,7 @@ Default probability compresses.
 
 Capital survives. 
 
-### Phase III: .
+### Phase III:
 
 THE
 
@@ -254,7 +254,7 @@ Special mandates are not distractions.
 
 They are yield stabilizers that supply the fund with multi-regime resilience. 
 
-### Phase IV: .
+### Phase IV:
 
 THE STEWARDSHIP FILTER Financial architecture is ultimately stewardship.
 
@@ -303,7 +303,7 @@ Stewardship in Fund-III means allocating capital only where dominion can be exer
 
 Nothing else qualifies. 
 
-### Phase V: .
+### Phase V:
 
 EXIT Target loss ratio: below
 

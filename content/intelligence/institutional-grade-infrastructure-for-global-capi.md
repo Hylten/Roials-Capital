@@ -331,7 +331,7 @@ Framework for Asset Hardening in Modern Markets The framework operates on four s
 
 . 
 
-### Layer I: .
+### Layer I:
 
 Verification Identity.
 
@@ -341,7 +341,7 @@ Lineage.
 
 No velocity until verification is absolute. 
 
-### Layer II: .
+### Layer II:
 
 Structural Order Corporate architecture.
 
@@ -351,7 +351,7 @@ Governance coherency.
 
 Without structural order, no mandate can anchor. 
 
-### Layer III: .
+### Layer III:
 
 Capital Enablement Liquidity lines.
 
@@ -363,7 +363,7 @@ Enablement is not activation.
 
 It is readiness. 
 
-### Layer IV: .
+### Layer IV:
 
 Institutional Scaling Once hardened, scale becomes mechanical.
 

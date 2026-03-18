@@ -16,7 +16,7 @@ This is the defining condition that informs all current discussions on alignment
 
 2032. 
 
-### Phase I: .
+### Phase I:
 
 THE REGIME SHIF
 
@@ -60,7 +60,7 @@ The convergence of these forces redefines private credit as a structural market,
 
 It moves the allocator from passive coupon harvesting toward active partnership with GPs capable of engineering liquidity, operational resilience, and disciplined underwriting across sectors. 
 
-### Phase II: .
+### Phase II:
 
 TECHNICAL MECHANIC
 
@@ -150,7 +150,7 @@ Partners such as NAEO address these requirements with institutional grade monito
 
 The objective is to create a risk adjusted credit environment around energy assets that is decoupled from the volatility traditionally associated with the commodity cycle. 
 
-### Phase III: .
+### Phase III:
 
 THE PARTNERSHIP MODEL Roials Capital operates not as a fund manager but as a strategic navigator, institutional introducer, and architecture designer for allocators.
 
@@ -226,7 +226,7 @@ Every
 
 The objective is to support institutional decision making by delivering clarity, not persuasion. 
 
-### Phase IV: .
+### Phase IV:
 
 THE STEWARDSHIP FILTER Stewardship is the discipline of resource management anchored in restraint, governance, and accountability.
 
@@ -268,7 +268,7 @@ Long Horizon Asset Responsibility In energy and industrial assets, stewardship e
 
 NAEO exemplifies this through rigorous AER engagement and proactive abandonment liability management. 
 
-### Phase V: .
+### Phase V:
 
 DECISION MAKING LENS FOR THE ALLOCATOR The allocator evaluating alignment in the modern private credit environment operates within constraints that demand precision.
 

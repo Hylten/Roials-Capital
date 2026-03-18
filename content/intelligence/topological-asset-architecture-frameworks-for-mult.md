@@ -124,7 +124,7 @@ If this
 
 For that reason, the liquidity 
 
-### Layer I
+### Layer I:
 
 s engineered to operate with structural redundancy and minimal sensitivity to external volatility.
 
@@ -162,7 +162,7 @@ Convexity becomes a stabilizer rather than a destabilizer.
 
 This 
 
-### Layer I
+### Layer I:
 
 ntegrates controlled options logic, interest rate curvature, and synthetic convexity coding.
 
@@ -178,7 +178,7 @@ A topological architecture must absorb, redirect, and re distribute volatility w
 
 This 
 
-### Layer I
+### Layer I:
 
 s designed to intercept volatility before it reaches the higher sensitivity layers of the portfolio.
 
@@ -192,7 +192,7 @@ Mechanisms include:
 
 - Low correlation hedging channels The volatility 
 
-### Layer I
+### Layer I:
 
 s strictly governed to avoid synthetic correlation creation
 
@@ -242,7 +242,7 @@ Layer Seven: Black Surface Protection Layer Every portfolio needs catastrophic p
 
 This 
 
-### Layer I
+### Layer I:
 
 s engineered for rare events that deform the entire topology of global markets.
 
@@ -312,7 +312,7 @@ Key invariants include:
 
 - Growth 
 
-### Layer I
+### Layer I:
 
 ndependence By protecting these invariants, the system remains structurally stable.
 

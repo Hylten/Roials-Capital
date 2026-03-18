@@ -162,19 +162,19 @@ The filtration stage is the hidden gate that protects the allocator.
 
 The Roials filtration sequence operates in four ultra-short phases. 
 
-### Phase I: .
+### Phase I:
 
 Mandate alignment verification. 
 
-### Phase II: .
+### Phase II:
 
 Covenant compatibility check. 
 
-### Phase III: .
+### Phase III:
 
 Liquidity stress simulation. 
 
-### Phase IV: .
+### Phase IV:
 
 Counterparty ethics clearance.
 

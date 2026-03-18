@@ -86,7 +86,7 @@ Covenant enforced.
 
 The facility requires five mechanical layers. 
 
-### Layer I
+### Layer I:
 
 Eligibility Grid The eligible asset pool must be objective
 
@@ -108,7 +108,7 @@ The assets usually include:
 
 If it is not measurable at a weekly frequency, it is not admissible. 
 
-### Layer I: I
+### Layer I:
 
 Priority-of-Claim Waterfall Liquidity must be sequenced through a priority stack:
 
@@ -120,7 +120,7 @@ Priority-of-Claim Waterfall Liquidity must be sequenced through a priority stack
 
 It establishes certainty for lenders and ensures the sovereign does not cannibalize its own future liquidity. 
 
-### Layer II: I
+### Layer II:
 
 LTV Curves and Risk Hardening Traditional sovereign facilities use flat LTV tables.
 
@@ -140,7 +140,7 @@ Hardening techniques include:
 
 - Volatility indexed advance rates 
 
-### Layer I: V
+### Layer I:
 
 Recovery Mechanics Institutional recovery must be deterministic.
 
@@ -158,7 +158,7 @@ Recovery channels often include:
 
 Facilities with explicit recovery mechanics evolve into institutional assets. 
 
-### Layer V
+### Layer V:
 
 Liquidity Replenishment Algorithm A sovereign must replenish.
 

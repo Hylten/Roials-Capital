@@ -12,7 +12,7 @@ Sovereign allocators have moved into this gap with an operating philosophy that 
 
 Their presence is restructuring the opportunity map for private equity, private credit, and strategic resource ownership across North America and Europe. 
 
-### Phase I: .
+### Phase I:
 
 THE REGIME SHIF
 
@@ -44,7 +44,7 @@ Sovereign capital has moved into sectors that require long term stability of cap
 
 Private credit funds, mid market buyout platforms, and sector specialist sponsors are now repositioning their capital raising strategies toward sovereign archetypes, because sovereign allocators value strategic alignment over benchmark relative performance. 
 
-### Phase II: .
+### Phase II:
 
 TECHNICAL MECHANIC
 
@@ -135,7 +135,7 @@ Add on acquisition pipelines must be articulated through operational synergies, 
 
 Sovereign allocators are less sensitive to vintage year dispersion and more focused on multi cycle stability. 
 
-### Phase III: .
+### Phase III:
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator and institutional introducer.
 
@@ -167,7 +167,7 @@ Roials Capital is not the capital deployer.
 
 It is the architect that organizes the institutional ecosystem around operators, managers, and sovereign allocators. 
 
-### Phase IV: .
+### Phase IV:
 
 THE STEWARDSHIP FILTER Stewardship is the discipline of resource management grounded in non wasteful capital deployment.
 
@@ -211,7 +211,7 @@ It is precision.
 
 It is the ability to convert a resource, acquisition, or credit situation into a hardened institutional structure. 
 
-### Phase V: .
+### Phase V:
 
 DECISION FRAMEWORK FOR THE ALLOCATOR The institutional allocator navigating this regime shift requires a structured lens.
 

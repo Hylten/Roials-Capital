@@ -196,7 +196,7 @@ In a downturn:
 
 The larger the fleet, the smoother the curve. 
 
-### Phase II: .
+### Phase II:
 
 PRINCIPAL VOICE Clear.
 
@@ -230,7 +230,7 @@ One sets the perimeter.
 
 The other fills it. 
 
-### Phase III: .
+### Phase III:
 
 SEQUENTIAL ARCHITECTURE FOR FUND‑III OPERATORS Now we move to direct applicability for Fund‑III and above.
 
@@ -242,7 +242,7 @@ Consolidation meets that requirement.
 
 A Fund‑III operator should focus on four architectural pillars:
 
-### Pillar I: .
+### Pillar I:
 
 Platform Calibration You do not buy a platform because it is large.
 
@@ -262,7 +262,7 @@ Key indicators:
 
 - at least two service lines with regulatory forcing mechanisms If the platform cannot absorb add‑ons, the consolidation collapses into noise. 
 
-### Pillar II: .
+### Pillar II:
 
 Add‑On Sequencing The order of acquisitions matters more than the total number acquired.
 
@@ -292,7 +292,7 @@ Strategic outliers (only when needed) Incorrect Sequence:
 
 Trajectory determines multiple. 
 
-### Pillar III: .
+### Pillar III:
 
 The Pricing Paradox In fragmented markets, pricing is rarely rational.
 
@@ -314,7 +314,7 @@ It aligns price with value.
 
 Institutional LPs appreciate this because price discipline is moral discipline expressed economically. 
 
-### Pillar IV: .
+### Pillar IV:
 
 Data Superiority Data is not technology.
 

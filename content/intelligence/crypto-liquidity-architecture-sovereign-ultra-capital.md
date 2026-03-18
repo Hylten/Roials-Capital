@@ -28,7 +28,7 @@ Order is not an option.
 
 It is a mandate. 
 
-### Phase I: .
+### Phase I:
 
 THE REGIME SHIF
 
@@ -76,7 +76,7 @@ Not through ETFs.
 
 Through architecture. 
 
-### Phase II: .
+### Phase II:
 
 TECHNICAL MECHANIC
 
@@ -170,7 +170,7 @@ Crypto stops being speculative.
 
 It becomes a collateral substrate. 
 
-### Phase III: .
+### Phase III:
 
 THE
 
@@ -254,7 +254,7 @@ Real assets remain the core.
 
 The system integrates both without friction. 
 
-### Phase IV: .
+### Phase IV:
 
 THE STEWARDSHIP FILTER Stewardship is not softness.
 
@@ -304,7 +304,7 @@ It systematically eliminates waste and enforces productive capital.
 
 Crypto liquidity becomes a tool of dominion when placed under disciplined authority. 
 
-### Phase V: .
+### Phase V:
 
 EXIT THE MANDAT
 

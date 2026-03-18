@@ -14,7 +14,7 @@ Tokenized real estate is not a speculative instrument.
 
 It is a structural evolution in the transmission mechanics of ownership, custody, and settlement. 
 
-### Phase I: .
+### Phase I:
 
 THE REGIME SHIF
 
@@ -48,7 +48,7 @@ Tokenized real estate entered this regime as a structural response, not an innov
 
 It directly aligns with the global allocator’s requirement for traceability, settlement certainty, and cross-jurisdictional regulatory synchronization. 
 
-### Phase II: .
+### Phase II:
 
 TECHNICAL MECHANIC
 
@@ -120,7 +120,7 @@ Tokenization eliminates multiple layers of reconciliation.
 
 The distinction is operational, not conceptual, but materially impacts the risk architecture and regulatory interaction points. 
 
-### Phase III: .
+### Phase III:
 
 THE PARTNERSHIP MODEL Roials Capital functions as a strategic navigator for allocators evaluating tokenized real estate platforms and the integration points with Fund-III capital raising mandates.
 
@@ -148,7 +148,7 @@ Tokenization only strengthens a fund if the underlying platform is architected f
 
 Roials Capital positions itself as the interpreter and evaluator of these structures. 
 
-### Phase IV: .
+### Phase IV:
 
 THE STEWARDSHIP FILTER Stewardship is defined as the disciplined non-wasteful management of capital, time, and underlying assets.
 
@@ -174,7 +174,7 @@ It is a technical discipline that requires efficient deployment channels and tra
 
 Tokenized liquidity provides the infrastructure for this discipline to manifest operationally. 
 
-### Phase V: .
+### Phase V:
 
 ALLOCATOR LENS AND STRATEGIC POSITIONING Allocators evaluating tokenization within real estate and Fund-III expansion pipelines should internalize several structural lenses.
 

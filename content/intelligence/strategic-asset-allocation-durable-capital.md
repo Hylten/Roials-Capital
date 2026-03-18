@@ -38,7 +38,7 @@ What worked in 2014 is a liability in
 
 2026. 
 
-### Phase I: .
+### Phase I:
 
 THE REGIME SHIF
 
@@ -114,7 +114,7 @@ The sequence creates the runway.
 
 Without the sequence, the strategy collapses. 
 
-### Phase II: .
+### Phase II:
 
 TECHNICAL MECHANIC
 
@@ -206,7 +206,7 @@ A recovery factor below
 
 Durable capital is always anchored to recoverability. 
 
-### Phase III: .
+### Phase III:
 
 THE
 
@@ -298,7 +298,7 @@ LPs want optionality.
 
 They invest in GPs who can create optionality as an operating system, not as a side project. 
 
-### Phase IV: .
+### Phase IV:
 
 THE STEWARDSHIP FILTER Durable capital is a moral structure before it is a financial one.
 
@@ -354,7 +354,7 @@ Liquidity evaporates when management relaxes discipline.
 
 Long term solvency requires conviction, not negotiation. 
 
-### Phase V: .
+### Phase V:
 
 EXIT Fund-III durability is validated by one metric.
 

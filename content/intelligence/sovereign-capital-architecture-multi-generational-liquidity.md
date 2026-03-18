@@ -176,7 +176,7 @@ Counterparty Verification.
 
 Roials Capital performs a multi 
 
-### Layer I
+### Layer I:
 
 nstitutional filter to identify operational partners whose governance, stewardship, technical discipline, and balance sheet hygiene are aligned with long horizon capital.
 

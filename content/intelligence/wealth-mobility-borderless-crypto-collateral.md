@@ -177,7 +177,7 @@ A competitive auction is scheduled.
 
 The PE operator instead uses a borderless crypto collateral system to secure immediate negotiation leverage. 
 
-### Step I: .
+### Step I:
 
 Collateral Inventory The UHNW anchor investor holds:
 
@@ -192,7 +192,7 @@ Collateral Inventory The UHNW anchor investor holds:
 The system applies a 1.
 5 enhancement factor due to collateral time lock and volatility hedging. 
 
-### Step II: .
+### Step II:
 
 Yield to Liquidity Curve Modelling The operator models the liquidity window required.
 
@@ -210,7 +210,7 @@ Based on oracle data, the model advises:
 
 - 38 percent must be unlocked for immediate deployment This maintains capital efficiency while ensuring readiness. 
 
-### Step III: .
+### Step III:
 
 Cross Border Portability Due to MiFID II sensitivities, the operator must maintain full regulatory cleanliness.
 
@@ -228,7 +228,7 @@ Collateral verification latency:
 
 Competitive advantage becomes structural, not situational. 
 
-### Step IV: .
+### Step IV:
 
 Seller Engagement The seller is facing operational insolvency within 
 
@@ -246,7 +246,7 @@ This triggers a negotiated withdrawal of two competing bidders.
 
 The operator secures exclusivity. 
 
-### Step V: .
+### Step V:
 
 Acquisition Execution The BidCo issues capital in tranches:
 
@@ -262,7 +262,7 @@ Settlement completes within
 
 36 hours. 
 
-### Step VI: .
+### Step VI:
 
 Post Acquisition Liquidity Reset Due to instant rehypothecation, 
 

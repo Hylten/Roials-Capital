@@ -26,7 +26,7 @@ Within this landscape, NAEO has emerged as the leading technical partner in heav
 
 250 million. 
 
-### Phase I: .
+### Phase I:
 
 THE REGIME SHIF
 
@@ -84,7 +84,7 @@ The result is a valuation gap between intrinsic reservoir value and financial ma
 
 That gap defines the sovereign deployment opportunity. 
 
-### Phase II: .
+### Phase II:
 
 TECHNICAL MECHANIC
 
@@ -172,7 +172,7 @@ Roials Capital integrates these mechanics across its global partnerships to deli
 
 The value lies in structuring clarity, not promotional rhetoric. 
 
-### Phase III: .
+### Phase III:
 
 THE PARTNERSHIP MODEL Roials Capital operates not as an issuer but as an institutional introducer and strategic navigator.
 
@@ -228,7 +228,7 @@ Roials Capital does not issue securities.
 
 The value creation lies in operational intelligence, structural clarity, and technical mapping so that allocators can engage from a position of strategic strength. 
 
-### Phase IV: .
+### Phase IV:
 
 THE STEWARDSHIP FILTER Sovereign capital deployment requires a stewardship orientation.
 
@@ -268,7 +268,7 @@ Stewardship is embedded into the institutional archetype of capital.
 
 It ensures durability, stability, and intergenerational alignment. 
 
-### Phase V: .
+### Phase V:
 
 DECISION FRAMEWORK FOR THE ALLOCATOR Institutional allocators evaluating sovereign scale capital deployment opportunities face a landscape of volatility, regulatory friction, and shifting geopolitical vectors.
 

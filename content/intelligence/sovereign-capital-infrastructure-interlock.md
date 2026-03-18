@@ -20,7 +20,7 @@ We see it clearly because we operate where timing penalties destroy entire manda
 
 Order is not an option. 
 
-### Phase I: .
+### Phase I:
 
 THE REGIME SHIF
 
@@ -126,7 +126,7 @@ Delay is waste.
 
 Waste is disqualifying. 
 
-### Phase II: .
+### Phase II:
 
 TECHNICAL MECHANIC
 
@@ -254,7 +254,7 @@ Nothing opaque.
 
 Nothing improvisational. 
 
-### Phase III: .
+### Phase III:
 
 THE
 
@@ -378,7 +378,7 @@ Focus earns scale commitments.
 
 Scale commitments accelerate everything. 
 
-### Phase IV: .
+### Phase IV:
 
 THE STEWARDSHIP FILTER When national-level capital is entrusted to a GP, the stewardship burden intensifies.
 
@@ -446,7 +446,7 @@ No excuses.
 
 No opacity. 
 
-### Phase V: .
+### Phase V:
 
 EXIT Target yield displacement threshold:
 

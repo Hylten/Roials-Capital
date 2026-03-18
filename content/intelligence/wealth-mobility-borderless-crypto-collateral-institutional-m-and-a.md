@@ -88,7 +88,7 @@ The mechanics are outlined below.
 
 Custodial Integrity 
 
-### Layer I
+### Layer I:
 
 nstitutional-grade collateral must reside in a custodial environment with:
 

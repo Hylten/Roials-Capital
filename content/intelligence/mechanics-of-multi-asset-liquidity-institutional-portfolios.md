@@ -16,7 +16,7 @@ It has become a primary determinant of institutional resilience.
 
 The allocator who navigates this regime shift with structural clarity will preserve optionality while enhancing opportunity velocity across Buyouts, Asset-Based Lending, and real asset exposures. 
 
-### Phase I: .
+### Phase I:
 
 THE REGIME SHIF
 
@@ -46,7 +46,7 @@ Each category operates under different risk parameters, yet all share one common
 
 Balance sheet flexibility is the institutional advantage. 
 
-### Phase II: .
+### Phase II:
 
 TECHNICAL MECHANIC
 
@@ -144,7 +144,7 @@ E
 
 These mechanics allow institutional allocators to treat energy assets as long duration cash flow anchors, both collateralized and volumetric, which reinforce the multi asset liquidity matrix. 
 
-### Phase III: .
+### Phase III:
 
 THE PARTNERSHIP MODEL The role of Roials Capital is to operate as a neutral strategic navigator across these domains.
 
@@ -190,7 +190,7 @@ Special Mandates These include NAEO energy acquisitions in the 50M to 250M range
 
 In the case of NAEO, the engagement emphasizes technical reservoir intelligence, regulatory clarity, and operational forecasting. 
 
-### Phase IV: .
+### Phase IV:
 
 THE STEWARDSHIP FILTER Institutional stewardship is the discipline of non wasteful capital deployment.
 
@@ -216,7 +216,7 @@ Stewardship becomes a structural filter through which the allocator evaluates al
 
 It is a recalibration mechanism that ensures the portfolio remains aligned with long horizon objectives. 
 
-### Phase V: .
+### Phase V:
 
 DECISION MAKING LENS FOR THE ALLOCATOR Institutional allocators operate within a new regime.
 

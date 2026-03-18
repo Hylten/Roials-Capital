@@ -38,7 +38,7 @@ We harden the foundations before we scale the exposures.
 
 This briefing outlines the institutional framework required for Fund-III operators who intend to raise at velocity, execute at precision, and create liquidity on command. 
 
-### Phase I: .
+### Phase I:
 
 THE REGIME SHIF
 
@@ -86,7 +86,7 @@ THE REGIME SHIFT
 
 Capital follows the managers who build institutional machines, not the managers who improvise. 
 
-### Phase II: .
+### Phase II:
 
 TECHNICAL MECHANIC
 
@@ -142,7 +142,7 @@ Anything less signals amateurism.
 
 Capital sees amateurism immediately. 
 
-### Phase III: .
+### Phase III:
 
 THE
 
@@ -219,7 +219,7 @@ The
 
 Nothing else matters. 
 
-### Phase IV: .
+### Phase IV:
 
 THE STEWARDSHIP FILTER Capital is never neutral.
 
@@ -275,7 +275,7 @@ The LP community senses this immediately.
 
 Capital flows where stewardship is provable. 
 
-### Phase V: .
+### Phase V:
 
 EXIT We close with one controlling metric.
 

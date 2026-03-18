@@ -20,7 +20,7 @@ The objective is to provide institutional level clarity on the mechanisms, filte
 
 The analysis is clinically centered on three domains that dominate current allocator attention: Kapitalanskaffning for Buyout and Add on execution, Liquidity Engineering through ABL and hybrid security structures, and Special Mandates that connect North American energy opportunities with European MiFID II compliant family capital. 
 
-### Phase I: .
+### Phase I:
 
 THE REGIME SHIF
 
@@ -50,7 +50,7 @@ This created an environment where strategic private credit has become a core gov
 
 The convergence of energy supply tightness, reduced public market capital access, and a global shift toward bilateral lending has elevated the relevance of specialized credit partners who can operate across jurisdictions, asset classes, and industrial cycles. 
 
-### Phase II: .
+### Phase II:
 
 TECHNICAL MECHANIC
 
@@ -104,7 +104,7 @@ Their discipline is not based on speculative drilling.
 
 It is based on engineered recovery, fluid mobility management, thermal efficiency, and multi year field development frameworks that align with institutional underwriting criteria. 
 
-### Phase III: .
+### Phase III:
 
 THE PARTNERSHIP MODEL.
 
@@ -158,7 +158,7 @@ The objective is alignment, not marketing.
 
 The role is to introduce, structure, and verify. 
 
-### Phase IV: .
+### Phase IV:
 
 THE STEWARDSHIP FILTER .
 
@@ -204,7 +204,7 @@ Stewardship calibrates this.
 
 The goal is disciplined velocity. 
 
-### Phase V: .
+### Phase V:
 
 DECISION MAKING LENS FOR ALLOCATORS Allocators in 2026 are navigating an environment defined by scarcity of high quality credits, geopolitical fragmentation, and a growing separation between productive and non productive capital.
 

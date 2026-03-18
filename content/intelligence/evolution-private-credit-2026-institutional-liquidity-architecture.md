@@ -16,7 +16,7 @@ They are navigating operating regimes.
 
 Every decision point has shifted toward collateral integrity, cash flow stability, and the ability to deploy liquidity into real economy assets with definable recovery mechanics. 
 
-### Phase I: .
+### Phase I:
 
 THE REGIME SHIF
 
@@ -42,7 +42,7 @@ Market tightening has increased the value of structurally senior claims, while a
 
 The result is a regime defined by capital scarcity relative to asset robustness, where liquidity has outsized pricing power and underwriting discipline is rewarded through access to collaterally overbuilt opportunities. 
 
-### Phase II: .
+### Phase II:
 
 TECHNICAL MECHANIC
 
@@ -114,7 +114,7 @@ Institutional Liquidity Paths is now a strategic discipline.
 
 It aligns structuring, regulatory constraints, tax positioning, and asset class specificity into a unified deployment algorithm. 
 
-### Phase III: .
+### Phase III:
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator and institutional introducer within this reengineered ecosystem.
 
@@ -168,7 +168,7 @@ It is operational validation and technical oversight.
 
 Allocators require these capabilities before they deploy structured energy credit. 
 
-### Phase IV: .
+### Phase IV:
 
 THE STEWARDSHIP FILTER Stewardship functions as a discipline of non wasteful resource management.
 
@@ -188,7 +188,7 @@ Structures that encourage speculation rather than productivity are filtered out.
 
 Structures that encourage resilience, asset strengthening, and disciplined operating expansion are elevated. 
 
-### Phase V: .
+### Phase V:
 
 THE PORTFOLIO CALIBRATION LENS In 2026, allocators require a recalibrated framework to assess private credit's role inside a multi sleeve institutional portfolio.
 

@@ -20,7 +20,7 @@ It is crypto-denominated wealth that can be formalized into compliant collateral
 
 The gap between mobility of wealth and mobility of collateral is the arena where institutional advantage is created. 
 
-### Phase I: .
+### Phase I:
 
 THE REGIME SHIF
 
@@ -53,7 +53,7 @@ The market consequence is an institutional mismatch: large pools of private weal
 
 This is the environment where borderless crypto collateral is emerging as an institutional archetype, not because of novelty, but because of its ability to collapse liquidity latency. 
 
-### Phase II: .
+### Phase II:
 
 TECHNICAL MECHANIC
 
@@ -65,13 +65,13 @@ It is a multi-layered architecture where digital assets are transformed into a r
 
 To achieve institutional treatment, three technical layers are required. 
 
-### Layer I: .
+### Layer I:
 
 Regulatory sanctification Custody must be structured under an entity that meets regulatory equivalence, often through MiFID II compliant European custodians, Dubai VARA aligned digital custodians, or US qualified custodians.
 
 The outcome is classification of the asset as secured, custodied, and subject to audit verification. 
 
-### Layer II: .
+### Layer II:
 
 Collateral conversion This stage converts digital assets into collateral recognizable under lending frameworks.
 
@@ -87,7 +87,7 @@ Tools include:
 
 Institutional acceptance depends not on the digital form of the asset, but on the legal enforceability, seniority, and liquidation pathway embedded in the structure. 
 
-### Layer III: .
+### Layer III:
 
 Liquidity integration Collateral is translated into usable liquidity by private credit lenders, M&A acquisition vehicles, or structured liquidity providers.
 
@@ -113,7 +113,7 @@ Predictability, not origin, is the determining factor.
 
 That predictability is engineered structurally. 
 
-### Phase III: .
+### Phase III:
 
 THE PARTNERSHIP MODEL Roials Capital serves as the strategic navigator within this system.
 
@@ -143,7 +143,7 @@ Across all mandates, the function is navigational.
 
 The objective is to create alignment between the wealth base and the acquisition vehicle so that capital can move with velocity, compliance, and structural defensibility. 
 
-### Phase IV: .
+### Phase IV:
 
 THE STEWARDSHIP FILTER Stewardship in this context is not moral abstraction.
 
@@ -183,7 +183,7 @@ Stewardship avoids short-term extraction logic.
 
 In cross-border M&A, stewardship ensures that crypto collateral is not used as speculative leverage but as a compliant mechanism for unlocking dormant purchasing power. 
 
-### Phase V: .
+### Phase V:
 
 DECISION-MAKING LENS FOR THE ALLOCATOR Institutional allocators evaluating this environment face a shift in their traditional due diligence logic.
 

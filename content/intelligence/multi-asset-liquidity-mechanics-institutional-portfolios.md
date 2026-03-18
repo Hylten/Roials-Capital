@@ -198,19 +198,19 @@ Five components:
 
 Liquidity Intelligence 
 
-### Layer II: .
+### Layer II:
 
 Capital Conversion 
 
-### Layer III: .
+### Layer III:
 
 Collateral Multiplex 
 
-### Layer IV: .
+### Layer IV:
 
 Jurisdictional Routing 
 
-### Layer V: .
+### Layer V:
 
 Sovereign Control Layer Each serves a distinct function.
 

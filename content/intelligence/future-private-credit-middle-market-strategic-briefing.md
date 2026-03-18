@@ -14,7 +14,7 @@ The outcome is a structurally persistent gap in credit formation that is materia
 
 Middle market private credit has therefore transitioned from a peripheral yield enhancer to an architectural pillar of institutional portfolios. 
 
-### Phase I: .
+### Phase I:
 
 THE REGIME SHIF
 
@@ -68,7 +68,7 @@ Enhanced control rights.
 
 Private lenders often negotiate 
 
-### Step I
+### Step I:
 
 n protections, cash flow sweep rights, and covenant structures unavailable in public markets.
 
@@ -88,7 +88,7 @@ Institutional allocators are no longer experimenting with the asset class.
 
 They are building long horizon exposure and integrating dedicated private credit sleeves into overall portfolio design. 
 
-### Phase II: .
+### Phase II:
 
 TECHNICAL MECHANIC
 
@@ -188,7 +188,7 @@ Our strategic partner, NAEO, focuses on conventional heavy oil operations with d
 
 These assets avoid high capex blowout risk and offer operational visibility critical for institutional allocators who require stability rather than speculative exposure. 
 
-### Phase III: .
+### Phase III:
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator and institutional introducer.
 
@@ -228,7 +228,7 @@ Allocators do not require persuasion.
 
 They require precise articulation of how a strategy integrates with their capital architecture. 
 
-### Phase IV: .
+### Phase IV:
 
 THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource deployment.
 
@@ -282,7 +282,7 @@ It is not a moral abstraction.
 
 It is a practical requirement for sustainable allocation. 
 
-### Phase V: .
+### Phase V:
 
 PORTFOLIO CALIBRATION FOR THE ALLOCATOR The current private credit cycle is defined by structural clarity.
 

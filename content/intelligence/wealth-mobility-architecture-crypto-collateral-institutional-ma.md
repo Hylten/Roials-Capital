@@ -150,7 +150,7 @@ Roials Capital provides institutional navigation, compliance oriented structurin
 
 For allocators evaluating acquisition pipelines, the next 
 
-### Step I
+### Step I:
 
 s a confidential strategy audit focused on balance sheet calibration, collateral optimization, and deployment timing.
 

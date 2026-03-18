@@ -308,7 +308,7 @@ Then we finalize the covenant design and operational triggers.
 
 Each 
 
-### Phase I
+### Phase I:
 
 s engineered with silence, precision, and sovereign intent
 
@@ -372,7 +372,7 @@ We treat the client’s capital as a sovereign system that must be respected, pr
 
 The Next 
 
-### Step I
+### Step I:
 
 f you require a sovereign balance sheet designed with institutional structural mechanics, executed with silence and authority, request a confidential audit.
 

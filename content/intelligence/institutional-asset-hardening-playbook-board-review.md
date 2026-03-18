@@ -44,7 +44,7 @@ The gatekeeping layer focuses on structural resilience under stress, and the pri
 
 The core mechanics of asset hardening revolve around three pillars. 
 
-### Pillar I
+### Pillar I:
 
 Balance Sheet Optimization Institutional-grade optimization begins with neutralizing fragility.
 
@@ -54,7 +54,7 @@ Board-level governance requires the removal of idiosyncratic risk that does not 
 
 Effective operators establish a balance sheet setup that generates predictability without constraining expansion velocity. 
 
-### Pillar I: I
+### Pillar I:
 
 Asset-Backed Frameworks Capital Structuring is not merely treasury management.
 
@@ -64,7 +64,7 @@ This includes the use of asset backed lending at conservative advance rates, cro
 
 Institutions prioritize liquidity architecture over nominal profitability because liquidity is the strategic determinant of Opportunity Velocity. 
 
-### Pillar II: I
+### Pillar II:
 
 Asset Hardening Asset hardening converts operational assets into financeable collateral that withstands institutional scrutiny.
 

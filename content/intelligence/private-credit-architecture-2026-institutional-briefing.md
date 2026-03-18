@@ -126,7 +126,7 @@ Collateral packages increasingly integrate:
 
 - 
 
-### Step I
+### Step I:
 
 n operational rights Asset hardening does not indicate distress.
 

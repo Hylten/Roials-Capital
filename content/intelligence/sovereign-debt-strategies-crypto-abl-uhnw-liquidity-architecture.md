@@ -16,7 +16,7 @@ This structural gap has pushed UHNW allocators toward non sovereign liquidity pa
 
 The fastest growing of these mechanisms is crypto backed asset based lending, functioning not as speculative leverage but as an engineered liquidity rail for balance sheet expansion, capital stack optimization, and controlled exposure migration. 
 
-### Phase I: .
+### Phase I:
 
 THE REGIME SHIF
 
@@ -74,7 +74,7 @@ The underwriting discipline is data deterministic.
 
 It offers a form of liquidity engineering that sovereign assets cannot replicate. 
 
-### Phase II: .
+### Phase II:
 
 TECHNICAL MECHANIC
 
@@ -170,7 +170,7 @@ UHNWIs are not pursuing crypto exposure.
 
 They are pursuing collateral mobility under regime constraints. 
 
-### Phase III: .
+### Phase III:
 
 THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator within this realignment.
 
@@ -214,7 +214,7 @@ Roials Capital provides operational intelligence, lender mapping, risk tier allo
 
 The firm operates as the introducer and strategist, not the counterparty and not the capital source. 
 
-### Phase IV: .
+### Phase IV:
 
 THE STEWARDSHIP FILTER Stewardship is not sentiment.
 
@@ -260,7 +260,7 @@ Stewardship is a filter that eliminates high friction liquidity solutions and el
 
 It aligns with UHNW preference for structural integrity over tactical improvisation. 
 
-### Phase V: .
+### Phase V:
 
 ALLOCATOR LENS AND NEXT STEPS For UHNWIs, family offices, and institutional LPs calibrating their liquidity architecture, three questions define the current landscape.
 
