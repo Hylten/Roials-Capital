@@ -19,7 +19,7 @@ For the High Net Worth and Ultra High Net Worth holders who understand that prot
 
 And that preservation is the quiet superiority behind every enduring dynasty.
 
-ROIALS CAPITAL operates inside that discipline.
+Roials Capital operates inside that discipline.
 
 We create liquidity against assets that others ignore.
 
@@ -41,7 +41,7 @@ Preservation cannot rely on outdated banking logic.
 
 It must rely on engineered financial architecture, on collateral optimization, on institutional credit practices that remain insulated from market turbulence.
 
-ROIALS CAPITAL builds those structures quietly.
+Roials Capital builds those structures quietly.
 
 Our clients operate within them confidently.
 
@@ -53,7 +53,7 @@ A deliberate strategy.
 
 A commitment to structural superiority.
 
-CONCLUSIO N
+CONCLUSION
 
 : Preservation Is the First Rule of Enduring Wealth There is no wealth without preservation.
 
@@ -79,9 +79,13 @@ Precise.
 
 Institutional.
 
-Request confidential audit TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+Request confidential audit TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

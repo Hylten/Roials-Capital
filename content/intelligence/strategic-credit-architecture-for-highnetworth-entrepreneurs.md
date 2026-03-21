@@ -5,7 +5,7 @@
 
 They design liquidity as a structural advantage, not a reactive tool.
 
-ROIALS CAPITAL operates in this space with a singular mandate.
+Roials Capital operates in this space with a singular mandate.
 
 We construct the credit architecture that allows substantial private wealth to function with institutional precision.
 
@@ -15,9 +15,9 @@ Our role is simple.
 
 We build the silent mechanics behind their capital velocity.
 
-The ROIALS CAPITAL Framework: principal authority Our clients do not require persuasion. They require structural clarity.
+The Roials Capital Framework: principal authority Our clients do not require persuasion. They require structural clarity.
 
-ROIALS CAPITAL operates with principal authority, providing the mechanics that normally remain hidden within institutional credit systems.
+Roials Capital operates with principal authority, providing the mechanics that normally remain hidden within institutional credit systems.
 
 We focus on:
 
@@ -73,7 +73,7 @@ HNWI and UHNW clients require:
 
 - Institutional pricing
 
-- Clear capital pathways ROIALS CAPITAL provides this by setting the rules rather than negotiating around them.
+- Clear capital pathways Roials Capital provides this by setting the rules rather than negotiating around them.
 
 Architects do not negotiate gravity.
 
@@ -93,7 +93,7 @@ The client moves.
 
 The market does not notice.
 
-Institutional Precision Without Institutional Bureaucracy HNWI and UHNW clients require the accuracy of an institution without inheriting the institutional drag. ROIALS CAPITAL builds that middle ground.
+Institutional Precision Without Institutional Bureaucracy HNWI and UHNW clients require the accuracy of an institution without inheriting the institutional drag. Roials Capital builds that middle ground.
 
 We apply institutional frameworks to underwriting, risk, legal, and collateralization.
 
@@ -101,7 +101,7 @@ We remove institutional friction from communication, execution timelines, and mu
 
 The result is a high‑trust, low‑visibility credit environment that functions with technical discipline and strategic silence.
 
-When Credit Becomes Strategy Credit is most powerful when it stops behaving like debt and starts behaving like architecture. This is the model we construct for ROIALS CAPITAL clients.
+When Credit Becomes Strategy Credit is most powerful when it stops behaving like debt and starts behaving like architecture. This is the model we construct for Roials Capital clients.
 
 When liquidity can be summoned without asset liquidation, without strategic interruption, and without public displacement, it becomes a form of authority.
 
@@ -111,7 +111,7 @@ A competitive instrument.
 
 A force multiplier for entrepreneurs who already operate at a rare level of sophistication.
 
-The ROIALS CAPITAL Mandate We are not a retail lender. We are not a traditional credit institution.
+The Roials Capital Mandate We are not a retail lender. We are not a traditional credit institution.
 
 We are an architect of liquidity for individuals who already control meaningful capital ecosystems.
 
@@ -125,11 +125,15 @@ For Entrepreneurs Who Operate Above the Noise If your assets exceed the threshol
 
 If you understand that credit is not a product, but a form of design.
 
-ROIALS CAPITAL will provide the architecture.
+Roials Capital will provide the architecture.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

@@ -1,4 +1,4 @@
---- title: "The Principal Compression: Why Institutional LPs Demand Higher Unlevered Returns in Fund‑III and Beyond" description: "A private Principal briefing on LP return recalibration, compression dynamics, and the new hierarchy shaping Fund‑III+ capital formation. Deep institutional analysis for GP leadership navigating modern capital scarcity, multi‑jurisdictional structuring, and the elevated bar for unlevered performance." date: "2026-03-04" author: "ROIALS CAPITAL" slug: "institutional-lps-unlevered-return-recalibration-Fund-III"
+--- title: "The Principal Compression: Why Institutional LPs Demand Higher Unlevered Returns in Fund‑III and Beyond" description: "A private Principal briefing on LP return recalibration, compression dynamics, and the new hierarchy shaping Fund‑III+ capital formation. Deep institutional analysis for GP leadership navigating modern capital scarcity, multi‑jurisdictional structuring, and the elevated bar for unlevered performance." date: "2026-03-04" author: "Roials Capital" slug: "institutional-lps-unlevered-return-recalibration-Fund-III"
 ---
 
 The pressure is real.
@@ -255,7 +255,7 @@ The market rarely speaks this bluntly, but this is the private truth: if a GP ca
 
 ASSET-BASED LENDING (10% )
 
-- THE GATES CLOSE FOR THE UNPREPARED ROIALS CAPITAL operates within strict boundaries.
+- THE GATES CLOSE FOR THE UNPREPARED Roials Capital operates within strict boundaries.
 
 When GPs request Asset-Based Lending to support working capital, acquisitions, or cross‑border liquidity, the institution demands controlled access.
 

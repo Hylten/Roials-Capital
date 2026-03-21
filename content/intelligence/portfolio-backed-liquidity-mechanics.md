@@ -1,4 +1,4 @@
---- title: "The Mechanics of Portfolio Backed Liquidity for Modern Private Capital" description: "An institutional briefing on structural liquidity engineering, balance sheet optimization, and portfolio backed capital architecture for contemporary private markets allocators operating under a post Basel III and AIFMD constrained environment." date: "2025-11-14" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "portfolio-backed-liquidity-mechanics"
+--- title: "The Mechanics of Portfolio Backed Liquidity for Modern Private Capital" description: "An institutional briefing on structural liquidity engineering, balance sheet optimization, and portfolio backed capital architecture for contemporary private markets allocators operating under a post Basel III and AIFMD constrained environment." date: "2025-11-14" author: "Roials Capital (Institutional Briefing)" slug: "portfolio-backed-liquidity-mechanics"
 ---
 
 The capital vacuum in North American private markets is not a function of asset scarcity.
@@ -229,9 +229,13 @@ Allocators, GPs, and institutional partners seeking a detailed mapping of liquid
 
 The audit addresses the precision mechanics necessary to maintain institutional grade momentum across the full private capital cycle. [END OF BRIEFING]
 
-# TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+# TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

@@ -1,4 +1,4 @@
---- title: "Institutional Grade Infrastructure for Global Capital" description: "Institutional-grade architecture for Fund-III capital formation, liquidity engineering, and energy-special mandate deployment across US and EU private markets." date: "2025-11-20" author: "ROIALS CAPITAL" slug: "institutional-grade-infrastructure-global-capital"
+--- title: "Institutional Grade Infrastructure for Global Capital" description: "Institutional-grade architecture for Fund-III capital formation, liquidity engineering, and energy-special mandate deployment across US and EU private markets." date: "2025-11-20" author: "Roials Capital" slug: "institutional-grade-infrastructure-global-capital"
 ---
 
 The structural gap is clear.
@@ -218,9 +218,13 @@ EXIT Our mandate is simple: reduce capital friction by
 
 For a confidential capital audit, initiate contact.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

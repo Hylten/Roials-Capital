@@ -1,4 +1,4 @@
---- title: "Silent Authority on the Modern Balance Sheet" description: "Institutional brief on capital formation for Fund-III, buyout-capable liquidity engineering, and mandate-driven acquisition structuring across US/EU regimes." date: "2025-12-19" author: "ROIALS CAPITAL" slug: "silent-authority-modern-balance-sheet"
+--- title: "Silent Authority on the Modern Balance Sheet" description: "Institutional brief on capital formation for Fund-III, buyout-capable liquidity engineering, and mandate-driven acquisition structuring across US/EU regimes." date: "2025-12-19" author: "Roials Capital" slug: "silent-authority-modern-balance-sheet"
 ---
 
 principal authority is not a stylistic choice.
@@ -487,9 +487,13 @@ Request a confidential capital audit to determine your current authority delta.
 
 Terminal metric: 1.6x liquidity coverage ratio.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

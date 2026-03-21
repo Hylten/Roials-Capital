@@ -7,7 +7,7 @@ Private credit has become the institutional core.
 
 Sovereign wealth dynamics are expanding in parallel, absorbing global yield, capital, and geopolitical influence at a rate not seen since post‑Bretton Woods restructuring.
 
-In this environment, ROIALS CAPITAL operates as a structural authority.
+In this environment, Roials Capital operates as a structural authority.
 
 We do not speculate.
 
@@ -55,7 +55,7 @@ For HNWI and UHNW decision-makers, private credit supports three outcomes:
 
 - Frictionless liquidity access.
 
-ROIALS CAPITAL aligns with these outcomes by Capital Structuring against private credit positions themselves, as well as broader classes of asset‑based collateral.
+Roials Capital aligns with these outcomes by Capital Structuring against private credit positions themselves, as well as broader classes of asset‑based collateral.
 
 The Rise of Asset Based Asset-Backed Frameworks as a Liquidity Engine Asset-Based Institutional Liquidity Paths is becoming the dominant method for the wealthy to unlock liquidity without creating tax events or compromising portfolio construction. Asset-Based Lending is not merely a financing tactic.
 
@@ -69,7 +69,7 @@ Family offices rely on it.
 
 Sovereigns institutionalize it.
 
-At ROIALS CAPITAL, the mechanics are straightforward: We lend against private credit positions.
+At Roials Capital, the mechanics are straightforward: We lend against private credit positions.
 
 We lend against asset‑based structures with definable value and enforceable rights.
 
@@ -107,7 +107,7 @@ Private credit enables that.
 
 Asset-Based Lending structures enable that.
 
-ROIALS CAPITAL enforces a simple structural discipline: Liquidity is a function of collateral intelligence.
+Roials Capital enforces a simple structural discipline: Liquidity is a function of collateral intelligence.
 
 We design Asset-Backed Frameworks frameworks that align with how sovereign funds deploy, secure, and repurpose capital.
 
@@ -129,7 +129,7 @@ This triad forms the foundation of modern high‑net‑worth capital.
 
 Collateral as a Strategic Asset Collateral used to be a safeguard. Now it is a strategic instrument.
 
-ROIALS CAPITAL’s framework treats collateral as an operational toolset.
+Roials Capital’s framework treats collateral as an operational toolset.
 
 We lend against private credit.
 
@@ -153,7 +153,7 @@ Sovereign wealth funds will continue expanding their global footprint.
 
 Asset based Institutional Liquidity Paths will underpin liquidity for every serious capital holder.
 
-ROIALS CAPITAL exists in the convergence zone of these currents.
+Roials Capital exists in the convergence zone of these currents.
 
 We design the systems.
 
@@ -171,7 +171,7 @@ Sovereign wealth models are not unique to nations.
 
 They are replicable at the private level when engineered correctly.
 
-ROIALS CAPITAL provides the mechanics for this engineering.
+Roials Capital provides the mechanics for this engineering.
 
 Building a Future‑Proof Liquidity Program The next decade will reward those who build systems instead of portfolios. Systems that preserve liquidity.
 
@@ -183,13 +183,13 @@ Private credit and Asset-Based Lending will be the critical tools in this evolut
 
 Sovereign wealth methodologies will serve as the blueprint.
 
-ROIALS CAPITAL provides the architecture.
+Roials Capital provides the architecture.
 
 The Road Ahead The future of private credit is defined by precision. The future of sovereign wealth is defined by scale.
 
 HNWI and UHNW individuals require frameworks that integrate both.
 
-This is where ROIALS CAPITAL operates: At the intersection of Monetization Architecture and institutional structure.
+This is where Roials Capital operates: At the intersection of Monetization Architecture and institutional structure.
 
 Not public.
 
@@ -197,7 +197,7 @@ Not speculative.
 
 Built for those who manage real weight.
 
-CONCLUSIO N
+CONCLUSION
 
 Private credit will continue to expand.
 
@@ -205,11 +205,15 @@ Sovereign wealth will continue to dominate.
 
 Asset based Strategic Collateralization will remain the liquidity mechanism of choice for serious capital.
 
-ROIALS CAPITAL stands as a structural partner for those who require institutional clarity with sovereign‑level discretion.
+Roials Capital stands as a structural partner for those who require institutional clarity with sovereign‑level discretion.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

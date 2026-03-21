@@ -9,7 +9,7 @@ For individuals whose balance sheets are dominated by private credit allocations
 
 The question is how to activate existing ones without producing friction, dilution, or unnecessary exposure.
 
-ROIALS CAPITAL operates inside that space.
+Roials Capital operates inside that space.
 
 The objective is simple.
 
@@ -63,7 +63,7 @@ These are the structural advantages previously reserved for institutional famili
 
 Through disciplined architecture, they become accessible at the UHNW scale.
 
-ROIALS CAPITAL: The Architecture Behind the Liquidity ROIALS CAPITAL provides the structural mechanics that transform core holdings into precision liquidity channels. Private credit based facilities.
+Roials Capital: The Architecture Behind the Liquidity Roials Capital provides the structural mechanics that transform core holdings into precision liquidity channels. Private credit based facilities.
 
 Asset based Strategic Collateralization architecture.
 
@@ -83,9 +83,13 @@ It is a framework.
 
 We build the framework.
 
-Soft CT A TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+Soft CT A TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

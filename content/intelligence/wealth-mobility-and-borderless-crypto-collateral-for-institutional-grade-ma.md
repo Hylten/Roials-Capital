@@ -13,7 +13,7 @@ Crypto collateral, when architected correctly, is none of those things on the su
 
 Which makes it one of the most powerful mobility instruments in modern wealth design.
 
-ROIALS CAPITAL operates within the zone where private credit mechanics, Asset-Based Lending logic, and crypto collateral interact without friction.
+Roials Capital operates within the zone where private credit mechanics, Asset-Based Lending logic, and crypto collateral interact without friction.
 
 This article defines that zone, frames the architecture, and establishes the rules for how borderless collateral transitions into traditional M&A firepower.
 
@@ -41,7 +41,7 @@ It is engineered.
 
 It is borderless in collateral and anchored in structure.
 
-The ROIALS CAPITAL Framework for Execution Our approach is concise:
+The Roials Capital Framework for Execution Our approach is concise:
 
 
 
@@ -85,7 +85,7 @@ It is immediate.
 
 Private credit and Asset-Based Lending are the structured channels that translate this mobility into traditional M&A capability.
 
-ROIALS CAPITAL stands at this intersection.
+Roials Capital stands at this intersection.
 
 Quietly.
 
@@ -93,9 +93,13 @@ Precisely.
 
 Institutionally.
 
-Request confidential audit TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+Request confidential audit TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

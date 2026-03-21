@@ -21,7 +21,7 @@ Compound strength.
 
 Avoid noise.
 
-This document outlines the structural architecture behind ROIALS CAPITAL’s deployment doctrine.
+This document outlines the structural architecture behind Roials Capital’s deployment doctrine.
 
 It is designed for institutional readers who treat capital as stewardship, not spectacle.
 
@@ -57,7 +57,7 @@ It is controlled.
 
 It is engineered.
 
-ROIALS CAPITAL maintains liquidity engineering thresholds aligned with institutional discipline:
+Roials Capital maintains liquidity engineering thresholds aligned with institutional discipline:
 
 - Crypto backed Monetization Architecture begins at two million USD.
 
@@ -129,7 +129,7 @@ Every risk removed increases authority.
 
 They require structural alignment.
 
-ROIALS CAPITAL deploys only into frameworks that prioritize:
+Roials Capital deploys only into frameworks that prioritize:
 
 - Biblical stewardship ethics.
 
@@ -171,7 +171,7 @@ The Gnosjö ethos produces:
 
 - Long-term loyalties.
 
-This ethos aligns seamlessly with ROIALS CAPITAL’s doctrine.
+This ethos aligns seamlessly with Roials Capital’s doctrine.
 
 It rejects spectacle.
 
@@ -251,7 +251,7 @@ Principals do not speculate.
 
 Principals govern through intelligence.
 
-ROIALS CAPITAL operates with intelligence systems that capture:
+Roials Capital operates with intelligence systems that capture:
 
 - Counterparty behavior.
 
@@ -279,7 +279,7 @@ Not reaction.
 
 # Multi-Layered Protection Framework Discrete deployment must be protected at multiple layers.
 
-ROIALS CAPITAL structures protection in four tiers.
+Roials Capital structures protection in four tiers.
 
 1.
 
@@ -381,9 +381,13 @@ Only mandate.
 
 ### Step I: s obvious. Request confidential audit.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

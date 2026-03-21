@@ -1,4 +1,4 @@
---- title: "Sovereign Pathways for Strategic Capital Migration" description: "Institutional brief on jurisdictional migration, capital hardening, and cross-border structuring for UHNW principals allocating into Fund-III buyouts, Asset-Based Lending liquidity frames, and energy-side special mandates." date: "2025-07-14" author: "ROIALS CAPITAL" slug: "sovereign-pathways-strategic-capital-migration"
+--- title: "Sovereign Pathways for Strategic Capital Migration" description: "Institutional brief on jurisdictional migration, capital hardening, and cross-border structuring for UHNW principals allocating into Fund-III buyouts, Asset-Based Lending liquidity frames, and energy-side special mandates." date: "2025-07-14" author: "Roials Capital" slug: "sovereign-pathways-strategic-capital-migration"
 ---
 
 Strategic capital migration is no longer a secondary dimension of UHNW wealth governance.
@@ -67,7 +67,7 @@ Structural mobility signals institutional maturity.
 
 The brief that follows outlines the principal pathways for strategic capital migration optimized for Fund-III+ capital raising (80%), Monetization Architecture and Asset-Based Lending structuring (10%), and special mandates in North American energy and EU MiFID II acquisition corridors (10%).
 
-The lens is ROIALS CAPITAL.
+The lens is Roials Capital.
 
 The tone is principal.
 
@@ -529,7 +529,7 @@ Sovereignty without migration is incomplete.
 
 This is the missing layer for UHNW principals who generate wealth but fail to institutionalize it.
 
-ROIALS CAPITAL operates at the intersection of buyout capital raising, Institutional Liquidity Paths, and sector-specific mandates. Our vantage point across LP/GP negotiations reveals the new meta-rule: principals with optimized capital migration structures receive preferential access to the best deals, best terms, and best partners.
+Roials Capital operates at the intersection of buyout capital raising, Institutional Liquidity Paths, and sector-specific mandates. Our vantage point across LP/GP negotiations reveals the new meta-rule: principals with optimized capital migration structures receive preferential access to the best deals, best terms, and best partners.
 
 They become strategic.
 
@@ -565,9 +565,13 @@ This is the architecture of longevity.
 
 This is THE MANDAT
 
-E. TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+E. TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Request confidential capital audit.
 

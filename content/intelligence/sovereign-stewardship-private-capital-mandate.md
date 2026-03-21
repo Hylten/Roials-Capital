@@ -1,4 +1,4 @@
---- title: "Sovereign Stewardship and the New Mandate for Private Capital" description: "Institutional brief on Fund-III capital formation, jurisdictional positioning, and sovereign-aligned private market architecture for buyouts, add-ons, and energy-transition mandates." date: "2025-08-13" author: "ROIALS CAPITAL" slug: "sovereign-stewardship-private-capital-mandate"
+--- title: "Sovereign Stewardship and the New Mandate for Private Capital" description: "Institutional brief on Fund-III capital formation, jurisdictional positioning, and sovereign-aligned private market architecture for buyouts, add-ons, and energy-transition mandates." date: "2025-08-13" author: "Roials Capital" slug: "sovereign-stewardship-private-capital-mandate"
 ---
 
 Sovereign stewardship begins where legacy capital retreats.
@@ -421,9 +421,13 @@ For institutional LP/GP partners prepared to anchor into this mandate, initiate 
 
 Technical mandate: 42% target hard‑asset coverage ratio.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

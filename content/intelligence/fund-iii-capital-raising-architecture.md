@@ -1,4 +1,4 @@
---- title: "Principal Architecture for Fund-III Kapitalanskaffning" description: "Institutional analysis of capital raising systems for Fund-III structures across buyout, Asset-Based Lending, and special mandate regimes. High conviction thesis for allocators seeking durable, repeatable institutional flows." date: "2025-08-24" author: "ROIALS CAPITAL" slug: "Fund-III-capital-raising-architecture"
+--- title: "Principal Architecture for Fund-III Kapitalanskaffning" description: "Institutional analysis of capital raising systems for Fund-III structures across buyout, Asset-Based Lending, and special mandate regimes. High conviction thesis for allocators seeking durable, repeatable institutional flows." date: "2025-08-24" author: "Roials Capital" slug: "Fund-III-capital-raising-architecture"
 ---
 
 A structural gap defines the future of Fund-III capital formation.
@@ -267,7 +267,7 @@ THE STEWARDSHIP FILTER Capital is a responsibility. Mismanagement of attention, 
 
 Waste is disqualifying.
 
-ROIALS CAPITAL operates under a simple conviction.
+Roials Capital operates under a simple conviction.
 
 Stewardship is not an ethical preference.
 
@@ -321,9 +321,13 @@ Anything above 10 indicates systemic failure.
 
 Request a confidential capital audit.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

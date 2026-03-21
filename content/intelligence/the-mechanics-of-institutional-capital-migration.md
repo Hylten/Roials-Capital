@@ -5,7 +5,7 @@
 
 These rules are not visible to the retail market, and they are not designed for public interpretation.
 
-At ROIALS CAPITAL we operate at the layer where capital is engineered rather than advertised.
+At Roials Capital we operate at the layer where capital is engineered rather than advertised.
 
 This is the strata where liquidity is created, secured, reallocated, and shielded.
 
@@ -13,7 +13,7 @@ It is the level at which private credit and asset based Monetization Architectur
 
 The goal of this article is to articulate, clearly and surgically, how institutional capital migration works and how our Institutional Liquidity Paths architecture supports that movement.
 
-The Architectural Advantage of ROIALS CAPITAL ROIALS CAPITAL provides
+The Architectural Advantage of Roials Capital Roials Capital provides
 
 :
 
@@ -39,11 +39,15 @@ HNWI and UHNW individuals who understand this logic do not wait for conditions t
 
 They build the architecture that enables movement on their terms.
 
-ROIALS CAPITAL provides that architecture.
+Roials Capital provides that architecture.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

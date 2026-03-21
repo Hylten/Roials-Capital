@@ -9,7 +9,7 @@ High net worth and ultra high net worth portfolios do not fail from lack of asse
 
 They fail from misaligned liquidity vectors and structural fragility.
 
-At ROIALS CAPITAL, we operate within a different frame.
+At Roials Capital, we operate within a different frame.
 
 We do not speculate.
 
@@ -35,7 +35,7 @@ We design for scenarios 10, 20,
 
 We treat legacy as architecture, not aspiration.
 
-This is the ROIALS CAPITAL difference.
+This is the Roials Capital difference.
 
 Precision.
 
@@ -55,11 +55,15 @@ Structures must be engineered, not improvised.
 
 The future belongs to portfolios with durable leverage capacity, clean collateral structures, and institutionally aligned credit mechanics.
 
-ROIALS CAPITAL builds that future today.
+Roials Capital builds that future today.
 
-Request confidential audit TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+Request confidential audit TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

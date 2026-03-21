@@ -1,4 +1,4 @@
---- title: "The Principal Architecture of Collateralized Liquidity" description: "A private-capital briefing on the structural mechanics of collateralized liquidity, private credit intelligence, and Asset-Based Lending thresholds for institutional execution." date: "2025-07-01" author: "ROIALS CAPITAL" slug: "principal-architecture-of-collateralized-liquidity"
+--- title: "The Principal Architecture of Collateralized Liquidity" description: "A private-capital briefing on the structural mechanics of collateralized liquidity, private credit intelligence, and Asset-Based Lending thresholds for institutional execution." date: "2025-07-01" author: "Roials Capital" slug: "principal-architecture-of-collateralized-liquidity"
 ---
 
 The sovereign machinery begins with a simple assertion: capital obeys structure, not sentiment.
@@ -27,7 +27,7 @@ It is not a box on a term sheet.
 
 It is an operating doctrine for those who intend to command capital rather than request it.
 
-ROIALS CAPITAL operates under this doctrine because nothing else produces reliability at scale across jurisdictions, regulatory regimes, and variable economic climates.
+Roials Capital operates under this doctrine because nothing else produces reliability at scale across jurisdictions, regulatory regimes, and variable economic climates.
 
 Discipline.
 
@@ -39,7 +39,7 @@ Many understand portfolio operations.
 
 Very few grasp the third dimension: liquidity architecture.
 
-And that third dimension is the territory in which ROIALS CAPITAL operates with strategic dominance.
+And that third dimension is the territory in which Roials Capital operates with strategic dominance.
 
 Collateralized liquidity is the mechanism through which a sponsor transcends deal-by-deal opportunism and enters the domain of repeatable, cross-cycle velocity.
 
@@ -97,7 +97,7 @@ They have seen the movie.
 
 They know the ending.
 
-This is why ROIALS CAPITAL holds the principal seat.
+This is why Roials Capital holds the principal seat.
 
 We remove improvisation.
 
@@ -157,7 +157,7 @@ Enforcement is jurisdictional.
 
 Ignoring this is operational malpractice.
 
-The ROIALS CAPITAL approach is mechanistic: map the enforcement regime first, value the collateral second, arrange the liquidity third.
+The Roials Capital approach is mechanistic: map the enforcement regime first, value the collateral second, arrange the liquidity third.
 
 When sponsors invert this sequence, they introduce structural fragility that compounds under stress.
 
@@ -179,7 +179,7 @@ Liquidity is temporal.
 
 The institutional LP expects the GP to respect temporal geometry.
 
-ROIALS CAPITAL enforces sequencing discipline as a non-negotiable.
+Roials Capital enforces sequencing discipline as a non-negotiable.
 
 We do not fund chaos.
 
@@ -237,7 +237,7 @@ It removes the lag between decision and action.
 
 It neutralizes the time premium that weaker sponsors pay when markets tighten.
 
-ROIALS CAPITAL operates in that premium-free zone.
+Roials Capital operates in that premium-free zone.
 
 That is the advantage.
 
@@ -299,7 +299,7 @@ Institutional capital does not chase charisma.
 
 It allocates to architecture.
 
-ROIALS CAPITAL is the architecture.
+Roials Capital is the architecture.
 
 That is why LPs lean in.
 
@@ -307,7 +307,7 @@ That is why mandates solidify.
 
 Now the integration across mandates: 80% Capital Raising for Fund-III + Add-ons This is the sovereign lane.
 
-ROIALS CAPITAL acts as the institutional engine behind fund-level and deal-level capital formation.
+Roials Capital acts as the institutional engine behind fund-level and deal-level capital formation.
 
 The LP committees expect order.
 
@@ -319,7 +319,7 @@ Not a service.
 
 A structural amplifier. 10% Special Mandates (NAEOC $50M-$250M Energy, EU MiFID II Acquisitions) These mandates require sovereign handling because they sit in sectors where regulatory exposure is asymmetric.
 
-ROIALS CAPITAL absorbs that complexity and extracts the execution clarity.
+Roials Capital absorbs that complexity and extracts the execution clarity.
 
 Everything ladders to one principle: sovereignty through structure.
 
@@ -335,7 +335,7 @@ The Principal does not chase capital.
 
 Capital arrives.
 
-ROIALS CAPITAL sits above the churn of the market because our doctrine is not cyclical.
+Roials Capital sits above the churn of the market because our doctrine is not cyclical.
 
 It is architectural.
 

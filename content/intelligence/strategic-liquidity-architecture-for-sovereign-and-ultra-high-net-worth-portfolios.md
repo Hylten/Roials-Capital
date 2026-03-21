@@ -9,7 +9,7 @@ Most capital allocation frameworks focus on asset selection.
 
 The sovereign lens focuses on liquidity sequencing.
 
-ROIALS CAPITAL operates at this layer.
+Roials Capital operates at this layer.
 
 The architecture layer.
 
@@ -39,7 +39,7 @@ Decision makers gain:
 
 It is the layer that sovereign and UHNW portfolios require.
 
-Why ROIALS CAPITAL Operates at This Level Our thresholds are deliberate. Two million minimum for crypto.
+Why Roials Capital Operates at This Level Our thresholds are deliberate. Two million minimum for crypto.
 
 Five million minimum for public share Institutional Liquidity Paths.
 
@@ -53,7 +53,7 @@ We maintain principal authority because real capital does not require noise.
 
 It requires architecture.
 
-CONCLUSIO N
+CONCLUSION
 
 Strategic liquidity is not the pursuit of cash.
 
@@ -63,7 +63,7 @@ Sovereign and UHNW portfolios achieve control through engineered liquidity.
 
 That requires precision, structure, and an architecture mindset.
 
-ROIALS CAPITAL provides the mechanics that support these mandates.
+Roials Capital provides the mechanics that support these mandates.
 
 Quietly.
 
@@ -71,9 +71,13 @@ Deliberately.
 
 At scale.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

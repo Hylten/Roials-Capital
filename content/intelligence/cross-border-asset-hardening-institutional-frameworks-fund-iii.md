@@ -1,4 +1,4 @@
---- title: "Cross-Border Asset Hardening Protocols for Institutional Capital Stability and Fund-III Expansion" description: "Institutional architecture for capital fortification, liquidity engineering, and cross-border deployment in volatile macro regimes, optimized for Fund-III kapitalanskaffning and strategic acquisition pipelines." date: "2025-11-01" author: "ROIALS CAPITAL | Principal Architect" slug: "cross-border-asset-hardening-institutional-frameworks-Fund-III"
+--- title: "Cross-Border Asset Hardening Protocols for Institutional Capital Stability and Fund-III Expansion" description: "Institutional architecture for capital fortification, liquidity engineering, and cross-border deployment in volatile macro regimes, optimized for Fund-III kapitalanskaffning and strategic acquisition pipelines." date: "2025-11-01" author: "Roials Capital | Principal Architect" slug: "cross-border-asset-hardening-institutional-frameworks-Fund-III"
 ---
 
 Cross-border instability punishes unstructured capital.
@@ -373,9 +373,13 @@ Technical mandate: cross-border hardening coefficient threshold = 0.
 
 82 minimum.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

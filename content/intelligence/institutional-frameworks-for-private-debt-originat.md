@@ -351,9 +351,13 @@ If the platform is ordered, the capital is protected.
 
 If the capital is protected, long-term partnership emerges.
 
-CTA Request confidential audit. TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+CTA Request confidential audit. TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

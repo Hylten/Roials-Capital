@@ -1,4 +1,4 @@
---- title: "Multi‑Asset Hardening Architecture for Fund‑III" description: "Institutional brief on capital hardening, digital‑asset integration, and liquidity engineering for Fund‑III with focus on capital raising, Asset-Based Lending structuring, and cross‑jurisdictional acquisition velocity." date: "2026-01-29" author: "ROIALS CAPITAL | Principal Architect" slug: "multi-asset-hardening-Fund-III-institutional-liquidity-architecture"
+--- title: "Multi‑Asset Hardening Architecture for Fund‑III" description: "Institutional brief on capital hardening, digital‑asset integration, and liquidity engineering for Fund‑III with focus on capital raising, Asset-Based Lending structuring, and cross‑jurisdictional acquisition velocity." date: "2026-01-29" author: "Roials Capital | Principal Architect" slug: "multi-asset-hardening-Fund-III-institutional-liquidity-architecture"
 ---
 
 # THE MANDAT E
@@ -399,9 +399,13 @@ Deploy with speed.
 
 The next
 
-### Step I: s confidential: initiate the capital audit. TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+### Step I: s confidential: initiate the capital audit. TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

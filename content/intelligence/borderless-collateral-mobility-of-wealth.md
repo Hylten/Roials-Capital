@@ -1,4 +1,4 @@
---- title: "Borderless Collateral and the Institutional Mobility of Wealth" description: "Institutional brief on cross‑jurisdictional collateral mobility, sovereign‑grade capital structuring, and Fund-III buyout acceleration under ROIALS CAPITAL mandates." date: "2025-11-12" author: "ROIALS CAPITAL" slug: "borderless-collateral-mobility-of-wealth"
+--- title: "Borderless Collateral and the Institutional Mobility of Wealth" description: "Institutional brief on cross‑jurisdictional collateral mobility, sovereign‑grade capital structuring, and Fund-III buyout acceleration under Roials Capital mandates." date: "2025-11-12" author: "Roials Capital" slug: "borderless-collateral-mobility-of-wealth"
 ---
 
 The contemporary M&A regime no longer behaves like a regional marketplace.
@@ -53,7 +53,7 @@ If collateral cannot move, capital will not follow.
 
 If assets cannot be pledged under multiple jurisdictions without complete restructuring, the GP loses its ability to raise at scale.
 
-The ROIALS CAPITAL doctrine is straightforward-engineer collateral that behaves like sovereign wealth but moves like liquidity.
+The Roials Capital doctrine is straightforward-engineer collateral that behaves like sovereign wealth but moves like liquidity.
 
 Hard edges.
 
@@ -159,7 +159,7 @@ The sinner is the structurally exposed.
 
 Wealth flows accordingly.
 
-ROIALS CAPITAL applies this doctrine in three domains: Fund-III+ kapitalanskaffning, Asset-Backed Frameworks (Asset-Based Lending), and special mandates.
+Roials Capital applies this doctrine in three domains: Fund-III+ kapitalanskaffning, Asset-Backed Frameworks (Asset-Based Lending), and special mandates.
 
 Fund-III kapitalanskaffning is the core.
 
@@ -207,7 +207,7 @@ DPI is downstream of mobility.
 
 Liquidity events depend on the ability to move collateral.
 
-ROIALS CAPITAL focuses on designing Fund-III systems with institutional-grade mobility.
+Roials Capital focuses on designing Fund-III systems with institutional-grade mobility.
 
 Multi-entity formation.
 
@@ -313,7 +313,7 @@ Templates collapse under pressure.
 
 Architecture survives.
 
-ROIALS CAPITAL operates purely within architecture.
+Roials Capital operates purely within architecture.
 
 Institutional M&A is a sovereign game now.
 
@@ -363,7 +363,7 @@ Motion is compounding.
 
 Motion is inheritance.
 
-ROIALS CAPITAL structures for motion.
+Roials Capital structures for motion.
 
 For institutional LPs, for sovereign allocators, for major corporates, for family offices with acquisition mandates: the current environment rewards the architect, not the acquirer.
 
@@ -402,9 +402,13 @@ To proceed, request a confidential capital audit.
 Throughput expectation: 14.
 7 bps structural drift tolerance.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

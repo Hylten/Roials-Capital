@@ -1,4 +1,4 @@
---- title: "The Mechanics of Institutional Capital Migration Across Cycles and Regimes" description: "A technical dissection of cross cycle capital mobility, regime dependent allocation behavior, structural frictions, and the liquidity engineering frameworks required for allocators navigating Fund‑III buyouts, Asset-Based Lending structures, and energy specific mandates in Alberta." date: "2026-02-11" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "institutional-capital-migration-architecture"
+--- title: "The Mechanics of Institutional Capital Migration Across Cycles and Regimes" description: "A technical dissection of cross cycle capital mobility, regime dependent allocation behavior, structural frictions, and the liquidity engineering frameworks required for allocators navigating Fund‑III buyouts, Asset-Based Lending structures, and energy specific mandates in Alberta." date: "2026-02-11" author: "Roials Capital (Institutional Briefing)" slug: "institutional-capital-migration-architecture"
 ---
 
 The capital vacuum in North America’s energy system is a consequence of regulatory drift and institutional divestment inertia, not resource depletion.
@@ -145,7 +145,7 @@ The focus is operational efficiency across known reservoirs with documented prod
 
 ### Phase III:
 
-THE PARTNERSHIP MODEL AND THE ROIALS CAPITAL POSITION Roials Capital functions as a strategic navigator and institutional introducer.
+THE PARTNERSHIP MODEL AND THE Roials Capital POSITION Roials Capital functions as a strategic navigator and institutional introducer.
 
 The focus is alignment across three core channels.
 
@@ -246,9 +246,13 @@ Which strategies enhance the allocator's overall capital architecture rather tha
 
 It ensures alignment between institutional objectives, operational dynamics, and the structural regime shift now defining capital migration. [END OF BRIEFING]
 
-# TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+# TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

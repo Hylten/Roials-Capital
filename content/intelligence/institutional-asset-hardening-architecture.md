@@ -1,4 +1,4 @@
---- title: "Principal Architecture for Institutional Grade Asset Hardening" description: "Institutional blueprint for capital raising, buyout infrastructure, liquidity engineering, and jurisdictional asset hardening mechanics for Fund-III scale operators." date: "2025-12-24" author: "ROIALS CAPITAL" slug: "institutional-asset-hardening-architecture"
+--- title: "Principal Architecture for Institutional Grade Asset Hardening" description: "Institutional blueprint for capital raising, buyout infrastructure, liquidity engineering, and jurisdictional asset hardening mechanics for Fund-III scale operators." date: "2025-12-24" author: "Roials Capital" slug: "institutional-asset-hardening-architecture"
 ---
 
 A structural gap always reveals itself first in recovery math.
@@ -21,7 +21,7 @@ Their infrastructure was not built for institutional load.
 
 Order is not an option.
 
-ROIALS CAPITAL operates in a different regime.
+Roials Capital operates in a different regime.
 
 We treat architecture as a covenant.
 
@@ -135,7 +135,7 @@ for asset hardening follows one principle.
 
 The GP must operate as an institutional machine, not a personality driven firm.
 
-ROIALS CAPITAL builds this machine.
+Roials Capital builds this machine.
 
 Our architecture for Fund-III and Fund-IV managers includes the following components: Capital Raising Engine: We construct a capital stack that follows a
 4 tier conversion ladder.
@@ -262,9 +262,13 @@ LPs recognize this.
 
 They act on it.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Request confidential capital audit.
 

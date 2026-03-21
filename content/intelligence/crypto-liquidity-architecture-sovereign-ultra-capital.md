@@ -1,4 +1,4 @@
---- title: "Crypto Liquidity Architecture for Sovereign and Ultra-Capital Entities" description: "Institutional liquidity engineering framework for sovereign allocators, UHNW principal structures, and Fund-III GP mandates designing crypto-based settlement rails, reserve baskets, and cross-jurisdictional liquidity spines." date: "2026-01-02" author: "ROIALS CAPITAL" slug: "crypto-liquidity-architecture-sovereign-ultra-capital"
+--- title: "Crypto Liquidity Architecture for Sovereign and Ultra-Capital Entities" description: "Institutional liquidity engineering framework for sovereign allocators, UHNW principal structures, and Fund-III GP mandates designing crypto-based settlement rails, reserve baskets, and cross-jurisdictional liquidity spines." date: "2026-01-02" author: "Roials Capital" slug: "crypto-liquidity-architecture-sovereign-ultra-capital"
 ---
 
 Fragmentation in crypto liquidity is not a technology flaw.
@@ -101,7 +101,7 @@ Cash-flow waterfalls also require institutionalization.
 
 Crypto projects often have undisciplined flow structures.
 
-ROIALS CAPITAL applies private credit standards.
+Roials Capital applies private credit standards.
 
 First tier: on-chain revenue locks.
 
@@ -293,9 +293,13 @@ Construct a liquidity architecture with a collateral efficiency ratio of 0.
 
 92 percent execution predictability across jurisdictions.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Request confidential capital audit.
 

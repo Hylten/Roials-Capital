@@ -1,4 +1,4 @@
---- title: "Liquidity Without Liquidation: The Asset-Based Lending Advantage for Private Wealth Architecture" description: "Explore how ROIALS CAPITAL structures liquidity through Asset-Based liquidity engineering without forced liquidation, designed for HNWI and UHNW portfolios." date: "2026-01-11" author: "Jonas Hyltén" slug: "liquidity-without-liquidation-the-abl-advantage-for-private-wealth-architecture"
+--- title: "Liquidity Without Liquidation: The Asset-Based Lending Advantage for Private Wealth Architecture" description: "Explore how Roials Capital structures liquidity through Asset-Based liquidity engineering without forced liquidation, designed for HNWI and UHNW portfolios." date: "2026-01-11" author: "Jonas Hyltén" slug: "liquidity-without-liquidation-the-abl-advantage-for-private-wealth-architecture"
 ---
 
 # Liquidity Without Liquidation: The Asset-Based Lending Advantage Modern private wealth is no longer defined by asset accumulation. It is defined by how those assets are engineered, stratified, and activated.
@@ -15,7 +15,7 @@ It is a structural design principle.
 
 When calibrated correctly, it becomes a liquidity engine that operates without forcing liquidation.
 
-ROIALS CAPITAL operates inside this framework.
+Roials Capital operates inside this framework.
 
 We lend against private credit, we lend against asset based structures, and we provide a liquidity ecosystem that functions at an institutional level while remaining surgically discreet.
 
@@ -51,7 +51,7 @@ It transforms static valuation into functional liquidity, while the asset remain
 
 The Asset-Based Lending Advantage: Structural, Not Situational Asset Based Capital Structuring is often misunderstood as a fallback mechanism. That framing is incorrect.
 
-At ROIALS CAPITAL, Asset-Based Lending is treated as a primary design instrument.
+At Roials Capital, Asset-Based Lending is treated as a primary design instrument.
 
 The process is engineered with precision rather than offered as a responsive solution.
 
@@ -83,7 +83,7 @@ In private capital architecture, collateral is a power multiplier.
 
 Private credit, public equities, and digital assets all become engines for liquidity creation.
 
-ROIALS CAPITAL provides Strategic Collateralization thresholds specifically aligned to institutional stability:
+Roials Capital provides Strategic Collateralization thresholds specifically aligned to institutional stability:
 
 - Crypto Capital Structuring: Minimum threshold 2,000,
 
@@ -100,7 +100,7 @@ The result is an ecosystem where collateral generates liquidity rather than rest
 
 They seek precision and silence.
 
-ROIALS CAPITAL operates with what we call principal authority.
+Roials Capital operates with what we call principal authority.
 
 We provide the mechanics, the structure, and the capital.
 
@@ -120,7 +120,7 @@ Institutional Liquidity Paths against private credit requires more than valuatio
 
 It requires understanding how the underlying flows behave, how covenant layers interact, and how time affects the capital stack.
 
-ROIALS CAPITAL structures Asset-Based Lending against private credit with institutional-grade scrutiny.
+Roials Capital structures Asset-Based Lending against private credit with institutional-grade scrutiny.
 
 The objective is to ensure liquidity without disturbing the integrity of the income stream.
 
@@ -162,7 +162,7 @@ By maintaining the asset, the architecture remains intact.
 
 Liquidity becomes additive instead of extractive.
 
-Designing Liquidity at Scale The scale at which ROIALS CAPITAL operates requires structural predictability. This is why minimum thresholds are essential.
+Designing Liquidity at Scale The scale at which Roials Capital operates requires structural predictability. This is why minimum thresholds are essential.
 
 They are not barriers.
 
@@ -206,7 +206,7 @@ This is especially relevant for clients who operate inside multi‑layered asset
 
 - Private credit income portfolios Asset-Based Lending integrates all layers into a coherent liquidity framework.
 
-ROIALS CAPITAL: The Architectural Perspective We do not operate as lenders in the conventional sense. We operate as architects.
+Roials Capital: The Architectural Perspective We do not operate as lenders in the conventional sense. We operate as architects.
 
 We structure capital systems that function according to institutional rules.
 
@@ -240,11 +240,15 @@ This is the Asset-Based Lending advantage.
 
 This is liquidity without liquidation.
 
-This is the ROIALS CAPITAL framework.
+This is the Roials Capital framework.
 
-Request confidential audit TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+Request confidential audit TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

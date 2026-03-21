@@ -1,4 +1,4 @@
---- title: "The Calculus of Risk in Institutional Private Credit" description: "A clinical, high density institutional analysis of private credit risk architecture, capital formation mechanics, and the structural role of Roials Capital as an introducer and strategic partner for Fund-III and acquisition mandates." date: "2025-11-09" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "calculcus-of-risk-private-credit"
+--- title: "The Calculus of Risk in Institutional Private Credit" description: "A clinical, high density institutional analysis of private credit risk architecture, capital formation mechanics, and the structural role of Roials Capital as an introducer and strategic partner for Fund-III and acquisition mandates." date: "2025-11-09" author: "Roials Capital (Institutional Briefing)" slug: "calculcus-of-risk-private-credit"
 ---
 
 The capital vacuum in North American and European private credit is not a function of reduced opportunity.
@@ -248,9 +248,13 @@ The objective is alignment, not solicitation.
 
 The outcome is a calibrated understanding of how private credit can function as a stabilizing instrument within a multi decade capital strategy. [END OF BRIEFING]
 
-# TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+# TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

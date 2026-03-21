@@ -1,4 +1,4 @@
---- title: "Asset‑Based Liquidity Engineering as the Structural Engine of Multi‑Generational Wealth" description: "Institutional brief for LP/GP allocators on how asset‑based Capital Structuring, jurisdictional structuring, and acquisition-grade capital architecture form the backbone of multi-generational wealth creation within Fund‑III buyout ecosystems." date: "2025-08-05" author: "ROIALS CAPITAL | Principal Investigator" slug: "asset-based-liquidity-engineering-multi-generational-wealth"
+--- title: "Asset‑Based Liquidity Engineering as the Structural Engine of Multi‑Generational Wealth" description: "Institutional brief for LP/GP allocators on how asset‑based Capital Structuring, jurisdictional structuring, and acquisition-grade capital architecture form the backbone of multi-generational wealth creation within Fund‑III buyout ecosystems." date: "2025-08-05" author: "Roials Capital | Principal Investigator" slug: "asset-based-liquidity-engineering-multi-generational-wealth"
 ---
 
 Asset‑based Monetization Architecture operates as the structural engine behind durable dynastic capital.
@@ -37,7 +37,7 @@ Liquidity dictates lineage.
 
 Structure dictates survival.
 
-The ROIALS CAPITAL framework positions asset‑based Strategic Collateralization (Asset-Based Lending‑E) not as a secondary technique, but as the prime driver of compounding.
+The Roials Capital framework positions asset‑based Strategic Collateralization (Asset-Based Lending‑E) not as a secondary technique, but as the prime driver of compounding.
 
 Eighty percent of our architecture is Kapitalanskaffning for Fund‑III+ buyouts and add‑ons.
 
@@ -293,9 +293,13 @@ Structured capital survives.
 
 Unstructured capital disappears.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Request confidential capital audit.
 

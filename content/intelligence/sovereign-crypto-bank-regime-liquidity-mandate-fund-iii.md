@@ -1,4 +1,4 @@
---- title: "The Sovereign Crypto Bank Regime and the Liquidity Mandate of Fund-III" description: "Institutional brief on sovereign-grade digital banking architectures, Fund-III liquidity structuring, private credit capital formation, and multi‑jurisdictional acquisition lanes across MiFID II, Asset-Based Lending, and energy-transition mandates." date: "2025-09-10" author: "ROIALS CAPITAL" slug: "sovereign-crypto-bank-regime-liquidity-mandate-Fund-III"
+--- title: "The Sovereign Crypto Bank Regime and the Liquidity Mandate of Fund-III" description: "Institutional brief on sovereign-grade digital banking architectures, Fund-III liquidity structuring, private credit capital formation, and multi‑jurisdictional acquisition lanes across MiFID II, Asset-Based Lending, and energy-transition mandates." date: "2025-09-10" author: "Roials Capital" slug: "sovereign-crypto-bank-regime-liquidity-mandate-Fund-III"
 ---
 
 A sovereign crypto bank is not a retail novelty.
@@ -412,7 +412,7 @@ This is inheritance. "A good man leaves an inheritance to his children's childre
 
 * .
 
-MANDATE CONCLUSIO N
+MANDATE CONCLUSION
 
 Fund‑III requires sovereign liquidity.
 
@@ -422,9 +422,13 @@ Capital formation defines survival.
 
 Execution defines legacy.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Request confidential capital audit.
 

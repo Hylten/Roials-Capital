@@ -1,4 +1,4 @@
---- title: "The Mechanics of Sovereign Asset Hardening" description: "Institutional briefing on capital regime transition, structural inefficiencies, and the sovereign mechanics that govern asset hardening across buyouts, liquidity engineering, and North American energy operations." date: "2025-09-24" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "mechanics-sovereign-asset-hardening"
+--- title: "The Mechanics of Sovereign Asset Hardening" description: "Institutional briefing on capital regime transition, structural inefficiencies, and the sovereign mechanics that govern asset hardening across buyouts, liquidity engineering, and North American energy operations." date: "2025-09-24" author: "Roials Capital (Institutional Briefing)" slug: "mechanics-sovereign-asset-hardening"
 ---
 
 The capital vacuum in North America is not a cyclical dislocation.
@@ -159,7 +159,7 @@ Alberta's structural advantage is grounded in geological predictability and regu
 
 The NAEO partnership model introduces operational intelligence, disciplined development sequencing, and reservoir management aligned with institutional expectations.
 
-THE PARTNERSHIP MODEL AND ROIALS CAPITAL'S ROLE Roials Capital functions as a strategic navigator and institutional introducer.
+THE PARTNERSHIP MODEL AND Roials Capital'S ROLE Roials Capital functions as a strategic navigator and institutional introducer.
 
 The objective is not to present asset offerings but to provide allocators with structured intelligence, counterpart mapping, and operational clarity across capital channels.
 
@@ -253,9 +253,13 @@ Roials Capital provides confidential Strategy Audits and Portfolio Calibration e
 
 The objective is to provide clarity on the operational regime and introduce the correct institutional partners where alignment exists.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

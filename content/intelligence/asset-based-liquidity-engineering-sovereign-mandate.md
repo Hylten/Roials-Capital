@@ -1,4 +1,4 @@
---- title: "Asset‑Based Liquidity Engineering as a Sovereign Capital Mandate for Fund‑III" description: "Institutional brief on sovereign‑grade liquidity architecture, Asset-Based Lending engineering, and Kapitalanskaffning frameworks optimized for Fund‑III buyouts, add‑ons, and multi‑jurisdictional capital formation." date: "2025-10-13" author: "ROIALS CAPITAL" slug: "asset-based-liquidity-engineering-sovereign-mandate"
+--- title: "Asset‑Based Liquidity Engineering as a Sovereign Capital Mandate for Fund‑III" description: "Institutional brief on sovereign‑grade liquidity architecture, Asset-Based Lending engineering, and Kapitalanskaffning frameworks optimized for Fund‑III buyouts, add‑ons, and multi‑jurisdictional capital formation." date: "2025-10-13" author: "Roials Capital" slug: "asset-based-liquidity-engineering-sovereign-mandate"
 ---
 
 Asset‑based Strategic Collateralization is no longer an auxiliary credit function.
@@ -87,7 +87,7 @@ Capital requires velocity.
 
 Assets provide the rails.
 
-The ROIALS CAPITAL framework executes this with simplicity and aggression.
+The Roials Capital framework executes this with simplicity and aggression.
 
 Hard assets are categorized across three strata: productive, inert, strategic.
 
@@ -434,7 +434,7 @@ It designs liquidity routes before raising capital.
 
 It designs Asset-Based Lending frameworks before underwriting the target.
 
-This is the ROIALS CAPITAL identity.
+This is the Roials Capital identity.
 
 Architecture before action.
 
@@ -480,9 +480,13 @@ Projected Liquidity Efficiency Index:
 
 87.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

@@ -1,4 +1,4 @@
---- title: "Sovereign Debt Strategies and the Flight to Crypto Backed ABL: The New Architecture for UHNW Liquidity" description: "Institutional briefing on the structural debt realignment, sovereign duration stress, and the emergence of crypto collateral as a non correlated liquidity rail for UHNW balance sheet optimization and buyout capital formation." date: "2025-09-15" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "sovereign-debt-strategies-crypto-abl-uhnw-liquidity-architecture"
+--- title: "Sovereign Debt Strategies and the Flight to Crypto Backed ABL: The New Architecture for UHNW Liquidity" description: "Institutional briefing on the structural debt realignment, sovereign duration stress, and the emergence of crypto collateral as a non correlated liquidity rail for UHNW balance sheet optimization and buyout capital formation." date: "2025-09-15" author: "Roials Capital (Institutional Briefing)" slug: "sovereign-debt-strategies-crypto-abl-uhnw-liquidity-architecture"
 ---
 
 The capital vacuum in global sovereign debt is the foreseeable product of duration mismatch, demographic compression, and declining fiscal elasticity.

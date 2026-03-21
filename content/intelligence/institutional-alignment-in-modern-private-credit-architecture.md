@@ -11,7 +11,7 @@ The Institutional Liquidity Paths counterpart must function with absolute clarit
 
 The framework must withstand macro‑level stress without distortion.
 
-ROIALS CAPITAL constructs this environment deliberately.
+Roials Capital constructs this environment deliberately.
 
 The objective is not to chase markets.
 
@@ -27,7 +27,7 @@ It also clarifies how private credit, Asset-Based Lending, and modern digital co
 
 Governance as the Ultimate Differentiator The final pillar of institutional alignment is governance. Governance determines how the entire architecture operates under pressure.
 
-ROIALS CAPITAL enforces strict governance across all credit lines.
+Roials Capital enforces strict governance across all credit lines.
 
 It is not an administrative layer.
 
@@ -55,7 +55,7 @@ CONCLUSION : Institutional Alignment as a Strategic Imperative Private credit, s
 
 Institutional alignment ensures that every component of the credit system reflects stability, transparency, and long horizon durability.
 
-ROIALS CAPITAL builds these systems deliberately.
+Roials Capital builds these systems deliberately.
 
 The thresholds are intentional.
 
@@ -67,9 +67,13 @@ For HNWI and UHNW individuals, alignment is not optional.
 
 It is the only way to ensure that credit functions as an asset rather than a liability.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

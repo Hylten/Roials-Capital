@@ -1,4 +1,4 @@
---- title: "Principal Briefing on Institutional LP Appetite for Talent‑First Rollups" description: "Confidential Principal-level analysis on human‑capital‑dominant buyout construction, institutional LP posture, and Fund‑III capital formation signals across North America and Europe." date: "2025-10-10" author: "ROIALS CAPITAL" slug: "institutional-lp-talent-first-rollups-briefing"
+--- title: "Principal Briefing on Institutional LP Appetite for Talent‑First Rollups" description: "Confidential Principal-level analysis on human‑capital‑dominant buyout construction, institutional LP posture, and Fund‑III capital formation signals across North America and Europe." date: "2025-10-10" author: "Roials Capital" slug: "institutional-lp-talent-first-rollups-briefing"
 ---
 
 The shift is quiet.
@@ -69,7 +69,7 @@ The Gulf provides capital optionality.
 
 The Nordics provide governance discipline.
 
-ROIALS CAPITAL stands inside that intersection.
+Roials Capital stands inside that intersection.
 
 Not beside it.
 
@@ -237,7 +237,7 @@ Phase Eight.
 
 Moral Authority in Execution.
 
-Even though ROIALS CAPITAL does not speak in the moral register of Hylten-Invest, we still operate under a covenant: value creation without moral drift.
+Even though Roials Capital does not speak in the moral register of Hylten-Invest, we still operate under a covenant: value creation without moral drift.
 
 The workforce inside a rollup is never an abstraction.
 
@@ -289,7 +289,7 @@ It is not positioning.
 
 It is structure.
 
-ROIALS CAPITAL executes with a precision few GPs can match: We replace leadership before it becomes a problem.
+Roials Capital executes with a precision few GPs can match: We replace leadership before it becomes a problem.
 
 We embed discipline before scale pressures arrive.
 

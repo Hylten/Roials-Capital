@@ -1,4 +1,4 @@
---- title: "Architecture of Capital: Engineered Sovereignty" description: "Institutional brief on sovereign-grade capital architecture, Fund-III mobilization, liquidity engineering, and cross‑jurisdictional acquisition structuring for LP/GP mandates." date: "2025-09-15" author: "ROIALS CAPITAL" slug: "architecture-of-capital-engineered-sovereignty"
+--- title: "Architecture of Capital: Engineered Sovereignty" description: "Institutional brief on sovereign-grade capital architecture, Fund-III mobilization, liquidity engineering, and cross‑jurisdictional acquisition structuring for LP/GP mandates." date: "2025-09-15" author: "Roials Capital" slug: "architecture-of-capital-engineered-sovereignty"
 ---
 
 Sovereignty is engineered, not inherited.
@@ -393,7 +393,7 @@ Institutions pay for clarity.
 
 That is the business.
 
-THE ROLE OF ROIALS CAPITAL We operate as an institutional architecture firm. Not advisors.
+THE ROLE OF Roials Capital We operate as an institutional architecture firm. Not advisors.
 
 Not brokers.
 
@@ -461,9 +461,13 @@ E. REQUEST For LP/GP alignment, cross‑jurisdictional preparation, and mandate 
 
 72 hours.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

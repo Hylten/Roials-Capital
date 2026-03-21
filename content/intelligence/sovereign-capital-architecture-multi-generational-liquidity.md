@@ -1,4 +1,4 @@
---- title: "The Sovereign Capital Architecture: Engineering Multi Generational Liquidity Through Institutional Energy Stewardship" description: "Institutional briefing on the structural capital vacuum in North American energy, Alberta thermal recovery mechanics, and the architecture of multi generational liquidity formation for UHNWIs, Family Offices, and Institutional LPs navigating Fund-III+ buyout cycles." date: "2025-11-02" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "sovereign-capital-architecture-multi-generational-liquidity"
+--- title: "The Sovereign Capital Architecture: Engineering Multi Generational Liquidity Through Institutional Energy Stewardship" description: "Institutional briefing on the structural capital vacuum in North American energy, Alberta thermal recovery mechanics, and the architecture of multi generational liquidity formation for UHNWIs, Family Offices, and Institutional LPs navigating Fund-III+ buyout cycles." date: "2025-11-02" author: "Roials Capital (Institutional Briefing)" slug: "sovereign-capital-architecture-multi-generational-liquidity"
 ---
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion.
@@ -125,7 +125,7 @@ When capital is delayed or inconsistent, steam chambers collapse, cycle timing b
 
 This is where the structural arbitrage emerges.
 
-THE PARTNERSHIP MODEL AND THE ROLE OF ROIALS CAPITAL The institutional allocator has historically faced three constraints in Canadian energy.
+THE PARTNERSHIP MODEL AND THE ROLE OF Roials Capital The institutional allocator has historically faced three constraints in Canadian energy.
 
 1.
 

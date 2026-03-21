@@ -1,4 +1,4 @@
---- title: "The Middle Market Regime and the Credit Sovereignty Window" description: "Institutional briefing on middle-market private credit, liquidity engineering, and capital raising mechanics for Fund-III mandates targeting buyouts, add-ons, Asset-Based Lending structures, and sector specific special mandates." date: "2026-01-15" author: "ROIALS CAPITAL" slug: "middle-market-private-credit-regime"
+--- title: "The Middle Market Regime and the Credit Sovereignty Window" description: "Institutional briefing on middle-market private credit, liquidity engineering, and capital raising mechanics for Fund-III mandates targeting buyouts, add-ons, Asset-Based Lending structures, and sector specific special mandates." date: "2026-01-15" author: "Roials Capital" slug: "middle-market-private-credit-regime"
 ---
 
 A structural gap appears when capital migrates faster than underwriting standards can adapt.
@@ -63,7 +63,7 @@ The middle market remains under-institutionalized, mispriced, and operationally 
 
 That opacity is where disciplined firms extract permanent advantage.
 
-ROIALS CAPITAL states the position clearly: the middle market is the most asymmetric risk adjusted credit opportunity available today.
+Roials Capital states the position clearly: the middle market is the most asymmetric risk adjusted credit opportunity available today.
 
 We operate where complexity deters slower capital.
 
@@ -77,7 +77,7 @@ Loan-to-Value Curves: The institutional threshold for stability in this segment 
 
 Sponsors push for more leverage.
 
-ROIALS CAPITAL rejects it.
+Roials Capital rejects it.
 
 Elevating LTV beyond that corridor removes the loss-absorbing buffer that makes middle-market credit structurally superior to large-cap.
 
@@ -147,7 +147,7 @@ The capacity to close where others cannot is itself a return driver.
 
 The STRATEGIC MODEL
 
-ROIALS CAPITAL operates with a singular institutional objective: raise and deploy capital into Fund-III structures designed for mid-market buyouts, add-ons, and operating platform consolidation.
+Roials Capital operates with a singular institutional objective: raise and deploy capital into Fund-III structures designed for mid-market buyouts, add-ons, and operating platform consolidation.
 
 The core of the model is velocity with precision.
 
@@ -213,7 +213,7 @@ These segments reward firms that operate with institutional patience and technic
 
 They punish firms that chase yield without structural mastery.
 
-ROIALS CAPITAL belongs to the first group.
+Roials Capital belongs to the first group.
 
 ### Phase IV: The Stewardship Filter Capital is not sovereign. It is held in trust.
 
@@ -283,9 +283,13 @@ We engineer both through a Fund-III architecture targeting a 1.
 
 Request a confidential capital audit to determine alignment with Fund-III deployment parameters.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

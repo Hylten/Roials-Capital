@@ -5,7 +5,7 @@
 
 A smaller cohort, the structurally advantaged cohort, leverages Monetization Architecture to convert illiquid holdings into strategic capital instruments.
 
-ROIALS CAPITAL occupies that structural layer.
+Roials Capital occupies that structural layer.
 
 We provide private credit and asset based Capital Structuring solutions that unlock liquidity where the traditional system defaults to friction.
 
@@ -69,7 +69,7 @@ Strategic Use Cases for Deep Liquidity HNWI and UHNW clients typically deploy de
 
 Each use case benefits from controlled liquidity, not speculative leverage.
 
-CONCLUSIO N
+CONCLUSION
 
 : Deep Liquidity Is the New Foundation of Wealth Architecture In illiquid markets, most participants operate at the mercy of their environment.
 
@@ -83,13 +83,17 @@ It enables precision execution.
 
 It converts dormant value into active capital.
 
-ROIALS CAPITAL designs the framework that makes this possible.
+Roials Capital designs the framework that makes this possible.
 
 If your asset architecture requires liquidity without compromise, request confidential audit.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

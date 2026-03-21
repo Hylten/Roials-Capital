@@ -1,4 +1,4 @@
---- title: "Institutional Standards for Private Liquidity Engineering Agreements: The Roials Capital Framework" description: "A technical analyst briefing for institutional allocators evaluating Institutional Liquidity Paths structures, capital stack optimization, and private credit alignment within the Roials Capital Framework." date: "2026-01-31" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "institutional-liquidity-engineering-ROIALS CAPITAL-framework"
+--- title: "Institutional Standards for Private Liquidity Engineering Agreements: The Roials Capital Framework" description: "A technical analyst briefing for institutional allocators evaluating Institutional Liquidity Paths structures, capital stack optimization, and private credit alignment within the Roials Capital Framework." date: "2026-01-31" author: "Roials Capital (Institutional Briefing)" slug: "institutional-liquidity-engineering-Roials Capital-framework"
 ---
 
 The dislocation between balance sheet needs and institutional credit availability in 2026 is not a function of elevated risk profiles.
@@ -243,9 +243,13 @@ When alignment exists, the next
 
 ### Step I: s typically a Confidential Strategy Audit. This review allows LPs, GPs, and operators to evaluate whether a Monetization Architecture Agreement fits their balance sheet architecture and operational cadence. [END OF BRIEFING]
 
-# TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+# TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

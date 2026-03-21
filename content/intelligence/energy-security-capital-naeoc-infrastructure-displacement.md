@@ -1,4 +1,4 @@
---- title: "Energy Security Capital: The Quiet Displacement of Legacy Infrastructure Funds" description: "Analysis of how NAEOC mandates are outmaneuvering traditional infrastructure vehicles through jurisdictional structuring, covenant shifts, and capital-stack dominance." date: "2025-08-18" author: "ROIALS CAPITAL" slug: "energy-security-capital-naeoc-infrastructure-displacement"
+--- title: "Energy Security Capital: The Quiet Displacement of Legacy Infrastructure Funds" description: "Analysis of how NAEOC mandates are outmaneuvering traditional infrastructure vehicles through jurisdictional structuring, covenant shifts, and capital-stack dominance." date: "2025-08-18" author: "Roials Capital" slug: "energy-security-capital-naeoc-infrastructure-displacement"
 ---
 
 NAEOC structures cut straight through the old guard.

@@ -1,4 +1,4 @@
---- title: "The Power of Private Credit in Modern M&A Architecture" description: "Institutional briefing on the structural role of private credit in contemporary M&A architecture, focusing on capital stack dynamics, liquidity engineering, and strategic alignment for UHNWIs and institutional allocators." date: "2025-08-14" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "private-credit-modern-ma-architecture"
+--- title: "The Power of Private Credit in Modern M&A Architecture" description: "Institutional briefing on the structural role of private credit in contemporary M&A architecture, focusing on capital stack dynamics, liquidity engineering, and strategic alignment for UHNWIs and institutional allocators." date: "2025-08-14" author: "Roials Capital (Institutional Briefing)" slug: "private-credit-modern-ma-architecture"
 ---
 
 The liquidity imbalance in North American and European corporate markets is not a temporary condition.

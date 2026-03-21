@@ -13,7 +13,7 @@ Institutional capital now moves with an expectation of precision.
 
 It seeks collateral structures that behave consistently under pressure, and it seeks Asset-Backed Frameworks mechanics that can be executed without reputational noise.
 
-This is the landscape ROIALS CAPITAL was engineered for.
+This is the landscape Roials Capital was engineered for.
 
 We operate where liquidity, structure, and discretion intersect.
 
@@ -51,7 +51,7 @@ Public share Strategic Collateralization will require even more discretion.
 
 Private credit will become a default liquidity mechanism rather than a niche solution.
 
-And ROIALS CAPITAL will continue to define the mechanics that support these transitions.
+And Roials Capital will continue to define the mechanics that support these transitions.
 
 The 2026 Imperative: Structural Liquidity The evolution of private credit in 2026 is not a trend. It is a structural reset.
 
@@ -61,7 +61,7 @@ Those who control their capital flows maintain authority.
 
 Those who rely on traditional channels expose themselves to friction.
 
-ROIALS CAPITAL stands in the quiet zone between complexity and execution.
+Roials Capital stands in the quiet zone between complexity and execution.
 
 We provide the frameworks that allow high net worth and ultra high net worth individuals to unlock liquidity without noise.
 
@@ -69,9 +69,13 @@ We do not chase markets.
 
 We design the structures they eventually adopt.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

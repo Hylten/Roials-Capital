@@ -1,4 +1,4 @@
---- title: "Capital Efficiency for the Modern Balance Sheet: Silent Authority in Core Holdings" description: "Institutional blueprint for capital efficiency, balance‑sheet hardening, and capital raising strategy for Fund-III and associated mandates." date: "2026-01-10" author: "ROIALS CAPITAL | Principal" slug: "capital-efficiency-modern-balance-sheet-silent-authority"
+--- title: "Capital Efficiency for the Modern Balance Sheet: Silent Authority in Core Holdings" description: "Institutional blueprint for capital efficiency, balance‑sheet hardening, and capital raising strategy for Fund-III and associated mandates." date: "2026-01-10" author: "Roials Capital | Principal" slug: "capital-efficiency-modern-balance-sheet-silent-authority"
 ---
 
 principal authority begins where visible leverage ends.
@@ -683,9 +683,13 @@ Fund-III must embody that principle.
 
 - Mandate: Initiate confidential capital audit across all Fund-III holdings and targets.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

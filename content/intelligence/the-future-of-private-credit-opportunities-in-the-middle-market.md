@@ -47,15 +47,19 @@ Key Focus Areas for 2026
 
 * Defensive businesses essential to supply chain resilience.
 
-CONCLUSIO N
+CONCLUSION
 
 At Roials Capital, we believe that navigating this environment requires more than capital deployment; it necessitates operational integration and precise risk architecture.
 
 The middle market is not merely a segment of private credit; it is the arena where alpha is systematically constructed.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

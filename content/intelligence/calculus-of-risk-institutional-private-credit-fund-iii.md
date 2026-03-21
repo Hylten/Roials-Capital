@@ -1,4 +1,4 @@
---- title: "The Calculus of Risk in Institutional Private Credit for Fund-III" description: "A principal-level framework on risk calculus, capital formation, liquidity engineering, and jurisdictional structuring for institutional LP/GP audiences advancing Fund-III buyouts, add‑ons, and energy mandates." date: "2025-08-27" author: "ROIALS CAPITAL" slug: "calculus-of-risk-institutional-private-credit-Fund-III"
+--- title: "The Calculus of Risk in Institutional Private Credit for Fund-III" description: "A principal-level framework on risk calculus, capital formation, liquidity engineering, and jurisdictional structuring for institutional LP/GP audiences advancing Fund-III buyouts, add‑ons, and energy mandates." date: "2025-08-27" author: "Roials Capital" slug: "calculus-of-risk-institutional-private-credit-Fund-III"
 ---
 
 Institutional private credit is no longer a yield engine.
@@ -537,9 +537,13 @@ For GPs ready to fortify Fund‑III, expand institutional velocity, and pressure
 
 Terminal Metric: Required Liquidity Coverage Ratio (LCR) for Fund‑III institutional readiness = 1.62x minimum.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

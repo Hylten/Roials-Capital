@@ -7,7 +7,7 @@ They reward precision.
 
 They respect only those actors who build frameworks that cannot be destabilized by volatility or sentiment.
 
-ROIALS CAPITAL belongs to that architecture.
+Roials Capital belongs to that architecture.
 
 We lend against private credit and asset-based portfolios.
 
@@ -35,7 +35,7 @@ Asset-based Strategic Collateralization is not about leverage.
 
 It is about structural liquidity engineered from assets that already hold intrinsic strength.
 
-ROIALS CAPITAL applies this standard universally.
+Roials Capital applies this standard universally.
 
 The Institutional Definition of Asset-Based Institutional Liquidity Paths Traditional definitions of Asset-Based Lending focus on collateralizing tangible assets. Institutional Asset-Based Lending expands the frame.
 
@@ -63,7 +63,7 @@ Structural Mechanics: The principal authority Principle High-trust capital relat
 
 We bring the structure.
 
-ROIALS CAPITAL enforces the principal authority principle.
+Roials Capital enforces the principal authority principle.
 
 This means the architecture does not shout.
 
@@ -77,7 +77,7 @@ It becomes the gravitational center around which the transaction aligns.
 
 Our role is to provide the structural mechanics that make institutional liquidity predictable and repeatable for HNWI and UHNW clients.
 
-This is the delta that separates ROIALS CAPITAL from transactional lenders.
+This is the delta that separates Roials Capital from transactional lenders.
 
 Capital Structuring Against Private Credit Private credit is the backbone of modern private capital markets. It offers predictable yield, contract-defined flows, and a non-public execution environment.
 
@@ -97,7 +97,7 @@ In institutional terms, private credit behaves like a stabilized yield engine.
 
 This makes it highly suitable for engineered liquidity.
 
-ROIALS CAPITAL specializes in this domain.
+Roials Capital specializes in this domain.
 
 Asset-Based Asset-Backed Frameworks in the Institutional Domain Asset-Based Lending at the elite level is not merely collateralization. It is a full structural engineering exercise.
 
@@ -139,7 +139,7 @@ We assess:
 
 - Derivatives overlays when applicable.
 
-Crypto Monetization Architecture at ROIALS CAPITAL is not a speculative facility.
+Crypto Monetization Architecture at Roials Capital is not a speculative facility.
 
 It is a controlled liquidity engine designed for portfolios that already operate at institutional scale.
 
@@ -185,7 +185,7 @@ The architecture should be invisible.
 
 The outcomes should be predictable.
 
-This is the ROIALS CAPITAL philosophy.
+This is the Roials Capital philosophy.
 
 The Architecture of Liquidity: How We Engineer Stability Institutional Asset-Based Lending requires engineering. Not improvisation.
 
@@ -227,7 +227,7 @@ The Role of Thresholds in Maintaining Institutional Integrity Minimum thresholds
 
 They ensure that every participant in the system contributes to its structural quality.
 
-ROIALS CAPITAL maintains:
+Roials Capital maintains:
 
 - 2,000,
 
@@ -269,7 +269,7 @@ Institutional Asset-Based Lending is not tactical.
 
 It is architectural.
 
-The ROIALS CAPITAL Position in the Private Institutional Liquidity Paths Ecosystem We do not compete with retail lenders. We do not compete with automated Monetization Architecture platforms.
+The Roials Capital Position in the Private Institutional Liquidity Paths Ecosystem We do not compete with retail lenders. We do not compete with automated Monetization Architecture platforms.
 
 We do not compete with high-volume, low-integrity credit providers.
 
@@ -305,15 +305,19 @@ It is to maintain optionality.
 
 It is to maintain the ability to act without friction.
 
-ROIALS CAPITAL builds the frameworks that protect these abilities.
+Roials Capital builds the frameworks that protect these abilities.
 
 This is institutional asset-based Strategic Collateralization.
 
 This is the architecture that governs elite capital.
 
-Request Confidential Audit To align your assets with institutional-grade liquidity, request a confidential audit. TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+Request Confidential Audit To align your assets with institutional-grade liquidity, request a confidential audit. TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

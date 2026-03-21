@@ -1,4 +1,4 @@
---- title: "Strategic Asset Allocation for Long‑Term Liquidity: The Architecture of Durable Capital" description: "Institutional brief on capital durability, liquidity engineering, buyout structures, and multi‑jurisdictional asset design optimized for Fund-III capital raising and long‑horizon private markets." date: "2025-09-06" author: "ROIALS CAPITAL" slug: "strategic-asset-allocation-long-term-liquidity"
+--- title: "Strategic Asset Allocation for Long‑Term Liquidity: The Architecture of Durable Capital" description: "Institutional brief on capital durability, liquidity engineering, buyout structures, and multi‑jurisdictional asset design optimized for Fund-III capital raising and long‑horizon private markets." date: "2025-09-06" author: "Roials Capital" slug: "strategic-asset-allocation-long-term-liquidity"
 ---
 
 Durable capital is not an idea.
@@ -549,9 +549,13 @@ Conviction reached.
 
 Provide confidential capital audit data to initiate structural mapping.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

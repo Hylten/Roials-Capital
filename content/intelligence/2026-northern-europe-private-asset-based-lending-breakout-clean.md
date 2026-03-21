@@ -1,4 +1,4 @@
---- title: "The Northern European Breakout: Why 2026 Becomes the Ascendancy Year for Private Asset‑Based Lending" description: "A principal-level briefing on the structural, jurisdictional, and institutional catalysts driving the acceleration of private Asset-Based Lending in Northern Europe through 2026, within the capital-raising architecture of Fund-III buyouts, add-ons, and special mandates." date: "2025-09-20" author: "ROIALS CAPITAL" slug: "2026-northern-europe-private-asset-based-lending-breakout"
+--- title: "The Northern European Breakout: Why 2026 Becomes the Ascendancy Year for Private Asset‑Based Lending" description: "A principal-level briefing on the structural, jurisdictional, and institutional catalysts driving the acceleration of private Asset-Based Lending in Northern Europe through 2026, within the capital-raising architecture of Fund-III buyouts, add-ons, and special mandates." date: "2025-09-20" author: "Roials Capital" slug: "2026-northern-europe-private-asset-based-lending-breakout"
 ---
 
 The inflection point is already visible.
@@ -315,7 +315,7 @@ Northern Europe now offers that combination with unprecedented clarity.
 
 -
 
-# Qualification Architecture ROIALS CAPITAL maintains strict entry thresholds for private Asset-Based Lending partnerships.
+# Qualification Architecture Roials Capital maintains strict entry thresholds for private Asset-Based Lending partnerships.
 
 Structural requirements are foundational.
 
@@ -367,7 +367,7 @@ Institutions follow outcomes. 2026 becomes the breakout year because the market 
 
 Private Asset-Based Lending sits at the center of Northern Europe's industrial future.
 
-ROIALS CAPITAL sits at the center of that lending universe.
+Roials Capital sits at the center of that lending universe.
 
 -
 

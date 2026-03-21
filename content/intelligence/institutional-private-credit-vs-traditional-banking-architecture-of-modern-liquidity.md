@@ -1,4 +1,4 @@
---- title: "Institutional Private Credit vs Traditional Banking: The Architecture of Modern Liquidity" description: "A technical briefing on the regime shift from regulated banking credit to institutional private credit, with emphasis on capital formation mechanics, liquidity engineering architectures, and the operational structures behind Fund-III execution environments." date: "2025-09-07" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "institutional-private-credit-vs-traditional-banking-architecture-of-modern-liquidity"
+--- title: "Institutional Private Credit vs Traditional Banking: The Architecture of Modern Liquidity" description: "A technical briefing on the regime shift from regulated banking credit to institutional private credit, with emphasis on capital formation mechanics, liquidity engineering architectures, and the operational structures behind Fund-III execution environments." date: "2025-09-07" author: "Roials Capital (Institutional Briefing)" slug: "institutional-private-credit-vs-traditional-banking-architecture-of-modern-liquidity"
 ---
 
 The capital vacuum across North American and European credit markets is a structural consequence of regulatory compression, not a contraction in underlying economic productivity.
@@ -219,9 +219,13 @@ Roials Capital supports allocators through confidential strategy audits and port
 
 The objective is to align institutional capital with the correct liquidity architecture, ensuring precise navigation across markets that demand technical intelligence rather than generalist assumptions. [END OF INSTITUTIONAL BRIEFING]
 
-# TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+# TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

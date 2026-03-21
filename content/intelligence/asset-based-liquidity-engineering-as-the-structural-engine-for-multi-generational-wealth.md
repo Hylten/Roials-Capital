@@ -289,7 +289,7 @@ Liquidity without visibility is the core of principal authority.
 
 Roials Capital is built for that environment.
 
-CONCLUSIO N
+CONCLUSION
 
 Asset based Capital Structuring is not a tactic.
 
@@ -313,9 +313,13 @@ Our thresholds are exact.
 
 Our authority is silent.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

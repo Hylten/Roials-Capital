@@ -9,7 +9,7 @@ Liquidity channels fragment.
 
 The elite wealth holder, particularly in the HNWI and UHNW segments, now operates within a field where stability is no longer found but engineered.
 
-ROIALS CAPITAL approaches this environment with an architectural premise.
+Roials Capital approaches this environment with an architectural premise.
 
 Capital requires scaffolding.
 
@@ -31,7 +31,7 @@ The legal, financial, and custody environments shift.
 
 Volatility is multiplied, not neutralized.
 
-To counter this, ROIALS CAPITAL deploys frameworks that convert global exposures into stable liquidity engines.
+To counter this, Roials Capital deploys frameworks that convert global exposures into stable liquidity engines.
 
 We treat jurisdiction as a variable.
 
@@ -59,7 +59,7 @@ When portfolios are structured with Monetization Architecture capacity in mind, 
 
 They shift from being passive stores of value to active counterparts within a broader liquidity matrix.
 
-ROIALS CAPITAL maintains Capital Structuring capabilities across three primary domains.
+Roials Capital maintains Capital Structuring capabilities across three primary domains.
 
 Each one reinforces the hardening effect.
 
@@ -87,7 +87,7 @@ It allows high-value assets to be redeployed into leverage without equity liquid
 
 It creates multi-jurisdictional resilience, because credit structures travel more efficiently than equities or real estate.
 
-ROIALS CAPITAL lends against private credit positions held by HNWI and UHNW clients.
+Roials Capital lends against private credit positions held by HNWI and UHNW clients.
 
 This Monetization Architecture capacity becomes the backbone of a hardened global portfolio.
 
@@ -109,7 +109,7 @@ Valuation protocols that remain valid under stress conditions.
 
 Legal defensibility that supports the liquidity facility structure even when geopolitical conditions shift.
 
-ROIALS CAPITAL operates inside this framework with institutional discipline.
+Roials Capital operates inside this framework with institutional discipline.
 
 No velocity.
 
@@ -123,7 +123,7 @@ It becomes a permanent component of portfolio construction.
 
 Crypto Capital Structuring, Institutional Thresholds, and Volatility Conversion Digital asset markets maintain volatility cycles far more aggressive than traditional markets. For most institutions, this is friction.
 
-For ROIALS CAPITAL, it is conversion energy.
+For Roials Capital, it is conversion energy.
 
 Volatility becomes structure once collateral is properly framed.
 
@@ -151,7 +151,7 @@ Public Share Capital Structuring at Scale Public equities remain functional for 
 
 Above this threshold, shares can be treated as structural liquidity collateral.
 
-ROIALS CAPITAL provides Capital Structuring against public share positions starting at five million dollars.
+Roials Capital provides Capital Structuring against public share positions starting at five million dollars.
 
 This is the level at which portfolio physics shift.
 
@@ -187,7 +187,7 @@ HNWI and UHNW portfolios therefore require engineered hardness, not passive dive
 
 Hardness is the ability of a portfolio to remain liquid and operational under conditions where markets fail to provide liquidity naturally.
 
-ROIALS CAPITAL positions itself within this environment with principal authority.
+Roials Capital positions itself within this environment with principal authority.
 
 We do not amplify risk.
 
@@ -223,7 +223,7 @@ Capital cannot respond.
 
 Opportunities cannot be captured.
 
-ROIALS CAPITAL mitigates these scenarios through engineered liquidity structures.
+Roials Capital mitigates these scenarios through engineered liquidity structures.
 
 Private credit lines remain stable.
 
@@ -259,7 +259,7 @@ It is a structural necessity.
 
 The Role of Institutional-Level Mechanics HNWI and UHNW clients often encounter an asymmetry. They have institutional-size portfolios but lack access to institutional-grade liquidity structures.
 
-ROIALS CAPITAL functions to eliminate that asymmetry.
+Roials Capital functions to eliminate that asymmetry.
 
 We provide the mechanics that normally exist only inside large capital institutions.
 
@@ -297,7 +297,7 @@ Asset based Institutional Liquidity Paths will grow in relevance as collateraliz
 
 Digital assets and public shares will remain viable only when treated institutionally.
 
-ROIALS CAPITAL operates at the intersection of these trends.
+Roials Capital operates at the intersection of these trends.
 
 Our mandate is not to predict volatility.
 
@@ -321,7 +321,7 @@ Lock
 
 High-trust custody arrangements that resist regulatory interference.
 
-ROIALS CAPITAL builds portfolios that maintain this state.
+Roials Capital builds portfolios that maintain this state.
 
 We do not chase markets.
 
@@ -331,7 +331,7 @@ Closing Position Cross-border asset hardening is the strategic response to a new
 
 It is the transformation of global assets into a sovereign liquidity system under the client’s control.
 
-ROIALS CAPITAL serves as the architect of that system.
+Roials Capital serves as the architect of that system.
 
 Quietly.
 
@@ -339,9 +339,13 @@ Precisely.
 
 With institutional integrity.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

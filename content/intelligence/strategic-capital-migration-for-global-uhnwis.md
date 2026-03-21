@@ -7,7 +7,7 @@ Capital that does not migrate strategically becomes captive capital.
 
 Capital that migrates without discipline becomes exposed capital.
 
-ROIALS CAPITAL operates in the silent space between these two conditions, the space where structural precision determines long range advantage.
+Roials Capital operates in the silent space between these two conditions, the space where structural precision determines long range advantage.
 
 Ultra high net worth individuals, family offices, and principal-led investment vehicles are entering a new liquidity epoch.
 
@@ -23,7 +23,7 @@ The modern requirement is architectural control over liquidity, portability, and
 
 This is the domain of strategic capital migration.
 
-ROIALS CAPITAL provides structural mechanics that enable cross-jurisdictional liquidity through private credit, asset based Capital Structuring, public share Institutional Liquidity Paths, and institutional crypto Asset-Backed Frameworks.
+Roials Capital provides structural mechanics that enable cross-jurisdictional liquidity through private credit, asset based Capital Structuring, public share Institutional Liquidity Paths, and institutional crypto Asset-Backed Frameworks.
 
 We do not sell products.
 
@@ -75,7 +75,7 @@ It is not arbitrage.
 
 It is structural advantage.
 
-ROIALS CAPITAL functions as the architect of that advantage.
+Roials Capital functions as the architect of that advantage.
 
 -
 
@@ -106,7 +106,7 @@ Non Correlated Leverage Private credit operates on underwriting logic that is di
 
 Its stability becomes the foundation for predictable capital migration planning.
 
-ROIALS CAPITAL provides private credit solutions that are built for the top 0:
+Roials Capital provides private credit solutions that are built for the top 0:
 1 percent.
 
 Quiet structures.
@@ -145,7 +145,7 @@ Typical eligible collateral includes:
 
 Asset-Based Lending is the skeleton that supports tax strategy, jurisdictional flexibility, investment deployment, and family continuity.
 
-ROIALS CAPITAL executes Asset-Based Lending with institutional governance and principal authority.
+Roials Capital executes Asset-Based Lending with institutional governance and principal authority.
 
 The structure, not the institution, becomes the power.
 
@@ -159,7 +159,7 @@ The structure, not the institution, becomes the power.
 
 Public shares carry liquidity but rarely deliver leverage at institutional terms unless engineered correctly.
 
-ROIALS CAPITAL provides public share Monetization Architecture for clients who meet the minimum threshold of 5,000,
+Roials Capital provides public share Monetization Architecture for clients who meet the minimum threshold of 5,000,
 
 000 dollars in publicly listed securities.
 
@@ -185,7 +185,7 @@ Public share Institutional Liquidity Paths serves three purposes in strategic ca
 
 However, crypto Capital Structuring for retail markets bears no resemblance to institutional crypto Strategic Collateralization.
 
-ROIALS CAPITAL operates exclusively at the institutional tier.
+Roials Capital operates exclusively at the institutional tier.
 
 The minimum threshold for crypto Asset-Backed Frameworks is 2,000,
 
@@ -203,7 +203,7 @@ UHNW crypto Institutional Liquidity Paths is built on three pillars:
 
 Its global mobility, speed of settlement, and independence from traditional custodial systems create unique liquidity channels during periods of market stress or geopolitical fragmentation.
 
-ROIALS CAPITAL positions crypto Monetization Architecture within a disciplined institutional framework that removes noise and reinforces security.
+Roials Capital positions crypto Monetization Architecture within a disciplined institutional framework that removes noise and reinforces security.
 
 -
 
@@ -227,7 +227,7 @@ A well constructed migration strategy includes:
 
 - Tertiary jurisdiction for strategic redundancy This tri level model ensures continuity, privacy, and resilience.
 
-ROIALS CAPITAL designs structures that allow assets to remain anchored while liquidity migrates freely across jurisdictions.
+Roials Capital designs structures that allow assets to remain anchored while liquidity migrates freely across jurisdictions.
 
 The client retains the narrative.
 
@@ -243,7 +243,7 @@ The structure exerts principal authority.
 
 Our clients operate without friction.
 
-principal authority is the internal principle guiding ROIALS CAPITAL.
+principal authority is the internal principle guiding Roials Capital.
 
 We do not display dominance.
 
@@ -345,7 +345,7 @@ Those who operate within legacy systems will face constraint.
 
 Those who design structures around liquidity will hold advantage.
 
-ROIALS CAPITAL’s mission is singular.
+Roials Capital’s mission is singular.
 
 Provide the structural mechanics that allow UHNW capital to remain liquid, invisible, and sovereign across jurisdictions.
 
@@ -353,9 +353,13 @@ We do not follow the market.
 
 We design the system the market adapts to.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

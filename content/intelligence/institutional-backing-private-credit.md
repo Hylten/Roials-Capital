@@ -1,4 +1,4 @@
---- title: "The Power of Institutional Backing in Private Credit" description: "A technical briefing on institutional alignment, capital stack stability, and strategic partner dynamics within the global private credit landscape, with applied relevance to Fund-III+ capital formation, liquidity engineering, and special mandate deployment." date: "2025-11-28" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "institutional-backing-private-credit"
+--- title: "The Power of Institutional Backing in Private Credit" description: "A technical briefing on institutional alignment, capital stack stability, and strategic partner dynamics within the global private credit landscape, with applied relevance to Fund-III+ capital formation, liquidity engineering, and special mandate deployment." date: "2025-11-28" author: "Roials Capital (Institutional Briefing)" slug: "institutional-backing-private-credit"
 ---
 
 The structural gap in private credit today is not driven by a shortage of opportunities.
@@ -229,9 +229,13 @@ The lens includes:
 
 - Alignment with internal liquidity mandates Roials Capital conducts confidential strategy audits for allocators seeking calibration of their private credit exposure, alignment with institutional partners, and intelligence on specialized mandates including North American energy and European capital formation. [END OF BRIEFING]
 
-# TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+# TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

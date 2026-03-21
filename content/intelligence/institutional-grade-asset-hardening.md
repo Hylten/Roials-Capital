@@ -1,4 +1,4 @@
---- title: "Institutional Grade Infrastructure for Asset Hardening" description: "High conviction framework for capital hardening mechanics, Asset-Based Lending liquidity engineering, and private market acquisition readiness for Fund-III scale structures" date: "2026-01-27" author: "ROIALS CAPITAL" slug: "institutional-grade-asset-hardening"
+--- title: "Institutional Grade Infrastructure for Asset Hardening" description: "High conviction framework for capital hardening mechanics, Asset-Based Lending liquidity engineering, and private market acquisition readiness for Fund-III scale structures" date: "2026-01-27" author: "Roials Capital" slug: "institutional-grade-asset-hardening"
 ---
 
 Order does not appear by accident.
@@ -158,7 +158,7 @@ Velocity is nothing without control.
 
 Control is nothing without structure.
 
-ROIALS CAPITAL operates under one structural assumption: institutional capital does not chase opportunity.
+Roials Capital operates under one structural assumption: institutional capital does not chase opportunity.
 
 It allocates into systems.
 
@@ -288,9 +288,13 @@ The technical metric that governs every structure we deploy is this: The hardene
 
 This is the institutional threshold.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Request confidential capital audit.
 

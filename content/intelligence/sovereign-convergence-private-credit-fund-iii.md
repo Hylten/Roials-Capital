@@ -1,4 +1,4 @@
---- title: "The Sovereign Convergence: Private Credit Ascendant and the Reconstitution of Wealth" description: "Institutional brief on the structural ascent of private credit, sovereign capital realignment, and Fund-III capital formation strategies across buyouts, liquidity engineering, and special mandates." date: "2025-07-22" author: "ROIALS CAPITAL" slug: "sovereign-convergence-private-credit-Fund-III"
+--- title: "The Sovereign Convergence: Private Credit Ascendant and the Reconstitution of Wealth" description: "Institutional brief on the structural ascent of private credit, sovereign capital realignment, and Fund-III capital formation strategies across buyouts, liquidity engineering, and special mandates." date: "2025-07-22" author: "Roials Capital" slug: "sovereign-convergence-private-credit-Fund-III"
 ---
 
 The architecture of global capital is shifting again.
@@ -496,13 +496,17 @@ Structure deals that survive inflation, regulation, and politics.
 
 The future belongs to disciplined architects with jurisdictional clarity and sovereign compatibility.
 
-For confidential capital audit: contact ROIALS CAPITAL.
+For confidential capital audit: contact Roials Capital.
 
 Leverage Ratio Target: 1.85x.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

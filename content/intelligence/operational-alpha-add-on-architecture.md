@@ -1,4 +1,4 @@
---- title: "The Principal Doctrine of Operational Alpha in Add‑On Buyout Architecture" description: "A private Principal‑level briefing on why operational alpha now eclipses legacy financial engineering in Fund‑III+ add‑on environments, with direct implications for capital raising, GP signalling, and institutional allocations." date: "2025-12-15" author: "ROIALS CAPITAL" slug: "operational-alpha-add-on-architecture"
+--- title: "The Principal Doctrine of Operational Alpha in Add‑On Buyout Architecture" description: "A private Principal‑level briefing on why operational alpha now eclipses legacy financial engineering in Fund‑III+ add‑on environments, with direct implications for capital raising, GP signalling, and institutional allocations." date: "2025-12-15" author: "Roials Capital" slug: "operational-alpha-add-on-architecture"
 ---
 
 The pivot is not philosophical.
@@ -159,7 +159,7 @@ And the GP who constructs an industrial organism.
 
 Only one receives Fund‑III allocations without resistance.
 
-* ROIALS CAPITAL Position.
+* Roials Capital Position.
 
 We are the operational engine for capital formation.
 
@@ -293,7 +293,7 @@ Operational excellence is the foundation of GP credibility.
 
 Financial engineering is only the decoration.
 
-* The Role of ROIALS CAPITAL in this Environment.
+* The Role of Roials Capital in this Environment.
 
 We are the gatekeepers of institutional seriousness.
 
@@ -321,7 +321,7 @@ We enforce them.
 
 Because scarcity drives respect, and respect drives commitments.
 
-A GP aligned with ROIALS CAPITAL enters the room with institutional posture.
+A GP aligned with Roials Capital enters the room with institutional posture.
 
 The LP senses the distinction immediately.
 

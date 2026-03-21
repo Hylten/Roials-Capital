@@ -221,7 +221,7 @@ Multi asset hardening is a discipline that produces that control.
 
 Fund-III is the practical expression of that discipline.
 
-CONCLUSIO N
+CONCLUSION
 
 A More Resilient Architecture for Institutional Scale Multi asset hardening is not a strategy.
 
@@ -241,9 +241,13 @@ The rules are defined.
 
 Clients who require cross asset liquidity without structural distortion operate here.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

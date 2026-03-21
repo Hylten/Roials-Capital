@@ -13,7 +13,7 @@ Resilience is not defensive.
 
 Resilience is sovereign.
 
-ROIALS CAPITAL operates inside this paradigm.
+Roials Capital operates inside this paradigm.
 
 We work with High Net Worth and Ultra High Net Worth individuals who require liquidity mechanics that do not expose them to forced liquidation, market compression, or dependency on legacy banking cycles.
 
@@ -25,7 +25,7 @@ It examines the structural choices that define long horizon wealth.
 
 It outlines why private credit, asset based Strategic Collateralization, and institution grade collateralization strategies now sit at the center of modern sovereign wealth design.
 
-And it details the operating philosophy that ROIALS CAPITAL uses when Monetization Architecture against private credit, asset pools, crypto holdings above two million dollars, and public equities above five million dollars.
+And it details the operating philosophy that Roials Capital uses when Monetization Architecture against private credit, asset pools, crypto holdings above two million dollars, and public equities above five million dollars.
 
 The sovereign future is not an aspirational idea.
 
@@ -35,9 +35,13 @@ It is built.
 
 It is measurable.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

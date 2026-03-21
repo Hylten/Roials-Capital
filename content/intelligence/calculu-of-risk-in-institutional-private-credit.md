@@ -1,4 +1,4 @@
---- title: "The Calculus Of Risk In Institutional Private Credit" description: "An institutional briefing on risk stratification, structural credit mechanics, and capital formation dynamics shaping Fund-III+ buyouts, liquidity engineering mandates, and North American energy special situations." date: "2026-02-15" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "calculu-of-risk-in-institutional-private-credit"
+--- title: "The Calculus Of Risk In Institutional Private Credit" description: "An institutional briefing on risk stratification, structural credit mechanics, and capital formation dynamics shaping Fund-III+ buyouts, liquidity engineering mandates, and North American energy special situations." date: "2026-02-15" author: "Roials Capital (Institutional Briefing)" slug: "calculu-of-risk-in-institutional-private-credit"
 ---
 
 The capital vacuum in North American private credit is the predictable outcome of regulatory fragmentation and institutional retrenchment rather than a deterioration in asset quality.
@@ -243,9 +243,13 @@ Roials Capital provides confidential strategy audits and portfolio calibrations 
 
 The objective is to ensure that institutions deploy capital with clarity, technical precision, and structural advantage. [END OF BRIEFING]
 
-# TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+# TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

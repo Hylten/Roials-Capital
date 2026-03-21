@@ -1,4 +1,4 @@
---- title: "Precision Financing Architecture for Institutional Scale Projects" description: "Institutional briefing on capital formation mechanics, liquidity engineering structures, and strategic partner alignment for Fund-III and subsequent buyout platforms, including optionality in North American energy and European acquisition frameworks." date: "2025-09-14" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "precision-financing-architecture-institutional"
+--- title: "Precision Financing Architecture for Institutional Scale Projects" description: "Institutional briefing on capital formation mechanics, liquidity engineering structures, and strategic partner alignment for Fund-III and subsequent buyout platforms, including optionality in North American energy and European acquisition frameworks." date: "2025-09-14" author: "Roials Capital (Institutional Briefing)" slug: "precision-financing-architecture-institutional"
 ---
 
 The capital vacuum in North American industrial and energy markets is a consequence of regulatory drift and balance sheet inertia, not a shortage of viable assets.

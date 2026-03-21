@@ -1,4 +1,4 @@
---- title: "Legacy Hardening: The Structural Advantage in the 2026 Institutional Capital Regime" description: "A high density institutional analysis on the legacy hardening thesis, structural capital vacuums, and the regime shift reshaping North American energy and private markets for Fund-III allocators." date: "2025-07-21" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "legacy-hardening-structural-advantage"
+--- title: "Legacy Hardening: The Structural Advantage in the 2026 Institutional Capital Regime" description: "A high density institutional analysis on the legacy hardening thesis, structural capital vacuums, and the regime shift reshaping North American energy and private markets for Fund-III allocators." date: "2025-07-21" author: "Roials Capital (Institutional Briefing)" slug: "legacy-hardening-structural-advantage"
 ---
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion.
@@ -183,9 +183,13 @@ Structural alignment is the execution.
 
 Institutional navigation is the differentiator. [END OF BRIEFING]
 
-# TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+# TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

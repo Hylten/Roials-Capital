@@ -1,4 +1,4 @@
---- title: "The Sovereign Capital Interlock" description: "Institutional analysis of sovereign capital infrastructure, regime realignment, cash flow mechanics, and the capital-raising doctrine for Fund-III scale partnerships." date: "2025-07-02" author: "ROIALS CAPITAL" slug: "sovereign-capital-infrastructure-interlock"
+--- title: "The Sovereign Capital Interlock" description: "Institutional analysis of sovereign capital infrastructure, regime realignment, cash flow mechanics, and the capital-raising doctrine for Fund-III scale partnerships." date: "2025-07-02" author: "Roials Capital" slug: "sovereign-capital-infrastructure-interlock"
 ---
 
 A structural gap defines every future market.
@@ -107,7 +107,7 @@ The GP must already be architected for scale.
 
 The GP must be able to deploy capital across energy heavy assets, cash generative industrials, and jurisdictional buyouts.
 
-At ROIALS CAPITAL, we align with allocators who treat timing as a decisive factor of stewardship.
+At Roials Capital, we align with allocators who treat timing as a decisive factor of stewardship.
 
 Delay is waste.
 
@@ -241,7 +241,7 @@ Sovereign allocators want to partner with a GP that operates like a national ins
 
 Not like a fund manager chasing its next raise.
 
-Our model at ROIALS CAPITAL is designed for sovereign partnership scale.
+Our model at Roials Capital is designed for sovereign partnership scale.
 
 Velocity with precision. Aggressive but controlled. Hard limits.
 
@@ -410,9 +410,13 @@ EXIT Target yield displacement threshold:
 
 340 to 460 basis points above sovereign benchmark curves.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Request confidential capital audit.
 

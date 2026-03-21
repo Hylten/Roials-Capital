@@ -1,4 +1,4 @@
---- title: "The Evolution of Private Credit in 2026: The New Architecture of Institutional Liquidity" description: "A clinical institutional briefing on the macro regime shift in global private credit, structural liquidity mechanics, balance sheet optimization, and the emerging capital architecture shaping Fund-III+ buyout execution, ABL liquidity engineering, and North American energy acquisitions in 2026." date: "2026-01-29" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "private-credit-architecture-2026-institutional-briefing"
+--- title: "The Evolution of Private Credit in 2026: The New Architecture of Institutional Liquidity" description: "A clinical institutional briefing on the macro regime shift in global private credit, structural liquidity mechanics, balance sheet optimization, and the emerging capital architecture shaping Fund-III+ buyout execution, ABL liquidity engineering, and North American energy acquisitions in 2026." date: "2026-01-29" author: "Roials Capital (Institutional Briefing)" slug: "private-credit-architecture-2026-institutional-briefing"
 ---
 
 The structural gap defining the 2026 private credit cycle is the result of central bank persistence, capital market fragmentation, and the withdrawal of traditional bank lending capacity.
@@ -151,7 +151,7 @@ This creates credit friendly cash flow visibility when managed by an institution
 
 Our strategic partner NAEO exemplifies this with operational intelligence, long life reserves, and frictionless balance sheet transparency.
 
-THE PARTNERSHIP MODEL AND ROIALS CAPITAL AS STRATEGIC NAVIGATOR Roials Capital operates as a neutral institutional introducer.
+THE PARTNERSHIP MODEL AND Roials Capital AS STRATEGIC NAVIGATOR Roials Capital operates as a neutral institutional introducer.
 
 The function is not capital solicitation.
 

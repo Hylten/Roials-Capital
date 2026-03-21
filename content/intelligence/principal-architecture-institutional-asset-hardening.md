@@ -1,4 +1,4 @@
---- title: "Principal Architecture for Institutional‑Grade Asset Hardening" description: "High‑density institutional briefing on capital raising (Fund‑III+), jurisdictional structuring, asset hardening mechanics, liquidity engineering, and acquisition‑grade risk architecture for LP/GP allocators." date: "2025-10-02" author: "ROIALS CAPITAL" slug: "principal-architecture-institutional-asset-hardening"
+--- title: "Principal Architecture for Institutional‑Grade Asset Hardening" description: "High‑density institutional briefing on capital raising (Fund‑III+), jurisdictional structuring, asset hardening mechanics, liquidity engineering, and acquisition‑grade risk architecture for LP/GP allocators." date: "2025-10-02" author: "Roials Capital" slug: "principal-architecture-institutional-asset-hardening"
 ---
 
 The institutional mandate is simple: build structures that cannot break.
@@ -486,7 +486,7 @@ This is principal architecture.
 
 This is institutional language.
 
-This is the ROIALS CAPITAL signature: densified logic, hardened structures, frictionless execution.
+This is the Roials Capital signature: densified logic, hardened structures, frictionless execution.
 
 Fund‑III becomes inevitable when the architecture becomes undeniable.
 
@@ -524,9 +524,13 @@ In institutional finance: the principal leaves a structure that compounds beyond
 
 Fund‑III is that structure.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Request confidential capital audit.
 

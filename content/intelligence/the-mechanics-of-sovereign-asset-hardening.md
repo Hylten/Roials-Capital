@@ -13,7 +13,7 @@ Accumulation is no longer the core problem.
 
 Precision, liquidity reliability, and systemic durability are.
 
-At ROIALS CAPITAL, we operate inside that narrow bandwidth where capital is not managed, it is engineered.
+At Roials Capital, we operate inside that narrow bandwidth where capital is not managed, it is engineered.
 
 We provide private credit and asset based Capital Structuring structures that treat liquidity as a controllable variable.
 
@@ -37,7 +37,7 @@ This requires structural liquidity pathways, not opportunistic ones.
 
 It requires institutional rules, not improvisation.
 
-ROIALS CAPITAL operates as the architect of these institutional rules.
+Roials Capital operates as the architect of these institutional rules.
 
 principal authority.
 
@@ -111,7 +111,7 @@ One asset class reinforces another.
 
 The system behaves as a unified organism rather than isolated components.
 
-The ROIALS CAPITAL Position We are not a retail lender. We are not a generalized financial services firm.
+The Roials Capital Position We are not a retail lender. We are not a generalized financial services firm.
 
 We are architects of liquidity for individuals whose capital behaves at institutional scale.
 
@@ -131,9 +131,13 @@ The capital remains in motion.
 
 The architecture remains invisible.
 
-Request Confidential Audit For clients requiring structural liquidity without exposure, disruption, or signaling, ROIALS CAPITAL provides the institutional mechanics. TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+Request Confidential Audit For clients requiring structural liquidity without exposure, disruption, or signaling, Roials Capital provides the institutional mechanics. TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

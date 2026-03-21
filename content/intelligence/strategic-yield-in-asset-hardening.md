@@ -1,4 +1,4 @@
---- title: "The Strategic Role of Yield in True Asset Hardening for Fund-III Mandates" description: "Institutional brief on yield mechanics, capital durability, and multi‑jurisdictional structuring for buyouts, Asset-Based Lending liquidity engineering, and energy mandates under Fund‑III architecture." date: "2025-11-03" author: "ROIALS CAPITAL" slug: "strategic-yield-in-asset-hardening"
+--- title: "The Strategic Role of Yield in True Asset Hardening for Fund-III Mandates" description: "Institutional brief on yield mechanics, capital durability, and multi‑jurisdictional structuring for buyouts, Asset-Based Lending liquidity engineering, and energy mandates under Fund‑III architecture." date: "2025-11-03" author: "Roials Capital" slug: "strategic-yield-in-asset-hardening"
 ---
 
 Yield is not a return metric.
@@ -313,7 +313,7 @@ When leakage approaches zero, even moderate returns become elite returns on a ri
 
 This is the paradox: yield creates stability, and stability accelerates return velocity more than growth.
 
-HOW ROIALS CAPITAL HARDENS YIELD IN FUND‑III SYSTEMS Our method is structural. Heavy.
+HOW Roials Capital HARDENS YIELD IN FUND‑III SYSTEMS Our method is structural. Heavy.
 
 Intentional.
 
@@ -389,9 +389,13 @@ Technical metric: Target structural yield density ≥ 1.
 
 85 across all Fund‑III assets.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

@@ -1,4 +1,4 @@
---- title: "The Reallocation Mandate: Institutional Realignment for Fund-III Expansion" description: "A principal-level directive on capital reallocation, cross-jurisdictional structuring, and institutional capital engineering for Fund-III buyouts, liquidity mandates, and NAEOC energy acquisitions." date: "2025-07-31" author: "ROIALS CAPITAL" slug: "the-reallocation-mandate-Fund-III"
+--- title: "The Reallocation Mandate: Institutional Realignment for Fund-III Expansion" description: "A principal-level directive on capital reallocation, cross-jurisdictional structuring, and institutional capital engineering for Fund-III buyouts, liquidity mandates, and NAEOC energy acquisitions." date: "2025-07-31" author: "Roials Capital" slug: "the-reallocation-mandate-Fund-III"
 ---
 
 The Reallocation Mandate activates when structural pressures exceed historical comfort bands and when institutional capital requires repositioning toward asymmetric durability.
@@ -47,7 +47,7 @@ Institutional LPs require clarity on risk jurisdiction, liquidity corridors, and
 
 GPs require acceleration, external ballast, and execution partners with sovereign maneuverability.
 
-ROIALS CAPITAL builds the spine.
+Roials Capital builds the spine.
 
 THE MANDAT E
 
@@ -127,7 +127,7 @@ Build directional.
 
 Build irrevocable.
 
-The Reallocation Mandate requires that every institutional dollar entering the ROIALS CAPITAL orbit undergoes three tests:
+The Reallocation Mandate requires that every institutional dollar entering the Roials Capital orbit undergoes three tests:
 
 - Can it accelerate Fund-III buyout momentum?
 
@@ -397,7 +397,7 @@ Not advisory.
 
 Architecture.
 
-ROIALS CAPITAL operates through principal logic.
+Roials Capital operates through principal logic.
 
 Sparse language.
 
@@ -599,9 +599,13 @@ Target throughput ratio: 1.82x within
 
 12 months.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

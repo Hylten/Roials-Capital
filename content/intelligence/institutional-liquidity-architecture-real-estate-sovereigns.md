@@ -1,4 +1,4 @@
---- title: "Institutional Liquidity Architecture for Real Estate Sovereigns" description: "A high density institutional analysis on liquidity engineering, balance sheet optimization, and capital stack recalibration for real estate sovereigns operating under 2026 macro constraints, with strategic alignment for Fund-III mandates." date: "2026-02-09" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "institutional-liquidity-architecture-real-estate-sovereigns"
+--- title: "Institutional Liquidity Architecture for Real Estate Sovereigns" description: "A high density institutional analysis on liquidity engineering, balance sheet optimization, and capital stack recalibration for real estate sovereigns operating under 2026 macro constraints, with strategic alignment for Fund-III mandates." date: "2026-02-09" author: "Roials Capital (Institutional Briefing)" slug: "institutional-liquidity-architecture-real-estate-sovereigns"
 ---
 
 The capital vacuum affecting real estate sovereignties in 2026 is a product of liquidity migration and regulatory compression, not asset obsolescence.
@@ -96,7 +96,7 @@ Balance sheet optimization therefore includes
 
 - lengthening debt duration to match lease maturity curves This creates a liquidity ecosystem where capital availability is engineered rather than negotiated under distress.
 
-THE PARTNERSHIP MODEL THE ROIALS CAPITAL POSITION Roials Capital functions as a strategic navigator for real estate sovereigns and institutional LPs seeking calibrated exposure to stabilized property ecosystems without engaging in transactional risk accumulation.
+THE PARTNERSHIP MODEL THE Roials Capital POSITION Roials Capital functions as a strategic navigator for real estate sovereigns and institutional LPs seeking calibrated exposure to stabilized property ecosystems without engaging in transactional risk accumulation.
 
 The partnership model is defined by neutrality, technical clarity, and capital architecture design rather than asset promotion.
 
@@ -166,9 +166,13 @@ The critical questions revolve around:
 
 - access to programmatic capital insulated from episodic refinancing events Roials Capital provides a confidential strategy audit for sovereign operators and allocators seeking calibrated exposure, ensuring alignment between capital architecture, macro regime conditions, and operational governance.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

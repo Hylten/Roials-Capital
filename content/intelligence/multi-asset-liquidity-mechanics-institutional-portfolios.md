@@ -1,4 +1,4 @@
---- title: "The Mechanics of Multi‑Asset Liquidity for Institutional‑Grade Portfolios" description: "Institutional brief on multi‑asset liquidity engineering, capital formation for Fund-III buyout mandates, and cross‑jurisdictional acquisition structuring under MiFID II, NAEOC, and private credit frameworks." date: "2025-08-19" author: "ROIALS CAPITAL | Principal Desk" slug: "multi-asset-liquidity-mechanics-institutional-portfolios"
+--- title: "The Mechanics of Multi‑Asset Liquidity for Institutional‑Grade Portfolios" description: "Institutional brief on multi‑asset liquidity engineering, capital formation for Fund-III buyout mandates, and cross‑jurisdictional acquisition structuring under MiFID II, NAEOC, and private credit frameworks." date: "2025-08-19" author: "Roials Capital | Principal Desk" slug: "multi-asset-liquidity-mechanics-institutional-portfolios"
 ---
 
 Multi‑asset liquidity is not a market preference.
@@ -658,11 +658,15 @@ A sovereign fund engineers liquidity across all assets, all cycles, all jurisdic
 
 The institutional world rewards the sovereign.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
 
-Request confidential capital audit: ROIALS CAPITAL Liquidity Torque Ratio: 1.83x
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+Request confidential capital audit: Roials Capital Liquidity Torque Ratio: 1.83x
 
 Access is restricted to approved mandates.
 

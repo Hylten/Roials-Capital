@@ -1,4 +1,4 @@
---- title: "Crypto Liquidity Architecture for Sovereign and Ultra Allocators" description: "Institutional liquidity architecture for UHNW and sovereign allocators. Focus on Fund-III capital formation, private credit structuring, and cross-venue liquidity engineering." date: "2026-03-16" author: "ROIALS CAPITAL" slug: "crypto-liquidity-architecture-sovereign-ultra-allocators"
+--- title: "Crypto Liquidity Architecture for Sovereign and Ultra Allocators" description: "Institutional liquidity architecture for UHNW and sovereign allocators. Focus on Fund-III capital formation, private credit structuring, and cross-venue liquidity engineering." date: "2026-03-16" author: "Roials Capital" slug: "crypto-liquidity-architecture-sovereign-ultra-allocators"
 ---
 
 Order collapses when liquidity behaves like vapor instead of capital.
@@ -321,9 +321,13 @@ The target metric for Fund-III is simple.
 
 Execution certainty at 98 percent fill rate across all routed trades under volatility stress.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Request confidential capital audit.
 

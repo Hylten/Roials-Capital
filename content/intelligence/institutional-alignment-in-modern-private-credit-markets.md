@@ -19,7 +19,7 @@ Predictability.
 
 Adherence to structural logic.
 
-ROIALS CAPITAL positions itself inside that institutional grammar.
+Roials Capital positions itself inside that institutional grammar.
 
 We do not expand it.
 
@@ -71,7 +71,7 @@ The lender analyzes the collateral, maps the liquidation path, and prices the ri
 
 This removes personality from the equation and replaces it with mechanics.
 
-ROIALS CAPITAL lends against private credit and asset based positions.
+Roials Capital lends against private credit and asset based positions.
 
 This means the conversation is not about promises.
 
@@ -103,7 +103,7 @@ Institutional alignment requires that private credit not be treated as a specula
 
 That discipline is what allows private credit to be used as collateral in the first place.
 
-When ROIALS CAPITAL assesses a private credit position, we look at:
+When Roials Capital assesses a private credit position, we look at:
 
 - quality of the underlying borrower
 
@@ -133,7 +133,7 @@ It is efficiency.
 
 It keeps the system clean.
 
-ROIALS CAPITAL operates with the same posture.
+Roials Capital operates with the same posture.
 
 Our function is structural, not promotional.
 
@@ -197,7 +197,7 @@ It is the ability to position without liquidation.
 
 It is the ability to choose timing rather than be forced by it.
 
-When ROIALS CAPITAL extends liquidity against private credit or Asset-Based Lending positions, we reinforce that optionality.
+When Roials Capital extends liquidity against private credit or Asset-Based Lending positions, we reinforce that optionality.
 
 The borrower retains their asset, their income stream, and their strategic posture.
 
@@ -225,7 +225,7 @@ Asset based Strategic Collateralization rewards empirical collateral evaluation.
 
 High net worth borrowers benefit from predictable frameworks that execute regardless of market noise.
 
-ROIALS CAPITAL operates with surgical clarity because structure must outperform emotion.
+Roials Capital operates with surgical clarity because structure must outperform emotion.
 
 A borrower should know exactly how and when liquidity can be deployed.
 
@@ -263,7 +263,7 @@ This is why institutions dominate private credit markets.
 
 And it is why individuals who adopt their posture gain access to the same advantages.
 
-The Role of ROIALS CAPITAL as Structural Architect Our position is not to chase capital. Our position is to maintain the structural environment in which capital functions.
+The Role of Roials Capital as Structural Architect Our position is not to chase capital. Our position is to maintain the structural environment in which capital functions.
 
 principal authority is our operating principle.
 
@@ -285,7 +285,7 @@ It keeps the communication efficient.
 
 It ensures the underwriting respects institutional boundaries.
 
-ROIALS CAPITAL is not a retail solution.
+Roials Capital is not a retail solution.
 
 It is an institutional framework accessible to individuals who understand its value.
 
@@ -309,7 +309,7 @@ Those who lean on narrative will be filtered out.
 
 The system will remain governed by clarity because clarity is what maintains trust.
 
-ROIALS CAPITAL continues to design within that clarity.
+Roials Capital continues to design within that clarity.
 
 We do not deviate.
 
@@ -321,7 +321,7 @@ Closing Architecture Private credit markets reward those who think in structures
 
 They reward lenders who protect stability.
 
-ROIALS CAPITAL exists for HNWI and UHNW clients who want liquidity engineered through institutional mechanics.
+Roials Capital exists for HNWI and UHNW clients who want liquidity engineered through institutional mechanics.
 
 Not explained.
 
@@ -331,9 +331,13 @@ Executed.
 
 To evaluate how your assets align with institutional private credit rules, request confidential audit.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

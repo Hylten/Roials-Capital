@@ -321,7 +321,7 @@ Our clients rely on that predictability.
 
 Our systems enforce it.
 
-CONCLUSIO N
+CONCLUSION
 
 : Trust as a Structural Outcome Trust is not declared.
 
@@ -337,9 +337,13 @@ We build the structures that institutions and sophisticated clients require.
 
 To understand how your assets integrate into our institutional architecture, request confidential audit.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

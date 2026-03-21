@@ -1,4 +1,4 @@
---- title: "The Borderless Collateral Regime and the Ascension of Transnational Acquisition Power" description: "Institutional brief on cross‑jurisdictional collateral mobility, Fund-III capital formation dynamics, and the emergence of sovereign-grade acquisition throughput for buyouts, Asset-Based Lending liquidity engineering, and energy-sector special mandates." date: "2025-09-09" author: "ROIALS CAPITAL" slug: "borderless-collateral-regime-transnational-acquisition-power"
+--- title: "The Borderless Collateral Regime and the Ascension of Transnational Acquisition Power" description: "Institutional brief on cross‑jurisdictional collateral mobility, Fund-III capital formation dynamics, and the emergence of sovereign-grade acquisition throughput for buyouts, Asset-Based Lending liquidity engineering, and energy-sector special mandates." date: "2025-09-09" author: "Roials Capital" slug: "borderless-collateral-regime-transnational-acquisition-power"
 ---
 
 The borderless collateral regime is no longer a theoretical construct.
@@ -443,9 +443,13 @@ The capital is ready.
 
 The strategy is operational.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Request confidential capital audit.
 

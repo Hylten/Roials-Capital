@@ -3,7 +3,7 @@
 
 # Risk Mitigation in Sovereign Asset Structures Sovereign asset structures form the highest tier of capital organization. They represent the intersection of jurisdictional certainty, transnational enforceability, and architectural design of risk governance.
 
-ROIALS CAPITAL operates inside this domain with a principal authority posture.
+Roials Capital operates inside this domain with a principal authority posture.
 
 We do not chase markets.
 
@@ -37,7 +37,7 @@ Within this matrix, sovereign assets act as stabilizing fields.
 
 They ensure durability of collateral valuation, continuity of rights, and the capacity for predictable leverage.
 
-ROIALS CAPITAL integrates this logic when Monetization Architecture against private credit structures or asset based Strategic Collateralization frameworks.
+Roials Capital integrates this logic when Monetization Architecture against private credit structures or asset based Strategic Collateralization frameworks.
 
 Our goal is to ensure that no capital event disrupts the hierarchy of control.
 
@@ -57,7 +57,7 @@ Their liquidity is not derived from retail volatility.
 
 It is derived from institutional clarity.
 
-ROIALS CAPITAL audits each layer to determine the stress behavior of the asset under varying scenarios.
+Roials Capital audits each layer to determine the stress behavior of the asset under varying scenarios.
 
 We test how collateral interacts with liquidity pressures, regulatory shifts, and counterparty actions.
 
@@ -79,7 +79,7 @@ They are not speculative notes.
 
 They are engineered obligations with enforceable recourse.
 
-ROIALS CAPITAL uses these frameworks to design liquidity corridors.
+Roials Capital uses these frameworks to design liquidity corridors.
 
 These corridors allow clients to access capital without compromising the integrity of the underlying credit asset.
 
@@ -95,7 +95,7 @@ The claims must be enforceable.
 
 The realization path must be predictable.
 
-Asset-Based Lending at ROIALS CAPITAL is not treated as a transactional Strategic Collateralization activity.
+Asset-Based Lending at Roials Capital is not treated as a transactional Strategic Collateralization activity.
 
 It is treated as a structural component of the broader sovereign asset system.
 
@@ -117,7 +117,7 @@ Liquidity as a Sovereign Function The central purpose of risk mitigation is to m
 
 It is defined by structural convertibility.
 
-ROIALS CAPITAL designs systems where liquidity is:
+Roials Capital designs systems where liquidity is:
 
 - Pre-negotiated.
 
@@ -203,7 +203,7 @@ Threat modeling is not a theoretical exercise.
 
 It is a simulation-based analysis designed to expose structural weaknesses before they materialize.
 
-ROIALS CAPITAL uses adversarial modeling.
+Roials Capital uses adversarial modeling.
 
 We test the structure as if we intend to break it.
 
@@ -265,7 +265,7 @@ The asset remains dynamic.
 
 The structure remains stable.
 
-This is the defining competency of ROIALS CAPITAL.
+This is the defining competency of Roials Capital.
 
 Structural Redundancy and Fail-Safe Mechanisms Every sovereign asset structure requires fail-safe mechanisms that activate during stress events. These mechanisms include:
 
@@ -293,7 +293,7 @@ No structural failure.
 
 No liquidity interruption.
 
-The Role of principal authority ROIALS CAPITAL operates with principal authority. This means:
+The Role of principal authority Roials Capital operates with principal authority. This means:
 
 - We do not oversell.
 
@@ -309,7 +309,7 @@ principal authority is the highest form of trust.
 
 It is the trust that comes from structural predictability.
 
-CONCLUSIO N
+CONCLUSION
 
 : The Future of Sovereign Risk Mitigation Risk mitigation in sovereign asset structures is a perpetual discipline.
 
@@ -327,7 +327,7 @@ Public market positions.
 
 All of these instruments can function safely when placed within the correct architectural hierarchy.
 
-ROIALS CAPITAL builds that hierarchy.
+Roials Capital builds that hierarchy.
 
 We structure capital so it cannot be easily disrupted.
 
@@ -339,9 +339,13 @@ For HNWI and UHNW individuals, this is not an option.
 
 This is a requirement for generational stability.
 
-Request confidential audit TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+Request confidential audit TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

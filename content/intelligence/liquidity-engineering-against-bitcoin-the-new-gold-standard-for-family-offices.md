@@ -15,7 +15,7 @@ For HNWI and UHNW principals who measure time in decades rather than quarters, t
 
 A frontier that sits firmly within the domain of private credit and asset based Institutional Liquidity Paths.
 
-The domain where ROIALS CAPITAL builds the architecture.
+The domain where Roials Capital builds the architecture.
 
 The Shift From Speculative Asset to Collateral Infrastructure Bitcoin once lived in the category of alternative assets, placed at the outer edges of a portfolio. It no longer sits at the perimeter.
 
@@ -51,7 +51,7 @@ r
 
 - Independence from banking bottlenecks, granting more reliable liquidity windows during stressed markets.
 
-ROIALS CAPITAL aligns these properties with disciplined private credit infrastructure.
+Roials Capital aligns these properties with disciplined private credit infrastructure.
 
 We create a Strategic Collateralization environment that respects the asset's nature rather than forcing it into outdated models.
 
@@ -83,7 +83,7 @@ It allows us to maintain the principal authority that stable private credit dema
 
 It also ensures that counterparty quality remains high across the entire ecosystem.
 
-ROIALS CAPITAL is a partner only when the principal’s scale matches the architecture.
+Roials Capital is a partner only when the principal’s scale matches the architecture.
 
 Bitcoin as the New Gold Standard Gold earned its reputation over millennia. Bitcoin earned its reputation by displaying the same characteristics in a compressed time frame, with added advantages.
 
@@ -105,7 +105,7 @@ Deepening institutional demand Every year, market depth increases, custody infra
 
 They now ask how to optimise its leverage and liquidity potential.
 
-ROIALS CAPITAL provides that optimisation.
+Roials Capital provides that optimisation.
 
 The Architecture of Strategic Collateralization Against Bitcoin Asset-Backed Frameworks against Bitcoin requires more than capital. It requires design.
 
@@ -159,7 +159,7 @@ For Capital Structuring, this is ideal.
 
 Collateral that moves smoothly yields better structural outcomes.
 
-The Family Office Use Case: Liquidity Without Sacrifice ROIALS CAPITAL has observed a consistent trend among multi generational wealth structures. They want liquidity without liquidation. They want mobility without exposure. They want leverage without systemic risk. Bitcoin satisfies these constraints when placed within a disciplined Strategic Collateralization architecture.
+The Family Office Use Case: Liquidity Without Sacrifice Roials Capital has observed a consistent trend among multi generational wealth structures. They want liquidity without liquidation. They want mobility without exposure. They want leverage without systemic risk. Bitcoin satisfies these constraints when placed within a disciplined Strategic Collateralization architecture.
 
 A family office that holds long term Bitcoin exposure can borrow against it, maintain full upside, and deploy liquidity into higher yielding or strategic investments.
 
@@ -197,7 +197,7 @@ Its movement is immediate.
 
 This turns the Asset-Based Lending process from an exercise in negotiation into an exercise in engineering.
 
-ROIALS CAPITAL applies this engineering mindset across every stage, from collateral onboarding to settlement sequencing.
+Roials Capital applies this engineering mindset across every stage, from collateral onboarding to settlement sequencing.
 
 The New Gold Standard Is Not a Metaphor The phrase new gold standard is not marketing language. It is a structural observation.
 
@@ -223,7 +223,7 @@ Gold served global finance because it was:
 
 - liquidity without borders Family offices that understand this shift strengthen their position for the next fifty years, not the next cycle.
 
-The ROIALS CAPITAL Position We do not speculate. We do not chase narratives.
+The Roials Capital Position We do not speculate. We do not chase narratives.
 
 We construct capital frameworks that allow HNWI and UHNW families to operate with quiet confidence.
 
@@ -243,11 +243,15 @@ It is built on transparent, mobile, liquid collateral.
 
 Bitcoin is the model.
 
-ROIALS CAPITAL is the architecture.
+Roials Capital is the architecture.
 
-Request confidential audi t TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+Request confidential audi t TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

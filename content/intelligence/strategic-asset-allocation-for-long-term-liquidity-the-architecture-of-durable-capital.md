@@ -3,7 +3,7 @@
 
 # Strategic Asset Allocation for Long-Term Liquidity The pursuit of long-term liquidity is no longer an optional configuration for sophisticated capital. It has become an operational necessity, a structural discipline, and a defining characteristic that separates passive wealth holders from capital architects who understand the mechanics behind institutional-grade allocation.
 
-At ROIALS CAPITAL, liquidity is not treated as a momentary buffer.
+At Roials Capital, liquidity is not treated as a momentary buffer.
 
 It is engineered as an asset class, shaped through private credit, asset‑based structures, and collateralized Strategic Collateralization frameworks that allow capital to remain functional without compromising ownership of core positions.
 
@@ -23,7 +23,7 @@ Private credit collateralization builds this layer.
 
 It is durable, predictable, and structurally stable.
 
-Why ROIALS CAPITAL’s Framework Aligns With HNWI and UHNW Requirements Our thresholds are deliberate. Crypto Strategic Collateralization begins at
+Why Roials Capital’s Framework Aligns With HNWI and UHNW Requirements Our thresholds are deliberate. Crypto Strategic Collateralization begins at
 2 million dollars.
 
 Public share Strategic Collateralization begins at
@@ -57,7 +57,7 @@ Opportunity windows do not close prematurely.
 
 And capital remains functional across cycles, regardless of external volatility.
 
-This is the architecture that ROIALS CAPITAL builds.
+This is the architecture that Roials Capital builds.
 
 Not reactive Asset-Backed Frameworks.
 
@@ -81,11 +81,15 @@ They maintain control during stress.
 
 They accelerate during opportunity.
 
-If your objective is durable, long-term liquidity supported by disciplined collateral structures, ROIALS CAPITAL provides the architecture.
+If your objective is durable, long-term liquidity supported by disciplined collateral structures, Roials Capital provides the architecture.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

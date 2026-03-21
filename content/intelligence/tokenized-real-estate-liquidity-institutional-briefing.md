@@ -1,4 +1,4 @@
---- title: "The Mechanics of Tokenized Real Estate Liquidity in Institutional Capital Markets" description: "A clinical analysis of tokenized real estate, balance sheet optimization, liquidity engineering, and structural positioning for Fund-III buyouts and add ons. Prepared for institutional LPs, UHNW allocators, and private credit stewards." date: "2026-02-19" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "tokenized-real-estate-liquidity-institutional-briefing"
+--- title: "The Mechanics of Tokenized Real Estate Liquidity in Institutional Capital Markets" description: "A clinical analysis of tokenized real estate, balance sheet optimization, liquidity engineering, and structural positioning for Fund-III buyouts and add ons. Prepared for institutional LPs, UHNW allocators, and private credit stewards." date: "2026-02-19" author: "Roials Capital (Institutional Briefing)" slug: "tokenized-real-estate-liquidity-institutional-briefing"
 ---
 
 The liquidity asymmetry in global real estate today is a function of settlement inefficiency, not asset impairment.

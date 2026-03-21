@@ -1,4 +1,4 @@
---- title: "The Sovereign Capital Architecture: Building Multi‑Generational Liquidity" description: "Institutional briefing on the structural mechanics, liquidity architecture, and sovereign-grade capital design informing Fund-III scale allocations, North American energy mandates, and European private market acquisition frameworks." date: "2025-11-05" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "sovereign-capital-architecture-multigenerational-liquidity"
+--- title: "The Sovereign Capital Architecture: Building Multi‑Generational Liquidity" description: "Institutional briefing on the structural mechanics, liquidity architecture, and sovereign-grade capital design informing Fund-III scale allocations, North American energy mandates, and European private market acquisition frameworks." date: "2025-11-05" author: "Roials Capital (Institutional Briefing)" slug: "sovereign-capital-architecture-multigenerational-liquidity"
 ---
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion.

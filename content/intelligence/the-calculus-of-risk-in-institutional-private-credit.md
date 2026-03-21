@@ -1,4 +1,4 @@
---- title: "The Calculus of Risk in Institutional Private Credit" description: "A technical briefing on the structural mechanics, capital inefficiencies, and institutional risk architecture shaping Private Credit across North America and Europe, with emphasis on Fund-III buyout financing, Liquidity Engineering, and strategic mandates in energy." date: "2025-07-17" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "the-calculus-of-risk-in-institutional-private-credit"
+--- title: "The Calculus of Risk in Institutional Private Credit" description: "A technical briefing on the structural mechanics, capital inefficiencies, and institutional risk architecture shaping Private Credit across North America and Europe, with emphasis on Fund-III buyout financing, Liquidity Engineering, and strategic mandates in energy." date: "2025-07-17" author: "Roials Capital (Institutional Briefing)" slug: "the-calculus-of-risk-in-institutional-private-credit"
 ---
 
 The capital vacuum in North American and European private credit is not a consequence of risk escalation.
@@ -137,7 +137,7 @@ The efficiency of the exit pathway determines ultimate loss severity.
 
 Jurisdictions such as Alberta, Texas, Scandinavia, and certain EU member states provide predictable legal frameworks which lower structural risk and improve capital recoverability.
 
-THE PARTNERSHIP MODEL: ROIALS CAPITAL AND STRATEGIC ALIGNMENT Institutional allocators require more than credit exposure.
+THE PARTNERSHIP MODEL: Roials Capital AND STRATEGIC ALIGNMENT Institutional allocators require more than credit exposure.
 
 They require navigation, counterparty verification, and structural clarity before committing capital.
 

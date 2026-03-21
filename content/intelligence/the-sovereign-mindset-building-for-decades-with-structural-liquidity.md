@@ -13,7 +13,7 @@ It is predictability.
 
 It is engineered liquidity that remains sovereign, regardless of cycles.
 
-ROIALS CAPITAL operates within this strategic domain.
+Roials Capital operates within this strategic domain.
 
 We are not a retail lender.
 
@@ -75,7 +75,7 @@ Across generational transitions.
 
 Longevity is engineered.
 
-ROIALS CAPITAL supports this engineering through a framework based on three principles: Structural liquidity.
+Roials Capital supports this engineering through a framework based on three principles: Structural liquidity.
 
 Assets are never forced into liquidation.
 
@@ -105,7 +105,7 @@ This is not financial engineering for the sake of complexity.
 
 It is simplicity at a higher resolution.
 
-Why ROIALS CAPITAL Exists In This Ecosystem Wealth at scale requires partners who can match the gravity of the assets involved. ROIALS CAPITAL is built for this purpose.
+Why Roials Capital Exists In This Ecosystem Wealth at scale requires partners who can match the gravity of the assets involved. Roials Capital is built for this purpose.
 
 We operate without noise.
 
@@ -129,9 +129,13 @@ It matures into a lifelong practice of engineering liquidity, protecting core as
 
 When executed correctly, this mindset creates wealth that becomes more stable, more controllable, and more sovereign with each decade that passes.
 
-Request confidential audi t TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+Request confidential audi t TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

@@ -13,7 +13,7 @@ When engineered poorly, it becomes noise, volatility, and deterioration.
 
 This distinction is the defining line between institutional-grade financial mechanics and ordinary yield seeking.
 
-Multi Asset Hardening: The Roials Architecture ROIALS CAPITAL operates as a principal authority in the background of complex portfolios. We do not advise on public strategy.
+Multi Asset Hardening: The Roials Architecture Roials Capital operates as a principal authority in the background of complex portfolios. We do not advise on public strategy.
 
 We do not enter client-facing narratives.
 
@@ -55,7 +55,7 @@ For high net worth and ultra high net worth individuals, control is the true cur
 
 Yield is the instrument that delivers that control.
 
-CONCLUSIO N
+CONCLUSION
 
 : Yield as the Foundation of Durable Capital Asset hardening is not decorative language.
 
@@ -67,7 +67,7 @@ Without it, assets remain static.
 
 With it, assets become strategic instruments.
 
-ROIALS CAPITAL structures private credit, asset based Institutional Liquidity Paths, crypto Strategic Collateralization, and public share Capital Structuring with silent institutional authority.
+Roials Capital structures private credit, asset based Institutional Liquidity Paths, crypto Strategic Collateralization, and public share Capital Structuring with silent institutional authority.
 
 The result is predictable liquidity.
 
@@ -75,9 +75,13 @@ Controlled leverage.
 
 And capital that remains sovereign.
 
-Request confidential audit TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+Request confidential audit TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

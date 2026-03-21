@@ -1,4 +1,4 @@
---- title: "Asset-Based Liquidity Engineering as the Structural Engine for Multi‑Generational Capital Sovereignty" description: "Institutional brief on Asset-Based Lending-driven liquidity architecture, Fund-III capitalization pathways, and cross-jurisdictional acquisition protocols for LP/GP allocators." date: "2025-11-03" author: "ROIALS CAPITAL" slug: "abl-engine-for-multigenerational-wealth"
+--- title: "Asset-Based Liquidity Engineering as the Structural Engine for Multi‑Generational Capital Sovereignty" description: "Institutional brief on Asset-Based Lending-driven liquidity architecture, Fund-III capitalization pathways, and cross-jurisdictional acquisition protocols for LP/GP allocators." date: "2025-11-03" author: "Roials Capital" slug: "abl-engine-for-multigenerational-wealth"
 ---
 
 Asset-based Institutional Liquidity Paths operates as the structural engine behind every enduring capital dynasty.
@@ -334,9 +334,13 @@ THE MANDAT E
 
 is clear.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Request confidential capital audit.
 

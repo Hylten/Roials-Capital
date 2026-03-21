@@ -1,4 +1,4 @@
---- title: "Sovereign Mandate Architecture for Asset‑Based Liquidity Engineering" description: "Institutional-grade deep briefing on Asset-Based Asset-Backed Frameworks as a sovereign mandate for Fund-III capital raising, jurisdictional arbitrage, and asset hardening frameworks." date: "2026-02-21" author: "ROIALS CAPITAL" slug: "sovereign-liquidity-engineering-mandate"
+--- title: "Sovereign Mandate Architecture for Asset‑Based Liquidity Engineering" description: "Institutional-grade deep briefing on Asset-Based Asset-Backed Frameworks as a sovereign mandate for Fund-III capital raising, jurisdictional arbitrage, and asset hardening frameworks." date: "2026-02-21" author: "Roials Capital" slug: "sovereign-liquidity-engineering-mandate"
 ---
 
 Fund-III Principals operate inside a structural paradox: capital abundance on the macro, capital fragmentation on the micro.
@@ -151,7 +151,7 @@ It elevates bargaining power.
 
 It eliminates reactionary capital behavior.
 
-Tone Protocol (ROIALS CAPITAL) Assertive.
+Tone Protocol (Roials Capital) Assertive.
 
 Red‑Yellow.
 
@@ -163,7 +163,7 @@ Short bursts.
 
 Machine‑gun phrasing to signal conviction.
 
-ROIALS CAPITAL communicates from the apex.
+Roials Capital communicates from the apex.
 
 No hedging.
 
@@ -329,9 +329,13 @@ Sovereignty.
 
 This is the architecture that elevates Fund-III from successful to unstoppable.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Request confidential capital audit.
 

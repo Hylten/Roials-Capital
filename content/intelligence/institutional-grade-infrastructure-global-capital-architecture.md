@@ -1,4 +1,4 @@
---- title: "Institutional Grade Infrastructure For Global Capital: Strategic Alignment, Liquidity Engineering, and Cross-Border Deployment Frameworks" description: "A clinical institutional briefing on the structural regime shift shaping global capital flows, emphasizing buyout infrastructure, Asset-Backed Frameworks, and energy deployment mechanics within a multi jurisdictional framework aligned with Fund-III mandates." date: "2025-12-16" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "institutional-grade-infrastructure-global-capital-architecture"
+--- title: "Institutional Grade Infrastructure For Global Capital: Strategic Alignment, Liquidity Engineering, and Cross-Border Deployment Frameworks" description: "A clinical institutional briefing on the structural regime shift shaping global capital flows, emphasizing buyout infrastructure, Asset-Backed Frameworks, and energy deployment mechanics within a multi jurisdictional framework aligned with Fund-III mandates." date: "2025-12-16" author: "Roials Capital (Institutional Briefing)" slug: "institutional-grade-infrastructure-global-capital-architecture"
 ---
 
 The capital vacuum across global private markets is a function of structural dislocation rather than asset scarcity.
@@ -207,9 +207,13 @@ Does the structure allow for dynamic capital deployment and balance sheet optimi
 
 Roials Capital provides institutional LPs and GPs with a confidential strategy audit to evaluate alignment across these four dimensions and calibrate portfolio posture accordingly. [END OF BRIEFING]
 
-# TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+# TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

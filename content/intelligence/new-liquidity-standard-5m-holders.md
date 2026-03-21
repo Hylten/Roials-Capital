@@ -103,7 +103,7 @@ Precision beats scale.
 
 Architecture beats raw capital.
 
-ROIALS CAPITAL positions the new liquidity standard as a gating function.
+Roials Capital positions the new liquidity standard as a gating function.
 
 Not a product.
 
@@ -327,7 +327,7 @@ Only one objective governs: create a single liquidity spine.
 
 Capital unity beats capital pluralism.
 
-ROIALS CAPITAL handles Special Mandates at 10% bandwidth.
+Roials Capital handles Special Mandates at 10% bandwidth.
 
 Large energy mandates.
 
@@ -439,9 +439,13 @@ The corridor is open.
 
 The terms are fixed.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Request confidential capital audit.
 

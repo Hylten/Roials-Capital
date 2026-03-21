@@ -1,4 +1,4 @@
---- title: "Asset‑Based Liquidity Engineering as the Structural Engine of Multi‑Generational Wealth" description: "Institutional brief on capital formation strategy, Asset-Based Lending-driven Strategic Collateralization, and the architecture of multi‑generational asset hardening for Fund‑III and GP/LP mandates." date: "2025-09-04" author: "ROIALS CAPITAL" slug: "asset-based-liquidity-engine-multigenerational-wealth"
+--- title: "Asset‑Based Liquidity Engineering as the Structural Engine of Multi‑Generational Wealth" description: "Institutional brief on capital formation strategy, Asset-Based Lending-driven Strategic Collateralization, and the architecture of multi‑generational asset hardening for Fund‑III and GP/LP mandates." date: "2025-09-04" author: "Roials Capital" slug: "asset-based-liquidity-engine-multigenerational-wealth"
 ---
 
 The structural premise is simple.
@@ -402,7 +402,7 @@ No storytelling.
 
 Just structure.
 
-ROIALS CAPITAL’s role as Principal is to deliver the institutional version of what families once built through land, mineral rights, and water access.
+Roials Capital’s role as Principal is to deliver the institutional version of what families once built through land, mineral rights, and water access.
 
 Today, the same principle exists, but the execution is financial.
 
@@ -456,9 +456,13 @@ Confidential capital audit available on request.
 
 Mandate threshold: DSCR > 1.35x.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

@@ -1,4 +1,4 @@
---- title: "Sovereign-Grade Infrastructure for Institutional Asset Hardening" description: "Institutional architecture for Fund-III capital formation, cross-border acquisition scaffolding, and asset-hardening frameworks engineered for LP/GP governance, liquidity stabilization, and multi-jurisdictional buyout acceleration." date: "2026-01-22" author: "ROIALS CAPITAL" slug: "institutional-asset-hardening-infrastructure"
+--- title: "Sovereign-Grade Infrastructure for Institutional Asset Hardening" description: "Institutional architecture for Fund-III capital formation, cross-border acquisition scaffolding, and asset-hardening frameworks engineered for LP/GP governance, liquidity stabilization, and multi-jurisdictional buyout acceleration." date: "2026-01-22" author: "Roials Capital" slug: "institutional-asset-hardening-infrastructure"
 ---
 
 Institutional continuity demands engineered certainty.
@@ -49,7 +49,7 @@ Asymmetry comes from engineered dislocations.
 
 Dislocations form where law, capital, and industrial machinery collide.
 
-That collision is the domain of ROIALS CAPITAL.
+That collision is the domain of Roials Capital.
 
 I design the collision to produce yield.
 
@@ -630,9 +630,13 @@ The result is institutional inevitability.
 
 End with directive: Initiate confidential capital audit.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

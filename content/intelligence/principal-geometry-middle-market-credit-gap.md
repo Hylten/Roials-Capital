@@ -1,4 +1,4 @@
---- title: "The Principal Geometry of the Middle Market Credit Gap" description: "A high-density institutional analysis of the structural credit deficit shaping middle‑market buyouts, add‑ons, and energy acquisitions, with emphasis on kapitalanskaffning for Fund‑III architecture, liquidity engineering, and cross‑border mandates." date: "2025-12-27" author: "ROIALS CAPITAL" slug: "principal-geometry-middle-market-credit-gap"
+--- title: "The Principal Geometry of the Middle Market Credit Gap" description: "A high-density institutional analysis of the structural credit deficit shaping middle‑market buyouts, add‑ons, and energy acquisitions, with emphasis on kapitalanskaffning for Fund‑III architecture, liquidity engineering, and cross‑border mandates." date: "2025-12-27" author: "Roials Capital" slug: "principal-geometry-middle-market-credit-gap"
 ---
 
 The middle market is fragmenting.
@@ -451,7 +451,7 @@ The geometry hardens.
 
 Only structurally competent sponsors thrive.
 
-ROIALS CAPITAL operates on principal geometry.
+Roials Capital operates on principal geometry.
 
 Not narrative.
 
@@ -512,9 +512,13 @@ Institutional LPs demand clarity.
 
 Not noise.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Request confidential capital audit.
 

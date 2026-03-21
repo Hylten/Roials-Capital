@@ -1,4 +1,4 @@
---- title: "The Borderless Collateral Regime and the Rise of Transnational Acquisition Power" description: "Institutional briefing on crypto collateral mobility, cross-jurisdictional asset hardening, and the capital-raising architecture for Fund-III buyouts within the new M&A liquidity regime." date: "2025-09-01" author: "ROIALS CAPITAL" slug: "borderless-collateral-regime-Fund-III"
+--- title: "The Borderless Collateral Regime and the Rise of Transnational Acquisition Power" description: "Institutional briefing on crypto collateral mobility, cross-jurisdictional asset hardening, and the capital-raising architecture for Fund-III buyouts within the new M&A liquidity regime." date: "2025-09-01" author: "Roials Capital" slug: "borderless-collateral-regime-Fund-III"
 ---
 
 Structural arbitrage is no longer found in sector specialization.
@@ -162,7 +162,7 @@ Private Credit has never had a collateral substrate this efficient.
 
 THE STRATEGIC MODEL
 
-ROIALS CAPITAL deploys a dual-platform model for Fund-III groups.
+Roials Capital deploys a dual-platform model for Fund-III groups.
 
 The objective is not complexity.
 
@@ -284,9 +284,13 @@ EXIT Liquidity depth ratio must exceed 0.
 
 Request a confidential capital audit.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

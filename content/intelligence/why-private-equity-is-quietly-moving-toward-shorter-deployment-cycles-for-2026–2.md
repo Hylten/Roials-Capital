@@ -1,4 +1,4 @@
---- title: "Why Private Equity Is Quietly Moving Toward Shorter Deployment Cycles for 2026" description: "PE deployment cycles are compressing as inefficiencies collapse and multi-vintage stacking pressure intensifies." date: "2025-06-27" author: "ROIALS CAPITAL" slug: "why-pe-shorter-deployment-cycles-2026"
+--- title: "Why Private Equity Is Quietly Moving Toward Shorter Deployment Cycles for 2026" description: "PE deployment cycles are compressing as inefficiencies collapse and multi-vintage stacking pressure intensifies." date: "2025-06-27" author: "Roials Capital" slug: "why-pe-shorter-deployment-cycles-2026"
 ---
 
 THE STRUCTURAL TRUTH Cycles compress when inefficiencies die.
@@ -173,7 +173,7 @@ LPs respect this.
 
 The future will require this.
 
-THE ROIALS CAPITAL POSITION We sit where institutional flows converge. Capital raising.
+THE Roials Capital POSITION We sit where institutional flows converge. Capital raising.
 
 Private credit structuring.
 
@@ -233,7 +233,7 @@ You deploy because you are aligned.
 
 You attract capital because you eliminate uncertainty.
 
-THE PRIVATE CREDIT ENGINE (10% FOCUS) When discussing Asset‑Based Lending, ROIALS CAPITAL enforces the Qualification Gates: Minimum entry threshold: $2M Preferred structural optimum: $5M+ This preserves the architecture. This protects the ecosystem.
+THE PRIVATE CREDIT ENGINE (10% FOCUS) When discussing Asset‑Based Lending, Roials Capital enforces the Qualification Gates: Minimum entry threshold: $2M Preferred structural optimum: $5M+ This preserves the architecture. This protects the ecosystem.
 
 This maintains the quality of the credit stack.
 
@@ -313,7 +313,7 @@ Control the outcomes.
 
 This is the principal mandate.
 
-CONFIDENTIAL FOOTER ROIALS CAPITAL processes private audits only for principals acting within the Fund‑III+ architecture or institutional mandates. Direct industrial lending inquiries must observe the Asset‑Based Lending Qualification Gates ($2M minimum / $5M optimal).
+CONFIDENTIAL FOOTER Roials Capital processes private audits only for principals acting within the Fund‑III+ architecture or institutional mandates. Direct industrial lending inquiries must observe the Asset‑Based Lending Qualification Gates ($2M minimum / $5M optimal).
 
 Request confidential capital audit below.
 

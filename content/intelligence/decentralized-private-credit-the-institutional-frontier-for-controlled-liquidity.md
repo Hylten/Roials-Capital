@@ -13,7 +13,7 @@ Mechanics that enable collateral to be evaluated in real time.
 
 Mechanics that remove intermediaries that add opacity but not value.
 
-ROIALS CAPITAL operates in this environment as a principal authority.
+Roials Capital operates in this environment as a principal authority.
 
 We construct liquidity frameworks for High Net Worth and Ultra High Net Worth individuals who require precision, discretion, and predictable execution.
 
@@ -59,7 +59,7 @@ Asset Based Strategic Collateralization, Reconstructed Asset Based Institutional
 
 Collateral is the central unit of truth.
 
-ROIALS CAPITAL lends against qualified private credit assets and verifiable asset based collateral.
+Roials Capital lends against qualified private credit assets and verifiable asset based collateral.
 
 The emphasis is always on structure, valuation integrity, and liquidation pathways.
 
@@ -75,7 +75,7 @@ Every change in valuation state is measurable.
 
 For HNWI and UHNW borrowers, this creates a liquidity architecture that is predictable, neutral, and free from custodial delays.
 
-Institutional Clients Require Institutional Thresholds ROIALS CAPITAL operates with minimums that reflect the seriousness of our client base. These thresholds are non-negotiable.
+Institutional Clients Require Institutional Thresholds Roials Capital operates with minimums that reflect the seriousness of our client base. These thresholds are non-negotiable.
 
 They are structural.
 
@@ -111,7 +111,7 @@ It removes subjective friction.
 
 It re-centers the transaction around the asset itself.
 
-With ROIALS CAPITAL, clients access a framework that is built for this new counterparty reality.
+With Roials Capital, clients access a framework that is built for this new counterparty reality.
 
 We do not rely on manual interpretation of asset value.
 
@@ -151,7 +151,7 @@ Structural Integrity in an Expanding Market The decentralized credit landscape i
 
 It also increases noise.
 
-ROIALS CAPITAL operates on the opposite axis.
+Roials Capital operates on the opposite axis.
 
 We remove noise.
 
@@ -195,7 +195,7 @@ Collateral is assessed according to measurable parameters.
 
 For HNWI and UHNW individuals, this provides a rare combination of autonomy and structural rigor.
 
-ROIALS CAPITAL does not compete with banks.
+Roials Capital does not compete with banks.
 
 We architect the parallel infrastructure that banks cannot provide.
 
@@ -209,7 +209,7 @@ This is the architecture required by clients who cannot afford opaque risk.
 
 It is the architecture required by clients whose capital must remain operational at all times.
 
-ROIALS CAPITAL builds underwriting systems that do not fluctuate with sentiment.
+Roials Capital builds underwriting systems that do not fluctuate with sentiment.
 
 They are based on rules that remain constant regardless of market mood.
 
@@ -225,7 +225,7 @@ The primary risks shift toward:
 
 - Liquidity depth in secondary markets
 
-- Smart contract reliability ROIALS CAPITAL incorporates these variables into its structural models, ensuring that balance sheet optimization frameworks remain stable even as market conditions evolve.
+- Smart contract reliability Roials Capital incorporates these variables into its structural models, ensuring that balance sheet optimization frameworks remain stable even as market conditions evolve.
 
 The objective is not to chase risk.
 
@@ -235,7 +235,7 @@ HNWI and UHNW clients operate with capital loads that cannot absorb avoidable un
 
 Therefore, every mechanism must be engineered for clarity.
 
-The principal authority Model ROIALS CAPITAL functions within what we call the principal authority model. Silent, because we do not market noise or make public claims to influence perception.
+The principal authority Model Roials Capital functions within what we call the principal authority model. Silent, because we do not market noise or make public claims to influence perception.
 
 Authority, because we set the structural mechanics for institutional-level decentralized credit.
 
@@ -267,13 +267,13 @@ They operate in environments where opportunity windows do not wait for procedura
 
 Decentralized private credit is the system that reflects this reality.
 
-CONCLUSIO N
+CONCLUSION
 
 : Architecture Over Narrative The growth of decentralized private credit is not a trend.
 
 It is a structural evolution.
 
-ROIALS CAPITAL stands at the institutional frontier of this evolution, offering Institutional Liquidity Paths against private credit assets, high-grade Asset-Based Lending collateral, and multi-million dollar positions across crypto and public markets.
+Roials Capital stands at the institutional frontier of this evolution, offering Institutional Liquidity Paths against private credit assets, high-grade Asset-Based Lending collateral, and multi-million dollar positions across crypto and public markets.
 
 Our frameworks are engineered for clarity, autonomy, and liquidity without friction.
 
@@ -281,9 +281,13 @@ Our function is not to follow the market.
 
 Our function is to define the mechanics the market will eventually adopt.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

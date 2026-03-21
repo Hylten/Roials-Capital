@@ -1,4 +1,4 @@
---- title: "Strategic Asset Allocation for Long-Term Liquidity: The Architecture of Durable Capital" description: "Institutional analysis on the structural shifts redefining capital durability, liquidity engineering, and cross-regime allocation frameworks for private markets allocators in 2026." date: "2025-08-26" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "strategic-asset-allocation-long-term-liquidity-architecture-durable-capital"
+--- title: "Strategic Asset Allocation for Long-Term Liquidity: The Architecture of Durable Capital" description: "Institutional analysis on the structural shifts redefining capital durability, liquidity engineering, and cross-regime allocation frameworks for private markets allocators in 2026." date: "2025-08-26" author: "Roials Capital (Institutional Briefing)" slug: "strategic-asset-allocation-long-term-liquidity-architecture-durable-capital"
 ---
 
 The capital vacuum shaping North American and European private markets in 2026 is a function of regulatory overcorrection and balance sheet contraction.
@@ -145,7 +145,7 @@ It is the operational predictability derived from known reservoir behavior and e
 
 ### Phase III:
 
-THE PARTNERSHIP MODEL: ROIALS CAPITAL AS STRATEGIC NAVIGATOR The contemporary allocator does not seek product distribution.
+THE PARTNERSHIP MODEL: Roials Capital AS STRATEGIC NAVIGATOR The contemporary allocator does not seek product distribution.
 
 The demand is for strategic alignment and institutional
 

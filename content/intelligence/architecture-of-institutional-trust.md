@@ -1,4 +1,4 @@
---- title: "The Architecture of Institutional Trust in Modern Capital Formation" description: "An institutional briefing on the structural mechanics that govern allocator confidence, counterparty selection, and multi jurisdictional capital alignment across Buyout Fund-III pipelines, Liquidity Engineering mandates, and North American energy acquisition corridors." date: "2025-10-10" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "architecture-of-institutional-trust"
+--- title: "The Architecture of Institutional Trust in Modern Capital Formation" description: "An institutional briefing on the structural mechanics that govern allocator confidence, counterparty selection, and multi jurisdictional capital alignment across Buyout Fund-III pipelines, Liquidity Engineering mandates, and North American energy acquisition corridors." date: "2025-10-10" author: "Roials Capital (Institutional Briefing)" slug: "architecture-of-institutional-trust"
 ---
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion.
@@ -257,9 +257,13 @@ It is not a solicitation.
 
 It is an institutional calibration mechanism designed to support disciplined capital deployment. [END OF BRIEFING]
 
-# TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+# TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

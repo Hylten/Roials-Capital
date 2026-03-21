@@ -113,7 +113,7 @@ The principle is simple, but the execution requires precision.
 
 Asset-Based Lending structures answer a core HNWI problem: How do I monetize assets without selling them, exposing them, or reducing my strategic optionality.
 
-ROIALS CAPITAL operates in this space with principal authority, providing Asset-Based Lending frameworks against sophisticated asset classes including private credit positions, crypto assets, and public equity holdings.
+Roials Capital operates in this space with principal authority, providing Asset-Based Lending frameworks against sophisticated asset classes including private credit positions, crypto assets, and public equity holdings.
 
 The thresholds reflect the institutional nature of the architecture:
 
@@ -220,7 +220,7 @@ These individuals and family offices use capital for:
 
 Institutional private credit is.
 
-How ROIALS CAPITAL Fits Into the Architecture ROIALS CAPITAL positions itself within the private credit ecosystem as a silent structural authority. We do not compete with banks.
+How Roials Capital Fits Into the Architecture Roials Capital positions itself within the private credit ecosystem as a silent structural authority. We do not compete with banks.
 
 We operate in a separate lane: asset-backed private credit for sophisticated asset holders at institutional thresholds.
 
@@ -272,7 +272,7 @@ Those who understand the distinction will unlock the full spectrum of modern liq
 
 Those who do not will continue to run complex portfolios through legacy pipelines that were not designed for them.
 
-CONCLUSIO N
+CONCLUSION
 
 : Architecture Determines Outcome Traditional banking is structured for safety, scale, and regulatory compliance.
 
@@ -280,7 +280,7 @@ Institutional private credit is structured for velocity, engineering, and asset 
 
 HNWI and UHNW clients who operate within asset-rich environments require a liquidity partner that recognizes the architecture of their balance sheet, not the template of a consumer Strategic Collateralization model.
 
-ROIALS CAPITAL operates in this arena with principal authority.
+Roials Capital operates in this arena with principal authority.
 
 We build frameworks.
 
@@ -288,9 +288,13 @@ We lend against assets.
 
 We engineer liquidity for portfolios that require institutional intelligence rather than retail processing.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

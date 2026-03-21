@@ -1,4 +1,4 @@
---- title: "Sovereign Capital Infrastructure for Institutional Allocators: Fund‑III Architecture Analysis" description: "Institutional-grade analysis of capital‑raising infrastructure for Fund‑III buyout platforms, with emphasis on allocation mechanics, liquidity engineering, and cross‑jurisdictional structuring for GP‑led expansion." date: "2025-08-30" author: "ROIALS CAPITAL, Principal Investigator" slug: "Fund-III-capital-raising-infrastructure-analysis"
+--- title: "Sovereign Capital Infrastructure for Institutional Allocators: Fund‑III Architecture Analysis" description: "Institutional-grade analysis of capital‑raising infrastructure for Fund‑III buyout platforms, with emphasis on allocation mechanics, liquidity engineering, and cross‑jurisdictional structuring for GP‑led expansion." date: "2025-08-30" author: "Roials Capital, Principal Investigator" slug: "Fund-III-capital-raising-infrastructure-analysis"
 ---
 
 Institutional allocators evaluate Fund‑III readiness through structural coherence, governance tension‑bands, and the allocator‑to‑platform distance in capital flow friction.
@@ -559,9 +559,13 @@ For confidential capital audit, submit allocation parameters and jurisdictional 
 
 Throughput Resilience Index: 0.
 
-92 TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+92 TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

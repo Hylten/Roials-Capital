@@ -214,7 +214,7 @@ If the answer is yes, terms are quantified.
 
 If the answer is absolute, capital deploys.
 
-CONCLUSIO N. The Institutional Mandate for the Next Decade The calculus of risk in institutional private credit is entering a new era.
+CONCLUSION. The Institutional Mandate for the Next Decade The calculus of risk in institutional private credit is entering a new era.
 
 - Higher scrutiny.
 
@@ -244,9 +244,13 @@ It is a mandate to govern capital with precision.
 
 Request confidential audit.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

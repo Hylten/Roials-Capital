@@ -13,7 +13,7 @@ But not all digital asset structures qualify.
 
 Institutional Strategic Collateralization requires scale, custody, and liquidity depth.
 
-ROIALS CAPITAL operates in that frame.
+Roials Capital operates in that frame.
 
 Crypto Monetization Architecture begins at a minimum threshold.
 
@@ -31,7 +31,7 @@ The rules have changed.
 
 HNWI and UHNW clients now see public share Asset-Backed Frameworks as a mechanism to activate liquidity while preserving market exposure, voting rights, and long-term appreciation potential.
 
-At ROIALS CAPITAL, the minimum threshold for Public Share Institutional Liquidity Paths is.
+At Roials Capital, the minimum threshold for Public Share Institutional Liquidity Paths is.
 
 This maintains alignment with institutional-grade liquidity flows and prevents fragmentation of credit architecture.
 
@@ -47,7 +47,7 @@ Banks provide products.
 
 We provide architecture.
 
-The distinction is the new competitive edge. principal authority as a Capital Principle ROIALS CAPITAL operates on a principle of principal authority. This is not a marketing posture.
+The distinction is the new competitive edge. principal authority as a Capital Principle Roials Capital operates on a principle of principal authority. This is not a marketing posture.
 
 It is a structural philosophy.
 
@@ -97,7 +97,7 @@ It will be built on engineered capital infrastructure.
 
 The individuals who adopt this framework early will have structural advantages that compound over time.
 
-Precision Capital Structuring for the Sovereign Individual Clients who operate at scale require a Monetization Architecture partner that acts not as a counterparty, but as an extension of their capital architecture. This is the function of ROIALS CAPITAL.
+Precision Capital Structuring for the Sovereign Individual Clients who operate at scale require a Monetization Architecture partner that acts not as a counterparty, but as an extension of their capital architecture. This is the function of Roials Capital.
 
 We lend against Private Credit and Asset Based Monetization Architecture.
 
@@ -125,7 +125,7 @@ The era of frictionless liquidity.
 
 The era of sovereign capital autonomy.
 
-CONCLUSIO N
+CONCLUSION
 
 The future of sovereign capital infrastructure belongs to those who understand that capital is no longer defined by possession, but by architecture.
 
@@ -141,13 +141,17 @@ These are not products.
 
 They are structural tools for the sovereign individual.
 
-At ROIALS CAPITAL, we do not predict the future of capital.
+At Roials Capital, we do not predict the future of capital.
 
 We build it.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

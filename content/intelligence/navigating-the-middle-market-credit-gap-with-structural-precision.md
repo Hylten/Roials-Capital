@@ -13,7 +13,7 @@ The objective is no longer simply yield generation.
 
 It is about precision, control, and the ability to influence liquidity architecture when institutional channels delay or decline participation.
 
-ROIALS CAPITAL operates within this structural void.
+Roials Capital operates within this structural void.
 
 We approach the middle market credit gap not as a challenge but as a design opportunity.
 
@@ -45,7 +45,7 @@ It is the result of institutional necessity.
 
 Private credit fills operational gaps with speed and precision.
 
-ROIALS CAPITAL structures this category for HNWI and UHNW clients who require institutional-grade execution without institutional friction.
+Roials Capital structures this category for HNWI and UHNW clients who require institutional-grade execution without institutional friction.
 
 Our Capital Structuring architecture is governed by collateral logic, not bureaucracy.
 
@@ -53,7 +53,7 @@ Asset Based Institutional Liquidity Paths as the Precision Tool for Modern Liqui
 
 Liquidity is created from balance sheet strength rather than traditional credit models.
 
-At ROIALS CAPITAL, we lend against private credit portfolios and defined asset pools.
+At Roials Capital, we lend against private credit portfolios and defined asset pools.
 
 This transforms static asset value into functional capital.
 
@@ -77,7 +77,7 @@ In a market where institutions have reduced exposure, private actors with the ri
 
 The ability to synthesize liquidity based on collateral, market structure, and investment objectives is now a competitive advantage.
 
-ROIALS CAPITAL’s framework is built on engineered liquidity.
+Roials Capital’s framework is built on engineered liquidity.
 
 We do not position ourselves as lenders in the traditional sense.
 
@@ -105,7 +105,7 @@ Crypto Strategic Collateralization at Institutional Thresholds Digital asset hol
 
 Yet traditional lenders do not participate at meaningful scale.
 
-ROIALS CAPITAL engages where others retreat.
+Roials Capital engages where others retreat.
 
 Our crypto Asset-Backed Frameworks threshold is two million dollars.
 
@@ -125,7 +125,7 @@ We do not chase the noise.
 
 Public Share Strategic Collateralization for Strategic Liquidity Public equity portfolios are frequently underleveraged despite strong liquidity characteristics. HNWI and UHNW investors often carry multi-million dollar positions that remain idle because traditional banks impose rigid and conservative balance sheet optimization conditions.
 
-ROIALS CAPITAL provides Strategic Collateralization against public share positions with a minimum threshold of five million dollars.
+Roials Capital provides Strategic Collateralization against public share positions with a minimum threshold of five million dollars.
 
 The purpose is not leverage for its own sake.
 
@@ -155,7 +155,7 @@ Inefficiency creates opportunity.
 
 For sophisticated lenders, the divergence between perceived risk and actual collateral value is where structural advantage resides.
 
-The ROIALS CAPITAL Design Philosophy Our approach is governed by principal authority. We do not compete on rate.
+The Roials Capital Design Philosophy Our approach is governed by principal authority. We do not compete on rate.
 
 We compete on architecture.
 
@@ -195,7 +195,7 @@ Second, the ability to use private credit and Asset-Based Lending to maintain li
 
 Third, structural control over capital velocity, independent of traditional lenders.
 
-ROIALS CAPITAL provides the architecture that supports these advantages.
+Roials Capital provides the architecture that supports these advantages.
 
 Our focus is on structural integrity, not volume.
 
@@ -231,9 +231,13 @@ principal authority is the position.
 
 Liquidity is the result.
 
-Request confidential audit TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+Request confidential audit TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

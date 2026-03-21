@@ -15,7 +15,7 @@ Sovereign asset hardening is the structural discipline that transforms capital f
 
 It is the architecture that defends liquidity, amplifies leverage, and enables movement without friction.
 
-ROIALS CAPITAL operates at this level.
+Roials Capital operates at this level.
 
 Our role is not advisory.
 
@@ -40,7 +40,7 @@ The risk is visible.
 
 This visibility means the threshold must be higher.
 
-ROIALS CAPITAL sets the minimum at
+Roials Capital sets the minimum at
 5 million dollars because public share Capital Structuring requires structural scale for stability.
 
 At this level, the mechanics become predictable.
@@ -97,7 +97,7 @@ Institutional strength without institutional friction
 
 *
 
-* ROIALS CAPITAL provides the structural authority of institutional capital without the rigidity.
+* Roials Capital provides the structural authority of institutional capital without the rigidity.
 
 The Architecture of Expansion Once assets are hardened, growth becomes a function of design rather than reaction. Liquidity is the architect’s tool.
 
@@ -115,7 +115,7 @@ A hardened asset base allows clients to:
 
 This is how sovereign capital behaves.
 
-This is the framework behind ROIALS CAPITAL. principal authority: The F‑Hierarchical Dynamics ROIALS CAPITAL operates through what we define as F Hierarchical Dynamics. This is the posture of principal authority.
+This is the framework behind Roials Capital. principal authority: The F‑Hierarchical Dynamics Roials Capital operates through what we define as F Hierarchical Dynamics. This is the posture of principal authority.
 
 We do not market.
 
@@ -143,13 +143,17 @@ Sovereign asset hardening is the system used by state wealth funds, global insti
 
 It is now accessible for individuals whose asset scale requires the same discipline.
 
-ROIALS CAPITAL provides the architecture.
+Roials Capital provides the architecture.
 
 The client retains the sovereignty.
 
-Request Confidential Audit If your capital requires structural hardening, controlled leverage, and sovereign grade liquidity, request a confidential audit. TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+Request Confidential Audit If your capital requires structural hardening, controlled leverage, and sovereign grade liquidity, request a confidential audit. TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

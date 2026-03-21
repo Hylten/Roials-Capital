@@ -23,7 +23,7 @@ It is not dependent on macro cycles or retail sentiment.
 
 It is engineered leverage built on precision.
 
-ROIALS CAPITAL operates inside this domain.
+Roials Capital operates inside this domain.
 
 We do not distort its nature.
 
@@ -39,7 +39,7 @@ It does not need public narrative.
 
 Its strength is derived from the security of collateral and the discipline of structure.
 
-ROIALS CAPITAL mirrors this approach.
+Roials Capital mirrors this approach.
 
 We do not position ourselves as a lender of last resort or a promotional entity.
 
@@ -73,7 +73,7 @@ This approach is not reactive.
 
 It is architectural.
 
-The ROIALS CAPITAL Framework: principal authority in Action ROIALS CAPITAL stands in the F-Hierarchical Dynamics, the position of principal authority where capital architecture is designed rather than discussed. We do not chase opportunity.
+The Roials Capital Framework: principal authority in Action Roials Capital stands in the F-Hierarchical Dynamics, the position of principal authority where capital architecture is designed rather than discussed. We do not chase opportunity.
 
 We structure opportunity.
 
@@ -105,7 +105,7 @@ Traditional financing penalizes complexity.
 
 Sovereign financing rewards it.
 
-ROIALS CAPITAL operates at this intersection of complexity and clarity.
+Roials Capital operates at this intersection of complexity and clarity.
 
 The Future of Institutional Liquidity Global markets are becoming more compressed. Traditional banks operate with increased regulatory constraints.
 
@@ -129,7 +129,7 @@ Structure is sovereignty.
 
 Control is sovereignty.
 
-ROIALS CAPITAL offers the mechanics to maintain all three simultaneously.
+Roials Capital offers the mechanics to maintain all three simultaneously.
 
 That is the essence of sovereign capital.
 
@@ -139,7 +139,7 @@ The layer beneath the structure.
 
 The quiet foundation that allows power to remain uninterrupted.
 
-CONCLUSIO N
+CONCLUSION
 
 : Architecture Over Activity Sovereign capital is not active.
 
@@ -149,7 +149,7 @@ It does not seek attention.
 
 It provides infrastructure.
 
-ROIALS CAPITAL functions within this framework, offering private credit Strategic Collateralization, Asset-Based Lending solutions, crypto Asset-Backed Frameworks from 2,000,000, and public share Asset-Backed Frameworks from 5,000,
+Roials Capital functions within this framework, offering private credit Strategic Collateralization, Asset-Based Lending solutions, crypto Asset-Backed Frameworks from 2,000,000, and public share Asset-Backed Frameworks from 5,000,
 
 000 for HNWI and UHNW clients who require principal authority rather than overt motion.
 
@@ -157,11 +157,15 @@ If liquidity is the question, structure is the answer.
 
 If control is the objective, sovereignty is the method.
 
-If you require institutional discipline without institutional noise, ROIALS CAPITAL operates at that level.
+If you require institutional discipline without institutional noise, Roials Capital operates at that level.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

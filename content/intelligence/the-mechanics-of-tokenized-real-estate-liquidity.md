@@ -9,7 +9,7 @@ For High Net Worth and Ultra High Net Worth investors, liquidity is never a phil
 
 It is a precision requirement.
 
-ROIALS CAPITAL operates inside this precision.
+Roials Capital operates inside this precision.
 
 We lend against private credit and asset based Monetization Architecture structures, and we do so with thresholds that fit institutional gravity.
 
@@ -69,7 +69,7 @@ Routing is liquidity.
 
 Liquidity is control.
 
-Asset Based Strategic Collateralization in the Tokenized Domain ROIALS CAPITAL structures asset based Asset-Backed Frameworks with surgical discipline. Tokenized real estate does not fundamentally alter our risk architecture, it simply creates more refined collateral inputs.
+Asset Based Strategic Collateralization in the Tokenized Domain Roials Capital structures asset based Asset-Backed Frameworks with surgical discipline. Tokenized real estate does not fundamentally alter our risk architecture, it simply creates more refined collateral inputs.
 
 In traditional Asset-Based Lending, the collateral verification cycle is slow.
 
@@ -107,7 +107,7 @@ Tokenized structures achieve this by minimizing:
 
 Private credit facilities then leverage these efficiencies to issue faster, structured liquidity.
 
-At ROIALS CAPITAL, our private credit discipline is anchored in principal authority.
+At Roials Capital, our private credit discipline is anchored in principal authority.
 
 We do not announce.
 
@@ -141,7 +141,7 @@ They qualify for multi
 
 # Layer LI: quidity facilities with fewer downstream constraints. This is the liquidity environment institutional capital expects.
 
-It is also the environment ROIALS CAPITAL maintains.
+It is also the environment Roials Capital maintains.
 
 Settlement Integrity and Liquidity Reliability Any Asset-Backed Frameworks facility using digital claims as collateral depends on one critical variable: settlement integrity. If settlement fails, liquidity collapses.
 
@@ -185,7 +185,7 @@ This is where regulatory geometry becomes important.
 
 The jurisdiction of the asset may differ from the jurisdiction of the token, and may differ again from the jurisdiction of the Asset-Backed Frameworks facility.
 
-ROIALS CAPITAL maintains structural clarity in this geometry.
+Roials Capital maintains structural clarity in this geometry.
 
 We evaluate regulatory alignment, collateral enforceability, and operational jurisdictional overlap before issuing any facility.
 
@@ -203,7 +203,7 @@ In this future state:
 
 - Asset-Based Lending becomes the structural anchor.
 
-ROIALS CAPITAL positions itself in the structural layer, not the speculative surface.
+Roials Capital positions itself in the structural layer, not the speculative surface.
 
 We do not participate in hype cycles.
 
@@ -211,7 +211,7 @@ We architect the frameworks that allow institutional capital to move with predic
 
 Why principal authority Matters In high-trust capital environments, authority is not expressed. It is recognized.
 
-ROIALS CAPITAL operates with principal authority because our function is structural, not promotional.
+Roials Capital operates with principal authority because our function is structural, not promotional.
 
 Our Institutional Liquidity Paths framework against private credit and Asset-Based Lending assets is engineered for investors who do not need persuasion.
 
@@ -229,7 +229,7 @@ Closing Perspective The mechanics of tokenized real estate liquidity are not spe
 
 For HNWI and UHNW investors, the ability to extract liquidity from real estate with minimal friction and maximum structural integrity is a decisive advantage.
 
-ROIALS CAPITAL provides that advantage through a disciplined architecture of private credit and asset based Institutional Liquidity Paths.
+Roials Capital provides that advantage through a disciplined architecture of private credit and asset based Institutional Liquidity Paths.
 
 We maintain thresholds that ensure institutional coherence.
 
@@ -237,9 +237,13 @@ We maintain frameworks that ensure settlement integrity.
 
 We maintain principal authority that ensures trust without noise.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

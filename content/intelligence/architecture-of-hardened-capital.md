@@ -1,4 +1,4 @@
---- title: "The Architecture of Hardened Capital for Fund‑III Mandates" description: "A principal-level institutional brief on hardened capital engineering, multi‑jurisdictional structuring, and sovereign-grade capitalization pathways for Fund‑III buyouts, add‑ons, and special mandates." date: "2025-08-08" author: "ROIALS CAPITAL" slug: "architecture-of-hardened-capital"
+--- title: "The Architecture of Hardened Capital for Fund‑III Mandates" description: "A principal-level institutional brief on hardened capital engineering, multi‑jurisdictional structuring, and sovereign-grade capitalization pathways for Fund‑III buyouts, add‑ons, and special mandates." date: "2025-08-08" author: "Roials Capital" slug: "architecture-of-hardened-capital"
 ---
 
 Hardened capital is not a metaphor.
@@ -515,9 +515,13 @@ Capital hardened is power realized.
 
 Capital unhardened is power imagined.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Request confidential capital audit.
 

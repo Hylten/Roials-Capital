@@ -1,4 +1,4 @@
---- title: "The Principal’s Position on NAEOC‑Scale Energy Transition Buyouts" description: "A private capital briefing on why $50M–$250M energy-transition control deals are re‑magnetizing infrastructure LPs and re‑opening the mid‑market for Fund‑III capital formation." date: "2026-02-04" author: "ROIALS CAPITAL" slug: "naeoc-energy-transition-private-equity-re-entry"
+--- title: "The Principal’s Position on NAEOC‑Scale Energy Transition Buyouts" description: "A private capital briefing on why $50M–$250M energy-transition control deals are re‑magnetizing infrastructure LPs and re‑opening the mid‑market for Fund‑III capital formation." date: "2026-02-04" author: "Roials Capital" slug: "naeoc-energy-transition-private-equity-re-entry"
 ---
 
 The center of gravity is shifting.
@@ -300,7 +300,7 @@ Energy systems are being rebuilt for reasons of physics, not politics.
 
 That is the ultimate anchor for institutional capital.
 
-CAPITAL ARCHITECTURE ROIALS CAPITAL Position in the Cycle You already know our tri‑vector: Eighty percent capital raising for Fund‑III and add‑on execution. Ten percent Asset‑Based Lending for working liquidity.
+CAPITAL ARCHITECTURE Roials Capital Position in the Cycle You already know our tri‑vector: Eighty percent capital raising for Fund‑III and add‑on execution. Ten percent Asset‑Based Lending for working liquidity.
 
 Ten percent special mandates including NAEOC and MiFID II pathways.
 
@@ -332,7 +332,7 @@ We do not chase the tide.
 
 We build the harbor where the tide returns.
 
-ASSET‑BASED LENDING (QUALIFICATION GATES) Strict ROIALS CAPITAL Protocol If a manager or operating company requires working liquidity for acquisition execution, bridge positioning, or industrial stabilization, we open the Asset‑Based Lending corridor only at the formal Qualification Gates
+ASSET‑BASED LENDING (QUALIFICATION GATES) Strict Roials Capital Protocol If a manager or operating company requires working liquidity for acquisition execution, bridge positioning, or industrial stabilization, we open the Asset‑Based Lending corridor only at the formal Qualification Gates
 
 :
 

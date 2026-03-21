@@ -7,7 +7,7 @@ It is not opportunistic.
 
 It is engineered.
 
-ROIALS CAPITAL operates within that engineering layer.
+Roials Capital operates within that engineering layer.
 
 This article outlines the structural mechanics that govern sovereign level capital deployment, particularly for High Net Worth and Ultra High Net Worth clients who operate across private credit, asset based Monetization Architecture, and multi‑domain liquidity protocols.
 
@@ -35,7 +35,7 @@ Control determines velocity, and velocity determines compounding power.
 
 This distinction matters because misaligned capital often accelerates risk, while aligned capital accelerates optionality.
 
-At ROIALS CAPITAL THE MANDAT
+At Roials Capital THE MANDAT
 
 E is to engineer liquidity structures that provide this optionality without violating the preservation layer.
 
@@ -63,7 +63,7 @@ Clarity on time horizons.
 
 Non collateralized capital, especially at HNWI and UHNW scales, introduces uncertainty that compounds across multi asset portfolios.
 
-ROIALS CAPITAL operates as a principal authority within collateralized structures.
+Roials Capital operates as a principal authority within collateralized structures.
 
 We lend against private credit and asset based positions with precision because the mechanics are stable and predictable.
 
@@ -87,7 +87,7 @@ By Asset-Backed Frameworks against existing private credit positions investors u
 
 This transforms private credit into a liquidity engine rather than a static allocation.
 
-ROIALS CAPITAL supports this by deploying capital against those assets with institutional rigidity.
+Roials Capital supports this by deploying capital against those assets with institutional rigidity.
 
 Risk is understood.
 
@@ -121,7 +121,7 @@ HNWI and UHNW allocators increasingly lean on Asset-Based Lending frameworks to 
 
 Crypto Asset-Backed Frameworks at Sovereign Scale Digital assets introduce both asymmetry and structural complexity. In most market environments they offer volatility that can be transformed into liquidity, but only when minimum thresholds are respected.
 
-ROIALS CAPITAL enforces the minimum for crypto Asset-Backed Frameworks for a reason.
+Roials Capital enforces the minimum for crypto Asset-Backed Frameworks for a reason.
 
 Below that threshold, noise overwhelms signal.
 
@@ -153,7 +153,7 @@ Tax friction.
 
 Monetization Architecture against public share positions is more elegant, especially for positions exceeding the institutional threshold.
 
-ROIALS CAPITAL structures these facilities with the same core principles that govern our entire framework.
+Roials Capital structures these facilities with the same core principles that govern our entire framework.
 
 Silence.
 
@@ -191,7 +191,7 @@ Each stage is deliberate.
 
 Each stage is insulated from noise.
 
-ROIALS CAPITAL functions within these stages by providing the engineered liquidity tools that support redeployment decisions without violating the preservation layer.
+Roials Capital functions within these stages by providing the engineered liquidity tools that support redeployment decisions without violating the preservation layer.
 
 This is the essence of sovereign strategy.
 
@@ -209,7 +209,7 @@ Sovereign clients cannot afford visible or reactive liquidity events.
 
 Standard credit lines are structurally insufficient.
 
-ROIALS CAPITAL fills that gap by providing Institutional Liquidity Paths solutions that align with sovereign behavior:
+Roials Capital fills that gap by providing Institutional Liquidity Paths solutions that align with sovereign behavior:
 
 - Monetization Architecture against private credit
 
@@ -235,7 +235,7 @@ The objective is not to avoid risk.
 
 The objective is to deploy risk with surgical clarity.
 
-ROIALS CAPITAL provides environments where risk is measured, bounded, and controlled through collateralized frameworks that remove unnecessary volatility.
+Roials Capital provides environments where risk is measured, bounded, and controlled through collateralized frameworks that remove unnecessary volatility.
 
 This maintains institutional integrity.
 
@@ -255,7 +255,7 @@ Sovereign capital deployment is not about chasing returns.
 
 It is about ensuring every domain has controlled liquidity without cross-contamination.
 
-ROIALS CAPITAL is built for this unified state.
+Roials Capital is built for this unified state.
 
 Our Strategic Collateralization structures operate across domains while remaining institutionally clean.
 
@@ -267,19 +267,23 @@ The objective is not aggressiveness.
 
 The objective is principal authority.
 
-CONCLUSIO N
+CONCLUSION
 
 Sovereign capital deployment is a discipline that requires structural mechanics, not marketing language.
 
 HNWI and UHNW clients who operate at size need Asset-Backed Frameworks partners who function with institutional clarity and discretion.
 
-ROIALS CAPITAL provides that architecture through private credit Institutional Liquidity Paths, asset based Capital Structuring, seven and eight figure crypto Strategic Collateralization thresholds, and public share liquidity frameworks.
+Roials Capital provides that architecture through private credit Institutional Liquidity Paths, asset based Capital Structuring, seven and eight figure crypto Strategic Collateralization thresholds, and public share liquidity frameworks.
 
 When deployed correctly these tools create a liquidity architecture that operates with silence, stability, and precision.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

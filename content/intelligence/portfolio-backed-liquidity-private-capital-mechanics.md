@@ -1,4 +1,4 @@
---- title: "The Mechanics of Portfolio Backed Liquidity for Modern Private Capital" description: "An institutional analysis on the structural liquidity gap in private markets, the operational mechanics of portfolio backed financing, and the strategic alignment model used by Roials Capital to navigate capital inefficiencies across North America and Europe." date: "2025-08-10" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "portfolio-backed-liquidity-private-capital-mechanics"
+--- title: "The Mechanics of Portfolio Backed Liquidity for Modern Private Capital" description: "An institutional analysis on the structural liquidity gap in private markets, the operational mechanics of portfolio backed financing, and the strategic alignment model used by Roials Capital to navigate capital inefficiencies across North America and Europe." date: "2025-08-10" author: "Roials Capital (Institutional Briefing)" slug: "portfolio-backed-liquidity-private-capital-mechanics"
 ---
 
 The structural gap in North American private markets is a capital formation issue born from regulatory drift, institutional retrenchment, and the mispricing of middle market operating risk.
@@ -105,7 +105,7 @@ When geological uncertainty approaches zero, the asset behaves closer to infrast
 
 This classification shift is the reason private credit allocators have begun reframing conventional heavy oil as a stability asset rather than a risk asset.
 
-THE PARTNERSHIP MODEL AND ROIALS CAPITAL'S ROLE Roials Capital operates as a strategic navigator within this regime.
+THE PARTNERSHIP MODEL AND Roials Capital'S ROLE Roials Capital operates as a strategic navigator within this regime.
 
 The purpose is not product distribution.
 
@@ -277,9 +277,13 @@ Roials Capital operates as a strategic navigator who translates complex environm
 
 A confidential strategy audit or portfolio calibration session is typically the next step for allocators who require a precision assessment of their exposure architecture, jurisdictional alignment, and liquidity pacing across existing and prospective mandates. [END OF BRIEFING]
 
-# TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+# TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

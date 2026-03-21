@@ -1,4 +1,4 @@
---- title: "Asset Based Liquidity Engineering as the Structural Engine for Multi Generational Wealth" description: "Institutional memorandum detailing the structural role of Asset Based Capital Structuring within modern capital regimes, its function inside Fund-III buyout ecosystems, and its strategic alignment with North American energy arbitrage and balance sheet optimization." date: "2025-07-05" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "asset-based-liquidity-engineering-structural-engine-multi-generational-wealth"
+--- title: "Asset Based Liquidity Engineering as the Structural Engine for Multi Generational Wealth" description: "Institutional memorandum detailing the structural role of Asset Based Capital Structuring within modern capital regimes, its function inside Fund-III buyout ecosystems, and its strategic alignment with North American energy arbitrage and balance sheet optimization." date: "2025-07-05" author: "Roials Capital (Institutional Briefing)" slug: "asset-based-liquidity-engineering-structural-engine-multi-generational-wealth"
 ---
 
 The capital vacuum in North American energy is a function of regulatory drift and institutional mispricing, not resource scarcity.
@@ -251,9 +251,13 @@ Roials Capital provides confidential Strategy Audits and Portfolio Calibration s
 
 The objective is to determine whether their current capital architecture supports or constrains multi generational wealth. [END OF BRIEFING]
 
-# TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+# TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

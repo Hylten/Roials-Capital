@@ -15,7 +15,7 @@ Not political sovereignty, but operational sovereignty.
 
 The sovereignty of being able to deploy capital at temporal speed without disturbing long‑term allocations.
 
-ROIALS CAPITAL operates inside this new paradigm with principal authority.
+Roials Capital operates inside this new paradigm with principal authority.
 
 We construct the structural mechanics that allow private credit, asset based Monetization Architecture, and digital liquidity instruments to function as a single integrated architecture.
 
@@ -37,7 +37,7 @@ Private credit and asset based Strategic Collateralization have become the instr
 
 They allow significant capital reserves to remain compounding, while liquidity is extracted surgically and without friction.
 
-Within this shift, ROIALS CAPITAL does not sell liquidity.
+Within this shift, Roials Capital does not sell liquidity.
 
 We engineer it.
 
@@ -59,7 +59,7 @@ What matters is not merely the diversification of assets.
 
 What matters is the **interoperability of assets**.
 
-ROIALS CAPITAL designs this interoperability.
+Roials Capital designs this interoperability.
 
 Liquidity as a Structural Asset Liquidity used to be an outcome. In the current era it is a strategic asset class of its own.
 
@@ -87,7 +87,7 @@ HNWI and UHNW individuals operate as private institutions.
 
 They require the same structural leverage that banks and funds use internally, yet applied to their personal or family office balance sheets.
 
-ROIALS CAPITAL positions private credit not as an investment product but as a sovereignty mechanism.
+Roials Capital positions private credit not as an investment product but as a sovereignty mechanism.
 
 It is a precision tool used to control liquidity sequencing.
 
@@ -117,7 +117,7 @@ Asset-Based Lending provides four strategic advantages:
 
 - Asymmetry: Clients operate with leverage that does not erode compounding.
 
-ROIALS CAPITAL uses Asset-Based Lending as a structural skeleton.
+Roials Capital uses Asset-Based Lending as a structural skeleton.
 
 It connects asset silos that traditionally do not speak the same financial language.
 
@@ -181,7 +181,7 @@ Control is designed, not negotiated.
 
 Sovereignty is constructed, not inherited.
 
-The principal authority Framework ROIALS CAPITAL operates with F-Hierarchical Dynamics. This status is defined by principal authority and structural presence rather than overt signaling.
+The principal authority Framework Roials Capital operates with F-Hierarchical Dynamics. This status is defined by principal authority and structural presence rather than overt signaling.
 
 We do not offer products.
 
@@ -203,7 +203,7 @@ Strategic Capital Migration as the Next Wealth Frontier The next decade belongs 
 
 With the rise of digital sovereignty, private credit as a core asset class, and asset based Asset-Backed Frameworks as a mobility instrument, the wealth landscape has shifted permanently.
 
-ROIALS CAPITAL stands at the center of this shift.
+Roials Capital stands at the center of this shift.
 
 Our structures allow clients to maintain control while accessing liquidity across all layers of their balance sheet.
 
@@ -213,7 +213,7 @@ It is for those who operate with institutional expectations and global time hori
 
 It is for those who treat liquidity as strategy, not reaction.
 
-CONCLUSIO N
+CONCLUSION
 
 Strategic capital migration is no longer optional.
 
@@ -223,15 +223,19 @@ Those who understand this architecture gain structural advantages that compound 
 
 Those who do not remain tied to outdated financial frameworks.
 
-ROIALS CAPITAL provides the mechanics.
+Roials Capital provides the mechanics.
 
 The architecture.
 
 The principal authority that supports sovereign capital movement in an era defined by digital and structural complexity.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

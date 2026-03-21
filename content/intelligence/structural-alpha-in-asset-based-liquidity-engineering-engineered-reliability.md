@@ -227,7 +227,7 @@ Our frameworks prioritize:
 
 Resilience is the source of confidence for institutional partners and borrowers alike.
 
-CONCLUSIO N
+CONCLUSION
 
 Structural Alpha in Asset-Based Lending is not an abstraction.
 
@@ -239,9 +239,13 @@ It is the reward for structural discipline.
 
 It is earned, not assumed.
 
-Request confidential audit TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+Request confidential audit TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

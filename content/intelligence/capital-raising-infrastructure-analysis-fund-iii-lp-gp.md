@@ -1,4 +1,4 @@
---- title: "Capital Raising Infrastructure Analysis for Institutional Allocators Across Fund‑III Architectures" description: "Institutional-grade analysis of capital raising infrastructures, Fund-III scaling dynamics, liquidity engineering channels, and cross-regime allocation mechanics for UHNWIs, Institutional LPs, and Private Credit GPs." date: "2026-01-22" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "capital-raising-infrastructure-analysis-Fund-III-lp-gp"
+--- title: "Capital Raising Infrastructure Analysis for Institutional Allocators Across Fund‑III Architectures" description: "Institutional-grade analysis of capital raising infrastructures, Fund-III scaling dynamics, liquidity engineering channels, and cross-regime allocation mechanics for UHNWIs, Institutional LPs, and Private Credit GPs." date: "2026-01-22" author: "Roials Capital (Institutional Briefing)" slug: "capital-raising-infrastructure-analysis-Fund-III-lp-gp"
 ---
 
 The capital vacuum in middle-market acquisition structures is not the result of deal scarcity.
@@ -99,7 +99,7 @@ A Fund-III GP must provide allocators with a compliance architecture that protec
 
 THE STRATEGIC MODEL
 
-AND THE ROLE OF ROIALS CAPITAL As a strategic navigator and introducer, ROIALS CAPITAL does not function as a fund manager.
+AND THE ROLE OF Roials Capital As a strategic navigator and introducer, Roials Capital does not function as a fund manager.
 
 Its institutional role is to construct the architecture through which sophisticated LPs, GPs, and private credit funds align.
 
@@ -201,9 +201,13 @@ INTRODUCTION , Portfolio Calibration, or Confidential Strategy Audit that verifi
 
 Allocators who evaluate through this lens strengthen their position within the emerging capital regime and secure alignment with partners capable of navigating complex acquisition cycles. [END OF BRIEFING]
 
-# TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+# TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

@@ -290,7 +290,7 @@ It must be engineered, not left to market whims.
 
 5.
 
-CONCLUSIO N
+CONCLUSION
 
 : STRUCTURAL CLOSURE Capital preservation for 2026 and beyond is an engineering discipline.
 
@@ -318,9 +318,13 @@ This is the playbook.
 
 The principal must choose how to deploy it. [END INTELLIGENCE REPORT]
 
-# TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+# TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

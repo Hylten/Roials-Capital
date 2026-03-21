@@ -1,4 +1,4 @@
---- title: "The Mechanics of Tokenized Real Estate Liquidity" description: "Institutional-grade analysis of tokenized real estate liquidity structures, private credit interaction, Asset-Based Lending routing, and Fund-III capital scaling mechanics for UHNWIs and LPs." date: "2025-12-13" author: "ROIALS CAPITAL" slug: "mechanics-tokenized-real-estate-liquidity"
+--- title: "The Mechanics of Tokenized Real Estate Liquidity" description: "Institutional-grade analysis of tokenized real estate liquidity structures, private credit interaction, Asset-Based Lending routing, and Fund-III capital scaling mechanics for UHNWIs and LPs." date: "2025-12-13" author: "Roials Capital" slug: "mechanics-tokenized-real-estate-liquidity"
 ---
 
 Structural gaps create pricing power.
@@ -224,9 +224,13 @@ They serve.
 EXIT Projected collateral clearance window inside tokenized structures: 4.
 7 hours.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Request confidential capital audit.
 

@@ -1,4 +1,4 @@
---- title: "NAV Lines as the Mid‑Market Catalyst for Rapid Fund‑III Deployment" description: "Principal briefing on how mid‑market GPs are engineering NAV-based facilities to compress deployment cycles, sharpen add‑on velocity, and strengthen liquidity tiers across Fund‑III structures." date: "2025-08-02" author: "ROIALS CAPITAL" slug: "nav-engineering-Fund-III-deployment"
+--- title: "NAV Lines as the Mid‑Market Catalyst for Rapid Fund‑III Deployment" description: "Principal briefing on how mid‑market GPs are engineering NAV-based facilities to compress deployment cycles, sharpen add‑on velocity, and strengthen liquidity tiers across Fund‑III structures." date: "2025-08-02" author: "Roials Capital" slug: "nav-engineering-Fund-III-deployment"
 ---
 
 Mid‑market GPs are no longer treating NAV facilities as a late‑cycle liquidity patch.

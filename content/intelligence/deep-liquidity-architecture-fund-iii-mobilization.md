@@ -1,4 +1,4 @@
---- title: "Deep Liquidity Architecture for Fund‑III Mobilization" description: "Institutional blueprint for multi‑jurisdictional capital formation, cross‑border liquidity engineering, and hard‑asset credit structuring for Fund‑III buyout velocity." date: "2026-02-24" author: "ROIALS CAPITAL | Principal Investigator" slug: "deep-liquidity-architecture-Fund-III-mobilization"
+--- title: "Deep Liquidity Architecture for Fund‑III Mobilization" description: "Institutional blueprint for multi‑jurisdictional capital formation, cross‑border liquidity engineering, and hard‑asset credit structuring for Fund‑III buyout velocity." date: "2026-02-24" author: "Roials Capital | Principal Investigator" slug: "deep-liquidity-architecture-Fund-III-mobilization"
 ---
 
 A deep-liquidity architecture never emerges from tactical capital raising.
@@ -485,9 +485,13 @@ MANDATE: INITIATE A CONFIDENTIAL CAPITAL AUDIT FOR FUND‑III TO ASCERTAIN LIQUI
 
 Technical Metric: Target 1.62x Net‑Liquidity Coverage Ratio across all Fund‑III hard‑asset pools.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

@@ -1,4 +1,4 @@
---- title: "Institutional Standards for Private liquidity engineering Agreements: The Roials Capital Framework" description: "A high-authority analysis of institutional protocols for private credit and asset based Asset-Backed Frameworks, focused on liquidity, collateral integrity, and high net worth execution." date: "2025-09-05" author: "Jonas Hyltén" slug: "institutional-standards-for-private-liquidity-engineering-agreements-the-ROIALS CAPITAL-framework"
+--- title: "Institutional Standards for Private liquidity engineering Agreements: The Roials Capital Framework" description: "A high-authority analysis of institutional protocols for private credit and asset based Asset-Backed Frameworks, focused on liquidity, collateral integrity, and high net worth execution." date: "2025-09-05" author: "Jonas Hyltén" slug: "institutional-standards-for-private-liquidity-engineering-agreements-the-Roials Capital-framework"
 ---
 
 # Institutional Standards for Private Capital Structuring Agreements Roials Capital Architecture for High Net Worth Liquidity Protocols Private Asset-Backed Frameworks at the institutional tier is not formed from negotiation. It is shaped through architecture.
@@ -299,9 +299,13 @@ We do not predict the future.
 
 We architect for it.
 
-Request Your Confidential Audit For clients who require liquidity engineered at institutional precision, Roials Capital provides a confidential structural audit of collateral and Monetization Architecture capacity. TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+Request Your Confidential Audit For clients who require liquidity engineered at institutional precision, Roials Capital provides a confidential structural audit of collateral and Monetization Architecture capacity. TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

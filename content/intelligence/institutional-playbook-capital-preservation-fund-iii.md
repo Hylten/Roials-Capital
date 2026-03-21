@@ -1,4 +1,4 @@
---- title: "The Institutional Playbook for Capital Preservation in Fund-III Regimes" description: "A principal-level framework for kapitalanskaffning, private credit structuring, liquidity engineering, and institutional-grade capital defense across buyout ecosystems." date: "2026-03-05" author: "ROIALS CAPITAL" slug: "institutional-playbook-capital-preservation-Fund-III"
+--- title: "The Institutional Playbook for Capital Preservation in Fund-III Regimes" description: "A principal-level framework for kapitalanskaffning, private credit structuring, liquidity engineering, and institutional-grade capital defense across buyout ecosystems." date: "2026-03-05" author: "Roials Capital" slug: "institutional-playbook-capital-preservation-Fund-III"
 ---
 
 Capital moves on certainty.
@@ -135,7 +135,7 @@ If the GP is guilty of any two, the raise collapses.
 
 If guilty of all three, the GP loses the decade.
 
-ROIALS CAPITAL fixes this through compression modeling.
+Roials Capital fixes this through compression modeling.
 
 The GP presents only what is defensible, measurable, and repeatable.
 
@@ -491,7 +491,7 @@ Compounding only happens when capital survives.
 
 Preservation is compounding’s bodyguard.
 
-ROIALS CAPITAL focuses Fund-III capital raising on institutional durability.
+Roials Capital focuses Fund-III capital raising on institutional durability.
 
 The raise is structured as a signal.
 
@@ -579,9 +579,13 @@ Drift is unacceptable.
 
 Preservation is non-negotiable.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Request confidential capital audit to initiate alignment.
 

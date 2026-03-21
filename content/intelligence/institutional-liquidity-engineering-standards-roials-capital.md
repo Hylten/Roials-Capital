@@ -1,4 +1,4 @@
---- title: "Institutional Standards for Private Liquidity Engineering Agreements" description: "ROIALS CAPITAL’s sovereign-grade framework governing Institutional Liquidity Paths, Fund-III capital formation, private credit structuring, and cross‑jurisdictional institutional mandates." date: "2025-08-13" author: "ROIALS CAPITAL" slug: "institutional-liquidity-engineering-standards-ROIALS CAPITAL"
+--- title: "Institutional Standards for Private Liquidity Engineering Agreements" description: "Roials Capital’s sovereign-grade framework governing Institutional Liquidity Paths, Fund-III capital formation, private credit structuring, and cross‑jurisdictional institutional mandates." date: "2025-08-13" author: "Roials Capital" slug: "institutional-liquidity-engineering-standards-Roials Capital"
 ---
 
 Institutional architecture begins with the presumption of asymmetry.
@@ -21,7 +21,7 @@ Quietly.
 
 Precisely.
 
-ROIALS CAPITAL designs that precision.
+Roials Capital designs that precision.
 
 Fund‑III scale.
 
@@ -89,7 +89,7 @@ LPs who read covenants instead of headlines.
 
 Operators who separate noise from signals.
 
-ROIALS CAPITAL enters at that junction: where deals stall, where liquidity misaligns, where acquisition velocity slows.
+Roials Capital enters at that junction: where deals stall, where liquidity misaligns, where acquisition velocity slows.
 
 Our internal doctrine treats Institutional Liquidity Paths as a structural intervention that converts risk exposure into dominance exposure.
 
@@ -99,7 +99,7 @@ The objective is institutional hardening.
 
 II.
 
-The ROIALS CAPITAL Monetization Architecture Standard (LE‑Standard) A Institutional Liquidity Paths agreement (LEA) is defined as a controlled, cross‑jurisdictional covenant set that binds liquidity behavior to operational assets, with reinforcement from external capital pools.
+The Roials Capital Monetization Architecture Standard (LE‑Standard) A Institutional Liquidity Paths agreement (LEA) is defined as a controlled, cross‑jurisdictional covenant set that binds liquidity behavior to operational assets, with reinforcement from external capital pools.
 
 The agreement is treated as a living instrument.
 
@@ -127,7 +127,7 @@ Geometry mapped to asset behavior.
 
 2.
 
-Jurisdictional Arbitrage ROIALS CAPITAL conducts jurisdictional scans before any LEA is drafted.
+Jurisdictional Arbitrage Roials Capital conducts jurisdictional scans before any LEA is drafted.
 
 This governs:
 
@@ -155,7 +155,7 @@ Flow direction must be controlled.
 
 Exit velocity must be predictable.
 
-ROIALS CAPITAL structures liquidity flow into three channels:
+Roials Capital structures liquidity flow into three channels:
 
 - Operational liquidity
 
@@ -195,7 +195,7 @@ A fund of maturity.
 
 A fund that distinguishes operators from allocators.
 
-ROIALS CAPITAL positions Fund‑III vehicles for accelerated acquisition velocity and additive capitalization.
+Roials Capital positions Fund‑III vehicles for accelerated acquisition velocity and additive capitalization.
 
 The architecture includes:
 
@@ -233,7 +233,7 @@ Buyout & Add‑On Capital Discipline Fund‑III must demonstrate precision acqui
 
 - Supply‑chain traction
 
-- Immediate accretion ROIALS CAPITAL monitors these patterns during capital formation to ensure narrative-aligned performance.
+- Immediate accretion Roials Capital monitors these patterns during capital formation to ensure narrative-aligned performance.
 
 3.
 
@@ -241,7 +241,7 @@ Governance Framing Institutional capital does not move toward charisma.
 
 It moves toward governance logic.
 
-ROIALS CAPITAL standardizes:
+Roials Capital standardizes:
 
 - Reporting cadence
 
@@ -255,7 +255,7 @@ IV.
 
 Asset-Backed Frameworks
 
-- Principal Tier (10%) This is ROIALS CAPITAL’s proprietary segment.
+- Principal Tier (10%) This is Roials Capital’s proprietary segment.
 
 Asset‑Based Liquidity (Asset-Based Lending) is used not as leverage but as a stabilizer.
 
@@ -285,7 +285,7 @@ Not vice versa.
 
 V.
 
-Special Mandates (10%) ROIALS CAPITAL accepts special mandates only when they reinforce the principal capital architecture.
+Special Mandates (10%) Roials Capital accepts special mandates only when they reinforce the principal capital architecture.
 
 1.
 
@@ -297,7 +297,7 @@ Pressure mapping.
 
 Barrel realism.
 
-ROIALS CAPITAL focuses on:
+Roials Capital focuses on:
 
 - Reservoir economics
 
@@ -325,7 +325,7 @@ VI.
 
 Institutional Hardening
 
-- The ROIALS CAPITAL Doctrine Hardening is the invisible layer.
+- The Roials Capital Doctrine Hardening is the invisible layer.
 
 It is the difference between institutional and non‑institutional capital behavior.
 
@@ -372,7 +372,7 @@ It transfers governance strength into every transaction.
 It elevates the GP’s status with each successful execution cycle.
 
 VIII.
-- The Sovereign Approach ROIALS CAPITAL treats every agreement through a sovereign lens.
+- The Sovereign Approach Roials Capital treats every agreement through a sovereign lens.
 
 A sovereign lens focuses on:
 
@@ -402,7 +402,7 @@ Narrative Control For institutional allocators, narrative is infrastructure.
 
 Narrative must be engineered with the same iron discipline as liquidity.
 
-ROIALS CAPITAL enforces:
+Roials Capital enforces:
 
 - Precision language
 
@@ -418,7 +418,7 @@ X.
 
 Cross‑Jurisdictional Coherence Capital must behave coherently across borders.
 
-To ensure coherence, ROIALS CAPITAL implements:
+To ensure coherence, Roials Capital implements:
 
 - Jurisdictional harmonization
 
@@ -434,7 +434,7 @@ XI.
 
 Asset Hardening Asset hardening stabilizes enterprise value.
 
-ROIALS CAPITAL uses three hardening vectors:
+Roials Capital uses three hardening vectors:
 
 - Operational hardening
 
@@ -450,7 +450,7 @@ XII.
 
 Strategic Rhythm Institutional funds collapse when rhythm breaks.
 
-ROIALS CAPITAL enforces rhythm:
+Roials Capital enforces rhythm:
 
 - Quarterly cadence
 
@@ -494,7 +494,7 @@ No narrative drift.
 
 No structural weakness.
 
-ROIALS CAPITAL serves as the institutional spine for capital allocators who operate without training wheels.
+Roials Capital serves as the institutional spine for capital allocators who operate without training wheels.
 
 We build agreements that behave like machines.
 
@@ -516,9 +516,13 @@ Terminal Metric: Enforcement Coherence Index =
 
 92.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Access is restricted to approved mandates.
 

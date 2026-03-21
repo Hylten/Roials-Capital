@@ -1,4 +1,4 @@
---- title: "The Reallocation Mandate" description: "Institutional analysis of private credit's regime shift, mid-market absorption capacity, and Fund-III capital formation pathways across buyouts, Asset-Based Lending liquidity engineering, and special mandates." date: "2025-08-04" author: "ROIALS CAPITAL" slug: "reallocation-mandate-private-credit-Fund-III"
+--- title: "The Reallocation Mandate" description: "Institutional analysis of private credit's regime shift, mid-market absorption capacity, and Fund-III capital formation pathways across buyouts, Asset-Based Lending liquidity engineering, and special mandates." date: "2025-08-04" author: "Roials Capital" slug: "reallocation-mandate-private-credit-Fund-III"
 ---
 
 A structural gap has opened at the center of private credit.
@@ -23,7 +23,7 @@ The market has entered a reallocation era.
 
 Capital is shifting from passive credit channels to active, sponsor aligned, mid-market direct lending platforms.
 
-ROIALS CAPITAL speaks from that position.
+Roials Capital speaks from that position.
 
 We operate inside the flow of transactions, not on the commentary layer.
 
@@ -113,7 +113,7 @@ You embed reserve buckets, maintenance triggers, and mandatory cash sweeps.
 
 Waterfall precision is where most mid tier lenders lose control.
 
-ROIALS CAPITAL treats the waterfall as a machine room.
+Roials Capital treats the waterfall as a machine room.
 
 Every component is engineered for predictability.
 
@@ -170,7 +170,7 @@ Capital raising is architecture.
 
 Fund-III must integrate three channels: direct LP relationships, structured Asset-Based Lending lines, and special mandate capital partners.
 
-ROIALS CAPITAL structures Fund-III for velocity.
+Roials Capital structures Fund-III for velocity.
 
 Senior investment staff aligns with deal architects.
 
@@ -248,7 +248,7 @@ In institutional terms, stewardship means allocating capital without leakage.
 
 Every mispriced risk, every friction point, every sloppy underwriting protocol is a form of waste.
 
-ROIALS CAPITAL rejects waste.
+Roials Capital rejects waste.
 
 The stewardship filter removes emotional noise.
 
@@ -300,9 +300,13 @@ Set the benchmark.
 
 Then surpass it.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Request confidential capital audit.
 

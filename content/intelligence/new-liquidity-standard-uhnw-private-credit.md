@@ -1,4 +1,4 @@
---- title: "The New Liquidity Standard for UHNW Portfolios: Institutional Private Credit as Strategic Armor" description: "Institutional brief on private credit as liquidity infrastructure, engineered for UHNW, family offices, and GP/LP capital stacks; focused on Fund-III capital raising, asset hardening, and cross‑jurisdictional liquidity architecture." date: "2025-09-30" author: "ROIALS CAPITAL" slug: "new-liquidity-standard-uhnw-private-credit"
+--- title: "The New Liquidity Standard for UHNW Portfolios: Institutional Private Credit as Strategic Armor" description: "Institutional brief on private credit as liquidity infrastructure, engineered for UHNW, family offices, and GP/LP capital stacks; focused on Fund-III capital raising, asset hardening, and cross‑jurisdictional liquidity architecture." date: "2025-09-30" author: "Roials Capital" slug: "new-liquidity-standard-uhnw-private-credit"
 ---
 
 UHNW portfolios fail at one point: liquidity asymmetry.
@@ -376,9 +376,13 @@ Liquidity infrastructure. Portfolio armor. Acquisition engine. Sovereign tool. P
 
 The standard for all serious operators.
 
-TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE 
 
-000 for comprehensive structural execution.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
 
 Request confidential capital audit to benchmark your current liquidity architecture against institutional standards.
 
