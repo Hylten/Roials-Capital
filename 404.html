@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirecting...</title>
+</head>
+<body>
+    <script>
+        // Capture the requested URL before GitHub Pages serves this 404
+        const url = window.location.pathname;
+        
+        // Store it in sessionStorage for the React app to read
+        if (url && url !== '/404.html' && url !== '/') {
+            sessionStorage.redirect = url;
+            // Redirect to index.html so React router can handle the navigation
+            window.location.href = '/';
+        }
+    </script>
+    <p>Redirecting to Roials Capital...</p>
+</body>
+</html>
