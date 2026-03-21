@@ -458,7 +458,7 @@ Those with infrastructure will inherit scale.
 
 Those without will exit the domain.
 
-CONCLUSION
+**Conclusion**
 
 Institutional grade infrastructure is not a luxury.
 
@@ -486,7 +486,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+...
+Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 

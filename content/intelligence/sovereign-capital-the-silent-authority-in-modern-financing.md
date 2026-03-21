@@ -139,7 +139,7 @@ The layer beneath the structure.
 
 The quiet foundation that allows power to remain uninterrupted.
 
-CONCLUSION
+**Conclusion**
 
 : Architecture Over Activity Sovereign capital is not active.
 
@@ -165,7 +165,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+...
+Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 

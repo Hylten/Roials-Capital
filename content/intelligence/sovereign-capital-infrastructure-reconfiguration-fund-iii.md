@@ -639,7 +639,9 @@ Not simulations.
 
 Reality.
 
-CONCLUSION : THE RECONFIGURATION AGE The coming decades will be shaped by:
+**Conclusion**
+
+: THE RECONFIGURATION AGE The coming decades will be shaped by:
 
 - Capital sovereignty.
 
@@ -671,7 +673,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+...
+Minimum target size: $5M+....
 
 Request confidential capital audit to determine your deployment compatibility and sovereign alignment delta.
 

@@ -221,7 +221,7 @@ Multi asset hardening is a discipline that produces that control.
 
 Fund-III is the practical expression of that discipline.
 
-CONCLUSION
+**Conclusion**
 
 A More Resilient Architecture for Institutional Scale Multi asset hardening is not a strategy.
 
@@ -247,7 +247,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+...
+Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 

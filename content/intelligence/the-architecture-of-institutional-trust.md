@@ -321,7 +321,7 @@ Our clients rely on that predictability.
 
 Our systems enforce it.
 
-CONCLUSION
+**Conclusion**
 
 : Trust as a Structural Outcome Trust is not declared.
 
@@ -343,7 +343,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+...
+Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 

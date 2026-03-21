@@ -55,7 +55,7 @@ For high net worth and ultra high net worth individuals, control is the true cur
 
 Yield is the instrument that delivers that control.
 
-CONCLUSION
+**Conclusion**
 
 : Yield as the Foundation of Durable Capital Asset hardening is not decorative language.
 
@@ -81,7 +81,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+...
+Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 

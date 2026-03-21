@@ -309,7 +309,7 @@ principal authority is the highest form of trust.
 
 It is the trust that comes from structural predictability.
 
-CONCLUSION
+**Conclusion**
 
 : The Future of Sovereign Risk Mitigation Risk mitigation in sovereign asset structures is a perpetual discipline.
 
@@ -345,7 +345,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+...
+Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 

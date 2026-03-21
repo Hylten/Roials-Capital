@@ -329,7 +329,7 @@ Sovereign debt becomes a functional global system.
 
 Not a collection of independent markets.
 
-CONCLUSION
+**Conclusion**
 
 Debt structure harmonization is not a theoretical construct.
 

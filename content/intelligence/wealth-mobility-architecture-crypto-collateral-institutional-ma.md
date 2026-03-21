@@ -117,7 +117,7 @@ Sponsors integrating borderless collateral are able to execute buyouts that cons
 
 The collateral architecture becomes a tool of productive capital, not speculative gain.
 
-CONCLUSION
+**Conclusion**
 
 Allocators operating within Fund-III plus environments are entering a cycle where traditional capital deployment no longer satisfies the velocity requirements of modern M and A.
 

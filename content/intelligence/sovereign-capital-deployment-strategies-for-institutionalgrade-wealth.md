@@ -267,7 +267,7 @@ The objective is not aggressiveness.
 
 The objective is principal authority.
 
-CONCLUSION
+**Conclusion**
 
 Sovereign capital deployment is a discipline that requires structural mechanics, not marketing language.
 
@@ -283,7 +283,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+...
+Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 

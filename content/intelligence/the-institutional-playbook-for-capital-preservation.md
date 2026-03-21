@@ -53,7 +53,7 @@ A deliberate strategy.
 
 A commitment to structural superiority.
 
-CONCLUSION
+**Conclusion**
 
 : Preservation Is the First Rule of Enduring Wealth There is no wealth without preservation.
 
@@ -85,7 +85,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+...
+Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 

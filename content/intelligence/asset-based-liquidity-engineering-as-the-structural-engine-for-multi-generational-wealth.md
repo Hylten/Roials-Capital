@@ -289,7 +289,7 @@ Liquidity without visibility is the core of principal authority.
 
 Roials Capital is built for that environment.
 
-CONCLUSION
+**Conclusion**
 
 Asset based Capital Structuring is not a tactic.
 
@@ -319,7 +319,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+...
+Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 

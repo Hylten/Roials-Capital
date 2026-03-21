@@ -272,7 +272,7 @@ Those who understand the distinction will unlock the full spectrum of modern liq
 
 Those who do not will continue to run complex portfolios through legacy pipelines that were not designed for them.
 
-CONCLUSION
+**Conclusion**
 
 : Architecture Determines Outcome Traditional banking is structured for safety, scale, and regulatory compliance.
 
@@ -294,7 +294,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+...
+Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 

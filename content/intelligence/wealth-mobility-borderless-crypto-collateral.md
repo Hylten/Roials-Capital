@@ -273,7 +273,7 @@ Firms with borderless collateral systems can move faster, negotiate harder, and 
 
 This is the type of advantage required in private equity Fund-III investment opportunities 2026, especially as competitors operate with slower capital call frameworks.
 
-CONCLUSION
+**Conclusion**
 
 The global financial system in 2026 is not defined by borders.
 
@@ -309,7 +309,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+...
+Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 

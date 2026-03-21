@@ -267,7 +267,7 @@ They operate in environments where opportunity windows do not wait for procedura
 
 Decentralized private credit is the system that reflects this reality.
 
-CONCLUSION
+**Conclusion**
 
 : Architecture Over Narrative The growth of decentralized private credit is not a trend.
 
@@ -287,7 +287,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+...
+Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 

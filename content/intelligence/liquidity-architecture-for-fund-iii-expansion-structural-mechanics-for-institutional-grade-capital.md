@@ -275,7 +275,7 @@ The architecture is also the advantage.
 
 It is the reason Fund-III can expand without diluting quality.
 
-CONCLUSION
+**Conclusion**
 
 Liquidity is not simply provided at Roials Capital.
 
@@ -293,7 +293,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+...
+Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 

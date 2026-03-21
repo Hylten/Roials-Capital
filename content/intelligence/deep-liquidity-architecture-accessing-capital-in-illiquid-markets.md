@@ -69,7 +69,7 @@ Strategic Use Cases for Deep Liquidity HNWI and UHNW clients typically deploy de
 
 Each use case benefits from controlled liquidity, not speculative leverage.
 
-CONCLUSION
+**Conclusion**
 
 : Deep Liquidity Is the New Foundation of Wealth Architecture In illiquid markets, most participants operate at the mercy of their environment.
 
@@ -93,7 +93,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+...
+Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 

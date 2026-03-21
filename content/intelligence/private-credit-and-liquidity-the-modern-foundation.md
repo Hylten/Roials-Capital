@@ -265,7 +265,7 @@ Private credit is one of its primary design tools.
 
 Institutions that understand this shift will shape the next cycle rather than react to it.
 
-CONCLUSION
+**Conclusion**
 
 Private credit and liquidity are now permanently linked.
 
@@ -285,7 +285,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+...
+Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 

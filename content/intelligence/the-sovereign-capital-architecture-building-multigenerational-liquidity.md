@@ -325,7 +325,7 @@ Roials Capital does not predict the future.
 
 It prepares for all futures simultaneously.
 
-CONCLUSION
+**Conclusion**
 
 : Institutions Do Not Survive by Accident They survive by architecture.
 
@@ -353,7 +353,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+...
+Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 

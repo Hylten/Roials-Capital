@@ -47,7 +47,7 @@ Key Focus Areas for 2026
 
 * Defensive businesses essential to supply chain resilience.
 
-CONCLUSION
+**Conclusion**
 
 At Roials Capital, we believe that navigating this environment requires more than capital deployment; it necessitates operational integration and precise risk architecture.
 
@@ -59,7 +59,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+...
+Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 

@@ -125,7 +125,7 @@ The era of frictionless liquidity.
 
 The era of sovereign capital autonomy.
 
-CONCLUSION
+**Conclusion**
 
 The future of sovereign capital infrastructure belongs to those who understand that capital is no longer defined by possession, but by architecture.
 
@@ -151,7 +151,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+...
+Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 

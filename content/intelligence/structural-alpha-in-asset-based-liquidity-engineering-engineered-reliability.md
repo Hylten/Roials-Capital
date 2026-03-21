@@ -227,7 +227,7 @@ Our frameworks prioritize:
 
 Resilience is the source of confidence for institutional partners and borrowers alike.
 
-CONCLUSION
+**Conclusion**
 
 Structural Alpha in Asset-Based Lending is not an abstraction.
 
@@ -245,7 +245,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+...
+Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 

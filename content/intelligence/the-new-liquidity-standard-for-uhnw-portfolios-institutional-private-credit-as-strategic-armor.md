@@ -35,7 +35,9 @@ The New Liquidity Standard: A Structural
 
 
 
-CONCLUSION UHNW portfolios are no longer constrained by market cycles.
+**Conclusion**
+
+UHNW portfolios are no longer constrained by market cycles.
 
 They are constrained by liquidity engineering.
 
@@ -63,7 +65,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+...
+Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 

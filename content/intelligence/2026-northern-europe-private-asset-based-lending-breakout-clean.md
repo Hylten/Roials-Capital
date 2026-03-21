@@ -141,7 +141,9 @@ Northern Europe becomes the safe harbor.
 
 These forces converge into the same
 
-CONCLUSION : private lenders with institutional discipline dominate the next cycle.
+**Conclusion**
+
+: private lenders with institutional discipline dominate the next cycle.
 
 -
 

@@ -51,7 +51,9 @@ It is an asset.
 
 Within private credit, it is the definitive competitive advantage.
 
-CONCLUSION : Institutional Alignment as a Strategic Imperative Private credit, supported by Asset-Based Lending architecture, becomes a structural advantage when governed with precision.
+**Conclusion**
+
+: Institutional Alignment as a Strategic Imperative Private credit, supported by Asset-Based Lending architecture, becomes a structural advantage when governed with precision.
 
 Institutional alignment ensures that every component of the credit system reflects stability, transparency, and long horizon durability.
 
@@ -73,7 +75,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+...
+Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 

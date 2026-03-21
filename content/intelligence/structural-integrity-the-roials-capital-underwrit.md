@@ -398,7 +398,9 @@ These structures amplify:
 
 We evaluate who earns access.
 
-CONCLUSION Structural Integrity Is the Differentiator Markets reward order. Capital rewards structure.
+**Conclusion**
+
+Structural Integrity Is the Differentiator Markets reward order. Capital rewards structure.
 
 Institutions reward stewardship.
 
@@ -422,7 +424,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+...
+Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 

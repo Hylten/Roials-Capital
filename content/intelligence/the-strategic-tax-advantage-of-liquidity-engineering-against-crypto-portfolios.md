@@ -211,7 +211,7 @@ The practice is no longer emergent.
 
 It is now part of the standard toolkit for high net worth and ultra high net worth investors.
 
-CONCLUSION
+**Conclusion**
 
 : Structure Replaces Speculation The tax advantage of Institutional Liquidity Paths against crypto portfolios is not a trend.
 
@@ -227,7 +227,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+...
+Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 

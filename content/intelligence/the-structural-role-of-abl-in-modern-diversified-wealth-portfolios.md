@@ -167,7 +167,9 @@ Asset-Based Lending will serve as the connective tissue, linking long term expos
 
 Roials Capital stands precisely within this structural nexus.
 
-CONCLUSION Asset based Institutional Liquidity Paths is not an alternative financing tool.
+**Conclusion**
+
+Asset based Institutional Liquidity Paths is not an alternative financing tool.
 
 It is a structural mechanism within modern multi asset portfolios.
 
@@ -187,7 +189,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+...
+Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 

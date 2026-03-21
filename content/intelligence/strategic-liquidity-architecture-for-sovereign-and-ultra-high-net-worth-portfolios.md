@@ -53,7 +53,7 @@ We maintain principal authority because real capital does not require noise.
 
 It requires architecture.
 
-CONCLUSION
+**Conclusion**
 
 Strategic liquidity is not the pursuit of cash.
 
@@ -77,7 +77,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+...
+Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 

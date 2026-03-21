@@ -293,7 +293,7 @@ Private credit, asset based Capital Structuring, crypto Asset-Backed Frameworks 
 
 Roials Capital is engineered around this future, not adapting to it.
 
-CONCLUSION
+**Conclusion**
 
 Institutional backing is not a marketing attribute.
 
@@ -323,7 +323,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+...
+Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 
