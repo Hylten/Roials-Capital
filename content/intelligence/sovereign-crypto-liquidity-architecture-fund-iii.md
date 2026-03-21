@@ -1,5 +1,5 @@
 --- title: "Sovereign Crypto Liquidity Architecture for Fund-III Capital Formation" description: "Institutional-grade framework for sovereign-scale crypto liquidity engineering, private credit structuring, and ultra‑capital acquisition pathways for Fund‑III buyouts and cross‑jurisdictional expansions." date: "2025-07-17" author: "Jonas Roials" slug: "sovereign-crypto-liquidity-architecture-Fund-III"
---- 
+---
 
 Sovereign capital behaves differently.
 
@@ -31,9 +31,9 @@ Institutional-grade predictability across adversarial environments.
 
 That is THE MANDAT
 
-E. Inherited capital seeks expansion vectors. **Proverbs 13:22
+E. Inherited capital seeks expansion vectors. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * states: A good man leaveth an inheritance to his children's children.
 
@@ -79,9 +79,9 @@ No drift.
 
 Sovereign mandates require it.
 
-- 
+-
 
-- 
+-
 
 - Sovereign capital measures the world through constraints.
 
@@ -172,7 +172,7 @@ Fund‑III adopts it for velocity.
 All converge on one requirement: Stable liquidity rails immune to political turbulence.
 
 Liquidity architecture requires segmentation.
- Sovereign pools. Operational pools. Tactical pools. Stabilization pools. Treasury pools.
+Sovereign pools. Operational pools. Tactical pools. Stabilization pools. Treasury pools.
 
 Each pool has a distinct trigger model.
 
@@ -361,7 +361,7 @@ Deployed upon mandate.
 Recalled upon signal.
 
 Sovereign‑grade liquidity requires tri‑layer custody.
- Internal vaults. Assigned custodians. External validators. All independent. All controlled.
+Internal vaults. Assigned custodians. External validators. All independent. All controlled.
 
 All redundant.
 
@@ -561,4 +561,3 @@ TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requir
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

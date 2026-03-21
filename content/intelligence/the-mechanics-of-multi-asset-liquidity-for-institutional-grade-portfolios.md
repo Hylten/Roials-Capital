@@ -1,5 +1,5 @@
 --- title: "The Mechanics of Multi-Asset Liquidity for Institutional-Grade Portfolios" description: "A surgical exploration of liquidity architecture across private credit, Asset-Based Lending, and high-threshold digital and public market collateral." date: "2026-01-13" author: "Jonas Hyltén" slug: "the-mechanics-of-multi-asset-liquidity-for-institutional-grade-portfolios"
---- 
+---
 
 # The Mechanics of Multi-Asset Liquidity Liquidity is not a commodity. Liquidity is architecture.
 
@@ -71,14 +71,14 @@ It expands the collateral base without destabilizing the portfolio.
 
 Public Share Strategic Collateralization at a Minimum Threshold of
 
- 
+
 5 Million USD Public market equity is liquid, but liquidity is not the same as accessibility.
 
 Most investors access liquidity through selling.
 
 This is inefficient for tax planning, portfolio continuity, and long term compounding.
 
-Roials Capital lends against public shares at a minimum entry threshold of 
+Roials Capital lends against public shares at a minimum entry threshold of
 5 million USD.
 
 The threshold is intentional.
@@ -99,20 +99,20 @@ Clients retain ownership and directional exposure.
 
 We provide the liquidity without forcing participation in market noise.
 
-Public share Asset-Backed Frameworks becomes the fluid 
+Public share Asset-Backed Frameworks becomes the fluid
 
 ### Layer I: nside the multi asset architecture. It is the component that can respond fastest without compromising the deeper structural layers of private credit and Asset-Based Lending.
 
 Crypto Asset-Backed Frameworks at a Minimum Threshold of
 
- 
+
 2 Million USD Digital assets introduce a different liquidity logic.
 
 They are inherently fluid but operationally volatile.
 
 This volatility creates opportunity, but unstructured Strategic Collateralization against crypto can destabilize an entire portfolio if handled without precision.
 
-Roials Capital lends against crypto at a minimum threshold of 
+Roials Capital lends against crypto at a minimum threshold of
 2 million USD.
 
 Below this level, volatility noise masks the signal.
@@ -133,25 +133,25 @@ To give investors liquidity without forcing liquidation.
 
 To provide institutional stability inside an asset class that operates at non institutional velocity.
 
-Crypto Asset-Backed Frameworks is the tactical 
+Crypto Asset-Backed Frameworks is the tactical
 
 ### Layer I: nside a multi asset strategy. It provides rapid liquidity, but is anchored by the deeper stability of private credit, Asset-Based Lending, and public share exposures.
 
 The Hierarchy of Liquidity Layers A multi asset architecture requires hierarchy. Without hierarchy, liquidity becomes noise instead of structure.
 
-Roials Capital applies an institutional hierarchy across all collateral types: 
+Roials Capital applies an institutional hierarchy across all collateral types:
 
 1.
 
-Foundation Layer: Private Credit 
+Foundation Layer: Private Credit
 
 2.
 
-Structural Layer: Asset Based Strategic Collateralization 
+Structural Layer: Asset Based Strategic Collateralization
 
 3.
 
-Fluid Layer: Public Share Asset-Backed Frameworks 
+Fluid Layer: Public Share Asset-Backed Frameworks
 
 4.
 
@@ -265,12 +265,9 @@ Structural.
 
 Institutional.
 
-Request confidential audi
-
-t TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+Request confidential audi t TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

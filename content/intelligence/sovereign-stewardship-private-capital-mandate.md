@@ -1,5 +1,5 @@
 --- title: "Sovereign Stewardship and the New Mandate for Private Capital" description: "Institutional brief on Fund-III capital formation, jurisdictional positioning, and sovereign-aligned private market architecture for buyouts, add-ons, and energy-transition mandates." date: "2025-08-13" author: "ROIALS CAPITAL" slug: "sovereign-stewardship-private-capital-mandate"
---- 
+---
 
 Sovereign stewardship begins where legacy capital retreats.
 
@@ -39,9 +39,9 @@ Designed for sovereignty-grade accountability.
 
 Every mechanism aligns with one objective: convert structural dislocation into durable ownership.
 
-A good man leaves an inheritance to his children’s children ( **Proverbs 13:22
+A good man leaves an inheritance to his children’s children ( "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * ).
 
@@ -59,25 +59,21 @@ Structure matters more.
 
 Capital is choosing its new home.
 
-- 
+-
 
-- 
+-
 
 - Institutional capital now operates under three pressures: yield scarcity, energy realism, and regulatory divergence.
 
 These pressures do not merely influence portfolio construction; they dictate it.
 
-THE MANDAT
+THE MANDAT E
 
-E
+is no longer to deploy.
 
- is no longer to deploy.
+THE MANDAT E
 
-THE MANDAT
-
-E
-
- is to govern, foresee, and construct protective moats that outlast macro tremors.
+is to govern, foresee, and construct protective moats that outlast macro tremors.
 
 Fund-III was architected for this moment.
 
@@ -123,9 +119,9 @@ Markets move.
 
 We move faster.
 
-- 
+-
 
-- 
+-
 
 - Sovereign LPs are adjusting to a geopolitical reality that demands asset sovereignty.
 
@@ -179,9 +175,9 @@ No excuses.
 
 No wasted quarters.
 
-- 
+-
 
-- 
+-
 
 - Jurisdictional arbitrage is now a requirement, not an advanced skill.
 
@@ -223,9 +219,9 @@ Capital becomes the interpreter of regulatory terrain.
 
 Fund-III provides the translation layer.
 
-- 
+-
 
-- 
+-
 
 - Capital Structuring must now be institutional.
 
@@ -271,9 +267,9 @@ Secure.
 
 Expand.
 
-- 
+-
 
-- 
+-
 
 - The capital-raising mandate-kapitalanskaffning-must anchor the ecosystem.
 
@@ -299,9 +295,9 @@ Conviction flows to structure.
 
 Structure flows to returns.
 
-- 
+-
 
-- 
+-
 
 - Capital competition has intensified.
 
@@ -343,9 +339,9 @@ Acquire.
 
 Fortify.
 
-- 
+-
 
-- 
+-
 
 - Sovereign stewardship demands a new principle: asset hardening.
 
@@ -387,9 +383,9 @@ Private capital must flow to what endures.
 
 Sovereign capital must flow to what secures.
 
-- 
+-
 
-- 
+-
 
 - Fund-III is architected for a world where the most valuable asset is not capital itself, but capital with governance.
 
@@ -411,9 +407,9 @@ Enforce discipline.
 
 The next decade will reward the institutions that understand the new hierarchy: sovereign alignment first, jurisdictional advantage second, capital structuring third.
 
-Fund-III stands at this intersection. **Proverbs 13:22
+Fund-III stands at this intersection. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * remains the sovereign principle: inheritance through stewardship.
 
@@ -431,4 +427,3 @@ TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requir
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

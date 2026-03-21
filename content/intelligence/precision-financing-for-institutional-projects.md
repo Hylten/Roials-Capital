@@ -1,5 +1,5 @@
 --- title: "Precision Financing for Institutional Projects" description: "High-trust liquidity solutions through private credit and asset based liquidity engineering for institutional-scale projects and UHNW mandates." date: "2025-11-03" author: "Jonas Hyltén" slug: "precision-financing-for-institutional-projects"
---- 
+---
 
 # Precision Financing for Institutional Projects Institutional projects require a level of accuracy that is non‑negotiable. They rely on capital structures that hold under scrutiny, withstand friction, and deliver liquidity without disturbing strategic positions.
 
@@ -39,4 +39,3 @@ TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requir
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

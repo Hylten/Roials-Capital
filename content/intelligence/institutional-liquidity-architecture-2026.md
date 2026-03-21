@@ -1,5 +1,5 @@
 --- title: "The New Architecture of Institutional Liquidity: Private Credit’s Ascendancy and the Capital Mandate of Fund-III" description: "An institutional briefing on the structural evolution of private credit in 2026, focused on capital raising dynamics for Fund-III, liquidity engineering, and cross-jurisdictional acquisition finance under MiFID II and NAEOC energy mandates." date: "2025-12-22" author: "ROIALS CAPITAL" slug: "institutional-liquidity-architecture-2026"
---- 
+---
 
 Private credit in 2026 is no longer a substitute for bank lending.
 
@@ -53,9 +53,9 @@ Structure second.
 
 Velocity third.
 
-A good man leaves an inheritance to his children's children. **Proverbs 13:22
+A good man leaves an inheritance to his children's children. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * .
 
@@ -255,13 +255,9 @@ Asset-backed lending is no longer a rescue product.
 
 It is a liquidity strategy.
 
-Asset-Based Lending is 
+Asset-Based Lending is 10 percent of THE MANDAT
 
-10 percent of THE MANDAT
-
-E
-
-, but its impact is outsized.
+E , but its impact is outsized.
 
 Monetize underutilized assets.
 
@@ -341,9 +337,7 @@ Not momentum followers.
 
 Architects.
 
-These pillars define 
-
-2026.
+These pillars define 2026.
 
 They define Fund-III.
 
@@ -725,4 +719,3 @@ Weighted liquidity modulus: 0.87.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

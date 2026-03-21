@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 
 // Browser-safe frontmatter parser (no gray-matter / no Buffer needed)
 function parseFrontmatter(raw: string) {
-  const match = raw.match(/^---\s*([\s\S]*?)\s*---\s*([\s\S]*)$/);
+  const match = raw.match(/^\s*---\s*([\s\S]*?)\s*---\s*([\s\S]*)$/);
   if (!match) return { data: {} as Record<string, string>, content: raw };
 
   const frontmatter = match[1];

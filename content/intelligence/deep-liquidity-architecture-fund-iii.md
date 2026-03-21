@@ -1,5 +1,5 @@
 --- title: "Deep Liquidity Architecture for Fund‑III Mobilization" description: "A principal-grade blueprint for raising institutional capital in illiquid markets, integrating liquidity engineering, private credit overlays, and cross‑jurisdictional acquisition structuring for Fund-III expansion." date: "2026-03-06" author: "ROIALS CAPITAL" slug: "deep-liquidity-architecture-Fund-III"
---- 
+---
 
 Deep liquidity architecture begins where ordinary capital strategy collapses.
 
@@ -95,9 +95,9 @@ Balance sheet weaponization refers to the ability to convert leverage into cost�
 
 Add‑on compression velocity measures the speed at which the platform converts small and mid‑scale acquisitions into operational yield.
 
-Downward dispersion risk refers to the GP’s capacity to prevent valuation bleed across intertwined subsidiaries. **Proverbs 13:22
+Downward dispersion risk refers to the GP’s capacity to prevent valuation bleed across intertwined subsidiaries. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * : “A good man leaves an inheritance to his children’s children: but the wealth of the sinner is laid up for the just.” In institutional architecture this translates to continuity.
 
@@ -423,9 +423,9 @@ They demand the capacity to manufacture liquidity inside illiquid environments.
 
 Deliver this, and capital accelerates.
 
-Fail, and capital retreats. **Proverbs 13:22
+Fail, and capital retreats. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * hangs here with institutional weight.
 
@@ -445,9 +445,7 @@ Asymmetry is high.
 
 This is the optimal environment for a principal-grade platform.
 
-Provide THE MANDAT
-
-E. TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+Provide THE MANDAT E. TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 
@@ -457,4 +455,3 @@ Terminal Metric: Liquidity Override Capacity Index ≥ 0.82.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

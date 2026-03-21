@@ -1,5 +1,5 @@
 --- title: "Principal Briefing on Institutional LP Appetite for Talent‑First Rollups" description: "Confidential Principal-level analysis on human‑capital‑dominant buyout construction, institutional LP posture, and Fund‑III capital formation signals across North America and Europe." date: "2025-10-10" author: "ROIALS CAPITAL" slug: "institutional-lp-talent-first-rollups-briefing"
---- 
+---
 
 The shift is quiet.
 
@@ -83,15 +83,15 @@ Phase Three.
 
 The Human‑Capital Buyout Engine.
 
-Within human‑capital‑heavy buyouts, three categories consistently demonstrate repeatability: 
+Within human‑capital‑heavy buyouts, three categories consistently demonstrate repeatability:
 
 1.
 
-Founder-anchored technical services where the knowledge transfer curve is steep but tractable. 
+Founder-anchored technical services where the knowledge transfer curve is steep but tractable.
 
 2.
 
-Professionalized middle-market services with fragmented regional competitors and weak management succession. 
+Professionalized middle-market services with fragmented regional competitors and weak management succession.
 
 3.
 
@@ -211,15 +211,15 @@ Leadership-first.
 
 Value-driven.
 
-Talent-first rollups deliver this when the GP eliminates three common pathologies: 
+Talent-first rollups deliver this when the GP eliminates three common pathologies:
 
 1.
 
-Founder dependency masquerading as operational strength. 
+Founder dependency masquerading as operational strength.
 
 2.
 
-Overgrowth without internal leadership multiplication. 
+Overgrowth without internal leadership multiplication.
 
 3.
 
@@ -339,4 +339,3 @@ Request confidential capital audit.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

@@ -1,5 +1,5 @@
 --- title: "The Calculus of Risk in Institutional Private Credit for Fund-III" description: "A principal-level framework on risk calculus, capital formation, liquidity engineering, and jurisdictional structuring for institutional LP/GP audiences advancing Fund-III buyouts, add‑ons, and energy mandates." date: "2025-08-27" author: "ROIALS CAPITAL" slug: "calculus-of-risk-institutional-private-credit-Fund-III"
---- 
+---
 
 Institutional private credit is no longer a yield engine.
 
@@ -37,9 +37,9 @@ Only the architecture that governs which funds close, which collapse, and which 
 
 A good man leaves an inheritance to his children’s children (
 
-- **Proverbs 13:22
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * ).
 
@@ -175,7 +175,7 @@ A GP that cannot raise institutional capital at Fund‑III will not scale to Fun
 
 The market is unforgiving.
 
-LPs expect four proofs: 
+LPs expect four proofs:
 
 1.
 
@@ -183,13 +183,13 @@ Multiplicity of capital channels One channel is fragility.
 
 Two channels is competence.
 
-GPs must demonstrate ability to run term credit, Asset-Based Lending, structured liquidity, and opportunistic mandates in parallel without cross-contamination. 
+GPs must demonstrate ability to run term credit, Asset-Based Lending, structured liquidity, and opportunistic mandates in parallel without cross-contamination.
 
 2.
 
 Counterparty diversification LPs look for evidence that no single sponsor, originator, or sector can impair fund performance.
 
-Concentration kills velocity. 
+Concentration kills velocity.
 
 3.
 
@@ -199,7 +199,7 @@ Show stress systems.
 
 Show friction maps.
 
-Show the breaker switches. 
+Show the breaker switches.
 
 4.
 
@@ -277,9 +277,9 @@ Direct.
 
 Sponsor risk counts.
 
-- 
+-
 
-- 
+-
 
 - Asset-Based Lending AND Asset-Backed Frameworks: THE CYCLE-RESILIENT CORE Asset-Based Lending (Asset-Based Lending) and Asset-Backed Frameworks have become non-negotiable in Fund‑III structures.
 
@@ -387,7 +387,7 @@ Those who navigate it raise capital faster.
 
 CAPITAL RAISING FOR FUND‑III: THE PRINCIPAL PLAYBOOK Kapitalanskaffning at Fund‑III must follow institutional logic. LPs allocate by evidence, not enthusiasm.
 
-The GP must execute a sequence: 
+The GP must execute a sequence:
 
 1.
 
@@ -397,7 +397,7 @@ Show structured liquidity tools.
 
 Show data.
 
-LPs want adaptive liquidity, not static term sheets. 
+LPs want adaptive liquidity, not static term sheets.
 
 2.
 
@@ -407,7 +407,7 @@ Show cross-border remedies.
 
 Show enforceability architecture.
 
-LPs fund security, not stories. 
+LPs fund security, not stories.
 
 3.
 
@@ -419,7 +419,7 @@ Enforcement wins.
 
 Workouts executed with precision.
 
-LPs want to see strength, not civility. 
+LPs want to see strength, not civility.
 
 4.
 
@@ -431,11 +431,11 @@ Origination governance.
 
 Execution cadence.
 
-LPs back systems. 
+LPs back systems.
 
 5.
 
-Present repeatable alpha mechanics Funds do not scale on “unique deals.” They scale on repeatable processes that work across cycles. 
+Present repeatable alpha mechanics Funds do not scale on “unique deals.” They scale on repeatable processes that work across cycles.
 
 6.
 
@@ -527,9 +527,9 @@ Inheritance requires structure.
 
 Capital requires structure.
 
-Success requires structure. **Proverbs 13:22
+Success requires structure. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * .
 
@@ -543,4 +543,3 @@ TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requir
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

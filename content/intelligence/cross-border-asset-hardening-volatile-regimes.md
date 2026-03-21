@@ -1,5 +1,5 @@
 --- title: "Cross-Border Asset Hardening in Volatile Regimes" description: "Institutional briefing on cross-border asset hardening mechanics, Fund-III capital mobilisation, cash-flow durability engineering, and sovereign risk insulation." date: "2025-09-20" author: "Jonas Hyltén" slug: "cross-border-asset-hardening-volatile-regimes"
---- 
+---
 
 Regulatory asymmetry always creates the spread.
 
@@ -47,7 +47,7 @@ Today, risk is redistributed by legislative motion.
 
 That makes geographic concentration the new exposure.
 
-Enforcement timelines now vary by more than 
+Enforcement timelines now vary by more than
 
 600 percent across OECD adjacent markets.
 
@@ -81,9 +81,7 @@ We do not chase yield.
 
 We chase enforceability.
 
-That is 
-
- THE REGIME SHIFT. Asset hardening is not branding.
+That is THE REGIME SHIFT. Asset hardening is not branding.
 
 It is mechanics.
 
@@ -101,9 +99,7 @@ LTV curves.
 
 Cross-border LTV dynamics behave differently because recovery velocity becomes a more defining variable than asset class quality.
 
-A 
-
-52 percent LTV in a high recovery jurisdiction may outperform a 
+A 52 percent LTV in a high recovery jurisdiction may outperform a
 
 35 percent LTV in a slow enforcement jurisdiction.
 
@@ -125,7 +121,7 @@ This makes interim valuations largely irrelevant.
 
 Time to trigger and time to transfer are the only variables that matter.
 
-Our Fund-III underwriting model applies a penalty coefficient for any jurisdiction where the trigger timeline exceeds 
+Our Fund-III underwriting model applies a penalty coefficient for any jurisdiction where the trigger timeline exceeds
 
 90 days or where registry transparency includes manual filing.
 
@@ -241,9 +237,9 @@ It is a command.
 
 Wealth requires governance because resources left ungoverned decay.
 
-Biblical stewardship elevates clarity above spectacle. **Proverbs 13:22
+Biblical stewardship elevates clarity above spectacle. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * describes the continuity of ordered capital across generations.
 
@@ -297,4 +293,3 @@ Request a confidential capital audit. [END]
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

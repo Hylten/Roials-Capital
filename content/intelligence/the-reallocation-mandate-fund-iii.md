@@ -1,5 +1,5 @@
 --- title: "The Reallocation Mandate: Institutional Realignment for Fund-III Expansion" description: "A principal-level directive on capital reallocation, cross-jurisdictional structuring, and institutional capital engineering for Fund-III buyouts, liquidity mandates, and NAEOC energy acquisitions." date: "2025-07-31" author: "ROIALS CAPITAL" slug: "the-reallocation-mandate-Fund-III"
---- 
+---
 
 The Reallocation Mandate activates when structural pressures exceed historical comfort bands and when institutional capital requires repositioning toward asymmetric durability.
 
@@ -13,17 +13,15 @@ Movement is mandatory.
 
 Stillness is decay.
 
-The principal view is simple: reallocate or be reallocated. **Proverbs 13:22
+The principal view is simple: reallocate or be reallocated. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * states: A good man leaves an inheritance to his children's children: but the wealth of the sinner is laid up for the just.
 
-THE MANDAT
+THE MANDAT E
 
-E
-
- is sovereign capital discipline.
+is sovereign capital discipline.
 
 Control the inheritance.
 
@@ -51,11 +49,9 @@ GPs require acceleration, external ballast, and execution partners with sovereig
 
 ROIALS CAPITAL builds the spine.
 
-THE MANDAT
+THE MANDAT E
 
-E
-
- is realignment.
+is realignment.
 
 Clean.
 
@@ -325,7 +321,7 @@ Scale is protection.
 
 Scale eliminates fragility.
 
-Every add-on enters through the Reallocation Mandate’s filter: does it increase enterprise throughput by minimum 
+Every add-on enters through the Reallocation Mandate’s filter: does it increase enterprise throughput by minimum
 
 18 percent within twelve months?
 
@@ -437,11 +433,9 @@ Timing is narrow.
 
 Movement must be immediate.
 
-THE MANDAT
+THE MANDAT E
 
-E
-
- is clear.
+is clear.
 
 We push capital toward hardened assets.
 
@@ -585,11 +579,9 @@ Precision wins.
 
 Sovereign structuring wins.
 
-THE MANDAT
+THE MANDAT E
 
-E
-
- stands: Reallocate into Fund-III.
+stands: Reallocate into Fund-III.
 
 Reinforce liquidity corridors.
 
@@ -603,7 +595,7 @@ Sustain dominance.
 
 Confidential capital audit required to initiate allocation bandwidth expansion.
 
-Target throughput ratio: 1.82x within 
+Target throughput ratio: 1.82x within
 
 12 months.
 
@@ -613,4 +605,3 @@ TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requir
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

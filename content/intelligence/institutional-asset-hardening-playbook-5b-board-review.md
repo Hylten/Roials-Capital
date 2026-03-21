@@ -1,5 +1,5 @@
 --- title: "The Institutional Asset Hardening Playbook: Passing a $5B Board Review" description: "A principal-grade framework for asset hardening, capital raising for Fund-III+, and cross-jurisdictional structuring engineered for institutional LP/GP scrutiny." date: "2025-11-29" author: "ROIALS CAPITAL" slug: "institutional-asset-hardening-playbook-5b-board-review"
---- 
+---
 
 A $5B board review does not reward improvisation.
 
@@ -31,9 +31,9 @@ Layered.
 
 Audit-proof.
 
-Board-ready. **Proverbs 13:22
+Board-ready. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * .
 
@@ -62,7 +62,7 @@ The language of credibility is not adjectives.
 It is ratios.
 
 Covenants.
- Jurisdictional alignment. Recourse mapping. Liquidation order. Data hygiene. Auditable logic.
+Jurisdictional alignment. Recourse mapping. Liquidation order. Data hygiene. Auditable logic.
 
 When the board evaluates a $5B package, it evaluates one thing: Are you in control of your own gravity?
 
@@ -232,11 +232,11 @@ Financial hardening creates durability.
 
 Durability compels capital.
 
-Jurisdictional Hardening A $5B board review is 
+Jurisdictional Hardening A $5B board review is
 
-40 percent legal. 
+40 percent legal.
 
-40 percent regulatory. 
+40 percent regulatory.
 
 20 percent structural storytelling.
 
@@ -564,4 +564,3 @@ Request confidential capital audit.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

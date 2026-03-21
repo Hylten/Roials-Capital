@@ -1,5 +1,5 @@
 --- title: "The Mechanics of Tokenized Real Estate Liquidity" description: "A surgical examination of how tokenized real estate interfaces with liquidity architecture, private credit, and asset based liquidity engineering frameworks." date: "2026-03-11" author: "Jonas Hyltén" slug: "the-mechanics-of-tokenized-real-estate-liquidity"
---- 
+---
 
 # The Mechanics of Tokenized Real Estate Liquidity Tokenized real estate is often discussed through the lens of accessibility and fractional ownership, yet these framings miss the institutional core. The true significance of tokenization is structural.
 
@@ -137,7 +137,7 @@ They are underwritten at scale.
 
 They are monitored for structural integrity, not retail volatility.
 
-They qualify for multi 
+They qualify for multi
 
 # Layer LI: quidity facilities with fewer downstream constraints. This is the liquidity environment institutional capital expects.
 
@@ -243,4 +243,3 @@ TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requir
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

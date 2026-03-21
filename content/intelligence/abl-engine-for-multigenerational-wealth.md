@@ -1,5 +1,5 @@
 --- title: "Asset-Based Liquidity Engineering as the Structural Engine for Multi‑Generational Capital Sovereignty" description: "Institutional brief on Asset-Based Lending-driven liquidity architecture, Fund-III capitalization pathways, and cross-jurisdictional acquisition protocols for LP/GP allocators." date: "2025-11-03" author: "ROIALS CAPITAL" slug: "abl-engine-for-multigenerational-wealth"
---- 
+---
 
 Asset-based Institutional Liquidity Paths operates as the structural engine behind every enduring capital dynasty.
 
@@ -15,15 +15,13 @@ A chassis, not an account.
 
 A system, not a hope.
 
-Legacy families understood the principle before modern financial engineering gave it language. **Proverbs 13:22
+Legacy families understood the principle before modern financial engineering gave it language. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * describes THE MANDAT
 
-E
-
-: A good man leaves an inheritance to his children’s children.
+E : A good man leaves an inheritance to his children’s children.
 
 Not an isolated gift.
 
@@ -306,7 +304,7 @@ Institutions track deployment rhythms, collateral coverage, underwriting standar
 GP discipline becomes visible in liquidity timing, asset conversion cycles, and acquisition strike windows.
 
 Fund‑III must show capacity to move first, not fastest; early, not recklessly; decisively, not loudly.
- Principal voice. Zero noise. Zero drift. Tight cycles. Hard signals.
+Principal voice. Zero noise. Zero drift. Tight cycles. Hard signals.
 
 Fast execution.
 
@@ -332,11 +330,9 @@ The architecture mandates durability.
 
 The market demands velocity.
 
-THE MANDAT
+THE MANDAT E
 
-E
-
- is clear.
+is clear.
 
 TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
@@ -346,4 +342,3 @@ Request confidential capital audit.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

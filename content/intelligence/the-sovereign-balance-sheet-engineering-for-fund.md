@@ -1,5 +1,5 @@
 --- title: "The Sovereign Balance Sheet: Engineering For Fund" description: "The Sovereign Balance Sheet: Engineering For Fund" date: "2025-07-07" author: "Jonas Hyltén" slug: "the-sovereign-balance-sheet-engineering-for-fund"
---- 
+---
 
 # The Sovereign Balance Sheet Engineering for Fund-III Dynamics The principal mandate for any institution preparing to enter Fund-III terrain is simple. Engineer a balance sheet that commands respect before negotiation begins.
 
@@ -189,7 +189,7 @@ The Roials Protocol for Sovereign Balance Sheets The Roials framework is built o
 
 Each pillar removes fragility.
 
-Each 
+Each
 
 ### Pillar I: s engineered for execution under pressure. Pillar One Structural Alignment The foundation requires:
 
@@ -319,11 +319,9 @@ Strengthen the community you lead.
 
 Operate without waste.
 
-Honor THE MANDAT
+Honor THE MANDAT E
 
-E
-
- entrusted to you.
+entrusted to you.
 
 This is not philosophy.
 
@@ -337,13 +335,9 @@ It does not subsidize disorganization.
 
 A sovereign balance sheet is the only credible architecture for the next cycle.
 
-Principal
+Principal CONCLUSION
 
- 
-
- CONCLUSION
-
- The sovereign balance sheet is engineered.
+The sovereign balance sheet is engineered.
 
 Not assembled.
 
@@ -373,4 +367,3 @@ t TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requ
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

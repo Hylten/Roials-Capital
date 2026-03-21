@@ -1,5 +1,5 @@
 --- title: "The Strategic Role of Yield in True Asset Hardening" description: "A deep institutional analysis of how yield transforms private credit and Asset-Based Lending structures into durable liquidity engines for HNWI and UHNW capital." date: "2025-08-13" author: "Jonas Hyltén" slug: "the-strategic-role-of-yield-in-true-asset-hardening"
---- 
+---
 
 # The Role of Yield in Asset Hardening Asset hardening is the quiet architecture of capital durability. It is not a marketing label and not a product category.
 
@@ -55,11 +55,9 @@ For high net worth and ultra high net worth individuals, control is the true cur
 
 Yield is the instrument that delivers that control.
 
-CONCLUSIO
+CONCLUSIO N
 
-N
-
- : Yield as the Foundation of Durable Capital Asset hardening is not decorative language.
+: Yield as the Foundation of Durable Capital Asset hardening is not decorative language.
 
 It is a functional necessity for large balance sheets operating within complex markets.
 
@@ -83,4 +81,3 @@ Request confidential audit TECHNICAL MANDATE Qualification Gates strictly observ
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

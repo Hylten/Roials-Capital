@@ -1,5 +1,5 @@
 --- title: "The Reallocation Mandate: Private Credit’s Institutional Pathways in a Post-Rate Regime" description: "A principal-level analysis of private credit’s structural reset, middle-market absorption capacity, and Fund-III capital formation dynamics across buyouts, Asset-Based Lending liquidity engineering, and cross‑border mandate arbitrage." date: "2026-03-15" author: "ROIALS CAPITAL" slug: "private-credit-reallocation-era-Fund-III-kapitalanskaffning"
---- 
+---
 
 Private credit has entered the reallocation era.
 
@@ -47,9 +47,9 @@ Defined.
 
 Exploitable.
 
-A good man leaves an inheritance to his children's children. **Proverbs 13:22
+A good man leaves an inheritance to his children's children. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * .
 
@@ -207,7 +207,7 @@ Regulatory cracks.
 
 This is where institutional capital gains its advantage.
 
-We operate along three special corridors: 
+We operate along three special corridors:
 
 1.
 
@@ -217,7 +217,7 @@ Liquid ground positions.
 
 Hard collateral.
 
-Long-cycle yield. 
+Long-cycle yield.
 
 2.
 
@@ -227,7 +227,7 @@ Passport advantages.
 
 Market access asymmetry.
 
-Speed. 
+Speed.
 
 3.
 
@@ -305,25 +305,17 @@ The GP must demonstrate:
 
 This is the delta that matters.
 
-THE FUTURE PATHWAYS: PRINCIPAL VIEW The private credit landscape will formalize around five pillars: 
+THE FUTURE PATHWAYS: PRINCIPAL VIEW The private credit landscape will formalize around five pillars:
 
 1.
 
-Structural underwriting 
+Structural underwriting 2.
 
-2.
+Covenant precision 3.
 
-Covenant precision 
+Operational proximity 4.
 
-3.
-
-Operational proximity 
-
-4.
-
-Asset-hardening 
-
-5.
+Asset-hardening 5.
 
 Asset-Backed Frameworks The GPs who institutionalize all five will dominate the next ten years.
 
@@ -375,13 +367,11 @@ This is the inheritance principle.
 
 This is THE MANDAT
 
-E
-
- of the reallocation era.
+E of the reallocation era.
 
 CONFIDENTIAL CAPITAL AUDIT REQUIRED.
 
-End metric: Deployment velocity target 
+End metric: Deployment velocity target
 
 94 days.
 
@@ -391,4 +381,3 @@ TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requir
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

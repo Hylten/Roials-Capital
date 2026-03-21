@@ -1,5 +1,5 @@
 --- title: "The Sovereign Future: Architecting Resilient Capital for Fund-III and Beyond" description: "Institutional brief on sovereign-capital construction, multi‑jurisdictional funding lanes, and hard-asset liquidity engineering for Fund-III buyouts, add‑ons, and special mandates in energy and regulated European markets." date: "2025-10-24" author: "ROIALS CAPITAL" slug: "sovereign-future-resilient-capital-architecture"
---- 
+---
 
 Resilience is not a slogan.
 
@@ -19,11 +19,9 @@ Not scale.
 
 Not speed.
 
-THE MANDAT
+THE MANDAT E
 
-E
-
- is durability.
+is durability.
 
 Hard-bounded capital.
 
@@ -43,9 +41,9 @@ Mobile capital behaves tactically: opportunistic, cyclical, herding.
 
 Anchored capital behaves strategically: patient, asymmetric, quietly compounding.
 
-- **Proverbs 13:22
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * : A good man leaves an inheritance to his children’s children.
 
@@ -458,4 +456,3 @@ TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requir
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

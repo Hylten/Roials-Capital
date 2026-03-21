@@ -1,5 +1,5 @@
 --- title: "Borderless Collateral and the Institutional Mobility of Wealth" description: "Institutional brief on cross‑jurisdictional collateral mobility, sovereign‑grade capital structuring, and Fund-III buyout acceleration under ROIALS CAPITAL mandates." date: "2025-11-12" author: "ROIALS CAPITAL" slug: "borderless-collateral-mobility-of-wealth"
---- 
+---
 
 The contemporary M&A regime no longer behaves like a regional marketplace.
 
@@ -23,9 +23,9 @@ Wealth must evade friction.
 
 Wealth must compound without state‑imposed drag coefficients.
 
-- **Proverbs 13:22
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * : a good person leaves an inheritance to their children’s children, yet the wealth of the sinner is stored for the righteous.
 
@@ -145,9 +145,9 @@ Wealth that stagnates decays.
 
 Wealth that circulates compounds.
 
-Intergenerational capital transfer is not a domestic process-it is a cross-border process. **Proverbs 13:22
+Intergenerational capital transfer is not a domestic process-it is a cross-border process. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * .
 
@@ -381,17 +381,15 @@ Those who cannot.
 
 Those who secure capital.
 
-Those who lose it. **Proverbs 13:22
+Those who lose it. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * .
 
-THE MANDAT
+THE MANDAT E
 
-E
-
- is simple.
+is simple.
 
 Audit.
 
@@ -410,4 +408,3 @@ TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requir
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

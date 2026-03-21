@@ -1,5 +1,5 @@
 --- title: "Structural Alignment In Multi Jurisdictional Asset" description: "Structural Alignment In Multi Jurisdictional Asset" date: "2025-07-15" author: "Jonas Hyltén" slug: "structural-alignment-in-multi-jurisdictional-asset"
---- 
+---
 
 # Structural Alignment in Multi Jurisdictional Asset Hardening Institutional capital does not flow toward the loud. It flows toward the aligned.
 
@@ -101,33 +101,21 @@ It is not story crafting.
 
 Asset hardening is the removal of every interpretive layer that stands between an asset and institutional capital.
 
-Cross border assets demand a specific hardening sequence: 
+Cross border assets demand a specific hardening sequence:
 
 1.
 
-Beneficial Ownership Purification 
+Beneficial Ownership Purification 2.
 
-2.
+Lien Visibility Consolidation 3.
 
-Lien Visibility Consolidation 
+Transferability Reinforcement 4.
 
-3.
+Jurisdictional Risk Neutralization 5.
 
-Transferability Reinforcement 
+Covenant Standardization 6.
 
-4.
-
-Jurisdictional Risk Neutralization 
-
-5.
-
-Covenant Standardization 
-
-6.
-
-Reporting Synchronization 
-
-7.
+Reporting Synchronization 7.
 
 Discretionary Control Lockdown This sequence transforms the portfolio from multi jurisdictional complexity into a single jurisdiction logic, even if the assets themselves remain globally distributed.
 
@@ -415,9 +403,7 @@ This is asset hardening.
 
 This is covenant stewardship in practice.
 
-Final Principal Directive
-
-s
+Final Principal Directive s
 
 - Do not negotiate with jurisdictional friction.
 
@@ -451,4 +437,3 @@ t TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requ
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

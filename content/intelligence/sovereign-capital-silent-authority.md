@@ -1,5 +1,5 @@
 --- title: "Sovereign Capital: The Silent Authority in Modern Financing" description: "Institutional analysis of sovereign capital flows, Fund-III buyout dynamics, liquidity engineering, and jurisdictional structuring for advanced GP/LP mandates." date: "2026-03-05" author: "Jonas Roials" slug: "sovereign-capital-silent-authority"
---- 
+---
 
 Sovereign capital moves without noise.
 
@@ -27,9 +27,9 @@ Sovereign allocators pursue one goal: permanence.
 
 Their capital is slow to deploy, slower to exit, and engineered for generational hold. *A good man leaveth an inheritance to his children's children
 
-* ( **Proverbs 13:22
+* ( "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * ).
 
@@ -69,19 +69,17 @@ It acquires foundational assets.
 
 It seeks the hard edges of real economy sectors-industrials, energy infrastructure, asset-heavy operating platforms, and regulated environments where complexity reduces competition.
 
-THE MANDAT
+THE MANDAT E
 
-E
-
- is stability through scale. 
+is stability through scale.
 
 1.
 
-Risk neutralization through jurisdictional diversification 
+Risk neutralization through jurisdictional diversification
 
 2.
 
-Strategic autonomy from Western banking volatility 
+Strategic autonomy from Western banking volatility
 
 3.
 
@@ -483,9 +481,9 @@ This is THE MANDAT
 
 E. This is the new era of financing.
 
-End with a technical metric: Institutional Continuity Ratio: 
+End with a technical metric: Institutional Continuity Ratio:
 
-0. 
+0.
 
 92.
 
@@ -497,4 +495,3 @@ TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requir
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

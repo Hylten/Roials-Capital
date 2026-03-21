@@ -1,5 +1,5 @@
 --- title: "The Sovereign Mindset: Structural Liquidity as a Generational Asset" description: "Institutional brief on capital architecture, liquidity engineering, buyout scaling mechanics, and the structural sovereignty premium for Fund-III allocations." date: "2025-12-02" author: "Jonas Roials" slug: "sovereign-mindset-structural-liquidity"
---- 
+---
 
 The sovereign mindset begins with a simple recognition.
 
@@ -7,9 +7,9 @@ Control is liquidity.
 
 Liquidity is time.
 
-Time is inheritance. **Proverbs 13:22
+Time is inheritance. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * : A good man leaves an inheritance to his children’s children.
 
@@ -287,9 +287,7 @@ Not the company.
 
 Not the portfolio.
 
-Not THE MANDAT
-
-E. Liquidity is the weapon that outlives the market.
+Not THE MANDAT E. Liquidity is the weapon that outlives the market.
 
 Liquidity becomes inheritance.
 
@@ -335,9 +333,9 @@ They are buying time.
 
 Generational wealth is not wealth.
 
-It is the institutionalization of liquidity across generations. **Proverbs 13:22
+It is the institutionalization of liquidity across generations. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * : A good man leaves an inheritance to his children’s children.
 
@@ -354,7 +352,7 @@ Structured liquidity converting into multi-cycle authority.
 Clear corridors.
 
 Clean capital paths.
- Tight compliance. Hard reporting. Aggressive consolidation. Zero drift. Zero noise.
+Tight compliance. Hard reporting. Aggressive consolidation. Zero drift. Zero noise.
 
 Maximum structural compression.
 
@@ -374,9 +372,9 @@ Sovereign.
 
 Confidential capital audit required.
 
-Metric: LTV curvature ratio 
+Metric: LTV curvature ratio
 
-0. 
+0.
 
 72.
 
@@ -386,4 +384,3 @@ TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requir
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

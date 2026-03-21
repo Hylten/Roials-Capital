@@ -1,5 +1,5 @@
 --- title: "Decentralized Private Credit: The Institutional Frontier for Controlled Liquidity" description: "Institutional blueprint for Fund-III capital formation, decentralized credit structures, and systemic liquidity engineering across buyouts, Asset-Based Lending, and energy mandates." date: "2025-11-15" author: "ROIALS CAPITAL" slug: "decentralized-private-credit-institutional-frontier"
---- 
+---
 
 Decentralized private credit has crossed a structural threshold.
 
@@ -47,9 +47,9 @@ Yield sovereignty.
 
 Structural defensibility.
 
-Kapitalanskaffning as architecture, not marketing. **Proverbs 13:22
+Kapitalanskaffning as architecture, not marketing. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * stands as a reminder: A good man leaves an inheritance to his children’s children: but the wealth of the sinner is laid up for the just.
 
@@ -117,9 +117,9 @@ Asset-Based Lending remains essential but incomplete.
 
 Strategic Collateralization completes the stack.
 
-- 
+-
 
-- 
+-
 
 - Fund-III CAPITAL RAISING: THE ARCHITECTURE OF TRUST Kapitalanskaffning for Fund-III is no longer about track records.
 
@@ -189,9 +189,9 @@ Exit faster.
 
 Private equity deal teams benefit directly: faster add-on execution, smoother integration financing, and reduced friction with lenders.
 
-- 
+-
 
-- 
+-
 
 - Asset-Based Lending AND Monetization Architecture: THE 10% THAT MOVES THE 80% Asset-Based Lending is misunderstood.
 
@@ -399,9 +399,9 @@ CLOSE ON PRINCIPAL AUTHORITY Decentralized private credit is not a trend. It is 
 
 The institutions that adopt it dominate.
 
-The institutions that delay become price takers. **Proverbs 13:22
+The institutions that delay become price takers. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * is not a moral verse in this context.
 
@@ -426,4 +426,3 @@ TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requir
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

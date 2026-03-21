@@ -1,5 +1,5 @@
 --- title: "The New Liquidity Standard for UHNW Portfolios: Institutional Private Credit as Strategic Armor" description: "Why liquidity has become the primary strategic constraint for ultra-high-net-worth families and how private credit provides structural armor." date: "2026-03-13" author: "Jonas Hyltén" slug: "the-new-liquidity-standard-for-uhnw-portfolios-institutional-private-credit-as-strategic-armor"
---- 
+---
 
 # The New Liquidity Standard for UHNW Portfolios: Institutional Private Credit as Strategic Armor Ultra high net worth capital is entering a structural transition. Liquidity, once treated as an operational detail, has become a defining strategic variable.
 
@@ -33,11 +33,9 @@ Enhanced Opportunity Readiness When liquidity is engineered, opportunities can b
 
 The New Liquidity Standard: A Structural
 
- 
 
- CONCLUSION
 
- UHNW portfolios are no longer constrained by market cycles.
+CONCLUSION UHNW portfolios are no longer constrained by market cycles.
 
 They are constrained by liquidity engineering.
 
@@ -65,4 +63,3 @@ Request confidential audit TECHNICAL MANDATE Qualification Gates strictly observ
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

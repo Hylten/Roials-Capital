@@ -1,5 +1,5 @@
 --- title: "Asset‑Based Liquidity Engineering as the Structural Engine of Multi‑Generational Wealth" description: "Institutional brief on capital formation strategy, Asset-Based Lending-driven Strategic Collateralization, and the architecture of multi‑generational asset hardening for Fund‑III and GP/LP mandates." date: "2025-09-04" author: "ROIALS CAPITAL" slug: "asset-based-liquidity-engine-multigenerational-wealth"
---- 
+---
 
 The structural premise is simple.
 
@@ -23,9 +23,9 @@ Liquidity, however, is engineered.
 
 The families and institutions that understand this distinction produce dynastic longevity.
 
-Those that do not, dissolve. **Proverbs 13:22
+Those that do not, dissolve. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * states: A good man leaves an inheritance to his children’s children.
 
@@ -316,7 +316,7 @@ Asset-Based Lending creates liquidity.
 Liquidity multiplies control.
 
 Control compounds wealth.
- Over decades. Across generations. Assets harden. Capital flows. Wealth stabilizes.
+Over decades. Across generations. Assets harden. Capital flows. Wealth stabilizes.
 
 This cycle is predictable.
 
@@ -324,9 +324,9 @@ It can be engineered.
 
 And it can be transmitted generationally.
 
-That is the point. **Proverbs 13:22
+That is the point. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * is not philosophy.
 
@@ -462,4 +462,3 @@ TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requir
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

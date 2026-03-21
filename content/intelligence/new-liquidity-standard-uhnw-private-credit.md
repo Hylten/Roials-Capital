@@ -1,5 +1,5 @@
 --- title: "The New Liquidity Standard for UHNW Portfolios: Institutional Private Credit as Strategic Armor" description: "Institutional brief on private credit as liquidity infrastructure, engineered for UHNW, family offices, and GP/LP capital stacks; focused on Fund-III capital raising, asset hardening, and cross‑jurisdictional liquidity architecture." date: "2025-09-30" author: "ROIALS CAPITAL" slug: "new-liquidity-standard-uhnw-private-credit"
---- 
+---
 
 UHNW portfolios fail at one point: liquidity asymmetry.
 
@@ -29,9 +29,9 @@ Structural armor.
 
 Strategic armor.
 
-Cycle‑proof armor. **Proverbs 13:22
+Cycle‑proof armor. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * states: A good man leaves an inheritance to his children's children.
 
@@ -221,7 +221,7 @@ Meanwhile, institutional sponsors treat Monetization Architecture as operational
 
 They build leverage tunnels around assets.
 
-They 
+They
 
 # Layer C: redit lines. They reinforce equity stacks.
 
@@ -372,7 +372,7 @@ They gain strategic armor.
 Private credit is not a product.
 
 It is infrastructure.
- Liquidity infrastructure. Portfolio armor. Acquisition engine. Sovereign tool. Principal tool.
+Liquidity infrastructure. Portfolio armor. Acquisition engine. Sovereign tool. Principal tool.
 
 The standard for all serious operators.
 
@@ -386,4 +386,3 @@ Capital readiness ratio target: 1.47x.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

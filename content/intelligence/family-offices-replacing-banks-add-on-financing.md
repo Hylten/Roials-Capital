@@ -1,5 +1,5 @@
 --- title: "Why Family Offices Are Quietly Replacing Banks in Add‑On Acquisition Financing" description: "Institutional briefing on the shift from regulated credit to private family capital for Fund-III buyouts, add‑on velocity, and cross‑jurisdictional execution." date: "2025-10-06" author: "ROIALS CAPITAL" slug: "family-offices-replacing-banks-add-on-financing"
---- 
+---
 
 Banks hesitate.
 
@@ -23,15 +23,15 @@ Execution must be immediate.
 
 Private families understand this cadence.
 
-Three reasons dominate: 
+Three reasons dominate:
 
 1.
 
-Regulation clipped the banks. 
+Regulation clipped the banks.
 
 2.
 
-Time preference shifted. 
+Time preference shifted.
 
 3.
 
@@ -109,4 +109,3 @@ If you require a confidential capital audit, state the target jurisdiction and t
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

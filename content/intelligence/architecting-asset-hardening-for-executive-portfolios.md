@@ -1,5 +1,5 @@
 --- title: "Architecting Asset Hardening for Executive Portfolios" description: "An institutional exploration of liquidity engineering, private credit, and asset based Monetization Architecture frameworks for HNWI and UHNW portfolios." date: "2026-02-17" author: "Jonas Hyltén" slug: "architecting-asset-hardening-for-executive-portfolios"
---- 
+---
 
 # Asset Hardening for Executive Portfolios Asset hardening is the discipline of transforming volatile or illiquid holdings into durable, strategically protected capital structures. It is not defensive.
 
@@ -63,4 +63,3 @@ Request Confidential Audit If your portfolio requires institutional grade Instit
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

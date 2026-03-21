@@ -1,5 +1,5 @@
 --- title: "Institutional Standards for Private liquidity engineering Agreements: The Roials Capital Framework" description: "A high-authority analysis of institutional protocols for private credit and asset based Asset-Backed Frameworks, focused on liquidity, collateral integrity, and high net worth execution." date: "2025-09-05" author: "Jonas Hyltén" slug: "institutional-standards-for-private-liquidity-engineering-agreements-the-ROIALS CAPITAL-framework"
---- 
+---
 
 # Institutional Standards for Private Capital Structuring Agreements Roials Capital Architecture for High Net Worth Liquidity Protocols Private Asset-Backed Frameworks at the institutional tier is not formed from negotiation. It is shaped through architecture.
 
@@ -169,11 +169,11 @@ The goal is not convenience.
 
 The goal is precision.
 
-The Mechanics of Institutional Grade Agreements Private Asset-Backed Frameworks agreements at this level follow a specific sequence. Each 
+The Mechanics of Institutional Grade Agreements Private Asset-Backed Frameworks agreements at this level follow a specific sequence. Each
 
 ### Phase I: s deliberate. Each phase eliminates a category of risk.
 
-Phase One: Collateral Audit The first 
+Phase One: Collateral Audit The first
 
 ### Step I: s a structural audit of the collateral. We examine:
 
@@ -305,4 +305,3 @@ Request Your Confidential Audit For clients who require liquidity engineered at 
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

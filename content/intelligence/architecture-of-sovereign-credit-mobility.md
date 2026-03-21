@@ -1,5 +1,5 @@
 --- title: "The Architecture of Sovereign Credit Mobility" description: "Institutional blueprint for Fund-III capital formation, cross-jurisdictional credit mobility, and liquidity engineering across sovereign, energy, and acquisition-driven mandates." date: "2025-09-25" author: "ROIALS CAPITAL" slug: "architecture-of-sovereign-credit-mobility"
---- 
+---
 
 The modern capital stack is no longer static.
 
@@ -55,9 +55,9 @@ GPs ascend or decay based on their ability to move liquidity faster than market 
 
 The era of passive capital stewardship is dead.
 
-The era of Sovereign Credit Mobility defines the new hierarchy. **Proverbs 13:22
+The era of Sovereign Credit Mobility defines the new hierarchy. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * .
 
@@ -293,9 +293,9 @@ Family offices now emulate sovereign strategies.
 
 They demand governance clarity, tax-efficient flows, and cross-border enforceability before committing to multi-cycle partnerships.
 
-- **Proverbs 13:22
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * mandates generational transfer.
 
@@ -375,4 +375,3 @@ TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requir
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

@@ -1,5 +1,5 @@
 --- title: "The Institutional Architecture of Protecting Multi‑Generational Wealth Through Crypto Custody" description: "A high trust analysis on institutional crypto custody, liquidity engineering, private credit, and asset based Monetization Architecture for HNWI and UHNW families." date: "2026-01-12" author: "Jonas Hyltén" slug: "the-institutional-architecture-of-protecting-multigenerational-wealth-through-crypto-custody"
---- 
+---
 
 # Protecting Multi Generational Wealth Through Institutional Crypto Custody The conversation surrounding digital assets has changed. What began as a frontier market has become a ledger of institutional scale.
 
@@ -305,7 +305,7 @@ Liquidity protects continuity.
 
 Building the Institutional Crypto Vault for the Next
 
- 
+
 
 100 Years The families that endure understand one principle.
 
@@ -341,4 +341,3 @@ TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requir
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

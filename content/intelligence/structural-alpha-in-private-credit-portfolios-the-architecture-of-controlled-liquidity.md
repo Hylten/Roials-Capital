@@ -1,5 +1,5 @@
 --- title: "Structural Alpha in Private Credit Portfolios: The Architecture of Controlled Liquidity" description: "An institutional examination of structural alpha within private credit and asset based liquidity engineering frameworks, engineered for HNWI and UHNW liquidity optimization." date: "2025-12-10" author: "Jonas Hyltén" slug: "structural-alpha-in-private-credit-portfolios-the-architecture-of-controlled-liquidity"
---- 
+---
 
 # Structural Alpha in Private Credit Portfolios Structural alpha is not a market phenomenon. It is an engineering outcome.
 
@@ -29,10 +29,10 @@ The ROIALS CAPITAL Framework ROIALS CAPITAL operates within private credit and a
 
 - Asset Based Monetization Architecture structures.
 
-- Crypto holdings, with a minimum threshold of 
+- Crypto holdings, with a minimum threshold of
 2 million dollars.
 
-- Public share portfolios, with a minimum threshold of 
+- Public share portfolios, with a minimum threshold of
 5 million dollars.
 
 The client base is exclusively HNWI and UHNW.
@@ -111,7 +111,7 @@ At ROIALS CAPITAL, overcollateralization is not a defensive mechanism.
 
 It is a design principle that transforms risk exposure into predictable yield.
 
-Crypto Asset-Backed Frameworks for Institutional-Level Capital Crypto markets are fast, fragmented, and structurally inefficient. This creates both opportunity and risk, which is why our crypto Capital Structuring framework requires a minimum threshold of 
+Crypto Asset-Backed Frameworks for Institutional-Level Capital Crypto markets are fast, fragmented, and structurally inefficient. This creates both opportunity and risk, which is why our crypto Capital Structuring framework requires a minimum threshold of
 2 million dollars.
 
 At that level, collateral monitoring, risk isolation, and execution quality become institutionally viable.
@@ -122,7 +122,7 @@ We create liquidity without exposing the client to forced unwinds or unnecessary
 
 Public Share Asset-Backed Frameworks for High Conviction Positions Public share Capital Structuring requires both delicacy and authority. Large equity blocks carry liquidity constraints, reputational considerations, and regulatory implications.
 
-We engineer credit lines against these positions with a minimum threshold of 
+We engineer credit lines against these positions with a minimum threshold of
 5 million dollars, ensuring scale and structural integrity.
 
 The alpha is generated through risk segmentation.
@@ -227,4 +227,3 @@ Request confidential audit TECHNICAL MANDATE Qualification Gates strictly observ
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

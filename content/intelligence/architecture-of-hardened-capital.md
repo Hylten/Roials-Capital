@@ -1,5 +1,5 @@
 --- title: "The Architecture of Hardened Capital for Fund‑III Mandates" description: "A principal-level institutional brief on hardened capital engineering, multi‑jurisdictional structuring, and sovereign-grade capitalization pathways for Fund‑III buyouts, add‑ons, and special mandates." date: "2025-08-08" author: "ROIALS CAPITAL" slug: "architecture-of-hardened-capital"
---- 
+---
 
 Hardened capital is not a metaphor.
 
@@ -19,19 +19,17 @@ Markets fail when capital is fragile.
 
 Only hardened capital survives cycles, wars, dislocations, and liquidity droughts.
 
-- **Proverbs 13:22
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * : A good man leaveth an inheritance to his children’s children.
 
 The institutional equivalent is a capital stack that endures two centuries, not two quarters.
 
-THE MANDAT
+THE MANDAT E
 
-E
-
- for Fund‑III sponsors is simple: build the capital spine before scaling the organism.
+for Fund‑III sponsors is simple: build the capital spine before scaling the organism.
 
 Buyouts without hardened capital create brittle velocity.
 
@@ -81,7 +79,7 @@ Unambiguous.
 
 Non-negotiable.
 
-The second 
+The second
 
 ### Pillar I: s jurisdictional insulation. Weak institutions choose structure by convenience.
 
@@ -103,7 +101,7 @@ Hardened capital cannot be trapped, frozen, or contested.
 
 It must flow like a sovereign actor across multiple legal realities.
 
-The third 
+The third
 
 ### Pillar I: s conversion optionality. This is where hardened capital becomes adaptive.
 
@@ -387,9 +385,9 @@ Not in the family sense, but in the institutional sense.
 
 Every fund generation must be stronger than the last.
 
-Every cycle must produce more resilience. **Proverbs 13:22
+Every cycle must produce more resilience. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * : the inheritance extends across generations.
 
@@ -529,4 +527,3 @@ Mandate: 1.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

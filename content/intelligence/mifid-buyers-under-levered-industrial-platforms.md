@@ -1,5 +1,5 @@
 --- title: "Why MiFID II Buyers Are Quietly Pivoting Toward Under‑Levered Industrial Platforms" description: "Institutional briefing on EU buyer behavior, capital concentration dynamics, and the emerging preference for low‑leverage industrial platforms within Fund‑III acquisition cycles." date: "2025-12-09" author: "ROIALS CAPITAL" slug: "mifid-buyers-under-levered-industrial-platforms"
---- 
+---
 
 European MiFID II buyers have shifted posture.
 
@@ -9,7 +9,7 @@ Allocation gravity.
 
 They want platforms that hold shape under scrutiny.
 
-Under‑levered industrial operators stand tallest. 
+Under‑levered industrial operators stand tallest.
 
 1.
 
@@ -19,7 +19,7 @@ MiFID II forces clarity.
 
 Buyers must evidence discipline in balance‑sheet exposure, not performance theater.
 
-A clean industrial platform-minimal debt, real assets, recurring operational throughput-fits the compliance grid without friction. 
+A clean industrial platform-minimal debt, real assets, recurring operational throughput-fits the compliance grid without friction.
 
 2.
 
@@ -31,7 +31,7 @@ They want cash flow rooted in machinery, process control, and production contrac
 
 Not financial engineering.
 
-Not artificial uplift. 
+Not artificial uplift.
 
 3.
 
@@ -87,4 +87,3 @@ We’ll run the confidential capital audit and map which buyer clusters align wi
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

@@ -1,5 +1,5 @@
 --- title: "Institutional Backing as the Determinant Variable in Private Credit Regimes" description: "Institutional brief on the capital-formation physics governing private credit regimes, with emphasis on Fund-III scale buyouts, liquidity engineering, and mandate-driven acquisition finance." date: "2026-02-01" author: "ROIALS CAPITAL" slug: "institutional-backing-determinant-variable-private-credit"
---- 
+---
 
 Institutional backing is not a credential.
 
@@ -19,9 +19,9 @@ This is not theory.
 
 This is structural law.
 
-- **Proverbs 13:22
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * applies: A good man leaves an inheritance to his children’s children.
 
@@ -157,21 +157,17 @@ MiFID II acquisition corridors require compliance literacy, governance depth, an
 
 Both mandates default to one variable: does the sponsor possess enough institutional backing to absorb the regulatory and liquidity shocks inherent in these mandates?
 
-If yes, 
+If yes,
 
-# THE MANDAT
+# THE MANDAT E
 
-E
+flows.
 
- flows.
+If no,
 
-If no, 
+# THE MANDAT E
 
-# THE MANDAT
-
-E
-
- migrates.
+migrates.
 
 Institutional backing also determines counterparty selection.
 
@@ -251,9 +247,9 @@ Gravity cannot be manufactured.
 
 It must be inherited.
 
-- **Proverbs 13:22
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * applies again.
 
@@ -349,4 +345,3 @@ Terminal Metric: Enforcement Delta Ratio 1.73.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

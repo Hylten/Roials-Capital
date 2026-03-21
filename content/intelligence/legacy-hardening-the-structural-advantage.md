@@ -1,5 +1,5 @@
 --- title: "Legacy Hardening: The Structural Advantage" description: "An institutional exploration of liquidity architecture through private credit and asset based liquidity engineering for HNWI and UHNW portfolios." date: "2025-11-27" author: "Jonas Hyltén" slug: "legacy-hardening-the-structural-advantage"
---- 
+---
 
 # Legacy Hardening: The Structural Advantage Legacy is not a passive artifact. It is a structure.
 
@@ -29,7 +29,7 @@ Control requires predictable liquidity.
 
 Control requires mechanisms that do not erode under stress.
 
-We design for scenarios 10, 20, 
+We design for scenarios 10, 20,
 
 40 years ahead.
 
@@ -63,4 +63,3 @@ Request confidential audit TECHNICAL MANDATE Qualification Gates strictly observ
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

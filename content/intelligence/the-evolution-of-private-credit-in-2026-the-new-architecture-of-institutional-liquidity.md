@@ -1,5 +1,5 @@
 --- title: "The Evolution of Private Credit in 2026: The New Architecture of Institutional Liquidity" description: "A surgical examination of private credit and asset based liquidity engineering in 2026, with emphasis on liquidity pathways for HNWI and UHNW portfolios through Asset-Based Lending structures." date: "2025-06-25" author: "Jonas Hyltén" slug: "the-evolution-of-private-credit-in-2026-the-new-architecture-of-institutional-liquidity"
---- 
+---
 
 # The Evolution of Private Credit in 2026 Private credit in 2026 is no longer a peripheral asset class. It has become a central liquidity engine for investors who operate in the upper layers of global wealth.
 
@@ -75,4 +75,3 @@ TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requir
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

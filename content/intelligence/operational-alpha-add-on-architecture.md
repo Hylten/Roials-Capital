@@ -1,5 +1,5 @@
 --- title: "The Principal Doctrine of Operational Alpha in Add‑On Buyout Architecture" description: "A private Principal‑level briefing on why operational alpha now eclipses legacy financial engineering in Fund‑III+ add‑on environments, with direct implications for capital raising, GP signalling, and institutional allocations." date: "2025-12-15" author: "ROIALS CAPITAL" slug: "operational-alpha-add-on-architecture"
---- 
+---
 
 The pivot is not philosophical.
 
@@ -199,15 +199,15 @@ Operational alpha is not optional because operational opacity is no longer toler
 
 * Extended Analysis.
 
-The world is witnessing the collision of three forces: 
+The world is witnessing the collision of three forces:
 
 1.
 
-A new LP class accustomed to precision economies. 
+A new LP class accustomed to precision economies.
 
 2.
 
-A global environment where efficiency determines resilience. 
+A global environment where efficiency determines resilience.
 
 3.
 
@@ -351,4 +351,3 @@ If you seek a confidential capital audit, initiate the request.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

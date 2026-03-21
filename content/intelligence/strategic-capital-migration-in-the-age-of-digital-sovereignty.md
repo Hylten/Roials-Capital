@@ -1,5 +1,5 @@
 --- title: "Strategic Capital Migration in the Age of Digital Sovereignty" description: "An institutional-grade analysis of liquidity engineering through private credit and asset based Capital Structuring for global HNWI and UHNW capital structures." date: "2026-02-20" author: "Jonas Hyltén" slug: "strategic-capital-migration-in-the-age-of-digital-sovereignty"
---- 
+---
 
 # Strategic Capital Migration in the Age of Digital Sovereignty Capital no longer resides in a single jurisdiction. It resides in motion.
 
@@ -213,11 +213,9 @@ It is for those who operate with institutional expectations and global time hori
 
 It is for those who treat liquidity as strategy, not reaction.
 
-CONCLUSIO
+CONCLUSIO N
 
-N
-
- Strategic capital migration is no longer optional.
+Strategic capital migration is no longer optional.
 
 It is the defining mechanism of modern wealth governance.
 
@@ -237,4 +235,3 @@ TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requir
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

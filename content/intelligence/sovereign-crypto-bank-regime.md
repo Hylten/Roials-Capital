@@ -1,5 +1,5 @@
 --- title: "The Sovereign Crypto Bank Regime" description: "Institutional thesis on sovereign-grade digital balance sheets, liquidity engineering, and the Fund-III capital formation horizon for UHNW allocators." date: "2026-02-10" author: "Jonas Hyltén" slug: "sovereign-crypto-bank-regime"
---- 
+---
 
 A structural gap is widening beneath the feet of global allocators.
 
@@ -83,7 +83,7 @@ Sovereign crypto banks collateralize state assets on-chain with enforced access 
 
 When default occurs, the system executes the recovery without delay.
 
-This produces recovery factors that often exceed 
+This produces recovery factors that often exceed
 
 80 percent because the legal vector is replaced by algorithmic enforcement.
 
@@ -97,11 +97,9 @@ They value time over yield.
 
 They value sovereignty above everything.
 
-The 
+The STRATEGIC MODEL
 
- STRATEGIC MODEL
-
- for Fund-III defines the position: become the private-sector equivalent of a sovereign crypto bank without adopting sovereign risk.
+for Fund-III defines the position: become the private-sector equivalent of a sovereign crypto bank without adopting sovereign risk.
 
 The objective is not technology.
 
@@ -157,15 +155,13 @@ A private allocator must treat capital with the same reverence.
 
 Waste is sin.
 
-Disorder is sin. **Proverbs 13:22
+Disorder is sin. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * sets THE MANDAT
 
-E
-
-: wealth is to endure across generations.
+E : wealth is to endure across generations.
 
 That endurance requires structure.
 
@@ -197,7 +193,7 @@ A steward rejects friction.
 
 When Fund-III integrates the sovereign crypto bank architecture with a stewardship doctrine, it becomes a fortress in a financial world defined by instability.
 
-EXIT The institutional mandate is simple. Reduce liquidity latency to sub 
+EXIT The institutional mandate is simple. Reduce liquidity latency to sub
 
 180 seconds across the entire acquisition cycle.
 
@@ -209,4 +205,3 @@ TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requir
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

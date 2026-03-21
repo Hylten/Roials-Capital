@@ -1,5 +1,5 @@
 --- title: "The Principal Architecture of Hybrid Credit in Roll-Up Acceleration" description: "A vault-level briefing on Asset-Based Lending and mezzanine hybrids as liquidity engines for Fund-III buyouts, add-ons, and jurisdictional scaling mandates." date: "2025-12-07" author: "ROIALS CAPITAL" slug: "principal-hybrid-credit-rollup-architecture"
---- 
+---
 
 A roll-up only works when liquidity is faster than fragmentation.
 
@@ -51,7 +51,7 @@ Fuse mandates.
 
 Drive consolidation.
 
-Fund-III roll-ups require three corridors of liquidity. 
+Fund-III roll-ups require three corridors of liquidity.
 
 1.
 
@@ -59,7 +59,7 @@ Acquisition corridor.
 
 The buy pieces.
 
-The immediate strikes. 
+The immediate strikes.
 
 2.
 
@@ -69,7 +69,7 @@ The quiet work.
 
 Vendor clean-up.
 
-Systems alignment. 
+Systems alignment.
 
 3.
 
@@ -89,7 +89,7 @@ European regulatory pacing.
 
 North American execution speed.
 
-The hybrid 
+The hybrid
 
 ### Layer I: s the reconciler. Principal tone now.
 
@@ -125,4 +125,3 @@ Confidential capital audit ready on request.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

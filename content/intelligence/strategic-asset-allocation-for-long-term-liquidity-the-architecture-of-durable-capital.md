@@ -1,5 +1,5 @@
 --- title: "Strategic Asset Allocation for Long-Term Liquidity: The Architecture of Durable Capital" description: "A high-level liquidity framework for HNWI and UHNW investors using private credit and asset-based liquidity engineering to engineer long-term optionality." date: "2026-01-07" author: "Jonas Hyltén" slug: "strategic-asset-allocation-for-long-term-liquidity-the-architecture-of-durable-capital"
---- 
+---
 
 # Strategic Asset Allocation for Long-Term Liquidity The pursuit of long-term liquidity is no longer an optional configuration for sophisticated capital. It has become an operational necessity, a structural discipline, and a defining characteristic that separates passive wealth holders from capital architects who understand the mechanics behind institutional-grade allocation.
 
@@ -23,10 +23,10 @@ Private credit collateralization builds this layer.
 
 It is durable, predictable, and structurally stable.
 
-Why ROIALS CAPITAL’s Framework Aligns With HNWI and UHNW Requirements Our thresholds are deliberate. Crypto Strategic Collateralization begins at 
+Why ROIALS CAPITAL’s Framework Aligns With HNWI and UHNW Requirements Our thresholds are deliberate. Crypto Strategic Collateralization begins at
 2 million dollars.
 
-Public share Strategic Collateralization begins at 
+Public share Strategic Collateralization begins at
 5 million dollars.
 
 Private credit collateralization functions at scale.
@@ -89,4 +89,3 @@ TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requir
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

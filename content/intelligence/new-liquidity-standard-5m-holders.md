@@ -1,5 +1,5 @@
 --- title: "The New Liquidity Standard for + Holders: Institutional Velocity, Cross-Border Capital Rights, and the Fund-III Liquidity Floor" description: "A principal-level brief on liquidity engineering, institutional capital raising, jurisdictional structuring, and the emergent liquidity floor for + holders entering Fund-III buyout cycles and add-on sweep strategies." date: "2025-09-23" author: "Jonas Roials" slug: "new-liquidity-standard-5m-holders"
---- 
+---
 
 The new liquidity regime does not ask permission.
 
@@ -187,9 +187,9 @@ Private credit lines reinforce sovereignty.
 
 Jurisdictional arbitrage maximizes sovereignty.
 
-Sovereignty then becomes performance, not politics. **Proverbs 13:22
+Sovereignty then becomes performance, not politics. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * states: A good man leaves an inheritance to his children’s children: but the wealth of the sinner is laid up for the just.
 
@@ -449,4 +449,3 @@ Metric: minimum liquidity spine requirement: 18.4% of NAV.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

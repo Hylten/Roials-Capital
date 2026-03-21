@@ -1,5 +1,5 @@
 --- title: "The Future of Private Credit and Sovereign Wealth" description: "A high-authority analysis of private credit, asset based liquidity engineering, and Institutional Liquidity Paths for HNWI and UHNW portfolios." date: "2025-12-22" author: "Jonas Hyltén" slug: "the-future-of-private-credit-and-sovereign-wealth"
---- 
+---
 
 # The Future of Private Credit and Sovereign Wealth The landscape of global wealth is shifting. The old centers of gravity, traditional banks and public market frameworks, no longer define the liquidity architecture for the wealthy.
 
@@ -197,11 +197,9 @@ Not speculative.
 
 Built for those who manage real weight.
 
-CONCLUSIO
+CONCLUSIO N
 
-N
-
- Private credit will continue to expand.
+Private credit will continue to expand.
 
 Sovereign wealth will continue to dominate.
 
@@ -215,4 +213,3 @@ TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requir
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

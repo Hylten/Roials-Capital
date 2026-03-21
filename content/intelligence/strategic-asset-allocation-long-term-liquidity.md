@@ -1,5 +1,5 @@
 --- title: "Strategic Asset Allocation for Long‑Term Liquidity: The Architecture of Durable Capital" description: "Institutional brief on capital durability, liquidity engineering, buyout structures, and multi‑jurisdictional asset design optimized for Fund-III capital raising and long‑horizon private markets." date: "2025-09-06" author: "ROIALS CAPITAL" slug: "strategic-asset-allocation-long-term-liquidity"
---- 
+---
 
 Durable capital is not an idea.
 
@@ -95,9 +95,9 @@ Always forward.
 
 Narrow variance.
 
-Forceful execution. **Proverbs 13:22
+Forceful execution. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * : A good man leaves an inheritance to his children's children: but the wealth of the sinner is laid up for the just.
 
@@ -555,4 +555,3 @@ TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requir
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

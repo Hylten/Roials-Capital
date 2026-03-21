@@ -1,5 +1,5 @@
 --- title: "Strategic Capital Migration in the Age of Digital Sovereignty" description: "Institutional brief on jurisdictional arbitrage, digital sovereignty, and capital migration strategies for Fund-III buyouts, liquidity engineering, and special energy mandates." date: "2025-12-28" author: "ROIALS CAPITAL" slug: "strategic-capital-migration-digital-sovereignty"
---- 
+---
 
 Digital sovereignty has replaced geographic borders as the primary determinant of capital velocity.
 
@@ -75,9 +75,9 @@ Institutional capital no longer seeks geographic arbitrage.
 
 It seeks sovereignty arbitrage.
 
-Fund‑III must move where sovereignty compounds, not where incentives dilute. **Proverbs 13:22
+Fund‑III must move where sovereignty compounds, not where incentives dilute. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * states: A good man leaves an inheritance to his children’s children: but the wealth of the sinner is stored up for the righteous.
 
@@ -85,17 +85,13 @@ The verse encodes a principle that institutional allocators quietly obey: capita
 
 Sovereignty is stewardship at jurisdictional scale.
 
-Strategic capital migration in this era requires a three‑tier structural approach: 
+Strategic capital migration in this era requires a three‑tier structural approach:
 
 1.
 
-Jurisdictional hardening 
+Jurisdictional hardening 2.
 
-2.
-
-Digital‑infrastructure alignment 
-
-3.
+Digital‑infrastructure alignment 3.
 
 Capital‑flow optimization Hardening produces resiliency.
 
@@ -185,7 +181,7 @@ Carbon infrastructure.
 
 Industrial data estates.
 
-Each of these verticals benefits from sovereign-grade digital architecture because the data 
+Each of these verticals benefits from sovereign-grade digital architecture because the data
 
 ### Layer I: s now inseparable from the physical asset layer. Energy grids are digital systems.
 
@@ -227,15 +223,15 @@ Freedom produces velocity.
 
 Velocity produces return.
 
-Fund‑III must orient toward three primary corridors of sovereign advantage: 
+Fund‑III must orient toward three primary corridors of sovereign advantage:
 
 1.
 
-Northern European digital-sovereign belt 
+Northern European digital-sovereign belt
 
 2.
 
-North American energy-sovereign belt 
+North American energy-sovereign belt
 
 3.
 
@@ -325,11 +321,9 @@ High precision.
 
 Direct outcomes.
 
-THE MANDAT
+THE MANDAT E
 
-E
-
- is simple: structure liquidity that moves.
+is simple: structure liquidity that moves.
 
 Not liquidity that waits.
 
@@ -465,4 +459,3 @@ Request confidential capital audit.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

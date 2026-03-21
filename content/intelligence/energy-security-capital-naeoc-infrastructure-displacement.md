@@ -1,5 +1,5 @@
 --- title: "Energy Security Capital: The Quiet Displacement of Legacy Infrastructure Funds" description: "Analysis of how NAEOC mandates are outmaneuvering traditional infrastructure vehicles through jurisdictional structuring, covenant shifts, and capital-stack dominance." date: "2025-08-18" author: "ROIALS CAPITAL" slug: "energy-security-capital-naeoc-infrastructure-displacement"
---- 
+---
 
 NAEOC structures cut straight through the old guard.
 
@@ -57,11 +57,9 @@ Fund-III+ becomes the preferred instrument for institutional LPs demanding insul
 
 NAEOC alignment increases the clearance rate of large checks.
 
-THE MANDAT
+THE MANDAT E
 
-E
-
- itself functions as a stabilizer.
+itself functions as a stabilizer.
 
 Special mandates push the edge further. $50M.$250M energy corridors.
 
@@ -89,4 +87,3 @@ Request confidential capital audit.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

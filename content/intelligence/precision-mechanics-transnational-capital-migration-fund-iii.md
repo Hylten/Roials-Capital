@@ -1,5 +1,5 @@
 --- title: "Precision Mechanics of Transnational Capital Migration for Fund‑III Expansion" description: "Institutional analysis on cross‑border capital formation, acquisition structuring, and liquidity engineering for Fund‑III buyouts, add‑ons, and energy mandates under multi‑jurisdictional regulatory vectors." date: "2025-09-29" author: "ROIALS CAPITAL" slug: "precision-mechanics-transnational-capital-migration-Fund-III"
---- 
+---
 
 Transnational capital never travels randomly.
 
@@ -31,9 +31,9 @@ Fragmentation creates arbitrage.
 
 Arbitrage creates edge.
 
-Edge compounds into structural advantage when engineered deliberately. **Proverbs 13:22
+Edge compounds into structural advantage when engineered deliberately. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * states: A good man leaves an inheritance to his children’s children: but the wealth of the sinner is laid up for the just.
 
@@ -301,15 +301,15 @@ Transnational Integration Rules:
 
 - Harmonize financial reporting in week one.
 
-- Deploy Asset-Based Lending within 
+- Deploy Asset-Based Lending within
 
 45 days.
 
-- Execute first add-on within 
+- Execute first add-on within
 
 180 days.
 
-- Begin cross-border optimization within 
+- Begin cross-border optimization within
 
 12 months.
 
@@ -403,4 +403,3 @@ Request confidential capital audit.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

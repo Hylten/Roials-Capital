@@ -1,5 +1,5 @@
 --- title: "Institutional Liquidity Architecture for Real Estate Sovereigns" description: "A high-authority examination of institutional liquidity mechanics for real estate sovereigns, with emphasis on private credit and asset based liquidity engineering frameworks." date: "2025-07-21" author: "Jonas Hyltén" slug: "institutional-liquidity-architecture-for-real-estate-sovereigns"
---- 
+---
 
 # Institutional Liquidity for Real Estate Sovereigns Real estate at sovereign scale requires a liquidity framework that is not transactional. It requires a structural one.
 
@@ -159,4 +159,3 @@ TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requir
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

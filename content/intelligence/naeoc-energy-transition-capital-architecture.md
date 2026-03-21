@@ -1,5 +1,5 @@
 --- title: "Principal Architecture for NAEOC-Directed Energy Capital" description: "Private briefing on the $50M–$250M NAEOC corridor, multi-jurisdictional mandates, and Fund-III capital formation dynamics." date: "2026-02-16" author: "ROIALS CAPITAL" slug: "naeoc-energy-transition-capital-architecture"
---- 
+---
 
 Capital shifts when mandates harden.
 
@@ -11,11 +11,9 @@ The institutional stack must carry them.
 
 That creates our window.
 
-THE MANDAT
+THE MANDAT E
 
-E
-
- is simple: credible energy-transition assets must demonstrate industrial reality, not environmental theater.
+is simple: credible energy-transition assets must demonstrate industrial reality, not environmental theater.
 
 Cashflow integrity.
 
@@ -79,4 +77,3 @@ Request confidential capital audit.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

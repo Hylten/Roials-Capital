@@ -1,5 +1,5 @@
 --- title: "Decentralized Private Credit: The Institutional Frontier for Controlled Liquidity" description: "A high-authority analysis of decentralized private credit and asset based liquidity engineering, built for HNWI and UHNW investors seeking institutional liquidity structures." date: "2025-10-21" author: "Jonas Hyltén" slug: "decentralized-private-credit-the-institutional-frontier-for-controlled-liquidity"
---- 
+---
 
 # Decentralized Private Credit: The Institutional Frontier Decentralized private credit is no longer the periphery domain of experimental capital. It has become a structural pillar for a rapidly maturing institutional landscape.
 
@@ -99,7 +99,7 @@ The Evolution of Counterparty Structure In legacy markets, counterparties are de
 
 The underwriting logic shifts from evaluating the borrower to evaluating the asset.
 
-The borrower is still relevant, but the primary risk 
+The borrower is still relevant, but the primary risk
 
 ### Axis I:
 
@@ -267,11 +267,9 @@ They operate in environments where opportunity windows do not wait for procedura
 
 Decentralized private credit is the system that reflects this reality.
 
-CONCLUSIO
+CONCLUSIO N
 
-N
-
- : Architecture Over Narrative The growth of decentralized private credit is not a trend.
+: Architecture Over Narrative The growth of decentralized private credit is not a trend.
 
 It is a structural evolution.
 
@@ -289,4 +287,3 @@ TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requir
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

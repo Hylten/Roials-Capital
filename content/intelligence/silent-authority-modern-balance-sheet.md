@@ -1,5 +1,5 @@
 --- title: "Silent Authority on the Modern Balance Sheet" description: "Institutional brief on capital formation for Fund-III, buyout-capable liquidity engineering, and mandate-driven acquisition structuring across US/EU regimes." date: "2025-12-19" author: "ROIALS CAPITAL" slug: "silent-authority-modern-balance-sheet"
---- 
+---
 
 principal authority is not a stylistic choice.
 
@@ -11,9 +11,9 @@ Ledgers do not model it.
 
 Yet every decisive movement in buyout markets, structured liquidity windows, and regulated acquisition corridors stems from its presence or its absence.
 
-- **Proverbs 13:22
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * sets the trajectory: a good principal leaves an inheritance, but only the structurally fluent know how to convert that inheritance into scalable dominion.
 
@@ -291,9 +291,9 @@ Data beats narrative. Covenants beat charisma. Invariant five.
 
 Asset hardening.
 
-Hard assets plus disciplined financing equal generational resilience. **Proverbs 13:22
+Hard assets plus disciplined financing equal generational resilience. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * applies.
 
@@ -493,4 +493,3 @@ TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requir
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

@@ -1,11 +1,11 @@
 --- title: "Institutional Alignment in Modern Private Credit Markets" description: "Strategic analysis of liquidity, private credit, and asset based liquidity engineering for HNWI and UHNW capital structures." date: "2026-03-12" author: "Jonas Hyltén" slug: "institutional-alignment-in-modern-private-credit-markets"
---- 
+---
 
 # Institutional Alignment in Private Credit Markets Institutional alignment is the quiet architecture that defines who receives liquidity, how capital behaves, and which structures endure across cycles. For decades, private credit markets operated behind institutional gates.
 
 The frameworks were set by large allocators, pension funds, specialist credit funds, and banks that defined the rules of engagement.
 
-Today, HNWI and UHNW participants 
+Today, HNWI and UHNW participants
 
 ### Step I:
 
@@ -159,7 +159,7 @@ Not those who present complexity without clarity.
 
 Large Collateral, Large Responsibility Private credit and Asset-Based Lending structures require stability. Collateral thresholds reinforce that stability.
 
-For crypto Institutional Liquidity Paths, our minimum threshold is 2,000, 
+For crypto Institutional Liquidity Paths, our minimum threshold is 2,000,
 
 000.
 
@@ -169,7 +169,7 @@ It ensures the conversation stays institutional.
 
 It removes the volatility of retail behavior.
 
-For public share Asset-Backed Frameworks, our minimum threshold is 5,000, 
+For public share Asset-Backed Frameworks, our minimum threshold is 5,000,
 
 000.
 
@@ -337,4 +337,3 @@ TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requir
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

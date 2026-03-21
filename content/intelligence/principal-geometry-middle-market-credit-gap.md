@@ -1,5 +1,5 @@
 --- title: "The Principal Geometry of the Middle Market Credit Gap" description: "A high-density institutional analysis of the structural credit deficit shaping middle‑market buyouts, add‑ons, and energy acquisitions, with emphasis on kapitalanskaffning for Fund‑III architecture, liquidity engineering, and cross‑border mandates." date: "2025-12-27" author: "ROIALS CAPITAL" slug: "principal-geometry-middle-market-credit-gap"
---- 
+---
 
 The middle market is fragmenting.
 
@@ -69,9 +69,9 @@ Capital committee drift.
 
 Execution windows narrow.
 
-Sponsors running repeatable playbooks sense the same constraint: the spread between available credit and deployable credit is the new battleground. **Proverbs 13:22
+Sponsors running repeatable playbooks sense the same constraint: the spread between available credit and deployable credit is the new battleground. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * : The wealth of the sinner is laid up for the just.
 
@@ -241,41 +241,41 @@ Family offices at the perimeter.
 
 Sovereign allocators on the horizon.
 
-Middle-market lenders operate under four distortions: 
+Middle-market lenders operate under four distortions:
 
 1.
 
-Impaired underwriting memory. 
+Impaired underwriting memory.
 
 2.
 
-Regulatory risk aversion. 
+Regulatory risk aversion.
 
 3.
 
-Macro misreads. 
+Macro misreads.
 
 4.
 
 Execution fatigue.
 
-Borrowers fight five opposing constraints: 
+Borrowers fight five opposing constraints:
 
 1.
 
-Debt maturity cliffs. 
+Debt maturity cliffs.
 
 2.
 
-Rising operating costs. 
+Rising operating costs.
 
 3.
 
-Incomplete management teams. 
+Incomplete management teams.
 
 4.
 
-Add‑on urgency. 
+Add‑on urgency.
 
 5.
 
@@ -472,7 +472,7 @@ No dilution.
 No deviation.
 
 Machine gun clarity.
- Hard lines. Tight logic. Institutional posture. No fillers. No hedging.
+Hard lines. Tight logic. Institutional posture. No fillers. No hedging.
 
 The geometry must hold.
 
@@ -482,9 +482,9 @@ Only sponsors with hardened assets, engineered liquidity, cross‑border fluency
 
 Capital follows structure.
 
-Always. **Proverbs 13:22
+Always. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * reinforces it.
 
@@ -492,13 +492,11 @@ Structure inherits.
 
 Chaos evaporates.
 
-If you operate a Fund‑III or preparing to raise one, 
+If you operate a Fund‑III or preparing to raise one,
 
-# THE MANDAT
+# THE MANDAT E
 
-E
-
- is simple: verify your geometry.
+is simple: verify your geometry.
 
 Confirm your capital architecture.
 
@@ -522,4 +520,3 @@ Request confidential capital audit.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

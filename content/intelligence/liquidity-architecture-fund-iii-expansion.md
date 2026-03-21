@@ -1,5 +1,5 @@
 --- title: "Liquidity Architecture for Fund-III Expansion" description: "Institutional brief on capital-raising mechanics, liquidity engineering, and structural optimization for Fund-III scale-up across buyouts, add-ons, and private credit frameworks." date: "2025-09-28" author: "ROIALS CAPITAL" slug: "liquidity-architecture-Fund-III-expansion"
---- 
+---
 
 Liquidity architecture determines survival long before deal velocity does.
 
@@ -11,9 +11,9 @@ Momentum comes from alignment density, not GP enthusiasm.
 
 The expansion mandate requires a unified chassis: one spine, multiple liquidity doors, zero drag.
 
-- **Proverbs 13:22
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * sets the generational frame: a good man leaves an inheritance: capital must outlive cycle, strategy, and operator.
 
@@ -207,7 +207,7 @@ Acquisition criteria for expansion must be narrow, sharp, and testable.
 
 Operators with heavy equipment.
 
-Cash cycles shorter than 
+Cash cycles shorter than
 
 120 days.
 
@@ -387,4 +387,3 @@ End metric: Asset-Based Lending-readiness index 0.92.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

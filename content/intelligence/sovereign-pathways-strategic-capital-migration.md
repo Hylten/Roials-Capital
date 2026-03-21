@@ -1,5 +1,5 @@
 --- title: "Sovereign Pathways for Strategic Capital Migration" description: "Institutional brief on jurisdictional migration, capital hardening, and cross-border structuring for UHNW principals allocating into Fund-III buyouts, Asset-Based Lending liquidity frames, and energy-side special mandates." date: "2025-07-14" author: "ROIALS CAPITAL" slug: "sovereign-pathways-strategic-capital-migration"
---- 
+---
 
 Strategic capital migration is no longer a secondary dimension of UHNW wealth governance.
 
@@ -13,9 +13,9 @@ Capital must migrate.
 
 Structures must shift.
 
-Status must upgrade. **Proverbs 13:22
+Status must upgrade. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * : A good man leaves an inheritance to his children’s children.
 
@@ -71,11 +71,9 @@ The lens is ROIALS CAPITAL.
 
 The tone is principal.
 
-THE MANDAT
+THE MANDAT E
 
-E
-
- is precision.
+is precision.
 
 Capital moves first.
 
@@ -85,9 +83,9 @@ Institutions move last.
 
 The UHNW principal must activate all three.
 
-- 
+-
 
-- 
+-
 
 - Strategic capital migration begins with an upstream assessment: domicile, tax residency, legal capacity, asset classification, and cross-border reporting obligations.
 
@@ -173,9 +171,9 @@ Purpose-driven.
 
 UHNW principals must adopt similar discipline.
 
-- 
+-
 
-- 
+-
 
 - Sovereign capital migration involves the selection of a primary shield jurisdiction.
 
@@ -225,9 +223,9 @@ Leverage creates better buyout terms.
 
 Fund-III demands leverage.
 
-- 
+-
 
-- 
+-
 
 - Operational allocation jurisdictions support deployment pathways.
 
@@ -307,9 +305,9 @@ Their long-term wealth becomes insulated.
 
 Wealth insulation is the endgame.
 
-- 
+-
 
-- 
+-
 
 - Asset-holding jurisdictions finalize the architecture.
 
@@ -359,9 +357,9 @@ Compliance precision demands jurisdictional discipline.
 
 Strategic capital migration provides the discipline.
 
-- 
+-
 
-- 
+-
 
 - The principal must also evaluate regulatory arbitrage across continents.
 
@@ -429,9 +427,9 @@ Capital becomes sovereign.
 
 Sovereign capital creates sovereign opportunity.
 
-- 
+-
 
-- 
+-
 
 - The sociopolitical environment accelerates the urgency.
 
@@ -477,9 +475,9 @@ Most UHNW principals are late.
 
 But not too late.
 
-- 
+-
 
-- 
+-
 
 - Strategic capital migration also affects intergenerational transfer.
 
@@ -513,9 +511,9 @@ They become institutional heirs, not dependent beneficiaries.
 
 Institutional heirs protect legacy.
 
-Legacy is the true mandate. **Proverbs 13:22
+Legacy is the true mandate. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * : A good man leaves an inheritance to his children’s children.
 
@@ -575,4 +573,3 @@ Request confidential capital audit.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

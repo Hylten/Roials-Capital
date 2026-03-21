@@ -1,5 +1,5 @@
 --- title: "The Borderless Collateral Regime and the Ascension of Transnational Acquisition Power" description: "Institutional brief on cross‑jurisdictional collateral mobility, Fund-III capital formation dynamics, and the emergence of sovereign-grade acquisition throughput for buyouts, Asset-Based Lending liquidity engineering, and energy-sector special mandates." date: "2025-09-09" author: "ROIALS CAPITAL" slug: "borderless-collateral-regime-transnational-acquisition-power"
---- 
+---
 
 The borderless collateral regime is no longer a theoretical construct.
 
@@ -29,9 +29,9 @@ Not sector-bound.
 
 But transnational, collateralized, and acquisition-forward.
 
-A good man leaves an inheritance to his children’s children: **Proverbs 13:22
+A good man leaves an inheritance to his children’s children: "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * .
 
@@ -44,7 +44,7 @@ Expandable.
 Border-agnostic.
 
 The acquisition mandate expands because the collateral universe expands.
- Real assets. Subsurface rights. Energy throughput. Industrial platforms. Maritime tonnage.
+Real assets. Subsurface rights. Energy throughput. Industrial platforms. Maritime tonnage.
 
 Cross-border receivables.
 
@@ -149,7 +149,7 @@ Not theory.
 Execution.
 
 Machine gun syntax.
- Facts only. Collateral moves. Capital follows. Acquisitions compound. Jurisdiction bends.
+Facts only. Collateral moves. Capital follows. Acquisitions compound. Jurisdiction bends.
 
 Value scales.
 
@@ -433,11 +433,9 @@ The objective is precision.
 
 And the outcome is transnational acquisition power reinforced by borderless collateral.
 
-THE MANDAT
+THE MANDAT E
 
-E
-
- is clear.
+is clear.
 
 The path is defined.
 
@@ -455,4 +453,3 @@ Technical metric: Collateral Mobility Index (CMI) target > 0.82.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

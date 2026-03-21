@@ -1,5 +1,5 @@
 --- title: "The Institutional Playbook for Capital Preservation in Fund-III Regimes" description: "A principal-level framework for kapitalanskaffning, private credit structuring, liquidity engineering, and institutional-grade capital defense across buyout ecosystems." date: "2026-03-05" author: "ROIALS CAPITAL" slug: "institutional-playbook-capital-preservation-Fund-III"
---- 
+---
 
 Capital moves on certainty.
 
@@ -11,9 +11,9 @@ That is the principal doctrine.
 
 Everything else is noise.
 
-- **Proverbs 13:22
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * states: A good man leaves an inheritance to his children’s children: but the wealth of the sinner is laid up for the just.
 
@@ -441,7 +441,7 @@ They reward variability with silence.
 
 Add-on integration must follow the 90-day doctrine.
 
-If a platform cannot absorb an add-on within 
+If a platform cannot absorb an add-on within
 
 90 days-operationally, culturally, financially-the add-on should not be bought.
 
@@ -549,9 +549,9 @@ That is institutional logic.
 
 That is principal logic.
 
-That is sustainable logic. **Proverbs 13:22
+That is sustainable logic. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * defines the ethos: inheritance cross-generational, wealth reallocated to the just, value moved from disorder to order.
 
@@ -589,4 +589,3 @@ Terminal metric: DSCR hard floor 1.35x.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

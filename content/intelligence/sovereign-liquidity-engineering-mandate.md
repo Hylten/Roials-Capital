@@ -1,5 +1,5 @@
 --- title: "Sovereign Mandate Architecture for Asset‑Based Liquidity Engineering" description: "Institutional-grade deep briefing on Asset-Based Asset-Backed Frameworks as a sovereign mandate for Fund-III capital raising, jurisdictional arbitrage, and asset hardening frameworks." date: "2026-02-21" author: "ROIALS CAPITAL" slug: "sovereign-liquidity-engineering-mandate"
---- 
+---
 
 Fund-III Principals operate inside a structural paradox: capital abundance on the macro, capital fragmentation on the micro.
 
@@ -63,7 +63,7 @@ Every asset sits somewhere in the architecture.
 Every asset produces an output: liquidity, collateral performance, underwriting advantage, or regulatory status elevation.
 
 If an asset produces none-it becomes raw material for arbitrage.
- Real estate. Energy assets. Equipment fleets. Water rights. Terminal facilities.
+Real estate. Energy assets. Equipment fleets. Water rights. Terminal facilities.
 
 Subsurface rights.
 
@@ -75,7 +75,7 @@ Short sentences.
 
 Hard impact.
 
-Precision wins. 
+Precision wins.
 
 ### Layer II:
 
@@ -101,7 +101,7 @@ Asset-Based Strategic Collateralization is born where legal reality is cheaper t
 
 The sovereign mandate demands jurisdictional arbitrage.
 
-No apologies. 
+No apologies.
 
 ### Layer III:
 
@@ -121,11 +121,11 @@ This is the domain where Fund-III dominates.
 
 LPs understand the delta: engineering status produces non-dilutive capital without introducing risk contagion.
 
-A sovereign firm controls its own liquidity. **Proverbs 13:22
+A sovereign firm controls its own liquidity. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
-* . 
+* .
 
 ### Layer IV:
 
@@ -337,4 +337,3 @@ Request confidential capital audit.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

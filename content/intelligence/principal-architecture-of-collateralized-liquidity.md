@@ -1,5 +1,5 @@
 --- title: "The Principal Architecture of Collateralized Liquidity" description: "A private-capital briefing on the structural mechanics of collateralized liquidity, private credit intelligence, and Asset-Based Lending thresholds for institutional execution." date: "2025-07-01" author: "ROIALS CAPITAL" slug: "principal-architecture-of-collateralized-liquidity"
---- 
+---
 
 The sovereign machinery begins with a simple assertion: capital obeys structure, not sentiment.
 
@@ -115,7 +115,7 @@ Every deal exists somewhere on this three-dimensional grid.
 
 Most sponsors try to flatten the grid into linear workflows.
 
-The result is mispriced collateral, inefficient liquidity, and delayed execution. 
+The result is mispriced collateral, inefficient liquidity, and delayed execution.
 
 1.
 
@@ -133,7 +133,7 @@ The principal sponsor maximizes optionality.
 
 Optionality is the real currency of private credit.
 
-Collateral is merely its expression. 
+Collateral is merely its expression.
 
 2.
 
@@ -163,7 +163,7 @@ When sponsors invert this sequence, they introduce structural fragility that com
 
 And every portfolio eventually experiences stress.
 
-That is the nature of cycles. 
+That is the nature of cycles.
 
 3.
 
@@ -351,4 +351,3 @@ Request confidential capital audit.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

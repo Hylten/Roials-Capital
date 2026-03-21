@@ -1,5 +1,5 @@
 --- title: "Fund‑III Governance Architecture for Institutional Allocators" description: "Principal briefing on GP governance scaling, allocator‑grade reporting systems, and cross‑jurisdictional capital interfaces for Fund‑III buyout platforms." date: "2025-11-22" author: "ROIALS CAPITAL" slug: "Fund-III-governance-architecture"
---- 
+---
 
 Governance scales only when the spine is built early.
 
@@ -29,7 +29,7 @@ The GP defines the frame.
 
 The reporting stack conforms to it.
 
-Never invert the order. 
+Never invert the order.
 
 1.
 
@@ -47,7 +47,7 @@ No drift.
 
 Committee charters drafted as if entering a sovereign registry.
 
-Because you are. 
+Because you are.
 
 2.
 
@@ -73,7 +73,7 @@ Fast.
 
 Clean.
 
-Non‑negotiable. 
+Non‑negotiable.
 
 3.
 
@@ -165,4 +165,3 @@ Request confidential capital audit.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

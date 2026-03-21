@@ -1,5 +1,5 @@
 --- title: "Liquidity Architecture for Fund-III Expansion: Structural Mechanics for Institutional-Grade Capital" description: "An institutional analysis of liquidity architecture, private credit, and asset based liquidity engineering designed for HNWI and UHNW capital expansion." date: "2025-08-12" author: "Jonas Hyltén" slug: "liquidity-architecture-for-Fund-III-expansion-structural-mechanics-for-institutional-grade-capital"
---- 
+---
 
 # Liquidity Architecture for Fund-III Expansion Roials Capital operates in a domain where liquidity is not a convenience. Liquidity is the instrument that sets the rhythm for capital velocity, credit formation, and controlled expansion.
 
@@ -33,15 +33,15 @@ Liquidity Architecture Defined Liquidity architecture is the discipline of creat
 
 It is about structure.
 
-The architecture of liquidity at Roials Capital is shaped by three principles. 
+The architecture of liquidity at Roials Capital is shaped by three principles.
 
 1.
 
-Collateral integrity across cycles. 
+Collateral integrity across cycles.
 
 2.
 
-Velocity control through measured liquidity facility to value. 
+Velocity control through measured liquidity facility to value.
 
 3.
 
@@ -95,7 +95,7 @@ What matters is the asset’s precision under valuation stress.
 
 This is the institutional threshold that defines our approach.
 
-Crypto Institutional Liquidity Paths at Institutional Scale Crypto Institutional Liquidity Paths is not a retail activity at Roials Capital. Our minimum threshold is 2,000, 
+Crypto Institutional Liquidity Paths at Institutional Scale Crypto Institutional Liquidity Paths is not a retail activity at Roials Capital. Our minimum threshold is 2,000,
 
 000.
 
@@ -117,9 +117,7 @@ Crypto is simply another collateral class when treated with correct architectura
 
 Public Share Strategic Collateralization and the 5,000
 
-,
-
-000 Threshold Public share Strategic Collateralization in Fund-III begins at 5,000, 
+, 000 Threshold Public share Strategic Collateralization in Fund-III begins at 5,000,
 
 000.
 
@@ -195,15 +193,15 @@ Risk Engineering as a Foundation Liquidity without risk engineering is disorder.
 
 Roials Capital positions itself between these extremes.
 
-Risk engineering in Fund-III operates with three pillars. 
+Risk engineering in Fund-III operates with three pillars.
 
 1.
 
-Structural integrity of collateral classes. 
+Structural integrity of collateral classes.
 
 2.
 
-Behavioral modeling of asset volatility under stress. 
+Behavioral modeling of asset volatility under stress.
 
 3.
 
@@ -229,7 +227,7 @@ It also requires an understanding that most liquidity failures occur when veloci
 
 Our architecture prevents that misalignment before the liquidity facility is ever issued.
 
-Multi 
+Multi
 
 # Layer L: I
 
@@ -277,11 +275,9 @@ The architecture is also the advantage.
 
 It is the reason Fund-III can expand without diluting quality.
 
-CONCLUSIO
+CONCLUSIO N
 
-N
-
- Liquidity is not simply provided at Roials Capital.
+Liquidity is not simply provided at Roials Capital.
 
 It is constructed with institutional discipline.
 
@@ -297,4 +293,3 @@ TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requir
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

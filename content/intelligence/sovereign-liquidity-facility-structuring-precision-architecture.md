@@ -1,5 +1,5 @@
 --- title: "Sovereign Liquidity Facility Structuring: The Precision Architecture Behind Institutional Liquidity" description: "A high-density institutional analysis on sovereign liquidity mechanics, Fund-III capital formation, buyout liquidity architecture, and cross‑jurisdictional facility engineering for private equity and private credit." date: "2026-03-02" author: "ROIALS CAPITAL" slug: "sovereign-liquidity-facility-structuring-precision-architecture"
---- 
+---
 
 Sovereign liquidity facilities are no longer emergency instruments.
 
@@ -47,8 +47,7 @@ No politics.
 
 No drag.
 
-Precision architecture means 
-3 layers: jurisdictional shield, operational spine, covenant discipline.
+Precision architecture means 3 layers: jurisdictional shield, operational spine, covenant discipline.
 
 Remove one and the entire formation collapses under volatility.
 
@@ -58,9 +57,9 @@ Risk is not avoided.
 
 Risk is domesticated.
 
-The facility is the cage. **Proverbs 13:22
+The facility is the cage. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * : capital flows to the prepared inheritor.
 
@@ -186,13 +185,11 @@ For Fund‑III, the facility is the institutional heart.
 
 The only point that cannot fail.
 
-Capital raising (kapitalanskaffning) absorbs 
+Capital raising (kapitalanskaffning) absorbs
 
 80 percent of the institutional bandwidth.
 
-Asset-Based Lending consumes 
-
-10 percent.
+Asset-Based Lending consumes 10 percent.
 
 Mandate-specific structuring consumes the rest.
 
@@ -534,9 +531,9 @@ It attracts sovereign wealth.
 
 It commands respect.
 
-The facility becomes the GP’s inheritance. **Proverbs 13:22
+The facility becomes the GP’s inheritance. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * .
 
@@ -578,4 +575,3 @@ TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requir
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

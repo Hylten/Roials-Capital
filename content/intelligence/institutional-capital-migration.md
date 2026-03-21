@@ -1,5 +1,5 @@
 --- title: "The Migration Path of Institutional Capital" description: "A principal-level analysis of structural capital reallocation, technical cash-flow regimes, and institutional stewardship filters governing Fund-III capital raising, Asset-Based Lending liquidity engineering, and special mandate deployment across UHNWI and private credit ecosystems." date: "2026-01-26" author: "Jonas Hylten" slug: "institutional-capital-migration"
---- 
+---
 
 A structural gap always appears before a liquidity regime shifts.
 
@@ -27,15 +27,11 @@ Capital now demands governance, hard collateral, and institutional discipline.
 
 The allocators who internalize this early will extract multi-cycle advantage.
 
-Those who hesitate will finance the advantage of others. 
+Those who hesitate will finance the advantage of others.
 
 ### Phase I:
 
-THE REGIME SHIF
-
-T
-
- The first indicator of a capital migration cycle is never spread compression.
+THE REGIME SHIFT The first indicator of a capital migration cycle is never spread compression.
 
 It is transaction latency.
 
@@ -81,15 +77,11 @@ They view it as a filtration mechanism for character, competence, and covenant i
 
 The regime has already shifted.
 
-Those who do not architect around this shift will serve those who do. 
+Those who do not architect around this shift will serve those who do.
 
 ### Phase II:
 
-TECHNICAL MECHANIC
-
-S
-
- Capital migration functions like a hydraulic system.
+TECHNICAL MECHANICS Capital migration functions like a hydraulic system.
 
 Pressure equalizes only when the mechanics are properly aligned.
 
@@ -163,27 +155,21 @@ Each is a duration lever.
 
 The mechanics are not negotiable.
 
-They are the architecture. 
+They are the architecture.
 
 ### Phase III:
 
-THE
+THE STRATEGIC MODEL
 
- 
-
- STRATEGIC MODEL
-
- Fund-III is not a vehicle.
+Fund-III is not a vehicle.
 
 It is a governance structure.
 
 It exists to steward capital through an environment that penalizes opacity and rewards engineered simplicity.
 
-The 
+The STRATEGIC MODEL
 
- STRATEGIC MODEL
-
- operates on three fronts.
+operates on three fronts.
 
 First.
 
@@ -237,7 +223,7 @@ We remove ambiguity at the root.
 
 The model is not designed for speed.
 
-It is designed for sovereignty over outcomes. 
+It is designed for sovereignty over outcomes.
 
 ### Phase IV:
 
@@ -247,9 +233,9 @@ Stewardship is the disciplined prevention of waste.
 
 Capital is a form of dominion entrusted by God.
 
-It must be governed with precision, because mismanaged capital invites destruction. **Proverbs 13:22
+It must be governed with precision, because mismanaged capital invites destruction. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * .
 
@@ -293,7 +279,7 @@ It is not.
 
 It is operational theology.
 
-It is the practical expression of order. 
+It is the practical expression of order.
 
 ### Phase V:
 
@@ -311,4 +297,3 @@ Request confidential capital audit.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

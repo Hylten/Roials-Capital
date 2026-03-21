@@ -1,5 +1,5 @@
 --- title: "The Sovereign Convergence: Private Credit Ascendant and the Reconstitution of Wealth" description: "Institutional brief on the structural ascent of private credit, sovereign capital realignment, and Fund-III capital formation strategies across buyouts, liquidity engineering, and special mandates." date: "2025-07-22" author: "ROIALS CAPITAL" slug: "sovereign-convergence-private-credit-Fund-III"
---- 
+---
 
 The architecture of global capital is shifting again.
 
@@ -25,9 +25,7 @@ Signal is clear.
 
 Compression of regulatory latitude under Basel IV accelerates the migration.
 
-Regional lenders withdraw 
-
-12 to 
+Regional lenders withdraw 12 to
 
 23 percent of commercial underwriting capacity across the United States and the EU corridor.
 
@@ -37,9 +35,9 @@ Structures built for resilience, not compliance.
 
 Sovereigns identify the inflection first.
 
-They always do. **Proverbs 13:22
+They always do. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * .
 
@@ -480,11 +478,9 @@ Managers either design architecture or become trapped in it.
 
 Fund-III designs it.
 
-THE MANDAT
+THE MANDAT E
 
-E
-
- is clear.
+is clear.
 
 Build real assets.
 
@@ -510,4 +506,3 @@ TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requir
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

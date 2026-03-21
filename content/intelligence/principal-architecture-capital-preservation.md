@@ -1,5 +1,5 @@
 --- title: "The Principal Architecture of Capital Preservation" description: "Institutional blueprint for capital raising, buyout discipline, liquidity engineering, and multi-cycle preservation mechanics across Fund-III mandates" date: "2025-07-22" author: "Jonas Hyltén" slug: "principal-architecture-capital-preservation"
---- 
+---
 
 A structural gap defines the current investment regime.
 
@@ -41,15 +41,11 @@ Below is the playbook that governs our approach.
 
 It is not advisory.
 
-It is operational doctrine. 
+It is operational doctrine.
 
 ### Phase I:
 
-THE REGIME SHIF
-
-T
-
- The macro landscape has moved from permissive liquidity to structural scarcity.
+THE REGIME SHIFT The macro landscape has moved from permissive liquidity to structural scarcity.
 
 The old model rewarded managers who optimized IRR optics.
 
@@ -67,9 +63,9 @@ That mismatch destroys LP trust.
 
 It destroys asset durability.
 
-Most dangerous, it destroys the sovereign purpose of capital, which is to build and transmit long horizon value. **Proverbs 13:22
+Most dangerous, it destroys the sovereign purpose of capital, which is to build and transmit long horizon value. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * outlines this mandate without ambiguity.
 
@@ -79,15 +75,15 @@ It belongs to the next generation.
 
 Fund-III must be constructed for this new regime.
 
-That means three directional truths. 
+That means three directional truths.
 
 1.
 
-Liquidity is primary strategy, not auxiliary tool. 
+Liquidity is primary strategy, not auxiliary tool.
 
 2.
 
-Add-ons are not acceleration vehicles unless their integration cost is pre-verified at the cash-flow level. 
+Add-ons are not acceleration vehicles unless their integration cost is pre-verified at the cash-flow level.
 
 3.
 
@@ -97,21 +93,17 @@ A private market ruled by scarcity rewards managers who commit to structural sim
 
 Few understand this.
 
-Even fewer execute it. 
+Even fewer execute it.
 
 ### Phase II:
 
-TECHNICAL MECHANIC
-
-S
-
- Capital preservation is built inside the mathematics of control.
+TECHNICAL MECHANICS Capital preservation is built inside the mathematics of control.
 
 Not theory.
 
 Not optimism.
 
-Cash-flow discipline makes or breaks a buyout engine. 
+Cash-flow discipline makes or breaks a buyout engine.
 
 1.
 
@@ -119,15 +111,13 @@ LTV Curves Preservation begins with the curve itself.
 
 We operate with a simple doctrine: the curve must bend downward through amortization velocity, asset hardening, and integration synergies that produce real cash rather than paper multiples.
 
-The midpoint target for Fund-III portfolio LTV is set at 
+The midpoint target for Fund-III portfolio LTV is set at
 
-32 to 
-
-47 percent within 
+32 to 47 percent within
 
 18 months post-acquisition.
 
-Anything above that bandwidth erodes covenant freedom. 
+Anything above that bandwidth erodes covenant freedom.
 
 2.
 
@@ -137,17 +127,15 @@ It is a risk architecture.
 
 The first rule is non-negotiable: cash pays down fragility before it pays out return.
 
-Senior amortization exceeds baseline by 
+Senior amortization exceeds baseline by
 
-11 to 
-
-18 percent in stressed scenarios.
+11 to 18 percent in stressed scenarios.
 
 Working capital buffers are mandated.
 
 Break triggers are automated.
 
-This is stewardship expressed in numbers. 
+This is stewardship expressed in numbers.
 
 3.
 
@@ -161,27 +149,19 @@ The recovery equation is strengthened further through Asset-Based Lending overla
 
 When these mechanics align, capital becomes self-defending.
 
-The structure protects itself even when the macro environment does not. 
+The structure protects itself even when the macro environment does not.
 
 ### Phase III:
 
-THE
+THE STRATEGIC MODEL
 
- 
-
- STRATEGIC MODEL
-
- The partnership architecture is the operating engine.
+The partnership architecture is the operating engine.
 
 Preservation is institutional, not incidental.
 
-THE MANDAT
+THE MANDAT E
 
-E
-
- is 
-
-80 percent capital raising for Fund-III across buyouts and add-ons.
+is 80 percent capital raising for Fund-III across buyouts and add-ons.
 
 The capital stack is conservative by design.
 
@@ -191,9 +171,7 @@ They value patience over velocity.
 
 They value precision over spectacle.
 
-Our 
-
-10 percent Asset-Based Lending mandate is not an opportunistic strategy.
+Our 10 percent Asset-Based Lending mandate is not an opportunistic strategy.
 
 It is a Monetization Architecture function integrated into the buyout machine.
 
@@ -207,13 +185,9 @@ It stabilizes borrowing bases.
 
 It turns operational chaos into definable metrics.
 
-The remaining 
+The remaining 10 percent sits in special mandates: NAEOC energy deployments, MiFID II regulated acquisitions, and targeted private credit structures between
 
-10 percent sits in special mandates: NAEOC energy deployments, MiFID II regulated acquisitions, and targeted private credit structures between 
-
-50 and 
-
-250 million.
+50 and 250 million.
 
 These mandates serve one purpose: preserve optionality.
 
@@ -227,7 +201,7 @@ High conviction does not require noise.
 
 LPs do not invest in communication.
 
-They invest in structure. 
+They invest in structure.
 
 ### Phase IV:
 
@@ -241,12 +215,12 @@ The filter is theological.
 
 It is built on **Genesis 2:15
 
-* 
+*
 
 * and **Proverbs 21:
 5
 
-* 
+*
 
 * .
 
@@ -262,21 +236,21 @@ The biblical model views capital as a resource to be guarded, not exploited for 
 
 This is why we refuse the industry’s addiction to financial engineering that inflates valuation optics while undermining asset durability.
 
-Stewardship imposes structural clarity. 
+Stewardship imposes structural clarity.
 
 1.
 
-No unquantified integration risk. 
+No unquantified integration risk.
 
 2.
 
-No leverage structures that depend on macro benevolence. 
+No leverage structures that depend on macro benevolence.
 
 3.
 
-No operational model that cannot survive a 
+No operational model that cannot survive a
 
-22 percent revenue compression. 
+22 percent revenue compression.
 
 4.
 
@@ -294,7 +268,7 @@ Fund-III will not compromise this standard.
 
 LPs who partner with us do not receive a portfolio.
 
-They receive a covenant of stewardship. 
+They receive a covenant of stewardship.
 
 ### Phase V:
 
@@ -302,9 +276,7 @@ EXIT The final signal of discipline is a metric, not a statement.
 
 For every platform we build inside Fund-III, the mandatory target is simple: Net unlevered MOIC 1.
 
-54 within 
-
-28 months.
+54 within 28 months.
 
 Preservation begins at underwriting.
 
@@ -318,4 +290,3 @@ TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requir
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

@@ -1,5 +1,5 @@
 --- title: "The Rise of Sovereign Crypto Banks for UHNW Liquidity" description: "A strategic examination of how sovereign crypto banks redefine liquidity architecture for UHWI and HNWI through private credit and asset based liquidity engineering." date: "2026-02-26" author: "Jonas Hyltén" slug: "the-rise-of-sovereign-crypto-banks-for-uhnw-liquidity"
---- 
+---
 
 # The Rise of Sovereign Crypto Banks for UHNW Liquidity The global wealth architecture is entering an era defined by sovereignty, optionality, and jurisdictional neutrality. The emergence of sovereign crypto banks is not a trend.
 
@@ -89,7 +89,7 @@ Crypto Capital Structuring at the Institutional Threshold UHNW digital asset pos
 
 The issue is the lack of institutional grade lenders with the ability to structure large positions without introducing custodial or rehypothecation risk.
 
-Roials Capital provides crypto backed Strategic Collateralization with a minimum threshold of 2,000, 
+Roials Capital provides crypto backed Strategic Collateralization with a minimum threshold of 2,000,
 
 000.
 
@@ -117,7 +117,7 @@ These include:
 
 - Forced diversification pressure
 
-- Settlement delay exposure Roials Capital provides public share Asset-Backed Frameworks starting at a minimum of 5,000, 
+- Settlement delay exposure Roials Capital provides public share Asset-Backed Frameworks starting at a minimum of 5,000,
 
 000.
 
@@ -223,4 +223,3 @@ Request confidential audit TECHNICAL MANDATE Qualification Gates strictly observ
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

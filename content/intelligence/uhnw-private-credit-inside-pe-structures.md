@@ -1,5 +1,5 @@
 --- title: "Principal Briefing on UHNW Expansion into Private Credit within PE Structures" description: "Institutional analysis on why ultra‑high‑net‑worth capital is migrating toward private credit embedded in PE architecture, with emphasis on Fund-III dynamics, control premiums, and multi-jurisdictional liquidity posture." date: "2025-12-23" author: "ROIALS CAPITAL" slug: "uhnw-private-credit-inside-pe-structures"
---- 
+---
 
 They move first.
 
@@ -39,7 +39,7 @@ They see the spread.
 
 They see the governance.
 
-They see the premium inherent in stepping into a position normally reserved for institutions. 
+They see the premium inherent in stepping into a position normally reserved for institutions.
 
 1.
 
@@ -51,13 +51,13 @@ Contractual.
 
 Non‑correlated to public markets.
 
-UHNW investors want consistent velocity, not narrative cycles. 
+UHNW investors want consistent velocity, not narrative cycles.
 
 2.
 
 Structural Priority.
 
-They 
+They
 
 ### Step I:
 
@@ -69,7 +69,7 @@ They know the operators.
 
 They see the path to enforcement if required.
 
-They rarely need it. 
+They rarely need it.
 
 3.
 
@@ -121,4 +121,3 @@ Request confidential capital audit.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

@@ -1,11 +1,9 @@
 --- title: "Multi‑Asset Hardening Architecture for Fund‑III" description: "Institutional brief on capital hardening, digital‑asset integration, and liquidity engineering for Fund‑III with focus on capital raising, Asset-Based Lending structuring, and cross‑jurisdictional acquisition velocity." date: "2026-01-29" author: "ROIALS CAPITAL | Principal Architect" slug: "multi-asset-hardening-Fund-III-institutional-liquidity-architecture"
---- 
+---
 
-# THE MANDAT
+# THE MANDAT E
 
-E
-
- is acceleration.
+is acceleration.
 
 Fund‑III must expand its capital perimeter, reinforce multi‑asset defenses, and integrate digital‑asset rails without contaminating institutional purity.
 
@@ -25,9 +23,9 @@ Regulatory posture is uneven.
 
 Liquidity premiums have inverted across private credit, hydrocarbons, mid‑market buyouts, and digital balance‑sheet instruments.
 
-Asset hardening becomes survival architecture, not strategic optionality. **Proverbs 13:22
+Asset hardening becomes survival architecture, not strategic optionality. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * .
 
@@ -61,7 +59,7 @@ Markets don't offer certainty.
 
 Architecture does.
 
-The first 
+The first
 
 ### Pillar I: s structural jurisdictional separation. The fund’s physical assets, digital assets, contractual assets, and synthetic liquidity must sit in segregated regulatory zones.
 
@@ -373,9 +371,9 @@ Hardening is the only defensible position.
 
 Markets punish fragility.
 
-Architecture eliminates fragility. **Proverbs 13:22
+Architecture eliminates fragility. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * .
 
@@ -399,7 +397,7 @@ Raise institutional capital.
 
 Deploy with speed.
 
-The next 
+The next
 
 ### Step I: s confidential: initiate the capital audit. TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
@@ -407,4 +405,3 @@ The next
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

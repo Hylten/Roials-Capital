@@ -1,5 +1,5 @@
 --- title: "Private Credit and Liquidity: The Modern Foundation" description: "An analysis of the structural shift in private credit and its role as a foundational pillar for institutional liquidity." date: "2025-07-29" author: "Jonas Hyltén" slug: "private-credit-and-liquidity-the-modern-foundation"
---- 
+---
 
 # Private Credit and Liquidity ROIALS CAPITAL The Structural Position of Private Credit Private credit has moved from a peripheral financing tool to a foundational pillar of global capital formation. It sits in the space that public markets cannot reach.
 
@@ -265,11 +265,9 @@ Private credit is one of its primary design tools.
 
 Institutions that understand this shift will shape the next cycle rather than react to it.
 
-CONCLUSIO
+CONCLUSIO N
 
-N
-
- Private credit and liquidity are now permanently linked.
+Private credit and liquidity are now permanently linked.
 
 Private credit delivers liquidity that is engineered, not incidental.
 
@@ -287,4 +285,3 @@ Request confidential audit TECHNICAL MANDATE Qualification Gates strictly observ
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

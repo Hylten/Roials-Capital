@@ -1,5 +1,5 @@
 --- title: "Architecture of Capital: Engineered Sovereignty" description: "Institutional brief on sovereign-grade capital architecture, Fund-III mobilization, liquidity engineering, and cross‑jurisdictional acquisition structuring for LP/GP mandates." date: "2025-09-15" author: "ROIALS CAPITAL" slug: "architecture-of-capital-engineered-sovereignty"
---- 
+---
 
 Sovereignty is engineered, not inherited.
 
@@ -39,9 +39,9 @@ Mobility is leverage.
 
 Leverage is jurisdictional geometry.
 
-Geometry is power. **Proverbs 13:22
+Geometry is power. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * : A good man leaves an inheritance to his children’s children: but the wealth of the sinner is laid up for the just.
 
@@ -63,7 +63,7 @@ Modern LP movement vectors are:
 
 - Asset-to-liability translation speed
 
-- Operational grip in first 
+- Operational grip in first
 
 120 days post-close We treat capital as a protocol, not an invitation.
 
@@ -89,7 +89,7 @@ THE ENGINEERED SOVEREIGNTY FRAME Sovereignty at fund level is the ability to exe
 
 - Counterparty diversification
 
-- Enforcement architecture Capital mobility is the ability to move dry powder or converted assets across borders, sectors, and vehicles in under 
+- Enforcement architecture Capital mobility is the ability to move dry powder or converted assets across borders, sectors, and vehicles in under
 
 14 days.
 
@@ -107,17 +107,13 @@ THE BUYOUT / ADD‑ON MACHINE Buyouts are jurisdictional absorption. Add‑ons a
 
 Both require speed.
 
-Institutional velocity depends on three steps: 
+Institutional velocity depends on three steps:
 
 1.
 
-Pre‑clear regulatory lanes 
+Pre‑clear regulatory lanes 2.
 
-2.
-
-Pre‑underwrite operational restructuring 
-
-3.
+Pre‑underwrite operational restructuring 3.
 
 Encode exit math into day-one governance Speed wins only when control is locked.
 
@@ -165,9 +161,9 @@ Supply is controlled.
 
 Flow is deliberate.
 
-- 
+-
 
-- 
+-
 
 - Capital Structuring (Asset-Based Lending / PRIVATE CREDIT) (10%) Liquidity is not cash.
 
@@ -195,7 +191,7 @@ Monetization Architecture eliminates timing risk, the most corrosive risk of all
 
 SPECIAL MANDATES (10%):
 
- 
+
 
 1.
 
@@ -213,7 +209,7 @@ Mandates here require:
 
 - Direct line control over O&M The assets are heavy, critical, and cash‑dense.
 
-Perfect for Fund‑III adjacency. 
+Perfect for Fund‑III adjacency.
 
 2.
 
@@ -471,4 +467,3 @@ TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requir
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

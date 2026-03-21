@@ -1,5 +1,5 @@
 --- title: "Capital Efficiency for the Modern Balance Sheet: Leveraging Core Holdings with Silent Authority" description: "Strategic capital efficiency through private credit and asset based liquidity engineering. Enhance liquidity while preserving core holdings with institutional precision." date: "2026-01-12" author: "Jonas Hyltén" slug: "capital-efficiency-for-the-modern-balance-sheet-leveraging-core-holdings-with-silent-authority"
---- 
+---
 
 # Capital Efficiency: Leveraging Core Holdings Capital efficiency is no longer a preference for high net worth and ultra high net worth individuals. It is structural infrastructure.
 
@@ -83,12 +83,9 @@ It is a framework.
 
 We build the framework.
 
-Soft CT
-
-A TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+Soft CT A TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

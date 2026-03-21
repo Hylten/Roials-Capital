@@ -1,5 +1,5 @@
 --- title: "Wealth Mobility and Borderless Crypto Collateral for Institutional-Grade M&A" description: "Institutional analysis of liquidity engineering using private credit and asset based Institutional Liquidity Paths structures for global M&A. Includes crypto collateralization pathways for HNWI and UHNW liquidity events." date: "2025-08-19" author: "Jonas Hyltén" slug: "wealth-mobility-and-borderless-crypto-collateral-for-institutional-grade-ma"
---- 
+---
 
 # Wealth Mobility: Using Borderless Crypto Collateral for Traditional M&A Wealth behaves differently when it is engineered rather than stored. Institutional families understand this.
 
@@ -43,23 +43,23 @@ It is borderless in collateral and anchored in structure.
 
 The ROIALS CAPITAL Framework for Execution Our approach is concise:
 
- 
+
 
 1.
 
-Validate digital or public share collateral. 
+Validate digital or public share collateral.
 
 2.
 
-Anchor valuation in institutional parameters. 
+Anchor valuation in institutional parameters.
 
 3.
 
-Structure liquidity through private credit or Asset-Based Lending. 
+Structure liquidity through private credit or Asset-Based Lending.
 
 4.
 
-Deliver capital for M&A execution. 
+Deliver capital for M&A execution.
 
 5.
 
@@ -99,4 +99,3 @@ Request confidential audit TECHNICAL MANDATE Qualification Gates strictly observ
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

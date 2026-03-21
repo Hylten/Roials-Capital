@@ -1,5 +1,5 @@
 --- title: "The Architecture of Institutional Trust" description: "An institutional exploration of liquidity, private credit, and asset based liquidity engineering structures for HNWI and UHNW clients seeking disciplined capital architecture." date: "2025-09-29" author: "Jonas Hyltén" slug: "the-architecture-of-institutional-trust"
---- 
+---
 
 # The Architecture of Institutional Trust Institutional trust is not a sentiment. It is a structure.
 
@@ -85,7 +85,7 @@ It requires consistent collateral behavior and hardened Capital Structuring rule
 
 Roials Capital enters this domain with structural clarity.
 
-Our crypto Strategic Collateralization threshold begins at 2,000, 
+Our crypto Strategic Collateralization threshold begins at 2,000,
 
 000.
 
@@ -247,7 +247,7 @@ Each layer reinforces the others.
 
 Each layer reduces friction.
 
-Each 
+Each
 
 ### Layer I: ncreases control. This multi layer system is the hallmark of institutional capital engineering.
 
@@ -321,11 +321,9 @@ Our clients rely on that predictability.
 
 Our systems enforce it.
 
-CONCLUSIO
+CONCLUSIO N
 
-N
-
- : Trust as a Structural Outcome Trust is not declared.
+: Trust as a Structural Outcome Trust is not declared.
 
 It is engineered.
 
@@ -345,4 +343,3 @@ TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requir
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.

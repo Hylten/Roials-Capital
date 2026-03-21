@@ -1,5 +1,5 @@
 --- title: "Institutional-Grade Infrastructure for Asset Hardening in Fund-III Capital Architecture" description: "A principal-grade brief on capital raising, institutional asset hardening, liquidity engineering, and multi-jurisdictional structuring for Fund-III buyouts, add-ons, and energy mandates." date: "2025-12-03" author: "ROIALS CAPITAL" slug: "institutional-asset-hardening-Fund-III"
---- 
+---
 
 Institutional capital follows structure.
 
@@ -27,9 +27,9 @@ Systems over stories.
 
 Infrastructure over instinct.
 
-Precision over velocity. **Proverbs 13:22
+Precision over velocity. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * .
 
@@ -115,25 +115,17 @@ Asset hardening transforms assets from exposed to “institutional grade.” Ins
 
 Hardening is architecture.
 
-I apply five structural levers: 
+I apply five structural levers:
 
 1.
 
-Structural Recoding 
+Structural Recoding 2.
 
-2.
+Jurisdictional Arbitrage 3.
 
-Jurisdictional Arbitrage 
+Institutional Hierarchical Dynamics 4.
 
-3.
-
-Institutional Hierarchical Dynamics 
-
-4.
-
-Liquidity Parallelization 
-
-5.
+Liquidity Parallelization 5.
 
 Governance Compression Each lever reduces fragility.
 
@@ -143,9 +135,9 @@ Cleanly.
 
 Permanently.
 
-- 
+-
 
-- 
+-
 
 - 1.
 
@@ -191,9 +183,9 @@ Enforcement.
 
 If these three cannot be described with precision, capital evaporates.
 
-- 
+-
 
-- 
+-
 
 - 2.
 
@@ -237,9 +229,9 @@ For energy assets (NAEOC 50M.250M), triangulation is mandatory:
 
 Arbitrage engineering creates that premium.
 
-- 
+-
 
-- 
+-
 
 - 3.
 
@@ -283,9 +275,9 @@ The LP is no longer underwriting the manager.
 
 The LP is underwriting the architecture.
 
-- 
+-
 
-- 
+-
 
 - 4.
 
@@ -333,9 +325,9 @@ It compresses exposure cycles.
 
 Liquidity parallelization is how managers create internal rescue capacity without impairing fund returns.
 
-- 
+-
 
-- 
+-
 
 - 5.
 
@@ -397,25 +389,17 @@ LPs grant permission based on:
 
 - Repeatability
 
-- Controlled aggression Fund-III LPs evaluate: 
+- Controlled aggression Fund-III LPs evaluate:
 
 1.
 
-Structural maturity 
+Structural maturity 2.
 
-2.
+Failure insulation 3.
 
-Failure insulation 
+Add-on modularity 4.
 
-3.
-
-Add-on modularity 
-
-4.
-
-Reserve discipline 
-
-5.
+Reserve discipline 5.
 
 Operational cadence stability I construct a capital-raising infrastructure around three instruments:
 
@@ -429,9 +413,9 @@ LPs appreciate predictability above returns.
 
 Because predictability compounds.
 
-- 
+-
 
-- 
+-
 
 - Asset-Based Lending Strategic Collateralization (10%) Asset-Based Lending is a precision tool.
 
@@ -553,9 +537,9 @@ ENERGY INFRASTRUCTURE HARDENING Energy requires explicit hardening
 
 LPs will not tolerate ambiguity here.
 
-- 
+-
 
-- 
+-
 
 - ADD-ON EXPANSION HARDENING Add-ons require accelerated integration.
 
@@ -597,9 +581,9 @@ Structure signals permanence.
 
 Permanence signals security.
 
-Security signals compounding advantage. **Proverbs 13:22
+Security signals compounding advantage. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
 
-* 
+- Proverbs 13:22*
 
 * .
 
@@ -624,4 +608,3 @@ TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requir
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
