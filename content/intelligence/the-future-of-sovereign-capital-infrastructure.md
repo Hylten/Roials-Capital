@@ -124,8 +124,15 @@ The era of universal collateralization.
 The era of frictionless liquidity.
 
 The era of sovereign capital autonomy.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 The future of sovereign capital infrastructure belongs to those who understand that capital is no longer defined by possession, but by architecture.
 
@@ -145,13 +152,6 @@ At Roials Capital, we do not predict the future of capital.
 
 We build it.
 
-TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
-

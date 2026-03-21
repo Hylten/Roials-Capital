@@ -127,13 +127,14 @@ If you understand that credit is not a product, but a form of design.
 
 Roials Capital will provide the architecture.
 
-TECHNICAL MANDATE 
+Minimum target size: $5M+....
+
+Access is restricted to approved mandates.
+
+TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.
-
+Minimum target size: $5M+.

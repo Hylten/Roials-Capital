@@ -437,12 +437,6 @@ The corridor is open.
 
 The terms are fixed.
 
-TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
 Minimum target size: $5M+....
 
 Request confidential capital audit.
@@ -451,3 +445,10 @@ Metric: minimum liquidity spine requirement: 18.4% of NAV.
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

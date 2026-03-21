@@ -155,8 +155,6 @@ They protect the architecture.
 
 Where the Tax Benefit Actually Materializes
 
-
-
 1.
 
 Liquidity Events balance sheet optimization against a crypto portfolio allows the client to access liquidity for real estate, private investments, operating companies, and other opportunities, without triggering tax.
@@ -210,10 +208,17 @@ This evolution supports long-term adoption of crypto-backed Asset-Backed Framewo
 The practice is no longer emergent.
 
 It is now part of the standard toolkit for high net worth and ultra high net worth investors.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
 
-: Structure Replaces Speculation The tax advantage of Institutional Liquidity Paths against crypto portfolios is not a trend.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+Structure Replaces Speculation The tax advantage of Institutional Liquidity Paths against crypto portfolios is not a trend.
 
 It is a structural advantage baked into the logic of capital gains law.
 
@@ -221,13 +226,6 @@ For investors operating above the two million dollar threshold, the model is sup
 
 Roials Capital provides the institutional architecture to execute this strategy with high trust and high precision.
 
-TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
-

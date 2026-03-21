@@ -266,8 +266,15 @@ Sovereign investors who align with institutional Strategic Collateralization arc
 The objective is not aggressiveness.
 
 The objective is principal authority.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 Sovereign capital deployment is a discipline that requires structural mechanics, not marketing language.
 
@@ -277,13 +284,6 @@ Roials Capital provides that architecture through private credit Institutional L
 
 When deployed correctly these tools create a liquidity architecture that operates with silence, stability, and precision.
 
-TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
-

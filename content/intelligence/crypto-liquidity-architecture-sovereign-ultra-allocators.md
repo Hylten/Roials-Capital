@@ -319,15 +319,16 @@ The target metric for Fund-III is simple.
 
 Execution certainty at 98 percent fill rate across all routed trades under volatility stress.
 
-TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
 Minimum target size: $5M+....
 
 Request confidential capital audit.
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

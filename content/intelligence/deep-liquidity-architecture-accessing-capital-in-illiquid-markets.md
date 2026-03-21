@@ -68,10 +68,17 @@ Strategic Use Cases for Deep Liquidity HNWI and UHNW clients typically deploy de
 - Solving timing gaps in complex capital stacks.
 
 Each use case benefits from controlled liquidity, not speculative leverage.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
 
-: Deep Liquidity Is the New Foundation of Wealth Architecture In illiquid markets, most participants operate at the mercy of their environment.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+Deep Liquidity Is the New Foundation of Wealth Architecture In illiquid markets, most participants operate at the mercy of their environment.
 
 Sophisticated capital holders operate above it.
 
@@ -87,13 +94,6 @@ Roials Capital designs the framework that makes this possible.
 
 If your asset architecture requires liquidity without compromise, request confidential audit.
 
-TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
-

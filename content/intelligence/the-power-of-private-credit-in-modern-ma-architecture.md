@@ -169,8 +169,15 @@ Roials Capital is positioned at this intersection.
 Not as an alternative lender.
 
 As a structural architect for modern liquidity.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 The power of private credit in M&A does not come from leverage.
 
@@ -182,13 +189,6 @@ This is where Roials Capital functions.
 
 We provide institutional grade structure with private market velocity.
 
-TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
-

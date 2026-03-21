@@ -185,13 +185,16 @@ This function does not involve solicitation.
 
 It is a technical navigation service for institutional decision makers operating in a transformed market. [END OF BRIEFING]
 
-# TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
+# 
 
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

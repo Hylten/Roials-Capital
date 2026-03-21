@@ -185,3 +185,10 @@ The objective is to calibrate strategic positioning within a rapidly consolidati
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

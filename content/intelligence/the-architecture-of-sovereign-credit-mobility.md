@@ -133,13 +133,12 @@ It is the highest form of liquidity governance available to private actors.
 
 - Request confidential audit.
 
-TECHNICAL MANDATE 
+...
+
+TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.
-
+Minimum target size: $5M+.

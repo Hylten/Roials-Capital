@@ -313,13 +313,14 @@ Roials Capital builds on this principle.
 
 We create Capital Structuring frameworks that respect sovereign signals and elevate the client's strategic position.
 
-TECHNICAL MANDATE 
+Minimum target size: $5M+....
+
+Access is restricted to approved mandates.
+
+TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.
-
+Minimum target size: $5M+.

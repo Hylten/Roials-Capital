@@ -179,13 +179,14 @@ This dialogue is not a solicitation.
 
 It is a structural assessment designed to map institutional objectives to the current capital migration regime.
 
-TECHNICAL MANDATE 
+Minimum target size: $5M+....
+
+Access is restricted to approved mandates.
+
+TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.
-
+Minimum target size: $5M+.

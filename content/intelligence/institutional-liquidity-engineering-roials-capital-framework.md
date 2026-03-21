@@ -241,13 +241,16 @@ When alignment exists, the next
 
 ### Step I: s typically a Confidential Strategy Audit. This review allows LPs, GPs, and operators to evaluate whether a Monetization Architecture Agreement fits their balance sheet architecture and operational cadence. [END OF BRIEFING]
 
-# TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
+# 
 
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

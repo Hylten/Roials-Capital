@@ -483,13 +483,14 @@ MANDATE: INITIATE A CONFIDENTIAL CAPITAL AUDIT FOR FUND‑III TO ASCERTAIN LIQUI
 
 Technical Metric: Target 1.62x Net‑Liquidity Coverage Ratio across all Fund‑III hard‑asset pools.
 
-TECHNICAL MANDATE 
+Minimum target size: $5M+....
+
+Access is restricted to approved mandates.
+
+TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.
-
+Minimum target size: $5M+.

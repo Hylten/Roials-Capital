@@ -249,13 +249,16 @@ Roials Capital provides confidential Strategy Audits and Portfolio Calibration s
 
 The objective is to determine whether their current capital architecture supports or constrains multi generational wealth. [END OF BRIEFING]
 
-# TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
+# 
 
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -299,13 +299,16 @@ We do not predict the future.
 
 We architect for it.
 
-Request Your Confidential Audit For clients who require liquidity engineered at institutional precision, Roials Capital provides a confidential structural audit of collateral and Monetization Architecture capacity. TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
+Request Your Confidential Audit For clients who require liquidity engineered at institutional precision, Roials Capital provides a confidential structural audit of collateral and Monetization Architecture capacity. 
 
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

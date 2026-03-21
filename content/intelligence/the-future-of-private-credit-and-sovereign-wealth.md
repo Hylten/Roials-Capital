@@ -196,8 +196,15 @@ Not public.
 Not speculative.
 
 Built for those who manage real weight.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 Private credit will continue to expand.
 
@@ -207,13 +214,6 @@ Asset based Strategic Collateralization will remain the liquidity mechanism of c
 
 Roials Capital stands as a structural partner for those who require institutional clarity with sovereign‑level discretion.
 
-TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
-

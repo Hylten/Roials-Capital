@@ -311,13 +311,16 @@ This is institutional asset-based Strategic Collateralization.
 
 This is the architecture that governs elite capital.
 
-Request Confidential Audit To align your assets with institutional-grade liquidity, request a confidential audit. TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
+Request Confidential Audit To align your assets with institutional-grade liquidity, request a confidential audit. 
 
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

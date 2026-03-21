@@ -71,7 +71,6 @@ It expands the collateral base without destabilizing the portfolio.
 
 Public Share Strategic Collateralization at a Minimum Threshold of
 
-
 5 Million USD Public market equity is liquid, but liquidity is not the same as accessibility.
 
 Most investors access liquidity through selling.
@@ -104,7 +103,6 @@ Public share Asset-Backed Frameworks becomes the fluid
 ### Layer I: nside the multi asset architecture. It is the component that can respond fastest without compromising the deeper structural layers of private credit and Asset-Based Lending.
 
 Crypto Asset-Backed Frameworks at a Minimum Threshold of
-
 
 2 Million USD Digital assets introduce a different liquidity logic.
 
@@ -265,13 +263,16 @@ Structural.
 
 Institutional.
 
-Request confidential audi t TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
+Request confidential audi t 
 
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

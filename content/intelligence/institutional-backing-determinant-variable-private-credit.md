@@ -331,12 +331,6 @@ Authority determines who sets terms.
 
 Those who set terms win.
 
-TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
 Minimum target size: $5M+....
 
 Request confidential capital audit.
@@ -345,3 +339,10 @@ Terminal Metric: Enforcement Delta Ratio 1.73.
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

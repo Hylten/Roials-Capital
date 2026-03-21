@@ -253,13 +253,14 @@ This architecture positions Fund-III for accelerated close cycles, higher operat
 
 The appropriate next step for allocators evaluating this landscape is a confidential Strategy Audit or Portfolio Calibration, where capital architecture can be mapped against regulatory constraints, liquidity targets, and long horizon objectives.
 
-TECHNICAL MANDATE 
+Minimum target size: $5M+....
+
+Access is restricted to approved mandates.
+
+TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.
-
+Minimum target size: $5M+.

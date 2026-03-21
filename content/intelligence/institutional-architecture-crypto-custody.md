@@ -195,13 +195,16 @@ These sessions synthesize regulatory intelligence, operational mechanics, and ca
 
 The objective is strategic clarity rather than asset solicitation. [END OF INSTITUTIONAL BRIEFING]
 
-# TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
+# 
 
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

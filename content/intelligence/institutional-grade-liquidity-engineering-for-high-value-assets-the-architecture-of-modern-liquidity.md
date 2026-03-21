@@ -52,8 +52,15 @@ The institutions that will succeed in this environment are those that treat Capi
 Roials Capital was built for that future.
 
 We operate today with the structures required for the next decade.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 , Institutional Liquidity Crafted With Surgical Precision High-value assets demand institutional engineering.
 
@@ -69,13 +76,6 @@ With minimum thresholds of 2,000,
 
 If your asset architecture warrants institutional grade liquidity, we provide the framework.
 
-TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
-

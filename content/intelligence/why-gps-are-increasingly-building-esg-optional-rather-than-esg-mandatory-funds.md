@@ -3,8 +3,6 @@
 
 # Why GPs Are Increasingly Launching ESG‑Optional Rather Than ESG‑Mandatory Funds General Partners across US, EU, and GCC markets are shifting away from ESG‑mandatory fund structures for three primary reasons:
 
-
-
 1. **LP Fragmentation
 
 *
@@ -194,3 +192,10 @@ I can draft the audit immediately.
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

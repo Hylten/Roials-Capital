@@ -288,8 +288,15 @@ Families who maintain asset based credit lines have the ability to:
 Liquidity without visibility is the core of principal authority.
 
 Roials Capital is built for that environment.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 Asset based Capital Structuring is not a tactic.
 
@@ -313,13 +320,6 @@ Our thresholds are exact.
 
 Our authority is silent.
 
-TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
-

@@ -324,10 +324,17 @@ The architecture must remain intact under stress.
 Roials Capital does not predict the future.
 
 It prepares for all futures simultaneously.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
 
-: Institutions Do Not Survive by Accident They survive by architecture.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+Institutions Do Not Survive by Accident They survive by architecture.
 
 They survive by systems that produce stability independent of external conditions.
 
@@ -347,13 +354,8 @@ This is how multi generational liquidity is built.
 
 This is how institutional capital becomes sovereign.
 
-Request confidential audit TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
+Request confidential audit 
 
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
-

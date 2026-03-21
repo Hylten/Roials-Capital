@@ -83,13 +83,14 @@ They accelerate during opportunity.
 
 If your objective is durable, long-term liquidity supported by disciplined collateral structures, Roials Capital provides the architecture.
 
-TECHNICAL MANDATE 
+Minimum target size: $5M+....
+
+Access is restricted to approved mandates.
+
+TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.
-
+Minimum target size: $5M+.

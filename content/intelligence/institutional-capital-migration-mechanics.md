@@ -113,10 +113,6 @@ Waterfalls provide it.
 
 ENERGY:
 
-
-
-
-
 # TECHNICAL MECHANICS OF THE ALBERTA BASIN North American energy, specifically the Alberta basin, operates with
 
 TECHNICAL MECHANICS that are not widely understood by generalist allocators.
@@ -235,13 +231,14 @@ Capital migration clarifies where value is forming.
 
 Strategic alignment clarifies where allocators should be positioned before liquidity compressions force late entry.
 
-TECHNICAL MANDATE 
+Minimum target size: $5M+....
+
+Access is restricted to approved mandates.
+
+TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.
-
+Minimum target size: $5M+.

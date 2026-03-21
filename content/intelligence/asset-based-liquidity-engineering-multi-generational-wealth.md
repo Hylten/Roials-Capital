@@ -287,12 +287,6 @@ Structured capital survives.
 
 Unstructured capital disappears.
 
-TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
 Minimum target size: $5M+....
 
 Request confidential capital audit.
@@ -301,3 +295,10 @@ This determines readiness index: 0.83.
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

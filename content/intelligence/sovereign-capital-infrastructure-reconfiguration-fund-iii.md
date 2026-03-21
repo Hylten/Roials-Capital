@@ -375,8 +375,6 @@ We align nodes with sovereign regimes.
 
 THE Fund-III POSITIONING THESIS Eleven points:
 
-
-
 1.
 
 Hard assets.
@@ -638,10 +636,17 @@ Not derivatives.
 Not simulations.
 
 Reality.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
 
-: THE RECONFIGURATION AGE The coming decades will be shaped by:
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+THE RECONFIGURATION AGE The coming decades will be shaped by:
 
 - Capital sovereignty.
 
@@ -667,12 +672,6 @@ Capital is sovereignty.
 
 Fund‑III is architecture built to serve both.
 
-TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
 Minimum target size: $5M+....
 
 Request confidential capital audit to determine your deployment compatibility and sovereign alignment delta.
@@ -682,4 +681,3 @@ Terminal Metric: 0.
 72 Structural Integrity Coefficient.
 
 Access is restricted to approved mandates.
-

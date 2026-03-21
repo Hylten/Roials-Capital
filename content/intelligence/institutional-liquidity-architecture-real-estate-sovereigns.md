@@ -164,13 +164,14 @@ The critical questions revolve around:
 
 - access to programmatic capital insulated from episodic refinancing events Roials Capital provides a confidential strategy audit for sovereign operators and allocators seeking calibrated exposure, ensuring alignment between capital architecture, macro regime conditions, and operational governance.
 
-TECHNICAL MANDATE 
+Minimum target size: $5M+....
+
+Access is restricted to approved mandates.
+
+TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.
-
+Minimum target size: $5M+.

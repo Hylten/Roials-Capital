@@ -241,13 +241,16 @@ Reliance on partners capable of technical interpretation rather than distributio
 
 The objective is not transactional deployment but long term structural alignment. [END OF BRIEFING]
 
-# TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
+# 
 
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

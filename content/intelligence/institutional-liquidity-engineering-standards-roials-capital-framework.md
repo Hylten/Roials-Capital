@@ -213,13 +213,14 @@ Allocators seeking to calibrate their portfolios for the 2026 environment often 
 
 Roials Capital operates as a navigator within this landscape, equipping decision makers with the structural intelligence required to operate in an era defined by capital scarcity, operational complexity, and opportunity velocity.
 
-TECHNICAL MANDATE 
+Minimum target size: $5M+....
+
+Access is restricted to approved mandates.
+
+TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.
-
+Minimum target size: $5M+.

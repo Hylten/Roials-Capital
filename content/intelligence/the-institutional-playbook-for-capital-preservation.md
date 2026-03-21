@@ -52,10 +52,17 @@ It is an active discipline.
 A deliberate strategy.
 
 A commitment to structural superiority.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
 
-: Preservation Is the First Rule of Enduring Wealth There is no wealth without preservation.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+Preservation Is the First Rule of Enduring Wealth There is no wealth without preservation.
 
 There is no compounding without stability.
 
@@ -79,13 +86,8 @@ Precise.
 
 Institutional.
 
-Request confidential audit TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
+Request confidential audit 
 
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
-

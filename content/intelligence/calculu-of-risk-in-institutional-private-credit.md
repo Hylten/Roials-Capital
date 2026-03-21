@@ -123,10 +123,6 @@ Mechanisms include:
 
 :
 
-
-
-
-
 # TECHNICAL MECHANICS IN SPECIAL SITUATIONS (ENERGY) Where relevant to special mandates, the calculus of risk incorporates asset physics.
 
 In the Alberta basin, operational risk is not defined by market volatility but by reservoir behavior and technological maturity.
@@ -241,13 +237,16 @@ Roials Capital provides confidential strategy audits and portfolio calibrations 
 
 The objective is to ensure that institutions deploy capital with clarity, technical precision, and structural advantage. [END OF BRIEFING]
 
-# TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
+# 
 
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

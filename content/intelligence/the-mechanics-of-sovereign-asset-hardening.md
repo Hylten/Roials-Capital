@@ -47,7 +47,6 @@ Capital engineered rather than managed.
 
 The Institutional Framework Behind Hardening At scale, sovereign hardening depends on five pillars.
 
-
 1.
 
 Precision Valuation Collateral must be understood at institutional depth.
@@ -131,13 +130,16 @@ The capital remains in motion.
 
 The architecture remains invisible.
 
-Request Confidential Audit For clients requiring structural liquidity without exposure, disruption, or signaling, Roials Capital provides the institutional mechanics. TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
+Request Confidential Audit For clients requiring structural liquidity without exposure, disruption, or signaling, Roials Capital provides the institutional mechanics. 
 
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

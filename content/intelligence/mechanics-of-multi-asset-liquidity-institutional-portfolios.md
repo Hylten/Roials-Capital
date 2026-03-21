@@ -223,13 +223,16 @@ The current environment rewards those who possess operational intelligence, stru
 
 Roials Capital operates as a strategic partner for allocators who require an integrated understanding of multi asset liquidity and institutional deployment cycles. [END BRIEFING]
 
-# TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
+# 
 
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

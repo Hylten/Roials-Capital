@@ -373,13 +373,14 @@ Deterministic.
 
 MANDATE FORWARD Roials Capital invites qualified LPs, institutional allocators, and strategic partners to engage in a confidential capital audit to determine alignment, structural fit, and Fund‑III allocation pathways. Terminal Metric: LTV Hardening Ratio 1.47x across engineered collateral stacks.
 
-TECHNICAL MANDATE 
+Minimum target size: $5M+....
+
+Access is restricted to approved mandates.
+
+TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.
-
+Minimum target size: $5M+.

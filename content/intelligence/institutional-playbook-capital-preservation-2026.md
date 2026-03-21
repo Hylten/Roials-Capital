@@ -134,8 +134,6 @@ It is unpriced exposure.
 
 CASE ANALYSIS: SIMULATED STUDY OF A 180M CAPITAL PRESERVATION STRATEGY IN ENERGY AND INDUSTRIALS Scenario: A UHNW family office and a private equity sponsor co develop a
 
-
-
 180 million capital structure focused on capital preservation with controlled upside.
 
 The structure must meet three mandates:
@@ -240,7 +238,9 @@ This is institutional preservation in practice.
 
 4.
 
-STEWARDSHIP FILTER: ALIGNING WITH THE VALUES OF STEWARDSHIP, GNOSJÖ, AND TECHNICAL EDGE Stewardship requires alignment with the biblical principle of "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
+STEWARDSHIP FILTER: ALIGNING WITH THE VALUES OF STEWARDSHIP, GNOSJÖ, AND TECHNICAL EDGE Stewardship requires alignment with the biblical principle of "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
+
+— Proverbs 13:22*
 
 * which states that a good man leaves an inheritance for his children's children.
 
@@ -279,10 +279,17 @@ It must be structured, not exposed.
 It must be engineered, not left to market whims.
 
 5.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
 
-: STRUCTURAL CLOSURE Capital preservation for 2026 and beyond is an engineering discipline.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+STRUCTURAL CLOSURE Capital preservation for 2026 and beyond is an engineering discipline.
 
 It is the deliberate organization of cash flow, collateral, regulatory posture, and liquidity pathways to ensure that capital remains productive regardless of market volatility.
 
@@ -308,13 +315,4 @@ This is the playbook.
 
 The principal must choose how to deploy it. [END INTELLIGENCE REPORT]
 
-# TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.
-
+# ...

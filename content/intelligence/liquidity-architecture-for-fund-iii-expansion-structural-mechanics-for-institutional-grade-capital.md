@@ -274,8 +274,15 @@ The architecture is the defense.
 The architecture is also the advantage.
 
 It is the reason Fund-III can expand without diluting quality.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 Liquidity is not simply provided at Roials Capital.
 
@@ -287,13 +294,6 @@ A liquidity architecture built for HNWI and UHNW participants who require stabil
 
 If your capital framework requires institutional liquidity with architectural clarity, request confidential audit.
 
-TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
-

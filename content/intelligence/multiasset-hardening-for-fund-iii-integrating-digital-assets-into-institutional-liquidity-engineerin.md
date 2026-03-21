@@ -220,8 +220,15 @@ HNWI and UHNW clients understand that the next decade will reward those who main
 Multi asset hardening is a discipline that produces that control.
 
 Fund-III is the practical expression of that discipline.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 A More Resilient Architecture for Institutional Scale Multi asset hardening is not a strategy.
 
@@ -241,13 +248,6 @@ The rules are defined.
 
 Clients who require cross asset liquidity without structural distortion operate here.
 
-TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
-

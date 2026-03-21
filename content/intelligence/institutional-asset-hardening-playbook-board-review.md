@@ -173,13 +173,14 @@ Allocators and operators who understand the structural mechanics of asset harden
 
 A confidential Strategy Audit or Portfolio Calibration becomes the natural next step for institutions requiring a precise, architecture driven assessment of their position within the new regime.
 
-TECHNICAL MANDATE 
+Minimum target size: $5M+....
+
+Access is restricted to approved mandates.
+
+TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.
-
+Minimum target size: $5M+.

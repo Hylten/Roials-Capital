@@ -100,8 +100,17 @@ They now create in-house credit capacity.
 That shift alone will rewrite private credit flows for the next decade.
 
 This regime shift creates one dominant
+TECHNICAL MANDATE
 
-CONCLUSION. Sovereign capital will no longer wait for fund managers to be ready.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+. Sovereign capital will no longer wait for fund managers to be ready.
 
 The GP must already be architected for scale.
 
@@ -408,15 +417,8 @@ EXIT Target yield displacement threshold:
 
 340 to 460 basis points above sovereign benchmark curves.
 
-TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
 Minimum target size: $5M+....
 
 Request confidential capital audit.
 
 Access is restricted to approved mandates.
-

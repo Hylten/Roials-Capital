@@ -140,10 +140,17 @@ Asset-backed capital fills the operational gap between fund resources and acquis
 Northern Europe becomes the safe harbor.
 
 These forces converge into the same
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
 
-: private lenders with institutional discipline dominate the next cycle.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+private lenders with institutional discipline dominate the next cycle.
 
 -
 
@@ -380,4 +387,3 @@ Roials Capital sits at the center of that lending universe.
 *
 
 * Access is restricted to approved mandates.
-

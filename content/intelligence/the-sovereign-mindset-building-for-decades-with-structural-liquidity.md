@@ -129,13 +129,16 @@ It matures into a lifelong practice of engineering liquidity, protecting core as
 
 When executed correctly, this mindset creates wealth that becomes more stable, more controllable, and more sovereign with each decade that passes.
 
-Request confidential audi t TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
+Request confidential audi t 
 
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

@@ -351,13 +351,16 @@ If the platform is ordered, the capital is protected.
 
 If the capital is protected, long-term partnership emerges.
 
-CTA Request confidential audit. TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
+CTA Request confidential audit. 
 
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

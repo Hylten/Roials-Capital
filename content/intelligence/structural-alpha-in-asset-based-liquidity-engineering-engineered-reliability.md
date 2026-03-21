@@ -226,8 +226,15 @@ Our frameworks prioritize:
 - Risk compression mechanics These priorities drive resilience.
 
 Resilience is the source of confidence for institutional partners and borrowers alike.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 Structural Alpha in Asset-Based Lending is not an abstraction.
 
@@ -239,13 +246,8 @@ It is the reward for structural discipline.
 
 It is earned, not assumed.
 
-Request confidential audit TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
+Request confidential audit 
 
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
-

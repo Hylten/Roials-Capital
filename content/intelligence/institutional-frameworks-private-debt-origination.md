@@ -187,13 +187,14 @@ A confidential strategy audit can identify alignment between the allocator’s m
 
 The objective is calibration: ensuring the portfolio reflects institutional grade stability and long horizon stewardship.
 
-TECHNICAL MANDATE 
+Minimum target size: $5M+....
+
+Access is restricted to approved mandates.
+
+TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.
-
+Minimum target size: $5M+.

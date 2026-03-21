@@ -201,3 +201,10 @@ This approach ensures ABL is deployed as a strategic stabilizer rather than a tr
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

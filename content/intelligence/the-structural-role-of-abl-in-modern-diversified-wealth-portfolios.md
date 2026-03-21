@@ -166,8 +166,15 @@ Public equity holdings will remain strategic.
 Asset-Based Lending will serve as the connective tissue, linking long term exposure with short term liquidity needs.
 
 Roials Capital stands precisely within this structural nexus.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 Asset based Institutional Liquidity Paths is not an alternative financing tool.
 
@@ -183,13 +190,6 @@ This is not retail Strategic Collateralization.
 
 It is precision engineered liquidity for advanced portfolios.
 
-TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
-

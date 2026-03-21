@@ -271,10 +271,17 @@ They are parallel.
 Those who understand the distinction will unlock the full spectrum of modern liquidity.
 
 Those who do not will continue to run complex portfolios through legacy pipelines that were not designed for them.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
 
-: Architecture Determines Outcome Traditional banking is structured for safety, scale, and regulatory compliance.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+Architecture Determines Outcome Traditional banking is structured for safety, scale, and regulatory compliance.
 
 Institutional private credit is structured for velocity, engineering, and asset sophistication.
 
@@ -288,13 +295,6 @@ We lend against assets.
 
 We engineer liquidity for portfolios that require institutional intelligence rather than retail processing.
 
-TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
-

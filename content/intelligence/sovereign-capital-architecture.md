@@ -19,10 +19,6 @@ The sovereign builder seeks permanence.
 
 Permanence is engineered. [
 
-
-
-
-
 # THE REGIME SHIFT
 
 ] Private markets no longer reward opportunism.
@@ -74,10 +70,6 @@ This is the new regime.
 Asset-Backed Frameworks is no longer an auxiliary discipline.
 
 It is the determinant of institutional survival. [
-
-
-
-
 
 # TECHNICAL MECHANICS ] Precision begins with capital flow design.
 
@@ -163,8 +155,6 @@ Lower utilisation is idle capital.
 
 Neither is stewardship. [
 
-
-
 # THE STRATEGIC MODEL
 
 ] Sovereign architecture is not a structure.
@@ -240,10 +230,6 @@ LPs do not invest in performance.
 LPs invest in inevitability.
 
 A fund becomes inevitable when its capital architecture is stronger than the market it operates in. [
-
-
-
-
 
 # THE STEWARDSHIP FILTER ] We do not build capital for a quarter. We build capital for generations.
 
@@ -339,15 +325,16 @@ The sovereign fund must demonstrate a
 
 28 to 34 percent lifetime liquidity conversion ratio across cycles.
 
-TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
 Minimum target size: $5M+....
 
 Request confidential capital audit.
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

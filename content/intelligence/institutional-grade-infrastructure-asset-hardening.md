@@ -185,13 +185,16 @@ Roials Capital fulfills this role.
 
 For allocators seeking to calibrate portfolios toward structural durability and operational predictability, a confidential strategy audit provides clarity on alignment, suitability, and technical feasibility across Fund-III mandates, Asset-Based Lending structures, and energy consolidation environments. [END OF INSTITUTIONAL BRIEFING]
 
-# TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
+# 
 
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

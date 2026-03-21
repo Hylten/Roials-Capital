@@ -308,10 +308,17 @@ Clients experience the stability without witnessing the complexity.
 principal authority is the highest form of trust.
 
 It is the trust that comes from structural predictability.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
 
-: The Future of Sovereign Risk Mitigation Risk mitigation in sovereign asset structures is a perpetual discipline.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+The Future of Sovereign Risk Mitigation Risk mitigation in sovereign asset structures is a perpetual discipline.
 
 The environment evolves.
 
@@ -339,13 +346,8 @@ For HNWI and UHNW individuals, this is not an option.
 
 This is a requirement for generational stability.
 
-Request confidential audit TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
+Request confidential audit 
 
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
-

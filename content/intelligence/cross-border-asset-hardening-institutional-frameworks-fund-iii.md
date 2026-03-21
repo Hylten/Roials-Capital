@@ -367,17 +367,14 @@ No metaphors.
 
 Request a confidential capital audit.
 
-Technical mandate: cross-border hardening coefficient threshold = 0.
+Minimum target size: $5M+....
 
-82 minimum.
+Access is restricted to approved mandates.
 
-TECHNICAL MANDATE 
+TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.
-
+Minimum target size: $5M+.

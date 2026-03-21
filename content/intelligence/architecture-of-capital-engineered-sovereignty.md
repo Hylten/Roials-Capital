@@ -189,8 +189,6 @@ Monetization Architecture eliminates timing risk, the most corrosive risk of all
 
 SPECIAL MANDATES (10%):
 
-
-
 1.
 
 NAEOC ENERGY (50M,250M mandates) Energy is not a sector.
@@ -459,13 +457,14 @@ E. REQUEST For LP/GP alignment, cross‑jurisdictional preparation, and mandate 
 
 72 hours.
 
-TECHNICAL MANDATE 
+Minimum target size: $5M+....
+
+Access is restricted to approved mandates.
+
+TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.
-
+Minimum target size: $5M+.

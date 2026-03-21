@@ -213,8 +213,17 @@ If the answer is no, the liquidity facility is rejected.
 If the answer is yes, terms are quantified.
 
 If the answer is absolute, capital deploys.
+TECHNICAL MANDATE
 
-CONCLUSION. The Institutional Mandate for the Next Decade The calculus of risk in institutional private credit is entering a new era.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+. The Institutional Mandate for the Next Decade The calculus of risk in institutional private credit is entering a new era.
 
 - Higher scrutiny.
 
@@ -244,13 +253,6 @@ It is a mandate to govern capital with precision.
 
 Request confidential audit.
 
-TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
-

@@ -5,8 +5,6 @@
 
 The Middle Market Advantage The middle market represents a unique intersection of opportunity and structural protection:
 
-
-
 1. **Premium Yields:
 
 *
@@ -46,20 +44,20 @@ Key Focus Areas for 2026
 *
 
 * Defensive businesses essential to supply chain resilience.
-
-**Conclusion**
-
-At Roials Capital, we believe that navigating this environment requires more than capital deployment; it necessitates operational integration and precise risk architecture.
-
-The middle market is not merely a segment of private credit; it is the arena where alpha is systematically constructed.
-
-TECHNICAL MANDATE 
+TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
+Minimum target size: $5M+.
+
+## Conclusion
+
+At Roials Capital, we believe that navigating this environment requires more than capital deployment; it necessitates operational integration and precise risk architecture.
+
+The middle market is not merely a segment of private credit; it is the arena where alpha is systematically constructed.
+
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
-

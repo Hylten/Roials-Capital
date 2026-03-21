@@ -221,8 +221,6 @@ It is the backbone of capital preservation in a fragmented regime.
 
 DECISION MAKING FRAMEWORK FOR ALLOCATORS Allocators evaluating capital preservation frameworks should interpret the landscape through three filters: structural, operational, and temporal.
 
-
-
 1.
 
 Structural Filter Assess whether the asset class is governed by natural physics, contract law, or sentiment.
@@ -251,13 +249,14 @@ It is calibration of allocator frameworks to protect capital across dislocated m
 
 Allocators seeking confidential structural alignment review may initiate a Portfolio Calibration or Strategy Audit to evaluate how their current exposures align with the capital preservation architecture outlined in this briefing.
 
-TECHNICAL MANDATE 
+Minimum target size: $5M+....
+
+Access is restricted to approved mandates.
+
+TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.
-
+Minimum target size: $5M+.

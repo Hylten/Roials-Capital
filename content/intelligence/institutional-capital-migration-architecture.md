@@ -244,13 +244,16 @@ Which strategies enhance the allocator's overall capital architecture rather tha
 
 It ensures alignment between institutional objectives, operational dynamics, and the structural regime shift now defining capital migration. [END OF BRIEFING]
 
-# TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
+# 
 
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

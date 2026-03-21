@@ -165,13 +165,14 @@ Roials Capital supports this process by providing institutional grade navigation
 
 A Confidential Strategy Audit refines the liquidity stack, calibrates reserve architecture, and strengthens capital deployment capability across the next five to seven years of regulatory evolution.
 
-TECHNICAL MANDATE 
+Minimum target size: $5M+....
+
+Access is restricted to approved mandates.
+
+TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.
-
+Minimum target size: $5M+.

@@ -197,13 +197,16 @@ Roials Capital provides confidential strategy audits for allocators analyzing Fu
 
 The objective is to equip decision makers with the operational intelligence required to navigate the current regime. [END BRIEFING]
 
-# TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
+# 
 
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

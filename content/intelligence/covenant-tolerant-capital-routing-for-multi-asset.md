@@ -78,11 +78,17 @@ A covenant tolerant routing system operates with minimal operator intervention. 
 ## Future State: Autonomous Covenant Neutral Capital Planes
 
 Roials Capital is constructing a future architecture where capital behaves as an autonomous plane, moving without human intervention and routing with perfect covenant awareness. It preserves liquidity integrity, regulatory balance, and multi asset coherence. This future state features fully autonomous routing, infinite covenant tolerance, and frictionless transitions across asset classes. It is not speculative; the structural foundation exists, and scaling is underway.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 Covenant tolerant capital routing is not an enhancement but the structural foundation for institutional‑scale multi asset operations. Roials Capital demonstrates that frictionless does not imply fragile, covenant tolerant does not imply permissive, and multi asset does not imply complicated. When systems are architected coherently and executed clinically, capital routing becomes predictable, stable, and immune to cross‑asset distortions. The Technical Frictionless provides the discipline, and the routing framework delivers the motion, together creating structural precision at institutional scale.
-
 
 Request confidential audit.
 Access is restricted to approved mandates.

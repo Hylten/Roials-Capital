@@ -415,15 +415,14 @@ Structure through disciplined capital.
 
 For institutional LP/GP partners prepared to anchor into this mandate, initiate a confidential capital audit to determine alignment bandwidth, deployment windows, and cross‑jurisdictional positioning.
 
-Technical mandate: 42% target hard‑asset coverage ratio.
+Minimum target size: $5M+....
 
-TECHNICAL MANDATE 
+Access is restricted to approved mandates.
+
+TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.
-
+Minimum target size: $5M+.

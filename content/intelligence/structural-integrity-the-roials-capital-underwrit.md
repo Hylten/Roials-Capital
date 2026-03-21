@@ -397,8 +397,15 @@ These structures amplify:
 - risk insulation We do not advertise them.
 
 We evaluate who earns access.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 Structural Integrity Is the Differentiator Markets reward order. Capital rewards structure.
 
@@ -418,13 +425,4 @@ is stewardship.
 
 The outcome is asset hardening at institutional scale.
 
-Request confidential audit TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.
-
+Request confidential audit ...

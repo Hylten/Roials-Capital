@@ -598,13 +598,14 @@ For a confidential capital audit, provide jurisdiction, mandate size, and asset 
 Technical Metric: Structural Hardness Index v4.
 3 (SHI).
 
-TECHNICAL MANDATE 
+Minimum target size: $5M+....
+
+Access is restricted to approved mandates.
+
+TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.
-
+Minimum target size: $5M+.

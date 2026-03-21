@@ -87,13 +87,16 @@ Asset hardening is the architecture that ensures the present is protected and th
 
 Roials Capital delivers that architecture for those who require institutional grade infrastructure without institutional friction.
 
-Request confidential audi t TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
+Request confidential audi t 
 
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

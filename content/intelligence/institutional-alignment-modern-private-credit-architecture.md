@@ -283,13 +283,14 @@ The institutional progression from preliminary review to calibrated engagement o
 
 This process allows LPs to evaluate governance structures, credit mechanics, and operational discipline through a controlled and private assessment.
 
-TECHNICAL MANDATE 
+Minimum target size: $5M+....
+
+Access is restricted to approved mandates.
+
+TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.
-
+Minimum target size: $5M+.

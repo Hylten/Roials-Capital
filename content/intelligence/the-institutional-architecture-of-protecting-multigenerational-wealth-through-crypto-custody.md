@@ -305,8 +305,6 @@ Liquidity protects continuity.
 
 Building the Institutional Crypto Vault for the Next
 
-
-
 100 Years The families that endure understand one principle.
 
 Wealth is not a moment.
@@ -335,13 +333,14 @@ This is the future of multi generational wealth protection.
 
 It is engineered, not improvised.
 
-TECHNICAL MANDATE 
+Minimum target size: $5M+....
+
+Access is restricted to approved mandates.
+
+TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.
-
+Minimum target size: $5M+.

@@ -263,13 +263,14 @@ Roials Capital’s role is to provide institutional LPs and GPs with a neutral, 
 
 For allocators requiring deeper visibility, a confidential strategy audit or portfolio calibration can map the assets, liabilities, and operational ranges that define their current posture.
 
-TECHNICAL MANDATE 
+Minimum target size: $5M+....
+
+Access is restricted to approved mandates.
+
+TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.
-
+Minimum target size: $5M+.

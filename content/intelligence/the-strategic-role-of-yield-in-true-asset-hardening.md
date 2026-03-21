@@ -54,10 +54,17 @@ And it ensures that the asset, once hardened, behaves according to design rather
 For high net worth and ultra high net worth individuals, control is the true currency.
 
 Yield is the instrument that delivers that control.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
 
-: Yield as the Foundation of Durable Capital Asset hardening is not decorative language.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+Yield as the Foundation of Durable Capital Asset hardening is not decorative language.
 
 It is a functional necessity for large balance sheets operating within complex markets.
 
@@ -75,13 +82,8 @@ Controlled leverage.
 
 And capital that remains sovereign.
 
-Request confidential audit TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
+Request confidential audit 
 
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
-

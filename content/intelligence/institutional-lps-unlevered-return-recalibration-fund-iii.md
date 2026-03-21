@@ -123,8 +123,6 @@ That GP becomes obsolete.
 
 THE INTERNAL FRAME REAL DRIVERS OF LP TIGHTENING IN FUND‑III+
 
-
-
 1.
 
 Compression of global return expectations Institutional allocators face obligations that compound, relentlessly.
@@ -335,3 +333,10 @@ A Principal never hides from the architecture.
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

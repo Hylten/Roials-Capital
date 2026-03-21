@@ -193,3 +193,10 @@ The objective is strategic clarity: the alignment of jurisdiction, collateral, o
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

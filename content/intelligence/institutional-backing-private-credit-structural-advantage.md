@@ -163,13 +163,14 @@ A professional allocator navigating this environment benefits from a confidentia
 
 Roials Capital facilitates these audits, providing allocators with the intelligence required to operate confidently within a complex, evolving credit environment.
 
-TECHNICAL MANDATE 
+Minimum target size: $5M+....
+
+Access is restricted to approved mandates.
+
+TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.
-
+Minimum target size: $5M+.

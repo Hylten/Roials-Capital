@@ -185,13 +185,16 @@ Roials Capital facilitates this process through confidential strategy audits and
 
 These are designed to clarify structural realities, align capital flows with sponsor competencies, and allow allocators to engage with the market from a position of technical strength. [END]
 
-# TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
+# 
 
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

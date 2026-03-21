@@ -31,8 +31,6 @@ The laggards call it noise.
 
 THE REGIME SHIFT
 
-
-
 1.
 
 Global capital is no longer geographically obedient.
@@ -64,8 +62,17 @@ Digital asset holders have collateral quality equal to or stronger than traditio
 This is the unlock.
 
 The convergence produces one inevitable
+TECHNICAL MANDATE
 
-CONCLUSION. The future of acquisition finance belongs to firms that can convert borderless collateral into compliant, underwritten, structured capital.
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+. The future of acquisition finance belongs to firms that can convert borderless collateral into compliant, underwritten, structured capital.
 
 Not later.
 
@@ -280,13 +287,6 @@ EXIT Liquidity depth ratio must exceed 0.
 
 Request a confidential capital audit.
 
-TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
-

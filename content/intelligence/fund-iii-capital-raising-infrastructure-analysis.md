@@ -100,8 +100,6 @@ Not persuasion.
 
 CAPITAL‑RAISING INFRASTRUCTURE Fund‑III platforms must operate with four structural pillars:
 
-
-
 1.
 
 Base Infrastructure (Core) 2.
@@ -532,8 +530,15 @@ Allocators expect precision.
 Precision attracts institutions.
 
 Institutions scale funds.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 Fund‑III capital‑raising depends on infrastructure density.
 
@@ -559,13 +564,8 @@ For confidential capital audit, submit allocation parameters and jurisdictional 
 
 Throughput Resilience Index: 0.
 
-92 TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
+92 
 
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
-

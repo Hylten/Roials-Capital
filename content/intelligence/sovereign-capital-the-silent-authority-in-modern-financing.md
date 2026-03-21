@@ -138,10 +138,17 @@ It is the authority behind the transaction.
 The layer beneath the structure.
 
 The quiet foundation that allows power to remain uninterrupted.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
 
-: Architecture Over Activity Sovereign capital is not active.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+Architecture Over Activity Sovereign capital is not active.
 
 It is architectural.
 
@@ -159,13 +166,6 @@ If control is the objective, sovereignty is the method.
 
 If you require institutional discipline without institutional noise, Roials Capital operates at that level.
 
-TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
-

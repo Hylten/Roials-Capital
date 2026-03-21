@@ -257,8 +257,6 @@ Asset-Based Lending becomes the shock absorber for Fund‑III execution.
 
 SPECIAL MANDATES (10% MANDATE) Three lanes matter:
 
-
-
 1.
 
 NAEOC Energy Mandate ($50M-$250M) Oil and gas assets require sovereign-grade structuring.
@@ -418,12 +416,6 @@ Capital formation defines survival.
 
 Execution defines legacy.
 
-TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
 Minimum target size: $5M+....
 
 Request confidential capital audit.
@@ -432,3 +424,10 @@ Technical metric: Minimum liquidity coverage ratio (LCR) required for Fund‑III
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

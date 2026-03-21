@@ -264,8 +264,15 @@ The architecture of global liquidity is evolving.
 Private credit is one of its primary design tools.
 
 Institutions that understand this shift will shape the next cycle rather than react to it.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 Private credit and liquidity are now permanently linked.
 
@@ -279,13 +286,8 @@ It creates structural resilience.
 
 It offers a level of control that traditional markets cannot match.
 
-Request confidential audit TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
+Request confidential audit 
 
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
-

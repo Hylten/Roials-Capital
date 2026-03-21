@@ -245,13 +245,14 @@ Roials Capital provides confidential Strategy Audits and Portfolio Calibration e
 
 The objective is to provide clarity on the operational regime and introduce the correct institutional partners where alignment exists.
 
-TECHNICAL MANDATE 
+Minimum target size: $5M+....
+
+Access is restricted to approved mandates.
+
+TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.
-
+Minimum target size: $5M+.

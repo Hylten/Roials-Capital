@@ -320,10 +320,17 @@ It all exists to create predictability and reduce fragility.
 Our clients rely on that predictability.
 
 Our systems enforce it.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
 
-: Trust as a Structural Outcome Trust is not declared.
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
+
+Trust as a Structural Outcome Trust is not declared.
 
 It is engineered.
 
@@ -337,13 +344,6 @@ We build the structures that institutions and sophisticated clients require.
 
 To understand how your assets integrate into our institutional architecture, request confidential audit.
 
-TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
-

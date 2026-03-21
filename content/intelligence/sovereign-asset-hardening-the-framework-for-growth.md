@@ -29,7 +29,6 @@ This is the framework.
 
 Public Share Strategic Collateralization:
 
-
 5 Million Minimum for Structural Stability Public equities require a different architecture.
 
 The valuation is transparent.
@@ -147,13 +146,16 @@ Roials Capital provides the architecture.
 
 The client retains the sovereignty.
 
-Request Confidential Audit If your capital requires structural hardening, controlled leverage, and sovereign grade liquidity, request a confidential audit. TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
+Request Confidential Audit If your capital requires structural hardening, controlled leverage, and sovereign grade liquidity, request a confidential audit. 
 
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

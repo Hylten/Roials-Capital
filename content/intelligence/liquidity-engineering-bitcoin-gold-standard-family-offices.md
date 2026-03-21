@@ -630,8 +630,15 @@ Protects Fund-III commitments.
 THE META
 
 -
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 (WITHOUT SUMMARIZING) Bitcoin is not optional.
 
@@ -667,13 +674,8 @@ For principal evaluation, submit a confidential capital audit.
 
 Terminal metric: LTV hard cap: 18.6%
 
-# TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
+# 
 
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
-

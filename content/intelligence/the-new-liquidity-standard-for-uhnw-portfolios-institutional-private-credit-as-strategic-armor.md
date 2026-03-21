@@ -32,10 +32,15 @@ Improved Intergenerational Stability Family governance frameworks gain stability
 Enhanced Opportunity Readiness When liquidity is engineered, opportunities can be captured without compromising long term strategy. Lower Total Portfolio Volatility Liquidity failures are one of the primary drivers of hidden portfolio volatility. Eliminating them reduces systemic risk across every asset class.
 
 The New Liquidity Standard: A Structural
+TECHNICAL MANDATE
 
+Qualification Gates strictly observed for comprehensive structural execution.
 
+Access is restricted to approved mandates.
 
-**Conclusion**
+Minimum target size: $5M+.
+
+## Conclusion
 
 UHNW portfolios are no longer constrained by market cycles.
 
@@ -59,13 +64,8 @@ A system that performs.
 
 A system that endures.
 
-Request confidential audit TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
+Request confidential audit 
 
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
-

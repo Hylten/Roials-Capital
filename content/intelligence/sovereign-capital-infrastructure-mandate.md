@@ -314,13 +314,14 @@ A fund survives on the precision of its governance.
 
 For LPs, family offices, and institutional allocators requiring a confidential capital audit for Fund-III positioning, initiate contact under secure channel.
 
-TECHNICAL MANDATE 
+Minimum target size: $5M+....
+
+Access is restricted to approved mandates.
+
+TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.
-
+Minimum target size: $5M+.

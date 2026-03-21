@@ -241,13 +241,14 @@ Allocators positioned to integrate Alberta heavy oil credit structures, middle m
 
 A confidential strategy audit provides the framework for assessing fit, alignment, and operational readiness while maintaining full compliance with institutional standards and regulatory expectations.
 
-TECHNICAL MANDATE 
+Minimum target size: $5M+....
+
+Access is restricted to approved mandates.
+
+TECHNICAL MANDATE
 
 Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.
-
+Minimum target size: $5M+.

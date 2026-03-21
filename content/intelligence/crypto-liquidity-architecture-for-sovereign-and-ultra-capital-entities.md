@@ -19,8 +19,6 @@ This is engineered liquidity for sovereign‑scale decision makers.
 
 The Institutional Logic of Crypto Liquidity A sovereign entity, an HNWI, or a UHNW principal seeks liquidity for one of three reasons:
 
-
-
 1.
 
 To accelerate capital deployment without liquidating core holdings
@@ -242,8 +240,15 @@ We maintain the principal authority required for ultra‑capital operations.
 The future is not experimental.
 
 It is engineered.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 Crypto Liquidity as an Institutional Instrument Crypto liquidity, when architected with precision, becomes an extension of sovereign capital strategy.
 
@@ -257,13 +262,6 @@ Our mechanics provide the clarity and stability that ultra‑capital requires.
 
 For entities operating in silence, we build the architecture that moves capital without noise.
 
-TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
-

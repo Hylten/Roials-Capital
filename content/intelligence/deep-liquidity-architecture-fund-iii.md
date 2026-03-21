@@ -441,11 +441,7 @@ Asymmetry is high.
 
 This is the optimal environment for a principal-grade platform.
 
-Provide THE MANDAT E. TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
+Provide THE MANDAT E. 
 
 Minimum target size: $5M+....
 
@@ -455,3 +451,10 @@ Terminal Metric: Liquidity Override Capacity Index ≥ 0.82.
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

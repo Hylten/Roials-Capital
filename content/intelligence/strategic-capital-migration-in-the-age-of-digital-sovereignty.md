@@ -212,8 +212,15 @@ This is not for the general market.
 It is for those who operate with institutional expectations and global time horizons.
 
 It is for those who treat liquidity as strategy, not reaction.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 Strategic capital migration is no longer optional.
 
@@ -229,13 +236,6 @@ The architecture.
 
 The principal authority that supports sovereign capital movement in an era defined by digital and structural complexity.
 
-TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
-

@@ -278,8 +278,15 @@ Roials Capital operates at the intersection of these trends.
 We do not follow the cycles.
 
 We build the mechanics that allow our clients to operate above them.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 Sovereign debt volatility is not a temporary phase.
 
@@ -291,13 +298,6 @@ Roials Capital stands inside this shift as a principal authority, providing inst
 
 If liquidity is the architecture that supports your next strategic move, our role is to design it with precision.
 
-TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
-

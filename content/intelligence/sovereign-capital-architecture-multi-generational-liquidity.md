@@ -279,3 +279,10 @@ Roials Capital offers a confidential Strategy Audit to evaluate an allocator's c
 
 Access is restricted to approved mandates.
 
+TECHNICAL MANDATE
+
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.

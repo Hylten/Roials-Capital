@@ -292,8 +292,15 @@ This shift is permanent.
 Private credit, asset based Capital Structuring, crypto Asset-Backed Frameworks at scale, and public share financing will increasingly be governed by institutional frameworks, not individual preferences.
 
 Roials Capital is engineered around this future, not adapting to it.
+TECHNICAL MANDATE
 
-**Conclusion**
+Qualification Gates strictly observed for comprehensive structural execution.
+
+Access is restricted to approved mandates.
+
+Minimum target size: $5M+.
+
+## Conclusion
 
 Institutional backing is not a marketing attribute.
 
@@ -317,13 +324,6 @@ Precisely.
 
 With principal authority.
 
-TECHNICAL MANDATE 
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
 Minimum target size: $5M+....
 
 Access is restricted to approved mandates.
-
