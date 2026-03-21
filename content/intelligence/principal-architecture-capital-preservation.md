@@ -63,9 +63,7 @@ That mismatch destroys LP trust.
 
 It destroys asset durability.
 
-Most dangerous, it destroys the sovereign purpose of capital, which is to build and transmit long horizon value. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Most dangerous, it destroys the sovereign purpose of capital, which is to build and transmit long horizon value. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * outlines this mandate without ambiguity.
 
@@ -248,9 +246,7 @@ No leverage structures that depend on macro benevolence.
 
 3.
 
-No operational model that cannot survive a
-
-22 percent revenue compression.
+No operational model that cannot survive a 22 percent revenue compression.
 
 4.
 
@@ -290,7 +286,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

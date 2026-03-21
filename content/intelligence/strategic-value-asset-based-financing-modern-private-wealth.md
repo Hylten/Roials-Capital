@@ -157,9 +157,7 @@ Stewardship applies three constraints.
 
 1.
 
-Non wasteful resource deployment This principle aligns with "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Non wasteful resource deployment This principle aligns with "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * .
 

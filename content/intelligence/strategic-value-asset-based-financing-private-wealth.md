@@ -187,9 +187,7 @@ THE STEWARDSHIP FILTER Stewardship is the governing discipline that ensures capi
 
 Controlled Leverage By tying liquidity to quantifiable collateral, ABL prevents the type of leverage drift common in covenant light cash flow lending.
 
-This aligns with "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+This aligns with "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * , which emphasizes responsible inheritance and long term sustainability.
 

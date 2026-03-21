@@ -71,9 +71,7 @@ Liquidity Engineering Through Over Collateralized Structures Sovereign crypto ba
 
 These curves are not speculative but internally modeled based on asset volatility coefficients, liquidity depth, and cross collateralization potential.
 
-Loans are typically 20 percent to
-
-65 percent LTV depending on asset class.
+Loans are typically 20 percent to 65 percent LTV depending on asset class.
 
 The facility can be deployed within
 
@@ -167,9 +165,7 @@ In the context of sovereign crypto banking, stewardship means anchoring liquidit
 
 - Governance reflects long term responsibility rather than short term arbitrage.
 
-Stewardship as expressed through "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Stewardship as expressed through "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * emphasizes intergenerational asset preservation.
 

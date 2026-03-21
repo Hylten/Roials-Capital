@@ -69,9 +69,7 @@ Capital committee drift.
 
 Execution windows narrow.
 
-Sponsors running repeatable playbooks sense the same constraint: the spread between available credit and deployable credit is the new battleground. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Sponsors running repeatable playbooks sense the same constraint: the spread between available credit and deployable credit is the new battleground. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * : The wealth of the sinner is laid up for the just.
 
@@ -482,9 +480,7 @@ Only sponsors with hardened assets, engineered liquidity, cross‑border fluency
 
 Capital follows structure.
 
-Always. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Always. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * reinforces it.
 
@@ -518,7 +514,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Request confidential capital audit.
 

@@ -97,17 +97,11 @@ It is an execution.
 
 Typical mechanics:
 
-- 45 to
+- 45 to 65 percent LTV for tokenized hard assets
 
-65 percent LTV for tokenized hard assets
+- 60 to 85 percent LTV for sovereign-backed digital treasuries
 
-- 60 to
-
-85 percent LTV for sovereign-backed digital treasuries
-
-- 75 to
-
-90 percent LTV for overcollateralized institutional pools Cash flow waterfalls reconfigure on event triggers rather than quarterly reviews.
+- 75 to 90 percent LTV for overcollateralized institutional pools Cash flow waterfalls reconfigure on event triggers rather than quarterly reviews.
 
 Margin calls occur automatically, removing the emotional inefficiency that destroys portfolios.
 
@@ -197,9 +191,7 @@ Velocity without virtue is chaos.
 
 Biblical stewardship is not sentimental.
 
-It is operational. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+It is operational. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * records a structural rule: wealth must be preserved across generations through disciplined governance.
 
@@ -249,7 +241,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

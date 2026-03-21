@@ -13,9 +13,7 @@ Capital must migrate.
 
 Structures must shift.
 
-Status must upgrade. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Status must upgrade. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * : A good man leaves an inheritance to his children’s children.
 
@@ -511,9 +509,7 @@ They become institutional heirs, not dependent beneficiaries.
 
 Institutional heirs protect legacy.
 
-Legacy is the true mandate. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Legacy is the true mandate. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * : A good man leaves an inheritance to his children’s children.
 
@@ -571,7 +567,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Request confidential capital audit.
 

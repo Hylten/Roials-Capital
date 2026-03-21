@@ -154,9 +154,7 @@ Every
 
 Speed is valuable only when it reduces friction without increasing systemic fragility.
 
-- Stability of collateral. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+- Stability of collateral. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * highlights the long horizon of responsible capital.
 

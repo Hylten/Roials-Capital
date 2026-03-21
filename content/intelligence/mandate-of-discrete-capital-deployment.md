@@ -73,9 +73,7 @@ SAGD relies on dual horizontal wellbores.
 
 A steam injection well heats the bitumen, lowering its viscosity, enabling it to flow into the lower producer well.
 
-Recovery factors range between
-
-40 percent and 60 percent when facility reliability and reservoir heterogeneity are optimal.
+Recovery factors range between 40 percent and 60 percent when facility reliability and reservoir heterogeneity are optimal.
 
 SAGD benefits from stable steam oil ratios, long plateau production phases, and predictable decline curves once production stabilizes.
 
@@ -83,9 +81,7 @@ CSS, a cyclic process, injects steam into a vertical or directional well, allows
 
 CSS excels in reservoirs with higher sand content and greater thickness variability.
 
-It can achieve recovery factors of
-
-20 percent to 35 percent depending on cycle length and steam efficiency.
+It can achieve recovery factors of 20 percent to 35 percent depending on cycle length and steam efficiency.
 
 The operational mechanics of both systems generate cash flows that are highly sensitive to thermal efficiency but less sensitive to short term market volatility because of hedging programs, pipeline commitments, and refinery demand continuity.
 
@@ -167,9 +163,7 @@ The firm does not take operating control or assert ownership claims.
 
 The value is in navigation, not execution.
 
-THE STEWARDSHIP FILTER Stewardship in capital markets is not a moral abstraction. It is a discipline of non wasteful resource management grounded in the theology of capital. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+THE STEWARDSHIP FILTER Stewardship in capital markets is not a moral abstraction. It is a discipline of non wasteful resource management grounded in the theology of capital. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * frames the principle that durable capital must be intergenerational, not consumptive.
 
@@ -239,7 +233,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

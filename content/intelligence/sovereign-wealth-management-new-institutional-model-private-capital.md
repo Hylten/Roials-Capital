@@ -19,9 +19,7 @@ THE REGIME SHIFT The global private capital regime has transitioned from a liqui
 
 1.
 
-Capital Concentration Sovereign allocators now command more than
-
-40 percent of global private capital firepower.
+Capital Concentration Sovereign allocators now command more than 40 percent of global private capital firepower.
 
 Their internal risk frameworks favor asset classes with measurable physics, repeatable recovery curves, and defensible jurisdictional rule sets.
 
@@ -131,9 +129,7 @@ THE STEWARDSHIP FILTER Sovereign wealth management at scale requires a stewardsh
 
 It is the guiding principle for long term allocators.
 
-The Theology of Capital reinforces this. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+The Theology of Capital reinforces this. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * notes that durable capital is multi generational.
 

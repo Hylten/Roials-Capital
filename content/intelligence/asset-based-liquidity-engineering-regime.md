@@ -93,9 +93,7 @@ In our mandates, machinery and heavy equipment show verified liquidation recover
 
 58 and 72 percent of forced sale value.
 
-Receivables under long term service contracts recover near
-
-90 percent.
+Receivables under long term service contracts recover near 90 percent.
 
 Land-backed industrial facilities operate at
 
@@ -227,9 +225,7 @@ THE STEWARDSHIP FILTER A system built without stewardship corrodes.
 
 Stewardship is not generosity.
 
-It is governance. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+It is governance. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * states that a good man leaves an inheritance for his children's children.
 
@@ -287,7 +283,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Request confidential capital audit.
 

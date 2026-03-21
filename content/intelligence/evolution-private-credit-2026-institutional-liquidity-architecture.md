@@ -51,9 +51,7 @@ It is a dynamic liquidity engine calibrated to the operators cash conversion cyc
 
 The capital stack is being reengineered around predictability.
 
-Structures with 40 to
-
-65 percent LTV parameters supported by long life industrial assets have become the institutional archetype.
+Structures with 40 to 65 percent LTV parameters supported by long life industrial assets have become the institutional archetype.
 
 Fund sponsors pursuing add on acquisitions prioritize liquidity timing and execution certainty over nominal rate considerations, further entrenching the role of private credit in the middle market.
 
@@ -155,9 +153,7 @@ Allocators require these capabilities before they deploy structured energy credi
 
 THE STEWARDSHIP FILTER Stewardship functions as a discipline of non wasteful resource management.
 
-Capital must be deployed with purpose, precision, and awareness of long term societal outcomes. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Capital must be deployed with purpose, precision, and awareness of long term societal outcomes. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * establishes the principle that multigenerational continuity requires wise capital governance.
 
@@ -195,7 +191,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

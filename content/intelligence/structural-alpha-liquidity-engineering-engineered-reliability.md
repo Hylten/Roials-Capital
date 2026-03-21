@@ -145,9 +145,7 @@ For European MiFID II acquisition mandates, Roials Capital provides compliance a
 
 For private credit allocators, the firm identifies where asset hardening can transform under recognized value into institutional grade collateral.
 
-THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management. It is a capital theology shaped by "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management. It is a capital theology shaped by "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * .
 

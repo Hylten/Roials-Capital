@@ -25,9 +25,7 @@ Capital friction has increased even though global liquidity has expanded.
 
 The major global banks now price cross-border capital not on liquidity supply but on regulatory drag and internal risk weighting.
 
-This has slowed capital deployment in US and EU mid-market buyouts by close to
-
-40 percent relative to 2021 activity levels.
+This has slowed capital deployment in US and EU mid-market buyouts by close to 40 percent relative to 2021 activity levels.
 
 2.
 
@@ -89,9 +87,7 @@ nstitutional-grade collateral must reside in a custodial environment with:
 
 2.
 
-Over Collateralization Requirements Institutional lenders using digital collateral require over collateralization ratios ranging from
-
-140 percent to 300 percent depending on the asset, volatility profile, and jurisdiction.
+Over Collateralization Requirements Institutional lenders using digital collateral require over collateralization ratios ranging from 140 percent to 300 percent depending on the asset, volatility profile, and jurisdiction.
 
 This is materially different from legacy banking collateralization.
 
@@ -209,9 +205,7 @@ This briefing is focused on M&A and liquidity engineering, but the partnership m
 
 THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource deployment. The allocator must view capital not as a commodity but as a responsibility.
 
-Wealth mobility frameworks must align with the Theology of Capital. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Wealth mobility frameworks must align with the Theology of Capital. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * anchors the principle that capital is not for short term consumption but for long term structural continuity.
 

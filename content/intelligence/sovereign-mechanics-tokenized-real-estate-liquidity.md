@@ -37,9 +37,7 @@ The enforceability bridge between chain and court.
 
 That is where institutional capital flows.
 
-That is where Fund-III gains delta. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+That is where Fund-III gains delta. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * states: A good man leaves an inheritance to his children’s children: and the wealth of the sinner is laid up for the just.
 
@@ -530,7 +528,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Request confidential capital audit.
 

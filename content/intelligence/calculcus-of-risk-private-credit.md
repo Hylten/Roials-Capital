@@ -188,9 +188,7 @@ THE STEWARDSHIP FILTER Institutional stewardship is the discipline of allocating
 
 It is a moral architecture grounded in the responsible management of resources.
 
-As "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+As "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * notes, the responsibility of leaving an inheritance requires both discipline and foresight.
 
@@ -254,7 +252,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

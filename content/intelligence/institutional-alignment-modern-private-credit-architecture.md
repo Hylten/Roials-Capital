@@ -211,9 +211,7 @@ The objective is to support institutional decision making by delivering clarity,
 
 THE STEWARDSHIP FILTER Stewardship is the discipline of resource management anchored in restraint, governance, and accountability.
 
-In capital markets, stewardship requires a philosophy that mirrors the principles expressed in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+In capital markets, stewardship requires a philosophy that mirrors the principles expressed in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * where generational stability arises from disciplined management rather than opportunistic extraction.
 
@@ -291,7 +289,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

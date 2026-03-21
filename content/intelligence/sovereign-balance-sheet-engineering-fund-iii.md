@@ -109,9 +109,7 @@ Effective engineering requires:
 
 - Preconstructed cash-flow waterfalls for both asset-level and HoldCo structures The result is a sovereign-style infrastructure: low entropy, high control, predictable flow, minimal waste.
 
-This aligns with "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+This aligns with "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * as a principle of intergenerational capital stewardship.
 

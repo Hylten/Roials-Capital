@@ -143,9 +143,7 @@ Energy Mandates For mandates requiring exposure to North American energy opportu
 
 They manage reservoir development, production optimization, and technical risk mitigation.
 
-Roials Capital manages the strategic dialogue, structural mapping, and the institutional
-
-INTRODUCTION. Asset-Based Lending and Special Situations For Asset-Based Lending and Capital Structuring mandates, Roials Capital provides balance sheet diagnostics and scenario modeling.
+Roials Capital manages the strategic dialogue, structural mapping, and the institutional INTRODUCTION. Asset-Based Lending and Special Situations For Asset-Based Lending and Capital Structuring mandates, Roials Capital provides balance sheet diagnostics and scenario modeling.
 
 Allocators receive a clear view of collateral valuation, cash flow conversion probabilities, and expected time to liquidity stabilization.
 
@@ -155,9 +153,7 @@ Fund-III environments require disciplined LP curation, governance narrative cons
 
 The objective is to align the GP’s operational capabilities with LP expectations for transparency, downside mitigation, and repeatable origination.
 
-THE STEWARDSHIP FILTER Stewardship is the discipline of aligning capital with productive, non wasteful deployment. It is a theological and operational principle grounded in responsibility, asset protection, and the avoidance of speculation. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+THE STEWARDSHIP FILTER Stewardship is the discipline of aligning capital with productive, non wasteful deployment. It is a theological and operational principle grounded in responsibility, asset protection, and the avoidance of speculation. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * provides the foundational ethos: capital is not accumulated for personal gain but to enable multi generational stability.
 
@@ -197,7 +193,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

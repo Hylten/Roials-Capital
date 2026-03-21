@@ -123,9 +123,7 @@ THE PARTNERSHIP MODEL Roials Capital functions as a neutral institutional naviga
 
 - Tertiary: Strategic mandates including North American energy (NAEOC 50M to 250M), MiFID II aligned European acquisitions, and Gulf allocation pathways.
 
-The partnership model operates through institutional
-
-INTRODUCTION rather than distribution.
+The partnership model operates through institutional INTRODUCTION rather than distribution.
 
 The objective is to position allocators adjacent to the right structures and counterparties.
 
@@ -145,9 +143,7 @@ The institutional role of Roials Capital is to ensure that UHNWIs, family office
 
 This avoids overleveraging, prevents mismatched duration structures, and ensures liquidity is engineered with strategic intent.
 
-THE STEWARDSHIP FILTER Stewardship is the discipline of applying capital in a manner aligned with preservation, sustainability, and long term functional prosperity. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+THE STEWARDSHIP FILTER Stewardship is the discipline of applying capital in a manner aligned with preservation, sustainability, and long term functional prosperity. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * defines stewardship as multigenerational preparation.
 

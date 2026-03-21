@@ -11,9 +11,7 @@ Momentum comes from alignment density, not GP enthusiasm.
 
 The expansion mandate requires a unified chassis: one spine, multiple liquidity doors, zero drag.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * sets the generational frame: a good man leaves an inheritance: capital must outlive cycle, strategy, and operator.
 
@@ -383,7 +381,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Request confidential capital audit.
 

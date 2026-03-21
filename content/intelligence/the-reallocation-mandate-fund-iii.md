@@ -13,9 +13,7 @@ Movement is mandatory.
 
 Stillness is decay.
 
-The principal view is simple: reallocate or be reallocated. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+The principal view is simple: reallocate or be reallocated. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * states: A good man leaves an inheritance to his children's children: but the wealth of the sinner is laid up for the just.
 
@@ -321,9 +319,7 @@ Scale is protection.
 
 Scale eliminates fragility.
 
-Every add-on enters through the Reallocation Mandate’s filter: does it increase enterprise throughput by minimum
-
-18 percent within twelve months?
+Every add-on enters through the Reallocation Mandate’s filter: does it increase enterprise throughput by minimum 18 percent within twelve months?
 
 If not, discard.
 
@@ -605,7 +601,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

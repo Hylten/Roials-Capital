@@ -91,9 +91,7 @@ Small lenders suffer recovery rates between
 
 28 and 41 percent when distressed because they negotiate from weakness.
 
-Institutional lenders average 62 to
-
-78 percent recovery on identical collateral classes because they control workout advisors, valuation specialists, and replacement operators.
+Institutional lenders average 62 to 78 percent recovery on identical collateral classes because they control workout advisors, valuation specialists, and replacement operators.
 
 They do not ask for outcomes.
 
@@ -140,9 +138,7 @@ for Fund-III requires a different operating system.
 
 Roials Capital executes on three fronts.
 
-First, capital raising at
-
-80 percent allocation.
+First, capital raising at 80 percent allocation.
 
 Fund-III+ must run a capital acquisition engine, not a passive LP rotation.
 
@@ -164,9 +160,7 @@ This reverses the negotiating leverage.
 
 This is how Fund-III scales.
 
-Second, Strategic Collateralization at
-
-10 percent allocation.
+Second, Strategic Collateralization at 10 percent allocation.
 
 Asset-Based Lending is not a side strategy.
 
@@ -182,9 +176,7 @@ LPs see measurable signal.
 
 Everything gains momentum.
 
-Third, special mandates at
-
-10 percent allocation.
+Third, special mandates at 10 percent allocation.
 
 When institutions back a private credit platform, the platform becomes eligible for structured mandates that smaller lenders cannot touch.
 
@@ -218,9 +210,7 @@ Roials Capital sits between them as the institutional operating spine.
 
 THE STEWARDSHIP FILTER Resources carry responsibility.
 
-Capital is not neutral. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Capital is not neutral. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * establishes a simple pattern.
 
@@ -282,7 +272,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Request confidential capital audit.
 

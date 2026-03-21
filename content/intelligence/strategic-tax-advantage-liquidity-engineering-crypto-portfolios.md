@@ -19,9 +19,7 @@ Several macro forces define the current landscape:
 
 - Tax treatment in most Western jurisdictions treats crypto disposals as capital gains events.
 
-This introduces friction that can exceed
-
-20 percent to 37 percent depending on jurisdiction.
+This introduces friction that can exceed 20 percent to 37 percent depending on jurisdiction.
 
 - Regulatory oversight has created a mismatch between capital mobility and tax liability recognition.
 
@@ -151,9 +149,7 @@ Stewardship requires:
 
 - Governance frameworks that preserve intergenerational optionality
 
-- Decision making that aligns with "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+- Decision making that aligns with "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * and the broader theology of capital Liquidity engineering serves this function.
 

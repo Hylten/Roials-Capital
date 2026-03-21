@@ -256,9 +256,7 @@ That is a predictable failure point.
 
 THE STEWARDSHIP FILTER Stewardship is the governing ethic. Private credit is not a game of yield.
 
-It is a theology of allocation. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+It is a theology of allocation. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * defines THE MANDAT
 
@@ -334,9 +332,7 @@ If the system tolerated drift, the exits will be distorted.
 
 The final metric is the capital integrity ratio: the percentage of fund cash flows that behave according to their original underwriting assumptions.
 
-High performing funds operate at
-
-92 percent or higher.
+High performing funds operate at 92 percent or higher.
 
 Anything below 85 percent signals structural misalignment.
 
@@ -348,7 +344,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Request confidential capital audit.
 

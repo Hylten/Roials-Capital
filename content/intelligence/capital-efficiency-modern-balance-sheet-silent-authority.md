@@ -35,9 +35,7 @@ Private credit overlays.
 
 Institutional Liquidity Paths that operates beneath threshold visibility yet above regulatory suspicion.
 
-This is where institutional capital now allocates-toward managers that embed principal authority inside their core holdings. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+This is where institutional capital now allocates-toward managers that embed principal authority inside their core holdings. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * states: A good man leaveth an inheritance to his children’s children: and the wealth of the sinner is laid up for the just.
 
@@ -669,9 +667,7 @@ Institutional investors will not tolerate improvisation.
 
 They demand structure.
 
-And they reward it with scale. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+And they reward it with scale. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * echoes here again: inheritance is a built structure, not a found opportunity.
 
@@ -689,7 +685,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

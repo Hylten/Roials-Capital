@@ -149,9 +149,7 @@ The Roials Capital model ensures that the operator's governance structure and te
 
 THE STEWARDSHIP FILTER Stewardship is not an ethical overlay. It is a discipline of capital preservation rooted in non wasteful resource management.
 
-The Theology of Capital frames stewardship as the pursuit of stability in systems that can degrade through mismanagement. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+The Theology of Capital frames stewardship as the pursuit of stability in systems that can degrade through mismanagement. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * references the transgenerational nature of responsible capital deployment.
 
@@ -283,7 +281,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

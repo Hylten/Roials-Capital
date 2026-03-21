@@ -147,9 +147,7 @@ Stewardship principles:
 
 - Minimization of Idle Value Tokenized structures enable partial liquidity extraction without forced sales, preserving long-term asset integrity.
 
-- Multi-Year Sustainability Improved liquidity supports multi-cycle planning, consistent with the stewardship mandate articulated in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+- Multi-Year Sustainability Improved liquidity supports multi-cycle planning, consistent with the stewardship mandate articulated in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * .
 

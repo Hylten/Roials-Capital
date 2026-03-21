@@ -145,9 +145,7 @@ Stronger balance sheets enable better negotiation leverage and clearer risk mana
 
 3.
 
-Intergenerational Positioning Stewardship honors capital continuity. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Intergenerational Positioning Stewardship honors capital continuity. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * positions resource management as a multi generational mandate.
 

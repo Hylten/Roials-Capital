@@ -183,9 +183,7 @@ The allocator guided by stewardship does not chase opportunity velocity without 
 
 Stewardship is the principle that underwrites sustainable capital deployment according to
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * which emphasizes the multigenerational nature of responsible asset management.
 

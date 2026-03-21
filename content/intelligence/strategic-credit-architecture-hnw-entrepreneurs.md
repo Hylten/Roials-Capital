@@ -141,9 +141,7 @@ THEOLOGY OF CAPITAL Stewardship is not a rhetorical device.
 
 It is a governance discipline.
 
-In capital architecture, stewardship is the commitment to avoid waste, misalignment, and opportunistic behaviors that degrade enterprise value over time. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+In capital architecture, stewardship is the commitment to avoid waste, misalignment, and opportunistic behaviors that degrade enterprise value over time. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * provides the structural lens: capital must be organized so that its impact exceeds the decision maker’s lifespan.
 

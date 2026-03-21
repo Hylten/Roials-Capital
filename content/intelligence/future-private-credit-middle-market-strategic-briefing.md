@@ -97,9 +97,7 @@ Lenders operate at the top of the capital stack, supported by first lien claims 
 
 - LTV curves.
 
-Well constructed transactions target
-
-35 percent to 55 percent LTV, ensuring substantial equity subordination.
+Well constructed transactions target 35 percent to 55 percent LTV, ensuring substantial equity subordination.
 
 - Cash flow waterfalls.
 
@@ -161,9 +159,7 @@ The Western Canadian Sedimentary Basin provides long horizon production windows 
 
 - Capital starvation.
 
-Since 2015, the sector has absorbed a
-
-60 percent reduction in traditional capital flows, creating pricing dislocations uncorrelated with commodity cycles.
+Since 2015, the sector has absorbed a 60 percent reduction in traditional capital flows, creating pricing dislocations uncorrelated with commodity cycles.
 
 Our strategic partner, NAEO, focuses on conventional heavy oil operations with disciplined technical stewardship.
 
@@ -215,9 +211,7 @@ THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource de
 
 In capital markets, stewardship is a form of integrity that governs allocation decisions, risk frameworks, and operational oversight.
 
-It is positioned as a theological and economic principle. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+It is positioned as a theological and economic principle. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * states that a good person leaves an inheritance for their grandchildren.
 
@@ -295,7 +289,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

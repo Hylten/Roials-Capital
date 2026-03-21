@@ -87,9 +87,7 @@ LTV Curves Loan-to-value in buyout-centric credit is no longer linear.
 
 The curve bends around operating volatility and the sponsor's working capital discipline.
 
-Traditional 50 to
-
-60 percent LTV frameworks fail when EBITDA normalization becomes fragile.
+Traditional 50 to 60 percent LTV frameworks fail when EBITDA normalization becomes fragile.
 
 True institutional design evaluates LTV as an adaptive corridor that responds to the cash conversion cycle.
 
@@ -243,9 +241,7 @@ Capital allocation is a moral discipline before it becomes a technical one.
 
 This is the lens.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * .
 
@@ -292,7 +288,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Request confidential capital audit.
 

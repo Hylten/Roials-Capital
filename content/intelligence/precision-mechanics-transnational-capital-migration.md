@@ -179,9 +179,7 @@ THE STEWARDSHIP FILTER Stewardship is not a marketing term. It is a discipline.
 
 Stewardship is the management of capital, resources, and operational environments without waste.
 
-It aligns with "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+It aligns with "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * which identifies generational responsibility as the highest form of governance.
 

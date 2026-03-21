@@ -75,9 +75,7 @@ Institutional capital no longer seeks geographic arbitrage.
 
 It seeks sovereignty arbitrage.
 
-Fund‑III must move where sovereignty compounds, not where incentives dilute. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Fund‑III must move where sovereignty compounds, not where incentives dilute. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * states: A good man leaves an inheritance to his children’s children: but the wealth of the sinner is stored up for the righteous.
 
@@ -457,7 +455,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Request confidential capital audit.
 

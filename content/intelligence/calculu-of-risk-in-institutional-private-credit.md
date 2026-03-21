@@ -191,9 +191,7 @@ Roials Capital does not promote a specific fund but instead ensures institutiona
 
 THE STEWARDSHIP FILTER Institutional private credit, when practiced with discipline, is a manifestation of stewardship. Stewardship is defined as the responsible governance of capital and resources.
 
-It aligns with the principle in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+It aligns with the principle in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * which emphasizes intergenerational prudence and the ethical use of assets.
 
@@ -249,7 +247,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

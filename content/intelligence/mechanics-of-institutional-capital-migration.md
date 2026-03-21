@@ -139,9 +139,7 @@ Roials maintains a proprietary pipeline across buyout platforms, Asset-Based Len
 
 This operational intelligence reduces discovery costs for allocators.
 
-THE STEWARDSHIP FILTER Stewardship is treated not as philanthropy but as a discipline of non-wasteful resource management. For institutions with multi-generational mandates, capital stewardship aligns with the scriptural principle in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+THE STEWARDSHIP FILTER Stewardship is treated not as philanthropy but as a discipline of non-wasteful resource management. For institutions with multi-generational mandates, capital stewardship aligns with the scriptural principle in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * , emphasizing longevity, prudence, and structured allocation.
 
@@ -187,7 +185,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

@@ -37,9 +37,7 @@ The inability to mobilize cross border collateral in institutional form is now a
 
 The macro backdrop reinforces this.
 
-M and A pipelines in North America and Europe remain robust, but cross jurisdictional settlement has slowed by approximately
-
-28 percent since 2022.
+M and A pipelines in North America and Europe remain robust, but cross jurisdictional settlement has slowed by approximately 28 percent since 2022.
 
 Meanwhile, private credit allocators recorded their highest cash positions in more than a decade.
 
@@ -169,9 +167,7 @@ The stewardship lens prioritizes clarity of purpose over velocity of execution.
 
 Wealth mobility is a stewardship function.
 
-Capital that cannot move cannot serve. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Capital that cannot move cannot serve. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * outlines the principle that generational capital must be preserved and deployed with intentionality.
 

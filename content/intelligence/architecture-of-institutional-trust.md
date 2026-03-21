@@ -59,9 +59,7 @@ They are industrial processes with decades of operational data.
 
 A dual well configuration that uses thermal injection to mobilize bitumen.
 
-Recovery factors generally range from
-
-40 percent to 70 percent depending on reservoir permeability and steam oil ratio optimization.
+Recovery factors generally range from 40 percent to 70 percent depending on reservoir permeability and steam oil ratio optimization.
 
 - CSS.
 
@@ -197,9 +195,7 @@ It is an operational filter that determines whether a capital deployment framewo
 
 - Non wasteful governance.
 
-Stewardship requires that capital be treated as a finite resource. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Stewardship requires that capital be treated as a finite resource. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * establishes the principle of intergenerational responsibility.
 
@@ -263,7 +259,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

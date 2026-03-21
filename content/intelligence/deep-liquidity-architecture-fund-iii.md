@@ -95,9 +95,7 @@ Balance sheet weaponization refers to the ability to convert leverage into cost�
 
 Add‑on compression velocity measures the speed at which the platform converts small and mid‑scale acquisitions into operational yield.
 
-Downward dispersion risk refers to the GP’s capacity to prevent valuation bleed across intertwined subsidiaries. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Downward dispersion risk refers to the GP’s capacity to prevent valuation bleed across intertwined subsidiaries. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * : “A good man leaves an inheritance to his children’s children: but the wealth of the sinner is laid up for the just.” In institutional architecture this translates to continuity.
 
@@ -423,9 +421,7 @@ They demand the capacity to manufacture liquidity inside illiquid environments.
 
 Deliver this, and capital accelerates.
 
-Fail, and capital retreats. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Fail, and capital retreats. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * hangs here with institutional weight.
 
@@ -451,7 +447,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Request confidential capital audit.
 

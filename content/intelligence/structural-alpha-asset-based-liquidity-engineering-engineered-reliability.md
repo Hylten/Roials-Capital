@@ -135,9 +135,7 @@ This avoids model drift and ensures that engagements remain aligned with the all
 
 2.
 
-Market Navigation In North American energy, Roials Capital maintains an institutional
-
-INTRODUCTION partnership with NAEO, a group specializing in operationally disciplined heavy oil production across Alberta.
+Market Navigation In North American energy, Roials Capital maintains an institutional INTRODUCTION partnership with NAEO, a group specializing in operationally disciplined heavy oil production across Alberta.
 
 The Alberta basin is fundamentally misunderstood by generalized capital, yet the physics of SAGD, CSS, and long life heavy oil yield predictable decline curves and stable cash conversion.
 
@@ -167,9 +165,7 @@ Stewardship follows four filters:
 
 - Non wasteful deployment.
 
-Capital must move only when the asset profile justifies it. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Capital must move only when the asset profile justifies it. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * establishes the responsibility to structure resources for longevity rather than immediacy.
 

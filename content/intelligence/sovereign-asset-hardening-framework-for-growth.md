@@ -241,9 +241,7 @@ Key pillars include:
 
 Non Wasteful Allocation Capital must be deployed into environments where operational outputs are measurable and long term.
 
-This is consistent with "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+This is consistent with "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * and the multi generational ethos behind sovereign capital.
 

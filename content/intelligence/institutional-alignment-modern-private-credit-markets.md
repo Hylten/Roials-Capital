@@ -147,9 +147,7 @@ The partnership model is built on three pillars:
 
 - Governance alignment.
 
-THE STEWARDSHIP FILTER Stewardship is a discipline of non wasteful resource management. It is a capital philosophy aligned with "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+THE STEWARDSHIP FILTER Stewardship is a discipline of non wasteful resource management. It is a capital philosophy aligned with "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * and the ethics of intergenerational responsibility.
 
@@ -193,7 +191,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

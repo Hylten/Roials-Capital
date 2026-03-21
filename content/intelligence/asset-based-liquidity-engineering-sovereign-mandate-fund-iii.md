@@ -369,9 +369,7 @@ Every competitor without a sovereign Asset-Based Lending engine becomes operatio
 
 -
 
-# The Biblical Mandate: Inheritance and Hard Assets "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+# The Biblical Mandate: Inheritance and Hard Assets "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * states: A good man leaves an inheritance to his children’s children: wealth flows across generations through structured stewardship, not reactive management.
 
@@ -447,7 +445,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

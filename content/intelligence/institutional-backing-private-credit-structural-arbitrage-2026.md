@@ -39,9 +39,7 @@ The retreat is not based on asset quality deterioration but on regulatory risk w
 
 Energy capital expenditures remain materially below long-term replacement requirements.
 
-The International Energy Forum estimates a
-
-40 percent underinvestment gap relative to 2014 Capital Expenditure levels.
+The International Energy Forum estimates a 40 percent underinvestment gap relative to 2014 Capital Expenditure levels.
 
 This underinvestment is most pronounced in the conventional heavy oil segment in Alberta, where stable decline curves and long-life reserves remain unmatched by any other basin in North America.
 
@@ -179,9 +177,7 @@ It is a technical discipline grounded in the responsible deployment, recovery, a
 
 The theology of capital refers to the principle that capital is a resource that must be utilized with precision, intention, and non-wasteful discipline.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * articulates the expectation that resources must be preserved across generations.
 
@@ -251,7 +247,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

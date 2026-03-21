@@ -113,9 +113,7 @@ Low recovery signals structural weakness.
 
 High recovery signals control.
 
-When underwriting energy assets inside a 50M to 250M NAEOC envelope, anything below
-
-62 percent recovery under conservative impairment is a rejection.
+When underwriting energy assets inside a 50M to 250M NAEOC envelope, anything below 62 percent recovery under conservative impairment is a rejection.
 
 Private credit allocators respond to one thing.
 
@@ -226,9 +224,7 @@ THE STEWARDSHIP FILTER Abundance remains wasteful without discipline.
 
 Stewardship is not moral decoration.
 
-It is operational necessity. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+It is operational necessity. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * states that the righteous leave an inheritance to their children.
 
@@ -294,7 +290,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Request confidential capital audit.
 

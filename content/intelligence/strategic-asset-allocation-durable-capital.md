@@ -123,18 +123,13 @@ LTV Stability Curve The LTV stability curve measures the deviation threshold bet
 
 A stable asset is not one that grows.
 
-A stable asset is one that does not deviate beyond a
-9 percent volatility band.
+A stable asset is one that does not deviate beyond a 9 percent volatility band.
 
 The most durable businesses in Fund-III portfolios demonstrate three traits:
 
-- Cash conversion above
+- Cash conversion above 72 percent.
 
-72 percent.
-
-- Defensible receivables turnover within a
-
-10 percent range.
+- Defensible receivables turnover within a 10 percent range.
 
 - EBITDA reversion cycles shorter than
 
@@ -179,13 +174,9 @@ Energy, industrials, and equipment backed businesses outperform soft service mod
 
 This is why UHNWIs and private credit firms are redirecting capital toward asset-backed strategies.
 
-A recovery factor above
+A recovery factor above 54 percent behaves as insurance.
 
-54 percent behaves as insurance.
-
-A recovery factor below
-
-30 percent behaves as a liability.
+A recovery factor below 30 percent behaves as a liability.
 
 Durable capital is always anchored to recoverability.
 
@@ -277,9 +268,7 @@ Stewardship is not moral sentimentalism.
 
 Stewardship is the discipline that prevents waste.
 
-Waste destroys compounding. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Waste destroys compounding. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * establishes the principle of intergenerational capital transfer.
 
@@ -289,9 +278,7 @@ A Fund-III steward operates on three convictions:
 
 1.
 
-Capital is deployed only when survival probability exceeds
-
-94 percent.
+Capital is deployed only when survival probability exceeds 94 percent.
 
 This is not conservatism.
 
@@ -343,7 +330,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

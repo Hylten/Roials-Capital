@@ -189,9 +189,7 @@ It is a stewardship discipline.
 
 Stewardship is the systematic prevention of capital degradation, operational waste, and structural decay across assets and institutions.
 
-The theological foundation comes from "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+The theological foundation comes from "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * , where sustainability of resources across generations is treated as a moral obligation.
 
@@ -259,7 +257,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

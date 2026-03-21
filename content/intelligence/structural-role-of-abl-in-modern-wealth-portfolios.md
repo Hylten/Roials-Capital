@@ -75,17 +75,11 @@ LTV curve optimization Loan to Value ratios are not static percentages but curve
 
 Typical curves include:
 
-- 70 to
+- 70 to 90 percent for diversified receivables
 
-90 percent for diversified receivables
+- 40 to 60 percent for inventory with verified turnover
 
-- 40 to
-
-60 percent for inventory with verified turnover
-
-- 50 to
-
-75 percent for equipment with strong residual values Precision in LTV calibration produces predictable cash flow behavior across credit cycles.
+- 50 to 75 percent for equipment with strong residual values Precision in LTV calibration produces predictable cash flow behavior across credit cycles.
 
 3.
 
@@ -165,9 +159,7 @@ ABL naturally supports this principle through its collateral anchored structure.
 
 2.
 
-Moral clarity in resource management Stewardship integrates the principle articulated in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Moral clarity in resource management Stewardship integrates the principle articulated in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * which frames intergenerational capital as both responsibility and inheritance.
 

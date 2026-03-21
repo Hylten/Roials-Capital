@@ -137,9 +137,7 @@ Recovery Factors Collateral quality is not moral.
 
 Recovery factors dictate whether the institution can borrow silently without diluting governance.
 
-Functional recovery sits between
-
-38 percent and 82 percent depending on asset class.
+Functional recovery sits between 38 percent and 82 percent depending on asset class.
 
 Hard energy assets sit higher.
 
@@ -231,9 +229,7 @@ THE STEWARDSHIP FILTER Capital efficiency is not merely financial. It is moral.
 
 Waste is sin.
 
-Misallocated capital is misused stewardship. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Misallocated capital is misused stewardship. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * speaks of inheritance across generations.
 
@@ -297,7 +293,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

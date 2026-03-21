@@ -155,9 +155,7 @@ Institutional Navigation Capital providers require operational intelligence, jur
 
 Roials Capital provides this framework, enabling allocators to assess structures through a technical rather than promotional lens.
 
-THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful capital management. It is rooted in the principle found in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful capital management. It is rooted in the principle found in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * , where generational capital is allocated through wisdom and prudence.
 

@@ -143,9 +143,7 @@ Institutional structures require dynamic LTV bands tied to three signals:
 
 The structure protects the borrower from forced liquidations and protects the lender from capital impairment.
 
-A 40 percent LTV instrument at inception may drift to
-
-32 percent at the next monthly reset.
+A 40 percent LTV instrument at inception may drift to 32 percent at the next monthly reset.
 
 That is discipline.
 
@@ -297,9 +295,7 @@ It is entrusted.
 
 Public concentration without Capital Structuring violates stewardship because it elevates risk without increasing productivity.
 
-The Book of Proverbs warns: A good man leaves an inheritance to his children's children "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+The Book of Proverbs warns: A good man leaves an inheritance to his children's children "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * .
 
@@ -369,7 +365,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Request confidential capital audit.
 

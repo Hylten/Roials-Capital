@@ -127,9 +127,7 @@ For example:
 
 - Decline curves in these operations are governed by reservoir pressure differentials rather than pure depletion.
 
-- Recovery factors are calculable within narrow ranges, often between
-
-20 percent and 60 percent depending on reservoir structure and thermal performance.
+- Recovery factors are calculable within narrow ranges, often between 20 percent and 60 percent depending on reservoir structure and thermal performance.
 
 This predictability creates balance sheet stability.
 
@@ -207,9 +205,7 @@ Alignment with durable assets.
 
 Hard assets with measurable utility and predictable decline profiles create balance sheet durability.
 
-This is consistent with "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+This is consistent with "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * , which anchors stewardship in generational capital behavior.
 
@@ -247,7 +243,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

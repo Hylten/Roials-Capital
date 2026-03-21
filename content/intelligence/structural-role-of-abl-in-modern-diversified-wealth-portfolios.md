@@ -145,9 +145,7 @@ The ABL function supports Fund-III by enabling:
 
 THE STEWARDSHIP FILTER Stewardship is a discipline of non wasteful capital deployment. It is both an operational and moral framework.
 
-The allocator who applies a stewardship filter prioritizes capital structures that preserve value, prevent degradation, and reinforce the integrity of the underlying assets. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+The allocator who applies a stewardship filter prioritizes capital structures that preserve value, prevent degradation, and reinforce the integrity of the underlying assets. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * speaks to the generational logic of capital.
 

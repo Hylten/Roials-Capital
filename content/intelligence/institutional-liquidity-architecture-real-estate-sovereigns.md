@@ -144,9 +144,7 @@ Stewardship discipline includes
 
 - restructuring liabilities to avoid value destruction during refinancing cycles
 
-- advancing governance structures aligned with long term resource integrity The stewardship principle aligns with the idea in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+- advancing governance structures aligned with long term resource integrity The stewardship principle aligns with the idea in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * , where generational capital is preserved through disciplined decision structures rather than opportunistic risk taking.
 
@@ -172,7 +170,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

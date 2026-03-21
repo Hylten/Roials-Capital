@@ -135,9 +135,7 @@ Roials Capital serves as an institutional interpreter.
 
 The firm provides allocators with scenario analysis, counterparty vetting, capital stack diagnostics, and navigation across regulatory landscapes.
 
-THE STEWARDSHIP FILTER Stewardship governs the disciplined allocation of capital, ensuring resources are placed in structures that maximize durability, efficiency, and long-term societal benefit. This discipline aligns with the biblical principle articulated in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+THE STEWARDSHIP FILTER Stewardship governs the disciplined allocation of capital, ensuring resources are placed in structures that maximize durability, efficiency, and long-term societal benefit. This discipline aligns with the biblical principle articulated in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * , where the emphasis is on long-term inheritance and intergenerational responsibility.
 
@@ -171,7 +169,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

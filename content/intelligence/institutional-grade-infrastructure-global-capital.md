@@ -181,9 +181,7 @@ THE STEWARDSHIP FILTER Stewardship is an operating principle. Waste is a moral f
 
 Theology of capital is engineering of capital.
 
-Capital must be allocated with intentionality, discipline, and operational truth. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Capital must be allocated with intentionality, discipline, and operational truth. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * sets the standard: value must endure beyond the operator.
 
@@ -211,9 +209,7 @@ It is achieved through order.
 
 Order is an act of stewardship.
 
-EXIT Our mandate is simple: reduce capital friction by
-
-87 percent across the fund structure and raise the throughput rate of institutional commitments by 3.
+EXIT Our mandate is simple: reduce capital friction by 87 percent across the fund structure and raise the throughput rate of institutional commitments by 3.
 4 times.
 
 For a confidential capital audit, initiate contact.
@@ -224,7 +220,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

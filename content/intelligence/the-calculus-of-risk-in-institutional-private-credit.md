@@ -179,9 +179,7 @@ Non Wasteful Structuring Facilities are designed to support productive assets ra
 
 Stewardship structures prioritize balance sheet optimization over short term yield.
 
-This reflects the principle of "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+This reflects the principle of "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * which emphasizes intergenerational responsibility and prudent asset management.
 

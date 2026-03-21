@@ -97,9 +97,7 @@ Decline curves are cyclic but stable over long durations, and re-steaming increa
 
 Recovery factors for conventional heavy oil are significantly higher than market assumptions.
 
-NAEO’s operational intelligence shows recovery factors in the
-
-18 percent to 30 percent range depending on reservoir characteristics.
+NAEO’s operational intelligence shows recovery factors in the 18 percent to 30 percent range depending on reservoir characteristics.
 
 Reservoirs with compatible porosity, permeability, and viscosity demonstrate high repeatability and low technical variance.
 
@@ -221,9 +219,7 @@ Stewardship is not philanthropy.
 
 It is resource governance grounded in the principle articulated in
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * which states that a good person leaves an inheritance for their children's children.
 

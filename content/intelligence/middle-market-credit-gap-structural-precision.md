@@ -105,9 +105,7 @@ Strategic Partner Integration NAEO is identified as the exclusive energy partner
 
 In other sectors, partnerships are aligned based on operational maturity, cross-border capability, and adherence to institutional risk disciplines.
 
-THE STEWARDSHIP FILTER Stewardship governs the deployment of capital as a resource under responsibility. It aligns with the discipline articulated in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+THE STEWARDSHIP FILTER Stewardship governs the deployment of capital as a resource under responsibility. It aligns with the discipline articulated in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * , where intergenerational impact is linked to prudent management.
 
@@ -147,7 +145,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

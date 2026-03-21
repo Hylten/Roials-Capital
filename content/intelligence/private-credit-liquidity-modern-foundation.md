@@ -151,9 +151,7 @@ Special Mandates The special mandate architecture includes:
 
 - EU MiFID II qualifying acquisition strategies under regulated structures The firm acts as the institutional introducer, ensuring strategic alignment between the capital provider and the operator.
 
-THE STEWARDSHIP FILTER Stewardship is treated as a discipline rather than a concept. It is the systemic avoidance of waste within capital systems. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+THE STEWARDSHIP FILTER Stewardship is treated as a discipline rather than a concept. It is the systemic avoidance of waste within capital systems. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * defines this principle as intergenerational stewardship through resource continuity.
 

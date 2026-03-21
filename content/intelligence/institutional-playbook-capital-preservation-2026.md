@@ -102,12 +102,8 @@ Capital preservation is achieved when liquidity pull does not exceed the durabil
 
 The relevant metric is yield to liquidity ratio.
 
-A PE fund that produces a
-
-24 percent IRR but locks capital for
-7 years without interim liquidity is inferior to a
-
-16 percent platform producing quarterly liquidity via industrial or energy cash flow engines.
+A PE fund that produces a 24 percent IRR but locks capital for
+7 years without interim liquidity is inferior to a 16 percent platform producing quarterly liquidity via industrial or energy cash flow engines.
 
 Yield to liquidity curve modeling includes:
 
@@ -167,17 +163,13 @@ Each asset is paired with a
 
 Cash flow characteristics:
 
-- 12 to
-
-16 percent gross yield.
+- 12 to 16 percent gross yield.
 
 - Quarterly distributions.
 
 - No sensitivity to commodity spot price due to fixed take or pay structures.
 
-- 72 to
-
-88 percent advance rate availability through specialized asset backed financing for businesses in the energy logistics sector.
+- 72 to 88 percent advance rate availability through specialized asset backed financing for businesses in the energy logistics sector.
 
 Capital preservation mechanism: Energy cash flows produce predictable liquidity.
 
@@ -248,9 +240,7 @@ This is institutional preservation in practice.
 
 4.
 
-STEWARDSHIP FILTER: ALIGNING WITH THE VALUES OF STEWARDSHIP, GNOSJÖ, AND TECHNICAL EDGE Stewardship requires alignment with the biblical principle of "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+STEWARDSHIP FILTER: ALIGNING WITH THE VALUES OF STEWARDSHIP, GNOSJÖ, AND TECHNICAL EDGE Stewardship requires alignment with the biblical principle of "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * which states that a good man leaves an inheritance for his children's children.
 
@@ -324,7 +314,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

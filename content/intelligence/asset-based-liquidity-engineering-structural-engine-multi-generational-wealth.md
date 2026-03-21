@@ -199,9 +199,7 @@ THE STEWARDSHIP FILTER Stewardship is the discipline that integrates financial p
 
 It is not austerity.
 
-It is the deliberate management of capital in a manner that respects longevity, continuity, and intergenerational responsibility. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+It is the deliberate management of capital in a manner that respects longevity, continuity, and intergenerational responsibility. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * states that a good person leaves an inheritance for their grandchildren.
 
@@ -257,7 +255,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

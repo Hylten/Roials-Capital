@@ -107,9 +107,7 @@ Standard ranges:
 
 45 to 60 percent.
 
-- Basket collateral with
-
-70 percent tier one assets:
+- Basket collateral with 70 percent tier one assets:
 
 50 to 65 percent.
 
@@ -238,9 +236,7 @@ Not noise.
 
 THE STEWARDSHIP FILTER Borderless collateral is not a shortcut. It is a stewardship mandate.
 
-Capital must not be wasted. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Capital must not be wasted. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * defines the responsibility with precision.
 
@@ -290,7 +286,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

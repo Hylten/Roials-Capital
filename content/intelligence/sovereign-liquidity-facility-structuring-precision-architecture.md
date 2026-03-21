@@ -57,9 +57,7 @@ Risk is not avoided.
 
 Risk is domesticated.
 
-The facility is the cage. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+The facility is the cage. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * : capital flows to the prepared inheritor.
 
@@ -185,9 +183,7 @@ For Fund‑III, the facility is the institutional heart.
 
 The only point that cannot fail.
 
-Capital raising (kapitalanskaffning) absorbs
-
-80 percent of the institutional bandwidth.
+Capital raising (kapitalanskaffning) absorbs 80 percent of the institutional bandwidth.
 
 Asset-Based Lending consumes 10 percent.
 
@@ -531,9 +527,7 @@ It attracts sovereign wealth.
 
 It commands respect.
 
-The facility becomes the GP’s inheritance. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+The facility becomes the GP’s inheritance. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * .
 
@@ -575,7 +569,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

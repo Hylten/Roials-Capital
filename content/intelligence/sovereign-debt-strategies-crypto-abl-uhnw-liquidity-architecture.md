@@ -215,9 +215,7 @@ Liquidity is not pursued to increase leverage.
 
 It is pursued to maintain strategic optionality and avoid unnecessary asset liquidation.
 
-This reflects the principle in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+This reflects the principle in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * which highlights the enduring nature of multigenerational capital.
 

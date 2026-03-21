@@ -207,9 +207,7 @@ Allocators require full visibility into cash flow waterfalls, capital stack seni
 
 Intergenerational Alignment.
 
-Capital must be managed with a long horizon orientation in accordance with "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Capital must be managed with a long horizon orientation in accordance with "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * .
 

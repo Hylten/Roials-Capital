@@ -187,9 +187,7 @@ THE STEWARDSHIP FILTER The future of sovereign capital infrastructure requires c
 
 It is the discipline of non wasteful resource allocation across time.
 
-This form of stewardship aligns with the theology of capital where resources are understood as entrusted rather than possessed. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+This form of stewardship aligns with the theology of capital where resources are understood as entrusted rather than possessed. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * states that a good person leaves an inheritance for future generations.
 
@@ -249,7 +247,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

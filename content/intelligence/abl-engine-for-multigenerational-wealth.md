@@ -15,9 +15,7 @@ A chassis, not an account.
 
 A system, not a hope.
 
-Legacy families understood the principle before modern financial engineering gave it language. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Legacy families understood the principle before modern financial engineering gave it language. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * describes THE MANDAT
 
@@ -340,7 +338,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Request confidential capital audit.
 

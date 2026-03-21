@@ -161,9 +161,7 @@ If the LP base is unstable, sovereigns disengage.
 
 2.
 
-Asset-Based Lending and Strategic Collateralization at
-
-10 percent Every portfolio company becomes a liquidity instrument.
+Asset-Based Lending and Strategic Collateralization at 10 percent Every portfolio company becomes a liquidity instrument.
 
 The GP must demonstrate mastery of Asset-Based Lending sequencing.
 
@@ -221,9 +219,7 @@ Sovereign committees do not articulate this theology, but they operate inside it
 
 They reward GPs who demonstrate resource discipline.
 
-They withdraw from those who do not. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+They withdraw from those who do not. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * defines the continuity logic of stewardship: A good man leaves an inheritance to his children's children.
 
@@ -283,7 +279,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

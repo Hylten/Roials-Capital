@@ -177,9 +177,7 @@ It is a technical partner that maps operational truth to institutional capital f
 
 THE STEWARDSHIP FILTER Stewardship is not a moral abstraction. It is a capital discipline defined by precision, non wasteful allocation, and long duration orientation.
 
-The framework draws from principles such as "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+The framework draws from principles such as "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * which emphasizes generational foresight and responsible management.
 
@@ -249,7 +247,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

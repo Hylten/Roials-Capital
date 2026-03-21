@@ -85,9 +85,7 @@ Bitcoin LTV is not a single number.
 
 It is a curve.
 
-At low-volatility bands and high liquidity density, LTV can expand to
-
-55 percent without risk contamination.
+At low-volatility bands and high liquidity density, LTV can expand to 55 percent without risk contamination.
 
 In stress environments, the curve collapses to
 
@@ -245,9 +243,7 @@ Fund-III platforms fail when capital structure exceeds operational reality.
 
 The theology of capital is simple.
 
-Stewardship requires alignment between creation, preservation, and multiplication. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Stewardship requires alignment between creation, preservation, and multiplication. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * .
 
@@ -289,9 +285,7 @@ is precise.
 
 Construct a liquidity architecture with a collateral efficiency ratio of 0.
 
-74 or higher and a
-
-92 percent execution predictability across jurisdictions.
+74 or higher and a 92 percent execution predictability across jurisdictions.
 
 TECHNICAL MANDATE 
 
@@ -299,7 +293,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Request confidential capital audit.
 

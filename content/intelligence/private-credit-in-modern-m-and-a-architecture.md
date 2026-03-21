@@ -97,9 +97,7 @@ It amplifies senior debt.
 
 It is the liquidity counterpart to sponsor equity discipline.
 
-In a Fund-III context, ABL often releases between
-
-10 percent and 18 percent of latent liquidity, reducing sponsor equity burn and preserving future acquisition capacity.
+In a Fund-III context, ABL often releases between 10 percent and 18 percent of latent liquidity, reducing sponsor equity burn and preserving future acquisition capacity.
 
 4.
 
@@ -141,9 +139,7 @@ The architecture prioritizes:
 
 - Opportunity calibration that filters transactions through the Institutional Archetype most suited to the underlying assets.
 
-THE STEWARDSHIP FILTER Stewardship is not a branding exercise. It is a capital discipline. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+THE STEWARDSHIP FILTER Stewardship is not a branding exercise. It is a capital discipline. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * frames the principle: multi generational planning built on asset stewardship, not extraction.
 

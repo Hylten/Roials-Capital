@@ -47,9 +47,7 @@ Yield sovereignty.
 
 Structural defensibility.
 
-Kapitalanskaffning as architecture, not marketing. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Kapitalanskaffning as architecture, not marketing. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * stands as a reminder: A good man leaves an inheritance to his children’s children: but the wealth of the sinner is laid up for the just.
 
@@ -399,9 +397,7 @@ CLOSE ON PRINCIPAL AUTHORITY Decentralized private credit is not a trend. It is 
 
 The institutions that adopt it dominate.
 
-The institutions that delay become price takers. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+The institutions that delay become price takers. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * is not a moral verse in this context.
 
@@ -426,7 +422,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

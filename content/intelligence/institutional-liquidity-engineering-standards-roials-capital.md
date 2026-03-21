@@ -37,9 +37,7 @@ The framework below defines the institutional standards that govern every Asset-
 
 This is not a template.
 
-It is a jurisdictional blueprint for allocators who operate above retail noise and below sovereign glare. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+It is a jurisdictional blueprint for allocators who operate above retail noise and below sovereign glare. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * .
 
@@ -522,7 +520,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

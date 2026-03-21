@@ -81,9 +81,7 @@ The mechanics operate along three axes:
 
 LTV CURVES Tokenized units allow LTV curves to be recalibrated in real time as new data flows in from property operations, insurance events, third party valuations, or covenant performance.
 
-A standard 55 percent LTV on stabilized multifamily can be pulled to
-
-62 percent without increasing risk if the lender receives real time operational proof rather than quarterly reporting.
+A standard 55 percent LTV on stabilized multifamily can be pulled to 62 percent without increasing risk if the lender receives real time operational proof rather than quarterly reporting.
 
 The firm uses LTV as a precision instrument.
 
@@ -189,9 +187,7 @@ THE STEWARDSHIP FILTER Stewardship is not sentiment. It is the disciplined avoid
 
 Capital misallocated is capital violated.
 
-The firm applies a stewardship filter to every deployment decision. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+The firm applies a stewardship filter to every deployment decision. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * sets the template.
 
@@ -230,7 +226,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Request confidential capital audit.
 

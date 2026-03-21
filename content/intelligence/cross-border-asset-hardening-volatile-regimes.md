@@ -47,9 +47,7 @@ Today, risk is redistributed by legislative motion.
 
 That makes geographic concentration the new exposure.
 
-Enforcement timelines now vary by more than
-
-600 percent across OECD adjacent markets.
+Enforcement timelines now vary by more than 600 percent across OECD adjacent markets.
 
 Currency defence strategies diverge by ideological preference rather than macro fundamentals.
 
@@ -99,9 +97,7 @@ LTV curves.
 
 Cross-border LTV dynamics behave differently because recovery velocity becomes a more defining variable than asset class quality.
 
-A 52 percent LTV in a high recovery jurisdiction may outperform a
-
-35 percent LTV in a slow enforcement jurisdiction.
+A 52 percent LTV in a high recovery jurisdiction may outperform a 35 percent LTV in a slow enforcement jurisdiction.
 
 That contradicts traditional conservatism.
 
@@ -237,9 +233,7 @@ It is a command.
 
 Wealth requires governance because resources left ungoverned decay.
 
-Biblical stewardship elevates clarity above spectacle. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Biblical stewardship elevates clarity above spectacle. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * describes the continuity of ordered capital across generations.
 
@@ -293,7 +287,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

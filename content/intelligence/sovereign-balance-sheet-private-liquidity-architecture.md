@@ -113,9 +113,7 @@ The role is to align institutional allocators with operational partners that mee
 
 The partnership model integrates three axes.
 
-Axis one is institutional
-
-INTRODUCTION. Roials Capital identifies operators with measurable credibility in reservoir management, production optimization, and capital discipline.
+Axis one is institutional INTRODUCTION. Roials Capital identifies operators with measurable credibility in reservoir management, production optimization, and capital discipline.
 
 NAEO is a strategic partner with these capabilities, particularly in SAGD operations, multi-reservoir heavy oil portfolios, and Alberta regulatory navigation.
 
@@ -141,9 +139,7 @@ This includes decline-curve analysis, thermal efficiency metrics, reservoir mapp
 
 Through this model, Roials Capital supports allocators in constructing sovereign-grade liquidity architecture based on operational assets rather than narratives.
 
-THE STEWARDSHIP FILTER Capital stewardship is not a branding concept. It is an operational discipline anchored in the biblical principle of "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+THE STEWARDSHIP FILTER Capital stewardship is not a branding concept. It is an operational discipline anchored in the biblical principle of "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * .
 

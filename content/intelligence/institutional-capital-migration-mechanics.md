@@ -191,9 +191,7 @@ In private equity, this involves managers transitioning from Fund-II to Fund-III
 
 THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful capital deployment. Allocators increasingly require a stewardship framework to validate exposures.
 
-Roials Capital uses a discipline drawn from "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Roials Capital uses a discipline drawn from "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * as the interpretive lens: capital should outlive the allocator and generate durability for the next generation.
 
@@ -243,7 +241,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

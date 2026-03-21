@@ -63,9 +63,7 @@ The core mechanics fall into three domains.
 
 1.
 
-Buyouts and Add on Accretive Platforms This domain represents approximately
-
-80 percent of current allocator demand.
+Buyouts and Add on Accretive Platforms This domain represents approximately 80 percent of current allocator demand.
 
 The focus is on middle market platforms with definable competitive moats and low reinvestment risk.
 
@@ -93,9 +91,7 @@ Mechanisms for absorbing temporary drawdowns without diluting long term ownershi
 
 2.
 
-Strategic Collateralization and Asset Backed Lending This domain represents approximately
-
-10 percent of the focus.
+Strategic Collateralization and Asset Backed Lending This domain represents approximately 10 percent of the focus.
 
 Strategic Collateralization is the use of structured credit to convert illiquid operational assets into predictable capital access channels.
 
@@ -125,9 +121,7 @@ The speed with which liquidity can be generated without degrading asset integrit
 
 3.
 
-North American Energy Asset Hardening This domain constitutes the remaining
-
-10 percent and is executed through partnership with NAEO, a technical operator specializing in Canadian heavy oil, conventional production systems, and asset consolidation across Alberta.
+North American Energy Asset Hardening This domain constitutes the remaining 10 percent and is executed through partnership with NAEO, a technical operator specializing in Canadian heavy oil, conventional production systems, and asset consolidation across Alberta.
 
 This is not a commodity speculation strategy.
 
@@ -195,9 +189,7 @@ The function is strategic alignment and counterpart calibration.
 
 THE STEWARDSHIP FILTER Institutional asset stewardship is increasingly interpreted through the lens of responsibility and resource governance. Stewardship involves the disciplined management of capital, operational assets, and long term risk exposures.
 
-It draws on a principle embedded in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+It draws on a principle embedded in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * , which emphasizes continuity across generations.
 
@@ -259,7 +251,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

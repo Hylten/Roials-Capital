@@ -121,9 +121,7 @@ THE STEWARDSHIP FILTER Stewardship is the systematic discipline of deploying cap
 
 Monetization Architecture is a stewardship tool because it minimizes waste created by timing mismatches, collateral inefficiencies, and reserve fragmentation.
 
-Scripture speaks directly to this principle. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Scripture speaks directly to this principle. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * affirms that legacy is dependent on disciplined resource management. **Matthew 25:21
 
@@ -173,7 +171,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

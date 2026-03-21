@@ -13,9 +13,7 @@ THE REGIME SHIFT The current regime shift can be defined by three convergent pre
 
 The North American energy ecosystem has entered a multi year efficiency
 
-# Phase D: riven by underinvestment rather than overproduction. Since 2015, upstream and midstream operators have reduced capex intensity more than
-
-40 percent while simultaneously extending productive life across legacy assets with stable decline curves.
+# Phase D: riven by underinvestment rather than overproduction. Since 2015, upstream and midstream operators have reduced capex intensity more than 40 percent while simultaneously extending productive life across legacy assets with stable decline curves.
 
 Supply dynamics are not keeping pace with demand normalization.
 
@@ -139,9 +137,7 @@ Stewardship is not sentiment.
 
 It is an operational framework that prevents capital dissipation and compels disciplined decision making.
 
-Mature energy fields, industrial businesses, and hard asset platforms demand stewards, not speculators. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Mature energy fields, industrial businesses, and hard asset platforms demand stewards, not speculators. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * positions resource transfer as an intergenerational principle.
 
@@ -189,7 +185,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

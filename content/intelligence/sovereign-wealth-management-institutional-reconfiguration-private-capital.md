@@ -152,9 +152,7 @@ It is the architect that organizes the institutional ecosystem around operators,
 
 THE STEWARDSHIP FILTER Stewardship is the discipline of resource management grounded in non wasteful capital deployment.
 
-It aligns with the theological principle in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+It aligns with the theological principle in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * which states that a good person leaves an inheritance for the next generation.
 

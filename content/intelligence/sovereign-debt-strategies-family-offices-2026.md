@@ -144,9 +144,7 @@ This sequencing protects capital integrity while enabling data driven decision m
 
 THE STEWARDSHIP FILTER Sovereign debt allocation is not merely an economic decision. It is a stewardship decision.
 
-The principle of stewardship defined as non wasteful, disciplined management of the resources entrusted to the family aligns with the biblical framework of "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+The principle of stewardship defined as non wasteful, disciplined management of the resources entrusted to the family aligns with the biblical framework of "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * which emphasizes the intergenerational responsibility of capital.
 

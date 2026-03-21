@@ -179,9 +179,7 @@ The objective is clarity, not solicitation.
 
 THE STEWARDSHIP FILTER Stewardship is a capital discipline anchored in non wasteful resource management. It is a theology of capital, not a marketing principle.
 
-Stewardship prioritizes durability, transparency, and long horizon responsibility. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Stewardship prioritizes durability, transparency, and long horizon responsibility. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * references the generational responsibility inherent in resource management.
 
@@ -235,7 +233,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

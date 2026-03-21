@@ -51,9 +51,7 @@ The technical signatures include:
 
 - Reservoir homogeneity that reduces operational noise and improves predictability.
 
-- Recovery factors in the
-
-30 percent to 70 percent band for SAGD pairs with established history.
+- Recovery factors in the 30 percent to 70 percent band for SAGD pairs with established history.
 
 - Decline rates that demonstrate low volatility due to thermal assisted mobility rather than primary depletion dynamics.
 
@@ -135,9 +133,7 @@ THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful capital dep
 
 It is a technical regime that prevents resource leakage across jurisdictions, balance sheets, and operational cycles.
 
-The foundation is the principle articulated in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+The foundation is the principle articulated in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * which defines stewardship as multi generational asset transfer.
 

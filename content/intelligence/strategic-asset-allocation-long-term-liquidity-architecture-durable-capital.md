@@ -147,9 +147,7 @@ It is the operational predictability derived from known reservoir behavior and e
 
 THE PARTNERSHIP MODEL: Roials Capital AS STRATEGIC NAVIGATOR The contemporary allocator does not seek product distribution.
 
-The demand is for strategic alignment and institutional
-
-INTRODUCTION. Roials Capital operates within this expectation by maintaining a neutral architecture built around three functions.
+The demand is for strategic alignment and institutional INTRODUCTION. Roials Capital operates within this expectation by maintaining a neutral architecture built around three functions.
 
 1.
 
@@ -189,9 +187,7 @@ Key principles:
 
 - Accountability loops: Reporting and verification must be consistent with institutional oversight requirements.
 
-The moral dimension is recognized in operational frameworks such as "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+The moral dimension is recognized in operational frameworks such as "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * , emphasizing generational capital clarity and responsibility.
 

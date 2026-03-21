@@ -116,9 +116,7 @@ LTV is never flat.
 
 It shifts with jurisdictional enforcement velocity, asset class hardening, and regulatory harmonization.
 
-Fund-III targets 42 to
-
-63 percent hard-asset collateralization in Asset-Based Lending structures, with lower convexity spread in MiFID II regions and higher convexity spread in NAEOC corridors due to geological fixed asset durability.
+Fund-III targets 42 to 63 percent hard-asset collateralization in Asset-Based Lending structures, with lower convexity spread in MiFID II regions and higher convexity spread in NAEOC corridors due to geological fixed asset durability.
 
 Cash-Flow Waterfalls We use zero-ambiguity waterfalls.
 
@@ -199,9 +197,7 @@ Midstream equipment needs asset hardening.
 
 MiFID II acquisitions require transparency pathways and documentation integrity.
 
-Roials Capital builds proprietary compliance stacks that reduce the cost and timeline of EU regulatory alignment by an average of
-
-27 percent across mandates.
+Roials Capital builds proprietary compliance stacks that reduce the cost and timeline of EU regulatory alignment by an average of 27 percent across mandates.
 
 We do not optimize for convenience.
 
@@ -221,9 +217,7 @@ Companies that rely on regulatory subsidies are excluded.
 
 Structures that depend on political leniency are eliminated.
 
-Fund-III uses a theological protocol rooted in the principle of inheritance. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Fund-III uses a theological protocol rooted in the principle of inheritance. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * defines it: the good transfers resources across generations.
 
@@ -253,7 +247,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Request confidential capital audit.
 

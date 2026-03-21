@@ -103,9 +103,7 @@ The objective is to engineer a collateral stack that maximizes transaction stabi
 
 THE STEWARDSHIP FILTER Stewardship in capital architecture refers to the disciplined allocation of resources toward productive and durable outcomes. It is the opposite of speculative deployment.
 
-The guiding principle is derived from "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+The guiding principle is derived from "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * which frames capital as an intergenerational instrument that must be protected, strengthened, and directed with precision.
 

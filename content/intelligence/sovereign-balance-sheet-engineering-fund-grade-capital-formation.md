@@ -233,9 +233,7 @@ Proper stewardship maintains the integrity of the asset.
 
 Avoidance of speculative leverage Sovereign style engineering avoids unnecessary fragility.
 
-Leverage is used only when it increases stability rather than risk. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Leverage is used only when it increases stability rather than risk. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * identifies the multi generational responsibility inherent in capital.
 

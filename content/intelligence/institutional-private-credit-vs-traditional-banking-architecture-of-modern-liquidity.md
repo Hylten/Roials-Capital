@@ -167,9 +167,7 @@ Capital is not used to compensate for structural inefficiencies.
 
 Balance sheet optimization Operators must demonstrate the ability to manage leverage without eroding asset stability.
 
-This aligns with the principle in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+This aligns with the principle in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * , where the preservation of generational value is linked to disciplined management.
 
@@ -225,7 +223,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

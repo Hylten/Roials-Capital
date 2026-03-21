@@ -43,12 +43,9 @@ Institutional allocators evaluating these assets often underestimate the mechani
 
 For instance:
 
-- Cold flow assets often maintain
-8 percent to 12 percent annual declines, enabling long term production modeling with minimal variance.
+- Cold flow assets often maintain 8 percent to 12 percent annual declines, enabling long term production modeling with minimal variance.
 
-- SAGD recovery factors commonly range between
-
-45 percent and 65 percent of original bitumen in place when reservoir design is optimized.
+- SAGD recovery factors commonly range between 45 percent and 65 percent of original bitumen in place when reservoir design is optimized.
 
 - CSS deployment increases operational complexity but can substantially extend economic life where reservoir pressure characteristics support repeated cycles.
 
@@ -108,9 +105,7 @@ This includes:
 
 THE STEWARDSHIP FILTER Stewardship operates as a discipline rather than an ethos. In evaluating multi jurisdictional asset structures, stewardship translates into non wasteful capital deployment, precision in resource management, and governance that aligns authority with responsibility.
 
-It draws from the principle in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+It draws from the principle in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * where long term value creation is connected to generational discipline.
 
@@ -138,9 +133,7 @@ The next stage is not transactional.
 
 It requires a confidential strategy audit to align structural architecture, jurisdictional exposure, and operational cadence.
 
-Roials Capital provides the navigational intelligence and institutional
-
-INTRODUCTION pathways to support this alignment across energy, private credit, and multi jurisdictional acquisitions.
+Roials Capital provides the navigational intelligence and institutional INTRODUCTION pathways to support this alignment across energy, private credit, and multi jurisdictional acquisitions.
 
 Access is restricted to approved mandates.
 

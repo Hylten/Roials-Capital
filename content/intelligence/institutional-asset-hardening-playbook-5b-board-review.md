@@ -31,9 +31,7 @@ Layered.
 
 Audit-proof.
 
-Board-ready. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Board-ready. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * .
 
@@ -232,9 +230,7 @@ Financial hardening creates durability.
 
 Durability compels capital.
 
-Jurisdictional Hardening A $5B board review is
-
-40 percent legal.
+Jurisdictional Hardening A $5B board review is 40 percent legal.
 
 40 percent regulatory.
 
@@ -562,7 +558,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Request confidential capital audit.
 

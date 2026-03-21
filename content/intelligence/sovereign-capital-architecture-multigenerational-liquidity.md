@@ -63,9 +63,7 @@ ENERGY SYSTEM MECHANICS (NAEO MANDATE) The Alberta heavy oil domain operates on 
 
 - SAGD, CSS, and waterflood systems provide predictable, physics-governed decline curves
 
-- Recovery factors in conventional reservoirs often reach
-
-12 percent to 18 percent with strong improvement potential when proper steam dynamics and reservoir management are applied
+- Recovery factors in conventional reservoirs often reach 12 percent to 18 percent with strong improvement potential when proper steam dynamics and reservoir management are applied
 
 - Vertical wellbores create a naturally constrained interference pattern, reducing variance and improving operational predictability
 
@@ -163,9 +161,7 @@ Ensure that stewardship-driven capital is deployed into assets with measurable p
 
 NAEO's operational track record and field-level intelligence meet institutional governance expectations.
 
-Roials Capital provides the institutional
-
-INTRODUCTION and alignment calibration.
+Roials Capital provides the institutional INTRODUCTION and alignment calibration.
 
 Across buyouts, private credit, ABL, and cross-border acquisition frameworks, Roials Capital maintains neutrality.
 
@@ -179,9 +175,7 @@ THE STEWARDSHIP FILTER The Sovereign Capital Architecture sits within a stewards
 
 Stewardship is the discipline of non-wasteful resource management.
 
-It is rooted in the principle that capital must strengthen households, communities, and intergenerational stability. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+It is rooted in the principle that capital must strengthen households, communities, and intergenerational stability. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * establishes the template: A good person leaves an inheritance to their children's children.
 

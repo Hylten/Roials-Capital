@@ -179,9 +179,7 @@ Key principles include:
 
 Capital must be allocated to operators who manage their reserves, teams, and infrastructure with restraint, discipline, and measurable efficiency.
 
-This aligns with the principles articulated in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+This aligns with the principles articulated in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * , which emphasizes the intergenerational responsibilities of capital holders.
 

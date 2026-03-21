@@ -48,9 +48,7 @@ Institutional.
 
 Precision‑driven.
 
-The lens is allocator psychology and GP positioning. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+The lens is allocator psychology and GP positioning. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * : capital must outlive the architect.
 
@@ -565,7 +563,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

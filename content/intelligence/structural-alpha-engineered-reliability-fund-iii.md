@@ -47,9 +47,7 @@ Tighter sequence control.
 
 Pipeline centered on buyouts, add-ons, and acquisition roll-ups across regulated and semi-regulated domains.
 
-The brief below clarifies the institutional design, the structural mechanisms, and the alpha-generation logic underpinning the next capital cycle. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+The brief below clarifies the institutional design, the structural mechanisms, and the alpha-generation logic underpinning the next capital cycle. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * applies: A good man leaves an inheritance to his children's children.
 
@@ -349,9 +347,7 @@ The principal voice is simple: Hard assets.
 
 Hard systems.
 
-Hard returns. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Hard returns. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * confirms THE MANDAT
 
@@ -383,7 +379,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

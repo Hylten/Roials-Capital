@@ -251,9 +251,7 @@ THE STEWARDSHIP FILTER Stewardship is not a marketing concept.
 
 It is a discipline within capital allocation that evaluates the degree to which capital is employed in a manner consistent with non wasteful resource management.
 
-This discipline aligns with the Biblical principle that a good person leaves an inheritance for future generations "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+This discipline aligns with the Biblical principle that a good person leaves an inheritance for future generations "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * .
 

@@ -83,9 +83,7 @@ Sovereign crypto banks collateralize state assets on-chain with enforced access 
 
 When default occurs, the system executes the recovery without delay.
 
-This produces recovery factors that often exceed
-
-80 percent because the legal vector is replaced by algorithmic enforcement.
+This produces recovery factors that often exceed 80 percent because the legal vector is replaced by algorithmic enforcement.
 
 Private credit structures that integrate similar mechanics will outperform both banks and non-bank lenders within two cycles.
 
@@ -155,9 +153,7 @@ A private allocator must treat capital with the same reverence.
 
 Waste is sin.
 
-Disorder is sin. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Disorder is sin. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * sets THE MANDAT
 
@@ -205,7 +201,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

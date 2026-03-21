@@ -238,9 +238,7 @@ Stewardship is not sentiment.
 
 It is operational theology.
 
-Waste is the greatest threat to compounding. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Waste is the greatest threat to compounding. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * states that a good man leaves an inheritance for his children's children.
 
@@ -292,9 +290,7 @@ Strong lenders embed it.
 
 For Fund-III, exit clarity flows from measurable indicators.
 
-The final metric: recovery predictability above
-
-78 percent portfolio wide.
+The final metric: recovery predictability above 78 percent portfolio wide.
 
 Set the benchmark.
 
@@ -306,7 +302,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Request confidential capital audit.
 

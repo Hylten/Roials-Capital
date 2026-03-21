@@ -145,9 +145,7 @@ In Europe, MiFID II aligned acquisition strategies require compliant structuring
 
 Roials Capital supports by ensuring that institutional governance, counterparty quality, and regulatory alignment are maintained.
 
-THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management. It is a framework, not a slogan. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management. It is a framework, not a slogan. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * articulates that intergenerational capital requires governance aligned with enduring principles.
 

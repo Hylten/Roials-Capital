@@ -141,9 +141,7 @@ Stewardship in practice includes:
 
 - maintaining uncorrelated liquidity reserves to protect the portfolio during external volatility.
 
-The theology of capital is grounded in stewardship principles articulated in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+The theology of capital is grounded in stewardship principles articulated in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * .
 
@@ -181,7 +179,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

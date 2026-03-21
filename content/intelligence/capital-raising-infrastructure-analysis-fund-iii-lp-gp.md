@@ -153,9 +153,7 @@ Operational Accountability Allocators evaluate the capacity of a GP to translate
 
 3.
 
-Ethical Deployment A theology of capital grounded in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Ethical Deployment A theology of capital grounded in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * emphasizes multi-generational positioning.
 
@@ -207,7 +205,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

@@ -19,9 +19,7 @@ Markets fail when capital is fragile.
 
 Only hardened capital survives cycles, wars, dislocations, and liquidity droughts.
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * : A good man leaveth an inheritance to his children’s children.
 
@@ -385,9 +383,7 @@ Not in the family sense, but in the institutional sense.
 
 Every fund generation must be stronger than the last.
 
-Every cycle must produce more resilience. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Every cycle must produce more resilience. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * : the inheritance extends across generations.
 
@@ -521,7 +517,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Request confidential capital audit.
 

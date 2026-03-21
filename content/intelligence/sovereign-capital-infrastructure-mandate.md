@@ -103,9 +103,7 @@ They model political acceptability.
 
 That destroys credit efficiency.
 
-An oil and gas field with
-
-32 percent natural decline rate and stabilized lifting costs does not care about electoral cycles.
+An oil and gas field with 32 percent natural decline rate and stabilized lifting costs does not care about electoral cycles.
 
 It cares about reservoir performance and counterparty reliability.
 
@@ -227,9 +225,7 @@ The fiscal spine does not.
 
 THE STEWARDSHIP FILTER Stewardship is not philosophy. Stewardship is operational constraint.
 
-The theology of capital is simple: resources mismanaged will be reallocated. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+The theology of capital is simple: resources mismanaged will be reallocated. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * establishes the generational mandate. **Psalm 24:
 1
@@ -324,7 +320,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

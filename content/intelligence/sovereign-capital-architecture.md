@@ -95,9 +95,7 @@ Most lenders ignore the stewardship premium.
 
 We embed it.
 
-A 62 to
-
-68 percent lifecycle LTV is stable for acquisition and recapitalisation programs.
+A 62 to 68 percent lifecycle LTV is stable for acquisition and recapitalisation programs.
 
 Crossing 70 percent is not discipline.
 
@@ -135,9 +133,7 @@ This is the beginning of collapse.
 
 Collateral recovery factors in energy portfolios have been mispriced for twenty years.
 
-Recovery assumptions at 40 to
-
-55 percent were built for a world with high refinancing liquidity.
+Recovery assumptions at 40 to 55 percent were built for a world with high refinancing liquidity.
 
 That world is gone.
 
@@ -259,9 +255,7 @@ Short line.
 
 Waste is rebellion.
 
-Biblical capital is governed by "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Biblical capital is governed by "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * .
 
@@ -351,7 +345,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Request confidential capital audit.
 

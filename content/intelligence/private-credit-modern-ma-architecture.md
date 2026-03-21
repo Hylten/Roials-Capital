@@ -97,9 +97,7 @@ The lender holds security across all subsidiaries, reducing fragmentation risk a
 
 5.
 
-Liquidity Engineering and ABL Integration Asset based lending remains a critical
-
-10 percent component of the architecture because it stabilizes working capital cycles.
+Liquidity Engineering and ABL Integration Asset based lending remains a critical 10 percent component of the architecture because it stabilizes working capital cycles.
 
 Private credit providers integrate ABL structures with core term facilities to harmonize cash flow timing.
 
@@ -117,9 +115,7 @@ The firm’s mandate covers three primary lanes.
 
 1.
 
-Kapitalanskaffning for Fund-III and Beyond Approximately
-
-80 percent of Roials Capital’s architecture focuses on capital
+Kapitalanskaffning for Fund-III and Beyond Approximately 80 percent of Roials Capital’s architecture focuses on capital
 
 INTRODUCTION for mid market and upper mid market buyout platforms.
 
@@ -129,9 +125,7 @@ Acquisition readiness is defined by having stable private credit channels, pre c
 
 2.
 
-Liquidity Engineering through ABL Approximately
-
-10 percent of the architecture involves liquidity engineering mandates.
+Liquidity Engineering through ABL Approximately 10 percent of the architecture involves liquidity engineering mandates.
 
 These assignments stabilize operating companies facing cash flow variability during acquisition months.
 
@@ -151,9 +145,7 @@ The partnership model is defined by neutrality, discipline, and institutional st
 
 It ensures that capital providers enter environments where structural risk is understood, operational behavior is predictable, and capital sequencing is controlled.
 
-THE STEWARDSHIP FILTER Stewardship in capital architecture is defined as non wasteful resource management. The principle aligns with "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+THE STEWARDSHIP FILTER Stewardship in capital architecture is defined as non wasteful resource management. The principle aligns with "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * and emphasizes longevity, resilience, and responsible deployment.
 

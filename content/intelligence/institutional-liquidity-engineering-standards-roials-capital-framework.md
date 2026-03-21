@@ -127,9 +127,7 @@ THE PARTNERSHIP MODEL The Roials Capital model is structurally different from tr
 
 The firm does not act as a lender or asset owner.
 
-The role is institutional
-
-INTRODUCTION , strategic alignment, and transaction navigation.
+The role is institutional INTRODUCTION , strategic alignment, and transaction navigation.
 
 1.
 
@@ -173,9 +171,7 @@ THE STEWARDSHIP FILTER Stewardship is the discipline that governs capital alloca
 
 It is a structural requirement for institutional scale.
 
-Stewardship in capital markets reflects the principle articulated in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Stewardship in capital markets reflects the principle articulated in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * , where long term resource preservation supersedes short term extraction.
 
@@ -223,7 +219,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

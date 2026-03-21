@@ -170,9 +170,7 @@ Across institutional mandates, stewardship takes four forms.
 
 1.
 
-Non wasteful Resource Management Capital must be directed into projects where the operational output justifies the resource consumption. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Non wasteful Resource Management Capital must be directed into projects where the operational output justifies the resource consumption. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * outlines the generational obligation to steward assets responsibly.
 

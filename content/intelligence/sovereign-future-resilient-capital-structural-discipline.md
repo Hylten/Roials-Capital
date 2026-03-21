@@ -73,11 +73,7 @@ These strategies produce long duration curves with moderate decline, creating a 
 
 3.
 
-Decline Curve Dynamics Unlike light tight shale, where decline curves can drop between
-
-50 percent and 70 percent within the first year, conventional heavy oil thermal assets exhibit decline curves often below
-
-10 percent annually.
+Decline Curve Dynamics Unlike light tight shale, where decline curves can drop between 50 percent and 70 percent within the first year, conventional heavy oil thermal assets exhibit decline curves often below 10 percent annually.
 
 This transforms the asset class from a depletion risk to an endurance asset.
 
@@ -85,9 +81,7 @@ This transforms the asset class from a depletion risk to an endurance asset.
 
 Infrastructure Lock In The presence of processing batteries, pipelines, water handling facilities, and steam generation infrastructure creates a natural moat.
 
-Replacement cost inflation in Alberta has increased the strategic significance of existing infrastructure by
-
-30 percent to 60 percent since
+Replacement cost inflation in Alberta has increased the strategic significance of existing infrastructure by 30 percent to 60 percent since
 
 2020.
 
@@ -143,9 +137,7 @@ The partnership model is structured around neutrality, alignment, and technical 
 
 THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management. It is an operational principle rooted in strategic responsibility rather than moral abstraction.
 
-Within capital formation, stewardship functions as a filter for decision quality. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Within capital formation, stewardship functions as a filter for decision quality. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * asserts that legacy is built through disciplined resource allocation.
 

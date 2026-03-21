@@ -143,9 +143,7 @@ The relationship provides allocators with operational intelligence, not commodit
 
 ### Phase III:
 
-THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator and institutional
-
-INTRODUCTION platform.
+THE PARTNERSHIP MODEL Roials Capital operates as a strategic navigator and institutional INTRODUCTION platform.
 
 The objective is to create clarity between allocator objectives and structural opportunities in the market.
 
@@ -171,9 +169,7 @@ This partnership model creates risk transparency across the entire decision chai
 
 THE STEWARDSHIP FILTER Stewardship is a discipline that treats capital as a resource to be managed, not consumed.
 
-It is aligned with the principle found in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+It is aligned with the principle found in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * which emphasizes the intergenerational responsibility of resource allocation.
 

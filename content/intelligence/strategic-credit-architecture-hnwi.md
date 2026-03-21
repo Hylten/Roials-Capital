@@ -65,17 +65,13 @@ But private credit committees do not.
 
 They evaluate LTV under stress assumptions:
 
-- 20 to
-
-35 percent margin compression
+- 20 to 35 percent margin compression
 
 - 180 to
 
 270 day working capital extension
 
-- 15 to
-
-30 percent decline in liquidation values The real LTV is the stressed figure.
+- 15 to 30 percent decline in liquidation values The real LTV is the stressed figure.
 
 Anything above 60 percent becomes speculative credit, regardless of borrower sophistication.
 
@@ -221,9 +217,7 @@ It is an operating regime.
 
 THE STEWARDSHIP FILTER The entrepreneur faces a different burden than a fund manager. They are not merely optimizing risk.
 
-They are stewarding what has been entrusted to them. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+They are stewarding what has been entrusted to them. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * frames THE MANDAT
 
@@ -287,7 +281,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

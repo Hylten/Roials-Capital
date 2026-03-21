@@ -221,9 +221,7 @@ Non wasteful operational design.
 
 This includes optimized drilling schedules, reduced surface disturbance, and intelligent thermal mapping.
 
-This aligns with the theological principle referenced in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+This aligns with the theological principle referenced in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * which reflects the multi generational orientation of responsible asset management.
 

@@ -19,9 +19,7 @@ They represent a long term operating regime.
 
 Capital displacement.
 
-The top 20 global banks have reduced middle market exposure by more than
-
-28 percent since 2021 due to Basel IV pressures and capital allocation re weighting toward sovereign risk.
+The top 20 global banks have reduced middle market exposure by more than 28 percent since 2021 due to Basel IV pressures and capital allocation re weighting toward sovereign risk.
 
 The contraction is not cyclical.
 
@@ -85,9 +83,7 @@ LTV curves have shifted due to more conservative collateral recognition.
 
 In tangible asset sectors, the accepted institutional LTV bands have moved from
 
-60 to 40
-
-55 percent.
+60 to 40 55 percent.
 
 This ensures that credit stability is achieved not by aggressive underwriting but by structural over collateralisation.
 
@@ -205,9 +201,7 @@ Allocators engage because structural clarity reduces execution friction.
 
 THE STEWARDSHIP FILTER AND THE THEOLOGY OF CAPITAL Stewardship in institutional credit is not moral abstraction. It is resource governance.
 
-The principle is anchored in the scriptural foundation of "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+The principle is anchored in the scriptural foundation of "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * .
 

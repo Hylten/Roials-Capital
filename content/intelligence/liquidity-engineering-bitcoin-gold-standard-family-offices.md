@@ -15,9 +15,7 @@ Gold with a transmission protocol.
 
 A bearer asset with instantaneous auditability.
 
-A liquidity axis untouched by national politics. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+A liquidity axis untouched by national politics. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * : A good man leaves an inheritance to his children’s children: but the wealth of the sinner is stored up for the righteous.
 
@@ -219,9 +217,7 @@ Not an asset to be liquidated but an asset to be respected.
 
 A family reserve.
 
-A generational claim. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+A generational claim. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * reinforces this: inheritance requires durability.
 
@@ -675,7 +671,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

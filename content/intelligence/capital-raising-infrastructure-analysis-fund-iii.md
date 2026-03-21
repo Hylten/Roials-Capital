@@ -177,9 +177,7 @@ Stewardship eliminates waste in three domains.
 
 Capital Stewardship Funds must deploy capital with precision.
 
-Operational waste, mispriced acquisitions, and unverified synergies undermine allocator confidence. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Operational waste, mispriced acquisitions, and unverified synergies undermine allocator confidence. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * defines stewardship as intergenerational responsibility, which in institutional terms means sustainable balance sheet management and calibrated deployment cycles.
 
@@ -221,7 +219,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

@@ -41,17 +41,11 @@ Global allocators require neutral partners who orchestrate the interfaces rather
 
 TECHNICAL MECHANICS The institutional grade infrastructure relevant to Fund-III mandates consists of three pillars.
 
-Capital formation and deployment for buyouts and add ons at
+Capital formation and deployment for buyouts and add ons at 80 percent focus.
 
-80 percent focus.
+Strategic Collateralization through asset based structures at 10 percent.
 
-Strategic Collateralization through asset based structures at
-
-10 percent.
-
-Special mandates for energy and MiFID II compliant acquisitions at
-
-10 percent.
+Special mandates for energy and MiFID II compliant acquisitions at 10 percent.
 
 BUYOUT INFRASTRUCTURE FOR Fund-III Buyout environments across the EU and North America now require precision calibration between acquisition multiple, EBITDA normalization, and capital stack composition.
 
@@ -165,9 +159,7 @@ European industrial companies with stable cash conversion and succession gaps me
 
 Asset-Backed Frameworks through Asset-Based Lending supports stewardship by preventing operational underperformance driven by capital scarcity.
 
-The theological perspective aligns with "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+The theological perspective aligns with "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * .
 
@@ -213,7 +205,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

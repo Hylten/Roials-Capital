@@ -235,9 +235,7 @@ This partnership model positions Roials Capital as a strategic interpreter betwe
 
 THE STEWARDSHIP FILTER Stewardship establishes the ethical baseline for any credit architecture. It is the discipline of non wasteful resource management.
 
-The entrepreneur who treats capital as a scarce and sacred instrument achieves structural credibility. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+The entrepreneur who treats capital as a scarce and sacred instrument achieves structural credibility. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * identifies the principle of multi generational responsibility.
 

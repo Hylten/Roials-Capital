@@ -27,9 +27,7 @@ A defense line.
 
 A capital‑raising architecture supporting Fund‑III acquisition cycles, oil‑and‑gas energy mandates, MiFID II cross‑border expansion, and the compounding imperative expressed clearly in
 
-- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+- "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * : A good man leaves an inheritance to his children’s children: wealth preserved through structure, not speculation.
 
@@ -323,9 +321,7 @@ This combination feeds directly into Fund‑III participation, co‑investment r
 
 Private wealth increases its exposure to institutional deals without liquidating generational assets.
 
-This fulfills the structural logic of "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+This fulfills the structural logic of "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * : preservational wealth, multi‑generational transmission, long‑term stewardship.
 
@@ -453,7 +449,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

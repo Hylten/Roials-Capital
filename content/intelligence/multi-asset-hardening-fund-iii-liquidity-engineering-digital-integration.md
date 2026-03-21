@@ -123,9 +123,7 @@ Equity distributions Digital assets only interact with (1) and (2) as liquidity 
 
 They do not interfere with seniority or the priority of proceeds.
 
-Cross Collateralization with Energy Assets Heavy oil assets in Alberta such as SAGD, CSS, and waterflood fields maintain documented decline patterns with recovery factors between
-
-20 percent and 70 percent depending on formation physics.
+Cross Collateralization with Energy Assets Heavy oil assets in Alberta such as SAGD, CSS, and waterflood fields maintain documented decline patterns with recovery factors between 20 percent and 70 percent depending on formation physics.
 
 These characteristics create the perfect counterbalance to liquid digital assets.
 
@@ -189,9 +187,7 @@ Roials Capital does not promote these assets.
 
 It orchestrates their integration.
 
-The role is technical guidance, institutional
-
-INTRODUCTION , and structural alignment.
+The role is technical guidance, institutional INTRODUCTION , and structural alignment.
 
 Our strategic partner NAEO functions as the institutional anchor within the Alberta energy landscape, providing the heavy asset backbone that complements the liquid digital layer.
 
@@ -199,9 +195,7 @@ THE STEWARDSHIP FILTER Stewardship in capital architecture is not an ethical acc
 
 Poor capital governance introduces friction, waste, and systemic vulnerability.
 
-Multi asset hardening is therefore an expression of responsible resource management. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+Multi asset hardening is therefore an expression of responsible resource management. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * highlights the multigenerational vision that underpins long horizon capital discipline.
 
@@ -265,7 +259,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 

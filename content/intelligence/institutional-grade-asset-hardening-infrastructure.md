@@ -211,9 +211,7 @@ is to structure clarity.
 
 THE STEWARDSHIP FILTER Stewardship is a discipline, not a sentiment. Institutional grade stewardship is the practice of deploying capital in ways that are aligned with long term productivity, ethical resource management, and multi generational utility.
 
-It follows the biblical principle in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous."
-
-- Proverbs 13:22*
+It follows the biblical principle in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * which underscores the continuity of inheritance and the responsibility of resource transfer.
 
@@ -271,7 +269,7 @@ Qualification Gates strictly observed for comprehensive structural execution.
 
 Access is restricted to approved mandates.
 
-Minimum target size: $5M+.
+Minimum target size: $5M+...
 
 Access is restricted to approved mandates.
 
