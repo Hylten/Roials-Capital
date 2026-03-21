@@ -1,9 +1,4 @@
----
-title: "The Sovereign Capital Architecture: Engineering Multi Generational Liquidity Through Institutional Energy Stewardship"
-description: "Institutional briefing on the structural capital vacuum in North American energy, Alberta thermal recovery mechanics, and the architecture of multi generational liquidity formation for UHNWIs, Family Offices, and Institutional LPs navigating Fund-III+ buyout cycles."
-date: "2025-11-02"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "sovereign-capital-architecture-multi-generational-liquidity"
+--- title: "The Sovereign Capital Architecture: Engineering Multi Generational Liquidity Through Institutional Energy Stewardship" description: "Institutional briefing on the structural capital vacuum in North American energy, Alberta thermal recovery mechanics, and the architecture of multi generational liquidity formation for UHNWIs, Family Offices, and Institutional LPs navigating Fund-III+ buyout cycles." date: "2025-11-02" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "sovereign-capital-architecture-multi-generational-liquidity"
 --- 
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion.
@@ -204,11 +199,7 @@ The objective is operational coherence, not leverage expansion.
 
 The allocator benefits through reduced information asymmetry, elevated institutional counterparties, and infrastructure for calibrated decision making.
 
-THE STEWARDSHIP FILTER AND THE THEOLOGY OF CAPITAL Stewardship in energy is not a moral veneer
-
-.
-
-It is a technical discipline.
+THE STEWARDSHIP FILTER AND THE THEOLOGY OF CAPITAL Stewardship in energy is not a moral veneer. It is a technical discipline.
 
 A field that receives appropriate capital at the correct intervals produces more efficiently, wastes less energy, and maintains reservoir health.
 
@@ -290,11 +281,7 @@ It is structured around real assets, long duration production, mature decline cu
 
 For the allocator, the next 
 
-### Step I: s not transactional
-
-.
-
-It is architectural.
+### Step I: s not transactional. It is architectural.
 
 The question is not which asset to select.
 

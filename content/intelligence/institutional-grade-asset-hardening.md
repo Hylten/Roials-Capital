@@ -1,9 +1,4 @@
----
-title: "Institutional Grade Infrastructure for Asset Hardening"
-description: "High conviction framework for capital hardening mechanics, Asset-Based Lending liquidity engineering, and private market acquisition readiness for Fund-III scale structures"
-date: "2026-01-27"
-author: "ROIALS CAPITAL"
-slug: "institutional-grade-asset-hardening"
+--- title: "Institutional Grade Infrastructure for Asset Hardening" description: "High conviction framework for capital hardening mechanics, Asset-Based Lending liquidity engineering, and private market acquisition readiness for Fund-III scale structures" date: "2026-01-27" author: "ROIALS CAPITAL" slug: "institutional-grade-asset-hardening"
 --- 
 
 Order does not appear by accident.
@@ -308,11 +303,7 @@ The technical metric that governs every structure we deploy is this: The hardene
 
 This is the institutional threshold.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

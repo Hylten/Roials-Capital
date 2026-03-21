@@ -1,9 +1,4 @@
----
-title: "The Calculus of Risk in Institutional Private Credit"
-description: "A clinical, high density institutional analysis of private credit risk architecture, capital formation mechanics, and the structural role of Roials Capital as an introducer and strategic partner for Fund-III and acquisition mandates."
-date: "2025-11-09"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "calculcus-of-risk-private-credit"
+--- title: "The Calculus of Risk in Institutional Private Credit" description: "A clinical, high density institutional analysis of private credit risk architecture, capital formation mechanics, and the structural role of Roials Capital as an introducer and strategic partner for Fund-III and acquisition mandates." date: "2025-11-09" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "calculcus-of-risk-private-credit"
 --- 
 
 The capital vacuum in North American and European private credit is not a function of reduced opportunity.
@@ -201,11 +196,7 @@ Across each mandate, Roials Capital operates on a neutrality axis.
 
 This neutrality allows institutional decision makers to receive technical intelligence that is not influenced by allocation bias or issuer incentives.
 
-THE STEWARDSHIP FILTER Institutional stewardship is the discipline of allocating capital without waste
-
-.
-
-It is not merely a financial principle.
+THE STEWARDSHIP FILTER Institutional stewardship is the discipline of allocating capital without waste. It is not merely a financial principle.
 
 It is a moral architecture grounded in the responsible management of resources.
 
@@ -269,11 +260,7 @@ The objective is alignment, not solicitation.
 
 The outcome is a calibrated understanding of how private credit can function as a stabilizing instrument within a multi decade capital strategy. [END OF BRIEFING]
 
-# TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+# TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

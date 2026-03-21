@@ -1,9 +1,4 @@
----
-title: "Cross-Border Asset Hardening in Volatile Markets: Institutional Frameworks for Capital Stability and Strategic Expansion"
-description: "Analyst-grade briefing on structural capital dislocations, cross-border asset hardening mechanics, and institutional navigation protocols relevant to UHNWIs, private credit funds, and international GPs operating in 2026 volatility regimes."
-date: "2025-08-02"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "cross-border-asset-hardening-2026"
+--- title: "Cross-Border Asset Hardening in Volatile Markets: Institutional Frameworks for Capital Stability and Strategic Expansion" description: "Analyst-grade briefing on structural capital dislocations, cross-border asset hardening mechanics, and institutional navigation protocols relevant to UHNWIs, private credit funds, and international GPs operating in 2026 volatility regimes." date: "2025-08-02" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "cross-border-asset-hardening-2026"
 --- 
 
 The capital vacuum in North America’s upstream and midstream energy segments is a direct consequence of regulatory drift, capital misallocation, and a multi-year divergence between policy rhetoric and physical market constraints.
@@ -194,11 +189,7 @@ Through this model, Roials Capital is not acting as a promoter but as a strategi
 
 The objective is clarity, not solicitation.
 
-THE STEWARDSHIP FILTER Stewardship is a capital discipline anchored in non wasteful resource management
-
-.
-
-It is a theology of capital, not a marketing principle.
+THE STEWARDSHIP FILTER Stewardship is a capital discipline anchored in non wasteful resource management. It is a theology of capital, not a marketing principle.
 
 Stewardship prioritizes durability, transparency, and long horizon responsibility. **Proverbs 13:22
 
@@ -250,11 +241,7 @@ Roials Capital provides confidential strategy audits and portfolio calibration f
 
 The objective is alignment, clarity, and long horizon structural advantage.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

@@ -1,9 +1,4 @@
----
-title: "Institutional Backing as the Determinant Variable in Private Credit Regimes"
-description: "Institutional brief on the capital-formation physics governing private credit regimes, with emphasis on Fund-III scale buyouts, liquidity engineering, and mandate-driven acquisition finance."
-date: "2026-02-01"
-author: "ROIALS CAPITAL"
-slug: "institutional-backing-determinant-variable-private-credit"
+--- title: "Institutional Backing as the Determinant Variable in Private Credit Regimes" description: "Institutional brief on the capital-formation physics governing private credit regimes, with emphasis on Fund-III scale buyouts, liquidity engineering, and mandate-driven acquisition finance." date: "2026-02-01" author: "ROIALS CAPITAL" slug: "institutional-backing-determinant-variable-private-credit"
 --- 
 
 Institutional backing is not a credential.
@@ -344,11 +339,7 @@ Authority determines who sets terms.
 
 Those who set terms win.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

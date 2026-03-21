@@ -1,16 +1,7 @@
----
-title: "The Mechanics of Institutional Capital Migration"
-description: "A high‑trust analysis of how liquidity flows through private credit and asset based liquidity engineering frameworks for HNWI and UHNW portfolios."
-date: "2025-09-27"
-author: "Jonas Hyltén"
-slug: "the-mechanics-of-institutional-capital-migration"
+--- title: "The Mechanics of Institutional Capital Migration" description: "A high‑trust analysis of how liquidity flows through private credit and asset based liquidity engineering frameworks for HNWI and UHNW portfolios." date: "2025-09-27" author: "Jonas Hyltén" slug: "the-mechanics-of-institutional-capital-migration"
 --- 
 
-# The Mechanics of Institutional Capital Migration Institutional capital does not move randomly
-
-.
-
-It migrates, and the migration follows identifiable structural rules.
+# The Mechanics of Institutional Capital Migration Institutional capital does not move randomly. It migrates, and the migration follows identifiable structural rules.
 
 These rules are not visible to the retail market, and they are not designed for public interpretation.
 
@@ -42,11 +33,7 @@ Institutional capital migrates through systems that respect its scale.
 
 We are one of those systems.
 
-Closing Position Capital migration is not a trend
-
-.
-
-It is the operating logic of modern wealth.
+Closing Position Capital migration is not a trend. It is the operating logic of modern wealth.
 
 HNWI and UHNW individuals who understand this logic do not wait for conditions to force movement.
 
@@ -54,11 +41,7 @@ They build the architecture that enables movement on their terms.
 
 ROIALS CAPITAL provides that architecture.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

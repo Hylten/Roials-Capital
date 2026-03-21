@@ -1,9 +1,4 @@
----
-title: "The Calculus of Risk in Institutional Private Credit"
-description: "A technical briefing on the structural mechanics, capital inefficiencies, and institutional risk architecture shaping Private Credit across North America and Europe, with emphasis on Fund-III buyout financing, Liquidity Engineering, and strategic mandates in energy."
-date: "2025-07-17"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "the-calculus-of-risk-in-institutional-private-credit"
+--- title: "The Calculus of Risk in Institutional Private Credit" description: "A technical briefing on the structural mechanics, capital inefficiencies, and institutional risk architecture shaping Private Credit across North America and Europe, with emphasis on Fund-III buyout financing, Liquidity Engineering, and strategic mandates in energy." date: "2025-07-17" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "the-calculus-of-risk-in-institutional-private-credit"
 --- 
 
 The capital vacuum in North American and European private credit is not a consequence of risk escalation.
@@ -178,11 +173,7 @@ The function is not asset management.
 
 It is institutional alignment where counterparty quality, structural predictability, and collateral transparency are validated prior to engagement.
 
-THE STEWARDSHIP FILTER : THE THEOLOGY OF CAPITAL Stewardship is a capital discipline that rejects waste
-
-.
-
-It is a principle that calibrates risk acceptance to moral and economic clarity.
+THE STEWARDSHIP FILTER : THE THEOLOGY OF CAPITAL Stewardship is a capital discipline that rejects waste. It is a principle that calibrates risk acceptance to moral and economic clarity.
 
 Practical stewardship within institutional credit reflects three behaviors: 
 

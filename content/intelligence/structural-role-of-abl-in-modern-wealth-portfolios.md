@@ -1,9 +1,4 @@
----
-title: "The Structural Role of ABL in Modern Diversified Wealth Portfolios"
-description: "Institutional analysis of Asset Based Lending as a stabilizing mechanism for UHNW and institutional allocators navigating regime-shift capital markets, with emphasis on Liquidity Engineering, Balance Sheet Optimization, and strategic alignment with Fund-III buyout architecture."
-date: "2025-10-19"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "structural-role-of-abl-in-modern-wealth-portfolios"
+--- title: "The Structural Role of ABL in Modern Diversified Wealth Portfolios" description: "Institutional analysis of Asset Based Lending as a stabilizing mechanism for UHNW and institutional allocators navigating regime-shift capital markets, with emphasis on Liquidity Engineering, Balance Sheet Optimization, and strategic alignment with Fund-III buyout architecture." date: "2025-10-19" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "structural-role-of-abl-in-modern-wealth-portfolios"
 --- 
 
 The capital vacuum in North American middle market finance is a consequence of regulatory drift rather than borrower deterioration.
@@ -168,11 +163,7 @@ The Alberta energy landscape contains heavy oil assets with predictable decline 
 
 Although ABL is distinct from energy financing, the principles of liquidity discipline and asset fidelity remain consistent across both domains.
 
-THE STEWARDSHIP FILTER Stewardship in capital environments refers to disciplined resource management rather than opportunistic extraction
-
-.
-
-Stewardship aligns with a theology of capital in which capital is treated as a long horizon resource requiring non wasteful allocation. 
+THE STEWARDSHIP FILTER Stewardship in capital environments refers to disciplined resource management rather than opportunistic extraction. Stewardship aligns with a theology of capital in which capital is treated as a long horizon resource requiring non wasteful allocation. 
 
 1.
 

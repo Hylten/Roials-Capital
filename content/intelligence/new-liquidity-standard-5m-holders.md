@@ -1,9 +1,4 @@
----
-title: "The New Liquidity Standard for + Holders: Institutional Velocity, Cross-Border Capital Rights, and the Fund-III Liquidity Floor"
-description: "A principal-level brief on liquidity engineering, institutional capital raising, jurisdictional structuring, and the emergent liquidity floor for + holders entering Fund-III buyout cycles and add-on sweep strategies."
-date: "2025-09-23"
-author: "Jonas Roials"
-slug: "new-liquidity-standard-5m-holders"
+--- title: "The New Liquidity Standard for + Holders: Institutional Velocity, Cross-Border Capital Rights, and the Fund-III Liquidity Floor" description: "A principal-level brief on liquidity engineering, institutional capital raising, jurisdictional structuring, and the emergent liquidity floor for + holders entering Fund-III buyout cycles and add-on sweep strategies." date: "2025-09-23" author: "Jonas Roials" slug: "new-liquidity-standard-5m-holders"
 --- 
 
 The new liquidity regime does not ask permission.
@@ -156,11 +151,7 @@ Operating companies.
 
 Mineral positions.
 
-Real estate blocks.
-
-Private credit allocations.
-
-All integrated.
+Real estate blocks. Private credit allocations. All integrated.
 
 All unified.
 
@@ -240,11 +231,7 @@ The holders who treat liquidity as a structural right ascend.
 
 Liquidity as a structure requires frictionless extraction from assets.
 
-Not forced sales.
-
-Not distressed decisions.
-
-Ordered extraction.
+Not forced sales. Not distressed decisions. Ordered extraction.
 
 Timed extraction.
 
@@ -452,11 +439,7 @@ The corridor is open.
 
 The terms are fixed.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

@@ -1,9 +1,4 @@
----
-title: "Structural Alpha in Asset Based Liquidity Engineering: Engineered Reliability Across Institutional Balance Sheets"
-description: "Institutional briefing on the structural gap in North American energy, the mechanics of asset based liquidity engineering, and the role of Roials Capital as a strategic partner for Fund-III capital formation and institutional grade acquisition pathways."
-date: "2025-06-25"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "structural-alpha-liquidity-engineering-engineered-reliability"
+--- title: "Structural Alpha in Asset Based Liquidity Engineering: Engineered Reliability Across Institutional Balance Sheets" description: "Institutional briefing on the structural gap in North American energy, the mechanics of asset based liquidity engineering, and the role of Roials Capital as a strategic partner for Fund-III capital formation and institutional grade acquisition pathways." date: "2025-06-25" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "structural-alpha-liquidity-engineering-engineered-reliability"
 --- 
 
 The capital vacuum in North American energy is a consequence of regulatory drift, not resource depletion.
@@ -162,11 +157,7 @@ For European MiFID II acquisition mandates, Roials Capital provides compliance a
 
 For private credit allocators, the firm identifies where asset hardening can transform under recognized value into institutional grade collateral.
 
-THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management
-
-.
-
-It is a capital theology shaped by **Proverbs 13:22
+THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management. It is a capital theology shaped by **Proverbs 13:22
 
 * 
 

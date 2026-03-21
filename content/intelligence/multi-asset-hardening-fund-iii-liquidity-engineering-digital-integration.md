@@ -1,9 +1,4 @@
----
-title: "Multi Asset Hardening for Fund-III: Integrating Digital Assets Into Institutional Liquidity Engineering Architecture"
-description: "Institutional briefing on cross-asset hardening, Monetization Architecture, and the integration of digital asset primitives into Fund-III capital formation and balance sheet optimization mandates for UHNWIs, institutional LPs, and GP sponsors."
-date: "2025-08-07"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "multi-asset-hardening-Fund-III-liquidity-engineering-digital-integration"
+--- title: "Multi Asset Hardening for Fund-III: Integrating Digital Assets Into Institutional Liquidity Engineering Architecture" description: "Institutional briefing on cross-asset hardening, Monetization Architecture, and the integration of digital asset primitives into Fund-III capital formation and balance sheet optimization mandates for UHNWIs, institutional LPs, and GP sponsors." date: "2025-08-07" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "multi-asset-hardening-Fund-III-liquidity-engineering-digital-integration"
 --- 
 
 The capital vacuum in multi asset markets is not a function of volatility, but a structural reclassification of usable collateral across institutional balance sheets.
@@ -228,11 +223,7 @@ The role is technical guidance, institutional
 
 Our strategic partner NAEO functions as the institutional anchor within the Alberta energy landscape, providing the heavy asset backbone that complements the liquid digital layer.
 
-THE STEWARDSHIP FILTER Stewardship in capital architecture is not an ethical accessory
-
-.
-
-It is a structural requirement.
+THE STEWARDSHIP FILTER Stewardship in capital architecture is not an ethical accessory. It is a structural requirement.
 
 Poor capital governance introduces friction, waste, and systemic vulnerability.
 
@@ -296,11 +287,7 @@ This architecture positions Fund-III for accelerated close cycles, higher operat
 
 The appropriate next step for allocators evaluating this landscape is a confidential Strategy Audit or Portfolio Calibration, where capital architecture can be mapped against regulatory constraints, liquidity targets, and long horizon objectives.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

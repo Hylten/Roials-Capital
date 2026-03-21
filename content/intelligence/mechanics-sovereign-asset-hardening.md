@@ -1,9 +1,4 @@
----
-title: "The Mechanics of Sovereign Asset Hardening"
-description: "Institutional briefing on capital regime transition, structural inefficiencies, and the sovereign mechanics that govern asset hardening across buyouts, liquidity engineering, and North American energy operations."
-date: "2025-09-24"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "mechanics-sovereign-asset-hardening"
+--- title: "The Mechanics of Sovereign Asset Hardening" description: "Institutional briefing on capital regime transition, structural inefficiencies, and the sovereign mechanics that govern asset hardening across buyouts, liquidity engineering, and North American energy operations." date: "2025-09-24" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "mechanics-sovereign-asset-hardening"
 --- 
 
 The capital vacuum in North America is not a cyclical dislocation.
@@ -208,11 +203,7 @@ The function is not distribution.
 
 The function is strategic alignment and counterpart calibration.
 
-THE STEWARDSHIP FILTER Institutional asset stewardship is increasingly interpreted through the lens of responsibility and resource governance
-
-.
-
-Stewardship involves the disciplined management of capital, operational assets, and long term risk exposures.
+THE STEWARDSHIP FILTER Institutional asset stewardship is increasingly interpreted through the lens of responsibility and resource governance. Stewardship involves the disciplined management of capital, operational assets, and long term risk exposures.
 
 It draws on a principle embedded in **Proverbs 13:22
 
@@ -274,11 +265,7 @@ Roials Capital provides confidential Strategy Audits and Portfolio Calibration e
 
 The objective is to provide clarity on the operational regime and introduce the correct institutional partners where alignment exists.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

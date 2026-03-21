@@ -1,9 +1,4 @@
----
-title: "Sovereign Capital Deployment Strategies for Institutional‑Grade Wealth"
-description: "Institutional memorandum outlining regime-shift dynamics in global capital markets, North American energy arbitrage, and sovereign-aligned capital deployment structures across buyouts, liquidity engineering, and special mandates."
-date: "2026-01-01"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "sovereign-capital-deployment-strategies-institutional-wealth"
+--- title: "Sovereign Capital Deployment Strategies for Institutional‑Grade Wealth" description: "Institutional memorandum outlining regime-shift dynamics in global capital markets, North American energy arbitrage, and sovereign-aligned capital deployment structures across buyouts, liquidity engineering, and special mandates." date: "2026-01-01" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "sovereign-capital-deployment-strategies-institutional-wealth"
 --- 
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion.

@@ -1,9 +1,4 @@
----
-title: "The Mechanics of Collateralized Liquidity: Structural Intelligence for Private Credit and Asset-Based Lending"
-description: "Institutional briefing on collateralized liquidity architecture, LTV control systems, cash‑flow mechanics, and capital raising protocols for Fund-III buyouts and Asset-Based Lending structures."
-date: "2025-09-16"
-author: "Jonas Hyltén"
-slug: "collateralized-liquidity-structural-intelligence-private-credit-abl"
+--- title: "The Mechanics of Collateralized Liquidity: Structural Intelligence for Private Credit and Asset-Based Lending" description: "Institutional briefing on collateralized liquidity architecture, LTV control systems, cash‑flow mechanics, and capital raising protocols for Fund-III buyouts and Asset-Based Lending structures." date: "2025-09-16" author: "Jonas Hyltén" slug: "collateralized-liquidity-structural-intelligence-private-credit-abl"
 --- 
 
 Order is not an option.
@@ -62,11 +57,7 @@ That is the pivot in this environment.
 
 That is 
 
- THE REGIME SHIFT
-
- . 
-
-### Phase II:
+ THE REGIME SHIFT. ### Phase II:
 
 TECHNICAL MECHANIC
 
@@ -98,11 +89,7 @@ Liquidity buffers, standby capacity, and engineered reserves that activate when 
 
 The third 
 
-### Layer I: s where institutional advantage is built
-
-.
-
-It is where we remove insolvency scenarios from the probability set.
+### Layer I: s where institutional advantage is built. It is where we remove insolvency scenarios from the probability set.
 
 LTV curves become predictable only when liquidity buffers are endogenous.
 
@@ -342,11 +329,7 @@ EXIT The sole metric that matters: liquidity coverage ratio must stabilize above
 
 90 days of transaction close.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

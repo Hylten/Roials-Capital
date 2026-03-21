@@ -1,9 +1,4 @@
----
-title: "Institutional Grade Infrastructure for Asset Hardening"
-description: "A technical memorandum for institutional allocators outlining structural gaps in North American energy, capital inefficiencies in lower mid market buyouts, and the infrastructure required for balance sheet optimization and asset hardening across Fund-III+ mandates."
-date: "2026-01-18"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "institutional-grade-asset-hardening-infrastructure"
+--- title: "Institutional Grade Infrastructure for Asset Hardening" description: "A technical memorandum for institutional allocators outlining structural gaps in North American energy, capital inefficiencies in lower mid market buyouts, and the infrastructure required for balance sheet optimization and asset hardening across Fund-III+ mandates." date: "2026-01-18" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "institutional-grade-asset-hardening-infrastructure"
 --- 
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion.
@@ -228,11 +223,7 @@ E
 
  is to structure clarity.
 
-THE STEWARDSHIP FILTER Stewardship is a discipline, not a sentiment
-
-.
-
-Institutional grade stewardship is the practice of deploying capital in ways that are aligned with long term productivity, ethical resource management, and multi generational utility.
+THE STEWARDSHIP FILTER Stewardship is a discipline, not a sentiment. Institutional grade stewardship is the practice of deploying capital in ways that are aligned with long term productivity, ethical resource management, and multi generational utility.
 
 It follows the biblical principle in **Proverbs 13:22
 
@@ -288,11 +279,7 @@ Roials Capital’s role is to provide institutional LPs and GPs with a neutral, 
 
 For allocators requiring deeper visibility, a confidential strategy audit or portfolio calibration can map the assets, liabilities, and operational ranges that define their current posture.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

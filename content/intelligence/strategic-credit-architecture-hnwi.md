@@ -1,9 +1,4 @@
----
-title: "Strategic Credit Architecture for High‑Net‑Worth Entrepreneurs"
-description: "Institutional-grade credit architecture for Fund-III capital formation, private buyouts, liquidity engineering, and energy mandates under MiFID II and NAEOC parameters."
-date: "2025-07-30"
-author: "Jonas Hyltén"
-slug: "strategic-credit-architecture-hnwi"
+--- title: "Strategic Credit Architecture for High‑Net‑Worth Entrepreneurs" description: "Institutional-grade credit architecture for Fund-III capital formation, private buyouts, liquidity engineering, and energy mandates under MiFID II and NAEOC parameters." date: "2025-07-30" author: "Jonas Hyltén" slug: "strategic-credit-architecture-hnwi"
 --- 
 
 A mispriced covenant structure always reveals the fracture point of an ecosystem long before the market acknowledges it.
@@ -240,11 +235,7 @@ Fund-III is not a fund.
 
 It is an operating regime.
 
-THE STEWARDSHIP FILTER The entrepreneur faces a different burden than a fund manager
-
-.
-
-They are not merely optimizing risk.
+THE STEWARDSHIP FILTER The entrepreneur faces a different burden than a fund manager. They are not merely optimizing risk.
 
 They are stewarding what has been entrusted to them. **Proverbs 13:22
 
@@ -252,11 +243,7 @@ They are stewarding what has been entrusted to them. **Proverbs 13:22
 
 * frames THE MANDAT
 
-E
-
-.
-
-Capital is a tool for multi‑generational preservation, not an instrument for impulsive expansion.
+E. Capital is a tool for multi‑generational preservation, not an instrument for impulsive expansion.
 
 The stewardship filter removes waste.
 
@@ -310,11 +297,7 @@ EXIT Fund-III operators who follow this discipline achieve a singular objective:
 
 Request a confidential capital audit.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

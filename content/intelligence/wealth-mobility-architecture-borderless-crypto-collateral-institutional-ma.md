@@ -1,9 +1,4 @@
----
-title: "Wealth Mobility Architecture and Borderless Crypto Collateral for Institutional Grade M and A"
-description: "Institutional briefing on cross-jurisdictional wealth mobility systems, crypto collateral harmonization, and balance sheet optimization frameworks calibrated for Fund-III buyout activity, asset backed liquidity engineering, and multi region acquisition mandates."
-date: "2026-01-23"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "wealth-mobility-architecture-borderless-crypto-collateral-institutional-ma"
+--- title: "Wealth Mobility Architecture and Borderless Crypto Collateral for Institutional Grade M and A" description: "Institutional briefing on cross-jurisdictional wealth mobility systems, crypto collateral harmonization, and balance sheet optimization frameworks calibrated for Fund-III buyout activity, asset backed liquidity engineering, and multi region acquisition mandates." date: "2026-01-23" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "wealth-mobility-architecture-borderless-crypto-collateral-institutional-ma"
 --- 
 
 The capital vacuum in institutional M and A today is driven by regulatory fragmentation, not a shortage of qualified assets.
@@ -144,11 +139,7 @@ Within Energy, NAEO serves as the institutional partner with operational experti
 
 In non energy contexts, Roials Capital’s role remains focused on structural alignment and cross border transaction architecture.
 
-THE STEWARDSHIP FILTER Stewardship is a discipline of capital integrity, not opportunism
-
-.
-
-The mobility of capital is not pursued for speed alone.
+THE STEWARDSHIP FILTER Stewardship is a discipline of capital integrity, not opportunism. The mobility of capital is not pursued for speed alone.
 
 It is pursued for precision allocation and non wasteful deployment.
 

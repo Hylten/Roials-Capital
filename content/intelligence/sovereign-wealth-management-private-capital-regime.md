@@ -1,9 +1,4 @@
----
-title: "Sovereign Stewardship and the New Mandate for Private Capital"
-description: "Institutional thesis on sovereign aligned private capital, Fund-III capital formation, liquidity engineering, Asset-Based Lending structures, and energy anchored acquisition frameworks for UHNWIs, LPs, and sovereign allocators"
-date: "2025-10-14"
-author: "Jonas Hyltén"
-slug: "sovereign-wealth-management-private-capital-regime"
+--- title: "Sovereign Stewardship and the New Mandate for Private Capital" description: "Institutional thesis on sovereign aligned private capital, Fund-III capital formation, liquidity engineering, Asset-Based Lending structures, and energy anchored acquisition frameworks for UHNWIs, LPs, and sovereign allocators" date: "2025-10-14" author: "Jonas Hyltén" slug: "sovereign-wealth-management-private-capital-regime"
 --- 
 
 A structural gap is widening between sovereign liquidity velocity and private capital’s operational drag.
@@ -228,11 +223,7 @@ A fund with internal chaos cannot steward sovereign capital.
 
 A fund with internal order becomes a strategic partner.
 
-THE STEWARDSHIP FILTER Sovereign capital respects stewardship
-
-.
-
-Not sentiment.
+THE STEWARDSHIP FILTER Sovereign capital respects stewardship. Not sentiment.
 
 Stewardship is efficient dominion over what has been entrusted.
 
@@ -302,11 +293,7 @@ The correct metric is recovery-to-velocity ratio: RVR 1.
 
 For sovereign-grade capital alignment, request a confidential capital audit.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

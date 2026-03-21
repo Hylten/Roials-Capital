@@ -1,9 +1,4 @@
----
-title: "The Sovereign Mindset: Structural Liquidity as a Generational Asset"
-description: "Institutional brief on capital architecture, liquidity engineering, buyout scaling mechanics, and the structural sovereignty premium for Fund-III allocations."
-date: "2025-12-02"
-author: "Jonas Roials"
-slug: "sovereign-mindset-structural-liquidity"
+--- title: "The Sovereign Mindset: Structural Liquidity as a Generational Asset" description: "Institutional brief on capital architecture, liquidity engineering, buyout scaling mechanics, and the structural sovereignty premium for Fund-III allocations." date: "2025-12-02" author: "Jonas Roials" slug: "sovereign-mindset-structural-liquidity"
 --- 
 
 The sovereign mindset begins with a simple recognition.
@@ -294,11 +289,7 @@ Not the portfolio.
 
 Not THE MANDAT
 
-E
-
-.
-
-Liquidity is the weapon that outlives the market.
+E. Liquidity is the weapon that outlives the market.
 
 Liquidity becomes inheritance.
 
@@ -320,11 +311,7 @@ Every add-on is an absorption strategy.
 
 The Sovereign Mindset is not psychological.
 
-It is architectural.
-
-Machine gun fragments.
-
-Hard syntax.
+It is architectural. Machine gun fragments. Hard syntax.
 
 Sovereigns think in layers.
 
@@ -367,16 +354,7 @@ Structured liquidity converting into multi-cycle authority.
 Clear corridors.
 
 Clean capital paths.
-
-Tight compliance.
-
-Hard reporting.
-
-Aggressive consolidation.
-
-Zero drift.
-
-Zero noise.
+ Tight compliance. Hard reporting. Aggressive consolidation. Zero drift. Zero noise.
 
 Maximum structural compression.
 
@@ -402,11 +380,7 @@ Metric: LTV curvature ratio
 
 72.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

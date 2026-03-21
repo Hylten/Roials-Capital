@@ -1,9 +1,4 @@
----
-title: "Wealth Mobility Architecture and Borderless Crypto Collateral for Institutional Grade M and A"
-description: "Institutional briefing on cross jurisdictional wealth mobility, crypto collateral frameworks, and acquisition grade financing architecture for Fund-III plus environments."
-date: "2026-02-08"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "wealth-mobility-architecture-crypto-collateral-institutional-ma"
+--- title: "Wealth Mobility Architecture and Borderless Crypto Collateral for Institutional Grade M and A" description: "Institutional briefing on cross jurisdictional wealth mobility, crypto collateral frameworks, and acquisition grade financing architecture for Fund-III plus environments." date: "2026-02-08" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "wealth-mobility-architecture-crypto-collateral-institutional-ma"
 --- 
 
 The structural gap in cross border capital formation is no longer driven by liquidity scarcity.
@@ -114,11 +109,7 @@ Each engagement begins with a technical diagnostic of the target acquisition, th
 
 The objective is to engineer a collateral stack that maximizes transaction stability while preserving cross border agility.
 
-THE STEWARDSHIP FILTER Stewardship in capital architecture refers to the disciplined allocation of resources toward productive and durable outcomes
-
-.
-
-It is the opposite of speculative deployment.
+THE STEWARDSHIP FILTER Stewardship in capital architecture refers to the disciplined allocation of resources toward productive and durable outcomes. It is the opposite of speculative deployment.
 
 The guiding principle is derived from **Proverbs 13:22
 

@@ -1,9 +1,4 @@
----
-title: "The Principal Compression: Why Institutional LPs Demand Higher Unlevered Returns in Fund‑III and Beyond"
-description: "A private Principal briefing on LP return recalibration, compression dynamics, and the new hierarchy shaping Fund‑III+ capital formation. Deep institutional analysis for GP leadership navigating modern capital scarcity, multi‑jurisdictional structuring, and the elevated bar for unlevered performance."
-date: "2026-03-04"
-author: "ROIALS CAPITAL"
-slug: "institutional-lps-unlevered-return-recalibration-Fund-III"
+--- title: "The Principal Compression: Why Institutional LPs Demand Higher Unlevered Returns in Fund‑III and Beyond" description: "A private Principal briefing on LP return recalibration, compression dynamics, and the new hierarchy shaping Fund‑III+ capital formation. Deep institutional analysis for GP leadership navigating modern capital scarcity, multi‑jurisdictional structuring, and the elevated bar for unlevered performance." date: "2026-03-04" author: "ROIALS CAPITAL" slug: "institutional-lps-unlevered-return-recalibration-Fund-III"
 --- 
 
 The pressure is real.
@@ -118,11 +113,7 @@ No LP wants fragility disguised as strategy.
 
 They want sovereignty in the numbers.
 
-THE REASON THEY PUSH HARDER they finally understand the real separation
-
-.
-
-A GP capable of producing strong unlevered gains in Fund‑III+ is a GP capable of producing sovereign gains in perpetuity.
+THE REASON THEY PUSH HARDER they finally understand the real separation. A GP capable of producing strong unlevered gains in Fund‑III+ is a GP capable of producing sovereign gains in perpetuity.
 
 It demonstrates mastery of the levers that endure across cycles: margin architecture, cost decoupling, operational reconfiguration, multi‑jurisdictional M&A, disciplined pricing power, non‑correlated value creation.
 
@@ -310,11 +301,7 @@ They allocate to order.
 
 They punish drift.
 
-THE NEW HIERARCHY OF INSTITUTIONAL CAPITAL FORMATION FUND‑III+ EDITION At the top sit the GPs who produce high unlevered returns with calm precision
-
-.
-
-Below them sit the financial engineers.
+THE NEW HIERARCHY OF INSTITUTIONAL CAPITAL FORMATION FUND‑III+ EDITION At the top sit the GPs who produce high unlevered returns with calm precision. Below them sit the financial engineers.
 
 Below them sit the storytellers.
 
@@ -330,11 +317,7 @@ The GP that shapes itself around sovereign operational competence-margin archite
 
 That GP becomes an institution of its own.
 
-THE PRINCIPAL VERDICT Unlevered performance is the new covenant between LP and GP
-
-.
-
-It is a contract of discipline.
+THE PRINCIPAL VERDICT Unlevered performance is the new covenant between LP and GP. It is a contract of discipline.
 
 A contract of sovereignty.
 

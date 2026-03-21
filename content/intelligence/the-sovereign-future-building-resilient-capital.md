@@ -1,16 +1,7 @@
----
-title: "The Sovereign Future: Building Resilient Capital"
-description: "An institutional exploration of liquidity strategy through private credit and asset based liquidity engineering for HNWI and UHNW portfolios."
-date: "2025-08-30"
-author: "Jonas Hyltén"
-slug: "the-sovereign-future-building-resilient-capital"
+--- title: "The Sovereign Future: Building Resilient Capital" description: "An institutional exploration of liquidity strategy through private credit and asset based liquidity engineering for HNWI and UHNW portfolios." date: "2025-08-30" author: "Jonas Hyltén" slug: "the-sovereign-future-building-resilient-capital"
 --- 
 
-# The Sovereign Future: Building Resilient Capital Capital strength is not a function of scale
-
-.
-
-It is a function of structure.
+# The Sovereign Future: Building Resilient Capital Capital strength is not a function of scale. It is a function of structure.
 
 Liquidity behaves the same way.
 
@@ -44,11 +35,7 @@ It is built.
 
 It is measurable.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

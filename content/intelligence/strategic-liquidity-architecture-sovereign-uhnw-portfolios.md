@@ -1,9 +1,4 @@
----
-title: "Strategic Liquidity Architecture for Sovereign and Ultra High Net Worth Portfolios"
-description: "A technical institutional briefing on capital inefficiencies, liquidity engineering, and structural alignment for Fund-III environments and energy mandates across North America and Europe."
-date: "2026-03-14"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "strategic-liquidity-architecture-sovereign-uhnw-portfolios"
+--- title: "Strategic Liquidity Architecture for Sovereign and Ultra High Net Worth Portfolios" description: "A technical institutional briefing on capital inefficiencies, liquidity engineering, and structural alignment for Fund-III environments and energy mandates across North America and Europe." date: "2026-03-14" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "strategic-liquidity-architecture-sovereign-uhnw-portfolios"
 --- 
 
 The capital vacuum in North America's energy sector is a function of regulatory drift and institutional withdrawal rather than any decline in underlying asset quality.
@@ -160,11 +155,7 @@ Core functions include:
 
 - Institutional 
 
- INTRODUCTION
-
- .
-
-Allocators receive curated access to operators, lenders, and acquisition vehicles where governance, reporting, and counterparty alignment meet institutional thresholds.
+ INTRODUCTION. Allocators receive curated access to operators, lenders, and acquisition vehicles where governance, reporting, and counterparty alignment meet institutional thresholds.
 
 - Strategic alignment.
 
@@ -190,11 +181,7 @@ In energy mandates, NAEO serves as the strategic partner whose operational disci
 
 This partnership model is designed to eliminate informational asymmetry and reduce operator selection risk without engaging in solicitation or promotional behavior.
 
-THE STEWARDSHIP FILTER Stewardship is treated as a capital discipline grounded in responsibility, accountability, and non wasteful resource management
-
-.
-
-The allocator's role is to deploy liquidity with moral clarity and operational precision.
+THE STEWARDSHIP FILTER Stewardship is treated as a capital discipline grounded in responsibility, accountability, and non wasteful resource management. The allocator's role is to deploy liquidity with moral clarity and operational precision.
 
 Key principles include:
 
@@ -236,11 +223,7 @@ Regulatory divergence, supply constraints, and capital scarcity define the outer
 
 2.
 
-TECHNICAL MECHANICS
-
- .
-
-Operators and transactions are evaluated based on recovery factors, LTV curves, collateral quality, and governance precision. 
+TECHNICAL MECHANICS. Operators and transactions are evaluated based on recovery factors, LTV curves, collateral quality, and governance precision. 
 
 3.
 

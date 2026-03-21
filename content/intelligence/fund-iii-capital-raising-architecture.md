@@ -1,9 +1,4 @@
----
-title: "Principal Architecture for Fund-III Kapitalanskaffning"
-description: "Institutional analysis of capital raising systems for Fund-III structures across buyout, Asset-Based Lending, and special mandate regimes. High conviction thesis for allocators seeking durable, repeatable institutional flows."
-date: "2025-08-24"
-author: "ROIALS CAPITAL"
-slug: "Fund-III-capital-raising-architecture"
+--- title: "Principal Architecture for Fund-III Kapitalanskaffning" description: "Institutional analysis of capital raising systems for Fund-III structures across buyout, Asset-Based Lending, and special mandate regimes. High conviction thesis for allocators seeking durable, repeatable institutional flows." date: "2025-08-24" author: "ROIALS CAPITAL" slug: "Fund-III-capital-raising-architecture"
 --- 
 
 A structural gap defines the future of Fund-III capital formation.
@@ -280,11 +275,7 @@ For capital raising to operate at institutional scale, these five components mus
 
 The GP who still relies on narrative over structure falls behind the Fund-III standard.
 
-THE STEWARDSHIP FILTER Capital is a responsibility
-
-.
-
-Mismanagement of attention, time, or resources is waste.
+THE STEWARDSHIP FILTER Capital is a responsibility. Mismanagement of attention, time, or resources is waste.
 
 Waste is disqualifying.
 
@@ -345,11 +336,7 @@ Anything above
 
 Request a confidential capital audit.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

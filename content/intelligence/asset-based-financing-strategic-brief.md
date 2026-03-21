@@ -1,9 +1,4 @@
----
-title: "Asset-Based Financing as a Strategic Weapon for Modern Private Wealth"
-description: "Institutional brief on asset-based financing as a capital‑multiplying instrument for private wealth, Fund‑III buyouts, liquidity engineering, and jurisdictional asset hardening."
-date: "2025-12-30"
-author: "ROIALS CAPITAL"
-slug: "asset-based-financing-strategic-brief"
+--- title: "Asset-Based Financing as a Strategic Weapon for Modern Private Wealth" description: "Institutional brief on asset-based financing as a capital‑multiplying instrument for private wealth, Fund‑III buyouts, liquidity engineering, and jurisdictional asset hardening." date: "2025-12-30" author: "ROIALS CAPITAL" slug: "asset-based-financing-strategic-brief"
 --- 
 
 The modern private wealth cohort is no longer defined by passive asset accumulation.
@@ -452,11 +447,7 @@ Proceed with confidential capital audit.
 
 Target metric: 11.7x liquidity‑velocity coefficient.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

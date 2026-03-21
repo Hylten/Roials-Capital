@@ -1,9 +1,4 @@
----
-title: "The Institutional Playbook for Capital Preservation in Fund-III Regimes"
-description: "A principal-level framework for kapitalanskaffning, private credit structuring, liquidity engineering, and institutional-grade capital defense across buyout ecosystems."
-date: "2026-03-05"
-author: "ROIALS CAPITAL"
-slug: "institutional-playbook-capital-preservation-Fund-III"
+--- title: "The Institutional Playbook for Capital Preservation in Fund-III Regimes" description: "A principal-level framework for kapitalanskaffning, private credit structuring, liquidity engineering, and institutional-grade capital defense across buyout ecosystems." date: "2026-03-05" author: "ROIALS CAPITAL" slug: "institutional-playbook-capital-preservation-Fund-III"
 --- 
 
 Capital moves on certainty.
@@ -450,11 +445,7 @@ If a platform cannot absorb an add-on within
 
 90 days-operationally, culturally, financially-the add-on should not be bought.
 
-Delay is decay.
-
-Friction is drag.
-
-Capital burns.
+Delay is decay. Friction is drag. Capital burns.
 
 Preservation requires frictionless absorption.
 
@@ -546,11 +537,7 @@ Not narrow.
 
 Not fragile.
 
-Range is strength.
-
-But controlled range.
-
-Focused range.
+Range is strength. But controlled range. Focused range.
 
 High-quality range.
 
@@ -592,11 +579,7 @@ Drift is unacceptable.
 
 Preservation is non-negotiable.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

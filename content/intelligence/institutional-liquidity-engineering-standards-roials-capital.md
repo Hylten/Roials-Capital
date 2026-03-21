@@ -1,9 +1,4 @@
----
-title: "Institutional Standards for Private Liquidity Engineering Agreements"
-description: "ROIALS CAPITAL’s sovereign-grade framework governing Institutional Liquidity Paths, Fund-III capital formation, private credit structuring, and cross‑jurisdictional institutional mandates."
-date: "2025-08-13"
-author: "ROIALS CAPITAL"
-slug: "institutional-liquidity-engineering-standards-ROIALS CAPITAL"
+--- title: "Institutional Standards for Private Liquidity Engineering Agreements" description: "ROIALS CAPITAL’s sovereign-grade framework governing Institutional Liquidity Paths, Fund-III capital formation, private credit structuring, and cross‑jurisdictional institutional mandates." date: "2025-08-13" author: "ROIALS CAPITAL" slug: "institutional-liquidity-engineering-standards-ROIALS CAPITAL"
 --- 
 
 Institutional architecture begins with the presumption of asymmetry.
@@ -383,9 +378,6 @@ It transfers governance strength into every transaction.
 It elevates the GP’s status with each successful execution cycle.
 
 VIII.
-
-Internal Logic
-
 - The Sovereign Approach ROIALS CAPITAL treats every agreement through a sovereign lens.
 
 A sovereign lens focuses on:
@@ -532,11 +524,7 @@ Terminal Metric: Enforcement Coherence Index =
 
 92.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

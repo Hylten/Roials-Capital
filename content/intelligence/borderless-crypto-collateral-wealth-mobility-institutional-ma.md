@@ -1,9 +1,4 @@
----
-title: "Borderless Collateral and the Mobility of Wealth in the Institutional M&A Regime"
-description: "Institutional briefing on crypto collateral mechanics, cross-jurisdictional mobility, private credit LTV architecture, and Fund-III capital formation for UHNWIs and LPs."
-date: "2026-01-25"
-author: "Jonas Hyltén"
-slug: "borderless-crypto-collateral-wealth-mobility-institutional-ma"
+--- title: "Borderless Collateral and the Mobility of Wealth in the Institutional M&A Regime" description: "Institutional briefing on crypto collateral mechanics, cross-jurisdictional mobility, private credit LTV architecture, and Fund-III capital formation for UHNWIs and LPs." date: "2026-01-25" author: "Jonas Hyltén" slug: "borderless-crypto-collateral-wealth-mobility-institutional-ma"
 --- 
 
 A structural gap has formed at the intersection of jurisdictional control and mobile capital.
@@ -222,11 +217,7 @@ The market has not yet priced it.
 
 That is the window.
 
-THE STEWARDSHIP FILTER Wealth must move without waste
-
-.
-
-Stewardship is a discipline, not an aesthetic.
+THE STEWARDSHIP FILTER Wealth must move without waste. Stewardship is a discipline, not an aesthetic.
 
 The mobile nature of crypto collateral must not tempt undisciplined leverage behavior.
 
@@ -265,11 +256,7 @@ EXIT Fund-III institutional operations require a single invariant metric: mainta
 
 Request a confidential capital audit.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

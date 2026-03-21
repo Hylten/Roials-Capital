@@ -1,9 +1,4 @@
----
-title: "The Principal Doctrine of Operational Alpha in Add‑On Buyout Architecture"
-description: "A private Principal‑level briefing on why operational alpha now eclipses legacy financial engineering in Fund‑III+ add‑on environments, with direct implications for capital raising, GP signalling, and institutional allocations."
-date: "2025-12-15"
-author: "ROIALS CAPITAL"
-slug: "operational-alpha-add-on-architecture"
+--- title: "The Principal Doctrine of Operational Alpha in Add‑On Buyout Architecture" description: "A private Principal‑level briefing on why operational alpha now eclipses legacy financial engineering in Fund‑III+ add‑on environments, with direct implications for capital raising, GP signalling, and institutional allocations." date: "2025-12-15" author: "ROIALS CAPITAL" slug: "operational-alpha-add-on-architecture"
 --- 
 
 The pivot is not philosophical.

@@ -1,9 +1,4 @@
----
-title: "Legacy Hardening: The Structural Advantage in the 2026 Institutional Capital Regime"
-description: "A high density institutional analysis on the legacy hardening thesis, structural capital vacuums, and the regime shift reshaping North American energy and private markets for Fund-III allocators."
-date: "2025-07-21"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "legacy-hardening-structural-advantage"
+--- title: "Legacy Hardening: The Structural Advantage in the 2026 Institutional Capital Regime" description: "A high density institutional analysis on the legacy hardening thesis, structural capital vacuums, and the regime shift reshaping North American energy and private markets for Fund-III allocators." date: "2025-07-21" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "legacy-hardening-structural-advantage"
 --- 
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion.
@@ -22,11 +17,7 @@ T
 
 The North American energy ecosystem has entered a multi year efficiency 
 
-# Phase D: riven by underinvestment rather than overproduction
-
-.
-
-Since 2015, upstream and midstream operators have reduced capex intensity more than 
+# Phase D: riven by underinvestment rather than overproduction. Since 2015, upstream and midstream operators have reduced capex intensity more than 
 
 40 percent while simultaneously extending productive life across legacy assets with stable decline curves.
 
@@ -158,11 +149,7 @@ Special mandates between
 
 250 million USD in energy follow a defined due diligence sequence based on reservoir mapping, decline calibration, and cash flow hardening procedures.
 
-THE STEWARDSHIP FILTER Legacy hardening is a stewardship discipline
-
-.
-
-The theology of capital centers on non wasteful allocation and the preservation of long horizon value.
+THE STEWARDSHIP FILTER Legacy hardening is a stewardship discipline. The theology of capital centers on non wasteful allocation and the preservation of long horizon value.
 
 Stewardship is not sentiment.
 
@@ -214,11 +201,7 @@ Structural alignment is the execution.
 
 Institutional navigation is the differentiator. [END OF BRIEFING]
 
-# TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+# TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

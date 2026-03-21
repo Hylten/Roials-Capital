@@ -1,9 +1,4 @@
----
-title: "Institutional‑Grade Liquidity Architecture for High‑Value Assets"
-description: "A principal‑level analytical brief on capital formation, asset‑backed liquidity engineering, and institutional liquidity frameworks for Fund‑III buyouts, add‑ons, and special mandate energy acquisitions."
-date: "2025-11-22"
-author: "ROIALS CAPITAL"
-slug: "institutional-liquidity-architecture-Fund-III"
+--- title: "Institutional‑Grade Liquidity Architecture for High‑Value Assets" description: "A principal‑level analytical brief on capital formation, asset‑backed liquidity engineering, and institutional liquidity frameworks for Fund‑III buyouts, add‑ons, and special mandate energy acquisitions." date: "2025-11-22" author: "ROIALS CAPITAL" slug: "institutional-liquidity-architecture-Fund-III"
 --- 
 
 Institutional liquidity is no longer a passive condition.
@@ -440,11 +435,7 @@ Confidential capital audit required for alignment assessment.
 
 Ratio: 1.14x liquidity coverage minimum.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

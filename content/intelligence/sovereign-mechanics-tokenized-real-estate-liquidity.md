@@ -1,9 +1,4 @@
----
-title: "The Sovereign Mechanics of Tokenized Real Estate Liquidity for Fund-III Acceleration"
-description: "Institutional analysis of tokenized real-asset liquidity structures, capital-raising mechanics, and cross-jurisdictional pathways for Fund-III buyouts, Asset-Based Lending engineering, and special-mandate acquisition pipelines."
-date: "2026-01-15"
-author: "Jonas Roials"
-slug: "sovereign-mechanics-tokenized-real-estate-liquidity"
+--- title: "The Sovereign Mechanics of Tokenized Real Estate Liquidity for Fund-III Acceleration" description: "Institutional analysis of tokenized real-asset liquidity structures, capital-raising mechanics, and cross-jurisdictional pathways for Fund-III buyouts, Asset-Based Lending engineering, and special-mandate acquisition pipelines." date: "2026-01-15" author: "Jonas Roials" slug: "sovereign-mechanics-tokenized-real-estate-liquidity"
 --- 
 
 Tokenized real estate is not a technology category.
@@ -170,11 +165,7 @@ Lower risk premiums because visibility reduces uncertainty.
 
 The building remains the same.
 
-The economics shift.
-
-Machine gun thoughts.
-
-Hard lines.
+The economics shift. Machine gun thoughts. Hard lines.
 
 Fast cuts.
 
@@ -455,16 +446,7 @@ Fund-III demands timestamp discipline.
 Tokenized structures deliver it.
 
 Machine gun sequence.
-
-Short lines.
-
-Hard frames.
-
-Value moves.
-
-Jurisdiction binds.
-
-Structure wins.
+ Short lines. Hard frames. Value moves. Jurisdiction binds. Structure wins.
 
 Tokens enable.
 
@@ -544,11 +526,7 @@ Fund-III targets
 
 End.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

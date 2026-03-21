@@ -1,9 +1,4 @@
----
-title: "The Sovereign Balance Sheet: Engineering For Fund-Grade Velocity In a Fragmented Capital Regime"
-description: "Institutional memo on sovereign-style balance sheet engineering, capital formation mechanics for Fund-III+, and the structural pathways allocators are using to harden portfolios across buyouts, add-ons, ABL liquidity engineering, and North American energy acquisition mandates."
-date: "2025-08-23"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "sovereign-balance-sheet-engineering-fund-grade-capital-formation"
+--- title: "The Sovereign Balance Sheet: Engineering For Fund-Grade Velocity In a Fragmented Capital Regime" description: "Institutional memo on sovereign-style balance sheet engineering, capital formation mechanics for Fund-III+, and the structural pathways allocators are using to harden portfolios across buyouts, add-ons, ABL liquidity engineering, and North American energy acquisition mandates." date: "2025-08-23" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "sovereign-balance-sheet-engineering-fund-grade-capital-formation"
 --- 
 
 The capital vacuum across North America and Europe is a structural consequence of regulatory drift, not a contraction of underlying asset productivity.
@@ -180,11 +175,7 @@ When engineered correctly, ABL functions like a sovereign liquidity buffer.
 
 E 
 
-### Layer I: s where institutional introductions matter
-
-.
-
-Allocators require specialized partners with precision and domain competence.
+### Layer I: s where institutional introductions matter. Allocators require specialized partners with precision and domain competence.
 
 Example: North American Energy Operations Corporation (NAEO) NAEO is the operational partner for institutional energy buyers seeking $50M to $250M heavy oil acquisitions.
 
@@ -242,11 +233,7 @@ The partnership model is designed to protect allocators from structural drift, o
 
 The objective is clarity, not persuasion.
 
-THE STEWARDSHIP FILTER Stewardship is not a moral slogan
-
-.
-
-It is the discipline of non wasteful resource management.
+THE STEWARDSHIP FILTER Stewardship is not a moral slogan. It is the discipline of non wasteful resource management.
 
 The Sovereign Balance Sheet Archetype is inherently a stewardship architecture. 
 

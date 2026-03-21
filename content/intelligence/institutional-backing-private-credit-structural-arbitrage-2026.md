@@ -1,9 +1,4 @@
----
-title: "The Power of Institutional Backing in Private Credit: Structural Advantage, Capital Discipline, and Strategic Alignment in the 2026 Energy and Middle Market Credit Regime"
-description: "An institutional briefing on the structural arbitrage emerging from North American energy finance, middle market capital dislocation, and the operational intelligence required for allocators to navigate private credit with disciplined strategic alignment."
-date: "2026-01-16"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "institutional-backing-private-credit-structural-arbitrage-2026"
+--- title: "The Power of Institutional Backing in Private Credit: Structural Advantage, Capital Discipline, and Strategic Alignment in the 2026 Energy and Middle Market Credit Regime" description: "An institutional briefing on the structural arbitrage emerging from North American energy finance, middle market capital dislocation, and the operational intelligence required for allocators to navigate private credit with disciplined strategic alignment." date: "2026-01-16" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "institutional-backing-private-credit-structural-arbitrage-2026"
 --- 
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion.
@@ -264,11 +259,7 @@ Allocators positioned to integrate Alberta heavy oil credit structures, middle m
 
 A confidential strategy audit provides the framework for assessing fit, alignment, and operational readiness while maintaining full compliance with institutional standards and regulatory expectations.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

@@ -1,9 +1,4 @@
----
-title: "The Mechanics of Tokenized Real Estate Liquidity"
-description: "Institutional-grade analysis of tokenized real estate liquidity structures, private credit interaction, Asset-Based Lending routing, and Fund-III capital scaling mechanics for UHNWIs and LPs."
-date: "2025-12-13"
-author: "ROIALS CAPITAL"
-slug: "mechanics-tokenized-real-estate-liquidity"
+--- title: "The Mechanics of Tokenized Real Estate Liquidity" description: "Institutional-grade analysis of tokenized real estate liquidity structures, private credit interaction, Asset-Based Lending routing, and Fund-III capital scaling mechanics for UHNWIs and LPs." date: "2025-12-13" author: "ROIALS CAPITAL" slug: "mechanics-tokenized-real-estate-liquidity"
 --- 
 
 Structural gaps create pricing power.
@@ -32,11 +27,7 @@ They are the firms that control the liquidity rails around the property.
 
 This is 
 
- THE REGIME SHIFT
-
- .
-
-THE REGIME SHIF
+ THE REGIME SHIFT. THE REGIME SHIF
 
 T
 
@@ -210,11 +201,7 @@ It treats tokenized real estate not as an asset class but as an operational infr
 
 Slow institutions cannot compete with an adversary that moves this quickly.
 
-THE STEWARDSHIP FILTER Stewardship is not sentiment
-
-.
-
-It is the disciplined avoidance of waste.
+THE STEWARDSHIP FILTER Stewardship is not sentiment. It is the disciplined avoidance of waste.
 
 Capital misallocated is capital violated.
 
@@ -253,11 +240,7 @@ They serve.
 EXIT Projected collateral clearance window inside tokenized structures: 4.
 7 hours.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

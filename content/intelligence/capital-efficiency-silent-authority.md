@@ -1,9 +1,4 @@
----
-title: "Capital Authority as a Silent Multiplier"
-description: "Institutional thesis on balance sheet efficiency, collateral orchestration, LTV optimization curves, and Fund-III capital formation mechanics for UHNWIs and private credit LPs."
-date: "2025-07-13"
-author: "Jonas Hyltén"
-slug: "capital-efficiency-silent-authority"
+--- title: "Capital Authority as a Silent Multiplier" description: "Institutional thesis on balance sheet efficiency, collateral orchestration, LTV optimization curves, and Fund-III capital formation mechanics for UHNWIs and private credit LPs." date: "2025-07-13" author: "Jonas Hyltén" slug: "capital-efficiency-silent-authority"
 --- 
 
 Structural gaps do not announce themselves.
@@ -250,11 +245,7 @@ Acquiring MiFID II platforms is an arbitrage play on compliance complexity.
 
 The institutional operator treats it as a competitive moat.
 
-THE STEWARDSHIP FILTER Capital efficiency is not merely financial
-
-.
-
-It is moral.
+THE STEWARDSHIP FILTER Capital efficiency is not merely financial. It is moral.
 
 Waste is sin.
 
@@ -320,11 +311,7 @@ E
 
 Conduct the confidential capital audit.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

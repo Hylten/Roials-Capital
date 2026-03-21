@@ -1,9 +1,4 @@
----
-title: "Sovereign-Grade Infrastructure for Institutional Asset Hardening"
-description: "Institutional architecture for Fund-III capital formation, cross-border acquisition scaffolding, and asset-hardening frameworks engineered for LP/GP governance, liquidity stabilization, and multi-jurisdictional buyout acceleration."
-date: "2026-01-22"
-author: "ROIALS CAPITAL"
-slug: "institutional-asset-hardening-infrastructure"
+--- title: "Sovereign-Grade Infrastructure for Institutional Asset Hardening" description: "Institutional architecture for Fund-III capital formation, cross-border acquisition scaffolding, and asset-hardening frameworks engineered for LP/GP governance, liquidity stabilization, and multi-jurisdictional buyout acceleration." date: "2026-01-22" author: "ROIALS CAPITAL" slug: "institutional-asset-hardening-infrastructure"
 --- 
 
 Institutional continuity demands engineered certainty.
@@ -60,11 +55,7 @@ That collision is the domain of ROIALS CAPITAL.
 
 I design the collision to produce yield.
 
-FOUNDATION: CAPITAL HARDENING AND Fund-III EXPANSION Fund-III lives or dies on forward visibility
-
-.
-
-Not performance alone.
+FOUNDATION: CAPITAL HARDENING AND Fund-III EXPANSION Fund-III lives or dies on forward visibility. Not performance alone.
 
 Not governance alone.
 
@@ -263,16 +254,7 @@ The execution engine rests on three rails:
 - Integration without drag.
 
 Predictive sourcing leverages fragmented markets.
-
-Industrial services.
-
-Energy infrastructure.
-
-Niche manufacturing.
-
-Small logistics.
-
-Owner fatigue.
+ Industrial services. Energy infrastructure. Niche manufacturing. Small logistics. Owner fatigue.
 
 Succession chokepoints.
 
@@ -638,11 +620,7 @@ Mandates need execution partners.
 
 We 
 
-### Step I: nto the gap with sovereign-grade design
-
-.
-
-Kapitalanskaffning drives the engine.
+### Step I: nto the gap with sovereign-grade design. Kapitalanskaffning drives the engine.
 
 Monetization Architecture stabilizes the engine.
 
@@ -654,11 +632,7 @@ The result is institutional inevitability.
 
 End with directive: Initiate confidential capital audit.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

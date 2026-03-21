@@ -1,9 +1,4 @@
----
-title: "Institutional Alignment and the Architecture of Private Credit Stewardship"
-description: "Technical briefing for UHNWIs and institutional LPs on alignment mechanics, LTV structuring, cash-flow governance, and Fund-III capital stewardship."
-date: "2025-08-08"
-author: "Jonas Hyltén"
-slug: "institutional-alignment-private-credit-architecture"
+--- title: "Institutional Alignment and the Architecture of Private Credit Stewardship" description: "Technical briefing for UHNWIs and institutional LPs on alignment mechanics, LTV structuring, cash-flow governance, and Fund-III capital stewardship." date: "2025-08-08" author: "Jonas Hyltén" slug: "institutional-alignment-private-credit-architecture"
 --- 
 
 A structural gap defines this cycle: capital velocity has outpaced covenant integrity.
@@ -279,11 +274,7 @@ If they resist discipline at the term sheet, they will resist discipline at mont
 
 That is a predictable failure point.
 
-THE STEWARDSHIP FILTER Stewardship is the governing ethic
-
-.
-
-Private credit is not a game of yield.
+THE STEWARDSHIP FILTER Stewardship is the governing ethic. Private credit is not a game of yield.
 
 It is a theology of allocation. **Proverbs 13:22
 
@@ -377,11 +368,7 @@ Anything below
 
 80 percent signals systemic failure.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

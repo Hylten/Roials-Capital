@@ -1,9 +1,4 @@
----
-title: "Liquidity Engineering Against Bitcoin: The Institutional Gold Standard for Family Offices"
-description: "A principal-level briefing on Capital Structuring, structured capital, and Fund-III readiness for family offices positioning Bitcoin as a collateralized reserve asset within multi-layered private markets architecture."
-date: "2025-09-19"
-author: "ROIALS CAPITAL"
-slug: "liquidity-engineering-bitcoin-gold-standard-family-offices"
+--- title: "Liquidity Engineering Against Bitcoin: The Institutional Gold Standard for Family Offices" description: "A principal-level briefing on Capital Structuring, structured capital, and Fund-III readiness for family offices positioning Bitcoin as a collateralized reserve asset within multi-layered private markets architecture." date: "2025-09-19" author: "ROIALS CAPITAL" slug: "liquidity-engineering-bitcoin-gold-standard-family-offices"
 --- 
 
 Bitcoin is now a balance-sheet force multiplier.
@@ -26,11 +21,7 @@ A liquidity axis untouched by national politics. **Proverbs 13:22
 
 * : A good man leaves an inheritance to his children’s children: but the wealth of the sinner is stored up for the righteous.
 
-Institutional gravity shifted.
-
-Quiet at first.
-
-Now pronounced.
+Institutional gravity shifted. Quiet at first. Now pronounced.
 
 Basel-linked banks restrict velocity.
 
@@ -506,11 +497,7 @@ For collateral depth.
 
 For treasury stabilization.
 
-For strategic liquidity.
-
-Family offices lead.
-
-Institutions follow.
+For strategic liquidity. Family offices lead. Institutions follow.
 
 Always.
 
@@ -684,11 +671,7 @@ For principal evaluation, submit a confidential capital audit.
 
 Terminal metric: LTV hard cap: 18.6%
 
-# TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+# TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

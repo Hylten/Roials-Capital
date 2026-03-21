@@ -1,9 +1,4 @@
----
-title: "Navigating the Middle Market Credit Gap with Structural Precision"
-description: "Institutional briefing on the capital vacuum across middle market credit, structural inefficiencies, and strategic alignment mechanisms for Fund-III allocations, balance sheet optimization, and cross-border acquisition mandates."
-date: "2025-08-18"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "middle-market-credit-gap-structural-precision"
+--- title: "Navigating the Middle Market Credit Gap with Structural Precision" description: "Institutional briefing on the capital vacuum across middle market credit, structural inefficiencies, and strategic alignment mechanisms for Fund-III allocations, balance sheet optimization, and cross-border acquisition mandates." date: "2025-08-18" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "middle-market-credit-gap-structural-precision"
 --- 
 
 The capital vacuum in North America’s middle market credit system is not a consequence of borrower deterioration.
@@ -118,11 +113,7 @@ Strategic Partner Integration NAEO is identified as the exclusive energy partner
 
 In other sectors, partnerships are aligned based on operational maturity, cross-border capability, and adherence to institutional risk disciplines.
 
-THE STEWARDSHIP FILTER Stewardship governs the deployment of capital as a resource under responsibility
-
-.
-
-It aligns with the discipline articulated in **Proverbs 13:22
+THE STEWARDSHIP FILTER Stewardship governs the deployment of capital as a resource under responsibility. It aligns with the discipline articulated in **Proverbs 13:22
 
 * 
 
@@ -158,11 +149,7 @@ The middle market credit gap presents one of the most structurally coherent ecos
 
 These sessions are designed to clarify structural pathways, pressure test assumptions, and align capital with sectors and partners where risk and discipline converge. [END OF BRIEFING]
 
-# TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+# TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

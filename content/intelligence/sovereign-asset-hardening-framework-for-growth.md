@@ -1,9 +1,4 @@
----
-title: "Sovereign Asset Hardening: The Framework for Growth"
-description: "Institutional briefing on sovereign grade asset hardening, capital stack calibration, liquidity engineering, and North American energy structural arbitrage for Fund-III+. Technical architecture for UHNWIs, institutional LPs, and GP partners seeking regime shift aligned deployment."
-date: "2025-09-03"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "sovereign-asset-hardening-framework-for-growth"
+--- title: "Sovereign Asset Hardening: The Framework for Growth" description: "Institutional briefing on sovereign grade asset hardening, capital stack calibration, liquidity engineering, and North American energy structural arbitrage for Fund-III+. Technical architecture for UHNWIs, institutional LPs, and GP partners seeking regime shift aligned deployment." date: "2025-09-03" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "sovereign-asset-hardening-framework-for-growth"
 --- 
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion.

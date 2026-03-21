@@ -1,9 +1,4 @@
----
-title: "Institutional Grade Infrastructure For Global Capital: Strategic Alignment, Liquidity Engineering, and Cross-Border Deployment Frameworks"
-description: "A clinical institutional briefing on the structural regime shift shaping global capital flows, emphasizing buyout infrastructure, Asset-Backed Frameworks, and energy deployment mechanics within a multi jurisdictional framework aligned with Fund-III mandates."
-date: "2025-12-16"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "institutional-grade-infrastructure-global-capital-architecture"
+--- title: "Institutional Grade Infrastructure For Global Capital: Strategic Alignment, Liquidity Engineering, and Cross-Border Deployment Frameworks" description: "A clinical institutional briefing on the structural regime shift shaping global capital flows, emphasizing buyout infrastructure, Asset-Backed Frameworks, and energy deployment mechanics within a multi jurisdictional framework aligned with Fund-III mandates." date: "2025-12-16" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "institutional-grade-infrastructure-global-capital-architecture"
 --- 
 
 The capital vacuum across global private markets is a function of structural dislocation rather than asset scarcity.
@@ -168,11 +163,7 @@ Roials does not manage energy assets.
 
 It introduces institutional allocators to the Alberta landscape and supports strategic evaluation.
 
-THE STEWARDSHIP FILTER Stewardship is a governance discipline
-
-.
-
-For capital allocators, stewardship is the process of deploying resources in a manner that increases productive capacity while minimizing waste.
+THE STEWARDSHIP FILTER Stewardship is a governance discipline. For capital allocators, stewardship is the process of deploying resources in a manner that increases productive capacity while minimizing waste.
 
 It is not moral sentiment.
 
@@ -230,11 +221,7 @@ Does the structure allow for dynamic capital deployment and balance sheet optimi
 
 Roials Capital provides institutional LPs and GPs with a confidential strategy audit to evaluate alignment across these four dimensions and calibrate portfolio posture accordingly. [END OF BRIEFING]
 
-# TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+# TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

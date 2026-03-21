@@ -1,9 +1,4 @@
----
-title: "Wealth Mobility Architecture and Borderless Crypto Collateral for Institutional Grade M and A"
-description: "A technical intelligence brief on sovereign grade wealth mobility systems, crypto collateral integration, and Liquidity Engineering for institutional M and A across private equity markets."
-date: "2026-03-15"
-author: "Jonas Hyltén"
-slug: "wealth-mobility-borderless-crypto-collateral"
+--- title: "Wealth Mobility Architecture and Borderless Crypto Collateral for Institutional Grade M and A" description: "A technical intelligence brief on sovereign grade wealth mobility systems, crypto collateral integration, and Liquidity Engineering for institutional M and A across private equity markets." date: "2026-03-15" author: "Jonas Hyltén" slug: "wealth-mobility-borderless-crypto-collateral"
 --- 
 
 [START INTELLIGENCE REPORT] 
@@ -336,11 +331,7 @@ It is the current competitive frontier for institutional grade M and A.
 
 Firms that master this architecture will dominate high velocity deal environments from 2026 onward. [END INTELLIGENCE REPORT]
 
-# TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+# TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

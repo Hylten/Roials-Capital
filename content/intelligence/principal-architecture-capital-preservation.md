@@ -1,9 +1,4 @@
----
-title: "The Principal Architecture of Capital Preservation"
-description: "Institutional blueprint for capital raising, buyout discipline, liquidity engineering, and multi-cycle preservation mechanics across Fund-III mandates"
-date: "2025-07-22"
-author: "Jonas Hyltén"
-slug: "principal-architecture-capital-preservation"
+--- title: "The Principal Architecture of Capital Preservation" description: "Institutional blueprint for capital raising, buyout discipline, liquidity engineering, and multi-cycle preservation mechanics across Fund-III mandates" date: "2025-07-22" author: "Jonas Hyltén" slug: "principal-architecture-capital-preservation"
 --- 
 
 A structural gap defines the current investment regime.
@@ -317,11 +312,7 @@ It ends in realized mathematics.
 
 Request a confidential capital audit.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

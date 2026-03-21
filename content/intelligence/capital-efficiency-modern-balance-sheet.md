@@ -1,9 +1,4 @@
----
-title: "Capital Efficiency for the Modern Balance Sheet: Leveraging Core Holdings with Silent Authority"
-description: "Institutional briefing on capital efficiency, liquidity engineering, and structural balance sheet optimization for Fund-III buyouts, cross-border mandates, and North American energy introductions."
-date: "2025-10-17"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "capital-efficiency-modern-balance-sheet"
+--- title: "Capital Efficiency for the Modern Balance Sheet: Leveraging Core Holdings with Silent Authority" description: "Institutional briefing on capital efficiency, liquidity engineering, and structural balance sheet optimization for Fund-III buyouts, cross-border mandates, and North American energy introductions." date: "2025-10-17" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "capital-efficiency-modern-balance-sheet"
 --- 
 
 The capital vacuum in North America’s energy sector is a consequence of regulatory drift, not resource depletion.
@@ -256,11 +251,7 @@ It increases Opportunity Velocity without destabilizing the equity foundation.
 
 Roials Capital supports allocators seeking disciplined clarity, technical accuracy, and structural alignment across their Fund-III roadmap, liquidity frameworks, and energy introductions. [END OF BRIEFING]
 
-# TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+# TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

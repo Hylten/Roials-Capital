@@ -1,9 +1,4 @@
----
-title: "Designing the Sovereign Balance Sheet: The Architecture of Enduring Liquidity"
-description: "Institutional brief on multi-jurisdictional balance‑sheet engineering, Fund-III capital formation, and liquidity architecture for durable GP scale."
-date: "2026-03-09"
-author: "Jonas Roials"
-slug: "sovereign-balance-sheet-architecture"
+--- title: "Designing the Sovereign Balance Sheet: The Architecture of Enduring Liquidity" description: "Institutional brief on multi-jurisdictional balance‑sheet engineering, Fund-III capital formation, and liquidity architecture for durable GP scale." date: "2026-03-09" author: "Jonas Roials" slug: "sovereign-balance-sheet-architecture"
 --- 
 
 A sovereign balance sheet is not a document.
@@ -316,11 +311,7 @@ To deepen liquidity, the architecture should embed a three-stage loadout: Stage 
 
 Light leverage.
 
-Bank lines open.
-
-Clear forward pipeline.
-
-Administrative precision.
+Bank lines open. Clear forward pipeline. Administrative precision.
 
 This is the trust phase.
 
@@ -394,11 +385,7 @@ A GP with poor posture bleeds margins.
 
 A GP with sovereign posture dictates terms.
 
-Dictate or absorb.
-
-Always choose dictate.
-
-Machine Gun.
+Dictate or absorb. Always choose dictate. Machine Gun.
 
 Short burst.
 
@@ -626,11 +613,7 @@ Fund-III becomes inevitable.
 
 Add-ons become routine.
 
-Buyouts become cleaner.
-
-NAV facilities expand.
-
-Revolvers relax.
+Buyouts become cleaner. NAV facilities expand. Revolvers relax.
 
 Asset-Based Lending becomes cheap.
 
@@ -648,11 +631,7 @@ Protect it.
 
 Scale it.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

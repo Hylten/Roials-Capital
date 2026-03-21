@@ -1,9 +1,4 @@
----
-title: "Institutional Frameworks for Private Debt Origination in a Fragmented Capital Regime"
-description: "A clinical institutional briefing on private debt origination mechanics, capital stack structuring, LTV discipline, and the role of Roials Capital as a strategic partner in Fund-III capital formation, Asset-Based Lending liquidity engineering, and special mandates across North America and the EU."
-date: "2025-07-05"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "institutional-frameworks-private-debt-origination"
+--- title: "Institutional Frameworks for Private Debt Origination in a Fragmented Capital Regime" description: "A clinical institutional briefing on private debt origination mechanics, capital stack structuring, LTV discipline, and the role of Roials Capital as a strategic partner in Fund-III capital formation, Asset-Based Lending liquidity engineering, and special mandates across North America and the EU." date: "2025-07-05" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "institutional-frameworks-private-debt-origination"
 --- 
 
 The structural gap defining private debt origination in 2026 is the direct result of regulatory divergence and capital flight from traditional credit markets, not a deterioration in underlying asset performance.
@@ -162,11 +157,7 @@ They manage reservoir development, production optimization, and technical risk m
 
 Roials Capital manages the strategic dialogue, structural mapping, and the institutional 
 
- INTRODUCTION
-
- .
-
-Asset-Based Lending and Special Situations For Asset-Based Lending and Capital Structuring mandates, Roials Capital provides balance sheet diagnostics and scenario modeling.
+ INTRODUCTION. Asset-Based Lending and Special Situations For Asset-Based Lending and Capital Structuring mandates, Roials Capital provides balance sheet diagnostics and scenario modeling.
 
 Allocators receive a clear view of collateral valuation, cash flow conversion probabilities, and expected time to liquidity stabilization.
 
@@ -176,11 +167,7 @@ Fund-III environments require disciplined LP curation, governance narrative cons
 
 The objective is to align the GP’s operational capabilities with LP expectations for transparency, downside mitigation, and repeatable origination.
 
-THE STEWARDSHIP FILTER Stewardship is the discipline of aligning capital with productive, non wasteful deployment
-
-.
-
-It is a theological and operational principle grounded in responsibility, asset protection, and the avoidance of speculation. **Proverbs 13:22
+THE STEWARDSHIP FILTER Stewardship is the discipline of aligning capital with productive, non wasteful deployment. It is a theological and operational principle grounded in responsibility, asset protection, and the avoidance of speculation. **Proverbs 13:22
 
 * 
 
@@ -216,11 +203,7 @@ A confidential strategy audit can identify alignment between the allocator’s m
 
 The objective is calibration: ensuring the portfolio reflects institutional grade stability and long horizon stewardship.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

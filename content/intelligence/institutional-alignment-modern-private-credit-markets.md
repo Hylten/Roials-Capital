@@ -1,9 +1,4 @@
----
-title: "Institutional Alignment in Modern Private Credit Markets"
-description: "Technical memorandum on the structural evolution of private credit markets, alignment mechanics for institutional allocators, and the role of strategic partners in navigating Fund-III capital formation, Asset-Based Lending liquidity engineering, and special mandates including North American energy acquisition corridors."
-date: "2025-09-17"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "institutional-alignment-modern-private-credit-markets"
+--- title: "Institutional Alignment in Modern Private Credit Markets" description: "Technical memorandum on the structural evolution of private credit markets, alignment mechanics for institutional allocators, and the role of strategic partners in navigating Fund-III capital formation, Asset-Based Lending liquidity engineering, and special mandates including North American energy acquisition corridors." date: "2025-09-17" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "institutional-alignment-modern-private-credit-markets"
 --- 
 
 The capital vacuum in North American and European private credit markets is a consequence of structural regulatory drift, not a shortage of institutional capital.
@@ -166,11 +161,7 @@ The partnership model is built on three pillars:
 
 - Governance alignment.
 
-THE STEWARDSHIP FILTER Stewardship is a discipline of non wasteful resource management
-
-.
-
-It is a capital philosophy aligned with **Proverbs 13:22
+THE STEWARDSHIP FILTER Stewardship is a discipline of non wasteful resource management. It is a capital philosophy aligned with **Proverbs 13:22
 
 * 
 
@@ -212,11 +203,7 @@ Roials Capital facilitates this process through confidential strategy audits and
 
 These are designed to clarify structural realities, align capital flows with sponsor competencies, and allow allocators to engage with the market from a position of technical strength. [END]
 
-# TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+# TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

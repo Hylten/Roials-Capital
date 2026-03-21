@@ -1,9 +1,4 @@
----
-title: "The Mechanics of Portfolio Backed Liquidity for Modern Private Capital"
-description: "An institutional analysis on the structural liquidity gap in private markets, the operational mechanics of portfolio backed financing, and the strategic alignment model used by Roials Capital to navigate capital inefficiencies across North America and Europe."
-date: "2025-08-10"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "portfolio-backed-liquidity-private-capital-mechanics"
+--- title: "The Mechanics of Portfolio Backed Liquidity for Modern Private Capital" description: "An institutional analysis on the structural liquidity gap in private markets, the operational mechanics of portfolio backed financing, and the strategic alignment model used by Roials Capital to navigate capital inefficiencies across North America and Europe." date: "2025-08-10" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "portfolio-backed-liquidity-private-capital-mechanics"
 --- 
 
 The structural gap in North American private markets is a capital formation issue born from regulatory drift, institutional retrenchment, and the mispricing of middle market operating risk.
@@ -164,11 +159,7 @@ They engage the structural model that governs asset behavior.
 
 The Roials Capital model ensures that the operator's governance structure and technical discipline are congruent with the allocator's fiduciary requirements.
 
-THE STEWARDSHIP FILTER Stewardship is not an ethical overlay
-
-.
-
-It is a discipline of capital preservation rooted in non wasteful resource management.
+THE STEWARDSHIP FILTER Stewardship is not an ethical overlay. It is a discipline of capital preservation rooted in non wasteful resource management.
 
 The Theology of Capital frames stewardship as the pursuit of stability in systems that can degrade through mismanagement. **Proverbs 13:22
 
@@ -302,11 +293,7 @@ Roials Capital operates as a strategic navigator who translates complex environm
 
 A confidential strategy audit or portfolio calibration session is typically the next step for allocators who require a precision assessment of their exposure architecture, jurisdictional alignment, and liquidity pacing across existing and prospective mandates. [END OF BRIEFING]
 
-# TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+# TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

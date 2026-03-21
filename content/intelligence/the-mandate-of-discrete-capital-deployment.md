@@ -1,9 +1,4 @@
----
-title: "The Mandate Of Discrete Capital Deployment"
-description: "The Mandate Of Discrete Capital Deployment"
-date: "2025-07-18"
-author: "Jonas Hyltén"
-slug: "the-mandate-of-discrete-capital-deployment"
+--- title: "The Mandate Of Discrete Capital Deployment" description: "The Mandate Of Discrete Capital Deployment" date: "2025-07-18" author: "Jonas Hyltén" slug: "the-mandate-of-discrete-capital-deployment"
 --- 
 
 # THE MANDAT
@@ -390,17 +385,9 @@ Only mandate.
 
 # Principal Directive If your capital requires discretion, structural alignment, and hardened deployment architecture, the next 
 
-### Step I: s obvious
+### Step I: s obvious. Request confidential audit.
 
-.
-
-Request confidential audit.
-
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

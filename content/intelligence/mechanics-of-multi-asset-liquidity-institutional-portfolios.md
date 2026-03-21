@@ -1,9 +1,4 @@
----
-title: "The Mechanics of Multi-Asset Liquidity for Institutional-Grade Portfolios"
-description: "A clinical examination of liquidity engineering, multi-asset balance sheet optimization, and the structural alignment between capital formation and private market deployment across Buyouts, Asset-Based Lending, and North American energy acquisitions."
-date: "2025-07-03"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "mechanics-of-multi-asset-liquidity-institutional-portfolios"
+--- title: "The Mechanics of Multi-Asset Liquidity for Institutional-Grade Portfolios" description: "A clinical examination of liquidity engineering, multi-asset balance sheet optimization, and the structural alignment between capital formation and private market deployment across Buyouts, Asset-Based Lending, and North American energy acquisitions." date: "2025-07-03" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "mechanics-of-multi-asset-liquidity-institutional-portfolios"
 --- 
 
 The capital vacuum in North American private markets is not a function of diminishing asset quality.
@@ -240,11 +235,7 @@ The current environment rewards those who possess operational intelligence, stru
 
 Roials Capital operates as a strategic partner for allocators who require an integrated understanding of multi asset liquidity and institutional deployment cycles. [END BRIEFING]
 
-# TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+# TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

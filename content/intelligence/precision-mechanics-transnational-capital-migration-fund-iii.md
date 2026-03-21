@@ -1,9 +1,4 @@
----
-title: "Precision Mechanics of Transnational Capital Migration for Fund‑III Expansion"
-description: "Institutional analysis on cross‑border capital formation, acquisition structuring, and liquidity engineering for Fund‑III buyouts, add‑ons, and energy mandates under multi‑jurisdictional regulatory vectors."
-date: "2025-09-29"
-author: "ROIALS CAPITAL"
-slug: "precision-mechanics-transnational-capital-migration-Fund-III"
+--- title: "Precision Mechanics of Transnational Capital Migration for Fund‑III Expansion" description: "Institutional analysis on cross‑border capital formation, acquisition structuring, and liquidity engineering for Fund‑III buyouts, add‑ons, and energy mandates under multi‑jurisdictional regulatory vectors." date: "2025-09-29" author: "ROIALS CAPITAL" slug: "precision-mechanics-transnational-capital-migration-Fund-III"
 --- 
 
 Transnational capital never travels randomly.
@@ -400,11 +395,7 @@ Tighten its energy posture.
 
 Execute with sovereign precision.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

@@ -1,9 +1,4 @@
----
-title: "Structural Alignment in Multi Jurisdictional Assets for Fund-III Scale Buyouts and Institutional Liquidity Engineering"
-description: "An institutional briefing on cross-jurisdictional structural alignment, capital regime fragmentation, operational arbitrage in North American energy, and Fund-III optimization for UHNWIs, Family Offices, and Institutional LPs navigating multi regime asset systems."
-date: "2025-06-26"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "structural-alignment-multi-jurisdictional-assets-Fund-III"
+--- title: "Structural Alignment in Multi Jurisdictional Assets for Fund-III Scale Buyouts and Institutional Liquidity Engineering" description: "An institutional briefing on cross-jurisdictional structural alignment, capital regime fragmentation, operational arbitrage in North American energy, and Fund-III optimization for UHNWIs, Family Offices, and Institutional LPs navigating multi regime asset systems." date: "2025-06-26" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "structural-alignment-multi-jurisdictional-assets-Fund-III"
 --- 
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion.
@@ -146,11 +141,7 @@ NAEO functions as the institutional grade operator within the Alberta energy dom
 
 Roials Capital introduces the allocator to NAEO when the strategic profile, risk tolerance, and jurisdictional structure are aligned.
 
-THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful capital deployment
-
-.
-
-It is not a moral gesture.
+THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful capital deployment. It is not a moral gesture.
 
 It is a technical regime that prevents resource leakage across jurisdictions, balance sheets, and operational cycles.
 

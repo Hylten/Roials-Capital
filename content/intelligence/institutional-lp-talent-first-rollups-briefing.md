@@ -1,9 +1,4 @@
----
-title: "Principal Briefing on Institutional LP Appetite for Talent‑First Rollups"
-description: "Confidential Principal-level analysis on human‑capital‑dominant buyout construction, institutional LP posture, and Fund‑III capital formation signals across North America and Europe."
-date: "2025-10-10"
-author: "ROIALS CAPITAL"
-slug: "institutional-lp-talent-first-rollups-briefing"
+--- title: "Principal Briefing on Institutional LP Appetite for Talent‑First Rollups" description: "Confidential Principal-level analysis on human‑capital‑dominant buyout construction, institutional LP posture, and Fund‑III capital formation signals across North America and Europe." date: "2025-10-10" author: "ROIALS CAPITAL" slug: "institutional-lp-talent-first-rollups-briefing"
 --- 
 
 The shift is quiet.
@@ -174,11 +169,7 @@ They want to see: *Upward compression of per‑site contribution.
 
 * When a rollup becomes a federation of leaders instead of a collection of assets, value compounds exponentially.
 
-It becomes unavoidable.
-
-It becomes investable.
-
-Phase Six.
+It becomes unavoidable. It becomes investable. Phase Six.
 
 Asset-Based Lending as a Tactical Accelerator.
 

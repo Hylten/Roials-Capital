@@ -1,9 +1,4 @@
----
-title: "Why Family Offices Are Quietly Replacing Banks in Add‑On Acquisition Financing"
-description: "Institutional briefing on the shift from regulated credit to private family capital for Fund-III buyouts, add‑on velocity, and cross‑jurisdictional execution."
-date: "2025-10-06"
-author: "ROIALS CAPITAL"
-slug: "family-offices-replacing-banks-add-on-financing"
+--- title: "Why Family Offices Are Quietly Replacing Banks in Add‑On Acquisition Financing" description: "Institutional briefing on the shift from regulated credit to private family capital for Fund-III buyouts, add‑on velocity, and cross‑jurisdictional execution." date: "2025-10-06" author: "ROIALS CAPITAL" slug: "family-offices-replacing-banks-add-on-financing"
 --- 
 
 Banks hesitate.

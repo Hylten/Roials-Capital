@@ -1,9 +1,4 @@
----
-title: "The Sovereign Capital Architecture: Building Multi‑Generational Liquidity"
-description: "Institutional briefing on the structural mechanics, liquidity architecture, and sovereign-grade capital design informing Fund-III scale allocations, North American energy mandates, and European private market acquisition frameworks."
-date: "2025-11-05"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "sovereign-capital-architecture-multigenerational-liquidity"
+--- title: "The Sovereign Capital Architecture: Building Multi‑Generational Liquidity" description: "Institutional briefing on the structural mechanics, liquidity architecture, and sovereign-grade capital design informing Fund-III scale allocations, North American energy mandates, and European private market acquisition frameworks." date: "2025-11-05" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "sovereign-capital-architecture-multigenerational-liquidity"
 --- 
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion.
@@ -160,11 +155,7 @@ The mechanics are not theoretical.
 
 They define allocator performance across entire business cycles.
 
-THE PARTNERSHIP MODEL Roials Capital functions as a strategic navigator, not an asset sponsor
-
-.
-
-The institutional mandate is threefold: 
+THE PARTNERSHIP MODEL Roials Capital functions as a strategic navigator, not an asset sponsor. The institutional mandate is threefold: 
 
 1.
 
@@ -226,11 +217,7 @@ It is the obligation to deploy capital where
 
  can be verified and operational execution has institutional fidelity.
 
-PORTFOLIO CALIBRATION LENS Institutional allocators require a decision-making lens that recognizes the structural regime shift
-
-.
-
-The following calibration points summarize the institutional posture required for multi-generational liquidity:
+PORTFOLIO CALIBRATION LENS Institutional allocators require a decision-making lens that recognizes the structural regime shift. The following calibration points summarize the institutional posture required for multi-generational liquidity:
 
 - Favor assets where physical systems dictate predictability
 

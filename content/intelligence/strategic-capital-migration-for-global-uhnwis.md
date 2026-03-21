@@ -1,16 +1,7 @@
----
-title: "Strategic Capital Migration for Global UHNWIs"
-description: "Institutional overview of strategic liquidity architecture, private credit, and asset based liquidity engineering frameworks for global UHNW capital migration."
-date: "2025-10-30"
-author: "Jonas Hyltén"
-slug: "strategic-capital-migration-for-global-uhnwis"
+--- title: "Strategic Capital Migration for Global UHNWIs" description: "Institutional overview of strategic liquidity architecture, private credit, and asset based liquidity engineering frameworks for global UHNW capital migration." date: "2025-10-30" author: "Jonas Hyltén" slug: "strategic-capital-migration-for-global-uhnwis"
 --- 
 
-# Strategic Capital Migration for Global UHNWIs Global wealth no longer responds to geography
-
-.
-
-It responds to structure.
+# Strategic Capital Migration for Global UHNWIs Global wealth no longer responds to geography. It responds to structure.
 
 Capital that does not migrate strategically becomes captive capital.
 
@@ -336,17 +327,9 @@ esign ensures that capital can move at three speeds simultaneously.
 
 The slowest 
 
-### Layer I: s shielded
+### Layer I: s shielded. The fastest 
 
-.
-
-The fastest 
-
-### Layer I: s silent
-
-.
-
-The mid layer provides stability.
+### Layer I: s silent. The mid layer provides stability.
 
 This is the architecture used by principal investors who intend to operate globally without constriction.
 
@@ -372,11 +355,7 @@ We do not follow the market.
 
 We design the system the market adapts to.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

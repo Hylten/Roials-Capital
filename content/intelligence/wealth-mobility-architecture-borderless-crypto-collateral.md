@@ -1,9 +1,4 @@
----
-title: "Wealth Mobility Architecture and Borderless Crypto Collateral for Institutional Grade M and A"
-description: "Institutional briefing on cross jurisdictional wealth mobility, digital collateral frameworks, and the integration of crypto based balance sheet structures into Fund-III buyout environments, including liquidity engineering and asset hardening protocols for allocators operating under MiFID II and North American private credit regimes."
-date: "2025-07-16"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "wealth-mobility-architecture-borderless-crypto-collateral"
+--- title: "Wealth Mobility Architecture and Borderless Crypto Collateral for Institutional Grade M and A" description: "Institutional briefing on cross jurisdictional wealth mobility, digital collateral frameworks, and the integration of crypto based balance sheet structures into Fund-III buyout environments, including liquidity engineering and asset hardening protocols for allocators operating under MiFID II and North American private credit regimes." date: "2025-07-16" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "wealth-mobility-architecture-borderless-crypto-collateral"
 --- 
 
 The capital vacuum in cross border M and A is not driven by a shortage of liquidity.

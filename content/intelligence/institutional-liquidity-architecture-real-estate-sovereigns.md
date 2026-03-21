@@ -1,9 +1,4 @@
----
-title: "Institutional Liquidity Architecture for Real Estate Sovereigns"
-description: "A high density institutional analysis on liquidity engineering, balance sheet optimization, and capital stack recalibration for real estate sovereigns operating under 2026 macro constraints, with strategic alignment for Fund-III mandates."
-date: "2026-02-09"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "institutional-liquidity-architecture-real-estate-sovereigns"
+--- title: "Institutional Liquidity Architecture for Real Estate Sovereigns" description: "A high density institutional analysis on liquidity engineering, balance sheet optimization, and capital stack recalibration for real estate sovereigns operating under 2026 macro constraints, with strategic alignment for Fund-III mandates." date: "2026-02-09" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "institutional-liquidity-architecture-real-estate-sovereigns"
 --- 
 
 The capital vacuum affecting real estate sovereignties in 2026 is a product of liquidity migration and regulatory compression, not asset obsolescence.
@@ -157,11 +152,7 @@ For real estate sovereignties, Roials Capital coordinates with capital providers
 
 The objective is strategic navigation through structural inefficiencies rather than portfolio acquisition.
 
-THE STEWARDSHIP FILTER THE THEOLOGY OF CAPITAL Stewardship functions as a discipline of managing scarce resources with precision and intent
-
-.
-
-This applies equally to land, liquidity, risk, and time.
+THE STEWARDSHIP FILTER THE THEOLOGY OF CAPITAL Stewardship functions as a discipline of managing scarce resources with precision and intent. This applies equally to land, liquidity, risk, and time.
 
 Sovereign operators excel when they apply stewardship frameworks that prioritize durability over velocity.
 
@@ -195,11 +186,7 @@ The critical questions revolve around:
 
 - access to programmatic capital insulated from episodic refinancing events Roials Capital provides a confidential strategy audit for sovereign operators and allocators seeking calibrated exposure, ensuring alignment between capital architecture, macro regime conditions, and operational governance.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

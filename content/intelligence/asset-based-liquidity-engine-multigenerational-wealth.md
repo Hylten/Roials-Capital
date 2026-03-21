@@ -1,9 +1,4 @@
----
-title: "Asset‑Based Liquidity Engineering as the Structural Engine of Multi‑Generational Wealth"
-description: "Institutional brief on capital formation strategy, Asset-Based Lending-driven Strategic Collateralization, and the architecture of multi‑generational asset hardening for Fund‑III and GP/LP mandates."
-date: "2025-09-04"
-author: "ROIALS CAPITAL"
-slug: "asset-based-liquidity-engine-multigenerational-wealth"
+--- title: "Asset‑Based Liquidity Engineering as the Structural Engine of Multi‑Generational Wealth" description: "Institutional brief on capital formation strategy, Asset-Based Lending-driven Strategic Collateralization, and the architecture of multi‑generational asset hardening for Fund‑III and GP/LP mandates." date: "2025-09-04" author: "ROIALS CAPITAL" slug: "asset-based-liquidity-engine-multigenerational-wealth"
 --- 
 
 The structural premise is simple.
@@ -321,16 +316,7 @@ Asset-Based Lending creates liquidity.
 Liquidity multiplies control.
 
 Control compounds wealth.
-
-Over decades.
-
-Across generations.
-
-Assets harden.
-
-Capital flows.
-
-Wealth stabilizes.
+ Over decades. Across generations. Assets harden. Capital flows. Wealth stabilizes.
 
 This cycle is predictable.
 
@@ -470,11 +456,7 @@ Confidential capital audit available on request.
 
 Mandate threshold: DSCR > 1.35x.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

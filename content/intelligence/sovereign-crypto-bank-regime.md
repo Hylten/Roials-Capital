@@ -1,9 +1,4 @@
----
-title: "The Sovereign Crypto Bank Regime"
-description: "Institutional thesis on sovereign-grade digital balance sheets, liquidity engineering, and the Fund-III capital formation horizon for UHNW allocators."
-date: "2026-02-10"
-author: "Jonas Hyltén"
-slug: "sovereign-crypto-bank-regime"
+--- title: "The Sovereign Crypto Bank Regime" description: "Institutional thesis on sovereign-grade digital balance sheets, liquidity engineering, and the Fund-III capital formation horizon for UHNW allocators." date: "2026-02-10" author: "Jonas Hyltén" slug: "sovereign-crypto-bank-regime"
 --- 
 
 A structural gap is widening beneath the feet of global allocators.
@@ -202,21 +197,13 @@ A steward rejects friction.
 
 When Fund-III integrates the sovereign crypto bank architecture with a stewardship doctrine, it becomes a fortress in a financial world defined by instability.
 
-EXIT The institutional mandate is simple
-
-.
-
-Reduce liquidity latency to sub 
+EXIT The institutional mandate is simple. Reduce liquidity latency to sub 
 
 180 seconds across the entire acquisition cycle.
 
 Request a confidential capital audit.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

@@ -1,9 +1,4 @@
----
-title: "The Calculus of Institutional Risk in Private Credit for Fund-III Expansion"
-description: "A principal-level dissection of risk calculus, capital formation, and structural engineering across private credit mandates, focused on Fund-III scale institutional commitments and acquisition pipelines."
-date: "2025-08-10"
-author: "ROIALS CAPITAL"
-slug: "calculus-of-risk-institutional-private-credit"
+--- title: "The Calculus of Institutional Risk in Private Credit for Fund-III Expansion" description: "A principal-level dissection of risk calculus, capital formation, and structural engineering across private credit mandates, focused on Fund-III scale institutional commitments and acquisition pipelines." date: "2025-08-10" author: "ROIALS CAPITAL" slug: "calculus-of-risk-institutional-private-credit"
 --- 
 
 Institutional private credit is no longer a yield product.
@@ -39,8 +34,6 @@ Below is the principal architecture.
 No filters.
 
 No dilution.
-
-Machine-gun clarity.
 
 Structural sentences.
 
@@ -262,11 +255,7 @@ Collateral is a dynamic system.
 
 Hardening occurs when the lender transforms the underlying asset into a performance-anchored security.
 
-In energy mandates.
-
-In industrial buyouts.
-
-In logistics.
+In energy mandates. In industrial buyouts. In logistics.
 
 In heavy equipment.
 
@@ -590,11 +579,7 @@ This is the architecture.
 
 Request a confidential capital audit to initiate allocation sizing.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

@@ -1,9 +1,4 @@
----
-title: "The Power of Private Credit in Modern M&A Architecture"
-description: "Institutional briefing on the structural role of private credit in contemporary M&A architecture, focusing on capital stack dynamics, liquidity engineering, and strategic alignment for UHNWIs and institutional allocators."
-date: "2025-08-14"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "private-credit-modern-ma-architecture"
+--- title: "The Power of Private Credit in Modern M&A Architecture" description: "Institutional briefing on the structural role of private credit in contemporary M&A architecture, focusing on capital stack dynamics, liquidity engineering, and strategic alignment for UHNWIs and institutional allocators." date: "2025-08-14" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "private-credit-modern-ma-architecture"
 --- 
 
 The liquidity imbalance in North American and European corporate markets is not a temporary condition.
@@ -166,11 +161,7 @@ The partnership model is defined by neutrality, discipline, and institutional st
 
 It ensures that capital providers enter environments where structural risk is understood, operational behavior is predictable, and capital sequencing is controlled.
 
-THE STEWARDSHIP FILTER Stewardship in capital architecture is defined as non wasteful resource management
-
-.
-
-The principle aligns with **Proverbs 13:22
+THE STEWARDSHIP FILTER Stewardship in capital architecture is defined as non wasteful resource management. The principle aligns with **Proverbs 13:22
 
 * 
 

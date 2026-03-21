@@ -1,9 +1,4 @@
----
-title: "Institutional Grade Infrastructure for Global Capital"
-description: "Institutional-grade architecture for Fund-III capital formation, liquidity engineering, and energy-special mandate deployment across US and EU private markets."
-date: "2025-11-20"
-author: "ROIALS CAPITAL"
-slug: "institutional-grade-infrastructure-global-capital"
+--- title: "Institutional Grade Infrastructure for Global Capital" description: "Institutional-grade architecture for Fund-III capital formation, liquidity engineering, and energy-special mandate deployment across US and EU private markets." date: "2025-11-20" author: "ROIALS CAPITAL" slug: "institutional-grade-infrastructure-global-capital"
 --- 
 
 The structural gap is clear.
@@ -194,19 +189,11 @@ The GP must maintain separate compliance rails, jurisdictional onboarding routes
 
 One friction point is enough to cost THE MANDAT
 
-E
-
-.
-
-A GP who manages these three systems with precision becomes institution-ready.
+E. A GP who manages these three systems with precision becomes institution-ready.
 
 A GP who does not remains in the aspirational layer of private markets.
 
-THE STEWARDSHIP FILTER Stewardship is an operating principle
-
-.
-
-Waste is a moral failure.
+THE STEWARDSHIP FILTER Stewardship is an operating principle. Waste is a moral failure.
 
 Theology of capital is engineering of capital.
 
@@ -247,11 +234,7 @@ EXIT Our mandate is simple: reduce capital friction by
 
 For a confidential capital audit, initiate contact.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

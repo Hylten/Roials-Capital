@@ -1,9 +1,4 @@
----
-title: "The Principal Architecture of Collateralized Liquidity"
-description: "A private-capital briefing on the structural mechanics of collateralized liquidity, private credit intelligence, and Asset-Based Lending thresholds for institutional execution."
-date: "2025-07-01"
-author: "ROIALS CAPITAL"
-slug: "principal-architecture-of-collateralized-liquidity"
+--- title: "The Principal Architecture of Collateralized Liquidity" description: "A private-capital briefing on the structural mechanics of collateralized liquidity, private credit intelligence, and Asset-Based Lending thresholds for institutional execution." date: "2025-07-01" author: "ROIALS CAPITAL" slug: "principal-architecture-of-collateralized-liquidity"
 --- 
 
 The sovereign machinery begins with a simple assertion: capital obeys structure, not sentiment.
@@ -38,11 +33,7 @@ Discipline.
 
 Hierarchy.
 
-Liquidity Architecture Fundamentals Capital raising for Fund-III and beyond demands a mechanical fluency that exceeds traditional private equity playbooks
-
-.
-
-Most GPs understand underwriting.
+Liquidity Architecture Fundamentals Capital raising for Fund-III and beyond demands a mechanical fluency that exceeds traditional private equity playbooks. Most GPs understand underwriting.
 
 Many understand portfolio operations.
 

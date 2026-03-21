@@ -1,9 +1,4 @@
----
-title: "Institutional Alignment in Modern Private Credit Architecture"
-description: "An institutional briefing on the regime shift in private credit, the realignment of GP-LP objectives, and the operational mechanics guiding Fund-III capital formation, liquidity engineering, and sector-specific mandates across North America and Europe."
-date: "2025-12-27"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "institutional-alignment-modern-private-credit-architecture"
+--- title: "Institutional Alignment in Modern Private Credit Architecture" description: "An institutional briefing on the regime shift in private credit, the realignment of GP-LP objectives, and the operational mechanics guiding Fund-III capital formation, liquidity engineering, and sector-specific mandates across North America and Europe." date: "2025-12-27" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "institutional-alignment-modern-private-credit-architecture"
 --- 
 
 The structural gap between capital availability and operational demand in modern private credit is not a product of cyclical contraction.
@@ -306,11 +301,7 @@ The institutional progression from preliminary review to calibrated engagement o
 
 This process allows LPs to evaluate governance structures, credit mechanics, and operational discipline through a controlled and private assessment.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

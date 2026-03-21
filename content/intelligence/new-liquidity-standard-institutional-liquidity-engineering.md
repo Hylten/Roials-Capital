@@ -1,9 +1,4 @@
----
-title: "The New Liquidity Standard for + Holders"
-description: "Institutional liquidity engineering for concentrated public equity positions. Private credit structuring, LTV discipline, and Fund-III capital architecture for UHNWIs and GPs."
-date: "2025-10-08"
-author: "Jonas Hyltén"
-slug: "new-liquidity-standard-institutional-liquidity-engineering"
+--- title: "The New Liquidity Standard for + Holders" description: "Institutional liquidity engineering for concentrated public equity positions. Private credit structuring, LTV discipline, and Fund-III capital architecture for UHNWIs and GPs." date: "2025-10-08" author: "Jonas Hyltén" slug: "new-liquidity-standard-institutional-liquidity-engineering"
 --- 
 
 A structural gap defines every capital era.
@@ -389,11 +384,7 @@ The technical threshold is
 
 180 day volatility band.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

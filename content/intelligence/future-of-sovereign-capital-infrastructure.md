@@ -1,9 +1,4 @@
----
-title: "The Future of Sovereign Capital Infrastructure: Institutional Navigation, Structural Alignment, and the Reconfiguration of Global Allocation Regimes"
-description: "Technical briefing on the emerging architecture of sovereign-scale capital deployment, the North American energy arbitrage, the rise of Fund-III capital formation, and the operational mechanics shaping institutional decision frameworks."
-date: "2026-02-05"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "future-of-sovereign-capital-infrastructure"
+--- title: "The Future of Sovereign Capital Infrastructure: Institutional Navigation, Structural Alignment, and the Reconfiguration of Global Allocation Regimes" description: "Technical briefing on the emerging architecture of sovereign-scale capital deployment, the North American energy arbitrage, the rise of Fund-III capital formation, and the operational mechanics shaping institutional decision frameworks." date: "2026-02-05" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "future-of-sovereign-capital-infrastructure"
 --- 
 
 The capital vacuum in North America’s energy sector is a consequence of regulatory drift, not resource depletion.
@@ -202,11 +197,7 @@ In Asset-Based Lending mandates, Roials Capital aligns Asset-Backed Frameworks w
 
 The objective is not transaction volume but long horizon operational continuity.
 
-THE STEWARDSHIP FILTER The future of sovereign capital infrastructure requires conceptual clarity around stewardship
-
-.
-
-Stewardship is not thematic.
+THE STEWARDSHIP FILTER The future of sovereign capital infrastructure requires conceptual clarity around stewardship. Stewardship is not thematic.
 
 It is the discipline of non wasteful resource allocation across time.
 
@@ -266,11 +257,7 @@ Reliance on partners capable of technical interpretation rather than distributio
 
 The objective is not transactional deployment but long term structural alignment. [END OF BRIEFING]
 
-# TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+# TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

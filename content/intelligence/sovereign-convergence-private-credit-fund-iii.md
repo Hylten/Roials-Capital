@@ -1,9 +1,4 @@
----
-title: "The Sovereign Convergence: Private Credit Ascendant and the Reconstitution of Wealth"
-description: "Institutional brief on the structural ascent of private credit, sovereign capital realignment, and Fund-III capital formation strategies across buyouts, liquidity engineering, and special mandates."
-date: "2025-07-22"
-author: "ROIALS CAPITAL"
-slug: "sovereign-convergence-private-credit-Fund-III"
+--- title: "The Sovereign Convergence: Private Credit Ascendant and the Reconstitution of Wealth" description: "Institutional brief on the structural ascent of private credit, sovereign capital realignment, and Fund-III capital formation strategies across buyouts, liquidity engineering, and special mandates." date: "2025-07-22" author: "ROIALS CAPITAL" slug: "sovereign-convergence-private-credit-Fund-III"
 --- 
 
 The architecture of global capital is shifting again.
@@ -205,11 +200,7 @@ Operators must be cash-efficient from day one.
 
 Add-ons must be pre-integrated.
 
-No loose ends.
-
-No slow synergies.
-
-Precision sequencing.
+No loose ends. No slow synergies. Precision sequencing.
 
 Fund-III deploys buyouts where private credit reinforces control:
 
@@ -376,10 +367,7 @@ Their partners must operate with precision and silence.
 We do.
 
 PRIVATE CREDIT AS THE NEW SOVEREIGN INSTRUMENT What bonds were to the 20th century, private credit becomes to the 21st.
-
-Not because of yield.
-
-Because of control.
+of control, not of yield.
 
 Private credit shapes operational behavior.
 
@@ -406,10 +394,7 @@ Not as lender.
 As architect.
 
 HARD ASSET DOCTRINE Hard assets rule the next cycle.
-
-Not because they inflate.
-
-Because they survive.
+they survive, not they inflate.
 
 Metals.
 
@@ -519,11 +504,7 @@ For confidential capital audit: contact ROIALS CAPITAL.
 
 Leverage Ratio Target: 1.85x.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

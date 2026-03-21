@@ -1,9 +1,4 @@
----
-title: "Deep Liquidity Architecture for Fund‑III Mobilization"
-description: "A principal-grade blueprint for raising institutional capital in illiquid markets, integrating liquidity engineering, private credit overlays, and cross‑jurisdictional acquisition structuring for Fund-III expansion."
-date: "2026-03-06"
-author: "ROIALS CAPITAL"
-slug: "deep-liquidity-architecture-Fund-III"
+--- title: "Deep Liquidity Architecture for Fund‑III Mobilization" description: "A principal-grade blueprint for raising institutional capital in illiquid markets, integrating liquidity engineering, private credit overlays, and cross‑jurisdictional acquisition structuring for Fund-III expansion." date: "2026-03-06" author: "ROIALS CAPITAL" slug: "deep-liquidity-architecture-Fund-III"
 --- 
 
 Deep liquidity architecture begins where ordinary capital strategy collapses.
@@ -452,15 +447,7 @@ This is the optimal environment for a principal-grade platform.
 
 Provide THE MANDAT
 
-E
-
-.
-
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+E. TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

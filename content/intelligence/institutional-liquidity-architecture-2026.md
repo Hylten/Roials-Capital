@@ -1,9 +1,4 @@
----
-title: "The New Architecture of Institutional Liquidity: Private Credit’s Ascendancy and the Capital Mandate of Fund-III"
-description: "An institutional briefing on the structural evolution of private credit in 2026, focused on capital raising dynamics for Fund-III, liquidity engineering, and cross-jurisdictional acquisition finance under MiFID II and NAEOC energy mandates."
-date: "2025-12-22"
-author: "ROIALS CAPITAL"
-slug: "institutional-liquidity-architecture-2026"
+--- title: "The New Architecture of Institutional Liquidity: Private Credit’s Ascendancy and the Capital Mandate of Fund-III" description: "An institutional briefing on the structural evolution of private credit in 2026, focused on capital raising dynamics for Fund-III, liquidity engineering, and cross-jurisdictional acquisition finance under MiFID II and NAEOC energy mandates." date: "2025-12-22" author: "ROIALS CAPITAL" slug: "institutional-liquidity-architecture-2026"
 --- 
 
 Private credit in 2026 is no longer a substitute for bank lending.
@@ -720,11 +715,7 @@ Fund-III sits at the center.
 
 The next phase requires capital alignment.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

@@ -1,9 +1,4 @@
----
-title: "The Structural Role of ABL in Modern Diversified Wealth Portfolios"
-description: "Institutional briefing on asset based lending as a stabilizing function in multi regime portfolios, with emphasis on balance sheet optimization, cross collateral mechanics, and the role of ABL as a liquidity engineering tool supporting Fund-III buyout velocity and special mandates across energy and EU MiFID II platforms."
-date: "2025-07-09"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "structural-role-of-abl-in-modern-diversified-wealth-portfolios"
+--- title: "The Structural Role of ABL in Modern Diversified Wealth Portfolios" description: "Institutional briefing on asset based lending as a stabilizing function in multi regime portfolios, with emphasis on balance sheet optimization, cross collateral mechanics, and the role of ABL as a liquidity engineering tool supporting Fund-III buyout velocity and special mandates across energy and EU MiFID II platforms." date: "2025-07-09" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "structural-role-of-abl-in-modern-diversified-wealth-portfolios"
 --- 
 
 The capital vacuum in North American asset markets is not a function of scarcity.
@@ -126,11 +121,7 @@ Its function is stabilization, precision, and liquidity release.
 
 This is why it has become a central 
 
-### Pillar I: n diversified wealth architectures
-
-.
-
-THE PARTNERSHIP MODEL Roials Capital functions as a strategic navigator and institutional introducer.
+### Pillar I: n diversified wealth architectures. THE PARTNERSHIP MODEL Roials Capital functions as a strategic navigator and institutional introducer.
 
 The role is not to syndicate credit or promote product.
 
@@ -162,11 +153,7 @@ The ABL function supports Fund-III by enabling:
 
 - Allocators deploy capital with clarity on the mechanics, not with promotional narratives.
 
-THE STEWARDSHIP FILTER Stewardship is a discipline of non wasteful capital deployment
-
-.
-
-It is both an operational and moral framework.
+THE STEWARDSHIP FILTER Stewardship is a discipline of non wasteful capital deployment. It is both an operational and moral framework.
 
 The allocator who applies a stewardship filter prioritizes capital structures that preserve value, prevent degradation, and reinforce the integrity of the underlying assets. **Proverbs 13:22
 

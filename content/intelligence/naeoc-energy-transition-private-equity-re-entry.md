@@ -1,9 +1,4 @@
----
-title: "The Principal’s Position on NAEOC‑Scale Energy Transition Buyouts"
-description: "A private capital briefing on why $50M–$250M energy-transition control deals are re‑magnetizing infrastructure LPs and re‑opening the mid‑market for Fund‑III capital formation."
-date: "2026-02-04"
-author: "ROIALS CAPITAL"
-slug: "naeoc-energy-transition-private-equity-re-entry"
+--- title: "The Principal’s Position on NAEOC‑Scale Energy Transition Buyouts" description: "A private capital briefing on why $50M–$250M energy-transition control deals are re‑magnetizing infrastructure LPs and re‑opening the mid‑market for Fund‑III capital formation." date: "2026-02-04" author: "ROIALS CAPITAL" slug: "naeoc-energy-transition-private-equity-re-entry"
 --- 
 
 The center of gravity is shifting.
@@ -274,11 +269,7 @@ n
 
 - 
 
-### Phase V: Institutional control We are squarely in Phase 4
-
-.
-
-Consolidation demands GPs who can operate, contract, restructure, and optimize.
+### Phase V: Institutional control We are squarely in Phase 4. Consolidation demands GPs who can operate, contract, restructure, and optimize.
 
 Infrastructure LPs know this.
 
@@ -301,16 +292,7 @@ That shift alone is pulling infrastructure allocators back in.
 6.
 
 The demand backdrop is irreversible Electrification.
-
-Grid reinforcement.
-
-Localized generation.
-
-Resilience requirements.
-
-Industrial decarbonization.
-
-Perimeter renewables.
+ Grid reinforcement. Localized generation. Resilience requirements. Industrial decarbonization. Perimeter renewables.
 
 Mid‑scale storage.
 
@@ -322,11 +304,7 @@ Energy systems are being rebuilt for reasons of physics, not politics.
 
 That is the ultimate anchor for institutional capital.
 
-CAPITAL ARCHITECTURE ROIALS CAPITAL Position in the Cycle You already know our tri‑vector: Eighty percent capital raising for Fund‑III and add‑on execution
-
-.
-
-Ten percent Asset‑Based Lending for working liquidity.
+CAPITAL ARCHITECTURE ROIALS CAPITAL Position in the Cycle You already know our tri‑vector: Eighty percent capital raising for Fund‑III and add‑on execution. Ten percent Asset‑Based Lending for working liquidity.
 
 Ten percent special mandates including NAEOC and MiFID II pathways.
 
@@ -374,11 +352,7 @@ That is the gate.
 
 It exists to protect the architecture.
 
-THE PRINCIPAL'S CLOSING POSITION Energy transition private equity is entering the age of adult supervision
-
-.
-
-The NAEOC mid‑market corridor is where real value will be built.
+THE PRINCIPAL'S CLOSING POSITION Energy transition private equity is entering the age of adult supervision. The NAEOC mid‑market corridor is where real value will be built.
 
 Infrastructure LPs are already repositioning in that direction.
 

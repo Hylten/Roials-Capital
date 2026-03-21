@@ -1,9 +1,4 @@
----
-title: "Liquidity Engineering Against Bitcoin: Institutional Calibration for Family Offices and Fund-III Allocators"
-description: "Institutional briefing on Institutional Liquidity Paths, Bitcoin as a reserve stabilizer, and strategic capital alignment for UHNWIs, Family Offices, and Fund-III GP teams operating in a tightening global credit regime."
-date: "2025-11-24"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "liquidity-engineering-bitcoin-family-offices"
+--- title: "Liquidity Engineering Against Bitcoin: Institutional Calibration for Family Offices and Fund-III Allocators" description: "Institutional briefing on Institutional Liquidity Paths, Bitcoin as a reserve stabilizer, and strategic capital alignment for UHNWIs, Family Offices, and Fund-III GP teams operating in a tightening global credit regime." date: "2025-11-24" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "liquidity-engineering-bitcoin-family-offices"
 --- 
 
 The structural gap in global reserve architecture is no longer a function of commodity scarcity.
@@ -134,11 +129,7 @@ Roials Capital remains the neutral introducer.
 
 The objective is to align allocators with operational structures and technical partners that match their institutional archetype.
 
-THE STEWARDSHIP FILTER Stewardship is the systematic discipline of deploying capital in a manner that prevents value leakage
-
-.
-
-It is a governance function.
+THE STEWARDSHIP FILTER Stewardship is the systematic discipline of deploying capital in a manner that prevents value leakage. It is a governance function.
 
 Monetization Architecture is a stewardship tool because it minimizes waste created by timing mismatches, collateral inefficiencies, and reserve fragmentation.
 
@@ -188,11 +179,7 @@ Roials Capital supports this process by providing institutional grade navigation
 
 A Confidential Strategy Audit refines the liquidity stack, calibrates reserve architecture, and strengthens capital deployment capability across the next five to seven years of regulatory evolution.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

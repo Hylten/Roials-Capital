@@ -1,9 +1,4 @@
----
-title: "Silent Authority on the Modern Balance Sheet"
-description: "Institutional brief on capital formation for Fund-III, buyout-capable liquidity engineering, and mandate-driven acquisition structuring across US/EU regimes."
-date: "2025-12-19"
-author: "ROIALS CAPITAL"
-slug: "silent-authority-modern-balance-sheet"
+--- title: "Silent Authority on the Modern Balance Sheet" description: "Institutional brief on capital formation for Fund-III, buyout-capable liquidity engineering, and mandate-driven acquisition structuring across US/EU regimes." date: "2025-12-19" author: "ROIALS CAPITAL" slug: "silent-authority-modern-balance-sheet"
 --- 
 
 principal authority is not a stylistic choice.
@@ -74,11 +69,7 @@ Capital raising first.
 
 Eighty percent of THE MANDAT
 
-E
-
-.
-
-Kapitalanskaffning as a discipline, not an activity.
+E. Kapitalanskaffning as a discipline, not an activity.
 
 LP horizons changed.
 
@@ -296,11 +287,7 @@ Institutional clarity.
 
 GPs must speak in the dialect of committees, not founders.
 
-Data beats narrative.
-
-Covenants beat charisma.
-
-Invariant five.
+Data beats narrative. Covenants beat charisma. Invariant five.
 
 Asset hardening.
 
@@ -490,11 +477,7 @@ These doctrines refract into execution.
 
 Execution becomes identity.
 
-Identity becomes authority.
-
-Authority becomes silent.
-
-No summaries.
+Identity becomes authority. Authority becomes silent. No summaries.
 
 No soft landing.
 
@@ -504,11 +487,7 @@ Request a confidential capital audit to determine your current authority delta.
 
 Terminal metric: 1.6x liquidity coverage ratio.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

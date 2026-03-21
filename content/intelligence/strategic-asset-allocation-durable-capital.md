@@ -1,9 +1,4 @@
----
-title: "Strategic Asset Allocation for Long Term Liquidity: The Architecture of Durable Capital"
-description: "Institutional analysis of liquidity engineering, capital durability, LTV structuring, and the Fund-III regime for private buyout operators seeking long term solvency and scalable AUM expansion."
-date: "2026-01-16"
-author: "Jonas Hyltén"
-slug: "strategic-asset-allocation-durable-capital"
+--- title: "Strategic Asset Allocation for Long Term Liquidity: The Architecture of Durable Capital" description: "Institutional analysis of liquidity engineering, capital durability, LTV structuring, and the Fund-III regime for private buyout operators seeking long term solvency and scalable AUM expansion." date: "2026-01-16" author: "Jonas Hyltén" slug: "strategic-asset-allocation-durable-capital"
 --- 
 
 A liquidity shortage always begins as a structural illusion.
@@ -366,11 +361,7 @@ Your ratio determines your capital future.
 
 Request a confidential capital audit.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

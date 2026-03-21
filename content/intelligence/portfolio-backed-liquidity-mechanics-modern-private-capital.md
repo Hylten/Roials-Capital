@@ -1,9 +1,4 @@
----
-title: "The Mechanics of Portfolio Backed Liquidity for Modern Private Capital"
-description: "Institutional briefing on the structural role of portfolio backed liquidity in contemporary private markets, detailing the regime shift in capital formation, the technical mechanics of balance sheet optimization, and the partnership architecture required for allocators navigating buyout platforms, add on pathways, and energy linked mandates."
-date: "2026-03-15"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "portfolio-backed-liquidity-mechanics-modern-private-capital"
+--- title: "The Mechanics of Portfolio Backed Liquidity for Modern Private Capital" description: "Institutional briefing on the structural role of portfolio backed liquidity in contemporary private markets, detailing the regime shift in capital formation, the technical mechanics of balance sheet optimization, and the partnership architecture required for allocators navigating buyout platforms, add on pathways, and energy linked mandates." date: "2026-03-15" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "portfolio-backed-liquidity-mechanics-modern-private-capital"
 --- 
 
 The capital vacuum in private markets did not emerge from declining opportunity sets.
@@ -196,11 +191,7 @@ They are architecture oriented.
 
 They focus on long horizon stability for institutional allocators.
 
-THE STEWARDSHIP FILTER Stewardship is the discipline of intelligent capital deployment
-
-.
-
-It is not an ethical add on.
+THE STEWARDSHIP FILTER Stewardship is the discipline of intelligent capital deployment. It is not an ethical add on.
 
 It is a technical requirement for long term solvency.
 
@@ -284,11 +275,7 @@ Modern private capital requires institutional partners capable of navigating tec
 
 The allocator who understands portfolio backed liquidity as a strategic instrument rather than a financing tool is positioned to operate with greater precision, higher opportunity readiness, and more stable long horizon outcomes. [END OF BRIEFING]
 
-# TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+# TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

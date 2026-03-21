@@ -1,9 +1,4 @@
----
-title: "The Reallocation Mandate: Institutional Realignment for Fund-III Expansion"
-description: "A principal-level directive on capital reallocation, cross-jurisdictional structuring, and institutional capital engineering for Fund-III buyouts, liquidity mandates, and NAEOC energy acquisitions."
-date: "2025-07-31"
-author: "ROIALS CAPITAL"
-slug: "the-reallocation-mandate-Fund-III"
+--- title: "The Reallocation Mandate: Institutional Realignment for Fund-III Expansion" description: "A principal-level directive on capital reallocation, cross-jurisdictional structuring, and institutional capital engineering for Fund-III buyouts, liquidity mandates, and NAEOC energy acquisitions." date: "2025-07-31" author: "ROIALS CAPITAL" slug: "the-reallocation-mandate-Fund-III"
 --- 
 
 The Reallocation Mandate activates when structural pressures exceed historical comfort bands and when institutional capital requires repositioning toward asymmetric durability.
@@ -174,11 +169,7 @@ NAEOC corridors open a $50M to $250M acquisition window across upstream, midstre
 
 Consolidation pressures mount.
 
-Operators seek exits.
-
-Credit windows tighten.
-
-Equipment ages.
+Operators seek exits. Credit windows tighten. Equipment ages.
 
 Yields spike.
 
@@ -256,11 +247,7 @@ The Reallocation Mandate takes a principal stance on capital vaccination: defens
 
 Build buffers.
 
-Build shock absorbers.
-
-Load the reserves.
-
-Maintain firepower.
+Build shock absorbers. Load the reserves. Maintain firepower.
 
 When markets freeze, we advance.
 
@@ -572,11 +559,7 @@ The Reallocation Mandate delivers all three through:
 
 Strength in layers.
 
-Control in sequences.
-
-Velocity in deployment.
-
-No slogans.
+Control in sequences. Velocity in deployment. No slogans.
 
 No theatrics.
 
@@ -624,11 +607,7 @@ Target throughput ratio: 1.82x within
 
 12 months.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

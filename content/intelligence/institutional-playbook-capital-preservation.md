@@ -1,9 +1,4 @@
----
-title: "The Institutional Playbook for Capital Preservation in a Fragmented Capital Regime"
-description: "A clinical analysis for institutional allocators on capital preservation architecture across private markets, with emphasis on Fund-III buyout sequencing, Liquidity Engineering, and North American energy optionality through NAEO."
-date: "2025-12-10"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "institutional-playbook-capital-preservation"
+--- title: "The Institutional Playbook for Capital Preservation in a Fragmented Capital Regime" description: "A clinical analysis for institutional allocators on capital preservation architecture across private markets, with emphasis on Fund-III buyout sequencing, Liquidity Engineering, and North American energy optionality through NAEO." date: "2025-12-10" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "institutional-playbook-capital-preservation"
 --- 
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion.
@@ -162,11 +157,7 @@ Capital preservation arises because the asset behaves according to measurable na
 
 This characteristic has become rare in the modern private markets landscape.
 
-THE PARTNERSHIP MODEL Roials Capital does not occupy the role of fund manager
-
-.
-
-It functions as a strategic navigator and institutional introducer.
+THE PARTNERSHIP MODEL Roials Capital does not occupy the role of fund manager. It functions as a strategic navigator and institutional introducer.
 
 For allocators seeking capital preservation, the partnership model aligns expertise, asset-class mechanics, and regulatory structuring without assuming discretionary management authority. 
 
@@ -270,11 +261,7 @@ It is calibration of allocator frameworks to protect capital across dislocated m
 
 Allocators seeking confidential structural alignment review may initiate a Portfolio Calibration or Strategy Audit to evaluate how their current exposures align with the capital preservation architecture outlined in this briefing.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

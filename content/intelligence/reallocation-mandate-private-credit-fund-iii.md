@@ -1,9 +1,4 @@
----
-title: "The Reallocation Mandate"
-description: "Institutional analysis of private credit's regime shift, mid-market absorption capacity, and Fund-III capital formation pathways across buyouts, Asset-Based Lending liquidity engineering, and special mandates."
-date: "2025-08-04"
-author: "ROIALS CAPITAL"
-slug: "reallocation-mandate-private-credit-Fund-III"
+--- title: "The Reallocation Mandate" description: "Institutional analysis of private credit's regime shift, mid-market absorption capacity, and Fund-III capital formation pathways across buyouts, Asset-Based Lending liquidity engineering, and special mandates." date: "2025-08-04" author: "ROIALS CAPITAL" slug: "reallocation-mandate-private-credit-Fund-III"
 --- 
 
 A structural gap has opened at the center of private credit.
@@ -308,11 +303,7 @@ Never the opposite.
 
 EXIT The exit 
 
-### Layer I: s not optional
-
-.
-
-Every credit instrument must contain its exit logic inside the structure.
+### Layer I: s not optional. Every credit instrument must contain its exit logic inside the structure.
 
 Poor lenders defer exit planning.
 
@@ -328,11 +319,7 @@ Set the benchmark.
 
 Then surpass it.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

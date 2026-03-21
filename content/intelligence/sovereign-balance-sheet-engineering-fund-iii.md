@@ -1,9 +1,4 @@
----
-title: "The Sovereign Balance Sheet: Engineering for Fund-III and Institutional Expansion"
-description: "Institutional briefing on sovereign balance sheet engineering, capital formation architecture, and strategic alignment for Fund-III expansion across buyouts, liquidity engineering, and North American energy mandates."
-date: "2025-07-26"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "sovereign-balance-sheet-engineering-Fund-III"
+--- title: "The Sovereign Balance Sheet: Engineering for Fund-III and Institutional Expansion" description: "Institutional briefing on sovereign balance sheet engineering, capital formation architecture, and strategic alignment for Fund-III expansion across buyouts, liquidity engineering, and North American energy mandates." date: "2025-07-26" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "sovereign-balance-sheet-engineering-Fund-III"
 --- 
 
 The capital vacuum in North American private markets is a structural output of regulatory drift, not a shortage of institutional capital.

@@ -1,9 +1,4 @@
----
-title: "Asset Based Liquidity Engineering as the Structural Engine for Multi Generational Wealth"
-description: "Institutional analysis on the role of Asset Based Asset-Backed Frameworks in long horizon wealth architecture, balance sheet optimization, and strategic capitalization for Fund-III buyout cycles and energy mandates."
-date: "2025-09-18"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "asset-based-liquidity-engine-multi-generational-wealth"
+--- title: "Asset Based Liquidity Engineering as the Structural Engine for Multi Generational Wealth" description: "Institutional analysis on the role of Asset Based Asset-Backed Frameworks in long horizon wealth architecture, balance sheet optimization, and strategic capitalization for Fund-III buyout cycles and energy mandates." date: "2025-09-18" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "asset-based-liquidity-engine-multi-generational-wealth"
 --- 
 
 The capital vacuum in North American energy is not a product of diminishing reserves.
@@ -110,11 +105,7 @@ For special mandates, including MiFID II European acquisitions and North America
 
 The objective is not to direct capital into predefined structures but to ensure allocators receive clarity on collateral integrity, strategic optionality, and operational feasibility before commitment.
 
-THE STEWARDSHIP FILTER Stewardship is the discipline of managing finite resources with intentionality and humility
-
-.
-
-Multi generational wealth is not a matter of portfolio expansion.
+THE STEWARDSHIP FILTER Stewardship is the discipline of managing finite resources with intentionality and humility. Multi generational wealth is not a matter of portfolio expansion.
 
 It is the outcome of sustained capital preservation, responsible leverage, and calibrated risk exposure.
 
@@ -166,11 +157,7 @@ The objective is to refine alignment between asset structures, liquidity availab
 
 In a market defined by structural scarcity and operational complexity, disciplined Strategic Collateralization is the engine that sustains momentum, preserves optionality, and strengthens intergenerational continuity.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

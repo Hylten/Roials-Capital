@@ -1,9 +1,4 @@
----
-title: "Strategic Credit Architecture for High Net Worth Entrepreneurs: Institutional Structures for Capital Raising, Liquidity Engineering, and Cross Border Expansion"
-description: "A clinical institutional briefing on modern credit architecture for entrepreneurs operating within a globalized capital regime, with emphasis on Fund-III+ buyout capital formation, asset backed liquidity frameworks, and special mandates across North American energy and EU MiFID II environments."
-date: "2025-10-04"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "strategic-credit-architecture-hnwi-global"
+--- title: "Strategic Credit Architecture for High Net Worth Entrepreneurs: Institutional Structures for Capital Raising, Liquidity Engineering, and Cross Border Expansion" description: "A clinical institutional briefing on modern credit architecture for entrepreneurs operating within a globalized capital regime, with emphasis on Fund-III+ buyout capital formation, asset backed liquidity frameworks, and special mandates across North American energy and EU MiFID II environments." date: "2025-10-04" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "strategic-credit-architecture-hnwi-global"
 --- 
 
 The capital vacuum in North American and European middle market environments is a consequence of regulatory compression, interbank withdrawal, and procyclical risk weighting.
@@ -224,11 +219,7 @@ Key functions include:
 
 - Institutional 
 
- INTRODUCTION
-
- .
-
-Roials Capital identifies the appropriate lender or fund archetype for the entrepreneur's structural profile.
+ INTRODUCTION. Roials Capital identifies the appropriate lender or fund archetype for the entrepreneur's structural profile.
 
 This is not matchmaking but strategic placement.
 
@@ -250,11 +241,7 @@ For entrepreneurs with European governance structures and North American operati
 
 This partnership model positions Roials Capital as a strategic interpreter between entrepreneurs and the global capital system.
 
-THE STEWARDSHIP FILTER Stewardship establishes the ethical baseline for any credit architecture
-
-.
-
-It is the discipline of non wasteful resource management.
+THE STEWARDSHIP FILTER Stewardship establishes the ethical baseline for any credit architecture. It is the discipline of non wasteful resource management.
 
 The entrepreneur who treats capital as a scarce and sacred instrument achieves structural credibility. **Proverbs 13:22
 

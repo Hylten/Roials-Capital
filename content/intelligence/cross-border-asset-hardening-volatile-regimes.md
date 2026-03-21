@@ -1,9 +1,4 @@
----
-title: "Cross-Border Asset Hardening in Volatile Regimes"
-description: "Institutional briefing on cross-border asset hardening mechanics, Fund-III capital mobilisation, cash-flow durability engineering, and sovereign risk insulation."
-date: "2025-09-20"
-author: "Jonas Hyltén"
-slug: "cross-border-asset-hardening-volatile-regimes"
+--- title: "Cross-Border Asset Hardening in Volatile Regimes" description: "Institutional briefing on cross-border asset hardening mechanics, Fund-III capital mobilisation, cash-flow durability engineering, and sovereign risk insulation." date: "2025-09-20" author: "Jonas Hyltén" slug: "cross-border-asset-hardening-volatile-regimes"
 --- 
 
 Regulatory asymmetry always creates the spread.
@@ -88,11 +83,7 @@ We chase enforceability.
 
 That is 
 
- THE REGIME SHIFT
-
- .
-
-Asset hardening is not branding.
+ THE REGIME SHIFT. Asset hardening is not branding.
 
 It is mechanics.
 
@@ -290,11 +281,7 @@ It is a trust.
 
 The cross-border hardening model is simply the institutional expression of that trust.
 
-EXIT Exit discipline requires measurable thresholds
-
-.
-
-Fund-III uses three:
+EXIT Exit discipline requires measurable thresholds. Fund-III uses three:
 
 - Hardening Delta measured as the reduction in enforcement timeline variance.
 
@@ -304,11 +291,7 @@ Fund-III uses three:
 
 Request a confidential capital audit. [END]
 
-# TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+# TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

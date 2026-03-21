@@ -1,9 +1,4 @@
----
-title: "Institutional Standards for Private Liquidity Engineering Agreements: The Roials Capital Framework"
-description: "A technical analyst briefing for institutional allocators evaluating Institutional Liquidity Paths structures, capital stack optimization, and private credit alignment within the Roials Capital Framework."
-date: "2026-01-31"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "institutional-liquidity-engineering-ROIALS CAPITAL-framework"
+--- title: "Institutional Standards for Private Liquidity Engineering Agreements: The Roials Capital Framework" description: "A technical analyst briefing for institutional allocators evaluating Institutional Liquidity Paths structures, capital stack optimization, and private credit alignment within the Roials Capital Framework." date: "2026-01-31" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "institutional-liquidity-engineering-ROIALS CAPITAL-framework"
 --- 
 
 The dislocation between balance sheet needs and institutional credit availability in 2026 is not a function of elevated risk profiles.
@@ -188,11 +183,7 @@ The firm is not an issuer and does not provide investment advice.
 
 It is a technical partner that maps operational truth to institutional capital frameworks.
 
-THE STEWARDSHIP FILTER Stewardship is not a moral abstraction
-
-.
-
-It is a capital discipline defined by precision, non wasteful allocation, and long duration orientation.
+THE STEWARDSHIP FILTER Stewardship is not a moral abstraction. It is a capital discipline defined by precision, non wasteful allocation, and long duration orientation.
 
 The framework draws from principles such as **Proverbs 13:22
 
@@ -258,17 +249,9 @@ The objective is structural translation.
 
 When alignment exists, the next 
 
-### Step I: s typically a Confidential Strategy Audit
+### Step I: s typically a Confidential Strategy Audit. This review allows LPs, GPs, and operators to evaluate whether a Monetization Architecture Agreement fits their balance sheet architecture and operational cadence. [END OF BRIEFING]
 
-.
-
-This review allows LPs, GPs, and operators to evaluate whether a Monetization Architecture Agreement fits their balance sheet architecture and operational cadence. [END OF BRIEFING]
-
-# TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+# TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

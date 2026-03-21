@@ -1,9 +1,4 @@
----
-title: "The Calculus Of Risk In Institutional Private Credit"
-description: "An institutional briefing on risk stratification, structural credit mechanics, and capital formation dynamics shaping Fund-III+ buyouts, liquidity engineering mandates, and North American energy special situations."
-date: "2026-02-15"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "calculu-of-risk-in-institutional-private-credit"
+--- title: "The Calculus Of Risk In Institutional Private Credit" description: "An institutional briefing on risk stratification, structural credit mechanics, and capital formation dynamics shaping Fund-III+ buyouts, liquidity engineering mandates, and North American energy special situations." date: "2026-02-15" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "calculu-of-risk-in-institutional-private-credit"
 --- 
 
 The capital vacuum in North American private credit is the predictable outcome of regulatory fragmentation and institutional retrenchment rather than a deterioration in asset quality.
@@ -210,11 +205,7 @@ Special Situations Mandates This includes:
 
 Roials Capital does not promote a specific fund but instead ensures institutional alignment between the allocator and the required structure.
 
-THE STEWARDSHIP FILTER Institutional private credit, when practiced with discipline, is a manifestation of stewardship
-
-.
-
-Stewardship is defined as the responsible governance of capital and resources.
+THE STEWARDSHIP FILTER Institutional private credit, when practiced with discipline, is a manifestation of stewardship. Stewardship is defined as the responsible governance of capital and resources.
 
 It aligns with the principle in **Proverbs 13:22
 
@@ -268,11 +259,7 @@ Roials Capital provides confidential strategy audits and portfolio calibrations 
 
 The objective is to ensure that institutions deploy capital with clarity, technical precision, and structural advantage. [END OF BRIEFING]
 
-# TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+# TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

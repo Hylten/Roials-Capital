@@ -1,9 +1,4 @@
----
-title: "The Institutional Asset Hardening Playbook: Passing a $5B Board Review"
-description: "A principal-grade framework for asset hardening, capital raising for Fund-III+, and cross-jurisdictional structuring engineered for institutional LP/GP scrutiny."
-date: "2025-11-29"
-author: "ROIALS CAPITAL"
-slug: "institutional-asset-hardening-playbook-5b-board-review"
+--- title: "The Institutional Asset Hardening Playbook: Passing a $5B Board Review" description: "A principal-grade framework for asset hardening, capital raising for Fund-III+, and cross-jurisdictional structuring engineered for institutional LP/GP scrutiny." date: "2025-11-29" author: "ROIALS CAPITAL" slug: "institutional-asset-hardening-playbook-5b-board-review"
 --- 
 
 A $5B board review does not reward improvisation.
@@ -67,16 +62,7 @@ The language of credibility is not adjectives.
 It is ratios.
 
 Covenants.
-
-Jurisdictional alignment.
-
-Recourse mapping.
-
-Liquidation order.
-
-Data hygiene.
-
-Auditable logic.
+ Jurisdictional alignment. Recourse mapping. Liquidation order. Data hygiene. Auditable logic.
 
 When the board evaluates a $5B package, it evaluates one thing: Are you in control of your own gravity?
 
@@ -394,11 +380,7 @@ LPs allocate to sovereignty.
 
 BOARD PSYCHOLOGY AT $5B Boards do not evaluate models.
 
-Boards evaluate confidence.
-
-Not personality confidence.
-
-Structural confidence.
+Boards evaluate confidence. Not personality confidence. Structural confidence.
 
 Whether the institution behaves like a permanent-capital machine.
 
@@ -426,11 +408,7 @@ Buyers need inevitability.
 
 A board does not question a coherent system.
 
-It questions improvisation.
-
-Harden the system.
-
-Remove improvisation.
+It questions improvisation. Harden the system. Remove improvisation.
 
 THE BUYOUT MACHINE Fund-III+ requires a scaled buyout machine.
 
@@ -468,11 +446,7 @@ Build exit paths before the acquisition.
 
 Map buyer categories.
 
-Map exit triggers.
-
-Map valuation levers.
-
-Optimize early.
+Map exit triggers. Map valuation levers. Optimize early.
 
 Defend late.
 
@@ -582,11 +556,7 @@ FINAL DIRECTIVE This briefing stands on one metric: Institutional Survivability 
 
 87 or higher.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

@@ -1,9 +1,4 @@
----
-title: "The Institutional Playbook for Capital Preservation"
-description: "A principal level intelligence report detailing structural capital preservation mechanics for private equity, UHNW families, and institutional allocators entering the 2026 cycle."
-date: "2026-03-10"
-author: "Jonas Hyltén"
-slug: "institutional-playbook-capital-preservation-2026"
+--- title: "The Institutional Playbook for Capital Preservation" description: "A principal level intelligence report detailing structural capital preservation mechanics for private equity, UHNW families, and institutional allocators entering the 2026 cycle." date: "2026-03-10" author: "Jonas Hyltén" slug: "institutional-playbook-capital-preservation-2026"
 --- 
 
 [START INTELLIGENCE REPORT] 
@@ -342,11 +337,7 @@ This is the playbook.
 
 The principal must choose how to deploy it. [END INTELLIGENCE REPORT]
 
-# TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+# TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

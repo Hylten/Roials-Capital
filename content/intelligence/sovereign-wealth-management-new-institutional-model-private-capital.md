@@ -1,9 +1,4 @@
----
-title: "Sovereign Wealth Management: The New Institutional Model for Private Capital"
-description: "A technical briefing on the structural transformation in sovereign wealth governance, global private capital flows, and the emerging allocation models shaping Fund-III mandates, liquidity engineering, and North American energy reindustrialization."
-date: "2025-07-25"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "sovereign-wealth-management-new-institutional-model-private-capital"
+--- title: "Sovereign Wealth Management: The New Institutional Model for Private Capital" description: "A technical briefing on the structural transformation in sovereign wealth governance, global private capital flows, and the emerging allocation models shaping Fund-III mandates, liquidity engineering, and North American energy reindustrialization." date: "2025-07-25" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "sovereign-wealth-management-new-institutional-model-private-capital"
 --- 
 
 The capital vacuum in North American private markets reflects a multi-cycle regulatory drift that has constrained commercial lending capacity while accelerating the shift of long duration assets toward sovereign allocators.
@@ -140,11 +135,7 @@ NAEO provides operational intelligence and execution capability in the Alberta e
 
 Roials Capital provides the allocators, the governance interface, and the capital architecture.
 
-THE STEWARDSHIP FILTER Sovereign wealth management at scale requires a stewardship discipline that transcends commercial capital
-
-.
-
-Stewardship is the ability to deploy resources without waste, distortion, or unnecessary risk.
+THE STEWARDSHIP FILTER Sovereign wealth management at scale requires a stewardship discipline that transcends commercial capital. Stewardship is the ability to deploy resources without waste, distortion, or unnecessary risk.
 
 It is the guiding principle for long term allocators.
 

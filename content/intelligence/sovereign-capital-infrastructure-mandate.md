@@ -1,9 +1,4 @@
----
-title: "The Sovereign Infrastructure Mandate"
-description: "Institutional briefing on the regime shift in sovereign capital architecture, private credit hardening, Fund-III capital formation, and the structural redesign of national liquidity systems."
-date: "2026-02-07"
-author: "Jonas Hyltén"
-slug: "sovereign-capital-infrastructure-mandate"
+--- title: "The Sovereign Infrastructure Mandate" description: "Institutional briefing on the regime shift in sovereign capital architecture, private credit hardening, Fund-III capital formation, and the structural redesign of national liquidity systems." date: "2026-02-07" author: "Jonas Hyltén" slug: "sovereign-capital-infrastructure-mandate"
 --- 
 
 A sovereign balance sheet collapses in silence long before it collapses in public.
@@ -196,11 +191,7 @@ Build an architecture where capital moves with precision, assets are acquired wi
 
 The structure divides into three pillars. 
 
-### Pillar I: Kapitalanskaffning for Fund-III and Fund-IV adjacency
-
-.
-
-Eighty percent of THE MANDAT
+### Pillar I: Kapitalanskaffning for Fund-III and Fund-IV adjacency. Eighty percent of THE MANDAT
 
 E
 
@@ -240,11 +231,7 @@ It forces precision.
 
 When used inside sovereign-linked ecosystems, it creates a parallel system of discipline that outperforms public credit channels. 
 
-### Pillar III: Special mandates in energy and regulated acquisitions
-
-.
-
-Ten percent of THE MANDAT
+### Pillar III: Special mandates in energy and regulated acquisitions. Ten percent of THE MANDAT
 
 E
 
@@ -260,11 +247,7 @@ The regulatory spine remains intact.
 
 The fiscal spine does not.
 
-THE STEWARDSHIP FILTER Stewardship is not philosophy
-
-.
-
-Stewardship is operational constraint.
+THE STEWARDSHIP FILTER Stewardship is not philosophy. Stewardship is operational constraint.
 
 The theology of capital is simple: resources mismanaged will be reallocated. **Proverbs 13:22
 
@@ -357,11 +340,7 @@ A fund survives on the precision of its governance.
 
 For LPs, family offices, and institutional allocators requiring a confidential capital audit for Fund-III positioning, initiate contact under secure channel.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

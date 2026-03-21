@@ -1,9 +1,4 @@
----
-title: "The Sovereign Capital Interlock"
-description: "Institutional analysis of sovereign capital infrastructure, regime realignment, cash flow mechanics, and the capital-raising doctrine for Fund-III scale partnerships."
-date: "2025-07-02"
-author: "ROIALS CAPITAL"
-slug: "sovereign-capital-infrastructure-interlock"
+--- title: "The Sovereign Capital Interlock" description: "Institutional analysis of sovereign capital infrastructure, regime realignment, cash flow mechanics, and the capital-raising doctrine for Fund-III scale partnerships." date: "2025-07-02" author: "ROIALS CAPITAL" slug: "sovereign-capital-infrastructure-interlock"
 --- 
 
 A structural gap defines every future market.
@@ -110,11 +105,7 @@ That shift alone will rewrite private credit flows for the next decade.
 
 This regime shift creates one dominant 
 
- CONCLUSION
-
- .
-
-Sovereign capital will no longer wait for fund managers to be ready.
+ CONCLUSION. Sovereign capital will no longer wait for fund managers to be ready.
 
 The GP must already be architected for scale.
 
@@ -268,11 +259,7 @@ Not like a fund manager chasing its next raise.
 
 Our model at ROIALS CAPITAL is designed for sovereign partnership scale.
 
-Velocity with precision.
-
-Aggressive but controlled.
-
-Hard limits.
+Velocity with precision. Aggressive but controlled. Hard limits.
 
 No internal entropy.
 
@@ -435,16 +422,7 @@ They want a GP that treats capital as mandate, not optionality.
 The stewardship filter clarifies everything.
 
 It forces a GP to operate with internal moral geometry.
-
-Straight lines.
-
-Hard edges.
-
-No drift.
-
-No excuses.
-
-No opacity. 
+ Straight lines. Hard edges. No drift. No excuses. No opacity. 
 
 ### Phase V:
 
@@ -454,11 +432,7 @@ EXIT Target yield displacement threshold:
 
 460 basis points above sovereign benchmark curves.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

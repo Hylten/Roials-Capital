@@ -1,9 +1,4 @@
----
-title: "The Mechanics of Institutional Capital Migration Across Cycles and Regimes"
-description: "A high density institutional analysis of capital migration drivers, structural inefficiencies, and the strategic positioning required for allocators navigating Fund-III buyout environments, Asset-Based Lending liquidity engineering, and North American energy mandates."
-date: "2025-07-27"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "institutional-capital-migration-mechanics"
+--- title: "The Mechanics of Institutional Capital Migration Across Cycles and Regimes" description: "A high density institutional analysis of capital migration drivers, structural inefficiencies, and the strategic positioning required for allocators navigating Fund-III buyout environments, Asset-Based Lending liquidity engineering, and North American energy mandates." date: "2025-07-27" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "institutional-capital-migration-mechanics"
 --- 
 
 The capital vacuum in North America’s productive asset base is a function of regulatory drift, institutional overconcentration, and a structural mispricing of long duration real assets.
@@ -214,11 +209,7 @@ In private credit, this involves lenders with defined collateral frameworks.
 
 In private equity, this involves managers transitioning from Fund-II to Fund-III scaling.
 
-THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful capital deployment
-
-.
-
-Allocators increasingly require a stewardship framework to validate exposures.
+THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful capital deployment. Allocators increasingly require a stewardship framework to validate exposures.
 
 Roials Capital uses a discipline drawn from **Proverbs 13:22
 
@@ -266,11 +257,7 @@ Capital migration clarifies where value is forming.
 
 Strategic alignment clarifies where allocators should be positioned before liquidity compressions force late entry.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

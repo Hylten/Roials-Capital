@@ -1,9 +1,4 @@
----
-title: "Sovereign Mandate Architecture for Asset‑Based Liquidity Engineering"
-description: "Institutional-grade deep briefing on Asset-Based Asset-Backed Frameworks as a sovereign mandate for Fund-III capital raising, jurisdictional arbitrage, and asset hardening frameworks."
-date: "2026-02-21"
-author: "ROIALS CAPITAL"
-slug: "sovereign-liquidity-engineering-mandate"
+--- title: "Sovereign Mandate Architecture for Asset‑Based Liquidity Engineering" description: "Institutional-grade deep briefing on Asset-Based Asset-Backed Frameworks as a sovereign mandate for Fund-III capital raising, jurisdictional arbitrage, and asset hardening frameworks." date: "2026-02-21" author: "ROIALS CAPITAL" slug: "sovereign-liquidity-engineering-mandate"
 --- 
 
 Fund-III Principals operate inside a structural paradox: capital abundance on the macro, capital fragmentation on the micro.
@@ -68,16 +63,7 @@ Every asset sits somewhere in the architecture.
 Every asset produces an output: liquidity, collateral performance, underwriting advantage, or regulatory status elevation.
 
 If an asset produces none-it becomes raw material for arbitrage.
-
-Real estate.
-
-Energy assets.
-
-Equipment fleets.
-
-Water rights.
-
-Terminal facilities.
+ Real estate. Energy assets. Equipment fleets. Water rights. Terminal facilities.
 
 Subsurface rights.
 
@@ -343,11 +329,7 @@ Sovereignty.
 
 This is the architecture that elevates Fund-III from successful to unstoppable.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

@@ -1,9 +1,4 @@
----
-title: "Cross‑Border Asset Hardening for Fund-III Capital Velocity"
-description: "Institutional brief on sovereign-grade asset hardening, cross-border capital structuring, and Fund‑III buyout readiness across volatile multi-jurisdictional markets with liquidity engineering and special mandate pathways."
-date: "2026-01-30"
-author: "Jonas Roials"
-slug: "cross-border-asset-hardening-Fund-III-capital-velocity"
+--- title: "Cross‑Border Asset Hardening for Fund-III Capital Velocity" description: "Institutional brief on sovereign-grade asset hardening, cross-border capital structuring, and Fund‑III buyout readiness across volatile multi-jurisdictional markets with liquidity engineering and special mandate pathways." date: "2026-01-30" author: "Jonas Roials" slug: "cross-border-asset-hardening-Fund-III-capital-velocity"
 --- 
 
 A hard truth defines the current cycle.
@@ -31,16 +26,7 @@ Fund-III must enter this environment with sovereign posture.
 Not managerial posture.
 
 Not opportunistic posture.
-
-Sovereign posture.
-
-Hard stance.
-
-Hard edges.
-
-Hardened assets.
-
-Hardened flows.
+ Sovereign posture. Hard stance. Hard edges. Hardened assets. Hardened flows.
 
 The entire architecture must serve one mandate: convert cross‑border instability into Fund‑III acquisition advantage.
 
@@ -540,11 +526,7 @@ Fund‑III must present a hardened NAEOC pipeline.
 
 LPs will reward structural dominance.
 
-EU Acquisition Protocol (MiFID II Cycle) Europe is tightening
-
-.
-
-Regulation rises.
+EU Acquisition Protocol (MiFID II Cycle) Europe is tightening. Regulation rises.
 
 Operators break.
 
@@ -634,11 +616,7 @@ Precise.
 
 Immutable.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

@@ -1,9 +1,4 @@
----
-title: "Institutional Grade Infrastructure for Asset Hardening within the Current Capital Constraint Regime"
-description: "A high density institutional analysis on the structural gap in North American energy, the mechanics of asset hardening across private markets, and the strategic role of Roials Capital as an introducer and alignment architect for Fund-III capital formation."
-date: "2025-08-17"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "institutional-grade-infrastructure-asset-hardening"
+--- title: "Institutional Grade Infrastructure for Asset Hardening within the Current Capital Constraint Regime" description: "A high density institutional analysis on the structural gap in North American energy, the mechanics of asset hardening across private markets, and the strategic role of Roials Capital as an introducer and alignment architect for Fund-III capital formation." date: "2025-08-17" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "institutional-grade-infrastructure-asset-hardening"
 --- 
 
 The capital vacuum in North America’s energy sector is a consequence of regulatory drift rather than resource depletion.
@@ -146,11 +141,7 @@ Roials Capital identifies balance sheet inefficiencies and configures liquidity 
 
 This preserves regulatory neutrality while enabling allocators to navigate constrained environments with institutional clarity.
 
-THE STEWARDSHIP FILTER Asset hardening is fundamentally a stewardship discipline
-
-.
-
-The objective is to strengthen what already exists rather than to speculate on what might emerge.
+THE STEWARDSHIP FILTER Asset hardening is fundamentally a stewardship discipline. The objective is to strengthen what already exists rather than to speculate on what might emerge.
 
 Stewardship in the institutional context refers to the responsible management of capital, corporate structures, natural resources, and time.
 
@@ -210,11 +201,7 @@ Roials Capital fulfills this role.
 
 For allocators seeking to calibrate portfolios toward structural durability and operational predictability, a confidential strategy audit provides clarity on alignment, suitability, and technical feasibility across Fund-III mandates, Asset-Based Lending structures, and energy consolidation environments. [END OF INSTITUTIONAL BRIEFING]
 
-# TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+# TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

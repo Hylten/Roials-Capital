@@ -1,9 +1,4 @@
----
-title: "The Middle Market Regime and the Credit Sovereignty Window"
-description: "Institutional briefing on middle-market private credit, liquidity engineering, and capital raising mechanics for Fund-III mandates targeting buyouts, add-ons, Asset-Based Lending structures, and sector specific special mandates."
-date: "2026-01-15"
-author: "ROIALS CAPITAL"
-slug: "middle-market-private-credit-regime"
+--- title: "The Middle Market Regime and the Credit Sovereignty Window" description: "Institutional briefing on middle-market private credit, liquidity engineering, and capital raising mechanics for Fund-III mandates targeting buyouts, add-ons, Asset-Based Lending structures, and sector specific special mandates." date: "2026-01-15" author: "ROIALS CAPITAL" slug: "middle-market-private-credit-regime"
 --- 
 
 A structural gap appears when capital migrates faster than underwriting standards can adapt.
@@ -232,11 +227,7 @@ They punish firms that chase yield without structural mastery.
 
 ROIALS CAPITAL belongs to the first group. 
 
-### Phase IV: The Stewardship Filter Capital is not sovereign
-
-.
-
-It is held in trust.
+### Phase IV: The Stewardship Filter Capital is not sovereign. It is held in trust.
 
 Middle-market private credit magnifies this principle because each transaction is intimately tied to operational reality.
 
@@ -294,11 +285,7 @@ It is deployed for continuity.
 
 That continuity is engineered, not assumed. 
 
-### Phase V: Exit Yield without velocity is idle
-
-.
-
-Velocity without structure is reckless.
+### Phase V: Exit Yield without velocity is idle. Velocity without structure is reckless.
 
 We engineer both through a Fund-III architecture targeting a 1.
 5 to 1.
@@ -310,11 +297,7 @@ We engineer both through a Fund-III architecture targeting a 1.
 
 Request a confidential capital audit to determine alignment with Fund-III deployment parameters.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

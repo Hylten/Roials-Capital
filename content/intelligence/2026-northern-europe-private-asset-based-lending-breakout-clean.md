@@ -1,9 +1,4 @@
----
-title: "The Northern European Breakout: Why 2026 Becomes the Ascendancy Year for Private Asset‑Based Lending"
-description: "A principal-level briefing on the structural, jurisdictional, and institutional catalysts driving the acceleration of private Asset-Based Lending in Northern Europe through 2026, within the capital-raising architecture of Fund-III buyouts, add-ons, and special mandates."
-date: "2025-09-20"
-author: "ROIALS CAPITAL"
-slug: "2026-northern-europe-private-asset-based-lending-breakout"
+--- title: "The Northern European Breakout: Why 2026 Becomes the Ascendancy Year for Private Asset‑Based Lending" description: "A principal-level briefing on the structural, jurisdictional, and institutional catalysts driving the acceleration of private Asset-Based Lending in Northern Europe through 2026, within the capital-raising architecture of Fund-III buyouts, add-ons, and special mandates." date: "2025-09-20" author: "ROIALS CAPITAL" slug: "2026-northern-europe-private-asset-based-lending-breakout"
 --- 
 
 The inflection point is already visible.
@@ -24,11 +19,7 @@ The vacuum appears.
 
 Principals 
 
-### Step I: n
-
-.
-
-Northern Europe just became the most strategically asymmetrical lending environment in the OECD.
+### Step I: n. Northern Europe just became the most strategically asymmetrical lending environment in the OECD.
 
 That is the heart of the matter.
 

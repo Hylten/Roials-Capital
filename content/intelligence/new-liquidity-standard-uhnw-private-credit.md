@@ -1,9 +1,4 @@
----
-title: "The New Liquidity Standard for UHNW Portfolios: Institutional Private Credit as Strategic Armor"
-description: "Institutional brief on private credit as liquidity infrastructure, engineered for UHNW, family offices, and GP/LP capital stacks; focused on Fund-III capital raising, asset hardening, and cross‑jurisdictional liquidity architecture."
-date: "2025-09-30"
-author: "ROIALS CAPITAL"
-slug: "new-liquidity-standard-uhnw-private-credit"
+--- title: "The New Liquidity Standard for UHNW Portfolios: Institutional Private Credit as Strategic Armor" description: "Institutional brief on private credit as liquidity infrastructure, engineered for UHNW, family offices, and GP/LP capital stacks; focused on Fund-III capital raising, asset hardening, and cross‑jurisdictional liquidity architecture." date: "2025-09-30" author: "ROIALS CAPITAL" slug: "new-liquidity-standard-uhnw-private-credit"
 --- 
 
 UHNW portfolios fail at one point: liquidity asymmetry.
@@ -228,11 +223,7 @@ They build leverage tunnels around assets.
 
 They 
 
-# Layer C: redit lines
-
-.
-
-They reinforce equity stacks.
+# Layer C: redit lines. They reinforce equity stacks.
 
 That is why they scale.
 
@@ -354,11 +345,7 @@ This is how Fund-III raises capital with unmatched conviction.
 
 Kapitalanskaffning becomes frictionless when liquidity is pre‑engineered.
 
-LPs commit faster.
-
-GPs execute faster.
-
-Underwriting tightens.
+LPs commit faster. GPs execute faster. Underwriting tightens.
 
 Portfolios scale without drag.
 
@@ -385,24 +372,11 @@ They gain strategic armor.
 Private credit is not a product.
 
 It is infrastructure.
-
-Liquidity infrastructure.
-
-Portfolio armor.
-
-Acquisition engine.
-
-Sovereign tool.
-
-Principal tool.
+ Liquidity infrastructure. Portfolio armor. Acquisition engine. Sovereign tool. Principal tool.
 
 The standard for all serious operators.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

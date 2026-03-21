@@ -1,9 +1,4 @@
----
-title: "The Principal Geometry of the Middle Market Credit Gap"
-description: "A high-density institutional analysis of the structural credit deficit shaping middle‑market buyouts, add‑ons, and energy acquisitions, with emphasis on kapitalanskaffning for Fund‑III architecture, liquidity engineering, and cross‑border mandates."
-date: "2025-12-27"
-author: "ROIALS CAPITAL"
-slug: "principal-geometry-middle-market-credit-gap"
+--- title: "The Principal Geometry of the Middle Market Credit Gap" description: "A high-density institutional analysis of the structural credit deficit shaping middle‑market buyouts, add‑ons, and energy acquisitions, with emphasis on kapitalanskaffning for Fund‑III architecture, liquidity engineering, and cross‑border mandates." date: "2025-12-27" author: "ROIALS CAPITAL" slug: "principal-geometry-middle-market-credit-gap"
 --- 
 
 The middle market is fragmenting.
@@ -24,11 +19,7 @@ The geometry is structural, not cyclical.
 
 Capital density shifts.
 
-Covenant risk widens.
-
-Pricing mistracks risk.
-
-Velocity collapses.
+Covenant risk widens. Pricing mistracks risk. Velocity collapses.
 
 The credit gap grows.
 
@@ -328,11 +319,7 @@ If one collapses, the fund collapses.
 
 Private credit is the spine.
 
-Not an accessory.
-
-Not a supplement.
-
-The spine.
+Not an accessory. Not a supplement. The spine.
 
 Middle-market sponsors need predictable credit partners that price risk accurately and move decisively.
 
@@ -485,16 +472,7 @@ No dilution.
 No deviation.
 
 Machine gun clarity.
-
-Hard lines.
-
-Tight logic.
-
-Institutional posture.
-
-No fillers.
-
-No hedging.
+ Hard lines. Tight logic. Institutional posture. No fillers. No hedging.
 
 The geometry must hold.
 
@@ -536,11 +514,7 @@ Institutional LPs demand clarity.
 
 Not noise.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

@@ -1,9 +1,4 @@
----
-title: "Asset‑Based Liquidity Engineering as a Sovereign Capital Mandate for Fund‑III"
-description: "Institutional brief on sovereign‑grade liquidity architecture, Asset-Based Lending engineering, and Kapitalanskaffning frameworks optimized for Fund‑III buyouts, add‑ons, and multi‑jurisdictional capital formation."
-date: "2025-10-13"
-author: "ROIALS CAPITAL"
-slug: "asset-based-liquidity-engineering-sovereign-mandate"
+--- title: "Asset‑Based Liquidity Engineering as a Sovereign Capital Mandate for Fund‑III" description: "Institutional brief on sovereign‑grade liquidity architecture, Asset-Based Lending engineering, and Kapitalanskaffning frameworks optimized for Fund‑III buyouts, add‑ons, and multi‑jurisdictional capital formation." date: "2025-10-13" author: "ROIALS CAPITAL" slug: "asset-based-liquidity-engineering-sovereign-mandate"
 --- 
 
 Asset‑based Strategic Collateralization is no longer an auxiliary credit function.
@@ -415,16 +410,7 @@ Predictable liquidity.
 Engineered capital ecosystems.
 
 Asset‑based Institutional Liquidity Paths is a sovereign mandate because sovereign partners require instruments that survive volatility.
-
-Oil volatility.
-
-Credit volatility.
-
-Regulatory volatility.
-
-Currency volatility.
-
-Political volatility.
+ Oil volatility. Credit volatility. Regulatory volatility. Currency volatility. Political volatility.
 
 The asset is the anchor.
 
@@ -500,11 +486,7 @@ Projected Liquidity Efficiency Index:
 
 87.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

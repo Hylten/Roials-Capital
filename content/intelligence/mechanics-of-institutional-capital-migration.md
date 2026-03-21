@@ -1,9 +1,4 @@
----
-title: "The Mechanics of Institutional Capital Migration Across Cycles and Jurisdictions"
-description: "A clinical examination of allocator behavior, cross-cycle capital migration mechanics, and structural alignment models relevant to private credit, buyout platforms, and North American energy operating mandates."
-date: "2026-03-03"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "mechanics-of-institutional-capital-migration"
+--- title: "The Mechanics of Institutional Capital Migration Across Cycles and Jurisdictions" description: "A clinical examination of allocator behavior, cross-cycle capital migration mechanics, and structural alignment models relevant to private credit, buyout platforms, and North American energy operating mandates." date: "2026-03-03" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "mechanics-of-institutional-capital-migration"
 --- 
 
 The capital vacuum shaping North American hard-asset sectors is a direct function of institutional regulatory drift rather than any degradation in underlying asset productivity.
@@ -152,11 +147,7 @@ Roials maintains a proprietary pipeline across buyout platforms, Asset-Based Len
 
 This operational intelligence reduces discovery costs for allocators.
 
-THE STEWARDSHIP FILTER Stewardship is treated not as philanthropy but as a discipline of non-wasteful resource management
-
-.
-
-For institutions with multi-generational mandates, capital stewardship aligns with the scriptural principle in **Proverbs 13:22
+THE STEWARDSHIP FILTER Stewardship is treated not as philanthropy but as a discipline of non-wasteful resource management. For institutions with multi-generational mandates, capital stewardship aligns with the scriptural principle in **Proverbs 13:22
 
 * 
 
@@ -198,11 +189,7 @@ This dialogue is not a solicitation.
 
 It is a structural assessment designed to map institutional objectives to the current capital migration regime.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

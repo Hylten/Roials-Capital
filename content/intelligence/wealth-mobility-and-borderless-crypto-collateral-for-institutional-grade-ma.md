@@ -1,16 +1,7 @@
----
-title: "Wealth Mobility and Borderless Crypto Collateral for Institutional-Grade M&A"
-description: "Institutional analysis of liquidity engineering using private credit and asset based Institutional Liquidity Paths structures for global M&A. Includes crypto collateralization pathways for HNWI and UHNW liquidity events."
-date: "2025-08-19"
-author: "Jonas Hyltén"
-slug: "wealth-mobility-and-borderless-crypto-collateral-for-institutional-grade-ma"
+--- title: "Wealth Mobility and Borderless Crypto Collateral for Institutional-Grade M&A" description: "Institutional analysis of liquidity engineering using private credit and asset based Institutional Liquidity Paths structures for global M&A. Includes crypto collateralization pathways for HNWI and UHNW liquidity events." date: "2025-08-19" author: "Jonas Hyltén" slug: "wealth-mobility-and-borderless-crypto-collateral-for-institutional-grade-ma"
 --- 
 
-# Wealth Mobility: Using Borderless Crypto Collateral for Traditional M&A Wealth behaves differently when it is engineered rather than stored
-
-.
-
-Institutional families understand this.
+# Wealth Mobility: Using Borderless Crypto Collateral for Traditional M&A Wealth behaves differently when it is engineered rather than stored. Institutional families understand this.
 
 Cross-border principals understand this.
 
@@ -26,11 +17,7 @@ ROIALS CAPITAL operates within the zone where private credit mechanics, Asset-Ba
 
 This article defines that zone, frames the architecture, and establishes the rules for how borderless collateral transitions into traditional M&A firepower.
 
-The Convergence of Crypto Capital and M&A Strategy The global M&A environment is shifting
-
-.
-
-Sellers are increasingly flexible.
+The Convergence of Crypto Capital and M&A Strategy The global M&A environment is shifting. Sellers are increasingly flexible.
 
 Buyers are increasingly international.
 
@@ -86,11 +73,7 @@ No retail posture.
 
 This is the architecture used by principals who require results, not explanations.
 
-Wealth Mobility Is Now an Institutional Discipline Mobility is the final form of wealth maturity
-
-.
-
-Assets that can move across borders, jurisdictions, and deal cycles without displacement are assets operating at their highest efficiency.
+Wealth Mobility Is Now an Institutional Discipline Mobility is the final form of wealth maturity. Assets that can move across borders, jurisdictions, and deal cycles without displacement are assets operating at their highest efficiency.
 
 Crypto collateral represents the purest expression of this principle.
 
@@ -110,11 +93,7 @@ Precisely.
 
 Institutionally.
 
-Request confidential audit TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+Request confidential audit TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

@@ -1,9 +1,4 @@
----
-title: "Structural Alpha in Asset Based Liquidity Engineering: Engineered Reliability"
-description: "Institutional briefing on the structural mechanics of Asset Based Liquidity Engineering, balance sheet hardening, engineered reliability, and the capital regime shift defining Fund-III portfolios across North America and Europe."
-date: "2025-11-26"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "structural-alpha-asset-based-liquidity-engineering-engineered-reliability"
+--- title: "Structural Alpha in Asset Based Liquidity Engineering: Engineered Reliability" description: "Institutional briefing on the structural mechanics of Asset Based Liquidity Engineering, balance sheet hardening, engineered reliability, and the capital regime shift defining Fund-III portfolios across North America and Europe." date: "2025-11-26" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "structural-alpha-asset-based-liquidity-engineering-engineered-reliability"
 --- 
 
 The capital vacuum across North American and European lower mid market operators is the product of regulatory compression and risk model recalibration, not a shortage of real asset value.
@@ -178,11 +173,7 @@ When energy is involved, NAEO serves as the institutional grade partner because 
 
 When the focus is Fund-III buyouts or European mandates, introductions focus on operators with demonstrated stewardship and measurable value conversion discipline.
 
-THE STEWARDSHIP FILTER Stewardship is not a moral abstraction
-
-.
-
-It is a technical discipline.
+THE STEWARDSHIP FILTER Stewardship is not a moral abstraction. It is a technical discipline.
 
 It governs whether capital is applied with precision or wasted through poor allocation sequencing.
 

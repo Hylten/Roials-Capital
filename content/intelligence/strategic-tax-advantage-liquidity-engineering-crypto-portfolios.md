@@ -1,9 +1,4 @@
----
-title: "The Strategic Tax Advantage of Liquidity Engineering Against Crypto Portfolios"
-description: "A technical institutional briefing on balance sheet optimization for crypto-heavy allocators through liquidity engineering, structured credit, and tax aligned repositioning within Fund-III buyout architecture."
-date: "2025-09-22"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "strategic-tax-advantage-liquidity-engineering-crypto-portfolios"
+--- title: "The Strategic Tax Advantage of Liquidity Engineering Against Crypto Portfolios" description: "A technical institutional briefing on balance sheet optimization for crypto-heavy allocators through liquidity engineering, structured credit, and tax aligned repositioning within Fund-III buyout architecture." date: "2025-09-22" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "strategic-tax-advantage-liquidity-engineering-crypto-portfolios"
 --- 
 
 The capital vacuum in digitally native portfolios is not driven by weakness in blockchain infrastructure.
@@ -152,11 +147,7 @@ Roials Capital does not intermediate crypto assets.
 
 It structures strategic alignment pathways that allow allocators to enter institutional deal flow.
 
-THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management
-
-.
-
-Crypto wealth without structure is vulnerable to misallocation.
+THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management. Crypto wealth without structure is vulnerable to misallocation.
 
 It may remain in unrealized state for years.
 

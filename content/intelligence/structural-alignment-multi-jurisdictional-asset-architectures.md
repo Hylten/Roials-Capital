@@ -1,9 +1,4 @@
----
-title: "Structural Alignment in Multi Jurisdictional Asset Architectures Across Energy, Private Credit, and Cross Border Buyouts"
-description: "Institutional memo outlining regime shifts in North American energy, multi jurisdictional capital structures, and alignment dynamics for LPs and GPs navigating Fund-III+ allocations, ABL liquidity engineering, and special mandates in North American energy and European MiFID II acquisitions."
-date: "2025-06-23"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "structural-alignment-multi-jurisdictional-asset-architectures"
+--- title: "Structural Alignment in Multi Jurisdictional Asset Architectures Across Energy, Private Credit, and Cross Border Buyouts" description: "Institutional memo outlining regime shifts in North American energy, multi jurisdictional capital structures, and alignment dynamics for LPs and GPs navigating Fund-III+ allocations, ABL liquidity engineering, and special mandates in North American energy and European MiFID II acquisitions." date: "2025-06-23" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "structural-alignment-multi-jurisdictional-asset-architectures"
 --- 
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift and balance sheet deleveraging cycles rather than resource depletion or geological decline.
@@ -123,11 +118,7 @@ This includes:
 
 - Asset originator transparency.
 
-THE STEWARDSHIP FILTER Stewardship operates as a discipline rather than an ethos
-
-.
-
-In evaluating multi jurisdictional asset structures, stewardship translates into non wasteful capital deployment, precision in resource management, and governance that aligns authority with responsibility.
+THE STEWARDSHIP FILTER Stewardship operates as a discipline rather than an ethos. In evaluating multi jurisdictional asset structures, stewardship translates into non wasteful capital deployment, precision in resource management, and governance that aligns authority with responsibility.
 
 It draws from the principle in **Proverbs 13:22
 

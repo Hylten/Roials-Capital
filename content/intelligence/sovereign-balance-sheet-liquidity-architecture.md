@@ -1,9 +1,4 @@
----
-title: "Designing the Sovereign Balance Sheet: The Architecture of Enduring Liquidity"
-description: "Institutional blueprint for private liquidity architecture, sovereign-grade balance sheet engineering, Fund-III capital formation, and cash-flow sovereignty mechanics."
-date: "2026-02-13"
-author: "Jonas Hyltén"
-slug: "sovereign-balance-sheet-liquidity-architecture"
+--- title: "Designing the Sovereign Balance Sheet: The Architecture of Enduring Liquidity" description: "Institutional blueprint for private liquidity architecture, sovereign-grade balance sheet engineering, Fund-III capital formation, and cash-flow sovereignty mechanics." date: "2026-02-13" author: "Jonas Hyltén" slug: "sovereign-balance-sheet-liquidity-architecture"
 --- 
 
 A sovereign balance sheet fails not from lack of assets but from lack of hierarchy.
@@ -232,11 +227,7 @@ Permanently.
 
 A sovereign-aligned GP earns institutional credibility at a level that pure financial operators never match.
 
-THE STEWARDSHIP FILTER The stewardship filter is the boundary between disorder and order
-
-.
-
-Between wasted capital and productive capital.
+THE STEWARDSHIP FILTER The stewardship filter is the boundary between disorder and order. Between wasted capital and productive capital.
 
 Between extraction and multiplication.
 
@@ -297,11 +288,7 @@ Time to cash conversion:
 
 71 days.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

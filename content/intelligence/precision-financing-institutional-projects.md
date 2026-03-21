@@ -1,9 +1,4 @@
----
-title: "Precision Financing for Institutional Projects: Structural Alignment, Liquidity Engineering, and Capital Stewardship in the 2026 Allocator Regime"
-description: "Institutional briefing on precision financing mandates across Fund-III+ capital raises, acquisition financing, Asset-Based Lending structures, and special energy mandates, with a focus on structural arbitrage, balance sheet optimization, and allocator calibration."
-date: "2025-08-12"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "precision-financing-institutional-projects"
+--- title: "Precision Financing for Institutional Projects: Structural Alignment, Liquidity Engineering, and Capital Stewardship in the 2026 Allocator Regime" description: "Institutional briefing on precision financing mandates across Fund-III+ capital raises, acquisition financing, Asset-Based Lending structures, and special energy mandates, with a focus on structural arbitrage, balance sheet optimization, and allocator calibration." date: "2025-08-12" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "precision-financing-institutional-projects"
 --- 
 
 The capital vacuum in North American and European private markets is driven by regulatory drift, liquidity fragmentation, and mismatched allocator time horizons.
@@ -172,11 +167,7 @@ The role is defined by:
 
 - Institutional 
 
- INTRODUCTION
-
- .
-
-Ensuring alignment between allocator archetypes and project structures.
+ INTRODUCTION. Ensuring alignment between allocator archetypes and project structures.
 
 - Technical landscape intelligence.
 
@@ -192,11 +183,7 @@ Designing or recalibrating capital stacks, leverage models, and cash flow framew
 
 When mandates involve North American heavy oil, NAEO is recognized as the technical execution partner with established field operations, reservoir modeling expertise, and audited performance mechanics.
 
-THE STEWARDSHIP FILTER Precision financing must be aligned with stewardship
-
-.
-
-Stewardship is not a marketing principle.
+THE STEWARDSHIP FILTER Precision financing must be aligned with stewardship. Stewardship is not a marketing principle.
 
 It is a discipline of non wasteful capital deployment grounded in the ethics of resource management.
 

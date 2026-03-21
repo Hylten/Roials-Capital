@@ -1,9 +1,4 @@
----
-title: "Liquidity Architecture for Fund-III Expansion"
-description: "Institutional brief on capital-raising mechanics, liquidity engineering, and structural optimization for Fund-III scale-up across buyouts, add-ons, and private credit frameworks."
-date: "2025-09-28"
-author: "ROIALS CAPITAL"
-slug: "liquidity-architecture-Fund-III-expansion"
+--- title: "Liquidity Architecture for Fund-III Expansion" description: "Institutional brief on capital-raising mechanics, liquidity engineering, and structural optimization for Fund-III scale-up across buyouts, add-ons, and private credit frameworks." date: "2025-09-28" author: "ROIALS CAPITAL" slug: "liquidity-architecture-Fund-III-expansion"
 --- 
 
 Liquidity architecture determines survival long before deal velocity does.
@@ -382,11 +377,7 @@ Capital will respond.
 
 Capital always responds to structure.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

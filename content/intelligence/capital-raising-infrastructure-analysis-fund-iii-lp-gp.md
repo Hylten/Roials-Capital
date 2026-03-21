@@ -1,9 +1,4 @@
----
-title: "Capital Raising Infrastructure Analysis for Institutional Allocators Across Fund‑III Architectures"
-description: "Institutional-grade analysis of capital raising infrastructures, Fund-III scaling dynamics, liquidity engineering channels, and cross-regime allocation mechanics for UHNWIs, Institutional LPs, and Private Credit GPs."
-date: "2026-01-22"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "capital-raising-infrastructure-analysis-Fund-III-lp-gp"
+--- title: "Capital Raising Infrastructure Analysis for Institutional Allocators Across Fund‑III Architectures" description: "Institutional-grade analysis of capital raising infrastructures, Fund-III scaling dynamics, liquidity engineering channels, and cross-regime allocation mechanics for UHNWIs, Institutional LPs, and Private Credit GPs." date: "2026-01-22" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "capital-raising-infrastructure-analysis-Fund-III-lp-gp"
 --- 
 
 The capital vacuum in middle-market acquisition structures is not the result of deal scarcity.
@@ -154,11 +149,7 @@ Operational Intelligence The Brand monitors regulatory adjustments, liquidity cy
 
 This creates a refined informational advantage for allocators navigating complex regimes.
 
-THE STEWARDSHIP FILTER Stewardship is not a moral abstraction
-
-.
-
-It is a discipline of non-wasteful resource allocation that aligns capital, operational capability, and long-term stability.
+THE STEWARDSHIP FILTER Stewardship is not a moral abstraction. It is a discipline of non-wasteful resource allocation that aligns capital, operational capability, and long-term stability.
 
 Allocators increasingly apply stewardship as a screening mechanism for GP selection.
 
@@ -226,11 +217,7 @@ Alignment Potential Is there a definable pathway for strategic alignment through
 
 Allocators who evaluate through this lens strengthen their position within the emerging capital regime and secure alignment with partners capable of navigating complex acquisition cycles. [END OF BRIEFING]
 
-# TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+# TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

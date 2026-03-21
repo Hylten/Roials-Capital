@@ -1,9 +1,4 @@
----
-title: "The Architecture of Sovereign Credit Mobility"
-description: "Institutional thesis on sovereign credit mobility, buyout capital formation, regulatory velocity, and cross-jurisdictional liquidity engineering for Fund-III scale allocations."
-date: "2026-02-24"
-author: "ROIALS CAPITAL"
-slug: "architecture-sovereign-credit-mobility"
+--- title: "The Architecture of Sovereign Credit Mobility" description: "Institutional thesis on sovereign credit mobility, buyout capital formation, regulatory velocity, and cross-jurisdictional liquidity engineering for Fund-III scale allocations." date: "2026-02-24" author: "ROIALS CAPITAL" slug: "architecture-sovereign-credit-mobility"
 --- 
 
 A sovereign balance sheet does not fail from lack of assets.
@@ -13,10 +8,7 @@ It fails from lack of mobility.
 Order is not an option.
 
 Cross-jurisdictional credit architecture is now the prime vector of competitive advantage for LPs seeking Fund-III scale exposure.
-
-Not because sovereign credit is unstable.
-
-Because sovereign credit is rigid.
+sovereign credit is rigid, not sovereign credit is unstable.
 
 Rigidity destroys return velocity.
 
@@ -177,10 +169,7 @@ This is not a philosophy.
 It is an operational mandate.
 
 Fund-III capital raising focuses on buyouts and add-ons in energy, industrials, and real-asset-adjacent operating companies.
-
-Not because these sectors are fashionable.
-
-Because they are sovereign-resistant.
+they are sovereign-resistant, not these sectors are fashionable.
 
 They perform under multiple policy regimes.
 
@@ -234,11 +223,7 @@ We do not optimize for convenience.
 
 We optimize for inevitability.
 
-THE STEWARDSHIP FILTER Capital is an assignment
-
-.
-
-Waste is rebellion.
+THE STEWARDSHIP FILTER Capital is an assignment. Waste is rebellion.
 
 Stewardship is not charity.
 
@@ -278,11 +263,7 @@ EXIT Fund-III targets mobility-adjusted IRR with a minimum cross-border collater
 
 92 days.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

@@ -1,9 +1,4 @@
----
-title: "The Sovereign Liquidity Codex: Designing Facilities That Do Not Break Under Pressure"
-description: "Institutional-grade framework detailing sovereign liquidity facility mechanics, priority-of-claim structuring, collateral sequencing, and macro regime interactions for Fund-III capital formation."
-date: "2025-12-14"
-author: "Jonas Hyltén"
-slug: "sovereign-liquidity-facility-precision-architecture"
+--- title: "The Sovereign Liquidity Codex: Designing Facilities That Do Not Break Under Pressure" description: "Institutional-grade framework detailing sovereign liquidity facility mechanics, priority-of-claim structuring, collateral sequencing, and macro regime interactions for Fund-III capital formation." date: "2025-12-14" author: "Jonas Hyltén" slug: "sovereign-liquidity-facility-precision-architecture"
 --- 
 
 A sovereign balance sheet does not collapse due to a shortage of capital.
@@ -88,11 +83,7 @@ The facility requires five mechanical layers.
 
 ### Layer I:
 
-Eligibility Grid The eligible asset pool must be objective
-
-.
-
-No political discretion.
+Eligibility Grid The eligible asset pool must be objective. No political discretion.
 
 No conditional releases.
 
@@ -226,11 +217,7 @@ NAEOC mandates in the 50M to 250M range benefit from sovereign stability because
 
 They allow the special mandate division to operate without politicized interruptions.
 
-THE STEWARDSHIP FILTER A sovereign facility must reflect stewardship
-
-.
-
-Disorder in financial systems begins with disorder in priorities.
+THE STEWARDSHIP FILTER A sovereign facility must reflect stewardship. Disorder in financial systems begins with disorder in priorities.
 
 Sovereigns frequently operate out of sequence: consumption before consolidation, spending before stabilization, promises before liquidity.
 
@@ -284,11 +271,7 @@ The final discipline is simple: a sovereign facility must maintain a minimum 1.
 
 Request a confidential capital audit.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

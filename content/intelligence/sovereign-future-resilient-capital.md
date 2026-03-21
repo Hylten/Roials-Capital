@@ -1,9 +1,4 @@
----
-title: "The Sovereign Future: Building Resilient Capital Across Cycles"
-description: "Institutional briefing on structural capital inefficiencies, North American energy arbitrage, Liquidity Engineering, and the strategic alignment pathways for allocators navigating Fund-III buyout regimes."
-date: "2025-08-25"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "sovereign-future-resilient-capital"
+--- title: "The Sovereign Future: Building Resilient Capital Across Cycles" description: "Institutional briefing on structural capital inefficiencies, North American energy arbitrage, Liquidity Engineering, and the strategic alignment pathways for allocators navigating Fund-III buyout regimes." date: "2025-08-25" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "sovereign-future-resilient-capital"
 --- 
 
 The capital vacuum in North America’s energy sector is a consequence of regulatory drift, not resource depletion.
@@ -162,11 +157,7 @@ In Europe, MiFID II aligned acquisition strategies require compliant structuring
 
 Roials Capital supports by ensuring that institutional governance, counterparty quality, and regulatory alignment are maintained.
 
-THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management
-
-.
-
-It is a framework, not a slogan. **Proverbs 13:22
+THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management. It is a framework, not a slogan. **Proverbs 13:22
 
 * 
 

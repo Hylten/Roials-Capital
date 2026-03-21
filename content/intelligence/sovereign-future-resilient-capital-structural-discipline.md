@@ -1,9 +1,4 @@
----
-title: "The Sovereign Future: Building Resilient Capital Through Structural Discipline and Institutional Navigation"
-description: "An institutional analysis of the capital regime shift reshaping global allocation mandates, with emphasis on strategic capital formation, Alberta energy hard-asset mechanics, and multi-jurisdictional balance sheet optimization for allocators navigating 2026 capital scarcity cycles."
-date: "2025-12-10"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "sovereign-future-resilient-capital-structural-discipline"
+--- title: "The Sovereign Future: Building Resilient Capital Through Structural Discipline and Institutional Navigation" description: "An institutional analysis of the capital regime shift reshaping global allocation mandates, with emphasis on strategic capital formation, Alberta energy hard-asset mechanics, and multi-jurisdictional balance sheet optimization for allocators navigating 2026 capital scarcity cycles." date: "2025-12-10" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "sovereign-future-resilient-capital-structural-discipline"
 --- 
 
 The capital vacuum in North America’s energy sector is a consequence of regulatory drift, not resource depletion.
@@ -160,11 +155,7 @@ Roials Capital's role is to translate complex operational domains into clear ins
 
 The partnership model is structured around neutrality, alignment, and technical clarity rather than product distribution.
 
-THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management
-
-.
-
-It is an operational principle rooted in strategic responsibility rather than moral abstraction.
+THE STEWARDSHIP FILTER Stewardship is the discipline of non wasteful resource management. It is an operational principle rooted in strategic responsibility rather than moral abstraction.
 
 Within capital formation, stewardship functions as a filter for decision quality. **Proverbs 13:22
 

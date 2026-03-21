@@ -1,9 +1,4 @@
----
-title: "The Principal Architecture of Hybrid Credit in Roll-Up Acceleration"
-description: "A vault-level briefing on Asset-Based Lending and mezzanine hybrids as liquidity engines for Fund-III buyouts, add-ons, and jurisdictional scaling mandates."
-date: "2025-12-07"
-author: "ROIALS CAPITAL"
-slug: "principal-hybrid-credit-rollup-architecture"
+--- title: "The Principal Architecture of Hybrid Credit in Roll-Up Acceleration" description: "A vault-level briefing on Asset-Based Lending and mezzanine hybrids as liquidity engines for Fund-III buyouts, add-ons, and jurisdictional scaling mandates." date: "2025-12-07" author: "ROIALS CAPITAL" slug: "principal-hybrid-credit-rollup-architecture"
 --- 
 
 A roll-up only works when liquidity is faster than fragmentation.
@@ -50,11 +45,7 @@ Designed to sit in the interstice between bank rigidity and equity dilution.
 
 They do not compete with senior credit.
 
-They weaponize it.
-
-Machine gun logic.
-
-Separate stacks.
+They weaponize it. Machine gun logic. Separate stacks.
 
 Fuse mandates.
 
@@ -100,11 +91,7 @@ North American execution speed.
 
 The hybrid 
 
-### Layer I: s the reconciler
-
-.
-
-Principal tone now.
+### Layer I: s the reconciler. Principal tone now.
 
 Roll-ups demand authority.
 

@@ -1,9 +1,4 @@
----
-title: "The Power of Private Credit in Modern M&A Architecture"
-description: "A technical institutional briefing on how private credit now functions as the primary liquidity engine in global M&A, with emphasis on buyout mechanics, balance sheet optimization, and the capital formation demands of Fund-III environments."
-date: "2025-09-05"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "private-credit-in-modern-m-and-a-architecture"
+--- title: "The Power of Private Credit in Modern M&A Architecture" description: "A technical institutional briefing on how private credit now functions as the primary liquidity engine in global M&A, with emphasis on buyout mechanics, balance sheet optimization, and the capital formation demands of Fund-III environments." date: "2025-09-05" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "private-credit-in-modern-m-and-a-architecture"
 --- 
 
 The capital vacuum shaping Western markets is the predictable consequence of regulatory compression, bank de-risking, and the declining risk appetite of traditional lenders.
@@ -156,11 +151,7 @@ The architecture prioritizes:
 
 - Opportunity calibration that filters transactions through the Institutional Archetype most suited to the underlying assets.
 
-THE STEWARDSHIP FILTER Stewardship is not a branding exercise
-
-.
-
-It is a capital discipline. **Proverbs 13:22
+THE STEWARDSHIP FILTER Stewardship is not a branding exercise. It is a capital discipline. **Proverbs 13:22
 
 * 
 

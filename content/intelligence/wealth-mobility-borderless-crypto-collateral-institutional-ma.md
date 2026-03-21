@@ -1,9 +1,4 @@
----
-title: "Wealth Mobility and Borderless Crypto Collateral for Institutional-Grade M&A"
-description: "Institutional briefing on cross-jurisdictional capital mobility, crypto-backed collateral frameworks, and advanced liquidity engineering structures designed for global M&A execution under MiFID II, North American private credit regimes, and UHNW mobility constraints."
-date: "2026-03-16"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "wealth-mobility-borderless-crypto-collateral-institutional-ma"
+--- title: "Wealth Mobility and Borderless Crypto Collateral for Institutional-Grade M&A" description: "Institutional briefing on cross-jurisdictional capital mobility, crypto-backed collateral frameworks, and advanced liquidity engineering structures designed for global M&A execution under MiFID II, North American private credit regimes, and UHNW mobility constraints." date: "2026-03-16" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "wealth-mobility-borderless-crypto-collateral-institutional-ma"
 --- 
 
 Structural displacement in global capital markets is no longer a cyclical pattern.
@@ -165,11 +160,7 @@ Use liquidity only when the productive output of the asset base exceeds the cost
 
 Every 
 
-### Layer I: n the capital stack must have a clear claim pathway
-
-.
-
-- Measured velocity.
+### Layer I: n the capital stack must have a clear claim pathway. - Measured velocity.
 
 Speed is valuable only when it reduces friction without increasing systemic fragility.
 

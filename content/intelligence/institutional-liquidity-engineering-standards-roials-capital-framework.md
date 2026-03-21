@@ -1,9 +1,4 @@
----
-title: "Institutional Standards for Private Liquidity Engineering Agreements: The Roials Capital Framework"
-description: "A technical briefing on institutional-grade Monetization Architecture structures, balance sheet optimization protocols, and the Roials Capital alignment architecture for Fund-III environments, Asset-Based Lending mandates, and capital acquisition workflows across North America and Europe."
-date: "2026-02-16"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "institutional-liquidity-engineering-standards-ROIALS CAPITAL-framework"
+--- title: "Institutional Standards for Private Liquidity Engineering Agreements: The Roials Capital Framework" description: "A technical briefing on institutional-grade Monetization Architecture structures, balance sheet optimization protocols, and the Roials Capital alignment architecture for Fund-III environments, Asset-Based Lending mandates, and capital acquisition workflows across North America and Europe." date: "2026-02-16" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "institutional-liquidity-engineering-standards-ROIALS CAPITAL-framework"
 --- 
 
 The capital vacuum in North American private markets is the predictable outcome of regulatory compression, institutional risk aversion, and the retreat of traditional lenders from structurally sound middle market transactions.
@@ -188,11 +183,7 @@ Engagement centers on:
 
 - Capital sequencing In European MiFID II environments, Roials Capital provides cross border calibration, acquisition structuring, and liquidity integration for Nordic and EU corporate expansions.
 
-THE STEWARDSHIP FILTER Stewardship is the discipline that governs capital allocation within the Roials Capital framework
-
-.
-
-It is not a virtue signal.
+THE STEWARDSHIP FILTER Stewardship is the discipline that governs capital allocation within the Roials Capital framework. It is not a virtue signal.
 
 It is a structural requirement for institutional scale.
 
@@ -240,11 +231,7 @@ Allocators seeking to calibrate their portfolios for the 2026 environment often 
 
 Roials Capital operates as a navigator within this landscape, equipping decision makers with the structural intelligence required to operate in an era defined by capital scarcity, operational complexity, and opportunity velocity.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

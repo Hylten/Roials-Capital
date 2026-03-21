@@ -1,9 +1,4 @@
----
-title: "The Strategic Value of Asset Based Financing for Modern Private Wealth"
-description: "An institutional briefing on the role of asset based financing as a balance sheet discipline that enhances liquidity engineering, capital optionality, and structural resilience for UHNW families, private offices, and GP platforms navigating the 2026 macro regime."
-date: "2025-08-28"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "strategic-value-asset-based-financing-modern-private-wealth"
+--- title: "The Strategic Value of Asset Based Financing for Modern Private Wealth" description: "An institutional briefing on the role of asset based financing as a balance sheet discipline that enhances liquidity engineering, capital optionality, and structural resilience for UHNW families, private offices, and GP platforms navigating the 2026 macro regime." date: "2025-08-28" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "strategic-value-asset-based-financing-modern-private-wealth"
 --- 
 
 The capital vacuum in North American private markets is no longer cyclical.
@@ -168,11 +163,7 @@ For UHNW families, the
 
 The partnership model ensures that principals operate with structural clarity rather than market noise.
 
-THE STEWARDSHIP FILTER Stewardship is not philanthropy
-
-.
-
-It is a discipline of resource management.
+THE STEWARDSHIP FILTER Stewardship is not philanthropy. It is a discipline of resource management.
 
 In private capital this principle is often overlooked because liquidity is assumed rather than engineered.
 

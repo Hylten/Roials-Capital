@@ -1,9 +1,4 @@
----
-title: "Principal Architecture for Institutional Grade Asset Hardening"
-description: "Institutional blueprint for capital raising, buyout infrastructure, liquidity engineering, and jurisdictional asset hardening mechanics for Fund-III scale operators."
-date: "2025-12-24"
-author: "ROIALS CAPITAL"
-slug: "institutional-asset-hardening-architecture"
+--- title: "Principal Architecture for Institutional Grade Asset Hardening" description: "Institutional blueprint for capital raising, buyout infrastructure, liquidity engineering, and jurisdictional asset hardening mechanics for Fund-III scale operators." date: "2025-12-24" author: "ROIALS CAPITAL" slug: "institutional-asset-hardening-architecture"
 --- 
 
 A structural gap always reveals itself first in recovery math.
@@ -289,11 +284,7 @@ LPs recognize this.
 
 They act on it.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

@@ -1,9 +1,4 @@
----
-title: "Designing the Sovereign Balance Sheet: A Structural Blueprint for Private Liquidity Architecture"
-description: "Institutional briefing on capital inefficiencies, liquidity engineering, and energy-based collateral structures shaping North American and European private markets. Technical analysis for allocators assessing buyouts, ABL frameworks, and Alberta-heavy oil opportunities through strategic partners such as NAEO."
-date: "2025-12-11"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "sovereign-balance-sheet-private-liquidity-architecture"
+--- title: "Designing the Sovereign Balance Sheet: A Structural Blueprint for Private Liquidity Architecture" description: "Institutional briefing on capital inefficiencies, liquidity engineering, and energy-based collateral structures shaping North American and European private markets. Technical analysis for allocators assessing buyouts, ABL frameworks, and Alberta-heavy oil opportunities through strategic partners such as NAEO." date: "2025-12-11" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "sovereign-balance-sheet-private-liquidity-architecture"
 --- 
 
 The capital vacuum in North America's energy sector is a structural consequence of regulatory drift, capital migration, and de-risked institutional mandates that no longer interface with real-asset production cycles.
@@ -128,11 +123,7 @@ The partnership model integrates three axes.
 
 Axis one is institutional 
 
- INTRODUCTION
-
- .
-
-Roials Capital identifies operators with measurable credibility in reservoir management, production optimization, and capital discipline.
+ INTRODUCTION. Roials Capital identifies operators with measurable credibility in reservoir management, production optimization, and capital discipline.
 
 NAEO is a strategic partner with these capabilities, particularly in SAGD operations, multi-reservoir heavy oil portfolios, and Alberta regulatory navigation.
 
@@ -158,11 +149,7 @@ This includes decline-curve analysis, thermal efficiency metrics, reservoir mapp
 
 Through this model, Roials Capital supports allocators in constructing sovereign-grade liquidity architecture based on operational assets rather than narratives.
 
-THE STEWARDSHIP FILTER Capital stewardship is not a branding concept
-
-.
-
-It is an operational discipline anchored in the biblical principle of **Proverbs 13:22
+THE STEWARDSHIP FILTER Capital stewardship is not a branding concept. It is an operational discipline anchored in the biblical principle of **Proverbs 13:22
 
 * 
 

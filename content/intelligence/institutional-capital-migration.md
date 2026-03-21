@@ -1,9 +1,4 @@
----
-title: "The Migration Path of Institutional Capital"
-description: "A principal-level analysis of structural capital reallocation, technical cash-flow regimes, and institutional stewardship filters governing Fund-III capital raising, Asset-Based Lending liquidity engineering, and special mandate deployment across UHNWI and private credit ecosystems."
-date: "2026-01-26"
-author: "Jonas Hylten"
-slug: "institutional-capital-migration"
+--- title: "The Migration Path of Institutional Capital" description: "A principal-level analysis of structural capital reallocation, technical cash-flow regimes, and institutional stewardship filters governing Fund-III capital raising, Asset-Based Lending liquidity engineering, and special mandate deployment across UHNWI and private credit ecosystems." date: "2026-01-26" author: "Jonas Hylten" slug: "institutional-capital-migration"
 --- 
 
 A structural gap always appears before a liquidity regime shifts.
@@ -308,11 +303,7 @@ Cost of error.
 
 Our mandate is to lower it to zero.
 
-TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

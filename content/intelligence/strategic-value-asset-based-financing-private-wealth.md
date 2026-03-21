@@ -1,9 +1,4 @@
----
-title: "The Strategic Value of Asset Based Financing for Modern Private Wealth"
-description: "Institutional briefing on the capital regime shift driving Asset Based Financing, its role in liquidity engineering, private equity acquisition velocity, and its integration into UHNW and institutional balance sheet optimization. Includes structural analysis of North American energy and the relevance of NAEO for specialized mandates."
-date: "2026-01-06"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "strategic-value-asset-based-financing-private-wealth"
+--- title: "The Strategic Value of Asset Based Financing for Modern Private Wealth" description: "Institutional briefing on the capital regime shift driving Asset Based Financing, its role in liquidity engineering, private equity acquisition velocity, and its integration into UHNW and institutional balance sheet optimization. Includes structural analysis of North American energy and the relevance of NAEO for specialized mandates." date: "2026-01-06" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "strategic-value-asset-based-financing-private-wealth"
 --- 
 
 The capital vacuum shaping North American and European private markets is the predictable outcome of duration mispricing, regulatory recalibration, and institutional retreat, not of declining asset quality.
@@ -196,11 +191,7 @@ ABL as a Stewardship Instrument UHNW families increasingly view ABL as a discipl
 
 By locking liquidity releases to asset quality and operational performance, the family office enforces a form of financial stewardship that aligns with generational preservation principles.
 
-THE STEWARDSHIP FILTER Stewardship is the governing discipline that ensures capital is deployed in a manner consistent with long term responsibility
-
-.
-
-Asset Based Financing supports stewardship in four distinct ways. 
+THE STEWARDSHIP FILTER Stewardship is the governing discipline that ensures capital is deployed in a manner consistent with long term responsibility. Asset Based Financing supports stewardship in four distinct ways. 
 
 1.
 

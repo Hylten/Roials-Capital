@@ -1,9 +1,4 @@
----
-title: "The Mandate Of Discrete Capital Deployment Across North American Energy And Institutional Buyout Frameworks"
-description: "Institutional briefing on the structural mandate for targeted capital deployment across North American energy, buyouts, liquidity engineering, and special cross jurisdictional mandates, with emphasis on Alberta heavy oil physics, capital gaps, and the Roials Capital introduction architecture."
-date: "2026-02-01"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "mandate-of-discrete-capital-deployment"
+--- title: "The Mandate Of Discrete Capital Deployment Across North American Energy And Institutional Buyout Frameworks" description: "Institutional briefing on the structural mandate for targeted capital deployment across North American energy, buyouts, liquidity engineering, and special cross jurisdictional mandates, with emphasis on Alberta heavy oil physics, capital gaps, and the Roials Capital introduction architecture." date: "2026-02-01" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "mandate-of-discrete-capital-deployment"
 --- 
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion.
@@ -190,11 +185,7 @@ The firm does not take operating control or assert ownership claims.
 
 The value is in navigation, not execution.
 
-THE STEWARDSHIP FILTER Stewardship in capital markets is not a moral abstraction
-
-.
-
-It is a discipline of non wasteful resource management grounded in the theology of capital. **Proverbs 13:22
+THE STEWARDSHIP FILTER Stewardship in capital markets is not a moral abstraction. It is a discipline of non wasteful resource management grounded in the theology of capital. **Proverbs 13:22
 
 * 
 
@@ -264,11 +255,7 @@ E
 
 The tools are institutional introductions, strategic mapping, and situational deployment models that respect both the complexity of modern markets and the responsibilities of serious capital. [END OF BRIEFING]
 
-# TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+# TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 

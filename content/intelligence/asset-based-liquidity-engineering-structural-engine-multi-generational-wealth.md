@@ -1,9 +1,4 @@
----
-title: "Asset Based Liquidity Engineering as the Structural Engine for Multi Generational Wealth"
-description: "Institutional memorandum detailing the structural role of Asset Based Capital Structuring within modern capital regimes, its function inside Fund-III buyout ecosystems, and its strategic alignment with North American energy arbitrage and balance sheet optimization."
-date: "2025-07-05"
-author: "ROIALS CAPITAL (Institutional Briefing)"
-slug: "asset-based-liquidity-engineering-structural-engine-multi-generational-wealth"
+--- title: "Asset Based Liquidity Engineering as the Structural Engine for Multi Generational Wealth" description: "Institutional memorandum detailing the structural role of Asset Based Capital Structuring within modern capital regimes, its function inside Fund-III buyout ecosystems, and its strategic alignment with North American energy arbitrage and balance sheet optimization." date: "2025-07-05" author: "ROIALS CAPITAL (Institutional Briefing)" slug: "asset-based-liquidity-engineering-structural-engine-multi-generational-wealth"
 --- 
 
 The capital vacuum in North American energy is a function of regulatory drift and institutional mispricing, not resource scarcity.
@@ -210,11 +205,7 @@ Well structured capital attracts capital.
 
 Poorly structured capital destroys it.
 
-THE STEWARDSHIP FILTER Stewardship is the discipline that integrates financial prudence with resource responsibility
-
-.
-
-It is not philanthropy.
+THE STEWARDSHIP FILTER Stewardship is the discipline that integrates financial prudence with resource responsibility. It is not philanthropy.
 
 It is not austerity.
 
@@ -270,11 +261,7 @@ Roials Capital provides confidential Strategy Audits and Portfolio Calibration s
 
 The objective is to determine whether their current capital architecture supports or constrains multi generational wealth. [END OF BRIEFING]
 
-# TECHNICAL MANDATE Qualification Gates strictly observed
-
-.
-
-The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
+# TECHNICAL MANDATE Qualification Gates strictly observed. The architecture requires a minimum commitment baseline of $2,000,000, scaling to $5,000,
 
 000 for comprehensive structural execution.
 
