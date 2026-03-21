@@ -429,9 +429,7 @@ It funds discipline, not improvisation.
 
 Alignment is destiny.
 
-CTA Request confidential audi
-
-t TECHNICAL MANDATE 
+CTA Request confidential audi t TECHNICAL MANDATE 
 
 Qualification Gates strictly observed for comprehensive structural execution.
 

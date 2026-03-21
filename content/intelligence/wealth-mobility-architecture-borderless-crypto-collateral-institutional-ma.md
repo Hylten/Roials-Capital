@@ -105,9 +105,7 @@ The internal mandate is divided proportionally:
 
 The priority is to optimize liquidity sequencing so that capital is deployed with precision at each phase of the value creation cycle.
 
-The INTRODUCTION
-
-of crypto collateral is engineered to accelerate capital readiness rather than substitute traditional funding.
+The INTRODUCTION of crypto collateral is engineered to accelerate capital readiness rather than substitute traditional funding.
 
 2.
 

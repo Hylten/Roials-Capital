@@ -635,7 +635,7 @@ THE META
 
 -
 
-# CONCLUSION (WITHOUT SUMMARIZING) Bitcoin is not optional.
+CONCLUSION (WITHOUT SUMMARIZING) Bitcoin is not optional.
 
 Not for families who value sovereignty.
 

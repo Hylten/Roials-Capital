@@ -259,9 +259,7 @@ The cycle is entering the consolidation phase Every industrial transition behave
 
 -
 
-### Phase IV: Operational consolidatio
-
-n
+### Phase IV: Operational consolidatio n
 
 -
 

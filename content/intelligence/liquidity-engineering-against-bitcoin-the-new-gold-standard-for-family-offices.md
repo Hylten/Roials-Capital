@@ -39,9 +39,7 @@ Unlock liquidity without triggering taxable events.
 
 Bitcoin, when paired with sophisticated asset based Asset-Backed Frameworks mechanics, satisfies each of these requirements with notable precision.
 
-The structural benefits are clea
-
-r
+The structural benefits are clea r
 
 - Continuous market depth, which supports institutional scale collateralisation.
 

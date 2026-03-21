@@ -17,9 +17,7 @@ The consequence is a capital vacuum across buyout markets, where Fund-III manage
 
 Institutional allocators that previously relied on traditional lines of credit to manage vintage pacing must now recalibrate.
 
-The INTRODUCTION
-
-of digital reserve assets into the liquidity stack is an operational decision, not a conviction bet.
+The INTRODUCTION of digital reserve assets into the liquidity stack is an operational decision, not a conviction bet.
 
 It is a response to structural forces that include:
 
