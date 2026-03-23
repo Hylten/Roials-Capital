@@ -69,7 +69,7 @@ async function generateSEO() {
 
   const sharedButtons = `
         <div style="display: flex; justify-content: center; margin-top: 100px; padding-bottom: 150px; width: 100%; background: transparent;">
-          <a href="/" style="padding: 16px 36px; background: rgba(10,10,10,0.8); backdrop-filter: blur(8px); border: 1px solid rgba(255,255,255,0.1); color: #C5A059 !important; text-decoration: none !important; font-size: 12px; letter-spacing: 4px; text-transform: uppercase; font-family: sans-serif; font-weight: 600; display: inline-block; border-radius: 2px;">
+          <a href="${SITE_URL}/" style="padding: 16px 36px; background: rgba(10,10,10,0.8); backdrop-filter: blur(8px); border: 1px solid rgba(255,255,255,0.1); color: #C5A059 !important; text-decoration: none !important; font-size: 12px; letter-spacing: 4px; text-transform: uppercase; font-family: sans-serif; font-weight: 600; display: inline-block; border-radius: 2px;">
             Return Home
           </a>
         </div>
@@ -165,6 +165,7 @@ async function generateSEO() {
 
     const contentHtml = `<div style="background: #000000; min-height: 100vh; padding: 220px 20px; color: #E5E7EB; font-family: sans-serif;">
         <div style="max-width: 800px; margin: 0 auto; display: flex; flex-direction: column; align-items: center;">
+            <a href="/intelligence/" style="display: inline-flex; align-items: center; gap: 8px; color: #C5A059; font-size: 12px; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 48px; text-decoration: none; font-weight: 600;">← Back to Index</a>
             <div style="font-size: 14px; color: #666; text-transform: uppercase; letter-spacing: 6px; margin-bottom: 32px; font-weight: 800;">Intelligence Report</div>
             <h1 style="font-family: serif; font-size: clamp(2.5rem, 6vw, 4.5rem); color: #C5A059; margin-bottom: 60px; line-height: 1.1; text-align: center;">${title}</h1>
             <div style="font-size: 14px; color: #666; text-transform: uppercase; letter-spacing: 3px; margin-bottom: 80px; border-bottom: 1px solid #1a1a1a; padding-bottom: 48px; width: 100%; text-align: center;">Published ${date} • Roials Capital Strategy</div>
@@ -172,8 +173,10 @@ async function generateSEO() {
                 ${content.split('\n').map(p => {
       p = p.trim();
       if (!p) return '';
+      if (p.startsWith('#### ')) return `<h4 style="font-size: 1.2rem; color: #C5A059; margin-top: 32px; margin-bottom: 16px; font-weight: 500; font-family: serif;">${p.replace('#### ', '')}</h4>`;
       if (p.startsWith('### ')) return `<h3 style="font-size: 1.5rem; color: #C5A059; margin-top: 40px; margin-bottom: 20px; font-weight: 500; font-family: serif;">${p.replace('### ', '')}</h3>`;
       if (p.startsWith('## ')) return `<h2 style="font-size: 2rem; color: #C5A059; margin-top: 60px; margin-bottom: 30px; font-weight: 500; font-family: serif;">${p.replace('## ', '')}</h2>`;
+      if (p.startsWith('# ')) return `<h1 style="font-family: serif; font-size: 2.2rem; color: #fff; margin-top: 50px; margin-bottom: 25px; font-weight: 400; line-height: 1.2;">${p.replace('# ', '')}</h1>`;
       p = p.replace(/\*\*(.*?)\*\*/g, '<strong style="color: #E5E7EB; font-weight: 600;">$1</strong>');
       return `<p style="margin-bottom: 48px;">${p}</p>`;
     }).join('')}
