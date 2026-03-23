@@ -122,6 +122,8 @@ async function generateSEO() {
   const indexSchema = `<link rel="canonical" href="${INTELLIGENCE_URL}" />
   <meta property="og:url" content="${INTELLIGENCE_URL}" />
   <meta property="og:type" content="website" />
+  <meta property="og:title" content="Intelligence | Roials Capital" />
+  <meta property="og:description" content="Insights and perspectives on private credit, middle-market lending, and macroeconomics from Roials Capital." />
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -139,6 +141,8 @@ async function generateSEO() {
   const indexHtml = baseHtml
     .replace(/<title>.*?<\/title>/, '<title>Intelligence | Roials Capital</title>')
     .replace(/<meta name="description" content=".*?">/, '<meta name="description" content="Insights and perspectives on private credit, middle-market lending, and macroeconomics from Roials Capital.">')
+    .replace(/<link rel="canonical" href=".*?" \/>/, `<link rel="canonical" href="${INTELLIGENCE_URL}" />`)
+    .replace(/<meta property="og:url" content=".*?" \/>/, `<meta property="og:url" content="${INTELLIGENCE_URL}" />`)
     .replace('</head>', `${indexSchema}</head>`)
     .replace('<div id="root"></div>', `<div id="root">${listHtml}${sharedButtons}</div>`);
 
@@ -205,6 +209,8 @@ async function generateSEO() {
     const articleHtml = baseHtml
       .replace(/<title>.*?<\/title>/, `<title>${title} | Roials Capital</title>`)
       .replace(/<meta name="description" content=".*?">/, `<meta name="description" content="${description}">`)
+      .replace(/<link rel="canonical" href=".*?" \/>/, `<link rel="canonical" href="${articleUrl}" />`)
+      .replace(/<meta property="og:url" content=".*?" \/>/, `<meta property="og:url" content="${articleUrl}" />`)
       .replace('</head>', `${articleSchema}</head>`)
       .replace('<div id="root"></div>', `<div id="root">${contentHtml}${sharedButtons}</div>`);
 
