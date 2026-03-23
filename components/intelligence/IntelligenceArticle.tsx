@@ -57,6 +57,8 @@ export const IntelligenceArticle: React.FC<IntelligenceArticleProps> = ({ slug }
                     setContent(foundPost.body);
                     setMeta(foundPost.meta);
 
+                    const articleUrl = `https://roialscapital.com/intelligence/${slug}`;
+                    
                     if (foundPost.meta.title) {
                         document.title = `${foundPost.meta.title} | Roials Capital Intelligence`;
                     }
@@ -66,6 +68,53 @@ export const IntelligenceArticle: React.FC<IntelligenceArticleProps> = ({ slug }
                             metaDescription.setAttribute('content', foundPost.meta.description);
                         }
                     }
+
+                    // Update Open Graph tags dynamically
+                    const ogTitle = document.querySelector('meta[property="og:title"]');
+                    const ogDescription = document.querySelector('meta[property="og:description"]');
+                    const ogUrl = document.querySelector('meta[property="og:url"]');
+                    const ogType = document.querySelector('meta[property="og:type"]');
+                    const canonical = document.querySelector('link[rel="canonical"]');
+                    
+                    if (ogTitle) ogTitle.setAttribute('content', foundPost.meta.title || 'Intelligence | Roials Capital');
+                    if (ogDescription) ogDescription.setAttribute('content', foundPost.meta.description || '');
+                    if (ogUrl) ogUrl.setAttribute('content', articleUrl);
+                    if (ogType) ogType.setAttribute('content', 'article');
+                    if (canonical) canonical.setAttribute('href', articleUrl);
+
+                    // Inject Schema.org JSON-LD
+                    const existingScript = document.getElementById('json-ld-schema');
+                    if (existingScript) existingScript.remove();
+                    
+                    const schemaScript = document.createElement('script');
+                    schemaScript.id = 'json-ld-schema';
+                    schemaScript.type = 'application/ld+json';
+                    schemaScript.textContent = JSON.stringify({
+                        "@context": "https://schema.org",
+                        "@type": "Article",
+                        "headline": foundPost.meta.title,
+                        "description": foundPost.meta.description,
+                        "author": {
+                            "@type": "Organization",
+                            "name": foundPost.meta.author || 'Roials Capital'
+                        },
+                        "datePublished": foundPost.meta.date,
+                        "dateModified": foundPost.meta.date,
+                        "url": articleUrl,
+                        "publisher": {
+                            "@type": "Organization",
+                            "name": "Roials Capital",
+                            "logo": {
+                                "@type": "ImageObject",
+                                "url": "https://roialscapital.com/logo.png"
+                            }
+                        },
+                        "mainEntityOfPage": {
+                            "@type": "WebPage",
+                            "@id": articleUrl
+                        }
+                    });
+                    document.head.appendChild(schemaScript);
                 } else {
                     setError(true);
                 }

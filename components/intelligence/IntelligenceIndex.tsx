@@ -80,6 +80,23 @@ export const IntelligenceIndex: React.FC = () => {
     if (metaDescription) {
       metaDescription.setAttribute('content', 'Insights and perspectives on private credit, middle-market lending, and macroeconomics from Roials Capital.');
     }
+
+    // Update Open Graph for Intelligence Index
+    const ogTitle = document.querySelector('meta[property="og:title"]');
+    const ogDescription = document.querySelector('meta[property="og:description"]');
+    const ogUrl = document.querySelector('meta[property="og:url"]');
+    const canonical = document.querySelector('link[rel="canonical"]');
+    const ogType = document.querySelector('meta[property="og:type"]');
+    
+    if (ogTitle) ogTitle.setAttribute('content', 'Intelligence | Roials Capital');
+    if (ogDescription) ogDescription.setAttribute('content', 'Insights and perspectives on private credit, middle-market lending, and macroeconomics from Roials Capital.');
+    if (ogUrl) ogUrl.setAttribute('content', 'https://roialscapital.com/intelligence/');
+    if (canonical) canonical.setAttribute('href', 'https://roialscapital.com/intelligence/');
+    if (ogType) ogType.setAttribute('content', 'website');
+
+    // Remove any article schema from previous pages
+    const existingSchema = document.getElementById('json-ld-schema');
+    if (existingSchema) existingSchema.remove();
   }, []);
 
   return (

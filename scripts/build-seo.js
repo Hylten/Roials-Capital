@@ -22,6 +22,8 @@ const ensureDir = (dirPath) => {
 async function generateSEO() {
   console.log('Generating SEO Static HTML for Intelligence Blog...');
 
+  const SITE_URL = 'https://roialscapital.com';
+
   if (!fs.existsSync(DIST_DIR)) {
     console.error('dist directory not found. Please run npm run build first.');
     process.exit(1);
@@ -91,6 +93,8 @@ async function generateSEO() {
   listHtml += '<h1 style="font-size: clamp(3.5rem, 10vw, 8rem); color: #C5A059 !important; margin-bottom: 60px; font-weight: 400; font-family: serif; letter-spacing: -0.05em; line-height: 1; text-align: center;">Intelligence <span style="font-style: italic; color: #333; font-weight: 300;">Archive</span></h1>';
   listHtml += '<p style="font-size: 1.25rem; color: #9CA3AF; max-width: 700px; margin: 0 auto 200px; line-height: 1.6; font-weight: 300; text-align: center;">Institutional briefings on North American energy assets, structural liquidity engineering, and generational stewardship frameworks.</p>';
 
+  const INTELLIGENCE_URL = `${SITE_URL}/intelligence/`;
+
   for (const file of files) {
     const filePath = path.join(CONTENT_DIR, file);
     const rawContent = fs.readFileSync(filePath, 'utf8');
@@ -114,9 +118,28 @@ async function generateSEO() {
   }
   listHtml += '</div>';
 
+  // Add canonical and schema for index page
+  const indexSchema = `<link rel="canonical" href="${INTELLIGENCE_URL}" />
+  <meta property="og:url" content="${INTELLIGENCE_URL}" />
+  <meta property="og:type" content="website" />
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Intelligence | Roials Capital",
+    "description": "Insights and perspectives on private credit, middle-market lending, and macroeconomics from Roials Capital.",
+    "url": "${INTELLIGENCE_URL}",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Roials Capital"
+    }
+  }
+  </script>`;
+
   const indexHtml = baseHtml
     .replace(/<title>.*?<\/title>/, '<title>Intelligence | Roials Capital</title>')
     .replace(/<meta name="description" content=".*?">/, '<meta name="description" content="Insights and perspectives on private credit, middle-market lending, and macroeconomics from Roials Capital.">')
+    .replace('</head>', `${indexSchema}</head>`)
     .replace('<div id="root"></div>', `<div id="root">${listHtml}${sharedButtons}</div>`);
 
   fs.writeFileSync(path.join(INTELLIGENCE_DIST_DIR, 'index.html'), indexHtml);
@@ -154,9 +177,35 @@ async function generateSEO() {
         </div>
     </div>`;
 
+    const articleUrl = `${SITE_URL}/intelligence/${slug}/`;
+    const articleSchema = `<link rel="canonical" href="${articleUrl}" />
+  <meta property="og:url" content="${articleUrl}" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="${title}" />
+  <meta property="og:description" content="${description}" />
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "${title}",
+    "description": "${description}",
+    "author": {
+      "@type": "Organization",
+      "name": "${data.author || 'Roials Capital'}"
+    },
+    "datePublished": "${data.date}",
+    "url": "${articleUrl}",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Roials Capital"
+    }
+  }
+  </script>`;
+
     const articleHtml = baseHtml
       .replace(/<title>.*?<\/title>/, `<title>${title} | Roials Capital</title>`)
       .replace(/<meta name="description" content=".*?">/, `<meta name="description" content="${description}">`)
+      .replace('</head>', `${articleSchema}</head>`)
       .replace('<div id="root"></div>', `<div id="root">${contentHtml}${sharedButtons}</div>`);
 
     fs.writeFileSync(path.join(articleDir, 'index.html'), articleHtml);
@@ -164,7 +213,6 @@ async function generateSEO() {
   }
 
   // 3. Generate sitemap.xml
-  const SITE_URL = 'https://roialscapital.com';
   const today = new Date().toISOString().split('T')[0];
 
   let sitemapUrls = `  <url>
