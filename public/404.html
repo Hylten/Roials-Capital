@@ -1,19 +1,13 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Redirecting...</title>
-</head>
+<html>
+<head><title>Redirecting...</title></head>
 <body>
-    <script>
-        var url = window.location.pathname;
-        var isFile = url.match(/\.\w+$/);
-        if (url && url !== '/' && !isFile) {
-            sessionStorage.redirect = url;
-            window.location.href = '/';
-        }
-    </script>
-    <p>Redirecting to Roials Capital...</p>
+<script>
+  var p = window.location.pathname;
+  if (p !== '/' && !p.match(/\.\w+$/)) {
+    sessionStorage.redirect = p;
+    window.location.replace('/');
+  }
+</script>
 </body>
 </html>
