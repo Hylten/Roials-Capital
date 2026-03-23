@@ -10,11 +10,16 @@
         // Capture the requested URL before GitHub Pages serves this 404
         const url = window.location.pathname;
         
-        // Store it in sessionStorage for the React app to read
+        // Don't redirect for actual static files (verification files, etc.)
         if (url && url !== '/404.html' && url !== '/') {
-            sessionStorage.redirect = url;
-            // Redirect to index.html so React router can handle the navigation
-            window.location.href = '/';
+            // Check if it's a file (ends with .html, .json, .xml, etc.) - don't redirect those
+            const isFile = url.match(/\.(html|json|xml|txt|png|jpg|jpeg|gif|svg|ico|css|js)$/);
+            
+            if (!isFile) {
+                sessionStorage.redirect = url;
+                // Redirect to index.html so React router can handle the navigation
+                window.location.href = '/';
+            }
         }
     </script>
     <p>Redirecting to Roials Capital...</p>
