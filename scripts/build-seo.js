@@ -256,7 +256,35 @@ ${sitemapUrls}
   console.log('✅ Generated /dist/sitemap.xml');
 
   // 4. Generate robots.txt
-  const robots = `User-agent: *
+  const robots = `# Roials Capital Robots.txt
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# AI Crawlers
+User-agent: GPTBot
+Allow: /
+User-agent: GPT-User
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: Deepbot
+Allow: /
+User-agent: oai-search-bot
+Allow: /
+User-agent: CCBot
+Allow: /
+User-agent: Bytespider
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: anthropic-ai
+Allow: /
+User-agent: Amazonbot
+Allow: /
+User-agent: FacebookBot
+Allow: /
+User-agent: Applebot
 Allow: /
 
 Sitemap: ${SITE_URL}/sitemap.xml`;
