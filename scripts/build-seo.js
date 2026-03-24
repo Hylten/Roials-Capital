@@ -219,6 +219,15 @@ async function generateSEO() {
 
     fs.writeFileSync(path.join(articleDir, 'index.html'), articleHtml);
     console.log(`✅ Generated /dist/intelligence/${slug}/index.html`);
+    
+    feedItems.push({
+      id: slug,
+      url: articleUrl,
+      title: title,
+      summary: description,
+      date_published: new Date(data.date).toISOString(),
+      author: { name: data.author || 'Roials Capital' }
+    });
   }
 
   // 3. Generate sitemap.xml
@@ -235,17 +244,11 @@ async function generateSEO() {
     <priority>0.9</priority>
   </url>`;
 
-  for (const file of files) {
-    const filePath = path.join(CONTENT_DIR, file);
-    const rawContent = fs.readFileSync(filePath, 'utf8');
-    const { data } = matter(rawContent);
-    const slug = data.slug || file.replace('.md', '');
-    const date = data.date || today;
-
+  for (const item of feedItems) {
     sitemapUrls += `
   <url>
-    <loc>${SITE_URL}/intelligence/${slug}/</loc>
-    <lastmod>${date}</lastmod>
+    <loc>${item.url}</loc>
+    <lastmod>${item.date_published.split('T')[0]}</lastmod>
     <priority>0.8</priority>
   </url>`;
   }
@@ -258,7 +261,18 @@ ${sitemapUrls}
   fs.writeFileSync(path.join(DIST_DIR, 'sitemap.xml'), sitemap);
   console.log('✅ Generated /dist/sitemap.xml');
 
-  // 4. Generate robots.txt
+  // 4. Generate JSON Feed
+  const feed = {
+    version: "https://jsonfeed.org/version/1.1",
+    title: "Roials Capital Intelligence",
+    home_page_url: SITE_URL,
+    feed_url: `${SITE_URL}/feed.json`,
+    items: feedItems
+  };
+  fs.writeFileSync(path.join(DIST_DIR, 'feed.json'), JSON.stringify(feed, null, 2));
+  console.log('✅ Generated /dist/feed.json');
+
+  // 5. Generate robots.txt
   const robots = `# Roials Capital Robots.txt
 # Allow all crawlers
 User-agent: *
