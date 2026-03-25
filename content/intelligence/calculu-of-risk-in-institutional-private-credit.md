@@ -1,4 +1,9 @@
---- title: "The Calculus Of Risk In Institutional Private Credit" description: "An institutional briefing on risk stratification, structural credit mechanics, and capital formation dynamics shaping Fund-III+ buyouts, liquidity engineering mandates, and North American energy special situations." date: "2026-02-15" author: "Roials Capital (Institutional Briefing)" slug: "calculu-of-risk-in-institutional-private-credit"
+---
+title: "The Calculus Of Risk In Institutional Private Credit"
+description: "An institutional briefing on risk stratification, structural credit mechanics, and capital formation dynamics shaping Fund-III+ buyouts, liquidity engineering mandates, and North American energy special situations."
+date: "2026-02-15"
+author: "Roials Capital (Institutional Briefing)"
+slug: "calculu-of-risk-in-institutional-private-credit"
 ---
 
 The capital vacuum in North American private credit is the predictable outcome of regulatory fragmentation and institutional retrenchment rather than a deterioration in asset quality.

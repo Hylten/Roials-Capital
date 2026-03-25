@@ -1,4 +1,9 @@
---- title: "liquidity engineering Against Bitcoin: The New Gold Standard for Family Offices" description: "Institutional liquidity through private credit and asset based Strategic Collateralization, anchored by Bitcoin as a collateral class engineered for HNWI and UHNW capital environments." date: "2025-08-01" author: "Jonas Hyltén" slug: "liquidity-engineering-against-bitcoin-the-new-gold-standard-for-family-offices"
+---
+title: "liquidity engineering Against Bitcoin: The New Gold Standard for Family Offices"
+description: "Institutional liquidity through private credit and asset based Strategic Collateralization, anchored by Bitcoin as a collateral class engineered for HNWI and UHNW capital environments."
+date: "2025-08-01"
+author: "Jonas Hyltén"
+slug: "liquidity-engineering-against-bitcoin-the-new-gold-standard-for-family-offices"
 ---
 
 # Strategic Collateralization Against Bitcoin: The New Gold Standard for Family Offices Family offices operate within a structural mandate, stability first, liquidity second, expansion third. This order has not changed for decades.

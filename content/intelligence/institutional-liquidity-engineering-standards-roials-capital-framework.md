@@ -1,4 +1,9 @@
---- title: "Institutional Standards for Private Liquidity Engineering Agreements: The Roials Capital Framework" description: "A technical briefing on institutional-grade Monetization Architecture structures, balance sheet optimization protocols, and the Roials Capital alignment architecture for Fund-III environments, Asset-Based Lending mandates, and capital acquisition workflows across North America and Europe." date: "2026-02-16" author: "Roials Capital (Institutional Briefing)" slug: "institutional-liquidity-engineering-standards-Roials Capital-framework"
+---
+title: "Institutional Standards for Private Liquidity Engineering Agreements: The Roials Capital Framework"
+description: "A technical briefing on institutional-grade Monetization Architecture structures, balance sheet optimization protocols, and the Roials Capital alignment architecture for Fund-III environments, Asset-Based Lending mandates, and capital acquisition workflows across North America and Europe."
+date: "2026-02-16"
+author: "Roials Capital (Institutional Briefing)"
+slug: "institutional-liquidity-engineering-standards-Roials Capital-framework"
 ---
 
 The capital vacuum in North American private markets is the predictable outcome of regulatory compression, institutional risk aversion, and the retreat of traditional lenders from structurally sound middle market transactions.

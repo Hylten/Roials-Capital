@@ -1,4 +1,9 @@
---- title: "The Institutional Architecture of Protecting Multi Generational Wealth Through Crypto Custody" description: "Institutional briefing on safeguarding long horizon wealth through cryptographic asset custody frameworks, regulatory alignment, operational segregation, and allocator grade security architecture." date: "2025-08-21" author: "Roials Capital (Institutional Briefing)" slug: "institutional-architecture-crypto-custody"
+---
+title: "The Institutional Architecture of Protecting Multi Generational Wealth Through Crypto Custody"
+description: "Institutional briefing on safeguarding long horizon wealth through cryptographic asset custody frameworks, regulatory alignment, operational segregation, and allocator grade security architecture."
+date: "2025-08-21"
+author: "Roials Capital (Institutional Briefing)"
+slug: "institutional-architecture-crypto-custody"
 ---
 
 The capital vacuum within decentralized asset custody is a consequence of regulatory lag and fragmented operational standards rather than volatility in the underlying cryptographic networks.

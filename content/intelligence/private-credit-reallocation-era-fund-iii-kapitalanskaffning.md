@@ -1,4 +1,9 @@
---- title: "The Reallocation Mandate: Private Credit’s Institutional Pathways in a Post-Rate Regime" description: "A principal-level analysis of private credit’s structural reset, middle-market absorption capacity, and Fund-III capital formation dynamics across buyouts, Asset-Based Lending liquidity engineering, and cross‑border mandate arbitrage." date: "2026-03-15" author: "Roials Capital" slug: "private-credit-reallocation-era-Fund-III-kapitalanskaffning"
+---
+title: "The Reallocation Mandate: Private Credit’s Institutional Pathways in a Post-Rate Regime"
+description: "A principal-level analysis of private credit’s structural reset, middle-market absorption capacity, and Fund-III capital formation dynamics across buyouts, Asset-Based Lending liquidity engineering, and cross‑border mandate arbitrage."
+date: "2026-03-15"
+author: "Roials Capital"
+slug: "private-credit-reallocation-era-Fund-III-kapitalanskaffning"
 ---
 
 Private credit has entered the reallocation era.

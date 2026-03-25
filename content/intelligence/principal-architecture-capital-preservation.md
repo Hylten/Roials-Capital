@@ -1,4 +1,9 @@
---- title: "The Principal Architecture of Capital Preservation" description: "Institutional blueprint for capital raising, buyout discipline, liquidity engineering, and multi-cycle preservation mechanics across Fund-III mandates" date: "2025-07-22" author: "Jonas Hyltén" slug: "principal-architecture-capital-preservation"
+---
+title: "The Principal Architecture of Capital Preservation"
+description: "Institutional blueprint for capital raising, buyout discipline, liquidity engineering, and multi-cycle preservation mechanics across Fund-III mandates"
+date: "2025-07-22"
+author: "Jonas Hyltén"
+slug: "principal-architecture-capital-preservation"
 ---
 
 A structural gap defines the current investment regime.

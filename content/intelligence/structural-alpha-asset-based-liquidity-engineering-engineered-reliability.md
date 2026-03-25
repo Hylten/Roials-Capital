@@ -1,4 +1,9 @@
---- title: "Structural Alpha in Asset Based Liquidity Engineering: Engineered Reliability" description: "Institutional briefing on the structural mechanics of Asset Based Liquidity Engineering, balance sheet hardening, engineered reliability, and the capital regime shift defining Fund-III portfolios across North America and Europe." date: "2025-11-26" author: "Roials Capital (Institutional Briefing)" slug: "structural-alpha-asset-based-liquidity-engineering-engineered-reliability"
+---
+title: "Structural Alpha in Asset Based Liquidity Engineering: Engineered Reliability"
+description: "Institutional briefing on the structural mechanics of Asset Based Liquidity Engineering, balance sheet hardening, engineered reliability, and the capital regime shift defining Fund-III portfolios across North America and Europe."
+date: "2025-11-26"
+author: "Roials Capital (Institutional Briefing)"
+slug: "structural-alpha-asset-based-liquidity-engineering-engineered-reliability"
 ---
 
 The capital vacuum across North American and European lower mid market operators is the product of regulatory compression and risk model recalibration, not a shortage of real asset value.

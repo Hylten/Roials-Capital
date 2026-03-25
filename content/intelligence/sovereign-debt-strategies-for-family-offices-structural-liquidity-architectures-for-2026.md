@@ -1,4 +1,9 @@
---- title: "Sovereign Debt Strategies for Family Offices: Structural Liquidity Architectures for 2026" description: "Institutional guide to sovereign debt strategies, liquidity optimization, and asset based liquidity engineering frameworks for HNWI and UHNW family offices." date: "2025-12-14" author: "Jonas Hyltén" slug: "sovereign-debt-strategies-for-family-offices-structural-liquidity-architectures-for-2026"
+---
+title: "Sovereign Debt Strategies for Family Offices: Structural Liquidity Architectures for 2026"
+description: "Institutional guide to sovereign debt strategies, liquidity optimization, and asset based liquidity engineering frameworks for HNWI and UHNW family offices."
+date: "2025-12-14"
+author: "Jonas Hyltén"
+slug: "sovereign-debt-strategies-for-family-offices-structural-liquidity-architectures-for-2026"
 ---
 
 # Sovereign Debt Strategies for Family Offices Family offices manage capital across generations. They balance preservation with controlled aggression.

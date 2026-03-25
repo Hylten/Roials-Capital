@@ -1,4 +1,9 @@
---- title: "Designing the Sovereign Balance Sheet: A Structural Blueprint for Private Liquidity Architecture" description: "Institutional briefing on capital inefficiencies, liquidity engineering, and energy-based collateral structures shaping North American and European private markets. Technical analysis for allocators assessing buyouts, ABL frameworks, and Alberta-heavy oil opportunities through strategic partners such as NAEO." date: "2025-12-11" author: "Roials Capital (Institutional Briefing)" slug: "sovereign-balance-sheet-private-liquidity-architecture"
+---
+title: "Designing the Sovereign Balance Sheet: A Structural Blueprint for Private Liquidity Architecture"
+description: "Institutional briefing on capital inefficiencies, liquidity engineering, and energy-based collateral structures shaping North American and European private markets. Technical analysis for allocators assessing buyouts, ABL frameworks, and Alberta-heavy oil opportunities through strategic partners such as NAEO."
+date: "2025-12-11"
+author: "Roials Capital (Institutional Briefing)"
+slug: "sovereign-balance-sheet-private-liquidity-architecture"
 ---
 
 The capital vacuum in North America's energy sector is a structural consequence of regulatory drift, capital migration, and de-risked institutional mandates that no longer interface with real-asset production cycles.

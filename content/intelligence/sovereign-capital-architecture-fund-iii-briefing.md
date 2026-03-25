@@ -1,4 +1,9 @@
---- title: "Sovereign Capital Architecture for Fund-III Expansion Cycles" description: "An institutional briefing on capital raising, structural arbitrage, liquidity engineering, and multi‑jurisdictional acquisition architecture for Fund-III buyout platforms and special mandates." date: "2025-11-06" author: "Roials Capital" slug: "sovereign-capital-architecture-Fund-III-briefing"
+---
+title: "Sovereign Capital Architecture for Fund-III Expansion Cycles"
+description: "An institutional briefing on capital raising, structural arbitrage, liquidity engineering, and multi‑jurisdictional acquisition architecture for Fund-III buyout platforms and special mandates."
+date: "2025-11-06"
+author: "Roials Capital"
+slug: "sovereign-capital-architecture-Fund-III-briefing"
 ---
 
 The sovereign capital architecture operates on a single premise: capital obeys structure before narrative, jurisdiction before valuation, and institutional confidence before execution.

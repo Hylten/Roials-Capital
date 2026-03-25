@@ -1,4 +1,9 @@
---- title: "Principal Briefing on Institutional LP Appetite for Talent‑First Rollups" description: "Confidential Principal-level analysis on human‑capital‑dominant buyout construction, institutional LP posture, and Fund‑III capital formation signals across North America and Europe." date: "2025-10-10" author: "Roials Capital" slug: "institutional-lp-talent-first-rollups-briefing"
+---
+title: "Principal Briefing on Institutional LP Appetite for Talent‑First Rollups"
+description: "Confidential Principal-level analysis on human‑capital‑dominant buyout construction, institutional LP posture, and Fund‑III capital formation signals across North America and Europe."
+date: "2025-10-10"
+author: "Roials Capital"
+slug: "institutional-lp-talent-first-rollups-briefing"
 ---
 
 The shift is quiet.

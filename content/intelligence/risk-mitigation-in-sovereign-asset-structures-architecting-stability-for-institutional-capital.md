@@ -1,4 +1,9 @@
---- title: "Risk Mitigation in Sovereign Asset Structures: Architecting Stability for Institutional Capital" description: "An institutional examination of risk mitigation mechanics within sovereign asset structures, with emphasis on liquidity, private credit, and asset based liquidity engineering frameworks." date: "2026-01-05" author: "Jonas Hyltén" slug: "risk-mitigation-in-sovereign-asset-structures-architecting-stability-for-institutional-capital"
+---
+title: "Risk Mitigation in Sovereign Asset Structures: Architecting Stability for Institutional Capital"
+description: "An institutional examination of risk mitigation mechanics within sovereign asset structures, with emphasis on liquidity, private credit, and asset based liquidity engineering frameworks."
+date: "2026-01-05"
+author: "Jonas Hyltén"
+slug: "risk-mitigation-in-sovereign-asset-structures-architecting-stability-for-institutional-capital"
 ---
 
 # Risk Mitigation in Sovereign Asset Structures Sovereign asset structures form the highest tier of capital organization. They represent the intersection of jurisdictional certainty, transnational enforceability, and architectural design of risk governance.

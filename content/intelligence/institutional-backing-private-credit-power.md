@@ -1,4 +1,9 @@
---- title: "Institutional Backing as the Determinant Variable in Private Credit Regimes" description: "Technical briefing on capitalization dynamics, LP governed scale advantages, liquidity engineering, and the structural power of institutional alignment for Fund-III private credit vehicles." date: "2025-11-11" author: "Roials Capital" slug: "institutional-backing-private-credit-power"
+---
+title: "Institutional Backing as the Determinant Variable in Private Credit Regimes"
+description: "Technical briefing on capitalization dynamics, LP governed scale advantages, liquidity engineering, and the structural power of institutional alignment for Fund-III private credit vehicles."
+date: "2025-11-11"
+author: "Roials Capital"
+slug: "institutional-backing-private-credit-power"
 ---
 
 A structural gap always reveals itself in the data before it becomes visible in the market.

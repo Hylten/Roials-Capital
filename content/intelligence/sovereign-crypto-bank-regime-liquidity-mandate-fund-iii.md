@@ -1,4 +1,9 @@
---- title: "The Sovereign Crypto Bank Regime and the Liquidity Mandate of Fund-III" description: "Institutional brief on sovereign-grade digital banking architectures, Fund-III liquidity structuring, private credit capital formation, and multi‑jurisdictional acquisition lanes across MiFID II, Asset-Based Lending, and energy-transition mandates." date: "2025-09-10" author: "Roials Capital" slug: "sovereign-crypto-bank-regime-liquidity-mandate-Fund-III"
+---
+title: "The Sovereign Crypto Bank Regime and the Liquidity Mandate of Fund-III"
+description: "Institutional brief on sovereign-grade digital banking architectures, Fund-III liquidity structuring, private credit capital formation, and multi‑jurisdictional acquisition lanes across MiFID II, Asset-Based Lending, and energy-transition mandates."
+date: "2025-09-10"
+author: "Roials Capital"
+slug: "sovereign-crypto-bank-regime-liquidity-mandate-Fund-III"
 ---
 
 A sovereign crypto bank is not a retail novelty.

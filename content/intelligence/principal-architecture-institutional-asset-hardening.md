@@ -1,4 +1,9 @@
---- title: "Principal Architecture for Institutional‑Grade Asset Hardening" description: "High‑density institutional briefing on capital raising (Fund‑III+), jurisdictional structuring, asset hardening mechanics, liquidity engineering, and acquisition‑grade risk architecture for LP/GP allocators." date: "2025-10-02" author: "Roials Capital" slug: "principal-architecture-institutional-asset-hardening"
+---
+title: "Principal Architecture for Institutional‑Grade Asset Hardening"
+description: "High‑density institutional briefing on capital raising (Fund‑III+), jurisdictional structuring, asset hardening mechanics, liquidity engineering, and acquisition‑grade risk architecture for LP/GP allocators."
+date: "2025-10-02"
+author: "Roials Capital"
+slug: "principal-architecture-institutional-asset-hardening"
 ---
 
 The institutional mandate is simple: build structures that cannot break.

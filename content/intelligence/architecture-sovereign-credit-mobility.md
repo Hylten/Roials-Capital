@@ -1,4 +1,9 @@
---- title: "The Architecture of Sovereign Credit Mobility" description: "Institutional thesis on sovereign credit mobility, buyout capital formation, regulatory velocity, and cross-jurisdictional liquidity engineering for Fund-III scale allocations." date: "2026-02-24" author: "Roials Capital" slug: "architecture-sovereign-credit-mobility"
+---
+title: "The Architecture of Sovereign Credit Mobility"
+description: "Institutional thesis on sovereign credit mobility, buyout capital formation, regulatory velocity, and cross-jurisdictional liquidity engineering for Fund-III scale allocations."
+date: "2026-02-24"
+author: "Roials Capital"
+slug: "architecture-sovereign-credit-mobility"
 ---
 
 A sovereign balance sheet does not fail from lack of assets.

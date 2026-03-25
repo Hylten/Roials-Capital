@@ -1,4 +1,9 @@
---- title: "Crypto Liquidity Architecture for Sovereign and Ultra-Capital Entities" description: "Institutional liquidity engineering framework for sovereign allocators, UHNW principal structures, and Fund-III GP mandates designing crypto-based settlement rails, reserve baskets, and cross-jurisdictional liquidity spines." date: "2026-01-02" author: "Roials Capital" slug: "crypto-liquidity-architecture-sovereign-ultra-capital"
+---
+title: "Crypto Liquidity Architecture for Sovereign and Ultra-Capital Entities"
+description: "Institutional liquidity engineering framework for sovereign allocators, UHNW principal structures, and Fund-III GP mandates designing crypto-based settlement rails, reserve baskets, and cross-jurisdictional liquidity spines."
+date: "2026-01-02"
+author: "Roials Capital"
+slug: "crypto-liquidity-architecture-sovereign-ultra-capital"
 ---
 
 Fragmentation in crypto liquidity is not a technology flaw.

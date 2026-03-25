@@ -1,4 +1,9 @@
---- title: "Asset Based Liquidity Engineering as the Structural Engine of Multi Generational Wealth" description: "Institutional treatise detailing Strategic Collateralization as a capital compounding regime, written for UHNWIs, LPs, and private credit allocators aligned with Fund-III buyout architecture." date: "2025-12-27" author: "Jonas Hyltén" slug: "asset-based-liquidity-engineering-regime"
+---
+title: "Asset Based Liquidity Engineering as the Structural Engine of Multi Generational Wealth"
+description: "Institutional treatise detailing Strategic Collateralization as a capital compounding regime, written for UHNWIs, LPs, and private credit allocators aligned with Fund-III buyout architecture."
+date: "2025-12-27"
+author: "Jonas Hyltén"
+slug: "asset-based-liquidity-engineering-regime"
 ---
 
 A system collapses at its weakest constraint.

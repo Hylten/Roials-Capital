@@ -1,4 +1,9 @@
---- title: "The Sovereign Capital Architecture: Building Multi‑Generational Liquidity" description: "A deep institutional analysis of the Sovereign Capital Architecture and how Roials Capital engineers multi generational liquidity through structured private credit, asset backed design, and sovereign level financial governance." date: "2025-07-12" author: "Jonas Hyltén" slug: "the-sovereign-capital-architecture-building-multigenerational-liquidity"
+---
+title: "The Sovereign Capital Architecture: Building Multi‑Generational Liquidity"
+description: "A deep institutional analysis of the Sovereign Capital Architecture and how Roials Capital engineers multi generational liquidity through structured private credit, asset backed design, and sovereign level financial governance."
+date: "2025-07-12"
+author: "Jonas Hyltén"
+slug: "the-sovereign-capital-architecture-building-multigenerational-liquidity"
 ---
 
 # The Sovereign Capital Architecture: Building Multi Generational Liquidity The institutions that endure are not the institutions that move fast. They are the institutions that build frameworks.

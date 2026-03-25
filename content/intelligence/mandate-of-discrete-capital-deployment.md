@@ -1,4 +1,9 @@
---- title: "The Mandate Of Discrete Capital Deployment Across North American Energy And Institutional Buyout Frameworks" description: "Institutional briefing on the structural mandate for targeted capital deployment across North American energy, buyouts, liquidity engineering, and special cross jurisdictional mandates, with emphasis on Alberta heavy oil physics, capital gaps, and the Roials Capital introduction architecture." date: "2026-02-01" author: "Roials Capital (Institutional Briefing)" slug: "mandate-of-discrete-capital-deployment"
+---
+title: "The Mandate Of Discrete Capital Deployment Across North American Energy And Institutional Buyout Frameworks"
+description: "Institutional briefing on the structural mandate for targeted capital deployment across North American energy, buyouts, liquidity engineering, and special cross jurisdictional mandates, with emphasis on Alberta heavy oil physics, capital gaps, and the Roials Capital introduction architecture."
+date: "2026-02-01"
+author: "Roials Capital (Institutional Briefing)"
+slug: "mandate-of-discrete-capital-deployment"
 ---
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion.

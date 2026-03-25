@@ -1,4 +1,9 @@
---- title: "Structural Alignment In Multi Jurisdictional Asset" description: "Structural Alignment In Multi Jurisdictional Asset" date: "2025-07-15" author: "Jonas Hyltén" slug: "structural-alignment-in-multi-jurisdictional-asset"
+---
+title: "Structural Alignment In Multi Jurisdictional Asset"
+description: "Structural Alignment In Multi Jurisdictional Asset"
+date: "2025-07-15"
+author: "Jonas Hyltén"
+slug: "structural-alignment-in-multi-jurisdictional-asset"
 ---
 
 # Structural Alignment in Multi Jurisdictional Asset Hardening Institutional capital does not flow toward the loud. It flows toward the aligned.

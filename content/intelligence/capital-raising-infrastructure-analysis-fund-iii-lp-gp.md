@@ -1,4 +1,9 @@
---- title: "Capital Raising Infrastructure Analysis for Institutional Allocators Across Fund‑III Architectures" description: "Institutional-grade analysis of capital raising infrastructures, Fund-III scaling dynamics, liquidity engineering channels, and cross-regime allocation mechanics for UHNWIs, Institutional LPs, and Private Credit GPs." date: "2026-01-22" author: "Roials Capital (Institutional Briefing)" slug: "capital-raising-infrastructure-analysis-Fund-III-lp-gp"
+---
+title: "Capital Raising Infrastructure Analysis for Institutional Allocators Across Fund‑III Architectures"
+description: "Institutional-grade analysis of capital raising infrastructures, Fund-III scaling dynamics, liquidity engineering channels, and cross-regime allocation mechanics for UHNWIs, Institutional LPs, and Private Credit GPs."
+date: "2026-01-22"
+author: "Roials Capital (Institutional Briefing)"
+slug: "capital-raising-infrastructure-analysis-Fund-III-lp-gp"
 ---
 
 The capital vacuum in middle-market acquisition structures is not the result of deal scarcity.

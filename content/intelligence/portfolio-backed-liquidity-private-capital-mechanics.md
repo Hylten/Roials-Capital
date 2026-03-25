@@ -1,4 +1,9 @@
---- title: "The Mechanics of Portfolio Backed Liquidity for Modern Private Capital" description: "An institutional analysis on the structural liquidity gap in private markets, the operational mechanics of portfolio backed financing, and the strategic alignment model used by Roials Capital to navigate capital inefficiencies across North America and Europe." date: "2025-08-10" author: "Roials Capital (Institutional Briefing)" slug: "portfolio-backed-liquidity-private-capital-mechanics"
+---
+title: "The Mechanics of Portfolio Backed Liquidity for Modern Private Capital"
+description: "An institutional analysis on the structural liquidity gap in private markets, the operational mechanics of portfolio backed financing, and the strategic alignment model used by Roials Capital to navigate capital inefficiencies across North America and Europe."
+date: "2025-08-10"
+author: "Roials Capital (Institutional Briefing)"
+slug: "portfolio-backed-liquidity-private-capital-mechanics"
 ---
 
 The structural gap in North American private markets is a capital formation issue born from regulatory drift, institutional retrenchment, and the mispricing of middle market operating risk.

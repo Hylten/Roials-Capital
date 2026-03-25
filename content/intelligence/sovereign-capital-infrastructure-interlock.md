@@ -1,4 +1,9 @@
---- title: "The Sovereign Capital Interlock" description: "Institutional analysis of sovereign capital infrastructure, regime realignment, cash flow mechanics, and the capital-raising doctrine for Fund-III scale partnerships." date: "2025-07-02" author: "Roials Capital" slug: "sovereign-capital-infrastructure-interlock"
+---
+title: "The Sovereign Capital Interlock"
+description: "Institutional analysis of sovereign capital infrastructure, regime realignment, cash flow mechanics, and the capital-raising doctrine for Fund-III scale partnerships."
+date: "2025-07-02"
+author: "Roials Capital"
+slug: "sovereign-capital-infrastructure-interlock"
 ---
 
 A structural gap defines every future market.

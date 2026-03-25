@@ -1,4 +1,9 @@
---- title: "The Mechanics of Portfolio‑Backed Liquidity for Modern Private Capital" description: "A technical exploration of portfolio‑backed liquidity structures, focusing on private credit and Asset-Based Lending solutions for HNWI and UHNW capital holders." date: "2025-10-14" author: "Jonas Hyltén" slug: "the-mechanics-of-portfoliobacked-liquidity-for-modern-private-capital"
+---
+title: "The Mechanics of Portfolio‑Backed Liquidity for Modern Private Capital"
+description: "A technical exploration of portfolio‑backed liquidity structures, focusing on private credit and Asset-Based Lending solutions for HNWI and UHNW capital holders."
+date: "2025-10-14"
+author: "Jonas Hyltén"
+slug: "the-mechanics-of-portfoliobacked-liquidity-for-modern-private-capital"
 ---
 
 # The Mechanics of Portfolio‑Backed Liquidity Portfolio backed liquidity is no longer an exotic structure reserved for institutional balance sheets. It has become a central operating tool for private capital holders who require immediate, precise, and controlled access to liquidity without fracturing long range investment architecture.

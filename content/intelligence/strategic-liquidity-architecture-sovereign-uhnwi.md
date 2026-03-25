@@ -1,4 +1,9 @@
---- title: "Strategic Liquidity Architecture for Sovereign and Ultra High Net Worth Portfolios" description: "Institutional briefing outlining the structural gap in North American energy, Alberta thermal recovery mechanics, and the role of Roials Capital in strategic alignment, partnership navigation, and liquidity engineering for Fund-III plus mandates." date: "2025-09-02" author: "Roials Capital (Institutional Briefing)" slug: "strategic-liquidity-architecture-sovereign-uhnwi"
+---
+title: "Strategic Liquidity Architecture for Sovereign and Ultra High Net Worth Portfolios"
+description: "Institutional briefing outlining the structural gap in North American energy, Alberta thermal recovery mechanics, and the role of Roials Capital in strategic alignment, partnership navigation, and liquidity engineering for Fund-III plus mandates."
+date: "2025-09-02"
+author: "Roials Capital (Institutional Briefing)"
+slug: "strategic-liquidity-architecture-sovereign-uhnwi"
 ---
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion.

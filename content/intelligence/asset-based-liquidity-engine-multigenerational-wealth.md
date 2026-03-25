@@ -1,4 +1,9 @@
---- title: "Asset‑Based Liquidity Engineering as the Structural Engine of Multi‑Generational Wealth" description: "Institutional brief on capital formation strategy, Asset-Based Lending-driven Strategic Collateralization, and the architecture of multi‑generational asset hardening for Fund‑III and GP/LP mandates." date: "2025-09-04" author: "Roials Capital" slug: "asset-based-liquidity-engine-multigenerational-wealth"
+---
+title: "Asset‑Based Liquidity Engineering as the Structural Engine of Multi‑Generational Wealth"
+description: "Institutional brief on capital formation strategy, Asset-Based Lending-driven Strategic Collateralization, and the architecture of multi‑generational asset hardening for Fund‑III and GP/LP mandates."
+date: "2025-09-04"
+author: "Roials Capital"
+slug: "asset-based-liquidity-engine-multigenerational-wealth"
 ---
 
 The structural premise is simple.

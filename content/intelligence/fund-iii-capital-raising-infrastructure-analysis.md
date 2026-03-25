@@ -1,4 +1,9 @@
---- title: "Sovereign Capital Infrastructure for Institutional Allocators: Fund‑III Architecture Analysis" description: "Institutional-grade analysis of capital‑raising infrastructure for Fund‑III buyout platforms, with emphasis on allocation mechanics, liquidity engineering, and cross‑jurisdictional structuring for GP‑led expansion." date: "2025-08-30" author: "Roials Capital, Principal Investigator" slug: "Fund-III-capital-raising-infrastructure-analysis"
+---
+title: "Sovereign Capital Infrastructure for Institutional Allocators: Fund‑III Architecture Analysis"
+description: "Institutional-grade analysis of capital‑raising infrastructure for Fund‑III buyout platforms, with emphasis on allocation mechanics, liquidity engineering, and cross‑jurisdictional structuring for GP‑led expansion."
+date: "2025-08-30"
+author: "Roials Capital, Principal Investigator"
+slug: "Fund-III-capital-raising-infrastructure-analysis"
 ---
 
 Institutional allocators evaluate Fund‑III readiness through structural coherence, governance tension‑bands, and the allocator‑to‑platform distance in capital flow friction.

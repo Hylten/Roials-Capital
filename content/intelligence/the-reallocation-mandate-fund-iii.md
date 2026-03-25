@@ -1,4 +1,9 @@
---- title: "The Reallocation Mandate: Institutional Realignment for Fund-III Expansion" description: "A principal-level directive on capital reallocation, cross-jurisdictional structuring, and institutional capital engineering for Fund-III buyouts, liquidity mandates, and NAEOC energy acquisitions." date: "2025-07-31" author: "Roials Capital" slug: "the-reallocation-mandate-Fund-III"
+---
+title: "The Reallocation Mandate: Institutional Realignment for Fund-III Expansion"
+description: "A principal-level directive on capital reallocation, cross-jurisdictional structuring, and institutional capital engineering for Fund-III buyouts, liquidity mandates, and NAEOC energy acquisitions."
+date: "2025-07-31"
+author: "Roials Capital"
+slug: "the-reallocation-mandate-Fund-III"
 ---
 
 The Reallocation Mandate activates when structural pressures exceed historical comfort bands and when institutional capital requires repositioning toward asymmetric durability.

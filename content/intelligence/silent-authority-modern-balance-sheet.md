@@ -1,4 +1,9 @@
---- title: "Silent Authority on the Modern Balance Sheet" description: "Institutional brief on capital formation for Fund-III, buyout-capable liquidity engineering, and mandate-driven acquisition structuring across US/EU regimes." date: "2025-12-19" author: "Roials Capital" slug: "silent-authority-modern-balance-sheet"
+---
+title: "Silent Authority on the Modern Balance Sheet"
+description: "Institutional brief on capital formation for Fund-III, buyout-capable liquidity engineering, and mandate-driven acquisition structuring across US/EU regimes."
+date: "2025-12-19"
+author: "Roials Capital"
+slug: "silent-authority-modern-balance-sheet"
 ---
 
 principal authority is not a stylistic choice.

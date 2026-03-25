@@ -1,4 +1,9 @@
---- title: "The Institutional Playbook for Capital Preservation in Fund-III Regimes" description: "A principal-level framework for kapitalanskaffning, private credit structuring, liquidity engineering, and institutional-grade capital defense across buyout ecosystems." date: "2026-03-05" author: "Roials Capital" slug: "institutional-playbook-capital-preservation-Fund-III"
+---
+title: "The Institutional Playbook for Capital Preservation in Fund-III Regimes"
+description: "A principal-level framework for kapitalanskaffning, private credit structuring, liquidity engineering, and institutional-grade capital defense across buyout ecosystems."
+date: "2026-03-05"
+author: "Roials Capital"
+slug: "institutional-playbook-capital-preservation-Fund-III"
 ---
 
 Capital moves on certainty.

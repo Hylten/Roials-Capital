@@ -1,4 +1,9 @@
---- title: "Cross-Border Asset Hardening in Volatile Markets" description: "A high-trust institutional analysis of cross-border liquidity structuring, private credit, and asset based liquidity engineering for HNWI and UHNW portfolios." date: "2025-12-01" author: "Jonas Hyltén" slug: "cross-border-asset-hardening-in-volatile-markets"
+---
+title: "Cross-Border Asset Hardening in Volatile Markets"
+description: "A high-trust institutional analysis of cross-border liquidity structuring, private credit, and asset based liquidity engineering for HNWI and UHNW portfolios."
+date: "2025-12-01"
+author: "Jonas Hyltén"
+slug: "cross-border-asset-hardening-in-volatile-markets"
 ---
 
 # Cross-Border Asset Hardening in Volatile Markets Global portfolios are entering an era defined by structural volatility. Traditional risk buffers erode faster than capital can reallocate.

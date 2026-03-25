@@ -1,4 +1,9 @@
---- title: "The Calculus of Institutional Risk in Private Credit for Fund-III Expansion" description: "A principal-level dissection of risk calculus, capital formation, and structural engineering across private credit mandates, focused on Fund-III scale institutional commitments and acquisition pipelines." date: "2025-08-10" author: "Roials Capital" slug: "calculus-of-risk-institutional-private-credit"
+---
+title: "The Calculus of Institutional Risk in Private Credit for Fund-III Expansion"
+description: "A principal-level dissection of risk calculus, capital formation, and structural engineering across private credit mandates, focused on Fund-III scale institutional commitments and acquisition pipelines."
+date: "2025-08-10"
+author: "Roials Capital"
+slug: "calculus-of-risk-institutional-private-credit"
 ---
 
 Institutional private credit is no longer a yield product.

@@ -1,4 +1,9 @@
---- title: "The Calculus of Risk in Institutional Private Credit" description: "A clinical, high density institutional analysis of private credit risk architecture, capital formation mechanics, and the structural role of Roials Capital as an introducer and strategic partner for Fund-III and acquisition mandates." date: "2025-11-09" author: "Roials Capital (Institutional Briefing)" slug: "calculcus-of-risk-private-credit"
+---
+title: "The Calculus of Risk in Institutional Private Credit"
+description: "A clinical, high density institutional analysis of private credit risk architecture, capital formation mechanics, and the structural role of Roials Capital as an introducer and strategic partner for Fund-III and acquisition mandates."
+date: "2025-11-09"
+author: "Roials Capital (Institutional Briefing)"
+slug: "calculcus-of-risk-private-credit"
 ---
 
 The capital vacuum in North American and European private credit is not a function of reduced opportunity.

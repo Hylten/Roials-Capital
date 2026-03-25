@@ -1,4 +1,9 @@
---- title: "Non‑Sponsor Add‑On Buyouts: The 2026 Deployment Engine For Serious Capital" description: "Deep institutional briefing on why non‑sponsor add‑on buyouts now represent the most efficient, velocity‑aligned deployment vector for 2026 vintage private equity funds, with implications for Fund‑III scaling, multi‑jurisdictional capital cycles, and principal‑grade acquisition architecture." date: "2026-01-07" author: "Roials Capital" slug: "non-sponsor-add-on-buyouts-2026-fund-deployment"
+---
+title: "Non‑Sponsor Add‑On Buyouts: The 2026 Deployment Engine For Serious Capital"
+description: "Deep institutional briefing on why non‑sponsor add‑on buyouts now represent the most efficient, velocity‑aligned deployment vector for 2026 vintage private equity funds, with implications for Fund‑III scaling, multi‑jurisdictional capital cycles, and principal‑grade acquisition architecture."
+date: "2026-01-07"
+author: "Roials Capital"
+slug: "non-sponsor-add-on-buyouts-2026-fund-deployment"
 ---
 
 The market is fractured.

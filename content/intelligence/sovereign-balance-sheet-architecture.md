@@ -1,4 +1,9 @@
---- title: "Designing the Sovereign Balance Sheet: The Architecture of Enduring Liquidity" description: "Institutional brief on multi-jurisdictional balance‑sheet engineering, Fund-III capital formation, and liquidity architecture for durable GP scale." date: "2026-03-09" author: "Jonas Roials" slug: "sovereign-balance-sheet-architecture"
+---
+title: "Designing the Sovereign Balance Sheet: The Architecture of Enduring Liquidity"
+description: "Institutional brief on multi-jurisdictional balance‑sheet engineering, Fund-III capital formation, and liquidity architecture for durable GP scale."
+date: "2026-03-09"
+author: "Jonas Roials"
+slug: "sovereign-balance-sheet-architecture"
 ---
 
 A sovereign balance sheet is not a document.

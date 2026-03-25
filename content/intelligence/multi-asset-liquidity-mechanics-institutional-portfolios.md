@@ -1,4 +1,9 @@
---- title: "The Mechanics of Multi‑Asset Liquidity for Institutional‑Grade Portfolios" description: "Institutional brief on multi‑asset liquidity engineering, capital formation for Fund-III buyout mandates, and cross‑jurisdictional acquisition structuring under MiFID II, NAEOC, and private credit frameworks." date: "2025-08-19" author: "Roials Capital | Principal Desk" slug: "multi-asset-liquidity-mechanics-institutional-portfolios"
+---
+title: "The Mechanics of Multi‑Asset Liquidity for Institutional‑Grade Portfolios"
+description: "Institutional brief on multi‑asset liquidity engineering, capital formation for Fund-III buyout mandates, and cross‑jurisdictional acquisition structuring under MiFID II, NAEOC, and private credit frameworks."
+date: "2025-08-19"
+author: "Roials Capital | Principal Desk"
+slug: "multi-asset-liquidity-mechanics-institutional-portfolios"
 ---
 
 Multi‑asset liquidity is not a market preference.

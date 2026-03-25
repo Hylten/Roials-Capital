@@ -1,4 +1,9 @@
---- title: "The Future of Private Credit: Institutional Pathways, Middle Market Demand, and the Reallocation Era" description: "Institutional briefing on the structural evolution of private credit, middle market financing gaps, and the capital reallocation cycle shaping Fund-III buyout execution, Asset-Based Lending liquidity engineering, and mandate-specific energy allocations through NAEOC." date: "2025-12-26" author: "Roials Capital (Institutional Briefing)" slug: "future-private-credit-middle-market-strategic-briefing"
+---
+title: "The Future of Private Credit: Institutional Pathways, Middle Market Demand, and the Reallocation Era"
+description: "Institutional briefing on the structural evolution of private credit, middle market financing gaps, and the capital reallocation cycle shaping Fund-III buyout execution, Asset-Based Lending liquidity engineering, and mandate-specific energy allocations through NAEOC."
+date: "2025-12-26"
+author: "Roials Capital (Institutional Briefing)"
+slug: "future-private-credit-middle-market-strategic-briefing"
 ---
 
 The capital vacuum in the North American middle market is not a function of declining creditworthiness.

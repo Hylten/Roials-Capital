@@ -1,4 +1,9 @@
---- title: "Deep Liquidity Architecture for Fund‑III Mobilization" description: "A principal-grade blueprint for raising institutional capital in illiquid markets, integrating liquidity engineering, private credit overlays, and cross‑jurisdictional acquisition structuring for Fund-III expansion." date: "2026-03-06" author: "Roials Capital" slug: "deep-liquidity-architecture-Fund-III"
+---
+title: "Deep Liquidity Architecture for Fund‑III Mobilization"
+description: "A principal-grade blueprint for raising institutional capital in illiquid markets, integrating liquidity engineering, private credit overlays, and cross‑jurisdictional acquisition structuring for Fund-III expansion."
+date: "2026-03-06"
+author: "Roials Capital"
+slug: "deep-liquidity-architecture-Fund-III"
 ---
 
 Deep liquidity architecture begins where ordinary capital strategy collapses.

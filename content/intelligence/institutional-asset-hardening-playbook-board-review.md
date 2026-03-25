@@ -1,4 +1,9 @@
---- title: "The Institutional Asset Hardening Playbook: How to Pass a 5B Board Review" description: "Institutional briefing on balance sheet optimization, capital stack hardening, and cross-border capital architecture for LPs and GPs navigating Fund-III+ expansions across North America and Europe." date: "2025-12-18" author: "Roials Capital (Institutional Briefing)" slug: "institutional-asset-hardening-playbook-board-review"
+---
+title: "The Institutional Asset Hardening Playbook: How to Pass a 5B Board Review"
+description: "Institutional briefing on balance sheet optimization, capital stack hardening, and cross-border capital architecture for LPs and GPs navigating Fund-III+ expansions across North America and Europe."
+date: "2025-12-18"
+author: "Roials Capital (Institutional Briefing)"
+slug: "institutional-asset-hardening-playbook-board-review"
 ---
 
 The capital vacuum in North America’s real asset environment is an outcome of misaligned regulatory cycles rather than a scarcity of investable structures.

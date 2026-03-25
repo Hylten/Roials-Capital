@@ -1,4 +1,9 @@
---- title: "Structural Alpha in Private Credit Portfolios: The Architecture of Controlled Liquidity" description: "Institutional briefing on controlled liquidity mechanics, structural alpha in private credit, balance sheet optimization, and the capital formation architecture supporting Fund-III buyouts, ABL liquidity engineering, and specialized energy mandates." date: "2026-01-29" author: "Roials Capital (Institutional Briefing)" slug: "structural-alpha-private-credit-controlled-liquidity"
+---
+title: "Structural Alpha in Private Credit Portfolios: The Architecture of Controlled Liquidity"
+description: "Institutional briefing on controlled liquidity mechanics, structural alpha in private credit, balance sheet optimization, and the capital formation architecture supporting Fund-III buyouts, ABL liquidity engineering, and specialized energy mandates."
+date: "2026-01-29"
+author: "Roials Capital (Institutional Briefing)"
+slug: "structural-alpha-private-credit-controlled-liquidity"
 ---
 
 The capital vacuum in North American private credit is the result of covenant compression and regulatory displacement, not a deterioration of underlying asset quality.

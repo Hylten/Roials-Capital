@@ -1,4 +1,9 @@
---- title: "The Mechanics of Portfolio Backed Liquidity for Modern Private Capital" description: "An institutional briefing on structural liquidity engineering, balance sheet optimization, and portfolio backed capital architecture for contemporary private markets allocators operating under a post Basel III and AIFMD constrained environment." date: "2025-11-14" author: "Roials Capital (Institutional Briefing)" slug: "portfolio-backed-liquidity-mechanics"
+---
+title: "The Mechanics of Portfolio Backed Liquidity for Modern Private Capital"
+description: "An institutional briefing on structural liquidity engineering, balance sheet optimization, and portfolio backed capital architecture for contemporary private markets allocators operating under a post Basel III and AIFMD constrained environment."
+date: "2025-11-14"
+author: "Roials Capital (Institutional Briefing)"
+slug: "portfolio-backed-liquidity-mechanics"
 ---
 
 The capital vacuum in North American private markets is not a function of asset scarcity.

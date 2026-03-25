@@ -1,4 +1,9 @@
---- title: "The New Architecture of Institutional Liquidity: Private Credit’s Ascendancy and the Capital Mandate of Fund-III" description: "An institutional briefing on the structural evolution of private credit in 2026, focused on capital raising dynamics for Fund-III, liquidity engineering, and cross-jurisdictional acquisition finance under MiFID II and NAEOC energy mandates." date: "2025-12-22" author: "Roials Capital" slug: "institutional-liquidity-architecture-2026"
+---
+title: "The New Architecture of Institutional Liquidity: Private Credit’s Ascendancy and the Capital Mandate of Fund-III"
+description: "An institutional briefing on the structural evolution of private credit in 2026, focused on capital raising dynamics for Fund-III, liquidity engineering, and cross-jurisdictional acquisition finance under MiFID II and NAEOC energy mandates."
+date: "2025-12-22"
+author: "Roials Capital"
+slug: "institutional-liquidity-architecture-2026"
 ---
 
 Private credit in 2026 is no longer a substitute for bank lending.

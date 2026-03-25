@@ -1,4 +1,9 @@
---- title: "Strategic Credit Architecture for High‑Net‑Worth Entrepreneurs" description: "A deep institutional analysis of liquidity structuring, private credit, and asset based liquidity engineering solutions for high net worth entrepreneurs seeking silent, controlled leverage." date: "2026-01-20" author: "Jonas Hyltén" slug: "strategic-credit-architecture-for-highnetworth-entrepreneurs"
+---
+title: "Strategic Credit Architecture for High‑Net‑Worth Entrepreneurs"
+description: "A deep institutional analysis of liquidity structuring, private credit, and asset based liquidity engineering solutions for high net worth entrepreneurs seeking silent, controlled leverage."
+date: "2026-01-20"
+author: "Jonas Hyltén"
+slug: "strategic-credit-architecture-for-highnetworth-entrepreneurs"
 ---
 
 # Strategic Credit for High‑Net‑Worth Entrepreneurs High‑net‑worth entrepreneurs do not compete for capital. They orchestrate it.

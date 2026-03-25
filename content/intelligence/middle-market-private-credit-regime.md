@@ -1,4 +1,9 @@
---- title: "The Middle Market Regime and the Credit Sovereignty Window" description: "Institutional briefing on middle-market private credit, liquidity engineering, and capital raising mechanics for Fund-III mandates targeting buyouts, add-ons, Asset-Based Lending structures, and sector specific special mandates." date: "2026-01-15" author: "Roials Capital" slug: "middle-market-private-credit-regime"
+---
+title: "The Middle Market Regime and the Credit Sovereignty Window"
+description: "Institutional briefing on middle-market private credit, liquidity engineering, and capital raising mechanics for Fund-III mandates targeting buyouts, add-ons, Asset-Based Lending structures, and sector specific special mandates."
+date: "2026-01-15"
+author: "Roials Capital"
+slug: "middle-market-private-credit-regime"
 ---
 
 A structural gap appears when capital migrates faster than underwriting standards can adapt.

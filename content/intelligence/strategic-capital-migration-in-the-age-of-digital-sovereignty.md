@@ -1,4 +1,9 @@
---- title: "Strategic Capital Migration in the Age of Digital Sovereignty" description: "An institutional-grade analysis of liquidity engineering through private credit and asset based Capital Structuring for global HNWI and UHNW capital structures." date: "2026-02-20" author: "Jonas Hyltén" slug: "strategic-capital-migration-in-the-age-of-digital-sovereignty"
+---
+title: "Strategic Capital Migration in the Age of Digital Sovereignty"
+description: "An institutional-grade analysis of liquidity engineering through private credit and asset based Capital Structuring for global HNWI and UHNW capital structures."
+date: "2026-02-20"
+author: "Jonas Hyltén"
+slug: "strategic-capital-migration-in-the-age-of-digital-sovereignty"
 ---
 
 # Strategic Capital Migration in the Age of Digital Sovereignty Capital no longer resides in a single jurisdiction. It resides in motion.

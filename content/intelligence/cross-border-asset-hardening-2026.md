@@ -1,4 +1,9 @@
---- title: "Cross-Border Asset Hardening in Volatile Markets: Institutional Frameworks for Capital Stability and Strategic Expansion" description: "Analyst-grade briefing on structural capital dislocations, cross-border asset hardening mechanics, and institutional navigation protocols relevant to UHNWIs, private credit funds, and international GPs operating in 2026 volatility regimes." date: "2025-08-02" author: "Roials Capital (Institutional Briefing)" slug: "cross-border-asset-hardening-2026"
+---
+title: "Cross-Border Asset Hardening in Volatile Markets: Institutional Frameworks for Capital Stability and Strategic Expansion"
+description: "Analyst-grade briefing on structural capital dislocations, cross-border asset hardening mechanics, and institutional navigation protocols relevant to UHNWIs, private credit funds, and international GPs operating in 2026 volatility regimes."
+date: "2025-08-02"
+author: "Roials Capital (Institutional Briefing)"
+slug: "cross-border-asset-hardening-2026"
 ---
 
 The capital vacuum in North America’s upstream and midstream energy segments is a direct consequence of regulatory drift, capital misallocation, and a multi-year divergence between policy rhetoric and physical market constraints.

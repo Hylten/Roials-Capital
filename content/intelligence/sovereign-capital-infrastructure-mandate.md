@@ -1,4 +1,9 @@
---- title: "The Sovereign Infrastructure Mandate" description: "Institutional briefing on the regime shift in sovereign capital architecture, private credit hardening, Fund-III capital formation, and the structural redesign of national liquidity systems." date: "2026-02-07" author: "Jonas Hyltén" slug: "sovereign-capital-infrastructure-mandate"
+---
+title: "The Sovereign Infrastructure Mandate"
+description: "Institutional briefing on the regime shift in sovereign capital architecture, private credit hardening, Fund-III capital formation, and the structural redesign of national liquidity systems."
+date: "2026-02-07"
+author: "Jonas Hyltén"
+slug: "sovereign-capital-infrastructure-mandate"
 ---
 
 A sovereign balance sheet collapses in silence long before it collapses in public.

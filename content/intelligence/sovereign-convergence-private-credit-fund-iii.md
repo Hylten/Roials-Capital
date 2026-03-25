@@ -1,4 +1,9 @@
---- title: "The Sovereign Convergence: Private Credit Ascendant and the Reconstitution of Wealth" description: "Institutional brief on the structural ascent of private credit, sovereign capital realignment, and Fund-III capital formation strategies across buyouts, liquidity engineering, and special mandates." date: "2025-07-22" author: "Roials Capital" slug: "sovereign-convergence-private-credit-Fund-III"
+---
+title: "The Sovereign Convergence: Private Credit Ascendant and the Reconstitution of Wealth"
+description: "Institutional brief on the structural ascent of private credit, sovereign capital realignment, and Fund-III capital formation strategies across buyouts, liquidity engineering, and special mandates."
+date: "2025-07-22"
+author: "Roials Capital"
+slug: "sovereign-convergence-private-credit-Fund-III"
 ---
 
 The architecture of global capital is shifting again.

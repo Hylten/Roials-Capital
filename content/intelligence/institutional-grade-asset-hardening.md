@@ -1,4 +1,9 @@
---- title: "Institutional Grade Infrastructure for Asset Hardening" description: "High conviction framework for capital hardening mechanics, Asset-Based Lending liquidity engineering, and private market acquisition readiness for Fund-III scale structures" date: "2026-01-27" author: "Roials Capital" slug: "institutional-grade-asset-hardening"
+---
+title: "Institutional Grade Infrastructure for Asset Hardening"
+description: "High conviction framework for capital hardening mechanics, Asset-Based Lending liquidity engineering, and private market acquisition readiness for Fund-III scale structures"
+date: "2026-01-27"
+author: "Roials Capital"
+slug: "institutional-grade-asset-hardening"
 ---
 
 Order does not appear by accident.

@@ -1,4 +1,9 @@
---- title: "Institutional Alignment in Modern Private Credit Markets" description: "Strategic analysis of liquidity, private credit, and asset based liquidity engineering for HNWI and UHNW capital structures." date: "2026-03-12" author: "Jonas Hyltén" slug: "institutional-alignment-in-modern-private-credit-markets"
+---
+title: "Institutional Alignment in Modern Private Credit Markets"
+description: "Strategic analysis of liquidity, private credit, and asset based liquidity engineering for HNWI and UHNW capital structures."
+date: "2026-03-12"
+author: "Jonas Hyltén"
+slug: "institutional-alignment-in-modern-private-credit-markets"
 ---
 
 # Institutional Alignment in Private Credit Markets Institutional alignment is the quiet architecture that defines who receives liquidity, how capital behaves, and which structures endure across cycles. For decades, private credit markets operated behind institutional gates.

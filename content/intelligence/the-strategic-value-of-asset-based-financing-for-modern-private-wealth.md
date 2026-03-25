@@ -1,4 +1,9 @@
---- title: "The Strategic Value of Asset Based Financing for Modern Private Wealth" description: "A surgical analysis of asset based liquidity engineering and Capital Structuring for HNWI and UHNW portfolios, with emphasis on private credit structures and institutional Asset-Based Lending mechanics." date: "2025-08-28" author: "Jonas Hyltén" slug: "the-strategic-value-of-asset-based-financing-for-modern-private-wealth"
+---
+title: "The Strategic Value of Asset Based Financing for Modern Private Wealth"
+description: "A surgical analysis of asset based liquidity engineering and Capital Structuring for HNWI and UHNW portfolios, with emphasis on private credit structures and institutional Asset-Based Lending mechanics."
+date: "2025-08-28"
+author: "Jonas Hyltén"
+slug: "the-strategic-value-of-asset-based-financing-for-modern-private-wealth"
 ---
 
 # The Strategic Value of Asset Based Financing Asset based financing has become the quiet architecture behind modern private wealth strategy. It operates beneath the surface of traditional banking conversations and delivers a structural edge for individuals who understand that capital efficiency is a competitive advantage.

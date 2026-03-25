@@ -1,4 +1,9 @@
---- title: "Deep Liquidity Architecture: Accessing Capital in Illiquid Markets" description: "Institutional analysis of deep liquidity mechanics and asset based liquidity engineering strategies for HNWI and UHNW clients navigating illiquid markets." date: "2025-07-12" author: "Jonas Hyltén" slug: "deep-liquidity-architecture-accessing-capital-in-illiquid-markets"
+---
+title: "Deep Liquidity Architecture: Accessing Capital in Illiquid Markets"
+description: "Institutional analysis of deep liquidity mechanics and asset based liquidity engineering strategies for HNWI and UHNW clients navigating illiquid markets."
+date: "2025-07-12"
+author: "Jonas Hyltén"
+slug: "deep-liquidity-architecture-accessing-capital-in-illiquid-markets"
 ---
 
 # Deep Liquidity: Accessing Capital in Illiquid Markets Illiquid markets have always created separation in wealth outcomes. Most participants operate inside environments where capital is static, valuation is theoretical, and liquidity is conditional on external demand.

@@ -1,4 +1,9 @@
---- title: "Sovereign Liquidity Facility Structuring: The Precision Architecture Behind Institutional Liquidity" description: "A high-density institutional analysis on sovereign liquidity mechanics, Fund-III capital formation, buyout liquidity architecture, and cross‑jurisdictional facility engineering for private equity and private credit." date: "2026-03-02" author: "Roials Capital" slug: "sovereign-liquidity-facility-structuring-precision-architecture"
+---
+title: "Sovereign Liquidity Facility Structuring: The Precision Architecture Behind Institutional Liquidity"
+description: "A high-density institutional analysis on sovereign liquidity mechanics, Fund-III capital formation, buyout liquidity architecture, and cross‑jurisdictional facility engineering for private equity and private credit."
+date: "2026-03-02"
+author: "Roials Capital"
+slug: "sovereign-liquidity-facility-structuring-precision-architecture"
 ---
 
 Sovereign liquidity facilities are no longer emergency instruments.

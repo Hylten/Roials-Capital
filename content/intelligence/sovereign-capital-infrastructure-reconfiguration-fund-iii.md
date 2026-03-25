@@ -1,4 +1,9 @@
---- title: "Sovereign Capital Infrastructures: The Reconfiguration Mandate for Fund-III" description: "A high-density institutional analysis of sovereign capital architectures, multi‑jurisdictional alignment, and next‑generation allocation regimes driving Fund-III kapitalanskaffning, private credit expansion, and liquidity engineering mandates." date: "2025-06-30" author: "Roials Capital | Principal Architect" slug: "sovereign-capital-infrastructure-reconfiguration-Fund-III"
+---
+title: "Sovereign Capital Infrastructures: The Reconfiguration Mandate for Fund-III"
+description: "A high-density institutional analysis of sovereign capital architectures, multi‑jurisdictional alignment, and next‑generation allocation regimes driving Fund-III kapitalanskaffning, private credit expansion, and liquidity engineering mandates."
+date: "2025-06-30"
+author: "Roials Capital | Principal Architect"
+slug: "sovereign-capital-infrastructure-reconfiguration-Fund-III"
 ---
 
 The future of sovereign capital infrastructure is no longer a projection.

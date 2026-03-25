@@ -1,4 +1,9 @@
---- title: "The Mechanics of Collateralized Liquidity: Structural Intelligence for Private Credit and Asset-Based Lending" description: "Institutional briefing on collateralized liquidity architecture, LTV control systems, cash‑flow mechanics, and capital raising protocols for Fund-III buyouts and Asset-Based Lending structures." date: "2025-09-16" author: "Jonas Hyltén" slug: "collateralized-liquidity-structural-intelligence-private-credit-abl"
+---
+title: "The Mechanics of Collateralized Liquidity: Structural Intelligence for Private Credit and Asset-Based Lending"
+description: "Institutional briefing on collateralized liquidity architecture, LTV control systems, cash‑flow mechanics, and capital raising protocols for Fund-III buyouts and Asset-Based Lending structures."
+date: "2025-09-16"
+author: "Jonas Hyltén"
+slug: "collateralized-liquidity-structural-intelligence-private-credit-abl"
 ---
 
 Order is not an option.

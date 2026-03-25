@@ -1,4 +1,9 @@
---- title: "Designing the Sovereign Balance Sheet: The Architecture of Enduring Liquidity" description: "Institutional blueprint for private liquidity architecture, sovereign-grade balance sheet engineering, Fund-III capital formation, and cash-flow sovereignty mechanics." date: "2026-02-13" author: "Jonas Hyltén" slug: "sovereign-balance-sheet-liquidity-architecture"
+---
+title: "Designing the Sovereign Balance Sheet: The Architecture of Enduring Liquidity"
+description: "Institutional blueprint for private liquidity architecture, sovereign-grade balance sheet engineering, Fund-III capital formation, and cash-flow sovereignty mechanics."
+date: "2026-02-13"
+author: "Jonas Hyltén"
+slug: "sovereign-balance-sheet-liquidity-architecture"
 ---
 
 A sovereign balance sheet fails not from lack of assets but from lack of hierarchy.

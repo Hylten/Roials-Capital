@@ -1,4 +1,9 @@
---- title: "Why MiFID II Buyers Are Quietly Pivoting Toward Under‑Levered Industrial Platforms" description: "Institutional briefing on EU buyer behavior, capital concentration dynamics, and the emerging preference for low‑leverage industrial platforms within Fund‑III acquisition cycles." date: "2025-12-09" author: "Roials Capital" slug: "mifid-buyers-under-levered-industrial-platforms"
+---
+title: "Why MiFID II Buyers Are Quietly Pivoting Toward Under‑Levered Industrial Platforms"
+description: "Institutional briefing on EU buyer behavior, capital concentration dynamics, and the emerging preference for low‑leverage industrial platforms within Fund‑III acquisition cycles."
+date: "2025-12-09"
+author: "Roials Capital"
+slug: "mifid-buyers-under-levered-industrial-platforms"
 ---
 
 European MiFID II buyers have shifted posture.

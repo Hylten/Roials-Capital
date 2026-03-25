@@ -1,4 +1,9 @@
---- title: "The Mechanics of Institutional Capital Migration Across Cycles and Regimes" description: "A high density institutional analysis of capital migration drivers, structural inefficiencies, and the strategic positioning required for allocators navigating Fund-III buyout environments, Asset-Based Lending liquidity engineering, and North American energy mandates." date: "2025-07-27" author: "Roials Capital (Institutional Briefing)" slug: "institutional-capital-migration-mechanics"
+---
+title: "The Mechanics of Institutional Capital Migration Across Cycles and Regimes"
+description: "A high density institutional analysis of capital migration drivers, structural inefficiencies, and the strategic positioning required for allocators navigating Fund-III buyout environments, Asset-Based Lending liquidity engineering, and North American energy mandates."
+date: "2025-07-27"
+author: "Roials Capital (Institutional Briefing)"
+slug: "institutional-capital-migration-mechanics"
 ---
 
 The capital vacuum in North America’s productive asset base is a function of regulatory drift, institutional overconcentration, and a structural mispricing of long duration real assets.

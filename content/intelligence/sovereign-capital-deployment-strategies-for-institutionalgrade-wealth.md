@@ -1,4 +1,9 @@
---- title: "Sovereign Capital Deployment Strategies for Institutional‑Grade Wealth" description: "An institutional analysis of liquidity architecture, private credit, and asset based liquidity engineering for sovereign-level capital deployment." date: "2025-06-26" author: "Jonas Hyltén" slug: "sovereign-capital-deployment-strategies-for-institutionalgrade-wealth"
+---
+title: "Sovereign Capital Deployment Strategies for Institutional‑Grade Wealth"
+description: "An institutional analysis of liquidity architecture, private credit, and asset based liquidity engineering for sovereign-level capital deployment."
+date: "2025-06-26"
+author: "Jonas Hyltén"
+slug: "sovereign-capital-deployment-strategies-for-institutionalgrade-wealth"
 ---
 
 # Sovereign Capital Deployment Strategies Sovereign capital behaves differently from conventional wealth. It is not reactive.

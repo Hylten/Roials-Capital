@@ -1,4 +1,9 @@
---- title: "Crypto Liquidity Architecture for Sovereign and Ultra-Capital Entities" description: "Institutional-grade crypto liquidity solutions backed by private credit and Asset-Based Lending. Minimum deployment. Structural mechanics for HNWI and UHNW capital." date: "2025-12-06" author: "Jonas Hyltén" slug: "crypto-liquidity-architecture-for-sovereign-and-ultra-capital-entities"
+---
+title: "Crypto Liquidity Architecture for Sovereign and Ultra-Capital Entities"
+description: "Institutional-grade crypto liquidity solutions backed by private credit and Asset-Based Lending. Minimum deployment. Structural mechanics for HNWI and UHNW capital."
+date: "2025-12-06"
+author: "Jonas Hyltén"
+slug: "crypto-liquidity-architecture-for-sovereign-and-ultra-capital-entities"
 ---
 
 # Crypto Liquidity for Sovereign Entities A Structural Framework for Institutional Digital Capital Crypto liquidity is no longer an experimental corner of global finance. It has matured into a parallel liquidity channel that sovereign entities, family offices, and multi‑jurisdictional asset holders treat as a strategic extension of their capital infrastructure.

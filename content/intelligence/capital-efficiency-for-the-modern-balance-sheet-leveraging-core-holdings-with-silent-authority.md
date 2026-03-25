@@ -1,4 +1,9 @@
---- title: "Capital Efficiency for the Modern Balance Sheet: Leveraging Core Holdings with Silent Authority" description: "Strategic capital efficiency through private credit and asset based liquidity engineering. Enhance liquidity while preserving core holdings with institutional precision." date: "2026-01-12" author: "Jonas Hyltén" slug: "capital-efficiency-for-the-modern-balance-sheet-leveraging-core-holdings-with-silent-authority"
+---
+title: "Capital Efficiency for the Modern Balance Sheet: Leveraging Core Holdings with Silent Authority"
+description: "Strategic capital efficiency through private credit and asset based liquidity engineering. Enhance liquidity while preserving core holdings with institutional precision."
+date: "2026-01-12"
+author: "Jonas Hyltén"
+slug: "capital-efficiency-for-the-modern-balance-sheet-leveraging-core-holdings-with-silent-authority"
 ---
 
 # Capital Efficiency: Leveraging Core Holdings Capital efficiency is no longer a preference for high net worth and ultra high net worth individuals. It is structural infrastructure.

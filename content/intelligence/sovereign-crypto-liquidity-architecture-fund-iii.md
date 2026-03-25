@@ -1,4 +1,9 @@
---- title: "Sovereign Crypto Liquidity Architecture for Fund-III Capital Formation" description: "Institutional-grade framework for sovereign-scale crypto liquidity engineering, private credit structuring, and ultra‑capital acquisition pathways for Fund‑III buyouts and cross‑jurisdictional expansions." date: "2025-07-17" author: "Jonas Roials" slug: "sovereign-crypto-liquidity-architecture-Fund-III"
+---
+title: "Sovereign Crypto Liquidity Architecture for Fund-III Capital Formation"
+description: "Institutional-grade framework for sovereign-scale crypto liquidity engineering, private credit structuring, and ultra‑capital acquisition pathways for Fund‑III buyouts and cross‑jurisdictional expansions."
+date: "2025-07-17"
+author: "Jonas Roials"
+slug: "sovereign-crypto-liquidity-architecture-Fund-III"
 ---
 
 Sovereign capital behaves differently.

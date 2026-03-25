@@ -1,4 +1,9 @@
---- title: "Wealth Mobility Protocols and Borderless Crypto Collateral in Institutional-Grade M&A for Fund-III Continuity" description: "A strategic analyst memorandum detailing cross-jurisdictional capital mobility, crypto-collateral architecture, and institutional M&A structuring for Fund-III buyouts and add-ons, with a focus on liquidity engineering and regulatory harmonization across US, EU, CH, and UAE frameworks." date: "2025-12-29" author: "Roials Capital (Institutional Briefing)" slug: "wealth-mobility-borderless-crypto-collateral-institutional-m-and-a"
+---
+title: "Wealth Mobility Protocols and Borderless Crypto Collateral in Institutional-Grade M&A for Fund-III Continuity"
+description: "A strategic analyst memorandum detailing cross-jurisdictional capital mobility, crypto-collateral architecture, and institutional M&A structuring for Fund-III buyouts and add-ons, with a focus on liquidity engineering and regulatory harmonization across US, EU, CH, and UAE frameworks."
+date: "2025-12-29"
+author: "Roials Capital (Institutional Briefing)"
+slug: "wealth-mobility-borderless-crypto-collateral-institutional-m-and-a"
 ---
 
 The capital vacuum in global M&A is not driven by a shortage of liquidity.

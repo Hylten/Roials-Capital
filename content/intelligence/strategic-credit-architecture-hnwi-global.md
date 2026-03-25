@@ -1,4 +1,9 @@
---- title: "Strategic Credit Architecture for High Net Worth Entrepreneurs: Institutional Structures for Capital Raising, Liquidity Engineering, and Cross Border Expansion" description: "A clinical institutional briefing on modern credit architecture for entrepreneurs operating within a globalized capital regime, with emphasis on Fund-III+ buyout capital formation, asset backed liquidity frameworks, and special mandates across North American energy and EU MiFID II environments." date: "2025-10-04" author: "Roials Capital (Institutional Briefing)" slug: "strategic-credit-architecture-hnwi-global"
+---
+title: "Strategic Credit Architecture for High Net Worth Entrepreneurs: Institutional Structures for Capital Raising, Liquidity Engineering, and Cross Border Expansion"
+description: "A clinical institutional briefing on modern credit architecture for entrepreneurs operating within a globalized capital regime, with emphasis on Fund-III+ buyout capital formation, asset backed liquidity frameworks, and special mandates across North American energy and EU MiFID II environments."
+date: "2025-10-04"
+author: "Roials Capital (Institutional Briefing)"
+slug: "strategic-credit-architecture-hnwi-global"
 ---
 
 The capital vacuum in North American and European middle market environments is a consequence of regulatory compression, interbank withdrawal, and procyclical risk weighting.

@@ -1,4 +1,9 @@
---- title: "Sovereign Capital: The Silent Authority in Modern Financing" description: "A high-clarity analysis of liquidity architecture, private credit, and asset-based liquidity engineering for HNWI and UHNW principals seeking institutional-grade capital precision." date: "2026-02-05" author: "Jonas Hyltén" slug: "sovereign-capital-the-silent-authority-in-modern-financing"
+---
+title: "Sovereign Capital: The Silent Authority in Modern Financing"
+description: "A high-clarity analysis of liquidity architecture, private credit, and asset-based liquidity engineering for HNWI and UHNW principals seeking institutional-grade capital precision."
+date: "2026-02-05"
+author: "Jonas Hyltén"
+slug: "sovereign-capital-the-silent-authority-in-modern-financing"
 ---
 
 # Sovereign Capital: The principal authority in Financing Sovereign capital does not compete for visibility. It does not advertise.

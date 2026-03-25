@@ -1,4 +1,9 @@
---- title: "Institutional Frameworks for Private Debt Origination in a Fragmented Capital Regime" description: "A clinical institutional briefing on private debt origination mechanics, capital stack structuring, LTV discipline, and the role of Roials Capital as a strategic partner in Fund-III capital formation, Asset-Based Lending liquidity engineering, and special mandates across North America and the EU." date: "2025-07-05" author: "Roials Capital (Institutional Briefing)" slug: "institutional-frameworks-private-debt-origination"
+---
+title: "Institutional Frameworks for Private Debt Origination in a Fragmented Capital Regime"
+description: "A clinical institutional briefing on private debt origination mechanics, capital stack structuring, LTV discipline, and the role of Roials Capital as a strategic partner in Fund-III capital formation, Asset-Based Lending liquidity engineering, and special mandates across North America and the EU."
+date: "2025-07-05"
+author: "Roials Capital (Institutional Briefing)"
+slug: "institutional-frameworks-private-debt-origination"
 ---
 
 The structural gap defining private debt origination in 2026 is the direct result of regulatory divergence and capital flight from traditional credit markets, not a deterioration in underlying asset performance.

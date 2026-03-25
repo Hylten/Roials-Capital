@@ -1,4 +1,9 @@
---- title: "Fund‑III Governance Architecture for Institutional Allocators" description: "Principal briefing on GP governance scaling, allocator‑grade reporting systems, and cross‑jurisdictional capital interfaces for Fund‑III buyout platforms." date: "2025-11-22" author: "Roials Capital" slug: "Fund-III-governance-architecture"
+---
+title: "Fund‑III Governance Architecture for Institutional Allocators"
+description: "Principal briefing on GP governance scaling, allocator‑grade reporting systems, and cross‑jurisdictional capital interfaces for Fund‑III buyout platforms."
+date: "2025-11-22"
+author: "Roials Capital"
+slug: "Fund-III-governance-architecture"
 ---
 
 Governance scales only when the spine is built early.

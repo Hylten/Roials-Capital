@@ -1,4 +1,9 @@
---- title: "Institutional-Grade Infrastructure for Asset Hardening in Fund-III Capital Architecture" description: "A principal-grade brief on capital raising, institutional asset hardening, liquidity engineering, and multi-jurisdictional structuring for Fund-III buyouts, add-ons, and energy mandates." date: "2025-12-03" author: "Roials Capital" slug: "institutional-asset-hardening-Fund-III"
+---
+title: "Institutional-Grade Infrastructure for Asset Hardening in Fund-III Capital Architecture"
+description: "A principal-grade brief on capital raising, institutional asset hardening, liquidity engineering, and multi-jurisdictional structuring for Fund-III buyouts, add-ons, and energy mandates."
+date: "2025-12-03"
+author: "Roials Capital"
+slug: "institutional-asset-hardening-Fund-III"
 ---
 
 Institutional capital follows structure.

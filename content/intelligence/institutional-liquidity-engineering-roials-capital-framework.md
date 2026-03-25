@@ -1,4 +1,9 @@
---- title: "Institutional Standards for Private Liquidity Engineering Agreements: The Roials Capital Framework" description: "A technical analyst briefing for institutional allocators evaluating Institutional Liquidity Paths structures, capital stack optimization, and private credit alignment within the Roials Capital Framework." date: "2026-01-31" author: "Roials Capital (Institutional Briefing)" slug: "institutional-liquidity-engineering-Roials Capital-framework"
+---
+title: "Institutional Standards for Private Liquidity Engineering Agreements: The Roials Capital Framework"
+description: "A technical analyst briefing for institutional allocators evaluating Institutional Liquidity Paths structures, capital stack optimization, and private credit alignment within the Roials Capital Framework."
+date: "2026-01-31"
+author: "Roials Capital (Institutional Briefing)"
+slug: "institutional-liquidity-engineering-Roials Capital-framework"
 ---
 
 The dislocation between balance sheet needs and institutional credit availability in 2026 is not a function of elevated risk profiles.

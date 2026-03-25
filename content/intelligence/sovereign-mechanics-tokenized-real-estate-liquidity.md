@@ -1,4 +1,9 @@
---- title: "The Sovereign Mechanics of Tokenized Real Estate Liquidity for Fund-III Acceleration" description: "Institutional analysis of tokenized real-asset liquidity structures, capital-raising mechanics, and cross-jurisdictional pathways for Fund-III buyouts, Asset-Based Lending engineering, and special-mandate acquisition pipelines." date: "2026-01-15" author: "Jonas Roials" slug: "sovereign-mechanics-tokenized-real-estate-liquidity"
+---
+title: "The Sovereign Mechanics of Tokenized Real Estate Liquidity for Fund-III Acceleration"
+description: "Institutional analysis of tokenized real-asset liquidity structures, capital-raising mechanics, and cross-jurisdictional pathways for Fund-III buyouts, Asset-Based Lending engineering, and special-mandate acquisition pipelines."
+date: "2026-01-15"
+author: "Jonas Roials"
+slug: "sovereign-mechanics-tokenized-real-estate-liquidity"
 ---
 
 Tokenized real estate is not a technology category.

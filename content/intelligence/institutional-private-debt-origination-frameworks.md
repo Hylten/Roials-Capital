@@ -1,4 +1,9 @@
---- title: "Institutional Frameworks for Private Debt Origination in High-Constraint Regimes" description: "Technical architecture for Fund-III capital formation, private credit origination systems, liquidity engineering, and energy acquisition mandates under institutional governance." date: "2025-07-25" author: "Jonas Hyltén" slug: "institutional-private-debt-origination-frameworks"
+---
+title: "Institutional Frameworks for Private Debt Origination in High-Constraint Regimes"
+description: "Technical architecture for Fund-III capital formation, private credit origination systems, liquidity engineering, and energy acquisition mandates under institutional governance."
+date: "2025-07-25"
+author: "Jonas Hyltén"
+slug: "institutional-private-debt-origination-frameworks"
 ---
 
 Order fails whenever origination is treated as a sales function instead of a governance engine.

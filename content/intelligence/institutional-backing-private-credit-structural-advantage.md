@@ -1,4 +1,9 @@
---- title: "The Structural Advantage of Institutional Backing in Modern Private Credit" description: "A technical briefing on regime-shift dynamics in private credit, institutional balance sheet consolidation, and capital stack optimization across Fund-III buyouts, Asset-Based Lending liquidity engineering, and cross-border special mandates." date: "2025-12-21" author: "Roials Capital (Institutional Briefing)" slug: "institutional-backing-private-credit-structural-advantage"
+---
+title: "The Structural Advantage of Institutional Backing in Modern Private Credit"
+description: "A technical briefing on regime-shift dynamics in private credit, institutional balance sheet consolidation, and capital stack optimization across Fund-III buyouts, Asset-Based Lending liquidity engineering, and cross-border special mandates."
+date: "2025-12-21"
+author: "Roials Capital (Institutional Briefing)"
+slug: "institutional-backing-private-credit-structural-advantage"
 ---
 
 The capital vacuum in North American and European private credit markets is the direct consequence of regulatory drift, consolidation of traditional lenders, and the structural aging of the middle market borrower universe.

@@ -1,4 +1,9 @@
---- title: "Institutional Frameworks For Private Debt Originat" description: "Institutional Frameworks For Private Debt Originat" date: "2025-08-20" author: "Jonas Hyltén" slug: "institutional-frameworks-for-private-debt-originat"
+---
+title: "Institutional Frameworks For Private Debt Originat"
+description: "Institutional Frameworks For Private Debt Originat"
+date: "2025-08-20"
+author: "Jonas Hyltén"
+slug: "institutional-frameworks-for-private-debt-originat"
 ---
 
 # Institutional Frameworks for Private Debt Origination Private debt origination has entered a structural cycle defined by scarcity, consolidation, and institutional thresholds that filter out weak operators. The market now rewards covenant integrity, precision underwriting, and the sovereignty of principals who operate under a stewardship mandate.

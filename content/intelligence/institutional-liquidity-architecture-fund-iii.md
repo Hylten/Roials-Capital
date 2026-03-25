@@ -1,4 +1,9 @@
---- title: "Institutional‑Grade Liquidity Architecture for High‑Value Assets" description: "A principal‑level analytical brief on capital formation, asset‑backed liquidity engineering, and institutional liquidity frameworks for Fund‑III buyouts, add‑ons, and special mandate energy acquisitions." date: "2025-11-22" author: "Roials Capital" slug: "institutional-liquidity-architecture-Fund-III"
+---
+title: "Institutional‑Grade Liquidity Architecture for High‑Value Assets"
+description: "A principal‑level analytical brief on capital formation, asset‑backed liquidity engineering, and institutional liquidity frameworks for Fund‑III buyouts, add‑ons, and special mandate energy acquisitions."
+date: "2025-11-22"
+author: "Roials Capital"
+slug: "institutional-liquidity-architecture-Fund-III"
 ---
 
 Institutional liquidity is no longer a passive condition.

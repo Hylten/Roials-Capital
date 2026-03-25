@@ -1,4 +1,9 @@
---- title: "Sovereign Mandate Architecture for Asset‑Based Liquidity Engineering" description: "Institutional-grade deep briefing on Asset-Based Asset-Backed Frameworks as a sovereign mandate for Fund-III capital raising, jurisdictional arbitrage, and asset hardening frameworks." date: "2026-02-21" author: "Roials Capital" slug: "sovereign-liquidity-engineering-mandate"
+---
+title: "Sovereign Mandate Architecture for Asset‑Based Liquidity Engineering"
+description: "Institutional-grade deep briefing on Asset-Based Asset-Backed Frameworks as a sovereign mandate for Fund-III capital raising, jurisdictional arbitrage, and asset hardening frameworks."
+date: "2026-02-21"
+author: "Roials Capital"
+slug: "sovereign-liquidity-engineering-mandate"
 ---
 
 Fund-III Principals operate inside a structural paradox: capital abundance on the macro, capital fragmentation on the micro.

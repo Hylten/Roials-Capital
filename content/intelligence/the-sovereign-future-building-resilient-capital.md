@@ -1,4 +1,9 @@
---- title: "The Sovereign Future: Building Resilient Capital" description: "An institutional exploration of liquidity strategy through private credit and asset based liquidity engineering for HNWI and UHNW portfolios." date: "2025-08-30" author: "Jonas Hyltén" slug: "the-sovereign-future-building-resilient-capital"
+---
+title: "The Sovereign Future: Building Resilient Capital"
+description: "An institutional exploration of liquidity strategy through private credit and asset based liquidity engineering for HNWI and UHNW portfolios."
+date: "2025-08-30"
+author: "Jonas Hyltén"
+slug: "the-sovereign-future-building-resilient-capital"
 ---
 
 # The Sovereign Future: Building Resilient Capital Capital strength is not a function of scale. It is a function of structure.

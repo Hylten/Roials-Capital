@@ -1,4 +1,9 @@
---- title: "The Institutional Case for Add‑On Consolidation in Fragmented Technical Services" description: "A principal-level, closed‑room analysis on consolidation economics, jurisdictional positioning, and capital architecture for Fund‑III buyouts and technical‑services roll‑ups." date: "2025-12-15" author: "Roials Capital" slug: "institutional-case-add-on-consolidation-fragmented-technical-services"
+---
+title: "The Institutional Case for Add‑On Consolidation in Fragmented Technical Services"
+description: "A principal-level, closed‑room analysis on consolidation economics, jurisdictional positioning, and capital architecture for Fund‑III buyouts and technical‑services roll‑ups."
+date: "2025-12-15"
+author: "Roials Capital"
+slug: "institutional-case-add-on-consolidation-fragmented-technical-services"
 ---
 
 The center of gravity in technical services is shifting.

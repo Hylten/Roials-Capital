@@ -1,4 +1,9 @@
---- title: "The Institutional Playbook for Capital Preservation" description: "A high‑trust, institutional guide to liquidity creation through private credit and asset based liquidity engineering for HNWI and UHNW investors." date: "2025-07-13" author: "Jonas Hyltén" slug: "the-institutional-playbook-for-capital-preservation"
+---
+title: "The Institutional Playbook for Capital Preservation"
+description: "A high‑trust, institutional guide to liquidity creation through private credit and asset based liquidity engineering for HNWI and UHNW investors."
+date: "2025-07-13"
+author: "Jonas Hyltén"
+slug: "the-institutional-playbook-for-capital-preservation"
 ---
 
 # The Institutional Playbook for Capital Preservation Capital preservation is not a defensive posture. It is structural engineering.

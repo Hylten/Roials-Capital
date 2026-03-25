@@ -1,4 +1,9 @@
---- title: "The Sovereign Balance Sheet: Engineering For Fund" description: "The Sovereign Balance Sheet: Engineering For Fund" date: "2025-07-07" author: "Jonas Hyltén" slug: "the-sovereign-balance-sheet-engineering-for-fund"
+---
+title: "The Sovereign Balance Sheet: Engineering For Fund"
+description: "The Sovereign Balance Sheet: Engineering For Fund"
+date: "2025-07-07"
+author: "Jonas Hyltén"
+slug: "the-sovereign-balance-sheet-engineering-for-fund"
 ---
 
 # The Sovereign Balance Sheet Engineering for Fund-III Dynamics The principal mandate for any institution preparing to enter Fund-III terrain is simple. Engineer a balance sheet that commands respect before negotiation begins.

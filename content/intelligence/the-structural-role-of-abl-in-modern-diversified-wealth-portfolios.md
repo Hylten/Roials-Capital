@@ -1,4 +1,9 @@
---- title: "The Structural Role of Asset-Based Lending in Modern Diversified Wealth Portfolios" description: "An institutional analysis of how Asset Based liquidity engineering enhances liquidity, stability, and controlled optionality for HNWI and UHNW portfolios." date: "2025-11-29" author: "Jonas Hyltén" slug: "the-structural-role-of-abl-in-modern-diversified-wealth-portfolios"
+---
+title: "The Structural Role of Asset-Based Lending in Modern Diversified Wealth Portfolios"
+description: "An institutional analysis of how Asset Based liquidity engineering enhances liquidity, stability, and controlled optionality for HNWI and UHNW portfolios."
+date: "2025-11-29"
+author: "Jonas Hyltén"
+slug: "the-structural-role-of-abl-in-modern-diversified-wealth-portfolios"
 ---
 
 # The Role of Asset-Based Lending in Diversified Wealth Portfolios Wealth architectures evolve as markets shift, and balance sheet rigidity becomes a liability rather than a safeguard. Institutional capital has already adapted.

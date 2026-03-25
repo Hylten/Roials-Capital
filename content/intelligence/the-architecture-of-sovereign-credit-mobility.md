@@ -1,4 +1,9 @@
---- title: "The Architecture Of Sovereign Credit Mobility" description: "The Architecture Of Sovereign Credit Mobility" date: "2025-10-30" author: "Jonas Hyltén" slug: "the-architecture-of-sovereign-credit-mobility"
+---
+title: "The Architecture Of Sovereign Credit Mobility"
+description: "The Architecture Of Sovereign Credit Mobility"
+date: "2025-10-30"
+author: "Jonas Hyltén"
+slug: "the-architecture-of-sovereign-credit-mobility"
 ---
 
 # The Architecture of Sovereign Credit Mobility Sovereign credit mobility is the discipline of transforming static wealth positions into directional force. It is not liquidity engineering.

@@ -1,4 +1,9 @@
---- title: "Structural Alpha Through Engineered Reliability: The Institutional Mandate for Fund-III Kapitalanskaffning" description: "Institutional brief on Asset-Based Liquidity Engineering, engineered reliability, and structural alpha generation for Fund-III+ buyouts, add-ons, and cross‑jurisdictional acquisition platforms." date: "2026-02-14" author: "Roials Capital" slug: "structural-alpha-engineered-reliability-Fund-III"
+---
+title: "Structural Alpha Through Engineered Reliability: The Institutional Mandate for Fund-III Kapitalanskaffning"
+description: "Institutional brief on Asset-Based Liquidity Engineering, engineered reliability, and structural alpha generation for Fund-III+ buyouts, add-ons, and cross‑jurisdictional acquisition platforms."
+date: "2026-02-14"
+author: "Roials Capital"
+slug: "structural-alpha-engineered-reliability-Fund-III"
 ---
 
 Engineered reliability is not a metric.

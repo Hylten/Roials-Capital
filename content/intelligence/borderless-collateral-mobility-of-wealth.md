@@ -1,4 +1,9 @@
---- title: "Borderless Collateral and the Institutional Mobility of Wealth" description: "Institutional brief on cross‑jurisdictional collateral mobility, sovereign‑grade capital structuring, and Fund-III buyout acceleration under Roials Capital mandates." date: "2025-11-12" author: "Roials Capital" slug: "borderless-collateral-mobility-of-wealth"
+---
+title: "Borderless Collateral and the Institutional Mobility of Wealth"
+description: "Institutional brief on cross‑jurisdictional collateral mobility, sovereign‑grade capital structuring, and Fund-III buyout acceleration under Roials Capital mandates."
+date: "2025-11-12"
+author: "Roials Capital"
+slug: "borderless-collateral-mobility-of-wealth"
 ---
 
 The contemporary M&A regime no longer behaves like a regional marketplace.

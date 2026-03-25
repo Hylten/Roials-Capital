@@ -1,4 +1,9 @@
---- title: "The Institutional Asset Hardening Playbook: Passing a $5B Board Review" description: "A principal-grade framework for asset hardening, capital raising for Fund-III+, and cross-jurisdictional structuring engineered for institutional LP/GP scrutiny." date: "2025-11-29" author: "Roials Capital" slug: "institutional-asset-hardening-playbook-5b-board-review"
+---
+title: "The Institutional Asset Hardening Playbook: Passing a $5B Board Review"
+description: "A principal-grade framework for asset hardening, capital raising for Fund-III+, and cross-jurisdictional structuring engineered for institutional LP/GP scrutiny."
+date: "2025-11-29"
+author: "Roials Capital"
+slug: "institutional-asset-hardening-playbook-5b-board-review"
 ---
 
 A $5B board review does not reward improvisation.

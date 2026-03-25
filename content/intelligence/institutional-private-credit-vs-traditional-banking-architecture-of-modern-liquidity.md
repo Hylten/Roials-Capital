@@ -1,4 +1,9 @@
---- title: "Institutional Private Credit vs Traditional Banking: The Architecture of Modern Liquidity" description: "A technical briefing on the regime shift from regulated banking credit to institutional private credit, with emphasis on capital formation mechanics, liquidity engineering architectures, and the operational structures behind Fund-III execution environments." date: "2025-09-07" author: "Roials Capital (Institutional Briefing)" slug: "institutional-private-credit-vs-traditional-banking-architecture-of-modern-liquidity"
+---
+title: "Institutional Private Credit vs Traditional Banking: The Architecture of Modern Liquidity"
+description: "A technical briefing on the regime shift from regulated banking credit to institutional private credit, with emphasis on capital formation mechanics, liquidity engineering architectures, and the operational structures behind Fund-III execution environments."
+date: "2025-09-07"
+author: "Roials Capital (Institutional Briefing)"
+slug: "institutional-private-credit-vs-traditional-banking-architecture-of-modern-liquidity"
 ---
 
 The capital vacuum across North American and European credit markets is a structural consequence of regulatory compression, not a contraction in underlying economic productivity.

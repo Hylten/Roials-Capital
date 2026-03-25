@@ -1,4 +1,9 @@
---- title: "The Structural Role of ABL in Modern Diversified Wealth Portfolios" description: "Institutional analysis of Asset Based Lending as a stabilizing mechanism for UHNW and institutional allocators navigating regime-shift capital markets, with emphasis on Liquidity Engineering, Balance Sheet Optimization, and strategic alignment with Fund-III buyout architecture." date: "2025-10-19" author: "Roials Capital (Institutional Briefing)" slug: "structural-role-of-abl-in-modern-wealth-portfolios"
+---
+title: "The Structural Role of ABL in Modern Diversified Wealth Portfolios"
+description: "Institutional analysis of Asset Based Lending as a stabilizing mechanism for UHNW and institutional allocators navigating regime-shift capital markets, with emphasis on Liquidity Engineering, Balance Sheet Optimization, and strategic alignment with Fund-III buyout architecture."
+date: "2025-10-19"
+author: "Roials Capital (Institutional Briefing)"
+slug: "structural-role-of-abl-in-modern-wealth-portfolios"
 ---
 
 The capital vacuum in North American middle market finance is a consequence of regulatory drift rather than borrower deterioration.

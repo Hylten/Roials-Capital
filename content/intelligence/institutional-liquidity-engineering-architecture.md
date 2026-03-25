@@ -1,4 +1,9 @@
---- title: "Institutional Grade Liquidity Engineering for High Value Assets: The Architecture of Modern Liquidity" description: "An institutional analysis of Institutional Liquidity Paths, balance sheet optimization, and the structural mechanics defining modern capital formation for UHNWIs, private credit managers, and institutional LPs navigating Fund-III+ strategies." date: "2026-03-12" author: "Roials Capital (Institutional Briefing)" slug: "institutional-liquidity-engineering-architecture"
+---
+title: "Institutional Grade Liquidity Engineering for High Value Assets: The Architecture of Modern Liquidity"
+description: "An institutional analysis of Institutional Liquidity Paths, balance sheet optimization, and the structural mechanics defining modern capital formation for UHNWIs, private credit managers, and institutional LPs navigating Fund-III+ strategies."
+date: "2026-03-12"
+author: "Roials Capital (Institutional Briefing)"
+slug: "institutional-liquidity-engineering-architecture"
 ---
 
 The capital vacuum across North America and Europe is a structural consequence of regulatory compression and balance sheet stagnation, not a shortage of institutional-grade assets.

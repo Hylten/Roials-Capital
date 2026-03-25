@@ -1,4 +1,9 @@
---- title: "Institutional Grade Infrastructure for Asset Hardening" description: "A technical memorandum for institutional allocators outlining structural gaps in North American energy, capital inefficiencies in lower mid market buyouts, and the infrastructure required for balance sheet optimization and asset hardening across Fund-III+ mandates." date: "2026-01-18" author: "Roials Capital (Institutional Briefing)" slug: "institutional-grade-asset-hardening-infrastructure"
+---
+title: "Institutional Grade Infrastructure for Asset Hardening"
+description: "A technical memorandum for institutional allocators outlining structural gaps in North American energy, capital inefficiencies in lower mid market buyouts, and the infrastructure required for balance sheet optimization and asset hardening across Fund-III+ mandates."
+date: "2026-01-18"
+author: "Roials Capital (Institutional Briefing)"
+slug: "institutional-grade-asset-hardening-infrastructure"
 ---
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion.

@@ -1,4 +1,9 @@
---- title: "Strategic Asset Allocation for Long‑Term Liquidity: The Architecture of Durable Capital" description: "Institutional brief on capital durability, liquidity engineering, buyout structures, and multi‑jurisdictional asset design optimized for Fund-III capital raising and long‑horizon private markets." date: "2025-09-06" author: "Roials Capital" slug: "strategic-asset-allocation-long-term-liquidity"
+---
+title: "Strategic Asset Allocation for Long‑Term Liquidity: The Architecture of Durable Capital"
+description: "Institutional brief on capital durability, liquidity engineering, buyout structures, and multi‑jurisdictional asset design optimized for Fund-III capital raising and long‑horizon private markets."
+date: "2025-09-06"
+author: "Roials Capital"
+slug: "strategic-asset-allocation-long-term-liquidity"
 ---
 
 Durable capital is not an idea.

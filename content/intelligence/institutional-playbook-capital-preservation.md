@@ -1,4 +1,9 @@
---- title: "The Institutional Playbook for Capital Preservation in a Fragmented Capital Regime" description: "A clinical analysis for institutional allocators on capital preservation architecture across private markets, with emphasis on Fund-III buyout sequencing, Liquidity Engineering, and North American energy optionality through NAEO." date: "2025-12-10" author: "Roials Capital (Institutional Briefing)" slug: "institutional-playbook-capital-preservation"
+---
+title: "The Institutional Playbook for Capital Preservation in a Fragmented Capital Regime"
+description: "A clinical analysis for institutional allocators on capital preservation architecture across private markets, with emphasis on Fund-III buyout sequencing, Liquidity Engineering, and North American energy optionality through NAEO."
+date: "2025-12-10"
+author: "Roials Capital (Institutional Briefing)"
+slug: "institutional-playbook-capital-preservation"
 ---
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion.

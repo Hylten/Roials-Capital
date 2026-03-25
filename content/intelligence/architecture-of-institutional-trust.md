@@ -1,4 +1,9 @@
---- title: "The Architecture of Institutional Trust in Modern Capital Formation" description: "An institutional briefing on the structural mechanics that govern allocator confidence, counterparty selection, and multi jurisdictional capital alignment across Buyout Fund-III pipelines, Liquidity Engineering mandates, and North American energy acquisition corridors." date: "2025-10-10" author: "Roials Capital (Institutional Briefing)" slug: "architecture-of-institutional-trust"
+---
+title: "The Architecture of Institutional Trust in Modern Capital Formation"
+description: "An institutional briefing on the structural mechanics that govern allocator confidence, counterparty selection, and multi jurisdictional capital alignment across Buyout Fund-III pipelines, Liquidity Engineering mandates, and North American energy acquisition corridors."
+date: "2025-10-10"
+author: "Roials Capital (Institutional Briefing)"
+slug: "architecture-of-institutional-trust"
 ---
 
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion.

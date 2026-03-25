@@ -1,4 +1,9 @@
---- title: "Institutional Alignment in Modern Private Credit Markets" description: "Technical memorandum on the structural evolution of private credit markets, alignment mechanics for institutional allocators, and the role of strategic partners in navigating Fund-III capital formation, Asset-Based Lending liquidity engineering, and special mandates including North American energy acquisition corridors." date: "2025-09-17" author: "Roials Capital (Institutional Briefing)" slug: "institutional-alignment-modern-private-credit-markets"
+---
+title: "Institutional Alignment in Modern Private Credit Markets"
+description: "Technical memorandum on the structural evolution of private credit markets, alignment mechanics for institutional allocators, and the role of strategic partners in navigating Fund-III capital formation, Asset-Based Lending liquidity engineering, and special mandates including North American energy acquisition corridors."
+date: "2025-09-17"
+author: "Roials Capital (Institutional Briefing)"
+slug: "institutional-alignment-modern-private-credit-markets"
 ---
 
 The capital vacuum in North American and European private credit markets is a consequence of structural regulatory drift, not a shortage of institutional capital.

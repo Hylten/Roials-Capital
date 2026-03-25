@@ -1,4 +1,9 @@
---- title: "Strategic Credit Architecture for High‑Net‑Worth Entrepreneurs: Institutional Frameworks for Capital Efficiency and Market Navigation" description: "Analyst‑grade briefing on credit engineering, capital formation protocols, and energy‑aligned mandates relevant to UHNW principals, private credit allocators, and institutional LPs navigating 2026 capital inefficiencies." date: "2025-07-20" author: "Roials Capital (Institutional Briefing)" slug: "strategic-credit-architecture-hnw-entrepreneurs"
+---
+title: "Strategic Credit Architecture for High‑Net‑Worth Entrepreneurs: Institutional Frameworks for Capital Efficiency and Market Navigation"
+description: "Analyst‑grade briefing on credit engineering, capital formation protocols, and energy‑aligned mandates relevant to UHNW principals, private credit allocators, and institutional LPs navigating 2026 capital inefficiencies."
+date: "2025-07-20"
+author: "Roials Capital (Institutional Briefing)"
+slug: "strategic-credit-architecture-hnw-entrepreneurs"
 ---
 
 The capital vacuum in North America’s energy sector is a consequence of regulatory drift, not resource depletion.

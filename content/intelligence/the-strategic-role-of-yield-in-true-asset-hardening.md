@@ -1,4 +1,9 @@
---- title: "The Strategic Role of Yield in True Asset Hardening" description: "A deep institutional analysis of how yield transforms private credit and Asset-Based Lending structures into durable liquidity engines for HNWI and UHNW capital." date: "2025-08-13" author: "Jonas Hyltén" slug: "the-strategic-role-of-yield-in-true-asset-hardening"
+---
+title: "The Strategic Role of Yield in True Asset Hardening"
+description: "A deep institutional analysis of how yield transforms private credit and Asset-Based Lending structures into durable liquidity engines for HNWI and UHNW capital."
+date: "2025-08-13"
+author: "Jonas Hyltén"
+slug: "the-strategic-role-of-yield-in-true-asset-hardening"
 ---
 
 # The Role of Yield in Asset Hardening Asset hardening is the quiet architecture of capital durability. It is not a marketing label and not a product category.

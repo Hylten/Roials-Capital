@@ -1,4 +1,9 @@
---- title: "The Architecture of Institutional Trust" description: "An institutional exploration of liquidity, private credit, and asset based liquidity engineering structures for HNWI and UHNW clients seeking disciplined capital architecture." date: "2025-09-29" author: "Jonas Hyltén" slug: "the-architecture-of-institutional-trust"
+---
+title: "The Architecture of Institutional Trust"
+description: "An institutional exploration of liquidity, private credit, and asset based liquidity engineering structures for HNWI and UHNW clients seeking disciplined capital architecture."
+date: "2025-09-29"
+author: "Jonas Hyltén"
+slug: "the-architecture-of-institutional-trust"
 ---
 
 # The Architecture of Institutional Trust Institutional trust is not a sentiment. It is a structure.

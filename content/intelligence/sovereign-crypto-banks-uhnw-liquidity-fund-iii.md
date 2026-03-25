@@ -1,4 +1,9 @@
---- title: "The Sovereign Crypto Bank Regime and the Liquidity Mandate of Fund-III" description: "Institutional analysis of sovereign-grade crypto banking, UHNWI liquidity engineering, and the structural capital shift driving Fund-III acquisition velocity." date: "2025-12-17" author: "Jonas Hyltén" slug: "sovereign-crypto-banks-uhnw-liquidity-Fund-III"
+---
+title: "The Sovereign Crypto Bank Regime and the Liquidity Mandate of Fund-III"
+description: "Institutional analysis of sovereign-grade crypto banking, UHNWI liquidity engineering, and the structural capital shift driving Fund-III acquisition velocity."
+date: "2025-12-17"
+author: "Jonas Hyltén"
+slug: "sovereign-crypto-banks-uhnw-liquidity-Fund-III"
 ---
 
 A jurisdictional void always precedes a new monetary institution.

@@ -1,4 +1,9 @@
---- title: "Sovereign Stewardship and the New Mandate for Private Capital" description: "Institutional brief on Fund-III capital formation, jurisdictional positioning, and sovereign-aligned private market architecture for buyouts, add-ons, and energy-transition mandates." date: "2025-08-13" author: "Roials Capital" slug: "sovereign-stewardship-private-capital-mandate"
+---
+title: "Sovereign Stewardship and the New Mandate for Private Capital"
+description: "Institutional brief on Fund-III capital formation, jurisdictional positioning, and sovereign-aligned private market architecture for buyouts, add-ons, and energy-transition mandates."
+date: "2025-08-13"
+author: "Roials Capital"
+slug: "sovereign-stewardship-private-capital-mandate"
 ---
 
 Sovereign stewardship begins where legacy capital retreats.

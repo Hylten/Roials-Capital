@@ -1,4 +1,9 @@
---- title: "Liquidity Architecture for Fund-III Expansion: Structural Mechanics for Institutional-Grade Capital" description: "An institutional analysis of liquidity architecture, private credit, and asset based liquidity engineering designed for HNWI and UHNW capital expansion." date: "2025-08-12" author: "Jonas Hyltén" slug: "liquidity-architecture-for-Fund-III-expansion-structural-mechanics-for-institutional-grade-capital"
+---
+title: "Liquidity Architecture for Fund-III Expansion: Structural Mechanics for Institutional-Grade Capital"
+description: "An institutional analysis of liquidity architecture, private credit, and asset based liquidity engineering designed for HNWI and UHNW capital expansion."
+date: "2025-08-12"
+author: "Jonas Hyltén"
+slug: "liquidity-architecture-for-Fund-III-expansion-structural-mechanics-for-institutional-grade-capital"
 ---
 
 # Liquidity Architecture for Fund-III Expansion Roials Capital operates in a domain where liquidity is not a convenience. Liquidity is the instrument that sets the rhythm for capital velocity, credit formation, and controlled expansion.

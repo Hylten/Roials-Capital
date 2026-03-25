@@ -1,4 +1,9 @@
---- title: "Cross‑Border Asset Hardening for Fund-III Capital Velocity" description: "Institutional brief on sovereign-grade asset hardening, cross-border capital structuring, and Fund‑III buyout readiness across volatile multi-jurisdictional markets with liquidity engineering and special mandate pathways." date: "2026-01-30" author: "Jonas Roials" slug: "cross-border-asset-hardening-Fund-III-capital-velocity"
+---
+title: "Cross‑Border Asset Hardening for Fund-III Capital Velocity"
+description: "Institutional brief on sovereign-grade asset hardening, cross-border capital structuring, and Fund‑III buyout readiness across volatile multi-jurisdictional markets with liquidity engineering and special mandate pathways."
+date: "2026-01-30"
+author: "Jonas Roials"
+slug: "cross-border-asset-hardening-Fund-III-capital-velocity"
 ---
 
 A hard truth defines the current cycle.

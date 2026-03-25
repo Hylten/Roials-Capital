@@ -1,4 +1,9 @@
---- title: "The Power of Private Credit in Modern M&A Architecture" description: "A strategic examination of liquidity engineering and asset based Institutional Liquidity Paths in contemporary M&A environments, designed for HNWI and UHNW decision‑makers." date: "2025-07-04" author: "Jonas Hyltén" slug: "the-power-of-private-credit-in-modern-ma-architecture"
+---
+title: "The Power of Private Credit in Modern M&A Architecture"
+description: "A strategic examination of liquidity engineering and asset based Institutional Liquidity Paths in contemporary M&A environments, designed for HNWI and UHNW decision‑makers."
+date: "2025-07-04"
+author: "Jonas Hyltén"
+slug: "the-power-of-private-credit-in-modern-ma-architecture"
 ---
 
 # The Power of Private Credit in M&A Mergers and acquisitions have always been liquidity‑centric events. They reorganize balance sheets, shift control, and dictate long term velocity.

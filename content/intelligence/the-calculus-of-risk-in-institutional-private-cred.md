@@ -1,4 +1,9 @@
---- title: "The Calculus Of Risk In Institutional Private Cred" description: "The Calculus Of Risk In Institutional Private Cred" date: "2025-12-08" author: "Jonas Hyltén" slug: "the-calculus-of-risk-in-institutional-private-cred"
+---
+title: "The Calculus Of Risk In Institutional Private Cred"
+description: "The Calculus Of Risk In Institutional Private Cred"
+date: "2025-12-08"
+author: "Jonas Hyltén"
+slug: "the-calculus-of-risk-in-institutional-private-cred"
 ---
 
 # The Calculus of Risk in Institutional Private Credit Institutional private credit is entering a structural realignment phase. Capital inflation.

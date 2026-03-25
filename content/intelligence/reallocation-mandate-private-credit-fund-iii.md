@@ -1,4 +1,9 @@
---- title: "The Reallocation Mandate" description: "Institutional analysis of private credit's regime shift, mid-market absorption capacity, and Fund-III capital formation pathways across buyouts, Asset-Based Lending liquidity engineering, and special mandates." date: "2025-08-04" author: "Roials Capital" slug: "reallocation-mandate-private-credit-Fund-III"
+---
+title: "The Reallocation Mandate"
+description: "Institutional analysis of private credit's regime shift, mid-market absorption capacity, and Fund-III capital formation pathways across buyouts, Asset-Based Lending liquidity engineering, and special mandates."
+date: "2025-08-04"
+author: "Roials Capital"
+slug: "reallocation-mandate-private-credit-Fund-III"
 ---
 
 A structural gap has opened at the center of private credit.

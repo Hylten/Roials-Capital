@@ -1,4 +1,9 @@
---- title: "Strategic CEO Persona Hooks for Institutional Capital Navigation" description: "Technical architecture for CEO persona construction aligned with Fund-III capital raising, private credit allocation mechanics, and institutional-grade strategic positioning. Focused on governance signaling, operational clarity, and allocator pattern-recognition psychology." date: "2025-06-29" author: "Roials Capital (Institutional Briefing)" slug: "strategic-ceo-persona-hooks-institutional-capital"
+---
+title: "Strategic CEO Persona Hooks for Institutional Capital Navigation"
+description: "Technical architecture for CEO persona construction aligned with Fund-III capital raising, private credit allocation mechanics, and institutional-grade strategic positioning. Focused on governance signaling, operational clarity, and allocator pattern-recognition psychology."
+date: "2025-06-29"
+author: "Roials Capital (Institutional Briefing)"
+slug: "strategic-ceo-persona-hooks-institutional-capital"
 ---
 
 The institutional allocator universe rarely responds to charisma.

@@ -1,4 +1,9 @@
---- title: "The Architecture of Hardened Capital for Fund‑III Mandates" description: "A principal-level institutional brief on hardened capital engineering, multi‑jurisdictional structuring, and sovereign-grade capitalization pathways for Fund‑III buyouts, add‑ons, and special mandates." date: "2025-08-08" author: "Roials Capital" slug: "architecture-of-hardened-capital"
+---
+title: "The Architecture of Hardened Capital for Fund‑III Mandates"
+description: "A principal-level institutional brief on hardened capital engineering, multi‑jurisdictional structuring, and sovereign-grade capitalization pathways for Fund‑III buyouts, add‑ons, and special mandates."
+date: "2025-08-08"
+author: "Roials Capital"
+slug: "architecture-of-hardened-capital"
 ---
 
 Hardened capital is not a metaphor.

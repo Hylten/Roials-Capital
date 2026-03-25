@@ -1,4 +1,9 @@
---- title: "Wealth Mobility Architecture and Borderless Crypto Collateral for Institutional Grade M and A" description: "Institutional briefing on cross jurisdictional wealth mobility, crypto collateral frameworks, and acquisition grade financing architecture for Fund-III plus environments." date: "2026-02-08" author: "Roials Capital (Institutional Briefing)" slug: "wealth-mobility-architecture-crypto-collateral-institutional-ma"
+---
+title: "Wealth Mobility Architecture and Borderless Crypto Collateral for Institutional Grade M and A"
+description: "Institutional briefing on cross jurisdictional wealth mobility, crypto collateral frameworks, and acquisition grade financing architecture for Fund-III plus environments."
+date: "2026-02-08"
+author: "Roials Capital (Institutional Briefing)"
+slug: "wealth-mobility-architecture-crypto-collateral-institutional-ma"
 ---
 
 The structural gap in cross border capital formation is no longer driven by liquidity scarcity.

@@ -1,4 +1,9 @@
---- title: "Liquidity Engineering Against Bitcoin: Institutional Calibration for Family Offices and Fund-III Allocators" description: "Institutional briefing on Institutional Liquidity Paths, Bitcoin as a reserve stabilizer, and strategic capital alignment for UHNWIs, Family Offices, and Fund-III GP teams operating in a tightening global credit regime." date: "2025-11-24" author: "Roials Capital (Institutional Briefing)" slug: "liquidity-engineering-bitcoin-family-offices"
+---
+title: "Liquidity Engineering Against Bitcoin: Institutional Calibration for Family Offices and Fund-III Allocators"
+description: "Institutional briefing on Institutional Liquidity Paths, Bitcoin as a reserve stabilizer, and strategic capital alignment for UHNWIs, Family Offices, and Fund-III GP teams operating in a tightening global credit regime."
+date: "2025-11-24"
+author: "Roials Capital (Institutional Briefing)"
+slug: "liquidity-engineering-bitcoin-family-offices"
 ---
 
 The structural gap in global reserve architecture is no longer a function of commodity scarcity.

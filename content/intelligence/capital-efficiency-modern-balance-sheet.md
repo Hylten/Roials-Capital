@@ -1,4 +1,9 @@
---- title: "Capital Efficiency for the Modern Balance Sheet: Leveraging Core Holdings with Silent Authority" description: "Institutional briefing on capital efficiency, liquidity engineering, and structural balance sheet optimization for Fund-III buyouts, cross-border mandates, and North American energy introductions." date: "2025-10-17" author: "Roials Capital (Institutional Briefing)" slug: "capital-efficiency-modern-balance-sheet"
+---
+title: "Capital Efficiency for the Modern Balance Sheet: Leveraging Core Holdings with Silent Authority"
+description: "Institutional briefing on capital efficiency, liquidity engineering, and structural balance sheet optimization for Fund-III buyouts, cross-border mandates, and North American energy introductions."
+date: "2025-10-17"
+author: "Roials Capital (Institutional Briefing)"
+slug: "capital-efficiency-modern-balance-sheet"
 ---
 
 The capital vacuum in North America’s energy sector is a consequence of regulatory drift, not resource depletion.

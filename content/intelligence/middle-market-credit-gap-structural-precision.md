@@ -1,4 +1,9 @@
---- title: "Navigating the Middle Market Credit Gap with Structural Precision" description: "Institutional briefing on the capital vacuum across middle market credit, structural inefficiencies, and strategic alignment mechanisms for Fund-III allocations, balance sheet optimization, and cross-border acquisition mandates." date: "2025-08-18" author: "Roials Capital (Institutional Briefing)" slug: "middle-market-credit-gap-structural-precision"
+---
+title: "Navigating the Middle Market Credit Gap with Structural Precision"
+description: "Institutional briefing on the capital vacuum across middle market credit, structural inefficiencies, and strategic alignment mechanisms for Fund-III allocations, balance sheet optimization, and cross-border acquisition mandates."
+date: "2025-08-18"
+author: "Roials Capital (Institutional Briefing)"
+slug: "middle-market-credit-gap-structural-precision"
 ---
 
 The capital vacuum in North America’s middle market credit system is not a consequence of borrower deterioration.

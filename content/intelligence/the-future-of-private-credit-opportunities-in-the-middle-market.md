@@ -1,4 +1,9 @@
---- title: "The Future of Private Credit: Opportunities in the Middle Market" description: "An in-depth analysis of why the middle market remains the most attractive segment for private credit investors in the current macroeconomic environment." date: "2025-12-24" author: "Jonas Hyltén" slug: "the-future-of-private-credit-opportunities-in-the-middle-market"
+---
+title: "The Future of Private Credit: Opportunities in the Middle Market"
+description: "An in-depth analysis of why the middle market remains the most attractive segment for private credit investors in the current macroeconomic environment."
+date: "2025-12-24"
+author: "Jonas Hyltén"
+slug: "the-future-of-private-credit-opportunities-in-the-middle-market"
 ---
 
 # The Future of Private Credit: Opportunities in the Middle Market The landscape of institutional investment has fundamentally shifted over the past decade. As traditional banks have retreated from middle-market Capital Structuring due to tightening regulatory frameworks, private credit has stepped in to fill the void, creating a structural shift rather than a cyclical trend.

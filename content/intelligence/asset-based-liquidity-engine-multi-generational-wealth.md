@@ -1,4 +1,9 @@
---- title: "Asset Based Liquidity Engineering as the Structural Engine for Multi Generational Wealth" description: "Institutional analysis on the role of Asset Based Asset-Backed Frameworks in long horizon wealth architecture, balance sheet optimization, and strategic capitalization for Fund-III buyout cycles and energy mandates." date: "2025-09-18" author: "Roials Capital (Institutional Briefing)" slug: "asset-based-liquidity-engine-multi-generational-wealth"
+---
+title: "Asset Based Liquidity Engineering as the Structural Engine for Multi Generational Wealth"
+description: "Institutional analysis on the role of Asset Based Asset-Backed Frameworks in long horizon wealth architecture, balance sheet optimization, and strategic capitalization for Fund-III buyout cycles and energy mandates."
+date: "2025-09-18"
+author: "Roials Capital (Institutional Briefing)"
+slug: "asset-based-liquidity-engine-multi-generational-wealth"
 ---
 
 The capital vacuum in North American energy is not a product of diminishing reserves.

@@ -1,4 +1,9 @@
---- title: "Deep Liquidity Architecture for Fund‑III Mobilization" description: "Institutional blueprint for multi‑jurisdictional capital formation, cross‑border liquidity engineering, and hard‑asset credit structuring for Fund‑III buyout velocity." date: "2026-02-24" author: "Roials Capital | Principal Investigator" slug: "deep-liquidity-architecture-Fund-III-mobilization"
+---
+title: "Deep Liquidity Architecture for Fund‑III Mobilization"
+description: "Institutional blueprint for multi‑jurisdictional capital formation, cross‑border liquidity engineering, and hard‑asset credit structuring for Fund‑III buyout velocity."
+date: "2026-02-24"
+author: "Roials Capital | Principal Investigator"
+slug: "deep-liquidity-architecture-Fund-III-mobilization"
 ---
 
 A deep-liquidity architecture never emerges from tactical capital raising.

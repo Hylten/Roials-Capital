@@ -1,4 +1,9 @@
---- title: "Capital Authority as a Silent Multiplier" description: "Institutional thesis on balance sheet efficiency, collateral orchestration, LTV optimization curves, and Fund-III capital formation mechanics for UHNWIs and private credit LPs." date: "2025-07-13" author: "Jonas Hyltén" slug: "capital-efficiency-silent-authority"
+---
+title: "Capital Authority as a Silent Multiplier"
+description: "Institutional thesis on balance sheet efficiency, collateral orchestration, LTV optimization curves, and Fund-III capital formation mechanics for UHNWIs and private credit LPs."
+date: "2025-07-13"
+author: "Jonas Hyltén"
+slug: "capital-efficiency-silent-authority"
 ---
 
 Structural gaps do not announce themselves.

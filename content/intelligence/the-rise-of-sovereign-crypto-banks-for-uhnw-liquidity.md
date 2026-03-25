@@ -1,4 +1,9 @@
---- title: "The Rise of Sovereign Crypto Banks for UHNW Liquidity" description: "A strategic examination of how sovereign crypto banks redefine liquidity architecture for UHWI and HNWI through private credit and asset based liquidity engineering." date: "2026-02-26" author: "Jonas Hyltén" slug: "the-rise-of-sovereign-crypto-banks-for-uhnw-liquidity"
+---
+title: "The Rise of Sovereign Crypto Banks for UHNW Liquidity"
+description: "A strategic examination of how sovereign crypto banks redefine liquidity architecture for UHWI and HNWI through private credit and asset based liquidity engineering."
+date: "2026-02-26"
+author: "Jonas Hyltén"
+slug: "the-rise-of-sovereign-crypto-banks-for-uhnw-liquidity"
 ---
 
 # The Rise of Sovereign Crypto Banks for UHNW Liquidity The global wealth architecture is entering an era defined by sovereignty, optionality, and jurisdictional neutrality. The emergence of sovereign crypto banks is not a trend.

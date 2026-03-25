@@ -1,4 +1,9 @@
---- title: "The Mechanics of Institutional Capital Migration Across Cycles and Jurisdictions" description: "A clinical examination of allocator behavior, cross-cycle capital migration mechanics, and structural alignment models relevant to private credit, buyout platforms, and North American energy operating mandates." date: "2026-03-03" author: "Roials Capital (Institutional Briefing)" slug: "mechanics-of-institutional-capital-migration"
+---
+title: "The Mechanics of Institutional Capital Migration Across Cycles and Jurisdictions"
+description: "A clinical examination of allocator behavior, cross-cycle capital migration mechanics, and structural alignment models relevant to private credit, buyout platforms, and North American energy operating mandates."
+date: "2026-03-03"
+author: "Roials Capital (Institutional Briefing)"
+slug: "mechanics-of-institutional-capital-migration"
 ---
 
 The capital vacuum shaping North American hard-asset sectors is a direct function of institutional regulatory drift rather than any degradation in underlying asset productivity.

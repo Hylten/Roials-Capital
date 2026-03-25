@@ -1,4 +1,9 @@
---- title: "The Calculus of Risk in Institutional Private Credit" description: "A technical briefing on the structural mechanics, capital inefficiencies, and institutional risk architecture shaping Private Credit across North America and Europe, with emphasis on Fund-III buyout financing, Liquidity Engineering, and strategic mandates in energy." date: "2025-07-17" author: "Roials Capital (Institutional Briefing)" slug: "the-calculus-of-risk-in-institutional-private-credit"
+---
+title: "The Calculus of Risk in Institutional Private Credit"
+description: "A technical briefing on the structural mechanics, capital inefficiencies, and institutional risk architecture shaping Private Credit across North America and Europe, with emphasis on Fund-III buyout financing, Liquidity Engineering, and strategic mandates in energy."
+date: "2025-07-17"
+author: "Roials Capital (Institutional Briefing)"
+slug: "the-calculus-of-risk-in-institutional-private-credit"
 ---
 
 The capital vacuum in North American and European private credit is not a consequence of risk escalation.

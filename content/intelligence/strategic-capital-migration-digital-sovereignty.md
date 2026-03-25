@@ -1,4 +1,9 @@
---- title: "Strategic Capital Migration in the Age of Digital Sovereignty" description: "Institutional brief on jurisdictional arbitrage, digital sovereignty, and capital migration strategies for Fund-III buyouts, liquidity engineering, and special energy mandates." date: "2025-12-28" author: "Roials Capital" slug: "strategic-capital-migration-digital-sovereignty"
+---
+title: "Strategic Capital Migration in the Age of Digital Sovereignty"
+description: "Institutional brief on jurisdictional arbitrage, digital sovereignty, and capital migration strategies for Fund-III buyouts, liquidity engineering, and special energy mandates."
+date: "2025-12-28"
+author: "Roials Capital"
+slug: "strategic-capital-migration-digital-sovereignty"
 ---
 
 Digital sovereignty has replaced geographic borders as the primary determinant of capital velocity.

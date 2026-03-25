@@ -1,4 +1,9 @@
---- title: "Institutional Grade Infrastructure for Asset Hardening within the Current Capital Constraint Regime" description: "A high density institutional analysis on the structural gap in North American energy, the mechanics of asset hardening across private markets, and the strategic role of Roials Capital as an introducer and alignment architect for Fund-III capital formation." date: "2025-08-17" author: "Roials Capital (Institutional Briefing)" slug: "institutional-grade-infrastructure-asset-hardening"
+---
+title: "Institutional Grade Infrastructure for Asset Hardening within the Current Capital Constraint Regime"
+description: "A high density institutional analysis on the structural gap in North American energy, the mechanics of asset hardening across private markets, and the strategic role of Roials Capital as an introducer and alignment architect for Fund-III capital formation."
+date: "2025-08-17"
+author: "Roials Capital (Institutional Briefing)"
+slug: "institutional-grade-infrastructure-asset-hardening"
 ---
 
 The capital vacuum in North America’s energy sector is a consequence of regulatory drift rather than resource depletion.

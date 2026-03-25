@@ -1,4 +1,9 @@
---- title: "Risk Mitigation in Sovereign Asset Structures: Architecting Stability for Institutional Capital" description: "Institutional briefing on macro regime shifts, sovereign asset mechanics, and risk architecture across Fund-III buyouts, liquidity engineering, and North American energy mandates for UHNWIs and institutional allocators." date: "2025-12-31" author: "Roials Capital (Institutional Briefing)" slug: "risk-mitigation-sovereign-asset-structures"
+---
+title: "Risk Mitigation in Sovereign Asset Structures: Architecting Stability for Institutional Capital"
+description: "Institutional briefing on macro regime shifts, sovereign asset mechanics, and risk architecture across Fund-III buyouts, liquidity engineering, and North American energy mandates for UHNWIs and institutional allocators."
+date: "2025-12-31"
+author: "Roials Capital (Institutional Briefing)"
+slug: "risk-mitigation-sovereign-asset-structures"
 ---
 
 The capital vacuum in North America’s strategic asset base is no longer cyclical.

@@ -1,4 +1,9 @@
---- title: "Liquidity Architecture for Fund-III Expansion" description: "Institutional brief on capital-raising mechanics, liquidity engineering, and structural optimization for Fund-III scale-up across buyouts, add-ons, and private credit frameworks." date: "2025-09-28" author: "Roials Capital" slug: "liquidity-architecture-Fund-III-expansion"
+---
+title: "Liquidity Architecture for Fund-III Expansion"
+description: "Institutional brief on capital-raising mechanics, liquidity engineering, and structural optimization for Fund-III scale-up across buyouts, add-ons, and private credit frameworks."
+date: "2025-09-28"
+author: "Roials Capital"
+slug: "liquidity-architecture-Fund-III-expansion"
 ---
 
 Liquidity architecture determines survival long before deal velocity does.

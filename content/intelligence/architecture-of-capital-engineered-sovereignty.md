@@ -1,4 +1,9 @@
---- title: "Architecture of Capital: Engineered Sovereignty" description: "Institutional brief on sovereign-grade capital architecture, Fund-III mobilization, liquidity engineering, and cross‑jurisdictional acquisition structuring for LP/GP mandates." date: "2025-09-15" author: "Roials Capital" slug: "architecture-of-capital-engineered-sovereignty"
+---
+title: "Architecture of Capital: Engineered Sovereignty"
+description: "Institutional brief on sovereign-grade capital architecture, Fund-III mobilization, liquidity engineering, and cross‑jurisdictional acquisition structuring for LP/GP mandates."
+date: "2025-09-15"
+author: "Roials Capital"
+slug: "architecture-of-capital-engineered-sovereignty"
 ---
 
 Sovereignty is engineered, not inherited.

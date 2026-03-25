@@ -1,4 +1,9 @@
---- title: "The Principal Architecture of Collateralized Liquidity" description: "Institutional analysis of liquidity engineering, collateralized flow mechanics, and capital hardening frameworks for Private Credit, Asset-Based Lending, and Fund-III buyout structures." date: "2025-11-15" author: "Jonas Hyltén" slug: "collateralized-liquidity-architecture"
+---
+title: "The Principal Architecture of Collateralized Liquidity"
+description: "Institutional analysis of liquidity engineering, collateralized flow mechanics, and capital hardening frameworks for Private Credit, Asset-Based Lending, and Fund-III buyout structures."
+date: "2025-11-15"
+author: "Jonas Hyltén"
+slug: "collateralized-liquidity-architecture"
 ---
 
 A liquidity system collapses when the collateral stack is misaligned with the cash cycle.

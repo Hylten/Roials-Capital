@@ -1,4 +1,9 @@
---- title: "The Institutional Asset Hardening Playbook: How to Pass a $5B Board Review" description: "An in-depth guide for GPs on transforming asset structures to meet the institutional standards required for Fund-III expansions. Learn the sovereign tactics for capital migration and LP alignment." date: "2025-12-17" author: "Jonas Hyltén" slug: "the-institutional-asset-hardening-playbook-how-to-pass-a-5b-board-review"
+---
+title: "The Institutional Asset Hardening Playbook: How to Pass a $5B Board Review"
+description: "An in-depth guide for GPs on transforming asset structures to meet the institutional standards required for Fund-III expansions. Learn the sovereign tactics for capital migration and LP alignment."
+date: "2025-12-17"
+author: "Jonas Hyltén"
+slug: "the-institutional-asset-hardening-playbook-how-to-pass-a-5b-board-review"
 ---
 
 # The Institutional Asset Hardening Playbook: How to Pass a $5B Board Review High-Barrier CTA: Request an Architectural Audit Ready to lead at the sovereign level

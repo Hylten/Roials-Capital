@@ -1,4 +1,9 @@
---- title: "Strategic Asset Allocation for Long Term Liquidity: The Architecture of Durable Capital" description: "Institutional briefing on long horizon capital construction, liquidity engineering, balance sheet optimization, and the structural mechanics shaping allocator behavior in 2026. Focus on Fund-III buyouts, North American energy, and institutional-grade capital structures." date: "2025-08-17" author: "Roials Capital (Institutional Briefing)" slug: "strategic-asset-allocation-durable-capital-architecture"
+---
+title: "Strategic Asset Allocation for Long Term Liquidity: The Architecture of Durable Capital"
+description: "Institutional briefing on long horizon capital construction, liquidity engineering, balance sheet optimization, and the structural mechanics shaping allocator behavior in 2026. Focus on Fund-III buyouts, North American energy, and institutional-grade capital structures."
+date: "2025-08-17"
+author: "Roials Capital (Institutional Briefing)"
+slug: "strategic-asset-allocation-durable-capital-architecture"
 ---
 
 The capital vacuum in North American energy and mid market private credit is the cumulative result of regulatory inertia, institutional over diversification, and an asset selection framework that has not been recalibrated since

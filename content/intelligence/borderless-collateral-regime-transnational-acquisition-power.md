@@ -1,4 +1,9 @@
---- title: "The Borderless Collateral Regime and the Ascension of Transnational Acquisition Power" description: "Institutional brief on cross‑jurisdictional collateral mobility, Fund-III capital formation dynamics, and the emergence of sovereign-grade acquisition throughput for buyouts, Asset-Based Lending liquidity engineering, and energy-sector special mandates." date: "2025-09-09" author: "Roials Capital" slug: "borderless-collateral-regime-transnational-acquisition-power"
+---
+title: "The Borderless Collateral Regime and the Ascension of Transnational Acquisition Power"
+description: "Institutional brief on cross‑jurisdictional collateral mobility, Fund-III capital formation dynamics, and the emergence of sovereign-grade acquisition throughput for buyouts, Asset-Based Lending liquidity engineering, and energy-sector special mandates."
+date: "2025-09-09"
+author: "Roials Capital"
+slug: "borderless-collateral-regime-transnational-acquisition-power"
 ---
 
 The borderless collateral regime is no longer a theoretical construct.

@@ -1,4 +1,9 @@
---- title: "The Sovereign Crypto Bank Regime" description: "Institutional thesis on sovereign-grade digital balance sheets, liquidity engineering, and the Fund-III capital formation horizon for UHNW allocators." date: "2026-02-10" author: "Jonas Hyltén" slug: "sovereign-crypto-bank-regime"
+---
+title: "The Sovereign Crypto Bank Regime"
+description: "Institutional thesis on sovereign-grade digital balance sheets, liquidity engineering, and the Fund-III capital formation horizon for UHNW allocators."
+date: "2026-02-10"
+author: "Jonas Hyltén"
+slug: "sovereign-crypto-bank-regime"
 ---
 
 A structural gap is widening beneath the feet of global allocators.

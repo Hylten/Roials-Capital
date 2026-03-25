@@ -1,4 +1,9 @@
---- title: "Wealth Mobility Architecture and Borderless Crypto Collateral for Institutional Grade M and A" description: "A technical intelligence brief on sovereign grade wealth mobility systems, crypto collateral integration, and Liquidity Engineering for institutional M and A across private equity markets." date: "2026-03-15" author: "Jonas Hyltén" slug: "wealth-mobility-borderless-crypto-collateral"
+---
+title: "Wealth Mobility Architecture and Borderless Crypto Collateral for Institutional Grade M and A"
+description: "A technical intelligence brief on sovereign grade wealth mobility systems, crypto collateral integration, and Liquidity Engineering for institutional M and A across private equity markets."
+date: "2026-03-15"
+author: "Jonas Hyltén"
+slug: "wealth-mobility-borderless-crypto-collateral"
 ---
 
 [START INTELLIGENCE REPORT]

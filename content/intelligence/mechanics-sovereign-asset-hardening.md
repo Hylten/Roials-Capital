@@ -1,4 +1,9 @@
---- title: "The Mechanics of Sovereign Asset Hardening" description: "Institutional briefing on capital regime transition, structural inefficiencies, and the sovereign mechanics that govern asset hardening across buyouts, liquidity engineering, and North American energy operations." date: "2025-09-24" author: "Roials Capital (Institutional Briefing)" slug: "mechanics-sovereign-asset-hardening"
+---
+title: "The Mechanics of Sovereign Asset Hardening"
+description: "Institutional briefing on capital regime transition, structural inefficiencies, and the sovereign mechanics that govern asset hardening across buyouts, liquidity engineering, and North American energy operations."
+date: "2025-09-24"
+author: "Roials Capital (Institutional Briefing)"
+slug: "mechanics-sovereign-asset-hardening"
 ---
 
 The capital vacuum in North America is not a cyclical dislocation.

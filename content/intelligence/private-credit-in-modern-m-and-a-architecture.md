@@ -1,4 +1,9 @@
---- title: "The Power of Private Credit in Modern M&A Architecture" description: "A technical institutional briefing on how private credit now functions as the primary liquidity engine in global M&A, with emphasis on buyout mechanics, balance sheet optimization, and the capital formation demands of Fund-III environments." date: "2025-09-05" author: "Roials Capital (Institutional Briefing)" slug: "private-credit-in-modern-m-and-a-architecture"
+---
+title: "The Power of Private Credit in Modern M&A Architecture"
+description: "A technical institutional briefing on how private credit now functions as the primary liquidity engine in global M&A, with emphasis on buyout mechanics, balance sheet optimization, and the capital formation demands of Fund-III environments."
+date: "2025-09-05"
+author: "Roials Capital (Institutional Briefing)"
+slug: "private-credit-in-modern-m-and-a-architecture"
 ---
 
 The capital vacuum shaping Western markets is the predictable consequence of regulatory compression, bank de-risking, and the declining risk appetite of traditional lenders.

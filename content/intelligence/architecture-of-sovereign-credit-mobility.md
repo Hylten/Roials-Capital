@@ -1,4 +1,9 @@
---- title: "The Architecture of Sovereign Credit Mobility" description: "Institutional blueprint for Fund-III capital formation, cross-jurisdictional credit mobility, and liquidity engineering across sovereign, energy, and acquisition-driven mandates." date: "2025-09-25" author: "Roials Capital" slug: "architecture-of-sovereign-credit-mobility"
+---
+title: "The Architecture of Sovereign Credit Mobility"
+description: "Institutional blueprint for Fund-III capital formation, cross-jurisdictional credit mobility, and liquidity engineering across sovereign, energy, and acquisition-driven mandates."
+date: "2025-09-25"
+author: "Roials Capital"
+slug: "architecture-of-sovereign-credit-mobility"
 ---
 
 The modern capital stack is no longer static.

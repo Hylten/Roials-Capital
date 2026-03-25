@@ -1,4 +1,9 @@
---- title: "Precision Mechanics Of Transnational Capital Migra" description: "Precision Mechanics Of Transnational Capital Migra" date: "2026-01-13" author: "Jonas Hyltén" slug: "precision-mechanics-of-transnational-capital-migra"
+---
+title: "Precision Mechanics Of Transnational Capital Migra"
+description: "Precision Mechanics Of Transnational Capital Migra"
+date: "2026-01-13"
+author: "Jonas Hyltén"
+slug: "precision-mechanics-of-transnational-capital-migra"
 ---
 
 # Precision Mechanics of Transnational Capital Migration Transnational capital does not drift. It relocates with intention, covenant, and structural discipline.

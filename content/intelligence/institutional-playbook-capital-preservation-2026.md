@@ -1,4 +1,9 @@
---- title: "The Institutional Playbook for Capital Preservation" description: "A principal level intelligence report detailing structural capital preservation mechanics for private equity, UHNW families, and institutional allocators entering the 2026 cycle." date: "2026-03-10" author: "Jonas Hyltén" slug: "institutional-playbook-capital-preservation-2026"
+---
+title: "The Institutional Playbook for Capital Preservation"
+description: "A principal level intelligence report detailing structural capital preservation mechanics for private equity, UHNW families, and institutional allocators entering the 2026 cycle."
+date: "2026-03-10"
+author: "Jonas Hyltén"
+slug: "institutional-playbook-capital-preservation-2026"
 ---
 
 [START INTELLIGENCE REPORT]

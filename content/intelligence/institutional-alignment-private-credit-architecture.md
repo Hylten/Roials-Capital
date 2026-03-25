@@ -1,4 +1,9 @@
---- title: "Institutional Alignment and the Architecture of Private Credit Stewardship" description: "Technical briefing for UHNWIs and institutional LPs on alignment mechanics, LTV structuring, cash-flow governance, and Fund-III capital stewardship." date: "2025-08-08" author: "Jonas Hyltén" slug: "institutional-alignment-private-credit-architecture"
+---
+title: "Institutional Alignment and the Architecture of Private Credit Stewardship"
+description: "Technical briefing for UHNWIs and institutional LPs on alignment mechanics, LTV structuring, cash-flow governance, and Fund-III capital stewardship."
+date: "2025-08-08"
+author: "Jonas Hyltén"
+slug: "institutional-alignment-private-credit-architecture"
 ---
 
 A structural gap defines this cycle: capital velocity has outpaced covenant integrity.

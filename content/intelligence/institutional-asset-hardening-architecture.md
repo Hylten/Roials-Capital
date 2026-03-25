@@ -1,4 +1,9 @@
---- title: "Principal Architecture for Institutional Grade Asset Hardening" description: "Institutional blueprint for capital raising, buyout infrastructure, liquidity engineering, and jurisdictional asset hardening mechanics for Fund-III scale operators." date: "2025-12-24" author: "Roials Capital" slug: "institutional-asset-hardening-architecture"
+---
+title: "Principal Architecture for Institutional Grade Asset Hardening"
+description: "Institutional blueprint for capital raising, buyout infrastructure, liquidity engineering, and jurisdictional asset hardening mechanics for Fund-III scale operators."
+date: "2025-12-24"
+author: "Roials Capital"
+slug: "institutional-asset-hardening-architecture"
 ---
 
 A structural gap always reveals itself first in recovery math.

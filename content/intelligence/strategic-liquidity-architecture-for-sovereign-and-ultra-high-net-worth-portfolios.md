@@ -1,4 +1,9 @@
---- title: "Strategic Liquidity Architecture for Sovereign and Ultra-High Net Worth Portfolios" description: "A high‑level analysis of liquidity structuring using private credit and asset based liquidity engineering solutions for sovereign, HNWI, and UHNW portfolios." date: "2025-09-16" author: "Jonas Hyltén" slug: "strategic-liquidity-architecture-for-sovereign-and-ultra-high-net-worth-portfolios"
+---
+title: "Strategic Liquidity Architecture for Sovereign and Ultra-High Net Worth Portfolios"
+description: "A high‑level analysis of liquidity structuring using private credit and asset based liquidity engineering solutions for sovereign, HNWI, and UHNW portfolios."
+date: "2025-09-16"
+author: "Jonas Hyltén"
+slug: "strategic-liquidity-architecture-for-sovereign-and-ultra-high-net-worth-portfolios"
 ---
 
 # Strategic Liquidity for Sovereign Portfolios Liquidity is not a convenience at the sovereign level. It is a structural requirement.

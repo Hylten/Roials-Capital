@@ -1,4 +1,9 @@
---- title: "Asset‑Based Liquidity Engineering as the Structural Engine of Multi‑Generational Wealth" description: "Institutional brief for LP/GP allocators on how asset‑based Capital Structuring, jurisdictional structuring, and acquisition-grade capital architecture form the backbone of multi-generational wealth creation within Fund‑III buyout ecosystems." date: "2025-08-05" author: "Roials Capital | Principal Investigator" slug: "asset-based-liquidity-engineering-multi-generational-wealth"
+---
+title: "Asset‑Based Liquidity Engineering as the Structural Engine of Multi‑Generational Wealth"
+description: "Institutional brief for LP/GP allocators on how asset‑based Capital Structuring, jurisdictional structuring, and acquisition-grade capital architecture form the backbone of multi-generational wealth creation within Fund‑III buyout ecosystems."
+date: "2025-08-05"
+author: "Roials Capital | Principal Investigator"
+slug: "asset-based-liquidity-engineering-multi-generational-wealth"
 ---
 
 Asset‑based Monetization Architecture operates as the structural engine behind durable dynastic capital.

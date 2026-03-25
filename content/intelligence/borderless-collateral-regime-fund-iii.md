@@ -1,4 +1,9 @@
---- title: "The Borderless Collateral Regime and the Rise of Transnational Acquisition Power" description: "Institutional briefing on crypto collateral mobility, cross-jurisdictional asset hardening, and the capital-raising architecture for Fund-III buyouts within the new M&A liquidity regime." date: "2025-09-01" author: "Roials Capital" slug: "borderless-collateral-regime-Fund-III"
+---
+title: "The Borderless Collateral Regime and the Rise of Transnational Acquisition Power"
+description: "Institutional briefing on crypto collateral mobility, cross-jurisdictional asset hardening, and the capital-raising architecture for Fund-III buyouts within the new M&A liquidity regime."
+date: "2025-09-01"
+author: "Roials Capital"
+slug: "borderless-collateral-regime-Fund-III"
 ---
 
 Structural arbitrage is no longer found in sector specialization.

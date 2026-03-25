@@ -1,4 +1,9 @@
---- title: "Asset-Based Financing as a Strategic Weapon for Modern Private Wealth" description: "Institutional brief on asset-based financing as a capital‑multiplying instrument for private wealth, Fund‑III buyouts, liquidity engineering, and jurisdictional asset hardening." date: "2025-12-30" author: "Roials Capital" slug: "asset-based-financing-strategic-brief"
+---
+title: "Asset-Based Financing as a Strategic Weapon for Modern Private Wealth"
+description: "Institutional brief on asset-based financing as a capital‑multiplying instrument for private wealth, Fund‑III buyouts, liquidity engineering, and jurisdictional asset hardening."
+date: "2025-12-30"
+author: "Roials Capital"
+slug: "asset-based-financing-strategic-brief"
 ---
 
 The modern private wealth cohort is no longer defined by passive asset accumulation.

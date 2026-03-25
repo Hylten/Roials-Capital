@@ -1,4 +1,9 @@
---- title: "Liquidity Engineering Against Bitcoin: The Institutional Gold Standard for Family Offices" description: "A principal-level briefing on Capital Structuring, structured capital, and Fund-III readiness for family offices positioning Bitcoin as a collateralized reserve asset within multi-layered private markets architecture." date: "2025-09-19" author: "Roials Capital" slug: "liquidity-engineering-bitcoin-gold-standard-family-offices"
+---
+title: "Liquidity Engineering Against Bitcoin: The Institutional Gold Standard for Family Offices"
+description: "A principal-level briefing on Capital Structuring, structured capital, and Fund-III readiness for family offices positioning Bitcoin as a collateralized reserve asset within multi-layered private markets architecture."
+date: "2025-09-19"
+author: "Roials Capital"
+slug: "liquidity-engineering-bitcoin-gold-standard-family-offices"
 ---
 
 Bitcoin is now a balance-sheet force multiplier.

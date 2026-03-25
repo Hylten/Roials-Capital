@@ -1,4 +1,9 @@
---- title: "Asset‑Based Liquidity Engineering as a Sovereign Capital Mandate for Fund‑III" description: "Institutional brief on sovereign‑grade liquidity architecture, Asset-Based Lending engineering, and Kapitalanskaffning frameworks optimized for Fund‑III buyouts, add‑ons, and multi‑jurisdictional capital formation." date: "2025-10-13" author: "Roials Capital" slug: "asset-based-liquidity-engineering-sovereign-mandate"
+---
+title: "Asset‑Based Liquidity Engineering as a Sovereign Capital Mandate for Fund‑III"
+description: "Institutional brief on sovereign‑grade liquidity architecture, Asset-Based Lending engineering, and Kapitalanskaffning frameworks optimized for Fund‑III buyouts, add‑ons, and multi‑jurisdictional capital formation."
+date: "2025-10-13"
+author: "Roials Capital"
+slug: "asset-based-liquidity-engineering-sovereign-mandate"
 ---
 
 Asset‑based Strategic Collateralization is no longer an auxiliary credit function.

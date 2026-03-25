@@ -1,4 +1,9 @@
---- title: "Decentralized Private Credit: The Institutional Frontier for Controlled Liquidity" description: "A high-authority analysis of decentralized private credit and asset based liquidity engineering, built for HNWI and UHNW investors seeking institutional liquidity structures." date: "2025-10-21" author: "Jonas Hyltén" slug: "decentralized-private-credit-the-institutional-frontier-for-controlled-liquidity"
+---
+title: "Decentralized Private Credit: The Institutional Frontier for Controlled Liquidity"
+description: "A high-authority analysis of decentralized private credit and asset based liquidity engineering, built for HNWI and UHNW investors seeking institutional liquidity structures."
+date: "2025-10-21"
+author: "Jonas Hyltén"
+slug: "decentralized-private-credit-the-institutional-frontier-for-controlled-liquidity"
 ---
 
 # Decentralized Private Credit: The Institutional Frontier Decentralized private credit is no longer the periphery domain of experimental capital. It has become a structural pillar for a rapidly maturing institutional landscape.

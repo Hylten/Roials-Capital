@@ -1,4 +1,9 @@
---- title: "The New Liquidity Standard for + Holders: Institutional Velocity, Cross-Border Capital Rights, and the Fund-III Liquidity Floor" description: "A principal-level brief on liquidity engineering, institutional capital raising, jurisdictional structuring, and the emergent liquidity floor for + holders entering Fund-III buyout cycles and add-on sweep strategies." date: "2025-09-23" author: "Jonas Roials" slug: "new-liquidity-standard-5m-holders"
+---
+title: "The New Liquidity Standard for + Holders: Institutional Velocity, Cross-Border Capital Rights, and the Fund-III Liquidity Floor"
+description: "A principal-level brief on liquidity engineering, institutional capital raising, jurisdictional structuring, and the emergent liquidity floor for + holders entering Fund-III buyout cycles and add-on sweep strategies."
+date: "2025-09-23"
+author: "Jonas Roials"
+slug: "new-liquidity-standard-5m-holders"
 ---
 
 The new liquidity regime does not ask permission.

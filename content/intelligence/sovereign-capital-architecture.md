@@ -1,4 +1,9 @@
---- title: "The Sovereign Capital Architecture" description: "Institutional framework for multi generational liquidity, capital raising for Fund-III, and the structural engineering of sovereign-grade cash flow systems for UHNWIs and institutional LPs." date: "2026-01-28" author: "Jonas Hyltén" slug: "sovereign-capital-architecture"
+---
+title: "The Sovereign Capital Architecture"
+description: "Institutional framework for multi generational liquidity, capital raising for Fund-III, and the structural engineering of sovereign-grade cash flow systems for UHNWIs and institutional LPs."
+date: "2026-01-28"
+author: "Jonas Hyltén"
+slug: "sovereign-capital-architecture"
 ---
 
 A liquidity system fails long before anyone notices it.

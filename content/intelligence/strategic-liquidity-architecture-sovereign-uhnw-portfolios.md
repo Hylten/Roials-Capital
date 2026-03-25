@@ -1,4 +1,9 @@
---- title: "Strategic Liquidity Architecture for Sovereign and Ultra High Net Worth Portfolios" description: "A technical institutional briefing on capital inefficiencies, liquidity engineering, and structural alignment for Fund-III environments and energy mandates across North America and Europe." date: "2026-03-14" author: "Roials Capital (Institutional Briefing)" slug: "strategic-liquidity-architecture-sovereign-uhnw-portfolios"
+---
+title: "Strategic Liquidity Architecture for Sovereign and Ultra High Net Worth Portfolios"
+description: "A technical institutional briefing on capital inefficiencies, liquidity engineering, and structural alignment for Fund-III environments and energy mandates across North America and Europe."
+date: "2026-03-14"
+author: "Roials Capital (Institutional Briefing)"
+slug: "strategic-liquidity-architecture-sovereign-uhnw-portfolios"
 ---
 
 The capital vacuum in North America's energy sector is a function of regulatory drift and institutional withdrawal rather than any decline in underlying asset quality.

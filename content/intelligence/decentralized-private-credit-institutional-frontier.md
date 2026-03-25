@@ -1,4 +1,9 @@
---- title: "Decentralized Private Credit: The Institutional Frontier for Controlled Liquidity" description: "Institutional blueprint for Fund-III capital formation, decentralized credit structures, and systemic liquidity engineering across buyouts, Asset-Based Lending, and energy mandates." date: "2025-11-15" author: "Roials Capital" slug: "decentralized-private-credit-institutional-frontier"
+---
+title: "Decentralized Private Credit: The Institutional Frontier for Controlled Liquidity"
+description: "Institutional blueprint for Fund-III capital formation, decentralized credit structures, and systemic liquidity engineering across buyouts, Asset-Based Lending, and energy mandates."
+date: "2025-11-15"
+author: "Roials Capital"
+slug: "decentralized-private-credit-institutional-frontier"
 ---
 
 Decentralized private credit has crossed a structural threshold.

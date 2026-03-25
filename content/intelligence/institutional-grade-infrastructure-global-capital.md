@@ -1,4 +1,9 @@
---- title: "Institutional Grade Infrastructure for Global Capital" description: "Institutional-grade architecture for Fund-III capital formation, liquidity engineering, and energy-special mandate deployment across US and EU private markets." date: "2025-11-20" author: "Roials Capital" slug: "institutional-grade-infrastructure-global-capital"
+---
+title: "Institutional Grade Infrastructure for Global Capital"
+description: "Institutional-grade architecture for Fund-III capital formation, liquidity engineering, and energy-special mandate deployment across US and EU private markets."
+date: "2025-11-20"
+author: "Roials Capital"
+slug: "institutional-grade-infrastructure-global-capital"
 ---
 
 The structural gap is clear.

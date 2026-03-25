@@ -1,4 +1,9 @@
---- title: "Sovereign Capital: The Silent Authority in Modern Financing" description: "An institutional analysis of the sovereign capital regime shift, its structural influence on global buyouts, private credit, North American energy, and liquidity engineering. Designed for LPs, GPs, and allocators navigating the post-2020 capital hierarchy." date: "2025-11-08" author: "Roials Capital (Institutional Briefing)" slug: "sovereign-capital-silent-authority-modern-financing"
+---
+title: "Sovereign Capital: The Silent Authority in Modern Financing"
+description: "An institutional analysis of the sovereign capital regime shift, its structural influence on global buyouts, private credit, North American energy, and liquidity engineering. Designed for LPs, GPs, and allocators navigating the post-2020 capital hierarchy."
+date: "2025-11-08"
+author: "Roials Capital (Institutional Briefing)"
+slug: "sovereign-capital-silent-authority-modern-financing"
 ---
 
 The capital vacuum in North America’s middle market is not the result of a shortage of assets.

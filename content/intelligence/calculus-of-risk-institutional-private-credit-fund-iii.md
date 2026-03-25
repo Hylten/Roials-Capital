@@ -1,4 +1,9 @@
---- title: "The Calculus of Risk in Institutional Private Credit for Fund-III" description: "A principal-level framework on risk calculus, capital formation, liquidity engineering, and jurisdictional structuring for institutional LP/GP audiences advancing Fund-III buyouts, add‑ons, and energy mandates." date: "2025-08-27" author: "Roials Capital" slug: "calculus-of-risk-institutional-private-credit-Fund-III"
+---
+title: "The Calculus of Risk in Institutional Private Credit for Fund-III"
+description: "A principal-level framework on risk calculus, capital formation, liquidity engineering, and jurisdictional structuring for institutional LP/GP audiences advancing Fund-III buyouts, add‑ons, and energy mandates."
+date: "2025-08-27"
+author: "Roials Capital"
+slug: "calculus-of-risk-institutional-private-credit-Fund-III"
 ---
 
 Institutional private credit is no longer a yield engine.

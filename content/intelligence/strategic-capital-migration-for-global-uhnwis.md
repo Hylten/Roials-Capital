@@ -1,4 +1,9 @@
---- title: "Strategic Capital Migration for Global UHNWIs" description: "Institutional overview of strategic liquidity architecture, private credit, and asset based liquidity engineering frameworks for global UHNW capital migration." date: "2025-10-30" author: "Jonas Hyltén" slug: "strategic-capital-migration-for-global-uhnwis"
+---
+title: "Strategic Capital Migration for Global UHNWIs"
+description: "Institutional overview of strategic liquidity architecture, private credit, and asset based liquidity engineering frameworks for global UHNW capital migration."
+date: "2025-10-30"
+author: "Jonas Hyltén"
+slug: "strategic-capital-migration-for-global-uhnwis"
 ---
 
 # Strategic Capital Migration for Global UHNWIs Global wealth no longer responds to geography. It responds to structure.

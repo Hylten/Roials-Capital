@@ -1,4 +1,9 @@
---- title: "Sovereign Asset Hardening: The Framework for Growth" description: "A high‑authority exploration of liquidity architecture, private credit, and asset based liquidity engineering for HNWI and UHNW portfolios seeking structural resilience." date: "2025-07-10" author: "Jonas Hyltén" slug: "sovereign-asset-hardening-the-framework-for-growth"
+---
+title: "Sovereign Asset Hardening: The Framework for Growth"
+description: "A high‑authority exploration of liquidity architecture, private credit, and asset based liquidity engineering for HNWI and UHNW portfolios seeking structural resilience."
+date: "2025-07-10"
+author: "Jonas Hyltén"
+slug: "sovereign-asset-hardening-the-framework-for-growth"
 ---
 
 # Sovereign Asset Hardening: The Framework for Growth Sovereign wealth behavior is no longer limited to state actors. It is now the baseline operating logic for individuals who manage private capital at institutional scale.

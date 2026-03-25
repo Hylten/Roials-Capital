@@ -1,4 +1,9 @@
---- title: "Institutional Liquidity Architecture for Real Estate Sovereigns" description: "A high density institutional analysis on liquidity engineering, balance sheet optimization, and capital stack recalibration for real estate sovereigns operating under 2026 macro constraints, with strategic alignment for Fund-III mandates." date: "2026-02-09" author: "Roials Capital (Institutional Briefing)" slug: "institutional-liquidity-architecture-real-estate-sovereigns"
+---
+title: "Institutional Liquidity Architecture for Real Estate Sovereigns"
+description: "A high density institutional analysis on liquidity engineering, balance sheet optimization, and capital stack recalibration for real estate sovereigns operating under 2026 macro constraints, with strategic alignment for Fund-III mandates."
+date: "2026-02-09"
+author: "Roials Capital (Institutional Briefing)"
+slug: "institutional-liquidity-architecture-real-estate-sovereigns"
 ---
 
 The capital vacuum affecting real estate sovereignties in 2026 is a product of liquidity migration and regulatory compression, not asset obsolescence.

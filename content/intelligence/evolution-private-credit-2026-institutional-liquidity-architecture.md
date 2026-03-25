@@ -1,4 +1,9 @@
---- title: "The Evolution of Private Credit in 2026: The New Architecture of Institutional Liquidity" description: "A technical institutional briefing on the 2026 private credit regime shift, structural inefficiencies, capital stack reconfiguration, and the emerging role of liquidity engineering across Fund-III buyouts, Asset-Based Lending frameworks, and cross-border special mandates." date: "2026-02-13" author: "Roials Capital (Institutional Briefing)" slug: "evolution-private-credit-2026-institutional-liquidity-architecture"
+---
+title: "The Evolution of Private Credit in 2026: The New Architecture of Institutional Liquidity"
+description: "A technical institutional briefing on the 2026 private credit regime shift, structural inefficiencies, capital stack reconfiguration, and the emerging role of liquidity engineering across Fund-III buyouts, Asset-Based Lending frameworks, and cross-border special mandates."
+date: "2026-02-13"
+author: "Roials Capital (Institutional Briefing)"
+slug: "evolution-private-credit-2026-institutional-liquidity-architecture"
 ---
 
 The capital vacuum in North America's private credit environment is a consequence of regulatory drift, not a contraction in productive assets.

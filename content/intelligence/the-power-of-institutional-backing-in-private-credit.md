@@ -1,4 +1,9 @@
---- title: "The Power of Institutional Backing in Private Credit" description: "A surgical exploration of institutional liquidity mechanics and asset based liquidity engineering frameworks designed for HNWI and UHNW clients." date: "2025-10-12" author: "Jonas Hyltén" slug: "the-power-of-institutional-backing-in-private-credit"
+---
+title: "The Power of Institutional Backing in Private Credit"
+description: "A surgical exploration of institutional liquidity mechanics and asset based liquidity engineering frameworks designed for HNWI and UHNW clients."
+date: "2025-10-12"
+author: "Jonas Hyltén"
+slug: "the-power-of-institutional-backing-in-private-credit"
 ---
 
 # The Power of Institutional Backing in Private Credit Institutional capital sits at the center of modern private credit. It shapes pricing.

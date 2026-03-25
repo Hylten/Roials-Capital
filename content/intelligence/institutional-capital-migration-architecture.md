@@ -1,4 +1,9 @@
---- title: "The Mechanics of Institutional Capital Migration Across Cycles and Regimes" description: "A technical dissection of cross cycle capital mobility, regime dependent allocation behavior, structural frictions, and the liquidity engineering frameworks required for allocators navigating Fund‑III buyouts, Asset-Based Lending structures, and energy specific mandates in Alberta." date: "2026-02-11" author: "Roials Capital (Institutional Briefing)" slug: "institutional-capital-migration-architecture"
+---
+title: "The Mechanics of Institutional Capital Migration Across Cycles and Regimes"
+description: "A technical dissection of cross cycle capital mobility, regime dependent allocation behavior, structural frictions, and the liquidity engineering frameworks required for allocators navigating Fund‑III buyouts, Asset-Based Lending structures, and energy specific mandates in Alberta."
+date: "2026-02-11"
+author: "Roials Capital (Institutional Briefing)"
+slug: "institutional-capital-migration-architecture"
 ---
 
 The capital vacuum in North America’s energy system is a consequence of regulatory drift and institutional divestment inertia, not resource depletion.
