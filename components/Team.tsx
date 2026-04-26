@@ -22,6 +22,11 @@ const leadershipMembers: TeamMember[] = [
     bio: '30+ years in global derivatives and financial services. Founder of AJM Partners; expert in quantitative asset models. Leads structuring of $100M+ funds for institutional LPs, aligning complex execution with institutional-grade deployment.'
   },
   {
+    name: 'Richard Murbeck',
+    role: 'Senior Advisor (Infrastructure & Emerging Markets)',
+    bio: '25+ years executing infrastructure mandates across EMEA. Founder of Seavus Group (1,000+ staff; exited 2020). Chairman of MALCEL PLC. Bridges global liquidity with founder-led execution across greenfield telecom and energy assets.'
+  },
+  {
     name: 'Jonas Hyltén',
     role: 'Founder & Managing Partner',
     bio: 'Leads capital execution mandates in Private Equity. Bridge between institutional investors and high-performance strategies. Drives institutional-grade fundraising and LP alignment through proprietary execution systems.'
@@ -79,7 +84,7 @@ export const Team: React.FC<TeamProps> = ({ onThesisClick }) => {
           </div>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-x-12 gap-y-16 mb-32">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-x-12 gap-y-16 mb-32">
           {leadershipMembers.map((member, index) => (
             <div key={index} className="group flex flex-col h-full">
               <div className="h-1 w-16 bg-gray-700 group-hover:bg-oldgold transition-colors duration-500 mb-8"></div>
