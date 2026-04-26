@@ -24,7 +24,7 @@ const leadershipMembers: TeamMember[] = [
   {
     name: 'Richard Murbeck',
     role: 'Senior Advisor (Infrastructure & Emerging Markets)',
-    bio: '25+ years executing infrastructure mandates across EMEA. Founder of Seavus Group (1,000+ staff; exited 2020). Chairman of MALCEL PLC. Bridges global liquidity with founder-led execution across greenfield telecom and energy assets.'
+    bio: 'Founder of Eferio. Founded and exited Seavus Group (1,000+ staff) in 2020. Chairman of MALCEL PLC. 25+ years\u2019 infrastructure execution across EMEA. Bridges global liquidity with operator expertise in telecom and energy assets.'
   },
   {
     name: 'Jonas Hyltén',
