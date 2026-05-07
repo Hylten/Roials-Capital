@@ -118,10 +118,16 @@ export const Footer: React.FC<FooterProps> = ({
         {/* Bottom Section */}
         <div className="border-t border-white/5 pt-12">
 
-          {/* Formal Disclaimer */}
+          {/* Regulatory Disclaimer */}
           <div className="mb-12">
+            <p className="font-sans text-[10px] text-gray-500 text-center font-semibold tracking-widest uppercase mb-4">
+              Regulatory Disclaimer
+            </p>
+            <p className="font-sans text-[10px] text-gray-600 text-center leading-relaxed max-w-5xl mx-auto mb-3">
+              The information contained on this website is provided for informational purposes only and does not constitute an offer to sell or a solicitation of an offer to buy any securities. Roials Capital provides introduction and strategic advisory services only. The Company does not provide investment services requiring authorization under the Swedish Securities Markets Act (Sw. lag (2007:528) om värdepappersmarknaden) and does not act as a broker, investment firm, or regulated financial intermediary. Nothing on this website constitutes regulated investment advice within the meaning of Swedish law.
+            </p>
             <p className="font-sans text-[10px] text-gray-600 text-center leading-relaxed max-w-5xl mx-auto">
-              The information contained on this website is for informational purposes only and does not constitute an offer to sell or a solicitation of an offer to buy any securities. The content is not intended to provide investment, tax, or legal advice. Past performance is not indicative of future results, and all investments involve risk, including the potential loss of principal. Intended solely for Wholesale, Professional, and Accredited Investors.
+              Roials Capital does not provide investment advice or personal recommendations. All investment decisions are made solely by investors and/or their independent legal, tax, and financial advisors. Past performance is not indicative of future results. All investments involve risk, including the potential loss of capital. This website is intended solely for professional, institutional, or otherwise eligible investors under applicable law.
             </p>
           </div>
 
