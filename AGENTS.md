@@ -1,0 +1,1 @@
+/Users/jonasthevathason/AI Agents =)/AGENTS.md

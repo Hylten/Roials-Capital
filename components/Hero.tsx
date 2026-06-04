@@ -1,4 +1,5 @@
 import React from 'react';
+import { ASSETS, handleImageFallback } from '../constants/assets';
 
 interface HeroProps {
   onInquireClick: () => void;
@@ -11,8 +12,10 @@ export const Hero: React.FC<HeroProps> = ({ onInquireClick }) => {
       <div className="absolute inset-0 z-0">
         {/* New Mountain Texture Image */}
         <img 
-          src="https://i.postimg.cc/0y2p2G4p/ivo-ivanov-c-F72u29mc-Ao-unsplash.jpg" 
-          alt="Dramatic mountain texture background" 
+          src={ASSETS.mountainBg.local}
+          alt=""
+          aria-hidden="true"
+          onError={(e) => handleImageFallback(e, ASSETS.mountainBg.remote)}
           className="w-full h-full object-cover"
         />
         

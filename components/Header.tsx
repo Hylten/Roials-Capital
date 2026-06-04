@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { ASSETS, handleImageFallback } from '../constants/assets';
 
 interface HeaderProps {
   onHomeClick?: () => void;
@@ -77,8 +78,10 @@ export const Header: React.FC<HeaderProps> = ({
               className="group flex items-center gap-4"
             >
               <img
-                src="https://i.postimg.cc/rFZDjGDT/Lion-King-ROIALS-Chat-GPT-Image-Mar-26-2025-09-42-11-AM-removebg-preview.png"
-                alt="Roials Capital Lion"
+                src={ASSETS.lion.local}
+                alt=""
+                aria-hidden="true"
+                onError={(e) => handleImageFallback(e, ASSETS.lion.remote)}
                 className="h-10 md:h-12 w-auto object-contain opacity-90 group-hover:opacity-100 transition-opacity duration-300"
               />
               <span className="font-display text-base md:text-xl tracking-[0.2em] text-oldgold group-hover:text-white transition-colors duration-500 font-medium">

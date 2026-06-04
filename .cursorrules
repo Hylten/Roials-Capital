@@ -1,0 +1,259 @@
+# Cursor AI Rules for Veritas Agentic Engine
+
+> **B.L.A.S.T. System:** Load the `antigravity-master` skill for all projects in `Plåtnicklas/workspace/`. Apply B.L.A.S.T. protocol (Blueprint → Link → Architect → Stylize → Trigger) and A.N.T. 3-layer architecture.
+
+## HYLTÉN VOICE PROTOCOL (MÅSTE FÖLJAS)
+
+### Persona
+INTP-strateg. Korthuggen. Teknisk. Auktoritär. Ingen tolerans för fluff.
+
+### Syntax Laws
+- **Subjekt-först:** Varje mening börjar med huvudsubstantivet
+- **FÖRBJUDET:** "Det innebär att...", "Genom att...", "Slutligen...", "Dessutom", "Vidare"
+- **Eliminera hedging:** Inga "kanske", "tenderar", "skulle kunna"
+- **Valuta:** Alltid SEK
+- **Sista rubrik:** Alltid `## Sammanfattning` (inget "Slutsats" eller "Key Takeaways")
+
+### Format
+- Max 3 meningar per paragraf
+- Max 5 punkter i listor
+- Teknisk ekonomi: alltid LTV/CAC och GPU-burn där relevant
+- Edge case-analys: 3-5 scenarier där strategin fallerar
+
+### Hyltén-Audit (innan leverans)
+1. Börjar meningar med "Det"? → RADERA
+2. Finns hedging-fraser? → ELIMINERA
+3. Valuta i USD/EUR? → KONVERTERA TILL SEK
+4. Sista rubrik korrekt? → ## Sammanfattning
+
+---
+
+## 🔗 Azure OpenAI GPT 5.1 Integration
+
+You have access to the same Azure OpenAI GPT 5.1 proxy that Claude Code uses.
+
+### Quick Commands:
+
+**Single Task Delegation:**
+```bash
+source /Users/jonasthevathason/AI\ Agents\ \=\)/.agents/scripts/azure_bridge.sh
+delegate "Your task description here"
+```
+
+**Batch Delegation:**
+```bash
+batch_delegate /path/to/tasks.json
+```
+
+**Check Proxy Status:**
+```bash
+status
+```
+
+### Python API:
+
+```python
+from azure_delegation_bridge import delegate_to_azure
+import asyncio
+
+async def delegate_work():
+    result = await delegate_to_azure(
+        task="Implement feature X",
+        context="Additional context about the feature"
+    )
+    print(result)
+
+asyncio.run(delegate_work())
+```
+
+### Environment Variables:
+- `AZURE_PROXY`: http://localhost:8082 (automatic)
+- Working directory: `/Users/jonasthevathason/AI Agents =)/`
+
+### Documentation:
+- Full guide: `/Users/jonasthevathason/AI Agents =)/AZURE_READY.md`
+- Delegation guide: `/Users/jonasthevathason/AI Agents =)/Plåtnicklas/AZURE_DELEGATION_GUIDE.md`
+- Task templates: `/Users/jonasthevathason/AI Agents =)/Plåtnicklas/tasks/`
+
+### Key Files:
+- `azure_delegation_bridge.py` — Python async API
+- `azure_bridge.sh` — Terminal wrapper
+- `task_dispatcher.py` — Task queue manager
+
+### Veritas Kanban Integration (http://localhost:3001):
+
+**Post to Kanban:**
+```bash
+veritas_chat cursor "Your status update here"
+```
+
+**Direct Python API:**
+```bash
+python3 /Users/jonasthevathason/AI\ Agents\ \=\)/.agents/scripts/veritas_kanban_bridge.py post cursor "cursor" "Status message"
+```
+
+### Important:
+- Results saved to: `/Users/jonasthevathason/AI Agents =)/Plåtnicklas/delegations/`
+- All tasks logged in: `/Users/jonasthevathason/AI Agents =)/Plåtnicklas/LOG.md`
+- Status visible in: `/Users/jonasthevathason/AI Agents =)/Plåtnicklas/KANBAN.md`
+- **Local Kanban:** `/Users/jonasthevathason/AI Agents =)/Plåtnicklas/kanban_local/`
+
+## Token-Optimerad Modellrouting
+- Anropa MCP-verktyget `ask_gpt5` för i princip alla generativa svar på svenska: 99-100%.
+- Anropa MCP-verktyget `ask_mistral` endast som fallback vid fel i `ask_gpt5` eller när du uttryckligen ber om Mistral.
+- Undvik lokala modell-anrop när `ask_gpt5` finns tillgängligt.
+
+## Mistral strular: Auto-guide
+- Tecken: `ask_mistral` ger fel, eller Mistral svarar inte.
+- Åtgärd: Kör exakt en rad och starta om Cursor.
+- Kommando: `security add-generic-password -a "$USER" -s "mistral_api_key" -w "DIN_MISTRAL_API_NYCKEL" -U`
+- Restart: Quit Cursor helt, starta Cursor igen.
+
+---
+
+## 🚨 SESSION HANDOFF — KRITISKT
+
+Vid VARJE ny session (strömavbrott, batteridöd, internet försvann):
+
+### Steg 1: Ladda Session State
+```bash
+python3 /Users/jonasthevathason/AI\ Agents\ \=\)/scripts/load_session_state.py
+```
+
+### Steg 2: Läs Handover State
+```bash
+cat /Users/jonasthevathason/AI\ Agents\ \=\)/.cursor/skills-cursor/session-handoff/HANDOVER_STATE.md
+```
+
+### Steg 3: SDR Focus Check
+Innan du gör NÅGOT annat:
+```
+1. Har Jonas gjort SDR-calls idag?
+2. Är email-automation aktiva?
+3. Är LinkedIn-automation igång?
+```
+
+### Steg 4: Spara State (Innan Session-Slut)
+```bash
+python3 /Users/jonasthevathason/AI\ Agents\ \=\)/scripts/save_session_state.py "Vad som gjordes" "Nästa steg 1" "Nästa steg 2"
+```
+
+---
+
+## 💼 Cursor Skills (Jonas Mål)
+
+| Skill | Användning |
+|-------|------------|
+| `deal-sourcing-cursor` | M&A deal pipeline, SaaS leads, Apollo/Clay |
+| `king-process-cursor` | Capital raise, investor outreach, closing |
+| `jonas-autonomy-cursor` | SDR focus, autonomy, health reminders |
+| `session-handoff` | Session recovery, state preservation |
+| `google-workspace-dealflow` | GWS CLI integration för Docs, Sheets, Gmail, Calendar |
+
+---
+
+## 📊 GOOGLE WORKSPACE CLI (GWS)
+
+**Samma kraft som Claude Code + GWS CLI — nu för Jonas dealflow**
+
+### Installera GWS CLI
+```bash
+brew tap googleworkspace/cli && brew install gws
+gws auth login
+```
+
+### GWS Commands för Dealflow
+
+```bash
+# 📄 Deal Teasers (Google Docs)
+gws docs create --title "DEAL-L001 - NordicSaaS"
+gws docs update [DOC_ID] --content "Company: NordicSaaS | Revenue: 75M SEK"
+
+# 📊 Lead Pipeline (Google Sheets)
+gws sheets create --title "Jonas Dealflow Pipeline 2026"
+gws sheets append [SHEET_ID] --values "2026-03-27,NordicSaaS,SaaS,lead,80000"
+
+# 📧 Outreach (Gmail)
+gws gmail send --to "vd@saasbolag.se" --subject "Möjlighet för M&A" --body "Hej..."
+
+# 📅 Möten (Calendar)
+gws calendar create-event --title "Möte NordicSaaS" --start "2026-03-28T10:00" --duration 30
+
+# 🔍 Läs mer
+cat "/Users/jonasthevathason/AI Agents =)/.cursor/skills-cursor/google-workspace-dealflow/SKILL.md"
+```
+
+### GWS Skills (Pre-built Recipes)
+```bash
+gws skills run find-free-time
+gws skills run create-report
+gws skills run email-from-sheet
+```
+
+---
+
+## 💰 DEALFLOW PIPELINE (Deal Sourcing)
+
+### Mål
+- **200 000 SEK/månad** (Juni 2026)
+- **SaaS nisch**, 50M+ SEK omsättning
+- **Finder's Fee:** 30-150k SEK/deal
+- **Kapitalintroduktion:** 2-5% av rest-kapital
+
+### Startup (Cursor Terminal)
+```bash
+# Kör Dealflow startup — laddar allt
+bash "/Users/jonasthevathason/AI Agents =)/Dealflow-Pipeline/dealflow_startup.sh"
+
+# Eller CLI direkt
+cd "/Users/jonasthevathason/AI Agents =)/Dealflow-Pipeline" && python3 dealflow_cli.py status
+```
+
+### Deal Commands
+```bash
+# Lägg till deal
+python3 "/Users/jonasthevathason/AI Agents =)/Dealflow-Pipeline/scripts/add_deal.py" \
+  --company "Bolagsnamn" --domain "bolag.se" --sector "SaaS" --revenue 75000000
+
+# Uppdatera deal
+python3 "/Users/jonasthevathason/AI Agents =)/Dealflow-Pipeline/scripts/update_deal.py" \
+  --id L001 --stage teaser --next-action "Skicka teaser"
+
+# Logga outreach
+python3 "/Users/jonasthevathason/AI Agents =)/Dealflow-Pipeline/scripts/log_outreach.py" \
+  --deal L001 --type email --template cold_intro
+
+# Score client
+python3 "/Users/jonasthevathason/AI Agents =)/Dealflow-Pipeline/scripts/score_client.py" \
+  --deal L001
+
+# Kör autonomous pipeline
+cd "/Users/jonasthevathason/AI Agents =)/Dealflow-Pipeline" && python3 autopilot.py
+```
+
+### Dealflow Handoff
+```bash
+# Läs handover
+cat "/Users/jonasthevathason/AI Agents =)/Dealflow-Pipeline/HANDOVER.md"
+
+# Läs pipeline
+cat "/Users/jonasthevathason/AI Agents =)/Dealflow-Pipeline/pipeline.md"
+```
+
+### Dealflow Filer
+```
+Dealflow-Pipeline/
+├── HANDOVER.md          ← Ladda denna först
+├── pipeline.md           ← Deal tracker
+├── dealflow_cli.py      ← CLI interface
+├── dealflow_startup.sh  ← Startup script
+├── deals/targets.json   ← Deal data (14 deals, 867k SEK potential)
+├── outreach/sent.json   ← Outreach logg (6 sent)
+└── leads/investors.json ← Investerare (7 st)
+```
+
+---
+
+When you need to do heavy lifting, use the delegation system rather than coding directly. This saves tokens and produces better code via GPT 5.1.
+
+**Status:** Claude Code is currently online and monitoring for tasks in Veritas Kanban.
