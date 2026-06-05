@@ -6,45 +6,75 @@ function parseFrontmatter(raw: string) {
   if (!match) return { data: {} as Record<string, string>, content: raw };
 
   const frontmatter = match[1];
-  const content = match[2];
+  const content = match[2].trim();
   const data: Record<string, string> = {};
 
-  // Standard YAML-style key parsing (handles multiline)
+  // Parse YAML frontmatter line by line, handling block scalars (>-, |, etc.)
   const lines = frontmatter.split(/\n/);
-  lines.forEach(line => {
-    const colonIdx = line.indexOf(':');
-    if (colonIdx !== -1) {
-      const key = line.slice(0, colonIdx).trim();
-      let value = line.slice(colonIdx + 1).trim();
-      // Only set if not set yet, or if this looks like a cleaner line-based set
-      if (key && !data[key]) {
-        if ((value.startsWith('"') && value.endsWith('"')) || (value.startsWith("'") && value.endsWith("'"))) {
-          value = value.slice(1, -1);
-        }
-        data[key] = value;
-      }
-    }
-  });
+  let currentKey: string | null = null;
+  let currentIsBlock = false;
 
-  // Fallback / Enhanced parsing for single-line or mashed keys
-  // This regex matches keys that might contain hyphens/underscores and values that are quoted OR unquoted
-  const pairs = frontmatter.match(/([\w-]+):\s*(?:"([^"]*)"|'([^']*)'|([^ \n,]+))/g);
-  if (pairs) {
-    pairs.forEach(pair => {
-      const cIdx = pair.indexOf(':');
-      const k = pair.slice(0, cIdx).trim();
-      let v = pair.slice(cIdx + 1).trim();
-      if ((v.startsWith('"') && v.endsWith('"')) || (v.startsWith("'") && v.endsWith("'"))) {
-        v = v.slice(1, -1);
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i];
+    const colonIdx = line.indexOf(':');
+
+    if (colonIdx !== -1 && !line.startsWith(' ') && !line.startsWith('\t')) {
+      // New key-value pair
+      const key = line.slice(0, colonIdx).trim();
+      let rawVal = line.slice(colonIdx + 1).trim();
+
+      // Detect YAML block scalar
+      if (rawVal === '>-' || rawVal === '|' || rawVal === '>' || rawVal === '|-' || rawVal === '>-') {
+        currentKey = key;
+        currentIsBlock = true;
+        data[key] = '';
+        continue;
       }
-      // If the line-based parser caught a "leaking" line (multiple keys on one line), 
-      // the regex-based one here will provide much cleaner values.
-      // So we prioritize regex matches for common keys.
-      if (k) data[k] = v;
-    });
+
+      // Strip surrounding quotes
+      if ((rawVal.startsWith('"') && rawVal.endsWith('"')) || (rawVal.startsWith("'") && rawVal.endsWith("'"))) {
+        rawVal = rawVal.slice(1, -1);
+      }
+
+      if (key) {
+        data[key] = rawVal;
+        currentKey = key;
+        currentIsBlock = false;
+      }
+    } else if (currentKey && currentIsBlock && line.trim()) {
+      // Continuation of a YAML block scalar
+      const separator = data[currentKey] ? ' ' : '';
+      data[currentKey] += separator + line.trim();
+    } else if (currentKey && !currentIsBlock && line.trim()) {
+      // Continuation of a multi-line scalar with indentation (compact YAML)
+      const separator = data[currentKey] ? ' ' : '';
+      data[currentKey] += separator + line.trim();
+    } else {
+      currentKey = null;
+      currentIsBlock = false;
+    }
   }
-  
+
   return { data, content };
+}
+
+// Extract a clean excerpt from content when description is missing/broken
+function extractExcerpt(content: string, maxLength = 120): string {
+  // Strip markdown heading markers
+  let text = content.replace(/^#+\s*/gm, '');
+  // Strip YAML frontmatter
+  text = text.replace(/^---[\s\S]*?---\n*/m, '');
+  // Strip bold/italic markers
+  text = text.replace(/\*\*/g, '').replace(/\*/g, '');
+  // Strip markdown links (keep text)
+  text = text.replace(/\[([^\]]+)\]\([^)]+\)/g, '$1');
+  // Strip list markers
+  text = text.replace(/^[-*+]\s+/gm, '');
+  text = text.replace(/^\d+\.\s+/gm, '');
+  // Collapse whitespace
+  text = text.replace(/\s+/g, ' ').trim();
+  if (text.length <= maxLength) return text;
+  return text.substring(0, maxLength).replace(/\s+\S*$/, '') + '...';
 }
 
 // Helper to parse the raw markdown files imported by Vite
@@ -58,7 +88,9 @@ const getPosts = () => {
     return {
       slug: data.slug || filepath.split('/').pop()?.replace('.md', ''),
       title: data.title || 'Untitled',
-      description: data.description || '',
+      description: (data.description && data.description !== '>-' && data.description !== '|' && data.description.length > 3)
+        ? data.description
+        : extractExcerpt(rawMarkdown),
       date: data.date || '',
       author: data.author || 'Roials Capital',
     };

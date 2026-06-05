@@ -45,24 +45,54 @@ function preprocessMarkdown(markdown: string): string {
 
 // Browser-safe frontmatter parser (no gray-matter / no Buffer needed)
 function parseFrontmatter(raw: string) {
-  const parts = raw.split(/---/);
-  if (parts.length < 3) return { data: {} as Record<string, string>, content: raw };
-  
-  const frontmatter = parts[1];
-  const content = parts.slice(2).join('---').trim();
+  const match = raw.match(/^\s*---\s*([\s\S]*?)\s*---\s*([\s\S]*)$/);
+  if (!match) return { data: {} as Record<string, string>, content: raw };
+
+  const frontmatter = match[1];
+  const content = match[2].trim();
   const data: Record<string, string> = {};
 
-  // Robust regex to extract metadata keys and values (handles one-line and multi-line)
-  const regex = /([\w-]+):\s*(?:"([^"]*)"|'([^']*)'|([^ \n\r]+))/g;
-  let match;
-  while ((match = regex.exec(frontmatter)) !== null) {
-    const key = match[1];
-    const value = match[2] || match[3] || match[4];
-    if (key && !data[key]) {
-      data[key] = value;
+  // Parse YAML frontmatter line by line, handling block scalars (>-, |, etc.)
+  const lines = frontmatter.split(/\n/);
+  let currentKey: string | null = null;
+  let currentIsBlock = false;
+
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i];
+    const colonIdx = line.indexOf(':');
+
+    if (colonIdx !== -1 && !line.startsWith(' ') && !line.startsWith('\t')) {
+      const key = line.slice(0, colonIdx).trim();
+      let rawVal = line.slice(colonIdx + 1).trim();
+
+      if (rawVal === '>-' || rawVal === '|' || rawVal === '>' || rawVal === '|-' || rawVal === '>-') {
+        currentKey = key;
+        currentIsBlock = true;
+        data[key] = '';
+        continue;
+      }
+
+      if ((rawVal.startsWith('"') && rawVal.endsWith('"')) || (rawVal.startsWith("'") && rawVal.endsWith("'"))) {
+        rawVal = rawVal.slice(1, -1);
+      }
+
+      if (key) {
+        data[key] = rawVal;
+        currentKey = key;
+        currentIsBlock = false;
+      }
+    } else if (currentKey && currentIsBlock && line.trim()) {
+      const separator = data[currentKey] ? ' ' : '';
+      data[currentKey] += separator + line.trim();
+    } else if (currentKey && !currentIsBlock && line.trim()) {
+      const separator = data[currentKey] ? ' ' : '';
+      data[currentKey] += separator + line.trim();
+    } else {
+      currentKey = null;
+      currentIsBlock = false;
     }
   }
-  
+
   return { data, content };
 }
 
@@ -227,7 +257,7 @@ export const IntelligenceArticle: React.FC<IntelligenceArticleProps> = ({ slug }
 
             <style>{`
                 .article-content { line-height: 2.4; -webkit-font-smoothing: antialiased; }
-                .article-content p { margin-bottom: 4.5rem; }
+                .article-content p { margin-bottom: 2.5rem; }
                 .article-content h2 { font-family: 'Cormorant Garamond', serif; font-size: 2.6rem; margin-top: 6rem; margin-bottom: 3rem; color: #fff; line-height: 1.2; font-weight: 300; }
                 .article-content h3 { font-family: 'Cormorant Garamond', serif; font-size: 1.8rem; margin-top: 4.5rem; margin-bottom: 2.5rem; color: #fff; font-weight: 400; }
                 .article-content ul, .article-content ol { margin-bottom: 3.5rem; padding-left: 2rem; }
