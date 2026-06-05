@@ -21,6 +21,25 @@ function preprocessMarkdown(markdown: string): string {
   text = text.replace(/^Access is restricted to approved mandates.*$/gm, '');
   text = text.replace(/^Minimum target size:.*\$5M\+.*$/gm, '');
 
+  // Fix ALL-CAPS pseudo-headings merged with body text
+  text = text.replace(/^([A-Z][A-Z\s:']{7,70})\s+([A-Z][a-z].+)$/gm, (_, heading, body) => {
+    const h = heading.trim();
+    const letters = h.replace(/[^A-Za-z]/g, '');
+    const upperCount = letters.split('').filter(c => c >= 'A' && c <= 'Z').length;
+    if (upperCount / letters.length >= 0.65 && h.split(/\s+/).length >= 2) {
+      const titleCased = h.toLowerCase().split(/\s+/).map((w: string, i: number, a: string[]) => {
+        const keepLower = ['the', 'of', 'in', 'and', 'or', 'at', 'to', 'for', 'with', 'by', 'a', 'an'];
+        if (i > 0 && keepLower.includes(w) && a[i - 1] !== ':') return w;
+        return w.charAt(0).toUpperCase() + w.slice(1);
+      }).join(' ').replace(/ : /g, ': ');
+      return `## ${titleCased}\n\n${body}`;
+    }
+    return _;
+  });
+
+  // Fix numbered lists with blank lines
+  text = text.replace(/^(\d+)\.\s*\n\n+/gm, '$1. ');
+
   return text;
 }
 

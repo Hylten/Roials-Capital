@@ -7,6 +7,21 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const CONTENT_DIR = path.resolve(__dirname, '..', 'content', 'intelligence');
 
+function titleCase(str) {
+  const keepLower = ['the', 'of', 'in', 'and', 'or', 'at', 'to', 'for', 'with', 'by', 'a', 'an'];
+  const keepUpper = ['II', 'III', 'IV', 'EU', 'UK', 'US', 'NA', 'M&A'];
+  const words = str.trim().split(/\s+/);
+  return words
+    .map((word, i, arr) => {
+      const w = word.toLowerCase();
+      if (keepUpper.includes(word.replace(/[^A-Za-z]/g, ''))) return word;
+      if (i > 0 && keepLower.includes(w) && arr[i - 1] !== ':') return w;
+      return w.charAt(0).toUpperCase() + w.slice(1);
+    })
+    .join(' ')
+    .replace(/ : /g, ': ');
+}
+
 function fixBrokenWords(text) {
   return text
     .replace(/INTRODUCTIO\n\nN/g, 'INTRODUCTION\n\n')
@@ -17,6 +32,87 @@ function fixBrokenWords(text) {
     .replace(/^(# .+?) INTRODUCTION\s*$/m, '$1\n\nINTRODUCTION')
     .replace(/### (Phase|Step) I:\s*s\s+/g, '### $1 I is ')
     .replace(/:\s*s\s+(the|integration|extraction|typically|a\b)/g, ' is $1');
+}
+
+function fixMergedHeadings(text) {
+  const lines = text.split('\n');
+  return lines.map(line => {
+    if (/^#/.test(line) || !line.trim()) return line;
+
+    // Case 1: Standalone ALL-CAPS heading (no body text on same line)
+    if (/^[A-Z][A-Z\s:']{4,60}$/.test(line.trim())) {
+      const heading = line.trim();
+      const letters = heading.replace(/[^A-Za-z]/g, '');
+      const upperCount = letters.split('').filter(c => c >= 'A' && c <= 'Z').length;
+      if (upperCount / letters.length >= 0.65 && heading.split(/\s+/).filter(w => w.length > 0).length >= 2) {
+        return `## ${titleCase(heading)}`;
+      }
+      return line;
+    }
+
+    // Case 2: ALL-CAPS heading + body text on same line
+    const match = line.match(/^([A-Z][A-Z\s:']{7,70})\s+([A-Z][a-z].*)$/);
+    if (match) {
+      let [, heading, body] = match;
+      heading = heading.trim();
+      const letters = heading.replace(/[^A-Za-z]/g, '');
+      const upperCount = letters.split('').filter(c => c >= 'A' && c <= 'Z').length;
+      if (upperCount / letters.length >= 0.65 && heading.split(/\s+/).filter(w => w.length > 0).length >= 2) {
+        return `## ${titleCase(heading)}\n\n${body}`;
+      }
+    }
+
+    return line;
+  }).join('\n');
+}
+
+function fixNumberedLists(text) {
+  return text.replace(/^(\d+)\.\s*\n\n+/gm, '$1. ');
+}
+
+function mergeStaccato(text) {
+  const blocks = text.split(/\n\n+/);
+  const result = [];
+  let buffer = [];
+
+  function flush() {
+    if (buffer.length > 0) {
+      result.push(buffer.join(' '));
+      buffer = [];
+    }
+  }
+
+  for (const block of blocks) {
+    const trimmed = block.trim();
+    if (!trimmed) {
+      flush();
+      result.push('');
+      continue;
+    }
+
+    const firstLine = trimmed.split('\n')[0];
+    const isStructural = /^#/.test(firstLine) || /^[-*]\s/.test(firstLine) || /^\d+[.)]/.test(firstLine) || /^```/.test(firstLine) || /^>/.test(firstLine) || /^[-*_]{3,}\s*$/.test(firstLine);
+
+    if (isStructural) {
+      flush();
+      result.push(block);
+      continue;
+    }
+
+    const sentenceEnds = trimmed.match(/[.!?]+/g);
+    const sentenceCount = sentenceEnds ? sentenceEnds.length : 0;
+    const wordCount = trimmed.split(/\s+/).length;
+
+    if (sentenceCount <= 1 && wordCount <= 50) {
+      buffer.push(trimmed);
+    } else {
+      flush();
+      result.push(block);
+    }
+  }
+
+  flush();
+  return result.join('\n\n');
 }
 
 function removeAiJunk(text) {
@@ -93,10 +189,13 @@ function fixContent(body) {
   let text = body;
 
   text = fixBrokenWords(text);
+  text = fixNumberedLists(text);
+  text = fixMergedHeadings(text);
   text = removeAiJunk(text);
   text = removeConclusion(text);
   text = removeStrayIntroLine(text);
   text = fixFakeBulletLists(text);
+  text = mergeStaccato(text);
 
   text = text
     .replace(/\n{4,}/g, '\n\n\n')

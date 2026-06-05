@@ -10,8 +10,5 @@ slug: the-institutional-asset-hardening-playbook-how-to-pass-a-5b-board-review
 ---
 # The Institutional Asset Hardening Playbook: How to Pass a $5B Board Review High-Barrier CTA: Request an Architectural Audit Ready to lead at the sovereign level
 
-?
-
-Request a confidential **Architectural Audit for Fund-III Migration**-because standard is not enough when the stakes are elite.
-
+? Request a confidential **Architectural Audit for Fund-III Migration**-because standard is not enough when the stakes are elite.
 
