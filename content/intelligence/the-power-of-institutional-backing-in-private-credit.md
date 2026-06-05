@@ -21,7 +21,7 @@ On the other, institutional liquidity with rule based capital flow and determini
 
 - Non correlated liquidity sources
 
-- balance sheet optimization environments that remain operational in volatile markets This stability is not theoretical.
+- Balance sheet optimization environments that remain operational in volatile markets This stability is not theoretical.
 
 It is structural. It is a function of capital lineage and risk governance. When Strategic Collateralization is supported by institutional balance sheets, the credit provider operates with a different posture. Decisions are governed by predefined rules, not subjective appetite. Execution becomes surgical. Terms become standardized across asset classes. Liquidity becomes deliverable rather than conditional. This is the architecture that Roials Capital mirrors and deploys.
 

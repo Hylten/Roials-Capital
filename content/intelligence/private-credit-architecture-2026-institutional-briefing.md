@@ -45,11 +45,11 @@ LTV curves have shifted due to more conservative collateral recognition. In tang
 
 In 2026, asset hardening operates as a principal protective measure. Collateral packages increasingly integrate:
 
-- multi asset cross collateralisation
+- Multi asset cross collateralisation
 
-- covenant based performance triggers
+- Covenant based performance triggers
 
-- real time reporting protocols
+- Real time reporting protocols
 
 -
 
@@ -81,13 +81,13 @@ The dominant requirement for private equity GPs in 2026 is structured capital ag
 
 For operating companies and PE backed platforms, liquidity engineering now serves as the stabilising core that enables:
 
-- acquisition reliability
+- Acquisition reliability
 
-- covenant compliance
+- Covenant compliance
 
-- optionality for operational resets
+- Optionality for operational resets
 
-- acceleration of strategic add ons Roials Capital analyses collateral integrity, operational variability, and working capital elasticity to identify lenders whose structural preferences align with the company profile.
+- Acceleration of strategic add ons Roials Capital analyses collateral integrity, operational variability, and working capital elasticity to identify lenders whose structural preferences align with the company profile.
 
 3. Special mandates.
 

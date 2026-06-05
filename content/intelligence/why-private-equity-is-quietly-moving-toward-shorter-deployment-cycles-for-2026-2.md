@@ -5,7 +5,7 @@ description: >-
   multi-vintage stacking pressure intensifies.
 date: '2025-06-27'
 author: Roials Capital
-slug: why-pe-shorter-deployment-cycles-2026
+slug: why-private-equity-is-quietly-moving-toward-shorter-deployment-cycles-for-2026-2
 ---
 ## The Structural Truth
 

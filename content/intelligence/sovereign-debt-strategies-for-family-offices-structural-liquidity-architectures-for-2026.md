@@ -7,8 +7,7 @@ description: >-
   asset based liquidity engineering frameworks for HNWI and UHNW family offices.
 date: '2025-12-14'
 author: Jonas Hyltén
-slug: >-
-  sovereign-debt-strategies-for-family-offices-structural-liquidity-architectures-for-2026
+slug: sovereign-debt-strategies-for-family-offices-structural-liquidity-architectures-for-2026
 ---
 # Sovereign Debt Strategies for Family Offices Family offices manage capital across generations. They balance preservation with controlled aggression.
 
@@ -142,7 +141,7 @@ The New Era of Sovereign Strategy for Private Families The environment has chang
 
 Monetary regimes are more reactive. Emerging markets play a larger role in global liquidity supply. Family offices must adapt. Static models no longer hold. The sovereign
 
-# Layer M ust be dynamic, data driven, and integrated into collateral frameworks.
+## Layer M ust be dynamic, data driven, and integrated into collateral frameworks.
 
 Roials Capital designs Institutional Liquidity Paths solutions with this reality in focus. Our work is to give structure to uncertainty. To create liquidity without fragility. To integrate sovereign logic into private capital architecture.
 

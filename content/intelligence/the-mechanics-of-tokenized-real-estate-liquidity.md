@@ -60,7 +60,7 @@ The Institutional Threshold Effect HNWI and UHNW individuals operate at a scale 
 
 This is why our Strategic Collateralization thresholds matter. Two million minimum for crypto Institutional Liquidity Paths. Five million minimum for public share Strategic Collateralization. These thresholds are not arbitrary. They eliminate noise. They position liquidity mechanics inside a domain where capital structure, not capital scarcity, defines the conversation. In tokenized real estate, the threshold effect creates a clearer collateral spectrum. Large tokenized positions behave differently, because they are handled differently. They are underwritten at scale. They are monitored for structural integrity, not retail volatility. They qualify for multi
 
-# Layer LI: quidity facilities with fewer downstream constraints. This is the liquidity environment institutional capital expects.
+## Layer LI: quidity facilities with fewer downstream constraints. This is the liquidity environment institutional capital expects.
 
 It is also the environment Roials Capital maintains.
 

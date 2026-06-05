@@ -7,7 +7,7 @@ description: >-
   ESG-optional with structured reporting frameworks.
 date: '2026-02-02'
 author: Roials Capital
-slug: why-gps-launching-esg-optional-funds
+slug: why-gps-are-increasingly-building-esg-optional-rather-than-esg-mandatory-funds
 ---
 # Why GPs Are Increasingly Launching ESG‑Optional Rather Than ESG‑Mandatory Funds General Partners across US, EU, and GCC markets are shifting away from ESG‑mandatory fund structures for three primary reasons:
 
@@ -43,13 +43,13 @@ A mandatory ESG fund imposes a regulatory regime that may become more expensive 
 
 * Mandatory ESG screens restrict the ability to pursue:
 
-- industrial turnarounds, • energy transition bridge assets,
-- brown‑to‑green upgrades, or
-- non‑compliant add‑ons that can be remediated.
+- Industrial turnarounds, • energy transition bridge assets,
+- Brown‑to‑green upgrades, or
+- Non‑compliant add‑ons that can be remediated.
 
 Optional frameworks allow the GP to execute operational value creation without disqualifying deals prematurely. - - -
 
-# Institutional Capital View (Fund-III+) LPs continuing to back emerging and established managers increasingly differentiate between **ESG as a reporting discipline
+## Institutional Capital View (Fund-III+) LPs continuing to back emerging and established managers increasingly differentiate between **ESG as a reporting discipline
 
 *
 
@@ -67,7 +67,7 @@ Mandatory rules suppress them.” As a result, Fund‑III and Fund‑IV launches
 
 - - -
 
-# Implications for Buyouts and Add‑Ons For platform builders, an ESG‑optional fund creates flexibility in three areas:
+## Implications for Buyouts and Add‑Ons For platform builders, an ESG‑optional fund creates flexibility in three areas:
 
 - Ability to buy non‑compliant assets and convert them during the holding period.
 
@@ -77,19 +77,19 @@ Mandatory rules suppress them.” As a result, Fund‑III and Fund‑IV launches
 
 This improves capital formation and increases the velocity of deployment, particularly in mid‑market industrials, chemicals, materials, and energy services. - - -
 
-# Asset‑Based Lending Note (General, No Persona Rules) In private credit markets, ESG‑mandatory requirements shrink the eligible borrower universe
+## Asset‑Based Lending Note (General, No Persona Rules) In private credit markets, ESG‑mandatory requirements shrink the eligible borrower universe
 
-- especially in manufacturing, logistics, metals, and energy‑adjacent categories.
+- Especially in manufacturing, logistics, metals, and energy‑adjacent categories.
 
 An **ESG‑optional approach *
 
 * broadens:
 
-- available collateral pools,
+- Available collateral pools,
 
-- usable jurisdictions,
+- Usable jurisdictions,
 
-- turnaround cases where operational improvements unlock value.
+- Turnaround cases where operational improvements unlock value.
 
 If you would like, I can also prepare a clean section on **when ABL structures materially benefit buyout funds *
 
@@ -97,7 +97,7 @@ If you would like, I can also prepare a clean section on **when ABL structures m
 
 - - -
 
-# Special Mandates (Energy & MiFID II Deals) An ESG‑optional structure is increasingly preferred by allocators deploying into:
+## Special Mandates (Energy & MiFID II Deals) An ESG‑optional structure is increasingly preferred by allocators deploying into:
 
 - North American energy and infrastructure transitions ($50M.$250M tickets),
 
@@ -105,19 +105,19 @@ If you would like, I can also prepare a clean section on **when ABL structures m
 
 Reason: It avoids disqualifying assets where transformation
 
-- not compliance
+- Not compliance
 
-- is the value driver.
+- Is the value driver.
 
 - - -
 
-# If you want a full publish‑ready article I can create:
+## If you want a full publish‑ready article I can create:
 
-- a long‑form research note,
+- A long‑form research note,
 
-- a partner memo, or
+- A partner memo, or
 
-- an institutional LP brief.
+- An institutional LP brief.
 
 Just tell me:
 
@@ -145,15 +145,15 @@ Just tell me:
 
 - If your aim is a **confidential capital audit**, tell me what you want assessed:
 
-- your current fund structure,
+- Your current fund structure,
 
 - LP pipeline,
 
 - GP positioning,
 
-- deal pipeline readiness,
+- Deal pipeline readiness,
 
-- or capital‑raising strategy.
+- Or capital‑raising strategy.
 
 I can draft the audit immediately.
 

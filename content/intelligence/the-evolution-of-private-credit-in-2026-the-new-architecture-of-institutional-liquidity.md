@@ -8,8 +8,7 @@ description: >-
   through Asset-Based Lending structures.
 date: '2025-06-25'
 author: Jonas Hyltén
-slug: >-
-  the-evolution-of-private-credit-in-2026-the-new-architecture-of-institutional-liquidity
+slug: the-evolution-of-private-credit-in-2026-the-new-architecture-of-institutional-liquidity
 ---
 # The Evolution of Private Credit in 2026 Private credit in 2026 is no longer a peripheral asset class. It has become a central liquidity engine for investors who operate in the upper layers of global wealth.
 

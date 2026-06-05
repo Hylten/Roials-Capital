@@ -14,13 +14,13 @@ It is structural authority over liquidity flows.
 
 It is a structural operating code. It represents:
 
-- disciplined work
+- Disciplined work
 
-- stewardship over resources
+- Stewardship over resources
 
-- quiet mastery
+- Quiet mastery
 
-- duty-driven execution Sovereign mobility built on Gnosjö discipline becomes unshakeable.
+- Duty-driven execution Sovereign mobility built on Gnosjö discipline becomes unshakeable.
 
 It is humble in presentation. It is absolute in reliability. It is monastic in focus. This posture is recognized instantly by institutional evaluators. It signals longevity, not speculation.
 
@@ -29,13 +29,13 @@ Families and institutions that stand on this spine carry an authority that yield
 
 Sovereign structures consolidate. As fragmentation intensifies:
 
-- volatility increases
+- Volatility increases
 
-- liquidity dries
+- Liquidity dries
 
-- risk capital withdraws
+- Risk capital withdraws
 
-- short-term players vanish But hardened collateral survives.
+- Short-term players vanish But hardened collateral survives.
 
 Disciplined governance survives. Sovereign mobility accelerates. This is the paradox. Tight markets reward those who are structurally prepared. Loose markets reward those who are merely present.
 
@@ -49,13 +49,13 @@ Structural Control Entity architecture that establishes clear dominion. Custodia
 
 Liquidity without identity decays. Identity without liquidity stagnates. Covenant stewardship unites the two. This creates dynastic continuity through:
 
-- strict governance
+- Strict governance
 
-- moral clarity
+- Moral clarity
 
-- disciplined cash-flow routing
+- Disciplined cash-flow routing
 
-- principled capital allocation The architecture ensures that credit mobility never violates THE MANDATE
+- Principled capital allocation The architecture ensures that credit mobility never violates THE MANDATE
 
 . THE MANDAT E
 
@@ -64,13 +64,13 @@ guides everything.
 
 They are protected by their clarity and their discipline. The quiet advantage is created when a family or institution can:
 
-- deploy 5M to 50M liquidity on short notice
+- Deploy 5M to 50M liquidity on short notice
 
-- maintain covenant compliance effortlessly
+- Maintain covenant compliance effortlessly
 
-- reposition collateral without re-underwriting
+- Reposition collateral without re-underwriting
 
-- respond to macro shifts before the market reacts This advantage compounds over time.
+- Respond to macro shifts before the market reacts This advantage compounds over time.
 
 Quiet.
 

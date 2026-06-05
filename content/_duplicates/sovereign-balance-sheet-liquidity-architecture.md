@@ -44,13 +44,13 @@ A functional waterfall has three rules.
 
 Recovery factors must be designed pre-acquisition, not post-default. A sovereign-grade recovery factor is built on:
 
-- real-asset floor values
+- Real-asset floor values
 
-- forced-sale discount modeling
+- Forced-sale discount modeling
 
-- multi-jurisdictional enforcement integrity
+- Multi-jurisdictional enforcement integrity
 
-- extraction timelines under
+- Extraction timelines under
 
 120 days Recovery is not an event. It is a precondition.
 
@@ -74,17 +74,17 @@ The sovereign balance sheet becomes operational when the GP adopts a STRATEGIC M
 
 They invest in architecture. The GP must present itself as an allocator of covenantal resources. Not a seeker of capital but a governor of it. LPs respond when the GP shows evidence of:
 
-- controllable operational cycles
+- Controllable operational cycles
 
-- predictable collateral values
+- Predictable collateral values
 
-- repeatable bolt-on execution
+- Repeatable bolt-on execution
 
-- secondary liquidity pathways
+- Secondary liquidity pathways
 
-- cross-border compliance integrity
+- Cross-border compliance integrity
 
-- data-driven governance The GP must speak with the authority of a sovereign treasurer managing national assets.
+- Data-driven governance The GP must speak with the authority of a sovereign treasurer managing national assets.
 
 2. THE Monetization Architecture MODEL Asset-Based Lending is no longer a niche tool.
 

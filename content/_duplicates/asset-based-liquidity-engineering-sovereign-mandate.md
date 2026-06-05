@@ -26,7 +26,7 @@ The principle applies institutionally. Endowments. Sovereigns. Pensions. Foundat
 
 - Fund‑III buyouts, Asset-Based Lending engineering, special mandates
 
-- the underlying determinant is sovereign‑grade capital architecture.
+- The underlying determinant is sovereign‑grade capital architecture.
 
 Architecture is power. Architecture gives the GP leverage against markets, lenders, regulators, and competitors. Markets reward clarity. Lenders reward enforceability. Regulators reward order. Competitors cannot copy structure they do not understand. Sovereign partners demand intergenerational durability. Their capital horizon is not five years. It is fifty. Or more.
 

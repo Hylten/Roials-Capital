@@ -76,7 +76,7 @@ Loss of compounding. balance sheet optimization has different consequences.
 
 - Liquidity is immediate and strategic
 
-- liquidity facility interest becomes manageable relative to asset performance For high net worth investors who understand leverage cycles, the comparison resolves itself.
+- Liquidity facility interest becomes manageable relative to asset performance For high net worth investors who understand leverage cycles, the comparison resolves itself.
 
 Why Minimum Thresholds Matter Roials Capital does not operate at retail scale. Two million dollar minimums for crypto and five million for public shares create an environment where underwriting risk is predictable and capital deployment is efficient.
 

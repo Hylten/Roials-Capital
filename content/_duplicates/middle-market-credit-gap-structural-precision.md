@@ -43,13 +43,13 @@ Stewardship governs the deployment of capital as a resource under responsibility
 
 In private credit, stewardship is expressed through:
 
-- disciplined underwriting that protects principal across cycles
+- Disciplined underwriting that protects principal across cycles
 
-- non wasteful allocation strategies
+- Non wasteful allocation strategies
 
-- preference for real asset visibility over speculative momentum
+- Preference for real asset visibility over speculative momentum
 
-- alignment with borrowers committed to operational excellence rather than financial engineering Stewardship is not a moral overlay.
+- Alignment with borrowers committed to operational excellence rather than financial engineering Stewardship is not a moral overlay.
 
 It is a rigorous framework ensuring capital flows into productive structures that respect risk, reward, and long-term viability.
 
@@ -57,15 +57,15 @@ It is a rigorous framework ensuring capital flows into productive structures tha
 
 The allocator’s task is not to pursue yield. It is to calibrate exposure, evaluate structural integrity, and ensure capital sits in environments where downside protection is measurable and operational visibility is high. The middle market credit gap presents one of the most structurally coherent ecosystems for allocators seeking:
 
-- seniority preservation
+- Seniority preservation
 
-- collateral visibility
+- Collateral visibility
 
-- contractual discipline
+- Contractual discipline
 
-- platform maturity
+- Platform maturity
 
-- cross-border execution capability Roials Capital provides institutional stakeholders with a confidential environment to conduct Strategy Audits and Portfolio Calibration exercises.
+- Cross-border execution capability Roials Capital provides institutional stakeholders with a confidential environment to conduct Strategy Audits and Portfolio Calibration exercises.
 
 These sessions are designed to clarify structural pathways, pressure test assumptions, and align capital with sectors and partners where risk and discipline converge. [END OF BRIEFING]
 

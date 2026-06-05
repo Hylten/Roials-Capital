@@ -38,25 +38,25 @@ Strategic Collateralization Real estate sovereigns, defined as operators control
 
 Technical tools in this transition include
 
-- cross collateralized credit facilities that reduce refinancing event risk
+- Cross collateralized credit facilities that reduce refinancing event risk
 
 - LTV curve flattening to maintain defensive leverage at scale
 
-- structured seniority instruments that preserve access to liquidity without diluting ownership
+- Structured seniority instruments that preserve access to liquidity without diluting ownership
 
-- yield stratification across asset clusters to align debt capital with income predictability This replaces episodic refinancing events with continuous balance sheet management.
+- Yield stratification across asset clusters to align debt capital with income predictability This replaces episodic refinancing events with continuous balance sheet management.
 
 2. Portfolio Level Cash Flow Waterfalls Sovereign operators generate cash flow asymmetrically across geographies.
 
 Monetization Architecture emphasizes waterfall construction designed around net stabilized operating income, not single asset metrics. This requires
 
-- pooled revenue facilities
+- Pooled revenue facilities
 
 -
 
 # Step D own covenants aligned with operational KPIs rather than mark to market valuations
 
-- redundant liquidity channels to neutralize jurisdiction specific regulatory surprises The goal is institutional risk symmetry, not transactional leverage.
+- Redundant liquidity channels to neutralize jurisdiction specific regulatory surprises The goal is institutional risk symmetry, not transactional leverage.
 
 3. Replacement Cost Anchoring The strategic thesis for capital
 
@@ -66,11 +66,11 @@ INTRODUCTION relies on replacement cost anchoring, which has become more relevan
 
 Sovereign operators with slow liquidity cycles encounter valuation decay independent of operational performance. Balance sheet optimization therefore includes
 
-- unlocking trapped equity through structured credit
+- Unlocking trapped equity through structured credit
 
-- using asset hardening to reduce opex volatility
+- Using asset hardening to reduce opex volatility
 
-- lengthening debt duration to match lease maturity curves This creates a liquidity ecosystem where capital availability is engineered rather than negotiated under distress.
+- Lengthening debt duration to match lease maturity curves This creates a liquidity ecosystem where capital availability is engineered rather than negotiated under distress.
 
 ## The Partnership Model the
 
@@ -100,13 +100,13 @@ Stewardship functions as a discipline of managing scarce resources with precisio
 
 Sovereign operators excel when they apply stewardship frameworks that prioritize durability over velocity. Stewardship discipline includes
 
-- minimizing capital leakage
+- Minimizing capital leakage
 
-- allocating liquidity to assets with the strongest ability to compound operational stability
+- Allocating liquidity to assets with the strongest ability to compound operational stability
 
-- restructuring liabilities to avoid value destruction during refinancing cycles
+- Restructuring liabilities to avoid value destruction during refinancing cycles
 
-- advancing governance structures aligned with long term resource integrity The stewardship principle aligns with the idea in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
+- Advancing governance structures aligned with long term resource integrity The stewardship principle aligns with the idea in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * , where generational capital is preserved through disciplined decision structures rather than opportunistic risk taking.
 
@@ -116,13 +116,13 @@ In institutional real estate, this translates into engineered liquidity ecosyste
 
 Institutional allocators entering the current real estate regime require a decision framework aligned with structural, not cyclical, realities. The critical questions revolve around:
 
-- resilience of the underlying portfolio relative to replacement cost
+- Resilience of the underlying portfolio relative to replacement cost
 
-- liquidity velocity under elevated rate persistence
+- Liquidity velocity under elevated rate persistence
 
-- balance sheet adaptability under regulatory drift
+- Balance sheet adaptability under regulatory drift
 
-- operational durability across multiple jurisdictions
+- Operational durability across multiple jurisdictions
 
-- access to programmatic capital insulated from episodic refinancing events Roials Capital provides a confidential strategy audit for sovereign operators and allocators seeking calibrated exposure, ensuring alignment between capital architecture, macro regime conditions, and operational governance.
+- Access to programmatic capital insulated from episodic refinancing events Roials Capital provides a confidential strategy audit for sovereign operators and allocators seeking calibrated exposure, ensuring alignment between capital architecture, macro regime conditions, and operational governance.
 

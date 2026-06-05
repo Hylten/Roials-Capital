@@ -8,8 +8,7 @@ description: >-
   portfolios.
 date: '2025-09-16'
 author: Jonas Hyltén
-slug: >-
-  strategic-liquidity-architecture-for-sovereign-and-ultra-high-net-worth-portfolios
+slug: strategic-liquidity-architecture-for-sovereign-and-ultra-high-net-worth-portfolios
 ---
 # Strategic Liquidity for Sovereign Portfolios Liquidity is not a convenience at the sovereign level. It is a structural requirement.
 

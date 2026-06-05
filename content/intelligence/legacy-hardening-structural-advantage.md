@@ -74,5 +74,5 @@ pathways to NAEO for operators requiring institutional partners.
 
 Legacy hardening is the advantage. Structural alignment is the execution. Institutional navigation is the differentiator. [END OF BRIEFING]
 
-# 
+## 
 

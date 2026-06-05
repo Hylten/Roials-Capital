@@ -40,5 +40,5 @@ In the context of digital assets, stewardship requires specific behaviors. It re
 
 Institutional allocators evaluating crypto custody must frame the decision through a multivector matrix. Risk controllability Risk that cannot be controlled must be neutralized through architecture rather than optimism. Jurisdictional continuity Custody should not rely on a single legal environment. Operational redundancy Systems must survive hardware failures, governance transitions, and geopolitical shocks. Integration compatibility Custody must align with existing capital stacks, trust structures, and long horizon estate planning frameworks. Governance authority dispersion No individual should possess unilateral asset control. Roials Capital conducts confidential portfolio calibration sessions designed to align custodial infrastructure with long horizon strategy. These sessions synthesize regulatory intelligence, operational mechanics, and capital stewardship principles. The objective is strategic clarity rather than asset solicitation. [END OF INSTITUTIONAL BRIEFING]
 
-# 
+## 
 

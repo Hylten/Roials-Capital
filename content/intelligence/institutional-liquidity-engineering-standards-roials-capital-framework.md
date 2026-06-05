@@ -9,7 +9,7 @@ description: >-
   mandates, and capital acquisition workflows across North America and Europe.
 date: '2026-02-16'
 author: Roials Capital (Institutional Briefing)
-slug: institutional-liquidity-engineering-standards-Roials Capital-framework
+slug: institutional-liquidity-engineering-standards-roials-capital-framework
 ---
 The capital vacuum in North American private markets is the predictable outcome of regulatory compression, institutional risk aversion, and the retreat of traditional lenders from structurally sound middle market transactions. This vacuum is not a signal of deteriorating asset quality. It reflects a misalignment between liquidity supply and operational demand across the Fund-III archetype, where acquisition velocity, platform integration, and balance sheet normalization require a form of liquidity that traditional credit channels cannot deliver with precision.
 

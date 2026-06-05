@@ -174,7 +174,7 @@ Permanence attracts institutional capital. Permanent capital shapes history. - -
 
 The engine has four modules: Module one: Structural Core Module two: Capital Expansion
 
-# Layer M odule three: Liquidity Shield Module four: Acquisition Compression Grid The structural core is multi‑domiciled.
+## Layer M odule three: Liquidity Shield Module four: Acquisition Compression Grid The structural core is multi‑domiciled.
 
 The expansion
 

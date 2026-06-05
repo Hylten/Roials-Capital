@@ -8,8 +8,7 @@ description: >-
   architecture.
 date: '2025-11-21'
 author: Jonas Hyltén
-slug: >-
-  asset-based-liquidity-engineering-as-the-structural-engine-for-multi-generational-wealth
+slug: asset-based-liquidity-engineering-as-the-structural-engine-for-multi-generational-wealth
 ---
 # Asset Based Strategic Collateralization as the Structural Engine for Multi Generational Wealth Multi generational wealth is not created through accumulation alone. It is created through controlled liquidity.
 

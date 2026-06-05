@@ -8,8 +8,7 @@ description: >-
   institutional grade balance sheet design.
 date: '2026-02-06'
 author: Jonas Hyltén
-slug: >-
-  designing-the-sovereign-balance-sheet-a-structural-blueprint-for-private-liquidity-architecture
+slug: designing-the-sovereign-balance-sheet-a-structural-blueprint-for-private-liquidity-architecture
 ---
 # Designing the Sovereign Balance Sheet Classical wealth management optimizes portfolios. Sovereign architecture optimizes control.
 

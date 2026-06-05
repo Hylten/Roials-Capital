@@ -6,7 +6,7 @@ description: >-
   acquisition velocity.
 date: '2025-08-29'
 author: Jonas Hyltén
-slug: institutional-grade-infrastructure-for-global-capi
+slug: institutional-grade-infrastructure-for-global-capital-markets
 ---
 # Institutional-Grade Infrastructure for Global Capital Markets The modern capital arena rewards only one posture. Structural readiness.
 
@@ -32,7 +32,7 @@ It is the disciplined conversion of an unstructured enterprise into a lendable, 
 
 - Failure containment Each
 
-# Pillar C: onverts operational entropy into institutional clarity. This is what transforms a venture-grade asset into an institutional-grade one.
+## Pillar C: onverts operational entropy into institutional clarity. This is what transforms a venture-grade asset into an institutional-grade one.
 
 Nothing else qualifies.
 

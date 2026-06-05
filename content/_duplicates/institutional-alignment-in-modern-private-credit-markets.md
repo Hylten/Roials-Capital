@@ -27,17 +27,17 @@ The Role of Private Credit in Modern Portfolios Private credit has moved from a 
 
 Public markets produce volatility that forces reaction. Private credit produces contractual returns that execute independently of market emotion. Institutions understand this. HNWI and UHNW families increasingly do as well. Institutional alignment requires that private credit not be treated as a speculative asset, but as a yield engine supported by legal structures, covenants, and underwriting discipline. That discipline is what allows private credit to be used as collateral in the first place. When Roials Capital assesses a private credit position, we look at:
 
-- quality of the underlying borrower
+- Quality of the underlying borrower
 
-- enforceability of covenants
+- Enforceability of covenants
 
-- seniority and ranking
+- Seniority and ranking
 
-- duration and cash flow timing
+- Duration and cash flow timing
 
-- jurisdictional clarity
+- Jurisdictional clarity
 
-- historical performance of similar structures This assessment is not negotiable.
+- Historical performance of similar structures This assessment is not negotiable.
 
 It defines the boundaries of responsible leverage. It protects the borrower by grounding liquidity in stable underwriting.
 
@@ -45,15 +45,15 @@ The Silent Architecture of Institutional Behavior Institutions are not loud. The
 
 They do not sell. They define the terms and operate within them. This silence is not arrogance. It is efficiency. It keeps the system clean. Roials Capital operates with the same posture. Our function is structural, not promotional. Our authority comes from engineering that works. HNWI and UHNW individuals who align with institutional behavior benefit from:
 
-- faster decisioning
+- Faster decisioning
 
-- more predictable liquidity windows
+- More predictable liquidity windows
 
-- deeper access to leverage
+- Deeper access to leverage
 
-- reduced friction during underwriting
+- Reduced friction during underwriting
 
-- more strategic use of portfolio assets The market rewards those who move like institutions.
+- More strategic use of portfolio assets The market rewards those who move like institutions.
 
 Not those who request exceptions. Not those who rely on narratives. Not those who present complexity without clarity.
 

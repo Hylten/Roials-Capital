@@ -30,33 +30,33 @@ Institutions that rely solely on explicit funding weaken their negotiating postu
 
 Capital efficiency is not an abstract virtue. It is mechanical. It is measured through ratios that reveal discipline or expose disorder. The LTV Curve Traditional lenders prefer a static LTV ceiling. They demand a fixed haircut. Institutions that understand asset hardening operate on a dynamic LTV curve. The LTV is not a constraint. It is a moving function of:
 
-- asset durability
+- Asset durability
 
-- seniority hierarchy
+- Seniority hierarchy
 
-- cash-flow regularity
+- Cash-flow regularity
 
-- recovery predictability Quiet capital engineering adjusts the curve to minimize volatility and squeeze waste out of collateral misalignment.
+- Recovery predictability Quiet capital engineering adjusts the curve to minimize volatility and squeeze waste out of collateral misalignment.
 
 The Cash Flow Waterfall Most companies run waterfalls as if they were compliance tools. The disciplined treat them as levers. A waterfall designed with institutional precision uses four layers:
 
-- senior secured outflow
+- Senior secured outflow
 
-- operational liquidity band
+- Operational liquidity band
 
-- reinvestment threshold
+- Reinvestment threshold
 
-- distributable surplus Efficiency is a function of pressure.
+- Distributable surplus Efficiency is a function of pressure.
 
 Control the waterfall and you control velocity. Recovery Factors Collateral quality is not moral. Recovery factors dictate whether the institution can borrow silently without diluting governance. Functional recovery sits between 38 percent and 82 percent depending on asset class. Hard energy assets sit higher. Intangible positions sit lower. The goal is simple. Consolidate the recovery factor profile. Reduce variance. Increase borrowable mass. principal authority Mechanics principal authority is the unspoken leverage built through collateral that never appears in the operational arena. It enables:
 
-- undisclosed borrowing bases
+- Undisclosed borrowing bases
 
-- off-cycle acquisition triggers
+- Off-cycle acquisition triggers
 
-- covenant-neutral liquidity bands
+- Covenant-neutral liquidity bands
 
-- asset-level repositioning without cross-default risk Institutional power is the ability to act without signalling.
+- Asset-level repositioning without cross-default risk Institutional power is the ability to act without signalling.
 
 ## The Strategic Model
 

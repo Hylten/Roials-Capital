@@ -13,6 +13,9 @@ function preprocessMarkdown(markdown: string): string {
   text = text.replace(/MANDAT\n\nE/g, 'MANDATE\n\n');
   text = text.replace(/Case s\b/g, 'Cases');
 
+  // Normalize excessive spacing
+  text = text.replace(/\n{4,}/g, '\n\n\n');
+
   // Fix fake bullet lists
   text = text.replace(/^[•●○▪►]\s*/gm, '- ');
 
@@ -260,16 +263,17 @@ export const IntelligenceArticle: React.FC<IntelligenceArticleProps> = ({ slug }
             </div>
 
             <style>{`
-                .article-content { line-height: 2.4; -webkit-font-smoothing: antialiased; }
-                .article-content p { margin-bottom: 2.5rem; }
-                .article-content h2 { font-family: 'Cormorant Garamond', serif; font-size: 2.6rem; margin-top: 6rem; margin-bottom: 3rem; color: #fff; line-height: 1.2; font-weight: 300; }
-                .article-content h3 { font-family: 'Cormorant Garamond', serif; font-size: 1.8rem; margin-top: 4.5rem; margin-bottom: 2.5rem; color: #fff; font-weight: 400; }
-                .article-content ul, .article-content ol { margin-bottom: 3.5rem; padding-left: 2rem; }
-                .article-content li { margin-bottom: 1.5rem; }
-                .article-content hr { border: 0; border-top: 1px solid rgba(255,255,255,0.1); margin: 6rem 0; }
+                .article-content { line-height: 1.9; -webkit-font-smoothing: antialiased; }
+                .article-content p { margin-bottom: 1.8rem; }
+                .article-content h2 { font-family: 'Cormorant Garamond', serif; font-size: 2.6rem; margin-top: 4.5rem; margin-bottom: 1.8rem; color: #fff; line-height: 1.2; font-weight: 400; letter-spacing: -0.02em; text-transform: uppercase; }
+                .article-content h3 { font-family: 'Cormorant Garamond', serif; font-size: 1.8rem; margin-top: 3rem; margin-bottom: 1.2rem; color: #C5A059; font-weight: 400; letter-spacing: -0.01em; }
+                .article-content ul, .article-content ol { margin: 1.5rem 0 2.5rem; padding-left: 1.8rem; }
+                .article-content li { margin-bottom: 0.8rem; color: rgba(229, 231, 235, 0.8); }
+                .article-content li strong { color: #fff; }
+                .article-content hr { border: 0; border-top: 1px solid rgba(255,255,255,0.1); margin: 4rem 0; }
                 .article-content strong { color: #fff; font-weight: 500; }
                 .article-content a { color: #C5A059; text-decoration: underline; text-underline-offset: 4px; }
-                .article-content blockquote { border-left: 1px solid #C5A059; padding-left: 1.5rem; margin: 4.5rem 0; font-style: italic; color: rgba(229, 231, 235, 0.5); }
+                .article-content blockquote { border-left: 1px solid #C5A059; padding-left: 1.5rem; margin: 2.5rem 0; font-style: italic; color: rgba(229, 231, 235, 0.5); }
             `}</style>
 
             <footer className="mt-16 text-center">

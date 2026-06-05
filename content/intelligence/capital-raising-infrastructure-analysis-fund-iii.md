@@ -90,7 +90,7 @@ The operational intelligence layer standardizes these data flows.
 
 3. Structural Engineering Layer This
 
-# Layer D: efines the capital structure, including
+## Layer D: efines the capital structure, including
 
 :
 
@@ -144,5 +144,5 @@ DECISION-MAKING LENS FOR ALLOCATORS The allocator navigating the 2026 landscape 
 
 The next step for most allocators is a confidential calibration session to map strategic alignment and validate counterparty suitability. [END OF BRIEFING]
 
-# 
+## 
 

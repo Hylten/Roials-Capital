@@ -189,7 +189,7 @@ A corridor that depends on interpretation is a corridor without velocity. Execut
 
 Operational control is delegated to jurisdictional structures. Enforcement control is held by neutral agents or custodial frameworks. This division eliminates conflict. Conflict is the enemy of alignment. Structural Integrity Tests A portfolio is considered institution ready when it passes three integrity tests :
 
-# Jurisdictional Symmetry Test If a covenant can be enforced in jurisdiction A but not B, the structure fails. If lien rank can shift between A and B, the structure fails.
+## Jurisdictional Symmetry Test If a covenant can be enforced in jurisdiction A but not B, the structure fails. If lien rank can shift between A and B, the structure fails.
 
 If beneficial ownership clarity differs between A and B, the structure fails.
 

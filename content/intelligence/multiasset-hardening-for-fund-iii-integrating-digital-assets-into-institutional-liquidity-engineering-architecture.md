@@ -8,14 +8,13 @@ description: >-
   clients.
 date: '2026-01-19'
 author: Jonas Hyltén
-slug: >-
-  multiasset-hardening-for-Fund-III-integrating-digital-assets-into-institutional-liquidity-engineerin
+slug: multiasset-hardening-for-fund-iii-integrating-digital-assets-into-institutional-liquidity-engineering-architecture
 ---
 # Multi Asset Hardening for Fund-III Integrating Digital Assets Into Institutional Asset-Backed Frameworks Architecture Multi asset hardening has become a defining requirement for HNWI and UHNW allocators who manage cross class exposure in an environment of rising structural fragility. The architecture that supports Fund-III operations must create stability across liquid and semi liquid instruments, and it must do so without distorting capital behavior or disrupting long range risk modeling.
 
 At Roials Capital,
 
-# THE MANDAT E
+## THE MANDAT E
 
 is precise. We lend against private credit and asset based structures, and we extend collateralized liquidity against digital and public market assets for qualified positions. The thresholds are explicit. Crypto Asset-Backed Frameworks begins at two million dollars. Public share Strategic Collateralization begins at five million dollars. These parameters are not posturing. They are filtration. They preserve institutional scale integrity and maintain the internal geometry required for operations that rely on principal authority rather than retail signaling.
 

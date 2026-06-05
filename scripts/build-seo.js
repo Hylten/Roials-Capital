@@ -168,23 +168,67 @@ async function generateSEO() {
     const articleDir = path.join(INTELLIGENCE_DIST_DIR, slug);
     ensureDir(articleDir);
 
-    const contentHtml = `<div style="background: #000000; min-height: 100vh; padding: 220px 20px; color: #E5E7EB; font-family: sans-serif;">
+    function renderMarkdownToHtml(md) {
+  const lines = md.split('\n');
+  let html = '';
+  let inUl = false;
+  let inOl = false;
+
+  for (let i = 0; i < lines.length; i++) {
+    let p = lines[i].trim();
+    if (!p) {
+      if (inUl) { html += '</ul>\n'; inUl = false; }
+      if (inOl) { html += '</ol>\n'; inOl = false; }
+      continue;
+    }
+
+    // Headings
+    if (p.startsWith('#### ')) { closeLists(); html += `<h4 style="font-size:1.2rem;color:#C5A059;margin-top:32px;margin-bottom:16px;font-weight:500;font-family:serif;">${p.replace('#### ','')}</h4>\n`; continue; }
+    if (p.startsWith('### ')) { closeLists(); html += `<h3 style="font-size:1.6rem;color:#C5A059;margin-top:40px;margin-bottom:18px;font-weight:500;font-family:serif;">${p.replace('### ','')}</h3>\n`; continue; }
+    if (p.startsWith('## ')) { closeLists(); html += `<h2 style="font-size:2rem;color:#C5A059;margin-top:50px;margin-bottom:20px;font-weight:500;font-family:serif;">${p.replace('## ','')}</h2>\n`; continue; }
+    if (p.startsWith('# ')) { closeLists(); html += `<h1 style="font-family:serif;font-size:2.2rem;color:#fff;margin-top:50px;margin-bottom:25px;font-weight:400;line-height:1.2;">${p.replace('# ','')}</h1>\n`; continue; }
+
+    // Unordered list items
+    if (p.startsWith('- ') || p.startsWith('* ')) {
+      if (inOl) { html += '</ol>\n'; inOl = false; }
+      if (!inUl) { html += '<ul style="margin:1rem 0 2rem;padding-left:1.8rem;list-style:disc;">\n'; inUl = true; }
+      const li = p.replace(/^[-*]\s/, '').replace(/\*\*(.*?)\*\*/g, '<strong style="color:#E5E7EB;font-weight:600;">$1</strong>');
+      html += `<li style="margin-bottom:0.6rem;color:#9CA3AF;line-height:1.7;">${li}</li>\n`;
+      continue;
+    }
+
+    // Ordered list items
+    if (/^\d+\.\s/.test(p)) {
+      if (inUl) { html += '</ul>\n'; inUl = false; }
+      if (!inOl) { html += '<ol style="margin:1rem 0 2rem;padding-left:1.8rem;list-style:decimal;">\n'; inOl = true; }
+      const li = p.replace(/^\d+\.\s/, '').replace(/\*\*(.*?)\*\*/g, '<strong style="color:#E5E7EB;font-weight:600;">$1</strong>');
+      html += `<li style="margin-bottom:0.6rem;color:#9CA3AF;line-height:1.7;">${li}</li>\n`;
+      continue;
+    }
+
+    // Regular paragraph
+    closeLists();
+    p = p.replace(/\*\*(.*?)\*\*/g, '<strong style="color:#E5E7EB;font-weight:600;">$1</strong>');
+    html += `<p style="margin-bottom:2rem;line-height:1.9;">${p}</p>\n`;
+  }
+
+  closeLists();
+  return html;
+
+  function closeLists() {
+    if (inUl) { html += '</ul>\n'; inUl = false; }
+    if (inOl) { html += '</ol>\n'; inOl = false; }
+  }
+}
+
+const contentHtml = `<div style="background: #000000; min-height: 100vh; padding: 180px 20px 120px; color: #E5E7EB; font-family: sans-serif;">
         <div style="max-width: 800px; margin: 0 auto; display: flex; flex-direction: column; align-items: center;">
             <a href="/intelligence/" style="display: inline-flex; align-items: center; gap: 8px; color: #C5A059; font-size: 12px; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 48px; text-decoration: none; font-weight: 600;">← Back to Index</a>
             <div style="font-size: 14px; color: #666; text-transform: uppercase; letter-spacing: 6px; margin-bottom: 32px; font-weight: 800;">Intelligence Report</div>
             <h1 style="font-family: serif; font-size: clamp(2.5rem, 6vw, 4.5rem); color: #C5A059; margin-bottom: 60px; line-height: 1.1; text-align: center;">${title}</h1>
             <div style="font-size: 14px; color: #666; text-transform: uppercase; letter-spacing: 3px; margin-bottom: 80px; border-bottom: 1px solid #1a1a1a; padding-bottom: 48px; width: 100%; text-align: center;">Published ${date} • Roials Capital Strategy</div>
-            <div style="line-height: 2.1; font-size: 1.35rem; color: #9CA3AF !important; font-weight: 300; width: 100%; text-align: left;">
-                ${content.split('\n').map(p => {
-      p = p.trim();
-      if (!p) return '';
-      if (p.startsWith('#### ')) return `<h4 style="font-size: 1.2rem; color: #C5A059; margin-top: 32px; margin-bottom: 16px; font-weight: 500; font-family: serif;">${p.replace('#### ', '')}</h4>`;
-      if (p.startsWith('### ')) return `<h3 style="font-size: 1.5rem; color: #C5A059; margin-top: 40px; margin-bottom: 20px; font-weight: 500; font-family: serif;">${p.replace('### ', '')}</h3>`;
-      if (p.startsWith('## ')) return `<h2 style="font-size: 2rem; color: #C5A059; margin-top: 60px; margin-bottom: 30px; font-weight: 500; font-family: serif;">${p.replace('## ', '')}</h2>`;
-      if (p.startsWith('# ')) return `<h1 style="font-family: serif; font-size: 2.2rem; color: #fff; margin-top: 50px; margin-bottom: 25px; font-weight: 400; line-height: 1.2;">${p.replace('# ', '')}</h1>`;
-      p = p.replace(/\*\*(.*?)\*\*/g, '<strong style="color: #E5E7EB; font-weight: 600;">$1</strong>');
-      return `<p style="margin-bottom: 48px;">${p}</p>`;
-    }).join('')}
+            <div style="line-height: 1.9; font-size: 1.25rem; color: #9CA3AF !important; font-weight: 300; width: 100%; text-align: left;">
+                ${renderMarkdownToHtml(content)}
             </div>
         </div>
     </div>`;

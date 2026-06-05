@@ -8,8 +8,7 @@ description: >-
   control, and structural efficiency.
 date: '2025-09-07'
 author: Jonas Hyltén
-slug: >-
-  institutional-grade-liquidity-engineering-for-high-value-assets-the-architecture-of-modern-liquidity
+slug: institutional-grade-liquidity-engineering-for-high-value-assets-the-architecture-of-modern-liquidity
 ---
 # Institutional Grade Asset-Backed Frameworks for High-Value Assets Institutional liquidity has historically been gated. Reserved for entities fluent in capital structure, market velocity, and collateral hierarchy.
 

@@ -7,8 +7,7 @@ description: >-
   based liquidity engineering designed for HNWI and UHNW capital expansion.
 date: '2025-08-12'
 author: Jonas Hyltén
-slug: >-
-  liquidity-architecture-for-Fund-III-expansion-structural-mechanics-for-institutional-grade-capital
+slug: liquidity-architecture-for-fund-iii-expansion-structural-mechanics-for-institutional-grade-capital
 ---
 # Liquidity Architecture for Fund-III Expansion Roials Capital operates in a domain where liquidity is not a convenience. Liquidity is the instrument that sets the rhythm for capital velocity, credit formation, and controlled expansion.
 
@@ -104,7 +103,7 @@ Designing Velocity Without Compromise Velocity is only beneficial when it does n
 
 Fund-III addresses this through a controlled velocity model. We do not maximize liquidity facility to value. We maximize sustainability of liquidity extraction. This requires discipline. It also requires an understanding that most liquidity failures occur when velocity outruns collateral precision. Our architecture prevents that misalignment before the liquidity facility is ever issued. Multi
 
-# Layer L: I
+## Layer L: I
 
 quidity Construction Fund-III’s architecture uses a multi layer approach to create stability. Layer One is collateral structure. Layer Two is duration matching. Layer Each layer reinforces the other. The result is a liquidity engine that operates with institutional reliability. This creates a rare environment where liquidity is not reactive but proactive. Participants can move knowing the architecture anticipates what the market does not.
 

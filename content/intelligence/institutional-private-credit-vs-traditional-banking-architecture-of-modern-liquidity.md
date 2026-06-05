@@ -9,8 +9,7 @@ description: >-
   Fund-III execution environments.
 date: '2025-09-07'
 author: Roials Capital (Institutional Briefing)
-slug: >-
-  institutional-private-credit-vs-traditional-banking-architecture-of-modern-liquidity
+slug: institutional-private-credit-vs-traditional-banking-architecture-of-modern-liquidity
 ---
 The capital vacuum across North American and European credit markets is a structural consequence of regulatory compression, not a contraction in underlying economic productivity. Basel IV, regional banking consolidation, and supervisory tightening have created an environment where traditional lenders maintain balance sheet exposure but cannot transition sufficient capital into middle-market and asset-backed credit. The result is a dual-track financing regime: banks maintain settlement infrastructure while private credit funds deliver actual liquidity.
 

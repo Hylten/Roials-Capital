@@ -32,9 +32,9 @@ Core holdings are no longer static assets. They have become balance sheet instru
 
 It sits at the intersection of treasury architecture, private credit structuring, and operational forecasting. It has three functions. First, stabilize the GP’s acquisition calendar. Capital timing gaps are the silent killers of mid-market buyout strategies. Institutional Liquidity Paths produces reliable execution windows through customized Asset-Based Lending lines, NAV-based facilities, and forward-drawn capital partners. Second, optimize the bottom quartile of the balance sheet. Underutilized assets
 
-- receivables, inventory, equipment, and rights
+- Receivables, inventory, equipment, and rights
 
-- can be transformed into operational liquidity without jeopardizing equity control.
+- Can be transformed into operational liquidity without jeopardizing equity control.
 
 Third, create capital neutrality during transitional periods. Transitional neutrality allows the GP to methodically pace its acquisition strategy without exposing the portfolio to liquidity compression.
 

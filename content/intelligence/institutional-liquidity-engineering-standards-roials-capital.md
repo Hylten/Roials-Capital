@@ -6,7 +6,7 @@ description: >-
   cross‑jurisdictional institutional mandates.
 date: '2025-08-13'
 author: Roials Capital
-slug: institutional-liquidity-engineering-standards-Roials Capital
+slug: institutional-liquidity-engineering-standards-roials-capital
 ---
 Institutional architecture begins with the presumption of asymmetry. Capital moves asymmetrically. Ownership moves asymmetrically. Liquidity, however, must be engineered. Not found. Not discovered. Built. Purposefully. Quietly. Precisely. Roials Capital designs that precision. Fund‑III scale. Buyout logic. Add‑on velocity. Principal‑led. GP‑aligned. The framework below defines the institutional standards that govern every Asset-Backed Frameworks agreement we authorize, underwrite, or escalate. This is not a template.
 

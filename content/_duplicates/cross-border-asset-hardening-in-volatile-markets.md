@@ -56,7 +56,7 @@ The Architecture of Hardened Capital A hardened portfolio is not a static constr
 
 It is defined by liquidity availability across borders, across cycles, and across asset classes. It possesses these characteristics. Cross-jurisdictional Capital Structuring channels. Collateral structures calibrated for institutional thresholds. Liquidity independence from market conditions. Lock
 
-### Step V: aluation models that remain stable under stress.
+### Step I:
 
 High-trust custody arrangements that resist regulatory interference. Roials Capital builds portfolios that maintain this state. We do not chase markets. We construct liquidity frameworks that transcend them.
 

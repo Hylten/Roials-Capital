@@ -42,7 +42,7 @@ Predictable downside floors. Unlimited scalability above the return watermark. A
 
 Not optional. Not deferable. Required. Electricity, hydrocarbons, transport grids, industrial inputs
 
-- these do not waver.
+- These do not waver.
 
 Allocation into these corridors yields durability by design. Monetization Architecture forms the counterweight. Without engineered liquidity, assets calcify. Without asset hardening, liquidity evaporates. The two must coexist. Balance. Opposites locked. Capital Structuring uses:
 

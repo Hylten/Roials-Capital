@@ -7,8 +7,7 @@ description: >-
   engineering without forced liquidation, designed for HNWI and UHNW portfolios.
 date: '2026-01-11'
 author: Jonas Hyltén
-slug: >-
-  liquidity-without-liquidation-the-abl-advantage-for-private-wealth-architecture
+slug: liquidity-without-liquidation-the-abl-advantage-for-private-wealth-architecture
 ---
 # Liquidity Without Liquidation: The Asset-Based Lending Advantage Modern private wealth is no longer defined by asset accumulation. It is defined by how those assets are engineered, stratified, and activated.
 

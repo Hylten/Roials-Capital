@@ -135,7 +135,7 @@ Roials Capital maintains intelligence across the United States, Europe, Canada, 
 
 - Sector specific risk curves This transforms market noise into actionable intelligence.
 
-3. INSTITUTIONAL INTRODUCTIO N
+3. INSTITUTIONAL INTRODUCTION
 
 Introductions are made only when alignment of mandate, risk profile, and operational capability is verified. In energy, the institutional grade partner is NAEO. In private credit for buyouts and add ons, the counterparties are sector specialized lenders with track records in sponsor finance. This neutral introducer role preserves compliance integrity while ensuring allocators encounter only structurally resilient opportunities.
 

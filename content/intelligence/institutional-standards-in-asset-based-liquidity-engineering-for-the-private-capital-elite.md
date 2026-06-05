@@ -7,8 +7,7 @@ description: >-
   Frameworks and private credit liquidity for HNWI and UHNW portfolios.
 date: '2025-09-22'
 author: Jonas Hyltén
-slug: >-
-  institutional-standards-in-asset-based-liquidity-engineering-for-the-private-capital-elite
+slug: institutional-standards-in-asset-based-liquidity-engineering-for-the-private-capital-elite
 ---
 # Institutional Standards in Asset-Based Capital Structuring Institutional environments do not tolerate ambiguity. They operate through structure.
 

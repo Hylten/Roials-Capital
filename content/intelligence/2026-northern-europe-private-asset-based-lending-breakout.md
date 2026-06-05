@@ -21,7 +21,7 @@ That is the heart of the matter. This is one of those years. Markets have mispri
 
 The post-2023 regulatory era hardened rather than softened. MiFID II addendums tightened oversight on cross-border lending flows. Environmental disclosure requirements added compliance drag. Banks became slower, more inward-facing, and increasingly risk-averse. In the Nordic region this conservatism compounds because banks hold disproportionate influence in national identity. When institutions become cultural artifacts rather than competitive agents, they lose velocity. Velocity is the choke point. Slow capital kills deals. Slow capital destroys buyout windows. Slow capital suffocates add-on strategies before they mature. Private lenders
 
-### Step I:
+### Step II:
 
 nto the space not as opportunists but as systemic correctors. Industry does not wait for committees. Industry produces or dies. Private credit responds where banks abstain. It is not abstraction. It is structural necessity. The result is predictable: a record number of mid-market operators across manufacturing, logistics, maritime, energy services, defense-adjacent fabrication, digital infrastructure, and second-generation industrials now depend on alternative lenders for expansion, recapitalization, and transition capital. The Nordic market is not distressed. The Nordic market is constrained. Constrained markets yield premium returns for those who understand how to underwrite operating assets with precision.
 
@@ -30,7 +30,7 @@ of failure in the incumbent model, not of hype.
 
 Precision matters: banks lend on policy, principals lend on assets. Policy is slow; assets are real. The gap is widening by the quarter. - - -
 
-# Jurisdictional Arbitrage The deeper drivers extend into jurisdictional arbitrage.
+## Jurisdictional Arbitrage The deeper drivers extend into jurisdictional arbitrage.
 
 Northern Europe is a region of small but sovereign jurisdictions with high regulatory clarity. That clarity enables multi-country collateral structures with lower legal friction than Central or Southern Europe. Sweden's operational transparency, Finland's corporate governance culture, Denmark's enforceability frameworks, and Estonia's digital-first systems collectively form the most lender-friendly environment north of the Rhine. Few see this because they are stuck thinking nationally. Principals think regionally. Institutions think continentally. This is why 2026 is a breakout year: the structural architecture is finally aligned. Three catalysts dominate: **Catalyst One: The Nordic refinancing wall *
 

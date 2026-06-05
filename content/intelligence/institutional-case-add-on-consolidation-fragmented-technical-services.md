@@ -44,11 +44,11 @@ A firm with 150 technicians lives in optionality. Scheduling is no longer reacti
 
 Standardization unlocks hidden EBITDA without growth. Institutional investors sometimes overlook this because the value is not loud. It emerges quietly-inside routing software, inside procurement contracts, inside technician utilization logs. Quiet money. Reliable money. Durable money. II. The Sovereign Dynamic: Why Fragmented Markets Bend to Consolidators A fragmented industry is not an accident. It is the residue of three forces:
 
-- local skill concentration
+- Local skill concentration
 
-- low initial capex barriers
+- Low initial capex barriers
 
-- long-standing trust relationships But fragmentation collapses when one actor rewrites the geometry of the market.
+- Long-standing trust relationships But fragmentation collapses when one actor rewrites the geometry of the market.
 
 Add‑on consolidation introduces centralization in procurement, people, process, digital systems, and pricing stabilization. Once one player reaches density thresholds, the competitive field becomes asymmetric. One actor becomes inevitable. Others become optional. That is the Sovereign Dynamic. III. Jurisdictional Arbitrage The most underpriced advantage in technical services is jurisdictional design. Not regulatory avoidance-regulatory mastery. When a GP executes cross‑state or cross‑national consolidation, the jurisdiction becomes part of the operating model:
 
@@ -62,15 +62,15 @@ Add‑on consolidation introduces centralization in procurement, people, process
 
 This is where institutional capital wins. Not by brute force. By architectural advantage. IV. Add‑Ons as Downside Protection This is the part many miss: consolidation is not merely an acceleration mechanism. It is a stabilizer. In a downturn:
 
-- technicians trade down from capex-heavy replacement to service and repair
+- Technicians trade down from capex-heavy replacement to service and repair
 
-- regulatory inspections continue on mandated intervals
+- Regulatory inspections continue on mandated intervals
 
-- maintenance cannot be deferred past safety thresholds
+- Maintenance cannot be deferred past safety thresholds
 
-- diversified technician fleets balance sector-specific volatility
+- Diversified technician fleets balance sector-specific volatility
 
-- density reduces travel inefficiency precisely when margins tighten Add‑ons convert a cyclical revenue profile into a quasi-recurring revenue cadence.
+- Density reduces travel inefficiency precisely when margins tighten Add‑ons convert a cyclical revenue profile into a quasi-recurring revenue cadence.
 
 The larger the fleet, the smoother the curve.
 
@@ -90,13 +90,13 @@ Platform Calibration You do not buy a platform because it is large. You buy a pl
 
 - CEO with industrial temperament, not founder sentiment
 
-- workforce with ≥40% cross-trained technicians
+- Workforce with ≥40% cross-trained technicians
 
-- dispatching system already centralized or easily migrated
+- Dispatching system already centralized or easily migrated
 
-- financial controls professional but not yet institutional (fixable quickly)
+- Financial controls professional but not yet institutional (fixable quickly)
 
-- at least two service lines with regulatory forcing mechanisms If the platform cannot absorb add‑ons, the consolidation collapses into noise.
+- At least two service lines with regulatory forcing mechanisms If the platform cannot absorb add‑ons, the consolidation collapses into noise.
 
 ### Pillar II:
 
@@ -118,13 +118,13 @@ Trajectory determines multiple.
 
 The Pricing Paradox In fragmented markets, pricing is rarely rational. Most add‑ons price on habit, not economics. Consolidators impose intelligent pricing bands across:
 
-- travel time
+- Travel time
 
-- technician skill tier
+- Technician skill tier
 
-- parts procurement
+- Parts procurement
 
-- regulatory complexity
+- Regulatory complexity
 
 - SLA response expectations Standardization does not increase prices arbitrarily.
 
@@ -134,17 +134,17 @@ It aligns price with value. Institutional LPs appreciate this because price disc
 
 Data Superiority Data is not technology. Data is control. The consolidator who owns the data architecture owns the future composite. Critical data layers:
 
-- technician utilization
+- Technician utilization
 
-- parts consumption
+- Parts consumption
 
-- quoting velocity
+- Quoting velocity
 
-- cross-location job margin variance
+- Cross-location job margin variance
 
-- client lifetime value patterns
+- Client lifetime value patterns
 
-- regulatory cycle timing Once normalized, the roll‑up transitions from guesswork to engineered throughput.
+- Regulatory cycle timing Once normalized, the roll‑up transitions from guesswork to engineered throughput.
 
 ## The Capital Architecture
 
@@ -160,7 +160,7 @@ They are the architecture that preserves the quality of the pool. The final ten 
 
 - EU MiFID II acquisitions and compliance-driven buyouts
 
-- technical carve-outs requiring cross‑entity restructuring These are not for generalist capital.
+- Technical carve-outs requiring cross‑entity restructuring These are not for generalist capital.
 
 They require a Principal’s hand.
 

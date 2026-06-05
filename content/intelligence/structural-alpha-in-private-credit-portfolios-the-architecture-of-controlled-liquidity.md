@@ -8,8 +8,7 @@ description: >-
   liquidity optimization.
 date: '2025-12-10'
 author: Jonas Hyltén
-slug: >-
-  structural-alpha-in-private-credit-portfolios-the-architecture-of-controlled-liquidity
+slug: structural-alpha-in-private-credit-portfolios-the-architecture-of-controlled-liquidity
 ---
 # Structural Alpha in Private Credit Portfolios Structural alpha is not a market phenomenon. It is an engineering outcome.
 

@@ -271,7 +271,7 @@ Not after. Capital efficiency extends hold-period flexibility. principal authori
 
 Not opportunistic. Inevitability is engineered. Not hoped for. - -
 
-- principal authority is the principal identity.
+- Principal authority is the principal identity.
 
 It is not aggressive. It is not loud. It is sovereign. Balance sheets must reflect sovereign posture. This requires:
 

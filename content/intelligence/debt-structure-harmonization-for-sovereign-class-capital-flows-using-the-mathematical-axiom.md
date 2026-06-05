@@ -7,8 +7,7 @@ description: >-
   Mathematical Axiom | Institutional Briefing by Roials Capital
 date: '2026-03-20'
 author: Roials Capital
-slug: >-
-  debt-structure-harmonization-for-sovereign-class-capital-flows-using-the-mathematical-axiom
+slug: debt-structure-harmonization-for-sovereign-class-capital-flows-using-the-mathematical-axiom
 ---
 # Debt Structure Harmonization for Sovereign Class Capital Flows Using The Mathematical Axiom
 

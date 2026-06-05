@@ -64,7 +64,7 @@ Family offices operate across multi jurisdictional portfolios. They face inherit
 
 - Multi Layer Risk Orchestration: We separate market risk, custody risk, and structural risk so no single variable can compromise the client's position.
 
-- principal authority Posture: Our presence is architectural, not promotional.
+- Principal authority Posture: Our presence is architectural, not promotional.
 
 We design the conditions in which capital behaves correctly. This is the difference between Strategic Collateralization as a transaction and Monetization Architecture as an engineered system.
 
@@ -102,25 +102,25 @@ The New Gold Standard Is Not a Metaphor The phrase new gold standard is not mark
 
 Gold served global finance because it was:
 
-- scarce
+- Scarce
 
-- divisible
+- Divisible
 
-- durable
+- Durable
 
-- globally recognised
+- Globally recognised
 
-- independent of political systems Bitcoin shares these characteristics, and adds:
+- Independent of political systems Bitcoin shares these characteristics, and adds:
 
-- digital portability
+- Digital portability
 
-- immutable supply
+- Immutable supply
 
-- automated settlement
+- Automated settlement
 
-- transparent verification
+- Transparent verification
 
-- liquidity without borders Family offices that understand this shift strengthen their position for the next fifty years, not the next cycle.
+- Liquidity without borders Family offices that understand this shift strengthen their position for the next fifty years, not the next cycle.
 
 The Roials Capital Position We do not speculate. We do not chase narratives.
 

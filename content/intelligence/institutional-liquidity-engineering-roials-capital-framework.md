@@ -8,7 +8,7 @@ description: >-
   private credit alignment within the Roials Capital Framework.
 date: '2026-01-31'
 author: Roials Capital (Institutional Briefing)
-slug: institutional-liquidity-engineering-Roials Capital-framework
+slug: institutional-liquidity-engineering-roials-capital-framework
 ---
 The dislocation between balance sheet needs and institutional credit availability in 2026 is not a function of elevated risk profiles. It is a function of regulatory sequencing and the structural withdrawal of conventional lenders from middle market credit. This vacuum has created a durable space for engineered liquidity structures that operate inside measurable collateral parameters rather than pro forma narratives. The consequence is a market where capital discipline outperforms capital abundance and where Monetization Architecture has become a primary mechanism for institutional stability rather than an opportunistic side instrument.
 

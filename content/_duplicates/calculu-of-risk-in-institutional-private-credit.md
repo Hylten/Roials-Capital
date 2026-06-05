@@ -196,5 +196,5 @@ Allocators operating in this regime require a calibration lens built around four
 
 Allocators who align with these principles position themselves to navigate the complexities of private credit with institutional precision. Roials Capital provides confidential strategy audits and portfolio calibrations designed to map these principles onto real world capital structures. The objective is to ensure that institutions deploy capital with clarity, technical precision, and structural advantage. [END OF BRIEFING]
 
-# 
+## 
 

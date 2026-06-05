@@ -8,9 +8,7 @@ description: >-
   integrity, and high net worth execution.
 date: '2025-09-05'
 author: Jonas Hyltén
-slug: >-
-  institutional-standards-for-private-liquidity-engineering-agreements-the-Roials
-  Capital-framework
+slug: institutional-standards-for-private-liquidity-engineering-agreements-the-roials-capital-framework
 ---
 # Institutional Standards for Private Capital Structuring Agreements Roials Capital Architecture for High Net Worth Liquidity Protocols Private Asset-Backed Frameworks at the institutional tier is not formed from negotiation. It is shaped through architecture.
 

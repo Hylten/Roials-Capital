@@ -8,8 +8,7 @@ description: >-
   Frameworks for HNWI and UHNW clients seeking structural liquidity.
 date: '2025-11-25'
 author: Jonas Hyltén
-slug: >-
-  the-new-liquidity-standard-institutional-liquidity-engineering-against-public-shares-for-5m-holders
+slug: the-new-liquidity-standard-institutional-liquidity-engineering-against-public-shares-for-5m-holders
 ---
 # The New Liquidity Standard: Capital Structuring Against Public Shares for the + Class Liquidity architecture is shifting. The old model, reliant on conventional lines of credit and restrictive banking criteria, is no longer the benchmark for sophisticated capital holders.
 

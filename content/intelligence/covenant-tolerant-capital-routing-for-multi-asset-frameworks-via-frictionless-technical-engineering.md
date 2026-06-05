@@ -7,8 +7,7 @@ description: >-
   Technical Engineering | Institutional Briefing by Roials Capital
 date: '2026-03-20'
 author: Roials Capital
-slug: >-
-  covenant-tolerant-capital-routing-for-multi-asset-frameworks-via-frictionless-technical-engineering
+slug: covenant-tolerant-capital-routing-for-multi-asset-frameworks-via-frictionless-technical-engineering
 ---
 # Covenant Tolerant Capital Routing for Multi Asset Frameworks via Frictionless Technical Engineering
 

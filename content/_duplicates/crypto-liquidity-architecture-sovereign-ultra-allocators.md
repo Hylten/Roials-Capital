@@ -32,7 +32,7 @@ Treasury accounts. Cold storage. Execution venues. Market makers. OTC lines.
 
 Customer settlement accounts. Each
 
-# Step D efines the routing logic for capital release and capital recall.
+## Step D efines the routing logic for capital release and capital recall.
 
 The optimal waterfall uses parallel pathways, not linear flow. Multipoint routing eliminates single-venue failure and prevents liquidity pockets from locking under stress. Recovery factors matter. In crypto markets, price impacts cascade faster than traditional commodity markets. Recoveries depend on native depth, cross-venue arbitrage, and path independence of liquidation engines. A well-structured allocator stack incorporates real-time liquidity surveillance and automated withdrawal protocols. Survival is not reactive. It is engineered. Funding curves are where the architecture becomes profitable. Perpetual swap markets express the risk appetite of leveraged participants. When funding curves remain dislocated from spot for extended periods, liquidity providers can extract structural yield without directional exposure. Sovereign allocators underutilize this mechanic. They could run delta-neutral funding harvests at scale. Capital efficiency increases by a factor of three compared to static exposure. Collateral mobility is the final mechanic. Portability is the new advantage. Crypto collateral can be staked, lent, hedged, tokenized, or rehypothecated with near-zero settlement friction. The allocator who controls mobility unlocks synthetic liquidity without overextending leverage. The allocator who ignores mobility pays the opportunity cost of idle capital.
 

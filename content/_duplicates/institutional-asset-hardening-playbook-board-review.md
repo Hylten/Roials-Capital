@@ -40,15 +40,15 @@ Asset-Backed Frameworks Capital Structuring is not merely treasury management. I
 
 Asset Hardening Asset hardening converts operational assets into financeable collateral that withstands institutional scrutiny. It requires precision in documentation, valuation defensibility, and de-risked operational baselines. For funds preparing for 5B+ reviews, the hardening process must be auditable. Evaluators focus on defensibility, not optimism. A hardened asset becomes a reusable financing substrate, preserving capital formation capacity across multiple acquisition cycles. Sector Specific Hardening Example: North American Energy The Alberta basin provides a clear illustration. Heavy oil assets with established decline curves and measurable recovery physics have become strategically favored by private credit committees. SAGD and CSS fields demonstrate high transparency of recovery mechanics. The viscosity characteristics of bitumen and the thermal recovery profiles create underwriting environments with superior predictability relative to unconventional shale. Our strategic partner NAEO structures development programs with operational discipline that boards favor:
 
-- predictably modeled decline rates,
+- Predictably modeled decline rates,
 
-- modular capital deployment,
+- Modular capital deployment,
 
-- multi-phase recompletions that extend field life,
+- Multi-phase recompletions that extend field life,
 
-- steam-to-oil ratios that can be optimized through incremental capital,
+- Steam-to-oil ratios that can be optimized through incremental capital,
 
-- surface facility redundancy that reduces operational downtime risks.
+- Surface facility redundancy that reduces operational downtime risks.
 
 Institutions are not targeting volatility. They are targeting assets where physics and engineering reduce uncertainty. Heavy oil, when executed with disciplined development models, offers this predictability.
 
@@ -72,13 +72,13 @@ Stewardship is not an ethical overlay. It is a technical discipline that safegua
 
 Allocators recognize stewardship when operators exhibit discernment in capital use, not aggressiveness in capital consumption. Stewardship in practice includes:
 
-- rejecting leverage structures that increase fragility without proportionate value creation,
+- Rejecting leverage structures that increase fragility without proportionate value creation,
 
-- building governance systems that prevent drift in operational standards,
+- Building governance systems that prevent drift in operational standards,
 
-- deploying capital where empirical evidence reduces uncertainty,
+- Deploying capital where empirical evidence reduces uncertainty,
 
-- maintaining uncorrelated liquidity reserves to protect the portfolio during external volatility.
+- Maintaining uncorrelated liquidity reserves to protect the portfolio during external volatility.
 
 The theology of capital is grounded in stewardship principles articulated in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 

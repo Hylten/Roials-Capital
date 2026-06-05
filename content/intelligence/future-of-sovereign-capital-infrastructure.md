@@ -125,5 +125,5 @@ The allocator evaluating the future of sovereign capital infrastructure must nav
 
 The objective is not transactional deployment but long term structural alignment. [END OF BRIEFING]
 
-# 
+## 
 

@@ -8,8 +8,7 @@ description: >-
   optionality.
 date: '2026-01-07'
 author: Jonas Hyltén
-slug: >-
-  strategic-asset-allocation-for-long-term-liquidity-the-architecture-of-durable-capital
+slug: strategic-asset-allocation-for-long-term-liquidity-the-architecture-of-durable-capital
 ---
 # Strategic Asset Allocation for Long-Term Liquidity The pursuit of long-term liquidity is no longer an optional configuration for sophisticated capital. It has become an operational necessity, a structural discipline, and a defining characteristic that separates passive wealth holders from capital architects who understand the mechanics behind institutional-grade allocation.
 

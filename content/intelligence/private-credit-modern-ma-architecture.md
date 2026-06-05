@@ -58,15 +58,15 @@ Stewardship in capital architecture is defined as non wasteful resource manageme
 
 In private credit, stewardship is expressed through:
 
-- disciplined loan structuring
+- Disciplined loan structuring
 
-- avoidance of excessive leverage
+- Avoidance of excessive leverage
 
-- alignment of operating behavior with capital discipline
+- Alignment of operating behavior with capital discipline
 
-- protection of enterprise value during integration
+- Protection of enterprise value during integration
 
-- reinforcement of long term stability rather than short term extraction Stewardship becomes the mechanism that prevents capital erosion and ensures continuity of operational assets across cycles.
+- Reinforcement of long term stability rather than short term extraction Stewardship becomes the mechanism that prevents capital erosion and ensures continuity of operational assets across cycles.
 
 The theology of capital is not theoretical. It is a practical framework for managing complex acquisitions where timing, discipline, and execution determine long term outcomes.
 
@@ -74,17 +74,17 @@ The theology of capital is not theoretical. It is a practical framework for mana
 
 Institutional allocators analyzing private credit’s role in M&A must apply a specific decision making lens. The evaluation is not based on coupons, market narratives, or comparative yield. It is based on structural relevance. The allocator assesses whether private credit provides:
 
-- timing control in acquisition cycles
+- Timing control in acquisition cycles
 
-- structural protection through seniority and collateral
+- Structural protection through seniority and collateral
 
-- stability during integration phases
+- Stability during integration phases
 
-- alignment with operating partners
+- Alignment with operating partners
 
-- predictable capital deployment velocity
+- Predictable capital deployment velocity
 
-- transparency of downside scenarios This briefing functions as a high altitude map of
+- Transparency of downside scenarios This briefing functions as a high altitude map of
 
 THE REGIME SHIFT reshaping modern M&A architecture. Allocators requiring sector specific calibration, transaction level visibility, or operator matched introductions can proceed to a confidential strategy audit designed to align institutional objectives with market reality. [END OF INSTITUTIONAL BRIEFING]
 
