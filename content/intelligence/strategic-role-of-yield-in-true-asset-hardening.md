@@ -60,7 +60,7 @@ When yield stabilizes collateral performance, the line of credit functions as a 
 
 3. Balance sheet optimization.
 
-Yield drives the resonance between operating assets and financing instruments. High yield assets allow lower reliance on unsecured debt and reduce refinancing risk. Yield inside an ABL facility is not a passive attribute. It is an engineered characteristic that improves operational liquidity and reduces the volatility of cash conversion cycles. This is the foundation of Liquidity Engineering. C. North American Energy (NAEO Institutional Archetype) Conventional energy assets within Alberta operate under physics that produce mechanically predictable yield profiles. This distinguishes them from other industrial assets and makes them uniquely suited for asset hardening. Primary factors:
+Yield drives the resonance between operating assets and financing instruments. High yield assets allow lower reliance on unsecured debt and reduce refinancing risk. Yield inside an ABL facility is not a passive attribute. It is an engineered characteristic that improves operational liquidity and reduces the volatility of cash conversion cycles. This is the foundation of Liquidity Engineering. C. North American Energy (energy operations Institutional Archetype) Conventional energy assets within Alberta operate under physics that produce mechanically predictable yield profiles. This distinguishes them from other industrial assets and makes them uniquely suited for asset hardening. Primary factors:
 
 1. Decline curve determinism.
 
@@ -68,7 +68,7 @@ Conventional heavy oil in Alberta follows decline curves with decades of empiric
 
 2. Recovery factor stability.
 
-Technologies such as SAGD and CSS enhance recoverability without introducing destabilizing cost variability. They allow operators like our strategic partner NAEO to anchor yield around repeatable extraction cycles.
+Technologies such as SAGD and CSS enhance recoverability without introducing destabilizing cost variability. They allow operators like our strategic partner energy operations to anchor yield around repeatable extraction cycles.
 
 3. Reservoir physics.
 
@@ -84,7 +84,7 @@ Alberta maintains consistent permitting standards that reduce project cycle vari
 
 Roials Capital functions as an institutional navigator that introduces allocators to structurally coherent opportunities. The firm does not serve as operator, manager, or asset owner. Instead, its role is to engineer alignment between allocators and the institutional archetypes capable of producing hardened assets.
 
-## The Mandat E
+## The Mandate
 
 distribution aligns with the demands of modern portfolio construction.
 
@@ -98,13 +98,13 @@ Here the priority is the construction of balance sheet architectures where yield
 
 3. 10 percent special mandates.
 
-These include NAEO energy capitalizations between 50 million and 250 million dollars, and select EU MiFID II compliant acquisition pathways for institutions expanding their continental footprint. In each case, Roials Capital provides three forms of intelligence. A. Structural Intelligence. Analysis of asset class mechanics, yield stability, cross collateralization logic, and risk propagation patterns across the capital stack. B. Strategic Alignment Intelligence. Mapping the allocator’s objectives, regulatory boundaries, and liquidity requirements against the asset archetype. C. Operational Intelligence. Translating TECHNICAL MECHANICS into decision relevant information that supports institutional calibration. This partnership model maintains neutrality. The allocator retains full discretion. Roials Capital provides clarity, filters complexity, and maintains strategic alignment across all interactions.
+These include energy capitalizations between 50 million and 250 million dollars, and select EU MiFID II compliant acquisition pathways for institutions expanding their continental footprint. In each case, Roials Capital provides three forms of intelligence. A. Structural Intelligence. Analysis of asset class mechanics, yield stability, cross collateralization logic, and risk propagation patterns across the capital stack. B. Strategic Alignment Intelligence. Mapping the allocator’s objectives, regulatory boundaries, and liquidity requirements against the asset archetype. C. Operational Intelligence. Translating TECHNICAL MECHANICS into decision relevant information that supports institutional calibration. This partnership model maintains neutrality. The allocator retains full discretion. Roials Capital provides clarity, filters complexity, and maintains strategic alignment across all interactions.
 
 ### Phase IV:
 
 ## The Stewardship Filter
 
-Stewardship is not a marketing concept. It is a discipline within capital allocation that evaluates the degree to which capital is employed in a manner consistent with non wasteful resource management. This discipline aligns with the Biblical principle that a good person leaves an inheritance for future generations "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
+Stewardship is not a marketing concept. It is a discipline within capital allocation that evaluates the degree to which capital is employed in a manner consistent with non wasteful resource management. This discipline aligns with the Biblical principle that a good person leaves an inheritance for future generations
 
 * .
 

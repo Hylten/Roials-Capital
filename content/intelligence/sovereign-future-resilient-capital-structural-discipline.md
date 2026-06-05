@@ -53,7 +53,7 @@ Replacement cost inflation in Alberta has increased the strategic significance o
 
 5. Cash Flow Stability Through Thermal Control Thermal control acts as a yield stabilizer.
 
-Since viscosity decreases predictably with heat, operators can modulate steam to maintain production consistency. This stability is why institutional allocators increasingly classify thermal heavy oil not as speculative upstream but as quasi infrastructure. These mechanics define the operational reliability of the Alberta heavy oil archetype. NAEO, our strategic partner, specializes in this reservoir class and maintains operational control frameworks designed to maximize thermal efficiency and minimize steam to oil ratios. The resulting operational intelligence forms the backbone of institutional confidence.
+Since viscosity decreases predictably with heat, operators can modulate steam to maintain production consistency. This stability is why institutional allocators increasingly classify thermal heavy oil not as speculative upstream but as quasi infrastructure. These mechanics define the operational reliability of the Alberta heavy oil archetype. energy operations, our strategic partner, specializes in this reservoir class and maintains operational control frameworks designed to maximize thermal efficiency and minimize steam to oil ratios. The resulting operational intelligence forms the backbone of institutional confidence.
 
 ## The Partnership Model
 
@@ -67,7 +67,7 @@ The allocation focus centers on operationally mature targets, balance sheet opti
 
 Liquidity engineering is executed through LTV curves, matched duration structures, and contractual cash flow mapping. These facilities support operational continuity without creating excessive risk layering.
 
-3. Special Mandates in Energy and European Acquisitions NAEO serves as the institutional grade partner for North American energy opportunities in the
+3. Special Mandates in Energy and European Acquisitions energy operations serves as the institutional grade partner for North American energy opportunities in the
 
 50 million to 250 million USD range. The partnership is grounded in operational transparency, technical measurement discipline, and infrastructure embeddedness. For European acquisitions under MiFID II, we serve as introducers and analysts, ensuring that institutional participants navigate regulatory constraints while maintaining alignment with stewardship objectives. Roials Capital's role is to translate complex operational domains into clear institutional decision paths. The partnership model is structured around neutrality, alignment, and technical clarity rather than product distribution.
 
@@ -75,7 +75,7 @@ Liquidity engineering is executed through LTV curves, matched duration structure
 
 Stewardship is the discipline of non wasteful resource management. It is an operational principle rooted in strategic responsibility rather than moral abstraction.
 
-Within capital formation, stewardship functions as a filter for decision quality. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
+Within capital formation, stewardship functions as a filter for decision quality.
 
 * asserts that legacy is built through disciplined resource allocation.
 

@@ -55,7 +55,7 @@ Modern Asset-Based Lending structures incorporate dynamic borrowing bases, optio
 
 Roials Capital operates as a strategic navigator within this liquidity environment.
 
-## The Mandat E
+## The Mandate
 
 is not intermediation but alignment. The objective is to structure pathways, introduce institutionally compatible partners, and define the architecture that allows liquidity to move efficiently across borders, sectors, and collateral types. The partnership model operates on three primary vectors.
 
@@ -63,21 +63,20 @@ is not intermediation but alignment. The objective is to structure pathways, int
 
 These include control buyouts, platform expansion strategies, and multi asset portfolio structures. The value lies in compressing fundraising friction, establishing alignment with European and North American allocators, and enhancing structural cohesion between LP expectations and GP strategy.
 
-2. Monetization Architecture for High Value Assets Roughly 10 percent of THE MANDATE
+2. Monetization Architecture for High Value Assets Roughly 10 percent of The Mandate
 
 focuses on Monetization Architecture through asset backed lending, structured credit, and collateral optimization. The objective is to extend liquidity to operators, family offices, and institutions with strong underlying assets but insufficient leverageable liquidity within traditional channels.
 
-3. Special Mandates The remaining segment includes cross border acquisitions, MiFID II regulated transactions, and the Alberta NAEO energy mandate ranging from 50M to 250M.
+3. Special Mandates The remaining segment includes cross border acquisitions, MiFID II regulated transactions, and the Alberta energy mandate ranging from 50M to 250M.
 
-The NAEO partnership reflects institutional grade matching between predictable heavy oil assets and sophisticated private capital. The objective is technical clarity, not solicitation. NAEO operates heavy oil assets with established decline curves and mature production mechanisms including SAGD and CSS. These assets provide predictable operational physics that align with institutional liquidity structures. Roials Capital positions itself as the strategist, not the asset owner. The focus is governance, precision, and structural integrity.
+The energy operations partnership reflects institutional grade matching between predictable heavy oil assets and sophisticated private capital. The objective is technical clarity, not solicitation. energy operations operates heavy oil assets with established decline curves and mature production mechanisms including SAGD and CSS. These assets provide predictable operational physics that align with institutional liquidity structures. Roials Capital positions itself as the strategist, not the asset owner. The focus is governance, precision, and structural integrity.
 
 ## The Stewardship Filter
 
 Stewardship is the discipline of deploying capital without waste. It is the doctrine that resources are finite and must be managed with precision, accountability, and long term foresight.
 
-The Theology of Capital recognizes that capital is a stewardship instrument, not a consumption tool. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
+The Theology of Capital recognizes that capital is a stewardship instrument, not a consumption tool.
 
-* establishes a generational perspective on wealth transfer that aligns with long dated asset strategies.
 
 In Strategic Collateralization, stewardship manifests through adherence to four principles.
 
@@ -95,7 +94,7 @@ Liquidity architecture should extend the operational horizon, not compress it.
 
 ## Decision Making Lens for the Allocator
 
-Allocators must navigate a capital landscape where structural inefficiencies produce both friction and opportunity. The institutions that succeed in this environment will be those that internalize Capital Structuring as a strategic discipline rather than a transactional solution. A comprehensive evaluation requires assessment of collateral behavior, balance sheet maturity, capital stack cohesion, and opportunity velocity. Institutions often discover that dormant value can be unlocked through structural engineering rather than additional equity deployment. Roials Capital provides confidential strategy audits for allocators analyzing Fund-III+ capital formation, high value asset liquidity pathways, or energy sector alignment through the NAEO technical framework. The objective is to equip decision makers with the operational intelligence required to navigate the current regime. [END BRIEFING]
+Allocators must navigate a capital landscape where structural inefficiencies produce both friction and opportunity. The institutions that succeed in this environment will be those that internalize Capital Structuring as a strategic discipline rather than a transactional solution. A comprehensive evaluation requires assessment of collateral behavior, balance sheet maturity, capital stack cohesion, and opportunity velocity. Institutions often discover that dormant value can be unlocked through structural engineering rather than additional equity deployment. Roials Capital provides confidential strategy audits for allocators analyzing Fund-III+ capital formation, high value asset liquidity pathways, or energy sector alignment through the energy operations technical framework. The objective is to equip decision makers with the operational intelligence required to navigate the current regime. [END BRIEFING]
 
 # 
 

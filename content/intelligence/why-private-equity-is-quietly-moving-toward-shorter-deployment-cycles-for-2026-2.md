@@ -56,13 +56,9 @@ THE Roials Capital POSITION We sit where institutional flows converge. Capital r
 Private credit structuring. Cross‑border industrial acquisition. This vantage point offers a clean view: the compression is not temporary. It is structural. It is strategic. It is advantageous for those who understand its mechanics. Our Fund‑III partners across North America and Europe have already begun:
 
 - 2026-2028 vintages running 18
-
 - 30 month deployment windows.
-
 - Add‑on pipelines pre‑underwritten before fund close.
-
 - Direct industrial lending aligned to transaction tempo.
-
 - Cross‑border legal harmonization eliminating time waste.
 
 This is border‑agnostic execution. This is principal‑grade discipline.
@@ -85,7 +81,7 @@ THE PRIVATE CREDIT ENGINE (10% FOCUS) When discussing Asset‑Based Lending, Roi
 
 This maintains the quality of the credit stack. Structured correctly, Asset‑Based Lending becomes the counterweight to compressed deployment cycles. It supports closing velocity without compromising underwriting integrity. This advantage compounds across every Fund‑III acquisition.
 
-THE SPECIAL MANDATE VECTOR (10% FOCUS) NAEOC mandates in the $50M,$250M range are accelerating due to infrastructure renewal, grid reinforcement, and energy‑adjacent industrial consolidations. MiFID II acquisition mandates across the EU expand simultaneously as regulatory harmonization strengthens cross‑border transaction certainty.
+THE SPECIAL MANDATE VECTOR (10% FOCUS) energy mandates in the $50M,$250M range are accelerating due to infrastructure renewal, grid reinforcement, and energy‑adjacent industrial consolidations. MiFID II acquisition mandates across the EU expand simultaneously as regulatory harmonization strengthens cross‑border transaction certainty.
 
 These mandates feed back into the deployment cycle. More clarity equals faster movement. More alignment equals confident close. The flywheel tightens.
 
@@ -98,15 +94,10 @@ THE 2026-2028 OUTLOOK The most important insight for principals: the compression
 Reasons:
 
 - LPs expect faster velocity permanently
-
 - Industrial families are succession‑ready in record numbers
-
 - Digital infrastructure accelerates diligence
-
 - Private credit removes dependency on slow banking cycles
-
 - Platforms provide structural leverage for continuous add‑on execution
-
 - Cross‑border legal standardization reduces transaction fatigue These forces will not reverse.
 
 They will deepen. The Fund‑III era will be the first fully compressed generation. The Fund‑IV era will make it the norm. By Fund‑V, it will be baseline doctrine. Those who adjust will lead deployments. Those who resist will be reclassified.

@@ -46,9 +46,7 @@ LTV curves have shifted due to more conservative collateral recognition. In tang
 In 2026, asset hardening operates as a principal protective measure. Collateral packages increasingly integrate:
 
 - Multi asset cross collateralisation
-
 - Covenant based performance triggers
-
 - Real time reporting protocols
 
 -
@@ -67,7 +65,7 @@ In this cycle, the critical competitive differentiator for private credit manage
 
 6. Counter cyclical visibility in heavy oil and Alberta based conventional energy.
 
-While not part of the primary private credit bucket, it is relevant to strategic allocators. Recovery physics in Alberta SAGD and CSS assets produce predictable decline curves. This creates credit friendly cash flow visibility when managed by an institutional operator. Our strategic partner NAEO exemplifies this with operational intelligence, long life reserves, and frictionless balance sheet transparency.
+While not part of the primary private credit bucket, it is relevant to strategic allocators. Recovery physics in Alberta SAGD and CSS assets produce predictable decline curves. This creates credit friendly cash flow visibility when managed by an institutional operator. Our strategic partner energy operations exemplifies this with operational intelligence, long life reserves, and frictionless balance sheet transparency.
 
 ## The Partnership Model and
 
@@ -82,20 +80,17 @@ The dominant requirement for private equity GPs in 2026 is structured capital ag
 For operating companies and PE backed platforms, liquidity engineering now serves as the stabilising core that enables:
 
 - Acquisition reliability
-
 - Covenant compliance
-
 - Optionality for operational resets
-
 - Acceleration of strategic add ons Roials Capital analyses collateral integrity, operational variability, and working capital elasticity to identify lenders whose structural preferences align with the company profile.
 
 3. Special mandates.
 
 Two verticals define the current mandate stream:
 
-- North American Energy Operations Corporation (NAEOC), focusing on institutional Alberta energy acquisitions in the 50M to 250M range.
+- North American Energy Operations Corporation (energy mandates), focusing on institutional Alberta energy acquisitions in the 50M to 250M range.
 
-The alignment with NAEO provides allocators access to operational environments where physics, rather than market cycles, determine predictability.
+The alignment provides allocators access to operational environments where physics, rather than market cycles, determine predictability.
 
 - EU MiFID II compliant acquisition frameworks requiring jurisdictional coherence, regulatory harmonisation, and controlled counterparty exposure.
 
@@ -105,7 +100,7 @@ The partnership model functions without solicitation language. It is technical a
 
 Stewardship in institutional credit is not moral abstraction. It is resource governance.
 
-The principle is anchored in the scriptural foundation of "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
+The principle is anchored in the scriptural foundation of
 
 * .
 
@@ -137,7 +132,7 @@ Speed of execution is now a risk reducer. Platforms capable of rapid underwritin
 
 4. Cross cycle predictability.
 
-The allocator prioritises environments with measurable physics. This includes industrial operations, hard asset collateral, and long life resource reservoirs such as Alberta SAGD or CSS assets managed by institutional partners like NAEO.
+The allocator prioritises environments with measurable physics. This includes industrial operations, hard asset collateral, and long life resource reservoirs such as Alberta SAGD or CSS assets managed by institutional partners like energy operations.
 
 5. Strategic alignment.
 

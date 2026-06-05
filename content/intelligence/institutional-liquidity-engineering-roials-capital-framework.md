@@ -37,11 +37,8 @@ Capital Structuring Institutional grade Strategic Collateralization differs from
 This typically includes:
 
 - Inventory conversion ratios
-
 - Machinery residual value indexing
-
 - Receivables aging stratification
-
 - Contracted revenue segmentation Hardening does not increase leverage.
 
 It increases measurement fidelity.
@@ -51,9 +48,7 @@ It increases measurement fidelity.
 The geometry defines how liquidity interacts with senior, mezzanine, and equity layers. A Institutional Liquidity Paths agreement is structured to:
 
 - Sit in a senior or super senior position
-
 - Maintain predictable coverage ratios
-
 - Avoid any structural entanglement with enterprise value underwriting The objective is not risk dilution.
 
 The objective is risk containment.
@@ -67,11 +62,8 @@ Institutional Asset-Backed Frameworks uses dynamic LTV curves that adjust LTV as
 The waterfall is not punitive. It is a sequencing device. Common waterfall tiers include:
 
 - Tier 1: Core operations
-
 - Tier 2: Liquidity agreement servicing
-
 - Tier 3: Supplier stabilization
-
 - Tier 4: Expansion optionality This design eliminates ambiguity and improves institutional comfort.
 
 5. Liquidity Corridor Calibration The corridor defines the allowable range of liquidity provided to the borrower.
@@ -100,15 +92,14 @@ Roials Capital operates as a strategic navigator and institutional introducer ra
 
 3. Special Mandates:
 
-10 percent This includes MiFID II European acquisition structures and the North American Energy Optimization Corridor through NAEO, which manages institutional grade heavy oil development exposures. While outside the scope of this Strategic Collateralization briefing, the NAEO platform represents a case study in operational discipline. The Roials Capital position is intentionally neutral. The firm is not an issuer and does not provide investment advice. It is a technical partner that maps operational truth to institutional capital frameworks.
+10 percent This includes MiFID II European acquisition structures and the North American Energy Optimization Corridor, which manages institutional grade heavy oil development exposures. While outside the scope of this Strategic Collateralization briefing, the energy operations platform represents a case study in operational discipline. The Roials Capital position is intentionally neutral. The firm is not an issuer and does not provide investment advice. It is a technical partner that maps operational truth to institutional capital frameworks.
 
 ## The Stewardship Filter
 
 Stewardship is not a moral abstraction. It is a capital discipline defined by precision, non wasteful allocation, and long duration orientation.
 
-The framework draws from principles such as "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
+The framework draws from principles such as
 
-* which emphasizes generational foresight and responsible management.
 
 For Monetization Architecture agreements, stewardship involves:
 

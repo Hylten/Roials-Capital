@@ -1,16 +1,16 @@
 ---
 title: 'Energy Security Capital: The Quiet Displacement of Legacy Infrastructure Funds'
 description: >-
-  Analysis of how NAEOC mandates are outmaneuvering traditional infrastructure
+  Analysis of how energy mandates are outmaneuvering traditional infrastructure
   vehicles through jurisdictional structuring, covenant shifts, and
   capital-stack dominance.
 date: '2025-08-18'
 author: Roials Capital
 slug: energy-security-capital-naeoc-infrastructure-displacement
 ---
-NAEOC structures cut straight through the old guard. Direct mandates. State-backed certainty. Industrial throughput guaranteed. Legacy infrastructure funds cannot compete with that leverage stack. They rely on committee tempo. NAEOC runs on sovereign tempo. Different universe. Capital flows toward command clarity. NAEOC provides it. Long-duration hydrocarbons. Cross-border pipelines. Refinery expansions aligned with defense corridors. All pre-secured. All pre-rationalized. No syndication theater. The displacement is mechanical. NAEOC absorbs midstream risk. Then weaponizes certainty to lock long-horizon yield. Traditional infra funds cannot chase those margins without breaking their own covenants. Fund-III allocators already see the shift. The buyout math changes when energy security becomes a national objective rather than a market trend. Control premiums widen. Add-on velocity accelerates. Downside calculus shrinks. For capital raising, this is the window. Fund-III+ becomes the preferred instrument for institutional LPs demanding insulated deployments. NAEOC alignment increases the clearance rate of large checks.
+energy mandates structures cut straight through the old guard. Direct mandates. State-backed certainty. Industrial throughput guaranteed. Legacy infrastructure funds cannot compete with that leverage stack. They rely on committee tempo. energy mandates runs on sovereign tempo. Different universe. Capital flows toward command clarity. energy mandates provides it. Long-duration hydrocarbons. Cross-border pipelines. Refinery expansions aligned with defense corridors. All pre-secured. All pre-rationalized. No syndication theater. The displacement is mechanical. energy mandates absorbs midstream risk. Then weaponizes certainty to lock long-horizon yield. Traditional infra funds cannot chase those margins without breaking their own covenants. Fund-III allocators already see the shift. The buyout math changes when energy security becomes a national objective rather than a market trend. Control premiums widen. Add-on velocity accelerates. Downside calculus shrinks. For capital raising, this is the window. Fund-III+ becomes the preferred instrument for institutional LPs demanding insulated deployments. structural alignment increases the clearance rate of large checks.
 
-## The Mandat E
+## The Mandate
 
 itself functions as a stabilizer.
 

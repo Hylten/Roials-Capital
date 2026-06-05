@@ -71,11 +71,8 @@ Risk Management at the Institutional Frontier Risk management in decentralized p
 It reshapes it. The primary risks shift toward:
 
 - Collateral volatility
-
 - Liquidation timelines
-
 - Liquidity depth in secondary markets
-
 - Smart contract reliability Roials Capital incorporates these variables into its structural models, ensuring that balance sheet optimization frameworks remain stable even as market conditions evolve.
 
 The objective is not to chase risk. The objective is to neutralize it. HNWI and UHNW clients operate with capital loads that cannot absorb avoidable unpredictability. Therefore, every mechanism must be engineered for clarity.

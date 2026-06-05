@@ -22,7 +22,7 @@ Seniority is not a label. It is a spatial coordinate. Senior secured instruments
 
 Friction defines cost. Cost defines leverage tolerance. Compliance drag is the hidden risk premium. Most private credit managers price risk at the counterparty level. Institutional investors price risk at the jurisdictional level.
 
-Especially in energy (NAEOC $50M.$250M range) and cross-border MiFID II acquisitions.
+Especially in energy (energy mandates range) and cross-border MiFID II acquisitions.
 
 Regulatory context determines liquidity velocity. Filing cadence. Audit exposure. Enforcement probability. These factors stretch or compress timelines. Credit wants certainty more than anything else. Jurisdictional drag destroys certainty. Compliance drag is often larger than credit risk. Long delays erode IRR. Force covenants. Trigger renegotiations. Create institutional fatigue. It also misaligns sponsor and lender incentives. Fund-III must demonstrate compliance drag reduction as a core discipline, not a reactive process. Control the friction and you control the yield. Control the yield and you control the raise. - -
 
@@ -54,7 +54,7 @@ Process transparency. Time discipline. Outcome dominance shows the LP that resul
 
 Monetization Architecture functions as a shock-absorption layer. It stabilizes operating companies. It protects the credit structure. It creates covenant resilience. Asset-Based Lending as Capital Structuring is no longer a working capital tool. It is a capital velocity instrument. It converts static inventory into dynamic liquidity. It creates motion. Motion increases survivability. Machine gun lines: Liquidity protects yield. Yield protects governance. Governance protects seniority. Asset-Based Lending must be embedded inside Fund-III acquisitions, not appended. Embedded liquidity multiplies predictability. Predictability multiplies commitments. Commitments scale the fund. - -
 
-- Special Mandates: NAEOC and MiFID II North American Energy Operating Companies require specialized credit architecture.
+- Special Mandates: energy mandates and MiFID II North American Energy Operating Companies require specialized credit architecture.
 
 Production cycles. Decline curves. Maintenance obligations. Commodity price asymmetry. Counterparty swap dependencies. These require technical mapping. Institutional investors only deploy in this segment when control mechanics are explicitly engineered. MiFID II acquisitions require transparency. Transaction-level reporting. Harmonized oversight. Cross-border risk filters. European regulatory cadence punishes credit managers who fail to model compliance drag. For Fund-III European expansion, these mandates must be structurally integrated. These special mandates demonstrate that Fund-III has cross-jurisdictional competence. This increases allocator confidence. - -
 
@@ -62,9 +62,8 @@ Production cycles. Decline curves. Maintenance obligations. Commodity price asym
 
 Trust is structural. Trust emerges when: Reporting is continuous. Corrections are immediate. Governance is visible. Risk is priced correctly. Language is consistent. When these conditions exist, institutional LPs increase allocation size without hesitation. Trust is predictable. Trust lowers friction. Friction lowers cost. Cost increases leverage capacity. Fund-III must present trust like an engineered product. - -
 
-- The Ethical Mandate of Capital "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
+- The Ethical Mandate of Capital
 
-* : A good man leaves an inheritance to his children's children.
 
 In institutional terms, this means stewardship. Capital stewardship. Structural stewardship. Governance stewardship. The portfolio must outlive cycles. Outlive teams. Outlive transient volatility. Outlive headlines. The private credit manager becomes the architect of continuity. - -
 

@@ -19,9 +19,7 @@ A liquidity shortage always begins as a structural illusion. The market believes
 The first principle is simple. Liquidity is no longer cheap. The hidden truth is even sharper. Most mid market buyout firms are structurally miscalibrated for the new liquidity cost curve. The gap is not philosophical. It is mechanical. Interest burden has doubled relative to EBITDA growth. Acquisition premiums have detached from cash flow certainty. Refinancing windows have compressed to an average of 22 months. This is not a cyclical anomaly. It is a structural reassessment of credit risk, driven by three forces:
 
 - Regulatory pressure on bank balance sheets under Basel IV.
-
 - Capital reallocation toward energy, infrastructure, and income based assets.
-
 - A global pivot toward collateral secured private credit.
 
 The outcome is predictable. Unsecured capital dies first. Transitional capital dies second. Unstructured equity dies last. The GP with a pure equity strategy is already operating on borrowed time. Capital Structuring has become a prerequisite for survival. The firm that cannot manufacture liquidity cannot scale AUM. That firm will eventually lose LP confidence. LPs have become intolerant of inefficiency. It is an era defined by capital scarcity disguised as capital abundance. Fund-III performance is no longer measured as a return metric. It is evaluated as a solvency indicator. LPs do not ask for projections. They ask for liquidity discipline. They look for predictive cash flow behavior, not narrative. The core inefficiency across mid market GP groups is simple. They allocate based on opportunity. The disciplined allocator deploys based on liquidity sequencing. The sequence creates the runway. Without the sequence, the strategy collapses.
@@ -37,9 +35,7 @@ Durable capital begins with structural cash flow. Structural cash flow begins wi
 A stable asset is not one that grows. A stable asset is one that does not deviate beyond a 9 percent volatility band. The most durable businesses in Fund-III portfolios demonstrate three traits:
 
 - Cash conversion above 72 percent.
-
 - Defensible receivables turnover within a 10 percent range.
-
 - EBITDA reversion cycles shorter than
 
 12 months. When volatility exceeds the band, liquidity dries up regardless of credit quality. The lender prices uncertainty, not risk.
@@ -74,9 +70,7 @@ A GP cannot raise Fund-III without demonstrating that operational architecture m
 LPs expect a disciplined capital raising architecture with:
 
 - Segmented LP profiles by liquidity type.
-
 - A three tiered commitment ladder that separates tactical capital from long duration capital.
-
 - A renewal protocol that ensures LPs reinvest not out of loyalty but out of structural confidence.
 
 The GP that cannot produce a capital durability score for each LP fails the institutional test. This is where most firms collapse. They assume commitments repeat. Institutional capital does not repeat without structural validation.
@@ -86,21 +80,17 @@ The GP that cannot produce a capital durability score for each LP fails the inst
 It is the liquidity stabilizer of the entire portfolio. The objective is not leverage. The objective is precision. Asset backed liquidity provides three advantages:
 
 - Predictable borrowing bases.
-
 - Reduced volatility in cash availability.
-
 - Increased lender participation in stressed conditions.
 
 Asset-Based Lending is the quiet architecture that keeps Fund-III solvent in year seven. Without it, the GP is building a house with no foundation.
 
 3. The 10 percent Special Mandate Corridor Special mandates are not distractions.
 
-They are strategic leverage points. Energy assets in the NAEOC corridor deliver high recovery factors. MiFID II acquisition opportunities provide regulatory arbitrage. Both categories strengthen the institutional footprint of the GP. When executed correctly, special mandates perform as:
+They are strategic leverage points. Energy assets in the energy corridor deliver high recovery factors. MiFID II acquisition opportunities provide regulatory arbitrage. Both categories strengthen the institutional footprint of the GP. When executed correctly, special mandates perform as:
 
 - Yield stabilizers.
-
 - Risk reducers.
-
 - LP magnetizers.
 
 LPs want optionality. They invest in GPs who can create optionality as an operating system, not as a side project.
@@ -111,9 +101,8 @@ LPs want optionality. They invest in GPs who can create optionality as an operat
 
 Durable capital is a moral structure before it is a financial one. Stewardship is not moral sentimentalism. Stewardship is the discipline that prevents waste.
 
-Waste destroys compounding. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
+Waste destroys compounding.
 
-* establishes the principle of intergenerational capital transfer.
 
 The modern GP translates that ancient mandate into operational architecture. A Fund-III steward operates on three convictions:
 

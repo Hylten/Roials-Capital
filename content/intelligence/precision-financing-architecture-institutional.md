@@ -45,11 +45,8 @@ Institutional grade capital formation requires a multi vector structure that int
 A. The GP requires capital formation tools that optimize Opportunity Velocity without increasing operational risk. B. Cross border LP onboarding introduces time dependencies that require compliance ready documentation, harmonized reporting, and standardized information rights. C. Multi asset accumulation during buyout or add on cycles requires debt architectures that do not dilute acquisition speed. Institutional capital raising at this stage focuses on:
 
 - Equity stack optimization around predictable hurdle structures.
-
 - Cross collateralization tolerance thresholds across multiple portfolio entities.
-
 - LP profiling aligned with jurisdictional capital flows from US, EU, Switzerland, and UAE.
-
 - Deployment pacing calibrated to macro liquidity cycles.
 
 2. Liquidity Engineering and Asset Based Structures Liquidity engineering is the ability to transform operational assets into strategic financial mobility.
@@ -57,18 +54,15 @@ A. The GP requires capital formation tools that optimize Opportunity Velocity wi
 It is not a traditional Asset-Based Lending program. It is a form of calibrated balance sheet optimization built around:
 
 - Hard asset valuation with replacement cost indexing.
-
 - Working capital rotation cycles anchored to predictable receivable behavior.
-
 - Multi lien layering that protects seniority without impairing expansion activities.
-
 - Dynamic covenant frameworks that maintain operational flexibility in high velocity acquisition cycles.
 
 For UHNWIs and institutional LPs, this segment functions as a structural shock absorber. It enables capital rotation without reliance on external macro cycles.
 
 3. Special Mandate Capital Special mandates operate at the intersection of technical asset intelligence and global liquidity flows.
 
-There are three principal categories. A. North American Energy Operations Capital between 50M and 250M This segment is largely driven by structural undercapitalization in Alberta and Saskatchewan. The TECHNICAL MECHANICS center on reservoir quality, steam oil ratios, decline curve predictability, fluid dynamics, and SAGD or CSS compatibility. NAEO functions as the institutional grade operator in this sector, with repeatable execution cycles and standardized underwriting data. B. EU Acquisition Mandates under MiFID II These mandates focus on regulatory conforming acquisition architectures with harmonized investor protections and jurisdictional clarity in reporting. They require precision in LTV calibration and cash flow waterfall design. C. Global Expansion Projects with asset hardening potential These require advanced cross border structuring to protect capital seniority and ensure alignment with institutional archetypes.
+There are three principal categories. A. North American Energy Operations Capital between 50M and 250M This segment is largely driven by structural undercapitalization in Alberta and Saskatchewan. The TECHNICAL MECHANICS center on reservoir quality, steam oil ratios, decline curve predictability, fluid dynamics, and SAGD or CSS compatibility. energy operations functions as the institutional grade operator in this sector, with repeatable execution cycles and standardized underwriting data. B. EU Acquisition Mandates under MiFID II These mandates focus on regulatory conforming acquisition architectures with harmonized investor protections and jurisdictional clarity in reporting. They require precision in LTV calibration and cash flow waterfall design. C. Global Expansion Projects with asset hardening potential These require advanced cross border structuring to protect capital seniority and ensure alignment with institutional archetypes.
 
 ### Phase III:
 
@@ -86,7 +80,7 @@ It includes cash flow sequencing, protection features, collateral positioning, a
 
 3. Operational Intelligence This ensures that the underlying operator has predictable, verifiable, and scalable execution models.
 
-In energy, NAEO fulfills this role due to engineering precision, reservoir diagnostics, and operational data transparency. The partnership model creates a separation of powers that produces structural stability for institutional allocators. Roials Capital focuses on strategic alignment and architecture. NAEO or other sector specific operators focus on technical execution. This separation creates institutional clarity and reduces cross functional risk.
+In energy, energy operations fulfills this role due to engineering precision, reservoir diagnostics, and operational data transparency. The partnership model creates a separation of powers that produces structural stability for institutional allocators. Roials Capital focuses on strategic alignment and architecture. energy operations or other sector specific operators focus on technical execution. This separation creates institutional clarity and reduces cross functional risk.
 
 ### Phase IV:
 
@@ -94,9 +88,8 @@ In energy, NAEO fulfills this role due to engineering precision, reservoir diagn
 
 Stewardship is the discipline of ensuring that capital is deployed in accordance with both economic and ethical responsibility. It is not philanthropy. It is the responsible governance of resource allocation. Across institutional mandates, stewardship takes four forms.
 
-1. Non wasteful Resource Management Capital must be directed into projects where the operational output justifies the resource consumption. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
+1. Non wasteful Resource Management Capital must be directed into projects where the operational output justifies the resource consumption.
 
-* outlines the generational obligation to steward assets responsibly.
 
 2. Systemic Risk Reduction Structures must be engineered to prevent unnecessary exposure to liquidity shocks or counterparty dependencies.
 
@@ -108,9 +101,7 @@ The stewardship filter forms the ethical and operational backbone of institution
 
 ### Phase V:
 
-## Strategic Decision Lens for Allocators
-
-Allocators across UHNW, Family Office, and Institutional LP categories benefit from applying a decision framework built around four calibration points.
+## Strategic Decision Lens for Allocators across UHNW, Family Office, and Institutional LP categories benefit from applying a decision framework built around four calibration points.
 
 1. Structural Alignment Does the financing architecture integrate with the allocator's long horizon objectives and risk tolerance?
 

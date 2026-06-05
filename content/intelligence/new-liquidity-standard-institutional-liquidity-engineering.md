@@ -35,9 +35,7 @@ Strategic Collateralization is not collateral lending. It is asset hardening. Th
 Static LTV is a retail concept. Institutional structures require dynamic LTV bands tied to three signals:
 
 - 30 day realized volatility
-
 - Average daily volume
-
 - Market cap decay or accretion over a
 
 180 day window If volatility rises or volume collapses, LTV bands compress automatically. The structure protects the borrower from forced liquidations and protects the lender from capital impairment. A 40 percent LTV instrument at inception may drift to 32 percent at the next monthly reset. That is discipline.
@@ -47,9 +45,7 @@ Static LTV is a retail concept. Institutional structures require dynamic LTV ban
 Every liquidity structure must resolve three flows:
 
 - Carry cost
-
 - Pledge maintenance
-
 - Free cash allocation for redeployment into Fund-III operations The waterfall cannot be linear.
 
 It must prioritize capital redeployment for buyout or add-on strategies once covenant health is secured. The structure exists not for liquidity itself but for reallocation into higher productivity capital.
@@ -59,15 +55,10 @@ It must prioritize capital redeployment for buyout or add-on strategies once cov
 Public shares are volatile. Recovery modeling requires stress testing across six scenarios:
 
 - 15 percent down shock
-
 - 30 percent down shock
-
 - 45 percent down shock
-
 - Three standard deviation volatility expansion
-
 - Four consecutive low volume weeks
-
 - Corporate action shocks, including dividend cut or guidance withdrawal We calibrate recovery not on issuer fundamentals but on market structure behavior.
 
 Recovery is not theological. It is mechanical. A private lender prices recovery probability against liquidity speed, not corporate health. This is the hidden truth most institutions overlook.
@@ -75,11 +66,8 @@ Recovery is not theological. It is mechanical. A private lender prices recovery 
 4. Covenant architecture.
 
 - LTV band compliance
-
 - Liquidity reserve compliance
-
 - Information rights for monitoring issuer events
-
 - Prohibition of secondary pledges A covenant is not a constraint.
 
 It is a survival protocol.
@@ -95,13 +83,9 @@ Institutional Liquidity Paths serves one purpose. Capital extraction for product
 The STRATEGIC MODEL for the New Liquidity Standard is a dual-track architecture. Two movements. One purpose. Movement One: Extraction. Structured liquidity removes capital from the public position without signaling exit. It converts market sensitive equity into covenant-bound private liquidity. The extraction must occur without triggering price impact. Block execution is eliminated. The public position remains intact. The principal receives liquidity independent of market conditions. Movement Two: Allocation. The extracted liquidity must enter productive operations. Fund-III requires capital for:
 
 - Buyout entries
-
 - Add-ons
-
 - Opportunistic distressed entries
-
-- Energy acquisition opportunities under NAEOC thresholds
-
+- Energy acquisition opportunities under energy mandates thresholds
 - MiFID II cross-border acquisitions Capital that remains idle decays.
 
 Capital that enters productive systems compounds. The liquidity structure is only the first gate. The principal must cross the gate. If liquidity sits in cash, the model fails. The dual-track model eliminates friction. It allows the principal to maintain public exposure while deploying capital into private structures with greater control, higher cash flow capture, and predictable exit mechanics. Institutions attempt to separate liquidity from allocation. This is a category error. The New Liquidity Standard integrates them. Extraction is only meaningful when paired with allocation velocity.
@@ -110,7 +94,7 @@ Capital that enters productive systems compounds. The liquidity structure is onl
 
 ## The Stewardship Filter
 
-Stewardship is not sentiment. It is accountability. Capital is not free. It is entrusted. Public concentration without Capital Structuring violates stewardship because it elevates risk without increasing productivity. The Book of Proverbs warns: A good man leaves an inheritance to his children's children "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
+Stewardship is not sentiment. It is accountability. Capital is not free. It is entrusted. Public concentration without Capital Structuring violates stewardship because it elevates risk without increasing productivity. The Book of Proverbs warns:
 
 * .
 
@@ -130,7 +114,7 @@ Optics destroy capital. Substance protects it. Stewardship is not conservative. 
 
 ### Phase V:
 
-## Exit the Mandat E
+## Exit the Mandate
 
 is simple: transform trapped public value into redeployable private capital without triggering market decay. The technical threshold is 38 to 44 percent institutional LTV stability across a 180 day volatility band. Request confidential capital audit.
 

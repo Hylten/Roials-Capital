@@ -40,15 +40,10 @@ Crypto collateral is not unsecured digital assets used informally for pledging. 
 nstitutional-grade collateral must reside in a custodial environment with:
 
 - SOC
-
 - 2 compliance
-
 - Segregated account logic
-
 - Real-time proof-of-reserves
-
 - Non rehypothecation
-
 - Multi signature exit protocols Unlike retail wallets, institutional-grade custody exists inside a regulated framework where collateral certainty can be validated at audit standard.
 
 2. Over Collateralization Requirements Institutional lenders using digital collateral require over collateralization ratios ranging from 140 percent to 300 percent depending on the asset, volatility profile, and jurisdiction.
@@ -58,11 +53,8 @@ This is materially different from legacy banking collateralization. Over collate
 3. Regulatory Harmonization Borderless collateral must conform to jurisdictional frameworks:
 
 - In the US: adherence to the SEC custody rule and FINRA communications guidance.
-
 - In the EU: MiFID II classification for alternative assets and PRIIPs reporting thresholds.
-
 - In Switzerland: DLT legislation and FINMA asset classification.
-
 - In the UAE: VARA oversight and capital mobility reporting lines.
 
 The purpose is not to bypass regulation but to harmonize compliance. The objective is regulatory clarity, not regulatory avoidance.
@@ -72,21 +64,15 @@ The purpose is not to bypass regulation but to harmonize compliance. The objecti
 This pipeline must maintain:
 
 - Clear identification of originating collateral
-
 - Traceability through the conversion process
-
 - Settlement reporting aligned with lender jurisdiction
-
 - Verified chain-of-custody The output is liquidity that can enter an M&A capital stack with formal legitimacy.
 
 This liquidity is then deployed into:
 
 - Fund-III buyout structures
-
 - Add-on acquisitions requiring compressed closing timelines
-
 - ABL frameworks where collateral coverage is insufficient for legacy lenders
-
 - Special mandates in energy, infrastructure, and cross border acquisitions This is liquidity engineering.
 
 It is the optimization of collateral, mobility, and time dependencies.
@@ -95,16 +81,14 @@ It is the optimization of collateral, mobility, and time dependencies.
 
 Roials Capital operates inside this landscape as a strategic navigator and institutional introducer. The objective is not asset management. The purpose is to create structural alignment between allocators, lenders, and acquisition vehicles. The partnership model is defined by three functions.
 
-1. Institutional INTRODUCTION
+1. Institutional Introduction
 
 Roials Capital identifies the archetype of the allocator. The goal is not to distribute product but to match strategic intent with the appropriate liquidity structure. Fund-III allocators often require rapid deployment. Private credit allocators require seniority and enforceability. European LPs require MiFID II governance overlays. UAE family offices require mobility and asset protection. The firm introduces each allocator archetype to the architecture that aligns with its operational requirements.
 
 2. Strategy Calibration Each allocator requires a unique calibration model:
 
 - For buyout sponsors: capital velocity and certainty of close.
-
 - For private credit issuers: collateral safety, seniority, and enforceability under cross-border conditions.
-
 - For UHNWIs: wealth mobility, asset protection, and cross-jurisdictional reporting integration.
 
 The calibration stage ensures the capital stack aligns with the structural requirements of the transaction.
@@ -114,16 +98,11 @@ The calibration stage ensures the capital stack aligns with the structural requi
 This includes:
 
 - Identifying regulatory bottlenecks
-
 - Structuring cross collateralization layers
-
 - Coordinating with custodial partners
-
 - Ensuring compliance with FINRA neutral communication standards
-
 - Managing KYC and AML consistency across jurisdictions
-
-- Harmonizing settlement procedures When energy transactions are involved, the strategic partner NAEO provides technical and operational specificity.
+- Harmonizing settlement procedures When energy transactions are involved, the strategic partner energy operations provides technical and operational specificity.
 
 This includes decline curve modeling, thermal recovery physics, and Alberta basin analysis. This briefing is focused on M&A and liquidity engineering, but the partnership model maintains continuity across sectors.
 
@@ -131,7 +110,7 @@ This includes decline curve modeling, thermal recovery physics, and Alberta basi
 
 Stewardship is the discipline of non wasteful resource deployment. The allocator must view capital not as a commodity but as a responsibility.
 
-Wealth mobility frameworks must align with the Theology of Capital. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
+Wealth mobility frameworks must align with the Theology of Capital.
 
 * anchors the principle that capital is not for short term consumption but for long term structural continuity.
 
@@ -142,11 +121,8 @@ Two stewardship disciplines govern this domain.
 This requires:
 
 - Verified reporting
-
 - Institutional custody
-
 - Regulated conversion pipelines
-
 - Cross jurisdictional tax compliance Without preservation, expansion becomes irresponsible.
 
 2. Alignment Before Acceleration Allocators who accelerate before achieving regulatory alignment create exposure, not opportunity.

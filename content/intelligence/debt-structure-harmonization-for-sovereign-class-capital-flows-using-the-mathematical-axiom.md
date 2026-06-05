@@ -11,7 +11,7 @@ slug: debt-structure-harmonization-for-sovereign-class-capital-flows-using-the-m
 ---
 # Debt Structure Harmonization for Sovereign Class Capital Flows Using The Mathematical Axiom
 
-INTRODUCTION
+Introduction
  Sovereign capital systems are entering an era defined by velocity, transparency, and interdependence. Traditional debt frameworks, built for slower macroeconomic cycles, no longer keep pace with the speed at which institutional liquidity shifts across jurisdictions. As a result, fragmentation grows. Asymmetry deepens. Structural mispricings widen. Roials Capital approaches this landscape with an architect level vantage point. We do not respond to volatility. We design the architecture that governs it. The application of The Mathematical Axiom, a proprietary structural principle for harmonized capital flows, introduces a new class of debt alignment. It is a framework that integrates sovereign, supranational, and ultra high grade institutional debt into a coherent, rule orientated system. The following paper outlines the mechanics, rationale, and implications of debt structure harmonization for sovereign class capital flows using The Mathematical Axiom.
 
 The Fragmentation Problem in Sovereign Debt Systems Modern debt markets have achieved scale. They have not achieved coherence.
@@ -91,7 +91,7 @@ Recalibration modifies the relational weights between:
 
 This process does not alter the nominal debt load. It alters the structural expression of that load. When complete, the curve expresses coherence.
 
-Stage Three. Cross Border Synchronization Synchronization aligns the recalibrated structure with external sovereign systems.
+Stage Three. Cross Border Synchronization aligns the recalibrated structure with external sovereign systems.
 
 The objective is to establish interoperable flow corridors. These corridors allow:
 

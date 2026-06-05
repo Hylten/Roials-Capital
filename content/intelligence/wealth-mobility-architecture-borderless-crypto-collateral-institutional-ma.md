@@ -39,7 +39,7 @@ Roials Capital operates as a strategic navigator that calibrates wealth mobility
 
 1. 80 percent Kapitalanskaffning for Fund-III and larger Focus on buyouts, add ons, and control acquisitions.
 
-The priority is to optimize liquidity sequencing so that capital is deployed with precision at each phase of the value creation cycle. The INTRODUCTION of crypto collateral is engineered to accelerate capital readiness rather than substitute traditional funding.
+The priority is to optimize liquidity sequencing so that capital is deployed with precision at each phase of the value creation cycle. The Introduction of crypto collateral is engineered to accelerate capital readiness rather than substitute traditional funding.
 
 2. 10 percent Asset Backed Liquidity Engineering This includes structured credit facilities, bridge mechanics, and opportunistic capital activation.
 
@@ -47,13 +47,11 @@ The objective is balance sheet strengthening and capital flow synchronization.
 
 3. 10 percent Special Mandates These include
 
-- North American Energy Operations Consortium (NAEOC) with facility needs of 50M to 250M.
-
+- North American Energy Operations Consortium (energy mandates) with facility needs of 50M to 250M.
 - EU MiFID II aligned acquisition pathways.
-
 - Gulf and Swiss structured credit alliances.
 
-Within Energy, NAEO serves as the institutional partner with operational expertise spanning SAGD, CSS, decline curve analysis, and Alberta basin mechanics. In non energy contexts, Roials Capital’s role remains focused on structural alignment and cross border transaction architecture.
+Within Energy, energy operations serves as the institutional partner with operational expertise spanning SAGD, CSS, decline curve analysis, and Alberta basin mechanics. In non energy contexts, Roials Capital’s role remains focused on structural alignment and cross border transaction architecture.
 
 ## The Stewardship Filter
 
@@ -67,9 +65,8 @@ It is pursued for precision allocation and non wasteful deployment. In cross bor
 
 Stronger balance sheets enable better negotiation leverage and clearer risk management.
 
-3. Intergenerational Positioning Stewardship honors capital continuity. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
+3. Intergenerational Positioning Stewardship honors capital continuity.
 
-* positions resource management as a multi generational mandate.
 
 Wealth mobility systems ensure that strategic assets remain deployable across jurisdictions and across family structures.
 

@@ -59,7 +59,7 @@ These solutions stabilize working capital positions in environments where banks 
 
 6. Sector-Specific Examples For energy, the most efficient operators utilize technical recovery data, decline curves, and steam-to-oil ratios to structure credit exposure.
 
-Our strategic partner, NAEO, exemplifies this discipline. They integrate SAGD and CSS operational metrics into lending frameworks, ensuring credit structures align with production physics. This creates clarity around reserves, recoverability, and cyclicity.
+Our strategic partner, energy operations, exemplifies this discipline. They integrate SAGD and CSS operational metrics into lending frameworks, ensuring credit structures align with production physics. This creates clarity around reserves, recoverability, and cyclicity.
 
 7. Capital Velocity for Buyouts and Add-ons Fund-III strategies rely on rapid liquidity deployment.
 
@@ -73,13 +73,13 @@ Roials Capital operates as an institutional introducer and strategic navigator a
 
 This includes sponsor buyouts, roll-ups, and add-ons. The institutional ecosystem requires calibrated introductions that align LP expectations with GP execution capabilities. Roials ensures alignment between investor archetypes and fund strategy.
 
-2. Capital Structuring and Asset-Based Lending Structures Ten percent of THE MANDATE
+2. Capital Structuring and Asset-Based Lending Structures Ten percent of The Mandate
 
 supports asset-based lending frameworks. These credit lines stabilize balance sheets and increase opportunity velocity for operators transitioning between acquisition cycles. Roials facilitates introductions to institutional lenders capable of providing consistent liquidity.
 
 3. Special Mandates The remaining allocation focuses on large-ticket mandates.
 
-This includes the NAEOC energy tranche ranging from 50 million to 250 million USD, and regulated acquisition financing under EU MiFID II. These mandates require specialized structuring expertise and operator alignment. In energy, NAEO provides the institutional-grade technical backbone. Roials Capital maintains neutrality. This ensures the architecture serves allocators rather than internal balance sheet incentives.
+This includes the energy tranche ranging from 50 million to 250 million USD, and regulated acquisition financing under EU MiFID II. These mandates require specialized structuring expertise and operator alignment. In energy, energy operations provides the institutional-grade technical backbone. Roials Capital maintains neutrality. This ensures the architecture serves allocators rather than internal balance sheet incentives.
 
 ## The Stewardship Filter
 
@@ -93,7 +93,7 @@ Capital is not used to compensate for structural inefficiencies.
 
 2. Balance sheet optimization Operators must demonstrate the ability to manage leverage without eroding asset stability.
 
-This aligns with the principle in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
+This aligns with the principle in
 
 * , where the preservation of generational value is linked to disciplined management.
 
@@ -105,7 +105,7 @@ Whether in energy, manufacturing, or technology, durability enhances portfolio r
 
 2. Sector alignment and operator calibration Allocators must evaluate whether the GP demonstrates deep operational domain expertise.
 
-In energy, NAEO exemplifies the required alignment between technical operations and financial engineering.
+In energy, energy operations exemplifies the required alignment between technical operations and financial engineering.
 
 3. Liquidity architecture across the capital stack Funds capable of integrating Asset-Based Lending, senior secured notes, and transitional credit into a unified framework provide stronger downside protection.
 

@@ -26,21 +26,15 @@ The institutional grade infrastructure relevant to Fund-III mandates consists of
 Fund-III Buyout environments across the EU and North America now require precision calibration between acquisition multiple, EBITDA normalization, and capital stack composition. The operational mechanics rely on:
 
 - Valuation corridors anchored on replacement cost and liquidation case analysis rather than forward projections.
-
 - Balance sheet optimization that replaces blanket leverage with structured seniority and targeted cash sweep triggers.
-
 - Integration frameworks where add on acquisitions are sequenced according to throughput contribution, not headline scale.
-
 - Institutional governance where reporting cadence matches LP control requirements rather than legacy private equity practice.
 
 In this regime, Fund-III portfolio companies require capital partners that introduce strategic pathways rather than pursue transactional allocation. The infrastructure must support multi jurisdictional availability of capital, disciplined acquisition pacing, and neutral oversight of diligence workflows. Institutional Liquidity Paths THROUGH Asset-Based Lending Asset based lending functions as a stabilizing mechanism in environments where operational assets hold intrinsic productivity but lack balance sheet flexibility. Strategic Collateralization focuses on:
 
 - Determining appropriate advance rates against eligible receivables, inventory, machinery, or reserves.
-
 - Engineering cross collateralized borrowing bases that stabilize revolver availability as assets scale.
-
 - Replacing blanket loans with liquidity corridors that dynamically expand or contract according to operating cycle needs.
-
 - Increasing opportunity velocity by ensuring managers can execute transactions without waiting for traditional credit approvals.
 
 Asset-Based Lending infrastructure is no longer an emergency measure. It functions as a precision tool for allocators who want to enhance cash conversion cycles within buyout platforms and ensure operational resilience.
@@ -50,32 +44,26 @@ Asset-Based Lending infrastructure is no longer an emergency measure. It functio
 Energy mandates in the 50M to 250M range require technical specificity. Alberta heavy oil environments operate under physics governed performance profiles that differ significantly from shale dynamics. Key mechanics include:
 
 - SAGD as a thermal recovery process where steam injection reduces viscosity to mobilize bitumen.
-
 - CSS as a cyclic thermal stimulation method that accelerates early cycle production in certain reservoirs.
-
 - Recovery factors between
 
 30 and 70 percent depending on formation, porosity, and reservoir continuity.
 
 - Decline curves that follow predictable patterns with low geological uncertainty compared to unconventional plays.
-
 - Production stability enhanced through pad optimization, water cut management, and steam oil ratio stabilization.
 
-NAEO operates as a strategic partner with institutional grade operational discipline. The company does not pursue speculative exploration. It focuses exclusively on established reservoirs with known reservoir characteristics, low operational volatility, and predictable recovery trajectories. MiFID II acquisition infrastructure requires equal precision. Cross border transactions must respect:
+Operating partners provide with institutional grade operational discipline. The company does not pursue speculative exploration. It focuses exclusively on established reservoirs with known reservoir characteristics, low operational volatility, and predictable recovery trajectories. MiFID II acquisition infrastructure requires equal precision. Cross border transactions must respect:
 
 - Suitability protocols.
-
 - Internal classifications of professional clients.
-
 - Transaction reporting standards.
-
 - Marketing restrictions that require neutral descriptive positioning rather than performance promotion.
 
 ## The Partnership Model
 
 Roials Capital acts as a strategic navigator for institutions rather than a promoter. The firm functions as a bridge between global allocators and operational ecosystems that require disciplined capital alignment. The model rests on four principles.
 
-1. Institutional INTRODUCTION
+1. Institutional Introduction
 
 rather than distribution.
 
@@ -85,13 +73,13 @@ rather than distribution.
 
 4. Alignment with operational partners who demonstrate institutional grade behavior.
 
-Within energy, Roials Capital relies on NAEO as the partner responsible for field operations, reservoir management, compliance, and technical execution. Roials does not manage energy assets. It introduces institutional allocators to the Alberta landscape and supports strategic evaluation.
+Within energy, Roials Capital relies on energy operations as the partner responsible for field operations, reservoir management, compliance, and technical execution. Roials does not manage energy assets. It introduces institutional allocators to the Alberta landscape and supports strategic evaluation.
 
 ## The Stewardship Filter
 
 Stewardship is a governance discipline. For capital allocators, stewardship is the process of deploying resources in a manner that increases productive capacity while minimizing waste.
 
-It is not moral sentiment. It is operational responsibility. Stewardship requires that capital be positioned where assets can produce long duration utility. Heavy oil reservoirs with predictable decline curves meet this criterion. European industrial companies with stable cash conversion and succession gaps meet it as well. Asset-Backed Frameworks through Asset-Based Lending supports stewardship by preventing operational underperformance driven by capital scarcity. The theological perspective aligns with "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
+It is not moral sentiment. It is operational responsibility. Stewardship requires that capital be positioned where assets can produce long duration utility. Heavy oil reservoirs with predictable decline curves meet this criterion. European industrial companies with stable cash conversion and succession gaps meet it as well. Asset-Backed Frameworks through Asset-Based Lending supports stewardship by preventing operational underperformance driven by capital scarcity. The theological perspective aligns with
 
 * .
 

@@ -75,9 +75,9 @@ The role of digital assets here is not directional positioning. They are used fo
 
 Adding a liquid digital collateral layer reduces overcollateralization, increases certainty of close, and strengthens counterparty confidence.
 
-3. Special Mandates NAEOC energy transactions between 50M and 250M remain structurally attractive due to Alberta's asset maturity and predictable production physics.
+3. Special Mandates energy transactions between 50M and 250M remain structurally attractive due to Alberta's asset maturity and predictable production physics.
 
-Digital asset liquidity overlays accelerate operational continuity and shorten capital cycles. EU MiFID II acquisition pathways demand auditability and cross jurisdictional transparency. Digital assets provide a programmable audit layer. Roials Capital does not promote these assets. It orchestrates their integration. The role is technical guidance, institutional INTRODUCTION , and structural alignment. Our strategic partner NAEO functions as the institutional anchor within the Alberta energy landscape, providing the heavy asset backbone that complements the liquid digital layer.
+Digital asset liquidity overlays accelerate operational continuity and shorten capital cycles. EU MiFID II acquisition pathways demand auditability and cross jurisdictional transparency. Digital assets provide a programmable audit layer. Roials Capital does not promote these assets. It orchestrates their integration. The role is technical guidance, institutional Introduction , and structural alignment. Our strategic partner energy operations functions as the institutional anchor within the Alberta energy landscape, providing the heavy asset backbone that complements the liquid digital layer.
 
 ## The Stewardship Filter
 
@@ -85,9 +85,8 @@ Stewardship in capital architecture is not an ethical accessory. It is a structu
 
 Poor capital governance introduces friction, waste, and systemic vulnerability.
 
-Multi asset hardening is therefore an expression of responsible resource management. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
+Multi asset hardening is therefore an expression of responsible resource management.
 
-* highlights the multigenerational vision that underpins long horizon capital discipline.
 
 Asset hardening ensures that capital is neither idle nor speculative. It is deployed where it remains productive, measurable, and aligned with institutional durability. Stewardship consists of four operational elements.
 

@@ -18,9 +18,7 @@ The question is never “Can you close the next add‑on?” The question is “
 Most treated it as a financial exercise. Easy arbitrage. Buy small. Combine. Dress the numbers. Sell bigger. Legacy playbooks. Legacy thinking. It worked for a time, because the market rewarded the illusion of efficiency without demanding the underlying machinery that produces true efficiency. Machine-gun sentence: Those days are finished. Dead. Buried. Done. Institutional LPs no longer chase narratives. They chase competency. They chase clarity. They chase the GP who shows, without ambiguity, a mastery of operational lift-because operational lift is the one category of alpha that cannot be commoditized, automated, or replicated by capital alone. Phase Two. Principal Voice. Operational alpha is not a tactic. It is a moral statement about the discipline of ownership. You either build, or you pretend to build. Pretenders wash out. Builders accumulate. Builders endure. Builders attract sovereign capital because sovereign capital knows the difference. A GP who operates at the level expected in Fund‑III and beyond must understand the hierarchy:
 
 - Financial engineering is transitory.
-
 - Operational mastery is enduring.
-
 - Culture of execution is immortal.
 
 The Principal does not glorify complexity. The Principal eliminates it. The Principal brings order to the company, certainty to the staff, and inevitability to the value creation cycle. The Principal understands that efficiency is not achieved through debt, but through precision. Precision in integration. Precision in systems. Precision in human capital and managerial selection. Precision in how the add‑on is absorbed into the organism.
@@ -62,11 +60,8 @@ That is what raises Fund‑III. That is what accelerates Fund‑IV. That is what
 We are the gatekeepers of institutional seriousness. We prepare the GP for scrutiny at the highest level. We refine the narrative, restructure the operational thesis, and elevate the architecture in a manner that withstands deep diligence. Our mandate:
 
 - Capital raising for Fund‑III and beyond.
-
 - Precision around buyouts and add‑ons.
-
 - Selective use of Asset-Based Lending when necessary.
-
 - Direct execution of special mandates in North American energy and EU MiFID II corridors.
 
 Strict When discussing Asset-Based Lending, qualification gates apply. Minimum facility exposure begins at $2M for direct structures and escalates to $5M for multi-asset or cross-border configurations. We do not dilute standards. We enforce them. Because scarcity drives respect, and respect drives commitments. A GP aligned with Roials Capital enters the room with institutional posture. The LP senses the distinction immediately.

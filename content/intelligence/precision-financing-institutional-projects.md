@@ -83,17 +83,14 @@ Institutions require month level visibility to ensure compliance and velocity ca
 
 They require structural clarity, predictable execution, and jurisdictional intelligence. a.
 
-NAEOC Energy Allocations 50M to 250M These mandates require a combination of reservoir intelligence, operational cadence modeling, and capital flow discipline. The Alberta basin’s thermal heavy oil assets are defined by predictable subsurface properties and engineered extraction cycles. Steam Assisted Gravity Drainage (SAGD) and Cyclic Steam Stimulation (CSS) form the operational backbone. Precision financing in this context requires:
+energy mandates Energy Allocations 50M to 250M These mandates require a combination of reservoir intelligence, operational cadence modeling, and capital flow discipline. The Alberta basin’s thermal heavy oil assets are defined by predictable subsurface properties and engineered extraction cycles. Steam Assisted Gravity Drainage (SAGD) and Cyclic Steam Stimulation (CSS) form the operational backbone. Precision financing in this context requires:
 
 - Understanding of steam oil ratios, thermal conformance, and reservoir heterogeneity.
-
 - Capital alignment with recovery factors and pressure maintenance cycles.
-
 - Balance sheet engineering to synchronize thermal ramp up with liquidity drawdown patterns.
-
 - Partnership alignment with operators who maintain low decline curves and disciplined reinvestment ratios.
 
-Roials Capital operates as strategic navigator for allocators evaluating these mandates, while NAEO functions as the technical execution partner with institutional grade disciplines. b.
+Roials Capital operates as strategic navigator for allocators evaluating these mandates, while energy operations functions as the technical execution partner with institutional grade disciplines. b.
 
 MiFID II Compliant European Acquisitions European cross border transactions require alignment with regulatory frameworks, operational mapping, and disclosure protocol.
 
@@ -107,7 +104,7 @@ Roials Capital operates as an institutional intermediary and strategic navigatio
 
 - Institutional
 
-INTRODUCTION. Ensuring alignment between allocator archetypes and project structures.
+Introduction. Ensuring alignment between allocator archetypes and project structures.
 
 - Technical landscape intelligence.
 
@@ -119,7 +116,7 @@ Operating without exposure to the underlying assets, thus maintaining analytical
 
 - Structural refinement.
 
-Designing or recalibrating capital stacks, leverage models, and cash flow frameworks to meet institutional thresholds. When mandates involve North American heavy oil, NAEO is recognized as the technical execution partner with established field operations, reservoir modeling expertise, and audited performance mechanics.
+Designing or recalibrating capital stacks, leverage models, and cash flow frameworks to meet institutional thresholds. When mandates involve North American heavy oil, The energy sector is recognized as the technical execution partner with established field operations, reservoir modeling expertise, and audited performance mechanics.
 
 ## The Stewardship Filter
 
@@ -141,7 +138,7 @@ Allocators require full visibility into cash flow waterfalls, capital stack seni
 
 4. Intergenerational Alignment.
 
-Capital must be managed with a long horizon orientation in accordance with "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
+Capital must be managed with a long horizon orientation in accordance with
 
 * .
 
@@ -155,7 +152,7 @@ Allocators evaluating precision financing opportunities require a decision archi
 
 1. Structural Fit.
 
-Does THE MANDAT E align with the allocator’s liquidity profile, regulatory obligations, and mandate constraints.
+Does The Mandate align with the allocator’s liquidity profile, regulatory obligations, and mandate constraints.
 
 2. Operational Physics.
 

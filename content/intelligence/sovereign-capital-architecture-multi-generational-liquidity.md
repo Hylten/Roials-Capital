@@ -63,7 +63,7 @@ The Alberta basin is populated by both institutional grade teams and legacy oper
 
 3. Execution friction.
 
-Allocators typically lack the bandwidth to evaluate field level thermal mechanics, steam ratios, or decline curve analytics. Roials Capital operates as a strategic navigator inside this environment. The function is not asset management. The function is Institutional INTRODUCTION and Allocation Architecture.
+Allocators typically lack the bandwidth to evaluate field level thermal mechanics, steam ratios, or decline curve analytics. Roials Capital operates as a strategic navigator inside this environment. The function is not asset management. The function is Institutional Introduction and Allocation Architecture.
 
 1. Counterparty Verification.
 
@@ -71,7 +71,7 @@ Roials Capital performs a multi
 
 ### Layer I:
 
-nstitutional filter to identify operational partners whose governance, stewardship, technical discipline, and balance sheet hygiene are aligned with long horizon capital. North American Energy Opportunities (NAEO) is one of these partners. NAEO is not selected for marketing optics but for field competence, reservoir discipline, thermal cycle mastery, and audited financial controls.
+nstitutional filter to identify operational partners whose governance, stewardship, technical discipline, and balance sheet hygiene are aligned with long horizon capital. North American Energy Opportunities (energy operations) is one of these partners. The energy sector is not selected for marketing optics but for field competence, reservoir discipline, thermal cycle mastery, and audited financial controls.
 
 2. Structural Mapping.
 
@@ -97,9 +97,8 @@ Heavy oil reservoirs require continuity. Interruption reduces long term recovery
 
 3. Non wasteful operational design.
 
-This includes optimized drilling schedules, reduced surface disturbance, and intelligent thermal mapping. This aligns with the theological principle referenced in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
+This includes optimized drilling schedules, reduced surface disturbance, and intelligent thermal mapping. This aligns with the theological principle referenced in
 
-* which reflects the multi generational orientation of responsible asset management.
 
 The allocator is not speculating on price volatility. The allocator is stewarding long duration physical assets. SOVEREIGN CAPITAL ARCHITECTURE AND MULTI GENERATIONAL LIQUIDITY FORMATION Institutional allocators across Europe, the Middle East, the United States, and Asia are increasingly recalibrating their sovereign capital architecture. The objective is to create systems that sustain liquidity across generations without exposure to fragile macro narratives.
 
@@ -113,7 +112,7 @@ This includes reserve based structures, royalty optimization, off balance sheet 
 
 3. Special Mandates and Institutional Archetypes.
 
-Certain allocators seek targeted structures rather than broad funds. This includes the NAEO energy mandate of 50M to 250M, MiFID II aligned acquisition strategies, and sovereign family office structures. Each mandate requires a distinct institutional archetype, governance profile, and operational counterparty. The result is an architecture where liquidity is engineered rather than hoped for. It is structured around real assets, long duration production, mature decline curves, and operational partners who demonstrate field discipline. For the allocator, the next
+Certain allocators seek targeted structures rather than broad funds. This includes the energy mandate of 50M to 250M, MiFID II aligned acquisition strategies, and sovereign family office structures. Each mandate requires a distinct institutional archetype, governance profile, and operational counterparty. The result is an architecture where liquidity is engineered rather than hoped for. It is structured around real assets, long duration production, mature decline curves, and operational partners who demonstrate field discipline. For the allocator, the next
 
 ### Step I is not transactional. It is architectural.
 

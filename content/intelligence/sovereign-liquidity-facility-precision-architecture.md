@@ -35,11 +35,8 @@ Eligibility Grid The eligible asset pool must be objective. No political discret
 No conditional releases. The assets usually include:
 
 - Energy royalties
-
 - Export receivables
-
 - Strategic infrastructure cash-flows
-
 - Tax corridor assignments with predefined variability bands The grid defines the first discipline.
 
 If it is not measurable at a weekly frequency, it is not admissible.
@@ -49,9 +46,7 @@ If it is not measurable at a weekly frequency, it is not admissible.
 Priority-of-Claim Waterfall Liquidity must be sequenced through a priority stack:
 
 - Senior liquidity tranche with zero tolerance for operational leakage
-
 - Intermediate tranche tied to resource volatility buffers
-
 - Residual tranche feeding government operations The waterfall removes fiscal entropy.
 
 It establishes certainty for lenders and ensures the sovereign does not cannibalize its own future liquidity.
@@ -61,9 +56,7 @@ It establishes certainty for lenders and ensures the sovereign does not cannibal
 LTV Curves and Risk Hardening Traditional sovereign facilities use flat LTV tables. That is inefficient. The correct model is a dynamic convexity curve. Higher extraction and export price volatility should widen the initial haircut but shrink the stress-floor region. A facility with no convexity becomes a facility with hidden insolvency. Hardening techniques include:
 
 - Cross asset pledges with limited correlation exposure
-
 - Time segmented collateral rebalancing
-
 - Volatility indexed advance rates
 
 ### Layer I:
@@ -71,11 +64,8 @@ LTV Curves and Risk Hardening Traditional sovereign facilities use flat LTV tabl
 Recovery Mechanics Institutional recovery must be deterministic. No improvisation. Recovery channels often include:
 
 - Diversion rights over export terminals
-
 - Royalty interception rights
-
 - Structured tax capture nodes
-
 - Offshore collection accounts subject to quarterly reconciliation Facilities without defined recovery structures evolve into political liabilities.
 
 Facilities with explicit recovery mechanics evolve into institutional assets.
@@ -89,19 +79,14 @@ Liquidity Replenishment Algorithm A sovereign must replenish. The facility must 
 Fund-III enters this domain with a defined objective. Capital must flow toward buyouts and add-ons. Sovereign facilities simply stabilize the macro perimeter. They are not the investment. They are the environment that allows investments to compound without disruption. The STRATEGIC MODEL contains three parallel tracks. Track 1: Capital Raising Infrastructure The credibility of Fund-III increases when the macro environment of our counterparties is stabilized. LPs allocate aggressively when they observe disciplined liquidity pathways at the sovereign level. Our narrative is simple. We do not speculate on environment. We engineer environment. Track 2: Asset-Backed Frameworks for Asset-Based Lending Channels Facility mechanics at the sovereign level translate directly into corporate Asset-Based Lending discipline. The same principles apply:
 
 - Hard collateral
-
 - Sequenced waterfalls
-
 - Predictable recovery
-
 - Algorithmic replenishment This eliminates uncertainty in industrial buyout structures.
 
-It also protects the exit velocity for add-ons. Track 3: Special Mandates for Energy and MiFID II Acquisitions Energy assets remain the purest form of hard collateral. NAEOC mandates in the 50M to 250M range benefit from sovereign stability because:
+It also protects the exit velocity for add-ons. Track 3: Special Mandates for Energy and MiFID II Acquisitions Energy assets remain the purest form of hard collateral. energy mandates in the 50M to 250M range benefit from sovereign stability because:
 
 - Pipelines require predictable tariff liquidity
-
 - E&P expansions require hedged sovereign counterparties
-
 - Cross border energy trades require settlement certainty Sovereign liquidity facilities remove noise.
 
 They allow the special mandate division to operate without politicized interruptions.
@@ -110,7 +95,7 @@ THE STEWARDSHIP FILTER A sovereign facility must reflect stewardship. Disorder i
 
 Sovereigns frequently operate out of sequence: consumption before consolidation, spending before stabilization, promises before liquidity.
 
-The theology of capital reverses this. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
+The theology of capital reverses this.
 
 * sets the principle.
 

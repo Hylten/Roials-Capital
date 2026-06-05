@@ -14,7 +14,7 @@ slug: multiasset-hardening-for-fund-iii-integrating-digital-assets-into-institut
 
 At Roials Capital,
 
-## THE MANDAT E
+## The Mandate
 
 is precise. We lend against private credit and asset based structures, and we extend collateralized liquidity against digital and public market assets for qualified positions. The thresholds are explicit. Crypto Asset-Backed Frameworks begins at two million dollars. Public share Strategic Collateralization begins at five million dollars. These parameters are not posturing. They are filtration. They preserve institutional scale integrity and maintain the internal geometry required for operations that rely on principal authority rather than retail signaling.
 
@@ -70,6 +70,6 @@ The Future of Multi Asset Hardening As Fund-III evolves, the integration of digi
 
 Interoperability between public and private markets will increase. Regulatory clarity will sharpen. The institutions that dominate this environment will be those that mastered hardening early. The ones that built structures instead of reacting to trends. Roials Capital operates inside that mandate. The mechanics are already in place.
 
-Why Clients Choose Hardening Over Diversification Diversification spreads exposure. Hardening stabilizes exposure.
+Why Clients Choose Hardening Over Diversification spreads exposure. Hardening stabilizes exposure.
 
 HNWI and UHNW clients understand that the next decade will reward those who maintain control over liquidity, collateral, and velocity. Multi asset hardening is a discipline that produces that control. Fund-III is the practical expression of that discipline.

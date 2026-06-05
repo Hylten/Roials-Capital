@@ -20,9 +20,7 @@ The capital vacuum in North American private markets is a consequence of regulat
 The institutional landscape has moved into a post benchmark environment. Traditional LP categories such as corporate pensions, endowments, and European insurers are constrained by solvency rules, duration limits, and green allocation quotas. These constraints have limited their ability to deploy into high durability private market assets with longer monetization cycles. Sovereign wealth entities, particularly from the GCC, North Africa, and parts of Asia, have filled this institutional gap with multi cycle capital. Their objective is long horizon national resilience rather than quarterly performance aggregation. This shift has created a structural divide between capital that requires liquidity recycling and capital that seeks geopolitical anchoring. The effects are evident across North American buyouts, North American energy, and European strategic acquisitions.
 
 - Buyout platforms in Fund-III+ positions observe elongated fundraising cycles due to LP pacing rules.
-
 - Energy operators in Alberta, Saskatchewan, and the US Permian face exceptionally low competition for heavy oil assets despite predictable decline curves and fully delineated reservoirs.
-
 - European technology and infrastructure assets experience valuation dislocations driven by regulatory harmonization pressures under MiFID II and UK equivalence uncertainty.
 
 The consequence is an asymmetric opportunity set. Sovereign capital has moved into sectors that require long term stability of capital, especially energy, logistics, and industrial buyouts. Private credit funds, mid market buyout platforms, and sector specialist sponsors are now repositioning their capital raising strategies toward sovereign archetypes, because sovereign allocators value strategic alignment over benchmark relative performance.
@@ -56,17 +54,16 @@ Asset hardening involves enhancing the durability and transferability of the ass
 
 Roials Capital operates as a strategic navigator and institutional introducer. The function is not asset management.
 
-## The Mandat E
+## The Mandate
 
-is institutional alignment. For energy specific mandates, the operational intelligence is provided by NAEO, a specialist partner with access to delineated heavy oil inventories in Alberta and Saskatchewan. NAEO operates with technical precision. They map recovery mechanics, reservoir quality, surface facility optimization, and decline management strategies. The role of Roials Capital is to clarify the structural context, articulate the institutional landscape, and facilitate strategic alignment between sovereign LP archetypes and qualified operating partners. In private credit, Roials Capital calibrates structures with an emphasis on balance sheet optimization, collateral engineering, and cross border compliance. The purpose is to ensure that sovereign allocators receive clarity on jurisdictional stability, enforcement pathways, and cash flow predictability. In European acquisitions under MiFID II, emphasis is placed on regulatory harmonization, multi jurisdiction structuring, and operational continuity. The model is neutral. Roials Capital is not the capital deployer. It is the architect that organizes the institutional ecosystem around operators, managers, and sovereign allocators.
+is institutional alignment. For energy specific mandates, the operational intelligence is provided, a specialist partner with access to delineated heavy oil inventories in Alberta and Saskatchewan. energy operations operates with technical precision. They map recovery mechanics, reservoir quality, surface facility optimization, and decline management strategies. The role of Roials Capital is to clarify the structural context, articulate the institutional landscape, and facilitate strategic alignment between sovereign LP archetypes and qualified operating partners. In private credit, Roials Capital calibrates structures with an emphasis on balance sheet optimization, collateral engineering, and cross border compliance. The purpose is to ensure that sovereign allocators receive clarity on jurisdictional stability, enforcement pathways, and cash flow predictability. In European acquisitions under MiFID II, emphasis is placed on regulatory harmonization, multi jurisdiction structuring, and operational continuity. The model is neutral. Roials Capital is not the capital deployer. It is the architect that organizes the institutional ecosystem around operators, managers, and sovereign allocators.
 
 ### Phase IV:
 
 ## The Stewardship Filter
 
-Stewardship is the discipline of resource management grounded in non wasteful capital deployment. It aligns with the theological principle in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
+Stewardship is the discipline of resource management grounded in non wasteful capital deployment. It aligns with the theological principle in
 
-* which states that a good person leaves an inheritance for the next generation.
 
 This is not rhetoric. It is a philosophical anchor for institutional capital in an era of short horizon financial engineering. Stewardship requires three attributes.
 
@@ -98,7 +95,7 @@ Capital must be protected by enforceable legal systems, transparent royalty fram
 
 3. Evaluate operator discipline.
 
-Operators must demonstrate technical mastery, cost discipline, and predictable cash flows. NAEO provides this structure in energy. Sector specialist sponsors provide it in buyouts. Experienced credit managers provide it in private credit.
+Operators must demonstrate technical mastery, cost discipline, and predictable cash flows. energy operations provides this structure in energy. Sector specialist sponsors provide it in buyouts. Experienced credit managers provide it in private credit.
 
 4. Evaluate alignment architecture.
 

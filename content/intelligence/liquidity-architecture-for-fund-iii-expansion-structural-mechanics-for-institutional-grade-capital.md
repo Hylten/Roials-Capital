@@ -34,9 +34,7 @@ Private Credit as the Anchor Asset Private credit serves as the anchor within Fu
 Credit that is backed by real assets or predictable cash flow compresses uncertainty. When uncertainty compresses, liquidity becomes cheaper to create. HNWI and UHNW participants require credit that behaves like an operating system, not a speculative trade. Our Asset-Backed Frameworks against private credit positions focuses on:
 
 - Quality of seniority.
-
 - Recoverability under liquidation scenarios.
-
 - Temporal matching of liquidity facility duration with asset behavior.
 
 This allows us to structure liquidity in a manner that remains uncorrelated with retail credit cycles. It also ensures that the participant, the asset, and the fund remain aligned under all macro conditions.
@@ -46,9 +44,7 @@ Asset Based Strategic Collateralization as a Precision Instrument Asset based In
 Collateral is not viewed as security. Collateral is viewed as geometry. The geometry of the asset dictates the geometry of the liquidity facility. Liquidity is shaped around the collateral, not the other way around. Our Asset-Based Lending framework supports:
 
 - Financial assets.
-
 - Yield producing instruments.
-
 - Select alternative collateral structures.
 
 What matters is not the asset category. What matters is the asset’s precision under valuation stress. This is the institutional threshold that defines our approach. Crypto Institutional Liquidity Paths at Institutional Scale Crypto Institutional Liquidity Paths is not a retail activity at Roials Capital. Our minimum threshold is 2,000,
@@ -62,9 +58,7 @@ It allows us to maintain institutional level underwriting while avoiding the vol
 It is the point where the quality of equity holdings aligns with our liquidity architecture. Participants at this level possess concentrated or high quality positions. These positions create stable balance sheet optimization capacity when structured with discipline. Our focus is on:
 
 - Liquid equities with institutional float.
-
 - Controlled concentration risk.
-
 - Cross collateralization where beneficial.
 
 When public equity is used as collateral, the result is one of the cleanest forms of liquidity creation. The asset produces daily price discovery. The liquidity facility can be shaped with surgical clarity. This allows us to maintain the principal authority that defines the Roials Capital risk posture.
@@ -74,11 +68,8 @@ The HNWI and UHNW Liquidity Mandate HNWI and UHNW participants require more than
 Our mandate is to provide that predictability. Not through marketing language. Through structural mechanics that have zero tolerance for instability. The liquidity architecture of Fund-III is engineered around the psychology of the sophisticated participant. Characteristics include:
 
 - Aversion to administrative friction.
-
 - Preference for discretion.
-
 - Expectation of institutional grade collateral analysis.
-
 - Requirement for rapid execution when conditions call for it.
 
 The result is a Institutional Liquidity Paths environment where the participant does not negotiate with the architecture.

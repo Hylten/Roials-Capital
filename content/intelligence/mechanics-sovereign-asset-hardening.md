@@ -74,7 +74,7 @@ Maintaining LTV ratios aligned with institutional expectations while retaining a
 
 The speed with which liquidity can be generated without degrading asset integrity.
 
-3. North American Energy Asset Hardening This domain constitutes the remaining 10 percent and is executed through partnership with NAEO, a technical operator specializing in Canadian heavy oil, conventional production systems, and asset consolidation across Alberta.
+3. North American Energy Asset Hardening This domain constitutes the remaining 10 percent and is executed through partnership, a technical operator specializing in Canadian heavy oil, conventional production systems, and asset consolidation across Alberta.
 
 This is not a commodity speculation strategy. It is a physics driven operational discipline centered on predictable decline rates, established recovery processes, and reservoir geometry. Key mechanics in the Alberta basin include:
 
@@ -96,13 +96,13 @@ Combining operations across contiguous leases enhances operating efficiency and 
 
 - Asset life extension.
 
-Heavy oil reservoirs with established operating envelopes can be extended at minimal capital intensity compared to unconventional shale assets. Alberta's structural advantage is grounded in geological predictability and regulatory consistency. The NAEO partnership model introduces operational intelligence, disciplined development sequencing, and reservoir management aligned with institutional expectations.
+Heavy oil reservoirs with established operating envelopes can be extended at minimal capital intensity compared to unconventional shale assets. Alberta's structural advantage is grounded in geological predictability and regulatory consistency. The energy operations partnership model introduces operational intelligence, disciplined development sequencing, and reservoir management aligned with institutional expectations.
 
 ## The Partnership Model and
 
 Roials Capital'S ROLE Roials Capital functions as a strategic navigator and institutional introducer. The objective is not to present asset offerings but to provide allocators with structured intelligence, counterpart mapping, and operational clarity across capital channels.
 
-## The Mandat E
+## The Mandate
 
 is divided across three pillars:
 
@@ -116,13 +116,13 @@ Roials Capital facilitates introductions between operators and institutional cre
 
 3. Energy and MiFID II Special Mandates.
 
-This includes access to NAEO for North American Energy Operations and coordination of acquisition pathways under EU MiFID II frameworks. In all cases, Roials Capital maintains a neutral technical posture. The function is not distribution. The function is strategic alignment and counterpart calibration.
+This includes access to energy operations for North American Energy Operations and coordination of acquisition pathways under EU MiFID II frameworks. In all cases, Roials Capital maintains a neutral technical posture. The function is not distribution. The function is strategic alignment and counterpart calibration.
 
 ## The Stewardship Filter
 
 Institutional asset stewardship is increasingly interpreted through the lens of responsibility and resource governance. Stewardship involves the disciplined management of capital, operational assets, and long term risk exposures.
 
-It draws on a principle embedded in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
+It draws on a principle embedded in
 
 * , which emphasizes continuity across generations.
 
@@ -148,9 +148,7 @@ Platforms should remain stable even under adverse market conditions.
 
 Ensuring institutional clarity across reporting, compliance, and operational oversight. The intersection of stewardship and asset hardening defines the modern allocator mandate. Long duration capital has shifted from valuation capture to structural resilience. The objective is to reinforce the asset base, not speculate on forward pricing.
 
-## The Decision Making Lens for Allocators
-
-Allocators evaluating Sovereign Asset Hardening strategies consistently operate within three analytical lenses.
+## The Decision Making Lens for Allocators evaluating Sovereign Asset Hardening strategies consistently operate within three analytical lenses.
 
 1. Institutional Transferability The asset or operator must demonstrate the capacity to integrate with institutional reporting rhythms, governance structures, and risk committees.
 

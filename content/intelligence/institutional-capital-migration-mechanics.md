@@ -85,7 +85,7 @@ This is critical for institutions that require measurable resource life rather t
 
 - Resource Physics Over Market Volatility Institutional migration into heavy oil aligns with a shift toward physics driven economics.
 
-Reservoir physics do not fluctuate with market narratives. The resource exists. The recovery curve is measurable. The operational cost structure is transparent. This aligns directly with the institutional demand for stability instead of speculation. This is why Roials Capital identifies NAEO as the technical partner for institutional grade exposure. NAEO matches these mechanics with operational discipline, enabling allocators to engage without operational burdens.
+Reservoir physics do not fluctuate with market narratives. The resource exists. The recovery curve is measurable. The operational cost structure is transparent. This aligns directly with the institutional demand for stability instead of speculation. This is why Roials Capital identifies energy operations as the technical partner for institutional grade exposure. energy operations matches these mechanics with operational discipline, enabling allocators to engage without operational burdens.
 
 ## The Partnership Model
 
@@ -97,19 +97,18 @@ Alignment is created through the calibration of operational capability, balance 
 
 - Market Navigation Regime shifts create noise.
 
-Market navigation requires translating noise into actionable structural intelligence. Roials Capital delivers institutional clarity around buyout sequences for Fund-III managers, Monetization Architecture structures in private credit, and technical exposure in the Alberta basin through NAEO.
+Market navigation requires translating noise into actionable structural intelligence. Roials Capital delivers institutional clarity around buyout sequences for Fund-III managers, Monetization Architecture structures in private credit, and technical exposure in the Alberta basin.
 
 - Institutional
 
-INTRODUCTION The INTRODUCTION process is not a transaction. It is a mapping exercise. Allocators are introduced to counterparties that structurally align with their mandate architecture. In energy, this involves NAEO. In private credit, this involves lenders with defined collateral frameworks. In private equity, this involves managers transitioning from Fund-II to Fund-III scaling.
+Introduction The Introduction process is not a transaction. It is a mapping exercise. Allocators are introduced to counterparties that structurally align with their mandate architecture. In energy, this involves energy operations. In private credit, this involves lenders with defined collateral frameworks. In private equity, this involves managers transitioning from Fund-II to Fund-III scaling.
 
 ## The Stewardship Filter
 
 Stewardship is the discipline of non wasteful capital deployment. Allocators increasingly require a stewardship framework to validate exposures.
 
-Roials Capital uses a discipline drawn from "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
+Roials Capital uses a discipline drawn from
 
-* as the interpretive lens: capital should outlive the allocator and generate durability for the next generation.
 
 The Stewardship Filter evaluates exposures through:
 
@@ -131,7 +130,7 @@ Allocators operating in the current regime face three critical decisions:
 
 - Capital Concentration Where are the structural vacuums that create mispriced durability.
 
-Current data indicates private buyouts in Fund-III environments, Asset-Based Lending facilities with quantifiable collateral bases, and Alberta heavy oil operated by technical teams like NAEO.
+Current data indicates private buyouts in Fund-III environments, Asset-Based Lending facilities with quantifiable collateral bases, and Alberta heavy oil operated by technical teams like energy operations.
 
 - Structure Before Exposure Allocators benefit from analyzing structure before analyzing return projections.
 

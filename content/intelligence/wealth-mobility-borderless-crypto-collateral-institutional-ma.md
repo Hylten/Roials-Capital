@@ -49,11 +49,8 @@ Regulatory sanctification Custody must be structured under an entity that meets 
 Collateral conversion This stage converts digital assets into collateral recognizable under lending frameworks. Tools include:
 
 - Overcollateralized loan-to-value curves based on real time pricing.
-
 - Cross-collateralization using both crypto and traditional financial assets.
-
 - Designation of liquidation waterfalls that establish seniority and lender protection.
-
 - Use of ring fenced SPVs acting as collateral holding entities.
 
 Institutional acceptance depends not on the digital form of the asset, but on the legal enforceability, seniority, and liquidation pathway embedded in the structure.
@@ -63,11 +60,8 @@ Institutional acceptance depends not on the digital form of the asset, but on th
 Liquidity integration Collateral is translated into usable liquidity by private credit lenders, M&A acquisition vehicles, or structured liquidity providers. The liquidity is generally deployed into:
 
 - Buyout vehicles for Fund-III and Fund IV expansions.
-
 - Add-on acquisitions under accelerated timelines.
-
-- Special mandate financing, including energy accretive M&A in Alberta through NAEO.
-
+- Special mandate financing, including energy accretive M&A in Alberta.
 - Balance sheet optimization for corporates with global shareholder bases.
 
 The result is liquidity that flows into cross-border transactions without the friction inherent to legacy capital transfer systems.
@@ -82,19 +76,16 @@ In the same way that steam-assisted gravity drainage depends on pressure dynamic
 
 Roials Capital serves as the strategic navigator within this system. The role is not asset custody, lending, or fund management.
 
-## The Mandat E
+## The Mandate
 
 is institutional alignment. When a private equity sponsor, UHNW principal, or corporate acquirer seeks cross-border liquidity, the firm’s role is to:
 
 - Identify the regulatory jurisdiction that maximizes structural efficiency.
-
 - Align the participant with the correct custodial entity and crypto collateral administrator.
-
 - Formalize the credit intermediation path that satisfies institutional requirements.
-
 - Introduce the transaction to the appropriate private credit or M&A financing counterparties.
 
-In the energy vertical, NAEO operates as the institutional-grade partner for North American energy optimization capital. In European acquisitions the dominant framework is MiFID II, especially for cross-border buyers with Nordic corporate governance preferences. Across all mandates, the function is navigational. The objective is to create alignment between the wealth base and the acquisition vehicle so that capital can move with velocity, compliance, and structural defensibility.
+In the energy vertical, energy operations operates as the institutional-grade partner for North American energy optimization capital. In European acquisitions the dominant framework is MiFID II, especially for cross-border buyers with Nordic corporate governance preferences. Across all mandates, the function is navigational. The objective is to create alignment between the wealth base and the acquisition vehicle so that capital can move with velocity, compliance, and structural defensibility.
 
 ### Phase IV:
 
@@ -114,7 +105,7 @@ Every
 
 Speed is valuable only when it reduces friction without increasing systemic fragility.
 
-- Stability of collateral. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
+- Stability of collateral.
 
 * highlights the long horizon of responsible capital.
 

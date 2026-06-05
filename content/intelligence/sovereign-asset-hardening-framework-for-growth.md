@@ -33,7 +33,7 @@ This applies to energy decline curves, private credit amortization schedules, an
 
 ## Technical Mechanics of the Energy Component
 
-In the North American context, the Alberta basin remains one of the most technically mature hydrocarbon systems in the world. The asset class is not speculative. The variables are largely known. What constrains operators is not resource quality but capital access. Our strategic partner, NAEO, functions within this environment using methods that align directly with sovereign asset hardening principles. Key mechanical pillars:
+In the North American context, the Alberta basin remains one of the most technically mature hydrocarbon systems in the world. The asset class is not speculative. The variables are largely known. What constrains operators is not resource quality but capital access. Our strategic partner, energy operations, functions within this environment using methods that align directly with sovereign asset hardening principles. Key mechanical pillars:
 
 1. Reservoir Predictability Heavy oil reservoirs with established production histories exhibit volumetric certainty.
 
@@ -45,7 +45,7 @@ They rely on physics rather than market conditions. Steam chamber propagation, v
 
 3. Surface Operations and Energy Balance One of the strongest industrial merits of Alberta heavy oil is the integration between wellhead operations and surface infrastructure.
 
-Operators with in place separation, water recycling, and heat management reduce capex exposure. NAEO focuses on acquisitions where infrastructure has already been amortized across previous production cycles. This reduces risk and increases operational clarity.
+Operators with in place separation, water recycling, and heat management reduce capex exposure. energy operations focuses on acquisitions where infrastructure has already been amortized across previous production cycles. This reduces risk and increases operational clarity.
 
 4. Cash Flow Geometry Heavy oil fields under thermal recovery produce output with a geometry similar to amortizing private credit.
 
@@ -66,21 +66,15 @@ Sovereign asset hardening is not limited to energy. It also permeates private cr
 This requires balancing seniority, collateralization, and cash flow rights across multiple instruments. For Fund-III+, the core disciplines include:
 
 - Institutional grade buyouts with additive synergies
-
 - Cross regional acquisition compounding
-
 - Conservative leverage anchored to real asset value
-
 - Integration of liquidity engineering through ABL facilities
 
 2. Asset Hardening in Private Credit Private credit serves the architecture by:
 
 - Converting unsecured exposures into collateral tethered structures
-
 - Increasing predictability through amortization discipline
-
 - Embedding covenant frameworks that restrict wasteful behavior
-
 - Enhancing counterparty visibility Institutional allocators use private credit not for yield capture but for balance sheet stabilization.
 
 It is a defensive instrument that reinforces the architecture.
@@ -90,9 +84,7 @@ It is a defensive instrument that reinforces the architecture.
 The objective is to harden the balance sheet so each asset strengthens the entire system. Asset hardening includes:
 
 - Reduction of dependency on market pricing for liquidity
-
 - Conversion of volatile exposures into collateral rich structures
-
 - Portfolio governance frameworks that enforce non wasteful capital use
 
 4. Opportunity Velocity In a hardened sovereign framework, capital is positioned to act rapidly when structural inefficiencies emerge.
@@ -111,21 +103,17 @@ The objective is not persuasion. The objective is clarity.
 
 2. Structural Alignment Allocators require visibility not only into assets but into the operational environment surrounding those assets.
 
-Roials Capital aligns capital with operators whose technical architecture matches sovereign asset hardening criteria. In energy, this is NAEO. In buyouts and special mandates, this is a curated set of institutional grade platforms.
+Roials Capital aligns capital with operators whose technical architecture matches sovereign asset hardening criteria. In energy, this is energy operations. In buyouts and special mandates, this is a curated set of institutional grade platforms.
 
 3. Governance and Counterparty Verification Roials Capital assesses:
 
 - Operational discipline
-
 - Reservoir or asset history
-
 - Corporate governance ethos
-
 - Liquidity engineering compatibility
-
 - Balance sheet integrity This process ensures allocators engage only with systems that maintain disciplined capital use.
 
-4. Institutional INTRODUCTION
+4. Institutional Introduction
 
 Roials Capital introduces allocators to counterparties whose operational competencies are aligned with sovereign grade stewardship. The objective is not to close transactions but to provide clarity, alignment, and readiness for potential collaboration.
 
@@ -137,20 +125,16 @@ Stewardship is the doctrine that capital must be used responsibly, strategically
 
 1. Non Wasteful Allocation Capital must be deployed into environments where operational outputs are measurable and long term.
 
-This is consistent with "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
+This is consistent with
 
-* and the multi generational ethos behind sovereign capital.
 
 2. Structural Oversight Stewardship demands that capital flows into systems that do not erode integrity.
 
 This means operators must demonstrate:
 
 - Fiscal discipline
-
 - Operational competence
-
 - Asset longevity
-
 - Transparent reporting
 
 3. Integrity of the Capital Stack The architecture must ensure that no layer of the capital stack exposes the allocator to unnecessary risk.
@@ -171,5 +155,5 @@ Allocators reviewing the sovereign asset hardening framework should evaluate dec
 
 4. Governance Compatibility Does the counterparty operate with a stewardship aligned ethos.
 
-Roials Capital provides confidential Strategy Audits, Portfolio Calibration assessments, and Institutional INTRODUCTION pathways for allocators seeking sovereign alignment. The objective is disciplined clarity, not solicitation. [END OF BRIEFING]
+Roials Capital provides confidential Strategy Audits, Portfolio Calibration assessments, and Institutional Introduction pathways for allocators seeking sovereign alignment. The objective is disciplined clarity, not solicitation. [END OF BRIEFING]
 

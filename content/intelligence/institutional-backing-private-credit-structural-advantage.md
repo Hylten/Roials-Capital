@@ -52,9 +52,7 @@ This structure enhances opportunity velocity and reduces the probability of tech
 In Fund-III buyout and add-on scenarios, this includes:
 
 - Advanced EBITDA normalization Excluding one-off integration costs, family transfer distortions, or transitional management expenditures.
-
 - Real asset verification Validating plant, equipment, mineral rights, or energy infrastructure through operational intelligence rather than appraised estimates.
-
 - Probability-weighted recovery modeling Focusing on terminal value and structural seniority rather than interest coverage alone.
 
 This delivers a more accurate assessment of borrower resilience.
@@ -62,9 +60,7 @@ This delivers a more accurate assessment of borrower resilience.
 3. Operational integration Institutional backing allows the lender to integrate operational intelligence across the credit lifecycle.
 
 - Active monitoring rather than passive surveillance Portfolio companies are assessed for operational drift, supply chain exposure, and liquidity stress points.
-
 - Borrower alignment through KPI-linked covenants Instead of punitive triggers, institutional covenants are designed to ensure alignment between the borrower, sponsor, and lender.
-
 - Precision restructuring capabilities Institutional lenders can intervene early, recalibrate amortization, or transition facilities to asset-backed structures if necessary.
 
 This operational intelligence reduces volatility and makes the credit more resilient across economic cycles.
@@ -78,11 +74,8 @@ Roials Capital'S POSITIONING Roials Capital operates as a strategic navigator, i
 Roials Capital provides institutional introductions to balance sheets capable of:
 
 - Multi-layer senior structures
-
 - Mezzanine overlays for expansion
-
 - Cross-border leverage solutions
-
 - Portfolio-level liquidity orchestration This positioning creates strategic alignment between GP growth trajectories and institutional credit archetypes.
 
 2. Asset-Based Lending Strategic Collateralization Across the mid-market, Asset-Based Lending structures remain under-optimized.
@@ -90,18 +83,15 @@ Roials Capital provides institutional introductions to balance sheets capable of
 Roials Capital facilitates access to institutional-grade Asset-Based Lending providers who can:
 
 - Consolidate multi-bank facilities
-
 - Unlock hidden working capital
-
 - Construct revolving lines tied to real-time inventory or receivables cycles
-
 - Integrate treasury-level cash management This is particularly relevant for enterprises undergoing integration phases post-acquisition.
 
 3. Special Mandates These mandates serve allocators requiring exposure beyond standard private credit.
 
 They include:
 
-- NAEOC 50M to 250M energy mandates in Alberta NAEO, our strategic partner, provides institutional-grade exposure to conventional heavy oil assets through structured production financing.
+- energy mandates 50M to 250M energy mandates in Alberta energy operations, our strategic partner, provides institutional-grade exposure to conventional heavy oil assets through structured production financing.
 
 This integrates SAGD and CSS operational intelligence, reservoir decline curve transparency, and asset hardening through proven recovery methods.
 
@@ -115,18 +105,15 @@ Roials Capital serves as an institutional interpreter. The firm provides allocat
 
 ## The Stewardship Filter
 
-Stewardship governs the disciplined allocation of capital, ensuring resources are placed in structures that maximize durability, efficiency, and long-term societal benefit. This discipline aligns with the biblical principle articulated in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
+Stewardship governs the disciplined allocation of capital, ensuring resources are placed in structures that maximize durability, efficiency, and long-term societal benefit. This discipline aligns with the biblical principle articulated in
 
 * , where the emphasis is on long-term inheritance and intergenerational responsibility.
 
 Stewardship in private credit includes:
 
 - Non-wasteful structure design Combining operational intelligence with capital integrity to avoid inflated leverage or poorly defined covenants.
-
 - Preference for durable cash flows Allocating capital toward enterprises or assets with demonstrable resilience rather than speculative narratives.
-
 - Jurisdictional and regulatory discipline Ensuring capital is deployed within frameworks that respect legal stability, resource rights, and transparent governance.
-
 - Operational transparency Favoring partners who provide full disclosure of decline curves, collateral liquidity, and covenant performance over time.
 
 This stewardship filter ensures that institutional allocators maintain integrity across their capital deployment strategies. THE DECISION-MAKING LENS FOR ALLOCATORS The allocator landscape has shifted toward strategic calibration rather than spread maximization. Private credit is no longer defined by yield. It is defined by structure quality, counterparty precision, and operational intelligence. Institutional backing enhances each of these elements and enables exposure to opportunities inaccessible to traditional lenders. A professional allocator navigating this environment benefits from a confidential Strategy Audit to assess portfolio construction, jurisdictional exposure, liquidity velocity, and the alignment of capital stack structures with long-term objectives. Roials Capital facilitates these audits, providing allocators with the intelligence required to operate confidently within a complex, evolving credit environment.

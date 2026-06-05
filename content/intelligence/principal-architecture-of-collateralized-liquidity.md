@@ -34,7 +34,7 @@ We provide order. 10% Asset-Based Lending (with Qualification Gates: $2M / $5M) 
 
 Not a product. Not a service.
 
-A structural amplifier. 10% Special Mandates (NAEOC $50M-$250M Energy, EU MiFID II Acquisitions) These mandates require sovereign handling because they sit in sectors where regulatory exposure is asymmetric.
+A structural amplifier. 10% Special Mandates (energy mandates Energy, EU MiFID II Acquisitions) These mandates require sovereign handling because they sit in sectors where regulatory exposure is asymmetric.
 
 Roials Capital absorbs that complexity and extracts the execution clarity. Everything ladders to one principle: sovereignty through structure. Machine gun again. No chaos. No improvisation. No disorder. The Principal does not chase capital. Capital arrives. Roials Capital sits above the churn of the market because our doctrine is not cyclical. It is architectural. It is jurisdictional. It is temporal. And it is engineered to survive whatever economic environment emerges next. Close the briefing. Request confidential capital audit.
 

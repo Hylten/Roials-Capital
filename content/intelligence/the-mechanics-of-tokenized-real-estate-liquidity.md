@@ -21,13 +21,9 @@ Precision Liquidity Through On-Chain Representation When a real estate asset is 
 A programmable claim can:
 
 - Settle instantly.
-
 - Be pledged across multiple liquidity environments.
-
 - Interface with private credit facilities.
-
 - Be embedded into automated risk systems.
-
 - Interact with cross border capital channels without legacy settlement delays.
 
 This is not theoretical. It is operational. For HNWI and UHNW portfolios, the ability to pledge a programmable claim against a Strategic Collateralization facility creates a directional shift. The portfolio becomes less about holding and more about routing. Routing is liquidity. Liquidity is control.
@@ -37,7 +33,6 @@ Asset Based Strategic Collateralization in the Tokenized Domain Roials Capital s
 In traditional Asset-Based Lending, the collateral verification cycle is slow. Legal reaffirmation, valuation windows, title clarity, and other steps add latency. With tokenized real estate, the verification cycle condenses. The digital wrapper provides instant clarity on ownership, fractionalization, transfer history, and settlement integrity. This creates a collateral object that is both:
 
 - Legally anchored.
-
 - Digitally operational.
 
 When we lend against such assets, the underwriting process becomes more structural and less administrative. The risk conversation moves from identity verification toward claim stability and token contract integrity. This shift benefits institutional borrowers who want liquidity without procedural drag.
@@ -47,11 +42,8 @@ Private Credit Integration and Liquidity Compression Private credit has become t
 Liquidity compression refers to reducing the distance between asset and usable capital. Tokenized structures achieve this by minimizing:
 
 - Transfer friction.
-
 - Legal abstraction layers.
-
 - Settlement drag.
-
 - Counterparty coordination overhead.
 
 Private credit facilities then leverage these efficiencies to issue faster, structured liquidity. At Roials Capital, our private credit discipline is anchored in principal authority. We do not announce. We architect. By integrating tokenized real estate into the private credit funnel, we create a financial surface where large capital can move with increased velocity without losing its institutional posture.
@@ -81,11 +73,8 @@ The Future State: Real Estate as a Liquid Primitive Tokenized real estate introd
 In this future state:
 
 - Properties become liquidity reservoirs.
-
 - Tokens become programmable conduits.
-
 - Private credit becomes the distribution engine.
-
 - Asset-Based Lending becomes the structural anchor.
 
 Roials Capital positions itself in the structural layer, not the speculative surface. We do not participate in hype cycles. We architect the frameworks that allow institutional capital to move with predictable precision.

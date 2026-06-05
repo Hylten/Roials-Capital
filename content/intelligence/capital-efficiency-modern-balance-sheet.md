@@ -33,7 +33,6 @@ Core holdings are no longer static assets. They have become balance sheet instru
 It sits at the intersection of treasury architecture, private credit structuring, and operational forecasting. It has three functions. First, stabilize the GP’s acquisition calendar. Capital timing gaps are the silent killers of mid-market buyout strategies. Institutional Liquidity Paths produces reliable execution windows through customized Asset-Based Lending lines, NAV-based facilities, and forward-drawn capital partners. Second, optimize the bottom quartile of the balance sheet. Underutilized assets
 
 - Receivables, inventory, equipment, and rights
-
 - Can be transformed into operational liquidity without jeopardizing equity control.
 
 Third, create capital neutrality during transitional periods. Transitional neutrality allows the GP to methodically pace its acquisition strategy without exposing the portfolio to liquidity compression.
@@ -43,20 +42,17 @@ Third, create capital neutrality during transitional periods. Transitional neutr
 Operators in Western Canada, particularly heavy oil producers, operate within subsurface regimes that reward disciplined steam management, reservoir pressure balance, and predictable decline profiles. This creates the conditions for institutional-grade introductions. SAGD (Steam Assisted Gravity Drainage) and CSS (Cyclic Steam Stimulation) assets generate production with a level of predictability that is rare in contemporary energy markets. The thermal physics of these systems create steady-state operations. For example:
 
 - SAGD pairs horizontal wellbores to create controlled gravity drainage.
-
 - CSS employs cyclic steam pulses to remobilize heavy oil at predictable intervals.
-
 - Decline curves in these operations are governed by reservoir pressure differentials rather than pure depletion.
-
 - Recovery factors are calculable within narrow ranges, often between 20 percent and 60 percent depending on reservoir structure and thermal performance.
 
-This predictability creates balance sheet stability. It also produces structural arbitrage because capital flight from conventional energy has suppressed valuations while subsurface performance has remained stable. Our strategic partner, NAEO, operates within this environment. Their focus is on operators with established reservoir histories, measurable recovery factors, and predictable maintenance programs. These features allow institutional allocators to analyze operational integrity rather than speculative upside.
+This predictability creates balance sheet stability. It also produces structural arbitrage because capital flight from conventional energy has suppressed valuations while subsurface performance has remained stable. Our strategic partner, energy operations, operates within this environment. Their focus is on operators with established reservoir histories, measurable recovery factors, and predictable maintenance programs. These features allow institutional allocators to analyze operational integrity rather than speculative upside.
 
 ### Phase III:
 
 ## The Partnership Model
 
-Roials Capital functions as a strategic navigator and institutional introducer across three domains: Fund-III capital raising, Strategic Collateralization, and special mandates in energy and cross-border acquisitions. In private equity, we create clarity around capital stack optimization, cross-border readiness, and acquisition pacing. Fund-III allocators benefit from structural visibility across acquisition calendars, debt maturities, and LP alignment. Our role is to increase the probability of clean execution by aligning the GP’s strategy with institutional capital expectations. In Asset-Backed Frameworks, we calibrate the interplay between Asset-Based Lending structures, NAV facilities, and collateral pools. These structures support balance sheet resilience, reduce liquidity compression risk, and strengthen the GP’s acquisition capacity without unnecessary dilution. In North American energy, our role is purely that of a strategic introducer. NAEO operates the assets. NAEO executes the field strategy. NAEO manages the reservoirs. Roials Capital provides the institutional translation layer, helping allocators understand Alberta’s basin physics, operational regimes, and capital flow inefficiencies. This partnership model allows allocators to navigate complex environments with technical clarity rather than promotional noise.
+Roials Capital functions as a strategic navigator and institutional introducer across three domains: Fund-III capital raising, Strategic Collateralization, and special mandates in energy and cross-border acquisitions. In private equity, we create clarity around capital stack optimization, cross-border readiness, and acquisition pacing. Fund-III allocators benefit from structural visibility across acquisition calendars, debt maturities, and LP alignment. Our role is to increase the probability of clean execution by aligning the GP’s strategy with institutional capital expectations. In Asset-Backed Frameworks, we calibrate the interplay between Asset-Based Lending structures, NAV facilities, and collateral pools. These structures support balance sheet resilience, reduce liquidity compression risk, and strengthen the GP’s acquisition capacity without unnecessary dilution. In North American energy, our role is purely that of a strategic introducer. energy operations operates the assets. energy operations executes the field strategy. energy operations manages the reservoirs. Roials Capital provides the institutional translation layer, helping allocators understand Alberta’s basin physics, operational regimes, and capital flow inefficiencies. This partnership model allows allocators to navigate complex environments with technical clarity rather than promotional noise.
 
 ### Phase IV:
 
@@ -78,7 +74,7 @@ Seniority is a legal fact, not a marketing headline. Stewardship requires clarit
 
 4. Alignment with durable assets.
 
-Hard assets with measurable utility and predictable decline profiles create balance sheet durability. This is consistent with "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
+Hard assets with measurable utility and predictable decline profiles create balance sheet durability. This is consistent with
 
 * , which anchors stewardship in generational capital behavior.
 
@@ -89,13 +85,9 @@ Stewardship transforms the balance sheet from a transactional instrument into a 
 DECISION-MAKING LENS FOR THE ALLOCATOR The allocator operating in 2026 faces an environment defined by volatility at the surface and stability in the subsurface. Capital efficiency becomes the bridge between the two. The path forward requires a disciplined calibration of:
 
 - Core asset leverage
-
 - Monetization Architecture
-
 - Institutional partnership structures
-
 - Hard asset introductions
-
 - Cross-border acquisition readiness Institutional allocators benefit from a confidential Strategy Audit to assess alignment between their balance sheet architecture, risk posture, and capital deployment timelines.
 
 This calibration produces principal authority. It strengthens acquisition readiness. It increases Opportunity Velocity without destabilizing the equity foundation. Roials Capital supports allocators seeking disciplined clarity, technical accuracy, and structural alignment across their Fund-III roadmap, liquidity frameworks, and energy introductions. [END OF BRIEFING]

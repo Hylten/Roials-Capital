@@ -40,7 +40,7 @@ Zero knowledge attestations provide this verification while maintaining security
 
 Roials Capital acts as a strategic navigator within this architecture. The function is not to manage assets or solicit commitments.
 
-## The Mandat E
+## The Mandate
 
 is to guide institutional allocators, family offices, and GP groups through the process of integrating digital collateral into multinational acquisition frameworks in a manner that respects regulatory structure and institutional discipline. The role is threefold.
 
@@ -48,9 +48,9 @@ is to guide institutional allocators, family offices, and GP groups through the 
 
 Cross border compliance coordination
 
-3. Introductions to institutional grade partners such as NAEO for specialized mandates In capital raising environments, particularly Fund-III and Fund-IV buyout vehicles, Roials Capital provides market navigation intelligence that highlights where digital collateral can enhance the continuity of acquisition sequencing.
+3. Introductions to institutional grade partners such as select institutional operators for specialized mandates In capital raising environments, particularly Fund-III and Fund-IV buyout vehicles, Roials Capital provides market navigation intelligence that highlights where digital collateral can enhance the continuity of acquisition sequencing.
 
-This is especially relevant for sponsors executing bolt on acquisitions in fragmented industries. In liquidity engineering assignments, digital asset collateral is evaluated as part of a multidimensional capital stack. The priority is balance sheet optimization and operational efficiency. Crypto collateral becomes a tool for improving opportunity velocity while maintaining lender security. Special mandates, such as the 50M to 250M North American energy consolidation initiatives led by NAEO, require hybrid collateral architectures. These assets carry physical, regulatory, and cashflow characteristics that differ significantly from technology or consumer roll ups. Roials Capital ensures technical alignment between digital collateral frameworks and the asset class specific underwriting used in Alberta basin acquisitions.
+This is especially relevant for sponsors executing bolt on acquisitions in fragmented industries. In liquidity engineering assignments, digital asset collateral is evaluated as part of a multidimensional capital stack. The priority is balance sheet optimization and operational efficiency. Crypto collateral becomes a tool for improving opportunity velocity while maintaining lender security. Special mandates, such as the 50M to 250M North American energy consolidation initiatives led, require hybrid collateral architectures. These assets carry physical, regulatory, and cashflow characteristics that differ significantly from technology or consumer roll ups. Roials Capital ensures technical alignment between digital collateral frameworks and the asset class specific underwriting used in Alberta basin acquisitions.
 
 ### Phase IV:
 
@@ -58,9 +58,8 @@ This is especially relevant for sponsors executing bolt on acquisitions in fragm
 
 Stewardship in capital architecture is the discipline of deploying resources without waste, distortion, or misalignment. This applies to digital wealth as directly as it applies to physical assets. The stewardship lens prioritizes clarity of purpose over velocity of execution. Wealth mobility is a stewardship function.
 
-Capital that cannot move cannot serve. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
+Capital that cannot move cannot serve.
 
-* outlines the principle that generational capital must be preserved and deployed with intentionality.
 
 Within cross border M and A environments, this means constructing collateral frameworks that do not expose capital to unnecessary risk or speculative leverage. The objective is to transform immobile wealth into strategic capability, not financial experimentation. Crypto collateral must be treated with the same sobriety applied to heavy oil reserves, manufacturing plants, or established cash flowing businesses. Stewardship requires discipline in valuation, precision in custody, and conservatism in leverage. These principles ensure that wealth mobility enhances institutional control rather than diminishing it. When integrated correctly, digital collateral becomes a tool of stewardship. It reduces dependency on dilutionary financing structures, supports responsible expansion, and preserves control within the allocator. This is particularly relevant for UHNWIs who seek to support GP partners without compromising generational capital frameworks.
 

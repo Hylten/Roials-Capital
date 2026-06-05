@@ -67,15 +67,10 @@ The track record is the architecture. The architecture is the truth.
 THE CORE REASON: INSTITUTIONS NOW REWARD SOVEREIGN AUTONOMY IN VALUE CREATION The deeper motive is sovereignty. Institutions want managers who can operate as sovereign engines of value creation. Not managers dependent on macro conditions. Not managers who collapse when debt markets constrict. Not managers who dilute discipline with financial shortcuts. A GP capable of generating higher unlevered returns is a GP that controls its fate. A GP that cannot will always be at the mercy of external liquidity. Institutions allocate to the sovereign. Not the dependent. THE INDUSTRIAL INTERPRETATION A GP that generates high unlevered returns brings the following capabilities into the room :
 
 - Operational mastery at plant, process, and P&L level.
-
 - Structural margin improvement without cycle dependence.
-
 - M&A execution that compounds through synergy capture, not storytelling.
-
 - Pricing power born from brand control, not discounting.
-
 - Governance discipline-quiet, relentless, precise.
-
 - Multi-year durability that survives downcycles, not just upcycles.
 
 This is the sovereign architecture LPs now reward. No theatrics. No leverage illusions. Only the fundamentals that endure. CAPITAL RAISING (80% )
@@ -103,7 +98,6 @@ The ultimate test. The new north star. The market rarely speaks this bluntly, bu
 When GPs request Asset-Based Lending to support working capital, acquisitions, or cross‑border liquidity, the institution demands controlled access. Qualification is mandatory. The thresholds are explicit.
 
 - The $2M Gate: Minimum entry for standard engagements.
-
 - The $5M Gate: Activation point for multi‑facility and multi‑jurisdictional structures.
 
 These gates are not arbitrary. They are filters to protect institutional product integrity. Managers who cannot meet these thresholds are not operating at a level consistent with Fund‑III+ architecture. SPECIAL MANDATES (10% )
@@ -112,7 +106,7 @@ These gates are not arbitrary. They are filters to protect institutional product
 
 The allocations are more disciplined. More structured. Less forgiving.
 
-NAEOC mandates in the $50M.$250M range require sovereign consistency-industrial stability, regulatory fluency, and operational throughput.
+energy mandates in the $50M.$250M range require sovereign consistency-industrial stability, regulatory fluency, and operational throughput.
 
 EU acquisition programs require compliance architecture and multi‑jurisdictional financial coherence. These mandates funnel capital toward managers who operate with seriousness, not noise. This segment reinforces the larger theme: Institutions reward discipline. They allocate to order. They punish drift.
 

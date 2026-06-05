@@ -23,9 +23,7 @@ Structural Alpha Defined Structural alpha is the incremental return generated th
 It is not dependent on market movements. It is dependent on structural mechanics. The Roials Capital Framework Roials Capital operates within private credit and asset based Institutional Liquidity Paths, creating liquidity against positions that traditional lenders either misunderstand or refuse to underwrite. We issue credit against:
 
 - Private credit positions.
-
 - Asset Based Monetization Architecture structures.
-
 - Crypto holdings, with a minimum threshold of
 2 million dollars.
 
@@ -54,7 +52,7 @@ How Private Credit Responds to Market Stress During market stress, public market
 
 When architecture is sound, this lag becomes a source of alpha. It allows lenders to enforce protective terms, negotiate from strength, and maintain yield continuity when other asset classes are resetting.
 
-The Role of Overcollateralization Overcollateralization is a core driver of structural alpha. It ensures that capital always sits in a senior position.
+The Role of Overcollateralization is a core driver of structural alpha. It ensures that capital always sits in a senior position.
 
 It provides immediate optionality. It protects return continuity. At Roials Capital, overcollateralization is not a defensive mechanism. It is a design principle that transforms risk exposure into predictable yield.
 

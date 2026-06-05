@@ -38,11 +38,8 @@ The architecture that governs private credit today is neither uniform nor static
 1. Underwriting Mechanics and Structural Seniority A modern underwriting file incorporates four non negotiable analytical layers:
 
 - LTV curves that are recalibrated based on real asset liquidation values rather than theoretical enterprise value projections.
-
 - Debt service coverage ratios set against conservative recurring cash flow, excluding non permanent revenue sources.
-
 - Structural seniority anchored through first ranking liens, negative pledge control, and cross collateralization across operating subsidiaries.
-
 - Covenant architecture calibrated to operational inflection points rather than calendar timing.
 
 The institutional preference in 2026 focuses on lenders that build structural seniority through control of cash flow waterfalls. Priority is given to structures where receivables, inventory cycles, and hard asset value are synchronized within one surveillance framework.
@@ -52,11 +49,8 @@ The institutional preference in 2026 focuses on lenders that build structural se
 It is a primary value preservation strategy. It ensures that the collateral base underpinning the credit facility remains durable through market volatility, rate cycles, and operational disruptions. Collateral interoperability is the discipline that ensures underlying assets can be transferred, pledged, or reorganized across legal entities without impairment. Examples include:
 
 - Rolling stock and machinery tied to serial number audits with quarterly verification.
-
 - Real estate assets evaluated by replacement cost rather than market comparables.
-
 - Energy assets monitored through reservoir engineering assessments and decline curve analyses.
-
 - Corporate IP portfolios stress tested for enforceability during restructuring events.
 
 The institutions allocating into Fund-III structures require evidence that the GP does not rely solely on covenant protection but anchors protection within tangible and legally resilient collateral.
@@ -64,13 +58,9 @@ The institutions allocating into Fund-III structures require evidence that the G
 3. Cash Flow Waterfall Discipline Modern cash flow waterfalls prioritize creditor protection through structured sequencing:
 
 - Operating cash requirements.
-
 - Senior interest obligations.
-
 - Fixed amortization.
-
 - Mandatory sweep mechanisms.
-
 - Sponsor distributions only after compliance with protective thresholds.
 
 The presence of mandatory sweeps and restricted payment constructs is now a baseline expectation in institutional grade lending. These mechanics align incentives, stabilize liquidity forecasts, and reduce counterparty uncertainty.
@@ -80,18 +70,13 @@ The presence of mandatory sweeps and restricted payment constructs is now a base
 For example, in Alberta heavy oil operations, operational intelligence must incorporate:
 
 - Reservoir performance predictability.
-
 - SAGD steam oil ratio efficiency and decline curve slope.
-
 - CSS cycle timing and the thermodynamic efficiency of steam injection.
-
 - Reservoir thermal conformance and horizontal well spacing.
-
 - LMR eligibility, abandonment liability controls, and AER compliance.
-
 - The counter intuitive reality that mature heavy oil assets exhibit lower volatility due to established geology and predictable decline mechanics.
 
-Partners such as NAEO address these requirements with institutional grade monitoring systems and operational transparency. The objective is to create a risk adjusted credit environment around energy assets that is decoupled from the volatility traditionally associated with the commodity cycle.
+Partners such as select institutional operators address these requirements with institutional grade monitoring systems and operational transparency. The objective is to create a risk adjusted credit environment around energy assets that is decoupled from the volatility traditionally associated with the commodity cycle.
 
 ### Phase III:
 
@@ -99,16 +84,13 @@ Partners such as NAEO address these requirements with institutional grade monito
 
 Roials Capital operates not as a fund manager but as a strategic navigator, institutional introducer, and architecture designer for allocators. The role is not to promote a specific vehicle but to align GPs, LPs, and sector specialists around coherent structural logic. The partnership model functions on four operational axes:
 
-1. Kapitalanskaffning for Fund-III and Successor Vehicles Eighty percent of THE MANDATE
+1. Kapitalanskaffning for Fund-III and Successor Vehicles Eighty percent of The Mandate
 
 centers on capital formation for vehicles entering their Fund-III trajectory or scaling into higher velocity buyout and add on cycles. The institutional requirement for Fund-III participation is clarity on:
 
 - Repeatability of underwriting standards.
-
 - Portfolio level risk diffusion.
-
 - Multi cycle operational proof.
-
 - Robust back office, reporting, and compliance systems consistent with US, EU, and GCC LP expectations.
 
 Roials Capital positions itself as a calibrator, ensuring that GP communication aligns with the institutional archetype expected by sovereign allocators, pension systems, and concentrated family offices.
@@ -118,38 +100,32 @@ Roials Capital positions itself as a calibrator, ensuring that GP communication 
 These structures require:
 
 - Precision engineering of borrowing base algorithms.
-
 - Non dilutive liquidity enhancement.
-
 - Real time collateral surveillance systems.
-
 - Integration with M&A related cash flow transitions.
 
 The objective is to help institutions identify managers who deploy capital in a manner consistent with the discipline expected in the upper strata of private credit.
 
-3. Special Mandates across Energy and MiFID II Environments Ten percent of THE MANDATE
+3. Special Mandates across Energy and MiFID II Environments Ten percent of The Mandate
 
 relates to specialized opportunities, including:
 
-- North American heavy oil capital mandates between 50M and 250M USD through NAEO.
-
+- North American heavy oil capital mandates between 50M and 250M USD.
 - MiFID II compliant acquisition structures in the EU.
-
 - Special situation balance sheet restructurings in industrial and logistic sectors.
 
 These are not generalized opportunities. They require a filtered LP audience with alignment to operational complexity, long duration cash flows, and sector specific knowledge.
 
 4. Neutrality and Governance Orientation The role of Roials Capital is strictly non promotional.
 
-It is an alignment function that ensures LPs engage structures that meet their governance thresholds. Every INTRODUCTION is engineered around neutrality and compliance. The objective is to support institutional decision making by delivering clarity, not persuasion.
+It is an alignment function that ensures LPs engage structures that meet their governance thresholds. Every Introduction is engineered around neutrality and compliance. The objective is to support institutional decision making by delivering clarity, not persuasion.
 
 ### Phase IV:
 
 ## The Stewardship Filter
 
-Stewardship is the discipline of resource management anchored in restraint, governance, and accountability. In capital markets, stewardship requires a philosophy that mirrors the principles expressed in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
+Stewardship is the discipline of resource management anchored in restraint, governance, and accountability. In capital markets, stewardship requires a philosophy that mirrors the principles expressed in
 
-* where generational stability arises from disciplined management rather than opportunistic extraction.
 
 The stewardship filter is composed of five evaluative criteria:
 
@@ -169,7 +145,7 @@ This includes realistic cash flow assumptions, conservative LTV calculations, an
 
 5. Long Horizon Asset Responsibility In energy and industrial assets, stewardship extends beyond capital structure to include environmental obligations, operational compliance, and responsible resource extraction.
 
-NAEO exemplifies this through rigorous AER engagement and proactive abandonment liability management.
+energy operations exemplifies this through rigorous AER engagement and proactive abandonment liability management.
 
 ### Phase V:
 
@@ -185,7 +161,7 @@ The allocator evaluating alignment in the modern private credit environment oper
 
 4. Multi Cycle Proof Does the GP maintain underwriting consistency across Fund-I, Fund-II, and Fund-III, demonstrating discipline that can survive rate shifts and economic contraction.
 
-5. INTRODUCTION Pathway Has the LP been aligned with a vehicle or mandate that reflects genuine strategic suitability.
+5. Introduction Pathway Has the LP been aligned with a vehicle or mandate that reflects genuine strategic suitability.
 
 The role of Roials Capital is to ensure that alignment. The institutional progression from preliminary review to calibrated engagement often culminates in a confidential strategy audit. This process allows LPs to evaluate governance structures, credit mechanics, and operational discipline through a controlled and private assessment.
 

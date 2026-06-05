@@ -18,23 +18,16 @@ The capital vacuum in North American energy is a function of regulatory drift an
 Allocators operating from 2024 to 2026 are navigating the most complex capital cycle since the post Bretton Woods restructuring. The present environment is defined by four converging pressures:
 
 - A global cost of capital reset that has structurally redefined hurdle rates and the viability of leverage across buyout ecosystems.
-
 - A migration of liquidity from traditional bank channels toward private credit, family offices, and cross-border institutional pools seeking real collateral and predictable cash flow pathways.
-
 - A geopolitical bifurcation that has elevated real assets, commodity infrastructure, and regulated cash flow systems as the primary institutional archetypes for long-duration capital.
-
 - A systematic undercapitalization of North American energy due to ESG-driven capital flight, despite consistent demand baselines and the technical advantage of mature conventional reservoirs with known decline curves.
 
 Collectively these dynamics have created a new capital regime where balance sheet rigidity becomes a liability. Static capital structures are structurally misaligned with market volatility, regulatory overhang, and extended refinancing cycles. This is the environment where Asset Based Strategic Collateralization (Asset-Based Lending-E) emerges as a structural solution rather than a financing tactic. Asset-Based Lending-E is not borrowing against an asset. It is the engineering of liquidity pathways that match the operational physics, cash flow timing, and collateral durability of the underlying asset class. The discipline operates at the intersection of private credit, operational underwriting, and long dated asset stewardship. The macro context has created an allocator priority shift. Portfolios previously constructed for growth must now be recalibrated for:
 
 - Capital efficiency
-
 - Duration safety
-
 - Structural seniority
-
 - Replacement cost advantage
-
 - Real asset defensibility In this recalibrated environment, the strongest economic engine for multi generational wealth is not rapid scaling but liquidity control.
 
 Families and institutions that master Monetization Architecture create a structural asymmetry: they can act while others are stalled. They can acquire distressed or mispriced assets during capital shortfalls. They can maintain operational continuity without forced liquidation. They can extend planning horizons beyond market cycles.
@@ -69,9 +62,9 @@ This is the structural mechanism through which multi generational wealth expands
 
 ### Phase I:
 
-## Subset: Energy Specific Mechanics with Naeocc
+## Subset: Energy Specific Mechanics
 
-When applied to the North American conventional energy corridor through NAEOCCC, to which we serve as a strategic partner, Asset-Based Lending-E takes on an additional layer of technical specificity.
+When applied to the North American conventional energy corridor, Asset-Based Lending-E takes on an additional layer of technical specificity.
 
 - Reservoir Quality Conventional heavy oil assets in Alberta operate within well-characterized geologic environments.
 
@@ -87,34 +80,25 @@ This creates a stable cash flow base suitable for Capital Structuring.
 
 - Capital Timing Field development plans can be synchronized with liquidity events.
 
-Steam cycles, well workovers, and pad expansions can be integrated inside pre engineered cash flow waterfalls. This is why NAEOCCC is positioned as an institutional partner rather than a counterparty. The technical transparency of the assets enables disciplined Asset-Based Lending-E without speculative assumptions. This structural clarity is rare in the broader energy landscape.
+Steam cycles, well workovers, and pad expansions can be integrated inside pre engineered cash flow waterfalls. This is why Energy operators are positioned as institutional partners rather than a counterparty. The technical transparency of the assets enables disciplined Asset-Based Lending-E without speculative assumptions. This structural clarity is rare in the broader energy landscape.
 
 ## The Partnership Model
 
 Roials Capital operates as a strategic navigator. The firm does not act as a balance sheet counterparty. Instead, the function is to structure, coordinate, and architect the alignment between:
 
 - Institutional LPs
-
 - Family office principals
-
 - Fund-III and later stage buyout platforms
-
-- Energy operators such as NAEOCCC
-
+- Energy operators such as select institutional operators
 - European MiFID II acquirers seeking regulated entry
-
 - Private credit providers executing on collateral centric mandates In this role, Roials Capital’s objective is to create Institutional
 
-INTRODUCTION pathways that match the allocator profile with the operational environment. The function is to eliminate signal noise, misalignment, and structural frictions that reduce Opportunity Velocity. Within capital raising (kapitalanskaffning) environments for Fund-III and later vintage buyout platforms, the partnership model centers on:
+Introduction pathways that match the allocator profile with the operational environment. The function is to eliminate signal noise, misalignment, and structural frictions that reduce Opportunity Velocity. Within capital raising (kapitalanskaffning) environments for Fund-III and later vintage buyout platforms, the partnership model centers on:
 
 - Underwriting the operational validity of the platform
-
 - Ensuring the capital architecture supports scale without compromising liquidity
-
 - Identifying where Asset-Based Lending-E can protect the balance sheet
-
 - Structuring add on acquisitions around liquidity availability rather than opportunistic timing
-
 - Aligning European, US, Swiss, and Gulf allocators with the appropriate regulatory chassis The objective is not capital aggregation.
 
 The objective is capital architecture. Well structured capital attracts capital. Poorly structured capital destroys it.
@@ -125,22 +109,16 @@ Stewardship is the discipline that integrates financial prudence with resource r
 
 It is not austerity.
 
-It is the deliberate management of capital in a manner that respects longevity, continuity, and intergenerational responsibility. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
+It is the deliberate management of capital in a manner that respects longevity, continuity, and intergenerational responsibility.
 
-* states that a good person leaves an inheritance for their grandchildren.
 
 The institutional application of this principle is clear: an inheritance requires durable assets, resilient liquidity systems, and disciplined governance. Stewardship is not passive preservation. It is active structuring. In asset based Monetization Architecture, stewardship manifests as:
 
 - Avoiding consumption of principal
-
 - Avoiding speculative leverage
-
 - Reinforcing collateral bases that do not degrade through market cycles
-
 - Ensuring assets are hardened against technological, regulatory, or operational obsolescence
-
 - Protecting liquidity pathways from external shocks
-
 - Aligning investment horizons with family governance horizons Stewardship converts wealth into permanence.
 
 Strategic Collateralization converts permanence into opportunity. Together they create the structural engine for multi generational resilience.

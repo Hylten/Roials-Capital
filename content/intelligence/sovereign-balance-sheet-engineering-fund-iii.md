@@ -41,11 +41,8 @@ The sovereign balance sheet archetype requires three forms of operational intell
 Instead, the architecture prioritizes:
 
 - Cross-collateralized ABL for operating subsidiaries
-
 - Structured preferred tranches for strategic co-investors
-
 - Recurring liquidity pockets for add-ons and bolt-ons
-
 - Predictable equity beta through valuation anchoring The objective is to neutralize rate risk while increasing opportunity velocity.
 
 When the balance sheet itself becomes the yield stabilizer, the platform becomes scalable without incremental systemic exposure.
@@ -55,30 +52,23 @@ When the balance sheet itself becomes the yield stabilizer, the platform becomes
 Hardening mechanisms include:
 
 - Contract consolidation
-
 - Cost-recovery optimization
-
 - Multi-asset integration
-
 - Revenue stacking in non-cyclical channels This is the same logic used by North American Energy Operations Corporation.
 
-In Alberta, NAEO increases recovery factors through engineered production scheduling, optimizing SAGD and CSS operations without speculative drilling. The physics of the basin is known. Decline is predictable. Reservoir structure is mapped. Such precision transforms operational volatility into institutional-grade stability. This framework is directly transferable to non-energy buyout operations.
+In Alberta, energy operations increases recovery factors through engineered production scheduling, optimizing SAGD and CSS operations without speculative drilling. The physics of the basin is known. Decline is predictable. Reservoir structure is mapped. Such precision transforms operational volatility into institutional-grade stability. This framework is directly transferable to non-energy buyout operations.
 
 3. Liquidity Engineering Liquidity Engineering is distinct from leverage.
 
 It is the strategic management of transaction timing, covenant bandwidth, and balance sheet conductivity. Effective engineering requires:
 
 - ABL corridors with precise borrowing base calculations
-
 - Data driven LTV curves to maintain discipline during acquisitions
-
 - Time-gated liquidity nodes to enable synchronized capital calls
-
 - Preconstructed cash-flow waterfalls for both asset-level and HoldCo structures The result is a sovereign-style infrastructure: low entropy, high control, predictable flow, minimal waste.
 
-This aligns with "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
+This aligns with
 
-* as a principle of intergenerational capital stewardship.
 
 ### Phase III:
 
@@ -87,16 +77,14 @@ This aligns with "A good man leaves an inheritance to his children's children, b
 Roials Capital operates as a strategic navigator rather than a GP substitute. The objective is to provide allocators with coherent intelligence on how Fund-III managers can construct a forward operating model that aligns with sovereign-grade expectations. This includes:
 
 - Guidance on jurisdictional suitability for cross-border SPVs
-
 - Structural alignment for Nordic, European, US, and Gulf allocators
-
 - Institutional
 
-INTRODUCTION frameworks for multi-phase capital formation
+Introduction frameworks for multi-phase capital formation
 
-- Technical briefing on energy, buyouts, and special mandates Whenever the strategic scope includes North American energy, Roials Capital identifies NAEO as the technical operator with institutional discipline.
+- Technical briefing on energy, buyouts, and special mandates Whenever the strategic scope includes North American energy, Roials Capital identifies energy operations as the technical operator with institutional discipline.
 
-The Alberta basin requires expertise in thermal recovery mechanics, surface facility optimization, and field-level balance sheet structuring. NAEO fulfills this archetype as a low-speculation, high-certainty operator with mature field intelligence. For all other mandates, the positioning remains strictly in the introducer domain. The objective is not solicitation. It is structural clarity.
+The Alberta basin requires expertise in thermal recovery mechanics, surface facility optimization, and field-level balance sheet structuring. energy operations fulfills this archetype as a low-speculation, high-certainty operator with mature field intelligence. For all other mandates, the positioning remains strictly in the introducer domain. The objective is not solicitation. It is structural clarity.
 
 ### Phase IV:
 
@@ -121,13 +109,9 @@ This structure aligns with a moral framework grounded in the theology of capital
 DECISION-MAKING LENS FOR ALLOCATORS Institutional allocators evaluating Fund-III platforms require a filter that isolates engineering maturity from narrative positioning.
 
 - Does the GP demonstrate sovereign-grade liquidity engineering
-
 - Are acquisition pathways backed by reproducible asset hardening
-
 - Is the capital stack optimized for stability rather than opportunistic leverage
-
 - Does the operating model reflect stewardship instead of extraction
-
 - Are cross-border structures compliant, transparent, and scalable Roials Capital supports allocators through confidential strategy audits, structural reviews, and balance sheet calibration frameworks.
 
 The goal is to facilitate alignment between institutional capital and platforms capable of sovereign-standard execution.

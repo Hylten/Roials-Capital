@@ -58,9 +58,7 @@ Optional frameworks allow the GP to execute operational value creation without d
 LP sentiment today:
 
 - “We want transparency, not handcuffs.”
-
 - “Show us your framework, don’t make it a covenant.”
-
 - “Optionality protects returns.
 
 Mandatory rules suppress them.” As a result, Fund‑III and Fund‑IV launches are gravitating toward “ESG‑optional with structured reporting,” giving allocators visibility without sacrificing strategic latitude.
@@ -70,9 +68,7 @@ Mandatory rules suppress them.” As a result, Fund‑III and Fund‑IV launches
 ## Implications for Buyouts and Add‑Ons For platform builders, an ESG‑optional fund creates flexibility in three areas:
 
 - Ability to buy non‑compliant assets and convert them during the holding period.
-
 - Ability to pursue hard‑to‑abate sectors where real returns come from operational transformation.
-
 - Ability to accept LPs from diverse geographies without triggering exclusionary clauses.
 
 This improves capital formation and increases the velocity of deployment, particularly in mid‑market industrials, chemicals, materials, and energy services. - - -
@@ -86,9 +82,7 @@ An **ESG‑optional approach *
 * broadens:
 
 - Available collateral pools,
-
 - Usable jurisdictions,
-
 - Turnaround cases where operational improvements unlock value.
 
 If you would like, I can also prepare a clean section on **when ABL structures materially benefit buyout funds *
@@ -100,23 +94,18 @@ If you would like, I can also prepare a clean section on **when ABL structures m
 ## Special Mandates (Energy & MiFID II Deals) An ESG‑optional structure is increasingly preferred by allocators deploying into:
 
 - North American energy and infrastructure transitions ($50M.$250M tickets),
-
 - European MiFID II‑aligned acquisitive platforms.
 
 Reason: It avoids disqualifying assets where transformation
 
 - Not compliance
-
 - Is the value driver.
-
 - - -
 
 ## If you want a full publish‑ready article I can create:
 
 - A long‑form research note,
-
 - A partner memo, or
-
 - An institutional LP brief.
 
 Just tell me:
@@ -142,17 +131,11 @@ Just tell me:
 * emphasized.
 
 - -
-
 - If your aim is a **confidential capital audit**, tell me what you want assessed:
-
 - Your current fund structure,
-
 - LP pipeline,
-
 - GP positioning,
-
 - Deal pipeline readiness,
-
 - Or capital‑raising strategy.
 
 I can draft the audit immediately.

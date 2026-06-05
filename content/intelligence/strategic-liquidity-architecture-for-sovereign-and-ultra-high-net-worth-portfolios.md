@@ -19,13 +19,9 @@ The Strategic Benefit to Sovereign Decision Makers When liquidity becomes predic
 Decision makers gain:
 
 - Optionality in geopolitical windows
-
 - Ability to pursue countercyclical investments
-
 - Strengthened negotiating leverage with global actors
-
 - Risk adjusted returns without destabilizing existing positions
-
 - Control over the pace of capital rotation This is the architecture layer.
 
 It is the layer that sovereign and UHNW portfolios require.

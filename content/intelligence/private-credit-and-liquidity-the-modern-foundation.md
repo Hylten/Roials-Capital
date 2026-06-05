@@ -35,7 +35,7 @@ Institutional Balance Sheet Liquidity At the institutional level, liquidity dete
 
 Interest payments. Contractual amortizations. Refinancing events. These recurring inflows stabilize the broader balance sheet and allow allocators to expand into additional strategies without increasing systemic fragility.
 
-The Evolution of Private Credit Demand Demand for private credit is expanding along three primary channels. Middle market borrowers.
+The Evolution of Private Credit Demand for private credit is expanding along three primary channels. Middle market borrowers.
 
 Large cap corporates. Specialty credit segments. Middle market firms continue to anchor the asset class due to their need for flexible, confidential capital. Large cap corporates have increased participation because private lenders can move faster than syndication markets. Specialty credit is growing because regulatory fragmentation has created financing voids that private capital can fill with precision. The common denominator is speed and certainty. Private lenders provide answers. They do not run prolonged committee cycles. They do not rely on market mood. They do not outsource pricing.
 

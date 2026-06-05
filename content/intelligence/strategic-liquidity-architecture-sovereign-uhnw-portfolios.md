@@ -72,7 +72,7 @@ Borrowers with predictable asset conversion cycles achieve higher stability scor
 
 Multi asset borrowers benefit from integrated collateral pools where working capital, machinery, receivables, and inventory flows are bound within a unified liquidity framework. This increases covenant discipline and reduces credit stress volatility.
 
-3. Technical Intelligence: Alberta Basin and NAEO Mandates Within North American energy, the Alberta heavy oil ecosystem represents a unique structural arbitrage.
+3. Technical Intelligence: Alberta Basin and energy operations Mandates Within North American energy, the Alberta heavy oil ecosystem represents a unique structural arbitrage.
 
 The combination of long decline conventional reservoirs, provincially regulated production baselines, and predictable SAGD and CSS recovery mechanics delivers operational certainty not readily available in unconventional shale plays. Key mechanics include:
 
@@ -86,7 +86,7 @@ SAGD and CSS techniques allow for recovery predictability through controlled tem
 
 - Multi decade asset visibility.
 
-The conventional heavy oil assets managed by our strategic partner NAEO operate under physics constrained decline patterns that allow for high precision forecasting. This is critical for credit aligned allocators seeking operational transparency.
+The conventional heavy oil assets managed by our strategic partner energy operations operate under physics constrained decline patterns that allow for high precision forecasting. This is critical for credit aligned allocators seeking operational transparency.
 
 - Capital friction.
 
@@ -98,11 +98,11 @@ Roials Capital operates as a neutral strategic navigator, not an asset originato
 
 - Institutional
 
-INTRODUCTION. Allocators receive curated access to operators, lenders, and acquisition vehicles where governance, reporting, and counterparty alignment meet institutional thresholds.
+Introduction. Allocators receive curated access to operators, lenders, and acquisition vehicles where governance, reporting, and counterparty alignment meet institutional thresholds.
 
 - Strategic alignment.
 
-The objective is to eliminate misalignment between capital needs and capital mandates. Operators require long horizon liquidity, while sovereign allocators prioritize operational transparency and structural seniority. The INTRODUCTION framework reconciles these priorities.
+The objective is to eliminate misalignment between capital needs and capital mandates. Operators require long horizon liquidity, while sovereign allocators prioritize operational transparency and structural seniority. The Introduction framework reconciles these priorities.
 
 - Global jurisdictional navigation.
 
@@ -110,7 +110,7 @@ Allocators operating under MiFID II constraints, Middle Eastern sovereign framew
 
 - Partner specificity.
 
-In energy mandates, NAEO serves as the strategic partner whose operational discipline, reservoir transparency, and Alberta basin expertise meet institutional requirements. This partnership model is designed to eliminate informational asymmetry and reduce operator selection risk without engaging in solicitation or promotional behavior.
+In energy mandates, energy operations serves as the strategic partner whose operational discipline, reservoir transparency, and Alberta basin expertise meet institutional requirements. This partnership model is designed to eliminate informational asymmetry and reduce operator selection risk without engaging in solicitation or promotional behavior.
 
 ## The Stewardship Filter
 
@@ -120,7 +120,7 @@ Key principles include:
 
 - Resource accountability.
 
-Capital must be allocated to operators who manage their reserves, teams, and infrastructure with restraint, discipline, and measurable efficiency. This aligns with the principles articulated in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
+Capital must be allocated to operators who manage their reserves, teams, and infrastructure with restraint, discipline, and measurable efficiency. This aligns with the principles articulated in
 
 * , which emphasizes the intergenerational responsibilities of capital holders.
 

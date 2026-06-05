@@ -76,7 +76,7 @@ Crypto collateral serves as an uncorrelated borrowing base. The structure is oft
 
 3. Special mandates.
 
-- Energy: NAEO remains the institutional partner in Alberta for heavy oil and SAGD based acquisition strategies.
+- Energy: The corridor remains the institutional partner in Alberta for heavy oil and SAGD based acquisition strategies.
 
 Crypto backed ABL is occasionally used to unlock cash for energy entry while preserving core asset allocations.
 
@@ -92,9 +92,8 @@ Stewardship is not sentiment. It is the discipline of aligning capital with purp
 
 1. Preservation before acceleration.
 
-Liquidity is not pursued to increase leverage. It is pursued to maintain strategic optionality and avoid unnecessary asset liquidation. This reflects the principle in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
+Liquidity is not pursued to increase leverage. It is pursued to maintain strategic optionality and avoid unnecessary asset liquidation. This reflects the principle in
 
-* which highlights the enduring nature of multigenerational capital.
 
 2. Asset hardening.
 

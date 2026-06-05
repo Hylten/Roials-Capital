@@ -26,52 +26,40 @@ Multi jurisdictional asset allocation is entering a regime defined by capital sc
 Energy assets in Alberta require operational intelligence that is rarely reflected in surface level financial reporting. Recovery systems such as SAGD, CSS, and cold flow heavy oil extraction generate different thermal efficiencies, steam oil ratios, and decline characteristics. SAGD assets operate with a dual well configuration where gravitational drainage drives predictability. CSS assets involve repeated steam stimulation cycles that create operational variability but also substantial upside when executed with precision. Cold flow operations in the Alberta Basin operate without thermal systems and rely on natural reservoir pressure dynamics, producing some of the most stable decline curves in North America. Institutional allocators evaluating these assets often underestimate the mechanical certainty embedded within mature reservoirs where the recovery factor is historically grounded in basin physics rather than speculative drilling. For instance:
 
 - Cold flow assets often maintain 8 percent to 12 percent annual declines, enabling long term production modeling with minimal variance.
-
 - SAGD recovery factors commonly range between 45 percent and 65 percent of original bitumen in place when reservoir design is optimized.
-
 - CSS deployment increases operational complexity but can substantially extend economic life where reservoir pressure characteristics support repeated cycles.
 
 These mechanics matter because they directly influence capital structure design, debt coverage ratios, and the durability of cross border collateralization. Within private credit, allocators are increasingly prioritizing asset hardened structures where reserve life indices support multi year visibility. LTV curves must be adjusted to reflect energy price normalization rather than short term volatility. Structural seniority becomes essential. Senior secured instruments anchored to long life assets with predictable cash flow distribution sequencing are increasingly favored. In buyout platforms, particularly Fund-III and Fund IV strategies, multi jurisdiction integration requires:
 
 - Jurisdictional harmonization for subsidiary level debt instruments.
-
 - Clear waterfall sequencing for distributions across EU HoldCos, North American OpCos, and Middle Eastern investment vehicles.
-
 - Opportunity velocity calibration to ensure bolt on acquisitions enhance yield on cost without fracturing governance.
-
 - Replacement cost benchmarks to validate pricing on physical or industrial assets.
 
 ABL facilities are being deployed to create Liquidity Engineering frameworks that stabilize portfolio companies without diluting equity. This is particularly effective when underlying asset bases include industrial equipment, contracted receivables, or energy royalties.
 
 ## The Partnership Model
 
-Roials Capital operates as a strategic navigator whose mandate is to create visibility across jurisdictions and introduce institutional grade partners. Within the North American energy landscape, NAEO functions as the technical operator with domain expertise in Alberta heavy oil and thermal systems. Roials Capital maintains introducer neutrality and provides operational intelligence so that allocators understand:
+Roials Capital operates as a strategic navigator whose mandate is to create visibility across jurisdictions and introduce institutional grade partners. Within the North American energy landscape, energy operations functions as the technical operator with domain expertise in Alberta heavy oil and thermal systems. Roials Capital maintains introducer neutrality and provides operational intelligence so that allocators understand:
 
 - Recovery mechanics.
-
 - Basin physics.
-
 - Structural optionality across capital formation pathways.
-
 - Cross jurisdictional governance requirements.
 
 For private equity funds scaling Fund-III and Fund IV cycles, alignment requires clarity on capitalization velocity, LP communication protocols, and integration frameworks for acquisitive platforms. Roials Capital supports strategic alignment so capital raising cycles mirror the operational tempo of the portfolio rather than the reverse. In special mandates, including MiFID II acquisition pathways and North American energy consolidation, Roials Capital acts as the institutional interface, ensuring that allocators maintain jurisdictional clarity and governance cohesion. This includes:
 
 - Multi domicile structuring.
-
 - Regulatory harmonization.
-
 - Seniority mapping across legal systems.
-
 - Asset originator transparency.
 
 ## The Stewardship Filter
 
 Stewardship operates as a discipline rather than an ethos. In evaluating multi jurisdictional asset structures, stewardship translates into non wasteful capital deployment, precision in resource management, and governance that aligns authority with responsibility.
 
-It draws from the principle in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
+It draws from the principle in
 
-* where long term value creation is connected to generational discipline.
 
 Within energy systems, stewardship means deploying capital where decline profiles, reservoir physics, and operational governance reduce the probability of waste. In private credit, stewardship activates through balance sheet optimization and disciplined cash flow allocation. In cross border buyouts, stewardship demands clarity of control, avoidance of over engineered holding structures, and coherent integration sequencing.
 
@@ -80,14 +68,10 @@ Within energy systems, stewardship means deploying capital where decline profile
 Institutional allocators engaging with multi jurisdictional assets require a calibration lens that aligns capital formation with structural durability. The allocator must examine:
 
 - Jurisdictional enforceability.
-
 - Operational mechanics of the underlying asset.
-
 - Cash flow visibility over multi year horizons.
-
 - Cross collateralization resilience.
-
 - Governance synchronization between LP requirements and GP execution.
 
-The next stage is not transactional. It requires a confidential strategy audit to align structural architecture, jurisdictional exposure, and operational cadence. Roials Capital provides the navigational intelligence and institutional INTRODUCTION pathways to support this alignment across energy, private credit, and multi jurisdictional acquisitions.
+The next stage is not transactional. It requires a confidential strategy audit to align structural architecture, jurisdictional exposure, and operational cadence. Roials Capital provides the navigational intelligence and institutional Introduction pathways to support this alignment across energy, private credit, and multi jurisdictional acquisitions.
 

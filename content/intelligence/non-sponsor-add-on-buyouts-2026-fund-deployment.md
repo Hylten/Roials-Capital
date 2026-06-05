@@ -63,13 +63,9 @@ These firms are ideal add‑on candidates: strong recurring revenue, constrained
 They want:
 
 - Clear acquisition maps
-
 - Domain‑specific expansion logic
-
 - Demonstrable operational uplift within 180
-
 - 270 days
-
 - Evidence of discipline and sovereignty in capital deployment Add‑ons deliver these elements with far greater consistency than platform hunting.
 
 The world has become more volatile, not less. Add‑ons absorb volatility and channel it. Platforms absorb volatility and suffer under it. - - -
@@ -79,13 +75,9 @@ The world has become more volatile, not less. Add‑ons absorb volatility and ch
 Un‑intermediated. Un‑corrupted by the sponsor‑to‑sponsor echo chamber. These owners carry:
 
 - Legacy systems
-
 - Founder pragmatism
-
 - Thin middle management
-
 - Strong customer concentration
-
 - High integrity: the most undervalued asset of all They are not dressing up numbers.
 
 They are running a company. When a Fund‑III Principal engages, the owner feels the gravity immediately. The discipline. The sovereign posture. And they respond not with negotiation games but with clarity. This clarity collapses process friction. And collapsing friction increases deployment velocity. Velocity compounds enterprise value. - - -
@@ -95,11 +87,8 @@ They are running a company. When a Fund‑III Principal engages, the owner feels
 Cross‑border expansion is no longer a luxury. It is the engine of durability. Non‑sponsor add‑ons allow a fund to:
 
 - Absorb EU industrials under MiFID II governance
-
 - Tie North American operators into a consolidated supply chain
-
-- Expand into energy transition verticals aligned with NAEOC thresholds ($50M-$250M mandates)
-
+- Expand into energy transition verticals aligned thresholds ($50M-$250M mandates)
 - Build nodes in markets where competitor capital has no reach Jurisdiction is not geography.
 
 Jurisdiction is leverage. Control the jurisdiction, and you control the future cash flow envelope. Funds that underestimate this dynamic will lose cycles. Funds that master it will dominate the decade. - - -
@@ -109,27 +98,16 @@ Jurisdiction is leverage. Control the jurisdiction, and you control the future c
 ADD‑ON: A PRINCIPAL’S CALCULUS A Principal evaluates not the theoretical “story” of a deal, but the structural value locked inside it. Platform deals demand:
 
 - Heavy diligence
-
 - Cultural assimilation
-
 - Governance redesign
-
 - Customer dependency untangling
-
 - Management elevation
-
 - Unwinding of legacy debt habits
-
 - Multi‑system integration
-
 - Full operational restructuring Add‑ons demand:
-
 - Clean absorption
-
 - System alignment
-
 - Revenue mapping
-
 - Covenant discipline One is surgery.
 
 The other is architecture. Architecture wins. Because architecture compounds. - - -
@@ -153,11 +131,8 @@ This compounding cycle is faster, safer, more controlled, and more institutional
 Non‑sponsor add‑ons allow far more precision in:
 
 - Direct lending overlays
-
 - Multi‑jurisdictional liquidity triage
-
 - Cash‑flow ring‑fencing
-
 - On‑balance‑sheet covenant mapping These tools are hard to apply during platform formation but exceptionally potent during add‑on absorption.
 
 If Asset-Based Lending is integrated into the stack, institutional borrowers must meet the Qualification Gates at $2M and $5M. These gates protect the capital, the structure, and the covenant spine. A Principal sets such gates not as barriers, but as discipline‑preserving instruments. The capital respects discipline. The market responds to it. - - -

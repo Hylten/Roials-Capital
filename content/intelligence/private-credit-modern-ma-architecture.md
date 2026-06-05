@@ -40,7 +40,7 @@ Roials Capital operates as a neutral strategic navigator in this environment. Th
 
 1. Kapitalanskaffning for Fund-III and Beyond Approximately 80 percent of Roials Capital’s architecture focuses on capital
 
-INTRODUCTION for mid market and upper mid market buyout platforms. The objective is to ensure that funds maintain acquisition readiness throughout the cycle. Acquisition readiness is defined by having stable private credit channels, pre calibrated debt structures, and predictable capital sequencing.
+Introduction for mid market and upper mid market buyout platforms. The objective is to ensure that funds maintain acquisition readiness throughout the cycle. Acquisition readiness is defined by having stable private credit channels, pre calibrated debt structures, and predictable capital sequencing.
 
 2. Liquidity Engineering through ABL Approximately 10 percent of the architecture involves liquidity engineering mandates.
 
@@ -48,24 +48,20 @@ These assignments stabilize operating companies facing cash flow variability dur
 
 3. Special Mandates Special mandates serve institutional allocators that require domain specific access.
 
-In energy, Roials Capital maintains a strategic partnership with NAEO, an institutional grade operator specializing in Alberta heavy oil recovery using SAGD, CSS, and other thermal techniques with predictable decline curves and transparent reservoir physics. For European mandates, the focus is on MiFID II compliant acquisition frameworks. These mandates operate in the 50M to 250M range. The partnership model is defined by neutrality, discipline, and institutional standardization. It ensures that capital providers enter environments where structural risk is understood, operational behavior is predictable, and capital sequencing is controlled.
+In energy, Roials Capital maintains a strategic partnership, an institutional grade operator specializing in Alberta heavy oil recovery using SAGD, CSS, and other thermal techniques with predictable decline curves and transparent reservoir physics. For European mandates, the focus is on MiFID II compliant acquisition frameworks. These mandates operate in the 50M to 250M range. The partnership model is defined by neutrality, discipline, and institutional standardization. It ensures that capital providers enter environments where structural risk is understood, operational behavior is predictable, and capital sequencing is controlled.
 
 ## The Stewardship Filter
 
-Stewardship in capital architecture is defined as non wasteful resource management. The principle aligns with "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
+Stewardship in capital architecture is defined as non wasteful resource management. The principle aligns with
 
 * and emphasizes longevity, resilience, and responsible deployment.
 
 In private credit, stewardship is expressed through:
 
 - Disciplined loan structuring
-
 - Avoidance of excessive leverage
-
 - Alignment of operating behavior with capital discipline
-
 - Protection of enterprise value during integration
-
 - Reinforcement of long term stability rather than short term extraction Stewardship becomes the mechanism that prevents capital erosion and ensures continuity of operational assets across cycles.
 
 The theology of capital is not theoretical. It is a practical framework for managing complex acquisitions where timing, discipline, and execution determine long term outcomes.
@@ -75,15 +71,10 @@ The theology of capital is not theoretical. It is a practical framework for mana
 Institutional allocators analyzing private credit’s role in M&A must apply a specific decision making lens. The evaluation is not based on coupons, market narratives, or comparative yield. It is based on structural relevance. The allocator assesses whether private credit provides:
 
 - Timing control in acquisition cycles
-
 - Structural protection through seniority and collateral
-
 - Stability during integration phases
-
 - Alignment with operating partners
-
 - Predictable capital deployment velocity
-
 - Transparency of downside scenarios This briefing functions as a high altitude map of
 
 THE REGIME SHIFT reshaping modern M&A architecture. Allocators requiring sector specific calibration, transaction level visibility, or operator matched introductions can proceed to a confidential strategy audit designed to align institutional objectives with market reality. [END OF INSTITUTIONAL BRIEFING]

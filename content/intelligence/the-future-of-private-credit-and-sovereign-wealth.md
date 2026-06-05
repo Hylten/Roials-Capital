@@ -20,9 +20,7 @@ Why Private Credit Became the Institutional Standard Private credit provides wha
 Discretion. Collateral logic. Precision speed. Where banks operate under compliance constraints, private lenders operate under structural intelligence. This is why institutional allocators continue increasing their allocation weight. It is also why private credit remains non‑correlated in environments of volatility, inflation, or the erosion of public‑market transparency. For HNWI and UHNW decision-makers, private credit supports three outcomes:
 
 - Capital preservation.
-
 - Yield generation.
-
 - Frictionless liquidity access.
 
 Roials Capital aligns with these outcomes by Capital Structuring against private credit positions themselves, as well as broader classes of asset‑based collateral.
@@ -36,13 +34,9 @@ Sovereign Wealth as the Prototype for Modern Private Capital Sovereign wealth fu
 It comes from design parameters. Sovereigns view liquidity not as a static resource, but as a navigable topology. Their portfolios combine:
 
 - Long duration assets.
-
 - Strategic national interests.
-
 - Private credit pipelines.
-
 - High‑grade infrastructure.
-
 - Non‑public equity.
 
 This architecture is increasingly replicated by UHNW individuals, who understand that traditional wealth management models no longer satisfy global realities. The future belongs to the entities that design capital, not the entities that store it.

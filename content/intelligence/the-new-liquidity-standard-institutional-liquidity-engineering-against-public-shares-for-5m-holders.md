@@ -19,9 +19,7 @@ Crypto Strategic Collateralization for the + Holder Crypto positions, when prope
 The mechanics mirror the public share framework but adapt to the asset class:
 
 - Enhanced volatility monitoring.
-
 - Precision custody.
-
 - Real‑time margin architecture.
 
 The threshold exists to maintain structural integrity and operational discipline.
@@ -31,11 +29,8 @@ What Sophisticated Clients Actually Seek High net worth and ultra high net worth
 Predictable liquidity. Architected liquidity. They require a framework that aligns with:
 
 - Long horizon asset allocation.
-
 - Capital preservation.
-
 - Opportunistic deployment.
-
 - Absolute discretion.
 
 Roials Capital focuses on these requirements by providing an underwriting environment where clarity is the default state.

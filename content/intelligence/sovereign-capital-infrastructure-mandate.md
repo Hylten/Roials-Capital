@@ -50,20 +50,19 @@ Sovereign debt offices often extend duration artificially to reduce near-term re
 
 Fund-III positions itself as an institutional alternative to sovereign drift. The model is straightforward. Build an architecture where capital moves with precision, assets are acquired with decisiveness, and stewardship is consistent. The structure divides into three pillars.
 
-### Pillar I: Kapitalanskaffning for Fund-III and Fund-IV adjacency. Eighty percent of THE MANDATE
+### Pillar I: Kapitalanskaffning for Fund-III and Fund-IV adjacency. Eighty percent of The Mandate
 
 is directed toward capital formation for buyouts and add-ons. The target classes are operators with defensible cash flows and hard-asset moats. Sovereign capital retrenchment creates acquisition windows in energy, transport logistics, industrial processing, and mineral-linked assets. LPs want predictable governance. GPs want cleaner execution. Sovereigns want influence without responsibility. We serve the first two, not the third.
 
 ### Pillar I:
 
-Asset-Backed Frameworks through institutional Asset-Based Lending. Ten percent of THE MANDATE is structured around asset-based lending for operators with temporary liquidity mismatches. This is the most misunderstood part of sovereign capital infrastructure. Capital Structuring is not rescue lending. It is governance enforcement. Asset-Based Lending disallows drift. It forces precision. When used inside sovereign-linked ecosystems, it creates a parallel system of discipline that outperforms public credit channels.
+Asset-Backed Frameworks through institutional Asset-Based Lending. Ten percent of The Mandate is structured around asset-based lending for operators with temporary liquidity mismatches. This is the most misunderstood part of sovereign capital infrastructure. Capital Structuring is not rescue lending. It is governance enforcement. Asset-Based Lending disallows drift. It forces precision. When used inside sovereign-linked ecosystems, it creates a parallel system of discipline that outperforms public credit channels.
 
-### Pillar III: Special mandates in energy and regulated acquisitions. Ten percent of THE MANDATE
+### Pillar III: Special mandates in energy and regulated acquisitions. Ten percent of The Mandate
 
 focuses on mandates in:
 
-- North American Energy Operators Consortium (NAEOC) for 50M to 250M transactions.
-
+- North American Energy Operators Consortium (energy mandates) for 50M to 250M transactions.
 - EU MiFID II acquisition structures for regulated assets.
 
 These mandates exist because sovereign capital infrastructure can no longer process energy acquisitions or regulatory transfers efficiently. The regulatory spine remains intact. The fiscal spine does not.
@@ -72,9 +71,8 @@ These mandates exist because sovereign capital infrastructure can no longer proc
 
 Stewardship is not philosophy. Stewardship is operational constraint.
 
-The theology of capital is simple: resources mismanaged will be reallocated. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
+The theology of capital is simple: resources mismanaged will be reallocated.
 
-* establishes the generational mandate. **Psalm 24:
 1
 
 *

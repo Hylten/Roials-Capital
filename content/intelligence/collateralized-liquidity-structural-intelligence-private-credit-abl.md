@@ -37,9 +37,7 @@ Liquidity buffers, standby capacity, and engineered reserves that activate when 
 LTV curves become predictable only when liquidity buffers are endogenous. Asset-Based Lending facilities break because managers treat borrowing bases as static formulas instead of dynamic engines governed by velocity. A structurally sound LTV curve behaves like a declining risk parabola. As liquidity is hardened, the volatility of collateral value decreases. This reduces the energy required to enforce covenants and increases the reliability of recovery factors. Cash flow waterfalls must be designed with the following mechanics:
 
 - Priority to liquidity reserves that activate without committee approval.
-
 - Mandatory replenishment protocols so reserve exhaustion cannot occur silently.
-
 - A pre-integrated enforcement architecture where the lender can move from monitoring to control without renegotiation.
 
 The market still treats recoveries as an afterthought. This is an error. Recovery strength is the only honest measure of underwriting quality. A 40 percent recovery is a failure of structure, not a failure of the borrower. With engineered liquidity, recovery should stabilize at 75 to 92 percent depending on asset class. Anything lower indicates an intelligence gap. Asset-Based Lending structures fail when monitoring is periodic. Monitoring must be continuous. Daily data reduces delinquency variance. Weekly data invites entropy. When asset velocity decreases, the lending structure must respond before delinquency forms. Liquidity intelligence requires motion. Stasis is decay. The private credit ecosystem faces three technical obstacles.
@@ -72,7 +70,7 @@ Disbursement speed is calibrated to cash flow adaptability.
 
 3. Enforcement readiness.
 
-Structural authority activates without negotiation. Buyouts and add-ons require a liquidity perimeter to prevent capital dilution. The institutional error in most buyouts is that liquidity management is retrospective. It should be pre-installed as an operational doctrine. Liquidity buffers must synchronize with working capital cycles. When integration friction occurs, liquidity reserves protect the acquisition thesis from being eroded by transitional inefficiencies. Asset-Based Lending integration plays an offensive role. It converts assets into liquidity at speeds aligned with operational demand. Every acquisition should assume a temporary decline in operational stability. Asset-Based Lending stabilizes the system while integration creates order. Special Mandates expand the model. NAEOC energy mandates between 50 and 250 million require collateral-hardening protocols specific to hydrocarbons. Reservoir quality, transportation rights, offtake agreements, and midstream dependencies shape the liquidity architecture. Energy assets maintain value when their pathway to market is protected. Asset-Backed Frameworks focuses on securing those pathways. EU MiFID II acquisition mandates require a different friction profile. Transactional compliance, reporting cadence, and counterparty transparency shape the collateral perimeter. When MiFID II assets operate under liquidity scarcity, regulatory friction amplifies risk. When liquidity is engineered, regulatory friction becomes a competitive moat. The STRATEGIC MODEL is not built on trust. It is built on data, velocity, and engineered control.
+Structural authority activates without negotiation. Buyouts and add-ons require a liquidity perimeter to prevent capital dilution. The institutional error in most buyouts is that liquidity management is retrospective. It should be pre-installed as an operational doctrine. Liquidity buffers must synchronize with working capital cycles. When integration friction occurs, liquidity reserves protect the acquisition thesis from being eroded by transitional inefficiencies. Asset-Based Lending integration plays an offensive role. It converts assets into liquidity at speeds aligned with operational demand. Every acquisition should assume a temporary decline in operational stability. Asset-Based Lending stabilizes the system while integration creates order. Special Mandates expand the model. energy mandates between 50 and 250 million require collateral-hardening protocols specific to hydrocarbons. Reservoir quality, transportation rights, offtake agreements, and midstream dependencies shape the liquidity architecture. Energy assets maintain value when their pathway to market is protected. Asset-Backed Frameworks focuses on securing those pathways. EU MiFID II acquisition mandates require a different friction profile. Transactional compliance, reporting cadence, and counterparty transparency shape the collateral perimeter. When MiFID II assets operate under liquidity scarcity, regulatory friction amplifies risk. When liquidity is engineered, regulatory friction becomes a competitive moat. The STRATEGIC MODEL is not built on trust. It is built on data, velocity, and engineered control.
 
 ### Phase IV:
 
@@ -80,7 +78,7 @@ Structural authority activates without negotiation. Buyouts and add-ons require 
 
 Capital is a stewardship mandate. Private credit without stewardship becomes extraction. Extraction decays.
 
-Stewardship multiplies. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
+Stewardship multiplies.
 
 * describes the principle with precision.
 

@@ -49,7 +49,7 @@ Institutional LPs are increasingly evaluating GPs based on their ability to demo
 
 4. Covenant architecture calibrated to operational bandwidth rather than historic leverage multiples.
 
-This is not synthetic liquidity. It is engineered liquidity that transforms inventory cycles, equipment pools, or receivable streams into strategic flexibility. C. Special Mandates There are two categories of special mandates relevant to institutional allocators. North American Energy Operations and Consolidation Roials Capital’s strategic partner NAEO operates a consolidation model designed to absorb distressed or underutilized assets in Alberta, Saskatchewan, and select US formations. The Alberta basin presents distinctive physics. Reservoir pressure profiles, steam injection behavior, and temperature gradients inside SAGD and CSS environments create predictable recovery trajectories. The recovery factor for properly managed heavy oil reservoirs ranges between 30 and 70 percent depending on viscosity, permeability, formation thickness, and thermal conformance. These parameters create a level of operational visibility that is rarely available in typical mid market industrial assets. The structural gap in this sector is not geological. It is financial. Regulatory constraints and ESG driven capital withdrawals have left a significant portion of producing assets underserviced. NAEO occupies this exact void by functioning as an institutional operator, not an exploration driven enterprise. Its emphasis is on production optimization, steam to oil ratio management, wellpair alignment, and incremental recovery mechanics. EU MiFID II Acquisition Mandates European regulatory frameworks have created an environment where mid size managers are constrained from absorbing distressed or special situation opportunities created by fragmented cross border ownership. Roials Capital supports allocators through introducer based access to regulatory aligned acquisitions that fit MiFID II suitability criteria. These mandates benefit from:
+This is not synthetic liquidity. It is engineered liquidity that transforms inventory cycles, equipment pools, or receivable streams into strategic flexibility. C. Special Mandates There are two categories of special mandates relevant to institutional allocators. North American Energy Operations and Consolidation Roials Capital’s strategic partner energy operations operates a consolidation model designed to absorb distressed or underutilized assets in Alberta, Saskatchewan, and select US formations. The Alberta basin presents distinctive physics. Reservoir pressure profiles, steam injection behavior, and temperature gradients inside SAGD and CSS environments create predictable recovery trajectories. The recovery factor for properly managed heavy oil reservoirs ranges between 30 and 70 percent depending on viscosity, permeability, formation thickness, and thermal conformance. These parameters create a level of operational visibility that is rarely available in typical mid market industrial assets. The structural gap in this sector is not geological. It is financial. Regulatory constraints and ESG driven capital withdrawals have left a significant portion of producing assets underserviced. energy operations occupies this exact void by functioning as an institutional operator, not an exploration driven enterprise. Its emphasis is on production optimization, steam to oil ratio management, wellpair alignment, and incremental recovery mechanics. EU MiFID II Acquisition Mandates European regulatory frameworks have created an environment where mid size managers are constrained from absorbing distressed or special situation opportunities created by fragmented cross border ownership. Roials Capital supports allocators through introducer based access to regulatory aligned acquisitions that fit MiFID II suitability criteria. These mandates benefit from:
 
 1. Clear disclosure obligations.
 
@@ -61,7 +61,7 @@ This architecture complements the North American energy model by providing diver
 
 ## The Partnership Model
 
-Roials Capital does not function as a sponsor. It functions as a strategic navigator and institutional introducer. This distinction is central. The objective is to align allocators with operationally sound partners, sector specialists, and domain specific managers. Within energy, Roials Capital’s strategic partner NAEO provides the operator level intelligence that institutional allocators require to understand reservoir behavior and production stability. NAEO manages the operational lifecycle from acquisition to optimization through:
+Roials Capital does not function as a sponsor. It functions as a strategic navigator and institutional introducer. This distinction is central. The objective is to align allocators with operationally sound partners, sector specialists, and domain specific managers. Within energy, Roials Capital’s strategic partner energy operations provides the operator level intelligence that institutional allocators require to understand reservoir behavior and production stability. energy operations manages the operational lifecycle from acquisition to optimization through:
 
 1. Enhanced recovery engineering.
 
@@ -73,11 +73,11 @@ Roials Capital does not function as a sponsor. It functions as a strategic navig
 
 Within private credit and buyout environments, Roials Capital provides institutional grade structuring guidance. This includes senior facility design, cash flow waterfall modeling, cross collateral matrices, and asset level risk mitigation frameworks.
 
-## The Mandat E
+## The Mandate
 
 is not to manage capital.
 
-## The Mandat E
+## The Mandate
 
 is to structure clarity.
 
@@ -85,9 +85,8 @@ is to structure clarity.
 
 Stewardship is a discipline, not a sentiment. Institutional grade stewardship is the practice of deploying capital in ways that are aligned with long term productivity, ethical resource management, and multi generational utility.
 
-It follows the biblical principle in "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
+It follows the biblical principle in
 
-* which underscores the continuity of inheritance and the responsibility of resource transfer.
 
 In practice, this means avoiding waste through operational discipline, minimizing asset degradation, and aligning capital structures with the natural behavior of the asset class. This applies equally to heavy oil reservoirs, industrial operating companies, and cross border acquisitions. Stewardship requires:
 

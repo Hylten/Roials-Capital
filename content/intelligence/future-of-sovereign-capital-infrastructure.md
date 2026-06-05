@@ -31,7 +31,7 @@ This creates a structural arbitrage where heavy oil assets with mature decline c
 
 ## Technical Mechanics
 
-The future of sovereign capital infrastructure is shaped by mechanical structures rather than thematic narratives. For global allocators engaged in Fund-III buyouts, add-ons, Asset-Based Lending structures, or North American energy mandates, the operative mechanics determine the effectiveness of capital more than top level asset selection. Energy Mechanics: Alberta Basin Physics and NAEO Operational Intelligence Within the energy domain, NAEO’s approach to heavy oil recovery in Alberta provides a benchmark for understanding technical alignment. Sovereign allocators increasingly prioritize assets where engineering reliability exceeds market volatility. Alberta’s heavy oil reservoirs provide this stability due to established decline behavior and known recovery factors. Key TECHNICAL MECHANICS include:
+The future of sovereign capital infrastructure is shaped by mechanical structures rather than thematic narratives. For global allocators engaged in Fund-III buyouts, add-ons, Asset-Based Lending structures, or North American energy mandates, the operative mechanics determine the effectiveness of capital more than top level asset selection. Energy Mechanics: Alberta Basin Physics and energy operations Operational Intelligence Within the energy domain, energy operations’s approach to heavy oil recovery in Alberta provides a benchmark for understanding technical alignment. Sovereign allocators increasingly prioritize assets where engineering reliability exceeds market volatility. Alberta’s heavy oil reservoirs provide this stability due to established decline behavior and known recovery factors. Key TECHNICAL MECHANICS include:
 
 1. SAGD (Steam Assisted Gravity Drainage) This process relies on two parallel wellbores.
 
@@ -83,7 +83,7 @@ The structure must serve as a financial stabilizer rather than a leveraged ampli
 
 ## The Partnership Model
 
-Roials Capital functions as a strategic navigator and institutional introducer rather than a sponsor or manager. The future of sovereign capital infrastructure requires platforms that interpret complex markets, align institutional archetypes, and introduce credible operational partners. In the North American energy domain, NAEO functions as the institutional grade operational partner with deep domain expertise in Alberta heavy oil physics, SAGD deployment, CSS optimization, and long horizon recovery factor management. Roials Capital’s function is to align sovereign allocators with this operational intelligence in a format consistent with regulatory neutrality and institutional decision processes. In Fund-III capital formation, Roials Capital provides macro structural calibration that allows global GPs to articulate their mandates with institutional clarity. The emphasis is on productive acquisition regimes, disciplined add-on structures, and multi jurisdictional capital stack optimization. The approach is analytical rather than promotional. In Asset-Based Lending mandates, Roials Capital aligns Asset-Backed Frameworks with balance sheet stabilization and asset hardening principles. The objective is not transaction volume but long horizon operational continuity.
+Roials Capital functions as a strategic navigator and institutional introducer rather than a sponsor or manager. The future of sovereign capital infrastructure requires platforms that interpret complex markets, align institutional archetypes, and introduce credible operational partners. In the North American energy domain, energy operations functions as the institutional grade operational partner with deep domain expertise in Alberta heavy oil physics, SAGD deployment, CSS optimization, and long horizon recovery factor management. Roials Capital’s function is to align sovereign allocators with this operational intelligence in a format consistent with regulatory neutrality and institutional decision processes. In Fund-III capital formation, Roials Capital provides macro structural calibration that allows global GPs to articulate their mandates with institutional clarity. The emphasis is on productive acquisition regimes, disciplined add-on structures, and multi jurisdictional capital stack optimization. The approach is analytical rather than promotional. In Asset-Based Lending mandates, Roials Capital aligns Asset-Backed Frameworks with balance sheet stabilization and asset hardening principles. The objective is not transaction volume but long horizon operational continuity.
 
 ## The Stewardship Filter
 
@@ -91,9 +91,8 @@ The future of sovereign capital infrastructure requires conceptual clarity aroun
 
 It is the discipline of non wasteful resource allocation across time.
 
-This form of stewardship aligns with the theology of capital where resources are understood as entrusted rather than possessed. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
+This form of stewardship aligns with the theology of capital where resources are understood as entrusted rather than possessed.
 
-* states that a good person leaves an inheritance for future generations.
 
 Within the institutional context, this means capital structures that endure beyond cycles and remain productive under stress. Stewardship therefore governs three domains.
 
