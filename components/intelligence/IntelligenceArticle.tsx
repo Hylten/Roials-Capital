@@ -267,8 +267,8 @@ export const IntelligenceArticle: React.FC<IntelligenceArticleProps> = ({ slug }
                 .article-content p { margin-bottom: 1.8rem; }
                 .article-content h2 { font-family: 'Cormorant Garamond', serif; font-size: 2.6rem; margin-top: 4.5rem; margin-bottom: 1.8rem; color: #fff; line-height: 1.2; font-weight: 400; letter-spacing: -0.02em; text-transform: uppercase; }
                 .article-content h3 { font-family: 'Cormorant Garamond', serif; font-size: 1.8rem; margin-top: 3rem; margin-bottom: 1.2rem; color: #C5A059; font-weight: 400; letter-spacing: -0.01em; }
-                .article-content ul, .article-content ol { margin: 1.5rem 0 2.5rem; padding-left: 1.8rem; }
-                .article-content li { margin-bottom: 0.8rem; color: rgba(229, 231, 235, 0.8); }
+                .article-content ul, .article-content ol { margin: 1.5rem 0 2.5rem; padding-left: 0; list-style-position: inside; }
+                .article-content li { margin-bottom: 0.6rem; color: rgba(229, 231, 235, 0.8); }
                 .article-content li strong { color: #fff; }
                 .article-content hr { border: 0; border-top: 1px solid rgba(255,255,255,0.1); margin: 4rem 0; }
                 .article-content strong { color: #fff; font-weight: 500; }

@@ -30,9 +30,9 @@ Demand for liquidity remains constant, but supply from regulated institutions co
 
 Asset Based Liquidity Engineering is the disciplined process of extracting functionality, recoverability, and security value from operational assets that traditional lenders have undervalued. Structural alpha arises not from leverage, but from efficient mapping of real economic value to financial architecture. Key technical components:
 
-1. Asset Hardening
+### 1. Asset Hardening
 
-   Asset hardening is the conversion of operational infrastructure into a clearly defined collateral spine. The goal is to eliminate ambiguity surrounding recoverability, resale dynamics, and monetization timing. Hardening typically involves:
+   It is the conversion of operational infrastructure into a clearly defined collateral spine. The goal is to eliminate ambiguity surrounding recoverability, resale dynamics, and monetization timing. Hardening typically involves:
 
    - Third party asset audits — independent verification of remaining productive life, depreciation curves, and replacement cost benchmarks.
    - Marketability modeling — assessment of absorption capacity for specific asset classes if remarketed at various liquidation horizons.
@@ -40,9 +40,9 @@ Asset Based Liquidity Engineering is the disciplined process of extracting funct
 
    Hardening increases the reliability of the collateral base, which improves the precision of credit modeling and the strategic confidence of institutional lenders.
 
-2. Liquidity Architecture
+### 2. Liquidity Architecture
 
-   Liquidity architecture converts a hardened asset base into a structured facility optimized for duration, velocity, and operational alignment. Distinct categories include:
+   This converts a hardened asset base into a structured facility optimized for duration, velocity, and operational alignment. Distinct categories include:
 
    - Revolving ABL structures with utilization gates calibrated to real time operational cycles.
    - Term secured facilities structured to match revenue conversion speed rather than arbitrary amortization calendars.
@@ -50,9 +50,9 @@ Asset Based Liquidity Engineering is the disciplined process of extracting funct
 
    The architecture must reflect the natural cadence of the business. When alignment is achieved, delinquency risk declines without requiring excessive collateral haircuts.
 
-3. Engineered Reliability
+### 3. Engineered Reliability
 
-   Engineered reliability is the core alpha generator — the intentional design of credit structures that perform predictably under variable operating conditions. Reliability is engineered through:
+   This discipline is the core alpha generator — the intentional design of credit structures that perform predictably under variable operating conditions. Reliability is engineered through:
 
    - Conservative but realistic LTV curves linked to real market tradability, not bank risk quotas.
    - Cross collateralization matrices that ensure value resilience if individual asset clusters fluctuate.
@@ -60,9 +60,9 @@ Asset Based Liquidity Engineering is the disciplined process of extracting funct
 
    The objective is consistent paydown speed relative to asset productivity. Engineered reliability produces stability premiums. In a market defined by volatility, stability itself becomes alpha.
 
-4. Opportunity Velocity
+### 4. Opportunity Velocity
 
-   Asset based structures allow capital to cycle more quickly than traditional buy and hold credit. Paydowns correspond to operational throughput. Re deployments follow the same logic. Institutional allocators gain velocity because they are exposed to real economic movement rather than the inertia of fixed term instruments.
+   Capital cycles more quickly through asset based structures than traditional buy and hold credit. Paydowns correspond to operational throughput. Re deployments follow the same logic. Institutional allocators gain velocity because they are exposed to real economic movement rather than the inertia of fixed term instruments.
 
    Velocity enhances compounding potential without requiring increased risk posture. This is why many European and Middle Eastern allocators have begun shifting from passive credit exposure to controlled ABL strategies.
 
@@ -74,17 +74,17 @@ Roials Capital functions as a strategic navigator within this landscape.
 
 Our mandate is not to lend, operate, or manage external assets. It is to deliver institutional clarity, operator-specific intelligence, and partner curation for allocators who require structural certainty.
 
-1. Strategic Alignment
+### 1. Strategic Alignment
 
    Roials Capital maps allocator objectives to real asset ecosystems where liquidity engineering is structurally required. This avoids model drift and ensures that engagements remain aligned with the allocator's risk profile, duration preferences, and mandate constraints.
 
-2. Market Navigation
+### 2. Market Navigation
 
    Roials Capital provides allocators with operational intelligence across North American energy, European private credit, Nordic industrial services, and cross border ABL opportunities.
 
-3. Institutional INTRODUCTION
+### 3. Institutional Introduction
 
-Roials Capital arranges introductions, not transactions. The emphasis is on intelligence transfer, partner suitability, and operational congruence between allocators and operators. When the focus is Fund-III buyouts or European mandates, introductions focus on operators with demonstrated stewardship and measurable value conversion discipline.
+   Roials Capital arranges introductions, not transactions. The emphasis is on intelligence transfer, partner suitability, and operational congruence between allocators and operators. When the focus is Fund-III buyouts or European mandates, introductions focus on operators with demonstrated stewardship and measurable value conversion discipline.
 
 ## The Stewardship Filter
 
