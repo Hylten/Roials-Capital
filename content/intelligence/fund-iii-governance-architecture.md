@@ -1,11 +1,13 @@
 ---
-title: "Fund‑III Governance Architecture for Institutional Allocators"
-description: "Principal briefing on GP governance scaling, allocator‑grade reporting systems, and cross‑jurisdictional capital interfaces for Fund‑III buyout platforms."
-date: "2025-11-22"
-author: "Roials Capital"
-slug: "Fund-III-governance-architecture"
+title: Fund‑III Governance Architecture for Institutional Allocators
+description: >-
+  Principal briefing on GP governance scaling, allocator‑grade reporting
+  systems, and cross‑jurisdictional capital interfaces for Fund‑III buyout
+  platforms.
+date: '2025-11-22'
+author: Roials Capital
+slug: Fund-III-governance-architecture
 ---
-
 Governance scales only when the spine is built early.
 
 Late fixes break trust.
@@ -168,12 +170,3 @@ Write it well.
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

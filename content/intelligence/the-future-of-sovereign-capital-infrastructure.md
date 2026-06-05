@@ -1,11 +1,12 @@
 ---
-title: "The Future of Sovereign Capital Infrastructure"
-description: "A deep examination of liquidity architecture, private credit, and asset based liquidity engineering for institutional, HNWI, and UHNW capital structures."
-date: "2025-06-22"
-author: "Jonas Hyltén"
-slug: "the-future-of-sovereign-capital-infrastructure"
+title: The Future of Sovereign Capital Infrastructure
+description: >-
+  A deep examination of liquidity architecture, private credit, and asset based
+  liquidity engineering for institutional, HNWI, and UHNW capital structures.
+date: '2025-06-22'
+author: Jonas Hyltén
+slug: the-future-of-sovereign-capital-infrastructure
 ---
-
 # The Future of Sovereign Capital Infrastructure Sovereign capital infrastructure is entering a structural realignment. The global system of capital formation, liquidity distribution, and collateralized leverage is shifting from centralized intermediaries to distributed custodianship, precision engineered credit, and optionality controlled by the asset holder.
 
 This is not an evolution powered by rhetoric.
@@ -129,34 +130,3 @@ The era of universal collateralization.
 The era of frictionless liquidity.
 
 The era of sovereign capital autonomy.
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
-
-## Conclusion
-
-The future of sovereign capital infrastructure belongs to those who understand that capital is no longer defined by possession, but by architecture.
-
-Private credit.
-
-Asset based Capital Structuring.
-
-Institutional-grade digital asset Asset-Backed Frameworks.
-
-Public share Monetization Architecture at scale.
-
-These are not products.
-
-They are structural tools for the sovereign individual.
-
-At Roials Capital, we do not predict the future of capital.
-
-We build it.
-
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.

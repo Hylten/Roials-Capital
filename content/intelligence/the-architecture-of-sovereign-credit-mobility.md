@@ -1,11 +1,10 @@
 ---
-title: "The Architecture Of Sovereign Credit Mobility"
-description: "The Architecture Of Sovereign Credit Mobility"
-date: "2025-10-30"
-author: "Jonas Hyltén"
-slug: "the-architecture-of-sovereign-credit-mobility"
+title: The Architecture Of Sovereign Credit Mobility
+description: The Architecture Of Sovereign Credit Mobility
+date: '2025-10-30'
+author: Jonas Hyltén
+slug: the-architecture-of-sovereign-credit-mobility
 ---
-
 # The Architecture of Sovereign Credit Mobility Sovereign credit mobility is the discipline of transforming static wealth positions into directional force. It is not liquidity engineering.
 
 It is not leverage.
@@ -90,9 +89,9 @@ This creates dynastic continuity through:
 
 - disciplined cash-flow routing
 
-- principled capital allocation The architecture ensures that credit mobility never violates THE MANDAT
+- principled capital allocation The architecture ensures that credit mobility never violates THE MANDATE
 
-E. THE MANDAT E
+. THE MANDAT E
 
 guides everything.
 13.
@@ -139,11 +138,3 @@ It is the highest form of liquidity governance available to private actors.
 - Request confidential audit.
 
 ...
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

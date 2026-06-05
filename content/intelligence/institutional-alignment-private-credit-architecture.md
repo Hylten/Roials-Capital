@@ -1,11 +1,12 @@
 ---
-title: "Institutional Alignment and the Architecture of Private Credit Stewardship"
-description: "Technical briefing for UHNWIs and institutional LPs on alignment mechanics, LTV structuring, cash-flow governance, and Fund-III capital stewardship."
-date: "2025-08-08"
-author: "Jonas Hyltén"
-slug: "institutional-alignment-private-credit-architecture"
+title: Institutional Alignment and the Architecture of Private Credit Stewardship
+description: >-
+  Technical briefing for UHNWIs and institutional LPs on alignment mechanics,
+  LTV structuring, cash-flow governance, and Fund-III capital stewardship.
+date: '2025-08-08'
+author: Jonas Hyltén
+slug: institutional-alignment-private-credit-architecture
 ---
-
 A structural gap defines this cycle: capital velocity has outpaced covenant integrity.
 
 Allocation committees feel it first.
@@ -263,9 +264,9 @@ THE STEWARDSHIP FILTER Stewardship is the governing ethic. Private credit is not
 
 It is a theology of allocation. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
-* defines THE MANDAT
+* defines THE MANDATE
 
-E : An inheritance must endure across generations.
+ : An inheritance must endure across generations.
 
 That is only possible when capital is directed with intent, not appetite.
 
@@ -343,16 +344,6 @@ Anything below 85 percent signals structural misalignment.
 
 Anything below 80 percent signals systemic failure.
 
-Minimum target size: $5M+....
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

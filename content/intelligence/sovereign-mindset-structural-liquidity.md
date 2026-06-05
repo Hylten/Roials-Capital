@@ -1,11 +1,13 @@
 ---
-title: "The Sovereign Mindset: Structural Liquidity as a Generational Asset"
-description: "Institutional brief on capital architecture, liquidity engineering, buyout scaling mechanics, and the structural sovereignty premium for Fund-III allocations."
-date: "2025-12-02"
-author: "Jonas Roials"
-slug: "sovereign-mindset-structural-liquidity"
+title: 'The Sovereign Mindset: Structural Liquidity as a Generational Asset'
+description: >-
+  Institutional brief on capital architecture, liquidity engineering, buyout
+  scaling mechanics, and the structural sovereignty premium for Fund-III
+  allocations.
+date: '2025-12-02'
+author: Jonas Roials
+slug: sovereign-mindset-structural-liquidity
 ---
-
 The sovereign mindset begins with a simple recognition.
 
 Control is liquidity.
@@ -379,14 +381,4 @@ Metric: LTV curvature ratio
 
 72.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

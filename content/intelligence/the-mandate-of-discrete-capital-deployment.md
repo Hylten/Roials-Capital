@@ -1,11 +1,10 @@
 ---
-title: "The Mandate Of Discrete Capital Deployment"
-description: "The Mandate Of Discrete Capital Deployment"
-date: "2025-07-18"
-author: "Jonas Hyltén"
-slug: "the-mandate-of-discrete-capital-deployment"
+title: The Mandate Of Discrete Capital Deployment
+description: The Mandate Of Discrete Capital Deployment
+date: '2025-07-18'
+author: Jonas Hyltén
+slug: the-mandate-of-discrete-capital-deployment
 ---
-
 # THE MANDAT E
 
 of Discrete Capital Deployment Discrete capital deployment is not a tactic.
@@ -336,9 +335,9 @@ Not the market.
 
 -
 
-- THE MANDATE THE MANDAT
+- THE MANDATE THE MANDATE
 
-E of discrete capital deployment is clear.
+ of discrete capital deployment is clear.
 
 1.
 
@@ -384,14 +383,6 @@ Only mandate.
 
 # Principal Directive If your capital requires discretion, structural alignment, and hardened deployment architecture, the next
 
-### Step I: s obvious. Request confidential audit.
+### Step I is obvious. Request confidential audit.
 
 ...
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

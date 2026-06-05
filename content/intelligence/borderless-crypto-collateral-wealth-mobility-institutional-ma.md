@@ -1,11 +1,15 @@
 ---
-title: "Borderless Collateral and the Mobility of Wealth in the Institutional M&A Regime"
-description: "Institutional briefing on crypto collateral mechanics, cross-jurisdictional mobility, private credit LTV architecture, and Fund-III capital formation for UHNWIs and LPs."
-date: "2026-01-25"
-author: "Jonas Hyltén"
-slug: "borderless-crypto-collateral-wealth-mobility-institutional-ma"
+title: >-
+  Borderless Collateral and the Mobility of Wealth in the Institutional M&A
+  Regime
+description: >-
+  Institutional briefing on crypto collateral mechanics, cross-jurisdictional
+  mobility, private credit LTV architecture, and Fund-III capital formation for
+  UHNWIs and LPs.
+date: '2026-01-25'
+author: Jonas Hyltén
+slug: borderless-crypto-collateral-wealth-mobility-institutional-ma
 ---
-
 A structural gap has formed at the intersection of jurisdictional control and mobile capital.
 
 The legal system still treats wealth as if it sits inside borders.
@@ -245,14 +249,4 @@ EXIT Fund-III institutional operations require a single invariant metric: mainta
 
 Request a confidential capital audit.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

@@ -1,11 +1,12 @@
 ---
-title: "Designing the Sovereign Balance Sheet: The Architecture of Enduring Liquidity"
-description: "Institutional brief on multi-jurisdictional balance‑sheet engineering, Fund-III capital formation, and liquidity architecture for durable GP scale."
-date: "2026-03-09"
-author: "Jonas Roials"
-slug: "sovereign-balance-sheet-architecture"
+title: 'Designing the Sovereign Balance Sheet: The Architecture of Enduring Liquidity'
+description: >-
+  Institutional brief on multi-jurisdictional balance‑sheet engineering,
+  Fund-III capital formation, and liquidity architecture for durable GP scale.
+date: '2026-03-09'
+author: Jonas Roials
+slug: sovereign-balance-sheet-architecture
 ---
-
 A sovereign balance sheet is not a document.
 
 It is a jurisdictional organism.
@@ -632,16 +633,6 @@ Protect it.
 
 Scale it.
 
-Minimum target size: $5M+....
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

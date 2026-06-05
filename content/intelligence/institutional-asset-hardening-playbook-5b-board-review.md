@@ -1,11 +1,13 @@
 ---
-title: "The Institutional Asset Hardening Playbook: Passing a $5B Board Review"
-description: "A principal-grade framework for asset hardening, capital raising for Fund-III+, and cross-jurisdictional structuring engineered for institutional LP/GP scrutiny."
-date: "2025-11-29"
-author: "Roials Capital"
-slug: "institutional-asset-hardening-playbook-5b-board-review"
+title: 'The Institutional Asset Hardening Playbook: Passing a $5B Board Review'
+description: >-
+  A principal-grade framework for asset hardening, capital raising for
+  Fund-III+, and cross-jurisdictional structuring engineered for institutional
+  LP/GP scrutiny.
+date: '2025-11-29'
+author: Roials Capital
+slug: institutional-asset-hardening-playbook-5b-board-review
 ---
-
 A $5B board review does not reward improvisation.
 
 It rewards engineered inevitability.
@@ -557,16 +559,6 @@ FINAL DIRECTIVE This briefing stands on one metric: Institutional Survivability 
 
 87 or higher.
 
-Minimum target size: $5M+....
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

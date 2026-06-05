@@ -1,11 +1,14 @@
 ---
-title: "The Mechanics of Portfolio Backed Liquidity for Modern Private Capital"
-description: "An institutional analysis on the structural liquidity gap in private markets, the operational mechanics of portfolio backed financing, and the strategic alignment model used by Roials Capital to navigate capital inefficiencies across North America and Europe."
-date: "2025-08-10"
-author: "Roials Capital (Institutional Briefing)"
-slug: "portfolio-backed-liquidity-private-capital-mechanics"
+title: The Mechanics of Portfolio Backed Liquidity for Modern Private Capital
+description: >-
+  An institutional analysis on the structural liquidity gap in private markets,
+  the operational mechanics of portfolio backed financing, and the strategic
+  alignment model used by Roials Capital to navigate capital inefficiencies
+  across North America and Europe.
+date: '2025-08-10'
+author: Roials Capital (Institutional Briefing)
+slug: portfolio-backed-liquidity-private-capital-mechanics
 ---
-
 The structural gap in North American private markets is a capital formation issue born from regulatory drift, institutional retrenchment, and the mispricing of middle market operating risk.
 
 Private issuers with strong asset bases operate inside a liquidity vacuum that is unrelated to asset quality or revenue resilience.
@@ -282,14 +285,4 @@ A confidential strategy audit or portfolio calibration session is typically the 
 
 # 
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

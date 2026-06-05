@@ -1,11 +1,13 @@
 ---
-title: "The Mechanics of Sovereign Asset Hardening"
-description: "Institutional briefing on capital regime transition, structural inefficiencies, and the sovereign mechanics that govern asset hardening across buyouts, liquidity engineering, and North American energy operations."
-date: "2025-09-24"
-author: "Roials Capital (Institutional Briefing)"
-slug: "mechanics-sovereign-asset-hardening"
+title: The Mechanics of Sovereign Asset Hardening
+description: >-
+  Institutional briefing on capital regime transition, structural
+  inefficiencies, and the sovereign mechanics that govern asset hardening across
+  buyouts, liquidity engineering, and North American energy operations.
+date: '2025-09-24'
+author: Roials Capital (Institutional Briefing)
+slug: mechanics-sovereign-asset-hardening
 ---
-
 The capital vacuum in North America is not a cyclical dislocation.
 
 It is a structural consequence of policy inertia, institutional withdrawal, and regression to over regulated capital frameworks.
@@ -250,14 +252,4 @@ Roials Capital provides confidential Strategy Audits and Portfolio Calibration e
 
 The objective is to provide clarity on the operational regime and introduce the correct institutional partners where alignment exists.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

@@ -1,11 +1,17 @@
 ---
-title: "Wealth Mobility Architecture and Borderless Crypto Collateral for Institutional Grade M and A"
-description: "Institutional briefing on cross jurisdictional wealth mobility, digital collateral frameworks, and the integration of crypto based balance sheet structures into Fund-III buyout environments, including liquidity engineering and asset hardening protocols for allocators operating under MiFID II and North American private credit regimes."
-date: "2025-07-16"
-author: "Roials Capital (Institutional Briefing)"
-slug: "wealth-mobility-architecture-borderless-crypto-collateral"
+title: >-
+  Wealth Mobility Architecture and Borderless Crypto Collateral for
+  Institutional Grade M and A
+description: >-
+  Institutional briefing on cross jurisdictional wealth mobility, digital
+  collateral frameworks, and the integration of crypto based balance sheet
+  structures into Fund-III buyout environments, including liquidity engineering
+  and asset hardening protocols for allocators operating under MiFID II and
+  North American private credit regimes.
+date: '2025-07-16'
+author: Roials Capital (Institutional Briefing)
+slug: wealth-mobility-architecture-borderless-crypto-collateral
 ---
-
 The capital vacuum in cross border M and A is not driven by a shortage of liquidity.
 
 The constraint is the institutional difficulty of transforming wealth into mobility without diluting regulatory compliance, balance sheet integrity, or interbank settlement standards.
@@ -242,12 +248,3 @@ It is sovereignty.
 
 Structured correctly, crypto collateral enhances sovereignty by providing secure, compliant, and high velocity deployment capabilities that integrate smoothly with traditional private credit, energy, and industrial acquisition frameworks. [END OF BRIEFING]
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

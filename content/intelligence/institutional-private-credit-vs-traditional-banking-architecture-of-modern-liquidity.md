@@ -1,11 +1,17 @@
 ---
-title: "Institutional Private Credit vs Traditional Banking: The Architecture of Modern Liquidity"
-description: "A technical briefing on the regime shift from regulated banking credit to institutional private credit, with emphasis on capital formation mechanics, liquidity engineering architectures, and the operational structures behind Fund-III execution environments."
-date: "2025-09-07"
-author: "Roials Capital (Institutional Briefing)"
-slug: "institutional-private-credit-vs-traditional-banking-architecture-of-modern-liquidity"
+title: >-
+  Institutional Private Credit vs Traditional Banking: The Architecture of
+  Modern Liquidity
+description: >-
+  A technical briefing on the regime shift from regulated banking credit to
+  institutional private credit, with emphasis on capital formation mechanics,
+  liquidity engineering architectures, and the operational structures behind
+  Fund-III execution environments.
+date: '2025-09-07'
+author: Roials Capital (Institutional Briefing)
+slug: >-
+  institutional-private-credit-vs-traditional-banking-architecture-of-modern-liquidity
 ---
-
 The capital vacuum across North American and European credit markets is a structural consequence of regulatory compression, not a contraction in underlying economic productivity.
 
 Basel IV, regional banking consolidation, and supervisory tightening have created an environment where traditional lenders maintain balance sheet exposure but cannot transition sufficient capital into middle-market and asset-backed credit.
@@ -134,9 +140,9 @@ Roials ensures alignment between investor archetypes and fund strategy.
 
 2.
 
-Capital Structuring and Asset-Based Lending Structures Ten percent of THE MANDAT
+Capital Structuring and Asset-Based Lending Structures Ten percent of THE MANDATE
 
-E supports asset-based lending frameworks.
+ supports asset-based lending frameworks.
 
 These credit lines stabilize balance sheets and increase opportunity velocity for operators transitioning between acquisition cycles.
 
@@ -224,14 +230,4 @@ The objective is to align institutional capital with the correct liquidity archi
 
 # 
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

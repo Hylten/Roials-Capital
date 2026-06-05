@@ -1,11 +1,16 @@
 ---
-title: "The Evolution of Private Credit in 2026: The New Architecture of Institutional Liquidity"
-description: "A technical institutional briefing on the 2026 private credit regime shift, structural inefficiencies, capital stack reconfiguration, and the emerging role of liquidity engineering across Fund-III buyouts, Asset-Based Lending frameworks, and cross-border special mandates."
-date: "2026-02-13"
-author: "Roials Capital (Institutional Briefing)"
-slug: "evolution-private-credit-2026-institutional-liquidity-architecture"
+title: >-
+  The Evolution of Private Credit in 2026: The New Architecture of Institutional
+  Liquidity
+description: >-
+  A technical institutional briefing on the 2026 private credit regime shift,
+  structural inefficiencies, capital stack reconfiguration, and the emerging
+  role of liquidity engineering across Fund-III buyouts, Asset-Based Lending
+  frameworks, and cross-border special mandates.
+date: '2026-02-13'
+author: Roials Capital (Institutional Briefing)
+slug: evolution-private-credit-2026-institutional-liquidity-architecture
 ---
-
 The capital vacuum in North America's private credit environment is a consequence of regulatory drift, not a contraction in productive assets.
 
 This structural gap has rewritten the institutional liquidity architecture for 2026 and has accelerated the shift toward off balance sheet credit creation by non bank entities.
@@ -142,9 +147,9 @@ Fund-III buyouts typically require staged liquidity deployment across senior deb
 
 Roials Capital orchestrates the liquidity timing to ensure capital enters the operating environment in a balanced and risk aware manner.
 
-Energy Mandates and the Role of NAEO When THE MANDAT
+Energy Mandates and the Role of NAEO When THE MANDATE
 
-E touches North American energy, NAEO serves as the institutional grade operating partner.
+ touches North American energy, NAEO serves as the institutional grade operating partner.
 
 NAEO is integrated into the ecosystem through: technical recovery intelligence, Alberta basin asset validation, and operational excellence across heavy oil with established decline curves.
 
@@ -192,14 +197,4 @@ It is a technical navigation service for institutional decision makers operating
 
 # 
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

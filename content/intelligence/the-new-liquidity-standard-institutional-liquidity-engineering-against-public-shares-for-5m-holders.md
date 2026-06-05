@@ -1,11 +1,16 @@
 ---
-title: "The New Liquidity Standard: Institutional liquidity engineering Against Public Shares for + Holders"
-description: "A high‑authority analysis of the emerging liquidity standard, focusing on private credit, Asset-Based Lending frameworks, and public share Asset-Backed Frameworks for HNWI and UHNW clients seeking structural liquidity."
-date: "2025-11-25"
-author: "Jonas Hyltén"
-slug: "the-new-liquidity-standard-institutional-liquidity-engineering-against-public-shares-for-5m-holders"
+title: >-
+  The New Liquidity Standard: Institutional liquidity engineering Against Public
+  Shares for + Holders
+description: >-
+  A high‑authority analysis of the emerging liquidity standard, focusing on
+  private credit, Asset-Based Lending frameworks, and public share Asset-Backed
+  Frameworks for HNWI and UHNW clients seeking structural liquidity.
+date: '2025-11-25'
+author: Jonas Hyltén
+slug: >-
+  the-new-liquidity-standard-institutional-liquidity-engineering-against-public-shares-for-5m-holders
 ---
-
 # The New Liquidity Standard: Capital Structuring Against Public Shares for the + Class Liquidity architecture is shifting. The old model, reliant on conventional lines of credit and restrictive banking criteria, is no longer the benchmark for sophisticated capital holders.
 
 The new standard is structural.
@@ -82,14 +87,4 @@ It reflects the sophistication of modern wealth architecture and the need for a 
 
 Roials Capital stands at the front of this structural evolution.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

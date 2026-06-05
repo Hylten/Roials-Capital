@@ -1,11 +1,16 @@
 ---
-title: "Sovereign Debt Strategies and the Flight to Crypto-Backed Asset-Based Lending: The New Architecture for UHNW Liquidity"
-description: "Why sovereign debt fragility is pushing UHNW individuals toward crypto-backed asset based liquidity engineering, and how Roials Capital structures institutional liquidity pathways."
-date: "2026-02-15"
-author: "Jonas Hyltén"
-slug: "sovereign-debt-strategies-and-the-flight-to-crypto-backed-abl-the-new-architecture-for-uhnw-liquidit"
+title: >-
+  Sovereign Debt Strategies and the Flight to Crypto-Backed Asset-Based Lending:
+  The New Architecture for UHNW Liquidity
+description: >-
+  Why sovereign debt fragility is pushing UHNW individuals toward crypto-backed
+  asset based liquidity engineering, and how Roials Capital structures
+  institutional liquidity pathways.
+date: '2026-02-15'
+author: Jonas Hyltén
+slug: >-
+  sovereign-debt-strategies-and-the-flight-to-crypto-backed-abl-the-new-architecture-for-uhnw-liquidit
 ---
-
 # Sovereign Debt Strategies: Why UHNWIs are Moving to Crypto-Backed Asset-Based Lending Global sovereign debt has reached a structural inflection point. The compression cycle that defined the last two decades, driven by ultra-low interest rates and abundant monetary expansion, has reversed.
 
 The world’s largest economies are carrying unprecedented debt loads, and every basis point of tightening reveals more fragility in the system.
@@ -283,26 +288,3 @@ Roials Capital operates at the intersection of these trends.
 We do not follow the cycles.
 
 We build the mechanics that allow our clients to operate above them.
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
-
-## Conclusion
-
-Sovereign debt volatility is not a temporary phase.
-
-It is a structural realignment that requires sophisticated Asset-Backed Frameworks.
-
-UHNWIs are moving toward crypto backed Asset-Based Lending because it provides non correlated collateral, rapid deployment capability, and independence from sovereign risk cycles.
-
-Roials Capital stands inside this shift as a principal authority, providing institutional grade Asset-Backed Frameworks mechanisms built on private credit, asset based Capital Structuring, and high threshold crypto and public equity collateral structures.
-
-If liquidity is the architecture that supports your next strategic move, our role is to design it with precision.
-
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.

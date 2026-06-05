@@ -1,11 +1,13 @@
 ---
-title: "Institutional Standards for Private Liquidity Engineering Agreements"
-description: "Roials Capital’s sovereign-grade framework governing Institutional Liquidity Paths, Fund-III capital formation, private credit structuring, and cross‑jurisdictional institutional mandates."
-date: "2025-08-13"
-author: "Roials Capital"
-slug: "institutional-liquidity-engineering-standards-Roials Capital"
+title: Institutional Standards for Private Liquidity Engineering Agreements
+description: >-
+  Roials Capital’s sovereign-grade framework governing Institutional Liquidity
+  Paths, Fund-III capital formation, private credit structuring, and
+  cross‑jurisdictional institutional mandates.
+date: '2025-08-13'
+author: Roials Capital
+slug: institutional-liquidity-engineering-standards-Roials Capital
 ---
-
 Institutional architecture begins with the presumption of asymmetry.
 
 Capital moves asymmetrically.
@@ -481,9 +483,9 @@ With standards, it becomes architecture.
 
 XIV.
 
-Principal Mandate THE MANDAT
+Principal Mandate THE MANDATE
 
-E is simple.
+ is simple.
 
 Precision.
 
@@ -519,14 +521,4 @@ Terminal Metric: Enforcement Coherence Index =
 
 92.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

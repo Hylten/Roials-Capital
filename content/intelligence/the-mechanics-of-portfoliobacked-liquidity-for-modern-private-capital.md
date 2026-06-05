@@ -1,11 +1,13 @@
 ---
-title: "The Mechanics of Portfolio‑Backed Liquidity for Modern Private Capital"
-description: "A technical exploration of portfolio‑backed liquidity structures, focusing on private credit and Asset-Based Lending solutions for HNWI and UHNW capital holders."
-date: "2025-10-14"
-author: "Jonas Hyltén"
-slug: "the-mechanics-of-portfoliobacked-liquidity-for-modern-private-capital"
+title: The Mechanics of Portfolio‑Backed Liquidity for Modern Private Capital
+description: >-
+  A technical exploration of portfolio‑backed liquidity structures, focusing on
+  private credit and Asset-Based Lending solutions for HNWI and UHNW capital
+  holders.
+date: '2025-10-14'
+author: Jonas Hyltén
+slug: the-mechanics-of-portfoliobacked-liquidity-for-modern-private-capital
 ---
-
 # The Mechanics of Portfolio‑Backed Liquidity Portfolio backed liquidity is no longer an exotic structure reserved for institutional balance sheets. It has become a central operating tool for private capital holders who require immediate, precise, and controlled access to liquidity without fracturing long range investment architecture.
 
 For High Net Worth and Ultra High Net Worth individuals, liquidity is not a convenience, it is a structural requirement.
@@ -74,14 +76,4 @@ Portfolio backed solutions offer the most stable and strategically aligned appro
 
 Roials Capital provides the infrastructure, the discipline, and the principal authority required to execute these frameworks with precision.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

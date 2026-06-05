@@ -1,11 +1,13 @@
 ---
-title: "Institutional Grade Infrastructure for Global Capital"
-description: "Institutional-grade architecture for Fund-III capital formation, liquidity engineering, and energy-special mandate deployment across US and EU private markets."
-date: "2025-11-20"
-author: "Roials Capital"
-slug: "institutional-grade-infrastructure-global-capital"
+title: Institutional Grade Infrastructure for Global Capital
+description: >-
+  Institutional-grade architecture for Fund-III capital formation, liquidity
+  engineering, and energy-special mandate deployment across US and EU private
+  markets.
+date: '2025-11-20'
+author: Roials Capital
+slug: institutional-grade-infrastructure-global-capital
 ---
-
 The structural gap is clear.
 
 Capital supply is global.
@@ -176,9 +178,9 @@ They do not enter through the same gate as generalist LPs.
 
 The GP must maintain separate compliance rails, jurisdictional onboarding routes, and reporting structures for specialized capital.
 
-One friction point is enough to cost THE MANDAT
+One friction point is enough to cost THE MANDATE
 
-E. A GP who manages these three systems with precision becomes institution-ready.
+. A GP who manages these three systems with precision becomes institution-ready.
 
 A GP who does not remains in the aspirational layer of private markets.
 
@@ -219,14 +221,4 @@ EXIT Our mandate is simple: reduce capital friction by 87 percent across the fun
 
 For a confidential capital audit, initiate contact.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

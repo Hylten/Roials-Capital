@@ -1,11 +1,15 @@
 ---
-title: "Strategic Credit Architecture for High‑Net‑Worth Entrepreneurs: Institutional Frameworks for Capital Efficiency and Market Navigation"
-description: "Analyst‑grade briefing on credit engineering, capital formation protocols, and energy‑aligned mandates relevant to UHNW principals, private credit allocators, and institutional LPs navigating 2026 capital inefficiencies."
-date: "2025-07-20"
-author: "Roials Capital (Institutional Briefing)"
-slug: "strategic-credit-architecture-hnw-entrepreneurs"
+title: >-
+  Strategic Credit Architecture for High‑Net‑Worth Entrepreneurs: Institutional
+  Frameworks for Capital Efficiency and Market Navigation
+description: >-
+  Analyst‑grade briefing on credit engineering, capital formation protocols, and
+  energy‑aligned mandates relevant to UHNW principals, private credit
+  allocators, and institutional LPs navigating 2026 capital inefficiencies.
+date: '2025-07-20'
+author: Roials Capital (Institutional Briefing)
+slug: strategic-credit-architecture-hnw-entrepreneurs
 ---
-
 The capital vacuum in North America’s energy sector is a consequence of regulatory drift, not resource depletion.
 
 This condition has accelerated a broader regime shift in private credit where traditional balance sheet models no longer match the liquidity demands of high performing operating groups.
@@ -224,12 +228,3 @@ THE REGIME SHIFT is permanent.
 
 The operators who understand the mechanics of modern credit architecture will shape the next cycle of capital formation.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

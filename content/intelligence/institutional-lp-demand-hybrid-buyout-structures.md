@@ -1,11 +1,13 @@
 ---
-title: "Principal Memorandum on Institutional Pull Toward Hybrid Buyout Architectures"
-description: "Institutional LP demand is shifting toward hybrid buyout constructs that fuse direct control, secured credit tranches, and additive yield layers within Fund‑III scale mandates."
-date: "2025-12-02"
-author: "Roials Capital"
-slug: "institutional-lp-demand-hybrid-buyout-structures"
+title: Principal Memorandum on Institutional Pull Toward Hybrid Buyout Architectures
+description: >-
+  Institutional LP demand is shifting toward hybrid buyout constructs that fuse
+  direct control, secured credit tranches, and additive yield layers within
+  Fund‑III scale mandates.
+date: '2025-12-02'
+author: Roials Capital
+slug: institutional-lp-demand-hybrid-buyout-structures
 ---
-
 Higher-for-longer changed the cadence.
 
 LPs want shape, not stories.
@@ -128,12 +130,3 @@ We provide structure.
 
 Request the confidential capital audit and we proceed.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

@@ -1,11 +1,13 @@
 ---
-title: "The Institutional Playbook for Capital Preservation"
-description: "A principal level intelligence report detailing structural capital preservation mechanics for private equity, UHNW families, and institutional allocators entering the 2026 cycle."
-date: "2026-03-10"
-author: "Jonas Hyltén"
-slug: "institutional-playbook-capital-preservation-2026"
+title: The Institutional Playbook for Capital Preservation
+description: >-
+  A principal level intelligence report detailing structural capital
+  preservation mechanics for private equity, UHNW families, and institutional
+  allocators entering the 2026 cycle.
+date: '2026-03-10'
+author: Jonas Hyltén
+slug: institutional-playbook-capital-preservation-2026
 ---
-
 [START INTELLIGENCE REPORT]
 
 1.
@@ -284,40 +286,3 @@ It must be structured, not exposed.
 It must be engineered, not left to market whims.
 
 5.
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
-
-## Conclusion
-
-STRUCTURAL CLOSURE Capital preservation for 2026 and beyond is an engineering discipline.
-
-It is the deliberate organization of cash flow, collateral, regulatory posture, and liquidity pathways to ensure that capital remains productive regardless of market volatility.
-
-It is the recognition that private equity Fund-III investment opportunities 2026 will be judged not only on performance but on the robustness of their preservation architecture.
-
-It acknowledges that capital raising for mid market buyout transactions succeeds only when capital is protected through intelligent structuring.
-
-It affirms that UHNW liquidity planning is not about cash.
-
-It is about mobility.
-
-It concludes that energy infrastructure, industrial platforms, and asset backed financing for businesses are the structural anchors of modern capital preservation.
-
-Preservation is not retreat.
-
-Preservation is positioning.
-
-Preservation is strength under constraint.
-
-It is the only discipline that ensures the core biblical mandate of inheritance, the Gnosjö mandate of industrious stewardship, and the institutional mandate of technical accuracy.
-
-This is the playbook.
-
-The principal must choose how to deploy it. [END INTELLIGENCE REPORT]
-
-# ...

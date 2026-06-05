@@ -1,11 +1,14 @@
 ---
-title: "The Sovereign Crypto Bank Regime and the Liquidity Mandate of Fund-III"
-description: "Institutional brief on sovereign-grade digital banking architectures, Fund-III liquidity structuring, private credit capital formation, and multi‑jurisdictional acquisition lanes across MiFID II, Asset-Based Lending, and energy-transition mandates."
-date: "2025-09-10"
-author: "Roials Capital"
-slug: "sovereign-crypto-bank-regime-liquidity-mandate-Fund-III"
+title: The Sovereign Crypto Bank Regime and the Liquidity Mandate of Fund-III
+description: >-
+  Institutional brief on sovereign-grade digital banking architectures, Fund-III
+  liquidity structuring, private credit capital formation, and
+  multi‑jurisdictional acquisition lanes across MiFID II, Asset-Based Lending,
+  and energy-transition mandates.
+date: '2025-09-10'
+author: Roials Capital
+slug: sovereign-crypto-bank-regime-liquidity-mandate-Fund-III
 ---
-
 A sovereign crypto bank is not a retail novelty.
 
 It is not a trading platform, not a payments layer, and not a mere custodial wrapper for tokenized assets.
@@ -164,9 +167,9 @@ It needs a bank capable of:
 
 - Tokenizing Asset-Based Lending structures for rapid redeployment
 
-- Offering cross-jurisdiction settlement that stays inside regulatory boundaries Kapitalanskaffning is 80% of THE MANDAT
+- Offering cross-jurisdiction settlement that stays inside regulatory boundaries Kapitalanskaffning is 80% of THE MANDATE
 
-E. Without upstream formation, downstream execution collapses.
+. Without upstream formation, downstream execution collapses.
 
 Fund‑III must raise capital like a sovereign, not like a startup GP.
 
@@ -421,18 +424,8 @@ Capital formation defines survival.
 
 Execution defines legacy.
 
-Minimum target size: $5M+....
 
 Request confidential capital audit.
 
 Technical metric: Minimum liquidity coverage ratio (LCR) required for Fund‑III launch window: **138.4%**.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

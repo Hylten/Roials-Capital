@@ -1,11 +1,13 @@
 ---
-title: "The Mechanics of Tokenized Real Estate Liquidity"
-description: "Institutional-grade analysis of tokenized real estate liquidity structures, private credit interaction, Asset-Based Lending routing, and Fund-III capital scaling mechanics for UHNWIs and LPs."
-date: "2025-12-13"
-author: "Roials Capital"
-slug: "mechanics-tokenized-real-estate-liquidity"
+title: The Mechanics of Tokenized Real Estate Liquidity
+description: >-
+  Institutional-grade analysis of tokenized real estate liquidity structures,
+  private credit interaction, Asset-Based Lending routing, and Fund-III capital
+  scaling mechanics for UHNWIs and LPs.
+date: '2025-12-13'
+author: Roials Capital
+slug: mechanics-tokenized-real-estate-liquidity
 ---
-
 Structural gaps create pricing power.
 
 Tokenized real estate exposes one of the largest gaps still ignored by slow institutions: the misalignment between the velocity of capital and the immobility of the underlying asset class.
@@ -225,16 +227,6 @@ They serve.
 EXIT Projected collateral clearance window inside tokenized structures: 4.
 7 hours.
 
-Minimum target size: $5M+....
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

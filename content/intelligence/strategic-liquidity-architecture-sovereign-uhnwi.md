@@ -1,11 +1,16 @@
 ---
-title: "Strategic Liquidity Architecture for Sovereign and Ultra High Net Worth Portfolios"
-description: "Institutional briefing outlining the structural gap in North American energy, Alberta thermal recovery mechanics, and the role of Roials Capital in strategic alignment, partnership navigation, and liquidity engineering for Fund-III plus mandates."
-date: "2025-09-02"
-author: "Roials Capital (Institutional Briefing)"
-slug: "strategic-liquidity-architecture-sovereign-uhnwi"
+title: >-
+  Strategic Liquidity Architecture for Sovereign and Ultra High Net Worth
+  Portfolios
+description: >-
+  Institutional briefing outlining the structural gap in North American energy,
+  Alberta thermal recovery mechanics, and the role of Roials Capital in
+  strategic alignment, partnership navigation, and liquidity engineering for
+  Fund-III plus mandates.
+date: '2025-09-02'
+author: Roials Capital (Institutional Briefing)
+slug: strategic-liquidity-architecture-sovereign-uhnwi
 ---
-
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion.
 
 Allocation patterns across sovereign, pension, and UHNW portfolios continue to be dominated by equity beta and private credit constructs that overlook the most durable cash flows available in the continent.
@@ -225,12 +230,3 @@ The Alberta energy ecosystem rewards those who understand its technical reality 
 
 Roials Capital functions as a navigator across these domains, ensuring that the institutional allocator engages with the landscape through disciplined, compliant, and intelligence driven pathways. [END OF BRIEFING]
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

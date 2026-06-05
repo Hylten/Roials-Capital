@@ -1,11 +1,16 @@
 ---
-title: "The Sovereign Capital Architecture: Engineering Multi Generational Liquidity Through Institutional Energy Stewardship"
-description: "Institutional briefing on the structural capital vacuum in North American energy, Alberta thermal recovery mechanics, and the architecture of multi generational liquidity formation for UHNWIs, Family Offices, and Institutional LPs navigating Fund-III+ buyout cycles."
-date: "2025-11-02"
-author: "Roials Capital (Institutional Briefing)"
-slug: "sovereign-capital-architecture-multi-generational-liquidity"
+title: >-
+  The Sovereign Capital Architecture: Engineering Multi Generational Liquidity
+  Through Institutional Energy Stewardship
+description: >-
+  Institutional briefing on the structural capital vacuum in North American
+  energy, Alberta thermal recovery mechanics, and the architecture of multi
+  generational liquidity formation for UHNWIs, Family Offices, and Institutional
+  LPs navigating Fund-III+ buyout cycles.
+date: '2025-11-02'
+author: Roials Capital (Institutional Briefing)
+slug: sovereign-capital-architecture-multi-generational-liquidity
 ---
-
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion.
 
 Production reservoirs remain stable.
@@ -274,7 +279,7 @@ It is structured around real assets, long duration production, mature decline cu
 
 For the allocator, the next
 
-### Step I: s not transactional. It is architectural.
+### Step I is not transactional. It is architectural.
 
 The question is not which asset to select.
 
@@ -282,12 +287,3 @@ The question is how to structure a capital system that can sustain multi generat
 
 Roials Capital offers a confidential Strategy Audit to evaluate an allocator's current portfolio alignment, sector exposure, and long horizon liquidity architecture. [END OF BRIEFING]
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

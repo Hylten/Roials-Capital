@@ -1,11 +1,12 @@
 ---
-title: "The Power of Institutional Backing in Private Credit"
-description: "A surgical exploration of institutional liquidity mechanics and asset based liquidity engineering frameworks designed for HNWI and UHNW clients."
-date: "2025-10-12"
-author: "Jonas Hyltén"
-slug: "the-power-of-institutional-backing-in-private-credit"
+title: The Power of Institutional Backing in Private Credit
+description: >-
+  A surgical exploration of institutional liquidity mechanics and asset based
+  liquidity engineering frameworks designed for HNWI and UHNW clients.
+date: '2025-10-12'
+author: Jonas Hyltén
+slug: the-power-of-institutional-backing-in-private-credit
 ---
-
 # The Power of Institutional Backing in Private Credit Institutional capital sits at the center of modern private credit. It shapes pricing.
 
 It defines allowable risk.
@@ -297,38 +298,3 @@ This shift is permanent.
 Private credit, asset based Capital Structuring, crypto Asset-Backed Frameworks at scale, and public share financing will increasingly be governed by institutional frameworks, not individual preferences.
 
 Roials Capital is engineered around this future, not adapting to it.
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
-
-## Conclusion
-
-Institutional backing is not a marketing attribute.
-
-It is the foundation of predictable liquidity, disciplined underwriting, and structural continuity across asset classes.
-
-For borrowers operating at scale, the difference between institutional and non institutional Capital Structuring is not marginal.
-
-It is categorical.
-
-It changes the transaction.
-
-It changes the risk.
-
-It changes the outcome.
-
-Roials Capital stands in the architecture of institutional capital.
-
-Quietly.
-
-Precisely.
-
-With principal authority.
-
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.

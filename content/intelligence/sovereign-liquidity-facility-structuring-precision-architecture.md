@@ -1,11 +1,16 @@
 ---
-title: "Sovereign Liquidity Facility Structuring: The Precision Architecture Behind Institutional Liquidity"
-description: "A high-density institutional analysis on sovereign liquidity mechanics, Fund-III capital formation, buyout liquidity architecture, and cross‑jurisdictional facility engineering for private equity and private credit."
-date: "2026-03-02"
-author: "Roials Capital"
-slug: "sovereign-liquidity-facility-structuring-precision-architecture"
+title: >-
+  Sovereign Liquidity Facility Structuring: The Precision Architecture Behind
+  Institutional Liquidity
+description: >-
+  A high-density institutional analysis on sovereign liquidity mechanics,
+  Fund-III capital formation, buyout liquidity architecture, and
+  cross‑jurisdictional facility engineering for private equity and private
+  credit.
+date: '2026-03-02'
+author: Roials Capital
+slug: sovereign-liquidity-facility-structuring-precision-architecture
 ---
-
 Sovereign liquidity facilities are no longer emergency instruments.
 
 They are engineered balance‑sheet enhancers, velocity multipliers, and institutional shields.
@@ -568,14 +573,4 @@ The sovereign facility is the ultimate institutional weapon.
 
 For principal review, initiate a confidential capital audit.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

@@ -1,11 +1,13 @@
 ---
-title: "Navigating the Middle Market Credit Gap with Structural Precision"
-description: "A surgical examination of liquidity architecture, private credit, and asset based liquidity engineering solutions for HNWI and UHNW investors facing the middle market credit gap."
-date: "2026-01-22"
-author: "Jonas Hyltén"
-slug: "navigating-the-middle-market-credit-gap-with-structural-precision"
+title: Navigating the Middle Market Credit Gap with Structural Precision
+description: >-
+  A surgical examination of liquidity architecture, private credit, and asset
+  based liquidity engineering solutions for HNWI and UHNW investors facing the
+  middle market credit gap.
+date: '2026-01-22'
+author: Jonas Hyltén
+slug: navigating-the-middle-market-credit-gap-with-structural-precision
 ---
-
 # Navigating the Middle Market Credit Gap The middle market credit gap did not emerge overnight. It is the cumulative result of regulatory tightening, balance sheet contraction within traditional lenders, and fragmented underwriting standards that exclude a growing share of qualified borrowers.
 
 This gap is now structural.
@@ -238,14 +240,4 @@ Liquidity is the result.
 
 Request confidential audit 
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

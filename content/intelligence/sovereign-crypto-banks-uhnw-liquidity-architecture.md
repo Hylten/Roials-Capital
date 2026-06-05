@@ -1,11 +1,15 @@
 ---
-title: "The Rise of Sovereign Crypto Banks and the Liquidity Architecture Reshaping Global UHNW Capital"
-description: "Institutional briefing on sovereign crypto banking, liquidity engineering, and the restructuring of global UHNW balance sheets across Europe, North America, and the GCC."
-date: "2025-09-26"
-author: "Roials Capital (Institutional Briefing)"
-slug: "sovereign-crypto-banks-uhnw-liquidity-architecture"
+title: >-
+  The Rise of Sovereign Crypto Banks and the Liquidity Architecture Reshaping
+  Global UHNW Capital
+description: >-
+  Institutional briefing on sovereign crypto banking, liquidity engineering, and
+  the restructuring of global UHNW balance sheets across Europe, North America,
+  and the GCC.
+date: '2025-09-26'
+author: Roials Capital (Institutional Briefing)
+slug: sovereign-crypto-banks-uhnw-liquidity-architecture
 ---
-
 The capital vacuum emerging across global private markets is not a function of declining opportunities but the direct outcome of regulatory recalibration.
 
 Basel III Endgame, MiFID II operational tightening, and GCC regulatory modernization have created an environment where conventional private banks no longer dominate UHNW liquidity provisioning.
@@ -194,12 +198,3 @@ The function is to ensure the UHNW principal, family office, GP, or institutiona
 
 A confidential strategy audit allows the allocator to assess how sovereign crypto banks can integrate into Fund-III capital raising, cross border M and A sequencing, and liquidity engineering frameworks across Europe, North America, and the GCC. [END OF BRIEFING]
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

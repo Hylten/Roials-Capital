@@ -1,11 +1,16 @@
 ---
-title: "Structural Alignment in Multi Jurisdictional Asset Architectures Across Energy, Private Credit, and Cross Border Buyouts"
-description: "Institutional memo outlining regime shifts in North American energy, multi jurisdictional capital structures, and alignment dynamics for LPs and GPs navigating Fund-III+ allocations, ABL liquidity engineering, and special mandates in North American energy and European MiFID II acquisitions."
-date: "2025-06-23"
-author: "Roials Capital (Institutional Briefing)"
-slug: "structural-alignment-multi-jurisdictional-asset-architectures"
+title: >-
+  Structural Alignment in Multi Jurisdictional Asset Architectures Across
+  Energy, Private Credit, and Cross Border Buyouts
+description: >-
+  Institutional memo outlining regime shifts in North American energy, multi
+  jurisdictional capital structures, and alignment dynamics for LPs and GPs
+  navigating Fund-III+ allocations, ABL liquidity engineering, and special
+  mandates in North American energy and European MiFID II acquisitions.
+date: '2025-06-23'
+author: Roials Capital (Institutional Briefing)
+slug: structural-alignment-multi-jurisdictional-asset-architectures
 ---
-
 The capital vacuum in North America's energy sector is a consequence of regulatory drift and balance sheet deleveraging cycles rather than resource depletion or geological decline.
 
 Institutional allocators evaluating multi jurisdictional asset strategies have increasingly reoriented toward structures that are less sensitive to sentiment and more dependent on mechanical recovery physics, cross border enforceability standards, and jurisdictional alignment between cash flow origin and collateral governance.
@@ -140,12 +145,3 @@ It requires a confidential strategy audit to align structural architecture, juri
 
 Roials Capital provides the navigational intelligence and institutional INTRODUCTION pathways to support this alignment across energy, private credit, and multi jurisdictional acquisitions.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

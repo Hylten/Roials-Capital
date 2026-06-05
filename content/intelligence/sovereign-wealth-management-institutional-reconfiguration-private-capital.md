@@ -1,11 +1,16 @@
 ---
-title: "Sovereign Wealth Management and the Institutional Reconfiguration of Private Capital"
-description: "A clinical analysis of the regime shift reshaping global private capital flows, the rise of sovereign allocators, and the operational structures enabling Fund-III+ platforms to scale through disciplined kapitalanskaffning, liquidity engineering, and cross-border mandates."
-date: "2025-08-27"
-author: "Roials Capital (Institutional Briefing)"
-slug: "sovereign-wealth-management-institutional-reconfiguration-private-capital"
+title: >-
+  Sovereign Wealth Management and the Institutional Reconfiguration of Private
+  Capital
+description: >-
+  A clinical analysis of the regime shift reshaping global private capital
+  flows, the rise of sovereign allocators, and the operational structures
+  enabling Fund-III+ platforms to scale through disciplined kapitalanskaffning,
+  liquidity engineering, and cross-border mandates.
+date: '2025-08-27'
+author: Roials Capital (Institutional Briefing)
+slug: sovereign-wealth-management-institutional-reconfiguration-private-capital
 ---
-
 The capital vacuum in North American private markets is a consequence of regulatory drift and institutional retrenchment, not a shortage of productive assets.
 
 Sovereign allocators have moved into this gap with an operating philosophy that treats capital as a geopolitical instrument rather than a cyclical investment vehicle.
@@ -243,12 +248,3 @@ The purpose is clarity.
 
 Allocators benefit from a structured assessment of how their mandates intersect with sovereign archetypes, heavy oil resource opportunities, private credit structures, and cross border buyout platforms. [END OF BRIEFING]
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

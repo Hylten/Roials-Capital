@@ -1,11 +1,13 @@
 ---
-title: "The Sovereign Capital Architecture: Building Multi‑Generational Liquidity"
-description: "Institutional briefing on the structural mechanics, liquidity architecture, and sovereign-grade capital design informing Fund-III scale allocations, North American energy mandates, and European private market acquisition frameworks."
-date: "2025-11-05"
-author: "Roials Capital (Institutional Briefing)"
-slug: "sovereign-capital-architecture-multigenerational-liquidity"
+title: 'The Sovereign Capital Architecture: Building Multi‑Generational Liquidity'
+description: >-
+  Institutional briefing on the structural mechanics, liquidity architecture,
+  and sovereign-grade capital design informing Fund-III scale allocations, North
+  American energy mandates, and European private market acquisition frameworks.
+date: '2025-11-05'
+author: Roials Capital (Institutional Briefing)
+slug: sovereign-capital-architecture-multigenerational-liquidity
 ---
-
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion.
 
 This structural disconnect has created one of the most predictable multi-decade liquidity corridors in the institutional landscape.
@@ -224,12 +226,3 @@ Whether via Fund-III buyout structures, Special Mandates, or institutional intro
 
 Allocators requiring a technical audit of their current exposure, cross-border architecture, or energy allocation posture may initiate a Confidential Strategy Audit to determine alignment with the Sovereign Capital Architecture.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

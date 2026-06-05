@@ -1,11 +1,12 @@
 ---
-title: "The Mechanics of Multi-Asset Liquidity for Institutional-Grade Portfolios"
-description: "A surgical exploration of liquidity architecture across private credit, Asset-Based Lending, and high-threshold digital and public market collateral."
-date: "2026-01-13"
-author: "Jonas Hyltén"
-slug: "the-mechanics-of-multi-asset-liquidity-for-institutional-grade-portfolios"
+title: The Mechanics of Multi-Asset Liquidity for Institutional-Grade Portfolios
+description: >-
+  A surgical exploration of liquidity architecture across private credit,
+  Asset-Based Lending, and high-threshold digital and public market collateral.
+date: '2026-01-13'
+author: Jonas Hyltén
+slug: the-mechanics-of-multi-asset-liquidity-for-institutional-grade-portfolios
 ---
-
 # The Mechanics of Multi-Asset Liquidity Liquidity is not a commodity. Liquidity is architecture.
 
 It is a structural expression of how capital is converted, redirected and reused.
@@ -270,14 +271,4 @@ Institutional.
 
 Request confidential audi t 
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

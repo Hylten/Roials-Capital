@@ -1,11 +1,15 @@
 ---
-title: "The Sovereign Balance Sheet: Engineering for Fund-III and Institutional Expansion"
-description: "Institutional briefing on sovereign balance sheet engineering, capital formation architecture, and strategic alignment for Fund-III expansion across buyouts, liquidity engineering, and North American energy mandates."
-date: "2025-07-26"
-author: "Roials Capital (Institutional Briefing)"
-slug: "sovereign-balance-sheet-engineering-Fund-III"
+title: >-
+  The Sovereign Balance Sheet: Engineering for Fund-III and Institutional
+  Expansion
+description: >-
+  Institutional briefing on sovereign balance sheet engineering, capital
+  formation architecture, and strategic alignment for Fund-III expansion across
+  buyouts, liquidity engineering, and North American energy mandates.
+date: '2025-07-26'
+author: Roials Capital (Institutional Briefing)
+slug: sovereign-balance-sheet-engineering-Fund-III
 ---
-
 The capital vacuum in North American private markets is a structural output of regulatory drift, not a shortage of institutional capital.
 
 Sovereign allocators, pensions, and UHNW family institutions are simultaneously attempting to rebalance exposure toward real-assets with demonstrable cash-flow mechanics, yet the market architecture remains fragmented.
@@ -194,12 +198,3 @@ DECISION-MAKING LENS FOR ALLOCATORS Institutional allocators evaluating Fund-III
 
 The goal is to facilitate alignment between institutional capital and platforms capable of sovereign-standard execution.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

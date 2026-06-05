@@ -1,11 +1,13 @@
 ---
-title: "Sovereign Asset Hardening: The Framework for Growth"
-description: "A high‑authority exploration of liquidity architecture, private credit, and asset based liquidity engineering for HNWI and UHNW portfolios seeking structural resilience."
-date: "2025-07-10"
-author: "Jonas Hyltén"
-slug: "sovereign-asset-hardening-the-framework-for-growth"
+title: 'Sovereign Asset Hardening: The Framework for Growth'
+description: >-
+  A high‑authority exploration of liquidity architecture, private credit, and
+  asset based liquidity engineering for HNWI and UHNW portfolios seeking
+  structural resilience.
+date: '2025-07-10'
+author: Jonas Hyltén
+slug: sovereign-asset-hardening-the-framework-for-growth
 ---
-
 # Sovereign Asset Hardening: The Framework for Growth Sovereign wealth behavior is no longer limited to state actors. It is now the baseline operating logic for individuals who manage private capital at institutional scale.
 
 Asset protection, liquidity optionality, and credit mobility have become the defining variables of long‑term capital survivability.
@@ -153,14 +155,4 @@ The client retains the sovereignty.
 
 Request Confidential Audit If your capital requires structural hardening, controlled leverage, and sovereign grade liquidity, request a confidential audit. 
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

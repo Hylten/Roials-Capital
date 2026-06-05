@@ -1,11 +1,14 @@
 ---
-title: "The Mechanics of Multi-Asset Liquidity for Institutional-Grade Portfolios"
-description: "A clinical examination of liquidity engineering, multi-asset balance sheet optimization, and the structural alignment between capital formation and private market deployment across Buyouts, Asset-Based Lending, and North American energy acquisitions."
-date: "2025-07-03"
-author: "Roials Capital (Institutional Briefing)"
-slug: "mechanics-of-multi-asset-liquidity-institutional-portfolios"
+title: The Mechanics of Multi-Asset Liquidity for Institutional-Grade Portfolios
+description: >-
+  A clinical examination of liquidity engineering, multi-asset balance sheet
+  optimization, and the structural alignment between capital formation and
+  private market deployment across Buyouts, Asset-Based Lending, and North
+  American energy acquisitions.
+date: '2025-07-03'
+author: Roials Capital (Institutional Briefing)
+slug: mechanics-of-multi-asset-liquidity-institutional-portfolios
 ---
-
 The capital vacuum in North American private markets is not a function of diminishing asset quality.
 
 It is a direct outcome of regulatory inertia, multi cycle underinvestment, and balance sheet contraction across the mid market lending ecosystem.
@@ -122,9 +125,9 @@ Key elements include:
 
 - Covenant frameworks tied to operational metrics rather than market indices.
 
-North American Energy Liquidity If THE MANDAT
+North American Energy Liquidity If THE MANDATE
 
-E involves NAEO or similar energy operators, liquidity forecasting is driven by reservoir mechanics and volumetric outputs.
+ involves NAEO or similar energy operators, liquidity forecasting is driven by reservoir mechanics and volumetric outputs.
 
 - SAGD: Predictable thermal efficiency, stable steam oil ratios, and gradual decline curves.
 
@@ -230,14 +233,4 @@ Roials Capital operates as a strategic partner for allocators who require an int
 
 # 
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

@@ -1,11 +1,16 @@
 ---
-title: "Decentralized Private Credit: The Institutional Frontier for Controlled Liquidity"
-description: "A high-authority analysis of decentralized private credit and asset based liquidity engineering, built for HNWI and UHNW investors seeking institutional liquidity structures."
-date: "2025-10-21"
-author: "Jonas Hyltén"
-slug: "decentralized-private-credit-the-institutional-frontier-for-controlled-liquidity"
+title: >-
+  Decentralized Private Credit: The Institutional Frontier for Controlled
+  Liquidity
+description: >-
+  A high-authority analysis of decentralized private credit and asset based
+  liquidity engineering, built for HNWI and UHNW investors seeking institutional
+  liquidity structures.
+date: '2025-10-21'
+author: Jonas Hyltén
+slug: >-
+  decentralized-private-credit-the-institutional-frontier-for-controlled-liquidity
 ---
-
 # Decentralized Private Credit: The Institutional Frontier Decentralized private credit is no longer the periphery domain of experimental capital. It has become a structural pillar for a rapidly maturing institutional landscape.
 
 The shift is not driven by ideology.
@@ -271,28 +276,3 @@ HNWI and UHNW individuals understand this distinction.
 They operate in environments where opportunity windows do not wait for procedural clearance.
 
 Decentralized private credit is the system that reflects this reality.
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
-
-## Conclusion
-
-Architecture Over Narrative The growth of decentralized private credit is not a trend.
-
-It is a structural evolution.
-
-Roials Capital stands at the institutional frontier of this evolution, offering Institutional Liquidity Paths against private credit assets, high-grade Asset-Based Lending collateral, and multi-million dollar positions across crypto and public markets.
-
-Our frameworks are engineered for clarity, autonomy, and liquidity without friction.
-
-Our function is not to follow the market.
-
-Our function is to define the mechanics the market will eventually adopt.
-
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.

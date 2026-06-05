@@ -1,11 +1,16 @@
 ---
-title: "Designing the Sovereign Balance Sheet: A Structural Blueprint for Private Liquidity Architecture"
-description: "A high-authority guide to liquidity engineering, private credit, and asset based Institutional Liquidity Paths for HNWI and UHNW individuals seeking institutional grade balance sheet design."
-date: "2026-02-06"
-author: "Jonas Hyltén"
-slug: "designing-the-sovereign-balance-sheet-a-structural-blueprint-for-private-liquidity-architecture"
+title: >-
+  Designing the Sovereign Balance Sheet: A Structural Blueprint for Private
+  Liquidity Architecture
+description: >-
+  A high-authority guide to liquidity engineering, private credit, and asset
+  based Institutional Liquidity Paths for HNWI and UHNW individuals seeking
+  institutional grade balance sheet design.
+date: '2026-02-06'
+author: Jonas Hyltén
+slug: >-
+  designing-the-sovereign-balance-sheet-a-structural-blueprint-for-private-liquidity-architecture
 ---
-
 # Designing the Sovereign Balance Sheet Classical wealth management optimizes portfolios. Sovereign architecture optimizes control.
 
 This distinction is where the modern high net worth balance sheet diverges from the institutional playbook.
@@ -260,9 +265,7 @@ Then we finalize the covenant design and operational triggers.
 
 Each
 
-### Phase I:
-
-s engineered with silence, precision, and sovereign intent
+### Phase I is engineered with silence, precision, and sovereign intent
 
 . principal authority: The Roials Capital Position We do not market. We do not chase.
 
@@ -320,14 +323,4 @@ The Next
 
 f you require a sovereign balance sheet designed with institutional structural mechanics, executed with silence and authority, request a confidential audit.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

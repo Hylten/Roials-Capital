@@ -1,11 +1,15 @@
 ---
-title: "Decentralized Private Credit: The Institutional Frontier for Controlled Liquidity"
-description: "Institutional blueprint for Fund-III capital formation, decentralized credit structures, and systemic liquidity engineering across buyouts, Asset-Based Lending, and energy mandates."
-date: "2025-11-15"
-author: "Roials Capital"
-slug: "decentralized-private-credit-institutional-frontier"
+title: >-
+  Decentralized Private Credit: The Institutional Frontier for Controlled
+  Liquidity
+description: >-
+  Institutional blueprint for Fund-III capital formation, decentralized credit
+  structures, and systemic liquidity engineering across buyouts, Asset-Based
+  Lending, and energy mandates.
+date: '2025-11-15'
+author: Roials Capital
+slug: decentralized-private-credit-institutional-frontier
 ---
-
 Decentralized private credit has crossed a structural threshold.
 
 Not narrative.
@@ -421,14 +425,4 @@ Request a confidential capital audit to align your Fund-III architecture with in
 Terminal Metric: Enforcement Latency Index ≤ 4.
 9 seconds.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

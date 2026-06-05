@@ -1,11 +1,14 @@
 ---
-title: "Institutional Liquidity Architecture for Real Estate Sovereigns"
-description: "A high density institutional analysis on liquidity engineering, balance sheet optimization, and capital stack recalibration for real estate sovereigns operating under 2026 macro constraints, with strategic alignment for Fund-III mandates."
-date: "2026-02-09"
-author: "Roials Capital (Institutional Briefing)"
-slug: "institutional-liquidity-architecture-real-estate-sovereigns"
+title: Institutional Liquidity Architecture for Real Estate Sovereigns
+description: >-
+  A high density institutional analysis on liquidity engineering, balance sheet
+  optimization, and capital stack recalibration for real estate sovereigns
+  operating under 2026 macro constraints, with strategic alignment for Fund-III
+  mandates.
+date: '2026-02-09'
+author: Roials Capital (Institutional Briefing)
+slug: institutional-liquidity-architecture-real-estate-sovereigns
 ---
-
 The capital vacuum affecting real estate sovereignties in 2026 is a product of liquidity migration and regulatory compression, not asset obsolescence.
 
 Sovereign-grade property portfolios remain structurally underleveraged, not because their income durability has weakened, but because their liquidity architecture has not evolved at the same velocity as market risk pricing.
@@ -169,14 +172,4 @@ The critical questions revolve around:
 
 - access to programmatic capital insulated from episodic refinancing events Roials Capital provides a confidential strategy audit for sovereign operators and allocators seeking calibrated exposure, ensuring alignment between capital architecture, macro regime conditions, and operational governance.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

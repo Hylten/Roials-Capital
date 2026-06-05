@@ -1,11 +1,15 @@
 ---
-title: "Liquidity Engineering Against Bitcoin: The Institutional Gold Standard for Family Offices"
-description: "A principal-level briefing on Capital Structuring, structured capital, and Fund-III readiness for family offices positioning Bitcoin as a collateralized reserve asset within multi-layered private markets architecture."
-date: "2025-09-19"
-author: "Roials Capital"
-slug: "liquidity-engineering-bitcoin-gold-standard-family-offices"
+title: >-
+  Liquidity Engineering Against Bitcoin: The Institutional Gold Standard for
+  Family Offices
+description: >-
+  A principal-level briefing on Capital Structuring, structured capital, and
+  Fund-III readiness for family offices positioning Bitcoin as a collateralized
+  reserve asset within multi-layered private markets architecture.
+date: '2025-09-19'
+author: Roials Capital
+slug: liquidity-engineering-bitcoin-gold-standard-family-offices
 ---
-
 Bitcoin is now a balance-sheet force multiplier.
 
 Hard, borderless, uninflatable.
@@ -635,52 +639,3 @@ Protects Fund-III commitments.
 THE META
 
 -
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
-
-## Conclusion
-
-(WITHOUT SUMMARIZING) Bitcoin is not optional.
-
-Not for families who value sovereignty.
-
-Not for principals who understand cycles.
-
-Not for GPs building Fund-III with long-term durability.
-
-It is the new gold standard because families demand assets that outlive politics, inflation, and cycles.
-
-Institutional Liquidity Paths turns Bitcoin into institutional-grade capital.
-
-Family offices deploy it to fuel Fund-III.
-
-To secure energy mandates.
-
-To close acquisitions under MiFID II.
-
-To expand buyout velocity.
-
-To operate with independence.
-
-This is the sovereign model.
-
-Hard reserves.
-
-Liquid structures.
-
-Aggressive execution.
-
-For principal evaluation, submit a confidential capital audit.
-
-Terminal metric: LTV hard cap: 18.6%
-
-# 
-
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.

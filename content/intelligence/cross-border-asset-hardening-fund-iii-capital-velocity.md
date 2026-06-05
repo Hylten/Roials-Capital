@@ -1,11 +1,14 @@
 ---
-title: "Cross‑Border Asset Hardening for Fund-III Capital Velocity"
-description: "Institutional brief on sovereign-grade asset hardening, cross-border capital structuring, and Fund‑III buyout readiness across volatile multi-jurisdictional markets with liquidity engineering and special mandate pathways."
-date: "2026-01-30"
-author: "Jonas Roials"
-slug: "cross-border-asset-hardening-Fund-III-capital-velocity"
+title: Cross‑Border Asset Hardening for Fund-III Capital Velocity
+description: >-
+  Institutional brief on sovereign-grade asset hardening, cross-border capital
+  structuring, and Fund‑III buyout readiness across volatile
+  multi-jurisdictional markets with liquidity engineering and special mandate
+  pathways.
+date: '2026-01-30'
+author: Jonas Roials
+slug: cross-border-asset-hardening-Fund-III-capital-velocity
 ---
-
 A hard truth defines the current cycle.
 
 Volatility is not a market condition.
@@ -609,16 +612,6 @@ Precise.
 
 Immutable.
 
-Minimum target size: $5M+....
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

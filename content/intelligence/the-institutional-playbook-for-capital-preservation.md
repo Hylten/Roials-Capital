@@ -1,11 +1,12 @@
 ---
-title: "The Institutional Playbook for Capital Preservation"
-description: "A high‑trust, institutional guide to liquidity creation through private credit and asset based liquidity engineering for HNWI and UHNW investors."
-date: "2025-07-13"
-author: "Jonas Hyltén"
-slug: "the-institutional-playbook-for-capital-preservation"
+title: The Institutional Playbook for Capital Preservation
+description: >-
+  A high‑trust, institutional guide to liquidity creation through private credit
+  and asset based liquidity engineering for HNWI and UHNW investors.
+date: '2025-07-13'
+author: Jonas Hyltén
+slug: the-institutional-playbook-for-capital-preservation
 ---
-
 # The Institutional Playbook for Capital Preservation Capital preservation is not a defensive posture. It is structural engineering.
 
 It is the discipline of keeping capital alive across cycles, across liquidity deserts, and across the silent ruptures that collapse non‑institutional portfolios.
@@ -57,42 +58,3 @@ It is an active discipline.
 A deliberate strategy.
 
 A commitment to structural superiority.
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
-
-## Conclusion
-
-Preservation Is the First Rule of Enduring Wealth There is no wealth without preservation.
-
-There is no compounding without stability.
-
-There is no dynasty without liquidity.
-
-The institutional playbook is not about being aggressive.
-
-It is about being prepared.
-
-It is about maintaining control at every layer of the capital stack.
-
-HNWI and UHNW individuals who adopt institutional structures maintain sovereignty over their portfolios.
-
-Those who do not become exposed to market cycles that do not care about their intentions.
-
-This playbook is your architecture.
-
-Silent.
-
-Precise.
-
-Institutional.
-
-Request confidential audit 
-
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.

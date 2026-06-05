@@ -1,11 +1,14 @@
 ---
-title: "Navigating the Middle Market Credit Gap with Structural Precision"
-description: "Institutional briefing on the capital vacuum across middle market credit, structural inefficiencies, and strategic alignment mechanisms for Fund-III allocations, balance sheet optimization, and cross-border acquisition mandates."
-date: "2025-08-18"
-author: "Roials Capital (Institutional Briefing)"
-slug: "middle-market-credit-gap-structural-precision"
+title: Navigating the Middle Market Credit Gap with Structural Precision
+description: >-
+  Institutional briefing on the capital vacuum across middle market credit,
+  structural inefficiencies, and strategic alignment mechanisms for Fund-III
+  allocations, balance sheet optimization, and cross-border acquisition
+  mandates.
+date: '2025-08-18'
+author: Roials Capital (Institutional Briefing)
+slug: middle-market-credit-gap-structural-precision
 ---
-
 The capital vacuum in North America’s middle market credit system is not a consequence of borrower deterioration.
 
 It is the direct outcome of regulatory drift that has removed traditional lenders from segments where the risk was historically well-priced and operationally predictable.
@@ -146,14 +149,4 @@ These sessions are designed to clarify structural pathways, pressure test assump
 
 # 
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

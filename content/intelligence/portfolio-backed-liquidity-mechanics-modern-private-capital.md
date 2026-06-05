@@ -1,11 +1,15 @@
 ---
-title: "The Mechanics of Portfolio Backed Liquidity for Modern Private Capital"
-description: "Institutional briefing on the structural role of portfolio backed liquidity in contemporary private markets, detailing the regime shift in capital formation, the technical mechanics of balance sheet optimization, and the partnership architecture required for allocators navigating buyout platforms, add on pathways, and energy linked mandates."
-date: "2026-03-15"
-author: "Roials Capital (Institutional Briefing)"
-slug: "portfolio-backed-liquidity-mechanics-modern-private-capital"
+title: The Mechanics of Portfolio Backed Liquidity for Modern Private Capital
+description: >-
+  Institutional briefing on the structural role of portfolio backed liquidity in
+  contemporary private markets, detailing the regime shift in capital formation,
+  the technical mechanics of balance sheet optimization, and the partnership
+  architecture required for allocators navigating buyout platforms, add on
+  pathways, and energy linked mandates.
+date: '2026-03-15'
+author: Roials Capital (Institutional Briefing)
+slug: portfolio-backed-liquidity-mechanics-modern-private-capital
 ---
-
 The capital vacuum in private markets did not emerge from declining opportunity sets.
 
 It emerged from structural congestion created by regulatory tightening, higher base rates, and the retreat of traditional lenders from middle market exposures.
@@ -266,14 +270,4 @@ The allocator who understands portfolio backed liquidity as a strategic instrume
 
 # 
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

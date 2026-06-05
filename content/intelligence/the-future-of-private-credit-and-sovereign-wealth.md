@@ -1,11 +1,12 @@
 ---
-title: "The Future of Private Credit and Sovereign Wealth"
-description: "A high-authority analysis of private credit, asset based liquidity engineering, and Institutional Liquidity Paths for HNWI and UHNW portfolios."
-date: "2025-12-22"
-author: "Jonas Hyltén"
-slug: "the-future-of-private-credit-and-sovereign-wealth"
+title: The Future of Private Credit and Sovereign Wealth
+description: >-
+  A high-authority analysis of private credit, asset based liquidity
+  engineering, and Institutional Liquidity Paths for HNWI and UHNW portfolios.
+date: '2025-12-22'
+author: Jonas Hyltén
+slug: the-future-of-private-credit-and-sovereign-wealth
 ---
-
 # The Future of Private Credit and Sovereign Wealth The landscape of global wealth is shifting. The old centers of gravity, traditional banks and public market frameworks, no longer define the liquidity architecture for the wealthy.
 
 Private credit has become the institutional core.
@@ -201,24 +202,3 @@ Not public.
 Not speculative.
 
 Built for those who manage real weight.
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
-
-## Conclusion
-
-Private credit will continue to expand.
-
-Sovereign wealth will continue to dominate.
-
-Asset based Strategic Collateralization will remain the liquidity mechanism of choice for serious capital.
-
-Roials Capital stands as a structural partner for those who require institutional clarity with sovereign‑level discretion.
-
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.

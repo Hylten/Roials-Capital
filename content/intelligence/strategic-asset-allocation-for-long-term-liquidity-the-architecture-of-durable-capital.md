@@ -1,11 +1,16 @@
 ---
-title: "Strategic Asset Allocation for Long-Term Liquidity: The Architecture of Durable Capital"
-description: "A high-level liquidity framework for HNWI and UHNW investors using private credit and asset-based liquidity engineering to engineer long-term optionality."
-date: "2026-01-07"
-author: "Jonas Hyltén"
-slug: "strategic-asset-allocation-for-long-term-liquidity-the-architecture-of-durable-capital"
+title: >-
+  Strategic Asset Allocation for Long-Term Liquidity: The Architecture of
+  Durable Capital
+description: >-
+  A high-level liquidity framework for HNWI and UHNW investors using private
+  credit and asset-based liquidity engineering to engineer long-term
+  optionality.
+date: '2026-01-07'
+author: Jonas Hyltén
+slug: >-
+  strategic-asset-allocation-for-long-term-liquidity-the-architecture-of-durable-capital
 ---
-
 # Strategic Asset Allocation for Long-Term Liquidity The pursuit of long-term liquidity is no longer an optional configuration for sophisticated capital. It has become an operational necessity, a structural discipline, and a defining characteristic that separates passive wealth holders from capital architects who understand the mechanics behind institutional-grade allocation.
 
 At Roials Capital, liquidity is not treated as a momentary buffer.
@@ -88,14 +93,4 @@ They accelerate during opportunity.
 
 If your objective is durable, long-term liquidity supported by disciplined collateral structures, Roials Capital provides the architecture.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

@@ -1,11 +1,13 @@
 ---
-title: "The Calculus of Institutional Risk in Private Credit for Fund-III Expansion"
-description: "A principal-level dissection of risk calculus, capital formation, and structural engineering across private credit mandates, focused on Fund-III scale institutional commitments and acquisition pipelines."
-date: "2025-08-10"
-author: "Roials Capital"
-slug: "calculus-of-risk-institutional-private-credit"
+title: The Calculus of Institutional Risk in Private Credit for Fund-III Expansion
+description: >-
+  A principal-level dissection of risk calculus, capital formation, and
+  structural engineering across private credit mandates, focused on Fund-III
+  scale institutional commitments and acquisition pipelines.
+date: '2025-08-10'
+author: Roials Capital
+slug: calculus-of-risk-institutional-private-credit
 ---
-
 Institutional private credit is no longer a yield product.
 
 It is a jurisdiction.
@@ -582,14 +584,4 @@ This is the architecture.
 
 Request a confidential capital audit to initiate allocation sizing.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

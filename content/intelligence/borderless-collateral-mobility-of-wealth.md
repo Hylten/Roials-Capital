@@ -1,11 +1,13 @@
 ---
-title: "Borderless Collateral and the Institutional Mobility of Wealth"
-description: "Institutional brief on cross‑jurisdictional collateral mobility, sovereign‑grade capital structuring, and Fund-III buyout acceleration under Roials Capital mandates."
-date: "2025-11-12"
-author: "Roials Capital"
-slug: "borderless-collateral-mobility-of-wealth"
+title: Borderless Collateral and the Institutional Mobility of Wealth
+description: >-
+  Institutional brief on cross‑jurisdictional collateral mobility,
+  sovereign‑grade capital structuring, and Fund-III buyout acceleration under
+  Roials Capital mandates.
+date: '2025-11-12'
+author: Roials Capital
+slug: borderless-collateral-mobility-of-wealth
 ---
-
 The contemporary M&A regime no longer behaves like a regional marketplace.
 
 It functions as an orbital system.
@@ -401,14 +403,4 @@ To proceed, request a confidential capital audit.
 Throughput expectation: 14.
 7 bps structural drift tolerance.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

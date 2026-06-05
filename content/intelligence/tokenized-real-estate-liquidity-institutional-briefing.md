@@ -1,11 +1,16 @@
 ---
-title: "The Mechanics of Tokenized Real Estate Liquidity in Institutional Capital Markets"
-description: "A clinical analysis of tokenized real estate, balance sheet optimization, liquidity engineering, and structural positioning for Fund-III buyouts and add ons. Prepared for institutional LPs, UHNW allocators, and private credit stewards."
-date: "2026-02-19"
-author: "Roials Capital (Institutional Briefing)"
-slug: "tokenized-real-estate-liquidity-institutional-briefing"
+title: >-
+  The Mechanics of Tokenized Real Estate Liquidity in Institutional Capital
+  Markets
+description: >-
+  A clinical analysis of tokenized real estate, balance sheet optimization,
+  liquidity engineering, and structural positioning for Fund-III buyouts and add
+  ons. Prepared for institutional LPs, UHNW allocators, and private credit
+  stewards.
+date: '2026-02-19'
+author: Roials Capital (Institutional Briefing)
+slug: tokenized-real-estate-liquidity-institutional-briefing
 ---
-
 The liquidity asymmetry in global real estate today is a function of settlement inefficiency, not asset impairment.
 
 The inability of conventional structures to mobilize fractionalized ownership at institutional scale has created a systemic gap between underlying property value and monetizable liquidity.
@@ -200,12 +205,3 @@ Allocators navigating this domain benefit from a confidential strategy audit to 
 
 Roials Capital acts as a structural guide, ensuring institutional alignment and regulatory synchrony across all phases of integration. [END OF BRIEFING]
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

@@ -1,11 +1,13 @@
 ---
-title: "The Architecture of Sovereign Credit Mobility"
-description: "Institutional blueprint for Fund-III capital formation, cross-jurisdictional credit mobility, and liquidity engineering across sovereign, energy, and acquisition-driven mandates."
-date: "2025-09-25"
-author: "Roials Capital"
-slug: "architecture-of-sovereign-credit-mobility"
+title: The Architecture of Sovereign Credit Mobility
+description: >-
+  Institutional blueprint for Fund-III capital formation, cross-jurisdictional
+  credit mobility, and liquidity engineering across sovereign, energy, and
+  acquisition-driven mandates.
+date: '2025-09-25'
+author: Roials Capital
+slug: architecture-of-sovereign-credit-mobility
 ---
-
 The modern capital stack is no longer static.
 
 It moves.
@@ -24,9 +26,9 @@ The shift is permanent.
 
 Mobility makes the fund.
 
-Mobility protects THE MANDAT
+Mobility protects THE MANDATE
 
-E. Mobility hardens the assets.
+. Mobility hardens the assets.
 
 Fund-III requires this posture.
 
@@ -138,9 +140,9 @@ Hardening builds posture.
 
 Posture attracts LPs.
 
-LPs expand THE MANDAT
+LPs expand THE MANDATE
 
-E. Buyouts and add-ons dominate the Fund-III map.
+. Buyouts and add-ons dominate the Fund-III map.
 
 Capital must enter clean, carry efficiently, and exit with amplified multiple.
 
@@ -370,14 +372,4 @@ End with mandate: Deploy mobility architecture across Fund-III buyouts and energ
 
 Initiate confidential capital audit.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

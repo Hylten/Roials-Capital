@@ -1,11 +1,14 @@
 ---
-title: "Principal Architecture for Fund-III Kapitalanskaffning"
-description: "Institutional analysis of capital raising systems for Fund-III structures across buyout, Asset-Based Lending, and special mandate regimes. High conviction thesis for allocators seeking durable, repeatable institutional flows."
-date: "2025-08-24"
-author: "Roials Capital"
-slug: "Fund-III-capital-raising-architecture"
+title: Principal Architecture for Fund-III Kapitalanskaffning
+description: >-
+  Institutional analysis of capital raising systems for Fund-III structures
+  across buyout, Asset-Based Lending, and special mandate regimes. High
+  conviction thesis for allocators seeking durable, repeatable institutional
+  flows.
+date: '2025-08-24'
+author: Roials Capital
+slug: Fund-III-capital-raising-architecture
 ---
-
 A structural gap defines the future of Fund-III capital formation.
 
 Most managers believe scale arrives from performance.
@@ -324,14 +327,4 @@ Anything above 10 indicates systemic failure.
 
 Request a confidential capital audit.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

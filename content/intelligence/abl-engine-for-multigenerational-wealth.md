@@ -1,11 +1,15 @@
 ---
-title: "Asset-Based Liquidity Engineering as the Structural Engine for Multi‑Generational Capital Sovereignty"
-description: "Institutional brief on Asset-Based Lending-driven liquidity architecture, Fund-III capitalization pathways, and cross-jurisdictional acquisition protocols for LP/GP allocators."
-date: "2025-11-03"
-author: "Roials Capital"
-slug: "abl-engine-for-multigenerational-wealth"
+title: >-
+  Asset-Based Liquidity Engineering as the Structural Engine for
+  Multi‑Generational Capital Sovereignty
+description: >-
+  Institutional brief on Asset-Based Lending-driven liquidity architecture,
+  Fund-III capitalization pathways, and cross-jurisdictional acquisition
+  protocols for LP/GP allocators.
+date: '2025-11-03'
+author: Roials Capital
+slug: abl-engine-for-multigenerational-wealth
 ---
-
 Asset-based Institutional Liquidity Paths operates as the structural engine behind every enduring capital dynasty.
 
 The architecture is simple in appearance and mathematically complex in operation: hard assets, leveraged liquidity, and controlled velocity.
@@ -22,9 +26,9 @@ A system, not a hope.
 
 Legacy families understood the principle before modern financial engineering gave it language. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
-* describes THE MANDAT
+* describes THE MANDATE
 
-E : A good man leaves an inheritance to his children’s children.
+ : A good man leaves an inheritance to his children’s children.
 
 Not an isolated gift.
 
@@ -337,16 +341,6 @@ THE MANDAT E
 
 is clear.
 
-Minimum target size: $5M+....
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

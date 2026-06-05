@@ -1,11 +1,14 @@
 ---
-title: "The Power of Institutional Backing in Private Credit"
-description: "A technical briefing on institutional alignment, capital stack stability, and strategic partner dynamics within the global private credit landscape, with applied relevance to Fund-III+ capital formation, liquidity engineering, and special mandate deployment."
-date: "2025-11-28"
-author: "Roials Capital (Institutional Briefing)"
-slug: "institutional-backing-private-credit"
+title: The Power of Institutional Backing in Private Credit
+description: >-
+  A technical briefing on institutional alignment, capital stack stability, and
+  strategic partner dynamics within the global private credit landscape, with
+  applied relevance to Fund-III+ capital formation, liquidity engineering, and
+  special mandate deployment.
+date: '2025-11-28'
+author: Roials Capital (Institutional Briefing)
+slug: institutional-backing-private-credit
 ---
-
 The structural gap in private credit today is not driven by a shortage of opportunities.
 
 It is driven by the withdrawal of regulated lenders at the exact moment when lower middle market and mid market borrowers require stable, patient, institutionally governed capital.
@@ -234,14 +237,4 @@ The lens includes:
 
 # 
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

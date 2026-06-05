@@ -1,11 +1,16 @@
 ---
-title: "The Institutional Architecture of Protecting Multi‑Generational Wealth Through Crypto Custody"
-description: "A high trust analysis on institutional crypto custody, liquidity engineering, private credit, and asset based Monetization Architecture for HNWI and UHNW families."
-date: "2026-01-12"
-author: "Jonas Hyltén"
-slug: "the-institutional-architecture-of-protecting-multigenerational-wealth-through-crypto-custody"
+title: >-
+  The Institutional Architecture of Protecting Multi‑Generational Wealth Through
+  Crypto Custody
+description: >-
+  A high trust analysis on institutional crypto custody, liquidity engineering,
+  private credit, and asset based Monetization Architecture for HNWI and UHNW
+  families.
+date: '2026-01-12'
+author: Jonas Hyltén
+slug: >-
+  the-institutional-architecture-of-protecting-multigenerational-wealth-through-crypto-custody
 ---
-
 # Protecting Multi Generational Wealth Through Institutional Crypto Custody The conversation surrounding digital assets has changed. What began as a frontier market has become a ledger of institutional scale.
 
 HNWI and UHNW families now treat crypto as part of a modern balance sheet, subject to the same scrutiny applied to any strategic allocation.
@@ -338,14 +343,4 @@ This is the future of multi generational wealth protection.
 
 It is engineered, not improvised.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

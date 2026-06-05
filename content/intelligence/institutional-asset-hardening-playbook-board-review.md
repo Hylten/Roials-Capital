@@ -1,11 +1,13 @@
 ---
-title: "The Institutional Asset Hardening Playbook: How to Pass a 5B Board Review"
-description: "Institutional briefing on balance sheet optimization, capital stack hardening, and cross-border capital architecture for LPs and GPs navigating Fund-III+ expansions across North America and Europe."
-date: "2025-12-18"
-author: "Roials Capital (Institutional Briefing)"
-slug: "institutional-asset-hardening-playbook-board-review"
+title: 'The Institutional Asset Hardening Playbook: How to Pass a 5B Board Review'
+description: >-
+  Institutional briefing on balance sheet optimization, capital stack hardening,
+  and cross-border capital architecture for LPs and GPs navigating Fund-III+
+  expansions across North America and Europe.
+date: '2025-12-18'
+author: Roials Capital (Institutional Briefing)
+slug: institutional-asset-hardening-playbook-board-review
 ---
-
 The capital vacuum in North America’s real asset environment is an outcome of misaligned regulatory cycles rather than a scarcity of investable structures.
 
 For institutional allocators preparing for a 5B+ governance review, the determinant factor is not sector selection but the architectural integrity of the capital stack.
@@ -178,14 +180,4 @@ Allocators and operators who understand the structural mechanics of asset harden
 
 A confidential Strategy Audit or Portfolio Calibration becomes the natural next step for institutions requiring a precise, architecture driven assessment of their position within the new regime.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

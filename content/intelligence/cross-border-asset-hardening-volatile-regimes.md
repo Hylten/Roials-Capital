@@ -1,11 +1,13 @@
 ---
-title: "Cross-Border Asset Hardening in Volatile Regimes"
-description: "Institutional briefing on cross-border asset hardening mechanics, Fund-III capital mobilisation, cash-flow durability engineering, and sovereign risk insulation."
-date: "2025-09-20"
-author: "Jonas Hyltén"
-slug: "cross-border-asset-hardening-volatile-regimes"
+title: Cross-Border Asset Hardening in Volatile Regimes
+description: >-
+  Institutional briefing on cross-border asset hardening mechanics, Fund-III
+  capital mobilisation, cash-flow durability engineering, and sovereign risk
+  insulation.
+date: '2025-09-20'
+author: Jonas Hyltén
+slug: cross-border-asset-hardening-volatile-regimes
 ---
-
 Regulatory asymmetry always creates the spread.
 
 Jurisdictions move at different speeds.
@@ -288,14 +290,4 @@ Request a confidential capital audit. [END]
 
 # 
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

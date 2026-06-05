@@ -1,11 +1,12 @@
 ---
-title: "The Mechanics of Sovereign Asset Hardening"
-description: "An institutional analysis of liquidity structuring through private credit and asset based liquidity engineering frameworks for HNWI and UHNW portfolios."
-date: "2026-03-11"
-author: "Jonas Hyltén"
-slug: "the-mechanics-of-sovereign-asset-hardening"
+title: The Mechanics of Sovereign Asset Hardening
+description: >-
+  An institutional analysis of liquidity structuring through private credit and
+  asset based liquidity engineering frameworks for HNWI and UHNW portfolios.
+date: '2026-03-11'
+author: Jonas Hyltén
+slug: the-mechanics-of-sovereign-asset-hardening
 ---
-
 # The Mechanics of Sovereign Asset Hardening Sovereign asset hardening is not a concept of mere protection. It is a structural discipline.
 
 A design philosophy.
@@ -137,14 +138,4 @@ The architecture remains invisible.
 
 Request Confidential Audit For clients requiring structural liquidity without exposure, disruption, or signaling, Roials Capital provides the institutional mechanics. 
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

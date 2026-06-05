@@ -1,11 +1,13 @@
 ---
-title: "Sovereign Crypto Liquidity Architecture for Fund-III Capital Formation"
-description: "Institutional-grade framework for sovereign-scale crypto liquidity engineering, private credit structuring, and ultra‑capital acquisition pathways for Fund‑III buyouts and cross‑jurisdictional expansions."
-date: "2025-07-17"
-author: "Jonas Roials"
-slug: "sovereign-crypto-liquidity-architecture-Fund-III"
+title: Sovereign Crypto Liquidity Architecture for Fund-III Capital Formation
+description: >-
+  Institutional-grade framework for sovereign-scale crypto liquidity
+  engineering, private credit structuring, and ultra‑capital acquisition
+  pathways for Fund‑III buyouts and cross‑jurisdictional expansions.
+date: '2025-07-17'
+author: Jonas Roials
+slug: sovereign-crypto-liquidity-architecture-Fund-III
 ---
-
 Sovereign capital behaves differently.
 
 Ultra‑capital entities move on cadence, not narratives.
@@ -34,9 +36,9 @@ Enforcement points.
 
 Institutional-grade predictability across adversarial environments.
 
-That is THE MANDAT
+That is THE MANDATE
 
-E. Inherited capital seeks expansion vectors. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
+. Inherited capital seeks expansion vectors. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
 * states: A good man leaveth an inheritance to his children's children.
 
@@ -558,14 +560,4 @@ Liquidity integrity target: 0.
 
 998 deterministic settlement ratio.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

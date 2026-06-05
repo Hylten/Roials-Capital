@@ -2,6 +2,28 @@ import React, { useState, useEffect } from 'react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 
+// Safety-net preprocessor for formatting issues
+function preprocessMarkdown(markdown: string): string {
+  let text = markdown;
+
+  // Fix broken words
+  text = text.replace(/INTRODUCTIO\n\nN/g, 'INTRODUCTION\n\n');
+  text = text.replace(/INTRODUCTIO N /g, 'INTRODUCTION ');
+  text = text.replace(/THE MANDAT\n\nE/g, 'THE MANDATE\n\n');
+  text = text.replace(/MANDAT\n\nE/g, 'MANDATE\n\n');
+  text = text.replace(/Case s\b/g, 'Cases');
+
+  // Fix fake bullet lists
+  text = text.replace(/^[•●○▪►]\s*/gm, '- ');
+
+  // Remove AI junk fragments
+  text = text.replace(/^TECHNICAL MANDATE$[\s\S]*?(?=\n##|\n---|$)/gm, '');
+  text = text.replace(/^Access is restricted to approved mandates.*$/gm, '');
+  text = text.replace(/^Minimum target size:.*\$5M\+.*$/gm, '');
+
+  return text;
+}
+
 // Browser-safe frontmatter parser (no gray-matter / no Buffer needed)
 function parseFrontmatter(raw: string) {
   const parts = raw.split(/---/);
@@ -54,7 +76,7 @@ export const IntelligenceArticle: React.FC<IntelligenceArticleProps> = ({ slug }
                 }
 
                 if (foundPost) {
-                    setContent(foundPost.body);
+                    setContent(preprocessMarkdown(foundPost.body));
                     setMeta(foundPost.meta);
 
                     const articleUrl = `https://roialscapital.com/intelligence/${slug}`;

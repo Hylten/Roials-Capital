@@ -1,11 +1,14 @@
 ---
-title: "Sovereign Wealth Management: The New Institutional Model for Private Capital"
-description: "A technical briefing on the structural transformation in sovereign wealth governance, global private capital flows, and the emerging allocation models shaping Fund-III mandates, liquidity engineering, and North American energy reindustrialization."
-date: "2025-07-25"
-author: "Roials Capital (Institutional Briefing)"
-slug: "sovereign-wealth-management-new-institutional-model-private-capital"
+title: 'Sovereign Wealth Management: The New Institutional Model for Private Capital'
+description: >-
+  A technical briefing on the structural transformation in sovereign wealth
+  governance, global private capital flows, and the emerging allocation models
+  shaping Fund-III mandates, liquidity engineering, and North American energy
+  reindustrialization.
+date: '2025-07-25'
+author: Roials Capital (Institutional Briefing)
+slug: sovereign-wealth-management-new-institutional-model-private-capital
 ---
-
 The capital vacuum in North American private markets reflects a multi-cycle regulatory drift that has constrained commercial lending capacity while accelerating the shift of long duration assets toward sovereign allocators.
 
 This is not a shortage of capital.
@@ -188,12 +191,3 @@ The objective is not to sell capital solutions.
 
 The objective is to calibrate strategic positioning within a rapidly consolidating institutional landscape. [END OF BRIEFING]
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

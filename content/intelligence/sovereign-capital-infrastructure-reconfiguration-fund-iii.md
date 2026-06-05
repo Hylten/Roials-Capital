@@ -1,11 +1,14 @@
 ---
-title: "Sovereign Capital Infrastructures: The Reconfiguration Mandate for Fund-III"
-description: "A high-density institutional analysis of sovereign capital architectures, multi‑jurisdictional alignment, and next‑generation allocation regimes driving Fund-III kapitalanskaffning, private credit expansion, and liquidity engineering mandates."
-date: "2025-06-30"
-author: "Roials Capital | Principal Architect"
-slug: "sovereign-capital-infrastructure-reconfiguration-Fund-III"
+title: 'Sovereign Capital Infrastructures: The Reconfiguration Mandate for Fund-III'
+description: >-
+  A high-density institutional analysis of sovereign capital architectures,
+  multi‑jurisdictional alignment, and next‑generation allocation regimes driving
+  Fund-III kapitalanskaffning, private credit expansion, and liquidity
+  engineering mandates.
+date: '2025-06-30'
+author: Roials Capital | Principal Architect
+slug: sovereign-capital-infrastructure-reconfiguration-Fund-III
 ---
-
 The future of sovereign capital infrastructure is no longer a projection.
 
 It is an enforcement cycle.
@@ -641,48 +644,3 @@ Not derivatives.
 Not simulations.
 
 Reality.
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
-
-## Conclusion
-
-THE RECONFIGURATION AGE The coming decades will be shaped by:
-
-- Capital sovereignty.
-
-- Hard-asset dominance.
-
-- Jurisdictional arbitrage.
-
-- Energy infrastructure.
-
-- Monetization Architecture.
-
-- Structural alignment.
-
-Fund‑III positions itself inside all six.
-
-Not near them.
-
-Inside them.
-
-Institutional LPs know the truth: sovereignty is capital.
-
-Capital is sovereignty.
-
-Fund‑III is architecture built to serve both.
-
-Minimum target size: $5M+....
-
-Request confidential capital audit to determine your deployment compatibility and sovereign alignment delta.
-
-Terminal Metric: 0.
-
-72 Structural Integrity Coefficient.
-
-Access is restricted to approved mandates.

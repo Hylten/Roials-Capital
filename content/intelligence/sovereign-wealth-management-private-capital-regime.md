@@ -1,11 +1,13 @@
 ---
-title: "Sovereign Stewardship and the New Mandate for Private Capital"
-description: "Institutional thesis on sovereign aligned private capital, Fund-III capital formation, liquidity engineering, Asset-Based Lending structures, and energy anchored acquisition frameworks for UHNWIs, LPs, and sovereign allocators"
-date: "2025-10-14"
-author: "Jonas Hyltén"
-slug: "sovereign-wealth-management-private-capital-regime"
+title: Sovereign Stewardship and the New Mandate for Private Capital
+description: >-
+  Institutional thesis on sovereign aligned private capital, Fund-III capital
+  formation, liquidity engineering, Asset-Based Lending structures, and energy
+  anchored acquisition frameworks for UHNWIs, LPs, and sovereign allocators
+date: '2025-10-14'
+author: Jonas Hyltén
+slug: sovereign-wealth-management-private-capital-regime
 ---
-
 A structural gap is widening between sovereign liquidity velocity and private capital’s operational drag.
 
 The sovereign engines accelerate.
@@ -278,14 +280,4 @@ The correct metric is recovery-to-velocity ratio: RVR 1.
 
 For sovereign-grade capital alignment, request a confidential capital audit.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

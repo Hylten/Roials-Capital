@@ -1,11 +1,14 @@
 ---
-title: "Institutional Alignment in Modern Private Credit Architecture"
-description: "An institutional briefing on the regime shift in private credit, the realignment of GP-LP objectives, and the operational mechanics guiding Fund-III capital formation, liquidity engineering, and sector-specific mandates across North America and Europe."
-date: "2025-12-27"
-author: "Roials Capital (Institutional Briefing)"
-slug: "institutional-alignment-modern-private-credit-architecture"
+title: Institutional Alignment in Modern Private Credit Architecture
+description: >-
+  An institutional briefing on the regime shift in private credit, the
+  realignment of GP-LP objectives, and the operational mechanics guiding
+  Fund-III capital formation, liquidity engineering, and sector-specific
+  mandates across North America and Europe.
+date: '2025-12-27'
+author: Roials Capital (Institutional Briefing)
+slug: institutional-alignment-modern-private-credit-architecture
 ---
-
 The structural gap between capital availability and operational demand in modern private credit is not a product of cyclical contraction.
 
 It is a consequence of institutional recalibration after fifteen years of mispriced risk, compressed covenants, and the withdrawal of conventional lenders under heightened regulatory intensity.
@@ -152,9 +155,9 @@ The partnership model functions on four operational axes:
 
 1.
 
-Kapitalanskaffning for Fund-III and Successor Vehicles Eighty percent of THE MANDAT
+Kapitalanskaffning for Fund-III and Successor Vehicles Eighty percent of THE MANDATE
 
-E centers on capital formation for vehicles entering their Fund-III trajectory or scaling into higher velocity buyout and add on cycles.
+ centers on capital formation for vehicles entering their Fund-III trajectory or scaling into higher velocity buyout and add on cycles.
 
 The institutional requirement for Fund-III participation is clarity on:
 
@@ -186,9 +189,9 @@ The objective is to help institutions identify managers who deploy capital in a 
 
 3.
 
-Special Mandates across Energy and MiFID II Environments Ten percent of THE MANDAT
+Special Mandates across Energy and MiFID II Environments Ten percent of THE MANDATE
 
-E relates to specialized opportunities, including:
+ relates to specialized opportunities, including:
 
 - North American heavy oil capital mandates between 50M and 250M USD through NAEO.
 
@@ -288,14 +291,4 @@ The institutional progression from preliminary review to calibrated engagement o
 
 This process allows LPs to evaluate governance structures, credit mechanics, and operational discipline through a controlled and private assessment.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

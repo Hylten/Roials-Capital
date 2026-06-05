@@ -1,11 +1,15 @@
 ---
-title: "The Structural Role of ABL in Modern Diversified Wealth Portfolios"
-description: "Institutional briefing on asset based lending as a stabilizing function in multi regime portfolios, with emphasis on balance sheet optimization, cross collateral mechanics, and the role of ABL as a liquidity engineering tool supporting Fund-III buyout velocity and special mandates across energy and EU MiFID II platforms."
-date: "2025-07-09"
-author: "Roials Capital (Institutional Briefing)"
-slug: "structural-role-of-abl-in-modern-diversified-wealth-portfolios"
+title: The Structural Role of ABL in Modern Diversified Wealth Portfolios
+description: >-
+  Institutional briefing on asset based lending as a stabilizing function in
+  multi regime portfolios, with emphasis on balance sheet optimization, cross
+  collateral mechanics, and the role of ABL as a liquidity engineering tool
+  supporting Fund-III buyout velocity and special mandates across energy and EU
+  MiFID II platforms.
+date: '2025-07-09'
+author: Roials Capital (Institutional Briefing)
+slug: structural-role-of-abl-in-modern-diversified-wealth-portfolios
 ---
-
 The capital vacuum in North American asset markets is not a function of scarcity.
 
 It is the consequence of regulatory drift, institutional deleveraging cycles, and the withdrawal of traditional lenders from real economy credit.
@@ -228,12 +232,3 @@ This audit evaluates:
 
 It is a technical alignment procedure designed to calibrate the allocator's architecture to global multi regime conditions. [END OF INSTITUTIONAL BRIEFING]
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

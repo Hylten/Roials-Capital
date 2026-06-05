@@ -1,11 +1,13 @@
 ---
-title: "The Strategic Role of Yield in True Asset Hardening"
-description: "Institutional analysis on the function of stabilized yield as a primary determinant of asset hardening across buyouts, private credit, and North American energy operations."
-date: "2025-09-21"
-author: "Roials Capital (Institutional Briefing)"
-slug: "strategic-role-of-yield-in-true-asset-hardening"
+title: The Strategic Role of Yield in True Asset Hardening
+description: >-
+  Institutional analysis on the function of stabilized yield as a primary
+  determinant of asset hardening across buyouts, private credit, and North
+  American energy operations.
+date: '2025-09-21'
+author: Roials Capital (Institutional Briefing)
+slug: strategic-role-of-yield-in-true-asset-hardening
 ---
-
 The capital vacuum in North American energy and lower mid market private credit is a structural consequence of regulatory drift and lender retrenchment, not an erosion of asset quality.
 
 Within this environment, stabilized yield has shifted from being a performance metric to functioning as a balance sheet instrument that governs the degree of asset hardening available to institutional allocators.
@@ -326,12 +328,3 @@ Roials Capital provides this navigational function.
 
 A confidential strategy audit or portfolio calibration session allows institutional LPs, GPs, and family offices to align capital deployment with durable yield architectures and structurally hardened asset profiles.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

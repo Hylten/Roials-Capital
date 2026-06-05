@@ -1,11 +1,13 @@
 ---
-title: "Capital Authority as a Silent Multiplier"
-description: "Institutional thesis on balance sheet efficiency, collateral orchestration, LTV optimization curves, and Fund-III capital formation mechanics for UHNWIs and private credit LPs."
-date: "2025-07-13"
-author: "Jonas Hyltén"
-slug: "capital-efficiency-silent-authority"
+title: Capital Authority as a Silent Multiplier
+description: >-
+  Institutional thesis on balance sheet efficiency, collateral orchestration,
+  LTV optimization curves, and Fund-III capital formation mechanics for UHNWIs
+  and private credit LPs.
+date: '2025-07-13'
+author: Jonas Hyltén
+slug: capital-efficiency-silent-authority
 ---
-
 Structural gaps do not announce themselves.
 
 They sit beneath the balance sheet, quiet, unnoticed, distorting capability without ever making a sound.
@@ -176,9 +178,9 @@ The path to capital authority requires a three-part architecture.
 
 1.
 
-Capital Raising for Fund-III Eighty percent of THE MANDAT
+Capital Raising for Fund-III Eighty percent of THE MANDATE
 
-E focuses on bringing fresh institutional capital into the acquisition engine.
+ focuses on bringing fresh institutional capital into the acquisition engine.
 
 LPs reward predictability, but they invest in conviction.
 
@@ -194,9 +196,9 @@ They invest in the refusal to waste them.
 
 2.
 
-Asset-Based Lending Asset-Backed Frameworks Ten percent of THE MANDAT
+Asset-Based Lending Asset-Backed Frameworks Ten percent of THE MANDATE
 
-E is asset backed liquidity structures that do not disrupt control.
+ is asset backed liquidity structures that do not disrupt control.
 
 Asset-Based Lending should be treated as a liquidity membrane.
 
@@ -292,14 +294,4 @@ is clear.
 
 Conduct the confidential capital audit.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

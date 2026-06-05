@@ -1,11 +1,14 @@
 ---
-title: "Capital Efficiency for the Modern Balance Sheet: Silent Authority in Core Holdings"
-description: "Institutional blueprint for capital efficiency, balance‑sheet hardening, and capital raising strategy for Fund-III and associated mandates."
-date: "2026-01-10"
-author: "Roials Capital | Principal"
-slug: "capital-efficiency-modern-balance-sheet-silent-authority"
+title: >-
+  Capital Efficiency for the Modern Balance Sheet: Silent Authority in Core
+  Holdings
+description: >-
+  Institutional blueprint for capital efficiency, balance‑sheet hardening, and
+  capital raising strategy for Fund-III and associated mandates.
+date: '2026-01-10'
+author: Roials Capital | Principal
+slug: capital-efficiency-modern-balance-sheet-silent-authority
 ---
-
 principal authority begins where visible leverage ends.
 
 Modern balance sheets do not respond to scale alone.
@@ -684,14 +687,4 @@ Fund-III must embody that principle.
 
 - Mandate: Initiate confidential capital audit across all Fund-III holdings and targets.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

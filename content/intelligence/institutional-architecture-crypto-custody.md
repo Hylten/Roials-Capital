@@ -1,11 +1,15 @@
 ---
-title: "The Institutional Architecture of Protecting Multi Generational Wealth Through Crypto Custody"
-description: "Institutional briefing on safeguarding long horizon wealth through cryptographic asset custody frameworks, regulatory alignment, operational segregation, and allocator grade security architecture."
-date: "2025-08-21"
-author: "Roials Capital (Institutional Briefing)"
-slug: "institutional-architecture-crypto-custody"
+title: >-
+  The Institutional Architecture of Protecting Multi Generational Wealth Through
+  Crypto Custody
+description: >-
+  Institutional briefing on safeguarding long horizon wealth through
+  cryptographic asset custody frameworks, regulatory alignment, operational
+  segregation, and allocator grade security architecture.
+date: '2025-08-21'
+author: Roials Capital (Institutional Briefing)
+slug: institutional-architecture-crypto-custody
 ---
-
 The capital vacuum within decentralized asset custody is a consequence of regulatory lag and fragmented operational standards rather than volatility in the underlying cryptographic networks.
 
 Institutional allocators operating across North America, Europe, and the Gulf are now confronting a structural requirement.
@@ -202,14 +206,4 @@ The objective is strategic clarity rather than asset solicitation. [END OF INSTI
 
 # 
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

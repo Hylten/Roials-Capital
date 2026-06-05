@@ -1,11 +1,13 @@
 ---
-title: "Wealth Mobility and Borderless Crypto Collateral for Institutional-Grade M&A"
-description: "Institutional analysis of liquidity engineering using private credit and asset based Institutional Liquidity Paths structures for global M&A. Includes crypto collateralization pathways for HNWI and UHNW liquidity events."
-date: "2025-08-19"
-author: "Jonas Hyltén"
-slug: "wealth-mobility-and-borderless-crypto-collateral-for-institutional-grade-ma"
+title: Wealth Mobility and Borderless Crypto Collateral for Institutional-Grade M&A
+description: >-
+  Institutional analysis of liquidity engineering using private credit and asset
+  based Institutional Liquidity Paths structures for global M&A. Includes crypto
+  collateralization pathways for HNWI and UHNW liquidity events.
+date: '2025-08-19'
+author: Jonas Hyltén
+slug: wealth-mobility-and-borderless-crypto-collateral-for-institutional-grade-ma
 ---
-
 # Wealth Mobility: Using Borderless Crypto Collateral for Traditional M&A Wealth behaves differently when it is engineered rather than stored. Institutional families understand this.
 
 Cross-border principals understand this.
@@ -98,14 +100,4 @@ Institutionally.
 
 Request confidential audit 
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

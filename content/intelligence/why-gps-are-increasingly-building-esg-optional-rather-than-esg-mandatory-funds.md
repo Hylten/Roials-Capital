@@ -1,11 +1,14 @@
 ---
-title: "Why GPs Are Increasingly Launching ESG-Optional Rather Than ESG-Mandatory Funds"
-description: "General Partners shifting away from ESG-mandatory fund structures toward ESG-optional with structured reporting frameworks."
-date: "2026-02-02"
-author: "Roials Capital"
-slug: "why-gps-launching-esg-optional-funds"
+title: >-
+  Why GPs Are Increasingly Launching ESG-Optional Rather Than ESG-Mandatory
+  Funds
+description: >-
+  General Partners shifting away from ESG-mandatory fund structures toward
+  ESG-optional with structured reporting frameworks.
+date: '2026-02-02'
+author: Roials Capital
+slug: why-gps-launching-esg-optional-funds
 ---
-
 # Why GPs Are Increasingly Launching ESG‑Optional Rather Than ESG‑Mandatory Funds General Partners across US, EU, and GCC markets are shifting away from ESG‑mandatory fund structures for three primary reasons:
 
 1. **LP Fragmentation
@@ -14,12 +17,11 @@ slug: "why-gps-launching-esg-optional-funds"
 
 * By 2024,2026, LPs no longer form a single ESG‑aligned bloc.
 
-• North American pensions and endowments want “ESG integration but not ESG enforcement.”
-
-• European sovereign funds may prefer Article 8/9, but even many of them now accept Article
+- North American pensions and endowments want “ESG integration but not ESG enforcement.”
+- European sovereign funds may prefer Article 8/9, but even many of them now accept Article
 6 vehicles for certain sectors.
 
-• APAC and Middle Eastern pools prioritize returns, energy security, and industrial policy.
+- APAC and Middle Eastern pools prioritize returns, energy security, and industrial policy.
 
 A mandatory ESG fund automatically excludes several categories of allocators.
 
@@ -29,11 +31,9 @@ A mandatory ESG fund automatically excludes several categories of allocators.
 
 * ESG definitions are drifting, not converging.
 
-• EU taxonomy, SFDR, and CSRD are evolving at different speeds.
-
-• US regulatory climate is inconsistent among states and federal bodies.
-
-• “Greenwashing litigation risk” has become a real price driver.
+- EU taxonomy, SFDR, and CSRD are evolving at different speeds.
+- US regulatory climate is inconsistent among states and federal bodies.
+- “Greenwashing litigation risk” has become a real price driver.
 
 A mandatory ESG fund imposes a regulatory regime that may become more expensive and less predictable over the fund’s life.
 
@@ -43,11 +43,9 @@ A mandatory ESG fund imposes a regulatory regime that may become more expensive 
 
 * Mandatory ESG screens restrict the ability to pursue:
 
-• industrial turnarounds, • energy transition bridge assets,
-
-• brown‑to‑green upgrades, or
-
-• non‑compliant add‑ons that can be remediated.
+- industrial turnarounds, • energy transition bridge assets,
+- brown‑to‑green upgrades, or
+- non‑compliant add‑ons that can be remediated.
 
 Optional frameworks allow the GP to execute operational value creation without disqualifying deals prematurely.
 
@@ -195,12 +193,3 @@ Whether you want references to **Fund-III**, **private credit**, **energy mandat
 
 I can draft the audit immediately.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

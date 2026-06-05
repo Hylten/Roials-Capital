@@ -1,11 +1,16 @@
 ---
-title: "The Institutional Playbook for Capital Preservation in a Fragmented Capital Regime"
-description: "A clinical analysis for institutional allocators on capital preservation architecture across private markets, with emphasis on Fund-III buyout sequencing, Liquidity Engineering, and North American energy optionality through NAEO."
-date: "2025-12-10"
-author: "Roials Capital (Institutional Briefing)"
-slug: "institutional-playbook-capital-preservation"
+title: >-
+  The Institutional Playbook for Capital Preservation in a Fragmented Capital
+  Regime
+description: >-
+  A clinical analysis for institutional allocators on capital preservation
+  architecture across private markets, with emphasis on Fund-III buyout
+  sequencing, Liquidity Engineering, and North American energy optionality
+  through NAEO.
+date: '2025-12-10'
+author: Roials Capital (Institutional Briefing)
+slug: institutional-playbook-capital-preservation
 ---
-
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion.
 
 The allocator who interprets the current cycle through the lens of structural scarcity, rather than headline volatility, gains access to the only form of defensible capital preservation left in a post-2020 monetary environment: assets with predictable decline curves, hard collateral value, and countercyclical demand elasticity.
@@ -254,14 +259,4 @@ It is calibration of allocator frameworks to protect capital across dislocated m
 
 Allocators seeking confidential structural alignment review may initiate a Portfolio Calibration or Strategy Audit to evaluate how their current exposures align with the capital preservation architecture outlined in this briefing.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

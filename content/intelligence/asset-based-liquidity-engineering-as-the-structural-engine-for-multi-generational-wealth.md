@@ -1,11 +1,16 @@
 ---
-title: "Asset Based liquidity engineering as the Structural Engine for Multi Generational Wealth"
-description: "Institutional level asset based Asset-Backed Frameworks insights for HNWI and UHNW investors seeking liquidity, stability, and multi generational capital architecture."
-date: "2025-11-21"
-author: "Jonas Hyltén"
-slug: "asset-based-liquidity-engineering-as-the-structural-engine-for-multi-generational-wealth"
+title: >-
+  Asset Based liquidity engineering as the Structural Engine for Multi
+  Generational Wealth
+description: >-
+  Institutional level asset based Asset-Backed Frameworks insights for HNWI and
+  UHNW investors seeking liquidity, stability, and multi generational capital
+  architecture.
+date: '2025-11-21'
+author: Jonas Hyltén
+slug: >-
+  asset-based-liquidity-engineering-as-the-structural-engine-for-multi-generational-wealth
 ---
-
 # Asset Based Strategic Collateralization as the Structural Engine for Multi Generational Wealth Multi generational wealth is not created through accumulation alone. It is created through controlled liquidity.
 
 It is preserved through structural intelligence.
@@ -293,38 +298,3 @@ Families who maintain asset based credit lines have the ability to:
 Liquidity without visibility is the core of principal authority.
 
 Roials Capital is built for that environment.
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
-
-## Conclusion
-
-Asset based Capital Structuring is not a tactic.
-
-It is an architectural discipline.
-
-It allows wealth to move without being dismantled.
-
-It preserves generational control.
-
-It maintains sovereignty over capital.
-
-For HNWI and UHNW investors, this structure is not optional.
-
-It is essential.
-
-Roials Capital provides the institutional mechanics that make this possible.
-
-Our Strategic Collateralization is private.
-
-Our thresholds are exact.
-
-Our authority is silent.
-
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.

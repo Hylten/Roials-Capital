@@ -1,11 +1,16 @@
 ---
-title: "Structural Alignment in Multi Jurisdictional Assets for Fund-III Scale Buyouts and Institutional Liquidity Engineering"
-description: "An institutional briefing on cross-jurisdictional structural alignment, capital regime fragmentation, operational arbitrage in North American energy, and Fund-III optimization for UHNWIs, Family Offices, and Institutional LPs navigating multi regime asset systems."
-date: "2025-06-26"
-author: "Roials Capital (Institutional Briefing)"
-slug: "structural-alignment-multi-jurisdictional-assets-Fund-III"
+title: >-
+  Structural Alignment in Multi Jurisdictional Assets for Fund-III Scale Buyouts
+  and Institutional Liquidity Engineering
+description: >-
+  An institutional briefing on cross-jurisdictional structural alignment,
+  capital regime fragmentation, operational arbitrage in North American energy,
+  and Fund-III optimization for UHNWIs, Family Offices, and Institutional LPs
+  navigating multi regime asset systems.
+date: '2025-06-26'
+author: Roials Capital (Institutional Briefing)
+slug: structural-alignment-multi-jurisdictional-assets-Fund-III
 ---
-
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion.
 
 This vacuum has created an institutional-scale mispricing that becomes more pronounced when mapped across multiple legal jurisdictions and collateral regimes.
@@ -196,12 +201,3 @@ This process is a technical review, not a solicitation.
 
 The objective is strategic clarity: the alignment of jurisdiction, collateral, operator, and institutional mandate. [END OF BRIEFING]
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

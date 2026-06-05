@@ -1,11 +1,15 @@
 ---
-title: "Institutional Standards in Asset-Based liquidity engineering for the Private Capital Elite"
-description: "Explore the institutional frameworks shaping modern asset-based Asset-Backed Frameworks and private credit liquidity for HNWI and UHNW portfolios."
-date: "2025-09-22"
-author: "Jonas Hyltén"
-slug: "institutional-standards-in-asset-based-liquidity-engineering-for-the-private-capital-elite"
+title: >-
+  Institutional Standards in Asset-Based liquidity engineering for the Private
+  Capital Elite
+description: >-
+  Explore the institutional frameworks shaping modern asset-based Asset-Backed
+  Frameworks and private credit liquidity for HNWI and UHNW portfolios.
+date: '2025-09-22'
+author: Jonas Hyltén
+slug: >-
+  institutional-standards-in-asset-based-liquidity-engineering-for-the-private-capital-elite
 ---
-
 # Institutional Standards in Asset-Based Capital Structuring Institutional environments do not tolerate ambiguity. They operate through structure.
 
 They reward precision.
@@ -318,14 +322,4 @@ This is the architecture that governs elite capital.
 
 Request Confidential Audit To align your assets with institutional-grade liquidity, request a confidential audit. 
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

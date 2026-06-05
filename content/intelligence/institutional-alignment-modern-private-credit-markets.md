@@ -1,11 +1,15 @@
 ---
-title: "Institutional Alignment in Modern Private Credit Markets"
-description: "Technical memorandum on the structural evolution of private credit markets, alignment mechanics for institutional allocators, and the role of strategic partners in navigating Fund-III capital formation, Asset-Based Lending liquidity engineering, and special mandates including North American energy acquisition corridors."
-date: "2025-09-17"
-author: "Roials Capital (Institutional Briefing)"
-slug: "institutional-alignment-modern-private-credit-markets"
+title: Institutional Alignment in Modern Private Credit Markets
+description: >-
+  Technical memorandum on the structural evolution of private credit markets,
+  alignment mechanics for institutional allocators, and the role of strategic
+  partners in navigating Fund-III capital formation, Asset-Based Lending
+  liquidity engineering, and special mandates including North American energy
+  acquisition corridors.
+date: '2025-09-17'
+author: Roials Capital (Institutional Briefing)
+slug: institutional-alignment-modern-private-credit-markets
 ---
-
 The capital vacuum in North American and European private credit markets is a consequence of structural regulatory drift, not a shortage of institutional capital.
 
 The result is a regime where liquidity has become bifurcated, price discovery has become asymmetric, and the most resilient credit opportunities are migrating toward sponsors capable of operational precision, underwriting discipline, and cross-cycle cash flow control.
@@ -192,14 +196,4 @@ These are designed to clarify structural realities, align capital flows with spo
 
 # 
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

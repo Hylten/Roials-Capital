@@ -1,11 +1,15 @@
 ---
-title: "Principal Memo: The Quiet Expansion of Non‑Dilutive Capital in the Lower‑Mid Market"
-description: "Institutional brief on non‑dilutive capital flows supporting Fund‑III buyouts, add‑ons, and multi‑jurisdictional credit architecture across PE‑owned industrials."
-date: "2025-08-08"
-author: "Roials Capital"
-slug: "non-dilutive-capital-lmm-boom"
+title: >-
+  Principal Memo: The Quiet Expansion of Non‑Dilutive Capital in the Lower‑Mid
+  Market
+description: >-
+  Institutional brief on non‑dilutive capital flows supporting Fund‑III buyouts,
+  add‑ons, and multi‑jurisdictional credit architecture across PE‑owned
+  industrials.
+date: '2025-08-08'
+author: Roials Capital
+slug: non-dilutive-capital-lmm-boom
 ---
-
 Non‑dilutive capital moves quiet.
 
 Moves fast.
@@ -106,12 +110,3 @@ Sponsors who ignore it lose the next decade.
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

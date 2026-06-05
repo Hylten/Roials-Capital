@@ -1,11 +1,10 @@
 ---
-title: "Institutional Grade Infrastructure For Global Capi"
-description: "Institutional Grade Infrastructure For Global Capi"
-date: "2025-08-29"
-author: "Jonas Hyltén"
-slug: "institutional-grade-infrastructure-for-global-capi"
+title: Institutional Grade Infrastructure For Global Capi
+description: Institutional Grade Infrastructure For Global Capi
+date: '2025-08-29'
+author: Jonas Hyltén
+slug: institutional-grade-infrastructure-for-global-capi
 ---
-
 # Institutional-Grade Infrastructure for Global Capital Markets The modern capital arena rewards only one posture. Structural readiness.
 
 Not sentiment.
@@ -460,32 +459,3 @@ It is getting clearer.
 Those with infrastructure will inherit scale.
 
 Those without will exit the domain.
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
-
-## Conclusion
-
-Institutional grade infrastructure is not a luxury.
-
-It is the minimum viable architecture for modern capital deployment.
-
-The Principal understands this.
-
-The steward lives it.
-
-The allocator rewards it.
-
-Roials Capital exists to architect this readiness with precision.
-
-No drift.
-
-No noise.
-
-Only structure.
-
-...

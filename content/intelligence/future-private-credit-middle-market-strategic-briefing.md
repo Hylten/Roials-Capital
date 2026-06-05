@@ -1,11 +1,16 @@
 ---
-title: "The Future of Private Credit: Institutional Pathways, Middle Market Demand, and the Reallocation Era"
-description: "Institutional briefing on the structural evolution of private credit, middle market financing gaps, and the capital reallocation cycle shaping Fund-III buyout execution, Asset-Based Lending liquidity engineering, and mandate-specific energy allocations through NAEOC."
-date: "2025-12-26"
-author: "Roials Capital (Institutional Briefing)"
-slug: "future-private-credit-middle-market-strategic-briefing"
+title: >-
+  The Future of Private Credit: Institutional Pathways, Middle Market Demand,
+  and the Reallocation Era
+description: >-
+  Institutional briefing on the structural evolution of private credit, middle
+  market financing gaps, and the capital reallocation cycle shaping Fund-III
+  buyout execution, Asset-Based Lending liquidity engineering, and
+  mandate-specific energy allocations through NAEOC.
+date: '2025-12-26'
+author: Roials Capital (Institutional Briefing)
+slug: future-private-credit-middle-market-strategic-briefing
 ---
-
 The capital vacuum in the North American middle market is not a function of declining creditworthiness.
 
 It is the downstream result of regulatory recalibration, banking consolidation, and balance sheet compression across traditional lenders.
@@ -288,14 +293,4 @@ The objective is alignment.
 
 The outcome is clarity across capital structures and long term portfolio design.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

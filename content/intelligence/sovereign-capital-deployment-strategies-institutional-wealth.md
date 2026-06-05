@@ -1,11 +1,14 @@
 ---
-title: "Sovereign Capital Deployment Strategies for Institutional‑Grade Wealth"
-description: "Institutional memorandum outlining regime-shift dynamics in global capital markets, North American energy arbitrage, and sovereign-aligned capital deployment structures across buyouts, liquidity engineering, and special mandates."
-date: "2026-01-01"
-author: "Roials Capital (Institutional Briefing)"
-slug: "sovereign-capital-deployment-strategies-institutional-wealth"
+title: Sovereign Capital Deployment Strategies for Institutional‑Grade Wealth
+description: >-
+  Institutional memorandum outlining regime-shift dynamics in global capital
+  markets, North American energy arbitrage, and sovereign-aligned capital
+  deployment structures across buyouts, liquidity engineering, and special
+  mandates.
+date: '2026-01-01'
+author: Roials Capital (Institutional Briefing)
+slug: sovereign-capital-deployment-strategies-institutional-wealth
 ---
-
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion.
 
 This vacuum is reshaping the institutional architecture of sovereign-scale capital deployment.
@@ -288,12 +291,3 @@ Allocators operating at sovereign scale require clarity, precision, and technica
 
 The current regime shift in energy, private markets, and liquidity engineering favors those with the discipline to interpret the underlying mechanics.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

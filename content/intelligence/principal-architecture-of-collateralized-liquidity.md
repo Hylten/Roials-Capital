@@ -1,11 +1,13 @@
 ---
-title: "The Principal Architecture of Collateralized Liquidity"
-description: "A private-capital briefing on the structural mechanics of collateralized liquidity, private credit intelligence, and Asset-Based Lending thresholds for institutional execution."
-date: "2025-07-01"
-author: "Roials Capital"
-slug: "principal-architecture-of-collateralized-liquidity"
+title: The Principal Architecture of Collateralized Liquidity
+description: >-
+  A private-capital briefing on the structural mechanics of collateralized
+  liquidity, private credit intelligence, and Asset-Based Lending thresholds for
+  institutional execution.
+date: '2025-07-01'
+author: Roials Capital
+slug: principal-architecture-of-collateralized-liquidity
 ---
-
 The sovereign machinery begins with a simple assertion: capital obeys structure, not sentiment.
 
 Markets may oscillate.
@@ -354,12 +356,3 @@ Close the briefing.
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

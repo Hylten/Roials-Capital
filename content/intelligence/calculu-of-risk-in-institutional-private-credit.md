@@ -1,11 +1,13 @@
 ---
-title: "The Calculus Of Risk In Institutional Private Credit"
-description: "An institutional briefing on risk stratification, structural credit mechanics, and capital formation dynamics shaping Fund-III+ buyouts, liquidity engineering mandates, and North American energy special situations."
-date: "2026-02-15"
-author: "Roials Capital (Institutional Briefing)"
-slug: "calculu-of-risk-in-institutional-private-credit"
+title: The Calculus Of Risk In Institutional Private Credit
+description: >-
+  An institutional briefing on risk stratification, structural credit mechanics,
+  and capital formation dynamics shaping Fund-III+ buyouts, liquidity
+  engineering mandates, and North American energy special situations.
+date: '2026-02-15'
+author: Roials Capital (Institutional Briefing)
+slug: calculu-of-risk-in-institutional-private-credit
 ---
-
 The capital vacuum in North American private credit is the predictable outcome of regulatory fragmentation and institutional retrenchment rather than a deterioration in asset quality.
 
 The shift has triggered a reordering of risk, where the relative safety of an exposure is no longer defined by conventional ratings logic but by structural positioning, collateral physics, and the discipline of cash flow predictability.
@@ -164,9 +166,9 @@ Roials Capital provides:
 
 2.
 
-Institutional Liquidity Paths (Asset-Based Lending) Approximately ten percent of THE MANDAT
+Institutional Liquidity Paths (Asset-Based Lending) Approximately ten percent of THE MANDATE
 
-E focuses on asset based lending frameworks designed to improve working capital velocity.
+ focuses on asset based lending frameworks designed to improve working capital velocity.
 
 These structures support:
 
@@ -244,14 +246,4 @@ The objective is to ensure that institutions deploy capital with clarity, techni
 
 # 
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

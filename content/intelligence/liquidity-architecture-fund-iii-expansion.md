@@ -1,11 +1,13 @@
 ---
-title: "Liquidity Architecture for Fund-III Expansion"
-description: "Institutional brief on capital-raising mechanics, liquidity engineering, and structural optimization for Fund-III scale-up across buyouts, add-ons, and private credit frameworks."
-date: "2025-09-28"
-author: "Roials Capital"
-slug: "liquidity-architecture-Fund-III-expansion"
+title: Liquidity Architecture for Fund-III Expansion
+description: >-
+  Institutional brief on capital-raising mechanics, liquidity engineering, and
+  structural optimization for Fund-III scale-up across buyouts, add-ons, and
+  private credit frameworks.
+date: '2025-09-28'
+author: Roials Capital
+slug: liquidity-architecture-Fund-III-expansion
 ---
-
 Liquidity architecture determines survival long before deal velocity does.
 
 Fund-III demands a posture, not a pitch.
@@ -380,18 +382,8 @@ Capital will respond.
 
 Capital always responds to structure.
 
-Minimum target size: $5M+....
 
 Request confidential capital audit.
 
 End metric: Asset-Based Lending-readiness index 0.92.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

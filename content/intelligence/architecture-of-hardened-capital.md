@@ -1,11 +1,13 @@
 ---
-title: "The Architecture of Hardened Capital for Fund‑III Mandates"
-description: "A principal-level institutional brief on hardened capital engineering, multi‑jurisdictional structuring, and sovereign-grade capitalization pathways for Fund‑III buyouts, add‑ons, and special mandates."
-date: "2025-08-08"
-author: "Roials Capital"
-slug: "architecture-of-hardened-capital"
+title: The Architecture of Hardened Capital for Fund‑III Mandates
+description: >-
+  A principal-level institutional brief on hardened capital engineering,
+  multi‑jurisdictional structuring, and sovereign-grade capitalization pathways
+  for Fund‑III buyouts, add‑ons, and special mandates.
+date: '2025-08-08'
+author: Roials Capital
+slug: architecture-of-hardened-capital
 ---
-
 Hardened capital is not a metaphor.
 
 It is an engineered state.
@@ -516,7 +518,6 @@ Capital hardened is power realized.
 
 Capital unhardened is power imagined.
 
-Minimum target size: $5M+....
 
 Request confidential capital audit.
 
@@ -524,12 +525,3 @@ Mandate: 1.
 
 00 institutional solvency ratio (target).
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

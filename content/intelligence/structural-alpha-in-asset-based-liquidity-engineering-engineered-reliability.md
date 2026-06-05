@@ -1,14 +1,16 @@
 ---
-title: "Structural Alpha in Asset Based liquidity engineering: Engineered Reliability"
-description: "How Roials Capital generates surplus returns through precise structural design and engineered constraints in Asset-Based Lending."
-date: "2025-07-01"
-author: "Jonas Hyltén"
-slug: "structural-alpha-in-asset-based-liquidity-engineering-engineered-reliability"
+title: 'Structural Alpha in Asset Based liquidity engineering: Engineered Reliability'
+description: >-
+  How Roials Capital generates surplus returns through precise structural design
+  and engineered constraints in Asset-Based Lending.
+date: '2025-07-01'
+author: Jonas Hyltén
+slug: structural-alpha-in-asset-based-liquidity-engineering-engineered-reliability
 ---
+# Structural Alpha in Asset Based Capital Structuring Roials Capital Research Division
 
-# Structural Alpha in Asset Based Capital Structuring Roials Capital Research Division INTRODUCTIO
-
-N Institutional credit markets evolve in cycles, yet the core mechanics of secured Institutional Liquidity Paths remain constant.
+INTRODUCTION
+ Institutional credit markets evolve in cycles, yet the core mechanics of secured Institutional Liquidity Paths remain constant.
 
 Asset Based Strategic Collateralization sits at the intersection of collateral integrity, liquidity behaviour, and credit discipline.
 
@@ -140,7 +142,7 @@ Control of liquidation pathways Facilities built with strong geometry transition
 
 Every
 
-### Step I: s discretely mapped. Every outcome is probabilistic rather than speculative.
+### Step I is discretely mapped. Every outcome is probabilistic rather than speculative.
 
 This eliminates chaos during distress.
 
@@ -231,28 +233,3 @@ Our frameworks prioritize:
 - Risk compression mechanics These priorities drive resilience.
 
 Resilience is the source of confidence for institutional partners and borrowers alike.
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
-
-## Conclusion
-
-Structural Alpha in Asset-Based Lending is not an abstraction.
-
-It is the measurable premium created when facility architecture governs behaviour, liquidity, and enforcement with surgical clarity.
-
-It is the outcome of engineered asymmetry.
-
-It is the reward for structural discipline.
-
-It is earned, not assumed.
-
-Request confidential audit 
-
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.

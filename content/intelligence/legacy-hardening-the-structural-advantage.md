@@ -1,11 +1,12 @@
 ---
-title: "Legacy Hardening: The Structural Advantage"
-description: "An institutional exploration of liquidity architecture through private credit and asset based liquidity engineering for HNWI and UHNW portfolios."
-date: "2025-11-27"
-author: "Jonas Hyltén"
-slug: "legacy-hardening-the-structural-advantage"
+title: 'Legacy Hardening: The Structural Advantage'
+description: >-
+  An institutional exploration of liquidity architecture through private credit
+  and asset based liquidity engineering for HNWI and UHNW portfolios.
+date: '2025-11-27'
+author: Jonas Hyltén
+slug: legacy-hardening-the-structural-advantage
 ---
-
 # Legacy Hardening: The Structural Advantage Legacy is not a passive artifact. It is a structure.
 
 It demands reinforcement, recalibration, and a disciplined understanding of liquidity architecture.
@@ -64,14 +65,4 @@ Roials Capital builds that future today.
 
 Request confidential audit 
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

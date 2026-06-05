@@ -1,11 +1,13 @@
 ---
-title: "The Institutional Playbook for Capital Preservation in Fund-III Regimes"
-description: "A principal-level framework for kapitalanskaffning, private credit structuring, liquidity engineering, and institutional-grade capital defense across buyout ecosystems."
-date: "2026-03-05"
-author: "Roials Capital"
-slug: "institutional-playbook-capital-preservation-Fund-III"
+title: The Institutional Playbook for Capital Preservation in Fund-III Regimes
+description: >-
+  A principal-level framework for kapitalanskaffning, private credit
+  structuring, liquidity engineering, and institutional-grade capital defense
+  across buyout ecosystems.
+date: '2026-03-05'
+author: Roials Capital
+slug: institutional-playbook-capital-preservation-Fund-III
 ---
-
 Capital moves on certainty.
 
 Institutions move on structure.
@@ -118,9 +120,8 @@ Alpha is a bonus.
 
 Preservation is the job.
 
-Kapitalanskaffning-80% of THE MANDAT
+Kapitalanskaffning-80% of THE MANDATE
 
-E
 
 -demands narrative compression.
 
@@ -580,18 +581,8 @@ Drift is unacceptable.
 
 Preservation is non-negotiable.
 
-Minimum target size: $5M+....
 
 Request confidential capital audit to initiate alignment.
 
 Terminal metric: DSCR hard floor 1.35x.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

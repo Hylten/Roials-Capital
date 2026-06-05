@@ -1,11 +1,17 @@
 ---
-title: "Sovereign Debt Strategies for Family Offices: Structural Liquidity Architectures for 2026"
-description: "Institutional analysis on sovereign debt positioning for UHNW family offices, focused on liquidity engineering, duration governance, and capital stack optimization within 2026 macro regimes. Designed for allocators calibrating exposures ahead of Fund-III commitments, ABL mandates, and special-situation sovereign windows."
-date: "2025-11-12"
-author: "Roials Capital (Institutional Briefing)"
-slug: "sovereign-debt-strategies-family-offices-2026"
+title: >-
+  Sovereign Debt Strategies for Family Offices: Structural Liquidity
+  Architectures for 2026
+description: >-
+  Institutional analysis on sovereign debt positioning for UHNW family offices,
+  focused on liquidity engineering, duration governance, and capital stack
+  optimization within 2026 macro regimes. Designed for allocators calibrating
+  exposures ahead of Fund-III commitments, ABL mandates, and special-situation
+  sovereign windows.
+date: '2025-11-12'
+author: Roials Capital (Institutional Briefing)
+slug: sovereign-debt-strategies-family-offices-2026
 ---
-
 The capital vacuum in the sovereign fixed income landscape is a function of fragmentation across monetary jurisdictions rather than any structural deterioration in sovereign credit profiles.
 
 The 2026 regime presents a paradox: nominal yields signal normalization while balance sheet stress across Western sovereigns continues to accumulate.
@@ -189,12 +195,3 @@ Roials Capital provides confidential institutional strategy audits for family of
 
 This includes full-spectrum evaluations of sovereign architecture, capital rotation sequencing, and structural alignment for Fund-III readiness.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

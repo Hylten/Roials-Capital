@@ -1,11 +1,13 @@
 ---
-title: "Why Family Offices Are Quietly Replacing Banks in Add‑On Acquisition Financing"
-description: "Institutional briefing on the shift from regulated credit to private family capital for Fund-III buyouts, add‑on velocity, and cross‑jurisdictional execution."
-date: "2025-10-06"
-author: "Roials Capital"
-slug: "family-offices-replacing-banks-add-on-financing"
+title: Why Family Offices Are Quietly Replacing Banks in Add‑On Acquisition Financing
+description: >-
+  Institutional briefing on the shift from regulated credit to private family
+  capital for Fund-III buyouts, add‑on velocity, and cross‑jurisdictional
+  execution.
+date: '2025-10-06'
+author: Roials Capital
+slug: family-offices-replacing-banks-add-on-financing
 ---
-
 Banks hesitate.
 
 Family offices move.
@@ -112,12 +114,3 @@ Execution over ceremony.
 
 If you require a confidential capital audit, state the target jurisdiction and the acquisition timeline.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

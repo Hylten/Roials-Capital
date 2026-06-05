@@ -1,11 +1,13 @@
 ---
-title: "The Rise of Sovereign Crypto Banks for UHNW Liquidity"
-description: "A strategic examination of how sovereign crypto banks redefine liquidity architecture for UHWI and HNWI through private credit and asset based liquidity engineering."
-date: "2026-02-26"
-author: "Jonas Hyltén"
-slug: "the-rise-of-sovereign-crypto-banks-for-uhnw-liquidity"
+title: The Rise of Sovereign Crypto Banks for UHNW Liquidity
+description: >-
+  A strategic examination of how sovereign crypto banks redefine liquidity
+  architecture for UHWI and HNWI through private credit and asset based
+  liquidity engineering.
+date: '2026-02-26'
+author: Jonas Hyltén
+slug: the-rise-of-sovereign-crypto-banks-for-uhnw-liquidity
 ---
-
 # The Rise of Sovereign Crypto Banks for UHNW Liquidity The global wealth architecture is entering an era defined by sovereignty, optionality, and jurisdictional neutrality. The emergence of sovereign crypto banks is not a trend.
 
 It is a structural response to a liquidity grid that no longer matches the velocity or complexity of Ultra High Net Worth balance sheets.
@@ -224,14 +226,4 @@ Roials Capital is already operating inside that future.
 
 Request confidential audit 
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

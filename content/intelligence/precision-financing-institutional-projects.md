@@ -1,11 +1,16 @@
 ---
-title: "Precision Financing for Institutional Projects: Structural Alignment, Liquidity Engineering, and Capital Stewardship in the 2026 Allocator Regime"
-description: "Institutional briefing on precision financing mandates across Fund-III+ capital raises, acquisition financing, Asset-Based Lending structures, and special energy mandates, with a focus on structural arbitrage, balance sheet optimization, and allocator calibration."
-date: "2025-08-12"
-author: "Roials Capital (Institutional Briefing)"
-slug: "precision-financing-institutional-projects"
+title: >-
+  Precision Financing for Institutional Projects: Structural Alignment,
+  Liquidity Engineering, and Capital Stewardship in the 2026 Allocator Regime
+description: >-
+  Institutional briefing on precision financing mandates across Fund-III+
+  capital raises, acquisition financing, Asset-Based Lending structures, and
+  special energy mandates, with a focus on structural arbitrage, balance sheet
+  optimization, and allocator calibration.
+date: '2025-08-12'
+author: Roials Capital (Institutional Briefing)
+slug: precision-financing-institutional-projects
 ---
-
 The capital vacuum in North American and European private markets is driven by regulatory drift, liquidity fragmentation, and mismatched allocator time horizons.
 
 It is not a reflection of deteriorating fundamentals.
@@ -264,12 +269,3 @@ Roials Capital provides confidential Strategy Audits and Portfolio Calibration R
 
 The objective is clarity, precision, and institutional alignment. [END OF INSTITUTIONAL BRIEFING]
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

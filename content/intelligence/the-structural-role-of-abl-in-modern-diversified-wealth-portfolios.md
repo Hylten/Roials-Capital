@@ -1,11 +1,14 @@
 ---
-title: "The Structural Role of Asset-Based Lending in Modern Diversified Wealth Portfolios"
-description: "An institutional analysis of how Asset Based liquidity engineering enhances liquidity, stability, and controlled optionality for HNWI and UHNW portfolios."
-date: "2025-11-29"
-author: "Jonas Hyltén"
-slug: "the-structural-role-of-abl-in-modern-diversified-wealth-portfolios"
+title: >-
+  The Structural Role of Asset-Based Lending in Modern Diversified Wealth
+  Portfolios
+description: >-
+  An institutional analysis of how Asset Based liquidity engineering enhances
+  liquidity, stability, and controlled optionality for HNWI and UHNW portfolios.
+date: '2025-11-29'
+author: Jonas Hyltén
+slug: the-structural-role-of-abl-in-modern-diversified-wealth-portfolios
 ---
-
 # The Role of Asset-Based Lending in Diversified Wealth Portfolios Wealth architectures evolve as markets shift, and balance sheet rigidity becomes a liability rather than a safeguard. Institutional capital has already adapted.
 
 Liquidity is no longer acquired through liquidation.
@@ -171,30 +174,3 @@ Public equity holdings will remain strategic.
 Asset-Based Lending will serve as the connective tissue, linking long term exposure with short term liquidity needs.
 
 Roials Capital stands precisely within this structural nexus.
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
-
-## Conclusion
-
-Asset based Institutional Liquidity Paths is not an alternative financing tool.
-
-It is a structural mechanism within modern multi asset portfolios.
-
-For HNWI and UHNW investors, it preserves optionality, prevents forced liquidation, and aligns wealth strategy with institutional mechanics.
-
-Roials Capital provides Asset-Based Lending against private credit, crypto holdings at a minimum of 2,000,000, and public shares at a minimum of 5,000,
-
-000.
-
-This is not retail Strategic Collateralization.
-
-It is precision engineered liquidity for advanced portfolios.
-
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.

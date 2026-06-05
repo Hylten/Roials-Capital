@@ -1,11 +1,14 @@
 ---
-title: "The Mechanics of Portfolio Backed Liquidity for Modern Private Capital"
-description: "An institutional briefing on structural liquidity engineering, balance sheet optimization, and portfolio backed capital architecture for contemporary private markets allocators operating under a post Basel III and AIFMD constrained environment."
-date: "2025-11-14"
-author: "Roials Capital (Institutional Briefing)"
-slug: "portfolio-backed-liquidity-mechanics"
+title: The Mechanics of Portfolio Backed Liquidity for Modern Private Capital
+description: >-
+  An institutional briefing on structural liquidity engineering, balance sheet
+  optimization, and portfolio backed capital architecture for contemporary
+  private markets allocators operating under a post Basel III and AIFMD
+  constrained environment.
+date: '2025-11-14'
+author: Roials Capital (Institutional Briefing)
+slug: portfolio-backed-liquidity-mechanics
 ---
-
 The capital vacuum in North American private markets is not a function of asset scarcity.
 
 It is the cumulative result of regulatory tightening, balance sheet contraction, and a decade of institutional preference for duration that pushed liquidity formation to the margins.
@@ -82,7 +85,7 @@ Structural separation is the protection mechanism for allocators, especially whe
 
 The third
 
-### Layer I: s the LTV curve. Portfolio backed facilities rarely exceed
+### Layer I is the LTV curve. Portfolio backed facilities rarely exceed
 
 35 to 55 percent LTV depending on the cash flow hardness of the underlying assets.
 
@@ -234,14 +237,4 @@ The audit addresses the precision mechanics necessary to maintain institutional 
 
 # 
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

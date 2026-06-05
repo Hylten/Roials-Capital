@@ -1,11 +1,12 @@
 ---
-title: "Institutional Grade Infrastructure for Asset Hardening"
-description: "Institutional liquidity architecture for HNWI and UHNW investors, focused on private credit and asset based liquidity engineering frameworks."
-date: "2025-11-13"
-author: "Jonas Hyltén"
-slug: "institutional-grade-infrastructure-for-asset-hardening"
+title: Institutional Grade Infrastructure for Asset Hardening
+description: >-
+  Institutional liquidity architecture for HNWI and UHNW investors, focused on
+  private credit and asset based liquidity engineering frameworks.
+date: '2025-11-13'
+author: Jonas Hyltén
+slug: institutional-grade-infrastructure-for-asset-hardening
 ---
-
 # Institutional Grade Infrastructure for Asset Hardening Asset hardening is no longer a defensive strategy. It is architecture.
 
 It is intentional design for capital that must remain functional under stress.
@@ -94,14 +95,4 @@ Roials Capital delivers that architecture for those who require institutional gr
 
 Request confidential audi t 
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

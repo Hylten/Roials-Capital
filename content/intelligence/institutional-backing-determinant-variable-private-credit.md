@@ -1,11 +1,13 @@
 ---
-title: "Institutional Backing as the Determinant Variable in Private Credit Regimes"
-description: "Institutional brief on the capital-formation physics governing private credit regimes, with emphasis on Fund-III scale buyouts, liquidity engineering, and mandate-driven acquisition finance."
-date: "2026-02-01"
-author: "Roials Capital"
-slug: "institutional-backing-determinant-variable-private-credit"
+title: Institutional Backing as the Determinant Variable in Private Credit Regimes
+description: >-
+  Institutional brief on the capital-formation physics governing private credit
+  regimes, with emphasis on Fund-III scale buyouts, liquidity engineering, and
+  mandate-driven acquisition finance.
+date: '2026-02-01'
+author: Roials Capital
+slug: institutional-backing-determinant-variable-private-credit
 ---
-
 Institutional backing is not a credential.
 
 It is a load-bearing architecture.
@@ -336,18 +338,8 @@ Authority determines who sets terms.
 
 Those who set terms win.
 
-Minimum target size: $5M+....
 
 Request confidential capital audit.
 
 Terminal Metric: Enforcement Delta Ratio 1.73.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

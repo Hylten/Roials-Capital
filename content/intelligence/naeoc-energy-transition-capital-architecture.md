@@ -1,11 +1,12 @@
 ---
-title: "Principal Architecture for NAEOC-Directed Energy Capital"
-description: "Private briefing on the $50M–$250M NAEOC corridor, multi-jurisdictional mandates, and Fund-III capital formation dynamics."
-date: "2026-02-16"
-author: "Roials Capital"
-slug: "naeoc-energy-transition-capital-architecture"
+title: Principal Architecture for NAEOC-Directed Energy Capital
+description: >-
+  Private briefing on the $50M–$250M NAEOC corridor, multi-jurisdictional
+  mandates, and Fund-III capital formation dynamics.
+date: '2026-02-16'
+author: Roials Capital
+slug: naeoc-energy-transition-capital-architecture
 ---
-
 Capital shifts when mandates harden.
 
 The NAEOC block has moved from advisory posturing to direct allocation signals, and the $50M.$250M segment is now the pressure valve.
@@ -80,12 +81,3 @@ This is where Fund-III managers win.
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

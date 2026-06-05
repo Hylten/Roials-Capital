@@ -1,11 +1,16 @@
 ---
-title: "The Borderless Collateral Regime and the Ascension of Transnational Acquisition Power"
-description: "Institutional brief on cross‑jurisdictional collateral mobility, Fund-III capital formation dynamics, and the emergence of sovereign-grade acquisition throughput for buyouts, Asset-Based Lending liquidity engineering, and energy-sector special mandates."
-date: "2025-09-09"
-author: "Roials Capital"
-slug: "borderless-collateral-regime-transnational-acquisition-power"
+title: >-
+  The Borderless Collateral Regime and the Ascension of Transnational
+  Acquisition Power
+description: >-
+  Institutional brief on cross‑jurisdictional collateral mobility, Fund-III
+  capital formation dynamics, and the emergence of sovereign-grade acquisition
+  throughput for buyouts, Asset-Based Lending liquidity engineering, and
+  energy-sector special mandates.
+date: '2025-09-09'
+author: Roials Capital
+slug: borderless-collateral-regime-transnational-acquisition-power
 ---
-
 The borderless collateral regime is no longer a theoretical construct.
 
 It is the operational chassis of modern acquisition power.
@@ -79,8 +84,7 @@ That delta is IRR ignition.
 
 Cross-border acquisition power emerges not from speed, but from structure.
 
-• Structural jurisdictional arbitrage.
-
+- Structural jurisdictional arbitrage.
 - Capital stack plasticity.
 
 - Institutional-grade collateral translation.
@@ -446,18 +450,8 @@ The capital is ready.
 
 The strategy is operational.
 
-Minimum target size: $5M+....
 
 Request confidential capital audit.
 
 Technical metric: Collateral Mobility Index (CMI) target > 0.82.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

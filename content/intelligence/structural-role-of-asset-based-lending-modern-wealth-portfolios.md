@@ -1,11 +1,16 @@
 ---
-title: "The Structural Role of Asset Based Lending in Modern Diversified Wealth Portfolios"
-description: "Institutional analysis of ABL as a stability anchor, liquidity engine, and cross-cycle optimizer for UHNW and institutional allocators navigating a multipolar capital regime. Focus on Kapitalanskaffning for Fund-III+, balance sheet liquidity engineering, and energy-driven special mandates."
-date: "2025-11-24"
-author: "Roials Capital (Institutional Briefing)"
-slug: "structural-role-of-asset-based-lending-modern-wealth-portfolios"
+title: >-
+  The Structural Role of Asset Based Lending in Modern Diversified Wealth
+  Portfolios
+description: >-
+  Institutional analysis of ABL as a stability anchor, liquidity engine, and
+  cross-cycle optimizer for UHNW and institutional allocators navigating a
+  multipolar capital regime. Focus on Kapitalanskaffning for Fund-III+, balance
+  sheet liquidity engineering, and energy-driven special mandates.
+date: '2025-11-24'
+author: Roials Capital (Institutional Briefing)
+slug: structural-role-of-asset-based-lending-modern-wealth-portfolios
 ---
-
 The liquidity deficit across global private markets is the direct outcome of capital regime fragmentation rather than a shortage of collateralized enterprise value.
 
 From 2023 through 2026, Asset Based Lending has shifted from a niche credit instrument into a structural pillar for institutional allocators seeking controlled liquidity, insulated volatility, and predictable asset conversion.
@@ -204,12 +209,3 @@ The consultation process evaluates jurisdictional exposure, liquidity requiremen
 
 This approach ensures ABL is deployed as a strategic stabilizer rather than a transactional credit instrument.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

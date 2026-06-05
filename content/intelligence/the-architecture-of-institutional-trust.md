@@ -1,11 +1,13 @@
 ---
-title: "The Architecture of Institutional Trust"
-description: "An institutional exploration of liquidity, private credit, and asset based liquidity engineering structures for HNWI and UHNW clients seeking disciplined capital architecture."
-date: "2025-09-29"
-author: "Jonas Hyltén"
-slug: "the-architecture-of-institutional-trust"
+title: The Architecture of Institutional Trust
+description: >-
+  An institutional exploration of liquidity, private credit, and asset based
+  liquidity engineering structures for HNWI and UHNW clients seeking disciplined
+  capital architecture.
+date: '2025-09-29'
+author: Jonas Hyltén
+slug: the-architecture-of-institutional-trust
 ---
-
 # The Architecture of Institutional Trust Institutional trust is not a sentiment. It is a structure.
 
 It is built the same way a load bearing foundation is built, through decisions that hold under pressure, through systems that behave predictably, and through capital frameworks that do not collapse when volatility arrives.
@@ -325,30 +327,3 @@ It all exists to create predictability and reduce fragility.
 Our clients rely on that predictability.
 
 Our systems enforce it.
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
-
-## Conclusion
-
-Trust as a Structural Outcome Trust is not declared.
-
-It is engineered.
-
-It is the cumulative effect of systems that hold their form, Monetization Architecture policies that respect risk, and capital frameworks that remain stable across environments.
-
-Roials Capital exists to architect this form of trust.
-
-We operate with principal authority.
-
-We build the structures that institutions and sophisticated clients require.
-
-To understand how your assets integrate into our institutional architecture, request confidential audit.
-
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.

@@ -1,11 +1,14 @@
 ---
-title: "The Principal Geometry of the Middle Market Credit Gap"
-description: "A high-density institutional analysis of the structural credit deficit shaping middle‑market buyouts, add‑ons, and energy acquisitions, with emphasis on kapitalanskaffning for Fund‑III architecture, liquidity engineering, and cross‑border mandates."
-date: "2025-12-27"
-author: "Roials Capital"
-slug: "principal-geometry-middle-market-credit-gap"
+title: The Principal Geometry of the Middle Market Credit Gap
+description: >-
+  A high-density institutional analysis of the structural credit deficit shaping
+  middle‑market buyouts, add‑ons, and energy acquisitions, with emphasis on
+  kapitalanskaffning for Fund‑III architecture, liquidity engineering, and
+  cross‑border mandates.
+date: '2025-12-27'
+author: Roials Capital
+slug: principal-geometry-middle-market-credit-gap
 ---
-
 The middle market is fragmenting.
 
 Quietly.
@@ -513,16 +516,6 @@ Institutional LPs demand clarity.
 
 Not noise.
 
-Minimum target size: $5M+....
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

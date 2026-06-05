@@ -1,11 +1,14 @@
 ---
-title: "The Structural Role of ABL in Modern Diversified Wealth Portfolios"
-description: "Institutional analysis of Asset Based Lending as a stabilizing mechanism for UHNW and institutional allocators navigating regime-shift capital markets, with emphasis on Liquidity Engineering, Balance Sheet Optimization, and strategic alignment with Fund-III buyout architecture."
-date: "2025-10-19"
-author: "Roials Capital (Institutional Briefing)"
-slug: "structural-role-of-abl-in-modern-wealth-portfolios"
+title: The Structural Role of ABL in Modern Diversified Wealth Portfolios
+description: >-
+  Institutional analysis of Asset Based Lending as a stabilizing mechanism for
+  UHNW and institutional allocators navigating regime-shift capital markets,
+  with emphasis on Liquidity Engineering, Balance Sheet Optimization, and
+  strategic alignment with Fund-III buyout architecture.
+date: '2025-10-19'
+author: Roials Capital (Institutional Briefing)
+slug: structural-role-of-abl-in-modern-wealth-portfolios
 ---
-
 The capital vacuum in North American middle market finance is a consequence of regulatory drift rather than borrower deterioration.
 
 This vacuum has repositioned Asset Based Lending as a structural stabilizer within diversified UHNW and institutional portfolios.
@@ -212,12 +215,3 @@ Allocators who seek deeper structural clarity typically proceed to a confidentia
 
 This allows ROIALS Capital to map the liquidity, seniority, and acquisition dynamics of the allocator's existing structure and identify where ABL functions as an enhancement rather than a replacement.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

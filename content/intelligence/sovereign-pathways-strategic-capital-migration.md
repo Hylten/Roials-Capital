@@ -1,11 +1,13 @@
 ---
-title: "Sovereign Pathways for Strategic Capital Migration"
-description: "Institutional brief on jurisdictional migration, capital hardening, and cross-border structuring for UHNW principals allocating into Fund-III buyouts, Asset-Based Lending liquidity frames, and energy-side special mandates."
-date: "2025-07-14"
-author: "Roials Capital"
-slug: "sovereign-pathways-strategic-capital-migration"
+title: Sovereign Pathways for Strategic Capital Migration
+description: >-
+  Institutional brief on jurisdictional migration, capital hardening, and
+  cross-border structuring for UHNW principals allocating into Fund-III buyouts,
+  Asset-Based Lending liquidity frames, and energy-side special mandates.
+date: '2025-07-14'
+author: Roials Capital
+slug: sovereign-pathways-strategic-capital-migration
 ---
-
 Strategic capital migration is no longer a secondary dimension of UHNW wealth governance.
 
 It is the core architecture.
@@ -564,20 +566,10 @@ This is the elite tier of capital.
 
 This is the architecture of longevity.
 
-This is THE MANDAT
+This is THE MANDATE
 
-E. 
+. 
 
-Minimum target size: $5M+....
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

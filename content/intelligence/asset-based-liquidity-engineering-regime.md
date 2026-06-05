@@ -1,11 +1,15 @@
 ---
-title: "Asset Based Liquidity Engineering as the Structural Engine of Multi Generational Wealth"
-description: "Institutional treatise detailing Strategic Collateralization as a capital compounding regime, written for UHNWIs, LPs, and private credit allocators aligned with Fund-III buyout architecture."
-date: "2025-12-27"
-author: "Jonas Hyltén"
-slug: "asset-based-liquidity-engineering-regime"
+title: >-
+  Asset Based Liquidity Engineering as the Structural Engine of Multi
+  Generational Wealth
+description: >-
+  Institutional treatise detailing Strategic Collateralization as a capital
+  compounding regime, written for UHNWIs, LPs, and private credit allocators
+  aligned with Fund-III buyout architecture.
+date: '2025-12-27'
+author: Jonas Hyltén
+slug: asset-based-liquidity-engineering-regime
 ---
-
 A system collapses at its weakest constraint.
 
 Wealth collapses at its softest asset.
@@ -282,16 +286,6 @@ Every facility must move the operator toward a minimum DSCR of 1.
 
 Deviate from this and the compounding model breaks.
 
-Minimum target size: $5M+....
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

@@ -1,11 +1,14 @@
 ---
-title: "Sovereign Capital: The Silent Authority in Modern Financing"
-description: "An institutional analysis of the sovereign capital regime shift, its structural influence on global buyouts, private credit, North American energy, and liquidity engineering. Designed for LPs, GPs, and allocators navigating the post-2020 capital hierarchy."
-date: "2025-11-08"
-author: "Roials Capital (Institutional Briefing)"
-slug: "sovereign-capital-silent-authority-modern-financing"
+title: 'Sovereign Capital: The Silent Authority in Modern Financing'
+description: >-
+  An institutional analysis of the sovereign capital regime shift, its
+  structural influence on global buyouts, private credit, North American energy,
+  and liquidity engineering. Designed for LPs, GPs, and allocators navigating
+  the post-2020 capital hierarchy.
+date: '2025-11-08'
+author: Roials Capital (Institutional Briefing)
+slug: sovereign-capital-silent-authority-modern-financing
 ---
-
 The capital vacuum in North America’s middle market is not the result of a shortage of assets.
 
 It is the consequence of sovereign capital ascending as the stabilizing authority within global financing.
@@ -238,12 +241,3 @@ A confidential strategy audit can calibrate these elements across buyouts, priva
 
 Roials Capital remains positioned to support institutional decision makers through technical navigation, jurisdictional mapping, and disciplined partnership alignment. [END OF BRIEFING]
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

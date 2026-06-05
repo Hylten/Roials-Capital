@@ -1,11 +1,13 @@
 ---
-title: "The Reallocation Mandate"
-description: "Institutional analysis of private credit's regime shift, mid-market absorption capacity, and Fund-III capital formation pathways across buyouts, Asset-Based Lending liquidity engineering, and special mandates."
-date: "2025-08-04"
-author: "Roials Capital"
-slug: "reallocation-mandate-private-credit-Fund-III"
+title: The Reallocation Mandate
+description: >-
+  Institutional analysis of private credit's regime shift, mid-market absorption
+  capacity, and Fund-III capital formation pathways across buyouts, Asset-Based
+  Lending liquidity engineering, and special mandates.
+date: '2025-08-04'
+author: Roials Capital
+slug: reallocation-mandate-private-credit-Fund-III
 ---
-
 A structural gap has opened at the center of private credit.
 
 Banks are constrained by Basel IV capital weights.
@@ -301,16 +303,6 @@ Set the benchmark.
 
 Then surpass it.
 
-Minimum target size: $5M+....
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

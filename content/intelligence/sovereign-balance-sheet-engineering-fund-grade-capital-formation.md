@@ -1,11 +1,16 @@
 ---
-title: "The Sovereign Balance Sheet: Engineering For Fund-Grade Velocity In a Fragmented Capital Regime"
-description: "Institutional memo on sovereign-style balance sheet engineering, capital formation mechanics for Fund-III+, and the structural pathways allocators are using to harden portfolios across buyouts, add-ons, ABL liquidity engineering, and North American energy acquisition mandates."
-date: "2025-08-23"
-author: "Roials Capital (Institutional Briefing)"
-slug: "sovereign-balance-sheet-engineering-fund-grade-capital-formation"
+title: >-
+  The Sovereign Balance Sheet: Engineering For Fund-Grade Velocity In a
+  Fragmented Capital Regime
+description: >-
+  Institutional memo on sovereign-style balance sheet engineering, capital
+  formation mechanics for Fund-III+, and the structural pathways allocators are
+  using to harden portfolios across buyouts, add-ons, ABL liquidity engineering,
+  and North American energy acquisition mandates.
+date: '2025-08-23'
+author: Roials Capital (Institutional Briefing)
+slug: sovereign-balance-sheet-engineering-fund-grade-capital-formation
 ---
-
 The capital vacuum across North America and Europe is a structural consequence of regulatory drift, not a contraction of underlying asset productivity.
 
 Allocators operating within this regime are navigating a landscape where traditional private markets infrastructure is failing to transmit liquidity at institutional velocity.
@@ -270,9 +275,7 @@ The key evaluation questions are:
 
 * Is the stewardship filter embedded in each structural element When allocators review these criteria, the next logical
 
-### Step I:
-
-s often a confidential strategy audit or a portfolio calibration dialogue.
+### Step I is often a confidential strategy audit or a portfolio calibration dialogue.
 
 These consultations focus on structure, not solicitation.
 
@@ -286,12 +289,3 @@ Allocators with sovereign grade structures will dominate acquisition velocity ov
 
 Allocators without them will experience slippage, delay, and compression. [END OF BRIEFING]
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

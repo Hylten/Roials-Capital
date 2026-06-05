@@ -1,11 +1,14 @@
 ---
-title: "Wealth Mobility and Borderless Crypto Collateral for Institutional-Grade M&A"
-description: "Institutional briefing on cross-jurisdictional capital mobility, crypto-backed collateral frameworks, and advanced liquidity engineering structures designed for global M&A execution under MiFID II, North American private credit regimes, and UHNW mobility constraints."
-date: "2026-03-16"
-author: "Roials Capital (Institutional Briefing)"
-slug: "wealth-mobility-borderless-crypto-collateral-institutional-ma"
+title: Wealth Mobility and Borderless Crypto Collateral for Institutional-Grade M&A
+description: >-
+  Institutional briefing on cross-jurisdictional capital mobility, crypto-backed
+  collateral frameworks, and advanced liquidity engineering structures designed
+  for global M&A execution under MiFID II, North American private credit
+  regimes, and UHNW mobility constraints.
+date: '2026-03-16'
+author: Roials Capital (Institutional Briefing)
+slug: wealth-mobility-borderless-crypto-collateral-institutional-ma
 ---
-
 Structural displacement in global capital markets is no longer a cyclical pattern.
 
 It is a direct outcome of fragmented regulatory ecosystems that slow the movement of legitimate capital while accelerating the migration of private wealth into non-geographically anchored stores of value.
@@ -201,12 +204,3 @@ The objective is not to transact immediately.
 
 The objective is to understand the architecture of modern capital mobility so that decision making can be executed with institutional certainty.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

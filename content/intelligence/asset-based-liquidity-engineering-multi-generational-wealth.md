@@ -1,11 +1,16 @@
 ---
-title: "Asset‑Based Liquidity Engineering as the Structural Engine of Multi‑Generational Wealth"
-description: "Institutional brief for LP/GP allocators on how asset‑based Capital Structuring, jurisdictional structuring, and acquisition-grade capital architecture form the backbone of multi-generational wealth creation within Fund‑III buyout ecosystems."
-date: "2025-08-05"
-author: "Roials Capital | Principal Investigator"
-slug: "asset-based-liquidity-engineering-multi-generational-wealth"
+title: >-
+  Asset‑Based Liquidity Engineering as the Structural Engine of
+  Multi‑Generational Wealth
+description: >-
+  Institutional brief for LP/GP allocators on how asset‑based Capital
+  Structuring, jurisdictional structuring, and acquisition-grade capital
+  architecture form the backbone of multi-generational wealth creation within
+  Fund‑III buyout ecosystems.
+date: '2025-08-05'
+author: Roials Capital | Principal Investigator
+slug: asset-based-liquidity-engineering-multi-generational-wealth
 ---
-
 Asset‑based Monetization Architecture operates as the structural engine behind durable dynastic capital.
 
 Not because liquidity is optional, but because liquidity-engineered, sequenced, collateralized, and jurisdictionally optimized-determines which families, institutions, and sovereign vehicles sustain wealth across cycles, and which vanish in compression events.
@@ -292,18 +297,8 @@ Structured capital survives.
 
 Unstructured capital disappears.
 
-Minimum target size: $5M+....
 
 Request confidential capital audit.
 
 This determines readiness index: 0.83.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

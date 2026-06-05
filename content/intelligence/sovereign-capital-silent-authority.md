@@ -1,11 +1,13 @@
 ---
-title: "Sovereign Capital: The Silent Authority in Modern Financing"
-description: "Institutional analysis of sovereign capital flows, Fund-III buyout dynamics, liquidity engineering, and jurisdictional structuring for advanced GP/LP mandates."
-date: "2026-03-05"
-author: "Jonas Roials"
-slug: "sovereign-capital-silent-authority"
+title: 'Sovereign Capital: The Silent Authority in Modern Financing'
+description: >-
+  Institutional analysis of sovereign capital flows, Fund-III buyout dynamics,
+  liquidity engineering, and jurisdictional structuring for advanced GP/LP
+  mandates.
+date: '2026-03-05'
+author: Jonas Roials
+slug: sovereign-capital-silent-authority
 ---
-
 Sovereign capital moves without noise.
 
 Without spectacle.
@@ -480,9 +482,9 @@ The capital becomes a nation-scale instrument.
 
 This is the architecture.
 
-This is THE MANDAT
+This is THE MANDATE
 
-E. This is the new era of financing.
+. This is the new era of financing.
 
 End with a technical metric: Institutional Continuity Ratio:
 
@@ -492,14 +494,4 @@ End with a technical metric: Institutional Continuity Ratio:
 
 For a confidential capital audit, submit mandate parameters.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

@@ -1,11 +1,13 @@
 ---
-title: "The Sovereign Crypto Bank Regime and the Liquidity Mandate of Fund-III"
-description: "Institutional analysis of sovereign-grade crypto banking, UHNWI liquidity engineering, and the structural capital shift driving Fund-III acquisition velocity."
-date: "2025-12-17"
-author: "Jonas Hyltén"
-slug: "sovereign-crypto-banks-uhnw-liquidity-Fund-III"
+title: The Sovereign Crypto Bank Regime and the Liquidity Mandate of Fund-III
+description: >-
+  Institutional analysis of sovereign-grade crypto banking, UHNWI liquidity
+  engineering, and the structural capital shift driving Fund-III acquisition
+  velocity.
+date: '2025-12-17'
+author: Jonas Hyltén
+slug: sovereign-crypto-banks-uhnw-liquidity-Fund-III
 ---
-
 A jurisdictional void always precedes a new monetary institution.
 
 In every cycle, the market creates instruments long before regulators comprehend the implications.
@@ -240,14 +242,4 @@ The governing metric is simple: liquidity deployment time measured in minutes, n
 
 Request a confidential capital audit.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

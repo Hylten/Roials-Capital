@@ -1,11 +1,15 @@
 ---
-title: "The Institutional Case for Add‑On Consolidation in Fragmented Technical Services"
-description: "A principal-level, closed‑room analysis on consolidation economics, jurisdictional positioning, and capital architecture for Fund‑III buyouts and technical‑services roll‑ups."
-date: "2025-12-15"
-author: "Roials Capital"
-slug: "institutional-case-add-on-consolidation-fragmented-technical-services"
+title: >-
+  The Institutional Case for Add‑On Consolidation in Fragmented Technical
+  Services
+description: >-
+  A principal-level, closed‑room analysis on consolidation economics,
+  jurisdictional positioning, and capital architecture for Fund‑III buyouts and
+  technical‑services roll‑ups.
+date: '2025-12-15'
+author: Roials Capital
+slug: institutional-case-add-on-consolidation-fragmented-technical-services
 ---
-
 The center of gravity in technical services is shifting.
 
 Fragmented markets are not inefficiencies; they are unclaimed sovereignties.
@@ -396,12 +400,3 @@ You create value to command the multiple.
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

@@ -1,11 +1,15 @@
 ---
-title: "Structural Alpha Through Engineered Reliability: The Institutional Mandate for Fund-III Kapitalanskaffning"
-description: "Institutional brief on Asset-Based Liquidity Engineering, engineered reliability, and structural alpha generation for Fund-III+ buyouts, add-ons, and cross‑jurisdictional acquisition platforms."
-date: "2026-02-14"
-author: "Roials Capital"
-slug: "structural-alpha-engineered-reliability-Fund-III"
+title: >-
+  Structural Alpha Through Engineered Reliability: The Institutional Mandate for
+  Fund-III Kapitalanskaffning
+description: >-
+  Institutional brief on Asset-Based Liquidity Engineering, engineered
+  reliability, and structural alpha generation for Fund-III+ buyouts, add-ons,
+  and cross‑jurisdictional acquisition platforms.
+date: '2026-02-14'
+author: Roials Capital
+slug: structural-alpha-engineered-reliability-Fund-III
 ---
-
 Engineered reliability is not a metric.
 
 It is a posture.
@@ -354,9 +358,9 @@ Hard systems.
 
 Hard returns. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
-* confirms THE MANDAT
+* confirms THE MANDATE
 
-E. Fund‑III will expand the signal bandwidth across North America and Europe.
+. Fund‑III will expand the signal bandwidth across North America and Europe.
 
 Multi-sector.
 
@@ -378,14 +382,4 @@ Deterministic.
 
 MANDATE FORWARD Roials Capital invites qualified LPs, institutional allocators, and strategic partners to engage in a confidential capital audit to determine alignment, structural fit, and Fund‑III allocation pathways. Terminal Metric: LTV Hardening Ratio 1.47x across engineered collateral stacks.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

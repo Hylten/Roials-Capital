@@ -1,11 +1,14 @@
 ---
-title: "The Migration Path of Institutional Capital"
-description: "A principal-level analysis of structural capital reallocation, technical cash-flow regimes, and institutional stewardship filters governing Fund-III capital raising, Asset-Based Lending liquidity engineering, and special mandate deployment across UHNWI and private credit ecosystems."
-date: "2026-01-26"
-author: "Jonas Hylten"
-slug: "institutional-capital-migration"
+title: The Migration Path of Institutional Capital
+description: >-
+  A principal-level analysis of structural capital reallocation, technical
+  cash-flow regimes, and institutional stewardship filters governing Fund-III
+  capital raising, Asset-Based Lending liquidity engineering, and special
+  mandate deployment across UHNWI and private credit ecosystems.
+date: '2026-01-26'
+author: Jonas Hylten
+slug: institutional-capital-migration
 ---
-
 A structural gap always appears before a liquidity regime shifts.
 
 The laggards never see it.
@@ -292,16 +295,6 @@ Cost of error.
 
 Our mandate is to lower it to zero.
 
-Minimum target size: $5M+....
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

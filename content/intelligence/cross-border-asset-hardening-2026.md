@@ -1,11 +1,16 @@
 ---
-title: "Cross-Border Asset Hardening in Volatile Markets: Institutional Frameworks for Capital Stability and Strategic Expansion"
-description: "Analyst-grade briefing on structural capital dislocations, cross-border asset hardening mechanics, and institutional navigation protocols relevant to UHNWIs, private credit funds, and international GPs operating in 2026 volatility regimes."
-date: "2025-08-02"
-author: "Roials Capital (Institutional Briefing)"
-slug: "cross-border-asset-hardening-2026"
+title: >-
+  Cross-Border Asset Hardening in Volatile Markets: Institutional Frameworks for
+  Capital Stability and Strategic Expansion
+description: >-
+  Analyst-grade briefing on structural capital dislocations, cross-border asset
+  hardening mechanics, and institutional navigation protocols relevant to
+  UHNWIs, private credit funds, and international GPs operating in 2026
+  volatility regimes.
+date: '2025-08-02'
+author: Roials Capital (Institutional Briefing)
+slug: cross-border-asset-hardening-2026
 ---
-
 The capital vacuum in North America’s upstream and midstream energy segments is a direct consequence of regulatory drift, capital misallocation, and a multi-year divergence between policy rhetoric and physical market constraints.
 
 This vacuum has generated an atypical period where cross-border allocators with disciplined frameworks can engineer structural advantage without seeking speculative outcomes.
@@ -154,9 +159,9 @@ This is achieved through three primary channels:
 
 1.
 
-Capital Raising and Institutional Alignment Approximately eighty percent of THE MANDAT
+Capital Raising and Institutional Alignment Approximately eighty percent of THE MANDATE
 
-E is focused on kapitalanskaffning for Fund-III and subsequent vintages that emphasize buyouts and add-on platforms.
+ is focused on kapitalanskaffning for Fund-III and subsequent vintages that emphasize buyouts and add-on platforms.
 
 The objective is to match institutional LP criteria with operationally sound GP frameworks.
 
@@ -164,9 +169,9 @@ This includes European GPs seeking North American expansion, GCC family offices 
 
 2.
 
-Strategic Collateralization and Asset-Based Lending Structures Approximately ten percent of THE MANDAT
+Strategic Collateralization and Asset-Based Lending Structures Approximately ten percent of THE MANDATE
 
-E involves asset based lending frameworks that enable liquidity extraction without exposing the allocator to undue volatility.
+ involves asset based lending frameworks that enable liquidity extraction without exposing the allocator to undue volatility.
 
 The Asset-Based Lending discipline is used to generate strategic flexibility rather than tactical leverage.
 
@@ -232,14 +237,4 @@ Roials Capital provides confidential strategy audits and portfolio calibration f
 
 The objective is alignment, clarity, and long horizon structural advantage.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

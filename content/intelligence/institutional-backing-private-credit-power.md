@@ -1,11 +1,13 @@
 ---
-title: "Institutional Backing as the Determinant Variable in Private Credit Regimes"
-description: "Technical briefing on capitalization dynamics, LP governed scale advantages, liquidity engineering, and the structural power of institutional alignment for Fund-III private credit vehicles."
-date: "2025-11-11"
-author: "Roials Capital"
-slug: "institutional-backing-private-credit-power"
+title: Institutional Backing as the Determinant Variable in Private Credit Regimes
+description: >-
+  Technical briefing on capitalization dynamics, LP governed scale advantages,
+  liquidity engineering, and the structural power of institutional alignment for
+  Fund-III private credit vehicles.
+date: '2025-11-11'
+author: Roials Capital
+slug: institutional-backing-private-credit-power
 ---
-
 A structural gap always reveals itself in the data before it becomes visible in the market.
 
 In private credit, the gap is simple.
@@ -60,9 +62,9 @@ Roials Capital operates inside this regime shift.
 
 Velocity is the advantage.
 
-Precision is THE MANDAT
+Precision is THE MANDATE
 
-E. ### Phase II:
+. ### Phase II:
 
 TECHNICAL MECHANICS Institutional backing manifests in the mathematics, not the branding.
 
@@ -271,16 +273,6 @@ Platforms that secure institutional alignment lift IRR by
 
 180 to 260 basis points due to workflow compression alone.
 
-Minimum target size: $5M+....
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

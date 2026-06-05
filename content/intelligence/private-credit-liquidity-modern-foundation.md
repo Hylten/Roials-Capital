@@ -1,11 +1,15 @@
 ---
-title: "Private Credit and Liquidity: The Modern Foundation for Institutional Balance Sheet Optimization"
-description: "Institutional briefing on the structural role of private credit, the modern liquidity regime, and Roials Capital's strategic architecture for Fund-III capital formation, liquidity engineering, and North American energy mandates."
-date: "2025-08-04"
-author: "Roials Capital (Institutional Briefing)"
-slug: "private-credit-liquidity-modern-foundation"
+title: >-
+  Private Credit and Liquidity: The Modern Foundation for Institutional Balance
+  Sheet Optimization
+description: >-
+  Institutional briefing on the structural role of private credit, the modern
+  liquidity regime, and Roials Capital's strategic architecture for Fund-III
+  capital formation, liquidity engineering, and North American energy mandates.
+date: '2025-08-04'
+author: Roials Capital (Institutional Briefing)
+slug: private-credit-liquidity-modern-foundation
 ---
-
 The capital vacuum in North American credit formation since 2018 is a regulatory artifact, not a deterioration of real asset quality.
 
 Private credit has matured into the stabilizing core of institutional portfolios because traditional lenders have exited segments of the market that still maintain robust collateral value, predictable operating performance, and stable cash generation.
@@ -186,12 +190,3 @@ THE ALLOCATOR’S DECISION LENS Institutional allocators evaluating private cred
 
 The objective is clarity, not commitment. [END OF BRIEFING]
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

@@ -1,11 +1,12 @@
 ---
-title: "Sovereign Wealth Management: The New Institutional Model for Private Capital"
-description: "A surgical examination of modern liquidity architecture, private credit, and asset based liquidity engineering for HNWI and UHNW portfolios."
-date: "2025-07-10"
-author: "Jonas Hyltén"
-slug: "sovereign-wealth-management-the-new-institutional-model-for-private-capital"
+title: 'Sovereign Wealth Management: The New Institutional Model for Private Capital'
+description: >-
+  A surgical examination of modern liquidity architecture, private credit, and
+  asset based liquidity engineering for HNWI and UHNW portfolios.
+date: '2025-07-10'
+author: Jonas Hyltén
+slug: sovereign-wealth-management-the-new-institutional-model-for-private-capital
 ---
-
 # Sovereign Wealth Management: The New Model The global capital environment has shifted. Traditional frameworks for wealth stewardship no longer reflect the operational reality of modern high net worth and ultra high net worth portfolios.
 
 Volatility has increased.
@@ -292,14 +293,4 @@ It is disciplined.
 
 It is built for those who treat capital as architecture, not speculation.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

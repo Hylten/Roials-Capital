@@ -1,11 +1,16 @@
 ---
-title: "The Sovereign Mechanics of Tokenized Real Estate Liquidity for Fund-III Acceleration"
-description: "Institutional analysis of tokenized real-asset liquidity structures, capital-raising mechanics, and cross-jurisdictional pathways for Fund-III buyouts, Asset-Based Lending engineering, and special-mandate acquisition pipelines."
-date: "2026-01-15"
-author: "Jonas Roials"
-slug: "sovereign-mechanics-tokenized-real-estate-liquidity"
+title: >-
+  The Sovereign Mechanics of Tokenized Real Estate Liquidity for Fund-III
+  Acceleration
+description: >-
+  Institutional analysis of tokenized real-asset liquidity structures,
+  capital-raising mechanics, and cross-jurisdictional pathways for Fund-III
+  buyouts, Asset-Based Lending engineering, and special-mandate acquisition
+  pipelines.
+date: '2026-01-15'
+author: Jonas Roials
+slug: sovereign-mechanics-tokenized-real-estate-liquidity
 ---
-
 Tokenized real estate is not a technology category.
 
 Not a trend.
@@ -527,16 +532,6 @@ Fund-III targets 0.
 
 End.
 
-Minimum target size: $5M+....
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

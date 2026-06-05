@@ -1,11 +1,16 @@
 ---
-title: "Risk Mitigation in Sovereign Asset Structures: Architecting Stability for Institutional Capital"
-description: "An institutional examination of risk mitigation mechanics within sovereign asset structures, with emphasis on liquidity, private credit, and asset based liquidity engineering frameworks."
-date: "2026-01-05"
-author: "Jonas Hyltén"
-slug: "risk-mitigation-in-sovereign-asset-structures-architecting-stability-for-institutional-capital"
+title: >-
+  Risk Mitigation in Sovereign Asset Structures: Architecting Stability for
+  Institutional Capital
+description: >-
+  An institutional examination of risk mitigation mechanics within sovereign
+  asset structures, with emphasis on liquidity, private credit, and asset based
+  liquidity engineering frameworks.
+date: '2026-01-05'
+author: Jonas Hyltén
+slug: >-
+  risk-mitigation-in-sovereign-asset-structures-architecting-stability-for-institutional-capital
 ---
-
 # Risk Mitigation in Sovereign Asset Structures Sovereign asset structures form the highest tier of capital organization. They represent the intersection of jurisdictional certainty, transnational enforceability, and architectural design of risk governance.
 
 Roials Capital operates inside this domain with a principal authority posture.
@@ -313,46 +318,3 @@ Clients experience the stability without witnessing the complexity.
 principal authority is the highest form of trust.
 
 It is the trust that comes from structural predictability.
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
-
-## Conclusion
-
-The Future of Sovereign Risk Mitigation Risk mitigation in sovereign asset structures is a perpetual discipline.
-
-The environment evolves.
-
-The structures must evolve with it.
-
-Private credit.
-
-Asset based Capital Structuring.
-
-Digital asset collateral.
-
-Public market positions.
-
-All of these instruments can function safely when placed within the correct architectural hierarchy.
-
-Roials Capital builds that hierarchy.
-
-We structure capital so it cannot be easily disrupted.
-
-We create liquidity that does not depend on market conditions.
-
-We establish a governance framework that protects principals across jurisdictions.
-
-For HNWI and UHNW individuals, this is not an option.
-
-This is a requirement for generational stability.
-
-Request confidential audit 
-
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.

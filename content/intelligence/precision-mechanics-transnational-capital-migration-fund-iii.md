@@ -1,11 +1,13 @@
 ---
-title: "Precision Mechanics of Transnational Capital Migration for Fund‑III Expansion"
-description: "Institutional analysis on cross‑border capital formation, acquisition structuring, and liquidity engineering for Fund‑III buyouts, add‑ons, and energy mandates under multi‑jurisdictional regulatory vectors."
-date: "2025-09-29"
-author: "Roials Capital"
-slug: "precision-mechanics-transnational-capital-migration-Fund-III"
+title: Precision Mechanics of Transnational Capital Migration for Fund‑III Expansion
+description: >-
+  Institutional analysis on cross‑border capital formation, acquisition
+  structuring, and liquidity engineering for Fund‑III buyouts, add‑ons, and
+  energy mandates under multi‑jurisdictional regulatory vectors.
+date: '2025-09-29'
+author: Roials Capital
+slug: precision-mechanics-transnational-capital-migration-Fund-III
 ---
-
 Transnational capital never travels randomly.
 
 It migrates through corridors shaped by regulatory gradients, institutional memory, cross‑jurisdictional asymmetries, and the physics of sovereign risk.
@@ -398,16 +400,6 @@ Tighten its energy posture.
 
 Execute with sovereign precision.
 
-Minimum target size: $5M+....
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

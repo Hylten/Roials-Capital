@@ -1,11 +1,13 @@
 ---
-title: "The Sovereign Mindset: Building for Decades With Structural Liquidity"
-description: "A high‑trust analysis of liquidity architecture and asset based liquidity engineering for HNWI and UHNW individuals seeking multi‑decade capital durability."
-date: "2025-11-04"
-author: "Jonas Hyltén"
-slug: "the-sovereign-mindset-building-for-decades-with-structural-liquidity"
+title: 'The Sovereign Mindset: Building for Decades With Structural Liquidity'
+description: >-
+  A high‑trust analysis of liquidity architecture and asset based liquidity
+  engineering for HNWI and UHNW individuals seeking multi‑decade capital
+  durability.
+date: '2025-11-04'
+author: Jonas Hyltén
+slug: the-sovereign-mindset-building-for-decades-with-structural-liquidity
 ---
-
 # The Sovereign Mindset: Building for Decades The modern wealth landscape rewards agility, yet true longevity demands more than agility alone. It requires a sovereign mindset.
 
 A way of thinking that privileges durability over excitement, structure over impulse, and multi‑decade continuity over short‑term optics.
@@ -136,14 +138,4 @@ When executed correctly, this mindset creates wealth that becomes more stable, m
 
 Request confidential audi t 
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

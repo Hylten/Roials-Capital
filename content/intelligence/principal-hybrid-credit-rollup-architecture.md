@@ -1,11 +1,13 @@
 ---
-title: "The Principal Architecture of Hybrid Credit in Roll-Up Acceleration"
-description: "A vault-level briefing on Asset-Based Lending and mezzanine hybrids as liquidity engines for Fund-III buyouts, add-ons, and jurisdictional scaling mandates."
-date: "2025-12-07"
-author: "Roials Capital"
-slug: "principal-hybrid-credit-rollup-architecture"
+title: The Principal Architecture of Hybrid Credit in Roll-Up Acceleration
+description: >-
+  A vault-level briefing on Asset-Based Lending and mezzanine hybrids as
+  liquidity engines for Fund-III buyouts, add-ons, and jurisdictional scaling
+  mandates.
+date: '2025-12-07'
+author: Roials Capital
+slug: principal-hybrid-credit-rollup-architecture
 ---
-
 A roll-up only works when liquidity is faster than fragmentation.
 
 That is the governing law.
@@ -96,7 +98,7 @@ North American execution speed.
 
 The hybrid
 
-### Layer I: s the reconciler. Principal tone now.
+### Layer I is the reconciler. Principal tone now.
 
 Roll-ups demand authority.
 
@@ -128,12 +130,3 @@ Principals capture.
 
 Confidential capital audit ready on request.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

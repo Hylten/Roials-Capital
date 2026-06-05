@@ -1,11 +1,14 @@
 ---
-title: "The Principal Doctrine of Operational Alpha in Add‑On Buyout Architecture"
-description: "A private Principal‑level briefing on why operational alpha now eclipses legacy financial engineering in Fund‑III+ add‑on environments, with direct implications for capital raising, GP signalling, and institutional allocations."
-date: "2025-12-15"
-author: "Roials Capital"
-slug: "operational-alpha-add-on-architecture"
+title: The Principal Doctrine of Operational Alpha in Add‑On Buyout Architecture
+description: >-
+  A private Principal‑level briefing on why operational alpha now eclipses
+  legacy financial engineering in Fund‑III+ add‑on environments, with direct
+  implications for capital raising, GP signalling, and institutional
+  allocations.
+date: '2025-12-15'
+author: Roials Capital
+slug: operational-alpha-add-on-architecture
 ---
-
 The pivot is not philosophical.
 
 It is structural.
@@ -354,12 +357,3 @@ You know your category.
 
 If you seek a confidential capital audit, initiate the request.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

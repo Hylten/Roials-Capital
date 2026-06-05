@@ -1,11 +1,17 @@
 ---
-title: "The Power of Institutional Backing in Private Credit: Structural Advantage, Capital Discipline, and Strategic Alignment in the 2026 Energy and Middle Market Credit Regime"
-description: "An institutional briefing on the structural arbitrage emerging from North American energy finance, middle market capital dislocation, and the operational intelligence required for allocators to navigate private credit with disciplined strategic alignment."
-date: "2026-01-16"
-author: "Roials Capital (Institutional Briefing)"
-slug: "institutional-backing-private-credit-structural-arbitrage-2026"
+title: >-
+  The Power of Institutional Backing in Private Credit: Structural Advantage,
+  Capital Discipline, and Strategic Alignment in the 2026 Energy and Middle
+  Market Credit Regime
+description: >-
+  An institutional briefing on the structural arbitrage emerging from North
+  American energy finance, middle market capital dislocation, and the
+  operational intelligence required for allocators to navigate private credit
+  with disciplined strategic alignment.
+date: '2026-01-16'
+author: Roials Capital (Institutional Briefing)
+slug: institutional-backing-private-credit-structural-arbitrage-2026
 ---
-
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion.
 
 The allocators that recognize this shift are positioning ahead of a multi-year structural cycle where institutional backing has become the dominant variable separating operational durability from opportunistic exposure.
@@ -226,8 +232,7 @@ Institutional backing is the differentiator because it replaces the volatility o
 
 Allocators evaluating private credit opportunities across traditional middle market portfolios, energy-backed structures, asset-based lending, or special mandates must
 
-• Counterparty governance maturity
-
+- Counterparty governance maturity
 - Balance sheet optimization capabilities
 
 - Asset Hardening potential
@@ -246,14 +251,4 @@ Allocators positioned to integrate Alberta heavy oil credit structures, middle m
 
 A confidential strategy audit provides the framework for assessing fit, alignment, and operational readiness while maintaining full compliance with institutional standards and regulatory expectations.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

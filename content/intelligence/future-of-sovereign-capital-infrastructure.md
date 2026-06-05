@@ -1,11 +1,16 @@
 ---
-title: "The Future of Sovereign Capital Infrastructure: Institutional Navigation, Structural Alignment, and the Reconfiguration of Global Allocation Regimes"
-description: "Technical briefing on the emerging architecture of sovereign-scale capital deployment, the North American energy arbitrage, the rise of Fund-III capital formation, and the operational mechanics shaping institutional decision frameworks."
-date: "2026-02-05"
-author: "Roials Capital (Institutional Briefing)"
-slug: "future-of-sovereign-capital-infrastructure"
+title: >-
+  The Future of Sovereign Capital Infrastructure: Institutional Navigation,
+  Structural Alignment, and the Reconfiguration of Global Allocation Regimes
+description: >-
+  Technical briefing on the emerging architecture of sovereign-scale capital
+  deployment, the North American energy arbitrage, the rise of Fund-III capital
+  formation, and the operational mechanics shaping institutional decision
+  frameworks.
+date: '2026-02-05'
+author: Roials Capital (Institutional Briefing)
+slug: future-of-sovereign-capital-infrastructure
 ---
-
 The capital vacuum in North America’s energy sector is a consequence of regulatory drift, not resource depletion.
 
 This structural gap defines one of the clearest institutional dislocations of the current cycle and forms a central pillar of the future sovereign capital infrastructure landscape.
@@ -248,14 +253,4 @@ The objective is not transactional deployment but long term structural alignment
 
 # 
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

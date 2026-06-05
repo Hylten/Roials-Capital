@@ -1,11 +1,16 @@
 ---
-title: "Strategic Liquidity Architecture for Sovereign and Ultra-High Net Worth Portfolios"
-description: "A high‑level analysis of liquidity structuring using private credit and asset based liquidity engineering solutions for sovereign, HNWI, and UHNW portfolios."
-date: "2025-09-16"
-author: "Jonas Hyltén"
-slug: "strategic-liquidity-architecture-for-sovereign-and-ultra-high-net-worth-portfolios"
+title: >-
+  Strategic Liquidity Architecture for Sovereign and Ultra-High Net Worth
+  Portfolios
+description: >-
+  A high‑level analysis of liquidity structuring using private credit and asset
+  based liquidity engineering solutions for sovereign, HNWI, and UHNW
+  portfolios.
+date: '2025-09-16'
+author: Jonas Hyltén
+slug: >-
+  strategic-liquidity-architecture-for-sovereign-and-ultra-high-net-worth-portfolios
 ---
-
 # Strategic Liquidity for Sovereign Portfolios Liquidity is not a convenience at the sovereign level. It is a structural requirement.
 
 The portfolios operated by sovereign funds, royal offices, and ultra concentrated HNWI or UHNW families do not treat liquidity as an afterthought, they treat it as a governing force.
@@ -57,32 +62,3 @@ We operate for HNWI and UHNW individuals because they understand that liquidity 
 We maintain principal authority because real capital does not require noise.
 
 It requires architecture.
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
-
-## Conclusion
-
-Strategic liquidity is not the pursuit of cash.
-
-It is the pursuit of control.
-
-Sovereign and UHNW portfolios achieve control through engineered liquidity.
-
-That requires precision, structure, and an architecture mindset.
-
-Roials Capital provides the mechanics that support these mandates.
-
-Quietly.
-
-Deliberately.
-
-At scale.
-
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.

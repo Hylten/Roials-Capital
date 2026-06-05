@@ -1,11 +1,13 @@
 ---
-title: "Crypto Liquidity Architecture for Sovereign and Ultra-Capital Entities"
-description: "Institutional liquidity engineering framework for sovereign allocators, UHNW principal structures, and Fund-III GP mandates designing crypto-based settlement rails, reserve baskets, and cross-jurisdictional liquidity spines."
-date: "2026-01-02"
-author: "Roials Capital"
-slug: "crypto-liquidity-architecture-sovereign-ultra-capital"
+title: Crypto Liquidity Architecture for Sovereign and Ultra-Capital Entities
+description: >-
+  Institutional liquidity engineering framework for sovereign allocators, UHNW
+  principal structures, and Fund-III GP mandates designing crypto-based
+  settlement rails, reserve baskets, and cross-jurisdictional liquidity spines.
+date: '2026-01-02'
+author: Roials Capital
+slug: crypto-liquidity-architecture-sovereign-ultra-capital
 ---
-
 Fragmentation in crypto liquidity is not a technology flaw.
 
 It is a structural vacuum created by institutions that have not yet imposed order.
@@ -292,16 +294,6 @@ Construct a liquidity architecture with a collateral efficiency ratio of 0.
 
 74 or higher and a 92 percent execution predictability across jurisdictions.
 
-Minimum target size: $5M+....
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

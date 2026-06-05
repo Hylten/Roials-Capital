@@ -1,11 +1,13 @@
 ---
-title: "The Power of Private Credit in Modern M&A Architecture"
-description: "A strategic examination of liquidity engineering and asset based Institutional Liquidity Paths in contemporary M&A environments, designed for HNWI and UHNW decision‑makers."
-date: "2025-07-04"
-author: "Jonas Hyltén"
-slug: "the-power-of-private-credit-in-modern-ma-architecture"
+title: The Power of Private Credit in Modern M&A Architecture
+description: >-
+  A strategic examination of liquidity engineering and asset based Institutional
+  Liquidity Paths in contemporary M&A environments, designed for HNWI and UHNW
+  decision‑makers.
+date: '2025-07-04'
+author: Jonas Hyltén
+slug: the-power-of-private-credit-in-modern-ma-architecture
 ---
-
 # The Power of Private Credit in M&A Mergers and acquisitions have always been liquidity‑centric events. They reorganize balance sheets, shift control, and dictate long term velocity.
 
 Yet the mechanics that enable these transactions have changed.
@@ -174,26 +176,3 @@ Roials Capital is positioned at this intersection.
 Not as an alternative lender.
 
 As a structural architect for modern liquidity.
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
-
-## Conclusion
-
-The power of private credit in M&A does not come from leverage.
-
-It comes from clarity, speed, and structural authority.
-
-For principals operating at the highest tiers, liquidity must be engineered, controlled, and silent.
-
-This is where Roials Capital functions.
-
-We provide institutional grade structure with private market velocity.
-
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.

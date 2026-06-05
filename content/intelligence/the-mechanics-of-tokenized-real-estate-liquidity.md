@@ -1,11 +1,13 @@
 ---
-title: "The Mechanics of Tokenized Real Estate Liquidity"
-description: "A surgical examination of how tokenized real estate interfaces with liquidity architecture, private credit, and asset based liquidity engineering frameworks."
-date: "2026-03-11"
-author: "Jonas Hyltén"
-slug: "the-mechanics-of-tokenized-real-estate-liquidity"
+title: The Mechanics of Tokenized Real Estate Liquidity
+description: >-
+  A surgical examination of how tokenized real estate interfaces with liquidity
+  architecture, private credit, and asset based liquidity engineering
+  frameworks.
+date: '2026-03-11'
+author: Jonas Hyltén
+slug: the-mechanics-of-tokenized-real-estate-liquidity
 ---
-
 # The Mechanics of Tokenized Real Estate Liquidity Tokenized real estate is often discussed through the lens of accessibility and fractional ownership, yet these framings miss the institutional core. The true significance of tokenization is structural.
 
 It is a new liquidity architecture.
@@ -242,14 +244,4 @@ We maintain frameworks that ensure settlement integrity.
 
 We maintain principal authority that ensures trust without noise.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

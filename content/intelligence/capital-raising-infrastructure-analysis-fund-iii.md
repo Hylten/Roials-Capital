@@ -1,11 +1,15 @@
 ---
-title: "Capital Raising Infrastructure Analysis for Fund-III and Institutional-Grade Expansion Mandates"
-description: "Institutional briefing on capital raising architecture, liquidity engineering, operational intelligence, and structural advantages for Fund-III strategies, Asset-Based Lending frameworks, and NAEOC-aligned energy mandates."
-date: "2025-07-01"
-author: "Roials Capital (Institutional Briefing)"
-slug: "capital-raising-infrastructure-analysis-Fund-III"
+title: >-
+  Capital Raising Infrastructure Analysis for Fund-III and Institutional-Grade
+  Expansion Mandates
+description: >-
+  Institutional briefing on capital raising architecture, liquidity engineering,
+  operational intelligence, and structural advantages for Fund-III strategies,
+  Asset-Based Lending frameworks, and NAEOC-aligned energy mandates.
+date: '2025-07-01'
+author: Roials Capital (Institutional Briefing)
+slug: capital-raising-infrastructure-analysis-Fund-III
 ---
-
 The capital vacuum in the middle market buyout ecosystem is not a function of asset scarcity.
 
 It is the direct expression of regulatory deceleration, increased compliance drag, and a multi-year misalignment between GP execution velocity and LP diligence cycles.
@@ -220,14 +224,4 @@ The next step for most allocators is a confidential calibration session to map s
 
 # 
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

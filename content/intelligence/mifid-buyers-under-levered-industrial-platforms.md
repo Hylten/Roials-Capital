@@ -1,11 +1,15 @@
 ---
-title: "Why MiFID II Buyers Are Quietly Pivoting Toward Under‑Levered Industrial Platforms"
-description: "Institutional briefing on EU buyer behavior, capital concentration dynamics, and the emerging preference for low‑leverage industrial platforms within Fund‑III acquisition cycles."
-date: "2025-12-09"
-author: "Roials Capital"
-slug: "mifid-buyers-under-levered-industrial-platforms"
+title: >-
+  Why MiFID II Buyers Are Quietly Pivoting Toward Under‑Levered Industrial
+  Platforms
+description: >-
+  Institutional briefing on EU buyer behavior, capital concentration dynamics,
+  and the emerging preference for low‑leverage industrial platforms within
+  Fund‑III acquisition cycles.
+date: '2025-12-09'
+author: Roials Capital
+slug: mifid-buyers-under-levered-industrial-platforms
 ---
-
 European MiFID II buyers have shifted posture.
 
 Not noise.
@@ -90,12 +94,3 @@ Send the data room.
 
 We’ll run the confidential capital audit and map which buyer clusters align with your platform’s leverage footprint.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

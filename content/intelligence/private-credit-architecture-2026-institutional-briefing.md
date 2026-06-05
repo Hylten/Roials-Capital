@@ -1,11 +1,16 @@
 ---
-title: "The Evolution of Private Credit in 2026: The New Architecture of Institutional Liquidity"
-description: "A clinical institutional briefing on the macro regime shift in global private credit, structural liquidity mechanics, balance sheet optimization, and the emerging capital architecture shaping Fund-III+ buyout execution, ABL liquidity engineering, and North American energy acquisitions in 2026."
-date: "2026-01-29"
-author: "Roials Capital (Institutional Briefing)"
-slug: "private-credit-architecture-2026-institutional-briefing"
+title: >-
+  The Evolution of Private Credit in 2026: The New Architecture of Institutional
+  Liquidity
+description: >-
+  A clinical institutional briefing on the macro regime shift in global private
+  credit, structural liquidity mechanics, balance sheet optimization, and the
+  emerging capital architecture shaping Fund-III+ buyout execution, ABL
+  liquidity engineering, and North American energy acquisitions in 2026.
+date: '2026-01-29'
+author: Roials Capital (Institutional Briefing)
+slug: private-credit-architecture-2026-institutional-briefing
 ---
-
 The structural gap defining the 2026 private credit cycle is the result of central bank persistence, capital market fragmentation, and the withdrawal of traditional bank lending capacity.
 
 This dislocation reflects regulatory inertia rather than systemic weakness in underlying middle market cash flows.
@@ -300,12 +305,3 @@ A confidential strategy audit provides the allocator with a non promotional, tec
 
 It ensures that all decisions operate within the principles of stewardship, capital discipline, and structural coherence. [END OF INSTITUTIONAL BRIEFING]
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

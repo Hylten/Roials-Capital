@@ -1,11 +1,10 @@
 ---
-title: "Precision Mechanics Of Transnational Capital Migra"
-description: "Precision Mechanics Of Transnational Capital Migra"
-date: "2026-01-13"
-author: "Jonas Hyltén"
-slug: "precision-mechanics-of-transnational-capital-migra"
+title: Precision Mechanics Of Transnational Capital Migra
+description: Precision Mechanics Of Transnational Capital Migra
+date: '2026-01-13'
+author: Jonas Hyltén
+slug: precision-mechanics-of-transnational-capital-migra
 ---
-
 # Precision Mechanics of Transnational Capital Migration Transnational capital does not drift. It relocates with intention, covenant, and structural discipline.
 
 For principals operating above the $25M threshold, capital migration is not a matter of geography.
@@ -40,9 +39,9 @@ Transnational capital migration must reflect:
 
 Every structure must stand.
 
-Every corridor must serve THE MANDAT
+Every corridor must serve THE MANDATE
 
-E. Every allocation must strengthen the house, not expose it.
+. Every allocation must strengthen the house, not expose it.
 
 Closing Position Capital migration is precision. Not sentiment.
 
@@ -66,14 +65,4 @@ To evaluate current structures.
 
 Request confidential audit.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

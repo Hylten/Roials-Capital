@@ -1,11 +1,13 @@
 ---
-title: "The Sovereign Capital Architecture: Building Multi‑Generational Liquidity"
-description: "A deep institutional analysis of the Sovereign Capital Architecture and how Roials Capital engineers multi generational liquidity through structured private credit, asset backed design, and sovereign level financial governance."
-date: "2025-07-12"
-author: "Jonas Hyltén"
-slug: "the-sovereign-capital-architecture-building-multigenerational-liquidity"
+title: 'The Sovereign Capital Architecture: Building Multi‑Generational Liquidity'
+description: >-
+  A deep institutional analysis of the Sovereign Capital Architecture and how
+  Roials Capital engineers multi generational liquidity through structured
+  private credit, asset backed design, and sovereign level financial governance.
+date: '2025-07-12'
+author: Jonas Hyltén
+slug: the-sovereign-capital-architecture-building-multigenerational-liquidity
 ---
-
 # The Sovereign Capital Architecture: Building Multi Generational Liquidity The institutions that endure are not the institutions that move fast. They are the institutions that build frameworks.
 
 They create the rules, then operate inside the rules they create.
@@ -329,38 +331,3 @@ The architecture must remain intact under stress.
 Roials Capital does not predict the future.
 
 It prepares for all futures simultaneously.
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
-
-## Conclusion
-
-Institutions Do Not Survive by Accident They survive by architecture.
-
-They survive by systems that produce stability independent of external conditions.
-
-They survive by ensuring that capital remains sovereign.
-
-The Sovereign Capital Architecture is not only a methodology.
-
-It is a doctrine of continuity.
-
-It is a framework for liquidity that does not fracture.
-
-It is a model where assets and credit operate as a unified organism.
-
-It is a structure designed to expand when others contract.
-
-This is how multi generational liquidity is built.
-
-This is how institutional capital becomes sovereign.
-
-Request confidential audit 
-
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.

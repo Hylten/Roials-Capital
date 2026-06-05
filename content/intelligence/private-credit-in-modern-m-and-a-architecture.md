@@ -1,11 +1,14 @@
 ---
-title: "The Power of Private Credit in Modern M&A Architecture"
-description: "A technical institutional briefing on how private credit now functions as the primary liquidity engine in global M&A, with emphasis on buyout mechanics, balance sheet optimization, and the capital formation demands of Fund-III environments."
-date: "2025-09-05"
-author: "Roials Capital (Institutional Briefing)"
-slug: "private-credit-in-modern-m-and-a-architecture"
+title: The Power of Private Credit in Modern M&A Architecture
+description: >-
+  A technical institutional briefing on how private credit now functions as the
+  primary liquidity engine in global M&A, with emphasis on buyout mechanics,
+  balance sheet optimization, and the capital formation demands of Fund-III
+  environments.
+date: '2025-09-05'
+author: Roials Capital (Institutional Briefing)
+slug: private-credit-in-modern-m-and-a-architecture
 ---
-
 The capital vacuum shaping Western markets is the predictable consequence of regulatory compression, bank de-risking, and the declining risk appetite of traditional lenders.
 
 This vacuum is not a reflection of weaker assets.
@@ -194,12 +197,3 @@ Private credit is the mechanism that converts these gaps into functional M&A arc
 
 Roials Capital operates as the institutional partner that translates this landscape into actionable strategy. [END OF BRIEFING]
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

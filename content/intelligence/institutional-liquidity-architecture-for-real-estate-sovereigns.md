@@ -1,11 +1,13 @@
 ---
-title: "Institutional Liquidity Architecture for Real Estate Sovereigns"
-description: "A high-authority examination of institutional liquidity mechanics for real estate sovereigns, with emphasis on private credit and asset based liquidity engineering frameworks."
-date: "2025-07-21"
-author: "Jonas Hyltén"
-slug: "institutional-liquidity-architecture-for-real-estate-sovereigns"
+title: Institutional Liquidity Architecture for Real Estate Sovereigns
+description: >-
+  A high-authority examination of institutional liquidity mechanics for real
+  estate sovereigns, with emphasis on private credit and asset based liquidity
+  engineering frameworks.
+date: '2025-07-21'
+author: Jonas Hyltén
+slug: institutional-liquidity-architecture-for-real-estate-sovereigns
 ---
-
 # Institutional Liquidity for Real Estate Sovereigns Real estate at sovereign scale requires a liquidity framework that is not transactional. It requires a structural one.
 
 The landscape has shifted.
@@ -158,14 +160,4 @@ For HNWI and UHNW operators, this is the requirement.
 
 For sovereigns, this is the standard.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

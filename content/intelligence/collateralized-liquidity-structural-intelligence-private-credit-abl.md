@@ -1,11 +1,15 @@
 ---
-title: "The Mechanics of Collateralized Liquidity: Structural Intelligence for Private Credit and Asset-Based Lending"
-description: "Institutional briefing on collateralized liquidity architecture, LTV control systems, cash‑flow mechanics, and capital raising protocols for Fund-III buyouts and Asset-Based Lending structures."
-date: "2025-09-16"
-author: "Jonas Hyltén"
-slug: "collateralized-liquidity-structural-intelligence-private-credit-abl"
+title: >-
+  The Mechanics of Collateralized Liquidity: Structural Intelligence for Private
+  Credit and Asset-Based Lending
+description: >-
+  Institutional briefing on collateralized liquidity architecture, LTV control
+  systems, cash‑flow mechanics, and capital raising protocols for Fund-III
+  buyouts and Asset-Based Lending structures.
+date: '2025-09-16'
+author: Jonas Hyltén
+slug: collateralized-liquidity-structural-intelligence-private-credit-abl
 ---
-
 Order is not an option.
 
 It is the prerequisite for all solvency.
@@ -304,16 +308,6 @@ EXIT The sole metric that matters: liquidity coverage ratio must stabilize above
 
 62 within 90 days of transaction close.
 
-Minimum target size: $5M+....
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

@@ -1,11 +1,16 @@
 ---
-title: "The Mandate Of Discrete Capital Deployment Across North American Energy And Institutional Buyout Frameworks"
-description: "Institutional briefing on the structural mandate for targeted capital deployment across North American energy, buyouts, liquidity engineering, and special cross jurisdictional mandates, with emphasis on Alberta heavy oil physics, capital gaps, and the Roials Capital introduction architecture."
-date: "2026-02-01"
-author: "Roials Capital (Institutional Briefing)"
-slug: "mandate-of-discrete-capital-deployment"
+title: >-
+  The Mandate Of Discrete Capital Deployment Across North American Energy And
+  Institutional Buyout Frameworks
+description: >-
+  Institutional briefing on the structural mandate for targeted capital
+  deployment across North American energy, buyouts, liquidity engineering, and
+  special cross jurisdictional mandates, with emphasis on Alberta heavy oil
+  physics, capital gaps, and the Roials Capital introduction architecture.
+date: '2026-02-01'
+author: Roials Capital (Institutional Briefing)
+slug: mandate-of-discrete-capital-deployment
 ---
-
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion.
 
 Institutional allocators navigating 2026 face a regime where capital scarcity, operational bottlenecks, and mispriced subsurface physics combine to produce one of the most misunderstood structural gaps in the global market.
@@ -234,14 +239,4 @@ The tools are institutional introductions, strategic mapping, and situational de
 
 # 
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

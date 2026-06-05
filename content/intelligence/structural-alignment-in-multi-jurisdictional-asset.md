@@ -1,11 +1,10 @@
 ---
-title: "Structural Alignment In Multi Jurisdictional Asset"
-description: "Structural Alignment In Multi Jurisdictional Asset"
-date: "2025-07-15"
-author: "Jonas Hyltén"
-slug: "structural-alignment-in-multi-jurisdictional-asset"
+title: Structural Alignment In Multi Jurisdictional Asset
+description: Structural Alignment In Multi Jurisdictional Asset
+date: '2025-07-15'
+author: Jonas Hyltén
+slug: structural-alignment-in-multi-jurisdictional-asset
 ---
-
 # Structural Alignment in Multi Jurisdictional Asset Hardening Institutional capital does not flow toward the loud. It flows toward the aligned.
 
 Structural alignment is the core instrument that determines whether a high net worth principal or an institutional allocator views a cross border asset position as investable or as a latent liability.
@@ -436,14 +435,4 @@ Alignment is destiny.
 
 CTA Request confidential audi t 
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

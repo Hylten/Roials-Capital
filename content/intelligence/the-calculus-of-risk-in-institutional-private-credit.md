@@ -1,11 +1,14 @@
 ---
-title: "The Calculus of Risk in Institutional Private Credit"
-description: "A technical briefing on the structural mechanics, capital inefficiencies, and institutional risk architecture shaping Private Credit across North America and Europe, with emphasis on Fund-III buyout financing, Liquidity Engineering, and strategic mandates in energy."
-date: "2025-07-17"
-author: "Roials Capital (Institutional Briefing)"
-slug: "the-calculus-of-risk-in-institutional-private-credit"
+title: The Calculus of Risk in Institutional Private Credit
+description: >-
+  A technical briefing on the structural mechanics, capital inefficiencies, and
+  institutional risk architecture shaping Private Credit across North America
+  and Europe, with emphasis on Fund-III buyout financing, Liquidity Engineering,
+  and strategic mandates in energy.
+date: '2025-07-17'
+author: Roials Capital (Institutional Briefing)
+slug: the-calculus-of-risk-in-institutional-private-credit
 ---
-
 The capital vacuum in North American and European private credit is not a consequence of risk escalation.
 
 It is the product of regulatory drift that has structurally constrained traditional lenders while simultaneously expanding the operational demands of mid market and upper mid market corporates.
@@ -232,12 +235,3 @@ For allocators evaluating Fund-III sequencing and cross border credit demands, a
 
 For mandates in energy, NAEO's operational transparency provides a uniquely measurable platform for assessing heavy oil collateral and production longevity. [END OF BRIEFING]
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

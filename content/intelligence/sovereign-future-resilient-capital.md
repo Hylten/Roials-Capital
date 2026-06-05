@@ -1,14 +1,15 @@
 ---
-title: "The Sovereign Future: Building Resilient Capital Across Cycles"
-description: "Institutional briefing on structural capital inefficiencies, North American energy arbitrage, Liquidity Engineering, and the strategic alignment pathways for allocators navigating Fund-III buyout regimes."
-date: "2025-08-25"
-author: "Roials Capital (Institutional Briefing)"
-slug: "sovereign-future-resilient-capital"
+title: 'The Sovereign Future: Building Resilient Capital Across Cycles'
+description: >-
+  Institutional briefing on structural capital inefficiencies, North American
+  energy arbitrage, Liquidity Engineering, and the strategic alignment pathways
+  for allocators navigating Fund-III buyout regimes.
+date: '2025-08-25'
+author: Roials Capital (Institutional Briefing)
+slug: sovereign-future-resilient-capital
 ---
-
 The capital vacuum in North America’s energy sector is a consequence of regulatory drift, not resource depletion.
 
-Allocators operating in 2026 are confronting a structural misalignment between where institutional capital concentrates and where the most predictable, physics anchored cash flows remain Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
 
@@ -210,14 +211,5 @@ Allocators navigating this regime shift benefit from partners who operate withou
 
 The sovereign future of capital favors disciplined stewards, not momentum seekers.
 
-Roials Capital remains positioned as a strategic navigator for those requiring neutral operational intelligence and structured Access is restricted to approved mandates.
 
 Minimum mandate depth: $5M+ target size.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

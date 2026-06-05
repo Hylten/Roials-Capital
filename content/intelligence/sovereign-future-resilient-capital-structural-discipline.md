@@ -1,11 +1,16 @@
 ---
-title: "The Sovereign Future: Building Resilient Capital Through Structural Discipline and Institutional Navigation"
-description: "An institutional analysis of the capital regime shift reshaping global allocation mandates, with emphasis on strategic capital formation, Alberta energy hard-asset mechanics, and multi-jurisdictional balance sheet optimization for allocators navigating 2026 capital scarcity cycles."
-date: "2025-12-10"
-author: "Roials Capital (Institutional Briefing)"
-slug: "sovereign-future-resilient-capital-structural-discipline"
+title: >-
+  The Sovereign Future: Building Resilient Capital Through Structural Discipline
+  and Institutional Navigation
+description: >-
+  An institutional analysis of the capital regime shift reshaping global
+  allocation mandates, with emphasis on strategic capital formation, Alberta
+  energy hard-asset mechanics, and multi-jurisdictional balance sheet
+  optimization for allocators navigating 2026 capital scarcity cycles.
+date: '2025-12-10'
+author: Roials Capital (Institutional Briefing)
+slug: sovereign-future-resilient-capital-structural-discipline
 ---
-
 The capital vacuum in North America’s energy sector is a consequence of regulatory drift, not resource depletion.
 
 This vacuum is now interacting with a global shift toward balance sheet hardening, reserve based recalibration, and institutionally enforced liquidity thresholds that shape allocator behavior more than nominal interest rates.
@@ -208,12 +213,3 @@ Roials Capital provides confidential strategy audits and portfolio calibration m
 
 The objective is strategic navigation, not product distribution. [END OF BRIEFING]
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

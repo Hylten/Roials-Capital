@@ -1,11 +1,17 @@
 ---
-title: "Institutional Standards for Private liquidity engineering Agreements: The Roials Capital Framework"
-description: "A high-authority analysis of institutional protocols for private credit and asset based Asset-Backed Frameworks, focused on liquidity, collateral integrity, and high net worth execution."
-date: "2025-09-05"
-author: "Jonas Hyltén"
-slug: "institutional-standards-for-private-liquidity-engineering-agreements-the-Roials Capital-framework"
+title: >-
+  Institutional Standards for Private liquidity engineering Agreements: The
+  Roials Capital Framework
+description: >-
+  A high-authority analysis of institutional protocols for private credit and
+  asset based Asset-Backed Frameworks, focused on liquidity, collateral
+  integrity, and high net worth execution.
+date: '2025-09-05'
+author: Jonas Hyltén
+slug: >-
+  institutional-standards-for-private-liquidity-engineering-agreements-the-Roials
+  Capital-framework
 ---
-
 # Institutional Standards for Private Capital Structuring Agreements Roials Capital Architecture for High Net Worth Liquidity Protocols Private Asset-Backed Frameworks at the institutional tier is not formed from negotiation. It is shaped through architecture.
 
 Roials Capital operates in that domain.
@@ -176,11 +182,11 @@ The goal is precision.
 
 The Mechanics of Institutional Grade Agreements Private Asset-Backed Frameworks agreements at this level follow a specific sequence. Each
 
-### Phase I: s deliberate. Each phase eliminates a category of risk.
+### Phase I is deliberate. Each phase eliminates a category of risk.
 
 Phase One: Collateral Audit The first
 
-### Step I: s a structural audit of the collateral. We examine:
+### Step I is a structural audit of the collateral. We examine:
 
 - Ownership.
 
@@ -306,14 +312,4 @@ We architect for it.
 
 Request Your Confidential Audit For clients who require liquidity engineered at institutional precision, Roials Capital provides a confidential structural audit of collateral and Monetization Architecture capacity. 
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

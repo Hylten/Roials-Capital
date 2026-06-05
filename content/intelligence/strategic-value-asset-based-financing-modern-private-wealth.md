@@ -1,11 +1,14 @@
 ---
-title: "The Strategic Value of Asset Based Financing for Modern Private Wealth"
-description: "An institutional briefing on the role of asset based financing as a balance sheet discipline that enhances liquidity engineering, capital optionality, and structural resilience for UHNW families, private offices, and GP platforms navigating the 2026 macro regime."
-date: "2025-08-28"
-author: "Roials Capital (Institutional Briefing)"
-slug: "strategic-value-asset-based-financing-modern-private-wealth"
+title: The Strategic Value of Asset Based Financing for Modern Private Wealth
+description: >-
+  An institutional briefing on the role of asset based financing as a balance
+  sheet discipline that enhances liquidity engineering, capital optionality, and
+  structural resilience for UHNW families, private offices, and GP platforms
+  navigating the 2026 macro regime.
+date: '2025-08-28'
+author: Roials Capital (Institutional Briefing)
+slug: strategic-value-asset-based-financing-modern-private-wealth
 ---
-
 The capital vacuum in North American private markets is no longer cyclical.
 
 It is structural.
@@ -216,12 +219,3 @@ Principals seeking to understand the structural opportunities in ABL often reque
 
 The purpose is to map the existing balance sheet architecture, identify latent liquidity zones, and determine where asset hardening, collateral structuring, or jurisdictional repositioning can increase opportunity velocity. [END OF BRIEFING]
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

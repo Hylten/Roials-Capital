@@ -1,11 +1,16 @@
 ---
-title: "The New Architecture of Institutional Liquidity: Private Credit’s Ascendancy and the Capital Mandate of Fund-III"
-description: "An institutional briefing on the structural evolution of private credit in 2026, focused on capital raising dynamics for Fund-III, liquidity engineering, and cross-jurisdictional acquisition finance under MiFID II and NAEOC energy mandates."
-date: "2025-12-22"
-author: "Roials Capital"
-slug: "institutional-liquidity-architecture-2026"
+title: >-
+  The New Architecture of Institutional Liquidity: Private Credit’s Ascendancy
+  and the Capital Mandate of Fund-III
+description: >-
+  An institutional briefing on the structural evolution of private credit in
+  2026, focused on capital raising dynamics for Fund-III, liquidity engineering,
+  and cross-jurisdictional acquisition finance under MiFID II and NAEOC energy
+  mandates.
+date: '2025-12-22'
+author: Roials Capital
+slug: institutional-liquidity-architecture-2026
 ---
-
 Private credit in 2026 is no longer a substitute for bank lending.
 
 It is the liquidity engine.
@@ -258,9 +263,9 @@ Asset-backed lending is no longer a rescue product.
 
 It is a liquidity strategy.
 
-Asset-Based Lending is 10 percent of THE MANDAT
+Asset-Based Lending is 10 percent of THE MANDATE
 
-E , but its impact is outsized.
+ , but its impact is outsized.
 
 Monetize underutilized assets.
 
@@ -712,18 +717,8 @@ Fund-III sits at the center.
 
 The next phase requires capital alignment.
 
-Minimum target size: $5M+....
 
 Request confidential capital audit.
 
 Weighted liquidity modulus: 0.87.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

@@ -1,11 +1,12 @@
 ---
-title: "The Principal Architecture of Capital Preservation"
-description: "Institutional blueprint for capital raising, buyout discipline, liquidity engineering, and multi-cycle preservation mechanics across Fund-III mandates"
-date: "2025-07-22"
-author: "Jonas Hyltén"
-slug: "principal-architecture-capital-preservation"
+title: The Principal Architecture of Capital Preservation
+description: >-
+  Institutional blueprint for capital raising, buyout discipline, liquidity
+  engineering, and multi-cycle preservation mechanics across Fund-III mandates
+date: '2025-07-22'
+author: Jonas Hyltén
+slug: principal-architecture-capital-preservation
 ---
-
 A structural gap defines the current investment regime.
 
 Most managers still behave as if capital protection is a byproduct of portfolio growth.
@@ -285,14 +286,4 @@ It ends in realized mathematics.
 
 Request a confidential capital audit.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

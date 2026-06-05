@@ -1,11 +1,13 @@
 ---
-title: "Institutional Grade Infrastructure for Asset Hardening"
-description: "High conviction framework for capital hardening mechanics, Asset-Based Lending liquidity engineering, and private market acquisition readiness for Fund-III scale structures"
-date: "2026-01-27"
-author: "Roials Capital"
-slug: "institutional-grade-asset-hardening"
+title: Institutional Grade Infrastructure for Asset Hardening
+description: >-
+  High conviction framework for capital hardening mechanics, Asset-Based Lending
+  liquidity engineering, and private market acquisition readiness for Fund-III
+  scale structures
+date: '2026-01-27'
+author: Roials Capital
+slug: institutional-grade-asset-hardening
 ---
-
 Order does not appear by accident.
 
 It is engineered through constraints, enforced through governance, and preserved by capital structures that cannot fracture under volatility.
@@ -289,16 +291,6 @@ The technical metric that governs every structure we deploy is this: The hardene
 
 This is the institutional threshold.
 
-Minimum target size: $5M+....
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

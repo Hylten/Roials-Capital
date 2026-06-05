@@ -1,11 +1,13 @@
 ---
-title: "Asset‑Based Liquidity Engineering as a Primary Sovereign Mandate for Fund‑III"
-description: "Institutional brief on capital raising dynamics, asset‑based Capital Structuring, and sovereign‑grade acquisition architecture for Fund‑III buyouts and strategic Asset-Based Lending programs."
-date: "2026-01-02"
-author: "Roials Capital"
-slug: "asset-based-liquidity-engineering-sovereign-mandate-Fund-III"
+title: Asset‑Based Liquidity Engineering as a Primary Sovereign Mandate for Fund‑III
+description: >-
+  Institutional brief on capital raising dynamics, asset‑based Capital
+  Structuring, and sovereign‑grade acquisition architecture for Fund‑III buyouts
+  and strategic Asset-Based Lending programs.
+date: '2026-01-02'
+author: Roials Capital
+slug: asset-based-liquidity-engineering-sovereign-mandate-Fund-III
 ---
-
 Asset-based Capital Structuring is no longer a derivative discipline.
 
 It is a primary sovereign mandate.
@@ -444,14 +446,4 @@ Alignment determines acceleration.
 
 Mandate Reference: LQR‑Δ 47.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

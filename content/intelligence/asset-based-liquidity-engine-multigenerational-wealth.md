@@ -1,11 +1,15 @@
 ---
-title: "Asset‑Based Liquidity Engineering as the Structural Engine of Multi‑Generational Wealth"
-description: "Institutional brief on capital formation strategy, Asset-Based Lending-driven Strategic Collateralization, and the architecture of multi‑generational asset hardening for Fund‑III and GP/LP mandates."
-date: "2025-09-04"
-author: "Roials Capital"
-slug: "asset-based-liquidity-engine-multigenerational-wealth"
+title: >-
+  Asset‑Based Liquidity Engineering as the Structural Engine of
+  Multi‑Generational Wealth
+description: >-
+  Institutional brief on capital formation strategy, Asset-Based Lending-driven
+  Strategic Collateralization, and the architecture of multi‑generational asset
+  hardening for Fund‑III and GP/LP mandates.
+date: '2025-09-04'
+author: Roials Capital
+slug: asset-based-liquidity-engine-multigenerational-wealth
 ---
-
 The structural premise is simple.
 
 Wealth persists only when it detaches from the operating life of the founder and attaches to the asset life of the enterprise.
@@ -457,14 +461,4 @@ Confidential capital audit available on request.
 
 Mandate threshold: DSCR > 1.35x.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

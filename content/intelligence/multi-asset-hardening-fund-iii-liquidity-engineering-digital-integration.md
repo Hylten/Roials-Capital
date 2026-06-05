@@ -1,11 +1,16 @@
 ---
-title: "Multi Asset Hardening for Fund-III: Integrating Digital Assets Into Institutional Liquidity Engineering Architecture"
-description: "Institutional briefing on cross-asset hardening, Monetization Architecture, and the integration of digital asset primitives into Fund-III capital formation and balance sheet optimization mandates for UHNWIs, institutional LPs, and GP sponsors."
-date: "2025-08-07"
-author: "Roials Capital (Institutional Briefing)"
-slug: "multi-asset-hardening-Fund-III-liquidity-engineering-digital-integration"
+title: >-
+  Multi Asset Hardening for Fund-III: Integrating Digital Assets Into
+  Institutional Liquidity Engineering Architecture
+description: >-
+  Institutional briefing on cross-asset hardening, Monetization Architecture,
+  and the integration of digital asset primitives into Fund-III capital
+  formation and balance sheet optimization mandates for UHNWIs, institutional
+  LPs, and GP sponsors.
+date: '2025-08-07'
+author: Roials Capital (Institutional Briefing)
+slug: multi-asset-hardening-Fund-III-liquidity-engineering-digital-integration
 ---
-
 The capital vacuum in multi asset markets is not a function of volatility, but a structural reclassification of usable collateral across institutional balance sheets.
 
 The shift is driven by Basel III endgame calibration, MiFID II reporting pressures, and the accelerated migration toward digital settlement primitives that institutional allocators previously treated as speculative.
@@ -258,14 +263,4 @@ This architecture positions Fund-III for accelerated close cycles, higher operat
 
 The appropriate next step for allocators evaluating this landscape is a confidential Strategy Audit or Portfolio Calibration, where capital architecture can be mapped against regulatory constraints, liquidity targets, and long horizon objectives.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

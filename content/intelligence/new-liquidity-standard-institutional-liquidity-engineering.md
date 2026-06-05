@@ -1,11 +1,13 @@
 ---
-title: "The New Liquidity Standard for + Holders"
-description: "Institutional liquidity engineering for concentrated public equity positions. Private credit structuring, LTV discipline, and Fund-III capital architecture for UHNWIs and GPs."
-date: "2025-10-08"
-author: "Jonas Hyltén"
-slug: "new-liquidity-standard-institutional-liquidity-engineering"
+title: The New Liquidity Standard for + Holders
+description: >-
+  Institutional liquidity engineering for concentrated public equity positions.
+  Private credit structuring, LTV discipline, and Fund-III capital architecture
+  for UHNWIs and GPs.
+date: '2025-10-08'
+author: Jonas Hyltén
+slug: new-liquidity-standard-institutional-liquidity-engineering
 ---
-
 A structural gap defines every capital era.
 
 In this one, the public markets created a liquidity myth.
@@ -364,16 +366,6 @@ The technical threshold is
 
 180 day volatility band.
 
-Minimum target size: $5M+....
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

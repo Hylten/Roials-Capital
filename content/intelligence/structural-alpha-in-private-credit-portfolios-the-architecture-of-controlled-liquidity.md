@@ -1,11 +1,16 @@
 ---
-title: "Structural Alpha in Private Credit Portfolios: The Architecture of Controlled Liquidity"
-description: "An institutional examination of structural alpha within private credit and asset based liquidity engineering frameworks, engineered for HNWI and UHNW liquidity optimization."
-date: "2025-12-10"
-author: "Jonas Hyltén"
-slug: "structural-alpha-in-private-credit-portfolios-the-architecture-of-controlled-liquidity"
+title: >-
+  Structural Alpha in Private Credit Portfolios: The Architecture of Controlled
+  Liquidity
+description: >-
+  An institutional examination of structural alpha within private credit and
+  asset based liquidity engineering frameworks, engineered for HNWI and UHNW
+  liquidity optimization.
+date: '2025-12-10'
+author: Jonas Hyltén
+slug: >-
+  structural-alpha-in-private-credit-portfolios-the-architecture-of-controlled-liquidity
 ---
-
 # Structural Alpha in Private Credit Portfolios Structural alpha is not a market phenomenon. It is an engineering outcome.
 
 It is the product of design, governance, and liquidity architecture that is executed with precision rather than hoped for.
@@ -228,14 +233,4 @@ Architecture is the method.
 
 Request confidential audit 
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

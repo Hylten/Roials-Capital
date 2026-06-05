@@ -1,11 +1,13 @@
 ---
-title: "Sovereign Stewardship and the New Mandate for Private Capital"
-description: "Institutional brief on Fund-III capital formation, jurisdictional positioning, and sovereign-aligned private market architecture for buyouts, add-ons, and energy-transition mandates."
-date: "2025-08-13"
-author: "Roials Capital"
-slug: "sovereign-stewardship-private-capital-mandate"
+title: Sovereign Stewardship and the New Mandate for Private Capital
+description: >-
+  Institutional brief on Fund-III capital formation, jurisdictional positioning,
+  and sovereign-aligned private market architecture for buyouts, add-ons, and
+  energy-transition mandates.
+date: '2025-08-13'
+author: Roials Capital
+slug: sovereign-stewardship-private-capital-mandate
 ---
-
 Sovereign stewardship begins where legacy capital retreats.
 
 The global allocation curve is bending again.
@@ -420,14 +422,4 @@ Structure through disciplined capital.
 
 For institutional LP/GP partners prepared to anchor into this mandate, initiate a confidential capital audit to determine alignment bandwidth, deployment windows, and cross‑jurisdictional positioning.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

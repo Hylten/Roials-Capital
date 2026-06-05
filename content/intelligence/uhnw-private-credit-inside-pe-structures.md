@@ -1,11 +1,13 @@
 ---
-title: "Principal Briefing on UHNW Expansion into Private Credit within PE Structures"
-description: "Institutional analysis on why ultra‑high‑net‑worth capital is migrating toward private credit embedded in PE architecture, with emphasis on Fund-III dynamics, control premiums, and multi-jurisdictional liquidity posture."
-date: "2025-12-23"
-author: "Roials Capital"
-slug: "uhnw-private-credit-inside-pe-structures"
+title: Principal Briefing on UHNW Expansion into Private Credit within PE Structures
+description: >-
+  Institutional analysis on why ultra‑high‑net‑worth capital is migrating toward
+  private credit embedded in PE architecture, with emphasis on Fund-III
+  dynamics, control premiums, and multi-jurisdictional liquidity posture.
+date: '2025-12-23'
+author: Roials Capital
+slug: uhnw-private-credit-inside-pe-structures
 ---
-
 They move first.
 
 Quietly.
@@ -124,12 +126,3 @@ It moves accordingly.
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

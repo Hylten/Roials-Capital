@@ -1,11 +1,13 @@
 ---
-title: "Silent Authority on the Modern Balance Sheet"
-description: "Institutional brief on capital formation for Fund-III, buyout-capable liquidity engineering, and mandate-driven acquisition structuring across US/EU regimes."
-date: "2025-12-19"
-author: "Roials Capital"
-slug: "silent-authority-modern-balance-sheet"
+title: Silent Authority on the Modern Balance Sheet
+description: >-
+  Institutional brief on capital formation for Fund-III, buyout-capable
+  liquidity engineering, and mandate-driven acquisition structuring across US/EU
+  regimes.
+date: '2025-12-19'
+author: Roials Capital
+slug: silent-authority-modern-balance-sheet
 ---
-
 principal authority is not a stylistic choice.
 
 It is the operating layer beneath every capital‑intensive institution that survives past its first growth cycle.
@@ -70,9 +72,9 @@ It is the unseen moat surrounding Fund-III strategies and their add-on programs.
 
 Capital raising first.
 
-Eighty percent of THE MANDAT
+Eighty percent of THE MANDATE
 
-E. Kapitalanskaffning as a discipline, not an activity.
+. Kapitalanskaffning as a discipline, not an activity.
 
 LP horizons changed.
 
@@ -488,14 +490,4 @@ Request a confidential capital audit to determine your current authority delta.
 
 Terminal metric: 1.6x liquidity coverage ratio.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

@@ -1,11 +1,16 @@
 ---
-title: "Structural Alpha in Asset Based Liquidity Engineering: Engineered Reliability Across Institutional Balance Sheets"
-description: "Institutional briefing on the structural gap in North American energy, the mechanics of asset based liquidity engineering, and the role of Roials Capital as a strategic partner for Fund-III capital formation and institutional grade acquisition pathways."
-date: "2025-06-25"
-author: "Roials Capital (Institutional Briefing)"
-slug: "structural-alpha-liquidity-engineering-engineered-reliability"
+title: >-
+  Structural Alpha in Asset Based Liquidity Engineering: Engineered Reliability
+  Across Institutional Balance Sheets
+description: >-
+  Institutional briefing on the structural gap in North American energy, the
+  mechanics of asset based liquidity engineering, and the role of Roials Capital
+  as a strategic partner for Fund-III capital formation and institutional grade
+  acquisition pathways.
+date: '2025-06-25'
+author: Roials Capital (Institutional Briefing)
+slug: structural-alpha-liquidity-engineering-engineered-reliability
 ---
-
 The capital vacuum in North American energy is a consequence of regulatory drift, not resource depletion.
 
 This dislocation has triggered a secondary structural phenomenon: balance sheets with high quality collateral sets are unable to access liquidity proportional to their intrinsic asset reliability.
@@ -192,12 +197,3 @@ Roials Capital conducts confidential strategy audits for allocators seeking to c
 
 The objective is to map structural constraints, identify reliability anchors, and align the allocator with institutional grade partners such as NAEO where relevant.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

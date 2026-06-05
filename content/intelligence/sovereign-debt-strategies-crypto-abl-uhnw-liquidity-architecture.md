@@ -1,11 +1,15 @@
 ---
-title: "Sovereign Debt Strategies and the Flight to Crypto Backed ABL: The New Architecture for UHNW Liquidity"
-description: "Institutional briefing on the structural debt realignment, sovereign duration stress, and the emergence of crypto collateral as a non correlated liquidity rail for UHNW balance sheet optimization and buyout capital formation."
-date: "2025-09-15"
-author: "Roials Capital (Institutional Briefing)"
-slug: "sovereign-debt-strategies-crypto-abl-uhnw-liquidity-architecture"
+title: >-
+  Sovereign Debt Strategies and the Flight to Crypto Backed ABL: The New
+  Architecture for UHNW Liquidity
+description: >-
+  Institutional briefing on the structural debt realignment, sovereign duration
+  stress, and the emergence of crypto collateral as a non correlated liquidity
+  rail for UHNW balance sheet optimization and buyout capital formation.
+date: '2025-09-15'
+author: Roials Capital (Institutional Briefing)
+slug: sovereign-debt-strategies-crypto-abl-uhnw-liquidity-architecture
 ---
-
 The capital vacuum in global sovereign debt is the foreseeable product of duration mismatch, demographic compression, and declining fiscal elasticity.
 
 Rising nominal issuance does not indicate rising capacity.
@@ -272,12 +276,3 @@ Roials Capital serves as the strategic partner for allocator calibration, lender
 
 A confidential Strategy Audit can map the optimal liquidity configuration for Fund-III commitments, balance sheet optimization, or pre acquisition positioning. [END OF BRIEFING]
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

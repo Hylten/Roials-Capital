@@ -1,16 +1,15 @@
 ---
-title: "Structural Integrity: The Roials Capital Underwrit"
-description: "Structural Integrity: The Roials Capital Underwrit"
-date: "2025-11-25"
-author: "Jonas Hyltén"
-slug: "structural-integrity-the-Roials Capital-underwrit"
+title: 'Structural Integrity: The Roials Capital Underwrit'
+description: 'Structural Integrity: The Roials Capital Underwrit'
+date: '2025-11-25'
+author: Jonas Hyltén
+slug: structural-integrity-the-Roials Capital-underwrit
 ---
-
 # Structural Integrity The Roials Capital Underwriting Standard Roials Capital operates on a single premise. Structural integrity is not a preference.
 
-It is THE MANDAT
+It is THE MANDATE
 
-E. Institutional capital flows toward order.
+. Institutional capital flows toward order.
 
 Weak structures repel capital.
 
@@ -402,32 +401,3 @@ These structures amplify:
 - risk insulation We do not advertise them.
 
 We evaluate who earns access.
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
-
-## Conclusion
-
-Structural Integrity Is the Differentiator Markets reward order. Capital rewards structure.
-
-Institutions reward stewardship.
-
-Roials Capital underwrites for alignment with these principles.
-
-A principal with structural integrity gains accelerated access to liquidity.
-
-A principal without it receives immediate disengagement.
-
-The standard is absolute.
-
-THE MANDAT E
-
-is stewardship.
-
-The outcome is asset hardening at institutional scale.
-
-Request confidential audit ...

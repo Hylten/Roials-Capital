@@ -1,11 +1,15 @@
 ---
-title: "Liquidity Architecture for Fund-III Expansion: Structural Mechanics for Institutional-Grade Capital"
-description: "An institutional analysis of liquidity architecture, private credit, and asset based liquidity engineering designed for HNWI and UHNW capital expansion."
-date: "2025-08-12"
-author: "Jonas Hyltén"
-slug: "liquidity-architecture-for-Fund-III-expansion-structural-mechanics-for-institutional-grade-capital"
+title: >-
+  Liquidity Architecture for Fund-III Expansion: Structural Mechanics for
+  Institutional-Grade Capital
+description: >-
+  An institutional analysis of liquidity architecture, private credit, and asset
+  based liquidity engineering designed for HNWI and UHNW capital expansion.
+date: '2025-08-12'
+author: Jonas Hyltén
+slug: >-
+  liquidity-architecture-for-Fund-III-expansion-structural-mechanics-for-institutional-grade-capital
 ---
-
 # Liquidity Architecture for Fund-III Expansion Roials Capital operates in a domain where liquidity is not a convenience. Liquidity is the instrument that sets the rhythm for capital velocity, credit formation, and controlled expansion.
 
 Fund-III was designed with a singular purpose.
@@ -279,26 +283,3 @@ The architecture is the defense.
 The architecture is also the advantage.
 
 It is the reason Fund-III can expand without diluting quality.
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
-
-## Conclusion
-
-Liquidity is not simply provided at Roials Capital.
-
-It is constructed with institutional discipline.
-
-Fund-III represents the next evolution of that discipline.
-
-A liquidity architecture built for HNWI and UHNW participants who require stability, precision, and structural authority.
-
-If your capital framework requires institutional liquidity with architectural clarity, request confidential audit.
-
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.

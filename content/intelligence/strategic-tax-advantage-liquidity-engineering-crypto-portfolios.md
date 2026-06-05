@@ -1,11 +1,13 @@
 ---
-title: "The Strategic Tax Advantage of Liquidity Engineering Against Crypto Portfolios"
-description: "A technical institutional briefing on balance sheet optimization for crypto-heavy allocators through liquidity engineering, structured credit, and tax aligned repositioning within Fund-III buyout architecture."
-date: "2025-09-22"
-author: "Roials Capital (Institutional Briefing)"
-slug: "strategic-tax-advantage-liquidity-engineering-crypto-portfolios"
+title: The Strategic Tax Advantage of Liquidity Engineering Against Crypto Portfolios
+description: >-
+  A technical institutional briefing on balance sheet optimization for
+  crypto-heavy allocators through liquidity engineering, structured credit, and
+  tax aligned repositioning within Fund-III buyout architecture.
+date: '2025-09-22'
+author: Roials Capital (Institutional Briefing)
+slug: strategic-tax-advantage-liquidity-engineering-crypto-portfolios
 ---
-
 The capital vacuum in digitally native portfolios is not driven by weakness in blockchain infrastructure.
 
 It is the direct outcome of regulatory divergence, tax friction, and the absence of institutional liquidity structures capable of stabilizing balance sheet outcomes for crypto exposed allocators.
@@ -192,12 +194,3 @@ A confidential portfolio calibration allows an allocator to understand:
 
 The process is governed, compliant, neutral, and institutionally designed. [END OF INSTITUTIONAL BRIEFING]
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

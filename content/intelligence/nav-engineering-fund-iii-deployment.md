@@ -1,11 +1,13 @@
 ---
-title: "NAV Lines as the Mid‑Market Catalyst for Rapid Fund‑III Deployment"
-description: "Principal briefing on how mid‑market GPs are engineering NAV-based facilities to compress deployment cycles, sharpen add‑on velocity, and strengthen liquidity tiers across Fund‑III structures."
-date: "2025-08-02"
-author: "Roials Capital"
-slug: "nav-engineering-Fund-III-deployment"
+title: NAV Lines as the Mid‑Market Catalyst for Rapid Fund‑III Deployment
+description: >-
+  Principal briefing on how mid‑market GPs are engineering NAV-based facilities
+  to compress deployment cycles, sharpen add‑on velocity, and strengthen
+  liquidity tiers across Fund‑III structures.
+date: '2025-08-02'
+author: Roials Capital
+slug: nav-engineering-Fund-III-deployment
 ---
-
 Mid‑market GPs are no longer treating NAV facilities as a late‑cycle liquidity patch.
 
 They are building them as primary engines.
@@ -96,12 +98,3 @@ Fund‑III rewards those who act before they are forced.
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

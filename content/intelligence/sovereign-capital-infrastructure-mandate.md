@@ -1,11 +1,13 @@
 ---
-title: "The Sovereign Infrastructure Mandate"
-description: "Institutional briefing on the regime shift in sovereign capital architecture, private credit hardening, Fund-III capital formation, and the structural redesign of national liquidity systems."
-date: "2026-02-07"
-author: "Jonas Hyltén"
-slug: "sovereign-capital-infrastructure-mandate"
+title: The Sovereign Infrastructure Mandate
+description: >-
+  Institutional briefing on the regime shift in sovereign capital architecture,
+  private credit hardening, Fund-III capital formation, and the structural
+  redesign of national liquidity systems.
+date: '2026-02-07'
+author: Jonas Hyltén
+slug: sovereign-capital-infrastructure-mandate
 ---
-
 A sovereign balance sheet collapses in silence long before it collapses in public.
 
 The structural gap always appears first inside the liquidity spine of the state: the infrastructure that aggregates collateral, transforms risk, and transmits credit into productive capacity.
@@ -178,9 +180,9 @@ Build an architecture where capital moves with precision, assets are acquired wi
 
 The structure divides into three pillars.
 
-### Pillar I: Kapitalanskaffning for Fund-III and Fund-IV adjacency. Eighty percent of THE MANDAT
+### Pillar I: Kapitalanskaffning for Fund-III and Fund-IV adjacency. Eighty percent of THE MANDATE
 
-E is directed toward capital formation for buyouts and add-ons.
+ is directed toward capital formation for buyouts and add-ons.
 
 The target classes are operators with defensible cash flows and hard-asset moats.
 
@@ -198,9 +200,9 @@ We serve the first two, not the third.
 
 Asset-Backed Frameworks through institutional Asset-Based Lending.
 
-Ten percent of THE MANDAT
+Ten percent of THE MANDATE
 
-E is structured around asset-based lending for operators with temporary liquidity mismatches.
+ is structured around asset-based lending for operators with temporary liquidity mismatches.
 
 This is the most misunderstood part of sovereign capital infrastructure.
 
@@ -214,9 +216,9 @@ It forces precision.
 
 When used inside sovereign-linked ecosystems, it creates a parallel system of discipline that outperforms public credit channels.
 
-### Pillar III: Special mandates in energy and regulated acquisitions. Ten percent of THE MANDAT
+### Pillar III: Special mandates in energy and regulated acquisitions. Ten percent of THE MANDATE
 
-E focuses on mandates in:
+ focuses on mandates in:
 
 - North American Energy Operators Consortium (NAEOC) for 50M to 250M transactions.
 
@@ -319,14 +321,4 @@ A fund survives on the precision of its governance.
 
 For LPs, family offices, and institutional allocators requiring a confidential capital audit for Fund-III positioning, initiate contact under secure channel.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

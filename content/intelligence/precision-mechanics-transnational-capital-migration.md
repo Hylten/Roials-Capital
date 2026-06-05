@@ -1,11 +1,15 @@
 ---
-title: "Precision Mechanics of Transnational Capital Migration in the 2026 Institutional Cycle"
-description: "Analyst-grade assessment of regulatory drift, capital displacement, and cross-jurisdictional allocation patterns shaping Fund-III capital formation, North American energy matching, and liquidity engineering mandates."
-date: "2025-08-11"
-author: "Roials Capital (Institutional Briefing)"
-slug: "precision-mechanics-transnational-capital-migration"
+title: >-
+  Precision Mechanics of Transnational Capital Migration in the 2026
+  Institutional Cycle
+description: >-
+  Analyst-grade assessment of regulatory drift, capital displacement, and
+  cross-jurisdictional allocation patterns shaping Fund-III capital formation,
+  North American energy matching, and liquidity engineering mandates.
+date: '2025-08-11'
+author: Roials Capital (Institutional Briefing)
+slug: precision-mechanics-transnational-capital-migration
 ---
-
 The current migration of institutional capital across North America, Europe, and the Gulf states is a structural consequence of regulatory divergence, not a shift in allocator risk appetite.
 
 Capital is not searching for higher returns.
@@ -232,12 +236,3 @@ It is a portfolio calibration exercise designed to map the allocator’s capital
 
 2026. [END OF BRIEFING]
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

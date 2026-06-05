@@ -1,11 +1,14 @@
 ---
-title: "Institutional Grade Infrastructure for Asset Hardening"
-description: "A technical memorandum for institutional allocators outlining structural gaps in North American energy, capital inefficiencies in lower mid market buyouts, and the infrastructure required for balance sheet optimization and asset hardening across Fund-III+ mandates."
-date: "2026-01-18"
-author: "Roials Capital (Institutional Briefing)"
-slug: "institutional-grade-asset-hardening-infrastructure"
+title: Institutional Grade Infrastructure for Asset Hardening
+description: >-
+  A technical memorandum for institutional allocators outlining structural gaps
+  in North American energy, capital inefficiencies in lower mid market buyouts,
+  and the infrastructure required for balance sheet optimization and asset
+  hardening across Fund-III+ mandates.
+date: '2026-01-18'
+author: Roials Capital (Institutional Briefing)
+slug: institutional-grade-asset-hardening-infrastructure
 ---
-
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion.
 
 This structural gap has created an environment where conventional heavy oil assets, supported by known decline curves and predictable pressure regimes, have become the most stable collateral architecture available to institutional allocators seeking real-asset durability and counter cyclical ballast.
@@ -268,14 +271,4 @@ Roials Capital’s role is to provide institutional LPs and GPs with a neutral, 
 
 For allocators requiring deeper visibility, a confidential strategy audit or portfolio calibration can map the assets, liabilities, and operational ranges that define their current posture.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

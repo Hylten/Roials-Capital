@@ -1,11 +1,16 @@
 ---
-title: "Multi‑Asset Hardening for Fund-III: Integrating Digital Assets Into Institutional liquidity engineering Architecture"
-description: "Institutional overview of Asset-Backed Frameworks and asset based Strategic Collateralization, with a focus on digital asset integration for HNWI and UHNW clients."
-date: "2026-01-19"
-author: "Jonas Hyltén"
-slug: "multiasset-hardening-for-Fund-III-integrating-digital-assets-into-institutional-liquidity-engineerin"
+title: >-
+  Multi‑Asset Hardening for Fund-III: Integrating Digital Assets Into
+  Institutional liquidity engineering Architecture
+description: >-
+  Institutional overview of Asset-Backed Frameworks and asset based Strategic
+  Collateralization, with a focus on digital asset integration for HNWI and UHNW
+  clients.
+date: '2026-01-19'
+author: Jonas Hyltén
+slug: >-
+  multiasset-hardening-for-Fund-III-integrating-digital-assets-into-institutional-liquidity-engineerin
 ---
-
 # Multi Asset Hardening for Fund-III Integrating Digital Assets Into Institutional Asset-Backed Frameworks Architecture Multi asset hardening has become a defining requirement for HNWI and UHNW allocators who manage cross class exposure in an environment of rising structural fragility. The architecture that supports Fund-III operations must create stability across liquid and semi liquid instruments, and it must do so without distorting capital behavior or disrupting long range risk modeling.
 
 At Roials Capital,
@@ -225,34 +230,3 @@ HNWI and UHNW clients understand that the next decade will reward those who main
 Multi asset hardening is a discipline that produces that control.
 
 Fund-III is the practical expression of that discipline.
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
-
-## Conclusion
-
-A More Resilient Architecture for Institutional Scale Multi asset hardening is not a strategy.
-
-It is infrastructure.
-
-It allows Roials Capital to deliver liquidity to clients without compromising the integrity of their portfolios.
-
-It brings digital assets into alignment with private credit and Asset-Based Lending.
-
-It creates a stable environment for high scale capital.
-
-Fund-III operates on principal authority.
-
-The architecture is precise.
-
-The rules are defined.
-
-Clients who require cross asset liquidity without structural distortion operate here.
-
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.

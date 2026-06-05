@@ -1,11 +1,15 @@
 ---
-title: "The Mechanics of Institutional Capital Migration Across Cycles and Jurisdictions"
-description: "A clinical examination of allocator behavior, cross-cycle capital migration mechanics, and structural alignment models relevant to private credit, buyout platforms, and North American energy operating mandates."
-date: "2026-03-03"
-author: "Roials Capital (Institutional Briefing)"
-slug: "mechanics-of-institutional-capital-migration"
+title: >-
+  The Mechanics of Institutional Capital Migration Across Cycles and
+  Jurisdictions
+description: >-
+  A clinical examination of allocator behavior, cross-cycle capital migration
+  mechanics, and structural alignment models relevant to private credit, buyout
+  platforms, and North American energy operating mandates.
+date: '2026-03-03'
+author: Roials Capital (Institutional Briefing)
+slug: mechanics-of-institutional-capital-migration
 ---
-
 The capital vacuum shaping North American hard-asset sectors is a direct function of institutional regulatory drift rather than any degradation in underlying asset productivity.
 
 Over the last five cycles, allocators have executed a predictable migration pattern driven by compliance frameworks, liquidity constraints, currency blocks, and the structural gravitational pull of cash-flow certainty.
@@ -184,14 +188,4 @@ This dialogue is not a solicitation.
 
 It is a structural assessment designed to map institutional objectives to the current capital migration regime.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

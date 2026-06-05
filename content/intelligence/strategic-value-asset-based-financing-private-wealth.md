@@ -1,11 +1,15 @@
 ---
-title: "The Strategic Value of Asset Based Financing for Modern Private Wealth"
-description: "Institutional briefing on the capital regime shift driving Asset Based Financing, its role in liquidity engineering, private equity acquisition velocity, and its integration into UHNW and institutional balance sheet optimization. Includes structural analysis of North American energy and the relevance of NAEO for specialized mandates."
-date: "2026-01-06"
-author: "Roials Capital (Institutional Briefing)"
-slug: "strategic-value-asset-based-financing-private-wealth"
+title: The Strategic Value of Asset Based Financing for Modern Private Wealth
+description: >-
+  Institutional briefing on the capital regime shift driving Asset Based
+  Financing, its role in liquidity engineering, private equity acquisition
+  velocity, and its integration into UHNW and institutional balance sheet
+  optimization. Includes structural analysis of North American energy and the
+  relevance of NAEO for specialized mandates.
+date: '2026-01-06'
+author: Roials Capital (Institutional Briefing)
+slug: strategic-value-asset-based-financing-private-wealth
 ---
-
 The capital vacuum shaping North American and European private markets is the predictable outcome of duration mispricing, regulatory recalibration, and institutional retreat, not of declining asset quality.
 
 Asset Based Financing has emerged as a stabilizing mechanism within this regime shift, providing private wealth holders and institutional allocators a disciplined tool for liquidity engineering, portfolio recalibration, and acquisition sequencing.
@@ -246,12 +250,3 @@ Roials Capital supports these assessments through confidential strategy audits a
 
 The objective is precise: strengthen the allocator's position within the modern private capital regime and ensure long term composure. [END OF INSTITUTIONAL BRIEFING]
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

@@ -1,11 +1,13 @@
 ---
-title: "Deep Liquidity Architecture for Fund‑III Mobilization"
-description: "Institutional blueprint for multi‑jurisdictional capital formation, cross‑border liquidity engineering, and hard‑asset credit structuring for Fund‑III buyout velocity."
-date: "2026-02-24"
-author: "Roials Capital | Principal Investigator"
-slug: "deep-liquidity-architecture-Fund-III-mobilization"
+title: Deep Liquidity Architecture for Fund‑III Mobilization
+description: >-
+  Institutional blueprint for multi‑jurisdictional capital formation,
+  cross‑border liquidity engineering, and hard‑asset credit structuring for
+  Fund‑III buyout velocity.
+date: '2026-02-24'
+author: Roials Capital | Principal Investigator
+slug: deep-liquidity-architecture-Fund-III-mobilization
 ---
-
 A deep-liquidity architecture never emerges from tactical capital raising.
 
 It emerges from jurisdictional engineering, structural asymmetry, and the control of velocity points across the GP-LP continuum.
@@ -306,7 +308,7 @@ Purpose: create cross‑border leverage optionality.
 
 This
 
-### Layer I: s the institutional attractor. # Layer C
+### Layer I is the institutional attractor. # Layer C
 
 - Jurisdictional Operational Hubs Assets must sit in operational jurisdictions matched to their legal, tax, and cash‑flow requirements.
 
@@ -488,14 +490,4 @@ MANDATE: INITIATE A CONFIDENTIAL CAPITAL AUDIT FOR FUND‑III TO ASCERTAIN LIQUI
 
 Technical Metric: Target 1.62x Net‑Liquidity Coverage Ratio across all Fund‑III hard‑asset pools.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

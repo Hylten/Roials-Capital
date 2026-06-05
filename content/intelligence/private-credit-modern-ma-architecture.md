@@ -1,11 +1,13 @@
 ---
-title: "The Power of Private Credit in Modern M&A Architecture"
-description: "Institutional briefing on the structural role of private credit in contemporary M&A architecture, focusing on capital stack dynamics, liquidity engineering, and strategic alignment for UHNWIs and institutional allocators."
-date: "2025-08-14"
-author: "Roials Capital (Institutional Briefing)"
-slug: "private-credit-modern-ma-architecture"
+title: The Power of Private Credit in Modern M&A Architecture
+description: >-
+  Institutional briefing on the structural role of private credit in
+  contemporary M&A architecture, focusing on capital stack dynamics, liquidity
+  engineering, and strategic alignment for UHNWIs and institutional allocators.
+date: '2025-08-14'
+author: Roials Capital (Institutional Briefing)
+slug: private-credit-modern-ma-architecture
 ---
-
 The liquidity imbalance in North American and European corporate markets is not a temporary condition.
 
 It is the predictable outcome of a regulatory cycle that increasingly restricts bank balance sheets while accelerating demand for precision capital capable of stabilizing acquisition pipelines.
@@ -194,12 +196,3 @@ THE REGIME SHIFT reshaping modern M&A architecture.
 
 Allocators requiring sector specific calibration, transaction level visibility, or operator matched introductions can proceed to a confidential strategy audit designed to align institutional objectives with market reality. [END OF INSTITUTIONAL BRIEFING]
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

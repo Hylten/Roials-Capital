@@ -1,11 +1,15 @@
 ---
-title: "The Sovereign Liquidity Codex: Designing Facilities That Do Not Break Under Pressure"
-description: "Institutional-grade framework detailing sovereign liquidity facility mechanics, priority-of-claim structuring, collateral sequencing, and macro regime interactions for Fund-III capital formation."
-date: "2025-12-14"
-author: "Jonas Hyltén"
-slug: "sovereign-liquidity-facility-precision-architecture"
+title: >-
+  The Sovereign Liquidity Codex: Designing Facilities That Do Not Break Under
+  Pressure
+description: >-
+  Institutional-grade framework detailing sovereign liquidity facility
+  mechanics, priority-of-claim structuring, collateral sequencing, and macro
+  regime interactions for Fund-III capital formation.
+date: '2025-12-14'
+author: Jonas Hyltén
+slug: sovereign-liquidity-facility-precision-architecture
 ---
-
 A sovereign balance sheet does not collapse due to a shortage of capital.
 
 It collapses due to a shortage of liquidity pathways.
@@ -260,14 +264,4 @@ The final discipline is simple: a sovereign facility must maintain a minimum 1.
 
 Request a confidential capital audit.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

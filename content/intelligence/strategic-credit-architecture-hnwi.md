@@ -1,11 +1,13 @@
 ---
-title: "Strategic Credit Architecture for High‑Net‑Worth Entrepreneurs"
-description: "Institutional-grade credit architecture for Fund-III capital formation, private buyouts, liquidity engineering, and energy mandates under MiFID II and NAEOC parameters."
-date: "2025-07-30"
-author: "Jonas Hyltén"
-slug: "strategic-credit-architecture-hnwi"
+title: Strategic Credit Architecture for High‑Net‑Worth Entrepreneurs
+description: >-
+  Institutional-grade credit architecture for Fund-III capital formation,
+  private buyouts, liquidity engineering, and energy mandates under MiFID II and
+  NAEOC parameters.
+date: '2025-07-30'
+author: Jonas Hyltén
+slug: strategic-credit-architecture-hnwi
 ---
-
 A mispriced covenant structure always reveals the fracture point of an ecosystem long before the market acknowledges it.
 
 The gap shows up in second-order effects: subdued recovery projections, muted sponsor participation, and credit files that hide operational decay behind cosmetic EBITDA bridges.
@@ -224,9 +226,9 @@ THE STEWARDSHIP FILTER The entrepreneur faces a different burden than a fund man
 
 They are stewarding what has been entrusted to them. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
-* frames THE MANDAT
+* frames THE MANDATE
 
-E. Capital is a tool for multi‑generational preservation, not an instrument for impulsive expansion.
+. Capital is a tool for multi‑generational preservation, not an instrument for impulsive expansion.
 
 The stewardship filter removes waste.
 
@@ -280,14 +282,4 @@ EXIT Fund-III operators who follow this discipline achieve a singular objective:
 
 Request a confidential capital audit.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

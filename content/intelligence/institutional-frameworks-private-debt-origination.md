@@ -1,11 +1,16 @@
 ---
-title: "Institutional Frameworks for Private Debt Origination in a Fragmented Capital Regime"
-description: "A clinical institutional briefing on private debt origination mechanics, capital stack structuring, LTV discipline, and the role of Roials Capital as a strategic partner in Fund-III capital formation, Asset-Based Lending liquidity engineering, and special mandates across North America and the EU."
-date: "2025-07-05"
-author: "Roials Capital (Institutional Briefing)"
-slug: "institutional-frameworks-private-debt-origination"
+title: >-
+  Institutional Frameworks for Private Debt Origination in a Fragmented Capital
+  Regime
+description: >-
+  A clinical institutional briefing on private debt origination mechanics,
+  capital stack structuring, LTV discipline, and the role of Roials Capital as a
+  strategic partner in Fund-III capital formation, Asset-Based Lending liquidity
+  engineering, and special mandates across North America and the EU.
+date: '2025-07-05'
+author: Roials Capital (Institutional Briefing)
+slug: institutional-frameworks-private-debt-origination
 ---
-
 The structural gap defining private debt origination in 2026 is the direct result of regulatory divergence and capital flight from traditional credit markets, not a deterioration in underlying asset performance.
 
 This shift has created a predictable regime where institutional allocators with disciplined underwriting frameworks can access opportunities characterized by quantifiable collateral physics, transparent decline curves in energy, and operationally anchored cash flow structures across middle market buyouts.
@@ -192,14 +197,4 @@ A confidential strategy audit can identify alignment between the allocator’s m
 
 The objective is calibration: ensuring the portfolio reflects institutional grade stability and long horizon stewardship.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

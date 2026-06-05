@@ -1,11 +1,13 @@
 ---
-title: "Architecture of Capital: Engineered Sovereignty"
-description: "Institutional brief on sovereign-grade capital architecture, Fund-III mobilization, liquidity engineering, and cross‑jurisdictional acquisition structuring for LP/GP mandates."
-date: "2025-09-15"
-author: "Roials Capital"
-slug: "architecture-of-capital-engineered-sovereignty"
+title: 'Architecture of Capital: Engineered Sovereignty'
+description: >-
+  Institutional brief on sovereign-grade capital architecture, Fund-III
+  mobilization, liquidity engineering, and cross‑jurisdictional acquisition
+  structuring for LP/GP mandates.
+date: '2025-09-15'
+author: Roials Capital
+slug: architecture-of-capital-engineered-sovereignty
 ---
-
 Sovereignty is engineered, not inherited.
 
 Capital forms the substrate.
@@ -456,20 +458,10 @@ Fund‑III is not a fund.
 
 It is a sovereign engine for acquisition, compression, and mobility across real‑world assets.
 
-Engineered sovereignty is THE MANDAT
+Engineered sovereignty is THE MANDATE
 
-E. REQUEST For LP/GP alignment, cross‑jurisdictional preparation, and mandate intake, initiate a confidential capital audit. Terminal Metric: Enforcement Latency Target = <
+. REQUEST For LP/GP alignment, cross‑jurisdictional preparation, and mandate intake, initiate a confidential capital audit. Terminal Metric: Enforcement Latency Target = <
 
 72 hours.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

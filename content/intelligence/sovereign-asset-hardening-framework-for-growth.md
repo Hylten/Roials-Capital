@@ -1,11 +1,14 @@
 ---
-title: "Sovereign Asset Hardening: The Framework for Growth"
-description: "Institutional briefing on sovereign grade asset hardening, capital stack calibration, liquidity engineering, and North American energy structural arbitrage for Fund-III+. Technical architecture for UHNWIs, institutional LPs, and GP partners seeking regime shift aligned deployment."
-date: "2025-09-03"
-author: "Roials Capital (Institutional Briefing)"
-slug: "sovereign-asset-hardening-framework-for-growth"
+title: 'Sovereign Asset Hardening: The Framework for Growth'
+description: >-
+  Institutional briefing on sovereign grade asset hardening, capital stack
+  calibration, liquidity engineering, and North American energy structural
+  arbitrage for Fund-III+. Technical architecture for UHNWIs, institutional LPs,
+  and GP partners seeking regime shift aligned deployment.
+date: '2025-09-03'
+author: Roials Capital (Institutional Briefing)
+slug: sovereign-asset-hardening-framework-for-growth
 ---
-
 The capital vacuum in North America's energy sector is a consequence of regulatory drift, not resource depletion.
 
 Institutional allocators who treat this vacuum as a structural feature rather than a temporary dislocation are finding that the most durable returns do not originate from speculative themes but from assets already engineered for predictable operational trajectories.
@@ -296,12 +299,3 @@ INTRODUCTION pathways for allocators seeking sovereign alignment.
 
 The objective is disciplined clarity, not solicitation. [END OF BRIEFING]
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

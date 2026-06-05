@@ -1,11 +1,13 @@
 ---
-title: "The Sovereign Future: Architecting Resilient Capital for Fund-III and Beyond"
-description: "Institutional brief on sovereign-capital construction, multi‑jurisdictional funding lanes, and hard-asset liquidity engineering for Fund-III buyouts, add‑ons, and special mandates in energy and regulated European markets."
-date: "2025-10-24"
-author: "Roials Capital"
-slug: "sovereign-future-resilient-capital-architecture"
+title: 'The Sovereign Future: Architecting Resilient Capital for Fund-III and Beyond'
+description: >-
+  Institutional brief on sovereign-capital construction, multi‑jurisdictional
+  funding lanes, and hard-asset liquidity engineering for Fund-III buyouts,
+  add‑ons, and special mandates in energy and regulated European markets.
+date: '2025-10-24'
+author: Roials Capital
+slug: sovereign-future-resilient-capital-architecture
 ---
-
 Resilience is not a slogan.
 
 Resilience is engineered.
@@ -444,23 +446,13 @@ This is the design.
 
 This is the direction.
 
-This is THE MANDAT
+This is THE MANDATE
 
-E. Exit on conviction.
+. Exit on conviction.
 
 Target compounding horizon: 18.
 7 years.
 
 To proceed, request a confidential capital audit.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

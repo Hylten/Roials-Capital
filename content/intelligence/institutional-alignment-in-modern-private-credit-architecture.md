@@ -1,11 +1,12 @@
 ---
-title: "Institutional Alignment in Modern Private Credit Architecture"
-description: "A high‑authority analysis of liquidity, private credit, and asset based liquidity engineering frameworks for HNWI and UHNW portfolios."
-date: "2025-07-23"
-author: "Jonas Hyltén"
-slug: "institutional-alignment-in-modern-private-credit-architecture"
+title: Institutional Alignment in Modern Private Credit Architecture
+description: >-
+  A high‑authority analysis of liquidity, private credit, and asset based
+  liquidity engineering frameworks for HNWI and UHNW portfolios.
+date: '2025-07-23'
+author: Jonas Hyltén
+slug: institutional-alignment-in-modern-private-credit-architecture
 ---
-
 # Institutional Alignment in Private Credit Strategy Institutional alignment in private credit is not a matter of preference. It is a matter of structural integrity.
 
 HNWI and UHNW participants operate within architectures that require precision.
@@ -55,32 +56,3 @@ HNWI and UHNW participants understand that governance is not a cost.
 It is an asset.
 
 Within private credit, it is the definitive competitive advantage.
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
-
-## Conclusion
-
-Institutional Alignment as a Strategic Imperative Private credit, supported by Asset-Based Lending architecture, becomes a structural advantage when governed with precision.
-
-Institutional alignment ensures that every component of the credit system reflects stability, transparency, and long horizon durability.
-
-Roials Capital builds these systems deliberately.
-
-The thresholds are intentional.
-
-The rules are non negotiable.
-
-The architecture is engineered to deliver predictable liquidity for sophisticated capital holders.
-
-For HNWI and UHNW individuals, alignment is not optional.
-
-It is the only way to ensure that credit functions as an asset rather than a liability.
-
-Minimum target size: $5M+....
-
-Access is restricted to approved mandates.

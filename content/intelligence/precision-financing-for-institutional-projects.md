@@ -1,11 +1,12 @@
 ---
-title: "Precision Financing for Institutional Projects"
-description: "High-trust liquidity solutions through private credit and asset based liquidity engineering for institutional-scale projects and UHNW mandates."
-date: "2025-11-03"
-author: "Jonas Hyltén"
-slug: "precision-financing-for-institutional-projects"
+title: Precision Financing for Institutional Projects
+description: >-
+  High-trust liquidity solutions through private credit and asset based
+  liquidity engineering for institutional-scale projects and UHNW mandates.
+date: '2025-11-03'
+author: Jonas Hyltén
+slug: precision-financing-for-institutional-projects
 ---
-
 # Precision Financing for Institutional Projects Institutional projects require a level of accuracy that is non‑negotiable. They rely on capital structures that hold under scrutiny, withstand friction, and deliver liquidity without disturbing strategic positions.
 
 Roials Capital operates inside this exact corridor.
@@ -38,14 +39,4 @@ This is precision financing.
 
 This is Roials Capital.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

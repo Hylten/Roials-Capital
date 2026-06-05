@@ -1,11 +1,13 @@
 ---
-title: "The Principal Architecture of Collateralized Liquidity"
-description: "Institutional analysis of liquidity engineering, collateralized flow mechanics, and capital hardening frameworks for Private Credit, Asset-Based Lending, and Fund-III buyout structures."
-date: "2025-11-15"
-author: "Jonas Hyltén"
-slug: "collateralized-liquidity-architecture"
+title: The Principal Architecture of Collateralized Liquidity
+description: >-
+  Institutional analysis of liquidity engineering, collateralized flow
+  mechanics, and capital hardening frameworks for Private Credit, Asset-Based
+  Lending, and Fund-III buyout structures.
+date: '2025-11-15'
+author: Jonas Hyltén
+slug: collateralized-liquidity-architecture
 ---
-
 A liquidity system collapses when the collateral stack is misaligned with the cash cycle.
 
 This is the structural gap that quietly erodes private credit portfolios.
@@ -252,9 +254,9 @@ Stewardship is not theology placed on top of finance.
 
 Stewardship is the only framework that prevents waste. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
-* anchors THE MANDAT
+* anchors THE MANDATE
 
-E. A good man leaves an inheritance to his children's children.
+. A good man leaves an inheritance to his children's children.
 
 This is not a sentiment.
 
@@ -302,14 +304,4 @@ That is the institutional threshold.
 
 For a confidential capital audit, initiate contact.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

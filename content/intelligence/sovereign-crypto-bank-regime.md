@@ -1,11 +1,12 @@
 ---
-title: "The Sovereign Crypto Bank Regime"
-description: "Institutional thesis on sovereign-grade digital balance sheets, liquidity engineering, and the Fund-III capital formation horizon for UHNW allocators."
-date: "2026-02-10"
-author: "Jonas Hyltén"
-slug: "sovereign-crypto-bank-regime"
+title: The Sovereign Crypto Bank Regime
+description: >-
+  Institutional thesis on sovereign-grade digital balance sheets, liquidity
+  engineering, and the Fund-III capital formation horizon for UHNW allocators.
+date: '2026-02-10'
+author: Jonas Hyltén
+slug: sovereign-crypto-bank-regime
 ---
-
 A structural gap is widening beneath the feet of global allocators.
 
 Sovereigns are building balance sheets in real time using crypto rails while private markets remain anchored to settlement cycles designed for the 1970s.
@@ -160,9 +161,9 @@ Waste is sin.
 
 Disorder is sin. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
 
-* sets THE MANDAT
+* sets THE MANDATE
 
-E : wealth is to endure across generations.
+ : wealth is to endure across generations.
 
 That endurance requires structure.
 
@@ -200,14 +201,4 @@ EXIT The institutional mandate is simple. Reduce liquidity latency to sub
 
 Request a confidential capital audit.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

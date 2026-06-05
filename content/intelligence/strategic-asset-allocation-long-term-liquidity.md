@@ -1,11 +1,15 @@
 ---
-title: "Strategic Asset Allocation for Long‑Term Liquidity: The Architecture of Durable Capital"
-description: "Institutional brief on capital durability, liquidity engineering, buyout structures, and multi‑jurisdictional asset design optimized for Fund-III capital raising and long‑horizon private markets."
-date: "2025-09-06"
-author: "Roials Capital"
-slug: "strategic-asset-allocation-long-term-liquidity"
+title: >-
+  Strategic Asset Allocation for Long‑Term Liquidity: The Architecture of
+  Durable Capital
+description: >-
+  Institutional brief on capital durability, liquidity engineering, buyout
+  structures, and multi‑jurisdictional asset design optimized for Fund-III
+  capital raising and long‑horizon private markets.
+date: '2025-09-06'
+author: Roials Capital
+slug: strategic-asset-allocation-long-term-liquidity
 ---
-
 Durable capital is not an idea.
 
 It is an operating stance.
@@ -552,14 +556,4 @@ Conviction reached.
 
 Provide confidential capital audit data to initiate structural mapping.
 
-Minimum target size: $5M+....
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

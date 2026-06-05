@@ -1,11 +1,16 @@
 ---
-title: "Structural Alpha in Private Credit Portfolios: The Architecture of Controlled Liquidity"
-description: "Institutional briefing on controlled liquidity mechanics, structural alpha in private credit, balance sheet optimization, and the capital formation architecture supporting Fund-III buyouts, ABL liquidity engineering, and specialized energy mandates."
-date: "2026-01-29"
-author: "Roials Capital (Institutional Briefing)"
-slug: "structural-alpha-private-credit-controlled-liquidity"
+title: >-
+  Structural Alpha in Private Credit Portfolios: The Architecture of Controlled
+  Liquidity
+description: >-
+  Institutional briefing on controlled liquidity mechanics, structural alpha in
+  private credit, balance sheet optimization, and the capital formation
+  architecture supporting Fund-III buyouts, ABL liquidity engineering, and
+  specialized energy mandates.
+date: '2026-01-29'
+author: Roials Capital (Institutional Briefing)
+slug: structural-alpha-private-credit-controlled-liquidity
 ---
-
 The capital vacuum in North American private credit is the result of covenant compression and regulatory displacement, not a deterioration of underlying asset quality.
 
 Allocators observing the current lending regime are identifying a persistent structural dislocation: liquidity is scarce in the segments where cash flow predictability is highest and capital discipline is most measurable.
@@ -200,12 +205,3 @@ Fund-III strategies, asset backed liquidity engineering, and specialized mandate
 
 Institutions requiring deeper calibration can request a confidential Strategy Audit to map their existing allocation framework against controlled liquidity mechanics, identify structural gaps, and define their institutional archetype for the current regime. [END OF BRIEFING]
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

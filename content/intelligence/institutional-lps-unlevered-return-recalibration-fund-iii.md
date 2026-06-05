@@ -1,11 +1,17 @@
 ---
-title: "The Principal Compression: Why Institutional LPs Demand Higher Unlevered Returns in Fund‑III and Beyond"
-description: "A private Principal briefing on LP return recalibration, compression dynamics, and the new hierarchy shaping Fund‑III+ capital formation. Deep institutional analysis for GP leadership navigating modern capital scarcity, multi‑jurisdictional structuring, and the elevated bar for unlevered performance."
-date: "2026-03-04"
-author: "Roials Capital"
-slug: "institutional-lps-unlevered-return-recalibration-Fund-III"
+title: >-
+  The Principal Compression: Why Institutional LPs Demand Higher Unlevered
+  Returns in Fund‑III and Beyond
+description: >-
+  A private Principal briefing on LP return recalibration, compression dynamics,
+  and the new hierarchy shaping Fund‑III+ capital formation. Deep institutional
+  analysis for GP leadership navigating modern capital scarcity,
+  multi‑jurisdictional structuring, and the elevated bar for unlevered
+  performance.
+date: '2026-03-04'
+author: Roials Capital
+slug: institutional-lps-unlevered-return-recalibration-Fund-III
 ---
-
 The pressure is real.
 
 Quiet.
@@ -52,7 +58,7 @@ Long-horizon capital cannot meet its liabilities if it tolerates low unlevered f
 
 The institution is not emotional.
 
-• The second is a macro decoupling.
+- The second is a macro decoupling.
 
 Interest environments shifted.
 
@@ -336,12 +342,3 @@ A Principal never hides from the architecture.
 
 - Request confidential capital audit.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.

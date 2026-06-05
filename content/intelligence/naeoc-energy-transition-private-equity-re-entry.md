@@ -1,11 +1,13 @@
 ---
-title: "The Principal’s Position on NAEOC‑Scale Energy Transition Buyouts"
-description: "A private capital briefing on why $50M–$250M energy-transition control deals are re‑magnetizing infrastructure LPs and re‑opening the mid‑market for Fund‑III capital formation."
-date: "2026-02-04"
-author: "Roials Capital"
-slug: "naeoc-energy-transition-private-equity-re-entry"
+title: The Principal’s Position on NAEOC‑Scale Energy Transition Buyouts
+description: >-
+  A private capital briefing on why $50M–$250M energy-transition control deals
+  are re‑magnetizing infrastructure LPs and re‑opening the mid‑market for
+  Fund‑III capital formation.
+date: '2026-02-04'
+author: Roials Capital
+slug: naeoc-energy-transition-private-equity-re-entry
 ---
-
 The center of gravity is shifting.
 
 Quietly.
@@ -369,12 +371,3 @@ We open the door only when the posture is correct.
 
 Request confidential capital audit.
 
-Access is restricted to approved mandates.
-
-TECHNICAL MANDATE
-
-Qualification Gates strictly observed for comprehensive structural execution.
-
-Access is restricted to approved mandates.
-
-Minimum target size: $5M+.
