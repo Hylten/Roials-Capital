@@ -46,7 +46,7 @@ Borrower Behaviour and Structural Influence Borrowers respond to structure. Stru
 
 Structure is a behavioural architecture. When rules are explicit and continuous, borrower deviation becomes unlikely. The facility therefore reduces the requirement for subjective judgment. Instead, behaviour is shaped by engineered defaults. For example:
 
-- balance sheet optimization base shortfalls trigger automatic reductions.
+- Balance sheet optimization base shortfalls trigger automatic reductions.
 
 - Collateral ineligibles isolate contamination.
 
@@ -62,7 +62,7 @@ Enforcement geometry governs the lender’s strategic posture. Four elements def
 
 Control of receivables 3. Control of inventory 4. Control of liquidation pathways Facilities built with strong geometry transition from early warning to enforcement without structural drift. Every
 
-### Step I is discretely mapped. Every outcome is probabilistic rather than speculative.
+### step is discretely mapped. Every outcome is probabilistic rather than speculative.
 
 This eliminates chaos during distress. Chaos is the enemy of alpha.
 
@@ -74,15 +74,15 @@ It is generated through design. Roials Capital employs a sequence-driven framewo
 
 Asset Behaviour Mapping Each class of collateral is modelled for liquidation physics, conversion friction, and volatility under stress.
 
-### Step I:
+### Step II:
 
 Structural Compression Advance rates, reserves, and covenants compress risk into statistically predictable bands.
 
-### Step II:
+### Step III:
 
 Behavioural Engineering Reporting intervals, lockboxes, and balance sheet optimization base mechanics shape borrower actions.
 
-### Step I:
+### Step IV:
 
 Execution Readiness Clear enforcement pathways ensure the structure remains intact without negotiation.
 
