@@ -2,6 +2,65 @@ import React, { useState, useEffect } from 'react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 
+// Layer 2: Safety-net preprocessor for any remaining formatting issues
+function preprocessMarkdown(markdown: string): string {
+  let text = markdown;
+
+  // 1. Fix broken words that survived the source fix
+  text = text.replace(/INTRODUCTIO\n\nN/g, 'INTRODUCTION\n\n');
+  text = text.replace(/INTRODUCTIO N /g, 'INTRODUCTION ');
+  text = text.replace(/THE MANDAT\n\nE/g, 'THE MANDATE\n\n');
+  text = text.replace(/MANDAT\n\nE/g, 'MANDATE\n\n');
+  text = text.replace(/Case s\b/g, 'Cases');
+
+  // 2. Fix fake bullet lists (safety net for any missed • characters)
+  text = text.replace(/^[•●○▪►]\s*/gm, '- ');
+
+  // 3. Remove AI junk fragments
+  text = text.replace(/^TECHNICAL MANDATE$[\s\S]*?(?=\n##|\n---|$)/gm, '');
+  text = text.replace(/^Access is restricted to approved mandates.*$/gm, '');
+  text = text.replace(/^Minimum target size:.*\$5M\+.*$/gm, '');
+
+  // 4. Merge staccato paragraphs: consecutive short single-sentence paragraphs
+  const blocks = text.split(/\n\n+/);
+  const merged = [];
+  let buffer: string[] = [];
+
+  for (const block of blocks) {
+    const trimmed = block.trim();
+    if (!trimmed) continue;
+
+    const isHeading = /^#/.test(trimmed);
+    const isList = /^[-*>\d]/.test(trimmed);
+    const isCode = /^```/.test(trimmed);
+    const isHr = /^[-*_]{3,}$/.test(trimmed);
+
+    if (isHeading || isList || isCode || isHr) {
+      if (buffer.length > 0) {
+        merged.push(buffer.join(' '));
+        buffer = [];
+      }
+      merged.push(block);
+    } else {
+      const sentenceCount = (trimmed.match(/[.!?]+/g) || []).length;
+      if (sentenceCount <= 1 && trimmed.split(/\s+/).length < 40) {
+        buffer.push(trimmed);
+      } else {
+        if (buffer.length > 0) {
+          merged.push(buffer.join(' '));
+          buffer = [];
+        }
+        merged.push(block);
+      }
+    }
+  }
+  if (buffer.length > 0) {
+    merged.push(buffer.join(' '));
+  }
+
+  return merged.join('\n\n');
+}
+
 // Browser-safe frontmatter parser (no gray-matter / no Buffer needed)
 function parseFrontmatter(raw: string) {
   const parts = raw.split(/---/);
@@ -54,7 +113,7 @@ export const IntelligenceArticle: React.FC<IntelligenceArticleProps> = ({ slug }
                 }
 
                 if (foundPost) {
-                    setContent(foundPost.body);
+                    setContent(preprocessMarkdown(foundPost.body));
                     setMeta(foundPost.meta);
 
                     const articleUrl = `https://roialscapital.com/intelligence/${slug}`;
