@@ -1,6 +1,8 @@
 ---
-title: 'Structural Integrity: The Roials Capital Underwrit'
-description: 'Structural Integrity: The Roials Capital Underwrit'
+title: 'Structural Integrity: The Roials Capital Underwriting Standard'
+description: >-
+  Roials Capital operates on a single premise. Structural integrity is not a
+  preference. Institutional capital flows toward order.
 date: '2025-11-25'
 author: Jonas Hyltén
 slug: structural-integrity-the-Roials Capital-underwrit

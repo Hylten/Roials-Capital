@@ -106,7 +106,7 @@ async function generateSEO() {
     const { data } = matter(rawContent);
     const slug = data.slug || file.replace('.md', '');
     const title = data.title || 'Intelligence Report';
-    const description = data.description || '';
+    const description = (data.description || '').replace(/\n+/g, ' ').replace(/\s+/g, ' ').trim();
     const date = data.date ? new Date(data.date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }) : '';
 
     listHtml += `
@@ -162,7 +162,7 @@ async function generateSEO() {
 
     const slug = data.slug || file.replace('.md', '');
     const title = data.title || 'Intelligence Article';
-    const description = data.description || '';
+    const description = (data.description || '').replace(/\n+/g, ' ').replace(/\s+/g, ' ').trim();
     const date = data.date ? new Date(data.date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }) : '';
 
     const articleDir = path.join(INTELLIGENCE_DIST_DIR, slug);

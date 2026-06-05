@@ -1,6 +1,9 @@
 ---
-title: Institutional Frameworks For Private Debt Originat
-description: Institutional Frameworks For Private Debt Originat
+title: 'Institutional Frameworks for Private Debt Origination'
+description: >-
+  Institutional frameworks for private debt origination in a fragmented capital
+  regime. Analysis of origination mechanics, capital stack structuring, and LTV
+  discipline.
 date: '2025-08-20'
 author: Jonas Hyltén
 slug: institutional-frameworks-for-private-debt-originat

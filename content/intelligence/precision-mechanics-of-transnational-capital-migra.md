@@ -1,6 +1,9 @@
 ---
-title: Precision Mechanics Of Transnational Capital Migra
-description: Precision Mechanics Of Transnational Capital Migra
+title: 'Precision Mechanics of Transnational Capital Migration'
+description: >-
+  A principal analysis of transnational capital migration mechanics,
+  cross-jurisdictional structuring, and covenant-driven asset hardening for
+  institutional allocators.
 date: '2026-01-13'
 author: Jonas Hyltén
 slug: precision-mechanics-of-transnational-capital-migra

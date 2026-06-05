@@ -133,10 +133,14 @@ export const IntelligenceArticle: React.FC<IntelligenceArticleProps> = ({ slug }
                     if (foundPost.meta.title) {
                         document.title = `${foundPost.meta.title} | Roials Capital Intelligence`;
                     }
-                    if (foundPost.meta.description) {
+                    const cleanDesc = foundPost.meta.description
+                        ?.replace(/\n+/g, ' ')
+                        .replace(/\s+/g, ' ')
+                        .trim();
+                    if (cleanDesc && !cleanDesc.match(/^[\s>-]+$/)) {
                         const metaDescription = document.querySelector('meta[name="description"]');
                         if (metaDescription) {
-                            metaDescription.setAttribute('content', foundPost.meta.description);
+                            metaDescription.setAttribute('content', cleanDesc);
                         }
                     }
 
@@ -148,7 +152,7 @@ export const IntelligenceArticle: React.FC<IntelligenceArticleProps> = ({ slug }
                     const canonical = document.querySelector('link[rel="canonical"]');
                     
                     if (ogTitle) ogTitle.setAttribute('content', foundPost.meta.title || 'Intelligence | Roials Capital');
-                    if (ogDescription) ogDescription.setAttribute('content', foundPost.meta.description || '');
+                    if (ogDescription) ogDescription.setAttribute('content', cleanDesc || '');
                     if (ogUrl) ogUrl.setAttribute('content', articleUrl);
                     if (ogType) ogType.setAttribute('content', 'article');
                     if (canonical) canonical.setAttribute('href', articleUrl);
@@ -242,9 +246,9 @@ export const IntelligenceArticle: React.FC<IntelligenceArticleProps> = ({ slug }
                     {meta.title}
                 </h1>
 
-                {meta.description && (
+                {meta.description && !meta.description.match(/^[\s>-]+$/) && (
                     <p className="font-sans text-xl text-platinum/70 leading-relaxed font-light">
-                        {meta.description}
+                        {meta.description.replace(/\n+/g, ' ')}
                     </p>
                 )}
             </header>

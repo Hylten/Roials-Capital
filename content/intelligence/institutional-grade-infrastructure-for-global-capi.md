@@ -1,6 +1,9 @@
 ---
-title: Institutional Grade Infrastructure For Global Capi
-description: Institutional Grade Infrastructure For Global Capi
+title: 'Institutional-Grade Infrastructure for Global Capital Markets'
+description: >-
+  How institutional-grade infrastructure for global capital markets enables
+  structural readiness, sovereign capital formation, and cross-border
+  acquisition velocity.
 date: '2025-08-29'
 author: Jonas Hyltén
 slug: institutional-grade-infrastructure-for-global-capi

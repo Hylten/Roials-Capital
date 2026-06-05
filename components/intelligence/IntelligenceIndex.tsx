@@ -85,11 +85,18 @@ const getPosts = () => {
     const rawMarkdown = (content as any).default;
     const { data } = parseFrontmatter(rawMarkdown);
 
+    const rawTitle = data.title || '';
+    const rawDesc = data.description || '';
+    const titleNorm = rawTitle.replace(/\s+/g, ' ').trim().toLowerCase();
+    const descNorm = rawDesc.replace(/\s+/g, ' ').trim().toLowerCase();
+    const isSameAsTitle = descNorm.length > 0 && descNorm === titleNorm;
+    const isTruncatedYaml = rawDesc === '>-' || rawDesc === '|' || rawDesc.length <= 3;
+
     return {
       slug: data.slug || filepath.split('/').pop()?.replace('.md', ''),
-      title: data.title || 'Untitled',
-      description: (data.description && data.description !== '>-' && data.description !== '|' && data.description.length > 3)
-        ? data.description
+      title: rawTitle,
+      description: (!isTruncatedYaml && !isSameAsTitle && rawDesc.length > 3)
+        ? rawDesc.replace(/\n+/g, ' ')
         : extractExcerpt(rawMarkdown),
       date: data.date || '',
       author: data.author || 'Roials Capital',
