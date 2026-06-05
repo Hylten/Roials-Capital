@@ -14,15 +14,15 @@ The capital vacuum across North American and European lower mid market operators
 
 The post 2022 credit regime altered the foundations of liquidity distribution. Banks moved from relationship lending to regulatory survival. Basel III end game pressures forced contraction in sectors with capital intensive operating models. The result was a bifurcation: high quality assets with predictable cash flow profiles were being discounted due to mechanical de risking at the bank level rather than deterioration at the asset level.
 
-- Capital withdrawal.
+### Capital Withdrawal
 
 Traditional lenders scaled back exposure to real asset operators with long duration inventory cycles. Loan renewals were reduced or converted to shorter maturities, creating refinancing cliffs across energy services, industrial logistics, and asset heavy mid market enterprises.
 
-- Valuation drift.
+### Valuation Drift
 
 Lower mid market operators continued generating stable operational cash flows, yet their borrowing bases became decoupled from intrinsic asset value because lenders applied static or artificially conservative LTV curves.
 
-- Supply and demand asymmetry.
+### Supply and Demand Asymmetry
 
 Demand for liquidity remains constant, but supply from regulated institutions contracted. This produced an arbitrage window for private allocators who specialize in structured credit, asset based valuation modeling, and engineered cash flow capture. The inefficiency is structural because it originates from policy constraints rather than operator fundamentals. Capital scarcity is incorrectly interpreted as risk. The disconnect creates an opportunity for disciplined liquidity engineers who can transform constrained balance sheets into hardened institutional grade assets.
 
@@ -78,25 +78,21 @@ Paydowns correspond to operational throughput. Re deployments follow the same lo
 
 Roials Capital functions as a strategic navigator within this landscape.
 
-## The Mandat E
+## The Mandate
 
-is not to lend, operate, or manage external assets.
-
-## The Mandat E
-
-is to deliver institutional clarity, operator specific intelligence, and partner curation for allocators who require structural certainty.
+Our mandate is not to lend, operate, or manage external assets. It is to deliver institutional clarity, operator-specific intelligence, and partner curation for allocators who require structural certainty.
 
 1. Strategic Alignment Roials Capital maps allocator objectives to real asset ecosystems where liquidity engineering is structurally required.
 
 This avoids model drift and ensures that engagements remain aligned with the allocator's risk profile, duration preferences, and mandate constraints.
 
-2. Market Navigation In North American energy, Roials Capital maintains an institutional INTRODUCTION partnership with NAEO, a group specializing in operationally disciplined heavy oil production across Alberta.
+2. Market Navigation Roials Capital provides allocators with operational intelligence across North American energy, European private credit, Nordic industrial services, and cross border ABL opportunities.
 
-The Alberta basin is fundamentally misunderstood by generalized capital, yet the physics of SAGD, CSS, and long life heavy oil yield predictable decline curves and stable cash conversion. This makes the region uniquely suitable for structured credit and asset based optimization. For allocators outside energy, Roials Capital provides navigation across European private credit, Nordic industrial services, and cross border ABL opportunities where capital scarcity enhances pricing power.
+The Alberta basin remains one of the most technically predictable energy environments globally. Its SAGD, CSS, and long life heavy oil assets generate stable decline curves and reliable cash conversion, creating favorable conditions for structured credit and asset based optimization.
 
 3. Institutional INTRODUCTION
 
-Roials Capital arranges introductions, not transactions. The emphasis is on intelligence transfer, partner suitability, and operational congruence between allocators and operators. When energy is involved, NAEO serves as the institutional grade partner because of their technical specialization, predictable field operations, and disciplined recovery engineering. When the focus is Fund-III buyouts or European mandates, introductions focus on operators with demonstrated stewardship and measurable value conversion discipline.
+Roials Capital arranges introductions, not transactions. The emphasis is on intelligence transfer, partner suitability, and operational congruence between allocators and operators. When the focus is Fund-III buyouts or European mandates, introductions focus on operators with demonstrated stewardship and measurable value conversion discipline.
 
 ## The Stewardship Filter
 
@@ -104,41 +100,22 @@ Stewardship is not a moral abstraction. It is a technical discipline.
 
 It governs whether capital is applied with precision or wasted through poor allocation sequencing. Proper stewardship produces the conditions for structural alpha because it prevents value leakage at the operational and capital architecture levels. Stewardship follows four filters:
 
-- Non wasteful deployment.
-
-Capital must move only when the asset profile justifies it. "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." - Proverbs 13:22*
-
-* establishes the responsibility to structure resources for longevity rather than immediacy.
-
-- Predictable conversion.
-
-Operators must demonstrate consistent translation of capital into operational returns, not theoretical projections.
-
-- Balance sheet sustainability.
-
-Structures must preserve optionality. They cannot create dependency or forced refinancing events.
-
-- Measured expansion.
-
-Growth must follow proven recovery of invested capital, ensuring that velocity remains anchored to real performance. Stewardship is the differentiator between engineered reliability and engineered fragility.
+- Non wasteful deployment. Capital must move only when the asset profile justifies it.
+- Predictable conversion. Operators must demonstrate consistent translation of capital into operational returns, not theoretical projections.
+- Balance sheet sustainability. Structures must preserve optionality. They cannot create dependency or forced refinancing events.
+- Measured expansion. Growth must follow proven recovery of invested capital, ensuring that velocity remains anchored to real performance. Stewardship is the differentiator between engineered reliability and engineered fragility.
 
 ## A Decision Making Lens for the Allocator
 
 Allocators navigating the current regime require a refined lens for evaluating real asset liquidity opportunities. The framework is straightforward:
 
 - Identify environments where capital scarcity is policy driven, not performance driven.
-
 - Confirm that the operator ecosystem has predictable operational cadence.
-
 - Validate that the asset base can be hardened.
-
 - Map LTV curves to intrinsic value, not lender constraints.
-
 - Ensure the structure produces engineered reliability.
-
 - Confirm that the cycle time supports opportunity velocity.
-
 - Engage only through a strategic partner who maintains neutrality and alignment.
 
-This is the environment where Asset Based Liquidity Engineering produces structural alpha. Not through leverage, but through clarity. Not through risk seeking, but through disciplined calibration. Roials Capital provides confidential strategy audits for institutional allocators seeking to evaluate alignment with Fund-III buyouts, ABL structures, or North American energy introductions through NAEO. The objective is calibration, not solicitation.
+This is the environment where Asset Based Liquidity Engineering produces structural alpha. Not through leverage, but through clarity. Not through risk seeking, but through disciplined calibration. Roials Capital provides confidential strategy audits for institutional allocators seeking to evaluate alignment with Fund-III buyouts, ABL structures, or North American energy introductions. The objective is calibration, not solicitation.
 
