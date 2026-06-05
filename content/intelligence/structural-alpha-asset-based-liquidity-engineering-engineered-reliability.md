@@ -34,9 +34,9 @@ Asset Based Liquidity Engineering is the disciplined process of extracting funct
 
    It is the conversion of operational infrastructure into a clearly defined collateral spine. The goal is to eliminate ambiguity surrounding recoverability, resale dynamics, and monetization timing. Hardening typically involves:
 
-   - Third party asset audits — independent verification of remaining productive life, depreciation curves, and replacement cost benchmarks.
-   - Marketability modeling — assessment of absorption capacity for specific asset classes if remarketed at various liquidation horizons.
-   - Functional valuation — weighting value based on operational utility rather than book value or lender dictated decay schedules.
+   - Third party asset audits, independent verification of remaining productive life, depreciation curves, and replacement cost benchmarks.
+   - Marketability modeling, assessment of absorption capacity for specific asset classes if remarketed at various liquidation horizons.
+   - Functional valuation, weighting value based on operational utility rather than book value or lender dictated decay schedules.
 
    Hardening increases the reliability of the collateral base, which improves the precision of credit modeling and the strategic confidence of institutional lenders.
 
@@ -52,7 +52,7 @@ Asset Based Liquidity Engineering is the disciplined process of extracting funct
 
 ### 3. Engineered Reliability
 
-   This discipline is the core alpha generator — the intentional design of credit structures that perform predictably under variable operating conditions. Reliability is engineered through:
+   This discipline is the core alpha generator, the intentional design of credit structures that perform predictably under variable operating conditions. Reliability is engineered through:
 
    - Conservative but realistic LTV curves linked to real market tradability, not bank risk quotas.
    - Cross collateralization matrices that ensure value resilience if individual asset clusters fluctuate.

@@ -29,7 +29,7 @@ By embedding covenant interpretation directly into the routing architecture, Roi
 
 ## Multi Asset Frameworks Require Multi Logic Interpretation
 
-A multi asset framework is not a collection of asset classes but a synchronized interpretation engine. Each class carries native logic—mark‑to‑market for equities, custody and finality for digital assets, delivery for commodities, repayment and covenant structures for bonds, reporting periodicity for private credit, and certification logic for real estate. If these logics remain isolated, the system behaves like fragmented networks with inconsistent rules and delays.
+A multi asset framework is not a collection of asset classes but a synchronized interpretation engine. Each class carries native logic, mark‑to‑market for equities, custody and finality for digital assets, delivery for commodities, repayment and covenant structures for bonds, reporting periodicity for private credit, and certification logic for real estate. If these logics remain isolated, the system behaves like fragmented networks with inconsistent rules and delays.
 
 Roials Capital resolves this by converting each logic type into a unified routing language, eliminating forced translation friction. Constraints become predictable before routing begins, preventing mid‑route failures. A multi asset framework becomes operationally coherent only when its underlying structural languages unify into a single interpretive architecture.
 

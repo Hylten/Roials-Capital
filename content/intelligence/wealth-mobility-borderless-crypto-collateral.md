@@ -154,7 +154,7 @@ Post Acquisition Liquidity Reset Due to instant rehypothecation, 55 percent of t
 
 ## Stewardship Filter
 
-Stewardship True stewardship means protecting capital from friction, opacity, and unnecessary latency. Borderless crypto collateral provides structural integrity because the system is built on verifiable proofs, not trust in intermediaries. This aligns with "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous." — Proverbs 13:22*
+Stewardship True stewardship means protecting capital from friction, opacity, and unnecessary latency. Borderless crypto collateral provides structural integrity because the system is built on verifiable proofs, not trust in intermediaries. This aligns with "A good man leaves an inheritance to his children's children, but the sinner's wealth is laid up for the righteous.", Proverbs 13:22*
 
 * regarding generational capital preservation.
 
