@@ -163,7 +163,7 @@ export const PrivateCredit: React.FC<PrivateCreditProps> = ({ onInquireClick }) 
           <div className="bg-white/[0.01] border border-white/5 p-6 rounded-sm">
             <h5 className="font-display text-xs text-gray-500 uppercase tracking-widest mb-2">Underwriting Disclaimer:</h5>
             <p className="font-sans text-xs text-gray-500 leading-relaxed italic">
-              Roials Capital operates exclusively as a strategic advisory boutique. Select credit terms and liquidity structures are originated through an exclusive network of independent institutional lenders and credit partners. Final terms, LTV ratios, and pricing are strictly subject to underlying asset class, collateral hardening, and formal underwriter approval.
+              Roials Capital operates exclusively as an independent strategic advisory boutique and corporate finance platform. The firm is not a regulated financial institution, lender, or licensed credit broker, and does not directly issue loans, underwrite credit facilities, or commit capital. All credit terms, liquidity structures, and financing arrangements are originated, structured, and executed strictly through an independent network of institutional lenders, private credit funds, and custodial partners. Final terms, maximum Loan-to-Value (LTV) ratios, pricing, and execution timelines remain strictly subject to the underlying asset class, independent collateral hardening, formal third-party underwriter approval, and final legal verification. All inbound inquiries and mandates are handled on a strict principal-to-principal or qualified institutional basis.
             </p>
           </div>
         </div>
