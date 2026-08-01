@@ -8,6 +8,7 @@ interface FooterProps {
   onMandatesClick?: () => void;
   onTeamClick?: () => void;
   onInquireClick?: () => void;
+  onRegulatoryClick?: () => void;
   onTermsClick?: () => void;
   onPrivacyClick?: () => void;
   onCookiesClick?: () => void;
@@ -22,6 +23,7 @@ export const Footer: React.FC<FooterProps> = ({
   onMandatesClick,
   onTeamClick,
   onInquireClick,
+  onRegulatoryClick,
   onTermsClick,
   onPrivacyClick,
   onCookiesClick,
@@ -137,9 +139,15 @@ export const Footer: React.FC<FooterProps> = ({
               &copy; 2026 Roials Capital. All rights reserved.
             </p>
             <div className="flex gap-6">
-              <button onClick={onTermsClick} className="font-sans text-xs text-gray-600 hover:text-gray-400 transition-colors">Terms & Conditions</button>
-              <button onClick={onPrivacyClick} className="font-sans text-xs text-gray-600 hover:text-gray-400 transition-colors">Privacy Policy</button>
-              <button onClick={onCookiesClick} className="font-sans text-xs text-gray-600 hover:text-gray-400 transition-colors">Cookie Policy</button>
+              <button 
+                onClick={() => {
+                  if (onRegulatoryClick) onRegulatoryClick();
+                  else if (onTermsClick) onTermsClick();
+                }} 
+                className="font-sans text-xs text-gray-500 hover:text-oldgold transition-colors font-medium"
+              >
+                Regulatory &amp; Firm Architecture
+              </button>
             </div>
           </div>
         </div>

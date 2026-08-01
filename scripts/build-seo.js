@@ -289,6 +289,11 @@ const contentHtml = `<div style="background: #000000; min-height: 100vh; padding
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>${SITE_URL}/regulatory/</loc>
+    <lastmod>${today}</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>${SITE_URL}/intelligence/</loc>
     <lastmod>${today}</lastmod>
     <priority>0.9</priority>

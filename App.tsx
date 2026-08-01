@@ -18,8 +18,9 @@ import { CapitalOrigination } from './components/CapitalOrigination';
 import { IntelligenceIndex } from './components/intelligence/IntelligenceIndex';
 import { IntelligenceArticle } from './components/intelligence/IntelligenceArticle';
 import { DealOrigination } from './components/DealOrigination';
+import { Regulatory } from './components/Regulatory';
 
-type View = 'home' | 'login' | 'thesis' | 'private-credit' | 'mandates' | 'team' | 'inquire' | 'terms' | 'privacy' | 'cookies' | 'dataroom' | 'capital-origination' | 'deal-origination';
+type View = 'home' | 'login' | 'thesis' | 'private-credit' | 'mandates' | 'team' | 'inquire' | 'terms' | 'privacy' | 'cookies' | 'dataroom' | 'capital-origination' | 'deal-origination' | 'regulatory';
 
 const App: React.FC = () => {
   const [currentView, setCurrentView] = useState<View>('home');
@@ -52,8 +53,15 @@ const App: React.FC = () => {
       }
     }
 
+    // Check for Regulatory path
+    if (path.startsWith('/regulatory') || path.startsWith('/firm-architecture')) {
+      setCurrentView('regulatory');
+      setAnimationComplete(true);
+      setIsRevealed(true);
+      return;
+    }
+
     // Check for SEO Intelligence URLs
-    const path = window.location.pathname;
     if (path.startsWith('/intelligence')) {
       const slug = path.replace('/intelligence', '').replace(/^\/|\/$/g, '');
       if (slug) {
@@ -297,23 +305,17 @@ const App: React.FC = () => {
           {currentView === 'inquire' && (
             <Inquire />
           )}
+          {currentView === 'regulatory' && (
+            <Regulatory />
+          )}
           {currentView === 'terms' && (
-            <Terms
-              onPrivacyClick={() => handleViewChange('privacy')}
-              onCookiesClick={() => handleViewChange('cookies')}
-            />
+            <Regulatory />
           )}
           {currentView === 'privacy' && (
-            <Privacy
-              onTermsClick={() => handleViewChange('terms')}
-              onCookiesClick={() => handleViewChange('cookies')}
-            />
+            <Regulatory />
           )}
           {currentView === 'cookies' && (
-            <Cookies
-              onTermsClick={() => handleViewChange('terms')}
-              onPrivacyClick={() => handleViewChange('privacy')}
-            />
+            <Regulatory />
           )}
         </main>
         <Footer
@@ -324,9 +326,10 @@ const App: React.FC = () => {
           onMandatesClick={() => handleViewChange('mandates')}
           onTeamClick={() => handleViewChange('team')}
           onInquireClick={() => handleViewChange('inquire')}
-          onTermsClick={() => handleViewChange('terms')}
-          onPrivacyClick={() => handleViewChange('privacy')}
-          onCookiesClick={() => handleViewChange('cookies')}
+          onRegulatoryClick={() => handleViewChange('regulatory')}
+          onTermsClick={() => handleViewChange('regulatory')}
+          onPrivacyClick={() => handleViewChange('regulatory')}
+          onCookiesClick={() => handleViewChange('regulatory')}
           onDataRoomClick={() => handleViewChange('dataroom')}
         />
       </div>
