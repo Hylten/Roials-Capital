@@ -6,6 +6,8 @@ interface HeaderProps {
   onThesisClick?: () => void;
   onCreditClick?: () => void;
   onMandatesClick?: () => void;
+  onCapOrigClick?: () => void;
+  onDealOrigClick?: () => void;
   onTeamClick?: () => void;
   onInquireClick: () => void;
   onLoginClick?: () => void;
@@ -18,6 +20,8 @@ export const Header: React.FC<HeaderProps> = ({
   onThesisClick,
   onCreditClick,
   onMandatesClick,
+  onCapOrigClick,
+  onDealOrigClick,
   onTeamClick,
   onInquireClick,
   onLoginClick,
@@ -101,10 +105,16 @@ export const Header: React.FC<HeaderProps> = ({
                 Home
               </button>
               <button
-                onClick={() => handleNavAction(onMandatesClick)}
+                onClick={() => handleNavAction(onCapOrigClick)}
                 className="font-sans text-[10px] tracking-[0.2em] text-platinum hover:text-oldgold transition-colors font-bold uppercase"
               >
-                Equity
+                Capital
+              </button>
+              <button
+                onClick={() => handleNavAction(onDealOrigClick)}
+                className="font-sans text-[10px] tracking-[0.2em] text-platinum hover:text-oldgold transition-colors font-bold uppercase"
+              >
+                Origination
               </button>
               <button
                 onClick={() => handleNavAction(onCreditClick)}
@@ -153,10 +163,16 @@ export const Header: React.FC<HeaderProps> = ({
             HOME
           </button>
           <button
-            onClick={() => handleNavAction(onMandatesClick)}
+            onClick={() => handleNavAction(onCapOrigClick)}
             className="font-display text-2xl tracking-[0.25em] text-platinum hover:text-oldgold transition-all duration-500 uppercase"
           >
-            EQUITY
+            CAPITAL
+          </button>
+          <button
+            onClick={() => handleNavAction(onDealOrigClick)}
+            className="font-display text-2xl tracking-[0.25em] text-platinum hover:text-oldgold transition-all duration-500 uppercase"
+          >
+            ORIGINATION
           </button>
           <button
             onClick={() => handleNavAction(onCreditClick)}

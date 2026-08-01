@@ -17,8 +17,9 @@ import { DataRoom } from './components/DataRoom';
 import { CapitalOrigination } from './components/CapitalOrigination';
 import { IntelligenceIndex } from './components/intelligence/IntelligenceIndex';
 import { IntelligenceArticle } from './components/intelligence/IntelligenceArticle';
+import { DealOrigination } from './components/DealOrigination';
 
-type View = 'home' | 'login' | 'thesis' | 'private-credit' | 'mandates' | 'team' | 'inquire' | 'terms' | 'privacy' | 'cookies' | 'dataroom' | 'capital-origination';
+type View = 'home' | 'login' | 'thesis' | 'private-credit' | 'mandates' | 'team' | 'inquire' | 'terms' | 'privacy' | 'cookies' | 'dataroom' | 'capital-origination' | 'deal-origination';
 
 const App: React.FC = () => {
   const [currentView, setCurrentView] = useState<View>('home');
@@ -104,9 +105,23 @@ const App: React.FC = () => {
     document.body.style.overflow = 'auto';
     document.documentElement.style.overflow = 'auto';
 
+    const handlePopState = (event: PopStateEvent) => {
+      const stateView = event.state?.view as View | null;
+      if (stateView) {
+        setCurrentView(stateView);
+      } else {
+        const params = new URLSearchParams(window.location.search);
+        const urlView = params.get('view') as View | null;
+        setCurrentView(urlView || 'home');
+      }
+    };
+
+    window.addEventListener('popstate', handlePopState);
+
     return () => {
       document.body.style.overflow = '';
       document.documentElement.style.overflow = '';
+      window.removeEventListener('popstate', handlePopState);
     };
   }, []);
 
@@ -130,6 +145,11 @@ const App: React.FC = () => {
       setAccessType('lp-access'); // Spara att vi försökte nå lp-access
     }
     setCurrentView(view);
+    
+    // Update URL so back button works
+    const url = view === 'home' ? '/' : `/?view=${view}`;
+    window.history.pushState({ view }, '', url);
+    
     window.scrollTo({ top: 0, behavior: 'instant' });
   };
 
@@ -157,6 +177,8 @@ const App: React.FC = () => {
           onThesisClick={() => { window.location.href = '/?view=thesis'; }}
           onCreditClick={() => { window.location.href = '/?view=private-credit'; }}
           onMandatesClick={() => { window.location.href = '/?view=mandates'; }}
+          onCapOrigClick={() => { window.location.href = '/?view=capital-origination'; }}
+          onDealOrigClick={() => { window.location.href = '/?view=deal-origination'; }}
           onTeamClick={() => { window.location.href = '/?view=team'; }}
           onInquireClick={() => { window.location.href = '/'; }}
           onLoginClick={() => { window.location.href = '/?view=login'; }}
@@ -218,6 +240,8 @@ const App: React.FC = () => {
         onThesisClick={() => handleViewChange('thesis')}
         onCreditClick={() => handleViewChange('private-credit')}
         onMandatesClick={() => handleViewChange('mandates')}
+        onCapOrigClick={() => handleViewChange('capital-origination')}
+        onDealOrigClick={() => handleViewChange('deal-origination')}
         onTeamClick={() => handleViewChange('team')}
         onInquireClick={() => handleViewChange('inquire')}
         onLoginClick={() => handleViewChange('login')}
@@ -246,6 +270,7 @@ const App: React.FC = () => {
               onEquityClick={() => handleViewChange('mandates')}
               onCreditClick={() => handleViewChange('private-credit')}
               onCapOrigClick={() => handleViewChange('capital-origination')}
+              onDealOrigClick={() => handleViewChange('deal-origination')}
             />
           )}
           {currentView === 'thesis' && (
@@ -253,6 +278,9 @@ const App: React.FC = () => {
           )}
           {currentView === 'capital-origination' && (
             <CapitalOrigination onFirmClick={() => handleViewChange('team')} />
+          )}
+          {currentView === 'deal-origination' && (
+            <DealOrigination onFirmClick={() => handleViewChange('team')} />
           )}
           {currentView === 'private-credit' && (
             <PrivateCredit onInquireClick={() => handleViewChange('inquire')} />

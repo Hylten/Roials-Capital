@@ -42,26 +42,29 @@ export const PrivateCredit: React.FC<PrivateCreditProps> = ({ onInquireClick }) 
           <div className="lg:col-span-5 space-y-10">
             <div>
                 <h2 className="font-serif text-3xl md:text-4xl text-platinum leading-tight mb-6">
-                THE ROIALS <span className="text-oldgold">STANDARD.</span>
+                MANDATE <span className="text-oldgold">& FRAMEWORK</span>
                 </h2>
                 <div className="w-12 h-[1px] bg-oldgold mb-8"></div>
+                <p className="font-sans text-gray-400 text-lg leading-relaxed font-light mb-4">
+                  Accessing an institutional network of <strong className="text-gray-200">1,100+ global credit sources</strong> to create competitive tension among lenders and secure optimized term sheets.
+                </p>
                 <p className="font-sans text-gray-400 text-lg leading-relaxed font-light mb-6">
-                  We do not rely on single-bank balance sheets. We engineer competition among global lenders to force term compression, delivering liquidity structures that traditional private banks cannot match.
+                  Operating strictly as an independent advisory boutique structuring bespoke liquidity solutions for high-complexity portfolios.
                 </p>
             </div>
 
             <div className="space-y-8">
                 <div className="border-l-2 border-white/10 pl-6 hover:border-oldgold transition-colors duration-300">
-                    <h3 className="font-display text-lg text-platinum mb-1 uppercase tracking-wide">Non-Recourse</h3>
-                    <p className="font-sans text-sm text-gray-400 leading-relaxed">No personal guarantees. Liability limited strictly to collateral.</p>
+                    <h3 className="font-display text-lg text-platinum mb-1 uppercase tracking-wide">Non-Recourse Structures</h3>
+                    <p className="font-sans text-sm text-gray-400 leading-relaxed">Liability limited strictly to pledged collateral under specific underwriting terms.</p>
                 </div>
                 <div className="border-l-2 border-white/10 pl-6 hover:border-oldgold transition-colors duration-300">
-                    <h3 className="font-display text-lg text-platinum mb-1 uppercase tracking-wide">Non-Purpose</h3>
-                    <p className="font-sans text-sm text-gray-400 leading-relaxed">Unrestricted liquidity. Deploy for yield, real estate, or lifestyle.</p>
+                    <h3 className="font-display text-lg text-platinum mb-1 uppercase tracking-wide">Non-Purpose Deployment</h3>
+                    <p className="font-sans text-sm text-gray-400 leading-relaxed">Unrestricted liquidity for strategic yield, real estate acquisition, or capital management.</p>
                 </div>
                  <div className="border-l-2 border-white/10 pl-6 hover:border-oldgold transition-colors duration-300">
-                    <h3 className="font-display text-lg text-platinum mb-1 uppercase tracking-wide">Non-Shorting</h3>
-                    <p className="font-sans text-sm text-gray-400 leading-relaxed">Contractually enforced asset protection.</p>
+                    <h3 className="font-display text-lg text-platinum mb-1 uppercase tracking-wide">Contractual Protection</h3>
+                    <p className="font-sans text-sm text-gray-400 leading-relaxed">Enforceable safeguards governing asset security and risk management.</p>
                 </div>
             </div>
           </div>
@@ -90,12 +93,13 @@ export const PrivateCredit: React.FC<PrivateCreditProps> = ({ onInquireClick }) 
                   <div className="group">
                     <p className="font-sans text-[10px] uppercase tracking-widest text-gray-500 mb-2 font-bold">Annual Interest</p>
                     <p className="font-mono text-3xl md:text-4xl text-platinum group-hover:text-oldgold transition-colors">Fixed from 2.00%*</p>
-                    <p className="font-mono text-xs text-gray-500 mt-2">*Securities & Crypto</p>
+                    <p className="font-sans text-[10px] text-gray-500 mt-2 italic">*Applies specifically to highly liquid, institutional-grade securities and select collateral tiers</p>
                   </div>
 
                    <div className="group">
                     <p className="font-sans text-[10px] uppercase tracking-widest text-gray-500 mb-2 font-bold">Funding Timeline</p>
                     <p className="font-mono text-3xl md:text-4xl text-platinum group-hover:text-oldgold transition-colors">3 – 14 Days</p>
+                    <p className="font-sans text-[10px] text-gray-500 mt-2 italic">Dependent on collateral hardening and custodian verification</p>
                   </div>
 
                 </div>
@@ -126,12 +130,8 @@ export const PrivateCredit: React.FC<PrivateCreditProps> = ({ onInquireClick }) 
                     </div>
                     <h4 className="font-serif text-xl text-platinum mb-4 group-hover:text-white">Public Securities</h4>
                     <p className="font-sans text-sm text-gray-400 leading-relaxed mb-4">
-                        NYSE, NASDAQ, LSE, TSX, HKSE, ASX. 
+                        Major global exchanges (NYSE, NASDAQ, LSE, TSX, HKSE, ASX). Subject to institutional custody and margin parameters.
                     </p>
-                    <div className="flex flex-wrap gap-2">
-                        <span className="text-[10px] uppercase border border-white/10 px-2 py-1 text-gray-500">Non-Recourse</span>
-                        <span className="text-[10px] uppercase border border-white/10 px-2 py-1 text-gray-500">No Personal Guarantees</span>
-                    </div>
                 </div>
 
                  {/* Digital Assets */}
@@ -141,12 +141,8 @@ export const PrivateCredit: React.FC<PrivateCreditProps> = ({ onInquireClick }) 
                     </div>
                     <h4 className="font-serif text-xl text-platinum mb-4 group-hover:text-white">Digital Assets</h4>
                     <p className="font-sans text-sm text-gray-400 leading-relaxed mb-4">
-                        BTC, ETH, SOL & Major Liquid Tokens.
+                        Major liquid tokens (BTC, ETH, SOL). Governed by institutional cold storage custody frameworks.
                     </p>
-                    <div className="flex flex-wrap gap-2">
-                        <span className="text-[10px] uppercase border border-white/10 px-2 py-1 text-gray-500">Institutional Custody</span>
-                        <span className="text-[10px] uppercase border border-white/10 px-2 py-1 text-gray-500">Cold Storage</span>
-                    </div>
                 </div>
 
                  {/* Real Assets & Specie */}
@@ -156,13 +152,20 @@ export const PrivateCredit: React.FC<PrivateCreditProps> = ({ onInquireClick }) 
                     </div>
                     <h4 className="font-serif text-xl text-platinum mb-4 group-hover:text-white">Real Assets & Specie</h4>
                     <p className="font-sans text-sm text-gray-400 leading-relaxed mb-4">
-                        Gold Bullion (Allocated), Investment-Grade Art, IG Corporate Bonds.
+                        Allocated gold bullion, investment-grade art, and investment-grade corporate bonds requiring bespoke valuation.
                     </p>
-                     <div className="flex flex-wrap gap-2">
-                        <span className="text-[10px] uppercase border border-white/10 px-2 py-1 text-gray-500">Bespoke Valuation & Structure</span>
-                    </div>
                 </div>
             </div>
+        </div>
+        
+        {/* Disclaimer */}
+        <div className="mt-20 pt-10 border-t border-white/5">
+          <div className="bg-white/[0.01] border border-white/5 p-6 rounded-sm">
+            <h5 className="font-display text-xs text-gray-500 uppercase tracking-widest mb-2">Underwriting Disclaimer:</h5>
+            <p className="font-sans text-xs text-gray-500 leading-relaxed italic">
+              Roials Capital operates exclusively as a strategic advisory boutique. Select credit terms and liquidity structures are originated through an exclusive network of independent institutional lenders and credit partners. Final terms, LTV ratios, and pricing are strictly subject to underlying asset class, collateral hardening, and formal underwriter approval.
+            </p>
+          </div>
         </div>
 
       </div>
