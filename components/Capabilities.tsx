@@ -7,9 +7,9 @@ interface CapabilitiesProps {
 
 const capabilities = [
   {
-    title: 'PRIVATE EQUITY',
-    subtitle: 'PRINCIPAL INVESTMENT',
-    description: 'Buy-side mandates for continental platform consolidation. European Mid-Market & Financial Services.',
+    title: 'CAPITAL ORIGINATION',
+    subtitle: 'SOVEREIGN DEALMAKING',
+    description: 'Bespoke capital formation for established fund managers. Proprietary access and direct dialogue with leading LPs and institutional allocators.',
     icon: (
       <svg className="w-8 h-8 text-oldgold" fill="none" viewBox="0 0 24 24" stroke="currentColor">
         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1} d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6" />
@@ -18,8 +18,8 @@ const capabilities = [
   },
   {
     title: 'PRIVATE CREDIT',
-    subtitle: 'SPECIAL SITUATIONS & LIQUIDITY',
-    description: 'Asset-backed special situations. Non-recourse liquidity against Digital & Real Assets.',
+    subtitle: 'SPECIAL SITUATIONS',
+    description: 'Asset-backed liquidity structures and non-dilutive capital. Direct balance sheet deployment against real assets and crypto.',
     icon: (
       <svg className="w-8 h-8 text-oldgold" fill="none" viewBox="0 0 24 24" stroke="currentColor">
         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1} d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z" />
@@ -27,9 +27,9 @@ const capabilities = [
     )
   },
   {
-    title: 'INFRASTRUCTURE',
-    subtitle: 'ENERGY & DIGITAL INFRASTRUCTURE',
-    description: 'Sovereign digital migration and energy transition. System-critical real assets.',
+    title: 'DEAL ORIGINATION',
+    subtitle: 'OFF-MARKET M&A',
+    description: 'Proprietary target acquisition for Fund-III+ buyouts. Executing continental platform consolidation across the EMEA mid-market.',
     icon: (
       <svg className="w-8 h-8 text-oldgold" fill="none" viewBox="0 0 24 24" stroke="currentColor">
         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1} d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9" />
