@@ -92,26 +92,25 @@ export const Team: React.FC<TeamProps> = ({ onThesisClick }) => {
           {leadershipMembers.map((member, index) => (
             <div key={index} className="group flex flex-col h-full">
               <div className="h-1 w-16 bg-gray-700 group-hover:bg-oldgold transition-colors duration-500 mb-8"></div>
-              <h3 className="font-serif text-2xl text-platinum mb-3 leading-snug">{member.name}</h3>
+              <h3 className="font-serif text-2xl text-platinum mb-3 leading-snug min-h-[3.5rem] md:min-h-[4.5rem]">{member.name}</h3>
               <p className="font-sans text-[10px] uppercase tracking-widest text-oldgold mb-6 leading-relaxed font-bold min-h-[3em]">
                 {member.role}
               </p>
               <p className="font-sans text-sm text-gray-400 leading-relaxed opacity-90 group-hover:opacity-100 transition-opacity flex-grow font-light">
                 {member.bio}
-                {member.link && (
-                  <>
-                    {' '}
-                    <a
-                      href={member.link.url}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="text-oldgold hover:text-white transition-colors underline font-medium"
-                    >
-                      {member.link.text}
-                    </a>
-                  </>
-                )}
               </p>
+              {member.link && (
+                <div className="mt-4">
+                  <a
+                    href={member.link.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-oldgold hover:text-white transition-colors underline font-medium text-sm"
+                  >
+                    {member.link.text}
+                  </a>
+                </div>
+              )}
             </div>
           ))}
         </div>
@@ -126,26 +125,25 @@ export const Team: React.FC<TeamProps> = ({ onThesisClick }) => {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-12 gap-y-16">
             {globalPartners.map((member, index) => (
               <div key={index} className="group flex flex-col h-full border-l border-white/5 pl-8 hover:border-oldgold/50 transition-colors duration-500">
-                <h3 className="font-serif text-xl text-platinum mb-2 leading-snug group-hover:text-white transition-colors">{member.name}</h3>
-                <p className="font-sans text-[10px] uppercase tracking-widest text-oldgold mb-6 font-bold">
+                <h3 className="font-serif text-xl text-platinum mb-2 leading-snug group-hover:text-white transition-colors min-h-[2.5rem]">{member.name}</h3>
+                <p className="font-sans text-[10px] uppercase tracking-widest text-oldgold mb-6 font-bold min-h-[2.5em]">
                   {member.role}
                 </p>
                 <p className="font-sans text-sm text-gray-400 leading-relaxed font-light">
                   {member.bio}
-                  {member.link && (
-                    <>
-                      {' '}
-                      <a
-                        href={member.link.url}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="text-oldgold hover:text-white transition-colors underline font-medium"
-                      >
-                        {member.link.text}
-                      </a>
-                    </>
-                  )}
                 </p>
+                {member.link && (
+                  <div className="mt-4">
+                    <a
+                      href={member.link.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-oldgold hover:text-white transition-colors underline font-medium text-sm"
+                    >
+                      {member.link.text}
+                    </a>
+                  </div>
+                )}
               </div>
             ))}
           </div>
