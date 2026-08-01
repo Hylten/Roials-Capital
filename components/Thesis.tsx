@@ -66,7 +66,7 @@ export const Thesis: React.FC<ThesisProps> = ({ onInquireClick }) => {
                 onClick={onInquireClick}
                 className="font-sans text-[10px] text-gray-600 hover:text-oldgold uppercase tracking-[0.4em] font-bold transition-colors duration-700 cursor-pointer p-20 focus:outline-none"
             >
-               Capped at ~5 mandates annually.
+               Capped at ~3 mandates annually.
             </button>
         </div>
 
