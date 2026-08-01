@@ -14,10 +14,11 @@ import { Privacy } from './components/legal/Privacy';
 import { Cookies } from './components/legal/Cookies';
 import { SplashScreen } from './components/SplashScreen';
 import { DataRoom } from './components/DataRoom';
+import { CapitalOrigination } from './components/CapitalOrigination';
 import { IntelligenceIndex } from './components/intelligence/IntelligenceIndex';
 import { IntelligenceArticle } from './components/intelligence/IntelligenceArticle';
 
-type View = 'home' | 'login' | 'thesis' | 'private-credit' | 'mandates' | 'team' | 'inquire' | 'terms' | 'privacy' | 'cookies' | 'dataroom';
+type View = 'home' | 'login' | 'thesis' | 'private-credit' | 'mandates' | 'team' | 'inquire' | 'terms' | 'privacy' | 'cookies' | 'dataroom' | 'capital-origination';
 
 const App: React.FC = () => {
   const [currentView, setCurrentView] = useState<View>('home');
@@ -244,10 +245,14 @@ const App: React.FC = () => {
               onTeamClick={() => handleViewChange('team')}
               onEquityClick={() => handleViewChange('mandates')}
               onCreditClick={() => handleViewChange('private-credit')}
+              onCapOrigClick={() => handleViewChange('capital-origination')}
             />
           )}
           {currentView === 'thesis' && (
             <Thesis onInquireClick={() => handleViewChange('inquire')} />
+          )}
+          {currentView === 'capital-origination' && (
+            <CapitalOrigination onFirmClick={() => handleViewChange('team')} />
           )}
           {currentView === 'private-credit' && (
             <PrivateCredit onInquireClick={() => handleViewChange('inquire')} />

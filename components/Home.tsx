@@ -10,13 +10,14 @@ interface HomeProps {
   onTeamClick: () => void;
   onEquityClick: () => void;
   onCreditClick: () => void;
+  onCapOrigClick: () => void;
 }
 
-export const Home: React.FC<HomeProps> = ({ onInquireClick, onTeamClick, onEquityClick, onCreditClick }) => {
+export const Home: React.FC<HomeProps> = ({ onInquireClick, onTeamClick, onEquityClick, onCreditClick, onCapOrigClick }) => {
   return (
     <>
       <Hero onInquireClick={onInquireClick} />
-      <Capabilities onEquityClick={onEquityClick} onCreditClick={onCreditClick} />
+      <Capabilities onEquityClick={onEquityClick} onCreditClick={onCreditClick} onCapOrigClick={onCapOrigClick} />
       <Execution />
       <GlobalFootprint />
       <InquireCTA onTeamClick={onTeamClick} />

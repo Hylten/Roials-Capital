@@ -3,6 +3,7 @@ import React from 'react';
 interface CapabilitiesProps {
   onEquityClick: () => void;
   onCreditClick: () => void;
+  onCapOrigClick: () => void;
 }
 
 const capabilities = [
@@ -38,7 +39,7 @@ const capabilities = [
   }
 ];
 
-export const Capabilities: React.FC<CapabilitiesProps> = ({ onEquityClick, onCreditClick }) => {
+export const Capabilities: React.FC<CapabilitiesProps> = ({ onEquityClick, onCreditClick, onCapOrigClick }) => {
   return (
     <section id="capabilities" className="py-32 bg-obsidian border-b border-white/5 relative">
       <div className="max-w-7xl mx-auto px-6 md:px-12">
@@ -53,8 +54,8 @@ export const Capabilities: React.FC<CapabilitiesProps> = ({ onEquityClick, onCre
 
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-0 border border-white/10">
           {capabilities.map((item, idx) => {
-            // Determine handling based on index: 0=PE (Equity), 1=Credit (Credit), 2=Infra (Equity)
-            const handleClick = idx === 1 ? onCreditClick : onEquityClick;
+            // Determine handling based on index: 0=Capital Origination, 1=Credit, 2=Deal Origination (Equity/Mandates)
+            const handleClick = idx === 0 ? onCapOrigClick : idx === 1 ? onCreditClick : onEquityClick;
 
             return (
               <div
