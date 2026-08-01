@@ -193,6 +193,7 @@ const App: React.FC = () => {
           onInquireClick={() => { window.location.href = '/'; }}
           onLoginClick={() => { window.location.href = '/?view=login'; }}
           onDataRoomClick={() => { window.location.href = '/?view=dataroom'; }}
+          currentView="intelligence"
         />
         <main className="flex-grow">
           {intelligenceSlug ? (
@@ -248,6 +249,7 @@ const App: React.FC = () => {
         onLoginClick={() => handleViewChange('login')}
         onDataRoomClick={() => handleViewChange('dataroom')}
         showLogo={currentView !== 'login' && !(currentView === 'dataroom' && !isAuthenticated)}
+        currentView={currentView}
       />
 
       {/* Main Content Wrapper */}

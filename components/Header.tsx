@@ -13,6 +13,7 @@ interface HeaderProps {
   onLoginClick?: () => void;
   onDataRoomClick?: () => void;
   showLogo?: boolean;
+  currentView?: string;
 }
 
 export const Header: React.FC<HeaderProps> = ({
@@ -26,7 +27,8 @@ export const Header: React.FC<HeaderProps> = ({
   onInquireClick,
   onLoginClick,
   onDataRoomClick,
-  showLogo = true
+  showLogo = true,
+  currentView = 'home'
 }) => {
   const [isScrolled, setIsScrolled] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
@@ -100,31 +102,41 @@ export const Header: React.FC<HeaderProps> = ({
             <nav className="hidden lg:flex items-center gap-10">
               <button
                 onClick={() => handleNavAction(onHomeClick)}
-                className="font-sans text-[10px] tracking-[0.2em] text-oldgold hover:text-white transition-colors font-bold uppercase"
+                className={`font-sans text-[10px] tracking-[0.2em] transition-colors font-bold uppercase ${
+                  currentView === 'home' ? 'text-oldgold' : 'text-platinum hover:text-oldgold'
+                }`}
               >
                 Home
               </button>
               <button
                 onClick={() => handleNavAction(onCapOrigClick)}
-                className="font-sans text-[10px] tracking-[0.2em] text-platinum hover:text-oldgold transition-colors font-bold uppercase"
+                className={`font-sans text-[10px] tracking-[0.2em] transition-colors font-bold uppercase ${
+                  currentView === 'capital-origination' ? 'text-oldgold' : 'text-platinum hover:text-oldgold'
+                }`}
               >
                 Capital
               </button>
               <button
                 onClick={() => handleNavAction(onDealOrigClick)}
-                className="font-sans text-[10px] tracking-[0.2em] text-platinum hover:text-oldgold transition-colors font-bold uppercase"
+                className={`font-sans text-[10px] tracking-[0.2em] transition-colors font-bold uppercase ${
+                  currentView === 'deal-origination' ? 'text-oldgold' : 'text-platinum hover:text-oldgold'
+                }`}
               >
                 Origination
               </button>
               <button
                 onClick={() => handleNavAction(onCreditClick)}
-                className="font-sans text-[10px] tracking-[0.2em] text-platinum hover:text-oldgold transition-colors font-bold uppercase"
+                className={`font-sans text-[10px] tracking-[0.2em] transition-colors font-bold uppercase ${
+                  currentView === 'private-credit' ? 'text-oldgold' : 'text-platinum hover:text-oldgold'
+                }`}
               >
                 Credit
               </button>
               <button
                 onClick={() => handleNavAction(onTeamClick)}
-                className="font-sans text-[10px] tracking-[0.2em] text-platinum hover:text-oldgold transition-colors font-bold uppercase"
+                className={`font-sans text-[10px] tracking-[0.2em] transition-colors font-bold uppercase ${
+                  currentView === 'team' ? 'text-oldgold' : 'text-platinum hover:text-oldgold'
+                }`}
               >
                 Firm
               </button>
@@ -158,37 +170,49 @@ export const Header: React.FC<HeaderProps> = ({
         <nav className="flex flex-col items-center gap-8">
           <button
             onClick={() => handleNavAction(onHomeClick)}
-            className="font-display text-2xl tracking-[0.25em] text-platinum hover:text-oldgold transition-all duration-500 uppercase"
+            className={`font-display text-2xl tracking-[0.25em] transition-all duration-500 uppercase ${
+              currentView === 'home' ? 'text-oldgold' : 'text-platinum hover:text-oldgold'
+            }`}
           >
             HOME
           </button>
           <button
             onClick={() => handleNavAction(onCapOrigClick)}
-            className="font-display text-2xl tracking-[0.25em] text-platinum hover:text-oldgold transition-all duration-500 uppercase"
+            className={`font-display text-2xl tracking-[0.25em] transition-all duration-500 uppercase ${
+              currentView === 'capital-origination' ? 'text-oldgold' : 'text-platinum hover:text-oldgold'
+            }`}
           >
             CAPITAL
           </button>
           <button
             onClick={() => handleNavAction(onDealOrigClick)}
-            className="font-display text-2xl tracking-[0.25em] text-platinum hover:text-oldgold transition-all duration-500 uppercase"
+            className={`font-display text-2xl tracking-[0.25em] transition-all duration-500 uppercase ${
+              currentView === 'deal-origination' ? 'text-oldgold' : 'text-platinum hover:text-oldgold'
+            }`}
           >
             ORIGINATION
           </button>
           <button
             onClick={() => handleNavAction(onCreditClick)}
-            className="font-display text-2xl tracking-[0.25em] text-platinum hover:text-oldgold transition-all duration-500 uppercase"
+            className={`font-display text-2xl tracking-[0.25em] transition-all duration-500 uppercase ${
+              currentView === 'private-credit' ? 'text-oldgold' : 'text-platinum hover:text-oldgold'
+            }`}
           >
             CREDIT
           </button>
           <button
             onClick={() => handleNavAction(onTeamClick)}
-            className="font-display text-2xl tracking-[0.25em] text-platinum hover:text-oldgold transition-all duration-500 uppercase"
+            className={`font-display text-2xl tracking-[0.25em] transition-all duration-500 uppercase ${
+              currentView === 'team' ? 'text-oldgold' : 'text-platinum hover:text-oldgold'
+            }`}
           >
             FIRM
           </button>
           <button
             onClick={() => handleNavAction(onDataRoomClick)}
-            className="font-display text-2xl tracking-[0.25em] text-oldgold hover:text-white transition-all duration-500 uppercase flex items-center gap-3"
+            className={`font-display text-2xl tracking-[0.25em] transition-all duration-500 uppercase flex items-center gap-3 ${
+              currentView === 'dataroom' ? 'text-oldgold' : 'text-platinum hover:text-oldgold'
+            }`}
           >
             DATAROOM
             <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="opacity-70">
@@ -199,7 +223,9 @@ export const Header: React.FC<HeaderProps> = ({
 
           <button
             onClick={() => handleNavAction(onLoginClick)}
-            className="font-display text-2xl tracking-[0.25em] text-platinum hover:text-oldgold transition-all duration-500 uppercase flex items-center gap-3"
+            className={`font-display text-2xl tracking-[0.25em] transition-all duration-500 uppercase flex items-center gap-3 ${
+              currentView === 'login' ? 'text-oldgold' : 'text-platinum hover:text-oldgold'
+            }`}
           >
             LP ACCESS
             <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="opacity-70">
