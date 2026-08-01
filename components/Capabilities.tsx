@@ -68,17 +68,19 @@ export const Capabilities: React.FC<CapabilitiesProps> = ({ onEquityClick, onCre
                 </div>
 
                 <div className="flex-grow">
-                  <div className="flex items-center justify-between mb-2">
-                    <h3 className="font-display text-platinum text-2xl tracking-[0.1em] uppercase group-hover:text-oldgold transition-colors">
-                      {item.title}
-                    </h3>
-                    <span className="opacity-0 group-hover:opacity-100 transition-all transform group-hover:translate-x-1 text-oldgold">
-                      &rarr;
-                    </span>
+                  <div className="min-h-[8rem]">
+                    <div className="flex items-center justify-between mb-2">
+                      <h3 className="font-display text-platinum text-2xl tracking-[0.1em] uppercase group-hover:text-oldgold transition-colors">
+                        {item.title}
+                      </h3>
+                      <span className="opacity-0 group-hover:opacity-100 transition-all transform group-hover:translate-x-1 text-oldgold">
+                        &rarr;
+                      </span>
+                    </div>
+                    <p className="font-sans text-oldgold text-[10px] uppercase tracking-[0.2em] font-bold mb-8">
+                      {item.subtitle}
+                    </p>
                   </div>
-                  <p className="font-sans text-oldgold text-[10px] uppercase tracking-[0.2em] font-bold mb-8">
-                    {item.subtitle}
-                  </p>
                   <div className="w-8 h-[1px] bg-white/20 mb-8 group-hover:bg-oldgold/50 transition-colors"></div>
                   <p className="font-sans text-gray-300 text-lg leading-loose font-light">
                     {item.description}
