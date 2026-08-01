@@ -24,7 +24,11 @@ const leadershipMembers: TeamMember[] = [
   {
     name: 'Richard Murbeck',
     role: 'Senior Advisor (Infrastructure & Emerging Markets)',
-    bio: 'Founder of Eferio. Founded and exited Seavus Group (1,000+ staff) in 2020. Chairman of MALCEL PLC. 25+ years\u2019 infrastructure execution across EMEA. Bridges global liquidity with operator expertise in telecom and energy assets.'
+    bio: 'Founder of Eferio. Founded and exited Seavus Group (1,000+ staff) in 2020. Chairman of MALCEL PLC. 25+ years\u2019 infrastructure execution across EMEA. Bridges global liquidity with operator expertise in telecom and energy assets.',
+    link: {
+      text: 'Executive Interview',
+      url: 'https://youtu.be/lGVxvdE8MGY?si=_GT_c4TPg7onbIr7'
+    }
   },
   {
     name: 'Jonas Hyltén',
@@ -92,9 +96,21 @@ export const Team: React.FC<TeamProps> = ({ onThesisClick }) => {
               <p className="font-sans text-[10px] uppercase tracking-widest text-oldgold mb-6 leading-relaxed font-bold min-h-[3em]">
                 {member.role}
               </p>
-              <p className="font-sans text-sm text-gray-400 leading-relaxed opacity-90 group-hover:opacity-100 transition-opacity flex-grow font-light">
+              <p className="font-sans text-sm text-gray-400 leading-relaxed opacity-90 group-hover:opacity-100 transition-opacity flex-grow font-light mb-4">
                 {member.bio}
               </p>
+              {member.link && (
+                <div className="mt-4">
+                  <a
+                    href={member.link.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="font-sans text-[10px] uppercase tracking-widest text-oldgold border-b border-oldgold/20 pb-0.5 hover:text-white hover:border-white transition-colors inline-flex items-center gap-1 font-semibold"
+                  >
+                    {member.link.text} &rarr;
+                  </a>
+                </div>
+              )}
             </div>
           ))}
         </div>
@@ -113,9 +129,21 @@ export const Team: React.FC<TeamProps> = ({ onThesisClick }) => {
                 <p className="font-sans text-[10px] uppercase tracking-widest text-oldgold mb-6 font-bold">
                   {member.role}
                 </p>
-                <p className="font-sans text-sm text-gray-400 leading-relaxed font-light">
+                <p className="font-sans text-sm text-gray-400 leading-relaxed font-light mb-4">
                   {member.bio}
                 </p>
+                {member.link && (
+                  <div className="mt-4">
+                    <a
+                      href={member.link.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="font-sans text-[10px] uppercase tracking-widest text-oldgold border-b border-oldgold/20 pb-0.5 hover:text-white hover:border-white transition-colors inline-flex items-center gap-1 font-semibold"
+                    >
+                      {member.link.text} &rarr;
+                    </a>
+                  </div>
+                )}
               </div>
             ))}
           </div>
