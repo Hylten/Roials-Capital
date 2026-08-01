@@ -30,15 +30,12 @@ export const Hero: React.FC<HeroProps> = ({ onInquireClick }) => {
 
       <div className="relative z-10 max-w-6xl mx-auto px-6 text-center">
         <h1 className="font-serif font-medium text-5xl md:text-7xl lg:text-8xl text-platinum leading-tight tracking-tight mb-10 drop-shadow-2xl">
-          Institutional <span className="italic text-gray-300 font-light">Capital</span> <br />
-          Architecture.
+          LIQUIDITY. ENGINEERED.
         </h1>
         
         <div className="w-24 h-[1px] bg-oldgold mx-auto mb-12 shadow-[0_0_15px_rgba(197,160,89,0.6)]"></div>
         
-        <p className="font-sans text-platinum text-sm md:text-lg lg:text-xl tracking-[0.5em] uppercase font-medium mb-14 drop-shadow-lg">
-          LIQUIDITY. ENGINEERED.
-        </p>
+
       </div>
 
       {/* Scroll Indicator - Fixed Alignment & Slower Animation */}
