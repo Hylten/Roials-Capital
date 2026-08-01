@@ -38,12 +38,8 @@ export const Hero: React.FC<HeroProps> = ({ onInquireClick }) => {
 
       </div>
 
-      {/* Scroll Indicator - Fixed Alignment & Slower Animation */}
-      <div className="absolute bottom-12 left-0 w-full text-center z-20">
-        <div className="animate-bounce duration-[2000ms]">
-            <span className="text-oldgold text-xs tracking-[0.2em] uppercase font-medium drop-shadow-md">Scroll</span>
-        </div>
-      </div>
+
+
     </section>
   );
 };
