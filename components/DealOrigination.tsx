@@ -9,16 +9,17 @@ const pillars = [
     number: '01',
     title: 'MANDATE',
     description:
-      'Proprietary target acquisition for Fund-III+ buyouts across the EMEA mid-market, executing continental platform consolidation. Operations managed directly through the ',
+      'Proprietary target acquisition for institutional buyouts across the EMEA mid-market, executing cross-border platform consolidation. Operations managed directly through the senior advisory ',
     linkText: 'board',
-    postLink: ' of senior M&A specialists to guarantee absolute execution quality. Securing closed-loop deal flow and asymmetrical market access invisible to traditional intermediary networks.',
+    postLink:
+      ' and driven by autonomous agentic architecture to guarantee absolute execution quality. Securing closed-loop deal flow and asymmetrical access to the 97% of the market invisible to traditional intermediary networks.',
   },
   {
     number: '02',
     title: 'PARAMETERS',
     description:
-      'Focus: Real assets, private enterprises, and asset-based lending with strict underwriting standards. Execution: Principal-to-principal framework governed by conviction-based stewardship. Capacity: Strictly selective deployment capped to preserve execution quality.',
-  }
+      'Focus: High-cashflow private enterprises and core operating assets anchored by a rigorous minimum DSCR standard of 2.0 and strict capital discipline.\n\nExecution: Principal-to-principal framework powered by proprietary GTM-engineering and autonomous agentic workflows, grounded in disciplined LBO underwriting and absolute alignment of interest.\n\nCapacity: Strictly selective transaction volume capped to preserve execution velocity and strategic precision.',
+  },
 ];
 
 export const DealOrigination: React.FC<DealOriginationProps> = ({ onFirmClick }) => {
