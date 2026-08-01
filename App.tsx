@@ -34,6 +34,8 @@ const App: React.FC = () => {
 
   // Initial Logic
   useEffect(() => {
+    const path = window.location.pathname;
+
     // GitHub Pages SPA redirect handling
     const redirect = sessionStorage.redirect;
     if (redirect) {
