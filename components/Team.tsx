@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { TeamMember } from '../types';
 
 interface TeamProps {
@@ -71,8 +71,13 @@ const globalPartners: TeamMember[] = [
 ];
 
 export const Team: React.FC<TeamProps> = ({ onThesisClick }) => {
+  useEffect(() => {
+    document.title = "Board & Partners | Roials Capital";
+  }, []);
+
   return (
     <section id="team" className="py-32 bg-obsidian scroll-mt-24">
+      <h1 className="sr-only">Board & Partners | Roials Capital</h1>
       <div className="max-w-7xl mx-auto px-6 md:px-12">
         
         {/* --- LEADERSHIP SECTION --- */}

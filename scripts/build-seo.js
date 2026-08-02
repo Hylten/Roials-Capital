@@ -289,6 +289,26 @@ const contentHtml = `<div style="background: #000000; min-height: 100vh; padding
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>${SITE_URL}/board-partners/</loc>
+    <lastmod>${today}</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>${SITE_URL}/capital-origination/</loc>
+    <lastmod>${today}</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>${SITE_URL}/deal-origination/</loc>
+    <lastmod>${today}</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>${SITE_URL}/private-credit/</loc>
+    <lastmod>${today}</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>${SITE_URL}/regulatory/</loc>
     <lastmod>${today}</lastmod>
     <priority>0.9</priority>

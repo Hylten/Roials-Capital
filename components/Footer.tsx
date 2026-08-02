@@ -13,6 +13,8 @@ interface FooterProps {
   onPrivacyClick?: () => void;
   onCookiesClick?: () => void;
   onDataRoomClick?: () => void;
+  onCapOrigClick?: () => void;
+  onDealOrigClick?: () => void;
 }
 
 export const Footer: React.FC<FooterProps> = ({
@@ -27,7 +29,9 @@ export const Footer: React.FC<FooterProps> = ({
   onTermsClick,
   onPrivacyClick,
   onCookiesClick,
-  onDataRoomClick
+  onDataRoomClick,
+  onCapOrigClick,
+  onDealOrigClick
 }) => {
   return (
     <footer id="contact" className="bg-charcoal pt-24 pb-12 border-t border-white/5">
@@ -64,6 +68,18 @@ export const Footer: React.FC<FooterProps> = ({
                 Private Equity
               </li>
               <li
+                onClick={onCapOrigClick}
+                className="text-gray-300 text-base hover:text-oldgold cursor-pointer transition-colors font-light"
+              >
+                Capital Origination
+              </li>
+              <li
+                onClick={onDealOrigClick}
+                className="text-gray-300 text-base hover:text-oldgold cursor-pointer transition-colors font-light"
+              >
+                Deal Origination
+              </li>
+              <li
                 onClick={onPrivateCreditClick}
                 className="text-gray-300 text-base hover:text-oldgold cursor-pointer transition-colors font-light"
               >
@@ -85,7 +101,7 @@ export const Footer: React.FC<FooterProps> = ({
                 onClick={onTeamClick}
                 className="text-gray-300 text-base hover:text-white cursor-pointer transition-colors font-light"
               >
-                Partners
+                Board &amp; Partners
               </li>
               <li
                 onClick={onInquireClick}
@@ -139,11 +155,11 @@ export const Footer: React.FC<FooterProps> = ({
               &copy; 2026 Roials Capital. All rights reserved.
             </p>
             <div className="flex gap-6">
-              <button 
+              <button
                 onClick={() => {
                   if (onRegulatoryClick) onRegulatoryClick();
                   else if (onTermsClick) onTermsClick();
-                }} 
+                }}
                 className="font-sans text-xs text-gray-500 hover:text-oldgold transition-colors font-medium"
               >
                 Regulatory &amp; Firm Architecture

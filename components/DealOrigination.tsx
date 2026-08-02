@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 
 interface DealOriginationProps {
   onFirmClick: () => void;
@@ -23,6 +23,10 @@ const pillars = [
 ];
 
 export const DealOrigination: React.FC<DealOriginationProps> = ({ onFirmClick }) => {
+  useEffect(() => {
+    document.title = "Deal Origination | Roials Capital";
+  }, []);
+
   return (
     <div className="bg-obsidian min-h-screen pt-40 pb-32 px-6 animate-fade-in">
       <div className="max-w-3xl mx-auto">

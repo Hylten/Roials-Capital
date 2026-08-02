@@ -1,10 +1,14 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 
 interface PrivateCreditProps {
   onInquireClick: () => void;
 }
 
 export const PrivateCredit: React.FC<PrivateCreditProps> = ({ onInquireClick }) => {
+  useEffect(() => {
+    document.title = "Private Credit | Roials Capital";
+  }, []);
+
   return (
     <div className="bg-obsidian min-h-screen pt-32 animate-fade-in">
       

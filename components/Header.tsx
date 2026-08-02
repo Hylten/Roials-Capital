@@ -138,7 +138,7 @@ export const Header: React.FC<HeaderProps> = ({
                   currentView === 'team' ? 'text-oldgold' : 'text-platinum hover:text-oldgold'
                 }`}
               >
-                Firm
+                Board &amp; Partners
               </button>
             </nav>
 
@@ -206,7 +206,7 @@ export const Header: React.FC<HeaderProps> = ({
               currentView === 'team' ? 'text-oldgold' : 'text-platinum hover:text-oldgold'
             }`}
           >
-            FIRM
+            BOARD &amp; PARTNERS
           </button>
           <button
             onClick={() => handleNavAction(onDataRoomClick)}

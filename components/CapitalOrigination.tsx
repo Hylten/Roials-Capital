@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 
 interface CapitalOriginationProps {
   onFirmClick: () => void;
@@ -28,6 +28,10 @@ const pillars = [
 ];
 
 export const CapitalOrigination: React.FC<CapitalOriginationProps> = ({ onFirmClick }) => {
+  useEffect(() => {
+    document.title = "Capital Origination | Roials Capital";
+  }, []);
+
   return (
     <div className="bg-obsidian min-h-screen pt-40 pb-32 px-6 animate-fade-in">
       <div className="max-w-3xl mx-auto">

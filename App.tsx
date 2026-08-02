@@ -22,6 +22,57 @@ import { Regulatory } from './components/Regulatory';
 
 type View = 'home' | 'login' | 'thesis' | 'private-credit' | 'mandates' | 'team' | 'inquire' | 'terms' | 'privacy' | 'cookies' | 'dataroom' | 'capital-origination' | 'deal-origination' | 'regulatory';
 
+const viewToPath = (view: View): string => {
+  const routes: Record<string, string> = {
+    'home': '/',
+    'team': '/board-partners',
+    'capital-origination': '/capital-origination',
+    'deal-origination': '/deal-origination',
+    'private-credit': '/private-credit',
+    'thesis': '/thesis',
+    'mandates': '/mandates',
+    'inquire': '/inquire',
+    'regulatory': '/regulatory',
+    'dataroom': '/dataroom',
+    'login': '/login',
+  };
+  return routes[view] || '/';
+};
+
+const pathToView = (path: string): View => {
+  const routeMap: Record<string, View> = {
+    '/': 'home',
+    '/board-partners': 'team',
+    '/capital-origination': 'capital-origination',
+    '/deal-origination': 'deal-origination',
+    '/private-credit': 'private-credit',
+    '/thesis': 'thesis',
+    '/mandates': 'mandates',
+    '/inquire': 'inquire',
+    '/regulatory': 'regulatory',
+    '/dataroom': 'dataroom',
+    '/login': 'login',
+  };
+  return routeMap[path] || 'home';
+};
+
+const seoTitles: Record<View, string> = {
+  'home': 'Roials Capital | Institutional Asset Architects',
+  'team': 'Board & Partners | Roials Capital',
+  'capital-origination': 'Capital Origination | Roials Capital',
+  'deal-origination': 'Deal Origination | Roials Capital',
+  'private-credit': 'Private Credit | Roials Capital',
+  'thesis': 'Thesis | Roials Capital',
+  'mandates': 'Private Equity | Roials Capital',
+  'inquire': 'Inquire | Roials Capital',
+  'regulatory': 'Regulatory & Firm Architecture | Roials Capital',
+  'dataroom': 'Data Room | Roials Capital',
+  'login': 'LP Access | Roials Capital',
+  'terms': 'Terms | Roials Capital',
+  'privacy': 'Privacy | Roials Capital',
+  'cookies': 'Cookies | Roials Capital',
+};
+
 const App: React.FC = () => {
   const [currentView, setCurrentView] = useState<View>('home');
   const [intelligenceSlug, setIntelligenceSlug] = useState<string | null>(null);
@@ -30,18 +81,19 @@ const App: React.FC = () => {
   const [showSplash, setShowSplash] = useState(false);
   const [isRevealed, setIsRevealed] = useState(false);
   const [animationComplete, setAnimationComplete] = useState(false);
-  const [accessType, setAccessType] = useState<'lp-access' | 'dataroom'>('lp-access'); // Nytt state för att spara åtkomsttyp
+  const [accessType, setAccessType] = useState<'lp-access' | 'dataroom'>('lp-access');
 
   // Initial Logic
   useEffect(() => {
-    const path = window.location.pathname;
+    // Resolve the effective path, handling GitHub Pages 404 redirects
+    let path = window.location.pathname;
 
-    // GitHub Pages SPA redirect handling
     const redirect = sessionStorage.redirect;
     if (redirect) {
       delete sessionStorage.redirect;
       const redirectedPath = new URL(redirect).pathname;
-      
+
+      // Intelligence pages render standalone below
       if (redirectedPath.startsWith('/intelligence')) {
         const slug = redirectedPath.replace('/intelligence', '').replace(/^\/|\/$/g, '');
         if (slug) {
@@ -53,13 +105,19 @@ const App: React.FC = () => {
         window.history.replaceState({}, '', redirectedPath);
         return;
       }
+
+      // Static routes redirect through 404.html -> resolve to the correct view
+      path = redirectedPath;
+      window.history.replaceState({}, '', redirectedPath);
     }
 
     // Check for Regulatory path
     if (path.startsWith('/regulatory') || path.startsWith('/firm-architecture')) {
       setCurrentView('regulatory');
+      document.title = seoTitles['regulatory'];
       setAnimationComplete(true);
       setIsRevealed(true);
+      setShowSplash(false);
       return;
     }
 
@@ -69,23 +127,34 @@ const App: React.FC = () => {
       if (slug) {
         setIntelligenceSlug(slug);
       }
-      setCurrentView('home'); // Override rendering down below
+      setCurrentView('home');
       setAnimationComplete(true);
       setIsRevealed(true);
-      return; // Skip standard splash logic for SEO routes
+      return;
     }
 
-    // Check for explicit View URLs from Intelligence pages redirecting back
-    const urlParams = new URLSearchParams(window.location.search);
-    const viewParam = urlParams.get('view') as View | null;
-
-    if (viewParam) {
-      setCurrentView(viewParam);
+    // Static routing: map path to view
+    const staticView = pathToView(path);
+    if (staticView !== 'home' || path === '/') {
+      setCurrentView(staticView);
+      document.title = seoTitles[staticView] || seoTitles['home'];
       setAnimationComplete(true);
       setIsRevealed(true);
       setShowSplash(false);
-      // Clean up URL without triggering a reload
-      window.history.replaceState({}, '', '/');
+      return;
+    }
+
+    // Backwards-compatible explicit view URLs (?view=xxx)
+    const urlParams = new URLSearchParams(window.location.search);
+    const viewParam = urlParams.get('view') as View | null;
+    if (viewParam) {
+      const staticPath = viewToPath(viewParam);
+      window.history.replaceState({}, '', staticPath);
+      setCurrentView(viewParam);
+      document.title = seoTitles[viewParam] || seoTitles['home'];
+      setAnimationComplete(true);
+      setIsRevealed(true);
+      setShowSplash(false);
       return;
     }
 
@@ -99,18 +168,14 @@ const App: React.FC = () => {
 
     if (!hasSeenSplash) {
       setShowSplash(true);
-      // Main content starts hidden/pushed down slightly
       setIsRevealed(false);
       setAnimationComplete(false);
-      // Mark as seen
       sessionStorage.setItem('roials_splash_seen', 'true');
     } else {
-      // If seen, immediately show content and skip animation
       setIsRevealed(true);
       setAnimationComplete(true);
     }
 
-    // Scroll handling
     window.scrollTo(0, 0);
     document.body.style.overflow = 'auto';
     document.documentElement.style.overflow = 'auto';
@@ -119,10 +184,12 @@ const App: React.FC = () => {
       const stateView = event.state?.view as View | null;
       if (stateView) {
         setCurrentView(stateView);
+        document.title = seoTitles[stateView] || seoTitles['home'];
       } else {
-        const params = new URLSearchParams(window.location.search);
-        const urlView = params.get('view') as View | null;
-        setCurrentView(urlView || 'home');
+        const currentPath = window.location.pathname;
+        const resolvedView = pathToView(currentPath);
+        setCurrentView(resolvedView);
+        document.title = seoTitles[resolvedView] || seoTitles['home'];
       }
     };
 
@@ -137,7 +204,6 @@ const App: React.FC = () => {
 
   const handleSplashComplete = () => {
     setIsRevealed(true);
-    // Faster reveal timings to match 3s splash
     setTimeout(() => {
       setAnimationComplete(true);
     }, 800);
@@ -145,21 +211,21 @@ const App: React.FC = () => {
   };
 
   const handleViewChange = (view: View) => {
-    // If trying to access dataroom, but not authenticated, go to login
     if (view === 'dataroom' && !isAuthenticated) {
       setCurrentView('login');
-      setAccessType('dataroom'); // Spara att vi försökte nå dataroom
+      setAccessType('dataroom');
       return;
     }
     if (view === 'login') {
-      setAccessType('lp-access'); // Spara att vi försökte nå lp-access
+      setAccessType('lp-access');
     }
     setCurrentView(view);
-    
+
     // Update URL so back button works
-    const url = view === 'home' ? '/' : `/?view=${view}`;
+    const url = viewToPath(view);
     window.history.pushState({ view }, '', url);
-    
+    document.title = seoTitles[view] || seoTitles['home'];
+
     window.scrollTo({ top: 0, behavior: 'instant' });
   };
 
@@ -184,15 +250,15 @@ const App: React.FC = () => {
       <div className="bg-obsidian min-h-screen text-platinum selection:bg-oldgold selection:text-obsidian flex flex-col">
         <Header
           onHomeClick={() => { window.location.href = '/'; }}
-          onThesisClick={() => { window.location.href = '/?view=thesis'; }}
-          onCreditClick={() => { window.location.href = '/?view=private-credit'; }}
-          onMandatesClick={() => { window.location.href = '/?view=mandates'; }}
-          onCapOrigClick={() => { window.location.href = '/?view=capital-origination'; }}
-          onDealOrigClick={() => { window.location.href = '/?view=deal-origination'; }}
-          onTeamClick={() => { window.location.href = '/?view=team'; }}
+          onThesisClick={() => { window.location.href = '/thesis'; }}
+          onCreditClick={() => { window.location.href = '/private-credit'; }}
+          onMandatesClick={() => { window.location.href = '/mandates'; }}
+          onCapOrigClick={() => { window.location.href = '/capital-origination'; }}
+          onDealOrigClick={() => { window.location.href = '/deal-origination'; }}
+          onTeamClick={() => { window.location.href = '/board-partners'; }}
           onInquireClick={() => { window.location.href = '/'; }}
-          onLoginClick={() => { window.location.href = '/?view=login'; }}
-          onDataRoomClick={() => { window.location.href = '/?view=dataroom'; }}
+          onLoginClick={() => { window.location.href = '/login'; }}
+          onDataRoomClick={() => { window.location.href = '/dataroom'; }}
           currentView="intelligence"
         />
         <main className="flex-grow">
@@ -213,20 +279,20 @@ const App: React.FC = () => {
           </div>
         </main>
 
-
-
         <Footer
           onHomeClick={() => { window.location.href = '/'; }}
-          onLoginClick={() => { window.location.href = '/?view=login'; }}
-          onThesisClick={() => { window.location.href = '/?view=thesis'; }}
-          onPrivateCreditClick={() => { window.location.href = '/?view=private-credit'; }}
-          onMandatesClick={() => { window.location.href = '/?view=mandates'; }}
-          onTeamClick={() => { window.location.href = '/?view=team'; }}
+          onLoginClick={() => { window.location.href = '/login'; }}
+          onThesisClick={() => { window.location.href = '/thesis'; }}
+          onPrivateCreditClick={() => { window.location.href = '/private-credit'; }}
+          onMandatesClick={() => { window.location.href = '/mandates'; }}
+          onTeamClick={() => { window.location.href = '/board-partners'; }}
           onInquireClick={() => { window.location.href = '/'; }}
-          onTermsClick={() => { window.location.href = '/?view=terms'; }}
-          onPrivacyClick={() => { window.location.href = '/?view=privacy'; }}
-          onCookiesClick={() => { window.location.href = '/?view=cookies'; }}
-          onDataRoomClick={() => { window.location.href = '/?view=dataroom'; }}
+          onTermsClick={() => { window.location.href = '/regulatory'; }}
+          onPrivacyClick={() => { window.location.href = '/regulatory'; }}
+          onCookiesClick={() => { window.location.href = '/regulatory'; }}
+          onDataRoomClick={() => { window.location.href = '/dataroom'; }}
+          onCapOrigClick={() => { window.location.href = '/capital-origination'; }}
+          onDealOrigClick={() => { window.location.href = '/deal-origination'; }}
         />
       </div>
     );
@@ -236,7 +302,6 @@ const App: React.FC = () => {
     <>
       {showSplash && <SplashScreen onComplete={handleSplashComplete} />}
 
-      {/* Header positioned outside the transformed container to ensure sticky/fixed positioning works correctly */}
       <Header
         onHomeClick={() => handleViewChange('home')}
         onThesisClick={() => handleViewChange('thesis')}
@@ -255,10 +320,10 @@ const App: React.FC = () => {
       {/* Main Content Wrapper */}
       <div
         className={`bg-obsidian min-h-screen text-platinum selection:bg-oldgold selection:text-obsidian flex flex-col ${animationComplete
-          ? '' // Remove transforms after animation to fix fixed-positioning contexts (popups, etc)
+          ? ''
           : `transition-all duration-[1000ms] ease-out will-change-transform ${isRevealed
             ? 'opacity-100 scale-100 translate-y-0'
-            : 'opacity-0 scale-[0.98] translate-y-12' // Subtle depth effect while waiting for splash
+            : 'opacity-0 scale-[0.98] translate-y-12'
           }`
           }`}
       >
@@ -326,10 +391,11 @@ const App: React.FC = () => {
           onPrivacyClick={() => handleViewChange('regulatory')}
           onCookiesClick={() => handleViewChange('regulatory')}
           onDataRoomClick={() => handleViewChange('dataroom')}
+          onCapOrigClick={() => handleViewChange('capital-origination')}
+          onDealOrigClick={() => handleViewChange('deal-origination')}
         />
       </div>
 
-      {/* Modal outside content wrapper */}
       <ContactModal
         isOpen={isContactModalOpen}
         onClose={() => setIsContactModalOpen(false)}
