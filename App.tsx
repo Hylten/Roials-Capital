@@ -91,7 +91,7 @@ const App: React.FC = () => {
     const redirect = sessionStorage.redirect;
     if (redirect) {
       delete sessionStorage.redirect;
-      const redirectedPath = new URL(redirect).pathname;
+      const redirectedPath = redirect.startsWith('http') ? new URL(redirect).pathname : redirect;
 
       // Intelligence pages render standalone below
       if (redirectedPath.startsWith('/intelligence')) {
