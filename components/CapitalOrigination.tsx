@@ -147,7 +147,7 @@ export const CapitalOrigination: React.FC<CapitalOriginationProps> = ({ onFirmCl
             className="group relative inline-flex items-center gap-2 text-oldgold hover:text-white transition-colors duration-500"
           >
             <span className="font-serif text-xl border-b border-oldgold/30 pb-2 group-hover:border-white transition-all duration-500 uppercase">
-              FIRM
+              BOARD
             </span>
             <span className="text-xl transform group-hover:translate-x-1 transition-transform duration-500">
               &rarr;
