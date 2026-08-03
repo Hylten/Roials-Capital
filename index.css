@@ -54,6 +54,11 @@ body {
   }
 }
 
+.splash-lion-settled {
+  transform: scale(1.3);
+  filter: brightness(1.1);
+}
+
 .splash-char-enter {
   opacity: 0;
   animation: fallChar 0.5s cubic-bezier(0.25, 1, 0.5, 1) forwards;

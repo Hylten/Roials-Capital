@@ -36,8 +36,8 @@ export const SplashScreen: React.FC<SplashScreenProps> = ({ onComplete }) => {
     };
   }, [onComplete]);
   
-  const isLionVisible = stage === 'lion-enter' || stage === 'lion-exit';
-  const isLionAnimating = stage === 'lion-enter' || stage === 'lion-exit';
+  const isLionVisible = stage === 'lion-enter' || stage === 'lion-exit' || stage === 'complete';
+  const isLionAnimating = stage === 'lion-enter' || stage === 'lion-exit' || stage === 'complete';
 
   return (
     <div 
@@ -77,7 +77,7 @@ export const SplashScreen: React.FC<SplashScreenProps> = ({ onComplete }) => {
                 aria-hidden="true"
                 onError={(e) => handleImageFallback(e, ASSETS.lion.remote)}
                 className={`h-32 md:h-56 w-auto object-contain ${
-                    isLionAnimating ? 'splash-lion-zoom' : 'scale-90'
+                    isLionAnimating ? 'splash-lion-zoom' : 'splash-lion-settled'
                 }`}
             />
         </div>
