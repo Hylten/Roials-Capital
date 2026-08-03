@@ -12,7 +12,7 @@ const pillars = [
       'Proprietary target acquisition for institutional buyouts across the EMEA mid-market, executing cross-border platform consolidation. Operations managed directly through the senior advisory ',
     linkText: 'board',
     postLink:
-      ' and driven by autonomous agentic architecture to guarantee absolute execution quality. Securing closed-loop deal flow and asymmetrical access to the 97% of the market invisible to traditional intermediary networks.',
+      ' and executed through proprietary agentic origination workflows with institutional human-in-the-loop governance. Engineered for closed-loop counterparty progression and institutional execution quality. Securing asymmetrical access to the proprietary opportunity set that never reaches traditional intermediary networks, reached through agent-researched personalized principal-to-principal engagement.',
   },
   {
     number: '02',

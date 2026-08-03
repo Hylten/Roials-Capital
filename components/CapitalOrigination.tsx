@@ -10,7 +10,7 @@ const pillars = [
     title: 'PRINCIPAL-LED EXECUTION',
     description:
       'Direct principal-led transaction management backed by the extensive background detailed on the',
-    linkText: 'firm',
+    linkText: 'board',
     postLink: 'page.',
   },
   {

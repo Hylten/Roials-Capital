@@ -3,11 +3,11 @@ import { Stat } from '../types';
 
 const stats: Stat[] = [
   {
-    label: 'AGGREGATE TRACK RECORD',
+    label: 'COMBINED SENIOR BOARD TRACK RECORD',
     value: '$21B+',
     subtitle: 'PE, M&A, DERIVATIVES & CREDIT.'
   },
-  { label: 'Global Reach', value: 'NY · LDN · DXB · STHLM · ZUG' },
+  { label: 'GLOBAL PARTNER JURISDICTIONS', value: 'STHLM · LDN · DXB · ZUG · NY' },
   { label: 'Structure', value: 'Principal-Led' },
 ];
 

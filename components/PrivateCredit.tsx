@@ -32,7 +32,7 @@ export const PrivateCredit: React.FC<PrivateCreditProps> = ({ onInquireClick }) 
             GLOBAL CREDIT <br/> ARCHITECTURE
           </h1>
           <p className="font-sans text-gray-300 text-lg md:text-xl font-medium tracking-[0.15em] uppercase max-w-3xl mx-auto">
-            1,100+ INSTITUTIONAL SOURCES.
+            TIER-ONE INSTITUTIONAL SOURCES.
           </p>
         </div>
       </section>
@@ -50,7 +50,7 @@ export const PrivateCredit: React.FC<PrivateCreditProps> = ({ onInquireClick }) 
                 </h2>
                 <div className="w-12 h-[1px] bg-oldgold mb-8"></div>
                 <p className="font-sans text-gray-400 text-lg leading-relaxed font-light mb-4">
-                  Accessing an institutional network of <strong className="text-gray-200">1,100+ global credit sources</strong> to create competitive tension among lenders and secure optimized term sheets.
+                  Direct access to tier-one institutional credit sources across public securities, digital assets, and real assets, structured to create competitive tension among lenders and secure optimized term sheets.
                 </p>
                 <p className="font-sans text-gray-400 text-lg leading-relaxed font-light mb-6">
                   Operating strictly as an independent advisory boutique structuring bespoke liquidity solutions for high-complexity portfolios.

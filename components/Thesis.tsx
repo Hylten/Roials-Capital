@@ -60,6 +60,25 @@ export const Thesis: React.FC<ThesisProps> = ({ onInquireClick }) => {
 
         </div>
 
+        {/* Section 4: Board Perspective */}
+        <section>
+            <div className="flex flex-col md:flex-row items-baseline gap-4 mb-8 border-b border-white/10 pb-4">
+                <span className="font-sans text-xs font-bold text-oldgold uppercase tracking-[0.3em]">04. BOARD PERSPECTIVE</span>
+            </div>
+            <h2 className="font-serif text-2xl md:text-3xl text-platinum mb-6 leading-tight uppercase tracking-wide">
+                STRUCTURAL FRICTION.
+            </h2>
+            <p className="font-sans text-lg md:text-xl text-gray-400 font-light leading-relaxed">
+                Every mandate begins with a forensic examination of structural friction. Liquidity architecture, governance posture, portfolio concentration, and disclosure exposure. We surface these dimensions before capital contact, structuring around them rather than through them.
+            </p>
+            <p className="font-sans text-lg md:text-xl text-gray-400 font-light leading-relaxed mt-6">
+                This is the discipline that separates engineered capital formation from placement.
+            </p>
+            <p className="font-sans text-lg md:text-xl text-gray-400 font-light leading-relaxed mt-6">
+                Mandate-specific analyses disclosed under NDA in qualifying discovery calls.
+            </p>
+        </section>
+
         {/* Minimalist CTA Section - Interactive Scarcity Text */}
         <div className="mt-32 pt-4 border-t border-white/5 text-center">
             <button 
