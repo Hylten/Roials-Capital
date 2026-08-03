@@ -233,10 +233,11 @@ const App: React.FC = () => {
     window.scrollTo({ top: 0, behavior: 'instant' });
   };
 
-  const handleLoginSuccess = () => {
+  const handleLoginSuccess = (role?: 'lp' | 'dataroom') => {
     setIsAuthenticated(true);
     sessionStorage.setItem('roials_dataroom_auth', 'true');
-    setCurrentView(currentView === 'dataroom' ? 'dataroom' : 'lp-portal');
+    const destination = role ? (role === 'dataroom' ? 'dataroom' : 'lp-portal') : (currentView === 'dataroom' ? 'dataroom' : 'lp-portal');
+    setCurrentView(destination);
   };
 
   const handleReplayIntro = () => {

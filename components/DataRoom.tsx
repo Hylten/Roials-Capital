@@ -7,6 +7,7 @@ interface FileItem {
     version: string;
     size: string;
     status?: 'new' | 'updated';
+    realPath?: string; // om satt → riktig nedladdningslänk till public/dataroom/
 }
 
 interface Folder {
@@ -92,7 +93,7 @@ const dataRoomFolders: Folder[] = [
         name: '07_Legal_Compliance',
         description: 'SFDR, AIFMD marketing delegation, ILPA NDA and compliance manual.',
         files: [
-            { name: 'ILPA_Model_NDA_2026.md', type: 'md', date: '2026-01-25', version: '1.0', size: '15 KB' },
+            { name: 'ILPA_Model_NDA_2026.md', type: 'md', date: '2026-01-25', version: '1.0', size: '15 KB', realPath: '/dataroom/ILPA_Model_NDA_2026.md' },
             { name: 'Marketing_Delegation_Memo_AIFMD_II.md', type: 'md', date: '2026-01-25', version: '1.0', size: '10 KB' },
             { name: 'Compliance_Manual_2026.pdf', type: 'pdf', date: '2026-01-20', version: '2.0', size: '1.1 MB' },
             { name: 'Anti_Money_Laundering_Policy.pdf', type: 'pdf', date: '2026-01-20', version: '1.7', size: '760 KB' }
@@ -123,7 +124,7 @@ const dataRoomFolders: Folder[] = [
         name: '10_ESG_Sustainability',
         description: 'SFDR Article 8 framework, ESG policy and TCFD alignment.',
         files: [
-            { name: 'ESG_Article_8_Compliance_Framework.md', type: 'md', date: '2026-01-25', version: '1.0', size: '22 KB', status: 'updated' },
+            { name: 'ESG_Article_8_Compliance_Framework.md', type: 'md', date: '2026-01-25', version: '1.0', size: '22 KB', status: 'updated', realPath: '/dataroom/ESG_Article_8_Compliance_Framework.md' },
             { name: 'ESG_Policy_Statement_2026.pdf', type: 'pdf', date: '2026-01-20', version: '2.1', size: '510 KB' },
             { name: 'TCFD_Alignment_Report_2025.pdf', type: 'pdf', date: '2025-11-30', version: '1.0', size: '940 KB' }
         ]
@@ -290,12 +291,22 @@ export const DataRoom: React.FC<DataRoomProps> = ({ onBack }) => {
                                                     </p>
                                                 </div>
                                             </div>
-                                            <button
-                                                onClick={() => setDownloadNote(file.name)}
-                                                className="px-4 py-2 text-xs font-semibold uppercase tracking-widest text-obsidian bg-platinum group-hover:bg-oldgold rounded-lg transition-all duration-300 mt-4 sm:mt-0"
-                                            >
-                                                Download
-                                            </button>
+                                            {file.realPath ? (
+                                                <a
+                                                    href={file.realPath}
+                                                    download
+                                                    className="px-4 py-2 text-xs font-semibold uppercase tracking-widest text-obsidian bg-platinum group-hover:bg-oldgold rounded-lg transition-all duration-300 mt-4 sm:mt-0 inline-block"
+                                                >
+                                                    Download
+                                                </a>
+                                            ) : (
+                                                <button
+                                                    onClick={() => setDownloadNote(file.name)}
+                                                    className="px-4 py-2 text-xs font-semibold uppercase tracking-widest text-obsidian bg-platinum group-hover:bg-oldgold rounded-lg transition-all duration-300 mt-4 sm:mt-0"
+                                                >
+                                                    Download
+                                                </button>
+                                            )}
                                         </div>
                                     ))}
                                 </div>
