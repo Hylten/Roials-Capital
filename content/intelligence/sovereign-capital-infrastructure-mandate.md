@@ -1,13 +1,18 @@
 ---
-title: The Sovereign Infrastructure Mandate
-description: >-
-  Institutional briefing on the regime shift in sovereign capital architecture,
-  private credit hardening, Fund-III capital formation, and the structural
-  redesign of national liquidity systems.
-date: '2026-02-07'
-author: Jonas Hyltén
-slug: sovereign-capital-infrastructure-mandate
+title: "The Sovereign Infrastructure Mandate"
+slug: "sovereign-capital-infrastructure-mandate"
+description: "Institutional briefing on the regime shift in sovereign capital architecture, private credit hardening, Fund-III capital formation, and the structural redesign of national liquidity systems."
+date: "2026-02-07"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/sovereign-capital-infrastructure-mandate/"
+meta_title: "The Sovereign Infrastructure Mandate"
+meta_description: "Institutional briefing on the regime shift in sovereign capital architecture, private credit hardening, Fund-III capital formation, and the structural redesign of national liquidity systems."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
+
 A sovereign balance sheet collapses in silence long before it collapses in public. The structural gap always appears first inside the liquidity spine of the state: the infrastructure that aggregates collateral, transforms risk, and transmits credit into productive capacity. That is the counter-intuitive truth. Nations fail not due to lack of assets but due to lack of institutional architecture capable of marshaling them. Order is not an option. As Principal Investigator, I treat sovereign capital infrastructure the same way I treat a distressed balance sheet. Identify the fracture. Reconstruct the transmission system. Install governance that cannot drift. The next decade will reward the actors who build systems that enforce consistency in a world defined by fiscal entropy.
 
 ## The Regime Shift
@@ -92,4 +97,3 @@ Assets must be governed, not exploited. A reservoir that is overproduced is a vi
 3. The generational horizon filter.
 
 Fund-III does not operate for the quarter. Nor for the election cycle. The frame is generational. Private capital with generational discipline always outperforms sovereign capital with temporal incentives. EXIT The future of sovereign capital infrastructure will be decided by one metric: recovery integrity. When recovery structures strengthen, capital flows return. When they weaken, sovereign control erodes. A sovereign survives on the precision of its collateral spine. A fund survives on the precision of its governance. For LPs, family offices, and institutional allocators requiring a confidential capital audit for Fund-III positioning, initiate contact under secure channel.
-

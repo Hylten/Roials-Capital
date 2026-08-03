@@ -1,13 +1,18 @@
 ---
-title: The Middle Market Regime and the Credit Sovereignty Window
-description: >-
-  Institutional briefing on middle-market private credit, liquidity engineering,
-  and capital raising mechanics for Fund-III mandates targeting buyouts,
-  add-ons, Asset-Based Lending structures, and sector specific special mandates.
-date: '2026-01-15'
-author: Roials Capital
-slug: middle-market-private-credit-regime
+title: "The Middle Market Regime and the Credit Sovereignty Window"
+slug: "middle-market-private-credit-regime"
+description: "Institutional briefing on middle-market private credit, liquidity engineering, and capital raising mechanics for Fund-III mandates targeting buyouts, add-ons, Asset-Based Lending structures, and sector specific specia…"
+date: "2026-01-15"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/middle-market-private-credit-regime/"
+meta_title: "The Middle Market Regime and the Credit Sovereignty Window"
+meta_description: "Institutional briefing on middle-market private credit, liquidity engineering, and capital raising mechanics for Fund-III mandates targeting buyouts, add-ons, Asset-Based Lending structures, and sector specific specia…"
+featured_image: ""
+draft: false
+author: "Roials Capital"
 ---
+
 A structural gap appears when capital migrates faster than underwriting standards can adapt. The middle market sits precisely in that imbalance. Capital entered. Infrastructure did not. That is the opportunity.
 
 ## The Regime Shift
@@ -44,7 +49,6 @@ Middle-market private credit magnifies this principle because each transaction i
 
 It is strategy.
 
-
 The stewardship filter operates through three commitments.
 
 1. Allocation discipline.
@@ -66,4 +70,3 @@ We engineer both through a Fund-III architecture targeting a 1.
 8 times MOIC on senior-secured middle-market exposure with a
 
 36 to 48 month duration band. Request a confidential capital audit to determine alignment with Fund-III deployment parameters.
-

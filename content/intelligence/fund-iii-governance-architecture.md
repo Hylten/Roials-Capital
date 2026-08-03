@@ -1,13 +1,18 @@
 ---
-title: Fund‑III Governance Architecture for Institutional Allocators
-description: >-
-  Principal briefing on GP governance scaling, allocator‑grade reporting
-  systems, and cross‑jurisdictional capital interfaces for Fund‑III buyout
-  platforms.
-date: '2025-11-22'
-author: Roials Capital
-slug: Fund-III-governance-architecture
+title: "Fund‑III Governance Architecture for Institutional Allocators"
+slug: "Fund-III-governance-architecture"
+description: "Principal briefing on GP governance scaling, allocator‑grade reporting systems, and cross‑jurisdictional capital interfaces for Fund‑III buyout platforms."
+date: "2025-11-22"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/Fund-III-governance-architecture/"
+meta_title: "Fund‑III Governance Architecture for Institutional Allocators"
+meta_description: "Principal briefing on GP governance scaling, allocator‑grade reporting systems, and cross‑jurisdictional capital interfaces for Fund‑III buyout platforms."
+featured_image: ""
+draft: false
+author: "Roials Capital"
 ---
+
 Governance scales only when the spine is built early. Late fixes break trust. Allocators see everything. Move first. Hold ground. Principal posture only. Phase shift begins at Fund‑III. Capital becomes institutional. Scrutiny intensifies. The GP must harden its architecture before the first diligence packet leaves the vault. Internal Logic. Start with hierarchy. The GP defines the frame. The reporting stack conforms to it. Never invert the order.
 
 1. Governance Spine.
@@ -25,4 +30,3 @@ Fund‑III runs on cross-border execution. European holding logic. North America
 If the borrower’s secured collateral supports the structure, enforce the Qualification Gates: $2M entry. $5M institutional tier.
 
 Nothing below. Nothing compromised. One more point. Liquidity Engineering used once. Never twice. Exit on conviction. Fund‑III governance is not reporting. It is identity. It is the GP’s signature written into the capital spine. Allocators read that signature before the deck, before the model, before the benchmark. Write it well. Request confidential capital audit.
-

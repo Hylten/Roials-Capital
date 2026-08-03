@@ -1,13 +1,18 @@
 ---
-title: 'Architecture of Capital: Engineered Sovereignty'
-description: >-
-  Institutional brief on sovereign-grade capital architecture, Fund-III
-  mobilization, liquidity engineering, and cross‑jurisdictional acquisition
-  structuring for LP/GP mandates.
-date: '2025-09-15'
-author: Roials Capital
-slug: architecture-of-capital-engineered-sovereignty
+title: "Architecture of Capital: Engineered Sovereignty"
+slug: "architecture-of-capital-engineered-sovereignty"
+description: "Institutional brief on sovereign-grade capital architecture, Fund-III mobilization, liquidity engineering, and cross‑jurisdictional acquisition structuring for LP/GP mandates."
+date: "2025-09-15"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/architecture-of-capital-engineered-sovereignty/"
+meta_title: "Architecture of Capital: Engineered Sovereignty"
+meta_description: "Institutional brief on sovereign-grade capital architecture, Fund-III mobilization, liquidity engineering, and cross‑jurisdictional acquisition structuring for LP/GP mandates."
+featured_image: ""
+draft: false
+author: "Roials Capital"
 ---
+
 Sovereignty is engineered, not inherited. Capital forms the substrate. Governance defines the perimeter. Architecture determines how long the structure holds under pressure. The brief that follows establishes a hardened, acquisition‑ready framework for Fund‑III expansion, institutional Capital Structuring, and mandate‑driven cross‑border asset consolidation. No abstractions. No drift. Precision only. Legacy systems fail for one reason: structural externalization. They depend on counterparties for legitimacy, creditors for oxygen, regulators for definitions. We build differently. We internalize the stack.
 
 Control the flow. Encode the hierarchy. Quiet architecture.
@@ -15,7 +20,6 @@ Control the flow. Encode the hierarchy. Quiet architecture.
 High conviction. Clean execution. Capital is not money. Capital is mobility. Mobility is leverage. Leverage is jurisdictional geometry.
 
 Geometry is power.
-
 
 Sovereign architecture begins there.
 
@@ -209,4 +213,3 @@ Intent drives sovereignty. We build systems that outlive cycles. We engineer str
 . REQUEST For LP/GP alignment, cross‑jurisdictional preparation, and mandate intake, initiate a confidential capital audit. Terminal Metric: Enforcement Latency Target = <
 
 72 hours.
-

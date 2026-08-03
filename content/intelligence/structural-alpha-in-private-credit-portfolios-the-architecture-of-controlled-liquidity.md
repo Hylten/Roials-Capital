@@ -1,16 +1,17 @@
 ---
-title: >-
-  Structural Alpha in Private Credit Portfolios: The Architecture of Controlled
-  Liquidity
-description: >-
-  An institutional examination of structural alpha within private credit and
-  asset based liquidity engineering frameworks, engineered for HNWI and UHNW
-  liquidity optimization.
-date: '2025-12-10'
-author: Jonas Hyltén
-slug: structural-alpha-in-private-credit-portfolios-the-architecture-of-controlled-liquidity
+title: "Structural Alpha in Private Credit Portfolios: The Architecture of Controlled Liquidity"
+slug: "structural-alpha-in-private-credit-portfolios-the-architecture-of-controlled-liquidity"
+description: "An institutional examination of structural alpha within private credit and asset based liquidity engineering frameworks, engineered for HNWI and UHNW liquidity optimization."
+date: "2025-12-10"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/structural-alpha-in-private-credit-portfolios-the-architecture-of-controlled-liquidity/"
+meta_title: "Structural Alpha in Private Credit Portfolios: The Architecture of Controlled Liquidity"
+meta_description: "An institutional examination of structural alpha within private credit and asset based liquidity engineering frameworks, engineered for HNWI and UHNW liquidity optimization."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
-# Structural Alpha in Private Credit Portfolios Structural alpha is not a market phenomenon. It is an engineering outcome.
 
 It is the product of design, governance, and liquidity architecture that is executed with precision rather than hoped for. At Roials Capital, structural alpha emerges from the way collateral is framed, the way risk paths are sealed, and the way private credit exposures are transformed into predictable liquidity engines for HNWI and UHNW clients.
 
@@ -97,4 +98,3 @@ They will be the ones who design the most resilient structures. They will be the
 The Roials Capital Position Roials Capital stands at the intersection of private credit, asset based Asset-Backed Frameworks, and modern collateral. We operate with principal authority.
 
 We design the structures. We create the liquidity. We preserve the integrity of our clients’ capital strategies. Structural alpha is the product. Architecture is the method. Request confidential audit
-

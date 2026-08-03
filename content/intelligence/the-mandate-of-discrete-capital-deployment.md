@@ -1,11 +1,17 @@
 ---
-title: The Mandate Of Discrete Capital Deployment
-description: The Mandate Of Discrete Capital Deployment
-date: '2025-07-18'
-author: Jonas Hyltén
-slug: the-mandate-of-discrete-capital-deployment
+title: "The Mandate Of Discrete Capital Deployment"
+slug: "the-mandate-of-discrete-capital-deployment"
+description: "The Mandate Of Discrete Capital Deployment"
+date: "2025-07-18"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/the-mandate-of-discrete-capital-deployment/"
+meta_title: "The Mandate Of Discrete Capital Deployment"
+meta_description: "The Mandate Of Discrete Capital Deployment"
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
-# The Mandate
 
 of Discrete Capital Deployment Discrete capital deployment is not a tactic. It is a covenant. A principal does not chase markets. A principal governs them.
 

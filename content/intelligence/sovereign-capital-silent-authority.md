@@ -1,13 +1,18 @@
 ---
-title: 'Sovereign Capital: The Silent Authority in Modern Financing'
-description: >-
-  Institutional analysis of sovereign capital flows, Fund-III buyout dynamics,
-  liquidity engineering, and jurisdictional structuring for advanced GP/LP
-  mandates.
-date: '2026-03-05'
-author: Jonas Roials
-slug: sovereign-capital-silent-authority
+title: "Sovereign Capital: The Silent Authority in Modern Financing"
+slug: "sovereign-capital-silent-authority"
+description: "Institutional analysis of sovereign capital flows, Fund-III buyout dynamics, liquidity engineering, and jurisdictional structuring for advanced GP/LP mandates."
+date: "2026-03-05"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/sovereign-capital-silent-authority/"
+meta_title: "Sovereign Capital: The Silent Authority in Modern Financing"
+meta_description: "Institutional analysis of sovereign capital flows, Fund-III buyout dynamics, liquidity engineering, and jurisdictional structuring for advanced GP/LP mandates."
+featured_image: ""
+draft: false
+author: "Jonas Roials"
 ---
+
 Sovereign capital moves without noise. Without spectacle. Without the volatility that defines conventional markets. It operates above the emotional axis. Above sentiment. Above retail gravity. It is the most disciplined form of money in circulation, and its architecture defines the corridors through which modern financing now flows. Its power is structural. Not promotional. Not cyclical. Structural. Sovereign allocators pursue one goal: permanence. Their capital is slow to deploy, slower to exit, and engineered for generational hold. *A good man leaveth an inheritance to his children's children
 
 * (
@@ -161,4 +166,3 @@ Sovereign capital does not reward improvisation. It rewards structure. It reward
 End with a technical metric: Institutional Continuity Ratio:
 
 0. 92. For a confidential capital audit, submit mandate parameters.
-

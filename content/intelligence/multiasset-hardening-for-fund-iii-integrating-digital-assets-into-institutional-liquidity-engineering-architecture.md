@@ -1,16 +1,17 @@
 ---
-title: >-
-  Multi‑Asset Hardening for Fund-III: Integrating Digital Assets Into
-  Institutional liquidity engineering Architecture
-description: >-
-  Institutional overview of Asset-Backed Frameworks and asset based Strategic
-  Collateralization, with a focus on digital asset integration for HNWI and UHNW
-  clients.
-date: '2026-01-19'
-author: Jonas Hyltén
-slug: multiasset-hardening-for-fund-iii-integrating-digital-assets-into-institutional-liquidity-engineering-architecture
+title: "Multi‑Asset Hardening for Fund-III: Integrating Digital Assets Into Institutional liquidity engineering Architecture"
+slug: "multiasset-hardening-for-fund-iii-integrating-digital-assets-into-institutional-liquidity-engineering-architecture"
+description: "Institutional overview of Asset-Backed Frameworks and asset based Strategic Collateralization, with a focus on digital asset integration for HNWI and UHNW clients."
+date: "2026-01-19"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/multiasset-hardening-for-fund-iii-integrating-digital-assets-into-institutional-liquidity-engineering-architecture/"
+meta_title: "Multi‑Asset Hardening for Fund-III: Integrating Digital Assets Into Institutional liquidity engineering Architecture"
+meta_description: "Institutional overview of Asset-Backed Frameworks and asset based Strategic Collateralization, with a focus on digital asset integration for HNWI and UHNW clients."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
-# Multi Asset Hardening for Fund-III Integrating Digital Assets Into Institutional Asset-Backed Frameworks Architecture Multi asset hardening has become a defining requirement for HNWI and UHNW allocators who manage cross class exposure in an environment of rising structural fragility. The architecture that supports Fund-III operations must create stability across liquid and semi liquid instruments, and it must do so without distorting capital behavior or disrupting long range risk modeling.
 
 At Roials Capital,
 

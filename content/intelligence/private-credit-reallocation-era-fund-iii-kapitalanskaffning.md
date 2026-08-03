@@ -1,15 +1,18 @@
 ---
-title: >-
-  The Reallocation Mandate: Private Credit’s Institutional Pathways in a
-  Post-Rate Regime
-description: >-
-  A principal-level analysis of private credit’s structural reset, middle-market
-  absorption capacity, and Fund-III capital formation dynamics across buyouts,
-  Asset-Based Lending liquidity engineering, and cross‑border mandate arbitrage.
-date: '2026-03-15'
-author: Roials Capital
-slug: private-credit-reallocation-era-Fund-III-kapitalanskaffning
+title: "The Reallocation Mandate: Private Credit’s Institutional Pathways in a Post-Rate Regime"
+slug: "private-credit-reallocation-era-Fund-III-kapitalanskaffning"
+description: "A principal-level analysis of private credit’s structural reset, middle-market absorption capacity, and Fund-III capital formation dynamics across buyouts, Asset-Based Lending liquidity engineering, and cross‑border m…"
+date: "2026-03-15"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/private-credit-reallocation-era-Fund-III-kapitalanskaffning/"
+meta_title: "The Reallocation Mandate: Private Credit’s Institutional Pathways in a Post-Rate Regime"
+meta_description: "A principal-level analysis of private credit’s structural reset, middle-market absorption capacity, and Fund-III capital formation dynamics across buyouts, Asset-Based Lending liquidity engineering, and cross‑border m…"
+featured_image: ""
+draft: false
+author: "Roials Capital"
 ---
+
 Private credit has entered the reallocation era. Not a cycle. A structural turn. Rate compression. Policy drift. Basel recalibration. All converging into a jurisdictional vacuum where private lenders become policy substitutes. Capital flows follow vacuum physics. Quiet. Predictable. Inevitable. Principal view only. No abstractions. No hedge-words. Hard lines. Sectoral gravity. Fund‑III velocity. Multi‑jurisdictional openings. The institutional lanes are widening faster than incumbents can reposition. That is the opportunity window. Narrow. Defined. Exploitable.
 
 A good man leaves an inheritance to his children's children.
@@ -120,4 +123,3 @@ Covenant precision 3. Operational proximity 4. Asset-hardening 5. Asset-Backed F
 This is where compounding occurs. 10% operates in Asset-Based Lending engineering for liquidity resets. 10% in special mandates where barriers create alpha.
 
 We raise with intention. Deploy with clarity. Operate with sovereignty. This is the architecture of durable capital. This is the inheritance principle. This is The Mandate of the reallocation era. CONFIDENTIAL CAPITAL AUDIT REQUIRED. End metric: Deployment velocity target 94 days.
-

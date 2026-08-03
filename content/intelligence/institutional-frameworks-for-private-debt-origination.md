@@ -1,14 +1,17 @@
 ---
-title: 'Institutional Frameworks for Private Debt Origination'
-description: >-
-  Institutional frameworks for private debt origination in a fragmented capital
-  regime. Analysis of origination mechanics, capital stack structuring, and LTV
-  discipline.
-date: '2025-08-20'
-author: Jonas Hyltén
-slug: institutional-frameworks-for-private-debt-origination
+title: "Institutional Frameworks for Private Debt Origination"
+slug: "institutional-frameworks-for-private-debt-origination"
+description: "Institutional frameworks for private debt origination in a fragmented capital regime. Analysis of origination mechanics, capital stack structuring, and LTV discipline."
+date: "2025-08-20"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/institutional-frameworks-for-private-debt-origination/"
+meta_title: "Institutional Frameworks for Private Debt Origination"
+meta_description: "Institutional frameworks for private debt origination in a fragmented capital regime. Analysis of origination mechanics, capital stack structuring, and LTV discipline."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
-# Institutional Frameworks for Private Debt Origination Private debt origination has entered a structural cycle defined by scarcity, consolidation, and institutional thresholds that filter out weak operators. The market now rewards covenant integrity, precision underwriting, and the sovereignty of principals who operate under a stewardship mandate.
 
 The following framework outlines how private debt origination transforms into an institutional-grade discipline. It is engineered for allocators who demand clarity, discipline, repeatability, and moral grounding.
 
@@ -189,4 +192,3 @@ Institutions allocate to frameworks. Frameworks reflect the principal. The princ
 . If the principal is ordered, the platform is ordered.
 
 If the platform is ordered, the capital is protected. If the capital is protected, long-term partnership emerges. CTA Request confidential audit.
-

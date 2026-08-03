@@ -1,16 +1,17 @@
 ---
-title: >-
-  Decentralized Private Credit: The Institutional Frontier for Controlled
-  Liquidity
-description: >-
-  A high-authority analysis of decentralized private credit and asset based
-  liquidity engineering, built for HNWI and UHNW investors seeking institutional
-  liquidity structures.
-date: '2025-10-21'
-author: Jonas Hyltén
-slug: decentralized-private-credit-the-institutional-frontier-for-controlled-liquidity
+title: "Decentralized Private Credit: The Institutional Frontier for Controlled Liquidity"
+slug: "decentralized-private-credit-the-institutional-frontier-for-controlled-liquidity"
+description: "A high-authority analysis of decentralized private credit and asset based liquidity engineering, built for HNWI and UHNW investors seeking institutional liquidity structures."
+date: "2025-10-21"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/decentralized-private-credit-the-institutional-frontier-for-controlled-liquidity/"
+meta_title: "Decentralized Private Credit: The Institutional Frontier for Controlled Liquidity"
+meta_description: "A high-authority analysis of decentralized private credit and asset based liquidity engineering, built for HNWI and UHNW investors seeking institutional liquidity structures."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
-# Decentralized Private Credit: The Institutional Frontier Decentralized private credit is no longer the periphery domain of experimental capital. It has become a structural pillar for a rapidly maturing institutional landscape.
 
 The shift is not driven by ideology. It is driven by mechanics. Mechanics that allow capital to move with fewer frictions. Mechanics that enable collateral to be evaluated in real time. Mechanics that remove intermediaries that add opacity but not value. Roials Capital operates in this environment as a principal authority. We construct liquidity frameworks for High Net Worth and Ultra High Net Worth individuals who require precision, discretion, and predictable execution. Our mandate is not to market trends. Our mandate is to architect them.
 

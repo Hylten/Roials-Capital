@@ -1,14 +1,18 @@
 ---
-title: The Principal Geometry of the Middle Market Credit Gap
-description: >-
-  A high-density institutional analysis of the structural credit deficit shaping
-  middle‑market buyouts, add‑ons, and energy acquisitions, with emphasis on
-  kapitalanskaffning for Fund‑III architecture, liquidity engineering, and
-  cross‑border mandates.
-date: '2025-12-27'
-author: Roials Capital
-slug: principal-geometry-middle-market-credit-gap
+title: "The Principal Geometry of the Middle Market Credit Gap"
+slug: "principal-geometry-middle-market-credit-gap"
+description: "A high-density institutional analysis of the structural credit deficit shaping middle‑market buyouts, add‑ons, and energy acquisitions, with emphasis on kapitalanskaffning for Fund‑III architecture, liquidity engineer…"
+date: "2025-12-27"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/principal-geometry-middle-market-credit-gap/"
+meta_title: "The Principal Geometry of the Middle Market Credit Gap"
+meta_description: "A high-density institutional analysis of the structural credit deficit shaping middle‑market buyouts, add‑ons, and energy acquisitions, with emphasis on kapitalanskaffning for Fund‑III architecture, liquidity engineer…"
+featured_image: ""
+draft: false
+author: "Roials Capital"
 ---
+
 The middle market is fragmenting. Quietly. Predictably. Mechanically. Lenders retreat. Sponsors expand. Targets stall. The geometry is structural, not cyclical. Capital density shifts.
 
 Covenant risk widens. Pricing mistracks risk. Velocity collapses.
@@ -16,7 +20,6 @@ Covenant risk widens. Pricing mistracks risk. Velocity collapses.
 The credit gap grows. Hard edges. Sharp angles. No equilibrium in sight. The principal task is not interpretation. It is intervention. Institutional. Surgical. Multi‑jurisdictional. Fund‑III scale. Buyout posture. Add‑on cadence. Real asset bias. Hard collateral preference. Frontal Capital Structuring when balance sheets choke. The market invites those with precision and punishes those without conviction. Middle‑market borrowers face a paradox. More capital exists globally than at any time in human history. Yet for companies below $500M EBITDA, effective access shrinks. Counterparty fatigue. Bank derisking. Regulatory compression. Capital committee drift. Execution windows narrow.
 
 Sponsors running repeatable playbooks sense the same constraint: the spread between available credit and deployable credit is the new battleground.
-
 
 Interpretation in market form: capital flows to structure. Not sentiment. Not noise. Structure. The geometry of this credit gap is multidimensional:
 
@@ -83,7 +86,6 @@ Always.
 
 Structure inherits. Chaos evaporates. If you operate a Fund‑III or preparing to raise one,
 
-# The Mandate
+## The Mandate
 
 is simple: verify your geometry. Confirm your capital architecture. Validate your liquidity instruments. Upgrade your lender portfolio. Harden your assets. Accelerate your add‑on plan. Institutional LPs demand clarity. Not noise. Request confidential capital audit.
-

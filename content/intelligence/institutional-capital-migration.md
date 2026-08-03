@@ -1,14 +1,18 @@
 ---
-title: The Migration Path of Institutional Capital
-description: >-
-  A principal-level analysis of structural capital reallocation, technical
-  cash-flow regimes, and institutional stewardship filters governing Fund-III
-  capital raising, Asset-Based Lending liquidity engineering, and special
-  mandate deployment across UHNWI and private credit ecosystems.
-date: '2026-01-26'
-author: Jonas Hylten
-slug: institutional-capital-migration
+title: "The Migration Path of Institutional Capital"
+slug: "institutional-capital-migration"
+description: "A principal-level analysis of structural capital reallocation, technical cash-flow regimes, and institutional stewardship filters governing Fund-III capital raising, Asset-Based Lending liquidity engineering, and spec…"
+date: "2026-01-26"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/institutional-capital-migration/"
+meta_title: "The Migration Path of Institutional Capital"
+meta_description: "A principal-level analysis of structural capital reallocation, technical cash-flow regimes, and institutional stewardship filters governing Fund-III capital raising, Asset-Based Lending liquidity engineering, and spec…"
+featured_image: ""
+draft: false
+author: "Jonas Hylten"
 ---
+
 A structural gap always appears before a liquidity regime shifts. The laggards never see it. The disciplined allocators do. Capital is not wandering. It migrates with precision toward lower friction, higher security, and verifiable dominion over cash flow. The market misprices this migration every time. That mispricing is the opportunity. Order is not an option. Fund-III now sits inside a macro environment stripped of the illusions that defined the last rate cycle. Yield tourism is dead. Unverified narratives are dead. Capital now demands governance, hard collateral, and institutional discipline. The allocators who internalize this early will extract multi-cycle advantage. Those who hesitate will finance the advantage of others.
 
 ### Phase I:
@@ -52,4 +56,3 @@ A good man leaves an inheritance to his children’s children. That mandate is s
 ### Phase V:
 
 EXIT Capital migration ends with one metric. Cost of error. Our mandate is to lower it to zero. Request confidential capital audit.
-

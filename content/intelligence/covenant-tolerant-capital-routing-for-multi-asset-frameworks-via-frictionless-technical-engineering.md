@@ -1,15 +1,17 @@
 ---
-title: >-
-  Covenant Tolerant Capital Routing for Multi Asset Frameworks via Frictionless
-  Technical Engineering
-description: >-
-  Covenant Tolerant Capital Routing for Multi Asset Frameworks via Frictionless
-  Technical Engineering | Institutional Briefing by Roials Capital
-date: '2026-03-20'
-author: Roials Capital
-slug: covenant-tolerant-capital-routing-for-multi-asset-frameworks-via-frictionless-technical-engineering
+title: "Covenant Tolerant Capital Routing for Multi Asset Frameworks via Frictionless Technical Engineering"
+slug: "covenant-tolerant-capital-routing-for-multi-asset-frameworks-via-frictionless-technical-engineering"
+description: "Covenant Tolerant Capital Routing for Multi Asset Frameworks via Frictionless Technical Engineering | Institutional Briefing by Roials Capital"
+date: "2026-03-20"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/covenant-tolerant-capital-routing-for-multi-asset-frameworks-via-frictionless-technical-engineering/"
+meta_title: "Covenant Tolerant Capital Routing for Multi Asset Frameworks via Frictionless Technical Engineering"
+meta_description: "Covenant Tolerant Capital Routing for Multi Asset Frameworks via Frictionless Technical Engineering | Institutional Briefing by Roials Capital"
+featured_image: ""
+draft: false
+author: "Roials Capital"
 ---
-# Covenant Tolerant Capital Routing for Multi Asset Frameworks via Frictionless Technical Engineering
 
 Roials Capital operates in environments where capital mobility, covenant structures, and cross‑collateral architecture influence institutional performance more than simple asset selection. In these conditions, covenant tolerant capital routing is not an optional optimization but a structural requirement for longevity. It enables capital to move seamlessly across multi asset frameworks without triggering constraints, valuation freezes, or forced liquidity events. This framework defines the technical mechanics behind covenant tolerant routing and presents a frictionless architectural design based on transparency, deterministic sequencing, and non‑reactive balance sheet logic.
 

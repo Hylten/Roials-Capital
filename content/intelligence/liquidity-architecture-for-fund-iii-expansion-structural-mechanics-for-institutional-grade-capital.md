@@ -1,15 +1,17 @@
 ---
-title: >-
-  Liquidity Architecture for Fund-III Expansion: Structural Mechanics for
-  Institutional-Grade Capital
-description: >-
-  An institutional analysis of liquidity architecture, private credit, and asset
-  based liquidity engineering designed for HNWI and UHNW capital expansion.
-date: '2025-08-12'
-author: Jonas Hyltén
-slug: liquidity-architecture-for-fund-iii-expansion-structural-mechanics-for-institutional-grade-capital
+title: "Liquidity Architecture for Fund-III Expansion: Structural Mechanics for Institutional-Grade Capital"
+slug: "liquidity-architecture-for-fund-iii-expansion-structural-mechanics-for-institutional-grade-capital"
+description: "An institutional analysis of liquidity architecture, private credit, and asset based liquidity engineering designed for HNWI and UHNW capital expansion."
+date: "2025-08-12"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/liquidity-architecture-for-fund-iii-expansion-structural-mechanics-for-institutional-grade-capital/"
+meta_title: "Liquidity Architecture for Fund-III Expansion: Structural Mechanics for Institutional-Grade Capital"
+meta_description: "An institutional analysis of liquidity architecture, private credit, and asset based liquidity engineering designed for HNWI and UHNW capital expansion."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
-# Liquidity Architecture for Fund-III Expansion Roials Capital operates in a domain where liquidity is not a convenience. Liquidity is the instrument that sets the rhythm for capital velocity, credit formation, and controlled expansion.
 
 Fund-III was designed with a singular purpose. To build a liquidity architecture that absorbs volatility, allocates precision, and strengthens the balance sheet of high conviction participants. This paper outlines the structural mechanics that guide our Strategic Collateralization framework across private credit, asset based Asset-Backed Frameworks, public share Strategic Collateralization, and institutional crypto credit. It is not a pitch. It is an architectural brief.
 

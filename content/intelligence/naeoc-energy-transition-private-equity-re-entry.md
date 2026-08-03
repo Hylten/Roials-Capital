@@ -1,16 +1,21 @@
 ---
-title: The Principal’s Position on energy mandates‑Scale Energy Transition Buyouts
-description: >-
-  A private capital briefing on why $50M–$250M energy-transition control deals
-  are re‑magnetizing infrastructure LPs and re‑opening the mid‑market for
-  Fund‑III capital formation.
-date: '2026-02-04'
-author: Roials Capital
-slug: naeoc-energy-transition-private-equity-re-entry
+title: "The Principal’s Position on energy mandates‑Scale Energy Transition Buyouts"
+slug: "naeoc-energy-transition-private-equity-re-entry"
+description: "A private capital briefing on why $50M–$250M energy-transition control deals are re‑magnetizing infrastructure LPs and re‑opening the mid‑market for Fund‑III capital formation."
+date: "2026-02-04"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/naeoc-energy-transition-private-equity-re-entry/"
+meta_title: "The Principal’s Position on energy mandates‑Scale Energy Transition Buyouts"
+meta_description: "A private capital briefing on why $50M–$250M energy-transition control deals are re‑magnetizing infrastructure LPs and re‑opening the mid‑market for Fund‑III capital formation."
+featured_image: ""
+draft: false
+author: "Roials Capital"
 ---
+
 The center of gravity is shifting. Quietly. Predictably. Inevitably. Infrastructure LPs are returning to the mid‑market energy transition arena because the energy mandates band-fifty to two hundred fifty million-has become the last scale where a GP can still control the physics of value creation with precision. Above it, competition distorts price. Below it, fragmentation erodes institutional certainty. In the energy mandates range, the market remains rational. That is the entire point. - - -
 
-# The Structural Reality
+## The Structural Reality
 
 1. The global energy transition has now crossed the early‑clarity threshold Once a sector becomes politically declared rather than economically emergent, distortions appear.
 
@@ -106,4 +111,3 @@ Below these levels, we do not engage. Above these levels, we move with velocity.
 Energy transition private equity is entering the age of adult supervision. The energy mandates mid‑market corridor is where real value will be built.
 
 Infrastructure LPs are already repositioning in that direction. Fund‑III managers who master this corridor will not compete for capital; they will allocate it. Stand in the correct place in the cycle. Stand with control. Stand with discipline. If you are preparing a raise, a Fund‑III expansion, a buyout sequence, or a energy mandates‑scale acquisition path, initiate a confidential capital audit. We open the door only when the posture is correct. Request confidential capital audit.
-

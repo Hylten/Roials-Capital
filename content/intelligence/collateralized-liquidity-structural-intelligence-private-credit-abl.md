@@ -1,15 +1,18 @@
 ---
-title: >-
-  The Mechanics of Collateralized Liquidity: Structural Intelligence for Private
-  Credit and Asset-Based Lending
-description: >-
-  Institutional briefing on collateralized liquidity architecture, LTV control
-  systems, cash‑flow mechanics, and capital raising protocols for Fund-III
-  buyouts and Asset-Based Lending structures.
-date: '2025-09-16'
-author: Jonas Hyltén
-slug: collateralized-liquidity-structural-intelligence-private-credit-abl
+title: "The Mechanics of Collateralized Liquidity: Structural Intelligence for Private Credit and Asset-Based Lending"
+slug: "collateralized-liquidity-structural-intelligence-private-credit-abl"
+description: "Institutional briefing on collateralized liquidity architecture, LTV control systems, cash‑flow mechanics, and capital raising protocols for Fund-III buyouts and Asset-Based Lending structures."
+date: "2025-09-16"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/collateralized-liquidity-structural-intelligence-private-credit-abl/"
+meta_title: "The Mechanics of Collateralized Liquidity: Structural Intelligence for Private Credit and Asset-Based Lending"
+meta_description: "Institutional briefing on collateralized liquidity architecture, LTV control systems, cash‑flow mechanics, and capital raising protocols for Fund-III buyouts and Asset-Based Lending structures."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
+
 Order is not an option. It is the prerequisite for all solvency.
 
 ### Phase I:
@@ -87,4 +90,3 @@ Wealth passes across generations only when order governs resource allocation. Wa
 ### Phase V:
 
 EXIT The sole metric that matters: liquidity coverage ratio must stabilize above 1. 62 within 90 days of transaction close. Request confidential capital audit.
-

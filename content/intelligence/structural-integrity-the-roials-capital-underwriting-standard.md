@@ -1,13 +1,17 @@
 ---
-title: 'Structural Integrity: The Roials Capital Underwriting Standard'
-description: >-
-  Roials Capital operates on a single premise. Structural integrity is not a
-  preference. Institutional capital flows toward order.
-date: '2025-11-25'
-author: Jonas Hyltén
-slug: structural-integrity-the-roials-capital-underwriting-standard
+title: "Structural Integrity: The Roials Capital Underwriting Standard"
+slug: "structural-integrity-the-roials-capital-underwriting-standard"
+description: "Roials Capital operates on a single premise. Structural integrity is not a preference. Institutional capital flows toward order."
+date: "2025-11-25"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/structural-integrity-the-roials-capital-underwriting-standard/"
+meta_title: "Structural Integrity: The Roials Capital Underwriting Standard"
+meta_description: "Roials Capital operates on a single premise. Structural integrity is not a preference. Institutional capital flows toward order."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
-# Structural Integrity The Roials Capital Underwriting Standard Roials Capital operates on a single premise. Structural integrity is not a preference.
 
 It is The Mandate
 

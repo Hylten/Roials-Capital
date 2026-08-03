@@ -1,13 +1,18 @@
 ---
-title: 'The Institutional Asset Hardening Playbook: Passing a $5B Board Review'
-description: >-
-  A principal-grade framework for asset hardening, capital raising for
-  Fund-III+, and cross-jurisdictional structuring engineered for institutional
-  LP/GP scrutiny.
-date: '2025-11-29'
-author: Roials Capital
-slug: institutional-asset-hardening-playbook-5b-board-review
+title: "The Institutional Asset Hardening Playbook: Passing a $5B Board Review"
+slug: "institutional-asset-hardening-playbook-5b-board-review"
+description: "A principal-grade framework for asset hardening, capital raising for Fund-III+, and cross-jurisdictional structuring engineered for institutional LP/GP scrutiny."
+date: "2025-11-29"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/institutional-asset-hardening-playbook-5b-board-review/"
+meta_title: "The Institutional Asset Hardening Playbook: Passing a $5B Board Review"
+meta_description: "A principal-grade framework for asset hardening, capital raising for Fund-III+, and cross-jurisdictional structuring engineered for institutional LP/GP scrutiny."
+featured_image: ""
+draft: false
+author: "Roials Capital"
 ---
+
 A $5B board review does not reward improvisation. It rewards engineered inevitability. Cold structure. Clean logic. Zero noise. The architecture must survive hostile diligence, cross-border scrutiny, and political variance. Asset hardening is the conversion of operational chaos into institutional-grade permanence. Capital follows structure. Structure follows intent. Intent requires sovereignty. A principal does not defend assets. A principal fortifies them. Movable. Layered. Audit-proof.
 
 Board-ready.
@@ -187,4 +192,3 @@ If the board pack fails, the raise fails. If the pack dominates, the raise accel
 ## Final Directive
 
 This briefing stands on one metric: Institutional Survivability Index = 0. 87 or higher. Request confidential capital audit.
-

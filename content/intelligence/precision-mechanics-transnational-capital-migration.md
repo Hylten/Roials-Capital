@@ -1,15 +1,18 @@
 ---
-title: >-
-  Precision Mechanics of Transnational Capital Migration in the 2026
-  Institutional Cycle
-description: >-
-  Analyst-grade assessment of regulatory drift, capital displacement, and
-  cross-jurisdictional allocation patterns shaping Fund-III capital formation,
-  North American energy matching, and liquidity engineering mandates.
-date: '2025-08-11'
-author: Roials Capital (Institutional Briefing)
-slug: precision-mechanics-transnational-capital-migration
+title: "Precision Mechanics of Transnational Capital Migration in the 2026 Institutional Cycle"
+slug: "precision-mechanics-transnational-capital-migration"
+description: "Analyst-grade assessment of regulatory drift, capital displacement, and cross-jurisdictional allocation patterns shaping Fund-III capital formation, North American energy matching, and liquidity engineering mandates."
+date: "2025-08-11"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/precision-mechanics-transnational-capital-migration/"
+meta_title: "Precision Mechanics of Transnational Capital Migration in the 2026 Institutional Cycle"
+meta_description: "Analyst-grade assessment of regulatory drift, capital displacement, and cross-jurisdictional allocation patterns shaping Fund-III capital formation, North American energy matching, and liquidity engineering mandates."
+featured_image: ""
+draft: false
+author: "Roials Capital (Institutional Briefing)"
 ---
+
 The current migration of institutional capital across North America, Europe, and the Gulf states is a structural consequence of regulatory divergence, not a shift in allocator risk appetite. Capital is not searching for higher returns. Capital is searching for operational intelligibility and jurisdictional stability. The vacuum forming in North American energy is a predictable byproduct of this divergence, and allocators that understand the mechanics of transnational flow routing are positioning their Fund-III and Fund-IV vehicles to intercept dislocated assets before the next consolidation cycle sets in.
 
 ## The Regime Shift
@@ -81,7 +84,6 @@ Stewardship is not a marketing term. It is a discipline.
 
 Stewardship is the management of capital, resources, and operational environments without waste. It aligns with
 
-
 For allocators, the Stewardship Filter is expressed through:
 
 - Preference for real assets with measurable decay rates
@@ -112,4 +114,3 @@ It is based on structural alignment and operational clarity. Allocators seeking 
 This is not a product presentation. It is a portfolio calibration exercise designed to map the allocator’s capital governance requirements against the structural realities of
 
 2026. [END OF BRIEFING]
-

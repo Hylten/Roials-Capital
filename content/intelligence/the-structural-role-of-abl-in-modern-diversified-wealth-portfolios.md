@@ -1,15 +1,17 @@
 ---
-title: >-
-  The Structural Role of Asset-Based Lending in Modern Diversified Wealth
-  Portfolios
-description: >-
-  An institutional analysis of how Asset Based liquidity engineering enhances
-  liquidity, stability, and controlled optionality for HNWI and UHNW portfolios.
-date: '2025-11-29'
-author: Jonas Hyltén
-slug: the-structural-role-of-abl-in-modern-diversified-wealth-portfolios
+title: "The Structural Role of Asset-Based Lending in Modern Diversified Wealth Portfolios"
+slug: "the-structural-role-of-abl-in-modern-diversified-wealth-portfolios"
+description: "An institutional analysis of how Asset Based liquidity engineering enhances liquidity, stability, and controlled optionality for HNWI and UHNW portfolios."
+date: "2025-11-29"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/the-structural-role-of-abl-in-modern-diversified-wealth-portfolios/"
+meta_title: "The Structural Role of Asset-Based Lending in Modern Diversified Wealth Portfolios"
+meta_description: "An institutional analysis of how Asset Based liquidity engineering enhances liquidity, stability, and controlled optionality for HNWI and UHNW portfolios."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
-# The Role of Asset-Based Lending in Diversified Wealth Portfolios Wealth architectures evolve as markets shift, and balance sheet rigidity becomes a liability rather than a safeguard. Institutional capital has already adapted.
 
 Liquidity is no longer acquired through liquidation. It is engineered. It is structured. It is timed. For high net worth and ultra high net worth investors, asset based Asset-Backed Frameworks is not an accessory. It is a structural function inside a modern portfolio, a mechanism that expands the operational range of capital without disturbing the underlying asset thesis. Roials Capital operates inside this space with a principal authority, providing asset backed Strategic Collateralization across private credit, crypto holdings with a minimum threshold of 2,000,000, and public share positions with a minimum threshold of 5,000,
 

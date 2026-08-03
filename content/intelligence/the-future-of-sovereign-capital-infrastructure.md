@@ -1,13 +1,17 @@
 ---
-title: The Future of Sovereign Capital Infrastructure
-description: >-
-  A deep examination of liquidity architecture, private credit, and asset based
-  liquidity engineering for institutional, HNWI, and UHNW capital structures.
-date: '2025-06-22'
-author: Jonas Hyltén
-slug: the-future-of-sovereign-capital-infrastructure
+title: "The Future of Sovereign Capital Infrastructure"
+slug: "the-future-of-sovereign-capital-infrastructure"
+description: "A deep examination of liquidity architecture, private credit, and asset based liquidity engineering for institutional, HNWI, and UHNW capital structures."
+date: "2025-06-22"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/the-future-of-sovereign-capital-infrastructure/"
+meta_title: "The Future of Sovereign Capital Infrastructure"
+meta_description: "A deep examination of liquidity architecture, private credit, and asset based liquidity engineering for institutional, HNWI, and UHNW capital structures."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
-# The Future of Sovereign Capital Infrastructure Sovereign capital infrastructure is entering a structural realignment. The global system of capital formation, liquidity distribution, and collateralized leverage is shifting from centralized intermediaries to distributed custodianship, precision engineered credit, and optionality controlled by the asset holder.
 
 This is not an evolution powered by rhetoric. It is a reconfiguration driven by necessity.
 

@@ -1,17 +1,21 @@
 ---
-title: 'The Reallocation Mandate: Institutional Realignment for Fund-III Expansion'
-description: >-
-  A principal-level directive on capital reallocation, cross-jurisdictional
-  structuring, and institutional capital engineering for Fund-III buyouts,
-  liquidity mandates, and energy acquisitions.
-date: '2025-07-31'
-author: Roials Capital
-slug: the-reallocation-mandate-Fund-III
+title: "The Reallocation Mandate: Institutional Realignment for Fund-III Expansion"
+slug: "the-reallocation-mandate-Fund-III"
+description: "A principal-level directive on capital reallocation, cross-jurisdictional structuring, and institutional capital engineering for Fund-III buyouts, liquidity mandates, and energy acquisitions."
+date: "2025-07-31"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/the-reallocation-mandate-Fund-III/"
+meta_title: "The Reallocation Mandate: Institutional Realignment for Fund-III Expansion"
+meta_description: "A principal-level directive on capital reallocation, cross-jurisdictional structuring, and institutional capital engineering for Fund-III buyouts, liquidity mandates, and energy acquisitions."
+featured_image: ""
+draft: false
+author: "Roials Capital"
 ---
+
 The Reallocation Mandate activates when structural pressures exceed historical comfort bands and when institutional capital requires repositioning toward asymmetric durability. Cycles tighten. Yield compresses. Demand spikes for engineered throughput. Movement is mandatory. Stillness is decay.
 
 The principal view is simple: reallocate or be reallocated.
-
 
 ## The Mandate
 
@@ -68,4 +72,3 @@ No theatrics. Principal voice only. Reallocation is mandatory. Delay is costly. 
 ## The Mandate
 
 stands: Reallocate into Fund-III. Reinforce liquidity corridors. Execute energy mandates acquisitions. Complete MiFID II perimeter expansions. Maintain acceleration. Sustain dominance. Confidential capital audit required to initiate allocation bandwidth expansion. Target throughput ratio: 1.82x within 12 months.
-

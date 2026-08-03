@@ -1,18 +1,21 @@
 ---
-title: 'Sovereign Capital Infrastructures: The Reconfiguration Mandate for Fund-III'
-description: >-
-  A high-density institutional analysis of sovereign capital architectures,
-  multi‑jurisdictional alignment, and next‑generation allocation regimes driving
-  Fund-III kapitalanskaffning, private credit expansion, and liquidity
-  engineering mandates.
-date: '2025-06-30'
-author: Roials Capital | Principal Architect
-slug: sovereign-capital-infrastructure-reconfiguration-Fund-III
+title: "Sovereign Capital Infrastructures: The Reconfiguration Mandate for Fund-III"
+slug: "sovereign-capital-infrastructure-reconfiguration-Fund-III"
+description: "A high-density institutional analysis of sovereign capital architectures, multi‑jurisdictional alignment, and next‑generation allocation regimes driving Fund-III kapitalanskaffning, private credit expansion, and liqui…"
+date: "2025-06-30"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/sovereign-capital-infrastructure-reconfiguration-Fund-III/"
+meta_title: "Sovereign Capital Infrastructures: The Reconfiguration Mandate for Fund-III"
+meta_description: "A high-density institutional analysis of sovereign capital architectures, multi‑jurisdictional alignment, and next‑generation allocation regimes driving Fund-III kapitalanskaffning, private credit expansion, and liqui…"
+featured_image: ""
+draft: false
+author: "Roials Capital | Principal Architect"
 ---
+
 The future of sovereign capital infrastructure is no longer a projection. It is an enforcement cycle. A structural correction mechanism. A recalibration of institutional intent shaped by demographic inversion, jurisdictional competition, energy bifurcation, and an accelerating divergence between asset-anchored regimes and velocity‑anchored regimes. Sovereign allocators feel the fracture lines. They see the delta widening. They sense the migration from passive allocation to strategic dominion. The sovereign world is shifting from incumbency to architecture. I write from the architect’s stance. Principal tone. No abstraction. Only structure. Only signal. Because the current capital cycle is not about yield. Not about momentum. Not about allocation policy. It is about re‑sovereignization of capital stacks and the engineering of controlled asymmetry.
 
 -
-
 
 The verse is not morality. It is capital law. A transmission protocol. A sovereignty claim. Fund-III sits inside this shift. The next raise is not incremental. It is infrastructural. It requires institutional readership to understand: the entire global stack is being re-coded. What once was GP-led is now architecture-led. What once was a fund strategy is now a jurisdictional instrument. What once was private capital is now sovereign extension. The line is gone. The wall is melted. This briefing defines the field. The risks. The structural drift. The redirection of capital sovereignty. And the path of Fund-III as a hard asset, add‑on driven, energy‑aligned institution engineered for institutional LPs that demand durability, precision, and clarity across the next 12‑ 18 cycles. I speak in short bursts. Direct. Machine gun cadence. Sharp edges. Clean logic. No filler.
 

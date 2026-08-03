@@ -1,16 +1,18 @@
 ---
-title: >-
-  The Borderless Collateral Regime and the Ascension of Transnational
-  Acquisition Power
-description: >-
-  Institutional brief on cross‑jurisdictional collateral mobility, Fund-III
-  capital formation dynamics, and the emergence of sovereign-grade acquisition
-  throughput for buyouts, Asset-Based Lending liquidity engineering, and
-  energy-sector special mandates.
-date: '2025-09-09'
-author: Roials Capital
-slug: borderless-collateral-regime-transnational-acquisition-power
+title: "The Borderless Collateral Regime and the Ascension of Transnational Acquisition Power"
+slug: "borderless-collateral-regime-transnational-acquisition-power"
+description: "Institutional brief on cross‑jurisdictional collateral mobility, Fund-III capital formation dynamics, and the emergence of sovereign-grade acquisition throughput for buyouts, Asset-Based Lending liquidity engineering,…"
+date: "2025-09-09"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/borderless-collateral-regime-transnational-acquisition-power/"
+meta_title: "The Borderless Collateral Regime and the Ascension of Transnational Acquisition Power"
+meta_description: "Institutional brief on cross‑jurisdictional collateral mobility, Fund-III capital formation dynamics, and the emergence of sovereign-grade acquisition throughput for buyouts, Asset-Based Lending liquidity engineering,…"
+featured_image: ""
+draft: false
+author: "Roials Capital"
 ---
+
 The borderless collateral regime is no longer a theoretical construct. It is the operational chassis of modern acquisition power. Jurisdictional lines bend. Asset classes migrate. Capital hardens as it travels. Collateral becomes a mobile sovereign instrument. And the institutions positioned to direct it now define the competitive curve of private markets. Capital moves first. Law follows second. Value is captured by the entity with structural reach. This is the terrain in which Fund-III operates. Not regional. Not sector-bound. But transnational, collateralized, and acquisition-forward. A good man leaves an inheritance to his children’s children:
 
 * .
@@ -62,4 +64,3 @@ The borderless collateral regime shifts how value is contested. Geography become
 is clear. The path is defined. The capital is ready. The strategy is operational. Request confidential capital audit.
 
 Technical metric: Collateral Mobility Index (CMI) target > 0.82.
-

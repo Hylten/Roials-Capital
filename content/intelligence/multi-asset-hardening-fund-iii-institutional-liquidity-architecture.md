@@ -1,14 +1,17 @@
 ---
-title: Multi‑Asset Hardening Architecture for Fund‑III
-description: >-
-  Institutional brief on capital hardening, digital‑asset integration, and
-  liquidity engineering for Fund‑III with focus on capital raising, Asset-Based
-  Lending structuring, and cross‑jurisdictional acquisition velocity.
-date: '2026-01-29'
-author: Roials Capital | Principal Architect
-slug: multi-asset-hardening-Fund-III-institutional-liquidity-architecture
+title: "Multi‑Asset Hardening Architecture for Fund‑III"
+slug: "multi-asset-hardening-Fund-III-institutional-liquidity-architecture"
+description: "Institutional brief on capital hardening, digital‑asset integration, and liquidity engineering for Fund‑III with focus on capital raising, Asset-Based Lending structuring, and cross‑jurisdictional acquisition velocity."
+date: "2026-01-29"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/multi-asset-hardening-Fund-III-institutional-liquidity-architecture/"
+meta_title: "Multi‑Asset Hardening Architecture for Fund‑III"
+meta_description: "Institutional brief on capital hardening, digital‑asset integration, and liquidity engineering for Fund‑III with focus on capital raising, Asset-Based Lending structuring, and cross‑jurisdictional acquisition velocity."
+featured_image: ""
+draft: false
+author: "Roials Capital | Principal Architect"
 ---
-# The Mandate
 
 is acceleration. Fund‑III must expand its capital perimeter, reinforce multi‑asset defenses, and integrate digital‑asset rails without contaminating institutional purity. Architecture before execution. Structure before flow. Capital before optimization. The brief sets the institutional line. The landscape has shifted. Capital rotation is faster. Regulatory posture is uneven. Liquidity premiums have inverted across private credit, hydrocarbons, mid‑market buyouts, and digital balance‑sheet instruments.
 
@@ -45,5 +48,4 @@ Expand its jurisdictions. Integrate its liquidity. Synchronize governance.
 
 Raise institutional capital. Deploy with speed. The next
 
-### Step I is confidential: initiate the capital audit. 
-
+### Step I is confidential: initiate the capital audit.

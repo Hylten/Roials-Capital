@@ -1,16 +1,18 @@
 ---
-title: >-
-  The Mechanics of Tokenized Real Estate Liquidity in Institutional Capital
-  Markets
-description: >-
-  A clinical analysis of tokenized real estate, balance sheet optimization,
-  liquidity engineering, and structural positioning for Fund-III buyouts and add
-  ons. Prepared for institutional LPs, UHNW allocators, and private credit
-  stewards.
-date: '2026-02-19'
-author: Roials Capital (Institutional Briefing)
-slug: tokenized-real-estate-liquidity-institutional-briefing
+title: "The Mechanics of Tokenized Real Estate Liquidity in Institutional Capital Markets"
+slug: "tokenized-real-estate-liquidity-institutional-briefing"
+description: "A clinical analysis of tokenized real estate, balance sheet optimization, liquidity engineering, and structural positioning for Fund-III buyouts and add ons. Prepared for institutional LPs, UHNW allocators, and privat…"
+date: "2026-02-19"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/tokenized-real-estate-liquidity-institutional-briefing/"
+meta_title: "The Mechanics of Tokenized Real Estate Liquidity in Institutional Capital Markets"
+meta_description: "A clinical analysis of tokenized real estate, balance sheet optimization, liquidity engineering, and structural positioning for Fund-III buyouts and add ons. Prepared for institutional LPs, UHNW allocators, and privat…"
+featured_image: ""
+draft: false
+author: "Roials Capital (Institutional Briefing)"
 ---
+
 The liquidity asymmetry in global real estate today is a function of settlement inefficiency, not asset impairment. The inability of conventional structures to mobilize fractionalized ownership at institutional scale has created a systemic gap between underlying property value and monetizable liquidity. Tokenized real estate is not a speculative instrument. It is a structural evolution in the transmission mechanics of ownership, custody, and settlement.
 
 ### Phase I:
@@ -128,4 +130,3 @@ This supports allocators operating across US, EU, CH, and GCC mandates.
 5. Fund-III Expansion Tokenized liquidity enhances the velocity at which capital can be mobilized for buyouts and add-ons.
 
 The process reduces reliance on high friction refinancing and credit line utilization. Allocators navigating this domain benefit from a confidential strategy audit to assess alignment between their existing capital stack, liquidity requirements, and the operational capabilities of tokenized platforms. Roials Capital acts as a structural guide, ensuring institutional alignment and regulatory synchrony across all phases of integration. [END OF BRIEFING]
-

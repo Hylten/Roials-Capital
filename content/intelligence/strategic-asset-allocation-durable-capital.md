@@ -1,15 +1,18 @@
 ---
-title: >-
-  Strategic Asset Allocation for Long Term Liquidity: The Architecture of
-  Durable Capital
-description: >-
-  Institutional analysis of liquidity engineering, capital durability, LTV
-  structuring, and the Fund-III regime for private buyout operators seeking long
-  term solvency and scalable AUM expansion.
-date: '2026-01-16'
-author: Jonas Hyltén
-slug: strategic-asset-allocation-durable-capital
+title: "Strategic Asset Allocation for Long Term Liquidity: The Architecture of Durable Capital"
+slug: "strategic-asset-allocation-durable-capital"
+description: "Institutional analysis of liquidity engineering, capital durability, LTV structuring, and the Fund-III regime for private buyout operators seeking long term solvency and scalable AUM expansion."
+date: "2026-01-16"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/strategic-asset-allocation-durable-capital/"
+meta_title: "Strategic Asset Allocation for Long Term Liquidity: The Architecture of Durable Capital"
+meta_description: "Institutional analysis of liquidity engineering, capital durability, LTV structuring, and the Fund-III regime for private buyout operators seeking long term solvency and scalable AUM expansion."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
+
 A liquidity shortage always begins as a structural illusion. The market believes capital is available. It is not. The spread between perceived liquidity and actual callable liquidity has widened to its largest point in fourteen years. That gap is the hinge on which the next decade of private capital will turn. Order is not an option. Institutional allocators are no longer rewarding velocity. They are rewarding durability. The naive GP still underwrites for return. The institutional GP underwrites for survival across four liquidity cycles. Durable capital is not an asset. It is an architecture. A system of controlled constraints that eliminates the randomness that destroys compounding. The liquidity regime has shifted. What worked in 2014 is a liability in
 
 2026. ### Phase I:
@@ -103,7 +106,6 @@ Durable capital is a moral structure before it is a financial one. Stewardship i
 
 Waste destroys compounding.
 
-
 The modern GP translates that ancient mandate into operational architecture. A Fund-III steward operates on three convictions:
 
 1. Capital is deployed only when survival probability exceeds 94 percent.
@@ -127,4 +129,3 @@ Survival Horizon Ratio: 1.
 6 indicates institutional strength.
 
 Your ratio determines your capital future. Request a confidential capital audit.
-

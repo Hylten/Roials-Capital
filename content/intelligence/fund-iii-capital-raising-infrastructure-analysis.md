@@ -1,15 +1,18 @@
 ---
-title: >-
-  Sovereign Capital Infrastructure for Institutional Allocators: Fund‑III
-  Architecture Analysis
-description: >-
-  Institutional-grade analysis of capital‑raising infrastructure for Fund‑III
-  buyout platforms, with emphasis on allocation mechanics, liquidity
-  engineering, and cross‑jurisdictional structuring for GP‑led expansion.
-date: '2025-08-30'
-author: 'Roials Capital, Principal Investigator'
-slug: Fund-III-capital-raising-infrastructure-analysis
+title: "Sovereign Capital Infrastructure for Institutional Allocators: Fund‑III Architecture Analysis"
+slug: "Fund-III-capital-raising-infrastructure-analysis"
+description: "Institutional-grade analysis of capital‑raising infrastructure for Fund‑III buyout platforms, with emphasis on allocation mechanics, liquidity engineering, and cross‑jurisdictional structuring for GP‑led expansion."
+date: "2025-08-30"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/Fund-III-capital-raising-infrastructure-analysis/"
+meta_title: "Sovereign Capital Infrastructure for Institutional Allocators: Fund‑III Architecture Analysis"
+meta_description: "Institutional-grade analysis of capital‑raising infrastructure for Fund‑III buyout platforms, with emphasis on allocation mechanics, liquidity engineering, and cross‑jurisdictional structuring for GP‑led expansion."
+featured_image: ""
+draft: false
+author: "Roials Capital, Principal Investigator"
 ---
+
 Institutional allocators evaluate Fund‑III readiness through structural coherence, governance tension‑bands, and the allocator‑to‑platform distance in capital flow friction. Fund‑III is the first maturity inflection where GP identity stabilizes. After Fund‑II, allocator expectations shift. They expect infrastructure, not narrative. They expect a capital‑raising machine, not a founder‑led funnel. They expect repeatability, modularity, data discipline, and sovereign‑level compliance posture. They expect the GP to demonstrate interjurisdictional advantage, not jurisdictional improvisation. Fund‑III is the threshold where institutional allocators assess not just returns, but the system behind returns. They examine cadence. Sequence. Velocity.
 
 Clarity.

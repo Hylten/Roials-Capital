@@ -1,18 +1,21 @@
 ---
-title: 'Non‑Sponsor Add‑On Buyouts: The 2026 Deployment Engine For Serious Capital'
-description: >-
-  Deep institutional briefing on why non‑sponsor add‑on buyouts now represent
-  the most efficient, velocity‑aligned deployment vector for 2026 vintage
-  private equity funds, with implications for Fund‑III scaling,
-  multi‑jurisdictional capital cycles, and principal‑grade acquisition
-  architecture.
-date: '2026-01-07'
-author: Roials Capital
-slug: non-sponsor-add-on-buyouts-2026-fund-deployment
+title: "Non‑Sponsor Add‑On Buyouts: The 2026 Deployment Engine For Serious Capital"
+slug: "non-sponsor-add-on-buyouts-2026-fund-deployment"
+description: "Deep institutional briefing on why non‑sponsor add‑on buyouts now represent the most efficient, velocity‑aligned deployment vector for 2026 vintage private equity funds, with implications for Fund‑III scaling, multi‑j…"
+date: "2026-01-07"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/non-sponsor-add-on-buyouts-2026-fund-deployment/"
+meta_title: "Non‑Sponsor Add‑On Buyouts: The 2026 Deployment Engine For Serious Capital"
+meta_description: "Deep institutional briefing on why non‑sponsor add‑on buyouts now represent the most efficient, velocity‑aligned deployment vector for 2026 vintage private equity funds, with implications for Fund‑III scaling, multi‑j…"
+featured_image: ""
+draft: false
+author: "Roials Capital"
 ---
+
 The market is fractured. Not broken. Fractured. That is where the opportunity sits. Non‑sponsor sellers are flooding the lower‑mid and mid‑market, but the institutional machines built from 2015-2023 were engineered for sponsor‑to‑sponsor recycling, not for sovereign-style origination. This is the asymmetry. This is the opening. This is why the 2026 vintages-especially Fund‑III and higher-are pivoting decisively into non‑sponsor add‑on buyouts as their primary deployment mechanism. The capital understands the shift before the headlines do. And the principals move before the capital. - - -
 
-# Strategic Deployment Velocity The first truth: deployment velocity governs survival.
+## Strategic Deployment Velocity The first truth: deployment velocity governs survival.
 
 Not returns. Not IRR mythology. Deployment. Put capital to work with intelligence, precision, and jurisdictional control, and the entire vertical stabilizes. Fail, and the fund decays before the first harvest is complete. Non‑sponsor add‑on buyouts are now the most structurally efficient deployment vector because they satisfy four institutional realities at once:
 
@@ -144,4 +147,3 @@ They are building empires of absorption. Ten deals. Twenty deals. Forty deals. A
 ## REQUEST CONFIDENTIAL CAPITAL AUDIT State your mandate.
 
 We will determine alignment. Roials Capital engages only where structural clarity and institutional intent converge.
-

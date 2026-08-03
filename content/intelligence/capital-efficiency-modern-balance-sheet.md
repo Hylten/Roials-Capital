@@ -1,15 +1,18 @@
 ---
-title: >-
-  Capital Efficiency for the Modern Balance Sheet: Leveraging Core Holdings with
-  Silent Authority
-description: >-
-  Institutional briefing on capital efficiency, liquidity engineering, and
-  structural balance sheet optimization for Fund-III buyouts, cross-border
-  mandates, and North American energy introductions.
-date: '2025-10-17'
-author: Roials Capital (Institutional Briefing)
-slug: capital-efficiency-modern-balance-sheet
+title: "Capital Efficiency for the Modern Balance Sheet: Leveraging Core Holdings with Silent Authority"
+slug: "capital-efficiency-modern-balance-sheet"
+description: "Institutional briefing on capital efficiency, liquidity engineering, and structural balance sheet optimization for Fund-III buyouts, cross-border mandates, and North American energy introductions."
+date: "2025-10-17"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/capital-efficiency-modern-balance-sheet/"
+meta_title: "Capital Efficiency for the Modern Balance Sheet: Leveraging Core Holdings with Silent Authority"
+meta_description: "Institutional briefing on capital efficiency, liquidity engineering, and structural balance sheet optimization for Fund-III buyouts, cross-border mandates, and North American energy introductions."
+featured_image: ""
+draft: false
+author: "Roials Capital (Institutional Briefing)"
 ---
+
 The capital vacuum in North America’s energy sector is a consequence of regulatory drift, not resource depletion. This structural gap has created a parallel reality. Surface narratives still revolve around decarbonization cycles, while subsurface economics continue to reward operators with established decline curves, hard production histories, and predictable reservoir behavior. The divergence is measurable. It has become one of the most powerful sources of balance sheet optimization available to institutional allocators navigating the 2026 landscape.
 
 ### Phase I:
@@ -92,5 +95,4 @@ DECISION-MAKING LENS FOR THE ALLOCATOR The allocator operating in 2026 faces an 
 
 This calibration produces principal authority. It strengthens acquisition readiness. It increases Opportunity Velocity without destabilizing the equity foundation. Roials Capital supports allocators seeking disciplined clarity, technical accuracy, and structural alignment across their Fund-III roadmap, liquidity frameworks, and energy introductions. [END OF BRIEFING]
 
-# 
-
+##

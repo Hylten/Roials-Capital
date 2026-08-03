@@ -1,13 +1,18 @@
 ---
-title: Strategic Credit Architecture for High‑Net‑Worth Entrepreneurs
-description: >-
-  Institutional-grade credit architecture for Fund-III capital formation,
-  private buyouts, liquidity engineering, and energy mandates under MiFID II and
-  energy mandates parameters.
-date: '2025-07-30'
-author: Jonas Hyltén
-slug: strategic-credit-architecture-hnwi
+title: "Strategic Credit Architecture for High‑Net‑Worth Entrepreneurs"
+slug: "strategic-credit-architecture-hnwi"
+description: "Institutional-grade credit architecture for Fund-III capital formation, private buyouts, liquidity engineering, and energy mandates under MiFID II and energy mandates parameters."
+date: "2025-07-30"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/strategic-credit-architecture-hnwi/"
+meta_title: "Strategic Credit Architecture for High‑Net‑Worth Entrepreneurs"
+meta_description: "Institutional-grade credit architecture for Fund-III capital formation, private buyouts, liquidity engineering, and energy mandates under MiFID II and energy mandates parameters."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
+
 A mispriced covenant structure always reveals the fracture point of an ecosystem long before the market acknowledges it. The gap shows up in second-order effects: subdued recovery projections, muted sponsor participation, and credit files that hide operational decay behind cosmetic EBITDA bridges. Order is not an option. It is the prerequisite for stewardship.
 
 ## The Regime Shift
@@ -144,4 +149,3 @@ Theology of Capital demands truth in financial architecture. It demands operatio
 EXIT Fund-III operators who follow this discipline achieve a singular objective: a repeatable credit engine with a target DSCR of 1.65x under stressed conditions.
 
 Request a confidential capital audit.
-

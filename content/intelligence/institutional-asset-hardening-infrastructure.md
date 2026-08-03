@@ -1,14 +1,18 @@
 ---
-title: Sovereign-Grade Infrastructure for Institutional Asset Hardening
-description: >-
-  Institutional architecture for Fund-III capital formation, cross-border
-  acquisition scaffolding, and asset-hardening frameworks engineered for LP/GP
-  governance, liquidity stabilization, and multi-jurisdictional buyout
-  acceleration.
-date: '2026-01-22'
-author: Roials Capital
-slug: institutional-asset-hardening-infrastructure
+title: "Sovereign-Grade Infrastructure for Institutional Asset Hardening"
+slug: "institutional-asset-hardening-infrastructure"
+description: "Institutional architecture for Fund-III capital formation, cross-border acquisition scaffolding, and asset-hardening frameworks engineered for LP/GP governance, liquidity stabilization, and multi-jurisdictional buyout…"
+date: "2026-01-22"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/institutional-asset-hardening-infrastructure/"
+meta_title: "Sovereign-Grade Infrastructure for Institutional Asset Hardening"
+meta_description: "Institutional architecture for Fund-III capital formation, cross-border acquisition scaffolding, and asset-hardening frameworks engineered for LP/GP governance, liquidity stabilization, and multi-jurisdictional buyout…"
+featured_image: ""
+draft: false
+author: "Roials Capital"
 ---
+
 Institutional continuity demands engineered certainty. Capital respects structure. Structure requires jurisdiction. Jurisdiction dictates velocity. Velocity hardens assets.
 
 Asset hardening preserves legacy.
@@ -181,4 +185,3 @@ Fund-III stands at the inflection point. Energy volatility creates entry windows
 ### Step I: nto the gap with sovereign-grade design. Kapitalanskaffning drives the engine.
 
 Monetization Architecture stabilizes the engine. Special mandates scale the engine. Asset hardening protects the engine. The result is institutional inevitability. End with directive: Initiate confidential capital audit.
-

@@ -1,15 +1,18 @@
 ---
-title: >-
-  Asset-Based Liquidity Engineering as the Structural Engine for
-  Multi‑Generational Capital Sovereignty
-description: >-
-  Institutional brief on Asset-Based Lending-driven liquidity architecture,
-  Fund-III capitalization pathways, and cross-jurisdictional acquisition
-  protocols for LP/GP allocators.
-date: '2025-11-03'
-author: Roials Capital
-slug: abl-engine-for-multigenerational-wealth
+title: "Asset-Based Liquidity Engineering as the Structural Engine for Multi‑Generational Capital Sovereignty"
+slug: "abl-engine-for-multigenerational-wealth"
+description: "Institutional brief on Asset-Based Lending-driven liquidity architecture, Fund-III capitalization pathways, and cross-jurisdictional acquisition protocols for LP/GP allocators."
+date: "2025-11-03"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/abl-engine-for-multigenerational-wealth/"
+meta_title: "Asset-Based Liquidity Engineering as the Structural Engine for Multi‑Generational Capital Sovereignty"
+meta_description: "Institutional brief on Asset-Based Lending-driven liquidity architecture, Fund-III capitalization pathways, and cross-jurisdictional acquisition protocols for LP/GP allocators."
+featured_image: ""
+draft: false
+author: "Roials Capital"
 ---
+
 Asset-based Institutional Liquidity Paths operates as the structural engine behind every enduring capital dynasty. The architecture is simple in appearance and mathematically complex in operation: hard assets, leveraged liquidity, and controlled velocity. Wealth that compounds over multiple generations is rarely built on linear earnings. It is built on asset‑anchored cashflow engines that convert collateral into mobility, mobility into acquisition power, and acquisition power into persistent strategic dominance. Multi-generational capital resilience requires a platform, not a position. A chassis, not an account. A system, not a hope.
 
 Legacy families understood the principle before modern financial engineering gave it language.
@@ -38,4 +41,3 @@ Fast execution. Machine gun sentences. Precision. No fillers. This briefing must
 ## The Mandate
 
 is clear. Request confidential capital audit.
-

@@ -1,13 +1,17 @@
 ---
-title: The Future of Private Credit and Sovereign Wealth
-description: >-
-  A high-authority analysis of private credit, asset based liquidity
-  engineering, and Institutional Liquidity Paths for HNWI and UHNW portfolios.
-date: '2025-12-22'
-author: Jonas Hyltén
-slug: the-future-of-private-credit-and-sovereign-wealth
+title: "The Future of Private Credit and Sovereign Wealth"
+slug: "the-future-of-private-credit-and-sovereign-wealth"
+description: "A high-authority analysis of private credit, asset based liquidity engineering, and Institutional Liquidity Paths for HNWI and UHNW portfolios."
+date: "2025-12-22"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/the-future-of-private-credit-and-sovereign-wealth/"
+meta_title: "The Future of Private Credit and Sovereign Wealth"
+meta_description: "A high-authority analysis of private credit, asset based liquidity engineering, and Institutional Liquidity Paths for HNWI and UHNW portfolios."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
-# The Future of Private Credit and Sovereign Wealth The landscape of global wealth is shifting. The old centers of gravity, traditional banks and public market frameworks, no longer define the liquidity architecture for the wealthy.
 
 Private credit has become the institutional core. Sovereign wealth dynamics are expanding in parallel, absorbing global yield, capital, and geopolitical influence at a rate not seen since post‑Bretton Woods restructuring. In this environment, Roials Capital operates as a structural authority. We do not speculate. We do not sell. We design liquidity.
 

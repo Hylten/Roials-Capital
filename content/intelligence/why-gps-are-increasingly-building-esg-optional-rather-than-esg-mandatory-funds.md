@@ -1,15 +1,17 @@
 ---
-title: >-
-  Why GPs Are Increasingly Launching ESG-Optional Rather Than ESG-Mandatory
-  Funds
-description: >-
-  General Partners shifting away from ESG-mandatory fund structures toward
-  ESG-optional with structured reporting frameworks.
-date: '2026-02-02'
-author: Roials Capital
-slug: why-gps-are-increasingly-building-esg-optional-rather-than-esg-mandatory-funds
+title: "Why GPs Are Increasingly Launching ESG-Optional Rather Than ESG-Mandatory Funds"
+slug: "why-gps-are-increasingly-building-esg-optional-rather-than-esg-mandatory-funds"
+description: "General Partners shifting away from ESG-mandatory fund structures toward ESG-optional with structured reporting frameworks."
+date: "2026-02-02"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/why-gps-are-increasingly-building-esg-optional-rather-than-esg-mandatory-funds/"
+meta_title: "Why GPs Are Increasingly Launching ESG-Optional Rather Than ESG-Mandatory Funds"
+meta_description: "General Partners shifting away from ESG-mandatory fund structures toward ESG-optional with structured reporting frameworks."
+featured_image: ""
+draft: false
+author: "Roials Capital"
 ---
-# Why GPs Are Increasingly Launching ESG‑Optional Rather Than ESG‑Mandatory Funds General Partners across US, EU, and GCC markets are shifting away from ESG‑mandatory fund structures for three primary reasons:
 
 1. **LP Fragmentation
 
@@ -139,4 +141,3 @@ Just tell me:
 - Or capital‑raising strategy.
 
 I can draft the audit immediately.
-

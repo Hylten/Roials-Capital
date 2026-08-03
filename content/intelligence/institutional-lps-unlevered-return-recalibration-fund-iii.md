@@ -1,20 +1,21 @@
 ---
-title: >-
-  The Principal Compression: Why Institutional LPs Demand Higher Unlevered
-  Returns in Fund‑III and Beyond
-description: >-
-  A private Principal briefing on LP return recalibration, compression dynamics,
-  and the new hierarchy shaping Fund‑III+ capital formation. Deep institutional
-  analysis for GP leadership navigating modern capital scarcity,
-  multi‑jurisdictional structuring, and the elevated bar for unlevered
-  performance.
-date: '2026-03-04'
-author: Roials Capital
-slug: institutional-lps-unlevered-return-recalibration-Fund-III
+title: "The Principal Compression: Why Institutional LPs Demand Higher Unlevered Returns in Fund‑III and Beyond"
+slug: "institutional-lps-unlevered-return-recalibration-Fund-III"
+description: "A private Principal briefing on LP return recalibration, compression dynamics, and the new hierarchy shaping Fund‑III+ capital formation. Deep institutional analysis for GP leadership navigating modern capital scarcit…"
+date: "2026-03-04"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/institutional-lps-unlevered-return-recalibration-Fund-III/"
+meta_title: "The Principal Compression: Why Institutional LPs Demand Higher Unlevered Returns in Fund‑III and Beyond"
+meta_description: "A private Principal briefing on LP return recalibration, compression dynamics, and the new hierarchy shaping Fund‑III+ capital formation. Deep institutional analysis for GP leadership navigating modern capital scarcit…"
+featured_image: ""
+draft: false
+author: "Roials Capital"
 ---
+
 The pressure is real. Quiet. Relentless. Mathematical. Institutional LPs are no longer evaluating Fund‑III+ vehicles on legacy benchmarks. They have reset the frame. They want higher unlevered returns, lower tolerance for financial engineering drift, and structural proof that the GP knows how to compound without leaning on leverage as a crutch. This is where hierarchy forms. This is where the weak fracture. - - -
 
-# The Return Recalibration The shift began years ago, but most GPs only noticed it when they saw the subtle tightening in LP diligence memos.
+## The Return Recalibration The shift began years ago, but most GPs only noticed it when they saw the subtle tightening in LP diligence memos.
 
 Not louder. Sharper. Pension funds, sovereign pools, and insurance allocators have stopped rewarding “decorated leverage stories”. They want operational yield, not leverage‑inflated IRR. They want covenant‑aware execution, not market‑beta exposure wrapped in buyout packaging. They want durability. And the truth is simple: Fund‑III+ managers are expected to prove they can generate unlevered alpha, not just levered narratives.
 
@@ -121,4 +122,3 @@ Unlevered performance is the new covenant between LP and GP. It is a contract of
 A contract of sovereignty. A contract of truth. Fund‑III+ is not about raising more capital. It is about proving you deserve it. A Principal understands this. A Principal builds to this. A Principal never hides from the architecture. - -
 
 - Request confidential capital audit.
-

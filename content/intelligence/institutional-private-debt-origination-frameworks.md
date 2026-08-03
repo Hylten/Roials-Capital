@@ -1,15 +1,18 @@
 ---
-title: >-
-  Institutional Frameworks for Private Debt Origination in High-Constraint
-  Regimes
-description: >-
-  Technical architecture for Fund-III capital formation, private credit
-  origination systems, liquidity engineering, and energy acquisition mandates
-  under institutional governance.
-date: '2025-07-25'
-author: Jonas Hyltén
-slug: institutional-private-debt-origination-frameworks
+title: "Institutional Frameworks for Private Debt Origination in High-Constraint Regimes"
+slug: "institutional-private-debt-origination-frameworks"
+description: "Technical architecture for Fund-III capital formation, private credit origination systems, liquidity engineering, and energy acquisition mandates under institutional governance."
+date: "2025-07-25"
+tags: []
+categories: ["Intelligence"]
+canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/institutional-private-debt-origination-frameworks/"
+meta_title: "Institutional Frameworks for Private Debt Origination in High-Constraint Regimes"
+meta_description: "Technical architecture for Fund-III capital formation, private credit origination systems, liquidity engineering, and energy acquisition mandates under institutional governance."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
+
 Order fails whenever origination is treated as a sales function instead of a governance engine. The structural gap begins there. Private debt is not constrained by capital. It is constrained by discipline. Every breakdown in underwriting quality traces back to operational drift inside the origination funnel. The market has accepted this drift as normal. I do not. This briefing clarifies THE REGIME SHIFT , the mechanics that follow, and the institutional consequences for Fund-III and beyond.
 
 ### Phase I:
@@ -111,4 +114,3 @@ Stewardship in Fund-III means allocating capital only where dominion can be exer
 ### Phase V:
 
 EXIT Target loss ratio: below 40 basis points across the cycle. Request confidential capital audit.
-
