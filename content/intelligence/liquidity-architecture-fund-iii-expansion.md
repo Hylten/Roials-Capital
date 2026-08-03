@@ -5,7 +5,7 @@ description: "Institutional brief on capital-raising mechanics, liquidity engine
 date: "2025-09-28"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/liquidity-architecture-Fund-III-expansion/"
+canonical_url: "https://roialscapital.com/intelligence/liquidity-architecture-Fund-III-expansion/"
 meta_title: "Liquidity Architecture for Fund-III Expansion"
 meta_description: "Institutional brief on capital-raising mechanics, liquidity engineering, and structural optimization for Fund-III scale-up across buyouts, add-ons, and private credit frameworks."
 featured_image: ""

@@ -5,7 +5,7 @@ description: "Institutional brief on Asset-Based Liquidity Engineering, engineer
 date: "2026-02-14"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/structural-alpha-engineered-reliability-Fund-III/"
+canonical_url: "https://roialscapital.com/intelligence/structural-alpha-engineered-reliability-Fund-III/"
 meta_title: "Structural Alpha Through Engineered Reliability: The Institutional Mandate for Fund-III Kapitalanskaffning"
 meta_description: "Institutional brief on Asset-Based Liquidity Engineering, engineered reliability, and structural alpha generation for Fund-III+ buyouts, add-ons, and cross‑jurisdictional acquisition platforms."
 featured_image: ""

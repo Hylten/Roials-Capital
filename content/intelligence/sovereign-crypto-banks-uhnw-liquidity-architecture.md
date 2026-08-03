@@ -5,7 +5,7 @@ description: "Institutional briefing on sovereign crypto banking, liquidity engi
 date: "2025-09-26"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/sovereign-crypto-banks-uhnw-liquidity-architecture/"
+canonical_url: "https://roialscapital.com/intelligence/sovereign-crypto-banks-uhnw-liquidity-architecture/"
 meta_title: "The Rise of Sovereign Crypto Banks and the Liquidity Architecture Reshaping Global UHNW Capital"
 meta_description: "Institutional briefing on sovereign crypto banking, liquidity engineering, and the restructuring of global UHNW balance sheets across Europe, North America, and the GCC."
 featured_image: ""

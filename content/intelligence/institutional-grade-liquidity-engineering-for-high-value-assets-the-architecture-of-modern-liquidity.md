@@ -5,7 +5,7 @@ description: "Institutional Monetization Architecture through private credit and
 date: "2025-09-07"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/institutional-grade-liquidity-engineering-for-high-value-assets-the-architecture-of-modern-liquidity/"
+canonical_url: "https://roialscapital.com/intelligence/institutional-grade-liquidity-engineering-for-high-value-assets-the-architecture-of-modern-liquidity/"
 meta_title: "Institutional Grade liquidity engineering for High-Value Assets: The Architecture of Modern Liquidity"
 meta_description: "Institutional Monetization Architecture through private credit and asset based Monetization Architecture for HNWI and UHNW clients seeking precision, control, and structural efficiency."
 featured_image: ""

@@ -5,7 +5,7 @@ description: "PE deployment cycles are compressing as inefficiencies collapse an
 date: "2025-06-27"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/why-private-equity-is-quietly-moving-toward-shorter-deployment-cycles-for-2026-2/"
+canonical_url: "https://roialscapital.com/intelligence/why-private-equity-is-quietly-moving-toward-shorter-deployment-cycles-for-2026-2/"
 meta_title: "Why Private Equity Is Quietly Moving Toward Shorter Deployment Cycles for 2026"
 meta_description: "PE deployment cycles are compressing as inefficiencies collapse and multi-vintage stacking pressure intensifies."
 featured_image: ""

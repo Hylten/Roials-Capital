@@ -5,7 +5,7 @@ description: "An institutional examination of risk mitigation mechanics within s
 date: "2026-01-05"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/risk-mitigation-in-sovereign-asset-structures-architecting-stability-for-institutional-capital/"
+canonical_url: "https://roialscapital.com/intelligence/risk-mitigation-in-sovereign-asset-structures-architecting-stability-for-institutional-capital/"
 meta_title: "Risk Mitigation in Sovereign Asset Structures: Architecting Stability for Institutional Capital"
 meta_description: "An institutional examination of risk mitigation mechanics within sovereign asset structures, with emphasis on liquidity, private credit, and asset based liquidity engineering frameworks."
 featured_image: ""

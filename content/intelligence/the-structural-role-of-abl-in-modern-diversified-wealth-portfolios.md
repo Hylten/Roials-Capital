@@ -5,7 +5,7 @@ description: "An institutional analysis of how Asset Based liquidity engineering
 date: "2025-11-29"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/the-structural-role-of-abl-in-modern-diversified-wealth-portfolios/"
+canonical_url: "https://roialscapital.com/intelligence/the-structural-role-of-abl-in-modern-diversified-wealth-portfolios/"
 meta_title: "The Structural Role of Asset-Based Lending in Modern Diversified Wealth Portfolios"
 meta_description: "An institutional analysis of how Asset Based liquidity engineering enhances liquidity, stability, and controlled optionality for HNWI and UHNW portfolios."
 featured_image: ""

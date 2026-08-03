@@ -5,7 +5,7 @@ description: "A principal-grade blueprint for raising institutional capital in i
 date: "2026-03-06"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/deep-liquidity-architecture-Fund-III/"
+canonical_url: "https://roialscapital.com/intelligence/deep-liquidity-architecture-Fund-III/"
 meta_title: "Deep Liquidity Architecture for Fund‑III Mobilization"
 meta_description: "A principal-grade blueprint for raising institutional capital in illiquid markets, integrating liquidity engineering, private credit overlays, and cross‑jurisdictional acquisition structuring for Fund-III expansion."
 featured_image: ""

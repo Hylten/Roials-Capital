@@ -5,7 +5,7 @@ description: "Institutional briefing on sovereign balance sheet engineering, cap
 date: "2025-07-26"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/sovereign-balance-sheet-engineering-Fund-III/"
+canonical_url: "https://roialscapital.com/intelligence/sovereign-balance-sheet-engineering-Fund-III/"
 meta_title: "The Sovereign Balance Sheet: Engineering for Fund-III and Institutional Expansion"
 meta_description: "Institutional briefing on sovereign balance sheet engineering, capital formation architecture, and strategic alignment for Fund-III expansion across buyouts, liquidity engineering, and North American energy mandates."
 featured_image: ""

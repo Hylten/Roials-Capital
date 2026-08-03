@@ -5,7 +5,7 @@ description: "Institutional brief on sovereign-grade digital banking architectur
 date: "2025-09-10"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/sovereign-crypto-bank-regime-liquidity-mandate-Fund-III/"
+canonical_url: "https://roialscapital.com/intelligence/sovereign-crypto-bank-regime-liquidity-mandate-Fund-III/"
 meta_title: "The Sovereign Crypto Bank Regime and the Liquidity Mandate of Fund-III"
 meta_description: "Institutional brief on sovereign-grade digital banking architectures, Fund-III liquidity structuring, private credit capital formation, and multi‑jurisdictional acquisition lanes across MiFID II, Asset-Based Lending,…"
 featured_image: ""

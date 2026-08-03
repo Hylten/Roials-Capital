@@ -5,7 +5,7 @@ description: "Institutional briefing on cross jurisdictional wealth mobility, di
 date: "2025-07-16"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/wealth-mobility-architecture-borderless-crypto-collateral/"
+canonical_url: "https://roialscapital.com/intelligence/wealth-mobility-architecture-borderless-crypto-collateral/"
 meta_title: "Wealth Mobility Architecture and Borderless Crypto Collateral for Institutional Grade M and A"
 meta_description: "Institutional briefing on cross jurisdictional wealth mobility, digital collateral frameworks, and the integration of crypto based balance sheet structures into Fund-III buyout environments, including liquidity engine…"
 featured_image: ""

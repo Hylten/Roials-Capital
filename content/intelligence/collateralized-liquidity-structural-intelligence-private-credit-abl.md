@@ -5,7 +5,7 @@ description: "Institutional briefing on collateralized liquidity architecture, L
 date: "2025-09-16"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/collateralized-liquidity-structural-intelligence-private-credit-abl/"
+canonical_url: "https://roialscapital.com/intelligence/collateralized-liquidity-structural-intelligence-private-credit-abl/"
 meta_title: "The Mechanics of Collateralized Liquidity: Structural Intelligence for Private Credit and Asset-Based Lending"
 meta_description: "Institutional briefing on collateralized liquidity architecture, LTV control systems, cash‑flow mechanics, and capital raising protocols for Fund-III buyouts and Asset-Based Lending structures."
 featured_image: ""

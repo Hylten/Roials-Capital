@@ -5,7 +5,7 @@ description: "An institutional analysis on the structural liquidity gap in priva
 date: "2025-08-10"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/portfolio-backed-liquidity-private-capital-mechanics/"
+canonical_url: "https://roialscapital.com/intelligence/portfolio-backed-liquidity-private-capital-mechanics/"
 meta_title: "The Mechanics of Portfolio Backed Liquidity for Modern Private Capital"
 meta_description: "An institutional analysis on the structural liquidity gap in private markets, the operational mechanics of portfolio backed financing, and the strategic alignment model used by Roials Capital to navigate capital ineff…"
 featured_image: ""

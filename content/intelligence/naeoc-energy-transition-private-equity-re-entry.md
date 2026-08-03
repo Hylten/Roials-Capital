@@ -5,7 +5,7 @@ description: "A private capital briefing on why $50M–$250M energy-transition c
 date: "2026-02-04"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/naeoc-energy-transition-private-equity-re-entry/"
+canonical_url: "https://roialscapital.com/intelligence/naeoc-energy-transition-private-equity-re-entry/"
 meta_title: "The Principal’s Position on energy mandates‑Scale Energy Transition Buyouts"
 meta_description: "A private capital briefing on why $50M–$250M energy-transition control deals are re‑magnetizing infrastructure LPs and re‑opening the mid‑market for Fund‑III capital formation."
 featured_image: ""

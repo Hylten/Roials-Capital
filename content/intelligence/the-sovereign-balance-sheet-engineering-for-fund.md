@@ -5,7 +5,7 @@ description: "The Sovereign Balance Sheet: Engineering For Fund"
 date: "2025-07-07"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/the-sovereign-balance-sheet-engineering-for-fund/"
+canonical_url: "https://roialscapital.com/intelligence/the-sovereign-balance-sheet-engineering-for-fund/"
 meta_title: "The Sovereign Balance Sheet: Engineering For Fund"
 meta_description: "The Sovereign Balance Sheet: Engineering For Fund"
 featured_image: ""

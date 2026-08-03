@@ -5,7 +5,7 @@ description: "Institutional liquidity through private credit and asset based Str
 date: "2025-08-01"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/liquidity-engineering-against-bitcoin-the-new-gold-standard-for-family-offices/"
+canonical_url: "https://roialscapital.com/intelligence/liquidity-engineering-against-bitcoin-the-new-gold-standard-for-family-offices/"
 meta_title: "liquidity engineering Against Bitcoin: The New Gold Standard for Family Offices"
 meta_description: "Institutional liquidity through private credit and asset based Strategic Collateralization, anchored by Bitcoin as a collateral class engineered for HNWI and UHNW capital environments."
 featured_image: ""

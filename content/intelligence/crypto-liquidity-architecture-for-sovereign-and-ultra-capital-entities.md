@@ -5,7 +5,7 @@ description: "Institutional-grade crypto liquidity solutions backed by private c
 date: "2025-12-06"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/crypto-liquidity-architecture-for-sovereign-and-ultra-capital-entities/"
+canonical_url: "https://roialscapital.com/intelligence/crypto-liquidity-architecture-for-sovereign-and-ultra-capital-entities/"
 meta_title: "Crypto Liquidity Architecture for Sovereign and Ultra-Capital Entities"
 meta_description: "Institutional-grade crypto liquidity solutions backed by private credit and Asset-Based Lending. Minimum deployment. Structural mechanics for HNWI and UHNW capital."
 featured_image: ""

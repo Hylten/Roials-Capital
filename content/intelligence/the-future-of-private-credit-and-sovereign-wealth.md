@@ -5,7 +5,7 @@ description: "A high-authority analysis of private credit, asset based liquidity
 date: "2025-12-22"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/the-future-of-private-credit-and-sovereign-wealth/"
+canonical_url: "https://roialscapital.com/intelligence/the-future-of-private-credit-and-sovereign-wealth/"
 meta_title: "The Future of Private Credit and Sovereign Wealth"
 meta_description: "A high-authority analysis of private credit, asset based liquidity engineering, and Institutional Liquidity Paths for HNWI and UHNW portfolios."
 featured_image: ""

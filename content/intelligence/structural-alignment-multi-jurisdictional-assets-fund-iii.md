@@ -5,7 +5,7 @@ description: "An institutional briefing on cross-jurisdictional structural align
 date: "2025-06-26"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/structural-alignment-multi-jurisdictional-assets-Fund-III/"
+canonical_url: "https://roialscapital.com/intelligence/structural-alignment-multi-jurisdictional-assets-Fund-III/"
 meta_title: "Structural Alignment in Multi Jurisdictional Assets for Fund-III Scale Buyouts and Institutional Liquidity Engineering"
 meta_description: "An institutional briefing on cross-jurisdictional structural alignment, capital regime fragmentation, operational arbitrage in North American energy, and Fund-III optimization for UHNWIs, Family Offices, and Instituti…"
 featured_image: ""

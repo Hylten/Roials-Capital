@@ -5,7 +5,7 @@ description: "Strategic capital efficiency through private credit and asset base
 date: "2026-01-12"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/capital-efficiency-for-the-modern-balance-sheet-leveraging-core-holdings-with-silent-authority/"
+canonical_url: "https://roialscapital.com/intelligence/capital-efficiency-for-the-modern-balance-sheet-leveraging-core-holdings-with-silent-authority/"
 meta_title: "Capital Efficiency for the Modern Balance Sheet: Leveraging Core Holdings with Silent Authority"
 meta_description: "Strategic capital efficiency through private credit and asset based liquidity engineering. Enhance liquidity while preserving core holdings with institutional precision."
 featured_image: ""

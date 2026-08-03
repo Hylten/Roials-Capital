@@ -5,7 +5,7 @@ description: "Institutional briefing on the structural role of private credit, t
 date: "2025-08-04"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/private-credit-liquidity-modern-foundation/"
+canonical_url: "https://roialscapital.com/intelligence/private-credit-liquidity-modern-foundation/"
 meta_title: "Private Credit and Liquidity: The Modern Foundation for Institutional Balance Sheet Optimization"
 meta_description: "Institutional briefing on the structural role of private credit, the modern liquidity regime, and Roials Capital's strategic architecture for Fund-III capital formation, liquidity engineering, and North American energ…"
 featured_image: ""

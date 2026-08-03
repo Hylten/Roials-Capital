@@ -5,7 +5,7 @@ description: "A clinical analysis for institutional allocators on capital preser
 date: "2025-12-10"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/institutional-playbook-capital-preservation/"
+canonical_url: "https://roialscapital.com/intelligence/institutional-playbook-capital-preservation/"
 meta_title: "The Institutional Playbook for Capital Preservation in a Fragmented Capital Regime"
 meta_description: "A clinical analysis for institutional allocators on capital preservation architecture across private markets, with emphasis on Fund-III buyout sequencing, Liquidity Engineering, and North American energy optionality t…"
 featured_image: ""

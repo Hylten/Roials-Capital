@@ -5,7 +5,7 @@ description: "Institutional brief on sovereign-grade capital architecture, Fund-
 date: "2025-09-15"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/architecture-of-capital-engineered-sovereignty/"
+canonical_url: "https://roialscapital.com/intelligence/architecture-of-capital-engineered-sovereignty/"
 meta_title: "Architecture of Capital: Engineered Sovereignty"
 meta_description: "Institutional brief on sovereign-grade capital architecture, Fund-III mobilization, liquidity engineering, and cross‑jurisdictional acquisition structuring for LP/GP mandates."
 featured_image: ""

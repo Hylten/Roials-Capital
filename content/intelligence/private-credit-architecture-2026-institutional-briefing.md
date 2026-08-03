@@ -5,7 +5,7 @@ description: "A clinical institutional briefing on the macro regime shift in glo
 date: "2026-01-29"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/private-credit-architecture-2026-institutional-briefing/"
+canonical_url: "https://roialscapital.com/intelligence/private-credit-architecture-2026-institutional-briefing/"
 meta_title: "The Evolution of Private Credit in 2026: The New Architecture of Institutional Liquidity"
 meta_description: "A clinical institutional briefing on the macro regime shift in global private credit, structural liquidity mechanics, balance sheet optimization, and the emerging capital architecture shaping Fund-III+ buyout executio…"
 featured_image: ""

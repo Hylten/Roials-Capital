@@ -5,7 +5,7 @@ description: "Institutional analysis of sovereign capital flows, Fund-III buyout
 date: "2026-03-05"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/sovereign-capital-silent-authority/"
+canonical_url: "https://roialscapital.com/intelligence/sovereign-capital-silent-authority/"
 meta_title: "Sovereign Capital: The Silent Authority in Modern Financing"
 meta_description: "Institutional analysis of sovereign capital flows, Fund-III buyout dynamics, liquidity engineering, and jurisdictional structuring for advanced GP/LP mandates."
 featured_image: ""

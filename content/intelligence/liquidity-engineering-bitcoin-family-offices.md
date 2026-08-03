@@ -5,7 +5,7 @@ description: "Institutional briefing on Institutional Liquidity Paths, Bitcoin a
 date: "2025-11-24"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/liquidity-engineering-bitcoin-family-offices/"
+canonical_url: "https://roialscapital.com/intelligence/liquidity-engineering-bitcoin-family-offices/"
 meta_title: "Liquidity Engineering Against Bitcoin: Institutional Calibration for Family Offices and Fund-III Allocators"
 meta_description: "Institutional briefing on Institutional Liquidity Paths, Bitcoin as a reserve stabilizer, and strategic capital alignment for UHNWIs, Family Offices, and Fund-III GP teams operating in a tightening global credit regime."
 featured_image: ""

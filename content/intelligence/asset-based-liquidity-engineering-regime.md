@@ -5,7 +5,7 @@ description: "Institutional treatise detailing Strategic Collateralization as a 
 date: "2025-12-27"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/asset-based-liquidity-engineering-regime/"
+canonical_url: "https://roialscapital.com/intelligence/asset-based-liquidity-engineering-regime/"
 meta_title: "Asset Based Liquidity Engineering as the Structural Engine of Multi Generational Wealth"
 meta_description: "Institutional treatise detailing Strategic Collateralization as a capital compounding regime, written for UHNWIs, LPs, and private credit allocators aligned with Fund-III buyout architecture."
 featured_image: ""

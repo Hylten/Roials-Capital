@@ -5,7 +5,7 @@ description: "Institutional guide to sovereign debt strategies, liquidity optimi
 date: "2025-12-14"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/sovereign-debt-strategies-for-family-offices-structural-liquidity-architectures-for-2026/"
+canonical_url: "https://roialscapital.com/intelligence/sovereign-debt-strategies-for-family-offices-structural-liquidity-architectures-for-2026/"
 meta_title: "Sovereign Debt Strategies for Family Offices: Structural Liquidity Architectures for 2026"
 meta_description: "Institutional guide to sovereign debt strategies, liquidity optimization, and asset based liquidity engineering frameworks for HNWI and UHNW family offices."
 featured_image: ""

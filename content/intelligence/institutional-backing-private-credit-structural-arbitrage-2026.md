@@ -5,7 +5,7 @@ description: "An institutional briefing on the structural arbitrage emerging fro
 date: "2026-01-16"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/institutional-backing-private-credit-structural-arbitrage-2026/"
+canonical_url: "https://roialscapital.com/intelligence/institutional-backing-private-credit-structural-arbitrage-2026/"
 meta_title: "The Power of Institutional Backing in Private Credit: Structural Advantage, Capital Discipline, and Strategic Alignment in the 2026 Energy and Middle Market Credit Regime"
 meta_description: "An institutional briefing on the structural arbitrage emerging from North American energy finance, middle market capital dislocation, and the operational intelligence required for allocators to navigate private credit…"
 featured_image: ""

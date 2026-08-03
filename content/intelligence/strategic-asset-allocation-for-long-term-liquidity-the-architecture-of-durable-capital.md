@@ -5,7 +5,7 @@ description: "A high-level liquidity framework for HNWI and UHNW investors using
 date: "2026-01-07"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/strategic-asset-allocation-for-long-term-liquidity-the-architecture-of-durable-capital/"
+canonical_url: "https://roialscapital.com/intelligence/strategic-asset-allocation-for-long-term-liquidity-the-architecture-of-durable-capital/"
 meta_title: "Strategic Asset Allocation for Long-Term Liquidity: The Architecture of Durable Capital"
 meta_description: "A high-level liquidity framework for HNWI and UHNW investors using private credit and asset-based liquidity engineering to engineer long-term optionality."
 featured_image: ""

@@ -5,7 +5,7 @@ description: "A surgical examination of modern liquidity architecture, private c
 date: "2025-07-10"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/sovereign-wealth-management-the-new-institutional-model-for-private-capital/"
+canonical_url: "https://roialscapital.com/intelligence/sovereign-wealth-management-the-new-institutional-model-for-private-capital/"
 meta_title: "Sovereign Wealth Management: The New Institutional Model for Private Capital"
 meta_description: "A surgical examination of modern liquidity architecture, private credit, and asset based liquidity engineering for HNWI and UHNW portfolios."
 featured_image: ""

@@ -5,7 +5,7 @@ description: "Institutional briefing on the structural capital vacuum in North A
 date: "2025-11-02"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/sovereign-capital-architecture-multi-generational-liquidity/"
+canonical_url: "https://roialscapital.com/intelligence/sovereign-capital-architecture-multi-generational-liquidity/"
 meta_title: "The Sovereign Capital Architecture: Engineering Multi Generational Liquidity Through Institutional Energy Stewardship"
 meta_description: "Institutional briefing on the structural capital vacuum in North American energy, Alberta thermal recovery mechanics, and the architecture of multi generational liquidity formation for UHNWIs, Family Offices, and Inst…"
 featured_image: ""

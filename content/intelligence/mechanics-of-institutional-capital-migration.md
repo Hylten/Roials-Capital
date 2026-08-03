@@ -5,7 +5,7 @@ description: "A clinical examination of allocator behavior, cross-cycle capital 
 date: "2026-03-03"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/mechanics-of-institutional-capital-migration/"
+canonical_url: "https://roialscapital.com/intelligence/mechanics-of-institutional-capital-migration/"
 meta_title: "The Mechanics of Institutional Capital Migration Across Cycles and Jurisdictions"
 meta_description: "A clinical examination of allocator behavior, cross-cycle capital migration mechanics, and structural alignment models relevant to private credit, buyout platforms, and North American energy operating mandates."
 featured_image: ""

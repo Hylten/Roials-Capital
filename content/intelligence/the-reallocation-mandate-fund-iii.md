@@ -5,7 +5,7 @@ description: "A principal-level directive on capital reallocation, cross-jurisdi
 date: "2025-07-31"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/the-reallocation-mandate-Fund-III/"
+canonical_url: "https://roialscapital.com/intelligence/the-reallocation-mandate-Fund-III/"
 meta_title: "The Reallocation Mandate: Institutional Realignment for Fund-III Expansion"
 meta_description: "A principal-level directive on capital reallocation, cross-jurisdictional structuring, and institutional capital engineering for Fund-III buyouts, liquidity mandates, and energy acquisitions."
 featured_image: ""

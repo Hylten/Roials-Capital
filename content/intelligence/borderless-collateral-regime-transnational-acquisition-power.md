@@ -5,7 +5,7 @@ description: "Institutional brief on cross‑jurisdictional collateral mobility,
 date: "2025-09-09"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/borderless-collateral-regime-transnational-acquisition-power/"
+canonical_url: "https://roialscapital.com/intelligence/borderless-collateral-regime-transnational-acquisition-power/"
 meta_title: "The Borderless Collateral Regime and the Ascension of Transnational Acquisition Power"
 meta_description: "Institutional brief on cross‑jurisdictional collateral mobility, Fund-III capital formation dynamics, and the emergence of sovereign-grade acquisition throughput for buyouts, Asset-Based Lending liquidity engineering,…"
 featured_image: ""

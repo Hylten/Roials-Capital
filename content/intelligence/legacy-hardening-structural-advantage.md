@@ -5,7 +5,7 @@ description: "A high density institutional analysis on the legacy hardening thes
 date: "2025-07-21"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/legacy-hardening-structural-advantage/"
+canonical_url: "https://roialscapital.com/intelligence/legacy-hardening-structural-advantage/"
 meta_title: "Legacy Hardening: The Structural Advantage in the 2026 Institutional Capital Regime"
 meta_description: "A high density institutional analysis on the legacy hardening thesis, structural capital vacuums, and the regime shift reshaping North American energy and private markets for Fund-III allocators."
 featured_image: ""

@@ -5,7 +5,7 @@ description: "A technical institutional briefing on the 2026 private credit regi
 date: "2026-02-13"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/evolution-private-credit-2026-institutional-liquidity-architecture/"
+canonical_url: "https://roialscapital.com/intelligence/evolution-private-credit-2026-institutional-liquidity-architecture/"
 meta_title: "The Evolution of Private Credit in 2026: The New Architecture of Institutional Liquidity"
 meta_description: "A technical institutional briefing on the 2026 private credit regime shift, structural inefficiencies, capital stack reconfiguration, and the emerging role of liquidity engineering across Fund-III buyouts, Asset-Based…"
 featured_image: ""

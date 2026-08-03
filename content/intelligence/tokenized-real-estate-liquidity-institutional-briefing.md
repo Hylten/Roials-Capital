@@ -5,7 +5,7 @@ description: "A clinical analysis of tokenized real estate, balance sheet optimi
 date: "2026-02-19"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/tokenized-real-estate-liquidity-institutional-briefing/"
+canonical_url: "https://roialscapital.com/intelligence/tokenized-real-estate-liquidity-institutional-briefing/"
 meta_title: "The Mechanics of Tokenized Real Estate Liquidity in Institutional Capital Markets"
 meta_description: "A clinical analysis of tokenized real estate, balance sheet optimization, liquidity engineering, and structural positioning for Fund-III buyouts and add ons. Prepared for institutional LPs, UHNW allocators, and privat…"
 featured_image: ""

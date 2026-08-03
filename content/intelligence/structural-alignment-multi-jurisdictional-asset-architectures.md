@@ -5,7 +5,7 @@ description: "Institutional memo outlining regime shifts in North American energ
 date: "2025-06-23"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/structural-alignment-multi-jurisdictional-asset-architectures/"
+canonical_url: "https://roialscapital.com/intelligence/structural-alignment-multi-jurisdictional-asset-architectures/"
 meta_title: "Structural Alignment in Multi Jurisdictional Asset Architectures Across Energy, Private Credit, and Cross Border Buyouts"
 meta_description: "Institutional memo outlining regime shifts in North American energy, multi jurisdictional capital structures, and alignment dynamics for LPs and GPs navigating Fund-III+ allocations, ABL liquidity engineering, and spe…"
 featured_image: ""

@@ -5,7 +5,7 @@ description: "Institutional briefing on the structural mechanics, liquidity arch
 date: "2025-11-05"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/sovereign-capital-architecture-multigenerational-liquidity/"
+canonical_url: "https://roialscapital.com/intelligence/sovereign-capital-architecture-multigenerational-liquidity/"
 meta_title: "The Sovereign Capital Architecture: Building Multi‑Generational Liquidity"
 meta_description: "Institutional briefing on the structural mechanics, liquidity architecture, and sovereign-grade capital design informing Fund-III scale allocations, North American energy mandates, and European private market acquisit…"
 featured_image: ""

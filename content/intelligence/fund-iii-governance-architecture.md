@@ -5,7 +5,7 @@ description: "Principal briefing on GP governance scaling, allocator‑grade rep
 date: "2025-11-22"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/Fund-III-governance-architecture/"
+canonical_url: "https://roialscapital.com/intelligence/Fund-III-governance-architecture/"
 meta_title: "Fund‑III Governance Architecture for Institutional Allocators"
 meta_description: "Principal briefing on GP governance scaling, allocator‑grade reporting systems, and cross‑jurisdictional capital interfaces for Fund‑III buyout platforms."
 featured_image: ""

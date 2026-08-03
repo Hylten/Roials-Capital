@@ -5,7 +5,7 @@ description: "A technical analyst briefing for institutional allocators evaluati
 date: "2026-01-31"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/institutional-liquidity-engineering-roials-capital-framework/"
+canonical_url: "https://roialscapital.com/intelligence/institutional-liquidity-engineering-roials-capital-framework/"
 meta_title: "Institutional Standards for Private Liquidity Engineering Agreements: The Roials Capital Framework"
 meta_description: "A technical analyst briefing for institutional allocators evaluating Institutional Liquidity Paths structures, capital stack optimization, and private credit alignment within the Roials Capital Framework."
 featured_image: ""

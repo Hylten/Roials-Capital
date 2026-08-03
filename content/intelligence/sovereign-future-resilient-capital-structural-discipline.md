@@ -5,7 +5,7 @@ description: "An institutional analysis of the capital regime shift reshaping gl
 date: "2025-12-10"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/sovereign-future-resilient-capital-structural-discipline/"
+canonical_url: "https://roialscapital.com/intelligence/sovereign-future-resilient-capital-structural-discipline/"
 meta_title: "The Sovereign Future: Building Resilient Capital Through Structural Discipline and Institutional Navigation"
 meta_description: "An institutional analysis of the capital regime shift reshaping global allocation mandates, with emphasis on strategic capital formation, Alberta energy hard-asset mechanics, and multi-jurisdictional balance sheet opt…"
 featured_image: ""

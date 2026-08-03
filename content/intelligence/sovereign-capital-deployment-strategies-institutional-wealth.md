@@ -5,7 +5,7 @@ description: "Institutional memorandum outlining regime-shift dynamics in global
 date: "2026-01-01"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/sovereign-capital-deployment-strategies-institutional-wealth/"
+canonical_url: "https://roialscapital.com/intelligence/sovereign-capital-deployment-strategies-institutional-wealth/"
 meta_title: "Sovereign Capital Deployment Strategies for Institutional‑Grade Wealth"
 meta_description: "Institutional memorandum outlining regime-shift dynamics in global capital markets, North American energy arbitrage, and sovereign-aligned capital deployment structures across buyouts, liquidity engineering, and speci…"
 featured_image: ""

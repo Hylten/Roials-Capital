@@ -5,7 +5,7 @@ description: "Institutional briefing on macro regime shifts, sovereign asset mec
 date: "2025-12-31"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/risk-mitigation-sovereign-asset-structures/"
+canonical_url: "https://roialscapital.com/intelligence/risk-mitigation-sovereign-asset-structures/"
 meta_title: "Risk Mitigation in Sovereign Asset Structures: Architecting Stability for Institutional Capital"
 meta_description: "Institutional briefing on macro regime shifts, sovereign asset mechanics, and risk architecture across Fund-III buyouts, liquidity engineering, and North American energy mandates for UHNWIs and institutional allocators."
 featured_image: ""

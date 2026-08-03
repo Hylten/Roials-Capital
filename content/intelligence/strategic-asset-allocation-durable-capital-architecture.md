@@ -5,7 +5,7 @@ description: "Institutional briefing on long horizon capital construction, liqui
 date: "2025-08-17"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/strategic-asset-allocation-durable-capital-architecture/"
+canonical_url: "https://roialscapital.com/intelligence/strategic-asset-allocation-durable-capital-architecture/"
 meta_title: "Strategic Asset Allocation for Long Term Liquidity: The Architecture of Durable Capital"
 meta_description: "Institutional briefing on long horizon capital construction, liquidity engineering, balance sheet optimization, and the structural mechanics shaping allocator behavior in 2026. Focus on Fund-III buyouts, North America…"
 featured_image: ""

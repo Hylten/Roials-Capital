@@ -5,7 +5,7 @@ description: "Institutional-grade analysis of capital‑raising infrastructure f
 date: "2025-08-30"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/Fund-III-capital-raising-infrastructure-analysis/"
+canonical_url: "https://roialscapital.com/intelligence/Fund-III-capital-raising-infrastructure-analysis/"
 meta_title: "Sovereign Capital Infrastructure for Institutional Allocators: Fund‑III Architecture Analysis"
 meta_description: "Institutional-grade analysis of capital‑raising infrastructure for Fund‑III buyout platforms, with emphasis on allocation mechanics, liquidity engineering, and cross‑jurisdictional structuring for GP‑led expansion."
 featured_image: ""

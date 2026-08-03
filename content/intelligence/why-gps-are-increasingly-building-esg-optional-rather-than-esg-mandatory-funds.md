@@ -5,7 +5,7 @@ description: "General Partners shifting away from ESG-mandatory fund structures 
 date: "2026-02-02"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/why-gps-are-increasingly-building-esg-optional-rather-than-esg-mandatory-funds/"
+canonical_url: "https://roialscapital.com/intelligence/why-gps-are-increasingly-building-esg-optional-rather-than-esg-mandatory-funds/"
 meta_title: "Why GPs Are Increasingly Launching ESG-Optional Rather Than ESG-Mandatory Funds"
 meta_description: "General Partners shifting away from ESG-mandatory fund structures toward ESG-optional with structured reporting frameworks."
 featured_image: ""

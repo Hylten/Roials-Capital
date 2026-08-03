@@ -5,7 +5,7 @@ description: "A clinical institutional briefing on modern credit architecture fo
 date: "2025-10-04"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/strategic-credit-architecture-hnwi-global/"
+canonical_url: "https://roialscapital.com/intelligence/strategic-credit-architecture-hnwi-global/"
 meta_title: "Strategic Credit Architecture for High Net Worth Entrepreneurs: Institutional Structures for Capital Raising, Liquidity Engineering, and Cross Border Expansion"
 meta_description: "A clinical institutional briefing on modern credit architecture for entrepreneurs operating within a globalized capital regime, with emphasis on Fund-III+ buyout capital formation, asset backed liquidity frameworks, a…"
 featured_image: ""

@@ -5,7 +5,7 @@ description: "Institutional briefing on the structural mandate for targeted capi
 date: "2026-02-01"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/mandate-of-discrete-capital-deployment/"
+canonical_url: "https://roialscapital.com/intelligence/mandate-of-discrete-capital-deployment/"
 meta_title: "The Mandate Of Discrete Capital Deployment Across North American Energy And Institutional Buyout Frameworks"
 meta_description: "Institutional briefing on the structural mandate for targeted capital deployment across North American energy, buyouts, liquidity engineering, and special cross jurisdictional mandates, with emphasis on Alberta heavy…"
 featured_image: ""

@@ -5,7 +5,7 @@ description: "Institutional-grade analysis of capital raising infrastructures, F
 date: "2026-01-22"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/capital-raising-infrastructure-analysis-Fund-III-lp-gp/"
+canonical_url: "https://roialscapital.com/intelligence/capital-raising-infrastructure-analysis-Fund-III-lp-gp/"
 meta_title: "Capital Raising Infrastructure Analysis for Institutional Allocators Across Fund‑III Architectures"
 meta_description: "Institutional-grade analysis of capital raising infrastructures, Fund-III scaling dynamics, liquidity engineering channels, and cross-regime allocation mechanics for UHNWIs, Institutional LPs, and Private Credit GPs."
 featured_image: ""

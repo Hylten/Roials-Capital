@@ -5,7 +5,7 @@ description: "Institutional briefing on safeguarding long horizon wealth through
 date: "2025-08-21"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/institutional-architecture-crypto-custody/"
+canonical_url: "https://roialscapital.com/intelligence/institutional-architecture-crypto-custody/"
 meta_title: "The Institutional Architecture of Protecting Multi Generational Wealth Through Crypto Custody"
 meta_description: "Institutional briefing on safeguarding long horizon wealth through cryptographic asset custody frameworks, regulatory alignment, operational segregation, and allocator grade security architecture."
 featured_image: ""

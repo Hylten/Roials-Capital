@@ -5,7 +5,7 @@ description: "A technical institutional briefing on capital inefficiencies, liqu
 date: "2026-03-14"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/strategic-liquidity-architecture-sovereign-uhnw-portfolios/"
+canonical_url: "https://roialscapital.com/intelligence/strategic-liquidity-architecture-sovereign-uhnw-portfolios/"
 meta_title: "Strategic Liquidity Architecture for Sovereign and Ultra High Net Worth Portfolios"
 meta_description: "A technical institutional briefing on capital inefficiencies, liquidity engineering, and structural alignment for Fund-III environments and energy mandates across North America and Europe."
 featured_image: ""

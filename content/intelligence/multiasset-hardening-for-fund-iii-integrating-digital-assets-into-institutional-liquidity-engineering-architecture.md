@@ -5,7 +5,7 @@ description: "Institutional overview of Asset-Backed Frameworks and asset based 
 date: "2026-01-19"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/multiasset-hardening-for-fund-iii-integrating-digital-assets-into-institutional-liquidity-engineering-architecture/"
+canonical_url: "https://roialscapital.com/intelligence/multiasset-hardening-for-fund-iii-integrating-digital-assets-into-institutional-liquidity-engineering-architecture/"
 meta_title: "Multi‑Asset Hardening for Fund-III: Integrating Digital Assets Into Institutional liquidity engineering Architecture"
 meta_description: "Institutional overview of Asset-Backed Frameworks and asset based Strategic Collateralization, with a focus on digital asset integration for HNWI and UHNW clients."
 featured_image: ""

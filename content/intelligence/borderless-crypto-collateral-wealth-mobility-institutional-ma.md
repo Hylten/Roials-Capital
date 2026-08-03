@@ -5,7 +5,7 @@ description: "Institutional briefing on crypto collateral mechanics, cross-juris
 date: "2026-01-25"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/borderless-crypto-collateral-wealth-mobility-institutional-ma/"
+canonical_url: "https://roialscapital.com/intelligence/borderless-crypto-collateral-wealth-mobility-institutional-ma/"
 meta_title: "Borderless Collateral and the Mobility of Wealth in the Institutional M&A Regime"
 meta_description: "Institutional briefing on crypto collateral mechanics, cross-jurisdictional mobility, private credit LTV architecture, and Fund-III capital formation for UHNWIs and LPs."
 featured_image: ""

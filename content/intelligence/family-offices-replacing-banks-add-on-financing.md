@@ -5,7 +5,7 @@ description: "Institutional briefing on the shift from regulated credit to priva
 date: "2025-10-06"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/family-offices-replacing-banks-add-on-financing/"
+canonical_url: "https://roialscapital.com/intelligence/family-offices-replacing-banks-add-on-financing/"
 meta_title: "Why Family Offices Are Quietly Replacing Banks in Add‑On Acquisition Financing"
 meta_description: "Institutional briefing on the shift from regulated credit to private family capital for Fund-III buyouts, add‑on velocity, and cross‑jurisdictional execution."
 featured_image: ""

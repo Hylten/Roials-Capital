@@ -5,7 +5,7 @@ description: "An institutional analysis of Institutional Liquidity Paths, balanc
 date: "2026-03-12"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/institutional-liquidity-engineering-architecture/"
+canonical_url: "https://roialscapital.com/intelligence/institutional-liquidity-engineering-architecture/"
 meta_title: "Institutional Grade Liquidity Engineering for High Value Assets: The Architecture of Modern Liquidity"
 meta_description: "An institutional analysis of Institutional Liquidity Paths, balance sheet optimization, and the structural mechanics defining modern capital formation for UHNWIs, private credit managers, and institutional LPs navigat…"
 featured_image: ""

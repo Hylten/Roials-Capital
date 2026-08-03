@@ -5,7 +5,7 @@ description: "A surgical exploration of institutional liquidity mechanics and as
 date: "2025-10-12"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/the-power-of-institutional-backing-in-private-credit/"
+canonical_url: "https://roialscapital.com/intelligence/the-power-of-institutional-backing-in-private-credit/"
 meta_title: "The Power of Institutional Backing in Private Credit"
 meta_description: "A surgical exploration of institutional liquidity mechanics and asset based liquidity engineering frameworks designed for HNWI and UHNW clients."
 featured_image: ""

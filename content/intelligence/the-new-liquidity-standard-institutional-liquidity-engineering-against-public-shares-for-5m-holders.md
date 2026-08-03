@@ -5,7 +5,7 @@ description: "A high‑authority analysis of the emerging liquidity standard, fo
 date: "2025-11-25"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/the-new-liquidity-standard-institutional-liquidity-engineering-against-public-shares-for-5m-holders/"
+canonical_url: "https://roialscapital.com/intelligence/the-new-liquidity-standard-institutional-liquidity-engineering-against-public-shares-for-5m-holders/"
 meta_title: "The New Liquidity Standard: Institutional liquidity engineering Against Public Shares for + Holders"
 meta_description: "A high‑authority analysis of the emerging liquidity standard, focusing on private credit, Asset-Based Lending frameworks, and public share Asset-Backed Frameworks for HNWI and UHNW clients seeking structural liquidity."
 featured_image: ""

@@ -5,7 +5,7 @@ description: "An analysis of the structural shift in private credit and its role
 date: "2025-07-29"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/private-credit-and-liquidity-the-modern-foundation/"
+canonical_url: "https://roialscapital.com/intelligence/private-credit-and-liquidity-the-modern-foundation/"
 meta_title: "Private Credit and Liquidity: The Modern Foundation"
 meta_description: "An analysis of the structural shift in private credit and its role as a foundational pillar for institutional liquidity."
 featured_image: ""

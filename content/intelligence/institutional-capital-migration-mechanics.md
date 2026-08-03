@@ -5,7 +5,7 @@ description: "A high density institutional analysis of capital migration drivers
 date: "2025-07-27"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/institutional-capital-migration-mechanics/"
+canonical_url: "https://roialscapital.com/intelligence/institutional-capital-migration-mechanics/"
 meta_title: "The Mechanics of Institutional Capital Migration Across Cycles and Regimes"
 meta_description: "A high density institutional analysis of capital migration drivers, structural inefficiencies, and the strategic positioning required for allocators navigating Fund-III buyout environments, Asset-Based Lending liquidi…"
 featured_image: ""

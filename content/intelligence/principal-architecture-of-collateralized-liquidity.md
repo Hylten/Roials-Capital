@@ -5,7 +5,7 @@ description: "A private-capital briefing on the structural mechanics of collater
 date: "2025-07-01"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/principal-architecture-of-collateralized-liquidity/"
+canonical_url: "https://roialscapital.com/intelligence/principal-architecture-of-collateralized-liquidity/"
 meta_title: "The Principal Architecture of Collateralized Liquidity"
 meta_description: "A private-capital briefing on the structural mechanics of collateralized liquidity, private credit intelligence, and Asset-Based Lending thresholds for institutional execution."
 featured_image: ""

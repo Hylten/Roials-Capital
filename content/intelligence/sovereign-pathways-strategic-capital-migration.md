@@ -5,7 +5,7 @@ description: "Institutional brief on jurisdictional migration, capital hardening
 date: "2025-07-14"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/sovereign-pathways-strategic-capital-migration/"
+canonical_url: "https://roialscapital.com/intelligence/sovereign-pathways-strategic-capital-migration/"
 meta_title: "Sovereign Pathways for Strategic Capital Migration"
 meta_description: "Institutional brief on jurisdictional migration, capital hardening, and cross-border structuring for UHNW principals allocating into Fund-III buyouts, Asset-Based Lending liquidity frames, and energy-side special mand…"
 featured_image: ""

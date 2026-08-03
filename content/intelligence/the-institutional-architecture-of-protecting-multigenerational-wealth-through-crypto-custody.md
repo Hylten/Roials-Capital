@@ -5,7 +5,7 @@ description: "A high trust analysis on institutional crypto custody, liquidity e
 date: "2026-01-12"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/the-institutional-architecture-of-protecting-multigenerational-wealth-through-crypto-custody/"
+canonical_url: "https://roialscapital.com/intelligence/the-institutional-architecture-of-protecting-multigenerational-wealth-through-crypto-custody/"
 meta_title: "The Institutional Architecture of Protecting Multi‑Generational Wealth Through Crypto Custody"
 meta_description: "A high trust analysis on institutional crypto custody, liquidity engineering, private credit, and asset based Monetization Architecture for HNWI and UHNW families."
 featured_image: ""

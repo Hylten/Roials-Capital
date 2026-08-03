@@ -5,7 +5,7 @@ description: "A clinical institutional briefing on the structural regime shift s
 date: "2025-12-16"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/institutional-grade-infrastructure-global-capital-architecture/"
+canonical_url: "https://roialscapital.com/intelligence/institutional-grade-infrastructure-global-capital-architecture/"
 meta_title: "Institutional Grade Infrastructure For Global Capital: Strategic Alignment, Liquidity Engineering, and Cross-Border Deployment Frameworks"
 meta_description: "A clinical institutional briefing on the structural regime shift shaping global capital flows, emphasizing buyout infrastructure, Asset-Backed Frameworks, and energy deployment mechanics within a multi jurisdictional…"
 featured_image: ""

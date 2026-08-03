@@ -5,7 +5,7 @@ description: "Institutional brief on capital formation for Fund-III, buyout-capa
 date: "2025-12-19"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/silent-authority-modern-balance-sheet/"
+canonical_url: "https://roialscapital.com/intelligence/silent-authority-modern-balance-sheet/"
 meta_title: "Silent Authority on the Modern Balance Sheet"
 meta_description: "Institutional brief on capital formation for Fund-III, buyout-capable liquidity engineering, and mandate-driven acquisition structuring across US/EU regimes."
 featured_image: ""

@@ -5,7 +5,7 @@ description: "Institutional brief on multi‑asset liquidity engineering, capita
 date: "2025-08-19"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/multi-asset-liquidity-mechanics-institutional-portfolios/"
+canonical_url: "https://roialscapital.com/intelligence/multi-asset-liquidity-mechanics-institutional-portfolios/"
 meta_title: "The Mechanics of Multi‑Asset Liquidity for Institutional‑Grade Portfolios"
 meta_description: "Institutional brief on multi‑asset liquidity engineering, capital formation for Fund-III buyout mandates, and cross‑jurisdictional acquisition structuring under MiFID II, energy mandates, and private credit frameworks."
 featured_image: ""

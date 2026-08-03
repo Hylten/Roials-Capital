@@ -5,7 +5,7 @@ description: "Institutional thesis on balance sheet efficiency, collateral orche
 date: "2025-07-13"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/capital-efficiency-silent-authority/"
+canonical_url: "https://roialscapital.com/intelligence/capital-efficiency-silent-authority/"
 meta_title: "Capital Authority as a Silent Multiplier"
 meta_description: "Institutional thesis on balance sheet efficiency, collateral orchestration, LTV optimization curves, and Fund-III capital formation mechanics for UHNWIs and private credit LPs."
 featured_image: ""

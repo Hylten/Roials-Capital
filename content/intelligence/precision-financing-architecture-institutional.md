@@ -5,7 +5,7 @@ description: "Institutional briefing on capital formation mechanics, liquidity e
 date: "2025-09-14"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/precision-financing-architecture-institutional/"
+canonical_url: "https://roialscapital.com/intelligence/precision-financing-architecture-institutional/"
 meta_title: "Precision Financing Architecture for Institutional Scale Projects"
 meta_description: "Institutional briefing on capital formation mechanics, liquidity engineering structures, and strategic partner alignment for Fund-III and subsequent buyout platforms, including optionality in North American energy and…"
 featured_image: ""

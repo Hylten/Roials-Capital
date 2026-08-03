@@ -5,7 +5,7 @@ description: "Institutional memo on sovereign-style balance sheet engineering, c
 date: "2025-08-23"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/sovereign-balance-sheet-engineering-fund-grade-capital-formation/"
+canonical_url: "https://roialscapital.com/intelligence/sovereign-balance-sheet-engineering-fund-grade-capital-formation/"
 meta_title: "The Sovereign Balance Sheet: Engineering For Fund-Grade Velocity In a Fragmented Capital Regime"
 meta_description: "Institutional memo on sovereign-style balance sheet engineering, capital formation mechanics for Fund-III+, and the structural pathways allocators are using to harden portfolios across buyouts, add-ons, ABL liquidity…"
 featured_image: ""

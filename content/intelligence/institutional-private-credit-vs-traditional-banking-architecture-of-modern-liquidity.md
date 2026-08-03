@@ -5,7 +5,7 @@ description: "A technical briefing on the regime shift from regulated banking cr
 date: "2025-09-07"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/institutional-private-credit-vs-traditional-banking-architecture-of-modern-liquidity/"
+canonical_url: "https://roialscapital.com/intelligence/institutional-private-credit-vs-traditional-banking-architecture-of-modern-liquidity/"
 meta_title: "Institutional Private Credit vs Traditional Banking: The Architecture of Modern Liquidity"
 meta_description: "A technical briefing on the regime shift from regulated banking credit to institutional private credit, with emphasis on capital formation mechanics, liquidity engineering architectures, and the operational structures…"
 featured_image: ""

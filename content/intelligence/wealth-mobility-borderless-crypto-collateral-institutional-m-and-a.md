@@ -5,7 +5,7 @@ description: "A strategic analyst memorandum detailing cross-jurisdictional capi
 date: "2025-12-29"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/wealth-mobility-borderless-crypto-collateral-institutional-m-and-a/"
+canonical_url: "https://roialscapital.com/intelligence/wealth-mobility-borderless-crypto-collateral-institutional-m-and-a/"
 meta_title: "Wealth Mobility Protocols and Borderless Crypto Collateral in Institutional-Grade M&A for Fund-III Continuity"
 meta_description: "A strategic analyst memorandum detailing cross-jurisdictional capital mobility, crypto-collateral architecture, and institutional M&A structuring for Fund-III buyouts and add-ons, with a focus on liquidity engineering…"
 featured_image: ""

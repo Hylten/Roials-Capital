@@ -5,7 +5,7 @@ description: "How institutional-grade infrastructure for global capital markets 
 date: "2025-08-29"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/institutional-grade-infrastructure-for-global-capital-markets/"
+canonical_url: "https://roialscapital.com/intelligence/institutional-grade-infrastructure-for-global-capital-markets/"
 meta_title: "Institutional-Grade Infrastructure for Global Capital Markets"
 meta_description: "How institutional-grade infrastructure for global capital markets enables structural readiness, sovereign capital formation, and cross-border acquisition velocity."
 featured_image: ""

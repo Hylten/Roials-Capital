@@ -5,7 +5,7 @@ description: "An institutional exploration of liquidity architecture through pri
 date: "2025-11-27"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/legacy-hardening-the-structural-advantage/"
+canonical_url: "https://roialscapital.com/intelligence/legacy-hardening-the-structural-advantage/"
 meta_title: "Legacy Hardening: The Structural Advantage"
 meta_description: "An institutional exploration of liquidity architecture through private credit and asset based liquidity engineering for HNWI and UHNW portfolios."
 featured_image: ""

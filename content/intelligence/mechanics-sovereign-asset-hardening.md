@@ -5,7 +5,7 @@ description: "Institutional briefing on capital regime transition, structural in
 date: "2025-09-24"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/mechanics-sovereign-asset-hardening/"
+canonical_url: "https://roialscapital.com/intelligence/mechanics-sovereign-asset-hardening/"
 meta_title: "The Mechanics of Sovereign Asset Hardening"
 meta_description: "Institutional briefing on capital regime transition, structural inefficiencies, and the sovereign mechanics that govern asset hardening across buyouts, liquidity engineering, and North American energy operations."
 featured_image: ""

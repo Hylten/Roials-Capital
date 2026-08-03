@@ -5,7 +5,7 @@ description: "Institutional briefing on controlled liquidity mechanics, structur
 date: "2026-01-29"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/structural-alpha-private-credit-controlled-liquidity/"
+canonical_url: "https://roialscapital.com/intelligence/structural-alpha-private-credit-controlled-liquidity/"
 meta_title: "Structural Alpha in Private Credit Portfolios: The Architecture of Controlled Liquidity"
 meta_description: "Institutional briefing on controlled liquidity mechanics, structural alpha in private credit, balance sheet optimization, and the capital formation architecture supporting Fund-III buyouts, ABL liquidity engineering,…"
 featured_image: ""

@@ -5,7 +5,7 @@ description: "Topological Asset Architecture Frameworks for Multi Layer Portfoli
 date: "2026-03-20"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/topological-asset-architecture-frameworks-for-multi-layer-portfolios-using-the-sovereign-protocol-technique/"
+canonical_url: "https://roialscapital.com/intelligence/topological-asset-architecture-frameworks-for-multi-layer-portfolios-using-the-sovereign-protocol-technique/"
 meta_title: "Topological Asset Architecture Frameworks for Multi Layer Portfolios Using The Sovereign Protocol Technique"
 meta_description: "Topological Asset Architecture Frameworks for Multi Layer Portfolios Using The Sovereign Protocol Technique | Institutional Briefing by Roials Capital"
 featured_image: ""

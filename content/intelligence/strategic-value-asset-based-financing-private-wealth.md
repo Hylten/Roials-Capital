@@ -5,7 +5,7 @@ description: "Institutional briefing on the capital regime shift driving Asset B
 date: "2026-01-06"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/strategic-value-asset-based-financing-private-wealth/"
+canonical_url: "https://roialscapital.com/intelligence/strategic-value-asset-based-financing-private-wealth/"
 meta_title: "The Strategic Value of Asset Based Financing for Modern Private Wealth"
 meta_description: "Institutional briefing on the capital regime shift driving Asset Based Financing, its role in liquidity engineering, private equity acquisition velocity, and its integration into UHNW and institutional balance sheet o…"
 featured_image: ""

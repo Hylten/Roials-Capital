@@ -5,7 +5,7 @@ description: "Institutional brief on asset-based financing as a capital‑multip
 date: "2025-12-30"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/asset-based-financing-strategic-brief/"
+canonical_url: "https://roialscapital.com/intelligence/asset-based-financing-strategic-brief/"
 meta_title: "Asset-Based Financing as a Strategic Weapon for Modern Private Wealth"
 meta_description: "Institutional brief on asset-based financing as a capital‑multiplying instrument for private wealth, Fund‑III buyouts, liquidity engineering, and jurisdictional asset hardening."
 featured_image: ""

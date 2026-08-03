@@ -5,7 +5,7 @@ description: "A private Principal briefing on LP return recalibration, compressi
 date: "2026-03-04"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/institutional-lps-unlevered-return-recalibration-Fund-III/"
+canonical_url: "https://roialscapital.com/intelligence/institutional-lps-unlevered-return-recalibration-Fund-III/"
 meta_title: "The Principal Compression: Why Institutional LPs Demand Higher Unlevered Returns in Fund‑III and Beyond"
 meta_description: "A private Principal briefing on LP return recalibration, compression dynamics, and the new hierarchy shaping Fund‑III+ capital formation. Deep institutional analysis for GP leadership navigating modern capital scarcit…"
 featured_image: ""

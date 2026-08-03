@@ -5,7 +5,7 @@ description: "Institutional briefing on cross-asset hardening, Monetization Arch
 date: "2025-08-07"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/multi-asset-hardening-Fund-III-liquidity-engineering-digital-integration/"
+canonical_url: "https://roialscapital.com/intelligence/multi-asset-hardening-Fund-III-liquidity-engineering-digital-integration/"
 meta_title: "Multi Asset Hardening for Fund-III: Integrating Digital Assets Into Institutional Liquidity Engineering Architecture"
 meta_description: "Institutional briefing on cross-asset hardening, Monetization Architecture, and the integration of digital asset primitives into Fund-III capital formation and balance sheet optimization mandates for UHNWIs, instituti…"
 featured_image: ""

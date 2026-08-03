@@ -5,7 +5,7 @@ description: "Analyst‑grade briefing on credit engineering, capital formation 
 date: "2025-07-20"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/strategic-credit-architecture-hnw-entrepreneurs/"
+canonical_url: "https://roialscapital.com/intelligence/strategic-credit-architecture-hnw-entrepreneurs/"
 meta_title: "Strategic Credit Architecture for High‑Net‑Worth Entrepreneurs: Institutional Frameworks for Capital Efficiency and Market Navigation"
 meta_description: "Analyst‑grade briefing on credit engineering, capital formation protocols, and energy‑aligned mandates relevant to UHNW principals, private credit allocators, and institutional LPs navigating 2026 capital inefficiencies."
 featured_image: ""

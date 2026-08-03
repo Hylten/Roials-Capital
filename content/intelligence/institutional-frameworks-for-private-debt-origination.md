@@ -5,7 +5,7 @@ description: "Institutional frameworks for private debt origination in a fragmen
 date: "2025-08-20"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/institutional-frameworks-for-private-debt-origination/"
+canonical_url: "https://roialscapital.com/intelligence/institutional-frameworks-for-private-debt-origination/"
 meta_title: "Institutional Frameworks for Private Debt Origination"
 meta_description: "Institutional frameworks for private debt origination in a fragmented capital regime. Analysis of origination mechanics, capital stack structuring, and LTV discipline."
 featured_image: ""

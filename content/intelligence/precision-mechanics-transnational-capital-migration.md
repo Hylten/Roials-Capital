@@ -5,7 +5,7 @@ description: "Analyst-grade assessment of regulatory drift, capital displacement
 date: "2025-08-11"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/precision-mechanics-transnational-capital-migration/"
+canonical_url: "https://roialscapital.com/intelligence/precision-mechanics-transnational-capital-migration/"
 meta_title: "Precision Mechanics of Transnational Capital Migration in the 2026 Institutional Cycle"
 meta_description: "Analyst-grade assessment of regulatory drift, capital displacement, and cross-jurisdictional allocation patterns shaping Fund-III capital formation, North American energy matching, and liquidity engineering mandates."
 featured_image: ""

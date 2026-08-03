@@ -5,7 +5,7 @@ description: "A deep examination of liquidity architecture, private credit, and 
 date: "2025-06-22"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/the-future-of-sovereign-capital-infrastructure/"
+canonical_url: "https://roialscapital.com/intelligence/the-future-of-sovereign-capital-infrastructure/"
 meta_title: "The Future of Sovereign Capital Infrastructure"
 meta_description: "A deep examination of liquidity architecture, private credit, and asset based liquidity engineering for institutional, HNWI, and UHNW capital structures."
 featured_image: ""

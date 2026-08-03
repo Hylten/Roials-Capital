@@ -5,7 +5,7 @@ description: "A strategic examination of how sovereign crypto banks redefine liq
 date: "2026-02-26"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/the-rise-of-sovereign-crypto-banks-for-uhnw-liquidity/"
+canonical_url: "https://roialscapital.com/intelligence/the-rise-of-sovereign-crypto-banks-for-uhnw-liquidity/"
 meta_title: "The Rise of Sovereign Crypto Banks for UHNW Liquidity"
 meta_description: "A strategic examination of how sovereign crypto banks redefine liquidity architecture for UHWI and HNWI through private credit and asset based liquidity engineering."
 featured_image: ""

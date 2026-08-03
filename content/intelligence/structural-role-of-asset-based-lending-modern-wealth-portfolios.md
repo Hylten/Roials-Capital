@@ -5,7 +5,7 @@ description: "Institutional analysis of ABL as a stability anchor, liquidity eng
 date: "2025-11-24"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/structural-role-of-asset-based-lending-modern-wealth-portfolios/"
+canonical_url: "https://roialscapital.com/intelligence/structural-role-of-asset-based-lending-modern-wealth-portfolios/"
 meta_title: "The Structural Role of Asset Based Lending in Modern Diversified Wealth Portfolios"
 meta_description: "Institutional analysis of ABL as a stability anchor, liquidity engine, and cross-cycle optimizer for UHNW and institutional allocators navigating a multipolar capital regime. Focus on Kapitalanskaffning for Fund-III+,…"
 featured_image: ""

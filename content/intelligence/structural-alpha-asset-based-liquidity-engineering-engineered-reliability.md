@@ -5,7 +5,7 @@ description: "Institutional briefing on the structural mechanics of Asset Based 
 date: "2025-11-26"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/structural-alpha-asset-based-liquidity-engineering-engineered-reliability/"
+canonical_url: "https://roialscapital.com/intelligence/structural-alpha-asset-based-liquidity-engineering-engineered-reliability/"
 meta_title: "Structural Alpha in Asset Based Liquidity Engineering: Engineered Reliability"
 meta_description: "Institutional briefing on the structural mechanics of Asset Based Liquidity Engineering, balance sheet hardening, engineered reliability, and the capital regime shift defining Fund-III portfolios across North America…"
 featured_image: ""

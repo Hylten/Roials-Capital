@@ -5,7 +5,7 @@ description: "Confidential Principal-level analysis on human‑capital‑dominan
 date: "2025-10-10"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/institutional-lp-talent-first-rollups-briefing/"
+canonical_url: "https://roialscapital.com/intelligence/institutional-lp-talent-first-rollups-briefing/"
 meta_title: "Principal Briefing on Institutional LP Appetite for Talent‑First Rollups"
 meta_description: "Confidential Principal-level analysis on human‑capital‑dominant buyout construction, institutional LP posture, and Fund‑III capital formation signals across North America and Europe."
 featured_image: ""

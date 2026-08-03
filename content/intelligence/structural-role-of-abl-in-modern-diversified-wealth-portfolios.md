@@ -5,7 +5,7 @@ description: "Institutional briefing on asset based lending as a stabilizing fun
 date: "2025-07-09"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/structural-role-of-abl-in-modern-diversified-wealth-portfolios/"
+canonical_url: "https://roialscapital.com/intelligence/structural-role-of-abl-in-modern-diversified-wealth-portfolios/"
 meta_title: "The Structural Role of ABL in Modern Diversified Wealth Portfolios"
 meta_description: "Institutional briefing on asset based lending as a stabilizing function in multi regime portfolios, with emphasis on balance sheet optimization, cross collateral mechanics, and the role of ABL as a liquidity engineeri…"
 featured_image: ""

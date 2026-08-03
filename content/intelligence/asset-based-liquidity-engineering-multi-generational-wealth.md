@@ -5,7 +5,7 @@ description: "Institutional brief for LP/GP allocators on how asset‑based Capi
 date: "2025-08-05"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/asset-based-liquidity-engineering-multi-generational-wealth/"
+canonical_url: "https://roialscapital.com/intelligence/asset-based-liquidity-engineering-multi-generational-wealth/"
 meta_title: "Asset‑Based Liquidity Engineering as the Structural Engine of Multi‑Generational Wealth"
 meta_description: "Institutional brief for LP/GP allocators on how asset‑based Capital Structuring, jurisdictional structuring, and acquisition-grade capital architecture form the backbone of multi-generational wealth creation within Fu…"
 featured_image: ""

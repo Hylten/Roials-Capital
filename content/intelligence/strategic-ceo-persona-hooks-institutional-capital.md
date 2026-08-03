@@ -5,7 +5,7 @@ description: "Technical architecture for CEO persona construction aligned with F
 date: "2025-06-29"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/strategic-ceo-persona-hooks-institutional-capital/"
+canonical_url: "https://roialscapital.com/intelligence/strategic-ceo-persona-hooks-institutional-capital/"
 meta_title: "Strategic CEO Persona Hooks for Institutional Capital Navigation"
 meta_description: "Technical architecture for CEO persona construction aligned with Fund-III capital raising, private credit allocation mechanics, and institutional-grade strategic positioning. Focused on governance signaling, operation…"
 featured_image: ""

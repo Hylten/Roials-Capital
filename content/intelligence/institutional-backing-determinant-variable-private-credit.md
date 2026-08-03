@@ -5,7 +5,7 @@ description: "Institutional brief on the capital-formation physics governing pri
 date: "2026-02-01"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/institutional-backing-determinant-variable-private-credit/"
+canonical_url: "https://roialscapital.com/intelligence/institutional-backing-determinant-variable-private-credit/"
 meta_title: "Institutional Backing as the Determinant Variable in Private Credit Regimes"
 meta_description: "Institutional brief on the capital-formation physics governing private credit regimes, with emphasis on Fund-III scale buyouts, liquidity engineering, and mandate-driven acquisition finance."
 featured_image: ""

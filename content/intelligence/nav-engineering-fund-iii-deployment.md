@@ -5,7 +5,7 @@ description: "Principal briefing on how mid‑market GPs are engineering NAV-bas
 date: "2025-08-02"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/nav-engineering-Fund-III-deployment/"
+canonical_url: "https://roialscapital.com/intelligence/nav-engineering-Fund-III-deployment/"
 meta_title: "NAV Lines as the Mid‑Market Catalyst for Rapid Fund‑III Deployment"
 meta_description: "Principal briefing on how mid‑market GPs are engineering NAV-based facilities to compress deployment cycles, sharpen add‑on velocity, and strengthen liquidity tiers across Fund‑III structures."
 featured_image: ""

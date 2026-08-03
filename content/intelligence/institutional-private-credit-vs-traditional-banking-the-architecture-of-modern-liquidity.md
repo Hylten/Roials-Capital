@@ -5,7 +5,7 @@ description: "A high-level examination of institutional private credit and asset
 date: "2025-08-03"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/institutional-private-credit-vs-traditional-banking-the-architecture-of-modern-liquidity/"
+canonical_url: "https://roialscapital.com/intelligence/institutional-private-credit-vs-traditional-banking-the-architecture-of-modern-liquidity/"
 meta_title: "Institutional Private Credit vs Traditional Banking: The Architecture of Modern Liquidity"
 meta_description: "A high-level examination of institutional private credit and asset-based liquidity engineering structures, focused on liquidity access for HNWI and UHNW portfolios."
 featured_image: ""

@@ -5,7 +5,7 @@ description: "Institutional-grade framework detailing sovereign liquidity facili
 date: "2025-12-14"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/sovereign-liquidity-facility-precision-architecture/"
+canonical_url: "https://roialscapital.com/intelligence/sovereign-liquidity-facility-precision-architecture/"
 meta_title: "The Sovereign Liquidity Codex: Designing Facilities That Do Not Break Under Pressure"
 meta_description: "Institutional-grade framework detailing sovereign liquidity facility mechanics, priority-of-claim structuring, collateral sequencing, and macro regime interactions for Fund-III capital formation."
 featured_image: ""

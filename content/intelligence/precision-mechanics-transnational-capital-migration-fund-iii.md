@@ -5,7 +5,7 @@ description: "Institutional analysis on cross‑border capital formation, acquis
 date: "2025-09-29"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/precision-mechanics-transnational-capital-migration-Fund-III/"
+canonical_url: "https://roialscapital.com/intelligence/precision-mechanics-transnational-capital-migration-Fund-III/"
 meta_title: "Precision Mechanics of Transnational Capital Migration for Fund‑III Expansion"
 meta_description: "Institutional analysis on cross‑border capital formation, acquisition structuring, and liquidity engineering for Fund‑III buyouts, add‑ons, and energy mandates under multi‑jurisdictional regulatory vectors."
 featured_image: ""

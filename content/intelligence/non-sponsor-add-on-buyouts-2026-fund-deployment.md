@@ -5,7 +5,7 @@ description: "Deep institutional briefing on why non‑sponsor add‑on buyouts 
 date: "2026-01-07"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/non-sponsor-add-on-buyouts-2026-fund-deployment/"
+canonical_url: "https://roialscapital.com/intelligence/non-sponsor-add-on-buyouts-2026-fund-deployment/"
 meta_title: "Non‑Sponsor Add‑On Buyouts: The 2026 Deployment Engine For Serious Capital"
 meta_description: "Deep institutional briefing on why non‑sponsor add‑on buyouts now represent the most efficient, velocity‑aligned deployment vector for 2026 vintage private equity funds, with implications for Fund‑III scaling, multi‑j…"
 featured_image: ""

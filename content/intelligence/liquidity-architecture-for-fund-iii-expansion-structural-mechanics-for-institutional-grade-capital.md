@@ -5,7 +5,7 @@ description: "An institutional analysis of liquidity architecture, private credi
 date: "2025-08-12"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/liquidity-architecture-for-fund-iii-expansion-structural-mechanics-for-institutional-grade-capital/"
+canonical_url: "https://roialscapital.com/intelligence/liquidity-architecture-for-fund-iii-expansion-structural-mechanics-for-institutional-grade-capital/"
 meta_title: "Liquidity Architecture for Fund-III Expansion: Structural Mechanics for Institutional-Grade Capital"
 meta_description: "An institutional analysis of liquidity architecture, private credit, and asset based liquidity engineering designed for HNWI and UHNW capital expansion."
 featured_image: ""

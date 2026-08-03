@@ -5,7 +5,7 @@ description: "Institutional level asset based Asset-Backed Frameworks insights f
 date: "2025-11-21"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/asset-based-liquidity-engineering-as-the-structural-engine-for-multi-generational-wealth/"
+canonical_url: "https://roialscapital.com/intelligence/asset-based-liquidity-engineering-as-the-structural-engine-for-multi-generational-wealth/"
 meta_title: "Asset Based liquidity engineering as the Structural Engine for Multi Generational Wealth"
 meta_description: "Institutional level asset based Asset-Backed Frameworks insights for HNWI and UHNW investors seeking liquidity, stability, and multi generational capital architecture."
 featured_image: ""

@@ -5,7 +5,7 @@ description: "Institutional brief on non‑dilutive capital flows supporting Fun
 date: "2025-08-08"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/non-dilutive-capital-lmm-boom/"
+canonical_url: "https://roialscapital.com/intelligence/non-dilutive-capital-lmm-boom/"
 meta_title: "Principal Memo: The Quiet Expansion of Non‑Dilutive Capital in the Lower‑Mid Market"
 meta_description: "Institutional brief on non‑dilutive capital flows supporting Fund‑III buyouts, add‑ons, and multi‑jurisdictional credit architecture across PE‑owned industrials."
 featured_image: ""

@@ -5,7 +5,7 @@ description: "The Mandate Of Discrete Capital Deployment"
 date: "2025-07-18"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/the-mandate-of-discrete-capital-deployment/"
+canonical_url: "https://roialscapital.com/intelligence/the-mandate-of-discrete-capital-deployment/"
 meta_title: "The Mandate Of Discrete Capital Deployment"
 meta_description: "The Mandate Of Discrete Capital Deployment"
 featured_image: ""

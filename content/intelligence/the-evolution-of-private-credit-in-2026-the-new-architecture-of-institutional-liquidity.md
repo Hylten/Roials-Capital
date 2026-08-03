@@ -5,7 +5,7 @@ description: "A surgical examination of private credit and asset based liquidity
 date: "2025-06-25"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/the-evolution-of-private-credit-in-2026-the-new-architecture-of-institutional-liquidity/"
+canonical_url: "https://roialscapital.com/intelligence/the-evolution-of-private-credit-in-2026-the-new-architecture-of-institutional-liquidity/"
 meta_title: "The Evolution of Private Credit in 2026: The New Architecture of Institutional Liquidity"
 meta_description: "A surgical examination of private credit and asset based liquidity engineering in 2026, with emphasis on liquidity pathways for HNWI and UHNW portfolios through Asset-Based Lending structures."
 featured_image: ""

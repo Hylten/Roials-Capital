@@ -5,7 +5,7 @@ description: "Structural Alignment In Multi Jurisdictional Asset"
 date: "2025-07-15"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/structural-alignment-in-multi-jurisdictional-asset/"
+canonical_url: "https://roialscapital.com/intelligence/structural-alignment-in-multi-jurisdictional-asset/"
 meta_title: "Structural Alignment In Multi Jurisdictional Asset"
 meta_description: "Structural Alignment In Multi Jurisdictional Asset"
 featured_image: ""

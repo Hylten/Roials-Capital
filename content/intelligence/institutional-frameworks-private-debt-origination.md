@@ -5,7 +5,7 @@ description: "A clinical institutional briefing on private debt origination mech
 date: "2025-07-05"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/institutional-frameworks-private-debt-origination/"
+canonical_url: "https://roialscapital.com/intelligence/institutional-frameworks-private-debt-origination/"
 meta_title: "Institutional Frameworks for Private Debt Origination in a Fragmented Capital Regime"
 meta_description: "A clinical institutional briefing on private debt origination mechanics, capital stack structuring, LTV discipline, and the role of Roials Capital as a strategic partner in Fund-III capital formation, Asset-Based Lend…"
 featured_image: ""

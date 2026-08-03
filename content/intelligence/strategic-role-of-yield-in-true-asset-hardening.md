@@ -5,7 +5,7 @@ description: "Institutional analysis on the function of stabilized yield as a pr
 date: "2025-09-21"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/strategic-role-of-yield-in-true-asset-hardening/"
+canonical_url: "https://roialscapital.com/intelligence/strategic-role-of-yield-in-true-asset-hardening/"
 meta_title: "The Strategic Role of Yield in True Asset Hardening"
 meta_description: "Institutional analysis on the function of stabilized yield as a primary determinant of asset hardening across buyouts, private credit, and North American energy operations."
 featured_image: ""

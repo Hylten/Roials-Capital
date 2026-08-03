@@ -5,7 +5,7 @@ description: "Institutional briefing on crypto collateral mobility, cross-jurisd
 date: "2025-09-01"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/borderless-collateral-regime-Fund-III/"
+canonical_url: "https://roialscapital.com/intelligence/borderless-collateral-regime-Fund-III/"
 meta_title: "The Borderless Collateral Regime and the Rise of Transnational Acquisition Power"
 meta_description: "Institutional briefing on crypto collateral mobility, cross-jurisdictional asset hardening, and the capital-raising architecture for Fund-III buyouts within the new M&A liquidity regime."
 featured_image: ""

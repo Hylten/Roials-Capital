@@ -5,7 +5,7 @@ description: "Institutional briefing on capital raising architecture, liquidity 
 date: "2025-07-01"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/capital-raising-infrastructure-analysis-Fund-III/"
+canonical_url: "https://roialscapital.com/intelligence/capital-raising-infrastructure-analysis-Fund-III/"
 meta_title: "Capital Raising Infrastructure Analysis for Fund-III and Institutional-Grade Expansion Mandates"
 meta_description: "Institutional briefing on capital raising architecture, liquidity engineering, operational intelligence, and structural advantages for Fund-III strategies, Asset-Based Lending frameworks, and energy-aligned energy man…"
 featured_image: ""

@@ -5,7 +5,7 @@ description: "Institutional briefing on sovereign grade asset hardening, capital
 date: "2025-09-03"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/sovereign-asset-hardening-framework-for-growth/"
+canonical_url: "https://roialscapital.com/intelligence/sovereign-asset-hardening-framework-for-growth/"
 meta_title: "Sovereign Asset Hardening: The Framework for Growth"
 meta_description: "Institutional briefing on sovereign grade asset hardening, capital stack calibration, liquidity engineering, and North American energy structural arbitrage for Fund-III+. Technical architecture for UHNWIs, institution…"
 featured_image: ""

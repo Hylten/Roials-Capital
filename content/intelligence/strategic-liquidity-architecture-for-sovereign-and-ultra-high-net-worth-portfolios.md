@@ -5,7 +5,7 @@ description: "A high‑level analysis of liquidity structuring using private cre
 date: "2025-09-16"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/strategic-liquidity-architecture-for-sovereign-and-ultra-high-net-worth-portfolios/"
+canonical_url: "https://roialscapital.com/intelligence/strategic-liquidity-architecture-for-sovereign-and-ultra-high-net-worth-portfolios/"
 meta_title: "Strategic Liquidity Architecture for Sovereign and Ultra-High Net Worth Portfolios"
 meta_description: "A high‑level analysis of liquidity structuring using private credit and asset based liquidity engineering solutions for sovereign, HNWI, and UHNW portfolios."
 featured_image: ""

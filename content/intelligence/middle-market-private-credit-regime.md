@@ -5,7 +5,7 @@ description: "Institutional briefing on middle-market private credit, liquidity 
 date: "2026-01-15"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/middle-market-private-credit-regime/"
+canonical_url: "https://roialscapital.com/intelligence/middle-market-private-credit-regime/"
 meta_title: "The Middle Market Regime and the Credit Sovereignty Window"
 meta_description: "Institutional briefing on middle-market private credit, liquidity engineering, and capital raising mechanics for Fund-III mandates targeting buyouts, add-ons, Asset-Based Lending structures, and sector specific specia…"
 featured_image: ""

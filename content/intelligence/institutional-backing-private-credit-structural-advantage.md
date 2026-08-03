@@ -5,7 +5,7 @@ description: "A technical briefing on regime-shift dynamics in private credit, i
 date: "2025-12-21"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/institutional-backing-private-credit-structural-advantage/"
+canonical_url: "https://roialscapital.com/intelligence/institutional-backing-private-credit-structural-advantage/"
 meta_title: "The Structural Advantage of Institutional Backing in Modern Private Credit"
 meta_description: "A technical briefing on regime-shift dynamics in private credit, institutional balance sheet consolidation, and capital stack optimization across Fund-III buyouts, Asset-Based Lending liquidity engineering, and cross-…"
 featured_image: ""

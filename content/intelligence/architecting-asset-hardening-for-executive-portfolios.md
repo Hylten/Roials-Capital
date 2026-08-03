@@ -5,7 +5,7 @@ description: "An institutional exploration of liquidity engineering, private cre
 date: "2026-02-17"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/architecting-asset-hardening-for-executive-portfolios/"
+canonical_url: "https://roialscapital.com/intelligence/architecting-asset-hardening-for-executive-portfolios/"
 meta_title: "Architecting Asset Hardening for Executive Portfolios"
 meta_description: "An institutional exploration of liquidity engineering, private credit, and asset based Monetization Architecture frameworks for HNWI and UHNW portfolios."
 featured_image: ""

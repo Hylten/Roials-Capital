@@ -5,7 +5,7 @@ description: "Institutional brief on capital formation strategy, Asset-Based Len
 date: "2025-09-04"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/asset-based-liquidity-engine-multigenerational-wealth/"
+canonical_url: "https://roialscapital.com/intelligence/asset-based-liquidity-engine-multigenerational-wealth/"
 meta_title: "Asset‑Based Liquidity Engineering as the Structural Engine of Multi‑Generational Wealth"
 meta_description: "Institutional brief on capital formation strategy, Asset-Based Lending-driven Strategic Collateralization, and the architecture of multi‑generational asset hardening for Fund‑III and GP/LP mandates."
 featured_image: ""

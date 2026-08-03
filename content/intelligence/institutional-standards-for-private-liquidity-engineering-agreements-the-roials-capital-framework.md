@@ -5,7 +5,7 @@ description: "A high-authority analysis of institutional protocols for private c
 date: "2025-09-05"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/institutional-standards-for-private-liquidity-engineering-agreements-the-roials-capital-framework/"
+canonical_url: "https://roialscapital.com/intelligence/institutional-standards-for-private-liquidity-engineering-agreements-the-roials-capital-framework/"
 meta_title: "Institutional Standards for Private liquidity engineering Agreements: The Roials Capital Framework"
 meta_description: "A high-authority analysis of institutional protocols for private credit and asset based Asset-Backed Frameworks, focused on liquidity, collateral integrity, and high net worth execution."
 featured_image: ""

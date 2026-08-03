@@ -5,7 +5,7 @@ description: "A principal-level framework for kapitalanskaffning, private credit
 date: "2026-03-05"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/institutional-playbook-capital-preservation-Fund-III/"
+canonical_url: "https://roialscapital.com/intelligence/institutional-playbook-capital-preservation-Fund-III/"
 meta_title: "The Institutional Playbook for Capital Preservation in Fund-III Regimes"
 meta_description: "A principal-level framework for kapitalanskaffning, private credit structuring, liquidity engineering, and institutional-grade capital defense across buyout ecosystems."
 featured_image: ""

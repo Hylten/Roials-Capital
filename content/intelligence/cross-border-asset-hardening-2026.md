@@ -5,7 +5,7 @@ description: "Analyst-grade briefing on structural capital dislocations, cross-b
 date: "2025-08-02"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/cross-border-asset-hardening-2026/"
+canonical_url: "https://roialscapital.com/intelligence/cross-border-asset-hardening-2026/"
 meta_title: "Cross-Border Asset Hardening in Volatile Markets: Institutional Frameworks for Capital Stability and Strategic Expansion"
 meta_description: "Analyst-grade briefing on structural capital dislocations, cross-border asset hardening mechanics, and institutional navigation protocols relevant to UHNWIs, private credit funds, and international GPs operating in 20…"
 featured_image: ""

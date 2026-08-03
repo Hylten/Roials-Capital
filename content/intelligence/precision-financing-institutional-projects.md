@@ -5,7 +5,7 @@ description: "Institutional briefing on precision financing mandates across Fund
 date: "2025-08-12"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/precision-financing-institutional-projects/"
+canonical_url: "https://roialscapital.com/intelligence/precision-financing-institutional-projects/"
 meta_title: "Precision Financing for Institutional Projects: Structural Alignment, Liquidity Engineering, and Capital Stewardship in the 2026 Allocator Regime"
 meta_description: "Institutional briefing on precision financing mandates across Fund-III+ capital raises, acquisition financing, Asset-Based Lending structures, and special energy mandates, with a focus on structural arbitrage, balance…"
 featured_image: ""

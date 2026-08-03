@@ -5,7 +5,7 @@ description: "Institutional memorandum detailing the structural role of Asset Ba
 date: "2025-07-05"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/asset-based-liquidity-engineering-structural-engine-multi-generational-wealth/"
+canonical_url: "https://roialscapital.com/intelligence/asset-based-liquidity-engineering-structural-engine-multi-generational-wealth/"
 meta_title: "Asset Based Liquidity Engineering as the Structural Engine for Multi Generational Wealth"
 meta_description: "Institutional memorandum detailing the structural role of Asset Based Capital Structuring within modern capital regimes, its function inside Fund-III buyout ecosystems, and its strategic alignment with North American…"
 featured_image: ""

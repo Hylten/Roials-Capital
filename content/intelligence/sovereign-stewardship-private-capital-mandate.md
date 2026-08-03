@@ -5,7 +5,7 @@ description: "Institutional brief on Fund-III capital formation, jurisdictional 
 date: "2025-08-13"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/sovereign-stewardship-private-capital-mandate/"
+canonical_url: "https://roialscapital.com/intelligence/sovereign-stewardship-private-capital-mandate/"
 meta_title: "Sovereign Stewardship and the New Mandate for Private Capital"
 meta_description: "Institutional brief on Fund-III capital formation, jurisdictional positioning, and sovereign-aligned private market architecture for buyouts, add-ons, and energy-transition mandates."
 featured_image: ""

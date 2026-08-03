@@ -5,7 +5,7 @@ description: "Institutional briefing outlining the structural gap in North Ameri
 date: "2025-09-02"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/strategic-liquidity-architecture-sovereign-uhnwi/"
+canonical_url: "https://roialscapital.com/intelligence/strategic-liquidity-architecture-sovereign-uhnwi/"
 meta_title: "Strategic Liquidity Architecture for Sovereign and Ultra High Net Worth Portfolios"
 meta_description: "Institutional briefing outlining the structural gap in North American energy, Alberta thermal recovery mechanics, and the role of Roials Capital in strategic alignment, partnership navigation, and liquidity engineerin…"
 featured_image: ""

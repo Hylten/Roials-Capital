@@ -5,7 +5,7 @@ description: "Technical briefing on the emerging architecture of sovereign-scale
 date: "2026-02-05"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/future-of-sovereign-capital-infrastructure/"
+canonical_url: "https://roialscapital.com/intelligence/future-of-sovereign-capital-infrastructure/"
 meta_title: "The Future of Sovereign Capital Infrastructure: Institutional Navigation, Structural Alignment, and the Reconfiguration of Global Allocation Regimes"
 meta_description: "Technical briefing on the emerging architecture of sovereign-scale capital deployment, the North American energy arbitrage, the rise of Fund-III capital formation, and the operational mechanics shaping institutional d…"
 featured_image: ""

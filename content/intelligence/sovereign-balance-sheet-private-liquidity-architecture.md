@@ -5,7 +5,7 @@ description: "Institutional briefing on capital inefficiencies, liquidity engine
 date: "2025-12-11"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/sovereign-balance-sheet-private-liquidity-architecture/"
+canonical_url: "https://roialscapital.com/intelligence/sovereign-balance-sheet-private-liquidity-architecture/"
 meta_title: "Designing the Sovereign Balance Sheet: A Structural Blueprint for Private Liquidity Architecture"
 meta_description: "Institutional briefing on capital inefficiencies, liquidity engineering, and energy-based collateral structures shaping North American and European private markets. Technical analysis for allocators assessing buyouts,…"
 featured_image: ""

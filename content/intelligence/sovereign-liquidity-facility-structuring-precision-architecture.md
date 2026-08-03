@@ -5,7 +5,7 @@ description: "A high-density institutional analysis on sovereign liquidity mecha
 date: "2026-03-02"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/sovereign-liquidity-facility-structuring-precision-architecture/"
+canonical_url: "https://roialscapital.com/intelligence/sovereign-liquidity-facility-structuring-precision-architecture/"
 meta_title: "Sovereign Liquidity Facility Structuring: The Precision Architecture Behind Institutional Liquidity"
 meta_description: "A high-density institutional analysis on sovereign liquidity mechanics, Fund-III capital formation, buyout liquidity architecture, and cross‑jurisdictional facility engineering for private equity and private credit."
 featured_image: ""

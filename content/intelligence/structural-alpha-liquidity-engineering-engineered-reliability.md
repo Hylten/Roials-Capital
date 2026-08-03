@@ -5,7 +5,7 @@ description: "Institutional briefing on the structural gap in North American ene
 date: "2025-06-25"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/structural-alpha-liquidity-engineering-engineered-reliability/"
+canonical_url: "https://roialscapital.com/intelligence/structural-alpha-liquidity-engineering-engineered-reliability/"
 meta_title: "Structural Alpha in Asset Based Liquidity Engineering: Engineered Reliability Across Institutional Balance Sheets"
 meta_description: "Institutional briefing on the structural gap in North American energy, the mechanics of asset based liquidity engineering, and the role of Roials Capital as a strategic partner for Fund-III capital formation and insti…"
 featured_image: ""

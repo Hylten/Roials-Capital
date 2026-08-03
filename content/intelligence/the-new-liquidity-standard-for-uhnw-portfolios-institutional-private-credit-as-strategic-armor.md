@@ -5,7 +5,7 @@ description: "Why liquidity has become the primary strategic constraint for ultr
 date: "2026-03-13"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/the-new-liquidity-standard-for-uhnw-portfolios-institutional-private-credit-as-strategic-armor/"
+canonical_url: "https://roialscapital.com/intelligence/the-new-liquidity-standard-for-uhnw-portfolios-institutional-private-credit-as-strategic-armor/"
 meta_title: "The New Liquidity Standard for UHNW Portfolios: Institutional Private Credit as Strategic Armor"
 meta_description: "Why liquidity has become the primary strategic constraint for ultra-high-net-worth families and how private credit provides structural armor."
 featured_image: ""

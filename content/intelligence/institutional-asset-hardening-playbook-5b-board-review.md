@@ -5,7 +5,7 @@ description: "A principal-grade framework for asset hardening, capital raising f
 date: "2025-11-29"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/institutional-asset-hardening-playbook-5b-board-review/"
+canonical_url: "https://roialscapital.com/intelligence/institutional-asset-hardening-playbook-5b-board-review/"
 meta_title: "The Institutional Asset Hardening Playbook: Passing a $5B Board Review"
 meta_description: "A principal-grade framework for asset hardening, capital raising for Fund-III+, and cross-jurisdictional structuring engineered for institutional LP/GP scrutiny."
 featured_image: ""

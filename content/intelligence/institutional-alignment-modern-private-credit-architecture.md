@@ -5,7 +5,7 @@ description: "An institutional briefing on the regime shift in private credit, t
 date: "2025-12-27"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/institutional-alignment-modern-private-credit-architecture/"
+canonical_url: "https://roialscapital.com/intelligence/institutional-alignment-modern-private-credit-architecture/"
 meta_title: "Institutional Alignment in Modern Private Credit Architecture"
 meta_description: "An institutional briefing on the regime shift in private credit, the realignment of GP-LP objectives, and the operational mechanics guiding Fund-III capital formation, liquidity engineering, and sector-specific mandat…"
 featured_image: ""

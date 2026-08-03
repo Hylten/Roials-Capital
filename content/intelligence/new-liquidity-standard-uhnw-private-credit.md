@@ -5,7 +5,7 @@ description: "Institutional brief on private credit as liquidity infrastructure,
 date: "2025-09-30"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/new-liquidity-standard-uhnw-private-credit/"
+canonical_url: "https://roialscapital.com/intelligence/new-liquidity-standard-uhnw-private-credit/"
 meta_title: "The New Liquidity Standard for UHNW Portfolios: Institutional Private Credit as Strategic Armor"
 meta_description: "Institutional brief on private credit as liquidity infrastructure, engineered for UHNW, family offices, and GP/LP capital stacks; focused on Fund-III capital raising, asset hardening, and cross‑jurisdictional liquidit…"
 featured_image: ""

@@ -5,7 +5,7 @@ description: "Institutional briefing on the regime shift in sovereign capital ar
 date: "2026-02-07"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/sovereign-capital-infrastructure-mandate/"
+canonical_url: "https://roialscapital.com/intelligence/sovereign-capital-infrastructure-mandate/"
 meta_title: "The Sovereign Infrastructure Mandate"
 meta_description: "Institutional briefing on the regime shift in sovereign capital architecture, private credit hardening, Fund-III capital formation, and the structural redesign of national liquidity systems."
 featured_image: ""

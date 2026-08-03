@@ -5,7 +5,7 @@ description: "Institutional briefing on the structural role of private credit in
 date: "2025-08-14"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/private-credit-modern-ma-architecture/"
+canonical_url: "https://roialscapital.com/intelligence/private-credit-modern-ma-architecture/"
 meta_title: "The Power of Private Credit in Modern M&A Architecture"
 meta_description: "Institutional briefing on the structural role of private credit in contemporary M&A architecture, focusing on capital stack dynamics, liquidity engineering, and strategic alignment for UHNWIs and institutional allocat…"
 featured_image: ""

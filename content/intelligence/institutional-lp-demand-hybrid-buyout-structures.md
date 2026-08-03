@@ -5,7 +5,7 @@ description: "Institutional LP demand is shifting toward hybrid buyout construct
 date: "2025-12-02"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/institutional-lp-demand-hybrid-buyout-structures/"
+canonical_url: "https://roialscapital.com/intelligence/institutional-lp-demand-hybrid-buyout-structures/"
 meta_title: "Principal Memorandum on Institutional Pull Toward Hybrid Buyout Architectures"
 meta_description: "Institutional LP demand is shifting toward hybrid buyout constructs that fuse direct control, secured credit tranches, and additive yield layers within Fund‑III scale mandates."
 featured_image: ""

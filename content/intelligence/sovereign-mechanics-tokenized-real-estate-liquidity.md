@@ -5,7 +5,7 @@ description: "Institutional analysis of tokenized real-asset liquidity structure
 date: "2026-01-15"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/sovereign-mechanics-tokenized-real-estate-liquidity/"
+canonical_url: "https://roialscapital.com/intelligence/sovereign-mechanics-tokenized-real-estate-liquidity/"
 meta_title: "The Sovereign Mechanics of Tokenized Real Estate Liquidity for Fund-III Acceleration"
 meta_description: "Institutional analysis of tokenized real-asset liquidity structures, capital-raising mechanics, and cross-jurisdictional pathways for Fund-III buyouts, Asset-Based Lending engineering, and special-mandate acquisition…"
 featured_image: ""

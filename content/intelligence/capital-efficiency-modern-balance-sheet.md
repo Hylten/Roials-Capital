@@ -5,7 +5,7 @@ description: "Institutional briefing on capital efficiency, liquidity engineerin
 date: "2025-10-17"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/capital-efficiency-modern-balance-sheet/"
+canonical_url: "https://roialscapital.com/intelligence/capital-efficiency-modern-balance-sheet/"
 meta_title: "Capital Efficiency for the Modern Balance Sheet: Leveraging Core Holdings with Silent Authority"
 meta_description: "Institutional briefing on capital efficiency, liquidity engineering, and structural balance sheet optimization for Fund-III buyouts, cross-border mandates, and North American energy introductions."
 featured_image: ""

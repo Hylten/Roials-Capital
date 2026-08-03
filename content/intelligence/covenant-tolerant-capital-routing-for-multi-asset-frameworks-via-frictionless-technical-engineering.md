@@ -5,7 +5,7 @@ description: "Covenant Tolerant Capital Routing for Multi Asset Frameworks via F
 date: "2026-03-20"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/covenant-tolerant-capital-routing-for-multi-asset-frameworks-via-frictionless-technical-engineering/"
+canonical_url: "https://roialscapital.com/intelligence/covenant-tolerant-capital-routing-for-multi-asset-frameworks-via-frictionless-technical-engineering/"
 meta_title: "Covenant Tolerant Capital Routing for Multi Asset Frameworks via Frictionless Technical Engineering"
 meta_description: "Covenant Tolerant Capital Routing for Multi Asset Frameworks via Frictionless Technical Engineering | Institutional Briefing by Roials Capital"
 featured_image: ""

@@ -5,7 +5,7 @@ description: "A high-density institutional analysis of sovereign capital archite
 date: "2025-06-30"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/sovereign-capital-infrastructure-reconfiguration-Fund-III/"
+canonical_url: "https://roialscapital.com/intelligence/sovereign-capital-infrastructure-reconfiguration-Fund-III/"
 meta_title: "Sovereign Capital Infrastructures: The Reconfiguration Mandate for Fund-III"
 meta_description: "A high-density institutional analysis of sovereign capital architectures, multi‑jurisdictional alignment, and next‑generation allocation regimes driving Fund-III kapitalanskaffning, private credit expansion, and liqui…"
 featured_image: ""

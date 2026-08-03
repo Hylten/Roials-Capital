@@ -5,7 +5,7 @@ description: "Institutional analysis on the role of Asset Based Asset-Backed Fra
 date: "2025-09-18"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/asset-based-liquidity-engine-multi-generational-wealth/"
+canonical_url: "https://roialscapital.com/intelligence/asset-based-liquidity-engine-multi-generational-wealth/"
 meta_title: "Asset Based Liquidity Engineering as the Structural Engine for Multi Generational Wealth"
 meta_description: "Institutional analysis on the role of Asset Based Asset-Backed Frameworks in long horizon wealth architecture, balance sheet optimization, and strategic capitalization for Fund-III buyout cycles and energy mandates."
 featured_image: ""

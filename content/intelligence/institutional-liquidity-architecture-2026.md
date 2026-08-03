@@ -5,7 +5,7 @@ description: "An institutional briefing on the structural evolution of private c
 date: "2025-12-22"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/institutional-liquidity-architecture-2026/"
+canonical_url: "https://roialscapital.com/intelligence/institutional-liquidity-architecture-2026/"
 meta_title: "The New Architecture of Institutional Liquidity: Private Credit’s Ascendancy and the Capital Mandate of Fund-III"
 meta_description: "An institutional briefing on the structural evolution of private credit in 2026, focused on capital raising dynamics for Fund-III, liquidity engineering, and cross-jurisdictional acquisition finance under MiFID II and…"
 featured_image: ""

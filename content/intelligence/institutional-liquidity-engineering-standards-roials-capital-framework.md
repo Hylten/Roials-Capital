@@ -5,7 +5,7 @@ description: "A technical briefing on institutional-grade Monetization Architect
 date: "2026-02-16"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/institutional-liquidity-engineering-standards-roials-capital-framework/"
+canonical_url: "https://roialscapital.com/intelligence/institutional-liquidity-engineering-standards-roials-capital-framework/"
 meta_title: "Institutional Standards for Private Liquidity Engineering Agreements: The Roials Capital Framework"
 meta_description: "A technical briefing on institutional-grade Monetization Architecture structures, balance sheet optimization protocols, and the Roials Capital alignment architecture for Fund-III environments, Asset-Based Lending mand…"
 featured_image: ""

@@ -5,7 +5,7 @@ description: "Institutional briefing on the structural debt realignment, soverei
 date: "2025-09-15"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/sovereign-debt-strategies-crypto-abl-uhnw-liquidity-architecture/"
+canonical_url: "https://roialscapital.com/intelligence/sovereign-debt-strategies-crypto-abl-uhnw-liquidity-architecture/"
 meta_title: "Sovereign Debt Strategies and the Flight to Crypto Backed ABL: The New Architecture for UHNW Liquidity"
 meta_description: "Institutional briefing on the structural debt realignment, sovereign duration stress, and the emergence of crypto collateral as a non correlated liquidity rail for UHNW balance sheet optimization and buyout capital fo…"
 featured_image: ""

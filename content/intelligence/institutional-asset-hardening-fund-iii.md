@@ -5,7 +5,7 @@ description: "A principal-grade brief on capital raising, institutional asset ha
 date: "2025-12-03"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/institutional-asset-hardening-Fund-III/"
+canonical_url: "https://roialscapital.com/intelligence/institutional-asset-hardening-Fund-III/"
 meta_title: "Institutional-Grade Infrastructure for Asset Hardening in Fund-III Capital Architecture"
 meta_description: "A principal-grade brief on capital raising, institutional asset hardening, liquidity engineering, and multi-jurisdictional structuring for Fund-III buyouts, add-ons, and energy mandates."
 featured_image: ""

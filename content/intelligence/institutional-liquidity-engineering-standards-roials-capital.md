@@ -5,7 +5,7 @@ description: "Roials Capital’s sovereign-grade framework governing Institution
 date: "2025-08-13"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/institutional-liquidity-engineering-standards-roials-capital/"
+canonical_url: "https://roialscapital.com/intelligence/institutional-liquidity-engineering-standards-roials-capital/"
 meta_title: "Institutional Standards for Private Liquidity Engineering Agreements"
 meta_description: "Roials Capital’s sovereign-grade framework governing Institutional Liquidity Paths, Fund-III capital formation, private credit structuring, and cross‑jurisdictional institutional mandates."
 featured_image: ""

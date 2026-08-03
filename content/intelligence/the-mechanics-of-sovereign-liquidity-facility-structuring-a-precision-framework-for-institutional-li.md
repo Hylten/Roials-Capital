@@ -5,7 +5,7 @@ description: "An institutional-level breakdown of sovereign liquidity facility s
 date: "2025-09-11"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/the-mechanics-of-sovereign-liquidity-facility-structuring-a-precision-framework-for-institutional-li/"
+canonical_url: "https://roialscapital.com/intelligence/the-mechanics-of-sovereign-liquidity-facility-structuring-a-precision-framework-for-institutional-li/"
 meta_title: "The Mechanics of Sovereign liquidity facility Structuring: A Precision Framework for Institutional Liquidity"
 meta_description: "An institutional-level breakdown of sovereign liquidity facility structuring, private credit, and asset based liquidity engineering mechanics for high net worth liquidity execution."
 featured_image: ""

@@ -5,7 +5,7 @@ description: "Explore how Roials Capital structures liquidity through Asset-Base
 date: "2026-01-11"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/liquidity-without-liquidation-the-abl-advantage-for-private-wealth-architecture/"
+canonical_url: "https://roialscapital.com/intelligence/liquidity-without-liquidation-the-abl-advantage-for-private-wealth-architecture/"
 meta_title: "Liquidity Without Liquidation: The Asset-Based Lending Advantage for Private Wealth Architecture"
 meta_description: "Explore how Roials Capital structures liquidity through Asset-Based liquidity engineering without forced liquidation, designed for HNWI and UHNW portfolios."
 featured_image: ""

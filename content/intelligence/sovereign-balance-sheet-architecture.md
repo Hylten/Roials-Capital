@@ -5,7 +5,7 @@ description: "Institutional brief on multi-jurisdictional balance‑sheet engine
 date: "2026-03-09"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/sovereign-balance-sheet-architecture/"
+canonical_url: "https://roialscapital.com/intelligence/sovereign-balance-sheet-architecture/"
 meta_title: "Designing the Sovereign Balance Sheet: The Architecture of Enduring Liquidity"
 meta_description: "Institutional brief on multi-jurisdictional balance‑sheet engineering, Fund-III capital formation, and liquidity architecture for durable GP scale."
 featured_image: ""

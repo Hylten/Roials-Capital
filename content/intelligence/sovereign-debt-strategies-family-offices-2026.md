@@ -5,7 +5,7 @@ description: "Institutional analysis on sovereign debt positioning for UHNW fami
 date: "2025-11-12"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/sovereign-debt-strategies-family-offices-2026/"
+canonical_url: "https://roialscapital.com/intelligence/sovereign-debt-strategies-family-offices-2026/"
 meta_title: "Sovereign Debt Strategies for Family Offices: Structural Liquidity Architectures for 2026"
 meta_description: "Institutional analysis on sovereign debt positioning for UHNW family offices, focused on liquidity engineering, duration governance, and capital stack optimization within 2026 macro regimes. Designed for allocators ca…"
 featured_image: ""

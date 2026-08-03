@@ -5,7 +5,7 @@ description: "Institutional brief on capital raising dynamics, asset‑based Cap
 date: "2026-01-02"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/asset-based-liquidity-engineering-sovereign-mandate-Fund-III/"
+canonical_url: "https://roialscapital.com/intelligence/asset-based-liquidity-engineering-sovereign-mandate-Fund-III/"
 meta_title: "Asset‑Based Liquidity Engineering as a Primary Sovereign Mandate for Fund‑III"
 meta_description: "Institutional brief on capital raising dynamics, asset‑based Capital Structuring, and sovereign‑grade acquisition architecture for Fund‑III buyouts and strategic Asset-Based Lending programs."
 featured_image: ""

@@ -5,7 +5,7 @@ description: "Why sovereign debt fragility is pushing UHNW individuals toward cr
 date: "2026-02-15"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/sovereign-debt-strategies-and-the-flight-to-crypto-backed-abl-the-new-architecture-for-uhnw-liquidity/"
+canonical_url: "https://roialscapital.com/intelligence/sovereign-debt-strategies-and-the-flight-to-crypto-backed-abl-the-new-architecture-for-uhnw-liquidity/"
 meta_title: "Sovereign Debt Strategies and the Flight to Crypto-Backed Asset-Based Lending: The New Architecture for UHNW Liquidity"
 meta_description: "Why sovereign debt fragility is pushing UHNW individuals toward crypto-backed asset based liquidity engineering, and how Roials Capital structures institutional liquidity pathways."
 featured_image: ""

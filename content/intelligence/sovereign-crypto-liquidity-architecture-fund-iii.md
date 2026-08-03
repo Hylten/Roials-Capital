@@ -5,7 +5,7 @@ description: "Institutional-grade framework for sovereign-scale crypto liquidity
 date: "2025-07-17"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/sovereign-crypto-liquidity-architecture-Fund-III/"
+canonical_url: "https://roialscapital.com/intelligence/sovereign-crypto-liquidity-architecture-Fund-III/"
 meta_title: "Sovereign Crypto Liquidity Architecture for Fund-III Capital Formation"
 meta_description: "Institutional-grade framework for sovereign-scale crypto liquidity engineering, private credit structuring, and ultra‑capital acquisition pathways for Fund‑III buyouts and cross‑jurisdictional expansions."
 featured_image: ""

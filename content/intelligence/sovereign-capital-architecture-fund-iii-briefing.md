@@ -5,7 +5,7 @@ description: "An institutional briefing on capital raising, structural arbitrage
 date: "2025-11-06"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/sovereign-capital-architecture-Fund-III-briefing/"
+canonical_url: "https://roialscapital.com/intelligence/sovereign-capital-architecture-Fund-III-briefing/"
 meta_title: "Sovereign Capital Architecture for Fund-III Expansion Cycles"
 meta_description: "An institutional briefing on capital raising, structural arbitrage, liquidity engineering, and multi‑jurisdictional acquisition architecture for Fund-III buyout platforms and special mandates."
 featured_image: ""

@@ -5,7 +5,7 @@ description: "Institutional overview of strategic liquidity architecture, privat
 date: "2025-10-30"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/strategic-capital-migration-for-global-uhnwis/"
+canonical_url: "https://roialscapital.com/intelligence/strategic-capital-migration-for-global-uhnwis/"
 meta_title: "Strategic Capital Migration for Global UHNWIs"
 meta_description: "Institutional overview of strategic liquidity architecture, private credit, and asset based liquidity engineering frameworks for global UHNW capital migration."
 featured_image: ""

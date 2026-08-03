@@ -5,7 +5,7 @@ description: "Analysis of how energy mandates are outmaneuvering traditional inf
 date: "2025-08-18"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/energy-security-capital-naeoc-infrastructure-displacement/"
+canonical_url: "https://roialscapital.com/intelligence/energy-security-capital-naeoc-infrastructure-displacement/"
 meta_title: "Energy Security Capital: The Quiet Displacement of Legacy Infrastructure Funds"
 meta_description: "Analysis of how energy mandates are outmaneuvering traditional infrastructure vehicles through jurisdictional structuring, covenant shifts, and capital-stack dominance."
 featured_image: ""

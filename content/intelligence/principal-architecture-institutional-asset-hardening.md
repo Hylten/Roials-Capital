@@ -5,7 +5,7 @@ description: "High‑density institutional briefing on capital raising (Fund‑I
 date: "2025-10-02"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/principal-architecture-institutional-asset-hardening/"
+canonical_url: "https://roialscapital.com/intelligence/principal-architecture-institutional-asset-hardening/"
 meta_title: "Principal Architecture for Institutional‑Grade Asset Hardening"
 meta_description: "High‑density institutional briefing on capital raising (Fund‑III+), jurisdictional structuring, asset hardening mechanics, liquidity engineering, and acquisition‑grade risk architecture for LP/GP allocators."
 featured_image: ""

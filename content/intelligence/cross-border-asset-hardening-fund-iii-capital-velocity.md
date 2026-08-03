@@ -5,7 +5,7 @@ description: "Institutional brief on sovereign-grade asset hardening, cross-bord
 date: "2026-01-30"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/cross-border-asset-hardening-Fund-III-capital-velocity/"
+canonical_url: "https://roialscapital.com/intelligence/cross-border-asset-hardening-Fund-III-capital-velocity/"
 meta_title: "Cross‑Border Asset Hardening for Fund-III Capital Velocity"
 meta_description: "Institutional brief on sovereign-grade asset hardening, cross-border capital structuring, and Fund‑III buyout readiness across volatile multi-jurisdictional markets with liquidity engineering and special mandate pathw…"
 featured_image: ""

@@ -5,7 +5,7 @@ description: "Institutional brief on the structural ascent of private credit, so
 date: "2025-07-22"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/sovereign-convergence-private-credit-Fund-III/"
+canonical_url: "https://roialscapital.com/intelligence/sovereign-convergence-private-credit-Fund-III/"
 meta_title: "The Sovereign Convergence: Private Credit Ascendant and the Reconstitution of Wealth"
 meta_description: "Institutional brief on the structural ascent of private credit, sovereign capital realignment, and Fund-III capital formation strategies across buyouts, liquidity engineering, and special mandates."
 featured_image: ""

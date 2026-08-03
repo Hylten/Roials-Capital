@@ -5,7 +5,7 @@ description: "Institutional architecture for Fund-III capital formation, cross-b
 date: "2026-01-22"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/institutional-asset-hardening-infrastructure/"
+canonical_url: "https://roialscapital.com/intelligence/institutional-asset-hardening-infrastructure/"
 meta_title: "Sovereign-Grade Infrastructure for Institutional Asset Hardening"
 meta_description: "Institutional architecture for Fund-III capital formation, cross-border acquisition scaffolding, and asset-hardening frameworks engineered for LP/GP governance, liquidity stabilization, and multi-jurisdictional buyout…"
 featured_image: ""

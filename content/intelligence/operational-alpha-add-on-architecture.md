@@ -5,7 +5,7 @@ description: "A private Principal‑level briefing on why operational alpha now 
 date: "2025-12-15"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/operational-alpha-add-on-architecture/"
+canonical_url: "https://roialscapital.com/intelligence/operational-alpha-add-on-architecture/"
 meta_title: "The Principal Doctrine of Operational Alpha in Add‑On Buyout Architecture"
 meta_description: "A private Principal‑level briefing on why operational alpha now eclipses legacy financial engineering in Fund‑III+ add‑on environments, with direct implications for capital raising, GP signalling, and institutional al…"
 featured_image: ""

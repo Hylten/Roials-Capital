@@ -5,7 +5,7 @@ description: "A technical memorandum for institutional allocators outlining stru
 date: "2026-01-18"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/institutional-grade-asset-hardening-infrastructure/"
+canonical_url: "https://roialscapital.com/intelligence/institutional-grade-asset-hardening-infrastructure/"
 meta_title: "Institutional Grade Infrastructure for Asset Hardening"
 meta_description: "A technical memorandum for institutional allocators outlining structural gaps in North American energy, capital inefficiencies in lower mid market buyouts, and the infrastructure required for balance sheet optimizatio…"
 featured_image: ""

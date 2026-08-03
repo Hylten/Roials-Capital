@@ -5,7 +5,7 @@ description: "Institutional briefing on EU buyer behavior, capital concentration
 date: "2025-12-09"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/mifid-buyers-under-levered-industrial-platforms/"
+canonical_url: "https://roialscapital.com/intelligence/mifid-buyers-under-levered-industrial-platforms/"
 meta_title: "Why MiFID II Buyers Are Quietly Pivoting Toward Under‑Levered Industrial Platforms"
 meta_description: "Institutional briefing on EU buyer behavior, capital concentration dynamics, and the emerging preference for low‑leverage industrial platforms within Fund‑III acquisition cycles."
 featured_image: ""

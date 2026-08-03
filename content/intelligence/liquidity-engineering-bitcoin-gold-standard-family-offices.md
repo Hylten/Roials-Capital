@@ -5,7 +5,7 @@ description: "A principal-level briefing on Capital Structuring, structured capi
 date: "2025-09-19"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/liquidity-engineering-bitcoin-gold-standard-family-offices/"
+canonical_url: "https://roialscapital.com/intelligence/liquidity-engineering-bitcoin-gold-standard-family-offices/"
 meta_title: "Liquidity Engineering Against Bitcoin: The Institutional Gold Standard for Family Offices"
 meta_description: "A principal-level briefing on Capital Structuring, structured capital, and Fund-III readiness for family offices positioning Bitcoin as a collateralized reserve asset within multi-layered private markets architecture."
 featured_image: ""

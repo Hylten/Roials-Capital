@@ -5,7 +5,7 @@ description: "Institutional brief on capital hardening, digital‑asset integrat
 date: "2026-01-29"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/multi-asset-hardening-Fund-III-institutional-liquidity-architecture/"
+canonical_url: "https://roialscapital.com/intelligence/multi-asset-hardening-Fund-III-institutional-liquidity-architecture/"
 meta_title: "Multi‑Asset Hardening Architecture for Fund‑III"
 meta_description: "Institutional brief on capital hardening, digital‑asset integration, and liquidity engineering for Fund‑III with focus on capital raising, Asset-Based Lending structuring, and cross‑jurisdictional acquisition velocity."
 featured_image: ""

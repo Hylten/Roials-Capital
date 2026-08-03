@@ -5,7 +5,7 @@ description: "Institutional liquidity engineering for concentrated public equity
 date: "2025-10-08"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/new-liquidity-standard-institutional-liquidity-engineering/"
+canonical_url: "https://roialscapital.com/intelligence/new-liquidity-standard-institutional-liquidity-engineering/"
 meta_title: "The New Liquidity Standard for + Holders"
 meta_description: "Institutional liquidity engineering for concentrated public equity positions. Private credit structuring, LTV discipline, and Fund-III capital architecture for UHNWIs and GPs."
 featured_image: ""

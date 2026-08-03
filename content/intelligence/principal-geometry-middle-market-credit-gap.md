@@ -5,7 +5,7 @@ description: "A high-density institutional analysis of the structural credit def
 date: "2025-12-27"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/principal-geometry-middle-market-credit-gap/"
+canonical_url: "https://roialscapital.com/intelligence/principal-geometry-middle-market-credit-gap/"
 meta_title: "The Principal Geometry of the Middle Market Credit Gap"
 meta_description: "A high-density institutional analysis of the structural credit deficit shaping middle‑market buyouts, add‑ons, and energy acquisitions, with emphasis on kapitalanskaffning for Fund‑III architecture, liquidity engineer…"
 featured_image: ""

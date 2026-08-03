@@ -5,7 +5,7 @@ description: "A high-authority guide to liquidity engineering, private credit, a
 date: "2026-02-06"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/designing-the-sovereign-balance-sheet-a-structural-blueprint-for-private-liquidity-architecture/"
+canonical_url: "https://roialscapital.com/intelligence/designing-the-sovereign-balance-sheet-a-structural-blueprint-for-private-liquidity-architecture/"
 meta_title: "Designing the Sovereign Balance Sheet: A Structural Blueprint for Private Liquidity Architecture"
 meta_description: "A high-authority guide to liquidity engineering, private credit, and asset based Institutional Liquidity Paths for HNWI and UHNW individuals seeking institutional grade balance sheet design."
 featured_image: ""

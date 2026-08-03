@@ -5,7 +5,7 @@ description: "Debt Structure Harmonization for Sovereign Class Capital Flows Usi
 date: "2026-03-20"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/debt-structure-harmonization-for-sovereign-class-capital-flows-using-the-mathematical-axiom/"
+canonical_url: "https://roialscapital.com/intelligence/debt-structure-harmonization-for-sovereign-class-capital-flows-using-the-mathematical-axiom/"
 meta_title: "Debt Structure Harmonization for Sovereign Class Capital Flows Using The Mathematical Axiom"
 meta_description: "Debt Structure Harmonization for Sovereign Class Capital Flows Using The Mathematical Axiom | Institutional Briefing by Roials Capital"
 featured_image: ""

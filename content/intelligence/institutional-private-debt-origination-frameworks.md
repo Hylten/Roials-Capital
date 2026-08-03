@@ -5,7 +5,7 @@ description: "Technical architecture for Fund-III capital formation, private cre
 date: "2025-07-25"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/institutional-private-debt-origination-frameworks/"
+canonical_url: "https://roialscapital.com/intelligence/institutional-private-debt-origination-frameworks/"
 meta_title: "Institutional Frameworks for Private Debt Origination in High-Constraint Regimes"
 meta_description: "Technical architecture for Fund-III capital formation, private credit origination systems, liquidity engineering, and energy acquisition mandates under institutional governance."
 featured_image: ""

@@ -5,7 +5,7 @@ description: "A principal-level analysis of structural capital reallocation, tec
 date: "2026-01-26"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/institutional-capital-migration/"
+canonical_url: "https://roialscapital.com/intelligence/institutional-capital-migration/"
 meta_title: "The Migration Path of Institutional Capital"
 meta_description: "A principal-level analysis of structural capital reallocation, technical cash-flow regimes, and institutional stewardship filters governing Fund-III capital raising, Asset-Based Lending liquidity engineering, and spec…"
 featured_image: ""

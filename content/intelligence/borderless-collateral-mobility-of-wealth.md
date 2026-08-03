@@ -5,7 +5,7 @@ description: "Institutional brief on cross‑jurisdictional collateral mobility,
 date: "2025-11-12"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/borderless-collateral-mobility-of-wealth/"
+canonical_url: "https://roialscapital.com/intelligence/borderless-collateral-mobility-of-wealth/"
 meta_title: "Borderless Collateral and the Institutional Mobility of Wealth"
 meta_description: "Institutional brief on cross‑jurisdictional collateral mobility, sovereign‑grade capital structuring, and Fund-III buyout acceleration under Roials Capital mandates."
 featured_image: ""

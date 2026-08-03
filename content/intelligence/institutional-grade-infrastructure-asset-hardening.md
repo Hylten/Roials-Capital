@@ -5,7 +5,7 @@ description: "A high density institutional analysis on the structural gap in Nor
 date: "2025-08-17"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/institutional-grade-infrastructure-asset-hardening/"
+canonical_url: "https://roialscapital.com/intelligence/institutional-grade-infrastructure-asset-hardening/"
 meta_title: "Institutional Grade Infrastructure for Asset Hardening within the Current Capital Constraint Regime"
 meta_description: "A high density institutional analysis on the structural gap in North American energy, the mechanics of asset hardening across private markets, and the strategic role of Roials Capital as an introducer and alignment ar…"
 featured_image: ""

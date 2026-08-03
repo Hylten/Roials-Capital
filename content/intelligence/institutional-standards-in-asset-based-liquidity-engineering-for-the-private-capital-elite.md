@@ -5,7 +5,7 @@ description: "Explore the institutional frameworks shaping modern asset-based As
 date: "2025-09-22"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/institutional-standards-in-asset-based-liquidity-engineering-for-the-private-capital-elite/"
+canonical_url: "https://roialscapital.com/intelligence/institutional-standards-in-asset-based-liquidity-engineering-for-the-private-capital-elite/"
 meta_title: "Institutional Standards in Asset-Based liquidity engineering for the Private Capital Elite"
 meta_description: "Explore the institutional frameworks shaping modern asset-based Asset-Backed Frameworks and private credit liquidity for HNWI and UHNW portfolios."
 featured_image: ""

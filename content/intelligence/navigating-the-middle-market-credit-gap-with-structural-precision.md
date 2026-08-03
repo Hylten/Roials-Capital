@@ -5,7 +5,7 @@ description: "A surgical examination of liquidity architecture, private credit, 
 date: "2026-01-22"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/navigating-the-middle-market-credit-gap-with-structural-precision/"
+canonical_url: "https://roialscapital.com/intelligence/navigating-the-middle-market-credit-gap-with-structural-precision/"
 meta_title: "Navigating the Middle Market Credit Gap with Structural Precision"
 meta_description: "A surgical examination of liquidity architecture, private credit, and asset based liquidity engineering solutions for HNWI and UHNW investors facing the middle market credit gap."
 featured_image: ""

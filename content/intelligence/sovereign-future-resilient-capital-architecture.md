@@ -5,7 +5,7 @@ description: "Institutional brief on sovereign-capital construction, multi‑jur
 date: "2025-10-24"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/sovereign-future-resilient-capital-architecture/"
+canonical_url: "https://roialscapital.com/intelligence/sovereign-future-resilient-capital-architecture/"
 meta_title: "The Sovereign Future: Architecting Resilient Capital for Fund-III and Beyond"
 meta_description: "Institutional brief on sovereign-capital construction, multi‑jurisdictional funding lanes, and hard-asset liquidity engineering for Fund-III buyouts, add‑ons, and special mandates in energy and regulated European mark…"
 featured_image: ""

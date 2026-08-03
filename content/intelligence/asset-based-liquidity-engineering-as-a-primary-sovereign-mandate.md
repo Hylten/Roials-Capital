@@ -5,7 +5,7 @@ description: "Asset Based Monetization Architecture As A Primary Sovereign Manda
 date: "2026-02-11"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/asset-based-liquidity-engineering-as-a-primary-sovereign-mandate/"
+canonical_url: "https://roialscapital.com/intelligence/asset-based-liquidity-engineering-as-a-primary-sovereign-mandate/"
 meta_title: "Asset Based liquidity engineering As A Primary Sovereign Mandate"
 meta_description: "Asset Based Monetization Architecture As A Primary Sovereign Mandate"
 featured_image: ""

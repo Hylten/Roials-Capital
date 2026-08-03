@@ -5,7 +5,7 @@ description: "Institutional-grade credit architecture for Fund-III capital forma
 date: "2025-07-30"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/strategic-credit-architecture-hnwi/"
+canonical_url: "https://roialscapital.com/intelligence/strategic-credit-architecture-hnwi/"
 meta_title: "Strategic Credit Architecture for High‑Net‑Worth Entrepreneurs"
 meta_description: "Institutional-grade credit architecture for Fund-III capital formation, private buyouts, liquidity engineering, and energy mandates under MiFID II and energy mandates parameters."
 featured_image: ""

@@ -5,7 +5,7 @@ description: "Institutional blueprint for capital efficiency, balance‑sheet ha
 date: "2026-01-10"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/capital-efficiency-modern-balance-sheet-silent-authority/"
+canonical_url: "https://roialscapital.com/intelligence/capital-efficiency-modern-balance-sheet-silent-authority/"
 meta_title: "Capital Efficiency for the Modern Balance Sheet: Silent Authority in Core Holdings"
 meta_description: "Institutional blueprint for capital efficiency, balance‑sheet hardening, and capital raising strategy for Fund-III and associated mandates."
 featured_image: ""

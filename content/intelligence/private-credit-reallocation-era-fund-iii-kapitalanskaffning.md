@@ -5,7 +5,7 @@ description: "A principal-level analysis of private credit’s structural reset,
 date: "2026-03-15"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/private-credit-reallocation-era-Fund-III-kapitalanskaffning/"
+canonical_url: "https://roialscapital.com/intelligence/private-credit-reallocation-era-Fund-III-kapitalanskaffning/"
 meta_title: "The Reallocation Mandate: Private Credit’s Institutional Pathways in a Post-Rate Regime"
 meta_description: "A principal-level analysis of private credit’s structural reset, middle-market absorption capacity, and Fund-III capital formation dynamics across buyouts, Asset-Based Lending liquidity engineering, and cross‑border m…"
 featured_image: ""

@@ -5,7 +5,7 @@ description: "Institutional brief on Asset-Based Lending-driven liquidity archit
 date: "2025-11-03"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/abl-engine-for-multigenerational-wealth/"
+canonical_url: "https://roialscapital.com/intelligence/abl-engine-for-multigenerational-wealth/"
 meta_title: "Asset-Based Liquidity Engineering as the Structural Engine for Multi‑Generational Capital Sovereignty"
 meta_description: "Institutional brief on Asset-Based Lending-driven liquidity architecture, Fund-III capitalization pathways, and cross-jurisdictional acquisition protocols for LP/GP allocators."
 featured_image: ""

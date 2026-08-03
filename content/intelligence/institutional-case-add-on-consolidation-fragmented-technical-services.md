@@ -5,7 +5,7 @@ description: "A principal-level, closed‑room analysis on consolidation economi
 date: "2025-12-15"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/institutional-case-add-on-consolidation-fragmented-technical-services/"
+canonical_url: "https://roialscapital.com/intelligence/institutional-case-add-on-consolidation-fragmented-technical-services/"
 meta_title: "The Institutional Case for Add‑On Consolidation in Fragmented Technical Services"
 meta_description: "A principal-level, closed‑room analysis on consolidation economics, jurisdictional positioning, and capital architecture for Fund‑III buyouts and technical‑services roll‑ups."
 featured_image: ""

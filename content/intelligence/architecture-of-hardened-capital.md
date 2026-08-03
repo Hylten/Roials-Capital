@@ -5,7 +5,7 @@ description: "A principal-level institutional brief on hardened capital engineer
 date: "2025-08-08"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/architecture-of-hardened-capital/"
+canonical_url: "https://roialscapital.com/intelligence/architecture-of-hardened-capital/"
 meta_title: "The Architecture of Hardened Capital for Fund‑III Mandates"
 meta_description: "A principal-level institutional brief on hardened capital engineering, multi‑jurisdictional structuring, and sovereign-grade capitalization pathways for Fund‑III buyouts, add‑ons, and special mandates."
 featured_image: ""

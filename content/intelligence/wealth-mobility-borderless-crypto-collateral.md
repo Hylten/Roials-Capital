@@ -5,7 +5,7 @@ description: "A technical intelligence brief on sovereign grade wealth mobility 
 date: "2026-03-15"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/wealth-mobility-borderless-crypto-collateral/"
+canonical_url: "https://roialscapital.com/intelligence/wealth-mobility-borderless-crypto-collateral/"
 meta_title: "Wealth Mobility Architecture and Borderless Crypto Collateral for Institutional Grade M and A"
 meta_description: "A technical intelligence brief on sovereign grade wealth mobility systems, crypto collateral integration, and Liquidity Engineering for institutional M and A across private equity markets."
 featured_image: ""

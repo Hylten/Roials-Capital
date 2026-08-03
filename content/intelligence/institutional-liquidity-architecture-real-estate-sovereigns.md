@@ -5,7 +5,7 @@ description: "A high density institutional analysis on liquidity engineering, ba
 date: "2026-02-09"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/institutional-liquidity-architecture-real-estate-sovereigns/"
+canonical_url: "https://roialscapital.com/intelligence/institutional-liquidity-architecture-real-estate-sovereigns/"
 meta_title: "Institutional Liquidity Architecture for Real Estate Sovereigns"
 meta_description: "A high density institutional analysis on liquidity engineering, balance sheet optimization, and capital stack recalibration for real estate sovereigns operating under 2026 macro constraints, with strategic alignment f…"
 featured_image: ""

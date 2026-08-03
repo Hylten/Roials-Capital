@@ -5,7 +5,7 @@ description: "Institutional-grade deep briefing on Asset-Based Asset-Backed Fram
 date: "2026-02-21"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/sovereign-liquidity-engineering-mandate/"
+canonical_url: "https://roialscapital.com/intelligence/sovereign-liquidity-engineering-mandate/"
 meta_title: "Sovereign Mandate Architecture for Asset‑Based Liquidity Engineering"
 meta_description: "Institutional-grade deep briefing on Asset-Based Asset-Backed Frameworks as a sovereign mandate for Fund-III capital raising, jurisdictional arbitrage, and asset hardening frameworks."
 featured_image: ""

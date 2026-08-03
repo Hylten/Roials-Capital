@@ -5,7 +5,7 @@ description: "A surgical examination of how tokenized real estate interfaces wit
 date: "2026-03-11"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/the-mechanics-of-tokenized-real-estate-liquidity/"
+canonical_url: "https://roialscapital.com/intelligence/the-mechanics-of-tokenized-real-estate-liquidity/"
 meta_title: "The Mechanics of Tokenized Real Estate Liquidity"
 meta_description: "A surgical examination of how tokenized real estate interfaces with liquidity architecture, private credit, and asset based liquidity engineering frameworks."
 featured_image: ""

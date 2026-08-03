@@ -5,7 +5,7 @@ description: "A clinical analysis of the regime shift reshaping global private c
 date: "2025-08-27"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/sovereign-wealth-management-institutional-reconfiguration-private-capital/"
+canonical_url: "https://roialscapital.com/intelligence/sovereign-wealth-management-institutional-reconfiguration-private-capital/"
 meta_title: "Sovereign Wealth Management and the Institutional Reconfiguration of Private Capital"
 meta_description: "A clinical analysis of the regime shift reshaping global private capital flows, the rise of sovereign allocators, and the operational structures enabling Fund-III+ platforms to scale through disciplined kapitalanskaff…"
 featured_image: ""

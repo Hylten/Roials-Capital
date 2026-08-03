@@ -5,7 +5,7 @@ description: "An institutional examination of structural alpha within private cr
 date: "2025-12-10"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/structural-alpha-in-private-credit-portfolios-the-architecture-of-controlled-liquidity/"
+canonical_url: "https://roialscapital.com/intelligence/structural-alpha-in-private-credit-portfolios-the-architecture-of-controlled-liquidity/"
 meta_title: "Structural Alpha in Private Credit Portfolios: The Architecture of Controlled Liquidity"
 meta_description: "An institutional examination of structural alpha within private credit and asset based liquidity engineering frameworks, engineered for HNWI and UHNW liquidity optimization."
 featured_image: ""

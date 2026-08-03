@@ -5,7 +5,7 @@ description: "Institutional brief on capital architecture, liquidity engineering
 date: "2025-12-02"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/sovereign-mindset-structural-liquidity/"
+canonical_url: "https://roialscapital.com/intelligence/sovereign-mindset-structural-liquidity/"
 meta_title: "The Sovereign Mindset: Structural Liquidity as a Generational Asset"
 meta_description: "Institutional brief on capital architecture, liquidity engineering, buyout scaling mechanics, and the structural sovereignty premium for Fund-III allocations."
 featured_image: ""

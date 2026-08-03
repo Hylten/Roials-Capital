@@ -5,7 +5,7 @@ description: "Institutional blueprint for Fund-III capital formation, decentrali
 date: "2025-11-15"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/decentralized-private-credit-institutional-frontier/"
+canonical_url: "https://roialscapital.com/intelligence/decentralized-private-credit-institutional-frontier/"
 meta_title: "Decentralized Private Credit: The Institutional Frontier for Controlled Liquidity"
 meta_description: "Institutional blueprint for Fund-III capital formation, decentralized credit structures, and systemic liquidity engineering across buyouts, Asset-Based Lending, and energy mandates."
 featured_image: ""

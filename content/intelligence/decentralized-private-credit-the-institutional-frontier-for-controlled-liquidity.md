@@ -5,7 +5,7 @@ description: "A high-authority analysis of decentralized private credit and asse
 date: "2025-10-21"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/decentralized-private-credit-the-institutional-frontier-for-controlled-liquidity/"
+canonical_url: "https://roialscapital.com/intelligence/decentralized-private-credit-the-institutional-frontier-for-controlled-liquidity/"
 meta_title: "Decentralized Private Credit: The Institutional Frontier for Controlled Liquidity"
 meta_description: "A high-authority analysis of decentralized private credit and asset based liquidity engineering, built for HNWI and UHNW investors seeking institutional liquidity structures."
 featured_image: ""

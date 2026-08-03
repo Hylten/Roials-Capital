@@ -5,7 +5,7 @@ description: "Institutional analysis on the structural shifts redefining capital
 date: "2025-08-26"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/strategic-asset-allocation-long-term-liquidity-architecture-durable-capital/"
+canonical_url: "https://roialscapital.com/intelligence/strategic-asset-allocation-long-term-liquidity-architecture-durable-capital/"
 meta_title: "Strategic Asset Allocation for Long-Term Liquidity: The Architecture of Durable Capital"
 meta_description: "Institutional analysis on the structural shifts redefining capital durability, liquidity engineering, and cross-regime allocation frameworks for private markets allocators in 2026."
 featured_image: ""

@@ -5,7 +5,7 @@ description: "Roials Capital operates on a single premise. Structural integrity 
 date: "2025-11-25"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/structural-integrity-the-roials-capital-underwriting-standard/"
+canonical_url: "https://roialscapital.com/intelligence/structural-integrity-the-roials-capital-underwriting-standard/"
 meta_title: "Structural Integrity: The Roials Capital Underwriting Standard"
 meta_description: "Roials Capital operates on a single premise. Structural integrity is not a preference. Institutional capital flows toward order."
 featured_image: ""

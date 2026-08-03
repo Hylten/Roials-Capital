@@ -5,7 +5,7 @@ description: "A principal‑level analytical brief on capital formation, asset�
 date: "2025-11-22"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/institutional-liquidity-architecture-Fund-III/"
+canonical_url: "https://roialscapital.com/intelligence/institutional-liquidity-architecture-Fund-III/"
 meta_title: "Institutional‑Grade Liquidity Architecture for High‑Value Assets"
 meta_description: "A principal‑level analytical brief on capital formation, asset‑backed liquidity engineering, and institutional liquidity frameworks for Fund‑III buyouts, add‑ons, and special mandate energy acquisitions."
 featured_image: ""

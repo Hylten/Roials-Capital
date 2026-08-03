@@ -5,7 +5,7 @@ description: "Institutional briefing on the structural evolution of private cred
 date: "2025-12-26"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/future-private-credit-middle-market-strategic-briefing/"
+canonical_url: "https://roialscapital.com/intelligence/future-private-credit-middle-market-strategic-briefing/"
 meta_title: "The Future of Private Credit: Institutional Pathways, Middle Market Demand, and the Reallocation Era"
 meta_description: "Institutional briefing on the structural evolution of private credit, middle market financing gaps, and the capital reallocation cycle shaping Fund-III buyout execution, Asset-Based Lending liquidity engineering, and…"
 featured_image: ""

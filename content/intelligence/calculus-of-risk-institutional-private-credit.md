@@ -5,7 +5,7 @@ description: "A principal-level dissection of risk calculus, capital formation, 
 date: "2025-08-10"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/calculus-of-risk-institutional-private-credit/"
+canonical_url: "https://roialscapital.com/intelligence/calculus-of-risk-institutional-private-credit/"
 meta_title: "The Calculus of Institutional Risk in Private Credit for Fund-III Expansion"
 meta_description: "A principal-level dissection of risk calculus, capital formation, and structural engineering across private credit mandates, focused on Fund-III scale institutional commitments and acquisition pipelines."
 featured_image: ""

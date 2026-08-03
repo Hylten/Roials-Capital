@@ -5,7 +5,7 @@ description: "Institutional briefing on cross-jurisdictional capital mobility, c
 date: "2026-03-16"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/wealth-mobility-borderless-crypto-collateral-institutional-ma/"
+canonical_url: "https://roialscapital.com/intelligence/wealth-mobility-borderless-crypto-collateral-institutional-ma/"
 meta_title: "Wealth Mobility and Borderless Crypto Collateral for Institutional-Grade M&A"
 meta_description: "Institutional briefing on cross-jurisdictional capital mobility, crypto-backed collateral frameworks, and advanced liquidity engineering structures designed for global M&A execution under MiFID II, North American priv…"
 featured_image: ""

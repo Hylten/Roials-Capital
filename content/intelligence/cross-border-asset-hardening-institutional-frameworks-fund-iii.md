@@ -5,7 +5,7 @@ description: "Institutional architecture for capital fortification, liquidity en
 date: "2025-11-01"
 tags: []
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Roials-Capital/intelligence/cross-border-asset-hardening-institutional-frameworks-Fund-III/"
+canonical_url: "https://roialscapital.com/intelligence/cross-border-asset-hardening-institutional-frameworks-Fund-III/"
 meta_title: "Cross-Border Asset Hardening Protocols for Institutional Capital Stability and Fund-III Expansion"
 meta_description: "Institutional architecture for capital fortification, liquidity engineering, and cross-border deployment in volatile macro regimes, optimized for Fund-III kapitalanskaffning and strategic acquisition pipelines."
 featured_image: ""
