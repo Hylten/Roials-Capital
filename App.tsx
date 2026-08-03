@@ -14,13 +14,14 @@ import { Privacy } from './components/legal/Privacy';
 import { Cookies } from './components/legal/Cookies';
 import { SplashScreen } from './components/SplashScreen';
 import { DataRoom } from './components/DataRoom';
+import { LpPortal } from './components/LpPortal';
 import { CapitalOrigination } from './components/CapitalOrigination';
 import { IntelligenceIndex } from './components/intelligence/IntelligenceIndex';
 import { IntelligenceArticle } from './components/intelligence/IntelligenceArticle';
 import { DealOrigination } from './components/DealOrigination';
 import { Regulatory } from './components/Regulatory';
 
-type View = 'home' | 'login' | 'thesis' | 'private-credit' | 'mandates' | 'team' | 'inquire' | 'terms' | 'privacy' | 'cookies' | 'dataroom' | 'capital-origination' | 'deal-origination' | 'regulatory';
+type View = 'home' | 'login' | 'lp-portal' | 'thesis' | 'private-credit' | 'mandates' | 'team' | 'inquire' | 'terms' | 'privacy' | 'cookies' | 'dataroom' | 'capital-origination' | 'deal-origination' | 'regulatory';
 
 const viewToPath = (view: View): string => {
   const routes: Record<string, string> = {
@@ -35,6 +36,7 @@ const viewToPath = (view: View): string => {
     'regulatory': '/regulatory',
     'dataroom': '/dataroom',
     'login': '/login',
+    'lp-portal': '/lp-access',
   };
   return routes[view] || '/';
 };
@@ -52,6 +54,7 @@ const pathToView = (path: string): View => {
     '/regulatory': 'regulatory',
     '/dataroom': 'dataroom',
     '/login': 'login',
+    '/lp-access': 'lp-portal',
   };
   return routeMap[path] || 'home';
 };
@@ -68,6 +71,7 @@ const seoTitles: Record<View, string> = {
   'regulatory': 'Regulatory & Firm Architecture | Roials Capital',
   'dataroom': 'Data Room | Roials Capital',
   'login': 'LP Access | Roials Capital',
+  'lp-portal': 'LP Access Portal | Roials Capital',
   'terms': 'Terms | Roials Capital',
   'privacy': 'Privacy | Roials Capital',
   'cookies': 'Cookies | Roials Capital',
@@ -232,7 +236,7 @@ const App: React.FC = () => {
   const handleLoginSuccess = () => {
     setIsAuthenticated(true);
     sessionStorage.setItem('roials_dataroom_auth', 'true');
-    setCurrentView('dataroom');
+    setCurrentView(currentView === 'dataroom' ? 'dataroom' : 'lp-portal');
   };
 
   const handleReplayIntro = () => {
@@ -313,7 +317,7 @@ const App: React.FC = () => {
         onInquireClick={() => handleViewChange('inquire')}
         onLoginClick={() => handleViewChange('login')}
         onDataRoomClick={() => handleViewChange('dataroom')}
-        showLogo={currentView !== 'login' && !(currentView === 'dataroom' && !isAuthenticated)}
+        showLogo={currentView !== 'login' && !(currentView === 'dataroom' && !isAuthenticated) && !(currentView === 'lp-portal' && !isAuthenticated)}
         currentView={currentView}
       />
 
@@ -330,6 +334,9 @@ const App: React.FC = () => {
         <main className="flex-grow">
           {currentView === 'dataroom' && (
             isAuthenticated ? <DataRoom onBack={() => handleViewChange('home')} /> : <Login onBack={() => handleViewChange('home')} onReplayIntro={handleReplayIntro} onLoginSuccess={handleLoginSuccess} accessType={'dataroom'} />
+          )}
+          {currentView === 'lp-portal' && (
+            isAuthenticated ? <LpPortal onBack={() => handleViewChange('home')} onOpenDataRoom={() => handleViewChange('dataroom')} /> : <Login onBack={() => handleViewChange('home')} onReplayIntro={handleReplayIntro} onLoginSuccess={handleLoginSuccess} accessType={'lp-access'} />
           )}
           {currentView === 'home' && (
             <Home
