@@ -13,20 +13,20 @@ export const SplashScreen: React.FC<SplashScreenProps> = ({ onComplete }) => {
   useEffect(() => {
     const textExitTimer = setTimeout(() => {
       setStage('text-exit');
-    }, 1000);
+    }, 900);
 
     const lionEnterTimer = setTimeout(() => {
       setStage('lion-enter');
-    }, 1600);
+    }, 1500);
 
     const lionExitTimer = setTimeout(() => {
       setStage('lion-exit');
-    }, 2800);
+    }, 2600);
 
     const completeTimer = setTimeout(() => {
       setStage('complete');
       onComplete(); 
-    }, 3000);
+    }, 2800);
 
     return () => {
       clearTimeout(textExitTimer);

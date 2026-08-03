@@ -345,7 +345,10 @@ const App: React.FC = () => {
             <Thesis onInquireClick={() => handleViewChange('inquire')} />
           )}
           {currentView === 'capital-origination' && (
-            <CapitalOrigination onFirmClick={() => handleViewChange('team')} />
+            <CapitalOrigination
+              onFirmClick={() => handleViewChange('team')}
+              onBoardClick={() => handleViewChange('team')}
+            />
           )}
           {currentView === 'deal-origination' && (
             <DealOrigination onFirmClick={() => handleViewChange('team')} />

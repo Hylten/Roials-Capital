@@ -2,6 +2,7 @@ import React, { useEffect } from 'react';
 
 interface CapitalOriginationProps {
   onFirmClick: () => void;
+  onBoardClick: () => void;
 }
 
 const pillars = [
@@ -9,27 +10,37 @@ const pillars = [
     number: '01',
     title: 'PRINCIPAL-LED EXECUTION',
     paragraphs: [
-      'Direct dealmaker-led investor sessions backed by a global advisory board with deep combined experience across private markets, M&A and cross-border transactions.',
+      {
+        text: 'Direct dealmaker-led investor sessions backed by a global advisory ',
+        link: 'board',
+        linkAfter: ' with deep combined experience across private markets, M&A and cross-border transactions.',
+      },
     ],
   },
   {
     number: '02',
     title: 'PROPRIETARY INVESTOR INTELLIGENCE',
     paragraphs: [
-      'Agentic origination workflows and multi-channel counterparty mapping engineered for precision engagement with qualified LP decision-makers across family offices, institutional allocators and private capital networks across Europe and selected global markets.',
-      'Human-in-the-loop governance maintains institutional execution quality at every stage of the outreach and qualification process.',
+      {
+        text: 'Agentic origination workflows and multi-channel counterparty mapping engineered for precision engagement with qualified LP decision-makers across family offices, institutional allocators and private capital networks across Europe and selected global markets.',
+      },
+      {
+        text: 'Human-in-the-loop governance maintains institutional execution quality at every stage of the outreach and qualification process.',
+      },
     ],
   },
   {
     number: '03',
     title: 'SEQUENCED CAPITAL PROGRESSION',
     paragraphs: [
-      'Asset hardening, data-room structuring, and controlled counterparty velocity. Mandate speed is a function of structural precision, not outreach volume.',
+      {
+        text: 'Asset hardening, data-room structuring, and controlled counterparty velocity. Mandate speed is a function of structural precision, not outreach volume.',
+      },
     ],
   },
 ];
 
-export const CapitalOrigination: React.FC<CapitalOriginationProps> = ({ onFirmClick }) => {
+export const CapitalOrigination: React.FC<CapitalOriginationProps> = ({ onFirmClick, onBoardClick }) => {
   useEffect(() => {
     document.title = "Capital Origination | Roials Capital";
   }, []);
@@ -52,11 +63,6 @@ export const CapitalOrigination: React.FC<CapitalOriginationProps> = ({ onFirmCl
         {/* The Architecture — Main Statement */}
         <div className="space-y-32">
           <section>
-            <div className="flex flex-col md:flex-row items-baseline gap-4 mb-8 border-b border-white/10 pb-4">
-              <span className="font-sans text-xs font-bold text-oldgold uppercase tracking-[0.3em]">
-                THE EXECUTION ARCHITECTURE
-              </span>
-            </div>
             <div className="space-y-6">
               <p className="font-sans text-lg md:text-xl text-gray-400 font-light leading-relaxed">
                 Roials Capital executes direct capital formation for private equity managers and mid-market buy-and-build platforms.
@@ -87,7 +93,21 @@ export const CapitalOrigination: React.FC<CapitalOriginationProps> = ({ onFirmCl
                         key={idx}
                         className={`font-sans text-lg md:text-xl text-gray-400 font-light leading-relaxed${idx < pillar.paragraphs.length - 1 ? ' mb-6' : ''}`}
                       >
-                        {paragraph}
+                        {paragraph.text}
+                        {paragraph.link && (
+                          <>
+                            <button
+                              onClick={() => {
+                                onBoardClick();
+                                window.scrollTo({ top: 0, behavior: 'smooth' });
+                              }}
+                              className="text-oldgold hover:text-white border-b border-oldgold/30 hover:border-white pb-[1px] transition-all duration-500 cursor-pointer"
+                            >
+                              {paragraph.link}
+                            </button>
+                            {paragraph.linkAfter}
+                          </>
+                        )}
                       </p>
                     ))}
                   </div>
