@@ -71,8 +71,7 @@ Allocations are pre‑sequenced. Calls can trigger instantly. Cash friction disa
 
 4. Sovereign Liquidity Rail A blend of tokenized private credit, regulated stable settlement assets, and traditional FX corridors.
 
-Asset-Based Lending AND Institutional Liquidity Paths (10% MANDATE)
-Asset-Based Lending is not a loan product. One engine. Always liquid. This is the fundraising machine for Fund-III. Precision. Control. Speed. LPs invest in certainty. The sovereign crypto bank regime manufactures certainty.
+One engine. Always liquid. This is the fundraising machine for Fund‑III. Precision. Control. Speed. LPs invest in certainty. The sovereign crypto bank regime manufactures certainty.
 
 - Asset-Based Lending AND Institutional Liquidity Paths (10% MANDATE) Asset-Based Lending is not a loan product.
 
@@ -107,7 +106,7 @@ Fund‑III can offer structured credit products backed by real collateral, real 
 - Asset-Based Lending as the stabilizer
 - Buyout mandates as the deployment target This is structural finance, not speculative finance.
 
----
+Hard architecture, not hype. The bank becomes a liquidity sovereign because it can see everything, document everything, and move capital under regulatory clarity. Jurisdictions do not get bypassed. They get respected with surgical precision. This is the only way a 20-year Fund-III cycle can survive.
 
 - Fund-III POSITIONALITY: Hierarchical Dynamics The difference between an average Fund‑III and a sovereign-grade Fund‑III is structural sovereignty.
 
@@ -131,4 +130,4 @@ Technical metric: Minimum liquidity coverage ratio (LCR) required for Fund‑III
 
 ## Sammanfattning
 
-En suverän krypto-bank är ingen spekulativ innovation utan en institutionell arkitektur som konsoliderar kapital-, mineral-, data- och likviditetsrättigheter under en reglerad kommandostruktur, designad för skalbarhet och jurisdiktionell fragmentering. För Fund-III krävs en likviditetsmotor – inte en kassareserv – som programmerbart balanserar inflöde, uthållighet och NAV-härdning, där tokenisering, smarta kontrakt och distribuerade ledger utgör infrastruktur, inte ideologi, för att säkra arv och omfördela kapital under en 20-årscykel.
+Sovereign crypto bank-regimen integrerar kapital-, mineral-, data- och likviditetsrättigheter i en reglerad, skalbar struktur, designad för Fund-III:s 20-årscykel. Infrastrukturens kärna utgörs av institutionell djupcustody, tokeniserad kredit och automatiserad compliance, där likviditet omvandlas till programmerbar jämvikt för att absorbera flöden och motstå marknadskompression. Målet är suverän kontroll, inte decentralisering.

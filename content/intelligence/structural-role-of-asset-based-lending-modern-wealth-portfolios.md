@@ -101,4 +101,4 @@ For allocators exploring buyouts and add ons inside Fund-III and Fund IV environ
 
 ## Sammanfattning
 
-ABL har etablerats som en strukturell hörnsten i moderna diversifierade portföljer, driven av fragmenterad kapitalregim och ökad efterfrågan på stabil likviditet. Genom att prioritera verifierbar säkerhet och LTV-disciplin konverterar ABL tillgångar till strategisk optionality, vilket isolerar volatilitet och hanterar refinansieringsutmaningar i en osäker räntemiljö.
+ABL har utvecklats från en nischad kreditlösning till en strukturell pelare i moderna diversifierade portföljer, driven av fragmenterad kapitalregim och ökad efterfrågan på stabil likviditet. Genom att prioritera verifierbar säkerhet och LTV-disciplin erbjuder ABL en volatilitetsisolerad mekanism för tillgångskonvertering i en osäker räntemiljö.

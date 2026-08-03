@@ -71,7 +71,7 @@ It is the strategic management of transaction timing, covenant bandwidth, and ba
 - Time-gated liquidity nodes to enable synchronized capital calls
 - Preconstructed cash-flow waterfalls for both asset-level and HoldCo structures The result is a sovereign-style infrastructure: low entropy, high control, predictable flow, minimal waste.
 
-This aligns with Phase III:
+This aligns with the structural discipline embedded in the ABL corridors, the data-driven LTV curves, the time-gated liquidity nodes, and the preconstructed cash-flow waterfalls, all of which collectively produce a sovereign-style infrastructure characterized by low entropy, high control, predictable flow, and minimal waste.
 
 ### Phase III:
 
@@ -83,7 +83,7 @@ Roials Capital operates as a strategic navigator rather than a GP substitute. Th
 - Structural alignment for Nordic, European, US, and Gulf allocators
 - Institutional
 
----
+Introduction frameworks for multi-phase capital formation provide the structural foundation necessary to align cross-border special purpose vehicles with jurisdictional suitability, ensuring seamless execution across Nordic, European, US, and Gulf markets while maintaining institutional-grade discipline.
 
 - Technical briefing on energy, buyouts, and special mandates Whenever the strategic scope includes North American energy, Roials Capital identifies energy operations as the technical operator with institutional discipline.
 
@@ -121,4 +121,4 @@ The goal is to facilitate alignment between institutional capital and platforms 
 
 ## Sammanfattning
 
-Regulatorisk drift och fragmenterad marknadsarkitektur skapar en strukturell lucka för Fund-III-plattformar som kan tillämpa *sovereign balance sheet*-strategier—där likviditet hanteras som en strategisk resurs, inte en vara. Allokerare efterfrågar nu transparens, operativ disciplin och skalbara förvärvsmodeller, vilket utesluter opportunistiska aktörer till förmån för institutionellt mogna plattformar med multi-jurisdiktionell compliance och förutsägbar kapitalallokering.
+Strukturell kapitalbrist i nordamerikanska privata marknader härrör från regulatorisk drift, inte kapitalunderskott. Fund-III-plattformar med balansräkningar designade för transparens och snabb kapitalallokering till realtillgångar möter ökad efterfrågan från suveräna investerare som prioriterar kassaflödesmekanismer och riskkontroll. Den nya institutionella modellen kräver operativ disciplin, multi-jurisdiktionell compliance och skalbar förvärvsstrategi utan att äventyra likviditet.

@@ -46,7 +46,7 @@ It is architectural decentralization: multi-jurisdictional enforceability, multi
 - Controlled Liquidity Rails: predictable windows with predictable seniority.
 - Hybrid Collateralization: combining resource assets, receivables, cashflow rights, and land energy rights.
 
-Distributed Asset Registries: parallel security positions across multiple jurisdictions.
+This is not theoretical. Energy operators under energy mandates in the $50M–$250M range now prefer decentralized private credit because the enforcement stack moves faster than traditional asset-backed lending. Asset-Based Lending remains essential but incomplete. Strategic Collateralization completes the stack.
 
 - Fund-III CAPITAL RAISING: THE ARCHITECTURE OF TRUST Kapitalanskaffning for Fund-III is no longer about track records.
 
@@ -72,7 +72,7 @@ Not assumed. It requires an operating system. Core tenets:
 - Asset hardening prior to capital deployment.
 - Programmatic drawdowns aligned with acquisition cadence.
 
-Multi-Layer Enforcement: legal, digital, and commercial enforcement stack.
+Institutions that master controlled liquidity can run higher acquisition velocity without elevating risk. They move faster. Enforce faster. Exit faster. Private equity deal teams benefit directly: faster add-on execution, smoother integration financing, and reduced friction with lenders.
 
 - Asset-Based Lending AND Monetization Architecture: THE 10% THAT MOVES THE 80% Asset-Based Lending is misunderstood.
 
@@ -194,4 +194,4 @@ Terminal Metric: Enforcement Latency Index ≤ 4.
 
 ## Sammanfattning
 
-Decentralized private credit has evolved from narrative to structural necessity, driven by regulatory compression and institutional demand for controlled liquidity. Fund-III mandates must now prioritize governance, enforceability, and multi-jurisdictional architectures over traditional yield-chasing, defining the frontier for institutional capital deployment.
+Decentraliserad privat kredit har nått en strukturell brytpunkt där institutionella aktörer nu konkurrerar genom ägande-, likviditets- och verkställighetsarkitekturer snarare än enskilda tillgångar. Regulatorisk kompression och bankernas reträtt driver en medveten omställning till hybrid likviditetssystem med on-ledger verkställighet och transjurisdiktionella flöden, där kontroll och stabilitet prioriteras framför avkastningsjakt. Strukturell defensivitet och governance blir avgörande konkurrensfaktorer för Fund-III+ i en ny kapitalregim präglad av Basel-krav, geopolitisk fragmentering och digitaliserad kreditcykelhantering.

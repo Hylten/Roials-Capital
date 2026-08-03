@@ -67,10 +67,10 @@ is not distribution.
 
 ## The Mandate
 
-## The Mandate
+The mandate is navigation. The tools are institutional introductions, strategic mapping, and situational deployment models that respect both the complexity of modern markets and the responsibilities of serious capital.
 
 ##
 
 ## Sammanfattning
 
-Regulatoriskt driven kapitalbrist snarare än resursutarmning skapar en strukturell arbitragemöjlighet i Nordamerikas energisektor. Discret kapitalplacering i operationellt säkra men underkapitaliserade tungolje- och buyout-ramverk genererar asymmetrisk avkastning för institutionella aktörer som förstår den underliggande fysiken.
+Nordamerikas energisektor lider av kapitalbrist till följd av regleringsdrift, inte resursutarmning, vilket skapar strukturella möjligheter för precisionsallokering. Fragmenterade balansräkningar och kreditbegränsningar kräver kirurgisk kapitalplacering snarare än skalexpansion, särskilt inom tung olja med stabila produktionsprofiler och termisk återhämtning. Institutionella köpverksamheter gynnas av undervärderade tillgångar med operationell riskreduktion men finansiell underkapitalisering.

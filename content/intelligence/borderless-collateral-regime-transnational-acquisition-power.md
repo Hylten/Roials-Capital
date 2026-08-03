@@ -68,4 +68,4 @@ Technical metric: Collateral Mobility Index (CMI) target > 0.82.
 
 ## Sammanfattning
 
-Borderless collateral is the new sovereign of acquisition power—mobility, not domicile, dictates value. Fund-III exploits structural arbitrage: assets harvested in A, structured in B, leveraged in C, where the delta between local and transnational value unlocks IRR ignition. Collateral is no longer static; it’s a mobile, institutional-grade instrument—capital scales where jurisdiction bends.
+Den gränslösa säkerhetsregimen omvandlar tillgångar till mobila, jurisdiktionsoberoende kapitalinstrument, vilket ger strukturell fördel till aktörer med global räckvidd. Fund-III utnyttjar denna dynamik genom transnationell förvärvsstrategi, där säkerheternas underliggande värde avgörs av dess gränsöverskridande potential snarare än lokal avkastning. Kapitalanskaffning och strukturering sker i skilda jurisdiktioner för maximal skalbarhet och IRR-optimering.

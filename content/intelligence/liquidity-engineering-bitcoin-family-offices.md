@@ -13,7 +13,6 @@ draft: false
 author: "Roials Capital (Institutional Briefing)"
 ---
 
-
 The structural gap in global reserve architecture is no longer a function of commodity scarcity. It is a direct output of the post Basel III liquidity regime, where traditional collateral classes are losing elasticity while digital bearer assets like Bitcoin are becoming the de facto alternative reserve instrument for Family Offices operating between multi jurisdictional portfolios. This is a liquidity transformation cycle, not a speculative migration.
 
 ## The Regime Shift
@@ -81,7 +80,7 @@ These are not moral abstractions. In the institutional context, they guide the a
 
 ## Portfolio Calibration Lens for the Allocator
 
-Institutional allocators operating across private markets now face a multidimensional constraint set. Leverage costs are elevated, deal pacing has decelerated, regulatory friction is intensifying, and traditional collateral remains static. Within this environment, Bitcoin functions as a dynamic reserve instrument—enhancing liquidity throughput, expanding credit optionality, and stabilizing balance sheet architecture during periods of macro compression. The allocator evaluating their next stage of capital deployment must assess:
+Institutional allocators who operate across private markets now face a multidimensional constraint set: leverage costs are higher, deal pacing is slower, regulatory friction is expanding, and traditional collateral remains static. Bitcoin functions as a dynamic reserve instrument, improving liquidity throughput, enhancing credit optionality, and stabilizing balance sheet architecture during periods of macro compression. The allocator evaluating their next stage of capital deployment must assess whether existing reserves are optimized for cross-border settlement, whether Fund-III pacing can be maintained under current liquidity constraints, whether asset-backed lending structures require reserve enhancement, whether digital reserve assets can neutralize liquidity timing risk, and whether energy acquisitions or energy mandates require operational buffers.
 
 - Whether existing reserves are optimized for cross border settlement.
 - Whether Fund-III pacing can be maintained under current liquidity constraints.
@@ -93,4 +92,4 @@ Roials Capital supports this process by providing institutional grade navigation
 
 ## Sammanfattning
 
-Post-Basel III’s liquidity squeeze has eroded traditional collateral elasticity, forcing institutional allocators—particularly Family Offices and Fund-III managers—to recalibrate reserve architecture. Bitcoin, as a non-sovereign, globally transferable bearer asset, functions as operational ballast, neutralizing basis risk and credit spread volatility within a monetization framework designed for liquidity density and settlement efficiency, not speculative exposure.
+Post-Basel III:s likviditetsregim skapar strukturell brist på elastiska säkerheter, vilket tvingar Family Offices och Fund-III att integrera Bitcoin som operationell reserv för att neutralisera kredit- och valutarisken. Mekanisk strategisk kollateralisering mot Bitcoin optimerar likviditetsdensitet och balansräkningstabilitet utan exponering mot prisvolatilitet.

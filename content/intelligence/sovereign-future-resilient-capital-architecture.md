@@ -13,7 +13,6 @@ draft: false
 author: "Roials Capital"
 ---
 
-
 Resilience is not a slogan. Resilience is engineered. Sovereign capital does not emerge from sentiment, cycles, or noise. It crystallizes through design. Through constraint. Through disciplined jurisdictional alignment. The institutional mandate for Fund-III is not growth. Not scale. Not speed.
 
 ## The Mandate
@@ -137,7 +136,7 @@ Tri-jurisdiction design builds an unbreakable system:
 - EU provides acquisition depth.
 - Gulf provides permanence.
 
-THE CORE OF Fund-III must be the most operationally hardened vehicle in the Roials Capital family. Capital resilience emerges from geographic asymmetry—cycles cannot hit all three pillars of the sovereign triangle (U.S. returns, EU acquisition depth, Gulf permanence) simultaneously.
+This is the sovereign triangle. The architecture is deliberate, with capital resilience emerging from geographic asymmetry—cycles cannot hit all three pillars simultaneously. Machine-gun precision. No drift. Stay sharp. SECTION 6: OPERATIONAL HARDENING
 
 - THE CORE OF Fund-III Fund-III must be the most operationally hardened vehicle in the Roials Capital family.
 
@@ -182,7 +181,7 @@ Capital raising, Institutional Liquidity Paths, and special mandates are not par
 - A multi-jurisdictional arbitrage engine.
 - A sovereign-aligned institutional anchor.
 
-This is the design. This is the direction. This is The Mandate. Exit on conviction.
+This is the design. This is the direction. This is The Mandate.
 
 . Exit on conviction.
 
@@ -193,4 +192,4 @@ To proceed, request a confidential capital audit.
 
 ## Sammanfattning
 
-Fund-III:s mandat är inte tillväxt utan beständighet: strukturell immunitet genom disciplinerad jurisdiktionell diversifiering, hårdvaruunderwriting och anti-fragila intäktsflöden. Fem oskakliga pelare – institutionell djup, gränsöverskridande arbitrage, permanent kapitalstrukturering, motcyklisk inkomst och anti-fragil design – skapar ett strategiskt fundament oberoende av systemisk volatilitet och regulatorisk asymmetri.
+Fund-III:s mandat är hållbarhet, inte tillväxt: strukturell immunitet genom disciplinerad jurisdiktionell design, hard-bounded kapital och adaptiv avkastning. Fem pelare – institutionell djup, gränsöverskridande arbitrage, hard-asset underwriting, kapitalstrukturering och permanent mandat – formar en anti-fragil arkitektur oberoende av systemisk likviditet och regleringsrisk. LP-kapital skall rekryteras från okorrelerade zoner (USA, Norden, Gulfstater, EU) för att säkra flerregimkompatibilitet och motståndskraft mot cykler.

@@ -83,7 +83,7 @@ It is not a retail narrative. It is a domain specific institutional partnership.
 
 Stewardship is not a marketing term. It is a discipline.
 
-Stewardship is the management of capital, resources, and operational environments without waste. It aligns with disciplined capital governance.
+Stewardship is the management of capital, resources, and operational environments without waste. It aligns with long-term value creation and risk mitigation, ensuring that fiduciary responsibilities are met with rigor and accountability.
 
 For allocators, the Stewardship Filter is expressed through:
 
@@ -112,10 +112,10 @@ It is based on structural alignment and operational clarity. Allocators seeking 
 - Liquidity engineering for balance sheet optimization
 - Institutional partner selection within real asset environments can request a Confidential Strategy Audit.
 
-For allocators, the Stewardship Filter is expressed through:
+This is not a product presentation. It is a portfolio calibration exercise designed to map the allocator’s capital governance requirements against the structural realities of cross-border capital routing, geological and mechanical constraints in key basins, and liquidity optimization frameworks within real asset environments.
 
 2026. [END OF BRIEFING]
 
 ## Sammanfattning
 
-Kapitalflöden 2026 drivs av regulatorisk divergens, inte riskaptit. Allokatorer positionerar Fund-III/IV för att kapitalisera på dislokerade tillgångar i stabila jurisdiktioner, där teknisk förutsägbarhet överträffar politisk osäkerhet. Denna strukturella omfördelning skapar transnationella arbitragemöjligheter i realtillgångar.
+Kapitalflöden 2026 drivs av regulatorisk divergens snarare än riskaptit, med tre distinkta lägen: Nordamerika präglat av ESG-mispricing och policyinstabilitet, Europa av compliance-dominerad kapitalbildning och Golf/Asien av säkerhetsinriktade, långsiktiga investeringar. Transnationell kapitalmigration är en strukturell reaktion på icke-tekniska riskvariabler, där stabil jurisdiktion och operationell intelligibilitet avgör allokering.

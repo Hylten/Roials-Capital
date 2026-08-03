@@ -47,4 +47,4 @@ Metric: minimum liquidity spine requirement: 18.4% of NAV.
 
 ## Sammanfattning
 
-Liquidity is no longer optional—it is the defining threshold for + holders, separating structural participants from episodic actors. The new regime demands controllable, predictable, and trans-jurisdictional velocity, enforced by institutional architecture (ABL, collateral orchestration) rather than raw capital, ensuring compounding advantage in Fund-III cycles. Precision and readiness outperform scale.
+Nya likviditetsregimen för +-innehavare omdefinierar likviditet som en strukturell rättighet snarare än en kassahändelse, driven av *controllable*, *predictable* och *trans-jurisdictional* likviditet. Endast institutionellt beteende med strategisk kollateralisering och Asset-Based Lending uppnår den nödvändiga *velocityn* för att delta i Fund-III:s köpcykler, där precision och arkitektur avgör framgång framför skala.

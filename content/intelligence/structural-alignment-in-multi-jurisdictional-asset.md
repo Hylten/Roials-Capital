@@ -196,7 +196,7 @@ Institutions must know that the principal can execute without friction. Friction
 - Reporting is synchronized
 - Discretionary control is locked down This is structural alignment.
 
-This is asset hardening.
+This is asset hardening. This is covenant stewardship in practice. The Final Principal Directive is executed.
 
 - Do not negotiate with jurisdictional friction.
 
@@ -212,8 +212,8 @@ Present unified logic.
 
 - Do not seek capital.
 
-This is covenant stewardship in practice.
+Attract capital by being institution ready. The institution funds clarity, not geography. It funds structure, not story. It funds discipline, not improvisation. Alignment is destiny. Request confidential audit.
 
 ## Sammanfattning
 
-Strukturell alignment är avgörande för att omvandla gränsöverskridande tillgångar från latent risk till institutionellt investerbart kapital. Roials standard eliminerar fragmentering genom en enhetlig juridisk, regulatorisk och fiskal logik – en masterledger, en ägarberättelse och en kollateraldoctrine – för att säkerställa läsbarhet och kontrollhierarki inför $21B+ kapitalflöden. Principens uppgift är att definiera villkoren, inte reagera på dem.
+Strukturell alignment avgör om en tvärjurisdiktionell tillgång betraktas som investerbar eller latent skuld. Roials standard säkerställer institutionell beredskap genom mekanisk, bankmässig och revisionsbar strukturering, eliminerar fragmentering och skapar enhetlig kontrollhierarki. Principals definierar villkor; operatörer reagerar – alignment återställer läsbarhet och eliminerar narrativa brister.

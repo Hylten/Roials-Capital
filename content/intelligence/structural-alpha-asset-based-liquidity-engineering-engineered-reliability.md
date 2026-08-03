@@ -119,4 +119,4 @@ This is the environment where Asset Based Liquidity Engineering produces structu
 
 ## Sammanfattning
 
-Regulatorisk kompression och Basel III har skapat en strukturell ineffektivitet där högkvalitativa realtillgångar med stabila kassaflöden felaktigt diskonteras. Asset Based Liquidity Engineering utvinner persistent strukturell alfa genom att omvandla operationell säkerhet till institutionell optionality, vilket skapar icke-korrelerad avkastning i en marknad präglad av artificiell kapitalbrist.
+Regulatorisk kompression och riskmodelljusteringar har skapat en kapitalbrist för lägre mellanstora operatörer i Nordamerika och Europa, trots bibehållen tillgångsvärdering. Strukturell alfa genereras nu främst genom balansräktsarkitektur, där Asset Based Liquidity Engineering omvandlar operationell säkerhet till institutionell optionality, vilket utgör en icke-korrelerad värdeskapande källa.

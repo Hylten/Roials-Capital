@@ -175,7 +175,7 @@ This combination is extremely rare. And attractive.
 
 The US. The GCC.
 
-West Africa. The Nordics. Energy corridors are being redrawn. Sovereigns seek exposure to energy without the risk of exploration. They prioritize midstream, downstream, terminals, storage, distribution, and critical industrials. Our energy mandates provide Fund-III with a dedicated energy corridor that institutional LPs can trust. It is structured. Contained. Risk-tiered. Real. Physical. Audit-proof. Energy is the new gold standard of capital sovereignty. We anchor there.
+West Africa. The Nordics. Energy corridors are being redrawn as sovereigns seek exposure to energy without the risk of exploration, prioritizing midstream, downstream, terminals, storage, distribution, and critical industrials. Our energy mandates provide Fund-III with a dedicated energy corridor that institutional LPs can trust, structured, contained, risk-tiered, real, physical, and audit-proof. Energy is the new gold standard of capital sovereignty, and we anchor there.
 
 - Asset-Based Lending AS A STRATEGIC INSTRUMENT Asset-Based Lending is not lending.
 
@@ -240,4 +240,4 @@ Industry. Infrastructure. Minerals. Logistics. These are the competitive fields.
 
 ## Sammanfattning
 
-Sovereign capital’s future is a recoding of global stacks—from GP-led strategies to jurisdictional instruments. Fund-III is not incremental; it’s a hard asset, energy-aligned institution engineered for durability, precision, and jurisdictional reliability over the next 12-18 cycles. The mandate: re-sovereignize capital stacks, enforce structural asymmetry, and dominate the new capital law.
+Fund-III intar en central roll i den pågående re-sovereigniseringen av global kapitalallokering, där strukturell arkitektur ersätter traditionella fondstrategier. Fokus skiftar från avkastning till jurisdiktionell tillförlitlighet, med krav på hållbarhet, precision och energialignment för institutionella LPs.

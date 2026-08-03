@@ -70,8 +70,7 @@ LPs are sovereign entities with long arcs and complex liabilities. They require 
 - US endowments seeking non-correlated buyout returns
 - Family institutional offices requiring hard‑asset insulation The incentive is clarity.
 
-Capital Structuring (Asset-Based Lending / PRIVATE CREDIT) (10%)
-Liquidity is not cash.
+The differentiator is enforcement. The anchor is our ability to turn misaligned cash flow into hardened institutional yield. Fund-III is designed for high-load institutional inflow, not retail dilution. Demand is structural. Supply is controlled. Flow is deliberate.
 
 - Capital Structuring (Asset-Based Lending / PRIVATE CREDIT) (10%) Liquidity is not cash.
 
@@ -210,12 +209,12 @@ Trust accelerates capital movement. Capital movement creates sovereignty.
 
 Capital obeys architecture. Architecture obeys intent.
 
----
+Intent drives sovereignty. We build systems that outlive cycles. We engineer structures that compress risk. We craft vehicles that give institutions what they want most: deterministic outcomes in probabilistic environments. Fund‑III is not a fund. It is a sovereign engine for acquisition, compression, and mobility across real‑world assets. Engineered sovereignty is The Mandate.
 
-The differentiator is enforcement. The anchor is our ability to turn misaligned cash flow into hardened institutional yield. Fund-III is designed for high-load institutional inflow, not retail dilution. Demand is structural. Supply is controlled. Flow is deliberate.
+REQUEST for LP/GP alignment, cross-jurisdictional preparation, and mandate intake requires initiation of a confidential capital audit. Terminal Metric: Enforcement Latency Target = <72 hours.
 
 72 hours.
 
 ## Sammanfattning
 
-Fund-III etablerar en strukturell dialekt där kapital är ett protokoll: senioritet, händelsekontroll och jurisdiktionell rörlighet säkrar omedelbar auktoritet. Arkitekturen internaliserar kontrollflöden—mobilitet, regulatorisk arbitrage och tvångsutövning—för att eliminera externa beroenden och skapa en obrytbar struktur under tryck.
+Sovereignty is engineered through capital mobility, regulatory arbitrage, counterparty diversification, and enforcement architecture. Fund-III must prioritize structural seniority, event control, and jurisdictional optionality to ensure precision and operational grip. Capital is not money, it is leverage, and geometry is power.

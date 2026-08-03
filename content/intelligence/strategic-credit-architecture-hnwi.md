@@ -13,7 +13,6 @@ draft: false
 author: "Jonas Hyltén"
 ---
 
-
 A mispriced covenant structure always reveals the fracture point of an ecosystem long before the market acknowledges it. The gap shows up in second-order effects: subdued recovery projections, muted sponsor participation, and credit files that hide operational decay behind cosmetic EBITDA bridges. Order is not an option. It is the prerequisite for stewardship.
 
 ## The Regime Shift
@@ -34,7 +33,7 @@ The spine of the architecture is leverage discipline. Entrepreneurs often chase 
 - 20 to 35 percent margin compression
 - 180 to
 
-- 15 to 30 percent decline in liquidation values. The real LTV is the stressed figure.
+180 to 270 day working capital extension
 
 - 15 to 30 percent decline in liquidation values The real LTV is the stressed figure.
 
@@ -77,7 +76,7 @@ Fund-III demands a new architecture. The entrepreneur must operate with institut
 
 1. **Capital Raising Corridor:
 
-- Fund-III capital formation sits at the center.
+80 percent Mandate *
 
 - Fund-III capital formation sits at the center.
 
@@ -93,7 +92,7 @@ They fund systems. Fund-III capital arrives when the system exists before the pi
 
 2. **Monetization Architecture Corridor:
 
-- Asset-Based Lending is the tactical layer.
+10 percent Mandate applies to Asset-Based Lending.
 
 - Asset-Based Lending is the tactical layer.
 
@@ -108,7 +107,7 @@ It prevents distress, stabilizes acquisition cycles, and signals institutional r
 
 3. **Special Mandate Corridor:
 
-- The institutional ecosystem demands sector specialization.
+10 percent Mandate *
 
 - The institutional ecosystem demands sector specialization.
 
@@ -150,4 +149,4 @@ Request a confidential capital audit.
 
 ## Sammanfattning
 
-Mispriced covenant structures expose systemic fragility before markets react, betraying operational decay masked by cosmetic EBITDA bridges. The private credit regime has structurally shifted: institutional discipline now demands asset-level truth, not relational narratives, with stressed LTV ceilings (52-58%) under 15-30% liquidation declines and 20-35% margin compression—only deliberate credit architecture will secure capital formation for Fund-III and beyond.
+Mispriced covenants signal systemic fragility before markets react, exposing operational decay masked by cosmetic adjustments. The private credit regime has shifted: institutional discipline now demands asset-level truth over narratives, penalizing retail structures and misaligned risk pricing. Entrepreneurs must adopt deliberate credit architecture, anchored in stressed LTV curves (52–58%) and cash-flow durability, to secure capital beyond Fund-II.

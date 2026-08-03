@@ -168,4 +168,4 @@ Leverage Ratio Target: 1.85x.
 
 ## Sammanfattning
 
-Private credit ascends as the sovereign liquidity engine, replacing retreating banks and regulatory compression under Basel IV. Fund-III capitalizes on this structural shift, deploying engineered liquidity into hard assets, energy baseload, and cash-convertible operations—delivering sovereign-grade yield sovereignty, downside insulation, and multi-jurisdictional resilience. Capital flows follow competence; Fund-III is built for the new regime.
+Private credit is rapidly replacing traditional banking as the primary liquidity engine for real-economy consolidation, driven by regulatory compression under Basel IV and sovereign repositioning. Fund-III strategically fills the void by focusing on hard assets, energy baseload, and operational cash density, offering institutional allocators yield sovereignty through collateralized, covenant-protected structures. This shift redefines private credit as a jurisdictional function, not just an asset class, with Fund-III positioned as a steward of scarcity arbitrage in the new capital architecture.

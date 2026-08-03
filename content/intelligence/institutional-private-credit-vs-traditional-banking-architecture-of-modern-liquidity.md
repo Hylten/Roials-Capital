@@ -96,8 +96,7 @@ Capital is not used to compensate for structural inefficiencies.
 
 2. Balance sheet optimization Operators must demonstrate the ability to manage leverage without eroding asset stability.
 
-2. Balance sheet optimization
-Operators must demonstrate the ability to manage leverage without eroding asset stability. This aligns with the principle of disciplined capital stewardship, where the preservation of generational value is linked to disciplined management.
+This aligns with the principle in disciplined balance sheet management, where the preservation of generational value is linked to disciplined management.
 
 - , where the preservation of generational value is linked to disciplined management.
 
@@ -117,11 +116,10 @@ In energy, energy operations exemplifies the required alignment between technica
 
 5. Long-term alignment with stewardship principles Institutional allocators increasingly prioritize governance, capital responsibility, and multi-cycle survivability.
 
-5. Long-term alignment with stewardship principles
-Institutional allocators increasingly prioritize governance, capital responsibility, and multi-cycle survivability. Strategies built on stewardship maintain durability across interest rate cycles. Roials Capital supports allocators through confidential strategy audits and portfolio calibration reviews. The objective is to align institutional capital with the correct liquidity architecture, ensuring precise navigation across markets that demand technical intelligence rather than generalist assumptions.
+Strategies built on stewardship maintain durability across interest rate cycles. Roials Capital supports allocators through confidential strategy audits and portfolio calibration reviews, ensuring alignment with long-term capital responsibility. The objective is to align institutional capital with the correct liquidity architecture, enabling precise navigation across markets that demand technical intelligence rather than generalist assumptions.
 
 ##
 
 ## Sammanfattning
 
-Regulatorisk kompression (Basel IV, konsolidering) har skapat ett permanent kreditgap där traditionella banker endast kan hantera lägst-riskexponeringar, medan institutionell private credit fyller tomrummet i mellanstora och sponsorfinansierade lån. Denna strukturella omfördelning av likviditet—drivet av durationstransparens, sponsorers hastighetskrav och flykten från bankbalansräkningar—är inte cyklisk utan den avgörande arkitekturen för det kommande decenniets kreditmarknader.
+Regulatorisk kompression via Basel IV och bankkonsolidering skapar strukturell kreditbrist i traditionell banksektor, vilket tvingar övergång till institutionell private credit för mellanmarknadslån och sponsorfinansiering. Fyra makrotrender – ökade kapitalkrav, undvikande av duration, sponsorernas snabbare behov och flykt till direkt utlåning – cementerar private credit som den primära källan till modern likviditet.

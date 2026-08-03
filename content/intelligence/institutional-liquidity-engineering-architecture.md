@@ -96,10 +96,10 @@ Liquidity architecture should extend the operational horizon, not compress it.
 
 ## Decision Making Lens for the Allocator
 
-## Decision Making Lens for the Allocator
+Allocators must navigate a capital landscape where structural inefficiencies produce both friction and opportunity. The institutions that succeed in this environment will be those that internalize capital structuring as a strategic discipline rather than a transactional solution. A comprehensive evaluation requires assessment of collateral behavior, balance sheet maturity, capital stack cohesion, and opportunity velocity. Institutions often discover that dormant value can be unlocked through structural engineering rather than additional equity deployment. Roials Capital provides confidential strategy audits for allocators analyzing Fund-III+ capital formation, high-value asset liquidity pathways, or energy sector alignment through its energy operations technical framework. The objective is to equip decision-makers with the operational intelligence required to navigate the current regime.
 
 ##
 
 ## Sammanfattning
 
-Regulatorisk kompression och balansräkningsstagnation skapar strukturell kapitalbrist, trots tillgång till institutionella tillgångar. Avancerad likviditetsarkitektur ger asymmetrisk optionality och riskdisciplin, där precision i kapitalallokering premieras framför skala.
+Regulatorisk kompression och balansräkningsstagnation skapar strukturell kapitalbrist i Nordamerika och Europa, trots tillgång till institutionella tillgångar. Avancerad likviditetsarkitektur ger asymmetrisk optionality och minskar finansieringsfriktionen, medan precision i kapitalallokering premieras framför skala i dagens marknadsmiljö.

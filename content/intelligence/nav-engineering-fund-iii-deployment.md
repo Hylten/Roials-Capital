@@ -18,4 +18,4 @@ Mid‑market GPs are no longer treating NAV facilities as a late‑cycle liquidi
 
 ## Sammanfattning
 
-NAV-lines är inte längre en akut likviditetslösning utan en strukturell motor för snabbare Fund-III-deployment. Genom att integrera NAV-kredit i portföljens arkitektur före första investering skapas kontroll över timing, stabilisering av LP-pacing och accelererad EBITDA-driven add-on-exekvering, vilket cementerar GP:ns institutionella trovärdighet redan under första året.
+Mid-market GPs integrerar nu NAV-faciliteter som primära verktyg för snabb kapitalallokering i Fund-III, driven av strukturella fördelar: accelererad deployment genom förutsebar likviditet, cross-asset stabilitet och institutionalisering. Effektivitet skapas via tvåskiktsarkitektur (ABL understött av NAV-lån), vilket säkrar LP-pacing och GP-kontroll redan under första året.

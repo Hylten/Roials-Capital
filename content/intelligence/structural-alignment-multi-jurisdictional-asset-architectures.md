@@ -61,7 +61,7 @@ For private equity funds scaling Fund-III and Fund IV cycles, alignment requires
 
 Stewardship operates as a discipline rather than an ethos. In evaluating multi jurisdictional asset structures, stewardship translates into non wasteful capital deployment, precision in resource management, and governance that aligns authority with responsibility.
 
-Stewardship operates as a discipline rather than an ethos. In evaluating multi-jurisdictional asset structures, stewardship translates into non-wasteful capital deployment, precision in resource management, and governance that aligns authority with responsibility.
+It draws from the principle in stewardship as a discipline, where governance structures are designed to minimize waste and ensure that authority is matched with accountability across jurisdictions.
 
 Within energy systems, stewardship means deploying capital where decline profiles, reservoir physics, and operational governance reduce the probability of waste. In private credit, stewardship activates through balance sheet optimization and disciplined cash flow allocation. In cross border buyouts, stewardship demands clarity of control, avoidance of over engineered holding structures, and coherent integration sequencing.
 
@@ -79,4 +79,4 @@ The next stage is not transactional. It requires a confidential strategy audit t
 
 ## Sammanfattning
 
-Regulatoriskt drivet kapitalunderskott i North American energy skapar strukturella arbitragemöjligheter för disciplinerade aktörer. Allokeringar favoriserar nu jurisdiktionellt synkroniserade strukturer med förutsägbara depletionkurvor, långsiktig säkerhetspaket och cross-border enforceability, där mogen bassänger som Alberta erbjuder operativ stabilitet och LTV-predikterbarhet.
+Regulatorisk drift och balansräkningsavveckling driver kapitalbristen i Nordamerikas energisektor, inte resursutarmning. Allokeringar omkalibreras mot strukturer med förutsägbara utarmningskurvor och jurisdiktionell alignment mellan kassaflöde och säkerhetsstruktur, särskilt i mogna bassänger som Alberta. Kapitalbrist i operationellt motståndskraftiga sektorer och överskott i momentumdrivna segment definierar en ny regim för tvärjurisdiktionella tillgångsarkitekturer.

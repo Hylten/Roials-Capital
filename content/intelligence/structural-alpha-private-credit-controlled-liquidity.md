@@ -84,7 +84,7 @@ Roials Capital provides this framework, enabling allocators to assess structures
 
 ## The Stewardship Filter
 
-Stewardship is the discipline of non-wasteful capital management, rooted in the principle—found in antiquity—where generational capital is allocated through wisdom and prudence.
+Stewardship is the discipline of non-wasteful capital management. It is rooted in the principle found in Ecclesiastes 11:2, where generational capital is allocated through wisdom and prudence.
 
 - , where generational capital is allocated through wisdom and prudence.
 
@@ -108,8 +108,8 @@ Institutional allocators evaluating the 2026 private credit regime are identifyi
 - Operational intelligence
 - Strategic partner alignment The environment favors portfolios that emphasize measurable asset bases, predictable cash flows, and capital pathways insulated from macro volatility.
 
----
+Fund-III strategies, asset-backed liquidity engineering, and specialized mandates align with this demand profile. Institutions seeking deeper calibration may request a confidential Strategy Audit to benchmark their existing allocation framework against controlled liquidity mechanics, pinpoint structural gaps, and formalize their institutional archetype for the prevailing regime.
 
 ## Sammanfattning
 
-Strukturellt alfa i private credit härrör från regimskiftet 2026: banks balansräkningar krymper, durationallokering ökar och tillväxtsektorer prioriteras, vilket skapar en bestående likviditetsskarsel i stabila segment. Kontrollerad likviditetsarkitektur – via precisionstrukturerad underwriting, kollateraloptimering och balansräkningsdisciplin – genererar strukturellt alfa mer tillförlitligt än traditionell räntarbitrage, särskilt i underfinansierade mid-market-segment.
+Strukturellt alfa i nordamerikansk private credit härrör från covenantkompression och regulatorisk förskjutning, inte försämrad underliggande kvalitet. Kontrollerad likviditetsarkitektur genererar mer tillförlitligt alfa än traditionell räntarbitrage i en miljö präglad av asymmetrisk likviditet och kapitaldisciplin.

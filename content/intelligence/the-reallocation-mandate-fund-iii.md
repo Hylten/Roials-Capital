@@ -13,6 +13,7 @@ draft: false
 author: "Roials Capital"
 ---
 
+
 The Reallocation Mandate activates when structural pressures exceed historical comfort bands and when institutional capital requires repositioning toward asymmetric durability. Cycles tighten. Yield compresses. Demand spikes for engineered throughput. Movement is mandatory. Stillness is decay.
 
 The principal view is simple: reallocate or be reallocated.
@@ -75,4 +76,4 @@ stands: Reallocate into Fund-III. Reinforce liquidity corridors. Execute energy 
 
 ## Sammanfattning
 
-The Reallocation Mandate is sovereign capital discipline in motion. Fund-III becomes the hardened chassis for 80% of capital, driving buyouts, liquidity corridors, and energy acquisition corridors under asymmetric durability. Stasis decays; execution fortifies.
+Reallocation Mandate aktiveras vid strukturella tryck och kräver institutionell ompositionering mot asymmetrisk hållbarhet. Fund-III agerar centralt ramverk för buyouts, likviditetsprogram och gränsöverskridande förvärv, med fokus på riskjurisdiktion, likviditetskorridorer och kollateralhärdning. Strukturell realignment driver kapital från stagnering till funktion, med 80% av kapitalanskaffningen genom Fund-III för att säkra kontroll och portföljdisciplin.

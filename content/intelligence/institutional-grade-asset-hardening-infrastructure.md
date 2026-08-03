@@ -30,7 +30,7 @@ Institutional allocators are operating inside a post abundant capital cycle wher
 
 5. An influx of sovereign and quasi sovereign capital into hard assets, creating competition for stabilized infrastructure but leaving early stage or mid cycle industrial assets undercapitalized.
 
-This macro environment is changing the allocator’s mandate. Asset hardening is no longer about stress testing. It is about embedding structural durability at the asset level so that the sponsor’s strategic optionality increases rather than contracts during market tightening. Across North America and the Nordics, the dividing line is not between energy and non-energy assets. The dividing line is between assets with operational certainty and assets with operational ambiguity. Heavy oil reservoirs in Alberta, when engineered under SAGD or CSS methodologies, present sharper predictability than a large portion of mid-market corporate cash flows. This is the central counterintuitive truth shaping institutional flows in 2026.
+This macro environment is changing the allocator's mandate. Asset hardening is no longer about stress testing. It is about embedding structural durability at the asset level so that the sponsor's strategic optionality increases rather than contracts during market tightening. Across North America and the Nordics, the dividing line is not between energy and non-energy assets. The dividing line is between assets with operational certainty and assets with operational ambiguity. Heavy oil reservoirs in Alberta, when engineered under SAGD or CSS methodologies, present sharper predictability than a large portion of mid-market corporate cash flows. This is the central counterintuitive truth shaping institutional flows in 2026.
 
 2026. TECHNICAL MECHANICS OF ASSET HARDENING Asset hardening is the institutional discipline of transforming operational consistency into capital structure resilience.
 
@@ -90,7 +90,7 @@ is to structure clarity.
 
 Stewardship is a discipline, not a sentiment. Institutional grade stewardship is the practice of deploying capital in ways that are aligned with long term productivity, ethical resource management, and multi generational utility.
 
----
+It follows the biblical principle in stewardship as the responsible management of resources entrusted to one’s care, ensuring their preservation and enhancement for future generations.
 
 In practice, this means avoiding waste through operational discipline, minimizing asset degradation, and aligning capital structures with the natural behavior of the asset class. This applies equally to heavy oil reservoirs, industrial operating companies, and cross border acquisitions. Stewardship requires:
 
@@ -118,4 +118,4 @@ Roials Capital’s role is to provide institutional LPs and GPs with a neutral, 
 
 ## Sammanfattning
 
-Institutionell kapitalbrist i energisektorn driver fram en strukturell efterfrågan på hårdvaruaktier med förutsägbar avkastning. Allokerare kräver nu plattformar som kan omstrukturera exponeringar, accelerera förvärv och implementera likviditetsstrategier för att säkra balansräkningen – inte generera avkastning, utan skapa suverän stabilitet i privata marknader.
+Institutionella investerare möter en kapitalrationerad miljö där traditionella energitillgångar med förutsägbara avkastningskurvor utgör den mest stabila säkerheten. Strukturell hållbarhet kräver dock mer än balansräkningsanalys – det förutsätter ingenjörsmässig flexibilitet, disciplinerade kapitalstrukturer och branschspecifik operativ expertis för att säkra långsiktig stabilitet i privata marknader.

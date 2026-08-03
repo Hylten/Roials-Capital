@@ -60,4 +60,4 @@ EXIT Capital migration ends with one metric. Cost of error. Our mandate is to lo
 
 ## Sammanfattning
 
-Kapital migrerar med precision mot lägre friktion, säkrare kassaflöden och verifierbar dominans – en strukturell förskjutning som missprissas varje gång. Regimskiftet manifesteras genom minskad transaktionshastighet, kollaps av narrativbaserad underwriting och geopolitisk stratifiering, där reala tillgångar och asset-backed ramverk utgör nya fundament för institutionell disciplin. De som agerar nu skördar fler-cyklers fördelar; de som tvekar finansierar andras.
+Kapital migrerar strukturellt mot lägre friktion, säkrare kassaflöden och verifierbar kontroll – mispricingen av detta skifte skapar flerperiodsöverskott för disciplinerade aktörer. Indikatorer som transaktionslatens, kollaps av narrativbaserad due diligence och geopolitisk stratifiering (energi, infrastruktur) driver omallokering till reala tillgångar och asset-backed ramverk. De som agerar nu konsoliderar institutionell fördel; eftersläntrare finansierar andras.

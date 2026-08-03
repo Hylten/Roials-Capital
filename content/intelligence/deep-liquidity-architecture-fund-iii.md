@@ -76,4 +76,4 @@ Terminal Metric: Liquidity Override Capacity Index ≥ 0.82.
 
 ## Sammanfattning
 
-Fund-III:s framgång avgörs av att konstruera *självständig* likviditet, oberoende av marknadscykler, genom strukturell djup, jurisdiktionell rörlighet och balansräkneaggressivitet. Kapitalanskaffningen väger 80% och kräver *mekanisk bevisning* av likviditetsöverstyrning, plattformskontroll och arbitrageextraktion – inte visionära löften.
+Fund-III arkitektur kräver strukturell djup och jurisdiktionell rörlighet för att tillverka likviditet oberoende av marknadscykler. Kapitalanskaffning utgör 80% av vikten, där LP kräver mekanik, kontrollteori och garantier för plattformslikviditet snarare än enskilda tillgångars illikviditet.

@@ -26,4 +26,4 @@ This is not short term optimization. It is generational engineering. Through pri
 
 ## Sammanfattning
 
-Asset hardening for HNWI/UHNW executives preserves ownership through institutional-grade private credit and asset-backed frameworks, ensuring liquidity without erosion while maintaining absolute control. Engineered for generational endurance, this architecture—leveraging collateralized structures, crypto collateral, and institutional thresholds—delivers resilient, cycle-resistant capital authority. Request a confidential audit to reinforce your portfolio’s structural integrity.
+Roials Capital designar exekutiva portföljer med institutionell precision genom kreditstrukturer och tillgångsbaserade ramverk, bevarar ägande och undviker försäljning för likviditet. Portföljerna optimeras för långsiktig stabilitet och motståndskraft mot marknadscykler via privata krediter, ABL-system och kryptovalutakollateral.

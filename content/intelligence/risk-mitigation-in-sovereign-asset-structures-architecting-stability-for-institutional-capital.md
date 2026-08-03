@@ -128,4 +128,4 @@ We architect quietly, precisely, and with institutional discipline. Clients expe
 
 ## Sammanfattning
 
-Sovereign assets anchor liquidity engines through jurisdictional control, not speculation. Roials Capital engineers Monetization Architecture and Strategic Collateralization frameworks to enforce durability, enforceability, and predictable leverage across private credit and asset-based instruments. Dual-layer visibility—vertical tracing and horizontal exposure mapping—ensures institutional clarity, insulating HNW/UHNW capital from volatility and systemic contagion.
+Roials Capital designar stabila, hierarkiska strukturer för suveräna tillgångar genom att prioritera jurisdiktionell kontroll före tillgångsflöden. Strukturell och operativ transparens säkerställer motståndskraft mot marknads- och motpartsrisker i syntetiserade likviditetslösningar.

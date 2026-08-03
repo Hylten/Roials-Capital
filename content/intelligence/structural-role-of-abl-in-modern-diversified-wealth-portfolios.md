@@ -64,8 +64,7 @@ A typical institutional waterfall includes:
 
 5. Liquidity Engineering Functionality ABL facilities are frequently used as liquidity engineering tools within buyout ecosystems.
 
-5. Liquidity Engineering Functionality
-ABL facilities are frequently used as liquidity engineering tools within buyout ecosystems. The facility can support acquisition integration, fulfill working capital gaps, and compress transaction timelines. For allocators supporting Fund-III and its add-on trajectory, ABL is the mechanism that sustains operational tempo without equity dilution. These mechanics position ABL as a structural tool rather than a return-seeking instrument. Its function is stabilization, precision, and liquidity release. This is why it has become a central pillar in buyout financing strategies.
+The facility can support acquisition integration, fulfill working capital gaps, and compress transaction timelines. For allocators supporting Fund-III and its add-on trajectory, ABL is the mechanism that sustains operational tempo without equity dilution. These mechanics position ABL as a structural tool rather than a return-seeking instrument. Its function is stabilization, precision, and liquidity release, precisely why it has become a central pillar in buyout ecosystems.
 
 ### Pillar I: n diversified wealth architectures. THE PARTNERSHIP MODEL Roials Capital functions as a strategic navigator and institutional introducer.
 
@@ -123,10 +122,8 @@ This positions it as a counterweight to market driven valuation cycles. Allocato
 - Jurisdictional constraints
 - Structural alignment with energy, private equity, and special mandate requirements The audit is not promotional.
 
-### Pillar I: Diversified Wealth Architectures
-THE PARTNERSHIP MODEL
-Roials Capital functions as a strategic navigator and institutional introducer.
+It is a technical alignment procedure designed to calibrate the allocator's architecture to global multi-regime conditions, ensuring structural alignment with energy, private equity, and special mandate requirements while mitigating liquidity gaps, optimizing capital efficiency, and addressing sectoral overexposure and jurisdictional constraints.
 
 ## Sammanfattning
 
-ABL har etablerats som en kritisk strukturell komponent i moderna diversifierade förmögenhetsportföljer, driven av regulatorisk reträtt och kreditunderskott i realekonomin. I en tri-regimmiljö—där privat kreditmarknader präglas av hög friktion, kompressionsrisker i energi/industri och MiFID II:s kapitalomallokering—erbjuder ABL defensiv stabilitet, oberoende av aktiemarknadssentiment, och säkrar effektiv likviditet för buyout-program och add-on-strategier.
+ABL har etablerat sig som en strukturell nödvändighet i diversifierade förmögenhetsportföljer, driven av regulatorisk reträtt från traditionella långivare och behov av stabil likviditet oberoende av aktiemarknadens svängningar. I en tri-regim-miljö, där privat kreditmarknadens friktioner, kompressionsrisker i energi/industri och MiFID II:s kapitalomfördelning dominerar, fungerar ABL som en kollateralcentrerad buffert, säkrar effektivt deltagande i buyout-program och motverkar komprimerade spreads och förlängda exitcykler.

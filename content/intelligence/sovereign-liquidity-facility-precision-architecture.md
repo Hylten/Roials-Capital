@@ -107,4 +107,4 @@ A righteous steward builds structures that last across generations. Liquidity fa
 
 ## Sammanfattning
 
-Sovereigns fail not from capital scarcity but liquidity-structure fragility. New regime demands hard-collateral facilities—energy-indexed, covenant-enforced cash-flow algorithms—engineered to eliminate episodic funding risk. Design with measurable eligibility grids and priority waterfalls, or face solvency collapse under rate and commodity pressure.
+Sovereigns face liquidity collapse not from capital scarcity but flawed access structures; hard collateral and energy-indexed benchmarks now dominate. A five-layer liquidity facility, anchored by objective eligibility grids and priority-of-claim waterfalls, must replace reactive fiscal cycles to ensure programmed solvency under regime shift.

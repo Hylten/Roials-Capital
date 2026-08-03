@@ -51,4 +51,4 @@ And capital access is now governed by institutional mechanics rather than legacy
 
 ## Sammanfattning
 
-Liquiditet är nu en strukturell disciplin, inte en transaktion. Roials Capital etablerar den nya standarden genom precision-collateraliserad private credit och crypto-mekanik, designad för HNWI/UHNW att bevara kapital, allokera långsiktigt och agera diskret – där vi definierar reglerna, trösklarna och collateral-parametrarna. Framtiden tillhör de som behandlar likviditet som ett ingenjörssystem, inte en opportunistisk handling.
+Roials Capital etablerar en ny strukturell likviditetsstandard för institutionella och +HNWI-klienter, där likviditet hanteras som en kontrollerad funktion snarare än en transaktion. Genom precisionskollateralisering, realtidsmarginalsystem och anpassad kryptokollateralisering skapar man en underwritingmiljö präglad av institutionell klarhet och långsiktig strategisk fördel.

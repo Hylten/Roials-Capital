@@ -32,7 +32,7 @@ Private credit portfolios are not subject to daily repricing. For institutional 
 
 3. Enhanced control rights.
 
-Enhanced control rights are typically secured through covenants that private lenders negotiate.
+Private lenders often negotiate for enhanced control rights to mitigate downside risk in their lending agreements.
 
 
 n protections, cash flow sweep rights, and covenant structures unavailable in public markets.
@@ -166,4 +166,4 @@ Roials Capital facilitates confidential strategy audits for allocators who requi
 
 ## Sammanfattning
 
-Regulatorisk omställning och bankernas strukturella reträtt skapar ett permanent kreditgap i mellanstora företag (10-250M USD EBITDA). Private credit har utvecklats från marginellt yield-tillskott till en central tillgångsklass, driven av förutsägbara säkerheter, lägre NAV-volatilitet och förstärkta kontrollrättigheter, vilket lockar institutionella investerare under det kommande decenniet.
+Regulatorisk omreglering och bankkonsolidering har skapat ett bestående kreditgap i mellanstora företag, vilket omvandlat privat kredit från en avkastningsstrategi till en central tillgångsklass. Strukturellt minskat bankutlån och ökad efterfrågan från tillväxtföretag och sponsorbackade transaktioner driver en decenniumslång omallokering mot mellanstora privata krediter med stabila, seniora kassaflöden.

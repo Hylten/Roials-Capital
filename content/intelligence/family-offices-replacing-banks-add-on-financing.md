@@ -26,4 +26,4 @@ Internal logic now favors direct underwriting. Short spans. Hard assets. Cash ge
 
 ## Sammanfattning
 
-Family offices displace banks in add-on financing due to regulatory drag, accelerated time preference, and sovereign capital’s pursuit of operating yield. They deliver certainty, covenant clarity, and cross-border flexibility—structuring clean capital stacks that enable faster transitions and cleaner exits. This is not a trend; it is the new equilibrium of acquisition finance.
+Family offices replace banks in add-on financing due to regulatory constraints, faster decision-making, and demand for operational yield proximity. They prioritize hard assets, immediate execution, and streamlined underwriting, aligning with Fund-III sponsors' velocity needs. This shift reflects a new equilibrium: principal-to-principal, execution-driven, and structurally efficient.

@@ -82,7 +82,7 @@ Within energy, Roials Capital relies on energy operations as the partner respons
 
 Stewardship is a governance discipline. For capital allocators, stewardship is the process of deploying resources in a manner that increases productive capacity while minimizing waste.
 
-Stewardship is not a matter of moral sentiment, but of operational responsibility. For capital allocators, it requires positioning assets where they can generate long-duration utility. Heavy oil reservoirs with predictable decline curves meet this criterion, as do European industrial companies with stable cash conversion cycles and succession gaps. Asset-backed frameworks—particularly those structured through asset-based lending—reinforce stewardship by mitigating operational underperformance driven by capital scarcity. This perspective aligns with long-term value creation imperatives.
+It is not moral sentiment. It is operational responsibility. Stewardship requires that capital be positioned where assets can produce long-duration utility. Heavy oil reservoirs with predictable decline curves meet this criterion. European industrial companies with stable cash conversion cycles and succession gaps meet it as well. Asset-backed frameworks, through asset-based lending, support stewardship by preventing operational underperformance driven by capital scarcity. The theological perspective aligns with.
 
 - .
 
@@ -106,10 +106,10 @@ Does the ecosystem support institutional reporting, conflict management, and cro
 
 4. Capital adaptability.
 
----
+Does the structure allow for dynamic capital deployment and balance sheet optimization during unexpected cycles? Roials Capital provides institutional LPs and GPs with a confidential strategy audit to evaluate alignment across these four dimensions and calibrate portfolio posture accordingly.
 
 ##
 
 ## Sammanfattning
 
-Global private markets face structural dislocation, not scarcity, forcing allocators toward precision cross-border balance sheet engineering. Institutional-grade infrastructure now hinges on strategic collateralization, real asset throughput, and neutral partners bridging capital inefficiencies—Alberta heavy oil and EU mid-market buyouts exemplify high-stakes opportunities where outdated capital structures demand global allocator intervention.
+Global kapitalallokering präglas av strukturell dislokation snarare än brist på tillgångar, där traditionella likviditetskanaler decouplats från reala tillgångars produktivitet. Nyckeln till konkurrenskraft ligger i precisionen i gränsöverskridande balansräkningsteknik och strategisk kollateralisering, med fokus på ineffektiva marknader som europeiska mellanstora buyouts och kanadensisk tungolja. Infrastruktur för kapitalbildning och strategisk kollateralisering utgör de centrala pelarna för institutionell stabilitet i detta nya paradigm.

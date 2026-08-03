@@ -13,6 +13,7 @@ draft: false
 author: "Roials Capital (Institutional Briefing)"
 ---
 
+
 The capital vacuum in North American energy is a function of regulatory drift and institutional mispricing, not resource scarcity. This same structural distortion is mirrored across private credit, real asset finance, and cross-border M&A environments where balance sheets are under-optimized relative to asset quality. The result is a regime where multi generational wealth is no longer a function of capital accumulation but capital architecture. In this regime, Asset Based Strategic Collateralization operates as the primary engine for permanence, continuity, and institutional longevity.
 
 ## The Regime Shift
@@ -44,7 +45,7 @@ Industrial equipment, energy reserves, receivables, inventory, and regulated inf
 
 2. Cash Flow Waterfall Mapping Capital Structuring defines the hierarchy of claims in advance.
 
-2. Cash Flow Waterfall Mapping
+Capital injections, amortization schedules, operational costs, reinvestment requirements, and reserve accounts are quantified. This transforms the balance sheet from linear to layered, where each tier of obligations is prioritized according to contractual and regulatory terms.
 
 ### Layer I:
 
@@ -136,10 +137,10 @@ The allocator looking to build or preserve a multi generational capital base mus
 
 4. Expansion Optionality When markets tighten, does the structure allow the family or institution to acquire rather than retreat.
 
-Capital injections, amortization schedules, operational costs, reinvestment requirements, and reserve accounts are quantified. This transforms the balance sheet from linear to layered. Each
+Roials Capital provides confidential Strategy Audits and Portfolio Calibration sessions for LPs, GPs, and principal families seeking structural clarity. The objective is to determine whether their current capital architecture supports or constrains multi-generational wealth.
 
 ##
 
 ## Sammanfattning
 
-North American energy’s capital vacuum stems from regulatory drift and institutional mispricing—not scarcity—mirroring broader distortions in private credit and real asset finance. Asset-Based Strategic Collateralization (Asset-Based Lending-E) is now the structural engine for multi-generational wealth, engineering liquidity pathways aligned with asset durability, cash flow timing, and operational physics, replacing static capital structures with capital architecture optimized for efficiency, duration safety, and structural seniority.
+Regulatorisk drift och institutionell felprissättning skapar kapitalvakuum i nordamerikansk energi och andra realtillgångssegment, vilket tvingar fram en ny kapitalarkitektur där multi-generationsrikedom avgörs av balansräkningens optimering snarare än kapitalackumulation. Asset Based Strategic Collateralization framstår som det strukturella verktyget för att säkra likviditet, kontinuitet och institutionell beständighet i en miljö präglad av höga räntor, geopolitisk fragmentering och underkapitaliserade realtillgångar.

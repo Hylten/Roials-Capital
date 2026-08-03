@@ -31,7 +31,7 @@ The Two Thresholds Roials Capital maintains two non-negotiable Asset-Backed Fram
 
 - Public shares Asset-Backed Frameworks at a minimum of five million dollars.
 
-These thresholds impose discipline. They eliminate noise. They ensure only principals with genuine perimeter control enter The Mandate.
+These thresholds force discipline, remove noise, and ensure only principals with real perimeter control enter The Mandate.
 
 . These are not barriers.
 
@@ -122,4 +122,4 @@ It aligns stewardship, authority, and discipline. It transforms static assets in
 
 ## Sammanfattning
 
-Asset-Based Liquidity Engineering är en strukturell maktmekanism som filtrerar kapital till disciplinerade principals genom icke-förhandlingsbara ramverk (min. $2M för krypto, $5M för publika tillgångar). Det omvandlar likviditet till strategiskt vapen genom kollateraliserad kontroll, eliminerar beroenden och säkrar suveränitet genom förutsägbara flöden och integritetsmekanismer. Endast de som behärskar disciplinen erhåller mandatet.
+Asset-Based Liquidity Engineering etableras som en suverän mandatstruktur, där disciplin, kollateral och covenant-integritet avgör kapitalallokering – inte marknadssentiment. Roials Capital tillämpar icke-förhandlingsbara trösklar ($2M för krypto, $5M för aktier) för att filtrera spekulanter och säkra kontroll över likviditet som strategiskt verktyg för expansion utan utspädning eller politiska beroenden.

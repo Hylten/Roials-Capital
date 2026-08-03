@@ -53,4 +53,4 @@ Terminal metric: DSCR hard floor 1.35x.
 
 ## Sammanfattning
 
-Institutionell kapitalbevarande disciplin i Fund-III kräver strikt jurisdiktionell arkitektur, operativ immunitet och signalstyrka. Strukturell omutlighet, nedsida-kontroll och LP-försäkringar avgör om fonden institutionaliseras eller utplånas – permanent kapital tolererar ingen improvisation.
+Fund-III kräver strikt struktur: jurisdiktion som första skydd, operativ robusthet och disciplinerad signalering. Kapitalbevarande arkitektur bygger på fyra institutionella pelare – immutabilitet, icke-fragilitet, nedsideskontroll och signaldisciplin – där permanent kapital utesluter improvisation och kräver trippel jurisdiktionell arbitrage.

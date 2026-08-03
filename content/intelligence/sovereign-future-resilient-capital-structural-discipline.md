@@ -50,7 +50,7 @@ This transforms the asset class from a depletion risk to an endurance asset.
 
 4. Infrastructure Lock In The presence of processing batteries, pipelines, water handling facilities, and steam generation infrastructure creates a natural moat.
 
-4. Infrastructure Lock-In
+Replacement cost inflation in Alberta has increased the strategic significance of existing infrastructure by 30 percent to 60 percent since 2020.
 
 2020. This infrastructure embeddedness is a primary driver of the asset hardening trend.
 
@@ -116,8 +116,8 @@ The Sovereign Future requires a new decision lens built on structural, operation
 
 4. Capital Stewardship Is the deployment aligned with disciplined resource management, lower waste, and long term capital architecture.
 
-Replacement cost inflation in Alberta has increased the strategic significance of existing infrastructure by 30 percent to 60 percent since 2020. This infrastructure embeddedness is a primary driver of the asset hardening trend.
+Capital stewardship at Roials Capital ensures that deployment is aligned with disciplined resource management, lower waste, and a long-term capital architecture.
 
 ## Sammanfattning
 
-Den strukturella kapitalbristen i Nordamerikas energisektor drivs av regulatorisk drift, inte resursutarmning, och förstärks av institutionella likviditetskrav som prioriterar stabilitet framför avkastning. Allokerare omklassificerar nu förutsägbara tungoljeprojekt som stabiliserande tillgångar, medan regulatorisk fragmentering skapar arbitragemöjligheter för kapital som söker jurisdiktionell robusthet och kollateralkvalitet.
+Strukturell kapitalbrist i Nordamerikas energisektor drivs av regulatorisk drift, ej resursutarmning, och förstärks av global balansräkningshårdhet. Institutionella likviditetskrav och jurisdiktionell stabilitet prioriteras framför räntor, vilket skapar en ny kapitalarkitektur där suveränt orienterat kapital och hårdvaruexponering dominerar.

@@ -137,4 +137,4 @@ When these criteria are met, the allocator transitions from market participant t
 
 ## Sammanfattning
 
-Global allocators face a structural regime shift: volatility is now permanent, not cyclical, driven by regulatory divergence, capital scarcity, and currency fragmentation. Cross-border asset hardening—via jurisdictionally resilient legal structures and asset-backed cash flows—is the only path to institutional longevity in this environment.
+Nordamerikansk energisektor lider av kapitalbrist till följd av regulatorisk osäkerhet och missriktad kapitalallokering, vilket skapar strukturella arbitragemöjligheter för disciplinerade gränsöverskridande investerare. Med stigande inflation, valutafragmentering och politisk instabilitet efterfrågas nu tillgångar med juridisk och operativ motståndskraft snarare än enkel diversifiering.

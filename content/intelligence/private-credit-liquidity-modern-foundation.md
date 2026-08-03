@@ -119,8 +119,8 @@ It is disciplined resource allocation supported by technical clarity and structu
 - Map capital structure incentives
 - Determine if the opportunity fits the institution’s archetype and duration profile Roials Capital provides confidential strategy audits to help allocators determine institutional alignment and establish a structured pathway toward implementation.
 
-The objective is to provide clarity, not to assume commitment.
+The objective is clarity, not commitment.
 
 ## Sammanfattning
 
-Private credit has supplanted traditional banking as the backbone of institutional liquidity, driven by post-2018 regulatory constraints and superior underwriting precision. Its dominance stems from predictable risk regimes, senior capital stack positioning, and engineered liquidity—positioning it as the modern foundation for institutional balance sheet optimization, not merely a yield play.
+Regulatorisk utträngning sedan 2018 har gjort privat kredit till den stabiliserande ryggraden i institutionella portföljer, där traditionella långivare övergett segment med robusta tillgångar och stabila kassaflöden. Allokerare avgör nu kapitaltillgången för mellanstora bolag, med fokus på riskkontroll via kovenanter, senioritet och kontraktsenliga kassaflödesanalyser – en strategi Roials Capital tillämpar i Fund-III, ABL-likviditet och energispecialmandat.

@@ -14,7 +14,7 @@ author: "Roials Capital"
 ---
 
 
-The center of gravity is shifting—quietly, predictably, inevitably. Infrastructure limited partners are returning to the mid-market energy transition arena, where mandates between fifty and two hundred fifty million dollars have become the last scale at which a general partner can still control the physics of value creation with precision. Above it, competition distorts price. Below it, fragmentation erodes institutional certainty. Within this range, the market remains rational. That is the entire point.
+The center of gravity is shifting, quietly, predictably, inevitably. Infrastructure LPs are returning to the mid-market energy transition arena because mandates in the $50–250 million range have become the last scale where a GP can still control the physics of value creation with precision. Above it, competition distorts price. Below it, fragmentation erodes institutional certainty. Within this energy mandate range, the market remains rational. That is the entire point.
 
 ## The Structural Reality
 
@@ -113,4 +113,4 @@ Infrastructure LPs are already repositioning in that direction. Fund‑III manag
 
 ## Sammanfattning
 
-Infrastructure LPs are retreating from politicized megaprojects to mid-market energy mandates ($50–250M), where operational control and cash-flow certainty dominate. This corridor—anchored in industrial logic, not subsidies—absorbs volatility while avoiding speculative distortions, ensuring rational pricing and institutional oversight. The shift reflects a demand for lineage, not slogans.
+Infrastructure LPs återvänder till mid-market energy transition-mandat ($50–250M) där kontroll och rationella värderingar råder, undviker politiserad och överprissatt megaprojektlogik. Mid-market buyouts möjliggör operativ dominans och industriell logik, vilket attraherar LPs som prioriterar stabila kassaflöden och mätbara resultat framför spekulativa gröna investeringar.

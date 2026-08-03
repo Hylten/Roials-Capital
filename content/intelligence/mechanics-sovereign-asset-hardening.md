@@ -128,7 +128,7 @@ This includes access to energy operations for North American Energy Operations a
 
 Institutional asset stewardship is increasingly interpreted through the lens of responsibility and resource governance. Stewardship involves the disciplined management of capital, operational assets, and long term risk exposures.
 
-Institutional asset stewardship is increasingly interpreted through the lens of responsibility and resource governance. Stewardship involves the disciplined management of capital, operational assets, and long-term risk exposures.
+It draws on a principle embedded in fiduciary duty, which emphasizes continuity across generations.
 
 - , which emphasizes continuity across generations.
 
@@ -170,4 +170,4 @@ The allocator must be able to project cash flow trajectories, risk envelopes, an
 
 ## Sammanfattning
 
-Sovereign Asset Hardening är inte en trend utan en nödvändighet i en kapitalmarknad präglad av strukturell brist, regulatorisk kompression och divergerande kapitalkostnader. Allokerare med långsiktigt kapital måste prioritera underkapitaliserade tillgångar med förutsägbara kassaflöden och robusta balansräkningar—såsom tung oljeutveckling i Alberta, stabila buyout-plattformar och seniora ABS-strukturer—för att säkra cross-cykel motståndskraft i en ekonomi där tillgång till kapital avgör framgång.
+Strukturell kapitalbrist i Nordamerika driver efterfrågan på *Sovereign Asset Hardening* som avgörande strategi för långsiktiga investerare. Regulatorisk kompression, minskad reinvestering från publika marknader och divergerande kapitalkostnader skapar en miljö där stabila, underkapitaliserade tillgångar med förutsägbara kassaflöden premieras. Fokus skiftar från tillväxt till motståndskraft och kontinuitet genom hårdade balansräkningar och kovenantskyddade strukturer.

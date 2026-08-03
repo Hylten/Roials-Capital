@@ -45,4 +45,4 @@ is clear. Request confidential capital audit.
 
 ## Sammanfattning
 
-Asset-based liquidity engineering—anchored in hard assets, leveraged liquidity, and controlled velocity—is the structural engine of multi-generational capital sovereignty. Fund-III’s platform transforms static capital into kinetic, tail-risk-insulated engines, delivering scalable acquisition power, covenant discipline, and buyout readiness across cycles.
+Multi-generationskapital kräver strukturell likviditetsarkitektur: hårda tillgångar som säkerställer kassaflöde, strukturerad kredit för rörelseenergi och jurisdiktionell flexibilitet för strategisk dominans. Fund-III:s plattform integrerar dessa element för att skapa skalbar, krisresistent kapitalstruktur som möter institutionella allokatorers krav på kontroll, hastighet och motståndskraft mot svängningar.

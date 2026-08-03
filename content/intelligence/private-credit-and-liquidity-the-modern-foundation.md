@@ -86,4 +86,4 @@ Banks will remain regulated and constrained. Corporates will require increasing 
 
 ## Sammanfattning
 
-Private credit has emerged as the structural solution to three critical pressures: reduced bank balance sheet flexibility, surging mid-market capital demand, and institutional demand for uncorrelated yield. It delivers engineered liquidity—strategic and structural—enabling precise duration, cash flow, and downside control, while insulating portfolios from public market cycles.
+Private credit has emerged as a structural solution to regulatory constraints, rising mid-market capital demand, and institutional yield-seeking, offering engineered liquidity, uncorrelated returns, and precise risk control. It functions as a strategic liquidity valve, enabling long-term exposure without compromising short-term flexibility or survivability in stressed markets. The asset class redefines institutional capital deployment by aligning duration, cash flow, and downside protection with evolving market dynamics.

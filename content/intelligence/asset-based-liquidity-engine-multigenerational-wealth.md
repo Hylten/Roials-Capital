@@ -50,4 +50,4 @@ Mandate threshold: DSCR > 1.35x.
 
 ## Sammanfattning
 
-Wealth endures only when detached from founders’ operational life and anchored in asset-based liquidity architecture. Fund-III exploits this via institutional-grade Monetization Architecture—collateral, cashflow, and covenant design—converting static assets into dynamic, stress-tested capital that compounds across cycles while retaining control and velocity. Engineered. Structured. Repeatable.
+Asset-based liquidity engineering is the institutional backbone for multi-generational wealth, converting static assets into controlled, scalable capital. Fund-III leverages Monetization Architecture to optimize duration, velocity, and regulatory compliance, ensuring resilience against policy shocks and geopolitical risks. Discipline in structuring, not scale, drives enduring institutional dominance.

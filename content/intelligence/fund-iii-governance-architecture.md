@@ -34,4 +34,4 @@ Nothing below. Nothing compromised. One more point. Liquidity Engineering used o
 
 ## Sammanfattning
 
-Fund-III governance must be architected *before* capital raising—late fixes erode trust. Harden the spine: Board clarity, voting discipline, and allocator-grade reporting (quarterly consolidated, monthly operational, event-driven) with cross-border precision. Tone signals maturity; institutional allocators calibrate commitments to governance coherence, not numbers.
+Governance arkitekturen måste etableras före Fund‑III för att vinna institutionell tillit. Rapporteringsregimen kräver disciplinerad, snabb och okomplicerad exekvering med strikt hierarki och beslutsrättigheter. Strukturen måste vara frågebevis, gränsöverskridande och präglad av en principal-ledd ton som signalerar mognad och långsiktig hållbarhet.

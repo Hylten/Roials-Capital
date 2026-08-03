@@ -106,4 +106,4 @@ Asset-Based Lending becomes cheap. Energy partners commit faster. EU regulators 
 
 ## Sammanfattning
 
-En suverän balansräkning är en jurisdiktionell organism – en designad arkitektur som skulpterar regler, likviditet och permanens före kapital. Genom en strikt triad av jurisdiktioner (primär governance, sekundär bankrätt, tertiär optimering) skapas en mätbar *capital delta* som säkrar obegränsad kapitalanskaffning, strategisk belåning och specialmandat, eliminerar strukturell sårbarhet och gör GP:n oomkullrunkelig. Design först. Långsiktighet alltid.
+En suverän balansräkning är en jurisdiktionell organism som skulpterar kapitalflöden genom strukturell design – inte enbart kapitalallokering. Genom en hierarkisk jurisdiktionell triad (primär för förvaltning, sekundär för bankrättigheter, tertiär för optimering) säkerställs permanent likviditet, kreditvärdighet och kontinuitet, vilket eliminerar strukturella risker och skapar ett mätbart "kapitaldelta" som accelererar kapitalanskaffning för Fund-III. Design föregår kapital; felaktig struktur leder till utplåning.

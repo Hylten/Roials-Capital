@@ -65,7 +65,7 @@ is institutional alignment. For energy specific mandates, the operational intell
 
 ## The Stewardship Filter
 
-Stewardship is the discipline of resource management grounded in non-wasteful capital deployment. It is not mere rhetoric. It is a philosophical anchor for institutional capital in an era of short-horizon financial engineering. Stewardship requires three attributes.
+Stewardship is the discipline of resource management grounded in non-wasteful capital deployment. It aligns with the theological principle in long-term value preservation and ethical fiduciary duty.
 
 This is not rhetoric. It is a philosophical anchor for institutional capital in an era of short horizon financial engineering. Stewardship requires three attributes.
 
@@ -101,8 +101,8 @@ Operators must demonstrate technical mastery, cost discipline, and predictable c
 
 4. Evaluate alignment architecture.
 
-Allocators require frameworks that align incentives, enforce governance, and maintain stability across cycles. This is the domain where Roials Capital functions as the strategic architect. The alignment process is clear: professionals and institutions seeking to understand how sovereign wealth management reshapes private capital require a confidential strategy audit. The purpose is not solicitation. The purpose is clarity. Allocators benefit from a structured assessment of how their mandates intersect with sovereign archetypes, heavy oil resource opportunities, private credit structures, and cross-border buyout platforms.
+Allocators require frameworks that align incentives, enforce governance, and maintain stability across cycles. This is the domain where Roials Capital functions as the strategic architect. The alignment process is designed to provide professionals and institutions with a confidential strategy audit, enabling them to understand how sovereign wealth management reshapes private capital. The purpose is not solicitation, but clarity. Allocators benefit from a structured assessment of how their mandates intersect with sovereign archetypes, heavy oil resource opportunities, private credit structures, and cross-border buyout platforms.
 
 ## Sammanfattning
 
-Regulatorisk retrenchment i Nordamerika har skapat en kapitalvakuum som suveräna investerare fyller med flerårigt, geopolitiskt motiverat kapital. Deras långa horisont och strategiska prioriteringar omstrukturerar konkurrenslandskapet inom private equity, private credit och strategiska resursinvesteringar, vilket skapar asymmetriska möjligheter för aktörer som anpassar sig till deras paradigm.
+Sovereign wealth funds are reshaping North American private markets by filling a regulatory-driven capital void, deploying long-horizon capital for geopolitical resilience rather than cyclical returns. Their structural advantage, unconstrained by liquidity or benchmark pressures, creates asymmetric opportunities in energy, infrastructure, and buyouts, forcing traditional LPs to adapt or cede ground.

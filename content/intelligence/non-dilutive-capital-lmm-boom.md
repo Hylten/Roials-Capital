@@ -18,4 +18,4 @@ Non‑dilutive capital moves quiet. Moves fast. Moves where equity refuses to go
 
 ## Sammanfattning
 
-Non-dilutive capital is silently reshaping the lower-mid market—demand surges as PE sponsors prioritize control and velocity. Three engines drive this: precision capital for buyouts, secured credit architectures with sovereign collateral, and mandates for national-scale balance sheets. Mastering this defines the next decade’s winners.
+Non-dilutive capital accelererar tyst i lower-mid market genom tre strukturerade motorer: direktinjektioner för PE-buyouts, fullskalig säkerställd kredit med industriell säkerhetsryggrad, samt långsiktiga mandat för nationella balansräkningar. Effektivitet och kontroll prioriteras framför dilution, vilket skapar konkurrensfördel för sponsors som implementerar dessa lösningar.

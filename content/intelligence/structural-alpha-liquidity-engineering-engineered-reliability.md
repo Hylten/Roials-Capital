@@ -56,7 +56,7 @@ It provides operational intelligence, strategic frameworks, and Introduction cor
 
 ## The Stewardship Filter
 
-Stewardship is the discipline of non-wasteful resource management. It is a capital theology shaped by fiduciary responsibility and long-term value preservation.
+Stewardship is the discipline of non-wasteful resource management. It is a capital theology shaped by fiduciary duty and long-term value preservation.
 
 - .
 
@@ -82,4 +82,4 @@ Roials Capital conducts confidential strategy audits for allocators seeking to c
 
 ## Sammanfattning
 
-Regulatorisk drift och icke-linjär viktning skapar strukturell kapitalbrist trots robusta tillgångar. Asset-based liquidity engineering utnyttjar denna dissonans genom att omvandla reala tillgångars tillförlitlighet till tillgänglig likviditet, oavsett sektor eller jurisdiktion.
+Regulatorisk drift och efterlevnadskrav snedvrider kapitaltillgången för högkvalitativa tillgångar inom energi och private credit, trots robusta kassaflöden. Asset-based liquidity engineering fyller strukturella gap genom att omvandla tillgångsbaserad tillförlitlighet till likviditet, kritiskt för institutionella aktörer under MiFID II och hållbarhetsmandat. Effektiviserad kapitalallokering kräver modulerad expansion och decline management för att motverka policyinducerade likviditetstrappor.

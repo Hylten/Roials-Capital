@@ -34,7 +34,7 @@ Predictable downside floors. Unlimited scalability above the return watermark. A
 - Industrial control through majority buyouts
 - Technology ecosystems supporting non‑discretionary processes Energy, especially energy mandates corridors at $50M-$250M, remains one of the few domains where demand is non‑negotiable.
 
-Dessa utgör fundamentala nödvändigheter.
+Electricity, hydrocarbons, transport grids, and industrial inputs are not optional, not deferable, and required.
 
 - These do not waver.
 
@@ -132,4 +132,4 @@ Rigid discipline. Non-negotiable. We enter the execution requirement. Durable ca
 
 ## Sammanfattning
 
-Durable capital är en strukturell position, inte en idé—en arkitektur av förutsägbarhet där strategisk tillgångsfördelning och likviditet är verktyg, inte antaganden. Dess kärna: kassaflödesanknutna tillgångar, hierarkisk likviditet och regleringsneutralitet, designade för att motstå cykler och generera asymmetrisk uppsida. Utan mjukt kapital. Endast hård konstruktion.
+Durable capital är en strukturell position, inte en idé – dess arkitektur bygger på strategisk tillgångsfördelning, likviditet som verktyg och institutionell robusthet. Genom att förankra tillgångar i kassaflöden, förutbestämma riskvektorer och skapa en hierarki av likviditet säkerställs stabilitet och asymmetrisk uppsida under cyklisk osäkerhet. Effektivt genomförande kräver en hårdnande av kapitalstrukturen, där varje komponent – från tillgångsmaturation till regleringspositionering – är designad för att motstå kompression och succession.

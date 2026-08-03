@@ -18,7 +18,7 @@ The capital vacuum in North American and European private markets is driven by r
 
 ## The Regime Shift
 
-Private markets entered a new operational regime in 2024, marked by structural shifts in capital deployment and risk assessment. The shift is characterized by four macro dislocations that institutional allocators cite as primary drivers of liquidity reallocation.
+Private markets entered a new operational regime in 2024 to address structural liquidity constraints and evolving allocator demands.
 
 2026. The shift is characterized by four macro dislocations that institutional allocators cite as primary drivers of liquidity reallocation.
 
@@ -141,7 +141,7 @@ Allocators require full visibility into cash flow waterfalls, capital stack seni
 
 4. Intergenerational Alignment.
 
----
+Capital must be managed with a long horizon orientation in accordance with institutional fiduciary obligations and the structural demands of intergenerational alignment.
 
 - .
 
@@ -171,8 +171,8 @@ Does the project or portfolio offer conversion pathways into harder collateral, 
 
 5. Opportunity Velocity.
 
-Capital must be managed with a long horizon orientation in accordance with intergenerational stewardship principles, ensuring sustainable value creation across cycles.
+Are opportunities sequenced in a pattern that supports consistent deployment without compromising underwriting standards? Roials Capital provides confidential Strategy Audits and Portfolio Calibration Reviews to allocators requiring structural mapping, mandate evaluation, or cross-border navigation. The objective is clarity, precision, and institutional alignment.
 
 ## Sammanfattning
 
-Regulatorisk drift och fragmenterad likviditet skapar ett strukturellt kapitalunderskott i nordamerikanska och europeiska privata marknader – inte fundamentala svagheter. Precision financing etableras som avgörande disciplin för institutionella aktörer, med mandat segmenterade efter tillgångsstruktur, jurisdiktion och balansräkning för exekvering i buyouts, add-ons och energiinvesteringar.
+Institutionella investerare positionerar sig för strukturella fördelar genom precision financing, driven av regulatorisk drift, likviditetsfragmentering och tidsmismatch i kapitalallokering. Regimen 2026 präglas av fyra dislokationer: ökad kapitalfriktion (Basel III/IV), durationomställning, energisektorns policyklyfta och europeisk regleringskonsolidering, vilket skapar segmenterade mandat och institutionellt anpassad kapitalförsörjning.

@@ -66,10 +66,10 @@ Covenants are not guardrails. They are signals. They force early correction. If 
 
 ### Phase V: Exit Yield without velocity is idle. Velocity without structure is reckless.
 
-### Phase V: Exit
+We engineer both through a Fund-III architecture targeting a 1.5 to 1.8 times MOIC on senior-secured middle-market exposure with a 36 to 48 month duration band.
 
 36 to 48 month duration band. Request a confidential capital audit to determine alignment with Fund-III deployment parameters.
 
 ## Sammanfattning
 
-Bankregleringens permanenta tillbakadragande från mellanstora krediter skapar en strukturell lucka. Roials Capital utnyttjar detta genom disciplinerad LTV (35-55%), sponsorhastighet och kassaflödesfokus – där komplexitet genererar asymmetrisk riskjusterad avkastning i en mättad, men underutnyttjad, marknad.
+Regulatorisk bankretreat och sponsorers ökade transaktionshastighet skapar en permanent strukturell lucka i mellanstora kreditmarknaden. Roials Capital positionerar sig där komplexitet och bristande institutionalisering genererar asymmetrisk riskjusterad avkastning genom disciplinerad LTV-styrning (35-55%), kassaflödesfokus och accelererad återvinning.

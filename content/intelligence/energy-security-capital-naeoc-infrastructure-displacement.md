@@ -26,4 +26,4 @@ Multi-jurisdictional structuring under a single sovereign narrative. MiFID II ac
 
 ## Sammanfattning
 
-Sovereign-backed energy mandates dismantle legacy infra funds via direct, pre-secured deployments—command clarity over committee noise. Industrial throughput and defense-aligned corridors absorb midstream risk, weaponizing certainty to lock long-horizon yields beyond traditional covenants’ reach. Fund-III+ emerges as the insulated instrument for LPs prioritizing structural alignment over market volatility.
+State-backed energy mandates displace legacy infrastructure funds via sovereign tempo, pre-secured assets, and mechanical risk absorption, weaponizing certainty for long-horizon yields. Traditional funds, constrained by committee processes and covenants, cannot compete with command clarity or widening control premiums. Fund-III+ emerges as the preferred instrument for institutional LPs seeking insulated, large-scale deployments under national energy security objectives.

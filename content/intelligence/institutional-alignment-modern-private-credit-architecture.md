@@ -14,7 +14,7 @@ author: "Roials Capital (Institutional Briefing)"
 ---
 
 
-The structural gap between capital availability and operational demand in modern private credit is not a product of cyclical contraction. It is a consequence of institutional recalibration following fifteen years of mispriced risk, compressed covenants, and the withdrawal of conventional lenders amid heightened regulatory intensity. The result is a market defined by a scarcity of disciplined capital rather than a scarcity of viable borrowers. This condition shapes all current discussions on alignment, portfolio construction, and the repositioning of private credit within institutional mandates for 2026.
+The structural gap between capital availability and operational demand in modern private credit is not a product of cyclical contraction. It is a consequence of institutional recalibration after fifteen years of mispriced risk, compressed covenants, and the withdrawal of conventional lenders under heightened regulatory intensity. The outcome is a market defined by a scarcity of disciplined capital rather than a scarcity of viable borrowers. This is the defining condition that informs all current discussions on alignment, portfolio construction, and the repositioning of private credit within institutional mandates for 2026.
 
 2032. ### Phase I:
 
@@ -129,7 +129,7 @@ It is an alignment function that ensures LPs engage structures that meet their g
 
 ## The Stewardship Filter
 
-2032.
+Stewardship is the discipline of resource management anchored in restraint, governance, and accountability. In capital markets, stewardship requires a philosophy that mirrors the principles expressed in the stewardship filter, a structured evaluative framework designed to assess alignment between capital providers and asset stewards.
 
 The stewardship filter is composed of five evaluative criteria:
 
@@ -171,4 +171,4 @@ The role of Roials Capital is to ensure that alignment. The institutional progre
 
 ## Sammanfattning
 
-Private credit’s structural scarcity stems from institutional recalibration post-2008, where regulatory constraints and mispriced risk forced a retreat of traditional lenders, creating a disciplined capital gap—not a borrower shortfall. By 2026, LPs will treat it as a core portfolio stabilizer, prioritizing governance and collateral over opportunistic yield, reshaping the market into a structural, not tactical, allocation.
+Modern private credit faces structural scarcity of disciplined capital due to institutional recalibration post-2008, driven by regulatory constraints (Basel III/IV) and withdrawal of conventional lenders. The regime shift has redefined private credit as a core portfolio component, prioritizing governance and collateral over opportunistic yield, reshaping allocator-GP dynamics toward operational resilience.

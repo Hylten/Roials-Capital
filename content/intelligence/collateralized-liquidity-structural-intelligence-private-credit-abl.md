@@ -13,6 +13,7 @@ draft: false
 author: "Jonas Hyltén"
 ---
 
+
 Order is not an option. It is the prerequisite for all solvency.
 
 ### Phase I:
@@ -33,7 +34,7 @@ Hard assets that can be monetized rapidly.
 
 3. Tertiary collateral.
 
-Liquidity buffers, standby capacity, and engineered reserves that activate when constraints appear. The third layer of collateral—tertiary collateral—serves as a final safeguard against liquidity shocks, ensuring structural resilience even under extreme stress scenarios.
+Liquidity buffers, standby capacity, and engineered reserves activate when constraints appear. The third tier of collateralization ensures structural resilience by providing contingent liquidity solutions that mitigate systemic stress.
 
 ### Layer I: s where institutional advantage is built. It is where we remove insolvency scenarios from the probability set.
 
@@ -93,6 +94,4 @@ EXIT The sole metric that matters: liquidity coverage ratio must stabilize above
 
 ## Sammanfattning
 
-Regime shift: Kapital allokerar nu efter informationsdensitet, inte term sheets. Private credit-vinnare behandlar collateral som ett dynamiskt likviditetsinstrument—inte en statisk säkerhet—och vinner genom att kapitalisera på marknadens felprissättning av hastighet, säkerhet och återhämtning.
-
-Teknisk hierarki: Primär (kassaflödesgenererande tillgång), sekundär (monetiserbara hårdvaror), tertiär (likviditetsbuffertar) skapar strukturell motståndskraft. Endogen likviditet omvandlar LTV-kurvor till prediktiva riskparaboler, eliminerar insolvensscenarier och bygger institutionellt övertag.
+Regime shift: Private credit’s structural gap rewards lenders who engineer collateral as a dynamic liquidity system, not static security. Winners monetize information density, not term sheets, turning tertiary buffers into contingent engines that eliminate insolvency scenarios.

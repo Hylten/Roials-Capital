@@ -18,7 +18,7 @@ The capital vacuum in North America's energy sector is a consequence of regulato
 
 ## The Regime Shift
 
-The current regime shift is defined by three convergent pressures: capital misallocation in energy transition cycles, the withdrawal of traditional credit intermediation, and the realignment of institutional hurdle rates toward harder collateral structures. The North American energy ecosystem has entered a multi-year phase of underinvestment rather than overproduction.
+The current regime shift can be defined by three convergent pressures: capital misallocation in energy transition cycles, the withdrawal of traditional credit intermediation, and the realignment of institutional hurdle rates toward harder collateral structures. The North American energy ecosystem has entered a multi-year efficiency cycle, characterized by prolonged underinvestment in core infrastructure despite sustained demand fundamentals.
 
 ## Phase D: riven by underinvestment rather than overproduction. Since 2015, upstream and midstream operators have reduced capex intensity more than 40 percent while simultaneously extending productive life across legacy assets with stable decline curves.
 
@@ -66,10 +66,10 @@ pathways to energy operations for operators requiring institutional partners.
 
 - Portfolio calibration to align with 2026 macro constraints and opportunity velocity cycles.
 
-Since 2015, upstream and midstream operators have reduced capex intensity by more than 40 percent while simultaneously extending the productive life of legacy assets with stable decline curves.
+Legacy hardening is the advantage. Structural alignment is the execution. Institutional navigation is the differentiator.
 
 ##
 
 ## Sammanfattning
 
-Regulatoriskt drivet kapitalunderskott i Nordamerikas energisektor skapar strukturell efterfrågan på *legacy hardening*—en disciplin som omvandlar mogna tillgångar till flerperiodsankare i institutionella portföljer. Med traditionell kreditmarknad fragmenterad och ESG-driven utlåning i reträtt, skiftar kapitalflöden till privata kreditgivare och familjekontor, där fullt riskreducerad produktion och fysikbaserade återvinningsmetoder (ex. SAGD/CSS) utgör nyckeln till hållbar avkastning. Allokerare optimerar nu balansräkningar genom operationell intelligens, där mogna tillgångar och underkapitaliserade operatörer blir institutional grade strukturer.
+Regulatorisk drift driver kapitalbristen i Nordamerikas energisektor, vilket skapar strukturella möjligheter för hårdvaruinkomststrategier. Legacy hardening omvandlar mogna tillgångar till flerperiodsankare genom disciplinerad balansräkningsteknik. Allokerare prioriterar operativ intelligens och reala tillgångar i en fragmenterad kreditmarknad.

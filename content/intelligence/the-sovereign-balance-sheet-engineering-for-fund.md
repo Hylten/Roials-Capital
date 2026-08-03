@@ -68,7 +68,7 @@ These shifts are not temporary. They are structural. Families and institutions t
 
 The Roials Protocol for Sovereign Balance Sheets The Roials framework is built on three pillars. Each pillar supports Fund-III scale.
 
-Each pillar removes fragility. Each is engineered for execution under pressure.
+Each pillar removes fragility. Each pillar ensures resilience under stress.
 
 ### Pillar I: s engineered for execution under pressure. Pillar One Structural Alignment The foundation requires:
 
@@ -146,4 +146,4 @@ It does not reward speed without clarity. It does not subsidize disorganization.
 
 ## Sammanfattning
 
-En suverän balansräkning är en operativ doktrin som möjliggör riskomvandling, strategisk likviditet och flerårig kontinuitet – inte en redovisningsartefakt. Genom strukturell alignment och asset hardening skapas en audit-ready, covenant-vänlig struktur som eliminerar brus, säkrar institutionell engagemang och accelererar kapitalcykler. Covenant stewardship är kärnan: en förtroendefull, generationsöverskridande förvaltning som avgör om strukturen överlever marknaden.
+En suverän balansräkning är en operativ doktrin som möjliggör kontrollerad riskomvandling och strategisk likviditetsallokering. Strukturell alignment och asset hardening eliminerar frictions och omvandlar privata tillgångar till institutionell säkerhet, avgörande för Fund-III-beredskap. Covenant stewardship säkerställer långsiktig stabilitet och marknadsdominans.

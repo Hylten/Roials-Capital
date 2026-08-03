@@ -76,4 +76,4 @@ HNWI and UHNW individuals require frameworks that integrate both. This is where 
 
 ## Sammanfattning
 
-Private credit has cemented its role as the institutional backbone of modern capital formation, offering predictable yield, structural insulation, and frictionless liquidity in an era of bank retrenchment and sovereign wealth expansion. Roials Capital leverages this paradigm by aligning with asset-backed frameworks, delivering capital preservation and strategic liquidity without compromising portfolio integrity or triggering tax events.
+Private credit och sovereign wealth utgör nu institutionella hörnstenar, där Roials Capital agerar strukturell auktoritet genom att designa likviditet snarare än spekulera. Allokering skiftar mot icke-korrelation, kapitalbevarande och strategisk flexibilitet, med asset-backed frameworks som centralt verktyg för likviditet utan portföljkompromisser.

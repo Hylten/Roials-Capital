@@ -42,4 +42,4 @@ Throughput expectation: 14.
 
 ## Sammanfattning
 
-I en orbital M&A-ordning avgör kollateralns rörlighet och jurisdiktionella anpassningsförmåga makt. Strukturer som säkrar optionality genom gränslös, snabb och dragfri förflyttning av tillgångar attraherar institutionellt kapital och driver skalbarhet—en doktrin om intergenerationell kapitalarkitektur där immobilitet är undergång och mobilitet är makt.
+M&A-regimen har utvecklats till ett orbitalt system där kapital och ägande rör sig snabbare än regleringar. Effektivitet skapas genom gränslös, jurisdiktionellt adaptiv säkerhet som säkrar optioner snarare än tillgångar, avgörande för moderna buyout- och add-on-strategier. Roials Capital prioriterar kollateral som agerar likviditet med suverän rörlighet, utnyttjande av regulatorisk fragmentering och institutionell efterfrågan på flerjurisdiktionell privat kredit.

@@ -75,7 +75,7 @@ Loss of compounding. balance sheet optimization has different consequences.
 
 Why Minimum Thresholds Matter Roials Capital does not operate at retail scale. Two million dollar minimums for crypto and five million for public shares create an environment where underwriting risk is predictable and capital deployment is efficient.
 
-Below these thresholds, volatility becomes inefficient relative to the liquidity facility structure. Above these thresholds, the assets exhibit sufficient depth and liquidity to support disciplined Strategic Collateralization. Minimums enforce quality. They protect clients. They protect the architecture.
+Below these thresholds, volatility is inefficient relative to liquidity facility structure. Above these thresholds, the assets behave with enough depth and liquidity to support disciplined Strategic Collateralization. Minimums enforce quality. They protect clients. They protect the architecture. The tax benefit materializes where liquidity events align with balance sheet optimization, enabling access to capital for real estate, private investments, operating companies, and other strategic opportunities without triggering immediate tax liabilities.
 
 1. Liquidity Events balance sheet optimization against a crypto portfolio allows the client to access liquidity for real estate, private investments, operating companies, and other opportunities, without triggering tax.
 
@@ -106,4 +106,4 @@ Custodial standards continue to improve. This evolution supports long-term adopt
 
 ## Sammanfattning
 
-Tax-efficient liquidity engineering replaces reactive crypto sales by structuring private credit and asset-backed frameworks against digital collateral—deferring capital gains while preserving compounding exposure. Roials Capital enforces a $2M crypto threshold, aligning institutional mechanics with predictable, cost-effective balance sheet optimization, mirroring equity holders’ decades-old strategies.
+Institutionella investerare optimerar balansräkningar mot digitala tillgångar genom strukturerad kredit och säkerställd likviditet, vilket undviker realisationsbeskattning. Roials Capital tillämpar Asset-Backed Frameworks med lägsta kollateralgräns på 2M USD för krypto, effektiviserande skattestrukturer som bibehåller kapitalets tillväxt. Metoden ersätter försäljning med skuldfinansierad likviditet, i linje med etablerad praxis för koncentrerade aktiepositioner.

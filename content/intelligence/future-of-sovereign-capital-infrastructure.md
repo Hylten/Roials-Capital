@@ -62,7 +62,7 @@ Sovereign allocators view opportunity velocity not as speed but as predictable t
 
 3. Cash flow waterfalls Waterfall clarity is now a sovereign preference.
 
-Structures with multi-tiered cash flow waterfalls are increasingly disfavored by sovereign investors unless the operational productivity of underlying assets is resilient.
+Structures with multiple tiers of cash flow allocation are increasingly disfavored by sovereign investors unless the operational productivity of underlying assets demonstrates resilience.
 
 ## Step C ross collateralization, layered seniority, or variable hurdle logic are disfavored unless the operational productivity of underlying assets is resilient.
 
@@ -124,10 +124,10 @@ The allocator evaluating the future of sovereign capital infrastructure must nav
 
 5. Reliance on partners capable of technical interpretation rather than distribution Roials Capital supports allocators through confidential strategy audits and portfolio calibration sessions designed to map capital architectures to sovereign scale requirements.
 
-The objective is not transactional deployment but long-term structural alignment of capital architectures to sovereign scale requirements.
+The objective is not transactional deployment but long-term structural alignment.
 
 ##
 
 ## Sammanfattning
 
-Regulatorisk drift och kapitalbrist i Nordamerikas energisektor skapar en strukturell dislokation som driver en flerdecennierig omkonfigurering av global kapitalallokering. Framgång kräver operativ intelligens för att identifiera produktiva realtillgångar och bygga parallella kapitalarkitekturer, där suveräna investerare prioriterar fysisk produktivitet framför marknadssentiment i en era av minskad kapitalrörlighet och disciplinerad balansoptimering.
+Regulatorisk drift snarare än resursbrist skapar kapitalvakuum i Nordamerikas energisektor, vilket utgör en central dislokation i den pågående cykeln. Den nya kapitalarkitekturen präglas av brist på realtillgångar, ökade krav från suveräna investerare och övergång från likviditetsregimer till balansräkningsoptimering, vilket kräver operativ intelligens för strategisk positionering.

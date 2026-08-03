@@ -50,4 +50,4 @@ This principle informs allocation, leverage calibration, and counterparty select
 
 ## Sammanfattning
 
-Regime Shift 2026 avskaffar generisk risktranchering till förmån för strukturell stabilitet och kapitalhastighet, driven av politiskt snarare än tekniskt motiverad kreditrestriktion i kritiska sektorer som nordamerikansk energi. UHNW-operatörer och familjekapital kräver nu institutionella ramverk som prioriterar kassaflödesförutsägbarhet, kollateralalignment och operativ tempo-match – en strukturell brist som standardutlånare inte kan fylla.
+Regulatorisk avvikelse snarare än resursbrist driver kapitalunderskottet i Nordamerikas energisektor, vilket accelererat en omställning där traditionella balansräkningsmodeller inte längre matchar likviditetskraven för högpresterande entreprenörer. Strategisk kreditarkitektur för UHNW-operatörer och familjeföretag fokuserar nu på strukturell motståndskraft, kapitalanskaffning för buyout, likviditetsteknik via ABL och hybridstrukturer samt specialmandat som kopplar samman nordamerikansk energi med europeiskt MiFID II-kompatibelt familjekapital.

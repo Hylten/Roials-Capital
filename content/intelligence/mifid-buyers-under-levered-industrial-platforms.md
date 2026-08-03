@@ -34,4 +34,4 @@ EU MiFID II acquisition programs look for the same. Industrial predictability. L
 
 ## Sammanfattning
 
-MiFID II buyers now demand industrial platforms with minimal leverage and tangible operational stability, aligning with regulatory rigor and trans-Atlantic acquisition norms. Under-levered platforms accelerate execution certainty and capital deployment, while structured ABL financing reinforces acquisitive roll-ups within defined thresholds. Prioritize infrastructure-grade predictability—allocators seek real capital, not financial abstraction.
+MiFID II-köpare prioriterar nu underbelånade industriella plattformar för regulatorisk säkerhet och stabila kassaflöden. Enkel kapitalstruktur och mätbar operativ prestanda ökar köparnas förtroende och accelererar transaktionscykler.

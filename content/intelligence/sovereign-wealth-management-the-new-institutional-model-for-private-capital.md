@@ -62,4 +62,4 @@ One that acknowledges the complexity of private holdings. One that is built on t
 
 ## Sammanfattning
 
-Sovereign wealth management has evolved into a private, structural necessity—liquidity is now the defining metric of portfolio sovereignty. Roials Capital engineers bespoke liquidity architectures to transform illiquid, high-value assets into deployable capital, ensuring clients operate beyond legacy constraints and institutional gatekeepers. This is not optimization; it is the irreversible architecture of modern wealth.
+Sovereign wealth management has evolved into a private, structural shift driven by fragmented capital formation and asymmetric liquidity. Roials Capital addresses this by prioritizing liquidity architecture over traditional portfolio strategies, enabling sovereign-like independence from institutional gatekeepers.

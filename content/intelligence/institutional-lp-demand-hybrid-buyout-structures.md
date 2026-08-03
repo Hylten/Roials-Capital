@@ -18,4 +18,4 @@ Higher-for-longer changed the cadence. LPs want shape, not stories. They want pr
 
 ## Sammanfattning
 
-Hybrid buyout structures restore LP discipline: secured yield, clear control, and defined cash glidepaths—hard edges, clean math. Jurisdictional arbitrage and industrial targets demand operational authority; the hybrid stack delivers singular command, regulatory clarity, and frictionless execution. This is not a trend—it’s the institutional correction to a market that forgot discipline.
+Hybrid buyout structures restore LP discipline via precise control economics, secured yield, and single-command execution, addressing higher-for-longer rate regimes. Jurisdictional arbitrage (speed, order, regulatory shape) and industrial targets demand operational authority, with hybrid stacks ($2M/$5M floors) eliminating friction. This is not a trend but the institutional correction: decisive, sober, and cycle-proof.

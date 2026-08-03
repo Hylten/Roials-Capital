@@ -172,8 +172,8 @@ Capital that sits idle or capital that is deployed into structurally inefficient
 
 ### Step I is often a confidential strategy audit or a portfolio calibration dialogue.
 
-### Step I is often a confidential strategy audit or a portfolio calibration dialogue.
+These consultations focus on structure, not solicitation. The goal is to evaluate alignment, fit, and architectural integrity. A sovereign balance sheet is not a stylistic choice, it is an operational requirement in a fragmented and regulation-heavy capital regime. Allocators with sovereign-grade structures will dominate acquisition velocity over the next decade, while those without will experience slippage, delay, and compression.
 
 ## Sammanfattning
 
-Regulatorisk översträckning och kapitalelasticitetens kollaps har skapat en permanent fragmentering i det institutionella kapitalregimet, där traditionella GPs lider under transaktionsosäkerhet och LTV-degradering. Endast GPs med suverän balansräktsarkitektur – särskilt inom tung olja i Albertakorridoren – erhåller asymmetrisk tillgång till skuld, förvärvsresurser och cross-cycle optionality. Allokatorer måste anpassa sig till denna strukturella realitet för att säkra kapitalbildning i Fund-III/IV.
+Regulatorisk översträckning (MiFID II, Basel III) och bankernas strukturella fördröjning skapar en permanent kapitalvakuum, vilket gynnar GP:er med suveränliknande balansräkningar som erhåller asymmetrisk tillgång till skuld och förvärvsresurser. Fragmenteringen mellan likviditet och förvärvshastighet driver en skarp uppdelning där traditionella modeller misslyckas, medan specialiserad ingenjörskonst (ex. Alberta-energikorridoren) skapar förutsägbarhet i en osäker marknad. Allokerare positionerar sig för Fund-III/IV genom datadriven analys av balansräkningens arkitektur, bortom relationsbaserade beslut.

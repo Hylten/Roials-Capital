@@ -111,4 +111,4 @@ is clear. Conduct the confidential capital audit.
 
 ## Sammanfattning
 
-Balance sheets now hemorrhage silently—trapped equity, rigid collateral, and obsolete liquidity postures erode advantage before stress appears. Winners recalibrate capital velocity, not cost, by releasing dormant assets without surrendering control, while stragglers remain shackled to structural inertia. The regime demands silent leverage: architectures that act before friction is felt.
+Strukturella kapitalgap – koncentration, sekvensering och auktoritet – skapar tysta kostnader som underminerar lönsamhet innan likviditetsstress uppstår. Den nya regimens avgörande är kapitalets rörlighet, inte kostnaden, där effektiv arkitektur frigör bundet kapital utan att äventyra kontroll.

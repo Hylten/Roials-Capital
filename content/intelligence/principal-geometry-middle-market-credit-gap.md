@@ -84,7 +84,7 @@ Always.
 
 - reinforces it.
 
-Structure inherits. Chaos evaporates. If you operate a Fund‑III or prepare to raise one,
+Structure inherits. Chaos evaporates. If you operate a Fund‑III or are preparing to raise one, reinforces it.
 
 ## The Mandate
 
@@ -92,4 +92,4 @@ is simple: verify your geometry. Confirm your capital architecture. Validate you
 
 ## Sammanfattning
 
-Middle market credit gap widens structurally as banks retreat, sponsors expand, and capital density shifts asymmetrically. Fund-III managers with hard collateral preference, repeatable playbooks, and cross-border pathways exploit institutional arbitrage zones, where geometry of structure—not sentiment—dictates profitability and LP fidelity. Precision and conviction are non-negotiable; slippage collapses.
+Middle market credit gap widens structurally as lenders retreat, sponsors expand, and covenant risk rises. Institutional intervention demands precision, multi-jurisdictional scale, and hard-collateral bias to exploit capital asymmetry. Fund-III managers with repeatable playbooks and regulatory-aligned structures capture the arbitrage zone.

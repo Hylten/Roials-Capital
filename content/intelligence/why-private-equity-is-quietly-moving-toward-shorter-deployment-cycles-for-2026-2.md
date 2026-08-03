@@ -15,7 +15,7 @@ author: "Roials Capital"
 
 ## The Structural Truth
 
-The structural truth
+Cycles compress when inefficiencies die. Supply chain slack, capital indiscipline, and cheap liquidity have all but vanished. Private equity must adapt, and it is adapting. What follows is not speculation but architecture.
 
 1. THE PRESSURE FROM MULTI-VINTAGE STACKING The post‑COVID era created an artificial sequencing distortion.
 
@@ -75,7 +75,7 @@ They allocate to GPs whose workflow removes friction and demonstrates inevitabil
 
 1. Front‑loaded deal visibility 2.
 
-Cycles compress when inefficiencies die. Many have already perished—supply chain slack, capital indiscipline, cheap liquidity. Private equity must adapt, and it is doing so. What follows is not conjecture but structural reality.
+Time-compressed due diligence, verified succession-ready sellers, and pre-cleared industrial families across EU and NA.
 
 5. Fully aligned private credit partners
 
@@ -122,4 +122,4 @@ Request confidential capital audit below.
 
 ## Sammanfattning
 
-LP:s kräver accelererad kapitalallokering. Strukturella skiften—minskad multi-vintage-stacking, snabbare transaktionsflöden, industrialiserade processer och add-on-driven tillväxt—tvingar GP:s att korta ner deployeringscykler för att möta nya prestationskrav. De som inte levererar kontinuerlig rörelse riskerar att förlora mandat.
+Private equity skiftar mot kortare investeringscykler till 2026 driven av LP-krav på snabbare kapitalomsättning, minskad ineffektivitet och förbättrad transaktionsdynamik. Strukturella förändringar som add-on-strategier, industrialiserade processer och integrerad private credit accelererar underwriting och värdeskapande.

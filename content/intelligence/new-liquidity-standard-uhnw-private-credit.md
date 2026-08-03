@@ -18,7 +18,7 @@ UHNW portfolios fail at one point: liquidity asymmetry. Not solvency. Not asset 
 
 Cycle‑proof armor.
 
-Layer C: credit lines. They reinforce equity stacks.
+Institutional capital internalizes this as mandate: future protection requires present architecture. Wealth continuity equals liquidity continuity. Without liquidity continuity, portfolio permanence collapses. UHNW families now behave like sovereign funds: they prioritize liquidity layers, not discretionary asset mixes. They demand private credit structures that move capital without frictions. They require jurisdictional pathways that do not choke under regulatory shifts. They want the same system GPs use internally, fast, silent, and uncompromising. Private credit is no longer an alternative sleeve. It is the liquidity standard. The default. The battleground for capital mobility. The defense line for Fund-III sponsors scaling acquisition tempo. The stabilizer for energy mandates and MiFID II energy mandates. The leverage point for asset-backed liquidity and mid-cycle capitalization resets.
 
 ## Layer C: redit lines. They reinforce equity stacks.
 
@@ -37,4 +37,4 @@ Capital readiness ratio target: 1.47x.
 
 ## Sammanfattning
 
-Institutionell private credit är inte en option, utan nödvändig strategisk rustning för UHNW-portföljer. Genom strukturerad asset-backed lending och kreditfaciliteter skapas obrutna kontrollkedjor och cross-cycle stabilitet, där djup hävstång lönar disciplin och straffar svagheter.
+Institutionell private credit ersätter traditionella likviditetsreserver som strategisk skyddsmekanism för UHNW-portföljer, driven av behovet av snabb, regleringsresistent kapitalmobilitet. Strukturell likviditet via asset-backed lending och kreditlinjer skapar cykliskt motståndskraftig stabilitet, särskilt inom energisektorn och MiFID II-anpassade förvärv. Långsiktig förmögenhetsbevarande kräver idag likviditetsarkitektur snarare än diskretionär tillgångsfördelning.

@@ -100,4 +100,4 @@ Fund-III does not operate for the quarter. Nor for the election cycle. The frame
 
 ## Sammanfattning
 
-Sovereigns face structural collapse not from asset scarcity but failed institutional architecture—liquidating soft collateral while hard assets (energy, minerals, royalties) regain primacy. The liquidity bifurcation deepens as private capital, armed with intraday discipline, outmaneuvers ossified ministries, migrating toward long-term stewardship of cash-flowing assets. Rebuild the transmission system or cede strategic dominance to Fund-III’s hard-collateralized model.
+Sovereigns face structural collapse not from asset scarcity but from failing institutional infrastructure that seizes collateral transformation and credit transmission. The regime shift toward hard collateral (energy, minerals, royalties) and private stewardship, exacerbated by liquidity bifurcation and fiscal entropy, demands immediate reconstruction of sovereign capital architecture to restore trust and enforce consistency.

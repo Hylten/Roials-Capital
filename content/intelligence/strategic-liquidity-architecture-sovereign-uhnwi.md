@@ -20,7 +20,7 @@ The capital vacuum in North America's energy sector is a consequence of regulato
 
 ## The Regime Shift
 
-The North American energy markets in 2026 are defined by three simultaneous dynamics. First, traditional capital providers are withdrawing from upstream and thermal-heavy production due to policy signaling rather than resource behavior. Second, public operators face compression in reserve replacement ratios under ESG indexing pressure. Third, private buyers are re-emerging, recognizing that heavy and thermal barrels with long decline curves represent a form of natural collateralization that exceeds the volatility of light tight oil or renewables. The Alberta landscape exemplifies this shift most pronouncedly. The province holds some of the lowest geopolitical risk barrels globally, yet they remain systematically undervalued due to model-based misconceptions regarding the long-term stability of steam-reliant production.
+North American energy markets in 2026 are defined by three simultaneous dynamics. First is the withdrawal of traditional capital providers from upstream and thermal heavy production due to policy signaling rather than resource behavior. Second is the compression of reserve replacement ratios across public operators due to ESG indexing pressure. Third is the re-emergence of private buyers who understand that heavy and thermal barrels with long decline curves represent a form of natural collateralization that exceeds the volatility of light tight oil or renewables. The Alberta landscape is the most pronounced example of this shift. The province contains some of the lowest geopolitical risk barrels in the world, yet they remain systematically undervalued due to model-based misconceptions. The long-term stability of steam-reliant production is often misunderstood by generalist capital allocators.
 
 2022. The ecosystem is reshaping around counterparties who understand the regulatory cadence, the land tenure system, and the field-level data emerging from brownfield redevelopment.
 
@@ -56,8 +56,8 @@ Institutional allocators increasingly apply this lens in sectors where resource 
 
 ## A Decision Making Lens for the Allocator
 
-2022. The ecosystem is reshaping around counterparties who understand the regulatory cadence, the land tenure system, and the field-level data emerging from brownfield redevelopment.
+Sophisticated allocators in 2026 are navigating an environment where traditional public markets do not provide sufficient diversification, private equity vintages are elongated, and liquidity windows are asymmetrical. Strategic Liquidity Architecture involves repositioning capital into structures that combine durability, operational transparency, and cross-border optionality. This is the purpose of the Roials Capital institutional briefing model, which aims to provide allocators with the operational intelligence required to evaluate structural arbitrage opportunities within the North American energy landscape and to understand how strategic partners like energy operators integrate into a broader multi-asset liquidity framework. Allocators who seek deeper clarity on these structures typically begin with a confidential strategy audit, which establishes the governance framework for implementation.
 
 ## Sammanfattning
 
-Regulatorisk drift snarare än resursutarmning skapar kapitalvakuum i Nordamerikas energisektor, vilket missgynnar stabila kassaflöden från tunga och termiska tillgångar—särskilt i Alberta. Allokerare bör ompröva portföljarkitekturen för att kapitalisera på undervärderade, långsiktiga tillgångar med naturlig säkerhetsmässig stabilitet, driven av regulatorisk insikt och fältdata.
+Regulatorisk avvikelse, ej resursbrist, driver kapitalvakuum i Nordamerikas energisektor. Allokeringsmönster ignorerar stabila kassaflöden från konventionella och termiska tillgångar i Alberta, vars undervärdering utgör strukturell arbitragemöjlighet för sofistikerade portföljer.

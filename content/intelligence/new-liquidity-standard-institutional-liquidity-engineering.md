@@ -123,4 +123,4 @@ is simple: transform trapped public value into redeployable private capital with
 
 ## Sammanfattning
 
-Public markets’ mark-to-market liquidity is an illusion; concentrated exposures (>$5M in single issuer) are structurally illiquid due to collapsed depth and regulatory constraints. The New Liquidity Standard mandates engineered private liquidity—strategic collateralization calibrated to volatility, float, and covenants—not debt or margin—to preserve value and enable reallocation. Stewardship demands institutional engineering; Monetization Architecture is the gatekeeper to unlock trapped capital.
+Den strukturella likviditetsbristen i publika marknader tvingar koncentrerade aktieägare att ompröva strategier; traditionell mark-to-market-likviditet är en myt, och institutionell ingenjörskonst krävs för att omfördela värde. Basel III och minskad marknadsdjup har skapat en permanent regim där blockaffärer >1% av flottan förvränger priset, vilket gör strukturerad privat likviditet nödvändig för kapitalbevarande. Monetization Architecture blir avgörande för att konvertera "fången kapital"-exponering till produktiva strukturer.

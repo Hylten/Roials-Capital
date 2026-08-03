@@ -46,7 +46,7 @@ These assets support intraday liquidity, margin efficiency, and cross collateral
 
 3. Soft Collateral Examples: equity pledges, subordinated claims, intellectual property.
 
-These assets typically structure the mezzanine or unsecured layers. Digital assets function in a similar capacity.
+These assets typically structure the mezzanine or unsecured layers, while digital assets function within this category.
 
 2. They do not replace cash flow collateral but reinforce its liquidity profile.
 
@@ -120,4 +120,4 @@ This architecture positions Fund-III for accelerated close cycles, higher operat
 
 ## Sammanfattning
 
-Regulatorisk Basel III och MiFID II tvingar institutioner att omklassificera tillgångar, där digitala och tokeniserade kollateral nu utgör en kritisk del av likviditetsarkitekturen. Fund-III positionerar sig för att kapitalisera på denna strukturella förändring genom att integrera realtillgångar och digitala primitiver i en enhetlig, operationellt robust likviditetsstrategi.
+Regulatoriska kraven (Basel III, MiFID II) och digitala tillgångars mognad tvingar institutionella aktörer att omdefiniera likviditetsarkitekturen. Fund-III positionerar sig strategiskt genom att integrera tokeniserade tillgångar, traditionella realtillgångar och digitala collateral i en sammanhängande struktur för att säkra balansräkningens flexibilitet och kapitaltillgång före 2026.

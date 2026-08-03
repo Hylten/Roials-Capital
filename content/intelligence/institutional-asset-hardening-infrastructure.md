@@ -181,7 +181,7 @@ Buyout. Add-on. Consolidate. Harden. Elevate. Repeat. Institutional cycles rewar
 
 ## Axis Eleven: Final Positioning
 
-Fund III stands at the inflection point. Energy volatility creates entry windows. Industrial fragmentation creates consolidation lanes. LPs require hardened assets. Banks seek structured borrowers. Mandates demand execution partners.
+Fund III stands at the inflection point. Energy volatility creates entry windows. Industrial fragmentation creates consolidation lanes. LPs need hardened assets. Banks need structured borrowers. Mandates need execution partners. We position at the convergence of these forces.
 
 Sovereign-grade design. Kapitalanskaffning drives the engine.
 
@@ -189,4 +189,4 @@ Monetization Architecture stabilizes the engine. Special mandates scale the engi
 
 ## Sammanfattning
 
-Institutionell kapitalhärdning kräver en strukturell suverän arkitektur som transformerar juridisk jurisdiktion till exekveringshastighet, skapar asymmetrisk avkastning genom kontrollerade kollisioner mellan lag, kapital och industriell verksamhet. Fund-III designas för 80% allokeringsflöde mot expansionskapital genom regleringsarbitrage, modulära transaktioner och jurisdiktionell isolering, vilket säkrar förutsägbara kassaflöden, reducerad LP-risk och förstärkt förhandlingsmakt vid förvärv.
+Institutionell kapitalhärdning kräver strukturell suveränitet: jurisdiktion, kontroll och design skapar asymmetrisk avkastning genom regulatorisk arbitrage, modulär transaktionsarkitektur och kassflödesoptimerad kapitalstrukturering. Roials Capital konstruerar en 80% expansionsriktad plattform för Fund-III med förutsägbara drawdowns, recap-cykler och audit-ready säkerhetslogik, vilket maximerar LP-bargaining power och minskar underwriting-slippage.

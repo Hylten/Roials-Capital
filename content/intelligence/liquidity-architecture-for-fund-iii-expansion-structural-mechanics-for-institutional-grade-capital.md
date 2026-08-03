@@ -54,7 +54,7 @@ What matters is not the asset category. What matters is the asset’s precision 
 
 000. This preserves structural integrity.
 
-It allows us to maintain institutional level underwriting while avoiding the volatility contamination that occurs in small-sized crypto credit portfolios. The objective is not speculative leverage. The objective is controlled liquidity extraction from digital collateral that behaves predictably under professional custody. Fund-III integrates crypto Strategic Collateralization only where the digital asset functions like an institutional asset. Liquidity is manufactured through conservative liquidity facility to value, multi-tier collateral monitoring, and limited duration structures that protect the fund. Crypto is not the frontier. Crypto is simply another collateral class when treated with correct architectural discipline. Public Share Strategic Collateralization in Fund-III begins at 5,000,000. This threshold is not arbitrary.
+Public Share Strategic Collateralization in Fund-III begins at 5,000,000, a threshold that is not arbitrary. It allows us to maintain institutional-level underwriting while avoiding the volatility contamination that occurs in small-sized crypto credit portfolios. The objective is not speculative leverage but controlled liquidity extraction from digital collateral that behaves predictably under professional custody. Fund-III integrates crypto Strategic Collateralization only where the digital asset functions like an institutional asset. Liquidity is manufactured through conservative liquidity facility to value, multi-tier collateral monitoring, and limited-duration structures that protect the fund. Crypto is not the frontier; it is simply another collateral class when treated with correct architectural discipline.
 
 000. This threshold is not arbitrary.
 
@@ -95,7 +95,7 @@ These principles allow the fund to absorb liquidity shocks without constriction.
 
 Designing Velocity Without Compromise Velocity is only beneficial when it does not degrade collateral. Acceleration without erosion is the core challenge of modern liquidity structuring.
 
-Fund-III addresses this through a controlled velocity model. We do not maximize liquidity facility to value. We maximize sustainability of liquidity extraction. This requires discipline. It also requires an understanding that most liquidity failures occur when velocity outruns collateral precision. Our architecture prevents that misalignment before the liquidity facility is ever issued. Multi-layer collateral monitoring ensures alignment between velocity and collateral integrity.
+Fund-III addresses this through a controlled velocity model. We do not maximize liquidity facility to value. We maximize sustainability of liquidity extraction. This requires discipline. It also requires an understanding that most liquidity failures occur when velocity outruns collateral precision. Our architecture prevents that misalignment before the liquidity facility is ever issued.
 
 ## Layer L: I
 
@@ -111,4 +111,4 @@ Fund-III avoids these pitfalls through architectural rigor. This rigor is eviden
 
 ## Sammanfattning
 
-Fund-III etablerar en institutionsgraderad likviditetsarkitektur genom strategisk säkerställning av kredit, tillgångar och institutionell krypto, designad för att absorbera volatilitet och skapa stabil likviditet i en värld präglad av likviditetsskärpa. Genom rigorös säkerhetsintegritet, kontrollerad likviditetsutnyttjandegrad och auktoritativ struktur institutionaliserar vi koherens under stress, med privat kredit som fundament för stabilitet och tillgångsbaserad säkerställning som kärnallokering.
+Fund-III etablerar en robust likviditetsarkitektur genom strukturell strategisk kollateralisering, med fokus på privat kredit och tillgångsbaserade ramverk för att hantera volatilitet och säkra institutionell precision. Arkitekturen bygger på tre pelare: kollateralintegritet, kontrollerad likviditet via LTV-mätning och auktoritet snarare än marknadsföring, designad för att upprätthålla koherens under stress. Privat kredit utgör fundamentet genom stabilitet och förutsägbara kassaflöden, vilket möjliggör billigare likviditet för HNWI/UHNW-segmentet.

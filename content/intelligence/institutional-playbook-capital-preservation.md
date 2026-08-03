@@ -92,7 +92,7 @@ This is not advisory in the traditional sense. It is architectural guidance that
 
 ## The Stewardship Filter
 
-Capital preservation is not a defensive posture. It is a stewardship discipline. Stewardship is the systematic prevention of capital degradation, operational waste, and structural decay across assets and institutions. The theological foundation comes from the principle of intergenerational equity, where sustainability of resources across generations is treated as a moral obligation.
+Capital preservation is not a defensive posture. It is a stewardship discipline. Stewardship is the systematic prevention of capital degradation, operational waste, and structural decay across assets and institutions. The theological foundation comes from the stewardship principle, where sustainability of resources across generations is treated as a moral obligation.
 
 - , where sustainability of resources across generations is treated as a moral obligation.
 
@@ -121,4 +121,4 @@ Preservation must survive rates rising, rates falling, regulatory changes, and s
 
 ## Sammanfattning
 
-Kapitalbevarandets nya paradigm kräver strukturell intelligens: investera i tillgångar med förutsägbara nedgångskurvor, hårda säkerheter och motcyklisk efterfrågan. I fragmenterade kapitalregimer skapas defensivt värde genom operationell precision och taktisk monetarisering, särskilt i nordamerikansk konventionell energi där regleringsdrift skapat artificiell kapitalbrist. Endast aktiva, ingenjörsmässiga allokeringsstrategier bevarar kapital i Basel III-era.
+I en fragmenterad kapitalregim kräver kapitalbevarande strategier en skift från diversifiering till ingenjörskonst. Allokerare bör prioritera tillgångar med förutsägbara nedgångskurvor, hård säkerhetsvärdering och motcyklisk efterfrågeelasticitet, särskilt inom nordamerikansk konventionell energi där strukturell kapitalbrist skapar institutionell arbitrage. Integrering av Fund-III-sekvensering, taktisk monetiseringsarkitektur och operationell intelligens är avgörande för att bevara värde i en miljö präglad av regleringsdrift och balansräkne-stratifiering.

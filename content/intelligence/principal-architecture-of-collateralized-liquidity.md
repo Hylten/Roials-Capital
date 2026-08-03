@@ -18,7 +18,7 @@ The sovereign machinery begins with a simple assertion: capital obeys structure,
 
 Liquidity Architecture Fundamentals Capital raising for Fund-III and beyond demands a mechanical fluency that exceeds traditional private equity playbooks. Most GPs understand underwriting.
 
-Liquidity architecture represents the third dimension beyond portfolio operations—one that most GPs overlook. Collateralized liquidity is the mechanism by which sponsors transition from opportunistic deal execution to repeatable, cross-cycle velocity. The market—and institutional LPs—reward velocity, but only when it is structurally pre-engineered before acquisition, not retrofitted in response to crisis or compression. Most funds operate reactively, scrambling for liquidity when timelines tighten or crises emerge, signaling improvisation rather than design. Improvisation is a tax.
+Many understand portfolio operations. Very few grasp the third dimension: liquidity architecture. And that third dimension is the territory in which Roials Capital operates with strategic dominance. Collateralized liquidity is the mechanism through which a sponsor transcends deal-by-deal opportunism and enters the domain of repeatable, cross-cycle velocity. The market rewards velocity. Institutional LPs reward velocity with consistency. And consistency is a function of liquidity structurally pre-engineered before the acquisition moment, not after. This is why the majority of funds operate reactively. They search for liquidity when a crisis emerges, or when timelines compress, or when an opportunistic add-on demands rapid execution. That posture reveals weakness. It signals to the market that the sponsor lives in the world of improvisation rather than design. Improvisation is a tax.
 
 ### Axis I:
 
@@ -46,4 +46,4 @@ Roials Capital absorbs that complexity and extracts the execution clarity. Every
 
 ## Sammanfattning
 
-Kapital underordnas struktur, inte marknadssentiment. Collateralized liquidity är en operativ doktrin som skapar skalbar, jurisdiktionsoberoende tillförlitlighet—ett avgörande övertag för de som konstruerar flöden före kris, inte improviserar under den. Principiell arkitektur bygger på hierarkisk intelligens: asset-, jurisdiktion- och temporal intelligens för att omvandla opportunism till repeterbar, cross-cycle hastighet.
+Struktur avgör kapitalflöden över tid, oavsett marknadsstämning. Roials Capital tillämpar *collateralized liquidity* som operativ doktrin för att säkra skalbar, jurisdiktionsoberoende likviditet genom disciplinerad, hierarkisk arkitektur. Långsiktig dominans kräver förmåga att pre-engineera likviditet – inte improvisera vid kris.

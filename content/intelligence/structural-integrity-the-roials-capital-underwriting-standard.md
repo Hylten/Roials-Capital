@@ -13,8 +13,7 @@ draft: false
 author: "Jonas Hyltén"
 ---
 
-
-Institutional capital gravitates toward structures of predictability.
+It is The Mandate. Institutional capital flows toward order.
 
 . Institutional capital flows toward order.
 
@@ -208,4 +207,4 @@ We evaluate who earns access.
 
 ## Sammanfattning
 
-Institutionell kapital strömmar till strukturer av förutsägbarhet – Roials underwritingstandard är en filter som skiljer disciplinerade förvaltare från opportunister. Genom att hårdgöra tillgångar, säkra förpliktelsefullt ledarskap och säkerställa exekveringshastighet elimineras strukturell risk; endast de som uppvisar oantastlig integritet och motståndskraft kvalificerar sig som kapitalförvaltare.
+Roials Capital underwrites strukturell integritet genom tre pelare: *Asset Hardening* (verifierbarhet, konverteringspotential, jurisdiktionell stabilitet, motpartsrisk, tid till kontroll), *Covenant Stewardship* (principbaserade beslut, operationell arv, moralisk riktning) och *Execution Velocity*. Endast tillgångar och förvaltare som uppfyller dessa invarianta kriterier kvalificerar sig för institutionell kapitalallokering.

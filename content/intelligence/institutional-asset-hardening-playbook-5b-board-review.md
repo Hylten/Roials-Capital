@@ -196,4 +196,4 @@ This briefing stands on one metric: Institutional Survivability Index = 0. 87 or
 
 ## Sammanfattning
 
-En $5B boards kräver ingen improvisation – endast strukturell oundviklighet. Härdning av tillgångar sker via balansräkningens kontroll, jurisdiktionell exekverbarhet och regulatorisk förutsägbarhet, där intäktsflöden, säkerheter och regelverk utgör de tre pelarna för institutionell tyngdkraft. Kapital följer kontroll; kontroll kräver arkitektur.
+En $5B styrelsegranskning kräver strukturell kontroll, inte improvisation. Härdning av tillgångar genom balansräkningssoliditet, jurisdiktionell säkerhet och motståndskraftig intäktsarkitektur skapar institutionell trovärdighet. Kapital följer auktoritet – avgörande för att säkra och expandera fondens mandat.

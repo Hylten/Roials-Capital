@@ -13,10 +13,9 @@ draft: false
 author: "Roials Capital"
 ---
 
-
 principal authority is not a stylistic choice. It is the operating layer beneath every capital‑intensive institution that survives past its first growth cycle. Balance sheets do not reveal it. Ledgers do not model it. Yet every decisive movement in buyout markets, structured liquidity windows, and regulated acquisition corridors stems from its presence or its absence.
 
-Institutionell dominion är helt enkelt compounding uttryckt genom governance, risk och räckvidd. Den moderna balansräkningen har blivit ett fragmenterat slagfält. Reglering komprimerar manöverutrymmet. LP-kommittéer accelererar due diligence-cykler men bromsar övertygelse. Kapitalkostnader har vidgats. Likviditetskonvertering har förlängts. Klyftan mellan kontroll och ägande har vuxit.
+Institutional dominion is simply compounding expressed through governance, risk, and reach. The modern balance sheet has become a fragmented battlefield. Regulation compresses maneuvering room. LP committees accelerate diligence cycles but slow conviction. Capital costs widened. Cash conversion elongated. The spread between control and ownership grew. Meanwhile, Fund-III vehicles, those entering the inflection zone between maturity and expansion, face two simultaneous pressures: the need for predictable institutional inflows and the need for tactical liquidity autonomy. Principal authority emerges in the gap. This brief outlines how authority is architected, not claimed, how capital is raised, not requested, how liquidity is engineered, not hoped for, and how acquisition rights are secured before competitors even detect a signal. Machine-gun pace. No filler. No drift. The architecture begins with silence.
 
 . Kapitalanskaffning as a discipline, not an activity.
 
@@ -48,4 +47,4 @@ Terminal metric: 1.6x liquidity coverage ratio.
 
 ## Sammanfattning
 
-Institutionell dominans är compounding genom strukturell legitimitet—ej ambition. Fund-III med bevisad DPI, hard-asset adjacency och disciplinerad balansräkning (governance, covenants, collateralisering) vinner mandat; LPs köper kontinuitet, ej drömmar. Add-ons är acceleranter för syntetisk compounding, ej plattformsbyggande—målet är auktoritet genom reglerad expansion i fragmenterade, underfinansierade segment.
+- Principal authority* är avgörande för kapitalintensiva institutioners överlevnad, men syns inte i balansräkningar eller redovisning. Den formas genom strukturell legitimering – linje, jurisdiktion, kovenanter och riskdisciplin – och avgör tillgång till kapital, likviditet och förvärvsrättigheter i fragmenterade marknader. Fund-III-aktörer måste kommunicera kontinuitet, inte ambition, för att säkra mandatutvidgning.

@@ -110,7 +110,7 @@ These include energy capitalizations between 50 million and 250 million dollars,
 
 ## The Stewardship Filter
 
-Stewardship is not a marketing concept. It is a discipline within capital allocation that evaluates the degree to which capital is employed in a manner consistent with non-wasteful resource management. This discipline aligns with the biblical principle that a good steward leaves an inheritance for future generations.
+Stewardship is not a marketing concept. It is a discipline within capital allocation that evaluates the degree to which capital is employed in a manner consistent with non-wasteful resource management. This discipline aligns with the Biblical principle that a good steward leaves an inheritance for future generations.
 
 - .
 
@@ -148,4 +148,4 @@ Roials Capital provides this navigational function. A confidential strategy audi
 
 ## Sammanfattning
 
-Yield has evolved from a performance metric to a structural balance sheet instrument, dictating asset hardening in a capital-scarce regime defined by regulatory drift and lender retrenchment. In this bifurcated environment, stabilized yield differentiates capital anchors from liquidity consumers, enforcing institutional risk calibration through tangible collateral and deterministic cash flows.
+En strukturell kapitalbrist inom nordamerikansk energi och lägre mellanstora privata krediter härrör från regulatorisk drift och bankers tillbakadragande, inte försämrad tillgångskvalitet. Stabiliserad avkastning har utvecklats från en prestandamätare till ett balansräkningsinstrument som avgör graden av tillgångshärdning för institutionella placerare, där avkastning nu avgör om en tillgång absorberar skulder eller konsumerar likviditet.

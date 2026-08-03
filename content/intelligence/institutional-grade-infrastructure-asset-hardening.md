@@ -32,7 +32,7 @@ Roials Capital operates as a strategic navigator and institutional introducer. T
 
 Asset hardening is fundamentally a stewardship discipline. The objective is to strengthen what already exists rather than to speculate on what might emerge.
 
-Stewardship in the institutional context refers to the responsible management of capital, corporate structures, natural resources, and time. The theology of capital is based on asset hardening—a stewardship discipline that strengthens what already exists rather than speculating on what might emerge.
+Stewardship in the institutional context refers to the responsible management of capital, corporate structures, natural resources, and time. The theology of capital is based on the preservation and enhancement of existing value rather than the pursuit of speculative gains.
 
 
 This principle applies directly to mature basin energy assets, middle market corporates, and cross border infrastructure. Stewardship filters out unnecessary complexity. It prioritizes structural durability, resource integrity, and operational resilience. It reduces variance and elevates accountability. In private markets this translates into governance precision, compliance stability, and process repeatability. The objective is not return projection. The objective is the elimination of waste within capital systems.
@@ -55,10 +55,10 @@ Effective asset hardening requires clean capital stacks, enforceable seniority, 
 
 4. Alignment architecture.
 
-This principle applies directly to mature basin energy assets, middle market corporates, and cross-border infrastructure. Stewardship filters out unnecessary complexity, prioritizes structural durability, resource integrity, and operational resilience, and reduces variance while elevating accountability. In private markets, this translates into governance precision, compliance stability, and process refinement.
+Allocators benefit from neutral partners who can configure institutional pathways without assuming asset ownership. Roials Capital fulfills this role by providing allocators with a confidential strategy audit that clarifies alignment, suitability, and technical feasibility across Fund-III mandates, Asset-Based Lending structures, and energy consolidation environments. This enables allocators to calibrate portfolios toward structural durability and operational predictability within the current capital constraint regime.
 
 ##
 
 ## Sammanfattning
 
-Regulatorisk kompression och underinvestering driver fram ett kapitalunderskott i energisektorn, vilket skapar strukturell obalans mellan tillgångssäkerhet och kapitaltillgång. Infrastruktur för institutionell härdning av tillgångar är nu avgörande för balansräkningstabilitet, kontrollerad förvärvssekvensering och flerårig kapital effektivitet i en miljö präglad av predikterbar drift och ESG-missprissättning.
+Regulatorisk avvikelse snarare än resursbrist driver kapitalunderskottet i Nordamerikas energisektor, vilket skapar strukturell obalans. Infrastruktur för institutionell tillgångshärdning prioriteras nu för balansräkningssäkring och cyklisk kapital effektivitet snarare än expansion. Allokerare efterfrågar förutsägbarhet, vilket gynnar mogna tillgångar med stabila kassaflöden och låg operativ varians.

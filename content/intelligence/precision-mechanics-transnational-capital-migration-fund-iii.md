@@ -36,7 +36,7 @@ Capital moves under four pressures. Sovereign risk. Currency stress. Regulatory 
 
 U.S. mid-market creates velocity.
 
-MENA creates scale. Currency Stress Optimization Capital favors strong-dollar cycles but deploys aggressively during periods of currency volatility. Fund‑III can utilize USD-denominated facilities for add-on acquisitions while implementing local-currency revenue hedges in operating companies to preserve EBITDA integrity.
+Currency Stress Optimization Capital prefers strong-dollar cycles but deploys aggressively during currency volatility. Fund‑III can leverage USD-denominated facilities for add-ons while structuring local-currency revenue shields in operating companies to protect EBITDA integrity. Regulatory Tightening as Advantage MiFID II constrains many acquirers, not prepared, not compliant, not fluid. Fund‑III can use MiFID II readiness as a competitive barrier, as few competitors will meet the cost and time requirements for cross-border acquisition licensing. Yield Compression Mechanics When yields compress in public markets, private buyout funds capture spillover demand. Capital migrates from bonds into private credit, from equity indices into private equity, and from low-yield sovereigns into high-yield infrastructure and energy. Fund‑III must position its strategy to catch every spillover.
 
 - Inventory-backed lines for manufacturing add-ons.
 - Receivables rotation for cross-border logistics assets.
@@ -103,4 +103,4 @@ Fund‑III must now tighten its capital architecture. Tighten its acquisition co
 
 ## Sammanfattning
 
-Kapital migrerar inte slumpmässigt—det formas av regulatoriska gradienter och institutionell precision. Fund-III måste positionera sig som en gravitationscentrum genom multi-sovereign kontroll, kontinuerliga signaler och kompetens i hastighet, för att omvandla fragmentering till strukturell fördel och accelerera kapitalflöden med disciplin.
+Fund-III:s kapitalmigration drivs av reglerade korridorer och jurisdiktionella asymmetrier, där precision i mekanik avgör expansionshastighet och djup. Genom att positionera sig som en gravitationscentrum med multi-sovereign kontroll, kontinuitet över tidshorisonter och portföljhastighet skapas strukturella fördelar som attraherar institutionella flöden och utnyttjar arbitragemöjligheter.

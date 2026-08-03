@@ -99,4 +99,4 @@ Roials Capital provides this audit framework as part of its institutional naviga
 
 ## Sammanfattning
 
-Regulatoriskt drivna kapitalunderskotten omformar institutionell kapitalallokering mot strukturellt ineffektiva, men förutsägbara sektorer. Konventionell tungolja i mogna bassänger med 30-åriga declinekurvor och underutnyttjade balansräkningar erbjuder lägst volatilitet och högsta kassaflödesförutsägbarhet, vilket driver en institutionell realignment där operativ transparens och teknisk disciplin prioriteras framför narrativa investeringar. Roials Capital agerar som navigatör inom denna omställning, med fokus på Alberta-aktiva med 50–250M USD-mandat.
+Sovereign capital is recalibrating toward low-volatility, long-duration energy assets, particularly Alberta’s heavy oil reservoirs, due to structural undersupply, mature decline curves, and deleveraged operators. This regime shift prioritizes operational intelligibility and technical transparency over thematic narratives, creating institutional-grade opportunities in a capital-scarce environment. Roials Capital facilitates access to audited, high-integrity operators within the 50–250M mandate range.

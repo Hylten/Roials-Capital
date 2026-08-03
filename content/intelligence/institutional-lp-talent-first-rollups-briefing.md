@@ -76,4 +76,4 @@ They produce mid-teens to mid-twenties returns with extraordinary repeatability.
 
 ## Sammanfattning
 
-Institutionella LPs omklassificerar nu talangdrivna rollups som bestående avkastningsenheter – inte risk. Avgörande är GP:s järnhårda operativa tes och ledarskapsersättningspakt; allt annat är brus. Jurisdiktionell mångfald och global ledarskapsmobilitet skapar skalbarhet, medan disciplin och system är multiplikatorer för värdeskapande.
+Institutionella LPs omklassificerar nu talangdrivna rollups som hållbara tillväxtmotorer, där ledarskap och processer avgör kapitalallokering. Jurisdiktionell flexibilitet och strukturell disciplin – snarare än berättelser – utgör kärnan i moderna Talent-First-strategier.

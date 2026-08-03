@@ -13,6 +13,7 @@ draft: false
 author: "Jonas Hyltén"
 ---
 
+
 A structural gap has formed at the intersection of jurisdictional control and mobile capital. The legal system still treats wealth as if it sits inside borders. Yet the settlement layer has already moved. Crypto collateral is now the only asset class that can be pledged, rehypothecated, and internationally transported without triggering the traditional chain of custody. That shift alters the mechanics of M&A. It rewires the leverage stack. It forces a redesign of Fund-III acquisition pipelines. Order is not an option. The legacy banking stack cannot keep pace with liquidity that refuses national anchoring. Institutional-grade M&A now requires instruments that move with the owner, not the domicile. UHNWIs have learned that mobility is a protection layer. Private credit has not caught up. That gap is where superior returns are found. THE REGIME SHIFT A quiet bifurcation has taken place. On one side sits regulatory capital. Slow. Procedural. Anchored in Basel frameworks that penalize velocity. On the other side sits cryptographically secured wealth that can shift across borders without intermediaries. The old model assumed wealth was slow. It assumed custody was physical. It assumed friction. These assumptions no longer govern the market. The consequence is clear. Any fund that continues underwriting acquisitions through traditional jurisdiction-bound collateral structures will generate suboptimal leverage efficiency. More importantly, it will lose deals to buyers who understand that the new competitive frontier is liquidity mobility. The M&A landscape is now shaped by three regime variables:
 
 - Regulatory arbitrage between jurisdictions with asymmetric collateral recognition.
@@ -85,4 +86,4 @@ Request a confidential capital audit.
 
 ## Sammanfattning
 
-Borderless collateral has redefined M&A leverage. Crypto collateral’s cross-border mobility—untethered from jurisdictional friction—destroys legacy capital stack efficiency, forcing institutional funds to adopt mobile overcollateralization or cede deal flow to arbitrage-savvy competitors. Superior returns now reside in exploiting this regime shift, not resisting it.
+Krypto-säkerställda tillgångar har skapat en ny M&A-ordning där rörlighet och gränslös säkerhet ersätter traditionell jurisdiktionell kontroll. Fond-III-operatörer som inte integrerar mobil överbelåning riskerar suboptimal leverage och förlorar affärer till konkurrenter som utnyttjar regulatorisk arbitrage och decentraliserade kreditpooler. Prisvolatilitet är irrelevant – det är tillgångens rörlighet som skapar strategiskt övertag.

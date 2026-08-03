@@ -108,4 +108,4 @@ Allocators evaluating private debt must reposition their analysis around three p
 
 ## Sammanfattning
 
-Regulatorisk fragmentering och kapitalflykt från traditionella kreditmarknader har skapat en bestående brist på finansiering i mellanstora transaktioner (<USD 500M), vilket gynnar disciplinerade institut med kvantifierbara säkerhetsstrukturer och operationell cash flow-analys. Effektiva private debt-ramverk genererar asymmetrisk avkastning genom senioritet, transparenta amorteringsvägar och monetiseringsarkitektur, vilket gör dem till en kärnportföljfunktion för institutionella allokerare.
+2026 präglas av regulatorisk fragmentering och kapitalflykt från traditionella kreditmarknader, vilket skapar en strukturell lucka i private debt-utlåning under USD 500M. Institutionella investerare med disciplinerade underwriting-ramverk kan utnyttja denna volatilitet genom kvantifierbar säkerhet, transparenta kassaflödesstrukturer och operationellt förankrade tillgångar i mellanstora buyouts.

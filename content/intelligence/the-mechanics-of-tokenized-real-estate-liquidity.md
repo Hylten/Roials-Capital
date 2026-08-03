@@ -54,7 +54,7 @@ Private credit facilities then leverage these efficiencies to issue faster, stru
 
 The Institutional Threshold Effect HNWI and UHNW individuals operate at a scale where liquidity is not merely desired. It is engineered.
 
-This is why our Strategic Collateralization thresholds matter. Two million minimum for crypto Institutional Liquidity Paths. Five million minimum for public share Strategic Collateralization. These thresholds are not arbitrary. They eliminate noise. They position liquidity mechanics inside a domain where capital structure, not capital scarcity, defines the conversation.
+This is why our Strategic Collateralization thresholds matter. Two million minimum for crypto Institutional Liquidity Paths. Five million minimum for public share Strategic Collateralization. These thresholds are not arbitrary. They eliminate noise. They position liquidity mechanics inside a domain where capital structure, not capital scarcity, defines the conversation. In tokenized real estate, the threshold effect creates a clearer collateral spectrum. Large tokenized positions behave differently because they are handled differently. They are underwritten at scale. They are monitored for structural integrity, not retail volatility. They qualify for multi-tiered liquidity facilities with fewer downstream constraints.
 
 ## Layer LI: quidity facilities with fewer downstream constraints. This is the liquidity environment institutional capital expects.
 
@@ -93,4 +93,4 @@ For HNWI and UHNW investors, the ability to extract liquidity from real estate w
 
 ## Sammanfattning
 
-Tokenization transforms real estate from inert holdings to programmable liquidity vectors, enabling HNWI/UHNW investors to engineer precision collateralization—minimum $2M for crypto, $5M for public shares—filtering institutional-grade mobility. Programmable claims settle instantly, cross borders without legacy friction, and integrate with automated risk systems, shifting portfolios from static ownership to dynamic routing. Roials Capital deploys asset-based frameworks with surgical discipline, leveraging this architecture to assert control over capital velocity.
+Tokenisering omvandlar fastigheter till programmerbara, rörliga tillgångar genom digitala representationer, vilket eliminerar traditionella friktionsmoment som långa settlementtider och juridisk fragmentering. Roials Capital utnyttjar denna precision genom strategisk kollateralisering med lägsta trösklar på 2M USD (krypto) respektive 5M USD (publika aktier), vilket skapar institutionell koherens och kontroll över portföljers likviditet.

@@ -64,7 +64,7 @@ Roials maintains a proprietary pipeline across buyout platforms, Asset-Based Len
 
 ## The Stewardship Filter
 
-Stewardship is treated not as philanthropy but as a discipline of non-wasteful resource management. For institutions with multi-generational mandates, capital stewardship aligns with the scriptural principle of longevity, prudence, and structured allocation.
+Stewardship is treated not as philanthropy but as a discipline of non-wasteful resource management. For institutions with multi-generational mandates, capital stewardship aligns with the scriptural principle in Proverbs 21:5, emphasizing longevity, prudence, and structured allocation.
 
 - , emphasizing longevity, prudence, and structured allocation.
 
@@ -86,4 +86,4 @@ This dialogue is not a solicitation. It is a structural assessment designed to m
 
 ## Sammanfattning
 
-Institutionell kapitalmigration drivs av regleringsdrift, inte fundamentala brister, och följer en förutsägbar cykel: solvenskrav, likviditet och riskreprisering pressar allokerare mot kassaflödesstabila tillgångar med låg mark-to-market-volatilitet. Den nuvarande bristen på institutionellt kapital i hårdvarusektorer är en direkt konsekvens av Basel IV, MiFID II och ESG-viktade utlåningsregler, vilket skapar en strukturell obalans där kreditflöden avviker från operativa fundamenta.
+Institutionella kapitalflöden styrs av regelbaserade ramverk snarare än marknadskänslor, vilket skapar kronisk brist i komplexa hard-asset-sektorer trots bibehållen produktivitet. Allokerare prioriterar nu tillgångar med kassaflödesstabilitet och jurisdiktionell säkerhet, driven av regleringsdrift (Basel IV, MiFID II), räntestrukturens "högre längre"-effekt och banksektorns reträtt från ESG-belastade krediter. Historiska mönster (1986, 1999, 2009, 2020) upprepar sig i 2026.

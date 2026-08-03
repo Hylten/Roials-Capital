@@ -104,7 +104,7 @@ Use liquidity only when the productive output of the asset base exceeds the cost
 
 - Transparent seniority.
 
-Layer I: The capital stack must have a clear claim pathway.
+Every senior executive must demonstrate transparent seniority in decision-making processes to ensure accountability and clarity in governance.
 
 ### Layer I: n the capital stack must have a clear claim pathway. - Measured velocity.
 
@@ -134,4 +134,4 @@ Does the use of borderless collateral accelerate acquisition timelines without i
 
 ## Sammanfattning
 
-Fragmenterad reglering och Basel-byråkrati skapar en ineffektiv kapitalmarknad där traditionella aktörer misslyckas med att omvandla global UHNW-rikedom till rörlig M&A-kollateral. Borderless crypto-collateral löser detta genom att eliminera jurisdiktionella friktioner och accelerera likviditetsomvandling till senior säkerhet, vilket skapar institutionell fördel genom hastighet och skalbarhet.
+Fragmenterad reglering och ineffektiv legacy-infrastruktur skapar institutionellt kapitalvakuum, där gränsöverskridande krypto-rikedom kan formaliseras till compliant collateral för M&A vid tillämpning av korrekt förvaring, juridiska strukturer och kreditintermediation. Denna strukturella obalans mellan kapital- och collateralmobilitet driver uppkomsten av gränslös crypto-collateral som ny institutionell standard för högintensiva transaktioner.

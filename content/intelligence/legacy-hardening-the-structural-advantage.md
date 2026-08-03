@@ -21,8 +21,8 @@ Control requires structural clarity. Control requires predictable liquidity. Con
 
 The Future of Institutional Liquidity Paths We are moving into an era where liquidity will define competitive advantage more than yield. The portfolios that win will not be the portfolios that chase performance.
 
-The Future of Institutional Liquidity Paths
+They will be the portfolios that retain structural optionality. Regulatory shifts, rapid innovation cycles, and fragmented markets all point in one direction: legacy must be hardened, structures engineered—not improvised. The future belongs to portfolios with durable leverage capacity, clean collateral structures, and institutionally aligned credit mechanics. Roials Capital builds that future today.
 
 ## Sammanfattning
 
-Legacy hardening är strukturell kontroll, inte spekulation. Roials Capital bygger auktoritativa, stressresistenta likviditetsvägar genom privat kredit och institutional liquidity paths, designade för decennier av obrutet inflytande. Framtidens konkurrensfördel avgörs av likviditetens precision – inte avkastningens volatilitet.
+Roials Capital positionerar sig genom att säkra strukturell kontroll och förutsägbar likviditet för flergenerationsportföljer, snarare än att jaga avkastning. Genom institutionellt anpassad privat kredit och robusta likviditetsarkitekturer skapar man bestående fördelar och motståndskraft mot marknadsstress.

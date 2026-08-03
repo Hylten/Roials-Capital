@@ -136,10 +136,10 @@ Align with operators who demonstrate stewardship discipline, technical proficien
 
 3. Intermediary intelligence.
 
-Navigering av gränsöverskridande strukturering, regulatoriska system och partnerverifiering kräver institutionell vägledning av högsta klass. Roials Capital fungerar som en strategisk navigatör som översätter komplexa miljöer till sammanhängande allokeringsramverk. En konfidentiell strategirevision eller portföljkalibreringssession utgör vanligtvis nästa steg för förvaltare som efterfrågar en precisionsbedömning av exponeringsarkitekturen, jurisdiktionell alignment och likviditetspacing över befintliga och potentiella mandat.
+Navigating cross-border structuring, regulatory systems, and partner verification requires institutional-grade guidance. Roials Capital operates as a strategic navigator, translating complex environments into coherent allocation frameworks. A confidential strategy audit or portfolio calibration session is typically the next step for allocators seeking a precision assessment of their exposure architecture, jurisdictional alignment, and liquidity pacing across existing and prospective mandates.
 
 ##
 
 ## Sammanfattning
 
-North American private markets face a structural liquidity gap driven by regulatory constraints, institutional retreat, and mispriced middle-market risk, leaving high-quality assets underfinanced despite resilient cash flows. Portfolio-backed liquidity and private credit now dominate, replacing traditional bank financing—particularly acute in energy, where predictable assets remain starved of capital due to ESG-driven misallocation. The regime shift demands allocators prioritize collateral quality and operational resilience over venture-style variance to navigate this bifurcated system.
+Regulatorisk drift och bankernas reträtt har skapat en likviditetsbrist för medelstora privata bolag, trots starka tillgångar och stabila kassaflöden. Basel III/IV och minskad bankfinansiering har gynnat stora PE-sponsorer medan mellanstora operatörer, särskilt inom tung olja, lider av strukturell underfinansiering driven av ESG-optik snarare än teknisk risk. Portföljbackad likviditet och privat kredit framstår som nödvändiga lösningar för att fylla gapet.

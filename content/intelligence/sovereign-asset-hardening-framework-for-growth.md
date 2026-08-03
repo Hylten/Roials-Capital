@@ -130,7 +130,7 @@ Stewardship is the doctrine that capital must be used responsibly, strategically
 
 1. Non Wasteful Allocation Capital must be deployed into environments where operational outputs are measurable and long term.
 
-This is consistent with non-wasteful allocation of capital into environments where operational outputs are measurable and long-term.
+This is consistent with the principle of Non Wasteful Allocation of Capital, where resources must be deployed into environments where operational outputs are measurable and long term.
 
 2. Structural Oversight Stewardship demands that capital flows into systems that do not erode integrity.
 
@@ -159,8 +159,8 @@ Allocators reviewing the sovereign asset hardening framework should evaluate dec
 
 4. Governance Compatibility Does the counterparty operate with a stewardship aligned ethos.
 
-Structural oversight stewardship demands that capital flows into systems that do not erode integrity.
+Roials Capital provides confidential Strategy Audits, Portfolio Calibration assessments, and Institutional Introduction pathways for allocators seeking sovereign alignment. The objective is disciplined clarity, not solicitation.
 
 ## Sammanfattning
 
-Regulatoriskt driv har skapat strukturell kapitalbrist i energisektorn, men hårdnande av tillgångar—via stabila kassaflöden, reala tillgångar och privat kredit—omvandlar exponering till styrd tillväxt. Denna disciplin, oberoende av sektor, etablerar kapital som en kontrollerad resurs snarare än spekulativt instrument, positionerad för uthållig avkastning i fler-cykliska miljöer.
+Nordamerikas energisektor lider av strukturell kapitalbrist till följd av regleringsdrift, inte resursutarmning. Institutionella investerare som positionerar kapital genom *sovereign asset hardening* – en disciplin för att omvandla flytande till strategiskt kalibrerat kapital – genererar hållbara avkastningar via förutsägbara tillgångar snarare än spekulativa teman. Ramverket är agnostiskt till sektor och skapar stabil tillväxt över flercykelmiljöer genom att kapital omvandlas från exponerat instrument till styrd resurs.

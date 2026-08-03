@@ -13,7 +13,6 @@ draft: false
 author: "Roials Capital"
 ---
 
-
 Hardened capital is not a metaphor. It is an engineered state. A fortified balance sheet. A jurisdictional perimeter. A liquidity architecture that cannot be coerced, diluted, or stranded. Institutions fail when capital is soft. Families fail when capital is reactive. Markets fail when capital is fragile. Only hardened capital survives cycles, wars, dislocations, and liquidity droughts.
 
 
@@ -21,11 +20,11 @@ The institutional equivalent is a capital stack that endures two centuries, not 
 
 ## The Mandate
 
-### Pillar I: Jurisdictional Insulation
+for Fund‑III sponsors is simple: build the capital spine before scaling the organism. Buyouts without hardened capital create brittle velocity. Add‑ons without hardened capital generate leverage drag. Sector roll‑ups without hardened capital erode pricing power. Hardened capital is the precondition for all compounding. It is the load-bearing structure behind every credible GP commitment, LP allocation, and acquisition corridor. Nothing moves until capital is hardened. Everything accelerates once it is. Institutions differ in approach, but the architecture converges. Hardened capital always rests on three pillars: structural integrity, jurisdictional insulation, and conversion optionality. The objective is power. Not optics. Not complexity. Not financial theater. True institutional power is the ability to execute at will across markets without asking anyone for permission.
 
 ### Pillar I: s jurisdictional insulation. Weak institutions choose structure by convenience.
 
-Strong institutions choose structure by sovereignty. Fund‑III requires a hardened map: fund domicile, feeder logic, GP residency, treaty advantages, MiFID II exposure rights, and the insulation perimeter around every AIV, SPV, and holdco. The objective is arbitrage—frictionless movement, tax efficiency, regulatory predictability. Above all, protection. Hardened capital cannot be trapped, frozen, or contested. It must flow like a sovereign actor across multiple legal realities.
+Strong institutions choose structure by sovereignty. Fund‑III requires a hardened map: fund domicile, feeder logic, GP residency, treaty advantages, MiFID II exposure rights, and the insulation perimeter around every AIV, SPV, and holdco. The objective is arbitrage. Frictionless movement. Tax efficiency. Regulatory predictability. Above all, protection. Hardened capital cannot be trapped, frozen, or contested. It must flow like a sovereign actor across multiple legal realities. The third pillar, jurisdictional insulation, ensures that capital remains mobile, shielded, and unencumbered by the constraints of any single jurisdiction.
 
 ### Pillar I: s conversion optionality. This is where hardened capital becomes adaptive.
 
@@ -55,4 +54,4 @@ Then scale. Then accelerate. Then compound. In that order. Never reversed. Capit
 
 ## Sammanfattning
 
-Hardened capital är en strukturell nödvändighet för Fund-III: en jurisdiktionellt isolerad, adaptiv kapitalstack som motstår tvång, utspädning och likviditetskriser. Endast sådan arkitektur genererar LP-konfidens genom obestridlig funktion – inte narrativ – och möjliggör rotationsoptioner som komprimerar cykler och neutraliserar timingrisk.
+Hardened capital är en strukturell nödvändighet för Fond-III, inte en metafor. Dess tre pelare, strukturell integritet, jurisdiktionell isolering och konverteringsflexibilitet, skapar en ogenomtränglig kapitalbas som motstår cykler, krig och likviditetskriser. Utan detta förfaller transaktioner till bräcklighet, drag och maktlöshet.

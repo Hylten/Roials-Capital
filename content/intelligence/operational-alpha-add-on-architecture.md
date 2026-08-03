@@ -77,4 +77,4 @@ Operational alpha is not merely the preference of the moment. It is the long arc
 
 ## Sammanfattning
 
-Add-on strategier kräver nu operativ alpha som avgörande struktur, inte finansiell manipulation. Endast GPs som bygger institutionellt oumbärliga verksamheter—med mätbar operativ lyftkraft—överlever och attraherar sovereign capital.
+Add-on-buyoutstrategier kräver nu strukturell operational alpha – inte finansiell manipulation. LPs och tillsynsmyndigheter efterfrågar konkreta operativa blueprints snarare än leverage-diagram, där hållbar arkitektur avgör avgörande konkurrensfördelar. Endast GPs som bygger verklig operativ kompetens kommer attrahera kapital i en härdad marknad.

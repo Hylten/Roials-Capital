@@ -152,4 +152,4 @@ Roials Capital invites qualified LPs, institutional allocators, and strategic pa
 
 ## Sammanfattning
 
-Engineered reliability is a manufactured system, not a metric—hard-coded into Fund-III’s capital stack via Strategic Collateralization, jurisdictional arbitrage, and adversarial cash-flow mapping to generate structural alpha pre-deployment. Capital raising is system engineering: coherence over rhetoric, precision collateralization over reactive liquidity, ensuring multi-cycle durability and LP certainty. Hard assets. Hard rules. Hard alpha.
+Fund-III positionerar tillförlitlighet som en konstruerad, systemisk nödvändighet – inte en emergent egenskap – genom strukturell alignment, likviditetsoptioner och exekveringsberedda säkerhetsekosystem. Kapitalanskaffningen drivs som systemteknik, där strukturell alfa genereras via jurisdiktionell arbitrage, redundanta säkerheter och motståndskraftiga kassaflödesstrukturer innan kapital allokeras. Arkitekturen bygger på hårdkodad disciplin, tillgångsbaserad strategisk säkerställning och maskinell precision för fler-cyklisk uthållighet.

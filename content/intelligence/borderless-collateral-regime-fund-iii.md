@@ -28,8 +28,8 @@ Rates are misaligned with deal velocity. Buyers have conviction yet lack flexibl
 
 3. Digital asset holders have collateral quality equal to or stronger than traditional hard assets but lack institutional-grade on-ramps.
 
-This is the unlock. The convergence produces one inevitable outcome: institutional adoption.
+This is the unlock. The convergence produces one inevitable outcome: a new paradigm where digital asset holders gain parity with traditional collateral in institutional portfolios, facilitated by seamless, regulated on-ramps that bridge the gap between decentralized assets and legacy financial infrastructure.
 
 ## Sammanfattning
 
-Global kapital rör sig obehindrat över jurisdiktioner – digitala tillgångar agerar som suveräna balansräkningar på blockchain, vilket underminerar traditionell kreditbedömning. Den som utnyttjar denna strukturella arbitrage genom gränslös säkerhet och flexibel finansiering kommer dominera M&A-marknaden; de som förlitar sig på statisk underwriting kommer bli beroende av likviditet. Vinsterna tillfaller de som ser detta som en permanent inversion, inte temporärt brus.
+Strukturell arbitrage skiftar från sektorspecialisering till kollateralmobilitet, där jurisdiktionsfria balansräkningar accelererar snabbare än regulatorisk konsensus. Digitala tillgångar agerar som suveräna förmögenheter på kedjan, vilket underminerar traditionell kreditbedömning och skapar en ny M&A-ordning där gränslöst kollateral driver marknadsandelar. Vinnarna exploaterar denna strukturella inversion; eftersläntrarna riskerar likviditetsberoende.

@@ -130,8 +130,8 @@ This supports allocators operating across US, EU, CH, and GCC mandates.
 
 5. Fund-III Expansion Tokenized liquidity enhances the velocity at which capital can be mobilized for buyouts and add-ons.
 
-5. Fund-III Expansion Tokenized liquidity enhances the velocity at which capital can be mobilized for buyouts and add-ons.
+The process reduces reliance on high friction refinancing and credit line utilization. Allocators navigating this domain benefit from a confidential strategy audit to assess alignment between their existing capital stack, liquidity requirements, and the operational capabilities of tokenized platforms. Roials Capital acts as a structural guide, ensuring institutional alignment and regulatory synchrony across all phases of integration.
 
 ## Sammanfattning
 
-Tokenized real estate resolves the systemic liquidity gap in institutional capital markets by replacing settlement inefficiencies with blockchain-verified, compliance-engineered ownership infrastructure—directly aligning with allocators’ demand for traceability, cross-jurisdictional synchronization, and real-time settlement certainty. This structural evolution, not speculative innovation, optimizes balance sheets by mobilizing fractionalized liquidity without asset disposal, addressing the regime shift driven by duration mismatch, regulatory tightening, and capital stack compression.
+Tokeniserad fastighetsliquiditet adresserar inte värdeproblem utan strukturella ineffekter i traditionella ägande- och avvecklingskedjor. Med ökad kapitalintensitet och regulatorisk press blir blockchain-baserad ägandeverifiering och realtidsavveckling avgörande för institutionell kapitalallokering.

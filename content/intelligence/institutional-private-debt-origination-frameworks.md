@@ -114,4 +114,4 @@ EXIT Target loss ratio: below 40 basis points across the cycle. Request confiden
 
 ## Sammanfattning
 
-Regime-skiftet driver en brist på kontrollerbara kassaflöden, inte kapital—disciplin avgör utfallet. Fund-III måste etablera en industriell origination-arkitektur för att eliminera falska positiva och säkra förutsägbara återvinningar, annars riskerar avkastningen att eroderas av snabbare kompounderande felprissatt risk.
+Private debt’s scarcity is enforceable cash flows, not capital, origination must shift from sales to a governed industrial system to eliminate operational drift. Fund-III’s competitive edge hinges on in-house origination architecture, rejecting intermediated deal flow and regulatory friction to absorb the mid-market vacuum. Success demands explicit mechanics: non-linear LTV curves tied to operating volatility and sponsor discipline, replacing intuition with enforceable structure.

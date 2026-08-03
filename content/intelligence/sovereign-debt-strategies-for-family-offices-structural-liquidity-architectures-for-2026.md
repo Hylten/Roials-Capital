@@ -117,7 +117,7 @@ This is not advisory. It is architecture.
 
 The New Era of Sovereign Strategy for Private Families The environment has changed. Debt levels have increased.
 
-Monetary regimes are increasingly reactive, while emerging markets assume a more pivotal role in global liquidity supply. For family offices, this necessitates adaptive strategies—static models no longer suffice. The sovereign
+Monetary regimes are more reactive. Emerging markets play a larger role in global liquidity supply. Family offices must adapt. Static models no longer hold. The sovereign landscape has fragmented, requiring frameworks that account for heightened volatility and cross-border dependencies.
 
 ## Layer M ust be dynamic, data driven, and integrated into collateral frameworks.
 
@@ -129,4 +129,4 @@ It is about architecture. It defines the shape of the portfolio. It calibrates r
 
 ## Sammanfattning
 
-Sovereign debt is the structural backbone of private capital liquidity architectures, not a passive asset class. Roials Capital leverages its predictability—jurisdictional resilience and central bank intent—to calibrate risk, deploy liquidity, and optimize private credit pricing, treating it as a dynamic tool to amplify or neutralize risk in a fragmented, pulse-driven monetary landscape.
+Souverän skuld utgör fundamentet för likviditetsarkitektur och riskkontroll för familjekontor, där strukturell exponering, säkerställning och tidsplanering avgör strategisk framgång snarare än enskilda tillgångar. Roials Capital positionerar sig som strategisk arkitekt snarare än spekulant, genom att integrera statspapper som dynamiskt motvikt i likviditetsstrukturer och kreditportföljer för att hantera geopolitisk osäkerhet och snabba räntescenarier.

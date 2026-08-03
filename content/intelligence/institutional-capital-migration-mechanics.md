@@ -146,4 +146,4 @@ Roials Capital facilitates confidential consultations for allocators requiring l
 
 ## Sammanfattning
 
-Institutionell kapitalmigration sedan 2020 drivs av en strukturell tomhet i Nordamerikas produktiva tillgångar, orsakad av regulatorisk drift, överkoncentration och felprissättning av långvariga realtillgångar. Kapital flyr inte risk—det lämnar sårbarhet, med en tydlig omfördelning mot hållbara, kassaflödesgenererande tillgångar som direktägda buyouts, asset-backed lending och energiparticipation, där strategiska partners som Roials Capital skapar resilient exponering snarare än exponering mot volatilitet.
+Institutionell kapitalmigration drivs av regulatorisk fragmentering, överkoncentration och felprissättning av långvariga realtillgångar, vilket skapar en strukturell brist på produktiva tillgångar i Nordamerika sedan 2020. Kapital flyttar inte för högre avkastning utan för att undvika sårbarhet, med strategiska partners som Roials Capital som skapar hållbara allianser snarare än exponering.

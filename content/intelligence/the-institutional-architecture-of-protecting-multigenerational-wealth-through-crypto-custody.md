@@ -52,7 +52,7 @@ Forced sales, emotional sales, tax driven sales. These erode the integrity of a 
 - Asset Based Capital Structuring
 - Crypto Monetization Architecture with a minimum threshold of 2,000,
 
-Private Credit
+Crypto Monetization Architecture with a minimum threshold of 2,000,
 
 - Public Share Capital Structuring with a minimum threshold of 5,000,
 
@@ -125,4 +125,4 @@ Custody protects the asset. Monetization Architecture protects the strategy. Liq
 
 ## Sammanfattning
 
-HNWI- och UHNWI-familjer integrerar nu krypto som en strategisk tillgång i flergenerationsplaner, varvid Roials Capital levererar institutionell förvaring som arkitektur – inte produkt. Vår ramverk säkerställer multi-jurisdiktionell redundans, programmerbar governance och mobilisering utan exponering av privata nycklar, designat för decennier av bestående kontroll och likviditet.
+HNWI/UHNWI-familjer integrerar nu krypto i generationsöverskridande förmögenhetsplanering, varvid Roials Capital tillhandahåller institutionell förvaring som arkitektur snarare än produkt. Systemen säkerställer flerjurisdiktionell redundans, programmerbar åtkomst och mobilisering av tillgångar utan exponering av privata nycklar, i linje med långsiktig förmögenhetsbevarande governance.

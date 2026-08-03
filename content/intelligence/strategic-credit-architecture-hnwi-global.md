@@ -152,4 +152,4 @@ Roials Capital provides a structured path for answering these questions. The fir
 
 ## Sammanfattning
 
-Kapitalbristen i nordamerikansk och europeisk mellanstora marknader är strukturell, driven av regulatorisk kompression och riskvägningskrav, inte absolut brist. Entreprenörer måste konstruera en kreditarkitektur—balansräkning med institutionaliserad transparens, likviditetsoptimering och tillgångshärdning—för att möta privata kreditfonders underwritingkrav och säkra kapitalanskaffning.
+Kapitalbrist i nordamerikansk och europeisk mellankommande marknad är strukturell, driven av reglering (Basel III, MiFID II) och riskvägningskrav, snarare än absolut brist. Entreprenörer bör fokusera på att konstruera en kreditarkitektur – balansräktsdesign, likviditetsoptimering och transparens – för att möta institutionella underwritingkrav och säkra kapital via private credit-fonder.

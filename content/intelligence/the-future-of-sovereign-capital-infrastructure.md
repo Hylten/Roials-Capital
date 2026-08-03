@@ -50,4 +50,4 @@ Custody systems, on-chain verification models, cross-asset collateral engines, a
 
 ## Sammanfattning
 
-Digital assets and public equities are now structural components of sovereign capital infrastructure, not speculative tools—when held at institutional scale, with verified custody and liquidity depth. Roials Capital provides the high-governance architecture to activate collateralized capital autonomously, eliminating intermediary dependence and ensuring sovereign control over liquidity flows.
+Digital assets och publika aktier integreras nu strukturellt i institutionell kapitalinfrastruktur genom högförlitliga, kollateraliserade ramverk. Roials Capital tillhandahåller dessa arkitekturer för HNWI/UHNW, säkerställande av kontroll och likviditet utan mellanhänder. Verksamheten bygger på *principal authority*, där klienter erhåller strukturell suveränitet över eget kapital.

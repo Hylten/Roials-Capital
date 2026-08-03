@@ -54,4 +54,4 @@ Asset-Based Lending will expand across digital and non digital collateral. Crypt
 
 ## Sammanfattning
 
-Sovereign debt fragility accelerates UHNW repositioning toward non-correlated liquidity. Crypto-backed asset-based lending emerges as the institutional architecture for precision liquidity allocation, insulating portfolios from sovereign cycles while leveraging non-traditional collateral. Roials Capital engineers this structural advantage.
+UHNW-familjer och institutionella kapitalförvaltare ompositionerar sig inför strukturellt förhöjda statslån och minskad likviditet i traditionella kanaler. Crypto-backed Asset-Based Lending etableras som strategisk reserv för icke-korrelerad säkerhet, driven av behovet av isolering från statsobligationscykler och ökad privat kreditmarknad. Roials Capital tillhandahåller infrastruktur för precisionstilldelning av likviditet inom denna nya arkitektur.

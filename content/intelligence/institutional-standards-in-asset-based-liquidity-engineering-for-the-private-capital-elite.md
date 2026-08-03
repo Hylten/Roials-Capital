@@ -118,4 +118,4 @@ Volatility expands. Jurisdictions shift. Institutional Asset-Based Lending becom
 
 ## Sammanfattning
 
-Roials Capital etablerar institutionella standarder för asset-based liquidity engineering genom rigorösa ramverk som prioriterar strukturell integritet och motståndskraft mot volatilitet. Vår modell bygger på principen om *principal authority*: vi tillhandahåller strukturen medan klienten bidrar med stabila tillgångar – endast sådana som uppvisar beteendemässig stabilitet under stress prövas för våra kapitallösningar.
+Roials Capital etablerar institutionella standarder för asset-based liquidity genom rigorösa ramverk som prioriterar strukturell integritet och motståndskraft mot volatilitet. Lösningarna riktar sig till HNWI/UHNWI med sofistikerade tillgångar, där stabilitet och diskretion avgör lånets hållbarhet.

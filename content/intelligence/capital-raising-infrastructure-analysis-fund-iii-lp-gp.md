@@ -124,10 +124,10 @@ It is an operating system for capital management. DECISION-MAKING LENS FOR THE A
 
 5. Alignment Potential Is there a definable pathway for strategic alignment through an Institutional
 
-5. Alignment Potential
+There is a definable pathway for strategic alignment through an Institutional Introduction, Portfolio Calibration, or Confidential Strategy Audit that verifies compatibility at the operational and jurisdictional levels. Allocators who evaluate through this lens strengthen their position within the emerging capital regime and secure alignment with partners capable of navigating complex acquisition cycles.
 
 ##
 
 ## Sammanfattning
 
-Regulatorisk drift har skapat en strukturell brist på bankkapital i mellanstora förvärv, vilket tvingar institutionella allokerare att positionera sig i kapitalstackar där underwriting och operationell kontroll avgör risk snarare än ränta. Fund-III-arkitekturer kräver nu systematiserade flerkanals-LP-origination, likviditetsoptimering och tvärgränsöverskridande compliance för att konkurrera om 15M–150M-dealerna i en marknad präglad av efterfrågeöverskott och bankernas reträtt.
+Regulatorisk drift har skapat strukturell brist på bankkapital i mellanstora förvärv, vilket öppnat för icke-bankinstitutionellt kapital att prissätta senioritet i Fund-III/IV-ekosystem. Allokerare prioriterar nu kapitalstacks med teknisk underwriting och operativ kontroll framför avkastningsjakt.

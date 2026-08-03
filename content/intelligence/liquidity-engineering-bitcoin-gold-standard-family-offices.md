@@ -40,7 +40,7 @@ Cash flow. Distribution channels. Asset-backed credit lines.
 
 - Expansion Layer: Fund-III commitments for buyouts, roll-ups, and add-ons.
 
-In this model, Bitcoin sits in the reserve layer. It provides hardness. It provides long memory. It serves as a capital backbone that cannot be diluted or seized under normal conditions. Families now treat it as they once treated Swiss francs in 1973—as the neutral currency of survival.
+Families now treat it like they treated Swiss francs in 1973, as the neutral currency of survival.
 
 1973. As the neutral currency of survival.
 
@@ -95,7 +95,7 @@ Institutions avoided Bitcoin for a decade. Now they embrace it. Not for ideology
 
 For strategic liquidity. Family offices lead. Institutions follow.
 
-Families adopt first because they do not ask permission. They operate on conviction, not committees. Bitcoin, as the gold standard of this era, reflects this ethos. Gold is slow. Bitcoin is fast. Gold is physical. Bitcoin is programmable. Gold is closed. Bitcoin is open. Yet both share the same essence: scarcity, finality, neutrality. The institutional view remains clear: Bitcoin is Tier-0 collateral.
+Always. Families adopt first because they do not ask permission; they operate on conviction, not committees. Bitcoin as the gold standard reflects this. Gold is slow. Bitcoin is fast. Gold is physical. Bitcoin is programmable. Gold is closed. Bitcoin is open. Yet both share the same essence: scarcity, finality, neutrality. The institutional view: Bitcoin is Tier.
 
 - 0 collateral.
 
@@ -139,4 +139,4 @@ This framework protects the reserve. Protects the family. Protects the operating
 
 ## Sammanfattning
 
-Bitcoin är nu en institutionaliserad reservtillgång för familjekontor—ett gränslöst, inflationssäkert monetärt lager som agerar stabilisator och kollateral utan governance-risk. Roials Capital strukturerar detta som en balansräkningstriangel: Bitcoin i reservlagret, kassaflödesdrivna bolag i operativt lager, och expansionskapital via Fund-III för buyouts—ett auktoritärt ramverk för suverän kapitalallokering.
+Bitcoin etableras som institutionell reservtillgång för family offices, ersätter traditionell likviditetspolitik med oberoende, gränslös monetär kontroll. Roials Capital strukturerar detta via tre lager: Bitcoin som reserv, kassagenererande tillgångar som operativ bas och expansionskapital via specialiserade mandat.
