@@ -9,8 +9,7 @@ const pillars = [
     number: '01',
     title: 'PRINCIPAL-LED EXECUTION',
     paragraphs: [
-      'Direct dealmaker-led investor sessions backed by a global advisory board with 160+ years of combined experience across private markets, M&A and cross-border transactions.',
-      'Every mandate is led from the front. We enter investor sessions directly, manage the narrative, address complex objections and maintain process momentum from first engagement to formal indications of interest.',
+      'Direct dealmaker-led investor sessions backed by a global advisory board with deep combined experience across private markets, M&A and cross-border transactions.',
     ],
   },
   {
@@ -23,10 +22,9 @@ const pillars = [
   },
   {
     number: '03',
-    title: 'STRUCTURED CAPITAL PROGRESSION',
+    title: 'SEQUENCED CAPITAL PROGRESSION',
     paragraphs: [
-      'Pre-emptive asset hardening, institutional data-room structuring and disciplined follow-through from first LP engagement to formal indications of interest and term sheets.',
-      'Mandate velocity is not a function of outreach volume. It is a function of structural precision, sequenced investor engagement and controlled counterparty progression.',
+      'Asset hardening, data-room structuring, and controlled counterparty velocity. Mandate speed is a function of structural precision, not outreach volume.',
     ],
   },
 ];
@@ -56,12 +54,17 @@ export const CapitalOrigination: React.FC<CapitalOriginationProps> = ({ onFirmCl
           <section>
             <div className="flex flex-col md:flex-row items-baseline gap-4 mb-8 border-b border-white/10 pb-4">
               <span className="font-sans text-xs font-bold text-oldgold uppercase tracking-[0.3em]">
-                THE ARCHITECTURE
+                THE EXECUTION ARCHITECTURE
               </span>
             </div>
-            <p className="font-sans text-lg md:text-xl text-gray-400 font-light leading-relaxed">
-              We do not act as passive placement agents. We combine proprietary investor intelligence infrastructure, GTM-engineered outreach and senior dealmaker representation to drive capital formation processes for established fund managers and private equity firms.
-            </p>
+            <div className="space-y-6">
+              <p className="font-sans text-lg md:text-xl text-gray-400 font-light leading-relaxed">
+                Roials Capital executes direct capital formation for private equity managers and mid-market buy-and-build platforms.
+              </p>
+              <p className="font-sans text-lg md:text-xl text-gray-400 font-light leading-relaxed">
+                We do not market teasers. We engineer counterparty selection and lead sessions directly to committed capital.
+              </p>
+            </div>
           </section>
 
           {/* Core Pillars */}
@@ -93,39 +96,19 @@ export const CapitalOrigination: React.FC<CapitalOriginationProps> = ({ onFirmCl
             </div>
           </section>
 
-          {/* Who We Work With */}
+          {/* Mandate Selection */}
           <section>
             <div className="flex flex-col md:flex-row items-baseline gap-4 mb-8 border-b border-white/10 pb-4">
               <span className="font-sans text-xs font-bold text-oldgold uppercase tracking-[0.3em]">
-                WHO WE WORK WITH
+                MANDATE SELECTION
               </span>
             </div>
             <div className="space-y-6">
               <p className="font-sans text-lg md:text-xl text-gray-400 font-light leading-relaxed">
-                Roials Capital accepts mandates from established private equity fund managers and buy-and-build operators seeking structured access to institutional LP capital.
+                Selective engagement by Investment Committee approval only.
               </p>
               <p className="font-sans text-lg md:text-xl text-gray-400 font-light leading-relaxed">
-                We do not work with every mandate. Active engagements are assessed selectively and accepted subject to investment committee approval.
-              </p>
-              <p className="font-sans text-lg md:text-xl text-gray-400 font-light leading-relaxed">
-                Primary focus: Fund III+ private equity managers and established mid-market operators with a defined capital structure and clear path to close.
-              </p>
-            </div>
-          </section>
-
-          {/* What This Is Not */}
-          <section>
-            <div className="flex flex-col md:flex-row items-baseline gap-4 mb-8 border-b border-white/10 pb-4">
-              <span className="font-sans text-xs font-bold text-oldgold uppercase tracking-[0.3em]">
-                WHAT THIS IS NOT
-              </span>
-            </div>
-            <div className="space-y-6">
-              <p className="font-sans text-lg md:text-xl text-gray-400 font-light leading-relaxed">
-                We are not a placement agent in the traditional sense. We do not distribute teaser documents and wait for responses.
-              </p>
-              <p className="font-sans text-lg md:text-xl text-gray-400 font-light leading-relaxed">
-                We build mandate-specific investor architecture, qualify counterparties against verified dry powder and active allocation mandates, and lead the execution process directly until capital is committed.
+                Target: Fund III+ PE managers and institutional mid-market operators.
               </p>
             </div>
           </section>
