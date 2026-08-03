@@ -18,12 +18,6 @@ export const GlobalFootprint: React.FC = () => {
             className="w-full h-full object-cover grayscale contrast-125 scale-105 group-hover:scale-100 transition-transform duration-[2s] ease-out"
           />
           
-          {/* City Label */}
-          <div className="absolute bottom-12 left-0 right-0 text-center z-20">
-            <span className="font-sans text-xs md:text-sm uppercase tracking-[0.3em] text-platinum font-bold border-b border-platinum/30 pb-2">
-              London
-            </span>
-          </div>
         </div>
 
         {/* Middle Panel: Stockholm */}
@@ -50,12 +44,6 @@ export const GlobalFootprint: React.FC = () => {
              </div>
           </div>
           
-          {/* City Label */}
-          <div className="absolute bottom-12 left-0 right-0 text-center z-20">
-            <span className="font-sans text-xs md:text-sm uppercase tracking-[0.3em] text-platinum font-bold border-b border-platinum/30 pb-2">
-              Stockholm
-            </span>
-          </div>
         </div>
 
         {/* Right Panel: Dubai */}
@@ -69,12 +57,6 @@ export const GlobalFootprint: React.FC = () => {
             className="w-full h-full object-cover grayscale contrast-125 scale-105 group-hover:scale-100 transition-transform duration-[2s] ease-out"
           />
           
-          {/* City Label */}
-          <div className="absolute bottom-12 left-0 right-0 text-center z-20">
-             <span className="font-sans text-xs md:text-sm uppercase tracking-[0.3em] text-platinum font-bold border-b border-platinum/30 pb-2">
-               Dubai
-             </span>
-          </div>
         </div>
       </div>
 

@@ -45,9 +45,6 @@ export const Footer: React.FC<FooterProps> = ({
             >
               ROIALS <span className="text-oldgold group-hover:text-white transition-colors">CAPITAL</span>
             </h3>
-            <p className="font-sans text-gray-400 text-lg max-w-sm mb-8 font-light">
-              Stockholm · London · Dubai · Zug
-            </p>
             <a
               href="https://www.linkedin.com/company/roials/"
               target="_blank"
