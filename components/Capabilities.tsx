@@ -10,7 +10,6 @@ interface CapabilitiesProps {
 const capabilities = [
   {
     title: 'PRINCIPAL-LED CAPITAL',
-    subtitle: 'SOVEREIGN DEALMAKING',
     description: 'Bespoke capital formation for established fund managers. Direct LP dialogue. Controlled counterparty progression.',
     icon: (
       <svg className="w-8 h-8 text-oldgold" fill="none" viewBox="0 0 24 24" stroke="currentColor">
