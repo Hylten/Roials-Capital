@@ -9,7 +9,7 @@ interface CapabilitiesProps {
 
 const capabilities = [
   {
-    title: 'CAPITAL ORIGINATION',
+    title: 'CAPITAL FORMATION',
     subtitle: 'SOVEREIGN DEALMAKING',
     description: 'Bespoke capital formation for established fund managers. Proprietary access and direct dialogue with leading LPs and institutional allocators.',
     icon: (
