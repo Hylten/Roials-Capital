@@ -8,7 +8,6 @@ const stats: Stat[] = [
     subtitle: 'PE, M&A, DERIVATIVES & CREDIT.'
   },
   { label: 'GLOBAL PARTNER JURISDICTIONS', value: 'STHLM · LDN · DXB · ZUG · NY' },
-  { label: 'Structure', value: 'Principal-Led' },
 ];
 
 export const Execution: React.FC = () => {
@@ -26,10 +25,13 @@ export const Execution: React.FC = () => {
 
             <div className="prose prose-invert max-w-none">
               <p className="font-sans text-xl md:text-2xl text-gray-200 leading-loose mb-10 font-light">
-                We combine the mindset of Entrepreneurs with the discipline of Institutional Principals.
+                We combine the mindset of Entrepreneurs with the discipline of Principals.
               </p>
               <p className="font-sans text-xl md:text-2xl text-gray-200 leading-loose font-light">
-                Structuring precedes placement. Capital is not found; it is engineered.
+                Boutique by design. Principal-led in execution.
+              </p>
+              <p className="font-sans text-xl md:text-2xl text-gray-200 leading-loose font-light">
+                Structure follows strategy.
               </p>
             </div>
           </div>

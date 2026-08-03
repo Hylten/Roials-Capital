@@ -133,9 +133,9 @@ const App: React.FC = () => {
       return;
     }
 
-    // Static routing: map path to view
+    // Static routing: map path to view (exclude home so splash can run on '/')
     const staticView = pathToView(path);
-    if (staticView !== 'home' || path === '/') {
+    if (staticView !== 'home') {
       setCurrentView(staticView);
       document.title = seoTitles[staticView] || seoTitles['home'];
       setAnimationComplete(true);
