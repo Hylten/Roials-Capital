@@ -13,11 +13,12 @@ draft: false
 author: "Roials Capital"
 ---
 
+
 A $5B board review does not reward improvisation. It rewards engineered inevitability. Cold structure. Clean logic. Zero noise. The architecture must survive hostile diligence, cross-border scrutiny, and political variance. Asset hardening is the conversion of operational chaos into institutional-grade permanence. Capital follows structure. Structure follows intent. Intent requires sovereignty. A principal does not defend assets. A principal fortifies them. Movable. Layered. Audit-proof.
 
 Board-ready.
 
-* .
+- .
 
 Begin with the first law: Nothing scales without a hardened balance sheet. LPs know this. GPs pretend to. Boards verify it. Fund-III depends on it. The playbook operates under three imperatives:
 
@@ -192,3 +193,7 @@ If the board pack fails, the raise fails. If the pack dominates, the raise accel
 ## Final Directive
 
 This briefing stands on one metric: Institutional Survivability Index = 0. 87 or higher. Request confidential capital audit.
+
+## Sammanfattning
+
+En $5B boards kräver ingen improvisation – endast strukturell oundviklighet. Härdning av tillgångar sker via balansräkningens kontroll, jurisdiktionell exekverbarhet och regulatorisk förutsägbarhet, där intäktsflöden, säkerheter och regelverk utgör de tre pelarna för institutionell tyngdkraft. Kapital följer kontroll; kontroll kräver arkitektur.

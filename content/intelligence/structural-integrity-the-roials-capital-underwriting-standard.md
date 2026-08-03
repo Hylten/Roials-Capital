@@ -13,7 +13,8 @@ draft: false
 author: "Jonas Hyltén"
 ---
 
-It is The Mandate
+
+Institutional capital gravitates toward structures of predictability.
 
 . Institutional capital flows toward order.
 
@@ -204,3 +205,7 @@ Not all are offered. Access depends on structural maturity and covenant reliabil
 - Risk insulation We do not advertise them.
 
 We evaluate who earns access.
+
+## Sammanfattning
+
+Institutionell kapital strömmar till strukturer av förutsägbarhet – Roials underwritingstandard är en filter som skiljer disciplinerade förvaltare från opportunister. Genom att hårdgöra tillgångar, säkra förpliktelsefullt ledarskap och säkerställa exekveringshastighet elimineras strukturell risk; endast de som uppvisar oantastlig integritet och motståndskraft kvalificerar sig som kapitalförvaltare.

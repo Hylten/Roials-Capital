@@ -13,6 +13,7 @@ draft: false
 author: "Roials Capital (Institutional Briefing)"
 ---
 
+
 The capital vacuum in North American energy and lower mid market private credit is a structural consequence of regulatory drift and lender retrenchment, not an erosion of asset quality. Within this environment, stabilized yield has shifted from being a performance metric to functioning as a balance sheet instrument that governs the degree of asset hardening available to institutional allocators. Yield has become the primary variable that determines whether an asset operates as a liability absorber or a liquidity consumer. This is the operational definition of asset hardening in the current regime.
 
 ### Phase I:
@@ -109,9 +110,9 @@ These include energy capitalizations between 50 million and 250 million dollars,
 
 ## The Stewardship Filter
 
-Stewardship is not a marketing concept. It is a discipline within capital allocation that evaluates the degree to which capital is employed in a manner consistent with non wasteful resource management. This discipline aligns with the Biblical principle that a good person leaves an inheritance for future generations
+Stewardship is not a marketing concept. It is a discipline within capital allocation that evaluates the degree to which capital is employed in a manner consistent with non-wasteful resource management. This discipline aligns with the biblical principle that a good steward leaves an inheritance for future generations.
 
-* .
+- .
 
 In institutional practice, stewardship requires that yield must not be extracted at the expense of asset durability. The Stewardship Filter applies four controls.
 
@@ -144,3 +145,7 @@ Institutional allocators are navigating a capital environment where yield functi
 3. Engagement with partners capable of delivering unfiltered technical intelligence and institutional grade introductions.
 
 Roials Capital provides this navigational function. A confidential strategy audit or portfolio calibration session allows institutional LPs, GPs, and family offices to align capital deployment with durable yield architectures and structurally hardened asset profiles.
+
+## Sammanfattning
+
+Yield has evolved from a performance metric to a structural balance sheet instrument, dictating asset hardening in a capital-scarce regime defined by regulatory drift and lender retrenchment. In this bifurcated environment, stabilized yield differentiates capital anchors from liquidity consumers, enforcing institutional risk calibration through tangible collateral and deterministic cash flows.

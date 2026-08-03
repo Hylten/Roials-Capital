@@ -72,3 +72,7 @@ No theatrics. Principal voice only. Reallocation is mandatory. Delay is costly. 
 ## The Mandate
 
 stands: Reallocate into Fund-III. Reinforce liquidity corridors. Execute energy mandates acquisitions. Complete MiFID II perimeter expansions. Maintain acceleration. Sustain dominance. Confidential capital audit required to initiate allocation bandwidth expansion. Target throughput ratio: 1.82x within 12 months.
+
+## Sammanfattning
+
+The Reallocation Mandate is sovereign capital discipline in motion. Fund-III becomes the hardened chassis for 80% of capital, driving buyouts, liquidity corridors, and energy acquisition corridors under asymmetric durability. Stasis decays; execution fortifies.

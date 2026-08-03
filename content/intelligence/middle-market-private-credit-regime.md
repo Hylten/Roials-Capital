@@ -1,17 +1,18 @@
 ---
 title: "The Middle Market Regime and the Credit Sovereignty Window"
 slug: "middle-market-private-credit-regime"
-description: "Institutional briefing on middle-market private credit, liquidity engineering, and capital raising mechanics for Fund-III mandates targeting buyouts, add-ons, Asset-Based Lending structures, and sector specific specia…"
+description: "A structural gap appears when capital migrates faster than underwriting standards can adapt. The middle market sits precisely in that imbalance."
 date: "2026-01-15"
 tags: []
 categories: ["Intelligence"]
 canonical_url: "https://roialscapital.com/intelligence/middle-market-private-credit-regime/"
 meta_title: "The Middle Market Regime and the Credit Sovereignty Window"
-meta_description: "Institutional briefing on middle-market private credit, liquidity engineering, and capital raising mechanics for Fund-III mandates targeting buyouts, add-ons, Asset-Based Lending structures, and sector specific specia…"
+meta_description: "A structural gap appears when capital migrates faster than underwriting standards can adapt. The middle market sits precisely in that imbalance."
 featured_image: ""
 draft: false
 author: "Roials Capital"
 ---
+
 
 A structural gap appears when capital migrates faster than underwriting standards can adapt. The middle market sits precisely in that imbalance. Capital entered. Infrastructure did not. That is the opportunity.
 
@@ -65,8 +66,10 @@ Covenants are not guardrails. They are signals. They force early correction. If 
 
 ### Phase V: Exit Yield without velocity is idle. Velocity without structure is reckless.
 
-We engineer both through a Fund-III architecture targeting a 1.
-5 to 1.
-8 times MOIC on senior-secured middle-market exposure with a
+### Phase V: Exit
 
 36 to 48 month duration band. Request a confidential capital audit to determine alignment with Fund-III deployment parameters.
+
+## Sammanfattning
+
+Bankregleringens permanenta tillbakadragande från mellanstora krediter skapar en strukturell lucka. Roials Capital utnyttjar detta genom disciplinerad LTV (35-55%), sponsorhastighet och kassaflödesfokus – där komplexitet genererar asymmetrisk riskjusterad avkastning i en mättad, men underutnyttjad, marknad.

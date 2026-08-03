@@ -13,6 +13,7 @@ draft: false
 author: "Jonas Hyltén"
 ---
 
+
 Order fails whenever origination is treated as a sales function instead of a governance engine. The structural gap begins there. Private debt is not constrained by capital. It is constrained by discipline. Every breakdown in underwriting quality traces back to operational drift inside the origination funnel. The market has accepted this drift as normal. I do not. This briefing clarifies THE REGIME SHIFT , the mechanics that follow, and the institutional consequences for Fund-III and beyond.
 
 ### Phase I:
@@ -82,26 +83,22 @@ Special mandates are not distractions. They are yield stabilizers that supply th
 
 Financial architecture is ultimately stewardship. Waste is sin. Leverage is responsibility. Capital allocation is a moral discipline before it becomes a technical one. This is the lens.
 
--
 
-* .
+- .
 
 A good man leaves an inheritance.
 
-- **
 
-*
 
-* .
+- .
 
 Faithfulness in little precedes faithfulness in much.
 
 - **Ecclesiastes 11:
 2
 
-*
 
-* .
+- .
 
 Diversify your portion because uncertainty is guaranteed. Institutional capital formation honors these constraints.
 
@@ -114,3 +111,7 @@ Stewardship in Fund-III means allocating capital only where dominion can be exer
 ### Phase V:
 
 EXIT Target loss ratio: below 40 basis points across the cycle. Request confidential capital audit.
+
+## Sammanfattning
+
+Regime-skiftet driver en brist på kontrollerbara kassaflöden, inte kapital—disciplin avgör utfallet. Fund-III måste etablera en industriell origination-arkitektur för att eliminera falska positiva och säkra förutsägbara återvinningar, annars riskerar avkastningen att eroderas av snabbare kompounderande felprissatt risk.

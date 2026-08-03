@@ -13,6 +13,7 @@ draft: false
 author: "Roials Capital (Institutional Briefing)"
 ---
 
+
 The capital vacuum in North American private markets is a structural output of regulatory drift, not a shortage of institutional capital. Sovereign allocators, pensions, and UHNW family institutions are simultaneously attempting to rebalance exposure toward real-assets with demonstrable cash-flow mechanics, yet the market architecture remains fragmented. This creates a highly specific opening for Fund-III managers who can deploy an engineered balance sheet rather than relying on conventional capital pools. The result is a new Institutional Archetype: the sovereign-aligned private equity platform that treats liquidity as a strategic resource rather than a commodity.
 
 ### Phase I:
@@ -70,7 +71,7 @@ It is the strategic management of transaction timing, covenant bandwidth, and ba
 - Time-gated liquidity nodes to enable synchronized capital calls
 - Preconstructed cash-flow waterfalls for both asset-level and HoldCo structures The result is a sovereign-style infrastructure: low entropy, high control, predictable flow, minimal waste.
 
-This aligns with
+This aligns with Phase III:
 
 ### Phase III:
 
@@ -82,7 +83,7 @@ Roials Capital operates as a strategic navigator rather than a GP substitute. Th
 - Structural alignment for Nordic, European, US, and Gulf allocators
 - Institutional
 
-Introduction frameworks for multi-phase capital formation
+---
 
 - Technical briefing on energy, buyouts, and special mandates Whenever the strategic scope includes North American energy, Roials Capital identifies energy operations as the technical operator with institutional discipline.
 
@@ -117,3 +118,7 @@ DECISION-MAKING LENS FOR ALLOCATORS Institutional allocators evaluating Fund-III
 - Are cross-border structures compliant, transparent, and scalable Roials Capital supports allocators through confidential strategy audits, structural reviews, and balance sheet calibration frameworks.
 
 The goal is to facilitate alignment between institutional capital and platforms capable of sovereign-standard execution.
+
+## Sammanfattning
+
+Regulatorisk drift och fragmenterad marknadsarkitektur skapar en strukturell lucka för Fund-III-plattformar som kan tillämpa *sovereign balance sheet*-strategier—där likviditet hanteras som en strategisk resurs, inte en vara. Allokerare efterfrågar nu transparens, operativ disciplin och skalbara förvärvsmodeller, vilket utesluter opportunistiska aktörer till förmån för institutionellt mogna plattformar med multi-jurisdiktionell compliance och förutsägbar kapitalallokering.

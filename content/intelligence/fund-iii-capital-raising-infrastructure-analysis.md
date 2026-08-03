@@ -22,7 +22,7 @@ Syndication logic. Asset-Based Lending posture. Regulatory clearance probability
 
 The lens is allocator psychology and GP positioning.
 
-* : capital must outlive the architect.
+- : capital must outlive the architect.
 
 ## Institutional Layout
 
@@ -44,7 +44,7 @@ Not persuasion. CAPITAL‑RAISING INFRASTRUCTURE Fund‑III platforms must opera
 
 1. Base Infrastructure (Core) 2.
 
-Mobilization Infrastructure (Capital Entry)
+Base Infrastructure (Core) 2.
 
 3. Transmission Infrastructure (Portfolio Execution)
 
@@ -167,7 +167,7 @@ They calculate liquidity asymmetry. They inspect failure tolerance. In Fund‑II
 - Dividend recap structures
 - Synthetic liquidity lanes Institutional Liquidity Paths increases survivability.
 
-Survivability increases allocator trust. Trust compounds into commitment expansion. - -
+Transmission Infrastructure (Portfolio Execution)
 
 - Asset-Based Lending: Institutional Liquidity Paths TIER The Asset-Based Lending layer functions as shock absorber.
 
@@ -283,3 +283,7 @@ Fund‑III requires :
 - Real‑time covenant breach alerts Data discipline is the new governance.
 
 Allocators expect precision. Precision attracts institutions. Institutions scale funds.
+
+## Sammanfattning
+
+Fund-III kräver strukturell mognad: en kapitalresande maskin med deterministisk data, jurisdiktionell fördel och kompressionsfri governance. Allocatorer betalar för systemet bakom avkastningen – inte narrativ – där flödesfriktion, riskkontainment och regulatorisk klarhet avgör checkstorlekar och momentum. Kapital måste leva längre än arkitekten.

@@ -17,7 +17,7 @@ Institutional architecture begins with the presumption of asymmetry. Capital mov
 
 It is a jurisdictional blueprint for allocators who operate above retail noise and below sovereign glare.
 
-* .
+- .
 
 The architecture is divided into four operational pillars.
 
@@ -134,7 +134,7 @@ Engineering. Pressure mapping. Barrel realism. Roials Capital focuses on:
 - Acquisition structuring under EU perimeter rules
 - Sovereign risk buffers Execution must remain within the regulatory envelope.
 
-Precision prevents regulatory friction. VI. Institutional Hardening
+- Principal Tier (10%) – This is Roials Capital’s proprietary segment.
 
 - The Roials Capital Doctrine Hardening is the invisible layer.
 
@@ -189,6 +189,10 @@ They command higher multiples. They retain value through shocks. XII. Strategic 
 - Weekly operational pulses
 - 48‑hour deal temperature checks Rhythm creates trust.
 
-Trust compounds into capital. XIII. Why Standards Matter Standards serve as institutional gravity. They prevent drift. They prevent disorder. They ensure the fund behaves like a fund, not a noise‑driven vehicle. Institutional Liquidity Paths without standards collapses into ad‑hoc financing. With standards, it becomes architecture. XIV. Principal Mandate The Mandate is simple. Precision. Speed. Authority. No wasted cycles. No narrative drift. No structural weakness. Roials Capital serves as the institutional spine for capital allocators who operate without training wheels. We build agreements that behave like machines. Fast. Clean. Predictable. No improvisation. Only architecture. Confidential capital audit required for entry. Terminal Metric: Enforcement Coherence Index =
+---
 
 0. 92.
+
+## Sammanfattning
+
+Institutionell arkitektur kräver asymmetrisk precision. Roials Capital bygger strukturella likviditetsvägar (LEA) som transformerar riskexponering till dominansexponering genom tvärjurisdiktionella covenant-ramverk, designade för att härda balansräkningar och accelerera förvärvslogik i en fragmenterad marknad. LEA är inte kredit—det är governance, där avtalet själv blir tillgången.

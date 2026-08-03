@@ -17,7 +17,7 @@ is acceleration. Fund‑III must expand its capital perimeter, reinforce multi�
 
 Asset hardening becomes survival architecture, not strategic optionality.
 
-* .
+- .
 
 Inheritance demands structure. Structure demands foresight. Fund‑III stands at the convergence of three pressures:
 
@@ -25,7 +25,7 @@ Inheritance demands structure. Structure demands foresight. Fund‑III stands at
 - GP expansion into multi‑jurisdictional Asset-Based Lending channels.
 - Digitally‑denominated liquidity gaining cost advantage in execution speed.
 
-The response is engineering. Real engineering. Multi‑asset hardening across energy, credit, commercial rights, digital‑asset custody, and regulatory‑grade liquidity installations. No ideology. No noise. Just math, governance, and sovereign positioning. Institutional capital wants certainty. Markets don't offer certainty. Architecture does. The first
+The response is engineering. Real engineering. Multi-asset hardening across energy, credit, commercial rights, digital-asset custody, and regulatory-grade liquidity installations. No ideology. No noise. Just math, governance, and sovereign positioning. Institutional capital wants certainty. Markets do not offer certainty. Architecture does. The first
 
 ### Pillar I: s structural jurisdictional separation. The fund’s physical assets, digital assets, contractual assets, and synthetic liquidity must sit in segregated regulatory zones.
 
@@ -40,12 +40,16 @@ Energy mandates demand hardening due to commodity volatility. Digital mandates d
 
 Architecture eliminates fragility.
 
-* .
+- .
 
 Legacy is construction. Construction is system. System is protection. Fund‑III must assert its perimeter. Enforce its rules. Harden its assets. Accelerate its execution.
 
 Expand its jurisdictions. Integrate its liquidity. Synchronize governance.
 
-Raise institutional capital. Deploy with speed. The next
+### Pillar I: Structural jurisdictional separation. The fund’s physical assets, digital assets, contractual assets, and synthetic liquidity must sit in segregated regulatory zones.
 
 ### Step I is confidential: initiate the capital audit.
+
+## Sammanfattning
+
+Fund-III:s Multi-Asset Hardening Architecture etablerar en regleringsseparerad, flerlagersstruktur för att transformera och härda tillgångar—fysiska, digitala och syntetiska—till institutionellt ogenomträngliga, asymmetriska tillgångsblock. Arkitekturen eliminerar misalignment genom monetiseringsramverk, där digital likviditet integreras som infrastruktur snarare än spekulativ tillgångsklass, driven av accelererad kapitalrotation och regulatorisk komplexitet.

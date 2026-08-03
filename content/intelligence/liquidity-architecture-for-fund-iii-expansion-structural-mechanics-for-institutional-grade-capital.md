@@ -13,6 +13,7 @@ draft: false
 author: "Jonas Hyltén"
 ---
 
+
 Fund-III was designed with a singular purpose. To build a liquidity architecture that absorbs volatility, allocates precision, and strengthens the balance sheet of high conviction participants. This paper outlines the structural mechanics that guide our Strategic Collateralization framework across private credit, asset based Asset-Backed Frameworks, public share Strategic Collateralization, and institutional crypto credit. It is not a pitch. It is an architectural brief.
 
 The Structural Premise of Fund-III Every fund reflects a worldview. Fund-III is built on the assumption that liquidity scarcity will define the next cycle more than the pursuit of yield.
@@ -49,11 +50,11 @@ Collateral is not viewed as security. Collateral is viewed as geometry. The geom
 - Yield producing instruments.
 - Select alternative collateral structures.
 
-What matters is not the asset category. What matters is the asset’s precision under valuation stress. This is the institutional threshold that defines our approach. Crypto Institutional Liquidity Paths at Institutional Scale Crypto Institutional Liquidity Paths is not a retail activity at Roials Capital. Our minimum threshold is 2,000,
+What matters is not the asset category. What matters is the asset’s precision under valuation stress. This is the institutional threshold that defines our approach. Crypto Institutional Liquidity Paths at Institutional Scale is not a retail activity at Roials Capital. Our minimum threshold is 2,000,000. This preserves structural integrity.
 
 000. This preserves structural integrity.
 
-It allows us to maintain institutional level underwriting while avoiding the volatility contamination that occurs in small sized crypto credit portfolios. The objective is not speculative leverage. The objective is controlled liquidity extraction from digital collateral that behaves predictably under professional custody. Fund-III integrates crypto Strategic Collateralization only where the digital asset functions like an institutional asset. Liquidity is manufactured through conservative liquidity facility to value, multi-tier collateral monitoring, and limited duration structures that protect the fund. Crypto is not the frontier. Crypto is simply another collateral class when treated with correct architectural discipline. Public Share Strategic Collateralization and the 5,000 , 000 Threshold Public share Strategic Collateralization in Fund-III begins at 5,000,
+It allows us to maintain institutional level underwriting while avoiding the volatility contamination that occurs in small-sized crypto credit portfolios. The objective is not speculative leverage. The objective is controlled liquidity extraction from digital collateral that behaves predictably under professional custody. Fund-III integrates crypto Strategic Collateralization only where the digital asset functions like an institutional asset. Liquidity is manufactured through conservative liquidity facility to value, multi-tier collateral monitoring, and limited duration structures that protect the fund. Crypto is not the frontier. Crypto is simply another collateral class when treated with correct architectural discipline. Public Share Strategic Collateralization in Fund-III begins at 5,000,000. This threshold is not arbitrary.
 
 000. This threshold is not arbitrary.
 
@@ -94,7 +95,7 @@ These principles allow the fund to absorb liquidity shocks without constriction.
 
 Designing Velocity Without Compromise Velocity is only beneficial when it does not degrade collateral. Acceleration without erosion is the core challenge of modern liquidity structuring.
 
-Fund-III addresses this through a controlled velocity model. We do not maximize liquidity facility to value. We maximize sustainability of liquidity extraction. This requires discipline. It also requires an understanding that most liquidity failures occur when velocity outruns collateral precision. Our architecture prevents that misalignment before the liquidity facility is ever issued. Multi
+Fund-III addresses this through a controlled velocity model. We do not maximize liquidity facility to value. We maximize sustainability of liquidity extraction. This requires discipline. It also requires an understanding that most liquidity failures occur when velocity outruns collateral precision. Our architecture prevents that misalignment before the liquidity facility is ever issued. Multi-layer collateral monitoring ensures alignment between velocity and collateral integrity.
 
 ## Layer L: I
 
@@ -107,3 +108,7 @@ Fund-III’s expansion is built on the cumulative effect of disciplined Institut
 Why Architecture Determines Outcomes Most credit failures are design failures. Most liquidity crises begin with structure rather than market events.
 
 Fund-III avoids these pitfalls through architectural rigor. This rigor is evident in threshold sizing. It is evident in collateral selection. It is evident in the stability-first logic that guides every underwriting decision. The architecture is the defense. The architecture is also the advantage. It is the reason Fund-III can expand without diluting quality.
+
+## Sammanfattning
+
+Fund-III etablerar en institutionsgraderad likviditetsarkitektur genom strategisk säkerställning av kredit, tillgångar och institutionell krypto, designad för att absorbera volatilitet och skapa stabil likviditet i en värld präglad av likviditetsskärpa. Genom rigorös säkerhetsintegritet, kontrollerad likviditetsutnyttjandegrad och auktoritativ struktur institutionaliserar vi koherens under stress, med privat kredit som fundament för stabilitet och tillgångsbaserad säkerställning som kärnallokering.

@@ -13,6 +13,7 @@ draft: false
 author: "Jonas Hyltén"
 ---
 
+
 The new standard is structural. It is engineered around collateral with institutional clarity and executed through private credit mechanics that favor precision over negotiation. For holders of public shares at the minimum threshold, liquidity is no longer an event. It becomes a controlled function, similar to treasury management. This is the frontier Roials Capital operates within.
 
 Crypto Strategic Collateralization for the + Holder Crypto positions, when properly structured, can also serve as collateral. Roials Capital maintains a minimum threshold to ensure institutional scale.
@@ -47,3 +48,7 @@ Private credit and asset‑based Asset-Backed Frameworks will continue to displa
 The New Standard Liquidity is now structural. Collateral is now strategic.
 
 And capital access is now governed by institutional mechanics rather than legacy banking systems. Public share Strategic Collateralization at the threshold is the most accurate representation of this shift. It reflects the sophistication of modern wealth architecture and the need for a framework that does not compromise on control or clarity. Roials Capital stands at the front of this structural evolution.
+
+## Sammanfattning
+
+Liquiditet är nu en strukturell disciplin, inte en transaktion. Roials Capital etablerar den nya standarden genom precision-collateraliserad private credit och crypto-mekanik, designad för HNWI/UHNW att bevara kapital, allokera långsiktigt och agera diskret – där vi definierar reglerna, trösklarna och collateral-parametrarna. Framtiden tillhör de som behandlar likviditet som ett ingenjörssystem, inte en opportunistisk handling.

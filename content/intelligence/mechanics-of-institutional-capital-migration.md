@@ -13,6 +13,7 @@ draft: false
 author: "Roials Capital (Institutional Briefing)"
 ---
 
+
 The capital vacuum shaping North American hard-asset sectors is a direct function of institutional regulatory drift rather than any degradation in underlying asset productivity. Over the last five cycles, allocators have executed a predictable migration pattern driven by compliance frameworks, liquidity constraints, currency blocks, and the structural gravitational pull of cash-flow certainty. The result is a bifurcation: abundant capital in benchmarked index strategies and a chronic shortage of institutional capital in sectors with long-dated fundamentals but operational complexity. Institutional migration is not an emotional phenomenon. It is a rules-based reallocation pattern governed by balance sheet pressure, portfolio calibration models, and regulatory capital weighting. The current regime demonstrates the same characteristics observable in 1986, 1999, 2009, and 2020, with allocators repositioning toward assets that offer durability, jurisdictional stability, and predictable operational mechanics.
 
 ## The Regime Shift
@@ -63,9 +64,9 @@ Roials maintains a proprietary pipeline across buyout platforms, Asset-Based Len
 
 ## The Stewardship Filter
 
-Stewardship is treated not as philanthropy but as a discipline of non-wasteful resource management. For institutions with multi-generational mandates, capital stewardship aligns with the scriptural principle in
+Stewardship is treated not as philanthropy but as a discipline of non-wasteful resource management. For institutions with multi-generational mandates, capital stewardship aligns with the scriptural principle of longevity, prudence, and structured allocation.
 
-* , emphasizing longevity, prudence, and structured allocation.
+- , emphasizing longevity, prudence, and structured allocation.
 
 Stewardship in this context means:
 
@@ -82,3 +83,7 @@ The Alberta basin provides a clear illustration. Operators with rigorous cycle m
 - Cross-border MiFID II or GCC-aligned mandates will benefit from a confidential portfolio calibration dialogue.
 
 This dialogue is not a solicitation. It is a structural assessment designed to map institutional objectives to the current capital migration regime.
+
+## Sammanfattning
+
+Institutionell kapitalmigration drivs av regleringsdrift, inte fundamentala brister, och följer en förutsägbar cykel: solvenskrav, likviditet och riskreprisering pressar allokerare mot kassaflödesstabila tillgångar med låg mark-to-market-volatilitet. Den nuvarande bristen på institutionellt kapital i hårdvarusektorer är en direkt konsekvens av Basel IV, MiFID II och ESG-viktade utlåningsregler, vilket skapar en strukturell obalans där kreditflöden avviker från operativa fundamenta.

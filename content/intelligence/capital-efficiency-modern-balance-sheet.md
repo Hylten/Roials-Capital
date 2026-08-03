@@ -33,7 +33,7 @@ Core holdings are no longer static assets. They have become balance sheet instru
 
 2. Capital Structuring for Institutional Steadiness Strategic Collateralization has evolved into a specialized discipline.
 
-It sits at the intersection of treasury architecture, private credit structuring, and operational forecasting. It has three functions. First, stabilize the GP’s acquisition calendar. Capital timing gaps are the silent killers of mid-market buyout strategies. Institutional Liquidity Paths produces reliable execution windows through customized Asset-Based Lending lines, NAV-based facilities, and forward-drawn capital partners. Second, optimize the bottom quartile of the balance sheet. Underutilized assets
+Capital Structuring for Institutional Steadiness
 
 - Receivables, inventory, equipment, and rights
 - Can be transformed into operational liquidity without jeopardizing equity control.
@@ -77,9 +77,9 @@ Seniority is a legal fact, not a marketing headline. Stewardship requires clarit
 
 4. Alignment with durable assets.
 
-Hard assets with measurable utility and predictable decline profiles create balance sheet durability. This is consistent with
+Strategic Collateralization has evolved into a specialized discipline. It sits at the intersection of treasury architecture, private credit structuring, and operational forecasting. It has three functions. First, stabilize the GP’s acquisition calendar. Capital timing gaps are the silent killers of mid-market buyout strategies. Institutional Liquidity Paths produces reliable execution windows through customized Asset-Based Lending lines, NAV-based facilities, and forward-drawn capital partners. Second, optimize the bottom quartile of the balance sheet. Underutilized assets—receivables, inventory, equipment, and rights—can be transformed into operational liquidity without jeopardizing equity control.
 
-* , which anchors stewardship in generational capital behavior.
+- , which anchors stewardship in generational capital behavior.
 
 Stewardship transforms the balance sheet from a transactional instrument into a long horizon strategic platform.
 
@@ -93,6 +93,10 @@ DECISION-MAKING LENS FOR THE ALLOCATOR The allocator operating in 2026 faces an 
 - Hard asset introductions
 - Cross-border acquisition readiness Institutional allocators benefit from a confidential Strategy Audit to assess alignment between their balance sheet architecture, risk posture, and capital deployment timelines.
 
-This calibration produces principal authority. It strengthens acquisition readiness. It increases Opportunity Velocity without destabilizing the equity foundation. Roials Capital supports allocators seeking disciplined clarity, technical accuracy, and structural alignment across their Fund-III roadmap, liquidity frameworks, and energy introductions. [END OF BRIEFING]
+Alignment with durable assets
 
 ##
+
+## Sammanfattning
+
+Den strukturella kapitalbristen i Nordamerikas energisektor skapar en obeaktad arbitragemöjlighet: institutionella aktörer kan utnyttja regleringsdrivna kreditklyftor och oelastisk efterfrågan genom att optimera balansräkningar med *Core Holdings Leverage* och strukturell kapitaleffektivitet. Den nya regimen premierar *Opportunity Velocity* – snabb beslutscykel och operationell smidighet avgör vem som fångar det kritiska gapet mellan underliggande tillgångsvärde och marknadsprissättning.

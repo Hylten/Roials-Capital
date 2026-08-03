@@ -13,6 +13,7 @@ draft: false
 author: "Roials Capital (Institutional Briefing)"
 ---
 
+
 The current migration of institutional capital across North America, Europe, and the Gulf states is a structural consequence of regulatory divergence, not a shift in allocator risk appetite. Capital is not searching for higher returns. Capital is searching for operational intelligibility and jurisdictional stability. The vacuum forming in North American energy is a predictable byproduct of this divergence, and allocators that understand the mechanics of transnational flow routing are positioning their Fund-III and Fund-IV vehicles to intercept dislocated assets before the next consolidation cycle sets in.
 
 ## The Regime Shift
@@ -82,7 +83,7 @@ It is not a retail narrative. It is a domain specific institutional partnership.
 
 Stewardship is not a marketing term. It is a discipline.
 
-Stewardship is the management of capital, resources, and operational environments without waste. It aligns with
+Stewardship is the management of capital, resources, and operational environments without waste. It aligns with disciplined capital governance.
 
 For allocators, the Stewardship Filter is expressed through:
 
@@ -111,6 +112,10 @@ It is based on structural alignment and operational clarity. Allocators seeking 
 - Liquidity engineering for balance sheet optimization
 - Institutional partner selection within real asset environments can request a Confidential Strategy Audit.
 
-This is not a product presentation. It is a portfolio calibration exercise designed to map the allocator’s capital governance requirements against the structural realities of
+For allocators, the Stewardship Filter is expressed through:
 
 2026. [END OF BRIEFING]
+
+## Sammanfattning
+
+Kapitalflöden 2026 drivs av regulatorisk divergens, inte riskaptit. Allokatorer positionerar Fund-III/IV för att kapitalisera på dislokerade tillgångar i stabila jurisdiktioner, där teknisk förutsägbarhet överträffar politisk osäkerhet. Denna strukturella omfördelning skapar transnationella arbitragemöjligheter i realtillgångar.

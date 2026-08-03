@@ -13,6 +13,7 @@ draft: false
 author: "Jonas Hyltén"
 ---
 
+
 Structural alignment is the core instrument that determines whether a high net worth principal or an institutional allocator views a cross border asset position as investable or as a latent liability. This paper outlines the Roials standard for multi jurisdictional readiness. It is designed for principals, not spectators. It is written to compress decision cycles, refine ownership logic, and harden asset posture before any mandate enters institutional review. The objective is singular. Institution grade alignment with zero narrative waste.
 
 Foundations of Structural Alignment Structural alignment begins with covenant stewardship. A principal accepts that ownership is a form of responsibility.
@@ -195,7 +196,7 @@ Institutions must know that the principal can execute without friction. Friction
 - Reporting is synchronized
 - Discretionary control is locked down This is structural alignment.
 
-This is asset hardening. This is covenant stewardship in practice. Final Principal Directive s
+This is asset hardening.
 
 - Do not negotiate with jurisdictional friction.
 
@@ -211,4 +212,8 @@ Present unified logic.
 
 - Do not seek capital.
 
-Attract capital by being institution ready. The institution funds clarity, not geography. It funds structure, not story. It funds discipline, not improvisation. Alignment is destiny. CTA Request confidential audi t
+This is covenant stewardship in practice.
+
+## Sammanfattning
+
+Strukturell alignment är avgörande för att omvandla gränsöverskridande tillgångar från latent risk till institutionellt investerbart kapital. Roials standard eliminerar fragmentering genom en enhetlig juridisk, regulatorisk och fiskal logik – en masterledger, en ägarberättelse och en kollateraldoctrine – för att säkerställa läsbarhet och kontrollhierarki inför $21B+ kapitalflöden. Principens uppgift är att definiera villkoren, inte reagera på dem.

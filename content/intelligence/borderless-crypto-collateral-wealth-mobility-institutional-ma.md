@@ -82,3 +82,7 @@ EXIT Fund-III institutional operations require a single invariant metric: mainta
 7 relative to jurisdiction-bound lender exposure.
 
 Request a confidential capital audit.
+
+## Sammanfattning
+
+Borderless collateral has redefined M&A leverage. Crypto collateral’s cross-border mobility—untethered from jurisdictional friction—destroys legacy capital stack efficiency, forcing institutional funds to adopt mobile overcollateralization or cede deal flow to arbitrage-savvy competitors. Superior returns now reside in exploiting this regime shift, not resisting it.

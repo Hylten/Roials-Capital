@@ -82,4 +82,8 @@ Capital formation will become more individualized, more secure, and more structu
 
 Precision in an Era of Fragmented Credit As the global financial system becomes more complex, the value of clarity increases. Precision has its own authority.
 
-The ability to quantify exposure, isolate collateral, and deploy capital without delay is what defines modern private credit leadership. We do not chase velocity. We design it. The middle market does not lack opportunity. It lacks structure. Structure is what we provide. principal authority is the position. Liquidity is the result. Request confidential audit
+Precision i en tid av fragmenterat kreditlandskap
+
+## Sammanfattning
+
+Middle Market Credit Gap är strukturell, ej cyklisk. Roials Capital exploaterar detta tomrum genom precision, kontroll och skräddarsydda kapitalvägar, och omvandlar rigiditet i traditionella system till funktionell likviditet för HNWI/UHNW. Privat kredit är inte längre komplementärt – det är nödvändigt, och vår strukturerade tillämpning av Asset-Based Lending levererar institutionell effektivitet utan byråkratisk friktion.

@@ -50,6 +50,10 @@ In institutional language, inheritance is liquidity architecture. Capital raised
 Clean capital paths.
 Tight compliance. Hard reporting. Aggressive consolidation. Zero drift. Zero noise.
 
-Maximum structural compression. When liquidity becomes a designed system, it becomes a generational asset. Not accidental. Engineered. Not volatile. Directed. Not fragile. Sovereign. Confidential capital audit required. Metric: LTV curvature ratio
+Maximum structural compression. When liquidity is engineered as a system, it becomes a generational asset—deliberate, not incidental. Directed, not volatile. Controlled, not fragile. Sovereign.
 
 0. 72.
+
+## Sammanfattning
+
+Strukturell likviditet är det avgörande generationskapitalet – inte företaget i sig. Kontroll skapas genom intertemporal kapitalpositionering, jurisdiktionell arbitrage och tillgångshärdning under kreditbegränsningar, vilket bygger likviditetsvallgravar och undertrycker diskonteringsräntor för att säkra värderingsfördelar. Fund-III måste agera systemiskt, inte opportunistiskt, för att erövra nästa decennium av buyout-makt.

@@ -13,6 +13,7 @@ draft: false
 author: "Roials Capital (Institutional Briefing)"
 ---
 
+
 The capital vacuum in middle-market acquisition structures is not the result of deal scarcity. It is the direct product of regulatory drift that has compressed traditional bank participation and created a structural opening for non-bank institutional capital to price seniority across Fund-III and Fund-IV ecosystems. The allocators who understand this shift are not searching for incremental yield. They are architecting positions inside supply constrained capital stacks where technical underwriting and operational control determine the risk surface more than the coupon.
 
 ## The Regime Shift
@@ -123,6 +124,10 @@ It is an operating system for capital management. DECISION-MAKING LENS FOR THE A
 
 5. Alignment Potential Is there a definable pathway for strategic alignment through an Institutional
 
-Introduction , Portfolio Calibration, or Confidential Strategy Audit that verifies compatibility at the operational and jurisdictional levels. Allocators who evaluate through this lens strengthen their position within the emerging capital regime and secure alignment with partners capable of navigating complex acquisition cycles. [END OF BRIEFING]
+5. Alignment Potential
 
 ##
+
+## Sammanfattning
+
+Regulatorisk drift har skapat en strukturell brist på bankkapital i mellanstora förvärv, vilket tvingar institutionella allokerare att positionera sig i kapitalstackar där underwriting och operationell kontroll avgör risk snarare än ränta. Fund-III-arkitekturer kräver nu systematiserade flerkanals-LP-origination, likviditetsoptimering och tvärgränsöverskridande compliance för att konkurrera om 15M–150M-dealerna i en marknad präglad av efterfrågeöverskott och bankernas reträtt.

@@ -13,6 +13,7 @@ draft: false
 author: "Jonas Hyltén"
 ---
 
+
 Roials Capital operates inside this domain with a very specific mandate. We provide liquidity against private credit and asset‑based Strategic Collateralization positions, and we extend crypto Asset-Backed Frameworks facilities beginning at a two million dollar threshold. Our function is structural. We build the architecture that lets large capital move without friction, without exposure leakage, and without the operational unpredictability that contaminates most crypto‑native Asset-Backed Frameworks venues. This is not retail Institutional Liquidity Paths. This is not opportunistic yield chasing. This is engineered liquidity for sovereign‑scale decision makers. The Institutional Logic of Crypto Liquidity A sovereign entity, an HNWI, or a UHNW principal seeks liquidity for one of three reasons:
 
 1. To accelerate capital deployment without liquidating core holdings
@@ -122,3 +123,7 @@ We do not share deal flows. We do not operate in visibility channels. Sovereign 
 The Future of Sovereign‑Scale Digital Liquidity As global finance evolves, crypto liquidity will become one of the primary channels through which sovereign entities mobilize capital. The shift is already visible.
 
 What remains missing in most markets is structural discipline. Roials Capital fills that gap. We bring private credit logic into a digital arena. We convert digital assets into institutional‑grade liquidity channels. We maintain the principal authority required for ultra‑capital operations. The future is not experimental. It is engineered.
+
+## Sammanfattning
+
+Roials Capital konstruerar strukturell likviditet för suveräna och ultra-kapitalstarka aktörer genom privata kredit- och tillgångsbaserade ramverk, med en lägsta tröskel om 2M USD. Vi eliminerar exponeringsläckage och operationell osäkerhet genom disciplinerad kreditlogik, inte spekulativa heuristiker – bara auktoritativ klarhet för beslutsfattare som kräver precision, inte narrativa distraktioner.

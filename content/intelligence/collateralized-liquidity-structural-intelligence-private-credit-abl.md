@@ -33,7 +33,7 @@ Hard assets that can be monetized rapidly.
 
 3. Tertiary collateral.
 
-Liquidity buffers, standby capacity, and engineered reserves that activate when constraints appear. The third
+Liquidity buffers, standby capacity, and engineered reserves that activate when constraints appear. The third layer of collateral—tertiary collateral—serves as a final safeguard against liquidity shocks, ensuring structural resilience even under extreme stress scenarios.
 
 ### Layer I: s where institutional advantage is built. It is where we remove insolvency scenarios from the probability set.
 
@@ -83,10 +83,16 @@ Capital is a stewardship mandate. Private credit without stewardship becomes ext
 
 Stewardship multiplies.
 
-* describes the principle with precision.
+- describes the principle with precision.
 
 Wealth passes across generations only when order governs resource allocation. Waste is the enemy. Slippage is unfaithfulness in slow motion. A fund manager guided by stewardship does not chase yield. He protects productive capacity. He extends the life of assets. He refuses to allocate capital when the structure invites disorder. Stewardship is not softness. It is discipline. Waste is not merely financial. Waste is structural. Waste is informational. Waste is liquidity left unharvested because managers lacked the conviction to impose order. The steward builds systems that prevent decay. He builds architectures that preserve solvency. He builds liquidity engines that maintain operational dignity for all parties involved. Private credit becomes a vehicle of peace when collateral integrity is preserved. Disorder invites conflict between GP and LP, between lender and borrower, between ownership and operators. Well-engineered collateral eliminates these conflicts. It removes ambiguity. It shields humans from their most predictable weaknesses. Stewardship establishes dominion not through dominance but through structure. Structure allows capital to serve its purpose. Structure restrains unnecessary risk. Structure protects the future from the impulses of the present.
 
 ### Phase V:
 
 EXIT The sole metric that matters: liquidity coverage ratio must stabilize above 1. 62 within 90 days of transaction close. Request confidential capital audit.
+
+## Sammanfattning
+
+Regime shift: Kapital allokerar nu efter informationsdensitet, inte term sheets. Private credit-vinnare behandlar collateral som ett dynamiskt likviditetsinstrument—inte en statisk säkerhet—och vinner genom att kapitalisera på marknadens felprissättning av hastighet, säkerhet och återhämtning.
+
+Teknisk hierarki: Primär (kassaflödesgenererande tillgång), sekundär (monetiserbara hårdvaror), tertiär (likviditetsbuffertar) skapar strukturell motståndskraft. Endogen likviditet omvandlar LTV-kurvor till prediktiva riskparaboler, eliminerar insolvensscenarier och bygger institutionellt övertag.

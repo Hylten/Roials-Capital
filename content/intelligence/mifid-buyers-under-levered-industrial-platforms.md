@@ -13,6 +13,7 @@ draft: false
 author: "Roials Capital"
 ---
 
+
 European MiFID II buyers have shifted posture. Not noise. Allocation gravity. They want platforms that hold shape under scrutiny. Under‑levered industrial operators stand tallest.
 
 1. Regulatory compression.
@@ -30,3 +31,7 @@ European allocators now match North American expectations in Fund‑III buyouts:
 energy mandates in the $50M.$250M band prioritize infrastructure‑grade stability.
 
 EU MiFID II acquisition programs look for the same. Industrial predictability. Low leverage. Real capital, not abstraction. Send the data room. We’ll run the confidential capital audit and map which buyer clusters align with your platform’s leverage footprint.
+
+## Sammanfattning
+
+MiFID II buyers now demand industrial platforms with minimal leverage and tangible operational stability, aligning with regulatory rigor and trans-Atlantic acquisition norms. Under-levered platforms accelerate execution certainty and capital deployment, while structured ABL financing reinforces acquisitive roll-ups within defined thresholds. Prioritize infrastructure-grade predictability—allocators seek real capital, not financial abstraction.

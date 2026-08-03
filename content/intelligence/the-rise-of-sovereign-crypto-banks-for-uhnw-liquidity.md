@@ -45,7 +45,7 @@ Roials Capital specializes in this category. We understand how to convert these 
 
 Crypto Capital Structuring at the Institutional Threshold UHNW digital asset positions require a specific credit architecture. Volatility is not the issue.
 
-The issue is the lack of institutional grade lenders with the ability to structure large positions without introducing custodial or rehypothecation risk. Roials Capital provides crypto backed Strategic Collateralization with a minimum threshold of 2,000,
+The issue is the lack of institutional-grade lenders capable of structuring large positions without introducing custodial or rehypothecation risk. Roials Capital provides crypto-backed Strategic Collateralization with a minimum threshold of 2,000,000. This threshold is intentional.
 
 000. This threshold is intentional.
 
@@ -99,3 +99,7 @@ We maintain principal authority. We define the structure. We provide the mechani
 - Liquidity engines that operate independently of political or regulatory cycles Sovereign crypto banks are emerging as the backbone of this environment.
 
 They provide leverage across assets that traditional banks cannot price. They provide liquidity without jurisdictional dependency. They provide privacy without opacity. Roials Capital is part of this evolution, serving as an institutional architect rather than a market participant. The next decade of UHNW wealth management will be defined by institutions that can operate in both digital and traditional domains with equal sophistication. Roials Capital is already operating inside that future. Request confidential audit
+
+## Sammanfattning
+
+Sovereign crypto banks emerge as the structural response to UHNW liquidity demands, enabling non-linear asset conversion without dispossession or regulatory friction. Roials Capital institutionalizes this frontier, delivering high-trust, asset-agnostic lending frameworks that bypass legacy banking constraints.

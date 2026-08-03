@@ -15,7 +15,7 @@ author: "Roials Capital"
 
 ## The Structural Truth
 
-Cycles compress when inefficiencies die. And many have died. Supply chain slack: gone. Capital indiscipline: gone. Cheap liquidity: gone. PE must adapt. And it is adapting. What follows is not speculation. It is architecture. Why Deployment Cycles Are Contracting
+The structural truth
 
 1. THE PRESSURE FROM MULTI-VINTAGE STACKING The post‑COVID era created an artificial sequencing distortion.
 
@@ -75,7 +75,7 @@ They allocate to GPs whose workflow removes friction and demonstrates inevitabil
 
 1. Front‑loaded deal visibility 2.
 
-Time‑compressed due diligence 3. Verified succession‑ready sellers 4. Pre‑cleared industrial families across EU and NA
+Cycles compress when inefficiencies die. Many have already perished—supply chain slack, capital indiscipline, cheap liquidity. Private equity must adapt, and it is doing so. What follows is not conjecture but structural reality.
 
 5. Fully aligned private credit partners
 
@@ -119,3 +119,7 @@ We do not react to markets. We shape them. We do not follow industry consensus. 
 Roials Capital processes private audits only for principals acting within the Fund‑III+ architecture or institutional mandates. Direct industrial lending inquiries must observe the Asset‑Based Lending Qualification Gates ($2M minimum / $5M optimal).
 
 Request confidential capital audit below.
+
+## Sammanfattning
+
+LP:s kräver accelererad kapitalallokering. Strukturella skiften—minskad multi-vintage-stacking, snabbare transaktionsflöden, industrialiserade processer och add-on-driven tillväxt—tvingar GP:s att korta ner deployeringscykler för att möta nya prestationskrav. De som inte levererar kontinuerlig rörelse riskerar att förlora mandat.

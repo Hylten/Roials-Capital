@@ -13,6 +13,7 @@ draft: false
 author: "Jonas Hyltén"
 ---
 
+
 A mispriced covenant structure always reveals the fracture point of an ecosystem long before the market acknowledges it. The gap shows up in second-order effects: subdued recovery projections, muted sponsor participation, and credit files that hide operational decay behind cosmetic EBITDA bridges. Order is not an option. It is the prerequisite for stewardship.
 
 ## The Regime Shift
@@ -25,16 +26,15 @@ The spine of the architecture is leverage discipline. Entrepreneurs often chase 
 
 1. **LTV Curves
 
-*
 
-* The observable LTV ceiling for Fund-III buyouts rarely exceeds
+- The observable LTV ceiling for Fund-III buyouts rarely exceeds
 
 52 to 58 percent under institutional tolerance. Sellers ignore this. Retail brokers ignore this. But private credit committees do not. They evaluate LTV under stress assumptions:
 
 - 20 to 35 percent margin compression
 - 180 to
 
-270 day working capital extension
+- 15 to 30 percent decline in liquidation values. The real LTV is the stressed figure.
 
 - 15 to 30 percent decline in liquidation values The real LTV is the stressed figure.
 
@@ -42,9 +42,8 @@ Anything above 60 percent becomes speculative credit, regardless of borrower sop
 
 2. **Cash‑Flow Waterfalls
 
-*
 
-* Cash‑flow stability is a myth without controlled waterfalls.
+- Cash‑flow stability is a myth without controlled waterfalls.
 
 Entrepreneurs often present blended accounts. Institutional underwriting eliminates blended accounts and demands priority channels. The waterfall must be mechanical:
 
@@ -59,9 +58,8 @@ If an entrepreneur hesitates, the credit file collapses in the eyes of instituti
 
 3. **Recovery Factors
 
-*
 
-* Recovery is the silent governor of pricing.
+- Recovery is the silent governor of pricing.
 
 Private lenders tolerate lower originations when recovery certainty is high. Recovery certainty rises with:
 
@@ -79,9 +77,9 @@ Fund-III demands a new architecture. The entrepreneur must operate with institut
 
 1. **Capital Raising Corridor:
 
-80 percent Mandate *
+- Fund-III capital formation sits at the center.
 
-* Fund-III capital formation sits at the center.
+- Fund-III capital formation sits at the center.
 
 The objective is to create an acquisition engine that institutional LPs trust. The corridor includes:
 
@@ -95,9 +93,9 @@ They fund systems. Fund-III capital arrives when the system exists before the pi
 
 2. **Monetization Architecture Corridor:
 
-10 percent Mandate (Asset-Based Lending) *
+- Asset-Based Lending is the tactical layer.
 
-* Asset-Based Lending is the tactical layer.
+- Asset-Based Lending is the tactical layer.
 
 It solves short-term liquidity constraints so that entrepreneurs avoid dilutive equity. Asset-Based Lending converts assets into controlled liquidity. It uses:
 
@@ -110,9 +108,9 @@ It prevents distress, stabilizes acquisition cycles, and signals institutional r
 
 3. **Special Mandate Corridor:
 
-10 percent Mandate *
+- The institutional ecosystem demands sector specialization.
 
-* The institutional ecosystem demands sector specialization.
+- The institutional ecosystem demands sector specialization.
 
 Two domains hold disproportionate weight.
 
@@ -127,7 +125,7 @@ The entrepreneur faces a different burden than a fund manager. They are not mere
 
 They are stewarding what has been entrusted to them.
 
-* frames The Mandate
+- frames The Mandate
 
 . Capital is a tool for multi‑generational preservation, not an instrument for impulsive expansion.
 
@@ -149,3 +147,7 @@ Theology of Capital demands truth in financial architecture. It demands operatio
 EXIT Fund-III operators who follow this discipline achieve a singular objective: a repeatable credit engine with a target DSCR of 1.65x under stressed conditions.
 
 Request a confidential capital audit.
+
+## Sammanfattning
+
+Mispriced covenant structures expose systemic fragility before markets react, betraying operational decay masked by cosmetic EBITDA bridges. The private credit regime has structurally shifted: institutional discipline now demands asset-level truth, not relational narratives, with stressed LTV ceilings (52-58%) under 15-30% liquidation declines and 20-35% margin compression—only deliberate credit architecture will secure capital formation for Fund-III and beyond.

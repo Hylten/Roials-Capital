@@ -52,7 +52,7 @@ Forced sales, emotional sales, tax driven sales. These erode the integrity of a 
 - Asset Based Capital Structuring
 - Crypto Monetization Architecture with a minimum threshold of 2,000,
 
-000
+Private Credit
 
 - Public Share Capital Structuring with a minimum threshold of 5,000,
 
@@ -122,3 +122,7 @@ The ability to borrow against crypto positions at institutional scale, with a mi
 - Multi generational plans stay aligned This is the architecture of modern wealth preservation.
 
 Custody protects the asset. Monetization Architecture protects the strategy. Liquidity protects continuity. Building the Institutional Crypto Vault for the Next 100 Years The families that endure understand one principle. Wealth is not a moment. Wealth is a structure. Institutional crypto custody is part of that structure. It is the vault that holds digital assets with institutional controls, institutional governance, and institutional resilience. Roials Capital builds this vault for families that operate across decades. Our role is to create the architecture that preserves digital assets, mobilizes liquidity, and integrates with private credit and Asset-Based Lending frameworks. The outcome is simple. Assets remain protected. Liquidity remains available. Governance remains stable. The family retains sovereignty. This is the future of multi generational wealth protection. It is engineered, not improvised.
+
+## Sammanfattning
+
+HNWI- och UHNWI-familjer integrerar nu krypto som en strategisk tillgång i flergenerationsplaner, varvid Roials Capital levererar institutionell förvaring som arkitektur – inte produkt. Vår ramverk säkerställer multi-jurisdiktionell redundans, programmerbar governance och mobilisering utan exponering av privata nycklar, designat för decennier av bestående kontroll och likviditet.
