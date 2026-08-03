@@ -33,7 +33,7 @@ export const DealOrigination: React.FC<DealOriginationProps> = ({ onFirmClick })
 
         {/* Title Block */}
         <div className="text-center mb-24">
-          <h1 className="font-display font-medium text-5xl md:text-7xl text-platinum tracking-[0.3em] mb-8 uppercase">
+          <h1 className="font-display font-medium text-3xl sm:text-5xl md:text-7xl text-platinum tracking-[0.15em] sm:tracking-[0.3em] mb-8 uppercase leading-tight">
             DEAL ORIGINATION
           </h1>
           <div className="w-16 h-[1px] bg-oldgold mx-auto shadow-[0_0_15px_rgba(197,160,89,0.5)] mb-8"></div>

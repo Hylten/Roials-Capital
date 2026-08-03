@@ -8,22 +8,26 @@ const pillars = [
   {
     number: '01',
     title: 'PRINCIPAL-LED EXECUTION',
-    description:
-      'Direct principal-led transaction management backed by the extensive background detailed on the',
-    linkText: 'board',
-    postLink: 'page.',
+    paragraphs: [
+      'Direct dealmaker-led investor sessions backed by a global advisory board with 160+ years of combined experience across private markets, M&A and cross-border transactions.',
+      'Every mandate is led from the front. We enter investor sessions directly, manage the narrative, address complex objections and maintain process momentum from first engagement to formal indications of interest.',
+    ],
   },
   {
     number: '02',
-    title: 'ASYMMETRIC CAPITAL ACCESS',
-    description:
-      'Proprietary demand generation and controlled counterparty progression bypassing traditional gatekeepers.',
+    title: 'PROPRIETARY INVESTOR INTELLIGENCE',
+    paragraphs: [
+      'Agentic origination workflows and multi-channel counterparty mapping engineered for precision engagement with qualified LP decision-makers across family offices, institutional allocators and private capital networks across Europe and selected global markets.',
+      'Human-in-the-loop governance maintains institutional execution quality at every stage of the outreach and qualification process.',
+    ],
   },
   {
     number: '03',
-    title: 'FRICTIONLESS TRANSITION',
-    description:
-      'Pre-emptive asset hardening and secure data-room structuring to accelerate term sheets.',
+    title: 'STRUCTURED CAPITAL PROGRESSION',
+    paragraphs: [
+      'Pre-emptive asset hardening, institutional data-room structuring and disciplined follow-through from first LP engagement to formal indications of interest and term sheets.',
+      'Mandate velocity is not a function of outreach volume. It is a function of structural precision, sequenced investor engagement and controlled counterparty progression.',
+    ],
   },
 ];
 
@@ -38,12 +42,12 @@ export const CapitalOrigination: React.FC<CapitalOriginationProps> = ({ onFirmCl
 
         {/* Title Block */}
         <div className="text-center mb-24">
-          <h1 className="font-display font-medium text-5xl md:text-7xl text-platinum tracking-[0.3em] mb-8 uppercase">
-            CAPITAL ORIGINATION
+          <h1 className="font-display font-medium text-3xl sm:text-5xl md:text-7xl text-platinum tracking-[0.15em] sm:tracking-[0.3em] mb-8 uppercase leading-tight">
+            CAPITAL FORMATION
           </h1>
           <div className="w-16 h-[1px] bg-oldgold mx-auto shadow-[0_0_15px_rgba(197,160,89,0.5)] mb-8"></div>
           <p className="font-sans text-oldgold text-[10px] uppercase tracking-[0.3em] font-bold">
-            SOVEREIGN DEALMAKING
+            THE EXECUTION ARCHITECTURE
           </p>
         </div>
 
@@ -56,7 +60,7 @@ export const CapitalOrigination: React.FC<CapitalOriginationProps> = ({ onFirmCl
               </span>
             </div>
             <p className="font-sans text-lg md:text-xl text-gray-400 font-light leading-relaxed">
-              We do not act as passive placement agents. We engineer deep market alignment, harden assets for rigorous due diligence, and deploy proprietary deal-flow architecture to secure capital for established fund managers and buy-side mandates.
+              We do not act as passive placement agents. We combine proprietary investor intelligence infrastructure, GTM-engineered outreach and senior dealmaker representation to drive capital formation processes for established fund managers and private equity firms.
             </p>
           </section>
 
@@ -75,27 +79,54 @@ export const CapitalOrigination: React.FC<CapitalOriginationProps> = ({ onFirmCl
                   </div>
                   <div className="pl-12">
                     <div className="w-8 h-[1px] bg-white/20 mb-6"></div>
-                    <p className="font-sans text-lg md:text-xl text-gray-400 font-light leading-relaxed">
-                      {pillar.description}
-                      {pillar.linkText && (
-                        <>
-                          {' '}
-                          <button
-                            onClick={() => {
-                              onFirmClick();
-                              window.scrollTo({ top: 0, behavior: 'smooth' });
-                            }}
-                            className="text-oldgold hover:text-white border-b border-oldgold/30 hover:border-white pb-[1px] transition-all duration-500 cursor-pointer"
-                          >
-                            {pillar.linkText}
-                          </button>
-                          {' '}{pillar.postLink}
-                        </>
-                      )}
-                    </p>
+                    {pillar.paragraphs.map((paragraph, idx) => (
+                      <p
+                        key={idx}
+                        className={`font-sans text-lg md:text-xl text-gray-400 font-light leading-relaxed${idx < pillar.paragraphs.length - 1 ? ' mb-6' : ''}`}
+                      >
+                        {paragraph}
+                      </p>
+                    ))}
                   </div>
                 </div>
               ))}
+            </div>
+          </section>
+
+          {/* Who We Work With */}
+          <section>
+            <div className="flex flex-col md:flex-row items-baseline gap-4 mb-8 border-b border-white/10 pb-4">
+              <span className="font-sans text-xs font-bold text-oldgold uppercase tracking-[0.3em]">
+                WHO WE WORK WITH
+              </span>
+            </div>
+            <div className="space-y-6">
+              <p className="font-sans text-lg md:text-xl text-gray-400 font-light leading-relaxed">
+                Roials Capital accepts mandates from established private equity fund managers and buy-and-build operators seeking structured access to institutional LP capital.
+              </p>
+              <p className="font-sans text-lg md:text-xl text-gray-400 font-light leading-relaxed">
+                We do not work with every mandate. Active engagements are assessed selectively and accepted subject to investment committee approval.
+              </p>
+              <p className="font-sans text-lg md:text-xl text-gray-400 font-light leading-relaxed">
+                Primary focus: Fund III+ private equity managers and established mid-market operators with a defined capital structure and clear path to close.
+              </p>
+            </div>
+          </section>
+
+          {/* What This Is Not */}
+          <section>
+            <div className="flex flex-col md:flex-row items-baseline gap-4 mb-8 border-b border-white/10 pb-4">
+              <span className="font-sans text-xs font-bold text-oldgold uppercase tracking-[0.3em]">
+                WHAT THIS IS NOT
+              </span>
+            </div>
+            <div className="space-y-6">
+              <p className="font-sans text-lg md:text-xl text-gray-400 font-light leading-relaxed">
+                We are not a placement agent in the traditional sense. We do not distribute teaser documents and wait for responses.
+              </p>
+              <p className="font-sans text-lg md:text-xl text-gray-400 font-light leading-relaxed">
+                We build mandate-specific investor architecture, qualify counterparties against verified dry powder and active allocation mandates, and lead the execution process directly until capital is committed.
+              </p>
             </div>
           </section>
         </div>
