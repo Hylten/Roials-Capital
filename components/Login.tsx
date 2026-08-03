@@ -1,16 +1,11 @@
 import React, { useState } from 'react';
-import { DEMO_MODE, CREDENTIALS } from '../config/access';
+import { DEMO_MODE } from '../config/access';
 
 interface LoginProps {
   onBack: () => void;
   onReplayIntro: () => void;
-  onLoginSuccess: (role?: 'lp' | 'dataroom') => void;
+  onLoginSuccess: () => void;
   accessType?: 'lp-access' | 'dataroom'; // Ny prop för att specificera åtkomsttyp
-}
-
-async function sha256(text: string): Promise<string> {
-  const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(text));
-  return Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2, '0')).join('');
 }
 
 export const Login: React.FC<LoginProps> = ({ onBack, onReplayIntro, onLoginSuccess, accessType = 'lp-access' }) => {
@@ -19,34 +14,17 @@ export const Login: React.FC<LoginProps> = ({ onBack, onReplayIntro, onLoginSucc
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
 
-  const handleLogin = async (e: React.FormEvent) => {
+  const handleLogin = (e: React.FormEvent) => {
     e.preventDefault();
     setIsLoading(true);
     setNotification(null);
 
     // Simulate network delay for "Security Check"
-    setTimeout(async () => {
+    setTimeout(() => {
       setIsLoading(false);
-
-      if (DEMO_MODE) {
-        // Demo authentication: Accept any email but require a specific passkey
-        if (password === 'ROIALS2026') {
-          onLoginSuccess();
-        } else {
-          setNotification("Invalid credentials. Access restricted to authorized personnel.");
-        }
-        return;
-      }
-
-      // Riktig autentisering: kontrollera mot CREDENTIALS (hash-jämförelse)
-      const account = CREDENTIALS.find(c => c.email.toLowerCase() === email.trim().toLowerCase());
-      if (!account) {
-        setNotification("Access denied. This email is not authorized.");
-        return;
-      }
-      const hash = await sha256(password);
-      if (hash === account.passhash) {
-        onLoginSuccess(account.role);
+      // Demo authentication: Accept any email but require a specific passkey
+      if (password === 'ROIALS2026') {
+        onLoginSuccess();
       } else {
         setNotification("Invalid credentials. Access restricted to authorized personnel.");
       }

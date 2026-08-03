@@ -15,6 +15,7 @@ import { Cookies } from './components/legal/Cookies';
 import { SplashScreen } from './components/SplashScreen';
 import { DataRoom } from './components/DataRoom';
 import { LpPortal } from './components/LpPortal';
+import { DEMO_MODE } from './config/access';
 import { CapitalOrigination } from './components/CapitalOrigination';
 import { IntelligenceIndex } from './components/intelligence/IntelligenceIndex';
 import { IntelligenceArticle } from './components/intelligence/IntelligenceArticle';
@@ -215,13 +216,14 @@ const App: React.FC = () => {
   };
 
   const handleViewChange = (view: View) => {
-    if (view === 'dataroom' && !isAuthenticated) {
+    if (view === 'dataroom' && !isAuthenticated && DEMO_MODE) {
       setCurrentView('login');
       setAccessType('dataroom');
       return;
     }
-    if (view === 'login') {
-      setAccessType('lp-access');
+    if (view === 'login' && !DEMO_MODE) {
+      // Riktigt läge: ingen egen login — Cloudflare Access är grinden
+      view = 'lp-portal';
     }
     setCurrentView(view);
 
@@ -233,10 +235,10 @@ const App: React.FC = () => {
     window.scrollTo({ top: 0, behavior: 'instant' });
   };
 
-  const handleLoginSuccess = (role?: 'lp' | 'dataroom') => {
+  const handleLoginSuccess = () => {
     setIsAuthenticated(true);
     sessionStorage.setItem('roials_dataroom_auth', 'true');
-    const destination = role ? (role === 'dataroom' ? 'dataroom' : 'lp-portal') : (currentView === 'dataroom' ? 'dataroom' : 'lp-portal');
+    const destination = currentView === 'dataroom' ? 'dataroom' : 'lp-portal';
     setCurrentView(destination);
   };
 
@@ -334,10 +336,10 @@ const App: React.FC = () => {
       >
         <main className="flex-grow">
           {currentView === 'dataroom' && (
-            isAuthenticated ? <DataRoom onBack={() => handleViewChange('home')} /> : <Login onBack={() => handleViewChange('home')} onReplayIntro={handleReplayIntro} onLoginSuccess={handleLoginSuccess} accessType={'dataroom'} />
+            !DEMO_MODE || isAuthenticated ? <DataRoom onBack={() => handleViewChange('home')} /> : <Login onBack={() => handleViewChange('home')} onReplayIntro={handleReplayIntro} onLoginSuccess={handleLoginSuccess} accessType={'dataroom'} />
           )}
           {currentView === 'lp-portal' && (
-            isAuthenticated ? <LpPortal onBack={() => handleViewChange('home')} onOpenDataRoom={() => handleViewChange('dataroom')} /> : <Login onBack={() => handleViewChange('home')} onReplayIntro={handleReplayIntro} onLoginSuccess={handleLoginSuccess} accessType={'lp-access'} />
+            !DEMO_MODE || isAuthenticated ? <LpPortal onBack={() => handleViewChange('home')} onOpenDataRoom={() => handleViewChange('dataroom')} /> : <Login onBack={() => handleViewChange('home')} onReplayIntro={handleReplayIntro} onLoginSuccess={handleLoginSuccess} accessType={'lp-access'} />
           )}
           {currentView === 'home' && (
             <Home
