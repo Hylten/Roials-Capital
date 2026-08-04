@@ -84,6 +84,7 @@ const getPosts = () => {
   const posts = Object.entries(postsGlob).map(([filepath, content]) => {
     const rawMarkdown = (content as any).default;
     const { data } = parseFrontmatter(rawMarkdown);
+    if (data && (data as any).draft === true) return null;
 
     const rawTitle = data.title || '';
     const rawDesc = data.description || '';

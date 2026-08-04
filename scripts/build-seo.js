@@ -91,7 +91,6 @@ async function generateSEO() {
   const files = fs.readdirSync(CONTENT_DIR).filter(file => file.endsWith('.md'));
   
   const feedItems = [];
-
   // 1. Generate Index Page (/intelligence/index.html)
   let listHtml = '<style>.arch-item a { transition: opacity 0.3s; } .arch-item a:hover { opacity: 0.7; }</style>';
   listHtml += '<div style="background: #000000 !important; min-height: 100vh; padding: 180px 24px; color: #E5E7EB; display: flex; flex-direction: column; align-items: center; overflow-x: hidden;">';
@@ -104,6 +103,7 @@ async function generateSEO() {
     const filePath = path.join(CONTENT_DIR, file);
     const rawContent = fs.readFileSync(filePath, 'utf8');
     const { data } = matter(rawContent);
+    if (data.draft === true) continue;
     const slug = data.slug || file.replace('.md', '');
     const title = data.title || 'Intelligence Report';
     const description = (data.description || '').replace(/\n+/g, ' ').replace(/\s+/g, ' ').trim();
@@ -159,6 +159,7 @@ async function generateSEO() {
     const filePath = path.join(CONTENT_DIR, file);
     const rawContent = fs.readFileSync(filePath, 'utf8');
     const { data, content } = matter(rawContent);
+    if (data.draft === true) continue;
 
     const slug = data.slug || file.replace('.md', '');
     const title = data.title || 'Intelligence Article';
