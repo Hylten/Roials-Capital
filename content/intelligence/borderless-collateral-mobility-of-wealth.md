@@ -42,4 +42,4 @@ Throughput expectation: 14.
 
 ## Summary
 
-M&A-regimen har utvecklats till ett orbitalt system där kapital och ägande rör sig snabbare än regleringar. Effektivitet skapas genom gränslös, jurisdiktionellt adaptiv säkerhet som säkrar optioner snarare än tillgångar, avgörande för moderna buyout- och add-on-strategier. Roials Capital prioriterar kollateral som agerar likviditet med suverän rörlighet, utnyttjande av regulatorisk fragmentering och institutionell efterfrågan på flerjurisdiktionell privat kredit.
+The M&A regime has evolved into an orbital system where capital and ownership outpace regulation. Efficiency is achieved through borderless, jurisdictionally adaptive security that locks options rather than assets, critical for modern buyout and add-on strategies. Roials Capital prioritizes collateral functioning as liquidity with sovereign mobility, leveraging regulatory fragmentation and institutional demand for multi-jurisdictional private credit.

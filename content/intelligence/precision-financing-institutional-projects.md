@@ -175,4 +175,4 @@ Are opportunities sequenced in a pattern that supports consistent deployment wit
 
 ## Summary
 
-Institutionella investerare positionerar sig för strukturella fördelar genom precision financing, driven av regulatorisk drift, likviditetsfragmentering och tidsmismatch i kapitalallokering. Regimen 2026 präglas av fyra dislokationer: ökad kapitalfriktion (Basel III/IV), durationomställning, energisektorns policyklyfta och europeisk regleringskonsolidering, vilket skapar segmenterade mandat och institutionellt anpassad kapitalförsörjning.
+Institutional investors secure structural advantages through precision financing, shaped by regulatory shifts, liquidity fragmentation, and capital allocation timing mismatches. The 2026 regime is defined by four dislocations: heightened capital friction (Basel III/IV), duration realignment, the energy sector’s policy divide, and European regulatory consolidation, producing segmented mandates and institutionally tailored capital supply. These conditions demand disciplined, opportunistic deployment.

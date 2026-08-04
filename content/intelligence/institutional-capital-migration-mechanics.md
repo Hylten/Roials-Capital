@@ -146,4 +146,4 @@ Roials Capital facilitates confidential consultations for allocators requiring l
 
 ## Summary
 
-Institutionell kapitalmigration drivs av regulatorisk fragmentering, överkoncentration och felprissättning av långvariga realtillgångar, vilket skapar en strukturell brist på produktiva tillgångar i Nordamerika sedan 2020. Kapital flyttar inte för högre avkastning utan för att undvika sårbarhet, med strategiska partners som Roials Capital som skapar hållbara allianser snarare än exponering.
+Regulatory fragmentation, asset overconcentration, and mispricing of long-duration real assets drive institutional capital migration, creating a structural shortage of productive assets in North America since 2020. Vulnerability avoidance—not yield maximization—dictates capital flows. Strategic partners like Roials Capital build durable alliances instead of exposure.

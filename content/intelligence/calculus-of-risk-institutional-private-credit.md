@@ -78,4 +78,4 @@ Control of risk. Control of time. Control of collateral. Control of outcomes. Fu
 
 ## Summary
 
-Private credit har utvecklats till en makroarkitektonisk kontrollmekanism där risköverföring och jurisdiktionell kontroll avgör kapitalflöden. Fund-III-strategier måste bemästra fem riskvektorer, särskilt strukturell senioritet, jurisdiktionell compliance och kollateralkvalitet, för att säkra prissättning och mandatutvidgning. Effektiv hantering av dessa torques avgör institutionella LPs trovärdighet och kapitalanskaffning.
+Private credit has become a macro-architectural control mechanism where risk transfer and jurisdictional authority dictate capital flows. Fund-III strategies must master five risk vectors—structural seniority, jurisdictional compliance, and collateral quality—to secure pricing and mandate expansion. Management of these torques determines institutional LPs' credibility and capital mobilization.

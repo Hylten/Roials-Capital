@@ -134,4 +134,4 @@ The process reduces reliance on high friction refinancing and credit line utiliz
 
 ## Summary
 
-Tokeniserad fastighetsliquiditet adresserar inte värdeproblem utan strukturella ineffekter i traditionella ägande- och avvecklingskedjor. Med ökad kapitalintensitet och regulatorisk press blir blockchain-baserad ägandeverifiering och realtidsavveckling avgörande för institutionell kapitalallokering.
+Structural inefficiencies in traditional ownership and settlement chains—not valuation issues—are resolved by tokenized real estate liquidity. Rising capital intensity and regulatory demands make blockchain-based ownership verification and real-time settlement essential for institutional capital allocation. These mechanisms eliminate legacy bottlenecks in asset transfer and custody.

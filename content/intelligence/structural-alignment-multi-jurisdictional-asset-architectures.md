@@ -79,4 +79,4 @@ The next stage is not transactional. It requires a confidential strategy audit t
 
 ## Summary
 
-Regulatorisk drift och balansräkningsavveckling driver kapitalbristen i Nordamerikas energisektor, inte resursutarmning. Allokeringar omkalibreras mot strukturer med förutsägbara utarmningskurvor och jurisdiktionell alignment mellan kassaflöde och säkerhetsstruktur, särskilt i mogna bassänger som Alberta. Kapitalbrist i operationellt motståndskraftiga sektorer och överskott i momentumdrivna segment definierar en ny regim för tvärjurisdiktionella tillgångsarkitekturer.
+Capital constraints in North America’s energy sector stem from regulatory operations and balance-sheet unwinds, not resource depletion. Allocations recalibrate toward structures with predictable depletion curves and jurisdictional alignment between cash flow and security frameworks, particularly in mature basins like Alberta. Operational resilience sectors face capital scarcity, while momentum-driven segments absorb excess liquidity, redefining cross-jurisdictional asset architectures.

@@ -117,4 +117,4 @@ Institutional allocators entering the current real estate regime require a decis
 
 ## Summary
 
-2026:s likviditetskris för statsägd fastighetsportföljer härrör från regulatorisk kompression och kapitalmigration, ej värdeerosion. Portföljerna är underutnyttjade då avkastningskrav och refinansieringskostnader divergerar under långvarigt höga räntor, trots stabila kassaflöden och lägre ersättningskostnader.
+The 2026 liquidity crisis in state-owned property portfolios stems from regulatory compression and capital migration, not value erosion. Underutilization results from misaligned yield requirements and refinancing costs amid prolonged high interest rates, despite stable cash flows and reduced replacement costs. Structural divergence between funding expenses and asset performance drives distress.

@@ -189,4 +189,4 @@ Monetization Architecture stabilizes the engine. Special mandates scale the engi
 
 ## Summary
 
-Institutionell kapitalhärdning kräver strukturell suveränitet: jurisdiktion, kontroll och design skapar asymmetrisk avkastning genom regulatorisk arbitrage, modulär transaktionsarkitektur och kassflödesoptimerad kapitalstrukturering. Roials Capital konstruerar en 80% expansionsriktad plattform för Fund-III med förutsägbara drawdowns, recap-cykler och audit-ready säkerhetslogik, vilket maximerar LP-bargaining power och minskar underwriting-slippage.
+Institutional capital hardening demands structural sovereignty: jurisdiction, control, and design generate asymmetric returns through regulatory arbitrage, modular transaction architecture, and cash-flow-optimized capital structuring. Roials Capital builds an 80% growth-oriented platform for Fund-III with predictable drawdowns, recap cycles, and audit-ready security protocols, maximizing LP bargaining power and reducing underwriting slippage. Execution eliminates dependency on market timing.

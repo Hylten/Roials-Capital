@@ -87,4 +87,4 @@ The ability to quantify exposure, isolate collateral, and deploy capital without
 
 ## Summary
 
-Middle market credit gap är strukturellt, ej cykliskt, och kräver precision och kontroll. Roials Capital fyller detta tomrum genom att designa kapitalvägar och strukturerad kredit för HNWI/UHNWI, där traditionella institut misslyckas med flexibilitet och snabb exekvering.
+The middle-market credit gap is structural, not cyclical, and demands precision and control. Roials Capital addresses this void by engineering capital solutions and structured credit for HNWI/UHNWI, where traditional institutions fail in flexibility and execution speed. These strategies deliver targeted risk-adjusted returns.

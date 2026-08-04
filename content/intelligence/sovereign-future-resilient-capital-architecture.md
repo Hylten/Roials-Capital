@@ -192,4 +192,4 @@ To proceed, request a confidential capital audit.
 
 ## Summary
 
-Fund-III:s mandat är hållbarhet, inte tillväxt: strukturell immunitet genom disciplinerad jurisdiktionell design, hard-bounded kapital och adaptiv avkastning. Fem pelare – institutionell djup, gränsöverskridande arbitrage, hard-asset underwriting, kapitalstrukturering och permanent mandat – formar en anti-fragil arkitektur oberoende av systemisk likviditet och regleringsrisk. LP-kapital skall rekryteras från okorrelerade zoner (USA, Norden, Gulfstater, EU) för att säkra flerregimkompatibilitet och motståndskraft mot cykler.
+Sustainability, not growth, defines Fund-III’s mandate: structural immunity is achieved through disciplined jurisdictional design, hard-bounded capital, and adaptive returns. Five pillars—institutional depth, cross-border arbitrage, hard-asset underwriting, capital structuring, and permanent mandate—construct an antifragile architecture independent of systemic liquidity and regulatory risk. LP capital will be sourced from uncorrelated zones (U.S., Nordics, Gulf States, EU) to ensure multi-regime compatibility and cycle resilience.

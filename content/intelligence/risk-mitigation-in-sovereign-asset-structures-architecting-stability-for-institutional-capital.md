@@ -128,4 +128,4 @@ We architect quietly, precisely, and with institutional discipline. Clients expe
 
 ## Summary
 
-Roials Capital designar stabila, hierarkiska strukturer för suveräna tillgångar genom att prioritera jurisdiktionell kontroll före tillgångsflöden. Strukturell och operativ transparens säkerställer motståndskraft mot marknads- och motpartsrisker i syntetiserade likviditetslösningar.
+Roials Capital establishes stable, hierarchical structures for sovereign assets by prioritizing jurisdictional control over asset flows. Structural and operational transparency ensures resilience against market and counterparty risks in synthesized liquidity solutions. Execution eliminates exposure to volatility.

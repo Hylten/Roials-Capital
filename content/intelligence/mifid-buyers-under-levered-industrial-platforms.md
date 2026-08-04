@@ -34,4 +34,4 @@ EU MiFID II acquisition programs look for the same. Industrial predictability. L
 
 ## Summary
 
-MiFID II-köpare prioriterar nu underbelånade industriella plattformar för regulatorisk säkerhet och stabila kassaflöden. Enkel kapitalstruktur och mätbar operativ prestanda ökar köparnas förtroende och accelererar transaktionscykler.
+Institutional buyers under MiFID II now prioritize underleveraged industrial platforms for regulatory security and stable cash flows. Simple capital structures and measurable operational performance strengthen buyer confidence and accelerate transaction cycles.

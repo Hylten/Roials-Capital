@@ -125,4 +125,4 @@ This stewardship filter ensures that institutional allocators maintain integrity
 
 ## Summary
 
-Regulatorisk tröghet och bankernas tillbakadragande skapar en bestående kreditlucka som gynnar specialiserade institut med kapacitet att understödja komplexa strukturer. Institutional backing är numera en operationell nödvändighet, inte en signaleringsmekanism, för att hantera mognadsväggar, gränsöverskridande transaktioner och intellektuell tillgångsbedömning.
+A persistent credit gap emerges from regulatory inertia and bank retrenchment, favoring specialized institutions equipped to support complex structures. Institutional backing constitutes an operational necessity, not a signaling tool, for managing maturity walls, cross-border transactions, and intellectual asset valuation. Capacity to execute determines market access.

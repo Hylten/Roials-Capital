@@ -106,4 +106,4 @@ Custodial standards continue to improve. This evolution supports long-term adopt
 
 ## Summary
 
-Institutionella investerare optimerar balansräkningar mot digitala tillgångar genom strukturerad kredit och säkerställd likviditet, vilket undviker realisationsbeskattning. Roials Capital tillämpar Asset-Backed Frameworks med lägsta kollateralgräns på 2M USD för krypto, effektiviserande skattestrukturer som bibehåller kapitalets tillväxt. Metoden ersätter försäljning med skuldfinansierad likviditet, i linje med etablerad praxis för koncentrerade aktiepositioner.
+Institutional investors optimize balance sheets with digital assets through structured credit and secured liquidity, avoiding capital gains taxation. Roials Capital implements Asset-Backed Frameworks requiring a minimum 2M USD collateral for crypto, streamlining tax structures while preserving capital growth. The approach replaces asset sales with debt-financed liquidity, aligning with established practices for concentrated equity positions.

@@ -160,4 +160,4 @@ Not yield. Not leverage. Agreements will evolve into adaptive architectures. Col
 
 ## Summary
 
-Roials Capital etablerar rigorösa standarder för institutionell privat likviditetsstrukturering, med minimigränser på 2M USD för kryptobaserad och 5M USD för aktierelaterad monetarisering. Ramverket bygger på tre kärnprinciper: renodlad säkerhetsstruktur, transparent strategisk kollateralisering och exakt aktiveringsmekanik under stress.
+Roials Capital sets institutional-grade standards for private liquidity structuring, requiring minimum thresholds of USD 2M for crypto-based and USD 5M for equity-related monetization. The framework rests on three core principles: streamlined security structures, transparent strategic collateralization, and precise activation mechanics under stress. Execution adheres to predefined protocols without deviation.

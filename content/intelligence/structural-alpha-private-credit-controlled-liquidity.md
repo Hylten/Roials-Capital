@@ -112,4 +112,4 @@ Fund-III strategies, asset-backed liquidity engineering, and specialized mandate
 
 ## Summary
 
-Strukturellt alfa i nordamerikansk private credit härrör från covenantkompression och regulatorisk förskjutning, inte försämrad underliggande kvalitet. Kontrollerad likviditetsarkitektur genererar mer tillförlitligt alfa än traditionell räntarbitrage i en miljö präglad av asymmetrisk likviditet och kapitaldisciplin.
+Structural alpha in North American private credit stems from covenant compression and regulatory shifts, not deteriorating underlying quality. Controlled liquidity architecture delivers more reliable alpha than traditional rate arbitrage in an environment of asymmetric liquidity and capital discipline. Institutional-grade execution ensures consistent outperformance.

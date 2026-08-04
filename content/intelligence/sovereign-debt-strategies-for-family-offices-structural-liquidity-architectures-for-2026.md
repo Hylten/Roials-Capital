@@ -129,4 +129,4 @@ It is about architecture. It defines the shape of the portfolio. It calibrates r
 
 ## Summary
 
-Souverän skuld utgör fundamentet för likviditetsarkitektur och riskkontroll för familjekontor, där strukturell exponering, säkerställning och tidsplanering avgör strategisk framgång snarare än enskilda tillgångar. Roials Capital positionerar sig som strategisk arkitekt snarare än spekulant, genom att integrera statspapper som dynamiskt motvikt i likviditetsstrukturer och kreditportföljer för att hantera geopolitisk osäkerhet och snabba räntescenarier.
+Debt sovereignty forms the foundation of liquidity architecture and risk control for family offices, where structural exposure, collateralization, and timeline management dictate strategic success over individual assets. Roials Capital acts as a strategic architect rather than a speculator, integrating sovereign bonds as a dynamic counterweight within liquidity structures and credit portfolios to address geopolitical uncertainty and rapid interest-rate scenarios. This approach ensures resilience and precision in capital preservation.

@@ -71,4 +71,4 @@ Integrate all three. The result: a multi-node capital organism. Volatile markets
 
 ## Summary
 
-Institutionell kapitalstabilitet kräver proaktiv, jurisdiktionell arkitektur snarare än traditionell hedging. Fund-III:s expansion bygger på transnationell antifragilitet genom regulatorisk redundans, kreditmobilitet och juridisk isolering, med strategisk alignment mot MiFID II, AIFMD och Gulf-zonens skydd. Hardening av tillgångar – via kassaflödesdrivna plattformar, industriella nischmarknader och ABL-optimerade strukturer – säkrar likviditet och accelererar förvärvscykler under volatila marknadsregimer.
+Institutional capital stability demands proactive jurisdictional architecture over traditional hedging. Fund-III’s expansion leverages transnational antifragility through regulatory redundancy, credit mobility, and legal ring-fencing, aligned with MiFID II, AIFMD, and Gulf-zone protections. Asset hardening—via cash-flow-driven platforms, industrial niche markets, and ABL-optimized structures—secures liquidity and accelerates acquisition cycles under volatile market regimes.

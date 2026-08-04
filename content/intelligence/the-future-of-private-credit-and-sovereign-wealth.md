@@ -76,4 +76,4 @@ HNWI and UHNW individuals require frameworks that integrate both. This is where 
 
 ## Summary
 
-Private credit och sovereign wealth utgör nu institutionella hörnstenar, där Roials Capital agerar strukturell auktoritet genom att designa likviditet snarare än spekulera. Allokering skiftar mot icke-korrelation, kapitalbevarande och strategisk flexibilitet, med asset-backed frameworks som centralt verktyg för likviditet utan portföljkompromisser.
+Institutional portfolios now anchor on private credit and sovereign wealth, with Roials Capital establishing structural authority by engineering liquidity instead of speculation. Allocation prioritizes non-correlation, capital preservation, and strategic flexibility, leveraging asset-backed frameworks as the core liquidity tool without portfolio trade-offs. These shifts define the new institutional standard.

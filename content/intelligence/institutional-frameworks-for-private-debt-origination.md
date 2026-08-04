@@ -195,4 +195,4 @@ If the platform is ordered, the capital is protected. If the capital is protecte
 
 ## Summary
 
-Institutionell private debt-origination kräver strukturell disciplin, moralisk hierarki och audit-beredskap. Plattformar måste uppfylla sju binära kriterier – från covenant-automation till realtidsdiagnostik – för att anses vara investeringsbara. Endast strukturellt hårdnade tillgångar med eliminerad informationsasymmetri och förutbestämda likvidationsvägar uppnår institutionell standard.
+Institutional private debt origination demands structural discipline, moral hierarchy, and audit readiness. Platforms must satisfy seven binary criteria—from covenant automation to real-time diagnostics—to qualify as investable. Only structurally hardened assets with eliminated information asymmetry and predefined liquidation pathways meet institutional standards.

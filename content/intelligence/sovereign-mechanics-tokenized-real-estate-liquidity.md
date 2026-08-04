@@ -117,4 +117,4 @@ Request confidential capital audit.
 
 ## Summary
 
-Tokeniserad fastighetsliquiditet är en institutionell strukturfråga, inte en teknisk trend. Effektivitet uppnås genom juridisk arkitektur, jurisdiktion och regulatorisk sekvensering – inte blockkedjan i sig. Fund-III accelereras endast om tokenisering integreras på tillgångsnivå med fyra kritiska lager: rättsligt skal, förvaringsregister, reglerad avveckling och motpartssegmentering.
+Institutional real estate liquidity tokenization is a structural issue, not a technological trend. Efficiency derives from legal architecture, jurisdiction, and regulatory sequencing—not the blockchain itself. Fund-III acceleration requires asset-level tokenization integration with four critical layers: legal wrapper, custody registry, regulated settlement, and counterparty segmentation.

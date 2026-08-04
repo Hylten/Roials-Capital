@@ -203,4 +203,4 @@ Implementation Considerations Institutions integrating The Sovereign Protocol in
 
 ## Summary
 
-Institutionella portföljer kräver strukturell invarians under stress, flytande chocker och makrotransitioner. Roials Capital tillämpar *The Sovereign Protocol* för att konstruera flerlagersportföljer med topologisk arkitektur, bevarande av invarianta egenskaper (likviditet, korrelationskanaler, exponeringsläckage) och oberoende riskbudgeterade lager (likviditet, konvexitet, asymmetrisk tillväxt etc.), vilket säkerställer stabilitet och koherens över alla makrocykler.
+Institutional portfolios demand structural invariance under stress, liquidity shocks, and macro transitions. Roials Capital deploys *The Sovereign Protocol* to engineer multi-layered portfolios with topological architecture, preserving invariant properties (liquidity, correlation channels, exposure leakage) and independent risk-budgeted layers (liquidity, convexity, asymmetric growth). This ensures stability and coherence across all macro cycles.

@@ -53,4 +53,4 @@ Raise institutional capital. Deploy with speed. The next phase demands precision
 
 ## Summary
 
-Fund-III:s arkitektur kräver strukturell jurisdiktionell separation och multi-lagerad "asset hardening" för att säkra institutionell renhet och kapitalperimeter. Arkitekturen prioriterar fyra skikt, originering, transformation, härdning och deployment, för att skapa en defensiv, regulatoriskt anpassad kapitalstruktur som eliminerar misalignment och säkrar asymmetrisk avkastning.
+The Fund-III architecture demands structural jurisdictional separation and multi-layered asset hardening to ensure institutional purity and capital perimeter integrity. Four layers—origination, transformation, hardening, and deployment—are prioritized to establish a defensive, regulatory-aligned capital structure that eliminates misalignment. This design secures asymmetric returns.

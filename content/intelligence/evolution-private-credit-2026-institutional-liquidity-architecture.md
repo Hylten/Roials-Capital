@@ -72,4 +72,4 @@ In 2026, allocators require a recalibrated framework to assess private credit's 
 
 ## Summary
 
-Regulatorisk stramhet och Basel III:s slutspel har skapat ett bestående kapitalunderskott i amerikansk private credit, drivet av bankernas reträtt från mellanstora exponeringar. Allokerare prioriterar nu kollateralintegritet och kassaflödesstabilitet i en fragmenterad marknad där stora bolag med ESG-matchande finansiering gynnas, medan realekonomin lider av kreditbrist.
+Regulatory tightening and the finalization of Basel III have created a persistent capital shortfall in U.S. private credit, driven by banks retreating from mid-market exposures. Allocators now prioritize collateral integrity and cash flow stability in a fragmented market favoring large firms with ESG-aligned financing. The real economy faces a credit crunch as a result.

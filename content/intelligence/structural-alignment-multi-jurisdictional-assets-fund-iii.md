@@ -119,4 +119,4 @@ Capital must be deployed with non-wasteful precision to ensure sustainability an
 
 ## Summary
 
-Regulatorisk fragmentering skapar strukturell mispricing i Nordamerikas energisektor, vilket utnyttjas av Fund-III-aktörer genom tvärjurisdiktionella plattformar som integrerar europeisk governance, amerikansk private credit och kanadensisk fysisk tillgångslogik. Allokerare måste nu omvandla juridisk alignment till en likviditetsingenjöringsram för att säkra transparens och nedsideskydd i komplexa energimandat och strukturerade kreditfaciliteter.
+Regulatory fragmentation drives structural mispricing in North America’s energy sector, exploited by Fund-III participants through cross-jurisdictional platforms combining European governance, U.S. private credit, and Canadian physical asset logic. Allocators must convert legal alignment into a liquidity-engineering framework to ensure transparency and downside protection in complex energy mandates and structured credit facilities. This transformation is critical for risk-adjusted returns in fragmented markets.

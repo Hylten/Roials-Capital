@@ -18,4 +18,4 @@ Mid‑market GPs are no longer treating NAV facilities as a late‑cycle liquidi
 
 ## Summary
 
-Mid-market GPs integrerar nu NAV-faciliteter som primära verktyg för snabb kapitalallokering i Fund-III, driven av strukturella fördelar: accelererad deployment genom förutsebar likviditet, cross-asset stabilitet och institutionalisering. Effektivitet skapas via tvåskiktsarkitektur (ABL understött av NAV-lån), vilket säkrar LP-pacing och GP-kontroll redan under första året.
+NAV facilities serve as primary tools for rapid capital deployment in Fund-III among mid-market GPs, enabled by structural advantages: accelerated deployment through predictable liquidity, cross-asset stability, and institutionalization. A dual-layer architecture (ABL supported by NAV loans) drives efficiency, ensuring LP pacing and GP control within the first year. This approach solidifies fund execution and governance.

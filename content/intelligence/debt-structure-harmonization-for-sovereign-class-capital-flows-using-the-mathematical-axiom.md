@@ -171,4 +171,4 @@ Harmonization becomes not an optional enhancement but a foundational requirement
 
 ## Summary
 
-Traditionella skuldramverk brister i takt med accelererande kapitalflöden och regulatorisk fragmentering. The Mathematical Axiom etablerar en strukturell bas för harmoniserade suveräna skuldsystem genom att definiera invarianta relationer mellan skuld, tid, likviditet och risk, vilket eliminerar systematiska prissättningsineffektiviteter och durationdislokationer.
+Institutional shortcomings in traditional debt frameworks intensify amid accelerating capital flows and regulatory fragmentation. The Mathematical Axiom establishes a structural foundation for harmonized sovereign debt systems by defining invariant relationships between debt, time, liquidity, and risk. This eliminates systematic pricing inefficiencies and duration dislocations.

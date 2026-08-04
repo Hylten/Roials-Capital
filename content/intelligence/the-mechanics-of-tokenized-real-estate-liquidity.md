@@ -93,4 +93,4 @@ For HNWI and UHNW investors, the ability to extract liquidity from real estate w
 
 ## Summary
 
-Tokenisering omvandlar fastigheter till programmerbara, rörliga tillgångar genom digitala representationer, vilket eliminerar traditionella friktionsmoment som långa settlementtider och juridisk fragmentering. Roials Capital utnyttjar denna precision genom strategisk kollateralisering med lägsta trösklar på 2M USD (krypto) respektive 5M USD (publika aktier), vilket skapar institutionell koherens och kontroll över portföljers likviditet.
+Tokenization converts real estate into programmable, liquid assets via digital representations, removing traditional friction such as prolonged settlement times and legal fragmentation. Roials Capital leverages this precision through strategic collateralization with minimum thresholds of 2M USD (crypto) and 5M USD (public equities), ensuring institutional coherence and liquidity control across portfolios. The framework delivers structured access to capital efficiency and risk mitigation.

@@ -122,4 +122,4 @@ Strategies built on stewardship maintain durability across interest rate cycles.
 
 ## Summary
 
-Regulatorisk kompression via Basel IV och bankkonsolidering skapar strukturell kreditbrist i traditionell banksektor, vilket tvingar övergång till institutionell private credit för mellanmarknadslån och sponsorfinansiering. Fyra makrotrender – ökade kapitalkrav, undvikande av duration, sponsorernas snabbare behov och flykt till direkt utlåning – cementerar private credit som den primära källan till modern likviditet.
+Regulatory compression through Basel IV and bank consolidation creates structural credit shortages in the traditional banking sector, forcing a shift to institutional private credit for mid-market loans and sponsor financing. Four macro trends—higher capital requirements, duration aversion, sponsors’ accelerated demands, and a flight to direct lending—solidify private credit as the primary source of modern liquidity. Institutional adoption of private credit is now irreversible.

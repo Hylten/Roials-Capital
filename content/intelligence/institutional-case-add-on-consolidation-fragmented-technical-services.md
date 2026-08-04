@@ -151,4 +151,4 @@ The institutional case for consolidation in fragmented technical services is not
 
 ## Summary
 
-Fragmenterade tekniska tjänstemarknader utgör oexploaterade tillgångar där disciplinerad add-on-konsolidering omvandlar kaos till institutionaliserade kassaflöden. Kontroll av add-ons säkrar multiplar genom att standardisera underliggande verksamheter, eliminera variation och skapa skalbar lönsamhet via ökad täthet, utökad serviceomfattning och laboratorieoptimering. Strukturell asymmetri och förutsägbara kassaflöden gör detta till en avgörande strategi för institutionella investerare.
+Fragmented technical service markets represent underexploited assets where disciplined add-on consolidation transforms disorder into institutionalized cash flows. Control of add-ons secures multiples by standardizing underlying operations, eliminating variability, and driving scalable profitability through increased density, expanded service scope, and operational optimization. Structural asymmetry and predictable cash flows establish this as a critical strategy for institutional investors.

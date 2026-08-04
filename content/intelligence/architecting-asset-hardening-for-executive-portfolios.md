@@ -26,4 +26,4 @@ This is not short term optimization. It is generational engineering. Through pri
 
 ## Summary
 
-Roials Capital designar exekutiva portföljer med institutionell precision genom kreditstrukturer och tillgångsbaserade ramverk, bevarar ägande och undviker försäljning för likviditet. Portföljerna optimeras för långsiktig stabilitet och motståndskraft mot marknadscykler via privata krediter, ABL-system och kryptovalutakollateral.
+Institutional precision defines Roials Capital’s executive portfolios through credit structures and asset-based frameworks, preserving ownership and eliminating liquidity-driven sales. Long-term stability and market-cycle resilience are achieved via private credit, ABL systems, and cryptocurrency collateral. Portfolios are optimized for durability without reliance on exit strategies.

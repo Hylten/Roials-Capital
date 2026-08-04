@@ -153,4 +153,4 @@ This is how capital survives. This is how capital strengthens. This is how capit
 
 ## Summary
 
-Discrete capital deployment är en principbaserad förvaltning, inte taktik. Roials Capital tillämpar kristen förvaltningstradition genom strukturerad private credit, med minimitrösklar på 2M USD (krypto) och 5M USD (aktier) för att säkerställa disciplin och kontroll. Non-signaling och biblisk stewardship utgör kärnan i strategin för att bevara auktoritet och generera bestående kapitaltillväxt.
+Discrete capital deployment operates as principle-based management, not tactics. Roials Capital applies a Christian stewardship tradition through structured private credit, enforcing minimum thresholds of 2M USD (crypto) and 5M USD (equities) to maintain discipline and control. Non-signaling and biblical stewardship form the strategy’s core to preserve authority and drive sustained capital growth.

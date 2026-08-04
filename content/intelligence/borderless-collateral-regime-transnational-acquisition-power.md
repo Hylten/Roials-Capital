@@ -68,4 +68,4 @@ Technical metric: Collateral Mobility Index (CMI) target > 0.82.
 
 ## Summary
 
-Den gränslösa säkerhetsregimen omvandlar tillgångar till mobila, jurisdiktionsoberoende kapitalinstrument, vilket ger strukturell fördel till aktörer med global räckvidd. Fund-III utnyttjar denna dynamik genom transnationell förvärvsstrategi, där säkerheternas underliggande värde avgörs av dess gränsöverskridande potential snarare än lokal avkastning. Kapitalanskaffning och strukturering sker i skilda jurisdiktioner för maximal skalbarhet och IRR-optimering.
+The borderless security regime transforms assets into mobile, jurisdiction-agnostic capital instruments, providing structural advantage to globally scaled actors. Fund-III leverages this dynamic through a transnational acquisition strategy, where security value derives from cross-border potential rather than local returns. Capital sourcing and structuring occur in separate jurisdictions to maximize scalability and IRR optimization.

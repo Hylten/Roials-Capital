@@ -60,4 +60,4 @@ Sophisticated allocators in 2026 are navigating an environment where traditional
 
 ## Summary
 
-Regulatorisk avvikelse, ej resursbrist, driver kapitalvakuum i Nordamerikas energisektor. Allokeringsmönster ignorerar stabila kassaflöden från konventionella och termiska tillgångar i Alberta, vars undervärdering utgör strukturell arbitragemöjlighet för sofistikerade portföljer.
+Regulatory divergence, not resource scarcity, drives the capital vacuum in North America’s energy sector. Allocation patterns overlook stable cash flows from conventional and thermal assets in Alberta. This undervaluation presents a structural arbitrage opportunity for sophisticated portfolios.

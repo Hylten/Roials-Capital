@@ -47,4 +47,4 @@ Metric: minimum liquidity spine requirement: 18.4% of NAV.
 
 ## Summary
 
-Nya likviditetsregimen för +-innehavare omdefinierar likviditet som en strukturell rättighet snarare än en kassahändelse, driven av *controllable*, *predictable* och *trans-jurisdictional* likviditet. Endast institutionellt beteende med strategisk kollateralisering och Asset-Based Lending uppnår den nödvändiga *velocityn* för att delta i Fund-III:s köpcykler, där precision och arkitektur avgör framgång framför skala.
+The new liquidity regime for +/- holders reclassifies liquidity as a structural right rather than a cash event, underpinned by controllable, predictable, and trans-jurisdictional liquidity. Institutional behavior with strategic collateralization and Asset-Based Lending alone achieves the required velocity to engage in Fund-III’s purchase cycles. Precision and architecture determine success over scale.

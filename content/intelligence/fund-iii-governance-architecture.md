@@ -34,4 +34,4 @@ Nothing below. Nothing compromised. One more point. Liquidity Engineering used o
 
 ## Summary
 
-Governance arkitekturen måste etableras före Fund‑III för att vinna institutionell tillit. Rapporteringsregimen kräver disciplinerad, snabb och okomplicerad exekvering med strikt hierarki och beslutsrättigheter. Strukturen måste vara frågebevis, gränsöverskridande och präglad av en principal-ledd ton som signalerar mognad och långsiktig hållbarhet.
+The governance architecture must be established before Fund-III to secure institutional confidence. The reporting regime demands disciplined, rapid, and streamlined execution with strict hierarchy and decision rights. The structure will be challenge-proof, cross-border, and defined by a principal-led tone demonstrating maturity and long-term sustainability.

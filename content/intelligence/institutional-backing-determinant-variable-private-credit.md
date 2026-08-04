@@ -34,4 +34,4 @@ Terminal Metric: Enforcement Delta Ratio 1.73.
 
 ## Summary
 
-Institutionell backing utgör den avgörande strukturella variabeln för private credit-regimers skalbarhet, driven av sponsor-kapitalets djup, tvärjurisdiktionell verkställbarhet och riskhanteringskapacitet. Effektivitet avgörs av skillnaden mellan nominellt och bundet kapital, samt kontroll över villkor och exit-strategier, snarare än prissättning eller modellering.
+Institutional backing determines the scalability of private credit regimes, underpinned by sponsor capital depth, cross-jurisdictional enforceability, and risk management capacity. Efficiency hinges on the gap between nominal and committed capital, alongside control over terms and exit strategies. Pricing and modeling remain secondary.

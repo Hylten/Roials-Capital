@@ -130,4 +130,4 @@ Technical metric: Minimum liquidity coverage ratio (LCR) required for Fund‑III
 
 ## Summary
 
-Sovereign crypto bank-regimen integrerar kapital-, mineral-, data- och likviditetsrättigheter i en reglerad, skalbar struktur, designad för Fund-III:s 20-årscykel. Infrastrukturens kärna utgörs av institutionell djupcustody, tokeniserad kredit och automatiserad compliance, där likviditet omvandlas till programmerbar jämvikt för att absorbera flöden och motstå marknadskompression. Målet är suverän kontroll, inte decentralisering.
+The Fund-III 20-year cycle integrates capital, mineral, data, and liquidity rights into a regulated, scalable sovereign crypto-bank framework. Institutional deep custody, tokenized credit, and automated compliance form the core infrastructure, converting liquidity into programmable equilibrium to absorb flows and resist market compression. Sovereign control, not decentralization, defines the objective.

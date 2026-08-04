@@ -112,4 +112,4 @@ Does the structure allow for dynamic capital deployment and balance sheet optimi
 
 ## Summary
 
-Global kapitalallokering präglas av strukturell dislokation snarare än brist på tillgångar, där traditionella likviditetskanaler decouplats från reala tillgångars produktivitet. Nyckeln till konkurrenskraft ligger i precisionen i gränsöverskridande balansräkningsteknik och strategisk kollateralisering, med fokus på ineffektiva marknader som europeiska mellanstora buyouts och kanadensisk tungolja. Infrastruktur för kapitalbildning och strategisk kollateralisering utgör de centrala pelarna för institutionell stabilitet i detta nya paradigm.
+Structural dislocation—not asset scarcity—defines global capital allocation, as traditional liquidity channels decouple from real asset productivity. Competitive advantage hinges on cross-border balance-sheet precision and strategic collateralization, targeting inefficiencies in European mid-market buyouts and Canadian heavy oil. Capital formation infrastructure and collateral strategy remain the pillars of institutional stability in this paradigm.

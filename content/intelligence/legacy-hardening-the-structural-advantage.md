@@ -25,4 +25,4 @@ They will be the portfolios that retain structural optionality. Regulatory shift
 
 ## Summary
 
-Roials Capital positionerar sig genom att säkra strukturell kontroll och förutsägbar likviditet för flergenerationsportföljer, snarare än att jaga avkastning. Genom institutionellt anpassad privat kredit och robusta likviditetsarkitekturer skapar man bestående fördelar och motståndskraft mot marknadsstress.
+Portfolios secure structural control and predictable liquidity for multi-generational holdings, not yield chasing. Institutional-grade private credit and resilient liquidity architectures deliver enduring advantages and market-stress resilience. Roials Capital executes this framework.

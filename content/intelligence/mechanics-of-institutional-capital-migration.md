@@ -86,4 +86,4 @@ This dialogue is not a solicitation. It is a structural assessment designed to m
 
 ## Summary
 
-Institutionella kapitalflöden styrs av regelbaserade ramverk snarare än marknadskänslor, vilket skapar kronisk brist i komplexa hard-asset-sektorer trots bibehållen produktivitet. Allokerare prioriterar nu tillgångar med kassaflödesstabilitet och jurisdiktionell säkerhet, driven av regleringsdrift (Basel IV, MiFID II), räntestrukturens "högre längre"-effekt och banksektorns reträtt från ESG-belastade krediter. Historiska mönster (1986, 1999, 2009, 2020) upprepar sig i 2026.
+Institutional capital flows follow rule-based frameworks, not market sentiment, creating chronic shortages in complex hard-asset sectors despite sustained productivity. Allocators now prioritize assets with cash-flow stability and jurisdictional security, driven by regulatory shifts (Basel IV, MiFID II), the "higher for longer" interest-rate environment, and banks’ retreat from ESG-constrained lending. Historical patterns (1986, 1999, 2009, 2020) will recur in 2026.

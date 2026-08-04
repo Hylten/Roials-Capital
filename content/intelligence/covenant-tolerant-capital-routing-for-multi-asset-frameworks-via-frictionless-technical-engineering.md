@@ -88,4 +88,4 @@ Roials Capital is constructing a future architecture where capital behaves as an
 
 ## Summary
 
-Covenant tolerant capital routing är en strukturell nödvändighet för institutionell kapitalmobilitet i komplexa multi-asset-miljöer, där covenant-logik och cross-collateral-arkitektur avgör prestanda mer än enskild asset-selektion. Roials Capital framställer det som en disciplin för kontrollerad precision snarare än hastighet, med en arkitektur baserad på transparens, deterministisk sekvensering och icke-reaktiv balansräkning. Implementation kräver konfidentiell audit.
+Structured covenant-tolerant capital routing is essential for institutional capital mobility in complex multi-asset environments, where covenant logic and cross-collateral architecture dictate performance over individual asset selection. Roials Capital positions this as a discipline of controlled precision, not speed, built on transparency, deterministic sequencing, and non-reactive balance sheets. Execution demands confidential audit.

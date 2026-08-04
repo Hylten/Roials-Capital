@@ -150,4 +150,4 @@ Roials Capital functions as the strategic navigator for these decisions. The fir
 
 ## Summary
 
-Global M&A-kapitalbrist härrör från strukturella hinder snarare än likviditetsbrist. Allokerare anpassar sig till 2026:s regimskifte genom att prioritera gränslös rörlighet, verifierbarhet och tokeniserat, institutionellt kollateral. Traditionella system bromsas av regulatorisk fragmentering, medan digitala tillgångar möjliggör snabbare transaktioner inom kompatibla ramverk.
+Structural barriers, not liquidity shortages, drive the global M&A capital deficit. Allocators adapt to the 2026 regime shift by prioritizing borderless mobility, verifiable assets, and tokenized institutional collateral. Regulatory fragmentation stifles legacy systems, while digital assets enable faster transactions within compatible frameworks.

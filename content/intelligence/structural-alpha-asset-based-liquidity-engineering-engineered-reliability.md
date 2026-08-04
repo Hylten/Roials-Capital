@@ -119,4 +119,4 @@ This is the environment where Asset Based Liquidity Engineering produces structu
 
 ## Summary
 
-Regulatorisk kompression och riskmodelljusteringar har skapat en kapitalbrist för lägre mellanstora operatörer i Nordamerika och Europa, trots bibehållen tillgångsvärdering. Strukturell alfa genereras nu främst genom balansräktsarkitektur, där Asset Based Liquidity Engineering omvandlar operationell säkerhet till institutionell optionality, vilket utgör en icke-korrelerad värdeskapande källa.
+Regulatory compression and risk-model adjustments have created a capital shortfall for lower mid-market operators in North America and Europe, despite stable asset valuations. Structural alpha now stems primarily from balance-sheet architecture, where Asset-Based Liquidity Engineering converts operational collateral into institutional optionality. This represents an uncorrelated value-creation source.

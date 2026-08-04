@@ -196,4 +196,4 @@ Trust compounds into capital. Standards serve as institutional gravity, preventi
 
 ## Summary
 
-Roials Capital etablerar en rigorös standard för institutionell likviditetsstrukturering (LE-Standard) genom fyra interaktiva pelare: Kapitalanskaffning (80%), likviditetspatroner (10%), specialmandat (10%) och institutionell härdning. Plattformen omvandlar asymmetrisk kapitalrörelse till strukturell dominans genom covenant-baserade likviditetsavtal (LEA), designade som levande instrument som skalas med tillgångsprestanda och jurisdiktionell dynamik.
+LE-Standard by Roials Capital sets an institutional framework for liquidity structuring through four interactive pillars: Capital Sourcing (80%), Liquidity Patrons (10%), Special Mandates (10%), and Institutional Hardening. The platform converts asymmetric capital flows into structural dominance via covenant-based Liquidity Enforcement Agreements (LEAs), engineered as dynamic instruments scaling with asset performance and jurisdictional dynamics. This structure enforces disciplined, adaptive liquidity control.

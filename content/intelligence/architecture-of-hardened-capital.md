@@ -54,4 +54,4 @@ Then scale. Then accelerate. Then compound. In that order. Never reversed. Capit
 
 ## Summary
 
-Hardened capital är en strukturell nödvändighet för Fond-III, inte en metafor. Dess tre pelare, strukturell integritet, jurisdiktionell isolering och konverteringsflexibilitet, skapar en ogenomtränglig kapitalbas som motstår cykler, krig och likviditetskriser. Utan detta förfaller transaktioner till bräcklighet, drag och maktlöshet.
+Structural hardened capital is a necessity for Fund-III, not a metaphor. Its three pillars—structural integrity, jurisdictional isolation, and conversion flexibility—establish an impenetrable capital base resistant to cycles, conflicts, and liquidity crises. Transactions without it degrade into fragility, dilution, and impotence.

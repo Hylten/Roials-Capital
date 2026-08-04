@@ -108,4 +108,4 @@ Allocators evaluating private debt must reposition their analysis around three p
 
 ## Summary
 
-2026 präglas av regulatorisk fragmentering och kapitalflykt från traditionella kreditmarknader, vilket skapar en strukturell lucka i private debt-utlåning under USD 500M. Institutionella investerare med disciplinerade underwriting-ramverk kan utnyttja denna volatilitet genom kvantifierbar säkerhet, transparenta kassaflödesstrukturer och operationellt förankrade tillgångar i mellanstora buyouts.
+2026 sees regulatory fragmentation and capital flight from traditional credit markets, creating a structural gap in private debt lending below USD 500M. Institutional investors with disciplined underwriting frameworks exploit this volatility through quantifiable collateral, transparent cash flow structures, and operationally anchored assets in mid-market buyouts. The environment rewards precision in asset selection and execution.

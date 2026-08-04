@@ -154,4 +154,4 @@ These attributes reduce allocator friction, accelerate underwriting cycles, and 
 
 ## Summary
 
-Institutionella placerare kräver strukturell trovärdighet snarare än karisma. Framgångsrika VD-personor 2026 präglas av operationell transparens, förutsägbara beslutsarkitekturer och riskmedvetenhet, kritiskt för Fund-III-raising i en post-nollräntemiljö. Personan måste signalera disciplinerad förvaltning genom verifierbara ledarskapsmodeller, anpassade till MiFID II, privat kredit och energisektorns institutionella krav.
+Institutional investors demand structural credibility over charisma. Successful CEOs in 2026 exhibit operational transparency, predictable decision frameworks, and risk awareness, critical for Fund III fundraising in a post-zero-rate environment. The profile must demonstrate disciplined management through verifiable leadership models, aligned with MiFID II, private credit, and institutional energy-sector requirements.

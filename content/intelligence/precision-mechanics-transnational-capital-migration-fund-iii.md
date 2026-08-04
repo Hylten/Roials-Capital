@@ -103,4 +103,4 @@ Fund‑III must now tighten its capital architecture. Tighten its acquisition co
 
 ## Summary
 
-Fund-III:s kapitalmigration drivs av reglerade korridorer och jurisdiktionella asymmetrier, där precision i mekanik avgör expansionshastighet och djup. Genom att positionera sig som en gravitationscentrum med multi-sovereign kontroll, kontinuitet över tidshorisonter och portföljhastighet skapas strukturella fördelar som attraherar institutionella flöden och utnyttjar arbitragemöjligheter.
+Capital migration in Fund-III is governed by regulated corridors and jurisdictional asymmetries, where mechanical precision dictates expansion velocity and depth. Structural advantages emerge from positioning as a gravitational hub with multi-sovereign control, temporal continuity, and portfolio velocity, attracting institutional flows and exploiting arbitrage opportunities. These dynamics consolidate competitive dominance.

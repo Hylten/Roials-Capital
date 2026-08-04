@@ -152,4 +152,4 @@ Roials Capital provides a structured path for answering these questions. The fir
 
 ## Summary
 
-Kapitalbrist i nordamerikansk och europeisk mellankommande marknad är strukturell, driven av reglering (Basel III, MiFID II) och riskvägningskrav, snarare än absolut brist. Entreprenörer bör fokusera på att konstruera en kreditarkitektur – balansräktsdesign, likviditetsoptimering och transparens – för att möta institutionella underwritingkrav och säkra kapital via private credit-fonder.
+Structural capital shortages in North American and European mid-markets stem from regulation (Basel III, MiFID II) and risk-weighting requirements, not absolute scarcity. Entrepreneurs must design credit architecture—balance sheet structure, liquidity optimization, and transparency—to meet institutional underwriting standards. Private credit funds provide the capital solution.

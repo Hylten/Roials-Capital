@@ -76,4 +76,4 @@ Terminal Metric: Liquidity Override Capacity Index ≥ 0.82.
 
 ## Summary
 
-Fund-III arkitektur kräver strukturell djup och jurisdiktionell rörlighet för att tillverka likviditet oberoende av marknadscykler. Kapitalanskaffning utgör 80% av vikten, där LP kräver mekanik, kontrollteori och garantier för plattformslikviditet snarare än enskilda tillgångars illikviditet.
+Fund-III architecture demands structural depth and jurisdictional flexibility to generate liquidity regardless of market cycles. Capital formation accounts for 80% of the priority, with LPs requiring mechanics, control frameworks, and platform liquidity assurances over individual asset illiquidity. Execution hinges on predefined exit pathways and contractual certainty.

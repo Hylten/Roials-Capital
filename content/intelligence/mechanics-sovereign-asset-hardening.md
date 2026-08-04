@@ -170,4 +170,4 @@ The allocator must be able to project cash flow trajectories, risk envelopes, an
 
 ## Summary
 
-Strukturell kapitalbrist i Nordamerika driver efterfrågan på *Sovereign Asset Hardening* som avgörande strategi för långsiktiga investerare. Regulatorisk kompression, minskad reinvestering från publika marknader och divergerande kapitalkostnader skapar en miljö där stabila, underkapitaliserade tillgångar med förutsägbara kassaflöden premieras. Fokus skiftar från tillväxt till motståndskraft och kontinuitet genom hårdade balansräkningar och kovenantskyddade strukturer.
+North America’s structural capital shortage positions *Sovereign Asset Hardening* as a critical strategy for long-term investors. Regulatory compression, reduced public-market reinvestment, and divergent capital costs favor stable, undercapitalized assets with predictable cash flows. Resilience and continuity now supersede growth, achieved through hardened balance sheets and covenant-protected structures.

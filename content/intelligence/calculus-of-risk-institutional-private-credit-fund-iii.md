@@ -200,4 +200,4 @@ Terminal Metric: Required Liquidity Coverage Ratio (LCR) for Fund‑III institut
 
 ## Summary
 
-Institutionell private credit är numera en strategisk kontrollmekanism där framgång kräver förmåga att hantera icke-linjära risker: jurisdiktion, collateral, LP-struktur och makrovolatilitet. Endast de fonder som strukturerar proaktivt – med fokus på likviditetsflöden, sponsorresiliens och collateralkonvertibilitet – kommer att säkra kapitalanskaffning i nästa decennium.
+Institutional private credit now serves as a strategic control mechanism. Success demands management of non-linear risks: jurisdiction, collateral, LP structure, and macro volatility. Funds proactively structuring for liquidity flows, sponsor resilience, and collateral convertibility will secure capital raising in the next decade.

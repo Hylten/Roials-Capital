@@ -174,4 +174,4 @@ At that point, capital raising becomes capital selection. LPs compete. Managers 
 
 ## Summary
 
-För en Fond-III-plattform avgör strukturell suveränitet kapitaltillgång framför pris. Tre lager, jurisdiktionell stabilitet, regleringsneutralitet och flexibel allokering, skapar en kontinuerlig kapitalanskaffningsmotor som överlever cykler. Endast system som överträffar sin egen livscykel uppnår institutionell auktoritet.
+Structural sovereignty determines capital access over price for a Fund-III platform. Three layers—jurisdictional stability, regulatory neutrality, and flexible allocation—establish a continuous capital-raising engine that outlasts cycles. Systems exceeding their own lifecycle achieve institutional authority.

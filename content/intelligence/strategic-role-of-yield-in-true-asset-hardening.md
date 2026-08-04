@@ -148,4 +148,4 @@ Roials Capital provides this navigational function. A confidential strategy audi
 
 ## Summary
 
-En strukturell kapitalbrist inom nordamerikansk energi och lägre mellanstora privata krediter härrör från regulatorisk drift och bankers tillbakadragande, inte försämrad tillgångskvalitet. Stabiliserad avkastning har utvecklats från en prestandamätare till ett balansräkningsinstrument som avgör graden av tillgångshärdning för institutionella placerare, där avkastning nu avgör om en tillgång absorberar skulder eller konsumerar likviditet.
+Regulatory drift and bank retreat—not asset-quality deterioration—drive the structural capital shortfall in North American energy and lower middle-market private credit. Yield stabilization has shifted from a performance metric to a balance-sheet tool determining asset hardening levels for institutional investors. Yield now dictates whether an asset absorbs liabilities or consumes liquidity.

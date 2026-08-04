@@ -37,4 +37,4 @@ Capital readiness ratio target: 1.47x.
 
 ## Summary
 
-Institutionell private credit ersätter traditionella likviditetsreserver som strategisk skyddsmekanism för UHNW-portföljer, driven av behovet av snabb, regleringsresistent kapitalmobilitet. Strukturell likviditet via asset-backed lending och kreditlinjer skapar cykliskt motståndskraftig stabilitet, särskilt inom energisektorn och MiFID II-anpassade förvärv. Långsiktig förmögenhetsbevarande kräver idag likviditetsarkitektur snarare än diskretionär tillgångsfördelning.
+Institutional private credit replaces traditional liquidity reserves as a strategic safeguard for UHNW portfolios, driven by demand for rapid, regulation-resistant capital mobility. Structured liquidity through asset-backed lending and credit lines delivers cyclically resilient stability, particularly in energy and MiFID II-aligned acquisitions. Long-term wealth preservation now requires liquidity architecture over discretionary asset allocation.

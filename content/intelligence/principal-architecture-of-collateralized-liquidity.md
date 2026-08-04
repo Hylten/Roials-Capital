@@ -46,4 +46,4 @@ Roials Capital absorbs that complexity and extracts the execution clarity. Every
 
 ## Summary
 
-Struktur avgör kapitalflöden över tid, oavsett marknadsstämning. Roials Capital tillämpar *collateralized liquidity* som operativ doktrin för att säkra skalbar, jurisdiktionsoberoende likviditet genom disciplinerad, hierarkisk arkitektur. Långsiktig dominans kräver förmåga att pre-engineera likviditet – inte improvisera vid kris.
+Structure dictates capital flows over time, regardless of market conditions. Roials Capital deploys collateralized liquidity as its operational doctrine to secure scalable, jurisdiction-agnostic liquidity through disciplined, hierarchical architecture. Long-term dominance demands pre-engineered liquidity—not crisis-driven improvisation.

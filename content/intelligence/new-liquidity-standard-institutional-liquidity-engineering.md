@@ -123,4 +123,4 @@ is simple: transform trapped public value into redeployable private capital with
 
 ## Summary
 
-Den strukturella likviditetsbristen i publika marknader tvingar koncentrerade aktieägare att ompröva strategier; traditionell mark-to-market-likviditet är en myt, och institutionell ingenjörskonst krävs för att omfördela värde. Basel III och minskad marknadsdjup har skapat en permanent regim där blockaffärer >1% av flottan förvränger priset, vilket gör strukturerad privat likviditet nödvändig för kapitalbevarande. Monetization Architecture blir avgörande för att konvertera "fången kapital"-exponering till produktiva strukturer.
+Structural liquidity shortages in public markets force concentrated shareholders to reassess strategies; traditional mark-to-market liquidity is a myth, and institutional engineering is required to reallocate value. Basel III and reduced market depth have established a permanent regime where block trades exceeding 1% of float distort pricing, necessitating structured private liquidity for capital preservation. Monetization Architecture is critical to converting trapped-capital exposure into productive structures.

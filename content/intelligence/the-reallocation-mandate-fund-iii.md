@@ -76,4 +76,4 @@ stands: Reallocate into Fund-III. Reinforce liquidity corridors. Execute energy 
 
 ## Summary
 
-Reallocation Mandate aktiveras vid strukturella tryck och kräver institutionell ompositionering mot asymmetrisk hållbarhet. Fund-III agerar centralt ramverk för buyouts, likviditetsprogram och gränsöverskridande förvärv, med fokus på riskjurisdiktion, likviditetskorridorer och kollateralhärdning. Strukturell realignment driver kapital från stagnering till funktion, med 80% av kapitalanskaffningen genom Fund-III för att säkra kontroll och portföljdisciplin.
+The reallocation mandate activates under structural pressures, demanding institutional repositioning toward asymmetric sustainability. Fund-III serves as the central framework for buyouts, liquidity programs, and cross-border acquisitions, prioritizing risk jurisdiction, liquidity corridors, and collateral hardening. Structural realignment channels capital from stagnation to function, with 80% of capital sourcing through Fund-III to ensure control and portfolio discipline.

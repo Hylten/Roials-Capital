@@ -53,4 +53,4 @@ Terminal metric: DSCR hard floor 1.35x.
 
 ## Summary
 
-Fund-III kräver strikt struktur: jurisdiktion som första skydd, operativ robusthet och disciplinerad signalering. Kapitalbevarande arkitektur bygger på fyra institutionella pelare – immutabilitet, icke-fragilitet, nedsideskontroll och signaldisciplin – där permanent kapital utesluter improvisation och kräver trippel jurisdiktionell arbitrage.
+Fund-III enforces strict structure: jurisdiction as primary protection, operational resilience, and disciplined signaling. Capital preservation architecture rests on four institutional pillars—immutability, non-fragility, downside control, and signal discipline—where permanent capital eliminates improvisation and demands triple jurisdictional arbitrage. Execution adheres to predefined frameworks without deviation.

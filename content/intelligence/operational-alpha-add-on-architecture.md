@@ -77,4 +77,4 @@ Operational alpha is not merely the preference of the moment. It is the long arc
 
 ## Summary
 
-Add-on-buyoutstrategier kräver nu strukturell operational alpha – inte finansiell manipulation. LPs och tillsynsmyndigheter efterfrågar konkreta operativa blueprints snarare än leverage-diagram, där hållbar arkitektur avgör avgörande konkurrensfördelar. Endast GPs som bygger verklig operativ kompetens kommer attrahera kapital i en härdad marknad.
+Add-on buyout strategies now demand structural operational alpha, not financial engineering. LPs and regulators require concrete operational blueprints instead of leverage models, with sustainable architecture defining competitive advantage. Only GPs with genuine operational expertise will attract capital in a hardened market.

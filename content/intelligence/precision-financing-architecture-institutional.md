@@ -119,4 +119,4 @@ A confidential strategy audit allows allocators to evaluate whether their existi
 
 ## Summary
 
-Regulatorisk tröghet och balansräkningsstagnation skapar kapitalbrist i nordamerikanska industri- och energimarknader, trots tillgång till stabila legacy-assets med förutsägbara avkastningsprofiler. Precision financing architecture har blivit avgörande för genomförbarhet, skuldprioritering och skalbarhet för institutionella fonder i denna nya kapitalregim präglad av likviditet som strategisk resurs och kostnadsskillnader mellan långivare.
+Capital shortages persist in North American industrial and energy markets due to regulatory inertia and balance sheet stagnation, notwithstanding access to stable legacy assets with predictable yield profiles. Precision financing architecture determines feasibility, debt prioritization, and scalability for institutional funds in this new capital regime. Liquidity functions as a strategic resource, and lender cost disparities shape investment outcomes.

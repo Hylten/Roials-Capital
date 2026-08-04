@@ -51,4 +51,4 @@ And capital access is now governed by institutional mechanics rather than legacy
 
 ## Summary
 
-Roials Capital etablerar en ny strukturell likviditetsstandard för institutionella och +HNWI-klienter, där likviditet hanteras som en kontrollerad funktion snarare än en transaktion. Genom precisionskollateralisering, realtidsmarginalsystem och anpassad kryptokollateralisering skapar man en underwritingmiljö präglad av institutionell klarhet och långsiktig strategisk fördel.
+Liquidity management becomes a controlled function for institutional and ultra-high-net-worth clients under Roials Capital’s new structural standard. Precision collateralization, real-time margin systems, and tailored crypto-collateralization establish an underwriting environment defined by institutional clarity and strategic advantage. The framework delivers long-term structural benefits.

@@ -148,4 +148,4 @@ We will determine alignment. Roials Capital engages only where structural clarit
 
 ## Summary
 
-Marknaden är fragmenterad, men fragmentering skapar möjligheter. 2026-vintages, särskilt Fund-III+, omorienterar sig mot icke-sponsor add-on-buyouts för effektiv kapitalplacering, driven av komprimerad sponsorutbud, höga prisförväntningar och operativt ineffektiva icke-sponsorägda bolag. Add-ons utgör nu den strukturellt mest effektiva expansionsvägen genom snabb värdekompoundering utan återinträde i auktionsspiraler.
+The market remains fragmented, yet fragmentation presents opportunities. The 2026 vintages, particularly Fund-III+, are pivoting toward non-sponsor add-on buyouts to deploy capital efficiently, compelled by constrained sponsor supply, elevated valuation expectations, and operationally inefficient non-sponsor-owned companies. Add-ons now represent the most structurally effective expansion path, enabling rapid value compounding without re-entering auction cycles.

@@ -186,4 +186,4 @@ It is getting clearer. Those with infrastructure will inherit scale. Those witho
 
 ## Summary
 
-Institutionell infrastruktur kräver omedelbar funktionell hållbarhet: förutsägbarhet, motpartsresiliens och datadriven beslutshastighet är avgörande för kapitalallokering över $50M. Roials Capital tillämpar *asset hardening* – strukturell verifiering av kassaflöden, motparter och förpliktelser – för att omvandla riskfyllda tillgångar till institutionellt lånbara och försäkringsbara instrument. Covenant stewardship utgör kärnan i detta paradigm, där kapital ses som förtroende snarare än verktyg, vilket säkerställer disciplin under marknadstryck.
+Institutional infrastructure demands immediate functional sustainability. Predictability, counterparty resilience, and data-driven decision velocity determine capital allocation above $50M. Roials Capital deploys *asset hardening*—structural verification of cash flows, counterparties, and obligations—to convert high-risk assets into institutionally lendable and insurable instruments. Covenant stewardship defines this paradigm, treating capital as trust rather than a tool, ensuring discipline under market pressure.

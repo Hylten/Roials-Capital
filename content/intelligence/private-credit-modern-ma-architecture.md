@@ -87,4 +87,4 @@ THE REGIME SHIFT reshaping modern M&A architecture. Allocators requiring sector-
 
 ## Summary
 
-Regulatorisk kompression och fragmenterade förvärvspipelines skapar strukturell likviditetsbrist i nordamerikanska och europeiska företagsmarknader, vilket gör disciplinerad privat kredit till ryggraden i moderna buyout-arkitekturer. Dess fördelar ligger i exakt timing, strukturell senioritet och covenant-precision, snarare än avkastningsnivåer, och möjliggör förvärv som kräver förutsägbar exekvering i operationellt beroende sektorer.
+Regulatory compression and fragmented acquisition pipelines create structural liquidity shortages in North American and European corporate markets, positioning disciplined private credit as the backbone of modern buyout architectures. Its advantages stem from precise timing, structural seniority, and covenant precision—not yield levels—enabling acquisitions that demand predictable execution in operationally dependent sectors. Private credit delivers the certainty required for complex, time-sensitive transactions.

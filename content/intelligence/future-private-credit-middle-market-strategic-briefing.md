@@ -166,4 +166,4 @@ Roials Capital facilitates confidential strategy audits for allocators who requi
 
 ## Summary
 
-Regulatorisk omreglering och bankkonsolidering har skapat ett bestående kreditgap i mellanstora företag, vilket omvandlat privat kredit från en avkastningsstrategi till en central tillgångsklass. Strukturellt minskat bankutlån och ökad efterfrågan från tillväxtföretag och sponsorbackade transaktioner driver en decenniumslång omallokering mot mellanstora privata krediter med stabila, seniora kassaflöden.
+Regulatory reshaping and bank consolidation have created a persistent credit gap for mid-market companies, elevating private credit from a yield strategy to a core asset class. Reduced structural bank lending and rising demand from growth companies and sponsor-backed transactions drive a decade-long reallocation toward mid-market private credit with stable, senior cash flows. This shift solidifies private credit as a permanent fixture in institutional portfolios.

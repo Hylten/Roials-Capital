@@ -207,4 +207,4 @@ We evaluate who earns access.
 
 ## Summary
 
-Roials Capital underwrites strukturell integritet genom tre pelare: *Asset Hardening* (verifierbarhet, konverteringspotential, jurisdiktionell stabilitet, motpartsrisk, tid till kontroll), *Covenant Stewardship* (principbaserade beslut, operationell arv, moralisk riktning) och *Execution Velocity*. Endast tillgångar och förvaltare som uppfyller dessa invarianta kriterier kvalificerar sig för institutionell kapitalallokering.
+Roials Capital ensures structural integrity through three pillars: *Asset Hardening* (verifiability, conversion potential, jurisdictional stability, counterparty risk, time to control), *Covenant Stewardship* (principle-based decisions, operational legacy, moral direction), and *Execution Velocity*. Institutional capital allocation requires assets and managers to meet these invariant criteria. Compliance is non-negotiable.

@@ -75,4 +75,4 @@ Collateral integrity determines whether the digital asset can be pledged without
 
 ## Summary
 
-Korsgränsöverskridande M&A lider inte av likviditetsbrist utan av institutionella hinder för att mobilisera kapital utan att äventyra reglerings- eller balansräkningskrav. Digitala tillgångar, som idag är statiska i traditionella finansiella ramverk, kan struktureras som gränsöverskridande, regleringskompatibelt säkerhetsställda tillgångar för att accelerera transaktioner och öka rörligheten i kapitalflöden.
+Cross-border M&A fails due to institutional barriers in mobilizing capital without compromising regulatory or balance-sheet requirements, not liquidity shortages. Digital assets, currently static within traditional financial frameworks, will be structured as cross-border, regulation-compliant secured assets to accelerate transactions. This will enhance capital flow mobility.

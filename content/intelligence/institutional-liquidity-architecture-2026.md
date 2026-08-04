@@ -37,4 +37,4 @@ Weighted liquidity modulus: 0.87.
 
 ## Summary
 
-Private credit 2026 är inte längre en banklåneersättning utan den centrala likviditetsstrukturen för institutionella aktörer, driven av regulatorisk arbitrage, kapitalflöden och minskad exponering mot publika marknader. Fund-III och -IV dominerar nu likviditetslandskapet genom snabb underwriting och strukturering, medan traditionella banker backar på grund av Basel-krav och durationrisk. Vinnarna skiljer sig genom jurisdiktionell precision, strukturell effektivitet och transaktionshastighet.
+Private credit 2026 no longer replaces bank lending but serves as the core liquidity structure for institutional players, propelled by regulatory arbitrage, capital flows, and reduced public market exposure. Funds-III and -IV dominate the liquidity landscape through accelerated underwriting and structuring, while traditional banks retreat due to Basel requirements and duration risk. Winners differentiate through jurisdictional precision, structural efficiency, and transaction speed.

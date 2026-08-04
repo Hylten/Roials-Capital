@@ -64,4 +64,4 @@ Not as intermediaries. Not as brokers. As architects.
 
 ## Summary
 
-Roials Capital strukturerar suveräna likviditetsfaciliteter med precision, integrerar krypto- och aktieportföljer (min. 2M resp. 5M USD) via disciplinerade kreditkorridorer. Makrostabilitet – inflation, skuld/GDP, valutareserver – avgör ramverket, vilket säkrar motståndskraft i volatila geopolitiska miljöer.
+Institutional liquidity facilities are structured by Roials Capital with precision, integrating crypto and equity portfolios (min. $2M and $5M USD, respectively) through disciplined credit corridors. Framework determination relies on macro stability—inflation, debt-to-GDP, and foreign reserves—ensuring resilience in volatile geopolitical environments. Execution adheres to predefined risk parameters.

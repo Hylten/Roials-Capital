@@ -126,4 +126,4 @@ What remains missing in most markets is structural discipline. Roials Capital fi
 
 ## Summary
 
-Roials Capital levererar strukturell likviditet för suveräna och ultra-kapitalstarka aktörer genom privata kredit- och tillgångsbaserade strategier, med minimigränser på 2 miljoner USD. Fokus ligger på kreditdisciplin och balansräkningssäkerhet snarare än spekulativa cykler, vilket eliminerar exponeringsläckage och jurisdiktionella hinder för kapitalrörlighet.
+Roials Capital provides structural liquidity for sovereign and ultra-high-net-worth entities via private credit and asset-based strategies, with minimum thresholds of USD 2 million. Credit discipline and balance-sheet security take precedence over speculative cycles, removing exposure leakage and jurisdictional barriers to capital mobility. The approach ensures uncompromised capital efficiency.

@@ -120,4 +120,4 @@ This architecture positions Fund-III for accelerated close cycles, higher operat
 
 ## Summary
 
-Regulatoriska kraven (Basel III, MiFID II) och digitala tillgångars mognad tvingar institutionella aktörer att omdefiniera likviditetsarkitekturen. Fund-III positionerar sig strategiskt genom att integrera tokeniserade tillgångar, traditionella realtillgångar och digitala collateral i en sammanhängande struktur för att säkra balansräkningens flexibilitet och kapitaltillgång före 2026.
+Institutional actors must redesign liquidity architecture due to regulatory demands (Basel III, MiFID II) and the maturation of digital assets. Fund-III strategically integrates tokenized assets, traditional real assets, and digital collateral into a cohesive structure to ensure balance sheet flexibility and capital access by 2026. This approach strengthens risk-adjusted returns and operational resilience.

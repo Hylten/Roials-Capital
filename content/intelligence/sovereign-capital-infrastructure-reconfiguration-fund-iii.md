@@ -240,4 +240,4 @@ Industry. Infrastructure. Minerals. Logistics. These are the competitive fields.
 
 ## Summary
 
-Fund-III intar en central roll i den pågående re-sovereigniseringen av global kapitalallokering, där strukturell arkitektur ersätter traditionella fondstrategier. Fokus skiftar från avkastning till jurisdiktionell tillförlitlighet, med krav på hållbarhet, precision och energialignment för institutionella LPs.
+Fund-III drives the ongoing re-sovereignization of global capital allocation, replacing traditional fund strategies with structural architecture. Institutional LPs demand jurisdictional reliability over returns, enforcing sustainability, precision, and energy alignment. The shift prioritizes compliance and long-term stability.

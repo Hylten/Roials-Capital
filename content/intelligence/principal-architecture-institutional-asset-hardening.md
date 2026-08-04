@@ -78,4 +78,4 @@ In institutional finance: the principal leaves a structure that compounds beyond
 
 ## Summary
 
-Institutionella investerare efterfrågar strukturell ogenomtränglighet: fundamentalt robusta tillgångar, kassaflöden immuniserade mot störningar och jurisdiktionella ramverk som eliminerar tolkningsoch genomförandetid. Fund-III kräver kompression av riskvarians genom irreversibla strukturer, skalbar säkerställning och tvångsverkställande i realtid – där kapital följer hårdad arkitektur, inte narrativ.
+Institutional investors demand structural impermeability: fundamentally robust assets, cash flows insulated from disruptions, and jurisdictional frameworks that remove interpretation and enforcement lag. Fund-III necessitates risk variance compression through irreversible structures, scalable collateralization, and real-time enforcement. Capital adheres to hardened architecture, not narratives.

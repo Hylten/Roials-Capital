@@ -32,4 +32,4 @@ This is the unlock. The convergence produces one inevitable outcome: a new parad
 
 ## Summary
 
-Strukturell arbitrage skiftar från sektorspecialisering till kollateralmobilitet, där jurisdiktionsfria balansräkningar accelererar snabbare än regulatorisk konsensus. Digitala tillgångar agerar som suveräna förmögenheter på kedjan, vilket underminerar traditionell kreditbedömning och skapar en ny M&A-ordning där gränslöst kollateral driver marknadsandelar. Vinnarna exploaterar denna strukturella inversion; eftersläntrarna riskerar likviditetsberoende.
+Collateral mobility replaces sector specialization in structural arbitrage, with jurisdiction-agnostic balance sheets outpacing regulatory consensus. Digital assets function as sovereign on-chain wealth, eroding traditional credit assessment and establishing a new M&A framework driven by borderless collateral. Winners capitalize on this structural inversion; laggards face liquidity dependency.

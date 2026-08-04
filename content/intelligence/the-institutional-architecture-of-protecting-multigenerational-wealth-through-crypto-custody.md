@@ -125,4 +125,4 @@ Custody protects the asset. Monetization Architecture protects the strategy. Liq
 
 ## Summary
 
-HNWI/UHNWI-familjer integrerar nu krypto i generationsöverskridande förmögenhetsplanering, varvid Roials Capital tillhandahåller institutionell förvaring som arkitektur snarare än produkt. Systemen säkerställer flerjurisdiktionell redundans, programmerbar åtkomst och mobilisering av tillgångar utan exponering av privata nycklar, i linje med långsiktig förmögenhetsbevarande governance.
+High-net-worth and ultra-high-net-worth families incorporate crypto into intergenerational wealth planning, with Roials Capital providing institutional custody as infrastructure rather than a product. Systems deliver multi-jurisdictional redundancy, programmable access, and asset mobilization without exposing private keys, aligning with long-term wealth preservation governance. Solutions enforce institutional-grade security and compliance.

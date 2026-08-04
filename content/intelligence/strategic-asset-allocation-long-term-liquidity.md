@@ -132,4 +132,4 @@ Rigid discipline. Non-negotiable. We enter the execution requirement. Durable ca
 
 ## Summary
 
-Durable capital är en strukturell position, inte en idé – dess arkitektur bygger på strategisk tillgångsfördelning, likviditet som verktyg och institutionell robusthet. Genom att förankra tillgångar i kassaflöden, förutbestämma riskvektorer och skapa en hierarki av likviditet säkerställs stabilitet och asymmetrisk uppsida under cyklisk osäkerhet. Effektivt genomförande kräver en hårdnande av kapitalstrukturen, där varje komponent – från tillgångsmaturation till regleringspositionering – är designad för att motstå kompression och succession.
+Durable capital constitutes a structural position, not a concept. Its architecture relies on strategic asset allocation, liquidity as a tool, and institutional resilience. Execution demands hardening of the capital structure, where each component—from asset maturation to regulatory positioning—resists compression and succession.

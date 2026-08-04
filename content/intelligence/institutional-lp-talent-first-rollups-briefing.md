@@ -76,4 +76,4 @@ They produce mid-teens to mid-twenties returns with extraordinary repeatability.
 
 ## Summary
 
-Institutionella LPs omklassificerar nu talangdrivna rollups som hållbara tillväxtmotorer, där ledarskap och processer avgör kapitalallokering. Jurisdiktionell flexibilitet och strukturell disciplin – snarare än berättelser – utgör kärnan i moderna Talent-First-strategier.
+Institutional LPs reclassify talent-driven rollups as sustainable growth engines, with leadership and processes determining capital allocation. Jurisdictional flexibility and structural discipline—not narratives—define modern Talent-First strategies. Execution drives investment decisions.

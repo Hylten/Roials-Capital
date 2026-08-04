@@ -45,4 +45,4 @@ is clear. Request confidential capital audit.
 
 ## Summary
 
-Multi-generationskapital kräver strukturell likviditetsarkitektur: hårda tillgångar som säkerställer kassaflöde, strukturerad kredit för rörelseenergi och jurisdiktionell flexibilitet för strategisk dominans. Fund-III:s plattform integrerar dessa element för att skapa skalbar, krisresistent kapitalstruktur som möter institutionella allokatorers krav på kontroll, hastighet och motståndskraft mot svängningar.
+Long-term capital demands a structural liquidity architecture: hard assets securing cash flow, structured credit for operational momentum, and jurisdictional flexibility for strategic dominance. The Fund-III platform consolidates these components to deliver a scalable, crisis-resistant capital structure. It satisfies institutional allocators' requirements for control, speed, and volatility resilience.

@@ -196,4 +196,4 @@ This briefing stands on one metric: Institutional Survivability Index = 0. 87 or
 
 ## Summary
 
-En $5B styrelsegranskning kräver strukturell kontroll, inte improvisation. Härdning av tillgångar genom balansräkningssoliditet, jurisdiktionell säkerhet och motståndskraftig intäktsarkitektur skapar institutionell trovärdighet. Kapital följer auktoritet – avgörande för att säkra och expandera fondens mandat.
+A $5B board review demands structural control, not improvisation. Asset hardening through balance-sheet solidity, jurisdictional security, and resilient revenue architecture establishes institutional credibility. Capital follows authority—critical to securing and expanding the fund’s mandate.

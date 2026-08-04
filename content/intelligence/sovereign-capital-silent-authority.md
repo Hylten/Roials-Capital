@@ -170,4 +170,4 @@ End with a technical metric: Institutional Continuity Ratio:
 
 ## Summary
 
-Sovereign kapital utövar strukturell makt genom permanens, inte kortsiktig avkastning, och riktar sig mot fundamentala tillgångar i reglerade, konkurrensbegränsade sektorer. Effektiv kapitalanskaffning kräver mekanisk rigor, jurisdiktionell diversifiering och inflationsskyddade strukturer för att möta institutionella LP:ers krav på stabilitet och kontroll.
+Sovereign capital exerts structural power through permanence, not short-term returns, targeting core assets in regulated, competition-constrained sectors. Capital deployment demands mechanical rigor, jurisdictional diversification, and inflation-protected structures to satisfy institutional LPs’ stability and control requirements. Execution prioritizes long-term asset preservation over yield optimization.

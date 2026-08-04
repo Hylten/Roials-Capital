@@ -118,4 +118,4 @@ Roials Capital’s role is to provide institutional LPs and GPs with a neutral, 
 
 ## Summary
 
-Institutionella investerare möter en kapitalrationerad miljö där traditionella energitillgångar med förutsägbara avkastningskurvor utgör den mest stabila säkerheten. Strukturell hållbarhet kräver dock mer än balansräkningsanalys – det förutsätter ingenjörsmässig flexibilitet, disciplinerade kapitalstrukturer och branschspecifik operativ expertis för att säkra långsiktig stabilitet i privata marknader.
+Institutional investors face a capital-constrained environment where traditional energy assets with predictable return profiles provide the most stable security. Structural sustainability demands more than balance-sheet analysis—it requires engineering flexibility, disciplined capital structures, and sector-specific operational expertise to ensure long-term stability in private markets. These elements define resilience in volatile conditions.

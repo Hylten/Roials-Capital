@@ -223,4 +223,4 @@ Fund-III must embody that principle.
 
 ## Summary
 
-Modern kapitalallokering kräver *principal authority*: strukturell precision genom jurisdiktionell arbitrage, cross-border custody och asset hardening för att skapa permanent, immun och rörlig auktoritet. Effektivitet uppnås via tre lager, asset-, instrument- och suverän nivå, där arkitektur snarare än strategi avgör långsiktig värdekompression och exitkraft.
+Principal authority dictates modern capital allocation: structural precision via jurisdictional arbitrage, cross-border custody, and asset hardening to establish permanent, immune, and mobile authority. Three layers—asset, instrument, and sovereign—drive efficiency, where architecture, not strategy, determines long-term value compression and exit leverage. Execution governs outcomes.

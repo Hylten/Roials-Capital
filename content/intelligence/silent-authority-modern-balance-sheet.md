@@ -47,4 +47,4 @@ Terminal metric: 1.6x liquidity coverage ratio.
 
 ## Summary
 
-- Principal authority* är avgörande för kapitalintensiva institutioners överlevnad, men syns inte i balansräkningar eller redovisning. Den formas genom strukturell legitimering – linje, jurisdiktion, kovenanter och riskdisciplin – och avgör tillgång till kapital, likviditet och förvärvsrättigheter i fragmenterade marknader. Fund-III-aktörer måste kommunicera kontinuitet, inte ambition, för att säkra mandatutvidgning.
+Principal authority determines the survival of capital-intensive institutions yet remains absent from balance sheets or financial reporting. It is established through structural legitimization—hierarchy, jurisdiction, covenants, and risk discipline—and dictates access to capital, liquidity, and acquisition rights in fragmented markets. Fund-III actors must convey continuity, not ambition, to secure mandate expansion.

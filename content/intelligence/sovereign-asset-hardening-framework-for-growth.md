@@ -163,4 +163,4 @@ Roials Capital provides confidential Strategy Audits, Portfolio Calibration asse
 
 ## Summary
 
-Nordamerikas energisektor lider av strukturell kapitalbrist till följd av regleringsdrift, inte resursutarmning. Institutionella investerare som positionerar kapital genom *sovereign asset hardening* – en disciplin för att omvandla flytande till strategiskt kalibrerat kapital – genererar hållbara avkastningar via förutsägbara tillgångar snarare än spekulativa teman. Ramverket är agnostiskt till sektor och skapar stabil tillväxt över flercykelmiljöer genom att kapital omvandlas från exponerat instrument till styrd resurs.
+North America’s energy sector faces structural capital shortages due to regulatory drift, not resource depletion. Institutional investors deploying capital through *sovereign asset hardening*—a discipline converting liquidity into strategically calibrated capital—deliver sustainable returns via predictable assets instead of speculative themes. The framework remains sector-agnostic, driving stable growth across multi-cycle environments by transforming capital from exposed instruments into controlled resources.

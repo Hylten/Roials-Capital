@@ -120,4 +120,4 @@ Capital stewardship at Roials Capital ensures that deployment is aligned with di
 
 ## Summary
 
-Strukturell kapitalbrist i Nordamerikas energisektor drivs av regulatorisk drift, ej resursutarmning, och förstärks av global balansräkningshårdhet. Institutionella likviditetskrav och jurisdiktionell stabilitet prioriteras framför räntor, vilket skapar en ny kapitalarkitektur där suveränt orienterat kapital och hårdvaruexponering dominerar.
+North America’s energy sector faces structural capital shortages driven by regulatory volatility, not resource depletion, and compounded by global balance-sheet tightening. Institutional liquidity requirements and jurisdictional stability override interest-rate considerations, forging a new capital architecture. Sovereign-aligned capital and hardware exposure prevail.

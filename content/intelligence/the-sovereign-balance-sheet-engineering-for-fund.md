@@ -146,4 +146,4 @@ It does not reward speed without clarity. It does not subsidize disorganization.
 
 ## Summary
 
-En suverän balansräkning är en operativ doktrin som möjliggör kontrollerad riskomvandling och strategisk likviditetsallokering. Strukturell alignment och asset hardening eliminerar frictions och omvandlar privata tillgångar till institutionell säkerhet, avgörande för Fund-III-beredskap. Covenant stewardship säkerställer långsiktig stabilitet och marknadsdominans.
+A pristine balance sheet enables controlled risk transformation and strategic liquidity allocation. Structural alignment and asset hardening remove frictions, converting private assets into institutional-grade security, critical for Fund III readiness. Covenant stewardship ensures long-term stability and market dominance.

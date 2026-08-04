@@ -119,4 +119,4 @@ The future credit system is not built on opacity or slow settlement. It is built
 
 ## Summary
 
-Bitcoin har etablerat sig som institutional collateral, erbjudande kontinuerlig likviditet och transparent prissättning – en ny standard för familjekontor. Roials Capital integrerar dess kollaterala styrka i privata kreditstrukturer för att bevara exponering, undvika skattepliktiga händelser och säkerställa operativ flexibilitet under marknadsstress.
+Bitcoin serves as institutional collateral, providing continuous liquidity and transparent pricing—a new benchmark for family offices. Roials Capital incorporates its collateral strength into private credit structures to maintain exposure, avoid taxable events, and ensure operational flexibility during market stress. The asset’s properties redefine risk management in private capital.

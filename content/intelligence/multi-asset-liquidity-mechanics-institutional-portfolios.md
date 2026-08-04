@@ -73,4 +73,4 @@ Uses structured entities, regulatory corridors, and harmonized capital structure
 
 ## Summary
 
-Institutionell multi-asset-likviditet är en strukturell nödvändighet, ej marknadsberoende preferens. Effektiv likviditetsstyrning i tre dimensioner (temporal, jurisdiktionell, tillgångsklass) skiftar kontroll från marknader till portföljförvaltare, säkrar förvärvsmöjligheter och bevarar operationell autonomi. Kapital belönar beredskap – inte fördröjning.
+Institutional multi-asset liquidity is a structural necessity, not a market-dependent preference. Effective liquidity management across three dimensions (temporal, jurisdictional, asset class) shifts control from markets to portfolio managers, secures acquisition opportunities, and preserves operational autonomy. Capital rewards preparedness—not delay.

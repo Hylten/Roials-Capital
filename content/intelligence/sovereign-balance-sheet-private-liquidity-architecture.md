@@ -61,4 +61,4 @@ The Alberta heavy oil ecosystem, particularly through technically mature operato
 
 ## Summary
 
-Nordamerikas energisektorns kapitalbrist är strukturell, driven av regleringsdrift, kapitalflykt och institutionella mandat som undviker realtillgångar. Allokatorer bör integrera suveräna balansräkningar med privat likviditetsarkitektur, realtillgångskollateral och buyout-optimering utan korrelationsdrag. Möjligheterna baseras på mogen nedgångskurva-disciplin, hög säkerhetsåtervinning och stabil produktion som harmoniserar med privat kredit.
+North America’s energy sector capital shortfall is structural, driven by regulatory overreach, capital flight, and institutional mandates avoiding real assets. Allocators will embed sovereign balance sheets with private liquidity architecture, real-asset collateral, and buyout optimization free of correlation drag. Opportunities rest on mature downside-curve discipline, high security recovery, and stable production aligned with private credit.

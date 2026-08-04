@@ -121,4 +121,4 @@ The question is not which asset to select. The question is how to structure a ca
 
 ## Summary
 
-Nordamerikas energisektor lider av strukturell kapitalbrist – inte resursbrist – driven av regulatorisk drift, policyrisk och ESG-restriktioner. Allokerare positionerar sig nu kring långsiktig likviditet genom att utnyttja mogna reservoarer och disciplinerade operatörer snarare än prisvolatilitet. Denna regimskift, präglad av minskad tillgång till institutionellt kapital och ökad inhemsk energisäkerhet, skapar en bestående ineffektivitet som gynnar sofistikerade investerare under kommande decennier.
+North America’s energy sector faces structural capital scarcity—not resource scarcity—due to regulatory drift, policy risk, and ESG constraints. Allocators secure long-term liquidity by targeting mature reservoirs and disciplined operators instead of price volatility. This regime shift, defined by reduced institutional capital access and heightened domestic energy security, sustains inefficiencies that favor sophisticated investors for decades.

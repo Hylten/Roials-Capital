@@ -137,4 +137,4 @@ When these criteria are met, the allocator transitions from market participant t
 
 ## Summary
 
-Nordamerikansk energisektor lider av kapitalbrist till följd av regulatorisk osäkerhet och missriktad kapitalallokering, vilket skapar strukturella arbitragemöjligheter för disciplinerade gränsöverskridande investerare. Med stigande inflation, valutafragmentering och politisk instabilitet efterfrågas nu tillgångar med juridisk och operativ motståndskraft snarare än enkel diversifiering.
+The North American energy sector faces capital shortages due to regulatory uncertainty and misallocated investment, creating structural arbitrage opportunities for disciplined cross-border investors. Inflationary pressures, currency fragmentation, and political instability demand assets with legal and operational resilience over mere diversification. Such conditions favor targeted, risk-adjusted capital deployment.

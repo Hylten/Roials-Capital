@@ -139,4 +139,4 @@ This framework protects the reserve. Protects the family. Protects the operating
 
 ## Summary
 
-Bitcoin etableras som institutionell reservtillgång för family offices, ersätter traditionell likviditetspolitik med oberoende, gränslös monetär kontroll. Roials Capital strukturerar detta via tre lager: Bitcoin som reserv, kassagenererande tillgångar som operativ bas och expansionskapital via specialiserade mandat.
+Family offices adopt Bitcoin as an institutional reserve asset, displacing traditional liquidity policies with independent, borderless monetary control. Roials Capital implements this through three layers: Bitcoin as the reserve, cash-generating assets as the operational base, and expansion capital via specialized mandates. The framework ensures sovereign financial autonomy.

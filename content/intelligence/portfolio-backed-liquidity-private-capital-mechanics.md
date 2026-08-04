@@ -142,4 +142,4 @@ Navigating cross-border structuring, regulatory systems, and partner verificatio
 
 ## Summary
 
-Regulatorisk drift och bankernas reträtt har skapat en likviditetsbrist för medelstora privata bolag, trots starka tillgångar och stabila kassaflöden. Basel III/IV och minskad bankfinansiering har gynnat stora PE-sponsorer medan mellanstora operatörer, särskilt inom tung olja, lider av strukturell underfinansiering driven av ESG-optik snarare än teknisk risk. Portföljbackad likviditet och privat kredit framstår som nödvändiga lösningar för att fylla gapet.
+Regulatory operations and bank retreat have created a liquidity shortage for mid-sized private companies, despite strong assets and stable cash flows. Basel III/IV and reduced bank financing have favored large PE sponsors, while mid-market operators, particularly in heavy oil, suffer from structural underfunding driven by ESG optics rather than technical risk. Portfolio-backed liquidity and private credit are necessary solutions to bridge the gap.

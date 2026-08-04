@@ -138,4 +138,4 @@ It will be defined by optionality and structure. Those who operate within legacy
 
 ## Summary
 
-Strategisk kapitalmigration är avgörande för UHNWIs i en era präglad av regulatorisk fragmentering och snabbare cykler. Roials Capital skapar strukturella fördelar genom disciplinerad rörlighet via privat kredit, gränsöverskridande strukturer och dold likviditet, utan att äventyra kontroll eller skatteposition.
+Strategic capital migration defines UHNWI resilience amid regulatory fragmentation and accelerated cycles. Roials Capital delivers structural advantages through disciplined mobility via private credit, cross-border structures, and concealed liquidity. Control and tax positioning remain uncompromised.

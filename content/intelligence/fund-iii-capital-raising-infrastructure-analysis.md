@@ -287,4 +287,4 @@ Allocators expect precision. Precision attracts institutions. Institutions scale
 
 ## Summary
 
-Fund-III kräver strukturell mognad: stabil GP-identitet, modulär infrastruktur och data-driven beslutstakt. Allokerare utvärderar kapitalflödeseffektivitet, regulatorisk precision och systemisk repeterbarhet – inte narrativ. Infrastrukturens robusthet avgör checkstorlekar och institutionell tillit.
+Fund-III demands structural maturity: a stable GP identity, modular infrastructure, and data-driven decision cadence. Allocators assess capital-flow efficiency, regulatory precision, and systemic repeatability—not narratives. Infrastructure robustness dictates check sizes and institutional trust.

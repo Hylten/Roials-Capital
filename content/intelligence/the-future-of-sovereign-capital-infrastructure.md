@@ -50,4 +50,4 @@ Custody systems, on-chain verification models, cross-asset collateral engines, a
 
 ## Summary
 
-Digital assets och publika aktier integreras nu strukturellt i institutionell kapitalinfrastruktur genom högförlitliga, kollateraliserade ramverk. Roials Capital tillhandahåller dessa arkitekturer för HNWI/UHNW, säkerställande av kontroll och likviditet utan mellanhänder. Verksamheten bygger på *principal authority*, där klienter erhåller strukturell suveränitet över eget kapital.
+Institutional capital infrastructure now structurally integrates digital assets and public equities through high-reliability, collateralized frameworks. Roials Capital delivers these architectures for HNWI/UHNW clients, ensuring control and liquidity without intermediaries. Operations are founded on principal authority, granting clients structural sovereignty over their equity.

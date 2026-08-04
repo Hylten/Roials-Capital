@@ -18,4 +18,4 @@ Non‑dilutive capital moves quiet. Moves fast. Moves where equity refuses to go
 
 ## Summary
 
-Non-dilutive capital accelererar tyst i lower-mid market genom tre strukturerade motorer: direktinjektioner för PE-buyouts, fullskalig säkerställd kredit med industriell säkerhetsryggrad, samt långsiktiga mandat för nationella balansräkningar. Effektivitet och kontroll prioriteras framför dilution, vilket skapar konkurrensfördel för sponsors som implementerar dessa lösningar.
+Non-dilutive capital advances discreetly in the lower-mid market via three structured mechanisms: direct injections for PE buyouts, full-scale secured credit with industrial collateral, and long-term mandates for national balance sheets. Efficiency and control supersede dilution, delivering a competitive edge to sponsors deploying these solutions. Implementation remains critical for execution.

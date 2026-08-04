@@ -122,4 +122,4 @@ Request confidential capital audit below.
 
 ## Summary
 
-Private equity skiftar mot kortare investeringscykler till 2026 driven av LP-krav på snabbare kapitalomsättning, minskad ineffektivitet och förbättrad transaktionsdynamik. Strukturella förändringar som add-on-strategier, industrialiserade processer och integrerad private credit accelererar underwriting och värdeskapande.
+Investment cycles in private equity will shorten by 2026 due to LP demands for faster capital turnover, reduced inefficiencies, and improved transaction dynamics. Structural shifts, including add-on strategies, industrialized processes, and integrated private credit, accelerate underwriting and value creation. These changes reshape deal execution and portfolio optimization.

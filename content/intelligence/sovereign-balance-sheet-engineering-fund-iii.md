@@ -121,4 +121,4 @@ The goal is to facilitate alignment between institutional capital and platforms 
 
 ## Summary
 
-Strukturell kapitalbrist i nordamerikanska privata marknader härrör från regulatorisk drift, inte kapitalunderskott. Fund-III-plattformar med balansräkningar designade för transparens och snabb kapitalallokering till realtillgångar möter ökad efterfrågan från suveräna investerare som prioriterar kassaflödesmekanismer och riskkontroll. Den nya institutionella modellen kräver operativ disciplin, multi-jurisdiktionell compliance och skalbar förvärvsstrategi utan att äventyra likviditet.
+Structural capital shortages in North American private markets stem from regulatory drift, not capital deficits. Fund-III platforms with balance sheets engineered for transparency and rapid capital deployment to real assets address rising demand from sovereign investors prioritizing cash-flow mechanisms and risk control. The new institutional model demands operational discipline, multi-jurisdictional compliance, and scalable acquisition strategies without compromising liquidity.

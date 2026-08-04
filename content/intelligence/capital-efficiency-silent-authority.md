@@ -111,4 +111,4 @@ is clear. Conduct the confidential capital audit.
 
 ## Summary
 
-Strukturella kapitalgap – koncentration, sekvensering och auktoritet – skapar tysta kostnader som underminerar lönsamhet innan likviditetsstress uppstår. Den nya regimens avgörande är kapitalets rörlighet, inte kostnaden, där effektiv arkitektur frigör bundet kapital utan att äventyra kontroll.
+Capital gaps in structure—concentration, sequencing, and authority—generate silent costs that erode profitability before liquidity stress emerges. The new regime prioritizes capital mobility over cost, where efficient architecture unlocks trapped capital without compromising control. Implementation determines competitive advantage.

@@ -106,4 +106,4 @@ Asset-Based Lending becomes cheap. Energy partners commit faster. EU regulators 
 
 ## Summary
 
-En suverän balansräkning är en jurisdiktionell organism som skulpterar kapitalflöden genom strukturell design – inte enbart kapitalallokering. Genom en hierarkisk jurisdiktionell triad (primär för förvaltning, sekundär för bankrättigheter, tertiär för optimering) säkerställs permanent likviditet, kreditvärdighet och kontinuitet, vilket eliminerar strukturella risker och skapar ett mätbart "kapitaldelta" som accelererar kapitalanskaffning för Fund-III. Design föregår kapital; felaktig struktur leder till utplåning.
+A sovereign balance sheet functions as a jurisdictional organism shaping capital flows through structural design—not mere capital allocation. A hierarchical jurisdictional triad (primary for management, secondary for banking rights, tertiary for optimization) guarantees permanent liquidity, creditworthiness, and continuity, eliminating structural risks and generating a measurable "capital delta" that accelerates capital acquisition for Fund-III. Design precedes capital; flawed structure results in eradication.

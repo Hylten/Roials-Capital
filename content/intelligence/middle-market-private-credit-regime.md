@@ -72,4 +72,4 @@ We engineer both through a Fund-III architecture targeting a 1.5 to 1.8 times MO
 
 ## Summary
 
-Regulatorisk bankretreat och sponsorers ökade transaktionshastighet skapar en permanent strukturell lucka i mellanstora kreditmarknaden. Roials Capital positionerar sig där komplexitet och bristande institutionalisering genererar asymmetrisk riskjusterad avkastning genom disciplinerad LTV-styrning (35-55%), kassaflödesfokus och accelererad återvinning.
+Structural gaps in the mid-market credit sector persist due to regulatory bank pullback and accelerated sponsor deal flow. Roials Capital exploits complexity and under-institutionalization, delivering asymmetric risk-adjusted returns via disciplined LTV controls (35-55%), cash-flow focus, and accelerated recovery. Execution remains anchored in asset-backed precision and capital efficiency.

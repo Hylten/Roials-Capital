@@ -114,4 +114,4 @@ The objective is not to promote any instrument but to map the structural terrain
 
 ## Summary
 
-Institutionellt stöd har blivit avgörande för private credit i Nordamerikas energisektor, drivet av bankreglering och underinvesteringar (40% underhållsgap sedan 2014). Strukturell kapacitetsbrist och resursbaserade kassaflöden skapar en obalans där disciplinerade institutionella aktörer, som Roials Capital, agerar stabiliserande kraft genom rigorös motpartskontroll och balansräkningsoptimering för operatörer.
+Institutional support defines private credit in North America’s energy sector, driven by bank regulation and chronic underinvestment (40% maintenance shortfall since 2014). Structural capacity constraints and resource-backed cash flows create imbalances that disciplined institutional players like Roials Capital stabilize through rigorous counterparty oversight and operator balance-sheet optimization. Capital efficiency and risk discipline remain non-negotiable.
