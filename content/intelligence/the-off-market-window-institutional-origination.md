@@ -10,7 +10,7 @@ meta_title: "The Off-Market Window: Institutional Origination Before the Market"
 meta_description: "Institutional briefing on the 12-18 month window before sellers engage brokers: seller signals, advisor channels, and the pipeline behind proprietary deal flow."
 featured_image: ""
 draft: false
-author: "Roials Capital"
+author: "Jonas Hyltén"
 ---
 
 The market is a filter for what private capital rejected. Public listings carry the residue of owners who could not solve succession privately. Buyers who reach sellers before the broker engagement operate in a different regime.
