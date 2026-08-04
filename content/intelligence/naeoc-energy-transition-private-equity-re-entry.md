@@ -113,4 +113,4 @@ Infrastructure LPs are already repositioning in that direction. Fund‑III manag
 
 ## Summary
 
-Infrastructure LPs återvänder till mid-market energy transition-mandat ($50–250M) där kontroll och rationella värderingar råder, undviker politiserad och överprissatt megaprojektlogik. Mid-market buyouts möjliggör operativ dominans och industriell logik, vilket attraherar LPs som prioriterar stabila kassaflöden och mätbara resultat framför spekulativa gröna investeringar.
+Institutional investors return to mid-market energy transition mandates ($50-250M) where control and rational valuations prevail, avoiding politicized and overpriced megaproject logic. Mid-market buyouts enable operational dominance and industrial logic, attracting investors who prioritize stable cash flows and measurable results over speculative green investments. Investors focus on mid-market opportunities that offer control and reasonable valuations.

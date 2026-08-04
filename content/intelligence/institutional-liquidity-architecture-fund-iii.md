@@ -32,4 +32,4 @@ Ratio: 1.14x liquidity coverage minimum.
 
 ## Summary
 
-Institutionell likviditet är numera en konstruerad tillgångsklass, driven av kod, jurisdiktion och strukturerad monetarisering. Fund-III+ strategier kräver hårdade balansräkningar, flerlagrade kapitalstacks och ring-fenced plattformar för att omvandla illikviditet till avkastning och säkra kapitalflöden i en fragmenterad regleringsmiljö.
+Institutional liquidity is now a constructed asset class, driven by code, jurisdiction, and structured monetization. Fund-III+ strategies require hardened balance sheets, multi-layered capital stacks, and ring-fenced platforms to convert illiquidity into returns and secure capital flows in a fragmented regulatory environment. Institutional investors demand robust infrastructure to navigate this complex landscape.

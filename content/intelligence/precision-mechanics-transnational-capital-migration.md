@@ -118,4 +118,4 @@ This is not a product presentation. It is a portfolio calibration exercise desig
 
 ## Summary
 
-Kapitalflöden 2026 drivs av regulatorisk divergens snarare än riskaptit, med tre distinkta lägen: Nordamerika präglat av ESG-mispricing och policyinstabilitet, Europa av compliance-dominerad kapitalbildning och Golf/Asien av säkerhetsinriktade, långsiktiga investeringar. Transnationell kapitalmigration är en strukturell reaktion på icke-tekniska riskvariabler, där stabil jurisdiktion och operationell intelligibilitet avgör allokering.
+Capital flows in 2026 are driven by regulatory divergence rather than risk appetite, with three distinct regimes: North America is characterized by ESG mispricing and policy instability, Europe by compliance-driven capital formation, and the Gulf/Asia by security-oriented, long-term investments. Transnational capital migration is a structural response to non-technical risk variables, where stable jurisdiction and operational intelligibility determine allocation. Institutions allocate capital based on regulatory environments and operational clarity.

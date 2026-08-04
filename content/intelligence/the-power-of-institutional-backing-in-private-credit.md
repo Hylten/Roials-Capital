@@ -143,4 +143,4 @@ Capital is professionalizing. Governance is tightening. Borrowers at the HNWI an
 
 ## Summary
 
-Institutionell backing transformerar private credit från subjektiv risk till strukturell stabilitet genom regelbaserade flöden och deterministisk underwriting, vilket säkerställer förutsägbar likviditet och balansoptimering även under volatila marknadsförhållanden. För HNWI/UHNW är detta avgörande för precision och kontinuitet, då kapitalkällan är engagerad och icke-korrelerad med sekundärmarknadens sentiment. Roials Capital tillämpar denna arkitektur för att leverera pålitlig likviditet på begäran, oberoende av marknadscykler.
+Institutional backing transforms private credit from subjective risk to structural stability through rule-based flows and deterministic underwriting, ensuring predictable liquidity and balance optimization even under volatile market conditions. For HNWI/UHNW, this is crucial for precision and continuity, as the capital source is engaged and non-correlated with secondary market sentiment. Roials Capital applies this architecture to deliver reliable liquidity on demand, independent of market cycles.

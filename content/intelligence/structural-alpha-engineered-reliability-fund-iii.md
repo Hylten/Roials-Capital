@@ -152,4 +152,4 @@ Roials Capital invites qualified LPs, institutional allocators, and strategic pa
 
 ## Summary
 
-Fund-III positionerar tillförlitlighet som en konstruerad, systemisk nödvändighet – inte en emergent egenskap – genom strukturell alignment, likviditetsoptioner och exekveringsberedda säkerhetsekosystem. Kapitalanskaffningen drivs som systemteknik, där strukturell alfa genereras via jurisdiktionell arbitrage, redundanta säkerheter och motståndskraftiga kassaflödesstrukturer innan kapital allokeras. Arkitekturen bygger på hårdkodad disciplin, tillgångsbaserad strategisk säkerställning och maskinell precision för fler-cyklisk uthållighet.
+Fund-III positions reliability as a constructed, systemic necessity - not an emergent property - through structural alignment, liquidity options, and execution-ready security ecosystems. Capital acquisition is driven as systems technology, where structural alpha is generated via jurisdictional arbitrage, redundant securities, and resilient cash flow structures before capital is allocated. The architecture is based on hard-coded discipline, asset-based strategic assurance, and machine precision for multi-cycle endurance.

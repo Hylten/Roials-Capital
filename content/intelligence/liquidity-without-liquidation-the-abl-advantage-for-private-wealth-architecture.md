@@ -110,4 +110,4 @@ In the modern wealth landscape, liquidity should not depend on market conditions
 
 ## Summary
 
-Asset-Based Lending (ABL) är en strukturell lösning för HNWI/UHNWI som skapar likviditet utan att upplösa portföljer, bevarar exponering och strategisk optionality. Roials Capital tillämpar ABL som primärt designverktyg, snarare än tillfällig kreditlösning, genom att låna mot privata tillgångar och generera institutionell likviditet utan försäljningsbehov.
+Institutional investors utilize Asset-Based Lending as a structural solution that creates liquidity without dissolving portfolios, preserving exposure and strategic optionality. Roials Capital applies ABL as a primary design tool, rather than a temporary credit solution, by lending against private assets and generating institutional liquidity without the need for sales. Roials Capital's approach enables high net worth individuals to maintain their portfolio composition.

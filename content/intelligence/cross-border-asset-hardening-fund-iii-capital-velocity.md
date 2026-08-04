@@ -170,4 +170,4 @@ Institutions inherit what they structure. Not what they intend. Fund‑III must 
 
 ## Summary
 
-Fund-III måste inta en suverän position med strukturell hårdhet för att omvandla volatilitet till konkurrensfördelar. Genom jurisdiktionell dominans, exekveringsflexibilitet och likviditetsmobilitet skapas varaktiga strukturer som säkrar kapitalinflöde och ger LPs den avgörande valutan: säkerhet.
+Fund-III must assume a sovereign position with structural rigidity to convert volatility into competitive advantages. The fund achieves this through jurisdictional dominance, execution flexibility, and liquidity mobility, creating enduring structures that secure capital inflows and provide Limited Partners with the crucial currency: security. The fund's structure ensures stability and control.

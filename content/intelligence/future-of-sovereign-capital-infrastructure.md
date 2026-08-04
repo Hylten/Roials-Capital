@@ -130,4 +130,4 @@ The objective is not transactional deployment but long-term structural alignment
 
 ## Summary
 
-Regulatorisk drift snarare än resursbrist skapar kapitalvakuum i Nordamerikas energisektor, vilket utgör en central dislokation i den pågående cykeln. Den nya kapitalarkitekturen präglas av brist på realtillgångar, ökade krav från suveräna investerare och övergång från likviditetsregimer till balansräkningsoptimering, vilket kräver operativ intelligens för strategisk positionering.
+Regulatory dynamics rather than resource scarcity create a capital vacuum in North America's energy sector, which constitutes a key dislocation in the current cycle. The new capital architecture is characterized by a lack of real assets, increased demands from sovereign investors, and a shift from liquidity regimes to balance sheet optimization, requiring operational intelligence for strategic positioning. Institutions drive this shift, prioritizing capital discipline and returns over volume and growth.

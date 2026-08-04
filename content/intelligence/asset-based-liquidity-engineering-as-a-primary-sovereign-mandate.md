@@ -122,4 +122,4 @@ It aligns stewardship, authority, and discipline. It transforms static assets in
 
 ## Summary
 
-Asset-Based Liquidity Engineering etableras som en suverän mandatstruktur, där disciplin, kollateral och covenant-integritet avgör kapitalallokering – inte marknadssentiment. Roials Capital tillämpar icke-förhandlingsbara trösklar ($2M för krypto, $5M för aktier) för att filtrera spekulanter och säkra kontroll över likviditet som strategiskt verktyg för expansion utan utspädning eller politiska beroenden.
+Asset-Based Liquidity Engineering is established as a sovereign mandate structure, where discipline, collateral, and covenant integrity determine capital allocation - not market sentiment. Roials Capital applies non-negotiable thresholds ($2M for crypto, $5M for stocks) to filter out speculators and secure control over liquidity as a strategic tool for expansion without dilution or political dependencies. Roials Capital exercises this control to drive growth.

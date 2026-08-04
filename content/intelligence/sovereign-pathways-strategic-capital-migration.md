@@ -76,4 +76,4 @@ They become strategic. Predictable. Respectable. They operate as peers to instit
 
 ## Summary
 
-Strategisk kapitalmigration är avgörande för UHNW- och familjeofficess kapitalförvaltning, driven av politisk volatilitet, regulatorisk komplexitet och omvärdering av privata marknader. Effektiva strukturer kräver jurisdiktionell precision, mobilitet och hierarkisk dynamik för att möta moderna LP-krav och cross-border investeringar. Roials Capital analyserar optimala migrationsvägar för Fund-III+-kapital, monetiseringsarkitektur och specialiserade mandat inom energi och MiFID II-korridorer.
+Strategic capital migration is crucial for UHNW and family office capital management, driven by political volatility, regulatory complexity, and revaluation of private markets. Effective structures require jurisdictional precision, mobility, and hierarchical dynamics to meet modern LP requirements and cross-border investments. Royals Capital analyzes optimal migration routes for Fund-III+ capital, monetization architecture, and specialized mandates in energy and MiFID II corridors.
