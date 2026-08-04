@@ -108,6 +108,6 @@ Liquidity Is No Longer a Reaction. It Is a System.
 
 In the modern wealth landscape, liquidity should not depend on market conditions, nor should it require selling. It should not force an investor into the role of a trader. Liquidity must be engineered, architected, and made available without dismantling the asset layer. This is the Asset-Based Lending advantage. This is liquidity without liquidation. This is the Roials Capital framework. Request confidential audit.
 
-## Sammanfattning
+## Summary
 
 Asset-Based Lending (ABL) är en strukturell lösning för HNWI/UHNWI som skapar likviditet utan att upplösa portföljer, bevarar exponering och strategisk optionality. Roials Capital tillämpar ABL som primärt designverktyg, snarare än tillfällig kreditlösning, genom att låna mot privata tillgångar och generera institutionell likviditet utan försäljningsbehov.

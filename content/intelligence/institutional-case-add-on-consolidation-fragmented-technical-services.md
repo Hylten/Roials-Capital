@@ -149,6 +149,6 @@ Technical services are entering a structural consolidation phase for one reason:
 
 The institutional case for consolidation in fragmented technical services is not theoretical. It is not speculative. It is not dependent on macro enthusiasm. It is structural. It is mechanical. It is inevitable. You consolidate to create order. You create order to create value. You create value to command the multiple. Request confidential capital audit.
 
-## Sammanfattning
+## Summary
 
 Fragmenterade tekniska tjänstemarknader utgör oexploaterade tillgångar där disciplinerad add-on-konsolidering omvandlar kaos till institutionaliserade kassaflöden. Kontroll av add-ons säkrar multiplar genom att standardisera underliggande verksamheter, eliminera variation och skapa skalbar lönsamhet via ökad täthet, utökad serviceomfattning och laboratorieoptimering. Strukturell asymmetri och förutsägbara kassaflöden gör detta till en avgörande strategi för institutionella investerare.

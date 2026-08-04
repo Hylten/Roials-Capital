@@ -32,6 +32,6 @@ The facility becomes the GP’s inheritance.
 
 The sovereign liquidity facility is the modern institutional inheritance mechanism. Not inherited from ancestors. But inherited from structure. Those who build it inherit the future. A GP without sovereign liquidity builds deals. A GP with sovereign liquidity builds empires. Operational velocity becomes absolute. Capital flow becomes predictable. Institutional trust becomes self-reinforcing. The facility transforms the GP from market participant to market shaper. Institutional investors prefer shapers. This is the architecture. This is the method. This is the perimeter that defines the next decade of private equity dominance. The sovereign facility is the ultimate institutional weapon. For principal review, initiate a confidential capital audit.
 
-## Sammanfattning
+## Summary
 
 Sovereign liquidity facilities är numera strategiska balansräkningstekniker som accelererar kapitalflöden och reducerar riskcykler genom exakt strukturerad jurisdiktionell, operationell och covenant-baserad arkitektur. De transformerar likviditet från en funktion av tillgängliga medel till en suverän privilegierad operativ mekanism, avgörande för att säkra och skalera kapitalanskaffning i Fund-III-miljöer. Precision och neutralitet är avgörande för att domesticera risk och säkerställa oavbruten pipeline-beredskap mellan LOI och closing.

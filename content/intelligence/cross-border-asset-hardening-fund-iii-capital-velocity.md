@@ -168,6 +168,6 @@ Neutralize volatility.
 
 Institutions inherit what they structure. Not what they intend. Fund‑III must signal sovereign-grade architecture. Hard. Precise. Immutable. Request confidential capital audit.
 
-## Sammanfattning
+## Summary
 
 Fund-III måste inta en suverän position med strukturell hårdhet för att omvandla volatilitet till konkurrensfördelar. Genom jurisdiktionell dominans, exekveringsflexibilitet och likviditetsmobilitet skapas varaktiga strukturer som säkrar kapitalinflöde och ger LPs den avgörande valutan: säkerhet.

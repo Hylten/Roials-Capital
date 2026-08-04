@@ -98,6 +98,6 @@ Assets must be governed, not exploited. A reservoir that is overproduced is a vi
 
 Fund-III does not operate for the quarter. Nor for the election cycle. The frame is generational. Private capital with generational discipline always outperforms sovereign capital with temporal incentives. EXIT The future of sovereign capital infrastructure will be decided by one metric: recovery integrity. When recovery structures strengthen, capital flows return. When they weaken, sovereign control erodes. A sovereign survives on the precision of its collateral spine. A fund survives on the precision of its governance. For LPs, family offices, and institutional allocators requiring a confidential capital audit for Fund-III positioning, initiate contact under secure channel.
 
-## Sammanfattning
+## Summary
 
 Sovereigns face structural collapse not from asset scarcity but from failing institutional infrastructure that seizes collateral transformation and credit transmission. The regime shift toward hard collateral (energy, minerals, royalties) and private stewardship, exacerbated by liquidity bifurcation and fiscal entropy, demands immediate reconstruction of sovereign capital architecture to restore trust and enforce consistency.

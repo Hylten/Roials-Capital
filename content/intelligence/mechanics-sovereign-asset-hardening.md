@@ -168,6 +168,6 @@ Hardening requires a balance between protection and mobility.
 
 The allocator must be able to project cash flow trajectories, risk envelopes, and long term operational requirements. Roials Capital provides confidential Strategy Audits and Portfolio Calibration engagements designed to map allocators into the structural landscape of Asset Hardening. The objective is to provide clarity on the operational regime and introduce the correct institutional partners where alignment exists.
 
-## Sammanfattning
+## Summary
 
 Strukturell kapitalbrist i Nordamerika driver efterfrågan på *Sovereign Asset Hardening* som avgörande strategi för långsiktiga investerare. Regulatorisk kompression, minskad reinvestering från publika marknader och divergerande kapitalkostnader skapar en miljö där stabila, underkapitaliserade tillgångar med förutsägbara kassaflöden premieras. Fokus skiftar från tillväxt till motståndskraft och kontinuitet genom hårdade balansräkningar och kovenantskyddade strukturer.

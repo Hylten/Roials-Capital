@@ -48,6 +48,6 @@ Not theory. Not aspiration. Architecture. Fund‑III extends the model by turnin
 
 Mandate threshold: DSCR > 1.35x.
 
-## Sammanfattning
+## Summary
 
 Asset-based liquidity engineering is the institutional backbone for multi-generational wealth, converting static assets into controlled, scalable capital. Fund-III leverages Monetization Architecture to optimize duration, velocity, and regulatory compliance, ensuring resilience against policy shocks and geopolitical risks. Discipline in structuring, not scale, drives enduring institutional dominance.

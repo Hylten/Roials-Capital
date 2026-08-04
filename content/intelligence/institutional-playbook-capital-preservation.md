@@ -119,6 +119,6 @@ Capital preservation emerges from discipline, not leverage. Consistent execution
 
 Preservation must survive rates rising, rates falling, regulatory changes, and supply chain volatility. Roials Capital provides institutional allocators with strategic intelligence to apply these filters across buyout strategies, Monetization Architecture structures, and North American energy. The objective is not product placement. It is calibration of allocator frameworks to protect capital across dislocated markets. Allocators seeking confidential structural alignment review may initiate a Portfolio Calibration or Strategy Audit to evaluate how their current exposures align with the capital preservation architecture outlined in this briefing.
 
-## Sammanfattning
+## Summary
 
 I en fragmenterad kapitalregim kräver kapitalbevarande strategier en skift från diversifiering till ingenjörskonst. Allokerare bör prioritera tillgångar med förutsägbara nedgångskurvor, hård säkerhetsvärdering och motcyklisk efterfrågeelasticitet, särskilt inom nordamerikansk konventionell energi där strukturell kapitalbrist skapar institutionell arbitrage. Integrering av Fund-III-sekvensering, taktisk monetiseringsarkitektur och operationell intelligens är avgörande för att bevara värde i en miljö präglad av regleringsdrift och balansräkne-stratifiering.

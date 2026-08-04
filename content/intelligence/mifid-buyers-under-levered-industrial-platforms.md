@@ -32,6 +32,6 @@ energy mandates in the $50M.$250M band prioritize infrastructure‑grade stabili
 
 EU MiFID II acquisition programs look for the same. Industrial predictability. Low leverage. Real capital, not abstraction. Send the data room. We’ll run the confidential capital audit and map which buyer clusters align with your platform’s leverage footprint.
 
-## Sammanfattning
+## Summary
 
 MiFID II-köpare prioriterar nu underbelånade industriella plattformar för regulatorisk säkerhet och stabila kassaflöden. Enkel kapitalstruktur och mätbar operativ prestanda ökar köparnas förtroende och accelererar transaktionscykler.

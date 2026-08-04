@@ -132,6 +132,6 @@ Does the collateral architecture produce predictable seniority under the relevan
 
 Does the use of borderless collateral accelerate acquisition timelines without introducing non quantifiable risk. For allocators navigating Fund-III buyouts, add-on acquisitions, ABL liquidity engineering, or strategic mandates in energy and MiFID II regions, the structural environment is fully formed. What is required is an institutional map of how to integrate globally mobile assets into compliant M&A execution. A confidential strategy audit or portfolio calibration with Roials Capital provides the framework for evaluating which structures align with existing mandates and which pathways create unnecessary friction. The objective is not to transact immediately. The objective is to understand the architecture of modern capital mobility so that decision making can be executed with institutional certainty.
 
-## Sammanfattning
+## Summary
 
 Fragmenterad reglering och ineffektiv legacy-infrastruktur skapar institutionellt kapitalvakuum, där gränsöverskridande krypto-rikedom kan formaliseras till compliant collateral för M&A vid tillämpning av korrekt förvaring, juridiska strukturer och kreditintermediation. Denna strukturella obalans mellan kapital- och collateralmobilitet driver uppkomsten av gränslös crypto-collateral som ny institutionell standard för högintensiva transaktioner.

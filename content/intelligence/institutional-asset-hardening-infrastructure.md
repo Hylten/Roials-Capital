@@ -187,6 +187,6 @@ Sovereign-grade design. Kapitalanskaffning drives the engine.
 
 Monetization Architecture stabilizes the engine. Special mandates scale the engine. Asset hardening protects the engine. The result is institutional inevitability. End with directive: Initiate confidential capital audit.
 
-## Sammanfattning
+## Summary
 
 Institutionell kapitalhärdning kräver strukturell suveränitet: jurisdiktion, kontroll och design skapar asymmetrisk avkastning genom regulatorisk arbitrage, modulär transaktionsarkitektur och kassflödesoptimerad kapitalstrukturering. Roials Capital konstruerar en 80% expansionsriktad plattform för Fund-III med förutsägbara drawdowns, recap-cykler och audit-ready säkerhetslogik, vilket maximerar LP-bargaining power och minskar underwriting-slippage.

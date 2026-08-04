@@ -75,6 +75,6 @@ Strict When discussing Asset-Based Lending, qualification gates apply. Minimum f
 
 Operational alpha is not merely the preference of the moment. It is the long arc back to rationality. The correction is permanent. The market wants builders, not speculators. Operators, not alchemists. Principals, not opportunists. The GP who understands this wins. The GP who ignores it fades. The GP who masters it becomes a sovereign institution. You know your category. If you seek a confidential capital audit, initiate the request.
 
-## Sammanfattning
+## Summary
 
 Add-on-buyoutstrategier kräver nu strukturell operational alpha – inte finansiell manipulation. LPs och tillsynsmyndigheter efterfrågar konkreta operativa blueprints snarare än leverage-diagram, där hållbar arkitektur avgör avgörande konkurrensfördelar. Endast GPs som bygger verklig operativ kompetens kommer attrahera kapital i en härdad marknad.

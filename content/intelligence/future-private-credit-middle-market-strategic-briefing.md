@@ -164,6 +164,6 @@ The current private credit cycle is defined by structural clarity. The middle ma
 
 Roials Capital facilitates confidential strategy audits for allocators who require a calibrated understanding of private credit corridors, middle market dynamics, and mandate specific opportunities including select institutional operators’s conventional energy allocations. The objective is alignment. The outcome is clarity across capital structures and long term portfolio design.
 
-## Sammanfattning
+## Summary
 
 Regulatorisk omreglering och bankkonsolidering har skapat ett bestående kreditgap i mellanstora företag, vilket omvandlat privat kredit från en avkastningsstrategi till en central tillgångsklass. Strukturellt minskat bankutlån och ökad efterfrågan från tillväxtföretag och sponsorbackade transaktioner driver en decenniumslång omallokering mot mellanstora privata krediter med stabila, seniora kassaflöden.

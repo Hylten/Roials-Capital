@@ -120,6 +120,6 @@ Roials Capital processes private audits only for principals acting within the Fu
 
 Request confidential capital audit below.
 
-## Sammanfattning
+## Summary
 
 Private equity skiftar mot kortare investeringscykler till 2026 driven av LP-krav på snabbare kapitalomsättning, minskad ineffektivitet och förbättrad transaktionsdynamik. Strukturella förändringar som add-on-strategier, industrialiserade processer och integrerad private credit accelererar underwriting och värdeskapande.

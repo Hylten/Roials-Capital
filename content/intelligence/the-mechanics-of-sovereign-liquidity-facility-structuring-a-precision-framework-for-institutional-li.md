@@ -62,6 +62,6 @@ Assumptions are rejected. Only the mechanics remain. Roials Capital stands insid
 
 Not as intermediaries. Not as brokers. As architects.
 
-## Sammanfattning
+## Summary
 
 Roials Capital strukturerar suveräna likviditetsfaciliteter med precision, integrerar krypto- och aktieportföljer (min. 2M resp. 5M USD) via disciplinerade kreditkorridorer. Makrostabilitet – inflation, skuld/GDP, valutareserver – avgör ramverket, vilket säkrar motståndskraft i volatila geopolitiska miljöer.

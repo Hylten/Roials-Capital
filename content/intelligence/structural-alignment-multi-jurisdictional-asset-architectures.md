@@ -77,6 +77,6 @@ Institutional allocators engaging with multi jurisdictional assets require a cal
 
 The next stage is not transactional. It requires a confidential strategy audit to align structural architecture, jurisdictional exposure, and operational cadence. Roials Capital provides the navigational intelligence and institutional Introduction pathways to support this alignment across energy, private credit, and multi jurisdictional acquisitions.
 
-## Sammanfattning
+## Summary
 
 Regulatorisk drift och balansräkningsavveckling driver kapitalbristen i Nordamerikas energisektor, inte resursutarmning. Allokeringar omkalibreras mot strukturer med förutsägbara utarmningskurvor och jurisdiktionell alignment mellan kassaflöde och säkerhetsstruktur, särskilt i mogna bassänger som Alberta. Kapitalbrist i operationellt motståndskraftiga sektorer och överskott i momentumdrivna segment definierar en ny regim för tvärjurisdiktionella tillgångsarkitekturer.

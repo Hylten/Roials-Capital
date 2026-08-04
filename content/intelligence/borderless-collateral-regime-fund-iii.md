@@ -30,6 +30,6 @@ Rates are misaligned with deal velocity. Buyers have conviction yet lack flexibl
 
 This is the unlock. The convergence produces one inevitable outcome: a new paradigm where digital asset holders gain parity with traditional collateral in institutional portfolios, facilitated by seamless, regulated on-ramps that bridge the gap between decentralized assets and legacy financial infrastructure.
 
-## Sammanfattning
+## Summary
 
 Strukturell arbitrage skiftar från sektorspecialisering till kollateralmobilitet, där jurisdiktionsfria balansräkningar accelererar snabbare än regulatorisk konsensus. Digitala tillgångar agerar som suveräna förmögenheter på kedjan, vilket underminerar traditionell kreditbedömning och skapar en ny M&A-ordning där gränslöst kollateral driver marknadsandelar. Vinnarna exploaterar denna strukturella inversion; eftersläntrarna riskerar likviditetsberoende.

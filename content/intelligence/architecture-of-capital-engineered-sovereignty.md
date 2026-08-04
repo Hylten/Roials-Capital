@@ -215,6 +215,6 @@ REQUEST for LP/GP alignment, cross-jurisdictional preparation, and mandate intak
 
 72 hours.
 
-## Sammanfattning
+## Summary
 
 Sovereignty is engineered through capital mobility, regulatory arbitrage, counterparty diversification, and enforcement architecture. Fund-III must prioritize structural seniority, event control, and jurisdictional optionality to ensure precision and operational grip. Capital is not money, it is leverage, and geometry is power.

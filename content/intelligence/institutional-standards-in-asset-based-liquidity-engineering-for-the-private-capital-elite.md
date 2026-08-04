@@ -116,6 +116,6 @@ Strategic Liquidity for a Multi-Asset Future Markets evolve. Assets diversify.
 
 Volatility expands. Jurisdictions shift. Institutional Asset-Based Lending becomes the constant. The more complex the wealth environment becomes, the more valuable structural liquidity becomes. For HNWI and UHNW individuals, the objective is not to chase yield. It is to maintain control. It is to maintain optionality. It is to maintain the ability to act without friction. Roials Capital builds the frameworks that protect these abilities. This is institutional asset-based Strategic Collateralization. This is the architecture that governs elite capital. Request Confidential Audit To align your assets with institutional-grade liquidity, request a confidential audit.
 
-## Sammanfattning
+## Summary
 
 Roials Capital etablerar institutionella standarder för asset-based liquidity genom rigorösa ramverk som prioriterar strukturell integritet och motståndskraft mot volatilitet. Lösningarna riktar sig till HNWI/UHNWI med sofistikerade tillgångar, där stabilitet och diskretion avgör lånets hållbarhet.

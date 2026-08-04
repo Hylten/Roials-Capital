@@ -91,6 +91,6 @@ Closing Perspective The mechanics of tokenized real estate liquidity are not spe
 
 For HNWI and UHNW investors, the ability to extract liquidity from real estate with minimal friction and maximum structural integrity is a decisive advantage. Roials Capital provides that advantage through a disciplined architecture of private credit and asset based Institutional Liquidity Paths. We maintain thresholds that ensure institutional coherence. We maintain frameworks that ensure settlement integrity. We maintain principal authority that ensures trust without noise.
 
-## Sammanfattning
+## Summary
 
 Tokenisering omvandlar fastigheter till programmerbara, rörliga tillgångar genom digitala representationer, vilket eliminerar traditionella friktionsmoment som långa settlementtider och juridisk fragmentering. Roials Capital utnyttjar denna precision genom strategisk kollateralisering med lägsta trösklar på 2M USD (krypto) respektive 5M USD (publika aktier), vilket skapar institutionell koherens och kontroll över portföljers likviditet.

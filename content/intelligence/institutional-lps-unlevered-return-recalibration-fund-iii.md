@@ -123,6 +123,6 @@ A contract of sovereignty. A contract of truth. Fund‑III+ is not about raising
 
 - Request confidential capital audit.
 
-## Sammanfattning
+## Summary
 
 Institutionella LPs kräver högre oreleverade avkastningar i Fund-III+, driven av aktuarisk kompression, makroavkalkning och hårdare governance. Endast GPs som genererar bestående operativ alfa – inte finansiell konstruktion – överlever den nya disciplinen.

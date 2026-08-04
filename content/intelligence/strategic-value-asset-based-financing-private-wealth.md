@@ -149,6 +149,6 @@ Asset Based Financing should be evaluated not as a product but as a structural i
 
 Roials Capital supports these assessments through confidential strategy audits and alignment diagnostics, with the precise objective of strengthening the allocator’s position within the modern private capital regime and ensuring long-term composure.
 
-## Sammanfattning
+## Summary
 
 Asset Based Financing (ABL) stärker moderna UHNW-portföljer och GP-plattformar genom strukturerad likviditet och flexibel förvärvskapitalförsörjning i en miljö präglad av regulatorisk stramhet, kapitalbrist och ökad efterfrågan på hårda tillgångar. ABL fyller gapet mellan bankernas kollateralkrav och operationellt finansierbara tillgångar, samtidigt som det stödjer portföljomallning och förvärvssekvensering utan att belasta kassaflöden eller LP-utdelningar.

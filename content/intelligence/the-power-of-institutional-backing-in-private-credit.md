@@ -141,6 +141,6 @@ The Future of Private Credit Is Institutional The private credit landscape is co
 
 Capital is professionalizing. Governance is tightening. Borrowers at the HNWI and UHNW level gravitate toward lenders who already hold institutional posture rather than those attempting to simulate it. This shift is permanent. Private credit, asset based Capital Structuring, crypto Asset-Backed Frameworks at scale, and public share financing will increasingly be governed by institutional frameworks, not individual preferences. Roials Capital is engineered around this future, not adapting to it.
 
-## Sammanfattning
+## Summary
 
 Institutionell backing transformerar private credit från subjektiv risk till strukturell stabilitet genom regelbaserade flöden och deterministisk underwriting, vilket säkerställer förutsägbar likviditet och balansoptimering även under volatila marknadsförhållanden. För HNWI/UHNW är detta avgörande för precision och kontinuitet, då kapitalkällan är engagerad och icke-korrelerad med sekundärmarknadens sentiment. Roials Capital tillämpar denna arkitektur för att leverera pålitlig likviditet på begäran, oberoende av marknadscykler.

@@ -150,6 +150,6 @@ Multi-sector. Multi-jurisdiction. Multi-cycle. Reliability scales capital. Capit
 
 Roials Capital invites qualified LPs, institutional allocators, and strategic partners to engage in a confidential capital audit to determine alignment, structural fit, and Fund‑III allocation pathways. Terminal Metric: LTV Hardening Ratio 1.47x across engineered collateral stacks.
 
-## Sammanfattning
+## Summary
 
 Fund-III positionerar tillförlitlighet som en konstruerad, systemisk nödvändighet – inte en emergent egenskap – genom strukturell alignment, likviditetsoptioner och exekveringsberedda säkerhetsekosystem. Kapitalanskaffningen drivs som systemteknik, där strukturell alfa genereras via jurisdiktionell arbitrage, redundanta säkerheter och motståndskraftiga kassaflödesstrukturer innan kapital allokeras. Arkitekturen bygger på hårdkodad disciplin, tillgångsbaserad strategisk säkerställning och maskinell precision för fler-cyklisk uthållighet.

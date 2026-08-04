@@ -100,6 +100,6 @@ Allocators must navigate a capital landscape where structural inefficiencies pro
 
 ##
 
-## Sammanfattning
+## Summary
 
 Regulatorisk kompression och balansräkningsstagnation skapar strukturell kapitalbrist i Nordamerika och Europa, trots tillgång till institutionella tillgångar. Avancerad likviditetsarkitektur ger asymmetrisk optionality och minskar finansieringsfriktionen, medan precision i kapitalallokering premieras framför skala i dagens marknadsmiljö.

@@ -84,6 +84,6 @@ EXIT Fund-III institutional operations require a single invariant metric: mainta
 
 Request a confidential capital audit.
 
-## Sammanfattning
+## Summary
 
 Krypto-säkerställda tillgångar har skapat en ny M&A-ordning där rörlighet och gränslös säkerhet ersätter traditionell jurisdiktionell kontroll. Fond-III-operatörer som inte integrerar mobil överbelåning riskerar suboptimal leverage och förlorar affärer till konkurrenter som utnyttjar regulatorisk arbitrage och decentraliserade kreditpooler. Prisvolatilitet är irrelevant – det är tillgångens rörlighet som skapar strategiskt övertag.

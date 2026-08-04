@@ -132,6 +132,6 @@ This supports allocators operating across US, EU, CH, and GCC mandates.
 
 The process reduces reliance on high friction refinancing and credit line utilization. Allocators navigating this domain benefit from a confidential strategy audit to assess alignment between their existing capital stack, liquidity requirements, and the operational capabilities of tokenized platforms. Roials Capital acts as a structural guide, ensuring institutional alignment and regulatory synchrony across all phases of integration.
 
-## Sammanfattning
+## Summary
 
 Tokeniserad fastighetsliquiditet adresserar inte värdeproblem utan strukturella ineffekter i traditionella ägande- och avvecklingskedjor. Med ökad kapitalintensitet och regulatorisk press blir blockchain-baserad ägandeverifiering och realtidsavveckling avgörande för institutionell kapitalallokering.

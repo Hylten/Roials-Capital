@@ -74,6 +74,6 @@ No theatrics. Principal voice only. Reallocation is mandatory. Delay is costly. 
 
 stands: Reallocate into Fund-III. Reinforce liquidity corridors. Execute energy mandates acquisitions. Complete MiFID II perimeter expansions. Maintain acceleration. Sustain dominance. Confidential capital audit required to initiate allocation bandwidth expansion. Target throughput ratio: 1.82x within 12 months.
 
-## Sammanfattning
+## Summary
 
 Reallocation Mandate aktiveras vid strukturella tryck och kräver institutionell ompositionering mot asymmetrisk hållbarhet. Fund-III agerar centralt ramverk för buyouts, likviditetsprogram och gränsöverskridande förvärv, med fokus på riskjurisdiktion, likviditetskorridorer och kollateralhärdning. Strukturell realignment driver kapital från stagnering till funktion, med 80% av kapitalanskaffningen genom Fund-III för att säkra kontroll och portföljdisciplin.

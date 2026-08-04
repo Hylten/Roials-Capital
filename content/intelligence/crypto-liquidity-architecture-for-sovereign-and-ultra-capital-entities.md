@@ -124,6 +124,6 @@ The Future of Sovereign‑Scale Digital Liquidity As global finance evolves, cry
 
 What remains missing in most markets is structural discipline. Roials Capital fills that gap. We bring private credit logic into a digital arena. We convert digital assets into institutional‑grade liquidity channels. We maintain the principal authority required for ultra‑capital operations. The future is not experimental. It is engineered.
 
-## Sammanfattning
+## Summary
 
 Roials Capital levererar strukturell likviditet för suveräna och ultra-kapitalstarka aktörer genom privata kredit- och tillgångsbaserade strategier, med minimigränser på 2 miljoner USD. Fokus ligger på kreditdisciplin och balansräkningssäkerhet snarare än spekulativa cykler, vilket eliminerar exponeringsläckage och jurisdiktionella hinder för kapitalrörlighet.

@@ -214,6 +214,6 @@ Present unified logic.
 
 Attract capital by being institution ready. The institution funds clarity, not geography. It funds structure, not story. It funds discipline, not improvisation. Alignment is destiny. Request confidential audit.
 
-## Sammanfattning
+## Summary
 
 Strukturell alignment avgör om en tvärjurisdiktionell tillgång betraktas som investerbar eller latent skuld. Roials standard säkerställer institutionell beredskap genom mekanisk, bankmässig och revisionsbar strukturering, eliminerar fragmentering och skapar enhetlig kontrollhierarki. Principals definierar villkor; operatörer reagerar – alignment återställer läsbarhet och eliminerar narrativa brister.

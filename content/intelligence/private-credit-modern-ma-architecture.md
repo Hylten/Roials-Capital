@@ -85,6 +85,6 @@ Institutional allocators analyzing private credit’s role in M&A must apply a s
 
 THE REGIME SHIFT reshaping modern M&A architecture. Allocators requiring sector-specific calibration, transaction-level visibility, or operator-matched introductions can proceed to a confidential strategy audit designed to align institutional objectives with market reality.
 
-## Sammanfattning
+## Summary
 
 Regulatorisk kompression och fragmenterade förvärvspipelines skapar strukturell likviditetsbrist i nordamerikanska och europeiska företagsmarknader, vilket gör disciplinerad privat kredit till ryggraden i moderna buyout-arkitekturer. Dess fördelar ligger i exakt timing, strukturell senioritet och covenant-precision, snarare än avkastningsnivåer, och möjliggör förvärv som kräver förutsägbar exekvering i operationellt beroende sektorer.

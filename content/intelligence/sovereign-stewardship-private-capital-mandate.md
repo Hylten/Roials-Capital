@@ -78,6 +78,6 @@ Fund-III stands at this intersection.
 
 Stewardship through structure. Structure through disciplined capital. For institutional LP/GP partners prepared to anchor into this mandate, initiate a confidential capital audit to determine alignment bandwidth, deployment windows, and cross‑jurisdictional positioning.
 
-## Sammanfattning
+## Summary
 
 Sovereign capital must shift from passive allocation to active governance, prioritizing structural dry powder conversion into durable returns. Fund-III’s architecture, precision buyouts, strategic add-ons, and integrated credit, aligns with yield scarcity, energy realism, and regulatory divergence to outlast macro tremors. Velocity and structure now dictate portfolio construction, not thematic sprawl.

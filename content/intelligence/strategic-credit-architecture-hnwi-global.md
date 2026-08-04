@@ -150,6 +150,6 @@ Entrepreneurs evaluating their credit architecture must apply a disciplined lens
 
 Roials Capital provides a structured path for answering these questions. The firm conducts Confidential Strategy Audits and Portfolio Calibration sessions that reveal the structural readiness of the entrepreneur and identify the most effective capital pathways.
 
-## Sammanfattning
+## Summary
 
 Kapitalbrist i nordamerikansk och europeisk mellankommande marknad är strukturell, driven av reglering (Basel III, MiFID II) och riskvägningskrav, snarare än absolut brist. Entreprenörer bör fokusera på att konstruera en kreditarkitektur – balansräktsdesign, likviditetsoptimering och transparens – för att möta institutionella underwritingkrav och säkra kapital via private credit-fonder.

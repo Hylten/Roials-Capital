@@ -118,6 +118,6 @@ Institutional allocators evaluating Fund-III are not assessing exposure to digit
 
 This architecture positions Fund-III for accelerated close cycles, higher operational flexibility, and a structurally hardened balance sheet. The appropriate next step for allocators evaluating this landscape is a confidential Strategy Audit or Portfolio Calibration, where capital architecture can be mapped against regulatory constraints, liquidity targets, and long horizon objectives.
 
-## Sammanfattning
+## Summary
 
 Regulatoriska kraven (Basel III, MiFID II) och digitala tillgångars mognad tvingar institutionella aktörer att omdefiniera likviditetsarkitekturen. Fund-III positionerar sig strategiskt genom att integrera tokeniserade tillgångar, traditionella realtillgångar och digitala collateral i en sammanhängande struktur för att säkra balansräkningens flexibilitet och kapitaltillgång före 2026.

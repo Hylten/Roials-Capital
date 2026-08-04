@@ -24,6 +24,6 @@ Building an Executive Portfolio That Outlasts Market Cycles The final measure of
 
 This is not short term optimization. It is generational engineering. Through private credit Asset-Backed Frameworks, Asset-Based Lending systems, crypto collateral structures, and public share Monetization Architecture at institutional thresholds, executives build a capital environment that outperforms market cycles and maintains stability even in unpredictable conditions. It is engineered strength. Quiet. Controlled. Scalable. Asset hardening is the architecture of financial autonomy. Request Confidential Audit If your portfolio requires institutional grade Institutional Liquidity Paths or structural reinforcement, request a confidential audit.
 
-## Sammanfattning
+## Summary
 
 Roials Capital designar exekutiva portföljer med institutionell precision genom kreditstrukturer och tillgångsbaserade ramverk, bevarar ägande och undviker försäljning för likviditet. Portföljerna optimeras för långsiktig stabilitet och motståndskraft mot marknadscykler via privata krediter, ABL-system och kryptovalutakollateral.

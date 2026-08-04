@@ -205,6 +205,6 @@ Not all are offered. Access depends on structural maturity and covenant reliabil
 
 We evaluate who earns access.
 
-## Sammanfattning
+## Summary
 
 Roials Capital underwrites strukturell integritet genom tre pelare: *Asset Hardening* (verifierbarhet, konverteringspotential, jurisdiktionell stabilitet, motpartsrisk, tid till kontroll), *Covenant Stewardship* (principbaserade beslut, operationell arv, moralisk riktning) och *Execution Velocity*. Endast tillgångar och förvaltare som uppfyller dessa invarianta kriterier kvalificerar sig för institutionell kapitalallokering.

@@ -120,6 +120,6 @@ For UHNWIs, family offices, and institutional LPs calibrating their liquidity ar
 
 Crypto backed ABL fits within this criteria because it behaves as a mobility instrument, not a speculative tool. It is a liquidity rail engineered for the new debt regime where sovereign assets no longer provide the optionality they once did. Roials Capital serves as the strategic partner for allocator calibration, lender alignment, and cross-border liquidity engineering. A confidential Strategy Audit can map the optimal liquidity configuration for Fund-III commitments, balance sheet optimization, or pre-acquisition positioning.
 
-## Sammanfattning
+## Summary
 
 Sovereign debt’s structural flaws, duration mismatch, fiscal rigidity, and declining elasticity, force UHNW allocators toward collateralized, transparent liquidity solutions. Crypto-backed asset-based lending (ABL) emerges as a non-speculative, programmatically enforced credit primitive, insulating capital from sovereign duration risk while optimizing balance sheets. This marks a regime shift from traditional debt markets to engineered, data-driven liquidity rails.

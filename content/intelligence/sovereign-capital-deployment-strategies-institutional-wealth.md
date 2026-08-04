@@ -97,6 +97,6 @@ to determine durability and downside resilience.
 
 Roials Capital provides this audit framework as part of its institutional navigation mandate. The objective is not solicitation. The objective is calibration. Allocators operating at sovereign scale require clarity, precision, and technical intelligence. The current regime shift in energy, private markets, and liquidity engineering favors those with the discipline to interpret the underlying mechanics.
 
-## Sammanfattning
+## Summary
 
 Sovereign capital is recalibrating toward low-volatility, long-duration energy assets, particularly Alberta’s heavy oil reservoirs, due to structural undersupply, mature decline curves, and deleveraged operators. This regime shift prioritizes operational intelligibility and technical transparency over thematic narratives, creating institutional-grade opportunities in a capital-scarce environment. Roials Capital facilitates access to audited, high-integrity operators within the 50–250M mandate range.

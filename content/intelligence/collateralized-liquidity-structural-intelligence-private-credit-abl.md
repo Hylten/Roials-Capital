@@ -92,6 +92,6 @@ Wealth passes across generations only when order governs resource allocation. Wa
 
 EXIT The sole metric that matters: liquidity coverage ratio must stabilize above 1. 62 within 90 days of transaction close. Request confidential capital audit.
 
-## Sammanfattning
+## Summary
 
 Regime shift: Private credit’s structural gap rewards lenders who engineer collateral as a dynamic liquidity system, not static security. Winners monetize information density, not term sheets, turning tertiary buffers into contingent engines that eliminate insolvency scenarios.

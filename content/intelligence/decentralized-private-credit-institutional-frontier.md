@@ -192,6 +192,6 @@ It is a structural one. Inheritance equals architecture. Wealth equals infrastru
 Terminal Metric: Enforcement Latency Index ≤ 4.
 9 seconds.
 
-## Sammanfattning
+## Summary
 
 Decentraliserad privat kredit har nått en strukturell brytpunkt där institutionella aktörer nu konkurrerar genom ägande-, likviditets- och verkställighetsarkitekturer snarare än enskilda tillgångar. Regulatorisk kompression och bankernas reträtt driver en medveten omställning till hybrid likviditetssystem med on-ledger verkställighet och transjurisdiktionella flöden, där kontroll och stabilitet prioriteras framför avkastningsjakt. Strukturell defensivitet och governance blir avgörande konkurrensfaktorer för Fund-III+ i en ny kapitalregim präglad av Basel-krav, geopolitisk fragmentering och digitaliserad kreditcykelhantering.

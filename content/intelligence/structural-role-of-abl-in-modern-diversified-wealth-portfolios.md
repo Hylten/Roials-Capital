@@ -124,6 +124,6 @@ This positions it as a counterweight to market driven valuation cycles. Allocato
 
 It is a technical alignment procedure designed to calibrate the allocator's architecture to global multi-regime conditions, ensuring structural alignment with energy, private equity, and special mandate requirements while mitigating liquidity gaps, optimizing capital efficiency, and addressing sectoral overexposure and jurisdictional constraints.
 
-## Sammanfattning
+## Summary
 
 ABL har etablerat sig som en strukturell nödvändighet i diversifierade förmögenhetsportföljer, driven av regulatorisk reträtt från traditionella långivare och behov av stabil likviditet oberoende av aktiemarknadens svängningar. I en tri-regim-miljö, där privat kreditmarknadens friktioner, kompressionsrisker i energi/industri och MiFID II:s kapitalomfördelning dominerar, fungerar ABL som en kollateralcentrerad buffert, säkrar effektivt deltagande i buyout-program och motverkar komprimerade spreads och förlängda exitcykler.

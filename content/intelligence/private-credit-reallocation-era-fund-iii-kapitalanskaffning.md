@@ -125,6 +125,6 @@ This is where compounding occurs. 10% operates in Asset-Based Lending engineerin
 
 We raise with intention. Deploy with clarity. Operate with sovereignty. This is the architecture of durable capital. This is the inheritance principle. This is The Mandate of the reallocation era. CONFIDENTIAL CAPITAL AUDIT REQUIRED. End metric: Deployment velocity target 94 days.
 
-## Sammanfattning
+## Summary
 
 Private credit enters a structural reallocation era driven by regulatory shifts, yield scarcity, and mid-market refinancing demand. Fund-III signals institutional maturity, enabling industrialized underwriting and faster deployment. Capital migrates to precise, speed-driven underwriters as traditional lenders retreat.

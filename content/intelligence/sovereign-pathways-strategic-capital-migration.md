@@ -74,6 +74,6 @@ Roials Capital operates at the intersection of buyout capital raising, Instituti
 
 They become strategic. Predictable. Respectable. They operate as peers to institutions. This is the future. UHNWIs become sovereign allocators. Their structures become institutional-grade. Their capital becomes global. Their reach becomes multi-sector. Their legacy becomes engineered, not accidental. Strategic capital migration is not a service. It is an identity shift. Identity shifts redefine what the principal becomes. Once the old structures dissolve, a new entity emerges: a sovereign architect of capital, jurisdiction, and influence. This is the elite tier of capital. This is the architecture of longevity. This is The Mandate . Request confidential capital audit.
 
-## Sammanfattning
+## Summary
 
 Strategisk kapitalmigration är avgörande för UHNW- och familjeofficess kapitalförvaltning, driven av politisk volatilitet, regulatorisk komplexitet och omvärdering av privata marknader. Effektiva strukturer kräver jurisdiktionell precision, mobilitet och hierarkisk dynamik för att möta moderna LP-krav och cross-border investeringar. Roials Capital analyserar optimala migrationsvägar för Fund-III+-kapital, monetiseringsarkitektur och specialiserade mandat inom energi och MiFID II-korridorer.

@@ -32,6 +32,6 @@ If the borrower’s secured collateral supports the structure, enforce the Quali
 
 Nothing below. Nothing compromised. One more point. Liquidity Engineering used once. Never twice. Exit on conviction. Fund‑III governance is not reporting. It is identity. It is the GP’s signature written into the capital spine. Allocators read that signature before the deck, before the model, before the benchmark. Write it well. Request confidential capital audit.
 
-## Sammanfattning
+## Summary
 
 Governance arkitekturen måste etableras före Fund‑III för att vinna institutionell tillit. Rapporteringsregimen kräver disciplinerad, snabb och okomplicerad exekvering med strikt hierarki och beslutsrättigheter. Strukturen måste vara frågebevis, gränsöverskridande och präglad av en principal-ledd ton som signalerar mognad och långsiktig hållbarhet.

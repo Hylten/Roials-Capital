@@ -103,6 +103,6 @@ Operators must demonstrate technical mastery, cost discipline, and predictable c
 
 Allocators require frameworks that align incentives, enforce governance, and maintain stability across cycles. This is the domain where Roials Capital functions as the strategic architect. The alignment process is designed to provide professionals and institutions with a confidential strategy audit, enabling them to understand how sovereign wealth management reshapes private capital. The purpose is not solicitation, but clarity. Allocators benefit from a structured assessment of how their mandates intersect with sovereign archetypes, heavy oil resource opportunities, private credit structures, and cross-border buyout platforms.
 
-## Sammanfattning
+## Summary
 
 Sovereign wealth funds are reshaping North American private markets by filling a regulatory-driven capital void, deploying long-horizon capital for geopolitical resilience rather than cyclical returns. Their structural advantage, unconstrained by liquidity or benchmark pressures, creates asymmetric opportunities in energy, infrastructure, and buyouts, forcing traditional LPs to adapt or cede ground.

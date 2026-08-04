@@ -111,6 +111,6 @@ Energy transition private equity is entering the age of adult supervision. The e
 
 Infrastructure LPs are already repositioning in that direction. Fund‑III managers who master this corridor will not compete for capital; they will allocate it. Stand in the correct place in the cycle. Stand with control. Stand with discipline. If you are preparing a raise, a Fund‑III expansion, a buyout sequence, or a energy mandates‑scale acquisition path, initiate a confidential capital audit. We open the door only when the posture is correct. Request confidential capital audit.
 
-## Sammanfattning
+## Summary
 
 Infrastructure LPs återvänder till mid-market energy transition-mandat ($50–250M) där kontroll och rationella värderingar råder, undviker politiserad och överprissatt megaprojektlogik. Mid-market buyouts möjliggör operativ dominans och industriell logik, vilket attraherar LPs som prioriterar stabila kassaflöden och mätbara resultat framför spekulativa gröna investeringar.

@@ -52,6 +52,6 @@ The Future Is Multipolar Liquidity We are moving into a world where UHNW liquidi
 
 Asset-Based Lending will expand across digital and non digital collateral. Crypto backed Monetization Architecture will institutionalize further as custody infrastructure matures. Public equity collateralization will remain a critical tool for HNW and UHNW families. Roials Capital operates at the intersection of these trends. We do not follow the cycles. We build the mechanics that allow our clients to operate above them.
 
-## Sammanfattning
+## Summary
 
 UHNW-familjer och institutionella kapitalförvaltare ompositionerar sig inför strukturellt förhöjda statslån och minskad likviditet i traditionella kanaler. Crypto-backed Asset-Based Lending etableras som strategisk reserv för icke-korrelerad säkerhet, driven av behovet av isolering från statsobligationscykler och ökad privat kreditmarknad. Roials Capital tillhandahåller infrastruktur för precisionstilldelning av likviditet inom denna nya arkitektur.

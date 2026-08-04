@@ -135,6 +135,6 @@ The allocator must now operate with an institutional lens grounded in three ques
 
 When these criteria are met, the allocator transitions from market participant to strategic steward. This transition is the foundation for cross-border asset hardening and represents the institutional posture required in the current regime. Roials Capital provides confidential strategy audits and portfolio calibration frameworks for allocators seeking to navigate this landscape with precision. The objective is alignment, clarity, and long horizon structural advantage.
 
-## Sammanfattning
+## Summary
 
 Nordamerikansk energisektor lider av kapitalbrist till följd av regulatorisk osäkerhet och missriktad kapitalallokering, vilket skapar strukturella arbitragemöjligheter för disciplinerade gränsöverskridande investerare. Med stigande inflation, valutafragmentering och politisk instabilitet efterfrågas nu tillgångar med juridisk och operativ motståndskraft snarare än enkel diversifiering.

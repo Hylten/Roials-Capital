@@ -104,6 +104,6 @@ The Future of Tax Efficient Institutional Liquidity Paths in Digital Markets The
 
 Custodial standards continue to improve. This evolution supports long-term adoption of crypto-backed Asset-Backed Frameworks as a foundational wealth management function. The practice is no longer emergent. It is now part of the standard toolkit for high net worth and ultra high net worth investors.
 
-## Sammanfattning
+## Summary
 
 Institutionella investerare optimerar balansräkningar mot digitala tillgångar genom strukturerad kredit och säkerställd likviditet, vilket undviker realisationsbeskattning. Roials Capital tillämpar Asset-Backed Frameworks med lägsta kollateralgräns på 2M USD för krypto, effektiviserande skattestrukturer som bibehåller kapitalets tillväxt. Metoden ersätter försäljning med skuldfinansierad likviditet, i linje med etablerad praxis för koncentrerade aktiepositioner.

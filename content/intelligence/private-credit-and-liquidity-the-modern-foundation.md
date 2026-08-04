@@ -84,6 +84,6 @@ Private Credit and the Future Liquidity Landscape The next decade of capital mar
 
 Banks will remain regulated and constrained. Corporates will require increasing flexibility. Institutions will demand predictable yield and engineered liquidity. Private credit sits at the intersection of these forces. It provides what the system cannot create elsewhere. It provides liquidity without instability. It provides yield without market dependence. It provides control without sacrificing return potential. The architecture of global liquidity is evolving. Private credit is one of its primary design tools. Institutions that understand this shift will shape the next cycle rather than react to it.
 
-## Sammanfattning
+## Summary
 
 Private credit has emerged as a structural solution to regulatory constraints, rising mid-market capital demand, and institutional yield-seeking, offering engineered liquidity, uncorrelated returns, and precise risk control. It functions as a strategic liquidity valve, enabling long-term exposure without compromising short-term flexibility or survivability in stressed markets. The asset class redefines institutional capital deployment by aligning duration, cash flow, and downside protection with evolving market dynamics.

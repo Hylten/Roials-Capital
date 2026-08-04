@@ -119,6 +119,6 @@ Certain allocators seek targeted structures rather than broad funds. This includ
 
 The question is not which asset to select. The question is how to structure a capital system that can sustain multi-generational continuity, sovereign independence, and institutional resilience. Roials Capital offers a confidential Strategy Audit to evaluate an allocator’s current portfolio alignment, sector exposure, and long-horizon liquidity architecture.
 
-## Sammanfattning
+## Summary
 
 Nordamerikas energisektor lider av strukturell kapitalbrist – inte resursbrist – driven av regulatorisk drift, policyrisk och ESG-restriktioner. Allokerare positionerar sig nu kring långsiktig likviditet genom att utnyttja mogna reservoarer och disciplinerade operatörer snarare än prisvolatilitet. Denna regimskift, präglad av minskad tillgång till institutionellt kapital och ökad inhemsk energisäkerhet, skapar en bestående ineffektivitet som gynnar sofistikerade investerare under kommande decennier.

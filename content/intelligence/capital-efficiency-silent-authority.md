@@ -109,6 +109,6 @@ Long term stewardship is signal. A balance sheet engineered for longevity outper
 
 is clear. Conduct the confidential capital audit.
 
-## Sammanfattning
+## Summary
 
 Strukturella kapitalgap – koncentration, sekvensering och auktoritet – skapar tysta kostnader som underminerar lönsamhet innan likviditetsstress uppstår. Den nya regimens avgörande är kapitalets rörlighet, inte kostnaden, där effektiv arkitektur frigör bundet kapital utan att äventyra kontroll.

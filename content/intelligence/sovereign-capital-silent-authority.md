@@ -168,6 +168,6 @@ End with a technical metric: Institutional Continuity Ratio:
 
 0. 92. For a confidential capital audit, submit mandate parameters.
 
-## Sammanfattning
+## Summary
 
 Sovereign kapital utövar strukturell makt genom permanens, inte kortsiktig avkastning, och riktar sig mot fundamentala tillgångar i reglerade, konkurrensbegränsade sektorer. Effektiv kapitalanskaffning kräver mekanisk rigor, jurisdiktionell diversifiering och inflationsskyddade strukturer för att möta institutionella LP:ers krav på stabilitet och kontroll.

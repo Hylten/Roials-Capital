@@ -110,6 +110,6 @@ Institutional allocators evaluating the 2026 private credit regime are identifyi
 
 Fund-III strategies, asset-backed liquidity engineering, and specialized mandates align with this demand profile. Institutions seeking deeper calibration may request a confidential Strategy Audit to benchmark their existing allocation framework against controlled liquidity mechanics, pinpoint structural gaps, and formalize their institutional archetype for the prevailing regime.
 
-## Sammanfattning
+## Summary
 
 Strukturellt alfa i nordamerikansk private credit härrör från covenantkompression och regulatorisk förskjutning, inte försämrad underliggande kvalitet. Kontrollerad likviditetsarkitektur genererar mer tillförlitligt alfa än traditionell räntarbitrage i en miljö präglad av asymmetrisk likviditet och kapitaldisciplin.

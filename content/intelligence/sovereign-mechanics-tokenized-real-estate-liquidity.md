@@ -115,6 +115,6 @@ Fund-III targets 0.
 
 Request confidential capital audit.
 
-## Sammanfattning
+## Summary
 
 Tokeniserad fastighetsliquiditet är en institutionell strukturfråga, inte en teknisk trend. Effektivitet uppnås genom juridisk arkitektur, jurisdiktion och regulatorisk sekvensering – inte blockkedjan i sig. Fund-III accelereras endast om tokenisering integreras på tillgångsnivå med fyra kritiska lager: rättsligt skal, förvaringsregister, reglerad avveckling och motpartssegmentering.

@@ -117,6 +117,6 @@ The Future: A Credit System Rooted in Digital Collateral Within ten years, Strat
 
 The future credit system is not built on opacity or slow settlement. It is built on transparent, mobile, liquid collateral. Bitcoin is the model. Roials Capital is the architecture. Request confidential audit.
 
-## Sammanfattning
+## Summary
 
 Bitcoin har etablerat sig som institutional collateral, erbjudande kontinuerlig likviditet och transparent prissättning – en ny standard för familjekontor. Roials Capital integrerar dess kollaterala styrka i privata kreditstrukturer för att bevara exponering, undvika skattepliktiga händelser och säkerställa operativ flexibilitet under marknadsstress.

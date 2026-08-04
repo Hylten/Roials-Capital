@@ -24,6 +24,6 @@ Special mandates push the edge further. $50M.$250M energy corridors.
 
 Multi-jurisdictional structuring under a single sovereign narrative. MiFID II acquisition channels completing the triangle. Liquidity support exists, but peripheral. Asset-Based Lending enters only where the industrial operator requires interim reinforcement. At that point the Qualification Gates apply: $2M for secured working facilities; $5M for collateralized expansion phases. No more. No less. This is the new field. Energy security is no longer an asset class. It's the controlling architecture. Request confidential capital audit.
 
-## Sammanfattning
+## Summary
 
 State-backed energy mandates displace legacy infrastructure funds via sovereign tempo, pre-secured assets, and mechanical risk absorption, weaponizing certainty for long-horizon yields. Traditional funds, constrained by committee processes and covenants, cannot compete with command clarity or widening control premiums. Fund-III+ emerges as the preferred instrument for institutional LPs seeking insulated, large-scale deployments under national energy security objectives.

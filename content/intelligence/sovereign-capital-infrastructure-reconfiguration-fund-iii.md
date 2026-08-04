@@ -238,6 +238,6 @@ Five poles. Five power centers:
 
 Industry. Infrastructure. Minerals. Logistics. These are the competitive fields. Fund-III invests directly in these fields. Not derivatives. Not simulations. Reality.
 
-## Sammanfattning
+## Summary
 
 Fund-III intar en central roll i den pågående re-sovereigniseringen av global kapitalallokering, där strukturell arkitektur ersätter traditionella fondstrategier. Fokus skiftar från avkastning till jurisdiktionell tillförlitlighet, med krav på hållbarhet, precision och energialignment för institutionella LPs.

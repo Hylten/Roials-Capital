@@ -30,6 +30,6 @@ is institutional. The audience is sophisticated. The expectations are uncompromi
 
 Ratio: 1.14x liquidity coverage minimum.
 
-## Sammanfattning
+## Summary
 
 Institutionell likviditet är numera en konstruerad tillgångsklass, driven av kod, jurisdiktion och strukturerad monetarisering. Fund-III+ strategier kräver hårdade balansräkningar, flerlagrade kapitalstacks och ring-fenced plattformar för att omvandla illikviditet till avkastning och säkra kapitalflöden i en fragmenterad regleringsmiljö.

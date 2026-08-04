@@ -128,6 +128,6 @@ There is a definable pathway for strategic alignment through an Institutional In
 
 ##
 
-## Sammanfattning
+## Summary
 
 Regulatorisk drift har skapat strukturell brist på bankkapital i mellanstora förvärv, vilket öppnat för icke-bankinstitutionellt kapital att prissätta senioritet i Fund-III/IV-ekosystem. Allokerare prioriterar nu kapitalstacks med teknisk underwriting och operativ kontroll framför avkastningsjakt.

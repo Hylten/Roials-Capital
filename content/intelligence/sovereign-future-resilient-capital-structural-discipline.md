@@ -118,6 +118,6 @@ The Sovereign Future requires a new decision lens built on structural, operation
 
 Capital stewardship at Roials Capital ensures that deployment is aligned with disciplined resource management, lower waste, and a long-term capital architecture.
 
-## Sammanfattning
+## Summary
 
 Strukturell kapitalbrist i Nordamerikas energisektor drivs av regulatorisk drift, ej resursutarmning, och förstärks av global balansräkningshårdhet. Institutionella likviditetskrav och jurisdiktionell stabilitet prioriteras framför räntor, vilket skapar en ny kapitalarkitektur där suveränt orienterat kapital och hårdvaruexponering dominerar.

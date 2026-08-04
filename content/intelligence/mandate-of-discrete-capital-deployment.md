@@ -71,6 +71,6 @@ The mandate is navigation. The tools are institutional introductions, strategic 
 
 ##
 
-## Sammanfattning
+## Summary
 
 Nordamerikas energisektor lider av kapitalbrist till följd av regleringsdrift, inte resursutarmning, vilket skapar strukturella möjligheter för precisionsallokering. Fragmenterade balansräkningar och kreditbegränsningar kräver kirurgisk kapitalplacering snarare än skalexpansion, särskilt inom tung olja med stabila produktionsprofiler och termisk återhämtning. Institutionella köpverksamheter gynnas av undervärderade tillgångar med operationell riskreduktion men finansiell underkapitalisering.

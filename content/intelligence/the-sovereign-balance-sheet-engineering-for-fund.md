@@ -144,6 +144,6 @@ A Sovereign Balance Sheet Is Not Optional Fund-III is unforgiving. It does not e
 
 It does not reward speed without clarity. It does not subsidize disorganization. A sovereign balance sheet is the only credible architecture for the next cycle. Principal CONCLUSION The sovereign balance sheet is engineered. Not assembled. Not improvised. Engineered. It is the highest expression of covenant stewardship. It is the architecture that permits institutional capital to flow on your terms. It is the structural alignment that creates authority in negotiation. It is the asset hardening discipline that protects families for generations. It is the execution velocity that captures opportunities others never see. Fund-III is not granted. It is earned through structure. CTA Request confidential audi t ...
 
-## Sammanfattning
+## Summary
 
 En suverän balansräkning är en operativ doktrin som möjliggör kontrollerad riskomvandling och strategisk likviditetsallokering. Strukturell alignment och asset hardening eliminerar frictions och omvandlar privata tillgångar till institutionell säkerhet, avgörande för Fund-III-beredskap. Covenant stewardship säkerställer långsiktig stabilitet och marknadsdominans.

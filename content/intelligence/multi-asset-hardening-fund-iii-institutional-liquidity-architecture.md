@@ -51,6 +51,6 @@ Raise institutional capital. Deploy with speed. The next phase demands precision
 
 ### Step I is confidential: initiate the capital audit.
 
-## Sammanfattning
+## Summary
 
 Fund-III:s arkitektur kräver strukturell jurisdiktionell separation och multi-lagerad "asset hardening" för att säkra institutionell renhet och kapitalperimeter. Arkitekturen prioriterar fyra skikt, originering, transformation, härdning och deployment, för att skapa en defensiv, regulatoriskt anpassad kapitalstruktur som eliminerar misalignment och säkrar asymmetrisk avkastning.

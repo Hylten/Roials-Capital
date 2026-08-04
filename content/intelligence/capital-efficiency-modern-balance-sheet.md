@@ -98,6 +98,6 @@ This calibration produces principal authority, strengthens acquisition readiness
 
 ##
 
-## Sammanfattning
+## Summary
 
 Regulatorisk drift snarare än resursbrist skapar kapitalvakuum i Nordamerikas energisektor, vilket skapar unika balansräkningsoptimeringsmöjligheter. Allokerare prioriterar nu kapitaleffektivitet framför tillgång till kapital, driven av Basel IV, MiFID II och minskad senior utlåningsvilja, medan efterfrågan på kolväten förblir inelastisk. Effektiva strukturer via kärninnehav, kapitalstrukturering och hårdvaruintroduktioner avgör konkurrensfördelar i denna nya regim.

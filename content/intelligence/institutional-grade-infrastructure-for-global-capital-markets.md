@@ -184,6 +184,6 @@ Allocators recognize this. They reward it. The Institutional Future The market i
 
 It is getting clearer. Those with infrastructure will inherit scale. Those without will exit the domain.
 
-## Sammanfattning
+## Summary
 
 Institutionell infrastruktur kräver omedelbar funktionell hållbarhet: förutsägbarhet, motpartsresiliens och datadriven beslutshastighet är avgörande för kapitalallokering över $50M. Roials Capital tillämpar *asset hardening* – strukturell verifiering av kassaflöden, motparter och förpliktelser – för att omvandla riskfyllda tillgångar till institutionellt lånbara och försäkringsbara instrument. Covenant stewardship utgör kärnan i detta paradigm, där kapital ses som förtroende snarare än verktyg, vilket säkerställer disciplin under marknadstryck.

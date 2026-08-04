@@ -169,6 +169,6 @@ The Future State of Sovereign Debt Architecture The trajectory of global capital
 
 Harmonization becomes not an optional enhancement but a foundational requirement. The Mathematical Axiom provides the structural basis for this evolution. It serves as the invariant backbone of sovereign class capital systems. Its adoption accelerates the transition from fragmented debt structures to coherent, interoperable architectures. Sovereign debt becomes a functional global system. Not a collection of independent markets.
 
-## Sammanfattning
+## Summary
 
 Traditionella skuldramverk brister i takt med accelererande kapitalflöden och regulatorisk fragmentering. The Mathematical Axiom etablerar en strukturell bas för harmoniserade suveräna skuldsystem genom att definiera invarianta relationer mellan skuld, tid, likviditet och risk, vilket eliminerar systematiska prissättningsineffektiviteter och durationdislokationer.

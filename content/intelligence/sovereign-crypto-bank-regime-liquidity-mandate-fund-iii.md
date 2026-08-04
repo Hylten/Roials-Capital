@@ -128,6 +128,6 @@ Fund‑III requires sovereign liquidity. The sovereign crypto bank is the engine
 
 Technical metric: Minimum liquidity coverage ratio (LCR) required for Fund‑III launch window: 138.4%.
 
-## Sammanfattning
+## Summary
 
 Sovereign crypto bank-regimen integrerar kapital-, mineral-, data- och likviditetsrättigheter i en reglerad, skalbar struktur, designad för Fund-III:s 20-årscykel. Infrastrukturens kärna utgörs av institutionell djupcustody, tokeniserad kredit och automatiserad compliance, där likviditet omvandlas till programmerbar jämvikt för att absorbera flöden och motstå marknadskompression. Målet är suverän kontroll, inte decentralisering.

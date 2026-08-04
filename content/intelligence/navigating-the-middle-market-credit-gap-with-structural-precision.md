@@ -85,6 +85,6 @@ Precision in an Era of Fragmented Credit As the global financial system becomes 
 
 The ability to quantify exposure, isolate collateral, and deploy capital without delay defines modern private credit leadership. We do not chase velocity, we design it. The middle market does not lack opportunity; it lacks structure. Structure is what we provide. Principal authority is the position. Liquidity is the result. Request confidential audit.
 
-## Sammanfattning
+## Summary
 
 Middle market credit gap är strukturellt, ej cykliskt, och kräver precision och kontroll. Roials Capital fyller detta tomrum genom att designa kapitalvägar och strukturerad kredit för HNWI/UHNWI, där traditionella institut misslyckas med flexibilitet och snabb exekvering.

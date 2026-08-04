@@ -130,6 +130,6 @@ Not because stress is absent, but because systems have been pre‑stressed. The 
 
 Rigid discipline. Non-negotiable. We enter the execution requirement. Durable capital is built, not theorized. Structures must be implemented with precision. Liquidity rails tested repeatedly. Asset flows measured. Jurisdictions benchmarked. Governance updated. Buyouts sequenced. Add-ons integrated. Capital durability is a craft. Technical. Repetitive. Focused. Cold discipline. I design systems that behave under pressure. I remove friction. I remove drift. I remove fragility. Durable capital is earned. Your institution now stands at a threshold. Fund-III requires recalibration. Hardening. Liquidity alignment. Jurisdictional repositioning. Capital raising architecture must match institutional expectations. No drift allowed. Conviction reached. Provide confidential capital audit data to initiate structural mapping.
 
-## Sammanfattning
+## Summary
 
 Durable capital är en strukturell position, inte en idé – dess arkitektur bygger på strategisk tillgångsfördelning, likviditet som verktyg och institutionell robusthet. Genom att förankra tillgångar i kassaflöden, förutbestämma riskvektorer och skapa en hierarki av likviditet säkerställs stabilitet och asymmetrisk uppsida under cyklisk osäkerhet. Effektivt genomförande kräver en hårdnande av kapitalstrukturen, där varje komponent – från tillgångsmaturation till regleringspositionering – är designad för att motstå kompression och succession.

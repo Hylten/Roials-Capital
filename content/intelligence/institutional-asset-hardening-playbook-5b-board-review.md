@@ -194,6 +194,6 @@ If the board pack fails, the raise fails. If the pack dominates, the raise accel
 
 This briefing stands on one metric: Institutional Survivability Index = 0. 87 or higher. Request confidential capital audit.
 
-## Sammanfattning
+## Summary
 
 En $5B styrelsegranskning kräver strukturell kontroll, inte improvisation. Härdning av tillgångar genom balansräkningssoliditet, jurisdiktionell säkerhet och motståndskraftig intäktsarkitektur skapar institutionell trovärdighet. Kapital följer auktoritet – avgörande för att säkra och expandera fondens mandat.

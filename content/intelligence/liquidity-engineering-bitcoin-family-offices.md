@@ -90,6 +90,6 @@ Institutional allocators who operate across private markets now face a multidime
 
 Roials Capital supports this process by providing institutional grade navigation, strategic alignment, and operational intelligence. A Confidential Strategy Audit refines the liquidity stack, calibrates reserve architecture, and strengthens capital deployment capability across the next five to seven years of regulatory evolution.
 
-## Sammanfattning
+## Summary
 
 Post-Basel III:s likviditetsregim skapar strukturell brist på elastiska säkerheter, vilket tvingar Family Offices och Fund-III att integrera Bitcoin som operationell reserv för att neutralisera kredit- och valutarisken. Mekanisk strategisk kollateralisering mot Bitcoin optimerar likviditetsdensitet och balansräkningstabilitet utan exponering mot prisvolatilitet.

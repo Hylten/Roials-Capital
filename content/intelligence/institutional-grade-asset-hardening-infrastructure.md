@@ -116,6 +116,6 @@ For allocators navigating Fund-III and later mandates, the challenge is no longe
 
 Roials Capital’s role is to provide institutional LPs and GPs with a neutral, analytically rigorous pathway through these axes. For allocators requiring deeper visibility, a confidential strategy audit or portfolio calibration can map the assets, liabilities, and operational ranges that define their current posture.
 
-## Sammanfattning
+## Summary
 
 Institutionella investerare möter en kapitalrationerad miljö där traditionella energitillgångar med förutsägbara avkastningskurvor utgör den mest stabila säkerheten. Strukturell hållbarhet kräver dock mer än balansräkningsanalys – det förutsätter ingenjörsmässig flexibilitet, disciplinerade kapitalstrukturer och branschspecifik operativ expertis för att säkra långsiktig stabilitet i privata marknader.

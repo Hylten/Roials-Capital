@@ -90,6 +90,6 @@ Structure inherits. Chaos evaporates. If you operate a Fund‑III or are prepari
 
 is simple: verify your geometry. Confirm your capital architecture. Validate your liquidity instruments. Upgrade your lender portfolio. Harden your assets. Accelerate your add‑on plan. Institutional LPs demand clarity. Not noise. Request confidential capital audit.
 
-## Sammanfattning
+## Summary
 
 Middle market credit gap widens structurally as lenders retreat, sponsors expand, and covenant risk rises. Institutional intervention demands precision, multi-jurisdictional scale, and hard-collateral bias to exploit capital asymmetry. Fund-III managers with repeatable playbooks and regulatory-aligned structures capture the arbitrage zone.

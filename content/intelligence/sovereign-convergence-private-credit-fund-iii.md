@@ -166,6 +166,6 @@ is clear. Build real assets. Lend against real throughput. Acquire operational n
 
 Leverage Ratio Target: 1.85x.
 
-## Sammanfattning
+## Summary
 
 Private credit is rapidly replacing traditional banking as the primary liquidity engine for real-economy consolidation, driven by regulatory compression under Basel IV and sovereign repositioning. Fund-III strategically fills the void by focusing on hard assets, energy baseload, and operational cash density, offering institutional allocators yield sovereignty through collateralized, covenant-protected structures. This shift redefines private credit as a jurisdictional function, not just an asset class, with Fund-III positioned as a steward of scarcity arbitrage in the new capital architecture.

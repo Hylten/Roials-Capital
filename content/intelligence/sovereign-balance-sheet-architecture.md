@@ -104,6 +104,6 @@ Buyouts become cleaner. NAV facilities expand. Revolvers relax.
 
 Asset-Based Lending becomes cheap. Energy partners commit faster. EU regulators accommodate faster. LPs accelerate commitments. All outcomes converge into one principle: Liquidity is a design choice, not a market condition. Design it. Protect it. Scale it. Request confidential capital audit.
 
-## Sammanfattning
+## Summary
 
 En suverän balansräkning är en jurisdiktionell organism som skulpterar kapitalflöden genom strukturell design – inte enbart kapitalallokering. Genom en hierarkisk jurisdiktionell triad (primär för förvaltning, sekundär för bankrättigheter, tertiär för optimering) säkerställs permanent likviditet, kreditvärdighet och kontinuitet, vilket eliminerar strukturella risker och skapar ett mätbart "kapitaldelta" som accelererar kapitalanskaffning för Fund-III. Design föregår kapital; felaktig struktur leder till utplåning.

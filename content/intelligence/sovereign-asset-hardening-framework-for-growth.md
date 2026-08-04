@@ -161,6 +161,6 @@ Allocators reviewing the sovereign asset hardening framework should evaluate dec
 
 Roials Capital provides confidential Strategy Audits, Portfolio Calibration assessments, and Institutional Introduction pathways for allocators seeking sovereign alignment. The objective is disciplined clarity, not solicitation.
 
-## Sammanfattning
+## Summary
 
 Nordamerikas energisektor lider av strukturell kapitalbrist till följd av regleringsdrift, inte resursutarmning. Institutionella investerare som positionerar kapital genom *sovereign asset hardening* – en disciplin för att omvandla flytande till strategiskt kalibrerat kapital – genererar hållbara avkastningar via förutsägbara tillgångar snarare än spekulativa teman. Ramverket är agnostiskt till sektor och skapar stabil tillväxt över flercykelmiljöer genom att kapital omvandlas från exponerat instrument till styrd resurs.

@@ -144,6 +144,6 @@ Migration patterns follow structure, not output. Balance sheet optimization, cro
 
 Roials Capital facilitates confidential consultations for allocators requiring landscape intelligence, partner introductions, or structural interpretation ahead of mandate deployment. Capital migration clarifies where value is forming. Strategic alignment clarifies where allocators should be positioned before liquidity compressions force late entry.
 
-## Sammanfattning
+## Summary
 
 Institutionell kapitalmigration drivs av regulatorisk fragmentering, överkoncentration och felprissättning av långvariga realtillgångar, vilket skapar en strukturell brist på produktiva tillgångar i Nordamerika sedan 2020. Kapital flyttar inte för högre avkastning utan för att undvika sårbarhet, med strategiska partners som Roials Capital som skapar hållbara allianser snarare än exponering.

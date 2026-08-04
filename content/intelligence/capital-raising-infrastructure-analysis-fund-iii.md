@@ -131,6 +131,6 @@ The next step for most allocators is a confidential calibration session to map s
 
 ##
 
-## Sammanfattning
+## Summary
 
 Middle market buyout capital scarcity stems from regulatory drag and misaligned GP/LP cycles, not asset scarcity. Fund-III platforms with disciplined frameworks and validated acquisition engines attract institutional capital reallocating from generalized pools. Structural shifts, transparent cash-flow demands, calibrated sequencing, and non-bank credit expansion, elevate Fund-III’s role as a proxy for operational certainty.

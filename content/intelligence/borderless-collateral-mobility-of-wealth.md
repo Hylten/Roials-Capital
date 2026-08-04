@@ -40,6 +40,6 @@ is simple. Audit. Mobilize. Scale. To proceed, request a confidential capital au
 Throughput expectation: 14.
 7 bps structural drift tolerance.
 
-## Sammanfattning
+## Summary
 
 M&A-regimen har utvecklats till ett orbitalt system där kapital och ägande rör sig snabbare än regleringar. Effektivitet skapas genom gränslös, jurisdiktionellt adaptiv säkerhet som säkrar optioner snarare än tillgångar, avgörande för moderna buyout- och add-on-strategier. Roials Capital prioriterar kollateral som agerar likviditet med suverän rörlighet, utnyttjande av regulatorisk fragmentering och institutionell efterfrågan på flerjurisdiktionell privat kredit.

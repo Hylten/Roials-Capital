@@ -106,6 +106,6 @@ The allocator assessing sovereign crypto banking must evaluate five primary dime
 
 Roials Capital serves as the calibration mechanism, ensuring the UHNW principal, family office, GP, or institutional allocator enters this emerging liquidity architecture with technical clarity, strategic preparation, and regulatory alignment. A confidential strategy audit allows the allocator to assess how sovereign crypto banks can integrate into Fund-III capital raising, cross-border M&A sequencing, and liquidity engineering frameworks across Europe, North America, and the GCC.
 
-## Sammanfattning
+## Summary
 
 Regulatoriska åtstramningar som Basel III Endgame och MiFID II har skapat en kapitalvakuum för UHNW, där traditionella privata banker förlorar sin dominans. Suveräna kryptobanker i UAE, Bahrain, Schweiz och Singapore etableras som regulatoriskt anpassade aktörer för att tillhandahålla likviditet mot tokeniserat eller verifierbart collateral, med institutionaliserade transaktionscykler. Denna strukturella förändring formar en parallell global likviditetsryggrad, driven av suverän digitala tillgångsreglering och ökad dollartillgångs friktion.

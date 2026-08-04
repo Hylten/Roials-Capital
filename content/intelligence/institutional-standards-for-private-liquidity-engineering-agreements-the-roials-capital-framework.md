@@ -158,6 +158,6 @@ The Future of Institutional Private Monetization Architecture The next era of pr
 
 Not yield. Not leverage. Agreements will evolve into adaptive architectures. Collateral will become more multidimensional. Clients will require more sophisticated liquidity execution. Roials Capital is positioned at that frontier. We do not predict the future. We architect for it. Request Your Confidential Audit For clients who require liquidity engineered at institutional precision, Roials Capital provides a confidential structural audit of collateral and Monetization Architecture capacity.
 
-## Sammanfattning
+## Summary
 
 Roials Capital etablerar rigorösa standarder för institutionell privat likviditetsstrukturering, med minimigränser på 2M USD för kryptobaserad och 5M USD för aktierelaterad monetarisering. Ramverket bygger på tre kärnprinciper: renodlad säkerhetsstruktur, transparent strategisk kollateralisering och exakt aktiveringsmekanik under stress.

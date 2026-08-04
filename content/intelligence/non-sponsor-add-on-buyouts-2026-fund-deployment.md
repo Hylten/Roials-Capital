@@ -146,6 +146,6 @@ They are building empires of absorption. Ten deals. Twenty deals. Forty deals. A
 
 We will determine alignment. Roials Capital engages only where structural clarity and institutional intent converge.
 
-## Sammanfattning
+## Summary
 
 Marknaden är fragmenterad, men fragmentering skapar möjligheter. 2026-vintages, särskilt Fund-III+, omorienterar sig mot icke-sponsor add-on-buyouts för effektiv kapitalplacering, driven av komprimerad sponsorutbud, höga prisförväntningar och operativt ineffektiva icke-sponsorägda bolag. Add-ons utgör nu den strukturellt mest effektiva expansionsvägen genom snabb värdekompoundering utan återinträde i auktionsspiraler.

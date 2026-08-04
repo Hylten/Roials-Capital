@@ -126,6 +126,6 @@ Fail-safes are not reactive measures. They are embedded at inception. Our design
 
 We architect quietly, precisely, and with institutional discipline. Clients experience the stability without witnessing the complexity. principal authority is the highest form of trust. It is the trust that comes from structural predictability.
 
-## Sammanfattning
+## Summary
 
 Roials Capital designar stabila, hierarkiska strukturer för suveräna tillgångar genom att prioritera jurisdiktionell kontroll före tillgångsflöden. Strukturell och operativ transparens säkerställer motståndskraft mot marknads- och motpartsrisker i syntetiserade likviditetslösningar.

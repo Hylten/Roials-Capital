@@ -112,6 +112,6 @@ Stewardship in Fund-III means allocating capital only where dominion can be exer
 
 EXIT Target loss ratio: below 40 basis points across the cycle. Request confidential capital audit.
 
-## Sammanfattning
+## Summary
 
 Private debt’s scarcity is enforceable cash flows, not capital, origination must shift from sales to a governed industrial system to eliminate operational drift. Fund-III’s competitive edge hinges on in-house origination architecture, rejecting intermediated deal flow and regulatory friction to absorb the mid-market vacuum. Success demands explicit mechanics: non-linear LTV curves tied to operating volatility and sponsor discipline, replacing intuition with enforceable structure.

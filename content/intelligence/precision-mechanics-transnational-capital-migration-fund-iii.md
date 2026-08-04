@@ -101,6 +101,6 @@ The doctrine is simple. Capital flows to strength. Strength is engineered. THE R
 
 Fund‑III must now tighten its capital architecture. Tighten its acquisition corridors. Tighten its liquidity mechanics. Tighten its energy posture. Execute with sovereign precision. Request confidential capital audit.
 
-## Sammanfattning
+## Summary
 
 Fund-III:s kapitalmigration drivs av reglerade korridorer och jurisdiktionella asymmetrier, där precision i mekanik avgör expansionshastighet och djup. Genom att positionera sig som en gravitationscentrum med multi-sovereign kontroll, kontinuitet över tidshorisonter och portföljhastighet skapas strukturella fördelar som attraherar institutionella flöden och utnyttjar arbitragemöjligheter.

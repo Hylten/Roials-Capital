@@ -121,6 +121,6 @@ Optics destroy capital. Substance protects it. Stewardship is not conservative. 
 
 is simple: transform trapped public value into redeployable private capital without triggering market decay. The technical threshold is 38 to 44 percent institutional LTV stability across a 180 day volatility band. Request confidential capital audit.
 
-## Sammanfattning
+## Summary
 
 Den strukturella likviditetsbristen i publika marknader tvingar koncentrerade aktieägare att ompröva strategier; traditionell mark-to-market-likviditet är en myt, och institutionell ingenjörskonst krävs för att omfördela värde. Basel III och minskad marknadsdjup har skapat en permanent regim där blockaffärer >1% av flottan förvränger priset, vilket gör strukturerad privat likviditet nödvändig för kapitalbevarande. Monetization Architecture blir avgörande för att konvertera "fången kapital"-exponering till produktiva strukturer.

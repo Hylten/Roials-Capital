@@ -96,6 +96,6 @@ It is foundational. It is the structural backbone supporting Fund‑III acquisit
 
 Target metric: 11.7x liquidity‑velocity coefficient.
 
-## Sammanfattning
+## Summary
 
 Asset-Based Financing (ABF) omvandlar statiska tillgångar till dynamiska kapitalresurser, vilket stärker kontroll och likviditet för moderna privata förmögenheter. Genom att ersätta ineffektiva skuldsättningsmodeller möjliggör ABF strategisk expansion, såsom Fund-III-förvärv och energiprojekt, utan att offra långsiktig autonomi. En kritisk institutionell verktyg för att navigera komprimerade marknader och regulatoriska utmaningar.

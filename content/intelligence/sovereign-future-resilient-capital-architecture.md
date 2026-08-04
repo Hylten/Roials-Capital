@@ -190,6 +190,6 @@ Target compounding horizon: 18.
 
 To proceed, request a confidential capital audit.
 
-## Sammanfattning
+## Summary
 
 Fund-III:s mandat är hållbarhet, inte tillväxt: strukturell immunitet genom disciplinerad jurisdiktionell design, hard-bounded kapital och adaptiv avkastning. Fem pelare – institutionell djup, gränsöverskridande arbitrage, hard-asset underwriting, kapitalstrukturering och permanent mandat – formar en anti-fragil arkitektur oberoende av systemisk likviditet och regleringsrisk. LP-kapital skall rekryteras från okorrelerade zoner (USA, Norden, Gulfstater, EU) för att säkra flerregimkompatibilitet och motståndskraft mot cykler.

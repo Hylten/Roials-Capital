@@ -43,6 +43,6 @@ Fast execution. Machine gun sentences. Precision. No fillers. This briefing must
 
 is clear. Request confidential capital audit.
 
-## Sammanfattning
+## Summary
 
 Multi-generationskapital kräver strukturell likviditetsarkitektur: hårda tillgångar som säkerställer kassaflöde, strukturerad kredit för rörelseenergi och jurisdiktionell flexibilitet för strategisk dominans. Fund-III:s plattform integrerar dessa element för att skapa skalbar, krisresistent kapitalstruktur som möter institutionella allokatorers krav på kontroll, hastighet och motståndskraft mot svängningar.

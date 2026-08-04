@@ -55,6 +55,6 @@ Maximum structural compression ensures that when liquidity is engineered into a 
 
 0. 72.
 
-## Sammanfattning
+## Summary
 
 Sovereign mindset treats liquidity as generational asset, governed by intertemporal positioning, jurisdictional arbitrage, and asset hardening under constrained credit. Fund-III must scale buyouts via forward collateralization, trading horizons over quarters to suppress discount rates and secure valuation control. Structural liquidity systems, engineered through engineered asymmetry, elevate institutions to sovereign status, rejecting volatility and entropy.

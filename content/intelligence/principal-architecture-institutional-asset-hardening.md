@@ -76,6 +76,6 @@ LPs choose the architecture that protects them from uncertainty. GP credibility 
 
 In institutional finance: the principal leaves a structure that compounds beyond a generation. Fund‑III is that structure. Request confidential capital audit.
 
-## Sammanfattning
+## Summary
 
 Institutionella investerare efterfrågar strukturell ogenomtränglighet: fundamentalt robusta tillgångar, kassaflöden immuniserade mot störningar och jurisdiktionella ramverk som eliminerar tolkningsoch genomförandetid. Fund-III kräver kompression av riskvarians genom irreversibla strukturer, skalbar säkerställning och tvångsverkställande i realtid – där kapital följer hårdad arkitektur, inte narrativ.

@@ -70,6 +70,6 @@ Legacy hardening is the advantage. Structural alignment is the execution. Instit
 
 ##
 
-## Sammanfattning
+## Summary
 
 Regulatorisk drift driver kapitalbristen i Nordamerikas energisektor, vilket skapar strukturella möjligheter för hårdvaruinkomststrategier. Legacy hardening omvandlar mogna tillgångar till flerperiodsankare genom disciplinerad balansräkningsteknik. Allokerare prioriterar operativ intelligens och reala tillgångar i en fragmenterad kreditmarknad.

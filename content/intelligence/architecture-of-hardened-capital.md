@@ -52,6 +52,6 @@ For institutions, that inheritance is the capital architecture itself. The struc
 
 Then scale. Then accelerate. Then compound. In that order. Never reversed. Capital hardened is power realized. Capital unhardened is power imagined. Request confidential capital audit. Mandate: 1. 00 institutional solvency ratio (target).
 
-## Sammanfattning
+## Summary
 
 Hardened capital är en strukturell nödvändighet för Fond-III, inte en metafor. Dess tre pelare, strukturell integritet, jurisdiktionell isolering och konverteringsflexibilitet, skapar en ogenomtränglig kapitalbas som motstår cykler, krig och likviditetskriser. Utan detta förfaller transaktioner till bräcklighet, drag och maktlöshet.

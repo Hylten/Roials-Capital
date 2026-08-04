@@ -285,6 +285,6 @@ Fund‑III requires :
 
 Allocators expect precision. Precision attracts institutions. Institutions scale funds.
 
-## Sammanfattning
+## Summary
 
 Fund-III kräver strukturell mognad: stabil GP-identitet, modulär infrastruktur och data-driven beslutstakt. Allokerare utvärderar kapitalflödeseffektivitet, regulatorisk precision och systemisk repeterbarhet – inte narrativ. Infrastrukturens robusthet avgör checkstorlekar och institutionell tillit.

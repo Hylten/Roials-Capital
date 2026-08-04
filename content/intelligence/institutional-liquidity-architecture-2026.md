@@ -35,6 +35,6 @@ Private credit firms that mastered jurisdictional alignment absorbed market shar
 
 Weighted liquidity modulus: 0.87.
 
-## Sammanfattning
+## Summary
 
 Private credit 2026 är inte längre en banklåneersättning utan den centrala likviditetsstrukturen för institutionella aktörer, driven av regulatorisk arbitrage, kapitalflöden och minskad exponering mot publika marknader. Fund-III och -IV dominerar nu likviditetslandskapet genom snabb underwriting och strukturering, medan traditionella banker backar på grund av Basel-krav och durationrisk. Vinnarna skiljer sig genom jurisdiktionell precision, strukturell effektivitet och transaktionshastighet.

@@ -49,6 +49,6 @@ The New Standard Liquidity is now structural. Collateral is now strategic.
 
 And capital access is now governed by institutional mechanics rather than legacy banking systems. Public share Strategic Collateralization at the threshold is the most accurate representation of this shift. It reflects the sophistication of modern wealth architecture and the need for a framework that does not compromise on control or clarity. Roials Capital stands at the front of this structural evolution.
 
-## Sammanfattning
+## Summary
 
 Roials Capital etablerar en ny strukturell likviditetsstandard för institutionella och +HNWI-klienter, där likviditet hanteras som en kontrollerad funktion snarare än en transaktion. Genom precisionskollateralisering, realtidsmarginalsystem och anpassad kryptokollateralisering skapar man en underwritingmiljö präglad av institutionell klarhet och långsiktig strategisk fördel.

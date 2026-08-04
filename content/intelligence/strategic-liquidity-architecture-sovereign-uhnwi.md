@@ -58,6 +58,6 @@ Institutional allocators increasingly apply this lens in sectors where resource 
 
 Sophisticated allocators in 2026 are navigating an environment where traditional public markets do not provide sufficient diversification, private equity vintages are elongated, and liquidity windows are asymmetrical. Strategic Liquidity Architecture involves repositioning capital into structures that combine durability, operational transparency, and cross-border optionality. This is the purpose of the Roials Capital institutional briefing model, which aims to provide allocators with the operational intelligence required to evaluate structural arbitrage opportunities within the North American energy landscape and to understand how strategic partners like energy operators integrate into a broader multi-asset liquidity framework. Allocators who seek deeper clarity on these structures typically begin with a confidential strategy audit, which establishes the governance framework for implementation.
 
-## Sammanfattning
+## Summary
 
 Regulatorisk avvikelse, ej resursbrist, driver kapitalvakuum i Nordamerikas energisektor. Allokeringsmönster ignorerar stabila kassaflöden från konventionella och termiska tillgångar i Alberta, vars undervärdering utgör strukturell arbitragemöjlighet för sofistikerade portföljer.

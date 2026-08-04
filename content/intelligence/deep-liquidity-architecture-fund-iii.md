@@ -74,6 +74,6 @@ The GP must be the steward, not the speculator. The architect, not the opportuni
 
 Terminal Metric: Liquidity Override Capacity Index ≥ 0.82.
 
-## Sammanfattning
+## Summary
 
 Fund-III arkitektur kräver strukturell djup och jurisdiktionell rörlighet för att tillverka likviditet oberoende av marknadscykler. Kapitalanskaffning utgör 80% av vikten, där LP kräver mekanik, kontrollteori och garantier för plattformslikviditet snarare än enskilda tillgångars illikviditet.

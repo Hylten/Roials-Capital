@@ -45,6 +45,6 @@ No soft landing. No rhetoric. Request a confidential capital audit to determine 
 
 Terminal metric: 1.6x liquidity coverage ratio.
 
-## Sammanfattning
+## Summary
 
 - Principal authority* är avgörande för kapitalintensiva institutioners överlevnad, men syns inte i balansräkningar eller redovisning. Den formas genom strukturell legitimering – linje, jurisdiktion, kovenanter och riskdisciplin – och avgör tillgång till kapital, likviditet och förvärvsrättigheter i fragmenterade marknader. Fund-III-aktörer måste kommunicera kontinuitet, inte ambition, för att säkra mandatutvidgning.

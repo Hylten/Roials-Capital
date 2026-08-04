@@ -71,6 +71,6 @@ It shapes disclosures. The GP adapts. Adapts fast.
 
 Uses structured entities, regulatory corridors, and harmonized capital structures. These create predictable acquisition closure, a predictability that becomes a strategic weapon. LPs reward predictability, and multi-asset liquidity further strengthens GP governance. Stronger governance enhances LP confidence, which in turn accelerates capital formation. Scaling capital formation demands governance that eliminates ambiguity through disciplined reporting cadence, precise asset tagging, liquidity stress tests, covenant monitoring, and exposure drift detection. Governance protects capital, and protected capital attracts more capital. Sovereign liquidity frameworks reduce dependence on external credit cycles, enabling the GP to become self-funding even under stress. Self-funding accelerates buyouts during downturns, where disciplined acquisitions outperform. Outperformance increases distributions, which in turn heightens LP confidence. Rising confidence expands commitments to Fund-III, completing the cycle of value creation.
 
-## Sammanfattning
+## Summary
 
 Institutionell multi-asset-likviditet är en strukturell nödvändighet, ej marknadsberoende preferens. Effektiv likviditetsstyrning i tre dimensioner (temporal, jurisdiktionell, tillgångsklass) skiftar kontroll från marknader till portföljförvaltare, säkrar förvärvsmöjligheter och bevarar operationell autonomi. Kapital belönar beredskap – inte fördröjning.

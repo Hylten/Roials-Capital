@@ -80,6 +80,6 @@ Fund-III formations, private credit facilities, and energy acquisition mandates 
 
 Roials Capital conducts confidential strategy audits for allocators seeking to calibrate portfolios to the current regime. The objective is to map structural constraints, identify reliability anchors, and align the allocator with institutional grade partners such as select institutional operators where relevant.
 
-## Sammanfattning
+## Summary
 
 Regulatorisk drift och efterlevnadskrav snedvrider kapitaltillgången för högkvalitativa tillgångar inom energi och private credit, trots robusta kassaflöden. Asset-based liquidity engineering fyller strukturella gap genom att omvandla tillgångsbaserad tillförlitlighet till likviditet, kritiskt för institutionella aktörer under MiFID II och hållbarhetsmandat. Effektiviserad kapitalallokering kräver modulerad expansion och decline management för att motverka policyinducerade likviditetstrappor.

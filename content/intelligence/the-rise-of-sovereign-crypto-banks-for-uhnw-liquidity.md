@@ -100,6 +100,6 @@ We maintain principal authority. We define the structure. We provide the mechani
 
 They provide leverage across assets that traditional banks cannot price, liquidity without jurisdictional dependency, and privacy without opacity. Roials Capital is part of this evolution, serving as an institutional architect rather than a market participant. The next decade of UHNW wealth management will be defined by institutions that can operate in both digital and traditional domains with equal sophistication. Roials Capital is already operating inside that future. Request confidential audit
 
-## Sammanfattning
+## Summary
 
 Sovereign crypto banks adresserar UHNW:s bristande likviditet genom agnostiska, jurisdiktionsoberoende kreditlösningar som bevarar ägande och undviker regulatoriska flaskhalsar. Roials Capital verkar som institutionell arkitekt inom detta segment, med Asset-Backed Frameworks som säkerställer hög precision och diskretion. Traditionella bankmodeller fallerar inför komplexa, icke-linjära tillgångar – lösningen kräver suverän infrastruktur och decentraliserad förvaltning.

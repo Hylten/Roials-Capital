@@ -51,6 +51,6 @@ Institutions live by that principle without speaking it. Preservation is moral. 
 
 Terminal metric: DSCR hard floor 1.35x.
 
-## Sammanfattning
+## Summary
 
 Fund-III kräver strikt struktur: jurisdiktion som första skydd, operativ robusthet och disciplinerad signalering. Kapitalbevarande arkitektur bygger på fyra institutionella pelare – immutabilitet, icke-fragilitet, nedsideskontroll och signaldisciplin – där permanent kapital utesluter improvisation och kräver trippel jurisdiktionell arbitrage.

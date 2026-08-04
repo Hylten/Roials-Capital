@@ -135,6 +135,6 @@ Just tell me:
 
 I can draft the audit immediately.
 
-## Sammanfattning
+## Summary
 
 LP-fragmentering och regulatorisk osäkerhet driver upp kostnaden för obligatoriska ESG-fonder, vilket begränsar deal flow och strategisk flexibilitet. ESG-optional med strukturerad rapportering balanserar transparens med fiduciär skyldighet, vilket gynnar kapitalallokering och värdeskapande i svårreglerade sektorer.

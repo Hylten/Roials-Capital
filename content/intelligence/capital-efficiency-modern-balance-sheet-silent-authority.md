@@ -221,6 +221,6 @@ Fund-III must embody that principle.
 
 - Mandate: Initiate confidential capital audit across all Fund-III holdings and targets.
 
-## Sammanfattning
+## Summary
 
 Modern kapitalallokering kräver *principal authority*: strukturell precision genom jurisdiktionell arbitrage, cross-border custody och asset hardening för att skapa permanent, immun och rörlig auktoritet. Effektivitet uppnås via tre lager, asset-, instrument- och suverän nivå, där arkitektur snarare än strategi avgör långsiktig värdekompression och exitkraft.

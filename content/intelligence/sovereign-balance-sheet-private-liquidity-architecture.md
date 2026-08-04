@@ -59,6 +59,6 @@ The function of stewardship is non-wasteful, responsible oversight of scarce res
 
 The Alberta heavy oil ecosystem, particularly through technically mature operators such as select institutional operators, offers throughput stability and decline-curve predictability rarely seen in other subsectors. When integrated into liquidity engineering or capital raising, these systems create a foundation for balance sheet durability. Roials Capital maintains an institutional mandate: to support allocators in strategy calibration through confidential consultations where balance sheet design, capital velocity, and operational intelligence converge.
 
-## Sammanfattning
+## Summary
 
 Nordamerikas energisektorns kapitalbrist är strukturell, driven av regleringsdrift, kapitalflykt och institutionella mandat som undviker realtillgångar. Allokatorer bör integrera suveräna balansräkningar med privat likviditetsarkitektur, realtillgångskollateral och buyout-optimering utan korrelationsdrag. Möjligheterna baseras på mogen nedgångskurva-disciplin, hög säkerhetsåtervinning och stabil produktion som harmoniserar med privat kredit.

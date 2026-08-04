@@ -121,6 +121,6 @@ It is disciplined resource allocation supported by technical clarity and structu
 
 The objective is clarity, not commitment.
 
-## Sammanfattning
+## Summary
 
 Regulatorisk utträngning sedan 2018 har gjort privat kredit till den stabiliserande ryggraden i institutionella portföljer, där traditionella långivare övergett segment med robusta tillgångar och stabila kassaflöden. Allokerare avgör nu kapitaltillgången för mellanstora bolag, med fokus på riskkontroll via kovenanter, senioritet och kontraktsenliga kassaflödesanalyser – en strategi Roials Capital tillämpar i Fund-III, ABL-likviditet och energispecialmandat.

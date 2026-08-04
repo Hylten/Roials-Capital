@@ -172,6 +172,6 @@ At that point, capital raising becomes capital selection. LPs compete. Managers 
 
 1. 85. Request confidential capital audit.
 
-## Sammanfattning
+## Summary
 
 För en Fond-III-plattform avgör strukturell suveränitet kapitaltillgång framför pris. Tre lager, jurisdiktionell stabilitet, regleringsneutralitet och flexibel allokering, skapar en kontinuerlig kapitalanskaffningsmotor som överlever cykler. Endast system som överträffar sin egen livscykel uppnår institutionell auktoritet.

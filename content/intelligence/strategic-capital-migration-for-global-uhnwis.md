@@ -136,6 +136,6 @@ This is the architecture used by principal investors who intend to operate globa
 
 It will be defined by optionality and structure. Those who operate within legacy systems will face constraint. Those who design structures around liquidity will hold advantage. Roials Capital’s mission is singular. Provide the structural mechanics that allow UHNW capital to remain liquid, invisible, and sovereign across jurisdictions. We do not follow the market. We design the system the market adapts to.
 
-## Sammanfattning
+## Summary
 
 Strategisk kapitalmigration är avgörande för UHNWIs i en era präglad av regulatorisk fragmentering och snabbare cykler. Roials Capital skapar strukturella fördelar genom disciplinerad rörlighet via privat kredit, gränsöverskridande strukturer och dold likviditet, utan att äventyra kontroll eller skatteposition.

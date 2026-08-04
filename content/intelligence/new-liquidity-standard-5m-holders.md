@@ -45,6 +45,6 @@ Sovereignty ensures operational control. Alignment ensures regulatory compatibil
 
 Metric: minimum liquidity spine requirement: 18.4% of NAV.
 
-## Sammanfattning
+## Summary
 
 Nya likviditetsregimen för +-innehavare omdefinierar likviditet som en strukturell rättighet snarare än en kassahändelse, driven av *controllable*, *predictable* och *trans-jurisdictional* likviditet. Endast institutionellt beteende med strategisk kollateralisering och Asset-Based Lending uppnår den nödvändiga *velocityn* för att delta i Fund-III:s köpcykler, där precision och arkitektur avgör framgång framför skala.

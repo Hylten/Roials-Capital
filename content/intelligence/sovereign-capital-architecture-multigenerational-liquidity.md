@@ -124,6 +124,6 @@ Institutional allocators require a decision-making lens that recognizes the stru
 
 Whether via Fund-III buyout structures, Special Mandates, or institutional introductions such as select institutional operators, the objective remains consistent: build sovereign-grade liquidity systems that endure across decades, not quarters. Allocators requiring a technical audit of their current exposure, cross-border architecture, or energy allocation posture may initiate a Confidential Strategy Audit to determine alignment with the Sovereign Capital Architecture.
 
-## Sammanfattning
+## Summary
 
 En strukturell regimskiftning sedan 2022 har skapat en förutsägbar flerdecennierig likviditetskorridor i Nordamerikas energisektor, driven av regleringsdrift och kapitalvakuum snarare än resursbrist. Roials Capital:s *Sovereign Capital Architecture* utnyttjar detta genom disciplinerad underwriting och suveräna balansräkningar för att etablera bestående förmögenhetsstrukturer för institutionella LPs och familjeoffice. Arkitekturen kalibrerar direkt Fund-III/IV:s buyout-mandat och identifierar högkonviktiga operatörer inom exempelvis Albertas konventionella tungoljeproduktion.

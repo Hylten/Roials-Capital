@@ -44,6 +44,6 @@ A structural amplifier. 10% Special Mandates (energy mandates Energy, EU MiFID I
 
 Roials Capital absorbs that complexity and extracts the execution clarity. Everything ladders to one principle: sovereignty through structure. Machine gun again. No chaos. No improvisation. No disorder. The Principal does not chase capital. Capital arrives. Roials Capital sits above the churn of the market because our doctrine is not cyclical. It is architectural. It is jurisdictional. It is temporal. And it is engineered to survive whatever economic environment emerges next. Close the briefing. Request confidential capital audit.
 
-## Sammanfattning
+## Summary
 
 Struktur avgör kapitalflöden över tid, oavsett marknadsstämning. Roials Capital tillämpar *collateralized liquidity* som operativ doktrin för att säkra skalbar, jurisdiktionsoberoende likviditet genom disciplinerad, hierarkisk arkitektur. Långsiktig dominans kräver förmåga att pre-engineera likviditet – inte improvisera vid kris.

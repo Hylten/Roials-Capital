@@ -137,6 +137,6 @@ This framework protects the reserve. Protects the family. Protects the operating
 
 ## The Meta
 
-## Sammanfattning
+## Summary
 
 Bitcoin etableras som institutionell reservtillgång för family offices, ersätter traditionell likviditetspolitik med oberoende, gränslös monetär kontroll. Roials Capital strukturerar detta via tre lager: Bitcoin som reserv, kassagenererande tillgångar som operativ bas och expansionskapital via specialiserade mandat.

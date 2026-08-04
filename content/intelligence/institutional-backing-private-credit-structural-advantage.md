@@ -123,6 +123,6 @@ Stewardship in private credit includes:
 
 This stewardship filter ensures that institutional allocators maintain integrity across their capital deployment strategies. THE DECISION-MAKING LENS FOR ALLOCATORS The allocator landscape has shifted toward strategic calibration rather than spread maximization. Private credit is no longer defined by yield. It is defined by structure quality, counterparty precision, and operational intelligence. Institutional backing enhances each of these elements and enables exposure to opportunities inaccessible to traditional lenders. A professional allocator navigating this environment benefits from a confidential Strategy Audit to assess portfolio construction, jurisdictional exposure, liquidity velocity, and the alignment of capital stack structures with long-term objectives. Roials Capital facilitates these audits, providing allocators with the intelligence required to operate confidently within a complex, evolving credit environment.
 
-## Sammanfattning
+## Summary
 
 Regulatorisk tröghet och bankernas tillbakadragande skapar en bestående kreditlucka som gynnar specialiserade institut med kapacitet att understödja komplexa strukturer. Institutional backing är numera en operationell nödvändighet, inte en signaleringsmekanism, för att hantera mognadsväggar, gränsöverskridande transaktioner och intellektuell tillgångsbedömning.

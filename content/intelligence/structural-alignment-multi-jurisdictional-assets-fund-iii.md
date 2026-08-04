@@ -117,6 +117,6 @@ energy operations represents the institutional tier within the Alberta domain an
 
 Capital must be deployed with non-wasteful precision to ensure sustainability and regulatory stability. Roials Capital conducts confidential Strategy Audits for allocators seeking to calibrate their exposure across Europe, North America, and energy-specific assets. This process is a technical review, not a solicitation. The objective is strategic clarity: the alignment of jurisdiction, collateral, operator, and institutional mandate.
 
-## Sammanfattning
+## Summary
 
 Regulatorisk fragmentering skapar strukturell mispricing i Nordamerikas energisektor, vilket utnyttjas av Fund-III-aktörer genom tvärjurisdiktionella plattformar som integrerar europeisk governance, amerikansk private credit och kanadensisk fysisk tillgångslogik. Allokerare måste nu omvandla juridisk alignment till en likviditetsingenjöringsram för att säkra transparens och nedsideskydd i komplexa energimandat och strukturerade kreditfaciliteter.

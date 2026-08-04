@@ -76,6 +76,6 @@ Institutionellt sett innebär detta förvaltarskap. Kapitalförvaltning. Struktu
 
 Control of risk. Control of time. Control of collateral. Control of outcomes. Fund-III must demonstrate: Compression of uncertainty. Acceleration of decision loops. Hardening of collateral structures. Reduction of jurisdictional drag. Dominance of seniority. When these elements align, capital commitments scale. Energy mandates expand. European acquisition lines open. Monetization Architecture becomes normalized. Buyout and add-on velocity accelerates. This is the architecture. Request a confidential capital audit to initiate allocation sizing.
 
-## Sammanfattning
+## Summary
 
 Private credit har utvecklats till en makroarkitektonisk kontrollmekanism där risköverföring och jurisdiktionell kontroll avgör kapitalflöden. Fund-III-strategier måste bemästra fem riskvektorer, särskilt strukturell senioritet, jurisdiktionell compliance och kollateralkvalitet, för att säkra prissättning och mandatutvidgning. Effektiv hantering av dessa torques avgör institutionella LPs trovärdighet och kapitalanskaffning.

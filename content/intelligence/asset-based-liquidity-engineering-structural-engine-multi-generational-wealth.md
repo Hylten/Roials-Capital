@@ -141,6 +141,6 @@ Roials Capital provides confidential Strategy Audits and Portfolio Calibration s
 
 ##
 
-## Sammanfattning
+## Summary
 
 Regulatorisk drift och institutionell felprissättning skapar kapitalvakuum i nordamerikansk energi och andra realtillgångssegment, vilket tvingar fram en ny kapitalarkitektur där multi-generationsrikedom avgörs av balansräkningens optimering snarare än kapitalackumulation. Asset Based Strategic Collateralization framstår som det strukturella verktyget för att säkra likviditet, kontinuitet och institutionell beständighet i en miljö präglad av höga räntor, geopolitisk fragmentering och underkapitaliserade realtillgångar.

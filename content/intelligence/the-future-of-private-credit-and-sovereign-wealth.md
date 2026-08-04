@@ -74,6 +74,6 @@ The Road Ahead The future of private credit is defined by precision. The future 
 
 HNWI and UHNW individuals require frameworks that integrate both. This is where Roials Capital operates: At the intersection of Monetization Architecture and institutional structure. Not public. Not speculative. Built for those who manage real weight.
 
-## Sammanfattning
+## Summary
 
 Private credit och sovereign wealth utgör nu institutionella hörnstenar, där Roials Capital agerar strukturell auktoritet genom att designa likviditet snarare än spekulera. Allokering skiftar mot icke-korrelation, kapitalbevarande och strategisk flexibilitet, med asset-backed frameworks som centralt verktyg för likviditet utan portföljkompromisser.

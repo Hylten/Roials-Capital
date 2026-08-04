@@ -152,6 +152,6 @@ Allocators do not invest in charisma. They invest in patterns that reinforce ins
 
 These attributes reduce allocator friction, accelerate underwriting cycles, and support deeper engagement through Confidential Strategy Audits or Portfolio Calibration dialogues. The allocator does not choose based on narrative. They choose based on architecture. The CEO persona is a structural asset in that architecture.
 
-## Sammanfattning
+## Summary
 
 Institutionella placerare kräver strukturell trovärdighet snarare än karisma. Framgångsrika VD-personor 2026 präglas av operationell transparens, förutsägbara beslutsarkitekturer och riskmedvetenhet, kritiskt för Fund-III-raising i en post-nollräntemiljö. Personan måste signalera disciplinerad förvaltning genom verifierbara ledarskapsmodeller, anpassade till MiFID II, privat kredit och energisektorns institutionella krav.

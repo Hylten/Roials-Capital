@@ -58,6 +58,6 @@ A good man leaves an inheritance to his children’s children. That mandate is s
 
 EXIT Capital migration ends with one metric. Cost of error. Our mandate is to lower it to zero. Request confidential capital audit.
 
-## Sammanfattning
+## Summary
 
 Kapital migrerar strukturellt mot lägre friktion, säkrare kassaflöden och verifierbar kontroll – mispricingen av detta skifte skapar flerperiodsöverskott för disciplinerade aktörer. Indikatorer som transaktionslatens, kollaps av narrativbaserad due diligence och geopolitisk stratifiering (energi, infrastruktur) driver omallokering till reala tillgångar och asset-backed ramverk. De som agerar nu konsoliderar institutionell fördel; eftersläntrare finansierar andras.

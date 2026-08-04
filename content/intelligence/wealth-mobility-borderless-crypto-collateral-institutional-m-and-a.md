@@ -148,6 +148,6 @@ The allocator evaluating the use of borderless crypto collateral for Fund-III or
 
 Roials Capital functions as the strategic navigator for these decisions. The firm introduces allocators to compliant, validated, cross border frameworks that support Fund-III buyouts, private credit structures, and special mandates requiring technical precision. A confidential Strategy Audit provides allocators with a calibration map for optimizing mobility, compliance, and acquisition velocity. The audit is not solicitation. It is institutional orientation. It is the mapping of cross border capital pathways that align with governance, regulatory discipline, and allocator objectives.
 
-## Sammanfattning
+## Summary
 
 Global M&A-kapitalbrist härrör från strukturella hinder snarare än likviditetsbrist. Allokerare anpassar sig till 2026:s regimskifte genom att prioritera gränslös rörlighet, verifierbarhet och tokeniserat, institutionellt kollateral. Traditionella system bromsas av regulatorisk fragmentering, medan digitala tillgångar möjliggör snabbare transaktioner inom kompatibla ramverk.

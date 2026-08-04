@@ -86,6 +86,6 @@ A covenant tolerant routing system operates with minimal operator intervention. 
 
 Roials Capital is constructing a future architecture where capital behaves as an autonomous plane, moving without human intervention and routing with perfect covenant awareness. It preserves liquidity integrity, regulatory balance, and multi asset coherence. This future state features fully autonomous routing, infinite covenant tolerance, and frictionless transitions across asset classes. It is not speculative; the structural foundation exists, and scaling is underway.
 
-## Sammanfattning
+## Summary
 
 Covenant tolerant capital routing är en strukturell nödvändighet för institutionell kapitalmobilitet i komplexa multi-asset-miljöer, där covenant-logik och cross-collateral-arkitektur avgör prestanda mer än enskild asset-selektion. Roials Capital framställer det som en disciplin för kontrollerad precision snarare än hastighet, med en arkitektur baserad på transparens, deterministisk sekvensering och icke-reaktiv balansräkning. Implementation kräver konfidentiell audit.

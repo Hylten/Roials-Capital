@@ -154,6 +154,6 @@ It is not thematic. It is infrastructural. GPs operate as institutional architec
 
 Alignment determines acceleration. Mandate Reference: LQR‑Δ 47.
 
-## Sammanfattning
+## Summary
 
 Asset-based liquidity engineering is now a sovereign mandate for Fund-III, defining scalability and jurisdictional dominance. Mastery of asset-based lending at sovereign bandwidth secures price-insensitive capital and a countercyclical liquidity engine, outperforming benchmarks by aligning collateral, jurisdiction, and regulatory efficiency. This quasi-sovereign posture accelerates Kapitalanskaffning, eliminating timing and jurisdictional frictions without diluting equity.

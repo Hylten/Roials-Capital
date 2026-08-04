@@ -70,6 +70,6 @@ We engineer both through a Fund-III architecture targeting a 1.5 to 1.8 times MO
 
 36 to 48 month duration band. Request a confidential capital audit to determine alignment with Fund-III deployment parameters.
 
-## Sammanfattning
+## Summary
 
 Regulatorisk bankretreat och sponsorers ökade transaktionshastighet skapar en permanent strukturell lucka i mellanstora kreditmarknaden. Roials Capital positionerar sig där komplexitet och bristande institutionalisering genererar asymmetrisk riskjusterad avkastning genom disciplinerad LTV-styrning (35-55%), kassaflödesfokus och accelererad återvinning.

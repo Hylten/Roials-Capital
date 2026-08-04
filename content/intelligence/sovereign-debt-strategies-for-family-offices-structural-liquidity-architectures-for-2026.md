@@ -127,6 +127,6 @@ Final Position: Sovereign Debt Is the Silent Framework for Longevity The most su
 
 It is about architecture. It defines the shape of the portfolio. It calibrates risk. It governs liquidity. It stabilizes private credit. It reinforces multigenerational planning. Roials Capital builds on this principle. We create Capital Structuring frameworks that respect sovereign signals and elevate the client's strategic position.
 
-## Sammanfattning
+## Summary
 
 Souverän skuld utgör fundamentet för likviditetsarkitektur och riskkontroll för familjekontor, där strukturell exponering, säkerställning och tidsplanering avgör strategisk framgång snarare än enskilda tillgångar. Roials Capital positionerar sig som strategisk arkitekt snarare än spekulant, genom att integrera statspapper som dynamiskt motvikt i likviditetsstrukturer och kreditportföljer för att hantera geopolitisk osäkerhet och snabba räntescenarier.

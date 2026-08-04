@@ -112,6 +112,6 @@ Private credit in 2026 is no longer defined by opportunistic yield. It is struct
 
 The objective is not to promote any instrument but to map the structural terrain so allocators can calibrate their portfolio architecture with precision and confidence. This briefing concludes with a strategic pathway rather than a directive. Allocators positioned to integrate Alberta heavy oil credit structures, middle market buyout or add-on credit facilities, and institutional-grade energy mandates benefit from tailored intelligence and partner calibration. A confidential strategy audit provides the framework for assessing fit, alignment, and operational readiness while maintaining full compliance with institutional standards and regulatory expectations.
 
-## Sammanfattning
+## Summary
 
 Institutionellt stöd har blivit avgörande för private credit i Nordamerikas energisektor, drivet av bankreglering och underinvesteringar (40% underhållsgap sedan 2014). Strukturell kapacitetsbrist och resursbaserade kassaflöden skapar en obalans där disciplinerade institutionella aktörer, som Roials Capital, agerar stabiliserande kraft genom rigorös motpartskontroll och balansräkningsoptimering för operatörer.

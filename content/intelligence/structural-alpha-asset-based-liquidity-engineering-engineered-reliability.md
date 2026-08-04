@@ -117,6 +117,6 @@ Allocators navigating the current regime require a refined lens for evaluating r
 
 This is the environment where Asset Based Liquidity Engineering produces structural alpha. Not through leverage, but through clarity. Not through risk seeking, but through disciplined calibration. Roials Capital provides confidential strategy audits for institutional allocators seeking to evaluate alignment with Fund-III buyouts, ABL structures, or North American energy introductions. The objective is calibration, not solicitation.
 
-## Sammanfattning
+## Summary
 
 Regulatorisk kompression och riskmodelljusteringar har skapat en kapitalbrist för lägre mellanstora operatörer i Nordamerika och Europa, trots bibehållen tillgångsvärdering. Strukturell alfa genereras nu främst genom balansräktsarkitektur, där Asset Based Liquidity Engineering omvandlar operationell säkerhet till institutionell optionality, vilket utgör en icke-korrelerad värdeskapande källa.

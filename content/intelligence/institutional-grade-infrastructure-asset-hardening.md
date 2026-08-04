@@ -59,6 +59,6 @@ Allocators benefit from neutral partners who can configure institutional pathway
 
 ##
 
-## Sammanfattning
+## Summary
 
 Regulatorisk avvikelse snarare än resursbrist driver kapitalunderskottet i Nordamerikas energisektor, vilket skapar strukturell obalans. Infrastruktur för institutionell tillgångshärdning prioriteras nu för balansräkningssäkring och cyklisk kapital effektivitet snarare än expansion. Allokerare efterfrågar förutsägbarhet, vilket gynnar mogna tillgångar med stabila kassaflöden och låg operativ varians.

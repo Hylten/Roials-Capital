@@ -193,6 +193,6 @@ Institutions allocate to frameworks. Frameworks reflect the principal. The princ
 
 If the platform is ordered, the capital is protected. If the capital is protected, long-term partnership emerges. CTA Request confidential audit.
 
-## Sammanfattning
+## Summary
 
 Institutionell private debt-origination kräver strukturell disciplin, moralisk hierarki och audit-beredskap. Plattformar måste uppfylla sju binära kriterier – från covenant-automation till realtidsdiagnostik – för att anses vara investeringsbara. Endast strukturellt hårdnade tillgångar med eliminerad informationsasymmetri och förutbestämda likvidationsvägar uppnår institutionell standard.

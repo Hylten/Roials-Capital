@@ -146,6 +146,6 @@ Institutional allocators are navigating a capital environment where yield functi
 
 Roials Capital provides this navigational function. A confidential strategy audit or portfolio calibration session allows institutional LPs, GPs, and family offices to align capital deployment with durable yield architectures and structurally hardened asset profiles.
 
-## Sammanfattning
+## Summary
 
 En strukturell kapitalbrist inom nordamerikansk energi och lägre mellanstora privata krediter härrör från regulatorisk drift och bankers tillbakadragande, inte försämrad tillgångskvalitet. Stabiliserad avkastning har utvecklats från en prestandamätare till ett balansräkningsinstrument som avgör graden av tillgångshärdning för institutionella placerare, där avkastning nu avgör om en tillgång absorberar skulder eller konsumerar likviditet.

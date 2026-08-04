@@ -173,6 +173,6 @@ Does the project or portfolio offer conversion pathways into harder collateral, 
 
 Are opportunities sequenced in a pattern that supports consistent deployment without compromising underwriting standards? Roials Capital provides confidential Strategy Audits and Portfolio Calibration Reviews to allocators requiring structural mapping, mandate evaluation, or cross-border navigation. The objective is clarity, precision, and institutional alignment.
 
-## Sammanfattning
+## Summary
 
 Institutionella investerare positionerar sig för strukturella fördelar genom precision financing, driven av regulatorisk drift, likviditetsfragmentering och tidsmismatch i kapitalallokering. Regimen 2026 präglas av fyra dislokationer: ökad kapitalfriktion (Basel III/IV), durationomställning, energisektorns policyklyfta och europeisk regleringskonsolidering, vilket skapar segmenterade mandat och institutionellt anpassad kapitalförsörjning.

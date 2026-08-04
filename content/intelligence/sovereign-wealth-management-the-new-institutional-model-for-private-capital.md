@@ -60,6 +60,6 @@ The New Institutional Standard for Private Clients The modern UHNW environment d
 
 One that acknowledges the complexity of private holdings. One that is built on the logic of sovereign wealth funds but applied to individuals. Roials Capital is not a lender in the classical sense. We operate as architects of liquidity. We integrate private credit, Asset-Based Lending, crypto Strategic Collateralization, and public equity Institutional Liquidity Paths into a unified structural framework. This structure allows clients to operate above the market. To remain sovereign in strategy. To maintain control in environments where others lose it. The new model of sovereign wealth management is here. It is private. It is structural. It is disciplined. It is built for those who treat capital as architecture, not speculation.
 
-## Sammanfattning
+## Summary
 
 Sovereign wealth management has evolved into a private, structural shift driven by fragmented capital formation and asymmetric liquidity. Roials Capital addresses this by prioritizing liquidity architecture over traditional portfolio strategies, enabling sovereign-like independence from institutional gatekeepers.

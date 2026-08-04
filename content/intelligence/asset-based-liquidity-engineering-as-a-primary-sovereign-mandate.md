@@ -120,6 +120,6 @@ Closing Position Asset based Strategic Collateralization is not a tactic. It is 
 
 It aligns stewardship, authority, and discipline. It transforms static assets into strategic force. It elevates principals into command positions within the private credit hierarchy. And it grants the most stable form of liquidity known to private markets: Collateral backed. Transparent. Enforceable. Sovereign. Request confidential audit.
 
-## Sammanfattning
+## Summary
 
 Asset-Based Liquidity Engineering etableras som en suverän mandatstruktur, där disciplin, kollateral och covenant-integritet avgör kapitalallokering – inte marknadssentiment. Roials Capital tillämpar icke-förhandlingsbara trösklar ($2M för krypto, $5M för aktier) för att filtrera spekulanter och säkra kontroll över likviditet som strategiskt verktyg för expansion utan utspädning eller politiska beroenden.

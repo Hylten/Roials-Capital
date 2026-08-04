@@ -48,6 +48,6 @@ Capital will respond. Capital always responds to structure. Request confidential
 
 End metric: Asset-Based Lending-readiness index 0.92.
 
-## Sammanfattning
+## Summary
 
 Fund-III:s expansionsmandat kräver en robust, flerlagd likviditetsarkitektur med strategisk säkerställning som ryggrad, ABL-mekanismer för syresättning och specialmandat för kraftöverföring. Strukturen måste uppvisa stabilitet, jurisdiktionsmässig precision, asymmetrisk avkastning och separerbarhet för att attrahera institutionella LP:er, med synkroniserade tidsparametrar som avgörande för att uppfattas som systemisk snarare än opportunistisk.

@@ -255,6 +255,6 @@ Asset hardening is the sovereign layer. Without it, Fund-III becomes a negotiati
 Technical Metric: Structural Hardness Index v4.
 3 (SHI).
 
-## Sammanfattning
+## Summary
 
 Institutionell kapitalallokering kräver förutsägbar, strukturell arkitektur – Fund-III är avgörande för kapitalanskaffning. Asset hardening omvandlar exponerade tillgångar till "institutionell grade" via fem strukturella verktyg, säkerställande av tvärkulturell genomförbarhet och intercykelstabilitet. Precision och systemdesign premieras framför kortsiktig hastighet.

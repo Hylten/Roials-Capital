@@ -23,6 +23,6 @@ The Future of Institutional Liquidity Paths We are moving into an era where liqu
 
 They will be the portfolios that retain structural optionality. Regulatory shifts, rapid innovation cycles, and fragmented markets all point in one direction: legacy must be hardened, structures engineered—not improvised. The future belongs to portfolios with durable leverage capacity, clean collateral structures, and institutionally aligned credit mechanics. Roials Capital builds that future today.
 
-## Sammanfattning
+## Summary
 
 Roials Capital positionerar sig genom att säkra strukturell kontroll och förutsägbar likviditet för flergenerationsportföljer, snarare än att jaga avkastning. Genom institutionellt anpassad privat kredit och robusta likviditetsarkitekturer skapar man bestående fördelar och motståndskraft mot marknadsstress.

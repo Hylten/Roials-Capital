@@ -198,6 +198,6 @@ For GPs ready to fortify Fund‑III, expand institutional velocity, and pressure
 
 Terminal Metric: Required Liquidity Coverage Ratio (LCR) for Fund‑III institutional readiness = 1.62x minimum.
 
-## Sammanfattning
+## Summary
 
 Institutionell private credit är numera en strategisk kontrollmekanism där framgång kräver förmåga att hantera icke-linjära risker: jurisdiktion, collateral, LP-struktur och makrovolatilitet. Endast de fonder som strukturerar proaktivt – med fokus på likviditetsflöden, sponsorresiliens och collateralkonvertibilitet – kommer att säkra kapitalanskaffning i nästa decennium.

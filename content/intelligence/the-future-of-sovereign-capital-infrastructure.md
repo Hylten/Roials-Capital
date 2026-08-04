@@ -48,6 +48,6 @@ The Convergence of Technology and Sovereign Capital Technology is not replacing 
 
 Custody systems, on-chain verification models, cross-asset collateral engines, and secure off-chain credit facilities are merging into an architecture where asset location does not limit Capital Structuring potential. This convergence produces an environment where physical assets, digital assets, and market assets operate within a unified Strategic Collateralization framework. For those who hold significant capital, this marks the beginning of a new era. The era of universal collateralization. The era of frictionless liquidity. The era of sovereign capital autonomy.
 
-## Sammanfattning
+## Summary
 
 Digital assets och publika aktier integreras nu strukturellt i institutionell kapitalinfrastruktur genom högförlitliga, kollateraliserade ramverk. Roials Capital tillhandahåller dessa arkitekturer för HNWI/UHNW, säkerställande av kontroll och likviditet utan mellanhänder. Verksamheten bygger på *principal authority*, där klienter erhåller strukturell suveränitet över eget kapital.

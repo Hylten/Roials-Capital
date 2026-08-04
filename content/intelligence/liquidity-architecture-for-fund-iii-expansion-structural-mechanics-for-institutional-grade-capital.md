@@ -109,6 +109,6 @@ Why Architecture Determines Outcomes Most credit failures are design failures. M
 
 Fund-III avoids these pitfalls through architectural rigor. This rigor is evident in threshold sizing. It is evident in collateral selection. It is evident in the stability-first logic that guides every underwriting decision. The architecture is the defense. The architecture is also the advantage. It is the reason Fund-III can expand without diluting quality.
 
-## Sammanfattning
+## Summary
 
 Fund-III etablerar en robust likviditetsarkitektur genom strukturell strategisk kollateralisering, med fokus på privat kredit och tillgångsbaserade ramverk för att hantera volatilitet och säkra institutionell precision. Arkitekturen bygger på tre pelare: kollateralintegritet, kontrollerad likviditet via LTV-mätning och auktoritet snarare än marknadsföring, designad för att upprätthålla koherens under stress. Privat kredit utgör fundamentet genom stabilitet och förutsägbara kassaflöden, vilket möjliggör billigare likviditet för HNWI/UHNW-segmentet.

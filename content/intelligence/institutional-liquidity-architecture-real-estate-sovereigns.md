@@ -115,6 +115,6 @@ Institutional allocators entering the current real estate regime require a decis
 - Operational durability across multiple jurisdictions
 - Access to programmatic capital insulated from episodic refinancing events Roials Capital provides a confidential strategy audit for sovereign operators and allocators seeking calibrated exposure, ensuring alignment between capital architecture, macro regime conditions, and operational governance.
 
-## Sammanfattning
+## Summary
 
 2026:s likviditetskris för statsägd fastighetsportföljer härrör från regulatorisk kompression och kapitalmigration, ej värdeerosion. Portföljerna är underutnyttjade då avkastningskrav och refinansieringskostnader divergerar under långvarigt höga räntor, trots stabila kassaflöden och lägre ersättningskostnader.

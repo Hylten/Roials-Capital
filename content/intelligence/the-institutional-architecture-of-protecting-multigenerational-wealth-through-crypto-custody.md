@@ -123,6 +123,6 @@ The ability to borrow against crypto positions at institutional scale, with a mi
 
 Custody protects the asset. Monetization Architecture protects the strategy. Liquidity protects continuity. Building the Institutional Crypto Vault for the Next 100 Years The families that endure understand one principle. Wealth is not a moment. Wealth is a structure. Institutional crypto custody is part of that structure. It is the vault that holds digital assets with institutional controls, institutional governance, and institutional resilience. Roials Capital builds this vault for families that operate across decades. Our role is to create the architecture that preserves digital assets, mobilizes liquidity, and integrates with private credit and Asset-Based Lending frameworks. The outcome is simple. Assets remain protected. Liquidity remains available. Governance remains stable. The family retains sovereignty. This is the future of multi generational wealth protection. It is engineered, not improvised.
 
-## Sammanfattning
+## Summary
 
 HNWI/UHNWI-familjer integrerar nu krypto i generationsöverskridande förmögenhetsplanering, varvid Roials Capital tillhandahåller institutionell förvaring som arkitektur snarare än produkt. Systemen säkerställer flerjurisdiktionell redundans, programmerbar åtkomst och mobilisering av tillgångar utan exponering av privata nycklar, i linje med långsiktig förmögenhetsbevarande governance.

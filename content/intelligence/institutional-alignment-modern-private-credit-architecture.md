@@ -169,6 +169,6 @@ The allocator evaluating alignment in the modern private credit environment oper
 
 The role of Roials Capital is to ensure that alignment. The institutional progression from preliminary review to calibrated engagement often culminates in a confidential strategy audit. This process allows LPs to evaluate governance structures, credit mechanics, and operational discipline through a controlled and private assessment.
 
-## Sammanfattning
+## Summary
 
 Modern private credit faces structural scarcity of disciplined capital due to institutional recalibration post-2008, driven by regulatory constraints (Basel III/IV) and withdrawal of conventional lenders. The regime shift has redefined private credit as a core portfolio component, prioritizing governance and collateral over opportunistic yield, reshaping allocator-GP dynamics toward operational resilience.
