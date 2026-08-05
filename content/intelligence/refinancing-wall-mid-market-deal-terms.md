@@ -2,14 +2,14 @@
 title: "The Refinancing Wall Rewrites Mid-Market Deal Terms"
 slug: "refinancing-wall-mid-market-deal-terms"
 description: "Institutional analysis of how the 2026-2029 maturity wall reorders mid-market deal structures: bank retreat, private credit entry, and the new term-sheet architecture."
-date: "2026-08-04"
+date: "2026-08-06"
 tags: ["Refinancing Wall", "Private Credit", "LBO", "Mid-Market M&A"]
 categories: ["Intelligence"]
 canonical_url: "https://roialscapital.com/intelligence/refinancing-wall-mid-market-deal-terms/"
 meta_title: "The Refinancing Wall Rewrites Mid-Market Deal Terms"
 meta_description: "Institutional analysis of how the 2026-2029 maturity wall reorders mid-market deals: bank retreat, private credit entry, and new term-sheet architecture."
 featured_image: ""
-draft: true
+draft: false
 author: "Jonas Hyltén"
 ---
 
