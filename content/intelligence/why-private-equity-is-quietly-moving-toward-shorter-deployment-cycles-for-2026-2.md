@@ -15,7 +15,7 @@ author: "Roials Capital"
 
 ## The Selective Recovery
 
-Private equity activity recovered in 2025 and became more selective in 2026. EY's Private Equity Pulse reports 110 announced deals in Q1 2026 valued at US$172 billion, approximately 1 800 miljarder SEK at prevailing rates, a 12 percent decline by value against Q1 2025. PwC's US Deals 2026 midyear outlook shows H1 2026 deal volume down 34 percent year over year, while average deal size rose nearly fourfold as capital concentrated in higher-conviction transactions.
+Private equity activity recovered in 2025 and became more selective in 2026. EY's [Private Equity Pulse](https://www.ey.com/en_gl/newsroom/2026/04/pe-navigates-a-more-complex-geopolitical-and-macroeconomic-environment-ey-analysis) reports 110 announced deals in Q1 2026 valued at US$172 billion, equivalent to approximately SEK 1.8 trillion at the prevailing exchange rate, a 12 percent decline by value against Q1 2025. PwC's [US Deals 2026 midyear outlook](https://www.pwc.com/us/en/industries/financial-services/library/private-equity-deals-outlook.html) shows H1 2026 deal volume down 34 percent year over year, while average deal size rose nearly fourfold as capital concentrated in higher-conviction transactions.
 
 The thesis is not that deployment cycles are compressing across the market. The thesis is that deployment is becoming more selective, more concentrated and more operationally prepared, with some sponsors using add-ons and private credit to accelerate execution. These are different claims, and the evidence supports the second, not the first.
 
@@ -27,27 +27,27 @@ Private credit can shorten financing execution. Pre-underwritten add-ons can inc
 
 ## What LPs Actually Demand
 
-The pressure on GPs is real, but its nature is misread. PwC's 2026 outlook identifies DPI, distributions to paid-in capital, as the defining fundraising metric of the year. LPs demand realized returns and liquidity over paper marks, and fundraising timelines have lengthened as a result.
+The pressure on GPs is real, but its nature is misread. PwC's 2026 outlook identifies DPI, distributions to paid-in capital, as one of the most important fundraising and liquidity metrics. LPs demand realized returns and liquidity over paper marks, and fundraising timelines have lengthened as a result.
 
 This is a demand for distributions and credible value realization, not simply faster deployment of new commitments. Multi-vintage stacking, aged dry powder and slow fundraising create scrutiny. The disciplined formulation links that scrutiny to LP liquidity constraints and realized-return pressure, not to a general shortening of fund investment periods. Distribution channels are the release valve: PwC notes that exit activity remains suppressed and that continuation vehicles and secondaries now carry much of the liquidity burden.
 
 ## Where Speed Is Real: Add-Ons
 
-Add-ons are the clearest acceleration engine in the market. According to Cherry Bekaert, add-on acquisitions accounted for 72.9 percent of all buyouts in 2025, holding steady with the five-year average. US data through H1 2025 shows 74.4 percent, and PitchBook reports 67.3 percent of European buyout activity in 2025, up from 63.4 percent at the end of 2021.
+Add-ons are the clearest acceleration engine in the market. According to [Cherry Bekaert](https://www.cbh.com/insights/reports/private-equity-report-2025-trends-and-2026-outlook/), add-on acquisitions accounted for 72.9 percent of all buyouts in 2025. US data through H1 2025 shows 74.4 percent, and [PitchBook](https://pitchbook.com/news/articles/add-on-deals-see-a-rebound-in-europe) data indicates add-ons represent approximately two-thirds of European buyout activity.
 
 Pre-underwritten platforms with defined acquisition pipelines can deploy capital faster than sponsors sourcing first-time targets. This is strategy-dependent. Add-ons create integration, financing and regulatory complexity, and they do not replace underwriting discipline. The sponsors most likely to benefit are those that built the platform and acquisition infrastructure before the market turned.
 
 ## Where Speed Is Financing, Not Process
 
-Private credit provides a genuine execution advantage in financing. Direct lenders can deliver indicative commitments in roughly 7 to 10 days, against 21 to 28 days for broadly syndicated processes, per industry analysis cited by ABF Journal. Certainty of terms is the deeper advantage: the mandate does not depend on a syndication group holding together through market moves.
+Private credit provides a genuine execution advantage in financing. Industry analysis cited by [ABF Journal](https://www.abfjournal.com/the-speed-premium-quantifying-private-credits-execution-advantage-in-middle-market-transactions/) reports indicative averages of 7 to 10 days for direct-lending commitments, against 21 to 28 days for broadly syndicated processes. Certainty of terms is the deeper advantage: the mandate does not depend on a syndication group holding together through market moves.
 
 That advantage is limited to financing. Due diligence, legal work, approvals and regulatory conditions remain unchanged. A faster financing commitment does not make the acquisition process fast. It makes the financing step certain, which is valuable and distinct.
 
 ## Where It Is Not Fast: Diligence, Regulation, Exits
 
-Valuation gaps have narrowed in some segments but have not disappeared. EY's US private equity insights describe cautious underwriting, deeper diligence and selective transaction activity. Cross-border execution still requires jurisdiction-specific legal, tax, employment, merger-control and FDI analysis. EU-level rules have improved certain procedures but have not eliminated the differences, per the EBA's analysis of obstacles to cross-border M&A, and new scrutiny layers such as foreign-subsidy review add time rather than remove it.
+Valuation gaps have narrowed in some segments but have not disappeared. EY's US private equity insights describe cautious underwriting, deeper diligence and selective transaction activity. Cross-border execution still requires jurisdiction-specific legal, tax, employment, merger-control and FDI analysis. EU-level rules have improved certain procedures but have not eliminated the differences, per the [EBA's analysis of obstacles to cross-border M&A](https://www.eba.europa.eu/sites/default/files/document_library/844126/Potential%20obstacles%20M&A.pdf), and new scrutiny layers such as foreign-subsidy review add time rather than remove it.
 
-The holding-period data is the strongest counterweight to the speed thesis. McKinsey's Global Private Markets Report 2026 records an average buyout holding period of 6.6 years, a record high and above the 6.1-year average of 2011 to 2020. More than 16 000 buyout-backed companies have now been held for over four years. Value creation in private equity is measured in years, not in quarters, and claims of observable performance improvements within 12 to 24 months apply to specific operational initiatives, not to the asset class as a whole.
+The holding-period data is the strongest counterweight to the speed thesis. [McKinsey's Global Private Markets Report 2026](https://www.mckinsey.com/industries/private-capital/our-insights/beating-the-odds-how-private-equity-firms-can-improve-exit-prospects) records an average buyout holding period of 6.6 years, a record high and above the 6.1-year average of 2011 to 2020. More than 16 000 buyout-backed companies have now been held for over four years. Value creation in private equity is measured in years, not in quarters, and claims of observable performance improvements within 12 to 24 months apply to specific operational initiatives, not to the asset class as a whole.
 
 ## What This Means for Principals
 
