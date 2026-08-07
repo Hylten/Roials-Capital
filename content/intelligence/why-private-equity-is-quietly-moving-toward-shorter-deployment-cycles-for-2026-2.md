@@ -15,7 +15,7 @@ author: "Roials Capital"
 
 ## The Selective Recovery
 
-Private equity activity recovered in 2025 and turned selective again in 2026. EY's Private Equity Pulse reports 110 announced deals in Q1 2026 valued at US$172 billion, approximately 1 800 miljarder SEK at prevailing rates, a 12 percent decline by value against Q1 2025. PwC's US Deals 2026 midyear outlook shows H1 2026 deal volume down 34 percent year over year, while average deal size rose nearly fourfold as capital concentrated in higher-conviction transactions.
+Private equity activity recovered in 2025 and became more selective in 2026. EY's Private Equity Pulse reports 110 announced deals in Q1 2026 valued at US$172 billion, approximately 1 800 miljarder SEK at prevailing rates, a 12 percent decline by value against Q1 2025. PwC's US Deals 2026 midyear outlook shows H1 2026 deal volume down 34 percent year over year, while average deal size rose nearly fourfold as capital concentrated in higher-conviction transactions.
 
 The thesis is not that deployment cycles are compressing across the market. The thesis is that deployment is becoming more selective, more concentrated and more operationally prepared, with some sponsors using add-ons and private credit to accelerate execution. These are different claims, and the evidence supports the second, not the first.
 
@@ -33,9 +33,9 @@ This is a demand for distributions and credible value realization, not simply fa
 
 ## Where Speed Is Real: Add-Ons
 
-Add-ons are the clearest acceleration engine in the market. Cherry Bekaert's 2025 report puts add-on acquisitions at 72.9 percent of all buyouts, steady with the five-year average. US data through H1 2025 shows 74.4 percent, and PitchBook reports 67.3 percent of European buyout activity in 2025, up from 63.4 percent at the end of 2021.
+Add-ons are the clearest acceleration engine in the market. According to Cherry Bekaert, add-on acquisitions accounted for 72.9 percent of all buyouts in 2025, holding steady with the five-year average. US data through H1 2025 shows 74.4 percent, and PitchBook reports 67.3 percent of European buyout activity in 2025, up from 63.4 percent at the end of 2021.
 
-Pre-underwritten platforms with defined acquisition pipelines can deploy capital faster than sponsors sourcing first-time targets. This is strategy-dependent. Add-ons create integration, financing and regulatory complexity, and they do not replace underwriting discipline. The sponsors that benefit are the ones that built the platform before the market turned.
+Pre-underwritten platforms with defined acquisition pipelines can deploy capital faster than sponsors sourcing first-time targets. This is strategy-dependent. Add-ons create integration, financing and regulatory complexity, and they do not replace underwriting discipline. The sponsors most likely to benefit are those that built the platform and acquisition infrastructure before the market turned.
 
 ## Where Speed Is Financing, Not Process
 
@@ -47,7 +47,7 @@ That advantage is limited to financing. Due diligence, legal work, approvals and
 
 Valuation gaps have narrowed in some segments but have not disappeared. EY's US private equity insights describe cautious underwriting, deeper diligence and selective transaction activity. Cross-border execution still requires jurisdiction-specific legal, tax, employment, merger-control and FDI analysis. EU-level rules have improved certain procedures but have not eliminated the differences, per the EBA's analysis of obstacles to cross-border M&A, and new scrutiny layers such as foreign-subsidy review add time rather than remove it.
 
-The holding-period data is the strongest counterweight to the speed thesis. McKinsey's Global Private Markets Report 2026 records an average buyout holding period of 6.6 years, a record high and above the 6.1-year average of 2011 to 2020. Value creation in private equity is measured in years, not in quarters, and claims of observable performance improvements within 12 to 24 months apply to specific operational initiatives, not to the asset class as a whole.
+The holding-period data is the strongest counterweight to the speed thesis. McKinsey's Global Private Markets Report 2026 records an average buyout holding period of 6.6 years, a record high and above the 6.1-year average of 2011 to 2020. More than 16 000 buyout-backed companies have now been held for over four years. Value creation in private equity is measured in years, not in quarters, and claims of observable performance improvements within 12 to 24 months apply to specific operational initiatives, not to the asset class as a whole.
 
 ## What This Means for Principals
 
