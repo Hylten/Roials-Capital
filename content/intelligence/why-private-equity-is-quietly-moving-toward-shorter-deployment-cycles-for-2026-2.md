@@ -57,4 +57,4 @@ Institutional readers verify claims. The strongest position is the defensible on
 
 ## Summary
 
-PE deployment is recovering unevenly. Capital concentrates in higher-conviction deals, add-ons and prepared pipelines, while diligence, regulation and exits remain time-intensive. EY, PwC, Cherry Bekaert, PitchBook and McKinsey data support selectivity and preparation, not universal cycle compression. Private credit shortens financing execution, not the full process, and average holding periods sit at a record high. Sponsors that are selective, prepared and certain of execution terms hold the advantage.
+PE deployment is recovering unevenly. Capital concentrates in higher-conviction deals, add-ons and prepared pipelines, while diligence, regulation and exits remain time-intensive. EY, PwC, Cherry Bekaert, PitchBook and McKinsey data support selectivity and preparation, not universal cycle compression. Private credit shortens financing execution, not the full process, and average buyout holding periods remain at historically high levels. Sponsors that are selective, prepared and certain of execution terms hold the advantage.
