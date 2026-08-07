@@ -2,7 +2,7 @@
 title: "Why Private Equity Deployment Is Becoming More Selective and More Operationally Prepared"
 slug: "why-private-equity-is-quietly-moving-toward-shorter-deployment-cycles-for-2026-2"
 description: "PE deployment is recovering unevenly. Capital is concentrating in higher-conviction deals, add-ons and prepared pipelines, while diligence, regulation and exits remain time-intensive. EY, PwC and McKinsey data show selectivity, not universal speed."
-date: "2025-06-27"
+date: "2026-08-07"
 tags: ["Private Equity", "Deployment", "Add-ons", "LP Dynamics"]
 categories: ["Intelligence"]
 canonical_url: "https://roialscapital.com/intelligence/why-private-equity-is-quietly-moving-toward-shorter-deployment-cycles-for-2026-2/"
