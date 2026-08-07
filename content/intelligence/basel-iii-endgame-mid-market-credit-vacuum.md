@@ -43,7 +43,7 @@ The Boston Fed research documents the same concern: private credit growth has be
 
 ## The Asset-Backed Response
 
-Asset-backed lending prices against collateral rather than the borrower's balance sheet. Inventory financing against verifiable stock, receivables purchase against audited ledgers and equipment facilities against appraised machinery each earn their return from the asset. Collateral reduces credit risk, but it does not bypass regulatory capital requirements altogether, and the operational burden is verification: the lender must see the asset, confirm the ledger and value the collateral on a live basis.
+Asset-backed lending prices primarily against collateral, while still considering the borrower. Inventory financing against verifiable stock, receivables purchase against audited ledgers and equipment facilities against appraised machinery each earn their return from the asset. Collateral reduces credit risk, but it does not bypass regulatory capital requirements altogether, and the operational burden is verification: the lender must see the asset, confirm the ledger and value the collateral on a live basis.
 
 Digital administration and automated valuation make this executable at mid-market scale, and industry commentary identifies this infrastructure as a contributor to asset-backed lending growth, per [Arcesium's analysis](https://www.arcesium.com/blog/basel-iii-us-banking-impact-mid-tier-banks-ai-ma). That infrastructure advantage is real, and it is one reason asset-backed structures have grown. It is not a regulatory loophole.
 
@@ -55,7 +55,7 @@ This is our commercial model, and we label it as such. The lending thresholds an
 
 ## The Jurisdictional Dimension
 
-The Endgame lands unevenly. European implementation through CRR3 leaves room for national discretion, and US rules were revised toward lower requirements for regional banks, per Arcesium. A mid-market borrower in a jurisdiction where bank retreat is fastest faces the most repricing, and a lender who operates across borders may be able to capture an opportunity where cross-border collateral law permits it.
+The Endgame lands unevenly. European implementation through CRR3 leaves room for national discretion, and US regulators proposed revised rules toward lower requirements for regional banks, per Arcesium. A mid-market borrower in a jurisdiction where bank retreat is fastest faces the most repricing, and a lender who operates across borders may be able to capture an opportunity where cross-border collateral law permits it.
 
 The execution variable is jurisdiction-specific legal analysis, not a uniform regulatory wave. Cross-border lenders must perfect security in the borrower's jurisdiction, and that work is different in every market.
 
