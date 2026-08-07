@@ -43,7 +43,6 @@ If not, discard it. If yes, integrate it at the asset-level, not the fund-level.
 - Tokenized real estate liquidity becomes most potent when embedded into a three-part capital chassis:
 
 1. Anchor equity block (non-token)
-
 2. Programmatic credit line (Asset-Based Lending)
 
 3. Tokenized mezzanine layer (fractional or institutional blocks) This tri-structure stabilizes senior underwriting while enabling a controlled liquidity-release layer through tokenized tranches.
@@ -76,7 +75,7 @@ Tokenization gives both. Fund-III becomes a high-transparency, high-discipline v
 
 - Special mandates align perfectly with tokenized infrastructure.
 
-Energy acquisition mandates between $50M–$250M (energy mandates) become easier to underwrite when the real assets behind the upstream or midstream exposure carry tokenized registries for equipment, land rights, leaseholds, and royalty structures. Transparency hardens assets. Hard assets attract capital. Capital accelerates deals. EU MiFID II acquisition pathways tighten compliance. Tokenized registries reduce reporting cycles. Cross-border PE structures become easier to validate. This is not digital novelty. It is regulatory alignment. Tokenization is compliance automation at scale. Private credit funds gain most. They price risk. They require collateral certainty. Tokenized real estate supplies it. Senior lenders can now see encumbrances live. Junior lenders can track subordination levels. Mezzanine investors gain visibility into payment waterfalls. Everyone gains clarity. Clarity creates velocity.
+Energy acquisition mandates between $50M-$250M (energy mandates) become easier to underwrite when the real assets behind the upstream or midstream exposure carry tokenized registries for equipment, land rights, leaseholds, and royalty structures. Transparency hardens assets. Hard assets attract capital. Capital accelerates deals. EU MiFID II acquisition pathways tighten compliance. Tokenized registries reduce reporting cycles. Cross-border PE structures become easier to validate. This is not digital novelty. It is regulatory alignment. Tokenization is compliance automation at scale. Private credit funds gain most. They price risk. They require collateral certainty. Tokenized real estate supplies it. Senior lenders can now see encumbrances live. Junior lenders can track subordination levels. Mezzanine investors gain visibility into payment waterfalls. Everyone gains clarity. Clarity creates velocity.
 
 - Tokenized real estate becomes most powerful when used as:
 - A refinancing accelerator
@@ -117,4 +116,4 @@ Request confidential capital audit.
 
 ## Summary
 
-Institutional real estate liquidity tokenization is a structural issue, not a technological trend. Efficiency derives from legal architecture, jurisdiction, and regulatory sequencing—not the blockchain itself. Fund-III acceleration requires asset-level tokenization integration with four critical layers: legal wrapper, custody registry, regulated settlement, and counterparty segmentation.
+Institutional real estate liquidity tokenization is a structural issue, not a technological trend. Efficiency derives from legal architecture, jurisdiction, and regulatory sequencing, not the blockchain itself. Fund-III acceleration requires asset-level tokenization integration with four critical layers: legal wrapper, custody registry, regulated settlement, and counterparty segmentation.

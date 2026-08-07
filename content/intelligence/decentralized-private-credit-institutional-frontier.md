@@ -46,7 +46,7 @@ It is architectural decentralization: multi-jurisdictional enforceability, multi
 - Controlled Liquidity Rails: predictable windows with predictable seniority.
 - Hybrid Collateralization: combining resource assets, receivables, cashflow rights, and land energy rights.
 
-This is not theoretical. Energy operators under energy mandates in the $50M–$250M range now prefer decentralized private credit because the enforcement stack moves faster than traditional asset-backed lending. Asset-Based Lending remains essential but incomplete. Strategic Collateralization completes the stack.
+This is not theoretical. Energy operators under energy mandates in the $50M-$250M range now prefer decentralized private credit because the enforcement stack moves faster than traditional asset-backed lending. Asset-Based Lending remains essential but incomplete. Strategic Collateralization completes the stack.
 
 - Fund-III CAPITAL RAISING: THE ARCHITECTURE OF TRUST Kapitalanskaffning for Fund-III is no longer about track records.
 

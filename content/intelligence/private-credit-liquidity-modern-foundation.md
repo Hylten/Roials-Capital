@@ -123,4 +123,4 @@ The objective is clarity, not commitment.
 
 ## Summary
 
-Regulatory displacement since 2018 has positioned private credit as the stabilizing backbone of institutional portfolios, as traditional lenders exited segments with robust assets and stable cash flows. Allocators now dictate capital access for mid-market companies, prioritizing risk control through covenants, seniority, and contractual cash flow analysis—a strategy Roials Capital deploys in Fund-III, ABL liquidity, and energy mandates. This approach ensures disciplined exposure to high-conviction opportunities.
+Regulatory displacement since 2018 has positioned private credit as the stabilizing backbone of institutional portfolios, as traditional lenders exited segments with robust assets and stable cash flows. Allocators now dictate capital access for mid-market companies, prioritizing risk control through covenants, seniority, and contractual cash flow analysis, a strategy Roials Capital deploys in Fund-III, ABL liquidity, and energy mandates. This approach ensures disciplined exposure to high-conviction opportunities.

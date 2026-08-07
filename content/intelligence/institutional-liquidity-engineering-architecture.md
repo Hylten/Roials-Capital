@@ -87,7 +87,6 @@ In Strategic Collateralization, stewardship manifests through adherence to four 
 Stewardship requires maintaining seniority hierarchies, protecting cash flows, and safeguarding future optionality.
 
 2. Velocity without Recklessness Liquidity must increase opportunity velocity without creating destabilizing leverage dynamics.
-
 3. Multi Decade Vision High value assets require planning horizons beyond single fund lifecycles.
 
 Liquidity architecture should extend the operational horizon, not compress it.
@@ -98,7 +97,7 @@ Liquidity architecture should extend the operational horizon, not compress it.
 
 Allocators must navigate a capital landscape where structural inefficiencies produce both friction and opportunity. The institutions that succeed in this environment will be those that internalize capital structuring as a strategic discipline rather than a transactional solution. A comprehensive evaluation requires assessment of collateral behavior, balance sheet maturity, capital stack cohesion, and opportunity velocity. Institutions often discover that dormant value can be unlocked through structural engineering rather than additional equity deployment. Roials Capital provides confidential strategy audits for allocators analyzing Fund-III+ capital formation, high-value asset liquidity pathways, or energy sector alignment through its energy operations technical framework. The objective is to equip decision-makers with the operational intelligence required to navigate the current regime.
 
-##
+## 
 
 ## Summary
 

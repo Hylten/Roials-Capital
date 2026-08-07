@@ -34,7 +34,6 @@ Across all tiers, the dominant question has shifted from “Where does the yield
 Predictability beats peak performance. Asset hardening beats velocity. Institutional allocators want three things:
 
 1. Structural durability.
-
 2. Jurisdictional insulation.
 
 3. Controlled liquidity channels with traceable exit paths.
@@ -48,11 +47,9 @@ This cycle is not a rotation. It is a reconfiguration.
 There are five global allocation regimes in motion:
 
 1. The North American model: Hard-asset dominance.
-
 2. The MENA sovereign model: Asset‑anchored national endurance.
 
 3. The EU MiFID II securitization corridor.
-
 4. The APAC reconstruction cycle.
 
 5. The LATAM extraction‑to‑infrastructure pivot.
@@ -109,11 +106,9 @@ Buyouts are gateways. Buyouts are stabilization mechanisms. With add‑ons funct
 We build buyouts like engineers. Not financiers. We build them with four principles:
 
 1. Hard assets first.
-
 2. Sector redundancy.
 
 3. Controlled leverage.
-
 4. Add-on integration cycles below
 
 12 months. This is why Fund-III is not chasing hypergrowth. It is chasing permanence.
@@ -137,23 +132,18 @@ Sovereign capital is moving from passive allocation to strategic enforcement. Th
 Jurisdictions want jurisdiction. Capital wants home bases. Fund‑III’s hard-asset profile reduces repatriation risk and increases compatibility with sovereign frameworks. Movement Two: Asset Nationalization Lite Governments prefer indirect control through regulation rather than outright expropriation. Hard‑asset private capital with sovereign alignment becomes politically favored. Our energy and industrial exposures create alignment. Movement Three: Infrastructure Domination Modern states do not want revenue. They want infrastructure dominion. Supply chains. Energy stacks. Critical industry nodes. Fund-III is built for this. We acquire nodes. We stabilize nodes. We align nodes with sovereign regimes. THE Fund-III POSITIONING THESIS Eleven points:
 
 1. Hard assets.
-
 2. Long horizon.
 
 3. Add-on dominance.
-
 4. Sovereign alignment.
 
 5. Energy adjacency.
-
 6. Industrial stability.
 
 7. Asset-Based Lending precision.
-
 8. Jurisdictional breadth.
 
 9. Asset-Backed Frameworks.
-
 10. Regime compatibility.
 
 11. Durable navigation.

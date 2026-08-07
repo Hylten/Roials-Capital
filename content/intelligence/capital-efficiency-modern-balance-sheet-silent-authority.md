@@ -223,4 +223,4 @@ Fund-III must embody that principle.
 
 ## Summary
 
-Principal authority dictates modern capital allocation: structural precision via jurisdictional arbitrage, cross-border custody, and asset hardening to establish permanent, immune, and mobile authority. Three layers—asset, instrument, and sovereign—drive efficiency, where architecture, not strategy, determines long-term value compression and exit leverage. Execution governs outcomes.
+Principal authority dictates modern capital allocation: structural precision via jurisdictional arbitrage, cross-border custody, and asset hardening to establish permanent, immune, and mobile authority. Three layers, asset, instrument, and sovereign, drive efficiency, where architecture, not strategy, determines long-term value compression and exit leverage. Execution governs outcomes.

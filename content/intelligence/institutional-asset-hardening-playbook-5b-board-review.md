@@ -196,4 +196,4 @@ This briefing stands on one metric: Institutional Survivability Index = 0. 87 or
 
 ## Summary
 
-A $5B board review demands structural control, not improvisation. Asset hardening through balance-sheet solidity, jurisdictional security, and resilient revenue architecture establishes institutional credibility. Capital follows authority—critical to securing and expanding the fund’s mandate.
+A $5B board review demands structural control, not improvisation. Asset hardening through balance-sheet solidity, jurisdictional security, and resilient revenue architecture establishes institutional credibility. Capital follows authority, critical to securing and expanding the fund’s mandate.

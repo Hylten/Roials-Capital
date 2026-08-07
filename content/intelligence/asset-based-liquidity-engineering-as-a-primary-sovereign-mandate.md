@@ -90,7 +90,6 @@ The principal is not inside the market. The principal stands above it. Asset bas
 Then they rotate liquidity into undervalued assets during market stress. This produces asymmetric gains. The sovereign principal grows most when markets contract. The Mandate for Fund Managers Fund-III+ managers face three critical pressures.
 
 1. Institutional reporting.
-
 2. Redemption cycles.
 
 3. Allocation scrutiny.

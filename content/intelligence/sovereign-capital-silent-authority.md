@@ -35,7 +35,6 @@ Asymmetry. Sovereign capital does not chase novelty. It acquires foundational as
 is stability through scale.
 
 1. Risk neutralization through jurisdictional diversification
-
 2. Strategic autonomy from Western banking volatility
 
 3. Long-term real asset hardening in inflation-positive regimes Money moves because sovereignty demands insulation.

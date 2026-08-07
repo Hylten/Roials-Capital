@@ -138,7 +138,6 @@ The stewardship filter is composed of five evaluative criteria:
 This requires clear separation between productive uses of leverage and speculative uses that erode long term optionality.
 
 2. Balance Sheet Preservation A disciplined approach to leverage ensures that corporate entities retain maneuverability across rate cycles, recessionary environments, and sector volatility.
-
 3. Transparency as a Governance Instrument Institutions increasingly require reporting depth that surpasses traditional LP updates.
 
 Transparency is not a communication aesthetic. It is a governance mechanism that establishes mutual accountability between GP and LP.
@@ -158,11 +157,9 @@ energy operations exemplifies this through rigorous AER engagement and proactive
 The allocator evaluating alignment in the modern private credit environment operates within constraints that demand precision. The objective is not yield maximization. It is institutional durability. The decision lens is therefore shaped by the following analytical considerations:
 
 1. Structural Fit Does the GP align with the LPs required governance model, reporting cadence, and risk tolerance across cycles.
-
 2. Operational Intelligence Does the strategy incorporate sector specific technical knowledge sufficient to de risk the credit and support collateral longevity.
 
 3. Capital Efficiency Are liquidity facilities, buyout financing structures, and add on strategies engineered for stability rather than velocity.
-
 4. Multi Cycle Proof Does the GP maintain underwriting consistency across Fund-I, Fund-II, and Fund-III, demonstrating discipline that can survive rate shifts and economic contraction.
 
 5. Introduction Pathway Has the LP been aligned with a vehicle or mandate that reflects genuine strategic suitability.

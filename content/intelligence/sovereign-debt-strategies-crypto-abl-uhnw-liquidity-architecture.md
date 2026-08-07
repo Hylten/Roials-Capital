@@ -113,7 +113,6 @@ Liquidity tools cannot distort long horizon strategy. They must support it witho
 For UHNWIs, family offices, and institutional LPs calibrating their liquidity architecture, three questions define the current landscape.
 
 1. Does the liquidity mechanism protect long duration allocations.
-
 2. Does the structure reduce jurisdictional, counterparty, and behavioral risk.
 
 3. Does the credit utility enhance opportunity velocity without compromising capital integrity.

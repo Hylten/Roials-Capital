@@ -129,7 +129,7 @@ DECISION-MAKING LENS FOR ALLOCATORS The allocator navigating the 2026 landscape 
 
 The next step for most allocators is a confidential calibration session to map strategic alignment and validate counterparty suitability.
 
-##
+## 
 
 ## Summary
 

@@ -21,7 +21,6 @@ The capital vacuum in North America's energy sector is a consequence of regulato
 The global capital environment has transitioned from an era of indiscriminate liquidity to one defined by balance sheet stratification. Post-pandemic monetary acceleration created three distortions that now define allocator decision making:
 
 1. The compression of real yields relative to capital risk.
-
 2. The erosion of mid-market bank lending capacity due to regulatory tightening under Basel III and its European derivatives.
 
 3. The bifurcation between assets with intrinsic cash flow visibility and assets dependent on narrative-driven valuations.
@@ -81,7 +80,6 @@ For allocators seeking capital preservation, the partnership model aligns expert
 The focus is on capital preservation, duration matching, and risk weighted exposure rather than product orientation.
 
 2. Market Navigation The firm provides technical and structural mapping of cross border capital flows, identifying where regulatory asymmetries create opportunity or risk for LP capital.
-
 3. Institutional Introduction
 
 Roials Capital introduces allocators to operating partners, including select institutional operators in North American energy, or specialized managers across Fund-III buyout strategies, Asset-Based Lending facilities, or special mandates. The outcome is access to institutional grade partners with transparent operational track records.

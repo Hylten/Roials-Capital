@@ -71,7 +71,6 @@ Roials Capital acts as a strategic navigator for institutions rather than a prom
 rather than distribution.
 
 2. Cross border structuring that harmonizes European LP requirements with North American private credit frameworks.
-
 3. Neutral diligence orchestration where the allocator retains full decision authority.
 
 4. Alignment with operational partners who demonstrate institutional grade behavior.
@@ -108,8 +107,8 @@ Does the ecosystem support institutional reporting, conflict management, and cro
 
 Does the structure allow for dynamic capital deployment and balance sheet optimization during unexpected cycles? Roials Capital provides institutional LPs and GPs with a confidential strategy audit to evaluate alignment across these four dimensions and calibrate portfolio posture accordingly.
 
-##
+## 
 
 ## Summary
 
-Structural dislocation—not asset scarcity—defines global capital allocation, as traditional liquidity channels decouple from real asset productivity. Competitive advantage hinges on cross-border balance-sheet precision and strategic collateralization, targeting inefficiencies in European mid-market buyouts and Canadian heavy oil. Capital formation infrastructure and collateral strategy remain the pillars of institutional stability in this paradigm.
+Structural dislocation, not asset scarcity, defines global capital allocation, as traditional liquidity channels decouple from real asset productivity. Competitive advantage hinges on cross-border balance-sheet precision and strategic collateralization, targeting inefficiencies in European mid-market buyouts and Canadian heavy oil. Capital formation infrastructure and collateral strategy remain the pillars of institutional stability in this paradigm.

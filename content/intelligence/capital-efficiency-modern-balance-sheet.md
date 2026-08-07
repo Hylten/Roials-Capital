@@ -96,7 +96,7 @@ DECISION-MAKING LENS FOR THE ALLOCATOR The allocator operating in 2026 faces an 
 
 This calibration produces principal authority, strengthens acquisition readiness, and increases Opportunity Velocity without destabilizing the equity foundation. Roials Capital supports allocators seeking disciplined clarity, technical accuracy, and structural alignment across their Fund-III roadmap, liquidity frameworks, and energy introductions.
 
-##
+## 
 
 ## Summary
 

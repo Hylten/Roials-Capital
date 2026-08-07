@@ -55,11 +55,9 @@ Monetization Architecture begins with a simple principle: collateral beats liqui
 Custodial frameworks. Jurisdictional structuring.
 
 2. Determine target liquidity: working capital, acquisitions, operational runway, co-invest commitments.
-
 3. Design collateral envelope: blend of Bitcoin, private shares, and hard assets.
 
 4. Construct credit spine: private credit, Asset-Based Lending, term facilities, or hybrid structures.
-
 5. Embed institutional protections: multi-sig governance, insolvency isolation, jurisdictional fail-safes.
 
 6. Deploy.
@@ -75,7 +73,6 @@ Bitcoin provides durability. Fund-III GRAVITY Capital raising dominates this cyc
 Family offices operate on one axis: continuity. They must withstand shocks. They must operate across generations. This demands stable stores of value. Bitcoin qualifies because it cannot be debased. It cannot be frozen easily. It cannot be inflated away. It behaves like gold but functions like cash. A new gold standard must satisfy three conditions:
 
 1. Independence from sovereign manipulation.
-
 2. Global portability.
 
 3. Supply integrity.

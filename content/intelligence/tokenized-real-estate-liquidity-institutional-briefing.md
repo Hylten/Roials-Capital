@@ -115,7 +115,6 @@ Stewardship is not a moral abstraction. It is a technical discipline that requir
 Allocators evaluating tokenization within real estate and Fund-III expansion pipelines should internalize several structural lenses.
 
 1. Liquidity as an Operating Variable Tokenization transforms liquidity into a controllable variable, not a market dependency.
-
 2. Replacement Cost Stability Tokenized liquidity does not change replacement cost physics.
 
 It improves the allocator’s ability to mobilize capital without asset divestiture.
@@ -134,4 +133,4 @@ The process reduces reliance on high friction refinancing and credit line utiliz
 
 ## Summary
 
-Structural inefficiencies in traditional ownership and settlement chains—not valuation issues—are resolved by tokenized real estate liquidity. Rising capital intensity and regulatory demands make blockchain-based ownership verification and real-time settlement essential for institutional capital allocation. These mechanisms eliminate legacy bottlenecks in asset transfer and custody.
+Structural inefficiencies in traditional ownership and settlement chains, not valuation issues, are resolved by tokenized real estate liquidity. Rising capital intensity and regulatory demands make blockchain-based ownership verification and real-time settlement essential for institutional capital allocation. These mechanisms eliminate legacy bottlenecks in asset transfer and custody.

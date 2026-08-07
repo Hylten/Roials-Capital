@@ -53,7 +53,6 @@ This transforms the asset class from a depletion risk to an endurance asset.
 Replacement cost inflation in Alberta has increased the strategic significance of existing infrastructure by 30 percent to 60 percent since 2020.
 
 2020. This infrastructure embeddedness is a primary driver of the asset hardening trend.
-
 5. Cash Flow Stability Through Thermal Control Thermal control acts as a yield stabilizer.
 
 Since viscosity decreases predictably with heat, operators can modulate steam to maintain production consistency. This stability is why institutional allocators increasingly classify thermal heavy oil not as speculative upstream but as quasi infrastructure. These mechanics define the operational reliability of the Alberta heavy oil archetype. energy operations, our strategic partner, specializes in this reservoir class and maintains operational control frameworks designed to maximize thermal efficiency and minimize steam to oil ratios. The resulting operational intelligence forms the backbone of institutional confidence.
@@ -109,11 +108,9 @@ Capital formation and operational deployment must reflect both economic rational
 The Sovereign Future requires a new decision lens built on structural, operational, and jurisdictional clarity. Allocators face a landscape defined by scarcity, regulatory fragmentation, and the primacy of real assets. Within this environment, four decision coordinates provide directional stability.
 
 1. Structural Position Does the asset class occupy a structurally advantaged position due to regulatory or supply constraints.
-
 2. Operational Reliability Does the operational partner have measurable technical precision and governance alignment.
 
 3. Balance Sheet Hardening Does the opportunity strengthen the allocator’s multi cycle resilience rather than expand duration exposure.
-
 4. Capital Stewardship Is the deployment aligned with disciplined resource management, lower waste, and long term capital architecture.
 
 Capital stewardship at Roials Capital ensures that deployment is aligned with disciplined resource management, lower waste, and a long-term capital architecture.

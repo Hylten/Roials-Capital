@@ -139,7 +139,6 @@ Assets should be capable of sustaining or appreciating in functional utility ove
 Institutional allocators are navigating a capital environment where yield functions as the primary marker of asset resilience, balance sheet integrity, and liquidity optionality. True asset hardening emerges when yield is stable, repeatable, and grounded in operational mechanics rather than superficial metrics. Across buyouts, private credit structures, and North American energy operations, the allocator’s objective is to identify yield profiles that enhance structural predictability rather than introduce latent volatility. The pathway forward involves:
 
 1. Identification of asset classes where yield is physics based, not sentiment based.
-
 2. Calibration of portfolio construction around operationally derived return streams.
 
 3. Engagement with partners capable of delivering unfiltered technical intelligence and institutional grade introductions.
@@ -148,4 +147,4 @@ Roials Capital provides this navigational function. A confidential strategy audi
 
 ## Summary
 
-Regulatory drift and bank retreat—not asset-quality deterioration—drive the structural capital shortfall in North American energy and lower middle-market private credit. Yield stabilization has shifted from a performance metric to a balance-sheet tool determining asset hardening levels for institutional investors. Yield now dictates whether an asset absorbs liabilities or consumes liquidity.
+Regulatory drift and bank retreat, not asset-quality deterioration, drive the structural capital shortfall in North American energy and lower middle-market private credit. Yield stabilization has shifted from a performance metric to a balance-sheet tool determining asset hardening levels for institutional investors. Yield now dictates whether an asset absorbs liabilities or consumes liquidity.

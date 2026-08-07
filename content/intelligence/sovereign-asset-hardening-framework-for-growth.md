@@ -152,15 +152,13 @@ Stewardship is the guardrail that filters out degradation.
 Allocators reviewing the sovereign asset hardening framework should evaluate decisions through:
 
 1. Structural Alignment Does the asset class or operator align with predictable operational mechanics and disciplined capital use.
-
 2. Balance Sheet Reinforcement Will the allocation strengthen or weaken the system as a whole.
 
 3. Opportunity Velocity Does the allocator have sufficient structural readiness to act on dislocations when they emerge.
-
 4. Governance Compatibility Does the counterparty operate with a stewardship aligned ethos.
 
 Roials Capital provides confidential Strategy Audits, Portfolio Calibration assessments, and Institutional Introduction pathways for allocators seeking sovereign alignment. The objective is disciplined clarity, not solicitation.
 
 ## Summary
 
-North America’s energy sector faces structural capital shortages due to regulatory drift, not resource depletion. Institutional investors deploying capital through *sovereign asset hardening*—a discipline converting liquidity into strategically calibrated capital—deliver sustainable returns via predictable assets instead of speculative themes. The framework remains sector-agnostic, driving stable growth across multi-cycle environments by transforming capital from exposed instruments into controlled resources.
+North America’s energy sector faces structural capital shortages due to regulatory drift, not resource depletion. Institutional investors deploying capital through *sovereign asset hardening*, a discipline converting liquidity into strategically calibrated capital, deliver sustainable returns via predictable assets instead of speculative themes. The framework remains sector-agnostic, driving stable growth across multi-cycle environments by transforming capital from exposed instruments into controlled resources.

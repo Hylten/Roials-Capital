@@ -78,7 +78,6 @@ They allocate to GPs whose workflow removes friction and demonstrates inevitabil
 Time-compressed due diligence, verified succession-ready sellers, and pre-cleared industrial families across EU and NA.
 
 5. Fully aligned private credit partners
-
 6. Add‑on ecosystems mapped 18 months ahead Deployment speed becomes the strongest fundraising signal for Fund‑III and Fund‑IV entries.
 
 You raise because you are active. You deploy because you are aligned. You attract capital because you eliminate uncertainty.

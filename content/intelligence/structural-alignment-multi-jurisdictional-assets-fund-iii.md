@@ -31,7 +31,6 @@ The post 2020 capital regime is characterized by fragmentation across three sphe
 These spheres do not operate convergently. The misalignment between regulatory intention and operational reality has produced a structural gap that Fund-III allocators are exploiting through multi jurisdictional holdings. The mechanics are straightforward.
 
 1. European institutions face rising solvency pressures and reduced appetite for high beta exposures.
-
 2. U.S. private credit funds seek collateral dense assets with repeatable cash flow signatures, but prefer lower operational complexity.
 
 3. Canadian energy operators are undercapitalized due to ESG capital restrictions that are increasingly decoupled from real asset fundamentals.
@@ -52,7 +51,6 @@ Energy mechanics In the Alberta basin, the most stable production regimes remain
 These mechanisms create an asset class that is operationally intensive but financially stable. This is the reason institutional allocators with risk weighted capital mandates are reassessing the physics rather than the narratives. The asset class is not speculative. It is mechanical. Financial mechanics For Fund-III stage buyouts and add ons, the current environment rewards allocators who maintain strict discipline in three structural domains.
 
 1. Loan to value curves calibrated to observable collateral rather than forward projections.
-
 2. Cash flow waterfalls that prioritize operational stability and maintenance capital over distributable yield.
 
 3. Structural seniority that prevents cross contamination of assets across jurisdictions without explicit consent architecture.
@@ -73,7 +71,6 @@ This is where Roials Capital operates as the institutional navigator. The firm i
 Roials Capital structures its work through three channels.
 
 1. Kapitalanskaffning for Fund-III, focused on buyouts and add ons with regulatory clarity and predictable revenue architecture.
-
 2. Asset based lending and liquidity engineering facilities for operators requiring working capital or acquisition liquidity without equity dilution.
 
 3. Special mandates including select institutional operators energy allocations between 50M and 250M and EU MiFID II aligned acquisition strategies.

@@ -102,4 +102,4 @@ They provide leverage across assets that traditional banks cannot price, liquidi
 
 ## Summary
 
-Sovereign crypto banks resolve UHNW liquidity gaps through jurisdiction-agnostic credit solutions that preserve ownership and bypass regulatory bottlenecks. Roials Capital serves as the institutional architect in this segment, with Asset-Backed Frameworks ensuring precision and discretion. Traditional banking models fail to accommodate complex, non-linear assets—sovereign infrastructure and decentralized management provide the required solution.
+Sovereign crypto banks resolve UHNW liquidity gaps through jurisdiction-agnostic credit solutions that preserve ownership and bypass regulatory bottlenecks. Roials Capital serves as the institutional architect in this segment, with Asset-Backed Frameworks ensuring precision and discretion. Traditional banking models fail to accommodate complex, non-linear assets, sovereign infrastructure and decentralized management provide the required solution.

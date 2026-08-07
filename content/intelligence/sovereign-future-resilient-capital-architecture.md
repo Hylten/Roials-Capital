@@ -136,7 +136,7 @@ Tri-jurisdiction design builds an unbreakable system:
 - EU provides acquisition depth.
 - Gulf provides permanence.
 
-This is the sovereign triangle. The architecture is deliberate, with capital resilience emerging from geographic asymmetry—cycles cannot hit all three pillars simultaneously. Machine-gun precision. No drift. Stay sharp. SECTION 6: OPERATIONAL HARDENING
+This is the sovereign triangle. The architecture is deliberate, with capital resilience emerging from geographic asymmetry, cycles cannot hit all three pillars simultaneously. Machine-gun precision. No drift. Stay sharp. SECTION 6: OPERATIONAL HARDENING
 
 - THE CORE OF Fund-III Fund-III must be the most operationally hardened vehicle in the Roials Capital family.
 
@@ -192,4 +192,4 @@ To proceed, request a confidential capital audit.
 
 ## Summary
 
-Sustainability, not growth, defines Fund-III’s mandate: structural immunity is achieved through disciplined jurisdictional design, hard-bounded capital, and adaptive returns. Five pillars—institutional depth, cross-border arbitrage, hard-asset underwriting, capital structuring, and permanent mandate—construct an antifragile architecture independent of systemic liquidity and regulatory risk. LP capital will be sourced from uncorrelated zones (U.S., Nordics, Gulf States, EU) to ensure multi-regime compatibility and cycle resilience.
+Sustainability, not growth, defines Fund-III’s mandate: structural immunity is achieved through disciplined jurisdictional design, hard-bounded capital, and adaptive returns. Five pillars, institutional depth, cross-border arbitrage, hard-asset underwriting, capital structuring, and permanent mandate, construct an antifragile architecture independent of systemic liquidity and regulatory risk. LP capital will be sourced from uncorrelated zones (U.S., Nordics, Gulf States, EU) to ensure multi-regime compatibility and cycle resilience.

@@ -21,7 +21,6 @@ The capital vacuum in North American and European private markets is driven by r
 Private markets entered a new operational regime in 2024 to address structural liquidity constraints and evolving allocator demands.
 
 2026. The shift is characterized by four macro dislocations that institutional allocators cite as primary drivers of liquidity reallocation.
-
 1. Capital Friction.
 
 Basel III and IV requirements increased capital charges for certain exposures, reducing bank appetite for middle market leveraged credit. This created a structural opening for private credit funds with flexible mandates and cross collateral capacity.

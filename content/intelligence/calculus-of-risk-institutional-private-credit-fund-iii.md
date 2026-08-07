@@ -145,7 +145,6 @@ Case studies. Enforcement wins. Workouts executed with precision. LPs want to se
 Diligence flow. Origination governance. Execution cadence. LPs back systems.
 
 5. Present repeatable alpha mechanics Funds do not scale on “unique deals.” They scale on repeatable processes that work across cycles.
-
 6. Provide full-fund liquidity contour LPs want to see exactly how cash enters, moves, accumulates, and exits.
 
 Uncertainty kills commitment. Capital raises itself when structure speaks. INSTITUTIONAL BEHAVIOR: HOW LPs MAKE DECISIONS TODAY LPs have compressed their evaluation cycle. They now ask:

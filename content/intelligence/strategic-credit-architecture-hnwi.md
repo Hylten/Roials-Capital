@@ -149,4 +149,4 @@ Request a confidential capital audit.
 
 ## Summary
 
-Mispriced covenants signal systemic fragility before markets react, exposing operational decay masked by cosmetic adjustments. The private credit regime has shifted: institutional discipline now demands asset-level truth over narratives, penalizing retail structures and misaligned risk pricing. Entrepreneurs must adopt deliberate credit architecture, anchored in stressed LTV curves (52–58%) and cash-flow durability, to secure capital beyond Fund-II.
+Mispriced covenants signal systemic fragility before markets react, exposing operational decay masked by cosmetic adjustments. The private credit regime has shifted: institutional discipline now demands asset-level truth over narratives, penalizing retail structures and misaligned risk pricing. Entrepreneurs must adopt deliberate credit architecture, anchored in stressed LTV curves (52-58%) and cash-flow durability, to secure capital beyond Fund-II.

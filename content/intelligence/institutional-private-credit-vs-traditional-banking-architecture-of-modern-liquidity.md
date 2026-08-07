@@ -105,21 +105,19 @@ This aligns with the principle in disciplined balance sheet management, where th
 Whether in energy, manufacturing, or technology, durability enhances portfolio resilience. Stewardship requires intentional architecture, not reactive behavior. Private credit provides this structure because its discipline is rooted in covenant-based governance and operational intelligence. DECISION-MAKING LENS FOR ALLOCATORS The strategic question for institutional allocators is no longer whether private credit will replace traditional lending. It already has. The operative question is how to position capital within this architecture to optimize resilience, velocity, and transparency. Key evaluation dimensions include:
 
 1. Execution reliability under stressed timelines Fund-III managers that maintain underwriting velocity hold a competitive advantage in acquisition environments.
-
 2. Sector alignment and operator calibration Allocators must evaluate whether the GP demonstrates deep operational domain expertise.
 
 In energy, energy operations exemplifies the required alignment between technical operations and financial engineering.
 
 3. Liquidity architecture across the capital stack Funds capable of integrating Asset-Based Lending, senior secured notes, and transitional credit into a unified framework provide stronger downside protection.
-
 4. Covenant frameworks that provide clarity rather than friction High-quality private credit strategies use covenants to enforce alignment, not to penalize operators.
 
 5. Long-term alignment with stewardship principles Institutional allocators increasingly prioritize governance, capital responsibility, and multi-cycle survivability.
 
 Strategies built on stewardship maintain durability across interest rate cycles. Roials Capital supports allocators through confidential strategy audits and portfolio calibration reviews, ensuring alignment with long-term capital responsibility. The objective is to align institutional capital with the correct liquidity architecture, enabling precise navigation across markets that demand technical intelligence rather than generalist assumptions.
 
-##
+## 
 
 ## Summary
 
-Regulatory compression through Basel IV and bank consolidation creates structural credit shortages in the traditional banking sector, forcing a shift to institutional private credit for mid-market loans and sponsor financing. Four macro trends—higher capital requirements, duration aversion, sponsors’ accelerated demands, and a flight to direct lending—solidify private credit as the primary source of modern liquidity. Institutional adoption of private credit is now irreversible.
+Regulatory compression through Basel IV and bank consolidation creates structural credit shortages in the traditional banking sector, forcing a shift to institutional private credit for mid-market loans and sponsor financing. Four macro trends, higher capital requirements, duration aversion, sponsors’ accelerated demands, and a flight to direct lending, solidify private credit as the primary source of modern liquidity. Institutional adoption of private credit is now irreversible.

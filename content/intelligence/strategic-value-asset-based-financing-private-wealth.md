@@ -138,11 +138,9 @@ ABL supports this shift because it is inherently tied to operational productivit
 Asset Based Financing should be evaluated not as a product but as a structural instrument that recalibrates the allocator's strategic architecture. The following evaluation matrix serves as a lens for institutional and private wealth decision makers.
 
 1. Balance Sheet Optimization Does the portfolio include real assets or operating entities that can support collateral anchored liquidity without endangering cash flow stability?
-
 2. Opportunity Velocity Is the allocator or GP experiencing delays in executing acquisitions, add ons, or operational expansions due to capital timing mismatches?
 
 3. Counterparty Structure Does the allocator require specialized partners such as select institutional operators for energy transactions or regulated entities for EU MiFID II operations?
-
 4. Cross Jurisdictional Coordination Is the asset base spread across multiple regulatory environments where structured capital introductions can reduce friction?
 
 5. Stewardship Benchmarking Does the family office or institutional allocator prioritize responsible leverage, capital hygiene, and asset preservation?

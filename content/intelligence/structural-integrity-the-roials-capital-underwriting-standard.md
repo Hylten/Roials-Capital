@@ -154,7 +154,6 @@ Market Shifts Above 21B The Institutional Transition Window Across global market
 Roials Capital anticipated this shift years earlier. This is why our underwriting systems were designed for institutional thresholds from inception. Four macro forces drive this transition.
 
 1. regulatory tightening
-
 2. liquidity fragmentation 3. valuation compression
 
 4. counterparty uncertainty Firms without structural integrity are being filtered out.

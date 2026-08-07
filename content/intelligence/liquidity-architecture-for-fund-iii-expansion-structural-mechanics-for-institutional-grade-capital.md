@@ -25,7 +25,6 @@ Liquidity Architecture Defined Liquidity architecture is the discipline of creat
 It is about structure. The architecture of liquidity at Roials Capital is shaped by three principles.
 
 1. Collateral integrity across cycles.
-
 2. Velocity control through measured liquidity facility to value.
 
 3. A foundation built on principal authority, not promotional noise.
@@ -86,7 +85,6 @@ Risk Engineering as a Foundation Liquidity without risk engineering is disorder.
 Roials Capital positions itself between these extremes. Risk engineering in Fund-III operates with three pillars.
 
 1. Structural integrity of collateral classes.
-
 2. Behavioral modeling of asset volatility under stress.
 
 3. Multi tier exposure evaluation across time horizons.

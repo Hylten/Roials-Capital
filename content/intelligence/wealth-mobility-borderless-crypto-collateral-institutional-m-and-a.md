@@ -137,11 +137,9 @@ Speed is an advantage only when compliance is synchronized. Stewardship requires
 The allocator evaluating the use of borderless crypto collateral for Fund-III or private credit deployment requires a structured decision making lens. Five questions determine alignment.
 
 1. Does the allocator require cross border liquidity that moves faster than traditional banking systems allow If yes, Wealth Mobility architecture provides operational advantage.
-
 2. Does the allocator require collateral that can be verified in real time across multiple jurisdictions If yes, digital collateral provides a transparency layer not achievable through legacy custodians.
 
 3. Does the allocator operate within a regulatory environment where mobility is restricted by reporting or capital controls If yes, cross jurisdictional harmonization becomes a necessity.
-
 4. Does the allocator face compressed acquisition timelines, seller driven deadlines, or competitive buyout conditions If yes, the ability to deploy capital within hours instead of weeks is strategically relevant.
 
 5. Does the allocator need to engineer liquidity without compromising on governance, stewardship, or audit standards If yes, the structured model aligns with institutional discipline.

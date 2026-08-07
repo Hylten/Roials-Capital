@@ -71,4 +71,4 @@ Integrate all three. The result: a multi-node capital organism. Volatile markets
 
 ## Summary
 
-Institutional capital stability demands proactive jurisdictional architecture over traditional hedging. Fund-III’s expansion leverages transnational antifragility through regulatory redundancy, credit mobility, and legal ring-fencing, aligned with MiFID II, AIFMD, and Gulf-zone protections. Asset hardening—via cash-flow-driven platforms, industrial niche markets, and ABL-optimized structures—secures liquidity and accelerates acquisition cycles under volatile market regimes.
+Institutional capital stability demands proactive jurisdictional architecture over traditional hedging. Fund-III’s expansion leverages transnational antifragility through regulatory redundancy, credit mobility, and legal ring-fencing, aligned with MiFID II, AIFMD, and Gulf-zone protections. Asset hardening, via cash-flow-driven platforms, industrial niche markets, and ABL-optimized structures, secures liquidity and accelerates acquisition cycles under volatile market regimes.

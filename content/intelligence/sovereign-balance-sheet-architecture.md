@@ -106,4 +106,4 @@ Asset-Based Lending becomes cheap. Energy partners commit faster. EU regulators 
 
 ## Summary
 
-A sovereign balance sheet functions as a jurisdictional organism shaping capital flows through structural design—not mere capital allocation. A hierarchical jurisdictional triad (primary for management, secondary for banking rights, tertiary for optimization) guarantees permanent liquidity, creditworthiness, and continuity, eliminating structural risks and generating a measurable "capital delta" that accelerates capital acquisition for Fund-III. Design precedes capital; flawed structure results in eradication.
+A sovereign balance sheet functions as a jurisdictional organism shaping capital flows through structural design, not mere capital allocation. A hierarchical jurisdictional triad (primary for management, secondary for banking rights, tertiary for optimization) guarantees permanent liquidity, creditworthiness, and continuity, eliminating structural risks and generating a measurable "capital delta" that accelerates capital acquisition for Fund-III. Design precedes capital; flawed structure results in eradication.

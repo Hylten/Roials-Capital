@@ -68,7 +68,7 @@ pathways to energy operations for operators requiring institutional partners.
 
 Legacy hardening is the advantage. Structural alignment is the execution. Institutional navigation is the differentiator.
 
-##
+## 
 
 ## Summary
 

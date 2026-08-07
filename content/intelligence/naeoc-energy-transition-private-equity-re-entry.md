@@ -1,20 +1,20 @@
 ---
 title: "The Principal’s Position on energy mandates‑Scale Energy Transition Buyouts"
 slug: "energy-energy-transition-private-equity-re-entry"
-description: "A private capital briefing on why $50M–$250M energy-transition control deals are re‑magnetizing infrastructure LPs and re‑opening the mid‑market for Fund‑III capital formation."
+description: "A private capital briefing on why $50M-$250M energy-transition control deals are re‑magnetizing infrastructure LPs and re‑opening the mid‑market for Fund‑III capital formation."
 date: "2026-02-04"
 tags: []
 categories: ["Intelligence"]
 canonical_url: "https://roialscapital.com/intelligence/energy-energy-transition-private-equity-re-entry/"
 meta_title: "The Principal’s Position on energy mandates‑Scale Energy Transition Buyouts"
-meta_description: "A private capital briefing on why $50M–$250M energy-transition control deals are re‑magnetizing infrastructure LPs and re‑opening the mid‑market for Fund‑III capital formation."
+meta_description: "A private capital briefing on why $50M-$250M energy-transition control deals are re‑magnetizing infrastructure LPs and re‑opening the mid‑market for Fund‑III capital formation."
 featured_image: ""
 draft: false
 author: "Roials Capital"
 ---
 
 
-The center of gravity is shifting, quietly, predictably, inevitably. Infrastructure LPs are returning to the mid-market energy transition arena because mandates in the $50–250 million range have become the last scale where a GP can still control the physics of value creation with precision. Above it, competition distorts price. Below it, fragmentation erodes institutional certainty. Within this energy mandate range, the market remains rational. That is the entire point.
+The center of gravity is shifting, quietly, predictably, inevitably. Infrastructure LPs are returning to the mid-market energy transition arena because mandates in the $50-250 million range have become the last scale where a GP can still control the physics of value creation with precision. Above it, competition distorts price. Below it, fragmentation erodes institutional certainty. Within this energy mandate range, the market remains rational. That is the entire point.
 
 ## The Structural Reality
 

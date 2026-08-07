@@ -125,4 +125,4 @@ A contract of sovereignty. A contract of truth. Fund‑III+ is not about raising
 
 ## Summary
 
-Institutional LPs demand higher unrealized returns in Fund-III+, driven by actuarial compression, macro decoupling, and stricter governance. Only GPs delivering sustained operational alpha—not financial engineering—will endure the new discipline. Performance determines survival.
+Institutional LPs demand higher unrealized returns in Fund-III+, driven by actuarial compression, macro decoupling, and stricter governance. Only GPs delivering sustained operational alpha, not financial engineering, will endure the new discipline. Performance determines survival.

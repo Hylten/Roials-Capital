@@ -130,16 +130,14 @@ Strategic Collateralization converts permanence into opportunity. Together they 
 The allocator looking to build or preserve a multi generational capital base must assess portfolios through four filters:
 
 1. Asset Durability Does the asset maintain intrinsic value regardless of external volatility.
-
 2. Liquidity Control Can liquidity be engineered without selling the asset.
 
 3. Structural Alignment Does the capital stack align with operational physics and regulatory constraints.
-
 4. Expansion Optionality When markets tighten, does the structure allow the family or institution to acquire rather than retreat.
 
 Roials Capital provides confidential Strategy Audits and Portfolio Calibration sessions for LPs, GPs, and principal families seeking structural clarity. The objective is to determine whether their current capital architecture supports or constrains multi-generational wealth.
 
-##
+## 
 
 ## Summary
 

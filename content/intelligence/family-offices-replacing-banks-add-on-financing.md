@@ -17,7 +17,6 @@ author: "Roials Capital"
 Banks hesitate. Family offices move. That is the current architecture. Quiet. Efficient. Unburdened by Basel latency or committee drag. Family capital sees what banks no longer see: Add‑on velocity defines Fund-III performance. Slow credit kills traction. Deal flow demands certainty. Execution must be immediate. Private families understand this cadence. Three reasons dominate:
 
 1. Regulation clipped the banks.
-
 2. Time preference shifted.
 
 3. Sovereign capital seeks proximity to operating yield.

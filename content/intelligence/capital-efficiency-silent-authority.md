@@ -111,4 +111,4 @@ is clear. Conduct the confidential capital audit.
 
 ## Summary
 
-Capital gaps in structure—concentration, sequencing, and authority—generate silent costs that erode profitability before liquidity stress emerges. The new regime prioritizes capital mobility over cost, where efficient architecture unlocks trapped capital without compromising control. Implementation determines competitive advantage.
+Capital gaps in structure, concentration, sequencing, and authority, generate silent costs that erode profitability before liquidity stress emerges. The new regime prioritizes capital mobility over cost, where efficient architecture unlocks trapped capital without compromising control. Implementation determines competitive advantage.

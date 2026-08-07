@@ -99,7 +99,6 @@ It is an active discipline that filters out unnecessary risk vectors and ensures
 Institutional allocators require a precise decision making lens. The modern diversified wealth portfolio is no longer a static allocation grid. It is a dynamic architecture that must respond to multiple regulatory environments, jurisdictional constraints, and liquidity cycles. The role of ABL within this architecture is to:
 
 1. Stabilize liquidity regimes By anchoring short duration credit exposures to high fidelity collateral, allocators maintain operational flexibility while deploying into long duration buyout strategies.
-
 2. Strengthen balance sheets ABL facilitates Asset Hardening by converting idle collateral into functional liquidity.
 
 This reduces equity strain and increases opportunity velocity across the portfolio.
@@ -126,4 +125,4 @@ It is a technical alignment procedure designed to calibrate the allocator's arch
 
 ## Summary
 
-Asset-Based Lending (ABL) has become a structural necessity in diversified wealth portfolios, compelled by regulatory withdrawal from traditional lenders and the demand for stable liquidity independent of equity market volatility. In a tri-regime environment—defined by frictions in private credit markets, compression risks in energy and industrials, and MiFID II-driven capital reallocation—ABL serves as a collateral-centric buffer, ensuring efficient participation in buyout programs and mitigating compressed spreads and extended exit cycles. Its role secures operational resilience against systemic dislocations.
+Asset-Based Lending (ABL) has become a structural necessity in diversified wealth portfolios, compelled by regulatory withdrawal from traditional lenders and the demand for stable liquidity independent of equity market volatility. In a tri-regime environment, defined by frictions in private credit markets, compression risks in energy and industrials, and MiFID II-driven capital reallocation, ABL serves as a collateral-centric buffer, ensuring efficient participation in buyout programs and mitigating compressed spreads and extended exit cycles. Its role secures operational resilience against systemic dislocations.

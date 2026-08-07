@@ -48,7 +48,6 @@ Not persuasion. CAPITAL‑RAISING INFRASTRUCTURE Fund‑III platforms must opera
 Mobilization Infrastructure (Capital Entry) utgör den kritiska länk mellan investeringsbeslut och initial aktivering av kapitalflöden. Denna struktur säkerställer effektiv allokering av medel genom standardiserade processer för due diligence, juridisk granskning och transaktionsgenomförande, vilket minimerar administrativa fördröjningar och säkerställer compliance med regulatoriska och interna riktlinjer.
 
 3. Transmission Infrastructure (Portfolio Execution)
-
 4. Extraction Infrastructure (Liquidity and Exit) These systems create allocator confidence.
 
 Confidence increases commitment elasticity. Elasticity drives upgrade from $15M checks to $75M‑$200M checks. Elasticity funds the GP’s compounding machine.
@@ -187,7 +186,6 @@ Allocators evaluate this heavily. Fund‑III GPs without Asset-Based Lending par
 Institutional allocators prefer GPs with mandate versatility. Fund‑III requires capacity to service:
 
 1. energy mandates energy mandates
-
 2. EU MiFID II acquisition mandates
 
 3. Strategic industrial buyouts 4.
@@ -287,4 +285,4 @@ Allocators expect precision. Precision attracts institutions. Institutions scale
 
 ## Summary
 
-Fund-III demands structural maturity: a stable GP identity, modular infrastructure, and data-driven decision cadence. Allocators assess capital-flow efficiency, regulatory precision, and systemic repeatability—not narratives. Infrastructure robustness dictates check sizes and institutional trust.
+Fund-III demands structural maturity: a stable GP identity, modular infrastructure, and data-driven decision cadence. Allocators assess capital-flow efficiency, regulatory precision, and systemic repeatability, not narratives. Infrastructure robustness dictates check sizes and institutional trust.

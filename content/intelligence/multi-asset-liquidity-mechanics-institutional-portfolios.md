@@ -50,7 +50,7 @@ Jurisdictional routing ensures that transactions are directed through the most e
 
 ### Layer V:
 
-Sovereign Control Layer serves a distinct function in each jurisdiction. Together, these layers create an institutional-grade liquidity engine capable of supporting multi-market acquisitions, multi-asset securitizations, and multi-cycle investment horizons. The Liquidity Intelligence Layer tracks the real-time state of every asset’s convertibility—not static valuations, but dynamic convertibility mappings. The operative question is always: How fast can this asset be moved? At what cost? Under what leverage? Across which borders? With which instruments? Without this layer, liquidity remains reactive. The Capital Conversion Layer completes the cycle by converting assets into deployable capital, ensuring seamless execution across jurisdictions and instruments.
+Sovereign Control Layer serves a distinct function in each jurisdiction. Together, these layers create an institutional-grade liquidity engine capable of supporting multi-market acquisitions, multi-asset securitizations, and multi-cycle investment horizons. The Liquidity Intelligence Layer tracks the real-time state of every asset’s convertibility, not static valuations, but dynamic convertibility mappings. The operative question is always: How fast can this asset be moved? At what cost? Under what leverage? Across which borders? With which instruments? Without this layer, liquidity remains reactive. The Capital Conversion Layer completes the cycle by converting assets into deployable capital, ensuring seamless execution across jurisdictions and instruments.
 
 ### Layer I is the heart. This is where assets transform into deployable capital.
 
@@ -73,4 +73,4 @@ Uses structured entities, regulatory corridors, and harmonized capital structure
 
 ## Summary
 
-Institutional multi-asset liquidity is a structural necessity, not a market-dependent preference. Effective liquidity management across three dimensions (temporal, jurisdictional, asset class) shifts control from markets to portfolio managers, secures acquisition opportunities, and preserves operational autonomy. Capital rewards preparedness—not delay.
+Institutional multi-asset liquidity is a structural necessity, not a market-dependent preference. Effective liquidity management across three dimensions (temporal, jurisdictional, asset class) shifts control from markets to portfolio managers, secures acquisition opportunities, and preserves operational autonomy. Capital rewards preparedness, not delay.

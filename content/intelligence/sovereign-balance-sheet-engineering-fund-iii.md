@@ -96,11 +96,9 @@ The Alberta basin requires expertise in thermal recovery mechanics, surface faci
 Stewardship is defined as the efficient deployment of capital without waste. A sovereign balance sheet requires stewardship discipline across five layers.
 
 1. Capital Conservation Avoiding unnecessary dilution or leverage.
-
 2. Resource Precision Allocating capital only to operations that increase asset durability.
 
 3. Governance Integrity Ensuring that decision pathways are transparent and replicable.
-
 4. Temporal Discipline Pacing acquisitions to align with liquidity nodes rather than market noise.
 
 5. Intergenerational Intent Structuring assets to maintain viability beyond the immediate cycle.

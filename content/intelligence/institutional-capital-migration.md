@@ -60,4 +60,4 @@ EXIT Capital migration ends with one metric. Cost of error. Our mandate is to lo
 
 ## Summary
 
-Capital structurally migrates towards lower friction, safer cash flows, and verifiable control – the mispricing of this shift creates multi-period excess returns for disciplined actors. Indicators such as transaction latency, collapse of narrative-based due diligence, and geopolitical stratification (energy, infrastructure) drive reallocation to real assets and asset-backed frameworks. Those who act now consolidate institutional advantage; latecomers finance others.
+Capital structurally migrates towards lower friction, safer cash flows, and verifiable control - the mispricing of this shift creates multi-period excess returns for disciplined actors. Indicators such as transaction latency, collapse of narrative-based due diligence, and geopolitical stratification (energy, infrastructure) drive reallocation to real assets and asset-backed frameworks. Those who act now consolidate institutional advantage; latecomers finance others.

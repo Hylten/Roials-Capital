@@ -57,11 +57,9 @@ They create capacity, not yield. LTV Mechanics for Digital Collateral Institutio
 Senior interest 3. Senior amortization 4. Reserve accounts 5. Intercreditor obligations 6. Equity distributions Digital assets only interact with (1) and (2) as liquidity buffers. They do not interfere with seniority or the priority of proceeds. Cross Collateralization with Energy Assets Heavy oil assets in Alberta such as SAGD, CSS, and waterflood fields maintain documented decline patterns with recovery factors between 20 percent and 70 percent depending on formation physics. These characteristics create the perfect counterbalance to liquid digital assets. Physical assets deliver yield. Digital assets deliver liquidity. The combination hardens the balance sheet in a manner that is unachievable using traditional collateral alone. Operational Governance Digital asset integration requires four pillars.
 
 1. Qualified custody under regulated frameworks.
-
 2. Immutable transaction records for audit trails.
 
 3. Segregated wallets for encumbrance clarity.
-
 4. Programmatic risk thresholds for automated deleveraging.
 
 These mechanics ensure institutional grade control protocols with zero exposure to retail level operational risk.
@@ -93,11 +91,9 @@ Multi asset hardening is therefore an expression of responsible resource managem
 Asset hardening ensures that capital is neither idle nor speculative. It is deployed where it remains productive, measurable, and aligned with institutional durability. Stewardship consists of four operational elements.
 
 1. Preservation Capital must remain structurally protected across market regimes.
-
 2. Productivity Assets must generate either yield, liquidity, or stability.
 
 3. Continuity Operational infrastructure must withstand regulatory and macro shifts.
-
 4. Clarity Each asset must maintain transparent risk classification and auditability.
 
 Digital assets meet these criteria when placed under disciplined governance and integrated properly into real asset ecosystems.
@@ -107,11 +103,9 @@ Digital assets meet these criteria when placed under disciplined governance and 
 Institutional allocators evaluating Fund-III are not assessing exposure to digital assets. They are assessing the architecture in which digital liquidity interacts with real assets, seniority structures, and acquisition velocity. The framework functions as follows.
 
 1. Hard assets define stability.
-
 2. Digital assets define liquidity.
 
 3. Strategic Collateralization defines execution certainty.
-
 4. Execution certainty defines allocator confidence.
 
 5. Allocator confidence drives capital formation.

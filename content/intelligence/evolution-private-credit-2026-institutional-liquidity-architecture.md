@@ -37,7 +37,6 @@ Allocators are observing an increased use of synthetic mezzanine, cross collater
 They operate as operational intelligence instruments. Financial sponsors are reintroducing enhanced covenant suites that function as early warning systems. Interest coverage minimums, maintenance based EBITDA floors, and asset coverage ratios allow credit partners to identify operational drift before it affects the capital base. The market is witnessing increased adoption of real time performance monitoring, where lenders and sponsors exchange operational data monthly or weekly. This cadence increases transparency and reduces the probability of surprise deterioration within the portfolio. The private credit manager transitions from a passive capital provider to an active risk architect with a defined information advantage.
 
 3. Collateral Centric Structuring Collateral integrity is the defining element of private credit issuance in
-
 2026. Structures are anchored in: fixed asset coverage, contractual revenue visibility, and liquidation pathways.
 
 Collateral centric structuring is not defensive. It is an optimization tool that supports Asset-Backed Frameworks by allowing greater deployment speed while maintaining disciplined capital protection thresholds. Key tools include: asset hardening through title consolidation, special purpose vehicles to isolate performance risk, cash dominion accounts for consistency of repayments, and waterfall governed distributions that reinforce lender seniority without constraining operational initiative.
@@ -68,7 +67,7 @@ Within private credit, stewardship translates into: responsibility in counterpar
 
 In 2026, allocators require a recalibrated framework to assess private credit's role inside a multi-sleeve institutional portfolio. The modern approach emphasizes senior secured exposures with real collateral pathways, middle-market buyout financing with cross-collateral support, asset-based lending lines that improve working capital efficiency, special mandates in Alberta heavy oil where decline curves support predictable underwriting, and EU MiFID II-aligned acquisition finance with transparent governance protocols. The allocator’s decision point is not binary. It is architectural. The private credit sleeve functions as a stabilizing force, interacting with the broader portfolio by providing balance sheet insulation, countercyclical return drivers, non-correlated cash flows, and liquidity optionality for opportunistic, event-driven deployments. Roials Capital serves institutional allocators by delivering bespoke private credit solutions aligned with these evolving structural demands.
 
-##
+## 
 
 ## Summary
 

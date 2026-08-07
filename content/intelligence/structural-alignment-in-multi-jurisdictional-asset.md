@@ -216,4 +216,4 @@ Attract capital by being institution ready. The institution funds clarity, not g
 
 ## Summary
 
-Structural alignment determines whether a cross-jurisdictional asset qualifies as investable or constitutes a latent liability. Royal Standard ensures institutional readiness through mechanical, bank-grade, and auditable structuring, eliminating fragmentation and establishing a unified control hierarchy. Principals set terms; operators comply—alignment restores clarity and removes narrative deficiencies.
+Structural alignment determines whether a cross-jurisdictional asset qualifies as investable or constitutes a latent liability. Royal Standard ensures institutional readiness through mechanical, bank-grade, and auditable structuring, eliminating fragmentation and establishing a unified control hierarchy. Principals set terms; operators comply, alignment restores clarity and removes narrative deficiencies.

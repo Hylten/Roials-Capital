@@ -38,21 +38,17 @@ U.S. carve‑outs.
 Fed-adjacent infrastructure. The geometry demands jurisdictional arbitrage. Capital movement is not free. But it is predictable if structured. Sponsors who exploit regulatory dislocations outperform sponsors who wait for consensus. Now the gap itself. The middle-market credit gap is not a shortage of capital. It is a shortage of conviction. Lenders have liquidity but lack courage. Borrowers have opportunity but lack structure. Sponsors bridge the gap. But only if capitalized correctly. Fund‑III scale. Institutional LP core. Family offices at the perimeter. Sovereign allocators on the horizon. Middle-market lenders operate under four distortions:
 
 1. Impaired underwriting memory.
-
 2. Regulatory risk aversion.
 
 3. Macro misreads.
-
 4. Execution fatigue.
 
 Borrowers fight five opposing constraints:
 
 1. Debt maturity cliffs.
-
 2. Rising operating costs.
 
 3. Incomplete management teams.
-
 4. Add‑on urgency.
 
 5. Limited liquidity instruments.

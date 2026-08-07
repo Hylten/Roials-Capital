@@ -100,7 +100,6 @@ Allocators increasingly apply stewardship as a screening mechanism for GP select
 Opportunity velocity is only valuable when discipline governs its use.
 
 2. Operational Accountability Allocators evaluate the capacity of a GP to translate capital into stabilized cash flow without unnecessary expansion or strategic drift.
-
 3. Ethical Deployment A theology of capital grounded in
 
 Allocators applying this framework expect capital structures that do not rely on unsustainable leverage or speculative valuation uplift.
@@ -115,18 +114,16 @@ Allocators applying this framework expect capital structures that do not rely on
 It is an operating system for capital management. DECISION-MAKING LENS FOR THE ALLOCATOR Allocators evaluating Fund-III strategies in the current regime must apply a precision filter across five dimensions:
 
 1. Structural Certainty Does the GP maintain a repeatable capital raising infrastructure that ensures capital availability across acquisition and add-on cycles.
-
 2. Liquidity Architecture Does the GP have access to Institutional Liquidity Paths mechanisms that maintain execution velocity without compromising seniority.
 
 3. Cross-Border Competence Does the GP operate with compliant access to European MiFID II channels, North American energy pathways, and offshore allocators.
-
 4. Stewardship Integrity Does the GP operate with disciplined capital usage, structural conservatism, and a stewardship-based governance model.
 
 5. Alignment Potential Is there a definable pathway for strategic alignment through an Institutional
 
 There is a definable pathway for strategic alignment through an Institutional Introduction, Portfolio Calibration, or Confidential Strategy Audit that verifies compatibility at the operational and jurisdictional levels. Allocators who evaluate through this lens strengthen their position within the emerging capital regime and secure alignment with partners capable of navigating complex acquisition cycles.
 
-##
+## 
 
 ## Summary
 

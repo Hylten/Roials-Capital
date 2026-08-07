@@ -54,7 +54,7 @@ Enforcement optionality 3. Liquidity mobility Asset hardening succeeds when asse
 
 Fund‑III requires a hardening arc built across four jurisdictions: Nordics, Luxembourg, GCC, and selectively U.S. mid-continent for energy.
 
-These are not random picks. They are arbitrage nodes, providing Fund-III with an enforcement geometry that competitors cannot replicate. The hardening principle is clear: control is a geometry problem, not a legal one. Structure flow. Structure rights. Structure enforcement. When rights can be enforced across three non-correlated jurisdictions, asset fragility drops by 70–85 percent. LP confidence spikes. Capital inflow accelerates. GP carry hardens. Kapitalanskaffning is not storytelling. It is control signaling. LPs commit where control is sovereign.
+These are not random picks. They are arbitrage nodes, providing Fund-III with an enforcement geometry that competitors cannot replicate. The hardening principle is clear: control is a geometry problem, not a legal one. Structure flow. Structure rights. Structure enforcement. When rights can be enforced across three non-correlated jurisdictions, asset fragility drops by 70-85 percent. LP confidence spikes. Capital inflow accelerates. GP carry hardens. Kapitalanskaffning is not storytelling. It is control signaling. LPs commit where control is sovereign.
 
 - Cross-Border Volatility Mapping Fund‑III must enter this cycle with a multi‑vector volatility map.
 

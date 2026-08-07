@@ -94,11 +94,9 @@ In energy, energy operations fulfills this role due to engineering precision, re
 Stewardship is the discipline of ensuring that capital is deployed in accordance with both economic and ethical responsibility. It is not philanthropy. It is the responsible governance of resource allocation. Across institutional mandates, stewardship takes four forms.
 
 1. Non wasteful Resource Management Capital must be directed into projects where the operational output justifies the resource consumption.
-
 2. Systemic Risk Reduction Structures must be engineered to prevent unnecessary exposure to liquidity shocks or counterparty dependencies.
 
 3. Long Horizon Planning Institutional grade projects require multigenerational planning frameworks that align with both the GP and LP objectives across several fund cycles.
-
 4. Transparent Reporting Architecture Reporting must be consistent, auditable, and aligned with multi jurisdictional regulatory expectations.
 
 The stewardship filter forms the ethical and operational backbone of institutional scale financing architecture.
@@ -108,11 +106,9 @@ The stewardship filter forms the ethical and operational backbone of institution
 ## Strategic Decision Lens for Allocators across UHNW, Family Office, and Institutional LP categories benefit from applying a decision framework built around four calibration points.
 
 1. Structural Alignment Does the financing architecture integrate with the allocator's long horizon objectives and risk tolerance?
-
 2. Operational Verification Has the operator demonstrated predictable and repeatable performance across multiple cycles and asset types?
 
 3. Liquidity Control Does the capital structure enable liquidity mobility without compromising seniority or covenant integrity?
-
 4. Opportunity Velocity Does the structure allow the allocator to deploy capital at the speed necessary to capture market inefficiencies?
 
 A confidential strategy audit allows allocators to evaluate whether their existing frameworks align with the emerging regime in capital markets. Portfolio calibration follows naturally when structural intelligence aligns with operational intelligence and jurisdictional precision.

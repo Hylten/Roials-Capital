@@ -98,4 +98,4 @@ Target metric: 11.7x liquidity‑velocity coefficient.
 
 ## Summary
 
-Asset-Based Financing transforms static assets into dynamic capital resources, enhancing control and liquidity for modern private wealth. ABF replaces inefficient leverage models, enabling strategic expansion—such as Fund-III acquisitions and energy projects—without sacrificing long-term autonomy. It is a critical institutional tool for navigating compressed markets and regulatory challenges.
+Asset-Based Financing transforms static assets into dynamic capital resources, enhancing control and liquidity for modern private wealth. ABF replaces inefficient leverage models, enabling strategic expansion, such as Fund-III acquisitions and energy projects, without sacrificing long-term autonomy. It is a critical institutional tool for navigating compressed markets and regulatory challenges.

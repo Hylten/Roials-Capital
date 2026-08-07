@@ -21,7 +21,7 @@ The institutional translation: capital systems must outlive the cycle that creat
 
 - The first
 
-### Pillar I: s structural sovereignty. A Fund-III manager must operate with a three-layer shell: domicile sovereignty, regulatory neutrality, and allocation elasticity.
+### Pillar is structural sovereignty. A Fund-III manager must operate with a three-layer shell: domicile sovereignty, regulatory neutrality, and allocation elasticity.
 
 Each layer protects the next. Each layer must be calibrated to the Fund-III’s risk appetite and liquidity cadence.
 
@@ -29,7 +29,7 @@ Each layer protects the next. Each layer must be calibrated to the Fund-III’s 
 
 The manager must sit in a jurisdiction with forward-compatible fund treaties, predictable withholding tax flows, strong limited liability regimes, and minimal treaty leakage. The jurisdiction becomes the runway. The regulatory tier determines the gating mechanisms. MiFID II constraints for EU acquisitions must be matched against US private credit freedoms and Gulf sovereign mandates. The mismatch is the opportunity. Arbitrage the mismatch. Package it. Sell the precision. The allocation tier delivers elasticity. A sovereign Fund-III platform must support multiple feeders: institutional, quasi-sovereign, UHNW, corporate pension, and insurance balance sheet capital. Elasticity wins because LP cycles differ, their liquidity windows differ, and their NAV accounting differs. A single rigid fund structure suffocates capital. A multi-sleeve architecture accelerates it.
 
-### Pillar I: s capital velocity. Capital raised is not capital sovereign.
+### Pillar is capital velocity. Capital raised is not capital sovereign.
 
 Velocity creates sovereignty. Velocity requires compression. Short sentences.
 
@@ -44,7 +44,7 @@ Hard lines. No drift. LPs deploy only when friction collapses. You collapse fric
 
 Velocity turns hesitation into allocation. Velocity protects momentum. The third pillar of our architecture, asset hardening, ensures that a Fund-III buyout chassis transitions from liability to investment-grade resilience.
 
-### Pillar I: s asset hardening. A Fund-III buyout chassis without asset hardening is a liability, not an investment.
+### Pillar is asset hardening. A Fund-III buyout chassis without asset hardening is a liability, not an investment.
 
 The institutional LP expects two things: principal protection and expansion logic. So the buyout engine must harden assets on entry, not post‑acquisition. Asset hardening comes through structural conversion, not operational tinkering:
 
@@ -56,7 +56,7 @@ The institutional LP expects two things: principal protection and expansion logi
 
 In week one, in month one, you deliver alpha by accelerating inevitability. The fourth quarter of the fiscal year must reflect the compounding effects of these structural shifts.
 
-### Pillar I: s Monetization Architecture. Liquidity is not an outcome.
+### Pillar is Monetization Architecture. Liquidity is not an outcome.
 
 Liquidity is a design element. Most managers think of liquidity late. Too late. By the time a liquidity event becomes urgent, its valuation premium disappears. Liquidity must be engineered at structure, not at exit. Asset-Based Lending frameworks solve this. Asset‑backed liquidity is the true sovereign instrument. It provides five advantages:
 
@@ -68,7 +68,7 @@ Liquidity is a design element. Most managers think of liquidity late. Too late. 
 
 A leveraged fortress. A sovereign fortress. The fifth pillar in a defensive capital architecture designed to withstand cyclical turbulence.
 
-### Pillar I: s acquisition sequencing. Fund-III growth requires precision sequencing, not opportunistic accumulation.
+### Pillar is acquisition sequencing. Fund-III growth requires precision sequencing, not opportunistic accumulation.
 
 Add-ons are not mere add-ons; they are strategic compression nodes designed to absorb market inefficiencies. A true sovereign architecture ensures that each acquisition increases unit strength rather than operational chaos. Acquisitions must follow a six-step design pattern: market fracturing analysis, competitor positioning algorithm, cost-to-control modeling, integration velocity projection, capital efficiency scoring, and execution sequencing. When executed correctly, a Fund-III platform transforms from a multi-asset manager into a single-intent catalyst. Sequencing creates inevitability, and inevitability attracts LP capital.
 
@@ -85,7 +85,7 @@ Energy assets move differently. They breathe through geopolitical cycles, regula
 
 Rational. Heavy. Durable. Consistent. Machine Gun. Hard stops. No drift. The sixth pillar is discipline.
 
-### Pillar I: s jurisdictional arbitrage. Without arbitrage, a Fund-III vehicle becomes a commodity.
+### Pillar is jurisdictional arbitrage. Without arbitrage, a Fund-III vehicle becomes a commodity.
 
 Arbitrage turns it into an institution. You arbitrage tax codes. You arbitrage regulatory frameworks. You arbitrage valuation windows. You arbitrage liquidity pricing. And you arbitrage time. Time is the hardest arbitrage. But it is the most profitable. Control time. Control premium. Control premium. Control returns. A sovereign manager uses:
 
@@ -100,7 +100,7 @@ Legally, transparently and strategically.
 
 - The seventh
 
-### Pillar I: s institutional signaling. A Fund-III platform lives or dies by the quality of its signals.
+### Pillar is institutional signaling. A Fund-III platform lives or dies by the quality of its signals.
 
 LPs read more from signaling than from the deck. They read conviction. They read discipline. They read continuity. So the signals must be engineered with surgical control. The primary institutional signals:
 
@@ -117,7 +117,7 @@ Signal intelligence eliminates doubt. Doubt kills capital. Remove doubt. Raise c
 
 - The eighth
 
-### Pillar I: s cycle dominance. Fund-III is where managers either ascend or collapse.
+### Pillar is cycle dominance. Fund-III is where managers either ascend or collapse.
 
 The first two funds prove concept. The third fund proves institutional destiny. Cycle dominance is not about outperforming peers. It is about sequencing structures that survive the next three cycles. Cycle dominance requires:
 
@@ -142,7 +142,7 @@ The engine has four modules: Module One: Structural Core, Module Two: Capital Ex
 
 The expansion of the structural core into Layer I introduces a multi-currency framework, reinforcing the Liquidity Shield’s multi-instrument functionality.
 
-### Layer I: s multi‑currency. The liquidity shield is multi‑instrument.
+### Layer is multi‑currency. The liquidity shield is multi‑instrument.
 
 The compression grid is multi‑cycle. Once the engine activates, the platform accelerates liquidity, strengthens hard assets, increases acquisition velocity, and extends runway. The engine becomes a geometry of inevitability. LPs want inevitability. They pay for inevitability. They commit larger checks for inevitability.
 
@@ -174,4 +174,4 @@ At that point, capital raising becomes capital selection. LPs compete. Managers 
 
 ## Summary
 
-Structural sovereignty determines capital access over price for a Fund-III platform. Three layers—jurisdictional stability, regulatory neutrality, and flexible allocation—establish a continuous capital-raising engine that outlasts cycles. Systems exceeding their own lifecycle achieve institutional authority.
+Structural sovereignty determines capital access over price for a Fund-III platform. Three layers, jurisdictional stability, regulatory neutrality, and flexible allocation, establish a continuous capital-raising engine that outlasts cycles. Systems exceeding their own lifecycle achieve institutional authority.

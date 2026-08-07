@@ -152,4 +152,4 @@ Roials Capital provides a structured path for answering these questions. The fir
 
 ## Summary
 
-Structural capital shortages in North American and European mid-markets stem from regulation (Basel III, MiFID II) and risk-weighting requirements, not absolute scarcity. Entrepreneurs must design credit architecture—balance sheet structure, liquidity optimization, and transparency—to meet institutional underwriting standards. Private credit funds provide the capital solution.
+Structural capital shortages in North American and European mid-markets stem from regulation (Basel III, MiFID II) and risk-weighting requirements, not absolute scarcity. Entrepreneurs must design credit architecture, balance sheet structure, liquidity optimization, and transparency, to meet institutional underwriting standards. Private credit funds provide the capital solution.

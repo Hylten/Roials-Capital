@@ -20,7 +20,6 @@ The Shift From Opportunistic Credit to Structural Alignment The private credit m
 The allocator asks only three questions.
 
 1. Is the principal aligned with covenant stewardship.
-
 2. Is the framework engineered for repeatability under stress.
 
 3. Is the platform audit-ready at all times.
@@ -48,15 +47,12 @@ Structural Architecture of Institutional-Grade Origination Institutional origina
 A hardened platform displays seven signals.
 
 1. Counterparty filtration protocols.
-
 2. Multi-layer collateral verification.
 
 3. Capital stack mapping for every borrower.
-
 4. Continuous liquidity diagnostics.
 
 5. Execution logs and time-to-capital metrics.
-
 6. Covenant compliance automation.
 
 7. Transparent risk-to-recovery forecasting.
@@ -101,15 +97,12 @@ Underwriting as a Discipline of Order Underwriting is not analysis. Underwriting
 Institutional underwriting follows a simple structure.
 
 1. Identify the core asset.
-
 2. Validate the asset hardness.
 
 3. Quantify the liquidation timeline.
-
 4. Map the operational integrity of the borrower.
 
 5. Establish covenant density based on the principal’s risk tolerance.
-
 6. Test capital resilience under severe compression.
 
 The process is short. The logic is strict. Everything reduces to recoverability and character.
@@ -195,4 +188,4 @@ If the platform is ordered, the capital is protected. If the capital is protecte
 
 ## Summary
 
-Institutional private debt origination demands structural discipline, moral hierarchy, and audit readiness. Platforms must satisfy seven binary criteria—from covenant automation to real-time diagnostics—to qualify as investable. Only structurally hardened assets with eliminated information asymmetry and predefined liquidation pathways meet institutional standards.
+Institutional private debt origination demands structural discipline, moral hierarchy, and audit readiness. Platforms must satisfy seven binary criteria, from covenant automation to real-time diagnostics, to qualify as investable. Only structurally hardened assets with eliminated information asymmetry and predefined liquidation pathways meet institutional standards.

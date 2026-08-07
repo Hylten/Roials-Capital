@@ -78,7 +78,6 @@ Why Minimum Thresholds Matter Roials Capital does not operate at retail scale. T
 Below these thresholds, volatility is inefficient relative to liquidity facility structure. Above these thresholds, the assets behave with enough depth and liquidity to support disciplined Strategic Collateralization. Minimums enforce quality. They protect clients. They protect the architecture. The tax benefit materializes where liquidity events align with balance sheet optimization, enabling access to capital for real estate, private investments, operating companies, and other strategic opportunities without triggering immediate tax liabilities.
 
 1. Liquidity Events balance sheet optimization against a crypto portfolio allows the client to access liquidity for real estate, private investments, operating companies, and other opportunities, without triggering tax.
-
 2. Market Expansion If the underlying asset appreciates, the investor benefits from compounding returns while maintaining full control over exposure.
 
 3. Long-Term Deferral Many high net worth strategies hinge on tax deferral. balance sheet optimization extends the deferral into multi-year or multi-decade cycles.

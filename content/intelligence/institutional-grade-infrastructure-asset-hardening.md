@@ -57,7 +57,7 @@ Effective asset hardening requires clean capital stacks, enforceable seniority, 
 
 Allocators benefit from neutral partners who can configure institutional pathways without assuming asset ownership. Roials Capital fulfills this role by providing allocators with a confidential strategy audit that clarifies alignment, suitability, and technical feasibility across Fund-III mandates, Asset-Based Lending structures, and energy consolidation environments. This enables allocators to calibrate portfolios toward structural durability and operational predictability within the current capital constraint regime.
 
-##
+## 
 
 ## Summary
 

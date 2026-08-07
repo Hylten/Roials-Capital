@@ -27,7 +27,6 @@ The private market environment entered a structural regime shift in 2022 when gl
 - Persistent underinvestment in North American upstream supply creating multi-year production deficits The operational effect is a capital vacuum measurable across three primary corridors:
 
 1. Middle market buyouts with fragmented balance sheets and non-synchronised capital structures
-
 2. Private credit markets constrained by traditional underwriting frameworks
 
 3. Conventional oil assets where production physics are ignored due to political misalignment The vacuum does not indicate scarcity of opportunity.
@@ -88,7 +87,6 @@ The mechanics are not theoretical. They define allocator performance across enti
 Roials Capital functions as a strategic navigator, not an asset sponsor. The institutional mandate is threefold:
 
 1. Introduce allocators to operators with proven execution architecture
-
 2. Architect capital structures that can survive multi-cycle volatility
 
 3. Ensure that stewardship-driven capital is deployed into assets with measurable physics or stable cash conversion The energy sector is the prime example in the energy corridor.

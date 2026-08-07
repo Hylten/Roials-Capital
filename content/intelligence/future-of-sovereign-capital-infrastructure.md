@@ -115,18 +115,16 @@ Sovereign capital infrastructure is therefore inherently intergenerational.
 The allocator evaluating the future of sovereign capital infrastructure must navigate a technical environment governed by production physics, regulatory asymmetry, and multi jurisdictional compliance demands. This environment rewards operational intelligence over thematic conviction. The decision lens involves five elements.
 
 1. Alignment with productive assets
-
 2. Visibility into long horizon operational mechanics
 
 3. Structural neutrality across jurisdictions
-
 4. Capacity to integrate sovereign procurement needs
 
 5. Reliance on partners capable of technical interpretation rather than distribution Roials Capital supports allocators through confidential strategy audits and portfolio calibration sessions designed to map capital architectures to sovereign scale requirements.
 
 The objective is not transactional deployment but long-term structural alignment.
 
-##
+## 
 
 ## Summary
 

@@ -76,7 +76,6 @@ It is controlled acceleration. It builds a liquidity perimeter around the portfo
 Not a reaction. The GP that controls liquidity controls timing. And timing controls returns. Fund‑III uses three liquidity architectures:
 
 1. Asset‑secured revolvers optimized for predictable deployment cycles
-
 2. Monetization programs for producing or semi‑producing energy assets
 
 3. Cash‑flow backed instruments designed to stabilize operations during macro stress The objective is not leverage.

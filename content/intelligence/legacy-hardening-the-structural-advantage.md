@@ -21,7 +21,7 @@ Control requires structural clarity. Control requires predictable liquidity. Con
 
 The Future of Institutional Liquidity Paths We are moving into an era where liquidity will define competitive advantage more than yield. The portfolios that win will not be the portfolios that chase performance.
 
-They will be the portfolios that retain structural optionality. Regulatory shifts, rapid innovation cycles, and fragmented markets all point in one direction: legacy must be hardened, structures engineered—not improvised. The future belongs to portfolios with durable leverage capacity, clean collateral structures, and institutionally aligned credit mechanics. Roials Capital builds that future today.
+They will be the portfolios that retain structural optionality. Regulatory shifts, rapid innovation cycles, and fragmented markets all point in one direction: legacy must be hardened, structures engineered, not improvised. The future belongs to portfolios with durable leverage capacity, clean collateral structures, and institutionally aligned credit mechanics. Roials Capital builds that future today.
 
 ## Summary
 

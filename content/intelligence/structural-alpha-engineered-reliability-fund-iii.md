@@ -131,7 +131,6 @@ THE Roials Capital SIGNAL Signal strength matters. Institutional LPs respond to 
 Roials Capital transmits a triad:
 
 1. Reliability is engineered, not claimed.
-
 2. Liquidity is manufactured, not sourced.
 
 3. Structural alpha is built, not forecast.

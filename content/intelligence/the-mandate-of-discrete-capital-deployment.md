@@ -114,11 +114,9 @@ This intelligence allows deployment to occur before public awareness, silent for
 Roials Capital structures protection in four tiers.
 
 1. Legal.
-
 2. Collateral.
 
 3. Counterparty.
-
 4. Information.
 
 Every tier is hardened before capital moves. This is asset hardening as institutional doctrine. This is stewardship in practice.
@@ -132,15 +130,12 @@ Discrete capital is sovereign. Public capital responds. Discrete capital dictate
 of discrete capital deployment is clear.
 
 1. Govern without spectacle.
-
 2. Deploy without signaling.
 
 3. Harden assets before exposure.
-
 4. Protect lineage through covenant stewardship.
 
 5. Consolidate advantage through velocity.
-
 6. Maintain structural alignment at all times.
 
 This is how capital survives. This is how capital strengthens. This is how capital fulfills its purpose. No noise. No dilution. Only mandate.

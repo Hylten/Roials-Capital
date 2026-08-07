@@ -121,4 +121,4 @@ The question is not which asset to select. The question is how to structure a ca
 
 ## Summary
 
-North America’s energy sector faces structural capital scarcity—not resource scarcity—due to regulatory drift, policy risk, and ESG constraints. Allocators secure long-term liquidity by targeting mature reservoirs and disciplined operators instead of price volatility. This regime shift, defined by reduced institutional capital access and heightened domestic energy security, sustains inefficiencies that favor sophisticated investors for decades.
+North America’s energy sector faces structural capital scarcity, not resource scarcity, due to regulatory drift, policy risk, and ESG constraints. Allocators secure long-term liquidity by targeting mature reservoirs and disciplined operators instead of price volatility. This regime shift, defined by reduced institutional capital access and heightened domestic energy security, sustains inefficiencies that favor sophisticated investors for decades.

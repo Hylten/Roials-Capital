@@ -46,4 +46,4 @@ Roials Capital absorbs that complexity and extracts the execution clarity. Every
 
 ## Summary
 
-Structure dictates capital flows over time, regardless of market conditions. Roials Capital deploys collateralized liquidity as its operational doctrine to secure scalable, jurisdiction-agnostic liquidity through disciplined, hierarchical architecture. Long-term dominance demands pre-engineered liquidity—not crisis-driven improvisation.
+Structure dictates capital flows over time, regardless of market conditions. Roials Capital deploys collateralized liquidity as its operational doctrine to secure scalable, jurisdiction-agnostic liquidity through disciplined, hierarchical architecture. Long-term dominance demands pre-engineered liquidity, not crisis-driven improvisation.

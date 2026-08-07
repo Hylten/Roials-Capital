@@ -99,11 +99,9 @@ For allocators, stewardship means:
 Portfolio backed liquidity is the functional replacement for bank lending. Its mechanics rely on:
 
 1. Consolidation of multiple operating assets into a unified collateral base.
-
 2. Standardization of cash flow visibility across the asset cluster.
 
 3. Asset-Backed Frameworks to transform long dated asset performance into usable working capital.
-
 4. Measured advance rates calibrated to geological and operational certainty.
 
 5. Multi tranche structuring that aligns operator pacing with investor liquidity preferences.
@@ -138,7 +136,7 @@ Align with operators who demonstrate stewardship discipline, technical proficien
 
 Navigating cross-border structuring, regulatory systems, and partner verification requires institutional-grade guidance. Roials Capital operates as a strategic navigator, translating complex environments into coherent allocation frameworks. A confidential strategy audit or portfolio calibration session is typically the next step for allocators seeking a precision assessment of their exposure architecture, jurisdictional alignment, and liquidity pacing across existing and prospective mandates.
 
-##
+## 
 
 ## Summary
 

@@ -146,4 +146,4 @@ Roials Capital facilitates confidential consultations for allocators requiring l
 
 ## Summary
 
-Regulatory fragmentation, asset overconcentration, and mispricing of long-duration real assets drive institutional capital migration, creating a structural shortage of productive assets in North America since 2020. Vulnerability avoidance—not yield maximization—dictates capital flows. Strategic partners like Roials Capital build durable alliances instead of exposure.
+Regulatory fragmentation, asset overconcentration, and mispricing of long-duration real assets drive institutional capital migration, creating a structural shortage of productive assets in North America since 2020. Vulnerability avoidance, not yield maximization, dictates capital flows. Strategic partners like Roials Capital build durable alliances instead of exposure.

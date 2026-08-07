@@ -21,11 +21,9 @@ The market is fractured, not broken, but fractured. That is where the opportunit
 Not returns. Not IRR mythology. Deployment. Put capital to work with intelligence, precision, and jurisdictional control, and the entire vertical stabilizes. Fail, and the fund decays before the first harvest is complete. Non‑sponsor add‑on buyouts are now the most structurally efficient deployment vector because they satisfy four institutional realities at once:
 
 1. The supply of sponsor‑grade platforms has compressed.
-
 2. Valuation expectations in sponsor‑to‑sponsor deals remain inflated.
 
 3. Non‑sponsor sellers are fatigued, under‑advised, and increasingly pragmatic.
-
 4. Add‑ons provide the only scalable method to compound enterprise value at pace without re‑entering the auction death‑spiral.
 
 A Principal watches these forces. Measures them. Then acts. The industry spent a decade glamorizing platform deals while quietly admitting, in limited partner letters, that true multiple expansion was coming from add-ons. The field has now flipped. Add-ons are not the supporting play. They are the architecture. And the non-sponsor domain is where the premium sits because the inefficiency is so large it can be measured with industrial tools rather than financial abstractions. Auction processes have become theatrical. Non-sponsor engagements remain real. The difference is decisive.
@@ -116,11 +114,9 @@ The other is architecture. Architecture wins. Because architecture compounds. It
 ## THE DEPLOYMENT FLYWHEEL Non‑sponsor add‑ons create a self‑accelerating capital cycle:
 
 1. Acquire the add‑on.
-
 2. Integrate using centralized operational stack.
 
 3. Increase EBITDA by 20-40% through operational tightening.
-
 4. Re-rate the entire platform multiple.
 
 5. Deploy again with increased enterprise mass.

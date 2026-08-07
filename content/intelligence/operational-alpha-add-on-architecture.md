@@ -41,7 +41,6 @@ We are the operational engine for capital formation. Not the marketing veneer. N
 The world is witnessing the collision of three forces:
 
 1. A new LP class accustomed to precision economies.
-
 2. A global environment where efficiency determines resilience.
 
 3. A technology layer that punishes lack of structure.

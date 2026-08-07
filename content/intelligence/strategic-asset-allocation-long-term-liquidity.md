@@ -132,4 +132,4 @@ Rigid discipline. Non-negotiable. We enter the execution requirement. Durable ca
 
 ## Summary
 
-Durable capital constitutes a structural position, not a concept. Its architecture relies on strategic asset allocation, liquidity as a tool, and institutional resilience. Execution demands hardening of the capital structure, where each component—from asset maturation to regulatory positioning—resists compression and succession.
+Durable capital constitutes a structural position, not a concept. Its architecture relies on strategic asset allocation, liquidity as a tool, and institutional resilience. Execution demands hardening of the capital structure, where each component, from asset maturation to regulatory positioning, resists compression and succession.

@@ -257,4 +257,4 @@ Technical Metric: Structural Hardness Index v4.
 
 ## Summary
 
-Institutional capital allocation demands predictable, structural architecture—Fund-III is critical for capital formation. Asset hardening converts exposed assets into institutional-grade through five structural tools, ensuring cross-cultural feasibility and inter-cycle stability. Precision and system design supersede short-term speed.
+Institutional capital allocation demands predictable, structural architecture, Fund-III is critical for capital formation. Asset hardening converts exposed assets into institutional-grade through five structural tools, ensuring cross-cultural feasibility and inter-cycle stability. Precision and system design supersede short-term speed.
