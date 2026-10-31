@@ -60,7 +60,7 @@ const pathToView = (path: string): View => {
 const seoTitles: Record<View, string> = {
   'home': 'Off-Market Deal Origination | Roials Capital',
   'team': 'Board & Partners | Roials Capital',
-  'capital-origination': 'Capital Origination | Roials Capital',
+  'capital-origination': 'Capital | European Investor Intelligence | Roials Capital',
   'deal-origination': 'Deal Origination | Roials Capital',
   'private-credit': 'Asset-Backed Liquidity | Roials Capital',
   'thesis': 'Thesis | Roials Capital',

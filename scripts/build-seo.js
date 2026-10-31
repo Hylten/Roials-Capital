@@ -67,6 +67,12 @@ async function generateSEO() {
 </head>`);
 
   const routeMetadata = {
+    '/capital-origination/': {
+      title: 'Capital | European Investor Intelligence | Roials Capital',
+      canonical: `${SITE_URL}/capital-origination/`,
+      description: 'Roials Capital supports U.S. mid-market private equity managers with AI-driven European investor research, proprietary market intelligence and local market presence.',
+      ogDescription: 'Roials Capital supports U.S. mid-market private equity managers with AI-driven European investor research, proprietary market intelligence and local market presence.'
+    },
     '/deal-origination/': {
       title: 'Deal Origination | Roials Capital',
       canonical: `${SITE_URL}/deal-origination/`,
