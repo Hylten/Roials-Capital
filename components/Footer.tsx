@@ -5,7 +5,6 @@ interface FooterProps {
   onLoginClick?: () => void;
   onThesisClick?: () => void;
   onPrivateCreditClick?: () => void;
-  onMandatesClick?: () => void;
   onTeamClick?: () => void;
   onInquireClick?: () => void;
   onRegulatoryClick?: () => void;
@@ -22,7 +21,6 @@ export const Footer: React.FC<FooterProps> = ({
   onLoginClick,
   onThesisClick,
   onPrivateCreditClick,
-  onMandatesClick,
   onTeamClick,
   onInquireClick,
   onRegulatoryClick,
@@ -53,17 +51,19 @@ export const Footer: React.FC<FooterProps> = ({
             >
               LinkedIn
             </a>
+            <a
+              href="https://www.youtube.com/@RoialsCapital"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="block mt-4 font-sans text-base text-oldgold border-b border-oldgold/30 pb-1 hover:text-white hover:border-white transition-colors w-fit"
+            >
+              YouTube
+            </a>
           </div>
 
           <div>
             <h4 className="font-sans text-xs uppercase tracking-widest text-gray-400 mb-8 font-bold">Strategies</h4>
             <ul className="space-y-5">
-              <li
-                onClick={onMandatesClick}
-                className="text-gray-300 text-base hover:text-oldgold cursor-pointer transition-colors font-light"
-              >
-                Private Equity
-              </li>
               <li
                 onClick={onCapOrigClick}
                 className="text-gray-300 text-base hover:text-oldgold cursor-pointer transition-colors font-light"

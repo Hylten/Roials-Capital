@@ -5,7 +5,6 @@ interface HeaderProps {
   onHomeClick?: () => void;
   onThesisClick?: () => void;
   onCreditClick?: () => void;
-  onMandatesClick?: () => void;
   onCapOrigClick?: () => void;
   onDealOrigClick?: () => void;
   onTeamClick?: () => void;
@@ -20,7 +19,6 @@ export const Header: React.FC<HeaderProps> = ({
   onHomeClick,
   onThesisClick,
   onCreditClick,
-  onMandatesClick,
   onCapOrigClick,
   onDealOrigClick,
   onTeamClick,
@@ -109,14 +107,6 @@ export const Header: React.FC<HeaderProps> = ({
                 Home
               </button>
               <button
-                onClick={() => handleNavAction(onCapOrigClick)}
-                className={`font-sans text-[10px] tracking-[0.2em] transition-colors font-bold uppercase ${
-                  currentView === 'capital-origination' ? 'text-oldgold' : 'text-platinum hover:text-oldgold'
-                }`}
-              >
-                Capital
-              </button>
-              <button
                 onClick={() => handleNavAction(onDealOrigClick)}
                 className={`font-sans text-[10px] tracking-[0.2em] transition-colors font-bold uppercase ${
                   currentView === 'deal-origination' ? 'text-oldgold' : 'text-platinum hover:text-oldgold'
@@ -131,6 +121,14 @@ export const Header: React.FC<HeaderProps> = ({
                 }`}
               >
                 Credit
+              </button>
+              <button
+                onClick={() => handleNavAction(onCapOrigClick)}
+                className={`font-sans text-[10px] tracking-[0.2em] transition-colors font-bold uppercase ${
+                  currentView === 'capital-origination' ? 'text-oldgold' : 'text-platinum hover:text-oldgold'
+                }`}
+              >
+                Capital
               </button>
               <button
                 onClick={() => handleNavAction(onTeamClick)}
@@ -177,14 +175,6 @@ export const Header: React.FC<HeaderProps> = ({
             HOME
           </button>
           <button
-            onClick={() => handleNavAction(onCapOrigClick)}
-            className={`font-display text-2xl tracking-[0.25em] transition-all duration-500 uppercase ${
-              currentView === 'capital-origination' ? 'text-oldgold' : 'text-platinum hover:text-oldgold'
-            }`}
-          >
-            CAPITAL
-          </button>
-          <button
             onClick={() => handleNavAction(onDealOrigClick)}
             className={`font-display text-2xl tracking-[0.25em] transition-all duration-500 uppercase ${
               currentView === 'deal-origination' ? 'text-oldgold' : 'text-platinum hover:text-oldgold'
@@ -199,6 +189,14 @@ export const Header: React.FC<HeaderProps> = ({
             }`}
           >
             CREDIT
+          </button>
+          <button
+            onClick={() => handleNavAction(onCapOrigClick)}
+            className={`font-display text-2xl tracking-[0.25em] transition-all duration-500 uppercase ${
+              currentView === 'capital-origination' ? 'text-oldgold' : 'text-platinum hover:text-oldgold'
+            }`}
+          >
+            CAPITAL
           </button>
           <button
             onClick={() => handleNavAction(onTeamClick)}

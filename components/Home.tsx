@@ -8,17 +8,16 @@ import { InquireCTA } from './InquireCTA';
 interface HomeProps {
   onInquireClick: () => void;
   onTeamClick: () => void;
-  onEquityClick: () => void;
   onCreditClick: () => void;
   onCapOrigClick: () => void;
   onDealOrigClick: () => void;
 }
 
-export const Home: React.FC<HomeProps> = ({ onInquireClick, onTeamClick, onEquityClick, onCreditClick, onCapOrigClick, onDealOrigClick }) => {
+export const Home: React.FC<HomeProps> = ({ onInquireClick, onTeamClick, onCreditClick, onCapOrigClick, onDealOrigClick }) => {
   return (
     <>
       <Hero onInquireClick={onInquireClick} />
-      <Capabilities onEquityClick={onEquityClick} onCreditClick={onCreditClick} onCapOrigClick={onCapOrigClick} onDealOrigClick={onDealOrigClick} />
+      <Capabilities onCreditClick={onCreditClick} onCapOrigClick={onCapOrigClick} onDealOrigClick={onDealOrigClick} />
       <Execution />
       <GlobalFootprint />
       <InquireCTA onTeamClick={onTeamClick} />

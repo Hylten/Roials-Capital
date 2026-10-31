@@ -7,9 +7,9 @@ interface TeamProps {
 
 const leadershipMembers: TeamMember[] = [
   {
-    name: 'Dr. Vincent deFilippo',
-    role: 'Senior Strategic Advisor',
-    bio: 'Principal at Vienna Capital Partners with 30+ years’ experience raising billions in equity and real estate across Asia, Europe, and the US. Ex-CEO of deFilippo Capitale (APAC), led landmark $6B Amaya exit. Expert in equity lending, energy PE, and global capital markets.'
+    name: 'Nam Phong Ho',
+    role: 'Senior Advisor (Governance & Risk)',
+    bio: '25+ years at Glencore and Swiss multinationals. CFA, CIA, CISA, CFE, QIAL, CRMA. Architects LP-grade risk frameworks and global audit hubs to ensure institutional compliance and investor security.'
   },
   {
     name: 'Jean-Romain Falconnet',
@@ -33,15 +33,15 @@ const leadershipMembers: TeamMember[] = [
   {
     name: 'Jonas Hyltén',
     role: 'Founder & Managing Partner',
-    bio: 'Leads capital execution mandates in Private Equity. Bridge between institutional investors and high-performance strategies. Drives institutional-grade fundraising and LP alignment through proprietary execution systems.'
+    bio: 'M&A principal with hands-on experience building Nordic acquisition pipelines, executing LBOs and leading buy-and-build transactions. Founder of Roials Capital, leading proprietary off-market origination for PE buyouts and add-ons, including direct owner engagement and negotiations.'
   }
 ];
 
 const globalPartners: TeamMember[] = [
   {
-    name: 'Nam Phong Ho',
-    role: 'Senior Advisor (Governance & Risk)',
-    bio: '25+ years at Glencore and Swiss multinationals. CFA, CIA, CISA, CFE, QIAL, CRMA. Architects LP-grade risk frameworks and global audit hubs to ensure institutional compliance and investor security.'
+    name: 'Dr. Vincent deFilippo',
+    role: 'Senior Strategic Advisor',
+    bio: 'Principal at Vienna Capital Partners with 30+ years’ experience raising billions in equity and real estate across Asia, Europe, and the US. Ex-CEO of deFilippo Capitale (APAC), led landmark $6B Amaya exit. Expert in equity lending, energy PE, and global capital markets.'
   },
   {
     name: 'Aiswarya Madhav',

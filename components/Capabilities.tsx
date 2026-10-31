@@ -1,7 +1,6 @@
 import React from 'react';
 
 interface CapabilitiesProps {
-  onEquityClick: () => void;
   onCreditClick: () => void;
   onCapOrigClick: () => void;
   onDealOrigClick: () => void;
@@ -37,7 +36,7 @@ const capabilities = [
   }
 ];
 
-export const Capabilities: React.FC<CapabilitiesProps> = ({ onEquityClick, onCreditClick, onCapOrigClick, onDealOrigClick }) => {
+export const Capabilities: React.FC<CapabilitiesProps> = ({ onCreditClick, onCapOrigClick, onDealOrigClick }) => {
   return (
     <section id="capabilities" className="py-32 bg-obsidian border-b border-white/5 relative">
       <div className="max-w-7xl mx-auto px-6 md:px-12">

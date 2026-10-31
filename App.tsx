@@ -6,7 +6,6 @@ import { Login } from './components/Login';
 import { ContactModal } from './components/ContactModal';
 import { Thesis } from './components/Thesis';
 import { PrivateCredit } from './components/PrivateCredit';
-import { Mandates } from './components/Mandates';
 import { Team } from './components/Team';
 import { Inquire } from './components/Inquire';
 import { Terms } from './components/legal/Terms';
@@ -22,7 +21,7 @@ import { IntelligenceArticle } from './components/intelligence/IntelligenceArtic
 import { DealOrigination } from './components/DealOrigination';
 import { Regulatory } from './components/Regulatory';
 
-type View = 'home' | 'login' | 'lp-portal' | 'thesis' | 'private-credit' | 'mandates' | 'team' | 'inquire' | 'terms' | 'privacy' | 'cookies' | 'dataroom' | 'capital-origination' | 'deal-origination' | 'regulatory';
+type View = 'home' | 'login' | 'lp-portal' | 'thesis' | 'private-credit' | 'team' | 'inquire' | 'terms' | 'privacy' | 'cookies' | 'dataroom' | 'capital-origination' | 'deal-origination' | 'regulatory';
 
 const viewToPath = (view: View): string => {
   const routes: Record<string, string> = {
@@ -32,7 +31,6 @@ const viewToPath = (view: View): string => {
     'deal-origination': '/deal-origination',
     'private-credit': '/private-credit',
     'thesis': '/thesis',
-    'mandates': '/mandates',
     'inquire': '/inquire',
     'regulatory': '/regulatory',
     'dataroom': '/dataroom',
@@ -50,7 +48,6 @@ const pathToView = (path: string): View => {
     '/deal-origination': 'deal-origination',
     '/private-credit': 'private-credit',
     '/thesis': 'thesis',
-    '/mandates': 'mandates',
     '/inquire': 'inquire',
     '/regulatory': 'regulatory',
     '/dataroom': 'dataroom',
@@ -67,7 +64,6 @@ const seoTitles: Record<View, string> = {
   'deal-origination': 'Deal Origination | Roials Capital',
   'private-credit': 'Asset-Backed Liquidity | Roials Capital',
   'thesis': 'Thesis | Roials Capital',
-  'mandates': 'Private Equity | Roials Capital',
   'inquire': 'Inquire | Roials Capital',
   'regulatory': 'Regulatory & Firm Architecture | Roials Capital',
   'dataroom': 'Data Room | Roials Capital',
@@ -259,7 +255,6 @@ const App: React.FC = () => {
           onHomeClick={() => { window.location.href = '/'; }}
           onThesisClick={() => { window.location.href = '/thesis'; }}
           onCreditClick={() => { window.location.href = '/private-credit'; }}
-          onMandatesClick={() => { window.location.href = '/mandates'; }}
           onCapOrigClick={() => { window.location.href = '/capital-origination'; }}
           onDealOrigClick={() => { window.location.href = '/deal-origination'; }}
           onTeamClick={() => { window.location.href = '/board-partners'; }}
@@ -291,7 +286,6 @@ const App: React.FC = () => {
           onLoginClick={() => { window.location.href = '/login'; }}
           onThesisClick={() => { window.location.href = '/thesis'; }}
           onPrivateCreditClick={() => { window.location.href = '/private-credit'; }}
-          onMandatesClick={() => { window.location.href = '/mandates'; }}
           onTeamClick={() => { window.location.href = '/board-partners'; }}
           onInquireClick={() => { window.location.href = '/'; }}
           onTermsClick={() => { window.location.href = '/regulatory'; }}
@@ -313,7 +307,6 @@ const App: React.FC = () => {
         onHomeClick={() => handleViewChange('home')}
         onThesisClick={() => handleViewChange('thesis')}
         onCreditClick={() => handleViewChange('private-credit')}
-        onMandatesClick={() => handleViewChange('mandates')}
         onCapOrigClick={() => handleViewChange('capital-origination')}
         onDealOrigClick={() => handleViewChange('deal-origination')}
         onTeamClick={() => handleViewChange('team')}
@@ -345,7 +338,6 @@ const App: React.FC = () => {
             <Home
               onInquireClick={() => handleViewChange('inquire')}
               onTeamClick={() => handleViewChange('team')}
-              onEquityClick={() => handleViewChange('mandates')}
               onCreditClick={() => handleViewChange('private-credit')}
               onCapOrigClick={() => handleViewChange('capital-origination')}
               onDealOrigClick={() => handleViewChange('deal-origination')}
@@ -365,12 +357,6 @@ const App: React.FC = () => {
           )}
           {currentView === 'private-credit' && (
             <PrivateCredit onInquireClick={() => handleViewChange('inquire')} />
-          )}
-          {currentView === 'mandates' && (
-            <Mandates
-              onInquireClick={() => handleViewChange('inquire')}
-              onThesisClick={() => handleViewChange('thesis')}
-            />
           )}
           {currentView === 'team' && (
             <Team onThesisClick={() => handleViewChange('thesis')} />
@@ -396,7 +382,6 @@ const App: React.FC = () => {
           onLoginClick={() => handleViewChange('login')}
           onThesisClick={() => handleViewChange('thesis')}
           onPrivateCreditClick={() => handleViewChange('private-credit')}
-          onMandatesClick={() => handleViewChange('mandates')}
           onTeamClick={() => handleViewChange('team')}
           onInquireClick={() => handleViewChange('inquire')}
           onRegulatoryClick={() => handleViewChange('regulatory')}
