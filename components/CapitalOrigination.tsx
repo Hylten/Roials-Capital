@@ -100,7 +100,7 @@ export const CapitalOrigination: React.FC<CapitalOriginationProps> = ({ onFirmCl
           <section>
             <div className="flex flex-col md:flex-row items-baseline gap-4 mb-8 border-b border-white/10 pb-4">
               <span className="font-sans text-xs font-bold text-oldgold uppercase tracking-[0.3em]">
-                TARGET
+                CLIENT FOCUS
               </span>
             </div>
             <p className="font-sans text-lg md:text-xl text-gray-400 font-light leading-relaxed">
