@@ -61,11 +61,11 @@ const pathToView = (path: string): View => {
 };
 
 const seoTitles: Record<View, string> = {
-  'home': 'Roials Capital | Institutional Asset Architects',
+  'home': 'Off-Market Deal Origination | Roials Capital',
   'team': 'Board & Partners | Roials Capital',
   'capital-origination': 'Capital Origination | Roials Capital',
   'deal-origination': 'Deal Origination | Roials Capital',
-  'private-credit': 'Private Credit | Roials Capital',
+  'private-credit': 'Asset-Backed Liquidity | Roials Capital',
   'thesis': 'Thesis | Roials Capital',
   'mandates': 'Private Equity | Roials Capital',
   'inquire': 'Inquire | Roials Capital',

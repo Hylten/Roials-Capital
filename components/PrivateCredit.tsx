@@ -6,7 +6,7 @@ interface PrivateCreditProps {
 
 export const PrivateCredit: React.FC<PrivateCreditProps> = ({ onInquireClick }) => {
   useEffect(() => {
-    document.title = "Private Credit | Roials Capital";
+    document.title = "Asset-Backed Liquidity | Roials Capital";
   }, []);
 
   return (

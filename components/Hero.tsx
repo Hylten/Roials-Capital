@@ -30,7 +30,7 @@ export const Hero: React.FC<HeroProps> = ({ onInquireClick }) => {
 
       <div className="relative z-10 max-w-6xl mx-auto px-6 text-center">
         <h1 className="font-serif font-medium text-5xl md:text-7xl lg:text-8xl text-platinum leading-tight tracking-tight mb-10 drop-shadow-2xl">
-          LIQUIDITY. ENGINEERED.
+          ORIGINATION. ENGINEERED.
         </h1>
         
         <div className="w-24 h-[1px] bg-oldgold mx-auto mb-12 shadow-[0_0_15px_rgba(197,160,89,0.6)]"></div>

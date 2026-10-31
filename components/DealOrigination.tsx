@@ -9,16 +9,13 @@ const pillars = [
     number: '01',
     title: 'MANDATE',
     description:
-      'Proprietary target acquisition for institutional buyouts across the EMEA mid-market, executing cross-border platform consolidation. Operations managed directly through the senior advisory ',
-    linkText: 'board',
-    postLink:
-      ' and executed through proprietary agentic origination workflows with institutional human-in-the-loop governance. Engineered for closed-loop counterparty progression and institutional execution quality. Securing asymmetrical access to the proprietary opportunity set that never reaches traditional intermediary networks, reached through agent-researched personalized principal-to-principal engagement.',
+      'Proprietary off-market sourcing for private equity buyouts and add-ons worldwide. We engage owners directly and qualify targets before competitive processes.',
   },
   {
     number: '02',
     title: 'PARAMETERS',
     description:
-      'Focus: High-cashflow private enterprises and core operating assets anchored by a rigorous minimum DSCR standard of 2.0 and strict capital discipline.\n\nExecution: Principal-to-principal framework powered by proprietary GTM-engineering and autonomous agentic workflows, grounded in disciplined LBO underwriting and absolute alignment of interest.\n\nCapacity: Strictly selective transaction volume capped to preserve execution velocity and strategic precision.',
+      'Focus: Buyout and add-on targets aligned with your acquisition thesis.\n\nExecution: GTM Engineering combines AI-enabled research, systematic target identification and direct owner outreach.\n\nExecution scope: From initial owner outreach to negotiations and closing support, tailored to each mandate.',
   },
 ];
 
