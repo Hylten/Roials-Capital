@@ -25,10 +25,10 @@ export const Thesis: React.FC<ThesisProps> = ({ onInquireClick }) => {
                     <span className="font-sans text-xs font-bold text-oldgold uppercase tracking-[0.3em]">01. THE PARADIGM</span>
                 </div>
                 <h2 className="font-serif text-2xl md:text-3xl text-platinum mb-6 leading-tight uppercase tracking-wide">
-                    CAPITAL HAS EVOLVED. THE METHOD HASN’T.
+                    THE BEST ACQUISITIONS ARE OFTEN NEVER MARKETED.
                 </h2>
                 <p className="font-sans text-lg md:text-xl text-gray-400 font-light leading-relaxed">
-                    In an era defined by quantitative tightening and algorithmic market dynamics, traditional capital advisory relies on outdated analog networks. The old model of passive brokerage is obsolete. Today, liquidity is not found; it is engineered through precision narrative and data-driven infrastructure.
+                    Competitive auction processes create crowded environments for buyers. Proprietary deal origination starts before a company enters the market. We identify acquisition targets, establish direct owner relationships and develop opportunities beyond traditional sale processes.
                 </p>
             </section>
 
@@ -38,10 +38,10 @@ export const Thesis: React.FC<ThesisProps> = ({ onInquireClick }) => {
                     <span className="font-sans text-xs font-bold text-oldgold uppercase tracking-[0.3em]">02. THE ARCHITECTURE</span>
                 </div>
                 <h2 className="font-serif text-2xl md:text-3xl text-platinum mb-6 leading-tight uppercase tracking-wide">
-                    ASSET ARCHITECTURE.
+                    ACQUISITION THESIS. ENGINEERED.
                 </h2>
                 <p className="font-sans text-lg md:text-xl text-gray-400 font-light leading-relaxed">
-                    We do not view capital raising solely as a sales function, but as a structural discipline. By treating investment opportunities as architectural products, we bridge the gap between Principal vision and Institutional mandates. We integrate sovereign-grade financial structuring with the precision of modern digital distribution.
+                    Every mandate starts with the investment thesis. We translate acquisition criteria into a structured target universe through GTM Engineering, AI-enabled research, systematic target identification and prioritised owner outreach.
                 </p>
             </section>
 
@@ -51,43 +51,33 @@ export const Thesis: React.FC<ThesisProps> = ({ onInquireClick }) => {
                     <span className="font-sans text-xs font-bold text-oldgold uppercase tracking-[0.3em]">03. THE EXECUTION</span>
                 </div>
                 <h2 className="font-serif text-2xl md:text-3xl text-platinum mb-6 leading-tight uppercase tracking-wide">
-                    PRINCIPAL-LED ALIGNMENT.
+                    DIRECT OWNER ENGAGEMENT.
                 </h2>
                 <p className="font-sans text-lg md:text-xl text-gray-400 font-light leading-relaxed mb-16">
-                    We operate where others advise. As an independent sponsor and strategic partner, our interests are tethered to the outcome. We replace 'best efforts' with 'retained execution,' ensuring that every mandate is positioned not just to compete, but to dominate the allocation queue of global LPs.
+                    Research is only the starting point. We engage owners directly, assess interest and strategic fit, qualify opportunities and support owner negotiations. Each mandate is tailored to the acquisition strategy, from initial outreach to negotiation and closing support.
                 </p>
             </section>
 
         </div>
 
-        {/* Section 4: Board Perspective */}
+        {/* Section 4: Investment Focus */}
         <section>
             <div className="flex flex-col md:flex-row items-baseline gap-4 mb-8 border-b border-white/10 pb-4">
-                <span className="font-sans text-xs font-bold text-oldgold uppercase tracking-[0.3em]">04. BOARD PERSPECTIVE</span>
+                <span className="font-sans text-xs font-bold text-oldgold uppercase tracking-[0.3em]">04. INVESTMENT FOCUS</span>
             </div>
             <h2 className="font-serif text-2xl md:text-3xl text-platinum mb-6 leading-tight uppercase tracking-wide">
-                STRUCTURAL FRICTION.
+                CONTROL. PLATFORM. ADD-ONS.
             </h2>
             <p className="font-sans text-lg md:text-xl text-gray-400 font-light leading-relaxed">
-                Every mandate begins with a forensic examination of structural friction. Liquidity architecture, governance posture, portfolio concentration, and disclosure exposure. We surface these dimensions before capital contact, structuring around them rather than through them.
+                We work with private equity principals pursuing buyouts, majority acquisitions and control investments. Our focus is sourcing platform and add-on targets for private equity buyout strategies.
             </p>
             <p className="font-sans text-lg md:text-xl text-gray-400 font-light leading-relaxed mt-6">
-                This is the discipline that separates engineered capital formation from placement.
+                Off-market acquisition origination is our primary mandate. Selective institutional capital introductions may complement relevant transactions.
             </p>
             <p className="font-sans text-lg md:text-xl text-gray-400 font-light leading-relaxed mt-6">
-                Mandate-specific analyses disclosed under NDA in qualifying discovery calls.
+                Mandate-specific target mapping and origination strategies disclosed under NDA in qualifying discovery calls.
             </p>
         </section>
-
-        {/* Minimalist CTA Section - Interactive Scarcity Text */}
-        <div className="mt-32 pt-4 border-t border-white/5 text-center">
-            <button 
-                onClick={onInquireClick}
-                className="font-sans text-[10px] text-gray-600 hover:text-oldgold uppercase tracking-[0.4em] font-bold transition-colors duration-700 cursor-pointer p-20 focus:outline-none"
-            >
-               Capped at ~3 mandates annually.
-            </button>
-        </div>
 
       </div>
     </div>
