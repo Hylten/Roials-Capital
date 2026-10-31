@@ -69,11 +69,13 @@ async function generateSEO() {
   const routeMetadata = {
     '/deal-origination/': {
       title: 'Deal Origination | Roials Capital',
+      canonical: `${SITE_URL}/deal-origination/`,
       description: 'Proprietary off-market sourcing worldwide, combining GTM Engineering, AI-enabled research, owner outreach, owner negotiations and senior M&A judgement.',
       ogDescription: 'Systematic target sourcing, direct owner outreach, owner negotiations and senior M&A judgement for proprietary acquisition origination worldwide.'
     },
     '/private-credit/': {
       title: 'Asset-Backed Liquidity | Roials Capital',
+      canonical: `${SITE_URL}/private-credit/`,
       description: 'Independent advisory for asset-backed liquidity, combining institutional lender access, collateral-based structuring and financing solutions for complex portfolios.',
       ogDescription: 'Institutional credit access and asset-backed liquidity, structured around eligible collateral, lender terms and portfolio capital needs.'
     }
@@ -83,6 +85,7 @@ async function generateSEO() {
     const routeHtml = baseHtml
       .replace(/<title>[^<]*<\/title>/, `<title>${metadata.title}</title>`)
       .replace(/<meta name="description" content="[^"]*" \/>/, `<meta name="description" content="${metadata.description}" />`)
+      .replace(/<link rel="canonical" href="[^"]*" \/>/, `<link rel="canonical" href="${metadata.canonical}" />`)
       .replace(/<meta property="og:url" content="[^"]*" \/>/, `<meta property="og:url" content="${SITE_URL}${route}" />`)
       .replace(/<meta property="og:title" content="[^"]*" \/>/, `<meta property="og:title" content="${metadata.title}" />`)
       .replace(/<meta property="og:description" content="[^"]*" \/>/, `<meta property="og:description" content="${metadata.ogDescription}" />`)

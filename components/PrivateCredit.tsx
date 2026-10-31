@@ -26,13 +26,13 @@ export const PrivateCredit: React.FC<PrivateCreditProps> = ({ onInquireClick }) 
 
         <div className="relative z-10 max-w-5xl mx-auto px-6 text-center">
           <div className="inline-block border border-oldgold/50 px-4 py-1 mb-6 bg-obsidian/50 backdrop-blur-md">
-            <span className="font-mono text-xs text-oldgold uppercase tracking-[0.2em]">The Liquidity Aggregator</span>
+            <span className="font-mono text-xs text-oldgold uppercase tracking-[0.2em]">INSTITUTIONAL LIQUIDITY</span>
           </div>
           <h1 className="font-display font-medium text-4xl md:text-6xl lg:text-7xl text-platinum tracking-wide mb-6 leading-tight">
-            GLOBAL CREDIT <br/> ARCHITECTURE
+            ASSET-BACKED <br/> LIQUIDITY
           </h1>
           <p className="font-sans text-gray-300 text-lg md:text-xl font-medium tracking-[0.15em] uppercase max-w-3xl mx-auto">
-            TIER-ONE INSTITUTIONAL SOURCES.
+            SPECIALIST LENDER ACCESS.
           </p>
         </div>
       </section>
@@ -50,25 +50,25 @@ export const PrivateCredit: React.FC<PrivateCreditProps> = ({ onInquireClick }) 
                 </h2>
                 <div className="w-12 h-[1px] bg-oldgold mb-8"></div>
                 <p className="font-sans text-gray-400 text-lg leading-relaxed font-light mb-4">
-                  Direct access to tier-one institutional credit sources across public securities, digital assets, and real assets, structured to create competitive tension among lenders and secure optimized term sheets.
+                  Access to institutional credit against eligible securities and real assets, structured to create lender competition and improve financing terms.
                 </p>
                 <p className="font-sans text-gray-400 text-lg leading-relaxed font-light mb-6">
-                  Operating strictly as an independent advisory boutique structuring bespoke liquidity solutions for high-complexity portfolios.
+                  Independent advisory for complex asset-backed financing mandates, aligned with portfolio liquidity and capital needs.
                 </p>
             </div>
 
             <div className="space-y-8">
                 <div className="border-l-2 border-white/10 pl-6 hover:border-oldgold transition-colors duration-300">
                     <h3 className="font-display text-lg text-platinum mb-1 uppercase tracking-wide">Non-Recourse Structures</h3>
-                    <p className="font-sans text-sm text-gray-400 leading-relaxed">Liability limited strictly to pledged collateral under specific underwriting terms.</p>
+                    <p className="font-sans text-sm text-gray-400 leading-relaxed">Financing secured against pledged collateral, subject to lender underwriting and agreed terms.</p>
                 </div>
                 <div className="border-l-2 border-white/10 pl-6 hover:border-oldgold transition-colors duration-300">
-                    <h3 className="font-display text-lg text-platinum mb-1 uppercase tracking-wide">Non-Purpose Deployment</h3>
-                    <p className="font-sans text-sm text-gray-400 leading-relaxed">Unrestricted liquidity for strategic yield, real estate acquisition, or capital management.</p>
+                    <h3 className="font-display text-lg text-platinum mb-1 uppercase tracking-wide">FLEXIBLE USE OF PROCEEDS</h3>
+                    <p className="font-sans text-sm text-gray-400 leading-relaxed">Liquidity for eligible strategic, acquisition or capital-management needs, subject to facility terms.</p>
                 </div>
                  <div className="border-l-2 border-white/10 pl-6 hover:border-oldgold transition-colors duration-300">
                     <h3 className="font-display text-lg text-platinum mb-1 uppercase tracking-wide">Contractual Protection</h3>
-                    <p className="font-sans text-sm text-gray-400 leading-relaxed">Enforceable safeguards governing asset security and risk management.</p>
+                    <p className="font-sans text-sm text-gray-400 leading-relaxed">Contractual safeguards governing collateral, lender rights and risk allocation.</p>
                 </div>
             </div>
           </div>
